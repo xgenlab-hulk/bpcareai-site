@@ -1,11 +1,12 @@
 ---
-title: Portion Control Strategies for Large Family Meals That Work
+title: >-
+  Portion Control at Family Meals: What Works for Adults Over 50
 slug: portion-control-strategies-for-large-family-meals-that-work
 description: >-
-  Provides visual cues, plate division methods, and serving techniques to help older adults avoid overeating at shared dinners.
+  9-inch plates cut self-serving 22%; counter serving cuts refills 30%. The Plate Method helps older adults manage blood pressure (systolic BP) and weight.
 date: '2025-12-13'
-updated: '2025-12-13'
-primaryKeyword: portion control at family meals
+updated: '2026-03-29'
+primaryKeyword: portion control tips for older adults at family meals
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  3-Min Exercises to Restore Gut Movement After Holidays (73+)
 slug: quick-ways-to-restore-post-holiday-gut-motility-in-adults-73-with-chronic-constipation-and-polypharmacy
 description: >-
-  Offers 3-minute, no-equipment interventions—supine diaphragmatic breathing, seated abdominal self-massage, and timed warm herbal sips—that bypass medication interactions and stimulate intrinsic neural pathways.
+  Holidays slow digestion (colonic transit) 25% in adults 70+. Belly breathing, abdominal massage, and warm herbal sips restore motility without drug conflicts.
 date: '2026-02-10'
-updated: '2026-02-10'
-primaryKeyword: restore gut motility post-holiday seniors
+updated: '2026-03-29'
+primaryKeyword: relieve constipation after holidays for seniors
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

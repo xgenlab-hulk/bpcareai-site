@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Holiday Gravy Causes Joint Swelling in Seniors Over 50
 slug: what-causes-sudden-post-holiday-joint-swelling-only-after-eating-your-daughter-s-homemade-gravy-the-role-of-histamine-rich-fermented-ingredients-mast-cell-priming-and-age-related-dao-decline
 description: >-
-  Connects food-derived histamine, enzymatic deficiency, and immune sensitization to acute arthritic flares triggered by traditional holiday condiments—and offers low-histamine preparation alternatives.
+  The histamine enzyme (DAO) drops 30-40% by age 70. Slow-cooked foods trigger joint flares via immune priming (mast cell activation). Try low-histamine swaps.
 date: '2026-02-12'
-updated: '2026-02-12'
-primaryKeyword: post-holiday joint swelling gravy histamine seniors
+updated: '2026-03-29'
+primaryKeyword: joint swelling after holiday meals histamine in seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

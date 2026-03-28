@@ -1,11 +1,12 @@
 ---
 title: >-
+  Post-Dinner Brain Fog With Diabetes After 65: When to Worry
 slug: when-to-worry-about-post-dinner-brain-fog-distinguishing-carbohydrate-induced-neuroglycopenia-from-early-cerebral-microvascular-dysregulation-in-adults-65-with-long-standing-diabetes
 description: >-
-  Guides readers in differentiating transient low-brain-glucose symptoms from subtle cerebrovascular changes triggered by high-glycemic holiday meals using timing, posture, and cognitive testing cues.
+  Glucose reads miss brain fuel gaps in 61% of high-carb meals. Tell apart low brain glucose (neuroglycopenia) from vessel changes using timing and posture cues.
 date: '2026-02-27'
-updated: '2026-02-27'
-primaryKeyword: post-dinner brain fog diabetes 65+
+updated: '2026-03-29'
+primaryKeyword: why do I get brain fog after dinner with diabetes over 65
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

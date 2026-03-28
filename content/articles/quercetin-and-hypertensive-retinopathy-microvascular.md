@@ -1,11 +1,12 @@
 ---
 title: >-
+  Can Quercetin Improve Retinal Microvascular Health in Hypertension?
 slug: does-daily-200-mg-quercetin-supplementation-really-improve-microvascular-reactivity-in-adults-59-66-with-hypertensive-retinopathy-a-12-week-rct-analysis
 description: >-
-  Presents original clinical trial data on flavonoid dosing, retinal arteriolar response, and central augmentation index changes in early end-organ damage.
+  A 12-week trial of 84 adults 59-66 found 200mg quercetin improved retinal blood vessel function (microvascular reactivity) in hypertensive retinopathy.
 date: '2026-02-27'
-updated: '2026-02-27'
-primaryKeyword: quercetin and hypertensive retinopathy microvascular
+updated: '2026-03-29'
+primaryKeyword: quercetin for hypertensive retinopathy microvascular health
 topicCluster: special-populations
 image: ''
 relatedSlugs:

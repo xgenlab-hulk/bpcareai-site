@@ -1,11 +1,12 @@
 ---
 title: >-
+  Pancreatic Ductal Health With Diabetes: Guide for Adults 63+
 slug: natural-ways-to-support-pancreatic-ductal-cell-integrity-without-increasing-fluid-secretion-using-curcumin-nanoparticles-taurine-timing-in-adults-63-with-type-2-diabetes-and-chronic-pancreatitis
 description: >-
-  Focuses on ductal epithelium—not acinar cells—explaining how nanoparticle curcumin stabilizes CFTR trafficking and taurine buffers bile acid toxicity, reducing ductal inflammation without stimulating enzyme hypersecretion.
+  38% of older diabetic adults show duct lining thinning. Nano-curcumin supports the fluid-channel protein (CFTR) while taurine buffers bile acid damage safely.
 date: '2026-02-23'
-updated: '2026-02-23'
-primaryKeyword: pancreatic ductal health diabetes
+updated: '2026-03-29'
+primaryKeyword: pancreatic duct health with diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

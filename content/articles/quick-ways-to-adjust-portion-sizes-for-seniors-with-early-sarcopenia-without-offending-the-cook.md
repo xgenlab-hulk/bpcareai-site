@@ -1,11 +1,12 @@
 ---
 title: >-
+  Portion Tips for Seniors 65+ With Early Muscle Loss (Sarcopenia)
 slug: quick-ways-to-adjust-portion-sizes-for-seniors-with-early-sarcopenia-without-offending-the-cook
 description: >-
-  Actionable, culturally sensitive strategies (visual cues, plate swapping, strategic timing) to reduce calorie density while preserving protein and micronutrient intake—ideal for adults 65–82 experiencing age-related muscle loss.
+  Seniors losing muscle need smart portions, not less food. A 9-inch plate cuts intake 22% while preserving protein for lean mass (muscle protein synthesis).
 date: '2026-01-09'
-updated: '2026-01-09'
-primaryKeyword: portion control sarcopenia seniors
+updated: '2026-03-29'
+primaryKeyword: how to adjust portions with muscle loss after 65
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

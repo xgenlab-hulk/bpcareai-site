@@ -1,11 +1,12 @@
 ---
 title: >-
+  When Dizziness and Fast Pulse May Signal Cardiac Sarcoidosis
 slug: what-are-the-earliest-signs-your-mild-orthostatic-tachycardia-is-actually-masking-early-cardiac-sarcoidosis-especially-with-concurrent-uveitis-and-subtle-skin-lesions-in-adults-54-61
 description: >-
-  Highlights atypical presentations of inflammatory cardiomyopathy where autonomic testing misleads, and dermatologic/ophthalmologic clues precede cardiac MRI confirmation.
+  12% of sarcoidosis patients develop heart inflammation (cardiac sarcoidosis), often misdiagnosed as standing dizziness. Eye and skin clues raise detection 3-4x.
 date: '2026-02-12'
-updated: '2026-02-12'
-primaryKeyword: orthostatic tachycardia cardiac sarcoidosis
+updated: '2026-03-29'
+primaryKeyword: dizziness and fast pulse hiding cardiac sarcoidosis
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

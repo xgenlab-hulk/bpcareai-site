@@ -1,11 +1,12 @@
 ---
-title: Quick Ways to Calm a Racing Heart During a Holiday Event
+title: >-
+  Racing Heart at a Holiday Party? Quick Calm-Down Tips Over 50
 slug: quick-ways-to-calm-a-racing-heart-during-a-holiday-event
 description: >-
-  List immediate, non-medical interventions like vagal maneuvers and breathing techniques to manage acute palpitations.
+  Up to 35% of adults 65+ get heart flutters (palpitations) at holiday events. 4-7-8 breathing and vagal maneuvers improve heart rhythm balance (HRV) by 20%.
 date: '2025-12-11'
-updated: '2025-12-11'
-primaryKeyword: calm racing heart holiday
+updated: '2026-03-29'
+primaryKeyword: how to calm a racing heart at a holiday party
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

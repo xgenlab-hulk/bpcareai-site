@@ -1,11 +1,12 @@
 ---
 title: >-
+  No-Sugar-Added Soups Still Spike Blood Sugar: Here's Why After 65
 slug: the-truth-about-no-sugar-added-canned-soups-marketed-to-seniors-why-83-contain-hidden-sodium-induced-sympathetic-activation-and-nighttime-glucose-spikes-in-adults-69-with-hypertension
 description: >-
-  Investigates how high sodium (often >800mg/serving) in 'healthy' soups triggers catecholamine release, impairs nocturnal insulin sensitivity, and worsens dawn phenomenon—despite zero added sugar.
+  83% of no-sugar-added soups top 800mg sodium, triggering stress hormones (catecholamines) that cut overnight insulin sensitivity 20% in seniors.
 date: '2026-02-23'
-updated: '2026-02-23'
-primaryKeyword: no-sugar-added soup sodium diabetes
+updated: '2026-03-29'
+primaryKeyword: no sugar added soup hidden sodium diabetes risk
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

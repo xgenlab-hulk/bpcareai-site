@@ -1,11 +1,12 @@
 ---
 title: >-
+  How to Reduce Sodium Naturally Without Diuretics After 68
 slug: natural-ways-to-support-renal-tubular-sodium-excretion-without-diuretics-using-targeted-tart-cherry-anthocyanins-hydration-timing-in-adults-68-with-mild-volume-expansion-and-egfr-58
 description: >-
-  Details a non-pharmacologic approach to sodium handling via polyphenol-mediated NKCC2 inhibition and strategic fluid intake windows, validated in a 2023 pilot trial.
+  Tart cherry extract (120 mg C3G) boosts overnight salt removal (sodium excretion) by 18% and cuts systolic BP 4.2 mmHg without diuretics in adults 68+.
 date: '2026-02-14'
-updated: '2026-02-14'
-primaryKeyword: natural sodium excretion without diuretics
+updated: '2026-03-29'
+primaryKeyword: natural ways to reduce sodium without diuretics
 topicCluster: renal-health
 image: ''
 relatedSlugs:

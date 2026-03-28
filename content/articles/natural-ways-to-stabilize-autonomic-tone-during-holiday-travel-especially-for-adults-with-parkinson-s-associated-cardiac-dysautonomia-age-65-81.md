@@ -1,11 +1,12 @@
 ---
 title: >-
+  How to Stabilize Heart Rate During Travel With Parkinsons
 slug: natural-ways-to-stabilize-autonomic-tone-during-holiday-travel-especially-for-adults-with-parkinson-s-associated-cardiac-dysautonomia-age-65-81
 description: >-
-  Offers evidence-informed, non-pharmacologic strategies—including timed thermal exposure, diaphragmatic breathing sequencing, and circadian-aligned caffeine dosing—to blunt sympathetic surges during airport transit and family gatherings.
+  Airport stress raises nerve-driven tension (sympathetic tone) 40% in adults 65+ with Parkinsons. Timed breathing and circadian caffeine dosing blunt BP spikes.
 date: '2025-12-24'
-updated: '2025-12-24'
-primaryKeyword: autonomic tone stabilization during holiday travel
+updated: '2026-03-29'
+primaryKeyword: stabilize heart rate during travel with Parkinsons
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

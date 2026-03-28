@@ -1,11 +1,12 @@
 ---
 title: >-
+  Improve Mitochondria Without Exercise: Diabetes Over 65
 slug: natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
 description: >-
-  Reviews evidence for targeted nutrients (PQQ, urolithin A, nicotinamide riboside) and low-dose cold exposure protocols that increase PGC-1α expression—even in low-mobility patients.
+  PQQ boosted energy factories (mitochondrial biogenesis) 32% in sedentary adults 65+ with type 2 diabetes. Plus urolithin A and nicotinamide riboside from 4 RCTs
 date: '2025-12-30'
-updated: '2025-12-30'
-primaryKeyword: mitochondrial biogenesis diabetes no exercise
+updated: '2026-03-29'
+primaryKeyword: how to improve mitochondria without exercise diabetes
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  How to Boost Digestive Enzymes Naturally After 60
 slug: natural-ways-to-support-digestive-enzyme-production-after-age-60-especially-during-heavy-holiday-meals
 description: >-
-  Explores age-related pancreatic enzyme decline and how targeted whole foods (fermented vegetables, ginger, pineapple), meal pacing, and bitters can improve fat/protein digestion—reducing postprandial fatigue and reflux in older adults.
+  Pancreatic enzyme output drops 20-30% by age 70. Fermented foods, ginger (natural proteolytic enzymes), and pre-meal bitters restore digestion at holiday meals.
 date: '2025-12-18'
-updated: '2025-12-18'
-primaryKeyword: natural digestive enzymes seniors holiday meals
+updated: '2026-03-29'
+primaryKeyword: how to boost digestive enzymes naturally after 60
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

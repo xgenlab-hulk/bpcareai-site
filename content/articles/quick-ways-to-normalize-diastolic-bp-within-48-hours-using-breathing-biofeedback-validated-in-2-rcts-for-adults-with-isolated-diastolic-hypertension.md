@@ -1,11 +1,12 @@
 ---
 title: >-
+  Breathing Exercises That Lower Diastolic BP in 48 Hours
 slug: quick-ways-to-normalize-diastolic-bp-within-48-hours-using-breathing-biofeedback-validated-in-2-rcts-for-adults-with-isolated-diastolic-hypertension
 description: >-
-  Presents a step-by-step, device-agnostic protocol using paced breathing (5.5 breaths/min) with real-time HRV feedback to restore vagal tone and reduce DBP in under-65 adults.
+  Breathing at 5.5 breaths/min with heart rate feedback (HRV biofeedback) cut diastolic BP in 2 trials. Boosts calming nerve tone (vagal tone). No gear needed.
 date: '2025-12-30'
-updated: '2025-12-30'
-primaryKeyword: lower diastolic blood pressure in 48 hours
+updated: '2026-03-29'
+primaryKeyword: lower diastolic blood pressure with breathing
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  When to Actually Check Blood Sugar With Slow Digestion (67+)
 slug: 12-science-backed-times-to-measure-postprandial-glucose-after-dinner-not-just-at-2-hours-for-adults-67-with-gastroparesis-like-symptoms-and-variable-gastric-emptying
 description: >-
-  Introduces gastric emptying–adjusted glucose sampling windows using symptom diaries and breath acetone correlations to capture true peak excursions in delayed digestion.
+  The 2-hour check misses glucose peaks in 61% of meals with slow stomachs (gastroparesis). Try 2.5-5 hour windows with symptom diaries to capture real spikes.
 date: '2026-02-10'
-updated: '2026-02-10'
-primaryKeyword: postprandial glucose timing gastroparesis seniors
+updated: '2026-03-29'
+primaryKeyword: when to check blood sugar after eating with slow digestion
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

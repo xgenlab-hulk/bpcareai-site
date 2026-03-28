@@ -1,11 +1,12 @@
 ---
 title: >-
+  Pet Dander and Holiday Glucose Spikes: Why Only at His House?
 slug: why-your-holiday-glucose-readings-are-higher-only-when-visiting-your-son-s-house-the-role-of-pet-dander-induced-systemic-inflammation-in-adults-66-with-subclinical-asthma-and-t2d
 description: >-
-  Links allergen-triggered IL-6 and TNF-alpha surges to transient insulin resistance and impaired GLUT4 translocation — explaining location-specific glucose dysregulation not attributable to diet or activity changes.
+  Pet allergens raise inflammation (IL-6, TNF-α) 30-50% in hours, cutting sugar uptake (GLUT4) and causing 30-60 mg/dL spikes — even with the same meals.
 date: '2026-02-13'
-updated: '2026-02-13'
-primaryKeyword: pet dander holiday glucose spikes
+updated: '2026-03-29'
+primaryKeyword: pet dander and blood sugar spikes holidays
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

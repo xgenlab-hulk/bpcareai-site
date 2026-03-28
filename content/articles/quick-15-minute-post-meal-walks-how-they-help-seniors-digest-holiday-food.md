@@ -1,11 +1,12 @@
 ---
-title: 'Quick 15-Minute Post-Meal Walks: How They Help Seniors Digest Holiday Food'
+title: >-
+  How 15-Minute Post-Meal Walks Help Seniors Digest Holiday Food
 slug: quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
 description: >-
-  Simple physical activity advice to improve glucose metabolism and digestion after large meals, backed by research in aging populations.
+  Post-meal walks cut blood sugar spikes (postprandial glucose) 22% in adults 60+. Walking activates muscle sugar transporters (GLUT4) better than one long walk.
 date: '2025-11-28'
-updated: '2025-11-28'
-primaryKeyword: post-meal walks for seniors holiday
+updated: '2026-03-29'
+primaryKeyword: post-meal walks for seniors to digest holiday food
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

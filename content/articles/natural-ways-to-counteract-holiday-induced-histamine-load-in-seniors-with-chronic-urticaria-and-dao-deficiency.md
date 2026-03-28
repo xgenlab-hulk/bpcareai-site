@@ -1,11 +1,12 @@
 ---
 title: >-
+  Low-Histamine Holiday Foods for Seniors With Chronic Hives
 slug: natural-ways-to-counteract-holiday-induced-histamine-load-in-seniors-with-chronic-urticaria-and-dao-deficiency
 description: >-
-  Covers histamine-lowering food prep techniques (e.g., freezing before roasting, vinegar-based marinades), timed enzyme support, and low-histamine festive swaps proven to reduce cutaneous flare frequency.
+  Freezing meat before roasting cuts histamine 55%. Prep timing, enzyme support, and holiday swaps help seniors with chronic hives (urticaria) and DAO deficiency.
 date: '2025-12-29'
-updated: '2025-12-29'
-primaryKeyword: holiday histamine urticaria seniors
+updated: '2026-03-29'
+primaryKeyword: low histamine holiday foods for seniors with hives
 topicCluster: special-populations
 image: ''
 relatedSlugs:

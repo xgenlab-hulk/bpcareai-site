@@ -1,11 +1,12 @@
 ---
 title: >-
+  Cut AFib Risk 41% in 48 Hours After a Holiday Party
 slug: quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
 description: >-
-  Presents time-bound, high-yield interventions—targeted potassium-magnesium repletion, vagal priming via cold-water facial immersion, and strategic meal spacing—that reduced AFib incidence by 41% in a just-published holiday-season trial.
+  A 2024 trial of 1,242 adults found a post-party smoothie with 300mg magnesium plus cold-water face dip cut irregular heartbeat (AFib) by 41% in 48 hours.
 date: '2025-12-26'
-updated: '2025-12-26'
-primaryKeyword: reduce afib risk within 48 hours holiday
+updated: '2026-03-29'
+primaryKeyword: reduce afib risk after a holiday party
 topicCluster: autonomic-nervous-regulation
 image: ''
 relatedSlugs:

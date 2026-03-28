@@ -1,11 +1,12 @@
 ---
-title: Quick Ways to Lower High Blood Sugar After a Holiday Meal
+title: >-
+  Blood Sugar Spiked After Holiday Dinner? 5 Quick Fixes Over 50
 slug: quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
 description: >-
-  Immediate, safe actions to take if glucose readings spike after indulging during festive dinners.
+  A 15-min walk cuts post-meal sugar spikes (postprandial glucose) up to 20%. Plus hydration tips to bring readings under 180 mg/dL faster after festive meals.
 date: '2025-11-30'
-updated: '2025-11-30'
-primaryKeyword: lower blood sugar after holiday meal
+updated: '2026-03-29'
+primaryKeyword: how to lower blood sugar after a holiday meal
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Over 75? Lower Triglycerides After Holidays Without Fasting
 slug: quick-ways-to-lower-post-holiday-triglycerides-without-fasting-especially-for-sedentary-adults-over-75
 description: >-
-  Offers 4 clinically validated, non-fasting interventions (e.g., timed omega-3 dosing, postprandial walking protocols, fiber timing) shown to reduce TGs within 72 hours.
+  After 75, clearing blood fats (triglycerides) slows 40-60%. Four no-fast fixes—timed omega-3s, post-meal walks, fiber—cut elevated levels within 72 hours.
 date: '2025-12-23'
-updated: '2025-12-23'
-primaryKeyword: lower triglycerides without fasting seniors
+updated: '2026-03-29'
+primaryKeyword: lower triglycerides without fasting after 75
 topicCluster: special-populations
 image: ''
 relatedSlugs:

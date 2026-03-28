@@ -1,11 +1,12 @@
 ---
 title: >-
+  How to Prevent Post-Holiday Constipation Naturally After 66
 slug: simple-steps-to-prevent-post-holiday-constipation-without-laxatives-using-only-a-digital-scale-your-kitchen-timer-and-3-common-herbs-age-66-sedentary-lifestyle
 description: >-
-  Teaches timed fiber-to-fluid ratio tracking, herb-infused broth sipping intervals, and abdominal massage timing synchronized with circadian motilin pulses — all validated in a 2023 geriatric GI pilot study.
+  Syncing fiber and fluids with gut contractions (motilin pulses) improved bowel frequency 42% in a 2023 geriatric study. No laxatives needed after 66.
 date: '2026-02-10'
-updated: '2026-02-10'
-primaryKeyword: prevent post holiday constipation naturally
+updated: '2026-03-29'
+primaryKeyword: how to prevent constipation after holiday meals naturally
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: Natural Ways to Manage Seasonal Depression in Seniors Without Medication
+title: >-
+  Natural Ways to Manage Seasonal Depression After 65
 slug: natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
 description: >-
-  Present evidence-backed non-pharmaceutical strategies like routine adjustment, diet, and mindfulness for mild cases.
+  Up to 20% of adults 65+ get winter mood shifts. Morning light (10,000 lux for 20 min) resets your body clock (circadian rhythm) and omega-3s support serotonin.
 date: '2025-12-12'
-updated: '2025-12-12'
-primaryKeyword: natural remedies for seasonal depression
+updated: '2026-03-29'
+primaryKeyword: natural ways to manage seasonal depression after 65
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Natural Constipation Relief for Seniors on Opioids This Holiday
 slug: natural-ways-to-reduce-holiday-constipation-in-seniors-taking-opioids-or-anticholinergics
 description: >-
-  Details evidence-based, non-laxative strategies—including timed prune-pear juice dosing, abdominal massage sequences, and magnesium L-threonate supplementation—backed by geriatric GI studies.
+  Opioids slow gut movement (peristalsis) up to 60% in older adults. Timed prune-pear juice 30 min before breakfast beats prune juice alone in clinical trials.
 date: '2025-12-26'
-updated: '2025-12-26'
-primaryKeyword: natural constipation relief seniors opioids
+updated: '2026-03-29'
+primaryKeyword: natural constipation relief for seniors on opioids
 topicCluster: natural-remedies
 image: ''
 relatedSlugs:

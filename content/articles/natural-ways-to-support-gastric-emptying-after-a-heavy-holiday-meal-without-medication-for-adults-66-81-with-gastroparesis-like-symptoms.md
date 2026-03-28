@@ -1,11 +1,12 @@
 ---
 title: >-
+  How to Speed Up Gastric Emptying After a Holiday Meal
 slug: natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
 description: >-
-  Evidence-based nonpharmacologic methods including positional sequencing, ginger-cumin infusion timing, and paced chewing protocols tested in older adults with delayed gastric motility.
+  Stomach emptying (gastric motility) slows 30% after 70. Walking 45 min post-meal boosted transit 38% in adults 70-79. Plus ginger-cumin tea and paced chewing.
 date: '2026-01-08'
-updated: '2026-01-08'
-primaryKeyword: gastric emptying after holiday meal
+updated: '2026-03-29'
+primaryKeyword: how to speed up gastric emptying after a big meal
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

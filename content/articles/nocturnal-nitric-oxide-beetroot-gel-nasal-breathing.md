@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Beetroot Gel and Nasal Breathing Restore Nighttime BP Dipping
 slug: natural-ways-to-support-nighttime-nitric-oxide-synthase-activity-without-nitrates-using-topical-beetroot-gel-and-supine-nasal-breathing-in-adults-67-with-non-dipping-bp-pattern
 description: >-
-  Presents a novel transdermal + behavioral protocol to restore nocturnal NO signaling and circadian BP dipping in patients contraindicated for dietary nitrates.
+  Non-dipping BP raises stroke risk. Topical beetroot gel plus nasal breathing boosts nighttime vessel relaxation (NO合成) for adults 67+.
 date: '2026-02-13'
-updated: '2026-02-13'
-primaryKeyword: "health management nighttime adults 67+"
+updated: '2026-03-29'
+primaryKeyword: restore nighttime blood pressure dipping naturally
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

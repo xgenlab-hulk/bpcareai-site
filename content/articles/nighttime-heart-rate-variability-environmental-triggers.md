@@ -1,11 +1,12 @@
 ---
 title: >-
+  7 Bedroom Triggers That Lower Your Heart Rate Variability at Night
 slug: 7-overlooked-environmental-triggers-that-elevate-nighttime-heart-rate-variability-in-adults-74-with-mild-copd-from-humidifier-mineral-dust-to-bedroom-wall-paint-vocs
 description: >-
-  Identifies non-clinical, home-environmental factors that dysregulate autonomic cardiac output overnight in aging lungs, with actionable mitigation strategies validated in pulmonology-geriatric crossover studies.
+  Paint VOCs and humidifier dust cut nighttime heart rhythm flexibility (HRV) by 15-25 ms in adults 74+ with COPD. Field-tested bedroom fixes.
 date: '2026-02-10'
-updated: '2026-02-10'
-primaryKeyword: nighttime heart rate variability environmental triggers
+updated: '2026-03-29'
+primaryKeyword: bedroom triggers that lower heart rate variability
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

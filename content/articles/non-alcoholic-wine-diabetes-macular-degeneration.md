@@ -1,11 +1,12 @@
 ---
 title: >-
+  Best Non-Alcoholic Wine for Adults 75+ With Diabetes and Vision Loss
 slug: best-non-alcoholic-wine-alternatives-for-adults-75-with-diabetes-and-early-macular-degeneration-balancing-resveratrol-bioavailability-sugar-content-and-blue-light-filtering-potential
 description: >-
-  Compares dealcoholized reds, pomegranate-mulberry blends, and black currant infusions for anthocyanin stability, free sugar load, and lutein-zeaxanthin synergy — with ocular OCT and retinal pigment epithelium viability data.
+  Many dealcoholized reds hide 5-12g sugar per serving. Compare options that boost eye-protective pigment (lutein) absorption by 27% and keep glucose stable.
 date: '2026-02-17'
-updated: '2026-02-17'
-primaryKeyword: non-alcoholic wine diabetes macular degeneration
+updated: '2026-03-29'
+primaryKeyword: best non-alcoholic wine for diabetes and eye health
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

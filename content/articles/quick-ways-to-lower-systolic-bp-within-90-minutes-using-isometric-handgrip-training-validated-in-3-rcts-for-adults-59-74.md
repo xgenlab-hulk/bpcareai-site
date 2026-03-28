@@ -1,11 +1,12 @@
 ---
 title: >-
+  Can Handgrip Exercises Lower Systolic BP in 90 Min After 59?
 slug: quick-ways-to-lower-systolic-bp-within-90-minutes-using-isometric-handgrip-training-validated-in-3-rcts-for-adults-59-74
 description: >-
-  Provides step-by-step protocol (4x2-min holds at 30% MVC, 1-min rest), mechanism (central sympathetic inhibition), contraindications (aortic stenosis, uncontrolled HF), and expected effect size vs. fast-acting meds.
+  3 trials: grip exercises (isometric handgrip) cut systolic BP 10-12 mmHg in 90 min for ages 59-74. Covers the 4x2-min hold protocol and safety rules.
 date: '2025-12-27'
-updated: '2025-12-27'
-primaryKeyword: lower systolic bp isometric handgrip 90 minutes
+updated: '2026-03-29'
+primaryKeyword: isometric handgrip to lower systolic blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

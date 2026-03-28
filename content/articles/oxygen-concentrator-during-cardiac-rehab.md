@@ -1,11 +1,12 @@
 ---
 title: >-
+  Portable Oxygen During Cardiac Rehab: Safety for Adults 71+
 slug: can-you-safely-use-a-portable-oxygen-concentrator-during-cardiac-rehab-sessions-safety-thresholds-for-spo-hrv-and-exercise-tolerance-in-adults-71-with-hfpef
 description: >-
-  Reviews evidence on supplemental O₂ use during monitored exercise in older adults with preserved ejection fraction heart failure — including titration protocols and red-flag parameters.
+  Only 15-20% of preserved EF heart failure (HFpEF) patients need exercise O₂. Key SpO₂ and heart rate variability (HRV) thresholds to monitor safely.
 date: '2026-02-17'
-updated: '2026-02-17'
-primaryKeyword: oxygen concentrator during cardiac rehab
+updated: '2026-03-29'
+primaryKeyword: can I use oxygen during cardiac rehab
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

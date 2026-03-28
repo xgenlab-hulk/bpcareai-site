@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why You Feel Faint After Dinner: Low BP and Fatigue at 76
 slug: when-to-worry-about-sudden-fatigue-after-dinner-at-your-daughter-s-house-linking-postprandial-hypotension-autonomic-testing-and-family-meal-timing-in-adults-76
 description: >-
-  Connects timing of meals, ambient temperature, seating posture, and intergenerational caregiving load to orthostatic symptoms—and outlines a home-based '3-Minute Post-Meal BP Snapshot' protocol.
+  1 in 3 adults over 75 get a BP drop after meals (postprandial hypotension). A 3-minute post-dinner posture check can flag hidden fall risk before you stand up.
 date: '2026-02-14'
-updated: '2026-02-14'
-primaryKeyword: post dinner fatigue orthostatic hypotension
+updated: '2026-03-29'
+primaryKeyword: why do I feel faint after dinner low blood pressure
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

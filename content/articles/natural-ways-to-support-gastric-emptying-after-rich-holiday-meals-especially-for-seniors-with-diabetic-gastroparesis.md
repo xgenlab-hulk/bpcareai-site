@@ -1,11 +1,12 @@
 ---
 title: >-
+  Gastroparesis Diet Tips for Seniors With Diabetes at Holidays
 slug: natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
 description: >-
-  Clinically informed, non-pharmaceutical approaches (temperature, sequencing, botanicals, postural positioning) to safely accelerate gastric motility—without triggering reflux or hypoglycemia.
+  30% of adults 60+ with type 2 develop slow stomach emptying (gastroparesis). Meal sequencing, warm ginger tea, and posture shifts reduce bloating without meds.
 date: '2025-12-23'
-updated: '2025-12-23'
-primaryKeyword: support gastric emptying diabetic gastroparesis seniors
+updated: '2026-03-29'
+primaryKeyword: gastroparesis diet tips for seniors with diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  How to Flush Excess Sodium After Holiday Meals With CKD Stage 3
 slug: quick-ways-to-neutralize-excess-holiday-sodium-within-20-minutes-using-targeted-potassium-rich-bite-sized-foods-and-post-meal-hydration-sequencing-in-adults-71-with-ckd-stage-3
 description: >-
-  Offers evidence-based, kidney-safe sodium countermeasures: precise food pairings, timing windows, and fluid-electrolyte kinetics tailored for reduced GFR.
+  One salty meal raises systolic BP 5-10 mmHg in adults 71+ with low kidney filtering (eGFR 45-59). Targeted potassium bites help within 20 min.
 date: '2026-02-24'
-updated: '2026-02-24'
-primaryKeyword: neutralize holiday sodium quickly seniors ck
+updated: '2026-03-29'
+primaryKeyword: flush sodium after holiday meal with kidney disease
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  How to Preserve Muscle Mass During Holiday Meals After 74
 slug: 5-science-backed-ways-to-preserve-muscle-mass-while-eating-holiday-meals-leucine-timing-post-meal-walking-cadence-and-protein-distribution-for-adults-74-with-sarcopenia-risk
 description: >-
-  Focuses on muscle protein synthesis optimization during feasting — not restriction — using age-specific leucine thresholds, ambulatory pacing, and real-time satiety cues.
+  Adults 74+ lose muscle yearly. Leucine timing (muscle-building amino acid) and post-meal walks at 60-70 steps/min protect against holiday sarcopenia.
 date: '2026-02-25'
-updated: '2026-02-25'
-primaryKeyword: preserve muscle mass holiday meals
+updated: '2026-03-29'
+primaryKeyword: how to preserve muscle mass during holiday meals
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

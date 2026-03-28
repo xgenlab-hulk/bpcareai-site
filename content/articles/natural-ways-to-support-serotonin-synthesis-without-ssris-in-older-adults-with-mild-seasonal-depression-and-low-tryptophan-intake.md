@@ -1,11 +1,12 @@
 ---
 title: >-
+  Boost Serotonin Naturally After 60: Foods and Co-Factors That Help
 slug: natural-ways-to-support-serotonin-synthesis-without-ssris-in-older-adults-with-mild-seasonal-depression-and-low-tryptophan-intake
 description: >-
-  Details food-based tryptophan pairing (e.g., pumpkin seeds + barley), co-factor optimization (B6, magnesium, iron), and gut-microbiome supports—backed by geriatric nutritional neuroscience trials.
+  Brain tryptophan delivery (色氨酸转运) drops 25% by age 75. Pairing pumpkin seeds with barley plus B6 co-factors lifts mood without SSRIs.
 date: '2026-01-02'
-updated: '2026-01-02'
-primaryKeyword: serotonin synthesis natural ways seniors tryptophan intake
+updated: '2026-03-29'
+primaryKeyword: boost serotonin naturally without SSRIs seniors
 topicCluster: mental-health-stress
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  How to Lower Blood Pressure Without ACE Inhibitors After 55
 slug: natural-ways-to-support-renin-angiotensin-system-balance-without-ace-inhibitors-for-adults-with-hypertension-and-chronic-cough-or-angioedema
 description: >-
-  Focuses on non-pharmacologic RAS modulation: potassium-rich plant foods with magnesium co-factors, timed fasting windows that downregulate AT1R expression, and vagal tone–enhancing practices shown to suppress plasma renin activity.
+  If ACE inhibitors cause cough or swelling (angioedema), vagal breathing and potassium-rich foods can cut renin activity by 35% in adults over 55.
 date: '2025-12-24'
-updated: '2025-12-24'
-primaryKeyword: "hypertension management seniors"
+updated: '2026-03-29'
+primaryKeyword: lower blood pressure naturally without ACE inhibitors
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

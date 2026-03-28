@@ -1,11 +1,12 @@
 ---
 title: >-
+  Prevent Holiday Weight Regain After Bariatric Surgery (58-65)
 slug: 12-science-backed-strategies-to-prevent-post-holiday-weight-regain-in-adults-58-65-with-recent-bariatric-surgery-focused-on-social-eating-triggers-and-adaptive-portion-cues
 description: >-
-  Presents behaviorally grounded, surgery-specific techniques to maintain weight loss during high-social-pressure seasons—emphasizing environmental cue modification over willpower.
+  25% regain 3-5 kg post-surgery in year one. Target social eating cues and hunger shifts (gut hormones like GLP-1) to protect weight loss during holiday meals.
 date: '2026-02-10'
-updated: '2026-02-10'
-primaryKeyword: post-bariatric holiday weight regain prevention
+updated: '2026-03-29'
+primaryKeyword: prevent weight regain after bariatric surgery holidays
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  A 7-Day Plan to Fix Morning BP Surges With Light and Protein
 slug: quick-ways-to-normalize-morning-cortisol-bp-coupling-within-7-days-using-dawn-simulation-protein-first-breakfast-in-adults-with-morning-hypertension
 description: >-
-  Describes a 7-day protocol combining timed 250-lux light exposure, 30g morning protein intake, and delayed caffeine use to restore circadian cortisol-BP phase alignment in non-dippers.
+  30% of adults 60+ have misaligned wake-up hormones (cortisol-BP coupling). 7-day fix: 250-lux dawn light, 30g breakfast protein, delayed caffeine.
 date: '2026-01-07'
-updated: '2026-01-07'
-primaryKeyword: morning cortisol bp coupling normalization
+updated: '2026-03-29'
+primaryKeyword: fix morning blood pressure surge naturally
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

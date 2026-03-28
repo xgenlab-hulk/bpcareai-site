@@ -1,11 +1,12 @@
 ---
 title: >-
+  How a 2-Minute Post-Meal Walk Eases Heart Strain (57-63)
 slug: how-daily-2-minute-upright-post-meal-walking-modulates-postprandial-atrial-stretch-in-adults-57-63-with-mild-left-atrial-enlargement-a-mechanistic-guide
 description: >-
-  Explains the biomechanical and hemodynamic rationale for timing-specific ambulation to reduce transient atrial wall stress, with ultrasound-guided gait recommendations.
+  A 2-min walk at 2.5 mph cuts upper chamber strain (atrial wall stress) 12-15% vs sitting. Timing and pace tips for adults with mild left atrial enlargement.
 date: '2026-02-12'
-updated: '2026-02-12'
-primaryKeyword: post-meal walking atrial stretch
+updated: '2026-03-29'
+primaryKeyword: does walking after meals help heart enlargement
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

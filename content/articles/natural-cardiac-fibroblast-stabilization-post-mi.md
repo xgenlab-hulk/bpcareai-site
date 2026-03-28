@@ -1,11 +1,12 @@
 ---
 title: >-
+  Supporting Heart Repair Naturally After a Heart Attack at 67+
 slug: natural-ways-to-stabilize-cardiac-fibroblast-activity-without-suppressing-wound-healing-using-modified-citrus-pectin-zinc-carnosine-timing-in-adults-67-with-post-mi-remodeling
 description: >-
-  Presents a precision nutrition approach to modulate fibrosis pathways post-heart attack, avoiding broad antifibrotic agents that impair scar integrity.
+  Citrus pectin and zinc carnosine support heart scar stability (fibroblast quiescence) after a heart attack without blocking wound healing in adults 67+.
 date: '2026-02-27'
-updated: '2026-02-27'
-primaryKeyword: natural cardiac fibroblast stabilization post-mi
+updated: '2026-03-29'
+primaryKeyword: natural heart repair support after heart attack
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

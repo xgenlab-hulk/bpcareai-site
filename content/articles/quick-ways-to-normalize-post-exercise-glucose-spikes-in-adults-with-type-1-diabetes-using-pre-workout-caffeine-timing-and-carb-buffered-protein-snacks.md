@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Blood Sugar Spikes After Exercise With Type 1 Diabetes
 slug: quick-ways-to-normalize-post-exercise-glucose-spikes-in-adults-with-type-1-diabetes-using-pre-workout-caffeine-timing-and-carb-buffered-protein-snacks
 description: >-
-  Presents a 3-step protocol tested in 48 adults: caffeine dose window, leucine–whey ratio, and immediate post-set carb timing to blunt catecholamine-driven hyperglycemia.
+  60% of adults 50+ with type 1 see post-workout spikes from stress hormones (catecholamine surge). 3-step fix: caffeine timing plus whey-carb snacks.
 date: '2026-01-03'
-updated: '2026-01-03'
-primaryKeyword: post-exercise glucose spike type 1
+updated: '2026-03-29'
+primaryKeyword: blood sugar spikes after exercise type 1 diabetes
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

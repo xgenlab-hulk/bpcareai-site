@@ -1,11 +1,12 @@
 ---
-title: Quick Ways to Lift a Senior’s Mood During a Winter Blue Day
+title: >-
+  Winter Blues After 60? Quick Mood Boosters That Work Fast
 slug: quick-ways-to-lift-a-senior-s-mood-during-a-winter-blue-day
 description: >-
-  Offer immediate, small actions like phone calls, music, short walks, or favorite foods to interrupt low mood episodes.
+  Seniors 65+ face 37% more winter low mood. A 7-min phone call or 15-min window light boosts feel-good brain chemicals (serotonin and BDNF) in minutes.
 date: '2025-12-12'
-updated: '2025-12-12'
-primaryKeyword: quick mood boosters for seniors
+updated: '2026-03-29'
+primaryKeyword: quick mood boosters for seniors in winter
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

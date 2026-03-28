@@ -1,11 +1,12 @@
 ---
 title: >-
+  Supporting Heart Electrical Health Naturally After 60: 7 Trials
 slug: natural-ways-to-support-cardiac-connexin-43-expression-without-medication-evidence-from-7-clinical-trials-in-adults-60-79
 description: >-
-  Reviews dietary (resveratrol, sulforaphane), lifestyle (intermittent cold exposure, rhythmic breathing), and botanical (berberine, curcumin) interventions shown to modulate gap junction integrity—key to atrial conduction stability.
+  Heart cell connectors (connexin-43) decline ~30% by 75, raising irregular heartbeat risk. 7 trials show resveratrol and broccoli sprouts restore conduction.
 date: '2025-12-24'
-updated: '2025-12-24'
-primaryKeyword: connexin-43 expression support in aging heart
+updated: '2026-03-29'
+primaryKeyword: how to support heart electrical health naturally after 60
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Natural Support for Small Vessel Heart Disease (INOCA) at 60+
 slug: natural-ways-to-support-coronary-microvascular-function-without-increasing-nitric-oxide-synthase-uncoupling-using-pomegranate-ellagitannins-low-dose-l-citrulline-timing-in-adults-60-67-with-inoca
 description: >-
-  Details a targeted, evidence-based supplement protocol for ischemia with no obstructive CAD, focusing on endothelial mitochondrial support rather than broad NO stimulation.
+  Pomegranate extract and timed L-citrulline support tiny heart vessels (coronary microvasculature) in adults 60-67 with chest pain but no artery blockages.
 date: '2026-02-25'
-updated: '2026-02-25'
-primaryKeyword: natural support for coronary microvascular disease
+updated: '2026-03-29'
+primaryKeyword: natural support for small vessel heart disease
 topicCluster: natural-remedies
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Your A1c Looks Normal but Nighttime Lows May Be Hiding: 5 Clues
 slug: warning-signs-your-well-controlled-a1c-is-masking-severe-nocturnal-hypoglycemia-even-with-normal-cgm-time-in-range-in-adults-68-on-once-daily-glp-1-agonists
 description: >-
-  Identifies paradoxical biomarkers—e.g., elevated evening cortisol, suppressed nocturnal growth hormone, and morning 8-amino acid panel shifts—that signal recurrent hypoglycemia missed by daytime-only metrics.
+  Evening cortisol above 0.12 µg/dL signals repeat overnight lows (夜间低血糖) missed by daytime CGM. Adults 68+ on GLP-1s need 12-6am review.
 date: '2026-02-23'
-updated: '2026-02-23'
-primaryKeyword: nocturnal hypoglycemia masked a1c
+updated: '2026-03-29'
+primaryKeyword: nighttime low blood sugar hidden by normal A1c
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:

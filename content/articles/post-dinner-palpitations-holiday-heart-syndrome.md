@@ -1,11 +1,12 @@
 ---
 title: >-
+  Heart Palpitations After Holiday Dinner: Harmless or Serious?
 slug: when-to-worry-about-post-dinner-palpitations-during-hanukkah-or-christmas-red-flags-that-distinguish-holiday-heart-syndrome-from-benign-pacs-in-adults-58-74
 description: >-
-  A symptom-based clinical decision guide for distinguishing transient holiday-induced arrhythmias from more serious underlying conduction or structural issues in older adults.
+  2-3 drinks raise irregular heartbeat (arrhythmia) risk 40% after 60. Tell harmless extra beats (PACs) from warning signs using timing, duration, and symptoms.
 date: '2026-02-17'
-updated: '2026-02-17'
-primaryKeyword: post-dinner palpitations holiday heart syndrome
+updated: '2026-03-29'
+primaryKeyword: heart palpitations after holiday dinner when to worry
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

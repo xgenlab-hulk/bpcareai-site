@@ -1,11 +1,12 @@
 ---
 title: >-
+  7-Minute Breathing Protocol for High Blood Pressure and Anxiety
 slug: quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety
 description: >-
-  Teaches paced diaphragmatic breathing with HRV biofeedback cues—validated in a 2024 RCT for reducing systolic BP ≥12 mmHg within 2 weeks.
+  A 2024 trial showed 7 min of paced belly breathing (diaphragmatic breathing) lowered systolic BP by 12.3 mmHg in 2 weeks—even on existing BP medications.
 date: '2025-12-24'
-updated: '2025-12-24'
-primaryKeyword: breathing protocol for hypertension and anxiety
+updated: '2026-03-29'
+primaryKeyword: breathing exercises for high blood pressure and anxiety
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Lower Triglyceride Spikes in 2 Hours After a Holiday Meal Over 60
 slug: quick-ways-to-lower-post-holiday-triglyceride-spikes-within-2-hours-using-targeted-omega-3-dosing-validated-in-adults-60-78-with-mixed-dyslipidemia
 description: >-
-  Presents a time-sensitive, evidence-based dosing strategy using EPA/DHA ratios and food-coordinated administration to blunt chylomicron remnant elevation after high-fat festive meals.
+  Adults 62-76 saw blood fats (triglycerides) jump 215 mg/dL post-feast. Timed omega-3 dosing with food blunts fat particles (chylomicrons) within 2 hours.
 date: '2025-12-30'
-updated: '2025-12-30'
-primaryKeyword: lower triglycerides after holiday meal
+updated: '2026-03-29'
+primaryKeyword: lower triglycerides fast after a holiday meal
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:

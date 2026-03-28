@@ -1,11 +1,12 @@
 ---
 title: >-
+  Seated Ways to Improve Circulation After a Big Meal Over 60
 slug: natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings
 description: >-
-  Evidence-based, low-mobility techniques—including timed diaphragmatic breathing, seated calf pumping, and targeted acupressure—to counteract venous stasis and orthostatic intolerance in sedentary or mobility-limited adults over 60.
+  After eating, blood pools in the gut (splanchnic hyperemia), cutting heart output up to 15%. Seated calf pumps and belly breathing restore blood return safely.
 date: '2026-01-08'
-updated: '2026-01-08'
-primaryKeyword: postprandial circulation seniors no walking
+updated: '2026-03-29'
+primaryKeyword: how to improve circulation after eating without walking
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

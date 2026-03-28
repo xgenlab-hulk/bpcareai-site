@@ -1,11 +1,12 @@
 ---
 title: >-
+  When to Check Your Pulse During Walks to Detect Silent Ischemia
 slug: 12-science-backed-times-to-check-your-pulse-during-a-10-minute-walk-not-just-before-or-after-for-adults-63-with-intermittent-claudication-and-silent-ischemia
 description: >-
-  Details dynamic pulse waveform analysis windows (e.g., 22 seconds post-turn, 47 seconds after pavement texture change) that reveal transient ischemia missed by static HR monitoring or stress testing.
+  40% of adults 63+ with artery disease have painless heart strain (silent ischemia). 12 pulse-check windows during walks catch issues stress tests miss.
 date: '2026-02-10'
-updated: '2026-02-10'
-primaryKeyword: pulse timing during walking silent ischemia
+updated: '2026-03-29'
+primaryKeyword: when to check pulse during walks for silent ischemia
 topicCluster: mental-health-stress
 image: ''
 relatedSlugs:

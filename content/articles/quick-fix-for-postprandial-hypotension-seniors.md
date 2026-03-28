@@ -1,11 +1,12 @@
 ---
 title: >-
+  Quick Fixes for After-Meal Blood Pressure Drops in Seniors 74+
 slug: quick-ways-to-reduce-postprandial-blood-pressure-drops-within-60-seconds-using-supine-leg-elevation-expiratory-resistance-breathing-in-adults-74-with-orthostatic-hypotension
 description: >-
-  Presents an immediate, non-pharmacologic maneuver protocol validated in geriatric cardiology clinics to counteract meal-induced hypotension and prevent syncope.
+  40% of adults 75+ get dangerous BP drops after eating (postprandial hypotension). Leg elevation and resistance breathing raise systolic 15-25 mmHg in 60 sec.
 date: '2026-02-27'
-updated: '2026-02-27'
-primaryKeyword: quick fix for postprandial hypotension seniors
+updated: '2026-03-29'
+primaryKeyword: how to manage postprandial hypotension in seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

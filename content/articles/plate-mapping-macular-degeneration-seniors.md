@@ -1,11 +1,12 @@
 ---
 title: >-
+  Plate Mapping for Seniors With Macular Degeneration at Holidays
 slug: what-research-says-about-plate-mapping-for-seniors-with-macular-degeneration-using-color-contrast-texture-cues-and-portion-size-landmarks-to-prevent-overeating
 description: >-
-  Details vision-adapted plate composition techniques validated in low-vision dining studies, with printable templates and lighting recommendations for holiday tables.
+  87 seniors with vision loss (AMD) cut calories 22% using color-contrast plates. Texture cues, lighting, and templates for safer low-vision holiday dining.
 date: '2026-02-26'
-updated: '2026-02-26'
-primaryKeyword: plate mapping macular degeneration seniors
+updated: '2026-03-29'
+primaryKeyword: plate setup for seniors with macular degeneration
 topicCluster: special-populations
 image: ''
 relatedSlugs:

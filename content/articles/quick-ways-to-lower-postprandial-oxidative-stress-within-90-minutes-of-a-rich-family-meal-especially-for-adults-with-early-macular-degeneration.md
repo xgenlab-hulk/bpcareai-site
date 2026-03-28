@@ -1,11 +1,12 @@
 ---
 title: >-
+  Protect Your Eyes After a Rich Meal if You Have Early AMD
 slug: quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
 description: >-
-  Targets ocular health via food-based antioxidants (lutein-rich microgreens, anthocyanin infusion), timed polyphenol dosing, and post-meal walking cadence prescriptions.
+  Rich meals spike cell damage (oxidative stress) 20-35% in 60 min. Lutein greens and timed polyphenols shield retinal cells in early macular degeneration.
 date: '2025-12-27'
-updated: '2025-12-27'
-primaryKeyword: lower oxidative stress after family meal
+updated: '2026-03-29'
+primaryKeyword: reduce oxidative stress after meals with AMD
 topicCluster: mental-health-stress
 image: ''
 relatedSlugs:

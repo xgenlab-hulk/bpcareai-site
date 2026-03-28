@@ -1,11 +1,12 @@
 ---
 title: >-
+  Breathing Techniques to Lower BP Before a Doctor Visit (50-85)
 slug: quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
 description: >-
-  Teaches paced diaphragmatic breathing with real-time HRV biofeedback cues—designed for immediate pre-appointment BP modulation without medication.
+  White-coat hypertension hits 30% of adults 50+. Paced belly breathing (diaphragmatic) at 5-6 breaths/min drops systolic BP 7-12 mmHg in 90 seconds.
 date: '2025-12-19'
-updated: '2025-12-19'
-primaryKeyword: breathing techniques lower systolic pressure
+updated: '2026-03-29'
+primaryKeyword: breathing techniques to lower BP before doctor visit
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

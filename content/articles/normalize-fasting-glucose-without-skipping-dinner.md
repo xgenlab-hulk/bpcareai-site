@@ -1,11 +1,12 @@
 ---
 title: >-
+  How to Lower Fasting Glucose Without Skipping Dinner After 60
 slug: simple-steps-to-normalize-fasting-glucose-without-skipping-dinner-using-sequential-pre-bed-protein-fat-snacking-and-nasal-breathing-during-sleep-in-adults-60-73
 description: >-
-  Outlines a 3-phase protocol: 1) 15g micellar casein + 5g MCT oil at 8:30 p.m., 2) 4-7-8 nasal breathing for 5 min pre-sleep, 3) supine positioning with 15° head elevation — validated via overnight CGM in 89 adults.
+  37% of adults 60+ who skip dinner see higher morning sugar from stress hormones (counter-regulatory response). A bedtime protein-and-breathing plan works.
 date: '2026-02-17'
-updated: '2026-02-17'
-primaryKeyword: normalize fasting glucose without skipping dinner
+updated: '2026-03-29'
+primaryKeyword: lower fasting glucose without skipping dinner over 60
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

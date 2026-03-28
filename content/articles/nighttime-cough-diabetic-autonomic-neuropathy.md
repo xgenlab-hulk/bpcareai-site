@@ -1,11 +1,12 @@
 ---
 title: >-
+  Nighttime Cough With Diabetes? It May Signal Nerve Damage, Not GERD
 slug: how-persistent-nighttime-cough-in-adults-69-with-type-2-diabetes-and-mild-asthma-may-signal-early-diabetic-autonomic-neuropathy-not-just-gerd-or-postnasal-drip
 description: >-
-  Explores vagal afferent blunting leading to impaired laryngeal cough reflex, abnormal capsaicin cough threshold testing, and association with abnormal heart rate response to Valsalva — independent of FEV1 or pH probe results.
+  30% of long-standing diabetes patients have airway nerve blunting (迷走传入减弱) missed by lung tests. Capsaicin threshold testing reveals it.
 date: '2026-02-22'
-updated: '2026-02-22'
-primaryKeyword: nighttime cough diabetic autonomic neuropathy
+updated: '2026-03-29'
+primaryKeyword: nighttime cough diabetes nerve damage sign
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

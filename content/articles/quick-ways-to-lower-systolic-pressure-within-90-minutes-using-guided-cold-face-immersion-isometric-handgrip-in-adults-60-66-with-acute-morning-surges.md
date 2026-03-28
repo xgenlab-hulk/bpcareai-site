@@ -1,11 +1,12 @@
 ---
 title: >-
+  Lower a Morning BP Spike in 90 Min Without Meds (Ages 60-66)
 slug: quick-ways-to-lower-systolic-pressure-within-90-minutes-using-guided-cold-face-immersion-isometric-handgrip-in-adults-60-66-with-acute-morning-surges
 description: >-
-  Details a dual autonomic intervention protocol with exact timing, temperature, pressure, and breathing parameters — validated in ER triage studies for pre-hypertensive spikes.
+  ER-tested protocol: cold face splashes (diving reflex) plus grip exercises cut morning systolic surges 10+ mmHg in adults 60-66. Step-by-step timing included.
 date: '2026-02-17'
-updated: '2026-02-17'
-primaryKeyword: lower systolic pressure within 90 minutes
+updated: '2026-03-29'
+primaryKeyword: lower morning blood pressure spike naturally
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

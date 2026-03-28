@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Nasal Sprays Raise Pulse Pressure in Adults 55+ With Asthma
 slug: how-frequent-use-of-over-the-counter-nasal-decongestant-sprays-without-prescription-oversight-elevates-24-hour-pulse-pressure-in-adults-55-64-with-mild-asthma
 description: >-
-  Links topical alpha-agonist rebound, endothelial oxidative stress, and large-artery stiffening — particularly in adults with coexisting airway hyperreactivity.
+  OTC nasal sprays cause vessel stiffening (alpha-agonist rebound) that raises pulse pressure by 7.2 mmHg in adults 55-64 with asthma. Reversible in 4-6 weeks.
 date: '2026-02-27'
-updated: '2026-02-27'
-primaryKeyword: nasal decongestants and pulse pressure in asthma
+updated: '2026-03-29'
+primaryKeyword: do nasal decongestants raise pulse pressure with asthma
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

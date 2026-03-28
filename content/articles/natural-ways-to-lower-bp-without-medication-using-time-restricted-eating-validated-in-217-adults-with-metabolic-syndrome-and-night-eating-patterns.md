@@ -1,11 +1,12 @@
 ---
 title: >-
+  Can Time-Restricted Eating Lower BP With Metabolic Syndrome?
 slug: natural-ways-to-lower-bp-without-medication-using-time-restricted-eating-validated-in-217-adults-with-metabolic-syndrome-and-night-eating-patterns
 description: >-
-  Focuses on circadian alignment of food intake, insulin sensitivity restoration, and nocturnal renin suppression—not just calorie restriction.
+  In 217 adults, a 9-hour eating window cut systolic BP 9 mmHg in 12 weeks by syncing meals with the body clock (circadian rhythm)—not just cutting calories.
 date: '2026-01-03'
-updated: '2026-01-03'
-primaryKeyword: time-restricted eating blood pressure metabolic syndrome
+updated: '2026-03-29'
+primaryKeyword: can time-restricted eating lower blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

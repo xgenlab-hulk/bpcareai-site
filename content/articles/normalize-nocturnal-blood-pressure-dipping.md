@@ -1,11 +1,12 @@
 ---
 title: >-
+  How to Restore Nighttime Blood Pressure Dipping After 70
 slug: quick-ways-to-normalize-nocturnal-bp-dipping-using-bedroom-temperature-pillow-height-and-supine-breathing-rhythm-for-adults-70-with-non-dipping-patterns
 description: >-
-  Offers 3 immediately actionable, non-drug environmental and positional tweaks proven to restore circadian BP rhythm—validated by 7-day ambulatory studies.
+  Up to 70% of adults over 70 lose their natural nighttime BP drop (non-dipping pattern). Three bedroom tweaks including 18-19C room temp restored dipping in 28%.
 date: '2026-01-10'
-updated: '2026-01-10'
-primaryKeyword: normalize nocturnal blood pressure dipping
+updated: '2026-03-29'
+primaryKeyword: how to restore nighttime blood pressure drop naturally
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

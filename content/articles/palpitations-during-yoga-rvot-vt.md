@@ -1,11 +1,12 @@
 ---
 title: >-
+  Palpitations During Yoga: When to Worry About RVOT VT After 61
 slug: when-to-worry-about-intermittent-palpitations-during-morning-yoga-distinguishing-benign-pvc-clusters-from-early-rvot-vt-in-adults-61-with-mild-pulmonary-hypertension
 description: >-
-  Provides a stepwise clinical decision tree using symptom timing, vagal response patterns, and portable 14-lead ECG capture to differentiate benign ectopy from arrhythmogenic right ventricular outflow tract tachycardia.
+  70% of adults 65+ have PVCs, but yoga-triggered clusters may signal outflow tract tachycardia (RVOT VT). A 3-step ECG and vagal check for ages 61+.
 date: '2026-02-16'
-updated: '2026-02-16'
-primaryKeyword: palpitations during yoga RVOT VT
+updated: '2026-03-29'
+primaryKeyword: palpitations during yoga when to worry
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

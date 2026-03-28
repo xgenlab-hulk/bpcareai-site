@@ -1,11 +1,12 @@
 ---
 title: >-
+  Quick Fix for Blood Pressure Spikes After Exercise (64+)
 slug: quick-ways-to-counteract-post-exercise-systolic-surge-within-90-seconds-using-targeted-supine-ankle-pumps-and-diaphragmatic-breath-stacking-in-adults-64-with-lvh
 description: >-
-  Presents a field-tested, immediate-response protocol to blunt rebound hypertension after aerobic activity — validated in echo-guided studies showing 15 mmHg systolic reduction in <2 minutes.
+  BP surges hit 25-35 mmHg with thickened heart walls (LVH). A 90-second ankle pump and breathing protocol (diaphragmatic stacking) cuts the spike by 15 mmHg.
 date: '2026-02-23'
-updated: '2026-02-23'
-primaryKeyword: post-exercise systolic surge quick fix
+updated: '2026-03-29'
+primaryKeyword: how to lower blood pressure spike after exercise quickly
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

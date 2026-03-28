@@ -1,11 +1,12 @@
 ---
 title: >-
+  Boost Dopamine Naturally in Winter: 8 Trials for Adults 60-82
 slug: quick-ways-to-boost-dopamine-responsiveness-during-shorter-days-without-stimulants-or-antidepressants-evidence-from-8-trials-in-adults-60-82
 description: >-
-  Synthesizes findings on tyrosine-rich meal timing, cold exposure windows, and rhythmic movement protocols shown to enhance dopaminergic tone in aging brains during winter.
+  Winter drops feel-good signals (dopamine turnover) up to 27% after 60. Tyrosine meals and rhythmic movement restore motivation—backed by 8 clinical trials.
 date: '2025-12-25'
-updated: '2025-12-25'
-primaryKeyword: dopamine support without medication winter seniors
+updated: '2026-03-29'
+primaryKeyword: boost dopamine naturally in winter after 60
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  When a Normal Heart Rate Hides Sinus Node Problems in Women Over 66
 slug: warning-signs-your-normal-resting-heart-rate-is-masking-sinus-node-dysfunction-especially-if-you-re-a-woman-over-66-with-unexplained-morning-fatigue-and-blunted-hrv
 description: >-
-  Explains why a seemingly stable resting pulse can conceal early sinoatrial node aging—using HRV trends, chronotropic incompetence patterns, and symptom clusters unique to older women.
+  A resting pulse of 68 bpm can mask pacemaker cell aging (sinus node dysfunction). Heart rate flexibility trends reveal what a normal number misses.
 date: '2026-02-26'
-updated: '2026-02-26'
-primaryKeyword: normal resting heart rate sinus node dysfunction
+updated: '2026-03-29'
+primaryKeyword: normal heart rate hiding sinus node problems women
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:

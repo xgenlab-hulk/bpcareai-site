@@ -1,11 +1,12 @@
 ---
 title: >-
+  Lower Post-Dinner Blood Sugar in 90 Min Without Exercise (63-76)
 slug: quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
 description: >-
-  Details a low-barrier, non-exercise protocol combining paced breathing (4-7-8) and warm foot immersion to enhance vagal tone and skeletal muscle glucose uptake.
+  Pilot trial: 4-7-8 breathing plus warm foot soaking (peripheral vasodilation) returned glucose to baseline 22% faster in adults 63-76. No equipment needed.
 date: '2026-01-05'
-updated: '2026-01-05'
-primaryKeyword: quick post-dinner glucose normalization
+updated: '2026-03-29'
+primaryKeyword: lower blood sugar after dinner without exercise
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:

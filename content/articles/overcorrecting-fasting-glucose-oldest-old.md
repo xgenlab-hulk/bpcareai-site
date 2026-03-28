@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Pushing Fasting Glucose Below 90 Is Risky After Age 82
 slug: the-dangers-of-overcorrecting-normal-fasting-glucose-in-adults-82-with-mild-cognitive-impairment-why-90-mg-dl-may-increase-fall-risk-and-delirium-episodes
 description: >-
-  Challenges aggressive glycemic targets in the oldest-old, reviewing falls epidemiology, cerebral glucose transport efficiency, and the safety margin for asymptomatic hypoglycemia in neurodegenerative contexts.
+  Adults 70+ with fasting glucose under 85 had 42% more falls. Brain sugar transporters (GLUT1) decline 30% with age, making tight targets unsafe after 80.
 date: '2026-02-16'
-updated: '2026-02-16'
-primaryKeyword: overcorrecting fasting glucose oldest old
+updated: '2026-03-29'
+primaryKeyword: dangers of low blood sugar targets after 80
 topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:

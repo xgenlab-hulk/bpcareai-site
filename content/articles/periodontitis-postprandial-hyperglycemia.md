@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Gum Disease Drives After-Meal Blood Sugar Spikes
 slug: how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough
 description: >-
-  Explains the IL-6/TNF-α–mediated hepatic gluconeogenesis pathway and introduces adjunctive antimicrobial protocols shown to improve 2-hr glucose AUC by 22%.
+  Severe gum disease (periodontitis) raises IL-6 and TNF-α by 38%, fueling liver glucose output. Protocols beyond scaling cut 2-hour glucose curve by 22%.
 date: '2026-01-05'
-updated: '2026-01-05'
-primaryKeyword: periodontitis postprandial hyperglycemia
+updated: '2026-03-29'
+primaryKeyword: gum disease and blood sugar spikes after meals
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

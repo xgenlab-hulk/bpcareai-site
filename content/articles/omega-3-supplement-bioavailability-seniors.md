@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why 82% of Omega-3 Supplements Fail Seniors Over 60
 slug: the-truth-about-heart-healthy-omega-3-supplements-marketed-to-seniors-why-82-fail-to-deliver-epa-dha-in-bioavailable-form-due-to-oxidation-and-enteric-coating-defects
 description: >-
-  Investigates stability testing, third-party assay data, and absorption studies in older adults, revealing formulation flaws that compromise anti-inflammatory and triglyceride-lowering efficacy.
+  Only 31% of coated capsules release EPA/DHA within 90 min in adults 65-78. Natural-form fish oils (triglyceride form) absorb 2-3x better in aging digestion.
 date: '2026-02-15'
-updated: '2026-02-15'
-primaryKeyword: omega-3 supplement bioavailability seniors
+updated: '2026-03-29'
+primaryKeyword: why most omega-3 supplements fail for seniors
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

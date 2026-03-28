@@ -1,11 +1,12 @@
 ---
 title: >-
+  Are Non-Alcoholic Holiday Drinks Safe for Your Heart After 65?
 slug: the-truth-about-non-alcoholic-mulled-wine-sparkling-ciders-why-83-contain-residual-ethanol-histamine-levels-that-trigger-atrial-ectopy-in-adults-67-with-histamine-intolerance
 description: >-
-  Investigates labeling loopholes, fermentation byproducts, and real-world histamine content in popular 'mocktails'—and their under-recognized role in holiday arrhythmia flares.
+  83% of alcohol-free mulled wines contain residual ethanol and histamine that trigger irregular heartbeats (atrial ectopy) in adults 67+ with sensitivity.
 date: '2026-02-26'
-updated: '2026-02-26'
-primaryKeyword: non-alcoholic drinks holiday heart syndrome
+updated: '2026-03-29'
+primaryKeyword: non-alcoholic holiday drinks heart rhythm risks
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

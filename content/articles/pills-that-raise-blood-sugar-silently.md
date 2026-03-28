@@ -1,11 +1,12 @@
 ---
 title: >-
+  Pills That Quietly Raise Blood Sugar: Long-Term PPIs After 58
 slug: how-chronic-low-dose-proton-pump-inhibitor-use-alters-gut-microbial-bile-acid-metabolism-and-why-that-worsens-postprandial-glucose-variability-in-adults-58-66-with-prediabetes
 description: >-
-  Breaks down the PPI–gut–liver axis: how decades of omeprazole use reshapes bile-acid-transforming microbes, reduces FXR signaling, and impairs GLP-1 secretion—backed by recent metagenomic and metabolomic studies.
+  Adults 58-66 on daily omeprazole had 2.3x worse post-meal glucose swings. Acid blockers (PPIs) reshape gut bacteria and cut appetite hormone (GLP-1) output.
 date: '2026-02-23'
-updated: '2026-02-23'
-primaryKeyword: pills that raise blood sugar silently
+updated: '2026-03-29'
+primaryKeyword: medications that quietly raise blood sugar
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
