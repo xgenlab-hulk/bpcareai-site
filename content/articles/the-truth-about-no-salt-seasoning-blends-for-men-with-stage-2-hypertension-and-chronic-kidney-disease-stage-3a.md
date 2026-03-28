@@ -1,11 +1,12 @@
 ---
 title: >-
+  No-Salt Seasonings and CKD Stage 3a: Hidden Potassium Risks
 slug: the-truth-about-no-salt-seasoning-blends-for-men-with-stage-2-hypertension-and-chronic-kidney-disease-stage-3a
 description: >-
-  Analyzes potassium content, hidden sodium analogs (e.g., potassium chloride), and taste-adaptation timelines in commercial salt substitutes for this high-risk cohort.
+  Up to 20% of CKD stage 3+ adults have hidden hyperkalemia. Learn which no-salt seasonings pack 300-800mg potassium per serving and how to stay safe.
 date: '2026-01-08'
-updated: '2026-01-08'
-primaryKeyword: no-salt seasoning blends chronic kidney disease
+updated: '2026-03-29'
+primaryKeyword: no-salt seasoning blends for kidney disease
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

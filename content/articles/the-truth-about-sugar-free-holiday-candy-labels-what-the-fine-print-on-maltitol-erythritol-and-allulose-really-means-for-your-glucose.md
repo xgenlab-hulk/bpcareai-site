@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Sugar-Free Candy Really Affects Blood Sugar in Seniors
 slug: the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose
 description: >-
-  Demystifies sugar alcohol metabolism, osmotic effects, and individual variability in glycemic response—especially for seniors with gastroparesis or IBS-D.
+  Maltitol raises glucose at 40-50% the rate of sugar, while erythritol shows under 1% impact. See how to self-monitor and choose safer sweeteners.
 date: '2026-01-02'
-updated: '2026-01-02'
-primaryKeyword: sugar-free candy blood sugar truth
+updated: '2026-03-29'
+primaryKeyword: sugar free candy blood sugar effects seniors
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

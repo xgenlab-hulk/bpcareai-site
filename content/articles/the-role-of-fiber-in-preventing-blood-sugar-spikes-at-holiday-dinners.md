@@ -1,11 +1,12 @@
 ---
-title: The Role of Fiber in Preventing Blood Sugar Spikes at Holiday Dinners
+title: >-
+  Using Fiber to Prevent Blood Sugar Spikes at Holiday Dinners
 slug: the-role-of-fiber-in-preventing-blood-sugar-spikes-at-holiday-dinners
 description: >-
-  Explains how strategic fiber intake before and during meals can blunt glucose surges, with practical food examples.
+  Just 5-10g of soluble fiber before a meal can cut post-dinner glucose by 20-30%. Get timing tips and holiday food swaps for adults over 50.
 date: '2025-12-09'
-updated: '2025-12-09'
-primaryKeyword: fiber to prevent blood sugar spikes
+updated: '2026-03-29'
+primaryKeyword: fiber to prevent holiday blood sugar spikes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Buffet Blood Sugar Guide: Portion and Sequence Tips
 slug: the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies
 description: >-
-  Provides actionable, age-adapted tactics for buffet navigation—including plate layout diagrams, order-of-serving logic, and fiber-first visual cues for adults 65+.
+  A typical buffet plate packs 80-120g refined carbs. Use plate layout tools, fiber-first sequencing, and stealth fiber to stay under 140 mg/dL after 50.
 date: '2026-01-02'
-updated: '2026-01-02'
-primaryKeyword: holiday buffet blood sugar guide
+updated: '2026-03-29'
+primaryKeyword: holiday buffet blood sugar management seniors
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

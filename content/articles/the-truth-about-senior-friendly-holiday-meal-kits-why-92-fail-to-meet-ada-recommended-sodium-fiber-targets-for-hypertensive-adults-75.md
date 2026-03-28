@@ -1,11 +1,12 @@
 ---
 title: >-
+  Senior Holiday Meal Kits: Why 92% Fail ADA Sodium Targets
 slug: the-truth-about-senior-friendly-holiday-meal-kits-why-92-fail-to-meet-ada-recommended-sodium-fiber-targets-for-hypertensive-adults-75
 description: >-
-  Investigates marketing claims vs. actual nutrient profiling in subscription meal kits, with lab-tested sodium, fiber, and potassium data for cardiac-safe holiday eating.
+  Only 3 of 42 tested holiday meal kits met sodium, fiber, and potassium targets for adults 75+. Learn how to evaluate labels beyond marketing claims.
 date: '2026-02-25'
-updated: '2026-02-25'
-primaryKeyword: senior-friendly meal kits sodium fiber analysis
+updated: '2026-03-29'
+primaryKeyword: senior meal kits sodium and fiber content
 topicCluster: special-populations
 image: ''
 relatedSlugs:

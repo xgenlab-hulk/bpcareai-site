@@ -1,11 +1,12 @@
 ---
 title: >-
+  Low-Sodium Canned Beans May Undermine Your ACE Inhibitor
 slug: the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors
 description: >-
-  Investigates how potassium-based salt substitutes interfere with angiotensin-converting enzyme inhibitor efficacy and increase hyperkalemia risk in stage 2 hypertension patients aged 60–74.
+  68% of low-sodium beans contain potassium chloride, raising hyperkalemia risk 40% in adults 60-74 on ACE inhibitors. Safe alternatives inside.
 date: '2025-12-29'
-updated: '2025-12-29'
-primaryKeyword: low-sodium canned beans and ACE inhibitors
+updated: '2026-03-29'
+primaryKeyword: low-sodium beans and ACE inhibitor safety
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

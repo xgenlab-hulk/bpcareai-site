@@ -1,11 +1,12 @@
 ---
-title: The Link Between Winter Depression and High Blood Pressure in Older Adults
+title: >-
+  Winter Depression and High Blood Pressure: A Hidden Link After 60
 slug: the-link-between-winter-depression-and-high-blood-pressure-in-older-adults
 description: >-
-  Discusses how seasonal affective disorder and reduced sunlight in winter may contribute to elevated blood pressure in seniors.
+  Seasonal mood decline raises systolic BP 2-4 mmHg in adults 65+ via sympathetic activation. Get monitoring tips and winter lifestyle strategies.
 date: '2025-12-10'
-updated: '2025-12-10'
-primaryKeyword: winter depression and hypertension
+updated: '2026-03-29'
+primaryKeyword: winter depression and high blood pressure seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

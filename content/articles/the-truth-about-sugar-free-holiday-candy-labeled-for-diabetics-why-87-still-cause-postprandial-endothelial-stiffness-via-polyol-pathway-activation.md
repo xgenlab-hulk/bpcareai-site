@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why 87% of Diabetic Holiday Candy Stiffens Your Arteries
 slug: the-truth-about-sugar-free-holiday-candy-labeled-for-diabetics-why-87-still-cause-postprandial-endothelial-stiffness-via-polyol-pathway-activation
 description: >-
-  Investigates how sugar alcohols (maltitol, sorbitol) in festive 'diabetic-friendly' treats trigger oxidative stress and reduce nitric oxide bioavailability — especially in adults with 10+ years of diabetes duration.
+  Sugar alcohols activate the polyol pathway, cutting nitric oxide within 60-90 minutes. Learn why 10+ years of diabetes raises artery stiffness risk from treats.
 date: '2026-02-26'
-updated: '2026-02-26'
-primaryKeyword: sugar-free candy endothelial stiffness
+updated: '2026-03-29'
+primaryKeyword: sugar-free candy and blood vessel stiffness diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

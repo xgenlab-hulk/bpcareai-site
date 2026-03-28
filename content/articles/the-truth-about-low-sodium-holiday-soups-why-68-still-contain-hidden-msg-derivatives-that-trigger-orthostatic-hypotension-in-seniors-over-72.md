@@ -1,11 +1,12 @@
 ---
 title: >-
+  Low-Sodium Holiday Soups Can Trigger Dizziness in Seniors 72+
 slug: the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72
 description: >-
-  Investigates how flavor enhancers masquerading as 'natural' ingredients in ready-made holiday soups interfere with baroreflex sensitivity and cerebral perfusion in frail older adults.
+  68% of low-sodium holiday soups contain hidden glutamates that slow baroreflex recovery 22% in frail adults 72+. Key ingredients to avoid.
 date: '2025-12-29'
-updated: '2025-12-29'
-primaryKeyword: low-sodium holiday soup orthostatic risk
+updated: '2026-03-29'
+primaryKeyword: low-sodium soup and orthostatic hypotension risk
 topicCluster: special-populations
 image: ''
 relatedSlugs:

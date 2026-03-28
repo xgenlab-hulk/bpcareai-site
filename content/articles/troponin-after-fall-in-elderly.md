@@ -1,11 +1,12 @@
 ---
 title: >-
+  Troponin After a Fall in Elderly: When Normal Levels Mislead
 slug: when-to-worry-about-normal-troponin-i-levels-after-a-fall-understanding-age-adjusted-cutoffs-and-myocardial-contusion-risk-in-adults-82-with-osteoporosis
 description: >-
-  Guides clinicians and families on interpreting troponin in frail older adults after trauma — including false-negative risk, assay limitations, and echocardiographic triage criteria.
+  Guides families and clinicians on interpreting troponin after falls in frail adults 82+. Covers age-adjusted cutoffs, serial testing protocols, and echocardiographic triage criteria.
 date: '2026-02-15'
-updated: '2026-02-15'
-primaryKeyword: troponin after fall in elderly
+updated: '2026-03-29'
+primaryKeyword: troponin levels after a fall in elderly adults
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

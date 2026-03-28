@@ -1,11 +1,12 @@
 ---
 title: >-
+  Sugar-Free Candy in Frail Adults Over 76: Hidden Hormonal Risks
 slug: the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76
 description: >-
-  Analyzes clinical glucose clamp data and epinephrine/norepinephrine responses to erythritol, allulose, and sucralose in 32 adults with sarcopenia and autonomic dysfunction.
+  A 32-person study found sugar-free candies trigger epinephrine spikes in frail adults with autonomic dysfunction, even without raising glucose. See safer picks.
 date: '2026-01-02'
-updated: '2026-01-02'
-primaryKeyword: sugar-free candies glycemic response frail elderly
+updated: '2026-03-29'
+primaryKeyword: sugar-free candy effects in frail elderly adults
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

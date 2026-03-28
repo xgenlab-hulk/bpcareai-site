@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Traffic Pollution Accelerates Carotid Artery Thickening After 66
 slug: how-living-near-high-traffic-urban-corridors-alters-carotid-intima-media-thickness-progression-in-adults-66-with-controlled-hypertension-and-no-prior-cvd
 description: >-
-  Examines longitudinal IMT data linked to PM2.5/NO2 exposure modeling, highlighting epigenetic drivers (e.g., LINE-1 methylation, miR-146a suppression) and neighborhood-level mitigation tactics.
+  Living within 200m of high-traffic roads speeds carotid IMT progression by 20% annually in adults 66+ with controlled BP. Covers epigenetic drivers and mitigation tactics.
 date: '2026-02-15'
-updated: '2026-02-15'
-primaryKeyword: "hypertension management adults 66+"
+updated: '2026-03-29'
+primaryKeyword: traffic pollution and carotid artery thickening
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

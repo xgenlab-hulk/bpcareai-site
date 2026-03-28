@@ -1,11 +1,12 @@
 ---
-title: Understanding A1C Goals for Seniors with Diabetes
+title: >-
+  A1C Goals for Seniors With Diabetes: Finding Your Safe Target
 slug: understanding-a1c-goals-for-seniors-with-diabetes
 description: >-
-  Learn how target HbA1c levels may differ for older adults based on overall health and comorbidities.
+  Explains why A1C targets differ for older adults with diabetes based on health status, life expectancy, and comorbidities. ADA guidelines recommend 7-8.5% for complex senior patients.
 date: '2025-11-28'
-updated: '2025-11-28'
-primaryKeyword: A1C targets for elderly with diabetes
+updated: '2026-03-29'
+primaryKeyword: A1C targets for seniors with diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Is Transdermal Magnesium Safe with Sacubitril/Valsartan After 68?
 slug: can-you-safely-use-transdermal-magnesium-chloride-while-on-sacubitril-valsartan-evidence-on-myocardial-fibrosis-markers-nt-probnp-trajectories-and-diuretic-synergy-in-adults-68-with-hfref
 description: >-
-  Evaluates safety, pharmacokinetic interactions, and functional outcomes of topical magnesium in advanced heart failure — where oral absorption and renal clearance are compromised.
+  Evaluates transdermal magnesium chloride safety alongside Entresto in HFrEF adults 68+. Covers NT-proBNP trajectories, fibrosis markers, and diuretic synergy with renal-adjusted protocols.
 date: '2026-02-10'
-updated: '2026-02-10'
-primaryKeyword: "health management adults 68+"
+updated: '2026-03-29'
+primaryKeyword: transdermal magnesium with sacubitril valsartan
 topicCluster: renal-health
 image: ''
 relatedSlugs:

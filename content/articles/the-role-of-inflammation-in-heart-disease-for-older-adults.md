@@ -1,11 +1,12 @@
 ---
-title: The Role of Inflammation in Heart Disease for Older Adults
+title: >-
+  Chronic Inflammation and Heart Disease After 50: What to Watch
 slug: the-role-of-inflammation-in-heart-disease-for-older-adults
 description: >-
-  Learn how chronic inflammation contributes to heart disease and what blood tests and lifestyle changes can help manage it.
+  Up to 40% of heart attacks hit people with normal cholesterol but high inflammation. Learn how CRP testing and lifestyle shifts cut risk after 50.
 date: '2025-11-30'
-updated: '2025-11-30'
-primaryKeyword: inflammation and heart disease in seniors
+updated: '2026-03-29'
+primaryKeyword: chronic inflammation heart disease seniors
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

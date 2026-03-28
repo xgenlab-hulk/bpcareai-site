@@ -1,10 +1,11 @@
 ---
 title: >-
+  Air Fryer Fries and Blood Thinner Safety After 70
 slug: the-truth-about-heart-healthy-air-fryer-french-fries-for-adults-70-on-dual-anticoagulants-apixaban-aspirin
 description: >-
-  Investigates how high-heat acrylamide formation and residual oxidized seed oils in air-fried starches increase platelet reactivity and endothelial oxidative stress—potentially undermining anticoagulant safety in polypharmacy seniors.
+  Air-fried potatoes may contain 30% more acrylamide than baked versions, raising oxidative stress that can undermine apixaban and aspirin in older adults.
 date: '2026-01-06'
-updated: '2026-01-06'
+updated: '2026-03-29'
 primaryKeyword: air fryer fries anticoagulant safety seniors
 topicCluster: cardiovascular-health
 image: ''

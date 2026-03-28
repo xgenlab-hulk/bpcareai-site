@@ -1,11 +1,12 @@
 ---
 title: >-
+  Low-Carb Restaurant Menus Often Hide 45g of Real Carbs
 slug: the-truth-about-low-carb-restaurant-menus-for-women-with-pcos-and-insulin-resistance-why-20g-net-carb-claims-often-mask-45g-total-available-carbs
 description: >-
-  Deconstructs restaurant menu labeling practices, fiber accounting loopholes, and resistant starch misrepresentation in dishes marketed as 'low-carb' for metabolic health.
+  Audits show dishes labeled under 20g net carbs average 45.7g total available carbs. See how fiber loopholes affect PCOS and insulin resistance.
 date: '2026-01-03'
-updated: '2026-01-03'
-primaryKeyword: low-carb restaurant menu truth
+updated: '2026-03-29'
+primaryKeyword: low-carb restaurant menus and insulin resistance
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

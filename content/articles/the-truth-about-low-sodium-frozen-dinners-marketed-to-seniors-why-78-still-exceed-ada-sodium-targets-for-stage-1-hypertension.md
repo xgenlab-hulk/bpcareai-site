@@ -1,11 +1,12 @@
 ---
 title: >-
+  78% of Senior Frozen Dinners Exceed Safe Sodium Limits
 slug: the-truth-about-low-sodium-frozen-dinners-marketed-to-seniors-why-78-still-exceed-ada-sodium-targets-for-stage-1-hypertension
 description: >-
-  Investigates hidden sodium sources (yeast extract, soy sauce derivatives, sodium citrate preservatives) in mainstream 'heart-healthy' frozen meals and provides label-reading criteria for adults 64+ managing mild hypertension.
+  Analysis of 127 frozen meals shows 78% exceed ADA sodium targets. Uncover hidden sources like yeast extract and sodium citrate in labels.
 date: '2026-02-25'
-updated: '2026-02-25'
-primaryKeyword: low-sodium frozen dinner sodium trap
+updated: '2026-03-29'
+primaryKeyword: hidden sodium in frozen dinners for seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

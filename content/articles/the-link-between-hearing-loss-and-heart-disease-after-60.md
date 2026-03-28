@@ -1,11 +1,12 @@
 ---
-title: The Link Between Hearing Loss and Heart Disease After 60
+title: >-
+  Hearing Loss and Heart Disease After 60: The Vascular Link
 slug: the-link-between-hearing-loss-and-heart-disease-after-60
 description: >-
-  Explore the shared vascular connections between hearing health and cardiovascular system decline.
+  High blood pressure raises hearing loss risk 20% after 60. Both share damaged vessel linings (endothelial dysfunction) that cut blood flow to the inner ear.
 date: '2025-12-09'
-updated: '2025-12-09'
-primaryKeyword: hearing loss and heart disease connection after 60
+updated: '2026-03-29'
+primaryKeyword: is hearing loss connected to heart disease after 60
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

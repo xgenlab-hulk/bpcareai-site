@@ -1,11 +1,12 @@
 ---
-title: The Truth About 'Healthy' Store-Bought Holiday Meals for Older Adults
+title: >-
+  Are Store-Bought Holiday Meals Safe for Seniors With Diabetes?
 slug: the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
 description: >-
-  We analyze popular pre-made holiday meal kits and frozen entrees to see which ones truly meet nutritional needs for seniors with diabetes or hypertension.
+  68% of frozen holiday entrees exceed 750 mg sodium per serving. See which pre-made meals truly meet standards for older adults with diabetes or hypertension.
 date: '2025-12-09'
-updated: '2025-12-09'
-primaryKeyword: healthy store-bought holiday meals seniors
+updated: '2026-03-29'
+primaryKeyword: store-bought holiday meals seniors diabetes
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: 'The Truth About ''Benign'' Holiday Palpitations: Are They Really Harmless?'
+title: >-
+  Are Holiday Palpitations After Drinking Really Harmless Over 50?
 slug: the-truth-about-benign-holiday-palpitations-are-they-really-harmless
 description: >-
-  Debunk myths surrounding temporary arrhythmias after drinking, emphasizing potential long-term implications if ignored.
+  Just 2-3 drinks can raise heart rate 10-20 BPM and trigger AFib in adults over 50. Learn which palpitation patterns signal benign flutter versus real risk.
 date: '2025-12-14'
-updated: '2025-12-14'
-primaryKeyword: benign holiday palpitations truth
+updated: '2026-03-29'
+primaryKeyword: holiday heart palpitations after drinking
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

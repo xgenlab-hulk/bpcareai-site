@@ -1,11 +1,12 @@
 ---
 title: >-
+  Mindful Eating for Seniors: Better Holiday Blood Sugar Control
 slug: the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
 description: >-
-  Review clinical studies showing how slowing down and savoring food improves digestion, satiety, and blood sugar control in older adults.
+  Trials show mindful eating cuts postprandial glucose spikes 18% in adults 65-82. Master the three-bite rule and satiety cues to protect digestion this season.
 date: '2025-12-06'
-updated: '2025-12-06'
-primaryKeyword: science of mindful eating seniors holidays
+updated: '2026-03-29'
+primaryKeyword: mindful eating benefits for seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

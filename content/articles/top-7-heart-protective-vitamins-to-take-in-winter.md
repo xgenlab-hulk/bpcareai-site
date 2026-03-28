@@ -1,11 +1,12 @@
 ---
-title: Top 7 Heart-Protective Vitamins to Take in Winter
+title: >-
+  7 Heart-Protective Vitamins and Supplements to Take in Winter
 slug: top-7-heart-protective-vitamins-to-take-in-winter
 description: >-
-  Reviews essential supplements like vitamin D, omega-3s, and magnesium that may help maintain heart function during winter months.
+  Review 7 winter supplements including vitamin D3, omega-3s, and magnesium that support cardiovascular function. Covers optimal blood levels, dosing, and safety for adults 50+.
 date: '2025-12-12'
-updated: '2025-12-12'
-primaryKeyword: winter heart supplements
+updated: '2026-03-29'
+primaryKeyword: heart-protective vitamins and supplements for winter
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

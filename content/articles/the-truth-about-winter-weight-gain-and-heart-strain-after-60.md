@@ -1,11 +1,12 @@
 ---
-title: The Truth About Winter Weight Gain and Heart Strain After 60
+title: >-
+  How 5 Pounds of Winter Weight Gain Strains Your Heart After 60
 slug: the-truth-about-winter-weight-gain-and-heart-strain-after-60
 description: >-
-  Debunks myths and reveals how modest winter weight gain can significantly increase cardiac workload in aging individuals.
+  A 5-pound gain raises systolic BP by 3-5 mmHg and boosts left ventricular wall stress 20% in seniors. Learn why waist size matters more than BMI.
 date: '2025-12-17'
-updated: '2025-12-17'
-primaryKeyword: winter weight gain heart
+updated: '2026-03-29'
+primaryKeyword: winter weight gain heart strain after 60
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

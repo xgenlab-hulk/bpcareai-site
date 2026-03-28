@@ -1,11 +1,12 @@
 ---
 title: >-
+  Are Plant-Based Burgers Safe With CKD and Hypertension?
 slug: the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension
 description: >-
-  Ingredient-level scrutiny of popular meat alternatives—focusing on hidden phosphorus additives, potassium load, and sodium variability—and safer homemade swaps.
+  Some plant patties exceed 550 mg sodium with phosphate additives absorbed at 90-100%. Learn safer label-reading strategies and homemade swaps for CKD seniors.
 date: '2025-12-21'
-updated: '2025-12-21'
-primaryKeyword: plant-based burgers for kidney disease seniors
+updated: '2026-03-29'
+primaryKeyword: plant-based burgers kidney disease hypertension
 topicCluster: renal-health
 image: ''
 relatedSlugs:

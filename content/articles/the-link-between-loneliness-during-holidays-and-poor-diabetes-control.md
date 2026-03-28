@@ -1,11 +1,12 @@
 ---
-title: The Link Between Loneliness During Holidays and Poor Diabetes Control
+title: >-
+  Holiday Loneliness and Diabetes Control: Why Isolation Hurts A1c
 slug: the-link-between-loneliness-during-holidays-and-poor-diabetes-control
 description: >-
-  Explore how seasonal isolation affects motivation, eating habits, and blood sugar in older adults with diabetes.
+  Loneliness raises poor sugar control (elevated A1c) risk 15-20% in adults 50+ with type 2 diabetes. Skipped meals and inactivity compound insulin resistance.
 date: '2025-12-02'
-updated: '2025-12-02'
-primaryKeyword: holiday loneliness diabetes control
+updated: '2026-03-29'
+primaryKeyword: how does holiday loneliness affect diabetes control
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

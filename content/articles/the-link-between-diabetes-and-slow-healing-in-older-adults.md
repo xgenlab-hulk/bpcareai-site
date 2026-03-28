@@ -1,11 +1,12 @@
 ---
-title: The Link Between Diabetes and Slow Healing in Older Adults
+title: >-
+  Why Diabetes Slows Wound Healing After 60 and How to Help
 slug: the-link-between-diabetes-and-slow-healing-in-older-adults
 description: >-
-  Find out why cuts and wounds heal slower with diabetes and how to reduce infection risks.
+  High blood sugar damages tiny vessels (microangiopathy), slowing healing 30-50%. Adults 60+ with A1c above 7% face higher infection risk from impaired immunity.
 date: '2025-11-27'
-updated: '2025-11-27'
-primaryKeyword: diabetes and slow wound healing in elderly
+updated: '2026-03-29'
+primaryKeyword: why do wounds heal slowly with diabetes after 60
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

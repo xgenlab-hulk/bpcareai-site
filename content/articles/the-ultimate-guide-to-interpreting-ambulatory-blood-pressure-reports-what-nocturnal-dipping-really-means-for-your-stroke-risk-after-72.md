@@ -1,11 +1,12 @@
 ---
 title: >-
+  Read Your Ambulatory Blood Pressure Report: Stroke Risk After 72
 slug: the-ultimate-guide-to-interpreting-ambulatory-blood-pressure-reports-what-nocturnal-dipping-really-means-for-your-stroke-risk-after-72
 description: >-
-  Decodes ABPM metrics beyond 'dipper/non-dipper': reverse dipping slope, morning surge magnitude, 24-h systolic standard deviation, and how each independently predicts lacunar stroke in octogenarians.
+  ABPM metrics like nocturnal dipping slope and morning surge predict lacunar stroke risk better than office readings. Key thresholds for adults 72+.
 date: '2025-12-26'
-updated: '2025-12-26'
-primaryKeyword: ambulatory blood pressure report interpretation stroke risk
+updated: '2026-03-29'
+primaryKeyword: ambulatory blood pressure report stroke risk
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,10 +1,11 @@
 ---
 title: >-
+  Plant-Based Burgers and Artery Health in Prediabetes Over 58
 slug: the-truth-about-heart-healthy-plant-based-burgers-do-they-lower-ldl-or-worsen-endothelial-function-in-adults-with-prediabetes-over-58
 description: >-
-  Breaks down sodium, saturated fat (coconut oil), and ultra-processed binder content in top retail brands, correlating ingredient profiles with postprandial FMD and oxLDL changes in real-world metabolic phenotypes.
+  One popular plant patty caused 32% more oxidized LDL than turkey in trials. See how sodium, coconut oil, and processed binders affect vascular health.
 date: '2025-12-31'
-updated: '2025-12-31'
+updated: '2026-03-29'
 primaryKeyword: plant-based burgers endothelial function prediabetes
 topicCluster: diabetes-management
 image: ''

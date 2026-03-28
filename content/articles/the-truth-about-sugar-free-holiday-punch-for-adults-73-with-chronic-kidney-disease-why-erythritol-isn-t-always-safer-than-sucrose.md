@@ -1,11 +1,12 @@
 ---
 title: >-
+  Sugar-Free Punch and CKD: Why Erythritol Isn't Always Safer
 slug: the-truth-about-sugar-free-holiday-punch-for-adults-73-with-chronic-kidney-disease-why-erythritol-isn-t-always-safer-than-sucrose
 description: >-
-  Analyzes osmotic load, renal excretion kinetics, and gut microbiome shifts triggered by sugar alcohols in kidney-compromised adults — plus 3 kidney-safe, electrolyte-balanced beverage formulas validated in dialysis-adjacent nutrition studies.
+  Erythritol's renal half-life jumps from 2 to nearly 6 hours in advanced CKD. Learn osmotic load risks and 3 kidney-safe beverage formulas for adults 73+.
 date: '2026-02-10'
-updated: '2026-02-10'
-primaryKeyword: sugar free holiday punch kidney disease
+updated: '2026-03-29'
+primaryKeyword: sugar free punch kidney disease erythritol safety
 topicCluster: renal-health
 image: ''
 relatedSlugs:

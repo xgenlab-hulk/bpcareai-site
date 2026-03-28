@@ -1,11 +1,12 @@
 ---
 title: >-
+  Herb-Roasted vs Deep-Fried Turkey: Which Delivers More Zinc?
 slug: a-vs-b-slow-cooked-herb-roasted-turkey-breast-vs-deep-fried-turkey-leg-which-preserves-more-bioavailable-zinc-and-supports-immune-resilience-in-seniors-with-low-serum-zinc
 description: >-
-  Compares zinc bioavailability, oxidative byproduct formation, and postprandial inflammatory markers between two popular holiday turkey preparations in adults aged 65–85 with subclinical zinc deficiency.
+  Compares zinc bioavailability between slow-roasted and deep-fried turkey in seniors 65-85 with subclinical deficiency. Slow-roasting yields 40-50% absorption vs 25-30% from frying.
 date: '2025-12-31'
-updated: '2025-12-31'
-primaryKeyword: turkey preparation zinc bioavailability seniors
+updated: '2026-03-29'
+primaryKeyword: turkey zinc absorption for older adults
 topicCluster: special-populations
 image: ''
 relatedSlugs:

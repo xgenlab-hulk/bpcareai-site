@@ -1,11 +1,12 @@
 ---
-title: Top 6 Nutrient-Dense Side Dishes to Add to Your Senior-Friendly Holiday Table
+title: >-
+  6 Nutrient-Dense Holiday Side Dishes Seniors Will Love
 slug: top-6-nutrient-dense-side-dishes-to-add-to-your-senior-friendly-holiday-table
 description: >-
-  Boost vitamins and minerals during the holidays with antioxidant-rich sides that support immunity and energy in older adults.
+  Build a senior-friendly holiday table with 6 antioxidant-rich side dishes that support immunity, energy, and heart health. Includes fiber targets and color-variety guides.
 date: '2025-12-04'
-updated: '2025-12-04'
-primaryKeyword: nutrient-dense holiday side dishes seniors
+updated: '2026-03-29'
+primaryKeyword: nutrient-dense holiday side dishes for seniors
 topicCluster: special-populations
 image: ''
 relatedSlugs:

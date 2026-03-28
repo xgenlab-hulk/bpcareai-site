@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Protein Bars: Why 91% Contain Maltitol That Slows Digestion
 slug: the-truth-about-senior-friendly-holiday-protein-bars-why-91-contain-hidden-maltitol-that-delays-gastric-emptying-in-adults-68-with-gastroparesis
 description: >-
-  Investigates how sugar alcohols in commercially marketed holiday protein bars worsen postprandial fullness, nausea, and glucose volatility in older adults with delayed gastric motility.
+  Maltitol in protein bars extends gastric retention by 30-40 min in adults 68+ with gastroparesis. Learn to spot hidden sugar alcohols and find safer options.
 date: '2026-02-10'
-updated: '2026-02-10'
-primaryKeyword: senior-friendly protein bars gastroparesis maltitol
+updated: '2026-03-29'
+primaryKeyword: protein bars and gastroparesis in older adults
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Sugar-Free Keto Eggnog: 82% Contain Maltitol That Harms Digestion
 slug: the-truth-about-sugar-free-eggnog-labeled-keto-why-82-of-these-drinks-contain-maltitol-that-triggers-gastric-distress-in-adults-68-with-gastroparesis
 description: >-
-  Debunks marketing claims by examining sugar alcohol metabolism, osmotic load, and delayed gastric emptying in aging GI tracts—plus safer alternatives backed by gastroenterology guidelines.
+  Nearly 7 in 10 adults 68+ with gastroparesis report GI symptoms within 90 minutes of sugar-free eggnog. Learn safe thresholds and better holiday alternatives.
 date: '2026-02-16'
-updated: '2026-02-16'
-primaryKeyword: "health management adults 68+"
+updated: '2026-03-29'
+primaryKeyword: sugar-free eggnog gastroparesis risk in seniors
 topicCluster: mental-health-stress
 image: ''
 relatedSlugs:

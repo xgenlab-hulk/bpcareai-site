@@ -1,11 +1,12 @@
 ---
 title: >-
+  6 AM vs 10 AM TRF Window: Impact on Liver Fat and GLP-1 Response
 slug: a-vs-b-12-week-time-restricted-eating-starting-at-6-a-m-vs-10-a-m-impact-on-fasting-triglycerides-hepatic-fat-fraction-and-postprandial-glp-1-in-adults-55-62-with-nafld-and-prediabetes
 description: >-
-  Compares two early-morning TRF windows using MRI-PDFF, oral fat tolerance tests, and multiplex gut hormone assays—revealing how earlier feeding preserves diurnal GLP-1 amplitude better than late-morning onset.
+  Compares 6 AM vs 10 AM time-restricted feeding in adults 55-62 with NAFLD and prediabetes. MRI-PDFF data shows 15% greater liver fat reduction with earlier eating windows.
 date: '2026-02-24'
-updated: '2026-02-24'
-primaryKeyword: trf window timing nafld prediabetes
+updated: '2026-03-29'
+primaryKeyword: time-restricted feeding window for fatty liver
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: 'The Truth About Alcohol and Heart Disease: Is One Drink a Day Safe?'
+title: >-
+  Is One Drink a Day Safe for Your Heart After 50? Latest Evidence
 slug: the-truth-about-alcohol-and-heart-disease-is-one-drink-a-day-safe
 description: >-
-  Weigh the pros and cons of moderate drinking on heart health for people over 50.
+  The 2022 Lancet study found no heart benefit from alcohol at any level, with stroke risk rising 10-15% in adults over 50. See what this means for you.
 date: '2025-12-14'
-updated: '2025-12-14'
-primaryKeyword: alcohol consumption and heart disease after 50
+updated: '2026-03-29'
+primaryKeyword: alcohol and heart disease risk after 50
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

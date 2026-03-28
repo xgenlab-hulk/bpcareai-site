@@ -1,11 +1,12 @@
 ---
 title: >-
+  Stealth Fiber for Holiday Sides: Mashed Potatoes to Gravy
 slug: the-ultimate-guide-to-stealth-fiber-additions-for-holiday-mashed-potatoes-stuffing-and-gravy-without-changing-taste-or-texture
 description: >-
-  A chef-dietitian co-developed guide using resistant starch, psyllium integration, and vegetable puree layering techniques—tested for palatability across 5 age groups and 3 comorbidities.
+  Adding 5g viscous fiber to a holiday meal cuts 2-hour glucose by 27% in adults 65+. Resistant starch and psyllium methods that preserve taste fully.
 date: '2025-12-30'
-updated: '2025-12-30'
-primaryKeyword: stealth fiber holiday side dishes
+updated: '2026-03-29'
+primaryKeyword: add fiber to holiday side dishes invisibly
 topicCluster: special-populations
 image: ''
 relatedSlugs:

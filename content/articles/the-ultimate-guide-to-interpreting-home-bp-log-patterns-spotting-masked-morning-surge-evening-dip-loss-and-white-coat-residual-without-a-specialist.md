@@ -1,11 +1,12 @@
 ---
 title: >-
+  Spot Morning Surge and Evening Dip Loss in Your Home BP Log
 slug: the-ultimate-guide-to-interpreting-home-bp-log-patterns-spotting-masked-morning-surge-evening-dip-loss-and-white-coat-residual-without-a-specialist
 description: >-
-  Teaches pattern recognition (timing, variability, posture context) in self-recorded logs using WHO-ISH criteria, with printable templates and AI-powered interpretation prompts for adults 50+.
+  Up to 20% of adults over 50 have masked morning BP surges missed in clinic. Learn to spot evening dip loss and white-coat residual patterns at home.
 date: '2025-12-31'
-updated: '2025-12-31'
-primaryKeyword: interpreting home blood pressure logs
+updated: '2026-03-29'
+primaryKeyword: home blood pressure log patterns adults 50+
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: 'The Truth About Salt Intake in Winter: Is Your Diet Riskier Now?'
+title: >-
+  Winter Salt Intake After 50: Why BP Rises 3-5 mmHg Seasonally
 slug: the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
 description: >-
-  Debunks myths about winter cravings and sodium consumption, offering real-world advice for seniors managing hypertension.
+  Systolic BP rises 3-5 mmHg from summer to winter due to sodium-rich comfort foods and less activity. Learn practical swaps to stay stable through cold months.
 date: '2025-12-15'
-updated: '2025-12-15'
-primaryKeyword: "diet management winter seniors"
+updated: '2026-03-29'
+primaryKeyword: winter salt intake and blood pressure in seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Low-Sodium Soups Aren't Always Safe for Heart Failure Over 65
 slug: the-truth-about-low-sodium-canned-soups-for-adults-with-heart-failure-and-preserved-ejection-fraction-over-65
 description: >-
-  Analyzes sodium labeling loopholes, hidden potassium binders, and fluid-retention triggers in commercially labeled 'low-sodium' soups—and how they impact 24-hour BP variability.
+  Many low-sodium soups swap salt for potassium chloride, risking hyperkalemia in seniors on ACE inhibitors. See how this affects BP in HFpEF.
 date: '2026-01-10'
-updated: '2026-01-10'
-primaryKeyword: low-sodium soup heart failure seniors
+updated: '2026-03-29'
+primaryKeyword: low-sodium soup and heart failure risk
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

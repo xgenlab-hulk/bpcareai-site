@@ -1,11 +1,12 @@
 ---
 title: >-
+  Vitamin D3 for Seasonal Mood in Adults Over 65 With CKD
 slug: the-truth-about-vitamin-d3-supplementation-for-seasonal-mood-support-in-adults-with-stage-3-ckd-over-65
 description: >-
-  Clarifies dosing safety, monitoring requirements, and interaction risks with phosphate binders and active vitamin D analogs—separating evidence from supplement marketing claims.
+  About 70% of CKD seniors have low vitamin D, yet unmonitored D3 can raise calcium and strain kidneys. See safe targets and drug interactions.
 date: '2025-12-26'
-updated: '2025-12-26'
-primaryKeyword: vitamin d3 for seasonal depression with kidney disease
+updated: '2026-03-29'
+primaryKeyword: vitamin D3 seasonal mood support CKD over 65
 topicCluster: renal-health
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: The Truth About Alcohol and Blood Sugar During Holiday Parties
+title: >-
+  How Alcohol Affects Blood Sugar at Holiday Parties After 50
 slug: the-truth-about-alcohol-and-blood-sugar-during-holiday-parties
 description: >-
-  Examine how festive drinking affects glucose control in older adults with type 2 diabetes and how to make safer choices.
+  Alcohol blocks liver glucose release, risking hypoglycemia in seniors on insulin or sulfonylureas. Learn safe testing times and drink pairings for parties.
 date: '2025-12-16'
-updated: '2025-12-16'
-primaryKeyword: alcohol effect on blood sugar holidays
+updated: '2026-03-29'
+primaryKeyword: alcohol and blood sugar during holidays
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

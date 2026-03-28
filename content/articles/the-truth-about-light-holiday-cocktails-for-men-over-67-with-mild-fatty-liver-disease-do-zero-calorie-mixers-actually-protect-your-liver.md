@@ -1,11 +1,12 @@
 ---
 title: >-
+  Zero-Calorie Mixers Don't Protect Your Liver After 67
 slug: the-truth-about-light-holiday-cocktails-for-men-over-67-with-mild-fatty-liver-disease-do-zero-calorie-mixers-actually-protect-your-liver
 description: >-
-  Analyzes how artificial sweeteners, alcohol metabolites, and circadian disruption from evening drinking affect hepatic fat accumulation and ALT trends in aging men—with evidence from 12-week liver elastography trials.
+  Men 67-74 drinking zero-calorie cocktails nightly saw 19% higher liver fat in 12 weeks. Explore why calorie-free mixers still fuel lipogenesis.
 date: '2026-01-10'
-updated: '2026-01-10'
-primaryKeyword: zero-calorie cocktails and fatty liver
+updated: '2026-03-29'
+primaryKeyword: zero-calorie mixers and fatty liver disease
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: The Truth About 'Cheating' on Your Diet During Family Celebrations
+title: >-
+  Can You Cheat on Your Diet at Family Celebrations With Diabetes?
 slug: the-truth-about-cheating-on-your-diet-during-family-celebrations
 description: >-
-  Examines whether occasional indulgences are harmful or sustainable for long-term health, especially for people with diabetes or heart concerns.
+  Flexible eating patterns outperform rigid diets for heart and glucose outcomes long-term. Learn to enjoy holiday meals without derailing BP or blood sugar.
 date: '2025-12-03'
-updated: '2025-12-03'
-primaryKeyword: cheating on diet occasional basis
+updated: '2026-03-29'
+primaryKeyword: occasional diet indulgence with diabetes
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

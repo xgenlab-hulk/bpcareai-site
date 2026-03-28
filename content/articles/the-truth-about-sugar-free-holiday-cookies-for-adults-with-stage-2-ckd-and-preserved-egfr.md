@@ -1,11 +1,12 @@
 ---
 title: >-
+  Are Sugar-Free Cookies Safe for Seniors With Stage 2 CKD?
 slug: the-truth-about-sugar-free-holiday-cookies-for-adults-with-stage-2-ckd-and-preserved-egfr
 description: >-
-  Debunks marketing claims around sugar alcohols and artificial sweeteners in festive baked goods—and reveals which alternatives (e.g., low-potassium erythritol blends) are truly kidney-safe for older adults managing phosphorus and potassium.
+  One sugar-free cookie can pack 80-120 mg phosphorus, nearly 10% of the CKD daily limit. See which sweeteners are truly kidney-safe for older adults.
 date: '2026-01-09'
-updated: '2026-01-09'
-primaryKeyword: sugar-free cookies stage 2 ckid seniors
+updated: '2026-03-29'
+primaryKeyword: sugar free cookies kidney safe for CKD seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

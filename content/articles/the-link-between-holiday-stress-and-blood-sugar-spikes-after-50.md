@@ -1,11 +1,12 @@
 ---
-title: The Link Between Holiday Stress and Blood Sugar Spikes After 50
+title: >-
+  Holiday Stress and Blood Sugar Spikes: What Happens After 50
 slug: the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
 description: >-
-  Discusses how emotional stress during family gatherings impacts insulin resistance and glucose levels in middle-aged and older adults.
+  Stress hormones make your body need 20-30% more insulin, pushing fasting glucose to 115 mg/dL. 40% of adults 50-70 have hidden prediabetes (insulin resistance).
 date: '2025-12-08'
-updated: '2025-12-08'
-primaryKeyword: stress and blood sugar holidays
+updated: '2026-03-29'
+primaryKeyword: does holiday stress spike blood sugar after 50
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

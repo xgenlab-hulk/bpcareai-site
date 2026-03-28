@@ -1,11 +1,12 @@
 ---
 title: >-
+  How to Interpret Home Blood Pressure Logs With AFib After 65
 slug: the-ultimate-guide-to-interpreting-home-blood-pressure-logs-for-adults-65-with-intermittent-atrial-fibrillation-and-variable-readings
 description: >-
-  Teaches how to distinguish true BP lability from artifact, identify rhythm-related spikes, and use time-series clustering to guide clinical decisions—not just averages.
+  About 30% of seniors with AFib see wide BP swings between readings. Learn to separate true lability from artifact and spot rhythm-related spikes.
 date: '2026-01-10'
-updated: '2026-01-10'
-primaryKeyword: interpreting home bp logs afib seniors
+updated: '2026-03-29'
+primaryKeyword: home blood pressure logs atrial fibrillation
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

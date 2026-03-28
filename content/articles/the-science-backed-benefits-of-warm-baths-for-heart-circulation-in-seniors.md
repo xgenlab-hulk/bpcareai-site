@@ -1,11 +1,12 @@
 ---
-title: The Science-Backed Benefits of Warm Baths for Heart Circulation in Seniors
+title: >-
+  How Warm Baths Improve Heart Circulation in Seniors Over 60
 slug: the-science-backed-benefits-of-warm-baths-for-heart-circulation-in-seniors
 description: >-
-  Reviews research on how warm (not hot) baths improve peripheral circulation and reduce blood pressure safely in older adults.
+  Warm baths at 40C lower systolic BP by 6-8 mmHg in adults 60-79 within weeks. Learn safe bathing temps and timing to boost peripheral circulation safely.
 date: '2025-12-08'
-updated: '2025-12-08'
-primaryKeyword: warm baths heart circulation
+updated: '2026-03-29'
+primaryKeyword: warm baths and blood circulation in seniors
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

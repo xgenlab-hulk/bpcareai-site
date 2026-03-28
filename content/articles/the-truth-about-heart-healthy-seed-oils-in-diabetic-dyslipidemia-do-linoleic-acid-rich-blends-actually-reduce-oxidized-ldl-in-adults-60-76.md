@@ -1,11 +1,12 @@
 ---
 title: >-
+  Do Seed Oils Raise Oxidized LDL in Seniors With Diabetes?
 slug: the-truth-about-heart-healthy-seed-oils-in-diabetic-dyslipidemia-do-linoleic-acid-rich-blends-actually-reduce-oxidized-ldl-in-adults-60-76
 description: >-
-  Evaluates plasma oxLDL, LDL particle size, and postprandial lipid peroxidation after 4 weeks of high–linoleic acid vs. high–oleic acid oil consumption in insulin-resistant adults with mixed dyslipidemia.
+  A 4-week trial showed high-linoleic oils raised oxidized LDL 22% in insulin-resistant adults. Learn which cooking oils actually protect arteries after 60.
 date: '2026-01-07'
-updated: '2026-01-07'
-primaryKeyword: seed oils and oxidized ldl in diabetes
+updated: '2026-03-29'
+primaryKeyword: seed oils oxidized LDL diabetes seniors
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

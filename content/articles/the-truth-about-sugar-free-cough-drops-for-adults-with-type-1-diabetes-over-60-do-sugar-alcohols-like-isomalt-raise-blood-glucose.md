@@ -1,11 +1,12 @@
 ---
 title: >-
+  Sugar-Free Cough Drops and T1D After 60: Do They Raise Glucose?
 slug: the-truth-about-sugar-free-cough-drops-for-adults-with-type-1-diabetes-over-60-do-sugar-alcohols-like-isomalt-raise-blood-glucose
 description: >-
-  Analyzes glycemic impact, laxative thresholds, and insulin dosing considerations for common OTC cough suppressants containing maltitol, isomalt, and erythritol in aging T1D.
+  70% of T1D adults 58-72 saw glucose rise 15-25 mg/dL from two maltitol lozenges. Compare isomalt, maltitol, and erythritol to pick safer cough drops.
 date: '2026-01-09'
-updated: '2026-01-09'
-primaryKeyword: sugar-free cough drops and blood sugar in seniors
+updated: '2026-03-29'
+primaryKeyword: sugar-free cough drops blood sugar type 1 diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

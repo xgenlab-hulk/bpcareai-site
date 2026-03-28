@@ -1,11 +1,12 @@
 ---
 title: >-
+  Slow-Roasted vs Sous-Vide Turkey: Which Protects Your Arteries?
 slug: a-vs-b-traditional-slow-cooked-turkey-breast-vs-sous-vide-turkey-breast-impact-on-advanced-glycation-end-products-ages-postprandial-inflammation-and-endothelial-function-in-adults-66-with-early-atherosclerosis
 description: >-
-  Compares cooking methods by AGE formation, CRP response, and flow-mediated dilation data — with practical kitchen adaptations for home cooks over 65.
+  Compares turkey cooking methods by AGE formation, CRP response, and flow-mediated dilation in adults 65+ with early atherosclerosis. Sous-vide cuts AGEs by 30-40% per serving.
 date: '2026-02-24'
-updated: '2026-02-24'
-primaryKeyword: turkey cooking method endothelial health
+updated: '2026-03-29'
+primaryKeyword: turkey cooking methods and heart health
 topicCluster: special-populations
 image: ''
 relatedSlugs:

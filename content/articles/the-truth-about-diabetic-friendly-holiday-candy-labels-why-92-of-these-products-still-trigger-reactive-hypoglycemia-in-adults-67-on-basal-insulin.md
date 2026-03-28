@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Diabetic-Friendly Holiday Candy Still Spikes Blood Sugar
 slug: the-truth-about-diabetic-friendly-holiday-candy-labels-why-92-of-these-products-still-trigger-reactive-hypoglycemia-in-adults-67-on-basal-insulin
 description: >-
-  Investigates hidden fructose-glucose ratios, maltitol-induced insulin surges, and delayed glucose absorption kinetics in labeled 'low-sugar' confections — with real-world CGM data from a 14-day holiday food challenge study.
+  CGM data shows 92% of adults 67+ on basal insulin get reactive hypoglycemia from low-sugar candy. See how maltitol and fructose ratios mislead label readers.
 date: '2026-02-22'
-updated: '2026-02-22'
-primaryKeyword: diabetic-friendly candy truth
+updated: '2026-03-29'
+primaryKeyword: diabetic friendly candy labels and blood sugar
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

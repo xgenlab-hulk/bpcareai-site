@@ -1,11 +1,12 @@
 ---
 title: >-
+  Coronary Calcium Score Guide: Age and Sex Benchmarks Explained
 slug: the-ultimate-guide-to-interpreting-your-coronary-artery-calcium-score-including-age-and-sex-specific-percentile-benchmarks-and-when-to-repeat-scanning
 description: >-
-  Breaks down CAC score meaning beyond '0 = low risk', including sex-specific risk reclassification thresholds, progression rates that warrant intensification, and optimal repeat intervals by baseline score.
+  A CAC of 100 signals different risk for men vs. women at 65. Sex-specific MESA percentile thresholds, progression triggers, and repeat scan timing.
 date: '2026-01-09'
-updated: '2026-01-09'
-primaryKeyword: coronary calcium score interpretation guide
+updated: '2026-03-29'
+primaryKeyword: coronary artery calcium score interpretation
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

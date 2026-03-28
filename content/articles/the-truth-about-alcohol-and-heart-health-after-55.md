@@ -1,10 +1,11 @@
 ---
-title: The Truth About Alcohol and Heart Health After 55
+title: >-
+  What Alcohol Really Does to Your Heart After 55
 slug: the-truth-about-alcohol-and-heart-health-after-55
 description: >-
-  Weigh the pros and cons of moderate drinking and its real impact on long-term heart wellness.
+  Even 1-2 drinks daily raise systolic BP 2-4 mmHg after 55. Learn how aging metabolism, AFib risk, and medication interactions reshape alcohol safety limits.
 date: '2025-12-06'
-updated: '2025-12-06'
+updated: '2026-03-29'
 primaryKeyword: alcohol effects on heart health after 55
 topicCluster: cardiovascular-health
 image: ''

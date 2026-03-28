@@ -1,11 +1,12 @@
 ---
 title: >-
+  Low-Alcohol Holiday Drinks Still Raise QT Risk on Amiodarone
 slug: the-truth-about-heart-safe-holiday-cocktails-labeled-low-alcohol-why-4-5-abv-mulled-wine-still-raises-qt-dispersion-in-adults-67-on-amiodarone
 description: >-
-  Debunks marketing claims around low-alcohol holiday beverages by analyzing real-world ECG impact on repolarization in seniors on antiarrhythmics.
+  Even 4.5% ABV mulled wine can widen QT dispersion by 12-18 ms in adults 67+ on amiodarone. Learn safer holiday drink alternatives.
 date: '2026-02-22'
-updated: '2026-02-22'
-primaryKeyword: low-alcohol cocktails qt dispersion risk
+updated: '2026-03-29'
+primaryKeyword: low-alcohol holiday drinks and QT risk
 topicCluster: special-populations
 image: ''
 relatedSlugs:

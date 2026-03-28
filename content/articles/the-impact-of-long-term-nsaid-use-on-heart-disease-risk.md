@@ -1,11 +1,12 @@
 ---
-title: The Impact of Long-Term NSAID Use on Heart Disease Risk
+title: >-
+  How Long-Term NSAID Use Raises Heart Disease Risk After 55
 slug: the-impact-of-long-term-nsaid-use-on-heart-disease-risk
 description: >-
-  Understand how regular use of painkillers like ibuprofen may elevate cardiovascular risks in older adults.
+  Painkillers (NSAIDs) can raise blood pressure 3-5 mmHg and impair kidney flow. Some carry 20-40% higher heart attack risk for adults 55+.
 date: '2025-11-27'
-updated: '2025-11-27'
-primaryKeyword: long-term NSAID use and heart disease risk
+updated: '2026-03-29'
+primaryKeyword: do NSAIDs like ibuprofen raise heart disease risk
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

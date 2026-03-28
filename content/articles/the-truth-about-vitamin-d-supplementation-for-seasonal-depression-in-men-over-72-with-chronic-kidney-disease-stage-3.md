@@ -1,11 +1,12 @@
 ---
 title: >-
+  Vitamin D for Seasonal Depression in Men Over 72 With CKD
 slug: the-truth-about-vitamin-d-supplementation-for-seasonal-depression-in-men-over-72-with-chronic-kidney-disease-stage-3
 description: >-
-  Clarifies dosing thresholds, calcitriol conversion limitations, and PTH-driven mood correlations in CKD seniors—separating evidence from widespread supplementation myths.
+  In CKD stage 3, calcitriol conversion drops sharply, limiting mood benefits from standard D3. Learn why PTH matters more than 25(OH)D alone.
 date: '2026-01-02'
-updated: '2026-01-02'
-primaryKeyword: vitamin d supplementation seasonal depression kidney disease
+updated: '2026-03-29'
+primaryKeyword: vitamin D seasonal depression CKD stage 3 men
 topicCluster: renal-health
 image: ''
 relatedSlugs:

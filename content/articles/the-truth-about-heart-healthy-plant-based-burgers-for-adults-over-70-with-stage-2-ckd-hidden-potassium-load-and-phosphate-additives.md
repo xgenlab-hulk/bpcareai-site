@@ -1,11 +1,12 @@
 ---
 title: >-
+  Plant-Based Burgers: Hidden Kidney Risks for Adults Over 70
 slug: the-truth-about-heart-healthy-plant-based-burgers-for-adults-over-70-with-stage-2-ckd-hidden-potassium-load-and-phosphate-additives
 description: >-
-  Breaks down ingredient-level analysis of 12 top-selling frozen plant-based patties, highlighting non-label-disclosed phosphates and potassium equivalents that exceed daily allowances for older CKD patients.
+  7 of 12 top plant patties contain undisclosed phosphate additives absorbed at nearly 100%. Learn which hidden minerals threaten seniors with stage 2 CKD.
 date: '2025-12-29'
-updated: '2025-12-29'
-primaryKeyword: plant-based burgers potassium phosphorus ckdd
+updated: '2026-03-29'
+primaryKeyword: plant-based burgers potassium phosphorus CKD
 topicCluster: renal-health
 image: ''
 relatedSlugs:

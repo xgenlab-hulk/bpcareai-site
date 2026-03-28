@@ -1,11 +1,12 @@
 ---
 title: >-
+  Gluten-Free Holiday Bread and Hidden B12 Deficiency Risk After 70
 slug: the-truth-about-gluten-free-holiday-breads-for-men-over-70-with-silent-celiac-disease-and-low-b12
 description: >-
-  Examines nutrient density gaps, fortification inconsistencies, and cross-contamination risks in store-bought GF holiday loaves—and how they impact B12 absorption and neurological health.
+  Only 38% of GF holiday loaves contain added B12, and silent celiac cuts absorption 20-40%. Learn which blood tests catch deficiency before symptoms start.
 date: '2026-01-07'
-updated: '2026-01-07'
-primaryKeyword: gluten-free holiday bread b12 deficiency
+updated: '2026-03-29'
+primaryKeyword: gluten free bread and B12 deficiency in seniors
 topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:

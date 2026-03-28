@@ -1,11 +1,12 @@
 ---
-title: The Link Between Sleep Apnea and High Blood Pressure
+title: >-
+  How Sleep Apnea Raises Blood Pressure at Night — and What Helps
 slug: the-link-between-sleep-apnea-and-high-blood-pressure
 description: >-
-  Explore how untreated sleep apnea contributes to hypertension and what treatments can help improve both conditions.
+  Untreated sleep apnea raises nocturnal BP by disrupting oxygen flow. Learn how CPAP and lifestyle changes cut hypertension risk after 50.
 date: '2025-11-27'
-updated: '2025-11-27'
-primaryKeyword: sleep apnea and high blood pressure connection
+updated: '2026-03-29'
+primaryKeyword: sleep apnea and blood pressure after 50
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

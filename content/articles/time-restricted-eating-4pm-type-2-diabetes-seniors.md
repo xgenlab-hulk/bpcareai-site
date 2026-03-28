@@ -1,11 +1,12 @@
 ---
 title: >-
+  Time-Restricted Eating at 4PM: Heart Benefits for Seniors
 slug: what-research-says-about-time-restricted-eating-starting-at-4-p-m-for-adults-67-with-type-2-diabetes-and-early-diastolic-dysfunction-impact-on-cardiac-strain-and-nt-probnp-trajectories
 description: >-
-  Synthesizes findings from the 2024 TRIM-Heart Trial: how early circadian eating windows modulate myocardial glucose uptake, reduce interstitial edema, and improve E/e’ ratios — independent of weight change.
+  The TRIM-Heart Trial showed 22% lower NT-proBNP and improved E/e' ratios with early eating windows in adults 67+ with diabetes, independent of weight.
 date: '2026-02-22'
-updated: '2026-02-22'
-primaryKeyword: time-restricted eating 4pm type 2 diabetes seniors
+updated: '2026-03-29'
+primaryKeyword: time-restricted eating seniors type 2 diabetes heart
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

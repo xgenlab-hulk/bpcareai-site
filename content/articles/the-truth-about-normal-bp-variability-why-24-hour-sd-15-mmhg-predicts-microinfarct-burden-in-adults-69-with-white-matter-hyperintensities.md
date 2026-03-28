@@ -1,11 +1,12 @@
 ---
 title: >-
+  BP Variability Over 15 mmHg SD: Brain Microinfarct Risk After 69
 slug: the-truth-about-normal-bp-variability-why-24-hour-sd-15-mmhg-predicts-microinfarct-burden-in-adults-69-with-white-matter-hyperintensities
 description: >-
-  Debunks the myth of benign BP lability in aging brains, linking excessive circadian amplitude to cerebral small-vessel endothelial injury and silent infarct progression.
+  Adults 69+ with 24-hour systolic BP SD above 15 mmHg face 2.3x higher microinfarct burden. Learn how excessive BP swings damage cerebral small vessels silently.
 date: '2026-03-02'
-updated: '2026-03-02'
-primaryKeyword: blood pressure variability and brain health
+updated: '2026-03-29'
+primaryKeyword: blood pressure variability and brain microinfarcts
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

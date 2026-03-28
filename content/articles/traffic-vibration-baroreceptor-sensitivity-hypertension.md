@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Traffic Vibration Impairs Baroreceptor Sensitivity in Adults 65-70
 slug: how-chronic-exposure-to-low-frequency-traffic-vibration-below-10-hz-modulates-baroreceptor-sensitivity-in-adults-65-70-with-stage-1-hypertension-and-mild-sleep-fragmentation
 description: >-
-  Analyzes environmental biomechanics affecting autonomic regulation — focusing on sub-threshold vibrational stimuli that subtly impair pressure-sensing neural pathways.
+  Sub-10 Hz traffic vibrations reduce baroreceptor sensitivity by 15-20% in older hypertensive adults. Learn how ground-borne vibration affects BP regulation and sleep quality.
 date: '2026-02-12'
-updated: '2026-02-12'
-primaryKeyword: traffic vibration baroreceptor sensitivity hypertension
+updated: '2026-03-29'
+primaryKeyword: traffic vibration and baroreceptor sensitivity
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

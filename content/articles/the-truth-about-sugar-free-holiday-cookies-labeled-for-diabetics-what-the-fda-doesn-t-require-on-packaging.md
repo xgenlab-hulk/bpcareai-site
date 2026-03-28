@@ -1,11 +1,12 @@
 ---
 title: >-
+  Sugar-Free Cookies: Hidden Glycemic Risks FDA Labels Miss
 slug: the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
 description: >-
-  Exposes hidden glycemic risks in maltitol-sweetened treats, explains why GI testing isn’t mandated for 'sugar-free' claims, and offers 4 lab-verified low-glycemic dessert alternatives.
+  FDA doesn't require glycemic index testing for sugar-free claims. Maltitol can spike glucose at 40-50% of sugar's rate. See 4 lab-verified low-GI alternatives.
 date: '2025-12-22'
-updated: '2025-12-22'
-primaryKeyword: sugar-free cookies glycemic impact seniors
+updated: '2026-03-29'
+primaryKeyword: sugar free cookies glycemic impact diabetic seniors
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

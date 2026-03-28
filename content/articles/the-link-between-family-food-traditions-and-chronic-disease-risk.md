@@ -1,11 +1,12 @@
 ---
-title: The Link Between Family Food Traditions and Chronic Disease Risk
+title: >-
+  When Family Recipes Fuel Chronic Disease: Healthier Swaps After 50
 slug: the-link-between-family-food-traditions-and-chronic-disease-risk
 description: >-
-  Analyzes how generational recipes high in fat, salt, or sugar contribute to long-term health issues in aging populations.
+  Traditional dishes often pack 1,500mg+ sodium per serving, raising BP in half of adults 50+. Smart swaps cut artery-clogging fats (saturated fat) safely.
 date: '2025-12-01'
-updated: '2025-12-01'
-primaryKeyword: food traditions and disease risk
+updated: '2026-03-29'
+primaryKeyword: can family food traditions raise chronic disease risk
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

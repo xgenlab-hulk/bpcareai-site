@@ -1,11 +1,12 @@
 ---
 title: >-
+  Low-Sodium Soups Can Raise BP in Seniors With Kidney Disease
 slug: the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims
 description: >-
-  Debunks misleading sodium labeling in renal-friendly foods, analyzing electrolyte load, acid-base balance, and RAAS activation in older adults with mild kidney impairment.
+  Hidden phosphate additives in low-sodium soups raise systolic BP 1-2 mmHg per 100mg daily. Learn how RAAS activation affects stage 2 CKD.
 date: '2026-01-04'
-updated: '2026-01-04'
-primaryKeyword: low-sodium soups kidney disease blood pressure
+updated: '2026-03-29'
+primaryKeyword: low-sodium soup and kidney disease BP risk
 topicCluster: renal-health
 image: ''
 relatedSlugs:

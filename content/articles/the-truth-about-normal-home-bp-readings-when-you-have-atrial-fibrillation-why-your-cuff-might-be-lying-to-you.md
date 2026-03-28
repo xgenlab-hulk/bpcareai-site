@@ -1,11 +1,12 @@
 ---
 title: >-
+  Home BP With AFib: Why Your Cuff May Be Off by 15 mmHg
 slug: the-truth-about-normal-home-bp-readings-when-you-have-atrial-fibrillation-why-your-cuff-might-be-lying-to-you
 description: >-
-  Explains oscillometric measurement inaccuracies during irregular rhythms, validation protocols for AFib patients, and when to switch to ambulatory or auscultatory methods.
+  Up to 30% of home BP readings in uncontrolled AFib miss accuracy standards. Learn which cuffs are validated for irregular rhythms and how to improve results.
 date: '2025-12-25'
-updated: '2025-12-25'
-primaryKeyword: blood pressure cuff accuracy afib
+updated: '2026-03-29'
+primaryKeyword: home blood pressure accuracy with atrial fibrillation
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

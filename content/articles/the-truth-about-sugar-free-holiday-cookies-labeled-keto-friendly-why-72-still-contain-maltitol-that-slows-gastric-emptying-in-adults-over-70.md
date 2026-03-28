@@ -1,11 +1,12 @@
 ---
 title: >-
+  72% of Keto Cookies Contain Maltitol That Slows Digestion
 slug: the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
 description: >-
-  Debunks marketing claims using FDA-label audit data and explains delayed gastric motility risks in aging GI tracts, with safer sweetener alternatives ranked by tolerance evidence.
+  An FDA-label audit found 72% of keto cookies use maltitol, triggering gastric stasis in 68% of adults over 65. See safer sweetener rankings here.
 date: '2025-12-28'
-updated: '2025-12-28'
-primaryKeyword: "health management holiday over 70"
+updated: '2026-03-29'
+primaryKeyword: keto cookies maltitol gastric emptying seniors
 topicCluster: natural-remedies
 image: ''
 relatedSlugs:

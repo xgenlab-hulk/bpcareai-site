@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Traffic Pollution Alters Ventricular Repolarization in Adults 57-65
 slug: how-living-near-high-traffic-urban-corridors-alters-autonomic-modulation-of-ventricular-repolarization-in-adults-57-65-with-borderline-qtc-prolongation
 description: >-
-  Investigates PM2.5 and NO₂ exposure effects on T-wave morphology, HRV indices, and arrhythmic risk in pre-symptomatic adults with borderline QTc.
+  PM2.5 and NO2 near busy roads can increase QTc by 5-10 ms and reduce HRV by 10-20% in adults 57-65 with borderline QTc. Practical steps to protect heart rhythm.
 date: '2026-02-16'
-updated: '2026-02-16'
-primaryKeyword: traffic pollution and ventricular repolarization
+updated: '2026-03-29'
+primaryKeyword: traffic pollution effects on heart rhythm
 topicCluster: autonomic-nervous-regulation
 image: ''
 relatedSlugs:

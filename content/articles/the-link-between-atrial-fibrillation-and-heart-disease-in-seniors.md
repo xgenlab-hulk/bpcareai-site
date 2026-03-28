@@ -1,11 +1,12 @@
 ---
-title: The Link Between Atrial Fibrillation and Heart Disease in Seniors
+title: >-
+  AFib and Heart Disease in Seniors: Risks Beyond Irregular Heartbeat
 slug: the-link-between-atrial-fibrillation-and-heart-disease-in-seniors
 description: >-
-  Understand how irregular heartbeat raises the risk of heart failure and stroke in older adults.
+  Irregular heartbeat (atrial fibrillation) affects 10% of adults 80+ and raises stroke risk 5-fold by letting blood pool and clot in the upper heart chambers.
 date: '2025-12-15'
-updated: '2025-12-15'
-primaryKeyword: atrial fibrillation and heart disease in elderly
+updated: '2026-03-29'
+primaryKeyword: how does atrial fibrillation affect heart disease in seniors
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: The Role of Magnesium in Maintaining a Healthy Heart After 50
+title: >-
+  Magnesium and Heart Health After 50: Rhythm, BP, and Beyond
 slug: the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
 description: >-
-  Learn how magnesium supports heart rhythm, blood pressure, and overall cardiovascular function in older adults.
+  Magnesium supports heart rhythm, relaxes blood vessels, and cuts arterial stiffness. Learn food sources, dosing, and deficiency signs after 50.
 date: '2025-11-28'
-updated: '2025-11-28'
-primaryKeyword: magnesium benefits for heart health over 50
+updated: '2026-03-29'
+primaryKeyword: magnesium for heart health after 50
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  4 Non-Statin Cholesterol Options for Adults Over 60 With Myopathy
 slug: top-4-non-statin-cholesterol-modulators-for-adults-with-statin-intolerant-myopathy-over-60
 description: >-
-  Compares efficacy and safety of bempedoic acid, ezetimibe, PCSK9 inhibitors, and inclisiran—with emphasis on renal clearance, injection burden, and cost access.
+  Compare bempedoic acid, ezetimibe, PCSK9 inhibitors, and inclisiran for statin-intolerant adults 60+. Covers renal clearance, LDL reduction up to 60%, and cost access.
 date: '2025-12-20'
-updated: '2025-12-20'
-primaryKeyword: non statin cholesterol modulators myopathy
+updated: '2026-03-29'
+primaryKeyword: non-statin cholesterol alternatives for statin intolerance
 topicCluster: renal-health
 image: ''
 relatedSlugs:

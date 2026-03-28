@@ -1,11 +1,12 @@
 ---
-title: The Role of Magnesium in Preventing Alcohol-Induced Arrhythmias
+title: >-
+  How Magnesium Protects Against Alcohol-Induced Heart Arrhythmias
 slug: the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
 description: >-
-  Explore how magnesium deficiency may increase susceptibility to holiday heart syndrome and whether supplementation helps.
+  Up to 60% of AFib cases after heavy drinking involve low magnesium. Learn how food sources and smart supplementation protect heart rhythm.
 date: '2025-12-11'
-updated: '2025-12-11'
-primaryKeyword: magnesium alcohol arrhythmias
+updated: '2026-03-29'
+primaryKeyword: magnesium and alcohol-induced arrhythmias
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

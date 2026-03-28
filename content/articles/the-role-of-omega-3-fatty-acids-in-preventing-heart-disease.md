@@ -1,11 +1,12 @@
 ---
-title: The Role of Omega-3 Fatty Acids in Preventing Heart Disease
+title: >-
+  Omega-3 Fatty Acids and Heart Disease Prevention After 50
 slug: the-role-of-omega-3-fatty-acids-in-preventing-heart-disease
 description: >-
-  Understand how fish oil and omega-3s support heart health and reduce inflammation in aging individuals.
+  EPA and DHA from fatty fish lower CRP and reduce plaque risk in older adults. Learn the best sources, dosing, and which supplements truly help.
 date: '2025-12-11'
-updated: '2025-12-11'
-primaryKeyword: omega-3 fatty acids for heart disease prevention
+updated: '2026-03-29'
+primaryKeyword: omega-3 for heart disease prevention after 50
 topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:

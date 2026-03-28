@@ -1,11 +1,12 @@
 ---
-title: The Link Between Holiday Loneliness and Emotional Eating in Older Adults
+title: >-
+  Holiday Loneliness and Emotional Eating After 60: What Helps
 slug: the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
 description: >-
-  Examine how isolation during the holidays contributes to unhealthy eating patterns in seniors and what families can do to help.
+  20% of seniors feel persistent holiday loneliness, raising the stress hormone (cortisol) that drives cravings for sugary comfort foods and BP instability.
 date: '2025-11-30'
-updated: '2025-11-30'
-primaryKeyword: holiday loneliness and emotional eating seniors
+updated: '2026-03-29'
+primaryKeyword: why holiday loneliness causes emotional eating in seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

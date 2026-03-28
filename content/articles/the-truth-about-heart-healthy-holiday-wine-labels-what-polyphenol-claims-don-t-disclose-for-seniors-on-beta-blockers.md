@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Wine and Beta-Blockers: What Labels Won't Tell You
 slug: the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
 description: >-
-  Debunks marketing language around resveratrol and ‘moderate’ wine consumption, highlighting pharmacokinetic interactions, blood pressure volatility, and arrhythmia risk in older adults using common cardiac medications.
+  Even one glass can cause 20% greater BP swings in seniors on beta-blockers. See how resveratrol marketing masks pharmacokinetic risks after age 65.
 date: '2025-12-21'
-updated: '2025-12-21'
-primaryKeyword: holiday wine labels beta-blocker risks
+updated: '2026-03-29'
+primaryKeyword: holiday wine beta-blocker interactions seniors
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
