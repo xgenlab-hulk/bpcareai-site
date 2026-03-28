@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Heart vs Heart Attack in Men 70+: Key Differences to Know
 slug: holiday-heart-syndrome-vs-acute-coronary-syndrome-key-differences-in-presentation-for-men-over-70
 description: >-
-  Side-by-side clinical comparison focusing on ECG nuances (e.g., absence of ST changes), troponin kinetics, pain descriptors, and atypical symptoms—designed to help older men and their families discern urgent vs. self-limiting events.
+  Up to 40% of heart attacks in men 70+ lack classic chest pain. Compare ECG and protein markers (troponin kinetics) to tell holiday heart from heart attack.
 date: '2025-12-19'
-updated: '2025-12-19'
-primaryKeyword: holiday heart vs heart attack men 70+
+updated: '2026-03-28'
+primaryKeyword: holiday heart syndrome vs heart attack in older men
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

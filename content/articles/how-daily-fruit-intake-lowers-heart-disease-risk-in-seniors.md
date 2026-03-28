@@ -1,11 +1,12 @@
 ---
-title: How Daily Fruit Intake Lowers Heart Disease Risk in Seniors
+title: >-
+  Eating 2 Servings of Fruit Daily May Cut Heart Risk 20% After 60
 slug: how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors
 description: >-
-  Explore the role of whole fruits in reducing heart disease risk and supporting healthy aging for people over 60.
+  Whole fruits supply artery-protective compounds (polyphenols) plus potassium. Seniors eating 2+ servings daily show 20% lower heart risk.
 date: '2025-12-05'
-updated: '2025-12-05'
-primaryKeyword: fruit consumption and heart disease prevention seniors
+updated: '2026-03-28'
+primaryKeyword: does eating fruit daily lower heart disease risk after 60
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

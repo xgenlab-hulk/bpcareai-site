@@ -1,11 +1,12 @@
 ---
-title: How Gum Disease Is Linked to Diabetes Complications in Older Adults
+title: >-
+  How Gum Disease Makes Diabetes Harder to Control After 65
 slug: how-gum-disease-is-linked-to-diabetes-complications-in-older-adults
 description: >-
-  Understand the two-way link between oral health and blood sugar control in aging populations.
+  Severe gum infection (periodontitis) can raise long-term blood sugar (HbA1c) by 0.5-1%. Seniors with diabetes face 3x higher gum disease risk.
 date: '2025-12-03'
-updated: '2025-12-03'
-primaryKeyword: gum disease and diabetes complications in seniors
+updated: '2026-03-28'
+primaryKeyword: gum disease worsens diabetes in older adults
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

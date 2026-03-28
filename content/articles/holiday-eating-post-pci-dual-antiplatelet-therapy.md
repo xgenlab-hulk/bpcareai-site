@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Eating After a Stent: Food Safety on Blood Thinners at 66+
 slug: the-complete-guide-to-managing-holiday-eating-while-recovering-from-a-recent-percutaneous-coronary-intervention-practical-strategies-for-adults-66-70-with-dual-antiplatelet-therapy
 description: >-
-  Covers food-drug interactions (vitamin K, ginger, garlic), bleeding-safe seasoning strategies, portion pacing, and fatigue-aware meal planning for post-PCI seniors navigating holiday gatherings.
+  About 40% of post-PCI seniors report more fatigue. Covers garlic and ginger limits, blood thinners (antiplatelet agents), and bleeding-safe holiday meal tips.
 date: '2026-02-11'
-updated: '2026-02-11'
-primaryKeyword: holiday eating post-pci dual antiplatelet therapy
+updated: '2026-03-28'
+primaryKeyword: holiday eating after stent on blood thinners
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

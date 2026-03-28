@@ -1,11 +1,12 @@
 ---
-title: How Dehydration Impacts Blood Pressure Levels
+title: >-
+  Dehydration and Blood Pressure: What Seniors Need to Know
 slug: how-dehydration-impacts-blood-pressure-levels
 description: >-
-  See how not drinking enough water can lead to fluctuating blood pressure and what seniors should do to stay hydrated.
+  Even mild fluid loss of 3 cups can trigger vessel tightening (vasoconstriction) or sudden drops when standing. Learn how hydration shapes BP stability after 60.
 date: '2025-12-01'
-updated: '2025-12-01'
-primaryKeyword: dehydration effects on blood pressure
+updated: '2026-03-28'
+primaryKeyword: dehydration and blood pressure changes seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

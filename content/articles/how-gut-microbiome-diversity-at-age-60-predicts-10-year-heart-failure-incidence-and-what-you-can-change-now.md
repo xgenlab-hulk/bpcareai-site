@@ -1,11 +1,12 @@
 ---
 title: >-
+  Your Gut Bacteria at 60 May Predict Heart Failure Risk
 slug: how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now
 description: >-
-  Explains the Akkermansia–butyrate–TMAO axis, interprets stool test biomarkers, and outlines clinically validated prebiotic protocols for cardiac risk reduction.
+  Low gut bacteria diversity at 60 raises heart weakness (heart failure) risk 35% over 10 years. A harmful gut compound (TMAO) above 6.2 doubles hospital risk.
 date: '2025-12-20'
-updated: '2025-12-20'
-primaryKeyword: gut microbiome and heart failure prediction
+updated: '2026-03-28'
+primaryKeyword: gut microbiome diversity and heart failure risk at 60
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

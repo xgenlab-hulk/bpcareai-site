@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Holiday Sleep Loss Raises Morning Blood Sugar in Men Over 70
 slug: how-holiday-sleep-fragmentation-especially-late-night-gift-wrapping-or-midnight-mass-attendance-disrupts-nocturnal-growth-hormone-pulses-and-fasting-glucose-in-men-over-70
 description: >-
-  Links polysomnography-confirmed stage N3 loss to amplified dawn phenomenon and overnight glucose AUC—highlighting gender-specific GH/IGF-1 axis dysregulation patterns.
+  One night of broken deep sleep (N3 stage) cuts growth hormone 20-30%, raising fasting glucose 15-25 mg/dL in men 70+. Protect overnight metabolism simply.
 date: '2026-01-01'
-updated: '2026-01-01'
-primaryKeyword: holiday sleep fragmentation fasting glucose men
+updated: '2026-03-28'
+primaryKeyword: holiday sleep loss raises fasting glucose in men
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

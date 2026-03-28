@@ -1,11 +1,12 @@
 ---
-title: 'Holiday Medication Management: What to Do When Schedules Get Disrupted'
+title: >-
+  How to Keep Your Diabetes Medication on Track During Holidays
 slug: holiday-medication-management-what-to-do-when-schedules-get-disrupted
 description: >-
-  Tips for maintaining consistent timing and storage of diabetes meds despite seasonal disruptions.
+  About 30% of adults with type 2 diabetes miss doses in December. Learn how shifted timing disrupts blood sugar medicine (oral hypoglycemics) and quick fixes.
 date: '2025-12-13'
-updated: '2025-12-13'
-primaryKeyword: diabetes medication schedule holidays
+updated: '2026-03-28'
+primaryKeyword: managing diabetes medications during holidays
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: How Family Gatherings Affect Blood Sugar in Men Over 60 with Diabetes
+title: >-
+  Why Family Gatherings Spike Blood Sugar in Men Over 60
 slug: how-family-gatherings-affect-blood-sugar-in-men-over-60-with-diabetes
 description: >-
-  Looks at social dynamics, portion pressure, and emotional triggers that uniquely impact glucose control in older men.
+  Stress hormones (cortisol) at family events can raise fasting glucose by 15-30 mg/dL within hours. Practical tips for men 60+ with diabetes to stay steady without skipping the party.
 date: '2025-12-18'
-updated: '2025-12-18'
-primaryKeyword: family gatherings blood sugar men over 60
+updated: '2026-03-28'
+primaryKeyword: family gatherings blood sugar spikes men 60
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

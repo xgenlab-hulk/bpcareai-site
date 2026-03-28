@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Skipping Sulfonylureas During Holidays Raises Hypo Risk
 slug: myths-vs-facts-i-can-skip-my-meds-this-week-since-i-m-eating-less-why-holiday-medication-holidays-double-hypoglycemia-risk-in-adults-66-on-sulfonylureas
 description: >-
-  Debunks dangerous assumptions about temporary medication breaks during feasting, citing pharmacodynamic half-life data, beta-cell exhaustion risk, and rebound hyperglycemia patterns.
+  Skipping diabetes pills (sulfonylureas) during holidays can double dangerous low blood sugar risk in adults 66+. Half-lives up to 24 hours make gaps risky.
 date: '2026-02-26'
-updated: '2026-02-26'
-primaryKeyword: holiday medication holiday myths facts
+updated: '2026-03-28'
+primaryKeyword: can I skip sulfonylurea during the holidays
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

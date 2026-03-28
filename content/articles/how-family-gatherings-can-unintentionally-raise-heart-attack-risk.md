@@ -1,11 +1,12 @@
 ---
-title: How Family Gatherings Can Unintentionally Raise Heart Attack Risk
+title: >-
+  Why Family Gatherings Raise Heart Attack Risk After 50
 slug: how-family-gatherings-can-unintentionally-raise-heart-attack-risk
 description: >-
-  Analyze social dynamics like emotional tension, overeating, and routine disruption that may contribute to cardiac incidents.
+  Brief family conflict can spike upper blood pressure (systolic BP) by 15-25 mm Hg for up to 90 minutes. How emotional stress, overeating, and routine disruption compound cardiac risk.
 date: '2025-12-11'
-updated: '2025-12-11'
-primaryKeyword: family gatherings heart attack risk
+updated: '2026-03-28'
+primaryKeyword: can family gatherings trigger a heart attack
 topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:

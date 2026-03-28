@@ -1,11 +1,12 @@
 ---
-title: How Chronic Pain Conditions Exacerbate Seasonal Depression in Older Adults
+title: >-
+  When Chronic Pain Makes Winter Depression Worse After 50
 slug: how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
 description: >-
-  Explore the bidirectional relationship between persistent pain and seasonal mood disorders in aging populations.
+  Up to 30% of older adults with chronic pain develop significant depressive symptoms, worsening in winter as reduced sunlight disrupts mood chemicals (serotonin and melatonin) and pain limits movement.
 date: '2025-12-02'
-updated: '2025-12-02'
-primaryKeyword: chronic pain and seasonal depression
+updated: '2026-03-28'
+primaryKeyword: chronic pain and winter depression in older adults
 topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:

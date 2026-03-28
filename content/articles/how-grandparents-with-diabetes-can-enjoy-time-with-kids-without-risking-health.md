@@ -1,11 +1,12 @@
 ---
-title: How Grandparents with Diabetes Can Enjoy Time with Kids Without Risking Health
+title: >-
+  Holiday Fun With Grandkids: Diabetes Safety Tips After 65
 slug: how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
 description: >-
-  Practical guidance for senior family members to participate fully in holiday traditions while staying safe.
+  27% of adults 65+ manage blood sugar problems (type 2 diabetes), and 70% also have high BP. Practical tips keep grandparents safe during holiday fun.
 date: '2025-12-06'
-updated: '2025-12-06'
-primaryKeyword: grandparents diabetes holiday safety
+updated: '2026-03-28'
+primaryKeyword: diabetes safety tips for grandparents during holidays
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

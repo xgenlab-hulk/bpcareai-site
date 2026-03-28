@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Gum Disease Speeds Up Insulin Cell Loss After 62
 slug: how-chronic-low-grade-gum-inflammation-accelerates-beta-cell-dysfunction-in-adults-62-with-long-standing-type-2-diabetes
 description: >-
-  Examines the oral-pancreatic axis: how Porphyromonas gingivalis virulence factors and systemic IL-17 elevation impair insulin secretion and promote amyloid deposition in islets — supported by 2023–2024 longitudinal salivary biomarker studies.
+  Adults 62+ with gum bacteria (P. gingivalis) showed 27% faster decline in insulin production (C-peptide) over 18 months, accelerating pancreatic cell damage in long-standing type 2 diabetes.
 date: '2026-02-22'
-updated: '2026-02-22'
-primaryKeyword: gum disease and beta-cell dysfunction in seniors
+updated: '2026-03-28'
+primaryKeyword: gum disease and insulin cell decline in diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

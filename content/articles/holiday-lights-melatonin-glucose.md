@@ -1,11 +1,12 @@
 ---
 title: >-
+  Can Holiday LED Lights Raise Your Overnight Blood Sugar?
 slug: how-holiday-light-displays-affect-evening-melatonin-onset-and-nocturnal-glucose-homeostasis-in-adults-68-with-shift-work-history-and-mild-sleep-fragmentation
 description: >-
-  Explores blue-enriched LED exposure from indoor/outdoor decorations disrupting circadian melatonin release, delaying glucose clearance, and elevating overnight insulin resistance — even without screen use.
+  Blue-enriched LED lights suppress your sleep hormone (melatonin) by 40%, raising fasting glucose 12-15 mg/dL. Adults 68+ can protect overnight levels easily.
 date: '2026-02-13'
-updated: '2026-02-13'
-primaryKeyword: holiday lights melatonin glucose
+updated: '2026-03-28'
+primaryKeyword: do holiday lights raise blood sugar overnight
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

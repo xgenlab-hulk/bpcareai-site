@@ -1,11 +1,12 @@
 ---
 title: >-
+  Is Holiday Ham Safe After 65? Nitrate, Sulfite, and Kidney Risks
 slug: 5-things-everyone-over-65-should-know-before-eating-a-traditional-holiday-ham-including-nitrate-sensitivity-sulfite-reactions-and-renal-clearance-rates
 description: >-
-  Covers renal, immunologic, and enzymatic factors affecting processed meat tolerance in older adults, with lab-reference ranges and real-time symptom tracking cues.
+  By 70, kidney filtering rate (GFR) averages 75-85 mL/min and one ham serving has 1,400 mg sodium. How nitrate and sulfite tolerance shifts affect adults 65+.
 date: '2025-12-27'
-updated: '2025-12-27'
-primaryKeyword: holiday ham safety over 65
+updated: '2026-03-28'
+primaryKeyword: is holiday ham safe for adults over 65
 topicCluster: renal-health
 image: ''
 relatedSlugs:

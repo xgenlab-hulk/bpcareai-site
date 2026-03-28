@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Travel and Insulin Needs for Adults 62-75 With Type 1
 slug: how-does-holiday-travel-disrupt-basal-insulin-requirements-in-adults-62-75-with-type-1-diabetes
 description: >-
-  Explores circadian misalignment, time-zone crossing, and meal timing variability—backed by real-world pump log data from 147 travelers—on insulin sensitivity shifts during December trips.
+  68% of travelers 62-75 needed 15%+ basal changes within 48 hours of crossing time zones. See how body clock shifts (circadian misalignment) alter insulin needs.
 date: '2026-01-07'
-updated: '2026-01-07'
-primaryKeyword: holiday travel insulin requirements type 1 diabetes
+updated: '2026-03-28'
+primaryKeyword: holiday travel insulin needs type 1 diabetes seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Is Holiday Weight Gain Exhausting Your Pancreas? Signs at 55-64
 slug: warning-signs-your-holiday-weight-gain-is-triggering-silent-beta-cell-exhaustion-even-with-normal-a1c-in-adults-55-64-with-family-history-of-early-onset-t2d
 description: >-
-  >180 mg/dL despite normal fasting, reduced glycemic variability on CGM, and
+  Even 3-7 lbs can overwork insulin-producing cells (beta cells) in adults 55-64 with family diabetes history, despite normal A1c levels.
 date: '2026-02-12'
-updated: '2026-02-12'
-primaryKeyword: holiday weight gain beta-cell exhaustion
+updated: '2026-03-28'
+primaryKeyword: holiday weight gain and pancreas exhaustion
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

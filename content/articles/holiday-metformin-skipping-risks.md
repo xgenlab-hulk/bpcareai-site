@@ -1,11 +1,12 @@
 ---
 title: >-
+  What Happens When You Skip Metformin Over the Holidays After 70
 slug: myths-vs-facts-i-can-skip-my-medication-just-this-one-day-during-the-holidays-risks-for-adults-70-with-long-term-metformin-use-and-vitamin-b12-deficiency
 description: >-
-  Debunks common holiday medication misconceptions using pharmacokinetic data, highlighting risks of lactic acidosis priming, homocysteine surges, and acute neuropathic exacerbation — especially in B12-depleted older adults.
+  Skipping one metformin dose can spike a harmful amino acid (homocysteine) 15-25% within 48 hours in adults 70+ with low B12, raising nerve and fall risk.
 date: '2026-02-13'
-updated: '2026-02-13'
-primaryKeyword: holiday metformin skipping risks
+updated: '2026-03-28'
+primaryKeyword: risks of skipping metformin during holidays
 topicCluster: medication-safety
 image: ''
 relatedSlugs:

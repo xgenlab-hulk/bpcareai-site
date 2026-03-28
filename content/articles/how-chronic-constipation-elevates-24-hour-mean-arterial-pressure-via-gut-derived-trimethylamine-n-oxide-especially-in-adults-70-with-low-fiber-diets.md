@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Constipation Raises Blood Pressure Through Gut Toxins After 70
 slug: how-chronic-constipation-elevates-24-hour-mean-arterial-pressure-via-gut-derived-trimethylamine-n-oxide-especially-in-adults-70-with-low-fiber-diets
 description: >-
-  Connects dysbiosis, TMAO synthesis, and endothelial dysfunction with actionable dietary fiber timing strategies (prebiotic sequencing, resistant starch dosing windows) proven to lower MAP by 4.2 mmHg.
+  Slow digestion feeds bacteria that produce a vessel-damaging compound (TMAO), raising average blood pressure by 4.2 mmHg in adults 70+. Timed fiber intake can reverse this.
 date: '2026-02-25'
-updated: '2026-02-25'
-primaryKeyword: constipation tmao mean arterial pressure
+updated: '2026-03-28'
+primaryKeyword: constipation raises blood pressure through gut toxins
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

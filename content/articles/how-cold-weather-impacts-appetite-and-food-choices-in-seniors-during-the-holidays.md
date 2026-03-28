@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Seniors Crave Heavier Foods in Winter and How to Eat Smarter
 slug: how-cold-weather-impacts-appetite-and-food-choices-in-seniors-during-the-holidays
 description: >-
-  Understand how seasonal temperature shifts influence hunger cues and cravings for heavier foods—and how to eat mindfully despite it.
+  Cold boosts calorie burn (metabolic rate) 10-20%, triggering stronger hunger. How seniors 60+ can manage winter cravings for heart health.
 date: '2025-12-01'
-updated: '2025-12-01'
-primaryKeyword: cold weather appetite changes seniors
+updated: '2026-03-28'
+primaryKeyword: why do seniors eat more in cold weather
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Can Gum Disease Destabilize Heart Plaque After 68?
 slug: how-chronic-low-grade-dental-inflammation-alters-plaque-stability-in-adults-68-with-stable-cad-evidence-from-serial-ivus-oct-imaging
 description: >-
-  Examines the oral-systemic link between periodontitis, circulating IL-6/TNF-α, and vulnerable coronary plaque morphology in older adults with known heart disease.
+  Untreated gum disease raised unstable plaque (thin-cap fibroatheroma) rates by 23% in 18 months among adults 68+ with stable heart disease (CAD), per IVUS-OCT imaging data.
 date: '2026-02-16'
-updated: '2026-02-16'
-primaryKeyword: dental inflammation and coronary plaque stability
+updated: '2026-03-28'
+primaryKeyword: dental inflammation and heart plaque stability
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

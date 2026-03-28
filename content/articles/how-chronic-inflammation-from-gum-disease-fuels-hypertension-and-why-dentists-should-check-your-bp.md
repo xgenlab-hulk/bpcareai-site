@@ -1,11 +1,12 @@
 ---
 title: >-
+  Gum Disease and High Blood Pressure: A Hidden Link After 65
 slug: how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
 description: >-
-  Explains the oral-systemic link: how periodontitis-induced IL-6 and CRP promote endothelial dysfunction and arterial stiffness, with screening protocols for adults over 65 with poor dental history.
+  Chronic gum infection (periodontitis) raises CRP and stiffens arteries, boosting systolic BP by 5-10 mmHg in adults 65+ with untreated dental disease.
 date: '2025-12-23'
-updated: '2025-12-23'
-primaryKeyword: gum disease and high blood pressure link
+updated: '2026-03-28'
+primaryKeyword: gum disease high blood pressure over 65
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

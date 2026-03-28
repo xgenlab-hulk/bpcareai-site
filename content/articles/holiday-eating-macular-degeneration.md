@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Eating With Macular Degeneration: Meal Tips for 50+
 slug: the-ultimate-guide-to-holiday-eating-for-adults-with-late-stage-macular-degeneration-focusing-on-meal-visibility-texture-cues-and-nutrient-dense-low-vision-adaptations
 description: >-
-  Covers high-contrast plating, aroma layering, tactile food identification, and lutein/zeaxanthin-rich substitutions that support both vision and metabolic health.
+  About 68% of late-stage AMD patients have hypertension. Learn how high-contrast plating (visual cueing) and lutein-rich swaps make holiday meals safer after 50.
 date: '2026-01-06'
-updated: '2026-01-06'
-primaryKeyword: holiday eating macular degeneration
+updated: '2026-03-28'
+primaryKeyword: holiday eating tips for macular degeneration
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

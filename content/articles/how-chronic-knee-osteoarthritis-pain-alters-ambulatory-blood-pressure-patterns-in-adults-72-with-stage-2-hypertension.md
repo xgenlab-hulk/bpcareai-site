@@ -1,11 +1,12 @@
 ---
 title: >-
+  Knee Arthritis Pain and Blood Pressure: A Hidden Link After 70
 slug: how-chronic-knee-osteoarthritis-pain-alters-ambulatory-blood-pressure-patterns-in-adults-72-with-stage-2-hypertension
 description: >-
-  Examines the biomechanical and neurohumoral pathways linking persistent joint pain to non-dipping BP, morning surges, and increased LV mass — with mobility-adapted monitoring guidance.
+  Chronic knee pain triggers your alert system (sympathetic activation), blocking normal nighttime BP dip. 65% of adults 72+ with joint pain show non-dipping.
 date: '2026-02-14'
-updated: '2026-02-14'
-primaryKeyword: knee pain and blood pressure in elderly
+updated: '2026-03-28'
+primaryKeyword: knee arthritis pain and blood pressure over 70
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Palpitations or Something Worse? Red Flags After 75
 slug: warning-signs-your-holiday-heart-syndrome-is-actually-early-stage-cardiac-amyloidosis-especially-if-you-re-over-75-and-have-carpal-tunnel-or-lumbar-spinal-stenosis
 description: >-
-  Highlights atypical, multi-system red flags that suggest misdiagnosed amyloidosis rather than benign holiday-induced arrhythmia in the very elderly.
+  Up to 13% of adults 80+ with heart failure have protein buildup in the heart (cardiac amyloidosis). Know which holiday symptoms plus carpal tunnel matter.
 date: '2026-02-17'
-updated: '2026-02-17'
-primaryKeyword: holiday palpitations cardiac amyloidosis red flags
+updated: '2026-03-28'
+primaryKeyword: holiday palpitations or cardiac amyloidosis signs
 topicCluster: special-populations
 image: ''
 relatedSlugs:

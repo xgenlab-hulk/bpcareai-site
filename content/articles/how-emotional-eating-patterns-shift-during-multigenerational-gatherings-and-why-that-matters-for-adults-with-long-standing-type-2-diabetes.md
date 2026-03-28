@@ -1,11 +1,12 @@
 ---
 title: >-
+  Emotional Eating at Family Gatherings With Long-Standing Diabetes
 slug: how-emotional-eating-patterns-shift-during-multigenerational-gatherings-and-why-that-matters-for-adults-with-long-standing-type-2-diabetes
 description: >-
-  Analyzes intergenerational triggers (nostalgia, caregiving stress, identity reinforcement), cortisol-mediated glucose dysregulation, and real-world behavioral interventions.
+  Caregiving stress raises cortisol 20%, triggering liver sugar output (gluconeogenesis) and blunting insulin. Practical steps for adults 50+ at family meals.
 date: '2026-01-07'
-updated: '2026-01-07'
-primaryKeyword: emotional eating multigenerational gatherings
+updated: '2026-03-28'
+primaryKeyword: emotional eating family gatherings diabetes seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

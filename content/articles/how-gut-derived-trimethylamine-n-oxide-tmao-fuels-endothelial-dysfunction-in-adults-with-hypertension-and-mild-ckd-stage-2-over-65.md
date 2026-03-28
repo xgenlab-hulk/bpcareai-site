@@ -1,11 +1,12 @@
 ---
 title: >-
+  How a Gut Compound Called TMAO Stiffens Arteries After 65
 slug: how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65
 description: >-
-  Details the microbial-metabolite–driven pathway from dietary choline/carnitine → TMA → hepatic TMAO → reduced eNOS activity → arterial stiffness—and why standard low-salt diets don’t address this axis.
+  In adults 65+ with high BP and mild kidney decline (CKD stage 2), gut-made TMAO rises 20-30%, cutting vessel-relaxing gas (nitric oxide) output.
 date: '2025-12-25'
-updated: '2025-12-25'
-primaryKeyword: tmao endothelial dysfunction hypertension ck2
+updated: '2026-03-28'
+primaryKeyword: TMAO blood vessel damage high blood pressure after 65
 topicCluster: renal-health
 image: ''
 relatedSlugs:

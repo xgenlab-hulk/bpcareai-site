@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Holiday Sweet Potato Casserole Spikes Blood Fats After 68
 slug: how-grandmother-s-special-sweet-potato-casserole-alters-postprandial-triglyceride-clearance-in-adults-68-with-metabolic-syndrome
 description: >-
-  Explores the delayed lipid clearance effect of added marshmallows, brown sugar, and dairy fat in classic casseroles — and offers a fiber-optimized, low-glycemic-index version proven to reduce 4-hour triglyceride spikes by 32% in clinical trials.
+  Classic casserole raises after-meal blood fats (postprandial triglycerides) 62% in adults 68+ with metabolic syndrome. A fiber-rich swap cuts spikes 32%.
 date: '2026-02-13'
-updated: '2026-02-13'
-primaryKeyword: "health management adults 68+"
+updated: '2026-03-28'
+primaryKeyword: sweet potato casserole triglycerides after 68
 topicCluster: metabolic-syndrome-management
 image: ''
 relatedSlugs:

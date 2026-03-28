@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Retirement Loneliness Stiffens Arteries and Raises BP at 58-74
 slug: how-chronic-loneliness-after-retirement-accelerates-arterial-stiffness-and-raises-systolic-bp-in-adults-58-74
 description: >-
-  Examines the psychosocial pathway from social isolation to endothelial dysfunction, citing longitudinal data on pulse wave velocity and 24-hour ambulatory BP trends.
+  Social isolation speeds blood vessel hardening (arterial stiffness) by 15-20% over 6 years. 24-hour monitoring reveals steeper BP spikes in adults 58-74.
 date: '2026-01-03'
-updated: '2026-01-03'
-primaryKeyword: loneliness and arterial stiffness blood pressure
+updated: '2026-03-28'
+primaryKeyword: retirement loneliness and blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

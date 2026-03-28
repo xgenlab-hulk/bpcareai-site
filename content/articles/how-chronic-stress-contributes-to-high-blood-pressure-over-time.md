@@ -1,11 +1,12 @@
 ---
-title: How Chronic Stress Contributes to High Blood Pressure Over Time
+title: >-
+  How Years of Stress Quietly Raise Blood Pressure After 50
 slug: how-chronic-stress-contributes-to-high-blood-pressure-over-time
 description: >-
-  Explore the long-term effects of stress on the cardiovascular system and practical ways to reduce its impact.
+  Ongoing stress raises high blood pressure (hypertension) risk by 20% through persistent stress hormones (cortisol and adrenaline) that stiffen arteries and drive inflammation in adults over 50.
 date: '2025-11-27'
-updated: '2025-11-27'
-primaryKeyword: chronic stress and high blood pressure aging
+updated: '2026-03-28'
+primaryKeyword: chronic stress and blood pressure in older adults
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

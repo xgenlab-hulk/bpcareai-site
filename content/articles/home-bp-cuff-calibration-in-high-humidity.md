@@ -1,11 +1,12 @@
 ---
 title: >-
+  Does High Humidity Throw Off Your Home BP Readings After 69?
 slug: simple-steps-to-calibrate-your-home-blood-pressure-cuff-before-every-use-especially-when-ambient-humidity-exceeds-65-in-adults-69-with-salt-sensitive-hypertension
 description: >-
-  Addresses hygroscopic sensor drift in oscillometric cuffs and provides humidity-aware recalibration routines to maintain ±2 mmHg accuracy in humid climates.
+  Above 65% humidity, moisture-absorbing sensors (hygroscopic elements) drift up to 5 mmHg. Simple recalibration keeps readings accurate.
 date: '2026-02-26'
-updated: '2026-02-26'
-primaryKeyword: home bp cuff calibration in high humidity
+updated: '2026-03-28'
+primaryKeyword: does humidity affect home blood pressure readings
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

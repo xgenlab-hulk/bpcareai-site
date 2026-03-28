@@ -1,11 +1,12 @@
 ---
 title: >-
+  Can Holiday Stress Trigger Extra Heartbeats After 62?
 slug: 7-hidden-stressors-in-holiday-gift-wrapping-that-elevate-sympathetic-tone-and-why-that-triggers-atrial-ectopy-in-adults-62-with-early-autonomic-imbalance
 description: >-
-  Identifies overlooked physical and cognitive stressors during common holiday tasks, linking repetitive motion, lighting, and time pressure to transient arrhythmia triggers in aging autonomic systems.
+  By 65, your heart's stress flexibility (heart rate variability) drops 20-30%. Gift wrapping and time pressure can trigger skipped beats (atrial ectopy).
 date: '2026-02-13'
-updated: '2026-02-13'
-primaryKeyword: holiday stress and atrial ectopy
+updated: '2026-03-28'
+primaryKeyword: can holiday stress cause extra heartbeats
 topicCluster: mental-health-stress
 image: ''
 relatedSlugs:

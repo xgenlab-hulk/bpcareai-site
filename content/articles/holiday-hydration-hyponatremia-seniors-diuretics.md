@@ -1,11 +1,12 @@
 ---
 title: >-
+  Holiday Hydration and Low Sodium: Risks for Seniors on Diuretics
 slug: warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history
 description: >-
-  Highlights subtle neurological and muscular red flags of hypo-osmolar hydration, explains sodium clearance thresholds in aging kidneys, and provides safe electrolyte-balanced alternatives.
+  On thiazide diuretics, 15-20% of seniors develop low sodium (hyponatremia) in winter. Spot early signs like cramps and confusion before herbal teas worsen it.
 date: '2026-01-07'
-updated: '2026-01-07'
-primaryKeyword: holiday hydration hyponatremia seniors diuretics
+updated: '2026-03-28'
+primaryKeyword: holiday hydration and low sodium risk for seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

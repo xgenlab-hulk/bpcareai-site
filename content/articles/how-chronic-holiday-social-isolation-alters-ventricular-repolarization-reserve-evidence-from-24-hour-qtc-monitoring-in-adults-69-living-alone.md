@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Holiday Loneliness Affects Heart Rhythm in Adults 69+
 slug: how-chronic-holiday-social-isolation-alters-ventricular-repolarization-reserve-evidence-from-24-hour-qtc-monitoring-in-adults-69-living-alone
 description: >-
-  Examines the underrecognized link between emotional loneliness during holidays and measurable electrophysiological vulnerability in aging ventricles.
+  Living alone during holidays can stretch the heart's electrical reset time (QTc interval) by 8–12 ms in adults 69+. Simple social reconnection often reverses the shift.
 date: '2026-02-17'
-updated: '2026-02-17'
-primaryKeyword: "health management holiday adults 69+"
+updated: '2026-03-28'
+primaryKeyword: holiday loneliness and heart rhythm in seniors 69+
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

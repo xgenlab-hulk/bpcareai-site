@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Late Meals Suppress Growth Hormone and Worsen Muscle Loss After 59
 slug: how-family-meal-timing-disrupts-nocturnal-growth-hormone-pulses-in-adults-59-66-with-sarcopenia-and-what-to-eat-instead-of-midnight-snacks
 description: >-
-  Explains GH’s role in muscle protein synthesis during slow-wave sleep, how late eating suppresses its amplitude, and provides pre-dinner protein timing protocols to preserve anabolic signaling.
+  Late eating can reduce nighttime repair hormone (growth hormone) surges by up to 40% in adults over 55. Protein timing strategies to protect muscle strength during holiday gatherings.
 date: '2026-02-15'
-updated: '2026-02-15'
-primaryKeyword: family meal timing growth hormone sarcopenia
+updated: '2026-03-28'
+primaryKeyword: late eating growth hormone muscle loss 60s
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: How Fiber-Rich Diets Support Heart Health in People Over 60
+title: >-
+  How Eating More Fiber Protects Your Heart After 60
 slug: how-fiber-rich-diets-support-heart-health-in-people-over-60
 description: >-
-  Learn how increasing dietary fiber can improve cholesterol and reduce cardiovascular events.
+  Adding 5-10 g of soluble fiber daily can lower bad cholesterol (LDL) by 5-10%, comparable to some first-line medications. A practical guide to fiber-rich eating for adults over 60.
 date: '2025-12-12'
-updated: '2025-12-12'
-primaryKeyword: high fiber diet benefits for heart health over 60
+updated: '2026-03-28'
+primaryKeyword: fiber benefits for heart health after 60
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: How Dehydration Affects Blood Sugar Readings in Older Diabetics
+title: >-
+  Why Dehydration Skews Blood Sugar Readings After 60
 slug: how-dehydration-affects-blood-sugar-readings-in-older-diabetics
 description: >-
-  Find out why staying hydrated is crucial for accurate glucose monitoring and metabolic balance.
+  Losing 700mL of fluid raises glucose by concentrating blood sugar (hemoconcentration). Learn how dehydration skews meter readings and insulin response after 60.
 date: '2025-11-27'
-updated: '2025-11-27'
-primaryKeyword: dehydration and blood sugar levels in seniors with diabetes
+updated: '2026-03-28'
+primaryKeyword: dehydration blood sugar readings seniors diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

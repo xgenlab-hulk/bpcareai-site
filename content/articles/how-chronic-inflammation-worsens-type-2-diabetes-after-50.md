@@ -1,11 +1,12 @@
 ---
-title: How Chronic Inflammation Worsens Type 2 Diabetes After 50
+title: >-
+  How Hidden Inflammation Worsens Type 2 Diabetes After 50
 slug: how-chronic-inflammation-worsens-type-2-diabetes-after-50
 description: >-
-  Learn about the role of systemic inflammation in insulin resistance and ways to reduce it.
+  Low-grade inflammation (CRP above 3 mg/L) impairs how cells use insulin (insulin resistance), raising diabetes risk 50-60% in adults over 50 with belly fat.
 date: '2025-11-27'
-updated: '2025-11-27'
-primaryKeyword: chronic inflammation and type 2 diabetes over 50
+updated: '2026-03-28'
+primaryKeyword: chronic inflammation type 2 diabetes after 50
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

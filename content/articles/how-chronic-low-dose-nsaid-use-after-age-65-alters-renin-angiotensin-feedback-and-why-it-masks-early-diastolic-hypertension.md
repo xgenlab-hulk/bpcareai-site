@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Daily NSAIDs After 65 Quietly Raise Your Diastolic Pressure
 slug: how-chronic-low-dose-nsaid-use-after-age-65-alters-renin-angiotensin-feedback-and-why-it-masks-early-diastolic-hypertension
 description: >-
-  Examines how daily ibuprofen or naproxen disrupts intrarenal RAAS signaling in aging kidneys, leading to 'white-coat resistant' diastolic elevation undetectable via standard office BP cuffs.
+  Regular ibuprofen disrupts kidney pressure control (RAAS signaling), causing hidden bottom-number BP rise. Adults 65+ on NSAIDs show 20% higher risk.
 date: '2026-02-24'
-updated: '2026-02-24'
-primaryKeyword: nsaid diastolic hypertension aging kidneys
+updated: '2026-03-28'
+primaryKeyword: daily NSAIDs raise diastolic pressure after 65
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

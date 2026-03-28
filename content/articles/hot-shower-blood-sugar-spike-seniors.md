@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Blood Sugar Spikes After a Hot Shower and When to Retest
 slug: why-your-fingertip-blood-glucose-readings-spike-after-a-hot-shower-thermal-vasodilation-capillary-shunting-and-delayed-insulin-absorption-in-adults-72-with-long-term-type-2-diabetes
 description: >-
-  Explores how post-shower heat exposure falsely elevates fingerstick glucose readings in older adults due to localized microcirculatory changes—and how to time testing to avoid unnecessary insulin dosing errors.
+  Heat opens tiny blood vessels (thermal vasodilation), skewing fingerstick readings 20-40 mg/dL in seniors 72+. Wait 30 min to retest.
 date: '2026-02-23'
-updated: '2026-02-23'
-primaryKeyword: hot shower blood sugar spike seniors
+updated: '2026-03-28'
+primaryKeyword: why blood sugar spikes after hot shower in seniors
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

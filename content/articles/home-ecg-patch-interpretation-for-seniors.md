@@ -1,11 +1,12 @@
 ---
 title: >-
+  How to Read Your Home ECG Patch Results: A Guide for Adults 57+
 slug: the-complete-guide-to-interpreting-home-ecg-patch-data-without-a-cardiologist-spotting-pvc-burden-shifts-afib-paroxysms-and-sinus-node-dysfunction-in-adults-57-70
 description: >-
-  Teaches layperson-friendly pattern recognition for wearable ECG devices, including how to distinguish benign arrhythmias from clinically significant ones using time-in-sinus metrics.
+  Extra heartbeats (PVCs) jumping from 0.5% to 2%+ may signal cardiac stress. Learn to spot brief rhythm episodes (AFib paroxysms) early.
 date: '2026-02-25'
-updated: '2026-02-25'
-primaryKeyword: home ecg patch interpretation for seniors
+updated: '2026-03-28'
+primaryKeyword: how to read home ecg patch results after 57
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

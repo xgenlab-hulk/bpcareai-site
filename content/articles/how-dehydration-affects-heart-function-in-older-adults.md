@@ -1,11 +1,12 @@
 ---
-title: How Dehydration Affects Heart Function in Older Adults
+title: >-
+  How Dehydration Quietly Strains Your Heart After 50
 slug: how-dehydration-affects-heart-function-in-older-adults
 description: >-
-  Learn how insufficient fluid intake can strain the heart and mimic or worsen heart disease symptoms.
+  A 2% fluid drop cuts blood volume by 7%, raising heart rate 10-20 bpm. See how water loss forces your heart to pump harder (cardiac overload) after 50.
 date: '2025-12-08'
-updated: '2025-12-08'
-primaryKeyword: dehydration and heart function in seniors
+updated: '2026-03-28'
+primaryKeyword: dehydration heart strain older adults
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

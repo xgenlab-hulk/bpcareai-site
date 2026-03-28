@@ -1,11 +1,12 @@
 ---
-title: How Cold Weather and Holiday Inactivity Combine to Affect Insulin Sensitivity
+title: >-
+  Cold Weather and Holiday Inactivity: A Hidden Insulin Risk After 60
 slug: how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
 description: >-
-  Discover how winter conditions and reduced movement during holidays impact insulin response in older diabetics.
+  Winter inactivity raises insulin resistance (impaired glucose uptake) 10-15% in sedentary adults 60+. Indoor movement strategies that help.
 date: '2025-11-30'
-updated: '2025-11-30'
-primaryKeyword: cold weather insulin sensitivity seniors
+updated: '2026-03-28'
+primaryKeyword: cold weather and insulin resistance in older adults
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

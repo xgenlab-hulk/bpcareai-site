@@ -1,11 +1,12 @@
 ---
 title: >-
+  Does Laughing at Family Meals Help or Worsen Acid Reflux After 65?
 slug: how-family-mealtime-laughter-affects-gastric-acid-secretion-and-why-that-matters-for-adults-with-gerd-over-65
 description: >-
-  Explores vagal modulation, diaphragmatic pressure shifts, and real-time pH monitoring data linking social joy to transient acid reflux reduction or exacerbation.
+  Relaxed laughter reduces acid reflux events (transient LES relaxations) by 12-18%, but belly laughs raise stomach pressure by 25 mm H2O. What adults 65+ with GERD should know.
 date: '2026-01-07'
-updated: '2026-01-07'
-primaryKeyword: laughter gastric acid gerd family meals
+updated: '2026-03-28'
+primaryKeyword: does laughing at meals worsen acid reflux
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

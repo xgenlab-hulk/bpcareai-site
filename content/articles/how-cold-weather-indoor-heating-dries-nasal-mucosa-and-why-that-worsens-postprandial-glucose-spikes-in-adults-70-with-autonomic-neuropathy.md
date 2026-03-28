@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Dry Indoor Heating Worsens After-Meal Blood Sugar Over 70
 slug: how-cold-weather-indoor-heating-dries-nasal-mucosa-and-why-that-worsens-postprandial-glucose-spikes-in-adults-70-with-autonomic-neuropathy
 description: >-
-  Explains the overlooked nasal-brain-gut-glucose pathway: dry mucosa → reduced nitric oxide production → impaired vagal tone → delayed insulin secretion and gastric emptying.
+  Dry heated air cuts nasal nitric oxide (a vessel relaxant) 30-40%, impairing insulin timing. Adults 70+ with neuropathy see 25% worse spikes.
 date: '2026-02-26'
-updated: '2026-02-26'
-primaryKeyword: indoor heating nasal glucose spikes
+updated: '2026-03-28'
+primaryKeyword: dry indoor air and blood sugar spikes after meals
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

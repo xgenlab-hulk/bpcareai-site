@@ -1,11 +1,12 @@
 ---
 title: >-
+  Can Hearing Aids Improve Blood Sugar After Meals in Adults 76+?
 slug: how-daily-use-of-hearing-aids-alters-parasympathetic-tone-and-postprandial-glucose-variability-in-adults-76-with-mild-hearing-loss-and-t2d
 description: >-
-  Examines the underrecognized neuroautonomic loop between auditory input, vagal nucleus activation, and insulin secretion timing—supported by pilot HRV and CGM data in older adults.
+  Hearing aids may boost rest-and-digest signaling (vagal tone), improving insulin timing. Pilot data: 18% less glucose variability in adults 76+.
 date: '2026-02-14'
-updated: '2026-02-14'
-primaryKeyword: hearing aids parasympathetic glucose variability
+updated: '2026-03-28'
+primaryKeyword: hearing aids and blood sugar control in older diabetics
 topicCluster: autonomic-nervous-regulation
 image: ''
 relatedSlugs:

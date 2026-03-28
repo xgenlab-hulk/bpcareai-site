@@ -1,11 +1,12 @@
 ---
-title: How Group Activities in Senior Centers Prevent Seasonal Depression
+title: >-
+  How Senior Center Activities Fight Seasonal Depression
 slug: how-group-activities-in-senior-centers-prevent-seasonal-depression
 description: >-
-  Show how structured social programs combat loneliness and stimulate engagement during dark months.
+  Isolated older adults face 32% higher risk of low mood (clinical depression). Structured senior center programs restore routine and ease winter loneliness.
 date: '2025-12-09'
-updated: '2025-12-09'
-primaryKeyword: senior center activities and depression
+updated: '2026-03-28'
+primaryKeyword: senior center activities prevent winter depression
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

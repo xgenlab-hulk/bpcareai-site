@@ -1,11 +1,12 @@
 ---
 title: >-
+  Winter Stroke Risk for Seniors With AFib: Why Holiday Meals Matter
 slug: how-cold-weather-and-holiday-feasting-jointly-elevate-stroke-risk-in-seniors-with-atrial-fibrillation
 description: >-
-  Explains the synergistic effects of vasoconstriction, hemoconcentration, and postprandial hypercoagulability—plus a step-by-step winter stroke prevention checklist.
+  Cold plus heavy meals raises clot markers (fibrinogen) 15-25% in AFib adults 60+. A step-by-step winter stroke prevention checklist.
 date: '2025-12-27'
-updated: '2025-12-27'
-primaryKeyword: cold weather stroke risk afib seniors
+updated: '2026-03-28'
+primaryKeyword: winter stroke risk for seniors with atrial fibrillation
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

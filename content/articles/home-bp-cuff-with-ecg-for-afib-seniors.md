@@ -1,11 +1,12 @@
 ---
 title: >-
+  Best BP Cuff With Heart Rhythm Monitor for Seniors 78+ and AFib
 slug: best-home-blood-pressure-cuffs-with-integrated-ecg-for-adults-78-with-atrial-fibrillation-and-severe-arthritis-accuracy-fit-and-rhythm-detection-compared
 description: >-
-  Evaluates hybrid devices for concurrent BP + rhythm monitoring, prioritizing ease-of-use, arrhythmia sensitivity, and validation in very elderly, frail, and AFib-diagnosed users.
+  1 in 4 adults over 80 has irregular heartbeat (atrial fibrillation) plus hypertension. Compare cuffs with built-in ECG at 92-96% accuracy.
 date: '2026-02-25'
-updated: '2026-02-25'
-primaryKeyword: home bp cuff with ecg for afib seniors
+updated: '2026-03-28'
+primaryKeyword: best bp cuff with heart rhythm monitor for seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

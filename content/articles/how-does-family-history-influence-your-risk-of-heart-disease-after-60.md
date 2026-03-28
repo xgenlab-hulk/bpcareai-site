@@ -1,11 +1,12 @@
 ---
-title: How Does Family History Influence Your Risk of Heart Disease After 60?
+title: >-
+  Family History and Heart Disease Risk: What Changes After 60
 slug: how-does-family-history-influence-your-risk-of-heart-disease-after-60
 description: >-
-  Understand the role genetics play in heart disease risk and what preventive steps you can take if it runs in your family.
+  A parent with early heart disease raises your risk ~50%. Learn how inherited cholesterol traits (familial hypercholesterolemia) interact with aging past 60.
 date: '2025-12-02'
-updated: '2025-12-02'
-primaryKeyword: family history and heart disease risk after 60
+updated: '2026-03-28'
+primaryKeyword: family history heart disease risk after 60
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

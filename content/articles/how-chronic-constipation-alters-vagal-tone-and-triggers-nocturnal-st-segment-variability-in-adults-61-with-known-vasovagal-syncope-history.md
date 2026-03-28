@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Constipation Triggers Nighttime Heart Rhythm Changes After 60
 slug: how-chronic-constipation-alters-vagal-tone-and-triggers-nocturnal-st-segment-variability-in-adults-61-with-known-vasovagal-syncope-history
 description: >-
-  Details the gut-brain-heart axis in older adults — linking colonic distension, vagal hyperactivity, and transient ischemic-like ECG changes during sleep.
+  In 31% of adults 65+ with chronic constipation, gut distension overstimulates the rest-and-digest nerve (vagus nerve), causing ischemia-like ECG shifts between 2–4 a.m.
 date: '2026-02-22'
-updated: '2026-02-22'
-primaryKeyword: constipation and nocturnal ST variability
+updated: '2026-03-28'
+primaryKeyword: constipation and heart rhythm changes at night
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

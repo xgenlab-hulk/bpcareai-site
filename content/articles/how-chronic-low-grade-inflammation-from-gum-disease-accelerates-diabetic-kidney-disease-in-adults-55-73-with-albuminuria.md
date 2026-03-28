@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Gum Disease Accelerates Kidney Damage in Diabetics 55-73
 slug: how-chronic-low-grade-inflammation-from-gum-disease-accelerates-diabetic-kidney-disease-in-adults-55-73-with-albuminuria
 description: >-
-  Connects periodontal pathogen load (e.g., P. gingivalis), systemic IL-6/TNF-α elevation, and glomerular endothelial injury—plus practical dental-integration protocols for nephrology clinics.
+  Adults 55-73 with high gum bacteria levels faced 2.4x faster kidney decline (eGFR loss), as oral inflammation (IL-6/TNF-alpha) damages kidney filters even with controlled blood sugar.
 date: '2026-01-09'
-updated: '2026-01-09'
-primaryKeyword: gum disease and diabetic kidney disease progression
+updated: '2026-03-28'
+primaryKeyword: gum disease and diabetic kidney damage
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Living Alone at 75? How Loneliness Raises Atrial Fibrillation Risk
 slug: how-chronic-loneliness-alters-heart-rate-variability-and-increases-atrial-fibrillation-risk-in-adults-75-living-alone
 description: >-
-  Explores the autonomic nervous system impact of social isolation on cardiac rhythm stability, backed by longitudinal data from the Framingham Offspring Study and 2024 NHANES analyses.
+  Isolation cuts heartbeat flexibility (heart rate variability) 18% over 5 years. Framingham data: lonely adults 75+ face 27% higher irregular heartbeat risk.
 date: '2025-12-29'
-updated: '2025-12-29'
-primaryKeyword: loneliness and atrial fibrillation risk
+updated: '2026-03-28'
+primaryKeyword: loneliness atrial fibrillation risk over 75
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

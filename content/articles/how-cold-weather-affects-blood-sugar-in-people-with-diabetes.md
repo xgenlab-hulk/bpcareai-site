@@ -1,11 +1,12 @@
 ---
-title: How Cold Weather Affects Blood Sugar in People with Diabetes
+title: >-
+  Why Cold Weather Raises Blood Sugar in Diabetics Over 50
 slug: how-cold-weather-affects-blood-sugar-in-people-with-diabetes
 description: >-
-  Learn why winter months can cause unexpected glucose fluctuations and how to stay stable.
+  Winter cold can raise fasting blood sugar (fasting glucose) 10-15% via stress hormones. Tips for diabetics over 50 to stay stable.
 date: '2025-11-27'
-updated: '2025-11-27'
-primaryKeyword: cold weather and blood sugar changes in diabetics
+updated: '2026-03-28'
+primaryKeyword: why does cold weather raise blood sugar in diabetics
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Air Pollution Damages Blood Vessels During Walks After 55
 slug: how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55
 description: >-
-  Details PM2.5 and ozone thresholds that impair flow-mediated dilation—and real-world walking route optimization tools for urban seniors.
+  PM2.5 levels above 12 µg/m³ can reduce blood vessel relaxation (flow-mediated dilation) by up to 15% in adults 55+ with prediabetes. Route timing and AQI tracking help protect arteries.
 date: '2025-12-19'
-updated: '2025-12-19'
-primaryKeyword: air pollution endothelial function prediabetes
+updated: '2026-03-28'
+primaryKeyword: air pollution and blood vessel health during walks
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Constipation Raises Blood Pressure in Seniors Over 70
 slug: how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors
 description: >-
-  Explains vagal withdrawal, intra-abdominal pressure spikes, and renin release during straining—and offers fiber, hydration, and pelvic floor strategies proven to reduce BP surges in constipated adults 70+.
+  Straining triggers nerve withdrawal (vagal inhibition), spiking BP 30-40 mmHg. Fiber and pelvic floor work beat laxatives for adults 70+.
 date: '2025-12-18'
-updated: '2025-12-18'
-primaryKeyword: constipation blood pressure seniors
+updated: '2026-03-28'
+primaryKeyword: constipation and high blood pressure in seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

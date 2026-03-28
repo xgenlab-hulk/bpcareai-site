@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Loneliness After 70 Quietly Raises Heart Failure Risk
 slug: how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk
 description: >-
-  Analyzes longitudinal data linking sustained social isolation to vagal tone suppression, elevated norepinephrine, and left ventricular stiffness in community-dwelling seniors.
+  Prolonged isolation lowers calming nerve signals (vagal tone) by 22% and raises norepinephrine 17%. Data links chronic loneliness to heart stiffening after 70.
 date: '2025-12-20'
-updated: '2025-12-20'
-primaryKeyword: loneliness and heart failure risk after 70
+updated: '2026-03-28'
+primaryKeyword: loneliness heart failure risk after 70
 topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:

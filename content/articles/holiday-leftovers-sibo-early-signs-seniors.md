@@ -1,11 +1,12 @@
 ---
 title: >-
+  Early Signs Holiday Leftovers May Be Causing SIBO After 69
 slug: what-are-the-earliest-signs-your-holiday-leftovers-are-causing-subclinical-small-intestinal-bacterial-overgrowth-sibo-in-adults-69-with-chronic-bloating
 description: >-
-  Highlights subtle, often-missed indicators—including gas timing, stool odor shifts, and post-meal fatigue—that precede diagnostic breath testing and respond to simple food rotation protocols.
+  Up to 15% of adults 65+ develop small intestinal overgrowth (SIBO) from reheated holiday foods. Spot gas timing shifts and post-meal fatigue early.
 date: '2026-02-10'
-updated: '2026-02-10'
-primaryKeyword: holiday leftovers sibo early signs seniors
+updated: '2026-03-28'
+primaryKeyword: signs holiday leftovers causing SIBO in seniors
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

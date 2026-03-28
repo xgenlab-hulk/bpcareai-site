@@ -1,11 +1,12 @@
 ---
 title: >-
+  How to Calibrate Your BP Cuff When Arthritis Limits Mobility
 slug: quick-ways-to-calibrate-your-home-blood-pressure-cuff-using-the-triple-reading-posture-reset-validated-in-adults-with-arthritis-and-limited-shoulder-mobility
 description: >-
-  Teaches a simplified, joint-friendly calibration technique using seated arm support, back alignment cues, and sequential readings to reduce measurement error.
+  Stiff shoulders skew readings 10+ mmHg. The Triple-Reading Reset for joint disease (osteoarthritis) cut measurement variability 40%.
 date: '2026-01-08'
-updated: '2026-01-08'
-primaryKeyword: home bp cuff calibration arthritis mobility
+updated: '2026-03-28'
+primaryKeyword: calibrate bp cuff with arthritis or stiff joints
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:

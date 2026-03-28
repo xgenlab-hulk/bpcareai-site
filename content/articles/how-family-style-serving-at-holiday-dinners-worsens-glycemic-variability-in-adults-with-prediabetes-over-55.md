@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Family-Style Serving Spikes Blood Sugar in Adults 55+ With Prediabetes
 slug: how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
 description: >-
-  Examines the impact of unmeasured portions, delayed eating, and mixed-macronutrient sequencing on 2-hour postprandial glucose spikes—and provides a 'plate-first' serving protocol.
+  Eating protein before starches can lower the 2-hour after-meal glucose spike (postprandial glucose) by up to 25%. A plate-first protocol for steadier blood sugar at holiday dinners.
 date: '2025-12-23'
-updated: '2025-12-23'
-primaryKeyword: family-style serving prediabetes seniors
+updated: '2026-03-28'
+primaryKeyword: family style serving blood sugar prediabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

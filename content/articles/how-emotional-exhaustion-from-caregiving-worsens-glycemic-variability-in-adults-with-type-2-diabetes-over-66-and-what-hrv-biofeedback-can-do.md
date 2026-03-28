@@ -1,11 +1,12 @@
 ---
 title: >-
+  Caregiver Stress and Blood Sugar Swings After 66: What Helps
 slug: how-emotional-exhaustion-from-caregiving-worsens-glycemic-variability-in-adults-with-type-2-diabetes-over-66-and-what-hrv-biofeedback-can-do
 description: >-
-  Links caregiver stress burden to autonomic dysregulation, cortisol surges, and increased mean amplitude of glucose excursions—plus a validated 5-minute daily HRV protocol.
+  Caregivers over 66 show 27% wider blood sugar swings (glycemic variability) from sustained cortisol. A 5-minute daily breathing protocol helps restore balance.
 date: '2026-01-08'
-updated: '2026-01-08'
-primaryKeyword: caregiver stress and glycemic variability seniors
+updated: '2026-03-28'
+primaryKeyword: caregiver stress blood sugar swings seniors
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

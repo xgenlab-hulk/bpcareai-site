@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Treating Gum Disease Can Lower A1c in Seniors Over 70
 slug: how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
 description: >-
-  Breaks down the oral-systemic link: mechanistic evidence showing how periodontal pathogens trigger TNF-α and IL-6, impairing GLUT4 translocation—and why dental visits reduce HbA1c more than expected.
+  Treating gum disease in seniors with diabetes lowered A1c by 0.4-0.6%, as oral bacteria impair sugar uptake (GLUT4 translocation) through chronic inflammation in adults over 70.
 date: '2025-12-27'
-updated: '2025-12-27'
-primaryKeyword: gum disease and insulin resistance in seniors
+updated: '2026-03-28'
+primaryKeyword: gum disease and insulin resistance after 70
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

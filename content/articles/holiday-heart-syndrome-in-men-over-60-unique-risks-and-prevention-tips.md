@@ -1,11 +1,12 @@
 ---
-title: 'Holiday Heart Syndrome in Men Over 60: Unique Risks and Prevention Tips'
+title: >-
+  Holiday Heart Syndrome in Men 60+: Why Moderate Drinking Risks AFib
 slug: holiday-heart-syndrome-in-men-over-60-unique-risks-and-prevention-tips
 description: >-
-  Focus on gender- and age-specific vulnerabilities to arrhythmias during the holiday season and tailored prevention approaches.
+  Up to 35% of new irregular heartbeat (atrial fibrillation) cases in winter link to drinking. Why men 60+ face unique holiday heart risks and prevention steps.
 date: '2025-12-15'
-updated: '2025-12-15'
-primaryKeyword: holiday heart syndrome men
+updated: '2026-03-28'
+primaryKeyword: holiday heart syndrome risks for men over 60
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:

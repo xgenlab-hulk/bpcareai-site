@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Deep Cleaning Alone Won't Protect Your Heart After 62
 slug: how-chronic-low-grade-gum-inflammation-drives-coronary-plaque-instability-and-why-scaling-alone-isn-t-enough-for-adults-62-with-periodontitis-and-cad
 description: >-
-  Explains the IL-6/CRP/MMP-9 axis linking periodontal pathogens to fibrous cap thinning, with actionable adjunctive strategies like topical resolvins and dietary omega-3 titration.
+  Gum bacteria trigger an inflammation chain (IL-6/CRP/MMP-9 axis) that thins artery plaque caps, raising acute heart event risk by 20-30% in adults 62+ with gum disease (periodontitis) and CAD.
 date: '2026-02-24'
-updated: '2026-02-24'
-primaryKeyword: gum disease and coronary plaque instability
+updated: '2026-03-28'
+primaryKeyword: gum disease and unstable heart plaque risk
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

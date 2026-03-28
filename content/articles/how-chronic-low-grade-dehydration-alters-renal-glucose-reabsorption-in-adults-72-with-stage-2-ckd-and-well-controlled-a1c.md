@@ -1,11 +1,12 @@
 ---
 title: >-
+  Mild Dehydration and Surprise Blood Sugar Spikes in Seniors With CKD
 slug: how-chronic-low-grade-dehydration-alters-renal-glucose-reabsorption-in-adults-72-with-stage-2-ckd-and-well-controlled-a1c
 description: >-
-  Explores the understudied link between subclinical dehydration, SGLT2 transporter upregulation, and paradoxical postprandial spikes—even in seniors with 'normal' A1c and no overt kidney failure.
+  Low-grade dehydration boosts kidney sugar recyclers (SGLT2 transporters) 15-20%, causing post-meal spikes of 30-50 mg/dL even with normal A1c at age 72+.
 date: '2026-02-15'
-updated: '2026-02-15'
-primaryKeyword: dehydration and glucose reabsorption ckid
+updated: '2026-03-28'
+primaryKeyword: dehydration blood sugar spikes CKD seniors
 topicCluster: renal-health
 image: ''
 relatedSlugs:

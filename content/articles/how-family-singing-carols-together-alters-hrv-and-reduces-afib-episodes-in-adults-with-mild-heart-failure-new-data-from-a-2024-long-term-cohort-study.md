@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Singing Carols Together Improves Heart Rhythm in Adults 66+
 slug: how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study
 description: >-
-  Examines the vagal-enhancing, rhythm-synchronizing, and cortisol-lowering effects of communal vocalization in home-based holiday settings, with longitudinal data on 142 adults aged 66–83.
+  A 2024 cohort of 142 adults showed caroling boosted heart rhythm balance (HRV) by 18% and cut cortisol by 22%. How shared singing supports adults with mild heart failure.
 date: '2025-12-26'
-updated: '2025-12-26'
-primaryKeyword: caroling and heart rate variability in elderly
+updated: '2026-03-28'
+primaryKeyword: singing carols heart rhythm benefits seniors
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:

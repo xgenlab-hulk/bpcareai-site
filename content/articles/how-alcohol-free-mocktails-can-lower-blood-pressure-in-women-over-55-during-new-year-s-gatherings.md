@@ -1,11 +1,12 @@
 ---
 title: >-
+  Mocktails That Actually Lower Blood Pressure in Women Over 55
 slug: how-alcohol-free-mocktails-can-lower-blood-pressure-in-women-over-55-during-new-year-s-gatherings
 description: >-
-  Details the vasodilatory, magnesium-rich, and nitric oxide-boosting ingredients in non-alcoholic drinks—and why skipping ethanol reduces nocturnal BP surges and improves sleep architecture more effectively than ‘low-alcohol’ options.
+  Beet-based mocktails rich in natural vessel-openers (dietary nitrates) helped women 55+ drop morning systolic BP by 6.2 mmHg in 4 weeks—without any alcohol.
 date: '2025-12-17'
-updated: '2025-12-17'
-primaryKeyword: alcohol-free mocktails blood pressure women over 55
+updated: '2026-03-28'
+primaryKeyword: mocktails that lower blood pressure for women 55+
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Protect Your Heart Rhythm While Hosting Holiday Guests After 70
 slug: 5-science-backed-ways-to-protect-your-atria-while-hosting-holiday-guests-stress-modulated-nitric-oxide-bioavailability-microbreak-timing-and-vocal-cord-strain-reduction-in-adults-70
 description: >-
-  Offers actionable, evidence-based strategies for hosts—centered on vocal rest, scheduled 90-second vagal maneuvers, and ambient temperature control—to blunt sympathetic surges during social hosting.
+  Hosting raises stress hormones (catecholamines) 15-20% in adults 70+. Scheduled 90-second calming techniques (vagal maneuvers) can help.
 date: '2026-02-26'
-updated: '2026-02-26'
-primaryKeyword: hosting holiday guests atrial protection
+updated: '2026-03-28'
+primaryKeyword: protect your heart rhythm while hosting holidays
 topicCluster: mental-health-stress
 image: ''
 relatedSlugs:

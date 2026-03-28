@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Alcohol Hits Harder After 55 and Raises Holiday Heart Risk
 slug: how-alcohol-metabolism-changes-after-age-55-and-why-that-raises-holiday-heart-syndrome-risk-in-adults-55-69-with-mild-liver-steatosis
 description: >-
-  Explores age-related declines in ALDH2 enzyme activity and acetaldehyde clearance, explaining why even moderate holiday drinking triggers arrhythmias in older adults with early fatty liver changes.
+  After 55, the liver enzyme that clears toxic byproducts (ALDH2) drops 15–20%. Adults with early fatty liver face 2.3× higher odds of irregular heartbeat from just 2–3 drinks.
 date: '2026-02-27'
-updated: '2026-02-27'
-primaryKeyword: alcohol metabolism age 55 holiday heart
+updated: '2026-03-28'
+primaryKeyword: why alcohol hits harder after 55 holiday heart risk
 topicCluster: special-populations
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Loneliness and Nighttime Blood Pressure: What Seniors 68+ Need to Know
 slug: how-chronic-loneliness-after-retirement-alters-autonomic-tone-and-elevates-nocturnal-systolic-pressure-in-adults-68-with-preserved-ejection-fraction
 description: >-
-  Explores the neuroendocrine pathway linking social isolation to impaired baroreflex sensitivity and abnormal nighttime blood pressure patterns in older adults without heart failure.
+  Chronic isolation blunts your BP thermostat (baroreflex sensitivity). Isolated adults 68+ are 1.7x more likely to show non-dipping nighttime BP patterns.
 date: '2026-02-26'
-updated: '2026-02-26'
-primaryKeyword: loneliness and nocturnal blood pressure in seniors
+updated: '2026-03-28'
+primaryKeyword: loneliness nighttime blood pressure seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

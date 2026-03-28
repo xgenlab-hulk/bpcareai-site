@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Holiday Travel Makes IBS Worse—and What to Eat on the Plane
 slug: how-holiday-travel-stress-alters-gut-microbiome-diversity-in-adults-58-with-irritable-bowel-syndrome-and-what-to-eat-on-the-plane-to-minimize-dysbiosis
 description: >-
-  Links travel-induced vagal withdrawal, circadian disruption, and prebiotic food timing to post-holiday IBS flares, with airline-compatible mitigation strategies.
+  One flight drops beneficial gut bacteria (Bifidobacterium) 27% in adults 60+, triggering IBS flares for 4-6 days. Smart prebiotic timing helps on the plane.
 date: '2026-02-24'
-updated: '2026-02-24'
-primaryKeyword: holiday travel gut microbiome ibs seniors
+updated: '2026-03-28'
+primaryKeyword: holiday travel worsens IBS gut health seniors
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Holiday Ham Causes Dizziness: A Nerve Damage Warning After 66
 slug: what-causes-sudden-post-dinner-dizziness-only-when-eating-holiday-ham-and-why-nitrate-induced-vasodilation-masks-early-orthostatic-hypotension-in-adults-66-with-autonomic-neuropathy
 description: >-
-  Connects dietary nitrates in cured meats to exaggerated vasodilation in neuropathic patients, leading to transient cerebral hypoperfusion — misinterpreted as 'just fatigue' but revealing critical autonomic vulnerability.
+  Cured meat nitrates can drop systolic BP 20-30 mmHg in 45 min. How excess vessel widening (vasodilation) from holiday ham reveals early nerve damage after 66.
 date: '2026-02-12'
-updated: '2026-02-12'
-primaryKeyword: holiday ham dizziness autonomic neuropathy
+updated: '2026-03-28'
+primaryKeyword: why holiday ham causes dizziness in seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

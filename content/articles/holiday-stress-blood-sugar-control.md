@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Family Dinner Stress Spikes Blood Sugar—Even Without Dessert
 slug: how-holiday-stress-hormones-sabotage-blood-sugar-control-during-family-dinners-cortisol-induced-insulin-resistance-patterns-in-adults-58-65-with-prediabetes
 description: >-
-  Explores the physiological link between acute family-related stress, elevated cortisol, and postprandial glucose spikes — with actionable timing and breathing strategies to blunt the effect.
+  Stress alone raises post-meal glucose 20-40 mg/dL via the stress response (cortisol-driven insulin resistance). Breathing and timing tips for adults 58-65.
 date: '2026-02-23'
-updated: '2026-02-23'
-primaryKeyword: holiday stress blood sugar control
+updated: '2026-03-28'
+primaryKeyword: holiday stress raises blood sugar at dinner
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

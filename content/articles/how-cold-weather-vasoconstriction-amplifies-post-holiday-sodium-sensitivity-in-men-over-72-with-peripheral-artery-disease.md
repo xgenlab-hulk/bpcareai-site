@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Winter Makes Salt More Dangerous for Men 72+ With PAD
 slug: how-cold-weather-vasoconstriction-amplifies-post-holiday-sodium-sensitivity-in-men-over-72-with-peripheral-artery-disease
 description: >-
-  Explains seasonal sympathetic upregulation, renal perfusion shifts, and why sodium thresholds drop 30% in winter — with practical cold-adapted hydration and seasoning guidance.
+  Cold triggers artery tightening (vasoconstriction), cutting safe salt limits 30%. Men 72+ with PAD may see BP jump 8-12 mmHg from normal sodium.
 date: '2026-02-24'
-updated: '2026-02-24'
-primaryKeyword: cold-weather sodium sensitivity pad seniors
+updated: '2026-03-28'
+primaryKeyword: winter salt sensitivity in men with leg artery disease
 topicCluster: renal-health
 image: ''
 relatedSlugs:

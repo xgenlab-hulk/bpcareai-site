@@ -1,11 +1,12 @@
 ---
-title: How Cold Weather Celebrations Increase Holiday Heart Syndrome Risk
+title: >-
+  Holiday Heart Syndrome: Why Cold Weather Parties Strain Your Heart
 slug: how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
 description: >-
-  Explain how outdoor winter festivities, combined with alcohol and exertion, elevate cardiovascular strain.
+  Cold air tightens blood vessels (vasoconstriction), spiking systolic BP 5-15 mmHg. With alcohol and exertion, heart strain rises after 50.
 date: '2025-12-12'
-updated: '2025-12-12'
-primaryKeyword: cold weather holiday heart
+updated: '2026-03-28'
+primaryKeyword: holiday heart syndrome risk in cold weather
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:

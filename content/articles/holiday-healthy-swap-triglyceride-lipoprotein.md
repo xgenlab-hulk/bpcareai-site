@@ -1,11 +1,12 @@
 ---
 title: >-
+  When Healthy Holiday Swaps Backfire: Hidden Triglyceride Trap at 50+
 slug: warning-signs-your-holiday-healthy-swap-e-g-coconut-flour-cookies-is-accelerating-postprandial-triglyceride-rich-lipoprotein-production-in-adults-with-diabetic-dyslipidemia
 description: >-
-  Explains how high-MUFA, low-fiber substitutions increase chylomicron remnant accumulation—using postprandial lipoprotein electrophoresis data from 41 patients.
+  In 41 diabetic patients, low-fiber swaps extended fat particle (chylomicron remnant) clearance by 37%. Why coconut flour cookies may quietly worsen blood fats.
 date: '2026-01-02'
-updated: '2026-01-02'
-primaryKeyword: holiday healthy swap triglyceride lipoprotein
+updated: '2026-03-28'
+primaryKeyword: healthy holiday swaps that raise triglycerides
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

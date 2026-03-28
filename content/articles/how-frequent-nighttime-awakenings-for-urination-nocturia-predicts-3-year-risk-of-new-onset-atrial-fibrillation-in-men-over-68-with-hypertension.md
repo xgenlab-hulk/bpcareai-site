@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Getting Up at Night to Pee May Warn of AFib After 68
 slug: how-frequent-nighttime-awakenings-for-urination-nocturia-predicts-3-year-risk-of-new-onset-atrial-fibrillation-in-men-over-68-with-hypertension
 description: >-
-  Examines the mechanistic link between sympathetic surges during nocturnal voiding, atrial stretch, and fibrosis progression—plus validated nocturia frequency thresholds (>2x/night) that signal need for AFib screening.
+  Men 68+ waking 2+ times nightly show 23% more heart scarring (left atrial fibrosis), raising irregular heartbeat (atrial fibrillation) risk within 3 years.
 date: '2025-12-31'
-updated: '2025-12-31'
-primaryKeyword: nocturia and atrial fibrillation risk
+updated: '2026-03-28'
+primaryKeyword: nighttime urination and atrial fibrillation risk in men 68+
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

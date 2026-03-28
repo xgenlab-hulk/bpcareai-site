@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Table Talk Affects Chewing and Swallowing Safety After 70
 slug: how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70
 description: >-
-  Exploring the under-recognized link between conversational pacing, distracted eating, and reduced mastication—leading to poor micronutrient bioavailability and increased aspiration risk during festive meals.
+  Lively conversation reduces chewing per bite by 20-30%, raising choking risk (aspiration risk) by up to 40% in adults 70+ with early swallowing difficulty. Safer mealtime strategies inside.
 date: '2025-12-23'
-updated: '2025-12-23'
-primaryKeyword: family conversation chewing efficiency dysphagia seniors
+updated: '2026-03-28'
+primaryKeyword: table conversation swallowing safety seniors
 topicCluster: special-populations
 image: ''
 relatedSlugs:

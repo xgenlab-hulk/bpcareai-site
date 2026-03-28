@@ -1,11 +1,12 @@
 ---
-title: How Excessive Salt Intake Leads to Heart Disease Over Time
+title: >-
+  How Too Much Salt Damages Your Heart After 50
 slug: how-excessive-salt-intake-leads-to-heart-disease-over-time
 description: >-
-  Learn how a high-sodium diet damages arteries and increases cardiac workload, especially in older adults.
+  Reducing sodium by just 1,000 mg can lower blood pressure (systolic BP) by 2-4 mm Hg. Learn how excess salt stiffens arteries and increases heart workload in adults over 50.
 date: '2025-12-11'
-updated: '2025-12-11'
-primaryKeyword: salt intake and heart disease development
+updated: '2026-03-28'
+primaryKeyword: how does salt cause heart disease over time
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:

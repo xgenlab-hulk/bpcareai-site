@@ -1,11 +1,12 @@
 ---
 title: >-
+  How Grandparents With Diabetes Can Lead by Example at Meals
 slug: how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
 description: >-
-  Offer practical strategies for older adults with diabetes to enjoy holiday meals while setting a positive example for younger generations.
+  Grandparents managing blood sugar (type 2 diabetes) can enjoy holidays and inspire family health. Elder role-modeling improves kids' eating habits by 30%.
 date: '2025-12-01'
-updated: '2025-12-01'
-primaryKeyword: diabetic grandparents holiday eating
+updated: '2026-03-28'
+primaryKeyword: grandparents with diabetes modeling healthy holiday eating
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:

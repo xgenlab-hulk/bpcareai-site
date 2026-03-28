@@ -1,11 +1,12 @@
 ---
 title: >-
+  Why Constipation Spikes Blood Pressure in Women 67–82
 slug: how-chronic-constipation-increases-24-hour-systolic-blood-pressure-in-women-67-82-and-what-to-do-about-it
 description: >-
-  Examines the vagal dysregulation, intra-abdominal pressure surges, and renin–angiotensin activation linking constipation to nocturnal and early-morning hypertension spikes.
+  Straining raises belly pressure over 100 mmHg, triggering a hormone cascade (renin-angiotensin activation) that pushes nighttime systolic BP up 10–20 mmHg in women 67+.
 date: '2026-01-10'
-updated: '2026-01-10'
-primaryKeyword: constipation and high blood pressure women
+updated: '2026-03-28'
+primaryKeyword: constipation and blood pressure spikes in older women
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

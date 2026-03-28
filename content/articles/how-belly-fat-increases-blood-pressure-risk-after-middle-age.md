@@ -1,11 +1,12 @@
 ---
-title: How Belly Fat Increases Blood Pressure Risk After Middle Age
+title: >-
+  Belly Fat and Blood Pressure After 50: The Hidden Connection
 slug: how-belly-fat-increases-blood-pressure-risk-after-middle-age
 description: >-
-  Discover the connection between abdominal obesity and hypertension, and how losing belly fat helps.
+  A waist over 40 inches (men) or 35 inches (women) raises hypertension risk 50%. Deep abdominal fat (visceral fat) drives insulin resistance and artery stiffness after middle age.
 date: '2025-12-01'
-updated: '2025-12-01'
-primaryKeyword: belly fat and high blood pressure link
+updated: '2026-03-28'
+primaryKeyword: belly fat and high blood pressure after 50
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

@@ -1,11 +1,12 @@
 ---
-title: How Chronic Lung Conditions Amplify Heart Risks in Winter
+title: >-
+  Winter Heart Risks With COPD or Asthma: What Seniors Need to Know
 slug: how-chronic-lung-conditions-amplify-heart-risks-in-winter
 description: >-
-  Explores the interplay between COPD, asthma, and cardiovascular strain during colder months in adults over 65.
+  Cold air raises blood pressure by 5-10 mmHg through vessel tightening (vasoconstriction), adding hidden strain on hearts already taxed by chronic lung conditions like COPD in adults 65+.
 date: '2025-12-14'
-updated: '2025-12-14'
-primaryKeyword: lung disease winter heart risk
+updated: '2026-03-28'
+primaryKeyword: COPD and heart risk in cold weather for seniors
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:
