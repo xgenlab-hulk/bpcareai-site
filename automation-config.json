@@ -18,17 +18,34 @@
     }
   ],
   "topicManagement": {
-    "topics": [
-      "blood pressure",
-      "heart health",
-      "diabetes",
-      "cholesterol",
-      "heart disease",
-      "cardiovascular health"
+    "coreTopics": [
+      {
+        "keyword": "blood pressure",
+        "angles": ["diet", "exercise", "medication", "monitoring", "symptoms", "sleep", "stress", "age-specific", "seasonal"]
+      },
+      {
+        "keyword": "heart health",
+        "angles": ["diet", "exercise", "symptoms", "prevention", "medication", "women-specific", "age-specific"]
+      },
+      {
+        "keyword": "diabetes",
+        "angles": ["diet", "exercise", "blood sugar monitoring", "medication", "symptoms", "meal timing", "age-specific"]
+      },
+      {
+        "keyword": "cholesterol",
+        "angles": ["diet", "medication", "natural remedies", "testing", "age-specific"]
+      },
+      {
+        "keyword": "healthy eating for seniors",
+        "angles": ["heart-healthy foods", "blood sugar friendly foods", "sodium reduction", "meal planning"]
+      },
+      {
+        "keyword": "exercise for seniors",
+        "angles": ["walking", "low-impact", "strength training", "flexibility", "heart rate"]
+      }
     ],
     "totalMinThreshold": 30,
     "targetReplenishAmount": 50,
-    "topicsPerReplenish": 3,
     "replenishConfig": {
       "maxAttempts": 10,
       "duplicateThreshold": 0.85,
@@ -39,9 +56,8 @@
   "comments": {
     "projectStartDate": "The date when daily automation starts",
     "stages": "Article generation phases with different daily targets",
-    "topics": "[REFERENCE ONLY] System now auto-scans data/ folder for all planned-topics-*.json files. This list is kept for documentation purposes only.",
+    "coreTopics": "Core topic categories with sub-angles for diverse topic generation. System scans data/ for planned-topics-*.json files.",
     "totalMinThreshold": "Trigger replenishment when total topics across all files < this number",
-    "targetReplenishAmount": "Target number of NEW valid topics to add during replenishment",
-    "topicsPerReplenish": "[DEPRECATED] System now uses smart selection based on inventory levels. This parameter is no longer used. Topics are automatically selected based on current stock, prioritizing low-inventory topics."
+    "targetReplenishAmount": "Target number of NEW valid topics to add during replenishment"
   }
 }

@@ -235,21 +235,51 @@ export function collectAllAvailableTopics(): TopicWithSource[] {
 }
 
 /**
- * 从所有可用标题中随机选择指定数量
- * 不再需要 topics 参数，直接从扫描的文件中获取
+ * 从所有可用标题中均衡选择指定数量
+ * v2.1: 轮询各分类，确保内容多样性（不再纯随机）
+ *
+ * 策略：按分类轮询（round-robin），每个分类轮流取1个，
+ * 直到达到目标数量。分类内部随机排序。
  */
 export function selectRandomTopicsForGeneration(
   count: number
 ): TopicWithSource[] {
-  const allTopics = collectAllAvailableTopics();
+  const inventory = getTopicsInventory();
 
-  if (allTopics.length === 0) {
+  // 按分类分组，每组内部随机打乱
+  const groups: TopicWithSource[][] = [];
+  for (const item of inventory) {
+    if (item.topics.length === 0) continue;
+    const shuffled = [...item.topics]
+      .sort(() => Math.random() - 0.5)
+      .map(topic => ({ ...topic, source: item.topic }));
+    groups.push(shuffled);
+  }
+
+  if (groups.length === 0) {
     return [];
   }
 
-  // 随机打乱
-  const shuffled = allTopics.sort(() => Math.random() - 0.5);
+  // Round-robin 轮询选取
+  const selected: TopicWithSource[] = [];
+  const pointers = new Array(groups.length).fill(0); // 每组的当前指针
 
-  // 返回前 count 个
-  return shuffled.slice(0, Math.min(count, allTopics.length));
+  let round = 0;
+  while (selected.length < count) {
+    let addedInRound = false;
+
+    for (let g = 0; g < groups.length; g++) {
+      if (selected.length >= count) break;
+      if (pointers[g] < groups[g].length) {
+        selected.push(groups[g][pointers[g]]);
+        pointers[g]++;
+        addedInRound = true;
+      }
+    }
+
+    if (!addedInRound) break; // 所有分类都取完了
+    round++;
+  }
+
+  return selected;
 }

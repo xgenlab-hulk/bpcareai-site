@@ -13,7 +13,8 @@ import {
 } from '../lib/topics/manager';
 import { replenishMultipleTopics } from '../lib/topics/replenish';
 import { generateArticleMarkdown } from '../lib/llm/qwen-articles';
-import { findSimilarArticlesForTopic } from '../lib/embeddings/similarity';
+import { findSimilarArticlesForTopic, cosineSimilarity } from '../lib/embeddings/similarity';
+import { generateEmbeddingForText } from '../lib/embeddings/qwen';
 import { addEmbeddingForNewArticle } from '../lib/embeddings/incremental';
 import {
   addBidirectionalLinkSmart,
@@ -21,6 +22,10 @@ import {
 } from '../lib/embeddings/internal-linking';
 import { slugify } from '../lib/utils/slugify';
 import type { ArticleFrontmatter } from '../lib/llm/qwen-articles';
+import type { ArticleEmbedding } from '../lib/embeddings/types';
+
+/** 去重相似度阈值 — 超过此值的文章被丢弃 */
+const DEDUP_SIMILARITY_THRESHOLD = 0.80;
 
 /**
  * 自动化配置
@@ -33,10 +38,12 @@ interface AutomationConfig {
     description: string;
   }[];
   topicManagement: {
-    topics: string[];
+    coreTopics?: {
+      keyword: string;
+      angles: string[];
+    }[];
     totalMinThreshold: number;
     targetReplenishAmount: number;
-    topicsPerReplenish: number;
     replenishConfig: {
       maxAttempts: number;
       duplicateThreshold: number;
@@ -174,99 +181,203 @@ async function replenishTopicsIfNeeded(config: AutomationConfig): Promise<number
   });
   console.log('');
 
-  // 执行补充
-  const results = await replenishMultipleTopics(distribution, replenishConfig);
+  // 为每个topic查找对应的angles配置
+  const coreTopics = config.topicManagement.coreTopics || [];
+
+  // 执行补充（每个topic携带其angles）
+  const results = await replenishMultipleTopics(distribution, {
+    ...replenishConfig,
+  }, coreTopics);
 
   // 返回实际补充的数量
   return results.reduce((sum, r) => sum + r.acceptedCount, 0);
 }
 
 /**
- * 将 frontmatter 对象转为 YAML 字符串
+ * 清理文本字段，确保不含会破坏 YAML 的字符
  */
-function frontmatterToYAML(frontmatter: ArticleFrontmatter): string {
-  const lines = [
-    `title: "${frontmatter.title.replace(/"/g, '\\"')}"`,
-    `slug: "${frontmatter.slug}"`,
-    `description: "${frontmatter.description.replace(/"/g, '\\"')}"`,
-    `date: "${frontmatter.date}"`,
-    `updated: "${frontmatter.updated}"`,
-    `primaryKeyword: "${frontmatter.primaryKeyword}"`,
-    `topicCluster: "${frontmatter.topicCluster}"`,
-    `image: "${frontmatter.image}"`,
-    `relatedSlugs: [${frontmatter.relatedSlugs.map((s) => `"${s}"`).join(', ')}]`,
-  ];
-
-  return `---\n${lines.join('\n')}\n---`;
+function sanitizeForYAML(text: string): string {
+  return text
+    .replace(/\n/g, ' ')     // 移除换行
+    .replace(/\r/g, '')      // 移除回车
+    .replace(/\t/g, ' ')     // Tab 替换为空格
+    .replace(/\s+/g, ' ')    // 多空格合并
+    .trim();
 }
 
 /**
- * 生成指定数量的文章（从多个 topics 随机选择）
+ * 将 frontmatter 对象转为 YAML 字符串
+ * v2.1: 使用 >- 折叠格式 + sanitize，确保 YAML 绝对安全
+ */
+function frontmatterToYAML(frontmatter: ArticleFrontmatter): string {
+  // 安全清理所有文本字段
+  const title = sanitizeForYAML(frontmatter.title);
+  const description = sanitizeForYAML(frontmatter.description);
+  const primaryKeyword = sanitizeForYAML(frontmatter.primaryKeyword);
+  const slug = frontmatter.slug.replace(/[^a-z0-9-]/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
+  const topicCluster = frontmatter.topicCluster.replace(/[^a-z0-9-]/g, '-').replace(/-+/g, '-');
+
+  // 使用 >- 格式写入长文本字段
+  const relatedSlugsYAML = frontmatter.relatedSlugs.length > 0
+    ? `relatedSlugs:\n${frontmatter.relatedSlugs.map((s) => `  - >-\n    ${sanitizeForYAML(s)}`).join('\n')}`
+    : `relatedSlugs: []`;
+
+  const lines = [
+    `title: >-`,
+    `  ${title}`,
+    `slug: ${slug}`,
+    `description: >-`,
+    `  ${description}`,
+    `date: '${frontmatter.date}'`,
+    `updated: '${frontmatter.updated}'`,
+    `primaryKeyword: >-`,
+    `  ${primaryKeyword}`,
+    `topicCluster: ${topicCluster}`,
+    `image: '${frontmatter.image}'`,
+    relatedSlugsYAML,
+  ];
+
+  const yaml = `---\n${lines.join('\n')}\n---`;
+
+  // 最终安全检查：验证生成的 YAML 不含连续 --- （除了首尾分隔符）
+  const innerContent = yaml.slice(4, -4); // 去掉首尾 ---
+  if (innerContent.includes('---')) {
+    console.error('   ❌ YAML safety check failed: inner content contains ---');
+    throw new Error('YAML safety check failed');
+  }
+
+  return yaml;
+}
+
+/**
+ * 生成后去重检查：用优化后的metadata生成embedding，与已有文章对比
+ * 返回最高相似度和最相似的文章slug
+ */
+async function checkArticleDuplicate(
+  title: string,
+  description: string,
+  primaryKeyword: string,
+  existingEmbeddings: ArticleEmbedding[]
+): Promise<{ maxSimilarity: number; mostSimilarSlug: string }> {
+  const inputText = `${title}\n${description}\nPrimary keyword: ${primaryKeyword}`;
+  const newEmbedding = await generateEmbeddingForText(inputText);
+
+  let maxSimilarity = 0;
+  let mostSimilarSlug = '';
+
+  for (const article of existingEmbeddings) {
+    const similarity = cosineSimilarity(newEmbedding, article.embedding);
+    if (similarity > maxSimilarity) {
+      maxSimilarity = similarity;
+      mostSimilarSlug = article.slug;
+    }
+  }
+
+  return { maxSimilarity, mostSimilarSlug };
+}
+
+/**
+ * 生成指定数量的文章（均衡选取 + 生成后去重 + 备选替补）
  */
 async function generateArticles(
   config: AutomationConfig,
   count: number
-): Promise<{ success: number; failed: number }> {
+): Promise<{ success: number; failed: number; dedupDiscarded: number }> {
   console.log('\n╔════════════════════════════════════════════════════════╗');
   console.log('║        Article Generation                             ║');
   console.log('╚════════════════════════════════════════════════════════╝\n');
 
-  // 从所有 topics 中随机选择标题（自动扫描 data 目录）
-  const selectedTopics = selectRandomTopicsForGeneration(count);
+  // 多取备选（目标数量 + 3个备选），用于去重丢弃后替补
+  const poolSize = count + 3;
+  const topicPool = selectRandomTopicsForGeneration(poolSize);
 
-  if (selectedTopics.length === 0) {
+  if (topicPool.length === 0) {
     console.error('❌ No topics available for generation!');
-    return { success: 0, failed: 0 };
+    return { success: 0, failed: 0, dedupDiscarded: 0 };
   }
 
-  console.log(`📚 Selected ${selectedTopics.length} topics from mixed sources:\n`);
+  console.log(`📚 Selected ${topicPool.length} topics (${count} target + ${topicPool.length - count} backup):\n`);
 
   // 按来源统计
   const bySource = new Map<string, number>();
-  selectedTopics.forEach((t) => {
+  topicPool.forEach((t) => {
     bySource.set(t.source, (bySource.get(t.source) || 0) + 1);
   });
-
   console.log('Distribution:');
-  bySource.forEach((count, source) => {
-    console.log(`   - ${source}: ${count} articles`);
+  bySource.forEach((cnt, source) => {
+    console.log(`   - ${source}: ${cnt} topics`);
   });
   console.log('\n' + '─'.repeat(60) + '\n');
 
-  // 生成文章
+  // 预加载已有文章的embedding（用于去重检查）
+  let existingEmbeddings: ArticleEmbedding[] = [];
+  try {
+    existingEmbeddings = loadArticleEmbeddings();
+    console.log(`📊 Loaded ${existingEmbeddings.length} existing embeddings for dedup check\n`);
+  } catch (err) {
+    console.warn(`⚠️  Could not load embeddings for dedup: ${err instanceof Error ? err.message : String(err)}`);
+    console.warn(`   Dedup check will be skipped\n`);
+  }
+
+  // 生成文章（逐篇生成，去重失败则从备选池取下一个）
   let successCount = 0;
   let failedCount = 0;
+  let dedupDiscarded = 0;
+  let topicIndex = 0;
   const generatedSlugs = new Set<string>();
 
-  for (let i = 0; i < selectedTopics.length; i++) {
-    const topic = selectedTopics[i];
-    const progress = `[${i + 1}/${selectedTopics.length}]`;
+  while (successCount < count && topicIndex < topicPool.length) {
+    const topic = topicPool[topicIndex];
+    topicIndex++;
+
+    const progress = `[${successCount + 1}/${count}]`;
 
     try {
       console.log(`${progress} Processing: "${topic.title}"`);
       console.log(`   Source: ${topic.source}`);
 
-      // 生成文章
+      // Step 1: 生成文章
       const article = await generateArticleMarkdown(topic);
 
-      // 查找相关文章（智能内链）
+      // Step 2: 生成后去重检查
+      if (existingEmbeddings.length > 0) {
+        console.log(`   🔍 Dedup check...`);
+        const { maxSimilarity, mostSimilarSlug } = await checkArticleDuplicate(
+          article.frontmatter.title,
+          article.frontmatter.description,
+          article.frontmatter.primaryKeyword,
+          existingEmbeddings
+        );
+
+        console.log(`   📊 Max similarity: ${maxSimilarity.toFixed(3)} (threshold: ${DEDUP_SIMILARITY_THRESHOLD})`);
+
+        if (maxSimilarity > DEDUP_SIMILARITY_THRESHOLD) {
+          console.log(`   🚫 DISCARDED — too similar to "${mostSimilarSlug}" (${maxSimilarity.toFixed(3)})`);
+          console.log(`   ↩️  Will try next topic from backup pool\n`);
+          dedupDiscarded++;
+          // 标记这个选题也要从planned-topics中移除（避免重复消费）
+          generatedSlugs.add(slugify(topic.title));
+          continue;
+        }
+        console.log(`   ✅ Dedup passed`);
+      }
+
+      // Step 3: 智能内链 — 使用优化后的metadata
       try {
         const similarArticles = await findSimilarArticlesForTopic({
-          title: topic.title,
-          description: topic.description,
-          primaryKeyword: topic.primaryKeyword,
-          topK: 5,              // 提高到5个
-          minSimilarity: 0.5,   // 降低阈值，保证能找到足够文章
+          title: article.frontmatter.title,
+          description: article.frontmatter.description,
+          primaryKeyword: article.frontmatter.primaryKeyword,
+          topK: 5,
+          minSimilarity: 0.5,
         });
 
-        // 确保至少3个，最多5个
         const selectedArticles = similarArticles.slice(0, Math.max(3, Math.min(5, similarArticles.length)));
 
         if (selectedArticles.length > 0) {
           article.frontmatter.relatedSlugs = selectedArticles.map((a) => a.slug);
           console.log(`   🔗 Found ${selectedArticles.length} related articles`);
 
-          // 智能双向连接：使用新的智能算法，确保不超过5个
           const allEmbeddings = loadArticleEmbeddings();
           let bidirectionalCount = 0;
 
@@ -276,30 +387,27 @@ async function generateArticles(
                 oldArticle.slug,
                 article.slug,
                 allEmbeddings,
-                5 // 最大链接数
+                5
               );
-              if (success) {
-                bidirectionalCount++;
-              }
+              if (success) bidirectionalCount++;
             } catch (reverseError) {
-              console.warn(`   ⚠️  Failed to update reverse link for ${oldArticle.slug}: ${reverseError instanceof Error ? reverseError.message : String(reverseError)}`);
+              console.warn(`   ⚠️  Failed reverse link for ${oldArticle.slug}: ${reverseError instanceof Error ? reverseError.message : String(reverseError)}`);
             }
           }
 
           if (bidirectionalCount > 0) {
-            console.log(`   ↔️  Bidirectional links established (${bidirectionalCount}/${selectedArticles.length})`);
+            console.log(`   ↔️  Bidirectional links: ${bidirectionalCount}/${selectedArticles.length}`);
           }
         } else {
-          // 如果找不到相似文章，使用降级策略
-          console.warn(`   ⚠️  No similar articles found, using fallback`);
+          console.warn(`   ⚠️  No similar articles found`);
           article.frontmatter.relatedSlugs = [];
         }
       } catch (linkError) {
-        console.warn(`   ⚠️  Failed to find related articles: ${linkError instanceof Error ? linkError.message : String(linkError)}`);
+        console.warn(`   ⚠️  Internal linking failed: ${linkError instanceof Error ? linkError.message : String(linkError)}`);
         article.frontmatter.relatedSlugs = [];
       }
 
-      // 写入 Markdown 文件
+      // Step 4: 写入文件
       const articlesDir = path.join(process.cwd(), 'content', 'articles');
       if (!fs.existsSync(articlesDir)) {
         fs.mkdirSync(articlesDir, { recursive: true });
@@ -311,14 +419,14 @@ async function generateArticles(
 
       fs.writeFileSync(filePath, fileContent, 'utf8');
 
-      // 立即保存 embedding
+      // Step 5: 保存 embedding（用优化后的metadata）
       try {
         await addEmbeddingForNewArticle({
           slug: article.slug,
-          title: topic.title,
-          description: topic.description,
-          primaryKeyword: topic.primaryKeyword,
-          topicCluster: topic.topicCluster,
+          title: article.frontmatter.title,
+          description: article.frontmatter.description,
+          primaryKeyword: article.frontmatter.primaryKeyword,
+          topicCluster: article.frontmatter.topicCluster,
         });
       } catch (embeddingError) {
         console.warn(`   ⚠️  Failed to save embedding: ${embeddingError instanceof Error ? embeddingError.message : String(embeddingError)}`);
@@ -329,17 +437,21 @@ async function generateArticles(
       console.log(`   ✅ Written to: content/articles/${article.slug}.md\n`);
 
       // 速率限制
-      if (i < selectedTopics.length - 1) {
-        await new Promise((resolve) => setTimeout(resolve, 1000));
-      }
+      await new Promise((resolve) => setTimeout(resolve, 1000));
+
     } catch (error) {
       failedCount++;
+      generatedSlugs.add(slugify(topic.title)); // 失败的也从选题库移除
       console.error(`   ❌ Failed: ${error instanceof Error ? error.message : String(error)}\n`);
     }
   }
 
-  // 更新 planned-topics 文件（移除已成功生成的标题）
-  if (successCount > 0) {
+  if (successCount < count) {
+    console.warn(`\n⚠️  Only generated ${successCount}/${count} articles (pool exhausted)`);
+  }
+
+  // 更新 planned-topics 文件（移除已消耗+被丢弃的选题）
+  if (generatedSlugs.size > 0) {
     console.log('🔄 Updating planned-topics files...\n');
 
     const inventory = getTopicsInventory();
@@ -357,7 +469,12 @@ async function generateArticles(
     console.log('');
   }
 
-  return { success: successCount, failed: failedCount };
+  // 去重统计
+  if (dedupDiscarded > 0) {
+    console.log(`📊 Dedup summary: ${dedupDiscarded} articles discarded (similarity > ${DEDUP_SIMILARITY_THRESHOLD})\n`);
+  }
+
+  return { success: successCount, failed: failedCount, dedupDiscarded };
 }
 
 /**
@@ -425,7 +542,7 @@ async function main(): Promise<GenerationResult> {
   const topicsInventoryAfter = getTotalTopicsCount();
 
   // 7. 生成文章
-  const { success, failed } = await generateArticles(config, articlesCount);
+  const { success, failed, dedupDiscarded } = await generateArticles(config, articlesCount);
 
   // 8. 重建索引
   if (success > 0) {
@@ -446,6 +563,7 @@ async function main(): Promise<GenerationResult> {
   console.log(`🎯 Target: ${articlesCount} articles`);
   console.log(`✅ Generated: ${success} articles`);
   console.log(`❌ Failed: ${failed} articles`);
+  console.log(`🚫 Dedup discarded: ${dedupDiscarded} articles`);
   console.log(`📚 Topics inventory: ${topicsInventoryBefore} → ${topicsInventoryAfter}`);
   console.log(`➕ Topics replenished: ${topicsReplenished}`);
   console.log(`⏱️  Duration: ${durationMin} minutes\n`);

@@ -30,6 +30,7 @@ export interface ReplenishConfig {
   duplicateThreshold?: number;    // 语义查重阈值，默认 0.85
   expectedPassRate?: number;      // 预期通过率，默认 0.7
   delayBetweenAttempts?: number;  // 每轮之间的延迟（毫秒），默认 300
+  angles?: string[];              // 需要覆盖的子方向（从config读取）
 }
 
 /**
@@ -45,6 +46,7 @@ export async function replenishTopicUntilTarget(
     duplicateThreshold = 0.85,
     expectedPassRate = 0.7,
     delayBetweenAttempts = 300,
+    angles = [],
   } = config;
 
   console.log(`\n╔════════════════════════════════════════════════════════╗`);
@@ -108,11 +110,14 @@ export async function replenishTopicUntilTarget(
     console.log(`   Generating ${batchSize} candidates...\n`);
 
     try {
-      // 生成候选
+      // 生成候选（传PK列表和子方向要求）
+      const existingPKs = articles.map((a) => a.primaryKeyword).filter(Boolean);
       const candidates = await generateTopicCandidatesForKeyword({
         coreKeyword: topic,
         existingTitles,
+        existingPKs,
         alreadyPlannedTitles: Array.from(plannedTitles),
+        angles,
         batchSize,
       });
 
@@ -271,11 +276,20 @@ export async function replenishTopicUntilTarget(
 }
 
 /**
+ * CoreTopic 配置（从 automation-config.json 读取）
+ */
+export interface CoreTopicConfig {
+  keyword: string;
+  angles: string[];
+}
+
+/**
  * 为多个 topics 批量补充标题
  */
 export async function replenishMultipleTopics(
   distribution: Map<string, number>,
-  config: ReplenishConfig = {}
+  config: ReplenishConfig = {},
+  coreTopics: CoreTopicConfig[] = []
 ): Promise<ReplenishResult[]> {
   const results: ReplenishResult[] = [];
   const topics = Array.from(distribution.keys());
@@ -294,11 +308,24 @@ export async function replenishMultipleTopics(
     const topic = topics[i];
     const targetCount = distribution.get(topic)!;
 
+    // 查找该topic对应的angles配置
+    const topicConfig = coreTopics.find(ct =>
+      topic.toLowerCase().includes(ct.keyword.toLowerCase()) ||
+      ct.keyword.toLowerCase().includes(topic.toLowerCase())
+    );
+    const topicAngles = topicConfig?.angles || [];
+
     console.log(`\n${'═'.repeat(60)}`);
     console.log(`Processing ${i + 1}/${topics.length}: "${topic}"`);
+    if (topicAngles.length > 0) {
+      console.log(`Angles: ${topicAngles.join(', ')}`);
+    }
     console.log(`${'═'.repeat(60)}`);
 
-    const result = await replenishTopicUntilTarget(topic, targetCount, config);
+    const result = await replenishTopicUntilTarget(topic, targetCount, {
+      ...config,
+      angles: topicAngles,
+    });
     results.push(result);
 
     // 延迟一下再处理下一个 topic
