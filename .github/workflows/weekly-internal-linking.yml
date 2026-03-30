@@ -2,9 +2,9 @@ name: Weekly Internal Linking Update
 
 # 触发条件
 on:
-  # 每周一早上 2:00 UTC 自动执行
-  schedule:
-    - cron: '0 2 * * 1'  # 每周一 02:00 UTC (北京时间 10:00)
+  # 每周一早上 2:00 UTC 自动执行 - DISABLED (pending YAML safe-write upgrade)
+  # schedule:
+  #   - cron: '0 2 * * 1'  # 每周一 02:00 UTC (北京时间 10:00)
 
   # 支持手动触发（可在 GitHub Actions 页面手动运行）
   workflow_dispatch:
