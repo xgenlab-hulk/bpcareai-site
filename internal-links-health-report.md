@@ -1,14 +1,14 @@
 # 内链健康分析报告
-**生成时间**: 2026/3/2 04:08:36
+**生成时间**: 2026/3/30 04:41:32
 
 ## 一、总体健康度
 
-- **总文章数**: 2204
-- **符合要求** (3-5个内链): 2204 篇 (100.0%)
-- **平均内链数**: 4.98
-- **双向链接覆盖率**: 7.3%
+- **总文章数**: 2209
+- **符合要求** (3-5个内链): 2164 篇 (98.0%)
+- **平均内链数**: 4.88
+- **双向链接覆盖率**: 7.1%
 
-### 健康评分: 52/100
+### 健康评分: 51/100
 
 ❌ **需改进** - 存在显著问题，建议立即优化
 
@@ -16,13 +16,14 @@
 
 | 内链数量 | 文章数 | 占比 | 状态 |
 |---------|--------|------|------|
+| 0 | 45 | 2.0% | ❌ 无内链 |
 | 3 | 12 | 0.5% | ✅ 符合要求 |
-| 4 | 27 | 1.2% | ✅ 符合要求 |
-| 5 | 2165 | 98.2% | ✅ 符合要求 |
+| 4 | 26 | 1.2% | ✅ 符合要求 |
+| 5 | 2126 | 96.2% | ✅ 符合要求 |
 
 ## 三、孤岛文章分析
 
-⚠️ 发现 **723** 篇孤岛文章（无其他文章链接到它）：
+⚠️ 发现 **719** 篇孤岛文章（无其他文章链接到它）：
 
 - the-connection-between-rheumatoid-arthritis-and-heart-disease
 - how-to-create-a-blood-sugar-emergency-kit-for-holiday-travel
@@ -34,7 +35,7 @@
 - how-to-talk-to-relatives-about-your-dietary-restrictions-without-offending-anyone
 - is-sugar-free-living-necessary-for-diabetics-over-50
 - christmas-vs-new-year-s-which-holiday-is-harder-on-blood-sugar
-- ...及其他 713 篇
+- ...及其他 709 篇
 
 ## 四、TopicCluster 连通性
 
@@ -1783,6 +1784,11 @@
 | remission-realism | 100.0% | ✅ 优秀 |
 | gastrovascular-risk-assessment | 100.0% | ✅ 优秀 |
 | hormone-therapy-interactions | 100.0% | ✅ 优秀 |
+| precision-nutrition | 100.0% | ✅ 优秀 |
+| frailty-respiratory-integration | 100.0% | ✅ 优秀 |
+| pharmacology-interactions | 100.0% | ✅ 优秀 |
+| pancreatic-cell-resilience | 100.0% | ✅ 优秀 |
+| cerebrovascular-link | 100.0% | ✅ 优秀 |
 | diabetes-risk-factors | 50.0% | ⚠️ 良好 |
 | environmental-factors | 50.0% | ⚠️ 良好 |
 | monitoring-accessibility | 50.0% | ⚠️ 良好 |
@@ -1897,7 +1903,7 @@
 
 ## 五、过度链接文章
 
-⚠️ 发现 **284** 篇文章被链接次数过多（>10次）：
+⚠️ 发现 **286** 篇文章被链接次数过多（>10次）：
 
 - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
 - the-hidden-link-between-gum-disease-and-heart-problems
@@ -2071,6 +2077,7 @@
 - a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
 - quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety
 - the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
+- what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75
 - 7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
 - 12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
 - how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns
@@ -2177,6 +2184,7 @@
 - 7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72
 - a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
 - how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation
+- best-breathing-patterns-for-reducing-central-systolic-pressure-in-adults-55-69-with-elevated-augmentation-index-and-high-frequency-hrv-suppression
 - what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp
 - 9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance
 - 12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness
@@ -2186,8 +2194,9 @@
 
 ## 六、优化建议
 
-2. **消除孤岛文章**: 723 篇文章没有被其他文章链接，建议通过双向链接优化改善
-3. **提升双向链接覆盖率**: 当前为 7.3%，建议目标 >60%
+1. **修复不符合要求的文章**: 运行 `npm run optimize:links` 将所有文章调整到3-5个内链
+2. **消除孤岛文章**: 719 篇文章没有被其他文章链接，建议通过双向链接优化改善
+3. **提升双向链接覆盖率**: 当前为 7.1%，建议目标 >60%
 4. **改善Cluster连通性**: 90 个主题集群内部连通性低于50%
 
 ---
