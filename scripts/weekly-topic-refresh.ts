@@ -2,11 +2,13 @@
  * 每周选题库更新
  *
  * 线1（稳定线）的核心脚本：
- * 1. 分析最近7天的GSC数据
- * 2. 识别内容缺口和高价值方向
- * 3. 生成新选题候选
+ * 1. 脚本汇总最近7天GSC数据
+ * 2. LLM深度分析（搜索意图、CTR归因、机会识别）
+ * 3. LLM生成新选题候选
  * 4. 评分排序
  * 5. 补充到选题库
+ * 6. 输出已有文章优化建议（线B）
+ * 7. [预留] Perplexity深挖内容缺口
  *
  * 使用方式：npm run seo:weekly
  */
@@ -17,6 +19,7 @@ import path from 'path';
 import { getStoredDates, loadRawDataRange, saveAnalysis } from '../lib/seo/data-store';
 import { scoreTopics, type TopicCandidate } from '../lib/seo/topic-scorer';
 import { generateTopicCandidatesForKeyword } from '../lib/llm/qwen-topics';
+import { runWeeklyDeepAnalysis, generateArticleOptimizations, deepDiveWithPerplexity, type WeeklyAnalysisInput } from '../lib/seo/llm-analyzer';
 import {
   getTopicsInventory,
   getTotalTopicsCount,
@@ -78,19 +81,80 @@ async function main() {
     console.log('');
   }
 
-  // 4. 检查当前选题库状态
+  // 4. LLM深度分析（搜索意图、CTR归因、机会识别）
+  console.log('🧠 Running LLM deep analysis...\n');
+
+  const queryList = Array.from(queryAgg.entries())
+    .sort((a, b) => b[1].impressions - a[1].impressions)
+    .map(([q, d]) => ({
+      query: q,
+      impressions: d.impressions,
+      clicks: d.clicks,
+      avgPosition: d.position,
+      ctr: d.impressions > 0 ? +(d.clicks / d.impressions * 100).toFixed(1) : 0,
+    }));
+
+  // 汇总页面数据
+  const pageAgg = new Map<string, { impr: number; clicks: number; pos: number }>();
+  for (const day of last7Data) {
+    for (const p of day.pages) {
+      const e = pageAgg.get(p.page) || { impr: 0, clicks: 0, pos: 0 };
+      e.impr += p.impressions; e.clicks += p.clicks; e.pos = p.position;
+      pageAgg.set(p.page, e);
+    }
+  }
+  const pageList = Array.from(pageAgg.entries())
+    .sort((a, b) => b[1].impr - a[1].impr)
+    .slice(0, 20)
+    .map(([page, d]) => ({
+      slug: page.split('/articles/')[1] || page.split('/').pop() || page,
+      impressions: d.impr, clicks: d.clicks,
+      ctr: d.impr > 0 ? +(d.clicks / d.impr * 100).toFixed(1) : 0,
+      position: +d.pos.toFixed(1),
+    }));
+
+  let llmAnalysis;
+  try {
+    llmAnalysis = await runWeeklyDeepAnalysis({
+      queries: queryList,
+      topPages: pageList,
+      monthlyTrend: `${last7Data.length} days analyzed`,
+      currentTopicLibrary: `6 categories, topics pending refresh`,
+      siteInfo: 'BPCareAI - 50+老年人心血管健康网站, 2209篇文章',
+    });
+
+    console.log('   ✅ LLM analysis complete');
+    if (llmAnalysis.searchIntentAnalysis) {
+      console.log(`   搜索意图: ${llmAnalysis.searchIntentAnalysis.substring(0, 100)}...`);
+    }
+    if (llmAnalysis.articleOptimizations.length > 0) {
+      console.log(`   已有文章优化建议: ${llmAnalysis.articleOptimizations.length} 篇`);
+    }
+    console.log('');
+  } catch (err: any) {
+    console.warn(`   ⚠️  LLM analysis failed: ${err.message}`);
+    console.warn('   Continuing with script-only analysis...\n');
+    llmAnalysis = null;
+  }
+
+  // 5. [预留] Perplexity深挖内容缺口
+  // 当发现内容缺口时，可调用 deepDiveWithPerplexity(direction)
+  // 需要设置 PERPLEXITY_API_KEY 环境变量
+  // TODO: 在llmAnalysis.hiddenOpportunities中识别缺口方向，自动调用
+
+  // 6. 检查当前选题库状态
   const inventory = getTopicsInventory();
   const totalTopics = getTotalTopicsCount();
   console.log(`📚 Current topic library: ${totalTopics} topics across ${inventory.filter(i => i.count > 0).length} categories\n`);
 
-  // 5. 加载已有文章的标题和PK（用于选题生成的去重参考）
+  // 7. 加载已有文章的标题和PK
   const indexPath = path.join(process.cwd(), 'data', 'articles-index.json');
   const articles = JSON.parse(fs.readFileSync(indexPath, 'utf8'));
   const existingTitles = articles.map((a: any) => a.title);
   const existingPKs = articles.map((a: any) => a.primaryKeyword).filter(Boolean);
   const plannedTitles = inventory.flatMap(i => i.topics.map(t => t.title));
 
-  // 6. 为每个核心分类生成新选题
+  // 8. 为每个核心分类生成新选题
   const coreTopics = [
     { keyword: 'blood pressure', angles: ['diet', 'exercise', 'medication', 'monitoring', 'symptoms', 'sleep', 'stress'] },
     { keyword: 'diabetes', angles: ['diet', 'exercise', 'blood sugar monitoring', 'medication', 'symptoms', 'meal timing'] },
@@ -213,7 +277,27 @@ async function main() {
 
   console.log(`\n✅ Added ${totalAdded} new topics to library`);
 
-  // 10. 保存周度分析报告
+  // 11. 输出已有文章优化建议（线B）
+  if (llmAnalysis?.articleOptimizations && llmAnalysis.articleOptimizations.length > 0) {
+    console.log('\n📝 Article Optimization Suggestions (Line B):\n');
+    for (const opt of llmAnalysis.articleOptimizations) {
+      console.log(`   ${opt.slug}`);
+      console.log(`     Current: "${opt.currentTitle}"`);
+      console.log(`     → Title: "${opt.suggestedTitle}"`);
+      console.log(`     → PK: "${opt.suggestedPK}"`);
+      console.log(`     Reason: ${opt.reason}`);
+      console.log('');
+    }
+
+    // 保存优化建议供后续执行
+    saveAnalysis('article-optimizations-pending.json', {
+      generatedAt: new Date().toISOString(),
+      optimizations: llmAnalysis.articleOptimizations,
+    });
+    console.log('   Saved to: data/seo/analysis/article-optimizations-pending.json\n');
+  }
+
+  // 12. 保存周度分析报告
   const weekNum = getISOWeek(new Date());
   const report = {
     week: `${new Date().getFullYear()}-W${weekNum}`,
@@ -224,6 +308,13 @@ async function main() {
       totalImpressions: totalImpr,
       topOpportunities: gscOpportunities.slice(0, 20),
     },
+    llmAnalysis: llmAnalysis ? {
+      searchIntentAnalysis: llmAnalysis.searchIntentAnalysis,
+      ctrAnomalies: llmAnalysis.ctrAnomalies,
+      hiddenOpportunities: llmAnalysis.hiddenOpportunities,
+      topicPriorities: llmAnalysis.topicPriorities,
+      articleOptimizationCount: llmAnalysis.articleOptimizations.length,
+    } : null,
     candidates: scored.slice(0, 30).map(t => ({
       title: t.title,
       pk: t.primaryKeyword,
