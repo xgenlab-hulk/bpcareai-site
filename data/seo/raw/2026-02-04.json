@@ -1,0 +1,176 @@
+{
+  "date": "2026-02-04",
+  "fetchedAt": "2026-03-30T17:02:01.689Z",
+  "queries": [
+    {
+      "query": "nsaids heart risks seniors",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 8.363636363636363
+    },
+    {
+      "query": "nsaids weaken senior hearts risks",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 11.571428571428571
+    },
+    {
+      "query": "soup for hypertension",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 89
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/articles/best-warm-heart-healthy-soups-for-seniors-with-high-cholesterol",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 24
+    },
+    {
+      "page": "https://bpcareai.com/articles/blood-pressure-and-alcohol-how-much-is-too-much",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "page": "https://bpcareai.com/articles/blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 4.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/can-deep-breathing-exercises-reduce-high-blood-pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://bpcareai.com/articles/can-gardening-improve-heart-health-after-50",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 8.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/diabetes-and-vision-changes-what-seniors-need-to-know",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 28
+    },
+    {
+      "page": "https://bpcareai.com/articles/does-caffeine-raise-blood-pressure-after-age-60",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "page": "https://bpcareai.com/articles/exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 11.714285714285714
+    },
+    {
+      "page": "https://bpcareai.com/articles/hidden-salt-10-surprising-foods-that-spike-blood-pressure",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-chronic-inflammation-worsens-type-2-diabetes-after-50",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "page": "https://bpcareai.com/articles/meal-timing-strategies-for-better-blood-sugar-control-after-50",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 16
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-impact-of-long-term-nsaid-use-on-heart-disease-risk",
+      "clicks": 0,
+      "impressions": 26,
+      "ctr": 0,
+      "position": 8.038461538461538
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-link-between-diabetes-and-slow-healing-in-older-adults",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-link-between-sleep-apnea-and-high-blood-pressure-after-50",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://bpcareai.com/articles/understanding-a1c-goals-for-seniors-with-diabetes",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 18.875
+    },
+    {
+      "page": "https://bpcareai.com/articles/why-older-women-gain-weight-faster-during-the-holidays-after-menopause",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/can-walking-after-meals-lower-blood-sugar-in-older-adults",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/is-sitting-too-much-harming-your-heart-after-60",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    }
+  ],
+  "summary": {
+    "totalQueries": 3,
+    "totalImpressions": 19,
+    "totalClicks": 0,
+    "avgPosition": 13.789473684210526,
+    "pagesWithImpressions": 20
+  }
+}

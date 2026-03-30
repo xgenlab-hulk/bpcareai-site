@@ -1,0 +1,50 @@
+{
+  "date": "2026-01-12",
+  "fetchedAt": "2026-03-30T17:01:42.944Z",
+  "queries": [
+    {
+      "query": "setting a1c goals in diabetic patients",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 58
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/articles/how-menopause-affects-heart-disease-risk-in-women",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 48
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-strong-are-your-fingernails-what-it-might-say-about-your-heart",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 11.666666666666666
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 9.666666666666666
+    },
+    {
+      "page": "https://bpcareai.com/articles/understanding-a1c-goals-for-seniors-with-diabetes",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 34
+    }
+  ],
+  "summary": {
+    "totalQueries": 1,
+    "totalImpressions": 1,
+    "totalClicks": 0,
+    "avgPosition": 58,
+    "pagesWithImpressions": 4
+  }
+}

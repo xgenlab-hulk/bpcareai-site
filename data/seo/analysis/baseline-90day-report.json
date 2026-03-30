@@ -1,0 +1,76 @@
+{
+  "reportDate": "2026-03-31",
+  "dataRange": "2025-12-27 → 2026-03-27 (91 days)",
+  "overallGrowth": {
+    "dec2025": { "impressions": 17, "clicks": 0, "queries": 5, "pages": 28 },
+    "jan2026": { "impressions": 36, "clicks": 0, "queries": 15, "pages": 78 },
+    "feb2026": { "impressions": 70, "clicks": 0, "queries": 21, "pages": 99 },
+    "mar2026": { "impressions": 135, "clicks": 1, "queries": 63, "pages": 83 },
+    "trend": "每月约2倍增长，3月最后一周加速明显"
+  },
+  "topDirections": [
+    {
+      "name": "NSAIDs+血压",
+      "impressions": 56,
+      "avgPosition": 6.6,
+      "queryCount": 15,
+      "priority": "P3-加强已有优势",
+      "action": "扩展到其他药物类型对血压的影响"
+    },
+    {
+      "name": "HbA1c/老年糖尿病",
+      "impressions": 41,
+      "avgPosition": 34.5,
+      "queryCount": 8,
+      "priority": "P1-最大机会",
+      "action": "加强老年糖尿病管理内容，已有好排名的文章可快速获得更多流量"
+    },
+    {
+      "name": "Fiber/高纤维食物",
+      "impressions": 30,
+      "avgPosition": 45.9,
+      "queryCount": 9,
+      "priority": "P2-有数据支撑的新方向",
+      "action": "写专门的高纤维饮食side dishes指南"
+    },
+    {
+      "name": "Soft foods/牙口饮食",
+      "impressions": 22,
+      "avgPosition": 84.4,
+      "queryCount": 17,
+      "priority": "P2-内容缺口",
+      "action": "需要专门的老年人牙口不好的饮食指南"
+    },
+    {
+      "name": "Cholesterol/胆固醇",
+      "impressions": 11,
+      "avgPosition": 72.6,
+      "queryCount": 5,
+      "priority": "P1-最大缺口",
+      "action": "只有8篇文章，大量补充cholesterol方向"
+    },
+    {
+      "name": "Blood pressure综合",
+      "impressions": 52,
+      "avgPosition": 39.9,
+      "queryCount": 26,
+      "priority": "P3-持续优化",
+      "action": "针对具体长尾词写专题（soups、deep breathing等）"
+    }
+  ],
+  "topPages": [
+    { "slug": "exercise-induced-blood-pressure", "impressions": 947, "position": 9.0, "clicks": 2 },
+    { "slug": "understanding-a1c-goals-for-seniors-with-diabetes", "impressions": 306, "position": 5.4, "clicks": 0 },
+    { "slug": "the-hidden-dangers-of-indoor-heating-on-blood-pressure", "impressions": 194, "position": 9.3, "clicks": 6 },
+    { "slug": "the-impact-of-long-term-nsaid-use-on-heart-disease-risk", "impressions": 180, "position": 4.9, "clicks": 0 },
+    { "slug": "blood-sugar-friendly-holiday-gift-ideas-for-diabetics", "impressions": 138, "position": 5.0, "clicks": 1 }
+  ],
+  "siteStatus": {
+    "totalArticles": 2209,
+    "pagesWithImpressions": 133,
+    "indexRate": "6.0%",
+    "totalSearchTerms": 85,
+    "totalImpressions90d": 258,
+    "totalClicks90d": 1
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "date": "2026-01-09",
+  "fetchedAt": "2026-03-30T17:01:40.384Z",
+  "queries": [],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/articles/does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 42
+    },
+    {
+      "page": "https://bpcareai.com/articles/hidden-salt-10-surprising-foods-that-spike-blood-pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-pets-support-heart-health-in-older-adults",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 62
+    },
+    {
+      "page": "https://bpcareai.com/articles/is-low-blood-pressure-dangerous-for-seniors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 39
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-impact-of-long-term-nsaid-use-on-heart-disease-risk",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://bpcareai.com/articles/why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    }
+  ],
+  "summary": {
+    "totalQueries": 0,
+    "totalImpressions": 0,
+    "totalClicks": 0,
+    "avgPosition": 0,
+    "pagesWithImpressions": 7
+  }
+}

@@ -41,14 +41,21 @@ export interface ScoredTopic extends TopicCandidate {
   reasoning: string;           // 人可读的评分理由
 }
 
-// 主题集群定义：6个核心主题 + 目标文章数
-const CLUSTER_TARGETS: Record<string, { target: number; keywords: string[] }> = {
-  'hypertension-management': { target: 600, keywords: ['blood pressure', 'hypertension', 'bp', 'systolic', 'diastolic'] },
-  'diabetes-management': { target: 500, keywords: ['diabetes', 'blood sugar', 'glucose', 'insulin', 'hba1c'] },
-  'nutrition-diet-management': { target: 400, keywords: ['food', 'diet', 'eating', 'nutrition', 'meal', 'salt', 'sodium'] },
-  'cardiovascular-health': { target: 300, keywords: ['heart', 'cardiac', 'cardiovascular', 'cholesterol', 'artery'] },
-  'lifestyle-interventions': { target: 200, keywords: ['exercise', 'walking', 'yoga', 'fitness', 'weight', 'sleep', 'stress'] },
-  'medication-safety': { target: 150, keywords: ['medication', 'medicine', 'drug', 'pill', 'supplement', 'side effect'] },
+// 主题集群定义：基于GSC 90天数据分析确定的优先级和目标
+// P1 = 最大机会（GSC有信号+大缺口），P2 = 有数据支撑的新方向，P3 = 加强已有优势
+const CLUSTER_TARGETS: Record<string, { target: number; priority: string; keywords: string[] }> = {
+  // P1: GSC显示cholesterol只有8篇文章但有搜索需求（11次展示）
+  'cardiovascular-health': { target: 300, priority: 'P1', keywords: ['heart', 'cardiac', 'cardiovascular', 'cholesterol', 'artery', 'statin'] },
+  // P1: GSC显示HbA1c/老年糖尿病有41次展示，已有好排名可快速扩大
+  'diabetes-management': { target: 500, priority: 'P1', keywords: ['diabetes', 'blood sugar', 'glucose', 'insulin', 'hba1c', 'a1c', 'diabetic'] },
+  // P2: GSC显示高纤维饮食有30次展示+9个搜索变体，soft foods有17个变体
+  'nutrition-diet-management': { target: 400, priority: 'P2', keywords: ['food', 'diet', 'eating', 'nutrition', 'meal', 'salt', 'sodium', 'fiber', 'soft food', 'soup'] },
+  // P2: 只有46篇文章，但exercise-induced-bp是展示量最高的页面(947次)
+  'lifestyle-interventions': { target: 200, priority: 'P2', keywords: ['exercise', 'walking', 'yoga', 'fitness', 'weight', 'sleep', 'stress', 'breathing'] },
+  // P3: 已有476篇+排名好(NSAIDs方向pos 6.6)，持续加强
+  'hypertension-management': { target: 600, priority: 'P3', keywords: ['blood pressure', 'hypertension', 'bp', 'systolic', 'diastolic', 'nsaid'] },
+  // P3: 药物安全方向GSC有信号，但文章已有54篇
+  'medication-safety': { target: 150, priority: 'P3', keywords: ['medication', 'medicine', 'drug', 'pill', 'supplement', 'side effect'] },
 };
 
 // ============================================================

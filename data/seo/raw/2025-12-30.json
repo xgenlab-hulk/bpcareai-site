@@ -1,0 +1,120 @@
+{
+  "date": "2025-12-30",
+  "fetchedAt": "2026-03-30T17:01:31.379Z",
+  "queries": [
+    {
+      "query": "a1c goals by age 70,123,4473,2.75%,5.5",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 21
+    },
+    {
+      "query": "heart attacks",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/articles/blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/does-caffeine-raise-blood-pressure-after-age-60",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://bpcareai.com/articles/exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 97.66666666666667
+    },
+    {
+      "page": "https://bpcareai.com/articles/hidden-salt-10-surprising-foods-that-spike-blood-pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-cold-weather-affects-blood-pressure-medication-effectiveness",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-strong-are-your-fingernails-what-it-might-say-about-your-heart",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://bpcareai.com/articles/is-low-blood-pressure-dangerous-for-seniors",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 14.75
+    },
+    {
+      "page": "https://bpcareai.com/articles/meal-timing-strategies-for-better-blood-sugar-control-after-50",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://bpcareai.com/articles/understanding-a1c-goals-for-seniors-with-diabetes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 21
+    },
+    {
+      "page": "https://bpcareai.com/articles/why-winter-increases-heart-attack-risk-in-seniors-over-70",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 9.2
+    }
+  ],
+  "summary": {
+    "totalQueries": 2,
+    "totalImpressions": 3,
+    "totalClicks": 0,
+    "avgPosition": 11.666666666666666,
+    "pagesWithImpressions": 13
+  }
+}

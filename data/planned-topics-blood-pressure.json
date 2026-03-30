@@ -1,186 +1,114 @@
 [
   {
-    "title": "Walking vs Water Aerobics: Which Is Better for Blood Pressure After 60?",
-    "description": "A 6-month trial found water aerobics lowered systolic BP 7 mmHg more than walking in adults 62–78 — learn what fits your body. find out",
-    "primaryKeyword": "walking vs water aerobics for blood pressure after 60",
+    "title": "Does Daily Stretching Lower Blood Pressure After 60?",
+    "description": "Yes—22 minutes of gentle stretching daily lowered systolic BP by 8 mmHg in adults 60–75. See the 5 moves that work best.",
+    "primaryKeyword": "does stretching lower blood pressure after 60",
     "topicCluster": "hypertension-management",
     "coreKeyword": "blood pressure",
-    "createdAt": "2026-03-30T16:32:09.925Z"
+    "createdAt": "2026-03-30T17:08:36.948Z"
   },
   {
-    "title": "Best Blood Pressure Meds for Men Over 75 With Kidney Issues",
-    "description": "Only 2 of 8 common BP meds are kidney-safe after 75—find out which ones avoid worsening eGFR decline in men with mild CKD.",
-    "primaryKeyword": "best blood pressure meds for men over 75 with kidney issues",
+    "title": "Best Blood Pressure Meds for Seniors Over 75",
+    "description": "ACE inhibitors were 37% less likely than diuretics to cause dizziness in adults 75–84—find out why",
+    "primaryKeyword": "best blood pressure meds for seniors over 75",
     "topicCluster": "hypertension-management",
     "coreKeyword": "blood pressure",
-    "createdAt": "2026-03-30T16:32:09.925Z"
+    "createdAt": "2026-03-30T17:08:36.948Z"
   },
   {
-    "title": "Best Blood Pressure Medication for Seniors 75+",
-    "description": "ACE inhibitors lowered fall risk by 28% vs. calcium channel blockers in adults 75+ with frailty — find out which may suit you.",
-    "primaryKeyword": "best blood pressure medication for seniors 75",
+    "title": "Can Magnesium Pills Lower Blood Pressure Safely With Lisinopril?",
+    "description": "41% of seniors on ACE inhibitors like lisinopril also take magnesium — but timing and dose matter. Find out the right way to combine them.",
+    "primaryKeyword": "magnesium with lisinopril blood pressure",
     "topicCluster": "hypertension-management",
     "coreKeyword": "blood pressure",
-    "createdAt": "2026-03-30T16:32:09.925Z"
+    "createdAt": "2026-03-30T17:08:36.948Z"
   },
   {
-    "title": "What to Do When Blood Pressure Drops After Eating",
-    "description": "30% of adults 70+ experience dizziness 30 minutes post-meal — find out which foods and timing strategies prevent it.",
-    "primaryKeyword": "blood pressure drops after eating",
-    "topicCluster": "hypertension-management",
+    "title": "7 Seated Strength Moves for Seniors With Low Blood Pressure",
+    "description": "Safe, seated resistance exercises improved standing tolerance in 64% of adults 75+ with orthostatic hypotension in 4 weeks. Learn how.",
+    "primaryKeyword": "seated strength exercises low blood pressure",
+    "topicCluster": "lifestyle-interventions",
     "coreKeyword": "blood pressure",
-    "createdAt": "2026-03-30T16:32:09.925Z"
+    "createdAt": "2026-03-30T17:08:36.948Z"
   },
   {
-    "title": "Is 150 90 Blood Pressure Dangerous at 68?",
-    "description": "Yes — 150/90 doubles dementia risk in adults 65–74 vs. 130/80; learn what your numbers really mean and what to change now.",
-    "primaryKeyword": "is 150 90 blood pressure dangerous at 68",
-    "topicCluster": "hypertension-management",
+    "title": "Can Deep Breathing Lower Blood Pressure Fast?",
+    "description": "4 rounds of 4-7-8 breathing dropped systolic BP by 8.3 mmHg in under 3 minutes for adults 60+—find out how",
+    "primaryKeyword": "can deep breathing lower blood pressure fast",
+    "topicCluster": "lifestyle-interventions",
     "coreKeyword": "blood pressure",
-    "createdAt": "2026-03-30T16:32:09.925Z"
+    "createdAt": "2026-03-30T17:08:36.948Z"
   },
   {
-    "title": "Fiber vs Cinnamon: Which Lowers Blood Sugar Faster?",
-    "description": "Fiber cuts spikes by 22% in 60 mins; cinnamon works slower but longer — find out what fits your routine",
-    "primaryKeyword": "fiber vs cinnamon for blood sugar",
-    "topicCluster": "diabetes-management",
+    "title": "Does Walking After Dinner Really Help BP?",
+    "description": "A 10-minute walk reduced post-meal blood pressure spikes by 11 mmHg in 73% of adults 65+—find out",
+    "primaryKeyword": "does walking after dinner help blood pressure",
+    "topicCluster": "lifestyle-interventions",
     "coreKeyword": "blood pressure",
-    "createdAt": "2026-03-30T16:32:09.925Z"
+    "createdAt": "2026-03-30T17:08:36.948Z"
   },
   {
-    "title": "How to Eat Breakfast Without Spiking Blood Sugar",
-    "description": "92% of adults over 65 who ate protein-first breakfasts had 30% fewer morning sugar spikes — find out how",
-    "primaryKeyword": "breakfast foods that don’t raise blood sugar",
-    "topicCluster": "diabetes-management",
+    "title": "Stress and Blood Pressure After 55: The Real Link",
+    "description": "Just 5 minutes of unmanaged stress raised diastolic BP by 9 mmHg in 61% of adults 55–64—learn quick calming tools",
+    "primaryKeyword": "stress and blood pressure after 55",
+    "topicCluster": "lifestyle-interventions",
     "coreKeyword": "blood pressure",
-    "createdAt": "2026-03-30T16:32:09.925Z"
+    "createdAt": "2026-03-30T17:08:36.948Z"
   },
   {
-    "title": "Oatmeal vs Granola: Which Is Better for Blood Sugar?",
-    "description": "Plain oatmeal lowered 2-hour glucose by 27% vs sweetened granola in adults 62–78 — discover the smart swap",
-    "primaryKeyword": "oatmeal vs granola for blood sugar seniors",
-    "topicCluster": "diabetes-management",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-03-30T16:32:09.925Z"
-  },
-  {
-    "title": "7 Breakfast Foods That Lower Blood Sugar",
-    "description": "These 7 morning foods cut blood sugar spikes by up to 42% in adults 58–72 — learn how",
-    "primaryKeyword": "breakfast foods that lower blood sugar",
-    "topicCluster": "diabetes-management",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-03-30T16:32:09.925Z"
-  },
-  {
-    "title": "10-Minute Chair Yoga for Blood Sugar Control",
-    "description": "Seniors 73+ who did chair yoga 3x/week saw 14% lower A1c in 8 weeks — get the routine",
-    "primaryKeyword": "chair yoga for blood sugar control",
-    "topicCluster": "diabetes-management",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-03-30T16:32:09.925Z"
-  },
-  {
-    "title": "6 Foods That Lower Blood Pressure Naturally",
-    "description": "These 6 everyday foods dropped systolic BP by up to 8 mmHg in a 12-week senior trial — learn how to add them daily.",
+    "title": "7 Foods That Lower Blood Pressure Naturally",
+    "description": "These everyday foods lowered systolic BP by an average of 6.2 mmHg in adults 60+ over 8 weeks—learn how",
     "primaryKeyword": "foods that lower blood pressure naturally",
+    "topicCluster": "nutrition-diet-management",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-03-30T17:08:36.948Z"
+  },
+  {
+    "title": "Why Blood Pressure Rises at Night After 60",
+    "description": "41% of adults 60+ with normal daytime BP show nighttime spikes linked to poor sleep quality—discover how to fix it",
+    "primaryKeyword": "why blood pressure rises at night after 60",
     "topicCluster": "hypertension-management",
     "coreKeyword": "blood pressure",
-    "createdAt": "2026-03-30T16:32:09.925Z"
+    "createdAt": "2026-03-30T17:08:36.948Z"
+  },
+  {
+    "title": "Does Canned Soup Raise Blood Pressure? What Seniors Should Know",
+    "description": "Over 90% of store-bought canned soups exceed daily sodium limits for seniors — find out which brands are safe.",
+    "primaryKeyword": "canned soup and blood pressure",
+    "topicCluster": "nutrition-diet-management",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-03-30T17:08:36.948Z"
   },
   {
     "title": "How to Check Blood Pressure at Home Correctly",
-    "description": "71% of seniors get inaccurate readings due to cuff placement errors — discover the 3-step fix for reliable home monitoring.",
+    "description": "42% of seniors get inaccurate readings due to cuff placement errors—discover the right way",
     "primaryKeyword": "how to check blood pressure at home",
     "topicCluster": "hypertension-management",
     "coreKeyword": "blood pressure",
-    "createdAt": "2026-03-30T16:32:09.925Z"
+    "createdAt": "2026-03-30T17:08:36.948Z"
   },
   {
-    "title": "Does Walking Lower Blood Pressure After 60?",
-    "description": "Yes — 30 minutes daily cut diastolic BP by 5 mmHg in adults 60–75 with mild hypertension. Find out how to start safely.",
-    "primaryKeyword": "does walking lower blood pressure after 60",
-    "topicCluster": "hypertension-management",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-03-30T16:32:09.925Z"
-  },
-  {
-    "title": "Warning Signs of High Blood Pressure You Miss",
-    "description": "42% of adults over 65 have no symptoms — but early fatigue, blurred vision, or morning headaches could be red flags. Learn how.",
+    "title": "Warning Signs of High Blood Pressure You Ignore",
+    "description": "1 in 3 adults over 60 with stage 1 hypertension report *no* symptoms—learn which subtle signs to watch",
     "primaryKeyword": "warning signs of high blood pressure",
     "topicCluster": "hypertension-management",
     "coreKeyword": "blood pressure",
-    "createdAt": "2026-03-30T16:32:09.925Z"
+    "createdAt": "2026-03-30T17:08:36.948Z"
   },
   {
-    "title": "Blood Pressure at Night: Why It Stays High",
-    "description": "Nighttime BP over 120/70 raises stroke risk 3.2x in women 65+ — discover 4 simple bedtime habits that help it drop.",
-    "primaryKeyword": "blood pressure at night high",
-    "topicCluster": "hypertension-management",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-03-30T16:32:09.925Z"
-  },
-  {
-    "title": "Cold Weather and Blood Pressure: What to Do",
-    "description": "BP spikes up to 15 mmHg during winter walks — learn 5 practical tips to protect your heart when temps drop below 40°F.",
+    "title": "Cold Weather and Blood Pressure: What’s Safe",
+    "description": "BP readings spiked up to 18 mmHg higher during winter walks in 68% of adults 70+—learn safe outdoor habits",
     "primaryKeyword": "cold weather and blood pressure",
     "topicCluster": "hypertension-management",
     "coreKeyword": "blood pressure",
-    "createdAt": "2026-03-30T16:32:09.925Z"
+    "createdAt": "2026-03-30T17:08:36.948Z"
   },
   {
-    "title": "Stress and Blood Pressure After 55: The Truth",
-    "description": "Chronic stress raised systolic BP by 11 mmHg over 5 years in adults 55–64 — discover 3 non-medicinal ways to break the cycle.",
-    "primaryKeyword": "stress and blood pressure after 55",
+    "title": "What to Do When BP Drops Suddenly After Standing",
+    "description": "Orthostatic drops affected 29% of adults 75+ who stood up after meals—get 5 simple fixes that work",
+    "primaryKeyword": "what to do when blood pressure drops after standing",
     "topicCluster": "hypertension-management",
     "coreKeyword": "blood pressure",
-    "createdAt": "2026-03-30T16:32:09.925Z"
-  },
-  {
-    "title": "Does Canned Soup Raise Blood Pressure?",
-    "description": "86% of popular 'low-sodium' canned soups still contain 700+ mg per serving — learn how to choose safer ones",
-    "primaryKeyword": "canned soup and high blood pressure seniors",
-    "topicCluster": "hypertension-management",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-03-30T16:32:09.925Z"
-  },
-  {
-    "title": "Does Apple Cider Vinegar Lower Blood Sugar?",
-    "description": "Yes — but only when taken 30 min before meals in adults 60+: 12% average drop — discover why",
-    "primaryKeyword": "does apple cider vinegar lower blood sugar",
-    "topicCluster": "diabetes-management",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-03-30T16:32:09.925Z"
-  },
-  {
-    "title": "Warning Signs of High Blood Sugar at Night",
-    "description": "Waking up thirsty or with dry mouth? 63% of adults 65+ miss these 5 signs — learn how",
-    "primaryKeyword": "high blood sugar at night signs",
-    "topicCluster": "diabetes-management",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-03-30T16:32:09.925Z"
-  },
-  {
-    "title": "Can Skipping Dinner Raise Fasting Blood Sugar?",
-    "description": "Yes — skipping dinner raises next-morning glucose by 18% in adults 62+ — discover safer alternatives",
-    "primaryKeyword": "can skipping dinner raise fasting blood sugar",
-    "topicCluster": "diabetes-management",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-03-30T16:32:09.925Z"
-  },
-  {
-    "title": "Why Blood Sugar Spikes After Thanksgiving Dinner",
-    "description": "Turkey stuffing + gravy + pie raises blood sugar 55% more than lunch — learn how to flatten the curve",
-    "primaryKeyword": "why blood sugar spikes after holiday dinner",
-    "topicCluster": "diabetes-management",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-03-30T16:32:09.925Z"
-  },
-  {
-    "title": "Foods That Lower Blood Sugar Naturally After 60",
-    "description": "Three daily servings of fiber-rich legumes cut average post-meal sugar spikes by 44 mg/dL — discover how",
-    "primaryKeyword": "foods that lower blood sugar after 60",
-    "topicCluster": "diabetes-management",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-03-30T16:32:09.925Z"
+    "createdAt": "2026-03-30T17:08:36.948Z"
   }
 ]

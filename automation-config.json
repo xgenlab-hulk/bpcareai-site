@@ -1,47 +1,47 @@
 {
   "projectStartDate": "2025-11-28",
   "stages": [
-    {
-      "dayRange": [1, 20],
-      "articlesPerDay": 15,
-      "description": "Initial growth phase"
-    },
-    {
-      "dayRange": [21, 40],
-      "articlesPerDay": 20,
-      "description": "Acceleration phase"
-    },
-    {
-      "dayRange": [41, 9999],
-      "articlesPerDay": 5,
-      "description": "Mature phase - ONGOING UNLIMITED"
-    }
+    { "dayRange": [1, 20], "articlesPerDay": 15, "description": "Initial growth phase" },
+    { "dayRange": [21, 40], "articlesPerDay": 20, "description": "Acceleration phase" },
+    { "dayRange": [41, 9999], "articlesPerDay": 5, "description": "Mature phase - ONGOING UNLIMITED" }
   ],
   "topicManagement": {
     "coreTopics": [
       {
-        "keyword": "blood pressure",
-        "angles": ["diet", "exercise", "medication", "monitoring", "symptoms", "sleep", "stress", "age-specific", "seasonal"]
-      },
-      {
-        "keyword": "heart health",
-        "angles": ["diet", "exercise", "symptoms", "prevention", "medication", "women-specific", "age-specific"]
+        "keyword": "cholesterol",
+        "priority": "P1",
+        "reason": "GSC: 只有8篇文章但有搜索需求(11次展示)，最大缺口",
+        "angles": ["diet", "medication", "natural remedies", "testing", "soups that lower cholesterol", "cholesterol and heart disease"]
       },
       {
         "keyword": "diabetes",
-        "angles": ["diet", "exercise", "blood sugar monitoring", "medication", "symptoms", "meal timing", "age-specific"]
-      },
-      {
-        "keyword": "cholesterol",
-        "angles": ["diet", "medication", "natural remedies", "testing", "age-specific"]
+        "priority": "P1",
+        "reason": "GSC: HbA1c/老年糖尿病41次展示+已有好排名，快速扩大机会",
+        "angles": ["hba1c targets for elderly", "blood sugar monitoring", "medication management", "diet and meal timing", "exercise", "symptoms and complications"]
       },
       {
         "keyword": "healthy eating for seniors",
-        "angles": ["heart-healthy foods", "blood sugar friendly foods", "sodium reduction", "meal planning"]
+        "priority": "P2",
+        "reason": "GSC: 高纤维饮食30次展示+soft foods 17个搜索变体",
+        "angles": ["high fiber side dishes", "soft foods for seniors with no teeth", "heart-healthy soups", "blood sugar friendly foods", "sodium reduction", "meal planning"]
       },
       {
         "keyword": "exercise for seniors",
-        "angles": ["walking", "low-impact", "strength training", "flexibility", "heart rate"]
+        "priority": "P2",
+        "reason": "GSC: exercise-induced-bp是展示最高页面(947次)，lifestyle集群只有46篇",
+        "angles": ["walking", "low-impact", "strength training", "flexibility", "exercise and blood pressure", "deep breathing for blood pressure"]
+      },
+      {
+        "keyword": "blood pressure",
+        "priority": "P3",
+        "reason": "GSC: 已有476篇+NSAIDs方向排名好，持续加强长尾词",
+        "angles": ["medication effects on bp", "seasonal blood pressure changes", "monitoring at home", "soups and diet for bp", "sleep and blood pressure", "stress management"]
+      },
+      {
+        "keyword": "heart health",
+        "priority": "P3",
+        "reason": "GSC: 有信号但分散，需要加强nocturia/heart failure等具体方向",
+        "angles": ["symptoms and warning signs", "prevention", "nocturia and heart failure", "women-specific", "pets and heart health", "fingernail signs heart disease"]
       }
     ],
     "totalMinThreshold": 30,
@@ -54,10 +54,9 @@
     }
   },
   "comments": {
-    "projectStartDate": "The date when daily automation starts",
-    "stages": "Article generation phases with different daily targets",
-    "coreTopics": "Core topic categories with sub-angles for diverse topic generation. System scans data/ for planned-topics-*.json files.",
-    "totalMinThreshold": "Trigger replenishment when total topics across all files < this number",
-    "targetReplenishAmount": "Target number of NEW valid topics to add during replenishment"
+    "lastUpdated": "2026-03-31 based on 90-day GSC data analysis",
+    "dataSource": "data/seo/analysis/baseline-90day-report.json",
+    "coreTopics": "Ordered by priority: P1=biggest opportunity, P2=data-backed new direction, P3=strengthen existing authority",
+    "angles": "Include GSC-discovered search directions (e.g., 'soft foods for seniors', 'high fiber side dishes', 'soups that lower cholesterol')"
   }
 }
