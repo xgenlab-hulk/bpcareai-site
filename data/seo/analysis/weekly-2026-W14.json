@@ -1,6 +1,6 @@
 {
   "week": "2026-W14",
-  "generatedAt": "2026-03-30T17:08:36.954Z",
+  "generatedAt": "2026-03-30T17:27:14.079Z",
   "gscData": {
     "daysAnalyzed": 7,
     "totalSearchTerms": 35,
@@ -110,224 +110,56 @@
   },
   "candidates": [
     {
-      "title": "Strength Training Without Weights for Frail Adults 80+",
-      "pk": "strength training without weights for seniors 80+",
-      "score": 65,
+      "title": "Does Red Yeast Rice Really Lower Cholesterol Safely?",
+      "pk": "does red yeast rice lower cholesterol safely",
+      "score": 54.9,
       "breakdown": {
-        "clusterNeed": 30,
-        "searchDemand": 8,
-        "differentiation": 21,
-        "timeliness": 6
-      },
-      "reasoning": "lifestyle-interventions集群覆盖率23%，大缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠40%)"
-    },
-    {
-      "title": "Does Red Yeast Rice Really Lower Cholesterol?",
-      "pk": "does red yeast rice lower cholesterol",
-      "score": 64.26666666666667,
-      "breakdown": {
-        "clusterNeed": 23.3,
-        "searchDemand": 18,
-        "differentiation": 21,
-        "timeliness": 2
-      },
-      "reasoning": "cardiovascular-health集群覆盖率59%，中等缺口 | GSC精确匹配\"soup to lower cholesterol\"(4次展示)，弱信号 | 与已有文章有差异(重叠40%) | 搜索趋势下降"
-    },
-    {
-      "title": "How to Walk Safely With a Pacemaker After 70",
-      "pk": "walking with pacemaker after 70",
-      "score": 64,
-      "breakdown": {
-        "clusterNeed": 30,
-        "searchDemand": 8,
-        "differentiation": 20,
-        "timeliness": 6
-      },
-      "reasoning": "lifestyle-interventions集群覆盖率23%，大缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
-    },
-    {
-      "title": "5 Best Low-Impact Exercises for Seniors Over 70",
-      "pk": "low impact exercises for seniors over 70",
-      "score": 64,
-      "breakdown": {
-        "clusterNeed": 30,
-        "searchDemand": 8,
-        "differentiation": 20,
-        "timeliness": 6
-      },
-      "reasoning": "lifestyle-interventions集群覆盖率23%，大缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
-    },
-    {
-      "title": "Can Chair Yoga Help With Balance and Falls Prevention After 75?",
-      "pk": "can chair yoga help with balance after 75",
-      "score": 64,
-      "breakdown": {
-        "clusterNeed": 30,
-        "searchDemand": 8,
-        "differentiation": 20,
-        "timeliness": 6
-      },
-      "reasoning": "lifestyle-interventions集群覆盖率23%，大缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
-    },
-    {
-      "title": "Cholesterol Testing at Home: Are Those Kits Accurate?",
-      "pk": "cholesterol testing at home accurate",
-      "score": 61.266666666666666,
-      "breakdown": {
-        "clusterNeed": 23.3,
-        "searchDemand": 8,
-        "differentiation": 24,
-        "timeliness": 6
-      },
-      "reasoning": "cardiovascular-health集群覆盖率59%，中等缺口 | 来自周度分析推荐 | 与已有文章高度差异化(重叠25%)"
-    },
-    {
-      "title": "Oat Bran vs Flaxseed: Which Lowers Cholesterol More?",
-      "pk": "oat bran vs flaxseed for cholesterol",
-      "score": 61.266666666666666,
-      "breakdown": {
-        "clusterNeed": 23.3,
-        "searchDemand": 8,
-        "differentiation": 24,
-        "timeliness": 6
-      },
-      "reasoning": "cardiovascular-health集群覆盖率59%，中等缺口 | 来自周度分析推荐 | 与已有文章高度差异化(重叠25%)"
-    },
-    {
-      "title": "Heart Rate vs Pulse: What Your Wrist Watch Isn’t Telling You",
-      "pk": "heart rate vs pulse accuracy over 65",
-      "score": 59.266666666666666,
-      "breakdown": {
-        "clusterNeed": 23.3,
-        "searchDemand": 8,
+        "clusterNeed": 19.9,
+        "searchDemand": 11,
         "differentiation": 22,
-        "timeliness": 6
-      },
-      "reasoning": "cardiovascular-health集群覆盖率59%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
-    },
-    {
-      "title": "Does Daily Stretching Lower Blood Pressure After 60?",
-      "pk": "does stretching lower blood pressure after 60",
-      "score": 58.13333333333333,
-      "breakdown": {
-        "clusterNeed": 19.1,
-        "searchDemand": 17,
-        "differentiation": 20,
         "timeliness": 2
       },
-      "reasoning": "hypertension-management集群覆盖率79%，中等缺口 | GSC方向相关\"how pets improve heart health and lower blood pressure\"(5次展示)，方向有需求 | 与已有文章有差异(重叠50%) | 搜索趋势下降"
+      "reasoning": "nutrition-diet-management集群覆盖率76%，中等缺口 | GSC方向相关\"soup to lower cholesterol\"(4次展示)，微弱信号 | 与已有文章有差异(重叠33%) | 搜索趋势下降"
     },
     {
-      "title": "Best Seated Heart-Healthy Moves for Adults 80+",
-      "pk": "seated heart exercises for 80 year olds",
-      "score": 57.266666666666666,
+      "title": "Cholesterol Meds That Won’t Cause Memory Fog After 70",
+      "pk": "cholesterol meds without memory fog after 70",
+      "score": 54.9,
       "breakdown": {
-        "clusterNeed": 23.3,
+        "clusterNeed": 19.9,
+        "searchDemand": 8,
+        "differentiation": 21,
+        "timeliness": 6
+      },
+      "reasoning": "nutrition-diet-management集群覆盖率76%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠40%)"
+    },
+    {
+      "title": "Why Cholesterol Rises in Winter for Women Over 62",
+      "pk": "why cholesterol rises in winter women over 62",
+      "score": 54.9,
+      "breakdown": {
+        "clusterNeed": 19.9,
+        "searchDemand": 8,
+        "differentiation": 21,
+        "timeliness": 6
+      },
+      "reasoning": "nutrition-diet-management集群覆盖率76%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠40%)"
+    },
+    {
+      "title": "How to Read Your At-Home Cholesterol Test Correctly",
+      "pk": "how to read home cholesterol test",
+      "score": 53.9,
+      "breakdown": {
+        "clusterNeed": 19.9,
         "searchDemand": 8,
         "differentiation": 20,
         "timeliness": 6
       },
-      "reasoning": "cardiovascular-health集群覆盖率59%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+      "reasoning": "nutrition-diet-management集群覆盖率76%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
     },
     {
-      "title": "Does Daily Aspirin Still Help Heart Health After 75?",
-      "pk": "daily aspirin heart health after 75",
-      "score": 57.266666666666666,
-      "breakdown": {
-        "clusterNeed": 23.3,
-        "searchDemand": 8,
-        "differentiation": 20,
-        "timeliness": 6
-      },
-      "reasoning": "cardiovascular-health集群覆盖率59%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
-    },
-    {
-      "title": "How to Read Your Cholesterol Test Results",
-      "pk": "how to read cholesterol test results",
-      "score": 57.266666666666666,
-      "breakdown": {
-        "clusterNeed": 23.3,
-        "searchDemand": 8,
-        "differentiation": 20,
-        "timeliness": 6
-      },
-      "reasoning": "cardiovascular-health集群覆盖率59%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
-    },
-    {
-      "title": "Cholesterol Medication Side Effects After 70",
-      "pk": "cholesterol medication side effects after 70",
-      "score": 57.266666666666666,
-      "breakdown": {
-        "clusterNeed": 23.3,
-        "searchDemand": 8,
-        "differentiation": 20,
-        "timeliness": 6
-      },
-      "reasoning": "cardiovascular-health集群覆盖率59%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
-    },
-    {
-      "title": "Best Cholesterol-Friendly Breakfasts for Women 65+",
-      "pk": "best breakfast for cholesterol women over 65",
-      "score": 57.266666666666666,
-      "breakdown": {
-        "clusterNeed": 23.3,
-        "searchDemand": 8,
-        "differentiation": 20,
-        "timeliness": 6
-      },
-      "reasoning": "cardiovascular-health集群覆盖率59%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
-    },
-    {
-      "title": "Cholesterol at Night: Why Levels Shift After 60",
-      "pk": "cholesterol at night after 60",
-      "score": 57.266666666666666,
-      "breakdown": {
-        "clusterNeed": 23.3,
-        "searchDemand": 8,
-        "differentiation": 20,
-        "timeliness": 6
-      },
-      "reasoning": "cardiovascular-health集群覆盖率59%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
-    },
-    {
-      "title": "Oatmeal vs Granola: Which Is Better for Heart Health After 70?",
-      "pk": "oatmeal vs granola heart health",
-      "score": 57.266666666666666,
-      "breakdown": {
-        "clusterNeed": 23.3,
-        "searchDemand": 8,
-        "differentiation": 20,
-        "timeliness": 6
-      },
-      "reasoning": "cardiovascular-health集群覆盖率59%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
-    },
-    {
-      "title": "Best Blood Pressure Meds for Seniors Over 75",
-      "pk": "best blood pressure meds for seniors over 75",
-      "score": 53.13333333333333,
-      "breakdown": {
-        "clusterNeed": 19.1,
-        "searchDemand": 8,
-        "differentiation": 20,
-        "timeliness": 6
-      },
-      "reasoning": "hypertension-management集群覆盖率79%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
-    },
-    {
-      "title": "Can Magnesium Pills Lower Blood Pressure Safely With Lisinopril?",
-      "pk": "magnesium with lisinopril blood pressure",
-      "score": 53.13333333333333,
-      "breakdown": {
-        "clusterNeed": 19.1,
-        "searchDemand": 8,
-        "differentiation": 20,
-        "timeliness": 6
-      },
-      "reasoning": "hypertension-management集群覆盖率79%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
-    },
-    {
-      "title": "7 Seated Strength Moves for Seniors With Low Blood Pressure",
-      "pk": "seated strength exercises low blood pressure",
+      "title": "Does Walking in Place Help Heart Health After 65?",
+      "pk": "does walking in place help heart health",
       "score": 52,
       "breakdown": {
         "clusterNeed": 30,
@@ -338,163 +170,151 @@
       "reasoning": "lifestyle-interventions集群覆盖率23%，大缺口 | 来自周度分析推荐 | 与已有文章有一定重叠(67%)，可能cannibalize"
     },
     {
-      "title": "Can Deep Breathing Lower Blood Pressure Fast?",
-      "pk": "can deep breathing lower blood pressure fast",
-      "score": 51,
+      "title": "Walking vs Chair Yoga: Which Lowers Blood Pressure More?",
+      "pk": "walking vs chair yoga for blood pressure",
+      "score": 52,
       "breakdown": {
         "clusterNeed": 30,
-        "searchDemand": 17,
-        "differentiation": 2,
-        "timeliness": 2
-      },
-      "reasoning": "lifestyle-interventions集群覆盖率23%，大缺口 | GSC方向相关\"how pets improve heart health and lower blood pressure\"(5次展示)，方向有需求 | 与已有文章高度重叠(75%)，风险高 | 搜索趋势下降"
-    },
-    {
-      "title": "How to Walk Safely With Diabetes After 70",
-      "pk": "how to walk safely with diabetes after 70",
-      "score": 48.1,
-      "breakdown": {
-        "clusterNeed": 14.1,
-        "searchDemand": 8,
-        "differentiation": 20,
-        "timeliness": 6
-      },
-      "reasoning": "diabetes-management集群接近目标 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
-    },
-    {
-      "title": "Fruit vs Fruit Juice: Which Raises Blood Sugar Less?",
-      "pk": "fruit vs fruit juice blood sugar",
-      "score": 48.1,
-      "breakdown": {
-        "clusterNeed": 14.1,
-        "searchDemand": 8,
-        "differentiation": 20,
-        "timeliness": 6
-      },
-      "reasoning": "diabetes-management集群接近目标 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
-    },
-    {
-      "title": "Best Breakfast Foods for Blood Sugar Control After 60",
-      "pk": "breakfast foods for blood sugar",
-      "score": 48.1,
-      "breakdown": {
-        "clusterNeed": 14.1,
-        "searchDemand": 8,
-        "differentiation": 20,
-        "timeliness": 6
-      },
-      "reasoning": "diabetes-management集群接近目标 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
-    },
-    {
-      "title": "Why Blood Sugar Jumps After Thanksgiving Dinner After 65",
-      "pk": "blood sugar jumps after dinner",
-      "score": 48.1,
-      "breakdown": {
-        "clusterNeed": 14.1,
-        "searchDemand": 8,
-        "differentiation": 20,
-        "timeliness": 6
-      },
-      "reasoning": "diabetes-management集群接近目标 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
-    },
-    {
-      "title": "Does Walking After Dinner Really Help BP?",
-      "pk": "does walking after dinner help blood pressure",
-      "score": 46,
-      "breakdown": {
-        "clusterNeed": 30,
-        "searchDemand": 8,
-        "differentiation": 2,
-        "timeliness": 6
-      },
-      "reasoning": "lifestyle-interventions集群覆盖率23%，大缺口 | 来自周度分析推荐 | 与已有文章高度重叠(100%)，风险高"
-    },
-    {
-      "title": "Stress and Blood Pressure After 55: The Real Link",
-      "pk": "stress and blood pressure after 55",
-      "score": 46,
-      "breakdown": {
-        "clusterNeed": 30,
-        "searchDemand": 8,
-        "differentiation": 2,
-        "timeliness": 6
-      },
-      "reasoning": "lifestyle-interventions集群覆盖率23%，大缺口 | 来自周度分析推荐 | 与已有文章高度重叠(100%)，风险高"
-    },
-    {
-      "title": "Best CGM for Seniors Who Don’t Use Smartphones",
-      "pk": "best cgm for seniors no smartphone",
-      "score": 46,
-      "breakdown": {
-        "clusterNeed": 10,
-        "searchDemand": 8,
-        "differentiation": 22,
-        "timeliness": 6
-      },
-      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
-    },
-    {
-      "title": "What to Eat Before Bed to Avoid Morning Highs",
-      "pk": "what to eat before bed to avoid morning highs",
-      "score": 46,
-      "breakdown": {
-        "clusterNeed": 10,
-        "searchDemand": 8,
-        "differentiation": 22,
-        "timeliness": 6
-      },
-      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
-    },
-    {
-      "title": "Why Tight Shoulders Happen After 65—and How to Loosen Them Safely",
-      "pk": "why tight shoulders after 65",
-      "score": 46,
-      "breakdown": {
-        "clusterNeed": 10,
-        "searchDemand": 8,
-        "differentiation": 22,
-        "timeliness": 6
-      },
-      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
-    },
-    {
-      "title": "7 Heart-Healthy Foods for Women Over 65",
-      "pk": "heart healthy foods for women over 65",
-      "score": 45.266666666666666,
-      "breakdown": {
-        "clusterNeed": 23.3,
         "searchDemand": 8,
         "differentiation": 8,
         "timeliness": 6
       },
-      "reasoning": "cardiovascular-health集群覆盖率59%，中等缺口 | 来自周度分析推荐 | 与已有文章有一定重叠(67%)，可能cannibalize"
+      "reasoning": "lifestyle-interventions集群覆盖率23%，大缺口 | 来自周度分析推荐 | 与已有文章有一定重叠(67%)，可能cannibalize"
+    },
+    {
+      "title": "Warning Signs Your Diabetes Meds Are Too Strong",
+      "pk": "diabetes meds too strong warning signs",
+      "score": 49.1,
+      "breakdown": {
+        "clusterNeed": 14.1,
+        "searchDemand": 8,
+        "differentiation": 21,
+        "timeliness": 6
+      },
+      "reasoning": "diabetes-management集群接近目标 | 来自周度分析推荐 | 与已有文章有差异(重叠40%)"
+    },
+    {
+      "title": "7 Gentle Stretches for Tight Hips After 60",
+      "pk": "gentle stretches for tight hips after 60",
+      "score": 49,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 25,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章高度差异化(重叠0%)"
+    },
+    {
+      "title": "5 Low-Impact Walks for Bad Knees After 70",
+      "pk": "low impact walks for seniors with bad knees",
+      "score": 44,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Why Morning Stretching Feels Harder After 75",
+      "pk": "why morning stretching is harder after 75",
+      "score": 44,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "5 Cholesterol-Lowering Foods That Work After 65",
+      "pk": "cholesterol lowering foods after 65",
+      "score": 41.9,
+      "breakdown": {
+        "clusterNeed": 19.9,
+        "searchDemand": 8,
+        "differentiation": 8,
+        "timeliness": 6
+      },
+      "reasoning": "nutrition-diet-management集群覆盖率76%，中等缺口 | 来自周度分析推荐 | 与已有文章有一定重叠(67%)，可能cannibalize"
+    },
+    {
+      "title": "What to Do When Blood Pressure Spikes After Coffee",
+      "pk": "blood pressure spikes after coffee",
+      "score": 35.13333333333333,
+      "breakdown": {
+        "clusterNeed": 19.1,
+        "searchDemand": 8,
+        "differentiation": 2,
+        "timeliness": 6
+      },
+      "reasoning": "hypertension-management集群覆盖率79%，中等缺口 | 来自周度分析推荐 | 与已有文章高度重叠(100%)，风险高"
+    },
+    {
+      "title": "7 Foods That Lower Blood Sugar Naturally",
+      "pk": "foods that lower blood sugar naturally",
+      "score": 33.1,
+      "breakdown": {
+        "clusterNeed": 14.1,
+        "searchDemand": 15,
+        "differentiation": 2,
+        "timeliness": 2
+      },
+      "reasoning": "diabetes-management集群接近目标 | GSC方向相关\"how pets improve heart health and lower blood pressure\"(5次展示) | 与已有文章高度重叠(100%)，风险高 | 搜索趋势下降"
+    },
+    {
+      "title": "Best Strength Training for Seniors Who Can’t Stand Long",
+      "pk": "seated strength training for seniors",
+      "score": 32,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 8,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章有一定重叠(67%)，可能cannibalize"
+    },
+    {
+      "title": "How to Check Blood Sugar After Dinner Correctly",
+      "pk": "how to check blood sugar after dinner",
+      "score": 30.1,
+      "breakdown": {
+        "clusterNeed": 14.1,
+        "searchDemand": 8,
+        "differentiation": 2,
+        "timeliness": 6
+      },
+      "reasoning": "diabetes-management集群接近目标 | 来自周度分析推荐 | 与已有文章高度重叠(100%)，风险高"
     }
   ],
-  "topicsAdded": 85,
+  "topicsAdded": 23,
   "libraryStatus": [
     {
       "topic": "blood pressure",
-      "count": 0
+      "count": 14
     },
     {
       "topic": "cholesterol",
-      "count": 0
+      "count": 10
     },
     {
       "topic": "diabetes",
-      "count": 0
+      "count": 12
     },
     {
       "topic": "exercise for seniors",
-      "count": 0
+      "count": 9
     },
     {
       "topic": "healthy eating for seniors",
-      "count": 0
+      "count": 15
     },
     {
       "topic": "heart health",
-      "count": 0
+      "count": 21
     }
   ]
 }

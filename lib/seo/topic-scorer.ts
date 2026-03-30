@@ -44,15 +44,15 @@ export interface ScoredTopic extends TopicCandidate {
 // 主题集群定义：基于GSC 90天数据分析确定的优先级和目标
 // P1 = 最大机会（GSC有信号+大缺口），P2 = 有数据支撑的新方向，P3 = 加强已有优势
 const CLUSTER_TARGETS: Record<string, { target: number; priority: string; keywords: string[] }> = {
-  // P1: GSC显示cholesterol只有8篇文章但有搜索需求（11次展示）
-  'cardiovascular-health': { target: 300, priority: 'P1', keywords: ['heart', 'cardiac', 'cardiovascular', 'cholesterol', 'artery', 'statin'] },
-  // P1: GSC显示HbA1c/老年糖尿病有41次展示，已有好排名可快速扩大
+  // P1: exercise-induced-bp有947次展示(最高)，lifestyle集群只有46篇(77%缺口)，且indoor-heating-bp CTR 3.1%(最高)
+  'lifestyle-interventions': { target: 200, priority: 'P1', keywords: ['exercise', 'walking', 'yoga', 'fitness', 'weight', 'sleep', 'stress', 'breathing', 'indoor', 'heating', 'weather'] },
+  // P1: HbA1c方向41展示+趋势急升+已有好排名(5.4)，快速扩大机会
   'diabetes-management': { target: 500, priority: 'P1', keywords: ['diabetes', 'blood sugar', 'glucose', 'insulin', 'hba1c', 'a1c', 'diabetic'] },
-  // P2: GSC显示高纤维饮食有30次展示+9个搜索变体，soft foods有17个变体
-  'nutrition-diet-management': { target: 400, priority: 'P2', keywords: ['food', 'diet', 'eating', 'nutrition', 'meal', 'salt', 'sodium', 'fiber', 'soft food', 'soup'] },
-  // P2: 只有46篇文章，但exercise-induced-bp是展示量最高的页面(947次)
-  'lifestyle-interventions': { target: 200, priority: 'P2', keywords: ['exercise', 'walking', 'yoga', 'fitness', 'weight', 'sleep', 'stress', 'breathing'] },
-  // P3: 已有476篇+排名好(NSAIDs方向pos 6.6)，持续加强
+  // P2: cholesterol 8篇文章有搜索信号但近期趋势下降；soft foods 17个搜索变体完全未覆盖
+  'nutrition-diet-management': { target: 400, priority: 'P2', keywords: ['food', 'diet', 'eating', 'nutrition', 'meal', 'salt', 'sodium', 'fiber', 'soft food', 'soup', 'cholesterol'] },
+  // P2: cardiovascular-health 41%缺口，nocturia/heart failure有12次展示
+  'cardiovascular-health': { target: 300, priority: 'P2', keywords: ['heart', 'cardiac', 'cardiovascular', 'artery', 'nocturia', 'palpitation'] },
+  // P3: 已有476篇+NSAIDs排名好但0点击（需优化已有文章而非写新的）
   'hypertension-management': { target: 600, priority: 'P3', keywords: ['blood pressure', 'hypertension', 'bp', 'systolic', 'diastolic', 'nsaid'] },
   // P3: 药物安全方向GSC有信号，但文章已有54篇
   'medication-safety': { target: 150, priority: 'P3', keywords: ['medication', 'medicine', 'drug', 'pill', 'supplement', 'side effect'] },
@@ -214,7 +214,7 @@ function extractWords(text: string): { all: Set<string>; specific: Set<string> }
 function findBestGSCMatch(
   pk: string,
   baseline: Map<string, { impressions: number; clicks: number; position: number; trend: string }>
-): { query: string; impressions: number; position: number; trend: string; matchType: 'exact' | 'direction' } | null {
+): { query: string; impressions: number; clicks: number; position: number; trend: string; matchType: 'exact' | 'direction' } | null {
   const pkW = extractWords(pk);
   let bestExact: { query: string; data: any; score: number } | null = null;
   let bestDirection: { query: string; data: any; score: number } | null = null;
@@ -340,28 +340,39 @@ export function scoreTopics(candidates: TopicCandidate[]): ScoredTopic[] {
     if (match) {
       matchedQuery = match.query;
 
+      // 基础分：按展示量
+      let baseDemand = 0;
       if (match.matchType === 'exact') {
-        // 精确匹配——高置信度
         if (match.impressions >= 10) {
-          searchDemand = 22 + Math.min(match.impressions / 5, 3);
-          reasons.push(`GSC精确匹配"${match.query}"(${match.impressions}次展示)，强需求`);
+          baseDemand = 18 + Math.min(match.impressions / 5, 3);
+          reasons.push(`GSC精确匹配"${match.query}"(${match.impressions}次展示)`);
         } else if (match.impressions >= 5) {
-          searchDemand = 15 + match.impressions;
-          reasons.push(`GSC精确匹配"${match.query}"(${match.impressions}次展示)，中需求`);
+          baseDemand = 12 + match.impressions;
+          reasons.push(`GSC精确匹配"${match.query}"(${match.impressions}次展示)`);
         } else {
-          searchDemand = 10 + match.impressions * 2;
+          baseDemand = 8 + match.impressions * 2;
           reasons.push(`GSC精确匹配"${match.query}"(${match.impressions}次展示)，弱信号`);
         }
       } else {
-        // 方向匹配——低置信度，但说明这个方向有需求
         if (match.impressions >= 5) {
-          searchDemand = 12 + Math.min(match.impressions, 5);
-          reasons.push(`GSC方向相关"${match.query}"(${match.impressions}次展示)，方向有需求`);
+          baseDemand = 10 + Math.min(match.impressions, 5);
+          reasons.push(`GSC方向相关"${match.query}"(${match.impressions}次展示)`);
         } else {
-          searchDemand = 8 + match.impressions;
+          baseDemand = 7 + match.impressions;
           reasons.push(`GSC方向相关"${match.query}"(${match.impressions}次展示)，微弱信号`);
         }
       }
+
+      // 点击加成：有点击说明用户真的有兴趣，比纯展示更有价值
+      if (match.clicks > 0) {
+        baseDemand += Math.min(match.clicks * 3, 6);
+        reasons.push(`有${match.clicks}次点击(用户验证的需求)`);
+      } else if (match.impressions >= 10) {
+        // 高展示0点击 — 说明展示多但不吸引人，可能需要优化标题而非新文章
+        reasons.push(`高展示0点击(标题可能需优化)`);
+      }
+
+      searchDemand = baseDemand;
     } else if (candidate.source === 'gsc-trend' || candidate.source === 'gsc-gap') {
       searchDemand = 12;
       reasons.push(`来自GSC分析，有间接信号`);

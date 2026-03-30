@@ -27,9 +27,9 @@
       },
       {
         "keyword": "exercise for seniors",
-        "priority": "P2",
-        "reason": "GSC: exercise-induced-bp是展示最高页面(947次)，lifestyle集群只有46篇",
-        "angles": ["walking", "low-impact", "strength training", "flexibility", "exercise and blood pressure", "deep breathing for blood pressure"]
+        "priority": "P1",
+        "reason": "GSC: exercise-induced-bp 947次展示(最高)+indoor-heating-bp CTR 3.1%(最高)，lifestyle集群只有46篇(77%缺口)",
+        "angles": ["walking", "low-impact", "strength training", "flexibility", "exercise and blood pressure", "deep breathing for blood pressure", "indoor heating blood pressure", "cold weather blood pressure"]
       },
       {
         "keyword": "blood pressure",
