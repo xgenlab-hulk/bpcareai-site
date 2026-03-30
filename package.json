@@ -19,6 +19,7 @@
     "generate:topics:ai": "tsx scripts/generate-topics-from-prompt.ts",
     "generate:articles": "tsx scripts/generate-articles.ts",
     "auto:generate": "tsx scripts/auto-generate-daily.ts",
+    "seo:daily": "tsx scripts/gsc-daily-analysis.ts",
     "sync:gsc": "tsx scripts/sync-gsc-data.ts",
     "sync:articles-seo": "tsx scripts/sync-articles-seo.ts",
     "sync:topics-seo": "tsx scripts/sync-topics-seo.ts",
