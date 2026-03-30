@@ -1,46 +1,94 @@
 /**
- * 选题优先级评分系统
+ * 选题优先级评分系统 v2
  *
- * 每个候选选题得到 0-100 的综合分数：
- * - 搜索需求信号 (0-40): GSC数据中是否有真实搜索需求
- * - 竞争机会 (0-25): 我们是否有排名上升的空间
- * - 时效性 (0-20): 这个方向是否正在上升
- * - 多样性调节 (-15~+15): 防止选题集中在同一方向
+ * 服务于两条线：
+ * - 线1（稳定线）：每周评分，更新选题库优先级
+ * - 线2（应急线）：每天快速评分，判断突发趋势选题的价值
+ *
+ * 评分维度（0-100）：
+ * - 主题集群覆盖需求 (0-30): 该集群是否需要更多内容来建立权威
+ * - 搜索需求验证 (0-25): GSC/Perplexity是否有真实搜索需求
+ * - 内容差异化 (0-25): 与已有文章的角度是否不同
+ * - 时效性+趋势 (0-20): 是否有上升趋势或时间窗口
  */
 
 import fs from 'fs';
 import path from 'path';
-import type { DailyRawData, QueryRecord } from './data-store';
-import { loadRawDataRange, getStoredDates } from './data-store';
+import type { DailyRawData } from './data-store';
+import { getStoredDates } from './data-store';
 
-/**
- * 选题候选（来自选题库或临时生成）
- */
+// ============================================================
+// 类型定义
+// ============================================================
+
 export interface TopicCandidate {
   title: string;
   primaryKeyword: string;
   description: string;
   topicCluster: string;
-  source: 'topic-library' | 'gsc-trend' | 'gsc-gap' | 'manual';
+  source: 'topic-library' | 'gsc-trend' | 'gsc-gap' | 'weekly-refresh' | 'manual';
 }
 
-/**
- * 带评分的选题
- */
 export interface ScoredTopic extends TopicCandidate {
   score: number;
   breakdown: {
-    searchDemand: number;      // 0-40
-    competitionOpportunity: number; // 0-25
+    clusterNeed: number;       // 0-30
+    searchDemand: number;      // 0-25
+    differentiation: number;   // 0-25
     timeliness: number;        // 0-20
-    diversityAdjust: number;   // -15 to +15
   };
-  matchedQuery?: string;        // 匹配到的GSC搜索词
-  matchedPosition?: number;     // 该搜索词的当前排名
+  matchedQuery?: string;
+  reasoning: string;           // 人可读的评分理由
+}
+
+// 主题集群定义：6个核心主题 + 目标文章数
+const CLUSTER_TARGETS: Record<string, { target: number; keywords: string[] }> = {
+  'hypertension-management': { target: 600, keywords: ['blood pressure', 'hypertension', 'bp', 'systolic', 'diastolic'] },
+  'diabetes-management': { target: 500, keywords: ['diabetes', 'blood sugar', 'glucose', 'insulin', 'hba1c'] },
+  'nutrition-diet-management': { target: 400, keywords: ['food', 'diet', 'eating', 'nutrition', 'meal', 'salt', 'sodium'] },
+  'cardiovascular-health': { target: 300, keywords: ['heart', 'cardiac', 'cardiovascular', 'cholesterol', 'artery'] },
+  'lifestyle-interventions': { target: 200, keywords: ['exercise', 'walking', 'yoga', 'fitness', 'weight', 'sleep', 'stress'] },
+  'medication-safety': { target: 150, keywords: ['medication', 'medicine', 'drug', 'pill', 'supplement', 'side effect'] },
+};
+
+// ============================================================
+// 数据读取
+// ============================================================
+
+/**
+ * 获取每个cluster的当前文章数量
+ */
+function getClusterArticleCounts(): Map<string, number> {
+  const counts = new Map<string, number>();
+  const indexPath = path.join(process.cwd(), 'data', 'articles-index.json');
+  if (!fs.existsSync(indexPath)) return counts;
+
+  try {
+    const articles = JSON.parse(fs.readFileSync(indexPath, 'utf8'));
+    for (const article of articles) {
+      const cluster = article.topicCluster || 'unknown';
+      counts.set(cluster, (counts.get(cluster) || 0) + 1);
+    }
+  } catch { /* ignore */ }
+
+  return counts;
 }
 
 /**
- * 从GSC数据中提取搜索词汇总（最近28天）
+ * 获取已有文章的PK列表（用于差异化检查）
+ */
+function getExistingPKs(): string[] {
+  const indexPath = path.join(process.cwd(), 'data', 'articles-index.json');
+  if (!fs.existsSync(indexPath)) return [];
+
+  try {
+    const articles = JSON.parse(fs.readFileSync(indexPath, 'utf8'));
+    return articles.map((a: any) => (a.primaryKeyword || '').toLowerCase().trim()).filter(Boolean);
+  } catch { return []; }
+}
+
+/**
+ * 从GSC数据中提取搜索词汇总
  */
 function getQueryBaseline(): Map<string, {
   impressions: number;
@@ -51,7 +99,6 @@ function getQueryBaseline(): Map<string, {
   const dates = getStoredDates();
   if (dates.length === 0) return new Map();
 
-  // 取最近28天
   const last28 = dates.slice(-28);
   const allData = last28.map(d => {
     try {
@@ -63,274 +110,308 @@ function getQueryBaseline(): Map<string, {
 
   if (allData.length === 0) return new Map();
 
-  // 汇总
   const queryMap = new Map<string, {
-    impressions: number;
-    clicks: number;
-    positionWeightedSum: number;
-    positionWeight: number;
-    recentImpressions: number; // 最近3天
+    impressions: number; clicks: number;
+    posSum: number; posWeight: number;
+    recentImpr: number;
   }>();
 
-  const recentCutoff = allData.length >= 3 ? allData.length - 3 : 0;
+  const recentCutoff = Math.max(allData.length - 3, 0);
 
   allData.forEach((day, idx) => {
     for (const q of day.queries) {
-      const existing = queryMap.get(q.query) || {
-        impressions: 0, clicks: 0,
-        positionWeightedSum: 0, positionWeight: 0,
-        recentImpressions: 0,
-      };
-      existing.impressions += q.impressions;
-      existing.clicks += q.clicks;
-      existing.positionWeightedSum += q.position * q.impressions;
-      existing.positionWeight += q.impressions;
-      if (idx >= recentCutoff) {
-        existing.recentImpressions += q.impressions;
-      }
-      queryMap.set(q.query, existing);
+      const e = queryMap.get(q.query) || { impressions: 0, clicks: 0, posSum: 0, posWeight: 0, recentImpr: 0 };
+      e.impressions += q.impressions;
+      e.clicks += q.clicks;
+      e.posSum += q.position * q.impressions;
+      e.posWeight += q.impressions;
+      if (idx >= recentCutoff) e.recentImpr += q.impressions;
+      queryMap.set(q.query, e);
     }
   });
 
-  // 计算趋势
-  const result = new Map<string, {
-    impressions: number;
-    clicks: number;
-    position: number;
-    trend: 'up' | 'down' | 'stable';
-  }>();
-
+  const result = new Map<string, { impressions: number; clicks: number; position: number; trend: 'up' | 'down' | 'stable' }>();
   const totalDays = allData.length;
   const recentDays = Math.min(3, totalDays);
 
-  for (const [query, data] of queryMap) {
-    const avgPosition = data.positionWeight > 0
-      ? data.positionWeightedSum / data.positionWeight
-      : 100;
-
-    const baselineDailyAvg = data.impressions / totalDays;
-    const recentDailyAvg = data.recentImpressions / recentDays;
-
+  for (const [query, d] of queryMap) {
+    const position = d.posWeight > 0 ? d.posSum / d.posWeight : 100;
+    const baseDailyAvg = d.impressions / totalDays;
+    const recentDailyAvg = d.recentImpr / recentDays;
     let trend: 'up' | 'down' | 'stable' = 'stable';
-    if (baselineDailyAvg > 0) {
-      const ratio = recentDailyAvg / baselineDailyAvg;
+    if (baseDailyAvg > 0) {
+      const ratio = recentDailyAvg / baseDailyAvg;
       if (ratio >= 1.5) trend = 'up';
       else if (ratio <= 0.5) trend = 'down';
     }
-
-    result.set(query, {
-      impressions: data.impressions,
-      clicks: data.clicks,
-      position: avgPosition,
-      trend,
-    });
+    result.set(query, { impressions: d.impressions, clicks: d.clicks, position, trend });
   }
 
   return result;
 }
 
 /**
- * 获取最近7天各cluster的产出数量（用于多样性调节）
+ * 获取最近7天各cluster的文章产出数
  */
-function getRecentClusterOutput(): Map<string, number> {
-  const articlesDir = path.join(process.cwd(), 'content', 'articles');
-  const clusterCount = new Map<string, number>();
-
-  if (!fs.existsSync(articlesDir)) return clusterCount;
-
-  const sevenDaysAgo = new Date();
-  sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
-  const cutoffStr = sevenDaysAgo.toISOString().split('T')[0];
-
-  // 读articles-index获取最近7天的文章
+function getRecentOutput(): Map<string, number> {
+  const counts = new Map<string, number>();
   const indexPath = path.join(process.cwd(), 'data', 'articles-index.json');
-  if (!fs.existsSync(indexPath)) return clusterCount;
+  if (!fs.existsSync(indexPath)) return counts;
+
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - 7);
+  const cutoffStr = cutoff.toISOString().split('T')[0];
 
   try {
     const articles = JSON.parse(fs.readFileSync(indexPath, 'utf8'));
-    for (const article of articles) {
-      if (article.date >= cutoffStr) {
-        const cluster = article.topicCluster || 'unknown';
-        clusterCount.set(cluster, (clusterCount.get(cluster) || 0) + 1);
+    for (const a of articles) {
+      if (a.date >= cutoffStr) {
+        counts.set(a.topicCluster || 'unknown', (counts.get(a.topicCluster || 'unknown') || 0) + 1);
       }
     }
-  } catch {
-    // ignore
-  }
+  } catch { /* ignore */ }
 
-  return clusterCount;
+  return counts;
 }
 
-/**
- * 检查候选选题的PK是否匹配某个GSC搜索词
- *
- * 匹配逻辑：双向匹配，核心实词（去掉停用词和通用词后）双方都要有≥60%重叠
- * 通用词（blood, pressure, heart等）单独匹配不算，必须有更具体的词重叠
- */
-function findMatchingQuery(
-  pk: string,
-  queryBaseline: Map<string, { impressions: number; clicks: number; position: number; trend: string }>
-): { query: string; data: { impressions: number; clicks: number; position: number; trend: string } } | null {
-  const stopWords = new Set([
-    'a', 'an', 'the', 'of', 'for', 'in', 'at', 'to', 'and', 'or', 'is', 'vs',
-    'after', 'when', 'how', 'does', 'can', 'what', 'that', 'with', 'your', 'my',
-    'do', 'are', 'you', 'should', 'not', 'from', 'this', 'than', 'more', 'will',
-  ]);
-  // 通用健康领域词——单独匹配这些不算精确匹配
-  const genericWords = new Set([
-    'blood', 'pressure', 'heart', 'health', 'diabetes', 'sugar', 'seniors',
-    'adults', 'over', 'age', 'high', 'low', 'normal',
-  ]);
+// ============================================================
+// 匹配逻辑
+// ============================================================
 
-  const extractCoreWords = (text: string): { allWords: Set<string>; specificWords: Set<string> } => {
-    const words = text.toLowerCase().split(/\s+/).filter(w => w.length > 2 && !stopWords.has(w));
-    const allWords = new Set(words);
-    const specificWords = new Set(words.filter(w => !genericWords.has(w)));
-    return { allWords, specificWords };
+const STOP_WORDS = new Set([
+  'a', 'an', 'the', 'of', 'for', 'in', 'at', 'to', 'and', 'or', 'is', 'vs',
+  'after', 'when', 'how', 'does', 'can', 'what', 'that', 'with', 'your', 'my',
+  'do', 'are', 'you', 'should', 'not', 'from', 'this', 'than', 'more', 'will',
+]);
+
+const GENERIC_WORDS = new Set([
+  'blood', 'pressure', 'heart', 'health', 'diabetes', 'sugar', 'seniors',
+  'adults', 'over', 'age', 'high', 'low', 'normal',
+]);
+
+function extractWords(text: string): { all: Set<string>; specific: Set<string> } {
+  const words = text.toLowerCase().split(/\s+/).filter(w => w.length > 2 && !STOP_WORDS.has(w));
+  return {
+    all: new Set(words),
+    specific: new Set(words.filter(w => !GENERIC_WORDS.has(w))),
   };
+}
 
-  const pkParts = extractCoreWords(pk);
+/**
+ * 在GSC搜索词中找最佳匹配
+ *
+ * 两层匹配：
+ * - 精确匹配：至少2个特定词重叠（高置信度）
+ * - 方向匹配：至少1个特定词 + 1个通用词重叠（低置信度，但说明方向相关）
+ */
+function findBestGSCMatch(
+  pk: string,
+  baseline: Map<string, { impressions: number; clicks: number; position: number; trend: string }>
+): { query: string; impressions: number; position: number; trend: string; matchType: 'exact' | 'direction' } | null {
+  const pkW = extractWords(pk);
+  let bestExact: { query: string; data: any; score: number } | null = null;
+  let bestDirection: { query: string; data: any; score: number } | null = null;
 
-  let bestMatch: { query: string; data: any; score: number } | null = null;
+  for (const [query, data] of baseline) {
+    const qW = extractWords(query);
 
-  for (const [query, data] of queryBaseline) {
-    const queryParts = extractCoreWords(query);
+    let commonSpec = 0;
+    for (const w of Array.from(pkW.specific)) { if (qW.specific.has(w)) commonSpec++; }
 
-    // 计算全词重叠
     let commonAll = 0;
-    for (const word of pkParts.allWords) {
-      if (queryParts.allWords.has(word)) commonAll++;
+    for (const w of Array.from(pkW.all)) { if (qW.all.has(w)) commonAll++; }
+
+    const pkOverlap = pkW.all.size > 0 ? commonAll / pkW.all.size : 0;
+    const qOverlap = qW.all.size > 0 ? commonAll / qW.all.size : 0;
+
+    // 精确匹配：至少2个特定词 + 双向≥40%
+    if (commonSpec >= 2 && pkOverlap >= 0.4 && qOverlap >= 0.3) {
+      const score = commonSpec * (pkOverlap + qOverlap) * data.impressions;
+      if (!bestExact || score > bestExact.score) {
+        bestExact = { query, data, score };
+      }
     }
-
-    // 计算特定词重叠（不含通用词）
-    let commonSpecific = 0;
-    for (const word of pkParts.specificWords) {
-      if (queryParts.specificWords.has(word)) commonSpecific++;
-    }
-
-    // 双向重叠率
-    const pkOverlap = pkParts.allWords.size > 0 ? commonAll / pkParts.allWords.size : 0;
-    const queryOverlap = queryParts.allWords.size > 0 ? commonAll / queryParts.allWords.size : 0;
-
-    // 必须双方都有≥50%全词重叠，且至少有1个特定词重叠
-    if (pkOverlap >= 0.5 && queryOverlap >= 0.3 && commonSpecific >= 1) {
-      const score = (pkOverlap + queryOverlap) / 2 * commonSpecific * data.impressions;
-
-      if (!bestMatch || score > bestMatch.score) {
-        bestMatch = { query, data, score };
+    // 方向匹配：至少1个特定词 + 至少2个总词重叠
+    else if (commonSpec >= 1 && commonAll >= 2) {
+      const score = commonAll * data.impressions;
+      if (!bestDirection || score > bestDirection.score) {
+        bestDirection = { query, data, score };
       }
     }
   }
 
-  return bestMatch ? { query: bestMatch.query, data: bestMatch.data } : null;
+  if (bestExact) return { query: bestExact.query, ...bestExact.data, matchType: 'exact' };
+  if (bestDirection) return { query: bestDirection.query, ...bestDirection.data, matchType: 'direction' };
+  return null;
 }
 
 /**
- * 为一批候选选题计算优先级分数
+ * 计算PK与已有PK列表的最大词级重叠率
  */
+function calcMaxPKOverlap(pk: string, existingPKs: string[]): number {
+  const pkW = extractWords(pk);
+  let maxOverlap = 0;
+
+  for (const existing of existingPKs) {
+    const exW = extractWords(existing);
+    let commonSpec = 0;
+    for (const w of pkW.specific) { if (exW.specific.has(w)) commonSpec++; }
+
+    const overlap = pkW.specific.size > 0 ? commonSpec / pkW.specific.size : 0;
+    if (overlap > maxOverlap) maxOverlap = overlap;
+  }
+
+  return maxOverlap;
+}
+
+/**
+ * 判断选题属于哪个核心主题集群
+ */
+function resolveCluster(candidate: TopicCandidate): string {
+  const text = `${candidate.primaryKeyword} ${candidate.title}`.toLowerCase();
+
+  for (const [cluster, config] of Object.entries(CLUSTER_TARGETS)) {
+    for (const kw of config.keywords) {
+      if (text.includes(kw)) return cluster;
+    }
+  }
+
+  return candidate.topicCluster; // 无法映射则保留原值
+}
+
+// ============================================================
+// 评分函数
+// ============================================================
+
 export function scoreTopics(candidates: TopicCandidate[]): ScoredTopic[] {
+  const clusterCounts = getClusterArticleCounts();
+  const existingPKs = getExistingPKs();
   const queryBaseline = getQueryBaseline();
-  const recentClusterOutput = getRecentClusterOutput();
+  const recentOutput = getRecentOutput();
 
-  // 计算展示量的百分位（用于搜索需求评分）
-  const allImpressions = Array.from(queryBaseline.values()).map(v => v.impressions).sort((a, b) => a - b);
-  const p90Impressions = allImpressions.length > 0
-    ? allImpressions[Math.floor(allImpressions.length * 0.9)]
-    : 0;
-  const p50Impressions = allImpressions.length > 0
-    ? allImpressions[Math.floor(allImpressions.length * 0.5)]
-    : 0;
+  return candidates.map(candidate => {
+    const cluster = resolveCluster(candidate);
+    const reasons: string[] = [];
 
-  const scored: ScoredTopic[] = candidates.map(candidate => {
-    // === 维度1: 搜索需求信号 (0-40) ===
+    // === 维度1: 主题集群覆盖需求 (0-30) ===
+    let clusterNeed = 0;
+    const clusterConfig = CLUSTER_TARGETS[cluster];
+    if (clusterConfig) {
+      const currentCount = clusterCounts.get(cluster) || 0;
+      const gapRatio = 1 - (currentCount / clusterConfig.target);
+
+      if (gapRatio > 0.5) {
+        clusterNeed = 25 + Math.min(gapRatio * 10, 5); // 大缺口
+        reasons.push(`${cluster}集群覆盖率${((1 - gapRatio) * 100).toFixed(0)}%，大缺口`);
+      } else if (gapRatio > 0.2) {
+        clusterNeed = 15 + gapRatio * 20;
+        reasons.push(`${cluster}集群覆盖率${((1 - gapRatio) * 100).toFixed(0)}%，中等缺口`);
+      } else if (gapRatio > 0) {
+        clusterNeed = 5 + gapRatio * 50;
+        reasons.push(`${cluster}集群接近目标`);
+      } else {
+        clusterNeed = 3; // 已达标，但持续产出仍有价值
+        reasons.push(`${cluster}集群已达标`);
+      }
+
+      // 最近7天该集群产出过多则减分
+      const recentCount = recentOutput.get(cluster) || 0;
+      if (recentCount >= 3) {
+        clusterNeed = Math.max(0, clusterNeed - 8);
+        reasons.push(`近7天已产出${recentCount}篇，适度减分`);
+      }
+    } else {
+      clusterNeed = 10; // 非核心集群，基础分
+      reasons.push(`非核心集群，基础分`);
+    }
+
+    // === 维度2: 搜索需求验证 (0-25) ===
     let searchDemand = 0;
     let matchedQuery: string | undefined;
-    let matchedPosition: number | undefined;
 
-    const match = findMatchingQuery(candidate.primaryKeyword, queryBaseline);
+    const match = findBestGSCMatch(candidate.primaryKeyword, queryBaseline);
     if (match) {
       matchedQuery = match.query;
-      matchedPosition = match.data.position;
 
-      if (match.data.impressions >= p90Impressions && p90Impressions > 0) {
-        searchDemand = 35 + Math.min((match.data.impressions / p90Impressions - 1) * 5, 5);
-      } else if (match.data.impressions >= p50Impressions && p50Impressions > 0) {
-        searchDemand = 20 + (match.data.impressions / p90Impressions) * 15;
+      if (match.matchType === 'exact') {
+        // 精确匹配——高置信度
+        if (match.impressions >= 10) {
+          searchDemand = 22 + Math.min(match.impressions / 5, 3);
+          reasons.push(`GSC精确匹配"${match.query}"(${match.impressions}次展示)，强需求`);
+        } else if (match.impressions >= 5) {
+          searchDemand = 15 + match.impressions;
+          reasons.push(`GSC精确匹配"${match.query}"(${match.impressions}次展示)，中需求`);
+        } else {
+          searchDemand = 10 + match.impressions * 2;
+          reasons.push(`GSC精确匹配"${match.query}"(${match.impressions}次展示)，弱信号`);
+        }
       } else {
-        searchDemand = 10 + (match.data.impressions / Math.max(p50Impressions, 1)) * 10;
+        // 方向匹配——低置信度，但说明这个方向有需求
+        if (match.impressions >= 5) {
+          searchDemand = 12 + Math.min(match.impressions, 5);
+          reasons.push(`GSC方向相关"${match.query}"(${match.impressions}次展示)，方向有需求`);
+        } else {
+          searchDemand = 8 + match.impressions;
+          reasons.push(`GSC方向相关"${match.query}"(${match.impressions}次展示)，微弱信号`);
+        }
       }
     } else if (candidate.source === 'gsc-trend' || candidate.source === 'gsc-gap') {
-      searchDemand = 12; // GSC信号推断，但没有精确匹配
+      searchDemand = 12;
+      reasons.push(`来自GSC分析，有间接信号`);
+    } else if (candidate.source === 'weekly-refresh') {
+      searchDemand = 8;
+      reasons.push(`来自周度分析推荐`);
     } else {
-      searchDemand = 5; // 纯LLM生成，无数据支撑
+      searchDemand = 4;
+      reasons.push(`无搜索数据支撑`);
     }
-    searchDemand = Math.min(Math.max(searchDemand, 0), 40);
 
-    // === 维度2: 竞争机会 (0-25) ===
-    let competitionOpportunity = 0;
-    if (matchedPosition) {
-      if (matchedPosition >= 11 && matchedPosition <= 20) {
-        competitionOpportunity = 20 + Math.min((20 - matchedPosition) / 10 * 5, 5); // 近达机会
-      } else if (matchedPosition >= 21 && matchedPosition <= 50) {
-        competitionOpportunity = 10 + (50 - matchedPosition) / 30 * 10;
-      } else if (matchedPosition > 50) {
-        competitionOpportunity = 5 + Math.min(5, (100 - matchedPosition) / 50 * 5);
-      } else if (matchedPosition <= 10) {
-        competitionOpportunity = 3; // 已经排名不错，不急
-      }
+    // === 维度3: 内容差异化 (0-25) ===
+    let differentiation = 0;
+    const maxOverlap = calcMaxPKOverlap(candidate.primaryKeyword, existingPKs);
+
+    if (maxOverlap <= 0.3) {
+      differentiation = 22 + Math.round((1 - maxOverlap) * 3);
+      reasons.push(`与已有文章高度差异化(重叠${(maxOverlap * 100).toFixed(0)}%)`);
+    } else if (maxOverlap <= 0.5) {
+      differentiation = 15 + Math.round((1 - maxOverlap) * 10);
+      reasons.push(`与已有文章有差异(重叠${(maxOverlap * 100).toFixed(0)}%)`);
+    } else if (maxOverlap <= 0.7) {
+      differentiation = 8;
+      reasons.push(`与已有文章有一定重叠(${(maxOverlap * 100).toFixed(0)}%)，可能cannibalize`);
     } else {
-      // 没有匹配到GSC数据 = 内容缺口
-      competitionOpportunity = 17; // 中等分数，新机会
+      differentiation = 2;
+      reasons.push(`与已有文章高度重叠(${(maxOverlap * 100).toFixed(0)}%)，风险高`);
     }
-    competitionOpportunity = Math.min(Math.max(competitionOpportunity, 0), 25);
 
-    // === 维度3: 时效性 (0-20) ===
-    let timeliness = 6; // 默认：常青内容
-    if (match) {
-      if (match.data.trend === 'up') {
-        timeliness = 15;
-      } else if (match.data.trend === 'down') {
-        timeliness = 2;
-      } else {
-        timeliness = 7;
-      }
+    // === 维度4: 时效性+趋势 (0-20) ===
+    let timeliness = 6; // 常青内容默认
+    if (match && match.trend === 'up') {
+      timeliness = 16;
+      reasons.push(`搜索趋势上升中`);
+    } else if (match && match.trend === 'down') {
+      timeliness = 2;
+      reasons.push(`搜索趋势下降`);
     }
     if (candidate.source === 'gsc-trend') {
-      timeliness = Math.max(timeliness, 18); // 趋势来源加分
-    }
-    timeliness = Math.min(Math.max(timeliness, 0), 20);
-
-    // === 维度4: 多样性调节 (-15 ~ +15) ===
-    let diversityAdjust = 0;
-    const clusterOutput = recentClusterOutput.get(candidate.topicCluster) || 0;
-    if (clusterOutput === 0) {
-      diversityAdjust = 12; // 最近没有产出，鼓励
-    } else if (clusterOutput === 1) {
-      diversityAdjust = 0;  // 正常
-    } else if (clusterOutput === 2) {
-      diversityAdjust = -8;
-    } else {
-      diversityAdjust = -13; // 过度集中，惩罚
+      timeliness = 19;
+      reasons.push(`突发趋势选题，时效性最高`);
     }
 
-    const score = searchDemand + competitionOpportunity + timeliness + diversityAdjust;
+    const score = Math.max(0, Math.min(100, clusterNeed + searchDemand + differentiation + timeliness));
 
     return {
       ...candidate,
-      score: Math.max(0, Math.min(100, score)),
+      topicCluster: cluster,
+      score,
       breakdown: {
+        clusterNeed: Math.round(clusterNeed * 10) / 10,
         searchDemand: Math.round(searchDemand * 10) / 10,
-        competitionOpportunity: Math.round(competitionOpportunity * 10) / 10,
+        differentiation: Math.round(differentiation * 10) / 10,
         timeliness: Math.round(timeliness * 10) / 10,
-        diversityAdjust,
       },
       matchedQuery,
-      matchedPosition,
+      reasoning: reasons.join(' | '),
     };
-  });
-
-  // 按分数排序
-  scored.sort((a, b) => b.score - a.score);
-
-  return scored;
+  }).sort((a, b) => b.score - a.score);
 }

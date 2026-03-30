@@ -1,0 +1,500 @@
+{
+  "week": "2026-W14",
+  "generatedAt": "2026-03-30T16:32:09.928Z",
+  "gscData": {
+    "daysAnalyzed": 7,
+    "totalSearchTerms": 35,
+    "totalImpressions": 58,
+    "topOpportunities": [
+      {
+        "query": "\"behavioral nutrition psychology\" certification",
+        "impressions": 7,
+        "position": 5
+      },
+      {
+        "query": "american heart association nsaids raise blood pressure fluid retention",
+        "impressions": 5,
+        "position": 5
+      },
+      {
+        "query": "american heart association nsaids raise blood pressure ibuprofen",
+        "impressions": 5,
+        "position": 3.8
+      },
+      {
+        "query": "american heart association nsaids raise blood pressure ibuprofen naproxen",
+        "impressions": 3,
+        "position": 4
+      },
+      {
+        "query": "how pets improve heart health and lower blood pressure",
+        "impressions": 2,
+        "position": 66
+      },
+      {
+        "query": "soft meals for sore teeth",
+        "impressions": 2,
+        "position": 100
+      },
+      {
+        "query": "american heart association nsaids blood pressure increase",
+        "impressions": 2,
+        "position": 5
+      },
+      {
+        "query": "hba1c target for elderly diabetics",
+        "impressions": 2,
+        "position": 7
+      },
+      {
+        "query": "edentulous diet",
+        "impressions": 1,
+        "position": 97
+      },
+      {
+        "query": "soft foods for sore gums",
+        "impressions": 1,
+        "position": 88
+      },
+      {
+        "query": "high fiber side dish",
+        "impressions": 1,
+        "position": 28
+      },
+      {
+        "query": "soft dental diet",
+        "impressions": 1,
+        "position": 83
+      },
+      {
+        "query": "soft foods for bad teeth",
+        "impressions": 1,
+        "position": 81
+      },
+      {
+        "query": "soft meals for sore mouth",
+        "impressions": 1,
+        "position": 90
+      },
+      {
+        "query": "warm soft foods",
+        "impressions": 1,
+        "position": 73
+      },
+      {
+        "query": "healthy blood pressure and cholesterol levels",
+        "impressions": 1,
+        "position": 70
+      },
+      {
+        "query": "soft food for elderly with no teeth",
+        "impressions": 1,
+        "position": 87
+      },
+      {
+        "query": "soft food for older adults with no teeth",
+        "impressions": 1,
+        "position": 60
+      },
+      {
+        "query": "setting a1c goals in diabetic patients",
+        "impressions": 1,
+        "position": 26
+      },
+      {
+        "query": "hba1c target for elderly patients with diabetes",
+        "impressions": 1,
+        "position": 1
+      }
+    ]
+  },
+  "candidates": [
+    {
+      "title": "7 Gentle Yoga Moves for Seniors With Arthritis in Hands",
+      "pk": "gentle yoga for seniors with arthritis in hands",
+      "score": 68,
+      "breakdown": {
+        "clusterNeed": 30,
+        "searchDemand": 8,
+        "differentiation": 24,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率23%，大缺口 | 来自周度分析推荐 | 与已有文章高度差异化(重叠25%)"
+    },
+    {
+      "title": "Walking at Night With Glaucoma: Is It Safe After 68?",
+      "pk": "walking at night with glaucoma after 68",
+      "score": 66,
+      "breakdown": {
+        "clusterNeed": 30,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率23%，大缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    },
+    {
+      "title": "Best Cholesterol Test for Women Over 65",
+      "pk": "best cholesterol test for women over 65",
+      "score": 61.266666666666666,
+      "breakdown": {
+        "clusterNeed": 23.3,
+        "searchDemand": 8,
+        "differentiation": 24,
+        "timeliness": 6
+      },
+      "reasoning": "cardiovascular-health集群覆盖率59%，中等缺口 | 来自周度分析推荐 | 与已有文章高度差异化(重叠25%)"
+    },
+    {
+      "title": "What to Do When Your Heart Skips a Beat After Dinner",
+      "pk": "what to do when heart skips beat after dinner",
+      "score": 59.266666666666666,
+      "breakdown": {
+        "clusterNeed": 23.3,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "cardiovascular-health集群覆盖率59%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    },
+    {
+      "title": "How to Read Your Cholesterol Test After 60",
+      "pk": "how to read cholesterol test after 60",
+      "score": 59.266666666666666,
+      "breakdown": {
+        "clusterNeed": 23.3,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "cardiovascular-health集群覆盖率59%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    },
+    {
+      "title": "Cholesterol at Night: Why Levels Rise After Dinner",
+      "pk": "cholesterol rises after dinner",
+      "score": 59.266666666666666,
+      "breakdown": {
+        "clusterNeed": 23.3,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "cardiovascular-health集群覆盖率59%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    },
+    {
+      "title": "What to Do When Cholesterol Goes Up on Medication",
+      "pk": "cholesterol goes up on medication",
+      "score": 59.266666666666666,
+      "breakdown": {
+        "clusterNeed": 23.3,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "cardiovascular-health集群覆盖率59%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    },
+    {
+      "title": "7 Heart-Healthy Swaps for High-Cholesterol Breakfasts",
+      "pk": "high cholesterol breakfast swaps",
+      "score": 59.266666666666666,
+      "breakdown": {
+        "clusterNeed": 23.3,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "cardiovascular-health集群覆盖率59%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    },
+    {
+      "title": "Heart-Healthy Breakfasts That Lower Morning Heart Rate",
+      "pk": "heart healthy breakfasts that lower morning heart rate",
+      "score": 58.266666666666666,
+      "breakdown": {
+        "clusterNeed": 23.3,
+        "searchDemand": 8,
+        "differentiation": 21,
+        "timeliness": 6
+      },
+      "reasoning": "cardiovascular-health集群覆盖率59%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠40%)"
+    },
+    {
+      "title": "How to Walk Safely With Heart Palpitations After 70",
+      "pk": "how to walk with heart palpitations after 70",
+      "score": 57.266666666666666,
+      "breakdown": {
+        "clusterNeed": 23.3,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "cardiovascular-health集群覆盖率59%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Does Fish Oil Really Lower Cholesterol?",
+      "pk": "does fish oil lower cholesterol",
+      "score": 57.266666666666666,
+      "breakdown": {
+        "clusterNeed": 23.3,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "cardiovascular-health集群覆盖率59%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Cholesterol vs Triglycerides: Which Matters More After 60",
+      "pk": "cholesterol vs triglycerides after 60",
+      "score": 57.266666666666666,
+      "breakdown": {
+        "clusterNeed": 23.3,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "cardiovascular-health集群覆盖率59%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Best Heart-Healthy Snacks for Seniors Over 70",
+      "pk": "heart healthy snacks for seniors over 70",
+      "score": 57.266666666666666,
+      "breakdown": {
+        "clusterNeed": 23.3,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "cardiovascular-health集群覆盖率59%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Walking vs Water Aerobics: Which Is Better for Blood Pressure After 60?",
+      "pk": "walking vs water aerobics for blood pressure after 60",
+      "score": 55.13333333333333,
+      "breakdown": {
+        "clusterNeed": 19.1,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "hypertension-management集群覆盖率79%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    },
+    {
+      "title": "Best Blood Pressure Meds for Men Over 75 With Kidney Issues",
+      "pk": "best blood pressure meds for men over 75 with kidney issues",
+      "score": 54.13333333333333,
+      "breakdown": {
+        "clusterNeed": 19.1,
+        "searchDemand": 8,
+        "differentiation": 21,
+        "timeliness": 6
+      },
+      "reasoning": "hypertension-management集群覆盖率79%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠40%)"
+    },
+    {
+      "title": "Best Blood Pressure Medication for Seniors 75+",
+      "pk": "best blood pressure medication for seniors 75",
+      "score": 53.13333333333333,
+      "breakdown": {
+        "clusterNeed": 19.1,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "hypertension-management集群覆盖率79%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "What to Do When Blood Pressure Drops After Eating",
+      "pk": "blood pressure drops after eating",
+      "score": 53.13333333333333,
+      "breakdown": {
+        "clusterNeed": 19.1,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "hypertension-management集群覆盖率79%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Is 150 90 Blood Pressure Dangerous at 68?",
+      "pk": "is 150 90 blood pressure dangerous at 68",
+      "score": 53.13333333333333,
+      "breakdown": {
+        "clusterNeed": 19.1,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "hypertension-management集群覆盖率79%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Best Glucose Meter for Arthritic Hands Over 70",
+      "pk": "best glucose meter for arthritic hands",
+      "score": 49.1,
+      "breakdown": {
+        "clusterNeed": 14.1,
+        "searchDemand": 8,
+        "differentiation": 21,
+        "timeliness": 6
+      },
+      "reasoning": "diabetes-management集群接近目标 | 来自周度分析推荐 | 与已有文章有差异(重叠40%)"
+    },
+    {
+      "title": "What to Eat Before a Long Car Ride With Diabetes",
+      "pk": "what to eat before long car ride diabetes",
+      "score": 49.1,
+      "breakdown": {
+        "clusterNeed": 14.1,
+        "searchDemand": 8,
+        "differentiation": 21,
+        "timeliness": 6
+      },
+      "reasoning": "diabetes-management集群接近目标 | 来自周度分析推荐 | 与已有文章有差异(重叠40%)"
+    },
+    {
+      "title": "How to Walk After Meals With Diabetes",
+      "pk": "how to walk after meals with diabetes",
+      "score": 48.1,
+      "breakdown": {
+        "clusterNeed": 14.1,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "diabetes-management集群接近目标 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Fiber vs Cinnamon: Which Lowers Blood Sugar Faster?",
+      "pk": "fiber vs cinnamon for blood sugar",
+      "score": 48.1,
+      "breakdown": {
+        "clusterNeed": 14.1,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "diabetes-management集群接近目标 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "How to Eat Breakfast Without Spiking Blood Sugar",
+      "pk": "breakfast foods that don’t raise blood sugar",
+      "score": 48.1,
+      "breakdown": {
+        "clusterNeed": 14.1,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "diabetes-management集群接近目标 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Oatmeal vs Granola: Which Is Better for Blood Sugar?",
+      "pk": "oatmeal vs granola for blood sugar seniors",
+      "score": 48.1,
+      "breakdown": {
+        "clusterNeed": 14.1,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "diabetes-management集群接近目标 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Warm Water With Lemon at Night: Good or Bad?",
+      "pk": "warm lemon water at night for seniors",
+      "score": 48,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 24,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章高度差异化(重叠25%)"
+    },
+    {
+      "title": "Chair Strength Training for Seniors Who Can’t Stand Long",
+      "pk": "chair strength training for seniors who can't stand long",
+      "score": 48,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 24,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章高度差异化(重叠29%)"
+    },
+    {
+      "title": "Statin Side Effects You Should Tell Your Doctor",
+      "pk": "statin side effects seniors should watch",
+      "score": 46,
+      "breakdown": {
+        "clusterNeed": 30,
+        "searchDemand": 8,
+        "differentiation": 2,
+        "timeliness": 6
+      },
+      "reasoning": "medication-safety集群覆盖率36%，大缺口 | 来自周度分析推荐 | 与已有文章高度重叠(100%)，风险高"
+    },
+    {
+      "title": "5 Low-Impact Exercises for Seniors With Bad Knees",
+      "pk": "low impact exercises for seniors with bad knees",
+      "score": 46,
+      "breakdown": {
+        "clusterNeed": 30,
+        "searchDemand": 8,
+        "differentiation": 2,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率23%，大缺口 | 来自周度分析推荐 | 与已有文章高度重叠(75%)，风险高"
+    },
+    {
+      "title": "5-Minute Seated Flexibility Routine for Seniors With Hip Pain",
+      "pk": "5 minute seated flexibility routine for seniors with hip pain",
+      "score": 46,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    },
+    {
+      "title": "Best Strength Training for Women Over 70 Who Want to Climb Stairs Easier",
+      "pk": "best strength training for women over 70 to climb stairs",
+      "score": 46,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    }
+  ],
+  "topicsAdded": 97,
+  "libraryStatus": [
+    {
+      "topic": "blood pressure",
+      "count": 0
+    },
+    {
+      "topic": "cholesterol",
+      "count": 0
+    },
+    {
+      "topic": "diabetes",
+      "count": 0
+    },
+    {
+      "topic": "exercise for seniors",
+      "count": 0
+    },
+    {
+      "topic": "healthy eating for seniors",
+      "count": 0
+    },
+    {
+      "topic": "heart health",
+      "count": 0
+    }
+  ]
+}

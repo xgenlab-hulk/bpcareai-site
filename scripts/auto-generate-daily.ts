@@ -277,7 +277,49 @@ async function checkArticleDuplicate(
 }
 
 /**
- * 生成指定数量的文章（均衡选取 + 生成后去重 + 备选替补）
+ * 读取紧急选题（线2：突发趋势触发的选题）
+ * 返回未过期的紧急选题，转为TopicWithSource格式
+ */
+function loadUrgentTopics(): TopicWithSource[] {
+  const urgentPath = path.join(process.cwd(), 'data', 'seo', 'urgent-topics.json');
+  if (!fs.existsSync(urgentPath)) return [];
+
+  try {
+    const data = JSON.parse(fs.readFileSync(urgentPath, 'utf8'));
+    const now = new Date().toISOString();
+
+    return data
+      .filter((t: any) => t.expiresAt > now)
+      .map((t: any) => ({
+        title: `Article about: ${t.query}`,
+        description: t.reason,
+        primaryKeyword: t.suggestedPK,
+        topicCluster: 'gsc-trending',
+        coreKeyword: t.query,
+        createdAt: t.createdAt,
+        source: 'gsc-urgent' as const,
+      }));
+  } catch {
+    return [];
+  }
+}
+
+/**
+ * 清除已消费的紧急选题
+ */
+function clearConsumedUrgentTopics(consumedPKs: Set<string>): void {
+  const urgentPath = path.join(process.cwd(), 'data', 'seo', 'urgent-topics.json');
+  if (!fs.existsSync(urgentPath)) return;
+
+  try {
+    const data = JSON.parse(fs.readFileSync(urgentPath, 'utf8'));
+    const remaining = data.filter((t: any) => !consumedPKs.has(t.suggestedPK));
+    fs.writeFileSync(urgentPath, JSON.stringify(remaining, null, 2), 'utf8');
+  } catch { /* ignore */ }
+}
+
+/**
+ * 生成指定数量的文章（紧急选题优先 + 均衡选取 + 生成后去重 + 备选替补）
  */
 async function generateArticles(
   config: AutomationConfig,
@@ -287,9 +329,22 @@ async function generateArticles(
   console.log('║        Article Generation                             ║');
   console.log('╚════════════════════════════════════════════════════════╝\n');
 
-  // 多取备选（目标数量 + 3个备选），用于去重丢弃后替补
-  const poolSize = count + 3;
-  const topicPool = selectRandomTopicsForGeneration(poolSize);
+  // 检查紧急选题（线2）
+  const urgentTopics = loadUrgentTopics();
+  if (urgentTopics.length > 0) {
+    console.log(`🚨 Found ${urgentTopics.length} urgent topics from GSC trends\n`);
+    for (const ut of urgentTopics) {
+      console.log(`   → "${ut.primaryKeyword}"`);
+    }
+    console.log('');
+  }
+
+  // 从选题库取常规选题 + 备选
+  const regularPoolSize = count + 3 - urgentTopics.length;
+  const regularPool = selectRandomTopicsForGeneration(Math.max(regularPoolSize, count));
+
+  // 合并：紧急选题排在前面
+  const topicPool = [...urgentTopics, ...regularPool];
 
   if (topicPool.length === 0) {
     console.error('❌ No topics available for generation!');

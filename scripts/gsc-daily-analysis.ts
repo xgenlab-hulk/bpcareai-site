@@ -13,11 +13,14 @@
  */
 
 import 'dotenv/config';
+import fs from 'fs';
+import path from 'path';
 import { GSCClient } from '../lib/seo/gsc-client';
 import {
   saveDailyRawData,
   loadRawDataRange,
   getStoredDates,
+  loadAnalysis,
   saveAnalysis,
   cleanupOldData,
   type DailyRawData,
@@ -211,7 +214,52 @@ async function main() {
     console.log(`   Data will accumulate over the next few days.`);
   }
 
-  // 5. 清理旧数据
+  // 5. 紧急选题处理（线2：如果有高分警报，写入紧急选题文件）
+  if (storedDates.length >= 3) {
+    const analysisDate = storedDates[storedDates.length - 1];
+    const dailyAnalysis = loadAnalysis(`daily-${analysisDate}.json`);
+
+    if (dailyAnalysis?.alerts?.length > 0) {
+      // 只取score≥50的高分警报
+      const highAlerts = dailyAnalysis.alerts.filter((a: any) => a.score >= 50);
+
+      if (highAlerts.length > 0) {
+        console.log(`\n🚨 ${highAlerts.length} high-score alerts → writing urgent topics`);
+
+        const urgentTopics = highAlerts.slice(0, 3).map((alert: any) => ({
+          query: alert.query,
+          type: alert.type,
+          score: alert.score,
+          reason: alert.reason,
+          suggestedPK: alert.query, // 直接用搜索词作为PK种子
+          createdAt: new Date().toISOString(),
+          expiresAt: new Date(Date.now() + 3 * 24 * 60 * 60 * 1000).toISOString(), // 3天过期
+        }));
+
+        const urgentPath = path.join(process.cwd(), 'data', 'seo', 'urgent-topics.json');
+        fs.writeFileSync(urgentPath, JSON.stringify(urgentTopics, null, 2), 'utf8');
+        console.log(`   Written ${urgentTopics.length} urgent topics to data/seo/urgent-topics.json`);
+
+        for (const ut of urgentTopics) {
+          console.log(`   → [${ut.type}] "${ut.query}" (score: ${ut.score})`);
+        }
+      } else {
+        // 没有高分警报，清理过期的紧急选题
+        const urgentPath = path.join(process.cwd(), 'data', 'seo', 'urgent-topics.json');
+        if (fs.existsSync(urgentPath)) {
+          const existing = JSON.parse(fs.readFileSync(urgentPath, 'utf8'));
+          const now = new Date().toISOString();
+          const valid = existing.filter((t: any) => t.expiresAt > now);
+          if (valid.length < existing.length) {
+            fs.writeFileSync(urgentPath, JSON.stringify(valid, null, 2), 'utf8');
+            console.log(`\n🧹 Cleaned ${existing.length - valid.length} expired urgent topics`);
+          }
+        }
+      }
+    }
+  }
+
+  // 6. 清理旧数据
   console.log('\n🧹 Cleaning up old data...');
   const cleanup = cleanupOldData();
   if (cleanup.rawDeleted > 0 || cleanup.analysisDeleted > 0) {
