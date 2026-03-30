@@ -1,12 +1,13 @@
 ---
 title: >-
-  A1C Goals for Seniors With Diabetes: Finding Your Safe Target
+  A1C Goals by Age: Safe Targets for 65, 70, 75, 80+ (2026 ADA)
 slug: understanding-a1c-goals-for-seniors-with-diabetes
 description: >-
-  Explains why A1C targets differ for older adults with diabetes based on health status, life expectancy, and comorbidities. ADA guidelines recommend 7-8.5% for complex senior patients.
+  What A1C should a 70-year-old aim for? ADA says 7.0-7.5% if healthy, 8.0-8.5% with complications. See the age-by-age target chart and when to adjust meds.
 date: '2025-11-28'
-updated: '2026-03-29'
-primaryKeyword: A1C targets for seniors with diabetes
+updated: '2026-03-31'
+primaryKeyword: >-
+  a1c goals by age 70 elderly diabetics
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:

@@ -1,10 +1,13 @@
 ---
-title: 'Exercise-Induced Blood Pressure: What''s Normal vs Dangerous After 55'
+title: >-
+  Blood Pressure After Walking: When to Worry (Over 55 Guide)
 slug: exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous
-description: 'Systolic BP of 180-200 mm Hg during exertion is normal after 55. Above 220/105 mm Hg signals EHR (exaggerated hypertensive response), a cardiac risk marker.'
+description: >-
+  Walking raised your BP above 190/110 mmHg? That's a warning sign for adults 55+. Learn the 3 danger thresholds and how to self-check at home safely.
 date: '2025-12-03'
-updated: '2026-03-27'
-primaryKeyword: 'exercise-induced blood pressure normal vs dangerous levels'
+updated: '2026-03-31'
+primaryKeyword: >-
+  blood pressure after walking when to worry over 55
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:

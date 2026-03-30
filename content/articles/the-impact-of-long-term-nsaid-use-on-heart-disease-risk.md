@@ -1,12 +1,13 @@
 ---
 title: >-
-  How Long-Term NSAID Use Raises Heart Disease Risk After 55
+  Can You Take Ibuprofen With Heart Disease? AHA Safety Guide
 slug: the-impact-of-long-term-nsaid-use-on-heart-disease-risk
 description: >-
-  Painkillers (NSAIDs) can raise blood pressure 3-5 mmHg and impair kidney flow. Some carry 20-40% higher heart attack risk for adults 55+.
+  NSAIDs like ibuprofen raise BP 3-5 mmHg and increase heart attack risk 20-40% for adults 55+. See the AHA safety chart: which painkillers are safe with heart disease.
 date: '2025-11-27'
-updated: '2026-03-29'
-primaryKeyword: do NSAIDs like ibuprofen raise heart disease risk
+updated: '2026-03-31'
+primaryKeyword: >-
+  nsaids raise blood pressure ibuprofen heart disease risk seniors
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
