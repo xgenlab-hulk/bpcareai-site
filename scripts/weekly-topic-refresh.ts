@@ -1,14 +1,14 @@
 /**
- * 每周选题库更新
+ * 每周选题生成（周六执行）
  *
- * 线1（稳定线）的核心脚本：
- * 1. 脚本汇总最近7天GSC数据
- * 2. LLM深度分析（搜索意图、CTR归因、机会识别）
- * 3. LLM生成新选题候选
- * 4. 评分排序
- * 5. 补充到选题库
- * 6. 输出已有文章优化建议（线B）
- * 7. [预留] Perplexity深挖内容缺口
+ * 核心逻辑：
+ * 1. 检查本周剩余选题（未被消费的）
+ * 2. 计算需要新生成的数量 = 35 - 剩余数
+ * 3. 脚本汇总GSC数据
+ * 4. LLM深度分析（搜索意图、CTR归因、机会识别）
+ * 5. 生成新选题候选 → 评分排序
+ * 6. 保留优质剩余选题 + 新生成选题 = 35个（下周选题库）
+ * 7. 输出已有文章优化建议（线B）
  *
  * 使用方式：npm run seo:weekly
  */
@@ -19,315 +19,310 @@ import path from 'path';
 import { getStoredDates, loadRawDataRange, saveAnalysis } from '../lib/seo/data-store';
 import { scoreTopics, type TopicCandidate } from '../lib/seo/topic-scorer';
 import { generateTopicCandidatesForKeyword } from '../lib/llm/qwen-topics';
-import { runWeeklyDeepAnalysis, generateArticleOptimizations, deepDiveWithPerplexity, type WeeklyAnalysisInput } from '../lib/seo/llm-analyzer';
+import { runWeeklyDeepAnalysis, type WeeklyAnalysisInput } from '../lib/seo/llm-analyzer';
 import {
   getTopicsInventory,
   getTotalTopicsCount,
   type PlannedTopic,
 } from '../lib/topics/manager';
 
+const WEEKLY_TARGET = 35; // 每周目标选题数（7天 x 5篇/天）
+const DAILY_TARGET = 5;
+
 async function main() {
   console.log('\n╔══════════════════════════════════════════════════════════╗');
-  console.log('║  Weekly Topic Refresh — GSC-Driven                      ║');
+  console.log('║  Weekly Topic Refresh — Generate Next Week\'s 35 Topics  ║');
   console.log('╚══════════════════════════════════════════════════════════╝\n');
 
-  // 1. 加载GSC数据
-  const storedDates = getStoredDates();
-  if (storedDates.length < 3) {
-    console.log('⚠️  Not enough GSC data (need ≥3 days). Run seo:daily first.\n');
+  // ========================================
+  // Step 1: 检查本周剩余选题
+  // ========================================
+  const inventory = getTopicsInventory();
+  const currentTotal = getTotalTopicsCount();
+  console.log(`📚 Current topic library: ${currentTotal} topics remaining\n`);
+
+  for (const item of inventory) {
+    if (item.count > 0) {
+      console.log(`   ${item.topic}: ${item.count}`);
+    }
+  }
+
+  // 决定保留多少、新生成多少
+  let toKeep = 0;
+  let toGenerate = WEEKLY_TARGET;
+
+  if (currentTotal > 0) {
+    // 评估剩余选题质量——有score的保留，无score的丢弃
+    const remaining = inventory.flatMap(i =>
+      i.topics.filter(t => (t.score || 0) >= 30) // 只保留评分≥30的
+    );
+    toKeep = Math.min(remaining.length, WEEKLY_TARGET);
+    toGenerate = WEEKLY_TARGET - toKeep;
+    console.log(`\n   保留优质剩余: ${toKeep} (score≥30)`);
+    console.log(`   需要新生成: ${toGenerate}`);
+  }
+
+  console.log(`   下周总目标: ${WEEKLY_TARGET}\n`);
+
+  if (toGenerate <= 0) {
+    console.log('✅ 剩余选题足够，无需生成新选题\n');
     return;
   }
 
-  const last7Start = storedDates[Math.max(storedDates.length - 7, 0)];
-  const last7End = storedDates[storedDates.length - 1];
-  const last7Data = loadRawDataRange(last7Start, last7End);
+  // ========================================
+  // Step 2: 汇总GSC数据
+  // ========================================
+  const storedDates = getStoredDates();
+  let gscQueries: any[] = [];
+  let gscPages: any[] = [];
 
-  console.log(`📊 Analyzing ${last7Data.length} days of GSC data (${last7Start} → ${last7End})\n`);
+  if (storedDates.length >= 3) {
+    const last7Start = storedDates[Math.max(storedDates.length - 7, 0)];
+    const last7End = storedDates[storedDates.length - 1];
+    const last7Data = loadRawDataRange(last7Start, last7End);
 
-  // 2. 汇总搜索词
-  const queryAgg = new Map<string, { impressions: number; clicks: number; position: number }>();
-  for (const day of last7Data) {
-    for (const q of day.queries) {
-      const e = queryAgg.get(q.query) || { impressions: 0, clicks: 0, position: 0 };
-      e.impressions += q.impressions;
-      e.clicks += q.clicks;
-      e.position = q.position; // 取最新的
-      queryAgg.set(q.query, e);
+    console.log(`📊 GSC data: ${last7Data.length} days (${last7Start} → ${last7End})\n`);
+
+    // 汇总搜索词
+    const queryAgg = new Map<string, { impressions: number; clicks: number; position: number }>();
+    for (const day of last7Data) {
+      for (const q of day.queries) {
+        const e = queryAgg.get(q.query) || { impressions: 0, clicks: 0, position: 0 };
+        e.impressions += q.impressions; e.clicks += q.clicks; e.position = q.position;
+        queryAgg.set(q.query, e);
+      }
+    }
+
+    gscQueries = Array.from(queryAgg.entries())
+      .sort((a, b) => b[1].impressions - a[1].impressions)
+      .map(([q, d]) => ({
+        query: q, impressions: d.impressions, clicks: d.clicks,
+        avgPosition: d.position,
+        ctr: d.impressions > 0 ? +(d.clicks / d.impressions * 100).toFixed(1) : 0,
+      }));
+
+    // 汇总页面
+    const pageAgg = new Map<string, { impr: number; clicks: number; pos: number }>();
+    for (const day of last7Data) {
+      for (const p of day.pages) {
+        const e = pageAgg.get(p.page) || { impr: 0, clicks: 0, pos: 0 };
+        e.impr += p.impressions; e.clicks += p.clicks; e.pos = p.position;
+        pageAgg.set(p.page, e);
+      }
+    }
+
+    gscPages = Array.from(pageAgg.entries())
+      .sort((a, b) => b[1].impr - a[1].impr)
+      .slice(0, 20)
+      .map(([page, d]) => ({
+        slug: page.split('/articles/')[1] || page.split('/').pop() || page,
+        impressions: d.impr, clicks: d.clicks,
+        ctr: d.impr > 0 ? +(d.clicks / d.impr * 100).toFixed(1) : 0,
+        position: +d.pos.toFixed(1),
+      }));
+
+    console.log(`   Search terms: ${gscQueries.length}`);
+    console.log(`   Pages with impressions: ${gscPages.length}\n`);
+  } else {
+    console.log('⚠️  Not enough GSC data, generating topics without GSC analysis\n');
+  }
+
+  // ========================================
+  // Step 3: LLM深度分析
+  // ========================================
+  let llmAnalysis: any = null;
+
+  if (gscQueries.length > 0) {
+    console.log('🧠 Running LLM deep analysis...');
+    try {
+      llmAnalysis = await runWeeklyDeepAnalysis({
+        queries: gscQueries,
+        topPages: gscPages,
+        monthlyTrend: `${storedDates.length} days of GSC data available`,
+        currentTopicLibrary: `${currentTotal} topics across ${inventory.filter(i => i.count > 0).length} categories`,
+        siteInfo: 'BPCareAI - 50+老年人心血管健康网站, 2209篇文章',
+      });
+      console.log('   ✅ Analysis complete\n');
+
+      if (llmAnalysis.topicPriorities) {
+        console.log('   📋 LLM选题建议:');
+        console.log(`   ${llmAnalysis.topicPriorities.substring(0, 200)}...\n`);
+      }
+    } catch (err: any) {
+      console.warn(`   ⚠️  LLM analysis failed: ${err.message}\n`);
     }
   }
 
-  console.log(`   Total search terms: ${queryAgg.size}`);
-  const totalImpr = Array.from(queryAgg.values()).reduce((s, q) => s + q.impressions, 0);
-  console.log(`   Total impressions: ${totalImpr}`);
-
-  // 3. 识别GSC中的高价值方向
-  const gscOpportunities: { query: string; impressions: number; position: number }[] = [];
-  for (const [query, data] of queryAgg) {
-    // 排除品牌词和太短的词
-    if (query.length < 10) continue;
-    if (['bpcare', 'bp care', 'bp rating'].some(b => query.includes(b))) continue;
-
-    gscOpportunities.push({ query, impressions: data.impressions, position: data.position });
-  }
-
-  gscOpportunities.sort((a, b) => b.impressions - a.impressions);
-  console.log(`   GSC opportunities (non-brand, len>10): ${gscOpportunities.length}\n`);
-
-  if (gscOpportunities.length > 0) {
-    console.log('   Top GSC opportunities:');
-    for (const opp of gscOpportunities.slice(0, 10)) {
-      console.log(`     ${String(opp.impressions).padStart(4)} impr | pos ${opp.position.toFixed(1).padStart(5)} | "${opp.query}"`);
-    }
-    console.log('');
-  }
-
-  // 4. LLM深度分析（搜索意图、CTR归因、机会识别）
-  console.log('🧠 Running LLM deep analysis...\n');
-
-  const queryList = Array.from(queryAgg.entries())
-    .sort((a, b) => b[1].impressions - a[1].impressions)
-    .map(([q, d]) => ({
-      query: q,
-      impressions: d.impressions,
-      clicks: d.clicks,
-      avgPosition: d.position,
-      ctr: d.impressions > 0 ? +(d.clicks / d.impressions * 100).toFixed(1) : 0,
-    }));
-
-  // 汇总页面数据
-  const pageAgg = new Map<string, { impr: number; clicks: number; pos: number }>();
-  for (const day of last7Data) {
-    for (const p of day.pages) {
-      const e = pageAgg.get(p.page) || { impr: 0, clicks: 0, pos: 0 };
-      e.impr += p.impressions; e.clicks += p.clicks; e.pos = p.position;
-      pageAgg.set(p.page, e);
-    }
-  }
-  const pageList = Array.from(pageAgg.entries())
-    .sort((a, b) => b[1].impr - a[1].impr)
-    .slice(0, 20)
-    .map(([page, d]) => ({
-      slug: page.split('/articles/')[1] || page.split('/').pop() || page,
-      impressions: d.impr, clicks: d.clicks,
-      ctr: d.impr > 0 ? +(d.clicks / d.impr * 100).toFixed(1) : 0,
-      position: +d.pos.toFixed(1),
-    }));
-
-  let llmAnalysis;
-  try {
-    llmAnalysis = await runWeeklyDeepAnalysis({
-      queries: queryList,
-      topPages: pageList,
-      monthlyTrend: `${last7Data.length} days analyzed`,
-      currentTopicLibrary: `6 categories, topics pending refresh`,
-      siteInfo: 'BPCareAI - 50+老年人心血管健康网站, 2209篇文章',
-    });
-
-    console.log('   ✅ LLM analysis complete');
-    if (llmAnalysis.searchIntentAnalysis) {
-      console.log(`   搜索意图: ${llmAnalysis.searchIntentAnalysis.substring(0, 100)}...`);
-    }
-    if (llmAnalysis.articleOptimizations.length > 0) {
-      console.log(`   已有文章优化建议: ${llmAnalysis.articleOptimizations.length} 篇`);
-    }
-    console.log('');
-  } catch (err: any) {
-    console.warn(`   ⚠️  LLM analysis failed: ${err.message}`);
-    console.warn('   Continuing with script-only analysis...\n');
-    llmAnalysis = null;
-  }
-
-  // 5. [预留] Perplexity深挖内容缺口
-  // 当发现内容缺口时，可调用 deepDiveWithPerplexity(direction)
-  // 需要设置 PERPLEXITY_API_KEY 环境变量
-  // TODO: 在llmAnalysis.hiddenOpportunities中识别缺口方向，自动调用
-
-  // 6. 检查当前选题库状态
-  const inventory = getTopicsInventory();
-  const totalTopics = getTotalTopicsCount();
-  console.log(`📚 Current topic library: ${totalTopics} topics across ${inventory.filter(i => i.count > 0).length} categories\n`);
-
-  // 7. 加载已有文章的标题和PK
+  // ========================================
+  // Step 4: 生成新选题候选
+  // ========================================
   const indexPath = path.join(process.cwd(), 'data', 'articles-index.json');
   const articles = JSON.parse(fs.readFileSync(indexPath, 'utf8'));
   const existingTitles = articles.map((a: any) => a.title);
   const existingPKs = articles.map((a: any) => a.primaryKeyword).filter(Boolean);
   const plannedTitles = inventory.flatMap(i => i.topics.map(t => t.title));
 
-  // 8. 为每个核心分类生成新选题
-  const coreTopics = [
-    { keyword: 'blood pressure', angles: ['diet', 'exercise', 'medication', 'monitoring', 'symptoms', 'sleep', 'stress'] },
-    { keyword: 'diabetes', angles: ['diet', 'exercise', 'blood sugar monitoring', 'medication', 'symptoms', 'meal timing'] },
-    { keyword: 'heart health', angles: ['diet', 'exercise', 'symptoms', 'prevention', 'medication', 'women-specific'] },
-    { keyword: 'cholesterol', angles: ['diet', 'medication', 'natural remedies', 'testing'] },
-    { keyword: 'healthy eating for seniors', angles: ['heart-healthy foods', 'blood sugar friendly foods', 'sodium reduction'] },
-    { keyword: 'exercise for seniors', angles: ['walking', 'low-impact', 'strength training', 'flexibility'] },
-  ];
+  // 读取config中的coreTopics
+  const config = JSON.parse(fs.readFileSync('automation-config.json', 'utf8'));
+  const coreTopics = config.topicManagement.coreTopics || [];
 
-  console.log('🤖 Generating new topic candidates per category...\n');
+  // 按P1→P2→P3优先级分配生成数量
+  const p1Topics = coreTopics.filter((ct: any) => ct.priority === 'P1');
+  const p2Topics = coreTopics.filter((ct: any) => ct.priority === 'P2');
+  const p3Topics = coreTopics.filter((ct: any) => ct.priority === 'P3');
+
+  // P1分配50%，P2分配30%，P3分配20%
+  const p1Count = Math.ceil(toGenerate * 0.5);
+  const p2Count = Math.ceil(toGenerate * 0.3);
+  const p3Count = toGenerate - p1Count - p2Count;
 
   const allCandidates: TopicCandidate[] = [];
 
-  for (const ct of coreTopics) {
-    const categoryCount = inventory.find(i =>
-      i.topic.toLowerCase().includes(ct.keyword.split(' ')[0])
-    )?.count || 0;
+  async function generateForGroup(topics: any[], totalCount: number, label: string) {
+    if (topics.length === 0 || totalCount <= 0) return;
+    const perTopic = Math.max(3, Math.ceil(totalCount / topics.length));
 
-    // 每个分类生成10个候选（如果库存<10才生成）
-    if (categoryCount >= 15) {
-      console.log(`   ${ct.keyword}: ${categoryCount} topics in stock, skip generation`);
-      continue;
-    }
+    console.log(`\n🤖 Generating ${label} topics (${totalCount} total, ${perTopic}/category)...\n`);
 
-    const toGenerate = Math.min(10, 15 - categoryCount);
-    console.log(`   ${ct.keyword}: generating ${toGenerate} candidates...`);
-
-    try {
-      // 把GSC机会词作为额外的上下文传给LLM
-      const gscContext = gscOpportunities
-        .filter(o => ct.angles.some(a => o.query.includes(a)) || o.query.includes(ct.keyword.split(' ')[0]))
-        .slice(0, 5)
-        .map(o => o.query);
-
-      const candidates = await generateTopicCandidatesForKeyword({
-        coreKeyword: ct.keyword,
-        existingTitles,
-        existingPKs,
-        alreadyPlannedTitles: [...plannedTitles, ...allCandidates.map(c => c.title)],
-        angles: ct.angles,
-        batchSize: toGenerate,
-      });
-
-      for (const c of candidates) {
-        allCandidates.push({
-          title: c.title,
-          primaryKeyword: c.primaryKeyword,
-          description: c.description,
-          topicCluster: c.topicCluster,
-          source: 'weekly-refresh',
+    for (const ct of topics) {
+      try {
+        const candidates = await generateTopicCandidatesForKeyword({
+          coreKeyword: ct.keyword,
+          existingTitles,
+          existingPKs,
+          alreadyPlannedTitles: [...plannedTitles, ...allCandidates.map(c => c.title)],
+          angles: ct.angles || [],
+          batchSize: perTopic,
         });
+
+        for (const c of candidates) {
+          allCandidates.push({
+            title: c.title,
+            primaryKeyword: c.primaryKeyword,
+            description: c.description,
+            topicCluster: c.topicCluster,
+            source: 'weekly-refresh',
+          });
+        }
+        console.log(`   ${ct.keyword}: ${candidates.length} candidates`);
+      } catch (err: any) {
+        console.error(`   ${ct.keyword}: Error - ${err.message}`);
       }
-
-      console.log(`     → ${candidates.length} validated candidates`);
-    } catch (err: any) {
-      console.error(`     → Error: ${err.message}`);
+      await new Promise(r => setTimeout(r, 1000));
     }
-
-    // 速率限制
-    await new Promise(r => setTimeout(r, 1000));
   }
 
-  // 7. 评分排序
+  await generateForGroup(p1Topics, p1Count, 'P1 (highest priority)');
+  await generateForGroup(p2Topics, p2Count, 'P2 (data-backed)');
+  await generateForGroup(p3Topics, p3Count, 'P3 (maintain authority)');
+
+  // ========================================
+  // Step 5: 评分排序
+  // ========================================
   console.log(`\n📊 Scoring ${allCandidates.length} candidates...\n`);
   const scored = scoreTopics(allCandidates);
 
-  // 8. 输出结果
-  console.log('═══ TOP 20 SCORED TOPICS ═══\n');
-  for (let i = 0; i < Math.min(20, scored.length); i++) {
-    const t = scored[i];
-    console.log(`#${(i + 1).toString().padStart(2)} | Score ${t.score.toString().padStart(2)} | [${t.topicCluster}]`);
-    console.log(`     "${t.title}"`);
-    console.log(`     PK: "${t.primaryKeyword}"`);
-    console.log(`     集群:${t.breakdown.clusterNeed} 需求:${t.breakdown.searchDemand} 差异:${t.breakdown.differentiation} 时效:${t.breakdown.timeliness}`);
-    console.log(`     ${t.reasoning}`);
-    console.log('');
+  // 取需要的数量
+  const topScored = scored.slice(0, toGenerate);
+
+  console.log(`Top ${Math.min(10, topScored.length)} scored topics:`);
+  for (let i = 0; i < Math.min(10, topScored.length); i++) {
+    const t = topScored[i];
+    console.log(`  #${i + 1} Score ${t.score.toFixed(0)} | "${t.title.substring(0, 50)}"`);
   }
 
-  // 9. 写入选题库
-  console.log('💾 Updating topic library...\n');
-  let totalAdded = 0;
+  // ========================================
+  // Step 6: 写入选题库
+  // ========================================
+  console.log('\n💾 Writing next week\'s topic library...\n');
 
-  // 分类关键词映射（用于精准匹配选题到选题库文件）
+  const weekNum = getISOWeek(new Date());
+  const nextWeek = `${new Date().getFullYear()}-W${weekNum + 1}`;
+
+  // 清空所有选题文件，写入新的
   const categoryKeywords: Record<string, string[]> = {
-    'blood pressure': ['blood pressure', 'bp', 'hypertension', 'systolic', 'diastolic'],
+    'blood pressure': ['blood pressure', 'bp', 'hypertension', 'systolic', 'diastolic', 'nsaid', 'ibuprofen'],
     'diabetes': ['diabetes', 'blood sugar', 'glucose', 'insulin', 'hba1c', 'a1c', 'diabetic'],
-    'heart health': ['heart', 'cardiac', 'cardiovascular', 'cholesterol', 'artery'],
+    'heart health': ['heart', 'cardiac', 'cardiovascular', 'cholesterol', 'artery', 'palpitation'],
     'cholesterol': ['cholesterol', 'ldl', 'hdl', 'triglyceride', 'statin'],
-    'healthy eating for seniors': ['food', 'diet', 'eating', 'nutrition', 'meal', 'breakfast', 'dinner', 'snack', 'soup', 'recipe'],
-    'exercise for seniors': ['exercise', 'walking', 'yoga', 'tai chi', 'stretch', 'fitness', 'aerobic'],
+    'healthy eating for seniors': ['food', 'diet', 'eating', 'nutrition', 'meal', 'breakfast', 'dinner', 'snack', 'soup', 'recipe', 'fiber', 'soft food'],
+    'exercise for seniors': ['exercise', 'walking', 'yoga', 'tai chi', 'stretch', 'fitness', 'aerobic', 'chair', 'seated'],
   };
+
+  let totalWritten = 0;
 
   for (const item of inventory) {
     const keywords = categoryKeywords[item.topic] || [item.topic];
-    const matchingTopics = scored.filter(t => {
-      const text = `${t.primaryKeyword} ${t.title}`.toLowerCase();
-      return keywords.some(kw => text.includes(kw));
-    });
 
-    if (matchingTopics.length === 0) continue;
+    // 保留的旧选题（score≥30）
+    const kept = item.topics.filter(t => (t.score || 0) >= 30);
 
-    // 转为PlannedTopic格式
-    const newTopics: PlannedTopic[] = matchingTopics.map(t => ({
-      title: t.title,
-      description: t.description,
-      primaryKeyword: t.primaryKeyword,
-      topicCluster: t.topicCluster,
-      coreKeyword: item.topic,
-      createdAt: new Date().toISOString(),
-    }));
+    // 匹配的新选题
+    const newTopics: PlannedTopic[] = topScored
+      .filter(t => {
+        const text = `${t.primaryKeyword} ${t.title}`.toLowerCase();
+        return keywords.some(kw => text.includes(kw));
+      })
+      .map(t => ({
+        title: t.title,
+        description: t.description,
+        primaryKeyword: t.primaryKeyword,
+        topicCluster: t.topicCluster,
+        coreKeyword: item.topic,
+        createdAt: new Date().toISOString(),
+        score: t.score,
+        scheduledWeek: nextWeek,
+      }));
 
-    // 合并到现有选题
-    const existing = item.topics;
-    const combined = [...existing, ...newTopics];
-
+    const combined = [...kept, ...newTopics];
     fs.writeFileSync(item.filePath, JSON.stringify(combined, null, 2), 'utf8');
-    console.log(`   ${item.topic}: +${newTopics.length} topics (total: ${combined.length})`);
-    totalAdded += newTopics.length;
+    console.log(`   ${item.topic}: ${kept.length} kept + ${newTopics.length} new = ${combined.length}`);
+    totalWritten += combined.length;
   }
 
-  console.log(`\n✅ Added ${totalAdded} new topics to library`);
+  console.log(`\n✅ Next week's library: ${totalWritten} topics (target: ${WEEKLY_TARGET})`);
 
-  // 11. 输出已有文章优化建议（线B）
-  if (llmAnalysis?.articleOptimizations && llmAnalysis.articleOptimizations.length > 0) {
-    console.log('\n📝 Article Optimization Suggestions (Line B):\n');
+  // ========================================
+  // Step 7: 输出已有文章优化建议（线B）
+  // ========================================
+  if (llmAnalysis?.articleOptimizations?.length > 0) {
+    console.log(`\n📝 Article Optimization Suggestions: ${llmAnalysis.articleOptimizations.length} articles\n`);
     for (const opt of llmAnalysis.articleOptimizations) {
-      console.log(`   ${opt.slug}`);
-      console.log(`     Current: "${opt.currentTitle}"`);
-      console.log(`     → Title: "${opt.suggestedTitle}"`);
-      console.log(`     → PK: "${opt.suggestedPK}"`);
-      console.log(`     Reason: ${opt.reason}`);
-      console.log('');
+      console.log(`   ${opt.slug}: "${opt.suggestedTitle}"`);
     }
-
-    // 保存优化建议供后续执行
     saveAnalysis('article-optimizations-pending.json', {
       generatedAt: new Date().toISOString(),
       optimizations: llmAnalysis.articleOptimizations,
     });
-    console.log('   Saved to: data/seo/analysis/article-optimizations-pending.json\n');
   }
 
-  // 12. 保存周度分析报告
-  const weekNum = getISOWeek(new Date());
+  // ========================================
+  // Step 8: 保存周报
+  // ========================================
   const report = {
-    week: `${new Date().getFullYear()}-W${weekNum}`,
+    week: nextWeek,
     generatedAt: new Date().toISOString(),
+    config: { weeklyTarget: WEEKLY_TARGET, dailyTarget: DAILY_TARGET },
+    previousWeek: { remaining: currentTotal, kept: toKeep },
+    newGenerated: topScored.length,
+    totalWritten,
     gscData: {
-      daysAnalyzed: last7Data.length,
-      totalSearchTerms: queryAgg.size,
-      totalImpressions: totalImpr,
-      topOpportunities: gscOpportunities.slice(0, 20),
+      daysAnalyzed: storedDates.length >= 3 ? 7 : 0,
+      totalSearchTerms: gscQueries.length,
     },
     llmAnalysis: llmAnalysis ? {
-      searchIntentAnalysis: llmAnalysis.searchIntentAnalysis,
-      ctrAnomalies: llmAnalysis.ctrAnomalies,
-      hiddenOpportunities: llmAnalysis.hiddenOpportunities,
-      topicPriorities: llmAnalysis.topicPriorities,
-      articleOptimizationCount: llmAnalysis.articleOptimizations.length,
+      searchIntentAnalysis: llmAnalysis.searchIntentAnalysis?.substring(0, 500),
+      topicPriorities: llmAnalysis.topicPriorities?.substring(0, 500),
+      articleOptimizations: llmAnalysis.articleOptimizations?.length || 0,
     } : null,
-    candidates: scored.slice(0, 30).map(t => ({
-      title: t.title,
-      pk: t.primaryKeyword,
-      score: t.score,
-      breakdown: t.breakdown,
-      reasoning: t.reasoning,
+    topTopics: topScored.slice(0, 10).map(t => ({
+      title: t.title, pk: t.primaryKeyword, score: t.score,
+      breakdown: t.breakdown, reasoning: t.reasoning,
     })),
-    topicsAdded: totalAdded,
-    libraryStatus: inventory.map(i => ({ topic: i.topic, count: i.count })),
   };
 
-  saveAnalysis(`weekly-${report.week}.json`, report);
-  console.log(`📄 Report saved: data/seo/analysis/weekly-${report.week}.json\n`);
+  saveAnalysis(`weekly-${nextWeek}.json`, report);
+  console.log(`\n📄 Report: data/seo/analysis/weekly-${nextWeek}.json\n`);
 }
 
 function getISOWeek(date: Date): number {

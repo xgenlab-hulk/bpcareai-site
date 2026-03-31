@@ -12,6 +12,8 @@ export interface PlannedTopic {
   topicCluster: string;
   coreKeyword: string;
   createdAt: string;
+  score?: number;           // 评分（0-100），由weekly-topic-refresh赋值
+  scheduledWeek?: string;   // 计划使用的周次（如 "2026-W14"）
 }
 
 /**
@@ -235,50 +237,58 @@ export function collectAllAvailableTopics(): TopicWithSource[] {
 }
 
 /**
- * 从所有可用标题中均衡选择指定数量
- * v2.1: 轮询各分类，确保内容多样性（不再纯随机）
+ * 按评分从高到低选取指定数量的选题
+ * v3.0: 评分优先 + 跨分类均衡
  *
- * 策略：按分类轮询（round-robin），每个分类轮流取1个，
- * 直到达到目标数量。分类内部随机排序。
+ * 策略：
+ * 1. 所有选题按score降序排列
+ * 2. 逐个取最高分的，但同一分类连续不超过2个（保证多样性）
+ * 3. 没有score的选题排在最后
  */
 export function selectRandomTopicsForGeneration(
   count: number
 ): TopicWithSource[] {
   const inventory = getTopicsInventory();
 
-  // 按分类分组，每组内部随机打乱
-  const groups: TopicWithSource[][] = [];
+  // 收集所有选题，带source标记
+  const allTopics: TopicWithSource[] = [];
   for (const item of inventory) {
-    if (item.topics.length === 0) continue;
-    const shuffled = [...item.topics]
-      .sort(() => Math.random() - 0.5)
-      .map(topic => ({ ...topic, source: item.topic }));
-    groups.push(shuffled);
-  }
-
-  if (groups.length === 0) {
-    return [];
-  }
-
-  // Round-robin 轮询选取
-  const selected: TopicWithSource[] = [];
-  const pointers = new Array(groups.length).fill(0); // 每组的当前指针
-
-  let round = 0;
-  while (selected.length < count) {
-    let addedInRound = false;
-
-    for (let g = 0; g < groups.length; g++) {
-      if (selected.length >= count) break;
-      if (pointers[g] < groups[g].length) {
-        selected.push(groups[g][pointers[g]]);
-        pointers[g]++;
-        addedInRound = true;
-      }
+    for (const topic of item.topics) {
+      allTopics.push({ ...topic, source: item.topic });
     }
+  }
 
-    if (!addedInRound) break; // 所有分类都取完了
-    round++;
+  if (allTopics.length === 0) return [];
+
+  // 按score降序排列（无score的排最后）
+  allTopics.sort((a, b) => (b.score || 0) - (a.score || 0));
+
+  // 带多样性约束的选取：同一分类连续不超过2个
+  const selected: TopicWithSource[] = [];
+  const clusterCount = new Map<string, number>(); // 每个分类已选数量
+  const skipped: TopicWithSource[] = []; // 被跳过的（因为分类已满）
+
+  for (const topic of allTopics) {
+    if (selected.length >= count) break;
+
+    const cluster = topic.topicCluster || topic.source;
+    const currentCount = clusterCount.get(cluster) || 0;
+
+    // 同一分类最多选 ceil(count/分类数) 个，至少2个
+    const maxPerCluster = Math.max(2, Math.ceil(count / Math.max(inventory.filter(i => i.count > 0).length, 1)));
+
+    if (currentCount < maxPerCluster) {
+      selected.push(topic);
+      clusterCount.set(cluster, currentCount + 1);
+    } else {
+      skipped.push(topic);
+    }
+  }
+
+  // 如果还没选够，从跳过的里补
+  for (const topic of skipped) {
+    if (selected.length >= count) break;
+    selected.push(topic);
   }
 
   return selected;
