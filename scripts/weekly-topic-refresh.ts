@@ -19,7 +19,7 @@ import path from 'path';
 import { getStoredDates, loadRawDataRange, saveAnalysis } from '../lib/seo/data-store';
 import { scoreTopics, type TopicCandidate } from '../lib/seo/topic-scorer';
 import { generateTopicCandidatesForKeyword } from '../lib/llm/qwen-topics';
-import { runWeeklyDeepAnalysis, discoverUserQuestions, type WeeklyAnalysisInput } from '../lib/seo/llm-analyzer';
+import { runWeeklyDeepAnalysis, discoverUserQuestions, type WeeklyAnalysisInput, type PerplexityInsight } from '../lib/seo/llm-analyzer';
 import {
   getTopicsInventory,
   getTotalTopicsCount,
@@ -158,7 +158,7 @@ async function main() {
   // ========================================
   console.log('🔍 Perplexity — discovering what users actually search...\n');
 
-  const perplexityQuestions = new Map<string, string[]>();
+  const perplexityData = new Map<string, PerplexityInsight>();
   const configFile = JSON.parse(fs.readFileSync('automation-config.json', 'utf8'));
   const coreTopicsList = configFile.topicManagement.coreTopics || [];
 
@@ -180,11 +180,17 @@ async function main() {
   for (const ct of priorityTopics) {
     console.log(`   🌐 "${ct.keyword}"...`);
     const existingTitlesForKeyword = articlesByKeyword.get(ct.keyword) || [];
-    const questions = await discoverUserQuestions(ct.keyword, existingTitlesForKeyword);
-    perplexityQuestions.set(ct.keyword, questions);
-    console.log(`      → ${questions.length} real search questions`);
-    if (questions.length > 0) {
-      console.log(`      Sample: "${questions[0]}"`);
+    const insight = await discoverUserQuestions(ct.keyword, existingTitlesForKeyword);
+    perplexityData.set(ct.keyword, insight);
+    console.log(`      → ${insight.questions.length} real search questions`);
+    if (insight.questions.length > 0) {
+      console.log(`      Sample: "${insight.questions[0]}"`);
+    }
+    if (insight.competitorCoverage) {
+      console.log(`      Competitors: ${insight.competitorCoverage.substring(0, 80)}...`);
+    }
+    if (insight.whyItMatters) {
+      console.log(`      Why now: ${insight.whyItMatters.substring(0, 80)}...`);
     }
     await new Promise(r => setTimeout(r, 500));
   }
@@ -222,15 +228,20 @@ async function main() {
     console.log(`\n🤖 Generating ${label} topics (${totalCount} total, ${perTopic}/category)...\n`);
 
     for (const ct of topics) {
-      // 注入Perplexity发现的真实搜索问题到angles中
-      const realQuestions = perplexityQuestions.get(ct.keyword) || [];
+      // 注入Perplexity发现的真实搜索问题+竞品洞察到angles中
+      const pData = perplexityData.get(ct.keyword);
       const enrichedAngles = [...(ct.angles || [])];
-      if (realQuestions.length > 0) {
-        // 直接把真实搜索问题作为选题方向
-        for (const q of realQuestions.slice(0, 8)) {
+      if (pData && pData.questions.length > 0) {
+        for (const q of pData.questions.slice(0, 8)) {
           enrichedAngles.push(`Real user search: "${q}"`);
         }
-        console.log(`   ${ct.keyword}: +${Math.min(8, realQuestions.length)} real search questions from Perplexity`);
+        console.log(`   ${ct.keyword}: +${Math.min(8, pData.questions.length)} real search questions`);
+      }
+      if (pData && pData.competitorCoverage) {
+        enrichedAngles.push(`Competitor insight: ${pData.competitorCoverage}`);
+      }
+      if (pData && pData.whyItMatters) {
+        enrichedAngles.push(`Trending context: ${pData.whyItMatters}`);
       }
 
       try {
@@ -363,10 +374,12 @@ async function main() {
       topicPriorities: llmAnalysis.topicPriorities?.substring(0, 500),
       articleOptimizations: llmAnalysis.articleOptimizations?.length || 0,
     } : null,
-    perplexityData: Object.fromEntries(
-      Array.from(perplexityQuestions.entries()).map(([k, v]) => [k, {
-        questionsFound: v.length,
-        questions: v.slice(0, 10),
+    perplexityInsights: Object.fromEntries(
+      Array.from(perplexityData.entries()).map(([k, v]) => [k, {
+        questionsFound: v.questions.length,
+        topQuestions: v.questions.slice(0, 10),
+        competitorCoverage: v.competitorCoverage,
+        whyItMatters: v.whyItMatters,
       }])
     ),
     topTopics: topScored.slice(0, 10).map(t => ({

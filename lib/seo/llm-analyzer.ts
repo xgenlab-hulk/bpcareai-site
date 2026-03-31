@@ -294,26 +294,34 @@ For each article, output a JSON array:
 // ============================================================
 
 /**
- * 调用Perplexity获取某个关键词方向的真实用户搜索问题
+ * Perplexity搜索结果
+ */
+export interface PerplexityInsight {
+  questions: string[];           // 用户真实搜索问题（核心）
+  competitorCoverage: string;    // 排名靠前的文章都覆盖了什么（用于确保内容完整性）
+  whyItMatters: string;          // 这个方向为什么重要/为什么现在火（用于判断优先级）
+}
+
+/**
+ * 调用Perplexity获取某个关键词方向的：
+ * 1. 用户真实搜索问题（核心，直接变选题）
+ * 2. 竞品内容覆盖要点（确保我们的文章不遗漏关键内容）
+ * 3. 方向重要性判断（帮助决定投入优先级）
  *
- * 核心目的：给定一个方向，快速找到用户真的在搜什么，直接变成选题种子
- * 不做分析、不做归因，只要搜索问题列表
- *
- * @param keyword 关键词方向（如 "blood pressure", "cholesterol"）
- * @param existingTopics 我们已有的相关文章标题（避免推荐重复方向）
+ * 一次调用获取全部信息，成本不增加
  */
 export async function discoverUserQuestions(
   keyword: string,
   existingTopics: string[] = []
-): Promise<string[]> {
+): Promise<PerplexityInsight> {
   const PERPLEXITY_API_KEY = process.env.PERPLEXITY_API_KEY;
   if (!PERPLEXITY_API_KEY) {
     console.warn('⚠️  PERPLEXITY_API_KEY not set');
-    return [];
+    return { questions: [], competitorCoverage: '', whyItMatters: '' };
   }
 
   const existingContext = existingTopics.length > 0
-    ? `\n\nWe already have articles about:\n${existingTopics.slice(0, 20).map(t => `- ${t}`).join('\n')}\n\nDo NOT repeat these topics. Only suggest questions we haven't covered.`
+    ? `\n\nWe already have articles about:\n${existingTopics.slice(0, 20).map(t => `- ${t}`).join('\n')}\n\nDo NOT repeat these topics. Focus on questions and angles we haven't covered.`
     : '';
 
   try {
@@ -328,21 +336,27 @@ export async function discoverUserQuestions(
         messages: [
           {
             role: 'system',
-            content: 'You search the real web and return what people actually search for. Output a JSON array of strings only. No explanation.',
+            content: 'You are a health content researcher. Search the real web and return structured findings. Output valid JSON only.',
           },
           {
             role: 'user',
-            content: `What are the top 15 specific questions that adults (age 35+) search on Google about "${keyword}"?
+            content: `Research what adults (age 35+) are searching about "${keyword}" on the web right now.
 
-Include:
-- Questions from Google's "People Also Ask" section
-- Common questions from Reddit, health forums, WebMD Q&A
-- Both basic questions (newly concerned people) and advanced questions (people already managing the condition)
-- Questions that include specific numbers, ages, or scenarios (e.g., "is 140/90 dangerous at age 45")
+Find these 3 things:
+
+1. QUESTIONS (most important): The top 15 specific questions real people ask on Google, Reddit, health forums about "${keyword}". Include questions with specific numbers, ages, scenarios (e.g. "is 140/90 dangerous at 45"). Mix basic questions (newly concerned) and advanced questions (already managing).
+
+2. COMPETITOR COVERAGE: In 2-3 sentences, what do the top-ranking Google articles about "${keyword}" for adults all cover? What key points must a new article include to compete?
+
+3. WHY IT MATTERS: In 1-2 sentences, why is this topic trending or important right now? Any recent studies, guideline changes, or seasonal factors?
 ${existingContext}
 
-Output a JSON array of 15 question strings only:
-["question 1", "question 2", ...]`,
+Output JSON only:
+{
+  "questions": ["question 1", "question 2", ...15 questions],
+  "competitorCoverage": "What top articles all cover...",
+  "whyItMatters": "Why this matters now..."
+}`,
           },
         ],
         temperature: 0.2,
@@ -352,41 +366,38 @@ Output a JSON array of 15 question strings only:
     if (!response.ok) {
       const errorText = await response.text();
       console.warn(`⚠️  Perplexity API error: ${response.status} ${errorText.substring(0, 100)}`);
-      return [];
+      return { questions: [], competitorCoverage: '', whyItMatters: '' };
     }
 
     const data = await response.json();
     const content = data.choices?.[0]?.message?.content || '';
+    const empty: PerplexityInsight = { questions: [], competitorCoverage: '', whyItMatters: '' };
 
     try {
-      // 尝试解析JSON数组
-      const arrayMatch = content.match(/\[[\s\S]*\]/);
-      if (arrayMatch) {
-        const parsed = JSON.parse(arrayMatch[0]);
-        return Array.isArray(parsed) ? parsed.filter((q: any) => typeof q === 'string' && q.length > 10) : [];
-      }
-      // 尝试解析含questions字段的对象
       const objMatch = content.match(/\{[\s\S]*\}/);
       if (objMatch) {
         const parsed = JSON.parse(objMatch[0]);
-        return (parsed.questions || []).filter((q: any) => typeof q === 'string' && q.length > 10);
+        return {
+          questions: (parsed.questions || []).filter((q: any) => typeof q === 'string' && q.length > 10),
+          competitorCoverage: parsed.competitorCoverage || '',
+          whyItMatters: parsed.whyItMatters || '',
+        };
       }
-      return [];
+      // 降级：尝试提取数组
+      const arrayMatch = content.match(/\[[\s\S]*\]/);
+      if (arrayMatch) {
+        return {
+          questions: JSON.parse(arrayMatch[0]).filter((q: any) => typeof q === 'string' && q.length > 10),
+          competitorCoverage: '',
+          whyItMatters: '',
+        };
+      }
+      return empty;
     } catch {
-      return [];
+      return empty;
     }
   } catch (err: any) {
     console.warn(`⚠️  Perplexity call failed: ${err.message}`);
-    return [];
+    return { questions: [], competitorCoverage: '', whyItMatters: '' };
   }
-}
-
-/**
- * 兼容别名（旧接口）
- */
-export async function deepDiveWithPerplexity(
-  direction: string
-): Promise<{ questions: string[]; competitorInsights: string; suggestedTopics: string[] }> {
-  const questions = await discoverUserQuestions(direction);
-  return { questions, competitorInsights: '', suggestedTopics: [] };
 }
