@@ -16,7 +16,7 @@ import 'dotenv/config';
 import fs from 'fs';
 import path from 'path';
 import { GSCClient } from '../lib/seo/gsc-client';
-import { convertUrgentQueryToTopic } from '../lib/seo/llm-analyzer';
+import { convertUrgentQueryToTopic, discoverUserQuestions } from '../lib/seo/llm-analyzer';
 import { generateEmbeddingForText } from '../lib/embeddings/qwen';
 import { cosineSimilarity } from '../lib/embeddings/similarity';
 import { loadArticleEmbeddings } from '../lib/embeddings/internal-linking';
@@ -229,18 +229,37 @@ async function main() {
       const highAlerts = dailyAnalysis.alerts.filter((a: any) => a.score >= 50);
 
       if (highAlerts.length > 0) {
-        console.log(`\n🚨 ${highAlerts.length} high-score alerts → converting to topics via LLM`);
+        console.log(`\n🚨 ${highAlerts.length} high-score alerts → Perplexity + LLM processing`);
 
         const urgentTopics = [];
         for (const alert of highAlerts.slice(0, 3)) {
-          console.log(`   Converting: "${alert.query}"...`);
+          console.log(`\n   Processing: "${alert.query}" (${alert.type}, score ${alert.score})`);
+
+          // Step 1: Perplexity查真实搜索问题（了解这个方向用户真正关心什么）
+          console.log(`   🌐 Perplexity: discovering real questions...`);
+          let perplexityQuestions: string[] = [];
+          try {
+            const pResult = await discoverUserQuestions(alert.query);
+            perplexityQuestions = pResult.questions.slice(0, 5);
+            if (perplexityQuestions.length > 0) {
+              console.log(`      → ${perplexityQuestions.length} real questions found`);
+              console.log(`      → Sample: "${perplexityQuestions[0]}"`);
+            }
+          } catch (pErr: any) {
+            console.warn(`      ⚠️  Perplexity failed: ${pErr.message}`);
+          }
+
+          // Step 2: LLM分析原因 + 生成完整选题（基于Perplexity的真实数据）
+          console.log(`   🧠 LLM: analyzing + generating topic...`);
           try {
             const topic = await convertUrgentQueryToTopic({
               query: alert.query,
               impressions: alert.recentImpressions || 0,
               position: alert.recentPosition || 0,
               alertType: alert.type,
-              alertReason: alert.reason,
+              alertReason: alert.reason + (perplexityQuestions.length > 0
+                ? `. Real user questions: ${perplexityQuestions.join('; ')}`
+                : ''),
             });
 
             urgentTopics.push({
@@ -248,25 +267,25 @@ async function main() {
               query: alert.query,
               type: alert.type,
               score: alert.score,
+              perplexityQuestions,
               createdAt: new Date().toISOString(),
               expiresAt: new Date(Date.now() + 3 * 24 * 60 * 60 * 1000).toISOString(),
             });
 
             console.log(`   → Title: "${topic.title}"`);
             console.log(`   → PK: "${topic.primaryKeyword}"`);
-            console.log(`   → Reason: ${topic.reasoning}`);
           } catch (err: any) {
-            console.warn(`   ⚠️  LLM conversion failed for "${alert.query}": ${err.message}`);
-            // 降级：直接用搜索词
+            console.warn(`   ⚠️  LLM failed: ${err.message}`);
             urgentTopics.push({
-              title: `${alert.query}: What Seniors Need to Know`,
+              title: `${alert.query}: What You Need to Know`,
               primaryKeyword: alert.query,
-              description: `Learn about ${alert.query} — practical guidance for adults 50+.`,
+              description: `Learn about ${alert.query} — practical guidance for adults 35+.`,
               topicCluster: 'trending',
               reasoning: alert.reason,
               query: alert.query,
               type: alert.type,
               score: alert.score,
+              perplexityQuestions,
               createdAt: new Date().toISOString(),
               expiresAt: new Date(Date.now() + 3 * 24 * 60 * 60 * 1000).toISOString(),
             });

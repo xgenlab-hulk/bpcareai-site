@@ -407,12 +407,43 @@ async function generateArticles(
         console.log(`   📊 Max similarity: ${maxSimilarity.toFixed(3)} (threshold: ${DEDUP_SIMILARITY_THRESHOLD})`);
 
         if (maxSimilarity > DEDUP_SIMILARITY_THRESHOLD) {
-          console.log(`   🚫 DISCARDED — too similar to "${mostSimilarSlug}" (${maxSimilarity.toFixed(3)})`);
-          console.log(`   ↩️  Will try next topic from backup pool\n`);
-          dedupDiscarded++;
-          // 标记这个选题也要从planned-topics中移除（避免重复消费）
-          generatedSlugs.add(slugify(topic.title));
-          continue;
+          console.log(`   ⚠️  Too similar to "${mostSimilarSlug}" (${maxSimilarity.toFixed(3)})`);
+          console.log(`   🔄 Regenerating with different angle...`);
+
+          // 保留选题，但告诉LLM换角度重新写
+          const retryTopic = {
+            ...topic,
+            title: topic.title,
+            description: `Write a DIFFERENT angle from the existing article "${mostSimilarSlug}". ${topic.description}`,
+          };
+
+          try {
+            const retryArticle = await generateArticleMarkdown(retryTopic);
+
+            // 再次去重
+            const { maxSimilarity: retrySim } = await checkArticleDuplicate(
+              retryArticle.frontmatter.title,
+              retryArticle.frontmatter.description,
+              retryArticle.frontmatter.primaryKeyword,
+              existingEmbeddings
+            );
+
+            if (retrySim > DEDUP_SIMILARITY_THRESHOLD) {
+              console.log(`   🚫 Retry still too similar (${retrySim.toFixed(3)}), skipping this topic\n`);
+              dedupDiscarded++;
+              generatedSlugs.add(slugify(topic.title));
+              continue;
+            }
+
+            // 重试成功，用新文章替换
+            console.log(`   ✅ Retry passed (${retrySim.toFixed(3)})`);
+            Object.assign(article, retryArticle);
+          } catch (retryErr: any) {
+            console.log(`   ❌ Retry failed: ${retryErr.message}, skipping\n`);
+            dedupDiscarded++;
+            generatedSlugs.add(slugify(topic.title));
+            continue;
+          }
         }
         console.log(`   ✅ Dedup passed`);
       }
