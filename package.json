@@ -21,6 +21,7 @@
     "auto:generate": "tsx scripts/auto-generate-daily.ts",
     "seo:daily": "tsx scripts/gsc-daily-analysis.ts",
     "seo:weekly": "tsx scripts/weekly-topic-refresh.ts",
+    "seo:optimize-articles": "tsx scripts/apply-article-optimizations.ts",
     "sync:gsc": "tsx scripts/sync-gsc-data.ts",
     "sync:articles-seo": "tsx scripts/sync-articles-seo.ts",
     "sync:topics-seo": "tsx scripts/sync-topics-seo.ts",

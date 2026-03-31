@@ -17,6 +17,10 @@ import fs from 'fs';
 import path from 'path';
 import { GSCClient } from '../lib/seo/gsc-client';
 import { convertUrgentQueryToTopic } from '../lib/seo/llm-analyzer';
+import { generateEmbeddingForText } from '../lib/embeddings/qwen';
+import { cosineSimilarity } from '../lib/embeddings/similarity';
+import { loadArticleEmbeddings } from '../lib/embeddings/internal-linking';
+import type { ArticleEmbedding } from '../lib/embeddings/types';
 import {
   saveDailyRawData,
   loadRawDataRange,
@@ -269,9 +273,39 @@ async function main() {
           }
         }
 
+        // 去重检查：与已有2209篇文章的embedding对比
+        let existingEmbeddings: ArticleEmbedding[] = [];
+        try {
+          existingEmbeddings = loadArticleEmbeddings();
+        } catch { /* ignore */ }
+
+        const dedupedTopics = [];
+        for (const ut of urgentTopics) {
+          if (existingEmbeddings.length > 0) {
+            try {
+              const inputText = `${ut.title}\n${ut.description}\nPrimary keyword: ${ut.primaryKeyword}`;
+              const emb = await generateEmbeddingForText(inputText);
+              let maxSim = 0;
+              let maxSlug = '';
+              for (const article of existingEmbeddings) {
+                const sim = cosineSimilarity(emb, article.embedding);
+                if (sim > maxSim) { maxSim = sim; maxSlug = article.slug; }
+              }
+              if (maxSim > 0.80) {
+                console.log(`   🚫 Dedup rejected: "${ut.title}" (sim ${maxSim.toFixed(3)} with "${maxSlug.substring(0, 40)}")`);
+                continue;
+              }
+              console.log(`   ✅ Dedup passed: "${ut.title}" (max sim ${maxSim.toFixed(3)})`);
+            } catch (dedupErr: any) {
+              console.warn(`   ⚠️  Dedup check failed: ${dedupErr.message}, keeping topic`);
+            }
+          }
+          dedupedTopics.push(ut);
+        }
+
         const urgentPath = path.join(process.cwd(), 'data', 'seo', 'urgent-topics.json');
-        fs.writeFileSync(urgentPath, JSON.stringify(urgentTopics, null, 2), 'utf8');
-        console.log(`\n   Written ${urgentTopics.length} urgent topics to data/seo/urgent-topics.json`);
+        fs.writeFileSync(urgentPath, JSON.stringify(dedupedTopics, null, 2), 'utf8');
+        console.log(`\n   Written ${dedupedTopics.length} urgent topics (${urgentTopics.length - dedupedTopics.length} rejected by dedup)`);
       } else {
         // 没有高分警报，清理过期的紧急选题
         const urgentPath = path.join(process.cwd(), 'data', 'seo', 'urgent-topics.json');
