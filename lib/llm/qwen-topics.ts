@@ -110,7 +110,7 @@ export async function generateTopicCandidatesForKeyword(
     console.log(`   Required angles: ${angles.join(', ')}`);
   }
 
-  const systemMessage = `You are a health content planner for BPCareAI, a website helping adults aged 50+ manage blood pressure, heart health, and diabetes.
+  const systemMessage = `You are a health content planner for BPCareAI, a website helping adults aged 35+ manage blood pressure, heart health, and diabetes.
 
 Your job: generate article topic ideas that REAL PEOPLE would actually search for on Google.
 

@@ -457,7 +457,7 @@ async function generateArticleBody(
   wordCount: string,
   tone: string
 ): Promise<string> {
-  const systemMessage = `You are a board-certified cardiologist writing patient education articles for adults aged 50 and above on a health website called BPCareAI.
+  const systemMessage = `You are a board-certified cardiologist writing patient education articles for adults aged 35 and above on a health website called BPCareAI.
 
 Your expertise allows you to:
 - Explain complex cardiovascular concepts in plain language that patients actually understand
@@ -514,7 +514,7 @@ Use a bullet list with checkmark format:
 - Place it early — shows you prioritize patient safety over engagement
 
 ## [H2 Section 1: Understanding the Topic]
-- Explain the "why" behind this health topic for the 50+ audience
+- Explain the "why" behind this health topic for adults 35 and above
 - Use at least ONE "plain language (medical term)" bridge, e.g., "blood vessel stiffness (arterial stiffness)"
 - Include at least 1 specific statistic or research finding with source
 - Address 1-2 common misconceptions
@@ -628,7 +628,7 @@ async function optimizeMetadata(
 
   const systemMessage = `You are an SEO and GEO (Generative Engine Optimization) specialist. Your job is to optimize article metadata for maximum search engine visibility and AI citability.
 
-You optimize for a health website targeting adults aged 50+ about cardiovascular health, blood pressure, diabetes, and heart disease.`;
+You optimize for a health website targeting adults aged 35+ about cardiovascular health, blood pressure, diabetes, and heart disease.`;
 
   const userMessage = `Based on the following article content, generate optimized metadata.
 
@@ -729,7 +729,7 @@ OUTPUT FORMAT (JSON only, no explanation)
     return {
       primaryKeyword: topic.primaryKeyword,
       title: topic.title.length > 70 ? topic.title.substring(0, 67) + '...' : topic.title,
-      description: topic.description || `Learn about ${topic.primaryKeyword} — practical, evidence-based guidance for adults 50 and above.`,
+      description: topic.description || `Learn about ${topic.primaryKeyword} — practical, evidence-based guidance for adults 35 and above.`,
       slug: slugify(topic.title).substring(0, 60),
     };
   }

@@ -75,7 +75,7 @@ export async function runWeeklyDeepAnalysis(input: WeeklyAnalysisInput): Promise
     messages: [
       {
         role: 'system',
-        content: `You are a senior SEO/GEO strategist analyzing Google Search Console data for BPCareAI, a health website for adults 50+.
+        content: `You are a senior SEO/GEO strategist analyzing Google Search Console data for BPCareAI, a health website for adults 35+.
 
 Your analysis must be:
 - Data-driven: cite specific search terms, numbers, and percentages
@@ -168,7 +168,7 @@ export async function convertUrgentQueryToTopic(input: UrgentTopicInput): Promis
     messages: [
       {
         role: 'system',
-        content: `You are a health content planner for BPCareAI (adults 50+ cardiovascular health).
+        content: `You are a health content planner for BPCareAI (adults 35+ cardiovascular health).
 A trending search query has been detected in Google Search Console. Your job is to convert this search query into a complete article topic that matches what the user actually wants.
 
 Rules:
@@ -244,7 +244,7 @@ export async function generateArticleOptimizations(
     messages: [
       {
         role: 'system',
-        content: `You are an SEO specialist optimizing article metadata for BPCareAI (health website for adults 50+).
+        content: `You are an SEO specialist optimizing article metadata for BPCareAI (health website for adults 35+).
 
 These articles have high Google impressions but very low click-through rates. Your job is to rewrite their titles and descriptions to match what users actually search for.
 
@@ -290,25 +290,31 @@ For each article, output a JSON array:
 }
 
 // ============================================================
-// Perplexity接口 — 深挖内容缺口
+// Perplexity — 发现用户真实搜索问题
 // ============================================================
 
 /**
- * 调用Perplexity API深挖某个内容方向的真实用户需求
+ * 调用Perplexity获取某个关键词方向的真实用户搜索问题
  *
- * 使用场景：
- * 1. 每周分析发现内容缺口后，深挖用户真实搜索问题
- * 2. 选题生成前，获取真实搜索数据作为种子
- * 3. 紧急选题转化时，了解趋势背景
+ * 核心目的：给定一个方向，快速找到用户真的在搜什么，直接变成选题种子
+ * 不做分析、不做归因，只要搜索问题列表
+ *
+ * @param keyword 关键词方向（如 "blood pressure", "cholesterol"）
+ * @param existingTopics 我们已有的相关文章标题（避免推荐重复方向）
  */
-export async function deepDiveWithPerplexity(
-  direction: string
-): Promise<{ questions: string[]; competitorInsights: string; suggestedTopics: string[] }> {
+export async function discoverUserQuestions(
+  keyword: string,
+  existingTopics: string[] = []
+): Promise<string[]> {
   const PERPLEXITY_API_KEY = process.env.PERPLEXITY_API_KEY;
   if (!PERPLEXITY_API_KEY) {
-    console.warn('⚠️  Perplexity API key not set, skipping deep dive');
-    return { questions: [], competitorInsights: '', suggestedTopics: [] };
+    console.warn('⚠️  PERPLEXITY_API_KEY not set');
+    return [];
   }
+
+  const existingContext = existingTopics.length > 0
+    ? `\n\nWe already have articles about:\n${existingTopics.slice(0, 20).map(t => `- ${t}`).join('\n')}\n\nDo NOT repeat these topics. Only suggest questions we haven't covered.`
+    : '';
 
   try {
     const response = await fetch('https://api.perplexity.ai/chat/completions', {
@@ -322,56 +328,65 @@ export async function deepDiveWithPerplexity(
         messages: [
           {
             role: 'system',
-            content: 'You are a health content researcher specializing in cardiovascular health for adults 50+. Search the web for real user questions and competitor content. Output valid JSON only.',
+            content: 'You search the real web and return what people actually search for. Output a JSON array of strings only. No explanation.',
           },
           {
             role: 'user',
-            content: `Research this health topic for adults aged 50 and above: "${direction}"
+            content: `What are the top 15 specific questions that adults (age 35+) search on Google about "${keyword}"?
 
-Find:
-1. The top 10 questions real people ask about this topic on Google, Reddit, health forums, and Q&A sites
-2. What the top-ranking health articles cover about this topic — key points that a new article should also address
-3. 5 specific article topic suggestions that would fill gaps in existing online content about this topic for seniors
+Include:
+- Questions from Google's "People Also Ask" section
+- Common questions from Reddit, health forums, WebMD Q&A
+- Both basic questions (newly concerned people) and advanced questions (people already managing the condition)
+- Questions that include specific numbers, ages, or scenarios (e.g., "is 140/90 dangerous at age 45")
+${existingContext}
 
-Output JSON only:
-{
-  "questions": ["question 1", "question 2", ...],
-  "competitorInsights": "Summary of what top articles cover and what's missing",
-  "suggestedTopics": ["topic suggestion 1", "topic suggestion 2", ...]
-}`,
+Output a JSON array of 15 question strings only:
+["question 1", "question 2", ...]`,
           },
         ],
-        temperature: 0.3,
+        temperature: 0.2,
       }),
     });
 
     if (!response.ok) {
       const errorText = await response.text();
       console.warn(`⚠️  Perplexity API error: ${response.status} ${errorText.substring(0, 100)}`);
-      return { questions: [], competitorInsights: '', suggestedTopics: [] };
+      return [];
     }
 
     const data = await response.json();
     const content = data.choices?.[0]?.message?.content || '';
 
     try {
-      const jsonMatch = content.match(/\{[\s\S]*\}/);
-      const parsed = JSON.parse(jsonMatch ? jsonMatch[0] : content);
-      return {
-        questions: parsed.questions || [],
-        competitorInsights: parsed.competitorInsights || '',
-        suggestedTopics: parsed.suggestedTopics || [],
-      };
+      // 尝试解析JSON数组
+      const arrayMatch = content.match(/\[[\s\S]*\]/);
+      if (arrayMatch) {
+        const parsed = JSON.parse(arrayMatch[0]);
+        return Array.isArray(parsed) ? parsed.filter((q: any) => typeof q === 'string' && q.length > 10) : [];
+      }
+      // 尝试解析含questions字段的对象
+      const objMatch = content.match(/\{[\s\S]*\}/);
+      if (objMatch) {
+        const parsed = JSON.parse(objMatch[0]);
+        return (parsed.questions || []).filter((q: any) => typeof q === 'string' && q.length > 10);
+      }
+      return [];
     } catch {
-      // JSON解析失败，尝试从文本中提取有用信息
-      return {
-        questions: [],
-        competitorInsights: content.substring(0, 500),
-        suggestedTopics: [],
-      };
+      return [];
     }
   } catch (err: any) {
-    console.warn(`⚠️  Perplexity API call failed: ${err.message}`);
-    return { questions: [], competitorInsights: '', suggestedTopics: [] };
+    console.warn(`⚠️  Perplexity call failed: ${err.message}`);
+    return [];
   }
+}
+
+/**
+ * 兼容别名（旧接口）
+ */
+export async function deepDiveWithPerplexity(
+  direction: string
+): Promise<{ questions: string[]; competitorInsights: string; suggestedTopics: string[] }> {
+  const questions = await discoverUserQuestions(direction);
+  return { questions, competitorInsights: '', suggestedTopics: [] };
 }
