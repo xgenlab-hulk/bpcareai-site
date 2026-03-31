@@ -19,7 +19,7 @@ import path from 'path';
 import { getStoredDates, loadRawDataRange, saveAnalysis } from '../lib/seo/data-store';
 import { scoreTopics, type TopicCandidate } from '../lib/seo/topic-scorer';
 import { generateTopicCandidatesForKeyword } from '../lib/llm/qwen-topics';
-import { runWeeklyDeepAnalysis, type WeeklyAnalysisInput } from '../lib/seo/llm-analyzer';
+import { runWeeklyDeepAnalysis, deepDiveWithPerplexity, type WeeklyAnalysisInput } from '../lib/seo/llm-analyzer';
 import {
   getTopicsInventory,
   getTotalTopicsCount,
@@ -154,7 +154,40 @@ async function main() {
   }
 
   // ========================================
-  // Step 4: 生成新选题候选
+  // Step 3.5: Perplexity深挖各方向的真实搜索需求
+  // ========================================
+  console.log('🔍 Perplexity deep dive — discovering real user questions...\n');
+
+  const perplexityInsights = new Map<string, { questions: string[]; suggestedTopics: string[] }>();
+  const configFile = JSON.parse(fs.readFileSync('automation-config.json', 'utf8'));
+  const coreTopicsList = configFile.topicManagement.coreTopics || [];
+
+  // 对P1和P2方向调Perplexity（P3方向跳过，节省成本）
+  const priorityTopics = coreTopicsList.filter((ct: any) => ct.priority === 'P1' || ct.priority === 'P2');
+
+  for (const ct of priorityTopics) {
+    const direction = `${ct.keyword} management and prevention for adults over 60`;
+    console.log(`   🌐 Researching: "${ct.keyword}"...`);
+    try {
+      const result = await deepDiveWithPerplexity(direction);
+      perplexityInsights.set(ct.keyword, {
+        questions: result.questions,
+        suggestedTopics: result.suggestedTopics,
+      });
+      console.log(`      → ${result.questions.length} real user questions found`);
+      console.log(`      → ${result.suggestedTopics.length} topic suggestions`);
+      if (result.questions.length > 0) {
+        console.log(`      Sample: "${result.questions[0]}"`);
+      }
+    } catch (err: any) {
+      console.warn(`      ⚠️  Failed: ${err.message}`);
+    }
+    await new Promise(r => setTimeout(r, 500)); // 速率限制
+  }
+  console.log('');
+
+  // ========================================
+  // Step 4: 生成新选题候选（注入Perplexity发现的真实搜索问题）
   // ========================================
   const indexPath = path.join(process.cwd(), 'data', 'articles-index.json');
   const articles = JSON.parse(fs.readFileSync(indexPath, 'utf8'));
@@ -185,13 +218,30 @@ async function main() {
     console.log(`\n🤖 Generating ${label} topics (${totalCount} total, ${perTopic}/category)...\n`);
 
     for (const ct of topics) {
+      // 注入Perplexity发现的真实搜索问题到angles中
+      const pInsights = perplexityInsights.get(ct.keyword);
+      const enrichedAngles = [...(ct.angles || [])];
+      if (pInsights && pInsights.questions.length > 0) {
+        // 把Perplexity发现的问题转化为角度提示
+        const realQuestions = pInsights.questions.slice(0, 5).map((q: string) =>
+          `Real user question: "${q}"`
+        );
+        enrichedAngles.push(...realQuestions);
+        console.log(`   ${ct.keyword}: enriched with ${realQuestions.length} Perplexity questions`);
+      }
+      if (pInsights && pInsights.suggestedTopics.length > 0) {
+        enrichedAngles.push(...pInsights.suggestedTopics.slice(0, 3).map((t: string) =>
+          `Content gap: "${t}"`
+        ));
+      }
+
       try {
         const candidates = await generateTopicCandidatesForKeyword({
           coreKeyword: ct.keyword,
           existingTitles,
           existingPKs,
           alreadyPlannedTitles: [...plannedTitles, ...allCandidates.map(c => c.title)],
-          angles: ct.angles || [],
+          angles: enrichedAngles,
           batchSize: perTopic,
         });
 
@@ -315,6 +365,13 @@ async function main() {
       topicPriorities: llmAnalysis.topicPriorities?.substring(0, 500),
       articleOptimizations: llmAnalysis.articleOptimizations?.length || 0,
     } : null,
+    perplexityInsights: Object.fromEntries(
+      Array.from(perplexityInsights.entries()).map(([k, v]) => [k, {
+        questionsFound: v.questions.length,
+        topQuestions: v.questions.slice(0, 5),
+        suggestedTopics: v.suggestedTopics.slice(0, 3),
+      }])
+    ),
     topTopics: topScored.slice(0, 10).map(t => ({
       title: t.title, pk: t.primaryKeyword, score: t.score,
       breakdown: t.breakdown, reasoning: t.reasoning,

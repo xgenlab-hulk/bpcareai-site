@@ -290,62 +290,88 @@ For each article, output a JSON array:
 }
 
 // ============================================================
-// [预留] Perplexity接口 — 深挖内容缺口
+// Perplexity接口 — 深挖内容缺口
 // ============================================================
 
 /**
  * 调用Perplexity API深挖某个内容方向的真实用户需求
  *
- * 使用场景：每周分析发现内容缺口后，用Perplexity获取：
- * - 用户在这个方向最常搜的问题（People Also Ask）
- * - 竞品在这个方向的内容覆盖
- * - 相关的长尾搜索词
- *
- * @param direction 内容方向描述（如 "cholesterol-lowering soups for seniors"）
- * @returns 真实搜索问题列表 + 竞品分析
+ * 使用场景：
+ * 1. 每周分析发现内容缺口后，深挖用户真实搜索问题
+ * 2. 选题生成前，获取真实搜索数据作为种子
+ * 3. 紧急选题转化时，了解趋势背景
  */
 export async function deepDiveWithPerplexity(
   direction: string
 ): Promise<{ questions: string[]; competitorInsights: string; suggestedTopics: string[] }> {
-  // TODO: 需要 Perplexity API key
-  // const PERPLEXITY_API_KEY = process.env.PERPLEXITY_API_KEY;
-  // if (!PERPLEXITY_API_KEY) {
-  //   console.warn('Perplexity API key not set, skipping deep dive');
-  //   return { questions: [], competitorInsights: '', suggestedTopics: [] };
-  // }
-  //
-  // const response = await fetch('https://api.perplexity.ai/chat/completions', {
-  //   method: 'POST',
-  //   headers: {
-  //     'Authorization': `Bearer ${PERPLEXITY_API_KEY}`,
-  //     'Content-Type': 'application/json',
-  //   },
-  //   body: JSON.stringify({
-  //     model: 'sonar',
-  //     messages: [
-  //       {
-  //         role: 'system',
-  //         content: 'You are a health content researcher. Search the web for real user questions and competitor content about the given health topic for adults 50+.',
-  //       },
-  //       {
-  //         role: 'user',
-  //         content: `Research this health topic for adults 50+: "${direction}"
-  //
-  //         Find:
-  //         1. The top 10 questions real people ask about this topic (from Google, Reddit, health forums)
-  //         2. What the top-ranking articles cover that a new article should also address
-  //         3. 5 specific article topic suggestions based on gaps in existing content
-  //
-  //         Output JSON: { "questions": [...], "competitorInsights": "...", "suggestedTopics": [...] }`
-  //       }
-  //     ],
-  //     temperature: 0.3,
-  //   }),
-  // });
-  //
-  // const data = await response.json();
-  // return JSON.parse(data.choices[0].message.content);
+  const PERPLEXITY_API_KEY = process.env.PERPLEXITY_API_KEY;
+  if (!PERPLEXITY_API_KEY) {
+    console.warn('⚠️  Perplexity API key not set, skipping deep dive');
+    return { questions: [], competitorInsights: '', suggestedTopics: [] };
+  }
 
-  console.warn('⚠️  Perplexity API not configured. Set PERPLEXITY_API_KEY to enable deep dive.');
-  return { questions: [], competitorInsights: '', suggestedTopics: [] };
+  try {
+    const response = await fetch('https://api.perplexity.ai/chat/completions', {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${PERPLEXITY_API_KEY}`,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        model: 'sonar',
+        messages: [
+          {
+            role: 'system',
+            content: 'You are a health content researcher specializing in cardiovascular health for adults 50+. Search the web for real user questions and competitor content. Output valid JSON only.',
+          },
+          {
+            role: 'user',
+            content: `Research this health topic for adults aged 50 and above: "${direction}"
+
+Find:
+1. The top 10 questions real people ask about this topic on Google, Reddit, health forums, and Q&A sites
+2. What the top-ranking health articles cover about this topic — key points that a new article should also address
+3. 5 specific article topic suggestions that would fill gaps in existing online content about this topic for seniors
+
+Output JSON only:
+{
+  "questions": ["question 1", "question 2", ...],
+  "competitorInsights": "Summary of what top articles cover and what's missing",
+  "suggestedTopics": ["topic suggestion 1", "topic suggestion 2", ...]
+}`,
+          },
+        ],
+        temperature: 0.3,
+      }),
+    });
+
+    if (!response.ok) {
+      const errorText = await response.text();
+      console.warn(`⚠️  Perplexity API error: ${response.status} ${errorText.substring(0, 100)}`);
+      return { questions: [], competitorInsights: '', suggestedTopics: [] };
+    }
+
+    const data = await response.json();
+    const content = data.choices?.[0]?.message?.content || '';
+
+    try {
+      const jsonMatch = content.match(/\{[\s\S]*\}/);
+      const parsed = JSON.parse(jsonMatch ? jsonMatch[0] : content);
+      return {
+        questions: parsed.questions || [],
+        competitorInsights: parsed.competitorInsights || '',
+        suggestedTopics: parsed.suggestedTopics || [],
+      };
+    } catch {
+      // JSON解析失败，尝试从文本中提取有用信息
+      return {
+        questions: [],
+        competitorInsights: content.substring(0, 500),
+        suggestedTopics: [],
+      };
+    }
+  } catch (err: any) {
+    console.warn(`⚠️  Perplexity API call failed: ${err.message}`);
+    return { questions: [], competitorInsights: '', suggestedTopics: [] };
+  }
 }
