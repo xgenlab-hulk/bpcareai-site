@@ -14,6 +14,8 @@ export interface PlannedTopic {
   createdAt: string;
   score?: number;           // 评分（0-100），由weekly-topic-refresh赋值
   scheduledWeek?: string;   // 计划使用的周次（如 "2026-W14"）
+  perplexityQuestions?: string[];  // Perplexity发现的真实搜索问题
+  competitorCoverage?: string;     // 竞品覆盖分析
 }
 
 /**

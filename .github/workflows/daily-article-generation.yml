@@ -1,7 +1,7 @@
 name: Daily Article Generation & Deployment
 
 on:
-  # 每天北京时间 10:00 执行 (UTC 02:00) - DISABLED
+  # 每天北京时间 10:00 执行 (UTC 02:00) - DISABLED until ready
   # schedule:
   #   - cron: '0 2 * * *'
 
@@ -12,6 +12,11 @@ on:
         description: 'Override article count (leave empty for auto-detection based on day)'
         required: false
         type: number
+      skip_gsc:
+        description: 'Skip GSC data pull (use existing data)'
+        required: false
+        type: boolean
+        default: false
 
 # Permissions required for the workflow
 permissions:
@@ -21,6 +26,14 @@ jobs:
   generate-and-deploy:
     runs-on: ubuntu-latest
     timeout-minutes: 120
+
+    env:
+      QWEN_API_KEY: ${{ secrets.QWEN_API_KEY }}
+      PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+      GOOGLE_SEO_CLIENT_ID: ${{ secrets.GOOGLE_SEO_CLIENT_ID }}
+      GOOGLE_SEO_CLIENT_SECRET: ${{ secrets.GOOGLE_SEO_CLIENT_SECRET }}
+      GOOGLE_SEO_REFRESH_TOKEN: ${{ secrets.GOOGLE_SEO_REFRESH_TOKEN }}
+      GSC_SITE_URL: ${{ secrets.GSC_SITE_URL }}
 
     steps:
       - name: Checkout repository
@@ -42,20 +55,26 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
 
-      - name: Run daily article generation
+      # ========================================
+      # Line 1: GSC data pull + urgent topics
+      # ========================================
+      - name: 'Line 1: GSC daily analysis + urgent topics'
+        if: ${{ inputs.skip_gsc != true }}
+        run: |
+          echo "📊 Running GSC daily analysis..."
+          npm run seo:daily || echo "⚠️ GSC analysis failed (non-fatal), continuing..."
+
+      # ========================================
+      # Line 3: Article generation
+      # ========================================
+      - name: 'Line 3: Generate articles'
         env:
-          QWEN_API_KEY: ${{ secrets.QWEN_API_KEY }}
-          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
-          GOOGLE_SEO_CLIENT_ID: ${{ secrets.GOOGLE_SEO_CLIENT_ID }}
-          GOOGLE_SEO_CLIENT_SECRET: ${{ secrets.GOOGLE_SEO_CLIENT_SECRET }}
-          GOOGLE_SEO_REFRESH_TOKEN: ${{ secrets.GOOGLE_SEO_REFRESH_TOKEN }}
-          GSC_SITE_URL: ${{ secrets.GSC_SITE_URL }}
           ARTICLES_COUNT_OVERRIDE: ${{ inputs.articles_count }}
         run: |
           if [ -n "$ARTICLES_COUNT_OVERRIDE" ]; then
-            echo "Starting daily article generation with override count: $ARTICLES_COUNT_OVERRIDE..."
+            echo "🎯 Generating articles with override count: $ARTICLES_COUNT_OVERRIDE..."
           else
-            echo "Starting daily article generation with auto-detection..."
+            echo "🎯 Generating articles with auto-detection..."
           fi
           npm run auto:generate
 
@@ -64,20 +83,13 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          # Add all generated files
           git add -A
 
-          # Check if there are changes to commit
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            # Get current date for commit message
             TODAY=$(date +'%Y-%m-%d')
-
-            # Count new articles (changed .md files in content/articles/)
             NEW_ARTICLES=$(git diff --staged --name-only | grep -c "content/articles/.*\.md" || true)
-
-            # Create commit message
             COMMIT_MSG="chore: daily generation - ${TODAY} - ${NEW_ARTICLES} articles [skip ci]"
 
             git commit -m "$COMMIT_MSG"
@@ -91,17 +103,24 @@ jobs:
         run: |
           echo "## Daily Generation Report - $(date +'%Y-%m-%d')" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "✅ **Status**: Generation completed" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
 
-          # Count total articles
           TOTAL_ARTICLES=$(find content/articles -name "*.md" | wc -l)
           echo "📊 **Total articles**: ${TOTAL_ARTICLES}" >> $GITHUB_STEP_SUMMARY
 
-          # Check topic inventory
-          if [ -f "data/planned-topics-blood-pressure.json" ]; then
-            BP_COUNT=$(cat data/planned-topics-blood-pressure.json | grep -c "title" || echo "0")
-            echo "📚 **Blood pressure topics remaining**: ${BP_COUNT}" >> $GITHUB_STEP_SUMMARY
+          # Topic inventory
+          TOPIC_COUNT=0
+          for f in data/planned-topics-*.json; do
+            if [ -f "$f" ]; then
+              COUNT=$(grep -c '"title"' "$f" || echo "0")
+              TOPIC_COUNT=$((TOPIC_COUNT + COUNT))
+            fi
+          done
+          echo "📚 **Topics remaining**: ${TOPIC_COUNT}" >> $GITHUB_STEP_SUMMARY
+
+          # Urgent topics
+          if [ -f "data/seo/urgent-topics.json" ]; then
+            URGENT=$(grep -c '"query"' data/seo/urgent-topics.json || echo "0")
+            echo "🚨 **Urgent topics**: ${URGENT}" >> $GITHUB_STEP_SUMMARY
           fi
 
           echo "" >> $GITHUB_STEP_SUMMARY
@@ -113,5 +132,4 @@ jobs:
           echo "## ❌ Daily Generation Failed" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "Please check the logs for details." >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
           echo "**Date**: $(date +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY

@@ -384,7 +384,8 @@ async function main() {
     // 保留的旧选题（score≥30）
     const kept = item.topics.filter(t => (t.score || 0) >= 30);
 
-    // 匹配的新选题
+    // 匹配的新选题（附带该方向的Perplexity数据）
+    const pData = perplexityData.get(item.topic);
     const newTopics: PlannedTopic[] = topScored
       .filter(t => {
         const text = `${t.primaryKeyword} ${t.title}`.toLowerCase();
@@ -399,6 +400,10 @@ async function main() {
         createdAt: new Date().toISOString(),
         score: t.score,
         scheduledWeek: nextWeek,
+        ...(pData && pData.questions.length > 0 ? {
+          perplexityQuestions: pData.questions.slice(0, 5),
+          competitorCoverage: pData.competitorCoverage || undefined,
+        } : {}),
       }));
 
     const combined = [...kept, ...newTopics];
