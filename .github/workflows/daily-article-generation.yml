@@ -1,9 +1,9 @@
 name: Daily Article Generation & Deployment
 
 on:
-  # 每天北京时间 10:00 执行 (UTC 02:00) - DISABLED until ready
-  # schedule:
-  #   - cron: '0 2 * * *'
+  # 每天北京时间 10:00 执行 (UTC 02:00)
+  schedule:
+    - cron: '0 2 * * *'
 
   # 支持手动触发
   workflow_dispatch:
@@ -59,7 +59,7 @@ jobs:
       # Line 1: GSC data pull + urgent topics
       # ========================================
       - name: 'Line 1: GSC daily analysis + urgent topics'
-        if: ${{ inputs.skip_gsc != true }}
+        if: ${{ github.event.inputs.skip_gsc != 'true' }}
         run: |
           echo "📊 Running GSC daily analysis..."
           npm run seo:daily || echo "⚠️ GSC analysis failed (non-fatal), continuing..."

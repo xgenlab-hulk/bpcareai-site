@@ -1,9 +1,9 @@
 name: Weekly Topic Refresh (Line 2)
 
 on:
-  # 每周六北京时间 09:00 执行 (UTC 01:00) - DISABLED until ready
-  # schedule:
-  #   - cron: '0 1 * * 6'
+  # 每周六北京时间 09:00 执行 (UTC 01:00)
+  schedule:
+    - cron: '0 1 * * 6'
 
   # 支持手动触发
   workflow_dispatch:
