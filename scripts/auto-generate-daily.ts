@@ -291,13 +291,14 @@ function loadUrgentTopics(): TopicWithSource[] {
     return data
       .filter((t: any) => t.expiresAt > now)
       .map((t: any) => ({
-        title: `Article about: ${t.query}`,
-        description: t.reason,
-        primaryKeyword: t.suggestedPK,
-        topicCluster: 'gsc-trending',
+        title: t.title || `Article about: ${t.query}`,
+        description: t.description || t.reason || '',
+        primaryKeyword: t.primaryKeyword || t.query,
+        topicCluster: t.topicCluster || 'gsc-trending',
         coreKeyword: t.query,
         createdAt: t.createdAt,
         source: 'gsc-urgent' as const,
+        perplexityQuestions: t.perplexityQuestions || [],
       }));
   } catch {
     return [];

@@ -45,6 +45,11 @@ jobs:
       - name: Run daily article generation
         env:
           QWEN_API_KEY: ${{ secrets.QWEN_API_KEY }}
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+          GOOGLE_SEO_CLIENT_ID: ${{ secrets.GOOGLE_SEO_CLIENT_ID }}
+          GOOGLE_SEO_CLIENT_SECRET: ${{ secrets.GOOGLE_SEO_CLIENT_SECRET }}
+          GOOGLE_SEO_REFRESH_TOKEN: ${{ secrets.GOOGLE_SEO_REFRESH_TOKEN }}
+          GSC_SITE_URL: ${{ secrets.GSC_SITE_URL }}
           ARTICLES_COUNT_OVERRIDE: ${{ inputs.articles_count }}
         run: |
           if [ -n "$ARTICLES_COUNT_OVERRIDE" ]; then

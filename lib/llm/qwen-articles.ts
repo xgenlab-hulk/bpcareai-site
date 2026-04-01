@@ -18,6 +18,8 @@ export interface PlannedTopic {
   topicCluster: string;
   coreKeyword: string;
   createdAt: string;
+  perplexityQuestions?: string[];
+  competitorCoverage?: string;
 }
 
 /**
@@ -472,12 +474,25 @@ Your writing principles:
 - AI-quotable: write key statements as self-contained, fact-rich sentences that AI systems can directly cite
 - Authority with warmth: sound like a doctor who actually listens, not a textbook`;
 
+  // Build optional Perplexity context block
+  let perplexityContext = '';
+  if (topic.perplexityQuestions?.length || topic.competitorCoverage) {
+    const parts: string[] = [];
+    if (topic.competitorCoverage) {
+      parts.push(`COMPETITOR COVERAGE (what top-ranking articles already cover — differentiate from this):\n${topic.competitorCoverage}`);
+    }
+    if (topic.perplexityQuestions?.length) {
+      parts.push(`REAL USER QUESTIONS (address at least 3 of these in your article):\n${topic.perplexityQuestions.map((q, i) => `${i + 1}. ${q}`).join('\n')}`);
+    }
+    perplexityContext = `\n═══════════════════════════════════════\nSEARCH INTELLIGENCE (from real web data)\n═══════════════════════════════════════\n\n${parts.join('\n\n')}\n`;
+  }
+
   const userMessage = `Write a comprehensive, SEO-optimized health article about:
 
 Topic: ${topic.title}
 Primary Keyword: ${topic.primaryKeyword}
 Core Area: ${topic.coreKeyword}
-
+${perplexityContext}
 Requirements:
 - Length: ${wordCount} words (MINIMUM 1200 words, do not write less)
 - Tone: ${tone}

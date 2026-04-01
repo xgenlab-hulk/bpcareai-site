@@ -25,6 +25,10 @@ import {
   getTotalTopicsCount,
   type PlannedTopic,
 } from '../lib/topics/manager';
+import { generateEmbeddingForText } from '../lib/embeddings/qwen';
+import { cosineSimilarity, buildTopicInputText } from '../lib/embeddings/similarity';
+import { loadArticleEmbeddings } from '../lib/embeddings/internal-linking';
+import type { ArticleEmbedding } from '../lib/embeddings/types';
 
 const WEEKLY_TARGET = 35; // 每周目标选题数（7天 x 5篇/天）
 const DAILY_TARGET = 5;
@@ -140,7 +144,7 @@ async function main() {
         topPages: gscPages,
         monthlyTrend: `${storedDates.length} days of GSC data available`,
         currentTopicLibrary: `${currentTotal} topics across ${inventory.filter(i => i.count > 0).length} categories`,
-        siteInfo: 'BPCareAI - 50+老年人心血管健康网站, 2209篇文章',
+        siteInfo: 'BPCareAI - cardiovascular health website for adults 35+, 2200+ articles',
       });
       console.log('   ✅ Analysis complete\n');
 
@@ -281,8 +285,72 @@ async function main() {
   console.log(`\n📊 Scoring ${allCandidates.length} candidates...\n`);
   const scored = scoreTopics(allCandidates);
 
-  // 取需要的数量
-  const topScored = scored.slice(0, toGenerate);
+  // 取需要的数量（多取一些，去重后可能减少）
+  const topScoredRaw = scored.slice(0, toGenerate + 10);
+
+  // ========================================
+  // Step 5.5: Embedding去重（与已发布文章对比）
+  // ========================================
+  console.log(`\n🔍 Embedding dedup: checking ${topScoredRaw.length} candidates against published articles...\n`);
+
+  let existingEmbeddings: ArticleEmbedding[] = [];
+  try {
+    existingEmbeddings = loadArticleEmbeddings();
+  } catch { /* ignore */ }
+
+  const topScored = [];
+  const TOPIC_DEDUP_THRESHOLD = 0.85;
+
+  if (existingEmbeddings.length > 0) {
+    const acceptedEmbeddings: number[][] = [];
+
+    for (const candidate of topScoredRaw) {
+      if (topScored.length >= toGenerate) break;
+
+      try {
+        const text = buildTopicInputText({
+          title: candidate.title,
+          description: candidate.description,
+          primaryKeyword: candidate.primaryKeyword,
+        });
+        const emb = await generateEmbeddingForText(text);
+
+        // Check vs published articles
+        let maxSim = 0;
+        let maxSlug = '';
+        for (const article of existingEmbeddings) {
+          const sim = cosineSimilarity(emb, article.embedding);
+          if (sim > maxSim) { maxSim = sim; maxSlug = article.slug; }
+        }
+
+        // Check vs already accepted in this batch
+        for (const accepted of acceptedEmbeddings) {
+          const sim = cosineSimilarity(emb, accepted);
+          if (sim > maxSim) { maxSim = sim; maxSlug = '(batch duplicate)'; }
+        }
+
+        if (maxSim > TOPIC_DEDUP_THRESHOLD) {
+          console.log(`   🚫 Dedup: "${candidate.title.substring(0, 45)}..." (sim ${maxSim.toFixed(3)} with "${maxSlug.substring(0, 30)}")`);
+          continue;
+        }
+
+        topScored.push(candidate);
+        acceptedEmbeddings.push(emb);
+      } catch (err: any) {
+        // On embedding failure, keep the topic
+        topScored.push(candidate);
+        console.warn(`   ⚠️  Dedup check failed for "${candidate.title.substring(0, 40)}": ${err.message}, keeping`);
+      }
+
+      await new Promise(r => setTimeout(r, 200));
+    }
+
+    console.log(`\n   ✅ Dedup result: ${topScored.length} accepted / ${topScoredRaw.length} checked\n`);
+  } else {
+    // No embeddings available, skip dedup
+    topScored.push(...topScoredRaw.slice(0, toGenerate));
+    console.log('   ⚠️  No article embeddings found, skipping dedup\n');
+  }
 
   console.log(`Top ${Math.min(10, topScored.length)} scored topics:`);
   for (let i = 0; i < Math.min(10, topScored.length); i++) {
