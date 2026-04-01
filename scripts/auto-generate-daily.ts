@@ -258,7 +258,7 @@ async function checkArticleDuplicate(
   description: string,
   primaryKeyword: string,
   existingEmbeddings: ArticleEmbedding[]
-): Promise<{ maxSimilarity: number; mostSimilarSlug: string }> {
+): Promise<{ maxSimilarity: number; mostSimilarSlug: string; embedding: number[] }> {
   const inputText = `${title}\n${description}\nPrimary keyword: ${primaryKeyword}`;
   const newEmbedding = await generateEmbeddingForText(inputText);
 
@@ -273,7 +273,7 @@ async function checkArticleDuplicate(
     }
   }
 
-  return { maxSimilarity, mostSimilarSlug };
+  return { maxSimilarity, mostSimilarSlug, embedding: newEmbedding };
 }
 
 /**
@@ -398,7 +398,7 @@ async function generateArticles(
       // Step 2: 生成后去重检查
       if (existingEmbeddings.length > 0) {
         console.log(`   🔍 Dedup check...`);
-        const { maxSimilarity, mostSimilarSlug } = await checkArticleDuplicate(
+        const { maxSimilarity, mostSimilarSlug, embedding: articleEmbedding } = await checkArticleDuplicate(
           article.frontmatter.title,
           article.frontmatter.description,
           article.frontmatter.primaryKeyword,
@@ -422,7 +422,7 @@ async function generateArticles(
             const retryArticle = await generateArticleMarkdown(retryTopic);
 
             // 再次去重
-            const { maxSimilarity: retrySim } = await checkArticleDuplicate(
+            const { maxSimilarity: retrySim, embedding: retryEmbedding } = await checkArticleDuplicate(
               retryArticle.frontmatter.title,
               retryArticle.frontmatter.description,
               retryArticle.frontmatter.primaryKeyword,
@@ -439,12 +439,30 @@ async function generateArticles(
             // 重试成功，用新文章替换
             console.log(`   ✅ Retry passed (${retrySim.toFixed(3)})`);
             Object.assign(article, retryArticle);
+
+            // 追加重试文章的embedding到对比池，防止同批次重复
+            existingEmbeddings.push({
+              slug: article.slug,
+              title: retryArticle.frontmatter.title,
+              primaryKeyword: retryArticle.frontmatter.primaryKeyword,
+              topicCluster: retryArticle.frontmatter.topicCluster,
+              embedding: retryEmbedding,
+            });
           } catch (retryErr: any) {
             console.log(`   ❌ Retry failed: ${retryErr.message}, skipping\n`);
             dedupDiscarded++;
             generatedSlugs.add(slugify(topic.title));
             continue;
           }
+        } else {
+          // 去重通过，追加embedding到对比池，防止同批次后续文章重复
+          existingEmbeddings.push({
+            slug: article.slug,
+            title: article.frontmatter.title,
+            primaryKeyword: article.frontmatter.primaryKeyword,
+            topicCluster: article.frontmatter.topicCluster,
+            embedding: articleEmbedding,
+          });
         }
         console.log(`   ✅ Dedup passed`);
       }

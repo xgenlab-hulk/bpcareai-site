@@ -7,6 +7,7 @@ import fs from 'fs';
 import path from 'path';
 import { openai } from './client';
 import { slugify } from '../utils/slugify';
+import { withRetry } from '../utils/retry';
 
 /**
  * 计划中的选题（来自 planned-topics JSON）
@@ -599,15 +600,18 @@ STRICT RULES
 - Keep paragraphs short (3-5 sentences max) for mobile readability`;
 
   try {
-    const completion = await openai.chat.completions.create({
-      model: 'qwen-plus-latest',
-      messages: [
-        { role: 'system', content: systemMessage },
-        { role: 'user', content: userMessage },
-      ],
-      temperature: 0.7,
-      top_p: 0.9,
-    });
+    const completion = await withRetry(
+      () => openai.chat.completions.create({
+        model: 'qwen-plus-latest',
+        messages: [
+          { role: 'system', content: systemMessage },
+          { role: 'user', content: userMessage },
+        ],
+        temperature: 0.7,
+        top_p: 0.9,
+      }),
+      { maxRetries: 2 }
+    );
 
     const content = completion.choices[0]?.message?.content;
 
@@ -700,15 +704,18 @@ OUTPUT FORMAT (JSON only, no explanation)
 }`;
 
   try {
-    const completion = await openai.chat.completions.create({
-      model: 'qwen-plus-latest',
-      messages: [
-        { role: 'system', content: systemMessage },
-        { role: 'user', content: userMessage },
-      ],
-      temperature: 0.3,
-      top_p: 0.9,
-    });
+    const completion = await withRetry(
+      () => openai.chat.completions.create({
+        model: 'qwen-plus-latest',
+        messages: [
+          { role: 'system', content: systemMessage },
+          { role: 'user', content: userMessage },
+        ],
+        temperature: 0.3,
+        top_p: 0.9,
+      }),
+      { maxRetries: 2 }
+    );
 
     const content = completion.choices[0]?.message?.content;
 

@@ -10,6 +10,7 @@
  */
 
 import { openai } from '../llm/client';
+import { withRetry } from '../utils/retry';
 
 // ============================================================
 // 类型定义
@@ -70,12 +71,13 @@ export async function runWeeklyDeepAnalysis(input: WeeklyAnalysisInput): Promise
     topicLibrary: input.currentTopicLibrary,
   }, null, 2);
 
-  const completion = await openai.chat.completions.create({
-    model: 'qwen-plus-latest',
-    messages: [
-      {
-        role: 'system',
-        content: `You are a senior SEO/GEO strategist analyzing Google Search Console data for BPCareAI, a health website for adults 35+.
+  const completion = await withRetry(
+    () => openai.chat.completions.create({
+      model: 'qwen-plus-latest',
+      messages: [
+        {
+          role: 'system',
+          content: `You are a senior SEO/GEO strategist analyzing Google Search Console data for BPCareAI, a health website for adults 35+.
 
 Your analysis must be:
 - Data-driven: cite specific search terms, numbers, and percentages
@@ -83,10 +85,10 @@ Your analysis must be:
 - Prioritized: rank recommendations by ROI (impact vs effort)
 
 You output in Chinese. You always provide specific title/description suggestions when recommending article optimizations.`,
-      },
-      {
-        role: 'user',
-        content: `分析以下GSC数据并输出JSON格式的分析结果：
+        },
+        {
+          role: 'user',
+          content: `分析以下GSC数据并输出JSON格式的分析结果：
 
 ${dataStr}
 
@@ -107,10 +109,12 @@ ${dataStr}
     }
   ]
 }`,
-      },
-    ],
-    temperature: 0.3,
-  });
+        },
+      ],
+      temperature: 0.3,
+    }),
+    { maxRetries: 2 }
+  );
 
   const content = completion.choices[0]?.message?.content || '';
 
@@ -163,12 +167,13 @@ ${dataStr}
 // ============================================================
 
 export async function convertUrgentQueryToTopic(input: UrgentTopicInput): Promise<UrgentTopicOutput> {
-  const completion = await openai.chat.completions.create({
-    model: 'qwen-plus-latest',
-    messages: [
-      {
-        role: 'system',
-        content: `You are a health content planner for BPCareAI (adults 35+ cardiovascular health).
+  const completion = await withRetry(
+    () => openai.chat.completions.create({
+      model: 'qwen-plus-latest',
+      messages: [
+        {
+          role: 'system',
+          content: `You are a health content planner for BPCareAI (adults 35+ cardiovascular health).
 A trending search query has been detected in Google Search Console. Your job is to convert this search query into a complete article topic that matches what the user actually wants.
 
 Rules:
@@ -176,10 +181,10 @@ Rules:
 - PrimaryKeyword: what a 65-year-old would type into Google, no medical jargon
 - Description: 120-160 characters, includes a data point, action-oriented ending
 - Think about WHY this query is trending — what's happening that makes people search this?`,
-      },
-      {
-        role: 'user',
-        content: `Trending GSC query detected:
+        },
+        {
+          role: 'user',
+          content: `Trending GSC query detected:
 - Query: "${input.query}"
 - Impressions: ${input.impressions}
 - Current position: ${input.position}
@@ -194,10 +199,12 @@ Convert this into a complete article topic. Output JSON only:
   "topicCluster": "kebab-case cluster name",
   "reasoning": "Why this topic matters now and what the user really wants"
 }`,
-      },
-    ],
-    temperature: 0.4,
-  });
+        },
+      ],
+      temperature: 0.4,
+    }),
+    { maxRetries: 2 }
+  );
 
   const content = completion.choices[0]?.message?.content || '';
 
@@ -239,12 +246,13 @@ export async function generateArticleOptimizations(
 
   if (candidates.length === 0) return [];
 
-  const completion = await openai.chat.completions.create({
-    model: 'qwen-plus-latest',
-    messages: [
-      {
-        role: 'system',
-        content: `You are an SEO specialist optimizing article metadata for BPCareAI (health website for adults 35+).
+  const completion = await withRetry(
+    () => openai.chat.completions.create({
+      model: 'qwen-plus-latest',
+      messages: [
+        {
+          role: 'system',
+          content: `You are an SEO specialist optimizing article metadata for BPCareAI (health website for adults 35+).
 
 These articles have high Google impressions but very low click-through rates. Your job is to rewrite their titles and descriptions to match what users actually search for.
 
@@ -253,10 +261,10 @@ Rules:
 - New description: 120-160 characters, includes a specific number/data point, ends with action language
 - New PK: what a real person types into Google, not academic language
 - Always explain WHY the current title isn't working (cite specific search terms from GSC data)`,
-      },
-      {
-        role: 'user',
-        content: `High-impression low-CTR articles to optimize:
+        },
+        {
+          role: 'user',
+          content: `High-impression low-CTR articles to optimize:
 
 ${JSON.stringify(candidates, null, 2)}
 
@@ -274,10 +282,12 @@ For each article, output a JSON array:
     "reason": "why current title doesn't work + which GSC queries it should match"
   }
 ]`,
-      },
-    ],
-    temperature: 0.3,
-  });
+        },
+      ],
+      temperature: 0.3,
+    }),
+    { maxRetries: 2 }
+  );
 
   const content = completion.choices[0]?.message?.content || '';
 

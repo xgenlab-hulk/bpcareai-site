@@ -3,6 +3,8 @@
  * 文档: https://help.aliyun.com/zh/model-studio/text-embedding-synchronous-api
  */
 
+import { withRetry } from '../utils/retry';
+
 const QWEN_API_ENDPOINT = 'https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings';
 const QWEN_MODEL = 'text-embedding-v4';
 const EMBEDDING_DIMENSIONS = 1024;
@@ -50,34 +52,38 @@ export async function generateEmbeddingForText(text: string): Promise<number[]> 
 
   const apiKey = getApiKey();
 
-  const response = await fetch(QWEN_API_ENDPOINT, {
-    method: 'POST',
-    headers: {
-      'Authorization': `Bearer ${apiKey}`,
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify({
-      model: QWEN_MODEL,
-      input: text,
-      dimensions: EMBEDDING_DIMENSIONS,
-      encoding_format: 'float',
-    }),
-  });
+  return withRetry(async () => {
+    const response = await fetch(QWEN_API_ENDPOINT, {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${apiKey}`,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        model: QWEN_MODEL,
+        input: text,
+        dimensions: EMBEDDING_DIMENSIONS,
+        encoding_format: 'float',
+      }),
+    });
 
-  if (!response.ok) {
-    const errorText = await response.text();
-    throw new Error(
-      `Qwen API request failed with status ${response.status}: ${errorText}`
-    );
-  }
+    if (!response.ok) {
+      const errorText = await response.text();
+      const err = new Error(
+        `Qwen API request failed with status ${response.status}: ${errorText}`
+      );
+      (err as any).status = response.status;
+      throw err;
+    }
 
-  const data: QwenEmbeddingResponse = await response.json();
+    const data: QwenEmbeddingResponse = await response.json();
 
-  if (!data.data || data.data.length === 0) {
-    throw new Error('Qwen API returned empty data');
-  }
+    if (!data.data || data.data.length === 0) {
+      throw new Error('Qwen API returned empty data');
+    }
 
-  return data.data[0].embedding;
+    return data.data[0].embedding;
+  }, { maxRetries: 3 });
 }
 
 /**
@@ -103,34 +109,38 @@ export async function generateEmbeddingsBatch(texts: string[]): Promise<number[]
 
   const apiKey = getApiKey();
 
-  const response = await fetch(QWEN_API_ENDPOINT, {
-    method: 'POST',
-    headers: {
-      'Authorization': `Bearer ${apiKey}`,
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify({
-      model: QWEN_MODEL,
-      input: texts,
-      dimensions: EMBEDDING_DIMENSIONS,
-      encoding_format: 'float',
-    }),
-  });
+  return withRetry(async () => {
+    const response = await fetch(QWEN_API_ENDPOINT, {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${apiKey}`,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        model: QWEN_MODEL,
+        input: texts,
+        dimensions: EMBEDDING_DIMENSIONS,
+        encoding_format: 'float',
+      }),
+    });
 
-  if (!response.ok) {
-    const errorText = await response.text();
-    throw new Error(
-      `Qwen API batch request failed with status ${response.status}: ${errorText}`
-    );
-  }
+    if (!response.ok) {
+      const errorText = await response.text();
+      const err = new Error(
+        `Qwen API batch request failed with status ${response.status}: ${errorText}`
+      );
+      (err as any).status = response.status;
+      throw err;
+    }
 
-  const data: QwenEmbeddingResponse = await response.json();
+    const data: QwenEmbeddingResponse = await response.json();
 
-  if (!data.data || data.data.length === 0) {
-    throw new Error('Qwen API returned empty data');
-  }
+    if (!data.data || data.data.length === 0) {
+      throw new Error('Qwen API returned empty data');
+    }
 
-  // 按 index 排序确保顺序正确
-  const sortedData = data.data.sort((a, b) => a.index - b.index);
-  return sortedData.map((item) => item.embedding);
+    // 按 index 排序确保顺序正确
+    const sortedData = data.data.sort((a, b) => a.index - b.index);
+    return sortedData.map((item) => item.embedding);
+  }, { maxRetries: 3 });
 }
