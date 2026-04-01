@@ -265,32 +265,39 @@ export function selectRandomTopicsForGeneration(
   // 按score降序排列（无score的排最后）
   allTopics.sort((a, b) => (b.score || 0) - (a.score || 0));
 
-  // 带多样性约束的选取：同一分类连续不超过2个
-  const selected: TopicWithSource[] = [];
-  const clusterCount = new Map<string, number>(); // 每个分类已选数量
-  const skipped: TopicWithSource[] = []; // 被跳过的（因为分类已满）
-
+  // 将选题按分类分组
+  const bySource = new Map<string, TopicWithSource[]>();
   for (const topic of allTopics) {
-    if (selected.length >= count) break;
-
-    const cluster = topic.topicCluster || topic.source;
-    const currentCount = clusterCount.get(cluster) || 0;
-
-    // 同一分类最多选 ceil(count/分类数) 个，至少2个
-    const maxPerCluster = Math.max(2, Math.ceil(count / Math.max(inventory.filter(i => i.count > 0).length, 1)));
-
-    if (currentCount < maxPerCluster) {
-      selected.push(topic);
-      clusterCount.set(cluster, currentCount + 1);
-    } else {
-      skipped.push(topic);
-    }
+    const key = topic.source;
+    if (!bySource.has(key)) bySource.set(key, []);
+    bySource.get(key)!.push(topic);
   }
 
-  // 如果还没选够，从跳过的里补
-  for (const topic of skipped) {
-    if (selected.length >= count) break;
-    selected.push(topic);
+  // 轮转选取：从每个分类轮流取1个（score最高的优先）
+  // 这确保即使所有score相同，也能跨分类选取
+  const selected: TopicWithSource[] = [];
+  const sourceKeys = Array.from(bySource.keys());
+  const sourceIndexes = new Map<string, number>();
+  sourceKeys.forEach(k => sourceIndexes.set(k, 0));
+
+  let round = 0;
+  while (selected.length < count) {
+    let addedInRound = false;
+
+    for (const key of sourceKeys) {
+      if (selected.length >= count) break;
+      const topics = bySource.get(key)!;
+      const idx = sourceIndexes.get(key)!;
+
+      if (idx < topics.length) {
+        selected.push(topics[idx]);
+        sourceIndexes.set(key, idx + 1);
+        addedInRound = true;
+      }
+    }
+
+    if (!addedInRound) break; // All sources exhausted
+    round++;
   }
 
   return selected;

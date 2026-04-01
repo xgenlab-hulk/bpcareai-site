@@ -150,7 +150,10 @@ async function main() {
 
       if (llmAnalysis.topicPriorities) {
         console.log('   📋 LLM选题建议:');
-        console.log(`   ${llmAnalysis.topicPriorities.substring(0, 200)}...\n`);
+        const priorities = typeof llmAnalysis.topicPriorities === 'string'
+          ? llmAnalysis.topicPriorities
+          : JSON.stringify(llmAnalysis.topicPriorities, null, 2);
+        console.log(`   ${priorities.substring(0, 300)}...\n`);
       }
     } catch (err: any) {
       console.warn(`   ⚠️  LLM analysis failed: ${err.message}\n`);
@@ -289,22 +292,74 @@ async function main() {
   const topScoredRaw = scored.slice(0, toGenerate + 10);
 
   // ========================================
-  // Step 5.5: Embedding去重（与已发布文章对比）
+  // Step 5.5: 两阶段去重
   // ========================================
-  console.log(`\n🔍 Embedding dedup: checking ${topScoredRaw.length} candidates against published articles...\n`);
+
+  // 阶段1: 文本级预筛（0成本，本地计算）
+  // 用PK词级重叠快速过滤明显重复
+  console.log(`\n🔍 Stage 1: Text-level dedup (${topScoredRaw.length} candidates)...`);
+
+  const STOP_WORDS = new Set(['a','an','the','of','for','in','at','to','and','or','is','vs','after','when','how','does','can','what','that','with','your','my','do','are','you','should','not','from','this','than','more','will']);
+  const GENERIC_WORDS = new Set(['blood','pressure','heart','health','diabetes','sugar','seniors','adults','over','age','high','low','normal']);
+
+  function getSpecificWords(text: string): Set<string> {
+    return new Set(
+      text.toLowerCase().split(/\s+/)
+        .filter(w => w.length > 2 && !STOP_WORDS.has(w) && !GENERIC_WORDS.has(w))
+    );
+  }
+
+  function pkOverlap(pk1: string, pk2: string): number {
+    const w1 = getSpecificWords(pk1);
+    const w2 = getSpecificWords(pk2);
+    if (w1.size === 0) return 0;
+    let common = 0;
+    for (const w of w1) { if (w2.has(w)) common++; }
+    return common / w1.size;
+  }
+
+  const existingPKsForDedup = articles.map((a: any) => (a.primaryKeyword || '').toLowerCase()).filter(Boolean);
+  const textFilteredCandidates = [];
+  let textDedupRejected = 0;
+
+  for (const candidate of topScoredRaw) {
+    // Check vs published articles: reject if >70% specific word overlap
+    let maxOverlap = 0;
+    for (const epk of existingPKsForDedup) {
+      const overlap = pkOverlap(candidate.primaryKeyword, epk);
+      if (overlap > maxOverlap) maxOverlap = overlap;
+    }
+    // Also check vs already accepted candidates in this batch
+    for (const accepted of textFilteredCandidates) {
+      const overlap = pkOverlap(candidate.primaryKeyword, accepted.primaryKeyword);
+      if (overlap > maxOverlap) maxOverlap = overlap;
+    }
+
+    if (maxOverlap > 0.7) {
+      console.log(`   🚫 Text dedup: "${candidate.title.substring(0, 50)}..." (PK overlap ${(maxOverlap * 100).toFixed(0)}%)`);
+      textDedupRejected++;
+      continue;
+    }
+    textFilteredCandidates.push(candidate);
+  }
+  console.log(`   Stage 1 result: ${textFilteredCandidates.length} passed, ${textDedupRejected} rejected\n`);
+
+  // 阶段2: Embedding精筛（只对通过阶段1的候选调API）
+  const needEmbeddingCheck = textFilteredCandidates.slice(0, toGenerate + 5);
+  console.log(`🔍 Stage 2: Embedding dedup (${needEmbeddingCheck.length} candidates)...\n`);
 
   let existingEmbeddings: ArticleEmbedding[] = [];
   try {
     existingEmbeddings = loadArticleEmbeddings();
   } catch { /* ignore */ }
 
-  const topScored = [];
+  const topScored: typeof scored = [];
   const TOPIC_DEDUP_THRESHOLD = 0.85;
 
   if (existingEmbeddings.length > 0) {
     const acceptedEmbeddings: number[][] = [];
 
-    for (const candidate of topScoredRaw) {
+    for (const candidate of needEmbeddingCheck) {
       if (topScored.length >= toGenerate) break;
 
       try {
@@ -315,41 +370,46 @@ async function main() {
         });
         const emb = await generateEmbeddingForText(text);
 
-        // Check vs published articles
         let maxSim = 0;
         let maxSlug = '';
         for (const article of existingEmbeddings) {
           const sim = cosineSimilarity(emb, article.embedding);
           if (sim > maxSim) { maxSim = sim; maxSlug = article.slug; }
         }
-
-        // Check vs already accepted in this batch
         for (const accepted of acceptedEmbeddings) {
           const sim = cosineSimilarity(emb, accepted);
-          if (sim > maxSim) { maxSim = sim; maxSlug = '(batch duplicate)'; }
+          if (sim > maxSim) { maxSim = sim; maxSlug = '(batch dup)'; }
         }
 
         if (maxSim > TOPIC_DEDUP_THRESHOLD) {
-          console.log(`   🚫 Dedup: "${candidate.title.substring(0, 45)}..." (sim ${maxSim.toFixed(3)} with "${maxSlug.substring(0, 30)}")`);
+          console.log(`   🚫 Embedding dedup: "${candidate.title.substring(0, 45)}..." (sim ${maxSim.toFixed(3)} with "${maxSlug.substring(0, 30)}")`);
           continue;
         }
 
         topScored.push(candidate);
         acceptedEmbeddings.push(emb);
       } catch (err: any) {
-        // On embedding failure, keep the topic
         topScored.push(candidate);
-        console.warn(`   ⚠️  Dedup check failed for "${candidate.title.substring(0, 40)}": ${err.message}, keeping`);
+        console.warn(`   ⚠️  Embedding failed for "${candidate.title.substring(0, 40)}": ${err.message}, keeping`);
       }
 
-      await new Promise(r => setTimeout(r, 200));
+      await new Promise(r => setTimeout(r, 500));
     }
 
-    console.log(`\n   ✅ Dedup result: ${topScored.length} accepted / ${topScoredRaw.length} checked\n`);
+    console.log(`\n   ✅ Stage 2 result: ${topScored.length} accepted\n`);
   } else {
-    // No embeddings available, skip dedup
-    topScored.push(...topScoredRaw.slice(0, toGenerate));
-    console.log('   ⚠️  No article embeddings found, skipping dedup\n');
+    topScored.push(...needEmbeddingCheck.slice(0, toGenerate));
+    console.log('   ⚠️  No article embeddings found, skipping embedding dedup\n');
+  }
+
+  // If still not enough after both stages, fill from text-filtered candidates
+  if (topScored.length < toGenerate) {
+    for (const c of textFilteredCandidates) {
+      if (topScored.length >= toGenerate) break;
+      if (!topScored.some(t => t.title === c.title)) {
+        topScored.push(c);
+      }
+    }
   }
 
   console.log(`Top ${Math.min(10, topScored.length)} scored topics:`);
