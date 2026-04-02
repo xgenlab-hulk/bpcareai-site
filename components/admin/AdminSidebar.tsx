@@ -11,7 +11,7 @@ import {
   LayoutDashboard,
   FileText,
   Tag,
-  BarChart3,
+  Brain,
   LogOut,
   Clock,
   X,
@@ -43,9 +43,9 @@ const navigationItems = [
     icon: Tag,
   },
   {
-    name: 'SEO Analytics',
-    href: '/admin/seo',
-    icon: BarChart3,
+    name: 'SEO Insights',
+    href: '/admin/seo-insights',
+    icon: Brain,
   },
 ];
 
