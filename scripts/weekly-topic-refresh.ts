@@ -314,7 +314,7 @@ async function main() {
     const w2 = getSpecificWords(pk2);
     if (w1.size === 0) return 0;
     let common = 0;
-    for (const w of w1) { if (w2.has(w)) common++; }
+    Array.from(w1).forEach(w => { if (w2.has(w)) common++; });
     return common / w1.size;
   }
 

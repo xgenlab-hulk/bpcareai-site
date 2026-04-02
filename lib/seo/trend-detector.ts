@@ -96,7 +96,8 @@ function aggregateQueries(dailyData: DailyRawData[]): Map<string, {
     daysSeen: number;
   }>();
 
-  for (const [query, data] of queryMap) {
+  const queryMapEntries = Array.from(queryMap.entries());
+  for (const [query, data] of queryMapEntries) {
     result.set(query, {
       totalImpressions: data.totalImpressions,
       totalClicks: data.totalClicks,
@@ -148,12 +149,12 @@ export function detectTrends(
     : 0;
 
   // 逐词分析
-  for (const [query, recent] of recentAgg) {
+  const recentEntries = Array.from(recentAgg.entries());
+  for (const [query, recent] of recentEntries) {
     const baseline = baselineAgg.get(query);
 
     if (!baseline) {
-      // 全新的词（28天基线中完全没出现过）— 理论上不会发生因为recent包含在baseline中
-      // 但如果recent是更新的数据可能会
+      // 全新的词（28天基线中完全没出现过）
       if (recent.daysSeen >= CONFIG.NEW_QUERY_MIN_DAYS) {
         newQueries.push(query);
         alerts.push({

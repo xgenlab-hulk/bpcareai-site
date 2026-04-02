@@ -141,7 +141,8 @@ function getQueryBaseline(): Map<string, {
   const totalDays = allData.length;
   const recentDays = Math.min(3, totalDays);
 
-  for (const [query, d] of queryMap) {
+  const queryMapEntries = Array.from(queryMap.entries());
+  for (const [query, d] of queryMapEntries) {
     const position = d.posWeight > 0 ? d.posSum / d.posWeight : 100;
     const baseDailyAvg = d.impressions / totalDays;
     const recentDailyAvg = d.recentImpr / recentDays;
@@ -219,14 +220,15 @@ function findBestGSCMatch(
   let bestExact: { query: string; data: any; score: number } | null = null;
   let bestDirection: { query: string; data: any; score: number } | null = null;
 
-  for (const [query, data] of baseline) {
+  const baselineEntries = Array.from(baseline.entries());
+  for (const [query, data] of baselineEntries) {
     const qW = extractWords(query);
 
     let commonSpec = 0;
-    for (const w of Array.from(pkW.specific)) { if (qW.specific.has(w)) commonSpec++; }
+    Array.from(pkW.specific).forEach(w => { if (qW.specific.has(w)) commonSpec++; });
 
     let commonAll = 0;
-    for (const w of Array.from(pkW.all)) { if (qW.all.has(w)) commonAll++; }
+    Array.from(pkW.all).forEach(w => { if (qW.all.has(w)) commonAll++; });
 
     const pkOverlap = pkW.all.size > 0 ? commonAll / pkW.all.size : 0;
     const qOverlap = qW.all.size > 0 ? commonAll / qW.all.size : 0;
@@ -262,7 +264,7 @@ function calcMaxPKOverlap(pk: string, existingPKs: string[]): number {
   for (const existing of existingPKs) {
     const exW = extractWords(existing);
     let commonSpec = 0;
-    for (const w of pkW.specific) { if (exW.specific.has(w)) commonSpec++; }
+    Array.from(pkW.specific).forEach(w => { if (exW.specific.has(w)) commonSpec++; });
 
     const overlap = pkW.specific.size > 0 ? commonSpec / pkW.specific.size : 0;
     if (overlap > maxOverlap) maxOverlap = overlap;
