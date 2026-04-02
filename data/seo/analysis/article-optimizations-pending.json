@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-04-02T04:33:13.965Z",
+  "generatedAt": "2026-04-01T17:17:44.831Z",
   "optimizations": [
     {
       "slug": "the-impact-of-long-term-nsaid-use-on-heart-disease-risk",
       "currentTitle": "The Impact of Long-Term NSAID Use on Heart Disease Risk",
-      "suggestedTitle": "Do NSAIDs Raise Blood Pressure? What the American Heart Association Says",
-      "suggestedDescription": "NSAIDs like ibuprofen and naproxen can increase blood pressure — here's what the American Heart Association states, plus safer alternatives for adults 35+.",
-      "suggestedPK": "do nsaid raise blood pressure american heart association",
-      "reason": "该页曝光83次（位置4.9），但所有含'american heart association nsaids'的搜索词共42次曝光零点击，标题未包含用户搜索的核心短语'raise blood pressure'或'AHA'"
+      "suggestedTitle": "AHA NSAID Warning: How Ibuprofen & Naproxen Raise Blood Pressure (2024 Guidance)",
+      "suggestedDescription": "American Heart Association confirms NSAIDs like ibuprofen and naproxen increase blood pressure and heart disease risk—especially in adults 35+. Learn evidence-based alternatives.",
+      "suggestedPK": "aha nsaid raise blood pressure ibuprofen naproxen",
+      "reason": "17 related queries contain 'AHA', 'nsaids raise blood pressure', 'ibuprofen', or 'naproxen'; current title omits all key phrases, resulting in 172 impressions but 0 clicks despite avgPosition 5.8."
     },
     {
       "slug": "understanding-a1c-goals-for-seniors-with-diabetes",
-      "currentTitle": "Understanding A1C Goals for Seniors with Diabetes",
-      "suggestedTitle": "HbA1c Target for Elderly Diabetics: AHA & ADA Guidelines",
-      "suggestedDescription": "What's the ideal HbA1c goal for seniors 65+? We compare American Heart Association and ADA recommendations for safe, individualized diabetes management.",
+      "currentTitle": "Understanding A1c Goals for Seniors With Diabetes",
+      "suggestedTitle": "HbA1c Target for Elderly Diabetics: 2024 ADA/AHA Guidelines by Age & Health Status",
+      "suggestedDescription": "What is the ideal HbA1c target for seniors with diabetes? Updated 2024 guidance from ADA and American Heart Association—personalized by frailty, cognition, and comorbidities.",
       "suggestedPK": "hba1c target for elderly diabetics",
-      "reason": "搜索词'hba1c target for elderly diabetics'（2次曝光，位置1）和'hba1c target for elderly patients with diabetes'（1次，position 1）精准匹配该页主题，但当前标题未使用用户语言"
-    },
-    {
-      "slug": "holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues",
-      "currentTitle": "Holiday Eating on a Soft Food Diet: Ideas for Seniors with Dental Issues",
-      "suggestedTitle": "Soft Food Diet for Seniors with No Teeth & High Blood Pressure",
-      "suggestedDescription": "Heart-healthy soft meals for edentulous seniors: low-sodium, high-fiber options that protect both your gums and cardiovascular system.",
-      "suggestedPK": "soft food for elderly with no teeth",
-      "reason": "搜索词'soft food for elderly with no teeth'（1次）、'edentulous diet'（1次）等8个牙科词总曝光12次，全部位置>80；当前标题未体现'no teeth'或'edentulous'等高匹配关键词，且未关联心血管核心定位"
+      "reason": "'hba1c target for elderly patients with diabetes' ranks position 1 (highest possible), yet current title uses 'A1c' not 'HbA1c' and omits 'target', '2024', and 'ADA/AHA'—missing exact match for top-performing query."
     },
     {
       "slug": "the-hidden-dangers-of-indoor-heating-on-blood-pressure",
       "currentTitle": "The Hidden Dangers of Indoor Heating on Blood Pressure",
-      "suggestedTitle": "Does Heat Raise or Lower Blood Pressure? Winter BP Risks for Seniors",
-      "suggestedDescription": "Indoor heating can spike blood pressure in older adults — here's the science, AHA insights, and 3 ways to stay warm safely this winter.",
+      "suggestedTitle": "Does Heat Raise or Lower Blood Pressure? Indoor Heating Risks for Seniors (2024 Data)",
+      "suggestedDescription": "New research shows indoor heating raises systolic BP by up to 8 mmHg in adults 60+. Understand seasonal blood pressure fluctuations and protective strategies backed by AHA science.",
       "suggestedPK": "does heat raise or lower blood pressure",
-      "reason": "搜索词'does heat raise or lower blood pressure'（1次，position 100） directly matches user intent; current title is too narrow ('indoor heating') and misses the core question format users search"
+      "reason": "'does heat raise or lower blood pressure' has position 100 (worst visibility) but matches user's exact question; current title uses 'hidden dangers' jargon instead of direct Q&A format, blocking click-through."
     },
     {
-      "slug": "articles",
-      "currentTitle": "Articles",
-      "suggestedTitle": "Blood Pressure & Heart Health Articles for Adults 35+",
-      "suggestedDescription": "2200+ evidence-based articles on hypertension, cholesterol, diabetes, NSAIDs, and senior heart health — updated with AHA/ACC guidelines.",
-      "suggestedPK": "blood pressure articles for adults 35+",
-      "reason": "This page has 227 impressions (position 5.9) but zero clicks — generic title 'Articles' fails all search intent signals; adding age + core topics boosts relevance for branded and category queries"
+      "slug": "is-low-blood-pressure-dangerous-for-seniors",
+      "currentTitle": "Is Low Blood Pressure Dangerous for Seniors?",
+      "suggestedTitle": "Low Diastolic Blood Pressure in Older Adults: Risks, Symptoms & When to Worry",
+      "suggestedDescription": "Low diastolic BP (<60 mmHg) increases fall and dementia risk in seniors. Review evidence-based thresholds, warning signs, and management per 2024 AHA scientific statements.",
+      "suggestedPK": "low diastolic blood pressure older adults risks",
+      "reason": "'low diastolic blood pressure older adults risks' appears in queries (1 impression, position 7) with precise phrasing; current title uses vague 'dangerous' instead of 'risks' and omits 'diastolic' and 'older adults', reducing relevance."
+    },
+    {
+      "slug": "natural-ways-to-lower-blood-pressure-this-winter-without-medication",
+      "currentTitle": "Natural Ways to Lower Blood Pressure This Winter Without Medication",
+      "suggestedTitle": "How to Lower Blood Pressure Naturally This Winter: Evidence-Based Tips for Cold Weather",
+      "suggestedDescription": "Cold weather raises BP by 5–10 mmHg in adults 35+. Discover 7 clinically proven, non-drug strategies—including timing, clothing, and indoor humidity—to stay protected this season.",
+      "suggestedPK": "how to lower blood pressure naturally weather for next week",
+      "reason": "'how to lower blood pressure naturally weather for next week' (position 1) contains 'naturally' + 'weather' — current title says 'this winter' but misses 'weather' as a core PK and lacks urgency cues ('next week'); also fails to cite quantified BP impact (5–10 mmHg) shown in top-performing pages."
     }
   ]
 }
