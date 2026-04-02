@@ -340,6 +340,68 @@ export function getArticlesByDate(date: string): ArticleRecord[] {
 }
 
 /**
+ * 文章优化建议
+ */
+export interface ArticleOptimizationSuggestion {
+  slug: string;
+  currentTitle: string;
+  suggestedTitle: string;
+  suggestedDescription: string;
+  suggestedPK: string;
+  reason: string;
+}
+
+/**
+ * 90天基线报告
+ */
+export interface BaselineReport {
+  reportDate: string;
+  dataRange: string;
+  overallGrowth: Record<string, {
+    impressions: number;
+    clicks: number;
+    queries: number;
+    pages: number;
+  }>;
+}
+
+/**
+ * 读取文章优化建议
+ */
+export function getArticleOptimizations(): { generatedAt: string; optimizations: ArticleOptimizationSuggestion[] } | null {
+  const filePath = path.join(ANALYSIS_DIR, 'article-optimizations-pending.json');
+  if (!fs.existsSync(filePath)) return null;
+
+  try {
+    return JSON.parse(fs.readFileSync(filePath, 'utf8'));
+  } catch { return null; }
+}
+
+/**
+ * 读取90天基线报告
+ */
+export function getBaselineReport(): BaselineReport | null {
+  const filePath = path.join(ANALYSIS_DIR, 'baseline-90day-report.json');
+  if (!fs.existsSync(filePath)) return null;
+
+  try {
+    return JSON.parse(fs.readFileSync(filePath, 'utf8'));
+  } catch { return null; }
+}
+
+/**
+ * 读取LLM深度分析完整版（markdown）
+ */
+export function getLLMDeepAnalysis(): string | null {
+  const filePath = path.join(ANALYSIS_DIR, 'llm-deep-analysis.md');
+  if (!fs.existsSync(filePath)) return null;
+
+  try {
+    return fs.readFileSync(filePath, 'utf8');
+  } catch { return null; }
+}
+
+/**
  * 获取 Pipeline 总览数据
  */
 export function getPipelineOverview(): PipelineOverview {

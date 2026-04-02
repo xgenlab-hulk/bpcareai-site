@@ -274,6 +274,20 @@ export default function WeeklyInsightsPage({ searchParams }: Props) {
         </>
       )}
 
+      {/* 深度分析完整版入口 */}
+      <Link href="/admin/seo-insights/deep-analysis" className="block rounded-xl bg-gradient-to-r from-purple-600 to-indigo-600 p-6 shadow-lg hover:shadow-xl transition-shadow text-white">
+        <div className="flex items-center justify-between">
+          <div className="flex items-center gap-3">
+            <Brain className="h-8 w-8" />
+            <div>
+              <h3 className="font-semibold text-lg">Full LLM Deep Analysis</h3>
+              <p className="text-sm text-purple-200">5000+ word comprehensive analysis — search intent, CTR diagnosis, content gap mapping, actionable recommendations</p>
+            </div>
+          </div>
+          <div className="text-purple-200">→</div>
+        </div>
+      </Link>
+
       {/* 选题库存状态（始终显示，不依赖周报） */}
       <div className="rounded-lg bg-white p-6 shadow">
         <div className="flex items-center gap-2 mb-4">
