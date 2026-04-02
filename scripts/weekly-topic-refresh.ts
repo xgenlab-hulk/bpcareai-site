@@ -503,8 +503,16 @@ async function main() {
       totalSearchTerms: gscQueries.length,
     },
     llmAnalysis: llmAnalysis ? {
-      searchIntentAnalysis: llmAnalysis.searchIntentAnalysis?.substring(0, 500),
-      topicPriorities: llmAnalysis.topicPriorities?.substring(0, 500),
+      searchIntentAnalysis: typeof llmAnalysis.searchIntentAnalysis === 'string'
+        ? llmAnalysis.searchIntentAnalysis.substring(0, 500)
+        : llmAnalysis.searchIntentAnalysis ? JSON.stringify(llmAnalysis.searchIntentAnalysis).substring(0, 500) : '',
+      ctrAnomalies: typeof llmAnalysis.ctrAnomalies === 'string'
+        ? llmAnalysis.ctrAnomalies : llmAnalysis.ctrAnomalies ? JSON.stringify(llmAnalysis.ctrAnomalies) : '',
+      hiddenOpportunities: typeof llmAnalysis.hiddenOpportunities === 'string'
+        ? llmAnalysis.hiddenOpportunities : llmAnalysis.hiddenOpportunities ? JSON.stringify(llmAnalysis.hiddenOpportunities) : '',
+      topicPriorities: typeof llmAnalysis.topicPriorities === 'string'
+        ? llmAnalysis.topicPriorities.substring(0, 500)
+        : llmAnalysis.topicPriorities ? JSON.stringify(llmAnalysis.topicPriorities).substring(0, 500) : '',
       articleOptimizations: llmAnalysis.articleOptimizations?.length || 0,
     } : null,
     perplexityInsights: Object.fromEntries(
