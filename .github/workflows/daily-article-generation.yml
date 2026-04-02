@@ -1,26 +1,19 @@
 name: Daily Article Generation & Deployment
 
 on:
-  # 每天北京时间 10:00 执行 (UTC 02:00)
+  # 每天北京时间 14:00 执行 (UTC 06:00)
   schedule:
-    - cron: '0 2 * * *'
+    - cron: '0 6 * * *'
 
-  # 支持手动触发
   workflow_dispatch:
     inputs:
       articles_count:
         description: 'Override article count (leave empty for auto-detection based on day)'
         required: false
         type: number
-      skip_gsc:
-        description: 'Skip GSC data pull (use existing data)'
-        required: false
-        type: boolean
-        default: false
 
-# Permissions required for the workflow
 permissions:
-  contents: write  # Allow pushing commits to the repository
+  contents: write
 
 jobs:
   generate-and-deploy:
@@ -55,19 +48,7 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
 
-      # ========================================
-      # Line 1: GSC data pull + urgent topics
-      # ========================================
-      - name: 'Line 1: GSC daily analysis + urgent topics'
-        if: ${{ github.event.inputs.skip_gsc != 'true' }}
-        run: |
-          echo "📊 Running GSC daily analysis..."
-          npm run seo:daily || echo "⚠️ GSC analysis failed (non-fatal), continuing..."
-
-      # ========================================
-      # Line 3: Article generation
-      # ========================================
-      - name: 'Line 3: Generate articles'
+      - name: Generate articles
         env:
           ARTICLES_COUNT_OVERRIDE: ${{ inputs.articles_count }}
         run: |
@@ -90,24 +71,18 @@ jobs:
           else
             TODAY=$(date +'%Y-%m-%d')
             NEW_ARTICLES=$(git diff --staged --name-only | grep -c "content/articles/.*\.md" || true)
-            COMMIT_MSG="chore: daily generation - ${TODAY} - ${NEW_ARTICLES} articles [skip ci]"
-
-            git commit -m "$COMMIT_MSG"
+            git commit -m "chore: daily generation - ${TODAY} - ${NEW_ARTICLES} articles [skip ci]"
             git push origin main
-
             echo "✅ Committed and pushed ${NEW_ARTICLES} new articles"
           fi
 
-      - name: Generate daily report
+      - name: Report
         if: always()
         run: |
           echo "## Daily Generation Report - $(date +'%Y-%m-%d')" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-
-          TOTAL_ARTICLES=$(find content/articles -name "*.md" | wc -l)
+          TOTAL_ARTICLES=$(find content/articles -name "*.md" 2>/dev/null | wc -l)
           echo "📊 **Total articles**: ${TOTAL_ARTICLES}" >> $GITHUB_STEP_SUMMARY
-
-          # Topic inventory
           TOPIC_COUNT=0
           for f in data/planned-topics-*.json; do
             if [ -f "$f" ]; then
@@ -117,19 +92,8 @@ jobs:
           done
           echo "📚 **Topics remaining**: ${TOPIC_COUNT}" >> $GITHUB_STEP_SUMMARY
 
-          # Urgent topics
-          if [ -f "data/seo/urgent-topics.json" ]; then
-            URGENT=$(grep -c '"query"' data/seo/urgent-topics.json || echo "0")
-            echo "🚨 **Urgent topics**: ${URGENT}" >> $GITHUB_STEP_SUMMARY
-          fi
-
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "🚀 **Deployment**: Pushed to GitHub, Vercel auto-deployment triggered" >> $GITHUB_STEP_SUMMARY
-
       - name: Notify on failure
         if: failure()
         run: |
           echo "## ❌ Daily Generation Failed" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "Please check the logs for details." >> $GITHUB_STEP_SUMMARY
           echo "**Date**: $(date +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
