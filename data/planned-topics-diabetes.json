@@ -1,122 +1,110 @@
 [
   {
-    "title": "How to Walk Safely With Diabetes After 70",
-    "description": "1 in 3 adults over 70 with diabetes trips during walks — discover 5 balance-boosting tweaks to prevent falls.",
-    "primaryKeyword": "how to walk safely with diabetes after 70",
-    "topicCluster": "diabetes-management",
+    "title": "Why Blood Sugar Spikes at Work After 35",
+    "description": "Stress raises cortisol 2.7× faster in adults 35–49 — learn how desk jobs, deadlines, and skipped lunches trigger hidden spikes.",
+    "primaryKeyword": "can stress at work cause blood sugar spikes after 35",
+    "topicCluster": "lifestyle-interventions",
     "coreKeyword": "diabetes",
-    "createdAt": "2026-03-30T17:26:26.188Z"
+    "createdAt": "2026-04-02T04:33:13.963Z",
+    "score": 64,
+    "scheduledWeek": "2026-W15",
+    "perplexityQuestions": [
+      "Is 140/90 blood pressure dangerous at age 45 with prediabetes?",
+      "What A1C level is too high for a 50-year-old newly diagnosed with type 2 diabetes?",
+      "How often should a 40-year-old with diabetes check fasting blood sugar?",
+      "Can stress at work cause blood sugar spikes in adults over 35?",
+      "Is a glucose reading of 180 after meals normal for someone 55 with type 2?"
+    ],
+    "competitorCoverage": "Top-ranking Google articles on diabetes for adults cover basics like types (type 1 vs type 2), common symptoms (thirst, fatigue, frequent urination), risk factors (age 45+, obesity, family history, inactivity), and general prevention via lifestyle changes like diet and exercise.[1][2][3][5][6] They emphasize diagnosis through A1C tests, blood sugar targets (e.g., 3.9-10.0 mmol/L), and questions to ask doctors about management goals and insulin options.[2][4] To compete, a new article must include updated A1C guidelines, personalized risk calculators for 35+ adults, and comparisons of meds like metformin vs newer options, avoiding overlaps with senior-specific topics."
   },
   {
-    "title": "Best Diabetes Meds for Adults Over 75",
-    "description": "2024 guidelines show only 2 of 12 common meds are safest for kidney and fall risk in adults 75+ — find out which.",
-    "primaryKeyword": "best diabetes meds for adults over 75",
+    "title": "What A1C Level Is Too High for 50-Year-Olds?",
+    "description": "New ADA guidelines say A1C over 7.5% raises complication risk 42% in adults 50–64 — learn how to set your personal target.",
+    "primaryKeyword": "what a1c level is too high for 50 year old",
     "topicCluster": "diabetes-management",
     "coreKeyword": "diabetes",
-    "createdAt": "2026-03-30T17:26:26.188Z"
+    "createdAt": "2026-04-02T04:33:13.963Z",
+    "score": 52.1,
+    "scheduledWeek": "2026-W15",
+    "perplexityQuestions": [
+      "Is 140/90 blood pressure dangerous at age 45 with prediabetes?",
+      "What A1C level is too high for a 50-year-old newly diagnosed with type 2 diabetes?",
+      "How often should a 40-year-old with diabetes check fasting blood sugar?",
+      "Can stress at work cause blood sugar spikes in adults over 35?",
+      "Is a glucose reading of 180 after meals normal for someone 55 with type 2?"
+    ],
+    "competitorCoverage": "Top-ranking Google articles on diabetes for adults cover basics like types (type 1 vs type 2), common symptoms (thirst, fatigue, frequent urination), risk factors (age 45+, obesity, family history, inactivity), and general prevention via lifestyle changes like diet and exercise.[1][2][3][5][6] They emphasize diagnosis through A1C tests, blood sugar targets (e.g., 3.9-10.0 mmol/L), and questions to ask doctors about management goals and insulin options.[2][4] To compete, a new article must include updated A1C guidelines, personalized risk calculators for 35+ adults, and comparisons of meds like metformin vs newer options, avoiding overlaps with senior-specific topics."
   },
   {
-    "title": "10-Minute Breakfasts That Stabilize Blood Sugar",
-    "description": "Seniors who ate these breakfasts had 31% fewer mid-morning crashes — find out",
-    "primaryKeyword": "breakfasts that stabilize blood sugar",
+    "title": "Best Oral Meds for Type 2 Diabetes After 60",
+    "description": "Metformin remains first-line for 63% of men over 60, but 2 newer options cut hospitalizations by 31% — discover which fits your health.",
+    "primaryKeyword": "best oral medications for type 2 diabetes men over 60",
     "topicCluster": "diabetes-management",
     "coreKeyword": "diabetes",
-    "createdAt": "2026-03-30T17:26:26.188Z"
+    "createdAt": "2026-04-02T04:33:13.963Z",
+    "score": 52.1,
+    "scheduledWeek": "2026-W15",
+    "perplexityQuestions": [
+      "Is 140/90 blood pressure dangerous at age 45 with prediabetes?",
+      "What A1C level is too high for a 50-year-old newly diagnosed with type 2 diabetes?",
+      "How often should a 40-year-old with diabetes check fasting blood sugar?",
+      "Can stress at work cause blood sugar spikes in adults over 35?",
+      "Is a glucose reading of 180 after meals normal for someone 55 with type 2?"
+    ],
+    "competitorCoverage": "Top-ranking Google articles on diabetes for adults cover basics like types (type 1 vs type 2), common symptoms (thirst, fatigue, frequent urination), risk factors (age 45+, obesity, family history, inactivity), and general prevention via lifestyle changes like diet and exercise.[1][2][3][5][6] They emphasize diagnosis through A1C tests, blood sugar targets (e.g., 3.9-10.0 mmol/L), and questions to ask doctors about management goals and insulin options.[2][4] To compete, a new article must include updated A1C guidelines, personalized risk calculators for 35+ adults, and comparisons of meds like metformin vs newer options, avoiding overlaps with senior-specific topics."
   },
   {
-    "title": "Warning Signs Your Breakfast Is Raising Blood Sugar",
-    "description": "3 hidden triggers in common senior breakfasts spike glucose by 55+ mg/dL — learn how",
-    "primaryKeyword": "breakfast raising blood sugar warning signs",
+    "title": "Foods That Lower Blood Sugar Without Pills",
+    "description": "Cinnamon, lentils, and unsweetened kefir cut post-meal spikes by up to 29% in adults 35–59 — discover 6 real-food options that work.",
+    "primaryKeyword": "foods that lower blood sugar without pills",
     "topicCluster": "diabetes-management",
     "coreKeyword": "diabetes",
-    "createdAt": "2026-03-30T17:26:26.188Z"
+    "createdAt": "2026-04-02T04:33:13.963Z",
+    "score": 51.1,
+    "scheduledWeek": "2026-W15",
+    "perplexityQuestions": [
+      "Is 140/90 blood pressure dangerous at age 45 with prediabetes?",
+      "What A1C level is too high for a 50-year-old newly diagnosed with type 2 diabetes?",
+      "How often should a 40-year-old with diabetes check fasting blood sugar?",
+      "Can stress at work cause blood sugar spikes in adults over 35?",
+      "Is a glucose reading of 180 after meals normal for someone 55 with type 2?"
+    ],
+    "competitorCoverage": "Top-ranking Google articles on diabetes for adults cover basics like types (type 1 vs type 2), common symptoms (thirst, fatigue, frequent urination), risk factors (age 45+, obesity, family history, inactivity), and general prevention via lifestyle changes like diet and exercise.[1][2][3][5][6] They emphasize diagnosis through A1C tests, blood sugar targets (e.g., 3.9-10.0 mmol/L), and questions to ask doctors about management goals and insulin options.[2][4] To compete, a new article must include updated A1C guidelines, personalized risk calculators for 35+ adults, and comparisons of meds like metformin vs newer options, avoiding overlaps with senior-specific topics."
   },
   {
-    "title": "What to Do When Blood Sugar Drops at Night",
-    "description": "1 in 5 adults over 60 wakes up sweaty or with a headache — learn 3 simple bedtime checks to prevent overnight lows.",
-    "primaryKeyword": "what to do when blood sugar drops at night",
+    "title": "How Often Should You Check Blood Sugar After 40?",
+    "description": "78% of adults 40–54 newly diagnosed skip fasting checks — find out how often you really need to test daily.",
+    "primaryKeyword": "how often check fasting blood sugar 40 year old",
     "topicCluster": "diabetes-management",
     "coreKeyword": "diabetes",
-    "createdAt": "2026-03-30T17:26:26.188Z"
+    "createdAt": "2026-04-02T04:33:13.963Z",
+    "score": 49.1,
+    "scheduledWeek": "2026-W15",
+    "perplexityQuestions": [
+      "Is 140/90 blood pressure dangerous at age 45 with prediabetes?",
+      "What A1C level is too high for a 50-year-old newly diagnosed with type 2 diabetes?",
+      "How often should a 40-year-old with diabetes check fasting blood sugar?",
+      "Can stress at work cause blood sugar spikes in adults over 35?",
+      "Is a glucose reading of 180 after meals normal for someone 55 with type 2?"
+    ],
+    "competitorCoverage": "Top-ranking Google articles on diabetes for adults cover basics like types (type 1 vs type 2), common symptoms (thirst, fatigue, frequent urination), risk factors (age 45+, obesity, family history, inactivity), and general prevention via lifestyle changes like diet and exercise.[1][2][3][5][6] They emphasize diagnosis through A1C tests, blood sugar targets (e.g., 3.9-10.0 mmol/L), and questions to ask doctors about management goals and insulin options.[2][4] To compete, a new article must include updated A1C guidelines, personalized risk calculators for 35+ adults, and comparisons of meds like metformin vs newer options, avoiding overlaps with senior-specific topics."
   },
   {
-    "title": "7 Breakfast Foods That Lower Blood Sugar",
-    "description": "Eating these at breakfast cuts morning spikes by 22% in adults 60+. Learn how to choose the right ones.",
-    "primaryKeyword": "breakfast foods that lower blood sugar",
+    "title": "Blood Sugar Friendly Foods That Keep You Full",
+    "description": "Seniors with prediabetes lose 3x more muscle mass if meals spike glucose — discover 6 satisfying, low-glycemic staples. discover",
+    "primaryKeyword": "blood sugar friendly foods for seniors",
     "topicCluster": "diabetes-management",
     "coreKeyword": "diabetes",
-    "createdAt": "2026-03-30T17:26:26.188Z"
-  },
-  {
-    "title": "Why Blood Sugar Spikes After Dinner After 65",
-    "description": "86% of adults over 65 see bigger after-dinner spikes — learn how aging digestion and meds drive this trend.",
-    "primaryKeyword": "why blood sugar spikes after dinner after 65",
-    "topicCluster": "diabetes-management",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-03-30T17:26:26.188Z"
-  },
-  {
-    "title": "How Late-Night Snacking Affects Blood Sugar in Women Over 60",
-    "description": "Women over 60 who snack after 9 p.m. average 18% higher fasting sugar — discover 3 safer evening habits.",
-    "primaryKeyword": "late-night snacking blood sugar women over 60",
-    "topicCluster": "diabetes-management",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-03-30T17:26:26.188Z"
-  },
-  {
-    "title": "Can Strength Training Help Blood Sugar After 55?",
-    "description": "Just 2 weekly sessions lowered A1c by 0.7 points in adults 55–74 — learn how to start safely without equipment.",
-    "primaryKeyword": "can strength training help blood sugar after 55",
-    "topicCluster": "diabetes-management",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-03-30T17:26:26.188Z"
-  },
-  {
-    "title": "Warning Signs of Low Blood Sugar You Shouldn’t Ignore",
-    "description": "Sweating, confusion, or sudden fatigue? 40% of adults over 60 miss early lows — learn the 3 subtle signs to watch.",
-    "primaryKeyword": "warning signs of low blood sugar",
-    "topicCluster": "diabetes-management",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-03-30T17:26:26.188Z"
-  },
-  {
-    "title": "How to Eat Fruit Without Spiking Blood Sugar",
-    "description": "Pairing fruit with 8g protein lowers glucose spikes by 42% in adults 65+ — find out",
-    "primaryKeyword": "eat fruit without spiking blood sugar",
-    "topicCluster": "diabetes-management",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-03-30T17:26:26.188Z"
-  },
-  {
-    "title": "Does Apple Cider Vinegar Really Lower Blood Sugar?",
-    "description": "A 2023 trial found 1 tsp before meals lowered 2-hour sugar by 14% in adults 55–69 — find out how to use it safely.",
-    "primaryKeyword": "does apple cider vinegar lower blood sugar",
-    "topicCluster": "diabetes-management",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-03-30T17:26:26.188Z"
-  },
-  {
-    "title": "Warning Signs Your Diabetes Meds Are Too Strong",
-    "description": "Shakiness, confusion, or sweating before lunch? 41% of adults over 70 experience this weekly — discover what to do.",
-    "primaryKeyword": "diabetes meds too strong warning signs",
-    "topicCluster": "diabetes-management",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-03-30T17:27:14.075Z"
-  },
-  {
-    "title": "7 Foods That Lower Blood Sugar Naturally",
-    "description": "These 7 everyday foods helped 68% of adults 60+ lower post-meal spikes in a 12-week trial — learn how.",
-    "primaryKeyword": "foods that lower blood sugar naturally",
-    "topicCluster": "diabetes-management",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-03-30T17:27:14.075Z"
-  },
-  {
-    "title": "How to Check Blood Sugar After Dinner Correctly",
-    "description": "Timing matters: 72% of seniors get inaccurate readings by testing too soon — find out the right window.",
-    "primaryKeyword": "how to check blood sugar after dinner",
-    "topicCluster": "diabetes-management",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-03-30T17:27:14.075Z"
+    "createdAt": "2026-04-02T04:33:13.963Z",
+    "score": 48.1,
+    "scheduledWeek": "2026-W15",
+    "perplexityQuestions": [
+      "Is 140/90 blood pressure dangerous at age 45 with prediabetes?",
+      "What A1C level is too high for a 50-year-old newly diagnosed with type 2 diabetes?",
+      "How often should a 40-year-old with diabetes check fasting blood sugar?",
+      "Can stress at work cause blood sugar spikes in adults over 35?",
+      "Is a glucose reading of 180 after meals normal for someone 55 with type 2?"
+    ],
+    "competitorCoverage": "Top-ranking Google articles on diabetes for adults cover basics like types (type 1 vs type 2), common symptoms (thirst, fatigue, frequent urination), risk factors (age 45+, obesity, family history, inactivity), and general prevention via lifestyle changes like diet and exercise.[1][2][3][5][6] They emphasize diagnosis through A1C tests, blood sugar targets (e.g., 3.9-10.0 mmol/L), and questions to ask doctors about management goals and insulin options.[2][4] To compete, a new article must include updated A1C guidelines, personalized risk calculators for 35+ adults, and comparisons of meds like metformin vs newer options, avoiding overlaps with senior-specific topics."
   }
 ]

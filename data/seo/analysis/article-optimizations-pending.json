@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-04-02T04:33:13.965Z",
+  "optimizations": [
+    {
+      "slug": "the-impact-of-long-term-nsaid-use-on-heart-disease-risk",
+      "currentTitle": "The Impact of Long-Term NSAID Use on Heart Disease Risk",
+      "suggestedTitle": "Do NSAIDs Raise Blood Pressure? What the American Heart Association Says",
+      "suggestedDescription": "NSAIDs like ibuprofen and naproxen can increase blood pressure — here's what the American Heart Association states, plus safer alternatives for adults 35+.",
+      "suggestedPK": "do nsaid raise blood pressure american heart association",
+      "reason": "该页曝光83次（位置4.9），但所有含'american heart association nsaids'的搜索词共42次曝光零点击，标题未包含用户搜索的核心短语'raise blood pressure'或'AHA'"
+    },
+    {
+      "slug": "understanding-a1c-goals-for-seniors-with-diabetes",
+      "currentTitle": "Understanding A1C Goals for Seniors with Diabetes",
+      "suggestedTitle": "HbA1c Target for Elderly Diabetics: AHA & ADA Guidelines",
+      "suggestedDescription": "What's the ideal HbA1c goal for seniors 65+? We compare American Heart Association and ADA recommendations for safe, individualized diabetes management.",
+      "suggestedPK": "hba1c target for elderly diabetics",
+      "reason": "搜索词'hba1c target for elderly diabetics'（2次曝光，位置1）和'hba1c target for elderly patients with diabetes'（1次，position 1）精准匹配该页主题，但当前标题未使用用户语言"
+    },
+    {
+      "slug": "holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues",
+      "currentTitle": "Holiday Eating on a Soft Food Diet: Ideas for Seniors with Dental Issues",
+      "suggestedTitle": "Soft Food Diet for Seniors with No Teeth & High Blood Pressure",
+      "suggestedDescription": "Heart-healthy soft meals for edentulous seniors: low-sodium, high-fiber options that protect both your gums and cardiovascular system.",
+      "suggestedPK": "soft food for elderly with no teeth",
+      "reason": "搜索词'soft food for elderly with no teeth'（1次）、'edentulous diet'（1次）等8个牙科词总曝光12次，全部位置>80；当前标题未体现'no teeth'或'edentulous'等高匹配关键词，且未关联心血管核心定位"
+    },
+    {
+      "slug": "the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "currentTitle": "The Hidden Dangers of Indoor Heating on Blood Pressure",
+      "suggestedTitle": "Does Heat Raise or Lower Blood Pressure? Winter BP Risks for Seniors",
+      "suggestedDescription": "Indoor heating can spike blood pressure in older adults — here's the science, AHA insights, and 3 ways to stay warm safely this winter.",
+      "suggestedPK": "does heat raise or lower blood pressure",
+      "reason": "搜索词'does heat raise or lower blood pressure'（1次，position 100） directly matches user intent; current title is too narrow ('indoor heating') and misses the core question format users search"
+    },
+    {
+      "slug": "articles",
+      "currentTitle": "Articles",
+      "suggestedTitle": "Blood Pressure & Heart Health Articles for Adults 35+",
+      "suggestedDescription": "2200+ evidence-based articles on hypertension, cholesterol, diabetes, NSAIDs, and senior heart health — updated with AHA/ACC guidelines.",
+      "suggestedPK": "blood pressure articles for adults 35+",
+      "reason": "This page has 227 impressions (position 5.9) but zero clicks — generic title 'Articles' fails all search intent signals; adding age + core topics boosts relevance for branded and category queries"
+    }
+  ]
+}
