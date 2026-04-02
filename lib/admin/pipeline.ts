@@ -143,6 +143,14 @@ export interface ArticleRecord {
   date: string;
 }
 
+export interface MonthlyGrowth {
+  month: string;
+  impressions: number;
+  clicks: number;
+  queries: number;
+  pages: number;
+}
+
 export interface PipelineOverview {
   gscDataDays: number;
   latestGSCDate: string | null;
@@ -154,6 +162,7 @@ export interface PipelineOverview {
   latestWeeklyReport: WeeklyReport | null;
   availableDailyDates: string[];
   availableWeeks: string[];
+  monthlyGrowth: MonthlyGrowth[];
 }
 
 // ============================================================
@@ -402,6 +411,47 @@ export function getLLMDeepAnalysis(): string | null {
 }
 
 /**
+ * 从 data/seo/raw/ 动态计算月度增长数据
+ */
+export function getMonthlyGrowth(): MonthlyGrowth[] {
+  if (!fs.existsSync(RAW_DIR)) return [];
+
+  const files = fs.readdirSync(RAW_DIR).filter(f => f.endsWith('.json'));
+  // month -> { impressions, clicks, querySet, pageSet }
+  const monthMap: Record<string, { impressions: number; clicks: number; querySet: Set<string>; pageSet: Set<string> }> = {};
+
+  files.forEach(f => {
+    try {
+      const data = JSON.parse(fs.readFileSync(path.join(RAW_DIR, f), 'utf8'));
+      const date: string = data.date || f.replace('.json', '');
+      const month = date.substring(0, 7); // "2025-12"
+
+      if (!monthMap[month]) {
+        monthMap[month] = { impressions: 0, clicks: 0, querySet: new Set(), pageSet: new Set() };
+      }
+      const entry = monthMap[month];
+      entry.impressions += data.summary?.totalImpressions || 0;
+      entry.clicks += data.summary?.totalClicks || 0;
+
+      const queries: any[] = data.queries || [];
+      queries.forEach((q: any) => { if (q.query) entry.querySet.add(q.query); });
+
+      const pages: any[] = data.pages || [];
+      pages.forEach((p: any) => { if (p.page) entry.pageSet.add(p.page); });
+    } catch { /* skip bad files */ }
+  });
+
+  const months = Object.keys(monthMap).sort();
+  return months.map(month => ({
+    month,
+    impressions: monthMap[month].impressions,
+    clicks: monthMap[month].clicks,
+    queries: monthMap[month].querySet.size,
+    pages: monthMap[month].pageSet.size,
+  }));
+}
+
+/**
  * 获取 Pipeline 总览数据
  */
 export function getPipelineOverview(): PipelineOverview {
@@ -433,5 +483,6 @@ export function getPipelineOverview(): PipelineOverview {
     latestWeeklyReport,
     availableDailyDates,
     availableWeeks,
+    monthlyGrowth: getMonthlyGrowth(),
   };
 }

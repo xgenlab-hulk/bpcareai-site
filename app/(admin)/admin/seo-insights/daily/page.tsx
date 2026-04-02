@@ -1,5 +1,5 @@
 /**
- * SEO Insights - Daily Analysis Detail
+ * SEO Insights - 每日分析详情
  * 每日 GSC 数据、趋势警报、紧急选题、生成文章详情
  */
 
@@ -42,9 +42,9 @@ export default function DailyInsightsPage({ searchParams }: Props) {
       <div className="flex items-center justify-between">
         <div>
           <Link href="/admin/seo-insights" className="text-sm text-blue-600 hover:text-blue-800 flex items-center gap-1 mb-2">
-            <ArrowLeft className="h-3 w-3" /> Back to Overview
+            <ArrowLeft className="h-3 w-3" /> 返回总览
           </Link>
-          <h1 className="text-2xl font-bold text-gray-900">Daily Analysis</h1>
+          <h1 className="text-2xl font-bold text-gray-900">每日分析</h1>
         </div>
         <div className="flex items-center gap-2">
           {prevDate && (
@@ -72,7 +72,7 @@ export default function DailyInsightsPage({ searchParams }: Props) {
       </div>
 
       {!selectedDate && (
-        <div className="rounded-lg bg-gray-50 p-8 text-center text-gray-500">No data available yet.</div>
+        <div className="rounded-lg bg-gray-50 p-8 text-center text-gray-500">暂无数据。</div>
       )}
 
       {/* GSC 数据概览 */}
@@ -80,41 +80,41 @@ export default function DailyInsightsPage({ searchParams }: Props) {
         <div className="rounded-lg bg-white p-6 shadow">
           <div className="flex items-center gap-2 mb-4">
             <Search className="h-5 w-5 text-blue-600" />
-            <h2 className="text-lg font-semibold text-gray-900">GSC Data — {gscData.date}</h2>
+            <h2 className="text-lg font-semibold text-gray-900">GSC 数据 — {gscData.date}</h2>
           </div>
 
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
             <div className="text-center p-3 bg-blue-50 rounded-lg">
               <div className="text-2xl font-bold text-blue-700">{gscData.totalQueries}</div>
-              <div className="text-xs text-blue-600">Search Terms</div>
+              <div className="text-xs text-blue-600">搜索词数</div>
             </div>
             <div className="text-center p-3 bg-green-50 rounded-lg">
               <div className="text-2xl font-bold text-green-700">{gscData.totalImpressions}</div>
-              <div className="text-xs text-green-600">Impressions</div>
+              <div className="text-xs text-green-600">展示量</div>
             </div>
             <div className="text-center p-3 bg-purple-50 rounded-lg">
               <div className="text-2xl font-bold text-purple-700">{gscData.totalClicks}</div>
-              <div className="text-xs text-purple-600">Clicks</div>
+              <div className="text-xs text-purple-600">点击量</div>
             </div>
             <div className="text-center p-3 bg-amber-50 rounded-lg">
               <div className="text-2xl font-bold text-amber-700">{gscData.avgPosition.toFixed(1)}</div>
-              <div className="text-xs text-amber-600">Avg Position</div>
+              <div className="text-xs text-amber-600">平均排名</div>
             </div>
           </div>
 
-          {/* Top 搜索词 */}
+          {/* 热门搜索词 */}
           {gscData.topQueries.length > 0 && (
             <div>
-              <h3 className="text-sm font-semibold text-gray-700 mb-3">Top Search Queries</h3>
+              <h3 className="text-sm font-semibold text-gray-700 mb-3">热门搜索词</h3>
               <div className="overflow-x-auto">
                 <table className="w-full text-sm">
                   <thead>
                     <tr className="border-b border-gray-200">
-                      <th className="text-left py-2 px-3 text-xs font-medium text-gray-500 uppercase">Query</th>
-                      <th className="text-right py-2 px-3 text-xs font-medium text-gray-500 uppercase">Impressions</th>
-                      <th className="text-right py-2 px-3 text-xs font-medium text-gray-500 uppercase">Clicks</th>
-                      <th className="text-right py-2 px-3 text-xs font-medium text-gray-500 uppercase">CTR</th>
-                      <th className="text-right py-2 px-3 text-xs font-medium text-gray-500 uppercase">Position</th>
+                      <th className="text-left py-2 px-3 text-xs font-medium text-gray-500">搜索词</th>
+                      <th className="text-right py-2 px-3 text-xs font-medium text-gray-500">展示量</th>
+                      <th className="text-right py-2 px-3 text-xs font-medium text-gray-500">点击量</th>
+                      <th className="text-right py-2 px-3 text-xs font-medium text-gray-500">CTR</th>
+                      <th className="text-right py-2 px-3 text-xs font-medium text-gray-500">排名</th>
                     </tr>
                   </thead>
                   <tbody>
@@ -133,19 +133,19 @@ export default function DailyInsightsPage({ searchParams }: Props) {
             </div>
           )}
 
-          {/* Top 页面 */}
+          {/* 热门页面 */}
           {gscData.topPages.length > 0 && (
             <div className="mt-6">
-              <h3 className="text-sm font-semibold text-gray-700 mb-3">Top Pages</h3>
+              <h3 className="text-sm font-semibold text-gray-700 mb-3">热门页面</h3>
               <div className="space-y-2">
                 {gscData.topPages.slice(0, 8).map((p, i) => (
                   <div key={i} className="flex items-center justify-between text-sm py-2 px-3 rounded bg-gray-50">
                     <span className="text-gray-700 truncate flex-1">{p.page.split('/articles/')[1] || p.page.split('/').pop()}</span>
                     <div className="flex items-center gap-4 text-gray-500 ml-4 flex-shrink-0 text-xs">
-                      <span>{p.impressions} impr</span>
-                      <span>{p.clicks} clicks</span>
+                      <span>{p.impressions} 展示</span>
+                      <span>{p.clicks} 点击</span>
                       <span>{p.ctr}% CTR</span>
-                      <span>pos {p.position}</span>
+                      <span>排名 {p.position}</span>
                     </div>
                   </div>
                 ))}
@@ -155,12 +155,12 @@ export default function DailyInsightsPage({ searchParams }: Props) {
         </div>
       )}
 
-      {/* 趋势警报 */}
+      {/* 趋势分析 */}
       {analysis && (
         <div className="rounded-lg bg-white p-6 shadow">
           <div className="flex items-center gap-2 mb-4">
             <TrendingUp className="h-5 w-5 text-blue-600" />
-            <h2 className="text-lg font-semibold text-gray-900">Trend Analysis</h2>
+            <h2 className="text-lg font-semibold text-gray-900">趋势分析</h2>
           </div>
 
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
@@ -168,28 +168,28 @@ export default function DailyInsightsPage({ searchParams }: Props) {
               <div className={`text-lg font-semibold ${analysis.impressionsChange >= 0 ? 'text-green-700' : 'text-red-700'}`}>
                 {analysis.impressionsChange >= 0 ? '+' : ''}{analysis.impressionsChange.toFixed(1)}%
               </div>
-              <div className="text-xs text-gray-500">Impressions vs Baseline</div>
+              <div className="text-xs text-gray-500">展示量 vs 基线</div>
             </div>
             <div className="text-center p-3 bg-gray-50 rounded">
               <div className={`text-lg font-semibold ${analysis.clicksChange >= 0 ? 'text-green-700' : 'text-red-700'}`}>
                 {analysis.clicksChange >= 0 ? '+' : ''}{analysis.clicksChange.toFixed(1)}%
               </div>
-              <div className="text-xs text-gray-500">Clicks vs Baseline</div>
+              <div className="text-xs text-gray-500">点击量 vs 基线</div>
             </div>
             <div className="text-center p-3 bg-gray-50 rounded">
               <div className="text-lg font-semibold text-gray-900">{analysis.newQueries.length}</div>
-              <div className="text-xs text-gray-500">New Queries</div>
+              <div className="text-xs text-gray-500">新搜索词</div>
             </div>
             <div className="text-center p-3 bg-gray-50 rounded">
               <div className="text-lg font-semibold text-gray-900">{analysis.alerts.length}</div>
-              <div className="text-xs text-gray-500">Alerts Triggered</div>
+              <div className="text-xs text-gray-500">触发警报</div>
             </div>
           </div>
 
           {/* 警报列表 */}
           {analysis.alerts.length > 0 ? (
             <div className="space-y-3">
-              <h3 className="text-sm font-semibold text-gray-700">Alerts (sorted by score)</h3>
+              <h3 className="text-sm font-semibold text-gray-700">警报（按分数排序）</h3>
               {analysis.alerts.map((alert, i) => (
                 <div key={i} className={`p-4 rounded-lg border ${alert.score >= 50 ? 'border-red-300 bg-red-50' : 'border-gray-200 bg-gray-50'}`}>
                   <div className="flex items-start justify-between">
@@ -204,9 +204,9 @@ export default function DailyInsightsPage({ searchParams }: Props) {
                       </div>
                       <p className="text-sm text-gray-600 mt-1">{alert.reason}</p>
                       <div className="flex items-center gap-4 mt-2 text-xs text-gray-500">
-                        <span>Recent: {alert.recentImpressions} impr</span>
-                        <span>Baseline: {alert.baselineImpressions} impr</span>
-                        {alert.recentPosition && <span>Position: {alert.recentPosition.toFixed(1)}</span>}
+                        <span>近期: {alert.recentImpressions} 展示</span>
+                        <span>基线: {alert.baselineImpressions} 展示</span>
+                        {alert.recentPosition && <span>排名: {alert.recentPosition.toFixed(1)}</span>}
                       </div>
                     </div>
                     <div className={`text-lg font-bold px-3 py-1 rounded ${alert.score >= 50 ? 'text-red-700 bg-red-100' : 'text-gray-600 bg-gray-100'}`}>
@@ -215,27 +215,27 @@ export default function DailyInsightsPage({ searchParams }: Props) {
                   </div>
                   {alert.score >= 50 && (
                     <div className="mt-2 text-xs text-red-600 font-medium">
-                      Score &ge; 50 — Triggered Perplexity + LLM urgent topic generation
+                      分数 &ge; 50 — 已触发 Perplexity + LLM 紧急选题生成
                     </div>
                   )}
                 </div>
               ))}
             </div>
           ) : (
-            <p className="text-sm text-gray-400">No alerts triggered on this day.</p>
+            <p className="text-sm text-gray-400">当天未触发任何警报。</p>
           )}
 
-          {/* Rising Queries */}
+          {/* 上升搜索词 */}
           {analysis.risingQueries.length > 0 && (
             <div className="mt-6">
-              <h3 className="text-sm font-semibold text-gray-700 mb-3">Rising Queries</h3>
+              <h3 className="text-sm font-semibold text-gray-700 mb-3">上升搜索词</h3>
               <div className="space-y-2">
                 {analysis.risingQueries.map((rq, i) => (
                   <div key={i} className="flex items-center justify-between text-sm py-2 px-3 rounded bg-blue-50">
                     <span className="text-gray-700">{rq.query}</span>
                     <div className="flex items-center gap-3 text-xs">
                       <span className="text-blue-700 font-medium">{rq.changeRatio.toFixed(1)}x</span>
-                      <span className="text-gray-500">{rq.recentImpressions} recent impr</span>
+                      <span className="text-gray-500">{rq.recentImpressions} 近期展示</span>
                     </div>
                   </div>
                 ))}
@@ -249,7 +249,7 @@ export default function DailyInsightsPage({ searchParams }: Props) {
       <div className="rounded-lg bg-white p-6 shadow">
         <div className="flex items-center gap-2 mb-4">
           <AlertTriangle className="h-5 w-5 text-red-600" />
-          <h2 className="text-lg font-semibold text-gray-900">Urgent Topics</h2>
+          <h2 className="text-lg font-semibold text-gray-900">紧急选题</h2>
         </div>
         {urgentTopics.length > 0 ? (
           <div className="space-y-4">
@@ -257,20 +257,20 @@ export default function DailyInsightsPage({ searchParams }: Props) {
               <div key={i} className="p-4 rounded-lg border border-red-200 bg-red-50/50">
                 <div className="flex items-start justify-between mb-2">
                   <h3 className="text-sm font-semibold text-gray-900">{topic.title}</h3>
-                  <span className="text-xs bg-red-100 text-red-700 px-2 py-0.5 rounded font-medium">score {topic.score}</span>
+                  <span className="text-xs bg-red-100 text-red-700 px-2 py-0.5 rounded font-medium">分数 {topic.score}</span>
                 </div>
                 <p className="text-xs text-gray-600 mb-2">{topic.description}</p>
                 <div className="flex items-center gap-3 text-xs text-gray-500 mb-3">
-                  <span>PK: <span className="text-blue-600">{topic.primaryKeyword}</span></span>
-                  <span>Query: {topic.query}</span>
-                  <span>Type: {topic.type}</span>
-                  <span>Expires: {new Date(topic.expiresAt).toLocaleDateString()}</span>
+                  <span>主关键词: <span className="text-blue-600">{topic.primaryKeyword}</span></span>
+                  <span>搜索词: {topic.query}</span>
+                  <span>类型: {topic.type}</span>
+                  <span>过期: {new Date(topic.expiresAt).toLocaleDateString()}</span>
                 </div>
                 {topic.perplexityQuestions.length > 0 && (
                   <div className="mt-3 border-t border-red-200 pt-3">
                     <div className="flex items-center gap-1 mb-2">
                       <Zap className="h-3 w-3 text-amber-600" />
-                      <span className="text-xs font-medium text-amber-700">Perplexity Real Questions</span>
+                      <span className="text-xs font-medium text-amber-700">Perplexity 真实问题</span>
                     </div>
                     <ul className="space-y-1">
                       {topic.perplexityQuestions.map((q, j) => (
@@ -283,7 +283,7 @@ export default function DailyInsightsPage({ searchParams }: Props) {
             ))}
           </div>
         ) : (
-          <p className="text-sm text-gray-400">No active urgent topics. Topics are generated when GSC alert score &ge; 50.</p>
+          <p className="text-sm text-gray-400">暂无紧急选题。当 GSC 警报分数 &ge; 50 时会自动生成。</p>
         )}
       </div>
 
@@ -291,24 +291,24 @@ export default function DailyInsightsPage({ searchParams }: Props) {
       <div className="rounded-lg bg-white p-6 shadow">
         <div className="flex items-center gap-2 mb-4">
           <FileText className="h-5 w-5 text-green-600" />
-          <h2 className="text-lg font-semibold text-gray-900">Articles Generated on {selectedDate}</h2>
+          <h2 className="text-lg font-semibold text-gray-900">{selectedDate} 生成的文章</h2>
         </div>
         {articles.length > 0 ? (
           <div className="space-y-3">
             {articles.map((article, i) => (
-              <Link key={i} href={`/articles/${article.slug}`} className="block p-4 rounded-lg border border-gray-200 hover:border-green-300 hover:bg-green-50/30 transition-colors">
+              <a key={i} href={`/articles/${article.slug}`} target="_blank" rel="noopener noreferrer" className="block p-4 rounded-lg border border-gray-200 hover:border-green-300 hover:bg-green-50/30 transition-colors">
                 <h3 className="text-sm font-medium text-gray-900">{article.title}</h3>
                 <p className="text-xs text-gray-500 mt-1">{article.description}</p>
                 <div className="flex items-center gap-3 mt-2 text-xs">
-                  <span className="text-blue-600">PK: {article.primaryKeyword}</span>
+                  <span className="text-blue-600">主关键词: {article.primaryKeyword}</span>
                   <span className="bg-gray-100 text-gray-600 px-2 py-0.5 rounded">{article.topicCluster}</span>
                   <span className="text-gray-400">/{article.slug}</span>
                 </div>
-              </Link>
+              </a>
             ))}
           </div>
         ) : (
-          <p className="text-sm text-gray-400">No articles generated on this date.</p>
+          <p className="text-sm text-gray-400">当天未生成文章。</p>
         )}
       </div>
     </div>

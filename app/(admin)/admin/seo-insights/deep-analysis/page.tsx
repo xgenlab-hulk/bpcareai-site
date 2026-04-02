@@ -1,5 +1,5 @@
 /**
- * SEO Insights - LLM Deep Analysis (Full Version)
+ * SEO Insights - LLM 深度分析（完整版）
  * 展示 llm-deep-analysis.md 的完整分析报告
  */
 
@@ -16,13 +16,13 @@ export default function DeepAnalysisPage() {
     <div className="space-y-6">
       <div>
         <Link href="/admin/seo-insights" className="text-sm text-blue-600 hover:text-blue-800 flex items-center gap-1 mb-2">
-          <ArrowLeft className="h-3 w-3" /> Back to Overview
+          <ArrowLeft className="h-3 w-3" /> 返回总览
         </Link>
         <div className="flex items-center gap-3">
           <Brain className="h-6 w-6 text-purple-600" />
           <div>
-            <h1 className="text-2xl font-bold text-gray-900">LLM Deep Analysis</h1>
-            <p className="text-sm text-gray-500">Comprehensive AI analysis based on 90-day GSC data</p>
+            <h1 className="text-2xl font-bold text-gray-900">LLM 深度分析</h1>
+            <p className="text-sm text-gray-500">基于 GSC 历史数据的 AI 综合分析</p>
           </div>
         </div>
       </div>
@@ -32,7 +32,7 @@ export default function DeepAnalysisPage() {
           <div className="bg-gradient-to-r from-purple-600 to-indigo-600 px-6 py-4">
             <div className="flex items-center gap-2 text-white">
               <FileText className="h-5 w-5" />
-              <span className="font-medium">Full Analysis Report</span>
+              <span className="font-medium">完整分析报告</span>
             </div>
           </div>
           <div className="p-6 md:p-8">
@@ -57,8 +57,8 @@ export default function DeepAnalysisPage() {
       ) : (
         <div className="rounded-xl bg-gray-50 p-12 text-center">
           <Brain className="h-12 w-12 text-gray-300 mx-auto mb-4" />
-          <p className="text-gray-500">No deep analysis report available.</p>
-          <p className="text-xs text-gray-400 mt-2">This report is generated from 90-day GSC baseline data analysis.</p>
+          <p className="text-gray-500">暂无深度分析报告。</p>
+          <p className="text-xs text-gray-400 mt-2">此报告基于 GSC 历史数据分析生成。</p>
         </div>
       )}
     </div>
