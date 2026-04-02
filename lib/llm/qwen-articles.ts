@@ -442,12 +442,20 @@ export async function generateArticleMarkdown(
     }
   }
 
+  // 9. 同步 H1 与 YAML title — 确保搜索引擎和 AI 看到一致的标题
+  let finalBody = body;
+  const h1Match = finalBody.match(/^# .+$/m);
+  if (h1Match) {
+    finalBody = finalBody.replace(h1Match[0], `# ${optimized.title}`);
+    console.log(`   🔄 H1 synced with metadata title`);
+  }
+
   console.log(`   ✅ Article ready: ${slug}\n`);
 
   return {
     slug,
     frontmatter,
-    body,
+    body: finalBody,
   };
 }
 
