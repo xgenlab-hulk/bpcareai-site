@@ -1,5 +1,22 @@
 [
   {
+    "slug": "what-a1c-too-high-50-year-old",
+    "title": "What A1C Level Is Too High for a 50-Year-Old?",
+    "description": "What a1c level is too high for 50 year old adults? ADA says ≥7.5% (avg. glucose ~169 mg/dL) raises complication risk—act now with lifestyle or treatment",
+    "date": "2026-04-02",
+    "updated": "2026-04-02",
+    "primaryKeyword": "what a1c level is too high for 50 year old",
+    "topicCluster": "diabetes-management",
+    "image": "",
+    "relatedSlugs": [
+      "why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals",
+      "understanding-a1c-goals-for-seniors-with-diabetes",
+      "the-truth-about-normal-fasting-glucose-in-adults-over-70-why-95-105-mg-dl-may-already-signal-beta-cell-exhaustion-and-early-dysglycemia",
+      "myths-vs-facts-normal-postprandial-glucose-in-adults-75-why-140-mg-dl-after-meals-predicts-3-2x-higher-dementia-risk-even-with-perfect-a1c",
+      "myths-vs-facts-my-diabetes-is-under-control-because-my-a1c-is-6-8-why-that-number-lies-in-adults-77-with-anemia-and-chronic-kidney-disease"
+    ]
+  },
+  {
     "slug": "warning-signs-weak-heart-pump",
     "title": "Warning Signs of Weak Heart Pump in Adults Over 40",
     "description": "Warning signs of weak heart pump include unexplained fatigue, breathlessness on mild activity, and leg swelling—40% of people with LVEF <40% notice these for",
@@ -51,6 +68,21 @@
     ]
   },
   {
+    "slug": "soups-lower-blood-pressure-naturally",
+    "title": "3 Soups That Lower Blood Pressure Naturally (Doctor-Approved)",
+    "description": "Soups that lower blood pressure naturally — beetroot, tomato-basil, and spinach-white bean soups lowered systolic BP by 6.2 mmHg in a 12-week trial",
+    "date": "2026-04-02",
+    "updated": "2026-04-02",
+    "primaryKeyword": "soups that lower blood pressure naturally",
+    "topicCluster": "nutrition-diet-management",
+    "image": "",
+    "relatedSlugs": [
+      "10-foods-that-lower-central-aortic-systolic-pressure-within-90-minutes-backed-by-radial-artery-tonometry-data",
+      "can-meditation-lower-blood-pressure-naturally",
+      "top-5-winter-superfoods-that-naturally-lower-blood-pressure"
+    ]
+  },
+  {
     "slug": "safe-stretching-exercises-stiff-joints-after-65",
     "title": "5 Safe Stretching Exercises for Stiff Joints After 65",
     "description": "Safe stretching exercises for stiff joints after 65 can boost range of motion by 22% in 8 weeks (JAGS, 2022) — gentle, evidence-backed moves to ease stiffness",
@@ -59,7 +91,24 @@
     "primaryKeyword": "safe stretching exercises for stiff joints after 65",
     "topicCluster": "lifestyle-interventions",
     "image": "",
-    "relatedSlugs": []
+    "relatedSlugs": [
+      "exercises-for-seniors-poor-balance",
+      "30g-fiber-safe-after-65"
+    ]
+  },
+  {
+    "slug": "read-cholesterol-test-after-60",
+    "title": "How to Read Your Cholesterol Test After 60",
+    "description": "How to read cholesterol test after 60: LDL <70 mg/dL is ideal if you have heart disease or diabetes (ACC/AHA). Understand HDL, triglycerides, and non-HDL —",
+    "date": "2026-04-02",
+    "updated": "2026-04-02",
+    "primaryKeyword": "how to read cholesterol test after 60",
+    "topicCluster": "nutrition-diet-management",
+    "image": "",
+    "relatedSlugs": [
+      "myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old",
+      "myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio"
+    ]
   },
   {
     "slug": "nutrient-dense-foods-low-appetite-seniors",
@@ -79,6 +128,23 @@
     ]
   },
   {
+    "slug": "exercises-for-seniors-poor-balance",
+    "title": "Best Exercises for Seniors with Poor Balance (Safe & Proven)",
+    "description": "Best exercises for seniors with poor balance — proven to reduce fall risk by 34% in 12 weeks (Cochrane, 2022). Start seated, build confidence, and move safely.",
+    "date": "2026-04-02",
+    "updated": "2026-04-02",
+    "primaryKeyword": "best exercises for seniors with poor balance",
+    "topicCluster": "lifestyle-interventions",
+    "image": "",
+    "relatedSlugs": [
+      "the-best-indoor-exercises-for-blood-pressure-control-in-winter",
+      "best-seated-resistance-exercises-for-bp-control-in-adults-77-with-severe-osteoarthritis-and-stage-2-hypertension",
+      "safe-stretching-exercises-stiff-joints-after-65",
+      "best-low-impact-resistance-exercises-for-adults-82-with-severe-osteoporosis-and-atrial-fibrillation-on-apixaban",
+      "best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats"
+    ]
+  },
+  {
     "slug": "best-blood-pressure-meds-women-over-70",
     "title": "Best Blood Pressure Meds for Women Over 70: Safe & Effective",
     "description": "Best blood pressure meds for women over 70 include chlorthalidone or amlodipine—shown to cut cardiovascular events by 22% in adults 75+. Learn what’s safest",
@@ -93,6 +159,22 @@
       "could-your-medications-be-raising-your-blood-pressure",
       "5-things-every-woman-over-68-should-know-about-central-aortic-pressure-especially-after-menopause-and-long-term-beta-blocker-use",
       "7-hidden-medication-interactions-that-raise-blood-pressure-after-age-60-including-common-antidepressants-antihistamines-and-topical-nsaids"
+    ]
+  },
+  {
+    "slug": "30g-fiber-safe-after-65",
+    "title": "Is 30g Fiber Safe After 65? Yes — If You Build Up Slowly",
+    "description": "Is 30g fiber safe after 65? Yes — when added gradually (just 2–3g/week). Seniors adding fiber this way saw 42% less constipation (JAMA, 2022). Start safely",
+    "date": "2026-04-02",
+    "updated": "2026-04-02",
+    "primaryKeyword": "is 30g fiber safe after 65",
+    "topicCluster": "nutrition-diet-management",
+    "image": "",
+    "relatedSlugs": [
+      "safe-stretching-exercises-stiff-joints-after-65",
+      "10-high-fiber-holiday-foods-that-support-digestion-after-50",
+      "what-are-the-earliest-digestive-signs-that-your-holiday-fiber-intake-is-too-low-especially-if-you-re-taking-a-daily-calcium-supplement-after-age-65",
+      "how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors"
     ]
   },
   {

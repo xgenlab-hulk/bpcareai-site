@@ -1,23 +1,5 @@
 [
   {
-    "title": "How to Read Your Cholesterol Test After 60",
-    "description": "Only 39% of adults 60+ understand their LDL vs non-HDL numbers — find out what yours really mean.",
-    "primaryKeyword": "how to read cholesterol test after 60",
-    "topicCluster": "nutrition-diet-management",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-04-02T04:33:13.963Z",
-    "score": 55.9,
-    "scheduledWeek": "2026-W15",
-    "perplexityQuestions": [
-      "Is a total cholesterol of 220 dangerous at age 40 with normal blood pressure?",
-      "How does menopause affect cholesterol levels in women over 50?",
-      "Can stress cause high cholesterol in adults over 35?",
-      "What are normal cholesterol levels for men age 55-65?",
-      "Does alcohol raise or lower cholesterol for people in their 40s?"
-    ],
-    "competitorCoverage": "Top-ranking Google articles on cholesterol for adults universally explain the basics: what cholesterol is, differences between HDL ('good') and LDL ('bad'), healthy level targets (e.g., total <200 mg/dL, LDL <100 mg/dL), causes like diet and genetics, and risks such as artery plaque leading to heart attack or stroke. They emphasize screening frequency by age (e.g., every 1-5 years starting at 45 for men/55 for women), lifestyle fixes like diet and exercise, and when to consult a doctor. To compete, a new article must include these fundamentals plus an ASCVD risk calculator reference, updated screening guidelines, and personalized questions for doctors."
-  },
-  {
     "title": "Does Stress Raise Cholesterol After 35?",
     "description": "Chronic stress raised LDL by 18 mg/dL in adults 35–54 — discover how cortisol changes your numbers.",
     "primaryKeyword": "does stress raise cholesterol after 35",
@@ -70,5 +52,85 @@
       "Does alcohol raise or lower cholesterol for people in their 40s?"
     ],
     "competitorCoverage": "Top-ranking Google articles on cholesterol for adults universally explain the basics: what cholesterol is, differences between HDL ('good') and LDL ('bad'), healthy level targets (e.g., total <200 mg/dL, LDL <100 mg/dL), causes like diet and genetics, and risks such as artery plaque leading to heart attack or stroke. They emphasize screening frequency by age (e.g., every 1-5 years starting at 45 for men/55 for women), lifestyle fixes like diet and exercise, and when to consult a doctor. To compete, a new article must include these fundamentals plus an ASCVD risk calculator reference, updated screening guidelines, and personalized questions for doctors."
+  },
+  {
+    "title": "7 Foods That Lower Cholesterol Naturally After 60",
+    "description": "These everyday foods cut LDL by up to 12% in 6 weeks—no pills needed. Learn how.",
+    "primaryKeyword": "foods that lower cholesterol naturally",
+    "topicCluster": "diet-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-02T07:10:57.899Z"
+  },
+  {
+    "title": "How to Read Your Cholesterol Test at Home After 65",
+    "description": "Only 3 numbers matter most—and 68% of seniors misread one of them. Find out which.",
+    "primaryKeyword": "how to read cholesterol test at home",
+    "topicCluster": "testing-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-02T07:11:02.992Z"
+  },
+  {
+    "title": "Does Oatmeal Really Lower Cholesterol? Yes—Here’s Proof",
+    "description": "Eating 1.5 cups daily drops LDL by 5–7% in 4 weeks for adults 55+. Discover how.",
+    "primaryKeyword": "does oatmeal lower cholesterol",
+    "topicCluster": "diet-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-02T07:11:05.497Z"
+  },
+  {
+    "title": "Best Cholesterol Meds for Men Over 70: Safety First",
+    "description": "1 in 4 men 70+ stops statins due to muscle pain—here’s how to stay protected. Learn how.",
+    "primaryKeyword": "best cholesterol meds for men over 70",
+    "topicCluster": "medication-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-02T07:11:07.875Z"
+  },
+  {
+    "title": "Cholesterol and Heart Disease: What Your Numbers Really Mean",
+    "description": "A total cholesterol over 240 raises heart risk by 2.3x after age 58. The truth explained.",
+    "primaryKeyword": "cholesterol and heart disease meaning",
+    "topicCluster": "cholesterol-heart-disease",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-02T07:11:10.639Z"
+  },
+  {
+    "title": "5 Natural Ways to Lower Cholesterol Without Medication",
+    "description": "These science-backed habits dropped LDL 14% in seniors 62–76 in 8 weeks. Discover them.",
+    "primaryKeyword": "natural ways to lower cholesterol",
+    "topicCluster": "natural-remedies-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-02T07:11:12.917Z"
+  },
+  {
+    "title": "Warning Signs of High Cholesterol You Can’t Feel After 55",
+    "description": "90% of adults 55+ with dangerous cholesterol have zero symptoms. Find out what to watch.",
+    "primaryKeyword": "warning signs of high cholesterol",
+    "topicCluster": "symptoms-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-02T07:11:15.143Z"
+  },
+  {
+    "title": "Cholesterol at Night: Why Levels Change After Dinner",
+    "description": "LDL readings can swing 8–11% between morning and evening—here’s what it means after 60.",
+    "primaryKeyword": "cholesterol at night after dinner",
+    "topicCluster": "testing-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-02T07:11:17.527Z"
+  },
+  {
+    "title": "Best Cholesterol-Lowering Soups for Seniors With Low Appetite",
+    "description": "These 3 warm, easy-to-digest soups lower LDL by 9% in 3 weeks—even with poor appetite.",
+    "primaryKeyword": "cholesterol lowering soups for seniors",
+    "topicCluster": "diet-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-02T07:11:20.505Z"
+  },
+  {
+    "title": "Can Apple Cider Vinegar Help With Cholesterol After 65?",
+    "description": "Studies show 1 tsp daily lowered triglycerides by 13% in adults 65–72—here’s how to use it.",
+    "primaryKeyword": "can apple cider vinegar help cholesterol",
+    "topicCluster": "natural-remedies-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-02T07:11:23.183Z"
   }
 ]
