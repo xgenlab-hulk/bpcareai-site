@@ -1,13 +1,13 @@
 ---
-title: >-
-  How to Read Your Cholesterol Test After 60
+title: How to Read Your Cholesterol Test After 60
 slug: read-cholesterol-test-after-60
 description: >-
-  How to read cholesterol test after 60: LDL <70 mg/dL is ideal if you have heart disease or diabetes (ACC/AHA). Understand HDL, triglycerides, and non-HDL —
+  How to read cholesterol test after 60: LDL <70 mg/dL is ideal if you have
+  heart disease or diabetes (ACC/AHA). Understand HDL, triglycerides, and
+  non-HDL —
 date: '2026-04-02'
 updated: '2026-04-02'
-primaryKeyword: >-
-  how to read cholesterol test after 60
+primaryKeyword: how to read cholesterol test after 60
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
@@ -15,6 +15,7 @@ relatedSlugs:
     myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old
   - >-
     myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio
+  - does-stress-raise-cholesterol-after-35
 ---
 
 # How to Read Your Cholesterol Test After 60 — A Clear, Calm Guide for Healthier Aging

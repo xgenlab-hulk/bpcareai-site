@@ -1,5 +1,83 @@
 [
   {
+    "slug": "start-walking-at-75-safely",
+    "title": "How to Start Walking at 75 — Safe, Doctor-Approved Steps",
+    "description": "How to start walking at 75: Begin with 5–10 min, 3x/week—boosts heart health by 31%. Includes blood pressure (≥140/90) safety check. Start today.",
+    "date": "2026-04-03",
+    "updated": "2026-04-03",
+    "primaryKeyword": "how to start walking at 75",
+    "topicCluster": "lifestyle-interventions",
+    "image": "",
+    "relatedSlugs": [
+      "5-things-you-should-know-before-starting-a-heart-smart-walking-group-especially-if-you-re-78-with-spinal-stenosis-and-mild-aortic-stenosis",
+      "30g-fiber-safe-after-65"
+    ]
+  },
+  {
+    "slug": "does-stress-raise-cholesterol-after-35",
+    "title": "Does Stress Raise Cholesterol After 35? Yes — Here’s Why",
+    "description": "Yes, chronic stress raises LDL cholesterol by ~12 mg/dL after 35 (per 2022 JAHA meta-analysis). Learn how cortisol (stress hormone) and behavior drive this —",
+    "date": "2026-04-03",
+    "updated": "2026-04-03",
+    "primaryKeyword": "does stress raise cholesterol after 35",
+    "topicCluster": "lifestyle-interventions",
+    "image": "",
+    "relatedSlugs": [
+      "stress-blood-sugar-spikes-after-35",
+      "read-cholesterol-test-after-60",
+      "myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old",
+      "how-chronic-stress-contributes-to-high-blood-pressure-over-time",
+      "how-intergenerational-gift-giving-stress-elevates-postprandial-triglycerides-in-adults-61-with-familial-hypertriglyceridemia"
+    ]
+  },
+  {
+    "slug": "check-blood-pressure-at-night-after-35",
+    "title": "How to Check Blood Pressure at Night After 35 — Right Way",
+    "description": "How to check blood pressure at night after 35: Systolic ≥110 mmHg while sleeping raises heart disease risk by 42%. Learn evidence-based timing, cuff tips",
+    "date": "2026-04-03",
+    "updated": "2026-04-03",
+    "primaryKeyword": "how to check blood pressure at night after 35",
+    "topicCluster": "hypertension-management",
+    "image": "",
+    "relatedSlugs": [
+      "7-silent-signs-your-blood-pressure-is-spiking-at-night-even-if-your-daytime-readings-look-normal",
+      "the-link-between-sleep-apnea-and-high-blood-pressure-after-50",
+      "how-often-should-adults-over-50-check-their-blood-pressure",
+      "why-blood-pressure-matters-even-if-you-feel-fine",
+      "how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night"
+    ]
+  },
+  {
+    "slug": "calcium-rich-foods-without-dairy-seniors",
+    "title": "Calcium-Rich Foods Without Dairy for Seniors (75+)",
+    "description": "Seniors 75+ need 1,200 mg calcium daily — get it from collards (266 mg/½ cup), sardines (325 mg/3 oz), and fortified OJ. Absorption drops 30% with age",
+    "date": "2026-04-03",
+    "updated": "2026-04-03",
+    "primaryKeyword": "calcium rich foods without dairy for seniors",
+    "topicCluster": "nutrition-diet-management",
+    "image": "",
+    "relatedSlugs": [
+      "nutrient-dense-foods-low-appetite-seniors"
+    ]
+  },
+  {
+    "slug": "best-oral-diabetes-meds-men-over-60",
+    "title": "Best Oral Diabetes Meds for Men Over 60 — Safe & Effective",
+    "description": "Best oral diabetes meds for men over 60: metformin (1.0–1.5% A1C drop) + SGLT2 inhibitors (31% fewer heart failure hospitalizations). Talk to your doctor today.",
+    "date": "2026-04-03",
+    "updated": "2026-04-03",
+    "primaryKeyword": "best oral diabetes meds for men over 60",
+    "topicCluster": "diabetes-management",
+    "image": "",
+    "relatedSlugs": [
+      "best-fruits-for-diabetics-over-50-and-which-to-limit",
+      "best-low-impact-exercises-for-managing-diabetes-after-60",
+      "is-metformin-still-safe-for-diabetics-over-70",
+      "simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone",
+      "warning-signs-your-stable-diabetes-is-masking-early-cognitive-decline-especially-if-you-re-a-man-over-69-with-hba1c-6-8-7-4"
+    ]
+  },
+  {
     "slug": "what-a1c-too-high-50-year-old",
     "title": "What A1C Level Is Too High for a 50-Year-Old?",
     "description": "What a1c level is too high for 50 year old adults? ADA says ≥7.5% (avg. glucose ~169 mg/dL) raises complication risk—act now with lifestyle or treatment",
@@ -107,7 +185,8 @@
     "image": "",
     "relatedSlugs": [
       "myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old",
-      "myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio"
+      "myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio",
+      "does-stress-raise-cholesterol-after-35"
     ]
   },
   {
@@ -174,7 +253,8 @@
       "safe-stretching-exercises-stiff-joints-after-65",
       "10-high-fiber-holiday-foods-that-support-digestion-after-50",
       "what-are-the-earliest-digestive-signs-that-your-holiday-fiber-intake-is-too-low-especially-if-you-re-taking-a-daily-calcium-supplement-after-age-65",
-      "how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors"
+      "how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors",
+      "start-walking-at-75-safely"
     ]
   },
   {
