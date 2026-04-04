@@ -16,6 +16,7 @@ relatedSlugs:
   - >-
     myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio
   - does-stress-raise-cholesterol-after-35
+  - high-cholesterol-fatigue-after-35
 ---
 
 # How to Read Your Cholesterol Test After 60 — A Clear, Calm Guide for Healthier Aging

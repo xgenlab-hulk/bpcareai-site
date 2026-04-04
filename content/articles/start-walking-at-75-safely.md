@@ -1,20 +1,19 @@
 ---
-title: >-
-  How to Start Walking at 75 — Safe, Doctor-Approved Steps
+title: 'How to Start Walking at 75 — Safe, Doctor-Approved Steps'
 slug: start-walking-at-75-safely
 description: >-
-  How to start walking at 75: Begin with 5–10 min, 3x/week—boosts heart health by 31%. Includes blood pressure (≥140/90) safety check. Start today.
+  How to start walking at 75: Begin with 5–10 min, 3x/week—boosts heart health
+  by 31%. Includes blood pressure (≥140/90) safety check. Start today.
 date: '2026-04-03'
 updated: '2026-04-03'
-primaryKeyword: >-
-  how to start walking at 75
+primaryKeyword: how to start walking at 75
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
     5-things-you-should-know-before-starting-a-heart-smart-walking-group-especially-if-you-re-78-with-spinal-stenosis-and-mild-aortic-stenosis
-  - >-
-    30g-fiber-safe-after-65
+  - 30g-fiber-safe-after-65
+  - walking-minutes-per-day-seniors-over-65
 ---
 
 # How to Start Walking at 75 — Safe, Doctor-Approved Steps
