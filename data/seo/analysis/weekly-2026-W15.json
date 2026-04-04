@@ -1,217 +1,217 @@
 {
   "week": "2026-W15",
-  "generatedAt": "2026-04-02T04:33:13.965Z",
+  "generatedAt": "2026-04-04T03:30:58.337Z",
   "config": {
     "weeklyTarget": 35,
     "dailyTarget": 5
   },
   "previousWeek": {
-    "remaining": 103,
-    "kept": 0
+    "remaining": 65,
+    "kept": 15
   },
-  "newGenerated": 27,
-  "totalWritten": 33,
+  "newGenerated": 18,
+  "totalWritten": 40,
   "gscData": {
     "daysAnalyzed": 7,
     "totalSearchTerms": 35
   },
   "llmAnalysis": {
-    "searchIntentAnalysis": "信息查询主导（占比92%）：如'american heart association nsaids raise blood pressure ibuprofen'（5次展示，CTR 0%）、'hba1c target for elderly diabetics'（2次展示）等均属深度健康知识需求；比较决策类极少（仅'bp rating ai'隐含工具选择意图）；无紧急问题词（无'chest pain', 'sudden high bp'等）。值得注意的是，'how pets improve heart health'（2次展示，位置66）和'soft meals for sore teeth'（2次，位置100）反映用户存在跨领域健康关联需求（心-宠、心-口腔），但当前内容未建立语义锚点。",
-    "ctrAnomalies": "全量查询CTR=0%，核心症结在标题/描述与搜索词严重错配：首页（position 2）和/articles（position 5.9）虽有高曝光（15/227次），但标题未包含任何高频搜索词如'NSAIDs blood pressure'或'A1C elderly'；关键文章如'the-impact-of-long-term-nsaid-use-on-heart-disease-risk'（position 4.9，83次曝光）标题学术化，未嵌入用户实际搜索的口语化短语'ibuprofen raise blood pressure'；'holiday-eating-on-a-soft-food-diet'（position 83）标题精准匹配'edentulous diet'（1次曝光）但排名过低，说明内容权重不足。",
-    "hiddenOpportunities": "[\"NSAID-BP临床指南长尾词群：'american heart association nsaids raise blood pressure guidance'（1次曝光，位置4）等12个变体词总曝光32次，零点击，表明用户主动寻求AHA权威解读，但现有文章未标注'AHA statement'或'clinical guidance'标签；\",\"口腔-心血管共病交叉需求：'soft food for elderly with no teeth'（1次）、'soft foods for mouth pain'（1次）等8个牙科相关词总曝光12次，全部位于位置>80，而网站已有'low-sodium-holiday-turkey-brine'（12次曝光）证明节日饮食内容有流量基础，可延伸'heart-healthy soft diet for edentulous seniors'专题；\",\"温度-血压新关联：'does heat raise or lower blood pressure'（1次，位置100）与已获点击的'the-hidden-dangers-of-indoor-heating-on-blood-pressure'（CTR 2%）形成强呼应，暗示'heat vs cold BP effects'是待深挖的季节性热点；\",\"AI健康工具萌芽信号：'bp rating ai'（1次，位置12）是唯一含'AI'的搜索词，结合站点名BPCareAI，应启动'AI-powered BP risk calculator'概念验证；\",\"纤维饮食实操缺口：'high fiber side dish'（1次）、'simple high-fiber side dishes'（1次）等4词总曝光5次，而'best-warm-heart-healthy-soups'（10次曝光）证明温暖食物有受众，可开发'5-minute high-fiber side dishes for seniors with hypertension'图文食谱\"]",
-    "topicPriorities": "[{\"priority\":1,\"topic\":\"NSAIDs and Blood Pressure: What the American Heart Association Says\",\"dataBasis\":\"12个含'american heart association nsaids'的搜索词总曝光42次，平均位置4.7，零点击；对应文章'the-impact-of-long-term-nsaid-use-on-heart-disease-risk'曝光83次但CTR为0，证明标题未触发用户搜索意图\",\"whyPriority\":\"最高ROI：直接修复高曝光低转化漏斗，且AHA背书可提升E-E-A-T权威性\"},{\"priority\":2,\"topic\":\"Soft Food Diet for Seniors with Dental Issues & High Blood Pressure\",\"dataBasis\":\"'soft food for elderly with no teeth'（1次）、'edentulous diet'（1次）等8个牙科相关词总曝光12次，全部位置>",
+    "searchIntentAnalysis": "信息查询为主（占比92%）：如'american heart association nsaids raise blood pressure ibuprofen'（5次展示，CTR 0%，位置3.8）和'hba1c target for elderly diabetics'（2次展示，位置7）均属权威指南型健康咨询；比较决策类极少（仅'bp rating ai'疑似工具对比，但仅1次展示）；无紧急问题词（无'chest pain', 'sudden high bp'等急诊关键词）。值得注意的是，'soft meals for sore teeth'（2次展示，位置100）与'edentulous diet'（1次，位置97）等词反映明确的口腔-心血管共病需求，属高意图但低覆盖的信息查询。",
+    "ctrAnomalies": "全量查询CTR为0%，核心原因是：① 首页（/）展示15次但点击0，位置2却无吸引力标题/描述；② 关键文章如'the-impact-of-long-term-nsaid-use-on-heart-disease-risk'（83次展示，位置4.9）标题学术化、未包含用户搜索高频词'ibuprofen'或'american heart association'；③ 'holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues'（12次展示，位置83）标题冗长且未匹配'edentulous'、'soft foods for bad teeth'等实际搜索词；④ 'articles'目录页（227次展示，位置5.9）无内容摘要，用户无法判断价值。",
+    "hiddenOpportunities": "[\"NSAID-BP权威背书长尾词群：'american heart association nsaids raise blood pressure'相关变体共11个查询（总展示36次），但当前文章仅泛称'NSAID use'，未嵌入AHA品牌词与具体药物（ibuprofen/naproxen），错失信任锚点；\",\"口腔-心血管交叉需求：'soft food for elderly with no teeth'（1次）、'edentulous diet'（1次）、'soft foods for mouth pain'（1次）等7个牙科饮食词总展示12次，平均位置85+，表明现有'holida...soft-food-diet'文章未覆盖该垂直场景；\",\"老年糖尿病个体化目标：'hba1c target for elderly diabetics'（2次）与'setting a1c goals in diabetic patients'（1次）等词显示临床决策需求，但当前文章'understanding-a1c-goals-for-seniors-with-diabetes'（81次展示）标题未含'target'或'goals'等精准PK；\",\"环境血压影响新兴话题：'does heat raise or lower blood pressure'（1次，位置100）与'indoor-heating-on-blood-pressure'（两篇合计71次展示，CTR仅2%）存在强关联，但当前内容未用问答式标题承接搜索语言；\",\"高纤维饮食实操缺口：'high fiber side dish'（1次）、'simple high-fiber side dishes'（1次）等词反映厨房级需求，而现有'best-warm-heart-healthy-soups'（10次展示）未延伸至配菜维度。\"]",
+    "topicPriorities": "[{\"priority\":1,\"topic\":\"AHA官方立场：NSAIDs（ibuprofen/naproxen）如何升高血压？老年人用药安全指南\",\"dataBasis\":\"NSAID相关搜索词共11个，总展示36次，最高单次展示5次（'american heart association nsaids raise blood pressure ibuprofen'），平均位置4.5，但当前文章未在标题/首段嵌入AHA+ibuprofen组合词\",\"whyPriority\":\"高商业价值+高信任门槛：AHA背书可显著提升E-E-A-T，且该主题直接关联药物安全，易获医疗KOL引用与站外导流\"},{\"priority\":2,\"topic\":\"无牙/缺牙老人专属软食谱：低钠、高蛋白、护心软餐（含节日适配方案）\",\"dataBasis\":\"7个口腔饮食相关词总展示12次，平均位置85+，而现有'holida...soft-food-diet'文章位置83，证明需求真实但内容不匹配；'edentulous diet'（位置97）与'warm soft foods'（位置73）显示温度+质地",
     "articleOptimizations": 5
   },
   "perplexityInsights": {
     "cholesterol": {
       "questionsFound": 15,
       "topQuestions": [
-        "Is a total cholesterol of 220 dangerous at age 40 with normal blood pressure?",
-        "How does menopause affect cholesterol levels in women over 50?",
-        "Can stress cause high cholesterol in adults over 35?",
-        "What are normal cholesterol levels for men age 55-65?",
-        "Does alcohol raise or lower cholesterol for people in their 40s?",
-        "How often should I get cholesterol tested at age 70 with diabetes?",
-        "Is 160 LDL too high for a 38-year-old woman?",
-        "What supplements lower cholesterol without statins for adults over 45?",
-        "Does high cholesterol without plaque mean low heart risk at 60?",
-        "How does thyroid problems impact cholesterol in people over 35?"
+        "Is a total cholesterol of 220 dangerous at age 40?",
+        "What should LDL be for a 55-year-old woman?",
+        "Can high cholesterol cause fatigue in adults over 35?",
+        "How does menopause affect cholesterol levels after 45?",
+        "Is 250 total cholesterol high for a fit 38-year-old man?",
+        "What causes high triglycerides but normal LDL at age 50?",
+        "Should I worry about cholesterol if my blood pressure is 120/80 at 42?",
+        "How much does alcohol raise cholesterol in middle-aged adults?",
+        "Is cholesterol of 210/45 HDL okay for 37-year-old with diabetes?",
+        "Why is my cholesterol high at 48 despite low-carb diet?"
       ],
-      "competitorCoverage": "Top-ranking Google articles on cholesterol for adults universally explain the basics: what cholesterol is, differences between HDL ('good') and LDL ('bad'), healthy level targets (e.g., total <200 mg/dL, LDL <100 mg/dL), causes like diet and genetics, and risks such as artery plaque leading to heart attack or stroke. They emphasize screening frequency by age (e.g., every 1-5 years starting at 45 for men/55 for women), lifestyle fixes like diet and exercise, and when to consult a doctor. To compete, a new article must include these fundamentals plus an ASCVD risk calculator reference, updated screening guidelines, and personalized questions for doctors.",
-      "whyItMatters": "Cholesterol remains a top concern for adults 35+ due to rising midlife heart disease rates amid obesity and sedentary lifestyles, with guidelines urging more frequent screenings for those 45-65 every 1-2 years. Recent emphases on overall risk assessment beyond numbers, including post-menopause changes and comorbidities, drive searches as awareness grows from public health campaigns."
+      "competitorCoverage": "Top-ranking Google articles on cholesterol for adults universally explain HDL (good) vs. LDL (bad) cholesterol, ideal levels (total <200 mg/dL, LDL <100 mg/dL, HDL >40-50 mg/dL), and risks like artery plaque leading to heart attack or stroke[1][3][5][6]. They cover testing via lipid panel, causes including diet and genetics, and management through lifestyle changes like diet and exercise[2][4][6]. To compete, a new article must include updated risk assessment guidelines, specific numbers with breakdowns, and questions to ask doctors[2][5][7].",
+      "whyItMatters": "Cholesterol remains a critical concern for adults 35+ due to rising cardiovascular risks with age, especially post-menopause and with lifestyle factors like diet[3][6]. Recent emphases in guidelines recommend checks starting at age 45 (or earlier with family history), driving sustained searches amid ongoing heart health awareness[4]."
     },
     "diabetes": {
       "questionsFound": 15,
       "topQuestions": [
-        "Is 140/90 blood pressure dangerous at age 45 with prediabetes?",
-        "What A1C level is too high for a 50-year-old newly diagnosed with type 2 diabetes?",
-        "How often should a 40-year-old with diabetes check fasting blood sugar?",
-        "Can stress at work cause blood sugar spikes in adults over 35?",
-        "Is a glucose reading of 180 after meals normal for someone 55 with type 2?",
-        "What are the best oral medications for type 2 diabetes in men over 60?",
-        "Does high cholesterol at age 38 increase my diabetes risk if BMI is 25?",
-        "How much weight loss reverses prediabetes in women over 45?",
-        "Are blurry eyes a sign of high blood sugar in adults 35-50?",
-        "What insulin types work best for a 42-year-old starting treatment?"
+        "What is my target A1C level at age 40 with type 2 diabetes?",
+        "Is a fasting blood sugar of 130 mg/dL dangerous for a 50-year-old?",
+        "How often should I check my blood sugar if I'm 55 and on metformin?",
+        "What are the signs of diabetic neuropathy in legs for adults over 45?",
+        "Can stress cause high blood sugar spikes in people over 35?",
+        "Is a blood pressure of 145/85 risky with diabetes at age 60?",
+        "How do I adjust insulin doses for exercise if I'm 38 with type 1?",
+        "What does an A1C of 7.2 mean for someone 42 years old?",
+        "Why is my morning blood sugar 160 mg/dL at age 48 despite diet?",
+        "Are statins safe with diabetes for heart protection after 50?"
       ],
-      "competitorCoverage": "Top-ranking Google articles on diabetes for adults cover basics like types (type 1 vs type 2), common symptoms (thirst, fatigue, frequent urination), risk factors (age 45+, obesity, family history, inactivity), and general prevention via lifestyle changes like diet and exercise.[1][2][3][5][6] They emphasize diagnosis through A1C tests, blood sugar targets (e.g., 3.9-10.0 mmol/L), and questions to ask doctors about management goals and insulin options.[2][4] To compete, a new article must include updated A1C guidelines, personalized risk calculators for 35+ adults, and comparisons of meds like metformin vs newer options, avoiding overlaps with senior-specific topics.",
-      "whyItMatters": "Diabetes prevalence is rising sharply, with 34% of young adults 24-35 expected to develop it by 65, driven by obesity and aging populations.[3] Recent data shows 35% of prediabetes cases progress to type 2, underscoring urgency for adults 35+ amid ongoing lifestyle and genetic risk factors.[3]"
+      "competitorCoverage": "Top-ranking Google articles on diabetes for adults cover basics like types (type 1 vs type 2), symptoms, causes, risk factors (age over 45, family history, obesity), diagnosis via A1C or glucose tests, and treatments including lifestyle changes, oral meds, and insulin.[3][4][6] They emphasize complication prevention (heart disease, neuropathy, retinopathy) and blood sugar targets (70-130 mg/dL fasting).[3] To compete, a new article must include personalized targets by age, doctor questions on monitoring/insulin, and prevention strategies beyond existing senior-focused topics.[1][2]",
+      "whyItMatters": "Diabetes prevalence in adults 35+ continues rising due to aging populations and obesity, with CDC data showing over 30 million U.S. cases and higher risks in certain ethnic groups.[4] Recent 2025-2026 guideline updates from AACE stress tighter A1C targets and tech like CGMs for middle-aged adults to curb complications amid post-pandemic metabolic shifts.[2]"
     },
     "healthy eating for seniors": {
       "questionsFound": 15,
       "topQuestions": [
-        "How much protein do seniors over 70 really need daily to prevent muscle loss?",
-        "What are the best nutrient-dense foods for seniors with a low appetite?",
-        "Is it safe to increase fiber intake to 30g+ per day after age 65, and how to do it without bloating?",
-        "Which calcium-rich foods help prevent osteoporosis in women over 75 without dairy?",
-        "Do GLP-1 medications like Ozempic require special eating plans for healthy aging after 60?",
-        "How can seniors on a tight budget afford enough fruits and vegetables daily?",
-        "What vitamin B12 supplements are best absorbed for adults over 80 with absorption issues?",
-        "Are ultra-processed foods like instant oatmeal okay in moderation for joint health in seniors?",
-        "How much water should a 68-year-old drink daily to support brain function and digestion?",
-        "What brain-boosting dinners with fatty fish help slow cognitive decline after 72?"
+        "How much protein does a 70-year-old woman need daily to prevent muscle loss?",
+        "What are the best calcium-rich foods for bone health in men over 75?",
+        "Is 30g of fiber per day safe for seniors with diverticulosis?",
+        "How can I increase vitamin B12 intake if I'm 65+ and vegetarian?",
+        "What portion sizes should a 55-year-old active man eat for weight maintenance?",
+        "Do GLP-1 meds like Ozempic change healthy eating needs for seniors over 60?",
+        "How much water should an 80-year-old drink daily to avoid dehydration?",
+        "Are intermittent fasting and healthy eating compatible after age 68?",
+        "What whole grains are easiest to digest for seniors with IBS?",
+        "How do I read nutrition labels to spot hidden sodium for heart health at 72?"
       ],
-      "competitorCoverage": "Top-ranking Google articles on 'healthy eating for seniors' universally emphasize nutrient-dense foods like fruits, vegetables, lean proteins, and whole grains to combat age-related calorie needs and nutrient gaps, while stressing hydration, portion control, and limiting sugars, sodium, and saturated fats.[1][2] They highlight brain-healthy options such as fatty fish, nuts, and leafy greens, plus practical tips like meal prepping balanced dinners and consulting doctors about meds impacting appetite.[1][4] To compete, a new article must include USDA-backed daily intake guidelines, senior-specific calorie adjustments, and actionable meal ideas avoiding processed foods.[2][3]",
-      "whyItMatters": "With 2026 surveys showing 71% of older adults citing food affordability as the top barrier to healthy eating amid rising prices, and ongoing GLP-1 med trends creating nutrient gaps from reduced appetite, seniors need updated guidance now.[3][5] Recent NIA and USDA data underscore persistent shortfalls in fruits/veggies (80-90% deficient) linking to joint pain, brain decline, and chronic disease risks in those 60+.[1][2]"
+      "competitorCoverage": "Top-ranking Google articles on 'healthy eating for seniors' universally emphasize nutrient-dense foods like colorful fruits, vegetables, whole grains, and lean proteins to meet changing needs such as higher protein for muscle maintenance, calcium/vitamin D for bones, and fiber for digestion.[1][2][3] They stress hydration, simple meal planning like sheet-pan meals or soups, and practical tips like using herbs/spices over salt.[1][2] To compete, a new article must cover these basics while adding 2026-specific angles like GLP-1 med compatibility, fiber trends, and easy prep for energy/brain health, avoiding holiday or sodium-trap repeats.[6]",
+      "whyItMatters": "With 2026 marking a 'nutrition reset' amid rising GLP-1 medication use and fiber trends like fibermaxxing, adults 35+ seek senior eating advice to adapt to appetite changes, muscle preservation, and chronic disease prevention.[1][6] Recent expert guidelines reinforce timeless habits like home cooking and whole foods over fads, driven by USDA data showing most miss fruit/veggie targets, making it vital for healthy aging now.[2][4]"
     },
     "exercise for seniors": {
       "questionsFound": 15,
       "topQuestions": [
         "How often should I exercise as a 70-year-old beginner?",
-        "Am I too old to start exercising at 75?",
-        "What is the best exercise for older adults with poor balance?",
-        "How much physical activity do I need per week at age 65+?",
-        "Will exercising increase my risk of falling at 68?",
-        "What are safe stretching exercises for seniors with stiff joints?",
-        "How do I progress my exercise routine safely from 10 minutes to more?",
-        "Is swimming a good low-impact exercise for adults over 80?",
-        "What strength exercises can I do at home without equipment for 72-year-olds?",
-        "How long should my daily exercise session be as a senior?"
+        "What is the best exercise for older adults to build muscle mass after 65?",
+        "Am I too old to start exercising at 75 if I've been sedentary?",
+        "How many minutes of walking per day for seniors over 65?",
+        "What counts as moderate intensity exercise for someone 68 with joint pain?",
+        "Should I do strength training 2 days a week at age 72?",
+        "How do I progress my exercise routine safely from 10 minutes to more as a senior?",
+        "Is it safe to exercise every day if I'm 67 and healthy?",
+        "What are good endurance exercises like cycling for seniors 70+?",
+        "How much vigorous activity like jogging can a fit 65-year-old do weekly?"
       ],
-      "competitorCoverage": "Top-ranking Google articles on 'exercise for seniors' universally emphasize daily physical activity, aiming for 150 minutes of moderate aerobic exercise weekly plus strength, balance, and flexibility training at least twice weekly, per NHS and AMA guidelines[1][2]. They stress consulting a doctor before starting, starting slow with low-impact options like walking or chair exercises, and progressing gradually to maintain muscle mass, bone density, and independence[2][5]. To compete, a new article must include these evidence-based guidelines, sample beginner routines for endurance/strength/balance, and warnings for medical clearance.",
-      "whyItMatters": "Exercise for seniors remains critically important as less than 15% of adults 65+ meet activity guidelines, heightening risks for chronic diseases and loss of independence amid an aging population[2]. Recent 2023 Physical Activity Guidelines reinforce these needs, driving ongoing searches for accessible routines[2]."
+      "competitorCoverage": "Top-ranking Google articles on 'exercise for seniors' universally cover the CDC and NHS guidelines of 150 minutes weekly moderate aerobic activity, strength training 2+ days/week, and balance/flexibility exercises, emphasizing starting slow for beginners and consulting doctors.[1][2][5] They stress benefits like reducing chronic disease risk, maintaining muscle/bone density, and improving daily function, with examples like walking, weights, yoga, and stretching.[2][6] To compete, a new article must include these evidence-based recommendations, progression tips, and senior-specific examples while differentiating with unique angles.",
+      "whyItMatters": "With less than 15% of adults 65+ meeting activity guidelines per 2023 Physical Activity Guidelines for Americans, promoting senior exercise addresses critical health declines in muscle mass and mobility amid aging populations.[2] Recent emphases from AMA and NHS highlight its role in preventing heart disease and preserving independence, amplified by post-pandemic inactivity trends."
     }
   },
   "topTopics": [
     {
-      "title": "Does Stress Raise Blood Pressure in Winter?",
-      "pk": "does stress raise blood pressure in winter",
-      "score": 69,
+      "title": "Walking Minutes Per Day for Seniors Over 65",
+      "pk": "walking minutes per day for seniors over 65",
+      "score": 60,
       "breakdown": {
-        "clusterNeed": 30,
-        "searchDemand": 15,
-        "differentiation": 8,
-        "timeliness": 16
-      },
-      "reasoning": "lifestyle-interventions集群覆盖率23%，大缺口 | GSC方向相关\"american heart association nsaids raise blood pressure fluid retention\"(5次展示) | 与已有文章有一定重叠(67%)，可能cannibalize | 搜索趋势上升中"
-    },
-    {
-      "title": "5 safe stretching exercises for stiff joints after 65",
-      "pk": "safe stretching exercises for stiff joints",
-      "score": 65,
-      "breakdown": {
-        "clusterNeed": 30,
-        "searchDemand": 8,
-        "differentiation": 21,
-        "timeliness": 6
-      },
-      "reasoning": "lifestyle-interventions集群覆盖率23%，大缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠40%)"
-    },
-    {
-      "title": "Why Blood Sugar Spikes at Work After 35",
-      "pk": "can stress at work cause blood sugar spikes after 35",
-      "score": 64,
-      "breakdown": {
-        "clusterNeed": 30,
-        "searchDemand": 8,
-        "differentiation": 20,
-        "timeliness": 6
-      },
-      "reasoning": "lifestyle-interventions集群覆盖率23%，大缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
-    },
-    {
-      "title": "Best exercises for seniors with poor balance",
-      "pk": "best exercises for seniors with poor balance",
-      "score": 64,
-      "breakdown": {
-        "clusterNeed": 30,
-        "searchDemand": 8,
-        "differentiation": 20,
-        "timeliness": 6
-      },
-      "reasoning": "lifestyle-interventions集群覆盖率23%，大缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
-    },
-    {
-      "title": "How to start walking at 75 and stay safe",
-      "pk": "how to start walking at 75",
-      "score": 64,
-      "breakdown": {
-        "clusterNeed": 30,
-        "searchDemand": 8,
-        "differentiation": 20,
-        "timeliness": 6
-      },
-      "reasoning": "lifestyle-interventions集群覆盖率23%，大缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
-    },
-    {
-      "title": "Best Nutrient-Dense Foods for Low Appetite After 75",
-      "pk": "nutrient dense foods for low appetite seniors",
-      "score": 57.9,
-      "breakdown": {
-        "clusterNeed": 19.9,
+        "clusterNeed": 22,
         "searchDemand": 8,
         "differentiation": 24,
         "timeliness": 6
       },
-      "reasoning": "nutrition-diet-management集群覆盖率76%，中等缺口 | 来自周度分析推荐 | 与已有文章高度差异化(重叠25%)"
+      "reasoning": "lifestyle-interventions集群覆盖率26%，大缺口 | 近7天已产出6篇，适度减分 | 来自周度分析推荐 | 与已有文章高度差异化(重叠25%)"
     },
     {
-      "title": "Warning Signs of Weak Heart Pump You Shouldn’t Ignore",
-      "pk": "warning signs weak heart pump",
-      "score": 57.266666666666666,
+      "title": "Does Melatonin Affect BP at Night?",
+      "pk": "does melatonin raise blood pressure at night",
+      "score": 58.06666666666666,
       "breakdown": {
-        "clusterNeed": 23.3,
+        "clusterNeed": 19.1,
+        "searchDemand": 15,
+        "differentiation": 8,
+        "timeliness": 16
+      },
+      "reasoning": "hypertension-management集群覆盖率80%，中等缺口 | GSC方向相关\"american heart association nsaids raise blood pressure fluid retention\"(5次展示) | 与已有文章有一定重叠(67%)，可能cannibalize | 搜索趋势上升中"
+    },
+    {
+      "title": "Best Strength Exercises for Women Over 65",
+      "pk": "best strength exercises for women over 65",
+      "score": 56,
+      "breakdown": {
+        "clusterNeed": 22,
         "searchDemand": 8,
         "differentiation": 20,
         "timeliness": 6
       },
-      "reasoning": "cardiovascular-health集群覆盖率59%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+      "reasoning": "lifestyle-interventions集群覆盖率26%，大缺口 | 近7天已产出6篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
     },
     {
-      "title": "How to Read Your Cholesterol Test After 60",
-      "pk": "how to read cholesterol test after 60",
-      "score": 55.9,
+      "title": "Best Breakfast Foods to Stop Morning Blood Sugar Spikes",
+      "pk": "breakfast foods to stop morning blood sugar spikes",
+      "score": 48.900000000000006,
       "breakdown": {
-        "clusterNeed": 19.9,
-        "searchDemand": 8,
-        "differentiation": 22,
-        "timeliness": 6
-      },
-      "reasoning": "nutrition-diet-management集群覆盖率76%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
-    },
-    {
-      "title": "Is 30g Fiber Daily Safe After 65? How to Add It Slowly",
-      "pk": "is 30g fiber safe after 65",
-      "score": 55.9,
-      "breakdown": {
-        "clusterNeed": 19.9,
-        "searchDemand": 8,
-        "differentiation": 22,
-        "timeliness": 6
-      },
-      "reasoning": "nutrition-diet-management集群覆盖率76%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
-    },
-    {
-      "title": "Calcium-Rich Foods Without Dairy for Women Over 75",
-      "pk": "calcium rich foods without dairy seniors",
-      "score": 54.9,
-      "breakdown": {
-        "clusterNeed": 19.9,
+        "clusterNeed": 13.9,
         "searchDemand": 8,
         "differentiation": 21,
         "timeliness": 6
       },
-      "reasoning": "nutrition-diet-management集群覆盖率76%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠40%)"
+      "reasoning": "diabetes-management集群接近目标 | 来自周度分析推荐 | 与已有文章有差异(重叠40%)"
+    },
+    {
+      "title": "How Much Protein Does a 70-Year-Old Woman Need?",
+      "pk": "how much protein does a 70-year-old woman need",
+      "score": 48,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 24,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章高度差异化(重叠20%)"
+    },
+    {
+      "title": "Blood Sugar Friendly Foods That Fill You Up",
+      "pk": "blood sugar friendly foods for seniors",
+      "score": 47.900000000000006,
+      "breakdown": {
+        "clusterNeed": 13.9,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "diabetes-management集群接近目标 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Can High Cholesterol Cause Fatigue After 35?",
+      "pk": "can high cholesterol cause fatigue after 35",
+      "score": 47.65,
+      "breakdown": {
+        "clusterNeed": 11.6,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "nutrition-diet-management集群覆盖率77%，中等缺口 | 近7天已产出5篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    },
+    {
+      "title": "5 Cholesterol-Lowering Soups That Warm You Up",
+      "pk": "cholesterol lowering soups you can make",
+      "score": 45.65,
+      "breakdown": {
+        "clusterNeed": 11.6,
+        "searchDemand": 12,
+        "differentiation": 20,
+        "timeliness": 2
+      },
+      "reasoning": "nutrition-diet-management集群覆盖率77%，中等缺口 | 近7天已产出5篇，适度减分 | GSC精确匹配\"soups to lower cholesterol\"(2次展示)，弱信号 | 与已有文章有差异(重叠50%) | 搜索趋势下降"
+    },
+    {
+      "title": "How Alcohol Raises Cholesterol in Middle Age",
+      "pk": "how does alcohol raise cholesterol middle age",
+      "score": 45.65,
+      "breakdown": {
+        "clusterNeed": 11.6,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "nutrition-diet-management集群覆盖率77%，中等缺口 | 近7天已产出5篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "What Should LDL Be for a 55-Year-Old Woman?",
+      "pk": "what should LDL be for a 55 year old woman",
+      "score": 44,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
     }
   ]
 }
