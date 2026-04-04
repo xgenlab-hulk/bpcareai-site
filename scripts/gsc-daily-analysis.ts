@@ -75,7 +75,7 @@ async function main() {
     console.error('❌ Failed to connect to GSC. Check credentials.');
     process.exit(1);
   }
-  console.log(`✅ Connected | Site: ${client.getSiteUrl()}\n`);
+  console.log(`✅ Connected | Site: ${client.getSiteUrl()} | Auth: ${client.getAuthMethod()}\n`);
 
   // 2. 计算日期范围（最近7天，考虑3天延迟）
   const today = new Date();

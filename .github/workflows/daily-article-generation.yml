@@ -21,12 +21,10 @@ jobs:
     timeout-minutes: 120
 
     env:
+      GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
+      GSC_SITE_URL: ${{ secrets.GSC_SITE_URL }}
       QWEN_API_KEY: ${{ secrets.QWEN_API_KEY }}
       PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
-      GOOGLE_SEO_CLIENT_ID: ${{ secrets.GOOGLE_SEO_CLIENT_ID }}
-      GOOGLE_SEO_CLIENT_SECRET: ${{ secrets.GOOGLE_SEO_CLIENT_SECRET }}
-      GOOGLE_SEO_REFRESH_TOKEN: ${{ secrets.GOOGLE_SEO_REFRESH_TOKEN }}
-      GSC_SITE_URL: ${{ secrets.GSC_SITE_URL }}
 
     steps:
       - name: Checkout repository

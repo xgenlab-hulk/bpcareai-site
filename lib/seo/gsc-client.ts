@@ -10,37 +10,63 @@ import type { GSCQuery, GSCRow, GSCResponse } from './types';
 export class GSCClient {
   private searchConsole: searchconsole_v1.Searchconsole;
   private siteUrl: string;
+  private authMethod: 'service-account' | 'oauth2';
 
   constructor() {
-    // 从环境变量读取配置
+    this.siteUrl = process.env.GSC_SITE_URL || '';
+
+    if (!this.siteUrl) {
+      throw new Error('Missing required environment variable: GSC_SITE_URL');
+    }
+
+    // 优先使用 Service Account（永不过期，适合自动化）
+    const serviceAccountKey = process.env.GOOGLE_SERVICE_ACCOUNT_KEY;
+
+    if (serviceAccountKey) {
+      try {
+        const credentials = JSON.parse(serviceAccountKey);
+        const auth = new google.auth.GoogleAuth({
+          credentials,
+          scopes: ['https://www.googleapis.com/auth/webmasters.readonly'],
+        });
+
+        this.searchConsole = google.searchconsole({
+          version: 'v1',
+          auth,
+        });
+        this.authMethod = 'service-account';
+        return;
+      } catch (err: any) {
+        console.warn(`⚠️  Service Account key parse failed: ${err.message}, falling back to OAuth2`);
+      }
+    }
+
+    // Fallback: OAuth2 + Refresh Token（可能过期）
     const clientId = process.env.GOOGLE_SEO_CLIENT_ID;
     const clientSecret = process.env.GOOGLE_SEO_CLIENT_SECRET;
     const refreshToken = process.env.GOOGLE_SEO_REFRESH_TOKEN;
-    this.siteUrl = process.env.GSC_SITE_URL || '';
 
-    if (!clientId || !clientSecret || !refreshToken || !this.siteUrl) {
+    if (!clientId || !clientSecret || !refreshToken) {
       throw new Error(
-        'Missing required environment variables: GOOGLE_SEO_CLIENT_ID, GOOGLE_SEO_CLIENT_SECRET, GOOGLE_SEO_REFRESH_TOKEN, GSC_SITE_URL'
+        'Missing GSC credentials. Set GOOGLE_SERVICE_ACCOUNT_KEY (recommended) or GOOGLE_SEO_CLIENT_ID + GOOGLE_SEO_CLIENT_SECRET + GOOGLE_SEO_REFRESH_TOKEN'
       );
     }
 
-    // 创建 OAuth2 客户端
     const oauth2Client = new google.auth.OAuth2(
       clientId,
       clientSecret,
       'urn:ietf:wg:oauth:2.0:oob'
     );
 
-    // 设置 refresh token
     oauth2Client.setCredentials({
       refresh_token: refreshToken,
     });
 
-    // 创建 Search Console API 实例
     this.searchConsole = google.searchconsole({
       version: 'v1',
       auth: oauth2Client,
     });
+    this.authMethod = 'oauth2';
   }
 
   /**
@@ -166,5 +192,12 @@ export class GSCClient {
    */
   getSiteUrl(): string {
     return this.siteUrl;
+  }
+
+  /**
+   * 获取认证方式
+   */
+  getAuthMethod(): string {
+    return this.authMethod;
   }
 }
