@@ -1,10 +1,12 @@
 ---
-title: 'Heart-Healthy Winter Soups for Seniors Managing High Cholesterol'
+title: Heart-Healthy Winter Soups for Seniors Managing High Cholesterol
 slug: best-warm-heart-healthy-soups-for-seniors-with-high-cholesterol
-description: 'Soluble fiber in barley and lentils cuts LDL (bad cholesterol) by up to 10% eaten daily. Low-sodium soups to support heart health in cold months.'
+description: >-
+  Soluble fiber in barley and lentils cuts LDL (bad cholesterol) by up to 10%
+  eaten daily. Low-sodium soups to support heart health in cold months.
 date: '2025-11-29'
 updated: '2026-03-27'
-primaryKeyword: 'heart healthy winter soups for seniors with high cholesterol'
+primaryKeyword: heart healthy winter soups for seniors with high cholesterol
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
@@ -12,6 +14,7 @@ relatedSlugs:
   - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
   - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
   - top-7-heart-protective-vitamins-to-take-in-winter
+  - cholesterol-lowering-soups-over-45
 ---
 
 # Warm & Wholesome: The Best Heart-Healthy Winter Soups for Seniors with High Cholesterol

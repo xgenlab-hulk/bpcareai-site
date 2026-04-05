@@ -13,6 +13,7 @@ image: ''
 relatedSlugs:
   - exercises-for-seniors-poor-balance
   - 30g-fiber-safe-after-65
+  - strength-exercises-women-over-65
 ---
 
 # Gentle & Effective Safe Stretching Exercises for Stiff Joints After 65

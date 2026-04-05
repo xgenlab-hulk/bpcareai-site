@@ -1,22 +1,20 @@
 ---
-title: >-
-  3 Soups That Lower Blood Pressure Naturally (Doctor-Approved)
+title: 3 Soups That Lower Blood Pressure Naturally (Doctor-Approved)
 slug: soups-lower-blood-pressure-naturally
 description: >-
-  Soups that lower blood pressure naturally — beetroot, tomato-basil, and spinach-white bean soups lowered systolic BP by 6.2 mmHg in a 12-week trial
+  Soups that lower blood pressure naturally — beetroot, tomato-basil, and
+  spinach-white bean soups lowered systolic BP by 6.2 mmHg in a 12-week trial
 date: '2026-04-02'
 updated: '2026-04-02'
-primaryKeyword: >-
-  soups that lower blood pressure naturally
+primaryKeyword: soups that lower blood pressure naturally
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
     10-foods-that-lower-central-aortic-systolic-pressure-within-90-minutes-backed-by-radial-artery-tonometry-data
-  - >-
-    can-meditation-lower-blood-pressure-naturally
-  - >-
-    top-5-winter-superfoods-that-naturally-lower-blood-pressure
+  - can-meditation-lower-blood-pressure-naturally
+  - top-5-winter-superfoods-that-naturally-lower-blood-pressure
+  - cholesterol-lowering-soups-over-45
 ---
 
 # 3 Delicious, Doctor-Approved Soups That Lower Blood Pressure Naturally

@@ -36,24 +36,6 @@
     "competitorCoverage": "Top-ranking Google articles on cholesterol for adults universally explain the basics: what cholesterol is, differences between HDL ('good') and LDL ('bad'), healthy level targets (e.g., total <200 mg/dL, LDL <100 mg/dL), causes like diet and genetics, and risks such as artery plaque leading to heart attack or stroke. They emphasize screening frequency by age (e.g., every 1-5 years starting at 45 for men/55 for women), lifestyle fixes like diet and exercise, and when to consult a doctor. To compete, a new article must include these fundamentals plus an ASCVD risk calculator reference, updated screening guidelines, and personalized questions for doctors."
   },
   {
-    "title": "5 Cholesterol-Lowering Soups That Warm You Up",
-    "description": "Each soup lowers LDL by 5–12 mg/dL in 6 weeks when eaten 3x/week. Learn how to make them with pantry staples.",
-    "primaryKeyword": "cholesterol lowering soups you can make",
-    "topicCluster": "nutrition-diet-management",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-04-04T03:30:58.335Z",
-    "score": 45.65,
-    "scheduledWeek": "2026-W15",
-    "perplexityQuestions": [
-      "Is a total cholesterol of 220 dangerous at age 40?",
-      "What should LDL be for a 55-year-old woman?",
-      "Can high cholesterol cause fatigue in adults over 35?",
-      "How does menopause affect cholesterol levels after 45?",
-      "Is 250 total cholesterol high for a fit 38-year-old man?"
-    ],
-    "competitorCoverage": "Top-ranking Google articles on cholesterol for adults universally explain HDL (good) vs. LDL (bad) cholesterol, ideal levels (total <200 mg/dL, LDL <100 mg/dL, HDL >40-50 mg/dL), and risks like artery plaque leading to heart attack or stroke[1][3][5][6]. They cover testing via lipid panel, causes including diet and genetics, and management through lifestyle changes like diet and exercise[2][4][6]. To compete, a new article must include updated risk assessment guidelines, specific numbers with breakdowns, and questions to ask doctors[2][5][7]."
-  },
-  {
     "title": "How Alcohol Raises Cholesterol in Middle Age",
     "description": "Just 2 drinks/day raises triglycerides by 30% and LDL by 8% in adults 45–65. Learn how to protect your numbers.",
     "primaryKeyword": "how does alcohol raise cholesterol middle age",
