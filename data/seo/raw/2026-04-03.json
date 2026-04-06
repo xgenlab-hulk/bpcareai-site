@@ -1,0 +1,288 @@
+{
+  "date": "2026-04-03",
+  "fetchedAt": "2026-04-06T01:30:32.654Z",
+  "queries": [
+    {
+      "query": "high blood pressure and heat sensitivity",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 97
+    },
+    {
+      "query": "how pets improve heart health and lower blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 57
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "page": "https://bpcareai.com/articles/10-foods-that-lower-post-exercise-heart-rate-recovery-time-for-adults-59-73-with-hypertension-and-sluggish-hrv",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://bpcareai.com/articles/7-hidden-sleep-position-risks-that-worsen-pulmonary-congestion-in-adults-73-with-hfpef-and-mild-obstructive-sleep-apnea",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/a-vs-b-morning-7-a-m-walking-on-an-empty-stomach-vs-30-minute-post-dinner-walk-for-reducing-nocturnal-glucose-spikes-in-men-59-68-with-prediabetes-and-visceral-adiposity",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 14
+    },
+    {
+      "page": "https://bpcareai.com/articles/best-supplements-for-blood-sugar-support-after-50",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://bpcareai.com/articles/best-warm-heart-healthy-soups-for-seniors-with-high-cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://bpcareai.com/articles/blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 7.333333333333333
+    },
+    {
+      "page": "https://bpcareai.com/articles/can-gardening-improve-heart-health-after-50",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "page": "https://bpcareai.com/articles/can-strength-training-lower-heart-disease-risk-after-60",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous",
+      "clicks": 0,
+      "impressions": 43,
+      "ctr": 0,
+      "position": 8.534883720930232
+    },
+    {
+      "page": "https://bpcareai.com/articles/hidden-salt-10-surprising-foods-that-spike-blood-pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-chronic-loneliness-alters-heart-rate-variability-in-adults-65-and-why-that-predicts-5-year-cardiovascular-mortality-risk",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 16.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-cold-weather-affects-blood-pressure-medication-effectiveness",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-frequent-urination-at-night-could-signal-heart-problems",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-holiday-travel-disrupts-circadian-rhythm-and-triggers-atrial-fibrillation-in-adults-68-with-diagnosed-af-and-time-zone-shifted-medication-schedules",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 20
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-pets-support-heart-health-in-older-adults",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 57
+    },
+    {
+      "page": "https://bpcareai.com/articles/is-low-blood-pressure-dangerous-for-seniors",
+      "clicks": 0,
+      "impressions": 27,
+      "ctr": 0,
+      "position": 6.851851851851852
+    },
+    {
+      "page": "https://bpcareai.com/articles/myths-vs-facts-i-m-too-old-for-cardiac-rehab-what-the-latest-rcts-say-for-adults-79-with-recent-mi-or-revascularization",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://bpcareai.com/articles/natural-ways-to-lower-blood-pressure-this-winter-without-medication",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 9.666666666666666
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-best-indoor-exercises-for-blood-pressure-control-in-winter",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 97
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-impact-of-long-term-nsaid-use-on-heart-disease-risk",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 5.555555555555555
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "page": "https://bpcareai.com/articles/when-to-worry-about-high-readings",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://bpcareai.com/contact",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "page": "https://www.bpcareai.com/about",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles",
+      "clicks": 0,
+      "impressions": 23,
+      "ctr": 0,
+      "position": 11.08695652173913
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/12-smart-swaps-to-manage-blood-sugar-during-holiday-meals",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/7-unexpected-signs-of-nocturnal-hypoglycemia-in-women-58-73-with-insulin-therapy-and-perimenopausal-sleep-fragmentation",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/can-mindfulness-meditation-reduce-heart-disease-risk-after-50",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/can-walking-after-meals-lower-blood-sugar-in-older-adults",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 6.25
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/how-vitamin-d-deficiency-impacts-heart-health-in-winter",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/simple-steps-to-adjust-your-holiday-meal-timing-for-optimal-circadian-glucose-rhythms-in-adults-73-with-advanced-sleep-phase-syndrome",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 7.555555555555555
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    }
+  ],
+  "summary": {
+    "totalQueries": 2,
+    "totalImpressions": 2,
+    "totalClicks": 0,
+    "avgPosition": 77,
+    "pagesWithImpressions": 37
+  }
+}
