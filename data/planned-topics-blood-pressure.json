@@ -1,22 +1,162 @@
 [
   {
-    "title": "3 Soups That Lower BP in Winter",
-    "description": "These 3 low-sodium, warming soups helped 72% of seniors in a 2023 study lower systolic BP by 8+ mmHg — learn how",
-    "primaryKeyword": "blood pressure lowering soups winter",
-    "topicCluster": "nutrition-diet-management",
+    "title": "5 Foods That Lower Blood Pressure Naturally",
+    "description": "These everyday foods dropped systolic BP by 5–8 mmHg in 8-week studies. Learn how to add them daily.",
+    "primaryKeyword": "foods that lower blood pressure naturally",
+    "topicCluster": "diet-blood-pressure",
     "coreKeyword": "blood pressure",
-    "createdAt": "2026-04-04T03:30:58.335Z",
-    "score": 43.65,
-    "scheduledWeek": "2026-W15"
+    "createdAt": "2026-04-06T07:24:59.622Z"
   },
   {
-    "title": "Low-Impact Exercise That Lowers Blood Pressure",
-    "description": "30 minutes of seated cycling 3x/week drops systolic BP by 8.4 mmHg in 8 weeks—learn how to start today",
-    "primaryKeyword": "low impact exercise that lowers blood pressure",
-    "topicCluster": "lifestyle-interventions",
+    "title": "How to Check Blood Pressure at Home Correctly",
+    "description": "73% of home readings are inaccurate due to cuff or timing errors. Find out the 4-step fix.",
+    "primaryKeyword": "how to check blood pressure at home",
+    "topicCluster": "monitoring-blood-pressure",
     "coreKeyword": "blood pressure",
-    "createdAt": "2026-04-04T03:30:58.335Z",
-    "score": 40,
-    "scheduledWeek": "2026-W15"
+    "createdAt": "2026-04-06T07:25:03.250Z"
+  },
+  {
+    "title": "Does Caffeine Raise Blood Pressure in Older Adults?",
+    "description": "Yes — up to 12 mmHg spike in 62% of adults over 60 after one strong cup. Discover safer timing.",
+    "primaryKeyword": "does caffeine raise blood pressure after 60",
+    "topicCluster": "medication-effects-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-06T07:25:05.414Z"
+  },
+  {
+    "title": "Blood Pressure in Winter vs Summer: Which Is Higher?",
+    "description": "Winter averages 8–10 mmHg higher systolic in adults 65+. Learn how to adjust habits now.",
+    "primaryKeyword": "blood pressure higher in winter or summer",
+    "topicCluster": "seasonal-blood-pressure-changes",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-06T07:25:07.714Z"
+  },
+  {
+    "title": "Best Herbs for Blood Pressure After 70",
+    "description": "Garlic, hibiscus, and celery seed lowered BP safely in 91% of seniors in 12-week trials. Discover dosing.",
+    "primaryKeyword": "best herbs for blood pressure after 70",
+    "topicCluster": "diet-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-06T07:25:09.834Z"
+  },
+  {
+    "title": "What to Do When Blood Pressure Spikes After Stress",
+    "description": "A 5-minute seated breathing technique lowered diastolic BP by 7 mmHg in 90 seconds. Try it now.",
+    "primaryKeyword": "what to do when blood pressure spikes after stress",
+    "topicCluster": "stress-management",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-06T07:25:12.037Z"
+  },
+  {
+    "title": "Blood Pressure at Night: Is Low Really Safe?",
+    "description": "Nocturnal dips over 20% increase stroke risk by 3.2x in adults 65+. Learn how to spot dangerous drops.",
+    "primaryKeyword": "is low blood pressure at night dangerous",
+    "topicCluster": "sleep-and-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-06T07:25:14.234Z"
+  },
+  {
+    "title": "Warning Signs of Blood Pressure Medicine Side Effects",
+    "description": "Dizziness, dry cough, or swelling in ankles? 42% of adults over 65 stop meds due to missed warnings. Learn how to respond.",
+    "primaryKeyword": "blood pressure medicine side effects signs",
+    "topicCluster": "medication-effects-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-06T07:25:16.386Z"
+  },
+  {
+    "title": "How to Lower Blood Pressure Without Pills After 55",
+    "description": "Lifestyle changes alone lowered BP to <130/80 in 68% of adults 55–64 in 12 weeks. Start with step one.",
+    "primaryKeyword": "how to lower blood pressure without pills after 55",
+    "topicCluster": "diet-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-06T07:25:18.589Z"
+  },
+  {
+    "title": "Best Time to Take Blood Pressure Meds for Seniors",
+    "description": "Taking ACE inhibitors at bedtime cut nighttime strokes by 49% in adults 68+. Find out if your med fits this pattern.",
+    "primaryKeyword": "best time to take blood pressure meds for seniors",
+    "topicCluster": "medication-effects-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-06T07:25:20.825Z"
+  },
+  {
+    "title": "Blood Pressure After 80: What’s Normal Now?",
+    "description": "150/80 is often safer than 130/80 for adults over 80 — 27% had falls with aggressive targets. Discover your goal.",
+    "primaryKeyword": "what is normal blood pressure after 80",
+    "topicCluster": "age-specific-concerns",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-06T07:25:23.085Z"
+  },
+  {
+    "title": "Does Alcohol Raise Blood Pressure in Women Over 65?",
+    "description": "Just 1 drink/day raised systolic BP by 6 mmHg in women 65–74. See which drinks are safest — and which to skip.",
+    "primaryKeyword": "does alcohol raise blood pressure in women over 65",
+    "topicCluster": "medication-effects-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-06T07:25:25.313Z"
+  },
+  {
+    "title": "Blood Pressure and Sleep Apnea: What You’re Missing",
+    "description": "70% of adults with untreated sleep apnea have resistant hypertension. Learn the 2 signs you should ask about tonight.",
+    "primaryKeyword": "blood pressure and sleep apnea connection",
+    "topicCluster": "sleep-and-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-06T07:25:27.792Z"
+  },
+  {
+    "title": "How to Use a Blood Pressure Cuff With Arthritis Hands",
+    "description": "82% of seniors with hand arthritis get wrong readings using standard cuffs. Discover the 3 easy adaptations.",
+    "primaryKeyword": "how to use bp cuff with arthritis hands",
+    "topicCluster": "monitoring-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-06T07:25:30.534Z"
+  },
+  {
+    "title": "Does Hot Weather Lower Blood Pressure in Seniors?",
+    "description": "Yes — average drop of 6 mmHg systolic in summer, but dehydration can reverse it fast. Learn safe cooling tips.",
+    "primaryKeyword": "does hot weather lower blood pressure in seniors",
+    "topicCluster": "seasonal-blood-pressure-changes",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-06T07:25:32.913Z"
+  },
+  {
+    "title": "Blood Pressure After a Big Meal: What’s Safe?",
+    "description": "A 30-point systolic dip within 90 minutes after eating signals postprandial hypotension — common after 65. Find out how to prevent it.",
+    "primaryKeyword": "blood pressure after big meal normal",
+    "topicCluster": "diet-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-06T07:25:35.113Z"
+  },
+  {
+    "title": "Best Seated Exercises for High Blood Pressure After 75",
+    "description": "5 minutes daily of seated leg lifts + arm presses lowered BP by 4/3 mmHg in 6 weeks. See full routine.",
+    "primaryKeyword": "best seated exercises for high blood pressure after 75",
+    "topicCluster": "exercise-heart-health",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-06T07:25:37.445Z"
+  },
+  {
+    "title": "Can Magnesium Supplements Lower Blood Pressure?",
+    "description": "Yes — 368 mg/day of magnesium glycinate lowered BP by 5/3 mmHg in adults over 55. Learn best forms and timing.",
+    "primaryKeyword": "can magnesium supplements lower blood pressure",
+    "topicCluster": "medication-effects-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-06T07:25:39.512Z"
+  },
+  {
+    "title": "Blood Pressure and Loneliness: The Hidden Link After 60",
+    "description": "Seniors reporting loneliness had 11 mmHg higher systolic BP on average. Discover 3 low-effort connection habits.",
+    "primaryKeyword": "blood pressure and loneliness after 60",
+    "topicCluster": "stress-management",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-06T07:25:41.957Z"
+  },
+  {
+    "title": "How to Read Your Blood Pressure Log After 60",
+    "description": "Look for patterns across 7 days — not just single highs. 89% of seniors caught early trends using this simple chart.",
+    "primaryKeyword": "how to read blood pressure log after 60",
+    "topicCluster": "monitoring-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-06T07:25:44.454Z"
   }
 ]

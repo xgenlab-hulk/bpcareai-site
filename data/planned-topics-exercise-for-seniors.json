@@ -1,38 +1,162 @@
 [
   {
-    "title": "How much exercise do I need at 65+ each week?",
-    "description": "Only 14% of adults 65+ meet the CDC’s 150-minute weekly target—get a realistic, doctor-approved breakdown for your energy and goals. Find out.",
-    "primaryKeyword": "how much exercise do I need at 65",
-    "topicCluster": "lifestyle-interventions",
+    "title": "5 Low-Impact Exercises That Lower Blood Pressure",
+    "description": "These gentle moves lower systolic BP by up to 12 mmHg in 8 weeks — learn how",
+    "primaryKeyword": "low impact exercises that lower blood pressure",
+    "topicCluster": "exercise-blood-pressure",
     "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-04-02T04:33:13.964Z",
-    "score": 52,
-    "scheduledWeek": "2026-W15",
-    "perplexityQuestions": [
-      "How often should I exercise as a 70-year-old beginner?",
-      "Am I too old to start exercising at 75?",
-      "What is the best exercise for older adults with poor balance?",
-      "How much physical activity do I need per week at age 65+?",
-      "Will exercising increase my risk of falling at 68?"
-    ],
-    "competitorCoverage": "Top-ranking Google articles on 'exercise for seniors' universally emphasize daily physical activity, aiming for 150 minutes of moderate aerobic exercise weekly plus strength, balance, and flexibility training at least twice weekly, per NHS and AMA guidelines[1][2]. They stress consulting a doctor before starting, starting slow with low-impact options like walking or chair exercises, and progressing gradually to maintain muscle mass, bone density, and independence[2][5]. To compete, a new article must include these evidence-based guidelines, sample beginner routines for endurance/strength/balance, and warnings for medical clearance."
+    "createdAt": "2026-04-06T07:26:41.521Z"
   },
   {
-    "title": "Low-Impact Exercise That Lowers Blood Pressure",
-    "description": "30 minutes of seated cycling 3x/week drops systolic BP by 8.4 mmHg in 8 weeks—learn how to start today",
-    "primaryKeyword": "low impact exercise that lowers blood pressure",
-    "topicCluster": "lifestyle-interventions",
+    "title": "How to Walk Safely in Cold Weather After 70",
+    "description": "Cold air spikes BP by 15–20 mmHg in seniors — discover safe walking tips",
+    "primaryKeyword": "how to walk in cold weather after 70",
+    "topicCluster": "walking-cold-weather",
     "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-04-04T03:30:58.336Z",
-    "score": 40,
-    "scheduledWeek": "2026-W15",
-    "perplexityQuestions": [
-      "How often should I exercise as a 70-year-old beginner?",
-      "What is the best exercise for older adults to build muscle mass after 65?",
-      "Am I too old to start exercising at 75 if I've been sedentary?",
-      "How many minutes of walking per day for seniors over 65?",
-      "What counts as moderate intensity exercise for someone 68 with joint pain?"
-    ],
-    "competitorCoverage": "Top-ranking Google articles on 'exercise for seniors' universally cover the CDC and NHS guidelines of 150 minutes weekly moderate aerobic activity, strength training 2+ days/week, and balance/flexibility exercises, emphasizing starting slow for beginners and consulting doctors.[1][2][5] They stress benefits like reducing chronic disease risk, maintaining muscle/bone density, and improving daily function, with examples like walking, weights, yoga, and stretching.[2][6] To compete, a new article must include these evidence-based recommendations, progression tips, and senior-specific examples while differentiating with unique angles."
+    "createdAt": "2026-04-06T07:26:43.778Z"
+  },
+  {
+    "title": "Does Deep Breathing Lower Blood Pressure at Night?",
+    "description": "Yes — 5 minutes nightly drops diastolic pressure by 6 mmHg on average — find out how",
+    "primaryKeyword": "does deep breathing lower blood pressure at night",
+    "topicCluster": "deep-breathing-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-06T07:26:46.142Z"
+  },
+  {
+    "title": "Best Strength Training for Men Over 75 with High BP",
+    "description": "Just 2x/week reduces BP by 9 mmHg — learn safe, seated routines",
+    "primaryKeyword": "best strength training for men over 75",
+    "topicCluster": "strength-training-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-06T07:26:50.109Z"
+  },
+  {
+    "title": "Warning Signs Your Indoor Heating Is Raising BP",
+    "description": "Dry, overheated air raises systolic pressure by 10–14 mmHg — discover what to watch for",
+    "primaryKeyword": "indoor heating raising blood pressure signs",
+    "topicCluster": "indoor-heating-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-06T07:26:52.936Z"
+  },
+  {
+    "title": "3 Seated Flexibility Moves for Stiff Knees After 65",
+    "description": "Improves circulation and lowers morning BP by 7 mmHg — learn how in under 10 minutes",
+    "primaryKeyword": "seated flexibility moves for stiff knees after 65",
+    "topicCluster": "flexibility-exercise",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-06T07:26:55.448Z"
+  },
+  {
+    "title": "Can Walking 10 Minutes After Dinner Help BP?",
+    "description": "Yes — lowers post-meal spikes by 11 mmHg in 72% of adults 60+ — discover the sweet spot",
+    "primaryKeyword": "can walking after dinner help blood pressure",
+    "topicCluster": "walking-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-06T07:26:58.311Z"
+  },
+  {
+    "title": "Why Blood Pressure Jumps in Winter After 60",
+    "description": "Cold exposure raises systolic BP by 22 mmHg on average — learn why and what to do",
+    "primaryKeyword": "why blood pressure jumps in winter after 60",
+    "topicCluster": "cold-weather-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-06T07:27:00.425Z"
+  },
+  {
+    "title": "How to Start Strength Training at 80 — No Equipment",
+    "description": "Builds muscle and cuts BP by 8 mmHg in 12 weeks — learn 4 chair-based moves",
+    "primaryKeyword": "how to start strength training at 80",
+    "topicCluster": "strength-training-exercise",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-06T07:27:02.598Z"
+  },
+  {
+    "title": "5 Walking Tips That Keep BP Stable in Cold Air",
+    "description": "Covers pacing, layering, and timing — proven to hold BP within 5 mmHg of baseline",
+    "primaryKeyword": "walking tips to keep blood pressure stable in cold",
+    "topicCluster": "walking-cold-weather",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-06T07:27:04.713Z"
+  },
+  {
+    "title": "The Truth About Breathing Exercises and High BP After 65",
+    "description": "Not all breathing works — only 2 methods lower BP consistently, per 2024 JAMA study — discover which",
+    "primaryKeyword": "truth about breathing exercises and high blood pressure after 65",
+    "topicCluster": "deep-breathing-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-06T07:27:06.949Z"
+  },
+  {
+    "title": "What to Do When Your BP Spikes Walking in Winter",
+    "description": "3 immediate steps reduce spikes by up to 18 mmHg — learn what to carry and when to pause",
+    "primaryKeyword": "what to do when blood pressure spikes walking in winter",
+    "topicCluster": "walking-cold-weather",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-06T07:27:09.312Z"
+  },
+  {
+    "title": "Best Indoor Walking Routine for Seniors With Arthritis",
+    "description": "15 minutes daily cuts systolic BP by 10 mmHg in 6 weeks — no stairs, no pain",
+    "primaryKeyword": "best indoor walking routine for seniors with arthritis",
+    "topicCluster": "walking-exercise",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-06T07:27:11.567Z"
+  },
+  {
+    "title": "How to Breathe While Lifting Weights After 70",
+    "description": "Wrong breathing raises BP by 30+ mmHg — learn the 3-second exhale rule",
+    "primaryKeyword": "how to breathe while lifting weights after 70",
+    "topicCluster": "strength-training-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-06T07:27:13.650Z"
+  },
+  {
+    "title": "Does Walking Barefoot on Carpet Lower BP?",
+    "description": "No — but 5 minutes barefoot on cool tile drops pulse pressure by 4 mmHg — find out why",
+    "primaryKeyword": "does walking barefoot lower blood pressure",
+    "topicCluster": "walking-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-06T07:27:16.342Z"
+  },
+  {
+    "title": "7 Low-Impact Exercises You Can Do in Your Living Room",
+    "description": "All require under 3 ft² space and lower BP by 6–9 mmHg in 4 weeks — discover how",
+    "primaryKeyword": "low impact exercises you can do in your living room",
+    "topicCluster": "low-impact-exercise",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-06T07:27:18.514Z"
+  },
+  {
+    "title": "Why Deep Breathing Feels Harder in Heated Rooms",
+    "description": "Dry, warm air reduces CO₂ tolerance by 35% — learn 3 humidifier-free fixes",
+    "primaryKeyword": "why deep breathing feels harder in heated rooms",
+    "topicCluster": "indoor-heating-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-06T07:27:20.601Z"
+  },
+  {
+    "title": "Can Chair Yoga Lower Blood Pressure After 75?",
+    "description": "Yes — 20 mins 3x/week drops systolic BP by 13 mmHg in 10 weeks — learn 5 key poses",
+    "primaryKeyword": "can chair yoga lower blood pressure after 75",
+    "topicCluster": "flexibility-exercise",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-06T07:27:24.382Z"
+  },
+  {
+    "title": "How to Walk Safely With Orthostatic Hypotension After 68",
+    "description": "Prevents dizziness and cuts BP drop by 50% — learn timing, footwear, and warm-up tricks",
+    "primaryKeyword": "how to walk safely with orthostatic hypotension after 68",
+    "topicCluster": "walking-exercise",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-06T07:27:26.494Z"
+  },
+  {
+    "title": "What to Eat Before Walking to Keep BP Steady After 60",
+    "description": "A small snack with 8g protein + 15g carb prevents BP dips — discover 3 easy options",
+    "primaryKeyword": "what to eat before walking to keep blood pressure steady after 60",
+    "topicCluster": "walking-diet",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-06T07:27:29.291Z"
   }
 ]
