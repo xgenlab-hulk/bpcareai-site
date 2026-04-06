@@ -1,20 +1,18 @@
 ---
-title: >-
-  How Often to Check Fasting Blood Sugar at 40 — ADA Guidelines
+title: How Often to Check Fasting Blood Sugar at 40 — ADA Guidelines
 slug: check-fasting-blood-sugar-at-40
 description: >-
-  How often check fasting blood sugar at 40? Healthy adults need screening every 3 years; prediabetes raises risk 5–10% yearly. Get your personalized plan now.
+  How often check fasting blood sugar at 40? Healthy adults need screening every
+  3 years; prediabetes raises risk 5–10% yearly. Get your personalized plan now.
 date: '2026-04-05'
 updated: '2026-04-05'
-primaryKeyword: >-
-  how often check fasting blood sugar at 40
+primaryKeyword: how often check fasting blood sugar at 40
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
-  - >-
-    how-often-should-adults-over-50-check-their-blood-pressure
-  - >-
-    how-often-should-adults-over-55-monitor-blood-sugar-at-home
+  - how-often-should-adults-over-50-check-their-blood-pressure
+  - how-often-should-adults-over-55-monitor-blood-sugar-at-home
+  - what-a1c-too-high-50-year-old
 ---
 
 # How Often to Check Fasting Blood Sugar at 40 — ADA Guidelines

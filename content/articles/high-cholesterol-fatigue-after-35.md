@@ -1,20 +1,18 @@
 ---
-title: >-
-  Can High Cholesterol Cause Fatigue After 35? (40% of 35–44 Yo Have
+title: Can High Cholesterol Cause Fatigue After 35? (40% of 35–44 Yo Have
 slug: high-cholesterol-fatigue-after-35
 description: >-
-  Can high cholesterol cause fatigue after 35? Not directly — but 40% of adults 35–44 have LDL ≥100 mg/dL and report tiredness before diagnosis (insulin
+  Can high cholesterol cause fatigue after 35? Not directly — but 40% of adults
+  35–44 have LDL ≥100 mg/dL and report tiredness before diagnosis (insulin
 date: '2026-04-04'
 updated: '2026-04-04'
-primaryKeyword: >-
-  can high cholesterol cause fatigue after 35
+primaryKeyword: can high cholesterol cause fatigue after 35
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
-  - >-
-    does-stress-raise-cholesterol-after-35
-  - >-
-    read-cholesterol-test-after-60
+  - does-stress-raise-cholesterol-after-35
+  - read-cholesterol-test-after-60
+  - cholesterol-lowering-soups-over-45
 ---
 
 # Can High Cholesterol Cause Fatigue After 35? (40% of 35–44 Yo Have

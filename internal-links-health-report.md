@@ -1,12 +1,12 @@
 # 内链健康分析报告
-**生成时间**: 2026/3/30 04:41:32
+**生成时间**: 2026/4/6 04:40:59
 
 ## 一、总体健康度
 
-- **总文章数**: 2209
-- **符合要求** (3-5个内链): 2164 篇 (98.0%)
-- **平均内链数**: 4.88
-- **双向链接覆盖率**: 7.1%
+- **总文章数**: 2235
+- **符合要求** (3-5个内链): 2190 篇 (98.0%)
+- **平均内链数**: 4.87
+- **双向链接覆盖率**: 7.2%
 
 ### 健康评分: 51/100
 
@@ -17,25 +17,25 @@
 | 内链数量 | 文章数 | 占比 | 状态 |
 |---------|--------|------|------|
 | 0 | 45 | 2.0% | ❌ 无内链 |
-| 3 | 12 | 0.5% | ✅ 符合要求 |
-| 4 | 26 | 1.2% | ✅ 符合要求 |
-| 5 | 2126 | 96.2% | ✅ 符合要求 |
+| 3 | 17 | 0.8% | ✅ 符合要求 |
+| 4 | 27 | 1.2% | ✅ 符合要求 |
+| 5 | 2146 | 96.0% | ✅ 符合要求 |
 
 ## 三、孤岛文章分析
 
-⚠️ 发现 **719** 篇孤岛文章（无其他文章链接到它）：
+⚠️ 发现 **713** 篇孤岛文章（无其他文章链接到它）：
 
 - the-connection-between-rheumatoid-arthritis-and-heart-disease
 - how-to-create-a-blood-sugar-emergency-kit-for-holiday-travel
 - quick-ways-to-make-store-bought-party-foods-healthier-before-serving
-- how-often-should-adults-over-55-monitor-blood-sugar-at-home
 - can-sleep-duration-predict-heart-disease-risk-after-55
 - how-does-type-2-diabetes-affect-energy-levels-in-seniors
 - can-layered-clothing-lower-heart-strain-in-winter
 - how-to-talk-to-relatives-about-your-dietary-restrictions-without-offending-anyone
 - is-sugar-free-living-necessary-for-diabetics-over-50
 - christmas-vs-new-year-s-which-holiday-is-harder-on-blood-sugar
-- ...及其他 709 篇
+- holiday-medication-management-what-to-do-when-schedules-get-disrupted
+- ...及其他 703 篇
 
 ## 四、TopicCluster 连通性
 
@@ -1789,6 +1789,7 @@
 | pharmacology-interactions | 100.0% | ✅ 优秀 |
 | pancreatic-cell-resilience | 100.0% | ✅ 优秀 |
 | cerebrovascular-link | 100.0% | ✅ 优秀 |
+| cardiovascular-health | 100.0% | ✅ 优秀 |
 | diabetes-risk-factors | 50.0% | ⚠️ 良好 |
 | environmental-factors | 50.0% | ⚠️ 良好 |
 | monitoring-accessibility | 50.0% | ⚠️ 良好 |
@@ -1817,7 +1818,6 @@
 | stress-metabolism-link | 33.3% | ❌ 需改进 |
 | diabetes-lifestyle | 26.7% | ❌ 需改进 |
 | blood-pressure-basics | 19.6% | ❌ 需改进 |
-| diabetes-management | 16.7% | ❌ 需改进 |
 | exercise-physical-activity | 16.7% | ❌ 需改进 |
 | seasonal-factors | 16.7% | ❌ 需改进 |
 | food-labeling-literacy | 16.7% | ❌ 需改进 |
@@ -1825,12 +1825,16 @@
 | monitoring-technology-comparison | 16.7% | ❌ 需改进 |
 | medication-adherence-myths | 16.7% | ❌ 需改进 |
 | early-detection-symptoms | 16.7% | ❌ 需改进 |
+| hypertension-management | 16.7% | ❌ 需改进 |
 | cardiac-diet | 15.3% | ❌ 需改进 |
+| lifestyle-interventions | 14.3% | ❌ 需改进 |
 | monitoring-testing | 10.0% | ❌ 需改进 |
 | circadian-metabolism | 9.8% | ❌ 需改进 |
+| nutrition-diet-management | 9.7% | ❌ 需改进 |
 | diabetic-diet | 9.5% | ❌ 需改进 |
 | emotional-mental-health | 9.5% | ❌ 需改进 |
 | hypertension-lifestyle | 9.1% | ❌ 需改进 |
+| diabetes-management | 8.9% | ❌ 需改进 |
 | cardiovascular-risk | 8.5% | ❌ 需改进 |
 | heart-health | 7.9% | ❌ 需改进 |
 | prevention-strategies | 5.0% | ❌ 需改进 |
@@ -1903,7 +1907,7 @@
 
 ## 五、过度链接文章
 
-⚠️ 发现 **286** 篇文章被链接次数过多（>10次）：
+⚠️ 发现 **288** 篇文章被链接次数过多（>10次）：
 
 - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
 - the-hidden-link-between-gum-disease-and-heart-problems
@@ -1920,8 +1924,10 @@
 - can-gardening-improve-heart-health-after-50
 - the-role-of-fiber-in-controlling-blood-sugar-after-50
 - recognizing-silent-heart-attacks-in-diabetics-over-60
+- best-supplements-for-blood-sugar-support-after-50
 - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
 - how-social-isolation-increases-heart-disease-risk-after-60
+- how-type-2-diabetes-increases-heart-disease-risk-after-50
 - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
 - how-vision-changes-might-be-linked-to-heart-disease
 - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
@@ -2195,9 +2201,9 @@
 ## 六、优化建议
 
 1. **修复不符合要求的文章**: 运行 `npm run optimize:links` 将所有文章调整到3-5个内链
-2. **消除孤岛文章**: 719 篇文章没有被其他文章链接，建议通过双向链接优化改善
-3. **提升双向链接覆盖率**: 当前为 7.1%，建议目标 >60%
-4. **改善Cluster连通性**: 90 个主题集群内部连通性低于50%
+2. **消除孤岛文章**: 713 篇文章没有被其他文章链接，建议通过双向链接优化改善
+3. **提升双向链接覆盖率**: 当前为 7.2%，建议目标 >60%
+4. **改善Cluster连通性**: 93 个主题集群内部连通性低于50%
 
 ---
 *本报告由 BPCare AI 内链分析系统自动生成*
