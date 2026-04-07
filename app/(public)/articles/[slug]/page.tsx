@@ -2,8 +2,9 @@ import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { getArticleBySlug, getAllArticleSlugs, getAllArticlesMeta } from '@/lib/articles';
+import { getCategoryForCluster } from '@/lib/article-categories';
 import CTAButton from '@/components/CTAButton';
-import { JsonLd, generateArticleJsonLd } from '@/components/JsonLd';
+import { JsonLd, generateArticleJsonLd, SITE_URL } from '@/components/JsonLd';
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -84,7 +85,10 @@ export default async function ArticlePage({ params }: PageProps) {
     }
   }
 
-  // 生成 JSON-LD 数据
+  // Category for breadcrumb
+  const category = getCategoryForCluster(article.topicCluster);
+
+  // 生成 Article JSON-LD 数据
   const articleJsonLd = generateArticleJsonLd({
     title: article.title,
     description: article.description,
@@ -94,19 +98,69 @@ export default async function ArticlePage({ params }: PageProps) {
     image: article.image,
   });
 
+  // 生成 BreadcrumbList JSON-LD
+  const breadcrumbItems = [
+    { name: 'Home', url: SITE_URL },
+    { name: 'Articles', url: `${SITE_URL}/articles` },
+  ];
+  if (category) {
+    breadcrumbItems.push({
+      name: category.label,
+      url: `${SITE_URL}/articles?category=${category.slug}`,
+    });
+  }
+  breadcrumbItems.push({
+    name: article.title,
+    url: `${SITE_URL}/articles/${article.slug}`,
+  });
+
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: breadcrumbItems.map((item, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: item.name,
+      item: item.url,
+    })),
+  };
+
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-50 to-white">
       {/* Article JSON-LD */}
       <JsonLd data={articleJsonLd} />
+      {/* Breadcrumb JSON-LD */}
+      <JsonLd data={breadcrumbJsonLd} />
 
       <article className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
-        {/* Back Link */}
-        <Link
-          href="/articles"
-          className="inline-flex items-center text-brand-blue-dark hover:text-brand-blue mb-8 font-medium"
+        {/* Breadcrumb Navigation */}
+        <nav
+          aria-label="Breadcrumb"
+          className="mb-8 flex items-center flex-wrap gap-1 text-sm text-gray-500"
         >
-          ← Back to Articles
-        </Link>
+          <Link href="/" className="hover:text-brand-blue-dark transition-colors">
+            Home
+          </Link>
+          <span className="mx-1 text-gray-300">&gt;</span>
+          <Link href="/articles" className="hover:text-brand-blue-dark transition-colors">
+            Articles
+          </Link>
+          {category && (
+            <>
+              <span className="mx-1 text-gray-300">&gt;</span>
+              <Link
+                href={`/articles?category=${category.slug}`}
+                className="hover:text-brand-blue-dark transition-colors"
+              >
+                {category.label}
+              </Link>
+            </>
+          )}
+          <span className="mx-1 text-gray-300">&gt;</span>
+          <span className="text-gray-900 font-medium truncate max-w-[300px]">
+            {article.title}
+          </span>
+        </nav>
 
         {/* Article Header */}
         <header className="mb-12">
