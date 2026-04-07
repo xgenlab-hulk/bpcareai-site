@@ -1,0 +1,20 @@
+{
+  "date": "2026-04-04",
+  "period": "3-day",
+  "impressionsChange": -77.3462783171521,
+  "clicksChange": -100,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "bp ai",
+      "reason": "排名跃升 22.3 位（42.3 → 20.0）",
+      "score": 67,
+      "recentImpressions": 1,
+      "baselineImpressions": 3,
+      "recentPosition": 20,
+      "baselinePosition": 42.333333333333336
+    }
+  ]
+}
