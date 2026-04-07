@@ -1,12 +1,13 @@
 ---
 title: >-
-  Soft Food Holiday Meals for Seniors: Festive Ideas for Dental Issues
+  Soft Foods for Elderly with No Teeth: Heart-Healthy Holiday Meals
 slug: holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
 description: >-
-  Dry mouth (xerostomia) affects 30% of medicated older adults. 12 easy-to-chew holiday recipes that protect protein and vitamin intake for seniors with dentures.
+  Soft meals for seniors with no teeth — low-sodium turkey, pureed soups, high-protein mashed recipes that support BP and cholesterol.
 date: '2025-12-01'
 updated: '2026-03-28'
-primaryKeyword: soft food holiday meals for seniors with dental issues
+primaryKeyword: >-
+  soft food for elderly with no teeth
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
@@ -19,7 +20,7 @@ relatedSlugs:
   - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
 ---
 
-# Soft Food Diet Holiday Meals for Seniors: Delicious and Nutritious Options
+# Soft Foods for Elderly with No Teeth: Heart-Healthy Holiday Meals
 
 The holiday season is a time for warmth, family, and shared meals—but for seniors on a soft food diet due to dentures, dry mouth, or recent dental procedures, it can also bring challenges. Planning **soft food diet holiday meals for seniors** doesn’t mean sacrificing flavor or nutrition. In fact, with thoughtful preparation, you can enjoy festive dishes that are gentle on the teeth yet rich in essential nutrients.
 

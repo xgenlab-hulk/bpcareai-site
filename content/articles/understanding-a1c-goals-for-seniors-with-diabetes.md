@@ -1,13 +1,13 @@
 ---
 title: >-
-  A1C Goals by Age: Safe Targets for 65, 70, 75, 80+ (2026 ADA)
+  HbA1c Target for Elderly Diabetics: ADA & AHA Guidelines (2024)
 slug: understanding-a1c-goals-for-seniors-with-diabetes
 description: >-
-  What A1C should a 70-year-old aim for? ADA says 7.0-7.5% if healthy, 8.0-8.5% with complications. See the age-by-age target chart and when to adjust meds.
+  Ideal HbA1c target for adults 65+? Evidence-based A1C goals for frailty, hypoglycemia risk, and polypharmacy — cardiologist reviewed.
 date: '2025-11-28'
 updated: '2026-03-31'
 primaryKeyword: >-
-  a1c goals by age 70 elderly diabetics
+  hba1c target for elderly diabetics
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
@@ -18,7 +18,7 @@ relatedSlugs:
   - should-you-adjust-your-blood-pressure-goals-in-winter
 ---
 
-# Understanding A1C Targets for Elderly with Diabetes: What’s Right for You?
+# HbA1c Target for Elderly Diabetics: ADA & AHA Guidelines (2024)
 
 If you or a loved one is managing diabetes later in life, you’ve likely heard about A1C targets for elderly with diabetes. This number, also known as HbA1c or glycated hemoglobin, gives a snapshot of your average blood sugar levels over the past two to three months. It’s a helpful tool—but here’s what many don’t realize: there’s no “one-size-fits-all” goal, especially for older adults.
 

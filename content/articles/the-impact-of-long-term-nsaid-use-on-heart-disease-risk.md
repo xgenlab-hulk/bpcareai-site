@@ -1,13 +1,13 @@
 ---
 title: >-
-  Can You Take Ibuprofen With Heart Disease? AHA Safety Guide
+  Do Ibuprofen & Naproxen Raise Blood Pressure? AHA Guidelines Explained
 slug: the-impact-of-long-term-nsaid-use-on-heart-disease-risk
 description: >-
-  NSAIDs like ibuprofen raise BP 3-5 mmHg and increase heart attack risk 20-40% for adults 55+. See the AHA safety chart: which painkillers are safe with heart disease.
+  AHA confirms NSAIDs like ibuprofen can raise BP. What adults 35+ need to know about heart risks, safer alternatives, and when to see your doctor.
 date: '2025-11-27'
 updated: '2026-03-31'
 primaryKeyword: >-
-  nsaids raise blood pressure ibuprofen heart disease risk seniors
+  ibuprofen raise blood pressure american heart association
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
@@ -18,7 +18,7 @@ relatedSlugs:
   - is-metformin-still-safe-for-diabetics-over-70
 ---
 
-# Understanding the Link Between Long-Term NSAID Use and Heart Disease Risk
+# Do Ibuprofen & Naproxen Raise Blood Pressure? AHA Guidelines Explained
 
 For many adults over 50, managing aches and pains is part of daily life. Whether it's stiffness from arthritis or discomfort after staying active, nonsteroidal anti-inflammatory drugs (NSAIDs) like ibuprofen, naproxen, or aspirin are often the go-to solution. While these medications can be effective for short-term relief, **long-term NSAID use and heart disease risk** are increasingly being studied due to growing evidence of a connection. This doesn’t mean you should panic—but it does mean it’s worth understanding how regular use might affect your cardiovascular health, especially as you age.
 

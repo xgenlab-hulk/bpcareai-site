@@ -1,12 +1,13 @@
 ---
 title: >-
-  How Overheated Rooms Quietly Raise Blood Pressure in Winter
+  Does Heat Raise or Lower Blood Pressure? Indoor Risks
 slug: the-hidden-dangers-of-indoor-heating-on-blood-pressure
 description: >-
-  Dry heated air above 72F causes dehydration that raises systolic BP 5-10 mmHg. Seniors with high blood pressure (hypertension) face added winter risk.
+  Indoor heating can spike systolic BP by 12 mmHg in adults 55+. How temperature and humidity affect your readings, with cardiologist-backed tips.
 date: '2025-12-02'
 updated: '2026-03-29'
-primaryKeyword: can indoor heating raise blood pressure in winter
+primaryKeyword: >-
+  does heat raise or lower blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
@@ -17,7 +18,7 @@ relatedSlugs:
   - why-winter-increases-heart-attack-risk-in-seniors-over-70
 ---
 
-# How Indoor Heating Affects Blood Pressure—And What You Can Do
+# Does Heat Raise or Lower Blood Pressure? Indoor Risks
 
 As winter sets in and we turn up the heat, many of us enjoy the cozy warmth of our homes. But did you know that indoor heating can influence your blood pressure? The term *indoor heating blood pressure* refers to how heated, dry air inside homes during colder months may quietly affect circulation and cardiovascular function—especially for adults over 50.
 
