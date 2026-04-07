@@ -1,41 +1,5 @@
 [
   {
-    "title": "Blood Sugar Friendly Foods That Keep You Full",
-    "description": "Seniors with prediabetes lose 3x more muscle mass if meals spike glucose — discover 6 satisfying, low-glycemic staples. discover",
-    "primaryKeyword": "blood sugar friendly foods for seniors",
-    "topicCluster": "diabetes-management",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-04-02T04:33:13.963Z",
-    "score": 48.1,
-    "scheduledWeek": "2026-W15",
-    "perplexityQuestions": [
-      "Is 140/90 blood pressure dangerous at age 45 with prediabetes?",
-      "What A1C level is too high for a 50-year-old newly diagnosed with type 2 diabetes?",
-      "How often should a 40-year-old with diabetes check fasting blood sugar?",
-      "Can stress at work cause blood sugar spikes in adults over 35?",
-      "Is a glucose reading of 180 after meals normal for someone 55 with type 2?"
-    ],
-    "competitorCoverage": "Top-ranking Google articles on diabetes for adults cover basics like types (type 1 vs type 2), common symptoms (thirst, fatigue, frequent urination), risk factors (age 45+, obesity, family history, inactivity), and general prevention via lifestyle changes like diet and exercise.[1][2][3][5][6] They emphasize diagnosis through A1C tests, blood sugar targets (e.g., 3.9-10.0 mmol/L), and questions to ask doctors about management goals and insulin options.[2][4] To compete, a new article must include updated A1C guidelines, personalized risk calculators for 35+ adults, and comparisons of meds like metformin vs newer options, avoiding overlaps with senior-specific topics."
-  },
-  {
-    "title": "Blood Sugar Friendly Foods That Fill You Up",
-    "description": "7 low-glycemic, high-fiber foods that kept blood sugar steady for 91% of seniors on GLP-1 meds — learn how.",
-    "primaryKeyword": "blood sugar friendly foods for seniors",
-    "topicCluster": "diabetes-management",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-04-04T03:30:58.335Z",
-    "score": 47.900000000000006,
-    "scheduledWeek": "2026-W15",
-    "perplexityQuestions": [
-      "What is my target A1C level at age 40 with type 2 diabetes?",
-      "Is a fasting blood sugar of 130 mg/dL dangerous for a 50-year-old?",
-      "How often should I check my blood sugar if I'm 55 and on metformin?",
-      "What are the signs of diabetic neuropathy in legs for adults over 45?",
-      "Can stress cause high blood sugar spikes in people over 35?"
-    ],
-    "competitorCoverage": "Top-ranking Google articles on diabetes for adults cover basics like types (type 1 vs type 2), symptoms, causes, risk factors (age over 45, family history, obesity), diagnosis via A1C or glucose tests, and treatments including lifestyle changes, oral meds, and insulin.[3][4][6] They emphasize complication prevention (heart disease, neuropathy, retinopathy) and blood sugar targets (70-130 mg/dL fasting).[3] To compete, a new article must include personalized targets by age, doctor questions on monitoring/insulin, and prevention strategies beyond existing senior-focused topics.[1][2]"
-  },
-  {
     "title": "What Is a Safe A1C Level at 70?",
     "description": "For adults 70+, the American Geriatrics Society recommends A1C under 8.0% to balance safety and health—learn how to set your personal target.",
     "primaryKeyword": "safe a1c level at 70",

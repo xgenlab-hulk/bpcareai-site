@@ -15,6 +15,7 @@ relatedSlugs:
   - can-meditation-lower-blood-pressure-naturally
   - top-5-winter-superfoods-that-naturally-lower-blood-pressure
   - cholesterol-lowering-soups-over-45
+  - foods-lower-blood-pressure-naturally-after-50
 ---
 
 # 3 Delicious, Doctor-Approved Soups That Lower Blood Pressure Naturally
