@@ -69,22 +69,22 @@ Caring for your heart in winter isn’t about perfection—it’s about presence
 
 ### FAQ
 
-#### #### Does dehydration in winter really affect heart health for seniors?
+#### Does dehydration in winter really affect heart health for seniors?
 
 Yes—especially for adults over 70. Cold-induced vasoconstriction, dry indoor air, and age-related decline in thirst signaling can lead to mild dehydration. Even slight reductions in fluid volume increase blood viscosity and place added demand on the heart. Studies show that older adults hospitalized for heart-related issues in winter are more likely to present with signs of volume depletion than in warmer months.
 
-#### #### How much water should seniors drink in winter for optimal heart health?
+#### How much water should seniors drink in winter for optimal heart health?
 
 Most healthy adults over 70 benefit from 6–8 cups (48–64 oz) of fluids daily—though individual needs vary based on activity, medications, and health conditions. Those on diuretics or with heart failure may need personalized guidance from their care team. Consistency matters more than hitting an exact number every day.
 
-#### #### Can staying hydrated in winter help lower blood pressure?
+#### Can staying hydrated in winter help lower blood pressure?
 
 Hydration alone won’t “lower” high blood pressure, but maintaining balanced fluid levels helps prevent sudden spikes or drops—particularly important for older adults prone to orthostatic hypotension. Proper hydration supports stable cardiac output and helps blood vessel walls respond more effectively to regulatory signals.
 
-#### #### What are the best hydrating drinks for winter heart health for seniors?
+#### What are the best hydrating drinks for winter heart health for seniors?
 
 Warm, caffeine-free herbal teas (chamomile, ginger, peppermint), low-sodium broths, diluted fruit juices, and plain water are excellent choices. Avoid sugary drinks and limit alcohol—both can interfere with fluid balance and heart rhythm regulation. Warm fluids also support comfort and adherence to hydration goals.
 
-#### #### Is it possible to drink *too much* water in winter—and is that dangerous for heart health?
+#### Is it possible to drink *too much* water in winter—and is that dangerous for heart health?
 
 Yes—though rare, overhydration (hyponatremia) can occur, especially in older adults taking certain medications like thiazide diuretics or SSRIs. Symptoms include headache, nausea, confusion, or muscle cramps. It’s uncommon with typical fluid intake, but if you’re drinking significantly more than 10–12 cups daily without sweating or urinating much, check in with your doctor.

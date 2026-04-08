@@ -55,22 +55,22 @@ Caring for your heart in winter doesn’t require drastic changes—just small, 
 
 ### FAQ
 
-#### #### Does wearing layered clothing really improve heart health in winter?
+#### Does wearing layered clothing really improve heart health in winter?
 
 Yes—studies show that proper layering helps maintain stable core temperature, reducing the need for vasoconstriction and minimizing cold-induced spikes in blood pressure. This supports overall cardiovascular efficiency, especially for adults over 50.
 
-#### #### How does layered clothing heart health connect to blood pressure control?
+#### How does layered clothing heart health connect to blood pressure control?
 
 Cold exposure causes arteries to tighten, raising systolic and diastolic pressure. Layered clothing reduces that stimulus by preserving warmth close to the skin, helping keep BP within a safer range—particularly important for those managing hypertension or on heart medications.
 
-#### #### Can layered clothing heart health benefit someone with heart failure?
+#### Can layered clothing heart health benefit someone with heart failure?
 
 Absolutely. People with heart failure often have reduced cardiac reserve and heightened sensitivity to temperature shifts. Layering helps avoid sudden circulatory demands, supporting stable heart function and reducing symptom triggers like fatigue or breathlessness.
 
-#### #### What’s the best fabric combination for layered clothing heart health?
+#### What’s the best fabric combination for layered clothing heart health?
 
 Look for a moisture-wicking base (e.g., merino wool or polyester blend), an insulating mid-layer (fleece or thin down), and a breathable, wind-resistant outer shell. Avoid cotton alone—it retains moisture and loses insulation when damp.
 
-#### #### Do I still need layered clothing heart health if I’m mostly indoors during winter?
+#### Do I still need layered clothing heart health if I’m mostly indoors during winter?
 
 Yes—especially if your home runs cool or you spend time in unheated spaces like garages, basements, or entryways. Indoor temperatures below 65°F can still prompt mild vasoconstriction, particularly in older adults with slower thermal adaptation.

@@ -81,22 +81,22 @@ Learning to gently influence your blood pressure is empowering—not because it 
 
 ### FAQ
 
-#### #### Can quick blood pressure reduction guided breathing really work in under 90 minutes?
+#### Can quick blood pressure reduction guided breathing really work in under 90 minutes?
 
 Yes—clinical studies in emergency triage settings show that combining the 4-7-8 breathing pattern with mindful postural transitions lowers systolic BP by ~10–14 mm Hg and diastolic BP by ~6–9 mm Hg within 75–90 minutes. These effects are most pronounced in adults with Stage 1 hypertension and stress-reactive BP patterns.
 
-#### #### Is quick blood pressure reduction guided breathing safe for older adults?
+#### Is quick blood pressure reduction guided breathing safe for older adults?
 
 Absolutely—when practiced gently and without breath-holding strain, it’s well-tolerated across ages. In fact, research specifically included participants aged 52–76 and reported no adverse events. Always consult your doctor if you have advanced heart failure, recent stroke, or uncontrolled arrhythmias—but for most adults over 50, it’s a safe, accessible tool.
 
-#### #### How often should I do quick blood pressure reduction guided breathing?
+#### How often should I do quick blood pressure reduction guided breathing?
 
 For best results, aim for two short sessions daily (3–5 minutes each)—ideally once in the morning and once in the late afternoon. Consistency over time strengthens vagal tone and enhances responsiveness. Even occasional use during moments of noticeable stress or elevated readings can be beneficial.
 
-#### #### Does deep breathing lower blood pressure immediately?
+#### Does deep breathing lower blood pressure immediately?
 
 Not instantly—but many people feel calmer and notice subtle shifts (like slower pulse or relaxed shoulders) within 1–2 minutes. Measurable BP reductions typically emerge after 15–20 minutes of consistent practice, with peak effect around the 60–90 minute mark—especially when paired with postural awareness.
 
-#### #### What’s the difference between quick blood pressure reduction guided breathing and regular deep breathing?
+#### What’s the difference between quick blood pressure reduction guided breathing and regular deep breathing?
 
 Regular deep breathing is helpful—but *structured* patterns like 4-7-8 add neurophysiological precision. The extended exhale (8 seconds) maximizes vagal stimulation, while the timed hold (7 seconds) gently increases CO₂ tolerance—both of which improve baroreflex sensitivity. Combined with postural sequencing, it becomes a targeted acute-intervention protocol—not just relaxation.

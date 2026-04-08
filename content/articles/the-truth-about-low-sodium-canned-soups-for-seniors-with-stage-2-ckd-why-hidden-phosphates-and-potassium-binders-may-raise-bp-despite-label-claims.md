@@ -78,17 +78,17 @@ Living well with stage 2 CKD doesn’t mean perfection—it means paying kind, c
 
 ### FAQ
 
-#### #### Are low-sodium soups safe for people with kidney disease and high blood pressure?  
+#### Are low-sodium soups safe for people with kidney disease and high blood pressure?  
 Yes—*some* are, but not all. Safety depends on more than sodium: watch for hidden phosphates, potassium additives, and acid load. Always check ingredient lists, not just the front-of-package claim. When in doubt, choose soups with <100 mg sodium *and* no phosphate additives per serving.
 
-#### #### Can low-sodium soups kidney disease blood pressure issues be avoided by reading labels carefully?  
+#### Can low-sodium soups kidney disease blood pressure issues be avoided by reading labels carefully?  
 Partially. Labels list sodium and sometimes total potassium/phosphorus, but they rarely disclose *inorganic phosphate content* or *acid load*. Ingredient scanning is essential—and working with a renal dietitian helps translate labels into practical choices.
 
-#### #### Do low-sodium soups raise blood pressure in seniors with stage 2 CKD?  
+#### Do low-sodium soups raise blood pressure in seniors with stage 2 CKD?  
 Not directly—but certain formulations can contribute to gradual BP elevation through mechanisms like RAAS activation, fluid retention from potassium binders, or vascular effects of excess phosphate. This is usually subtle and cumulative—not sudden—so consistent monitoring matters.
 
-#### #### What are better soup alternatives for seniors with CKD?  
+#### What are better soup alternatives for seniors with CKD?  
 Homemade vegetable-based broths (e.g., onion-carrot-celery), plain miso (check sodium), or low-phos lentil soups made with rinsed red lentils and turmeric. Avoid canned “diet” or “renal” soups unless verified by your care team—they sometimes contain unexpected binders or acidifying ingredients.
 
-#### #### How often should I check my blood pressure if I eat canned soups regularly?  
+#### How often should I check my blood pressure if I eat canned soups regularly?  
 If you have stage 2 CKD and hypertension, aim for twice-weekly checks at the same time of day (e.g., morning before medication). Note what you ate within 2 hours prior—including soup brand and serving size—to spot patterns over time.

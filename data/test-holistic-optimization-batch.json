@@ -1,0 +1,86 @@
+{
+  "batch_id": "test-sample-10",
+  "total": 10,
+  "articles": [
+    {
+      "slug": "glucose-drops-folding-laundry-autonomic-dysfunction",
+      "title": "What Causes Sudden Glucose Drops *Only* While Folding Laundry? \u2014 The Role of Repetitive Shoulder Girdle Compression, Vagal Tone Shifts, and Hepatic Glycogen Release in Adults 58\u201363 With Early Autonomic Dysfunction",
+      "description": "Links sustained postural compression of the celiac plexus during common household tasks to transient insulin sensitization and glycogenolysis dysregulation.",
+      "primaryKeyword": "glucose drops folding laundry autonomic dysfunction",
+      "topicCluster": "diabetes-management",
+      "contentPath": "content/articles/glucose-drops-folding-laundry-autonomic-dysfunction.md"
+    },
+    {
+      "slug": "12-holiday-safe-herbs-and-spices-that-boost-endothelial-no-production-without-interfering-with-warfarin-for-adults-74-on-anticoagulation-therapy",
+      "title": "12 Holiday-Safe Herbs and Spices That Boost Endothelial NO Production *Without* Interfering With Warfarin \u2014 For Adults 74+ on Anticoagulation Therapy",
+      "description": "Curates a vetted list of vasodilatory seasonings with INR-safe phytochemical profiles, plus usage thresholds and preparation methods to maximize nitric oxide bioavailability.",
+      "primaryKeyword": "holiday herbs endothelial no warfarin safe",
+      "topicCluster": "treatment-interventions",
+      "contentPath": "content/articles/12-holiday-safe-herbs-and-spices-that-boost-endothelial-no-production-without-interfering-with-warfarin-for-adults-74-on-anticoagulation-therapy.md"
+    },
+    {
+      "slug": "when-to-worry-about-normal-resting-heart-rate-in-adults-75-with-high-grade-av-block-and-compensatory-ventricular-escape-rhythms",
+      "title": "When to Worry About 'Normal' Resting Heart Rate in Adults 75+ With High-Grade AV Block and Compensatory Ventricular Escape Rhythms",
+      "description": "Clarifies why a stable but elevated resting HR (e.g., 68\u201374 bpm) may signal progressive conduction system disease \u2014 and which concurrent symptoms warrant urgent electrophysiology referral.",
+      "primaryKeyword": "resting heart rate high-grade av block seniors",
+      "topicCluster": "symptoms-diagnosis",
+      "contentPath": "content/articles/when-to-worry-about-normal-resting-heart-rate-in-adults-75-with-high-grade-av-block-and-compensatory-ventricular-escape-rhythms.md"
+    },
+    {
+      "slug": "12-science-backed-ways-to-improve-baroreflex-sensitivity-without-medication-for-adults-67-80-with-orthostatic-hypotension-and-recurrent-falls",
+      "title": "12 Science-Backed Ways to Improve Baroreflex Sensitivity Without Medication \u2014 For Adults 67\u201380 With Orthostatic Hypotension and Recurrent Falls",
+      "description": "Covers non-pharmacologic interventions including paced breathing protocols, cold exposure, neck muscle strengthening, and seated postural transitions \u2014 all validated in geriatric autonomic dysfunction trials.",
+      "primaryKeyword": "health management seniors",
+      "topicCluster": "hypertension-management",
+      "contentPath": "content/articles/12-science-backed-ways-to-improve-baroreflex-sensitivity-without-medication-for-adults-67-80-with-orthostatic-hypotension-and-recurrent-falls.md"
+    },
+    {
+      "slug": "10-foods-that-lower-post-dinner-glucose-variability-without-raising-ldl-for-adults-66-79-with-type-2-diabetes-and-familial-hypercholesterolemia",
+      "title": "10 Foods That Lower Post-Dinner Glucose Variability Without Raising LDL \u2014 For Adults 66\u201379 With Type 2 Diabetes and Familial Hypercholesterolemia",
+      "description": "Features LDL-neutral, high-fiber, low-AGE foods\u2014including roasted seaweed, lupini beans, and shirataki noodles\u2014with glucose-lowering effects confirmed by blinded CGM trials.",
+      "primaryKeyword": "foods lower glucose variability LDL safe",
+      "topicCluster": "nutrition-diet-management",
+      "contentPath": "content/articles/10-foods-that-lower-post-dinner-glucose-variability-without-raising-ldl-for-adults-66-79-with-type-2-diabetes-and-familial-hypercholesterolemia.md"
+    },
+    {
+      "slug": "how-chronic-exposure-to-blue-light-from-nighttime-tablet-use-disrupts-melatonin-mediated-insulin-secretion-in-adults-65-with-prediabetes",
+      "title": "How Chronic Exposure to Blue Light From Nighttime Tablet Use Disrupts Melatonin-Mediated Insulin Secretion in Adults 65+ With Prediabetes",
+      "description": "Examines the photobiological pathway linking evening screen time to impaired first-phase insulin response \u2014 supported by actigraphy and continuous glucose monitoring data from a 2023 geriatric cohort study.",
+      "primaryKeyword": "blue light insulin secretion prediabetes seniors",
+      "topicCluster": "diabetes-management",
+      "contentPath": "content/articles/how-chronic-exposure-to-blue-light-from-nighttime-tablet-use-disrupts-melatonin-mediated-insulin-secretion-in-adults-65-with-prediabetes.md"
+    },
+    {
+      "slug": "post-bariatric-holiday-weight-regain-prevention",
+      "title": "12 Science-Backed Strategies to Prevent Post-Holiday Weight Regain in Adults 58\u201365 With Recent Bariatric Surgery \u2014 Focused on Social Eating Triggers and Adaptive Portion Cues",
+      "description": "Presents behaviorally grounded, surgery-specific techniques to maintain weight loss during high-social-pressure seasons\u2014emphasizing environmental cue modification over willpower.",
+      "primaryKeyword": "post-bariatric holiday weight regain prevention",
+      "topicCluster": "nutrition-diet-management",
+      "contentPath": "content/articles/post-bariatric-holiday-weight-regain-prevention.md"
+    },
+    {
+      "slug": "home-blood-pressure-cuff-afib-algorithm-errors",
+      "title": "7 Hidden Risks of Overusing Home Blood Pressure Cuffs With 'Smart' Algorithm Corrections \u2014 Especially in Adults 74+ With Atrial Fibrillation and Intermittent Pulse Irregularity",
+      "description": "Uncovers how proprietary oscillometric algorithms misinterpret arrhythmic waveforms, leading to falsely reassuring readings and delayed clinical intervention.",
+      "primaryKeyword": "home blood pressure cuff afib algorithm errors",
+      "topicCluster": "hypertension-management",
+      "contentPath": "content/articles/home-blood-pressure-cuff-afib-algorithm-errors.md"
+    },
+    {
+      "slug": "can-you-eat-traditional-stuffing-safely-with-stage-2-heart-failure-a-sodium-content-breakdown",
+      "title": "Can You Eat Traditional Stuffing Safely With Stage 2 Heart Failure? A Sodium-Content Breakdown",
+      "description": "Analyzes sodium load per serving across 7 regional stuffing recipes, compares against ACC/AHA daily limits for HF patients, and offers 3 low-sodium swaps that preserve texture and flavor.",
+      "primaryKeyword": "stuffing sodium heart failure seniors",
+      "topicCluster": "cardiac-disease-management",
+      "contentPath": "content/articles/can-you-eat-traditional-stuffing-safely-with-stage-2-heart-failure-a-sodium-content-breakdown.md"
+    },
+    {
+      "slug": "best-holiday-appetizers-for-adults-70-with-denture-instability-soft-high-protein-low-residue-options-that-don-t-require-chewing-force",
+      "title": "Best Holiday Appetizers for Adults 70+ With Denture Instability \u2014 Soft, High-Protein, Low-Residue Options That Don\u2019t Require Chewing Force",
+      "description": "Features 8 dentist-vetted, nutrient-dense finger foods optimized for oral motor safety, thermal tolerance, and satiety signaling without mechanical stress.",
+      "primaryKeyword": "holiday appetizers denture instability seniors",
+      "topicCluster": "nutrition-diet-management",
+      "contentPath": "content/articles/best-holiday-appetizers-for-adults-70-with-denture-instability-soft-high-protein-low-residue-options-that-don-t-require-chewing-force.md"
+    }
+  ]
+}

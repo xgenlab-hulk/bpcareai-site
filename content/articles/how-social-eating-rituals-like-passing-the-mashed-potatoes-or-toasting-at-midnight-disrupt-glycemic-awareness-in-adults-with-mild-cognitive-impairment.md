@@ -42,22 +42,22 @@ In summary, supporting *social eating glycemic awareness mci* is less about perf
 
 ### FAQ
 
-#### #### How does social eating affect blood sugar in people with mild cognitive impairment?
+#### How does social eating affect blood sugar in people with mild cognitive impairment?
 
 Social eating increases cognitive load—especially auditory processing and working memory—which interferes with recognizing early satiety and fullness cues. In adults with MCI, this contributes to delayed insulin response and higher postprandial glucose excursions, particularly during multi-course or conversation-heavy meals.
 
-#### #### What is social eating glycemic awareness mci—and why is it important during Christmas and New Year?
+#### What is social eating glycemic awareness mci—and why is it important during Christmas and New Year?
 
 *Social eating glycemic awareness mci* refers to the ability to monitor and respond to blood sugar changes amid festive group meals. It’s especially important during Christmas and New Year because irregular schedules, alcohol consumption, rich foods, and heightened social engagement compound existing challenges with interoceptive awareness in MCI.
 
-#### #### Can managing blood sugar during Christmas and New Year help slow cognitive decline in MCI?
+#### Can managing blood sugar during Christmas and New Year help slow cognitive decline in MCI?
 
 Emerging evidence suggests yes: chronic postprandial hyperglycemia contributes to neuroinflammation and vascular stress. Consistently managing blood sugar during Christmas and New Year—and throughout the year—supports cerebral blood flow and may help preserve cognitive resilience in adults with MCI.
 
-#### #### Does alcohol during holiday toasts impact glycemic awareness in MCI?
+#### Does alcohol during holiday toasts impact glycemic awareness in MCI?
 
 Yes—alcohol impairs hypothalamic regulation of glucose and masks hypoglycemia symptoms (e.g., shakiness, sweating). In MCI, where symptom recognition is already dampened, even one drink with dinner may delay awareness of low or high glucose by 30–45 minutes.
 
-#### #### Are there specific foods I should avoid during holiday meals if I have MCI and prediabetes?
+#### Are there specific foods I should avoid during holiday meals if I have MCI and prediabetes?
 
 Focus less on “avoiding” and more on sequencing: eat protein and fiber first (e.g., turkey, roasted vegetables), then add modest portions of starchy sides. Limit liquid carbohydrates (e.g., eggnog, sweet cider) and skip sugary sauces—these cause sharper glucose spikes than solid, fiber-rich foods.

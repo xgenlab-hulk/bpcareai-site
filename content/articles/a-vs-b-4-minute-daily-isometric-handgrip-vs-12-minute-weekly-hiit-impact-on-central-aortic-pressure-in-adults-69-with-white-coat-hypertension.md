@@ -65,22 +65,22 @@ In short, there’s no single “best” option—only the right fit for *your* 
 
 ### FAQ
 
-#### #### Is isometric handgrip vs HIIT better for lowering central pressure in seniors?
+#### Is isometric handgrip vs HIIT better for lowering central pressure in seniors?
 
 Research suggests isometric handgrip may be more feasible and consistently effective for adults 69+, with higher adherence and measurable central aortic pressure reductions of 5–8 mm Hg in clinical trials. HIIT works well for some—but requires greater physical capacity and supervision.
 
-#### #### Does isometric handgrip vs HIIT central pressure seniors work for white-coat hypertension?
+#### Does isometric handgrip vs HIIT central pressure seniors work for white-coat hypertension?
 
 Yes—both have shown benefit in studies involving older adults with white-coat patterns. Isometric handgrip, in particular, appears to modulate sympathetic nervous system activity, helping “calm” exaggerated stress responses that drive temporary BP spikes.
 
-#### #### How long before I see results from isometric handgrip vs HIIT for central pressure?
+#### How long before I see results from isometric handgrip vs HIIT for central pressure?
 
 Most studies report measurable changes in central aortic pressure after 8 weeks of consistent practice—whether daily handgrip or weekly HIIT. Small improvements may appear sooner, but sustained benefit builds gradually.
 
-#### #### Can I combine isometric handgrip and HIIT?
+#### Can I combine isometric handgrip and HIIT?
 
 Some older adults do—but it’s wise to start with one, assess tolerance and response, then discuss layering with your healthcare team. Overexertion increases fall or injury risk, especially without proper guidance.
 
-#### #### Do I need special equipment for isometric handgrip training?
+#### Do I need special equipment for isometric handgrip training?
 
 A calibrated handgrip dynamometer is ideal (many clinics offer them). If unavailable, use a resistance ball or soft squeeze toy—focus on steady, controlled effort rather than maximum force. Avoid straining or holding your breath.

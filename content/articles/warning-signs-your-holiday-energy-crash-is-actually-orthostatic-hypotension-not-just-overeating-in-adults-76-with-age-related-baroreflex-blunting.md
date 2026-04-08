@@ -107,17 +107,17 @@ Orthostatic changes with age are real, but they’re also among the most treatab
 
 ### FAQ  
 
-#### #### What are the early warning signs of holiday energy crash orthostatic hypotension in seniors?  
+#### What are the early warning signs of holiday energy crash orthostatic hypotension in seniors?  
 Early signs include lightheadedness or “woozy” sensation within seconds of standing, blurred or tunnel vision, sudden fatigue after getting up from a chair or toilet, and needing to hold onto furniture for stability. Unlike general tiredness, these symptoms resolve quickly — often within 10–20 seconds — once standing stops or sitting resumes.
 
-#### #### Can holiday energy crash orthostatic hypotension happen even if my blood pressure is normal when sitting?  
+#### Can holiday energy crash orthostatic hypotension happen even if my blood pressure is normal when sitting?  
 Yes — absolutely. Orthostatic hypotension is defined by the *change* in pressure upon standing, not by resting values. Many older adults have well-controlled or even high-normal seated BP (e.g., 142/84 mm Hg) yet experience significant drops (e.g., to 118/72 mm Hg) when upright — enough to reduce brain blood flow and trigger symptoms.
 
-#### #### How is holiday energy crash orthostatic different from regular fatigue after big meals?  
+#### How is holiday energy crash orthostatic different from regular fatigue after big meals?  
 Regular post-meal fatigue tends to build gradually, lasts 60–120 minutes, and improves with rest or light activity. Orthostatic-related symptoms are *position-dependent*: they appear predictably within 1–3 minutes of standing, improve rapidly upon sitting or lying down, and may recur with each positional change — regardless of meal size or content.
 
-#### #### Does drinking more water really help with orthostatic hypotension in older adults?  
+#### Does drinking more water really help with orthostatic hypotension in older adults?  
 Yes — but timing and composition matter. Acute hydration (e.g., 16 oz water upon waking) can raise standing BP by 7–12 mm Hg in dehydrated elders. However, chronic mild dehydration — common in older adults due to blunted thirst — contributes significantly to OH. Consistent, moderate intake throughout the day (not just when thirsty) supports plasma volume and improves baroreflex responsiveness over time.
 
-#### #### Are there foods I should avoid during holiday gatherings to prevent orthostatic drops?  
+#### Are there foods I should avoid during holiday gatherings to prevent orthostatic drops?  
 Limit large servings of high-glycemic foods (e.g., white potatoes, stuffing, desserts) eaten alone — they trigger insulin-mediated vasodilation and may amplify postprandial hypotension. Instead, pair carbs with protein (e.g., turkey with sweet potato) and add modest salt if medically appropriate (confirm with your clinician first, especially if managing heart failure or kidney disease).

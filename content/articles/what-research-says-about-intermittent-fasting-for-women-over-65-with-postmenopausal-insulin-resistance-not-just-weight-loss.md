@@ -55,17 +55,17 @@ In summary, emerging science confirms that intermittent fasting—when tailored 
 
 ### FAQ
 
-#### #### Is intermittent fasting safe for women over 65 with insulin resistance?  
+#### Is intermittent fasting safe for women over 65 with insulin resistance?  
 Yes—when individualized and medically supervised. Recent RCTs show safety and efficacy in this group, especially with gradual implementation and attention to protein, hydration, and activity. However, those with advanced kidney disease, frailty, or unstable diabetes should avoid unsupervised fasting.
 
-#### #### Does intermittent fasting women over 65 insulin resistance improve blood sugar without weight loss?  
+#### Does intermittent fasting women over 65 insulin resistance improve blood sugar without weight loss?  
 Yes. Multiple 2022–2024 studies report improvements in fasting insulin, HOMA-IR, and postprandial glucose *without significant weight change*, suggesting direct effects on insulin signaling and hepatic metabolism—not just caloric deficit.
 
-#### #### How does intermittent fasting affect muscle mass in women over 65 with insulin resistance?  
+#### How does intermittent fasting affect muscle mass in women over 65 with insulin resistance?  
 Well-designed protocols that include adequate protein and resistance exercise help preserve lean mass. One 2024 trial found no loss of appendicular lean mass over 16 weeks—whereas control groups lost ~0.8%—highlighting the importance of combining fasting with muscle-supportive habits.
 
-#### #### Can intermittent fasting reverse prediabetes in older women?  
+#### Can intermittent fasting reverse prediabetes in older women?  
 It may delay or prevent progression to type 2 diabetes, particularly when combined with lifestyle changes. While “reversal” isn’t guaranteed, sustained improvements in insulin sensitivity and beta-cell function have been documented in longitudinal sub-analyses.
 
-#### #### Should women over 65 check their blood pressure while doing intermittent fasting?  
+#### Should women over 65 check their blood pressure while doing intermittent fasting?  
 Yes. Blood pressure can fluctuate with fasting, especially in those on antihypertensive meds. Monitoring helps detect orthostatic drops or unexpected surges—and supports safer medication adjustments if needed.

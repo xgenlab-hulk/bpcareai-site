@@ -60,22 +60,22 @@ In most cases, blood pressure lability after cataract surgery resolves within 5�
 
 ### FAQ
 
-#### #### Can cataract surgery cause high blood pressure?
+#### Can cataract surgery cause high blood pressure?
 
 Not directly—but stress, pain, disrupted sleep, or fluid shifts in the recovery period can lead to temporary elevations. More commonly, BP *drops*, especially in those with orthostatic intolerance. Persistent high readings warrant evaluation for underlying causes.
 
-#### #### How long does blood pressure lability after cataract surgery last?
+#### How long does blood pressure lability after cataract surgery last?
 
 Typically 3–7 days. In most adults over 50, stability returns by day 10. Longer duration may signal need to reassess medications, hydration, or autonomic function.
 
-#### #### Does timolol eye drops affect blood pressure?
+#### Does timolol eye drops affect blood pressure?
 
 Yes—timolol is a non-selective beta-blocker. Systemic absorption can reduce heart rate and lower BP, especially in older adults or those with preexisting cardiac or autonomic conditions. Monitoring is recommended.
 
-#### #### Why do I feel dizzy after cataract surgery even though my vision is better?
+#### Why do I feel dizzy after cataract surgery even though my vision is better?
 
 Improved vision changes how your brain integrates sensory input—particularly with your inner ear (vestibular system). This short-term mismatch can disrupt balance signals and contribute to dizziness and blood pressure lability after cataract surgery.
 
-#### #### Should I stop my blood pressure medication before cataract surgery?
+#### Should I stop my blood pressure medication before cataract surgery?
 
 No—do not stop or adjust any BP medication without consulting your cardiologist or primary care provider. Most antihypertensives should be continued as prescribed, including on surgery day.

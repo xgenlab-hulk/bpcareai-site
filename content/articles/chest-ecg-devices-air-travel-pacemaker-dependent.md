@@ -40,22 +40,22 @@ In summary, using chest ECG devices air travel pacemaker dependent situations is
 
 ### FAQ
 
-#### #### Can chest ECG devices air travel pacemaker dependent users detect pacing spikes accurately?
+#### Can chest ECG devices air travel pacemaker dependent users detect pacing spikes accurately?
 
 Yes—most FDA-cleared chest ECG devices clearly display pacing spikes (small vertical deflections before QRS complexes) when worn properly. However, signal clarity improves significantly when electrodes are placed at least 2 inches away from the pacemaker generator site and skin is well-prepped.
 
-#### #### Do chest ECG devices air travel pacemaker dependent setups interfere with pacemaker function?
+#### Do chest ECG devices air travel pacemaker dependent setups interfere with pacemaker function?
 
 No. Extensive testing shows that commercially available chest ECG devices emit negligible electromagnetic fields—far below thresholds known to affect pacemaker operation. Interference is exceedingly rare and almost always linked to improper use or outdated hardware.
 
-#### #### Why do wrist ECGs become unreliable during flights for older pacemaker users?
+#### Why do wrist ECGs become unreliable during flights for older pacemaker users?
 
 Wrist ECGs rely on weaker peripheral signals and are highly sensitive to vasoconstriction—a natural response to mild hypoxia at altitude. In adults over 72, reduced peripheral perfusion and stiffer arteries further diminish signal strength, leading to frequent "poor signal" alerts or false arrhythmia flags.
 
-#### #### Is it safe to use a chest ECG device during turbulence?
+#### Is it safe to use a chest ECG device during turbulence?
 
 Yes—though readings taken *during* intense turbulence may show motion artifact. For best results, wait until turbulence eases, then take a 30-second resting trace while seated upright and still.
 
-#### #### Should I bring my chest ECG device on international flights?
+#### Should I bring my chest ECG device on international flights?
 
 Absolutely—especially if you’re pacemaker-dependent. Having a portable, real-time rhythm record can provide invaluable context during unexpected health events abroad, helping local clinicians understand your baseline and avoid misdiagnosis.

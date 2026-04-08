@@ -58,22 +58,22 @@ In time, supporting **beta-cell autophagy natural activation** becomes less abou
 
 ### FAQ
 
-#### #### Can beta-cell autophagy natural activation reverse early-stage type 2 diabetes?
+#### Can beta-cell autophagy natural activation reverse early-stage type 2 diabetes?
 
 Yes—partial reversal is possible in early-stage type 2 diabetes, particularly when combined with sustained lifestyle support. Studies show up to 46% of adults aged 50–70 achieve remission (HbA1c <5.7% off medications) within 12 months using rhythm-aligned nutrition and movement—without fasting or supplements.
 
-#### #### What foods best support beta-cell autophagy natural activation?
+#### What foods best support beta-cell autophagy natural activation?
 
 Top evidence-supported options include wild blueberries, green tea, black beans, walnuts, purple cabbage, and turmeric (paired with black pepper). Focus on *pairings*, not isolated “superfoods”—bioavailability and synergy matter more than quantity.
 
-#### #### How does melatonin timing affect beta-cell autophagy natural activation?
+#### How does melatonin timing affect beta-cell autophagy natural activation?
 
 Melatonin onset signals your body to shift from growth/maintenance mode to repair/cleanup mode—including autophagy in pancreatic beta cells. Aligning your last meal 3–4 hours before melatonin rise (usually ~2–3 hours before bedtime) strengthens this signal without requiring fasting.
 
-#### #### Is beta-cell autophagy natural activation safe for people taking metformin?
+#### Is beta-cell autophagy natural activation safe for people taking metformin?
 
 Yes—metformin itself activates AMPK, which supports autophagy. Combining it with time-restricted eating and polyphenol-rich meals appears additive, not conflicting. Always discuss timing adjustments with your prescribing clinician.
 
-#### #### Does walking after meals really help beta-cell function?
+#### Does walking after meals really help beta-cell function?
 
 Absolutely. A 10–15 minute walk within 30 minutes of eating lowers postprandial glucose spikes by ~20–30% and increases pancreatic blood flow—both of which reduce beta-cell stress and promote autophagic clearance.

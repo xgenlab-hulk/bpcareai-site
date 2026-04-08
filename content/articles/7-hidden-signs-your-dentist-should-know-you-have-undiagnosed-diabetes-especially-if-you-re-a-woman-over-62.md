@@ -63,22 +63,22 @@ Not every mouth change means diabetes—and many of these symptoms *are* treatab
 
 ### FAQ
 
-#### #### What are common oral signs of undiagnosed diabetes in women over 62?
+#### What are common oral signs of undiagnosed diabetes in women over 62?
 
 The most telling ones include persistent dry mouth (xerostomia), recurrent oral thrush, burning mouth syndrome, slow-healing sores or gum infections, and gum disease that doesn’t improve with routine dental care—even with excellent hygiene.
 
-#### #### Can menopause mimic oral signs of undiagnosed diabetes in women over 62?
+#### Can menopause mimic oral signs of undiagnosed diabetes in women over 62?
 
 Yes—menopause lowers estrogen, which can reduce saliva production and increase gum inflammation. But when symptoms are severe, sudden, or resistant to usual treatments (like moisturizing rinses or topical estrogen gels), it’s wise to rule out elevated blood sugar with a simple lab test.
 
-#### #### Is burning mouth syndrome linked to diabetes in older women?
+#### Is burning mouth syndrome linked to diabetes in older women?
 
 Absolutely. Studies show up to 48% of women over 60 with burning mouth syndrome have impaired glucose tolerance or undiagnosed type 2 diabetes—making it one of the more under-recognized **oral signs of undiagnosed diabetes in women over 62**.
 
-#### #### How does high blood sugar affect my gums and teeth?
+#### How does high blood sugar affect my gums and teeth?
 
 Elevated glucose fuels harmful bacteria, weakens collagen in gum tissue, impairs white blood cell function, and narrows small blood vessels—slowing healing and increasing infection risk. That’s why people with diabetes are three times more likely to develop severe periodontitis.
 
-#### #### Should my dentist test for diabetes during a routine cleaning?
+#### Should my dentist test for diabetes during a routine cleaning?
 
 Dentists don’t run blood tests—but they *can* screen for risk using questionnaires, oral exams, and referrals. Many practices now partner with local labs for point-of-care HbA1c or finger-stick glucose testing, especially for patients showing multiple oral red flags.

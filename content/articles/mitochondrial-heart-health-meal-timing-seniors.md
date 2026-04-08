@@ -60,22 +60,22 @@ Incorporating *mitochondrial heart health meal timing seniors* into your routine
 
 ### FAQ
 
-#### #### Can mitochondrial heart health meal timing seniors help lower blood pressure?
+#### Can mitochondrial heart health meal timing seniors help lower blood pressure?
 
 Yes—indirectly but meaningfully. Optimized mitochondrial function improves endothelial nitric oxide bioavailability and reduces arterial stiffness. In trials, structured meal timing (e.g., 12-hour overnight fast + morning light) correlated with an average 5–7 mm Hg reduction in systolic BP over 12 weeks among adults with early LVH.
 
-#### #### What’s the best time to take magnesium and CoQ10 for mitochondrial heart health meal timing seniors?
+#### What’s the best time to take magnesium and CoQ10 for mitochondrial heart health meal timing seniors?
 
 Take magnesium glycinate or citrate with dinner (to support nighttime calcium handling and ATP synthesis), and CoQ10 (ubiquinol form) with breakfast fat (e.g., avocado or nuts) for peak absorption and daytime electron transport support.
 
-#### #### How does blue light exposure improve mitochondrial heart health in seniors?
+#### How does blue light exposure improve mitochondrial heart health in seniors?
 
 Morning blue-light exposure stimulates intrinsically photosensitive retinal ganglion cells (ipRGCs), signaling the brain’s master clock to synchronize peripheral clocks—including those in heart tissue. This boosts expression of *PGC-1α*, a master regulator of mitochondrial biogenesis and oxidative metabolism.
 
-#### #### Is intermittent fasting safe for seniors with left ventricular hypertrophy?
+#### Is intermittent fasting safe for seniors with left ventricular hypertrophy?
 
 For most adults 55–69 with *stable, subclinical* LVH and no orthostatic hypotension or advanced kidney disease, a gentle 12-hour overnight fast (e.g., finishing dinner by 7 p.m., eating breakfast at 7 a.m.) is safe and beneficial. Avoid prolonged fasting (>16 hours) without medical supervision.
 
-#### #### Does protein timing really affect heart mitochondria—or is total daily intake all that matters?
+#### Does protein timing really affect heart mitochondria—or is total daily intake all that matters?
 
 Both matter—but timing enhances impact. Even distribution (~25–30 g/meal) maintains leucine availability to stimulate mitochondrial protein synthesis via mTORC1, while evening protein supports overnight repair. Total intake alone doesn’t replicate this rhythmic signaling.

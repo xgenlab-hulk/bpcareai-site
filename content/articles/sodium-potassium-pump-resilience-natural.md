@@ -69,22 +69,22 @@ In short, building **sodium-potassium pump resilience natural** is less about ch
 
 ### FAQ
 
-#### #### Can magnesium-L-threonate help sodium-potassium pump resilience natural without raising potassium?
+#### Can magnesium-L-threonate help sodium-potassium pump resilience natural without raising potassium?
 
 Yes — MgT supports the pump’s enzymatic function directly (by supplying Mg²⁺ as a required cofactor), independent of potassium concentration. It does not increase serum potassium and is well-tolerated in older adults with stable kidney function.
 
-#### #### What’s the safest way to improve sodium-potassium pump resilience natural while on diuretics?
+#### What’s the safest way to improve sodium-potassium pump resilience natural while on diuretics?
 
 Prioritize magnesium repletion (especially MgT), practice daily vagal-stimulating breathwork, and reduce metabolic stressors like excess sugar and alcohol. Avoid self-prescribing potassium supplements unless guided by serial labs and your clinician.
 
-#### #### Does cold-air nasal breathing really affect heart rhythm stability?
+#### Does cold-air nasal breathing really affect heart rhythm stability?
 
 Yes — research shows brief (1–3 min), cool-temperature nasal breathing increases high-frequency HRV and lowers ventricular ectopy rates in adults with diuretic-associated hypokalemia, likely via enhanced vagal modulation of myocardial excitability.
 
-#### #### Is holiday heart syndrome preventable with natural approaches?
+#### Is holiday heart syndrome preventable with natural approaches?
 
 Absolutely — especially when focused on *ion channel cofactors* (like magnesium) and *neural regulators* (like vagal tone). Prevention starts before the first glass of wine: optimizing magnesium status and practicing calming breathwork reduces susceptibility by improving intrinsic cardiac resilience.
 
-#### #### Can sodium-potassium pump resilience natural decline even with normal lab potassium?
+#### Can sodium-potassium pump resilience natural decline even with normal lab potassium?
 
 Yes — because standard potassium labs reflect only *extracellular* levels. Pump efficiency depends on intracellular magnesium, ATP availability, oxidative stress, and membrane fluidity — none of which appear on a basic electrolyte panel.

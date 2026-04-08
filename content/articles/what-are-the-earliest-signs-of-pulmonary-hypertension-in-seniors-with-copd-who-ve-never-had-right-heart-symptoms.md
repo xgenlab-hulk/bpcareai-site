@@ -101,22 +101,22 @@ If you're unsure, talking to your doctor is always a good idea. And if you’ve 
 
 ### FAQ
 
-#### #### What are the earliest warning signs of pulmonary hypertension in older adults with COPD?
+#### What are the earliest warning signs of pulmonary hypertension in older adults with COPD?
 
 The earliest signs often include disproportionate shortness of breath compared to lung function test results, fainting or near-fainting *only* during physical activity (not when standing up), elevated jugular vein pressure when lying flat, and repeated nighttime oxygen drops below 88%—especially in the second half of sleep.
 
-#### #### Can early pulmonary hypertension copd seniors be reversed with lifestyle changes?
+#### Can early pulmonary hypertension copd seniors be reversed with lifestyle changes?
 
 Not fully reversed—but progression can often be slowed significantly. Consistent oxygen therapy (if prescribed), regular physical activity within tolerance, smoking cessation, managing sleep apnea, and avoiding high altitudes all support healthier pulmonary vascular function. Medications may be considered later if pressure rises substantially.
 
-#### #### Is blood pressure the same as pulmonary hypertension?
+#### Is blood pressure the same as pulmonary hypertension?
 
 No—they’re completely different systems. Blood pressure (measured as mm Hg in your arm) reflects systemic arterial pressure. Pulmonary hypertension refers to elevated pressure specifically in the arteries *of the lungs*, which requires specialized testing (like echo or catheterization) to assess. A normal blood pressure reading doesn’t rule out pulmonary hypertension.
 
-#### #### How common is early pulmonary hypertension copd seniors?
+#### How common is early pulmonary hypertension copd seniors?
 
 Studies estimate that 20–40% of seniors with moderate-to-severe COPD develop some degree of pulmonary hypertension—and up to half of those cases begin subtly, without right-heart symptoms. Prevalence rises with disease severity and age, particularly after 65.
 
-#### #### Does a normal echocardiogram rule out early pulmonary hypertension copd seniors?
+#### Does a normal echocardiogram rule out early pulmonary hypertension copd seniors?
 
 Not always. Standard echocardiograms can miss mild elevations in pulmonary artery pressure—especially if done during stable periods or without optimal Doppler alignment. A “borderline” or “normal” echo doesn’t eliminate concern if clinical clues add up. Follow-up with a specialist or repeat testing during exertion or sleep may be recommended.

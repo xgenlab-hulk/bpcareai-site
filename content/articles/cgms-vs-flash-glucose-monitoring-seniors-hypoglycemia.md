@@ -62,17 +62,17 @@ Choosing between CGM and flash glucose monitoring doesn’t mean picking “the 
 
 ### FAQ
 
-#### #### Is CGM better than flash glucose monitoring for seniors with nighttime lows?  
+#### Is CGM better than flash glucose monitoring for seniors with nighttime lows?  
 Yes—studies show real-time CGMs reduce time spent under 54 mg/dL and lower seizure risk in adults 75+. Alerts happen automatically, which helps when autonomic warning signs are diminished.
 
-#### #### How does cgms vs flash glucose monitoring seniors hypoglycemia impact daily life?  
+#### How does cgms vs flash glucose monitoring seniors hypoglycemia impact daily life?  
 Real-time CGMs offer proactive alerts, supporting independence and safety—especially for those living alone. Flash systems rely on self-initiated scanning, which may delay response during sleep or if mobility is limited.
 
-#### #### Can older adults tolerate CGM sensors well?  
+#### Can older adults tolerate CGM sensors well?  
 Most can—skin tolerance was similar in the 212-person study, with only mild irritation reported in 12% of CGM users. Newer sensors feature softer adhesives and thinner designs for sensitive or fragile skin.
 
-#### #### Do I still need fingerstick tests with either system?  
+#### Do I still need fingerstick tests with either system?  
 Yes—both CGMs and flash monitors may require occasional fingerstick verification, particularly if readings don’t match how you feel or before making treatment changes.
 
-#### #### Are these devices covered by Medicare for seniors?  
+#### Are these devices covered by Medicare for seniors?  
 Many Medicare Part C (Advantage) plans cover CGMs and flash systems for people with diabetes who meet clinical criteria—such as using insulin or having recurrent hypoglycemia. Coverage varies, so ask your provider or insurer for details.

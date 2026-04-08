@@ -72,17 +72,17 @@ Hosting holiday guests atrial protection isn’t about adding another checklist�
 
 ### FAQ
 
-#### #### How can hosting holiday guests atrial protection help prevent holiday heart syndrome?
+#### How can hosting holiday guests atrial protection help prevent holiday heart syndrome?
 Hosting holiday guests atrial protection focuses on reducing triggers like vocal strain, temperature fluctuations, and unbroken sympathetic activation—all of which contribute to transient atrial irritability. By incorporating microbreaks, vagal stimulation, and ambient awareness, you support stable nitric oxide bioavailability and autonomic balance, lowering the likelihood of rhythm disturbances commonly grouped under “holiday heart syndrome.”
 
-#### #### What are the best ways to protect my atria while hosting holiday guests?
+#### What are the best ways to protect my atria while hosting holiday guests?
 The most effective, evidence-backed approaches include scheduling regular 90-second vagal breathing sessions, minimizing vocal cord strain with strategic pauses and softer speech, maintaining steady indoor temperatures (68–72°F), staying hydrated with warm, non-caffeinated beverages, and alternating seated and standing positions during activity. These actions collectively support atrial resilience without requiring lifestyle overhaul.
 
-#### #### Does hosting holiday guests atrial protection apply to people without diagnosed heart disease?
+#### Does hosting holiday guests atrial protection apply to people without diagnosed heart disease?
 Yes—absolutely. Even adults with no known cardiac conditions experience age-related declines in vagal tone and nitric oxide signaling. Social hosting creates predictable, modifiable stressors that affect autonomic balance across the board. Proactive, gentle strategies benefit everyone—and often reveal early opportunities to strengthen long-term cardiovascular health.
 
-#### #### Can stress from hosting really affect my heart rhythm?
+#### Can stress from hosting really affect my heart rhythm?
 Yes. Acute psychosocial stress—especially when combined with physical demands like standing, talking, or temperature shifts—can increase circulating norepinephrine and reduce heart rate variability. In susceptible individuals (particularly those over 70), this may manifest as brief episodes of premature atrial contractions (PACs) or transient atrial fibrillation. Fortunately, these are often preventable with simple, timed interventions.
 
-#### #### Are there foods or drinks I should avoid while hosting to support my atria?
+#### Are there foods or drinks I should avoid while hosting to support my atria?
 While moderation is key, consider limiting very salty snacks (which may raise BP acutely), large servings of caffeine late in the day (it can delay vagal recovery), and alcohol in excess of one standard drink—especially on days with high hosting demands. Warm herbal teas (like chamomile or ginger), potassium-rich fruits (bananas, oranges), and small portions of unsalted nuts support electrolyte balance and endothelial function.

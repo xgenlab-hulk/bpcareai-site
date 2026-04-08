@@ -45,17 +45,17 @@ In short, enjoying salad at family gatherings doesn’t require sacrifice—it j
 
 ### FAQ  
 
-#### #### Are croutons really a problem for insulin resistance?  
+#### Are croutons really a problem for insulin resistance?  
 Yes—especially store-bought varieties made from refined flour and added sugars. A typical ¼-cup serving contains ~15 g of rapidly absorbed carbs, which can elevate postprandial glucose by 30–50 mg/dL in women over 60. Try nut-based crunch alternatives instead.
 
-#### #### What are the top healthy salad sugar traps insulin resistance experts warn about?  
+#### What are the top healthy salad sugar traps insulin resistance experts warn about?  
 The top three are: sweet dressings (honey, maple, or agave-based), dried fruit (even “no-sugar-added” versions retain natural sugars), and roasted starchy vegetables like beets or sweet potatoes—especially when combined.
 
-#### #### Can I still enjoy salad at family gatherings if I have insulin resistance?  
+#### Can I still enjoy salad at family gatherings if I have insulin resistance?  
 Absolutely. Focus on abundant leafy greens, lean protein, healthy fats, and vinegar-based dressings. Bring your own vinaigrette or a small container of toasted seeds to customize your plate confidently.
 
-#### #### Does insulin resistance affect blood pressure?  
+#### Does insulin resistance affect blood pressure?  
 Yes—chronic hyperinsulinemia is associated with increased sympathetic nervous system activity and sodium retention, contributing to arterial pressure elevation. Managing insulin resistance often supports healthier BP trends over time.
 
-#### #### How often should I check my glucose after eating salad?  
+#### How often should I check my glucose after eating salad?  
 For pattern tracking, aim for once or twice weekly—measuring at fasting, then again 90 minutes post-meal. Consistency matters more than frequency: same time of day, similar activity level, and recording what you ate helps identify true triggers.

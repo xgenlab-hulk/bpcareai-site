@@ -66,17 +66,17 @@ Holiday heart syndrome in women navigating menopause isn’t a sign of weakness 
 
 ### FAQ  
 
-#### #### What is women holiday heart syndrome menopause—and is it serious?  
+#### What is women holiday heart syndrome menopause—and is it serious?  
 It refers to alcohol-triggered arrhythmias (like AFib) that occur more readily in postmenopausal women due to estrogen-related vascular and electrical changes. While often temporary, it warrants attention—especially if recurrent—as it can signal underlying microvascular or inflammatory shifts.
 
-#### #### Can women holiday heart syndrome menopause happen with just one drink?  
+#### Can women holiday heart syndrome menopause happen with just one drink?  
 Yes. Due to reduced estrogen’s protective effects on microvessels and autonomic balance, some women over 67 develop palpitations or AFib after even modest alcohol exposure—particularly during high-stress, high-inflammation holiday periods.
 
-#### #### How is women holiday heart syndrome different in women vs. men?  
+#### How is women holiday heart syndrome different in women vs. men?  
 Women tend to develop it at lower alcohol doses, often later in life (peaking after age 65), and are more likely to have concurrent microvascular dysfunction or autoimmune-inflammatory markers—unlike younger men, whose cases are often linked to binge patterns.
 
-#### #### Does quitting alcohol reverse holiday heart syndrome risk?  
+#### Does quitting alcohol reverse holiday heart syndrome risk?  
 Not necessarily—but reducing intake significantly lowers recurrence. Estrogen decline is lifelong, so long-term rhythm stability depends more on holistic support: sleep, movement, anti-inflammatory nutrition, and vascular health—not just alcohol avoidance.
 
-#### #### Are beta-blockers or magnesium helpful for prevention?  
+#### Are beta-blockers or magnesium helpful for prevention?  
 They may be—*if recommended by your doctor*. Magnesium glycinate (200–400 mg/day) shows promise for rhythm support in postmenopausal women, and certain beta-blockers improve microvascular function. Never start or stop medications without guidance.

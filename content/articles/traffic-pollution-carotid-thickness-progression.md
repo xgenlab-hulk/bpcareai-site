@@ -90,17 +90,17 @@ Small changes—like adjusting window habits, choosing greener walking routes, o
 
 ### FAQ
 
-#### #### Does traffic pollution carotid thickness progression happen even with normal blood pressure?
+#### Does traffic pollution carotid thickness progression happen even with normal blood pressure?
 Yes—it’s been observed in adults with *both* controlled hypertension *and* normotensive individuals living near high-traffic areas. However, progression tends to be more pronounced when baseline vascular stress (e.g., from BP, age, or metabolic factors) is present—even if numbers fall within clinical “normal” ranges.
 
-#### #### How does traffic pollution carotid thickness progression compare to other risk factors like smoking or diabetes?
+#### How does traffic pollution carotid thickness progression compare to other risk factors like smoking or diabetes?
 In longitudinal models, long-term exposure to PM2.5 >12 µg/m³ is associated with IMT progression comparable to having untreated mild hypertension (e.g., SBP ~145 mm Hg) or prediabetes (HbA1c 5.7–6.4%). It’s not “worse” than smoking—but it’s a pervasive, involuntary exposure that compounds existing risks.
 
-#### #### Can air purifiers really slow traffic pollution carotid thickness progression?
+#### Can air purifiers really slow traffic pollution carotid thickness progression?
 While no device eliminates outdoor exposure entirely, consistent use of HEPA filtration indoors has been linked in cohort studies to ~30% slower annual IMT increase over 3 years—likely due to reduced cumulative oxidative load during rest and sleep, when repair processes are most active.
 
-#### #### Is carotid IMT testing covered by Medicare or private insurance?
+#### Is carotid IMT testing covered by Medicare or private insurance?
 Medicare Part B covers carotid ultrasound *if ordered for diagnostic evaluation* (e.g., after a transient ischemic attack or abnormal neck bruit). For *asymptomatic screening*, coverage varies—some Medicare Advantage plans include it as a preventive benefit. Always verify with your insurer and discuss medical necessity with your provider.
 
-#### #### What’s the difference between IMT and a carotid Doppler?
+#### What’s the difference between IMT and a carotid Doppler?
 IMT measures structural thickness (in millimeters) using B-mode imaging. A carotid Doppler assesses blood *flow velocity* and detects plaques or stenosis—often done together, but they answer different questions. IMT is about early, subclinical change; Doppler focuses more on hemodynamic obstruction.

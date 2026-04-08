@@ -47,17 +47,17 @@ In summary, whether you choose resistance bands or Nordic walking, you’re choo
 
 ### FAQ
 
-#### #### Is resistance band vs nordic walking stroke volume improvement real—or just theoretical?
+#### Is resistance band vs nordic walking stroke volume improvement real—or just theoretical?
 Yes—it’s measurable and clinically meaningful. Studies using portable impedance cardiography confirm both modalities increase stroke volume index by 7–12% in adults 73+ with preserved ejection fraction after 12 weeks of consistent practice.
 
-#### #### Which is safer for someone with a history of falls: resistance band or Nordic walking?
+#### Which is safer for someone with a history of falls: resistance band or Nordic walking?
 Resistance band routines (especially seated or chair-supported) carry the lowest fall risk. Nordic walking also reduces fall risk compared to regular walking—thanks to enhanced stability from poles—but requires proper instruction and surface awareness. For very frail individuals, starting with bands is often recommended.
 
-#### #### Can resistance band vs nordic walking stroke volume gains help lower blood pressure too?
+#### Can resistance band vs nordic walking stroke volume gains help lower blood pressure too?
 Indirectly, yes. Improved stroke volume supports more efficient cardiac output, which can reduce compensatory sympathetic activation and arterial stiffness over time—contributing to modest reductions in systolic BP (average 4–6 mm Hg) in longer-term adherence.
 
-#### #### Do I need special equipment for either option?
+#### Do I need special equipment for either option?
 For resistance bands: just one or two latex-free, loop-style bands (light/medium resistance). For Nordic walking: adjustable, ergonomic poles designed specifically for walking—not trekking or ski poles. Both are affordable and widely available.
 
-#### #### How soon might I notice changes in energy or stamina?
+#### How soon might I notice changes in energy or stamina?
 Many participants report subtle improvements—like easier stair climbing or less post-meal fatigue—within 3–4 weeks. Objective stroke volume changes typically appear after 6–8 weeks of consistent practice.

@@ -70,22 +70,22 @@ In summary, autonomic tone stabilization during holiday travel is achievable—n
 
 ### FAQ
 
-#### #### What are the best natural ways to support autonomic tone stabilization during holiday travel for someone with Parkinson’s?
+#### What are the best natural ways to support autonomic tone stabilization during holiday travel for someone with Parkinson’s?
 
 The most effective natural approaches include timed thermal cues (e.g., brief carotid cooling pre-transit), diaphragmatic breathing at 5 cycles/minute to entrain respiratory sinus arrhythmia, and strict circadian alignment of caffeine (single low-dose intake before 9:30 a.m.). These strategies work synergistically to improve baroreflex sensitivity and HRV—key markers of autonomic tone stabilization during holiday travel.
 
-#### #### Can autonomic tone stabilization during holiday travel reduce risk of holiday heart syndrome?
+#### Can autonomic tone stabilization during holiday travel reduce risk of holiday heart syndrome?
 
 Yes—particularly in adults with underlying cardiac dysautonomia. “Holiday heart syndrome” typically refers to acute atrial fibrillation or tachyarrhythmias triggered by alcohol, sleep loss, or stress-induced sympathetic surges. By dampening excessive sympathetic reactivity and supporting nocturnal BP dipping, autonomic tone stabilization during holiday travel helps maintain stable cardiac electrophysiology and reduces arrhythmia vulnerability—even without changes in diet or alcohol intake.
 
-#### #### How does Parkinson’s disease affect heart rate variability during travel?
+#### How does Parkinson’s disease affect heart rate variability during travel?
 
 Parkinson’s accelerates age-related decline in heart rate variability (HRV), especially in the high-frequency (HF) band reflecting vagal tone. Travel-related stressors—like disrupted sleep, dehydration, and sensory overload—further suppress HF-HRV and amplify low-frequency (LF) power, indicating sympathetic dominance. Studies show HRV indices (e.g., SDNN) in affected adults can drop 25–40% during multi-day travel unless countermeasures (e.g., RSA breathing, thermal priming) are applied.
 
-#### #### Is orthostatic hypotension the only cardiac concern for people with Parkinson’s during holidays?
+#### Is orthostatic hypotension the only cardiac concern for people with Parkinson’s during holidays?
 
 No. While orthostatic hypotension is common, *paradoxical hypertension*—often occurring postprandially or during emotional stimulation—is equally relevant. Up to 38% of older adults with Parkinson’s exhibit labile BP patterns, including nocturnal hypertension (BP >120/70 mm Hg during sleep) and exaggerated pressor responses to laughter or surprise. These fluctuations reflect impaired autonomic integration—not just “low BP.”
 
-#### #### What time of day is safest for flying with Parkinson’s-associated dysautonomia?
+#### What time of day is safest for flying with Parkinson’s-associated dysautonomia?
 
 Morning flights (departing between 8–11 a.m.) align best with natural circadian peaks in cortisol and vagal tone—supporting better BP regulation and reduced fatigue. Avoid red-eye or late-afternoon departures, which coincide with circadian troughs in autonomic resilience and higher risk of orthostatic symptoms during deplaning and baggage claim.

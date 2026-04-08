@@ -98,17 +98,17 @@ Understanding the link between nocturnal polyuria, endothelin-1, and microvascul
 
 ### FAQ
 
-#### #### What is nocturnal polyuria endothelin-1 microvascular damage—and why does it matter for people with diabetes?
+#### What is nocturnal polyuria endothelin-1 microvascular damage—and why does it matter for people with diabetes?
 Nocturnal polyuria endothelin-1 microvascular damage describes a cascade where excessive nighttime urine production leads to relative dehydration, triggering elevated endothelin-1 levels that constrict and inflame tiny blood vessels—particularly in the retina and kidneys. For people with diabetes, this process accelerates even with well-controlled blood sugar and normal BP, because insulin resistance amplifies ET-1 signaling and impairs protective nitric oxide responses.
 
-#### #### Can nocturnal polyuria endothelin-1 microvascular damage occur even if my blood pressure is normal?
+#### Can nocturnal polyuria endothelin-1 microvascular damage occur even if my blood pressure is normal?
 Yes—absolutely. Studies confirm that endothelial dysfunction and microvascular injury can progress independently of systolic or diastolic pressure. In fact, up to 42% of adults over 65 with normotensive BP and diabetic retinopathy show elevated plasma ET-1 and reduced retinal perfusion on imaging—indicating *nocturnal polyuria endothelin-1 microvascular damage* is underway without hypertension as a warning sign.
 
-#### #### Does drinking more water at night help reduce nocturnal polyuria endothelin-1 microvascular damage?
+#### Does drinking more water at night help reduce nocturnal polyuria endothelin-1 microvascular damage?
 No—counterintuitively, increasing fluid intake close to bedtime often worsens nocturnal polyuria and may further elevate ET-1. Research shows that *timing* matters far more than *total volume*. Evening fluid redistribution—shifting intake earlier and limiting intake after 6 p.m.—reduces nocturnal urine output by ~30% and lowers ET-1 more effectively than simply increasing overall hydration.
 
-#### #### Are there medications that lower endothelin-1 in older adults with retinopathy?
+#### Are there medications that lower endothelin-1 in older adults with retinopathy?
 Currently, no FDA-approved ET-1 inhibitors are indicated for microvascular protection in diabetes or aging. Bosentan and macitentan are used for pulmonary arterial hypertension but carry risks (e.g., liver enzyme elevation, anemia) that outweigh benefits in normotensive older adults. Lifestyle strategies—especially circadian hydration—remain the safest, best-evidenced approach.
 
-#### #### How is nocturnal polyuria different from nocturia?
+#### How is nocturnal polyuria different from nocturia?
 Nocturia is the *symptom*: waking up to urinate. Nocturnal polyuria is the *underlying mechanism*: producing too much urine at night. Up to 80% of nocturia in adults over 60 is due to nocturnal polyuria—not prostate enlargement or overactive bladder. Distinguishing the cause is essential, because treatment differs: reducing evening fluid intake helps nocturnal polyuria, but not necessarily other causes.

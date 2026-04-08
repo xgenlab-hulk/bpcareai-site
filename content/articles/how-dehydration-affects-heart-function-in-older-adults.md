@@ -84,22 +84,22 @@ Hydration is one of the simplest, kindest things you can do for your heart—and
 
 ### FAQ
 
-#### #### Can dehydration cause chest pain in seniors?
+#### Can dehydration cause chest pain in seniors?
 
 Sometimes—yes. Severe dehydration can lead to low blood volume and increased heart rate, which may trigger chest discomfort, especially in people with coronary artery disease. However, chest pain should *never* be assumed to be “just dehydration.” Always seek prompt medical evaluation to rule out cardiac causes.
 
-#### #### How does dehydration affect heart function in seniors with high blood pressure?
+#### How does dehydration affect heart function in seniors with high blood pressure?
 
 Dehydration can cause blood pressure to fluctuate—sometimes rising due to compensatory vessel constriction, sometimes dropping if volume loss is significant. For seniors on antihypertensive meds, this unpredictability can make BP management trickier. Consistent hydration helps stabilize readings and supports medication effectiveness.
 
-#### #### Does dehydration worsen heart failure symptoms?
+#### Does dehydration worsen heart failure symptoms?
 
 Yes—it can. In heart failure, the body already struggles to circulate blood efficiently. Dehydration reduces circulating volume, prompting the heart to work harder and potentially triggering symptoms like shortness of breath or fatigue. Conversely, *over*-hydration is also risky, so balance is key—your care team can help define your ideal fluid range.
 
-#### #### Can drinking more water lower my blood pressure?
+#### Can drinking more water lower my blood pressure?
 
 Not directly—but staying well-hydrated helps your cardiovascular system function more smoothly. Chronic mild dehydration may contribute to higher baseline BP readings over time. For most people, proper hydration supports stable arterial pressure rather than acting as a “cure” for hypertension.
 
-#### #### Is coconut water a good option for seniors concerned about dehydration and heart function?
+#### Is coconut water a good option for seniors concerned about dehydration and heart function?
 
 Coconut water contains potassium and natural electrolytes, which can aid rehydration—but it’s also relatively high in potassium. If you have kidney disease or take medications like ACE inhibitors or potassium-sparing diuretics, check with your doctor first. For many healthy seniors, small amounts (4–6 oz) occasionally are safe and refreshing.

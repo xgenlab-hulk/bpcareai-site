@@ -2,7 +2,7 @@
 title: 5 Safe Stretching Exercises for Stiff Joints After 65
 slug: safe-stretching-exercises-stiff-joints-after-65
 description: >-
-  Safe stretching exercises for stiff joints after 65 can boost range of motion
+  Safe stretching exercises for stiff joints after 65 can boost range of motion by 22% in 8 weeks (JAGS, 2022) — gentle, evidence-backed moves to ease stiffness.
   by 22% in 8 weeks (JAGS, 2022) — gentle, evidence-backed moves to ease
   stiffness
 date: '2026-04-02'

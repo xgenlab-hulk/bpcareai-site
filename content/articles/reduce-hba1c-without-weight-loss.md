@@ -79,22 +79,22 @@ Your body is resilient—even after the holidays. Small, intentional shifts in h
 
 ### FAQ
 
-#### #### Can I really reduce HbA1c without weight loss—and is it safe for someone my age?
+#### Can I really reduce HbA1c without weight loss—and is it safe for someone my age?
 
 Yes—especially with targeted strategies like timed movement and fiber sequencing. Clinical modeling shows adults 60–71 can lower predicted HbA1c by 0.25–0.35% in just three days using non-restrictive methods. Safety is prioritized: all components are low-risk, require no fasting, and align with geriatric guidelines.
 
-#### #### How soon will I see results from a 3-day HbA1c reset?
+#### How soon will I see results from a 3-day HbA1c reset?
 
 HbA1c reflects average glucose over ~120 days, so a single 3-day reset won’t change your lab value immediately. However, consistent application (e.g., repeating the protocol weekly or integrating its principles daily) supports measurable HbA1c reduction over 8–12 weeks—without weight loss. Early wins include improved energy, steadier post-meal energy, and fewer afternoon slumps.
 
-#### #### What’s the best way to reduce HbA1c without weight loss if I’m already eating well?
+#### What’s the best way to reduce HbA1c without weight loss if I’m already eating well?
 
 Even nutritious meals can cause spikes if timing and sequence aren’t optimized. Prioritizing soluble fiber *first*, adding brief resistance *after* meals, and protecting your evening circadian rhythm often yield more benefit than further dietary restriction—especially for adults over 60.
 
-#### #### Does the 3-day reset work if I’m on diabetes medication?
+#### Does the 3-day reset work if I’m on diabetes medication?
 
 Yes—this protocol complements common medications like metformin, GLP-1 receptor agonists, and SGLT2 inhibitors. Because it focuses on physiology rather than pharmacology, it enhances medication effectiveness. Always discuss timing adjustments with your prescriber—especially if you take insulin or sulfonylureas.
 
-#### #### Is holiday diabetes management only about food?
+#### Is holiday diabetes management only about food?
 
 Not at all. Holiday diabetes management includes sleep hygiene, light exposure, mental pacing, and movement timing—all of which influence insulin sensitivity and glucose disposal. That’s why the 3-day reset includes blue-light reduction and micro-bouts: they address overlooked, yet powerful, levers for metabolic health.

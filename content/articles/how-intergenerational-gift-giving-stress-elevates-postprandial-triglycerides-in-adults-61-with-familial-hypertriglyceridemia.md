@@ -60,17 +60,17 @@ Holiday traditions are meaningful—and they don’t have to come at the cost of
 
 ### FAQ  
 
-#### #### Does stress really raise triglycerides in older adults—or is it just diet?  
+#### Does stress really raise triglycerides in older adults—or is it just diet?  
 Yes—stress independently elevates triglycerides in seniors, especially those with familial hypertriglyceridemia. Cortisol inhibits lipoprotein lipase, delaying fat clearance. Studies show stress-induced TG spikes occur even when diet is held constant.  
 
-#### #### How does gift-giving stress triglycerides seniors differently than everyday stress?  
+#### How does gift-giving stress triglycerides seniors differently than everyday stress?  
 Gift-giving stress often involves layered emotional demands—obligation, comparison, financial concern, and performance anxiety—all converging during meals. This multi-domain stress produces longer, higher cortisol pulses than routine stressors, amplifying LPL suppression and prolonging postprandial hypertriglyceridemia.  
 
-#### #### What foods should seniors with high triglycerides avoid during holiday gift exchanges?  
+#### What foods should seniors with high triglycerides avoid during holiday gift exchanges?  
 Avoid concentrated fructose sources (e.g., sweetened cranberry sauce, fruitcake, sugary drinks) and refined carbs served alone (e.g., dinner rolls without protein/fiber). These trigger rapid chylomicron production—especially risky when paired with gift-giving stress triglycerides seniors face.  
 
-#### #### Can deep breathing lower triglycerides—or is that too good to be true?  
+#### Can deep breathing lower triglycerides—or is that too good to be true?  
 It’s evidence-based. Controlled breathing reduces sympathetic nervous system activation, lowering cortisol and preserving LPL function. In a 2023 RCT, 3 minutes of 4-7-8 breathing before meals reduced 2-hour postprandial TG by 39% in adults 61+.  
 
-#### #### Is healthy holiday eating for seniors only about food—or does timing matter too?  
+#### Is healthy holiday eating for seniors only about food—or does timing matter too?  
 Timing matters significantly. Eating protein and fiber *first*, spacing dessert, and pausing for breathwork all influence hormonal and enzymatic responses. Healthy holiday eating for seniors integrates physiology, psychology, and practical habit—not just ingredient choices.

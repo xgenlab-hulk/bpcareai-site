@@ -92,15 +92,15 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What does chest tightness in cold weather mean for seniors?
+#### What does chest tightness in cold weather mean for seniors?
 
 Chest tightness in cold weather often reflects increased strain on the heart due to vasoconstriction and higher blood pressure. For seniors—especially those over 60—it may signal early coronary artery disease, hypertension, or reduced heart reserve. It’s rarely *just* the cold, and warrants discussion with a clinician, particularly if it’s new or changing.
 
-#### #### Is chest tightness winter cold a sign of heart disease?
+#### Is chest tightness winter cold a sign of heart disease?
 
 Not always—but it *can be*. Chest tightness winter cold is a red flag when it’s persistent, triggered by minimal activity, or accompanied by other symptoms like shortness of breath or fatigue. Studies suggest up to 30% of older adults with stable angina report worse symptoms during cold months—so yes, it’s a recognized clinical pattern worth investigating.
 
-#### #### How can I tell if chest tightness in winter is serious?
+#### How can I tell if chest tightness in winter is serious?
 
 Ask yourself three questions:  
 1. Does it go away within 2–3 minutes of resting and warming up?  
@@ -108,10 +108,10 @@ Ask yourself three questions:
 3. Are there other symptoms (sweating, nausea, jaw/arm discomfort)?  
 If the answer to #1 is “no,” or either #2 or #3 is “yes,” it’s time to contact your doctor or seek urgent care.
 
-#### #### Can cold weather raise blood pressure in older adults?
+#### Can cold weather raise blood pressure in older adults?
 
 Yes—consistently. Research shows average systolic BP rises by 5–20 mm Hg during cold months in adults over 50. Arterial stiffness increases with age, making blood vessels less responsive to temperature shifts. That’s why home BP monitoring is especially valuable in winter.
 
-#### #### What should I avoid doing in cold weather if I have heart concerns?
+#### What should I avoid doing in cold weather if I have heart concerns?
 
 Avoid sudden exertion (like heavy shoveling), going outdoors on very cold, windy days without proper layers, consuming large meals or alcohol before cold exposure (both affect circulation), and skipping prescribed heart medications—even if you feel fine. Also, avoid saunas or hot tubs immediately before or after cold exposure—the rapid shift in temperature stresses the cardiovascular system.

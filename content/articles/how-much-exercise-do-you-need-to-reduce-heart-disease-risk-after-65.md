@@ -63,22 +63,22 @@ The goal isn’t perfection—it’s gentle, steady progress. Every walk, every 
 
 ### FAQ
 
-#### #### How much exercise to prevent heart disease after 65 is really needed?
+#### How much exercise to prevent heart disease after 65 is really needed?
 
 Studies consistently support **150 minutes per week** of moderate-intensity activity (like brisk walking) as the optimal target. However, even **75 minutes weekly** offers measurable protection—and any movement is better than none.
 
-#### #### Can light exercise really help with heart disease prevention after 65?
+#### Can light exercise really help with heart disease prevention after 65?
 
 Yes. Light activities such as gardening, slow dancing, or mall walking improve circulation, reduce inflammation, and support healthy BP. A 2022 *British Journal of Sports Medicine* review confirmed that light-intensity movement lowers heart disease risk by up to 12% when done regularly.
 
-#### #### What’s the best exercise to prevent heart disease after 65 for someone with high blood pressure?
+#### What’s the best exercise to prevent heart disease after 65 for someone with high blood pressure?
 
 Brisk walking, swimming, and cycling at a comfortable pace are especially beneficial—they strengthen the heart without spiking BP. Avoid heavy static lifting or breath-holding (like in intense weight training), which can temporarily raise arterial pressure.
 
-#### #### Does walking count as enough exercise to prevent heart disease after 65?
+#### Does walking count as enough exercise to prevent heart disease after 65?
 
 Absolutely. Walking is among the most studied and effective forms of aerobic activity for older adults. At a pace where you feel slightly warm and mildly out of breath, 30 minutes five days a week meets current guidelines—and delivers real cardiovascular benefits.
 
-#### #### I’m over 65 and haven’t exercised in years. Is it safe to start now?
+#### I’m over 65 and haven’t exercised in years. Is it safe to start now?
 
 Yes—with appropriate guidance. Most adults over 65 can safely begin low-intensity activity immediately. Talk with your doctor first if you have known heart disease, severe hypertension, or recent hospitalization—but gentle movement is almost always encouraged as part of recovery and prevention.

@@ -77,22 +77,22 @@ If you’re in your late 50s or early 60s, you’re not too young for heart awar
 
 ### FAQ
 
-#### #### What are the most common hidden heart disease risks age 55-64?
+#### What are the most common hidden heart disease risks age 55-64?
 
 The most common *hidden heart disease risks age 55-64* include undiagnosed sleep apnea, chronic job-related stress (especially with low control/high demand), age-related muscle loss (sarcopenia), insulin resistance that hasn’t yet reached diabetes thresholds, and persistent “borderline” blood pressure (130–139/80–89 mm Hg). These often go unnoticed because they lack obvious symptoms and aren’t routinely screened for in standard physicals.
 
-#### #### Can hidden heart disease risks age 55-64 be reversed?
+#### Can hidden heart disease risks age 55-64 be reversed?
 
 Yes—many *hidden heart disease risks age 55-64* are modifiable. Studies show improvements in sleep apnea (with lifestyle changes or CPAP), reductions in arterial stiffness (with aerobic + resistance exercise), and better endothelial function (with stress reduction and improved sleep) can occur within 3–6 months. Reversal depends on duration and severity, but progress is nearly always possible.
 
-#### #### Why does heart disease seem to “come out of nowhere” in people 55–64?
+#### Why does heart disease seem to “come out of nowhere” in people 55–64?
 
 It rarely does—it’s usually the result of decades of cumulative, low-grade stressors: repeated blood pressure spikes, intermittent hypoxia from poor sleep, chronic inflammation from excess visceral fat or sedentary habits, and hormonal shifts affecting vascular tone. Because these changes happen gradually—and often asymptomatically—they’re missed until a tipping point, like a mild arrhythmia or elevated troponin after flu-like illness.
 
-#### #### Is high cholesterol the biggest concern for heart disease at this age?
+#### Is high cholesterol the biggest concern for heart disease at this age?
 
 Not necessarily. While LDL cholesterol matters, research shows that in adults 55–64, *non-traditional markers*—like elevated hs-CRP (inflammation), elevated triglycerides/HDL ratio (>3.5), or elevated lipoprotein(a) [Lp(a)]—often predict risk more strongly than total cholesterol alone. Many people with “normal” cholesterol develop heart disease due to these overlooked contributors.
 
-#### #### What’s the best blood pressure range for someone 55–64?
+#### What’s the best blood pressure range for someone 55–64?
 
 Current guidelines (ACC/AHA 2017) recommend aiming for <130/80 mm Hg for most adults 55–64—especially if you have other risk factors like prediabetes, kidney disease, or a family history of early heart disease. However, targets should be individualized: very fit, active adults may thrive at slightly lower numbers, while those with orthostatic dizziness may benefit from a gentler approach. Always discuss goals with your clinician.

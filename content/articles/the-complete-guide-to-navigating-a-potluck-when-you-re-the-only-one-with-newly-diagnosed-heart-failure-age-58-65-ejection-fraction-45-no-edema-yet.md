@@ -45,17 +45,17 @@ It’s okay to protect your health without apologizing for it. You’re not “t
 
 ### FAQ
 
-#### #### How do I explain heart failure to friends without sounding alarming?
+#### How do I explain heart failure to friends without sounding alarming?
 Keep it simple and hopeful: *“My heart’s working a little less efficiently than before—kind of like a car needing a tune-up. My doctor and I are focusing on lifestyle, meds, and monitoring, and I’m feeling great so far.”* Avoid medical jargon unless asked.
 
-#### #### What’s a realistic sodium limit for someone in my situation (age 60, EF 45%, no edema)?
+#### What’s a realistic sodium limit for someone in my situation (age 60, EF 45%, no edema)?
 Most guidelines recommend ≤2,000 mg/day for mild heart failure. For context: one slice of store-bought bread can have 150–250 mg; a cup of canned soup, 800+ mg. Focus on whole foods and cooking at home when possible.
 
-#### #### Can I still enjoy desserts at a potluck heart failure newly diagnosed guide scenario?
+#### Can I still enjoy desserts at a potluck heart failure newly diagnosed guide scenario?
 Yes—choose naturally lower-sodium options like fresh fruit with plain Greek yogurt, or bring your own baked apples with cinnamon. Skip items with whipped cream, caramel, or pre-made crusts (often high in sodium and saturated fat).
 
-#### #### Is alcohol completely off-limits with heart failure?
+#### Is alcohol completely off-limits with heart failure?
 Not always—but it depends on your meds and overall status. Many people with HFmrEF are advised to limit to ≤1 drink (5 oz wine / 12 oz beer) *occasionally*, if approved by their cardiologist. Alcohol can worsen arrhythmias and interact with medications like digoxin or anticoagulants.
 
-#### #### How soon after diagnosis should I start adjusting for social events like potlucks?
+#### How soon after diagnosis should I start adjusting for social events like potlucks?
 Right away—but gently. Even subtle changes (like choosing lower-sodium options or bringing one trusted dish) in the first 4–6 weeks support better long-term outcomes and build confidence in your new routine. This **potluck heart failure newly diagnosed guide** is designed to meet you exactly where you are.

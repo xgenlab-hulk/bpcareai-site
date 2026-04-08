@@ -106,22 +106,22 @@ It’s easy to dismiss subtle changes as “just part of aging”—but many of 
 
 ### FAQ
 
-#### #### What are the most common heart strain signs during summer heat seniors should watch for?
+#### What are the most common heart strain signs during summer heat seniors should watch for?
 
 The most commonly overlooked signs include unexplained afternoon confusion, increased nighttime urination (nocturia), delayed capillary refill (>3 seconds), new lightheadedness when standing, and mild ankle swelling that appears only on hot days. These often occur even when routine blood pressure and pulse readings appear normal.
 
-#### #### Can heart strain signs during summer heat seniors happen without high blood pressure?
+#### Can heart strain signs during summer heat seniors happen without high blood pressure?
 
 Yes—absolutely. Heat-related cardiac strain often shows up as *low-normal* or even *lower-than-usual* BP due to vasodilation and volume shifts, especially in older adults. What matters more is how your body adapts across the day—not just a single number.
 
-#### #### Are heart strain signs during summer heat seniors different from typical heart disease symptoms?
+#### Are heart strain signs during summer heat seniors different from typical heart disease symptoms?
 
 Yes. Classic heart disease symptoms—like chest pressure, sudden shortness of breath, or radiating arm pain—are often absent. Instead, *heart strain signs during summer heat seniors* tend to be “upstream” or systemic: mental fog, sleep disruption, subtle swelling, or fatigue. They reflect how hard your heart is working to meet thermoregulatory demands—not necessarily structural damage.
 
-#### #### Why does heat make my heart work harder—even if I’m not exercising?
+#### Why does heat make my heart work harder—even if I’m not exercising?
 
 Heat triggers skin blood vessel dilation to release heat, demanding up to 20% more cardiac output. At the same time, mild dehydration reduces circulating volume, and age-related changes in heart muscle relaxation (diastolic function) limit how efficiently your heart fills and pumps. The result? Increased workload without obvious symptoms.
 
-#### #### Is nocturia really linked to heart health in summer?
+#### Is nocturia really linked to heart health in summer?
 
 Yes—particularly in seniors. Warmer temperatures cause daytime fluid retention, and as body temperature drops overnight, kidneys increase filtration. If your heart isn’t pumping efficiently, this fluid redistribution becomes more pronounced, leading to frequent nighttime urination. It’s a recognized early sign of heart failure in clinical guidelines—and often one of the first to improve with better heat management.

@@ -46,22 +46,22 @@ A daily 10-minute post-dinner walk is a safe, accessible, and evidence-supported
 
 ### FAQ
 
-#### #### Does post-dinner walking fasting glucose seniors benefit everyone over 60?
+#### Does post-dinner walking fasting glucose seniors benefit everyone over 60?
 
 Not universally—but it’s most effective for those with confirmed morning-only hyperglycemia (fasting glucose >126 mg/dL, with normal postprandial readings <140 mg/dL). Benefits are modest (average 8–12 mg/dL reduction) and require consistency over 4–6 weeks.
 
-#### #### How soon after dinner should seniors walk to lower fasting glucose?
+#### How soon after dinner should seniors walk to lower fasting glucose?
 
 Optimal timing is 25–40 minutes after finishing the meal—late enough for initial digestion, early enough to coincide with peak postprandial glucose elevation (typically 60–90 minutes post-meal).
 
-#### #### Can I wear slippers instead of going barefoot for post-dinner walking fasting glucose seniors?
+#### Can I wear slippers instead of going barefoot for post-dinner walking fasting glucose seniors?
 
 Slippers with thin, flexible soles *may* preserve some plantar feedback, but thick cushioning or rigid soles blunt mechanoreceptor input. For best results per current evidence, barefoot on medium-pile carpet is preferred.
 
-#### #### Is post-dinner walking helpful for blood pressure too?
+#### Is post-dinner walking helpful for blood pressure too?
 
 Yes—moderate evening walking is associated with modest nocturnal BP dipping (≈3–5 mm Hg systolic reduction), which supports cardiovascular health. However, it does not replace prescribed antihypertensive therapy.
 
-#### #### What if I miss a day of post-dinner walking?
+#### What if I miss a day of post-dinner walking?
 
 Don’t worry—consistency matters more than perfection. Even 5 days/week yields ~80% of the observed benefit. Just resume the next evening without doubling up.

@@ -67,22 +67,22 @@ Living well with PVCs in your 60s doesn’t mean giving up rituals you enjoy—i
 
 ### FAQ
 
-#### #### Does green tea cause PVCs in older men?
+#### Does green tea cause PVCs in older men?
 
 Not typically—and in fact, moderate green tea intake (2–4 cups/day) is generally associated with *lower* PVC frequency in men 57–68, thanks to its catechin content supporting vascular health and autonomic balance. However, very strong brews (especially matcha consumed on an empty stomach) may cause jitteriness or transient tachycardia in sensitive individuals. If you notice palpitations within 30 minutes of drinking green tea, try diluting it or having it with food.
 
-#### #### Is decaf black tea safe for men with PVCs in their 60s?
+#### Is decaf black tea safe for men with PVCs in their 60s?
 
 Decaf black tea removes most caffeine—but not theophylline or tannins, both of which can influence cardiac conduction. For men with frequent or symptomatic PVCs, especially in the afternoon QT-vulnerable window (2–5 p.m.), even decaf black tea may be worth limiting or replacing with non-stimulating herbal options—particularly if your Holter shows PVC clustering around that time.
 
-#### #### What’s the best tea for heart disease prevention in men over 60?
+#### What’s the best tea for heart disease prevention in men over 60?
 
 Evidence supports green tea most consistently for cardiovascular protection in aging adults: population studies link habitual green tea consumption (≥3 cups/day) with ~15% lower risk of major adverse cardiac events over 10 years. Its combination of antioxidants, anti-inflammatory catechins, and mild BP-lowering effects makes it a heart-smart choice—especially when enjoyed in the morning, aligned with natural cortisol rhythms.
 
-#### #### Can tea timing affect QT interval in men with PVCs?
+#### Can tea timing affect QT interval in men with PVCs?
 
 Yes—absolutely. The QT interval naturally lengthens during two circadian windows: early morning (6–9 a.m.) and mid-to-late afternoon (2–5 p.m.). Since QT prolongation increases susceptibility to ventricular ectopy, consuming stimulant-containing beverages like black tea during the 3 p.m. window may compound this vulnerability—even if decaffeinated—due to residual theophylline and autonomic shifts.
 
-#### #### How does green tea vs black tea impact blood pressure in men with PVCs?
+#### How does green tea vs black tea impact blood pressure in men with PVCs?
 
 Both teas can support healthy BP when consumed moderately—green tea via endothelial relaxation (average reduction: ~2–3 mm Hg systolic over 12 weeks), black tea via flavonoid-mediated vasodilation. But black tea’s stronger theophylline effect may cause transient BP spikes in some men, potentially increasing afterload and indirectly raising PVC burden. For men managing both hypertension and PVCs, green tea tends to offer gentler, more predictable cardiovascular support.

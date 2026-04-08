@@ -97,23 +97,23 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What are the most common hidden heart disease risk factors women over 65 should watch for?
+#### What are the most common hidden heart disease risk factors women over 65 should watch for?
 
 The top overlooked risks include migraine with aura (especially if it started before menopause), autoimmune thyroid disease (like Hashimoto’s), microvascular angina (causing fatigue or breathlessness without chest pain), chronic low-grade inflammation (measured via hs-CRP), and orthostatic hypotension — all of which may not appear on standard cardiac screens but significantly impact long-term heart health.
 
-#### #### Are hidden heart disease risk factors women over 65 different from those in younger women?
+#### Are hidden heart disease risk factors women over 65 different from those in younger women?
 
 Yes — and critically so. While younger women may face risks tied to pregnancy complications or PCOS, women over 65 face cumulative effects: arterial stiffening, declining estrogen’s protective role, higher prevalence of autoimmune conditions, and overlapping symptoms (fatigue, insomnia, brain fog) that mask cardiovascular origins. Migraine with aura, for instance, becomes *more* predictive of stroke risk with age — not less.
 
-#### #### Can migraines really increase heart disease risk in women over 65?
+#### Can migraines really increase heart disease risk in women over 65?
 
 Absolutely — especially migraines *with aura*. Research shows women over 65 with aura have a 2.4-fold higher risk of ischemic stroke and a 1.7-fold higher risk of coronary events compared to peers without aura. This isn’t just correlation: aura reflects underlying endothelial dysfunction and hypercoagulability — both key drivers of heart disease.
 
-#### #### What blood tests go beyond standard cholesterol to uncover hidden heart disease risk?
+#### What blood tests go beyond standard cholesterol to uncover hidden heart disease risk?
 
 Beyond lipid panels, consider asking about: high-sensitivity C-reactive protein (hs-CRP), homocysteine, fibrinogen, thyroid antibodies (anti-TPO), and vitamin D. In select cases, lipoprotein(a) [Lp(a)] — a genetically influenced, pro-atherogenic particle — is also valuable, since elevated levels (>50 mg/dL) double heart disease risk independently of other markers.
 
-#### #### How often should women over 65 get heart-specific screening if they have migraines or thyroid issues?
+#### How often should women over 65 get heart-specific screening if they have migraines or thyroid issues?
 
 There’s no universal schedule — but if you have migraine with aura *and* any additional risk (hypertension, autoimmune thyroid disease, family history), aim for:  
 - Annual BP and pulse checks *in both arms and standing position*  

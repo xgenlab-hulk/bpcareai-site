@@ -65,17 +65,17 @@ You don’t need to skip celebrations — just shift your awareness. Understandi
 
 ### FAQ
 
-#### #### Does alcohol timing atrial fibrillation holiday risk apply to people who only drink occasionally?
+#### Does alcohol timing atrial fibrillation holiday risk apply to people who only drink occasionally?
 Yes — even occasional drinkers with underlying risk factors (like high-normal BP or mild left atrial enlargement) can experience arrhythmia triggers from late-night alcohol. The risk isn’t dose-dependent alone; it’s strongly modulated by circadian and digestive timing.
 
-#### #### How does alcohol timing affect atrial fibrillation compared to caffeine or stress during holidays?
+#### How does alcohol timing affect atrial fibrillation compared to caffeine or stress during holidays?
 Alcohol uniquely suppresses potassium channels and prolongs atrial refractory periods *while* blunting vagal tone — effects amplified at night. Caffeine and stress raise heart rate and BP, but don’t carry the same direct electrophysiological impact on atrial tissue. Still, combining all three increases *alcohol timing atrial fibrillation holiday risk* significantly.
 
-#### #### Can I use my smartwatch to detect if alcohol timing is affecting my heart rhythm?
+#### Can I use my smartwatch to detect if alcohol timing is affecting my heart rhythm?
 Yes — many FDA-cleared wearables can identify irregular rhythms consistent with AF. But they’re most accurate when worn continuously and interpreted alongside symptoms. A single irregular reading doesn’t equal AF — but recurring alerts, especially within 2 hours of drinking, merit discussion with your provider.
 
-#### #### Is there a safe amount of alcohol for someone with occult AF during the holidays?
+#### Is there a safe amount of alcohol for someone with occult AF during the holidays?
 There’s no universal “safe” threshold — but evidence suggests limiting to ≤1 standard drink *before 8 p.m.* and avoiding alcohol entirely on days with poor sleep or high sodium intake reduces arrhythmia triggers. Individualized guidance from your cardiologist is ideal.
 
-#### #### What’s the link between holiday heart syndrome prevention and blood pressure management?
+#### What’s the link between holiday heart syndrome prevention and blood pressure management?
 Holiday heart syndrome isn’t just about rhythm — it’s rooted in hemodynamic stress. Managing BP (keeping it <130/80 mm Hg) helps maintain atrial compliance and reduces stretch-induced electrical instability. That’s why consistent BP tracking supports *alcohol timing atrial fibrillation holiday risk* awareness and prevention.

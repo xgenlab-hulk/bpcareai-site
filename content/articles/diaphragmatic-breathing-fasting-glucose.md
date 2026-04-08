@@ -84,22 +84,22 @@ What’s encouraging is that this approach meets you where you are—no drastic 
 
 ### FAQ
 
-#### #### Does diaphragmatic breathing fasting glucose really work for people over 60?
+#### Does diaphragmatic breathing fasting glucose really work for people over 60?
 
 Yes—clinical trials specifically in adults aged 59–69 show meaningful improvements in both fasting glucose and insulin sensitivity after just four weeks of daily 8-minute practice. Effects were strongest in those with elevated stress biomarkers like salivary alpha-amylase.
 
-#### #### How does diaphragmatic breathing fasting glucose compare to walking or other exercise?
+#### How does diaphragmatic breathing fasting glucose compare to walking or other exercise?
 
 Unlike aerobic activity—which lowers glucose primarily through muscle uptake—diaphragmatic breathing works upstream by calming the stress response and reducing *liver-driven* glucose output. It complements movement but targets a different pathway, making it especially helpful for overnight and fasting highs.
 
-#### #### Can I use diaphragmatic breathing fasting glucose techniques if I have high blood pressure?
+#### Can I use diaphragmatic breathing fasting glucose techniques if I have high blood pressure?
 
 Absolutely—and it may help both. Slow breathing activates the vagus nerve, which supports healthy arterial pressure regulation. Many participants in the trial also saw modest reductions in systolic BP (average drop of 5–7 mm Hg).
 
-#### #### Do I need a special app or device to practice correctly?
+#### Do I need a special app or device to practice correctly?
 
 No. All you need is a quiet space and a timer. Some find guided audio helpful at first, but consistency matters far more than perfection. Focus on gentle belly expansion—not forceful inhales.
 
-#### #### Is this only for people with diagnosed diabetes?
+#### Is this only for people with diagnosed diabetes?
 
 No. This approach is especially valuable for those with *stress-induced hyperglycemia*—elevated fasting glucose without full-blown diabetes. It’s a proactive, low-risk way to support metabolic resilience as we age.

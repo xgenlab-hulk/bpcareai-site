@@ -54,22 +54,22 @@ Heart health isn’t about perfection—it’s about awareness, consistency, and
 
 ### FAQ
 
-#### #### What are the most common women heart attack symptoms after menopause?
+#### What are the most common women heart attack symptoms after menopause?
 
 The most common include unexplained fatigue, shortness of breath, jaw or back discomfort, nausea, cold sweats, and lightheadedness—often without classic chest pain.
 
-#### #### Why do women heart attack symptoms after menopause differ from those before menopause?
+#### Why do women heart attack symptoms after menopause differ from those before menopause?
 
 Lower estrogen levels reduce vascular protection, increase arterial stiffness, and raise the likelihood of microvascular disease—leading to less obvious, more diffuse symptoms.
 
-#### #### Can high blood pressure cause women heart attack symptoms after menopause?
+#### Can high blood pressure cause women heart attack symptoms after menopause?
 
 High blood pressure itself doesn’t cause heart attack symptoms—but it’s a major, controllable risk factor. Untreated hypertension accelerates artery damage and increases the chance of a heart event, especially in postmenopausal women.
 
-#### #### Is jaw pain a sign of a heart attack in women after menopause?
+#### Is jaw pain a sign of a heart attack in women after menopause?
 
 Yes—jaw, neck, or upper back discomfort (especially if new, unexplained, and accompanied by other symptoms like sweating or fatigue) can be an important sign of cardiac distress in women.
 
-#### #### How soon after menopause does heart disease risk increase?
+#### How soon after menopause does heart disease risk increase?
 
 Risk begins rising in the perimenopausal years, but jumps notably within the first 5–10 years after menopause—making this a critical window for prevention and proactive screening.

@@ -63,17 +63,17 @@ Seasonal shifts are part of life—but they don’t have to mean suffering. Reco
 
 ### FAQ
 
-#### #### What are the earliest signs of seasonal depression in older women—before sadness appears?
+#### What are the earliest signs of seasonal depression in older women—before sadness appears?
 The earliest signs often involve subtle shifts in daily rhythm: delayed wake times, reduced light exposure (even indoors), fewer spontaneous social interactions, and earlier evening meals—typically appearing 4–6 weeks before mood changes.
 
-#### #### Are early signs seasonal depression women over 65 different from younger adults?
+#### Are early signs seasonal depression women over 65 different from younger adults?
 Yes. Older women more commonly show circadian drift (e.g., later melatonin onset) and light-avoidance behaviors—not just low mood. Younger adults often report hypersomnia or carbohydrate cravings first; women over 65 are more likely to experience social rhythm thinning and afternoon fatigue.
 
-#### #### Can high blood pressure be linked to seasonal depression in older adults?
+#### Can high blood pressure be linked to seasonal depression in older adults?
 Indirectly, yes. Circadian disruption affects autonomic nervous system balance and cortisol rhythms—both tied to blood pressure variability. Studies show BP fluctuations increase by ~12% in older adults during peak seasonal depression months, especially when sleep-wake cycles are irregular.
 
-#### #### Is seasonal depression in older adults treatable?
+#### Is seasonal depression in older adults treatable?
 Absolutely. Light therapy (with medical guidance), structured social scheduling, and timed physical activity show strong efficacy in geriatric populations—with fewer side effects than medication-first approaches.
 
-#### #### Do vitamin D levels explain early signs seasonal depression women over 65?
+#### Do vitamin D levels explain early signs seasonal depression women over 65?
 Vitamin D deficiency is common in this group—and contributes to fatigue and low mood—but it doesn’t fully account for circadian or behavioral red flags like light-avoidance or social rhythm thinning. Those are more strongly tied to neural light-processing changes than serum D alone.

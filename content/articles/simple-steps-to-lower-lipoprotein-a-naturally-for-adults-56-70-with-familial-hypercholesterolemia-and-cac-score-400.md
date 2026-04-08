@@ -53,22 +53,22 @@ Heart health at this stage isn’t about perfection — it’s about thoughtful,
 
 ### FAQ
 
-#### #### Can lifestyle changes really lower lipoprotein(a) naturally in familial hypercholesterolemia?
+#### Can lifestyle changes really lower lipoprotein(a) naturally in familial hypercholesterolemia?
 
 While diet and exercise don’t significantly reduce Lp(a) levels (due to strong genetic control), certain natural strategies — like targeted niacin dosing, berberine, and red yeast rice — have demonstrated modest but clinically relevant Lp(a) modulation in adults with FH, especially when combined with optimal LDL-lowering therapy.
 
-#### #### What’s the safest way to lower lipoprotein a naturally familial hypercholesterolemia without prescription drugs?
+#### What’s the safest way to lower lipoprotein a naturally familial hypercholesterolemia without prescription drugs?
 
 There is no universally “safe” natural method that replaces medical therapy — but under supervision, extended-release niacin (bedtime dosing), berberine (500 mg TID), and certified red yeast rice (10 mg monacolin K/day) have the strongest safety and efficacy data in FH populations. Always rule out contraindications (e.g., liver enzyme elevations) first.
 
-#### #### Does lowering lipoprotein a naturally familial hypercholesterolemia reduce heart disease risk?
+#### Does lowering lipoprotein a naturally familial hypercholesterolemia reduce heart disease risk?
 
 Yes — observational and mechanistic data strongly suggest that lowering Lp(a) reduces cardiovascular events, independent of LDL. In FH patients with high CAC scores, even 20% Lp(a) reduction correlates with ~15% lower 5-year risk of MI or stroke in modeling studies.
 
-#### #### Is LDL apheresis worth considering for high Lp(a) and CAC >400?
+#### Is LDL apheresis worth considering for high Lp(a) and CAC >400?
 
 For adults 56–70 with FH, Lp(a) >250 nmol/L, and CAC >400 — especially with documented progression or recurrent events — LDL apheresis is both guideline-supported and often covered by insurers. It’s among the most effective current tools for rapid Lp(a) reduction.
 
-#### #### How often should I test lipoprotein(a) if I have familial hypercholesterolemia?
+#### How often should I test lipoprotein(a) if I have familial hypercholesterolemia?
 
 Once is usually enough — unless you begin a modulating therapy (e.g., niacin or upcoming antisense drugs). Retesting 3–6 months after starting treatment helps assess response. Routine annual checks aren’t needed unless clinical circumstances change.

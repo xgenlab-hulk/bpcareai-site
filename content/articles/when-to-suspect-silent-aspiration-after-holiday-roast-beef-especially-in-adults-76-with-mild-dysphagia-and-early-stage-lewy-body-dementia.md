@@ -56,19 +56,19 @@ Self-monitoring tips include using a simple log: note time of meal, food consist
 
 ### FAQ
 
-#### #### Can silent aspiration holiday meals lewy body dementia happen even if my loved one eats well most days?
+#### Can silent aspiration holiday meals lewy body dementia happen even if my loved one eats well most days?
 Yes. Silent aspiration is often episodic and triggered by factors like fatigue, dehydration, or meal complexity—so someone may eat safely for weeks then aspirate during a busy holiday meal. Consistency doesn’t rule out risk.
 
-#### #### What are early warning signs of silent aspiration holiday meals in older adults with dementia?
+#### What are early warning signs of silent aspiration holiday meals in older adults with dementia?
 Look beyond coughing: subtle voice changes after swallowing, brief pauses in breathing, increased throat clearing *after* the meal (not during), or sudden decline in alertness 30–60 minutes post-meal.
 
-#### #### How does Lewy body dementia specifically increase risk for silent aspiration during holiday meals?
+#### How does Lewy body dementia specifically increase risk for silent aspiration during holiday meals?
 LBD impairs automatic brainstem functions—including the reflexive “airway off-switch” during swallowing. This means the larynx may not close fully or fast enough, especially when distracted or tired—common during holiday meals.
 
-#### #### Is thickened liquid always safer for someone with Lewy body dementia?
+#### Is thickened liquid always safer for someone with Lewy body dementia?
 Not necessarily. Some individuals aspirate *more* with nectar-thick liquids due to delayed oral transit. A speech-language pathologist should guide texture recommendations—never assume thicker is universally better.
 
-#### #### Can blood pressure fluctuations affect swallowing safety during holiday meals?
+#### Can blood pressure fluctuations affect swallowing safety during holiday meals?
 Yes. Orthostatic hypotension (a BP drop ≥20 mm Hg systolic upon standing) is present in ~65% of LBD patients and reduces cerebral perfusion to swallowing centers. Eating while seated and checking BP before meals helps mitigate this.
 
 If you're unsure, talking to your doctor is always a good idea. Recognizing *silent aspiration holiday meals lewy body dementia* early empowers families to protect joy—not just health—during the holidays.

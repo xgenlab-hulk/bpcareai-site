@@ -38,17 +38,17 @@ In short, enjoying the holidays doesn’t mean avoiding festive drinks—it mean
 
 ### FAQ
 
-#### #### Are non-alcoholic drinks really safe for people with high blood pressure during the holidays?  
+#### Are non-alcoholic drinks really safe for people with high blood pressure during the holidays?  
 Yes—*some* are, but not all. Safety depends on ingredients, not just the absence of alcohol. Drinks high in sugar, sodium, caffeine, or certain artificial sweeteners can raise BP or reduce HRV, especially in adults 68+. Prioritize simple, unsweetened options and monitor your response.
 
-#### #### Can non-alcoholic drinks holiday heart risk affect someone who doesn’t drink alcohol at all?  
+#### Can non-alcoholic drinks holiday heart risk affect someone who doesn’t drink alcohol at all?  
 Absolutely. The *non-alcoholic drinks holiday heart risk* stems from physiological responses to ingredients—not alcohol metabolism. Older adults with hypertension may be more sensitive to blood sugar fluctuations, sympathetic stimulation, or sodium load—even from beverages labeled “healthy” or “natural.”
 
-#### #### What’s the safest non-alcoholic holiday drink for seniors with stage 2 hypertension?  
+#### What’s the safest non-alcoholic holiday drink for seniors with stage 2 hypertension?  
 The safest choices are low-sugar, low-sodium, caffeine-free, and free of artificial sweeteners—such as plain sparkling water with lemon or lime, unsweetened hibiscus or chamomile tea, or warm water infused with cinnamon and orange zest. Always check labels—even “kombucha” and “ginger beer” can contain surprising amounts of sugar or sodium.
 
-#### #### Do sugar-free sodas count as non-alcoholic drinks holiday heart risk?  
+#### Do sugar-free sodas count as non-alcoholic drinks holiday heart risk?  
 They can—especially for older adults with hypertension. Some sugar-free sodas contain both caffeine and artificial sweeteners, which together may promote mild sympathetic activation and transient BP elevation. Studies suggest effects vary by individual, so personal monitoring is wise.
 
-#### #### Is “holiday heart syndrome” only caused by alcohol?  
+#### Is “holiday heart syndrome” only caused by alcohol?  
 No. While alcohol is a well-known trigger for arrhythmias and BP surges—especially in binge settings—the broader concept of “holiday heart syndrome” now includes diet-driven stressors: high-sodium meals, sugary desserts, disrupted sleep, and yes—even certain non-alcoholic drinks. Prevention means addressing all contributors, not just alcohol.

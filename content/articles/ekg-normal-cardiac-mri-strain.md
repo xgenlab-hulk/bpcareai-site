@@ -77,22 +77,22 @@ It’s completely normal to wonder, “Is this just aging—or something more?�
 
 ### FAQ
 
-#### #### Does a normal EKG rule out heart disease in adults over 60?
+#### Does a normal EKG rule out heart disease in adults over 60?
 
 No—it rules out many *electrical* abnormalities (like arrhythmias or prior heart attacks), but not early *mechanical* or *tissue-level* changes. Up to 30% of adults over 60 with normal EKGs and preserved ejection fraction show abnormal global longitudinal strain on MRI, indicating subtle contractile changes that may benefit from proactive support.
 
-#### #### What does "ekg normal cardiac mri strain" actually mean?
+#### What does "ekg normal cardiac mri strain" actually mean?
 
 It refers to situations where the EKG appears normal—but cardiac MRI with strain analysis reveals early signs of altered heart muscle function, such as reduced global longitudinal strain, abnormal twist mechanics, or elevated extracellular volume. These findings help guide personalized care *before* symptoms progress.
 
-#### #### Can cardiac MRI strain detect heart disease even if echo and EKG are normal?
+#### Can cardiac MRI strain detect heart disease even if echo and EKG are normal?
 
 Yes. Echo and EKG assess structure and rhythm; MRI strain evaluates *how* the heart muscle deforms and recovers with each beat. Research shows MRI strain can identify dysfunction in people with “normal” echo results—particularly in those with hypertension, diabetes, or unexplained palpitations aged 56–68.
 
-#### #### Is cardiac MRI strain safe and accessible for older adults?
+#### Is cardiac MRI strain safe and accessible for older adults?
 
 Yes—MRI is non-invasive, radiation-free, and generally well-tolerated. While availability varies, many academic and larger community centers now offer strain-capable protocols. Your doctor can help determine if it's appropriate based on your symptoms and overall health.
 
-#### #### Do I need cardiac MRI strain if my doctor says my heart is fine?
+#### Do I need cardiac MRI strain if my doctor says my heart is fine?
 
 Not necessarily—but it may be helpful if your symptoms (like persistent palpitations or fatigue) don’t fully align with your test results. It’s not about doubting your doctor—it’s about adding another layer of understanding. Many patients describe it as “finally getting answers that match how I feel.”

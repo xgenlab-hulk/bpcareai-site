@@ -38,17 +38,17 @@ In closing, enjoying the holidays doesn’t mean giving up warmth, flavor, or tr
 
 ### FAQ
 
-#### #### Does decaf chai really affect restless legs in older adults?  
+#### Does decaf chai really affect restless legs in older adults?  
 Yes—especially if you’re iron-deficient. Even “decaf” chai often contains 2–12 mg of residual caffeine, plus spices and tannins that may influence iron transport proteins and dopamine pathways. For seniors with low ferritin (<50 ng/mL), this subtle effect can be enough to worsen RLS.
 
-#### #### How does holiday caffeine restless legs impact seniors differently than younger adults?  
+#### How does holiday caffeine restless legs impact seniors differently than younger adults?  
 Older adults metabolize caffeine 2–3 times slower due to reduced liver enzyme activity (CYP1A2). Combined with age-related declines in iron stores and dopamine receptor sensitivity, even modest caffeine exposure can significantly increase RLS severity and nocturnal myoclonus frequency.
 
-#### #### Can eggnog worsen restless legs syndrome during the holidays?  
+#### Can eggnog worsen restless legs syndrome during the holidays?  
 It depends on the recipe and your individual physiology. Traditional eggnog contains dairy (which may hinder non-heme iron absorption) and sometimes added nutmeg or alcohol—both of which can affect nervous system excitability. Low-iron seniors may notice more pronounced RLS symptoms after consuming large portions late in the day.
 
-#### #### What’s the safest warm holiday drink for seniors with RLS?  
+#### What’s the safest warm holiday drink for seniors with RLS?  
 Warm turmeric-ginger tea (without black tea base), roasted dandelion root “coffee,” or a small cup of herbal peppermint or chamomile tea before 4 p.m. are excellent options—they’re naturally caffeine-free, anti-inflammatory, and don’t interfere with iron metabolism.
 
-#### #### Is there a link between holiday caffeine restless legs seniors and high blood pressure?  
+#### Is there a link between holiday caffeine restless legs seniors and high blood pressure?  
 Not directly—but both RLS and hypertension share underlying contributors like iron deficiency, oxidative stress, and sympathetic nervous system activation. Managing one (e.g., reducing late-day caffeine) often supports healthier BP regulation too.

@@ -71,17 +71,17 @@ Seasonal depression in older adults is real, treatable, and far more common than
 
 ### FAQ
 
-#### #### What are the key differences between seasonal depression vs winter sadness?
+#### What are the key differences between seasonal depression vs winter sadness?
 Seasonal depression vs winter sadness hinges on duration, severity, and impact. Winter sadness is usually mild, short-lived (a few days), and improves with rest or small lifestyle boosts. Seasonal depression in older adults involves symptoms lasting two weeks or longer, occurring predictably each year, and causing noticeable disruption in daily life—such as withdrawing from loved ones, neglecting meals, or struggling with basic tasks.
 
-#### #### Can seasonal depression vs winter sadness affect physical health in older adults?
+#### Can seasonal depression vs winter sadness affect physical health in older adults?
 Yes. Untreated seasonal depression in older adults is associated with elevated cortisol levels, increased systemic inflammation, and poorer adherence to chronic disease management—including blood pressure control. Studies report a 15–20% higher risk of uncontrolled hypertension among older adults with untreated SAD, likely due to disrupted sleep, reduced physical activity, and altered autonomic nervous system function.
 
-#### #### How common is seasonal depression in older adults—and is it often mistaken for normal aging?
+#### How common is seasonal depression in older adults—and is it often mistaken for normal aging?
 Approximately 10–15% of adults aged 60+ experience clinically relevant seasonal mood changes, though fewer than 30% receive a formal diagnosis. It’s frequently misattributed to “just slowing down with age” or confused with early dementia, grief, or medical illness—underscoring why careful assessment and family observation are essential.
 
-#### #### What role does vitamin D play in seasonal depression vs winter sadness?
+#### What role does vitamin D play in seasonal depression vs winter sadness?
 Vitamin D receptors exist throughout the brain—including areas regulating mood—and low levels correlate with higher rates of depressive symptoms. Up to 40% of older adults have insufficient vitamin D (<30 ng/mL) in winter. While supplementation alone isn’t a cure for SAD, correcting deficiency (under medical supervision) is a foundational step—especially when combined with light exposure and behavioral strategies.
 
-#### #### Is light therapy safe and effective for older adults with seasonal depression in older adults?
+#### Is light therapy safe and effective for older adults with seasonal depression in older adults?
 Yes—light therapy is generally safe and well-tolerated in older adults when used correctly. Research shows significant symptom reduction within 2–4 weeks for many users. Important considerations include choosing a UV-free device, using it in the morning (to avoid disrupting melatonin), and consulting a doctor first if you have eye conditions (e.g., glaucoma, retinal disease) or take photosensitizing medications (e.g., certain antibiotics or diuretics).

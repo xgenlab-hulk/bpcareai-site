@@ -62,22 +62,22 @@ The holidays aren’t about restriction—they’re about connection, warmth, an
 
 ### FAQ
 
-#### #### What are the best low-glycemic holiday side dishes for someone with type 2 diabetes?
+#### What are the best low-glycemic holiday side dishes for someone with type 2 diabetes?
 
 Great question! Top picks include roasted Brussels sprouts with balsamic glaze (GI ~15), lentil-walnut stuffing (GI ~30), and baked acorn squash with sage and a touch of maple (GI ~50). All are naturally high in fiber and low in added sugars.
 
-#### #### Can low-glycemic holiday side dishes help with blood pressure management?
+#### Can low-glycemic holiday side dishes help with blood pressure management?
 
 Yes—indirectly but meaningfully. Stable blood sugar supports healthier blood vessel function and reduces inflammation, both linked to better long-term BP control. Pairing low-glycemic sides with potassium-rich foods (like spinach or tomatoes) adds further cardiovascular support.
 
-#### #### Where can I find easy low-glycemic holiday side dishes recipes online?
+#### Where can I find easy low-glycemic holiday side dishes recipes online?
 
 Look for trusted sources like the American Diabetes Association, Academy of Nutrition and Dietetics, or registered dietitian blogs that list GI values or highlight fiber, whole grains, and minimal processing. Always check ingredient lists—even “healthy-sounding” packaged sides can contain hidden sugars.
 
-#### #### Do holiday desserts have to be off-limits for people watching their blood sugar?
+#### Do holiday desserts have to be off-limits for people watching their blood sugar?
 
 Not at all! Try mini chia seed pudding cups sweetened with a little monk fruit, or baked apples stuffed with oats, cinnamon, and chopped almonds. Portion control + fiber + healthy fat = slower, gentler glucose rise.
 
-#### #### How do low-glycemic holiday side dishes compare to regular versions in terms of taste and texture?
+#### How do low-glycemic holiday side dishes compare to regular versions in terms of taste and texture?
 
 Most people find them richer and more satisfying—not less! Roasting brings out natural sweetness, herbs add depth, and nut-based thickeners (like almond flour in stuffing) lend wonderful texture. It’s less about “substituting” and more about upgrading.

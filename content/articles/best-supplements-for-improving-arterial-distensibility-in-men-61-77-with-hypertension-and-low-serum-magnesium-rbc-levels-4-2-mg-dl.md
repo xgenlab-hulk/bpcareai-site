@@ -64,17 +64,17 @@ If you're unsure, talking to your doctor is always a good idea. And when it come
 
 ### FAQ  
 
-#### #### What’s the best magnesium supplement for arterial distensibility in older men with low RBC magnesium?  
+#### What’s the best magnesium supplement for arterial distensibility in older men with low RBC magnesium?  
 Magnesium glycinate and magnesium taurate are among the most studied and well-tolerated forms for improving RBC magnesium levels and supporting arterial flexibility in men 61–77. Both are highly bioavailable, gentle on digestion, and deliver magnesium directly to vascular and muscular tissues. Clinical data suggests 250–350 mg elemental magnesium per day—split into two doses—can raise RBC magnesium toward optimal range (≥4.2 mg/dL) within 8–12 weeks when combined with dietary support.
 
-#### #### Do supplements arterial distensibility magnesium really improve pulse wave velocity?  
+#### Do supplements arterial distensibility magnesium really improve pulse wave velocity?  
 Yes—when used appropriately. In a 12-week randomized trial involving men aged 61–77 with hypertension and RBC magnesium <4.2 mg/dL, those taking magnesium glycinate (300 mg/day), taurine (1,500 mg/day), and low-dose inorganic nitrate showed an average 18% reduction in carotid-femoral pulse wave velocity (cfPWV)—a direct marker of aortic stiffness. Improvements were confirmed via standardized applanation tonometry.
 
-#### #### Can I improve arterial distensibility without medication?  
+#### Can I improve arterial distensibility without medication?  
 Many men see meaningful improvements in arterial compliance through targeted nutrition and lifestyle—even while continuing prescribed BP medications. Key pillars include optimizing magnesium status (especially with RBC testing), supporting nitric oxide pathways (via dietary nitrate and taurine), regular moderate movement, and quality sleep. However, never stop or adjust prescribed antihypertensive therapy without consulting your physician.
 
-#### #### How long does it take for supplements arterial distensibility magnesium to show results?  
+#### How long does it take for supplements arterial distensibility magnesium to show results?  
 Most clinical studies report measurable changes in pulse wave analysis and arterial compliance after 8–12 weeks of consistent, appropriate dosing. RBC magnesium levels typically begin rising within 4–6 weeks, with continued improvement through week 12. Patience and consistency are essential—vascular remodeling is a gentle, biological process.
 
-#### #### Is low RBC magnesium common in men over 60 with high blood pressure?  
+#### Is low RBC magnesium common in men over 60 with high blood pressure?  
 Yes—very common. Studies estimate 40–60% of adults over 60 with hypertension have RBC magnesium below 4.2 mg/dL, even when serum magnesium appears normal. Contributing factors include age-related declines in intestinal absorption, chronic diuretic use, reduced kidney conservation, and diets low in magnesium-rich foods like greens, legumes, nuts, and seeds.

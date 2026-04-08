@@ -60,22 +60,22 @@ In short, glycemic buffering isn’t fixed—it’s trainable. Small, consistent
 
 ### FAQ
 
-#### #### Does plate-sharing insulin resistance glycemic buffering affect blood pressure?
+#### Does plate-sharing insulin resistance glycemic buffering affect blood pressure?
 
 Yes—chronic postprandial hyperglycemia contributes to endothelial dysfunction and sympathetic nervous system activation, both linked to elevated systolic BP (e.g., +5–8 mm Hg over 6 months). Managing glycemic buffering supports healthier arterial pressure regulation.
 
-#### #### What foods improve plate-sharing insulin resistance glycemic buffering naturally?
+#### What foods improve plate-sharing insulin resistance glycemic buffering naturally?
 
 Foods high in resistant starch (cooked-and-cooled potatoes, green bananas, legumes), soluble fiber (oats, chia, okra), and polyphenols (berries, cinnamon, green tea) enhance buffering. Prioritize whole-food sources over supplements.
 
-#### #### How is plate-sharing insulin resistance glycemic buffering different from regular insulin resistance?
+#### How is plate-sharing insulin resistance glycemic buffering different from regular insulin resistance?
 
 It’s not a distinct diagnosis—but rather a *context-specific driver* of insulin resistance. Unlike sedentary or obesity-driven insulin resistance, this form emerges from repeated, low-dose carbohydrate exposures during social eating—a behavioral-metabolic loop that’s highly modifiable.
 
-#### #### Can children’s portions really impact adult metabolism?
+#### Can children’s portions really impact adult metabolism?
 
 Yes—because portion size isn’t the sole factor. Frequency, timing, and food matrix matter. A child’s “small” serving of white rice (20 g carb) eaten five times during a 90-minute gathering delivers the same carb load as a full adult portion—and does so without the satiety signals that accompany mindful eating.
 
-#### #### Is there a link between plate-sharing insulin resistance glycemic buffering and cardiovascular risk?
+#### Is there a link between plate-sharing insulin resistance glycemic buffering and cardiovascular risk?
 
 Indirectly, yes. Impaired glycemic buffering correlates with higher postprandial triglycerides, oxidized LDL, and inflammatory markers like IL-6—all contributors to atherosclerosis. Early intervention lowers 10-year CVD risk by an estimated 12–18%.

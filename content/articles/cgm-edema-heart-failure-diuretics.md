@@ -86,22 +86,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can edema from heart failure really cause my CGM to read low?
+#### Can edema from heart failure really cause my CGM to read low?
 
 Yes. Subcutaneous edema dilutes interstitial glucose and slows diffusion to the sensor, commonly causing CGM readings to run 15–40 mg/dL lower than simultaneous blood glucose tests—especially during active diuresis or volume overload.
 
-#### #### How long does CGM inaccuracy last with cgm edema heart failure diuretics?
+#### How long does CGM inaccuracy last with cgm edema heart failure diuretics?
 
 Typically 24–72 hours after a meaningful diuretic dose change or weight loss of ≥2 kg (4.4 lbs). Accuracy improves as interstitial fluid normalizes—usually aligning closely with fingerstick values once swelling resolves and weight stabilizes.
 
-#### #### Is cgm edema heart failure diuretics more common in older adults?
+#### Is cgm edema heart failure diuretics more common in older adults?
 
 Yes—especially in adults 70+. Age-related declines in skin elasticity, capillary density, and albumin synthesis increase susceptibility to interstitial fluid shifts. Combined with polypharmacy and frequent diuretic use, this makes cgm edema heart failure diuretics a frequent, though under-discussed, consideration in geriatric diabetes care.
 
-#### #### Should I stop using my CGM if I have heart failure?
+#### Should I stop using my CGM if I have heart failure?
 
 No. CGMs remain valuable tools—even with edema. Their strength lies in trend detection and reducing fingersticks. With mindful calibration, strategic placement, and cross-checking during diuretic changes, you can continue using your CGM safely and effectively.
 
-#### #### Does blood pressure affect CGM accuracy?
+#### Does blood pressure affect CGM accuracy?
 
 Not directly—but high BP (especially sustained >140/90 mm Hg) can reflect worsening heart failure and increased fluid retention, which *indirectly* contributes to edema and potential CGM offset. Monitoring BP alongside weight and glucose helps give the full picture of your volume status.

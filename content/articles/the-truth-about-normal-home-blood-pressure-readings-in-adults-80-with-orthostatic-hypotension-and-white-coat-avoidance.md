@@ -88,17 +88,17 @@ If you're unsure, talking to your doctor is always a good idea—especially when
 
 ### FAQ
 
-#### #### What’s a safe blood pressure range for an 82-year-old with orthostatic hypotension?
+#### What’s a safe blood pressure range for an 82-year-old with orthostatic hypotension?
 For many adults over 80—especially those with orthostatic hypotension—guidelines suggest a *systolic target of 130–150 mm Hg* when seated, with careful attention to standing values. The goal isn’t to eliminate high numbers at all costs, but to balance cardiovascular protection with fall prevention. If standing systolic drops below 100 mm Hg or causes symptoms, treatment may need adjustment.
 
-#### #### How do I check for orthostatic hypotension at home?
+#### How do I check for orthostatic hypotension at home?
 Sit quietly for 5 minutes, then measure BP while seated. Stand up slowly, wait 1 minute, and measure again. Wait another 2 minutes and measure a third time. A drop of ≥20 mm Hg systolic or ≥10 mm Hg diastolic between seated and standing (especially at the 3-minute mark) suggests orthostatic hypotension. Repeat on different days for consistency.
 
-#### #### Are home blood pressure readings octogenarians orthostatic reliable for diagnosing low BP?
+#### Are home blood pressure readings octogenarians orthostatic reliable for diagnosing low BP?
 Yes—often *more* reliable than clinic readings, because they reflect real-world conditions and reduce white-coat effect. However, reliability depends on proper technique (correct cuff, posture, timing) and including standing measurements. Without postural checks, **home blood pressure readings octogenarians orthostatic** may miss clinically important drops entirely.
 
-#### #### Can dehydration cause orthostatic hypotension in older adults?
+#### Can dehydration cause orthostatic hypotension in older adults?
 Absolutely. Even mild dehydration—losing just 1–2% of body water—can reduce plasma volume and impair the body’s ability to maintain BP on standing. Older adults are at higher risk due to blunted thirst signals and reduced kidney concentrating ability. Aim for pale-yellow urine and consistent fluid intake throughout the day (unless restricted for heart failure or kidney disease).
 
-#### #### Does coffee raise blood pressure enough to affect home readings in seniors?
+#### Does coffee raise blood pressure enough to affect home readings in seniors?
 Short-term: yes—caffeine can elevate systolic BP by 5–15 mm Hg for up to 3 hours. For accurate **home blood pressure readings octogenarians orthostatic**, avoid caffeine for at least 30 minutes before measuring. Long-term coffee consumption, however, doesn’t appear to raise average BP in most older adults—and may even offer vascular benefits when consumed in moderation (1–3 cups/day).

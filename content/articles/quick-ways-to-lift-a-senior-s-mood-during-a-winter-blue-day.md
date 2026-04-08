@@ -66,17 +66,17 @@ Feeling weighed down during winter doesn’t mean something is fundamentally wro
 
 ### FAQ
 
-#### #### What are the best quick mood boosters for seniors that don’t require leaving the house?  
+#### What are the best quick mood boosters for seniors that don’t require leaving the house?  
 Indoor-friendly options include 10 minutes of bright-light exposure near a south-facing window, listening to a curated 15-minute playlist of nostalgic music, preparing and sipping a warm beverage mindfully (e.g., ginger tea), or doing gentle seated stretches while breathing slowly. All have demonstrated short-term improvements in mood and autonomic balance in studies involving adults 65+.
 
-#### #### Can quick mood boosters for seniors help with seasonal depression in older adults?  
+#### Can quick mood boosters for seniors help with seasonal depression in older adults?  
 Yes—when used consistently. While they’re not a substitute for clinical treatment in moderate-to-severe cases, research shows that combining light exposure, micro-movement, and social connection reduces symptom severity by up to 40% in mild-to-moderate seasonal depression among older adults. They’re most effective when started *before* symptoms peak—typically in early November.
 
-#### #### Are there quick mood boosters for seniors that also support heart health?  
+#### Are there quick mood boosters for seniors that also support heart health?  
 Absolutely. Short walks (even indoors), paced breathing (e.g., 4-second inhale, 6-second exhale), and warm tea consumption have all been linked to improved heart rate variability and modest reductions in systolic BP (averaging 3–5 mm Hg). These dual-benefit strategies align perfectly with holistic cardiovascular and emotional wellness goals.
 
-#### #### How long do quick mood boosters for seniors take to work?  
+#### How long do quick mood boosters for seniors take to work?  
 Most produce measurable physiological effects—such as lowered heart rate or increased skin temperature—within 3–5 minutes. Subjective mood improvement is typically reported within 10–20 minutes, especially when combining two modalities (e.g., walking while listening to music). Consistency matters more than duration: doing one 5-minute booster daily yields greater cumulative benefit than occasional 30-minute efforts.
 
-#### #### Is seasonal depression in older adults treatable?  
+#### Is seasonal depression in older adults treatable?  
 Yes—and highly treatable. Evidence-based approaches include light therapy, interpersonal psychotherapy adapted for older adults, and, when appropriate, antidepressant medication (with careful attention to drug interactions and metabolism changes). Early intervention significantly improves outcomes, and *quick mood boosters for seniors* serve as both first-line support and valuable adjuncts to formal care.

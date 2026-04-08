@@ -71,22 +71,22 @@ In short: You don’t need to stop PPIs abruptly—or panic about your gut. But 
 
 ### FAQ
 
-#### #### Do proton pump inhibitors cause atherosclerosis directly?
+#### Do proton pump inhibitors cause atherosclerosis directly?
 
 No—they don’t cause it outright, but long-term use (especially ≥2 years) is associated with measurable increases in early atherosclerosis markers like carotid intima-media thickness and coronary calcium scores, particularly in adults with low HDL-C. The mechanism appears tied to gut microbiome shifts and TMAO elevation—not just acid suppression.
 
-#### #### How does the pom inhibitors atherosclerosis gut microbiome link work?
+#### How does the pom inhibitors atherosclerosis gut microbiome link work?
 
 PPIs change gastric pH, altering the gut microbial landscape. This favors bacteria that produce trimethylamine (TMA) from dietary nutrients. TMA is converted in the liver to TMAO—a molecule shown to promote endothelial inflammation and cholesterol deposition in artery walls.
 
-#### #### Can stopping PPIs reverse gut-related heart risks?
+#### Can stopping PPIs reverse gut-related heart risks?
 
 Emerging evidence suggests microbiome composition and TMAO levels may improve within 3–6 months of PPI discontinuation *if supported by dietary and lifestyle changes*. However, arterial changes like CIMT or CAC tend to stabilize—not fully reverse—so early awareness matters most.
 
-#### #### Are all acid-reducing medications linked to the pom inhibitors atherosclerosis gut microbiome effect?
+#### Are all acid-reducing medications linked to the pom inhibitors atherosclerosis gut microbiome effect?
 
 So far, this association has been observed primarily with *proton pump inhibitors*, not H₂ blockers (e.g., ranitidine, famotidine) or antacids. Their mechanisms differ significantly—PPIs profoundly suppress acid for prolonged periods, while others act more transiently.
 
-#### #### Should I get tested for TMAO if I’m on long-term PPIs?
+#### Should I get tested for TMAO if I’m on long-term PPIs?
 
 Not routinely—yet. But if you’re aged 59–71, have GERD, low HDL-C, and other cardiovascular risk factors, discussing TMAO testing (alongside CIMT or CAC scoring) with a cardiologist or preventive medicine specialist may offer valuable insight into your personal gut-heart trajectory.

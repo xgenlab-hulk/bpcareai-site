@@ -56,22 +56,22 @@ Supporting mitochondrial biogenesis isn’t about dramatic overhauls—it’s ab
 
 ### FAQ
 
-#### #### Can mitochondrial biogenesis prediabetes over 63 really be improved with lifestyle alone?
+#### Can mitochondrial biogenesis prediabetes over 63 really be improved with lifestyle alone?
 
 Yes—multiple clinical trials (including the 2022 MITO-AGE study) confirm that combined resistance training, targeted nutrition, and mild cold exposure increase mitochondrial DNA copy number and PGC-1α protein levels in skeletal muscle of adults aged 65–79 with prediabetes—even without medication.
 
-#### #### What’s the safest resistance training intensity for mitochondrial biogenesis prediabetes over 63?
+#### What’s the safest resistance training intensity for mitochondrial biogenesis prediabetes over 63?
 
 The optimal threshold is moderate effort: 2 sets of 10–15 repetitions per major muscle group, performed to *perceived exertion level 14–16* on the Borg Scale (where 20 is max). This consistently activates AMPK without overstressing joints or cardiovascular demand.
 
-#### #### Does intermittent fasting help mitochondrial biogenesis in prediabetes after age 63?
+#### Does intermittent fasting help mitochondrial biogenesis in prediabetes after age 63?
 
 Evidence is mixed. While some fasting protocols (e.g., 14:10) may support autophagy, they haven’t been shown to reliably boost PGC-1α in older adults with prediabetes—and may worsen muscle protein balance if protein intake is insufficient. Prioritize protein timing (25–30 g/meal) and resistance first.
 
-#### #### How long before I notice changes from supporting mitochondrial biogenesis?
+#### How long before I notice changes from supporting mitochondrial biogenesis?
 
 Most report improved energy and reduced post-meal fatigue within 4–6 weeks. Objective markers—like a 5–10% improvement in 6-minute walk distance or more stable glucose readings—typically emerge by week 8–12 with consistent practice.
 
-#### #### Is VO₂ peak the only way to assess mitochondrial health?
+#### Is VO₂ peak the only way to assess mitochondrial health?
 
 No. While VO₂ peak is highly correlated, simpler tools include the sit-to-stand test (repetitions in 30 seconds), continuous glucose monitor (CGM) trends showing flatter postprandial curves, and even resting heart rate variability (HRV)—which reflects autonomic balance tied to mitochondrial efficiency.

@@ -66,17 +66,17 @@ Understanding your unique blood pressure rhythm—especially how morning blood p
 
 ### FAQ
 
-#### #### What is morning blood pressure surge white-coat anxiety—and is it dangerous?  
+#### What is morning blood pressure surge white-coat anxiety—and is it dangerous?  
 It’s a pattern where anxiety in medical settings masks an otherwise elevated early-morning BP rise. Yes—it’s clinically meaningful: studies link untreated morning surges to 2–3× higher stroke risk in adults over 65, independent of average BP.
 
-#### #### Can morning blood pressure surge white-coat anxiety happen even with normal clinic readings?  
+#### Can morning blood pressure surge white-coat anxiety happen even with normal clinic readings?  
 Yes—up to 40% of adults over 68 with “normal” office BP show abnormal morning surges on ABPM. White-coat anxiety creates a false sense of security if only clinic values are considered.
 
-#### #### How do I know if my morning blood pressure surge is too high?  
+#### How do I know if my morning blood pressure surge is too high?  
 A surge is considered excessive if systolic BP rises >55 mm Hg within 2 hours of waking—or if your peak morning reading exceeds 155 mm Hg. Home monitoring over 7 days provides the clearest picture.
 
-#### #### Does white-coat anxiety go away with age?  
+#### Does white-coat anxiety go away with age?  
 Not necessarily—while some adults report less clinic anxiety over time, autonomic reactivity often increases with age due to declining baroreflex sensitivity. That makes context-aware monitoring even more important.
 
-#### #### Is morning blood pressure surge white-coat anxiety linked to dementia risk?  
+#### Is morning blood pressure surge white-coat anxiety linked to dementia risk?  
 Emerging research suggests yes: repeated morning hypertensive spikes may contribute to cerebral small-vessel disease. Ongoing studies are examining whether targeted BP timing (e.g., bedtime dosing) reduces cognitive decline risk in older adults.

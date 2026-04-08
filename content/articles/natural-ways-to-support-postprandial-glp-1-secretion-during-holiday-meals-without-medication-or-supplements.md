@@ -60,17 +60,17 @@ Supporting your body’s natural GLP-1 response during the holidays isn’t abou
 
 ### FAQ
 
-#### #### Can natural glp-1 support holiday meals seniors really make a difference without medication?
+#### Can natural glp-1 support holiday meals seniors really make a difference without medication?
 Yes—especially when habits are timed intentionally. Clinical data shows measurable GLP-1 increases (15–25%) in adults 60+ using sensory triggers like bitter taste and breath-hold, independent of drugs or supplements.
 
-#### #### What’s the safest way to try natural glp-1 support holiday meals seniors if I’m on blood pressure meds?
+#### What’s the safest way to try natural glp-1 support holiday meals seniors if I’m on blood pressure meds?
 Start with just *one* habit—like the 20-second breath-hold—and monitor how you feel. Since GLP-1 enhances insulin sensitivity and may lower postprandial BP slightly, watch for lightheadedness. Always coordinate with your provider if adjusting routines while on ACE inhibitors, ARBs, or diuretics.
 
-#### #### Does chewing mustard seed affect digestion for seniors with low stomach acid?
+#### Does chewing mustard seed affect digestion for seniors with low stomach acid?
 Gentle chewing (not swallowing whole) actually supports digestive signaling without requiring strong acid. Mustard’s compounds stimulate salivary amylase and gastric-phase reflexes—making it well-tolerated even with age-related hypochlorhydria.
 
-#### #### Is cold-pressed bitter melon juice safe for seniors with kidney concerns?
+#### Is cold-pressed bitter melon juice safe for seniors with kidney concerns?
 In small amounts (½ oz), it’s generally safe—but consult your nephrologist first if you have CKD Stage 3+, as bitter melon contains modest potassium and may interact with certain diuretics.
 
-#### #### How long does it take to notice benefits from natural glp-1 support holiday meals seniors?
+#### How long does it take to notice benefits from natural glp-1 support holiday meals seniors?
 Most people report improved fullness and steadier energy within 3–5 meals. For measurable glucose impact, allow 2–3 weeks of consistent practice—especially when paired with mindful pacing and protein-first bites.

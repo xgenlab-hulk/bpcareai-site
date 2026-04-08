@@ -75,22 +75,22 @@ Travel remains deeply enriching—even for those managing cardiac rhythm concern
 
 ### FAQ
 
-#### #### What are the top warning signs of holiday travel nocturnal afib in older adults?
+#### What are the top warning signs of holiday travel nocturnal afib in older adults?
 
 Key signs include waking up with palpitations or “fluttering” in the chest, unexplained fatigue or brain fog in the morning, frequent nighttime awakenings with breathlessness, and episodes of dizziness upon standing after sleep—especially within 1–3 days of flying across time zones.
 
-#### #### Can cabin pressure really trigger nocturnal AFib during holiday travel?
+#### Can cabin pressure really trigger nocturnal AFib during holiday travel?
 
 Yes. Aircraft cabins simulate altitudes of 6,000–8,000 feet, reducing arterial oxygen saturation. This mild hypobaric hypoxia increases oxidative stress and autonomic imbalance—both linked to nocturnal AFib onset, particularly in adults 73+ with pre-existing heart or lung conditions.
 
-#### #### Is holiday travel nocturnal afib warning different from holiday heart syndrome?
+#### Is holiday travel nocturnal afib warning different from holiday heart syndrome?
 
 Yes. “Holiday heart syndrome” traditionally refers to acute, alcohol-triggered AFib after binge drinking. A *holiday travel nocturnal afib warning*, however, reflects a broader set of travel-specific triggers—including circadian disruption, hypoxia, and sleep fragmentation—often occurring without alcohol involvement.
 
-#### #### How soon after travel should I watch for nocturnal AFib symptoms?
+#### How soon after travel should I watch for nocturnal AFib symptoms?
 
 Most travel-related nocturnal AFib episodes occur in the first 1–3 nights post-arrival. Monitor closely during this window—especially if you crossed ≥3 time zones or had a flight longer than 4 hours.
 
-#### #### Does untreated sleep apnea increase holiday travel nocturnal afib risk?
+#### Does untreated sleep apnea increase holiday travel nocturnal afib risk?
 
 Significantly. Untreated OSA raises nocturnal AFib risk by 3–4× in older adults. Repetitive airway collapse causes intermittent hypoxia, surges in BP, and atrial stretch—all proven arrhythmogenic stimuli. Optimizing therapy before travel reduces this risk substantially.

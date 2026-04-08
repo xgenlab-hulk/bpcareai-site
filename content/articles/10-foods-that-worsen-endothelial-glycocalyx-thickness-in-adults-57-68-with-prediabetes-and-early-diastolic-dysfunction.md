@@ -57,22 +57,22 @@ In closing, remember that your vascular health is dynamic, responsive, and deepl
 
 ### FAQ
 
-#### #### What foods damage the endothelial glycocalyx in prediabetes?
+#### What foods damage the endothelial glycocalyx in prediabetes?
 
 Certain foods—like ultra-processed items with emulsifiers (e.g., polysorbate 80), beverages sweetened with high-fructose corn syrup, and repeatedly reheated starchy foods—have been linked in studies to increased shedding of glycocalyx components (e.g., syndecan-1) in adults with prediabetes.
 
-#### #### How does prediabetes affect endothelial glycocalyx thickness?
+#### How does prediabetes affect endothelial glycocalyx thickness?
 
 Prediabetes creates a metabolic environment—higher insulin, intermittent hyperglycemia, low-grade inflammation—that can accelerate enzymatic degradation of the glycocalyx. Research shows plasma syndecan-1 levels rise significantly in this group, correlating with early diastolic dysfunction.
 
-#### #### Are there foods endothelial glycocalyx prediabetes interactions I should know about?
+#### Are there foods endothelial glycocalyx prediabetes interactions I should know about?
 
 Yes—foods endothelial glycocalyx prediabetes interactions are an active area of study. For instance, diets high in saturated fat *plus* fructose appear to worsen glycocalyx loss more than either alone, likely via combined effects on gut permeability and oxidative stress.
 
-#### #### Can the endothelial glycocalyx repair itself?
+#### Can the endothelial glycocalyx repair itself?
 
 Yes—studies using intravital microscopy suggest measurable glycocalyx recovery begins within 2–4 weeks of dietary and lifestyle support, especially when paired with improved insulin sensitivity and reduced systemic inflammation.
 
-#### #### Does high blood pressure directly harm the glycocalyx?
+#### Does high blood pressure directly harm the glycocalyx?
 
 Elevated arterial pressure—particularly elevated pulse pressure—exerts mechanical shear stress on the glycocalyx. Over time, this contributes to thinning, especially when combined with metabolic risk factors like prediabetes. Managing BP is one meaningful way to protect it.

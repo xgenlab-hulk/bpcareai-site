@@ -83,17 +83,17 @@ The interplay between constipation, postprandial glucose, and pelvic floor funct
 
 ### FAQ
 
-#### #### Does constipation postprandial glucose pelvic floor affect HbA1c?
+#### Does constipation postprandial glucose pelvic floor affect HbA1c?
 Yes—chronic constipation linked with pelvic floor dysfunction can elevate average glucose levels over time. In a longitudinal cohort, older adults with both conditions had HbA1c values 0.4–0.7% higher than matched peers without GI involvement—even after adjusting for BMI and medication use.
 
-#### #### Can treating constipation improve postprandial glucose in type 2 diabetes?
+#### Can treating constipation improve postprandial glucose in type 2 diabetes?
 Evidence suggests yes. A 2022 randomized trial found that a 12-week intervention targeting colonic motility and pelvic floor coordination reduced 2-hour postprandial glucose by an average of 42 mg/dL and improved time-in-range (70–180 mg/dL) by 11 percentage points.
 
-#### #### What’s the difference between constipation postprandial glucose pelvic floor and regular constipation in older adults?
+#### What’s the difference between constipation postprandial glucose pelvic floor and regular constipation in older adults?
 Regular constipation may involve slow transit or outlet obstruction alone. The *constipation postprandial glucose pelvic floor* pattern specifically includes measurable delays in gastric emptying, vagally mediated insulin blunting, and objective pelvic floor dyssynergy—creating a distinct metabolic signature that responds best to integrated GI-endocrine-pelvic rehabilitation.
 
-#### #### Are probiotics helpful for constipation postprandial glucose pelvic floor?
+#### Are probiotics helpful for constipation postprandial glucose pelvic floor?
 Certain strains show promise: *Bifidobacterium lactis* BB-12® and *Lactobacillus reuteri* DSM 17938 have demonstrated modest improvements in colonic transit and postprandial GLP-1 response in older adults—but effects are strain-specific and generally modest (~10–15% improvement). They work best alongside fiber and behavioral strategies—not as standalone fixes.
 
-#### #### Does metformin worsen constipation postprandial glucose pelvic floor?
+#### Does metformin worsen constipation postprandial glucose pelvic floor?
 Metformin itself rarely causes constipation (it more commonly causes diarrhea), but it *can* alter gut microbiota composition and reduce intestinal serotonin synthesis—potentially dampening motilin release over time. If constipation emerges or worsens after starting metformin, discuss alternatives like SGLT2 inhibitors or GLP-1 RAs with your provider—both have independent prokinetic and pelvic-floor-sparing effects.

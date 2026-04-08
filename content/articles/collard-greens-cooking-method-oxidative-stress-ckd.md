@@ -78,17 +78,17 @@ Remember: *collard greens cooking method oxidative stress CKD* isn’t about fea
 
 ### FAQ
 
-#### #### Does cooking collard greens with smoked turkey increase oxidative stress in CKD patients?
+#### Does cooking collard greens with smoked turkey increase oxidative stress in CKD patients?
 Yes—especially with prolonged, high-heat methods. Smoked turkey can introduce PAHs and nitrosamine precursors, and in CKD Stage 3, reduced renal clearance means these compounds linger longer. However, risk is modifiable: removing meat before final simmering, choosing leaner cuts, and pairing with vitamin-C-rich ingredients meaningfully lowers impact.
 
-#### #### How does collard greens cooking method affect oxidative stress CKD progression?
+#### How does collard greens cooking method affect oxidative stress CKD progression?
 Research suggests that diets higher in PAHs and nitrosamines correlate with elevated urinary 8-OHdG and faster eGFR decline—particularly in adults over 75 with baseline eGFR <60. One longitudinal study observed that participants who regularly used liquid smoke *and* grilled smoked meats had 32% higher 8-OHdG levels after 12 months versus those using herb-based seasonings.
 
-#### #### Is Instant-Pot collard greens safer than stovetop for people with CKD?
+#### Is Instant-Pot collard greens safer than stovetop for people with CKD?
 Not automatically. Pressure cooking reduces cooking time (lowering some thermal byproducts), but it doesn’t eliminate PAHs from smoked meats or nitrosamines from liquid smoke. The *ingredients used* matter more than the appliance. In fact, high-pressure + acidic broth + liquid smoke may *increase* nitrosamine formation in some cases.
 
-#### #### Can I still enjoy collard greens at Thanksgiving if I have CKD Stage 3?
+#### Can I still enjoy collard greens at Thanksgiving if I have CKD Stage 3?
 Absolutely—yes. Try preparing them with smoked turkey neck (lower fat), add diced tomatoes and onions for flavor complexity, skip added salt, and serve with a side of fresh citrus salad to boost antioxidant synergy. Healthy eating during family gatherings is about inclusion—not isolation.
 
-#### #### What’s the best way to reduce nitrosamines when cooking collards?
+#### What’s the best way to reduce nitrosamines when cooking collards?
 Three practical steps: (1) Rinse smoked meats before cooking, (2) avoid adding vinegar or lemon juice *during* high-heat cooking with nitrite-containing meats (add acid at the end instead), and (3) include cruciferous vegetables like broccoli rabe or mustard greens—they contain sulforaphane, shown to enhance nitrosamine detoxification pathways.

@@ -99,22 +99,22 @@ If you're unsure, talking to your doctor is always a good idea—especially when
 
 ### FAQ
 
-#### #### Can I calibrate my home BP cuff myself if I have arthritis?
+#### Can I calibrate my home BP cuff myself if I have arthritis?
 
 Yes—you can absolutely calibrate your home BP cuff yourself with joint-friendly techniques like the Triple-Reading Posture Reset. This method avoids overhead arm positioning and relies on seated support, making it ideal for people with shoulder or elbow arthritis. No tools or professionals needed—just consistency and gentle awareness.
 
-#### #### How often should I do home bp cuff calibration arthritis mobility?
+#### How often should I do home bp cuff calibration arthritis mobility?
 
 For best results, practice the Triple-Reading Posture Reset once daily for five days to establish your personal baseline. After that, repeat it once per month—or anytime your joint comfort, routine, or medication changes—to maintain accuracy and confidence in your readings.
 
-#### #### Does home bp cuff calibration arthritis mobility work with digital cuffs?
+#### Does home bp cuff calibration arthritis mobility work with digital cuffs?
 
 Yes—this technique works with all standard upper-arm automatic digital cuffs. It focuses on *how you position your body*, not the cuff’s internal mechanics. As long as your device is FDA-cleared and uses oscillometric measurement (nearly all home digital models do), the Posture Reset enhances its real-world reliability.
 
-#### #### Why does my BP reading change every time I measure—even with the same cuff?
+#### Why does my BP reading change every time I measure—even with the same cuff?
 
 Small variations are normal—but swings over 10 mm Hg between readings often point to posture, timing, or muscle tension—not faulty equipment. With arthritis or limited mobility, slight shifts in arm height, shoulder engagement, or breathing can easily explain those differences. The Triple-Reading Posture Reset helps smooth those out by creating repeatable conditions.
 
-#### #### Should I use my wrist BP cuff instead if my shoulder hurts?
+#### Should I use my wrist BP cuff instead if my shoulder hurts?
 
 Wrist cuffs are generally *less accurate*, especially for people over 50 or with arterial stiffness—and they require precise hand positioning at heart level, which can be harder to maintain comfortably. An upper-arm cuff with proper seated support is still the gold standard. If shoulder pain is severe, talk to your doctor or physical therapist about adaptive supports or cuff alternatives—they’re more common than you think.

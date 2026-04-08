@@ -96,22 +96,22 @@ If you're unsure, talking to your doctor is always a good idea. And if you’re 
 
 ### FAQ
 
-#### #### Does guided imagery really lower mean arterial pressure in resistant hypertension?
+#### Does guided imagery really lower mean arterial pressure in resistant hypertension?
 
 Yes—according to a 2024 randomized pragmatic trial in adults aged 69–83, daily 15-minute guided imagery reduced 24-hour mean arterial pressure by an average of 5.2 mm Hg over 12 weeks. The effect appears tied to decreased sympathetic nervous system activity, independent of breathing techniques.
 
-#### #### How does guided imagery mean arterial pressure resistant hypertension compare to meditation or deep breathing?
+#### How does guided imagery mean arterial pressure resistant hypertension compare to meditation or deep breathing?
 
 Unlike many meditation or breathwork protocols—which directly engage respiratory centers—this guided imagery intervention focused *only* on mental visualization, with no breathing instructions. Yet it still lowered mean arterial pressure, suggesting that directed attention and sensory-rich imagination alone can modulate autonomic tone in resistant hypertension.
 
-#### #### Can guided imagery replace my blood pressure medications?
+#### Can guided imagery replace my blood pressure medications?
 
 No. Guided imagery is a complementary strategy—not a substitute—for prescribed antihypertensive therapy. The trial participants continued all their usual medications. Always consult your doctor before adjusting doses or stopping any medication.
 
-#### #### Is guided imagery safe for older adults with memory concerns?
+#### Is guided imagery safe for older adults with memory concerns?
 
 Generally yes—especially if used with familiar, concrete imagery (e.g., “sitting on your favorite porch”) rather than abstract concepts. However, if someone experiences disorientation, agitation, or confusion during practice, it’s best to pause and speak with a clinician or geriatric psychologist.
 
-#### #### How long before I might notice changes in my blood pressure from guided imagery?
+#### How long before I might notice changes in my blood pressure from guided imagery?
 
 Most participants in the trial saw measurable MAP reductions after 4–6 weeks of daily practice, with continued improvement through week 12. Individual responses vary, so patience and consistency are key—and pairing imagery with accurate home monitoring helps track subtle progress.

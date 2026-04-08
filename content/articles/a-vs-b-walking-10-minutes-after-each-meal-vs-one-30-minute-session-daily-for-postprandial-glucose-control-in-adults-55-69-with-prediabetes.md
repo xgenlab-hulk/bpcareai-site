@@ -82,22 +82,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Is walking after meals better than a daily walk for prediabetes?
+#### Is walking after meals better than a daily walk for prediabetes?
 
 Yes — for many adults aged 55–69, walking 10 minutes after each main meal produces greater reductions in postprandial glucose spikes than one 30-minute walk per day, according to 2024 CGM data. This is especially true after carbohydrate-rich meals, where the timing aligns with peak glucose absorption.
 
-#### #### What’s the best time to walk after eating for prediabetes?
+#### What’s the best time to walk after eating for prediabetes?
 
 Start your walk within 15–30 minutes after finishing a meal — not before, and not more than 60 minutes after. This window captures early glucose elevation while muscle insulin sensitivity is still relatively preserved. Morning walks after breakfast may be easiest to remember, but evening walks after dinner often yield the largest glucose-lowering effect.
 
-#### #### How does walking after meals vs daily walk prediabetes affect blood pressure?
+#### How does walking after meals vs daily walk prediabetes affect blood pressure?
 
 Both patterns support healthy blood pressure — but walking after meals may offer additional benefits by reducing postprandial oxidative stress and arterial stiffness. In the 2024 trial, participants doing post-meal walks saw modest but consistent reductions in systolic BP (average −3.2 mm Hg) compared to the daily-walk group (−1.1 mm Hg), likely due to improved endothelial function after repeated glucose stabilization.
 
-#### #### Can I combine both walking after meals and a daily walk?
+#### Can I combine both walking after meals and a daily walk?
 
 Absolutely — and many people do. However, the 2024 trial found diminishing returns beyond three short walks/day. If adding a longer session, consider shifting it to a *different time of day* (e.g., morning walk before breakfast) rather than replacing post-meal activity. Total weekly volume still matters for cardiovascular fitness and weight management.
 
-#### #### Does walking intensity matter more than timing for prediabetes?
+#### Does walking intensity matter more than timing for prediabetes?
 
 Timing and intensity both matter — but timing has a unique metabolic advantage *after meals*. A leisurely 10-minute walk lowers glucose more effectively than sitting — and increasing intensity (e.g., incline, arm swing, or slightly faster pace) adds further benefit. However, even light-intensity movement post-meal yields measurable improvement, making it accessible for those with joint concerns or lower fitness levels.

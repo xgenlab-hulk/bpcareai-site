@@ -77,17 +77,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can seated resistance band exercises safely lower blood pressure in seniors with hypertension?
+#### Can seated resistance band exercises safely lower blood pressure in seniors with hypertension?
 Yes—when done mindfully and consistently. Clinical studies show that 12 weeks of seated band training (2–3x/week) led to average reductions of 5–7 mm Hg in both systolic and diastolic BP among adults aged 70–85 with stage 1 hypertension. The key is avoiding breath-holding, maintaining steady pace, and staying within a low perceived exertion range (Borg 2–4).
 
-#### #### What makes seated-resistance-band-hypertension-elderly different from regular seated workouts?
+#### What makes seated-resistance-band-hypertension-elderly different from regular seated workouts?
 The *seated-resistance-band-hypertension-elderly* approach integrates specific physiological safeguards: isometric-isotonic hybrids, built-in breath pauses, chair stabilization cues (e.g., pressing palms into thighs), and emphasis on large, posturally supportive muscles (glutes, scapular stabilizers). Unlike general seated fitness routines, it’s calibrated to minimize transient BP surges and orthostatic stress—validated in cardiac rehab settings.
 
-#### #### Are resistance bands better than hand weights for older adults with orthostatic intolerance?
+#### Are resistance bands better than hand weights for older adults with orthostatic intolerance?
 For most adults 75+, yes—especially when orthostatic intolerance is present. Bands offer variable tension (easier to start light), reduce joint shear forces, and allow seated anchoring that minimizes postural sway. Free weights require more grip strength and dynamic balance—both of which can trigger BP instability or increase fall risk in this population.
 
-#### #### How long before I notice improvements in dizziness or stamina?
+#### How long before I notice improvements in dizziness or stamina?
 Many report reduced post-standing dizziness within 3–4 weeks of consistent practice (2–3 sessions/week). Increased stamina for daily tasks—like standing from a chair or carrying light items—often follows by week 6–8. These changes reflect improved muscle efficiency and better autonomic modulation—not just stronger muscles.
 
-#### #### Can I do seated-resistance-band-hypertension-elderly exercises if I’m on blood pressure medication?
+#### Can I do seated-resistance-band-hypertension-elderly exercises if I’m on blood pressure medication?
 Absolutely—and many participants in clinical trials were on stable regimens (ACE inhibitors, calcium channel blockers, low-dose diuretics). Always coordinate with your prescriber before starting, and avoid exercising within 1–2 hours of taking short-acting antihypertensives (e.g., nifedipine), as timing can influence response. Monitor BP before and after sessions to identify your personal pattern.

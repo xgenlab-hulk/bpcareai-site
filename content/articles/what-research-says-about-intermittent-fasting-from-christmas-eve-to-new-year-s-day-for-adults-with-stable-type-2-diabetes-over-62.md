@@ -71,17 +71,17 @@ Holiday wellness isn’t about strict rules—it’s about thoughtful choices th
 
 ### FAQ
 
-#### #### Can intermittent fasting from Christmas Eve to New Year’s Day cause low blood sugar in older adults with diabetes?  
+#### Can intermittent fasting from Christmas Eve to New Year’s Day cause low blood sugar in older adults with diabetes?  
 Yes—especially for those on insulin or sulfonylureas. In clinical trials, nearly 1 in 4 adults over 62 experienced hypoglycemia during this window, often midday, even with stable baseline control.
 
-#### #### Is intermittent fasting christmas to new year diabetes safe if my kidney function is normal?  
+#### Is intermittent fasting christmas to new year diabetes safe if my kidney function is normal?  
 “Normal” isn’t the full picture. Even with eGFR >90, mild fasting-induced ketosis correlated with small but detectable changes in creatinine and albuminuria in older adults—so caution and monitoring are still advised.
 
-#### #### How does intermittent fasting christmas to new year diabetes compare to regular intermittent fasting?  
+#### How does intermittent fasting christmas to new year diabetes compare to regular intermittent fasting?  
 Holiday fasting adds layers: disrupted sleep, seasonal stress, travel, and irregular meal timing all affect insulin sensitivity differently than controlled, routine-based fasting. Research shows adherence and safety drop significantly in festive contexts.
 
-#### #### Do I need to check ketones if I try intermittent fasting over the holidays?  
+#### Do I need to check ketones if I try intermittent fasting over the holidays?  
 Not routinely—but if you feel unusually tired, nauseous, or thirsty—or if your glucose stays above 250 mg/dL for several readings—checking blood ketones is wise. Urine strips are less reliable in older adults due to hydration changes.
 
-#### #### What’s a safer alternative to fasting for managing blood sugar during Christmas and New Year?  
+#### What’s a safer alternative to fasting for managing blood sugar during Christmas and New Year?  
 Focus on consistency: keep carb portions steady across meals, add movement (even 10-minute walks after meals), and space out treats—not skipping meals, but savoring them intentionally. Small shifts often yield steadier results than dramatic ones.

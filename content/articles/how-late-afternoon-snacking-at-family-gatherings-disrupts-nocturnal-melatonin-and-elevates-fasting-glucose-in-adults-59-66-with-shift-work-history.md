@@ -59,22 +59,22 @@ Your body remembers rhythm—even after years of change. That doesn’t mean it�
 
 ### FAQ
 
-#### #### Does late afternoon snacking circadian glucose affect everyone over 60?
+#### Does late afternoon snacking circadian glucose affect everyone over 60?
 
 Not equally—but adults 59–66 with prior shift-work history are more likely to experience measurable effects due to long-term circadian adaptation. Individual chronotype (e.g., “night owl” tendency) also plays a role.
 
-#### #### Can late afternoon snacking circadian glucose raise blood pressure?
+#### Can late afternoon snacking circadian glucose raise blood pressure?
 
 Indirectly, yes. Elevated overnight glucose can increase sympathetic nervous system activity and arterial stiffness over time—both linked to subtle BP increases, especially in the early morning hours.
 
-#### #### Is it better to skip the snack—or choose something specific?
+#### Is it better to skip the snack—or choose something specific?
 
 Skipping isn’t necessary. Prioritize low-glycemic, high-fiber options (e.g., pear with walnuts) and pair them with natural light exposure. Avoid high-sugar, high-fat combos (e.g., cake + soda), which amplify the circadian glucose effect.
 
-#### #### How does melatonin relate to blood sugar during family events?
+#### How does melatonin relate to blood sugar during family events?
 
 Melatonin naturally suppresses insulin secretion after dark. When late-afternoon snacking delays melatonin onset, insulin remains elevated longer—and then drops abruptly, contributing to nocturnal glucose variability.
 
-#### #### What’s the best time to check fasting glucose after a family gathering?
+#### What’s the best time to check fasting glucose after a family gathering?
 
 Check first thing upon waking—before coffee, brushing teeth, or drinking water—to capture your true baseline. Consistency matters more than perfection: aim for the same time daily for 5–7 days to spot patterns.

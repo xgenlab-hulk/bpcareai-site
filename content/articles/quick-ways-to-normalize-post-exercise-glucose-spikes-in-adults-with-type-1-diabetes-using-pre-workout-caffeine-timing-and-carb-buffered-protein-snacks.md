@@ -57,22 +57,22 @@ Managing blood sugar around movement doesn’t have to mean constant guesswork o
 
 ### FAQ
 
-#### #### Does caffeine really help with post-exercise glucose spike type 1?
+#### Does caffeine really help with post-exercise glucose spike type 1?
 
 Yes—in moderate, well-timed doses (3–5 mg/kg, taken 45–60 min pre-exercise), caffeine appears to modulate catecholamine release and improve muscle glucose disposal. It’s not a standalone fix, but part of a coordinated strategy.
 
-#### #### Why do I get a post-exercise glucose spike type 1 even when I lower my insulin dose?
+#### Why do I get a post-exercise glucose spike type 1 even when I lower my insulin dose?
 
 Because catecholamines drive glucose production *independently* of insulin. Lowering basal or bolus insulin may reduce hypoglycemia risk but won’t fully block adrenal-mediated hepatic glucose output—hence why fueling and timing matter just as much.
 
-#### #### Can resistance training cause a post-exercise glucose spike type 1?
+#### Can resistance training cause a post-exercise glucose spike type 1?
 
 Absolutely—and sometimes more than cardio. Lifting weights strongly activates the sympathetic nervous system. That’s why the immediate post-set carb tip (5–7 g glucose within 2 minutes of each set) is especially helpful for strength-based routines.
 
-#### #### Is this protocol safe for people with high blood pressure?
+#### Is this protocol safe for people with high blood pressure?
 
 Caffeine can cause a short-term BP rise (~5–10 mm Hg systolic), so those with uncontrolled hypertension (≥140/90 mm Hg) should discuss timing and dosing with their provider first. The carb-protein snack and post-set glucose have no known BP effects.
 
-#### #### Do I need a CGM to use this approach?
+#### Do I need a CGM to use this approach?
 
 Not strictly—but it makes pattern recognition far easier. Without one, frequent fingerstick checks (pre, immediate post, and at 30/60/90 min) are essential to confirm whether the strategy is working for *you*.

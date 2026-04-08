@@ -91,17 +91,17 @@ Supporting serotonin synthesis through food, co-factors, and gut health is a saf
 
 ### FAQ
 
-#### #### Can low tryptophan intake cause depression in seniors even if protein intake is normal?  
+#### Can low tryptophan intake cause depression in seniors even if protein intake is normal?  
 Yes. Because tryptophan competes with other amino acids for brain entry, high-protein, low-carb diets common among older adults can paradoxically *reduce* tryptophan uptake—even with adequate total protein. Research shows that seniors with normal protein intake but low tryptophan-to-LNAA ratios are 2.3× more likely to report low mood during winter months.
 
-#### #### What are the best natural ways to support serotonin synthesis for seniors with low tryptophan intake?  
+#### What are the best natural ways to support serotonin synthesis for seniors with low tryptophan intake?  
 The most effective natural ways include: pairing tryptophan-rich foods with low-glycemic carbs (e.g., oats + walnuts), ensuring optimal B6/magnesium/iron status through diet or targeted supplementation, and supporting gut microbiota with prebiotic and fermented foods. These strategies are validated in geriatric trials like the PEARL study (2023), where participants following this protocol saw measurable improvements in HAM-D mood scores within 8 weeks.
 
-#### #### How does seasonal depression in older adults differ from younger adults—and why does serotonin synthesis natural ways matter more with age?  
+#### How does seasonal depression in older adults differ from younger adults—and why does serotonin synthesis natural ways matter more with age?  
 Older adults more commonly experience *hypersomnia*, lethargy, and cognitive slowing rather than insomnia or agitation. Age-related declines in gut absorption, enzyme efficiency, and circadian photoreception make serotonin synthesis natural ways seniors tryptophan intake especially impactful—and more modifiable through nutrition than in younger populations.
 
-#### #### Are there risks to increasing tryptophan intake naturally?  
+#### Are there risks to increasing tryptophan intake naturally?  
 Generally, no—dietary tryptophan from whole foods poses no known risk, even at higher intakes. Unlike isolated 5-HTP supplements, food-based approaches avoid excessive serotonin spikes or interactions with medications (e.g., tramadol, certain migraine drugs). Always discuss new supplements with your healthcare provider.
 
-#### #### Does vitamin D affect serotonin synthesis—and should seniors supplement during winter?  
+#### Does vitamin D affect serotonin synthesis—and should seniors supplement during winter?  
 Yes. Vitamin D upregulates TPH2 gene expression and modulates inflammatory cytokines that divert tryptophan toward the kynurenine pathway. Seniors with serum 25(OH)D <20 ng/mL show significantly lower CSF serotonin metabolites. For most older adults, 800–1000 IU/day of vitamin D3, paired with brief midday sun exposure when possible, is a safe, supportive strategy.

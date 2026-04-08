@@ -106,22 +106,22 @@ Improving how your body handles food—especially as you move through your 60s a
 
 ### FAQ
 
-#### #### Can vinegar really help natural insulin sensitivity post-meal prediabetes in older adults?
+#### Can vinegar really help natural insulin sensitivity post-meal prediabetes in older adults?
 
 Yes—studies specifically in adults aged 61–74 show that consuming vinegar-acidified broth 5 minutes *before* meals reduces post-meal glucose spikes by up to 22% and lowers insulin demand. The effect appears strongest when paired with moderate-carb meals and sustained over 8–12 weeks.
 
-#### #### What’s the best time to do deep breathing for natural insulin sensitivity post-meal prediabetes?
+#### What’s the best time to do deep breathing for natural insulin sensitivity post-meal prediabetes?
 
 Start your 5-minute breathing session **15 minutes after finishing a meal**—not immediately after, and not an hour later. This aligns with peak insulin secretion and gives your parasympathetic nervous system time to engage during the critical postprandial window.
 
-#### #### Are quercetin and hesperidin safe for seniors with prediabetes?
+#### Are quercetin and hesperidin safe for seniors with prediabetes?
 
 In clinical trials using 500 mg quercetin + 250 mg hesperidin twice daily for 12 weeks, no serious adverse events were reported in adults 61–74. Mild GI discomfort occurred in <3% of participants—usually resolved by taking with food. Always discuss new supplements with your care team, especially if on anticoagulants.
 
-#### #### Do I need a continuous glucose monitor (CGM) to track natural insulin sensitivity post-meal prediabetes?
+#### Do I need a continuous glucose monitor (CGM) to track natural insulin sensitivity post-meal prediabetes?
 
 Not necessarily. A basic fingerstick glucose meter used at 60 and 120 minutes after a consistent, typical meal (e.g., breakfast with toast + egg) gives highly useful data. CGMs offer convenience and trend insight—but aren’t required for meaningful progress.
 
-#### #### Can these strategies help with holiday diabetes management?
+#### Can these strategies help with holiday diabetes management?
 
 Absolutely. These approaches are especially helpful during holidays—when meals are larger, sweeter, and more emotionally charged. Vinegar-broth before dinner, mindful breathing afterward, and citrus-rich foods all support steadier energy and mood—without requiring you to skip dessert or decline Grandma’s famous casserole.

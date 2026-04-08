@@ -91,22 +91,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does sleeping 5 hours a night increase heart disease risk after 55?
+#### Does sleeping 5 hours a night increase heart disease risk after 55?
 
 Yes — multiple studies show adults over 55 who average five hours or less of sleep per night face a higher likelihood of developing hypertension, coronary artery disease, and stroke. This appears linked to reduced nocturnal blood pressure dipping and increased inflammation. However, occasional short nights aren’t cause for alarm; it’s the consistent pattern over months that matters most.
 
-#### #### Is long sleep — like 10 hours — also linked to heart disease risk after 55?
+#### Is long sleep — like 10 hours — also linked to heart disease risk after 55?
 
 Yes, research indicates that regularly sleeping 9–10 hours per night is associated with modestly elevated heart disease risk in adults over 55. Importantly, this doesn’t mean long sleep *causes* heart problems — rather, it may reflect underlying health issues such as undiagnosed sleep apnea, depression, or early heart failure. A conversation with your doctor can help uncover contributing factors.
 
-#### #### How does sleep duration and heart disease risk after 55 compare to other lifestyle risks?
+#### How does sleep duration and heart disease risk after 55 compare to other lifestyle risks?
 
 Sleep duration is considered a key pillar alongside diet, physical activity, smoking status, and alcohol use — all part of the American Heart Association’s “Life’s Essential 8.” While high blood pressure or high cholesterol carry stronger individual risk weights, poor sleep often amplifies their effects. Improving sleep can therefore enhance the benefits of other heart-healthy habits.
 
-#### #### Can improving my sleep lower my blood pressure naturally?
+#### Can improving my sleep lower my blood pressure naturally?
 
 Yes — clinical trials show that extending sleep from short to optimal duration (e.g., from 5.5 to 7.5 hours) can reduce systolic BP by 5–7 mm Hg in adults with hypertension. Even modest improvements in sleep continuity and depth support better autonomic regulation — helping your body maintain healthier arterial pressure throughout the day and night.
 
-#### #### Should I get a sleep study if I’m over 55 and sleep poorly?
+#### Should I get a sleep study if I’m over 55 and sleep poorly?
 
 Not necessarily — but it’s worth considering if you have symptoms like witnessed pauses in breathing, choking/gasping at night, excessive daytime sleepiness despite adequate time in bed, or unrefreshing sleep despite seven-plus hours. Sleep apnea is highly prevalent after 55 and strongly linked to hypertension and arrhythmias, so evaluation can lead to effective, heart-protective treatment.

@@ -44,22 +44,22 @@ In summary, neither tai chi nor breathing is a “magic fix,” but both offer s
 
 ### FAQ
 
-#### #### Can tai chi really lower central aortic pressure—or is it just relaxation?
+#### Can tai chi really lower central aortic pressure—or is it just relaxation?
 
 Yes—studies using central aortic tonometry show that regular tai chi practice (especially forms emphasizing slow, weighted movement and deep breathing) can reduce central aortic systolic pressure by an average of 5–7 mm Hg over 4 weeks. This appears linked to improved arterial compliance and reduced wave reflection—not just temporary calm.
 
-#### #### How does 4-7-8 breathing compare to tai chi for central aortic pressure?
+#### How does 4-7-8 breathing compare to tai chi for central aortic pressure?
 
 Both improve central aortic pressure, but they work differently: 4-7-8 breathing with biofeedback tends to produce quicker reductions in wave reflection amplitude, while tai chi shows broader effects on arterial stiffness (as measured by carotid-femoral PWV). For many women 69+, combining both yields complementary benefits.
 
-#### #### Is tai chi vs breathing central aortic pressure relevant if my arm BP is already controlled?
+#### Is tai chi vs breathing central aortic pressure relevant if my arm BP is already controlled?
 
 Yes—even with “controlled” brachial BP, central aortic pressure may remain elevated. Up to 30% of older adults with well-managed arm readings still have high CASP, putting them at higher cardiovascular risk. That’s why *tai chi vs breathing central aortic pressure* strategies matter beyond the cuff.
 
-#### #### Do I need special equipment to try either method?
+#### Do I need special equipment to try either method?
 
 No. Tai chi requires only comfortable clothing and a quiet space. For 4-7-8 breathing, no tools are needed—but biofeedback devices (like finger pulse sensors paired with guided apps) can enhance learning in the first few weeks. Always prioritize comfort and safety over tech.
 
-#### #### How soon might I notice changes in how I feel?
+#### How soon might I notice changes in how I feel?
 
 Many report improved sleep, calmer mornings, and less midday fatigue within 10–14 days. Objective changes in central aortic pressure typically emerge after 3–4 weeks of consistent practice—so patience and gentleness with yourself go a long way.

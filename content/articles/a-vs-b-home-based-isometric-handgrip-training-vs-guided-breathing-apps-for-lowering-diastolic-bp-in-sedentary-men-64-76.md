@@ -53,17 +53,17 @@ Lowering diastolic BP doesn’t require drastic lifestyle overhauls—especially
 
 ### FAQ
 
-#### #### Can isometric handgrip vs breathing app diastolic BP improvements last beyond 4 weeks?
+#### Can isometric handgrip vs breathing app diastolic BP improvements last beyond 4 weeks?
 Yes—studies tracking participants for 12 weeks show sustained benefits when interventions continue 2–3 times weekly. Gains tend to plateau around week 8, suggesting diminishing returns without variation or progression.
 
-#### #### Which is safer for someone with mild arthritis—isometric handgrip or a breathing app?
+#### Which is safer for someone with mild arthritis—isometric handgrip or a breathing app?
 Breathing apps pose virtually no musculoskeletal risk and are generally preferred for those with hand or joint limitations. If choosing handgrip, opt for low-resistance, high-repetition protocols and avoid gripping through pain.
 
-#### #### Does isometric handgrip vs breathing app diastolic BP effectiveness differ by age?
+#### Does isometric handgrip vs breathing app diastolic BP effectiveness differ by age?
 The 64–76 age group shows strong responsiveness to both—but breathing interventions often yield faster initial results in men over 70, likely due to lower physical demand and immediate autonomic effects.
 
-#### #### Do I need special equipment for isometric handgrip training?
+#### Do I need special equipment for isometric handgrip training?
 Yes—a calibrated handgrip dynamometer or adjustable resistance device is recommended. Standard stress balls or uncalibrated grippers lack the precision needed for consistent 30% MVC targeting.
 
-#### #### Can I combine both interventions?
+#### Can I combine both interventions?
 Yes—and some studies suggest synergy. Try breathing on non-handgrip days, or add 5 minutes of paced breathing immediately after handgrip sessions to enhance parasympathetic recovery.

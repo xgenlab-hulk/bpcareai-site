@@ -59,17 +59,17 @@ Living well with COPD—especially after years of smoking—isn’t about perfec
 
 ### FAQ
 
-#### #### Can drinking green tea after dinner help reduce oxidative stress post-meal COPD?  
+#### Can drinking green tea after dinner help reduce oxidative stress post-meal COPD?  
 Yes—but timing and temperature matter more than volume. Sipping hot green tea may actually increase gastric oxidative load in some older adults with COPD. The evidence supports a *chilled rinse*, not ingestion, performed at the 22-minute mark post-meal. Swishing—not swallowing—delivers antioxidants directly where early oxidative signaling begins.
 
-#### #### What’s the best time to do breathing exercises to reduce oxidative stress post-meal COPD?  
+#### What’s the best time to do breathing exercises to reduce oxidative stress post-meal COPD?  
 The 4-7-8 sequence is most effective when started *within 15 minutes* of finishing your meal—ideally while still seated at the table. Waiting longer than 25 minutes reduces measurable impact on 8-OHdG, likely because the oxidative peak has already passed.
 
-#### #### Does cold hand immersion really help lung-related oxidative stress?  
+#### Does cold hand immersion really help lung-related oxidative stress?  
 Yes—surprisingly, it does. The reflex triggered by cool hand exposure sends calming signals via the vagus nerve to the lungs and mitochondria, reducing NADPH oxidase activation. In clinical observation, participants reported easier exhalation within 2 minutes of completing the 90-second immersion.
 
-#### #### Are there foods I should avoid at family gatherings to support healthy eating during family gatherings?  
+#### Are there foods I should avoid at family gatherings to support healthy eating during family gatherings?  
 Focus less on “avoiding” and more on pairing: enjoy holiday treats, but follow them with your 4-7-8 breaths and chilled rinse. High-sugar, high-fat combos (like gravy + mashed potatoes + pie) tend to produce the largest postprandial oxidative spikes—so savor mindfully, then reset gently.
 
-#### #### Do these methods replace my COPD medications?  
+#### Do these methods replace my COPD medications?  
 No. These are complementary, non-pharmacologic tools designed to support your existing care plan—not substitute for inhalers, pulmonary rehab, or prescribed therapies. Always discuss lifestyle additions with your pulmonologist or primary care provider.

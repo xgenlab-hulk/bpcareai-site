@@ -80,22 +80,22 @@ None of this is about fear—or throwing away a perfectly good appliance. It’s
 
 ### FAQ
 
-#### #### Does microwave leakage actually affect blood pressure in seniors?
+#### Does microwave leakage actually affect blood pressure in seniors?
 
 Current evidence doesn’t prove direct causation—but multiple peer-reviewed studies (including a 2023 longitudinal analysis in *Journal of Hypertension*) report statistically significant associations between long-term, low-level microwave leakage and increased 24-hour mean arterial pressure variability in adults 75+. Effects appear subtle, cumulative, and most noticeable in those with preexisting autonomic vulnerability.
 
-#### #### Can microwave leakage and blood pressure variability be reversed?
+#### Can microwave leakage and blood pressure variability be reversed?
 
 Often, yes—especially when addressed early. Replacing an aging unit, increasing distance during use, and supporting autonomic health (via hydration, movement, and sleep hygiene) have all been linked to improved BP stability in observational follow-ups. Improvement may take 4–8 weeks to become apparent in ambulatory patterns.
 
-#### #### How much microwave leakage is considered safe for older adults?
+#### How much microwave leakage is considered safe for older adults?
 
 The FCC limit remains 5 mW/cm² at 5 cm—but emerging research suggests that for adults 75+, sustained exposure above 0.5–1.0 mW/cm² may correlate with increased autonomic markers. There’s no official “senior-specific” threshold yet, so conservative practice favors minimizing exposure where practical.
 
-#### #### Is microwave leakage worse at night or in the morning?
+#### Is microwave leakage worse at night or in the morning?
 
 Not inherently—but timing matters physiologically. Early-morning BP naturally surges (the “morning surge”), and nighttime BP should dip. Adding EMF exposure during these sensitive circadian windows may amplify variability. That’s why avoiding microwave use within 30 minutes of waking or within 90 minutes of bedtime is a gentle, evidence-informed suggestion.
 
-#### #### Do newer microwaves eliminate microwave leakage and blood pressure variability concerns?
+#### Do newer microwaves eliminate microwave leakage and blood pressure variability concerns?
 
 Newer models (especially those certified to IEC 60335-2-25 standards) feature tighter door seals, improved shielding, and automatic shutoffs—reducing typical leakage to near-background levels (<0.1 mW/cm²). They don’t guarantee zero variability (BP lability has many causes), but they remove one potential environmental contributor.

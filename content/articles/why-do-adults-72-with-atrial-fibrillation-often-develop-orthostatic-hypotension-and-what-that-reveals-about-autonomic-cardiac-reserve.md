@@ -92,17 +92,17 @@ Your heart health journey is deeply personal — and it’s okay to move at your
 
 ### FAQ
 
-#### #### What causes orthostatic hypotension in people with atrial fibrillation?
+#### What causes orthostatic hypotension in people with atrial fibrillation?
 Orthostatic hypotension in people with AFib often stems from overlapping autonomic dysfunction — reduced baroreceptor sensitivity, slower nerve conduction, and impaired heart rate response — compounded by AFib’s effect on cardiac output and stroke volume. Age-related changes and medications can further reduce the body’s ability to compensate when standing.
 
-#### #### Is atrial fibrillation orthostatic hypotension older adults linked to dementia risk?
+#### Is atrial fibrillation orthostatic hypotension older adults linked to dementia risk?
 Some studies suggest a modest association — likely through shared mechanisms like cerebral hypoperfusion (reduced blood flow to the brain) and microvascular damage — but no direct causation has been proven. Managing orthostatic drops may support brain health indirectly by improving consistent cerebral perfusion.
 
-#### #### Can orthostatic hypotension get better with treatment in older adults with AFib?
+#### Can orthostatic hypotension get better with treatment in older adults with AFib?
 Yes — often significantly. Addressing contributing factors (dehydration, medication effects), adding compression stockings, practicing slow positional changes, and sometimes adjusting rhythm or rate control strategies can lead to measurable improvement in symptoms and BP stability.
 
-#### #### How is orthostatic hypotension diagnosed in older adults with AFib?
+#### How is orthostatic hypotension diagnosed in older adults with AFib?
 Diagnosis begins with seated and standing BP measurements (after 5 minutes seated, then at 1 and 3 minutes standing). If findings are unclear or symptoms are prominent, confirmatory tests like tilt-table evaluation or 24-hour ambulatory BP monitoring may be recommended.
 
-#### #### Does having atrial fibrillation orthostatic hypotension older adults mean I’ll need a pacemaker?
+#### Does having atrial fibrillation orthostatic hypotension older adults mean I’ll need a pacemaker?
 Not necessarily. Most cases are managed successfully without device therapy. Pacemakers are considered only in rare instances — such as when profound bradycardia (very slow heart rate) contributes directly to orthostatic symptoms and doesn’t respond to other interventions.

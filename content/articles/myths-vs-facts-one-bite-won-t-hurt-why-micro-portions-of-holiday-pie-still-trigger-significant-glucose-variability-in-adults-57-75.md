@@ -97,22 +97,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does one bite of holiday pie really affect blood sugar in older adults?
+#### Does one bite of holiday pie really affect blood sugar in older adults?
 
 Yes—studies using CGM in adults 57–75 show even a 15g-carb portion (about one small bite) raises glucose by 28–42 mg/dL on average, with effects lasting up to 3 hours. This reflects natural age-related shifts in insulin production and sensitivity—not poor habits or failure.
 
-#### #### Is the “one bite holiday pie blood sugar myth” true for people with high blood pressure?
+#### Is the “one bite holiday pie blood sugar myth” true for people with high blood pressure?
 
 It can be especially relevant. Glucose variability and blood pressure regulation share underlying pathways—including endothelial function and sympathetic nervous system activity. Repeated postprandial spikes may contribute to short-term BP fluctuations, particularly in those with existing hypertension (≥130/80 mm Hg).
 
-#### #### How can I test the “one bite holiday pie blood sugar myth” safely at home?
+#### How can I test the “one bite holiday pie blood sugar myth” safely at home?
 
 Use your CGM or a fingerstick glucose meter: check fasting glucose, then again at 30, 60, 90, and 120 minutes after a consistent, measured bite (e.g., exactly 1 tablespoon). Repeat over 2–3 days to spot patterns—not single outliers. Always pair testing with hydration and light movement.
 
-#### #### Does the type of pie matter? Is pumpkin pie “safer” than pecan?
+#### Does the type of pie matter? Is pumpkin pie “safer” than pecan?
 
 Pumpkin pie tends to be lower in added sugar (≈12g per 1/8 slice) than pecan (≈22g), but both contain highly refined carbohydrates and saturated fats that delay digestion and extend glucose elevation. Crust alone contributes ~15g of fast-digesting carbs—so “crust-only” bites can be surprisingly impactful.
 
-#### #### Can stress or lack of sleep make the “one bite holiday pie blood sugar myth” more likely to affect me?
+#### Can stress or lack of sleep make the “one bite holiday pie blood sugar myth” more likely to affect me?
 
 Absolutely. Cortisol from stress or disrupted sleep reduces insulin sensitivity—meaning even familiar portions may produce larger or longer glucose responses. Prioritizing rest and emotional calm is part of metabolic support, especially during busy holiday seasons.

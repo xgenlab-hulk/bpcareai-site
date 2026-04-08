@@ -48,22 +48,22 @@ In closing: While magnesium glycinate isn’t a substitute for prescribed BP med
 
 ### FAQ
 
-#### #### Does magnesium glycinate lower diastolic blood pressure in seniors over 65?
+#### Does magnesium glycinate lower diastolic blood pressure in seniors over 65?
 
 Yes—especially in adults 63–79 with documented low RBC magnesium (<4.2 mg/dL) and chronic constipation. RCT data shows an average 4–5 mm Hg reduction in 24-hour diastolic BP after 12 weeks of 2 g/day magnesium glycinate.
 
-#### #### Is 2 grams of magnesium glycinate safe for adults 63–79?
+#### Is 2 grams of magnesium glycinate safe for adults 63–79?
 
 For most adults in this age group with normal kidney function (eGFR >60 mL/min), 2 g/day is safe and well tolerated. However, always confirm kidney health with labs first—and start with 1 g/day to assess tolerance.
 
-#### #### How does magnesium glycinate compare to other forms for lowering diastolic BP?
+#### How does magnesium glycinate compare to other forms for lowering diastolic BP?
 
 Magnesium glycinate has higher bioavailability and fewer GI side effects than oxide or citrate—making it especially suitable for older adults with sensitive digestion or constipation. One head-to-head pilot study found glycinate produced 2.7× greater RBC magnesium elevation than oxide at equivalent doses.
 
-#### #### Can magnesium glycinate help if my constipation improves but my BP doesn’t change?
+#### Can magnesium glycinate help if my constipation improves but my BP doesn’t change?
 
 It’s possible—BP responses vary based on baseline magnesium status, genetics (e.g., TRPM6 variants), sodium intake, and coexisting conditions like sleep apnea or arterial stiffness. Consistency matters: allow at least 8–12 weeks before reassessing.
 
-#### #### What’s the best time of day to take magnesium glycinate for BP support?
+#### What’s the best time of day to take magnesium glycinate for BP support?
 
 Taking it with dinner—or splitting doses (1 g with lunch, 1 g with dinner)—supports both overnight parasympathetic reactivation and daytime vascular tone. Avoid taking it right before bed if you find it energizing (though most people report calming effects).

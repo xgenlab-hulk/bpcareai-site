@@ -52,22 +52,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does gum disease cause plaque instability in arteries?
+#### Does gum disease cause plaque instability in arteries?
 
 Not directly—but chronic gum disease fuels systemic inflammation (via IL-6, CRP, and MMP-9), which contributes to thinning of the fibrous cap on existing coronary plaques. This makes them more prone to rupture, especially in adults with established heart disease.
 
-#### #### Can treating gum disease reduce coronary plaque instability?
+#### Can treating gum disease reduce coronary plaque instability?
 
 Yes—when treatment goes beyond mechanical cleaning to include anti-inflammatory support (like omega-3 titration and resolvin-based therapies), studies suggest measurable reductions in hs-CRP and MMP-9, correlating with improved plaque stability over 6–12 months.
 
-#### #### Is gum disease and coronary plaque instability more dangerous after age 60?
+#### Is gum disease and coronary plaque instability more dangerous after age 60?
 
 Yes. Immune aging (“inflammaging”), slower tissue repair, and cumulative exposure to periodontal pathogens mean the IL-6/CRP/MMP-9 axis becomes more active—and harder to quiet—after age 60, raising the clinical relevance of gum disease and coronary plaque instability.
 
-#### #### What’s the link between high blood pressure and gum disease?
+#### What’s the link between high blood pressure and gum disease?
 
 While high BP doesn’t cause gum disease, both share endothelial dysfunction and chronic inflammation as root contributors. People with uncontrolled hypertension (e.g., >140/90 mm Hg) are more likely to have severe periodontitis—and vice versa—making integrated management essential.
 
-#### #### Do antibiotics help with gum disease-related heart risks?
+#### Do antibiotics help with gum disease-related heart risks?
 
 Systemic antibiotics are generally *not recommended* for reducing cardiovascular risk from gum disease. They may temporarily lower bacterial load but don’t resolve underlying inflammation—and can disrupt protective gut and oral microbiota. Targeted anti-inflammatory strategies are safer and more effective long-term.

@@ -82,22 +82,22 @@ Understanding how everyday tools like white noise machines interact with our bio
 
 ### FAQ
 
-#### #### Can white noise machines cause heart disease in older adults?
+#### Can white noise machines cause heart disease in older adults?
 
 Not directly—and not in the way that smoking or untreated high cholesterol does. Current evidence suggests that *chronic, long-term use* (5+ years, nightly) *may contribute* to subtle endothelial changes in vulnerable older adults, particularly those with existing risk factors like mild cognitive impairment or borderline-high blood pressure. It’s one of many environmental factors—not a standalone cause of heart disease.
 
-#### #### Are white noise machines atherosclerosis seniors risks something I should stop using immediately?
+#### Are white noise machines atherosclerosis seniors risks something I should stop using immediately?
 
 No. There’s no need to discontinue use abruptly. Instead, consider simple adjustments—like setting a timer, choosing gentler sound options, or pairing use with light evening movement. The goal is sustainable, personalized support—not elimination.
 
-#### #### Do all white noise machines affect blood vessels the same way?
+#### Do all white noise machines affect blood vessels the same way?
 
 No. Devices vary significantly in their frequency output, vibration profile, and sound fidelity. Those with stronger bass response or mechanical fans (common in older or budget models) tend to emit more low-frequency energy. Newer digital players with high-quality speakers and adjustable EQ settings often allow more control over spectral content.
 
-#### #### What’s the safest alternative to white noise for seniors with heart concerns?
+#### What’s the safest alternative to white noise for seniors with heart concerns?
 
 Gentle, nature-based audio—like recorded rain, rustling leaves, or distant waves—is often equally effective for sleep onset and tends to have less low-frequency energy. Even silence, paired with comfortable room temperature and dim lighting, remains a highly effective foundation for restorative sleep.
 
-#### #### Does using earplugs instead of white noise machines reduce atherosclerosis risk?
+#### Does using earplugs instead of white noise machines reduce atherosclerosis risk?
 
 Earplugs themselves don’t impact atherosclerosis—but they *can* help reduce exposure to ambient noise that might otherwise prompt reliance on white noise machines. More importantly, protecting sleep continuity (whether with earplugs, door seals, or quiet routines) supports healthy nocturnal BP dipping—a known protective factor against arterial disease.

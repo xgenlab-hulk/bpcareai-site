@@ -76,17 +76,17 @@ Diastolic hypotension hot yoga adults 52-66 is often a manageable, reversible re
 
 ### FAQ
 
-#### #### Why do I get low diastolic blood pressure during hot yoga in my 50s and 60s?  
+#### Why do I get low diastolic blood pressure during hot yoga in my 50s and 60s?  
 This is common and often tied to age-related shifts in thermoregulation, mild aldosterone changes, and increased vagal sensitivity—all amplified by heat and deep breathing. It doesn’t mean your heart is failing; it means your system is responding thoughtfully to stress.
 
-#### #### Is diastolic hypotension hot yoga adults 52-66 dangerous?  
+#### Is diastolic hypotension hot yoga adults 52-66 dangerous?  
 Not usually—if it’s temporary and resolves within minutes, with no concerning symptoms. However, persistent or symptomatic low diastolic pressure warrants evaluation to rule out treatable contributors like dehydration, medication effects, or endocrine shifts.
 
-#### #### Can low aldosterone cause low diastolic pressure during exercise?  
+#### Can low aldosterone cause low diastolic pressure during exercise?  
 Yes—especially during heat stress. Low aldosterone reduces sodium and water retention, which can lower plasma volume and blunt diastolic pressure. Testing (e.g., morning serum aldosterone and renin) may be considered if symptoms are recurrent.
 
-#### #### What’s a safe diastolic number during hot yoga for someone over 50?  
+#### What’s a safe diastolic number during hot yoga for someone over 50?  
 There’s no universal “safe” number—but diastolic pressure dipping into the 60s *during* class is common and typically fine if you feel okay and rebound quickly. Sustained readings below 55 mm Hg at rest, however, deserve follow-up.
 
-#### #### Does prehypertension make diastolic hypotension hot yoga adults 52-66 more likely?  
+#### Does prehypertension make diastolic hypotension hot yoga adults 52-66 more likely?  
 Paradoxically, yes. Prehypertension often involves stiffening of large arteries but preserved (or even enhanced) relaxation in smaller vessels—making them more responsive to heat-induced vasodilation. This can lead to greater diastolic drops despite higher baseline numbers.

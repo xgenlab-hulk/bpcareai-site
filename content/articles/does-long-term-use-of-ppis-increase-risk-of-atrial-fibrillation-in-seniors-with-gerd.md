@@ -83,22 +83,22 @@ If you're unsure, talking to your doctor is always a good idea. And remember: yo
 
 ### FAQ
 
-#### #### Are PPIs linked to atrial fibrillation in older adults?
+#### Are PPIs linked to atrial fibrillation in older adults?
 
 Yes—several large observational studies and recent meta-analyses suggest a modest association between long-term PPI use (especially >1 year) and increased AFib incidence in adults aged 65+. However, the absolute risk remains low, and other health factors often play a larger role.
 
-#### #### Do PPIs atrial fibrillation risk seniors GERD more if they’re on blood thinners?
+#### Do PPIs atrial fibrillation risk seniors GERD more if they’re on blood thinners?
 
 Not directly—but the combination warrants careful review. Anticoagulants increase bleeding risk, and untreated GERD or esophagitis can worsen that risk. At the same time, PPIs may influence electrolyte balance (e.g., magnesium), which supports healthy heart rhythm. Your doctor can help balance GI protection with heart health priorities.
 
-#### #### Can stopping PPIs suddenly cause AFib or heart problems?
+#### Can stopping PPIs suddenly cause AFib or heart problems?
 
 No—stopping PPIs abruptly does not *cause* AFib. However, rebound acid hypersecretion may temporarily worsen GERD symptoms, leading to stress or discomfort that some mistake for heart-related issues. Always taper under medical guidance.
 
-#### #### What’s the safest GERD medication for seniors with heart concerns?
+#### What’s the safest GERD medication for seniors with heart concerns?
 
 For many, stepping down to on-demand H2 blockers (e.g., famotidine) or using PPIs intermittently—alongside lifestyle changes—is both effective and heart-friendly. Pantoprazole tends to have fewer interactions with common heart medications than omeprazole or esomeprazole.
 
-#### #### How often should seniors on PPIs get heart and magnesium checks?
+#### How often should seniors on PPIs get heart and magnesium checks?
 
 We recommend checking serum magnesium, potassium, and kidney function (creatinine/eGFR) at least once a year—and more often if you have heart disease, take diuretics, or notice symptoms like muscle cramps or irregular pulse. An annual ECG or pulse check during routine visits also supports early AFib detection.

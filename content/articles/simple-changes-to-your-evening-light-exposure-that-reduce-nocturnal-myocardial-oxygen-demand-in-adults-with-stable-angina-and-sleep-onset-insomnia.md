@@ -91,17 +91,17 @@ Heart disease—including stable angina—is deeply influenced by daily rhythms 
 
 ### FAQ
 
-#### #### Can evening light exposure angina oxygen demand be reduced without changing medications?
+#### Can evening light exposure angina oxygen demand be reduced without changing medications?
 Yes. Clinical studies show that shifting to amber-filtered lighting for 2–3 hours before bed reduces nocturnal heart rate by an average of 6–9 bpm and lowers systolic BP surges by 12–15 mm Hg—effects observed independently of antianginal drug regimens. These changes reflect decreased sympathetic drive and improved circadian alignment, not pharmacologic action.
 
-#### #### Does evening light exposure angina oxygen demand affect people with stable angina differently than those with other forms of heart disease?
+#### Does evening light exposure angina oxygen demand affect people with stable angina differently than those with other forms of heart disease?
 Yes. Individuals with stable angina have fixed coronary stenoses, meaning myocardial oxygen supply is less adaptable during periods of increased demand—even subtle increases matter. In contrast, those with heart failure or arrhythmias may experience different primary triggers (e.g., fluid shifts or vagal withdrawal). Still, light-induced sympathetic activation can worsen symptoms across many cardiovascular conditions.
 
-#### #### How late can I use amber lighting before bed and still see benefits for angina and sleep?
+#### How late can I use amber lighting before bed and still see benefits for angina and sleep?
 For optimal melatonin support and reduced nocturnal oxygen demand, begin using amber lighting consistently starting at 7 p.m. Benefits are strongest when maintained until at least 30 minutes before your target bedtime. Using amber light only in the final 15 minutes has limited impact—timing and duration both matter.
 
-#### #### Is there a specific lux level I should aim for with evening lighting to protect my heart?
+#### Is there a specific lux level I should aim for with evening lighting to protect my heart?
 Yes. Research suggests maintaining ambient light levels ≤40 lux between 7–11 p.m., using amber-spectrum sources (<1% blue light below 480 nm). At this intensity, melatonin suppression is minimal, and nocturnal BP and heart rate remain significantly lower compared to equivalent intensities of cool-white light.
 
-#### #### Can reducing evening light exposure angina oxygen demand help prevent angina episodes at night?
+#### Can reducing evening light exposure angina oxygen demand help prevent angina episodes at night?
 Evidence suggests yes—indirectly. While no intervention eliminates angina risk entirely, lowering nocturnal myocardial oxygen demand decreases the likelihood that transient BP surges or heart rate elevations will exceed the oxygen supply threshold in narrowed coronary arteries. In clinical trials, participants reported 30–40% fewer nocturnal or early-morning angina episodes after 4 weeks of amber-light protocols.

@@ -52,22 +52,22 @@ In closing, supporting *pancreatic beta-cell resilience festive eating* isn’t 
 
 ### FAQ
 
-#### #### Can fenugreek and flax oil really protect beta cells during holiday meals?
+#### Can fenugreek and flax oil really protect beta cells during holiday meals?
 
 Yes—pilot data from 2022–2023 in adults 61+ with type 2 diabetes (duration ≥10 years) showed improved biomarkers of ER stress and beta-cell function when both were used *post-meal* and *together*. Effects were modest but clinically meaningful—especially for sustaining insulin response across multiple festive days.
 
-#### #### Is pancreatic beta-cell resilience festive eating possible without medication changes?
+#### Is pancreatic beta-cell resilience festive eating possible without medication changes?
 
 Absolutely. The pilot study excluded participants who adjusted diabetes medications during the 8-week intervention. Support came entirely from timed nutrition—no dose changes, no supplements beyond fenugreek infusion and flax oil.
 
-#### #### How does pancreatic beta-cell resilience festive eating differ from general blood sugar control?
+#### How does pancreatic beta-cell resilience festive eating differ from general blood sugar control?
 
 General glucose control focuses on *outcomes* (e.g., HbA1c, readings). *Pancreatic beta-cell resilience festive eating* targets the *cellular mechanisms*—like reducing ER stress and enhancing antioxidant capacity—that allow beta cells to keep functioning well *despite* dietary challenges. It’s prevention-oriented, not just correction-oriented.
 
-#### #### Do I need special testing to know if this approach is helping?
+#### Do I need special testing to know if this approach is helping?
 
 Not necessarily. You can observe trends: fewer glucose spikes >200 mg/dL after meals, less “crash” 2–3 hours post-dinner, and steadier energy. For deeper insight, ask your provider about a stimulated C-peptide test or CGM-derived glycemic variability metrics.
 
-#### #### Can I use ground fenugreek or flaxseed instead of whole seeds and oil?
+#### Can I use ground fenugreek or flaxseed instead of whole seeds and oil?
 
 Whole fenugreek seeds (for infusion) and cold-pressed *oil* (not ground flaxseed) were used in the pilot. Grinding fenugreek alters release kinetics; ground flax lacks the concentrated ALA bioavailability needed for the observed Nrf2 effect. Stick to the studied forms for consistency.

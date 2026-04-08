@@ -107,22 +107,22 @@ It’s easy to feel like rising nighttime systolic pressure women over 68 is jus
 
 ### FAQ
 
-#### #### Why does my blood pressure go up at night even though it's normal during the day?
+#### Why does my blood pressure go up at night even though it's normal during the day?
 
 This is called *non-dipping*, and it’s more common than many realize—especially among women over 68. It often reflects subtle imbalances in circadian regulation, such as light exposure, GERD, or delayed caffeine clearance—not necessarily serious disease, but worth understanding and addressing.
 
-#### #### What is a normal nighttime systolic pressure for women over 68?
+#### What is a normal nighttime systolic pressure for women over 68?
 
 A healthy nighttime systolic pressure for women over 68 typically falls between 90–110 mm Hg—and should be at least 10% lower than your average daytime reading. Consistently higher numbers (e.g., >115 mm Hg) suggest non-dipping and may warrant further review.
 
-#### #### Can nighttime systolic pressure women over 68 be lowered without medication?
+#### Can nighttime systolic pressure women over 68 be lowered without medication?
 
 Yes—in many cases. Lifestyle strategies like optimizing sleep hygiene, adjusting sodium and caffeine timing, managing GERD, and supporting relaxation have been shown to restore healthier dipping patterns—often within 4–8 weeks.
 
-#### #### Is nighttime high blood pressure a sign of heart problems?
+#### Is nighttime high blood pressure a sign of heart problems?
 
 Not always—but it *is* a recognized marker of increased cardiovascular risk. Elevated nighttime systolic pressure women over 68 is associated with higher rates of stroke, heart failure, and kidney decline over time. Early awareness gives you time to act with gentleness and purpose.
 
-#### #### How often should I check my nighttime blood pressure?
+#### How often should I check my nighttime blood pressure?
 
 For initial assessment, aim for 7 consecutive nights—including weekends. Once a pattern is understood, checking 2–3 times per week is usually sufficient for ongoing tracking. Always pair readings with notes about sleep, meals, and how you felt that day.

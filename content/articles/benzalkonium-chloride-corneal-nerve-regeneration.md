@@ -89,22 +89,22 @@ Understanding how everyday choices—like which eye drops to use—interact with
 
 ### FAQ
 
-#### #### Does benzalkonium chloride corneal nerve regeneration improve after stopping BAK eye drops?
+#### Does benzalkonium chloride corneal nerve regeneration improve after stopping BAK eye drops?
 
 Yes—studies indicate partial recovery of nerve density and function within 3–6 months of discontinuing BAK exposure, especially when combined with preservative-free lubrication and optimal glycemic control. However, full restoration is less likely in adults over 76 with longstanding diabetes, underscoring the value of early prevention.
 
-#### #### Can benzalkonium chloride corneal nerve regeneration be measured at home?
+#### Can benzalkonium chloride corneal nerve regeneration be measured at home?
 
 No—corneal nerve imaging requires specialized equipment like in vivo confocal microscopy, available only in select ophthalmology or research settings. At-home assessments (e.g., symptom diaries or staining kits) offer supportive clues but cannot quantify nerve structure or regeneration directly.
 
-#### #### Are all over-the-counter eye drops unsafe for people with diabetic keratopathy?
+#### Are all over-the-counter eye drops unsafe for people with diabetic keratopathy?
 
 Not all—but many popular OTC brands contain BAK. Always check the “inactive ingredients” list on packaging or package insert. Preservative-free artificial tears, gels, or ointments are safer first-line options. If you need medicated drops (e.g., for allergy or redness), ask your eye doctor about BAK-free alternatives.
 
-#### #### How does diabetes affect corneal nerve regeneration overall?
+#### How does diabetes affect corneal nerve regeneration overall?
 
 Diabetes impairs corneal nerve regeneration through multiple pathways: chronic hyperglycemia causes oxidative stress and advanced glycation end-product (AGE) accumulation in nerve fibers; microvascular insufficiency reduces nutrient delivery; and dysregulated neurotrophins (e.g., NGF, GDNF) blunt regenerative signaling. This creates a baseline vulnerability that BAK exposure can further compromise.
 
-#### #### Is there a link between high blood pressure and corneal nerve health?
+#### Is there a link between high blood pressure and corneal nerve health?
 
 While hypertension isn’t a direct cause of corneal neuropathy, uncontrolled arterial pressure contributes to microvascular dysfunction—worsening perfusion to the limbal stem cell niche and corneal nerves. Observational data suggest adults with both diabetes and hypertension (BP ≥140/90 mm Hg) experience 20% faster corneal nerve loss over 5 years versus those with well-managed BP.

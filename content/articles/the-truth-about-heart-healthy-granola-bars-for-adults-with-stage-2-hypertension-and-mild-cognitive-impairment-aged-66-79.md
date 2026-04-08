@@ -52,22 +52,22 @@ In short, “heart healthy granola bars for hypertension and mci” shouldn’t 
 
 ### FAQ
 
-#### #### Are there any store-bought granola bars truly safe for someone with hypertension and mild cognitive impairment?
+#### Are there any store-bought granola bars truly safe for someone with hypertension and mild cognitive impairment?
 
 Yes — but they’re rare. Look specifically for bars certified by the American Heart Association’s Heart-Check program *and* verified low in added sugar (≤5 g) and sodium (≤120 mg). Brands with minimalist ingredient lists — oats, almonds, pumpkin seeds, cinnamon — are your best starting point.
 
-#### #### Can “heart healthy granola bars for hypertension and mci” actually worsen memory symptoms?
+#### Can “heart healthy granola bars for hypertension and mci” actually worsen memory symptoms?
 
 Potentially — yes. High sodium intake correlates with reduced hippocampal perfusion in older adults, while high-glycemic snacks promote postprandial inflammation linked to amyloid-beta dysregulation. If you notice mental fogginess or slower processing after eating a particular bar, it may be affecting cerebral blood flow stability.
 
-#### #### What’s the biggest hidden danger in so-called “heart healthy granola bars for hypertension and mci”?
+#### What’s the biggest hidden danger in so-called “heart healthy granola bars for hypertension and mci”?
 
 The biggest hidden danger is *ultra-processing*, not just sugar or salt alone. Emulsifiers and stabilizers can disrupt the gut-brain axis and promote neuroinflammation — a known contributor to both BP variability and MCI progression.
 
-#### #### Do all granola bars raise blood pressure?
+#### Do all granola bars raise blood pressure?
 
 No — only those high in sodium, refined carbohydrates, or inflammatory additives. A bar with 80 mg sodium, 3 g fiber, and 2 g protein from whole nuts won’t trigger the same vascular response as one with 280 mg sodium and 12 g added sugar.
 
-#### #### How often can I safely eat a granola bar if I have stage 2 hypertension and MCI?
+#### How often can I safely eat a granola bar if I have stage 2 hypertension and MCI?
 
 Ideally, no more than 2–3 times per week — and only after verifying its nutritional profile matches your targets. Better yet: reserve them for active days when metabolic demand supports glucose utilization, and always pair with a source of protein or healthy fat to blunt glycemic impact.

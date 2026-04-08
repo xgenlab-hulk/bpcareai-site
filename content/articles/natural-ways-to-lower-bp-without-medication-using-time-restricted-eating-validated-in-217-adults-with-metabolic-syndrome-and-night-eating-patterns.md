@@ -76,22 +76,22 @@ Lowering blood pressure naturally isn’t about drastic measures or willpower—
 
 ### FAQ
 
-#### #### Does time-restricted eating blood pressure metabolic syndrome work for older adults?
+#### Does time-restricted eating blood pressure metabolic syndrome work for older adults?
 
 Yes—clinical trials specifically enrolling adults aged 50–75 with metabolic syndrome show consistent BP reductions (average −7 to −10 mm Hg systolic) with 8–10 hour TRE windows. Benefits are enhanced when combined with adequate sleep and physical activity.
 
-#### #### How does time-restricted eating blood pressure compare to other non-drug approaches?
+#### How does time-restricted eating blood pressure compare to other non-drug approaches?
 
 TRE complements—but doesn’t replace—other evidence-based strategies like aerobic exercise, sodium moderation (<1,500 mg/day), and potassium-rich foods. What makes it unique is its focus on *when*, not just *what* or *how much*: it targets circadian drivers of hypertension that diet-only or exercise-only plans may miss.
 
-#### #### Can time-restricted eating blood pressure help if I’m already on medication?
+#### Can time-restricted eating blood pressure help if I’m already on medication?
 
 Many participants in the 217-adult trial were on stable antihypertensive regimens and still experienced additional BP lowering with TRE. However, never reduce or stop medications without consulting your physician—your provider may adjust dosages based on sustained improvements.
 
-#### #### Is it safe to skip dinner to practice time-restricted eating?
+#### Is it safe to skip dinner to practice time-restricted eating?
 
 No—skipping meals isn’t required or recommended. TRE emphasizes consistency and timing, not deprivation. A balanced, satisfying dinner within your window supports adherence and metabolic stability. Focus on nutrient density, not omission.
 
-#### #### How long before I see changes in my blood pressure with time-restricted eating?
+#### How long before I see changes in my blood pressure with time-restricted eating?
 
 Most people notice modest improvements in morning BP and energy within 1–2 weeks. Clinically meaningful reductions (≥5 mm Hg systolic) typically emerge after 4–6 weeks of consistent practice—especially when paired with good sleep and hydration.

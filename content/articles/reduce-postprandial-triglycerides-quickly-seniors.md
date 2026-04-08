@@ -94,22 +94,22 @@ Supporting healthy lipid metabolism doesn’t require drastic change—or pushin
 
 ### FAQ
 
-#### #### Can I really reduce postprandial triglycerides quickly seniors without medication?
+#### Can I really reduce postprandial triglycerides quickly seniors without medication?
 
 Yes—especially with strategies that support your body’s built-in clearance systems. The 20-minute post-meal protocol (seated calf contractions + cold facial immersion) was shown in clinical research to lower 2-hour triglyceride peaks by nearly one-third in adults 61+ with diabetes and mixed dyslipidemia—no drugs required. It’s not about eliminating fat, but helping your liver process it more smoothly.
 
-#### #### What’s the safest way to reduce postprandial triglycerides quickly seniors with diabetes?
+#### What’s the safest way to reduce postprandial triglycerides quickly seniors with diabetes?
 
 Safety starts with simplicity and stability. This means avoiding sudden standing, overheating, or breath-holding. The seated calf raises are isometric (no joint motion), and the facial cooling uses lukewarm-to-cool—not ice-cold—water. Always check with your doctor first if you have autonomic neuropathy, uncontrolled hypertension, or recent cardiac events—but for most adults with well-managed diabetes, this approach is both safe and supportive.
 
-#### #### Does walking after dinner help reduce postprandial triglycerides quickly seniors?
+#### Does walking after dinner help reduce postprandial triglycerides quickly seniors?
 
 Walking is beneficial overall—but not always optimal for *quick* triglyceride clearance in older adults. Studies show moderate walking *starts* lowering post-meal triglycerides after ~30–45 minutes, and its effect is more pronounced with longer duration (≥45 min). In contrast, the seated calf + facial cooling protocol begins influencing vagal signaling *within minutes*, making it uniquely suited for those who prefer low-effort, immediate-action strategies—especially after larger or higher-fat meals.
 
-#### #### How soon after eating should I do the protocol to reduce postprandial triglycerides quickly seniors?
+#### How soon after eating should I do the protocol to reduce postprandial triglycerides quickly seniors?
 
 For best results, begin the sequence within 15–20 minutes of finishing your meal—ideally before you’ve fully relaxed or lain down. This aligns with peak chylomicron entry into circulation and maximal vagal sensitivity. Waiting until 60+ minutes post-meal reduces effectiveness, as the initial signaling window closes.
 
-#### #### Are there foods I should avoid to help reduce postprandial triglycerides quickly seniors?
+#### Are there foods I should avoid to help reduce postprandial triglycerides quickly seniors?
 
 Rather than strict avoidance, focus on *timing and pairing*. For example: spreading fat intake across meals (rather than one high-fat dinner), choosing monounsaturated fats (olive oil, nuts) over refined carbohydrates *at the same meal*, and including modest fiber (like cooked vegetables or legumes) can smooth the triglyceride curve. Interestingly, the protocol works *regardless* of meal composition—making it especially helpful on days when dietary control isn’t perfect.

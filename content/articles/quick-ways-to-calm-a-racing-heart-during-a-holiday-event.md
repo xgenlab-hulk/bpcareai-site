@@ -107,22 +107,22 @@ Feeling your heart race during a holiday event doesn’t mean you must retreat o
 
 ### FAQ
 
-#### #### What are the fastest ways to calm a racing heart during a holiday party?
+#### What are the fastest ways to calm a racing heart during a holiday party?
 
 The fastest evidence-supported methods include the 4-7-8 breathing technique (takes <2 minutes), cold facial immersion with a chilled washcloth (effective within 30–60 seconds), and the modified Valsalva maneuver. All work by stimulating the vagus nerve to slow heart rate naturally—no medication required.
 
-#### #### How can I calm a racing heart holiday without medication?
+#### How can I calm a racing heart holiday without medication?
 
 You can calm a racing heart holiday without medication by combining hydration, gentle vagal maneuvers (like slow diaphragmatic breathing or cold exposure), and removing known triggers—such as stepping away from loud noise, limiting caffeine, and sitting quietly for 2–3 minutes. Consistent practice builds resilience over time.
 
-#### #### Is holiday heart syndrome preventable?
+#### Is holiday heart syndrome preventable?
 
 Yes—holiday heart syndrome is largely preventable through mindful habits: moderating alcohol (no more than 1 drink/day for women, 2 for men), prioritizing sleep, staying hydrated, eating balanced meals, and managing stress with proven relaxation techniques. Prevention starts days—or weeks—before the event.
 
-#### #### Why does my heart race after eating holiday foods?
+#### Why does my heart race after eating holiday foods?
 
 Rich, high-sodium, high-carbohydrate meals trigger insulin surges and shift autonomic balance toward sympathetic dominance. Dehydration from salty foods or alcohol further elevates heart rate. Postprandial palpitations are especially common in adults with insulin resistance or hypertension.
 
-#### #### Can deep breathing really lower heart rate during palpitations?
+#### Can deep breathing really lower heart rate during palpitations?
 
 Yes—clinical studies confirm that paced breathing (especially at ~6 breaths/minute) increases vagal tone and reduces heart rate by an average of 5–10 bpm within 90 seconds. It’s one of the safest, most accessible tools for adults 50+, with no contraindications.

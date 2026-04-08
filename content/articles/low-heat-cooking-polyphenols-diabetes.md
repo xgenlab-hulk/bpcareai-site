@@ -59,22 +59,22 @@ You don’t need perfect meals to support your brain’s blood supply. What matt
 
 ### FAQ
 
-#### #### Does low heat cooking polyphenols diabetes really improve brain blood flow?
+#### Does low heat cooking polyphenols diabetes really improve brain blood flow?
 
 Yes—clinical evidence shows that consistent intake of gently prepared polyphenol-rich foods (e.g., steamed onions, sous-vide berries) is associated with measurable improvements in cerebral perfusion. A 2023 pilot study reported a 9–14% increase in middle cerebral artery velocity in adults 65+ with type 2 diabetes after eight weeks of low-heat-prepared berry-onion interventions—without changes in medication or exercise.
 
-#### #### What’s the safest low heat cooking polyphenols diabetes method for someone with gastroparesis?
+#### What’s the safest low heat cooking polyphenols diabetes method for someone with gastroparesis?
 
 Steaming is generally best—short duration (≤4 minutes), minimal added fiber, and no oil required. Avoid sous-vide if fat tolerance is low, and skip raw onions entirely, as their fructans can worsen delayed gastric emptying. Lightly steamed red onion (thin slices, 3 minutes) retains quercetin while reducing fermentable load.
 
-#### #### Can I use a microwave for low heat cooking polyphenols diabetes purposes?
+#### Can I use a microwave for low heat cooking polyphenols diabetes purposes?
 
 Microwaving *can* preserve polyphenols—if carefully controlled. Use low power (30–50%), add minimal water (<1 tsp), and limit time (60–90 sec for ½ cup berries). However, uneven heating creates hot spots that degrade anthocyanins locally—so steaming remains more reliable for consistent retention.
 
-#### #### How does low heat cooking affect blood sugar response compared to raw berries?
+#### How does low heat cooking affect blood sugar response compared to raw berries?
 
 Gentle heating (e.g., steaming) slightly increases the glycemic index of berries—from ~40 (raw) to ~48—due to partial starch gelatinization and softened fiber. But this modest rise is offset by enhanced polyphenol bioavailability, which improves postprandial endothelial function and insulin sensitivity. For most adults with well-managed type 2 diabetes, the net vascular benefit outweighs the minor glucose effect.
 
-#### #### Do frozen berries lose polyphenols during storage—and does low heat cooking polyphenols diabetes still apply?
+#### Do frozen berries lose polyphenols during storage—and does low heat cooking polyphenols diabetes still apply?
 
 Frozen berries retain >95% of polyphenols for up to 12 months at −18°C. In fact, freezing ruptures cell walls, making anthocyanins *more* accessible during gentle cooking. So yes—frozen wild blueberries, steamed for 3 minutes, are an excellent, practical choice for *low heat cooking polyphenols diabetes* support.

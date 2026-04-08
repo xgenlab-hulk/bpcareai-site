@@ -69,17 +69,17 @@ In short, enjoying eggnog during the holidays is entirely compatible with heart 
 
 ### FAQ
 
-#### #### Does eggnog and QT prolongation risk apply to everyone over 50?
+#### Does eggnog and QT prolongation risk apply to everyone over 50?
 No—it primarily concerns adults with existing subclinical QT prolongation, certain medications, or electrolyte imbalances. For most healthy individuals over 50, moderate eggnog consumption carries minimal electrophysiological impact.
 
-#### #### Can non-alcoholic eggnog still affect QT interval?
+#### Can non-alcoholic eggnog still affect QT interval?
 Unlikely. Without ethanol, the main QT-modulating ingredient is removed. However, very high-calcium or high-sugar versions *could* influence electrolyte shifts in sensitive individuals—so portion awareness still helps.
 
-#### #### How does eggnog and QT prolongation risk compare to other holiday drinks?
+#### How does eggnog and QT prolongation risk compare to other holiday drinks?
 Eggnog presents a more complex interaction than wine or beer due to its combination of alcohol, dairy calcium, fat, and often added sugar. Spirits alone (e.g., whiskey neat) pose less repolarization burden than eggnog *with* added spirits—making moderation especially relevant.
 
-#### #### Is QT prolongation reversible after stopping eggnog?
+#### Is QT prolongation reversible after stopping eggnog?
 Yes—in virtually all cases where eggnog was the sole contributing factor, QT intervals return to baseline within 24–48 hours once alcohol clears and electrolytes stabilize.
 
-#### #### Should I get an ECG before holiday parties if I’m 62 and love eggnog?
+#### Should I get an ECG before holiday parties if I’m 62 and love eggnog?
 Not unless you have symptoms (e.g., unexplained palpitations) or known risk factors. A routine ECG is reasonable during your annual physical—but it’s not required solely for eggnog enjoyment.

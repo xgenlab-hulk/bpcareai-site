@@ -91,22 +91,22 @@ Lowering central aortic pressure without medication is absolutely achievable—a
 
 ### FAQ
 
-#### #### Can lowering central aortic pressure without medication really help if my arm BP is normal?
+#### Can lowering central aortic pressure without medication really help if my arm BP is normal?
 
 Yes. Because central aortic pressure can be significantly higher than brachial readings—especially with arterial stiffness—it’s an independent predictor of heart and brain health. Studies confirm that non-drug interventions like isometric handgrip and nitrate-rich diets meaningfully reduce central pressure *even when arm BP stays unchanged*.
 
-#### #### What’s the safest way to lower central aortic pressure without medication for someone over 65?
+#### What’s the safest way to lower central aortic pressure without medication for someone over 65?
 
 The safest, best-studied approaches include daily diaphragmatic breathing (6 breaths/minute), moderate aerobic walking (30 min, 5x/week), and dietary nitrates (beet greens, arugula). All have strong safety profiles in older adults and were included in trials like BPRO and SPRINT-Heart with minimal adverse events.
 
-#### #### Does magnesium help lower central aortic pressure without medication?
+#### Does magnesium help lower central aortic pressure without medication?
 
 Yes—particularly in adults with suboptimal magnesium status, which is common after age 60. Clinical trials show oral magnesium supplementation (300–400 mg/day) improves endothelial function and reduces central systolic pressure by ~4–6 mm Hg over 12 weeks.
 
-#### #### How long does it take to see results when trying to lower central aortic pressure without medication?
+#### How long does it take to see results when trying to lower central aortic pressure without medication?
 
 Most evidence-based protocols show measurable improvements in central hemodynamics within 4–8 weeks—especially with consistent isometric handgrip, nitrate intake, or breathing practice. Pulse wave velocity changes may take 12–16 weeks, reflecting structural arterial adaptation.
 
-#### #### Is central aortic pressure the same as central blood pressure?
+#### Is central aortic pressure the same as central blood pressure?
 
 Yes—“central aortic pressure” and “central blood pressure” refer to the same measurement: the pressure waveform in the ascending aorta. It’s distinct from peripheral (brachial or radial) pressure and offers a more accurate picture of cardiac workload and end-organ exposure.

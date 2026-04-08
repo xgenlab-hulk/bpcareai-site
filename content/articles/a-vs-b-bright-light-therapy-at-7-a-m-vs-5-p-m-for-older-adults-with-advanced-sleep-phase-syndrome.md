@@ -68,22 +68,22 @@ Managing ASPS and seasonal depression in older adults isn’t about forcing a �
 
 ### FAQ
 
-#### #### Is morning vs evening light therapy for ASPS equally effective for older adults?
+#### Is morning vs evening light therapy for ASPS equally effective for older adults?
 
 No. Research shows morning light (e.g., 7 a.m.) is significantly more effective than evening light (e.g., 5 p.m.) for producing therapeutic phase delays in older adults with ASPS. Evening light near melatonin onset may even reinforce early sleep timing.
 
-#### #### What’s the best time for light therapy if I have ASPS and seasonal depression in older adults?
+#### What’s the best time for light therapy if I have ASPS and seasonal depression in older adults?
 
 For most adults over 65 with ASPS, light therapy between 6:30–7:30 a.m. is optimal—ideally starting within 30 minutes of spontaneous wake time. This timing maximizes melatonin suppression and phase-delaying effects while supporting mood regulation.
 
-#### #### Can light therapy worsen ASPS if used at the wrong time?
+#### Can light therapy worsen ASPS if used at the wrong time?
 
 Yes. Light exposure in the early evening (5–7 p.m.) may coincide with rising melatonin levels and inadvertently strengthen the advanced circadian phase—leading to earlier sleep onset and earlier morning awakenings.
 
-#### #### Do I need a prescription for a light therapy box?
+#### Do I need a prescription for a light therapy box?
 
 No, most light therapy devices are available over the counter. However, choose one certified for 10,000 lux at a comfortable viewing distance (16–24 inches), UV-filtered, and clinically validated. Discuss use with your doctor if you have retinal disease, bipolar disorder, or take photosensitizing medications.
 
-#### #### How long does it take to see results from morning vs evening light therapy for ASPS?
+#### How long does it take to see results from morning vs evening light therapy for ASPS?
 
 Most people notice gradual improvements in sleep timing and daytime alertness after 1–2 weeks, with maximal phase shifts occurring over 3–4 weeks of consistent use. Mood benefits from light therapy for seasonal depression in older adults typically emerge within 2–3 weeks.

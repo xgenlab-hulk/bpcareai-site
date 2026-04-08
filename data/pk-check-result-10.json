@@ -1,0 +1,11 @@
+{
+  "batch_id": 10,
+  "total_articles": 4,
+  "quality_distribution": {
+    "excellent": 3,
+    "good": 1,
+    "needs_improvement": 0,
+    "poor": 0
+  },
+  "needs_optimization": []
+}

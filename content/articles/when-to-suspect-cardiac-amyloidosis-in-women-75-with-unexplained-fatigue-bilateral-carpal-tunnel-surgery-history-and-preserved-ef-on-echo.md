@@ -73,17 +73,17 @@ In recent years, treatments like tafamidis have shown strong evidence for slowin
 
 ### FAQ
 
-#### #### Could carpal tunnel surgery be linked to heart problems later in life?
+#### Could carpal tunnel surgery be linked to heart problems later in life?
 Yes—particularly bilateral carpal tunnel release in women over 70. It’s associated with a higher likelihood of wild-type transthyretin cardiac amyloidosis, as both involve TTR protein deposits in different tissues.
 
-#### #### What are the top symptoms of cardiac amyloidosis in women?
+#### What are the top symptoms of cardiac amyloidosis in women?
 Fatigue is the most common early symptom—often dismissed as “just aging.” Others include shortness of breath with mild exertion, leg swelling, orthostatic dizziness, and unexplained weight gain. Importantly, many women maintain a normal ejection fraction (EF) on echo for years before diagnosis.
 
-#### #### Is cardiac amyloidosis women carpal tunnel fatigue more common in older women?
+#### Is cardiac amyloidosis women carpal tunnel fatigue more common in older women?
 Yes. Wild-type TTR amyloidosis increases sharply after age 70, and women account for over 60% of diagnosed cases in this age group—likely due to longer lifespan and underdiagnosis in earlier decades.
 
-#### #### Does normal blood pressure rule out cardiac amyloidosis?
+#### Does normal blood pressure rule out cardiac amyloidosis?
 No. Blood pressure readings can remain normal or even low in advanced cases. Cardiac amyloidosis affects heart *relaxation* and filling—not necessarily pumping pressure—so arterial pressure alone doesn’t reflect heart muscle health.
 
-#### #### Can fatigue from cardiac amyloidosis improve with treatment?
+#### Can fatigue from cardiac amyloidosis improve with treatment?
 Yes—many women report meaningful improvements in energy, stamina, and daily function after starting appropriate therapies like tafamidis, especially when treatment begins before significant heart damage occurs.

@@ -56,17 +56,17 @@ Gardening with diabetes doesn’t mean choosing between wellness and safety — 
 
 ### FAQ
 
-#### #### Can gardening affect my diabetes medications?
+#### Can gardening affect my diabetes medications?
 Yes — especially if you’re using sulfonylureas (like glipizide) or insulin. Physical activity from gardening lowers blood glucose, and sun exposure may heighten skin sensitivity. Always check your blood sugar before and after gardening, and carry fast-acting carbs (like glucose tablets) just in case.
 
-#### #### What is gardening diabetes medication safety — and why does it matter for seniors?
+#### What is gardening diabetes medication safety — and why does it matter for seniors?
 *Gardening diabetes medication safety* refers to understanding how common garden activities, plants, and exposures interact with diabetes drugs and related conditions (like neuropathy or high blood pressure). For adults over 60, slower metabolism, thinner skin, and reduced sensation mean these interactions carry greater weight — but they’re easily managed with awareness.
 
-#### #### Are there herbs I shouldn’t grow if I take blood thinners?
+#### Are there herbs I shouldn’t grow if I take blood thinners?
 Yes. Rosemary, parsley, sage, and thyme are rich in vitamin K — which can counteract warfarin. While occasional culinary use is usually fine, regularly harvesting and consuming large amounts may require dose adjustments. Talk to your pharmacist before planting an herb garden.
 
-#### #### How often should I check my feet if I have neuropathy and garden?
+#### How often should I check my feet if I have neuropathy and garden?
 Inspect your feet *daily*, and especially after each gardening session — using a mirror or asking a family member for help. Look for blisters, redness, cuts, or swelling. Early detection prevents 85% of diabetes-related amputations.
 
-#### #### Does gardening raise blood pressure?
+#### Does gardening raise blood pressure?
 Not typically — in fact, moderate gardening often lowers BP by ~5–10 mm Hg. However, dehydration, extreme heat, or overexertion (like lifting heavy bags of soil) can temporarily elevate systolic pressure. Stay hydrated, pace yourself, and avoid peak heat hours to keep your arterial pressure steady.

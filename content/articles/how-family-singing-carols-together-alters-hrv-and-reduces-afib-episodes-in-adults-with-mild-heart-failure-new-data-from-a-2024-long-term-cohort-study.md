@@ -93,22 +93,22 @@ If you're unsure, talking to your doctor is always a good idea. And if you’re 
 
 ### FAQ
 
-#### #### Does caroling and heart rate variability in elderly people really change measurable cardiac outcomes?
+#### Does caroling and heart rate variability in elderly people really change measurable cardiac outcomes?
 
 Yes—according to the 2024 cohort study, adults aged 66–83 who sang carols with family for ≥20 minutes twice weekly showed statistically significant increases in HF-HRV (+18%), reductions in AFib episode frequency (−37% over 12 months), and lower average daytime systolic BP (−5.2 mm Hg). These changes persisted beyond the holiday season, suggesting durable autonomic adaptation.
 
-#### #### Can caroling and heart rate variability in elderly adults help prevent holiday heart syndrome?
+#### Can caroling and heart rate variability in elderly adults help prevent holiday heart syndrome?
 
 “Holiday heart syndrome” traditionally refers to alcohol-triggered arrhythmias—but emerging research broadens the concept to include stress- and isolation-related cardiac strain during festive periods. Because caroling lowers cortisol, enhances vagal tone, and counters social disconnection, it functions as a non-pharmacologic preventive strategy—especially for those prone to stress-induced AFib or BP spikes.
 
-#### #### How often should older adults sing to see benefits in caroling and heart rate variability in elderly cohorts?
+#### How often should older adults sing to see benefits in caroling and heart rate variability in elderly cohorts?
 
 In the study, participants who sang at least two times per week for 15–25 minutes achieved clinically meaningful HRV improvements within 8–10 weeks. Daily brief sessions (even 5–10 minutes) also conferred benefits—but consistency mattered more than duration. Importantly, singing alone did *not* yield the same results; family participation was a key moderating factor.
 
-#### #### Is caroling safe for people with pacemakers or implanted defibrillators?
+#### Is caroling safe for people with pacemakers or implanted defibrillators?
 
 Yes—caroling is considered low-risk for adults with cardiac devices. No adverse events related to device function were reported in the 2024 study. However, if singing causes chest discomfort, excessive fatigue, or dizziness, stop and consult your electrophysiologist. Avoid extremely loud or prolonged vocal exertion (e.g., shouting-style carols) without prior clearance.
 
-#### #### Do I need to sing in tune for caroling and heart rate variability in elderly adults to work?
+#### Do I need to sing in tune for caroling and heart rate variability in elderly adults to work?
 
 No. The physiological benefits arise from coordinated breathing, rhythmic entrainment, and social engagement—not vocal precision. In fact, the study noted higher adherence and greater HRV gains among participants who embraced playful, imperfect singing—suggesting psychological safety may amplify autonomic effects.

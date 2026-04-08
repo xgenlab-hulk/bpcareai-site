@@ -57,17 +57,17 @@ In summary, postprandial hypotension is treatable, predictable, and responsive t
 
 ### FAQ
 
-#### #### What’s the fastest way to raise blood pressure after eating for seniors?
+#### What’s the fastest way to raise blood pressure after eating for seniors?
 The most rapid, evidence-supported method is combining supine leg elevation (45–60° for 60 seconds) with expiratory resistance breathing—shown to increase systolic BP by 15–25 mm Hg within one minute in adults 74+.
 
-#### #### Is there a real quick fix for postprandial hypotension seniors that works without medication?
+#### Is there a real quick fix for postprandial hypotension seniors that works without medication?
 Yes—this non-drug protocol has been taught in geriatric cardiology clinics since 2020 and is endorsed in the American College of Cardiology’s 2023 Older Adult Hypertension Consensus Statement as first-line for mild-to-moderate postprandial hypotension.
 
-#### #### Can drinking coffee or salt help as a quick fix for postprandial hypotension seniors?
+#### Can drinking coffee or salt help as a quick fix for postprandial hypotension seniors?
 Caffeine may modestly delay gastric emptying but doesn’t reverse acute drops—and excess sodium increases heart disease risk in older adults. Neither offers reliable, immediate BP elevation like the supine + breathing maneuver.
 
-#### #### Does walking after meals make postprandial hypotension worse?
+#### Does walking after meals make postprandial hypotension worse?
 Yes—especially brisk walking within 30 minutes of eating. Physical activity further redistributes blood flow away from the brain and heart. Wait at least 60–90 minutes before moderate activity.
 
-#### #### How often should I do this maneuver?
+#### How often should I do this maneuver?
 Use it *only* when symptomatic—or prophylactically once daily after your largest meal if you’ve had confirmed postprandial drops. Overuse isn’t necessary or beneficial.

@@ -92,22 +92,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Is toe-tap exercise for diabetic circulation safe for people with neuropathy?
+#### Is toe-tap exercise for diabetic circulation safe for people with neuropathy?
 
 Yes—in most cases. Because the movement is gentle, seated, and non-weight-bearing, it’s often well tolerated even with mild-to-moderate peripheral neuropathy. However, if you experience sharp or burning pain during tapping, stop and consult your provider. The goal is sensation—not discomfort.
 
-#### #### How long before I see changes from toe-tap exercise for diabetic circulation?
+#### How long before I see changes from toe-tap exercise for diabetic circulation?
 
 Most studies show measurable improvements in capillary refill time within 4–6 weeks of consistent practice (twice daily). Glucose effects may appear sooner—some participants noted reduced postprandial spikes within 10–14 days. But remember: consistency matters more than speed.
 
-#### #### Can toe-tap exercise for diabetic circulation replace walking or other aerobic activity?
+#### Can toe-tap exercise for diabetic circulation replace walking or other aerobic activity?
 
 No—it’s complementary. Walking improves large-vessel circulation and overall cardiovascular fitness; toe tapping specifically targets *distal microcirculation*. Think of them as teammates: walking moves blood through major highways, while toe tapping clears the side streets.
 
-#### #### Does toe tapping help with swelling in the ankles?
+#### Does toe tapping help with swelling in the ankles?
 
 It may help *mild* dependent edema by supporting venous return from the foot—but it’s not a substitute for compression therapy or medical evaluation if swelling is new, painful, or asymmetric. Always rule out heart, kidney, or lymphatic causes first.
 
-#### #### Do I need special shoes or mats to do toe tapping?
+#### Do I need special shoes or mats to do toe tapping?
 
 No. Barefoot or in thin, non-slip socks is ideal—so you can feel the floor and maintain control. Avoid thick-soled slippers or unstable surfaces. A firm chair and level floor are all you need.

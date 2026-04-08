@@ -50,22 +50,22 @@ In short, supporting your autonomic nervous system doesn’t require drastic cha
 
 ### FAQ
 
-#### #### Does cold face immersion baroreflex seniors help with nighttime blood pressure spikes?
+#### Does cold face immersion baroreflex seniors help with nighttime blood pressure spikes?
 
 Yes—though its primary effect is on *post-exertion recovery*, consistent use has been linked in small studies to modest reductions in nocturnal systolic pressure (average 4–6 mm Hg decrease over 8 weeks), likely due to improved vagal modulation overnight.
 
-#### #### Is cold face immersion baroreflex safe for people with atrial fibrillation?
+#### Is cold face immersion baroreflex safe for people with atrial fibrillation?
 
 For *stable, controlled* atrial fibrillation (heart rate <110 bpm at rest, no recent hospitalization), evidence suggests it’s generally safe—but always discuss with your cardiologist first, as individual vagal responsiveness varies.
 
-#### #### How does cold face immersion compare to deep breathing for baroreflex improvement in seniors?
+#### How does cold face immersion compare to deep breathing for baroreflex improvement in seniors?
 
 Both support vagal tone, but cold face immersion produces a stronger, more reliable diving reflex response in adults over 65—especially those with reduced HRV. Deep breathing helps, but studies show ~15% lower average baroreflex gain improvement versus cold face immersion in this age group.
 
-#### #### Can I do cold face immersion if I have rosacea or sensitive skin?
+#### Can I do cold face immersion if I have rosacea or sensitive skin?
 
 Yes—with modifications. Use cooler (not cold) water (15–18°C), limit immersion to 2–3 minutes, and pat dry gently. Avoid if you experience flushing, stinging, or prolonged redness—listen to your skin’s signals.
 
-#### #### Do I need special equipment to try cold face immersion baroreflex seniors?
+#### Do I need special equipment to try cold face immersion baroreflex seniors?
 
 No. A clean bowl, thermometer (optional but helpful), and tap water are all you need. No apps, devices, or prescriptions required—just consistency and awareness.

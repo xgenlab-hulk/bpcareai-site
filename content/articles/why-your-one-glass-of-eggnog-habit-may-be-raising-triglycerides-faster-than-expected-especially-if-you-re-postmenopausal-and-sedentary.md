@@ -88,17 +88,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does eggnog raise triglycerides in all postmenopausal women—or just those with existing high levels?  
+#### Does eggnog raise triglycerides in all postmenopausal women—or just those with existing high levels?  
 Eggnog can elevate triglycerides in *most* postmenopausal women—even those with previously normal levels—because its combination of alcohol, fructose, and saturated fat directly challenges the slower triglyceride-clearance capacity linked to low estrogen states. The degree varies, but studies show measurable increases in 78% of sedentary postmenopausal participants after a single serving.
 
-#### #### How much eggnog is safe for women concerned about eggnog triglycerides postmenopausal women?  
+#### How much eggnog is safe for women concerned about eggnog triglycerides postmenopausal women?  
 There’s no universal “safe” amount—but evidence suggests limiting to *one* 3-ounce serving (no added spirits) *no more than once every 10–14 days*, paired with movement and mindful eating, keeps acute spikes manageable for most. For women with baseline triglycerides >150 mg/dL, skipping alcohol entirely during peak holiday weeks is often the most supportive choice.
 
-#### #### Can non-alcoholic eggnog still affect triglycerides in postmenopausal women?  
+#### Can non-alcoholic eggnog still affect triglycerides in postmenopausal women?  
 Yes—especially if it’s sweetened with high-fructose corn syrup or contains full-fat dairy. Fructose is metabolized almost exclusively in the liver and strongly promotes *de novo* lipogenesis (new fat creation), which raises triglycerides independently of alcohol. Look for versions sweetened with minimal maple syrup or dates—and check labels for added sugars (aim for <8 g per serving).
 
-#### #### Why does being sedentary make eggnog triglycerides postmenopausal women worse?  
+#### Why does being sedentary make eggnog triglycerides postmenopausal women worse?  
 Physical inactivity reduces muscle uptake of circulating triglycerides and lowers activity of lipoprotein lipase—the key enzyme that breaks them down. In postmenopausal women, this effect compounds with already-slower estrogen-modulated clearance. Just 90 minutes of weekly moderate activity (e.g., three 30-minute walks) improves triglyceride metabolism by 18–22%, according to 2023 cohort data.
 
-#### #### Is there a link between eggnog, triglycerides, and blood pressure in older women?  
+#### Is there a link between eggnog, triglycerides, and blood pressure in older women?  
 Indirectly, yes. Chronically elevated triglycerides contribute to endothelial dysfunction and arterial stiffness—both associated with rising systolic BP, especially in women over 60. While one glass of eggnog won’t spike your BP immediately, repeated exposure in a sedentary, postmenopausal context may support gradual increases over time—making triglyceride management part of holistic cardiovascular care.

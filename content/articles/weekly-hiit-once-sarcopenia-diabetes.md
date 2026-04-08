@@ -72,22 +72,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Is weekly-hiit once sarcopenia diabetes safe for someone with heart disease?
+#### Is weekly-hiit once sarcopenia diabetes safe for someone with heart disease?
 
 It can be—but only with pre-clearance and individualized supervision. People with stable, treated coronary artery disease often tolerate it well; those with recent stents, arrhythmias, or heart failure require tailored protocols and real-time monitoring.
 
-#### #### How does weekly-hiit once sarcopenia diabetes compare to moderate-intensity walking?
+#### How does weekly-hiit once sarcopenia diabetes compare to moderate-intensity walking?
 
 Walking improves cardiovascular health and lowers average glucose—but HIIT uniquely targets mitochondrial quality and glycemic *variability*. In head-to-head trials, weekly HIIT reduced CGM SD more effectively than daily 45-minute walks, even with far less total time commitment.
 
-#### #### Can I do weekly-hiit once sarcopenia diabetes without a heart rate monitor?
+#### Can I do weekly-hiit once sarcopenia diabetes without a heart rate monitor?
 
 Not safely. Perceived exertion is unreliable in older adults, especially those on beta-blockers. A validated HR monitor ensures you hit the precise 85% target—critical for triggering PGC-1α without overexertion.
 
-#### #### Does weekly-hiit once sarcopenia diabetes improve blood pressure?
+#### Does weekly-hiit once sarcopenia diabetes improve blood pressure?
 
 Yes—modestly. The SPRINT-HIIT trial reported a mean reduction in systolic BP of 5.2 mm Hg and diastolic BP of 3.1 mm Hg after 12 weeks, likely linked to improved endothelial function and reduced arterial stiffness.
 
-#### #### What if I miss my Tuesday session? Should I reschedule?
+#### What if I miss my Tuesday session? Should I reschedule?
 
 No—consistency over frequency is key. Simply resume the following Tuesday. Adding extra sessions doesn’t amplify benefits and may increase injury risk in this population. One session per week, done well, remains the evidence-based standard.

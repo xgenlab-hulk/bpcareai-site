@@ -87,22 +87,22 @@ Healing after a heart attack at age 67+ is different than at 45—and that’s o
 
 ### FAQ
 
-#### #### Can natural cardiac fibroblast stabilization post-mi really be achieved without harming scar formation?
+#### Can natural cardiac fibroblast stabilization post-mi really be achieved without harming scar formation?
 
 Yes—when approached with timing and balance. Early scar formation (first 2–3 weeks) must remain undisturbed. Natural strategies like zinc-carnosine and modified citrus pectin are introduced *after* this window to support long-term matrix balance—not block initial repair. Clinical observations suggest well-timed nutritional support correlates with more favorable remodeling patterns on echo over 6–12 months.
 
-#### #### What foods or supplements support natural cardiac fibroblast stabilization post-mi in older adults?
+#### What foods or supplements support natural cardiac fibroblast stabilization post-mi in older adults?
 
 No single food “fixes” fibroblast activity—but consistent intake of zinc-rich foods (pumpkin seeds, lentils, lean beef), polyphenol-rich berries, and adequate protein supports overall matrix health. Supplements like zinc-carnosine (15–22 mg zinc/day) and modified citrus pectin (5 g/day, started ≥2 weeks post-MI) are studied for their specific modulatory roles. Always discuss with your care team before adding supplements, especially if taking ACE inhibitors or diuretics.
 
-#### #### Is natural cardiac fibroblast stabilization post-mi possible for someone with chronic kidney disease?
+#### Is natural cardiac fibroblast stabilization post-mi possible for someone with chronic kidney disease?
 
 Yes—with careful coordination. CKD can alter zinc and carnosine metabolism, and galectin-3 levels are naturally higher in kidney impairment. Dosing may need adjustment (e.g., lower zinc-carnosine, slower MCP ramp-up), and monitoring of serum zinc, copper, and galectin-3 is advisable. Many nephrology and cardiology teams now collaborate on post-MI care for patients with dual diagnoses.
 
-#### #### Does blood pressure control affect cardiac fibroblast activity after a heart attack?
+#### Does blood pressure control affect cardiac fibroblast activity after a heart attack?
 
 Absolutely. Sustained elevated arterial pressure (e.g., repeated readings ≥140/90 mm Hg) increases mechanical stress on healing myocardium, activating fibroblasts via angiotensin II and integrin pathways. That’s why BP targets—often <130/80 mm Hg for adults 65+ with heart disease—are part of holistic fibroblast support. Gentle lifestyle shifts (like sodium moderation and daily walking) contribute meaningfully here.
 
-#### #### How soon after a heart attack can I start focusing on natural cardiac fibroblast stabilization?
+#### How soon after a heart attack can I start focusing on natural cardiac fibroblast stabilization?
 
 The first 10–14 days are devoted to rest, medical stabilization, and allowing the scar to form. Around week 3, once you’re cleared for light activity and symptoms are stable, it’s reasonable to begin discussing gentle, timed nutritional support with your cardiologist or registered dietitian—especially if biomarkers like galectin-3 or PIIINP are elevated. Patience isn’t passive—it’s part of the process.

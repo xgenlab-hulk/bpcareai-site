@@ -56,22 +56,22 @@ Holidays are meant to be enjoyed—not navigated with anxiety. With a little pre
 
 ### FAQ
 
-#### #### Can I adjust diabetes meds holidays on my own without talking to my doctor?
+#### Can I adjust diabetes meds holidays on my own without talking to my doctor?
 
 No—it’s never safe to change insulin doses or medications like sulfonylureas without guidance. Even small dose changes can lead to dangerous highs or lows, especially in older adults. Always consult your care team first.
 
-#### #### How do I know if I need to adjust diabetes meds holidays for Christmas dinner?
+#### How do I know if I need to adjust diabetes meds holidays for Christmas dinner?
 
 Look for consistent blood sugar patterns: if your post-meal readings are over 180 mg/dL for two or more similar meals—or if you’ve had a low within 4 hours of eating—you may benefit from a temporary plan. Your doctor or diabetes educator can help create one.
 
-#### #### What’s the safest way to adjust diabetes meds holidays if I’m traveling?
+#### What’s the safest way to adjust diabetes meds holidays if I’m traveling?
 
 Pack extra supplies (test strips, insulin, glucagon), keep meds in your carry-on, and try to maintain regular meal timing across time zones. Set phone reminders for doses, and check blood sugar before and after flights—stress and sitting still can raise glucose.
 
-#### #### Do blood pressure meds need adjusting during the holidays too?
+#### Do blood pressure meds need adjusting during the holidays too?
 
 Not usually—but holiday stress, salty foods, and alcohol can temporarily raise BP. Keep checking your numbers, especially if you’re on ACE inhibitors or ARBs. Report sustained readings above 140/90 mm Hg to your provider.
 
-#### #### Is it normal for blood sugar to go up during New Year’s Eve?
+#### Is it normal for blood sugar to go up during New Year’s Eve?
 
 Yes—late-night eating, alcohol (which impairs liver glucose release), and disrupted sleep all contribute. Aim to eat a small protein-rich snack before bed if you’re drinking, and test before sleeping to avoid overnight lows.

@@ -58,22 +58,22 @@ In closing, supporting your endothelium is less about dramatic fixes and more ab
 
 ### FAQ
 
-#### #### Can improving endothelial function without medication reduce heart disease risk?
+#### Can improving endothelial function without medication reduce heart disease risk?
 
 Yes—strong evidence links better endothelial function (measured by FMD) with lower long-term risk of heart disease, heart attack, and stroke. Even modest FMD improvements (1–2%) correlate with measurable reductions in cardiovascular events over 5–10 years.
 
-#### #### What are the best natural ways to improve endothelial function without medication for seniors?
+#### What are the best natural ways to improve endothelial function without medication for seniors?
 
 The most evidence-backed approaches for adults 55–74 include timed nitrate-rich vegetable intake (e.g., beets or spinach before activity), combined low-dose L-arginine + pomegranate extract, and regular cold-water exposure (like cool showers). Consistency—not intensity—is key.
 
-#### #### Does walking help improve endothelial function without medication?
+#### Does walking help improve endothelial function without medication?
 
 Absolutely. Brisk walking for 30 minutes most days improves FMD by ~1.5% over 12 weeks in adults over 60—especially when paired with nitrate-rich foods beforehand. It’s one of the safest, most accessible ways to support vascular health.
 
-#### #### Are there side effects to natural endothelial support strategies?
+#### Are there side effects to natural endothelial support strategies?
 
 Most are very low-risk when used appropriately. However, high-dose L-arginine may cause GI upset or interact with BP medications; cold exposure isn’t advised for those with uncontrolled hypertension or Raynaud’s. Always discuss changes with your care team.
 
-#### #### How long does it take to see results when trying to improve endothelial function without medication?
+#### How long does it take to see results when trying to improve endothelial function without medication?
 
 Clinical trials show measurable FMD improvements in as little as 4–6 weeks—with peak benefits typically seen after 8–12 weeks of consistent practice. Patience and regularity matter more than speed.

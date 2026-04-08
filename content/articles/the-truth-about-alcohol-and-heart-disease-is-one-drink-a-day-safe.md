@@ -90,22 +90,22 @@ Navigating heart health after 50 is deeply personal—and it’s okay to pause, 
 
 ### FAQ
 
-#### #### Does alcohol consumption and heart disease after 50 affect women differently than men?
+#### Does alcohol consumption and heart disease after 50 affect women differently than men?
 
 Yes. Women metabolize alcohol more slowly due to lower body water content and less stomach alcohol dehydrogenase. As a result, the same amount of alcohol leads to higher blood alcohol concentrations—and greater cardiovascular stress. Studies show women over 50 who drink one drink daily have a 20% higher risk of hypertension compared to non-drinking peers, while men show a smaller (though still present) increase.
 
-#### #### Can alcohol consumption and heart disease after 50 be reversed if I stop drinking?
+#### Can alcohol consumption and heart disease after 50 be reversed if I stop drinking?
 
 Often, yes—especially early on. Blood pressure can begin improving within days of stopping alcohol, with meaningful drops (5–10 mm Hg systolic) seen in 2–4 weeks. Atrial fibrillation episodes may decrease significantly within 1–3 months. However, long-standing heavy use may cause structural changes (like left ventricular enlargement) that require medical management—even after abstinence.
 
-#### #### Is red wine really better for the heart than other alcoholic drinks?
+#### Is red wine really better for the heart than other alcoholic drinks?
 
 No strong evidence supports this. While resveratrol (a compound in red wine) showed promise in lab studies, human trials haven’t confirmed heart benefits—and any potential upside is outweighed by alcohol’s known harms. The American Heart Association states clearly: “No one should start drinking alcohol for heart health.”
 
-#### #### Does occasional binge drinking count as “moderate” if I don’t drink often?
+#### Does occasional binge drinking count as “moderate” if I don’t drink often?
 
 No. Binge drinking—even once a month—carries outsized risk after 50. A single episode of consuming 4+ drinks for women or 5+ for men triggers acute BP spikes, oxidative stress, and inflammation. Adults over 50 who binge once monthly have a 40% higher risk of developing hypertension within 5 years compared to consistent low-intake drinkers.
 
-#### #### Will quitting alcohol lower my cholesterol?
+#### Will quitting alcohol lower my cholesterol?
 
 It can—especially triglycerides, which are highly sensitive to alcohol. Cutting out alcohol often lowers triglycerides by 20–50 mg/dL within weeks. HDL (“good”) cholesterol may dip slightly at first (since alcohol artificially raises it), but this reflects a healthier, more natural lipid profile—not a loss of protection.

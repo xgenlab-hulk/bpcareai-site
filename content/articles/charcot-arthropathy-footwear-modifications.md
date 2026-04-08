@@ -66,17 +66,17 @@ Living well with diabetes and Charcot arthropathy is absolutely possible—with 
 
 ### FAQ  
 
-#### #### What are the best charcot arthropathy footwear modifications for seniors with diabetes?  
+#### What are the best charcot arthropathy footwear modifications for seniors with diabetes?  
 The most effective modifications combine custom-molded insoles, rocker-bottom soles with optimized apex placement (52–58% from heel), and pressure-relieving cutouts—all validated by dynamic pressure mapping. Off-the-shelf “diabetic shoes” alone rarely provide adequate offloading for Charcot-related deformities.
 
-#### #### Do charcot arthropathy footwear modifications really reduce ulcer risk?  
+#### Do charcot arthropathy footwear modifications really reduce ulcer risk?  
 Yes—studies show that properly fitted, pressure-mapped footwear reduces peak plantar pressure by ≥41%, directly correlating with lower ulcer incidence and recurrence. In one 12-month follow-up, patients using such modifications had a 63% lower ulcer rate compared to standard care.
 
-#### #### Can I use regular orthotics instead of charcot arthropathy footwear modifications?  
+#### Can I use regular orthotics instead of charcot arthropathy footwear modifications?  
 No. Standard orthotics are designed for biomechanical alignment—not structural collapse. Charcot arthropathy requires *offloading-specific* design: rigid rockers, full-contact insoles, and accommodations for deformity. Generic orthotics may even increase pressure in vulnerable areas.
 
-#### #### How often should I replace my modified footwear?  
+#### How often should I replace my modified footwear?  
 Every 4–6 months—or sooner if you notice wear, loss of shape, or increased discomfort. Materials compress over time, and foot structure can continue to change, especially in active Charcot phases.
 
-#### #### Is rocker-bottom footwear suitable for all types of Charcot deformity?  
+#### Is rocker-bottom footwear suitable for all types of Charcot deformity?  
 Not universally. While highly effective for midfoot collapse (Stage II/III), severe hindfoot involvement or instability may require ankle-foot orthoses (AFOs) or specialized bracing—always assessed individually using gait analysis.

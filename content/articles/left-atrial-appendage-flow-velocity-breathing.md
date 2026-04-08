@@ -56,22 +56,22 @@ In closing, supporting healthy *left atrial appendage flow velocity breathing* i
 
 ### FAQ
 
-#### #### Can left atrial appendage flow velocity breathing help reduce stroke risk in seniors?
+#### Can left atrial appendage flow velocity breathing help reduce stroke risk in seniors?
 
 Yes—when practiced regularly, *left atrial appendage flow velocity breathing* supports more efficient LAA emptying, which lowers the likelihood of blood stasis and clot formation. While it doesn’t replace anticoagulation when medically indicated, studies suggest improved flow velocity (>40 cm/s) correlates with lower thromboembolic events in older adults with AFib.
 
-#### #### How long does it take to see changes in left atrial appendage flow velocity with breathing?
+#### How long does it take to see changes in left atrial appendage flow velocity with breathing?
 
 Most adults begin noticing subtle improvements in energy and rhythm awareness within 2–3 weeks. For measurable changes in LAA velocity (e.g., +10–15 cm/s), consistent practice over 6–8 weeks—paired with clinical follow-up—is typical. Patience and gentleness matter more than intensity.
 
-#### #### Is left atrial appendage flow velocity breathing safe for people with pacemakers or heart failure?
+#### Is left atrial appendage flow velocity breathing safe for people with pacemakers or heart failure?
 
 Generally, yes—diaphragmatic breathing and slow positional shifts are low-risk and widely recommended for older adults with stable heart failure or device-based therapies. Always consult your electrophysiologist or heart failure specialist before beginning, especially if you experience frequent lightheadedness or decompensated symptoms.
 
-#### #### What’s the best time of day to practice left atrial appendage flow velocity breathing?
+#### What’s the best time of day to practice left atrial appendage flow velocity breathing?
 
 Morning and early evening work well—times when your nervous system tends to be more receptive to parasympathetic activation. Avoid right after large meals or during acute illness, when autonomic balance may be temporarily shifted.
 
-#### #### Does hydration affect left atrial appendage flow velocity?
+#### Does hydration affect left atrial appendage flow velocity?
 
 Absolutely. Even mild dehydration can thicken blood and reduce cardiac output, lowering LAA flow velocity. Aim for 6–8 glasses of water daily—more if you’re active or live in warm climates—and monitor urine color as a simple guide.

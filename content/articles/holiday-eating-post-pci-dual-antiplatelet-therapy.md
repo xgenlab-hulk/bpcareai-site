@@ -45,17 +45,17 @@ Recovery after PCI is deeply personal — and the holidays offer a beautiful opp
 
 ### FAQ
 
-#### #### Can I eat turkey and stuffing safely during holiday eating post-pci dual antiplatelet therapy?  
+#### Can I eat turkey and stuffing safely during holiday eating post-pci dual antiplatelet therapy?  
 Yes — turkey is a lean protein source, and stuffing made with whole grains, herbs, and minimal salt fits well into a heart-healthy plan. Just watch portion size (aim for ~3 oz cooked turkey) and choose stuffing low in saturated fat and sodium (ideally <300 mg per serving).
 
-#### #### Does ginger in holiday cookies affect my dual antiplatelet therapy?  
+#### Does ginger in holiday cookies affect my dual antiplatelet therapy?  
 Baking with modest amounts of fresh or ground ginger (e.g., ¼ tsp per serving of cookies) is generally safe. However, avoid daily ginger supplements or drinking large amounts of ginger tea — these *can* enhance antiplatelet effects and raise bleeding concerns.
 
-#### #### How do I handle holiday eating post-pci dual antiplatelet therapy when visiting family who don’t know my needs?  
+#### How do I handle holiday eating post-pci dual antiplatelet therapy when visiting family who don’t know my needs?  
 Bring a dish you love and know is safe — like a roasted vegetable medley or herb-marinated grilled fish — and share why it matters to you. Most people appreciate learning how to support your health. A simple, warm phrase like, “This recipe helps me feel my best this season” goes a long way.
 
-#### #### Are cranberry sauce and red wine safe with dual antiplatelet therapy?  
+#### Are cranberry sauce and red wine safe with dual antiplatelet therapy?  
 Cranberry sauce in typical holiday portions is fine. As for red wine: one 5-oz glass per day *may* be acceptable for some, but alcohol can increase bleeding risk and interact with certain P2Y12 inhibitors. Discuss your specific situation with your cardiologist — many recommend avoiding alcohol entirely during early recovery.
 
-#### #### What’s the safest way to enjoy desserts without spiking blood sugar or affecting my heart recovery?  
+#### What’s the safest way to enjoy desserts without spiking blood sugar or affecting my heart recovery?  
 Opt for fruit-based treats — baked apples with cinnamon, poached pears, or dark chocolate (70%+ cocoa, 1–2 small squares). These satisfy sweetness cravings while supporting vascular health and minimizing glucose spikes. Avoid highly processed desserts with trans fats or excessive added sugars.

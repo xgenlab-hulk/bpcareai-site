@@ -80,22 +80,22 @@ Managing blood pressure with CKD isn’t about chasing perfection—it’s about
 
 ### FAQ
 
-#### #### Is vagus nerve stimulation for morning BP in CKD safe for older adults with stage 3 kidney disease?
+#### Is vagus nerve stimulation for morning BP in CKD safe for older adults with stage 3 kidney disease?
 
 Yes—current evidence shows taVNS is well tolerated in adults 65+ with CKD stage 3. Small studies report no serious adverse events, and side effects (if any) are usually mild, like brief ear discomfort or slight skin redness. Always discuss with your nephrologist first, especially if you have pacemakers or uncontrolled arrhythmias.
 
-#### #### How long does it take for vagus nerve stimulation for morning BP in CKD to show results?
+#### How long does it take for vagus nerve stimulation for morning BP in CKD to show results?
 
 Most clinical trials observe measurable changes in morning systolic BP after 2–4 weeks of daily 5-minute sessions. However, benefits may continue to build over 8–12 weeks as autonomic balance gradually improves. Consistency matters more than speed.
 
-#### #### Can I use vagus nerve stimulation for morning BP in CKD instead of my blood pressure medications?
+#### Can I use vagus nerve stimulation for morning BP in CKD instead of my blood pressure medications?
 
 No. taVNS is considered a complementary approach—not a replacement—for prescribed antihypertensive therapy. It may help reduce reliance on certain meds *over time*, but only under your doctor’s supervision and with careful BP monitoring.
 
-#### #### Does deep breathing do the same thing as vagus nerve stimulation for morning BP in CKD?
+#### Does deep breathing do the same thing as vagus nerve stimulation for morning BP in CKD?
 
 In many ways—yes! Slow, diaphragmatic breathing is a free, natural form of vagal activation. While it may not deliver the same targeted neuromodulation as taVNS, studies confirm that regular mindful breathing lowers morning systolic BP by 4–6 mm Hg in CKD populations—making it an excellent first step.
 
-#### #### What’s the difference between taVNS and regular TENS units sold for pain?
+#### What’s the difference between taVNS and regular TENS units sold for pain?
 
 Great question. Standard TENS units target sensory nerves to block pain signals, often using higher frequencies and intensities. taVNS devices are calibrated specifically for the vagus nerve’s low-threshold fibers—using lower frequencies (typically 10–25 Hz) and gentler currents focused on precise ear locations like the tragus. Not all TENS units are appropriate or safe for vagal stimulation.

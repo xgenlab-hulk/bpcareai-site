@@ -65,17 +65,17 @@ Lowering systolic blood pressure without medication is absolutely possible—and
 
 ### FAQ
 
-#### #### Can breathing exercises really lower systolic blood pressure without medication?  
+#### Can breathing exercises really lower systolic blood pressure without medication?  
 Yes—resonant frequency breathing (6 breaths per minute) has been validated in multiple RCTs. One 2021 study found it lowered systolic BP by an average of 5.8 mm Hg in adults 55–66 with job-related stress—comparable to some first-line medications.
 
-#### #### What’s the fastest way to lower systolic blood pressure without medication?  
+#### What’s the fastest way to lower systolic blood pressure without medication?  
 There’s no instant fix—but timed isometric handgrip training shows measurable systolic reductions (≥5 mm Hg) in as few as 4 weeks when done consistently. Pair it with resonant breathing for synergistic effects.
 
-#### #### Are cold showers effective to lower systolic blood pressure without medication?  
+#### Are cold showers effective to lower systolic blood pressure without medication?  
 Brief, sequenced cold exposure (not full cold showers) *is* supported—especially when combined with warmth. RCTs used 30-second cold/90-second warm cycles and saw ~5 mm Hg systolic drops over 6 weeks in stressed working adults.
 
-#### #### Does potassium help lower systolic blood pressure?  
+#### Does potassium help lower systolic blood pressure?  
 Yes—food-based potassium (not pills) helps relax blood vessel walls and balance sodium. Adults 55–66 who increased potassium-rich foods saw average systolic reductions of 3–4 mm Hg in meta-analyses.
 
-#### #### When should I consider medication instead of trying to lower systolic blood pressure without medication?  
+#### When should I consider medication instead of trying to lower systolic blood pressure without medication?  
 Medication isn’t “failure”—it’s part of personalized care. If lifestyle efforts don’t bring systolic BP below 130 mm Hg after 3 months *and* you have additional risk factors (e.g., diabetes, kidney disease, or prior CVD), discuss options with your provider.

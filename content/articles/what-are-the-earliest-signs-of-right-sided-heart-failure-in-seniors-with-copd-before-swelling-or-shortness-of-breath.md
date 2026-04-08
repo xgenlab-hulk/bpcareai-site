@@ -82,22 +82,22 @@ Understanding the *early signs right sided heart failure COPD* isn’t about pre
 
 ### FAQ
 
-#### #### What are the earliest signs right sided heart failure COPD in older adults?
+#### What are the earliest signs right sided heart failure COPD in older adults?
 
 The earliest signs right sided heart failure COPD often include unexplained fatigue, a dry cough that worsens at night (especially between midnight and 4 a.m.), visible fullness or pulsation in the neck veins (jugular venous pressure), and subtle changes in breathing patterns when lying flat. These tend to appear before swelling in the legs or significant shortness of breath.
 
-#### #### Can right-sided heart failure from COPD be reversed or slowed?
+#### Can right-sided heart failure from COPD be reversed or slowed?
 
 While structural changes like right ventricular enlargement may not fully reverse, progression can often be slowed significantly—especially with optimal COPD management (including smoking cessation, pulmonary rehab, oxygen therapy if prescribed), treatment of pulmonary hypertension when present, and lifestyle support like regular movement and balanced hydration. Early detection of the early signs right sided heart failure COPD gives you the best window for supportive action.
 
-#### #### How do I check my jugular venous pressure at home?
+#### How do I check my jugular venous pressure at home?
 
 Sit upright at a 45-degree angle in good lighting. Turn your head slightly away from the side you’re checking. Look in a mirror for the internal jugular vein running vertically beside your windpipe. A normal JVP rises and falls gently and lies no more than 2–3 cm above the clavicle. If it appears full, steady, or extends higher—especially when sitting upright—that may suggest elevated pressure. Practice over several days to become familiar with your baseline.
 
-#### #### Is fatigue a reliable early sign of right-sided heart failure in COPD?
+#### Is fatigue a reliable early sign of right-sided heart failure in COPD?
 
 Yes—fatigue is one of the most common and earliest subjective symptoms. It’s often described as a deep, whole-body weariness that doesn’t improve with rest and feels distinct from typical COPD-related breathlessness. In studies, over 60% of individuals with early right ventricular strain reported new fatigue before developing edema or overt dyspnea.
 
-#### #### Does high blood pressure cause right-sided heart failure in COPD?
+#### Does high blood pressure cause right-sided heart failure in COPD?
 
 Not directly. Systemic high blood pressure (hypertension) primarily affects the *left* side of the heart. Right-sided heart failure in COPD is usually driven by *pulmonary* hypertension—elevated pressure in the arteries of the lungs—caused by chronic low oxygen, inflammation, and vascular remodeling. However, uncontrolled systemic BP can add overall cardiovascular stress, so managing both remains important for comprehensive heart health.

@@ -60,17 +60,17 @@ In summary, NT-proBNP remains a valuable clue—but in older adults with CKD and
 
 ### FAQ
 
-#### #### What is a normal NT-proBNP level for someone 76+ with CKD Stage 3b and anemia?  
+#### What is a normal NT-proBNP level for someone 76+ with CKD Stage 3b and anemia?  
 There is no universal “normal.” In this group, values between 500–1,200 ng/L are commonly seen without evidence of heart failure. Interpretation must include eGFR, hemoglobin, symptoms, and trend over time—not just a single number.
 
-#### #### How does CKD affect NT-proBNP interpretation in elderly patients?  
+#### How does CKD affect NT-proBNP interpretation in elderly patients?  
 CKD impairs renal clearance of NT-proBNP, raising baseline levels independently of heart function. In CKD Stage 3b, NT-proBNP may be 2–3× higher than expected for age alone—making standard cutpoints unreliable. This is central to *nt-probnp interpretation in elderly ckd*.
 
-#### #### Can anemia alone raise NT-proBNP in older adults with kidney disease?  
+#### Can anemia alone raise NT-proBNP in older adults with kidney disease?  
 Yes. Anemia increases cardiac output to maintain oxygen delivery, stretching ventricular walls and triggering NT-proBNP release. In elderly CKD, even mild anemia (Hb 10–11.9 g/dL) can elevate NT-proBNP by 200–500 ng/L—another key reason why *nt-probnp interpretation in elderly ckd* requires holistic assessment.
 
-#### #### Does high NT-proBNP always mean heart failure in older adults?  
+#### Does high NT-proBNP always mean heart failure in older adults?  
 No. While elevated NT-proBNP supports heart failure diagnosis, it’s not specific. In adults 76+, causes include CKD, advanced age, pulmonary hypertension, sepsis, and even atrial fibrillation—so clinical correlation is essential.
 
-#### #### Should I get repeat NT-proBNP testing if my first result was high?  
+#### Should I get repeat NT-proBNP testing if my first result was high?  
 Yes—if clinically stable, repeating in 4–12 weeks helps distinguish chronic elevation from acute change. A rising trend (>30% increase) is more concerning than a static high value. This approach refines *nt-probnp interpretation in elderly ckd* and avoids over-treatment.

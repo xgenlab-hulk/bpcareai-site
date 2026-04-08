@@ -66,17 +66,17 @@ In short, wrist blood pressure monitoring isn’t off-limits—it’s about pair
 
 ### FAQ
 
-#### #### Can wrist blood pressure monitor accuracy osteoarthritis be improved with better technique?  
+#### Can wrist blood pressure monitor accuracy osteoarthritis be improved with better technique?  
 Yes—proper positioning, consistent timing, and validating against an upper-arm reading significantly improve reliability. Technique matters more than many realize, especially when arteries are stiffer or joints less flexible.
 
-#### #### Are wrist blood pressure monitors safe to use with hand osteoarthritis?  
+#### Are wrist blood pressure monitors safe to use with hand osteoarthritis?  
 They’re safe to use, but accuracy may be reduced due to radial artery calcification and positioning challenges. For long-term management of ISH, clinicians often recommend upper-arm devices as the preferred home option.
 
-#### #### How does osteoarthritis affect blood pressure readings on a wrist monitor?  
+#### How does osteoarthritis affect blood pressure readings on a wrist monitor?  
 OA itself doesn’t change your actual blood pressure—but associated vascular changes (like radial artery stiffening) and functional limitations (e.g., difficulty holding the wrist at heart level) can introduce measurement error, especially for systolic values.
 
-#### #### What’s the best blood pressure monitor for seniors with arthritis?  
+#### What’s the best blood pressure monitor for seniors with arthritis?  
 Devices with large buttons, clear displays, and automatic inflation work well. Upper-arm monitors are generally more accurate for diagnosing ISH, but if wrist use is essential, choose one independently validated for accuracy in older adults—and re-check periodically with a clinician.
 
-#### #### Do wrist blood pressure monitor accuracy osteoarthritis concerns apply to all wrist devices?  
+#### Do wrist blood pressure monitor accuracy osteoarthritis concerns apply to all wrist devices?  
 Not equally—accuracy varies widely by model and design. Look for devices cleared by the FDA *and* validated by independent protocols (e.g., ANSI/AAMI/ISO 81060-2:2018). Avoid unbranded or “fitness-only” trackers for clinical decision-making.

@@ -68,22 +68,22 @@ Understanding blood pressure—and how your unique physiology interacts with foo
 
 ### FAQ
 
-#### #### Is salt sensitivity more common in Black adults—and does that mean I must avoid all salt?
+#### Is salt sensitivity more common in Black adults—and does that mean I must avoid all salt?
 
 Yes, studies suggest about 60–75% of Black adults over age 55 show some degree of salt sensitivity—higher than rates seen in non-Hispanic white or Asian populations (roughly 25–40%). But “sensitivity” doesn’t mean “allergy.” It means your BP may rise more noticeably with high sodium *or* fall more readily with potassium support. You don’t need to eliminate salt—just aim for balance, prioritize whole foods, and work with your care team to find what works for *you*.
 
-#### #### What are ENaC variants—and do they explain salt sensitivity myths in Black adults?
+#### What are ENaC variants—and do they explain salt sensitivity myths in Black adults?
 
 ENaC (epithelial sodium channel) variants are naturally occurring differences in genes that regulate sodium reabsorption in the kidneys. Some variants—more prevalent among people with West African ancestry—may increase sodium retention slightly. But they don’t act alone. Their effect depends on potassium status, aldosterone levels, age-related kidney changes, and overall cardiovascular health. So while ENaC is part of the picture, it’s one piece—not the whole story behind salt sensitivity myths in Black adults.
 
-#### #### Can potassium-rich foods lower blood pressure even if I’m not “salt sensitive”?
+#### Can potassium-rich foods lower blood pressure even if I’m not “salt sensitive”?
 
 Absolutely. Potassium helps relax blood vessel walls, reduces vascular resistance, and supports healthy kidney function—all beneficial for arterial pressure, regardless of sodium sensitivity status. Clinical trials show that increasing dietary potassium (to ~3,500–4,700 mg/day) lowers systolic BP by an average of 4–6 mm Hg in adults with hypertension. Foods like bananas, beans, yogurt, and acorn squash are safe, gentle ways to boost intake—unless you have advanced kidney disease, in which case your provider can guide appropriate limits.
 
-#### #### Does high blood pressure in Black adults always mean I need medication?
+#### Does high blood pressure in Black adults always mean I need medication?
 
 Not always—but it often does, especially after age 60. Guidelines from the American College of Cardiology recommend medication for most adults with sustained BP ≥130/80 mm Hg *and* additional risk factors (like diabetes, CKD, or cardiovascular disease). Lifestyle changes remain essential, but for many, medication helps protect the heart and kidneys over the long term—particularly when multiple physiological pathways (like RAAS + ENaC) are involved.
 
-#### #### How does aging affect salt sensitivity—and why does it matter after 55?
+#### How does aging affect salt sensitivity—and why does it matter after 55?
 
 After 55, kidney filtration gradually declines (average eGFR drops ~0.5–1 mL/min/year), arteries stiffen, and hormone regulation becomes less responsive. These changes can amplify how sodium and fluid affect BP—even if your diet hasn’t changed. That’s why a strategy that worked well at 50 may need gentle adjustment by 65. It’s not a sign of failure; it’s part of being human. Regular BP checks and open conversations with your provider help keep your plan aligned with where you are *now*.

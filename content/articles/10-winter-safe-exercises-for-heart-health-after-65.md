@@ -95,17 +95,17 @@ Staying heart-healthy in winter isn’t about heroic efforts or extreme routines
 
 ### FAQ
 
-#### #### What are the safest winter exercises for seniors with high blood pressure?  
+#### What are the safest winter exercises for seniors with high blood pressure?  
 For seniors managing hypertension, low-impact, rhythm-based activities work best—like seated tai chi, water aerobics, or indoor walking on a treadmill at a comfortable pace. Avoid sudden bursts of exertion (e.g., sprinting, heavy shoveling) and always check with your provider before starting anything new. Monitoring BP before and 15 minutes after activity helps identify what feels supportive—not stressful—for *your* body.
 
-#### #### Can cold weather raise blood pressure in seniors—and how do safe winter exercises seniors help?  
+#### Can cold weather raise blood pressure in seniors—and how do safe winter exercises seniors help?  
 Yes—cold exposure causes blood vessels to narrow, which can elevate systolic BP by 5–15 mm Hg in many older adults. Regular, moderate *safe winter exercises seniors* engage in actually *counteract* this effect over time by improving vascular elasticity and reducing sympathetic nervous system dominance. Think of it like gentle training for your arteries.
 
-#### #### Are there safe winter exercises seniors can do at home without equipment?  
+#### Are there safe winter exercises seniors can do at home without equipment?  
 Absolutely. Try seated leg extensions with heel taps, standing calf raises beside a counter, wall push-ups, or slow-motion “sun salutations” adapted for standing or seated positions. All require zero gear and support circulation, balance, and heart rate regulation.
 
-#### #### How often should seniors exercise in winter for heart health?  
+#### How often should seniors exercise in winter for heart health?  
 The American Heart Association recommends at least 150 minutes weekly of moderate-intensity aerobic activity—broken into sessions as short as 10 minutes. For many seniors, that looks like five 30-minute walks, three 20-minute chair yoga classes, or daily 15-minute movement snacks. Consistency matters more than duration.
 
-#### #### Is it safe for seniors with heart failure to exercise outdoors in winter?  
+#### Is it safe for seniors with heart failure to exercise outdoors in winter?  
 It depends on your NYHA class and current stability. Many Class I or II individuals walk safely outdoors with precautions (layering, shorter duration, avoiding wind chill <20°F). But Class III or IV? Indoor, supervised options like cardiac rehab or warm-water therapy are usually preferred. Always consult your heart failure specialist first.

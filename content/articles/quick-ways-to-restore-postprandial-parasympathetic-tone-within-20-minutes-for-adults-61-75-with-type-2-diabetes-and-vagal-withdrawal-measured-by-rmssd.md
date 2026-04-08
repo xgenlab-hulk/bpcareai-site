@@ -70,17 +70,17 @@ Restoring parasympathetic tone postprandial isn’t about fixing something broke
 
 ### FAQ
 
-#### #### How can I restore parasympathetic tone postprandial naturally without devices?
+#### How can I restore parasympathetic tone postprandial naturally without devices?
 You can support it through sour-taste stimulation (e.g., lemon), warm facial cues, slow diaphragmatic breathing with humming, and upright-but-relaxed posture for 15–20 minutes after eating—all shown to improve RMSSD recovery in older adults with type 2 diabetes.
 
-#### #### What foods help restore parasympathetic tone postprandial?
+#### What foods help restore parasympathetic tone postprandial?
 No single food “fixes” it—but pairing complex carbs with protein/fiber slows glucose spikes, reducing autonomic stress. Adding a small sour element (like fermented vegetables or citrus) at the end of the meal may gently trigger vagal activity.
 
-#### #### Can walking help restore parasympathetic tone postprandial?
+#### Can walking help restore parasympathetic tone postprandial?
 Yes—but keep it light. A slow, 10-minute stroll *15 minutes after eating* (not immediately) supports digestion and vagal engagement better than vigorous activity, which may further activate the sympathetic system.
 
-#### #### Does metformin affect parasympathetic tone?
+#### Does metformin affect parasympathetic tone?
 Metformin itself isn’t known to directly impact vagal tone, but by improving insulin sensitivity and reducing postprandial glucose surges, it may indirectly support more stable autonomic responses over time.
 
-#### #### Is low RMSSD reversible in older adults with diabetes?
+#### Is low RMSSD reversible in older adults with diabetes?
 Research suggests yes—especially with consistent lifestyle support. One 12-week study in adults 65+ with type 2 diabetes showed average RMSSD increases of 3–5 ms with daily breathing + taste-based practices, indicating measurable vagal plasticity even later in life.

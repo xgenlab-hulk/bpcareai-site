@@ -66,17 +66,17 @@ You’re not behind. You’re not failing. You’re noticing important signals�
 
 ### FAQ
 
-#### #### Does CGM detect the dawn phenomenon better than SMBG?
+#### Does CGM detect the dawn phenomenon better than SMBG?
 Yes—studies show CGM identifies dawn-related glucose rises with ~92% sensitivity, compared to ~65–70% for fully compliant SMBG protocols. The key advantage is continuous, unbiased data—not relying on remembering to test at 3 a.m.
 
-#### #### Is cgm vs smb g dawn phenomenon detection covered by Medicare for adults 57–64?
+#### Is cgm vs smb g dawn phenomenon detection covered by Medicare for adults 57–64?
 Medicare Part B covers CGM for beneficiaries with diabetes *requiring insulin* or with recurrent hypoglycemia. For early beta-cell decline (prediabetes or newly diagnosed non-insulin-requiring diabetes), coverage depends on medical necessity documentation—and varies by plan. Many private insurers approve CGM for this use case with proper justification.
 
-#### #### Can I use SMBG instead of CGM to monitor the dawn phenomenon?
+#### Can I use SMBG instead of CGM to monitor the dawn phenomenon?
 You *can*, but effectiveness depends heavily on strict adherence. Missing the 3 a.m. check—even once—reduces detection accuracy significantly. For adults 57–64, simpler SMBG schedules (e.g., fasting-only) miss dawn patterns over 80% of the time.
 
-#### #### What’s the best time to check blood sugar to catch the dawn phenomenon?
+#### What’s the best time to check blood sugar to catch the dawn phenomenon?
 The most telling windows are: bedtime (to assess starting point), 3 a.m. (to catch the nadir), and fasting (upon waking). CGM removes timing guesswork entirely by capturing the full overnight curve.
 
-#### #### How long does it take to see dawn phenomenon patterns with CGM?
+#### How long does it take to see dawn phenomenon patterns with CGM?
 Most people see clear overnight patterns within 3–5 days of consistent wear—especially when paired with notes about evening meals, activity, and sleep. Look for a steady rise beginning around 4–5 a.m., peaking near waking.

@@ -52,22 +52,22 @@ Managing your health during the holidays isn’t about eliminating joy—it’s 
 
 ### FAQ
 
-#### #### Can holiday heart syndrome happen to people with well-controlled type 2 diabetes?
+#### Can holiday heart syndrome happen to people with well-controlled type 2 diabetes?
 
 Yes—it can. Even with stable A1C, temporary disruptions like alcohol, sodium overload, or sleep loss can trigger arrhythmias. Good long-term control helps, but daily habits still matter.
 
-#### #### How does diabetes holiday heart risk differ from regular holiday heart syndrome?
+#### How does diabetes holiday heart risk differ from regular holiday heart syndrome?
 
 People with type 2 diabetes often have underlying autonomic neuropathy and vascular stiffness, making the heart less able to adapt to stressors like alcohol or dehydration. This raises both frequency and duration of rhythm issues.
 
-#### #### What foods should I limit to lower my diabetes holiday heart risk?
+#### What foods should I limit to lower my diabetes holiday heart risk?
 
 Focus on reducing ultra-processed items: deli meats, canned soups, salty snacks, and sugary desserts. These contribute to sodium spikes, post-meal glucose surges, and inflammation—all linked to increased risk.
 
-#### #### Is it safe to take my usual diabetes medications while traveling or attending parties?
+#### Is it safe to take my usual diabetes medications while traveling or attending parties?
 
 Yes—unless your doctor advises otherwise. Carry extra doses, store meds properly (avoid hot cars!), and take them at consistent times—even if your schedule shifts. Missing doses increases diabetes holiday heart risk.
 
-#### #### Can stress really affect my heart rhythm if I have diabetes?
+#### Can stress really affect my heart rhythm if I have diabetes?
 
 Absolutely. Emotional stress raises cortisol and adrenaline, which can elevate both blood glucose *and* heart rate. Over time, chronic stress contributes to arterial pressure changes and rhythm instability—especially in adults over 50.

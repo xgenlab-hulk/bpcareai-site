@@ -45,17 +45,17 @@ Incorporating fiber this way isn’t about perfection—it’s about gentle, con
 
 ### FAQ  
 
-#### #### Can I add fiber to mashed potatoes without making them gummy or dense?  
+#### Can I add fiber to mashed potatoes without making them gummy or dense?  
 Yes—when psyllium is fully hydrated *before* mixing and used at ≤1 tsp per 2 cups mash, it enhances creaminess rather than gumminess. Cooling and reheating potatoes also increases resistant starch without texture change.
 
-#### #### What are the best stealth fiber holiday side dishes for someone with high blood pressure?  
+#### What are the best stealth fiber holiday side dishes for someone with high blood pressure?  
 Top choices include gravy thickened with psyllium (reduces sodium-laden thickeners), stuffing with white bean purée (adds potassium and fiber), and mashed potatoes made with 20% cauliflower purée—each supports healthy arterial pressure through multiple pathways.
 
-#### #### Do stealth fiber holiday side dishes help with blood sugar control during holiday meals?  
+#### Do stealth fiber holiday side dishes help with blood sugar control during holiday meals?  
 Absolutely. Clinical testing showed a ~22% reduction in post-meal glucose AUC (area under the curve) when resistant starch and soluble fiber were layered into traditional sides—without changing calorie count or perceived sweetness.
 
-#### #### Are there fiber additions I should avoid if I take heart medication?  
+#### Are there fiber additions I should avoid if I take heart medication?  
 Psyllium is generally safe with most cardiac meds, but take it at least 2 hours apart from oral medications (especially digoxin or certain beta-blockers) to avoid interference with absorption. Always discuss changes with your pharmacist or cardiologist.
 
-#### #### How much fiber should I aim for in a holiday side dish serving?  
+#### How much fiber should I aim for in a holiday side dish serving?  
 Aim for 3–5 g of total fiber per standard side serving (½ cup mashed potatoes, ¾ cup stuffing, ¼ cup gravy). That aligns with the 25–30 g/day target for adults 50+, while staying within comfortable digestive tolerance.

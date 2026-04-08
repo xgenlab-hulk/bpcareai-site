@@ -81,22 +81,22 @@ Understanding how gum disease and insulin resistance in seniors interact doesn�
 
 ### FAQ
 
-#### #### Can gum disease cause insulin resistance in older adults?
+#### Can gum disease cause insulin resistance in older adults?
 
 Yes—especially in adults over 70 with long-standing diabetes. Chronic periodontal infection increases circulating TNF-α and IL-6, which disrupt insulin signaling pathways and impair GLUT4 translocation in muscle and fat tissue. Clinical studies confirm that treating gum disease leads to improved insulin sensitivity and lower HbA1c in this population.
 
-#### #### How does gum disease and insulin resistance in seniors differ from younger adults?
+#### How does gum disease and insulin resistance in seniors differ from younger adults?
 
 In seniors, the immune response tends toward chronic low-grade inflammation (“inflammaging”), and healing capacity declines. This means oral pathogens trigger longer-lasting cytokine elevation, and the resulting insulin resistance is often more persistent—and less reversible without targeted oral intervention—than in younger individuals with similar gum disease severity.
 
-#### #### Does treating gum disease really lower blood sugar in people with diabetes over 70?
+#### Does treating gum disease really lower blood sugar in people with diabetes over 70?
 
 Yes. Multiple randomized controlled trials report average HbA1c reductions of 0.4% to 0.6% within 3–6 months after non-surgical periodontal therapy in adults over 70 with type 2 diabetes. These improvements are clinically meaningful—equivalent to adding a second oral glucose-lowering medication—and are sustained when oral maintenance continues.
 
-#### #### What’s the difference between gingivitis and periodontitis—and which affects insulin resistance more?
+#### What’s the difference between gingivitis and periodontitis—and which affects insulin resistance more?
 
 Gingivitis is reversible gum inflammation (redness, swelling, bleeding) without bone loss. Periodontitis involves destruction of supporting bone and ligaments—and is strongly associated with systemic inflammation and insulin resistance. While untreated gingivitis can progress, it’s established periodontitis—especially moderate-to-severe—that most consistently correlates with worsened glycemic control in seniors.
 
-#### #### Are dentures a risk factor for gum disease and insulin resistance in seniors?
+#### Are dentures a risk factor for gum disease and insulin resistance in seniors?
 
 Dentures themselves aren’t a direct cause—but poorly fitting or inadequately cleaned dentures can trap bacteria and yeast (like *Candida albicans*), leading to denture stomatitis and chronic oral inflammation. This contributes to the same systemic cytokine burden linked to insulin resistance. Regular denture cleaning, professional check-ups, and mucosal assessments help reduce this risk.

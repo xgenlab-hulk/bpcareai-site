@@ -89,22 +89,22 @@ Heart failure is a manageable condition—and enjoying life’s meaningful momen
 
 ### FAQ
 
-#### #### What causes sudden swelling after holiday meal heart failure in seniors?
+#### What causes sudden swelling after holiday meal heart failure in seniors?
 
 Sudden swelling after holiday meal heart failure in seniors is often due to increased dietary sodium—common in traditional holiday foods—which leads to fluid retention. In older adults with heart failure, especially those with reduced kidney function or diuretic-resistant edema, the body may struggle to eliminate this extra fluid quickly. It’s not about “eating too much,” but rather how the heart and kidneys respond to a temporary sodium load.
 
-#### #### Is sudden swelling after holiday meal heart failure always dangerous?
+#### Is sudden swelling after holiday meal heart failure always dangerous?
 
 Not always—but it *always deserves attention*. Mild, symmetrical ankle swelling that improves with rest and elevation is often part of normal aging or expected after a large meal. However, *sudden* swelling—especially if it’s new, rapid, or paired with breathing changes or weight gain—can indicate early decompensation and should be reviewed with your care team within 24–48 hours.
 
-#### #### How is sudden swelling after holiday meal heart failure different from regular edema?
+#### How is sudden swelling after holiday meal heart failure different from regular edema?
 
 Regular (chronic) edema tends to be stable—present for weeks or months, often limited to the ankles or feet, and responsive to usual diuretic doses. *Sudden swelling after holiday meal heart failure*, by contrast, develops quickly (within hours to 2 days), may involve new areas (like the belly or thighs), and is often accompanied by other symptoms like orthopnea or fatigue. It reflects an acute shift—not just long-term fluid balance.
 
-#### #### Can I prevent sudden swelling after holiday meal heart failure without skipping Thanksgiving?
+#### Can I prevent sudden swelling after holiday meal heart failure without skipping Thanksgiving?
 
 Yes—you can absolutely enjoy Thanksgiving while staying safe. Focus on portion control with higher-sodium dishes, add extra vegetables and lean protein, stay gently active, and keep up with your prescribed medications. Many people find it helpful to plan one “higher-sodium” meal (like Thanksgiving dinner) and return to their usual heart-healthy pattern the next day.
 
-#### #### What should I do if I notice sudden swelling after holiday meal heart failure and my doctor’s office is closed?
+#### What should I do if I notice sudden swelling after holiday meal heart failure and my doctor’s office is closed?
 
 First, stay calm. Check your weight, assess for breathing changes or chest discomfort, and elevate your legs. If you have a known weight baseline, compare today’s reading. If you’ve gained >4 lbs in 48 hours *and* feel short of breath—or if symptoms are worsening—call your provider’s after-hours line or go to urgent care. If you experience severe shortness of breath, chest pain, or confusion, call 911 or go to the nearest emergency department.

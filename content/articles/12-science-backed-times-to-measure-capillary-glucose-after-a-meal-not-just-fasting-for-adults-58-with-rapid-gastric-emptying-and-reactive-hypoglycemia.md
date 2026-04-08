@@ -71,17 +71,17 @@ Managing glucose in the context of rapid gastric emptying isn’t about tighter 
 
 ### FAQ  
 
-#### #### When is the best time to check blood sugar after eating if I have rapid gastric emptying?  
+#### When is the best time to check blood sugar after eating if I have rapid gastric emptying?  
 The most informative windows are 30, 90, and 120 minutes after your first bite—based on gastric emptying scintigraphy and symptom correlation. For full insight, consider adding 15-, 45-, and 135-minute checks during initial assessment.
 
-#### #### How does postprandial glucose timing rapid gastric emptying differ from standard diabetes monitoring?  
+#### How does postprandial glucose timing rapid gastric emptying differ from standard diabetes monitoring?  
 Standard diabetes monitoring often emphasizes fasting glucose or 2-hour postprandial values. In contrast, *postprandial glucose timing rapid gastric emptying* prioritizes earlier (15–45 min) and mid-range (75–135 min) checks to catch both the sharp rise and reactive drop missed by conventional timing.
 
-#### #### Can rapid gastric emptying happen without diabetes?  
+#### Can rapid gastric emptying happen without diabetes?  
 Yes—especially after gastric surgery, with autonomic neuropathy, or idiopathically in older adults. It’s a motility issue, not solely a glycemic one, though it profoundly affects glucose metabolism.
 
-#### #### What foods help stabilize glucose with rapid gastric emptying?  
+#### What foods help stabilize glucose with rapid gastric emptying?  
 Prioritize balanced meals: lean protein (e.g., eggs, Greek yogurt), soluble fiber (oats, chia, legumes), and healthy fats (avocado, nuts). Avoid large volumes of liquid with meals and limit high-glycemic carbs on an empty stomach.
 
-#### #### Is reactive hypoglycemia the same as postprandial glucose timing rapid gastric emptying?  
+#### Is reactive hypoglycemia the same as postprandial glucose timing rapid gastric emptying?  
 Not exactly. Reactive hypoglycemia is the *symptom* (low glucose + symptoms 2–4 hours after eating); *postprandial glucose timing rapid gastric emptying* describes the *mechanism and optimal monitoring strategy* behind many cases of reactive hypoglycemia in older adults.

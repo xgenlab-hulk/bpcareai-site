@@ -62,17 +62,17 @@ In summary, “normal” blood pressure doesn’t always mean “optimal” or �
 
 ### FAQ
 
-#### #### Can SGLT2 inhibitors cause low blood pressure even if my readings seem normal?  
+#### Can SGLT2 inhibitors cause low blood pressure even if my readings seem normal?  
 Yes—especially in adults 65+ with heart failure. SGLT2 inhibitors promote fluid loss, and “normal” seated BP may hide orthostatic or postprandial drops. Symptoms like dizziness or fatigue—even with BP readings in the 120–135/70–80 mm Hg range—warrant further evaluation.
 
-#### #### What does “sglt2 inhibitors normal blood pressure heart failure” really mean in practice?  
+#### What does “sglt2 inhibitors normal blood pressure heart failure” really mean in practice?  
 It means your seated BP falls within usual clinical targets, but *doesn’t guarantee safety*. For people with HFpEF, the goal isn’t just a number—it’s stable perfusion across positions and activities. A truly safe “normal” reflects consistency—not just a single value.
 
-#### #### Are older adults more likely to experience hypotension on SGLT2 inhibitors?  
+#### Are older adults more likely to experience hypotension on SGLT2 inhibitors?  
 Yes. Age-related declines in baroreceptor sensitivity, renal sodium handling, and plasma volume increase susceptibility. Clinical trials report orthostatic hypotension rates 1.5–2× higher in adults ≥65 vs. younger groups—even with seemingly normal baseline BP.
 
-#### #### Should I stop my SGLT2 inhibitor if I feel dizzy?  
+#### Should I stop my SGLT2 inhibitor if I feel dizzy?  
 No—don’t stop without consulting your doctor. Dizziness may indicate needed dose adjustment, timing changes (e.g., taking the pill in the morning instead of evening), or review of other meds. Abrupt discontinuation isn’t advised.
 
-#### #### How often should I check my blood pressure after starting an SGLT2 inhibitor?  
+#### How often should I check my blood pressure after starting an SGLT2 inhibitor?  
 Check twice daily (morning and evening) for the first 2 weeks, including one standing reading each time. Continue weekly monitoring thereafter—more often if symptoms arise or if you’re adjusting other medications.

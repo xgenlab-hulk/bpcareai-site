@@ -82,22 +82,22 @@ Understanding *retinal changes coronary calcification fatty liver* doesn’t mea
 
 ### FAQ
 
-#### #### Can retinal changes predict heart disease before symptoms appear?
+#### Can retinal changes predict heart disease before symptoms appear?
 
 Yes—studies show that retinal arteriolar narrowing and venular dilation, especially in men with non-alcoholic fatty liver disease, often precede detectable coronary artery calcification by several years. These microvascular changes reflect early systemic inflammation and endothelial stress, making them useful predictive biomarkers—even before chest pain, shortness of breath, or abnormal EKGs emerge.
 
-#### #### What is the connection between retinal changes coronary calcification fatty liver?
+#### What is the connection between retinal changes coronary calcification fatty liver?
 
 The connection lies in shared metabolic roots: insulin resistance, oxidative stress, and chronic low-grade inflammation drive both NAFLD progression and microvascular damage in the retina and coronary arteries. OCT-A findings like reduced arteriolar diameter and enlarged venular caliber correlate strongly with coronary calcium scores in men aged 52–64—suggesting the retina serves as a visible barometer of vascular aging across organ systems.
 
-#### #### Are retinal changes coronary calcification fatty liver reversible with lifestyle changes?
+#### Are retinal changes coronary calcification fatty liver reversible with lifestyle changes?
 
 Evidence suggests yes—particularly when interventions begin early. Clinical trials report measurable improvements in retinal vessel caliber and density after 3–6 months of structured lifestyle modification: Mediterranean diet, regular physical activity, weight management, and optimized sleep. Liver fat reduction (measured via MRI-PDFF or FibroScan®) often parallels these retinal improvements.
 
-#### #### Do I need an eye exam specifically for heart health?
+#### Do I need an eye exam specifically for heart health?
 
 Not necessarily—but if you have NAFLD and are over 50, asking your ophthalmologist or optometrist about retinal vascular assessment (including OCT-A, if available) can add meaningful insight. Standard dilated eye exams assess for diabetic retinopathy or glaucoma, but advanced imaging provides deeper functional data relevant to cardiovascular risk.
 
-#### #### How often should men with fatty liver get retinal imaging?
+#### How often should men with fatty liver get retinal imaging?
 
 There’s no universal guideline yet—but for those with additional risk factors (e.g., prediabetes, elevated BP, or family history of early heart disease), baseline OCT-A followed by repeat imaging every 2–3 years—or sooner if metabolic markers worsen—is increasingly supported in clinical practice. Always discuss timing with your care team based on your individual profile.

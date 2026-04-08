@@ -56,17 +56,17 @@ In short: Your body is still learning, adapting, and responding beautifully—es
 
 ### FAQ
 
-#### #### What are the worst holiday foods that spike blood sugar for seniors with diabetes?
+#### What are the worst holiday foods that spike blood sugar for seniors with diabetes?
 The top culprits include classic stuffing (especially with white bread), mashed potatoes (without fiber-rich additions), candied sweet potatoes, dinner rolls, and even honey-glazed carrots. These rank high on the glycemic index *not* because of added sugar alone, but due to starch structure changes during cooking.
 
-#### #### Are there holiday foods that spike blood sugar even though they taste savory?
+#### Are there holiday foods that spike blood sugar even though they taste savory?
 Yes—absolutely. Savory items like stuffing, macaroni and cheese, and cornbread rely heavily on refined grains and cooked starches. Their lack of sweetness masks their rapid glucose impact, especially in older adults with reduced insulin response.
 
-#### #### How can I enjoy holiday meals without spiking my blood sugar?
+#### How can I enjoy holiday meals without spiking my blood sugar?
 Focus on balance: fill half your plate with non-starchy vegetables (roasted Brussels sprouts, green beans), one-quarter with lean protein (turkey breast, baked fish), and one-quarter with a *small* portion of smartly prepared starch. Chew slowly, stay hydrated, and consider a short walk after eating—it improves glucose uptake by up to 20%.
 
-#### #### Does cranberry sauce really spike blood sugar?
+#### Does cranberry sauce really spike blood sugar?
 Traditional jellied cranberry sauce (especially canned) often contains as much sugar per serving as soda—up to 25g per ¼ cup. Even “low-sugar” versions may use maltitol or other sugar alcohols that affect some people. Whole-berry, lightly sweetened versions (with <10g added sugar per serving) are safer alternatives.
 
-#### #### Why do blood sugar levels rise more after holiday meals in people over 60?
+#### Why do blood sugar levels rise more after holiday meals in people over 60?
 Aging affects insulin secretion, muscle glucose uptake, and gut hormone responses (like GLP-1). Add holiday-related factors—less movement, altered sleep, and emotional eating—and the body’s glucose-buffering capacity naturally softens. It’s physiology, not personal shortcoming.

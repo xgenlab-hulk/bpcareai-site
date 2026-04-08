@@ -50,17 +50,17 @@ In short: Mitochondrial resilience holiday stress isn’t something you have to 
 
 ### FAQ
 
-#### #### What are the best foods for mitochondrial resilience holiday stress?
+#### What are the best foods for mitochondrial resilience holiday stress?
 The top evidence-informed choices include pomegranate (for polyphenols), pasture-raised eggs (for selenium and choline), shiitake mushrooms (for ergothioneine), and sprouted lentils (for bioavailable B vitamins). Pairing them with healthy fats (like olive oil or avocado) enhances absorption—and eating them earlier in the day supports sustained energy.
 
-#### #### Can mitochondrial resilience holiday stress affect my blood pressure?
+#### Can mitochondrial resilience holiday stress affect my blood pressure?
 Yes—indirectly but meaningfully. When mitochondria struggle, cells (including those in arterial walls) may produce more reactive oxygen species, contributing to endothelial dysfunction and stiffer arteries. Over time, this can elevate systolic BP. Supporting mitochondrial health helps maintain vascular flexibility and healthy arterial pressure responses.
 
-#### #### How does chronic fatigue impact mitochondrial resilience holiday stress?
+#### How does chronic fatigue impact mitochondrial resilience holiday stress?
 Chronic fatigue often reflects long-term mitochondrial inefficiency—fewer mitochondria, reduced ATP output, and slower repair cycles. During holidays, added stressors (emotional labor, disrupted routines) lower the threshold for energy crashes. Prioritizing mitochondrial cofactors doesn’t eliminate fatigue, but it *raises the floor*—helping you sustain more energy before hitting depletion.
 
-#### #### Are there foods I should avoid during holiday gatherings to protect mitochondrial health?
+#### Are there foods I should avoid during holiday gatherings to protect mitochondrial health?
 Minimize ultra-processed items high in refined sugars and industrial seed oils (think: many store-bought cookies, creamy dips with hydrogenated fats, or sugary cocktails). These promote inflammation and oxidative stress—both of which directly impair mitochondrial function. Opt instead for whole-food swaps: roasted sweet potatoes over candied yams, herbal sparkling water over soda, dark chocolate (70%+) over milk chocolate.
 
-#### #### Is mitochondrial resilience holiday stress different from regular holiday fatigue?
+#### Is mitochondrial resilience holiday stress different from regular holiday fatigue?
 Yes. Regular holiday fatigue tends to lift with rest. Mitochondrial resilience holiday stress lingers—often worsening with back-to-back social events, poor sleep recovery, or nutrient gaps. It’s less about “being tired” and more about *delayed recovery*, brain fog after conversation, or muscle heaviness unrelated to activity level.

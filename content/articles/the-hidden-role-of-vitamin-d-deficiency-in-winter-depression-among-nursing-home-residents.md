@@ -51,22 +51,22 @@ In short, vitamin d deficiency in nursing homes is both common and addressable. 
 
 ### FAQ
 
-#### #### What are the signs of vitamin D deficiency in nursing homes?
+#### What are the signs of vitamin D deficiency in nursing homes?
 
 Common signs include persistent fatigue, muscle aches or weakness, frequent falls, low mood or increased apathy—especially during winter months. Because these symptoms overlap with other conditions, blood testing remains the gold standard for diagnosis.
 
-#### #### Can vitamin D supplementation improve seasonal depression in older adults?
+#### Can vitamin D supplementation improve seasonal depression in older adults?
 
 Yes—studies suggest that correcting deficiency can support mood stability, particularly when combined with other wellness strategies (light exposure, social engagement, and routine). Improvements are often gradual, appearing over 8–12 weeks of consistent supplementation.
 
-#### #### How common is vitamin d deficiency in nursing homes?
+#### How common is vitamin d deficiency in nursing homes?
 
 Very common. Research indicates prevalence rates between 60% and 80%, with higher rates among residents with limited sun exposure, darker skin, or chronic kidney disease.
 
-#### #### Is there a link between vitamin D and blood pressure in older adults?
+#### Is there a link between vitamin D and blood pressure in older adults?
 
 Some observational studies show modest associations between low vitamin D and higher systolic blood pressure (e.g., readings consistently above 140 mm Hg), though causality isn’t fully established. Maintaining healthy vitamin D levels is part of overall cardiovascular wellness—not a replacement for BP management.
 
-#### #### Do all seniors in nursing homes need vitamin D testing?
+#### Do all seniors in nursing homes need vitamin D testing?
 
 Not necessarily—but it’s highly recommended for those with mood changes, unexplained fatigue, bone health concerns, or chronic conditions affecting absorption. Discuss timing and frequency with the facility’s medical director or primary care provider.

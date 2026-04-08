@@ -57,22 +57,22 @@ The holidays aren’t about perfection—they’re about presence, connection, a
 
 ### FAQ
 
-#### #### Can low-sodium holiday condiments seniors make really lower blood pressure?
+#### Can low-sodium holiday condiments seniors make really lower blood pressure?
 
 Yes—when used consistently as part of an overall low-sodium eating pattern, these swaps help reduce daily sodium intake by 500–1,200 mg, which studies link to modest but meaningful BP reductions (average 2–5 mm Hg systolic). Over time, that supports long-term cardiovascular resilience.
 
-#### #### Where can I find easy low-sodium holiday condiments seniors love?
+#### Where can I find easy low-sodium holiday condiments seniors love?
 
 Look for simple recipes using whole ingredients—miso, tahini, herbs, citrus, unsalted broths, and plain yogurt. Avoid pre-made spice blends (often high in sodium) and always double-check labels on tamari or mustard. Many community senior centers and local dietitians offer free handouts with tested recipes.
 
-#### #### Are low-sodium holiday condiments seniors bring to parties considered rude?
+#### Are low-sodium holiday condiments seniors bring to parties considered rude?
 
 Not at all—especially when offered warmly and shared generously. Most hosts appreciate the thoughtfulness, and many guests benefit quietly from healthier options too. Framing it as “something I’ve been loving lately” keeps it light and inclusive.
 
-#### #### Do I need special equipment to make low-sodium holiday condiments seniors use?
+#### Do I need special equipment to make low-sodium holiday condiments seniors use?
 
 No. A blender or food processor helps for aioli or dressings, but a whisk and bowl work perfectly fine. Roasting garlic requires only an oven or air fryer—and miso gravy simmers gently on any stovetop. Time commitment is typically 10–20 minutes.
 
-#### #### How often should seniors check blood pressure during the holidays?
+#### How often should seniors check blood pressure during the holidays?
 
 We recommend checking at least twice weekly—ideally at the same time each day, before meals and medication. Consistency matters more than frequency. If readings rise above 140/90 mm Hg on two or more occasions, reach out to your provider.

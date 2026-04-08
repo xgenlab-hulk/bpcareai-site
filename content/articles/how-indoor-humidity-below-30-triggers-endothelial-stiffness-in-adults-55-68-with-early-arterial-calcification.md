@@ -65,22 +65,22 @@ Vascular health isn’t only about what’s inside your body—it’s also shape
 
 ### FAQ
 
-#### #### Can low humidity endothelial stiffness raise my blood pressure?
+#### Can low humidity endothelial stiffness raise my blood pressure?
 
 Yes—studies show sustained humidity below 30% is associated with measurable increases in both systolic BP and pulse wave velocity, especially in adults with existing arterial changes. The mechanism involves reduced nitric oxide and heightened vascular tone—not just temporary spikes.
 
-#### #### Does low humidity endothelial stiffness affect everyone equally?
+#### Does low humidity endothelial stiffness affect everyone equally?
 
 No. Adults 55–68 with early arterial calcification, hypertension, or metabolic conditions tend to show greater sensitivity. Younger, healthier adults may experience minimal or no measurable change under the same conditions.
 
-#### #### What’s the safest indoor humidity range to protect against low humidity endothelial stiffness?
+#### What’s the safest indoor humidity range to protect against low humidity endothelial stiffness?
 
 Evidence supports maintaining 40–50% relative humidity year-round. Below 30% increases risk; above 60% raises mold and dust mite concerns—so 40–50% is the sweet spot for vascular and respiratory balance.
 
-#### #### Can using a humidifier lower my blood pressure?
+#### Can using a humidifier lower my blood pressure?
 
 Not directly—but consistent humidification in the 40–50% range supports healthier endothelial function, which contributes to stable arterial compliance and smoother BP regulation over time. It’s one supportive piece—not a standalone treatment.
 
-#### #### Is low humidity endothelial stiffness reversible?
+#### Is low humidity endothelial stiffness reversible?
 
 Yes—research suggests improvements in endothelial-dependent vasodilation and reductions in PWV occur within 2–4 weeks of sustained humidity optimization, especially when combined with other heart-healthy habits like aerobic activity and Mediterranean-style eating.

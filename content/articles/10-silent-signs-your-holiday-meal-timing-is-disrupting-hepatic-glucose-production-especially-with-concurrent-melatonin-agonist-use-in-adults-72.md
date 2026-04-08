@@ -74,20 +74,20 @@ Holiday seasons are meant to be shared, savored, and softened—not sources of m
 
 ### FAQ
 
-#### #### Does holiday meal timing hepatic glucose affect people without diabetes?
+#### Does holiday meal timing hepatic glucose affect people without diabetes?
 Yes. Even adults with normal fasting glucose can experience elevated overnight or post-dinner glucose due to circadian misalignment. In one study of 72+ adults with normoglycemia, late eating increased 2 a.m. glucose by 19%—independent of total calories or carb intake.
 
-#### #### How does holiday meal timing hepatic glucose interact with blood pressure?
+#### How does holiday meal timing hepatic glucose interact with blood pressure?
 Disrupted circadian glucose metabolism often co-occurs with nocturnal hypertension. Elevated hepatic glucose output stimulates sympathetic nervous system activity, contributing to elevated nighttime BP—especially in those with existing arterial stiffness. A 2021 cohort found that adults with both delayed dinner timing *and* elevated 2 a.m. glucose had a 2.3× higher risk of non-dipping BP patterns (<10% nocturnal drop).
 
-#### #### Can melatonin supplements (not agonists) help with holiday meal timing hepatic glucose?
+#### Can melatonin supplements (not agonists) help with holiday meal timing hepatic glucose?
 Not reliably—and possibly counterproductively. Over-the-counter melatonin lacks the receptor selectivity of prescription agonists and may blunt endogenous melatonin rhythm if dosed inconsistently. Clinical guidelines recommend against self-prescribing melatonin for glucose regulation without medical supervision.
 
-#### #### What’s the ideal window for holiday meals in adults 72+?
+#### What’s the ideal window for holiday meals in adults 72+?
 Breakfast: within 60 minutes of waking  
 Lunch: between 12–1 p.m.  
 Dinner: completed by 7:30 p.m.  
 This window aligns with peak hepatic insulin sensitivity (morning) and lowest gluconeogenic drive (evening), supporting both glucose and BP stability.
 
-#### #### Is skipping dessert enough to offset late-night eating?
+#### Is skipping dessert enough to offset late-night eating?
 No—timing matters more than macronutrient composition in this context. A 2022 randomized trial showed that a low-carb dinner at 9 p.m. raised overnight glucose more than a moderate-carb dinner at 6:30 p.m. The liver responds first to *when* nutrients arrive—not just *what* they are.

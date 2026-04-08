@@ -50,17 +50,17 @@ In closing, supporting healthy holiday eating for seniors doesn’t require dram
 
 ### FAQ
 
-#### #### Does cold exposure satiety signaling seniors work for people with high blood pressure?  
+#### Does cold exposure satiety signaling seniors work for people with high blood pressure?  
 Yes—when done gently and briefly (under 2 minutes with cool, not freezing, water)—cold face immersion typically causes only transient, mild BP changes (often a slight dip in systolic pressure due to vagal activation). It’s generally safe for most adults with controlled hypertension. However, those with severe or labile BP should consult their provider first.
 
-#### #### How does cold exposure satiety signaling compare to drinking cold water before meals?  
+#### How does cold exposure satiety signaling compare to drinking cold water before meals?  
 Drinking cold water may mildly increase energy expenditure, but it doesn’t reliably activate the trigeminal-hypothalamic pathway like facial cooling does. Studies show facial immersion produces more consistent PYY/GLP-1 modulation in older adults—likely because it targets neural receptors directly.
 
-#### #### Is cold exposure satiety signaling seniors safe for someone with atrial fibrillation?  
+#### Is cold exposure satiety signaling seniors safe for someone with atrial fibrillation?  
 Most evidence suggests brief, moderate cold face exposure is well-tolerated—but because it influences vagal tone, those with AFib (especially with slow ventricular response or pacemaker dependence) should discuss it with their cardiologist before starting.
 
-#### #### Can cold exposure help reduce late-afternoon snacking in seniors?  
+#### Can cold exposure help reduce late-afternoon snacking in seniors?  
 It may—particularly when paired with timing. Doing the 2-minute face immersion 15 minutes before your usual afternoon snack time helped 68% of participants in a small 2024 pilot report feeling less compelled to eat in that window.
 
-#### #### Do I need special equipment for cold exposure satiety signaling seniors?  
+#### Do I need special equipment for cold exposure satiety signaling seniors?  
 No. A soft cotton washcloth and cool tap water are all that’s needed. Avoid ice packs or submersion in icy water—gentleness and comfort are central to safety and sustainability.

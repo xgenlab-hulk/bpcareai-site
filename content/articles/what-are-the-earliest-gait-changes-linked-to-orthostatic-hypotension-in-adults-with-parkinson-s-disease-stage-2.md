@@ -106,23 +106,23 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What are the earliest gait changes orthostatic hypotension parkinsons patients notice?
+#### What are the earliest gait changes orthostatic hypotension parkinsons patients notice?
 
 The earliest detectable gait changes orthostatic hypotension parkinsons include increased stride time variability (more inconsistency in step timing) and prolonged double-support phase (spending more time with both feet on the ground). These often appear before noticeable dizziness or falls — sometimes only observable via gait analysis tools — and reflect early autonomic-motor integration challenges.
 
-#### #### Can gait changes orthostatic hypotension parkinsons be reversed?
+#### Can gait changes orthostatic hypotension parkinsons be reversed?
 
 While Parkinson’s-related autonomic changes aren’t reversible, the *functional impact* of gait changes orthostatic hypotension parkinsons can often be reduced or stabilized. Strategies like hydration, compression, slow positional changes, and targeted physical therapy improve BP regulation and gait confidence — leading to measurable improvements in variability and stability over 8–12 weeks.
 
-#### #### How is orthostatic hypotension related to blood pressure in Parkinson’s disease?
+#### How is orthostatic hypotension related to blood pressure in Parkinson’s disease?
 
 Orthostatic hypotension is defined by a sustained drop in blood pressure (BP) upon standing — specifically ≥20 mm Hg systolic or ≥10 mm Hg diastolic within 3 minutes. In Parkinson’s, it results from degeneration of autonomic nerves that normally constrict blood vessels and increase heart rate to maintain cerebral perfusion. This directly compromises blood pressure stability — especially during upright activity like walking.
 
-#### #### Does low blood pressure cause walking problems in Parkinson’s?
+#### Does low blood pressure cause walking problems in Parkinson’s?
 
 Yes — but indirectly. Low blood pressure itself doesn’t weaken muscles. Instead, the drop in cerebral blood flow reduces oxygen delivery to motor planning areas (e.g., prefrontal cortex, basal ganglia), triggering compensatory gait adaptations: shorter steps, wider stance, and greater reliance on visual feedback. Over time, this can reinforce instability if unaddressed.
 
-#### #### What blood pressure numbers indicate orthostatic hypotension?
+#### What blood pressure numbers indicate orthostatic hypotension?
 
 Orthostatic hypotension is diagnosed when, within 3 minutes of standing from lying down:  
 - Systolic BP falls by ≥20 mm Hg *or*  

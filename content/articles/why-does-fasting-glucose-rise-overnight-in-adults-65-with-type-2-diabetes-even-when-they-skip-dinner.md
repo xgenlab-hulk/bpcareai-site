@@ -88,17 +88,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Why does my blood sugar go up overnight even when I skip dinner?
+#### Why does my blood sugar go up overnight even when I skip dinner?
 Skipping dinner can sometimes *increase* the risk of an overnight low—especially if you're on insulin or certain oral medications. When blood sugar drops too low, your body releases stress hormones that trigger a rebound rise by morning (Somogyi effect). More commonly in seniors, though, the rise reflects age-related liver insulin resistance and natural hormonal surges—not meal timing alone.
 
-#### #### Is overnight fasting glucose rise in seniors the same as the dawn phenomenon?
+#### Is overnight fasting glucose rise in seniors the same as the dawn phenomenon?
 Not always—but the dawn phenomenon is the *most common cause* of overnight fasting glucose rise in seniors. It’s driven by normal circadian hormone shifts (cortisol, growth hormone) acting on a liver that’s become less responsive to insulin with age. Unlike the Somogyi effect, it’s not caused by low blood sugar—and it typically shows a steady, gradual rise—not a sudden spike.
 
-#### #### How common is overnight fasting glucose rise in seniors with type 2 diabetes?
+#### How common is overnight fasting glucose rise in seniors with type 2 diabetes?
 Very common. Studies estimate that 50–70% of adults over 65 with type 2 diabetes experience clinically meaningful overnight fasting glucose rise—defined as a morning value at least 30 mg/dL higher than bedtime—on a regular basis. It’s not a sign of poor control; it’s a reflection of physiology changing with age.
 
-#### #### Can sleep apnea affect my overnight glucose levels?
+#### Can sleep apnea affect my overnight glucose levels?
 Yes. Obstructive sleep apnea (OSA) is highly prevalent in older adults with type 2 diabetes—and it contributes directly to overnight glucose rise. Intermittent low oxygen levels during apnea events activate the sympathetic nervous system, raising cortisol and epinephrine. This impairs insulin action and stimulates glucose production. Treating OSA (e.g., with CPAP) has been shown to reduce morning glucose by 15–25 mg/dL in clinical studies.
 
-#### #### Does metformin help with overnight fasting glucose rise in seniors?
+#### Does metformin help with overnight fasting glucose rise in seniors?
 Metformin works primarily by reducing liver glucose output—and yes, it *can* help blunt overnight fasting glucose rise in seniors. However, its effect is often modest (typically lowering fasting glucose by 10–20 mg/dL), and dose adjustments may be needed in older adults due to declining kidney function. Always discuss metformin use with your provider, especially if eGFR is below 60 mL/min.

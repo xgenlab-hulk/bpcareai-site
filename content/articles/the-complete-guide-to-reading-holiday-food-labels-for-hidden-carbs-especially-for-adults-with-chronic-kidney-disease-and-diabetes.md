@@ -85,22 +85,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### How do I find hidden carbs in holiday foods if I have kidney disease and diabetes?
+#### How do I find hidden carbs in holiday foods if I have kidney disease and diabetes?
 
 Look beyond “Sugars” on the label—check **Total Carbohydrates**, then scan the ingredients for maltodextrin, dextrose, corn syrup solids, and fruit juice concentrate. Also watch for phosphate additives (like sodium tripolyphosphate), which often accompany high-carb processed foods and worsen both kidney function and insulin resistance. When in doubt, choose whole, unprocessed options—roasted vegetables, plain turkey, or baked apples with cinnamon.
 
-#### #### Are sugar alcohols safe for people with CKD Stage 3 and diabetes during the holidays?
+#### Are sugar alcohols safe for people with CKD Stage 3 and diabetes during the holidays?
 
 Some sugar alcohols (like erythritol) have minimal impact on blood sugar and kidney function, but others—especially maltitol and sorbitol—can raise glucose significantly and cause bloating or diarrhea, which may affect fluid balance in CKD. Always check the “Total Carbohydrates” line first, and if “Sugar Alcohols” is listed, subtract *half* only if you’re closely monitoring insulin dosing. Better yet: prioritize naturally low-carb, low-phosphate treats like walnut-stuffed dates (1–2 max) or ricotta with berries.
 
-#### #### What’s the biggest mistake people make reading holiday food labels hidden carbs kidney disease?
+#### What’s the biggest mistake people make reading holiday food labels hidden carbs kidney disease?
 
 Assuming “low-sodium” means “kidney-safe” or “low-sugar” means “low-carb.” Many low-sodium holiday gravies use maltodextrin *and* calcium phosphate to maintain texture and flavor—raising both glucose *and* phosphate load. Always cross-check the ingredients list—not just the front-of-package claims.
 
-#### #### Can modified food starch raise my blood sugar if I have diabetes and CKD?
+#### Can modified food starch raise my blood sugar if I have diabetes and CKD?
 
 Yes—modified food starch is almost entirely digestible carbohydrate, with little to no fiber or resistant starch unless specifically labeled. It behaves like white flour or rice in your system: rapid digestion, quick glucose rise. For CKD Stage 3+, repeated spikes also promote inflammation and oxidative stress—both harmful to remaining kidney function.
 
-#### #### Do natural flavors contain phosphates—and why does that matter for kidney health?
+#### Do natural flavors contain phosphates—and why does that matter for kidney health?
 
 They *can*. “Natural flavors” is a broad term—and while not always phosphate-laden, it’s frequently used alongside phosphate-based preservatives or browning agents in processed holiday meats, cheeses, and dairy alternatives. Since phosphate isn’t required to appear on labels unless added as a direct ingredient (e.g., “sodium phosphate”), the safest approach is to choose fresh, unmarinated proteins and ask manufacturers directly if unsure. Excess phosphate contributes to vascular calcification—a major risk factor for heart disease in CKD.

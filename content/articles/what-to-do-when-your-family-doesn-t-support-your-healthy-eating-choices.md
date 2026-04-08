@@ -67,17 +67,17 @@ Healthy eating during family gatherings doesn’t mean performing perfection. It
 
 ### FAQ
 
-#### #### How do I handle family resistance to healthy eating during holidays without causing tension?
+#### How do I handle family resistance to healthy eating during holidays without causing tension?
 Focus on contribution over correction. Bring a dish that fits your goals *and* feels festive—like spiced roasted carrots or a grain-based salad with dried fruit and nuts. Share the story behind it (“This reminds me of our summer picnics!”) rather than explaining why it’s “better.” When offered less-aligned options, smile and say, “I’ll try a small portion—I love the taste!” Then shift attention to conversation, games, or helping clear the table.
 
-#### #### Why does family resistance to healthy eating seem stronger with older relatives?
+#### Why does family resistance to healthy eating seem stronger with older relatives?
 Older generations often associate abundance with security and care—especially if they lived through times of scarcity. They may also hold outdated nutrition beliefs (e.g., “Eggs raise cholesterol dangerously” or “Fat is always bad”). Rather than debating, try saying, “I’m following my doctor’s advice for my blood pressure—and they encouraged more beans and less processed meat. Could we try mashing some white beans into the stuffing this year?”
 
-#### #### What can I say when family members tease me about my healthy eating choices?
+#### What can I say when family members tease me about my healthy eating choices?
 Keep it light and grounded: “I’m just listening to my body these days—it feels better with more veggies and less salt.” Or, with gentle humor: “My arteries send thank-you notes every time I skip the gravy!” Avoid defensiveness; instead, redirect to shared values: “What matters most is that we’re all here, laughing and full of good memories.”
 
-#### #### Is it okay to eat differently than the rest of my family at home?
+#### Is it okay to eat differently than the rest of my family at home?
 Absolutely—and it’s increasingly common. Many families now embrace “modular meals”: a shared base (like grilled chicken or quinoa) with customizable toppings (salsa vs. cheese, steamed broccoli vs. mashed potatoes). You can also take responsibility for your own breakfast and lunch, which gives you control without requiring others to change. Over time, your routine may spark curiosity—not resistance.
 
-#### #### How can I tell if family resistance to healthy eating is affecting my blood pressure?
+#### How can I tell if family resistance to healthy eating is affecting my blood pressure?
 Track your BP at consistent times (e.g., mornings before caffeine, evenings after resting) for two weeks—both on typical family-meal days and on quieter, self-prepared days. Compare averages. A consistent difference of 5+ mm Hg in systolic or 3+ mm Hg in diastolic may suggest dietary patterns are playing a role. Bring those logs to your next appointment—they’re valuable data, not “complaints.”

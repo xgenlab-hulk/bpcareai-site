@@ -87,22 +87,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does emotional eating blood sugar over 50 get worse with age?
+#### Does emotional eating blood sugar over 50 get worse with age?
 
 Yes—gradually. After 50, reduced muscle mass, slower insulin response, and age-related changes in stress-hormone regulation make blood sugar more sensitive to emotional triggers. That said, lifestyle adjustments—especially consistent movement and mindful eating—can significantly offset these changes.
 
-#### #### How can I tell if my high blood sugar after Christmas is from emotional eating—or just overindulgence?
+#### How can I tell if my high blood sugar after Christmas is from emotional eating—or just overindulgence?
 
 Look at the *pattern*, not just the number. Emotional eating often involves cravings that arise without physical hunger, happen at predictable emotional times (e.g., evenings, after calls with certain family members), and leave you feeling guilt or shame afterward. Overindulgence tends to be more situational (e.g., “It’s Christmas Eve—I’ll enjoy it!”) and less tied to mood shifts. Tracking both food *and* feelings for a few days helps clarify the difference.
 
-#### #### Can emotional eating blood sugar over 50 lead to high blood pressure too?
+#### Can emotional eating blood sugar over 50 lead to high blood pressure too?
 
 Yes—there’s a strong link. Chronic stress and repeated glucose spikes activate the sympathetic nervous system and promote inflammation, both of which contribute to arterial stiffness and elevated BP. Studies show adults over 50 with poorly managed blood sugar are up to 2.3x more likely to develop hypertension (defined as ≥140/90 mm Hg) within 5 years.
 
-#### #### What’s the best snack to curb emotional eating without spiking blood sugar?
+#### What’s the best snack to curb emotional eating without spiking blood sugar?
 
 A small handful of raw almonds (10–12) + one small apple (with skin) offers fiber, healthy fat, and slow-release carbs—keeping glucose steady *and* supporting satiety. Other great options: Greek yogurt with cinnamon, cottage cheese with berries, or roasted edamame.
 
-#### #### Is it normal to crave sweets more during the holidays—even if I don’t usually?
+#### Is it normal to crave sweets more during the holidays—even if I don’t usually?
 
 Absolutely—and it’s biologically understandable. Shorter days lower serotonin, holiday scents and memories trigger dopamine, and social cues (e.g., seeing others enjoy treats) activate reward centers in the brain. The key isn’t stopping the craving—but choosing how (and how much) you respond to it.

@@ -68,17 +68,17 @@ If you're unsure, talking to your doctor is always a good idea. And remember: se
 
 ### FAQ
 
-#### #### How can I prevent low blood sugar while caring for my spouse with dementia?
+#### How can I prevent low blood sugar while caring for my spouse with dementia?
 Hypoglycemia risk rises when meals are delayed or skipped — common in dementia caregiving. Prioritize quick-access, balanced mini-meals (e.g., cheese + apple slices, cottage cheese + walnuts) kept near caregiving areas. Discuss with your provider whether adjusting insulin timing — especially basal doses — to match your spouse’s sleep-wake rhythm may improve overnight safety. Also, consider setting CGM alerts to notify *only* for urgent lows (<55 mg/dL), reducing alert fatigue.
 
-#### #### What does “diabetes management dementia caregiver seniors” actually involve day-to-day?
+#### What does “diabetes management dementia caregiver seniors” actually involve day-to-day?
 It involves intentional coordination: aligning your insulin schedule with your spouse’s unpredictable routine, using shared CGM features thoughtfully (not constantly), choosing flexible meal patterns, and building in micro-breaks for hydration and glucose checks. It’s less about rigid control and more about responsive, compassionate adaptation — supported by your care team.
 
-#### #### Can CGM data sharing help me manage my diabetes while caring for someone with dementia?
+#### Can CGM data sharing help me manage my diabetes while caring for someone with dementia?
 Yes — when used intentionally. Shared CGM systems let trusted family members or aides receive alerts, but newer models include caregiver-only override functions (e.g., pausing non-urgent notifications during your rest time). Work with your CDCES to set alerts for *clinically significant* events only — like sustained lows or rapid glucose drops — so you stay informed without burnout.
 
-#### #### Is it safe to adjust my insulin dose based on my spouse’s behavior?
+#### Is it safe to adjust my insulin dose based on my spouse’s behavior?
 No — never adjust your insulin solely based on your spouse’s actions (e.g., “they didn’t eat, so I’ll skip my dose”). Instead, focus on *your* patterns: track your own meal timing, energy levels, and glucose trends. Then, bring those observations to your provider — who can help tailor your plan *safely*. Self-adjustment without guidance increases risk of dangerous highs or lows.
 
-#### #### How do I know if caregiver fatigue is affecting my diabetes control?
+#### How do I know if caregiver fatigue is affecting my diabetes control?
 Watch for subtle shifts: more frequent lows before meals, unexplained highs in the morning, difficulty remembering medication doses, or needing help to treat a low. Fatigue alters stress hormones and can blunt hypoglycemia awareness. If you notice two or more of these over a week, it’s a gentle sign to pause, reflect, and reach out to your care team — you deserve support, too.

@@ -93,17 +93,17 @@ You’re not being labeled “sick.” You’re being invited into a proactive c
 
 ### FAQ
 
-#### #### What does asymptomatic diastolic dysfunction hypertension echo mean?
+#### What does asymptomatic diastolic dysfunction hypertension echo mean?
 It means your echocardiogram shows early signs that your heart’s relaxation phase is becoming less efficient—likely due to long-term high blood pressure—even though you don’t yet have symptoms like shortness of breath or fatigue, and your ejection fraction remains normal.
 
-#### #### Can asymptomatic diastolic dysfunction hypertension echo lead to heart failure?
+#### Can asymptomatic diastolic dysfunction hypertension echo lead to heart failure?
 Yes—especially if left unaddressed. Studies show that adults over 65 with this pattern and elevated NT-proBNP have a significantly higher risk of progressing to symptomatic heart failure with preserved ejection fraction (HFpEF) within 3–7 years. Early intervention helps slow or even halt progression.
 
-#### #### How is asymptomatic diastolic dysfunction hypertension echo different from systolic dysfunction?
+#### How is asymptomatic diastolic dysfunction hypertension echo different from systolic dysfunction?
 Systolic dysfunction involves weakened pumping ability (low LVEF), often seen in heart attacks or cardiomyopathy. Asymptomatic diastolic dysfunction hypertension echo involves stiffening and impaired *filling*, usually driven by chronic high BP and aging—with normal or near-normal pumping strength (LVEF ≥50%).
 
-#### #### Does controlling blood pressure reverse asymptomatic diastolic dysfunction?
+#### Does controlling blood pressure reverse asymptomatic diastolic dysfunction?
 Complete reversal is uncommon once structural changes like fibrosis occur—but tight BP control (especially targeting both systolic *and* diastolic pressures, and reducing nocturnal surges) can significantly slow progression and improve diastolic function metrics like E/e′ and LA strain over 1–2 years.
 
-#### #### What other tests might my doctor order after finding asymptomatic diastolic dysfunction hypertension echo?
+#### What other tests might my doctor order after finding asymptomatic diastolic dysfunction hypertension echo?
 Depending on your profile, they may recommend: repeat echo in 6–12 months, 24-hour ambulatory BP monitoring, sleep study (if snoring or daytime fatigue), blood work (including renal function and HbA1c), and possibly cardiac MRI for tissue characterization—if suspicion for amyloidosis or infiltrative disease is raised.

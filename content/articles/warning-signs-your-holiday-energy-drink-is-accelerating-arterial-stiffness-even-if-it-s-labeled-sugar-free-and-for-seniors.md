@@ -99,22 +99,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Are sugar-free energy drinks safe for seniors with high blood pressure?
+#### Are sugar-free energy drinks safe for seniors with high blood pressure?
 
 For many seniors with controlled or prehypertensive BP, occasional use may be fine — but frequent intake (more than 1–2 times/week) can interfere with vascular relaxation, especially when combined with holiday stressors like travel, disrupted sleep, or richer meals. It’s wise to discuss your specific pattern with your clinician, especially if you take BP medications.
 
-#### #### Can sugar-free energy drinks cause arterial stiffness in seniors even without caffeine?
+#### Can sugar-free energy drinks cause arterial stiffness in seniors even without caffeine?
 
 Yes — ingredients like theobromine (from cocoa), yerba mate alkaloids, and high-dose B vitamins can independently affect vascular tone and endothelial function. Studies show measurable changes in pulse wave velocity within hours — even in “decaf” versions marketed to seniors.
 
-#### #### What are safer alternatives to sugar-free energy drinks for seniors during the holidays?
+#### What are safer alternatives to sugar-free energy drinks for seniors during the holidays?
 
 Gentle options include warm spiced apple cider (unsweetened), rosemary-infused sparkling water, or a small serving of mixed nuts with dried tart cherries — all provide natural nutrients and mild alertness without vascular strain. Herbal teas like chamomile or lemon balm also support calm energy.
 
-#### #### Do all sugar-free energy drinks affect arterial stiffness the same way?
+#### Do all sugar-free energy drinks affect arterial stiffness the same way?
 
 No — formulations vary widely. Some contain only modest amounts of green tea extract and B6 (generally well-tolerated), while others pack concentrated yerba mate, cocoa, and 2,000 mcg of B12 in one serving. The cumulative stimulant load — not just caffeine — determines impact on arterial compliance.
 
-#### #### How soon can arterial stiffness reverse after stopping sugar-free energy drinks?
+#### How soon can arterial stiffness reverse after stopping sugar-free energy drinks?
 
 In most cases, acute effects (like elevated PWV or pulse pressure) normalize within 2–3 days of stopping. Longer-term reversal depends on overall lifestyle — but research shows that consistent, gentle habits (good sleep, daily movement, whole-food eating) support measurable improvements in arterial elasticity over 8–12 weeks.

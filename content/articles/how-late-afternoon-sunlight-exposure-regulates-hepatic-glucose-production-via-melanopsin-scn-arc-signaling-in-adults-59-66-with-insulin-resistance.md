@@ -74,22 +74,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does afternoon sunlight really affect liver glucose production—or is that just about vitamin D?
+#### Does afternoon sunlight really affect liver glucose production—or is that just about vitamin D?
 
 No—it’s not about vitamin D. This effect is mediated by the melanopsin pathway in your eyes, not skin synthesis. Vitamin D supports bone and immune health, but *sunlight exposure hepatic glucose production* works through neural signaling to your brain’s clock—and then to your liver’s enzyme activity. Studies confirm this even in people with sufficient vitamin D levels.
 
-#### #### How much sunlight exposure hepatic glucose production requires—and can I do it through a window?
+#### How much sunlight exposure hepatic glucose production requires—and can I do it through a window?
 
 For meaningful melanopsin activation, aim for 20–30 minutes of *unfiltered* outdoor light between 4:00–6:30 p.m. Windows block nearly all the short-wavelength (blue-enriched) light melanopsin responds to—so sitting by a sunny window won’t deliver the same metabolic signal. Step outside, even briefly.
 
-#### #### Is late-afternoon sunlight safe for older adults’ skin and eyes?
+#### Is late-afternoon sunlight safe for older adults’ skin and eyes?
 
 Yes—especially compared to midday sun. UVB radiation drops significantly after 3:00 p.m., reducing skin cancer risk. For eyes, brief, indirect exposure (facing the sun without staring) is safe for most adults. If you have diagnosed retinal disease or are on photosensitizing medications (e.g., certain antibiotics or diuretics), check with your ophthalmologist first.
 
-#### #### Can artificial light replace afternoon sunlight for regulating hepatic glucose production?
+#### Can artificial light replace afternoon sunlight for regulating hepatic glucose production?
 
 Most indoor lighting lacks the spectral intensity and timing cues needed to activate melanopsin effectively. Bright, blue-enriched light boxes (used for seasonal depression) *can* help—but they’re designed for morning use and may disrupt evening melatonin if used too late. Natural late-afternoon sunlight remains the most accessible, balanced, and well-studied option for supporting *sunlight exposure hepatic glucose production*.
 
-#### #### Does this work for everyone—or only people with diagnosed insulin resistance?
+#### Does this work for everyone—or only people with diagnosed insulin resistance?
 
 Research has focused primarily on adults 59–66 with confirmed insulin resistance or prediabetes—where benefits are clearest. However, circadian alignment supports metabolic health across the board. Even if your labs are normal, honoring natural light rhythms may help sustain healthy glucose control as you age.

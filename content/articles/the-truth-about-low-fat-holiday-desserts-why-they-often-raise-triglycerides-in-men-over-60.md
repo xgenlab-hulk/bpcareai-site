@@ -50,22 +50,22 @@ In closing, enjoying holiday desserts mindfully is entirely possible—and doesn
 
 ### FAQ
 
-#### #### Are “low-fat” cookies safer for triglycerides than regular cookies for men over 60?
+#### Are “low-fat” cookies safer for triglycerides than regular cookies for men over 60?
 
 Not necessarily—and often, no. Many low-fat cookies contain added sugars (like dextrose or fructose) to compensate for texture loss. In men over 60, this can worsen postprandial triglyceride spikes more than moderate amounts of natural fat. Always check the ingredient list for added sugars before assuming a product is heart-healthy.
 
-#### #### Do low-fat desserts triglycerides men over 60 interact with common medications like statins or metformin?
+#### Do low-fat desserts triglycerides men over 60 interact with common medications like statins or metformin?
 
 Yes—indirectly. While statins primarily lower LDL, they have limited impact on high triglycerides driven by sugar intake. Metformin improves insulin sensitivity but won’t fully offset the hepatic lipogenesis triggered by frequent fructose consumption. Lifestyle adjustments remain essential, even while on medication.
 
-#### #### Can I still enjoy holiday pie if I’m managing high triglycerides?
+#### Can I still enjoy holiday pie if I’m managing high triglycerides?
 
 Absolutely—choose versions made with whole-wheat crust, less sugar, and real fruit filling (not syrup-based). A 3-inch slice paired with a walk after dinner helps improve clearance. Portion control and ingredient quality matter far more than “low-fat” claims.
 
-#### #### Does alcohol affect triglycerides more than low-fat desserts triglycerides men over 60?
+#### Does alcohol affect triglycerides more than low-fat desserts triglycerides men over 60?
 
 Yes—alcohol is a potent stimulator of hepatic lipogenesis and can raise triglycerides rapidly, especially in men over 60 with reduced liver metabolism. Even moderate intake (2 drinks/day) may elevate levels. If triglycerides are >200 mg/dL, limiting or avoiding alcohol is strongly advised.
 
-#### #### How quickly can triglyceride levels improve after cutting back on low-fat desserts triglycerides men over 60?
+#### How quickly can triglyceride levels improve after cutting back on low-fat desserts triglycerides men over 60?
 
 With consistent dietary changes—reducing added sugars, increasing omega-3s (e.g., fatty fish), and adding daily movement—many men over 60 see a 25–40% drop in triglycerides within 4–8 weeks. Sustained improvement requires ongoing attention to overall dietary patterns, not just dessert swaps.

@@ -46,17 +46,17 @@ With thoughtful preparation, pulse pressure stabilization during grocery shoppin
 
 ### FAQ
 
-#### #### What are the best exercises to support pulse pressure stabilization during grocery shopping?  
+#### What are the best exercises to support pulse pressure stabilization during grocery shopping?  
 Gentle isometric holds (like wall sits or seated calf raises) done 2–3x/day improve vascular tone and baroreflex responsiveness. Avoid heavy lifting or rapid transitions—focus instead on slow, rhythmic movement with breath awareness.
 
-#### #### Can pulse pressure stabilization during grocery shopping help prevent falls in older adults?  
+#### Can pulse pressure stabilization during grocery shopping help prevent falls in older adults?  
 Yes—studies link widened pulse pressure (>65 mm Hg) and delayed BP recovery after standing to a 2.3× higher fall risk in adults 75+. Consistent use of pacing, pre-grip, and rest strategies reduces presyncope frequency by up to 40% in clinical trials.
 
-#### #### How does postprandial hypotension affect pulse pressure stabilization during grocery shopping?  
+#### How does postprandial hypotension affect pulse pressure stabilization during grocery shopping?  
 It narrows diastolic pressure while sometimes elevating systolic, creating unpredictable pulse pressure swings. Eating smaller, lower-carb meals 2 hours before shopping—and sipping electrolyte-balanced fluids—helps blunt these fluctuations.
 
-#### #### Is it safe to use over-the-counter caffeine before grocery shopping to stabilize BP?  
+#### Is it safe to use over-the-counter caffeine before grocery shopping to stabilize BP?  
 Not reliably. While small amounts (e.g., one cup of tea) may mildly increase peripheral resistance, caffeine can also trigger tachycardia or rebound hypotension in sensitive individuals. Always consult your doctor before using stimulants for BP support.
 
-#### #### What time of day is safest for grocery shopping with orthostatic intolerance?  
+#### What time of day is safest for grocery shopping with orthostatic intolerance?  
 Early morning (before 10 a.m.) tends to be most stable—cortisol peaks naturally then, supporting vascular tone. Avoid late afternoon, when fatigue and cumulative fluid loss may compound autonomic lag.

@@ -61,22 +61,22 @@ In summary, small, thoughtful adjustments to how we prepare for blood pressure c
 
 ### FAQ
 
-#### #### Does cold-water hand immersion BP accuracy improve readings for everyone over 70?
+#### Does cold-water hand immersion BP accuracy improve readings for everyone over 70?
 
 Not necessarily for *everyone*, but studies show the greatest benefit in adults 73+ with confirmed peripheral artery disease—particularly those prone to low-amplitude oscillometric signals or inconsistent home readings.
 
-#### #### Can cold-water hand immersion BP accuracy replace medication adjustments?
+#### Can cold-water hand immersion BP accuracy replace medication adjustments?
 
 No. This technique improves *measurement reliability*, not blood pressure itself. It helps your readings reflect reality more closely, which supports smarter treatment decisions—but never replaces clinical guidance or prescribed therapy.
 
-#### #### Is cold-water hand immersion BP accuracy safe for people with diabetes?
+#### Is cold-water hand immersion BP accuracy safe for people with diabetes?
 
 Yes—for most. However, because diabetes can affect nerve and skin sensitivity, use lukewarm-to-cool (not icy) water and limit immersion to 3 minutes. Check with your doctor if you have active foot ulcers or advanced neuropathy.
 
-#### #### What temperature water should I use for cold-water hand immersion?
+#### What temperature water should I use for cold-water hand immersion?
 
 Aim for 15°C (59°F)—about cool tap water. You can add a few ice cubes to room-temperature water and let it sit for 1–2 minutes before use. Avoid extremes: below 10°C may cause discomfort or reflexive vasodilation in some older adults.
 
-#### #### How long before my BP check should I do the hand immersion?
+#### How long before my BP check should I do the hand immersion?
 
 Perform the 3-minute immersion *immediately before* you begin your 5-minute seated rest period. That sequence—cold exposure → quiet sitting → measurement—aligns best with current RCT protocols.

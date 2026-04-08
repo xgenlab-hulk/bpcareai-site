@@ -82,22 +82,22 @@ Supporting your body’s natural processes doesn’t require dramatic change—i
 
 ### FAQ
 
-#### #### What does “salivary amylase holiday seniors” actually mean—and why is it relevant?
+#### What does “salivary amylase holiday seniors” actually mean—and why is it relevant?
 
 “Salivary amylase holiday seniors” refers to the natural, age-related shifts in the enzyme that starts starch digestion in the mouth—especially during festive seasons when starchy, comforting foods are more common. It’s relevant because slower chewing, denture use, and drier mouths can reduce this enzyme’s effectiveness, leading to subtle but noticeable changes in how meals sit. It’s not dangerous—just a signal to lean into mindful, supportive habits.
 
-#### #### Are there safe, natural ways to boost salivary amylase for seniors during holiday meals?
+#### Are there safe, natural ways to boost salivary amylase for seniors during holiday meals?
 
 Yes—gently and effectively. Focus on chewing slowly (12–15 chews per bite), using a diluted apple cider vinegar rinse (1 tsp in 3 tbsp water, swished 15 seconds pre-meal), and staying well-hydrated with room-temperature water throughout the day. These approaches support your mouth’s natural pH and stimulate salivary flow—no pills or powders needed.
 
-#### #### Can low salivary amylase affect blood pressure in older adults?
+#### Can low salivary amylase affect blood pressure in older adults?
 
 Not directly—but comfortable, well-paced digestion supports healthy autonomic balance. When oral digestion is rushed or strained, it can subtly activate stress responses, potentially influencing short-term BP fluctuations. Supporting salivary amylase activity is one small, harmonious part of maintaining steady arterial pressure—especially around meals.
 
-#### #### Is apple cider vinegar safe for seniors with dentures or sensitive gums?
+#### Is apple cider vinegar safe for seniors with dentures or sensitive gums?
 
 Yes, when properly diluted (1:3 with water) and used briefly (15-second swish, no swallowing). Avoid undiluted vinegar or prolonged contact, and skip it if you have active sores or recent dental work. If in doubt, ask your dentist—they often welcome questions about everyday oral wellness.
 
-#### #### How does chewing with dentures impact starch digestion—and what can help?
+#### How does chewing with dentures impact starch digestion—and what can help?
 
 Dentures—especially older or looser-fitting ones—often reduce chewing efficiency and duration, which limits salivary amylase’s window of action. To help: choose foods with varied textures (e.g., roasted carrots *with* mashed potatoes), use vinegar rinses to prime saliva, and allow extra time for meals. Even small adjustments restore rhythm—not perfection.

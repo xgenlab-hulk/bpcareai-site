@@ -44,17 +44,17 @@ In short, enjoying the holidays doesn’t require sacrifice—it calls for thoug
 
 ### FAQ  
 
-#### #### Are gluten-free desserts safe for people with SIBO and non-celiac gluten sensitivity?  
+#### Are gluten-free desserts safe for people with SIBO and non-celiac gluten sensitivity?  
 Not automatically. Many GF desserts contain high-FODMAP ingredients like inulin, chicory root, or almond flour that feed gut bacteria and worsen SIBO symptoms—even though they’re gluten-free. Always check labels for fermentable carbs.
 
-#### #### What are the best gluten-free desserts sibo non-celiac sensitivity adults can enjoy during holidays?  
+#### What are the best gluten-free desserts sibo non-celiac sensitivity adults can enjoy during holidays?  
 Look for treats made with low-FODMAP flours (e.g., white rice, oat, or sorghum) and sweetened with dextrose or small amounts of maple syrup (<1 tsp per serving). Baked-fresh fruit crisps (without added inulin or apple juice concentrate) and dark chocolate (70%+, no chicory) are often well-tolerated options.
 
-#### #### Can gluten-free desserts sibo non-celiac sensitivity cause high blood pressure?  
+#### Can gluten-free desserts sibo non-celiac sensitivity cause high blood pressure?  
 Not directly—but discomfort, stress, and disrupted sleep from gut symptoms may temporarily elevate arterial pressure. Chronic inflammation linked to untreated SIBO has also been associated with modest increases in systolic BP (average +3–5 mm Hg in observational studies).
 
-#### #### Why do some gluten-free cookies make me bloated even though I don’t have celiac disease?  
+#### Why do some gluten-free cookies make me bloated even though I don’t have celiac disease?  
 Bloating is likely due to FODMAPs (especially fructans in almond or coconut flours) or resistant starches formed during cooling—not gluten. Non-celiac gluten sensitivity often coexists with FODMAP intolerance, amplifying reactions.
 
-#### #### Is chicory root safe in gluten-free desserts for seniors with SIBO?  
+#### Is chicory root safe in gluten-free desserts for seniors with SIBO?  
 No—chicory root is nearly pure inulin, a potent prebiotic that strongly feeds bacteria in the small intestine. It’s best avoided during SIBO treatment phases and reintroduced only under professional guidance.

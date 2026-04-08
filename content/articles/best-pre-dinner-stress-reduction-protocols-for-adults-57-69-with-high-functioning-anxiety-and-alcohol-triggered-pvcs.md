@@ -79,22 +79,22 @@ What you’re feeling is both understandable and addressable. Your heart’s res
 
 ### FAQ
 
-#### #### What’s the best pre-dinner stress reduction holiday arrhythmia technique for someone over 60?
+#### What’s the best pre-dinner stress reduction holiday arrhythmia technique for someone over 60?
 
 The most accessible and well-studied approach is paced breathing (5-in, 2-hold, 6-out) for 3–5 minutes, ideally paired with light somatic awareness—like feeling your feet on the floor. It’s gentle, requires no equipment, and clinical data shows it reliably lowers sympathetic tone within minutes. Consistency matters more than duration: doing it daily for two weeks builds measurable vagal resilience.
 
-#### #### Can pre-dinner stress reduction holiday arrhythmia prevent holiday heart syndrome?
+#### Can pre-dinner stress reduction holiday arrhythmia prevent holiday heart syndrome?
 
 Yes—when applied consistently. Holiday heart syndrome refers to acute atrial arrhythmias (like AFib) triggered by binge alcohol use, but *pre-dinner stress reduction holiday arrhythmia* strategies target the earlier, modifiable phase: the nervous system’s anticipatory response. By lowering baseline sympathetic drive, these techniques help prevent the “double hit” of stress + alcohol that raises arrhythmia risk—especially in adults with existing PVCs or mild hypertension.
 
-#### #### Is it safe to drink wine if I have PVCs and use pre-dinner stress reduction holiday arrhythmia techniques?
+#### Is it safe to drink wine if I have PVCs and use pre-dinner stress reduction holiday arrhythmia techniques?
 
 For most adults with structurally normal hearts and infrequent, non-sustained PVCs, moderate alcohol (≤1 standard drink/day for women, ≤2 for men) *can* be safe—especially when paired with nervous system preparation. However, if PVCs increase noticeably after *any* alcohol—even one sip—it’s wise to pause and discuss patterns with your cardiologist. The goal isn’t restriction, but clarity.
 
-#### #### Why do PVCs happen more before dinner than at other times?
+#### Why do PVCs happen more before dinner than at other times?
 
 Late afternoon brings natural dips in cortisol and melatonin precursors—creating a “neurohormonal window” where unmanaged anxiety or fatigue can tip the autonomic balance toward sympathetic dominance. Add meal anticipation (digestive prep), social expectations, or circadian dips in HRV—and your heart’s electrical stability becomes temporarily more vulnerable. It’s less about the meal itself, and more about the body’s transition into evening.
 
-#### #### Do magnesium or potassium supplements help with pre-dinner stress reduction holiday arrhythmia?
+#### Do magnesium or potassium supplements help with pre-dinner stress reduction holiday arrhythmia?
 
 While correcting documented deficiencies (e.g., serum magnesium <1.8 mg/dL) may support rhythm stability, routine supplementation isn’t recommended without testing. Excess magnesium can cause GI upset or interact with common medications (e.g., certain BP drugs). Focus first on dietary sources (leafy greens, nuts, avocado, bananas) and nervous system regulation—the foundation for lasting improvement.

@@ -53,17 +53,17 @@ In summary, choosing between sweet and white potatoes doesn’t have to be stres
 
 ### FAQ
 
-#### #### Are sweet potatoes healthier than white potatoes for seniors with CKD?
+#### Are sweet potatoes healthier than white potatoes for seniors with CKD?
 Not inherently—“healthier” depends on your current lab values. Sweet potatoes offer more vitamin A and fiber, but they also contain more potassium and phosphorus *per serving*. For CKD seniors with elevated potassium (>4.8 mmol/L), white potatoes prepared with leaching may be the safer choice. Always align food choices with your latest labs—not general nutrition headlines.
 
-#### #### Can I eat sweet potatoes vs white potatoes CKD seniors if my potassium is normal?
+#### Can I eat sweet potatoes vs white potatoes CKD seniors if my potassium is normal?
 Yes—with portion awareness. Even with normal potassium, stage 3 CKD requires proactive phosphorus management. Prioritize leaching sweet potatoes or boiling white potatoes, avoid added salts and phosphate additives, and stick to recommended serving sizes (e.g., ⅓ cup roasted sweet potato or ½ cup boiled white potato).
 
-#### #### How do I reduce potassium in sweet potatoes for CKD?
+#### How do I reduce potassium in sweet potatoes for CKD?
 Peel, slice thinly (¼ inch), soak in warm water (10:1 water-to-potato ratio) for at least 2 hours, rinse thoroughly, then cook. This can lower potassium by up to 50%. Roasting after soaking is fine—but avoid adding potassium-rich ingredients like tomato paste or molasses.
 
-#### #### Is mashed white potato better than roasted sweet potato for CKD seniors?
+#### Is mashed white potato better than roasted sweet potato for CKD seniors?
 Often, yes—*if* the white potatoes are boiled (not roasted), peeled after cooking, and prepared without phosphate-containing thickeners or dairy-based gravies. Mashed white potatoes typically deliver less potassium and phosphorus per standard serving than roasted sweet potatoes—making them easier to fit within daily limits.
 
-#### #### Do sweet potatoes vs white potatoes CKD seniors affect blood pressure?
+#### Do sweet potatoes vs white potatoes CKD seniors affect blood pressure?
 Indirectly—yes. Both influence potassium and sodium balance, which affect arterial pressure. High-potassium foods can benefit BP in healthy adults, but in CKD, excess potassium may impair heart rhythm and vascular tone. Meanwhile, high-sodium preparations (e.g., salted mashed potatoes or glazed sweet potatoes) raise BP directly. Controlling both minerals supports cardiovascular and kidney health.

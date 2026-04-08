@@ -62,17 +62,17 @@ Supporting circadian health doesn’t mean sacrificing warmth or connection—it
 
 ### FAQ
 
-#### #### How does family meal timing affect dementia progression?  
+#### How does family meal timing affect dementia progression?  
 While meal timing alone doesn’t cause dementia, research suggests that chronic circadian disruption may accelerate neurodegeneration by increasing oxidative stress and impairing glymphatic clearance—the brain’s nightly “cleanup” process. Consistent mealtimes support healthier sleep-wake cycles, which in turn may help slow symptom progression in early stages.
 
-#### #### Can changing family meal timing dementia circadian rhythms improve sundowning?  
+#### Can changing family meal timing dementia circadian rhythms improve sundowning?  
 Yes—studies show that aligning meals with natural light cycles reduces sundowning severity in up to 65% of adults with mild-to-moderate dementia. Even shifting dinner 30–45 minutes earlier over a week can yield noticeable improvements in evening calm.
 
-#### #### What’s the best time to eat dinner for someone with early-stage dementia?  
+#### What’s the best time to eat dinner for someone with early-stage dementia?  
 Ideally, dinner should be served between 5:30–7:00 p.m., with the last bite no later than 7:15 p.m. This supports melatonin release and avoids late-night glucose spikes that can trigger restlessness.
 
-#### #### Does skipping breakfast worsen memory in older adults with MCI?  
+#### Does skipping breakfast worsen memory in older adults with MCI?  
 Yes—fasting beyond 12 hours overnight, especially when combined with late or missed breakfasts, correlates with reduced hippocampal activation on functional MRI scans. A light, protein-rich breakfast within 1 hour of waking helps stabilize morning cognition.
 
-#### #### Are there foods that naturally support circadian alignment?  
+#### Are there foods that naturally support circadian alignment?  
 Tart cherry juice (rich in natural melatonin), fatty fish (omega-3s), walnuts (melatonin + magnesium), and leafy greens (vitamin K and folate) all support healthy circadian signaling—especially when eaten consistently at the same time each day.

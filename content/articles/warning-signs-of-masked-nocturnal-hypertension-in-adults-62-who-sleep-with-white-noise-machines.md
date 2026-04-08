@@ -49,17 +49,17 @@ In short, white noise masked nocturnal hypertension is a real, measurable, and o
 
 ### FAQ
 
-#### #### Can white noise cause high blood pressure at night?
+#### Can white noise cause high blood pressure at night?
 Yes — not by direct stress, but by interfering with natural sleep architecture. White noise masks microarousals and suppresses parasympathetic rebound, delaying the normal nocturnal dip in blood pressure. Over time, this contributes to *white noise masked nocturnal hypertension*, particularly in adults over 60.
 
-#### #### Is white noise masked nocturnal hypertension dangerous?
+#### Is white noise masked nocturnal hypertension dangerous?
 It’s associated with increased risk of stroke, left ventricular hypertrophy, and progressive kidney decline — especially when combined with daytime hypertension. Unlike daytime spikes, nocturnal elevation often goes undetected without targeted monitoring.
 
-#### #### How do I know if my white noise machine is affecting my blood pressure?
+#### How do I know if my white noise machine is affecting my blood pressure?
 Look for patterns: Do your wrist PPG or ambulatory BP reports show little or no dipping (<5%)? Do you wake up fatigued despite “enough” sleep? Try a 7-night trial without white noise and compare average nocturnal systolic BP — a consistent 5–8 mm Hg drop suggests sound was playing a role.
 
-#### #### Does pink noise avoid white noise masked nocturnal hypertension?
+#### Does pink noise avoid white noise masked nocturnal hypertension?
 Emerging evidence suggests yes. Pink noise emphasizes lower frequencies and aligns more closely with natural brainwave rhythms during deep sleep. Small studies show improved HRV and stronger BP dipping versus white noise — though individual response varies.
 
-#### #### Can CPAP users also develop white noise masked nocturnal hypertension?
+#### Can CPAP users also develop white noise masked nocturnal hypertension?
 Potentially — but the mechanism differs. CPAP noise is tonal and intermittent, while white noise is broadband and continuous. Still, combining both may amplify autonomic load. If you use CPAP *and* a white noise machine, consider lowering one or switching to a quieter mask or sound alternative.

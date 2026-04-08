@@ -67,22 +67,22 @@ Your body isn’t aiming for textbook numbers—it’s aiming for stability, com
 
 ### FAQ
 
-#### #### What are the main low blood pressure risks elderly 75+ adults face?
+#### What are the main low blood pressure risks elderly 75+ adults face?
 
 The biggest concerns include falls (which can lead to fractures or loss of independence), transient cognitive impairment (“brain fog”), reduced kidney perfusion, and increased risk of ischemic events in vulnerable areas like the brainstem or basal ganglia. Repeated episodes may also accelerate functional decline.
 
-#### #### Can low blood pressure cause dementia—or make it worse?
+#### Can low blood pressure cause dementia—or make it worse?
 
 Low blood pressure itself doesn’t *cause* dementia, but chronic cerebral hypoperfusion (from recurrent hypotension) may worsen vascular contributions to cognitive decline—especially in people with existing Alzheimer’s or mixed dementia. Orthostatic hypotension is independently associated with faster progression in some longitudinal studies.
 
-#### #### Is a blood pressure of 110/60 too low for someone over 75?
+#### Is a blood pressure of 110/60 too low for someone over 75?
 
 Not necessarily—if they feel fine, walk steadily, and have no dizziness or fatigue. However, if that reading accompanies symptoms—or drops significantly upon standing—it warrants evaluation. Many healthy older adults thrive in the 110–130/60–75 range; the focus is always on *how you feel*, not just the number.
 
-#### #### What medications most commonly contribute to low blood pressure risks in elderly 75+?
+#### What medications most commonly contribute to low blood pressure risks in elderly 75+?
 
 Diuretics (e.g., furosemide), alpha-blockers (e.g., doxazosin), certain antidepressants (e.g., trazodone, MAO inhibitors), dopamine agonists (for Parkinson’s), and high-dose antihypertensives like ACE inhibitors or calcium channel blockers are frequent contributors—especially in combination.
 
-#### #### How often should older adults check blood pressure at home?
+#### How often should older adults check blood pressure at home?
 
 At least twice weekly if stable—and daily during medication changes or new symptoms. Always record position (seated/standing), time of day, and whether measured before or after meals or activity. Consistency matters more than frequency.

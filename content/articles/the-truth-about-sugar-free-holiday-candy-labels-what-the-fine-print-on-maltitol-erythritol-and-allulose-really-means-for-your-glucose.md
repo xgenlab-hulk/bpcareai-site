@@ -51,22 +51,22 @@ In short, the *sugar-free candy blood sugar truth* is one of individuality—not
 
 ### FAQ
 
-#### #### Does sugar-free candy raise blood sugar in seniors?
+#### Does sugar-free candy raise blood sugar in seniors?
 
 It depends on the sweetener. Maltitol can raise blood sugar by ~50% compared to regular sugar—often with a delayed peak—while erythritol and allulose typically have minimal to no impact for most older adults. Individual factors like digestion speed and insulin sensitivity play a big role.
 
-#### #### Is sugar-free candy blood sugar safe for people with diabetes?
+#### Is sugar-free candy blood sugar safe for people with diabetes?
 
 Many sugar-free options *can* be safe—but safety depends on the type and amount consumed. Maltitol requires careful portion control and glucose monitoring, especially if you use insulin. Erythritol is often the most predictable choice for stable glucose.
 
-#### #### What’s the sugar-free candy blood sugar truth for people with IBS-D?
+#### What’s the sugar-free candy blood sugar truth for people with IBS-D?
 
 The main concern isn’t blood sugar—it’s digestion. Sugar alcohols like maltitol and sorbitol draw water into the gut, potentially triggering diarrhea or cramping. Erythritol is less likely to cause this, making it a better option for IBS-D.
 
-#### #### Can sugar-free candy cause high blood pressure?
+#### Can sugar-free candy cause high blood pressure?
 
 No direct link exists between sugar-free candy and elevated BP—but discomfort (like bloating or pain) or stress from unexpected glucose swings *can* temporarily raise arterial pressure. Staying hydrated and relaxed supports both glucose and cardiovascular health.
 
-#### #### Are there sugar-free candies that won’t spike blood sugar at all?
+#### Are there sugar-free candies that won’t spike blood sugar at all?
 
 Erythritol-sweetened options come closest for most people—but “zero impact” isn’t guaranteed. Individual testing remains the gold standard, especially after age 50.

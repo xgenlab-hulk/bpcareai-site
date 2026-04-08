@@ -77,22 +77,22 @@ In closing, navigating holiday treats doesn’t mean choosing between joy and he
 
 ### FAQ
 
-#### #### Do sugar-free cookies raise blood sugar in seniors?
+#### Do sugar-free cookies raise blood sugar in seniors?
 
 Yes—they often do, especially if sweetened with maltitol, sorbitol, or hydrogenated starch hydrolysates. These sugar alcohols are partially absorbed and metabolized, contributing to measurable glucose elevation. In seniors with reduced insulin reserve or slower gastric motility, the effect may be more pronounced and delayed.
 
-#### #### What is the glycemic impact of sugar-free cookies on seniors with hypertension?
+#### What is the glycemic impact of sugar-free cookies on seniors with hypertension?
 
 Frequent glucose spikes trigger oxidative stress and sympathetic activation, which can elevate systolic blood pressure and reduce vascular elasticity. Over time, this contributes to arterial stiffness—particularly concerning for seniors, over 70% of whom live with hypertension. Managing glycemic impact supports both glucose *and* cardiovascular stability.
 
-#### #### Are there truly low-glycemic sugar-free cookies glycemic impact seniors can trust?
+#### Are there truly low-glycemic sugar-free cookies glycemic impact seniors can trust?
 
 Very few commercially labeled “sugar-free” cookies publish independent GI testing. However, brands that voluntarily submit to university-based testing (e.g., those verified by the University of Sydney GI Database) or use only erythritol + high-fiber flours (like almond or coconut) tend to have lower real-world impact—typically GI ≤35.
 
-#### #### Why doesn’t the FDA require glycemic index labeling on sugar-free foods?
+#### Why doesn’t the FDA require glycemic index labeling on sugar-free foods?
 
 The FDA regulates labeling based on nutrient composition (e.g., sugars, total carbs), not physiological response. Glycemic index is considered a *functional claim*, not a nutrient fact—and current regulations do not mandate human clinical testing for foods making “sugar-free” or “diabetic-friendly” statements.
 
-#### #### Can I test the glycemic impact of sugar-free cookies myself?
+#### Can I test the glycemic impact of sugar-free cookies myself?
 
 Yes—using a personal glucose monitor. Test fasting glucose, then again at 30, 60, 90, and 120 minutes after eating a standard serving. Record results over several days to identify patterns. Note: Always consult your healthcare team before making dietary changes, especially if you take glucose-lowering medications.

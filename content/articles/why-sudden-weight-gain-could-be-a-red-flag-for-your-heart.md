@@ -84,22 +84,22 @@ Heart health improves with awareness and action. If you're unsure about sudden c
 
 ### FAQ
 
-#### #### Can sudden weight gain be a sign of heart problems?
+#### Can sudden weight gain be a sign of heart problems?
 
 Yes, sudden weight gain—especially over a few days—can be an early indicator of fluid retention caused by declining heart function. When the heart can't pump efficiently, fluid builds up in tissues, adding measurable weight. This is one of the key **sudden weight gain and heart failure warning signs**, particularly when accompanied by swelling or shortness of breath.
 
-#### #### How much weight gain is concerning for heart failure?
+#### How much weight gain is concerning for heart failure?
 
 A gain of **2 pounds in one day or 5 pounds in a week** is generally considered a red flag for possible fluid retention related to heart issues. This pattern, especially without changes in diet or activity, should prompt a conversation with your healthcare provider.
 
-#### #### Is rapid weight gain always linked to poor heart health?
+#### Is rapid weight gain always linked to poor heart health?
 
 No, not always. Sudden weight gain can result from hormonal changes, certain medications (like steroids), kidney issues, or thyroid conditions. However, for individuals with existing heart disease or risk factors, it's important to rule out heart-related causes first.
 
-#### #### What should I do if I experience unexplained weight gain?
+#### What should I do if I experience unexplained weight gain?
 
 Start by tracking your weight daily under consistent conditions. Note any swelling, breathing changes, or other symptoms. Contact your doctor if the gain is rapid or persistent. They may evaluate your heart function, adjust medications, or check for other underlying causes.
 
-#### #### How does fluid retention affect heart health?
+#### How does fluid retention affect heart health?
 
 Fluid retention increases the volume of blood the heart must pump, raising pressure in the arteries and straining the heart muscle over time. Chronic fluid overload can worsen heart failure and lead to hospitalization if not managed properly. Monitoring weight and symptoms helps catch this early.

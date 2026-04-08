@@ -68,22 +68,22 @@ Caring for your heart after 60 isn’t about perfection — it’s about presenc
 
 ### FAQ
 
-#### #### Can a high fiber diet benefits for heart health over 60 lower blood pressure?
+#### Can a high fiber diet benefits for heart health over 60 lower blood pressure?
 
 Yes — modestly but meaningfully. Research shows that adults over 60 who consume 25–30 grams of fiber daily tend to have systolic blood pressure readings 3–5 mm Hg lower on average than those eating less than 15 grams. Soluble fiber helps improve endothelial function (the inner lining of blood vessels) and supports healthy sodium excretion, both contributing to better arterial pressure regulation.
 
-#### #### What are the best high fiber diet benefits for heart health over 60 — beyond cholesterol?
+#### What are the best high fiber diet benefits for heart health over 60 — beyond cholesterol?
 
 In addition to lowering LDL cholesterol, a high fiber diet benefits for heart health over 60 include reduced systemic inflammation (measured by CRP levels), improved insulin sensitivity, enhanced gut barrier integrity, and greater diversity of beneficial gut microbes — all linked to lower risk of heart failure, atrial fibrillation, and coronary artery disease over time.
 
-#### #### How much fiber do I really need after age 60 for heart health?
+#### How much fiber do I really need after age 60 for heart health?
 
 The National Academy of Medicine recommends 21 grams per day for women and 25–30 grams for men aged 51 and older. However, what matters most is consistency and food source. Prioritize whole foods — beans, berries, barley, broccoli, nuts, and seeds — over supplements. Most people see benefits starting around 20+ grams daily, especially when paired with regular movement and adequate hydration.
 
-#### #### Is it safe to increase fiber if I’m on heart medication?
+#### Is it safe to increase fiber if I’m on heart medication?
 
 Generally, yes — and often beneficial. Fiber doesn’t interact with common heart medications like beta-blockers, ACE inhibitors, or statins. However, if you take digoxin or certain diabetes medications, discuss timing with your pharmacist or doctor, as very large doses of fiber *immediately* before or after doses could theoretically affect absorption. Spacing fiber-rich meals by 2–3 hours from medication usually resolves any concern.
 
-#### #### Can too much fiber be harmful for seniors?
+#### Can too much fiber be harmful for seniors?
 
 For most healthy older adults, no — but sudden, large increases (e.g., jumping from 10g to 35g/day in a few days) can cause gas, bloating, or constipation. Gradual increases (add 2–3g per week) plus plenty of fluids prevent this. Those with diagnosed gastrointestinal conditions (e.g., diverticulosis, IBS-C, or narrowing from prior surgery) should tailor fiber choices with guidance from a registered dietitian or gastroenterologist.

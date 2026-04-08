@@ -69,22 +69,22 @@ In short, while statins remain a cornerstone of cardiovascular prevention, their
 
 ### FAQ
 
-#### #### Do statins worsen mitochondrial myopathy in older adults?
+#### Do statins worsen mitochondrial myopathy in older adults?
 
 Yes—in some cases. Long-term statin use can lower CoQ10, which may impair respiratory chain function in people whose mitochondria are already compromised. This risk is higher in adults 72+ with confirmed mitochondrial disease and fatigue-dominant heart failure.
 
-#### #### Can stopping statins improve heart energy in elderly patients with mitochondrial myopathy?
+#### Can stopping statins improve heart energy in elderly patients with mitochondrial myopathy?
 
 Evidence suggests yes—for select patients. Case series show improved cardiac ATP flux and reduced fatigue within 2–3 months of dose reduction or discontinuation, especially when paired with CoQ10 support and functional assessment.
 
-#### #### Are there safer statins for people with statins mitochondrial myopathy elderly concerns?
+#### Are there safer statins for people with statins mitochondrial myopathy elderly concerns?
 
 Lower-potency statins (e.g., pravastatin or fluvastatin) are less likely to cross membranes and deplete CoQ10. Rosuvastatin at low doses (5 mg) may also be considered—but choice depends on your full clinical picture, not just mitochondrial status.
 
-#### #### What symptoms suggest statin-related mitochondrial strain—not just aging?
+#### What symptoms suggest statin-related mitochondrial strain—not just aging?
 
 New or worsening fatigue *unrelieved by rest*, exertional muscle burning, brain fog that coincides with statin initiation, or declining exercise tolerance *despite stable heart structure* on echo may point to this interaction.
 
-#### #### Does high blood pressure make statins mitochondrial myopathy elderly risk worse?
+#### Does high blood pressure make statins mitochondrial myopathy elderly risk worse?
 
 Not directly—but uncontrolled hypertension increases myocardial workload and oxygen demand, placing extra stress on already-vulnerable mitochondria. Keeping BP at or below 130/80 mm Hg (per ACC/AHA guidelines for older adults) supports overall cardiac energetics.

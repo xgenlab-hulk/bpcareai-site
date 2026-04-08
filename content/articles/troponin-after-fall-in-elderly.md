@@ -82,17 +82,17 @@ Understanding troponin after fall in elderly isn’t about memorizing numbers �
 
 ### FAQ
 
-#### #### What does a normal troponin level mean after a fall in elderly?
+#### What does a normal troponin level mean after a fall in elderly?
 A “normal” troponin level after a fall in elderly doesn’t guarantee absence of cardiac injury — especially in adults over 80 with frailty or osteoporosis. Due to age-related baseline elevation and assay limitations, clinicians look for *changes over time* (e.g., ≥50% rise) and correlate results with symptoms and echocardiography. Serial testing is essential.
 
-#### #### Can troponin after fall in elderly be falsely negative?
+#### Can troponin after fall in elderly be falsely negative?
 Yes. False-negative troponin after fall in elderly occurs in up to 25% of myocardial contusions when only a single early test is done. Peak troponin release may be delayed (12–24 hours) in older adults, and less-sensitive assays may miss low-level elevations. Serial high-sensitivity troponin I testing at 0, 3, and 6 hours improves detection.
 
-#### #### How soon after a fall should troponin be checked in older adults?
+#### How soon after a fall should troponin be checked in older adults?
 For adults ≥80 — especially those with osteoporosis, known heart disease, or frailty — troponin should be measured at presentation (0 hours), then repeated at 3 and 6 hours. In high-risk cases (e.g., chest impact, hypotension, or new dyspnea), a 12-hour level adds value. Single-point testing is insufficient.
 
-#### #### Is echocardiography necessary after a fall if troponin is normal?
+#### Is echocardiography necessary after a fall if troponin is normal?
 Not routinely — but it’s strongly recommended if troponin rises *even slightly*, or if clinical suspicion remains high (e.g., new murmur, hypotension, or unexplained dyspnea). Echocardiography detects wall motion abnormalities and ventricular function changes that troponin alone cannot reveal.
 
-#### #### Does osteoporosis increase heart disease risk after a fall?
+#### Does osteoporosis increase heart disease risk after a fall?
 Osteoporosis itself doesn’t cause heart disease, but it shares common biological pathways — including chronic inflammation, vascular calcification, and vitamin D deficiency — that increase susceptibility to myocardial injury after trauma. Adults with osteoporosis have a 2.3× higher risk of post-fall cardiac events compared to age-matched controls without bone disease.

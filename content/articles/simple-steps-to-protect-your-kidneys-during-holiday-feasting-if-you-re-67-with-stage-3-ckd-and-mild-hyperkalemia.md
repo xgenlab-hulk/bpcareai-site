@@ -114,17 +114,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### How can I enjoy holiday meals safely with stage 3 CKD and high potassium?
+#### How can I enjoy holiday meals safely with stage 3 CKD and high potassium?
 Focus on portion control, leaching high-potassium vegetables (like potatoes and squash), pairing foods wisely (e.g., calcium-rich yogurt with sweet potatoes), and timing phosphate binders correctly. Work with your dietitian to personalize your daily potassium target—usually 2,000–2,500 mg—and aim to stay within it across all meals, not just at dinner.
 
-#### #### What are the best low-potassium holiday side dishes for kidney protection holiday feasting stage 3 CKD?
+#### What are the best low-potassium holiday side dishes for kidney protection holiday feasting stage 3 CKD?
 Great options include leached mashed turnips or cauliflower, sautéed green beans with garlic and olive oil, roasted cabbage wedges, and herb-seasoned zucchini ribbons. Avoid bananas, oranges, tomatoes, spinach, and dried fruits—they’re high-potassium and commonly overused in holiday recipes.
 
-#### #### Can I still eat turkey during kidney protection holiday feasting stage 3 CKD?
+#### Can I still eat turkey during kidney protection holiday feasting stage 3 CKD?
 Yes—you can enjoy turkey! Choose skinless breast meat (lower in phosphorus and fat), limit portions to 3–4 oz per meal, and avoid gravy made from pan drippings (which concentrates phosphorus and sodium). If you love flavor, try roasting with herbs, lemon zest, and a splash of low-sodium broth instead.
 
-#### #### Do I need to skip all desserts during kidney protection holiday feasting stage 3 CKD?
+#### Do I need to skip all desserts during kidney protection holiday feasting stage 3 CKD?
 Not necessarily—but choose wisely. Skip chocolate, nuts, and dried fruit. Instead, try baked apples with cinnamon, a small scoop of low-phosphorus vanilla ice cream (check labels—some brands are formulated for kidney health), or rice pudding made with low-phosphorus milk alternatives.
 
-#### #### How soon before a holiday meal should I take my phosphate binder?
+#### How soon before a holiday meal should I take my phosphate binder?
 Take it *with the first bite* of food—or up to 5 minutes *before* eating if the meal is especially high in phosphorus (e.g., turkey skin, cheese-based casseroles, or creamy sauces). Always follow your provider’s instructions—dosing varies by medication type and your individual needs.

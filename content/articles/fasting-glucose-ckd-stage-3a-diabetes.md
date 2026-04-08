@@ -72,22 +72,22 @@ In summary, “normal” fasting glucose doesn’t guarantee metabolic stability
 
 ### FAQ
 
-#### #### Is fasting glucose CKD stage 3a diabetes still useful for monitoring?
+#### Is fasting glucose CKD stage 3a diabetes still useful for monitoring?
 
 Yes—but only as one piece of the puzzle. In CKD stage 3a, fasting glucose can appear deceptively normal due to altered insulin kinetics and gluconeogenesis. It should be interpreted alongside HbA1c, 1,5-AG, or CGM data—not in isolation.
 
-#### #### What’s a safe fasting glucose target for someone with diabetes and CKD stage 3a?
+#### What’s a safe fasting glucose target for someone with diabetes and CKD stage 3a?
 
 There’s no universal “safe” number. General guidance suggests aiming for 80–130 mg/dL *if* achieved without hypoglycemia—but individualized goals (based on frailty, cognition, and comorbidities) are essential. Your care team will tailor targets to your unique needs.
 
-#### #### Can fasting glucose CKD stage 3a diabetes readings improve even when kidney function worsens?
+#### Can fasting glucose CKD stage 3a diabetes readings improve even when kidney function worsens?
 
 Yes—temporarily. Reduced renal insulin clearance can elevate circulating insulin, lowering fasting glucose despite increasing insulin resistance. This apparent improvement may actually reflect worsening metabolic strain.
 
-#### #### Does metformin affect fasting glucose in CKD stage 3a?
+#### Does metformin affect fasting glucose in CKD stage 3a?
 
 Metformin is generally avoided when eGFR drops below 45 mL/min/1.73m², but may be used cautiously in stable patients with eGFR 45–59, under close supervision. It lowers hepatic glucose output—so fasting glucose may decline—but requires careful dosing to avoid lactic acidosis risk.
 
-#### #### How often should I test fasting glucose if I have diabetes and CKD stage 3a?
+#### How often should I test fasting glucose if I have diabetes and CKD stage 3a?
 
 Testing frequency depends on treatment intensity. For most adults on oral agents or basal insulin, checking fasting glucose 2–3 times per week provides useful trend data. Those on multiple daily injections or CGM may use fasting values more sparingly—focusing instead on patterns and time-in-range.

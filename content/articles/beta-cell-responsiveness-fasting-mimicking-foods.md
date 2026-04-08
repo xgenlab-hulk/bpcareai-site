@@ -52,17 +52,17 @@ In time, many people discover that supporting beta-cell responsiveness isn’t a
 
 ### FAQ
 
-#### #### Can fasting-mimicking diets help beta-cell responsiveness in people over 60 with long-term type 2 diabetes?  
+#### Can fasting-mimicking diets help beta-cell responsiveness in people over 60 with long-term type 2 diabetes?  
 Yes—clinical studies (including randomized trials with participants aged 65+) suggest structured, short-duration fasting-mimicking cycles may improve markers of beta-cell function, such as C-peptide response and proinsulin processing—especially when combined with nutrient-dense, polyphenol-rich foods.
 
-#### #### What are the best fermented foods for beta-cell responsiveness fasting-mimicking foods?  
+#### What are the best fermented foods for beta-cell responsiveness fasting-mimicking foods?  
 Look for traditionally fermented, minimally processed options rich in both live microbes *and* polyphenols: black rice or purple cabbage kimchi, mulberry or pomegranate vinegar, black soybean tempeh, and fermented blueberry or chokeberry purées. These support gut-brain-pancreas signaling pathways tied to beta-cell resilience.
 
-#### #### Do I need to stop my diabetes medications to try beta-cell responsiveness fasting-mimicking foods?  
+#### Do I need to stop my diabetes medications to try beta-cell responsiveness fasting-mimicking foods?  
 No—and you should never adjust or discontinue medications without guidance from your healthcare provider. These dietary approaches are meant to complement, not replace, your current plan. Some medications (like insulin or sulfonylureas) require close monitoring during fasting-mimicking periods due to hypoglycemia risk.
 
-#### #### How long before I might notice changes in my blood sugar patterns?  
+#### How long before I might notice changes in my blood sugar patterns?  
 Most people begin noticing subtle shifts—like less pronounced post-meal spikes or steadier morning glucose—after 2–3 consistent monthly cycles (each ~5 days), especially when paired with daily polyphenol-rich fermented foods. Patience and consistency matter most.
 
-#### #### Is it safe to do fasting-mimicking cycles if I have high blood pressure?  
+#### Is it safe to do fasting-mimicking cycles if I have high blood pressure?  
 Many older adults with well-managed hypertension participate safely—but because sodium balance and medication timing can shift during low-calorie phases, coordination with your doctor or pharmacist is essential. Monitoring BP daily during the cycle is recommended.

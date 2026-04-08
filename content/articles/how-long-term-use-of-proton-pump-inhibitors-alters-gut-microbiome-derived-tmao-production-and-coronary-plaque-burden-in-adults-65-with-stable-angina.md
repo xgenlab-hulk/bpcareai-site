@@ -58,22 +58,22 @@ In summary, while PPIs remain valuable tools for many, understanding their poten
 
 ### FAQ
 
-#### #### Do PPIs raise TMAO and worsen coronary plaque?
+#### Do PPIs raise TMAO and worsen coronary plaque?
 
 Yes — multiple observational and mechanistic studies suggest long-term PPI use (≥6 months) is associated with elevated TMAO levels and faster non-calcified plaque progression on CCTA in adults 65+, especially when combined with high-choline diets. However, causality isn’t yet proven in large randomized trials.
 
-#### #### What are “pills and tmao coronary plaque” — and should I worry?
+#### What are “pills and tmao coronary plaque” — and should I worry?
 
 “Pills and tmao coronary plaque” refers to how certain medications — especially long-term PPIs — may alter gut bacteria in ways that boost TMAO production, potentially influencing coronary artery disease progression. Worry isn’t needed, but awareness and conversation with your provider are wise.
 
-#### #### Can stopping PPIs lower TMAO and slow plaque buildup?
+#### Can stopping PPIs lower TMAO and slow plaque buildup?
 
 Emerging data suggest TMAO levels may decline within 4–8 weeks after PPI discontinuation in some individuals — especially when paired with dietary and lifestyle support. However, plaque regression is slower and depends on many factors, including overall cardiovascular risk management.
 
-#### #### Are there alternatives to PPIs that don’t affect TMAO?
+#### Are there alternatives to PPIs that don’t affect TMAO?
 
 H2-receptor antagonists (e.g., famotidine) appear to have far less impact on gut microbiota and TMAO than PPIs. Lifestyle strategies — like mindful eating, elevating the head of your bed, and avoiding late meals — also reduce reflux without altering microbial metabolism.
 
-#### #### Does high blood pressure interact with pills and tmao coronary plaque?
+#### Does high blood pressure interact with pills and tmao coronary plaque?
 
 Indirectly, yes. Hypertension contributes to endothelial dysfunction and arterial inflammation — both of which may amplify the pro-atherogenic effects of elevated TMAO. Managing BP (target <130/80 mm Hg for most adults 65+) supports resilience across systems, including the gut and vasculature.

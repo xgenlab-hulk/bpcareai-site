@@ -58,17 +58,17 @@ For most men in this age group, the evidence favors the morning walk—not as a 
 
 ### FAQ
 
-#### #### Is a morning vs evening walk prediabetes decision really that important for blood sugar control?
+#### Is a morning vs evening walk prediabetes decision really that important for blood sugar control?
 Yes—especially for men 59–68 with visceral fat. Research shows morning fasted walking reduces nocturnal glucose spikes by up to 31% compared to evening walks, primarily by curbing early-morning liver glucose release.
 
-#### #### What’s the best time to walk for prediabetes if I can’t do it at 7 a.m.?
+#### What’s the best time to walk for prediabetes if I can’t do it at 7 a.m.?
 Aim for *within 2 hours of waking*, ideally before breakfast. Even 8:30 a.m. works well—what matters is maintaining the fasted state and aligning with natural cortisol rhythms.
 
-#### #### Does walking after dinner help prediabetes—or is morning vs evening walk prediabetes timing misleading?
+#### Does walking after dinner help prediabetes—or is morning vs evening walk prediabetes timing misleading?
 Post-dinner walking helps postprandial glucose, but doesn’t significantly reduce *nocturnal* spikes in men with visceral adiposity. For overnight stability, morning walks are more effective—though combining both (e.g., light 10-min stroll after dinner + 30-min morning walk) offers complementary benefits.
 
-#### #### Can walking lower A1c in prediabetes?
+#### Can walking lower A1c in prediabetes?
 Yes—consistent walking (especially morning) for 30 minutes daily can reduce A1c by 0.2–0.4 percentage points over 12 weeks, particularly when paired with dietary adjustments targeting added sugars and refined grains.
 
-#### #### Does blood pressure change with morning vs evening walk prediabetes routines?
+#### Does blood pressure change with morning vs evening walk prediabetes routines?
 Yes. Morning walkers often show improved 24-hour BP profiles—including reduced nocturnal hypertension—likely due to better autonomic balance and lower sympathetic tone overnight.

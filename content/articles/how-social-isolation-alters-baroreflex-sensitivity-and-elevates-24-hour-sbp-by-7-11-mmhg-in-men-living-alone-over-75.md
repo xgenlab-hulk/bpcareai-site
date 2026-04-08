@@ -65,22 +65,22 @@ In closing, it’s important to remember that blood pressure is not fixed—it�
 
 ### FAQ
 
-#### #### Does social isolation raise blood pressure in elderly men?
+#### Does social isolation raise blood pressure in elderly men?
 
 Yes—research shows that sustained social isolation is associated with higher average systolic blood pressure in men over 75, particularly those living alone. Studies report increases of 7–11 mmHg over 24 hours, largely tied to reduced vagal tone and heightened sympathetic activity. Importantly, these changes often improve with reconnection and lifestyle support.
 
-#### #### How does loneliness affect blood pressure in older adults?
+#### How does loneliness affect blood pressure in older adults?
 
 Loneliness affects blood pressure in older adults by influencing the autonomic nervous system—specifically lowering baroreflex sensitivity and increasing central sympathetic outflow. This leads to less efficient BP regulation, especially during everyday stressors. While loneliness and social isolation are related, it’s the *objective reduction in meaningful contact*, not just subjective feeling, that most strongly correlates with measurable BP changes.
 
-#### #### Can living alone cause high blood pressure in elderly men?
+#### Can living alone cause high blood pressure in elderly men?
 
 Living alone doesn’t automatically cause high blood pressure—but for men over 75, it can be a contributing factor *when combined with limited social engagement*, hearing loss, or lack of routine. The key isn’t the address, but the daily rhythm of connection, movement, and sensory input. Many men living alone maintain excellent BP control through intentional habits and community ties.
 
-#### #### What is baroreflex sensitivity—and why does it matter for blood pressure?
+#### What is baroreflex sensitivity—and why does it matter for blood pressure?
 
 Baroreflex sensitivity (BRS) is your body’s ability to detect and correct changes in blood pressure via signals from stretch receptors in the neck and aorta. High BRS means quick, smooth adjustments (e.g., BP drops slightly when you stand, then rebounds within seconds). Low BRS—often seen in socially isolated older men—means slower corrections and more sustained elevations. It’s a marker of autonomic resilience, not a diagnosis—and improves with consistent, calming input.
 
-#### #### Are there natural ways to improve vagal tone in older men?
+#### Are there natural ways to improve vagal tone in older men?
 
 Yes—gentle, regular practices like slow diaphragmatic breathing, humming or singing softly, mindful walking, and warm (not hot) showers can all support vagal tone. Even brief moments of shared laughter or eye contact with a pet or person activate this pathway. Consistency—not intensity—is what builds lasting benefit.

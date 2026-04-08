@@ -52,17 +52,17 @@ Supporting your body’s natural systems becomes even more meaningful as we age�
 
 ### FAQ  
 
-#### #### Can gut–kidney axis modulation for bp control replace my blood pressure medication?  
+#### Can gut–kidney axis modulation for bp control replace my blood pressure medication?  
 No—this approach is intended as a complementary, lifestyle-aligned strategy for adults with *mild* hypertension (e.g., BP consistently <150/90 mm Hg). It is not a substitute for prescribed antihypertensive therapy. Always discuss any new dietary or supplement changes with your healthcare provider before adjusting medications.
 
-#### #### What’s the difference between gut–kidney axis modulation for bp control and general gut health advice?  
+#### What’s the difference between gut–kidney axis modulation for bp control and general gut health advice?  
 General gut health tips (like eating more fiber or drinking more water) support broad digestive wellness. Gut–kidney axis modulation for bp control focuses specifically on mechanisms that influence renal sympathetic tone and sodium handling—such as SCFA production, methylation support, and vagal signaling. It’s more targeted, evidence-informed, and physiologically connected to blood pressure regulation.
 
-#### #### Is fermented oat bran safe for people with kidney disease?  
+#### Is fermented oat bran safe for people with kidney disease?  
 For adults with *early-stage* chronic kidney disease (CKD Stage 1–2) and mild hypertension, fermented oat bran is generally safe and may even support metabolic health. However, if you have moderate-to-advanced CKD (Stage 3b or higher), consult your nephrologist first—fiber intake and potassium content may need individualized guidance.
 
-#### #### How long does it take to see changes in blood pressure with this approach?  
+#### How long does it take to see changes in blood pressure with this approach?  
 Most clinical studies observing this combination report measurable improvements in sodium excretion efficiency and reduced nocturnal BP surge within 4–8 weeks of consistent use. Individual results vary, but steady, gentle progress is typical—not rapid drops.
 
-#### #### Does betaine raise TMAO levels—and is that a concern for heart health?  
+#### Does betaine raise TMAO levels—and is that a concern for heart health?  
 At low doses (≤500 mg/day), betaine from food or standard supplements has *not* been shown to meaningfully increase trimethylamine N-oxide (TMAO) in older adults. Higher intakes—especially from supplements combined with high-choline diets—may elevate TMAO in some individuals. Staying within the 250–500 mg range and prioritizing whole-food sources helps maintain balance.

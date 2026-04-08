@@ -79,22 +79,22 @@ Managing diabetes or prediabetes as you age doesn’t mean navigating confusing 
 
 ### FAQ
 
-#### #### Are there truly safe “diabetes-friendly” cereals for seniors, or is it all marketing?
+#### Are there truly safe “diabetes-friendly” cereals for seniors, or is it all marketing?
 
 Yes—some cereals meet rigorous glycemic criteria. Look for minimally processed options like plain puffed brown rice (unsweetened), bran flakes with no added sweeteners (check ingredient list for maltodextrin), or certified low-GI cereals verified by the Glycemic Index Foundation. Always verify fiber content and total carb load—not just front-of-package claims.
 
-#### #### What does “diabetes-friendly cereal hidden sugars seniors” actually mean on a label?
+#### What does “diabetes-friendly cereal hidden sugars seniors” actually mean on a label?
 
 It signals that the product may contain non-sugar carbohydrates—like maltodextrin, dextrose, or modified starches—that rapidly convert to glucose but aren’t required to appear under “Added Sugars.” These ingredients inflate glycemic load without triggering warning labels, making them especially deceptive for seniors whose bodies process glucose less efficiently.
 
-#### #### Can “no added sugar” cereal still raise blood sugar in seniors with diabetes?
+#### Can “no added sugar” cereal still raise blood sugar in seniors with diabetes?
 
 Absolutely. “No added sugar” only means sucrose, fructose, or syrups weren’t intentionally added. It says nothing about maltodextrin, corn starch hydrolysates, or high-GI grains like puffed rice or instant oats—all of which can spike glucose just as sharply. One serving of a “no added sugar” cereal may deliver the same glycemic impact as two teaspoons of table sugar.
 
-#### #### Is oatmeal always a better choice than commercial “diabetes-friendly” cereal?
+#### Is oatmeal always a better choice than commercial “diabetes-friendly” cereal?
 
 Not always—depends on preparation. Instant oatmeal packets often contain maltodextrin and added dextrose, pushing GI into the high-70s. Steel-cut or rolled oats (unsweetened, cooked without added sweeteners) have GI ~55 and GL ~10 per ½-cup dry serving—making them far more reliable for glucose stability.
 
-#### #### How does high post-breakfast glucose affect blood pressure in seniors?
+#### How does high post-breakfast glucose affect blood pressure in seniors?
 
 Elevated postprandial glucose triggers sympathetic nervous system activation and endothelial inflammation, leading to transient but repeated increases in systolic BP—often by 10–15 mm Hg within 90 minutes. Over time, this contributes to arterial stiffening and sustained hypertension, especially in adults over 60 with existing vascular changes.

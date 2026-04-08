@@ -57,17 +57,17 @@ Isometric handgrip training isn’t a replacement for heart-healthy eating, slee
 
 ### FAQ
 
-#### #### Does isometric handgrip lower diastolic blood pressure in women over 60?
+#### Does isometric handgrip lower diastolic blood pressure in women over 60?
 Yes—recent RCTs show clinically meaningful reductions (up to −5.2 mm Hg) in ambulatory diastolic BP among sedentary women aged 63–71 after just 10 days of daily 5-minute handgrip training.
 
-#### #### How does isometric handgrip diastolic blood pressure women compare to walking or yoga?
+#### How does isometric handgrip diastolic blood pressure women compare to walking or yoga?
 Unlike aerobic or flexibility-focused activities—which improve BP gradually over weeks—handgrip appears to produce *faster diastolic-specific effects*, likely due to its direct impact on small-artery tone and autonomic balance. It’s complementary, not competitive.
 
-#### #### Can isometric handgrip diastolic blood pressure women help if I’m already on BP medication?
+#### Can isometric handgrip diastolic blood pressure women help if I’m already on BP medication?
 Early evidence suggests yes—it may enhance medication effects, though always discuss adding new interventions with your prescriber to avoid overcorrection.
 
-#### #### Do I need special equipment for isometric handgrip training?
+#### Do I need special equipment for isometric handgrip training?
 No. A calibrated handgrip dynamometer is ideal for research, but many people use affordable spring-based grippers or even a rolled towel with consistent resistance. Focus on effort level (30% max) and timing—not brand or price.
 
-#### #### Is this safe for women with osteoarthritis in the hands?
+#### Is this safe for women with osteoarthritis in the hands?
 Generally yes—if grip is pain-free. Start gently and consider modifying position (e.g., using a soft ball or seated wrist curl with light resistance) if joint discomfort arises. When in doubt, ask a physical therapist.

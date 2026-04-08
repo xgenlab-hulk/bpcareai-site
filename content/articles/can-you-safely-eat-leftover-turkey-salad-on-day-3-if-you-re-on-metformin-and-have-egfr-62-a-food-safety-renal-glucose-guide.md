@@ -64,17 +64,17 @@ You *can* enjoy leftover turkey salad on day 3—safely and confidently—if sto
 
 ### FAQ
 
-#### #### Can I eat leftover turkey salad on day 4 if I’m on metformin and have eGFR 62?
+#### Can I eat leftover turkey salad on day 4 if I’m on metformin and have eGFR 62?
 Generally, no—USDA guidance advises against consuming cooked poultry salads beyond 3–4 days. At eGFR 62, your body’s ability to handle even low-grade bacterial exposure is modestly reduced. Day 4 increases risk unnecessarily.
 
-#### #### Is leftover turkey salad metformin eGFR safe if I reheat it thoroughly?
+#### Is leftover turkey salad metformin eGFR safe if I reheat it thoroughly?
 Reheating kills many bacteria, but not heat-stable toxins (e.g., *Staphylococcus* enterotoxins). If the salad was improperly stored before day 3, reheating won’t guarantee safety—especially for older adults with CKD.
 
-#### #### Does eating turkey salad raise creatinine or affect eGFR readings?
+#### Does eating turkey salad raise creatinine or affect eGFR readings?
 A single serving won’t meaningfully alter eGFR, but consistently high animal protein intake *over time* may accelerate glomerular hyperfiltration in susceptible individuals. Moderation—not avoidance—is key.
 
-#### #### How does managing blood sugar during Christmas and New Year impact kidney health?
+#### How does managing blood sugar during Christmas and New Year impact kidney health?
 Holiday eating patterns—higher sodium, added sugars, and irregular meals—can spike BP and glucose, straining kidneys. Consistent carb distribution, portion awareness, and hydration support both glycemic and renal stability.
 
-#### #### Should I stop metformin before eating holiday leftovers?
+#### Should I stop metformin before eating holiday leftovers?
 No. Metformin should never be stopped or adjusted without medical supervision—even around holidays. Your current eGFR of 62 supports continued use, provided you remain well-hydrated and avoid acute illness.

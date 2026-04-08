@@ -92,22 +92,22 @@ Understanding *left ventricular hypertrophy masked hypertension* isn’t about a
 
 ### FAQ
 
-#### #### What is left ventricular hypertrophy masked hypertension—and should I be worried?
+#### What is left ventricular hypertrophy masked hypertension—and should I be worried?
 
 Left ventricular hypertrophy masked hypertension refers to a situation where blood pressure appears normal during routine office visits, yet the heart’s left ventricle has thickened due to long-term, often subtle, pressure overload. It’s not a cause for panic—but it *is* a reason to consider more detailed assessment. Early identification allows for timely, personalized care.
 
-#### #### Can left ventricular hypertrophy masked hypertension happen even with normal echocardiogram results?
+#### Can left ventricular hypertrophy masked hypertension happen even with normal echocardiogram results?
 
 Yes—standard echocardiograms are excellent, but interpretation matters. LVH can be missed if measurements aren’t adjusted for body size (e.g., using left ventricular mass index) or if diastolic function isn’t assessed. A repeat echo with focused attention to wall thickness, mass, and relaxation patterns may reveal what earlier scans didn’t.
 
-#### #### How is left ventricular hypertrophy masked hypertension different from white coat hypertension?
+#### How is left ventricular hypertrophy masked hypertension different from white coat hypertension?
 
 White coat hypertension means BP is high only in clinical settings due to anxiety—and normal elsewhere. In contrast, *left ventricular hypertrophy masked hypertension* involves *normal office readings* but *elevated BP outside the clinic*, leading to actual structural heart changes. The key distinction is the presence of LVH—confirmed by echo—not just BP variability.
 
-#### #### Does having preserved ejection fraction mean my heart is healthy?
+#### Does having preserved ejection fraction mean my heart is healthy?
 
 Preserved ejection fraction (EF ≥ 50–55%) means your heart pumps blood effectively—but it doesn’t rule out stiffness, thickening, or impaired filling (diastolic dysfunction). Many people with *left ventricular hypertrophy masked hypertension* have preserved EF, which is why additional testing—like echocardiographic strain imaging or tissue Doppler—adds valuable context.
 
-#### #### At what age should I start considering ambulatory blood pressure monitoring?
+#### At what age should I start considering ambulatory blood pressure monitoring?
 
 While ABPM can be useful at any age, it’s especially helpful for adults 65 and older with long-standing hypertension, variable readings, or symptoms like dizziness or fatigue. Guidelines from the American College of Cardiology and European Society of Hypertension recommend ABPM for confirming diagnosis and guiding treatment in this group—particularly when office and home readings don’t align with clinical impression.

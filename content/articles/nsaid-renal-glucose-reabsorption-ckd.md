@@ -68,17 +68,17 @@ Kidney health in later life is dynamic—not fixed. While NSAID renal glucose re
 
 ### FAQ
 
-#### #### Can long-term ibuprofen use cause glucose to appear in urine in people with CKD and diabetes?  
+#### Can long-term ibuprofen use cause glucose to appear in urine in people with CKD and diabetes?  
 Yes—particularly in adults 70+ with stage 3 CKD. Ibuprofen inhibits COX-2, reducing renal prostaglandins that normally support SGLT2-mediated glucose reabsorption. This can lead to glycosuria *without* elevated blood glucose, signaling early tubular dysfunction—not improved diabetes control.
 
-#### #### What is NSAID renal glucose reabsorption CKD—and why does it matter for older adults?  
+#### What is NSAID renal glucose reabsorption CKD—and why does it matter for older adults?  
 NSAID renal glucose reabsorption CKD describes how chronic NSAID exposure disrupts prostaglandin-dependent SGLT2 regulation in aging, diabetic kidneys. It matters because it contributes to faster eGFR decline—up to 30% quicker in high-risk cohorts—and may mask underlying renal stress behind seemingly benign urine glucose findings.
 
-#### #### Are there safe alternatives to NSAIDs for arthritis pain in stage 3 CKD?  
+#### Are there safe alternatives to NSAIDs for arthritis pain in stage 3 CKD?  
 Yes. Acetaminophen (≤2 g/day), topical NSAIDs (limited systemic absorption), duloxetine (for central sensitization), and structured exercise programs are first-line options supported by the 2023 KDIGO Diabetes and CKD Guideline update.
 
-#### #### Does taking an SGLT2 inhibitor protect against NSAID-related kidney harm?  
+#### Does taking an SGLT2 inhibitor protect against NSAID-related kidney harm?  
 Not directly. While SGLT2 inhibitors slow CKD progression overall, they don’t counteract NSAID-induced vasoconstriction or prostaglandin depletion. In fact, combining them with NSAIDs may increase volume-depletion risk—caution and close BP monitoring are essential.
 
-#### #### How often should eGFR be checked if I use NSAIDs regularly and have diabetes?  
+#### How often should eGFR be checked if I use NSAIDs regularly and have diabetes?  
 For adults 70+ with stage 3 CKD and diabetes, check eGFR and UACR every 3–6 months. More frequent testing (e.g., quarterly) is advised if using NSAIDs ≥1 day/week—or if BP is uncontrolled (>140/90 mm Hg).

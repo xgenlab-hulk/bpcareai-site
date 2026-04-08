@@ -71,17 +71,17 @@ Managing blood pressure after 68 is a dynamic, personalized process—not a stat
 
 ### FAQ
 
-#### #### Can ibuprofen raise my blood pressure if I'm over 68 and on lisinopril?
+#### Can ibuprofen raise my blood pressure if I'm over 68 and on lisinopril?
 Yes. Ibuprofen can blunt the effect of ACE inhibitors like lisinopril—especially with age-related kidney changes. Studies show an average 5–7 mm Hg increase in systolic BP in older adults using both together regularly.
 
-#### #### Are bp medication otc pain reliever interactions over 68 different from those under 65?
+#### Are bp medication otc pain reliever interactions over 68 different from those under 65?
 Yes. After 68, slower kidney and liver metabolism, lower lean body mass, and higher rates of comorbidities amplify risks. For example, NSAID-induced fluid retention occurs 2–3× more frequently in adults over 68 versus those aged 55–64.
 
-#### #### Is acetaminophen safer than ibuprofen for BP control after age 68?
+#### Is acetaminophen safer than ibuprofen for BP control after age 68?
 Generally yes—but “safer” doesn’t mean “risk-free.” Daily high-dose acetaminophen (≥2 g) has been associated with small but consistent BP elevations in older adults, particularly those with reduced hepatic glucuronidation.
 
-#### #### Do topical NSAIDs interact with BP meds the same way oral ones do?
+#### Do topical NSAIDs interact with BP meds the same way oral ones do?
 Topical formulations (e.g., diclofenac gel) result in much lower systemic absorption—typically <10% of oral dose—so interactions are less likely. Still, consult your provider if using them daily, especially with kidney concerns.
 
-#### #### Can herbal pain relievers like turmeric or willow bark affect my blood pressure meds?
+#### Can herbal pain relievers like turmeric or willow bark affect my blood pressure meds?
 Some can. Willow bark contains salicin (a natural aspirin analog) and may enhance bleeding risk with anticoagulants. Turmeric in high doses may interact with antihypertensives via NO modulation—though clinical evidence is limited. Always disclose herbal use to your care team.

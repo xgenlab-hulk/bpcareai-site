@@ -49,19 +49,19 @@ You don’t need perfection—just awareness and small, sustainable changes. Swa
 
 ### FAQ
 
-#### #### Does drinking more water flush out hidden salt in foods and blood pressure effects?  
+#### Does drinking more water flush out hidden salt in foods and blood pressure effects?  
 Not exactly. While staying hydrated supports kidney function, excess sodium isn’t simply “washed away” by drinking more water. Your kidneys regulate sodium balance—but if they’re stressed (e.g., due to aging or kidney disease), extra water won’t lower BP or reverse sodium retention. Focus on reducing intake instead.
 
-#### #### What are the top 3 foods with hidden salt in foods and blood pressure risks?  
+#### What are the top 3 foods with hidden salt in foods and blood pressure risks?  
 1. **Processed deli meats** (e.g., turkey slices: ~350–500 mg per 2 oz)  
 2. **Canned soups** (regular varieties: 600–1,200 mg per cup)  
 3. **Breakfast cereals** (especially sweetened or granola types: 200–350 mg per serving)  
 
-#### #### Can hidden salt in foods and blood pressure issues show up even if I don’t add table salt?  
+#### Can hidden salt in foods and blood pressure issues show up even if I don’t add table salt?  
 Yes—absolutely. As noted earlier, ~75% of dietary sodium comes from packaged and restaurant foods. So even if you never use a saltshaker, your daily intake could easily exceed 3,000 mg—well above recommended limits.
 
-#### #### How quickly can reducing hidden salt in foods improve blood pressure?  
+#### How quickly can reducing hidden salt in foods improve blood pressure?  
 Many people see modest drops (2–8 mm Hg systolic) within 2–4 weeks of consistent low-sodium eating—especially when combined with other lifestyle support like physical activity and stress management.
 
-#### #### Are “sea salt” or “Himalayan salt” healthier alternatives for blood pressure?  
+#### Are “sea salt” or “Himalayan salt” healthier alternatives for blood pressure?  
 No—they contain nearly identical amounts of sodium chloride (~98%). Despite marketing claims, they offer no meaningful advantage for BP control. The key is *how much*, not *which kind*.

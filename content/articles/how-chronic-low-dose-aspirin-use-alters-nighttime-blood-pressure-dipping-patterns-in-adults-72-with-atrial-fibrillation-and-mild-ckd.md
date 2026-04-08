@@ -58,17 +58,17 @@ In most cases, the changes linked to aspirin nighttime blood pressure dipping ar
 
 ### FAQ
 
-#### #### Does low-dose aspirin cause high blood pressure at night?
+#### Does low-dose aspirin cause high blood pressure at night?
 Not exactly. Aspirin doesn’t typically *raise* BP—but it may reduce the normal nighttime dip by influencing kidney sodium handling and prostaglandin activity. This effect is usually mild and varies by individual.
 
-#### #### What is aspirin nighttime blood pressure dipping—and should I worry?
+#### What is aspirin nighttime blood pressure dipping—and should I worry?
 Aspirin nighttime blood pressure dipping refers to how much your blood pressure naturally falls during sleep while taking low-dose aspirin. A modest reduction in dipping (e.g., from 12% to 7%) is common in older adults with AFib and mild CKD—and not inherently dangerous. It’s one piece of your overall cardiovascular picture.
 
-#### #### Can aspirin nighttime blood pressure dipping increase stroke risk?
+#### Can aspirin nighttime blood pressure dipping increase stroke risk?
 Current evidence doesn’t show that aspirin-related changes in nocturnal dipping directly raise stroke risk. In fact, aspirin’s anti-clotting benefit in AFib generally outweighs this subtle physiological shift. Stroke risk is more strongly tied to uncontrolled daytime hypertension, AFib burden, and other modifiable factors.
 
-#### #### Does aspirin affect kidney function in people with mild CKD?
+#### Does aspirin affect kidney function in people with mild CKD?
 At low doses, aspirin has minimal impact on kidney function in stable, mild CKD. However, because it alters prostaglandin-mediated blood flow, it’s wise to monitor eGFR and potassium levels annually—especially if using other NSAIDs or RAAS inhibitors.
 
-#### #### Are there alternatives to aspirin for stroke prevention in AFib?
+#### Are there alternatives to aspirin for stroke prevention in AFib?
 For many with AFib, anticoagulants (like apixaban or rivaroxaban) are preferred over aspirin for stroke prevention—particularly if CHA₂DS₂-VASc score is ≥2. Aspirin is no longer routinely recommended *instead of* anticoagulation in AFib, but may still be used alongside it in select cases. Always discuss options with your cardiologist or primary care provider.

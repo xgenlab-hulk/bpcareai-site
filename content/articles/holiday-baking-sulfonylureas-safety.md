@@ -72,22 +72,22 @@ Baking isn’t just about food; it’s about love, memory, and presence. And you
 
 ### FAQ
 
-#### #### Can baking soda or baking powder cause low blood sugar when I’m on sulfonylureas?
+#### Can baking soda or baking powder cause low blood sugar when I’m on sulfonylureas?
 
 No — baking soda and baking powder are safe to use as directed. They do not interact with sulfonylureas in a way that affects insulin release or glucose metabolism. Their role is purely culinary (raising pH, creating air pockets), and they pose no known hypoglycemia risk.
 
-#### #### Is yeast in holiday breads dangerous for people taking sulfonylureas?
+#### Is yeast in holiday breads dangerous for people taking sulfonylureas?
 
 Not at all. The trace amounts of ethanol produced by yeast during fermentation are far too small to impact sulfonylurea processing or increase hypoglycemia risk. Whole-grain, yeast-leavened breads can actually support steadier glucose levels due to their fiber content.
 
-#### #### How can I ensure holiday baking sulfonylureas safety when hosting family?
+#### How can I ensure holiday baking sulfonylureas safety when hosting family?
 
 Start by sharing your routine — for example, “I’ll check my sugar before we start decorating, and I’d love your help keeping my glucose tabs handy!” Pre-portion treats, keep snacks nearby, and build in sitting breaks. Most importantly: invite others into your rhythm rather than hiding it. That openness often inspires gentler, more supportive gatherings.
 
-#### #### Does oven heat really affect blood sugar when I’m on sulfonylureas?
+#### Does oven heat really affect blood sugar when I’m on sulfonylureas?
 
 Mild heat exposure — like standing near a warm oven for 30+ minutes — may slightly increase blood flow and insulin sensitivity, but it’s not clinically significant on its own. The bigger factor is *how* heat affects your behavior: skipping meals, forgetting to hydrate, or delaying monitoring. Staying seated, sipping water, and checking glucose regularly keeps you comfortably in control.
 
-#### #### Are there safer holiday desserts for people on sulfonylureas?
+#### Are there safer holiday desserts for people on sulfonylureas?
 
 Yes — focus on balance, not elimination. Try mini pumpkin muffins (made with Greek yogurt instead of oil), spiced pear crisp with oats and walnuts, or dark chocolate-dipped dried fruit. Portion size and pairing with protein/fat matter more than “sugar-free” labels. And remember: enjoying one small, mindful serving is both safe and deeply nourishing — for your body *and* your spirit.

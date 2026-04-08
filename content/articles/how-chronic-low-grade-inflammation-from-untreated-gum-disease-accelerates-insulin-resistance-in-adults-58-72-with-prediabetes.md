@@ -46,22 +46,22 @@ In summary, gum disease insulin resistance prediabetes is a modifiable pathway�
 
 ### FAQ
 
-#### #### Can gum disease cause insulin resistance in older adults?
+#### Can gum disease cause insulin resistance in older adults?
 
 Yes—especially in adults 58–72. Chronic periodontal inflammation increases circulating cytokines that disrupt insulin signaling. Research shows people with severe gum disease are significantly more likely to develop insulin resistance, independent of BMI or physical activity level.
 
-#### #### Is gum disease insulin resistance prediabetes reversible with treatment?
+#### Is gum disease insulin resistance prediabetes reversible with treatment?
 
 Often, yes. Non-surgical periodontal therapy (deep cleaning + maintenance) combined with lifestyle changes can improve insulin sensitivity and slow progression to type 2 diabetes—particularly when initiated early in the prediabetic stage.
 
-#### #### How does gum disease affect blood sugar in people with prediabetes?
+#### How does gum disease affect blood sugar in people with prediabetes?
 
 Gum disease elevates systemic inflammation, which interferes with how muscle and liver cells respond to insulin. This leads to higher fasting glucose and post-meal spikes—even without changes in diet or weight.
 
-#### #### What’s the difference between gingivitis and periodontitis—and which affects insulin resistance more?
+#### What’s the difference between gingivitis and periodontitis—and which affects insulin resistance more?
 
 Gingivitis is reversible gum inflammation; periodontitis involves irreversible bone and tissue loss. Only periodontitis consistently correlates with measurable increases in insulin resistance and diabetes risk—making early detection critical.
 
-#### #### Does treating gum disease lower A1c in prediabetes?
+#### Does treating gum disease lower A1c in prediabetes?
 
 Multiple randomized trials report modest but clinically meaningful A1c reductions (0.2–0.4%) after periodontal treatment in adults with prediabetes—especially when paired with dietary counseling and physical activity support.

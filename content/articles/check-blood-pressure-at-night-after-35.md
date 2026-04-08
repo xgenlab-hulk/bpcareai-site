@@ -3,7 +3,7 @@ title: >-
   How to Check Blood Pressure at Night After 35 — Right Way
 slug: check-blood-pressure-at-night-after-35
 description: >-
-  How to check blood pressure at night after 35: Systolic ≥110 mmHg while sleeping raises heart disease risk by 42%. Learn evidence-based timing, cuff tips
+  How to check blood pressure at night after 35: Systolic ≥110 mmHg while sleeping raises heart disease risk by 42%.
 date: '2026-04-03'
 updated: '2026-04-03'
 primaryKeyword: >-

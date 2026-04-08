@@ -77,17 +77,17 @@ Detecting AFib early is a powerful step toward protecting your heart health—an
 
 ### FAQ
 
-#### #### Is finger-cuff vs wrist ecg afib detection equally accurate for seniors with arthritis?
+#### Is finger-cuff vs wrist ecg afib detection equally accurate for seniors with arthritis?
 No—not equally *practical*, though both can be clinically useful. In adults with severe osteoarthritis, finger-cuff PPG demonstrates higher real-world adherence and lower false-negative rates (23% lower than wrist ECG for brief episodes), largely because it avoids fine motor demands. Accuracy depends more on *consistent use* than theoretical sensitivity.
 
-#### #### Which is easier for someone with stiff, painful fingers: finger-cuff vs wrist ecg afib detection?
+#### Which is easier for someone with stiff, painful fingers: finger-cuff vs wrist ecg afib detection?
 Finger-cuff is generally easier—even with stiff fingers—as it requires only sliding the cuff on (like a ring) and holding still. Wrist ECG demands precise finger-to-sensor contact and sustained wrist positioning, which many with hand arthritis find painful or impossible without assistance.
 
-#### #### Can finger-cuff photoplethysmography replace an ECG for AFib diagnosis?
+#### Can finger-cuff photoplethysmography replace an ECG for AFib diagnosis?
 No. Finger-cuff PPG is a *screening tool*, not a diagnostic one. A positive reading warrants confirmation with a 12-lead ECG (ideally during the episode) or prolonged cardiac monitoring. It should complement—not substitute—clinical evaluation.
 
-#### #### Does cold weather affect finger-cuff vs wrist ecg afib detection?
+#### Does cold weather affect finger-cuff vs wrist ecg afib detection?
 Yes—especially finger-cuff PPG. Cold causes peripheral vasoconstriction, reducing capillary blood flow and weakening the optical signal. Warming hands gently before use improves reliability. Wrist ECG is less temperature-sensitive but may suffer from dry, cracked skin impairing electrode contact.
 
-#### #### How often should I check for AFib if I’m over 75 and have osteoarthritis?
+#### How often should I check for AFib if I’m over 75 and have osteoarthritis?
 Guidelines suggest daily or at least twice-weekly rhythm checks for high-risk adults—especially those with hypertension, heart failure, or prior stroke. Consistency matters more than frequency: 5 reliable readings per week outperform 14 rushed or inaccurate ones. Let comfort and capability guide your rhythm.

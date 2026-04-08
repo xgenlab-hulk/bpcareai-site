@@ -63,17 +63,17 @@ In short: intermittent fasting during family events doesn’t mean sacrificing j
 
 ### FAQ  
 
-#### #### Can intermittent fasting during family events raise my blood pressure?  
+#### Can intermittent fasting during family events raise my blood pressure?  
 Yes—especially if your fast ends right before high-sodium, high-carb meals typical at gatherings. That combo can trigger a 10–15 mm Hg systolic spike in sensitive individuals. Pairing mindful eating with a slightly adjusted window helps buffer this effect.
 
-#### #### Is intermittent fasting during family events safe for women with prediabetes?  
+#### Is intermittent fasting during family events safe for women with prediabetes?  
 Absolutely—if personalized. Research shows women aged 59–69 with prediabetes benefit most from *shorter* fasting windows (12–14 hours) timed to align with natural cortisol dips—not longer ones. Always discuss with your provider before starting.
 
-#### #### How do I explain my adjusted fasting plan to family without sounding difficult?  
+#### How do I explain my adjusted fasting plan to family without sounding difficult?  
 Try: *“I’m tuning into how my body feels these days—and I’ve found small tweaks help me enjoy time with you even more.”* Most folks appreciate honesty wrapped in warmth.
 
-#### #### Does skipping breakfast before a family lunch mess up my insulin?  
+#### Does skipping breakfast before a family lunch mess up my insulin?  
 Not necessarily—but doing so *while stressed or sleep-deprived* (common before big events) can elevate cortisol and worsen insulin resistance. A light, protein-rich morning snack (e.g., Greek yogurt + berries) may actually stabilize your response better than full fasting.
 
-#### #### What’s the best time to check blood sugar during family gatherings?  
+#### What’s the best time to check blood sugar during family gatherings?  
 Check *before* your first bite and again *two hours after*—not just fasting numbers. This “postprandial snapshot” reveals how your body handles real-world meals far better than morning-only readings.

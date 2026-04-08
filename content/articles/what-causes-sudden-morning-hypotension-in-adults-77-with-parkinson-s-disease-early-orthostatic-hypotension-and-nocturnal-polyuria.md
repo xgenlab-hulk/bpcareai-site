@@ -53,17 +53,17 @@ In short, *morning hypotension parkinsons elderly* is not inevitable—and it’
 
 ### FAQ  
 
-#### #### What causes sudden low blood pressure in the morning for older adults with Parkinson’s?  
+#### What causes sudden low blood pressure in the morning for older adults with Parkinson’s?  
 It’s usually a mix of autonomic dysfunction (common in Parkinson’s), overnight fluid shifts, dopamine dips at dawn, and how the kidneys handle sodium during sleep—especially when combined with nocturnal polyuria.
 
-#### #### Is morning hypotension parkinsons elderly linked to heart disease risk?  
+#### Is morning hypotension parkinsons elderly linked to heart disease risk?  
 Yes—repeated BP drops increase cardiac workload and may contribute to left ventricular strain over time. They’re also associated with higher rates of silent myocardial ischemia and atrial fibrillation in older adults with autonomic impairment.
 
-#### #### Can morning hypotension parkinsons elderly improve with lifestyle changes alone?  
+#### Can morning hypotension parkinsons elderly improve with lifestyle changes alone?  
 Often, yes—especially with hydration timing, head-of-bed elevation, and compression garments. But because Parkinson’s progression affects autonomic control, combining lifestyle steps with tailored medical review yields the best outcomes.
 
-#### #### Why does my blood pressure drop *after* I pee at night—but then crash again in the morning?  
+#### Why does my blood pressure drop *after* I pee at night—but then crash again in the morning?  
 Nocturnal polyuria doesn’t always mean dehydration. In Parkinson’s, it can reflect *dysregulated* sodium excretion—so you lose water but retain salt, leading to volume overload overnight, followed by a rebound drop when upright and dopamine is low.
 
-#### #### Should I stop taking my blood pressure meds if I have morning hypotension parkinsons elderly?  
+#### Should I stop taking my blood pressure meds if I have morning hypotension parkinsons elderly?  
 Never stop or adjust meds on your own. Some antihypertensives work better when dosed later in the day—or split across doses. Your care team can assess whether timing, type, or dosage needs refinement.

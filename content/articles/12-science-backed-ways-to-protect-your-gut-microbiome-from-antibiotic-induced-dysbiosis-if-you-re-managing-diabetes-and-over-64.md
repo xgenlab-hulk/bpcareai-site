@@ -49,17 +49,17 @@ In short, protecting your gut while managing diabetes and aging doesn’t requir
 
 ### FAQ  
 
-#### #### Can antibiotics worsen blood sugar control in older adults with diabetes?  
+#### Can antibiotics worsen blood sugar control in older adults with diabetes?  
 Yes—studies show antibiotics like fluoroquinolones and sulfa drugs are associated with a 15–25% higher risk of hypoglycemia or hyperglycemia in adults over 65 with diabetes. Dysbiosis-induced inflammation and altered bile acid metabolism play key roles.
 
-#### #### How long does gut microbiome recovery take after antibiotics in older diabetics?  
+#### How long does gut microbiome recovery take after antibiotics in older diabetics?  
 Most people see partial recovery in 4–6 weeks, but full restoration of diversity—including critical glucose-regulating strains—can take 3–6 months. Some species (*Faecalibacterium prausnitzii*, for example) may remain reduced for over a year without targeted support.
 
-#### #### What’s the safest probiotic for older diabetics taking antibiotics?  
+#### What’s the safest probiotic for older diabetics taking antibiotics?  
 *Saccharomyces boulardii* is well-studied, non-colonizing, and doesn’t interfere with antibiotics. For bacterial strains, *Lactobacillus rhamnosus GG* and *Bifidobacterium lactis BB-12* have strong safety data in older adults and show modest A1C benefits in clinical trials.
 
-#### #### Are fermented foods safe during antibiotic treatment for seniors with diabetes?  
+#### Are fermented foods safe during antibiotic treatment for seniors with diabetes?  
 Yes—but timing matters. Avoid high-histamine or high-sugar ferments (like kombucha or sweetened yogurt) *during* treatment. Plain kefir and low-salt, unpasteurized sauerkraut are safer options *after* day 7, introduced gradually.
 
-#### #### Does gut dysbiosis increase cardiovascular risk in older diabetics?  
+#### Does gut dysbiosis increase cardiovascular risk in older diabetics?  
 Absolutely. Dysbiosis elevates TMAO (trimethylamine N-oxide), a metabolite linked to arterial stiffness and plaque formation. Older adults with diabetes and low microbial diversity show 20–30% higher carotid intima-media thickness—a marker of early atherosclerosis.

@@ -73,17 +73,17 @@ In summary, a mild, early *SGLT2 inhibitor eGFR drop elderly* is frequently a si
 
 ### FAQ
 
-#### #### Is an SGLT2 inhibitor eGFR drop in elderly patients always dangerous?  
+#### Is an SGLT2 inhibitor eGFR drop in elderly patients always dangerous?  
 No. A modest dip (≤10 mL/min/1.73m²) in the first month is often adaptive and linked to improved long-term kidney outcomes—especially when hydration and albumin are optimized.
 
-#### #### What’s a safe albumin level before starting an SGLT2 inhibitor in older adults?  
+#### What’s a safe albumin level before starting an SGLT2 inhibitor in older adults?  
 We generally aim for serum albumin ≥3.4 g/dL. Levels below 3.3 g/dL warrant closer monitoring, but aren’t automatic contraindications—nutritional support and hydration strategies can help bridge the gap.
 
-#### #### Can dehydration cause a bigger SGLT2 inhibitor eGFR drop in elderly people?  
+#### Can dehydration cause a bigger SGLT2 inhibitor eGFR drop in elderly people?  
 Yes. Older adults are more vulnerable to volume shifts due to reduced thirst sensitivity and less resilient kidney perfusion. Even mild underhydration can amplify the initial eGFR dip—making proactive hydration essential.
 
-#### #### How long does an SGLT2 inhibitor eGFR drop last in seniors?  
+#### How long does an SGLT2 inhibitor eGFR drop last in seniors?  
 Most stabilize or rebound within 4–6 weeks. If eGFR remains low or continues declining past this point, further evaluation for other contributors (e.g., intercurrent illness, medication interactions) is recommended.
 
-#### #### Do SGLT2 inhibitors protect kidneys even if there’s an early eGFR drop?  
+#### Do SGLT2 inhibitors protect kidneys even if there’s an early eGFR drop?  
 Yes—robust clinical trial data (like EMPA-REG OUTCOME and DAPA-CKD) show reduced risk of kidney failure, dialysis, and cardiovascular death over time, regardless of an initial dip. The early change doesn’t negate long-term benefit.

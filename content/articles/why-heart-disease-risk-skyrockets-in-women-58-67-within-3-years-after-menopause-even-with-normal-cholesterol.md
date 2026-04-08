@@ -61,22 +61,22 @@ Heart disease after menopause women 58-67 is real, but it’s also highly respon
 
 ### FAQ
 
-#### #### Does heart disease after menopause women 58-67 happen even with normal cholesterol?
+#### Does heart disease after menopause women 58-67 happen even with normal cholesterol?
 
 Yes. Hormonal shifts post-menopause drive arterial stiffness, inflammation, and blood pressure changes that accelerate atherosclerosis independently of cholesterol levels—confirmed by SWAN and GENOA data.
 
-#### #### What are the earliest signs of heart disease after menopause women 58-67?
+#### What are the earliest signs of heart disease after menopause women 58-67?
 
 Often subtle: unexplained fatigue, reduced exercise tolerance, sleep disturbances, or mild shortness of breath—not always chest pain. Because symptoms can differ from those in men, awareness matters.
 
-#### #### Can lifestyle changes really reduce heart disease risk after menopause?
+#### Can lifestyle changes really reduce heart disease risk after menopause?
 
 Absolutely. Studies show that regular physical activity, balanced nutrition, quality sleep, and stress management can slow arterial aging—even in women 58–67—and improve long-term outcomes.
 
-#### #### Is blood pressure more important than cholesterol after menopause?
+#### Is blood pressure more important than cholesterol after menopause?
 
 For many women, yes—especially systolic BP. It rises steadily post-menopause and is a stronger predictor of cardiovascular events in this age group than LDL alone.
 
-#### #### When should I start heart health screening after menopause?
+#### When should I start heart health screening after menopause?
 
 Ideally within the first year post-menopause—and certainly by age 55. Include BP tracking, waist measurement, fasting labs (glucose, lipids, hs-CRP), and discussion of personal/family risk with your provider. If you're unsure, talking to your doctor is always a good idea.

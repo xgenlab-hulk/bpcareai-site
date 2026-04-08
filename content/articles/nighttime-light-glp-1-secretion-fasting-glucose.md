@@ -67,22 +67,22 @@ Understanding how nighttime light affects your body isn’t about adding stress�
 
 ### FAQ
 
-#### #### Does nighttime light really affect GLP-1 and fasting glucose?
+#### Does nighttime light really affect GLP-1 and fasting glucose?
 
 Yes—especially blue-enriched light between 10 p.m. and 2 a.m. Human studies show suppressed melatonin leads to reduced GLP-1 pulses from gut L-cells, which correlates with higher fasting glucose—particularly in adults with prior shift work exposure.
 
-#### #### How does nighttime light GLP-1 secretion fasting glucose relate to diabetes risk?
+#### How does nighttime light GLP-1 secretion fasting glucose relate to diabetes risk?
 
 Chronic suppression contributes to diminished glucose disposal overnight and less effective insulin response in the morning. Over years, this pattern increases the likelihood of progressing from prediabetes to type 2 diabetes—though it’s modifiable with circadian-supportive habits.
 
-#### #### What kind of light is safest for bedrooms over age 59?
+#### What kind of light is safest for bedrooms over age 59?
 
 Red or amber light (<590 nm wavelength) has minimal impact on melatonin. Look for devices labeled “melatonin-friendly” or use physical covers on bright displays. Even low-intensity white light (≥5 lux) can disrupt rhythms if it contains blue components.
 
-#### #### Can improving nighttime light habits lower my blood pressure too?
+#### Can improving nighttime light habits lower my blood pressure too?
 
 Indirectly, yes. Better sleep architecture and stabilized glucose improve autonomic balance—supporting healthier arterial pressure patterns. Studies link improved circadian alignment with modest but consistent reductions in nocturnal BP (e.g., 3–5 mm Hg systolic).
 
-#### #### Is there a connection between nighttime light exposure and insulin resistance?
+#### Is there a connection between nighttime light exposure and insulin resistance?
 
 Yes—reduced GLP-1 availability impairs insulin secretion *and* delays gastric emptying, both of which contribute to postprandial and fasting hyperglycemia. This is one pathway through which **nighttime light GLP-1 secretion fasting glucose** disturbances feed into broader insulin resistance.

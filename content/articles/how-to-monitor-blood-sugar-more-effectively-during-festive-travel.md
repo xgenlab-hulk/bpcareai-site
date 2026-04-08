@@ -49,22 +49,22 @@ The holidays are about connection—not complication. With thoughtful planning a
 
 ### FAQ
 
-#### #### How do I monitor blood sugar while traveling across time zones?
+#### How do I monitor blood sugar while traveling across time zones?
 
 Shift your testing schedule gradually—start adjusting meal and testing times by 30–60 minutes per day a few days before departure. Once you arrive, use local time for your next 2–3 checks, then settle into your new rhythm. Keep logs noting both local time *and* home time for reference.
 
-#### #### What’s the best way to monitor blood sugar while traveling with insulin?
+#### What’s the best way to monitor blood sugar while traveling with insulin?
 
 Carry insulin in a cool, insulated bag—but never freeze it. Use a travel letter from your provider listing doses and device types. Always carry rapid-acting carbs (glucose tabs or juice boxes) in case of lows—and test more frequently during long flights or when activity changes unexpectedly.
 
-#### #### Can holiday stress affect my blood sugar readings while traveling?
+#### Can holiday stress affect my blood sugar readings while traveling?
 
 Yes—stress hormones like cortisol and adrenaline raise blood glucose. Combine that with disrupted sleep and irregular eating, and it’s no surprise many see higher-than-usual readings. Prioritize short walks, deep breathing, and realistic expectations—it’s okay to simplify routines without sacrificing safety.
 
-#### #### Do I need to adjust my target blood sugar range while traveling?
+#### Do I need to adjust my target blood sugar range while traveling?
 
 Not necessarily—but your *context* may call for slightly more flexible goals. For example, aiming for 100–180 mg/dL instead of 80–130 mg/dL may reduce hypoglycemia risk when meals are unpredictable. Discuss personalized targets with your care team before you go.
 
-#### #### How often should I test blood sugar while traveling during Christmas and New Year?
+#### How often should I test blood sugar while traveling during Christmas and New Year?
 
 Most adults benefit from testing at least 4x daily: fasting, pre-lunch, pre-dinner, and at bedtime. If you’re using insulin, adding a 2–3 a.m. check during the first few nights in a new time zone helps catch overnight shifts. Adjust frequency based on how you feel—and always trust your body’s signals.

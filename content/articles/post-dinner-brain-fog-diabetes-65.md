@@ -113,17 +113,17 @@ Feeling mentally “foggy” after dinner doesn’t mean your brain is failing �
 
 ### FAQ
 
-#### #### What does post-dinner brain fog diabetes 65+ usually feel like?
+#### What does post-dinner brain fog diabetes 65+ usually feel like?
 It often presents as mild mental slowing — trouble concentrating, forgetting names mid-sentence, needing extra time to follow conversation, or feeling unusually tired or “spaced out” 45–90 minutes after eating. It’s rarely dramatic, but it’s consistent enough to notice — especially after larger or sweeter meals.
 
-#### #### Is post-dinner brain fog diabetes 65+ a sign of dementia?
+#### Is post-dinner brain fog diabetes 65+ a sign of dementia?
 No — not by itself. While persistent, progressive cognitive changes warrant evaluation, isolated, meal-related brain fog that improves with movement or food is typically tied to glucose metabolism or blood flow regulation, not neurodegeneration. That said, it *is* a useful window into brain health — and worth discussing with your provider.
 
-#### #### Can high blood pressure cause post-dinner brain fog diabetes 65+?
+#### Can high blood pressure cause post-dinner brain fog diabetes 65+?
 Yes — indirectly. Elevated BP (especially if longstanding) contributes to stiffening of small cerebral arteries. After a meal, when blood pools in the gut, stiff vessels struggle to maintain steady blood flow to the brain — leading to temporary “hypo-perfusion” and fog. This is why checking *both* seated and standing BP after meals can be revealing.
 
-#### #### What’s the difference between reactive hypoglycemia and neuroglycopenia in older adults with diabetes?
+#### What’s the difference between reactive hypoglycemia and neuroglycopenia in older adults with diabetes?
 Reactive hypoglycemia refers to a *measurable drop* in blood glucose (<70 mg/dL) within 4 hours of eating — often with shakiness or sweating. Neuroglycopenia in older adults with long-standing diabetes may occur *without* a low meter reading — because the brain isn’t receiving glucose efficiently, even if circulating levels appear adequate.
 
-#### #### Does metformin cause post-dinner brain fog diabetes 65+?
+#### Does metformin cause post-dinner brain fog diabetes 65+?
 Metformin itself doesn’t typically cause brain fog — but in older adults with reduced kidney function (eGFR <45), it can rarely contribute to subtle B12 deficiency or lactic acidosis risk, both of which affect cognition. If brain fog coincides with starting or increasing metformin, mention it to your provider — but don’t stop it without guidance.

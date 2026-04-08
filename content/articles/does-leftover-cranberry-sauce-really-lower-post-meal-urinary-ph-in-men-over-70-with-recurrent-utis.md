@@ -64,22 +64,22 @@ You don’t need to overhaul tradition to support your health. Passing the cranb
 
 ### FAQ
 
-#### #### Does cranberry sauce lower urinary pH enough to prevent UTIs in older men?
+#### Does cranberry sauce lower urinary pH enough to prevent UTIs in older men?
 
 No—cranberry sauce does not meaningfully or consistently lower urinary pH, nor is urinary acidification an evidence-based strategy for preventing UTIs in men over 70. Research shows any pH change is minimal and short-lived. The primary proposed benefit of cranberry relates to anti-adhesion effects (from PACs), not pH alteration.
 
-#### #### Is homemade cranberry sauce better for urinary pH than store-bought for preventing UTIs?
+#### Is homemade cranberry sauce better for urinary pH than store-bought for preventing UTIs?
 
 Neither homemade nor commercial cranberry sauce has been shown to significantly impact urinary pH or reduce UTI recurrence in clinical studies. Homemade versions avoid added preservatives but often contain high sugar, which may counteract benefits. PAC content in both is too low and variable to rely on for UTI prevention.
 
-#### #### Can cranberry sauce urinary ph uti concerns be managed through diet alone?
+#### Can cranberry sauce urinary ph uti concerns be managed through diet alone?
 
 Diet—including cranberry sauce—can play a supportive role, but it should never replace medical evaluation or treatment for recurrent UTIs. Effective management requires identifying underlying causes (e.g., prostate issues, incomplete bladder emptying) and often includes targeted interventions beyond food or pH adjustment.
 
-#### #### Does sugar in cranberry sauce make UTIs worse?
+#### Does sugar in cranberry sauce make UTIs worse?
 
 While sugar itself doesn’t directly cause UTIs, high-sugar foods may indirectly influence risk by affecting gut and urinary microbiomes, promoting inflammation, or contributing to glucose fluctuations—especially in men with diabetes, a known UTI risk factor. Lower-sugar or unsweetened options are generally preferred for overall health.
 
-#### #### Are there better food-based strategies for urinary health during holidays?
+#### Are there better food-based strategies for urinary health during holidays?
 
 Yes—focus on hydration (water, herbal teas), fiber-rich vegetables (to support gut health and reduce constipation-related bladder pressure), and lean proteins. Limiting alcohol and caffeine during gatherings also helps maintain healthy urinary flow and reduces irritation.

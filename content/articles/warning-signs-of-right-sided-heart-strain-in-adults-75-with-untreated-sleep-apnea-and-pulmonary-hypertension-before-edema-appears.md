@@ -94,16 +94,16 @@ Heart health at 75+ isn’t about perfection—it’s about partnership, patienc
 
 ### FAQ
 
-#### #### What are the earliest signs of right heart strain in seniors with sleep apnea?
+#### What are the earliest signs of right heart strain in seniors with sleep apnea?
 The earliest signs often appear *before* swelling (edema) and include subtle but measurable changes: abnormal jugular venous waveforms (seen during physical exam), isolated tricuspid regurgitation velocity ≥2.8 m/s on echo, and progressive fatigue—especially when lying flat. These reflect rising pressure in the pulmonary circulation and early adaptation by the right ventricle.
 
-#### #### Can right heart strain sleep apnea seniors 75+ be reversed?
+#### Can right heart strain sleep apnea seniors 75+ be reversed?
 Yes—especially when identified before structural changes become permanent. Treating underlying sleep apnea (e.g., with CPAP), managing pulmonary hypertension (if present), and optimizing fluid balance can significantly reduce strain and improve right ventricular function—even in older adults. Studies show measurable improvement in right ventricular size and strain within 3–6 months of consistent therapy.
 
-#### #### How is right heart strain different from left heart failure in older adults?
+#### How is right heart strain different from left heart failure in older adults?
 Left heart failure typically causes shortness of breath *on exertion*, orthopnea (breathlessness lying flat), and pulmonary congestion—signs of backup into the lungs. Right heart strain more commonly presents with systemic venous congestion: elevated JVP, abdominal fullness, fatigue with supine positioning, and eventually peripheral edema—but often *without* prominent lung symptoms. Both can coexist, but recognizing which side is leading helps guide treatment.
 
-#### #### What tests are used to assess right heart strain in seniors?
+#### What tests are used to assess right heart strain in seniors?
 Key tools include:  
 - Echocardiogram (to assess TR velocity, right ventricular size/function, and strain imaging)  
 - Physical exam focusing on jugular venous pressure and waveform  
@@ -111,5 +111,5 @@ Key tools include:
 - Sometimes NT-proBNP blood test (though less specific for right-sided strain alone)  
 - In select cases, right heart catheterization (gold standard for pulmonary pressures)
 
-#### #### Does untreated sleep apnea really increase pulmonary hypertension risk in seniors?
+#### Does untreated sleep apnea really increase pulmonary hypertension risk in seniors?
 Absolutely. Population studies show that moderate-to-severe obstructive sleep apnea increases the risk of developing pulmonary hypertension by 2–3 times in adults over 65. Each apneic event triggers hypoxic vasoconstriction, endothelial dysfunction, and sympathetic activation—all contributing to remodeling of pulmonary arteries over time.

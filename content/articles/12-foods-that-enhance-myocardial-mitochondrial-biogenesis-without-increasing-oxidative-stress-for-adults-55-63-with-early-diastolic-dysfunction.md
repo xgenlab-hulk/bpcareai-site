@@ -67,17 +67,17 @@ In summary, supporting your heart’s mitochondrial health is both achievable an
 
 ### FAQ
 
-#### #### What are the best foods for heart mitochondrial health diastolic dysfunction?
+#### What are the best foods for heart mitochondrial health diastolic dysfunction?
 The most evidence-supported options include black garlic, wild blueberries, roasted walnuts, and fermented tempeh—all shown in human or translational studies to upregulate PGC-1α or SIRT3 in cardiac or vascular tissue without increasing oxidative stress markers.
 
-#### #### Can foods for heart mitochondrial health diastolic dysfunction lower blood pressure?
+#### Can foods for heart mitochondrial health diastolic dysfunction lower blood pressure?
 Some—like extra-virgin olive oil, pomegranate, and dark chocolate—have demonstrated modest BP-lowering effects (typically 3–5 mm Hg systolic) in clinical trials involving adults with early diastolic impairment, likely via improved endothelial function and reduced arterial stiffness.
 
-#### #### Are there any foods I should avoid if I want to support heart mitochondrial health?
+#### Are there any foods I should avoid if I want to support heart mitochondrial health?
 Yes. Highly processed carbohydrates (e.g., white bread, sugary cereals), industrial seed oils (soybean, corn oil), and excessive alcohol (>7 drinks/week) impair mitochondrial efficiency, promote cardiolipin peroxidation, and suppress SIRT3 activity—counteracting the benefits of supportive foods.
 
-#### #### Do supplements work better than food for improving mitochondrial function in diastolic dysfunction?
+#### Do supplements work better than food for improving mitochondrial function in diastolic dysfunction?
 No robust human trials show isolated supplements outperform whole-food patterns for cardiac mitochondrial outcomes. In fact, high-dose antioxidant pills (e.g., vitamin E) may interfere with adaptive redox signaling—unlike the balanced phytochemical matrix found in foods for heart mitochondrial health diastolic dysfunction.
 
-#### #### How soon can I expect to notice improvements after changing my diet?
+#### How soon can I expect to notice improvements after changing my diet?
 Most people report enhanced stamina and reduced exertional fatigue within 4–6 weeks. Objective improvements—such as better E/e′ ratio or lower NT-proBNP—typically emerge after 3 months of consistent adherence, as confirmed in longitudinal dietary intervention studies.

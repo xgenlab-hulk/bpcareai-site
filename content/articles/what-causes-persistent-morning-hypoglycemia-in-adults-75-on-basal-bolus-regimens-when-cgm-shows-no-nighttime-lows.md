@@ -66,22 +66,22 @@ In short, *morning hypoglycemia basal-bolus elderly* reflects complex, age-relat
 
 ### FAQ
 
-#### #### Why do I get low blood sugar in the morning even though my CGM shows no nighttime lows?
+#### Why do I get low blood sugar in the morning even though my CGM shows no nighttime lows?
 
 CGMs measure glucose in fluid between cells—not directly in blood—and can miss brief dips or lag during rapid changes. In older adults, slower gastric emptying, altered liver glucose release, and reduced insulin clearance may cause lows *just before or after* typical overnight monitoring windows—making them easy to overlook without targeted checks.
 
-#### #### Is morning hypoglycemia basal-bolus elderly dangerous?
+#### Is morning hypoglycemia basal-bolus elderly dangerous?
 
 It can be concerning—but it’s rarely an emergency if recognized early. Repeated mild lows may affect thinking or balance, so addressing the pattern proactively helps protect both brain health and physical safety. Most cases improve significantly with small, tailored adjustments.
 
-#### #### Can kidney function affect my morning blood sugar on basal-bolus insulin?
+#### Can kidney function affect my morning blood sugar on basal-bolus insulin?
 
 Yes. Even mild age-related kidney changes can slow the clearance of rapid-acting insulins, extending their action into the early morning. A simple eGFR test helps clarify whether this might be playing a role.
 
-#### #### Does gastroparesis cause morning hypoglycemia in seniors with diabetes?
+#### Does gastroparesis cause morning hypoglycemia in seniors with diabetes?
 
 It can—especially when combined with insulin therapy. Delayed stomach emptying means glucose from dinner arrives later than expected, potentially overlapping with peak insulin effect. Symptoms like bloating, early fullness, or nausea after meals may hint at this mechanism.
 
-#### #### What’s the safest way to adjust insulin for morning hypoglycemia basal-bolus elderly?
+#### What’s the safest way to adjust insulin for morning hypoglycemia basal-bolus elderly?
 
 Never adjust alone. Work with your endocrinologist or diabetes educator to review patterns, consider timing and composition of meals, assess kidney and nerve health, and test small, incremental changes—such as shifting bolus timing or modestly reducing dinner rapid-acting insulin—while closely monitoring results.

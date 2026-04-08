@@ -58,17 +58,17 @@ It’s never too late—or too “normal”—to fine-tune your sleep for better
 
 ### FAQ
 
-#### #### Can poor sleep habits cause high fasting glucose even without diabetes or obesity?  
+#### Can poor sleep habits cause high fasting glucose even without diabetes or obesity?  
 Yes. Research confirms that disrupted sleep architecture—especially reduced slow-wave and fragmented REM—can impair hepatic insulin sensitivity independently of BMI or OSA. This contributes directly to *sleep habits fasting glucose elevation*, particularly in adults 50+.
 
-#### #### What sleep habits fasting glucose elevation signs should I watch for?  
+#### What sleep habits fasting glucose elevation signs should I watch for?  
 Look beyond the number: frequent 3–4 a.m. awakenings, unrefreshing sleep despite 7+ hours, waking with thirst or brain fog, or a fasting glucose that rises steadily over 2–3 months—even while eating well and staying active.
 
-#### #### Does sleeping on your back really affect blood sugar?  
+#### Does sleeping on your back really affect blood sugar?  
 Yes—especially during REM. Supine positioning increases upper airway resistance and reduces oxygen saturation *just enough* to fragment REM cycles. This fragmentation disrupts nocturnal insulin signaling in the liver, contributing to *sleep habits fasting glucose elevation*.
 
-#### #### Is melatonin supplementation helpful for improving fasting glucose?  
+#### Is melatonin supplementation helpful for improving fasting glucose?  
 Not routinely—and not without guidance. While low-dose (0.5–1 mg) melatonin taken 1 hour before bed may help regulate circadian timing in some, it doesn’t fix underlying sleep fragmentation. In fact, excess melatonin can blunt insulin secretion. Talk to your provider before starting.
 
-#### #### How long does it take to see changes in fasting glucose after improving sleep habits?  
+#### How long does it take to see changes in fasting glucose after improving sleep habits?  
 Many notice small improvements (3–7 mg/dL drop) within 10–14 days of consistent light hygiene and bedtime routine shifts. For meaningful, sustained change, allow 4–6 weeks—especially when combining sleep adjustments with mindful evening nutrition.

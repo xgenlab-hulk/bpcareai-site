@@ -61,22 +61,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Do metallic threads in holiday sweaters really cause CGM interference holiday clothing metallic threads?
+#### Do metallic threads in holiday sweaters really cause CGM interference holiday clothing metallic threads?
 
 Yes—they can. Thin conductive threads (often polyester-silver blends) may create minor electromagnetic noise or reflect Bluetooth signals, especially when pressed tightly against the sensor. Our testing showed the strongest effects in garments with dense metallic embroidery near the abdomen or upper arm.
 
-#### #### Can magnetic closures on holiday cardigans affect my CGM reading accuracy?
+#### Can magnetic closures on holiday cardigans affect my CGM reading accuracy?
 
 They can—particularly if the magnet sits within 1.5 inches of your sensor. While most modern CGMs are magnetically shielded, sustained proximity (e.g., a vest clasp resting directly over an arm sensor) may cause intermittent disconnects or delayed alerts. It’s not about “accuracy” per se, but about *timely data delivery*.
 
-#### #### Is CGM interference holiday clothing metallic threads worse for older adults?
+#### Is CGM interference holiday clothing metallic threads worse for older adults?
 
 It can be—due to combined factors like thinner skin, drier winter conditions (reducing adhesive life), and potential mobility or dexterity changes that make reapplication or troubleshooting more challenging. But it’s manageable with proactive planning.
 
-#### #### Will wearing a holiday sweater ruin my CGM sensor?
+#### Will wearing a holiday sweater ruin my CGM sensor?
 
 Not permanently—but it *can* loosen adhesive faster or cause temporary signal loss. Think of it like wearing a backpack over your phone: it won’t break it, but it might block the signal until you adjust.
 
-#### #### What’s the safest holiday clothing choice for someone using a CGM?
+#### What’s the safest holiday clothing choice for someone using a CGM?
 
 Soft, non-compressive knits (cotton or bamboo blends) with no metallic thread, no magnets, and closures positioned away from your sensor site—like a relaxed-fit V-neck sweater with wooden or plastic buttons. Bonus points if it’s easy to slip on and off!

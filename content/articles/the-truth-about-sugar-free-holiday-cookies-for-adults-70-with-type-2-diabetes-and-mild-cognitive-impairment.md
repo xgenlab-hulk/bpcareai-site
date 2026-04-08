@@ -49,17 +49,17 @@ In closing: holiday joy shouldn’t require compromise—but it does benefit fro
 
 ### FAQ
 
-#### #### Are sugar-free holiday cookies safe for seniors with type 2 diabetes and memory issues?
+#### Are sugar-free holiday cookies safe for seniors with type 2 diabetes and memory issues?
 They *can* be safe—but only if carefully chosen and portion-controlled. Many contain maltitol, which raises blood sugar and causes GI distress in older adults. Those with mild cognitive impairment may struggle to interpret labels accurately, increasing risk of overconsumption. Prioritize low-GI alternatives like erythritol-based options—and always pair with protein or fat.
 
-#### #### Do sugar-free holiday cookies type 2 diabetes elderly affect blood pressure?
+#### Do sugar-free holiday cookies type 2 diabetes elderly affect blood pressure?
 Not directly—but repeated glucose spikes and insulin surges may contribute to endothelial stress over time, potentially influencing arterial pressure. Also, some sugar-free products are high in sodium (up to 150 mg per cookie), which matters for those managing hypertension alongside diabetes.
 
-#### #### Can artificial sweeteners worsen mild cognitive impairment in older adults?
+#### Can artificial sweeteners worsen mild cognitive impairment in older adults?
 Current evidence doesn’t support a direct causal link in humans at typical dietary levels. However, observational studies note associations between high intake of diet beverages and accelerated cognitive decline—likely reflecting broader dietary patterns, not sweeteners alone. For adults with MCI, simplicity and familiarity in food choices often support better cognition than novelty or label complexity.
 
-#### #### How many sugar-free holiday cookies type 2 diabetes elderly can I safely eat?
+#### How many sugar-free holiday cookies type 2 diabetes elderly can I safely eat?
 There’s no universal number—but start with *one*, test glucose response, and observe for GI or mental clarity changes. Most clinicians recommend limiting sugar alcohols to <10 g/day for adults over 70. Check labels: 1 cookie may contain 4–8 g maltitol—so “just one more” may exceed tolerance.
 
-#### #### What’s the best alternative to store-bought sugar-free holiday cookies?
+#### What’s the best alternative to store-bought sugar-free holiday cookies?
 Homemade versions using almond flour, erythritol, cinnamon, and eggs offer full ingredient control. Even simpler: fresh fruit with cinnamon, dark chocolate (85%+ cacao, 1 small square), or roasted spiced nuts—all naturally low-glycemic and cognitively supportive.

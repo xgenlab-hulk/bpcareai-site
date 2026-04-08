@@ -96,17 +96,17 @@ Holiday heart racing sleep apnea red flags don’t mean something is inevitably 
 
 ### FAQ
 
-#### #### What are the top holiday heart racing sleep apnea red flags I should watch for?
+#### What are the top holiday heart racing sleep apnea red flags I should watch for?
 The most important *holiday heart racing sleep apnea red flags* include: palpitations lasting longer than 2 hours after even small amounts of alcohol; episodes that recur monthly or more often; waking between 3–7 a.m. with a pounding heart or gasping; and symptoms that coincide with known OSA risk factors like snoring, daytime fatigue, or high blood pressure.
 
-#### #### Is “holiday heart syndrome” the same as holiday heart racing sleep apnea red flags?
+#### Is “holiday heart syndrome” the same as holiday heart racing sleep apnea red flags?
 Not exactly. “Holiday heart syndrome” traditionally refers to acute alcohol-induced arrhythmias (often AFib) in otherwise healthy people—but it doesn’t account for underlying OSA. When OSA is present, the mechanism shifts: it’s less about direct alcohol toxicity and more about hypoxia-driven catecholamine surges and atrial stress. So yes—*holiday heart racing sleep apnea red flags* represent a distinct, higher-risk subtype requiring different evaluation.
 
-#### #### Can holiday heart racing sleep apnea red flags happen with non-alcoholic eggnog?
+#### Can holiday heart racing sleep apnea red flags happen with non-alcoholic eggnog?
 Yes—though less commonly. Rich, high-fat, high-sugar foods like traditional eggnog can trigger vagal withdrawal and postprandial tachycardia, especially in people with autonomic dysfunction (common in long-standing OSA). Add mild dehydration or late-night eating, and the heart rate response may mimic alcohol’s effect—even without ethanol.
 
-#### #### How soon after a holiday drink should I expect heart racing if I have sleep apnea?
+#### How soon after a holiday drink should I expect heart racing if I have sleep apnea?
 Timing varies, but the most clinically relevant windows are: onset within 60 minutes (suggesting acute sympathetic response), persistence beyond 2 hours (indicating sustained hypoxia), and recurrence in the pre-dawn hours (3–7 a.m.), which reflects peak apnea severity during REM sleep.
 
-#### #### Does treating sleep apnea reduce holiday heart racing sleep apnea red flags?
+#### Does treating sleep apnea reduce holiday heart racing sleep apnea red flags?
 Yes—robustly. CPAP therapy reduces nocturnal tachycardia by 35–50% within 2 weeks and cuts AFib recurrence risk by 42% in patients with comorbid OSA. Even oral appliances or positional therapy show measurable improvements in heart rate variability and oxygen stability—making timely diagnosis one of the most impactful steps you can take.

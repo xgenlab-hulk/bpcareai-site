@@ -94,22 +94,22 @@ Your breath is one of the few physiological levers you can adjust consciously—
 
 ### FAQ
 
-#### #### Can breathing patterns immediate blood pressure reduction adults 60+ work without biofeedback?
+#### Can breathing patterns immediate blood pressure reduction adults 60+ work without biofeedback?
 
 Yes—they can still lower BP, but effectiveness improves significantly with feedback. Without it, up to 40% of adults 60+ inadvertently breathe too fast or hold their breath, blunting benefits. Even simple pulse observation (feeling heart rate slow *during* exhalation) serves as accessible biofeedback.
 
-#### #### How long do the effects of breathing patterns immediate blood pressure reduction adults 60+ last?
+#### How long do the effects of breathing patterns immediate blood pressure reduction adults 60+ last?
 
 A single 2-minute session typically lowers systolic BP for 30–60 minutes. With daily practice over 4–6 weeks, many see sustained reductions of 5–8 mm Hg—even off-medication—due to improved baroreflex sensitivity and reduced vascular stiffness.
 
-#### #### Are there breathing patterns immediate blood pressure reduction adults 60+ that could be harmful?
+#### Are there breathing patterns immediate blood pressure reduction adults 60+ that could be harmful?
 
 Yes—especially prolonged breath-holds (like in 4-7-8) or excessively slow breathing (<4 breaths/min), which may cause cerebral hypoperfusion or vagal overstimulation in older adults with carotid sinus hypersensitivity. Always prioritize comfort and stop if you feel dizzy or nauseated.
 
-#### #### Does morning anxiety raise blood pressure enough to matter clinically?
+#### Does morning anxiety raise blood pressure enough to matter clinically?
 
 Absolutely. Studies show adults 60+ with high morning anxiety have a 2.3× higher risk of developing sustained hypertension within 3 years—and a 37% increased risk of cardiovascular events—largely driven by repeated sympathetic surges and endothelial stress.
 
-#### #### Can I combine breathing patterns immediate blood pressure reduction adults 60+ with my blood pressure medication?
+#### Can I combine breathing patterns immediate blood pressure reduction adults 60+ with my blood pressure medication?
 
 Yes—and it’s encouraged. These techniques complement pharmacotherapy by targeting autonomic drivers rather than just arterial pressure. However, monitor BP closely: if readings fall consistently below 110/70 mm Hg, consult your provider to review dosing—especially for alpha-2 agonists or high-dose beta-blockers.

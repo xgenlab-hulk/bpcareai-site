@@ -60,22 +60,22 @@ In short, the **holiday salad warfarin interaction truth** isn’t about avoidin
 
 ### FAQ
 
-#### #### Can holiday salad warfarin interaction truth affect my apixaban as much as warfarin?
+#### Can holiday salad warfarin interaction truth affect my apixaban as much as warfarin?
 
 Not in the same way—but yes, it matters. Apixaban isn’t vitamin K-dependent, but compounds in cranberries, walnuts, and even garlic can affect its absorption and metabolism via P-glycoprotein and CYP3A4 pathways. While less dramatic than INR swings, these interactions may increase bleeding risk—especially in adults over 67 with declining kidney function.
 
-#### #### What’s the safest green for a holiday salad warfarin interaction truth scenario?
+#### What’s the safest green for a holiday salad warfarin interaction truth scenario?
 
 Romaine lettuce is consistently low in vitamin K (~17 mcg per cup) and widely available. Butter lettuce and iceberg are also gentle options—just avoid mixing in unpredictable additions like parsley, cilantro, or watercress, which vary wildly in K content.
 
-#### #### Is there a list of holiday foods to avoid completely with warfarin or apixaban?
+#### Is there a list of holiday foods to avoid completely with warfarin or apixaban?
 
 No food needs to be *completely* avoided—but consistency is key. Steer clear of daily fluctuations in vitamin K-rich foods (kale, spinach, collards), limit cranberry products, and avoid grapefruit with apixaban. Alcohol moderation (≤1 drink/day) also helps stabilize metabolism.
 
-#### #### How soon after eating a “risky” holiday salad might I see INR changes on warfarin?
+#### How soon after eating a “risky” holiday salad might I see INR changes on warfarin?
 
 INR shifts typically appear within 3–5 days—peaking around day 7. That’s why an extra INR check 5–7 days post-holiday meal is smarter than waiting until your next scheduled visit.
 
-#### #### Does healthy eating during family gatherings mean skipping salad altogether?
+#### Does healthy eating during family gatherings mean skipping salad altogether?
 
 Absolutely not! It means choosing wisely, measuring portions, and communicating with your care team ahead of time. A balanced, predictable salad supports heart health *and* anticoagulation safety—when you know what’s in it.

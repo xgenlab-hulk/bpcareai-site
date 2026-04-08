@@ -59,17 +59,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can I use electric hedge clippers after an ICD implant?
+#### Can I use electric hedge clippers after an ICD implant?
 Yes — most modern cordless or low-wattage electric hedge clippers produce negligible electromagnetic interference (typically <5 Gauss at 6 inches). Just avoid holding the motor housing directly against your chest, and take breaks every 15 minutes to minimize vibration exposure.
 
-#### #### Is gardening after ICD implant safe for someone with an ejection fraction of 28%?
+#### Is gardening after ICD implant safe for someone with an ejection fraction of 28%?
 Yes — with modifications. Focus on seated or upright, low-resistance tasks and avoid sustained exertion. Studies show adults with EF 25–35% benefit significantly from regular light activity, including gardening, as long as they follow personalized pacing guidelines from their electrophysiologist.
 
-#### #### What gardening tools should seniors with ICDs avoid?
+#### What gardening tools should seniors with ICDs avoid?
 Avoid prolonged use of high-vibration, gas-powered tools like string trimmers or backpack blowers — especially within 12 inches of your chest. Also skip heavy wheelbarrows (empty weight >30 lbs) and deep-digging shovels unless cleared by your doctor post-8 weeks.
 
-#### #### How soon after ICD implant can I start light gardening?
+#### How soon after ICD implant can I start light gardening?
 Most clinicians advise waiting at least 4 weeks to allow incision healing and lead stabilization. Even then, begin with 5–10 minute seated tasks only — and get explicit clearance from your electrophysiology team before resuming.
 
-#### #### Does gardening affect my ICD’s battery life or settings?
+#### Does gardening affect my ICD’s battery life or settings?
 No — routine gardening does not impact battery longevity or programmed settings. ICD batteries typically last 5–7 years, and settings are adjusted only during clinical follow-ups or remote monitoring checks.

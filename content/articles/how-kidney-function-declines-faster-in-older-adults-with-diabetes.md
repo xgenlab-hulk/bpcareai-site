@@ -80,17 +80,17 @@ Kidney health is deeply personal, yet profoundly shared among millions of older 
 
 ### FAQ
 
-#### #### How fast does kidney function decline with diabetes in older adults?
+#### How fast does kidney function decline with diabetes in older adults?
 On average, adults over 65 with well-managed diabetes see an eGFR decline of about 0.5–1.0 mL/min/year—similar to healthy aging. But with poorly controlled blood sugar or high blood pressure, that rate can increase to 2–3 mL/min/year. Regular monitoring helps spot acceleration early.
 
-#### #### What are early signs of diabetes and kidney function decline in seniors?
+#### What are early signs of diabetes and kidney function decline in seniors?
 Early stages usually have *no noticeable symptoms*. That’s why lab tests (eGFR and UACR) are essential. Later signs—like fatigue, swollen ankles, foamy urine, or trouble concentrating—suggest more advanced change, which is why annual screening is recommended for all seniors with diabetes.
 
-#### #### Can diabetes and kidney function decline in seniors be reversed?
+#### Can diabetes and kidney function decline in seniors be reversed?
 While existing scarring can’t be undone, progression can often be slowed or stabilized—especially when caught at the microalbuminuria stage. Lifestyle changes, medication adjustments (like ACE inhibitors or SGLT2 inhibitors), and consistent follow-up make a meaningful difference for many.
 
-#### #### Does high blood pressure speed up kidney decline in people with diabetes?
+#### Does high blood pressure speed up kidney decline in people with diabetes?
 Yes—high blood pressure is the second leading cause of kidney disease after diabetes itself. Together, they create a “double burden” on kidney blood vessels. Controlling both reduces risk significantly: studies show combining BP and glucose management lowers the chance of needing dialysis by up to 50% over 10 years.
 
-#### #### Are there specific medications that protect kidney health in seniors with diabetes?
+#### Are there specific medications that protect kidney health in seniors with diabetes?
 Yes—certain classes have strong kidney-protective effects. SGLT2 inhibitors (like empagliflozin or dapagliflozin) and nonsteroidal MRAs (like finerenone) are FDA-approved to slow CKD progression in adults with type 2 diabetes. ACE inhibitors or ARBs are also commonly used, especially if you have even mild albuminuria. Always discuss options with your provider—what’s right depends on your full health picture.

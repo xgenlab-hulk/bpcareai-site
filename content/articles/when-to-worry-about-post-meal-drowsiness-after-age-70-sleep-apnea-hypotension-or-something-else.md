@@ -100,22 +100,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Is post-meal drowsiness in seniors always a sign of something serious?
+#### Is post-meal drowsiness in seniors always a sign of something serious?
 
 No—mild, short-lived sleepiness after eating is very common and usually harmless. It becomes worth exploring when it’s new, worsening, prolonged (>90 minutes), or accompanied by lightheadedness, confusion, or falls. That’s when *post-meal drowsiness seniors red flags* begin to matter.
 
-#### #### What are the most common post-meal drowsiness seniors red flags linked to heart health?
+#### What are the most common post-meal drowsiness seniors red flags linked to heart health?
 
 Key cardiovascular-related red flags include: dizziness or near-fainting within 30 minutes of eating; BP dropping ≥20 mm Hg when standing; feeling unusually fatigued after *small* meals; or needing to nap daily despite adequate nighttime sleep. These may signal orthostatic or postprandial hypotension—often tied to heart function, medication effects, or autonomic changes.
 
-#### #### Can healthy holiday eating for seniors reduce post-meal fatigue?
+#### Can healthy holiday eating for seniors reduce post-meal fatigue?
 
 Yes—absolutely. Prioritizing fiber-rich vegetables, lean proteins, and whole grains helps stabilize blood sugar and blood flow. Avoiding oversized portions, heavy sauces, and excessive salt or alcohol also supports vascular tone and reduces postprandial stress on your system. Think “nourishing rhythm,” not perfection.
 
-#### #### Does sleep apnea cause daytime sleepiness only in the morning—or can it show up after lunch too?
+#### Does sleep apnea cause daytime sleepiness only in the morning—or can it show up after lunch too?
 
 Both. Untreated sleep apnea fragments deep, restorative sleep—so fatigue often builds across the day. Many people report their strongest urge to nap between 1–3 p.m., precisely when circadian alertness dips *and* digestion peaks. That “after-lunch crash” may be your body finally demanding the rest it missed overnight.
 
-#### #### Are there medications that make post-meal drowsiness worse in older adults?
+#### Are there medications that make post-meal drowsiness worse in older adults?
 
 Yes—several common prescriptions can amplify fatigue, especially when combined with meals: certain blood pressure meds (like alpha-2 agonists or high-dose diuretics), some antidepressants (e.g., trazodone, mirtazapine), anticholinergics (for bladder or allergy symptoms), and even some pain relievers. Always review your full list with your pharmacist or doctor—especially if fatigue began or worsened after a new prescription.

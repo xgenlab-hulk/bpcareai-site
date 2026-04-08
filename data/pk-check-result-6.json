@@ -1,0 +1,1565 @@
+{
+  "batch_id": 6,
+  "total_articles": 245,
+  "quality_distribution": {
+    "excellent": 85,
+    "good": 41,
+    "needs_improvement": 24,
+    "poor": 95
+  },
+  "needs_optimization": [
+    {
+      "slug": "pancreatic-acinar-support-for-diabetics",
+      "title": "Natural Ways to Support Pancreatic Acinar Cell Function and Reduce Postprandial Lipase Deficiency in Adults 65+ With Long-Standing Type 2 Diabetes and Fatty Pancreas Imaging",
+      "current_keyword": "pancreatic acinar support for diabetics",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "pancreatic acinar support for diabetics",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "magnesium-threonate-vs-glycinate-nocturnal-bp-dipping",
+      "title": "A vs B: Evening Magnesium Threonate vs. Morning Magnesium Glycinate for Improving Nocturnal BP Dipping in Women 66–79 With Non-Dipping Pattern and Sleep Fragmentation",
+      "current_keyword": "magnesium threonate vs glycinate nocturnal bp dipping",
+      "score": 55,
+      "issues": [
+        "suboptimal_length",
+        "lacks_audience",
+        "no_core_medical"
+      ],
+      "suggested_keyword": "nighttime blood pressure men 66+",
+      "rationale": "Adjusted length from 53 to 32 chars; added target audience; clarified medical focus"
+    },
+    {
+      "slug": "lower-pulmonary-capillary-wedge-pressure-orthopnea",
+      "title": "Quick Ways to Lower Pulmonary Capillary Wedge Pressure Using Posture, Diaphragmatic Positioning, and Expiratory Resistance—For Adults 68+ With Orthopnea and Preserved EF",
+      "current_keyword": "lower pulmonary capillary wedge pressure orthopnea",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "lower pulmonary capillary wedge pressure orthopnea",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "low-dose-aspirin-prostacyclin-thromboxane-vasoconstriction",
+      "title": "How Chronic Low-Dose Aspirin Use Alters Prostacyclin–Thromboxane Balance and Worsens Peripheral Vasoconstriction in Adults 68–83 With Hypertension and Claudication",
+      "current_keyword": "low-dose aspirin prostacyclin thromboxane vasoconstriction",
+      "score": 32,
+      "issues": [
+        "suboptimal_length",
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "blood pressure control older adults",
+      "rationale": "Optimized length (58→35 chars) and clarity for SEO"
+    },
+    {
+      "slug": "gum-inflammation-endothelial-nitric-oxide-synthase-coupling",
+      "title": "How Chronic Low-Grade Gum Inflammation Alters Endothelial Nitric Oxide Synthase Coupling in Adults 64–80 With Stage 1 Hypertension and Mild Periodontitis",
+      "current_keyword": "gum inflammation endothelial nitric oxide synthase coupling",
+      "score": 32,
+      "issues": [
+        "suboptimal_length",
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "blood pressure control older adults",
+      "rationale": "Optimized length (59→35 chars) and clarity for SEO"
+    },
+    {
+      "slug": "forest-bathing-endothelial-progenitor-cells-hypertension",
+      "title": "Does Daily 20-Minute Forest Bathing (Shinrin-Yoku) Improve Endothelial Progenitor Cell Mobilization in Men 60–75 With Stage 1 Hypertension and Low CD34+/VEGFR2+ Counts?",
+      "current_keyword": "forest bathing endothelial progenitor cells hypertension",
+      "score": 55,
+      "issues": [
+        "suboptimal_length",
+        "lacks_audience",
+        "no_core_medical"
+      ],
+      "suggested_keyword": "blood pressure control older adults",
+      "rationale": "Optimized length (56→35 chars) and clarity for SEO"
+    },
+    {
+      "slug": "can-daily-2-minute-toe-tap-sequencing-improve-capillary-refill-time-and-postprandial-glucose-clearance-in-women-63-79-with-diabetic-foot-ulcer-history",
+      "title": "Can Daily 2-Minute Toe-Tap Sequencing Improve Capillary Refill Time and Postprandial Glucose Clearance in Women 63–79 With Diabetic Foot Ulcer History?",
+      "current_keyword": "toe-tap exercise for diabetic circulation",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "toe-tap exercise for diabetic circulation",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "best-breathing-patterns-for-reducing-central-systolic-pressure-in-adults-55-69-with-elevated-augmentation-index-and-high-frequency-hrv-suppression",
+      "title": "Best Breathing Patterns for Reducing Central Systolic Pressure in Adults 55–69 With Elevated Augmentation Index and High-Frequency HRV Suppression",
+      "current_keyword": "breathing patterns central systolic pressure augmentation index",
+      "score": 17,
+      "issues": [
+        "too_long",
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "breathing patterns central systolic pressure",
+      "rationale": "Adjusted length from 63 to 44 chars; optimized for SEO"
+    },
+    {
+      "slug": "9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance",
+      "title": "9 Foods That Enhance Vagal Tone During Holiday Meals — Backed by Real-Time HRV Data in Adults 64–77 With Mild Orthostatic Intolerance",
+      "current_keyword": "vagal tone holiday meals seniors",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "vagal tone holiday meals seniors",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "7-hidden-blood-sugar-triggers-in-holiday-baking-ingredients-especially-for-women-58-72-with-long-standing-type-2-diabetes",
+      "title": "7 Hidden Blood Sugar Triggers in Holiday Baking Ingredients — Especially for Women 58–72 With Long-Standing Type 2 Diabetes",
+      "current_keyword": "holiday baking blood sugar spikes women 60+",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "holiday baking blood sugar spikes women 60+",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "warning-signs-your-blood-pressure-is-straining-your-aorta-especially-if-you-re-a-man-over-72-with-marfanoid-features-and-unexplained-back-pain",
+      "title": "Warning Signs Your Blood Pressure Is Straining Your Aorta—Especially If You’re a Man Over 72 With Marfanoid Features and Unexplained Back Pain",
+      "current_keyword": "aortic strain warning signs marfanoid features back pain",
+      "score": 40,
+      "issues": [
+        "suboptimal_length",
+        "no_medical_topic",
+        "no_core_medical"
+      ],
+      "suggested_keyword": "blood pressure control older adults",
+      "rationale": "Optimized length (56→35 chars) and clarity for SEO"
+    },
+    {
+      "slug": "quick-ways-to-counteract-dinner-lunch-gap-hypoglycemia-in-adults-72-with-type-2-diabetes-gastroparesis-like-symptoms-and-long-overnight-fasts",
+      "title": "Quick Ways to Counteract 'Dinner-Lunch Gap Hypoglycemia' in Adults 72+ With Type 2 Diabetes, Gastroparesis-Like Symptoms, and Long Overnight Fasts",
+      "current_keyword": "dinner-lunch gap hypoglycemia",
+      "score": 55,
+      "issues": [
+        "suboptimal_length",
+        "lacks_audience",
+        "no_core_medical"
+      ],
+      "suggested_keyword": "nighttime diabetes seniors management",
+      "rationale": "Optimized length (29→37 chars) and clarity for SEO"
+    },
+    {
+      "slug": "natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements",
+      "title": "Natural Ways to Support Postprandial GLP-1 Secretion During Holiday Meals — Without Medication or Supplements",
+      "current_keyword": "natural glp-1 support holiday meals seniors",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "natural glp-1 support holiday meals seniors",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "metformin-mitochondrial-dna-copy-number",
+      "title": "What Research Says About the Impact of Long-Term Metformin Use on Mitochondrial DNA Copy Number in Skeletal Muscle of Adults 62–78 With Type 2 Diabetes and Low VO₂ Max",
+      "current_keyword": "metformin mitochondrial DNA copy number",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "metformin mitochondrial DNA copy number",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "lada-diagnosis-in-middle-aged-men",
+      "title": "When to Suspect Autoimmune Latent Autoimmune Diabetes in Adults (LADA) in Men 52–64 With Rapid Sulfonylurea Failure, Low C-Peptide, and Personal History of Hashimoto’s",
+      "current_keyword": "LADA diagnosis in middle-aged men",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "LADA diagnosis in middle-aged men",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "can-daily-4-minute-cold-face-immersion-lower-central-systolic-pressure-in-men-59-71-with-morning-hypertension-and-elevated-pulse-wave-velocity",
+      "title": "Can Daily 4-Minute Cold Face Immersion Lower Central Systolic Pressure in Men 59–71 With Morning Hypertension and Elevated Pulse Wave Velocity?",
+      "current_keyword": "cold face immersion central systolic pressure morning hypertension",
+      "score": 55,
+      "issues": [
+        "too_long",
+        "no_core_medical"
+      ],
+      "suggested_keyword": "cold face immersion central systolic pressure morn",
+      "rationale": "Adjusted length from 66 to 50 chars; optimized for SEO"
+    },
+    {
+      "slug": "arterial-elasticity-natural-support-isolated-systolic-hypertension",
+      "title": "Natural Ways to Support Arterial Elasticity Without Medication—Focusing on Elastin Cross-Link Breakers, Copper-Dependent LOXL1 Activity, and Collagen IV Synthesis in Adults 61–76 With Isolated Systolic Hypertension",
+      "current_keyword": "arterial elasticity natural support isolated systolic hypertension",
+      "score": 40,
+      "issues": [
+        "too_long",
+        "lacks_audience",
+        "no_core_medical"
+      ],
+      "suggested_keyword": "arterial elasticity natural support isolated systo",
+      "rationale": "Adjusted length from 66 to 50 chars; optimized for SEO"
+    },
+    {
+      "slug": "ampk-activating-foods-for-adipose-inflammation",
+      "title": "10 Foods That Activate AMPK in Adipose Tissue to Reduce Inflammatory Adipokine Release — Backed by Subcutaneous Fat Biopsy Data in Adults 57–73 With Obesity and Type 2 Diabetes",
+      "current_keyword": "AMPK activating foods for adipose inflammation",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "AMPK activating foods for adipose inflammation",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72",
+      "title": "7 Silent Signs Your Holiday Indigestion Isn’t Just ‘Overeating’ — It Could Be Early Gastric Neuropathy in Adults Over 72",
+      "current_keyword": "senior holiday indigestion warning signs",
+      "score": 45,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical"
+      ],
+      "suggested_keyword": "senior holiday indigestion warning signs",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "11-foods-that-support-mitochondrial-resilience-during-holiday-feasting-backed-by-skeletal-muscle-biopsy-data-in-adults-63-79",
+      "title": "11 Foods That Support Mitochondrial Resilience During Holiday Feasting — Backed by Skeletal Muscle Biopsy Data in Adults 63–79",
+      "current_keyword": "mitochondrial foods holiday seniors",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "mitochondrial foods holiday seniors",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction",
+      "title": "When to Suspect Cardiac Amyloidosis in Adults 74–88 With Unexplained Fatigue, Bilateral Carpal Tunnel Release History, and Normal Ejection Fraction",
+      "current_keyword": "cardiac amyloidosis signs after carpal tunnel surgery",
+      "score": 55,
+      "issues": [
+        "suboptimal_length",
+        "lacks_audience",
+        "no_core_medical"
+      ],
+      "suggested_keyword": "heart health control older adults",
+      "rationale": "Optimized length (53→33 chars) and clarity for SEO"
+    },
+    {
+      "slug": "salivary-amylase-holiday-seniors",
+      "title": "Quick Ways to Normalize Post-Meal Salivary Amylase Activity — A Forgotten Lever for Starch Digestion in Adults Over 71 With Denture-Related Chewing Changes",
+      "current_keyword": "salivary amylase holiday seniors",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "salivary amylase holiday seniors",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "reverse-left-ventricular-hypertrophy-without-medication",
+      "title": "12 Science-Backed Ways to Reverse Early Left Ventricular Hypertrophy Without Medication — Focused on Diastolic Filling Time, Sodium Timing, and Evening Magnesium Glycinate Dosing",
+      "current_keyword": "reverse left ventricular hypertrophy without medication",
+      "score": 32,
+      "issues": [
+        "suboptimal_length",
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "reverse left ventricular hypertrophy seniors",
+      "rationale": "Optimized length (55→44 chars) and clarity for SEO"
+    },
+    {
+      "slug": "reduce-left-ventricular-stiffness-without-medication",
+      "title": "12 Science-Backed Ways to Reduce Left Ventricular Stiffness Without Medication—Focusing on Titin Phosphorylation, Sodium Intake Timing, and Deep Exhalation Duration",
+      "current_keyword": "reduce left ventricular stiffness without medication",
+      "score": 40,
+      "issues": [
+        "suboptimal_length",
+        "no_medical_topic",
+        "no_core_medical"
+      ],
+      "suggested_keyword": "reduce left ventricular stiffness seniors",
+      "rationale": "Optimized length (52→41 chars) and clarity for SEO"
+    },
+    {
+      "slug": "quick-ways-to-stabilize-pulse-pressure-fluctuations-during-grocery-shopping-for-adults-70-with-orthostatic-intolerance-and-postprandial-hypotension",
+      "title": "Quick Ways to Stabilize Pulse Pressure Fluctuations During Grocery Shopping for Adults 70+ With Orthostatic Intolerance and Postprandial Hypotension",
+      "current_keyword": "pulse pressure stabilization during grocery shopping",
+      "score": 32,
+      "issues": [
+        "suboptimal_length",
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "pulse pressure stabilization during seniors",
+      "rationale": "Optimized length (52→43 chars) and clarity for SEO"
+    },
+    {
+      "slug": "nrf2-activating-foods-microvascular-angina-elders",
+      "title": "10 Foods That Activate Nrf2 Pathway to Reduce Oxidative Stress in Coronary Endothelium—Backed by Microvascular Reactivity Testing in Adults 62–76 With Microvascular Angina",
+      "current_keyword": "Nrf2-activating foods microvascular angina elders",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "Nrf2-activating foods microvascular angina elders",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "how-indoor-humidity-levels-below-30-during-heated-winters-increase-coronary-vasospasm-risk-in-women-over-64-with-migraine-history",
+      "title": "How Indoor Humidity Levels Below 30% During Heated Winters Increase Coronary Vasospasm Risk in Women Over 64 With Migraine History",
+      "current_keyword": "indoor humidity coronary vasospasm women migraine",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "indoor humidity coronary vasospasm women migraine",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "how-chronic-low-grade-dehydration-alters-taste-bud-sensitivity-and-drives-holiday-sugar-cravings-in-adults-over-68",
+      "title": "How Chronic Low-Grade Dehydration Alters Taste Bud Sensitivity and Drives Holiday Sugar Cravings in Adults Over 68",
+      "current_keyword": "dehydration sugar cravings seniors",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "dehydration sugar cravings seniors",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "home-ecg-devices-with-pacemakers-and-anticoagulants",
+      "title": "5 Things Everyone Over 72 Should Know About Using Home ECG Devices With Pacemakers and Atrial Flutter—Especially If You’re Taking Apixaban or Rivaroxaban",
+      "current_keyword": "home ecg devices with pacemakers and anticoagulants",
+      "score": 55,
+      "issues": [
+        "suboptimal_length",
+        "lacks_audience",
+        "no_core_medical"
+      ],
+      "suggested_keyword": "home ecg devices with seniors management",
+      "rationale": "Optimized length (51→40 chars) and clarity for SEO"
+    },
+    {
+      "slug": "cocoa-flavanols-endothelial-function-fatty-liver",
+      "title": "Does Adding 1 Gram of Cocoa Flavanols Daily Improve Endothelial-Dependent Vasodilation in Adults 63–79 With Metabolic Syndrome and Non-Alcoholic Fatty Liver?",
+      "current_keyword": "cocoa flavanols endothelial function fatty liver",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "cocoa flavanols endothelial function fatty liver",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "can-you-enjoy-holiday-pie-without-triggering-acid-reflux-at-night-a-3-step-timing-texture-strategy-for-adults-65-with-gerd",
+      "title": "Can You Enjoy Holiday Pie Without Triggering Acid Reflux at Night? A 3-Step Timing & Texture Strategy for Adults 65+ With GERD",
+      "current_keyword": "prevent nighttime acid reflux after pie",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "prevent nighttime acid reflux after pie",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "can-daily-3-minute-isometric-handgrip-training-lower-central-aortic-pressure-in-women-61-75-with-isolated-systolic-hypertension",
+      "title": "Can Daily 3-Minute Isometric Handgrip Training Lower Central Aortic Pressure in Women 61–75 With Isolated Systolic Hypertension?",
+      "current_keyword": "isometric handgrip central aortic pressure women 60s",
+      "score": 32,
+      "issues": [
+        "suboptimal_length",
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "blood pressure management men 61+",
+      "rationale": "Optimized length (52→33 chars) and clarity for SEO"
+    },
+    {
+      "slug": "best-breathing-patterns-for-reducing-right-ventricular-afterload-in-adults-67-80-with-pulmonary-hypertension-and-sarcopenia",
+      "title": "Best Breathing Patterns for Reducing Right Ventricular Afterload in Adults 67–80 With Pulmonary Hypertension and Sarcopenia",
+      "current_keyword": "breathing patterns right ventricular afterload PH",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "breathing patterns right ventricular afterload PH",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "a-vs-b-morning-7-a-m-caffeinated-green-tea-vs-afternoon-3-p-m-decaf-black-tea-for-men-57-68-with-premature-ventricular-contractions",
+      "title": "A vs B: Morning 7 a.m. Caffeinated Green Tea vs. Afternoon 3 p.m. Decaf Black Tea for Men 57–68 With Premature Ventricular Contractions",
+      "current_keyword": "green tea vs black tea PVCs men 60s",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "green tea vs black tea PVCs men 60s",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "13-science-backed-ways-to-reduce-holiday-sodium-load-without-losing-flavor-focused-on-umami-layering-herb-infusion-timing-and-potassium-rich-swaps",
+      "title": "13 Science-Backed Ways to Reduce Holiday Sodium Load Without Losing Flavor — Focused on Umami Layering, Herb Infusion Timing, and Potassium-Rich Swaps",
+      "current_keyword": "reduce sodium holiday seniors flavor",
+      "score": 45,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical"
+      ],
+      "suggested_keyword": "reduce sodium holiday seniors flavor",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "why-your-light-holiday-appetizer-plate-may-be-raising-triglycerides-more-than-dessert-the-hidden-fat-oxidation-block-in-adults-58-69",
+      "title": "Why Your ‘Light’ Holiday Appetizer Plate May Be Raising Triglycerides More Than Dessert — The Hidden Fat Oxidation Block in Adults 58–69",
+      "current_keyword": "holiday appetizers triglycerides seniors",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "holiday appetizers triglycerides seniors",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "when-to-suspect-holiday-induced-hyperammonemia-in-adults-70-with-cirrhosis-or-portosystemic-shunts-not-just-fatigue-or-confusion",
+      "title": "When to Suspect Holiday-Induced Hyperammonemia in Adults 70+ With Cirrhosis or Portosystemic Shunts — Not Just ‘Fatigue’ or ‘Confusion’",
+      "current_keyword": "hyperammonemia holiday seniors cirrhosis",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "hyperammonemia holiday seniors cirrhosis",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "what-causes-post-exercise-fatigue-that-lasts-48-hours-in-adults-with-diastolic-dysfunction-and-why-it-s-not-just-getting-older",
+      "title": "What Causes ‘Post-Exercise Fatigue That Lasts 48+ Hours’ in Adults With Diastolic Dysfunction—And Why It’s Not Just ‘Getting Older’",
+      "current_keyword": "post-exercise fatigue diastolic dysfunction older adults",
+      "score": 32,
+      "issues": [
+        "suboptimal_length",
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "post-exercise fatigue diastolic dysfunction",
+      "rationale": "Optimized length (56→43 chars) and clarity for SEO"
+    },
+    {
+      "slug": "warning-signs-your-normal-ecg-may-miss-early-arrhythmogenic-cardiomyopathy-in-adults-55-66-with-unexplained-syncope-and-family-history-of-scd",
+      "title": "Warning Signs Your ‘Normal’ ECG May Miss Early Arrhythmogenic Cardiomyopathy in Adults 55–66 With Unexplained Syncope and Family History of SCD",
+      "current_keyword": "ECG limitations arrhythmogenic cardiomyopathy syncope",
+      "score": 55,
+      "issues": [
+        "suboptimal_length",
+        "lacks_audience",
+        "no_core_medical"
+      ],
+      "suggested_keyword": "ECG limitations arrhythmogenic cardiomyopathy",
+      "rationale": "Optimized length (53→45 chars) and clarity for SEO"
+    },
+    {
+      "slug": "the-truth-about-sugar-free-holiday-desserts-for-seniors-on-glp-1-agonists-why-some-artificial-sweeteners-worsen-nausea-and-hypoglycemia-risk",
+      "title": "The Truth About ‘Sugar-Free’ Holiday Desserts for Seniors on GLP-1 Agonists — Why Some Artificial Sweeteners Worsen Nausea and Hypoglycemia Risk",
+      "current_keyword": "sugar-free desserts glp-1 seniors",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "sugar-free desserts glp-1 seniors",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "tai-chi-vs-muscle-relaxation-for-nocturnal-hypertension",
+      "title": "A vs B: 10-Minute Seated Tai Chi vs. Guided Progressive Muscle Relaxation for Reducing Nighttime Systolic Spikes in Women 63–75 With Insomnia and Nocturnal Hypertension",
+      "current_keyword": "tai chi vs muscle relaxation for nocturnal hypertension",
+      "score": 55,
+      "issues": [
+        "suboptimal_length",
+        "lacks_audience",
+        "no_core_medical"
+      ],
+      "suggested_keyword": "nighttime blood pressure men 63+",
+      "rationale": "Adjusted length from 55 to 32 chars; added target audience; clarified medical focus"
+    },
+    {
+      "slug": "how-social-eating-pace-during-family-dinners-slows-gastric-emptying-and-why-that-s-beneficial-or-harmful-for-seniors-with-gastroparesis-vs-gerd",
+      "title": "How Social Eating Pace During Family Dinners Slows Gastric Emptying — And Why That’s Beneficial (or Harmful) for Seniors With Gastroparesis vs. GERD",
+      "current_keyword": "social eating pace seniors gastroparesis",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "social eating pace seniors gastroparesis",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension",
+      "title": "How Chronic Gum Inflammation Alters Coronary Artery Plaque Stability in Adults 58–74 With Controlled Hypertension",
+      "current_keyword": "gum disease and coronary plaque stability adults 60s",
+      "score": 32,
+      "issues": [
+        "suboptimal_length",
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "blood pressure control older adults",
+      "rationale": "Optimized length (52→35 chars) and clarity for SEO"
+    },
+    {
+      "slug": "holiday-buffet-seniors-satiety-hormones",
+      "title": "The Ultimate Guide to Navigating Holiday Buffets With Age-Related Satiety Hormone Decline — Including Visual Cues, Plate Size, and Protein-First Sequencing",
+      "current_keyword": "holiday buffet seniors satiety hormones",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "holiday buffet seniors satiety hormones",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "guided-imagery-left-atrial-volume-afib-hypertension",
+      "title": "What Research Says About Daily 12-Minute Guided Imagery Sessions and Left Atrial Volume Regression in Adults 60–74 With Persistent AFib and Hypertension",
+      "current_keyword": "guided imagery left atrial volume AFib hypertension",
+      "score": 55,
+      "issues": [
+        "suboptimal_length",
+        "lacks_audience",
+        "no_core_medical"
+      ],
+      "suggested_keyword": "blood pressure control older adults",
+      "rationale": "Optimized length (51→35 chars) and clarity for SEO"
+    },
+    {
+      "slug": "dangers-of-just-one-more-cup-of-eggnog-for-adults-over-74-with-subclinical-vitamin-d-toxicity-and-how-to-spot-early-hypercalcemia-clues",
+      "title": "Dangers of ‘Just One More Cup’ of Eggnog for Adults Over 74 With Subclinical Vitamin D Toxicity — And How to Spot Early Hypercalcemia Clues",
+      "current_keyword": "eggnog vitamin d toxicity seniors",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "eggnog vitamin d toxicity seniors",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes",
+      "title": "Can Intermittent Fasting Worsen Orthostatic Hypotension in Adults 72+ With Long-Standing Type 2 Diabetes?",
+      "current_keyword": "intermittent fasting orthostatic hypotension seniors",
+      "score": 32,
+      "issues": [
+        "suboptimal_length",
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "diabetes control older adults management",
+      "rationale": "Optimized length (52→40 chars) and clarity for SEO"
+    },
+    {
+      "slug": "boost-nitric-oxide-naturally-seniors",
+      "title": "Natural Ways to Support Endothelial Nitric Oxide Synthase Activity in 8–12 Weeks Using Beetroot Timing, Sunlight Exposure, and Arginine–Citrulline Cycling",
+      "current_keyword": "boost nitric oxide naturally seniors",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "boost nitric oxide naturally seniors",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "best-holiday-snacks-for-seniors-with-early-macular-degeneration-ranked-by-lutein-bioavailability-fat-co-ingestion-and-light-induced-oxidative-stress",
+      "title": "Best Holiday Snacks for Seniors With Early Macular Degeneration — Ranked by Lutein Bioavailability, Fat Co-Ingestion, and Light-Induced Oxidative Stress",
+      "current_keyword": "holiday snacks macular degeneration seniors",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "holiday snacks macular degeneration seniors",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "a-vs-b-grandma-s-fruitcake-soaked-in-brandy-vs-baked-pear-walnut-loaf-no-alcohol-lower-osmolality-for-seniors-with-mild-hyponatremia",
+      "title": "A vs B: Grandma’s Fruitcake (Soaked in Brandy) vs. Baked Pear & Walnut Loaf (No Alcohol, Lower Osmolality) for Seniors With Mild Hyponatremia",
+      "current_keyword": "holiday desserts hyponatremia seniors",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "holiday desserts hyponatremia seniors",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "7-hidden-sodium-traps-in-healthy-holiday-side-dishes-that-raise-systolic-bp-in-adults-62-76-with-stage-1-hypertension",
+      "title": "7 Hidden Sodium Traps in ‘Healthy’ Holiday Side Dishes That Raise Systolic BP in Adults 62–76 With Stage 1 Hypertension",
+      "current_keyword": "hidden sodium in holiday side dishes",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "hidden sodium in holiday side dishes",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "5-things-everyone-over-76-should-know-about-holiday-leftovers-including-safe-reheating-temperatures-for-frail-immune-systems",
+      "title": "5 Things Everyone Over 76 Should Know About Holiday Leftovers — Including Safe Reheating Temperatures for Frail Immune Systems",
+      "current_keyword": "holiday leftovers food safety seniors",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "holiday leftovers food safety seniors",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "12-science-backed-ways-to-reduce-post-holiday-inflammation-in-just-5-days-targeting-crp-il-6-and-endothelial-function-in-adults-55-72",
+      "title": "12 Science-Backed Ways to Reduce Post-Holiday Inflammation in Just 5 Days—Targeting CRP, IL-6, and Endothelial Function in Adults 55–72",
+      "current_keyword": "reduce holiday inflammation in 5 days",
+      "score": 45,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical"
+      ],
+      "suggested_keyword": "reduce holiday inflammation in 5 days",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75",
+      "title": "12 Science-Backed Ways to Lower Pulse Pressure Without Increasing Medication Dose in Adults With Isolated Systolic Hypertension Over 75",
+      "current_keyword": "lower pulse pressure isolated systolic hypertension",
+      "score": 55,
+      "issues": [
+        "suboptimal_length",
+        "lacks_audience",
+        "no_core_medical"
+      ],
+      "suggested_keyword": "blood pressure control older adults",
+      "rationale": "Optimized length (51→35 chars) and clarity for SEO"
+    },
+    {
+      "slug": "when-to-worry-about-just-one-more-slice-of-holiday-bread-especially-if-you-re-a-woman-over-64-with-silent-celiac-disease",
+      "title": "When to Worry About ‘Just One More Slice’ of Holiday Bread—Especially If You’re a Woman Over 64 With Silent Celiac Disease",
+      "current_keyword": "silent celiac symptoms in older women",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "silent celiac symptoms in older women",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "what-to-eat-and-skip-at-a-family-potluck-if-you-re-on-dialysis-and-over-70-a-kidney-safe-strategy-that-respects-cultural-traditions",
+      "title": "What to Eat (and Skip) at a Family Potluck If You’re on Dialysis and Over 70—A Kidney-Safe Strategy That Respects Cultural Traditions",
+      "current_keyword": "kidney-friendly potluck food for seniors",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "kidney-friendly potluck food for seniors",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "the-truth-about-light-holiday-cocktails-for-men-over-67-with-mild-fatty-liver-disease-do-zero-calorie-mixers-actually-protect-your-liver",
+      "title": "The Truth About ‘Light’ Holiday Cocktails for Men Over 67 With Mild Fatty Liver Disease—Do Zero-Calorie Mixers Actually Protect Your Liver?",
+      "current_keyword": "zero-calorie cocktails and fatty liver",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "zero-calorie cocktails and fatty liver",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "myths-vs-facts-i-don-t-need-to-check-my-feet-daily-because-i-still-feel-pain",
+      "title": "Myths vs Facts: 'I Don’t Need to Check My Feet Daily Because I Still Feel Pain'",
+      "current_keyword": "diabetic foot care pain sensation myth",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "diabetic foot care pain sensation myth",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "intermittent-fasting-during-family-events",
+      "title": "How Intermittent Fasting Windows Shift During Family Gatherings—And Why a 10 a.m. to 6 p.m. Schedule May Backfire for Women 59–69 With Insulin Resistance",
+      "current_keyword": "intermittent fasting during family events",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "intermittent fasting during family events",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "a-vs-b-traditional-green-bean-casserole-vs-air-fried-crispy-green-beans-with-shallot-garlic-oil-for-adults-with-early-diabetic-retinopathy",
+      "title": "A vs B: Traditional Green Bean Casserole vs Air-Fried Crispy Green Beans With Shallot-Garlic Oil for Adults With Early Diabetic Retinopathy",
+      "current_keyword": "green bean casserole vs air-fried green beans",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "green bean casserole vs air-fried green beans",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "5-things-everyone-over-73-should-know-about-holiday-nuts-including-which-varieties-worsen-atrial-fibrillation-triggers-in-winter",
+      "title": "5 Things Everyone Over 73 Should Know About Holiday Nuts—Including Which Varieties Worsen Atrial Fibrillation Triggers in Winter",
+      "current_keyword": "holiday nuts and atrial fibrillation risk",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "holiday nuts and atrial fibrillation risk",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "when-to-suspect-pheochromocytoma-related-hypertension-fluctuations-in-adults-58-74-with-episodic-palpitations-and-normotensive-intervals",
+      "title": "When to Suspect Pheochromocytoma-Related Hypertension Fluctuations in Adults 58–74 With Episodic Palpitations and Normotensive Intervals",
+      "current_keyword": "pheochromocytoma hypertension fluctuations episodic palpitations",
+      "score": 40,
+      "issues": [
+        "too_long",
+        "lacks_audience",
+        "no_core_medical"
+      ],
+      "suggested_keyword": "pheochromocytoma hypertension fluctuations episodi",
+      "rationale": "Adjusted length from 64 to 50 chars; optimized for SEO"
+    },
+    {
+      "slug": "when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead",
+      "title": "When to Skip the Holiday Buffet Line If You’re on Warfarin and Over 70—And What to Eat Instead",
+      "current_keyword": "warfarin holiday buffet seniors",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "warfarin holiday buffet seniors",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "what-research-says-about-fasting-mimicking-diet-cycles-and-coronary-plaque-stabilization-in-adults-with-high-risk-lipid-profiles-lp-a-50-mg-dl",
+      "title": "What Research Says About Fasting-Mimicking Diet Cycles and Coronary Plaque Stabilization in Adults With High-Risk Lipid Profiles (Lp(a) > 50 mg/dL)",
+      "current_keyword": "fasting mimicking diet and plaque stability",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "fasting mimicking diet and plaque stability",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "the-ultimate-guide-to-interpreting-your-coronary-artery-calcium-score-including-age-and-sex-specific-percentile-benchmarks-and-when-to-repeat-scanning",
+      "title": "The Ultimate Guide to Interpreting Your Coronary Artery Calcium Score—Including Age- and Sex-Specific Percentile Benchmarks and When to Repeat Scanning",
+      "current_keyword": "coronary calcium score interpretation guide",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "coronary calcium score interpretation guide",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "the-truth-about-sugar-free-holiday-cookies-for-adults-with-stage-2-ckd-and-preserved-egfr",
+      "title": "The Truth About 'Sugar-Free' Holiday Cookies for Adults With Stage 2 CKD and Preserved eGFR",
+      "current_keyword": "sugar-free cookies stage 2 ckid seniors",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "sugar-free cookies stage 2 ckid seniors",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "the-truth-about-sugar-free-cough-drops-for-adults-with-type-1-diabetes-over-60-do-sugar-alcohols-like-isomalt-raise-blood-glucose",
+      "title": "The Truth About 'Sugar-Free' Cough Drops for Adults With Type 1 Diabetes Over 60—Do Sugar Alcohols Like Isomalt Raise Blood Glucose?",
+      "current_keyword": "sugar-free cough drops and blood sugar in seniors",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "sugar-free cough drops and blood sugar in seniors",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "quick-ways-to-adjust-portion-sizes-for-seniors-with-early-sarcopenia-without-offending-the-cook",
+      "title": "Quick Ways to Adjust Portion Sizes for Seniors With Early Sarcopenia—Without Offending the Cook",
+      "current_keyword": "portion control sarcopenia seniors",
+      "score": 45,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical"
+      ],
+      "suggested_keyword": "portion control sarcopenia seniors",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "natural-ways-to-support-arterial-stiffness-reduction-in-8-12-weeks-using-targeted-flavonoid-timing-and-pulse-wave-velocity-feedback-in-adults-64-80",
+      "title": "Natural Ways to Support Arterial Stiffness Reduction in 8–12 Weeks Using Targeted Flavonoid Timing and Pulse Wave Velocity Feedback in Adults 64–80",
+      "current_keyword": "arterial stiffness reduction flavonoid timing pwv",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "arterial stiffness reduction flavonoid timing pwv",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "how-chronic-low-grade-inflammation-from-gum-disease-accelerates-diabetic-kidney-disease-in-adults-55-73-with-albuminuria",
+      "title": "How Chronic Low-Grade Inflammation From Gum Disease Accelerates Diabetic Kidney Disease in Adults 55–73 With Albuminuria",
+      "current_keyword": "gum disease and diabetic kidney disease progression",
+      "score": 32,
+      "issues": [
+        "suboptimal_length",
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "diabetes control older adults management",
+      "rationale": "Optimized length (51→40 chars) and clarity for SEO"
+    },
+    {
+      "slug": "does-daily-15-minute-guided-imagery-lower-24-hour-mean-arterial-pressure-in-adults-69-83-with-treatment-resistant-hypertension",
+      "title": "Does Daily 15-Minute Guided Imagery Lower 24-Hour Mean Arterial Pressure in Adults 69–83 With Treatment-Resistant Hypertension?",
+      "current_keyword": "guided imagery mean arterial pressure resistant hypertension",
+      "score": 55,
+      "issues": [
+        "suboptimal_length",
+        "lacks_audience",
+        "no_core_medical"
+      ],
+      "suggested_keyword": "blood pressure control older adults",
+      "rationale": "Optimized length (60→35 chars) and clarity for SEO"
+    },
+    {
+      "slug": "can-you-safely-take-berberine-with-metformin-if-you-re-over-74-and-have-mild-liver-fibrosis-what-alt-ast-and-fibroscan-data-reveal",
+      "title": "Can You Safely Take Berberine With Metformin If You’re Over 74 and Have Mild Liver Fibrosis? What ALT/AST and FibroScan Data Reveal",
+      "current_keyword": "berberine and metformin in elderly with liver fibrosis",
+      "score": 32,
+      "issues": [
+        "suboptimal_length",
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "berberine and metformin in seniors",
+      "rationale": "Optimized length (54→34 chars) and clarity for SEO"
+    },
+    {
+      "slug": "a-vs-b-plant-based-low-glycemic-meal-plans-vs-mediterranean-style-diets-for-slowing-diabetic-neuropathy-progression-in-men-67-79",
+      "title": "A vs B: Plant-Based Low-Glycemic Meal Plans vs Mediterranean-Style Diets for Slowing Diabetic Neuropathy Progression in Men 67–79",
+      "current_keyword": "plant-based vs mediterranean diet for diabetic neuropathy",
+      "score": 55,
+      "issues": [
+        "suboptimal_length",
+        "lacks_audience",
+        "no_core_medical"
+      ],
+      "suggested_keyword": "diabetes control older adults management",
+      "rationale": "Optimized length (57→40 chars) and clarity for SEO"
+    },
+    {
+      "slug": "7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68",
+      "title": "7 Foods That Support Satiety Without Triggering Nocturnal Acid Reflux in Women Over 68",
+      "current_keyword": "satiety foods nocturnal acid reflux seniors",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "satiety foods nocturnal acid reflux seniors",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "5-things-everyone-over-73-should-know-about-holiday-nut-mixes-and-when-to-avoid-them-entirely",
+      "title": "5 Things Everyone Over 73 Should Know About Holiday Nut Mixes—and When to Avoid Them Entirely",
+      "current_keyword": "holiday nut mixes seniors 73+",
+      "score": 32,
+      "issues": [
+        "suboptimal_length",
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "holiday nut mixes seniors seniors",
+      "rationale": "Optimized length (29→33 chars) and clarity for SEO"
+    },
+    {
+      "slug": "when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists",
+      "title": "When Should You Switch From Fasting Glucose to 2-Hour Postprandial Testing—Especially If You’re Over 72 and Taking GLP-1 Agonists?",
+      "current_keyword": "postprandial testing timing for glp1 users over 72",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "postprandial testing timing for glp1 users over 72",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "what-are-the-earliest-cognitive-red-flags-suggesting-hypertensive-microvascular-encephalopathy-before-mri-shows-white-matter-hyperintensities",
+      "title": "What Are the Earliest Cognitive Red Flags Suggesting Hypertensive Microvascular Encephalopathy—Before MRI Shows White Matter Hyperintensities?",
+      "current_keyword": "cognitive red flags hypertensive microvascular encephalopathy",
+      "score": 17,
+      "issues": [
+        "too_long",
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "cognitive red flags hypertensive brain changes",
+      "rationale": "Adjusted length from 61 to 46 chars; optimized for SEO"
+    },
+    {
+      "slug": "the-truth-about-no-salt-seasoning-blends-for-men-with-stage-2-hypertension-and-chronic-kidney-disease-stage-3a",
+      "title": "The Truth About 'No-Salt' Seasoning Blends for Men With Stage 2 Hypertension and Chronic Kidney Disease Stage 3a",
+      "current_keyword": "no-salt seasoning blends chronic kidney disease",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "no-salt seasoning blends chronic kidney disease",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "skin-elasticity-changes-in-elderly-diabetic-women",
+      "title": "What Are the Earliest Changes in Skin Elasticity and Wound Healing That Signal Subclinical Microvascular Damage in Women Over 65 With Long-Standing Diabetes?",
+      "current_keyword": "skin elasticity changes in elderly diabetic women",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "skin elasticity changes in elderly diabetic women",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "nitric-oxide-coupling-without-l-arginine",
+      "title": "Natural Ways to Enhance Myocardial Nitric Oxide Synthase Coupling Without L-Arginine—Using Beetroot-Derived Nitrate, Exercise Timing, and Oral Microbiome Support in Sedentary Adults 68+",
+      "current_keyword": "nitric oxide coupling without l-arginine",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "nitric oxide coupling without l-arginine",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms",
+      "title": "Natural Ways to Support Gastric Emptying After a Heavy Holiday Meal—Without Medication—for Adults 66–81 With Gastroparesis-Like Symptoms",
+      "current_keyword": "gastric emptying after holiday meal",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "gastric emptying after holiday meal",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings",
+      "title": "Natural Ways to Maintain Postprandial Circulation After a Holiday Meal—Without Walking or Compression Stockings",
+      "current_keyword": "postprandial circulation seniors no walking",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "postprandial circulation seniors no walking",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis",
+      "title": "How Holiday Leftovers Affect Gastric Emptying in Adults Over 75 With Mild Gastroparesis",
+      "current_keyword": "holiday leftovers gastroparesis seniors",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "holiday leftovers gastroparesis seniors",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "how-emotional-exhaustion-from-caregiving-worsens-glycemic-variability-in-adults-with-type-2-diabetes-over-66-and-what-hrv-biofeedback-can-do",
+      "title": "How Emotional Exhaustion From Caregiving Worsens Glycemic Variability in Adults With Type 2 Diabetes Over 66—And What HRV Biofeedback Can Do",
+      "current_keyword": "caregiver stress and glycemic variability seniors",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "caregiver stress and glycemic variability seniors",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "dangers-of-intermittent-fasting-for-adults-with-severe-hypertension-and-autonomic-neuropathy-confirmed-by-ewing-battery",
+      "title": "Dangers of Intermittent Fasting for Adults With Severe Hypertension and Autonomic Neuropathy Confirmed by Ewing Battery",
+      "current_keyword": "intermittent fasting autonomic neuropathy severe hypertension",
+      "score": 40,
+      "issues": [
+        "too_long",
+        "lacks_audience",
+        "no_core_medical"
+      ],
+      "suggested_keyword": "intermittent fasting autonomic neuropathy severe h",
+      "rationale": "Adjusted length from 61 to 50 chars; optimized for SEO"
+    },
+    {
+      "slug": "best-low-impact-resistance-exercises-for-blood-pressure-control-in-adults-with-knee-osteoarthritis-and-stage-1-hypertension",
+      "title": "Best Low-Impact Resistance Exercises for Blood Pressure Control in Adults With Knee Osteoarthritis and Stage 1 Hypertension",
+      "current_keyword": "low-impact resistance exercise knee osteoarthritis",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "low-impact resistance exercise knee osteoarthritis",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "a-vs-b-home-based-oscillometric-cuff-vs-wrist-worn-ppg-device-for-detecting-nocturnal-non-dipping-in-adults-with-mild-sleep-apnea",
+      "title": "A vs B: Home-Based Oscillometric Cuff vs. Wrist-Worn PPG Device for Detecting Nocturnal Non-Dipping in Adults With Mild Sleep Apnea",
+      "current_keyword": "oscillometric cuff vs ppg nocturnal non-dipping",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "oscillometric cuff vs ppg nocturnal non-dipping",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "7-unexpected-household-chemicals-that-may-interfere-with-ace-inhibitor-efficacy-in-adults-over-75",
+      "title": "7 Unexpected Household Chemicals That May Interfere With ACE Inhibitor Efficacy in Adults Over 75",
+      "current_keyword": "household chemicals ace inhibitor interference",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "household chemicals ace inhibitor interference",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "7-underrecognized-triggers-of-nocturnal-st-segment-depression-in-adults-with-nonobstructive-cad-identified-via-home-based-ecg-patch-monitoring",
+      "title": "7 Underrecognized Triggers of Nocturnal ST-Segment Depression in Adults With Nonobstructive CAD—Identified via Home-Based ECG Patch Monitoring",
+      "current_keyword": "nocturnal st-segment depression triggers",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "nocturnal st-segment depression triggers",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis",
+      "title": "12 Science-Backed Ways to Reduce Post-Holiday Inflammation in Adults 59–76 With Rheumatoid Arthritis",
+      "current_keyword": "reduce post-holiday inflammation ra",
+      "score": 45,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical"
+      ],
+      "suggested_keyword": "reduce post-holiday inflammation ra",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "12-science-backed-ways-to-protect-your-gut-microbiome-from-antibiotic-induced-dysbiosis-if-you-re-managing-diabetes-and-over-64",
+      "title": "12 Science-Backed Ways to Protect Your Gut Microbiome From Antibiotic-Induced Dysbiosis—If You’re Managing Diabetes and Over 64",
+      "current_keyword": "antibiotics and gut microbiome in older diabetics",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "antibiotics and gut microbiome in older diabetics",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "when-to-eat-before-a-family-gathering-if-you-re-on-glp-1-agonists-and-over-65",
+      "title": "When to Eat Before a Family Gathering If You’re on GLP-1 Agonists and Over 65",
+      "current_keyword": "glp-1 agonist meal timing family gathering",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "glp-1 agonist meal timing family gathering",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "what-are-the-earliest-taste-perception-changes-that-make-holiday-spices-feel-too-strong-after-age-68",
+      "title": "What Are the Earliest Taste Perception Changes That Make Holiday Spices Feel 'Too Strong' After Age 68?",
+      "current_keyword": "taste perception changes holiday spices",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "taste perception changes holiday spices",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear",
+      "title": "Warning Signs Your 'Well-Controlled' Hypertension Is Causing Subclinical Left Ventricular Hypertrophy—Before Echo Findings Appear",
+      "current_keyword": "subclinical left ventricular hypertrophy signs",
+      "score": 45,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical"
+      ],
+      "suggested_keyword": "subclinical left ventricular hypertrophy signs",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "warning-signs-your-grandchild-s-leftover-mac-and-cheese-is-raising-your-postprandial-triglycerides-especially-after-age-55",
+      "title": "Warning Signs Your Grandchild’s Leftover Mac and Cheese Is Raising Your Postprandial Triglycerides—Especially After Age 55",
+      "current_keyword": "mac and cheese postprandial triglycerides",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "mac and cheese postprandial triglycerides",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "the-truth-about-gluten-free-holiday-breads-for-men-over-70-with-silent-celiac-disease-and-low-b12",
+      "title": "The Truth About 'Gluten-Free' Holiday Breads for Men Over 70 With Silent Celiac Disease and Low B12",
+      "current_keyword": "gluten-free holiday bread b12 deficiency",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "gluten-free holiday bread b12 deficiency",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "simple-steps-to-modify-a-family-recipe-for-a-loved-one-with-dysphagia-without-losing-flavor-or-cultural-meaning",
+      "title": "Simple Steps to Modify a Family Recipe for a Loved One With Dysphagia—Without Losing Flavor or Cultural Meaning",
+      "current_keyword": "modify family recipe dysphagia",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "modify family recipe dysphagia",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "simple-changes-to-your-evening-light-exposure-that-reduce-nocturnal-myocardial-oxygen-demand-in-adults-with-stable-angina-and-sleep-onset-insomnia",
+      "title": "Simple Changes to Your Evening Light Exposure That Reduce Nocturnal Myocardial Oxygen Demand in Adults With Stable Angina and Sleep-Onset Insomnia",
+      "current_keyword": "evening light exposure angina oxygen demand",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "evening light exposure angina oxygen demand",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "quick-ways-to-normalize-post-gathering-cortisol-within-45-minutes-using-breathwork-cold-facial-immersion-validated-in-adults-60-75",
+      "title": "Quick Ways to Normalize Post-Gathering Cortisol Within 45 Minutes Using Breathwork + Cold Facial Immersion—Validated in Adults 60–75",
+      "current_keyword": "normalize cortisol after family gathering",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "normalize cortisol after family gathering",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "improve-endothelial-function-without-exercise",
+      "title": "12 Science-Backed Ways to Improve Endothelial Function Within 14 Days—Without Exercise or Dietary Restriction—in Sedentary Adults 67–81 With Normal BMI but Elevated hs-CRP",
+      "current_keyword": "improve endothelial function without exercise",
+      "score": 45,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical"
+      ],
+      "suggested_keyword": "improve endothelial function without exercise",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone",
+      "title": "How Social Isolation Alters Nighttime Heart Rate Variability and Accelerates Coronary Artery Calcification in Men 71–84 Living Alone",
+      "current_keyword": "social isolation and coronary artery calcification",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "social isolation and coronary artery calcification",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "how-family-mealtime-laughter-affects-gastric-acid-secretion-and-why-that-matters-for-adults-with-gerd-over-65",
+      "title": "How Family Mealtime Laughter Affects Gastric Acid Secretion—and Why That Matters for Adults With GERD Over 65",
+      "current_keyword": "laughter gastric acid gerd family meals",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "laughter gastric acid gerd family meals",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "how-emotional-eating-patterns-shift-during-multigenerational-gatherings-and-why-that-matters-for-adults-with-long-standing-type-2-diabetes",
+      "title": "How Emotional Eating Patterns Shift During Multigenerational Gatherings—and Why That Matters for Adults With Long-Standing Type 2 Diabetes",
+      "current_keyword": "emotional eating multigenerational gatherings",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "emotional eating multigenerational gatherings",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "holiday-hydration-hyponatremia-seniors-diuretics",
+      "title": "Warning Signs Your Holiday 'Hydration Plan' (e.g., Herbal Teas, Broth, Infused Water) Is Diluting Sodium—Especially If You’re on Diuretics or Have Hyponatremia History",
+      "current_keyword": "holiday hydration hyponatremia seniors diuretics",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "holiday hydration hyponatremia seniors diuretics",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "dangers-of-over-the-counter-heart-support-supplements-containing-hawthorn-berberine-in-adults-with-stage-3-ckd-and-atrial-fibrillation",
+      "title": "Dangers of Over-the-Counter 'Heart Support' Supplements Containing Hawthorn + Berberine in Adults With Stage 3 CKD and Atrial Fibrillation",
+      "current_keyword": "hawthorn berberine and afib in ckid",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "hawthorn berberine and afib in ckid",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "a-vs-b-daily-low-dose-aspirin-vs-colchicine-for-secondary-prevention-in-adults-64-79-with-prior-myocardial-infarction-and-elevated-hs-crp",
+      "title": "A vs B: Daily Low-Dose Aspirin vs. Colchicine for Secondary Prevention in Adults 64–79 With Prior Myocardial Infarction and Elevated hs-CRP",
+      "current_keyword": "aspirin vs colchicine secondary prevention",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "aspirin vs colchicine secondary prevention",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics",
+      "title": "5 Things Everyone Over 62 Should Know About Alcohol Pairing at Family Dinners—Especially With Beta-Blockers or Diuretics",
+      "current_keyword": "alcohol pairing family dinner beta-blockers",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "alcohol pairing family dinner beta-blockers",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "12-science-backed-ways-to-reduce-left-atrial-strain-variability-during-air-travel-for-adults-with-paroxysmal-afib-and-mild-copd",
+      "title": "12 Science-Backed Ways to Reduce Left Atrial Strain Variability During Air Travel for Adults With Paroxysmal AFib and Mild COPD",
+      "current_keyword": "left atrial strain during air travel",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "left atrial strain during air travel",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "10-foods-that-support-mitochondrial-resilience-during-holiday-stress-in-adults-57-74-with-chronic-fatigue",
+      "title": "10 Foods That Support Mitochondrial Resilience During Holiday Stress in Adults 57–74 With Chronic Fatigue",
+      "current_keyword": "mitochondrial resilience holiday stress",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "mitochondrial resilience holiday stress",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "what-research-says-about-intermittent-fasting-during-multigenerational-holidays-for-adults-58-74-with-mild-cognitive-impairment",
+      "title": "What Research Says About Intermittent Fasting During Multigenerational Holidays for Adults 58–74 With Mild Cognitive Impairment",
+      "current_keyword": "intermittent fasting multigenerational holidays mci",
+      "score": 32,
+      "issues": [
+        "suboptimal_length",
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "intermittent fasting multigenerational holidays",
+      "rationale": "Optimized length (51→47 chars) and clarity for SEO"
+    },
+    {
+      "slug": "what-are-the-earliest-retinal-microvascular-changes-that-predict-coronary-artery-calcification-in-men-52-64-with-non-alcoholic-fatty-liver-disease",
+      "title": "What Are the Earliest Retinal Microvascular Changes That Predict Coronary Artery Calcification in Men 52–64 With Non-Alcoholic Fatty Liver Disease?",
+      "current_keyword": "retinal changes coronary calcification fatty liver",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "retinal changes coronary calcification fatty liver",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity",
+      "title": "Warning Signs Your ‘Stable’ Beta-Blocker Regimen Is Masking Early Diastolic Dysfunction Progression in Women 66–79 With Obesity",
+      "current_keyword": "beta blocker masking diastolic dysfunction",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "beta blocker masking diastolic dysfunction",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "the-truth-about-heart-healthy-air-fryer-french-fries-for-adults-70-on-dual-anticoagulants-apixaban-aspirin",
+      "title": "The Truth About 'Heart-Healthy' Air Fryer French Fries for Adults 70+ on Dual Anticoagulants (Apixaban + Aspirin)",
+      "current_keyword": "air fryer fries anticoagulant safety seniors",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "air fryer fries anticoagulant safety seniors",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "myths-vs-facts-eating-slowly-fixes-everything-during-holiday-meals-for-adults-with-mild-dementia-and-sundowning",
+      "title": "Myths vs Facts: 'Eating Slowly Fixes Everything' During Holiday Meals for Adults With Mild Dementia and Sundowning",
+      "current_keyword": "eating slowly holiday meals dementia",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "eating slowly holiday meals dementia",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "holiday-eating-macular-degeneration",
+      "title": "The Ultimate Guide to Holiday Eating for Adults With Late-Stage Macular Degeneration—Focusing on Meal Visibility, Texture Cues, and Nutrient-Dense Low-Vision Adaptations",
+      "current_keyword": "holiday eating macular degeneration",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "holiday eating macular degeneration",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "gum-disease-and-coronary-artery-function",
+      "title": "How Chronic Gum Infections Alter Coronary Artery Endothelial Function in Adults 58–74 With Stable Angina—New Imaging Evidence from the PERIODONT-HEART Trial",
+      "current_keyword": "gum disease and coronary artery function",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "gum disease and coronary artery function",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis",
+      "title": "Does Leftover Cranberry Sauce Really Lower Post-Meal Urinary pH in Men Over 70 With Recurrent UTIs?",
+      "current_keyword": "cranberry sauce urinary ph uti",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "cranberry sauce urinary ph uti",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "dangers-of-using-heart-healthy-coconut-water-electrolyte-drinks-during-hot-weather-for-adults-with-hfpef-and-egfr-45-59",
+      "title": "Dangers of Using 'Heart-Healthy' Coconut Water Electrolyte Drinks During Hot Weather for Adults With HFpEF and eGFR 45–59",
+      "current_keyword": "coconut water hfpef kidney function risk",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "coconut water hfpef kidney function risk",
+      "rationale": "Optimized for SEO clarity and structure"
+    },
+    {
+      "slug": "can-you-safely-eat-leftover-turkey-salad-on-day-3-if-you-re-on-metformin-and-have-egfr-62-a-food-safety-renal-glucose-guide",
+      "title": "Can You Safely Eat Leftover Turkey Salad on Day 3 If You’re on Metformin and Have eGFR 62? A Food Safety + Renal-Glucose Guide",
+      "current_keyword": "leftover turkey salad metformin eGFR",
+      "score": 37,
+      "issues": [
+        "no_medical_topic",
+        "no_core_medical",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "leftover turkey salad metformin eGFR",
+      "rationale": "Optimized for SEO clarity and structure"
+    }
+  ]
+}

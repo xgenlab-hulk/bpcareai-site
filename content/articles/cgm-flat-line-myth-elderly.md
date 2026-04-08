@@ -89,22 +89,22 @@ Living well with diabetes — or prediabetes — after 65 doesn’t mean chasing
 
 ### FAQ
 
-#### #### Is a flat CGM line normal for seniors — or is it part of the CGM flat line myth elderly people believe?
+#### Is a flat CGM line normal for seniors — or is it part of the CGM flat line myth elderly people believe?
 
 A flat line *can* be normal — especially during stable fasting periods or with consistent low-carb eating. But in older adults, persistent flatness without clear cause may reflect interstitial lag or sensor limitations, not true glucose stability. It’s a key part of the *CGM flat line myth elderly* narrative — and worth validating with fingersticks.
 
-#### #### Why does my CGM show flat lines even when I feel shaky or tired? Is this the CGM flat line myth elderly adults experience?
+#### Why does my CGM show flat lines even when I feel shaky or tired? Is this the CGM flat line myth elderly adults experience?
 
 Yes — this is a classic sign of the *CGM flat line myth elderly* phenomenon. Shakiness or fatigue with a flat reading often points to delayed signal: your blood sugar may have already dipped significantly, but your CGM hasn’t caught up. Always check fingerstick glucose when symptoms don’t match the display.
 
-#### #### Can dehydration or low blood pressure make my CGM show flat lines?
+#### Can dehydration or low blood pressure make my CGM show flat lines?
 
 Yes. Dehydration reduces interstitial fluid volume, and low BP (especially orthostatic hypotension) lowers peripheral perfusion — both slowing glucose diffusion into ISF and dulling CGM responsiveness. This contributes to the *CGM flat line myth elderly* patients encounter, particularly on hot days or after standing up quickly.
 
-#### #### Does Medicare cover CGM supplies for seniors — and do they address accuracy concerns in older adults?
+#### Does Medicare cover CGM supplies for seniors — and do they address accuracy concerns in older adults?
 
 Yes, Medicare Part B covers FDA-approved CGMs for people with diabetes who use insulin — and recent updates include coverage for certain non-insulin users with documented hypoglycemia risk. While Medicare doesn’t yet mandate age-specific accuracy reporting, clinicians are increasingly aware of interstitial lag in older tissue — so bring your questions to appointments.
 
-#### #### How often should I replace my CGM sensor if I’m over 65?
+#### How often should I replace my CGM sensor if I’m over 65?
 
 Follow manufacturer guidelines (usually every 10–14 days), but consider earlier replacement if you notice rising calibration failures, frequent “???” symbols, or repeated mismatches with fingerstick values — all potential signs your tissue’s changing response is outpacing the sensor’s ability to adapt.

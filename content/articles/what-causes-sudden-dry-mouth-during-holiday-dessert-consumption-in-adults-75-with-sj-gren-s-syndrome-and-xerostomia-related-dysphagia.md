@@ -70,22 +70,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Why do sugar-free holiday desserts make my dry mouth worse if I have Sjögren’s?
+#### Why do sugar-free holiday desserts make my dry mouth worse if I have Sjögren’s?
 
 Because many “sugar-free” treats use sugar alcohols like sorbitol and xylitol. These compounds pull moisture *out* of oral tissues—not in—and can irritate already inflamed salivary glands. They don’t raise blood sugar, but they *do* worsen xerostomia in up to 70% of older adults with autoimmune dry mouth.
 
-#### #### What are safe holiday dessert options for dry mouth holiday dessert sjogrens syndrome?
+#### What are safe holiday dessert options for dry mouth holiday dessert sjogrens syndrome?
 
 Opt for moist, low-alcohol, low-sugar-alcohol treats: baked apples with cinnamon, oatmeal-raisin cookies made with mashed banana, or chia seed pudding sweetened with a touch of honey (if approved by your care team). Always pair with a sip of room-temp herbal tea or oral moisturizing spray.
 
-#### #### Can alcohol in vanilla extract really affect my dry mouth holiday dessert sjogrens syndrome?
+#### Can alcohol in vanilla extract really affect my dry mouth holiday dessert sjogrens syndrome?
 
 Yes—pure vanilla extract is typically 35% alcohol. Even ¼ tsp adds ~0.5 mL of ethanol, which dehydrates oral mucosa on contact. Alcohol-free extracts or spice-infused alternatives are much gentler on sensitive tissues.
 
-#### #### Does healthy holiday eating for seniors mean giving up all sweets?
+#### Does healthy holiday eating for seniors mean giving up all sweets?
 
 Not at all. Healthy holiday eating for seniors means choosing *intentionally*: smaller portions, moisture-rich textures, minimal drying ingredients—and savoring each bite slowly. It’s about quality, not deprivation.
 
-#### #### Is dry mouth during holiday meals a sign my Sjögren’s is getting worse?
+#### Is dry mouth during holiday meals a sign my Sjögren’s is getting worse?
 
 Not necessarily—but it *is* a signal your current strategies may need fine-tuning. Fluctuations in dryness can be affected by stress, colder indoor air, medication timing, or seasonal dehydration. Track patterns for 2–3 weeks before discussing with your rheumatologist or dentist.

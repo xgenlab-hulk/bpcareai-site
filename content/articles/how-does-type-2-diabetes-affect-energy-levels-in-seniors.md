@@ -72,17 +72,17 @@ Feeling constantly drained doesn’t have to be part of life with diabetes—esp
 
 ### FAQ
 
-#### #### What causes diabetes fatigue in seniors—and is it different from regular tiredness?
+#### What causes diabetes fatigue in seniors—and is it different from regular tiredness?
 Diabetes fatigue in seniors stems from several interrelated mechanisms: chronic hyperglycemia impairing cellular glucose uptake, microvascular complications reducing oxygen delivery, low-grade inflammation disrupting neurotransmitter balance, and age-related declines in mitochondrial efficiency. Unlike ordinary tiredness—which improves with rest—diabetes-related fatigue persists despite adequate sleep and is often tied to blood sugar fluctuations, medication side effects, or untreated sleep apnea.
 
-#### #### Can low blood sugar cause diabetes fatigue in seniors—and how can I tell?
+#### Can low blood sugar cause diabetes fatigue in seniors—and how can I tell?
 Yes. Hypoglycemia (blood glucose <70 mg/dL) triggers adrenaline release, leading to shakiness, sweating, anxiety, and later, profound fatigue and brain fog. In seniors, symptoms may be subtle or “hypoglycemia unawareness” may develop—especially with long-standing diabetes or autonomic neuropathy. Checking blood sugar during episodes of sudden fatigue is essential. Keep fast-acting carbs (e.g., 4 oz juice, 3–4 glucose tablets) nearby if prone to lows.
 
-#### #### Is diabetes fatigue in seniors linked to high blood pressure?
+#### Is diabetes fatigue in seniors linked to high blood pressure?
 Indirectly, yes. Both type 2 diabetes and hypertension share underlying drivers—insulin resistance, endothelial dysfunction, and chronic inflammation. Poorly controlled BP (e.g., consistently ≥140/90 mm Hg) strains the heart and reduces cerebral perfusion, worsening fatigue. Additionally, some antihypertensives (like beta-blockers or certain diuretics) can contribute to low energy. Regular BP monitoring and collaborative management with your care team help untangle these connections.
 
-#### #### Does metformin cause fatigue in older adults?
+#### Does metformin cause fatigue in older adults?
 Metformin itself rarely causes fatigue—but it’s associated with vitamin B12 deficiency in up to 30% of long-term users, particularly seniors. Low B12 leads to megaloblastic anemia and neurological symptoms including fatigue, memory changes, and balance issues. Routine screening (every 1–2 years) and replacement—if deficient—can resolve these symptoms effectively.
 
-#### #### How long does it take to feel more energetic after improving blood sugar control?
+#### How long does it take to feel more energetic after improving blood sugar control?
 Most people notice modest improvements in mental clarity and afternoon energy within 2–4 weeks of stabilizing fasting and post-meal glucose. Greater gains in physical stamina and motivation typically emerge after 8–12 weeks of consistent lifestyle changes and optimized treatment—especially when combined with strength training and improved sleep. Patience and consistency matter most.

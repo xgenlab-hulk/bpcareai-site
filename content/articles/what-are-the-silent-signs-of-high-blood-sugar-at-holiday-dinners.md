@@ -103,17 +103,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What are the silent signs high blood sugar in older adults?
+#### What are the silent signs high blood sugar in older adults?
 The most common silent signs high blood sugar in adults over 50 include unexplained fatigue (especially after meals), increased thirst, frequent nighttime urination, mild brain fog or irritability, dry or itchy skin, and occasional blurry vision. These often develop gradually and are easily mistaken for normal aging or holiday stress.
 
-#### #### Can silent signs high blood sugar appear even if I don’t have diabetes?
+#### Can silent signs high blood sugar appear even if I don’t have diabetes?
 Yes—absolutely. Many people experience these subtle signals during the prediabetes stage, when blood sugar is elevated but not yet in the diabetic range. In fact, over 84 million U.S. adults have prediabetes—and 80% don’t know it. Holiday eating patterns can bring these early signs to light.
 
-#### #### Are fatigue and thirst really reliable silent signs high blood sugar?
+#### Are fatigue and thirst really reliable silent signs high blood sugar?
 Yes—when they occur *together* and *persist*, especially in context (e.g., fatigue 1 hour after dinner, paired with waking up thirsty at 3 a.m.). While individually they can have many causes, their combination—particularly in someone over 50 with risk factors—is a meaningful red flag worth exploring with simple testing.
 
-#### #### How does alcohol affect silent signs high blood sugar during the holidays?
+#### How does alcohol affect silent signs high blood sugar during the holidays?
 Alcohol can both raise and lower blood sugar unpredictably. Sugary cocktails and wine increase glucose quickly, while spirits on an empty stomach—or late at night—can cause reactive lows. Both scenarios may worsen fatigue, brain fog, or thirst. Moderation (1 drink/day for women, 2 for men), pairing with food, and staying hydrated help reduce risk.
 
-#### #### Is high blood sugar linked to high blood pressure during the holidays?
+#### Is high blood sugar linked to high blood pressure during the holidays?
 Yes—there’s a well-established link between insulin resistance and elevated arterial pressure. When cells resist insulin, the body often compensates by increasing sympathetic nervous system activity and retaining sodium, both of which raise BP. That’s why noticing silent signs high blood sugar—and managing them—supports heart health, too.

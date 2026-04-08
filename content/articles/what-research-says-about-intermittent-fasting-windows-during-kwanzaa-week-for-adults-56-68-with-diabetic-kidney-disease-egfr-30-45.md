@@ -82,22 +82,22 @@ Holidays are woven with meaning—family, faith, reflection, resilience. Managin
 
 ### FAQ
 
-#### #### Can intermittent fasting during Kwanzaa week worsen kidney function in adults with diabetic kidney disease?
+#### Can intermittent fasting during Kwanzaa week worsen kidney function in adults with diabetic kidney disease?
 
 For adults aged 56–68 with eGFR 30–45, short 14–16 hour overnight fasts *alone* rarely cause rapid eGFR drops—but they *can* amplify albuminuria and uric acid, especially without SGLT2 inhibitor use. The risk isn’t about sudden failure; it’s about cumulative strain. Consistent monitoring makes all the difference.
 
-#### #### Is intermittent fasting Kwanzaa diabetic kidney disease safe if I’m on an SGLT2 inhibitor?
+#### Is intermittent fasting Kwanzaa diabetic kidney disease safe if I’m on an SGLT2 inhibitor?
 
 Yes—evidence suggests SGLT2 inhibitors offer a protective buffer. In studies, older adults on these medications showed significantly smaller fluctuations in albuminuria and uric acid during 14-hour fasts compared to those not taking them. Still, discuss timing and hydration with your nephrologist.
 
-#### #### What’s the safest intermittent fasting window for someone with diabetic kidney disease during holidays?
+#### What’s the safest intermittent fasting window for someone with diabetic kidney disease during holidays?
 
 A 12–14 hour overnight window (e.g., 7 p.m. to 7 a.m.) is generally safest for adults 56–68 with eGFR 30–45—especially if not on SGLT2 inhibitors. Longer windows increase risk of dehydration, uric acid spikes, and post-fast hypoglycemia in those on insulin or sulfonylureas.
 
-#### #### Does fasting raise blood pressure in people with diabetic kidney disease?
+#### Does fasting raise blood pressure in people with diabetic kidney disease?
 
 Fasting itself doesn’t reliably raise BP—but skipping medications, becoming dehydrated, or eating high-sodium meals after breaking a fast *can*. Some people notice *lower* BP during fasting, then a rebound rise afterward. That’s why consistency in timing and hydration matters more than the fast itself.
 
-#### #### Should I stop intermittent fasting during Kwanzaa week if my eGFR is 38?
+#### Should I stop intermittent fasting during Kwanzaa week if my eGFR is 38?
 
 Not necessarily—but do pause and plan. An eGFR of 38 falls squarely in Stage 3b CKD. Talk with your care team about adjusting your fasting pattern (e.g., shortening the window or adding a small protein-rich snack before bed) and whether checking UACR or uric acid mid-week would offer helpful insight.

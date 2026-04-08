@@ -64,17 +64,17 @@ Managing diabetes during the holidays doesn’t require perfection—it calls fo
 
 ### FAQ
 
-#### #### Does guided visualization holiday hyperglycemia affect men the same way?
+#### Does guided visualization holiday hyperglycemia affect men the same way?
 Most RCTs to date focus on women 58–73 due to hormonal and autonomic aging patterns unique to this group. While men also benefit from mindfulness-based glucose support, sex-specific mechanisms (e.g., estrogen-cortisol interactions) mean findings aren’t directly generalizable.
 
-#### #### How long does it take for guided visualization holiday hyperglycemia benefits to show?
+#### How long does it take for guided visualization holiday hyperglycemia benefits to show?
 In clinical studies, measurable changes in salivary cortisol and fasting glucose typically emerged after 10–14 days of consistent practice—though many participants reported feeling calmer and sleeping better within 3–5 days.
 
-#### #### Can guided visualization holiday hyperglycemia replace my diabetes medication?
+#### Can guided visualization holiday hyperglycemia replace my diabetes medication?
 No. Guided visualization is a complementary strategy—not a substitute for prescribed treatment. It supports your body’s natural regulatory systems but does not alter insulin production or replace pharmacologic action.
 
-#### #### Is there a best time of day to do guided visualization for blood sugar support?
+#### Is there a best time of day to do guided visualization for blood sugar support?
 Morning sessions (within 30 minutes of waking) appear most effective for modulating diurnal cortisol rhythm—though evening practice also improves sleep quality, which indirectly supports glucose stability.
 
-#### #### What if I fall asleep during the visualization?
+#### What if I fall asleep during the visualization?
 That’s completely normal—and often a sign your nervous system is responding. Even partial engagement (listening for 2–3 minutes before drifting) still activates parasympathetic pathways. No need to “do it right”—just showing up matters.

@@ -76,17 +76,17 @@ The goal isn’t perfection—it’s presence. You can savor the warmth of share
 
 ### FAQ
 
-#### #### What are the most common hidden sodium holiday foods warning signs I should watch for?
+#### What are the most common hidden sodium holiday foods warning signs I should watch for?
 Common *hidden sodium holiday foods warning signs* include subtle ankle or finger swelling by evening, waking up with a headache or needing to urinate more than once at night, and noticing your blood pressure readings rising slightly after holiday meals—even if you avoided obvious salty items. These are often early, reversible indicators that sodium intake may be higher than your body currently prefers.
 
-#### #### Are low-fat dairy desserts really high in sodium? I thought they were healthier.
+#### Are low-fat dairy desserts really high in sodium? I thought they were healthier.
 Yes—many low-fat dairy desserts (like certain eggnog alternatives, frozen yogurt novelties, or “light” custards) use sodium-based stabilizers (e.g., sodium citrate, sodium phosphate) to improve texture and shelf life. A single ½-cup serving can contain 300–450 mg sodium—nearly one-third of the daily limit for adults 65+. Always check the Nutrition Facts label for “sodium” under “Total Carbohydrate.”
 
-#### #### Can herbal stuffing really be high in sodium—even if I didn’t add salt?
+#### Can herbal stuffing really be high in sodium—even if I didn’t add salt?
 Absolutely. Most homemade stuffing recipes call for sodium-rich ingredients: store-bought broth (up to 800 mg per cup), pre-seasoned stuffing cubes, soy sauce in vegetarian versions, or even dried herbs blended with salt (like garlic salt or onion salt). One cup of typical herb-seasoned stuffing averages 450–600 mg sodium—even without added table salt.
 
-#### #### Does drinking more water flush out excess sodium?
+#### Does drinking more water flush out excess sodium?
 Not exactly. While staying well-hydrated supports kidney function, simply drinking more water doesn’t “wash away” sodium. What helps is reducing intake *and* supporting natural excretion through potassium-rich foods (spinach, sweet potatoes, bananas) and consistent daily movement—which improves circulation and lymphatic drainage.
 
-#### #### I’m 72 and my kidneys seem fine—do I still need to worry about hidden sodium holiday foods warning signs?
+#### I’m 72 and my kidneys seem fine—do I still need to worry about hidden sodium holiday foods warning signs?
 Yes—even with preserved renal reserve, aging kidneys handle sodium less efficiently over time. After age 65, glomerular filtration rate (GFR) typically declines ~0.75–1 mL/min/year. That means a sodium load that felt manageable at 55 may start showing subtle effects—like nocturnal BP elevation or mild edema—at 72. It’s not about “failing” kidneys—it’s about honoring natural changes with thoughtful habits.

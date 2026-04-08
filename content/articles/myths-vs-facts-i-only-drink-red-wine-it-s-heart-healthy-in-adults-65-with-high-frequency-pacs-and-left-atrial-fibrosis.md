@@ -83,17 +83,17 @@ If you're unsure, talking to your doctor is always a good idea. And remember: th
 
 ### FAQ
 
-#### #### Is red wine really heart healthy for seniors with atrial fibrillation?
+#### Is red wine really heart healthy for seniors with atrial fibrillation?
 No — especially not for seniors with established AFib, frequent PACs, or left atrial fibrosis. Alcohol is a known trigger for arrhythmia recurrence, and even low-dose red wine increases ectopic burden in structurally remodeled atria. The *red wine heart healthy myth vs fact* is especially important here: resveratrol benefits seen in lab studies don’t translate to clinical protection in human atria with existing scarring.
 
-#### #### Does the red wine heart healthy myth vs fact apply to organic or low-alcohol red wine?
+#### Does the red wine heart healthy myth vs fact apply to organic or low-alcohol red wine?
 Yes — the *red wine heart healthy myth vs fact* holds true across all types. Organic labeling doesn’t change ethanol content or tannin profile. “Low-alcohol” wines (e.g., 8–9% ABV) still deliver enough ethanol to disrupt calcium cycling in vulnerable atrial tissue — and some contain higher concentrations of histamine and sulfites, which may worsen ectopy in sensitive individuals.
 
-#### #### Can red wine heart healthy claims be trusted for people over 65 with high blood pressure?
+#### Can red wine heart healthy claims be trusted for people over 65 with high blood pressure?
 Not without context. While moderate alcohol *may* slightly lower systolic BP in some younger adults, in adults 65+, alcohol consistently blunts nighttime BP dipping and increases morning surges — both linked to higher stroke risk. Combined with left atrial fibrosis, even modest red wine intake may worsen both rhythm *and* pressure control.
 
-#### #### Do PACs go away if I stop drinking red wine?
+#### Do PACs go away if I stop drinking red wine?
 Often — yes. In a 2023 Cleveland Clinic study, adults 65+ with >50 PACs/hour saw a median 62% reduction in burden within 10 days of complete alcohol abstinence, with greatest improvement in those with mild-to-moderate fibrosis (<15%). Structural changes take longer to reverse, but rhythm stability improves quickly.
 
-#### #### Is there any amount of red wine that’s safe for someone with left atrial fibrosis?
+#### Is there any amount of red wine that’s safe for someone with left atrial fibrosis?
 Current evidence suggests no reliably “safe” threshold. Individual sensitivity varies, but cardiac MRI-guided studies show measurable increases in PAC frequency even after 2.5 oz (75 mL) of red wine — less than half a standard serving. For those with confirmed fibrosis, abstinence is increasingly recommended as part of comprehensive *holiday heart syndrome prevention*.

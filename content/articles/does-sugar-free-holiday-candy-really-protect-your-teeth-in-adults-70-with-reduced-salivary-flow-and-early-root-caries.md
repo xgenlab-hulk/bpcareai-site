@@ -94,22 +94,22 @@ Remember: healthy holiday eating for seniors isn’t about perfection. It’s ab
 
 ### FAQ
 
-#### #### Is sugar-free holiday candy dental health seniors actually safe for people with dry mouth?
+#### Is sugar-free holiday candy dental health seniors actually safe for people with dry mouth?
 
 Yes—but with important caveats. Sugar-free options *eliminate sucrose*, which is essential. However, not all sugar alcohols are equal: xylitol and erythritol are non-acidogenic and may even support oral balance, while sorbitol and maltitol can still contribute to mild acid production in low-saliva environments. For those with significant dry mouth, xylitol-sweetened gum (chewed 3–5× daily) is the best-studied choice for supporting dental health.
 
-#### #### Can sugar-free holiday candy dental health seniors prevent root caries in older adults?
+#### Can sugar-free holiday candy dental health seniors prevent root caries in older adults?
 
 Not on its own—but it *can* be part of an effective prevention strategy. Root caries develops due to a mix of factors: reduced saliva, exposed dentin, bacterial activity, and frequent acid challenges. Sugar-free candy with xylitol helps reduce acid production and may lower harmful bacteria over time—but it must be combined with fluoride use, proper cleaning (especially along the gumline), and regular dental monitoring to meaningfully lower risk.
 
-#### #### What’s the safest sugar-free holiday candy for seniors with early root caries?
+#### What’s the safest sugar-free holiday candy for seniors with early root caries?
 
 Look for products where **xylitol is the sole or dominant sweetener**, with no added acids (like citric or malic acid) or fermentable fillers. Good options include pure xylitol mints (e.g., Spry or Xyla brands), or gum with ≥1 g xylitol per piece. Avoid chocolate-style bars with isomalt/maltitol blends, caramel-like textures (often high in hydrogenated starch), and anything labeled “naturally sweetened” without clear disclosure—“natural” doesn’t mean non-acidogenic.
 
-#### #### Does chewing sugar-free gum help seniors with low salivary flow?
+#### Does chewing sugar-free gum help seniors with low salivary flow?
 
 Yes—especially if it contains xylitol. Clinical studies show that chewing xylitol gum for 5+ minutes increases salivary flow by ~2–3× in older adults with mild-to-moderate xerostomia. This boost delivers calcium, phosphate, and bicarbonate to aid remineralization—and helps wash away food particles that might otherwise linger on exposed roots.
 
-#### #### Are there any risks to eating too much sugar-free holiday candy dental health seniors?
+#### Are there any risks to eating too much sugar-free holiday candy dental health seniors?
 
 Generally, no serious dental risks—but gastrointestinal discomfort (bloating, gas, loose stools) can occur with excessive intake of sugar alcohols, especially sorbitol and maltitol. Xylitol is better tolerated (up to ~15 g/day for most), but sudden large doses may cause temporary digestive upset. Moderation remains wise—particularly for seniors with sensitive digestion or irritable bowel symptoms.

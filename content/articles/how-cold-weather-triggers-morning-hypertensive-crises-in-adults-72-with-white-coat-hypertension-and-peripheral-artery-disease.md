@@ -76,22 +76,22 @@ Heart health in winter isn’t about fear—it’s about awareness, preparation,
 
 ### FAQ
 
-#### #### Does cold weather morning hypertension elderly affect people with normal office BP?
+#### Does cold weather morning hypertension elderly affect people with normal office BP?
 
 Yes—it can. Many with white-coat or masked hypertension show significant morning surges only under cold stress or ambulatory monitoring. Home tracking is key.
 
-#### #### How cold does it need to be to trigger cold weather morning hypertension elderly?
+#### How cold does it need to be to trigger cold weather morning hypertension elderly?
 
 Risks rise noticeably below 10°C (50°F), and escalate sharply below 4°C (39°F)—especially with wind chill or rapid indoor-to-outdoor transitions.
 
-#### #### Can peripheral artery disease make cold weather morning hypertension elderly worse?
+#### Can peripheral artery disease make cold weather morning hypertension elderly worse?
 
 Absolutely. PAD reflects systemic arterial stiffness and endothelial dysfunction. Cold worsens vasoconstriction in already compromised vessels, amplifying both BP surges and ischemic symptoms.
 
-#### #### Is morning hypertension in winter reversible with lifestyle changes?
+#### Is morning hypertension in winter reversible with lifestyle changes?
 
 Often, yes—particularly with consistent indoor warmth, paced morning routines, proper hydration, and verified medication timing. Improvement is commonly seen within 2–3 weeks of adjustments.
 
-#### #### What’s the safest time of day to go outside in winter if I have PAD and high morning BP?
+#### What’s the safest time of day to go outside in winter if I have PAD and high morning BP?
 
 Late morning to early afternoon (11 a.m.–2 p.m.) tends to be safest—when outdoor temps peak and your BP has usually stabilized post-waking. Always dress warmly, move gently, and avoid exertion on icy or uneven surfaces.

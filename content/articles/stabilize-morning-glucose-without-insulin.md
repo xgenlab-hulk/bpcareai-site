@@ -95,22 +95,22 @@ Stabilizing morning glucose without insulin isn’t about perfection—it’s ab
 
 ### FAQ
 
-#### #### Can I really stabilize morning glucose without insulin—and is it safe for someone my age?
+#### Can I really stabilize morning glucose without insulin—and is it safe for someone my age?
 
 Yes—multiple clinical trials confirm that circadian-optimized lifestyle changes safely reduce fasting glucose by 12–20 mg/dL in adults 55–63, without hypoglycemia risk. These approaches support endogenous insulin function rather than replacing it.
 
-#### #### What’s the best bedtime snack to stabilize morning glucose without insulin?
+#### What’s the best bedtime snack to stabilize morning glucose without insulin?
 
 25–30 g of casein protein (e.g., 1 cup low-fat cottage cheese or a casein shake) consumed 30–45 minutes before bed. Avoid added sugars or high-glycemic carbs. Pair with a small handful of walnuts for healthy fat to further blunt glucose excursions.
 
-#### #### How long does it take to see results when trying to stabilize morning glucose without insulin?
+#### How long does it take to see results when trying to stabilize morning glucose without insulin?
 
 Most people notice measurable improvements in 3–5 days—especially with consistent blue-light restriction and bedtime casein. Full circadian realignment typically takes 10–14 days of adherence. Track both glucose *and* subjective energy/sleep quality.
 
-#### #### Does magnesium help stabilize morning glucose without insulin?
+#### Does magnesium help stabilize morning glucose without insulin?
 
 Yes—particularly magnesium glycinate. It improves insulin receptor sensitivity and supports parasympathetic nervous system activity. Doses of 200–300 mg at bedtime have been shown in older adults to lower next-morning glucose by ~8–12 mg/dL over 2 weeks.
 
-#### #### Why do my glucose numbers spike during holidays—even when I’m careful?
+#### Why do my glucose numbers spike during holidays—even when I’m careful?
 
 Holiday-related circadian disruption—late bedtimes, screen use, irregular meals, alcohol, and indoor heating—collectively impair melatonin signaling, core temperature rhythm, and hepatic insulin sensitivity. These factors amplify the dawn phenomenon more than diet alone. That’s why timing-focused strategies are especially effective during festive seasons.

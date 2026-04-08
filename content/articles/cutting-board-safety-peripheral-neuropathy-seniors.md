@@ -90,22 +90,22 @@ Holiday meals are about connection—not complication. With a little planning an
 
 ### FAQ
 
-#### #### Can using the same cutting board for meat and veggies increase infection risk for seniors with peripheral neuropathy?
+#### Can using the same cutting board for meat and veggies increase infection risk for seniors with peripheral neuropathy?
 
 Yes—especially because reduced sensation may delay noticing small cuts or abrasions. Raw meat juices contain harmful bacteria (*Campylobacter*, *Salmonella*) that can transfer to produce and enter the body through unnoticed breaks in the skin. Color-coded boards and strict separation lower this risk significantly.
 
-#### #### What’s the best cutting board material for seniors with peripheral neuropathy and reduced grip strength?
+#### What’s the best cutting board material for seniors with peripheral neuropathy and reduced grip strength?
 
 Non-slip, medium-density polypropylene (plastic) boards are widely recommended—they’re lightweight, dishwasher-safe, and available in clear color-coded sets. Avoid glass (too slippery), untreated wood (harder to sanitize fully), and ultra-thin boards (they slide easily). Look for models with rubberized feet or a grippy base.
 
-#### #### How often should seniors with peripheral neuropathy replace their cutting boards?
+#### How often should seniors with peripheral neuropathy replace their cutting boards?
 
 Replace plastic or acrylic boards every 12–18 months—or sooner if you notice deep knife scars, cracks, or persistent odors after cleaning. Wooden boards can last longer (3–5 years) *if* properly oiled and dried upright after each use—but require more consistent care. When in doubt, replace.
 
-#### #### Does peripheral neuropathy affect how well I can clean a cutting board?
+#### Does peripheral neuropathy affect how well I can clean a cutting board?
 
 Indirectly, yes. Neuropathy-related hand weakness, tremor, or reduced dexterity can make thorough scrubbing or proper drying more difficult—increasing chances of residual moisture and bacteria. Using a long-handled brush, a wall-mounted drying rack, or a bleach soak (for appropriate materials) helps compensate.
 
-#### #### Are antibacterial sprays safe and effective for cutting board cleaning in older adults?
+#### Are antibacterial sprays safe and effective for cutting board cleaning in older adults?
 
 Most over-the-counter “antibacterial” sprays aren’t necessary—and some contain alcohol or fragrances that can irritate sensitive skin or leave residues. Stick to proven, food-safe methods: hot soapy water, diluted bleach (for plastic), or vinegar-water solutions. Always rinse thoroughly and air-dry completely.

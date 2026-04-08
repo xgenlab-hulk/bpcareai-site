@@ -112,17 +112,17 @@ Blood pressure changes with age — and that’s completely normal. What’s *no
 
 ### FAQ
 
-#### #### What does "missed isolated systolic hypertension in women" mean?
+#### What does "missed isolated systolic hypertension in women" mean?
 It refers to a situation where high systolic blood pressure (≥140 mm Hg) goes undiagnosed because the diastolic number appears normal (<90 mm Hg), and standard measurement methods fail to detect it — especially in older women with stiffened arteries.
 
-#### #### Why is missed isolated systolic hypertension women more common in older women than men?
+#### Why is missed isolated systolic hypertension women more common in older women than men?
 Women experience accelerated arterial stiffening after menopause due to declining estrogen, differences in collagen/elastin ratios, and longer average lifespans — all contributing to higher rates of ISH and greater likelihood of it being overlooked.
 
-#### #### Can home blood pressure monitors detect missed isolated systolic hypertension women?
+#### Can home blood pressure monitors detect missed isolated systolic hypertension women?
 Some can — but many standard oscillometric devices underestimate systolic pressure in people with stiff arteries. For best accuracy, choose an upper-arm device validated for use in older adults and confirm readings with manual measurement when possible.
 
-#### #### What is a dangerous pulse pressure for women over 70?
+#### What is a dangerous pulse pressure for women over 70?
 A pulse pressure consistently above 65 mm Hg raises concern — and values over 75 mm Hg are linked to significantly increased cardiovascular risk. A reading like 168/72 (pulse pressure = 96 mm Hg) warrants closer evaluation.
 
-#### #### Does isolated systolic hypertension cause symptoms?
+#### Does isolated systolic hypertension cause symptoms?
 Often, no — which is why it’s sometimes called the “silent strain” on your heart and vessels. However, some people notice subtle signs like pulsing in the neck or head, fatigue with activity, or occasional dizziness — especially when standing quickly.

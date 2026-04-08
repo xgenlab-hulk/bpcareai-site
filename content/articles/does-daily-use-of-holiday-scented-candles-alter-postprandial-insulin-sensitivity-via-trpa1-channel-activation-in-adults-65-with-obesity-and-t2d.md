@@ -89,22 +89,22 @@ The science linking holiday-scented candles to insulin sensitivity remains intri
 
 ### FAQ
 
-#### #### Can scented candles lower insulin sensitivity in people with type 2 diabetes?
+#### Can scented candles lower insulin sensitivity in people with type 2 diabetes?
 
 No strong evidence shows that typical use of scented candles lowers insulin sensitivity in people with type 2 diabetes. While certain fragrance compounds (e.g., cinnamaldehyde) can activate TRP channels in lab settings, human exposure levels from candles are far too low to produce clinically relevant metabolic effects.
 
-#### #### Do holiday candles affect blood sugar in older adults?
+#### Do holiday candles affect blood sugar in older adults?
 
 There is no documented direct effect of holiday-scented candles on blood sugar in older adults. Indirect effects—such as airway irritation leading to mild stress responses—are possible in sensitive individuals but are uncommon and not linked to sustained glucose changes.
 
-#### #### Is there a link between scented candles insulin sensitivity and inflammation?
+#### Is there a link between scented candles insulin sensitivity and inflammation?
 
 Some preclinical studies show that high concentrations of certain fragrance compounds can trigger transient inflammatory signaling (e.g., via IRF3) in fat tissue—but this has not been demonstrated in humans using normal candle exposure. Inflammation related to T2D is far more strongly influenced by diet, activity, and genetics.
 
-#### #### Are soy candles safer for people with diabetes than paraffin candles?
+#### Are soy candles safer for people with diabetes than paraffin candles?
 
 Soy and other natural-wax candles generally produce less soot and fewer combustion byproducts than paraffin candles—making them a gentler choice for indoor air quality. While this doesn’t directly affect *scented candles insulin sensitivity*, cleaner air supports overall comfort and respiratory health, especially for older adults.
 
-#### #### Should I stop using scented candles if I have high blood pressure?
+#### Should I stop using scented candles if I have high blood pressure?
 
 Scented candles aren’t known to affect blood pressure directly. However, if strong fragrances trigger headaches, anxiety, or shortness of breath, those stress responses *could* temporarily raise arterial pressure. If you notice such reactions, switching to unscented or lightly scented options is a kind and simple adjustment.

@@ -83,22 +83,22 @@ Your body has spent decades adapting, healing, and supporting you—and it conti
 
 ### FAQ
 
-#### #### Does holiday sleep disruption really raise fasting glucose in older men?
+#### Does holiday sleep disruption really raise fasting glucose in older men?
 
 Yes—studies show that even 2–3 nights of fragmented sleep (especially loss of deep N3 stages) can elevate morning fasting glucose by 15–25 mg/dL in men over 70. This is linked to altered growth hormone pulses and increased overnight liver glucose production—not permanent insulin resistance.
 
-#### #### How does holiday sleep fragmentation fasting glucose men differ from regular sleep loss?
+#### How does holiday sleep fragmentation fasting glucose men differ from regular sleep loss?
 
 Holiday-related disruption often combines timing shifts (late nights + early mornings), emotional arousal, and dietary changes—all of which amplify the dawn phenomenon. In contrast, typical sleep loss may not involve the same hormonal “triple effect” on GH, cortisol, and insulin sensitivity.
 
-#### #### Can improving sleep during the holidays lower my fasting glucose quickly?
+#### Can improving sleep during the holidays lower my fasting glucose quickly?
 
 Often, yes. Many men see fasting glucose return to baseline within 2–3 nights of restoring consistent, uninterrupted sleep—especially when paired with modest evening nutrition and reduced screen time before bed.
 
-#### #### Is midnight Mass or late-night gift wrapping harmful for blood sugar?
+#### Is midnight Mass or late-night gift wrapping harmful for blood sugar?
 
 Not inherently—but if those activities lead to repeated awakenings or <6 hours of *unbroken* sleep, they may contribute to temporary glucose elevation. The key isn’t avoiding tradition, but planning rest around it (e.g., napping earlier, adjusting meal timing).
 
-#### #### Should I stop checking fasting glucose during the holidays?
+#### Should I stop checking fasting glucose during the holidays?
 
 No—checking *can* be helpful, but interpret results with context. One high number after a late night isn’t cause for concern. Look instead for trends across several days—and always pair glucose data with notes on sleep, activity, and meals.

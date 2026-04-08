@@ -90,22 +90,22 @@ Discovering a change in how food tastes can feel unsettling—but it’s also an
 
 ### FAQ
 
-#### #### Why do older adults with diabetes lose their ability to taste sweetness specifically?
+#### Why do older adults with diabetes lose their ability to taste sweetness specifically?
 
 Sweet taste relies heavily on zinc-dependent signaling in taste receptor cells and the facial nerve—both vulnerable to oxidative stress and microvascular changes in long-standing diabetes. Unlike bitter or salty receptors, sweet transduction requires precise zinc transporter activity (e.g., ZIP2), which declines early in diabetic autonomic neuropathy—even before cardiovascular symptoms appear.
 
-#### #### Is loss of sweet taste diabetic autonomic neuropathy reversible?
+#### Is loss of sweet taste diabetic autonomic neuropathy reversible?
 
 In early stages—before structural nerve loss occurs—yes, partially. Interventions like optimized glucose stability, zinc nutrition, and regular aerobic activity have shown improvements in gustatory thresholds and HRV in clinical trials. Recovery is most likely when detected before abnormal Valsalva ratio or orthostatic hypotension develops.
 
-#### #### Can loss of sweet taste diabetic autonomic neuropathy predict future heart problems?
+#### Can loss of sweet taste diabetic autonomic neuropathy predict future heart problems?
 
 Yes. Research shows adults with confirmed sweet taste loss have a 2.7× higher 5-year risk of developing silent myocardial ischemia and a 1.9× increased risk of incident heart failure—likely due to shared small-fiber degeneration affecting both cardiac and gustatory innervation.
 
-#### #### Does losing sweet taste mean my diabetes is getting worse?
+#### Does losing sweet taste mean my diabetes is getting worse?
 
 Not necessarily. Many people experience this change despite stable HbA1c and excellent self-management. It reflects cumulative neural exposure to past metabolic stress—not current control. Think of it as your body’s quiet way of signaling that supportive care—especially for nerves and circulation—deserves renewed attention.
 
-#### #### Are there medications that cause loss of sweet taste in diabetics?
+#### Are there medications that cause loss of sweet taste in diabetics?
 
 Some commonly used drugs—like ACE inhibitors (e.g., lisinopril), certain antibiotics (e.g., metronidazole), and long-term PPIs—can alter taste perception. However, *selective* sweet loss in the context of diabetes is more likely linked to underlying autonomic neuropathy than medication alone. Always discuss new taste changes with your provider before adjusting prescriptions.

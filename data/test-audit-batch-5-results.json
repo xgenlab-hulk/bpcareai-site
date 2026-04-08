@@ -1,0 +1,322 @@
+{
+  "batch_id": 5,
+  "total_checked": 20,
+  "articles": [
+    {
+      "slug": "the-truth-about-senior-friendly-holiday-meal-kits-why-92-fail-to-meet-ada-recommended-sodium-fiber-targets-for-hypertensive-adults-75",
+      "primaryKeyword": "senior-friendly meal kits sodium fiber analysis",
+      "score": 70,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 20,
+        "length": 10,
+        "natural": 10,
+        "intent": 5,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": ["generic_medical_topic", "length_too_long", "unclear_intent"]
+    },
+    {
+      "slug": "the-truth-about-low-sodium-frozen-dinners-marketed-to-seniors-why-78-still-exceed-ada-sodium-targets-for-stage-1-hypertension",
+      "primaryKeyword": "low-sodium frozen dinner sodium trap",
+      "score": 75,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 15,
+        "natural": 10,
+        "intent": 5,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier", "unclear_intent"]
+    },
+    {
+      "slug": "tai-chi-vs-walking-for-hfpef-seniors",
+      "primaryKeyword": "tai chi vs walking for HFpEF seniors",
+      "score": 63,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 20,
+        "length": 15,
+        "natural": 5,
+        "intent": 0,
+        "no_jargon": 3
+      },
+      "needs_optimization": true,
+      "issues": ["generic_medical_topic", "technical_jargon_HFpEF", "unclear_intent", "unnatural_phrasing"]
+    },
+    {
+      "slug": "statin-side-effects-heart-health-seniors",
+      "primaryKeyword": "statin side effects heart health seniors",
+      "score": 85,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 20,
+        "length": 15,
+        "natural": 5,
+        "intent": 5,
+        "no_jargon": 0
+      },
+      "needs_optimization": false,
+      "issues": []
+    },
+    {
+      "slug": "simple-steps-to-modify-grandma-s-pie-recipe-for-diabetic-retinopathy-risk-reduction-without-sacrificing-flavor-or-texture",
+      "primaryKeyword": "grandma pie recipe diabetic retinopathy",
+      "score": 63,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 15,
+        "natural": 5,
+        "intent": 0,
+        "no_jargon": 3
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier", "unclear_intent", "technical_jargon_retinopathy", "unnatural_phrasing"]
+    },
+    {
+      "slug": "seniors-living-alone-holiday-party-preparedness",
+      "primaryKeyword": "seniors living alone holiday party preparedness",
+      "score": 55,
+      "breakdown": {
+        "medical_topic": 0,
+        "audience": 20,
+        "length": 10,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": ["no_medical_topic", "length_too_long"]
+    },
+    {
+      "slug": "preserve-muscle-mass-holiday-meals",
+      "primaryKeyword": "preserve muscle mass holiday meals",
+      "score": 60,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 0,
+        "length": 15,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": ["generic_medical_topic", "no_audience_identifier"]
+    },
+    {
+      "slug": "natural-support-for-coronary-microvascular-disease",
+      "primaryKeyword": "natural support for coronary microvascular disease",
+      "score": 48,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 10,
+        "natural": 5,
+        "intent": 0,
+        "no_jargon": 3
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier", "length_too_long", "unclear_intent", "technical_jargon_microvascular", "unnatural_phrasing"]
+    },
+    {
+      "slug": "low-dose-lithium-beta-cell-function",
+      "primaryKeyword": "diabetes management seniors",
+      "score": 95,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 20,
+        "length": 15,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 0
+      },
+      "needs_optimization": false,
+      "issues": []
+    },
+    {
+      "slug": "intermittent-fasting-before-cardiac-catheterization",
+      "primaryKeyword": "intermittent fasting before cardiac catheterization",
+      "score": 48,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 10,
+        "natural": 5,
+        "intent": 0,
+        "no_jargon": 3
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier", "length_too_long", "unclear_intent", "technical_jargon_catheterization", "unnatural_phrasing"]
+    },
+    {
+      "slug": "how-seasonal-air-pollution-peaks-alter-st-segment-variability-and-why-that-increases-acute-coronary-syndrome-risk-in-adults-59-with-stable-angina",
+      "primaryKeyword": "air pollution and angina stability seasonal",
+      "score": 63,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 10,
+        "natural": 5,
+        "intent": 5,
+        "no_jargon": 3
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier", "length_too_long", "technical_jargon_angina", "unnatural_phrasing"]
+    },
+    {
+      "slug": "how-chronic-constipation-elevates-24-hour-mean-arterial-pressure-via-gut-derived-trimethylamine-n-oxide-especially-in-adults-70-with-low-fiber-diets",
+      "primaryKeyword": "constipation tmao mean arterial pressure",
+      "score": 25,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 0,
+        "length": 10,
+        "natural": 0,
+        "intent": 0,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["generic_medical_topic", "no_audience_identifier", "length_too_long", "technical_jargon_tmao", "unnatural_phrasing", "unclear_intent"]
+    },
+    {
+      "slug": "home-ecg-patch-interpretation-for-seniors",
+      "primaryKeyword": "home ecg patch interpretation for seniors",
+      "score": 85,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 20,
+        "length": 15,
+        "natural": 5,
+        "intent": 5,
+        "no_jargon": 0
+      },
+      "needs_optimization": false,
+      "issues": []
+    },
+    {
+      "slug": "home-bp-cuff-with-ecg-for-afib-seniors",
+      "primaryKeyword": "home bp cuff with ecg for afib seniors",
+      "score": 73,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 20,
+        "length": 15,
+        "natural": 5,
+        "intent": 0,
+        "no_jargon": 3
+      },
+      "needs_optimization": true,
+      "issues": ["unclear_intent", "technical_jargon_afib", "unnatural_phrasing"]
+    },
+    {
+      "slug": "hidden-sodium-holiday-side-dishes",
+      "primaryKeyword": "hidden sodium holiday side dishes",
+      "score": 70,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 15,
+        "natural": 10,
+        "intent": 5,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier"]
+    },
+    {
+      "slug": "heavy-legs-sitting-heart-strain-seniors",
+      "primaryKeyword": "heavy legs sitting heart strain seniors",
+      "score": 75,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 20,
+        "length": 15,
+        "natural": 10,
+        "intent": 5,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": ["generic_medical_topic"]
+    },
+    {
+      "slug": "heart-healthy-granola-bars-truth-for-seniors",
+      "primaryKeyword": "heart-healthy granola bars truth for seniors",
+      "score": 80,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 20,
+        "length": 10,
+        "natural": 5,
+        "intent": 5,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["length_too_long"]
+    },
+    {
+      "slug": "cold-face-immersion-baroreflex-seniors",
+      "primaryKeyword": "cold face immersion baroreflex seniors",
+      "score": 53,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 20,
+        "length": 15,
+        "natural": 0,
+        "intent": 0,
+        "no_jargon": 3
+      },
+      "needs_optimization": true,
+      "issues": ["generic_medical_topic", "technical_jargon_baroreflex", "unnatural_phrasing", "unclear_intent"]
+    },
+    {
+      "slug": "aromatase-inhibitors-diabetes-interaction-seniors",
+      "primaryKeyword": "aromatase-inhibitors diabetes interaction seniors",
+      "score": 63,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 20,
+        "length": 10,
+        "natural": 0,
+        "intent": 0,
+        "no_jargon": 3
+      },
+      "needs_optimization": true,
+      "issues": ["length_too_long", "technical_jargon_aromatase_inhibitors", "unnatural_phrasing", "unclear_intent"]
+    },
+    {
+      "slug": "ankle-circles-vs-calf-squeezes-pulse-pressure",
+      "primaryKeyword": "ankle circles vs calf squeezes pulse pressure",
+      "score": 70,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 10,
+        "natural": 10,
+        "intent": 5,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier", "length_too_long"]
+    }
+  ],
+  "summary": {
+    "total": 20,
+    "excellent_85plus": 3,
+    "good_70to84": 5,
+    "fair_50to69": 9,
+    "poor_below50": 3,
+    "needs_optimization": 17,
+    "common_issues": {
+      "no_audience_identifier": 11,
+      "length_issues": 15,
+      "technical_jargon": 10,
+      "generic_medical_topic": 5,
+      "unclear_intent": 10,
+      "unnatural_phrasing": 9
+    }
+  }
+}

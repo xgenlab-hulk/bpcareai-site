@@ -57,17 +57,17 @@ If you're unsure, talking to your doctor is always a good idea. And yes—*inter
 
 ### FAQ  
 
-#### #### Does intermittent fasting during Christmas increase cancer risk in breast cancer survivors?  
+#### Does intermittent fasting during Christmas increase cancer risk in breast cancer survivors?  
 No current evidence shows that short-term, moderate intermittent fasting (e.g., 12-hour overnight fasts for up to 7 days) increases recurrence risk in adults with early-stage, hormone-receptor-positive breast cancer. In fact, many studies suggest metabolic stability—not extreme restriction—is the goal.
 
-#### #### Can intermittent fasting holiday igf-1 breast cancer affect my aromatase inhibitor?  
+#### Can intermittent fasting holiday igf-1 breast cancer affect my aromatase inhibitor?  
 IGF-1 levels may dip slightly during brief fasting periods, but research hasn’t shown clinically meaningful interference with aromatase inhibitor effectiveness. What *does* impact drug absorption is consistency—taking your medication at the same time each day, with or without food as directed.
 
-#### #### Is it safe to try intermittent fasting during Hanukkah if I’m 62 and on letrozole?  
+#### Is it safe to try intermittent fasting during Hanukkah if I’m 62 and on letrozole?  
 Yes—for most people—when done gently and thoughtfully. Focus on maintaining hydration, protein intake, and energy. If you feel lightheaded, unusually tired, or notice appetite changes, pause and reconnect with your oncology team.
 
-#### #### How does holiday eating affect blood pressure in seniors with breast cancer?  
+#### How does holiday eating affect blood pressure in seniors with breast cancer?  
 Richer, saltier holiday meals—combined with less movement and disrupted sleep—can temporarily raise systolic BP by 5–15 mm Hg in adults over 55. Staying active (even short walks), limiting added sodium, and prioritizing rest helps maintain healthy arterial pressure.
 
-#### #### Do I need to get my IGF-1 checked every holiday season?  
+#### Do I need to get my IGF-1 checked every holiday season?  
 Not unless recommended by your care team. IGF-1 testing is not routine surveillance for breast cancer survivors. It’s most helpful when used alongside other labs and symptoms to assess overall metabolic and nutritional health.

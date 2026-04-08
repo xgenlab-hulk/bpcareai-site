@@ -59,22 +59,22 @@ If you're unsure, talking to your doctor is always a good idea. And remember: ho
 
 ### FAQ
 
-#### #### What are the best holiday snacks for someone with autonomic neuropathy and postprandial hypotension?
+#### What are the best holiday snacks for someone with autonomic neuropathy and postprandial hypotension?
 
 The best options combine slow-digesting carbs, gentle sodium, and vagal-supportive compounds—like roasted chestnuts with pomegranate and rosemary salt, or baked pear with spiced ricotta and pistachios. These pairings help stabilize both blood pressure and glucose without heavy reliance on medication or strict restriction.
 
-#### #### Can holiday snacks postprandial hypotension autonomic neuropathy be prevented with diet alone?
+#### Can holiday snacks postprandial hypotension autonomic neuropathy be prevented with diet alone?
 
 Diet plays a major supportive role—but isn’t a standalone cure. Evidence shows well-paired snacks reduce the *frequency and severity* of postprandial BP drops by ~25–40% in clinical observation, especially when combined with seated digestion and paced eating. Always work with your care team to address underlying contributors.
 
-#### #### How do I know if my holiday snacks are triggering postprandial hypotension?
+#### How do I know if my holiday snacks are triggering postprandial hypotension?
 
 Check your blood pressure before eating and again at 30 and 60 minutes after. A drop of ≥20 mm Hg systolic (e.g., from 130 to 110) suggests postprandial hypotension. Pair this with glucose checks—if levels rise >40 mg/dL, consider adjusting carb type, portion, or pairing.
 
-#### #### Are there holiday foods I should avoid entirely with autonomic neuropathy?
+#### Are there holiday foods I should avoid entirely with autonomic neuropathy?
 
 Not “entirely”—but be mindful of large portions of refined carbs (white rolls, sugary desserts), alcohol on an empty stomach, or very low-sodium fare (unsalted popcorn, plain fruit platters) without balancing elements. Moderation and pairing matter more than elimination.
 
-#### #### Does holiday diabetes management include blood pressure monitoring?
+#### Does holiday diabetes management include blood pressure monitoring?
 
 Yes—absolutely. For adults over 50 with diabetic autonomic neuropathy, tracking both glucose *and* BP around meals offers a fuller picture of how your body responds to holiday foods. It’s a simple, powerful part of holiday diabetes management.

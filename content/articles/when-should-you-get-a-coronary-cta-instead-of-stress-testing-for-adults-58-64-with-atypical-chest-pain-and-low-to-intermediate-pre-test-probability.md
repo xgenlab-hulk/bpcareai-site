@@ -59,22 +59,22 @@ Heart disease is highly treatable—especially when caught early. Advances like 
 
 ### FAQ
 
-#### #### Is coronary CTA better than a stress test for atypical chest pain?
+#### Is coronary CTA better than a stress test for atypical chest pain?
 
 Yes—especially for adults 58–64 with low-to-intermediate risk. CCTA identifies early plaque buildup that stress tests often miss, offering clearer answers faster and with less radiation.
 
-#### #### What does “atypical chest pain” mean in the context of coronary cta vs stress test atypical chest pain?
+#### What does “atypical chest pain” mean in the context of coronary cta vs stress test atypical chest pain?
 
 It refers to discomfort that doesn’t follow classic angina patterns—e.g., burning or stabbing pain, pain triggered by breathing or posture, or symptoms lasting hours rather than minutes. It’s common in women and younger seniors and warrants careful evaluation.
 
-#### #### Can I skip stress testing entirely and go straight to coronary CTA?
+#### Can I skip stress testing entirely and go straight to coronary CTA?
 
 Often yes—if your doctor determines your pre-test probability is low-to-intermediate. Guidelines support CCTA as the preferred first-line test in this scenario, particularly when symptoms are atypical.
 
-#### #### Does coronary CTA require dye or radiation?
+#### Does coronary CTA require dye or radiation?
 
 Yes, it uses iodinated contrast dye (given IV) and low-dose X-rays. But modern protocols keep radiation very low (1–3 mSv), comparable to a mammogram—and much less than many nuclear stress tests.
 
-#### #### How accurate is coronary CTA for detecting heart disease?
+#### How accurate is coronary CTA for detecting heart disease?
 
 In clinical trials, CCTA has >95% sensitivity and >85% specificity for detecting significant coronary stenosis (>50% narrowing)—and it’s even better at spotting early, non-obstructive plaque that may predict future events.

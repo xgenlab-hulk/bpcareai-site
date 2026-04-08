@@ -82,22 +82,22 @@ Choosing between CGM with automation and flash with manual dosing isn’t about 
 
 ### FAQ
 
-#### #### Is CGM vs flash glucose monitoring older adults really different in terms of preventing nighttime lows?
+#### Is CGM vs flash glucose monitoring older adults really different in terms of preventing nighttime lows?
 
 Yes—especially for those with mild cognitive impairment. Studies show CGM systems with automated insulin suspension reduce time spent <70 mg/dL overnight by nearly 50%, while flash systems rely heavily on user scanning behavior, which declines with age and cognitive change. Without proactive alerts or insulin adjustment, flash cannot prevent silent nocturnal hypoglycemia.
 
-#### #### What’s the best glucose monitoring option for seniors with memory issues?
+#### What’s the best glucose monitoring option for seniors with memory issues?
 
 For adults over 71 with mild cognitive impairment, CGM paired with automated insulin delivery tends to offer greater safety and lower cognitive load—no scanning required, fewer dose decisions, and built-in low-glucose suspend features. However, individual factors like vision, dexterity, and living situation matter. A shared decision-making visit with a geriatric endocrinologist is strongly recommended.
 
-#### #### How does CGM vs flash glucose monitoring older adults affect daily independence?
+#### How does CGM vs flash glucose monitoring older adults affect daily independence?
 
 CGM with automation often supports *greater* independence—because it reduces reliance on timely scanning, mental calculation, or remembering multiple steps. Flash systems require consistent engagement (scan every 8 hours, interpret trends, adjust doses), which can become burdensome as energy or focus wanes. Real-world data shows higher long-term adherence with CGM in this age group.
 
-#### #### Do insurance plans cover CGM for older adults with hypoglycemia?
+#### Do insurance plans cover CGM for older adults with hypoglycemia?
 
 Medicare Part B covers therapeutic CGM for people with diabetes who use insulin—regardless of age—if prescribed for hypoglycemia prevention or management. Coverage for flash systems is more limited and typically requires additional documentation of frequent testing needs. Always confirm coverage with your plan and ask your provider about prior authorization requirements.
 
-#### #### Can I switch from flash to CGM later if my needs change?
+#### Can I switch from flash to CGM later if my needs change?
 
 Absolutely. Many older adults start with flash for familiarity and transition to CGM as cognitive demands increase or nocturnal hypoglycemia recurs. Training and support are available through certified diabetes care and education specialists (CDCES), often covered by Medicare and most private insurers.

@@ -62,22 +62,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can herbal supplements blood pressure interactions cause stroke or heart attack?
+#### Can herbal supplements blood pressure interactions cause stroke or heart attack?
 
 Yes—indirectly. Severe fluctuations in BP (e.g., sudden drops from garlic + ACE inhibitor, or spikes from licorice) increase cardiovascular strain. While no herb directly causes stroke, uncontrolled or erratic BP significantly raises long-term risk.
 
-#### #### Which herbal supplements blood pressure interactions are most common with lisinopril?
+#### Which herbal supplements blood pressure interactions are most common with lisinopril?
 
 Garlic, hawthorn, and berberine are top concerns with lisinopril. All may enhance its BP-lowering effect or interfere with potassium regulation—raising risks of hypotension or hyperkalemia.
 
-#### #### Is it safe to take magnesium supplements with blood pressure medication?
+#### Is it safe to take magnesium supplements with blood pressure medication?
 
 Generally yes—and often beneficial—but high-dose magnesium (especially oxide or citrate) can add to the effect of ARBs or diuretics. Stick to ≤350 mg elemental magnesium/day unless directed otherwise, and get levels checked annually.
 
-#### #### Does green tea interact with blood pressure medications?
+#### Does green tea interact with blood pressure medications?
 
 In moderate amounts (2–3 cups/day), green tea is usually safe. However, concentrated extracts or excessive intake may mildly inhibit CYP enzymes and interact with beta-blockers or warfarin. Always discuss with your pharmacist.
 
-#### #### How long do herbal supplements blood pressure interactions last after stopping the herb?
+#### How long do herbal supplements blood pressure interactions last after stopping the herb?
 
 It varies. Garlic’s effects may fade in 3–7 days; berberine can linger 1–2 weeks due to slow tissue release; licorice-induced sodium retention may take 2–4 weeks to resolve fully. Monitor BP closely during transitions.

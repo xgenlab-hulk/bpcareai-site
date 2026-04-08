@@ -80,17 +80,17 @@ In closing, understanding how nasal decongestants and pulse pressure in asthma i
 
 ### FAQ
 
-#### #### Can nasal decongestants raise blood pressure in people with asthma?
+#### Can nasal decongestants raise blood pressure in people with asthma?
 Yes—particularly with frequent or prolonged use. Topical alpha-agonists like oxymetazoline can increase sympathetic tone and arterial stiffness, leading to elevated systolic pressure and widened pulse pressure. This effect is more likely in adults 55–64 with mild asthma due to preexisting endothelial sensitivity and age-related vascular changes.
 
-#### #### What is the link between nasal decongestants and pulse pressure in asthma?
+#### What is the link between nasal decongestants and pulse pressure in asthma?
 Nasal decongestants and pulse pressure in asthma are linked through alpha-agonist–induced vasoconstriction, rebound sympathetic activation, and oxidative stress in already vulnerable blood vessels. In adults with airway hyperreactivity, this cascade contributes to measurable increases in 24-hour pulse pressure—often by 5–10 mm Hg—within weeks of unsupervised use.
 
-#### #### Do OTC nasal sprays affect pulse pressure differently in older adults with asthma?
+#### Do OTC nasal sprays affect pulse pressure differently in older adults with asthma?
 Yes. Adults aged 55–64 experience natural declines in arterial elasticity and baroreflex function. When combined with asthma-related endothelial inflammation, even short-term decongestant use (≥3 days/week) produces a more pronounced and longer-lasting rise in pulse pressure than in younger adults or non-asthmatics.
 
-#### #### How long does it take for pulse pressure to return to normal after stopping nasal decongestants?
+#### How long does it take for pulse pressure to return to normal after stopping nasal decongestants?
 In most adults 55–64 with mild asthma, pulse pressure begins declining within 7–10 days of discontinuation and typically returns to baseline within 4–6 weeks—especially when paired with saline irrigation and lifestyle supports like regular physical activity and adequate sleep.
 
-#### #### Are steroid nasal sprays safer for blood pressure than decongestants in asthma?
+#### Are steroid nasal sprays safer for blood pressure than decongestants in asthma?
 Yes. Intranasal corticosteroids (e.g., fluticasone, mometasone) work locally to reduce allergic inflammation and do not activate alpha-adrenergic receptors. Clinical studies show no significant effect on systolic, diastolic, or pulse pressure—making them a preferred option for long-term nasal symptom control in adults with asthma.

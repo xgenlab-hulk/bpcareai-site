@@ -55,17 +55,17 @@ In short, supporting your heart isn’t about chasing one “magic bullet.” It
 
 ### FAQ  
 
-#### #### Can nitric oxide coupling without l-arginine improve my blood pressure?  
+#### Can nitric oxide coupling without l-arginine improve my blood pressure?  
 Yes—studies show that consistent dietary nitrate intake (e.g., beetroot) combined with midday movement can lower systolic BP by 5–8 mm Hg in adults 65+, likely by improving endothelial function and arterial elasticity—not by flooding the system with L-arginine.
 
-#### #### Is nitric oxide coupling without l-arginine safe if I’m on heart medication?  
+#### Is nitric oxide coupling without l-arginine safe if I’m on heart medication?  
 Generally yes—but always consult your provider first. Nitrate-rich foods are safe alongside most BP meds (including ACE inhibitors and calcium channel blockers), though avoid high-dose beet juice if you take organic nitrates (e.g., nitroglycerin).
 
-#### #### What’s the best time of day to support nitric oxide coupling without l-arginine?  
+#### What’s the best time of day to support nitric oxide coupling without l-arginine?  
 Late morning to early afternoon (10 a.m.–2 p.m.) aligns with peak endothelial NO synthase activity and circadian cortisol rhythms—making it ideal for both exercise and nitrate-rich meals.
 
-#### #### Does mouthwash really affect nitric oxide production?  
+#### Does mouthwash really affect nitric oxide production?  
 Yes—antiseptic mouthwashes (especially those with chlorhexidine or cetylpyridinium chloride) reduce salivary nitrite by up to 90% for 12+ hours. Switching to plain water rinses or fluoride-only rinses helps preserve your oral nitrate-reducing bacteria.
 
-#### #### How long before I notice changes from focusing on nitric oxide coupling without l-arginine?  
+#### How long before I notice changes from focusing on nitric oxide coupling without l-arginine?  
 Most people report improved stamina and steadier BP readings within 3–6 weeks of consistent practice—though deeper endothelial repair (e.g., improved CFR) may take 3–6 months.

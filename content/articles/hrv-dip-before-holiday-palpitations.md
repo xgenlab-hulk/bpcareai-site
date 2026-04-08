@@ -89,17 +89,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What does an HRV dip before holiday palpitations actually mean?
+#### What does an HRV dip before holiday palpitations actually mean?
 An HRV dip before holiday palpitations reflects a temporary reduction in vagal (parasympathetic) tone—essentially your body’s “brake” on heart rhythm—often triggered by emotional or cognitive load during virtual interactions. In adults 55–60 with prehypertensive non-dipping BP, it’s a validated early marker of autonomic strain, appearing days to weeks before any noticeable palpitations.
 
-#### #### Can HRV dip before holiday palpitations happen without drinking alcohol?
+#### Can HRV dip before holiday palpitations happen without drinking alcohol?
 Yes—absolutely. While alcohol is a well-known trigger for holiday heart syndrome, research shows that up to 65% of HRV dips before holiday palpitations in this age group occur during sober, emotionally charged interactions—especially video calls involving unresolved family dynamics or caregiving concerns.
 
-#### #### Is HRV dip before holiday palpitations the same as anxiety?
+#### Is HRV dip before holiday palpitations the same as anxiety?
 Not quite. Anxiety can *cause* an HRV dip—but so can silent autonomic changes rooted in early hypertension, sleep disruption, or even chronic low-grade inflammation. Think of HRV as a physiological readout, while anxiety is a subjective experience. You can have one without the other—but when both are present, the risk amplifies.
 
-#### #### How accurate are consumer wearables for detecting HRV dip before holiday palpitations?
+#### How accurate are consumer wearables for detecting HRV dip before holiday palpitations?
 Accuracy varies. Chest-worn ECG devices (used correctly) detect acute HRV changes with >85% concordance to clinical-grade systems. Wrist-based optical sensors perform well during rest but may underreport dips during emotional arousal due to motion artifact. For meaningful interpretation, focus on *trends over time* rather than absolute values—and always pair HRV with context (timing, emotion, posture).
 
-#### #### Does having an HRV dip before holiday palpitations mean I’ll develop atrial fibrillation?
+#### Does having an HRV dip before holiday palpitations mean I’ll develop atrial fibrillation?
 Not necessarily—but it does indicate elevated short-term risk. Studies show that consistent, unaddressed HRV dips in non-dipping adults correlate with a 2.4x higher 12-month incidence of paroxysmal AFib. The encouraging part? Lifestyle interventions—especially improved sleep hygiene and paced breathing—can restore HRV resilience in 6–8 weeks for many people in this age group.

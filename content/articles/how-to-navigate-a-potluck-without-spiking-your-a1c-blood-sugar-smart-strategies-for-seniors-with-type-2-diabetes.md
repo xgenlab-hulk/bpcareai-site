@@ -38,22 +38,22 @@ In closing, managing blood sugar at potlucks seniors attend doesn’t mean optin
 
 ### FAQ
 
-#### #### How can seniors with diabetes manage blood sugar at potlucks without feeling left out?
+#### How can seniors with diabetes manage blood sugar at potlucks without feeling left out?
 
 Bring a dish you love and know fits your plan—like a spinach-feta quinoa salad or herb-roasted carrots—and share the recipe! Focus on conversation, not just food. Most guests appreciate the gesture—and you’ll have at least one safe, satisfying option on the table.
 
-#### #### What are the best low-carb side dishes to bring to a potluck to help manage blood sugar at potlucks seniors?
+#### What are the best low-carb side dishes to bring to a potluck to help manage blood sugar at potlucks seniors?
 
 Try roasted Brussels sprouts with balsamic glaze (6 g net carbs per ½ cup), cauliflower “potato” salad (7 g net carbs per ¾ cup), or a white bean and parsley salad (12 g net carbs per ½ cup). These provide fiber, protein, and flavor without spiking glucose.
 
-#### #### Is it okay to skip meals before a potluck to “save room” for treats?
+#### Is it okay to skip meals before a potluck to “save room” for treats?
 
 No—skipping meals increases hunger hormones like ghrelin and lowers blood sugar, often leading to overeating and sharper glucose spikes afterward. Instead, eat a consistent, balanced breakfast and lunch, and enjoy modest portions mindfully at the event.
 
-#### #### How does aging affect blood sugar response at family gatherings?
+#### How does aging affect blood sugar response at family gatherings?
 
 With age, muscle mass decreases (reducing glucose uptake), liver clearance of insulin slows, and some medications (like sulfonylureas) carry higher hypoglycemia risk. That’s why consistent timing, carb awareness, and post-meal checks become even more important after 60.
 
-#### #### Should I check my blood sugar during or after a potluck?
+#### Should I check my blood sugar during or after a potluck?
 
 Yes—check before eating and again 2 hours after your first bite. This “before-and-after” snapshot reveals how your body responds to that specific combination of foods and helps refine future choices. Keep your meter handy in your purse or pocket.

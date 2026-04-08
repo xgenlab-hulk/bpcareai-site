@@ -79,22 +79,22 @@ Understanding the connection between your gut and your arteries doesn’t mean a
 
 ### FAQ
 
-#### #### Does gut microbiome imbalance cause arterial stiffness in older adults?
+#### Does gut microbiome imbalance cause arterial stiffness in older adults?
 
 Yes—research increasingly supports a causal role. Dysbiosis after age 60 contributes to systemic inflammation and elevated TMAO, both linked to endothelial dysfunction and increased arterial stiffness. While not the sole cause, it’s a modifiable factor shown to influence progression in clinical trials.
 
-#### #### How does the gut microbiome and arterial stiffness aging relationship affect blood pressure?
+#### How does the gut microbiome and arterial stiffness aging relationship affect blood pressure?
 
 This relationship primarily affects *systolic* blood pressure—the top number—by reducing arterial elasticity. Stiffer arteries mean the heart must work harder to pump blood, often resulting in isolated systolic hypertension (e.g., 150/75 mm Hg). Over time, this pattern increases strain on the heart and kidneys.
 
-#### #### Can improving gut health reverse arterial stiffness in people over 60?
+#### Can improving gut health reverse arterial stiffness in people over 60?
 
 Complete reversal isn’t typical, but meaningful *slowing* and even modest *improvement* in arterial elasticity have been documented. A 2023 study in *Hypertension* reported a 7% reduction in cfPWV among adults aged 62–78 after six months of high-fiber, Mediterranean-style eating and daily aerobic activity.
 
-#### #### Are probiotics helpful for arterial stiffness related to gut health?
+#### Are probiotics helpful for arterial stiffness related to gut health?
 
 Evidence is promising but nuanced. Specific strains—including *Lactobacillus plantarum* and *Bifidobacterium lactis*—have shown benefits for endothelial function and inflammation in small trials. However, probiotics work best alongside dietary fiber (which acts as prebiotic fuel), not in isolation.
 
-#### #### What blood tests relate to gut microbiome and arterial stiffness aging?
+#### What blood tests relate to gut microbiome and arterial stiffness aging?
 
 While no single test captures the full picture, clinicians may consider checking TMAO levels, hs-CRP (a marker of inflammation), fasting insulin, and advanced lipid panels—including LDL particle size—since smaller, denser LDL particles are more prone to oxidation in inflammatory environments shaped by gut dysbiosis.

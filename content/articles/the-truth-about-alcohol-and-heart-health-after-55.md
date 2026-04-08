@@ -61,22 +61,22 @@ In short, understanding *alcohol effects on heart health after 55* doesn’t hav
 
 ### FAQ
 
-#### #### Does alcohol affect heart health differently after age 55?
+#### Does alcohol affect heart health differently after age 55?
 
 Yes — metabolism slows, blood vessels become less flexible, and the heart’s recovery capacity decreases. This means even modest alcohol intake may have a greater impact on blood pressure, rhythm stability, and long-term heart structure than it did in younger years.
 
-#### #### What are the alcohol effects on heart health after 55 for people with high blood pressure?
+#### What are the alcohol effects on heart health after 55 for people with high blood pressure?
 
 Alcohol can raise both systolic and diastolic BP — sometimes by 2–6 mm Hg — and blunt the effectiveness of antihypertensive medications. For those with hypertension, even one drink daily may interfere with BP control goals. Reducing or eliminating alcohol often leads to measurable improvement.
 
-#### #### Can moderate drinking still benefit heart health after 55?
+#### Can moderate drinking still benefit heart health after 55?
 
 Current evidence no longer supports the idea that alcohol *improves* heart health at any age. While earlier observational studies linked light drinking to lower coronary risk, newer research shows those benefits disappear when accounting for lifestyle factors and “sick quitter” bias (people who stop drinking due to poor health). For adults over 55, the safest choice for heart health is not to start — and to reconsider if you already do.
 
-#### #### Is red wine really heart-healthy for seniors?
+#### Is red wine really heart-healthy for seniors?
 
 The antioxidants in red wine (like resveratrol) haven’t been proven to provide meaningful heart protection in humans — especially not enough to outweigh alcohol’s risks. You’ll get far more cardiovascular benefit from berries, dark leafy greens, nuts, and whole grains — without the downsides.
 
-#### #### How does alcohol affect atrial fibrillation in people over 55?
+#### How does alcohol affect atrial fibrillation in people over 55?
 
 Alcohol is a known trigger for atrial fibrillation (“holiday heart syndrome”), and sensitivity increases with age. Even one drink can provoke an episode in susceptible individuals. For those diagnosed with AFib, guidelines strongly recommend limiting or avoiding alcohol altogether.

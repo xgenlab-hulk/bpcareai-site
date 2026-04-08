@@ -60,17 +60,17 @@ In short, enjoying satisfying, flavorful meals during the holidays is absolutely
 
 ### FAQ
 
-#### #### What are the best satiety foods nocturnal acid reflux seniors can eat before bed?
+#### What are the best satiety foods nocturnal acid reflux seniors can eat before bed?
 Opt for small portions (½ cup max) of warm, low-acid, high-viscosity foods like unsweetened oatmeal, mashed banana, or chamomile-apple sauce. Avoid eating within 3 hours of lying down.
 
-#### #### Can satiety foods nocturnal acid reflux seniors help with holiday stress-related reflux?
+#### Can satiety foods nocturnal acid reflux seniors help with holiday stress-related reflux?
 Yes—stress increases gastric acid production and slows digestion. Choosing calming, fiber-rich foods helps buffer acidity and supports vagal tone, which can ease stress-related reflux spikes.
 
-#### #### Are there satiety foods nocturnal acid reflux seniors should avoid completely?
+#### Are there satiety foods nocturnal acid reflux seniors should avoid completely?
 Avoid citrus, tomatoes, chocolate, peppermint, fried foods, carbonated drinks, and raw onions—even in small amounts. These directly relax the LES or irritate the esophagus.
 
-#### #### How does menopause affect acid reflux and satiety?
+#### How does menopause affect acid reflux and satiety?
 Estrogen supports LES muscle tone and gastric motilin release. Its decline postmenopause contributes to slower emptying and weaker sphincter function—making satiety foods nocturnal acid reflux seniors especially important for comfort and protection.
 
-#### #### Is warm milk okay for satiety foods nocturnal acid reflux seniors?
+#### Is warm milk okay for satiety foods nocturnal acid reflux seniors?
 Not typically—despite folklore, whole or skim milk can stimulate acid rebound after initial soothing. Better alternatives: almond or oat milk (unsweetened), or a small serving of low-fat cottage cheese (¼ cup) with pear slices.

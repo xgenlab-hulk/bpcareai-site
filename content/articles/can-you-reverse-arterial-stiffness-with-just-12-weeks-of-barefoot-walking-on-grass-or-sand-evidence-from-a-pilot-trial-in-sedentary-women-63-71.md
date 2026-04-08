@@ -78,22 +78,22 @@ Science continues to reveal how deeply interconnected our bodies are with simple
 
 ### FAQ
 
-#### #### Does barefoot walking lower blood pressure in older adults?
+#### Does barefoot walking lower blood pressure in older adults?
 
 Yes—modest but meaningful reductions have been observed. In the 12-week pilot trial, sedentary women aged 63–71 saw average drops of 4.2 mm Hg in systolic and 2.8 mm Hg in diastolic BP. These changes align with broader evidence showing that improved endothelial function and reduced arterial stiffness often accompany gentle, regular movement—even without weight loss or vigorous exercise.
 
-#### #### Can barefoot walking and arterial stiffness improvement happen in just 3 months?
+#### Can barefoot walking and arterial stiffness improvement happen in just 3 months?
 
 The pilot trial suggests yes—for some individuals. After 12 weeks of consistent barefoot walking on natural surfaces, participants showed statistically significant improvements in cfPWV (a direct measure of arterial stiffness) and augmentation index. While individual responses vary, the timeframe reflects the body’s capacity for vascular adaptation when supported by appropriate stimuli.
 
-#### #### Is barefoot walking and arterial stiffness relevant for people with high blood pressure?
+#### Is barefoot walking and arterial stiffness relevant for people with high blood pressure?
 
 Absolutely. Arterial stiffness is both a contributor to and consequence of elevated blood pressure. Improving arterial elasticity can help reduce systolic pressure and pulse pressure (the gap between systolic and diastolic numbers), which are especially important predictors of cardiovascular risk in adults over 50. Barefoot walking is not a replacement for prescribed treatment—but it may complement it meaningfully.
 
-#### #### Do I need special shoes or gear for this kind of walking?
+#### Do I need special shoes or gear for this kind of walking?
 
 No—barefoot is ideal for maximizing sensory input and mechanotransduction. However, if barefoot isn’t comfortable or safe for you, minimalist footwear (thin soles, no arch support or cushioning) can still provide some of the benefits. What matters most is the variability of surface texture and the conscious engagement of your feet and legs.
 
-#### #### What’s the best time of day to walk barefoot for vascular benefits?
+#### What’s the best time of day to walk barefoot for vascular benefits?
 
 There’s no strict “best” time—but consistency matters more than timing. Many people find morning walks refreshing and grounding, while others prefer late afternoon when temperatures are milder. Choose a time when you can walk mindfully and without rushing. If you’re taking BP medication, avoid walking within 30 minutes of dosing unless cleared by your doctor—some antihypertensives can cause transient dizziness with postural change.

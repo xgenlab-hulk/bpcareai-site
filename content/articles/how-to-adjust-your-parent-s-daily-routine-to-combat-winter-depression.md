@@ -43,22 +43,22 @@ A *daily routine for seasonal depression* doesn’t need to be perfect or elabor
 
 ### FAQ
 
-#### #### How can I create a daily routine for seasonal depression for my aging parent?
+#### How can I create a daily routine for seasonal depression for my aging parent?
 
 Start by anchoring wake-up and bedtime, adding morning light exposure (natural or therapeutic), incorporating gentle daily movement, and maintaining social connection—even through brief, regular check-ins. Keep it flexible and compassionate; consistency matters more than intensity.
 
-#### #### What’s the best time of day for light exposure in a daily routine for seasonal depression?
+#### What’s the best time of day for light exposure in a daily routine for seasonal depression?
 
 Morning light—ideally between 6 a.m. and 10 a.m.—is most effective for resetting circadian rhythms. Even 15–20 minutes outdoors (with appropriate clothing and safety precautions) can help. Overcast days still offer usable light—up to 80% of full-spectrum daylight can penetrate cloud cover.
 
-#### #### Does seasonal depression in older adults affect blood pressure?
+#### Does seasonal depression in older adults affect blood pressure?
 
 Yes—indirectly. Low mood, reduced activity, disrupted sleep, and social isolation can contribute to elevated arterial pressure or erratic BP patterns. That’s why supporting emotional wellness is part of holistic cardiovascular care.
 
-#### #### Can diet changes help with seasonal depression in older adults?
+#### Can diet changes help with seasonal depression in older adults?
 
 Absolutely. Prioritizing whole foods rich in omega-3s (like fatty fish), B vitamins (leafy greens, legumes), and vitamin D (fortified dairy, eggs, or supplements if recommended) supports both brain and heart health. Staying hydrated and limiting added sugar also helps stabilize energy and mood.
 
-#### #### Is light therapy safe for seniors with high blood pressure?
+#### Is light therapy safe for seniors with high blood pressure?
 
 Generally, yes—light therapy lamps don’t emit UV rays and aren’t known to raise BP directly. However, always discuss with their doctor first, especially if they’re managing hypertension, taking certain medications (e.g., lithium, some antibiotics), or have retinal conditions.

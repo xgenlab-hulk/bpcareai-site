@@ -88,22 +88,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### How often should I adjust my insulin-to-carb ratio when walking regularly?
+#### How often should I adjust my insulin-to-carb ratio when walking regularly?
 
 Most older adults find that one thoughtful adjustment—based on 10–14 days of consistent logging—is enough to settle into a comfortable rhythm. After that, check in every 4–6 weeks, especially if your walking duration, frequency, or intensity changes significantly—or if seasonal routines shift (e.g., walking indoors in winter vs. outdoors in summer).
 
-#### #### What’s a safe insulin-to-carb ratio adjustment for walking seniors with neuropathy?
+#### What’s a safe insulin-to-carb ratio adjustment for walking seniors with neuropathy?
 
 Because neuropathy can blunt early hypoglycemia warning signs, we recommend erring on the side of caution: start with a 15% reduction in your rapid-acting insulin dose *only* for meals followed by walking—and always confirm pre-walk glucose is ≥110 mg/dL. Pair this with a walking buddy or wearable alert system if possible, and carry fast-acting carbs at all times.
 
-#### #### Can walking change my long-term insulin-to-carb ratio—even if I stop walking later?
+#### Can walking change my long-term insulin-to-carb ratio—even if I stop walking later?
 
 Yes—regular physical activity can lead to sustained improvements in insulin sensitivity, especially when combined with balanced nutrition. Some adults over 70 report maintaining a slightly lower ratio (e.g., 1:14 instead of 1:12) even after pausing walking for a few weeks—but this varies widely. Always re-assess gradually if activity levels change.
 
-#### #### Do I need to adjust my insulin-to-carb ratio differently for morning vs. evening walks?
+#### Do I need to adjust my insulin-to-carb ratio differently for morning vs. evening walks?
 
 Often, yes. Morning walks may coincide with higher natural cortisol levels (which raise glucose), while evening walks may occur when insulin sensitivity is naturally higher—and when you’re more likely to be fatigued or less aware of low symptoms. We suggest starting with a 10% reduction for morning walks and 15–20% for evening walks, then refining based on your logs.
 
-#### #### Is it normal to feel hungrier after starting a walking routine—and how does that affect my insulin-to-carb ratio?
+#### Is it normal to feel hungrier after starting a walking routine—and how does that affect my insulin-to-carb ratio?
 
 Absolutely—it’s a healthy sign your metabolism is engaging! But increased hunger shouldn’t mean increasing insulin proportionally. Instead, focus on adding nutrient-dense, fiber-rich foods (like berries, lentils, or leafy greens) that gently support satiety and steady glucose. If hunger consistently leads to unplanned snacks, discuss pattern adjustments with your dietitian—they can help align your carb counting and insulin dosing with your new energy needs.

@@ -99,17 +99,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What does “low-sodium frozen dinner sodium trap” actually mean?
+#### What does “low-sodium frozen dinner sodium trap” actually mean?
 It’s a term for the gap between marketing promises (“low sodium!” “heart-healthy!”) and reality — where frozen meals labeled for seniors still contain too much sodium due to hidden sources like yeast extract, soy derivatives, and preservatives. This mismatch can unintentionally raise blood pressure, especially in adults managing Stage 1 hypertension.
 
-#### #### Are all “low-sodium” frozen dinners part of the low-sodium frozen dinner sodium trap?
+#### Are all “low-sodium” frozen dinners part of the low-sodium frozen dinner sodium trap?
 No — but many are. Roughly 78% of frozen dinners marketed to seniors exceed the ADA’s 1,500 mg/day sodium target for Stage 1 hypertension. Always verify sodium content on the Nutrition Facts panel, not the front label.
 
-#### #### How can I avoid the low-sodium frozen dinner sodium trap when shopping?
+#### How can I avoid the low-sodium frozen dinner sodium trap when shopping?
 Look beyond the word “low-sodium” — check serving size, scan for hidden sodium sources (yeast extract, sodium citrate, soy sauce derivatives), and compare total sodium per *entire meal*. Aim for ≤150 mg per full entrée — or ≤300 mg if including sides.
 
-#### #### Is sodium the only dietary factor affecting blood pressure in seniors?
+#### Is sodium the only dietary factor affecting blood pressure in seniors?
 No — potassium, magnesium, fiber, and saturated fat also play major roles. But sodium is one of the most *modifiable* and *immediately impactful* factors, especially for those with age-related declines in kidney function or vascular elasticity.
 
-#### #### Can I still eat frozen meals if I have high blood pressure?
+#### Can I still eat frozen meals if I have high blood pressure?
 Yes — absolutely. Prioritize meals with ≤140 mg sodium per serving *and* confirm it’s for the full package. Pair with fresh or frozen unsalted vegetables and fruit. And remember: occasional higher-sodium meals are okay — consistency over time matters more than any single choice.

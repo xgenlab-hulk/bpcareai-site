@@ -92,22 +92,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Are frozen dinners bad for blood pressure in seniors?
+#### Are frozen dinners bad for blood pressure in seniors?
 
 Not inherently—but many “low-sodium” options replace salt with potassium chloride, which can disrupt electrolyte balance in older adults, especially those with mild kidney changes or diastolic dysfunction. The issue isn’t the frozen format; it’s the *type* of sodium substitute used and how your body processes it.
 
-#### #### How do frozen dinners and blood pressure seniors connect to heart failure risk?
+#### How do frozen dinners and blood pressure seniors connect to heart failure risk?
 
 For seniors with preserved ejection fraction (HFpEF), repeated electrolyte imbalances—from frequent potassium chloride–enhanced meals—may worsen ventricular stiffness over time. While one meal won’t cause harm, long-term exposure without adjustment can contribute to progression from mild diastolic dysfunction to symptomatic HFpEF.
 
-#### #### What frozen dinners are safest for seniors with high blood pressure?
+#### What frozen dinners are safest for seniors with high blood pressure?
 
 Look for meals with <350 mg sodium *and no potassium chloride* listed in ingredients. Brands offering “no salt added” or “unsalted” versions (often found in natural food sections) tend to be safer. Simpler meals—like grilled chicken with brown rice and frozen peas—also tend to have cleaner ingredient profiles.
 
-#### #### Can potassium in frozen dinners raise blood pressure?
+#### Can potassium in frozen dinners raise blood pressure?
 
 Yes—indirectly. While potassium *usually* helps lower BP, excessive or poorly absorbed potassium (like from potassium chloride additives) can trigger hormonal responses (e.g., aldosterone surges) and reduce nitric oxide availability—both of which increase vascular resistance. This effect is more likely in adults over 75 with reduced kidney function.
 
-#### #### Do frozen dinners affect blood pressure differently than fresh meals?
+#### Do frozen dinners affect blood pressure differently than fresh meals?
 
 Often, yes—because of formulation differences. Fresh meals let you control every ingredient. Frozen meals may contain hidden sodium sources (sodium tripolyphosphate in seafood, sodium benzoate in sauces) *plus* potassium chloride, creating a unique electrolyte profile your body may not handle as smoothly—especially as you age.

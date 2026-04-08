@@ -72,17 +72,17 @@ In summary, left ventricular hypertrophy silent signs adults 65+ remind us that 
 
 ### FAQ
 
-#### #### What are the earliest silent signs of left ventricular hypertrophy in adults over 65?  
+#### What are the earliest silent signs of left ventricular hypertrophy in adults over 65?  
 Early signs include unexplained nocturnal dyspnea with normal SpO₂, delayed S2 splitting on physical exam, subtle fatigue after routine tasks, and orthopnea requiring only slight pillow elevation — all occurring despite well-controlled office BP.
 
-#### #### Can left ventricular hypertrophy silent signs adults 65+ be reversed?  
+#### Can left ventricular hypertrophy silent signs adults 65+ be reversed?  
 Yes — especially when detected early. Weight loss, strict sodium control, consistent aerobic activity, and optimized antihypertensive therapy (e.g., ARBs or calcium channel blockers) have been shown to reduce LV mass by 5–15% over 6–12 months.
 
-#### #### Why does EKG miss left ventricular hypertrophy in older adults?  
+#### Why does EKG miss left ventricular hypertrophy in older adults?  
 Age-related reductions in QRS voltage, increased prevalence of conduction delays, and coexisting conditions like COPD or obesity diminish EKG sensitivity. Echocardiography detects >90% of LVH cases in this population versus ~35% for EKG.
 
-#### #### Is left ventricular hypertrophy the same as heart disease?  
+#### Is left ventricular hypertrophy the same as heart disease?  
 LVH is a *structural manifestation* of underlying heart disease — most commonly hypertension or aortic stenosis. It’s considered both a marker and a contributor to cardiovascular risk, falling squarely within the broader category of heart disease.
 
-#### #### What blood pressure range is considered safe to prevent left ventricular hypertrophy in seniors?  
+#### What blood pressure range is considered safe to prevent left ventricular hypertrophy in seniors?  
 Current guidelines recommend individualized targets, but for most adults 65+, a 24-hour average <130/80 mm Hg (via ABPM) is associated with lower LVH progression — even if clinic readings fall within “controlled” ranges (e.g., 138/86 mm Hg).

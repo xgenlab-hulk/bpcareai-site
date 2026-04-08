@@ -71,22 +71,22 @@ Changes in your nails don’t mean you have heart disease — far from it. But u
 
 ### FAQ
 
-#### #### Can weak fingernails be a sign of heart problems?
+#### Can weak fingernails be a sign of heart problems?
 
 Not necessarily. Weak or brittle nails are often due to aging, dehydration, or nutritional gaps. However, in some cases, persistent nail changes like clubbing or discoloration can be associated with cardiovascular conditions, especially if other symptoms are present. It’s rare for weak nails alone to indicate heart disease.
 
-#### #### What do fingernails look like with heart disease?
+#### What do fingernails look like with heart disease?
 
 There’s no single “heart disease nail,” but certain features may raise flags. These include clubbing (enlarged fingertips with curved nails), pale or bluish nail beds (suggesting low oxygen), or splinter hemorrhages (tiny dark lines). Again, these signs are not definitive and must be evaluated alongside other symptoms.
 
-#### #### How are fingernail health and heart disease signs connected?
+#### How are fingernail health and heart disease signs connected?
 
 The link lies in circulation and oxygen supply. Since nails depend on healthy blood flow for growth, conditions that impair heart function or narrow arteries may indirectly affect nail appearance. Systemic inflammation or chronic low oxygen states can also manifest in the nails.
 
-#### #### Should I worry about vertical ridges in my nails?
+#### Should I worry about vertical ridges in my nails?
 
 Vertical ridges are very common with aging and usually harmless. They often appear as nails grow more slowly and thinner over time. Unless accompanied by pain, color changes, or significant texture shifts, they’re typically not related to heart health.
 
-#### #### Can poor circulation affect your fingernails?
+#### Can poor circulation affect your fingernails?
 
 Yes. Reduced blood flow — such as in peripheral artery disease — can lead to thin, brittle, or slow-growing nails. Poor circulation may also cause nails to become discolored or more prone to infection. Improving heart health through lifestyle choices often supports better circulation and nail strength.

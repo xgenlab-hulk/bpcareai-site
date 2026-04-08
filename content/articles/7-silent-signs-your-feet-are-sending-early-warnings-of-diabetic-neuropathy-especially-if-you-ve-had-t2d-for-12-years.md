@@ -76,17 +76,17 @@ In summary, your feet are among your most sensitive barometers of long-term meta
 
 ### FAQ
 
-#### #### What are the earliest signs of diabetic neuropathy in the feet?
+#### What are the earliest signs of diabetic neuropathy in the feet?
 The earliest signs often include subtle changes like reduced ability to feel light touch or vibration, cooler skin temperature on one foot, dry or cracked skin, loss of toe hair, and delayed capillary refill—often appearing before pain or numbness.
 
-#### #### Can early signs diabetic neuropathy feet appear even with good blood sugar control?
+#### Can early signs diabetic neuropathy feet appear even with good blood sugar control?
 Yes. While sustained hyperglycemia is the main driver, duration of diabetes (especially ≥10–12 years), genetic susceptibility, hypertension, and dyslipidemia also contribute. Many people develop early signs diabetic neuropathy feet despite A1C levels in the 6.5–7.5% range.
 
-#### #### Are tingling and burning the first signs of diabetic neuropathy?
+#### Are tingling and burning the first signs of diabetic neuropathy?
 Not necessarily. Tingling and burning typically signal *established* small-fiber neuropathy. Earlier indicators are often *absent* sensations—like not feeling a cotton swab, sock seam, or warm towel—making regular self-checks essential.
 
-#### #### How often should someone with long-standing type 2 diabetes check their feet?
+#### How often should someone with long-standing type 2 diabetes check their feet?
 Daily. Spend 60–90 seconds each evening checking for color, temperature, texture, and integrity—ideally with magnification and good lighting. Document any recurring observations to share at your next visit.
 
-#### #### Does high blood pressure increase risk for early signs diabetic neuropathy feet?
+#### Does high blood pressure increase risk for early signs diabetic neuropathy feet?
 Yes. Hypertension damages small vessels that nourish peripheral nerves. Adults with type 2 diabetes and systolic BP >135 mm Hg face up to a 40% higher risk of developing early signs diabetic neuropathy feet compared to those with optimal BP control.

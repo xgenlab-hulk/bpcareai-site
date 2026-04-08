@@ -103,22 +103,22 @@ Think of each slow exhale as a quiet “thank you” to your nervous system. Eac
 
 ### FAQ
 
-#### #### Does heart rate variability after 65 improve with exercise?
+#### Does heart rate variability after 65 improve with exercise?
 
 Yes—especially aerobic and mind-body activities. A 2023 meta-analysis found that moderate-intensity walking (30 min, 5x/week) combined with breathing awareness raised HRV by ~12% in adults 65–79 over 16 weeks. Strength training and tai chi also show strong support—but consistency matters more than intensity.
 
-#### #### What is a normal heart rate variability after 65?
+#### What is a normal heart rate variability after 65?
 
 There’s no single “normal,” but typical RMSSD values range from 12–30 ms in healthy adults 65–80. More important than the number is stability: a gradual, gentle decline is expected; sudden drops (e.g., falling >30% in 2 weeks without illness) warrant discussion with your care team.
 
-#### #### Can deep breathing increase heart rate variability after 65?
+#### Can deep breathing increase heart rate variability after 65?
 
 Absolutely—and it’s one of the most accessible, well-studied interventions. Research shows that daily paced breathing (even 5 minutes) increases HRV within 2–4 weeks in adults over 65. The effect builds with consistency and is enhanced when practiced in calm, seated posture.
 
-#### #### Is low heart rate variability after 65 linked to high blood pressure?
+#### Is low heart rate variability after 65 linked to high blood pressure?
 
 Yes—there’s a well-documented inverse relationship. Lower HRV correlates with higher systolic BP and stiffer arteries. This doesn’t mean low HRV *causes* hypertension, but both reflect reduced autonomic flexibility—a shared root worth supporting holistically.
 
-#### #### How long does it take to see changes in HRV with breathing?
+#### How long does it take to see changes in HRV with breathing?
 
 Most adults 65+ notice subtle shifts—like easier recovery after stress or deeper sleep—within 1–2 weeks. Objective HRV improvements (via wearable tracking) typically appear after 3–4 weeks of consistent practice (5–10 min/day). Patience and repetition are key—this is nervous system retraining, not a quick fix.

@@ -64,17 +64,17 @@ Holiday joy doesn’t require sacrificing your well-being. With small, intention
 
 ### FAQ
 
-#### #### What foods help prevent holiday magnesium depletion migraine seniors?  
+#### What foods help prevent holiday magnesium depletion migraine seniors?  
 Focus on whole, seasonal sources: cooked spinach (½ cup = ~80 mg), roasted almonds (¼ cup = ~100 mg), black beans (½ cup = ~60 mg), and baked acorn squash. Pair them with protein and healthy fats to slow sugar absorption and stabilize magnesium use.
 
-#### #### Can magnesium supplements really reduce migraines in seniors without causing diarrhea?  
+#### Can magnesium supplements really reduce migraines in seniors without causing diarrhea?  
 Yes—when using gentle forms like glycinate or malate at appropriate doses (typically 200–350 mg elemental magnesium/day, split). Clinical studies show up to a 41% reduction in migraine frequency in adults over 60 using these forms—without GI upset.
 
-#### #### Is holiday magnesium depletion migraine seniors linked to high blood pressure?  
+#### Is holiday magnesium depletion migraine seniors linked to high blood pressure?  
 Indirectly—but meaningfully. Low magnesium is associated with increased peripheral resistance and arterial stiffness, both contributors to elevated BP. Restoring magnesium can support healthier vascular tone—especially important for seniors managing hypertension alongside migraines.
 
-#### #### How soon can I feel relief after starting magnesium glycinate?  
+#### How soon can I feel relief after starting magnesium glycinate?  
 Many notice improved sleep and reduced muscle tension within 5–7 days. Migraine frequency may decline over 3–6 weeks as cellular stores rebuild—so consistency matters more than speed.
 
-#### #### Are there medications that worsen holiday magnesium depletion migraine seniors?  
+#### Are there medications that worsen holiday magnesium depletion migraine seniors?  
 Yes—certain diuretics (e.g., hydrochlorothiazide), proton-pump inhibitors (like omeprazole), and some antibiotics (e.g., gentamicin) can lower magnesium. If you take any of these regularly, discuss monitoring and supplementation with your prescriber.

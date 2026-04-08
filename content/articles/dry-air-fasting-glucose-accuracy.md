@@ -61,22 +61,22 @@ Winter doesn’t have to mean guessing. With a few mindful adjustments, you can 
 
 ### FAQ
 
-#### #### Does dry air really affect fasting glucose accuracy?
+#### Does dry air really affect fasting glucose accuracy?
 
 Yes—especially in older adults. Low indoor humidity increases nasal mucosal permeability, which can alter local glucose diffusion into interstitial fluid. This may cause small but repeatable differences between CGM and fingerstick readings, particularly in the early-morning fasting window.
 
-#### #### How does dry air fasting glucose accuracy impact my CGM?
+#### How does dry air fasting glucose accuracy impact my CGM?
 
 Dry air doesn’t damage your CGM—but it can temporarily shift the relationship between blood glucose and interstitial fluid glucose. Since CGMs measure the latter, you may see upward drifts overnight or upon waking that don’t match fingerstick results. This is usually reversible with improved humidity and mucosal care.
 
-#### #### Can using a humidifier improve dry air fasting glucose accuracy?
+#### Can using a humidifier improve dry air fasting glucose accuracy?
 
 Evidence suggests yes—when paired with other habits. One 6-week trial showed participants using bedroom humidifiers (maintaining 45% RH) had 32% fewer instances of >15 mg/dL CGM-fingerstick divergence during winter months.
 
-#### #### Why do my fasting sugars seem higher in December than June?
+#### Why do my fasting sugars seem higher in December than June?
 
 It’s likely not your diet or insulin—it could be dry air fasting glucose accuracy at play. Combined with seasonal cortisol rhythms and reduced physical activity, low humidity contributes to measurable interstitial glucose variability, especially in adults over 70.
 
-#### #### Is this issue unique to type 1 diabetes?
+#### Is this issue unique to type 1 diabetes?
 
 Most documented research focuses on type 1 (due to reliance on precise glucose data for insulin dosing), but anyone using CGMs—or even those with type 2 on intensive regimens—may notice similar patterns. Nasal mucosal changes occur with age regardless of diabetes type.

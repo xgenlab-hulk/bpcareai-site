@@ -95,17 +95,17 @@ Holidays aren’t about perfection. They’re about presence—warmth, connectio
 
 ### FAQ
 
-#### #### What are the best low-FODMAP holiday snacks for seniors with IBS-D?
+#### What are the best low-FODMAP holiday snacks for seniors with IBS-D?
 Look for snacks that are low in fermentable carbs *and* moderate in healthy fats—like smoked salmon roll-ups with lactose-free cream cheese, roasted chestnuts (up to 10), and turkey-sage pinwheels on certified low-FODMAP rice crackers. Avoid high-fructan veggies (onion/garlic), high-lactose dairy, and large servings of nuts or dried fruit.
 
-#### #### Where can I find low-FODMAP holiday snacks for seniors with IBS near me?
+#### Where can I find low-FODMAP holiday snacks for seniors with IBS near me?
 Many natural grocers (like Whole Foods or Sprouts) carry Monash University–certified low-FODMAP products—including lactose-free cream cheese, gluten-free rice crackers, and canned wild salmon. Check labels carefully for hidden high-FODMAP ingredients (e.g., “natural flavors,” inulin, or apple juice concentrate). When in doubt, stick to whole, single-ingredient foods you prepare yourself.
 
-#### #### Are roasted chestnuts safe for seniors with IBS-D and bile acid malabsorption?
+#### Are roasted chestnuts safe for seniors with IBS-D and bile acid malabsorption?
 Yes—when portioned mindfully (up to 10 chestnuts, ~90g). Chestnuts are naturally low-FODMAP, low-fat, and rich in resistant starch and potassium. Their gentle fiber supports colon health without aggressive fermentation, and their mild fat content avoids overwhelming bile flow.
 
-#### #### Can I eat turkey during the holidays if I have IBS-D and no gallbladder?
+#### Can I eat turkey during the holidays if I have IBS-D and no gallbladder?
 Absolutely—especially skinless, roasted, or baked turkey breast. It’s a low-FODMAP, high-bioavailability protein source that supports muscle maintenance after age 55. Avoid heavy gravies (often high-FODMAP and high-fat) and pair turkey with low-FODMAP sides like carrots, zucchini, or quinoa.
 
-#### #### Do low-FODMAP holiday snacks seniors ibs help with blood pressure management too?
+#### Do low-FODMAP holiday snacks seniors ibs help with blood pressure management too?
 While low-FODMAP eating isn’t designed specifically for blood pressure, many recommended options—like salmon (omega-3s), chestnuts (potassium), and olive oil (polyphenols)—support vascular health. Pairing these with consistent hydration and sodium awareness contributes holistically to cardiovascular wellness—especially important as BP naturally rises with age (e.g., average systolic increases ~1 mm Hg/year after 50).

@@ -59,22 +59,22 @@ Understanding the link between social isolation, carotid thickness, and blood pr
 
 ### FAQ
 
-#### #### Does social isolation carotid thickness blood pressure affect everyone over 60?
+#### Does social isolation carotid thickness blood pressure affect everyone over 60?
 
 Not equally—but research shows adults aged 63–79 with low social engagement have up to 2.3× higher odds of accelerated CIMT progression and subsequent systolic BP rise, independent of smoking, weight, or cholesterol.
 
-#### #### Can improving social connection lower my blood pressure even if I already have high BP?
+#### Can improving social connection lower my blood pressure even if I already have high BP?
 
 Yes. Studies show that increasing meaningful social contact (e.g., joining a weekly group for 6+ months) is associated with an average 3–5 mm Hg reduction in systolic BP—comparable to starting a first-line antihypertensive medication.
 
-#### #### What’s the difference between loneliness and social isolation—and does social isolation carotid thickness blood pressure apply to both?
+#### What’s the difference between loneliness and social isolation—and does social isolation carotid thickness blood pressure apply to both?
 
 Social isolation is objective (few contacts); loneliness is subjective (feeling disconnected despite contact). Both correlate with elevated cortisol and IL-6—but objective isolation shows stronger links to CIMT progression in longitudinal data.
 
-#### #### Is CIMT testing covered by Medicare or insurance?
+#### Is CIMT testing covered by Medicare or insurance?
 
 Often yes—if ordered for cardiovascular risk assessment in adults with hypertension, diabetes, or family history of early heart disease. Ask your provider about “carotid intima-media thickness ultrasound” (CPT code 76536).
 
-#### #### Can anxiety or depression cause similar carotid changes?
+#### Can anxiety or depression cause similar carotid changes?
 
 They can contribute—but the *social isolation carotid thickness blood pressure* pathway remains distinct. People with strong social networks often show resilience against BP rises, even with mood concerns—highlighting connection as its own protective factor.

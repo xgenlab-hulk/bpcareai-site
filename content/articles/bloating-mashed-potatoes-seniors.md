@@ -73,22 +73,22 @@ In closing: digestive comfort at family gatherings is achievable—not inevitabl
 
 ### FAQ
 
-#### #### Why do mashed potatoes cause bloating in older adults but not when I was younger?
+#### Why do mashed potatoes cause bloating in older adults but not when I was younger?
 
 As we age, stomach acid production declines (~30% by age 70), pancreatic enzyme output drops, and gut motility slows—making it harder to fully digest complex starches. Mashed potatoes, especially when cooled or made with added starch, form resistant starch that ferments heavily in the colon. With fewer beneficial bacteria to manage that fermentation smoothly, gas and distension increase.
 
-#### #### Is bloating mashed potatoes seniors a sign of diabetes or prediabetes?
+#### Is bloating mashed potatoes seniors a sign of diabetes or prediabetes?
 
 Not directly—but there’s an indirect link. Insulin resistance can alter gut motilin and serotonin signaling, slowing transit and increasing fermentation time. Also, some seniors with prediabetes consume more starchy sides for energy, unintentionally increasing RS3 load. Routine fasting glucose and HbA1c screening remains important, but bloating alone isn’t diagnostic.
 
-#### #### Can bloating mashed potatoes seniors be prevented without giving up family meals?
+#### Can bloating mashed potatoes seniors be prevented without giving up family meals?
 
 Yes—focus on timing (serve hot, not chilled), portion size (½ cup instead of 1 cup), and pairing (add protein and fat to slow digestion). Many families find success by preparing a small “senior-friendly” batch using minimal starch and gentle mashing—keeping tradition alive while honoring changing physiology.
 
-#### #### Are sweet potatoes safer than white potatoes for seniors with bloating?
+#### Are sweet potatoes safer than white potatoes for seniors with bloating?
 
 Not necessarily. Orange-fleshed sweet potatoes contain more soluble fiber and natural sugars, which *can* ferment readily—but they’re lower in amylose, so they produce less RS3 when cooled. Still, overconsumption or combining with other fermentable carbs (e.g., beans or cranberry sauce) may trigger similar symptoms. Individual tolerance varies more than potato type.
 
-#### #### Does cooking method change bloating risk for mashed potatoes in seniors?
+#### Does cooking method change bloating risk for mashed potatoes in seniors?
 
 Yes—significantly. Boiling followed by immediate mashing and serving hot minimizes RS3. Roasting or baking potatoes first (then mashing) increases resistant starch formation. Instant mashed potatoes often contain high-amylose starch additives, raising fermentation potential by 2–3× compared to fresh-cooked versions.

@@ -87,22 +87,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does alcohol raise blood pressure immediately in people with hypertension?
+#### Does alcohol raise blood pressure immediately in people with hypertension?
 
 Yes—alcohol can cause both short-term spikes and longer-term elevations in blood pressure. In people with hypertension, even one drink may trigger a **rebound increase of 5–12 mm Hg** within a few hours. Chronic use further blunts the body’s ability to regulate BP, raising baseline readings over time.
 
-#### #### How does hypertension festive alcohol risk differ for seniors vs. younger adults?
+#### How does hypertension festive alcohol risk differ for seniors vs. younger adults?
 
 Older adults face higher *hypertension festive alcohol risk* due to age-related changes: slower alcohol metabolism, reduced kidney clearance, stiffer arteries, and greater likelihood of undiagnosed structural heart changes (like left ventricular hypertrophy). These factors make arrhythmias like atrial fibrillation more likely—even with lighter drinking.
 
-#### #### Can I still enjoy wine during holiday dinners if I have high blood pressure?
+#### Can I still enjoy wine during holiday dinners if I have high blood pressure?
 
 Yes—you can, but it’s wise to keep it to **one 5-ounce glass of wine**, consumed with food and not daily. Monitor how your body responds, and avoid pairing it with high-sodium dishes or late-night eating. If you’ve ever noticed palpitations after drinking, consider skipping alcohol altogether this season.
 
-#### #### What is “holiday heart syndrome,” and is it serious?
+#### What is “holiday heart syndrome,” and is it serious?
 
 Holiday heart syndrome refers to acute cardiac arrhythmias—most commonly atrial fibrillation—that occur after binge or heavy episodic drinking, often during festive periods. While sometimes self-limiting, it can lead to stroke, heart failure, or recurrent episodes—especially in those with underlying hypertension or heart disease. Early recognition and evaluation are key.
 
-#### #### Does non-alcoholic wine pose the same hypertension festive alcohol risk?
+#### Does non-alcoholic wine pose the same hypertension festive alcohol risk?
 
 No—non-alcoholic wine (with <0.5% alcohol) carries negligible cardiovascular risk related to alcohol. However, check labels for added sodium or sugar, which can still affect BP or weight—both relevant to hypertension management.

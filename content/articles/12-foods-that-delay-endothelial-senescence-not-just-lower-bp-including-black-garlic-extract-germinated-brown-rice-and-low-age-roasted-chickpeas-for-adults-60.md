@@ -51,22 +51,22 @@ In closing, vascular aging is modifiable—not inevitable. The science increasin
 
 ### FAQ
 
-#### #### Can foods that delay endothelial aging also help lower blood pressure?
+#### Can foods that delay endothelial aging also help lower blood pressure?
 
 Yes—many of these foods improve nitric oxide bioavailability and arterial elasticity, which often leads to modest but clinically meaningful BP reductions (typically 3–7 mm Hg systolic over 8–12 weeks). However, their primary benefit lies upstream: protecting endothelial cell function before BP rises.
 
-#### #### What are the best foods that delay endothelial aging for someone with prediabetes?
+#### What are the best foods that delay endothelial aging for someone with prediabetes?
 
 Prioritize low-glycemic, low-AGE options with strong AMPK-activating potential: germinated brown rice, black garlic extract, cinnamon (Ceylon, 1 g/day), and boiled or steamed lentils. These help counter insulin resistance–driven oxidative stress in the endothelium.
 
-#### #### Do supplements like resveratrol or NMN work as well as whole foods that delay endothelial aging?
+#### Do supplements like resveratrol or NMN work as well as whole foods that delay endothelial aging?
 
 While isolated compounds show promise in lab studies, human trials reveal limited efficacy outside the food matrix. For example, resveratrol alone has poor bioavailability (<1%), whereas red grapes + olive oil enhance its uptake and synergize with other polyphenols—demonstrating why whole-food synergy matters more than megadoses.
 
-#### #### How soon can I see improvements in endothelial function from eating these foods?
+#### How soon can I see improvements in endothelial function from eating these foods?
 
 Some biomarkers—like postprandial FMD response—can improve within 2–4 weeks of consistent intake. Structural changes (e.g., reduced PWV) typically take 3–6 months. Patience and consistency yield the strongest outcomes.
 
-#### #### Is high blood pressure always a sign of endothelial aging?
+#### Is high blood pressure always a sign of endothelial aging?
 
 Not always—but it’s often an early indicator. Up to 70% of adults aged 60+ with stage 1 hypertension (130–139/80–89 mm Hg) show measurable endothelial dysfunction on FMD testing, even without symptoms. That’s why proactive dietary support matters long before BP reaches 140/90 mm Hg.

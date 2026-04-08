@@ -74,22 +74,22 @@ If you're unsure, talking to your doctor is always a good idea. And if you’ve 
 
 ### FAQ
 
-#### #### Can L-citrulline really help my blood pressure dip at night?
+#### Can L-citrulline really help my blood pressure dip at night?
 
 Yes—especially when timed correctly. Research shows 1,000 mg of L-citrulline taken 90 minutes before bed increases plasma arginine and improves flow-mediated dilation (a marker of endothelial function) in older adults. Unlike L-arginine, it avoids digestive upset and provides smoother, longer-lasting NO support—ideal for sustaining vasodilation through the night.
 
-#### #### What’s the best time to take beetroot powder to boost nocturnal nitric oxide women 63+ non-dipping?
+#### What’s the best time to take beetroot powder to boost nocturnal nitric oxide women 63+ non-dipping?
 
 Take it 60 minutes before bed. This allows time for oral bacteria to convert dietary nitrates into nitrite, which then converts to nitric oxide in tissues during sleep. Morning doses won’t provide the same overnight benefit—and using antibacterial mouthwash within 2 hours can block this process entirely.
 
-#### #### Does magnesium help with non-dipping BP—and which form is best for women over 63?
+#### Does magnesium help with non-dipping BP—and which form is best for women over 63?
 
 Yes—magnesium glycinate is particularly well-suited for women over 63 because it’s highly bioavailable, gentle on digestion, and supports both eNOS enzyme activity and parasympathetic nervous system balance. Aim for 200–300 mg elemental magnesium at bedtime. Avoid oxide forms (poorly absorbed) and limit doses above 350 mg unless directed by your provider.
 
-#### #### Is non-dipping BP reversible—or is it permanent after years of shift work?
+#### Is non-dipping BP reversible—or is it permanent after years of shift work?
 
 It’s often reversible with targeted support. While long-term circadian disruption does leave a physiological signature, studies show improvements in nocturnal dipping within 8–12 weeks of combined lifestyle strategies—including timed nutrition, sleep hygiene, and circadian-aligned supplementation. The endothelium remains responsive well into the 70s and beyond.
 
-#### #### Can I use these strategies if I’m already on blood pressure medication?
+#### Can I use these strategies if I’m already on blood pressure medication?
 
 In most cases—yes. These approaches are complementary, not replacements. However, always discuss them with your doctor or pharmacist, especially if you’re on nitrates, alpha-blockers, or medications metabolized by the liver (e.g., some statins). Monitoring is key: track BP trends before and after introducing changes to assess impact safely.

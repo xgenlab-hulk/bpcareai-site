@@ -90,22 +90,22 @@ It’s completely understandable to feel concerned when something as familiar as
 
 ### FAQ
 
-#### #### Does sitting cross-legged raise blood pressure artificially—and is that dangerous?
+#### Does sitting cross-legged raise blood pressure artificially—and is that dangerous?
 
 Yes—cross-legged posture can cause a mild, temporary increase in systolic BP (typically 5–15 mm Hg) due to mild venous compression and sympathetic activation. For most people, this is harmless. But in adults with early diabetes or autonomic vulnerability, it may exaggerate underlying instability. That’s why it’s useful as a *diagnostic clue*, not a risk in itself.
 
-#### #### What is cross legged blood pressure autonomic dysregulation—and should I worry?
+#### What is cross legged blood pressure autonomic dysregulation—and should I worry?
 
 Cross legged blood pressure autonomic dysregulation refers to abnormal blood pressure responses specifically triggered or revealed by the cross-legged position—often pointing to early autonomic nervous system imbalance. It’s not an emergency, but it *is* a meaningful early sign, especially in adults 61+ with prediabetes or early diabetes. Think of it as helpful feedback—not a diagnosis.
 
-#### #### Can cross legged blood pressure autonomic dysregulation be reversed?
+#### Can cross legged blood pressure autonomic dysregulation be reversed?
 
 Often, yes—especially when caught early. Lifestyle strategies like paced breathing, consistent hydration, gradual movement, and meal timing adjustments support nervous system resilience. In clinical studies, 6–12 months of guided non-pharmacologic support led to measurable improvement in orthostatic stability for over 70% of adults with mild autonomic dysregulation.
 
-#### #### Is orthostatic hypotension the same as cross legged blood pressure autonomic dysregulation?
+#### Is orthostatic hypotension the same as cross legged blood pressure autonomic dysregulation?
 
 Not exactly. Orthostatic hypotension (a ≥20 mm Hg systolic drop on standing) is *one possible manifestation*—but cross legged blood pressure autonomic dysregulation includes a broader pattern: exaggerated BP swings *during* cross-legged sitting, abnormal Valsalva responses, or paradoxical BP *rises* on standing. It reflects overall autonomic *lability*, not just low pressure.
 
-#### #### Do home blood pressure monitors detect cross legged blood pressure autonomic dysregulation?
+#### Do home blood pressure monitors detect cross legged blood pressure autonomic dysregulation?
 
 Standard home monitors measure BP accurately—but they won’t *interpret* patterns across positions unless you do. To spot cross legged blood pressure autonomic dysregulation, you need to compare readings across seated, cross-legged, and standing postures *over several days*, noting trends—not just single values. Your clinician may use specialized testing (like tilt-table or beat-to-beat monitoring) for confirmation.

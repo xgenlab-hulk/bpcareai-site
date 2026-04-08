@@ -67,17 +67,17 @@ If you're unsure, talking to your doctor is always a good idea. And yes—*after
 
 ### FAQ
 
-#### #### Does afternoon sunlight gluconeogenesis type 2 diabetes benefit depend on skin color or vitamin D levels?  
+#### Does afternoon sunlight gluconeogenesis type 2 diabetes benefit depend on skin color or vitamin D levels?  
 No—this pathway relies on retinal melanopsin activation, not skin synthesis of vitamin D. People with darker skin tones experience the same neural signaling effect, though vitamin D production may differ. Clinical studies confirm unchanged serum 25(OH)D levels pre/post exposure while still observing reduced *PEPCK* expression.
 
-#### #### How does afternoon sunlight gluconeogenesis type 2 diabetes compare to morning light exposure for glucose control?  
+#### How does afternoon sunlight gluconeogenesis type 2 diabetes compare to morning light exposure for glucose control?  
 Morning light strongly resets circadian phase and boosts daytime alertness—but late-afternoon light uniquely targets *hepatic* gluconeogenic genes via SCN-liver autonomic pathways. In adults 60+, afternoon timing aligns better with age-related phase advances and cortisol rhythms.
 
-#### #### Can I use a light therapy lamp instead of natural sunlight for afternoon sunlight gluconeogenesis type 2 diabetes effects?  
+#### Can I use a light therapy lamp instead of natural sunlight for afternoon sunlight gluconeogenesis type 2 diabetes effects?  
 Yes—if it emits ≥200 lux of blue-enriched white light (460–490 nm peak) and is used without glasses at ~2 feet distance for 20 minutes between 3:30–5:00 p.m. But natural daylight remains preferred: its dynamic spectrum and intensity variations provide richer circadian input.
 
-#### #### Is there a risk of eye damage from daily afternoon light exposure?  
+#### Is there a risk of eye damage from daily afternoon light exposure?  
 No—when done safely (not staring directly at the sun, avoiding magnified glare), 15–25 minutes of ambient afternoon daylight poses no retinal risk. Melanopsin activation occurs at everyday light levels (~100–1000 lux), far below thresholds for photochemical injury.
 
-#### #### Does this approach replace diabetes medications or dietary changes?  
+#### Does this approach replace diabetes medications or dietary changes?  
 Absolutely not. It’s a complementary, non-pharmacologic rhythm-support strategy—like prioritizing sleep or consistent mealtimes. Always continue prescribed treatments and discuss integrative approaches with your care team.

@@ -51,22 +51,22 @@ In summary, late-afternoon snacking ghrelin patterns are not trivial—they refl
 
 ### FAQ
 
-#### #### Does late afternoon snacking ghrelin sarcopenic obesity worsen blood pressure?
+#### Does late afternoon snacking ghrelin sarcopenic obesity worsen blood pressure?
 
 Yes—especially when combined with high-sodium snacks. Flattened ghrelin rhythms correlate with sympathetic nervous system overactivity, contributing to evening BP elevation. In one cohort, adults with sarcopenic obesity who snacked late had an average 8 mm Hg higher evening systolic BP than non-snackers.
 
-#### #### Can late afternoon snacking ghrelin affect muscle maintenance in older adults?
+#### Can late afternoon snacking ghrelin affect muscle maintenance in older adults?
 
 Absolutely. Ghrelin stimulates growth hormone release and supports myocyte repair. Chronic suppression during its natural peak impairs muscle protein synthesis—particularly critical when lean mass is already declining.
 
-#### #### Is there a “safe” window for snacks before dinner in sarcopenic obesity?
+#### Is there a “safe” window for snacks before dinner in sarcopenic obesity?
 
 Yes: aim for 1–1.5 hours *before* your planned dinner start time—not during the 3:30–4:30 PM ghrelin peak. For example, if dinner is at 6:00 PM, a 4:30 PM protein-rich snack aligns better with circadian physiology.
 
-#### #### How does family dining culture impact late afternoon snacking ghrelin rhythms?
+#### How does family dining culture impact late afternoon snacking ghrelin rhythms?
 
 Shared meals often delay dinner timing—pushing the main meal later (e.g., 7:00 PM), which compresses the pre-dinner fasting window. Without conscious adjustment, this increases the likelihood of compensatory late-afternoon snacking, amplifying ghrelin-leptin disruption.
 
-#### #### Are there foods that support healthy eating during family gatherings without triggering ghrelin imbalance?
+#### Are there foods that support healthy eating during family gatherings without triggering ghrelin imbalance?
 
 Yes—prioritize whole-food proteins (Greek yogurt, lentils, smoked salmon), fiber-rich vegetables (roasted beets, steamed broccoli), and unsalted nuts. Avoid refined carbs and liquid calories (soda, juice), which cause rapid ghrelin rebound and leptin resistance.

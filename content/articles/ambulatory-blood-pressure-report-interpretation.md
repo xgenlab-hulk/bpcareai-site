@@ -72,17 +72,17 @@ If you're unsure, talking to your doctor is always a good idea. And remember: **
 
 ### FAQ
 
-#### #### What does "non-dipping" mean on my ambulatory blood pressure report?
+#### What does "non-dipping" mean on my ambulatory blood pressure report?
 Non-dipping means your blood pressure doesn’t fall by at least 10% during sleep compared to your daytime average. It’s common after age 65 and linked to increased cardiovascular risk—but often improves with lifestyle tweaks or adjusted medication timing.
 
-#### #### How do I understand my ambulatory blood pressure report interpretation if I’m over 65?
+#### How do I understand my ambulatory blood pressure report interpretation if I’m over 65?
 Focus first on three things: your nighttime vs. daytime averages (to check dipping), the rise between your lowest nighttime reading and highest morning reading (morning surge), and any consistent drops or spikes after meals. Your doctor can help translate these into personalized next steps.
 
-#### #### Can ambulatory blood pressure report interpretation detect masked hypertension?
+#### Can ambulatory blood pressure report interpretation detect masked hypertension?
 Yes—absolutely. Masked hypertension occurs when office readings appear normal, but ABPM shows elevated BP during daily life (e.g., at work or during stress). It’s estimated to affect 10–15% of adults over 60 and is linked to higher stroke risk than sustained hypertension in some studies.
 
-#### #### Why does my blood pressure go up after eating?
+#### Why does my blood pressure go up after eating?
 This is called postprandial hypertension—and while less common than postprandial *hypotension*, it can happen due to sympathetic nervous system activation, high-sodium meals, or underlying arterial stiffness. Discuss timing and content of meals with your care team if spikes exceed 20 mm Hg regularly.
 
-#### #### Is ambulatory blood pressure monitoring safe for older adults with mobility or memory challenges?
+#### Is ambulatory blood pressure monitoring safe for older adults with mobility or memory challenges?
 Yes—ABPM is non-invasive, uses a standard cuff, and requires minimal effort from the person wearing it. Most devices are lightweight and programmable. Caregivers can assist with setup, and many clinics provide clear instructions tailored for older adults.

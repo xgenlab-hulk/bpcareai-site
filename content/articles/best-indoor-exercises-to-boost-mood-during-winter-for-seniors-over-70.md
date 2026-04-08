@@ -75,22 +75,22 @@ Winter doesn’t have to mean waiting for spring to feel like yourself again. Sm
 
 ### FAQ
 
-#### #### What are the best indoor exercises for seasonal depression for seniors over 70?
+#### What are the best indoor exercises for seasonal depression for seniors over 70?
 
 The most effective indoor exercises for seasonal depression for seniors over 70 are gentle, rhythmic, and low-impact—like seated sun salutations, heel-to-toe rocking, tai chi for balance, and kitchen counter marching. These activities improve circulation, support nervous system regulation, and require no special equipment. Aim for 10–15 minutes most days, ideally in natural light.
 
-#### #### Can indoor exercises for seasonal depression really improve mood in older adults?
+#### Can indoor exercises for seasonal depression really improve mood in older adults?
 
 Yes—multiple studies confirm it. A 2023 review in *Aging & Mental Health* found that older adults who engaged in regular, low-intensity indoor movement (even seated) showed measurable improvements in mood scores within three weeks. The key is consistency—not intensity—because movement supports serotonin production, sleep regulation, and social connection—even when done solo at home.
 
-#### #### How often should seniors do indoor exercises for seasonal depression?
+#### How often should seniors do indoor exercises for seasonal depression?
 
 Most experts recommend aiming for movement most days—ideally 10 to 20 minutes per session, broken into smaller chunks if needed (e.g., two 5-minute sessions). What matters most is regularity: doing something gentle three to five times a week provides stronger mood-supporting benefits than one longer session weekly.
 
-#### #### Is it safe to do indoor exercises for seasonal depression if I have high blood pressure?
+#### Is it safe to do indoor exercises for seasonal depression if I have high blood pressure?
 
 Yes—when done mindfully and with proper pacing. Low-impact indoor exercises actually help regulate arterial pressure over time by improving vascular elasticity and reducing stress-related spikes. Avoid holding your breath or straining, and stop if you feel dizzy, short of breath, or experience chest discomfort. Always consult your doctor before beginning a new routine—especially if your BP readings regularly exceed 140/90 mm Hg.
 
-#### #### Do I need special equipment for indoor exercises for seasonal depression?
+#### Do I need special equipment for indoor exercises for seasonal depression?
 
 No. All the recommended activities can be done with everyday household items—a sturdy chair, countertop, or wall for light support. Comfortable clothing and supportive footwear (or bare feet on a non-slip surface) are all you need. The focus is on safety, ease, and joyful repetition—not gear or performance.

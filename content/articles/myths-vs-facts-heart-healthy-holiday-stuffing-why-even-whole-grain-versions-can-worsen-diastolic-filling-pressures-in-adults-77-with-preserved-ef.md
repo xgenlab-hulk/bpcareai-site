@@ -69,17 +69,17 @@ Holiday traditions are woven with love—and your care for your heart is part of
 
 ### FAQ
 
-#### #### Is whole-grain stuffing really bad for seniors with high blood pressure?  
+#### Is whole-grain stuffing really bad for seniors with high blood pressure?  
 Not inherently—but its high fiber *and* osmolarity can cause rapid fluid shifts, briefly increasing left atrial pressure. This may affect diastolic relaxation more than systolic BP. Focus on texture and pacing over grain type alone.
 
-#### #### What are the top heart-healthy stuffing myths seniors believe?  
+#### What are the top heart-healthy stuffing myths seniors believe?  
 Common ones include: “More fiber always helps the heart,” “Low sodium means no heart strain,” and “If my EF is preserved, my diastolic function is fine.” Each overlooks how aging affects filling dynamics—even with strong pumping action.
 
-#### #### Can healthy holiday eating for seniors include stuffing at all?  
+#### Can healthy holiday eating for seniors include stuffing at all?  
 Yes—with thoughtful tweaks: reduce broth volume, soften grains, add herbs instead of salt, and serve smaller portions earlier in the meal. Many cardiologists encourage this balanced approach.
 
-#### #### Does stuffing raise blood pressure right after eating?  
+#### Does stuffing raise blood pressure right after eating?  
 It typically doesn’t cause acute spikes in systolic/diastolic BP (e.g., >140/90 mm Hg), but it *can* elevate left atrial filling pressures transiently—something standard BP cuffs won’t capture. That’s why how you *feel* matters just as much.
 
-#### #### Are there heart-healthy stuffing recipes specifically for older adults?  
+#### Are there heart-healthy stuffing recipes specifically for older adults?  
 Yes—look for versions emphasizing gentle digestion: moist (not dry), minimally seasoned, and served at moderate temperature. Recipes focused on “diastolic-friendly” or “senior heart-smart” holiday sides are increasingly available through trusted cardiac rehab programs and geriatric nutrition resources.

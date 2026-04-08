@@ -56,22 +56,22 @@ In short, vitamin D3 for seasonal depression with kidney disease *can* be part o
 
 ### FAQ
 
-#### #### Can vitamin D3 for seasonal depression with kidney disease cause high calcium?
+#### Can vitamin D3 for seasonal depression with kidney disease cause high calcium?
 
 Yes — especially at high doses or without monitoring. In stage 3 CKD, excess D3 can raise calcium absorption, potentially leading to hypercalcemia (serum calcium >10.2 mg/dL). Symptoms include fatigue, confusion, and nausea. Regular blood tests are essential.
 
-#### #### Is it safe to take vitamin D3 for seasonal depression with kidney disease if I’m on phosphate binders?
+#### Is it safe to take vitamin D3 for seasonal depression with kidney disease if I’m on phosphate binders?
 
 Generally yes — but timing matters. Take D3 at least 2 hours apart from calcium-based or iron-based binders (like sucroferric oxyhydroxide), which can reduce D3 absorption. Always confirm spacing with your pharmacist.
 
-#### #### Does vitamin D3 help with seasonal depression in older adults with CKD?
+#### Does vitamin D3 help with seasonal depression in older adults with CKD?
 
 Some studies suggest mild mood support *if deficiency is present*, but evidence is limited and mixed for stage 3 CKD specifically. It’s not a substitute for proven therapies like light therapy or counseling — and never a standalone treatment for clinical depression.
 
-#### #### Can vitamin D3 interact with my active vitamin D medication?
+#### Can vitamin D3 interact with my active vitamin D medication?
 
 Yes — absolutely. Taking oral D3 alongside calcitriol or paricalcitol increases the risk of hypercalcemia and hyperphosphatemia. These combinations require close supervision and frequent lab checks.
 
-#### #### How often should I get my vitamin D level checked if I have stage 3 CKD?
+#### How often should I get my vitamin D level checked if I have stage 3 CKD?
 
 Most nephrologists recommend checking 25-hydroxyvitamin D every 6–12 months — or sooner if starting supplementation, changing dose, or noticing symptoms like weakness or bone pain.

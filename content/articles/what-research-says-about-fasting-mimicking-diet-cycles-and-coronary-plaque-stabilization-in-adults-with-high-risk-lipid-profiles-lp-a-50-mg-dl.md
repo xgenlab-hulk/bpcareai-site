@@ -95,22 +95,22 @@ Heart health after 50 isn’t about perfection—it’s about thoughtful, sustai
 
 ### FAQ
 
-#### #### Can the fasting mimicking diet and plaque stability be supported by real-world evidence?
+#### Can the fasting mimicking diet and plaque stability be supported by real-world evidence?
 
 Yes—the FMD-PLAQUE trial (2023) provided the first direct human evidence using advanced imaging. Adults with Lp(a) > 50 mg/dL who completed three 5-day cycles showed measurable reductions in plaque lipid core volume and arterial inflammation—suggesting improved structural stability.
 
-#### #### How often should someone do a fasting mimicking diet for plaque stability?
+#### How often should someone do a fasting mimicking diet for plaque stability?
 
 In the FMD-PLAQUE study, participants followed three 5-day cycles spaced approximately three months apart—totaling about nine months. This schedule balances biological impact with sustainability. More frequent use hasn’t been studied for safety or efficacy in this population.
 
-#### #### Does the fasting mimicking diet lower Lp(a) directly?
+#### Does the fasting mimicking diet lower Lp(a) directly?
 
 No—current evidence does not show that the fasting mimicking diet significantly reduces Lp(a) blood levels. Its observed benefits relate instead to downstream effects: reducing plaque inflammation, shrinking lipid cores, and lowering markers like S100A12. Lp(a) remains largely genetically determined and unaffected by most lifestyle interventions.
 
-#### #### Is the fasting mimicking diet safe for people over 65?
+#### Is the fasting mimicking diet safe for people over 65?
 
 In the FMD-PLAQUE trial, adults up to age 75 participated safely—with high adherence and no serious adverse events. That said, older adults should consult their physician before starting, particularly if managing diabetes, taking diuretics or blood pressure medications, or experiencing frailty.
 
-#### #### What’s the difference between intermittent fasting and the fasting mimicking diet for heart health?
+#### What’s the difference between intermittent fasting and the fasting mimicking diet for heart health?
 
 Intermittent fasting (e.g., 16:8) focuses on timing—restricting eating to a window each day. The fasting mimicking diet is a *specific 5-day pattern* of reduced calories (≈750–1100 kcal/day), low protein, and high healthy fats, designed to trigger cellular repair pathways without full fasting. For plaque stability, the structured, periodic nature of the fasting mimicking diet appears more consistently associated with anti-inflammatory and regenerative effects in current studies.

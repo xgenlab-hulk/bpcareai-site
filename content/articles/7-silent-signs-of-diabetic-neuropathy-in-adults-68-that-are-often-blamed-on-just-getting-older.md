@@ -66,17 +66,17 @@ Diabetic neuropathy doesn’t have to mean inevitable decline. With thoughtful, 
 
 ### FAQ  
 
-#### #### What are the silent signs diabetic neuropathy elderly people commonly miss?  
+#### What are the silent signs diabetic neuropathy elderly people commonly miss?  
 The most overlooked include mild balance shifts when standing, persistent “cold feet” without temperature change, unexplained dry/cracked skin on soles, subtle hand clumsiness, and digestive quirks like bloating after small meals — all easily blamed on aging.
 
-#### #### Can silent signs diabetic neuropathy elderly appear even with “good” A1c numbers?  
+#### Can silent signs diabetic neuropathy elderly appear even with “good” A1c numbers?  
 Yes. An A1c of 6.8–7.2% may seem acceptable, but if blood sugar spikes after meals (e.g., >180 mg/dL regularly), nerves still experience damage. Post-meal glucose and time-in-range matter just as much — sometimes more.
 
-#### #### Is tingling in toes always a sign of diabetic neuropathy in seniors?  
+#### Is tingling in toes always a sign of diabetic neuropathy in seniors?  
 Not always — but in someone with diabetes, it’s never “just stress” or “poor circulation.” Tingling, even if intermittent, warrants evaluation. Other causes (like B12 deficiency or spinal stenosis) should be ruled out *alongside* neuropathy screening.
 
-#### #### How often should adults 68+ with diabetes get a formal neuropathy check?  
+#### How often should adults 68+ with diabetes get a formal neuropathy check?  
 At least once a year — including foot sensation testing and reflex checks. If you notice any new subtle symptoms, ask for an earlier assessment.
 
-#### #### Does high blood pressure make silent signs diabetic neuropathy worse?  
+#### Does high blood pressure make silent signs diabetic neuropathy worse?  
 Yes. Hypertension (especially uncontrolled BP >140/90 mm Hg) compounds vascular damage, reducing blood flow to nerves. Managing both diabetes *and* BP is key for nerve health.

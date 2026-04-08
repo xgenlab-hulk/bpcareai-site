@@ -87,17 +87,17 @@ Understanding **late-night snacking hepatic gluconeogenesis** isn’t about addi
 
 ### FAQ
 
-#### #### Does late-night snacking hepatic gluconeogenesis happen to everyone—or only people with diabetes?
+#### Does late-night snacking hepatic gluconeogenesis happen to everyone—or only people with diabetes?
 It happens in *all* adults to some degree—but the magnitude is significantly greater in those with insulin resistance, prediabetes, or type 2 diabetes. Healthy young adults may show minimal gene-expression changes, while adults 50+ with metabolic vulnerability often display clear upregulation of FOXO1, PCK1, and G6PC after midnight eating.
 
-#### #### Can changing meal timing reverse late-night snacking hepatic gluconeogenesis effects?
+#### Can changing meal timing reverse late-night snacking hepatic gluconeogenesis effects?
 Yes—studies show that shifting the last meal to before 8 p.m. for just 2–3 weeks leads to measurable downregulation of gluconeogenic genes and improved overnight glucose stability. The liver’s transcriptome remains highly responsive to behavioral cues, even later in life.
 
-#### #### How does late-night snacking hepatic gluconeogenesis relate to blood pressure?
+#### How does late-night snacking hepatic gluconeogenesis relate to blood pressure?
 There’s a well-documented link between nocturnal hyperglycemia and sympathetic nervous system activation—which can elevate arterial pressure overnight. Adults with insulin resistance who eat late often show higher 24-hour systolic BP (+5–8 mm Hg on average) and reduced nocturnal dipping, increasing cardiovascular risk over time.
 
-#### #### Is it okay to have a small snack after dinner during the holidays—if I’m careful about carbs?
+#### Is it okay to have a small snack after dinner during the holidays—if I’m careful about carbs?
 Yes—with nuance. A 100–150 kcal snack rich in protein and healthy fat (e.g., cottage cheese + berries, turkey roll-ups) consumed *by 8:30 p.m.* typically avoids significant gluconeogenic activation. The issue isn’t the snack itself—it’s the combination of late timing, high refined carbs, and circadian misalignment.
 
-#### #### What’s the difference between gluconeogenesis and glycogenolysis—and why does timing affect one more than the other?
+#### What’s the difference between gluconeogenesis and glycogenolysis—and why does timing affect one more than the other?
 Glycogenolysis breaks down stored liver glycogen (fast-acting, short-term), while gluconeogenesis builds *new* glucose from scratch (slower, requires gene activation). Late-night eating doesn’t just tap into reserves—it triggers transcriptional programs (via FOXO1) that ramp up *de novo* glucose synthesis. That’s why timing affects gluconeogenesis more profoundly: it’s a regulated, energy-intensive process—not just a reflex.

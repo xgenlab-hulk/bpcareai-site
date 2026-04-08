@@ -91,22 +91,22 @@ The discovery that something as simple as daily cold water face immersion may he
 
 ### FAQ
 
-#### #### Does cold water face immersion insulin secretion work for people over 60?
+#### Does cold water face immersion insulin secretion work for people over 60?
 
 Yes—current pilot data specifically includes adults aged 58–65, with measurable improvements in acute insulin response after eight weeks. Ongoing trials are expanding to ages 65–75, with preliminary results suggesting similar, though slightly attenuated, effects.
 
-#### #### How does cold water face immersion improve insulin secretion?
+#### How does cold water face immersion improve insulin secretion?
 
 It activates the trigeminal nerve, stimulating the vagus nerve and increasing parasympathetic signaling to pancreatic beta-cells. This enhances their sensitivity to glucose and boosts the speed and magnitude of first-phase insulin release—distinct from later-phase, sustained secretion.
 
-#### #### Can cold water face immersion replace metformin for prediabetes?
+#### Can cold water face immersion replace metformin for prediabetes?
 
 No. Cold water face immersion insulin secretion is a supportive, non-pharmacologic strategy—not a substitute for prescribed medication. It may complement therapies like metformin, lifestyle counseling, or GLP-1 receptor agonists, but decisions about medication should always be made with your healthcare provider.
 
-#### #### Is there a specific water temperature recommended for cold water face immersion insulin secretion?
+#### Is there a specific water temperature recommended for cold water face immersion insulin secretion?
 
 Research protocols use 14–16°C (57–61°F). Water colder than 10°C may trigger excessive sympathetic activation (increased blood pressure, anxiety), while warmer than 18°C tends to diminish the trigeminal-vagal response. A kitchen thermometer helps ensure consistency.
 
-#### #### Are there alternatives to cold water face immersion for improving vagal tone and insulin response?
+#### Are there alternatives to cold water face immersion for improving vagal tone and insulin response?
 
 Yes—slow-paced breathing (5–6 breaths/minute), humming or singing, mild aerobic activity (brisk walking), and mindful eating all support vagal function. However, cold water face immersion produces one of the most rapid and reproducible vagal activations documented in controlled settings—making it uniquely suited for targeted metabolic support.

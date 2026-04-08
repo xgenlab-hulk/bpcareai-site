@@ -65,17 +65,17 @@ In short, your smartwatch is a helpful companion—not a clinician. It shines br
 
 ### FAQ
 
-#### #### Can smartwatches accurately measure blood pressure for seniors with atrial fibrillation?  
+#### Can smartwatches accurately measure blood pressure for seniors with atrial fibrillation?  
 Not consistently. Due to irregular pulse patterns and signal interference, smartwatch blood pressure accuracy seniors afib remains limited. Clinical guidelines still recommend upper-arm cuffs for diagnosis and management.
 
-#### #### Do wrist edema or swelling affect smartwatch BP readings?  
+#### Do wrist edema or swelling affect smartwatch BP readings?  
 Yes—edema alters tissue density and pulse wave transmission, often causing underestimation of systolic pressure. Even mild swelling can shift readings by 8–12 mm Hg.
 
-#### #### How often should I calibrate my smartwatch BP readings against an arm cuff?  
+#### How often should I calibrate my smartwatch BP readings against an arm cuff?  
 Every 2–4 weeks—or whenever you notice persistent differences (>10 mm Hg) or changes in wrist appearance or medication.
 
-#### #### Are there any FDA-approved smartwatches for blood pressure monitoring in older adults?  
+#### Are there any FDA-approved smartwatches for blood pressure monitoring in older adults?  
 A few models have FDA clearance *for general wellness use*, but none are cleared for *diagnostic or treatment decisions* in patients with Afib or hypertension—especially those over 76.
 
-#### #### Is smartwatch blood pressure accuracy seniors afib improving with newer models?  
+#### Is smartwatch blood pressure accuracy seniors afib improving with newer models?  
 Yes—some 2024–2025 models integrate multi-sensor fusion (PPG + accelerometer + temperature) and AI-driven rhythm-aware algorithms. But real-world validation in frail, edematous, arrhythmic seniors remains limited. If you're unsure, talking to your doctor is always a good idea.

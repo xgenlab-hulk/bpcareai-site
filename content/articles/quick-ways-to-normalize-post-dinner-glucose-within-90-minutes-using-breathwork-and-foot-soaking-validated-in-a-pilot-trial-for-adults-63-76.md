@@ -56,17 +56,17 @@ The holidays are meant to be joyful—not stressful about numbers. Small, kind h
 
 ### FAQ
 
-#### #### Can quick post-dinner glucose normalization really happen without exercise?
+#### Can quick post-dinner glucose normalization really happen without exercise?
 Yes—especially for adults over 60. The pilot trial showed that paced breathing plus foot soaking supported glucose return toward baseline within 90 minutes, likely by enhancing vagal tone and passive muscle glucose uptake—no walking or exertion required.
 
-#### #### Is quick post-dinner glucose normalization safe during Christmas and New Year feasting?
+#### Is quick post-dinner glucose normalization safe during Christmas and New Year feasting?
 Absolutely. In fact, it’s especially helpful during holiday seasons when meals tend to be larger, richer, and later. These gentle tools fit easily into festive evenings—and may even deepen your sense of presence and enjoyment.
 
-#### #### How soon after dinner should I start the breathing + foot soak routine?
+#### How soon after dinner should I start the breathing + foot soak routine?
 Begin the 4-7-8 breathing *as soon as you finish eating*, ideally before standing up from the table. Start foot soaking within 10–15 minutes after—timing matters, as the combined effect is strongest when initiated early in the postprandial window.
 
-#### #### Does foot temperature matter for quick post-dinner glucose normalization?
+#### Does foot temperature matter for quick post-dinner glucose normalization?
 Yes—water should be comfortably warm (95–100°F), not hot. Excess heat can trigger stress responses or pose risks if you have reduced sensation. Warmth promotes gentle vasodilation and relaxation without strain.
 
-#### #### Can I use this for managing blood sugar during Christmas and New Year if I’m on metformin or insulin?
+#### Can I use this for managing blood sugar during Christmas and New Year if I’m on metformin or insulin?
 Yes—this protocol is complementary, not a replacement. Always follow your prescribed treatment plan, and share any lifestyle changes with your prescribing clinician. They may adjust timing or dosing based on your observed patterns.

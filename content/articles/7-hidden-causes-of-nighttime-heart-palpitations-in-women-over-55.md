@@ -93,17 +93,17 @@ Remember: most cases of **nighttime heart palpitations women over 55** reflect m
 
 ### FAQ
 
-#### #### Why do I get heart palpitations only at night after menopause?  
+#### Why do I get heart palpitations only at night after menopause?  
 Hormonal shifts—especially declining estrogen and progesterone—alter autonomic nervous system balance, increase sensitivity to internal triggers (like acid reflux or minor oxygen dips), and disrupt sleep architecture. These changes converge at night, making palpitations more noticeable and frequent during perimenopause and early postmenopause.
 
-#### #### Are nighttime heart palpitations women over 55 a sign of heart disease?  
+#### Are nighttime heart palpitations women over 55 a sign of heart disease?  
 Not necessarily. While they *can* occur with conditions like atrial fibrillation or coronary artery disease, most nocturnal palpitations in this age group stem from reversible contributors—such as sleep apnea, electrolyte imbalances, or GERD. Evaluation helps rule out serious causes and identify treatable ones.
 
-#### #### Can low magnesium cause nighttime heart palpitations women over 55?  
+#### Can low magnesium cause nighttime heart palpitations women over 55?  
 Yes. Magnesium plays a key role in maintaining normal cardiac electrical activity. Postmenopausal women are at higher risk for deficiency due to reduced absorption and increased urinary loss. Supplementing with bioavailable forms (e.g., glycinate) often improves symptoms—especially when timed in the evening.
 
-#### #### What’s the difference between heart palpitations and arrhythmia?  
+#### What’s the difference between heart palpitations and arrhythmia?  
 Palpitations are the *sensation* of an irregular, rapid, or forceful heartbeat. An arrhythmia is an actual abnormal heart rhythm confirmed by ECG or monitor. You can feel palpitations without having a clinically significant arrhythmia—and vice versa. Context and confirmation matter.
 
-#### #### Do nighttime heart palpitations women over 55 go away on their own?  
+#### Do nighttime heart palpitations women over 55 go away on their own?  
 Many do—especially when linked to transient hormonal shifts or modifiable habits like sleep position or meal timing. However, persistent or worsening episodes should be evaluated, as they may indicate underlying conditions that benefit from early, targeted support. If you're unsure, talking to your doctor is always a good idea.

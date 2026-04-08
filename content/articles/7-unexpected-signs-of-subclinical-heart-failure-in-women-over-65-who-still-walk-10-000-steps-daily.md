@@ -79,17 +79,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What are the earliest subclinical heart failure signs in women over 65?
+#### What are the earliest subclinical heart failure signs in women over 65?
 The earliest signs often include nocturnal polyuria (waking ≥2x/night to urinate), persistent orthostatic tachycardia (heart rate rising >25 bpm within 3 minutes of standing), diminished thermal sweating during light-to-moderate activity, unexplained fatigue despite adequate sleep, subtle cognitive “fogginess” in the morning, new intolerance to heat or cold, and mild, intermittent ankle fullness that resolves by morning. These may occur *before* any echo-confirmed diastolic dysfunction.
 
-#### #### Are subclinical heart failure signs women over 65 different from men’s?
+#### Are subclinical heart failure signs women over 65 different from men’s?
 Yes—significantly. Women are more likely to develop diastolic (stiff-heart) failure rather than systolic (weak-pump) failure. Their early signs tend to be subtler and non-respiratory: more fatigue, sleep disruption, and autonomic symptoms (like orthostatic tachycardia or temperature dysregulation) versus classic male-predominant signs like orthopnea or paroxysmal nocturnal dyspnea.
 
-#### #### Can you have subclinical heart failure signs women over 65 and still have normal blood pressure?
+#### Can you have subclinical heart failure signs women over 65 and still have normal blood pressure?
 Absolutely. Up to 40% of older women with early diastolic dysfunction have “normal” office BP (e.g., <130/80 mm Hg). Arterial stiffness and impaired ventricular relaxation affect filling dynamics—not just pressure. That’s why BP alone isn’t enough; heart rate variability, orthostatic response, and symptom patterns matter just as much.
 
-#### #### Does walking 10,000 steps daily prevent subclinical heart failure?
+#### Does walking 10,000 steps daily prevent subclinical heart failure?
 Regular walking supports vascular health and helps manage weight and BP—but it doesn’t fully offset age-related myocardial stiffening or hormonal changes affecting diastolic function. Activity remains vital, but it’s one piece of the puzzle. Monitoring *how* your body responds to movement (not just how far you walk) is equally important.
 
-#### #### What tests confirm subclinical heart failure in older women?
+#### What tests confirm subclinical heart failure in older women?
 An echocardiogram with Doppler imaging is the gold standard for detecting diastolic dysfunction (e.g., E/e’ ratio >14, prolonged deceleration time). Blood tests like NT-proBNP may be elevated (>125 pg/mL in women >75), though levels vary. Your doctor may also recommend a 24-hour ambulatory BP or heart rate monitor to capture orthostatic and nocturnal patterns.

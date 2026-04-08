@@ -48,17 +48,17 @@ In summary, *holiday heart syndrome men* is a preventable, age- and gender-influ
 
 ### FAQ
 
-#### #### What is holiday heart syndrome in men over 60?  
+#### What is holiday heart syndrome in men over 60?  
 Holiday heart syndrome in men over 60 refers to acute, often alcohol-triggered arrhythmias—most commonly atrial fibrillation—that occur during or after periods of holiday-related overindulgence. Age-related changes in heart structure and autonomic regulation make older men especially vulnerable, even with moderate alcohol intake.
 
-#### #### Can holiday heart syndrome men happen without heavy drinking?  
+#### Can holiday heart syndrome men happen without heavy drinking?  
 Yes. Research shows that *holiday heart syndrome men* can occur after as few as two to three drinks per day over several consecutive days—no history of chronic alcohol use required. The aging heart’s reduced electrical resilience makes it sensitive to even transient metabolic and autonomic shifts.
 
-#### #### Is holiday heart syndrome men reversible?  
+#### Is holiday heart syndrome men reversible?  
 In most cases, yes—especially when identified early and triggers (like alcohol or excess sodium) are removed. Many men revert to normal sinus rhythm within 24–48 hours of cessation. However, recurrent episodes increase long-term stroke and heart failure risk, making prevention essential.
 
-#### #### How is holiday heart syndrome different from regular atrial fibrillation?  
+#### How is holiday heart syndrome different from regular atrial fibrillation?  
 Holiday heart syndrome typically presents as *paroxysmal* (self-terminating) atrial fibrillation linked to acute, reversible triggers—especially alcohol. In contrast, persistent or permanent AFib often involves structural heart disease, longer duration, and less spontaneous resolution.
 
-#### #### Does holiday heart syndrome affect women the same way?  
+#### Does holiday heart syndrome affect women the same way?  
 No. While women can experience similar arrhythmias, *holiday heart syndrome men* reflects a documented sex disparity: men account for ~70% of reported cases, likely due to differences in alcohol metabolism, hormonal cardioprotection in premenopausal women, and higher baseline prevalence of subclinical atrial remodeling in aging males.

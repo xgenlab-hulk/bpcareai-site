@@ -72,22 +72,22 @@ A little planning goes a long way—and if you're unsure, talking to your doctor
 
 ### FAQ
 
-#### #### Can I skip my sulfonylurea pill if I’m eating less at holiday parties?
+#### Can I skip my sulfonylurea pill if I’m eating less at holiday parties?
 
 No—not without guidance from your doctor. Sulfonylureas keep working long after your last bite. Skipping increases the chance of rebound highs *and* unexpected lows later in the day or overnight.
 
-#### #### What are the most common holiday medication holiday myths facts people believe?
+#### What are the most common holiday medication holiday myths facts people believe?
 
 Common ones include: “Less food = no need for meds,” “My sugar will be fine if I walk more,” or “I’ll just check once and skip if it looks okay.” None account for how sulfonylureas act on your aging pancreas—or how kidney function affects drug clearance.
 
-#### #### Is it safer to take my sulfonylurea only with meals during the holidays?
+#### Is it safer to take my sulfonylurea only with meals during the holidays?
 
 Not necessarily. Some sulfonylureas (like glimepiride) are dosed once daily and designed for steady effect—not meal-by-meal coverage. Adjusting timing or frequency without medical input can increase hypoglycemia risk, especially in adults 66+.
 
-#### #### How does aging affect sulfonylurea safety?
+#### How does aging affect sulfonylurea safety?
 
 Kidney and liver function gradually decline after age 60, slowing how quickly your body clears these drugs. That means longer exposure, greater insulin stimulation, and higher hypoglycemia risk—even at usual doses.
 
-#### #### Are there safer diabetes meds for older adults during festive seasons?
+#### Are there safer diabetes meds for older adults during festive seasons?
 
 Yes—many providers now prefer newer options like DPP-4 inhibitors (e.g., sitagliptin) or basal insulin analogs with flatter action profiles. But switching isn’t about “better” or “worse”—it’s about matching treatment to *your* physiology, lifestyle, and goals. Always discuss changes with your care team.

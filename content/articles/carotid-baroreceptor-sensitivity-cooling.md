@@ -67,22 +67,22 @@ Improving your body’s natural BP regulation doesn’t require drastic changes�
 
 ### FAQ
 
-#### #### Does carotid baroreceptor sensitivity cooling work for people over 70?
+#### Does carotid baroreceptor sensitivity cooling work for people over 70?
 
 Current pilot data focuses on adults 60–68. While the underlying physiology remains relevant, safety and dosing haven’t been formally studied beyond age 68—so consult your provider before adapting the protocol.
 
-#### #### How does carotid baroreceptor sensitivity cooling differ from cold showers or ice packs?
+#### How does carotid baroreceptor sensitivity cooling differ from cold showers or ice packs?
 
 It’s much gentler and targeted. Cold showers trigger systemic stress responses; ice packs risk vasoconstriction or nerve irritation. This method uses *mild, localized cooling* (~15°C) for *exactly 2 minutes*, designed specifically to activate baroreceptor-associated cold receptors—not shock the system.
 
-#### #### Can I do carotid baroreceptor sensitivity cooling if I’m already on BP medication?
+#### Can I do carotid baroreceptor sensitivity cooling if I’m already on BP medication?
 
 Yes—many participants in pilot studies were on stable, low-dose antihypertensives (like ACE inhibitors or calcium channel blockers). However, never adjust or stop medications without guidance. Share your home practice with your prescribing clinician.
 
-#### #### Is jaw clenching safe for people with TMJ or dental work?
+#### Is jaw clenching safe for people with TMJ or dental work?
 
 Submaximal clenching—gentle contact without force—is usually well tolerated. If you have active TMJ pain, recent dental surgery, or loose implants, skip the jaw component and discuss alternatives (like paced breathing + cooling) with your dentist or physiotherapist.
 
-#### #### Do I need special equipment for carotid baroreceptor sensitivity cooling?
+#### Do I need special equipment for carotid baroreceptor sensitivity cooling?
 
 No. A clean cotton cloth, refrigerator, thermometer (optional), and timer are all you need. Avoid gel packs, frozen items, or anything that could cause skin injury or excessive vasoconstriction.

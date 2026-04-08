@@ -65,22 +65,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can low sodium holiday side dish swaps really improve my blood pressure?
+#### Can low sodium holiday side dish swaps really improve my blood pressure?
 
 Yes—consistent reduction in sodium intake (by ~1,000 mg/day) can lower systolic BP by an average of 5.6 mm Hg in adults over 50 with hypertension. The effect is most pronounced when combined with increased potassium from whole foods.
 
-#### #### What are the safest low sodium holiday side dish swaps for someone with kidney disease?
+#### What are the safest low sodium holiday side dish swaps for someone with kidney disease?
 
 Prioritize swaps low in both sodium *and* potassium—like unsalted pumpkin seeds (instead of salted sunflower seeds), cauliflower mash (instead of potato), or lemon-dill quinoa (instead of rice pilaf with broth). Always consult your nephrologist before increasing potassium-rich ingredients like tomatoes or bananas.
 
-#### #### Do low sodium holiday side dish swaps work for people taking blood pressure medication?
+#### Do low sodium holiday side dish swaps work for people taking blood pressure medication?
 
 Absolutely—and they’re encouraged. Many antihypertensives (e.g., ACE inhibitors, ARBs) work more effectively when sodium intake is controlled. However, avoid high-potassium swaps if you’re on potassium-sparing diuretics (e.g., spironolactone) unless cleared by your provider.
 
-#### #### How do I know if a packaged “low-sodium” product is truly safe for me?
+#### How do I know if a packaged “low-sodium” product is truly safe for me?
 
 Check the label: “low sodium” means ≤140 mg per serving, but also scan for hidden sodium sources like monosodium glutamate (MSG), sodium benzoate, or disodium phosphate. When in doubt, choose whole, unprocessed ingredients—you’ll have full control over what goes in.
 
-#### #### Are there easy low sodium holiday side dish swaps that don’t require cooking from scratch?
+#### Are there easy low sodium holiday side dish swaps that don’t require cooking from scratch?
 
 Yes! Try swapping store-bought stuffing mix (often 500+ mg/serving) for plain whole-grain bread cubes tossed with olive oil, sage, and onion powder—or use frozen unsalted green beans (steam in microwave) instead of canned versions (up to 350 mg/serving).

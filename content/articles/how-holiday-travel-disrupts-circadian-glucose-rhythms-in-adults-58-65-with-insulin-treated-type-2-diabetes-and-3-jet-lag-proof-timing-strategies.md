@@ -59,17 +59,17 @@ Managing *holiday travel circadian glucose rhythms insulin* challenges doesn’t
 
 ### FAQ
 
-#### #### How does holiday travel affect circadian glucose rhythms in people on insulin?
+#### How does holiday travel affect circadian glucose rhythms in people on insulin?
 Holiday travel disrupts the body’s internal clock, altering insulin sensitivity, glucagon release, and glucose production—especially in adults over 55. This can lead to higher fasting glucose, delayed post-meal peaks, or unexpected lows. The *holiday travel circadian glucose rhythms insulin* interaction is very real—and highly individual.
 
-#### #### What’s the best way to adjust insulin timing for holiday travel across time zones?
+#### What’s the best way to adjust insulin timing for holiday travel across time zones?
 Shift your rapid-acting insulin dosing to match *local* meal times—not home time. Reduce basal insulin by ~20% when traveling east and increase by ~15% when traveling west, then reassess after 24–48 hours using CGM or frequent fingersticks.
 
-#### #### Can road trips also disrupt holiday travel circadian glucose rhythms insulin?
+#### Can road trips also disrupt holiday travel circadian glucose rhythms insulin?
 Yes—especially with irregular sleep, skipped meals, and inconsistent daylight exposure. Even without time-zone changes, altered routines can delay melatonin onset and blunt insulin response, leading to wider glucose excursions.
 
-#### #### Should I check my blood pressure more often during holiday travel?
+#### Should I check my blood pressure more often during holiday travel?
 Yes. Stress, dehydration, and circadian shifts can temporarily raise systolic BP by 10–20 mm Hg. Checking twice daily (morning and evening) helps detect patterns—and supports safer diabetes management.
 
-#### #### Do older adults recover more slowly from circadian disruption?
+#### Do older adults recover more slowly from circadian disruption?
 Studies suggest yes: adults over 60 may take 2–3 extra days to fully re-entrain compared to younger adults, largely due to reduced amplitude in core clock gene expression (e.g., BMAL1, PER2) and slower melatonin clearance. That’s why gentle, gradual adjustment works best.

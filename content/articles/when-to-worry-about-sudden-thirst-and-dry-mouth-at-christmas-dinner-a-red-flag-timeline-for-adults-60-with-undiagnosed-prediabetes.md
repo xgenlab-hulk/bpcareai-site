@@ -75,17 +75,17 @@ You’re not too old to turn things around—and noticing **sudden thirst christ
 
 ### FAQ
 
-#### #### Is sudden thirst at Christmas dinner a sign of diabetes?
+#### Is sudden thirst at Christmas dinner a sign of diabetes?
 Yes—it *can be*, especially when paired with dry mouth, frequent urination, or fatigue in adults 60+. While not diagnostic on its own, it’s a recognized early red flag for rising blood sugar and warrants follow-up testing.
 
-#### #### What causes sudden thirst christmas dinner prediabetes in older adults?
+#### What causes sudden thirst christmas dinner prediabetes in older adults?
 High-carb, high-sodium holiday meals trigger rapid glucose spikes and osmotic diuresis—your body pulls water into urine to flush out excess sugar. Age-related declines in kidney function and thirst perception make this effect more noticeable—and more urgent to address.
 
-#### #### Can sudden thirst christmas dinner prediabetes go away on its own?
+#### Can sudden thirst christmas dinner prediabetes go away on its own?
 Not usually—without lifestyle changes. Prediabetes is progressive, but highly responsive to diet, movement, and weight management. About 58% of adults over 60 who adopt consistent healthy habits delay or prevent type 2 diabetes for at least 3 years.
 
-#### #### Why do I get dry mouth and thirst only after holiday meals—not other times?
+#### Why do I get dry mouth and thirst only after holiday meals—not other times?
 Holiday meals are uniquely high in refined carbs, added sugars, and sodium—all of which stress your glucose and fluid regulation systems. Your body may handle everyday meals fine, but the “load” of a festive dinner reveals underlying metabolic vulnerability.
 
-#### #### Does drinking more water fix sudden thirst christmas dinner prediabetes?
+#### Does drinking more water fix sudden thirst christmas dinner prediabetes?
 Hydration helps symptoms—but not the root cause. Drinking water won’t lower blood sugar or reverse insulin resistance. It *does* support kidney function and reduces strain, so keep sipping—but pair it with checking your glucose and talking to your care team.

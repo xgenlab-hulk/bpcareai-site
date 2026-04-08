@@ -76,17 +76,17 @@ Understanding **pseudohypertension peripheral artery disease** doesn’t mean yo
 
 ### FAQ
 
-#### #### What is pseudohypertension peripheral artery disease?
+#### What is pseudohypertension peripheral artery disease?
 Pseudohypertension peripheral artery disease refers to falsely elevated blood pressure readings caused by calcified, non-compressible brachial arteries in people with advanced PAD. The cuff cannot properly occlude the stiffened vessel, leading to inaccurate high values—even when true central pressure is normal.
 
-#### #### Can pseudohypertension peripheral artery disease cause harm?
+#### Can pseudohypertension peripheral artery disease cause harm?
 Yes—if undetected, it may lead to unnecessary antihypertensive therapy, increasing risks of hypotension, falls, or reduced limb perfusion. Conversely, it can mask true hypotension or normotension in someone who actually needs different cardiovascular management.
 
-#### #### How is pseudohypertension diagnosed in PAD patients?
+#### How is pseudohypertension diagnosed in PAD patients?
 Diagnosis involves clinical suspicion (e.g., non-palpable or “pipe-stem” brachial arteries), confirmation of arterial calcification via imaging, and corroborating BP measurements using alternative methods—such as radial tonometry or thigh-cuff oscillometry.
 
-#### #### Is pseudohypertension only found in elderly patients?
+#### Is pseudohypertension only found in elderly patients?
 While more common after age 65, pseudohypertension peripheral artery disease can occur in younger adults with aggressive calcification—especially those with end-stage kidney disease, diabetes, or genetic disorders affecting vascular mineral metabolism.
 
-#### #### Does arm-cuff blood pressure always work for people with PAD?
+#### Does arm-cuff blood pressure always work for people with PAD?
 No. In moderate-to-severe PAD with medial calcification, standard arm-cuff measurements frequently overestimate true arterial pressure. Clinicians should consider alternative techniques whenever brachial artery compressibility is uncertain.

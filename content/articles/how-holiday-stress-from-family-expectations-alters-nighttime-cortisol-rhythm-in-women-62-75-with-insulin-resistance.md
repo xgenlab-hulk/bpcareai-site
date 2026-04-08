@@ -62,22 +62,22 @@ If you're unsure, talking to your doctor is always a good idea. Understanding yo
 
 ### FAQ
 
-#### #### Does holiday stress really affect cortisol rhythm in older women?
+#### Does holiday stress really affect cortisol rhythm in older women?
 
 Yes—especially for women 62–75 with insulin resistance. Research shows emotional labor during December increases nocturnal cortisol by up to 300%, blunting its natural nighttime drop and contributing to elevated fasting glucose and fatigue.
 
-#### #### How does holiday stress cortisol rhythm insulin resistance impact blood sugar control?
+#### How does holiday stress cortisol rhythm insulin resistance impact blood sugar control?
 
 Blunted cortisol decline disrupts insulin sensitivity overnight, leading to higher fasting glucose (often 15–30 mg/dL higher), reduced fat oxidation, and increased visceral fat storage—even without changes in diet or activity.
 
-#### #### Can healthy holiday eating for seniors improve cortisol rhythm?
+#### Can healthy holiday eating for seniors improve cortisol rhythm?
 
 Absolutely. Prioritizing protein, fiber, and mindful pacing—not just avoiding sugar—helps stabilize glucose swings and lowers HPA axis activation. Consistent mealtimes also reinforce circadian cortisol timing.
 
-#### #### What’s the difference between normal holiday fatigue and cortisol-related exhaustion?
+#### What’s the difference between normal holiday fatigue and cortisol-related exhaustion?
 
 Normal fatigue lifts after rest. Cortisol-related exhaustion lingers: waking unrested, afternoon crashes despite napping, irritability that feels “wired but tired,” and glucose fluctuations that don’t respond to typical fixes.
 
-#### #### Is elevated BP during the holidays linked to cortisol rhythm changes?
+#### Is elevated BP during the holidays linked to cortisol rhythm changes?
 
 Yes—chronic cortisol elevation increases sympathetic tone and arterial stiffness. Many women see temporary BP rises (e.g., 135/85 → 148/92 mm Hg) during high-stress holiday weeks, especially if they already have prehypertension.

@@ -53,22 +53,22 @@ In short, holiday stress postprandial glucose GLP-1 RA interactions are real, ma
 
 ### FAQ
 
-#### #### Does holiday stress postprandial glucose GLP-1 RA affect blood pressure too?
+#### Does holiday stress postprandial glucose GLP-1 RA affect blood pressure too?
 
 Yes—stress-induced cortisol and sympathetic activation can raise both glucose and arterial pressure. Many older adults see a modest BP rise (e.g., +5–10 mm Hg systolic) alongside elevated post-meal glucose during high-stress periods. Monitoring both together offers a fuller picture of your body’s response.
 
-#### #### How do I know if my GLP-1 RA dose needs adjusting due to holiday stress postprandial glucose?
+#### How do I know if my GLP-1 RA dose needs adjusting due to holiday stress postprandial glucose?
 
 Dose changes should never be made independently. But if your 2-hour postprandial glucose consistently rises above 200 mg/dL for 3+ days *without dietary changes*, discuss timing or dosing with your provider—they may suggest temporary adjustments or add brief lifestyle support.
 
-#### #### Can delayed gastric emptying from GLP-1 RAs make holiday stress postprandial glucose harder to interpret?
+#### Can delayed gastric emptying from GLP-1 RAs make holiday stress postprandial glucose harder to interpret?
 
 Absolutely. GLP-1 RAs naturally slow digestion—so glucose peaks later (often 3 hours vs. 2). Combine that with stress-induced cortisol, and readings taken too early may miss the true peak. Try checking at both 2 *and* 3 hours during holidays to get a clearer view.
 
-#### #### Why do I feel tired after holiday meals even when my glucose is normal?
+#### Why do I feel tired after holiday meals even when my glucose is normal?
 
 Fatigue can stem from postprandial inflammation, vagal tone shifts, or even mild dehydration—not just glucose levels. In older adults, even modest increases in interleukin-6 (a stress-related cytokine) correlate with afternoon fatigue, independent of glycemia.
 
-#### #### Is pupil dilation really linked to holiday stress postprandial glucose?
+#### Is pupil dilation really linked to holiday stress postprandial glucose?
 
 Subtly, yes. Mild, sustained pupil dilation (especially in low light) can reflect heightened norepinephrine activity—part of the same stress cascade that raises glucose. It’s not diagnostic alone, but when paired with other signs (like cool hands or delayed satiety), it adds meaningful context.

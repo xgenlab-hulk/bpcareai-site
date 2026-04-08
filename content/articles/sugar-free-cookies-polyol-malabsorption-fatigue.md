@@ -50,17 +50,17 @@ In summary, enjoying holiday treats doesn’t require sacrificing comfort or met
 
 ### FAQ
 
-#### #### Are sugar-free cookies safe for seniors with diabetes?
+#### Are sugar-free cookies safe for seniors with diabetes?
 Many “sugar-free” cookies contain sugar alcohols that can cause gastrointestinal distress and secondary glucose instability in adults 60+. While they don’t spike blood sugar directly, osmotic effects and gut-brain signaling may contribute to postprandial fatigue and erratic readings—making them less ideal than whole-food alternatives.
 
-#### #### Can sugar-free cookies polyol malabsorption fatigue affect blood pressure?
+#### Can sugar-free cookies polyol malabsorption fatigue affect blood pressure?
 Yes—indirectly. Severe bloating and vagal stimulation from polyol fermentation can trigger transient drops in arterial pressure, especially in older adults with autonomic changes. Pairing polyol-rich foods with dehydration or medications (e.g., ACE inhibitors) increases risk.
 
-#### #### What are the worst sugar alcohols for seniors in sugar-free cookies polyol malabsorption fatigue?
+#### What are the worst sugar alcohols for seniors in sugar-free cookies polyol malabsorption fatigue?
 Maltitol and sorbitol are most poorly absorbed in aging intestines—often causing symptoms at doses as low as 5 g. Mannitol follows closely. Erythritol is better tolerated but may still contribute to fatigue when consumed in large amounts (>20 g per sitting) due to its unique renal excretion pathway.
 
-#### #### Do “net carb” claims on diabetic cookies account for polyol malabsorption?
+#### Do “net carb” claims on diabetic cookies account for polyol malabsorption?
 No. Net carbs subtract fiber and sugar alcohols from total carbs—but this assumes full non-absorption and zero metabolic impact. In reality, partial absorption and osmotic/gut-mediated effects mean net carb math doesn’t reflect physiological response—especially in adults 60+.
 
-#### #### Can sugar-free cookies polyol malabsorption fatigue be reversed?
+#### Can sugar-free cookies polyol malabsorption fatigue be reversed?
 Yes—symptoms typically resolve within 48–72 hours of eliminating high-polyol foods. Long-term improvement often follows dietary pattern shifts (e.g., lower-FODMAP approaches) and gut microbiome support. Most importantly, symptom relief is usually rapid once triggers are identified.

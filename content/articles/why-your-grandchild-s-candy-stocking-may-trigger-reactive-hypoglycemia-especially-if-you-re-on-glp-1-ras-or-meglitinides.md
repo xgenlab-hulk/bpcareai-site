@@ -60,17 +60,17 @@ Holiday blood sugar management doesn’t mean skipping joy—it means planning f
 
 ### FAQ
 
-#### #### Can candy stocking reactive hypoglycemia happen even if I don’t have diabetes?
+#### Can candy stocking reactive hypoglycemia happen even if I don’t have diabetes?
 Yes—though it’s less common. People with prediabetes, insulin resistance, or a history of bariatric surgery may experience similar reactive drops after high-sugar treats, especially during periods of stress or irregular eating.
 
-#### #### What’s the difference between candy stocking reactive hypoglycemia and regular low blood sugar?
+#### What’s the difference between candy stocking reactive hypoglycemia and regular low blood sugar?
 Candy stocking reactive hypoglycemia specifically refers to low blood sugar occurring 30–120 minutes *after* consuming concentrated sweets—especially when combined with certain diabetes meds. Regular (fasting) hypoglycemia typically occurs overnight or before meals and is often tied to insulin or sulfonylureas.
 
-#### #### How can I prevent candy stocking reactive hypoglycemia during Christmas and New Year?
+#### How can I prevent candy stocking reactive hypoglycemia during Christmas and New Year?
 Balance treats with protein/fiber, avoid eating candy on an empty stomach, time snacks carefully around medication doses, and check blood sugar before and after indulging. Planning ahead helps you enjoy the season *without* the crash.
 
-#### #### Does candy stocking reactive hypoglycemia affect blood pressure?
+#### Does candy stocking reactive hypoglycemia affect blood pressure?
 Not directly—but the body’s response to low blood sugar (like adrenaline surges) can temporarily raise heart rate and systolic BP. For those already managing hypertension, this adds another reason to prevent swings.
 
-#### #### Is candy stocking reactive hypoglycemia dangerous long-term?
+#### Is candy stocking reactive hypoglycemia dangerous long-term?
 Occasional episodes aren’t harmful, but frequent dips may increase fall risk (especially for older adults) and contribute to anxiety around food. Consistent patterns warrant a medication or meal-timing review with your clinician.

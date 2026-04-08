@@ -41,17 +41,17 @@ In short, supporting your body’s natural digestive rhythms doesn’t require d
 
 ### FAQ  
 
-#### #### Can chewing cinnamon gum really help seniors digest holiday starches better?  
+#### Can chewing cinnamon gum really help seniors digest holiday starches better?  
 Yes—clinical studies in adults aged 65–84 show that chewing sugar-free cinnamon gum for 3–5 minutes before meals increases salivary amylase activity by up to 31%. This supports early starch breakdown and may ease post-meal discomfort, especially for those with xerostomia.
 
-#### #### What’s the safest way for seniors with GERD to boost salivary amylase before holiday starches?  
+#### What’s the safest way for seniors with GERD to boost salivary amylase before holiday starches?  
 Lemon zest (not juice) and nasal breathing are especially well-tolerated. Both stimulate salivation without lowering oral or gastric pH—making them safer than acidic liquids or vigorous chewing for those with reflux. Always avoid mint-flavored gums if they trigger your GERD.
 
-#### #### Is salivary amylase holiday starches seniors something I should worry about every day—or just during holidays?  
+#### Is salivary amylase holiday starches seniors something I should worry about every day—or just during holidays?  
 It’s most noticeable around larger, starch-rich meals—like holiday gatherings—when digestive demand increases. Daily support (e.g., mindful breathing before meals, staying well-hydrated with room-temperature fluids) helps maintain baseline readiness year-round.
 
-#### #### Do medications for high blood pressure affect salivary amylase?  
+#### Do medications for high blood pressure affect salivary amylase?  
 Some antihypertensives—particularly diuretics and beta-blockers—can contribute to dry mouth and reduced salivary flow. While they don’t directly inhibit amylase, less saliva means less enzyme delivery. Discuss hydration and oral support strategies with your care team.
 
-#### #### Can I test my salivary amylase at home?  
+#### Can I test my salivary amylase at home?  
 There’s no consumer-grade home test, but you can observe functional signs: sweetness developing in starchy foods during chewing, ease of swallowing dry foods, and absence of lingering mouth dryness after sipping water. Consistent patterns matter more than one-time readings.

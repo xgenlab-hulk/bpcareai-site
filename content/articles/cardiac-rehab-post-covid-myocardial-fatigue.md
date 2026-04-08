@@ -93,17 +93,17 @@ Recovery isn’t linear—and especially after age 70, healing often asks for pa
 
 ### FAQ
 
-#### #### What does cardiac rehab post-covid myocardial fatigue feel like?
+#### What does cardiac rehab post-covid myocardial fatigue feel like?
 It often feels like unexplained exhaustion after light tasks—carrying laundry, standing in the kitchen, or even showering. You might notice slower recovery after walking, increased heart fluttering when rising, or a sense of “heaviness” behind the breastbone—not sharp pain, but a persistent dull awareness. Unlike typical deconditioning, rest alone doesn’t fully resolve it.
 
-#### #### How long does cardiac rehab post-covid myocardial fatigue last?
+#### How long does cardiac rehab post-covid myocardial fatigue last?
 Most adults over 70 see meaningful improvement within 10–16 weeks when following a phased, HRV-guided plan. Full functional recovery—returning to prior activity levels—can take 4–6 months. Progress varies based on baseline health, troponin magnitude, and consistency with pacing.
 
-#### #### Can cardiac rehab post-covid myocardial fatigue happen even without a positive COVID test?
+#### Can cardiac rehab post-covid myocardial fatigue happen even without a positive COVID test?
 Yes. Some individuals with suspected viral cardiomyopathy or long-term post-viral fatigue exhibit identical patterns—including troponin elevation and HRV suppression—even without confirmed SARS-CoV-2 testing. The clinical picture matters more than the test result.
 
-#### #### Is it safe to do strength training if I have cardiac rehab post-covid myocardial fatigue?
+#### Is it safe to do strength training if I have cardiac rehab post-covid myocardial fatigue?
 Yes—*when introduced gradually and isometrically first*. Heavy lifting or Valsalva-style straining is discouraged early on. Start with seated resistance bands or light handgrips, always stopping well before symptom onset. Your rehab team can tailor safe progression.
 
-#### #### Does high blood pressure make cardiac rehab post-covid myocardial fatigue worse?
+#### Does high blood pressure make cardiac rehab post-covid myocardial fatigue worse?
 Yes—uncontrolled hypertension (BP consistently ≥140/90 mm Hg) adds extra strain on the heart’s microvasculature and autonomic regulation. Optimizing BP—often with lifestyle tweaks and, if needed, adjusted medication—is a foundational part of recovery.

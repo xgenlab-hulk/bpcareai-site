@@ -81,22 +81,22 @@ Living well with type 2 diabetes and early Charcot neuroarthropathy is absolutel
 
 ### FAQ
 
-#### #### What is the best type of shoe for someone with charcot neuroarthropathy footwear seniors?
+#### What is the best type of shoe for someone with charcot neuroarthropathy footwear seniors?
 
 The best shoe depends on the stage and stability of your foot. For early, non-deformed Charcot, high-specification off-the-shelf diabetic shoes with a true rigid rocker sole and custom-molded insole often provide excellent protection. If midfoot instability or subtle collapse is present, custom rocker soles built into a therapeutic shoe offer superior pressure redistribution. Either way, podiatrist-prescribed fitting is essential—not just a sales consultation.
 
-#### #### Are custom rocker soles worth the cost for charcot neuroarthropathy footwear seniors?
+#### Are custom rocker soles worth the cost for charcot neuroarthropathy footwear seniors?
 
 Yes—for many, but not all. Over an 18-month period, custom rocker soles demonstrate greater durability and consistency in reducing midfoot pressure (28–34% PPP reduction vs. 18–22% for off-the-shelf), especially for those with evolving deformity. While initial costs are higher (~$400–$600 vs. $120–$250), long-term value includes fewer secondary ulcers, reduced need for immobilization, and sustained mobility—making them cost-effective for moderate-to-high-risk cases.
 
-#### #### Can regular diabetic shoes prevent Charcot progression in seniors?
+#### Can regular diabetic shoes prevent Charcot progression in seniors?
 
 Well-fitted, biomechanically appropriate diabetic shoes *can* help slow progression—particularly in early, stable Charcot—by lowering midfoot pressure and supporting natural gait. However, they are not a substitute for ongoing clinical monitoring. If imaging or exam reveals joint subluxation or bone resorption, more advanced interventions (including custom devices or temporary immobilization) become necessary.
 
-#### #### How often should I replace my charcot neuroarthropathy footwear seniors?
+#### How often should I replace my charcot neuroarthropathy footwear seniors?
 
 Most therapeutic footwear should be replaced every 6–9 months—or sooner if the sole shows uneven wear, the upper stretches out, or you notice new pressure points. Because skin and bone integrity decline with age and diabetes, even minor changes in shoe performance can increase tissue stress. Schedule a footwear review with your podiatrist at least twice yearly.
 
-#### #### Does Medicare cover charcot neuroarthropathy footwear seniors?
+#### Does Medicare cover charcot neuroarthropathy footwear seniors?
 
 Medicare Part B covers one pair of therapeutic shoes and up to three pairs of inserts annually for qualifying individuals with diabetes and certain foot conditions—including Charcot neuroarthropathy—when prescribed by a physician and fitted by a qualified pedorthist or podiatrist. Coverage requires documented medical necessity and adherence to CMS guidelines.

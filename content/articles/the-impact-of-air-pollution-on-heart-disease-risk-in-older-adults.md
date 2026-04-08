@@ -49,22 +49,22 @@ In closing, remember that air pollution and heart disease in seniors is a manage
 
 ### FAQ
 
-#### #### Does air pollution increase heart disease risk in older adults?
+#### Does air pollution increase heart disease risk in older adults?
 
 Yes—long-term exposure to pollutants like PM2.5 and NO₂ is associated with increased risk of hypertension, coronary artery disease, and heart failure in adults over 60. The effect is gradual and additive, not immediate—but highly preventable with awareness and simple adjustments.
 
-#### #### How does air pollution and heart disease in seniors differ from younger adults?
+#### How does air pollution and heart disease in seniors differ from younger adults?
 
 Older adults often have less vascular reserve and may experience more pronounced inflammatory and blood pressure responses to air pollution. While younger hearts may recover quickly from short exposures, aging arteries respond more slowly—making consistency in clean-air habits especially valuable.
 
-#### #### Can reducing air pollution exposure lower my heart disease risk?
+#### Can reducing air pollution exposure lower my heart disease risk?
 
 Absolutely. Research suggests that improving local air quality—even modestly—can lead to measurable reductions in hospital admissions for heart-related issues within just a few months. On a personal level, using air filters and limiting outdoor exertion on poor-air days can meaningfully support heart health.
 
-#### #### What’s the safest AQI level for seniors with heart disease?
+#### What’s the safest AQI level for seniors with heart disease?
 
 For most older adults—especially those with known cardiovascular conditions—an AQI below 50 (Good) is ideal for outdoor activity. Between 51–100 (Fair to Moderate), sensitive individuals may benefit from shorter or less intense outings. Above 100, it’s wise to shift activity indoors.
 
-#### #### Does indoor air pollution affect heart disease risk too?
+#### Does indoor air pollution affect heart disease risk too?
 
 Yes—cooking fumes, tobacco smoke, dust mites, and even some cleaning products contribute to indoor particle load. Since older adults spend more time indoors, maintaining good ventilation and using certified air cleaners helps protect heart health year-round.

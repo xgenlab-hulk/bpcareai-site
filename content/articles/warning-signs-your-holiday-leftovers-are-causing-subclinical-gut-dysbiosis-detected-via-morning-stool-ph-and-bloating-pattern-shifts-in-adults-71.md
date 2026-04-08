@@ -85,17 +85,17 @@ Recognizing *holiday leftovers gut dysbiosis warning signs* is an act of self-ca
 
 ### FAQ
 
-#### #### What are the most common holiday leftovers gut dysbiosis warning signs in seniors over 70?  
+#### What are the most common holiday leftovers gut dysbiosis warning signs in seniors over 70?  
 The most common *holiday leftovers gut dysbiosis warning signs* include delayed bloating peaking 4–6 hours after eating, consistent floating stools with frothiness, morning stool pH above 7.1 for three or more days, and bloating that worsens overnight or upon waking. These reflect altered microbial fermentation—not infection or structural disease.
 
-#### #### Can holiday leftovers gut dysbiosis warning signs affect blood pressure?  
+#### Can holiday leftovers gut dysbiosis warning signs affect blood pressure?  
 Indirectly, yes. Chronic low-grade gut inflammation from dysbiosis is associated with endothelial dysfunction and increased arterial stiffness—both contributors to systolic hypertension. While not a direct cause, unresolved dysbiosis may hinder BP management in older adults, particularly those with existing hypertension (≥140/90 mm Hg).
 
-#### #### How do I know if my bloating after holiday meals is normal—or a sign of gut dysbiosis?  
+#### How do I know if my bloating after holiday meals is normal—or a sign of gut dysbiosis?  
 Normal post-meal bloating resolves within 2–3 hours and occurs sporadically. *Holiday leftovers gut dysbiosis warning signs* involve predictable, reproducible patterns: bloating that intensifies overnight, shifts to the right lower abdomen, or coincides with stool pH changes or altered float/sink behavior over multiple days.
 
-#### #### Is floating stool always a sign of fat malabsorption in older adults?  
+#### Is floating stool always a sign of fat malabsorption in older adults?  
 No. In seniors, floating stool is more commonly linked to increased gas production from bacterial fermentation—especially after consuming reheated starchy foods. Fat malabsorption typically presents with pale, foul-smelling, greasy stools *and* weight loss—not isolated buoyancy.
 
-#### #### Do probiotics help reverse holiday leftovers gut dysbiosis in people over 71?  
+#### Do probiotics help reverse holiday leftovers gut dysbiosis in people over 71?  
 Evidence is mixed. Strain-specific benefits exist (e.g., *Bifidobacterium longum* BB536 shows promise in older adults), but broad-spectrum probiotics may not colonize effectively in aged guts. Focus first on prebiotic support (e.g., cooled boiled potatoes, green bananas) and fermented foods—then consider targeted probiotics only after discussing with your healthcare provider.

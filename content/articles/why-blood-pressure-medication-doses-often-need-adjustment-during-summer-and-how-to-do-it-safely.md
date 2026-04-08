@@ -89,17 +89,17 @@ Seasonal shifts in blood pressure are normal, predictable, and manageable—with
 
 ### FAQ  
 
-#### #### Do blood pressure meds summer adjustment guidelines differ for seniors?  
+#### Do blood pressure meds summer adjustment guidelines differ for seniors?  
 Yes—older adults often have stiffer arteries and slower autonomic responses, making them more sensitive to both heat-induced vasodilation and volume shifts. Guidelines recommend more frequent monitoring (at least weekly in early summer) and smaller, slower dose changes—especially for diuretics and alpha-blockers.  
 
-#### #### Can I lower my blood pressure meds summer on my own?  
+#### Can I lower my blood pressure meds summer on my own?  
 No—never adjust prescription doses without medical supervision. What looks like “just a little lower BP” could mask underlying dehydration, electrolyte imbalance, or cardiac strain. Even over-the-counter NSAIDs (like ibuprofen) can interfere with BP control in heat and should be reviewed with your provider.  
 
-#### #### How often should I check my blood pressure during summer for safe blood pressure meds summer adjustment?  
+#### How often should I check my blood pressure during summer for safe blood pressure meds summer adjustment?  
 Twice daily for 7–10 days before your scheduled summer check-in is ideal. Once a week is reasonable for stable patients—but increase frequency if you notice symptoms like dizziness, fatigue, or unusual thirst. Consistency matters more than quantity: same time, same conditions, same device.  
 
-#### #### Why does heat make my blood pressure drop even though I’m on medication?  
+#### Why does heat make my blood pressure drop even though I’m on medication?  
 Heat triggers natural vasodilation (widening of blood vessels) and increases fluid loss through sweat. Both reduce systemic vascular resistance *and* circulating blood volume—so your medication’s effect stacks with your body’s cooling response. It’s not that your meds are “stronger”—it’s that your body and meds are working together more intensely.  
 
-#### #### Are there BP medications that are safer to use in summer?  
+#### Are there BP medications that are safer to use in summer?  
 No single class is universally “safer,” but some regimens offer more flexibility. For example, ARBs (like losartan) may cause less cough than ACE inhibitors, and long-acting CCBs tend to produce steadier 24-hour coverage. Still, safety depends on *your* unique physiology—not just the drug class. Your doctor will weigh kidney function, heart rhythm, and symptom history—not just seasonal trends.

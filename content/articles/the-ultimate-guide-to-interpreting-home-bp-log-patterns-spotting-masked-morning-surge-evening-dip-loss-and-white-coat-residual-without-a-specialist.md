@@ -90,22 +90,22 @@ Patterns like masked morning surge, evening dip loss, or white-coat residual are
 
 ### FAQ
 
-#### #### What does “masked morning surge” mean in home BP logs?
+#### What does “masked morning surge” mean in home BP logs?
 
 A masked morning surge refers to a significant rise in systolic blood pressure—typically ≥20 mm Hg—within the first two hours after waking, which doesn’t show up during standard clinic visits. It’s called “masked” because it’s hidden unless you measure early at home. Interpreting home blood pressure logs helps uncover this pattern, especially important for adults over 50 who may be at higher stroke risk.
 
-#### #### How do I know if my interpreting home blood pressure logs is accurate enough to trust?
+#### How do I know if my interpreting home blood pressure logs is accurate enough to trust?
 
 Accuracy improves with consistency—not perfection. Key markers include: using a validated upper-arm monitor, sitting correctly, resting before measuring, and recording at similar times daily. If your log shows steady patterns (e.g., predictable morning highs or evening lows) over 5+ days—and those patterns align with how you feel—you’re likely capturing meaningful data. Interpreting home blood pressure logs becomes more reliable with practice and gentle review.
 
-#### #### Can “white-coat residual” affect my home readings—and how do I spot it?
+#### Can “white-coat residual” affect my home readings—and how do I spot it?
 
 Yes. White-coat residual describes slightly elevated readings during early home monitoring (often Days 1–3), caused by nervousness or unfamiliarity—not true hypertension. You may notice readings gradually decrease over the first week. To distinguish it from persistent high BP, focus on averages from Day 4 onward. Interpreting home blood pressure logs over time helps separate temporary anxiety from lasting trends.
 
-#### #### What’s a normal “evening dip” in blood pressure—and why does it matter?
+#### What’s a normal “evening dip” in blood pressure—and why does it matter?
 
 A healthy evening dip is a 10–20% drop in systolic pressure from daytime levels—most noticeable between 10 p.m. and 2 a.m. Loss of this dip (non-dipping) is associated with stiffer arteries and increased cardiovascular risk, especially in older adults. Monitoring both morning and bedtime readings helps identify this pattern.
 
-#### #### Do I need special software to interpret my home BP log—or can I do it myself?
+#### Do I need special software to interpret my home BP log—or can I do it myself?
 
 You absolutely can do it yourself—with simple tools and mindful observation. Printable templates, pen-and-paper logs, or even basic spreadsheet columns work beautifully. Focus on timing, consistency, and gentle reflection—not complex algorithms. Many find that asking themselves simple questions (“When am I highest? When am I lowest? What was I doing?”) reveals more than any dashboard ever could.

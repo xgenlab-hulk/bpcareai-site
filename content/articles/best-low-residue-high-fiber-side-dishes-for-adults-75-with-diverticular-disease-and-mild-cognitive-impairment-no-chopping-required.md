@@ -73,22 +73,22 @@ Holidays don’t have to mean choosing between joy and wellness—or between car
 
 ### FAQ
 
-#### #### Can low residue high fiber holiday sides help with both diverticulosis and brain fog?
+#### Can low residue high fiber holiday sides help with both diverticulosis and brain fog?
 
 Yes—when carefully chosen. Soluble fibers like chia, oats, and cooked beets feed beneficial gut bacteria that produce compounds (e.g., butyrate, folate) supporting colon lining health *and* neuronal function. Studies show adults 70+ who regularly consume these fibers report fewer episodes of post-meal fatigue and improved attention span—especially when combined with consistent hydration and rest.
 
-#### #### Are there low residue high fiber holiday sides suitable for someone who uses a meal delivery service?
+#### Are there low residue high fiber holiday sides suitable for someone who uses a meal delivery service?
 
 Absolutely. Many prepared options—like shelf-stable chia pudding cups, pre-mashed sweet potatoes, or single-serve roasted beet hummus cups—meet low-residue, high-fiber criteria. Look for labels listing “soluble fiber,” “no seeds,” “no skins,” and <140 mg sodium per serving. Always check with your provider if you’re on a sodium-restricted or renal diet.
 
-#### #### Do low residue high fiber holiday sides raise blood pressure?
+#### Do low residue high fiber holiday sides raise blood pressure?
 
 No—in fact, the opposite. These sides are naturally low in sodium and rich in potassium (from beets, sweet potatoes, white beans) and magnesium (from chia, flax, tahini), nutrients clinically associated with modest BP reductions—often 2–5 mm Hg systolic when part of an overall heart-healthy pattern.
 
-#### #### Can I freeze these low residue high fiber holiday sides for later?
+#### Can I freeze these low residue high fiber holiday sides for later?
 
 Yes—chicken-pear compote, silken oat-prune purée, and white bean dip all freeze well for up to 3 months. Thaw overnight in the fridge and serve cool or gently warmed. Roasted beet hummus and mashed sweet potato are best fresh or refrigerated up to 5 days—freezing may separate their creamy texture.
 
-#### #### My loved one has mild cognitive impairment and doesn’t always remember to eat—how can I encourage consistent intake of these sides?
+#### My loved one has mild cognitive impairment and doesn’t always remember to eat—how can I encourage consistent intake of these sides?
 
 Pair them with routine moments: serve chia-pear compote with morning tea, roasted beet hummus with afternoon crackers, or sweet potato purée alongside dinner. Using colorful, familiar bowls and labeling containers with simple icons (e.g., “beet dip = brain boost”) can support recognition and independence—without pressure or correction.

@@ -91,22 +91,22 @@ Managing blood pressure in later life doesn’t require pushing physical limits�
 
 ### FAQ
 
-#### #### Can seated tai chi isolated systolic hypertension be managed without standing exercises?
+#### Can seated tai chi isolated systolic hypertension be managed without standing exercises?
 
 Yes. Seated tai chi has demonstrated measurable reductions in 24-hour systolic BP among adults aged 71+ with isolated systolic hypertension and mild gait instability. Because it emphasizes breath awareness, slow coordinated movement, and mental focus—all while seated—it avoids balance demands while still engaging autonomic and vascular regulatory systems.
 
-#### #### How often should I do seated tai chi for isolated systolic hypertension?
+#### How often should I do seated tai chi for isolated systolic hypertension?
 
 Evidence supports daily practice of 12 minutes—ideally at consistent times—to reinforce neural and vascular adaptations. In clinical trials, benefits emerged after 4–6 weeks and continued to improve through 12 weeks. Even 3–5 sessions per week provide meaningful support, though daily practice yields the strongest data.
 
-#### #### Is seated tai chi safe if I’m already taking blood pressure medication?
+#### Is seated tai chi safe if I’m already taking blood pressure medication?
 
 Yes—seated tai chi is considered safe and complementary for most adults on antihypertensive medications, including ACE inhibitors, calcium channel blockers, and thiazide diuretics. No adverse interactions have been reported. However, always discuss new routines with your prescribing clinician, especially if you experience dizziness or hypotension.
 
-#### #### What’s the difference between seated tai chi and regular tai chi for blood pressure?
+#### What’s the difference between seated tai chi and regular tai chi for blood pressure?
 
 Regular (standing) tai chi improves balance and lower-body strength but may not be feasible for those with gait instability or joint limitations. Seated tai chi preserves the core therapeutic elements—rhythmic breathing, mindful movement, and attentional focus—that drive parasympathetic activation and vascular relaxation, making it uniquely suited for older adults managing *seated tai chi isolated systolic hypertension*.
 
-#### #### Does seated tai chi lower diastolic blood pressure too?
+#### Does seated tai chi lower diastolic blood pressure too?
 
 Typically, no—and that’s expected and acceptable in ISH. Because seated tai chi primarily reduces arterial stiffness and sympathetic tone, its main effect is on systolic pressure. Diastolic BP often remains stable or even decreases slightly, which is physiologically appropriate in older adults with naturally lower peripheral resistance. The goal is healthy *systolic* control—not forcing diastolic numbers downward.

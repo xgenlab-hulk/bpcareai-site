@@ -42,17 +42,17 @@ In closing, supporting salivary amylase function is a gentle, everyday opportuni
 
 ### FAQ
 
-#### #### Can zinc lozenges help with salivary amylase support dry mouth elderly?  
+#### Can zinc lozenges help with salivary amylase support dry mouth elderly?  
 Zinc lozenges are *not recommended* for this purpose in older adults. High-dose zinc (>50 mg/day) may impair copper absorption and cause nausea or metallic taste—especially problematic in those with dysphagia or altered taste perception. Food-based zinc pairing (e.g., parsley + cucumber) is safer and more physiologically appropriate.
 
-#### #### What foods naturally support salivary amylase without adding carbs?  
+#### What foods naturally support salivary amylase without adding carbs?  
 Chilled cucumber ribbons, steamed zucchini noodles (cooled), and blanched fennel slivers offer crunch and mild phytochemical stimulation—zero digestible starch, <1 g net carb per ½ cup. All support salivary amylase support dry mouth elderly by encouraging mindful chewing and delivering trace minerals without glycemic load.
 
-#### #### Is salivary amylase support dry mouth elderly possible without increasing sugar intake?  
+#### Is salivary amylase support dry mouth elderly possible without increasing sugar intake?  
 Yes—absolutely. Amylase activity depends on enzyme concentration, pH (~6.7–7.0), and co-factors (zinc, chloride), *not* on dietary sugar. Supporting it requires optimizing the oral environment—not adding glucose or maltodextrin, which could raise aspiration risk or spike postprandial glucose in older adults with insulin resistance.
 
-#### #### Does dry mouth affect blood pressure?  
+#### Does dry mouth affect blood pressure?  
 Indirectly, yes. Chronic xerostomia is linked to higher sympathetic tone and nocturnal BP elevation; some studies report a 5–8 mm Hg average increase in systolic pressure among untreated severe cases. Optimizing oral hydration and autonomic balance may contribute to overall cardiovascular stability.
 
-#### #### Are there risks to chewing harder foods with dysphagia?  
+#### Are there risks to chewing harder foods with dysphagia?  
 Yes—texture must align with clinical swallowing assessment. Chilled cucumber ribbons are appropriate only for *mild* dysphagia (per clinical evaluation). Never introduce new textures without guidance from a speech-language pathologist or geriatric nutritionist.

@@ -68,22 +68,22 @@ Diastolic changes develop slowly—and detecting them early gives you and your c
 
 ### FAQ
 
-#### #### Can beta blockers hide early heart failure signs in older women?
+#### Can beta blockers hide early heart failure signs in older women?
 
 Yes. Beta blockers can suppress symptoms and normalize some echo parameters—even while underlying diastolic stiffness progresses. This phenomenon, known as *beta blocker masking diastolic dysfunction*, is especially relevant in postmenopausal women with obesity, where structural changes may outpace functional readouts.
 
-#### #### What are the earliest warning signs of beta blocker masking diastolic dysfunction?
+#### What are the earliest warning signs of beta blocker masking diastolic dysfunction?
 
 Subtle signs include unexplained exercise intolerance (e.g., stopping mid-stairs), orthopnea without significant edema, fatigue disproportionate to activity, and a widening gap between “normal” EF and rising E/e′ ratio on echo. These often precede overt heart failure by months to years.
 
-#### #### How do doctors test for beta blocker masking diastolic dysfunction?
+#### How do doctors test for beta blocker masking diastolic dysfunction?
 
 Clinicians use advanced echocardiography (E/e′ ratio, e′ velocity, LA volume index), NT-proBNP blood testing, and sometimes exercise stress echo. Importantly, these assessments should be interpreted *in context*—not in isolation—especially if you’ve been on beta blockers long term.
 
-#### #### Is diastolic dysfunction the same as heart disease?
+#### Is diastolic dysfunction the same as heart disease?
 
 Yes—diastolic dysfunction is a form of structural heart disease and a precursor to heart failure with preserved ejection fraction (HFpEF), which accounts for nearly half of all heart failure cases in older adults, particularly women.
 
-#### #### Can losing weight reverse beta blocker masking diastolic dysfunction?
+#### Can losing weight reverse beta blocker masking diastolic dysfunction?
 
 Weight loss—especially 5–10% of body weight—has been shown in clinical trials (e.g., STEP-HFpEF) to improve diastolic function, reduce E/e′ ratios, and lessen symptoms. It doesn’t “reverse” fibrosis, but it reduces inflammatory and hemodynamic stress on the heart.

@@ -101,17 +101,17 @@ That insight is valuable. It helps your care team see you—not just a chart ent
 
 ### FAQ  
 
-#### #### Why do my blood pressure numbers go down during telehealth visits?  
+#### Why do my blood pressure numbers go down during telehealth visits?  
 This is often due to reduced stress, better positioning, and more relaxed timing compared to a busy clinic visit. It may reflect your true everyday arterial pressure more accurately than an office reading—especially if you follow proper home monitoring techniques.  
 
-#### #### Is telehealth blood pressure drop seniors dangerous?  
+#### Is telehealth blood pressure drop seniors dangerous?  
 Not inherently—but it *can* lead to overly aggressive medication adjustments if interpreted without context. For frail seniors, even small BP reductions may increase fall risk. That’s why pairing telehealth readings with clinical judgment and personal history matters most.  
 
-#### #### How can I tell if my telehealth blood pressure drop seniors is normal—or something to worry about?  
+#### How can I tell if my telehealth blood pressure drop seniors is normal—or something to worry about?  
 A drop of 5–10 mm Hg systolic is common and usually harmless. But if you feel dizzy, tired, or confused with those lower numbers—or if readings regularly fall below 110/60 mm Hg—share this with your provider. Context matters more than the number alone.  
 
-#### #### Should I stop checking blood pressure at home if I’m doing telehealth visits?  
+#### Should I stop checking blood pressure at home if I’m doing telehealth visits?  
 No—quite the opposite. Home and telehealth readings together build a fuller, more reliable picture. Office-only monitoring misses daily patterns and may miss both highs *and* lows. Consistency is key.  
 
-#### #### Can dehydration or medication timing explain my telehealth blood pressure drop seniors?  
+#### Can dehydration or medication timing explain my telehealth blood pressure drop seniors?  
 Yes—absolutely. Dehydration, skipping meals, or taking BP meds shortly before a telehealth visit can all contribute to lower readings. That’s why tracking *when* and *how* you measure—as well as what you’ve eaten or done that day—is so helpful.

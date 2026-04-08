@@ -40,17 +40,17 @@ In closing, pet ownership and seasonal depression are deeply connected—but not
 
 ### FAQ
 
-#### #### Does pet ownership and seasonal depression have a proven link in older adults?  
+#### Does pet ownership and seasonal depression have a proven link in older adults?  
 Yes—multiple observational studies show that older adults with dogs report lower rates of winter-related low mood, greater physical activity, and improved social engagement. While not a treatment on its own, pet ownership appears to be a meaningful protective factor.
 
-#### #### Can pet ownership and seasonal depression be managed without medication?  
+#### Can pet ownership and seasonal depression be managed without medication?  
 For many older adults, yes—especially when combined with light exposure, movement, and social connection. Pet ownership and seasonal depression management often begins with lifestyle support first. Always discuss options with your doctor to determine what’s right for you.
 
-#### #### How does walking a dog help with seasonal depression in older adults?  
+#### How does walking a dog help with seasonal depression in older adults?  
 Walking provides structured outdoor time, natural light (critical for melatonin and serotonin balance), gentle physical activity, and opportunities for incidental social contact—all evidence-based supports for mood during darker months.
 
-#### #### Are there alternatives to dog ownership for seniors concerned about care responsibilities?  
+#### Are there alternatives to dog ownership for seniors concerned about care responsibilities?  
 Absolutely. Cat companionship, bird or fish care, or even regular visits with therapy animals can provide emotional benefits without the same physical demands. Local senior centers or animal shelters often host friendly, low-pressure visit programs.
 
-#### #### What’s the difference between normal winter tiredness and seasonal depression in older adults?  
+#### What’s the difference between normal winter tiredness and seasonal depression in older adults?  
 Normal fatigue tends to lift with rest or a sunny day. Seasonal depression in older adults often lingers—accompanied by loss of interest in usual activities, changes in sleep or appetite, or difficulty concentrating for two weeks or longer. It’s treatable, and help is available.

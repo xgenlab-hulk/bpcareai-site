@@ -47,22 +47,22 @@ Holiday heart syndrome is usually temporary—and highly preventable. With thoug
 
 ### FAQ
 
-#### #### What are the top cardiologist questions for holiday heart prevention I should ask before December?
+#### What are the top cardiologist questions for holiday heart prevention I should ask before December?
 
 Ask: “Can we review my nighttime HRV trends?” “How might cold weather affect my current meds?” “Should I adjust sodium or potassium intake during holiday meals?” and “Is my current BP monitoring schedule sufficient for seasonal changes?”
 
-#### #### Are cardiologist questions for holiday heart prevention different if I’m on beta-blockers?
+#### Are cardiologist questions for holiday heart prevention different if I’m on beta-blockers?
 
 Yes—beta-blockers mask tachycardia but don’t prevent vagally mediated pauses or cold-induced ectopy. Ask specifically about nocturnal heart rate patterns and cold-air exposure limits.
 
-#### #### Do I need special tests before the holidays if I’ve had AFib?
+#### Do I need special tests before the holidays if I’ve had AFib?
 
 Not always—but a 7-day ambulatory ECG (Holter) or event monitor can reveal asymptomatic arrhythmias triggered by light, posture, or meals. Discuss this with your cardiologist as part of your cardiologist questions for holiday heart prevention plan.
 
-#### #### Can holiday heart syndrome happen without drinking alcohol?
+#### Can holiday heart syndrome happen without drinking alcohol?
 
 Absolutely. Studies show ~30% of HHS cases involve no alcohol use—only stress, sleep loss, cold exposure, or dietary sodium/potassium shifts.
 
-#### #### How does digoxin interact with holiday meals?
+#### How does digoxin interact with holiday meals?
 
 Digoxin’s effectiveness and safety depend heavily on potassium and magnesium balance. Rich holiday meals (especially with roasted squash, spinach, or dried fruit) plus NSAIDs or certain antibiotics can shift potassium rapidly—increasing risk of toxicity. Always review your full food and med list with your care team.

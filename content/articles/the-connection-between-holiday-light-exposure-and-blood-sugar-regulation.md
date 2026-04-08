@@ -84,17 +84,17 @@ The holiday season is meant to be shared—not scrutinized. While holiday lights
 
 ### FAQ
 
-#### #### Can holiday lights really affect my blood sugar if I have diabetes?
+#### Can holiday lights really affect my blood sugar if I have diabetes?
 Yes—particularly if you're over 50. Bright or blue-rich light exposure after 8 p.m. can delay melatonin release, which in turn dampens insulin sensitivity and alters glucose metabolism. Studies show measurable increases in fasting and post-meal glucose after repeated evening light exposure—even without dietary changes.
 
-#### #### How does holiday lights blood sugar circadian disruption differ from regular stress-related blood sugar spikes?
+#### How does holiday lights blood sugar circadian disruption differ from regular stress-related blood sugar spikes?
 Stress spikes tend to be acute and driven by cortisol surges (e.g., during arguments or travel delays). Holiday lights blood sugar circadian disruption is more subtle and rhythmic: it lowers baseline insulin sensitivity overnight and blunts the body’s ability to clear glucose efficiently the next day—especially noticeable in morning readings and overnight CGM patterns.
 
-#### #### Does using red holiday lights help manage blood sugar during Christmas and New Year?
+#### Does using red holiday lights help manage blood sugar during Christmas and New Year?
 Red and amber lights emit very little short-wavelength (blue) light—the kind most disruptive to melatonin. Using them in bedrooms, hallways, or near seating areas after 8:30 p.m. supports natural circadian signaling and may help stabilize overnight glucose. They won’t replace healthy habits—but they’re a simple, low-effort layer of support.
 
-#### #### Is it safe to adjust my diabetes medication timing around the holidays?
+#### Is it safe to adjust my diabetes medication timing around the holidays?
 No—never adjust insulin, sulfonylureas, or other glucose-lowering meds without consulting your provider. However, discussing *when* you take certain medications (e.g., moving a long-acting insulin dose slightly earlier to align with earlier sleep timing) may be appropriate—and your care team can help assess that safely.
 
-#### #### Do artificial Christmas trees emit light that affects circadian rhythm?
+#### Do artificial Christmas trees emit light that affects circadian rhythm?
 Not inherently—but the lights *on* them do. The concern isn’t the tree itself, but the intensity, color temperature, and timing of the lights attached to it. A brightly lit artificial tree in the bedroom or visible from the bed after 9 p.m. can contribute to melatonin suppression, especially if it’s LED and emits cool white or blue tones.

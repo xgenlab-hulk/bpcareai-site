@@ -84,22 +84,22 @@ Understanding **circadian misalignment and myocardial fibrosis** doesn’t mean 
 
 ### FAQ
 
-#### #### Does circadian misalignment and myocardial fibrosis show up on a regular echocardiogram?
+#### Does circadian misalignment and myocardial fibrosis show up on a regular echocardiogram?
 
 No. Standard echocardiograms assess chamber size, wall thickness, valve function, and ejection fraction—but they cannot detect microscopic collagen deposition or diffuse fibrosis. Advanced techniques like cardiac MRI with T1 mapping are required for accurate detection.
 
-#### #### Can circadian misalignment and myocardial fibrosis be reversed?
+#### Can circadian misalignment and myocardial fibrosis be reversed?
 
 Emerging evidence suggests yes—especially when addressed early. Studies in older adults with prior shift-work exposure show measurable improvements in ECV and fibrosis biomarkers after 6–12 months of structured sleep scheduling, light therapy, and time-restricted eating. Reversal isn’t guaranteed, but stabilization and slowing progression are realistic goals.
 
-#### #### Is circadian misalignment and myocardial fibrosis the same as heart failure?
+#### Is circadian misalignment and myocardial fibrosis the same as heart failure?
 
 No. Myocardial fibrosis is a *structural change*—not a diagnosis. Many people live for years with mild fibrosis and no symptoms or functional impairment. Heart failure is a clinical syndrome involving symptoms (e.g., breathlessness, fatigue) and objective signs (e.g., elevated natriuretic peptides, imaging evidence of congestion). Fibrosis may increase risk over time, but it does not equal heart failure.
 
-#### #### What’s the link between night shift work and heart disease?
+#### What’s the link between night shift work and heart disease?
 
 Long-term night shift work is associated with a 23–40% increased risk of coronary heart disease and a 29% higher risk of ischemic stroke—partly mediated by circadian misalignment, metabolic dysregulation, and chronic inflammation. Importantly, this risk persists even after adjusting for traditional factors like smoking or cholesterol.
 
-#### #### Are there specific blood tests for myocardial fibrosis?
+#### Are there specific blood tests for myocardial fibrosis?
 
 No single blood test diagnoses fibrosis, but several biomarkers reflect collagen turnover: galectin-3, soluble ST2, PICP, and CITP (C-terminal telopeptide of type I collagen). These are used primarily in research and specialized cardiology clinics—not routine screening—but trends over time can offer valuable insight when interpreted alongside clinical context.

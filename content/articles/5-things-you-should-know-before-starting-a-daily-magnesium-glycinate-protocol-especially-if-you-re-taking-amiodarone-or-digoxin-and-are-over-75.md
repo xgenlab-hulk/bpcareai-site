@@ -89,17 +89,17 @@ In closing, your heart health journey is deeply personal—and full of strength,
 
 ### FAQ
 
-#### #### Can magnesium glycinate cause heart palpitations in older adults on digoxin?
+#### Can magnesium glycinate cause heart palpitations in older adults on digoxin?
 Not typically—but in rare cases, rapid correction of low magnesium *can* trigger transient arrhythmias, especially if potassium is also low. More commonly, excess magnesium (especially with impaired kidney function) may blunt heart rate response or worsen AV block. Always check electrolytes and ECG before starting—if you notice new or unusual palpitations after beginning magnesium, pause and consult your clinician.
 
-#### #### Is magnesium glycinate safe with amiodarone for seniors over 75?
+#### Is magnesium glycinate safe with amiodarone for seniors over 75?
 It *can be*, but safety depends on dose, timing, kidney function, and baseline rhythm. Because amiodarone prolongs the QT interval, adding magnesium—while potentially protective in moderation—requires careful balancing. Daily doses above 250 mg elemental magnesium are rarely needed and may increase risk of QT prolongation in vulnerable older adults. RBC magnesium testing and periodic ECGs help guide safe use.
 
-#### #### What’s the best magnesium form for older adults taking digoxin or amiodarone?
+#### What’s the best magnesium form for older adults taking digoxin or amiodarone?
 Magnesium glycinate is often preferred for its gentle absorption and low laxative effect—but magnesium taurate or magnesium L-threonate may offer additional cardiovascular support with slightly different pharmacokinetics. No single form is universally “best.” What matters most is individual tolerance, kidney clearance, and alignment with your medication schedule. Your prescriber or pharmacist can help match the right form and dose to your unique profile.
 
-#### #### Does magnesium glycinate lower blood pressure in seniors?
+#### Does magnesium glycinate lower blood pressure in seniors?
 Yes—modestly. Studies show oral magnesium (including glycinate) may reduce systolic BP by 2–4 mm Hg and diastolic by 1–3 mm Hg in adults with elevated BP. Effects are more noticeable in those with existing deficiency or hypertension. However, it should never replace prescribed antihypertensives—rather, it complements them as part of a broader heart-healthy lifestyle.
 
-#### #### Can magnesium glycinate interact with other heart medications besides amiodarone and digoxin?
+#### Can magnesium glycinate interact with other heart medications besides amiodarone and digoxin?
 Yes—though interactions are less pronounced. Magnesium may enhance the effects of beta-blockers (e.g., metoprolol) or non-dihydropyridine calcium channel blockers (e.g., diltiazem, verapamil), potentially lowering heart rate or BP further. It may also reduce absorption of bisphosphonates (e.g., alendronate) and some antibiotics (e.g., tetracyclines), so spacing is key. Always share your full supplement list with your pharmacist.

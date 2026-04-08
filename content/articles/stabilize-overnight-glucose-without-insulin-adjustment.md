@@ -54,22 +54,22 @@ Stabilizing overnight glucose without insulin adjustment isn’t about perfectio
 
 ### FAQ
 
-#### #### Can I stabilize overnight glucose without insulin adjustment if I’m on long-acting insulin?
+#### Can I stabilize overnight glucose without insulin adjustment if I’m on long-acting insulin?
 
 Yes—you can absolutely use these strategies *alongside* basal insulin. In fact, the RCT included participants using glargine and detemir. The goal isn’t to replace insulin, but to support its action more evenly overnight.
 
-#### #### What’s the best bedtime snack to stabilize overnight glucose without insulin adjustment?
+#### What’s the best bedtime snack to stabilize overnight glucose without insulin adjustment?
 
 A small portion of slow-digesting protein (12–15 g) *alone*—like cottage cheese or Greek yogurt—is more effective than carb-heavy or mixed snacks. Avoid fruit, crackers, or granola bars unless specifically advised by your care team.
 
-#### #### Does foot-warming really affect blood sugar—or is it just relaxation?
+#### Does foot-warming really affect blood sugar—or is it just relaxation?
 
 It’s both—and the science supports it. Foot-warming stimulates nitric oxide release, which improves microcirculation and glucose uptake in skeletal muscle. Studies show a measurable 8–12% increase in nocturnal glucose stability with consistent use.
 
-#### #### How soon will I notice changes in my overnight glucose?
+#### How soon will I notice changes in my overnight glucose?
 
 Most people report improved sleep quality and fewer morning headaches within 3–5 nights. CGM users typically see reduced variability within 7–10 days. Consistency matters more than intensity.
 
-#### #### Is diaphragmatic breathing safe if I have COPD or heart failure?
+#### Is diaphragmatic breathing safe if I have COPD or heart failure?
 
 Yes—with modifications. Breathe at your own pace; skip breath-holds if uncomfortable. Sit upright if lying flat causes shortness of breath. Always consult your pulmonologist or cardiologist before starting any new breathing practice.

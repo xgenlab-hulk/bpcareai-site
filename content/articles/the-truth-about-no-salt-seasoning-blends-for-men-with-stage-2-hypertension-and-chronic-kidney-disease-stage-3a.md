@@ -59,22 +59,22 @@ Managing stage 2 hypertension alongside CKD stage 3a is a thoughtful, ongoing pr
 
 ### FAQ
 
-#### #### Are no-salt seasoning blends safe for people with chronic kidney disease?
+#### Are no-salt seasoning blends safe for people with chronic kidney disease?
 
 It depends on the ingredients—and your individual lab values. Many contain potassium chloride, which may not be safe if your potassium is elevated or your eGFR is below 60. Always discuss with your nephrologist or renal dietitian before regularly using them.
 
-#### #### What are the best no-salt seasoning blends chronic kidney disease patients can use?
+#### What are the best no-salt seasoning blends chronic kidney disease patients can use?
 
 Look for blends with no potassium chloride and no sodium-based additives (like MSG or sodium nitrate). Simple herb-and-spice mixes—such as basil, oregano, turmeric, and black pepper—are typically safest. Some renal-friendly brands label products specifically for CKD; ask your dietitian for trusted options.
 
-#### #### Do no-salt seasoning blends chronic kidney disease options help lower blood pressure?
+#### Do no-salt seasoning blends chronic kidney disease options help lower blood pressure?
 
 They *can*, but only if they successfully reduce overall sodium intake *without* raising potassium to unsafe levels. Lower sodium supports healthier BP, but unmonitored potassium increases may strain the heart. Effectiveness depends on your unique physiology and lab trends.
 
-#### #### Can I make my own no-salt seasoning at home?
+#### Can I make my own no-salt seasoning at home?
 
 Yes—and it’s often the safest choice. Try mixing garlic powder, onion powder, celery seed, black pepper, and dried parsley. Avoid adding potassium-rich ingredients like tomato powder or molasses. Keep it simple, fresh, and sodium-free.
 
-#### #### How long does it take to adjust to no-salt cooking?
+#### How long does it take to adjust to no-salt cooking?
 
 Most people notice improved taste perception within 10–14 days. Your taste buds regenerate every 10–14 days, and reducing sodium gradually helps reset sensitivity—making herbs and spices taste more vibrant over time.

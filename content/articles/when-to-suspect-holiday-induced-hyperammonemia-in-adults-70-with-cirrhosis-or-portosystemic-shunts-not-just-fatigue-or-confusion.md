@@ -107,22 +107,22 @@ Holiday seasons are meant to be warm, connected, and restorative—not stressful
 
 ### FAQ
 
-#### #### What are the early signs of hyperammonemia in seniors with cirrhosis during the holidays?
+#### What are the early signs of hyperammonemia in seniors with cirrhosis during the holidays?
 
 Early signs are often subtle: increased daytime sleepiness, mild forgetfulness (like misplacing keys more often), slower response time in conversation, unexplained irritability, or loss of interest in usual hobbies. These may appear gradually over 1–3 days—especially after rich meals or reduced activity—and are frequently mistaken for “just being tired.”
 
-#### #### Can hyperammonemia holiday seniors cirrhosis happen even if liver function tests look stable?
+#### Can hyperammonemia holiday seniors cirrhosis happen even if liver function tests look stable?
 
 Yes. Standard blood tests (like ALT, AST, or albumin) reflect structural or synthetic function—but don’t directly measure ammonia clearance capacity. Someone with compensated cirrhosis or long-standing shunts can have normal LFTs yet still experience ammonia buildup during metabolic stressors like high-protein meals or constipation.
 
-#### #### How does constipation trigger hyperammonemia in older adults with liver disease?
+#### How does constipation trigger hyperammonemia in older adults with liver disease?
 
 Constipation slows transit time in the colon, allowing gut bacteria more opportunity to break down protein into ammonia. In aging adults—especially those with cirrhosis—this effect is amplified by decreased gut motility, altered microbiome composition, and reduced kidney clearance. Even two days without a bowel movement can meaningfully raise ammonia levels.
 
-#### #### Is turkey or gravy really risky for someone with cirrhosis during Thanksgiving?
+#### Is turkey or gravy really risky for someone with cirrhosis during Thanksgiving?
 
 Not inherently—but portion and context matter. A small serving (2–3 oz turkey + 2 tbsp gravy) is usually fine *if balanced* with vegetables and fiber, and *if bowel habits remain regular*. Risk increases when gravy is consumed in larger amounts, paired with other protein sources (cheese, nuts, meatballs), and without adequate hydration or movement.
 
-#### #### What’s the safest way to enjoy holiday treats while managing hyperammonemia holiday seniors cirrhosis?
+#### What’s the safest way to enjoy holiday treats while managing hyperammonemia holiday seniors cirrhosis?
 
 Focus on enjoyment *without overload*: choose one favorite treat (e.g., pumpkin pie *or* pecan pie—not both), share appetizer plates, sip water between bites, and take a short walk after eating. Small pleasures, spaced mindfully, sustain joy—and metabolism—most gently.

@@ -56,22 +56,22 @@ Healing takes time—and your body is doing its best, even when progress feels s
 
 ### FAQ
 
-#### #### Does fabric softener affect diabetic foot ulcer healing?
+#### Does fabric softener affect diabetic foot ulcer healing?
 
 Yes—especially with repeated exposure. The quaternary ammonium compounds (QACs) in many fabric softener sheets can reduce beneficial skin bacteria and weaken antimicrobial peptide responses, both critical for wound repair in adults with diabetes and neuropathy.
 
-#### #### Can fabric softener sheets cause foot ulcers in people with diabetes?
+#### Can fabric softener sheets cause foot ulcers in people with diabetes?
 
 No—dryer sheets don’t cause ulcers. But for adults 68+ with existing neuropathy and poor circulation, they may contribute to slower healing and higher infection risk by altering the foot’s microbiome and skin barrier function.
 
-#### #### Is there a safe fabric softener for people with diabetic foot ulcers?
+#### Is there a safe fabric softener for people with diabetic foot ulcers?
 
 Look for products explicitly labeled “QAC-free,” “quat-free,” or “no quaternary ammonium compounds.” Wool dryer balls, vinegar rinses (½ cup in rinse cycle), or plant-based liquid softeners without synthetic antimicrobials are gentler alternatives.
 
-#### #### How does neuropathy make foot ulcers harder to heal?
+#### How does neuropathy make foot ulcers harder to heal?
 
 Neuropathy reduces sensation, so small injuries go unnoticed. It’s also linked to microvascular changes and impaired immune signaling—including lower production of antimicrobial peptides—making even minor wounds more vulnerable to dysbiosis and delayed closure.
 
-#### #### What else besides fabric softener affects skin microbiome in diabetes?
+#### What else besides fabric softener affects skin microbiome in diabetes?
 
 Chronic high blood sugar, frequent antibiotic use, harsh soaps, tight footwear, and prolonged immobility all influence skin microbial diversity—often compounding each other’s effects in older adults with diabetes.

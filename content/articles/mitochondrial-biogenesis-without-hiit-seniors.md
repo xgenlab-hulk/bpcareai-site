@@ -83,22 +83,22 @@ Supporting mitochondrial health doesn’t require dramatic change—it thrives o
 
 ### FAQ
 
-#### #### Can mitochondrial biogenesis without HIIT really work for seniors with sarcopenia?
+#### Can mitochondrial biogenesis without HIIT really work for seniors with sarcopenia?
 
 Yes—clinical studies confirm it. A 2023 randomized trial in adults aged 72–84 with sarcopenia showed that 12 weeks of seated resistance band cycling + cold-brewed green tea increased muscle mitochondrial DNA copy number by 18%, improved gait speed by 0.12 m/sec, and lowered 2-hour postprandial glucose by an average of 22 mg/dL—*without* any high-intensity effort.
 
-#### #### What’s the safest way to start mitochondrial biogenesis without HIIT seniors?
+#### What’s the safest way to start mitochondrial biogenesis without HIIT seniors?
 
 Begin with just 3 minutes of seated band cycling (even once weekly), paired with one 6-oz cup of cold-steeped green tea. Focus first on smooth breathing and joint comfort—not speed or resistance. Gradually increase duration before intensity. Always consult your physician before starting, especially if you take medications for diabetes or BP.
 
-#### #### Does mitochondrial biogenesis without HIIT seniors help with blood pressure?
+#### Does mitochondrial biogenesis without HIIT seniors help with blood pressure?
 
 Indirectly, yes. Improved mitochondrial function in skeletal muscle enhances insulin sensitivity and nitric oxide signaling—both of which support healthier endothelial function and arterial elasticity. In older adults, this often translates to more stable daytime BP readings and reduced morning surges—key predictors of long-term cardiovascular wellness.
 
-#### #### Is green tea safe for people with prediabetes and kidney concerns?
+#### Is green tea safe for people with prediabetes and kidney concerns?
 
 Cold-steeped green tea contains significantly less caffeine (<15 mg per cup) and avoids tannin-related GI irritation—making it gentler on kidneys and digestion. Still, if you have stage 3+ chronic kidney disease (eGFR <60 mL/min/1.73m²), discuss polyphenol intake with your nephrologist, as very high doses may interact with certain medications.
 
-#### #### How long before I notice benefits from mitochondrial biogenesis without HIIT seniors?
+#### How long before I notice benefits from mitochondrial biogenesis without HIIT seniors?
 
 Most adults report improved mental clarity and steadier energy within 2–3 weeks. Measurable changes—like easier chair rises or lower post-meal glucose spikes—typically emerge between weeks 6–10. Patience and consistency matter more than speed: mitochondria renew gradually, and that’s perfectly aligned with graceful, lifelong health.

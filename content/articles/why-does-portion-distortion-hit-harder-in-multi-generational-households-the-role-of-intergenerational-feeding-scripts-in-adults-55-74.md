@@ -52,22 +52,22 @@ Portion distortion intergenerational feeding scripts don’t reflect poor willpo
 
 ### FAQ
 
-#### #### How do portion distortion intergenerational feeding scripts affect blood pressure in older adults?
+#### How do portion distortion intergenerational feeding scripts affect blood pressure in older adults?
 
 These scripts often lead to consistent overeating—especially calorie-dense, high-sodium dishes common at family meals. Over time, this contributes to weight gain and fluid retention, both of which elevate arterial pressure. Studies show adults over 60 who frequently overeat at home have a 25% higher likelihood of developing stage 1 hypertension (130–139/80–89 mm Hg).
 
-#### #### What are common portion distortion intergenerational feeding scripts I might not even notice?
+#### What are common portion distortion intergenerational feeding scripts I might not even notice?
 
 Phrases like “You’ll waste away if you don’t eat,” “Just one more bite—it’s homemade,” or “Eat now before it gets cold” are classic examples. Even silence—like a grandmother quietly refilling your bowl without asking—counts as an unspoken script. They’re less about food and more about belonging.
 
-#### #### Can portion distortion intergenerational feeding scripts impact digestion or energy levels after 55?
+#### Can portion distortion intergenerational feeding scripts impact digestion or energy levels after 55?
 
 Yes. Larger portions strain digestive capacity—especially as stomach acid production and motilin (a gut hormone that moves food along) decline with age. This can cause bloating, reflux, or afternoon fatigue. Slower digestion also delays satiety signaling, making it easier to overeat before your brain registers fullness.
 
-#### #### Is it okay to say no to second helpings in a multi-generational home?
+#### Is it okay to say no to second helpings in a multi-generational home?
 
 Absolutely—and gracefully. Try gratitude-first language: “That was wonderful—I’m comfortably full and want to savor how good I feel.” Most loved ones respond warmly when they see your choice comes from self-care, not criticism.
 
-#### #### Does healthy eating during family gatherings mean skipping traditions?
+#### Does healthy eating during family gatherings mean skipping traditions?
 
 Not at all. It means adapting them: baking smaller batches, using herbs instead of salt, offering fruit-based desserts, or sharing recipes that honor flavor *and* function. Traditions evolve—just like we do.

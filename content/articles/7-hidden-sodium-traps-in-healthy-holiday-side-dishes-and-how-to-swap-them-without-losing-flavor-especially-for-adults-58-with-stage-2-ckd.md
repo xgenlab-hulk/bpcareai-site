@@ -62,14 +62,14 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Are mashed potatoes safe for someone with hidden sodium holiday side dishes kidney disease?
+#### Are mashed potatoes safe for someone with hidden sodium holiday side dishes kidney disease?
 Yes—with mindful prep. Instant or boxed mashed potatoes often contain 300–500 mg sodium per serving. Opt for fresh potatoes, unsalted butter or olive oil, and boost flavor with roasted garlic, chives, or white pepper. That simple swap cuts sodium by up to 400 mg per serving.
 
-#### #### What are the top 3 hidden sodium holiday side dishes kidney disease patients should watch for?
+#### What are the top 3 hidden sodium holiday side dishes kidney disease patients should watch for?
 The biggest culprits are: (1) Stuffing made with seasoned bread cubes or broth (often 600–900 mg/serving), (2) Gravies thickened with store-bought bouillon or canned broth (400–700 mg/cup), and (3) Green bean casserole with fried onions and condensed soup (800+ mg per serving). Always check labels—and when in doubt, make it from scratch.
 
-#### #### Can I eat sweet potato casserole with stage 2 CKD?
+#### Can I eat sweet potato casserole with stage 2 CKD?
 Absolutely—just skip the marshmallows (high in sodium *and* added sugar) and use a streusel made from oats, cinnamon, and a touch of maple syrup. Baked sweet potatoes themselves are potassium-rich but kidney-friendly in moderate portions (½ cup) for most stage 2 CKD patients—especially when paired with lower-potassium sides.
 
-#### #### Does “low sodium” on a package mean it’s safe for CKD?
+#### Does “low sodium” on a package mean it’s safe for CKD?
 Not necessarily. “Low sodium” means ≤140 mg per serving—but for CKD, experts recommend staying below 2,000 mg *total per day*. So even three “low sodium” items (e.g., soup, beans, roll) could easily exceed your daily limit. Always add up totals—and prioritize whole, unprocessed ingredients whenever possible.

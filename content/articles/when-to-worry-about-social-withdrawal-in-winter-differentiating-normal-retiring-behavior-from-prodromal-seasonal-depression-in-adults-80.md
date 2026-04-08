@@ -66,22 +66,22 @@ Seasonal shifts in mood and energy are real—and very treatable—especially wh
 
 ### FAQ
 
-#### #### Can seasonal depression occur for the first time in someone over 80?
+#### Can seasonal depression occur for the first time in someone over 80?
 
 Yes—though less common than earlier-onset cases, *de novo* seasonal depression in adults 80+ does occur, especially after major life changes (e.g., bereavement, relocation) or with increasing sensory or mobility limitations that reduce light exposure and social opportunity.
 
-#### #### What’s the difference between normal winter quiet time and social withdrawal winter seasonal depression adults 80+?
+#### What’s the difference between normal winter quiet time and social withdrawal winter seasonal depression adults 80+?
 
 Normal quiet time is *voluntary*, *reversible*, and preserves enjoyment of small pleasures (e.g., reading, birds at the feeder). Social withdrawal winter seasonal depression adults 80+ involves *loss of pleasure*, *inability to initiate*, and *functional erosion*—like stopping all correspondence or refusing meals offered by loved ones.
 
-#### #### How is seasonal depression in older adults treated differently than in younger people?
+#### How is seasonal depression in older adults treated differently than in younger people?
 
 Treatment prioritizes safety and simplicity: low-dose light therapy (with eye safety screening), behavioral activation tailored to mobility, and cautious medication review (SSRIs may be used, but start lower and titrate slower). Psychotherapy focuses on behavioral re-engagement—not insight-oriented work.
 
-#### #### Does vitamin D supplementation help with seasonal depression in adults 80+?
+#### Does vitamin D supplementation help with seasonal depression in adults 80+?
 
 Evidence is mixed, but correcting deficiency (<20 ng/mL) is recommended. While vitamin D alone rarely resolves SAD, it supports circadian regulation and may enhance response to light therapy—especially in homebound individuals with minimal sun exposure.
 
-#### #### Is social withdrawal in winter ever a sign of something other than depression?
+#### Is social withdrawal in winter ever a sign of something other than depression?
 
 Yes—consider medical mimics: hypothyroidism, untreated sleep apnea, silent myocardial ischemia, or early neurodegeneration. A thorough geriatric assessment rules out reversible contributors before attributing withdrawal solely to mood.

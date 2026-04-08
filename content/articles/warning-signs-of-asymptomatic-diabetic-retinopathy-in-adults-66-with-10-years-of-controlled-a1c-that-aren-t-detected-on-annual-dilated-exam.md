@@ -59,22 +59,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What are the earliest asymptomatic diabetic retinopathy warning signs?
+#### What are the earliest asymptomatic diabetic retinopathy warning signs?
 
 The earliest signs are often functional—not structural—and include subtle delays in dark adaptation (>15 seconds), reduced contrast sensitivity in dim light, increased microsaccade instability during steady fixation, and vague “swimmy” distortions in the far periphery. These may appear months before any visible changes on retinal imaging.
 
-#### #### Can asymptomatic diabetic retinopathy warning signs show up even with perfect A1c?
+#### Can asymptomatic diabetic retinopathy warning signs show up even with perfect A1c?
 
 Yes. Even with A1c consistently below 6.5% for 10+ years, cumulative metabolic stress, aging retinal cells, and coexisting factors like hypertension or dyslipidemia can contribute to early functional changes. Glycemic control reduces risk—it doesn’t guarantee immunity.
 
-#### #### Are there home tests for asymptomatic diabetic retinopathy warning signs?
+#### Are there home tests for asymptomatic diabetic retinopathy warning signs?
 
 No home test replaces professional care—but simple, no-cost observations (like timing dark adaptation, noting contrast challenges in low light, or tracking peripheral motion awareness) can highlight trends worth discussing with your ophthalmologist or optometrist.
 
-#### #### How often should someone with long-term diabetes get functional vision screening?
+#### How often should someone with long-term diabetes get functional vision screening?
 
 While annual dilated exams remain essential, adding functional checks—like contrast sensitivity or dark adaptation assessment—every 6–12 months is increasingly recommended for adults 65+ with ≥10 years of diabetes, especially if other vascular risk factors are present.
 
-#### #### Does high blood pressure affect asymptomatic diabetic retinopathy warning signs?
+#### Does high blood pressure affect asymptomatic diabetic retinopathy warning signs?
 
 Yes. Hypertension accelerates microvascular stress in the retina. Sustained BP >135/85 mm Hg is associated with earlier onset of functional deficits—even in well-controlled diabetes. Managing both glucose *and* arterial pressure supports retinal neural health.

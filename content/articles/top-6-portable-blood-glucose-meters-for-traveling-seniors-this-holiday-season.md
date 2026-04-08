@@ -77,22 +77,22 @@ Managing diabetes while traveling—especially during the emotionally rich, some
 
 ### FAQ
 
-#### #### What are the best glucose meters for seniors travel in cold weather?
+#### What are the best glucose meters for seniors travel in cold weather?
 
 The best glucose meters for seniors travel in cold weather are those rated for operation down to at least 41°F (5°C), with non-refrigerated test strips and lithium-compatible batteries. Models with automatic temperature compensation and large, backlit displays tend to perform most reliably when moving between heated indoor spaces and chilly outdoor environments.
 
-#### #### Are there portable glucose meters for seniors with vision loss?
+#### Are there portable glucose meters for seniors with vision loss?
 
 Yes—several FDA-cleared meters include spoken results, high-contrast color schemes, tactile button markings, and compatibility with smartphone apps that read aloud results. Voice-guided meters like certain Accu-Chek and OneTouch models are frequently recommended by low-vision specialists for their consistent audio clarity and simple navigation.
 
-#### #### How accurate are travel-friendly glucose meters compared to home models?
+#### How accurate are travel-friendly glucose meters compared to home models?
 
 Most modern portable glucose meters—including those designed for seniors—meet FDA accuracy standards: 95% of readings must fall within ±15 mg/dL (for values under 100 mg/dL) or within ±15% (for values 100 mg/dL or higher). Accuracy depends less on size and more on proper technique, fresh strips, and environmental conditions—so storing your meter correctly matters just as much as choosing the right one.
 
-#### #### Can I bring my glucose meter and supplies on an airplane?
+#### Can I bring my glucose meter and supplies on an airplane?
 
 Absolutely. The TSA allows glucose meters, test strips, lancets, insulin, and related supplies in both carry-on and checked bags—but keep them in your carry-on for easy access and temperature control. You’re not required to declare them, though having a doctor’s note or prescription label handy can speed up security screening. Remember: never pack insulin in checked luggage, as extreme temperatures can degrade it.
 
-#### #### Do I need to adjust my testing schedule when traveling across time zones?
+#### Do I need to adjust my testing schedule when traveling across time zones?
 
 You may benefit from shifting your routine gradually—especially if crossing more than two time zones. Start adjusting your meal and testing times by 1–2 hours per day a few days before departure. Once you arrive, align your checks with local mealtimes (e.g., test before “breakfast” there, even if it feels like lunch to you). Most importantly: listen to your body and trust your instincts—your experience is your best guide.

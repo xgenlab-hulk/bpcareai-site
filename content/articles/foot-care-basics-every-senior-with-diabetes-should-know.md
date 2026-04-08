@@ -60,22 +60,22 @@ Staying on top of *diabetic foot care for seniors* doesn’t require perfection�
 
 ### FAQ
 
-#### #### How often should seniors with diabetes see a podiatrist?
+#### How often should seniors with diabetes see a podiatrist?
 
 Most experts recommend seeing a podiatrist at least *once a year* for a comprehensive foot exam—even if you have no symptoms. If you have neuropathy, poor circulation, or a history of ulcers, visits every 3–6 months are often advised.
 
-#### #### What are the best shoes for diabetic foot care for seniors?
+#### What are the best shoes for diabetic foot care for seniors?
 
 Look for shoes with a wide toe box, cushioned soles, adjustable closures (like Velcro or laces), and seamless interiors. Avoid high heels, pointed toes, or flip-flops. Many podiatrists recommend brands certified by the American Podiatric Medical Association (APMA) Seal of Acceptance.
 
-#### #### Can diabetic foot care for seniors help prevent amputation?
+#### Can diabetic foot care for seniors help prevent amputation?
 
 Yes—absolutely. Up to *80% of amputations* related to diabetes are preventable with consistent, appropriate foot care. Early detection of issues like ulcers or infections—and prompt professional treatment—is the strongest protective factor.
 
-#### #### Why do my feet feel numb, and is that normal with diabetes?
+#### Why do my feet feel numb, and is that normal with diabetes?
 
 Numbness is often a sign of peripheral neuropathy—a common complication affecting nerve function. It’s *common*, but not “normal” in the sense that it should be ignored. It signals increased risk and calls for extra vigilance in daily foot checks.
 
-#### #### Are foot soaks safe for people with diabetes?
+#### Are foot soaks safe for people with diabetes?
 
 Generally, *no*. Soaking can soften skin too much, increasing tear risk—and if you have neuropathy, you may not realize the water is too hot, raising burn risk. Stick to brief, lukewarm washes instead.

@@ -66,22 +66,22 @@ In short, supporting your central BP and brain blood flow doesn’t mean strict 
 
 ### FAQ
 
-#### #### What are the best foods for central bp and cognitive blood flow for seniors with white matter hyperintensities?
+#### What are the best foods for central bp and cognitive blood flow for seniors with white matter hyperintensities?
 
 The top evidence-backed options include beets, wild salmon, blueberries, dark leafy greens, and unsweetened cocoa — all shown to improve arterial elasticity *and* support steady blood flow to brain tissue in adults over 65.
 
-#### #### Can foods for central bp and cognitive blood flow help reduce white matter hyperintensities?
+#### Can foods for central bp and cognitive blood flow help reduce white matter hyperintensities?
 
 While foods alone won’t reverse existing WMHs, consistent intake of brain-perfusion–optimized foods (like those rich in nitrates and omega-3s) is associated with slower progression — especially when paired with stable, non-dipping BP patterns.
 
-#### #### Do I need to avoid salt completely if I’m looking for foods for central bp and cognitive blood flow?
+#### Do I need to avoid salt completely if I’m looking for foods for central bp and cognitive blood flow?
 
 No — and overly restricting sodium can sometimes backfire in older adults. Focus instead on reducing *ultra-processed* sodium sources (deli meats, canned soups) while enjoying potassium-rich whole foods (avocados, beans, spinach) to naturally balance arterial tone.
 
-#### #### How long does it take to see benefits from foods for central bp and cognitive blood flow?
+#### How long does it take to see benefits from foods for central bp and cognitive blood flow?
 
 Many people notice improved energy and mental clarity within 2–4 weeks. Studies measuring central systolic pressure and cerebral blood flow show measurable improvements in as little as 3–6 weeks with consistent intake.
 
-#### #### Is central systolic pressure the same as regular blood pressure?
+#### Is central systolic pressure the same as regular blood pressure?
 
 No. Central systolic pressure is the pressure near your heart — typically higher and more reflective of strain on small vessels than the number taken at your arm. It’s especially relevant if you have white matter changes or mild hypertension.

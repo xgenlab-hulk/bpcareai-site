@@ -76,17 +76,17 @@ The holidays are about connection, comfort, and care — and caring for yourself
 
 ### FAQ
 
-#### #### How long can seniors safely keep holiday leftovers in the fridge?
+#### How long can seniors safely keep holiday leftovers in the fridge?
 Most cooked holiday foods — turkey, stuffing, gravy, mashed potatoes — should be consumed within **3–4 days** when refrigerated at or below 40°F. For adults over 76, we recommend using them within **3 days** as a safety buffer, given slower immune response and increased vulnerability to foodborne illness.
 
-#### #### What’s the safest reheating temperature for seniors?
+#### What’s the safest reheating temperature for seniors?
 The USDA and CDC recommend reheating leftovers to an internal temperature of **165°F (74°C)** — measured with a food thermometer in the thickest part of the food. For soups, sauces, and gravies, bring to a **full, rolling boil** for at least 1 minute. This is especially critical for holiday leftovers food safety seniors managing chronic health conditions.
 
-#### #### Are frozen holiday leftovers safe for seniors after a month?
+#### Are frozen holiday leftovers safe for seniors after a month?
 Yes — *if* they were frozen within 90 minutes of cooking and stored at 0°F or colder. Frozen foods remain safe indefinitely, but quality declines over time. For best flavor and texture, use frozen turkey or stuffing within **2–3 months**, and dairy-based pies within **1–2 months**. Always reheat thoroughly to 165°F before eating.
 
-#### #### Can I reheat stuffing that was cooked inside the turkey?
+#### Can I reheat stuffing that was cooked inside the turkey?
 It’s safer *not* to — especially for seniors. Stuffing cooked inside poultry cools slowly and may harbor *Clostridium perfringens*, which thrives in warm, low-oxygen environments. Going forward, cook stuffing separately. If you do have leftover stuffed turkey, remove the stuffing immediately after cooking, refrigerate it separately within 90 minutes, and reheat to 165°F before serving.
 
-#### #### Why do seniors need special food safety tips for holiday leftovers?
+#### Why do seniors need special food safety tips for holiday leftovers?
 Because aging affects immune resilience (immunosenescence), stomach acid production, kidney filtration, and gut motility — all of which influence how the body handles bacteria and toxins in food. This makes holiday leftovers food safety seniors prioritize not just wise, but essential — helping prevent infections that could otherwise lead to hospitalization or complicate existing conditions like hypertension or heart failure.

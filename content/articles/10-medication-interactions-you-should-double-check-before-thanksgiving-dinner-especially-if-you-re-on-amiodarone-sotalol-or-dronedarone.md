@@ -80,17 +80,17 @@ Managing AFib doesn’t mean missing out on connection, comfort, or celebration.
 
 ### FAQ
 
-#### #### Can turkey stuffing cause problems with my AFib medication?
+#### Can turkey stuffing cause problems with my AFib medication?
 Not directly—but traditional stuffing often contains high-sodium broth, sage (which may mildly inhibit CYP2D6), and sometimes dried cranberries or citrus zest. While unlikely to cause major issues in moderation, pairing it with sotalol or dronedarone warrants attention to portion size and timing. Opt for homemade stuffing with low-sodium broth and skip the dried fruit if you’re sensitive.
 
-#### #### What are the top holiday medication interactions for afib drugs I should tell my family about?
+#### What are the top holiday medication interactions for afib drugs I should tell my family about?
 The three highest-yield ones to share: (1) grapefruit with amiodarone, (2) cranberry juice with sotalol, and (3) high-dose magnesium supplements with dronedarone. Letting loved ones know helps them support safer meal choices—and avoids well-intentioned but risky “just one sip” moments.
 
-#### #### Are herbal teas safe with my AFib drugs during the holidays?
+#### Are herbal teas safe with my AFib drugs during the holidays?
 Most caffeine-free herbal teas (chamomile, ginger, peppermint) are low-risk. However, avoid St. John’s wort (strong CYP3A4 inducer → lowers dronedarone/amiodarone levels) and licorice root (raises BP and depletes potassium). Steer clear of “heart health” blends containing hawthorn unless approved by your cardiologist—it may amplify QT effects.
 
-#### #### Does alcohol increase holiday medication interactions for afib drugs?
+#### Does alcohol increase holiday medication interactions for afib drugs?
 Yes—especially in excess. Ethanol can lower blood pressure acutely, worsen dehydration, and impair liver metabolism. For those on sotalol or amiodarone, even 2–3 drinks may blunt heart rate control or increase dizziness. If drinking, pace yourself (1 drink/hour max), hydrate with water between servings, and avoid mixing with cranberry or grapefruit mixers.
 
-#### #### Can I eat pumpkin pie if I’m on dronedarone?
+#### Can I eat pumpkin pie if I’m on dronedarone?
 Yes—with caveats. Pumpkin pie itself isn’t problematic, but watch the whipped cream (high in saturated fat, which may affect lipid metabolism) and avoid magnesium-fortified crusts or fillings. Also, skip the pumpkin spice latte afterward if it contains added magnesium or cinnamon in supplement-grade doses—stick to plain coffee or tea.

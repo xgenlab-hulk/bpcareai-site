@@ -91,22 +91,22 @@ What you’re experiencing is a quiet conversation between your aging heart, you
 
 ### FAQ
 
-#### #### Why do I get chest pressure only on memory foam couches—but not on regular chairs?
+#### Why do I get chest pressure only on memory foam couches—but not on regular chairs?
 
 Memory foam encourages deeper sinking and greater pelvic rotation than firmer seating. This changes abdominal and diaphragmatic mechanics in ways that can temporarily affect venous return and left atrial pressure—especially in adults with age-related diastolic changes. Regular chairs provide more structural support, helping maintain neutral alignment.
 
-#### #### Can chest pressure memory foam couch be a sign of heart disease?
+#### Can chest pressure memory foam couch be a sign of heart disease?
 
 It’s rarely a sign of *acute* heart disease like a heart attack or severe valve problem—especially if it’s isolated, reproducible only on that couch, and resolves quickly with position change. However, it *can* reflect underlying diastolic dysfunction, a common, treatable form of heart disease associated with aging and hypertension. Think of it as a gentle nudge—not a warning siren.
 
-#### #### Is chest pressure on a memory foam couch dangerous for seniors with high blood pressure?
+#### Is chest pressure on a memory foam couch dangerous for seniors with high blood pressure?
 
 Not inherently—but it does suggest your cardiovascular system is sensitive to postural shifts in venous return. For people with hypertension, optimizing posture, hydration, and diastolic support (e.g., with medications like ARBs or SGLT2 inhibitors, if prescribed) can reduce these episodes. Always discuss recurring symptoms with your care team.
 
-#### #### Could anxiety cause the exact same chest pressure memory foam couch feeling?
+#### Could anxiety cause the exact same chest pressure memory foam couch feeling?
 
 Yes—*but* anxiety-related chest pressure tends to be less predictable, more variable in timing, and often accompanied by other symptoms like racing heart, sweating, or restlessness. Postural chest pressure is typically steady, position-dependent, and relieved quickly by movement—making careful observation very helpful.
 
-#### #### Does losing weight help with chest pressure on soft furniture?
+#### Does losing weight help with chest pressure on soft furniture?
 
 For some, yes—especially if excess abdominal weight contributes to IVC compression in reclined positions. But even people at healthy weights can experience this due to age-related changes in tissue elasticity and diastolic function. Focus less on weight alone and more on posture, breathing, and consistent movement.

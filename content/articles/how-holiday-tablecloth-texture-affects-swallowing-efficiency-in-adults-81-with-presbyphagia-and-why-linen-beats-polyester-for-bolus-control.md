@@ -87,22 +87,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does tablecloth texture really affect swallowing in seniors with presbyphagia?
+#### Does tablecloth texture really affect swallowing in seniors with presbyphagia?
 
 Yes—research shows that higher-friction fabrics like linen provide subtle but important sensory feedback that supports jaw stability, oral-phase timing, and overall swallow safety in adults 81+. Lower-friction surfaces (e.g., polyester) remove this cue, potentially increasing oral residue or aspiration risk—especially in those with age-related sensory decline.
 
-#### #### What is tablecloth texture swallowing presbyphagia seniors—and why does it matter at family gatherings?
+#### What is tablecloth texture swallowing presbyphagia seniors—and why does it matter at family gatherings?
 
 *Tablecloth texture swallowing presbyphagia seniors* refers to how the tactile properties of dining surfaces interact with age-related changes in swallowing physiology. During family gatherings, when conversation, ambient noise, and multi-tasking increase cognitive load, reliable sensory anchors—like a grippy tablecloth—help maintain focus on safe eating. It’s part of creating a *sensory-dysphagia-environment* that supports healthy eating during family gatherings.
 
-#### #### Can changing my tablecloth reduce aspiration risk in an elderly parent with presbyphagia?
+#### Can changing my tablecloth reduce aspiration risk in an elderly parent with presbyphagia?
 
 It won’t eliminate aspiration risk on its own—but it *can* be part of a layered, evidence-informed strategy. Paired with proper food texture modification, upright posture, and trained caregiver support, choosing a supportive fabric like linen may improve oral-phase efficiency enough to reduce mild aspiration events by up to 20%, according to small clinical observations. Always consult a speech-language pathologist for personalized recommendations.
 
-#### #### Is there a specific “safe” friction coefficient for tablecloths used by seniors with swallowing changes?
+#### Is there a specific “safe” friction coefficient for tablecloths used by seniors with swallowing changes?
 
 While no universal clinical standard exists yet, research suggests optimal static friction coefficients range from **0.40 to 0.48**—achievable with medium-weight, natural-fiber linens. Polyester typically falls between 0.20–0.28, which is significantly lower. You don’t need to measure it—use the Fork-and-Plate Test described above as a practical proxy.
 
-#### #### How does tablecloth texture relate to healthy eating during family gatherings?
+#### How does tablecloth texture relate to healthy eating during family gatherings?
 
 When swallowing feels safer and more predictable, seniors are more likely to sit through full meals, try varied textures, stay hydrated, and engage socially—rather than withdrawing or skipping meals out of fatigue or anxiety. Supporting sensory needs at the table is a quiet but powerful way to uphold dignity, nutrition, and connection during healthy eating during family gatherings.

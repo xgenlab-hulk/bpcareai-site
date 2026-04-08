@@ -110,17 +110,17 @@ Recognizing cerebral autoregulation failure signs isn’t about predicting decli
 
 ### FAQ
 
-#### #### What are the earliest cerebral autoregulation failure signs in seniors with high blood pressure?
+#### What are the earliest cerebral autoregulation failure signs in seniors with high blood pressure?
 The earliest cerebral autoregulation failure signs often include transient word-finding pauses (2–10 seconds), dizziness upon standing *without* orthostatic hypotension, and a subtle but noticeable slowing of mental processing—especially under time pressure or multitasking. These occur because the brain’s small vessels lose flexibility in responding to everyday BP shifts.
 
-#### #### Can cerebral autoregulation failure signs appear even if my blood pressure is “well-controlled”?
+#### Can cerebral autoregulation failure signs appear even if my blood pressure is “well-controlled”?
 Yes. “Well-controlled” usually refers to average clinic or home readings (e.g., <140/90 mm Hg), but cerebral autoregulation depends on *vascular responsiveness*, not just static numbers. Decades of pressure exposure can stiffen small arteries—even when current BP is medicated to target. That’s why symptoms may emerge despite seemingly optimal control.
 
-#### #### Are cerebral autoregulation failure signs reversible?
+#### Are cerebral autoregulation failure signs reversible?
 Not fully reversible once structural changes like significant white matter hyperintensities are present—but progression can be meaningfully slowed. Evidence supports that optimizing BP stability (not just lowering), increasing physical activity, improving sleep quality, and managing insulin resistance all contribute to preserving remaining autoregulatory capacity.
 
-#### #### How is cerebral autoregulation tested in clinical practice?
+#### How is cerebral autoregulation tested in clinical practice?
 Dynamic testing uses transcranial Doppler ultrasound + continuous blood pressure monitoring to calculate metrics like phase difference and autoregulation index (ARI). It’s not widely available in primary care but may be offered at comprehensive stroke or memory centers—especially for patients with unexplained cognitive or balance symptoms and known WMHs.
 
-#### #### Is dizziness always related to low blood pressure in older adults?
+#### Is dizziness always related to low blood pressure in older adults?
 No—especially in those with hypertension and white matter changes. Postural dizziness *without* orthostatic hypotension may reflect impaired cerebral autoregulation: the brain briefly underperforms during upright posture because small vessels fail to compensate quickly enough for gravitational shifts in perfusion pressure.

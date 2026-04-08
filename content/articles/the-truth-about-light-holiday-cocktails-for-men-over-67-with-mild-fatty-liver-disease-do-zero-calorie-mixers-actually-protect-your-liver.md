@@ -82,22 +82,22 @@ Navigating holiday traditions while caring for your liver doesn’t require depr
 
 ### FAQ
 
-#### #### Are zero-calorie cocktails safe for someone with fatty liver disease?
+#### Are zero-calorie cocktails safe for someone with fatty liver disease?
 
 Not necessarily. While they eliminate added sugars and calories, zero-calorie cocktails still deliver ethanol—which stresses the liver—and often contain artificial sweeteners that may promote gut dysbiosis and inflammation. In men over 67 with mild fatty liver, research shows these drinks can still contribute to worsening steatosis, especially with frequent or evening use.
 
-#### #### Do zero-calorie cocktails and fatty liver concerns apply to older adults more than younger people?
+#### Do zero-calorie cocktails and fatty liver concerns apply to older adults more than younger people?
 
 Yes. Aging reduces ADH enzyme activity, slows mitochondrial fat oxidation, and weakens circadian regulation of lipid metabolism. As a result, the same “light” cocktail that might cause minimal change in a 40-year-old can trigger measurable fat accumulation in a 68-year-old—even with zero-calorie mixers.
 
-#### #### Can I still enjoy cocktails during family gatherings if I have mild fatty liver?
+#### Can I still enjoy cocktails during family gatherings if I have mild fatty liver?
 
 Absolutely—mindfully. Prioritize frequency over volume: choose one well-made drink per gathering, avoid daily use, skip artificial sweeteners when possible, and pair it with protein-rich food. Focus on connection, not consumption. Healthy eating during family gatherings is about joy *and* stewardship.
 
-#### #### Does drinking alcohol in the evening affect liver fat differently than daytime drinking?
+#### Does drinking alcohol in the evening affect liver fat differently than daytime drinking?
 
 Yes. Evening alcohol interferes with nocturnal melatonin and suppresses BMAL1, a key circadian regulator of fat synthesis in liver cells. Human studies show evening intake (after 7 p.m.) correlates with higher CAP scores and greater ALT fluctuations over time—regardless of mixer type.
 
-#### #### What’s the safest mixer for alcohol if I have fatty liver?
+#### What’s the safest mixer for alcohol if I have fatty liver?
 
 Plain sparkling water with citrus or herbs (e.g., mint, rosemary) is the best-supported option. It avoids both sugar *and* artificial sweeteners. If you prefer flavored options, unsweetened kombucha (low-alcohol, <0.5%) or diluted apple cider vinegar with water may offer prebiotic benefits—though always discuss new additions with your care team.

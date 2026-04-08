@@ -65,17 +65,17 @@ Holiday time is full of meaning — and your well-being is part of that meaning 
 
 ### FAQ  
 
-#### #### Does holiday stress really raise blood sugar in older adults with diabetes?  
+#### Does holiday stress really raise blood sugar in older adults with diabetes?  
 Yes — research shows that even mild-to-moderate psychological stress increases cortisol and epinephrine, which reduce insulin sensitivity and prompt the liver to release extra glucose. In adults over 65 with long-standing type 2 diabetes, this effect is often amplified due to age-related changes in hormone metabolism and reduced pancreatic reserve.
 
-#### #### How can I manage holiday stress blood sugar seniors without giving up celebrations?  
+#### How can I manage holiday stress blood sugar seniors without giving up celebrations?  
 You don’t need to give anything up — just add gentle structure. Prioritize sleep, move after meals, eat protein before festive foods, and test glucose consistently to catch patterns early. Many people find that bringing a healthy dish to share (like roasted vegetables or a lentil salad) helps them enjoy gatherings while staying grounded.
 
-#### #### What’s the best way to monitor holiday stress blood sugar seniors at home?  
+#### What’s the best way to monitor holiday stress blood sugar seniors at home?  
 Use a reliable blood glucose meter and test at consistent times: fasting, before dinner, and 2 hours after your largest meal. Pair readings with simple notes about sleep, activity, and emotional tone. Over time, you’ll see which holiday factors most affect your numbers — and what supports balance.
 
-#### #### Can stress cause low blood sugar in seniors with diabetes?  
+#### Can stress cause low blood sugar in seniors with diabetes?  
 Yes — especially if you’re on insulin or sulfonylureas. Stress can lead to skipped meals, delayed eating, or unintentional overcorrection with medication. That’s why checking glucose *before* treating symptoms (like shakiness or sweating) is essential — those signs aren’t always from low sugar.
 
-#### #### Is healthy holiday eating for seniors different from general advice?  
+#### Is healthy holiday eating for seniors different from general advice?  
 Yes — older adults often need more protein (to preserve muscle), fiber (for gut and glucose health), and hydration (since thirst sensation declines with age). “Healthy holiday eating for seniors” emphasizes nutrient density over restriction: think baked sweet potatoes instead of mashed (with skin on), lean turkey instead of processed meats, and fruit-based desserts instead of heavy creams or refined sugars.

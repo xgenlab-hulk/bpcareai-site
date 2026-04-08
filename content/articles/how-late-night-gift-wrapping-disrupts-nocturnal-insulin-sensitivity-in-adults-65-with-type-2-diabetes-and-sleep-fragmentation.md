@@ -90,22 +90,22 @@ Holiday joy doesn’t require sacrifice—and caring for your health doesn’t m
 
 ### FAQ
 
-#### #### Does late-night activity insulin sensitivity seniors really affect blood sugar the next day?
+#### Does late-night activity insulin sensitivity seniors really affect blood sugar the next day?
 
 Yes—studies using overnight CGM in adults 65+ show that extended evening activity (especially under bright or blue-rich light) can delay melatonin onset and reduce glucose clearance by 12–20% overnight. This often appears as a higher-than-usual fasting glucose the following morning—but it’s typically reversible with consistent, earlier routines.
 
-#### #### How does sleep apnea relate to late-night activity insulin sensitivity seniors?
+#### How does sleep apnea relate to late-night activity insulin sensitivity seniors?
 
 Mild sleep apnea contributes to sleep fragmentation, which disrupts the normal nocturnal dip in cortisol and growth hormone—both of which influence insulin action. In seniors with both sleep apnea and type 2 diabetes, fragmented sleep is associated with a 25% higher risk of overnight hyperglycemia, independent of BMI or medication use.
 
-#### #### Can changing my evening lighting really improve late-night activity insulin sensitivity seniors?
+#### Can changing my evening lighting really improve late-night activity insulin sensitivity seniors?
 
 Absolutely. Research shows that switching from cool-white (5000K–6500K) to warm-white (2700K) lighting after 8:30 p.m. can advance melatonin onset by up to 22 minutes—and improve overnight glucose stability by ~10–15%. It’s one of the most accessible, evidence-backed adjustments you can make.
 
-#### #### Is it safe to wrap gifts after dinner if I have type 2 diabetes?
+#### Is it safe to wrap gifts after dinner if I have type 2 diabetes?
 
 Yes—especially if you keep it brief (under 60 minutes), use warm-toned lighting, and include short movement breaks. The key is avoiding *prolonged*, *bright*, and *late* combinations. If you notice consistent morning glucose elevations, consider shifting the activity earlier—even by 30 minutes—to give your body more recovery time.
 
-#### #### What’s the best time to check blood sugar before bed to understand late-night activity insulin sensitivity seniors?
+#### What’s the best time to check blood sugar before bed to understand late-night activity insulin sensitivity seniors?
 
 A bedtime check (around 10–10:30 p.m.) is helpful—but even more telling is pairing it with a fasting reading at 6–7 a.m. A gap of more than 30 mg/dL between the two—especially if fasting glucose is >130 mg/dL—may suggest overnight glucose dysregulation worth discussing with your care team.

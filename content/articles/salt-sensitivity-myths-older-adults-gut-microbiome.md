@@ -86,20 +86,20 @@ Science is moving past one-size-fits-all nutrition—and that’s especially goo
 
 ### FAQ  
 
-#### #### Is salt sensitivity common in adults over 70?  
+#### Is salt sensitivity common in adults over 70?  
 Yes—but not universal. Studies estimate **35–45% of adults 69+ are truly salt sensitive**, meaning their blood pressure rises significantly with sodium intake. The rest may see little to no change, especially if they have strong gut microbiome diversity or favorable genetic profiles.  
 
-#### #### Can gut health affect salt sensitivity in older adults?  
+#### Can gut health affect salt sensitivity in older adults?  
 Absolutely—and it’s one of the most exciting areas of new research. A diverse gut microbiome helps regulate inflammation and produces metabolites that support healthy kidney sodium handling. Older adults with lower microbial diversity (often due to diet, antibiotics, or aging) are more likely to experience salt-sensitive blood pressure changes—making gut-supportive foods an important part of BP care.  
 
-#### #### What are the biggest salt sensitivity myths older adults gut microbiome?  
+#### What are the biggest salt sensitivity myths older adults gut microbiome?  
 Three top myths:  
 1. *“All seniors must limit sodium to 1,500 mg/day.”* → Not true—many tolerate 2,300–3,000 mg well, especially with balanced potassium and microbiome health.  
 2. *“Salt sensitivity is just about kidneys.”* → It’s also tied to genetics, immune signaling, and gut-derived metabolites.  
 3. *“If your BP is normal, salt doesn’t matter.”* → Even with normal readings, sodium can impact arterial stiffness and long-term vascular health—especially with low microbiome diversity.  
 
-#### #### Does potassium help counteract salt’s effect on blood pressure?  
+#### Does potassium help counteract salt’s effect on blood pressure?  
 Yes—potassium helps relax blood vessel walls and balances sodium’s fluid-retaining effects. Most older adults benefit from increasing potassium *through food* (not supplements unless prescribed), aiming for ~3,500–4,700 mg daily. But talk to your doctor first if you have kidney disease or take certain BP medications.  
 
-#### #### Should I avoid all processed foods to manage salt sensitivity?  
+#### Should I avoid all processed foods to manage salt sensitivity?  
 Not necessarily—but it helps to be selective. Many processed foods contain *both* high sodium *and* low fiber/poor-quality fats, which can worsen inflammation and gut imbalance. Focus on whole, minimally processed options first—and remember: a homemade soup with broth, veggies, and herbs may be far gentler on your system than a “low-sodium” packaged meal full of stabilizers and sugars.

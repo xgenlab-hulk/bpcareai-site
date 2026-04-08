@@ -82,17 +82,17 @@ Dental scaling silent hypoglycemia seniors is a nuanced but manageable aspect of
 
 ### FAQ
 
-#### #### What is dental scaling silent hypoglycemia in seniors?
+#### What is dental scaling silent hypoglycemia in seniors?
 Dental scaling silent hypoglycemia in seniors refers to episodes of low blood glucose that occur during or shortly after teeth cleaning—without typical warning symptoms like shakiness or sweating. It’s especially relevant for older adults with diabetes and autonomic neuropathy, where the body’s natural alarm system for hypoglycemia is dampened.
 
-#### #### Can dental scaling cause low blood sugar in older adults with diabetes?
+#### Can dental scaling cause low blood sugar in older adults with diabetes?
 Yes—particularly in adults 69+ with hypoglycemia-associated autonomic failure (HAAF). The combination of local gum blood flow changes, delayed interstitial glucose sensing, and blunted neuroendocrine responses can lead to clinically significant hypoglycemia that goes unnoticed until it’s advanced.
 
-#### #### How does gum inflammation affect blood sugar readings during dental scaling?
+#### How does gum inflammation affect blood sugar readings during dental scaling?
 Chronic gingival inflammation alters microvascular perfusion and slows glucose diffusion from capillaries into interstitial fluid—the compartment measured by most CGMs. This increases sensor lag time by up to 15 minutes in seniors, meaning your CGM may show “110 mg/dL” while plasma glucose is already dropping toward 60 mg/dL.
 
-#### #### Is it safe to get dental scaling if I use insulin?
+#### Is it safe to get dental scaling if I use insulin?
 Yes—with precautions. Work with your diabetes care team to adjust insulin timing and doses before your appointment. Always check glucose immediately before scaling and again midway through. Have fast-acting carbs readily available, and inform your dental team about your diabetes management plan.
 
-#### #### What should I tell my dentist before a scaling appointment if I have diabetes?
+#### What should I tell my dentist before a scaling appointment if I have diabetes?
 Let them know: your diabetes type and duration, current medications (especially insulin or sulfonylureas), history of hypoglycemia or unawareness, recent CGM patterns, and whether you’ve experienced dizziness or confusion after past dental visits. This helps them tailor pacing, monitoring, and emergency readiness.

@@ -83,22 +83,22 @@ Supporting your endothelium doesn’t require drastic changes—or reliance on f
 
 ### FAQ
 
-#### #### What are the best foods for endothelial support without nitrates seniors?
+#### What are the best foods for endothelial support without nitrates seniors?
 
 The top evidence-backed options include pomegranate (juice or fresh arils), high-flavanol cocoa, hawthorn berry (in mild tea or standardized extract form), walnuts, and properly prepared green tea. These work primarily by enhancing eNOS enzyme activity, protecting existing nitric oxide from oxidation, and improving arterial elasticity—without depending on nitrate metabolism.
 
-#### #### Can I get endothelial support without nitrates seniors if I take PPIs long-term?
+#### Can I get endothelial support without nitrates seniors if I take PPIs long-term?
 
 Yes—often *more effectively*. Proton pump inhibitors reduce gastric acidity needed for nitrate conversion, making nitrate-dependent strategies less reliable. Compounds like cocoa flavanols, pomegranate ellagitannins, and green tea EGCG act systemically and do not require gastric activation, making them particularly suitable for long-term PPI users.
 
-#### #### Are there supplements that offer endothelial support without nitrates seniors?
+#### Are there supplements that offer endothelial support without nitrates seniors?
 
 Some clinically studied options include standardized hawthorn extract (providing ≥1.8% vitexin), cocoa extract with ≥200 mg flavanols per dose, and pomegranate extract containing ≥40% ellagic acid derivatives. Always discuss supplement use with your healthcare provider—especially if taking anticoagulants, antihypertensives, or diabetes medications.
 
-#### #### Does low intrinsic factor affect nitric oxide production?
+#### Does low intrinsic factor affect nitric oxide production?
 
 Indirectly, yes. Low intrinsic factor signals advanced gastric atrophy, which diminishes stomach acid and beneficial bacteria needed to convert dietary nitrates into nitrite—the essential precursor to nitric oxide. However, intrinsic factor deficiency does *not* impair the body’s ability to produce NO via the eNOS pathway—making nitrate-independent support strategies especially valuable.
 
-#### #### How long does it take to see blood pressure improvements from endothelial support without nitrates seniors?
+#### How long does it take to see blood pressure improvements from endothelial support without nitrates seniors?
 
 Most clinical trials report measurable improvements in endothelial function (via FMD or BP) after 6–12 weeks of consistent intake. Systolic reductions tend to range from 3–6 mm Hg on average—modest but clinically meaningful, especially when combined with other heart-healthy habits. Patience and regular monitoring are key.

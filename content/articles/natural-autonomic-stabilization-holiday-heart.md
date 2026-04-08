@@ -69,17 +69,17 @@ Autonomic balance isn’t about achieving perfect stillness—it’s about build
 
 ### FAQ  
 
-#### #### What does “natural autonomic stabilization holiday heart” actually mean—and is it safe for seniors?  
+#### What does “natural autonomic stabilization holiday heart” actually mean—and is it safe for seniors?  
 “Natural autonomic stabilization holiday heart” refers to non-drug strategies—like timed light exposure and paced breathing—that support balanced nervous system function during the physiologically demanding holiday period. These methods are safe for most adults 59+, supported by clinical trials in older populations, and carry minimal risk when practiced as described. Always discuss new routines with your clinician if you have advanced heart failure, pacemaker dependence, or uncontrolled orthostatic hypotension.
 
-#### #### Can natural autonomic stabilization holiday heart help with holiday-induced high blood pressure?  
+#### Can natural autonomic stabilization holiday heart help with holiday-induced high blood pressure?  
 Yes—indirectly but meaningfully. By enhancing vagal tone and reducing sympathetic reactivity, these practices improve baroreflex sensitivity and vascular compliance. In randomized trials, adults using morning light + coherent breathing for 4 weeks showed average reductions in daytime systolic BP of 5–7 mm Hg—comparable to first-line lifestyle interventions. Effects are cumulative and most noticeable with consistency.
 
-#### #### How long before I notice changes in my heart rhythm or energy levels?  
+#### How long before I notice changes in my heart rhythm or energy levels?  
 Most people report subjective improvements—like calmer mornings or easier recovery after social events—within 7–10 days. Objective markers (e.g., HRV increase, BP trend reduction) typically emerge after 2–3 weeks of faithful practice. Patience and regularity matter more than intensity.
 
-#### #### Is slow breathing really different from “just relaxing”?  
+#### Is slow breathing really different from “just relaxing”?  
 Yes—neurophysiologically. Passive relaxation lowers sympathetic activity, but *rhythmic, paced breathing at 6 breaths/minute* actively engages the vagus nerve via mechanical stretch of pulmonary receptors and resonance with cardiovascular rhythms. It’s not about effort—it’s about precision in timing, which creates measurable neural entrainment.
 
-#### #### Do I need special equipment to start natural autonomic stabilization holiday heart?  
+#### Do I need special equipment to start natural autonomic stabilization holiday heart?  
 No. All you need is access to natural daylight (no special glasses or lamps) and a quiet moment to breathe. Optional tools—like a basic BP cuff or HRV-tracking app—can support awareness, but aren’t required. The core work happens in your physiology, not your device.

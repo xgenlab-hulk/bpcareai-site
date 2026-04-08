@@ -92,22 +92,22 @@ It’s easy to think health lives in pills, plates, or numbers — but increasin
 
 ### FAQ
 
-#### #### Does intermittent socializing postprandial glucose affect blood pressure too?
+#### Does intermittent socializing postprandial glucose affect blood pressure too?
 
 Yes — indirectly but meaningfully. Vagal engagement during meals supports healthy arterial pressure regulation. Observational data shows adults with regular warm mealtime interaction average 5–7 mm Hg lower systolic BP over 24-hour monitoring, likely due to improved autonomic balance and reduced sympathetic reactivity.
 
-#### #### How does intermittent socializing postprandial glucose differ from mindful eating?
+#### How does intermittent socializing postprandial glucose differ from mindful eating?
 
 Mindful eating emphasizes internal awareness (taste, fullness, texture); **intermittent socializing postprandial glucose** highlights *relational* awareness — how connection with others modulates digestion and glucose kinetics. They overlap beautifully, but one centers self, the other centers shared presence.
 
-#### #### Can video calls count for intermittent socializing postprandial glucose benefits?
+#### Can video calls count for intermittent socializing postprandial glucose benefits?
 
 Early evidence suggests yes — especially when the call feels warm, reciprocal, and minimally distracted. However, in-person interaction tends to yield stronger vagal activation (likely due to voice prosody, shared space, and nonverbal cues). Aim for quality over format.
 
-#### #### Is intermittent socializing postprandial glucose relevant for prediabetes?
+#### Is intermittent socializing postprandial glucose relevant for prediabetes?
 
 Absolutely. Glycemic variability rises *before* formal diabetes diagnosis — and social engagement may be a protective, modifiable factor. Adults with prediabetes who report frequent positive mealtime interactions show slower progression to diabetes over 5-year follow-up (HR = 0.68, per Diabetes Care 2023).
 
-#### #### What if I live alone — how can I support intermittent socializing postprandial glucose?
+#### What if I live alone — how can I support intermittent socializing postprandial glucose?
 
 Try “social anchoring”: eat near a window where you wave to neighbors, join a weekly phone lunch group, or narrate your meal aloud (e.g., “This soup smells like my mother’s kitchen”). Even imagined or recalled connection activates similar neural pathways — and emerging data shows modest but real metabolic benefit.

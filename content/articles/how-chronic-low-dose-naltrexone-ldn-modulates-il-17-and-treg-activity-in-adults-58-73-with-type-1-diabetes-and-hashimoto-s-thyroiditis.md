@@ -46,17 +46,17 @@ In short, *ldn type 1 diabetes hashimoto's* represents one thoughtful option amo
 
 ### FAQ
 
-#### #### Can LDN help preserve insulin production in long-standing type 1 diabetes?  
+#### Can LDN help preserve insulin production in long-standing type 1 diabetes?  
 While most C-peptide preservation data come from people within 2–3 years of diagnosis, some adults aged 58–73 with detectable baseline C-peptide (≥0.1 nmol/L) have maintained stable levels on LDN for 12+ months—suggesting possible benefit even later in the disease course. It’s not about regrowing beta cells, but reducing ongoing immune-mediated loss.
 
-#### #### Is ldn type 1 diabetes hashimoto's safe to use with thyroid medication?  
+#### Is ldn type 1 diabetes hashimoto's safe to use with thyroid medication?  
 Yes—LDN doesn’t interfere with levothyroxine absorption or metabolism. However, because improved immune regulation may gradually reduce thyroid antibody burden (and thus tissue damage), your thyroid hormone needs could change over time—so regular TSH and free T4 checks every 3–6 months are wise.
 
-#### #### Does LDN lower thyroid antibodies in people with Hashimoto’s and type 1 diabetes?  
+#### Does LDN lower thyroid antibodies in people with Hashimoto’s and type 1 diabetes?  
 In small cohort studies, ~40–50% of adults using LDN saw measurable declines in TPO antibodies over 6–12 months—particularly those starting with titers >500 IU/mL. Response varies, and antibodies aren’t the sole marker of clinical improvement.
 
-#### #### What’s the typical LDN dosing protocol for someone with both conditions?  
+#### What’s the typical LDN dosing protocol for someone with both conditions?  
 Most clinicians begin at 1.5 mg nightly for 2 weeks, then increase to 3.0 mg for 2–4 weeks, assessing tolerance and symptom response. Some go to 4.5 mg, though higher doses don’t always mean stronger immunomodulation—and may increase side effects like vivid dreams or mild GI upset.
 
-#### #### Can LDN improve blood sugar stability in type 1 diabetes?  
+#### Can LDN improve blood sugar stability in type 1 diabetes?  
 Not directly—but by potentially reducing IL-17–driven inflammation and improving gut barrier integrity, some users report fewer unexplained glucose swings and less “brittle” patterns. This is likely secondary to immune modulation, not insulin sensitization.

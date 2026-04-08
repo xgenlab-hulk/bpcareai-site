@@ -53,22 +53,22 @@ Bottom line? Choosing wisely matters—not because plant-based burgers are “ba
 
 ### FAQ
 
-#### #### Are plant-based burgers endothelial function friendly for people with prediabetes?
+#### Are plant-based burgers endothelial function friendly for people with prediabetes?
 
 Not all are. While some whole-food-based options support vascular health, many top retail brands contain high sodium, saturated fats (like coconut oil), and ultra-processed binders that may impair flow-mediated dilation (FMD) and raise oxidized LDL—especially in adults with prediabetes over 58.
 
-#### #### Can plant-based burgers endothelial function prediabetes impact heart disease risk long-term?
+#### Can plant-based burgers endothelial function prediabetes impact heart disease risk long-term?
 
 Yes—repeatedly consuming ultra-processed plant-based burgers may contribute to chronic endothelial dysfunction, a key early step in atherosclerosis. Over time, this increases heart disease risk, even if traditional markers like total cholesterol appear stable.
 
-#### #### Do plant-based burgers lower LDL in people with prediabetes?
+#### Do plant-based burgers lower LDL in people with prediabetes?
 
 Some do—but LDL reduction alone doesn’t tell the full story. A burger might lower LDL yet worsen endothelial function due to high sodium or inflammatory ingredients. Focus on *vascular responsiveness*, not just lipid panels.
 
-#### #### How often can I eat plant-based burgers if I have prediabetes?
+#### How often can I eat plant-based burgers if I have prediabetes?
 
 Occasional use (once every 1–2 weeks) of lower-sodium, lower-saturated-fat options is reasonable. For regular meals, prioritize whole-food plant proteins like lentils, chickpeas, and edamame—which consistently support plant-based burgers endothelial function prediabetes in clinical studies.
 
-#### #### Is there a link between plant-based burgers and high blood pressure?
+#### Is there a link between plant-based burgers and high blood pressure?
 
 Yes—many contain 400+ mg of sodium per patty, which can acutely raise arterial pressure and blunt endothelial-dependent vasodilation, especially in salt-sensitive adults over 55 with prediabetes.

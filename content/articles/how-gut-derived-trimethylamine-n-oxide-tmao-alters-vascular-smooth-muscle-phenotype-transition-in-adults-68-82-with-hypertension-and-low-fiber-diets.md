@@ -52,22 +52,22 @@ The *tmao vascular smooth muscle phenotype* is not a life sentence—it’s a dy
 
 ### FAQ
 
-#### #### What is tmao vascular smooth muscle phenotype—and why does it matter for high blood pressure?
+#### What is tmao vascular smooth muscle phenotype—and why does it matter for high blood pressure?
 
 The *tmao vascular smooth muscle phenotype* describes how elevated gut-derived TMAO encourages vascular smooth muscle cells to shift from a calm, contractile state to an active, collagen-producing state—contributing to arterial stiffening and harder-to-control BP. It matters because this process is modifiable through diet and gut health support.
 
-#### #### Can lowering TMAO improve tmao vascular smooth muscle phenotype in older adults?
+#### Can lowering TMAO improve tmao vascular smooth muscle phenotype in older adults?
 
 Yes—studies in adults 65+ show that sustained reductions in TMAO (e.g., via increased prebiotic fiber and reduced red meat intake) are associated with improved markers of VSMC stability and decreased arterial collagen deposition—supporting more flexible, responsive vessels.
 
-#### #### How does fiber timing affect tmao vascular smooth muscle phenotype?
+#### How does fiber timing affect tmao vascular smooth muscle phenotype?
 
 Consuming prebiotic fiber *before* or *with* protein-rich meals appears to reduce TMAO generation by altering the gut’s microbial enzyme expression—specifically decreasing the activity of cutC and cntA genes responsible for converting choline and carnitine into TMA.
 
-#### #### Is TMAO testing recommended for everyone with high blood pressure?
+#### Is TMAO testing recommended for everyone with high blood pressure?
 
 Not routinely—yet. TMAO testing is currently most helpful in research or clinical settings when hypertension is difficult to manage, or when signs of early vascular aging (e.g., high pulse wave velocity) are present. For most people, focusing on fiber, hydration, and regular BP tracking remains the most practical first step.
 
-#### #### What foods help lower TMAO naturally?
+#### What foods help lower TMAO naturally?
 
 Foods rich in prebiotic fiber—including cooked-and-cooled potatoes or rice (resistant starch), apples with skin, flaxseeds, and leafy greens—support beneficial bacteria that compete with TMA-producing microbes. Pairing these with moderate portions of animal protein helps balance gut metabolism without eliminating nutrient-dense foods entirely.

@@ -75,17 +75,17 @@ Caring for a senior navigating grief during the holidays is both tender and dema
 
 ### FAQ
 
-#### #### What are the most common signs of holiday grief emotional eating in seniors?
+#### What are the most common signs of holiday grief emotional eating in seniors?
 Common signs include skipping meals then overeating later (especially at night), avoiding holiday meals altogether, losing interest in favorite foods, eating alone more often, and using sweets or snacks to cope with sadness or fatigue—particularly when these behaviors mark a noticeable change from usual habits.
 
-#### #### Can holiday grief emotional eating seniors lead to health problems?
+#### Can holiday grief emotional eating seniors lead to health problems?
 Yes—prolonged emotional eating patterns can contribute to blood pressure fluctuations (e.g., systolic BP rising 10–20 mm Hg after high-sodium holiday meals), weight gain, blood sugar instability, and worsened cardiovascular risk. More importantly, it may delay identification of underlying depression or grief, which themselves raise long-term health risks—including a 20% increased risk of heart disease in untreated late-life depression.
 
-#### #### How is holiday grief emotional eating different from normal aging-related appetite changes?
+#### How is holiday grief emotional eating different from normal aging-related appetite changes?
 Normal aging may involve slower digestion, milder taste changes, or slightly reduced caloric needs—but it doesn’t typically cause dramatic swings (e.g., fasting all day then bingeing), emotional distress around meals, or social withdrawal *specifically* during emotionally charged times like holidays. Emotional eating is linked to mood, memory, and relational context—not just physiology.
 
-#### #### What role does loneliness play in holiday grief emotional eating seniors?
+#### What role does loneliness play in holiday grief emotional eating seniors?
 Loneliness is a powerful physiological stressor. In older adults, chronic loneliness correlates with elevated cortisol and inflammation—both of which stimulate cravings and disrupt appetite regulation. During the holidays, loneliness may intensify due to heightened expectations of togetherness, making food one of the few accessible sources of comfort and control.
 
-#### #### Are there culturally sensitive approaches to supporting healthy eating during family gatherings?
+#### Are there culturally sensitive approaches to supporting healthy eating during family gatherings?
 Absolutely. Honor cultural food traditions while gently expanding options—e.g., offering a lighter version of a beloved dish (like baked instead of fried), involving elders in recipe adaptation, or designating a “story plate” where each person shares a memory tied to a food item. Respecting cultural identity strengthens emotional safety—and supports sustainable, joyful eating.

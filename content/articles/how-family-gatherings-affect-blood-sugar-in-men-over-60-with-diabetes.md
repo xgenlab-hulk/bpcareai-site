@@ -54,17 +54,17 @@ In short, managing blood sugar during Christmas and New Year isn’t about perfe
 
 ### FAQ
 
-#### #### How do family gatherings affect blood sugar in men over 60?  
+#### How do family gatherings affect blood sugar in men over 60?  
 Family gatherings often disrupt routine, increase emotional stress, and encourage larger portions—each of which can raise blood glucose. In men over 60, slower metabolism and age-related insulin resistance mean these effects are more pronounced, sometimes causing spikes of 40–60 mg/dL after a single meal.
 
-#### #### What can men over 60 do to manage blood sugar during Christmas and New Year?  
+#### What can men over 60 do to manage blood sugar during Christmas and New Year?  
 Plan ahead: eat a small, balanced snack before arriving, bring a healthy dish, test glucose before and after meals, and move your body—even gently. Prioritize consistency over restriction, and remember that one meal doesn’t define your health journey.
 
-#### #### Why does family gatherings blood sugar men over 60 feel harder than for younger adults?  
+#### Why does family gatherings blood sugar men over 60 feel harder than for younger adults?  
 Older men often face compounded challenges: reduced muscle mass (which stores glucose), possible medication interactions, quieter hypoglycemia symptoms (like confusion instead of shakiness), and social expectations that make saying “no” feel harder—especially across generations.
 
-#### #### Is it normal for blood sugar to rise during holiday family time—even with careful eating?  
+#### Is it normal for blood sugar to rise during holiday family time—even with careful eating?  
 Yes. Stress hormones, altered sleep, and even excitement can elevate glucose independently of food intake. A modest rise (e.g., 30–50 mg/dL post-meal) is common and manageable—what matters most is recognizing patterns over time, not judging single readings.
 
-#### #### Should men over 60 check blood sugar more often during family gatherings?  
+#### Should men over 60 check blood sugar more often during family gatherings?  
 Yes—especially before meals, 2 hours after eating, and at bedtime. More frequent checks (e.g., 4–6 times/day during holiday weeks) help identify hidden triggers and prevent prolonged highs or dangerous lows.

@@ -97,17 +97,17 @@ Social isolation vascular aging is real, yes—but so is your capacity to influe
 
 ### FAQ
 
-#### #### Does social isolation vascular aging happen even if I’m not depressed?
+#### Does social isolation vascular aging happen even if I’m not depressed?
 Yes. Research shows loneliness affects vascular health *independently* of clinical depression. It’s the chronic absence of meaningful interaction—not mood alone—that triggers inflammatory pathways leading to arterial stiffening.
 
-#### #### Can social isolation vascular aging be reversed—or only slowed?
+#### Can social isolation vascular aging be reversed—or only slowed?
 Evidence suggests both. RCTs show measurable PWV reductions within weeks of increasing social connection—indicating functional improvement, not just delay. While structural changes (like collagen buildup) take longer to remodel, improved endothelial function and reduced oxidative stress begin quickly.
 
-#### #### How is social isolation vascular aging different from normal aging of the arteries?
+#### How is social isolation vascular aging different from normal aging of the arteries?
 Normal aging involves gradual stiffening—about 0.2–0.3 m/s increase in PWV per year after age 60. Social isolation vascular aging accelerates that rate by ~40–60%, meaning PWV may climb 0.4–0.5 m/s annually instead. That seemingly small difference translates to significantly higher 10-year cardiovascular risk.
 
-#### #### Will video calls work as well as voice-only calls for improving arterial elasticity?
+#### Will video calls work as well as voice-only calls for improving arterial elasticity?
 Current data specifically tested *audio-only* calls—and found strong effects. While video may add warmth for some, the RCT design intentionally removed visual cues to isolate the impact of vocal tone, pacing, and attentive listening. So yes: voice alone is sufficient, and sometimes even more relaxing for older adults.
 
-#### #### What’s the link between social isolation vascular aging and heart disease?
+#### What’s the link between social isolation vascular aging and heart disease?
 Arterial stiffening raises systolic BP, increases cardiac workload, impairs coronary perfusion, and promotes plaque instability—all direct contributors to heart disease. Adults with high PWV (>10 m/s) have a 2–3× greater risk of major adverse cardiac events over 5 years, independent of traditional risk factors.

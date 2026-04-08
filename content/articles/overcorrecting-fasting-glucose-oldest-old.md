@@ -81,17 +81,17 @@ Managing diabetes in the oldest-old isn’t about hitting textbook numbers—it�
 
 ### FAQ
 
-#### #### What does “overcorrecting fasting glucose oldest old” actually mean?
+#### What does “overcorrecting fasting glucose oldest old” actually mean?
 It refers to setting overly aggressive blood sugar targets—like aiming for fasting glucose consistently below 90 mg/dL—in adults aged 80 and older, especially when they have conditions like mild cognitive impairment or frailty. This approach increases hypoglycemia risk without proven benefits for longevity or cognition—and may worsen falls and delirium.
 
-#### #### Is overcorrecting fasting glucose oldest old linked to dementia progression?
+#### Is overcorrecting fasting glucose oldest old linked to dementia progression?
 Not directly as a cause of dementia, but repeated or prolonged hypoglycemia may accelerate neuronal stress and functional decline in people with existing mild cognitive impairment. Studies suggest that older adults with diabetes and frequent low glucose episodes show faster rates of cognitive deterioration over 3–5 years compared to those with stable, slightly higher glucose ranges.
 
-#### #### Can A1c be trusted in the oldest-old—or should I rely more on fingerstick checks?
+#### Can A1c be trusted in the oldest-old—or should I rely more on fingerstick checks?
 A1c has important limitations in adults over 80—including anemia, chronic kidney disease, and altered red blood cell lifespan—which can falsely elevate or depress results. For this reason, fingerstick glucose checks—especially paired with symptom tracking—are often more clinically meaningful than A1c alone in guiding day-to-day decisions.
 
-#### #### Why is fasting glucose <90 mg/dL risky for someone with mild cognitive impairment?
+#### Why is fasting glucose <90 mg/dL risky for someone with mild cognitive impairment?
 Because the aging, cognitively impaired brain has reduced glucose transport efficiency and less metabolic reserve. Values below 90 mg/dL—especially if recurrent—can impair frontal lobe function, affecting balance, judgment, and reaction time. This contributes to falls and acute confusion (delirium), which in turn may further strain cognitive systems.
 
-#### #### What’s a safer fasting glucose target for an 85-year-old with MCI and type 2 diabetes?
+#### What’s a safer fasting glucose target for an 85-year-old with MCI and type 2 diabetes?
 Current consensus guidelines—including those from the American Geriatrics Society and ADA’s Standards of Care for Older Adults—recommend individualized targets. For frail or cognitively impaired adults over 80, a reasonable *fasting* target range is **90–110 mg/dL**, with an A1c goal of **7.0–7.5%**, depending on overall health and life expectancy. The emphasis is on avoiding hypoglycemia—not achieving “normal” lab values.

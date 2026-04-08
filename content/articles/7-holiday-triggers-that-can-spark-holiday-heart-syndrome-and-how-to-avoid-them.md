@@ -59,22 +59,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What are the most common holiday heart syndrome triggers?
+#### What are the most common holiday heart syndrome triggers?
 
 The top *holiday heart syndrome triggers* include excessive alcohol (especially binge drinking), high-sodium meals, caffeine overload (think spiked hot chocolate + espresso), sleep disruption, emotional stress, dehydration, and sudden bursts of physical activity—like rushing to wrap gifts or shovel snow without warming up.
 
-#### #### Can holiday heart syndrome triggers affect people with normal blood pressure?
+#### Can holiday heart syndrome triggers affect people with normal blood pressure?
 
 Yes—they can. Even individuals with normal baseline BP may experience transient spikes due to alcohol, salt, or stress, which can trigger arrhythmias. Age-related changes in heart tissue and autonomic tone also increase susceptibility regardless of resting BP numbers.
 
-#### #### How long does holiday heart syndrome last—and can it be prevented?
+#### How long does holiday heart syndrome last—and can it be prevented?
 
 Most episodes resolve within 24–48 hours once the trigger stops. Prevention focuses on consistent, modest lifestyle modifications—especially limiting alcohol, managing sodium, staying hydrated, and prioritizing sleep. These are core *holiday heart syndrome prevention* strategies backed by cardiology guidelines.
 
-#### #### Is atrial fibrillation the only arrhythmia linked to holiday heart syndrome?
+#### Is atrial fibrillation the only arrhythmia linked to holiday heart syndrome?
 
 While atrial fibrillation (AFib) is the most commonly reported rhythm disturbance, other arrhythmias—including premature atrial contractions (PACs), supraventricular tachycardia (SVT), and ventricular ectopy—have also been associated with *holiday heart syndrome triggers*, particularly in older adults.
 
-#### #### Does holiday heart syndrome mean I have underlying heart disease?
+#### Does holiday heart syndrome mean I have underlying heart disease?
 
 Not necessarily. Holiday heart syndrome is typically reversible and not predictive of long-term heart disease *if* triggers are addressed. However, recurrent episodes warrant evaluation—because they may reveal previously undetected issues like hypertension, sleep apnea, or structural changes best managed early.

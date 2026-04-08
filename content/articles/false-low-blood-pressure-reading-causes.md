@@ -67,17 +67,17 @@ In most cases, false low blood pressure reading causes are fixable—not frighte
 
 ### FAQ
 
-#### #### Can lymphedema cause false low blood pressure readings?  
+#### Can lymphedema cause false low blood pressure readings?  
 Yes—swelling alters tissue resistance and cuff seal, leading to underestimation of systolic and diastolic pressure. This is one of the more common *false low blood pressure reading causes* in breast cancer survivors and older adults with chronic edema.
 
-#### #### What are the false low blood pressure reading causes related to arm scars?  
+#### What are the false low blood pressure reading causes related to arm scars?  
 Dense, fibrotic scar tissue—especially after mastectomy or radiation—reduces arterial signal transmission. The cuff may compress unevenly, muffling oscillations and resulting in readings that are 10–20 mm Hg lower than true arterial pressure.
 
-#### #### Why does my blood pressure monitor read low only on my left arm?  
+#### Why does my blood pressure monitor read low only on my left arm?  
 If your left arm has post-surgical scarring, lymphedema, or known arterial calcification (e.g., from prior angiography), it’s likely producing *false low blood pressure reading causes*. Always compare both arms—and default to the higher, more consistent reading unless contraindicated.
 
-#### #### Can stiff arteries cause low BP readings at home?  
+#### Can stiff arteries cause low BP readings at home?  
 Yes. Calcified brachial arteries resist compression, weakening the oscillometric signal. Devices interpret this as lower pressure—even when central aortic pressure remains elevated. This is especially relevant for older adults with diabetes or chronic kidney disease.
 
-#### #### Is a wrist blood pressure monitor better for lymphedema?  
+#### Is a wrist blood pressure monitor better for lymphedema?  
 Wrist monitors *can* be helpful—but only when used precisely: held at heart level, with still hands, and after resting 5 minutes. They’re less accurate than upper-arm models overall, so use them as a secondary check—not a replacement—unless advised by your clinician.

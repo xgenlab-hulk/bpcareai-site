@@ -92,17 +92,17 @@ While it may sound overwhelming, remember that awareness is power. Recognizing t
 
 ### FAQ
 
-#### #### How are chronic kidney disease and heart disease connected?
+#### How are chronic kidney disease and heart disease connected?
 Chronic kidney disease affects blood pressure, fluid balance, and blood vessel health, all of which increase strain on the heart. Damaged kidneys also contribute to inflammation, anemia, and mineral imbalances that raise the risk of heart attack and stroke.
 
-#### #### Can kidney problems cause heart failure?
+#### Can kidney problems cause heart failure?
 Yes. As kidney function declines, fluid retention and high blood pressure can lead to left ventricular hypertrophy (thickening of the heart muscle) and eventually heart failure. This is especially common in people with moderate to severe CKD.
 
-#### #### What blood pressure number is dangerous with chronic kidney disease and heart disease?
+#### What blood pressure number is dangerous with chronic kidney disease and heart disease?
 For people with CKD, doctors typically recommend keeping blood pressure below 130/80 mm Hg. Readings consistently above 140/90 mm Hg significantly increase cardiovascular risk and may speed up kidney damage.
 
-#### #### Does having heart disease mean I’ll develop kidney problems?
+#### Does having heart disease mean I’ll develop kidney problems?
 Not necessarily, but heart disease—especially heart failure—can reduce blood flow to the kidneys and impair their function over time. This condition, sometimes called "cardiorenal syndrome," shows how interconnected these organs are.
 
-#### #### Can lifestyle changes reverse the chronic kidney disease and heart disease link?
+#### Can lifestyle changes reverse the chronic kidney disease and heart disease link?
 While advanced damage can't always be undone, early-stage CKD and heart disease risks can often be slowed or improved with diet, exercise, blood pressure control, and quitting smoking. Regular monitoring and medical guidance are key.

@@ -56,17 +56,17 @@ Walking in cold heart disease doesn’t have to mean giving up movement—or joy
 
 ### FAQ
 
-#### #### Can walking in cold heart disease trigger a heart attack?
+#### Can walking in cold heart disease trigger a heart attack?
 While cold weather alone doesn’t *cause* heart attacks, it can increase cardiac stress—especially during exertion. For people with underlying coronary artery disease, the combination of vasoconstriction, elevated BP, and increased oxygen demand may raise the risk of an event. But with proper precautions and medical clearance, walking safely outdoors remains very achievable.
 
-#### #### Is walking in cold heart disease safe if my blood pressure is controlled?
+#### Is walking in cold heart disease safe if my blood pressure is controlled?
 Yes—many people with well-managed hypertension (e.g., consistently <130/80 mm Hg on treatment) walk comfortably in cold weather. Just remember to dress warmly, avoid sudden exertion, and monitor for symptoms. Your cardiologist or primary care provider can help determine your personal temperature threshold.
 
-#### #### How cold is too cold for walking with heart disease?
+#### How cold is too cold for walking with heart disease?
 There’s no universal cutoff, but many experts advise extra caution below 15°F (−9°C), especially with wind chill. If temperatures drop below 0°F (−18°C), consider shifting to indoor alternatives—even brief treadmill sessions or mall walking maintain benefits without cold-related strain.
 
-#### #### Does cold weather affect heart medication?
+#### Does cold weather affect heart medication?
 Most heart medications aren’t directly altered by cold, but some—like beta-blockers or nitrates—may influence how your body perceives exertion or chest discomfort. Always review seasonal adjustments with your pharmacist or prescriber.
 
-#### #### What’s a safe heart rate while walking in cold weather?
+#### What’s a safe heart rate while walking in cold weather?
 Aim for a target heart rate that feels comfortably challenging—not breathless or strained. As a general guide, subtract your age from 220, then aim for 50–70% of that number. But perceived exertion (“talk test”: you should be able to speak in full sentences) is often more reliable than numbers alone—especially in cold conditions.

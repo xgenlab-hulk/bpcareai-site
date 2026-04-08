@@ -82,17 +82,17 @@ Understanding *women holiday heart syndrome estrogen withdrawal* doesn’t mean 
 
 ### FAQ
 
-#### #### What is women holiday heart syndrome estrogen withdrawal—and is it real?
+#### What is women holiday heart syndrome estrogen withdrawal—and is it real?
 Yes—it’s a clinically observed pattern where midlife women (55–66) experience alcohol-triggered atrial arrhythmias due to the combined effects of declining estradiol, HPA axis changes, and circadian cortisol shifts. It’s not myth; it’s physiology.
 
-#### #### Can women holiday heart syndrome estrogen withdrawal happen with just one drink?
+#### Can women holiday heart syndrome estrogen withdrawal happen with just one drink?
 Yes—especially during perimenopause or early menopause. Due to reduced estradiol’s protective effect on cardiac ion channels and increased autonomic sensitivity, even one standard drink in the late afternoon can trigger brief AFib in susceptible women.
 
-#### #### How is women holiday heart syndrome estrogen withdrawal different from regular holiday heart syndrome?
+#### How is women holiday heart syndrome estrogen withdrawal different from regular holiday heart syndrome?
 Classic “holiday heart syndrome” refers broadly to alcohol-induced arrhythmias in anyone—but *women holiday heart syndrome estrogen withdrawal* specifically highlights the heightened vulnerability in midlife women due to hormonal transitions. Men tend to develop it with heavier drinking (>3 drinks); women often experience it with far less—and at predictable hormonal/circadian windows.
 
-#### #### Does hormone therapy (HT) reduce risk of women holiday heart syndrome estrogen withdrawal?
+#### Does hormone therapy (HT) reduce risk of women holiday heart syndrome estrogen withdrawal?
 Not necessarily—and HT should never be used *solely* for arrhythmia prevention. Some observational data suggest transdermal estradiol *may* offer modest cardiac stability versus oral forms, but evidence is mixed. Decisions about HT must weigh individual risks/benefits with your provider—not arrhythmia alone.
 
-#### #### Are there natural ways to support heart rhythm during menopause?
+#### Are there natural ways to support heart rhythm during menopause?
 Yes. Prioritizing sleep consistency, magnesium-rich foods, paced breathing, daytime movement (especially walking after meals), and avoiding late-afternoon alcohol are evidence-informed, low-risk strategies shown to improve autonomic balance and reduce arrhythmia triggers in midlife women.

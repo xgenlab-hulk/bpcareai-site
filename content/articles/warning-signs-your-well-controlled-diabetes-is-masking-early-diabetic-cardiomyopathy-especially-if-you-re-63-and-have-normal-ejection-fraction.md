@@ -68,22 +68,22 @@ In short, diabetic cardiomyopathy early warning signs are not alarms—they’re
 
 ### FAQ
 
-#### #### What are the earliest diabetic cardiomyopathy early warning signs?
+#### What are the earliest diabetic cardiomyopathy early warning signs?
 
 The earliest signs include abnormal global longitudinal strain (GLS < –16%), elevated NT-proBNP without symptoms, diastolic E/e’ >12 on echo, and a noticeable rise in BNP after light exercise—even with normal ejection fraction and no classic heart failure symptoms.
 
-#### #### Can diabetic cardiomyopathy early warning signs appear even with normal blood pressure and A1c?
+#### Can diabetic cardiomyopathy early warning signs appear even with normal blood pressure and A1c?
 
 Yes. Diabetic cardiomyopathy reflects structural and metabolic changes in heart muscle—not just blood sugar or BP control. People with well-managed diabetes for 10+ years remain at risk, especially after age 63, due to cumulative cellular effects.
 
-#### #### Are diabetic cardiomyopathy early warning signs reversible?
+#### Are diabetic cardiomyopathy early warning signs reversible?
 
 Often, yes—particularly when identified early. Lifestyle changes (movement, nutrition, sleep), optimized glucose and blood pressure targets, and sometimes specific medications can support improved diastolic function and reduce strain over time.
 
-#### #### Do I need a special test to spot diabetic cardiomyopathy early warning signs?
+#### Do I need a special test to spot diabetic cardiomyopathy early warning signs?
 
 Standard echocardiograms may miss early changes. Ask about advanced assessments like GLS, E/e’, and NT-proBNP blood testing—especially if you’re over 63 and have long-standing diabetes.
 
-#### #### Is diastolic dysfunction the same as diabetic cardiomyopathy?
+#### Is diastolic dysfunction the same as diabetic cardiomyopathy?
 
 Diastolic dysfunction (impaired heart relaxation) is often the *first stage* of diabetic cardiomyopathy—but not all diastolic dysfunction is caused by diabetes. When linked to long-term diabetes and confirmed by markers like GLS or NT-proBNP, it points strongly to diabetic cardiomyopathy early warning signs.

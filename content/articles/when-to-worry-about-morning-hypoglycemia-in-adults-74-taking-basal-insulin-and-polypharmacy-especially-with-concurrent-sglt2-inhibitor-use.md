@@ -46,22 +46,22 @@ In summary, morning hypoglycemia basal insulin elderly is both preventable and m
 
 ### FAQ
 
-#### #### What are the earliest signs of morning hypoglycemia basal insulin elderly?
+#### What are the earliest signs of morning hypoglycemia basal insulin elderly?
 
 Early signs may include fatigue, headache, irritability, blurred vision, or mild confusion upon waking—rather than classic shakiness. Because autonomic symptoms fade with age, behavioral changes (e.g., difficulty concentrating, unusual sleepiness) often appear first.
 
-#### #### Can SGLT2 inhibitors cause morning hypoglycemia basal insulin elderly?
+#### Can SGLT2 inhibitors cause morning hypoglycemia basal insulin elderly?
 
 Yes—especially when combined with basal insulin. While SGLT2 inhibitors alone rarely cause hypoglycemia, they lower the glucose threshold at which insulin triggers hypoglycemia. In older adults, this effect overlaps with the natural overnight glucose dip, increasing vulnerability between 2:00–6:00 a.m.
 
-#### #### How often should older adults on basal insulin check fasting glucose to catch morning hypoglycemia?
+#### How often should older adults on basal insulin check fasting glucose to catch morning hypoglycemia?
 
 Check fasting glucose (before breakfast) daily for at least one week—and add a 3:00 a.m. check if you wake up feeling “off,” sweaty, or confused. Consistent values <70 mg/dL warrant clinical review.
 
-#### #### Is nocturnal hypoglycemia the same as morning hypoglycemia basal insulin elderly?
+#### Is nocturnal hypoglycemia the same as morning hypoglycemia basal insulin elderly?
 
 Not exactly. Nocturnal hypoglycemia occurs *during sleep*, while morning hypoglycemia refers to low glucose *upon waking*. However, they’re closely linked: many cases of morning hypoglycemia result from untreated nocturnal lows—especially if symptoms were missed or misinterpreted as normal aging.
 
-#### #### Does blood pressure drop during morning hypoglycemia in older adults?
+#### Does blood pressure drop during morning hypoglycemia in older adults?
 
 Yes—hypoglycemia can trigger transient hypotension via vagal activation and catecholamine surges, especially in those with autonomic neuropathy. A systolic BP drop of ≥20 mm Hg upon standing (orthostatic hypotension) alongside low glucose warrants prompt assessment.

@@ -101,22 +101,22 @@ Living well with macular degeneration doesn’t mean giving up joy, flavor, or c
 
 ### FAQ
 
-#### #### What exactly is plate mapping macular degeneration seniors — and is it covered by Medicare?
+#### What exactly is plate mapping macular degeneration seniors — and is it covered by Medicare?
 
 Plate mapping macular degeneration seniors refers to a non-medical, occupational therapy–informed technique that uses color, texture, and spatial layout to help older adults with AMD eat balanced, appropriately portioned meals safely and independently. While Medicare doesn’t cover “plate mapping” as a standalone service, many low-vision rehabilitation programs (often offered through state agencies or nonprofit blindness organizations) include it as part of comprehensive nutrition and daily living skills training — typically at low or no cost.
 
-#### #### Can plate mapping macular degeneration seniors help with weight management?
+#### Can plate mapping macular degeneration seniors help with weight management?
 
 Yes — and research supports it. In the previously mentioned 2021 study, participants using plate mapping techniques maintained stable BMI over six weeks, while the control group saw an average 1.2-point increase — likely due to reduced visual cues leading to repeated servings or “grazing.” Plate mapping supports intuitive portion awareness without calorie counting.
 
-#### #### Do I need special plates or tools to start plate mapping macular degeneration seniors?
+#### Do I need special plates or tools to start plate mapping macular degeneration seniors?
 
 No. You can begin today with what you already own: choose one solid-color plate, add one crunchy vegetable as a texture landmark, and position your main protein at 12 o’clock (like the top of a clock face). No apps, no gadgets — just intention and observation. Over time, consistency builds confidence.
 
-#### #### Is plate mapping only for people with advanced macular degeneration?
+#### Is plate mapping only for people with advanced macular degeneration?
 
 Not at all. In fact, early-stage AMD often presents *more* subtle challenges — like difficulty distinguishing similar hues (e.g., brown gravy vs. roast beef) or judging fullness on a light-colored plate — making plate mapping especially helpful *before* vision declines further.
 
-#### #### How does plate mapping relate to healthy holiday eating for seniors?
+#### How does plate mapping relate to healthy holiday eating for seniors?
 
 It’s a cornerstone. Healthy holiday eating for seniors isn’t just about lower sodium or added fiber — it’s about accessibility. When you can see, recognize, and confidently serve appropriate portions — even amid festive chaos — you support stable blood sugar, heart health, digestion, and emotional well-being. Plate mapping turns intention into action — gently, sustainably, and with grace.

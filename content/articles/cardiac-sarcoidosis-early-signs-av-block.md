@@ -87,17 +87,17 @@ The **cardiac sarcoidosis early signs av block** picture is evolving—and becom
 
 ### FAQ
 
-#### #### What are the earliest signs of cardiac sarcoidosis in older adults with AV block?
+#### What are the earliest signs of cardiac sarcoidosis in older adults with AV block?
 The earliest signs often include unexplained second- or third-degree AV block despite normal ejection fraction, subtle asymmetry in septal thickness on advanced echo, mildly elevated ACE with low-normal vitamin D, and sometimes chronic skin lesions with granulomas on biopsy—even before FDG-PET shows widespread uptake.
 
-#### #### Can cardiac sarcoidosis early signs av block appear without lung symptoms?
+#### Can cardiac sarcoidosis early signs av block appear without lung symptoms?
 Yes—up to 30% of cardiac sarcoidosis cases are “isolated,” meaning no respiratory symptoms or classic chest X-ray findings. In adults over 59, the heart may be the first or only organ involved, making AV block a critical sentinel sign.
 
-#### #### How reliable is ACE testing for detecting cardiac sarcoidosis early signs av block?
+#### How reliable is ACE testing for detecting cardiac sarcoidosis early signs av block?
 ACE alone is not diagnostic—but when elevated (e.g., >65 U/L) *and* paired with low-normal vitamin D (20–29 ng/mL), it increases clinical suspicion meaningfully. Its predictive value improves when combined with imaging and electrocardiographic clues.
 
-#### #### Is cardiac sarcoidosis reversible if caught early?
+#### Is cardiac sarcoidosis reversible if caught early?
 Yes—many patients respond well to immunosuppressive therapy when started during the inflammatory phase, before irreversible fibrosis sets in. Early detection through attention to **cardiac sarcoidosis early signs av block** supports better outcomes.
 
-#### #### Do I need a heart biopsy to diagnose cardiac sarcoidosis?
+#### Do I need a heart biopsy to diagnose cardiac sarcoidosis?
 Not necessarily. While endomyocardial biopsy is definitive, it has low sensitivity (<25%) due to patchy disease. Diagnosis typically relies on a combination of clinical clues, imaging (strain, CMR, FDG-PET), extracardiac biopsy (e.g., skin or lymph node), and response to treatment—per the 2014 Heart Rhythm Society criteria.

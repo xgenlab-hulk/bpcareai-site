@@ -60,17 +60,17 @@ In short, discovering a *LADA diagnosis adults 45 to 60* isn’t a cause for ala
 
 ### FAQ
 
-#### #### What are the early signs of LADA in adults over 45?  
+#### What are the early signs of LADA in adults over 45?  
 Early signs include gradual loss of response to oral diabetes medications, unexplained weight loss, increased thirst or urination, and relatively low C-peptide levels despite normal or near-normal BMI. Unlike type 2, fasting glucose may rise steadily even with lifestyle efforts.
 
-#### #### How is LADA diagnosis adults 45 to 60 confirmed?  
+#### How is LADA diagnosis adults 45 to 60 confirmed?  
 It’s confirmed through blood tests: positive GAD65 antibodies (or other islet autoantibodies) plus clinical features like progressive insulin deficiency. Testing is most accurate before starting insulin therapy—and ideally within the first year of diabetes diagnosis.
 
-#### #### Can LADA be mistaken for type 2 diabetes?  
+#### Can LADA be mistaken for type 2 diabetes?  
 Yes—very often. Because LADA develops slowly and occurs in adulthood, it’s routinely misdiagnosed as type 2 diabetes, especially in primary care. Up to 8–10% of adults labeled “type 2” may actually have LADA.
 
-#### #### Is insulin always needed for LADA?  
+#### Is insulin always needed for LADA?  
 Not immediately—but most people with LADA will require insulin within 2–6 years of diagnosis. Early insulin use is associated with better glycemic control and slower beta-cell decline.
 
-#### #### Does family history matter in LADA diagnosis adults 45 to 60?  
+#### Does family history matter in LADA diagnosis adults 45 to 60?  
 Family history of *autoimmune* conditions (e.g., thyroid disease, rheumatoid arthritis) raises suspicion more than family history of type 2 diabetes. However, LADA can occur without any known autoimmune background.

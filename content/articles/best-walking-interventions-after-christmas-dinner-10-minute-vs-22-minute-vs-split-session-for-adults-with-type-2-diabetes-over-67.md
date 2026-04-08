@@ -57,22 +57,22 @@ In summary, walking after Christmas dinner diabetes support isn’t about pushin
 
 ### FAQ
 
-#### #### Is walking after Christmas dinner diabetes really effective—or just old advice?
+#### Is walking after Christmas dinner diabetes really effective—or just old advice?
 
 Yes—high-quality RCTs confirm it. A 2022 trial in *The Lancet Healthy Longevity* showed that even 11 minutes of walking 15 minutes after a holiday-style meal lowered 2-hour glucose by 22% in adults over 65 with type 2 diabetes—more than doubling the benefit of waiting 60 minutes to walk.
 
-#### #### What’s the safest walking after Christmas dinner diabetes routine for someone with knee pain?
+#### What’s the safest walking after Christmas dinner diabetes routine for someone with knee pain?
 
 Prioritize the split-session (two 8–10 minute walks) on flat, cushioned surfaces—like a mall or home hallway. Avoid inclines or uneven pavement. Consider seated leg lifts or marching in place if walking causes sharp pain; these still activate large muscle groups and improve glucose uptake.
 
-#### #### Can walking after Christmas dinner diabetes help if I’m on insulin or sulfonylureas?
+#### Can walking after Christmas dinner diabetes help if I’m on insulin or sulfonylureas?
 
 Yes—but caution is essential. The split-session approach lowers hypoglycemia risk versus longer single walks. Always carry fast-acting carbs (e.g., 4 oz juice), and check glucose before the second walk. Discuss timing adjustments with your provider, especially if you take rapid-acting insulin.
 
-#### #### Does the time of day matter for walking after Christmas dinner diabetes?
+#### Does the time of day matter for walking after Christmas dinner diabetes?
 
 Timing relative to the meal matters far more than clock time. Whether dinner is at 4 p.m. or 7 p.m., begin the first walk within 15–30 minutes of finishing. Consistency across holiday meals helps your body anticipate and respond more efficiently.
 
-#### #### How does walking after Christmas dinner compare to walking before dinner for blood sugar?
+#### How does walking after Christmas dinner compare to walking before dinner for blood sugar?
 
 Pre-dinner walking improves insulin sensitivity but doesn’t blunt the *post-meal* glucose spike as effectively. Studies show postprandial walking reduces 2-hour glucose 1.7× more than pre-meal walking in adults over 67—making it the preferred strategy for managing blood sugar during Christmas and New Year.

@@ -108,22 +108,22 @@ Improving arterial elasticity is a slow, cumulative process — much like mainta
 
 ### FAQ
 
-#### #### What foods stabilize pulse pressure aortic stiffness naturally?
+#### What foods stabilize pulse pressure aortic stiffness naturally?
 
 Foods rich in bioavailable magnesium (spinach, pumpkin seeds), glycine (bone broth, gelatin), and natural matrix metalloproteinase inhibitors (wild blueberries, natto, fermented soy) are best supported by current evidence. These don’t force BP down — they support arterial structure and dampen harmful oscillatory stress.
 
-#### #### Can foods stabilize pulse pressure aortic stiffness without lowering systolic blood pressure?
+#### Can foods stabilize pulse pressure aortic stiffness without lowering systolic blood pressure?
 
 Yes — and that’s scientifically meaningful. Several clinical studies show improvements in pulse pressure variability and arterial compliance *without* changes in average systolic BP. This reflects enhanced elastic recoil and reduced wave reflection — not vasodilation.
 
-#### #### Are there foods that specifically help with wide pulse pressure in seniors?
+#### Are there foods that specifically help with wide pulse pressure in seniors?
 
 Absolutely. Wide pulse pressure (>60 mm Hg) in adults 67+ often signals aortic stiffening. Prioritize collagen-supportive foods (slow-cooked broths, gelatin), MMP-inhibiting berries (wild blueberries), and magnesium-rich greens — all shown in age-specific trials to improve pulse pressure stability.
 
-#### #### Does magnesium lower pulse pressure?
+#### Does magnesium lower pulse pressure?
 
 Magnesium doesn’t typically *lower* pulse pressure directly, but it improves endothelial function and reduces vascular smooth muscle hyperreactivity — leading to more stable, less variable pulse pressure over time, especially in magnesium-deficient older adults.
 
-#### #### Is bone broth really effective for arterial health?
+#### Is bone broth really effective for arterial health?
 
 Traditional, slow-simmered bone broth (8–24 hours) contains hydrolyzed collagen peptides and glycine — both linked in mechanistic and small human studies to improved arterial elasticity and reduced MMP activity. Its benefit lies in bioavailability, not just collagen quantity.

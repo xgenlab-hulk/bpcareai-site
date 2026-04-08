@@ -82,17 +82,17 @@ Supporting your liver’s natural ability to manage insulin isn’t about quick 
 
 ### FAQ
 
-#### #### Can magnesium glycinate really help enhance hepatic insulin clearance natural?
+#### Can magnesium glycinate really help enhance hepatic insulin clearance natural?
 Yes—magnesium is a required cofactor for insulin-degrading enzyme (IDE) stability and activity. Glycinate specifically offers high bioavailability and minimal gastrointestinal impact, making it appropriate for older adults with reduced gastric acid or digestive efficiency. Clinical trials report improved insulin kinetics and reduced hepatic fat fraction in Mg-replete participants with NAFLD—without CYP induction or drug interactions.
 
-#### #### What’s the best time-restricted feeding window to enhance hepatic insulin clearance natural in older adults?
+#### What’s the best time-restricted feeding window to enhance hepatic insulin clearance natural in older adults?
 For adults 66+, a consistent 10-hour window ending by 7 p.m. (e.g., 7 a.m.–5 p.m. or 8 a.m.–6 p.m.) aligns best with circadian peaks in IDE expression and avoids late-night insulin stimulation. Longer fasts (>14 hours) aren’t necessary—and may increase cortisol-driven gluconeogenesis in older populations.
 
-#### #### Does enhancing hepatic insulin clearance natural help with fatty liver disease progression?
+#### Does enhancing hepatic insulin clearance natural help with fatty liver disease progression?
 Evidence suggests yes. Improved insulin clearance reduces chronic hyperinsulinemia, which drives *de novo* lipogenesis (new fat creation) in the liver. In longitudinal studies, individuals with better-preserved hepatic insulin extraction had slower fibrosis progression on serial FibroScan®—independent of weight change.
 
-#### #### Are there foods that directly enhance hepatic insulin clearance?
+#### Are there foods that directly enhance hepatic insulin clearance?
 No single food “boosts” clearance—but diets rich in polyphenols (e.g., berries, green tea, dark leafy greens) and omega-3s (fatty fish, flax, walnuts) support IDE expression and reduce hepatic oxidative stress. Crucially, avoiding ultra-processed carbs—especially late in the day—prevents insulin surges that overwhelm clearance capacity.
 
-#### #### Is enhanced hepatic insulin clearance the same as improving insulin sensitivity?
+#### Is enhanced hepatic insulin clearance the same as improving insulin sensitivity?
 Not exactly. Insulin *sensitivity* refers to how well cells respond to insulin (e.g., muscle taking up glucose). Hepatic insulin *clearance* refers to how quickly the liver removes insulin from the bloodstream. You can have good sensitivity *and* poor clearance—leading to high insulin levels that paradoxically worsen fat storage and inflammation. Both matter, but they’re regulated by different mechanisms—and respond to different lifestyle levers.

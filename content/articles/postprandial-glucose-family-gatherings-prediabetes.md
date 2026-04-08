@@ -58,22 +58,22 @@ In short: You don’t need to become the “no” person at family gatherings. Y
 
 ### FAQ
 
-#### #### Why do my glucose numbers spike *only* during family gatherings—even when I eat the same foods at home?
+#### Why do my glucose numbers spike *only* during family gatherings—even when I eat the same foods at home?
 
 Because context matters. Stress hormones (like cortisol), disrupted routines (skipped walks, later bedtimes), and social eating behaviors (e.g., eating faster, sharing plates, or “just one more” mindset) all amplify glucose responses—even with identical meals.
 
-#### #### Can postprandial glucose family gatherings prediabetes be reversed with lifestyle changes alone?
+#### Can postprandial glucose family gatherings prediabetes be reversed with lifestyle changes alone?
 
 Yes—for many. The CDC’s National DPP shows adults 60+ reduce type 2 diabetes risk by 71% with modest weight loss (5–7% of body weight) and 150 minutes/week of moderate activity. Consistent low-glycemic eating during gatherings is a powerful part of that.
 
-#### #### How soon after eating should I check glucose to track postprandial glucose family gatherings prediabetes?
+#### How soon after eating should I check glucose to track postprandial glucose family gatherings prediabetes?
 
 The gold standard is fasting (before any food), then at 30, 60, and 120 minutes after your *first bite*. Peak glucose typically occurs between 60–90 minutes in adults over 60.
 
-#### #### Are “sugar-free” holiday candies safe for prediabetes?
+#### Are “sugar-free” holiday candies safe for prediabetes?
 
 Not always. Sugar alcohols (like maltitol) can still raise glucose—and cause bloating or diarrhea in older adults. Stick to whole-food swaps with proven low-GI impact.
 
-#### #### Does blood pressure affect postprandial glucose readings?
+#### Does blood pressure affect postprandial glucose readings?
 
 Indirectly, yes. High BP and insulin resistance often coexist (metabolic syndrome). Elevated arterial pressure may reflect underlying inflammation or endothelial stress—which also impairs glucose uptake. Managing both supports long-term heart *and* metabolic health.

@@ -93,22 +93,22 @@ Hosting the holidays while caring for an older loved one doesn’t mean choosing
 
 ### FAQ
 
-#### #### What are the biggest swallowing risks during cold weather holiday hosting dysphagia seniors situations?
+#### What are the biggest swallowing risks during cold weather holiday hosting dysphagia seniors situations?
 
 The top three are dry indoor air (reducing throat lubrication and sensory feedback), rushed or distracted eating (leading to larger, less-chewed bites), and excessively hot beverages (temporarily dulling laryngeal sensation). Together, they increase the chance of silent aspiration—especially in adults 80+ with known mild dysphagia or reduced laryngeal sensation.
 
-#### #### How can I make holiday meals safer for my 85-year-old mom who has mild dysphagia?
+#### How can I make holiday meals safer for my 85-year-old mom who has mild dysphagia?
 
 Start with hydration and pacing: offer warm (not hot) drinks, use a humidifier near the dining area, serve pre-cut and moist foods, and build in two short pauses during the meal. Avoid mixed textures on one forkful (e.g., crumbly bread + thin gravy). If she’s been evaluated by a speech-language pathologist, follow their specific recommendations—many suggest nectar-thick liquids or chin-tuck positioning, which can be practiced gently at home.
 
-#### #### Is “healthy holiday eating for seniors” possible when dysphagia is involved?
+#### Is “healthy holiday eating for seniors” possible when dysphagia is involved?
 
 Absolutely—and it starts with redefining “healthy.” For seniors with mild dysphagia, healthy holiday eating for seniors means prioritizing safety, comfort, and enjoyment over strict dietary rules. Think nutrient-dense purees (pumpkin soup with ginger), soft protein sources (silken tofu stuffing, flaked salmon), and naturally thickened desserts (banana-oat pudding). Flavor and familiarity matter just as much as nutrition—so keep traditions alive in adapted ways.
 
-#### #### Does dry winter air really affect swallowing in older adults?
+#### Does dry winter air really affect swallowing in older adults?
 
 Yes. Indoor humidity often falls below 25% in heated homes—well below the 40–60% range needed to maintain optimal mucosal moisture. Dry air thins saliva, slows clearance of residue, and impairs early sensory detection of food/liquid entering the pharynx. For adults over 80 with age-related sensory decline, this creates a measurable delay in airway protection.
 
-#### #### Can cold weather holiday hosting dysphagia seniors be managed without professional help?
+#### Can cold weather holiday hosting dysphagia seniors be managed without professional help?
 
 Many everyday strategies—like adjusting temperature, texture, and pacing—can be implemented safely at home. However, because dysphagia can change over time and aspiration pneumonia may present subtly (e.g., as fatigue or confusion rather than fever), a baseline evaluation by a speech-language pathologist is strongly recommended—especially before the holiday season begins. They can tailor advice to your loved one’s specific physiology and preferences.

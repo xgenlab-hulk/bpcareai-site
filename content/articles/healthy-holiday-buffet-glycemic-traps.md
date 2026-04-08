@@ -52,17 +52,17 @@ In closing: Holiday meals don’t need to be stressful—or metabolically risky.
 
 ### FAQ
 
-#### #### Are roasted vegetables always bad for blood sugar?
+#### Are roasted vegetables always bad for blood sugar?
 Not inherently—but high-heat roasting (especially with glazes or sugars) increases digestible carbs and reduces fiber integrity. Steaming, sautéing, or roasting at lower temperatures preserves more favorable glycemic properties.
 
-#### #### What makes ‘healthy’ holiday buffet glycemic traps different from regular high-carb foods?
+#### What makes ‘healthy’ holiday buffet glycemic traps different from regular high-carb foods?
 They’re deceptive: low in obvious sugars yet high in *bioavailable* glucose due to food processing—caramelization, acid loss, starch retrogradation reversal—that aren’t reflected on nutrition labels or assumed in “whole food” marketing.
 
-#### #### How do healthy holiday buffet glycemic traps affect blood pressure?
+#### How do healthy holiday buffet glycemic traps affect blood pressure?
 Chronic postprandial hyperglycemia contributes to endothelial dysfunction and oxidative stress—both linked to arterial stiffness and elevated systolic BP. Studies associate repeated glucose spikes >160 mg/dL with a 5–8 mm Hg average increase in daytime systolic pressure over 3 months.
 
-#### #### Can I still eat lentil salad at holiday parties?
+#### Can I still eat lentil salad at holiday parties?
 Yes—with caveats: choose salads served cold (not reheated), avoid added sweet dressings, and pair with healthy fats (e.g., avocado or olive oil) to slow absorption. A ½-cup portion with 3 g fiber and <2 g added sugar is generally well-tolerated.
 
-#### #### Do herbs and spices impact glycemic response?
+#### Do herbs and spices impact glycemic response?
 Most don’t directly raise glucose—but some (like cinnamon and fenugreek) may modestly improve insulin sensitivity. However, they won’t offset the impact of caramelized sugars or reheated starches—so focus first on preparation methods.

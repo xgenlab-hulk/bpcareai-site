@@ -70,22 +70,22 @@ Understanding your heart’s rhythm isn’t about becoming a cardiologist—it�
 
 ### FAQ
 
-#### #### Can home ECG patch interpretation for seniors replace a Holter monitor?
+#### Can home ECG patch interpretation for seniors replace a Holter monitor?
 
 Not quite—but it’s increasingly comparable for detecting paroxysmal AFib and PVC burden over longer periods (7–14 days vs. Holter’s typical 24–48 hours). Patches excel at capturing infrequent events; Holters offer higher-resolution analysis. They’re complementary tools.
 
-#### #### How accurate is home ECG patch interpretation for seniors with arthritis or tremors?
+#### How accurate is home ECG patch interpretation for seniors with arthritis or tremors?
 
 Modern patches use motion-tolerant algorithms and adhesive wear—so mild tremors or joint stiffness rarely interfere. Just ensure snug placement (usually left chest) and avoid areas with excessive hair or loose skin. Accuracy remains >95% for rhythm classification in clinical studies involving adults 65+.
 
-#### #### What’s a “normal” PVC burden for someone my age (62)?
+#### What’s a “normal” PVC burden for someone my age (62)?
 
 For adults 57–70, <100 PVCs/24h is common and usually benign. Burden >500/day—especially if rising week-to-week—warrants review, particularly with high blood pressure or structural heart changes.
 
-#### #### Is sinus bradycardia always dangerous in seniors?
+#### Is sinus bradycardia always dangerous in seniors?
 
 Not necessarily. Resting rates of 52–58 bpm are often normal in healthy older adults. Concern arises with *symptomatic* bradycardia (fatigue, near-fainting) or pauses >2 seconds—especially if paired with low time-in-sinus.
 
-#### #### Do I need to see a cardiologist every time my patch flags “possible AFib”?
+#### Do I need to see a cardiologist every time my patch flags “possible AFib”?
 
 No—but do follow up if it happens more than once weekly, lasts >1 minute, or coincides with symptoms like palpitations or shortness of breath. Many early AFib episodes are manageable with lifestyle and timely evaluation.

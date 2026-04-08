@@ -1,0 +1,250 @@
+{
+  "metadata": {
+    "created_date": "2026-03-21",
+    "total_redirects": 46,
+    "batches_covered": [
+      "batch-007"
+    ],
+    "purpose": "为Batch 7优化的50篇文章提供301永久重定向配置",
+    "usage": "将redirects数组内容添加到next.config.js的redirects()函数中"
+  },
+  "redirects": [
+    {
+      "source": "/articles/pancreatic-beta-cell-resilience-festive-eating",
+      "destination": "/articles/pancreas-health-festive-meals-diabetes",
+      "permanent": true
+    },
+    {
+      "source": "/articles/nocturnal-hypoglycemia-masked-a1c",
+      "destination": "/articles/nighttime-low-blood-sugar-hidden-a1c",
+      "permanent": true
+    },
+    {
+      "source": "/articles/no-sugar-added-soup-sodium-diabetes",
+      "destination": "/articles/low-sugar-soup-hidden-sodium-diabetes",
+      "permanent": true
+    },
+    {
+      "source": "/articles/myths-vs-facts-salt-sensitivity-in-black-adults-over-55-what-genetics-renal-sodium-handling-and-social-determinants-really-explain",
+      "destination": "/articles/salt-sensitivity-black-adults-55-genetics",
+      "permanent": true
+    },
+    {
+      "source": "/articles/morning-stretching-vs-breath-hold-nocturnal-bp",
+      "destination": "/articles/morning-stretching-vs-breathing-nighttime-bp",
+      "permanent": true
+    },
+    {
+      "source": "/articles/magnesium-glycinate-central-aortic-pressure",
+      "destination": "/articles/magnesium-blood-pressure-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-sleep-apnea-severity-modulates-nocturnal-bp-dipping-even-in-adults-55-with-normal-ahi-5-but-high-oxygen-desaturation-index",
+      "destination": "/articles/sleep-apnea-blood-pressure-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/hearing-loss-diabetes-cognitive-decline",
+      "destination": "/articles/hearing-loss-diabetes-memory-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/enos-foods-mthfr-polymorphism-hypertension",
+      "destination": "/articles/blood-vessel-foods-bp-mthfr-gene",
+      "permanent": true
+    },
+    {
+      "source": "/articles/early-gastroparesis-signs-men-seniors",
+      "destination": "/articles/gastroparesis-early-signs-men-60",
+      "permanent": true
+    },
+    {
+      "source": "/articles/dry-eyes-blurred-vision-diabetes-seniors",
+      "destination": "/articles/dry-eyes-blurred-vision-diabetes-60",
+      "permanent": true
+    },
+    {
+      "source": "/articles/diabetes-management-senior-cohousing",
+      "destination": "/articles/diabetes-senior-living-community-73",
+      "permanent": true
+    },
+    {
+      "source": "/articles/cold-water-hand-immersion-bp-accuracy",
+      "destination": "/articles/bp-accuracy-cold-water-test-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/enos-foods-mthfr-polymorphism-hypertension",
+      "destination": "/articles/blood-vessel-foods-high-bp-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/early-gastroparesis-signs-men-seniors",
+      "destination": "/articles/gastroparesis-warning-signs-men-60",
+      "permanent": true
+    },
+    {
+      "source": "/articles/dry-eyes-blurred-vision-diabetes-seniors",
+      "destination": "/articles/dry-eyes-diabetes-vision-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/diabetes-management-senior-cohousing",
+      "destination": "/articles/diabetes-senior-living-community",
+      "permanent": true
+    },
+    {
+      "source": "/articles/cold-water-hand-immersion-bp-accuracy",
+      "destination": "/articles/bp-accuracy-cold-hands-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/weekday-intermittent-fasting-holidays",
+      "destination": "/articles/intermittent-fasting-weekdays-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/warning-signs-your-stable-diabetes-is-masking-early-diabetic-cardiomyopathy-even-with-normal-ejection-fraction-and-no-symptoms-in-adults-59-68",
+      "destination": "/articles/diabetic-heart-disease-warning-signs",
+      "permanent": true
+    },
+    {
+      "source": "/articles/vns-vs-tart-cherry-juice-nocturnal-afib",
+      "destination": "/articles/natural-remedies-nighttime-afib-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/time-restricted-eating-4pm-type-2-diabetes-seniors",
+      "destination": "/articles/eating-window-timing-diabetes-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/the-truth-about-heart-safe-holiday-cocktails-labeled-low-alcohol-why-4-5-abv-mulled-wine-still-raises-qt-dispersion-in-adults-67-on-amiodarone",
+      "destination": "/articles/low-alcohol-drinks-heart-risk-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/pancreatic-acinar-repair-foods-type-2-diabetes",
+      "destination": "/articles/pancreas-foods-diabetes-pancreatitis",
+      "permanent": true
+    },
+    {
+      "source": "/articles/nighttime-cough-diabetic-autonomic-neuropathy",
+      "destination": "/articles/nighttime-cough-diabetes-nerve-damage",
+      "permanent": true
+    },
+    {
+      "source": "/articles/natural-autonomic-stabilization-holiday-heart",
+      "destination": "/articles/heart-rhythm-holiday-stress-natural",
+      "permanent": true
+    },
+    {
+      "source": "/articles/midday-fatigue-diabetes-autonomic-failure-seniors",
+      "destination": "/articles/midday-fatigue-diabetes-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-holiday-alcohol-consumption-triggers-atrial-fibrillation-in-adults-55-with-subclinical-left-atrial-enlargement-even-without-binge-drinking",
+      "destination": "/articles/holiday-alcohol-heart-rhythm-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-chronic-low-grade-gum-inflammation-accelerates-beta-cell-dysfunction-in-adults-62-with-long-standing-type-2-diabetes",
+      "destination": "/articles/gum-disease-diabetes-connection-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-chronic-constipation-alters-vagal-tone-and-triggers-nocturnal-st-segment-variability-in-adults-61-with-known-vasovagal-syncope-history",
+      "destination": "/articles/constipation-heart-problems-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/hepatic-mitochondrial-biogenesis-berberine-seniors",
+      "destination": "/articles/berberine-liver-health-diabetes-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/gut-barrier-holiday-feasting",
+      "destination": "/articles/gut-health-holiday-meals-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/gluten-free-stuffing-glycemic-impact",
+      "destination": "/articles/gluten-free-stuffing-blood-sugar-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/warning-signs-your-stable-diabetes-is-masking-early-diabetic-cardiomyopathy-even-with-normal-ejection-fraction-and-no-symptoms-in-adults-59-68",
+      "destination": "/articles/diabetic-heart-disease-warning-signs",
+      "permanent": true
+    },
+    {
+      "source": "/articles/vns-vs-tart-cherry-juice-nocturnal-afib",
+      "destination": "/articles/natural-remedies-nighttime-afib-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/time-restricted-eating-4pm-type-2-diabetes-seniors",
+      "destination": "/articles/time-restricted-eating-diabetes-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/the-truth-about-heart-safe-holiday-cocktails-labeled-low-alcohol-why-4-5-abv-mulled-wine-still-raises-qt-dispersion-in-adults-67-on-amiodarone",
+      "destination": "/articles/low-alcohol-drinks-heart-medication-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/cgm-accuracy-holiday-travel",
+      "destination": "/articles/cgm-accuracy-air-travel-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/best-hydration-strategies-during-holiday-travel-for-adults-71-with-stage-3-ckd-and-diuretic-use-to-prevent-hypovolemia-induced-arrhythmias",
+      "destination": "/articles/hydration-kidney-disease-travel-71",
+      "permanent": true
+    },
+    {
+      "source": "/articles/7-silent-signs-of-prediabetes-you-re-likely-ignoring-after-age-55-even-with-normal-a1c",
+      "destination": "/articles/prediabetes-warning-signs-age-55",
+      "permanent": true
+    },
+    {
+      "source": "/articles/7-hidden-stressors-that-elevate-nighttime-systolic-pressure-in-women-over-68-even-with-normal-daytime-readings",
+      "destination": "/articles/nighttime-blood-pressure-women-68",
+      "permanent": true
+    },
+    {
+      "source": "/articles/10-diabetic-friendly-holiday-candy-brands-that-actually-trigger-reactive-hypoglycemia-what-the-labels-hide",
+      "destination": "/articles/diabetic-candy-truth-blood-sugar-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-things-everyone-over-70-should-know-about-sulfonylureas-especially-if-they-live-alone-and-take-them-daily",
+      "destination": "/articles/sulfonylurea-diabetes-medication-seniors-70",
+      "permanent": true
+    },
+    {
+      "source": "/articles/what-to-eat-on-christmas-morning-to-stabilize-blood-glucose-before-the-main-meal-backed-by-gastric-emptying-research",
+      "destination": "/articles/christmas-morning-blood-sugar-foods-diabetes",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-postprandial-triglycerides-differ-from-fasting-triglycerides-and-why-that-matters-more-after-age-62-especially-with-apoc3-polymorphisms",
+      "destination": "/articles/triglycerides-after-meals-seniors-62",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-reduce-hba1c-progression-in-adults-58-73-with-well-controlled-diabetes-and-long-standing-disease-10-years",
+      "destination": "/articles/lower-a1c-long-term-diabetes-seniors",
+      "permanent": true
+    }
+  ],
+  "instructions": {
+    "step_1": "打开 next.config.js 文件",
+    "step_2": "找到 async redirects() 函数",
+    "step_3": "将上述redirects数组内容添加到slugRedirects数组中",
+    "step_4": "保存并重新部署网站",
+    "step_5": "验证重定向是否生效: curl -I https://yourdomain.com/articles/[旧slug]"
+  }
+}

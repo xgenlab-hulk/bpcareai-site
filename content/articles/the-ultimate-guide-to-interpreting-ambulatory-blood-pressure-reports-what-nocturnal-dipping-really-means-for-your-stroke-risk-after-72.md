@@ -67,17 +67,17 @@ Understanding your ambulatory blood pressure report interpretation stroke risk d
 
 ### FAQ
 
-#### #### What does "nocturnal dipping" mean on an ambulatory blood pressure report?
+#### What does "nocturnal dipping" mean on an ambulatory blood pressure report?
 Nocturnal dipping refers to the normal 10–20% drop in systolic BP during sleep. On your ambulatory blood pressure report interpretation stroke risk assessment, less than 10% drop classifies you as a non-dipper; a rise indicates reverse dipping—both associated with increased lacunar stroke risk after age 72.
 
-#### #### How often should I get an ambulatory blood pressure report interpretation stroke risk evaluation?
+#### How often should I get an ambulatory blood pressure report interpretation stroke risk evaluation?
 For adults over 70 with hypertension, diabetes, prior stroke, or cognitive concerns, ABPM is recommended every 1–2 years—or sooner if symptoms like dizziness, fatigue, or memory fluctuations emerge.
 
-#### #### Can lifestyle changes improve my dipping pattern after age 75?
+#### Can lifestyle changes improve my dipping pattern after age 75?
 Yes. Evidence shows evening-dosed BP meds, consistent sleep schedules, treating sleep apnea, and reducing evening sodium can restore partial dipping—even in octogenarians. Improvements are often measurable within 6–12 weeks.
 
-#### #### What is a normal 24-hour systolic standard deviation on ABPM?
+#### What is a normal 24-hour systolic standard deviation on ABPM?
 A value under 12 mm Hg suggests stable BP control. Between 12–15 mm Hg is borderline; above 15 mm Hg signals high variability and warrants clinical review—especially when combined with reverse dipping or high morning surge.
 
-#### #### Does ABPM replace home blood pressure monitoring?
+#### Does ABPM replace home blood pressure monitoring?
 No—it complements it. Home monitoring tracks daily patterns you control; ABPM reveals unconscious, circadian, and situational patterns you can’t easily observe. Together, they give the fullest picture for ambulatory blood pressure report interpretation stroke risk.

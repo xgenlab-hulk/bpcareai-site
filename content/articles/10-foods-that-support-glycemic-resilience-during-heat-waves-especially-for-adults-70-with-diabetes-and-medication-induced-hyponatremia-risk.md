@@ -101,22 +101,22 @@ Heat may test our systems—but it also reminds us how beautifully adaptable the
 
 ### FAQ
 
-#### #### What are the best heat wave glycemic resilience foods for seniors with type 2 diabetes?
+#### What are the best heat wave glycemic resilience foods for seniors with type 2 diabetes?
 
 The top choices include cucumber, ripe pear, zucchini, cherries, romaine lettuce, green bell peppers, plums, celery, unsweetened coconut water (in moderation), and plain whole-milk yogurt. All are low-glycemic, water-rich, naturally low in sodium, and gentle on aging digestion.
 
-#### #### Can heat wave glycemic resilience foods help prevent hyponatremia in older adults?
+#### Can heat wave glycemic resilience foods help prevent hyponatremia in older adults?
 
 Yes—when chosen wisely. These foods provide *balanced* hydration (not just water) and modest potassium without overwhelming sodium regulation. Crucially, they avoid the “water-only” trap that can dilute serum sodium—especially important for adults 70+ on diuretics or SSRIs.
 
-#### #### Are there heat wave glycemic resilience foods safe to eat if I’m on metformin and HCTZ?
+#### Are there heat wave glycemic resilience foods safe to eat if I’m on metformin and HCTZ?
 
 Absolutely. Cucumber, zucchini, romaine, green peppers, and plain yogurt are excellent options. They contain no compounds known to interact with metformin or hydrochlorothiazide—and their low sodium and moderate potassium content align well with common electrolyte goals for people on these medications.
 
-#### #### How does heat affect blood sugar in older adults with diabetes?
+#### How does heat affect blood sugar in older adults with diabetes?
 
 Heat raises cortisol and causes mild dehydration, both of which increase insulin resistance and reduce glucose uptake. Studies report average glucose increases of 10–15 mg/dL during heat waves in adults over 70—making dietary support even more valuable.
 
-#### #### Do I need to avoid all fruit during a heat wave if I have diabetes?
+#### Do I need to avoid all fruit during a heat wave if I have diabetes?
 
 No—you don’t need to avoid fruit. Instead, choose lower-GI, water-rich options like pears, plums, and cherries (1 small serving), and pair them with protein or healthy fat. This approach supports hydration, electrolyte balance, and steady glucose—without deprivation.

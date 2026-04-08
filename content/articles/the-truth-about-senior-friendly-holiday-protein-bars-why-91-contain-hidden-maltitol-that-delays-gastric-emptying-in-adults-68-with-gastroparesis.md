@@ -88,22 +88,22 @@ Finding truly supportive snacks takes a little extra attention — but it’s ab
 
 ### FAQ
 
-#### #### Are there any maltitol-free senior-friendly protein bars gastroparesis patients can trust?
+#### Are there any maltitol-free senior-friendly protein bars gastroparesis patients can trust?
 
 Yes — though they’re rare in seasonal displays. Look for brands that explicitly state “maltitol-free” and use only monk fruit, stevia, or allulose. Always verify with the ingredient list, not marketing claims.
 
-#### #### What’s the safest amount of maltitol for someone with gastroparesis over 70?
+#### What’s the safest amount of maltitol for someone with gastroparesis over 70?
 
 Most gastroenterologists recommend staying below **2 grams per serving**, especially if symptoms are active. Even 3–4 g can delay gastric emptying by 20+ minutes in this age group.
 
-#### #### Can senior-friendly protein bars gastroparesis cause blood sugar spikes *and* drops?
+#### Can senior-friendly protein bars gastroparesis cause blood sugar spikes *and* drops?
 
 Yes — paradoxically. Delayed emptying means carbs arrive in the small intestine unpredictably, causing both delayed hyperglycemia (1–2 hours post-eating) and reactive hypoglycemia later (3–4 hours), especially in those with insulin resistance.
 
-#### #### Why do companies still use maltitol in bars marketed to seniors?
+#### Why do companies still use maltitol in bars marketed to seniors?
 
 It’s inexpensive, provides bulk and sweetness, and carries a “natural” halo. Unfortunately, safety data for older adults with motility disorders is largely absent from product development.
 
-#### #### Does drinking warm ginger tea help with maltitol-related bloating?
+#### Does drinking warm ginger tea help with maltitol-related bloating?
 
 Ginger has mild prokinetic effects and may ease discomfort — but it won’t reverse maltitol’s osmotic pull or fermentation. Best used *alongside* avoidance, not as a fix.

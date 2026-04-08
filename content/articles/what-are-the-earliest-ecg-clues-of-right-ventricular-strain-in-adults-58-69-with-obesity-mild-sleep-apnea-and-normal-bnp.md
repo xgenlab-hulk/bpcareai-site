@@ -72,22 +72,22 @@ In short: These *ecg clues right ventricular strain* are quiet messengers—not 
 
 ### FAQ
 
-#### #### What are the earliest ECG signs of right ventricular strain in overweight adults over 55?
+#### What are the earliest ECG signs of right ventricular strain in overweight adults over 55?
 
 The earliest signs include a rightward P-wave axis (peaked P in II, inverted in aVR), persistent S-wave in V6, and R/S ratio reversal in V1–V2. These often appear before symptoms or echocardiographic changes—and are especially meaningful in adults with obesity and sleep-disordered breathing.
 
-#### #### Can ecg clues right ventricular strain show up even with normal BNP and no shortness of breath?
+#### Can ecg clues right ventricular strain show up even with normal BNP and no shortness of breath?
 
 Yes—absolutely. BNP often remains normal in early right ventricular strain because the chamber hasn’t yet stretched significantly or leaked biomarkers. That’s why relying solely on BNP can miss this critical window.
 
-#### #### Are ecg clues right ventricular strain reversible with lifestyle changes?
+#### Are ecg clues right ventricular strain reversible with lifestyle changes?
 
 Evidence suggests yes—especially when identified early. Weight loss, improved sleep quality, and aerobic conditioning have been associated with normalization of P-wave morphology and S-wave depth in V6 within 3–6 months in observational studies.
 
-#### #### Does mild sleep apnea really affect the right side of the heart?
+#### Does mild sleep apnea really affect the right side of the heart?
 
 Even mild apnea (AHI 5–14) causes repeated micro-arousals and intermittent hypoxia, triggering endothelial dysfunction and vasoconstriction in pulmonary arteries. Over years, this increases afterload on the right ventricle—making it one of the most sensitive early responders in metabolic syndrome.
 
-#### #### Is right ventricular strain the same as pulmonary hypertension?
+#### Is right ventricular strain the same as pulmonary hypertension?
 
 No—they’re related but distinct. Right ventricular strain reflects the *heart’s response* to increased pressure or resistance; pulmonary hypertension is the *pressure diagnosis* itself (mean PAP ≥20 mm Hg). Strain often precedes PH by months to years—and offers a chance to intervene earlier.

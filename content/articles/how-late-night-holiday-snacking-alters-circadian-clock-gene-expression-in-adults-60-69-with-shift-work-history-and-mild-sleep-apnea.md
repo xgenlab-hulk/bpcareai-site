@@ -81,22 +81,22 @@ Holiday time is meant to be warm, shared, and nourishing—in every sense. Under
 
 ### FAQ
 
-#### #### Does late-night snacking really affect my blood pressure as a senior?
+#### Does late-night snacking really affect my blood pressure as a senior?
 
 Yes—especially if you have a history of shift work or sleep-disordered breathing. Eating late can blunt nighttime dips in arterial pressure (the normal 10–20% drop that occurs during deep sleep), leading to sustained higher average BP. Studies show adults 60–69 with mild sleep apnea who regularly snack after 10 p.m. average 6–9 mm Hg higher systolic pressure over 24 hours compared to peers who stop eating by 8 p.m.
 
-#### #### Is “late night snacking circadian rhythm seniors” different from regular late eating?
+#### Is “late night snacking circadian rhythm seniors” different from regular late eating?
 
 Absolutely. Aging, prior shift work, and mild sleep apnea create a unique physiological context: reduced *BMAL1* amplitude, slower gastric emptying, and altered autonomic nervous system tone—all of which make timing more consequential. What might be neutral for a 35-year-old can gently challenge metabolic resilience in a 65-year-old with this background.
 
-#### #### Can I still enjoy holiday desserts without disrupting my circadian rhythm?
+#### Can I still enjoy holiday desserts without disrupting my circadian rhythm?
 
 Yes—with timing and pairing. Enjoy sweets earlier in the day (e.g., after lunch), or pair them mindfully with protein/fat in the early evening (e.g., a square of dark chocolate with a handful of almonds around 7 p.m.). Avoid isolated sugars after 9 p.m., when insulin sensitivity is lowest and *PER2*-mediated repair is most active.
 
-#### #### How long does it take to reset my circadian rhythm after holiday snacking?
+#### How long does it take to reset my circadian rhythm after holiday snacking?
 
 Gentle shifts often show within 3–5 days of consistent earlier meals and dimmer evenings. Full gene-expression normalization (*BMAL1/PER2* amplitude) may take 2–4 weeks of regular timing—but even small improvements in sleep quality and morning energy are meaningful signs of progress.
 
-#### #### Are there foods that *support* circadian gene expression in seniors?
+#### Are there foods that *support* circadian gene expression in seniors?
 
 Yes. Tart cherry juice (naturally rich in melatonin precursors), fatty fish (omega-3s support *BMAL1* transcription), and leafy greens (magnesium aids PER protein stability) all appear supportive in aging populations. Pair them with daylight exposure and consistent sleep-wake times for best effect.

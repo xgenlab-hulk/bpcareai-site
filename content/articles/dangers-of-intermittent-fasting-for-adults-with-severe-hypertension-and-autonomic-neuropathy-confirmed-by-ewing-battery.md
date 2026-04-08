@@ -94,22 +94,22 @@ If you're unsure, talking to your doctor is always a good idea—especially befo
 
 ### FAQ
 
-#### #### Can intermittent fasting cause low blood pressure in people with autonomic neuropathy?
+#### Can intermittent fasting cause low blood pressure in people with autonomic neuropathy?
 
 Yes—it can. Because autonomic neuropathy impairs your body’s ability to constrict blood vessels and adjust heart rate in response to fasting-induced changes (like lower insulin or mild dehydration), BP can drop unpredictably—especially upon standing. This is why orthostatic testing and symptom tracking are essential before trying any fasting plan.
 
-#### #### Is intermittent fasting safe for someone with severe hypertension and autonomic neuropathy?
+#### Is intermittent fasting safe for someone with severe hypertension and autonomic neuropathy?
 
 For many, it’s not advised without close medical supervision. Severe hypertension (≥160/100 mm Hg) combined with confirmed autonomic neuropathy increases risks of dangerous BP lability, postprandial hypotension, and syncope. Safer alternatives—like consistent meal timing, mindful eating, and heart-healthy nutrition—often provide similar benefits with far less risk.
 
-#### #### What are the warning signs that intermittent fasting is harming my blood pressure control?
+#### What are the warning signs that intermittent fasting is harming my blood pressure control?
 
 Key red flags include: dizziness or lightheadedness when standing, mental fogginess or fatigue mid-morning, palpitations before meals, nausea after breaking a fast, or frequent unexplained falls. Any of these warrant pausing fasting and discussing BP trends with your care team.
 
-#### #### Does delayed gastric emptying make intermittent fasting riskier?
+#### Does delayed gastric emptying make intermittent fasting riskier?
 
 Absolutely. Delayed gastric emptying (gastroparesis)—common in autonomic neuropathy—means food sits longer in your stomach. When it finally moves, it triggers a sharp vasodilatory response, often causing BP to plummet 30–90 minutes after eating. This makes traditional “break-fast” timing potentially hazardous—and underscores why small, frequent, low-carb meals may be safer.
 
-#### #### Can I still lose weight safely if I avoid intermittent fasting due to autonomic neuropathy?
+#### Can I still lose weight safely if I avoid intermittent fasting due to autonomic neuropathy?
 
 Yes—you absolutely can. Focus on nutrient-dense foods, portion awareness, regular movement (even light walking), and sleep hygiene. Weight loss is possible—and sustainable—without fasting. In fact, studies show adults over 50 with autonomic issues often achieve better long-term success with steady, supported habits rather than restrictive windows.

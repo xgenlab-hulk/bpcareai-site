@@ -51,17 +51,17 @@ In summary, *diabetic footwear shear stress ulcer prevention* is not about one �
 
 ### FAQ
 
-#### #### What materials best reduce shear stress for people with diabetic neuropathy and toe ulcers?  
+#### What materials best reduce shear stress for people with diabetic neuropathy and toe ulcers?  
 Materials with higher shear modulus—such as 3D-printed TPU lattices (12–25 MPa) and dual-density thermoplastic elastomers—are clinically shown to restrict forefoot sliding more effectively than conventional EVA or memory foam. Pair these with seamless, moisture-wicking liners to stabilize the skin-shoe interface.
 
-#### #### How does diabetic footwear shear stress ulcer prevention differ from general pressure relief?  
+#### How does diabetic footwear shear stress ulcer prevention differ from general pressure relief?  
 Pressure relief focuses on minimizing *vertical* force (e.g., using soft insoles). Diabetic footwear shear stress ulcer prevention targets *horizontal* forces—sliding and twisting—that cause microtears beneath calluses. Both are essential, but shear control is especially critical for recurrent toe ulcers, where motion—not just load—drives tissue failure.
 
-#### #### Can over-the-counter shoes provide adequate diabetic footwear shear stress ulcer prevention?  
+#### Can over-the-counter shoes provide adequate diabetic footwear shear stress ulcer prevention?  
 Rarely. Most OTC shoes lack controlled shear modulus zoning, seamless construction, and precise toe-box geometry needed for hallux rigidus and neuropathy. Studies indicate only ~8% meet minimum consensus criteria for shear mitigation in high-risk diabetes.
 
-#### #### Does moisture-wicking lining really affect ulcer risk?  
+#### Does moisture-wicking lining really affect ulcer risk?  
 Yes. Wet skin reduces friction coefficient unpredictably—increasing initial slip, then potentially causing adhesive shear as the foot dries unevenly. Liners with consistent vapor permeability (≥5,000 g/m²/24h) help maintain stable interface conditions.
 
-#### #### Are 3D-printed insoles better than traditional custom orthotics for shear control?  
+#### Are 3D-printed insoles better than traditional custom orthotics for shear control?  
 Not inherently—but 3D-printed *lattice structures* allow precise regional tuning of shear modulus, enabling targeted reinforcement in high-shear zones (e.g., medial forefoot) without adding bulk. Traditional orthotics rely on global rigidity, which may compromise comfort and compliance.

@@ -94,17 +94,17 @@ The goal of **low-carb vs magnesium holiday heart prevention** isn’t to “opt
 
 ### FAQ
 
-#### #### Is low-carb vs magnesium holiday heart prevention safe for seniors with high blood pressure?
+#### Is low-carb vs magnesium holiday heart prevention safe for seniors with high blood pressure?
 Yes—with guidance. Both approaches can support healthier BP patterns: low-carb may reduce post-meal surges (common in salt-sensitive hypertension), while magnesium glycinate has been shown in meta-analyses to lower systolic BP by ~3–4 mm Hg and diastolic by ~2–3 mm Hg in adults with elevated readings. Always coordinate with your provider if you’re on antihypertensives like ACE inhibitors or diuretics.
 
-#### #### What’s the best low-carb vs magnesium holiday heart prevention plan for someone with AFib history?
+#### What’s the best low-carb vs magnesium holiday heart prevention plan for someone with AFib history?
 Neither replaces medical management—but magnesium glycinate is often preferred for those with documented AFib, especially if labs show deficiency. Low-carb resets may help if AFib episodes correlate strongly with large carbohydrate loads (e.g., holiday desserts + wine), but should never replace rhythm control or anticoagulation plans. Discuss timing with your cardiologist.
 
-#### #### Can I combine low-carb and magnesium for holiday heart prevention?
+#### Can I combine low-carb and magnesium for holiday heart prevention?
 It’s possible—and sometimes synergistic—but not necessary for a 3-day reset. Combining them *without monitoring* could unintentionally lower BP too much or cause GI upset. If you try both, prioritize hydration, watch for fatigue or lightheadedness, and keep your HRV and BP logs extra detailed.
 
-#### #### Does magnesium glycinate really improve HRV in older adults?
+#### Does magnesium glycinate really improve HRV in older adults?
 Yes—multiple small RCTs confirm it. A 2022 pilot in adults 60+ with low RBC magnesium showed a 19% average rise in RMSSD after 3 days of 350 mg/day magnesium glycinate—comparable to the HRV gain seen after a week of daily slow-paced breathing practice.
 
-#### #### How soon before a holiday meal should I start low-carb vs magnesium holiday heart prevention?
+#### How soon before a holiday meal should I start low-carb vs magnesium holiday heart prevention?
 For meaningful impact, begin 3 full days *before* your first major festive event—not the morning of. Autonomic shifts require time to register physiologically. Starting early lets your nervous system recalibrate *before* the first glass of wine or slice of pie hits your system.

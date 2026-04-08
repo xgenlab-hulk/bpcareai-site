@@ -68,17 +68,17 @@ Resuming resistance training after aortic valve replacement is not only possible
 
 ### FAQ
 
-#### #### Can I lift weights after aortic valve replacement with a mechanical valve?
+#### Can I lift weights after aortic valve replacement with a mechanical valve?
 Yes—under guidance. Studies show adults 67+ with mechanical aortic valves can safely perform resistance training after aortic valve replacement when peak SBP stays <160 mmHg and LVOT Vmax remains ≤2.0 m/s on stress echo.
 
-#### #### How soon can I start resistance training after aortic valve replacement?
+#### How soon can I start resistance training after aortic valve replacement?
 Most patients begin light resistance (e.g., band work, bodyweight movements) at 6–8 weeks post-op, provided surgical incisions are healed, anticoagulation is stable, and echocardiography shows no complications. A formal cardiac rehab program is strongly recommended before progressing.
 
-#### #### Is resistance training after aortic valve replacement safe for seniors with high blood pressure?
+#### Is resistance training after aortic valve replacement safe for seniors with high blood pressure?
 It can be—with strict BP control. Those with stage 2 hypertension (≥140/90 mmHg) should achieve target readings on medication *before* starting, and monitor SBP closely during all resistance efforts. A rise >40 mmHg above baseline warrants reassessment.
 
-#### #### What exercises should I avoid after aortic valve replacement?
+#### What exercises should I avoid after aortic valve replacement?
 Avoid maximal-effort lifts (e.g., heavy squats, deadlifts, overhead presses), isometric holds (planks longer than 30 seconds), and activities requiring breath-holding. Also avoid rapid positional changes (e.g., sit-to-stand from floor) until balance and orthostatic tolerance are confirmed.
 
-#### #### Does resistance training after aortic valve replacement affect my INR or blood thinners?
+#### Does resistance training after aortic valve replacement affect my INR or blood thinners?
 Not directly—but intense exertion can influence hydration, liver metabolism, and vitamin K intake (via diet shifts), all of which impact warfarin effect. Keep your anticoagulation clinic updated on any new exercise routine, and monitor INR more frequently during the first month of progression.

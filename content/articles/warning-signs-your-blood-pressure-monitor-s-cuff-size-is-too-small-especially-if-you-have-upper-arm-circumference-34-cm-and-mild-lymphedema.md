@@ -91,17 +91,17 @@ Getting your blood pressure right isn’t about perfection—it’s about showin
 
 ### FAQ
 
-#### #### How do I know if my blood pressure cuff size is right for lymphedema?
+#### How do I know if my blood pressure cuff size is right for lymphedema?
 Look for three things: (1) Your arm circumference is measured at the midpoint (not the bicep peak), (2) the cuff’s bladder width covers 80–100% of that number, and (3) the cuff lies flat without pinching or gapping—even when inflated. With lymphedema, prioritize comfort and consistency: if readings feel “off” or vary wildly, cuff size is a top suspect.
 
-#### #### Can lymphedema cause false high blood pressure readings?
+#### Can lymphedema cause false high blood pressure readings?
 Yes—especially with an undersized cuff. Lymphedematous tissue resists compression, requiring more cuff pressure to occlude the artery. This inflates systolic numbers and may suppress diastolic detection. That’s why *blood pressure cuff size lymphedema* is such an important pairing: the right fit helps isolate true arterial pressure from tissue resistance.
 
-#### #### What cuff size do I need for upper-arm circumference 36 cm and mild lymphedema?
+#### What cuff size do I need for upper-arm circumference 36 cm and mild lymphedema?
 A large adult cuff (bladder approx. 16 × 36 cm) is typically appropriate. Avoid standard or “normal” cuffs (usually 12–14 cm wide bladders), as they’re designed for arms ≤32 cm. When in doubt, choose the next size up—oversizing is safer than undersizing, as long as the cuff wraps fully and evenly.
 
-#### #### Does arm position affect BP readings more with lymphedema?
+#### Does arm position affect BP readings more with lymphedema?
 Yes—slightly more so. Because fluid distribution shifts with gravity, measuring with your arm unsupported or below heart level can add 5–10 mm Hg to readings. Always rest your arm on a table or pillow at mid-chest height, especially if swelling fluctuates through the day.
 
-#### #### Can I use a wrist blood pressure monitor instead if my arm is swollen?
+#### Can I use a wrist blood pressure monitor instead if my arm is swollen?
 Not recommended for routine use. Wrist monitors are more sensitive to positioning, motion, and arterial stiffness—and they’re not validated for lymphedematous tissue. Upper-arm measurements remain the gold standard, especially when paired with the correct cuff size. If upper-arm use is uncomfortable due to swelling or sensitivity, talk to your clinician about validated alternatives or in-clinic verification.

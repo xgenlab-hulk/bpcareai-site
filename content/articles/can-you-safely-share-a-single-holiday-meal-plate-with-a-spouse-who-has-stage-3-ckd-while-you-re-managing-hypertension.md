@@ -62,17 +62,17 @@ Navigating a *shared holiday meal hypertension ck3* situation doesn’t mean giv
 
 ### FAQ
 
-#### #### Can I share a holiday meal plate if my spouse has Stage 3 CKD and I have high blood pressure?  
+#### Can I share a holiday meal plate if my spouse has Stage 3 CKD and I have high blood pressure?  
 Yes—but not without adjustments. Sharing a plate *as-is* risks sodium overload (worsening BP) and potassium/phosphate excess (straining kidneys). Instead, use separate serving bowls and build meals from shared low-risk bases (e.g., plain turkey, rice) with individualized toppings.
 
-#### #### What are the biggest sodium traps in shared holiday meal hypertension ck3 situations?  
+#### What are the biggest sodium traps in shared holiday meal hypertension ck3 situations?  
 Gravy, stuffing, deli-style meats, canned cranberry sauce, and pre-made mashed potatoes often contain 400–800 mg sodium per ½-cup serving. Even “low-salt” broths can add 300+ mg per cup. Homemade versions using no-salt-added broth and fresh herbs cut sodium by 60–75%.
 
-#### #### How does potassium affect shared holiday meal hypertension ck3 dynamics?  
+#### How does potassium affect shared holiday meal hypertension ck3 dynamics?  
 High-potassium foods (sweet potatoes, bananas, tomato-based sauces) are heart-healthy for most people—but for Stage 3 CKD, they may impair potassium clearance, leading to arrhythmias or muscle weakness. Since hypertension itself increases cardiac vulnerability, balancing potassium across the household matters doubly.
 
-#### #### Is it safe to eat the same dish if it’s labeled “heart-healthy”?  
+#### Is it safe to eat the same dish if it’s labeled “heart-healthy”?  
 Not necessarily. “Heart-healthy” labels focus on saturated fat and cholesterol—not sodium, potassium, or phosphate. A dish marketed for BP control may still contain >1,000 mg sodium or 400+ mg potassium per serving—too high for Stage 3 CKD. Always read full nutrition facts.
 
-#### #### Can shared holiday meal hypertension ck3 impact long-term kidney function?  
+#### Can shared holiday meal hypertension ck3 impact long-term kidney function?  
 Yes—repeated dietary mismatches contribute to faster eGFR decline. Studies show that consistent sodium intake >2,300 mg/day correlates with ~1.5–2.0 mL/min/year faster eGFR loss in Stage 3 CKD. Managing shared meals thoughtfully supports both kidney preservation and BP stability.

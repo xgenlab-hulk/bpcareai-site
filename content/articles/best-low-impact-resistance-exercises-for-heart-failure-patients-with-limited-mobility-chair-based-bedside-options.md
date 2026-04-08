@@ -83,22 +83,22 @@ If you're unsure, talking to your doctor is always a good idea. And remember: **
 
 ### FAQ
 
-#### #### Can low impact resistance exercises heart failure patients do actually improve ejection fraction?
+#### Can low impact resistance exercises heart failure patients do actually improve ejection fraction?
 
 Not directly—resistance training doesn’t typically raise left ventricular ejection fraction (LVEF) numbers. However, it *does* improve functional capacity, reduce symptoms like fatigue and dyspnea, and support better adherence to medications and lifestyle changes that *do* influence long-term LVEF stability. Think of it as strengthening the “system around the heart,” not the heart muscle itself.
 
-#### #### Are resistance bands safe for heart failure patients with high blood pressure?
+#### Are resistance bands safe for heart failure patients with high blood pressure?
 
 Yes—when used correctly. Resistance bands allow precise control over load and tempo, minimizing sudden spikes in arterial pressure. Avoid Valsalva maneuvers (holding breath during exertion), keep movements slow, and stop if systolic BP rises >30 mm Hg above baseline. Always check with your cardiologist before starting, especially if BP is consistently >150/95 mm Hg.
 
-#### #### How often should I do low impact resistance exercises heart failure routines?
+#### How often should I do low impact resistance exercises heart failure routines?
 
 For most NYHA Class II–III patients, 2–3 sessions per week is ideal—allowing at least one rest day between. Each session can be as short as 5–10 minutes initially. Consistency matters more than duration; studies show benefits accumulate steadily over 8–12 weeks of regular practice.
 
-#### #### Can I do these exercises if I’m on diuretics or anticoagulants?
+#### Can I do these exercises if I’m on diuretics or anticoagulants?
 
 Generally, yes—but with precautions. Diuretics may cause electrolyte shifts that affect muscle cramping or fatigue, so stay hydrated and report new weakness. Anticoagulants increase bruising risk, so avoid aggressive band anchoring or friction points (e.g., looping bands tightly around bony areas). Always discuss your full medication list with your rehab team.
 
-#### #### Do I need special equipment for low impact resistance exercises heart failure?
+#### Do I need special equipment for low impact resistance exercises heart failure?
 
 No. A light-to-medium resistance band (often color-coded: yellow = light, red = medium) and a sturdy, armless chair are enough to begin. No weights, machines, or apps required. Many hospitals and cardiac rehab programs offer free band sets to enrolled patients—ask your heart failure nurse.

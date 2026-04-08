@@ -93,22 +93,22 @@ If you're unsure, talking to your doctor is always a good idea. And remember: *c
 
 ### FAQ
 
-#### #### Does carb counting cognitive impairment elderly mean I can’t manage my diabetes well anymore?
+#### Does carb counting cognitive impairment elderly mean I can’t manage my diabetes well anymore?
 
 No—it means your current strategy may need updating. Many older adults thrive using visual cues, routine-based plans, or tech-assisted tools instead of strict gram counting. Success is measured by stable blood sugars, fewer lows, and quality of life—not how many numbers you can juggle.
 
-#### #### What are the best alternatives to carb counting for someone with mild cognitive impairment and diabetic retinopathy?
+#### What are the best alternatives to carb counting for someone with mild cognitive impairment and diabetic retinopathy?
 
 High-contrast plate templates, voice-guided food identification apps, and consistent meal routines (e.g., “every Tuesday lunch is soup + half a sandwich”) are strongly supported by geriatric diabetes research. These reduce visual strain, memory load, and calculation fatigue—while maintaining glycemic control.
 
-#### #### Can carb counting cognitive impairment elderly affect blood pressure management too?
+#### Can carb counting cognitive impairment elderly affect blood pressure management too?
 
 Yes—indirectly. Stress from complex self-care tasks can elevate sympathetic tone, contributing to higher BP variability. Also, repeated hypoglycemia (which may happen when carb counting falters) triggers adrenaline surges that raise systolic pressure. Simplifying meal planning often leads to calmer, more predictable daily rhythms—including steadier arterial pressure.
 
-#### #### Is it safe to stop carb counting entirely if I have diabetes and memory changes?
+#### Is it safe to stop carb counting entirely if I have diabetes and memory changes?
 
 Not necessarily “stop”—but shift emphasis. Your care team may recommend switching to pattern-based insulin dosing or fixed-carb meals instead of precise gram counts. Safety comes from consistency and monitoring—not from abandoning structure altogether.
 
-#### #### How do I talk to my doctor about moving away from carb counting?
+#### How do I talk to my doctor about moving away from carb counting?
 
 Try saying: “I’m finding the math and label reading harder lately—could we explore simpler, visual or routine-based ways to keep my blood sugar steady?” Most endocrinologists and certified diabetes care and education specialists welcome this conversation—and many have resources ready.

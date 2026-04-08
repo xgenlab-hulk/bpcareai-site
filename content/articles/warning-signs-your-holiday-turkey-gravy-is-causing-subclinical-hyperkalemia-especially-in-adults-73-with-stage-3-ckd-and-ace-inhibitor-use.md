@@ -74,17 +74,17 @@ In short, enjoying holiday traditions doesn’t require compromise on health. Wi
 
 ### FAQ
 
-#### #### Can turkey gravy cause high potassium in seniors with kidney disease?
+#### Can turkey gravy cause high potassium in seniors with kidney disease?
 Yes—especially in those with stage 3 CKD and on ACE inhibitors. Gravy concentrates potassium naturally present in turkey drippings, and reduced kidney clearance makes even moderate amounts risky.
 
-#### #### What are the earliest turkey gravy hyperkalemia warning signs seniors should notice?
+#### What are the earliest turkey gravy hyperkalemia warning signs seniors should notice?
 Early signs include subtle muscle twitching (especially after eating), unexplained fatigue lasting hours post-meal, mild nausea, or brief heart palpitations—often dismissed as “just tiredness.”
 
-#### #### Is homemade turkey gravy safer than store-bought for seniors with CKD?
+#### Is homemade turkey gravy safer than store-bought for seniors with CKD?
 Not necessarily. Homemade gravy often contains *more* potassium because it’s made from concentrated pan drippings, whereas many commercial gravies are formulated with lower-potassium bases—or contain phosphates that may indirectly affect mineral balance.
 
-#### #### Does high potassium from gravy affect blood pressure?
+#### Does high potassium from gravy affect blood pressure?
 Indirectly, yes. Elevated potassium can influence cardiac conduction and vascular smooth muscle tone—potentially causing bradycardia or hypotension in sensitive individuals, especially when combined with ACE inhibitors.
 
-#### #### How much potassium is typically in a serving of turkey gravy?
+#### How much potassium is typically in a serving of turkey gravy?
 A standard ¼-cup (60 mL) serving of traditional homemade turkey gravy contains approximately 250–400 mg of potassium—roughly 7–11% of the recommended daily intake for adults with CKD (typically 2,000–3,000 mg/day, depending on eGFR).

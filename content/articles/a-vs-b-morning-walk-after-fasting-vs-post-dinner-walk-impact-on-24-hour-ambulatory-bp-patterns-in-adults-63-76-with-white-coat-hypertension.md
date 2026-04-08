@@ -87,22 +87,22 @@ Heart health isn’t about perfection—it’s about consistency, awareness, and
 
 ### FAQ
 
-#### #### Is morning vs evening walk blood pressure really different for seniors?
+#### Is morning vs evening walk blood pressure really different for seniors?
 
 Yes—studies using 24-hour ABPM show distinct effects in adults 63–76. Morning walks tend to strengthen nocturnal dipping, while evening walks more reliably moderate morning surge and pulse pressure variability. Individual responses depend heavily on chronotype and medication schedule.
 
-#### #### Which is better for lowering blood pressure: morning walk or evening walk?
+#### Which is better for lowering blood pressure: morning walk or evening walk?
 
 Neither is universally “better.” For early chronotypes and those on morning-dosed antihypertensives, morning walks often yield greater dipping improvement. For late chronotypes or those on evening-dosed meds, post-dinner walking shows stronger effects on morning surge reduction. ABPM helps clarify your personal pattern.
 
-#### #### Can walking at night raise blood pressure instead of lowering it?
+#### Can walking at night raise blood pressure instead of lowering it?
 
 Not typically—unless done too close to bedtime (within 90 minutes) or at high intensity. Gentle evening walking usually supports parasympathetic activation. However, if you experience insomnia or delayed sleep onset after evening activity, shifting to late afternoon may better suit your circadian profile.
 
-#### #### Does fasting before a morning walk affect blood pressure differently in older adults?
+#### Does fasting before a morning walk affect blood pressure differently in older adults?
 
 Yes. Fasted morning walking (after ~10–12 hours overnight fast) may cause a small, transient BP increase due to mild sympathetic activation—but this is often followed by improved daytime stability and enhanced nocturnal dipping. It’s generally safe for stable adults 63–76, but those with orthostatic hypotension should check BP before and after and stay hydrated.
 
-#### #### How long does it take to see changes in 24-hour BP patterns from changing walk timing?
+#### How long does it take to see changes in 24-hour BP patterns from changing walk timing?
 
 Most ABPM studies report measurable shifts—such as improved dipping or reduced morning surge—within 4–6 weeks of consistent, timed walking (≥5 days/week). Full stabilization of pulse pressure variability may take 10–12 weeks. Patience and tracking are essential.

@@ -86,22 +86,22 @@ Holiday traditions are meant to bring joy, connection, and comfort — not worry
 
 ### FAQ
 
-#### #### Can holiday pie snacking thiamine depletion neuropathy happen after just three days?
+#### Can holiday pie snacking thiamine depletion neuropathy happen after just three days?
 
 Yes — especially in adults 55–65 with preexisting peripheral neuropathy and regular alcohol use. Three days of high-sugar, low-thiamine eating can significantly reduce functional thiamine stores in vulnerable individuals, sometimes triggering early neurological cues before classic symptoms appear.
 
-#### #### What are the earliest warning signs of holiday pie snacking thiamine depletion neuropathy?
+#### What are the earliest warning signs of holiday pie snacking thiamine depletion neuropathy?
 
 The earliest signs are often subtle and neurological: horizontal nystagmus on lateral gaze, delayed pupillary light reflex (longer than ~0.8 sec), and reduced symmetry in Achilles tendon reflexes. These may occur before fatigue, confusion, or heart symptoms — and are most meaningful when they represent a change from your usual baseline.
 
-#### #### How is holiday pie snacking thiamine depletion neuropathy different from regular neuropathy?
+#### How is holiday pie snacking thiamine depletion neuropathy different from regular neuropathy?
 
 It’s not a separate diagnosis — rather, it’s a *worsening or acceleration* of existing neuropathy due to acute thiamine shortage. While typical neuropathy progresses slowly, thiamine-related changes can develop over days to weeks and often improve rapidly with appropriate supplementation and dietary correction.
 
-#### #### Does eating more pie cause high blood pressure?
+#### Does eating more pie cause high blood pressure?
 
 Not directly — but excessive sugar and refined carbs can contribute to temporary spikes in arterial pressure, especially in those with insulin resistance or hypertension. Pairing pie with protein/fiber and staying hydrated helps stabilize both blood glucose and BP responses.
 
-#### #### Can thiamine supplements help if I’ve been doing holiday pie snacking thiamine depletion neuropathy?
+#### Can thiamine supplements help if I’ve been doing holiday pie snacking thiamine depletion neuropathy?
 
 Yes — oral thiamine (typically 50–100 mg/day) is safe, well-tolerated, and often leads to noticeable improvement in energy and nerve symptoms within days to weeks. However, always consult your doctor before starting supplements, especially if you take diuretics or have kidney concerns.

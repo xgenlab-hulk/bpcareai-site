@@ -70,17 +70,17 @@ In all things, kindness to yourself is part of care. If you're unsure, talking t
 
 ### FAQ
 
-#### #### Should seniors with diabetic gastroparesis always skip dessert diabetic gastroparesis seniors?  
+#### Should seniors with diabetic gastroparesis always skip dessert diabetic gastroparesis seniors?  
 Not always—but consistency matters more than occasional exceptions. If you notice *any* of the five clinical indicators (like pre-meal rumbling or post-caffeine nausea), skipping dessert diabetic gastroparesis seniors is a thoughtful, proactive choice—not a failure. It’s about pattern recognition, not perfection.
 
-#### #### What desserts are safest for seniors with diabetic gastroparesis?  
+#### What desserts are safest for seniors with diabetic gastroparesis?  
 Low-fiber, low-fat, low-sugar options tend to move more predictably: chia pudding (unsweetened almond milk + 1 tsp maple syrup), baked cinnamon apples (no added sugar), or a small portion of ricotta with lemon zest. Avoid creamy, high-fat, or high-fiber desserts (e.g., whole-grain pumpkin pie, oatmeal cookies).
 
-#### #### Can skipping dessert diabetic gastroparesis seniors improve long-term blood sugar control?  
+#### Can skipping dessert diabetic gastroparesis seniors improve long-term blood sugar control?  
 Yes—studies show that reducing high-glycemic-load evening carbohydrates lowers nocturnal glucose variability and reduces HbA1c by 0.3–0.6% over 3 months in adults with gastroparesis. Stability matters more than sweetness.
 
-#### #### Does gastroparesis get worse with age?  
+#### Does gastroparesis get worse with age?  
 It can progress gradually, especially if blood glucose remains above target (A1c >7.5%). However, many people stabilize or even improve with consistent glucose management, dietary adjustments, and medications like low-dose erythromycin (when appropriate).
 
-#### #### Is nausea after coffee a sign of gastroparesis in seniors?  
+#### Is nausea after coffee a sign of gastroparesis in seniors?  
 It *can be*—particularly if it occurs consistently within 30 minutes and is accompanied by early fullness or bloating. Caffeine stimulates gastric contractions; in a sluggish stomach, that may provoke discomfort rather than relief.

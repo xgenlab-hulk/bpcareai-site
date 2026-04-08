@@ -57,17 +57,17 @@ In summary, *periodontitis postprandial hyperglycemia* is a modifiable contribut
 
 ### FAQ
 
-#### #### Can periodontitis postprandial hyperglycemia occur even with normal HbA1c?
+#### Can periodontitis postprandial hyperglycemia occur even with normal HbA1c?
 Yes. Because HbA1c reflects a 3-month average, it often misses pronounced post-meal spikes. Studies show up to 42% of adults with diabetes and periodontitis have normal A1c (<7.0%) but abnormal 2-hour OGTT values (>200 mg/dL), confirming *periodontitis postprandial hyperglycemia* as an independent phenomenon.
 
-#### #### Does treating gum disease lower blood sugar in people with diabetes?
+#### Does treating gum disease lower blood sugar in people with diabetes?
 Yes—especially postprandial glucose. Meta-analyses report mean reductions of 30–40 mg/dL in 2-hour post-glucose challenge values after comprehensive periodontal therapy, with greater effects seen when antimicrobials are included.
 
-#### #### How is periodontitis postprandial hyperglycemia different from general insulin resistance?
+#### How is periodontitis postprandial hyperglycemia different from general insulin resistance?
 While insulin resistance affects muscle and fat tissue, *periodontitis postprandial hyperglycemia* stems largely from cytokine-driven *hepatic* glucose overproduction. It can persist even when peripheral insulin sensitivity improves—making oral inflammation a unique therapeutic target.
 
-#### #### Is there a link between periodontitis and high blood pressure in diabetes?
+#### Is there a link between periodontitis and high blood pressure in diabetes?
 Yes. Chronic IL-6 and TNF-α elevation contributes to endothelial dysfunction and arterial stiffness—both associated with elevated systolic BP (≥140 mm Hg) in adults with diabetes and severe periodontitis.
 
-#### #### What blood tests help identify inflammation-driven hyperglycemia?
+#### What blood tests help identify inflammation-driven hyperglycemia?
 Look for elevated hs-CRP (>3 mg/L), fibrinogen (>350 mg/dL), or serum IL-6 (>2.5 pg/mL)—especially when paired with disproportionate postprandial glucose excursions relative to A1c.

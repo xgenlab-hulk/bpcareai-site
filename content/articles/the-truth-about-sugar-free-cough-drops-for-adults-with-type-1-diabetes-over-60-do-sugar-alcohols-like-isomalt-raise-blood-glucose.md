@@ -79,22 +79,22 @@ Living well with type 1 diabetes after age 60 isn’t about perfection—it’s 
 
 ### FAQ
 
-#### #### Do sugar-free cough drops raise blood sugar in seniors with type 1 diabetes?
+#### Do sugar-free cough drops raise blood sugar in seniors with type 1 diabetes?
 
 Yes—some do, depending on the sugar alcohol used. Maltitol has the highest glycemic impact (GI ~35), isomalt is low (GI ~9), and erythritol is virtually zero (GI ~0). Older adults may experience more pronounced or delayed glucose responses due to slower digestion and changing insulin sensitivity.
 
-#### #### Are sugar-free cough drops and blood sugar in seniors a real concern—or just overcaution?
+#### Are sugar-free cough drops and blood sugar in seniors a real concern—or just overcaution?
 
 It’s a valid, evidence-informed concern—not overcaution. Research shows adults over 60 with T1D can experience measurable glucose increases (15–25 mg/dL) from repeated use of maltitol-based lozenges. Because aging affects metabolism and kidney clearance, personalized assessment matters more than ever.
 
-#### #### Can I use sugar-free cough drops if I’m on an insulin pump or automated insulin delivery system?
+#### Can I use sugar-free cough drops if I’m on an insulin pump or automated insulin delivery system?
 
 Yes—with awareness. Most AID systems don’t account for the slow, partial absorption of sugar alcohols like maltitol or isomalt. You may need a small manual bolus or extended bolus (e.g., 50% now, 50% over 90 minutes) based on your observed response. Work with your diabetes educator to test and refine your approach.
 
-#### #### Do sugar-free cough drops cause digestive issues in older adults?
+#### Do sugar-free cough drops cause digestive issues in older adults?
 
 They can—especially in higher doses. The laxative threshold for maltitol is ~10 g/day for many adults over 60 (lower than younger adults’ ~20 g). Symptoms like bloating, gas, or loose stools suggest you’ve exceeded your tolerance. Switching to erythritol-based options often resolves this.
 
-#### #### Are there any sugar-free cough drops that won’t affect blood sugar at all?
+#### Are there any sugar-free cough drops that won’t affect blood sugar at all?
 
 Erythritol-based lozenges come closest—studies show negligible impact on glucose or insulin levels, even at doses up to 50 g. Just be sure the product contains *no added glucose, dextrose, or maltodextrin*, which are sometimes hidden in “natural flavor” blends or fillers.

@@ -85,17 +85,17 @@ Choosing holiday beverages doesn’t have to mean choosing between joy and vigil
 
 ### FAQ
 
-#### #### Does mulled wine vs sparkling cider arrhythmia risk differ for people with IBS-C versus IBS-D?
+#### Does mulled wine vs sparkling cider arrhythmia risk differ for people with IBS-C versus IBS-D?
 Yes. Individuals with IBS-D tend to have higher intestinal permeability and lower diamine oxidase (DAO) activity, making them more susceptible to histamine-driven vagal effects—increasing relative risk with sparkling cider. Those with IBS-C often show slower gastric motility, which may amplify tannin–calcium interactions from mulled wine—potentially increasing PVC burden in some cases. Personalized trial with ambulatory monitoring is recommended.
 
-#### #### Can mulled wine vs sparkling cider arrhythmia be predicted by standard allergy testing?
+#### Can mulled wine vs sparkling cider arrhythmia be predicted by standard allergy testing?
 No. Standard IgE-based allergy panels do not detect histamine intolerance or tannin sensitivity. Functional testing—such as serum DAO activity, urinary histamine metabolites (e.g., N-methylhistamine), or genetic screening for *ALDH2* or *HLA-DQ2/DQ8*—offers more relevant insight for predicting *mulled wine vs sparkling cider arrhythmia* susceptibility.
 
-#### #### Is there a safe amount of mulled wine vs sparkling cider arrhythmia risk for someone with controlled AF?
+#### Is there a safe amount of mulled wine vs sparkling cider arrhythmia risk for someone with controlled AF?
 “Safe” is individualized—but in clinical studies, ≤120 mL mulled wine (no added sugar, 45-min simmer) was associated with neutral or mildly stabilizing rhythm effects in 71% of participants with well-controlled AF. For sparkling cider, ≤120 mL showed neutral effects in only 52%, largely dependent on DAO status. When in doubt, start with half-portions and monitor.
 
-#### #### Does heating mulled wine destroy beneficial polyphenols?
+#### Does heating mulled wine destroy beneficial polyphenols?
 Moderate heating (70–85°C for 45 minutes) actually *increases* solubility and bioavailability of key polyphenols like epicatechin and quercetin glucosides—up to 30% higher plasma concentrations versus room-temperature wine. However, prolonged boiling (>100°C) degrades resveratrol rapidly. Gentle simmering preserves benefits.
 
-#### #### Are there non-alcoholic alternatives with lower arrhythmia risk than both mulled wine and sparkling cider?
+#### Are there non-alcoholic alternatives with lower arrhythmia risk than both mulled wine and sparkling cider?
 Yes. Low-histamine, tannin-free options like still filtered apple–pear juice (pasteurized, no fermentation), chamomile–ginger infusion (cooled), or diluted pomegranate juice (1:3 with water) show minimal impact on cardiac rhythm in small pilot studies. Always verify sulfite-free labeling and avoid “natural flavor” additives, which may contain hidden histamine precursors.

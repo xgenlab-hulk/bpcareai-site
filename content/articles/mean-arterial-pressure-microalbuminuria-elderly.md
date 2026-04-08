@@ -85,22 +85,22 @@ Understanding the relationship between **mean arterial pressure microalbuminuria
 
 ### FAQ
 
-#### #### What does mean arterial pressure microalbuminuria elderly mean in simple terms?
+#### What does mean arterial pressure microalbuminuria elderly mean in simple terms?
 
 It describes a situation where an older adult has normal-looking blood pressure at the doctor’s office, but slightly elevated mean arterial pressure (MAP) measured over 24 hours — along with small, repeated amounts of protein (albumin) in the urine. Together, these may signal early, reversible stress on the kidneys — not disease, but a sign to pay gentle attention.
 
-#### #### Is mean arterial pressure microalbuminuria elderly a sign of kidney disease?
+#### Is mean arterial pressure microalbuminuria elderly a sign of kidney disease?
 
 Not necessarily — and that’s important. Persistent microalbuminuria with elevated MAP in older adults is often an indicator of *early* kidney stress or subclinical organ damage, not established chronic kidney disease (CKD). It’s a stage where lifestyle and clinical support can make a meaningful difference — especially when caught early.
 
-#### #### How is mean arterial pressure calculated, and why is it more useful than systolic BP alone in older adults?
+#### How is mean arterial pressure calculated, and why is it more useful than systolic BP alone in older adults?
 
 MAP is commonly estimated as Diastolic BP + ⅓ (Systolic BP – Diastolic BP). For example: 136/78 → 78 + ⅓(58) ≈ 97 mm Hg. In older adults, MAP better reflects steady perfusion pressure to vital organs like the kidneys — and studies show it correlates more strongly with early kidney changes than systolic BP alone.
 
-#### #### Can diet and hydration really affect microalbuminuria and MAP in seniors?
+#### Can diet and hydration really affect microalbuminuria and MAP in seniors?
 
 Yes — thoughtfully. Staying well-hydrated (without overdoing fluids), reducing excess sodium, and eating whole foods rich in potassium (like bananas, spinach, and beans) support stable MAP and healthy kidney filtration. Dehydration or high-sodium meals can temporarily raise both MAP and urine albumin — so consistency matters more than perfection.
 
-#### #### Does white-coat hypertension always go away with age?
+#### Does white-coat hypertension always go away with age?
 
 Not always — and more importantly, “resolved” white-coat effect doesn’t guarantee absence of other BP-related patterns. Some older adults transition from white-coat to masked hypertension (normal in-office, high elsewhere) or develop isolated elevated MAP — which is why ambulatory monitoring remains valuable, even after white-coat concerns seem settled.

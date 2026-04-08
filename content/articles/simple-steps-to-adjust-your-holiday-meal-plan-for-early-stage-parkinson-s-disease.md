@@ -44,22 +44,22 @@ With mindful preparation, holiday meals can remain joyful, social, and nourishin
 
 ### FAQ
 
-#### #### How does protein affect levodopa absorption during holiday meals?
+#### How does protein affect levodopa absorption during holiday meals?
 
 Protein-rich foods contain amino acids that compete with levodopa for absorption in the gut and entry into the brain. Eating a high-protein meal (e.g., 25+ g protein) within 30 minutes of a levodopa dose may reduce its effectiveness by up to half. Spacing protein away from doses—and distributing it evenly across the day—helps maintain smoother symptom control.
 
-#### #### What are easy parkinsons disease holiday meal planning tips for families?
+#### What are easy parkinsons disease holiday meal planning tips for families?
 
 Focus on timing over elimination: serve protein at dinner (not breakfast or lunch), offer soft-textured sides like mashed sweet potatoes or cooked applesauce, and keep portion sizes modest. Involve loved ones by labeling dishes with protein content or preparing a simple “levodopa-friendly timing chart” for the day.
 
-#### #### Can I still enjoy traditional holiday foods with early-stage Parkinson’s?
+#### Can I still enjoy traditional holiday foods with early-stage Parkinson’s?
 
 Yes—most traditional dishes can be adapted. Roast turkey? Serve smaller portions alongside low-protein stuffing alternatives (e.g., quinoa + dried fruit). Gravy? Use cornstarch instead of flour for easier swallowing. Pie? Opt for custard-based fillings over nut-heavy versions. Flexibility—not restriction—is the goal.
 
-#### #### Why do I feel dizzy after holiday meals?
+#### Why do I feel dizzy after holiday meals?
 
 This may signal postprandial hypotension—a common but manageable issue in Parkinson’s. Blood flow shifts to the digestive tract after eating, and autonomic dysfunction can blunt the body’s compensatory BP rise. Eating smaller meals, limiting refined carbs, staying seated for 30 minutes post-meal, and discussing fluid/electrolyte balance with your clinician can help.
 
-#### #### Is healthy holiday eating for seniors different with Parkinson’s?
+#### Is healthy holiday eating for seniors different with Parkinson’s?
 
 Yes—especially regarding protein distribution, texture modification, and BP-aware timing. While general senior nutrition emphasizes fiber, calcium, and hydration, Parkinson’s adds layers related to medication kinetics and autonomic function. Integrating these considerations makes **parkinsons disease holiday meal planning** both practical and deeply personalized.

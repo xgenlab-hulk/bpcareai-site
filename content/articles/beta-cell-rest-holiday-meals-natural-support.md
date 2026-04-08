@@ -51,22 +51,22 @@ In short, supporting your pancreas during the holidays isn’t about restriction
 
 ### FAQ
 
-#### #### Can cold-pressed apple-cinnamon chutney really help with beta-cell rest holiday meals natural support?
+#### Can cold-pressed apple-cinnamon chutney really help with beta-cell rest holiday meals natural support?
 
 Yes—when used intentionally. Cold-pressing preserves apple polyphenols like phloretin and quercetin, which modulate glucose transporters in the gut. Studies show consuming them *5–10 minutes before* a meal reduces postprandial glucose spikes by ~12–18% in adults over 60—lessening acute demand on beta-cells. It’s not a replacement for balanced meals, but a gentle physiological “buffer.”
 
-#### #### What’s the best time of day to use beta-cell rest holiday meals natural support strategies?
+#### What’s the best time of day to use beta-cell rest holiday meals natural support strategies?
 
 Early to mid-afternoon is ideal—aligning with natural circadian peaks in digestive enzyme production (especially amylase) and vagal tone. Avoid late-evening large meals, as melatonin suppresses insulin secretion. Even a small shift—serving dessert at 3:30 pm instead of 7:30 pm—can meaningfully lower beta-cell strain.
 
-#### #### Is seated breathing before meals really effective for older adults?
+#### Is seated breathing before meals really effective for older adults?
 
 Absolutely. A 2023 pilot study in adults 65+ found that 2 minutes of paced exhalation (4-2-6 breathing) before meals increased vagally mediated HRV by 22% and lowered 30-minute post-meal glucose by an average of 27 mg/dL—comparable to mild pharmacologic effects, with zero side effects.
 
-#### #### Does “beta-cell rest” mean I should skip insulin or medication during holidays?
+#### Does “beta-cell rest” mean I should skip insulin or medication during holidays?
 
 No—never stop or adjust prescribed medications without consulting your care team. Beta-cell rest refers to reducing *unnecessary acute demand*, not replacing therapy. Think of it like giving your pancreas a supportive pause—not asking it to work alone.
 
-#### #### How does family stress affect beta-cell rest during holiday meals?
+#### How does family stress affect beta-cell rest during holiday meals?
 
 Chronic stress elevates cortisol, which increases liver glucose output and blunts insulin sensitivity. That’s why the breathing practice isn’t just “relaxation”—it directly counters stress-induced hyperglycemia. Sharing that breath with a grandchild or sibling? That’s resilience, served warm.

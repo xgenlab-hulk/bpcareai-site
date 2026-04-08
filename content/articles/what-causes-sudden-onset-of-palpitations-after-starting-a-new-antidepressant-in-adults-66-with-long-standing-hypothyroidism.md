@@ -76,17 +76,17 @@ Experiencing *antidepressant palpitations hypothyroidism seniors 66+* is unsettl
 
 ### FAQ
 
-#### #### Can antidepressants cause heart palpitations in people with hypothyroidism?
+#### Can antidepressants cause heart palpitations in people with hypothyroidism?
 Yes—especially SSRIs and SNRIs. Hypothyroidism slows drug metabolism and alters heart rhythm stability, making seniors more susceptible. Palpitations are often among the first signs of subtle QT changes or autonomic imbalance.
 
-#### #### What are the safest antidepressants for seniors 66+ with hypothyroidism and heart disease?
+#### What are the safest antidepressants for seniors 66+ with hypothyroidism and heart disease?
 Bupropion (at doses ≤150 mg/day) and mirtazapine (≤15 mg/day) have minimal QT effects and no known impact on thyroid conversion. Vortioxetine also shows favorable cardiac safety in older adults—though always individualize based on BP, rhythm, and polypharmacy.
 
-#### #### Is there a link between antidepressant palpitations hypothyroidism seniors 66+ and high blood pressure?
+#### Is there a link between antidepressant palpitations hypothyroidism seniors 66+ and high blood pressure?
 Not directly—but palpitations often coincide with transient BP spikes (e.g., systolic jumps of 20–30 mm Hg). Chronic untreated hypothyroidism *does* contribute to arterial stiffness and diastolic hypertension (e.g., readings like 140/90 mm Hg), compounding cardiovascular strain.
 
-#### #### How long do antidepressant-related palpitations last after stopping the medication?
+#### How long do antidepressant-related palpitations last after stopping the medication?
 Most resolve within 3–7 days after discontinuation, though full autonomic recalibration may take 2–3 weeks—especially in seniors. Don’t stop abruptly; work with your provider on a taper.
 
-#### #### Can low-dose thyroid hormone adjustment help reduce antidepressant palpitations?
+#### Can low-dose thyroid hormone adjustment help reduce antidepressant palpitations?
 Sometimes—yes. Optimizing free T3 (not just TSH) can improve heart rate stability and reduce sympathetic reactivity. One small study found 32% fewer palpitation reports in seniors who achieved free T3 >3.0 pmol/L while on SSRIs.

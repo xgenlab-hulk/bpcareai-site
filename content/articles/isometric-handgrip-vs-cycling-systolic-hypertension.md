@@ -82,22 +82,22 @@ Choosing between *isometric handgrip vs cycling systolic hypertension* support i
 
 ### FAQ
 
-#### #### Is isometric handgrip vs cycling systolic hypertension equally effective for lowering central aortic pressure?
+#### Is isometric handgrip vs cycling systolic hypertension equally effective for lowering central aortic pressure?
 
 Yes—research shows both reduce central systolic pressure significantly in men 64–76 with isolated systolic hypertension. In head-to-head trials, handgrip training lowered central pressure by ~8.2 mm Hg, and supervised interval cycling by ~7.1 mm Hg after 12 weeks. The difference is modest, but handgrip had notably higher adherence (92% vs. 74%).
 
-#### #### Can I do isometric handgrip vs cycling systolic hypertension training at home without supervision?
+#### Can I do isometric handgrip vs cycling systolic hypertension training at home without supervision?
 
 Absolutely—handgrip training is well-suited for home use with proper instruction and a calibrated device. Cycling *can* be done at home on a stationary bike, but true interval protocols (e.g., 90% HR max × 2 min) are safest when initially guided by a clinician or certified exercise physiologist—especially if you have known heart disease or orthopedic limitations.
 
-#### #### Does isometric handgrip vs cycling systolic hypertension affect diastolic pressure too?
+#### Does isometric handgrip vs cycling systolic hypertension affect diastolic pressure too?
 
 Typically, neither modality causes large changes in diastolic pressure in people with isolated systolic hypertension—because diastolic pressure is already in the normal range (usually <90 mm Hg). Their main benefit lies in reducing *systolic* and *pulse pressure*, particularly at the central aortic level, which matters most for vascular aging and heart disease prevention.
 
-#### #### What’s the minimum time commitment needed to see results from isometric handgrip vs cycling systolic hypertension training?
+#### What’s the minimum time commitment needed to see results from isometric handgrip vs cycling systolic hypertension training?
 
 Most studies showing measurable central pressure reductions used protocols lasting 12 weeks, with sessions 3 days per week. Each handgrip session takes ~15 minutes; each cycling session runs ~30–40 minutes including warm-up and cool-down. Consistency—not intensity—is the strongest predictor of success.
 
-#### #### Are there any contraindications to isometric handgrip training for older adults?
+#### Are there any contraindications to isometric handgrip training for older adults?
 
 Rare—but caution is advised if you have uncontrolled hypertension (>180/110 mm Hg), recent retinal hemorrhage, or severe aortic stenosis. Always discuss new exercise plans with your doctor, especially if you’re on anticoagulants or have pacemakers or implanted defibrillators.

@@ -1,0 +1,314 @@
+{
+  "batch_id": 3,
+  "total_checked": 20,
+  "articles": [
+    {
+      "slug": "best-seated-resistance-band-exercises-with-real-time-bp-feedback-for-adults-80-with-orthostatic-intolerance-and-severe-knee-osteoarthritis",
+      "primaryKeyword": "seated resistance band exercises with bp feedback",
+      "score": 50,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 0,
+        "length": 10,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["generic_medical_topic", "no_audience_identifier", "borderline_length", "technical_jargon_bp"]
+    },
+    {
+      "slug": "atrial-stabilizing-foods-holiday-heart",
+      "primaryKeyword": "atrial-stabilizing foods holiday heart",
+      "score": 45,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 0,
+        "length": 10,
+        "natural": 5,
+        "intent": 10,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["generic_medical_topic", "no_audience_identifier", "technical_jargon_atrial", "awkward_phrasing"]
+    },
+    {
+      "slug": "9-simple-steps-to-adjust-your-cpap-humidifier-settings-without-raising-overnight-systolic-pressure-for-adults-67-with-osa-and-nocturnal-hypertension",
+      "primaryKeyword": "cpap humidifier settings and nocturnal bp",
+      "score": 65,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 10,
+        "natural": 5,
+        "intent": 10,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier", "technical_jargon_cpap_nocturnal_bp", "awkward_phrasing"]
+    },
+    {
+      "slug": "5-things-every-woman-over-65-taking-oral-estradiol-should-know-about-its-effect-on-renin-angiotensin-aldosterone-system-activation-and-systolic-drift",
+      "primaryKeyword": "oral estradiol and systolic blood pressure drift",
+      "score": 65,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 10,
+        "natural": 5,
+        "intent": 10,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier", "borderline_length", "technical_jargon_estradiol_systolic_drift"]
+    },
+    {
+      "slug": "10-ways-to-reduce-holiday-glucose-variability-without-changing-what-you-eat-using-chewing-pace-seating-position-and-ambient-sound-cues",
+      "primaryKeyword": "reduce glucose variability without diet change",
+      "score": 60,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 10,
+        "natural": 5,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier", "borderline_length", "somewhat_awkward_phrasing"]
+    },
+    {
+      "slug": "what-are-the-earliest-signs-your-holiday-weight-gain-is-actually-fluid-retention-not-fat-in-women-over-65-with-atrial-fibrillation",
+      "primaryKeyword": "holiday weight gain fluid retention afib seniors",
+      "score": 90,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 20,
+        "length": 10,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 0
+      },
+      "needs_optimization": false,
+      "issues": ["technical_jargon_afib_minor"]
+    },
+    {
+      "slug": "travel-glucose-monitor-seniors-offline-sync",
+      "primaryKeyword": "travel glucose monitor seniors offline sync",
+      "score": 80,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 20,
+        "length": 10,
+        "natural": 5,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": ["awkward_phrasing"]
+    },
+    {
+      "slug": "the-truth-about-sugar-free-holiday-candy-labeled-for-diabetics-why-87-still-cause-postprandial-endothelial-stiffness-via-polyol-pathway-activation",
+      "primaryKeyword": "sugar-free candy endothelial stiffness",
+      "score": 25,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 0,
+        "length": 10,
+        "natural": 0,
+        "intent": 5,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["generic_medical_topic", "no_audience_identifier", "technical_jargon_endothelial", "unnatural_phrasing"]
+    },
+    {
+      "slug": "sunlight-exposure-and-circadian-blood-pressure",
+      "primaryKeyword": "sunlight exposure and circadian blood pressure",
+      "score": 60,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 10,
+        "natural": 5,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier", "borderline_length"]
+    },
+    {
+      "slug": "prehypertension-progression-predictors-midlife",
+      "primaryKeyword": "prehypertension progression predictors midlife",
+      "score": 45,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 10,
+        "length": 10,
+        "natural": 0,
+        "intent": 5,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["generic_medical_topic", "vague_audience", "technical_jargon_prehypertension", "unnatural_phrasing"]
+    },
+    {
+      "slug": "plate-mapping-macular-degeneration-seniors",
+      "primaryKeyword": "plate mapping macular degeneration seniors",
+      "score": 70,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 20,
+        "length": 10,
+        "natural": 5,
+        "intent": 5,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["awkward_phrasing", "unclear_intent", "technical_jargon_macular"]
+    },
+    {
+      "slug": "normal-resting-heart-rate-sinus-node-dysfunction",
+      "primaryKeyword": "normal resting heart rate sinus node dysfunction",
+      "score": 40,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 0,
+        "length": 10,
+        "natural": 5,
+        "intent": 5,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["generic_medical_topic", "no_audience_identifier", "technical_jargon_sinus_node", "unclear_intent"]
+    },
+    {
+      "slug": "non-alcoholic-drinks-holiday-heart-syndrome",
+      "primaryKeyword": "non-alcoholic drinks holiday heart syndrome",
+      "score": 70,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 10,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier", "technical_jargon_syndrome_minor"]
+    },
+    {
+      "slug": "nasal-rinse-breath-hold-for-endothelial-function",
+      "primaryKeyword": "nasal rinse breath-hold for endothelial function",
+      "score": 25,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 0,
+        "length": 10,
+        "natural": 0,
+        "intent": 5,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["generic_medical_topic", "no_audience_identifier", "technical_jargon_endothelial", "unnatural_phrasing"]
+    },
+    {
+      "slug": "microwave-leakage-and-blood-pressure-variability",
+      "primaryKeyword": "microwave leakage and blood pressure variability",
+      "score": 60,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 10,
+        "natural": 5,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier", "borderline_length"]
+    },
+    {
+      "slug": "low-carb-vs-magnesium-holiday-heart-prevention",
+      "primaryKeyword": "low-carb vs magnesium holiday heart prevention",
+      "score": 70,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 10,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier", "technical_jargon_minor"]
+    },
+    {
+      "slug": "late-night-snacking-hepatic-gluconeogenesis",
+      "primaryKeyword": "late-night snacking hepatic gluconeogenesis",
+      "score": 20,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 0,
+        "length": 10,
+        "natural": 0,
+        "intent": 0,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["generic_medical_topic", "no_audience_identifier", "technical_jargon_hepatic_gluconeogenesis", "unnatural_phrasing", "unclear_intent"]
+    },
+    {
+      "slug": "kefir-endotoxemia-diabetes-seniors",
+      "primaryKeyword": "kefir endotoxemia diabetes seniors",
+      "score": 50,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 20,
+        "length": 5,
+        "natural": 0,
+        "intent": 5,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["too_short", "technical_jargon_endotoxemia", "unnatural_phrasing"]
+    },
+    {
+      "slug": "intermittent-socializing-postprandial-glucose",
+      "primaryKeyword": "intermittent socializing postprandial glucose",
+      "score": 30,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 0,
+        "length": 10,
+        "natural": 0,
+        "intent": 5,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["generic_medical_topic", "no_audience_identifier", "technical_jargon_postprandial", "unnatural_phrasing"]
+    },
+    {
+      "slug": "how-holiday-family-conflict-elevates-cortisol-driven-hepatic-glucose-output-especially-in-women-57-65-with-perimenopausal-insulin-resistance",
+      "primaryKeyword": "family conflict cortisol glucose output",
+      "score": 55,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 0,
+        "length": 10,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": ["generic_medical_topic", "no_audience_identifier"]
+    }
+  ],
+  "summary": {
+    "total": 20,
+    "excellent_85plus": 1,
+    "good_70to84": 3,
+    "fair_50to69": 8,
+    "poor_below50": 8,
+    "needs_optimization": 19
+  }
+}

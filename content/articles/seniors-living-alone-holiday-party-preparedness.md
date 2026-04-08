@@ -75,11 +75,11 @@ Returning to holiday gatherings after isolation is joyful—and it’s also an o
 
 ### FAQ
 
-#### #### How can seniors living alone prepare for holiday parties without feeling overwhelmed?
+#### How can seniors living alone prepare for holiday parties without feeling overwhelmed?
 
 Start small: pick *one* strategy—like packing your own water bottle or setting a soft exit time—and practice it at one gathering. Focus on what empowers you (e.g., “I’ll enjoy three bites of dessert mindfully”) rather than what to avoid. Overwhelm often comes from trying to manage too many new habits at once. Prioritize safety, comfort, and joy—not perfection.
 
-#### #### What are the top 3 signs seniors living alone holiday party preparedness might be needed?
+#### What are the top 3 signs seniors living alone holiday party preparedness might be needed?
 
 1. Frequent lightheadedness when standing up at home  
 2. Waking overnight to urinate two or more times (a possible sign of nocturnal BP elevation or glucose dysregulation)  
@@ -87,14 +87,14 @@ Start small: pick *one* strategy—like packing your own water bottle or setting
 
 These suggest your body may benefit from structured preparation, not just rest.
 
-#### #### Is it safe for seniors with high blood pressure to attend holiday parties?
+#### Is it safe for seniors with high blood pressure to attend holiday parties?
 
 Yes—with preparation. Studies show that BP spikes during festive meals are typically transient and reversible *if* sodium intake is moderated (<1,500 mg total), hydration is maintained, and physical exertion (like dancing or carrying dishes) is paced. Avoid salty snacks like chips, olives, and cured meats—and opt for fresh fruit or unsalted nuts instead. Monitoring before and after helps confirm safety.
 
-#### #### How does social isolation impact blood sugar control during holiday meals?
+#### How does social isolation impact blood sugar control during holiday meals?
 
 Chronic social isolation is associated with elevated cortisol and altered vagal tone—both of which can increase insulin resistance and blunt post-meal glucose clearance. One longitudinal study found that socially isolated seniors had, on average, 18% higher postprandial glucose excursions than peers with regular social contact—even when diet and activity were similar. Re-engaging socially is beneficial—but doing so intentionally (with hydration, pacing, and portion awareness) helps avoid metabolic strain.
 
-#### #### What’s the safest way to handle offers of food or drink at a holiday party?
+#### What’s the safest way to handle offers of food or drink at a holiday party?
 
 A kind, clear phrase works best: *“Thank you—I’m savoring what’s on my plate right now,”* or *“I’m keeping my fluids steady tonight—water is perfect.”* You don’t need to explain or justify. Most hosts appreciate honesty more than hesitation—and your consistency models self-respect for everyone around you.

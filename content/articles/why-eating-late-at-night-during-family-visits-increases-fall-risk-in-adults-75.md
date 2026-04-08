@@ -80,23 +80,23 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does late night eating fall risk seniors apply even if I’m healthy and active?
+#### Does late night eating fall risk seniors apply even if I’m healthy and active?
 
 Yes—even adults who walk daily, eat well, and have no chronic diagnoses can experience subtle changes in gastric motility and autonomic reflexes after age 75. Research shows postprandial hypotension occurs in ~20% of community-dwelling adults over 75 without known cardiovascular disease. Healthy aging includes adapting to these quiet shifts—not ignoring them.
 
-#### #### What time counts as “late” for late night eating fall risk seniors?
+#### What time counts as “late” for late night eating fall risk seniors?
 
 For most adults 75+, “late” means starting a meal after 7:30 p.m., especially if it’s larger than a light snack or contains more than 30 g of carbohydrates. The risk rises further after 8:30 p.m., particularly when combined with alcohol, sedentary time, or sleeping soon afterward.
 
-#### #### Can changing *what* I eat at night reduce late night eating fall risk seniors?
+#### Can changing *what* I eat at night reduce late night eating fall risk seniors?
 
 Absolutely. Prioritizing protein, healthy fats, and soluble fiber (like oats, apples, or chia seeds) slows gastric emptying *just enough* to prevent sharp glucose spikes and dips—while also supporting stable BP. Avoiding large portions of simple carbs (white bread, pastries, juice) and limiting sodium-rich foods (processed meats, canned soups) after 6 p.m. also helps.
 
-#### #### My parent fell after eating pie during Thanksgiving. Could late night eating fall risk seniors explain that?
+#### My parent fell after eating pie during Thanksgiving. Could late night eating fall risk seniors explain that?
 
 It’s very possible. Holiday meals often combine multiple risk factors: eating later than usual, higher-sugar desserts, emotional excitement (which affects BP regulation), and less movement. Add dim lighting, unfamiliar floors, or rushing to the bathroom—and even a single “harmless” slice of pie can tip the balance. Reviewing timing, portion size, and environment helps prevent recurrence.
 
-#### #### Are there specific foods I should keep on hand for safe, satisfying evening snacks during visits?
+#### Are there specific foods I should keep on hand for safe, satisfying evening snacks during visits?
 
 Yes—focus on nutrient-dense, low-glycemic options:  
 - 1 small apple with 1 tbsp almond butter  

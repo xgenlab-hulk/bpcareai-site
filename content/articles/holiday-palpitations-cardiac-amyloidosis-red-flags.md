@@ -105,22 +105,22 @@ Cardiac amyloidosis is treatable — and increasingly manageable — especially 
 
 ### FAQ
 
-#### #### Could holiday palpitations cardiac amyloidosis red flags appear even if I don’t drink alcohol?
+#### Could holiday palpitations cardiac amyloidosis red flags appear even if I don’t drink alcohol?
 
 Yes. While alcohol is a common trigger for arrhythmias in amyloidosis, many patients develop palpitations due to other holiday stressors: sodium-rich meals, disrupted sleep, travel-related dehydration, or emotional strain. In fact, up to 30% of ATTR-CM patients report first noticing symptoms during non-alcoholic holiday events — making “holiday heart syndrome” a misleading label in this context.
 
-#### #### Are holiday palpitations cardiac amyloidosis red flags different from regular AFib symptoms?
+#### Are holiday palpitations cardiac amyloidosis red flags different from regular AFib symptoms?
 
 Yes — though the rhythm disturbance may look identical on ECG, the *context* and *accompanying features* differ. With amyloidosis, palpitations often occur alongside orthostatic dizziness, bilateral hand numbness (from prior CTS), or unexplained leg heaviness (from spinal involvement). Also, rate control medications may work less effectively, and rhythm conversion (e.g., cardioversion) carries higher risk and lower long-term success.
 
-#### #### What blood pressure patterns might suggest cardiac amyloidosis rather than typical hypertension?
+#### What blood pressure patterns might suggest cardiac amyloidosis rather than typical hypertension?
 
 Look for *low-normal or borderline-low BP* (e.g., consistently <110/70 mm Hg) *with* signs of heart stiffness — such as elevated BNP (>300 pg/mL), thickened walls on echo, and no history of chronic low BP. Orthostatic drops (≥20 mm Hg systolic) are also common due to autonomic involvement. This contrasts sharply with classic hypertension-driven LVH, where BP is typically elevated (≥140/90 mm Hg).
 
-#### #### Is carpal tunnel syndrome always linked to cardiac amyloidosis?
+#### Is carpal tunnel syndrome always linked to cardiac amyloidosis?
 
 No — most carpal tunnel cases are idiopathic or related to repetitive strain, pregnancy, or diabetes. However, *bilateral* carpal tunnel syndrome requiring surgery *after age 60* raises concern: studies show 15–20% of such individuals will be diagnosed with ATTR-CM within 5–10 years. It’s not causation — but a powerful epidemiological red flag warranting cardiac screening.
 
-#### #### Can lumbar spinal stenosis be an early sign of cardiac amyloidosis?
+#### Can lumbar spinal stenosis be an early sign of cardiac amyloidosis?
 
 Yes — particularly when stenosis presents atypically: rapid progression despite conservative treatment, lack of clear degenerative imaging findings (e.g., minimal disc bulge but severe ligamentum flavum thickening), or coexistence with neuropathic symptoms like foot burning or unexplained falls. Amyloid infiltration into spinal ligaments contributes directly to narrowing — and correlates strongly with cardiac involvement in older adults.

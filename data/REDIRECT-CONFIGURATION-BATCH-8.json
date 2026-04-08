@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "created_date": "2026-03-23",
+    "total_redirects": 28,
+    "batches_covered": [
+      "batch-008"
+    ],
+    "purpose": "\u4e3aBatch 8\u4f18\u5316\u7684\u6587\u7ae0\u63d0\u4f9b301\u6c38\u4e45\u91cd\u5b9a\u5411\u914d\u7f6e",
+    "usage": "\u5c06redirects\u6570\u7ec4\u5185\u5bb9\u6dfb\u52a0\u5230next.config.js\u7684redirects()\u51fd\u6570\u4e2d"
+  },
+  "redirects": [
+    {
+      "source": "/articles/why-does-heart-disease-progress-faster-in-women-after-menopause-and-what-hormone-modulated-endothelial-pathways-are-involved",
+      "destination": "/articles/heart-disease-menopause-women-55",
+      "permanent": true
+    },
+    {
+      "source": "/articles/warning-signs-your-holiday-blood-sugar-variability-is-masking-early-diabetic-gastroparesis-especially-in-women-61-with-long-term-t1d-or-lada",
+      "destination": "/articles/blood-sugar-gastroparesis-women-61-t1d",
+      "permanent": true
+    },
+    {
+      "source": "/articles/walking-vs-standing-post-dinner-glucose",
+      "destination": "/articles/walking-vs-standing-glucose-seniors-72",
+      "permanent": true
+    },
+    {
+      "source": "/articles/stairs-fitness-and-subclinical-ischemia",
+      "destination": "/articles/stairs-fitness-hidden-heart-risk-55",
+      "permanent": true
+    },
+    {
+      "source": "/articles/reverse-early-diabetic-retinopathy-naturally",
+      "destination": "/articles/reverse-retinopathy-naturally-58-67",
+      "permanent": true
+    },
+    {
+      "source": "/articles/quick-ways-to-lower-systolic-pressure-within-90-minutes-using-guided-cold-face-immersion-isometric-handgrip-in-adults-60-66-with-acute-morning-surges",
+      "destination": "/articles/lower-bp-90-min-cold-handgrip-60s",
+      "permanent": true
+    },
+    {
+      "source": "/articles/post-dinner-palpitations-holiday-heart-syndrome",
+      "destination": "/articles/palpitations-after-meals-heart-58-74",
+      "permanent": true
+    },
+    {
+      "source": "/articles/oxygen-concentrator-during-cardiac-rehab",
+      "destination": "/articles/oxygen-use-cardiac-rehab-hfpef-71",
+      "permanent": true
+    },
+    {
+      "source": "/articles/normalize-fasting-glucose-without-skipping-dinner",
+      "destination": "/articles/fasting-glucose-bedtime-protocol-60s",
+      "permanent": true
+    },
+    {
+      "source": "/articles/non-alcoholic-wine-diabetes-macular-degeneration",
+      "destination": "/articles/alcohol-free-wine-diabetes-vision-75",
+      "permanent": true
+    },
+    {
+      "source": "/articles/insulin-receptor-kinase-natural-activation-seniors",
+      "destination": "/articles/insulin-sensitivity-supplements-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-late-night-cookie-binges-alter-hepatic-gluconeogenesis-rhythms-in-adults-58-66-with-prediabetes-and-why-it-matters-for-fasting-glucose-stability",
+      "destination": "/articles/late-night-snacking-fasting-glucose-58",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-holiday-stress-cortisol-spikes-impair-glp-1-secretion-in-adults-64-with-obesity-and-prediabetes-and-why-mindful-breathing-beats-just-relax-advice",
+      "destination": "/articles/holiday-stress-blood-sugar-cortisol-64",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-chronic-holiday-social-isolation-alters-ventricular-repolarization-reserve-evidence-from-24-hour-qtc-monitoring-in-adults-69-living-alone",
+      "destination": "/articles/holiday-loneliness-heart-rhythm-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/warning-signs-your-holiday-blood-sugar-variability-is-masking-early-diabetic-gastroparesis-especially-in-women-61-with-long-term-t1d-or-lada",
+      "destination": "/articles/blood-sugar-swings-gastroparesis-t1d-61",
+      "permanent": true
+    },
+    {
+      "source": "/articles/stairs-fitness-and-subclinical-ischemia",
+      "destination": "/articles/climbing-stairs-hidden-heart-risk-55",
+      "permanent": true
+    },
+    {
+      "source": "/articles/reverse-early-diabetic-retinopathy-naturally",
+      "destination": "/articles/reverse-diabetic-eye-damage-naturally-58",
+      "permanent": true
+    },
+    {
+      "source": "/articles/quick-ways-to-lower-systolic-pressure-within-90-minutes-using-guided-cold-face-immersion-isometric-handgrip-in-adults-60-66-with-acute-morning-surges",
+      "destination": "/articles/lower-bp-fast-90-min-adults-60",
+      "permanent": true
+    },
+    {
+      "source": "/articles/quick-ways-to-lower-systolic-pressure-within-90-minutes-using-guided-cold-face-immersion-isometric-handgrip-in-adults-60-66-with-acute-morning-surges",
+      "destination": "/articles/lower-systolic-bp-90-min-cold-face",
+      "permanent": true
+    },
+    {
+      "source": "/articles/post-dinner-palpitations-holiday-heart-syndrome",
+      "destination": "/articles/palpitations-after-dinner-holiday",
+      "permanent": true
+    },
+    {
+      "source": "/articles/oxygen-concentrator-during-cardiac-rehab",
+      "destination": "/articles/oxygen-cardiac-rehab-safety-71",
+      "permanent": true
+    },
+    {
+      "source": "/articles/normalize-fasting-glucose-without-skipping-dinner",
+      "destination": "/articles/fasting-glucose-bedtime-snack-60s",
+      "permanent": true
+    },
+    {
+      "source": "/articles/non-alcoholic-wine-diabetes-macular-degeneration",
+      "destination": "/articles/alcohol-free-wine-diabetes-eyes-75",
+      "permanent": true
+    },
+    {
+      "source": "/articles/quick-ways-to-lower-systolic-pressure-within-90-minutes-using-guided-cold-face-immersion-isometric-handgrip-in-adults-60-66-with-acute-morning-surges",
+      "destination": "/articles/lower-bp-90-min-cold-handgrip-60s",
+      "permanent": true
+    },
+    {
+      "source": "/articles/post-dinner-palpitations-holiday-heart-syndrome",
+      "destination": "/articles/holiday-palpitations-red-flags-58",
+      "permanent": true
+    },
+    {
+      "source": "/articles/oxygen-concentrator-during-cardiac-rehab",
+      "destination": "/articles/oxygen-cardiac-rehab-hfpef-71",
+      "permanent": true
+    },
+    {
+      "source": "/articles/normalize-fasting-glucose-without-skipping-dinner",
+      "destination": "/articles/lower-fasting-glucose-bedtime-60s",
+      "permanent": true
+    },
+    {
+      "source": "/articles/non-alcoholic-wine-diabetes-macular-degeneration",
+      "destination": "/articles/wine-alternatives-diabetes-vision-75",
+      "permanent": true
+    }
+  ],
+  "instructions": {
+    "step_1": "\u6253\u5f00 next.config.js \u6587\u4ef6",
+    "step_2": "\u627e\u5230 async redirects() \u51fd\u6570",
+    "step_3": "\u5c06\u4e0a\u8ff0redirects\u6570\u7ec4\u5185\u5bb9\u6dfb\u52a0\u5230slugRedirects\u6570\u7ec4\u4e2d",
+    "step_4": "\u4fdd\u5b58\u5e76\u91cd\u65b0\u90e8\u7f72\u7f51\u7ad9",
+    "step_5": "\u9a8c\u8bc1\u91cd\u5b9a\u5411\u662f\u5426\u751f\u6548: curl -I https://yourdomain.com/articles/[\u65e7slug]"
+  }
+}

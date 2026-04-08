@@ -84,22 +84,22 @@ It’s easy to think of aging as a slow decline—but your autonomic nervous sys
 
 ### FAQ
 
-#### #### Does air conditioning baroreflex sensitivity elderly improve with better HVAC systems?
+#### Does air conditioning baroreflex sensitivity elderly improve with better HVAC systems?
 
 Yes—especially with modern systems featuring variable-speed compressors, humidity sensing, and programmable setbacks. Research shows upgrading to ENERGY STAR®-certified units with smart thermostats (set to 74–76°F daytime, 77–79°F overnight) is associated with ~12% higher average BRS scores over 6 months in adults 73+ with ISH—likely due to smoother thermal transitions and reduced cycling stress.
 
-#### #### Can air conditioning baroreflex sensitivity elderly be reversed naturally?
+#### Can air conditioning baroreflex sensitivity elderly be reversed naturally?
 
 While aging-related declines can’t be fully undone, studies confirm that reducing chronic low-grade thermal stress—combined with regular moderate activity (e.g., walking 20 minutes/day) and adequate hydration—supports measurable BRS improvement over 3–6 months. Think of it as “retraining” your autonomic system through consistency, not intensity.
 
-#### #### How does air conditioning baroreflex sensitivity elderly relate to orthostatic hypotension?
+#### How does air conditioning baroreflex sensitivity elderly relate to orthostatic hypotension?
 
 They’re closely linked. Reduced BRS impairs the body’s ability to rapidly constrict blood vessels and increase heart rate when standing—making orthostatic drops more likely. In fact, 68% of older adults with documented orthostatic hypotension and ISH also show significantly blunted BRS during ambulatory monitoring, especially during periods of continuous AC use.
 
-#### #### Should I avoid air conditioning entirely if I have isolated systolic hypertension?
+#### Should I avoid air conditioning entirely if I have isolated systolic hypertension?
 
 No—comfortable, stable indoor temperatures support better sleep, medication adherence, and overall cardiovascular health. The goal isn’t avoidance, but *intentional use*: avoiding constant low-level cooling, minimizing drafts, and allowing gentle daily variation in ambient temperature.
 
-#### #### What’s the ideal indoor temperature for blood pressure stability in seniors?
+#### What’s the ideal indoor temperature for blood pressure stability in seniors?
 
 Evidence points to 74–76°F (23–24°C) as optimal for most adults 73+ with ISH. This range balances thermal comfort with minimal autonomic demand—supporting steadier systolic readings and fewer orthostatic symptoms. Temperatures below 72°F increase sympathetic nervous system activity in frail elders, potentially raising systolic BP by 5–10 mm Hg on average.

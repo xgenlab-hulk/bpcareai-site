@@ -47,17 +47,17 @@ You’re not behind. You’re not failing. You’re simply learning how to nouri
 
 ### FAQ  
 
-#### #### How can I preserve muscle mass holiday meals without giving up my favorite foods?  
+#### How can I preserve muscle mass holiday meals without giving up my favorite foods?  
 You absolutely can! Focus on *adding* leucine-rich foods (like eggs, dairy, beans, or lean meats) to existing dishes—not cutting them out. Try adding shredded chicken to mashed potatoes or stirring ricotta into holiday pasta. It’s about enrichment, not elimination.
 
-#### #### What’s the best way to preserve muscle mass holiday meals if I have sarcopenia?  
+#### What’s the best way to preserve muscle mass holiday meals if I have sarcopenia?  
 Prioritize consistent protein distribution (25–30 g/meal), leucine thresholds (~2.5 g/meal), and light movement within 60 minutes after eating. Even seated leg lifts or standing while washing dishes count. Work with a registered dietitian and physical therapist familiar with aging muscle.
 
-#### #### Does alcohol affect muscle protein synthesis during holiday meals?  
+#### Does alcohol affect muscle protein synthesis during holiday meals?  
 Yes—moderately. More than 2–3 standard drinks in one sitting can blunt muscle protein synthesis by up to 20–30%, especially when paired with low-protein meals. Sipping slowly and pairing drinks with protein-rich snacks (e.g., nuts or cheese) helps buffer this effect.
 
-#### #### Is walking after meals really helpful for preserving muscle in older adults?  
+#### Is walking after meals really helpful for preserving muscle in older adults?  
 Yes—especially for adults 74+. A 2023 randomized trial showed that 12 minutes of post-meal walking at 65 steps/minute increased muscle protein synthesis by 18% compared to sitting—regardless of meal size or composition.
 
-#### #### Can I preserve muscle mass holiday meals if I’m vegetarian or vegan?  
+#### Can I preserve muscle mass holiday meals if I’m vegetarian or vegan?  
 Absolutely. Plant-based eaters can meet leucine targets with combinations like soy + quinoa, lentils + pumpkin seeds, or tofu + nutritional yeast. Aim for variety across meals—and consider consulting a dietitian to personalize portions.

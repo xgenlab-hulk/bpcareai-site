@@ -88,22 +88,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### How does holiday eating affect macular degeneration and lutein bioavailability?
+#### How does holiday eating affect macular degeneration and lutein bioavailability?
 
 Holiday eating can either support or hinder lutein bioavailability depending on food pairings and preparation. Heavy reliance on high-heat cooking, low-fat meals, or highly processed sides may reduce lutein absorption by up to 70%. Conversely, serving lightly cooked leafy greens with healthy fats (like olive oil or avocado) at lunchtime helps maximize uptake—making *holiday eating macular degeneration lutein bioavailability* a practical, achievable goal.
 
-#### #### What are the best holiday foods for macular degeneration and lutein absorption?
+#### What are the best holiday foods for macular degeneration and lutein absorption?
 
 Top choices include: steamed kale or spinach with olive oil and lemon; roasted orange bell peppers (rich in zeaxanthin); pastured egg salads; baked sweet potatoes with walnut oil; and fresh corn relish. All provide lutein + zeaxanthin *and* come with built-in fat or gentle preparation—key for supporting macular pigment optical density during festive meals.
 
-#### #### Can lutein supplements replace food-based strategies for holiday eating macular degeneration?
+#### Can lutein supplements replace food-based strategies for holiday eating macular degeneration?
 
 Supplements can help fill gaps—but they don’t replicate the full matrix of co-factors found in whole foods (e.g., vitamin C, polyphenols, fiber). Also, lutein from food has higher bioavailability when paired with natural fats and consumed alongside other antioxidants. For *holiday eating macular degeneration lutein bioavailability*, food-first strategies remain the gold standard—supplements are best used under guidance, not as a substitute.
 
-#### #### Does cooking destroy lutein in holiday dishes?
+#### Does cooking destroy lutein in holiday dishes?
 
 Yes—but only with aggressive methods. Boiling greens for >5 minutes or roasting at 450°F+ can degrade 40–60% of lutein. Gentle techniques—steaming, quick-sautéing below 325°F, or eating raw greens with oil—preserve lutein and support optimal bioavailability.
 
-#### #### How soon can I expect to see changes in my vision after adjusting holiday eating for macular degeneration?
+#### How soon can I expect to see changes in my vision after adjusting holiday eating for macular degeneration?
 
 You likely won’t notice immediate vision changes—but MPOD can begin improving within 8–12 weeks of consistent, optimized intake. Visual benefits (like improved contrast sensitivity or reduced glare) often emerge gradually over 3–6 months. Think of it like tending a garden: steady care yields lasting growth.

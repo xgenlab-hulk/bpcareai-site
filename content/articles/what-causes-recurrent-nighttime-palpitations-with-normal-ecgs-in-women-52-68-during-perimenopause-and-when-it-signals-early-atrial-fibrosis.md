@@ -58,23 +58,23 @@ Please reach out to your healthcare provider if:
 
 ### FAQ
 
-#### #### What causes nighttime palpitations during perimenopause—and could they mean AFib is coming?
+#### What causes nighttime palpitations during perimenopause—and could they mean AFib is coming?
 
 Nighttime palpitations during perimenopause are often tied to estrogen-driven shifts in autonomic tone and subtle electrical changes in the atria. While most cases remain benign, recurrent episodes *can* signal early atrial remodeling—and do raise nighttime palpitations perimenopause afib risk modestly. The key is context: frequency, duration, associated symptoms, and biomarkers help clarify individual risk.
 
-#### #### Are normal ECGs enough to rule out AFib risk in perimenopausal women?
+#### Are normal ECGs enough to rule out AFib risk in perimenopausal women?
 
 No. Standard ECGs miss intermittent arrhythmias and provide no information about fibrosis or autonomic trends. Longer-term monitoring (e.g., 7-day Holter or event recorders) and emerging blood-based markers offer more nuanced insight—especially for women with persistent nighttime palpitations perimenopause afib risk.
 
-#### #### Can hormone therapy reduce nighttime palpitations and AFib risk?
+#### Can hormone therapy reduce nighttime palpitations and AFib risk?
 
 Current data doesn’t support systemic estrogen therapy *solely* to lower AFib risk—and some formulations may slightly increase thrombotic risk. However, for women with severe vasomotor symptoms, transdermal estradiol (low-dose) plus micronized progesterone may improve autonomic stability. Decisions should be personalized, weighing benefits and risks with your clinician.
 
-#### #### How does stress affect nighttime palpitations in perimenopause?
+#### How does stress affect nighttime palpitations in perimenopause?
 
 Chronic stress amplifies sympathetic activity and cortisol, which—combined with declining estrogen—can worsen nocturnal arrhythmia susceptibility. Mind-body practices like mindfulness, tai chi, and diaphragmatic breathing consistently show benefit in reducing both perceived stress and objective measures like HRV.
 
-#### #### Is magnesium helpful for nighttime palpitations in menopause?
+#### Is magnesium helpful for nighttime palpitations in menopause?
 
 Yes—many women report improvement with dietary magnesium (300–400 mg/day from food or supplements like magnesium glycinate). Magnesium supports healthy ion channel function and smooth muscle relaxation. Always discuss supplementation with your provider, especially if you have kidney concerns.
 

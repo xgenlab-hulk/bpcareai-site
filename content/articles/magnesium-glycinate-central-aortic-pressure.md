@@ -95,22 +95,22 @@ Blood pressure management isn’t about chasing a single number — it’s about
 
 ### FAQ
 
-#### #### Does magnesium glycinate lower central aortic pressure in older adults?
+#### Does magnesium glycinate lower central aortic pressure in older adults?
 
 Yes — according to the 2024 MAG-CAP trial, adults aged 62+ with elevated pulse wave velocity who took 2,000 mg/day magnesium glycinate (≈200 mg elemental Mg) experienced a statistically significant average reduction of −3.7 mm Hg in central aortic systolic pressure after 24 weeks, with greater effects seen in those with the stiffest arteries.
 
-#### #### How does magnesium glycinate central aortic pressure compare to other magnesium forms?
+#### How does magnesium glycinate central aortic pressure compare to other magnesium forms?
 
 Magnesium glycinate demonstrated clinically meaningful reductions in central aortic pressure in MAG-CAP, whereas prior trials using magnesium oxide or citrate did not show consistent central BP benefits — likely due to differences in absorption, tolerability, and tissue targeting. Glycinate’s amino acid chelation enhances uptake and minimizes GI upset, making it especially suitable for older adults.
 
-#### #### Can I measure magnesium glycinate central aortic pressure at home?
+#### Can I measure magnesium glycinate central aortic pressure at home?
 
 No — central aortic pressure requires specialized tonometric equipment (e.g., SphygmoCor or Arteriograph systems) and trained personnel. Home BP monitors measure brachial pressure only. However, some advanced upper-arm devices estimate central pressure indirectly — though these remain less accurate than clinical tonometry.
 
-#### #### Is 2,000 mg of magnesium glycinate safe for seniors?
+#### Is 2,000 mg of magnesium glycinate safe for seniors?
 
 The 2,000 mg dose used in MAG-CAP refers to the *compound*, delivering ~200 mg of elemental magnesium — well within the Tolerable Upper Intake Level (UL) of 350 mg/day from supplements for adults. Always discuss new supplements with your healthcare provider, especially if you have kidney disease or take medications like anticoagulants or muscle relaxants.
 
-#### #### What’s the difference between central aortic pressure and regular blood pressure?
+#### What’s the difference between central aortic pressure and regular blood pressure?
 
 Regular (brachial) blood pressure measures pressure in the arm artery; central aortic pressure estimates pressure in the ascending aorta — closer to the heart. Due to wave reflection in stiff arteries, central systolic pressure is often higher than brachial and better predicts cardiovascular risk, especially in older adults.

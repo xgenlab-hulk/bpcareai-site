@@ -60,22 +60,22 @@ The holiday season is meant to be savored—not scrutinized. Choosing alcohol-fr
 
 ### FAQ
 
-#### #### Is alcohol-free mulled wine safe for people with type 2 diabetes?
+#### Is alcohol-free mulled wine safe for people with type 2 diabetes?
 
 Yes—when prepared without added sugars and enjoyed in moderation (125–150 mL per serving). Studies suggest its polyphenol content and spice profile may support insulin sensitivity. Always pair with food and monitor your personal response.
 
-#### #### How does alcohol-free mulled wine blood sugar compare to regular mulled wine?
+#### How does alcohol-free mulled wine blood sugar compare to regular mulled wine?
 
 Regular mulled wine contains alcohol, which can cause reactive hypoglycemia 2–4 hours after drinking—especially on an empty stomach. Alcohol-free versions eliminate that risk while retaining many beneficial compounds. Just watch for added sugars in commercial brands.
 
-#### #### Can alcohol-free mulled wine blood sugar effects change if I have high blood pressure too?
+#### Can alcohol-free mulled wine blood sugar effects change if I have high blood pressure too?
 
 Yes—positively. The same polyphenols (e.g., proanthocyanidins, resveratrol derivatives) that support glucose metabolism also promote nitric oxide production and arterial relaxation. In clinical trials, similar grape-based beverages have been associated with modest reductions in systolic BP (average 3–5 mm Hg) over 8 weeks.
 
-#### #### Does heating mulled wine destroy antioxidants?
+#### Does heating mulled wine destroy antioxidants?
 
 Not significantly—if kept below 70°C and simmered briefly. In fact, gentle heat improves the extraction and bioavailability of many polyphenols. Prolonged boiling (>30 minutes) or very high temperatures (>90°C) are what reduce potency.
 
-#### #### Are there any spices I should avoid in alcohol-free mulled wine for blood sugar control?
+#### Are there any spices I should avoid in alcohol-free mulled wine for blood sugar control?
 
 Generally, no—but be cautious with pre-made “mulled wine spice blends” that contain added sugars, maltodextrin, or caramel color. Stick to whole, unsweetened spices: cinnamon, cloves, star anise, fresh ginger, and cardamom are all well-supported by research for metabolic benefits.

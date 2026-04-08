@@ -68,22 +68,22 @@ Making a safe, delicious pie crust doesn’t require culinary expertise—just i
 
 ### FAQ
 
-#### #### Can I use store-bought gluten-free pie crust for celiac seniors with dermatitis herpetiformis?
+#### Can I use store-bought gluten-free pie crust for celiac seniors with dermatitis herpetiformis?
 
 Not without careful verification. Over 40% of commercially prepared “gluten-free” pie crusts contain oat flour or barley grass, both linked to DH flares in clinical case series. Always confirm third-party certification (GFCO or NSF), review batch-test reports, and avoid any product listing “natural flavors” or “spice blends” without full disclosure. When in doubt, homemade remains the safest option for *gluten free pie crust celiac seniors*.
 
-#### #### What’s the best gluten-free flour blend for seniors with celiac and refractory DH?
+#### What’s the best gluten-free flour blend for seniors with celiac and refractory DH?
 
 The most consistently tolerated blend in geriatric celiac cohorts includes 50% superfine brown rice flour, 30% certified GF tapioca starch, and 20% teff flour—with guar gum (not xanthan) as the sole binder. This ratio supports digestibility, minimizes immune cross-reactivity, and delivers reliable texture without excessive starch load—important for seniors managing blood sugar or kidney function.
 
-#### #### How do I prevent blistering in my gluten free pie crust celiac seniors recipe?
+#### How do I prevent blistering in my gluten free pie crust celiac seniors recipe?
 
 Blistering often stems from too-rapid surface heating or residual moisture. Lower oven temperature to 375°F, extend bake time slightly, and ensure your filling is fully chilled before adding to the pre-baked crust. Avoid brushing with dairy milk (casein can mimic gluten in sensitive individuals); opt for unsweetened almond or coconut milk instead. Also verify your parchment paper is unbleached and chemical-free—some chlorine-bleached papers contain trace gluten-binding compounds.
 
-#### #### Is tapioca starch safer than xanthan gum for seniors with refractory DH?
+#### Is tapioca starch safer than xanthan gum for seniors with refractory DH?
 
 Yes—current evidence suggests tapioca starch poses negligible immunogenic risk in DH, whereas xanthan gum has been associated with increased zonulin expression (a marker of intestinal permeability) in small cohort studies of refractory celiac patients. For *gluten free pie crust celiac seniors*, tapioca offers superior thickening power and thermal stability, making it both safer and more functional.
 
-#### #### Do I need to adjust pie crust recipes differently for seniors over 70 vs. those aged 64–69?
+#### Do I need to adjust pie crust recipes differently for seniors over 70 vs. those aged 64–69?
 
 Yes—subtle but meaningful shifts occur. After age 70, gastric acid secretion declines by ~30%, slowing starch digestion and increasing reliance on enzymatic breakdown. That’s why finely ground tapioca (not whole pearls) and lower-temperature baking become even more important: they reduce digestive demand. Additionally, sensory changes (reduced taste perception, drier oral mucosa) mean crusts benefit from subtle richness—like a touch of toasted sesame oil (GF-certified) in the fat blend—to enhance satisfaction without added sodium or sugar.

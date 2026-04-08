@@ -57,22 +57,22 @@ In closing: holiday wellness isn’t about perfection. It’s about presence—s
 
 ### FAQ
 
-#### #### Does social isolation fasting glucose elderly get worse during Christmas and New Year?
+#### Does social isolation fasting glucose elderly get worse during Christmas and New Year?
 
 Yes—studies tracking older adults with type 2 diabetes show average fasting glucose increases of 12–18 mg/dL between mid-December and early January, especially among those reporting low social contact. The effect tends to normalize within 2–3 weeks post-holiday when routines resume.
 
-#### #### Can mild depression raise fasting glucose even without social isolation fasting glucose elderly?
+#### Can mild depression raise fasting glucose even without social isolation fasting glucose elderly?
 
 Yes. Mild depression alone is associated with a 7–10% increase in fasting glucose over time, likely through shared pathways like HPA-axis dysregulation and reduced physical activity. But when combined with social isolation, the effect compounds—making the *social isolation fasting glucose elderly* link especially important to recognize.
 
-#### #### How long does it take for improved social connection to lower fasting glucose?
+#### How long does it take for improved social connection to lower fasting glucose?
 
 In clinical trials, elders who added just two brief, meaningful social interactions per week (e.g., weekly check-ins plus one in-person visit) saw modest glucose reductions (5–10 mg/dL) within 3–4 weeks—especially when paired with steady sleep and light daily movement.
 
-#### #### Is fasting glucose more affected than post-meal glucose by loneliness in older adults?
+#### Is fasting glucose more affected than post-meal glucose by loneliness in older adults?
 
 Research suggests yes—fasting glucose appears more sensitive to chronic stress biomarkers like cortisol rhythm and IL-6, which are strongly tied to social context. Postprandial spikes tend to reflect immediate dietary choices more directly.
 
-#### #### Should I adjust my diabetes meds during the holidays if I’m feeling isolated?
+#### Should I adjust my diabetes meds during the holidays if I’m feeling isolated?
 
 No—not on your own. Medication changes require professional guidance. Instead, focus on supportive habits (sleep, movement, connection) and share your glucose logs and mood notes with your care team—they’ll help determine if any adjustments are needed.

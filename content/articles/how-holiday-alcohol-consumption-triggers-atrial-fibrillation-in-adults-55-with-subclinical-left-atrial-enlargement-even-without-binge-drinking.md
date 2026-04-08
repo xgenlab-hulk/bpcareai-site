@@ -45,17 +45,17 @@ In summary, understanding *holiday alcohol atrial fibrillation risk* doesn’t m
 
 ### FAQ
 
-#### #### Does moderate holiday drinking increase atrial fibrillation risk even without binge drinking?
+#### Does moderate holiday drinking increase atrial fibrillation risk even without binge drinking?
 Yes — especially in adults 55+ with subclinical left atrial enlargement. Studies show that as few as 1–2 drinks on multiple consecutive days can trigger AFib episodes, independent of binge patterns.
 
-#### #### What is holiday alcohol atrial fibrillation risk for seniors with high blood pressure?
+#### What is holiday alcohol atrial fibrillation risk for seniors with high blood pressure?
 For seniors with hypertension, the *holiday alcohol atrial fibrillation risk* is amplified: elevated arterial pressure accelerates atrial fibrosis, and alcohol further disrupts autonomic balance — increasing AFib likelihood by up to 40% compared to non-drinking peers with similar BP control.
 
-#### #### Can holiday alcohol atrial fibrillation risk be reversed?
+#### Can holiday alcohol atrial fibrillation risk be reversed?
 While established fibrosis isn’t reversible, stopping or significantly reducing alcohol intake — particularly during high-stress or high-exposure periods — lowers recurrence rates by over 35% in longitudinal trials. Lifestyle optimization (sleep, weight, BP management) also improves atrial electrophysiological stability.
 
-#### #### Is there a safe amount of alcohol during holidays for someone with early left atrial enlargement?
+#### Is there a safe amount of alcohol during holidays for someone with early left atrial enlargement?
 There is no universally “safe” amount, but evidence supports strict limitation: zero to one standard drink, no more than twice weekly, with at least 48 alcohol-free hours between servings — ideally coordinated with your care team.
 
-#### #### How soon after drinking can atrial fibrillation start in older adults?
+#### How soon after drinking can atrial fibrillation start in older adults?
 Holter monitoring data indicate that alcohol-triggered AFib most commonly begins 12–36 hours post-consumption, peaking around 24 hours — meaning symptoms may appear the morning after a festive evening.

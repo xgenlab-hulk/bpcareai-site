@@ -65,22 +65,22 @@ Improving insulin sensitivity isn’t about fixing something broken—it’s abo
 
 ### FAQ
 
-#### #### Is resistance training safe for someone with high blood pressure and insulin resistance?
+#### Is resistance training safe for someone with high blood pressure and insulin resistance?
 
 Yes—when done mindfully. Low-to-moderate resistance training (like band work or controlled bodyweight moves) typically causes only brief, modest BP spikes—far less than vigorous aerobic efforts. In fact, studies show regular resistance training lowers resting systolic BP by an average of 3–5 mm Hg over 12 weeks in adults 59–71. Always exhale during exertion (e.g., while pulling the band or rising from a squat), avoid breath-holding (Valsalva maneuver), and stop if you feel lightheaded.
 
-#### #### How does resistance training insulin sensitivity compare to walking for adults over 60?
+#### How does resistance training insulin sensitivity compare to walking for adults over 60?
 
 Walking is wonderful for heart health and mood—but it has less impact on muscle mass and insulin receptor signaling than resistance training. A 2023 meta-analysis found that for sedentary adults 59–71, resistance training improved HOMA-IR nearly 2× more than brisk walking alone over 12 weeks—especially when combined with modest dietary support. The best approach? Walk *and* lift—just not necessarily on the same day.
 
-#### #### Can I improve insulin sensitivity with resistance training insulin sensitivity sedentary 59-71 if I have arthritis in my knees?
+#### Can I improve insulin sensitivity with resistance training insulin sensitivity sedentary 59-71 if I have arthritis in my knees?
 
 Absolutely—and it may actually ease symptoms. Strengthening the quadriceps and glutes reduces compressive force on the knee joint by up to 30%. Chair squats with slow lowering (4 seconds down), seated leg extensions with light bands, and hamstring curls against a wall are all joint-sparing options proven to improve both function and insulin sensitivity in clinical trials.
 
-#### #### Do I need special equipment for resistance training insulin sensitivity sedentary 59-71?
+#### Do I need special equipment for resistance training insulin sensitivity sedentary 59-71?
 
 No. A single looped resistance band (light or medium) and a sturdy chair are enough to begin either protocol. Many find bands easier on hands and wrists than dumbbells—and they’re easily stored, travel-friendly, and scalable. Video-linked form cues (freely available through reputable health channels) ensure safety without needing an in-person trainer.
 
-#### #### How soon will I notice changes in energy or blood sugar stability?
+#### How soon will I notice changes in energy or blood sugar stability?
 
 Most people report improved afternoon energy and fewer post-meal crashes within 3–4 weeks—often before lab values shift. HOMA-IR changes typically become measurable after 8–12 weeks of consistent practice. Remember: metabolic healing is gradual, cumulative, and deeply personal—your timeline is valid, no matter how fast or slow it unfolds.

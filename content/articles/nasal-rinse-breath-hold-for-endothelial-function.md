@@ -77,22 +77,22 @@ As we age, vascular health isn’t about chasing perfection—it’s about nurtu
 
 ### FAQ
 
-#### #### Does nasal rinse breath-hold for endothelial function lower blood pressure in older adults?
+#### Does nasal rinse breath-hold for endothelial function lower blood pressure in older adults?
 
 Research suggests modest but meaningful effects: in the aforementioned 8-week RCT, participants aged 58–65 saw average reductions of 4.2 mm Hg in systolic BP and 2.8 mm Hg in diastolic BP—alongside significantly improved FMD. These changes align with what’s expected from early-stage endothelial repair, though larger trials are underway to confirm durability.
 
-#### #### How often should I do nasal rinse breath-hold for endothelial function to see results?
+#### How often should I do nasal rinse breath-hold for endothelial function to see results?
 
 Current evidence supports once-daily practice—ideally in the morning, on an empty stomach, and consistently for at least 4 weeks. Adherence above 80% (i.e., ≥5 days/week) was associated with measurable FMD improvements in clinical studies.
 
-#### #### Is nasal rinse breath-hold for endothelial function safe for people with heart disease?
+#### Is nasal rinse breath-hold for endothelial function safe for people with heart disease?
 
 It appears safe for stable, well-managed cardiovascular conditions—including controlled hypertension and prior myocardial infarction—but is not recommended for those with recent ACS (<3 months), decompensated heart failure, or untreated arrhythmias. Always consult your cardiologist first.
 
-#### #### Can I use tap water for the nasal rinse?
+#### Can I use tap water for the nasal rinse?
 
 No. Tap water is not sterile and may contain low levels of *Naegleria fowleri* or other microbes that pose rare but serious infection risks. Use distilled, sterile, or previously boiled (and cooled) water—or commercially prepared saline solutions.
 
-#### #### Does this protocol replace medications for high blood pressure?
+#### Does this protocol replace medications for high blood pressure?
 
 No. Nasal rinse breath-hold for endothelial function is a complementary lifestyle strategy—not a substitute for prescribed antihypertensive therapy. If you’re on BP-lowering medication, continue as directed and discuss any new protocols with your prescribing clinician.

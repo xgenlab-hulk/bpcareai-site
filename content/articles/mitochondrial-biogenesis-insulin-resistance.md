@@ -49,17 +49,17 @@ In short, mitochondrial biogenesis insulin resistance is not a fixed condition�
 
 ### FAQ
 
-#### #### Can walking improve mitochondrial biogenesis insulin resistance?  
+#### Can walking improve mitochondrial biogenesis insulin resistance?  
 Yes—but only if it’s purposeful. Brisk walking for ≥30 minutes, 5x/week, *combined with resistance training*, enhances PGC-1α. However, walking alone rarely triggers significant mitochondrial biogenesis in adults with established insulin resistance—resistance-based mechanical stress is the stronger signal.
 
-#### #### How does mitochondrial biogenesis insulin resistance relate to type 2 diabetes?  
+#### How does mitochondrial biogenesis insulin resistance relate to type 2 diabetes?  
 It’s a key upstream mechanism. Reduced mitochondrial biogenesis in muscle lowers fat oxidation and glucose disposal, contributing to hyperglycemia and beta-cell stress—central drivers in the progression from insulin resistance to type 2 diabetes.
 
-#### #### What’s the best time of day to do resistance training for mitochondrial biogenesis insulin resistance?  
+#### What’s the best time of day to do resistance training for mitochondrial biogenesis insulin resistance?  
 Late afternoon (3–6 p.m.) aligns best with natural cortisol/testosterone rhythms and core body temperature peaks—both enhance muscle PGC-1α response. But consistency matters more than timing: choose a window you’ll actually keep.
 
-#### #### Does sleep affect mitochondrial biogenesis insulin resistance?  
+#### Does sleep affect mitochondrial biogenesis insulin resistance?  
 Absolutely. Poor sleep (<6 hours/night) suppresses PGC-1α expression by up to 40% and elevates inflammatory cytokines that block insulin signaling. Prioritizing 7–8 hours of quality, dark, cool sleep supports nightly mitochondrial repair.
 
-#### #### Are there foods that naturally support mitochondrial biogenesis insulin resistance?  
+#### Are there foods that naturally support mitochondrial biogenesis insulin resistance?  
 Whole, minimally processed foods rich in polyphenols (e.g., berries, green tea, extra-virgin olive oil) and nitrates (e.g., spinach, beets) support nitric oxide signaling—which enhances mitochondrial efficiency. But food alone won’t drive biogenesis without the mechanical or thermal triggers described above.

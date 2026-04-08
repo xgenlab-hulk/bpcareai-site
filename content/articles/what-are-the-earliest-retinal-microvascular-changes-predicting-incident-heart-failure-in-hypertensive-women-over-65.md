@@ -95,22 +95,22 @@ Understanding *retinal changes predicting heart failure* isn’t about adding wo
 
 ### FAQ
 
-#### #### Can retinal changes predict heart failure before symptoms appear?
+#### Can retinal changes predict heart failure before symptoms appear?
 
 Yes—studies show that retinal arteriolar narrowing, venular widening, and reduced fractal dimension can be detected 2–5 years before a formal heart failure diagnosis in women over 65 with hypertension. These are considered preclinical biomarkers of microvascular and myocardial stress.
 
-#### #### Are retinal changes predicting heart failure the same as diabetic retinopathy?
+#### Are retinal changes predicting heart failure the same as diabetic retinopathy?
 
 No. While both involve retinal microvascular damage, *retinal changes predicting heart failure* in hypertensive individuals occur independently of diabetes and reflect systemic arterial pressure effects—not hyperglycemia. They often present without hemorrhages or exudates (classic diabetic signs) and instead show geometric alterations in vessel caliber and branching.
 
-#### #### How accurate are retinal biomarkers for predicting heart failure risk?
+#### How accurate are retinal biomarkers for predicting heart failure risk?
 
 In large cohort studies, combinations of retinal signs—especially narrowing + widening—improve heart failure prediction beyond standard risk models. For example, adding retinal metrics to clinical variables increased the C-statistic (a measure of predictive accuracy) from 0.72 to 0.79 in one 5-year study of older women.
 
-#### #### Do I need special eye tests to detect these changes?
+#### Do I need special eye tests to detect these changes?
 
 Yes—but they’re part of a standard dilated fundus exam. Ask your eye care provider whether they perform digital retinal photography and use validated software to quantify vessel caliber and fractal dimension. Not all practices do this routinely, so requesting it helps ensure comprehensive vascular assessment.
 
-#### #### Can lifestyle changes reverse early retinal changes predicting heart failure?
+#### Can lifestyle changes reverse early retinal changes predicting heart failure?
 
 Emerging evidence suggests yes—particularly with sustained BP control, dietary improvements, and physical activity. In the SPRINT Eye Substudy, participants who achieved intensive BP targets (<120 mm Hg systolic) showed slower progression of arteriolar narrowing over 3 years compared to standard treatment groups.

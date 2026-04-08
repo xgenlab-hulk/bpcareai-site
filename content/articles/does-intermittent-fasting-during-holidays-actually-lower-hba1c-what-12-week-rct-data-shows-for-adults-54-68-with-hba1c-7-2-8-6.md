@@ -62,22 +62,22 @@ In closing: You don’t have to “white-knuckle” the holidays to support your
 
 ### FAQ
 
-#### #### Can intermittent fasting during holidays really lower HbA1c—or is it just hype?
+#### Can intermittent fasting during holidays really lower HbA1c—or is it just hype?
 
 The 12-week intermittent fasting holidays HbA1c study found a modest but real average reduction of 0.35 percentage points over 12 weeks—most pronounced in those who maintained consistency with their eating window and prioritized sleep.
 
-#### #### Is the intermittent fasting holidays HbA1c study relevant for someone over 60?
+#### Is the intermittent fasting holidays HbA1c study relevant for someone over 60?
 
 Yes—the trial specifically enrolled adults aged 54–68, with careful safety monitoring. Results were consistent across age subgroups, and benefits in postprandial glucose and sleep were especially notable in participants over 60.
 
-#### #### How does intermittent fasting compare to traditional calorie restriction for holiday diabetes management?
+#### How does intermittent fasting compare to traditional calorie restriction for holiday diabetes management?
 
 Unlike strict calorie limits—which can feel restrictive during celebrations—this approach focused on *timing* and metabolic rhythm. Participants didn’t count calories but naturally reduced late-night snacking and improved insulin sensitivity, supporting sustainable holiday diabetes management.
 
-#### #### Do I need special equipment to try this during the holidays?
+#### Do I need special equipment to try this during the holidays?
 
 Not necessarily. A basic glucometer and a notebook (or free app) for logging meals and glucose readings are enough to begin. Focus on consistency over complexity.
 
-#### #### Will intermittent fasting affect my blood pressure?
+#### Will intermittent fasting affect my blood pressure?
 
 Some participants in the study reported slightly lower systolic readings (average drop of ~3 mm Hg), likely linked to improved insulin sensitivity and reduced sodium retention. However, BP changes vary—so regular home monitoring remains valuable.

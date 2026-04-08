@@ -83,17 +83,17 @@ Experiencing *wine headache palpitations migraine cortical* symptoms can feel un
 
 ### FAQ
 
-#### #### What causes wine headache palpitations migraine cortical symptoms in older adults?
+#### What causes wine headache palpitations migraine cortical symptoms in older adults?
 These symptoms arise from overlapping sensitivities: wine compounds (like tyramine and histamine) interact with an already excitable cortex—common in migraine with aura—and trigger both trigeminovascular activation (causing headache) and transient changes in heart rhythm (like PACs). Age-related shifts in autonomic function and vascular responsiveness make this interaction more noticeable after 60.
 
-#### #### Is wine headache palpitations migraine cortical linked to holiday heart syndrome?
+#### Is wine headache palpitations migraine cortical linked to holiday heart syndrome?
 Not exactly—but there’s overlap. “Holiday heart syndrome” typically refers to acute atrial fibrillation after binge drinking. *Wine headache palpitations migraine cortical* involves milder, often subclinical rhythms (like isolated PACs) paired with neurological symptoms—and can occur after just one glass. Prevention focuses on moderation, timing, and recognizing personal thresholds—not abstinence.
 
-#### #### Can wine headache palpitations migraine cortical be prevented without giving up wine entirely?
+#### Can wine headache palpitations migraine cortical be prevented without giving up wine entirely?
 Yes—many people reduce or eliminate episodes by adjusting wine type, portion size, timing, and pairing with food. Keeping a symptom log helps identify your personal pattern, making prevention highly individualized and sustainable.
 
-#### #### Are premature atrial contractions (PACs) dangerous in adults over 65?
+#### Are premature atrial contractions (PACs) dangerous in adults over 65?
 In most cases, no. PACs are extremely common with aging—studies show up to 70% of adults over 70 have frequent PACs on 24-hour monitoring. When isolated and asymptomatic, they carry minimal risk. However, very high burdens (>1,000/day) or PACs associated with structural heart disease warrant further evaluation.
 
-#### #### Does caffeine make wine headache palpitations migraine cortical worse?
+#### Does caffeine make wine headache palpitations migraine cortical worse?
 It can—especially in sensitive individuals. Caffeine is a vasoconstrictor and mild stimulant that may amplify cortical excitability and increase PAC frequency. If you notice symptoms worsen when combining coffee and wine, consider spacing them out by at least 2–3 hours—or choosing decaf earlier in the day.

@@ -88,22 +88,22 @@ Living well with diabetes doesn’t mean waiting for complications—it means tu
 
 ### FAQ
 
-#### #### Can diabetes cause joint pain in older adults even without arthritis?
+#### Can diabetes cause joint pain in older adults even without arthritis?
 
 Yes—absolutely. While osteoarthritis and rheumatoid arthritis are common in older adults, diabetes itself contributes to joint pain through mechanisms like AGE buildup, chronic inflammation, nerve changes, and reduced blood flow. This means someone can experience significant joint stiffness and discomfort *without* having a formal arthritis diagnosis—a scenario increasingly recognized as “diabetic arthropathy.”
 
-#### #### Is diabetes and joint pain in older adults reversible?
+#### Is diabetes and joint pain in older adults reversible?
 
 Often, yes—especially when caught early. Improving blood sugar control, adding gentle movement, and addressing inflammation can lead to noticeable improvement in stiffness and pain within weeks to months. Conditions like frozen shoulder or trigger finger may take longer but respond well to coordinated care (e.g., physical therapy + glucose management).
 
-#### #### How does high blood sugar specifically damage joints?
+#### How does high blood sugar specifically damage joints?
 
 High blood sugar leads to glycation—where glucose molecules attach to collagen and other structural proteins in tendons, ligaments, and cartilage. This creates stiff, inflexible tissue. It also activates inflammatory pathways and impairs microcirculation, reducing the joint’s ability to repair itself. Over time, this contributes to conditions like Dupuytren’s contracture, carpal tunnel syndrome, and limited joint mobility syndrome.
 
-#### #### Are there specific blood tests that check for diabetes-related joint issues?
+#### Are there specific blood tests that check for diabetes-related joint issues?
 
 No single test diagnoses “diabetes-related joint pain,” but useful markers include HbA1c (for long-term glucose control), CRP or ESR (to assess systemic inflammation), and vitamin D levels (low levels are linked to both poor glycemic control and musculoskeletal pain). Imaging (like ultrasound) may detect early tendon thickening or synovial changes before symptoms appear.
 
-#### #### Can metformin or other diabetes medications help with joint pain?
+#### Can metformin or other diabetes medications help with joint pain?
 
 Metformin itself isn’t a pain reliever—but because it improves insulin sensitivity and lowers inflammation, some people notice indirect joint benefits when their overall metabolic health improves. Always discuss medication effects with your provider; never adjust doses based on joint symptoms alone.

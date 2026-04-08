@@ -73,17 +73,17 @@ Glucose responses are highly individual—and influenced by many factors beyond 
 
 ### FAQ
 
-#### #### Does black coffee raise blood sugar in people with diabetes?
+#### Does black coffee raise blood sugar in people with diabetes?
 Yes—especially in adults over 55. Caffeine induces transient insulin resistance and amplifies morning cortisol, leading to measurable increases in fasting glucose—even with no added sugar or cream.
 
-#### #### Why does my blood sugar go up after morning coffee blood sugar spike diabetes — even though I drink it black?
+#### Why does my blood sugar go up after morning coffee blood sugar spike diabetes — even though I drink it black?
 This *morning coffee blood sugar spike diabetes* effect stems from caffeine’s interference with insulin signaling, combined with age-related declines in glucose disposal and the natural dawn phenomenon. It’s not about calories—it’s about physiology.
 
-#### #### Can decaf coffee cause a morning coffee blood sugar spike diabetes?
+#### Can decaf coffee cause a morning coffee blood sugar spike diabetes?
 Rarely. Swiss Water Process decaf contains <3 mg caffeine per cup and shows no consistent glucose effect in clinical studies. However, some herbal “coffees” contain roasted grains or chicory, which may have mild carbohydrate content—check labels.
 
-#### #### Is the morning coffee blood sugar spike diabetes related to high blood pressure?
+#### Is the morning coffee blood sugar spike diabetes related to high blood pressure?
 Not directly—but both are influenced by sympathetic nervous system activation and cortisol. Adults with type 2 diabetes and hypertension (BP ≥140/90 mm Hg) often experience amplified glucose and BP fluctuations in the morning, making coordinated monitoring valuable.
 
-#### #### How long does the blood sugar spike from coffee last in older adults?
+#### How long does the blood sugar spike from coffee last in older adults?
 Typically 90–120 minutes in healthy adults, but in those aged 58+, the effect may persist up to 3 hours due to slower caffeine metabolism and reduced insulin clearance—especially if consumed on an empty stomach.

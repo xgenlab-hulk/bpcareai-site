@@ -83,22 +83,22 @@ If you’ve recently learned about **inflammation and beta-cell decline prediabe
 
 ### FAQ
 
-#### #### What causes inflammation and beta-cell decline in prediabetes?
+#### What causes inflammation and beta-cell decline in prediabetes?
 
 Chronic low-grade inflammation arises from multiple sources—including excess visceral fat, gut microbiome shifts, oxidative stress, and even mild, recurring infections. In prediabetes, this environment promotes immune cell infiltration into pancreatic islets, where cytokines like IL-1β impair beta-cell insulin production and survival over time. It’s not one cause, but a network of interrelated factors—most of which respond well to lifestyle support.
 
-#### #### Can reducing inflammation slow beta-cell decline in prediabetes?
+#### Can reducing inflammation slow beta-cell decline in prediabetes?
 
 Yes—multiple clinical trials confirm it. For example, the PREDIMED study found that a Mediterranean diet supplemented with extra-virgin olive oil reduced hs-CRP by 22% and was associated with significantly slower declines in beta-cell function over six years. Anti-inflammatory lifestyle changes—especially improved diet, physical activity, and sleep—help preserve insulin secretion capacity, even in adults with long-standing prediabetes.
 
-#### #### Is inflammation and beta-cell decline prediabetes reversible?
+#### Is inflammation and beta-cell decline prediabetes reversible?
 
 While we don’t typically reverse established cellular changes, we *can* halt or dramatically slow progression—and in many cases, restore functional capacity. Beta cells have regenerative potential, especially when relieved of metabolic stress (e.g., lower glucose toxicity, reduced inflammation). People who adopt consistent, evidence-based habits often see improvements in insulin sensitivity and C-peptide response within 3–6 months.
 
-#### #### Does high blood pressure contribute to beta-cell decline?
+#### Does high blood pressure contribute to beta-cell decline?
 
 Elevated BP (especially systolic ≥140 mm Hg or diastolic ≥90 mm Hg) is both a marker and a contributor to systemic inflammation and endothelial dysfunction. Hypertension and prediabetes commonly coexist—and together, they increase oxidative stress on pancreatic vasculature and islets. Managing BP supports overall metabolic health and indirectly protects beta-cell function.
 
-#### #### How often should I check hs-CRP if I have prediabetes?
+#### How often should I check hs-CRP if I have prediabetes?
 
 Most guidelines recommend checking hs-CRP once annually as part of routine cardiovascular and metabolic risk assessment—especially if you’re aged 52–64 with longstanding prediabetes. If your initial level is elevated (>3.0 mg/L), your provider may repeat it in 3–6 months after implementing lifestyle changes to assess response. Consistent tracking helps guide personalized next steps.

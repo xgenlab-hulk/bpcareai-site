@@ -83,22 +83,22 @@ If you're unsure, talking to your doctor is always a good idea. With a few thoug
 
 ### FAQ
 
-#### #### How does cold weather affect blood pressure indoors?
+#### How does cold weather affect blood pressure indoors?
 
 Cold indoor air—even without frost on the windows—triggers vasoconstriction (narrowing of blood vessels), which increases resistance in your arteries and raises systolic and diastolic pressure. Drafts, low humidity, and uneven heating amplify this effect. Keeping indoor temps between 68–72°F and humidity at 40–60% helps maintain steadier readings.
 
-#### #### Can improving my home environment and blood pressure reduce medication needs?
+#### Can improving my home environment and blood pressure reduce medication needs?
 
 Not on its own—and never stop or change prescribed meds without consulting your doctor. However, studies show that stable indoor temperatures and improved humidity can contribute to more consistent BP control, potentially supporting treatment goals. Think of it as teamwork: lifestyle supports medicine, not replaces it.
 
-#### #### What’s the ideal humidity level for senior blood pressure control in winter?
+#### What’s the ideal humidity level for senior blood pressure control in winter?
 
 For adults over 50, aim for 40–60% relative humidity. Below 40%, dry air irritates airways and may raise sympathetic tone; above 60%, mold risk increases—which can worsen inflammation and indirectly affect vascular health. A simple hygrometer helps you monitor it easily.
 
-#### #### Does wearing more clothes indoors help lower blood pressure in winter?
+#### Does wearing more clothes indoors help lower blood pressure in winter?
 
 Not necessarily—and sometimes it backfires. Overdressing can cause overheating, increased heart rate, and dehydration—especially if you’re also using heaters or humidifiers. Instead, focus on warming *your environment*, not just your body. Layer clothing mindfully: start with thermal base layers, add a cardigan or shawl, and avoid heavy, non-breathable fabrics indoors.
 
-#### #### How often should I check my blood pressure at home during winter?
+#### How often should I check my blood pressure at home during winter?
 
 The American Heart Association recommends checking twice daily (morning and evening) for at least 5–7 days when first assessing seasonal patterns—or after making home adjustments. Sit quietly for 5 minutes first, use the same arm and cuff position, and avoid caffeine or exercise 30 minutes beforehand. Record date, time, and conditions (e.g., “after humidifier use,” “before bed”).

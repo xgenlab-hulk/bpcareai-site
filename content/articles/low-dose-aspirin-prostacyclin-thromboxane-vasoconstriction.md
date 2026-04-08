@@ -92,22 +92,22 @@ Understanding how medications interact with your unique physiology—as you age�
 
 ### FAQ
 
-#### #### Does low-dose aspirin reduce prostacyclin in people with high blood pressure?
+#### Does low-dose aspirin reduce prostacyclin in people with high blood pressure?
 
 Yes—especially with long-term use. While aspirin preferentially inhibits platelet COX-1, chronic dosing can also suppress endothelial COX-2 activity over time. Since hypertension impairs baseline endothelial function, this reduction in prostacyclin (a key vasodilator) may contribute to increased peripheral vasoconstriction—particularly in those with coexisting PAD.
 
-#### #### Can low-dose aspirin prostacyclin thromboxane vasoconstriction cause leg pain to worsen?
+#### Can low-dose aspirin prostacyclin thromboxane vasoconstriction cause leg pain to worsen?
 
 Potentially, yes. In individuals with PAD and hypertension, the imbalance caused by chronic low-dose aspirin—less prostacyclin (vasodilator) and residual thromboxane activity (vasoconstrictor)—may reduce microvascular perfusion during activity. This doesn’t cause claudication outright, but it can lower the threshold for symptoms and reduce walking tolerance over time.
 
-#### #### Is low-dose aspirin still safe for older adults with hypertension and claudication?
+#### Is low-dose aspirin still safe for older adults with hypertension and claudication?
 
 It depends on your individual risk profile. For secondary prevention (e.g., after a heart attack or stroke), benefits generally outweigh risks. But for *primary prevention* in adults 70+, recent guidelines (like those from the U.S. Preventive Services Task Force) advise against routine use due to increased bleeding risk—and emerging data suggesting neutral or even modest harm in vascular outcomes, particularly in those with PAD.
 
-#### #### Does aspirin raise blood pressure?
+#### Does aspirin raise blood pressure?
 
 Aspirin itself doesn’t directly raise BP—but by reducing prostacyclin-mediated vasodilation and promoting a pro-constrictive environment, it may blunt the effectiveness of antihypertensive therapies in susceptible individuals. Some studies note small average increases (~2–3 mm Hg systolic) in long-term users with preexisting hypertension.
 
-#### #### What alternatives exist to low-dose aspirin for preventing clots in PAD?
+#### What alternatives exist to low-dose aspirin for preventing clots in PAD?
 
 Rivaroxaban (2.5 mg twice daily) plus aspirin has shown benefit in reducing major adverse limb events in high-risk PAD patients (per the VOYAGER trial). Clopidogrel is another option—though it doesn’t affect prostacyclin pathways. Ultimately, the decision depends on your bleeding risk, kidney function, and overall cardiovascular profile—so personalized guidance is essential.

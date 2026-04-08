@@ -78,22 +78,22 @@ Cardiac sarcoidosis is rare—but not invisible. And when caught early, treatmen
 
 ### FAQ
 
-#### #### Could orthostatic tachycardia cardiac sarcoidosis explain my “normal” echocardiogram but ongoing dizziness?
+#### Could orthostatic tachycardia cardiac sarcoidosis explain my “normal” echocardiogram but ongoing dizziness?
 
 Yes—early cardiac sarcoidosis often preserves ejection fraction and wall motion, so an echo may look completely normal. That’s why cardiac MRI or PET imaging is essential when clinical clues (like uveitis or skin lesions) are present.
 
-#### #### Is orthostatic tachycardia cardiac sarcoidosis more common in men or women over 55?
+#### Is orthostatic tachycardia cardiac sarcoidosis more common in men or women over 55?
 
 Studies show a slight male predominance (about 58% of diagnosed cases), but women in their 50s–60s are frequently underdiagnosed—especially when symptoms are attributed to perimenopause or anxiety.
 
-#### #### What’s the link between uveitis and orthostatic tachycardia cardiac sarcoidosis?
+#### What’s the link between uveitis and orthostatic tachycardia cardiac sarcoidosis?
 
 Uveitis occurs in ~25–30% of sarcoidosis patients—and when it appears alongside orthostatic tachycardia, it signals multi-organ granulomatous inflammation. The same immune dysregulation affecting the eye can involve the sinus node or conduction system, leading to autonomic-like symptoms.
 
-#### #### Can skin biopsies help diagnose orthostatic tachycardia cardiac sarcoidosis?
+#### Can skin biopsies help diagnose orthostatic tachycardia cardiac sarcoidosis?
 
 Yes—if a suspicious lesion is biopsied and shows non-caseating granulomas, it supports systemic sarcoidosis. That finding, combined with orthostatic tachycardia and eye symptoms, strongly warrants cardiac screening—even without overt heart symptoms.
 
-#### #### Are there blood tests that flag orthostatic tachycardia cardiac sarcoidosis early?
+#### Are there blood tests that flag orthostatic tachycardia cardiac sarcoidosis early?
 
 No single blood test confirms it—but elevated ACE (angiotensin-converting enzyme) or soluble IL-2 receptor levels *plus* clinical clues raise suspicion. Importantly, normal labs don’t rule it out.

@@ -67,22 +67,22 @@ Understanding *endocrine disruptors senior living insulin resistance* doesn’t 
 
 ### FAQ
 
-#### #### What are the most common endocrine disruptors senior living insulin resistance risks for older adults?
+#### What are the most common endocrine disruptors senior living insulin resistance risks for older adults?
 
 The top three include flame retardants (PBDEs) in older furniture and mattresses, antimicrobial agents (triclosan, quats) used on high-touch surfaces, and phthalates released from vinyl flooring and adhesives—especially when combined with poor HVAC filtration. These compounds accumulate in adipose tissue and disrupt insulin signaling pathways over time, contributing to worsening insulin resistance in adults with long-standing type 2 diabetes.
 
-#### #### Can endocrine disruptors senior living insulin resistance affect blood sugar control even if diet and medications haven’t changed?
+#### Can endocrine disruptors senior living insulin resistance affect blood sugar control even if diet and medications haven’t changed?
 
 Yes. Chronic, low-level exposure to EDCs can alter adipocyte function and promote low-grade inflammation—leading to measurable increases in fasting glucose and HbA1c, independent of dietary intake or medication adherence. Studies show that older adults with higher urinary phthalate levels experience up to a 0.4% greater annual rise in HbA1c compared to peers with lower exposure.
 
-#### #### How do I know if my senior living community has high levels of endocrine-disrupting chemicals?
+#### How do I know if my senior living community has high levels of endocrine-disrupting chemicals?
 
 There’s no consumer-grade home test, but you can ask facility staff about furniture replacement history (pre-2013 items are more likely to contain PBDEs), whether EPA Safer Choice–approved cleaners are used, and what MERV rating their HVAC filters have (MERV 13 or higher is ideal for capturing fine particles carrying EDCs). Visible dust buildup, strong chemical odors, or frequent use of fogging disinfectants are red flags worth discussing with management.
 
-#### #### Are air purifiers helpful for reducing endocrine disruptors in senior living settings?
+#### Are air purifiers helpful for reducing endocrine disruptors in senior living settings?
 
 Yes—specifically those with true HEPA filters (capturing 99.97% of particles ≥0.3 microns) and activated carbon layers (which adsorb gaseous VOCs and semi-volatiles like phthalates). Avoid ionizers or ozone-generating models, as ozone reacts with indoor chemicals to form harmful secondary pollutants.
 
-#### #### Does insulin resistance caused by endocrine disruptors go away once exposure stops?
+#### Does insulin resistance caused by endocrine disruptors go away once exposure stops?
 
 Not immediately—but it can improve. Because EDCs stored in fat are slowly released during weight loss or metabolic turnover, reductions in insulin resistance may take 3–6 months after sustained exposure reduction. Supporting liver and kidney health through hydration, plant-rich nutrition, and appropriate physical activity helps accelerate clearance.

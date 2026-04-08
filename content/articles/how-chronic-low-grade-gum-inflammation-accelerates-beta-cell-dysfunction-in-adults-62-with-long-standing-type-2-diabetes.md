@@ -85,22 +85,22 @@ Understanding how gum disease and beta-cell dysfunction in seniors are connected
 
 ### FAQ
 
-#### #### Does gum disease directly cause beta-cell failure in older adults with diabetes?
+#### Does gum disease directly cause beta-cell failure in older adults with diabetes?
 
 Not exactly — gum disease doesn’t *initiate* beta-cell failure, but growing evidence shows it can *accelerate* the decline in adults 62+ with long-standing type 2 diabetes. Chronic oral inflammation increases systemic IL-17 and bacterial virulence factors that impair insulin secretion and promote amyloid buildup in islets — contributing to faster functional loss.
 
-#### #### Is gum disease and beta-cell dysfunction in seniors reversible with treatment?
+#### Is gum disease and beta-cell dysfunction in seniors reversible with treatment?
 
 While lost beta cells don’t regenerate, early intervention can slow further decline. Studies show that non-surgical periodontal therapy (like scaling and root planing) in older adults with diabetes leads to measurable reductions in IL-17 and improvements in fasting insulin and HbA1c within 3–6 months — suggesting improved beta-cell efficiency.
 
-#### #### How is gum disease linked to diabetes complications beyond beta-cell dysfunction?
+#### How is gum disease linked to diabetes complications beyond beta-cell dysfunction?
 
 Chronic gum inflammation contributes to endothelial dysfunction and arterial stiffness — raising risk for cardiovascular events, kidney disease, and retinopathy. It’s part of a broader pattern: poor oral health correlates with higher rates of hospitalization for diabetic ketoacidosis (DKA) and heart failure in seniors, likely due to shared inflammatory pathways.
 
-#### #### Can good oral hygiene alone prevent beta-cell decline in seniors with diabetes?
+#### Can good oral hygiene alone prevent beta-cell decline in seniors with diabetes?
 
 Oral hygiene is essential — but not sufficient on its own. It’s one pillar of a multi-system approach that includes glycemic control, anti-inflammatory nutrition, physical activity, and regular monitoring of both oral and metabolic markers. Think of it as teamwork: your mouth, pancreas, and blood vessels all respond best when supported together.
 
-#### #### What’s the difference between gingivitis and periodontitis in relation to diabetes progression?
+#### What’s the difference between gingivitis and periodontitis in relation to diabetes progression?
 
 Gingivitis is reversible gum inflammation limited to the soft tissue; periodontitis involves irreversible bone and ligament loss around teeth. For seniors with long-standing diabetes, even mild periodontitis (pocket depths ≥4 mm) is associated with a 1.8-fold higher risk of accelerated beta-cell decline over 2 years — making early detection critical.

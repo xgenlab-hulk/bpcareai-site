@@ -79,22 +79,22 @@ The idea that something as everyday as sunlight or eyewear could influence your 
 
 ### FAQ
 
-#### #### Does blue-blocking glasses really affect blood pressure — or is it just about sleep?
+#### Does blue-blocking glasses really affect blood pressure — or is it just about sleep?
 
 Yes — emerging RCT data shows a direct link. In one study of adults 61–78 with non-dipping BP, those wearing blue-blocking glasses for ≥6 minutes nightly saw an average 8.5 mm Hg improvement in nocturnal systolic decline after 4 weeks. The mechanism appears tied to earlier melatonin onset, which promotes vascular relaxation — not just drowsiness.
 
-#### #### Is morning sunlight better than blue-blocking glasses for blood pressure dip?
+#### Is morning sunlight better than blue-blocking glasses for blood pressure dip?
 
 Neither is universally “better” — they serve different roles in circadian alignment. Morning light advances your clock; evening blue-blocking delays melatonin suppression. For many, combining both yields the strongest effect on the **sunlight vs blue-blocking glasses blood pressure dip**, especially when paired with consistent sleep timing.
 
-#### #### Can I use any blue-light glasses — or do they need to be specific?
+#### Can I use any blue-light glasses — or do they need to be specific?
 
 Not all “blue-light” glasses work for this purpose. For circadian impact, choose ones labeled “amber” or “red” that block ≥90% of light below 500 nm (check manufacturer specs). Clear or lightly tinted “computer glasses” usually block too little blue light to shift melatonin meaningfully.
 
-#### #### How long does it take to see changes in my blood pressure dip?
+#### How long does it take to see changes in my blood pressure dip?
 
 Most RCTs observed measurable improvements in nocturnal BP after 3–4 weeks of consistent use — whether with morning light or evening blue-blocking. However, subtle benefits (like falling asleep faster or waking less often) may appear within days.
 
-#### #### Does the sunlight vs blue-blocking glasses blood pressure dip effect work for people over 75?
+#### Does the sunlight vs blue-blocking glasses blood pressure dip effect work for people over 75?
 
 Yes — though individual responses vary. Studies included participants up to age 82, and older adults often benefit *more* from timed light exposure due to age-related declines in natural light sensitivity. The key is consistency and appropriate dosing (e.g., slightly longer morning light if mobility limits outdoor time).

@@ -84,22 +84,22 @@ Protecting retinal pericytes diabetic retinopathy risk isn’t about perfection�
 
 ### FAQ
 
-#### #### Can lifestyle changes really protect retinal pericytes diabetic retinopathy progression?
+#### Can lifestyle changes really protect retinal pericytes diabetic retinopathy progression?
 
 Yes—multiple longitudinal studies confirm it. The Diabetes Control and Complications Trial (DCCT) follow-up showed that intensive glucose management reduced retinopathy progression by 76% over 17 years, largely by preserving pericyte coverage. More recent research highlights that combining diet, movement, and circadian hygiene amplifies this protection—even independent of major A1c shifts.
 
-#### #### What foods best support retinal pericytes diabetic retinopathy prevention?
+#### What foods best support retinal pericytes diabetic retinopathy prevention?
 
 Top evidence-backed options include leafy greens (lutein → Nrf2 activation), pumpkin seeds and legumes (zinc → ZO-1 stabilization), fatty fish (DHA → anti-inflammatory resolvins), and berries (anthocyanins → SIRT1-mediated mitochondrial protection). Pairing them—like spinach salad with salmon and blueberries—creates synergistic effects.
 
-#### #### How early should I start trying to protect retinal pericytes diabetic retinopathy?
+#### How early should I start trying to protect retinal pericytes diabetic retinopathy?
 
 As soon as you receive a diagnosis of prediabetes (A1c ≥5.7%) or type 2 diabetes—even if you feel fine. Pericyte loss begins silently, often within 12–24 months of sustained hyperglycemia. Starting protective habits now builds reserve for decades ahead.
 
-#### #### Does high blood pressure affect retinal pericytes?
+#### Does high blood pressure affect retinal pericytes?
 
 Absolutely. Hypertension compounds glucose-induced pericyte stress by increasing mechanical shear forces and activating the renin-angiotensin system in retinal vessels. Keeping BP below 130/80 mm Hg is one of the most effective non-pharmacologic ways to preserve pericyte-endothelial coupling.
 
-#### #### Are there supplements proven to protect retinal pericytes?
+#### Are there supplements proven to protect retinal pericytes?
 
 No supplement is FDA-approved specifically for this purpose—but randomized trials support benefits from *combined* lutein (10 mg) + zeaxanthin (2 mg) + zinc (25 mg) + copper (1 mg) in people with early retinopathy (AREDS2 formulation). Always discuss with your doctor first, especially if you take blood thinners or have kidney concerns.

@@ -54,22 +54,22 @@ In summary, midnight candy cravings new year's eve sleep apnea reflect tangible,
 
 ### FAQ
 
-#### #### Why do I crave candy specifically at 2 a.m. on New Year’s Eve—but not other nights?
+#### Why do I crave candy specifically at 2 a.m. on New Year’s Eve—but not other nights?
 
 Late-night sugar cravings peak during circadian lows in leptin and highs in ghrelin—amplified by OSA-related hypoxia and holiday-induced dopamine surges. Alcohol, excitement, and disrupted sleep schedules compound this uniquely on New Year’s Eve.
 
-#### #### Can untreated sleep apnea really cause midnight candy cravings new year's eve sleep apnea?
+#### Can untreated sleep apnea really cause midnight candy cravings new year's eve sleep apnea?
 
 Yes. Untreated OSA drives nocturnal hypoxia, which dysregulates leptin and ghrelin and sensitizes dopamine receptors—making high-sugar foods especially rewarding between 1–3 a.m. CPAP therapy significantly reduces this effect.
 
-#### #### Is midnight candy craving a sign of prediabetes in adults over 55?
+#### Is midnight candy craving a sign of prediabetes in adults over 55?
 
 It *can be*—especially when paired with fasting glucose >100 mg/dL, HbA1c ≥5.7%, or rising BP after nighttime eating. These suggest insulin resistance exacerbated by sleep fragmentation.
 
-#### #### Does melatonin help reduce midnight candy cravings new year's eve sleep apnea?
+#### Does melatonin help reduce midnight candy cravings new year's eve sleep apnea?
 
 Not directly—and supplemental melatonin may worsen OSA in some adults. Focus instead on behavioral timing (dim lights by 9 p.m., avoid screens) and treating underlying apnea.
 
-#### #### What’s the link between night-eating syndrome and blood pressure spikes?
+#### What’s the link between night-eating syndrome and blood pressure spikes?
 
 NES is associated with 24-hour BP non-dipping (failure of nighttime BP to drop ≥10%). This increases stroke risk by 30% over 10 years—making BP tracking essential for anyone with recurrent midnight candy cravings new year's eve sleep apnea.

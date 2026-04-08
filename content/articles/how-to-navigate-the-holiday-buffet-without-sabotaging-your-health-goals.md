@@ -49,17 +49,17 @@ Holiday meals are meant to nourish both body and spirit. With grounded, practica
 
 ### FAQ
 
-#### #### How can I enjoy holiday desserts without spiking my blood sugar?
+#### How can I enjoy holiday desserts without spiking my blood sugar?
 Opt for a single small portion (e.g., 1-inch square of pie) and pair it with protein or healthy fat—like a few walnuts or a spoonful of Greek yogurt—to slow glucose absorption. Avoid “sugar-free” baked goods with maltitol or sorbitol, which can still raise blood sugar and cause GI discomfort.
 
-#### #### What are the best holiday buffet healthy eating tips for someone with high blood pressure?
+#### What are the best holiday buffet healthy eating tips for someone with high blood pressure?
 Focus on low-sodium swaps: choose grilled over roasted (less added salt), skip the gravy and stuffing (often high in sodium), and flavor dishes with herbs, lemon, or vinegar instead of soy sauce or pre-made seasoning blends. Aim to keep total sodium under 1,200 mg per meal if you have stage 1 hypertension.
 
-#### #### Are there holiday buffet healthy eating tips specifically for seniors over 70?
+#### Are there holiday buffet healthy eating tips specifically for seniors over 70?
 Yes. Prioritize protein (25–30 g per meal) to preserve muscle mass—try turkey, eggs, or beans. Choose softer, well-cooked vegetables and whole grains to support digestion. Stay hydrated: thirst sensation declines with age, so sip water consistently—even if you don’t feel thirsty.
 
-#### #### Can I bring a healthy dish to share at a family gathering?
+#### Can I bring a healthy dish to share at a family gathering?
 Absolutely—and it’s encouraged. Bring a colorful vegetable platter with hummus, a quinoa-and-roasted-vegetable salad, or a fruit-based dessert (baked apples with cinnamon). It models healthy eating without drawing attention and ensures at least one nutrient-dense option is available.
 
-#### #### How does alcohol affect blood pressure during holiday meals?
+#### How does alcohol affect blood pressure during holiday meals?
 Even moderate alcohol (2+ drinks) can raise systolic BP by 3–6 mm Hg acutely and blunt the effect of antihypertensive meds. For adults over 50, guidelines recommend no more than one drink per day—and ideally, alcohol-free days built into the week.

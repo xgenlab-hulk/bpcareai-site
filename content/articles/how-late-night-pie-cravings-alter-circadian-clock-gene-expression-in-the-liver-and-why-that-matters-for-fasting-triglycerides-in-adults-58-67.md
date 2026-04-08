@@ -63,19 +63,19 @@ In short, enjoying holiday treats doesn’t require sacrifice—it calls for tim
 
 ### FAQ
 
-#### #### Does eating pie late at night really affect my triglycerides?
+#### Does eating pie late at night really affect my triglycerides?
 Yes—particularly for adults over 55. Late-night pie circadian triglycerides reflects how nighttime sugar and fat intake disrupt liver clock genes (*BMAL1*, *PER2*), leading to increased VLDL secretion and higher fasting triglyceride levels the next day.
 
-#### #### Can late-night pie circadian triglycerides increase my risk of heart disease?
+#### Can late-night pie circadian triglycerides increase my risk of heart disease?
 Consistently elevated fasting triglycerides (≥200 mg/dL) are associated with a 30–40% higher risk of cardiovascular events in adults aged 58–67—especially when combined with hypertension, abdominal obesity, or insulin resistance.
 
-#### #### Is there a safe time to eat dessert if I want to avoid late-night pie circadian triglycerides?
+#### Is there a safe time to eat dessert if I want to avoid late-night pie circadian triglycerides?
 For most adults in their late 50s and 60s, finishing dessert by 7:30–8:00 p.m. aligns best with melatonin onset and supports stable hepatic clock function. Earlier in the day—like mid-afternoon—is even more protective.
 
-#### #### Do blood pressure meds affect triglyceride levels?
+#### Do blood pressure meds affect triglyceride levels?
 Some medications—including older beta-blockers (e.g., propranolol) and thiazide diuretics—can modestly raise triglycerides (by ~10–20 mg/dL). Always discuss lipid changes with your prescriber before adjusting treatment.
 
-#### #### If my triglycerides are normal now, do I still need to worry about late-night pie circadian triglycerides?
+#### If my triglycerides are normal now, do I still need to worry about late-night pie circadian triglycerides?
 Yes—especially as you age. Circadian misalignment accumulates silently. Even occasional late eating can blunt *PER2* amplitude over time, reducing the liver’s resilience to future metabolic stress. Prevention starts well before numbers change.  
 
 If you're unsure, talking to your doctor is always a good idea.

@@ -89,17 +89,17 @@ Discovering that your blood sugar behaves differently at night can feel puzzling
 
 ### FAQ
 
-#### #### What causes overnight blood sugar spikes in seniors with type 2 diabetes?  
+#### What causes overnight blood sugar spikes in seniors with type 2 diabetes?  
 Overnight blood sugar spikes in seniors often stem from age-related changes—including heightened dawn phenomenon, delayed gastric emptying, altered medication metabolism, nighttime protein/fat intake, and disrupted sleep patterns like undiagnosed sleep apnea. These factors interact uniquely in older adults and are usually manageable with tailored support.
 
-#### #### Can overnight blood sugar spikes in seniors be prevented without medication changes?  
+#### Can overnight blood sugar spikes in seniors be prevented without medication changes?  
 Yes—many people see improvement through non-medication strategies: adjusting meal timing and composition (especially evening snacks), improving sleep hygiene, adding light movement after dinner, and optimizing hydration. That said, medication review is often helpful—and always safe to discuss with your provider.
 
-#### #### Is a fasting blood sugar of 160 mg/dL normal for seniors?  
+#### Is a fasting blood sugar of 160 mg/dL normal for seniors?  
 For many adults over 65, a fasting glucose between 90–150 mg/dL is considered appropriate and safe. A reading of 160 mg/dL may reflect an overnight spike—and while not dangerous in isolation, it’s worth exploring with your doctor to understand the pattern and determine if gentle adjustments would help.
 
-#### #### How does delayed gastric emptying affect overnight glucose in older adults?  
+#### How does delayed gastric emptying affect overnight glucose in older adults?  
 Delayed gastric emptying slows the rate at which food leaves the stomach and enters the small intestine for absorption. This can push glucose peaks later—sometimes into the early-morning hours—leading to unexpectedly high fasting numbers. It’s more common in seniors with long-standing diabetes and may be accompanied by early satiety or bloating.
 
-#### #### Does cortisol really cause high morning blood sugar in older adults?  
+#### Does cortisol really cause high morning blood sugar in older adults?  
 Yes—cortisol naturally rises in the early-morning hours (peaking around 6 a.m.) to help prepare the body for waking. In seniors—especially those with insulin resistance or long-standing type 2 diabetes—this surge can significantly reduce insulin sensitivity, contributing to what’s known as the *dawn phenomenon*. It’s a normal hormonal rhythm, just amplified in certain contexts.

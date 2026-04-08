@@ -83,22 +83,22 @@ Heart health isn’t about perfection—it’s about consistency, clarity, and c
 
 ### FAQ
 
-#### #### Are all omega-3 supplements equally bioavailable for seniors?
+#### Are all omega-3 supplements equally bioavailable for seniors?
 
 No. Bioavailability varies widely based on chemical form (triglyceride vs. ethyl ester), oxidation status, and delivery method. Studies show triglyceride-form omega-3s absorb 2–3× better in adults over 60 than ethyl ester versions—especially when combined with digestive support.
 
-#### #### How can I test omega-3 supplement bioavailability seniors at home?
+#### How can I test omega-3 supplement bioavailability seniors at home?
 
 You can’t reliably test bioavailability at home—but you *can* monitor real-world outcomes. Track fasting triglycerides, resting heart rate variability (HRV), or even subjective markers like morning joint stiffness over 8–12 weeks. Consistent improvement suggests good absorption; no change warrants a formulation review.
 
-#### #### What’s the best way to improve omega-3 supplement bioavailability seniors?
+#### What’s the best way to improve omega-3 supplement bioavailability seniors?
 
 Take your supplement with a meal containing monounsaturated or saturated fat (e.g., eggs + avocado), store it refrigerated in a dark bottle, choose triglyceride-form products with published oxidation data (PV ≤5), and avoid anything with a fishy aftertaste or cloudy oil inside the capsule.
 
-#### #### Do enteric-coated omega-3s work better for older adults?
+#### Do enteric-coated omega-3s work better for older adults?
 
 Not necessarily—and sometimes worse. Research shows many enteric coatings fail to dissolve properly in aging guts due to altered pH and motility. Uncoated, high-quality triglyceride oils often demonstrate superior and more predictable absorption in clinical studies involving seniors.
 
-#### #### Can omega-3s help with blood pressure in older adults?
+#### Can omega-3s help with blood pressure in older adults?
 
 Yes—modestly. Meta-analyses suggest consistent intake of *bioavailable* EPA/DHA (≥2 g/day) may lower systolic BP by 2–4 mm Hg and diastolic BP by 1–3 mm Hg in adults over 50—especially those with elevated baseline readings. But this benefit only appears when the omega-3s are actually absorbed and incorporated into cell membranes.

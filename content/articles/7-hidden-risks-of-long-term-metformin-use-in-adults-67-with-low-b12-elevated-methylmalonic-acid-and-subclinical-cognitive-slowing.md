@@ -52,17 +52,17 @@ In short, *metformin b12 cognitive slowing elderly* is a nuanced, manageable par
 
 ### FAQ  
 
-#### #### Does metformin cause dementia in older adults with low B12?  
+#### Does metformin cause dementia in older adults with low B12?  
 No—metformin itself does not cause dementia. However, untreated B12 deficiency in long-term metformin users may contribute to reversible cognitive changes. Studies show no increased dementia risk with metformin *when B12 status is monitored and supported*.  
 
-#### #### What are the early signs of metformin b12 cognitive slowing elderly?  
+#### What are the early signs of metformin b12 cognitive slowing elderly?  
 Subtle signs may include slower mental processing (e.g., needing extra time to calculate a tip), mild word-finding pauses, or reduced multitasking ease—often without obvious memory loss. These are distinct from normal aging when they represent a noticeable *change* from your baseline.  
 
-#### #### Can B12 supplements reverse cognitive slowing linked to metformin use?  
+#### Can B12 supplements reverse cognitive slowing linked to metformin use?  
 Yes—especially when started early. In clinical trials, restoring B12 status improved processing speed and executive function in 60–70% of older adults with deficiency and subclinical slowing, typically within 3–6 months.  
 
-#### #### Is elevated methylmalonic acid dangerous on its own?  
+#### Is elevated methylmalonic acid dangerous on its own?  
 Elevated MMA signals cellular B12 insufficiency—not toxicity. It’s a sensitive biomarker, not a disease. High MMA (>0.7 µmol/L) warrants B12 repletion and follow-up, but it doesn’t indicate immediate harm.  
 
-#### #### Should I stop metformin if I have low B12 and mild cognitive slowing?  
+#### Should I stop metformin if I have low B12 and mild cognitive slowing?  
 Almost never—and definitely not without consulting your provider. Metformin offers proven cardiovascular and longevity benefits in type 2 diabetes. The priority is optimizing B12 status *while continuing* metformin, unless contraindicated for other reasons.

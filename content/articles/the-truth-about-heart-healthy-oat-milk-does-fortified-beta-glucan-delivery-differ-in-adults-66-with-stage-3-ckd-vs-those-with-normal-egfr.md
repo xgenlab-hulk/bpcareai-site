@@ -47,17 +47,17 @@ In short, oat milk *can* be part of a thoughtful plan for oat milk heart health 
 
 ### FAQ
 
-#### #### Is oat milk safe for people with kidney disease and high blood pressure?  
+#### Is oat milk safe for people with kidney disease and high blood pressure?  
 Yes—when chosen carefully. Opt for unsweetened, low-sodium, low-phosphate varieties, and pair with heart- and kidney-friendly foods. Always discuss dietary changes with your nephrologist or primary care provider, especially if you’re on BP medications like ACE inhibitors or ARBs.
 
-#### #### Does oat milk heart health benefit decline with kidney disease?  
+#### Does oat milk heart health benefit decline with kidney disease?  
 Evidence suggests beta-glucan’s LDL-lowering effect may be modestly reduced in Stage 3 CKD due to altered gut-kidney-liver signaling—not because oat milk is harmful, but because physiology shifts. Benefits are still possible, especially when combined with other heart-healthy habits.
 
-#### #### Can oat milk worsen kidney disease?  
+#### Can oat milk worsen kidney disease?  
 No, plain oat milk isn’t known to accelerate CKD progression. However, some commercial brands contain added phosphates or potassium additives that *can* burden kidneys. Always read ingredient lists and consult your dietitian.
 
-#### #### How much oat milk per day is appropriate for someone with CKD and heart concerns?  
+#### How much oat milk per day is appropriate for someone with CKD and heart concerns?  
 A typical recommendation is 1 cup (240 mL) of unsweetened, low-phosphate oat milk daily—enough to contribute toward the 3 g beta-glucan target without excess sodium, potassium, or phosphorus. Individual needs vary, so tailor with professional guidance.
 
-#### #### Are there better alternatives to oat milk for heart health in kidney disease?  
+#### Are there better alternatives to oat milk for heart health in kidney disease?  
 Almond or coconut milk (unsweetened, fortified only with calcium carbonate) may offer lower phosphorus options—but none deliver beta-glucan. The best choice depends on your labs, symptoms, and preferences. A dietitian can help weigh trade-offs.

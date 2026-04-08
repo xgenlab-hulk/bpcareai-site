@@ -87,17 +87,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can tart cherry supplements really help with sodium excretion without diuretics?
+#### Can tart cherry supplements really help with sodium excretion without diuretics?
 Yes—based on the 2023 pilot trial, a specific dose (480 mg freeze-dried tart cherry, standardized to anthocyanins) taken 30 minutes before dinner increased overnight urinary sodium excretion by ~18% in adults 65–79 with mild kidney changes. It works via gentle, transient modulation of the NKCC2 transporter—not broad diuretic action.
 
-#### #### What are safe natural ways to support sodium excretion without diuretics for seniors?
+#### What are safe natural ways to support sodium excretion without diuretics for seniors?
 Safe, evidence-informed approaches include: (1) timed tart cherry anthocyanin intake (evening, pre-meal), (2) front-loading daily fluid intake earlier in the day, (3) maintaining dietary potassium from whole foods, and (4) light post-dinner movement. These methods support the body’s innate natriuretic pathways—without pharmacologic stimulation.
 
-#### #### Does natural sodium excretion without diuretics help lower blood pressure?
+#### Does natural sodium excretion without diuretics help lower blood pressure?
 In the 2023 study, participants saw an average 4.2 mm Hg reduction in systolic BP over 6 weeks—likely linked to improved sodium balance and reduced plasma volume. While not a replacement for prescribed antihypertensives, this approach may contribute meaningfully to long-term BP stability, especially in mild hypertension or isolated systolic hypertension.
 
-#### #### Is eGFR 58 considered kidney disease—and can I still support sodium excretion naturally?
+#### Is eGFR 58 considered kidney disease—and can I still support sodium excretion naturally?
 An eGFR of 58 falls within CKD Stage 3a—but if stable for over a year and free of albuminuria, it often reflects normal aging, not progressive disease. Yes—you *can* support sodium excretion naturally at this level, as shown in clinical trials. Focus remains on preserving function, not reversing numbers.
 
-#### #### How long does it take to see results from natural sodium excretion without diuretics strategies?
+#### How long does it take to see results from natural sodium excretion without diuretics strategies?
 Most people notice subtle changes—like more consistent morning weight or reduced evening ankle fullness—within 2–3 weeks. Blood pressure trends typically stabilize over 4–6 weeks. Consistency with timing (anthocyanins + hydration windows) is more important than intensity.

@@ -40,17 +40,17 @@ It’s completely understandable to feel uncertain when test results seem contra
 
 ### FAQ
 
-#### #### What does it mean if my urinary metanephrines are normal but plasma free metanephrines are high?
+#### What does it mean if my urinary metanephrines are normal but plasma free metanephrines are high?
 It suggests possible intermittent or low-volume catecholamine secretion—common in smaller pheochromocytomas or those linked to *SDHB* mutations. Plasma testing is more sensitive, especially in older adults, and warrants further evaluation—not dismissal.
 
-#### #### Can pheochromocytoma suspicion adults 57-70 normal urinary metanephrines be missed on initial testing?
+#### Can pheochromocytoma suspicion adults 57-70 normal urinary metanephrines be missed on initial testing?
 Yes—up to 15% of cases show normal urinary metanephrines. This is why guidelines now recommend plasma free metanephrines as the first-line biochemical test for adults over 50 with suggestive symptoms and normal echo.
 
-#### #### Why would my doctor order genetic testing if I’m 62 and have no family history of pheochromocytoma?
+#### Why would my doctor order genetic testing if I’m 62 and have no family history of pheochromocytoma?
 About 30–40% of pheochromocytomas in adults over 50 are associated with hereditary syndromes—even without obvious family patterns. *SDHB* and *SDHD* variants, in particular, can present later in life and carry higher risks for malignancy, making early identification clinically meaningful.
 
-#### #### Is clonidine suppression testing safe for someone in their 60s?
+#### Is clonidine suppression testing safe for someone in their 60s?
 Yes—when done under supervision and with BP monitored closely before and after dosing. It’s well tolerated in older adults and remains the gold-standard functional test to confirm autonomous catecholamine production.
 
-#### #### How long should I wait after a BP spike to get tested for pheochromocytoma?
+#### How long should I wait after a BP spike to get tested for pheochromocytoma?
 Ideally, blood draws for plasma metanephrines should happen after at least 30 minutes of quiet supine rest—regardless of recent symptoms. Timing matters less than proper preparation: avoid caffeine, nicotine, and certain meds for 48 hours beforehand.

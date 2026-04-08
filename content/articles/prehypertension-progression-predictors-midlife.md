@@ -65,22 +65,22 @@ In short, noticing early blood pressure patterns isn’t about waiting for somet
 
 ### FAQ
 
-#### #### What are the earliest signs of prehypertension progression predictors midlife?
+#### What are the earliest signs of prehypertension progression predictors midlife?
 
 The earliest signs aren’t symptoms — they’re patterns in your BP behavior: a sharp morning rise (>35 mm Hg), little or no nighttime dip (<10%), or a delayed systolic increase after meals. These often appear before clinic readings cross into Stage 1.
 
-#### #### Can prehypertension progression predictors midlife be reversed with lifestyle changes?
+#### Can prehypertension progression predictors midlife be reversed with lifestyle changes?
 
 Yes — studies show that consistent physical activity, sodium reduction, and improved sleep hygiene can normalize morning surge and restore nocturnal dipping in 60–70% of adults aged 52–57 within 6–12 months.
 
-#### #### How often should someone with family history monitor blood pressure to spot prehypertension progression predictors midlife?
+#### How often should someone with family history monitor blood pressure to spot prehypertension progression predictors midlife?
 
 For initial assessment: take two readings each morning (within 1 hour of waking, before meds/coffee) and two each evening (before bed) for one full week. Repeat quarterly — or sooner if you notice new symptoms or stressors.
 
-#### #### Is nocturnal hypertension the same as reduced dipping?
+#### Is nocturnal hypertension the same as reduced dipping?
 
 Not exactly. Reduced dipping describes *how much* BP falls at night. Nocturnal hypertension means BP stays ≥120/70 mm Hg overnight — a more advanced sign. Reduced dipping often precedes nocturnal hypertension by 1–3 years.
 
-#### #### Do home blood pressure monitors detect morning surge accurately?
+#### Do home blood pressure monitors detect morning surge accurately?
 
 Yes — if used correctly. Take your first reading within 1 hour of waking, while still seated and rested. Paired with a second reading 30 minutes later, this captures the surge reliably — especially when averaged over several days.

@@ -81,22 +81,22 @@ Understanding your blood pressure today isn’t about fear — it’s about clar
 
 ### FAQ
 
-#### #### Is prehypertension still a valid diagnosis according to current ACC/AHA guidelines?
+#### Is prehypertension still a valid diagnosis according to current ACC/AHA guidelines?
 
 No. The term “prehypertension” was removed from clinical use in the 2017 ACC/AHA Guideline. What was once called prehypertension (120–139/80–89 mm Hg) is now categorized as either “elevated blood pressure” (120–129/<80) or “Stage 1 Hypertension” (≥130/80), depending on the numbers — with management guided by individual ASCVD risk.
 
-#### #### What does prehypertension myth vs fact ACC AHA mean for my long-term heart health?
+#### What does prehypertension myth vs fact ACC AHA mean for my long-term heart health?
 
 It means your risk isn’t determined solely by whether your BP crosses an arbitrary threshold — it’s shaped by how your arteries respond *within* the “high normal” range. The prehypertension myth vs fact ACC AHA discussion highlights that vascular aging, microvascular resistance, and calcium buildup begin silently years before classic hypertension develops — making early, personalized assessment essential.
 
-#### #### Can Stage 1 Hypertension be reversed without medication in adults over 55?
+#### Can Stage 1 Hypertension be reversed without medication in adults over 55?
 
 Yes — especially with consistent lifestyle changes. In adults 54–62, intensive lifestyle intervention (DASH diet, aerobic + resistance exercise, sodium reduction, and stress management) lowers systolic BP by an average of 5–11 mm Hg. Success depends on baseline risk: those with low ASCVD risk and no target organ damage often avoid medication; those with high risk or elevated CAC may benefit from earlier combination therapy.
 
-#### #### Do I need a coronary calcium scan if my blood pressure is “just a little high”?
+#### Do I need a coronary calcium scan if my blood pressure is “just a little high”?
 
 Not automatically — but it’s increasingly considered for adults 55–65 with BP in the Stage 1 range *and* intermediate ASCVD risk (7.5–20%). A CAC score >100 suggests significant subclinical atherosclerosis and strengthens the case for both lifestyle intensification and possible statin or antihypertensive therapy — regardless of symptoms.
 
-#### #### Why did ACC/AHA lower the hypertension threshold to 130/80?
+#### Why did ACC/AHA lower the hypertension threshold to 130/80?
 
 Because large studies (like SPRINT) showed adults with BP consistently ≥130/80 had significantly higher rates of heart attack, stroke, and heart failure — especially when combined with other risk factors. Lowering the threshold didn’t “create more patients”; it identified people earlier, when interventions are most effective at preventing irreversible damage.

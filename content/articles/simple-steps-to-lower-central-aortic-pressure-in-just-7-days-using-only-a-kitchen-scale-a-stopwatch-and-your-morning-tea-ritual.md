@@ -49,17 +49,17 @@ In summary, lowering central aortic pressure in 7 days isn’t about dramatic fi
 
 ### FAQ
 
-#### #### Can I really lower central aortic pressure in 7 days without medication?
+#### Can I really lower central aortic pressure in 7 days without medication?
 Yes—studies show short-term improvements in central hemodynamics are possible through nitric oxide support, fluid balance optimization, and autonomic modulation. While full normalization may take longer, measurable reductions in central systolic pressure and augmentation index have been observed within one week of structured lifestyle timing.
 
-#### #### What’s the difference between lowering central aortic pressure in 7 days vs. just lowering regular blood pressure?
+#### What’s the difference between lowering central aortic pressure in 7 days vs. just lowering regular blood pressure?
 Standard BP measures pressure in the brachial artery; central aortic pressure reflects the actual force on your heart and major organs. Because central pressure is more sensitive to arterial stiffness and wave reflection, it often improves *faster* with lifestyle changes—even when arm BP changes minimally. So lowering central aortic pressure in 7 days may signal early vascular benefit before brachial numbers shift.
 
-#### #### Does drinking tea really help lower central aortic pressure?
+#### Does drinking tea really help lower central aortic pressure?
 Tea—particularly green and black varieties—contains epigallocatechin gallate (EGCG) and theaflavins, which enhance endothelial nitric oxide synthase activity. When sipped slowly (not rushed), tea supports sustained NO bioavailability, improving arterial compliance. Clinical trials report ~5–7 mm Hg reductions in central systolic pressure after 1 week of controlled flavanol intake and paced consumption.
 
-#### #### Is a kitchen scale accurate enough for this protocol?
+#### Is a kitchen scale accurate enough for this protocol?
 Yes—for detecting *trends*. Digital kitchen scales (accurate to ±0.1 kg) are sufficient to identify clinically relevant fluid shifts (>1.0 kg change), which correlate strongly with changes in central arterial load. Consistency (same time, same conditions) matters more than lab-grade precision.
 
-#### #### What if my blood pressure doesn’t change much after 7 days?
+#### What if my blood pressure doesn’t change much after 7 days?
 That’s okay—and common. Central aortic pressure responds to different levers than brachial BP. Even without large numerical drops, improved pulse pressure stability, reduced morning edema, or easier breathing may reflect meaningful vascular relaxation. Continue the habits, and discuss trends—not just single values—with your clinician.

@@ -65,17 +65,17 @@ In short, enjoying holiday nuts doesn’t mean compromising your kidney or vascu
 
 ### FAQ
 
-#### #### Are holiday nuts oxidative stress seniors ckd concerns real—or just theoretical?
+#### Are holiday nuts oxidative stress seniors ckd concerns real—or just theoretical?
 Yes—they’re grounded in clinical biochemistry. Rancid nut oils increase lipid peroxides and AGEs, which studies link to higher urinary 8-OHdG and reduced GPx activity in older adults with CKD. It’s subtle, but measurable—and modifiable.
 
-#### #### How can I tell if my holiday nuts are causing oxidative stress?
+#### How can I tell if my holiday nuts are causing oxidative stress?
 You won’t feel it directly—but signs like new-onset afternoon fatigue, mild brain fog after snacking, or subtle swelling may align with oxidative shifts. Lab markers (urinary 8-OHdG, RBC GPx) offer clearer insight—ask your provider if these fit your annual wellness plan.
 
-#### #### What’s the safest way to enjoy nuts during the holidays with CKD Stage 2?
+#### What’s the safest way to enjoy nuts during the holidays with CKD Stage 2?
 Opt for raw, shelled, or vacuum-sealed dry-roasted nuts stored in the fridge or freezer. Stick to ≤1 oz (about a small handful) most days—and pair with colorful produce to boost antioxidant synergy.
 
-#### #### Do all roasted nuts cause oxidative stress?
+#### Do all roasted nuts cause oxidative stress?
 Not inherently—but prolonged high-heat roasting (especially above 350°F), added sugars/oils, and extended shelf life increase risk. Lightly roasted, minimally processed nuts stored properly pose far less concern.
 
-#### #### Is holiday nuts oxidative stress seniors ckd something my nephrologist will test for?
+#### Is holiday nuts oxidative stress seniors ckd something my nephrologist will test for?
 It’s not routine—but many integrative or functional nephrology practices include oxidative stress markers in expanded panels. You can ask whether urinary 8-OHdG or RBC glutathione peroxidase would add value to your current monitoring.

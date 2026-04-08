@@ -62,22 +62,22 @@ Holiday ketosis type 1 dementia mimic is surprisingly treatable when caught earl
 
 ### FAQ
 
-#### #### What are the early warning signs of holiday ketosis type 1 dementia mimic in older adults?
+#### What are the early warning signs of holiday ketosis type 1 dementia mimic in older adults?
 
 Early signs include sudden difficulty naming common objects (“that thing for stirring”), uncharacteristic impatience during conversations, mild balance issues when turning in bed or stepping off a curb—and notably, *no fever or urinary symptoms*. These often appear *before* nausea or high glucose.
 
-#### #### Can holiday ketosis type 1 dementia mimic be mistaken for a UTI in seniors?
+#### Can holiday ketosis type 1 dementia mimic be mistaken for a UTI in seniors?
 
 Yes—absolutely. Older adults with type 1 diabetes may present with confusion, agitation, or incontinence during ketosis, leading clinicians to order urine tests and start antibiotics unnecessarily. But a clean urinalysis + positive ketones points squarely to metabolic cause—not infection.
 
-#### #### How is holiday ketosis different from regular ketosis in younger people with type 1 diabetes?
+#### How is holiday ketosis different from regular ketosis in younger people with type 1 diabetes?
 
 In younger adults, ketosis usually triggers noticeable symptoms like nausea or rapid breathing. In adults 77+, the nervous system response blunts—so ketones build silently while subtly affecting frontal lobe function (planning, word retrieval, emotional regulation).
 
-#### #### Is blood ketone testing better than urine for detecting holiday ketosis type 1 dementia mimic?
+#### Is blood ketone testing better than urine for detecting holiday ketosis type 1 dementia mimic?
 
 Yes. Urine ketones reflect *past* accumulation and lag behind real-time changes—especially in older adults with reduced kidney perfusion. Blood ketone meters measure beta-hydroxybutyrate directly and detect rising levels 2–4 hours earlier.
 
-#### #### Does cognitive decline make holiday ketosis type 1 harder to manage?
+#### Does cognitive decline make holiday ketosis type 1 harder to manage?
 
 It can—particularly if insulin timing, carb counting, or symptom recognition become harder to track. That’s why having a simple, written holiday plan (with ketone thresholds and who to call) makes a meaningful difference in safety and outcomes.

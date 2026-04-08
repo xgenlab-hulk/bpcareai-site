@@ -100,17 +100,17 @@ Managing blood pressure while staying well during cold season is absolutely poss
 
 ### FAQ
 
-#### #### Can cold medicine raise blood pressure in seniors even if they don’t have diagnosed hypertension?
+#### Can cold medicine raise blood pressure in seniors even if they don’t have diagnosed hypertension?
 Yes. Age-related vascular stiffness and reduced baroreflex sensitivity mean many adults 65+ experience BP spikes from decongestants—even with previously “normal” readings. A 2021 JAMA Internal Medicine study found that 32% of healthy older adults experienced ≥10 mm Hg systolic elevation after a single dose of oral phenylephrine.
 
-#### #### What cold medicines are safest for someone with cold medicine blood pressure elderly concerns?
+#### What cold medicines are safest for someone with cold medicine blood pressure elderly concerns?
 Look for single-ingredient products: plain acetaminophen (for pain/fever), guaifenesin (for mucus), and saline nasal sprays. Avoid anything with pseudoephedrine, phenylephrine, NSAIDs, or caffeine. Always confirm with your pharmacist before purchasing.
 
-#### #### Does orthostatic hypotension make cold medicine blood pressure risks worse?
+#### Does orthostatic hypotension make cold medicine blood pressure risks worse?
 Yes—significantly. Orthostatic hypotension reflects impaired autonomic compensation. When a decongestant raises baseline BP, the body may overcorrect upon standing—leading to larger-than-usual drops. This “rollercoaster” effect increases fall risk and cardiac strain.
 
-#### #### Are herbal cold remedies safer for blood pressure?
+#### Are herbal cold remedies safer for blood pressure?
 Not necessarily. Ginseng, ephedra (banned but sometimes present in unregulated products), licorice root, and yohimbe all carry documented BP-elevating potential. “Natural” does not equal “neutral”—always discuss herbal use with your clinician.
 
-#### #### How long does it take for blood pressure to return to baseline after stopping a problematic cold medicine?
+#### How long does it take for blood pressure to return to baseline after stopping a problematic cold medicine?
 Most decongestants clear within 24–48 hours in healthy older adults—but full autonomic recovery may take 3–5 days, especially if orthostatic symptoms developed. Continue home monitoring during this window and report persistent abnormalities.

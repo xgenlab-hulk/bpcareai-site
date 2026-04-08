@@ -52,22 +52,22 @@ Winter doesn’t have to mean resigning yourself to higher blood pressure—or a
 
 ### FAQ
 
-#### #### Does sauna use lower blood pressure in seniors?
+#### Does sauna use lower blood pressure in seniors?
 
 Research shows that regular, moderate sauna use *can* contribute to modest reductions in both systolic and diastolic blood pressure among older adults with mild-to-moderate hypertension—typically around 5–7 mm Hg systolic and 3–5 mm Hg diastolic after several weeks of consistent use. However, results vary based on frequency, duration, temperature, individual health status, and concurrent lifestyle habits. It’s not a replacement for prescribed treatment, but rather a potential adjunct.
 
-#### #### Is sauna and blood pressure safety a concern for people with high BP?
+#### Is sauna and blood pressure safety a concern for people with high BP?
 
 Yes—sauna and blood pressure safety requires careful consideration. While heat-induced vasodilation may lower BP *during* and shortly after a session, the initial thermal stress can cause transient spikes in heart rate and cardiac output. For seniors with uncontrolled hypertension (e.g., repeated readings ≥160/100 mm Hg), recent cardiovascular events, or orthostatic hypotension, sauna use without medical clearance poses meaningful risk. Always consult your physician before starting.
 
-#### #### Can infrared sauna help with blood pressure in winter?
+#### Can infrared sauna help with blood pressure in winter?
 
 Infrared saunas operate at lower ambient temperatures (45–60°C) and heat the body directly, resulting in milder cardiovascular strain than traditional saunas. Some small studies suggest infrared sauna may support improved endothelial function and modest BP reductions—particularly beneficial in winter when outdoor activity declines and vascular stiffness tends to increase. Still, evidence remains limited, and individual tolerance varies.
 
-#### #### How often should seniors use a sauna for blood pressure benefits?
+#### How often should seniors use a sauna for blood pressure benefits?
 
 Current evidence supports 2–3 sessions per week, each lasting 15–20 minutes at moderate heat (70–80°C for traditional, 50–60°C for infrared), with proper hydration and gradual acclimatization. Daily use hasn’t been shown to offer added benefit and may increase risk of dehydration or orthostatic symptoms in older adults.
 
-#### #### What are signs that sauna use is affecting my blood pressure negatively?
+#### What are signs that sauna use is affecting my blood pressure negatively?
 
 Watch for dizziness or lightheadedness upon standing, prolonged fatigue after a session, unusually slow or fast heart rate, visual blurring, or confusion. A post-sauna systolic BP drop below 90 mm Hg—or a rise above 180 mm Hg—warrants immediate pause and discussion with your healthcare provider.

@@ -101,22 +101,22 @@ Managing blood pressure after exercise doesn’t have to mean avoiding movement�
 
 ### FAQ
 
-#### #### What is a post-exercise systolic surge quick fix—and does it really work for seniors?
+#### What is a post-exercise systolic surge quick fix—and does it really work for seniors?
 
 A **post-exercise systolic surge quick fix** refers to a set of immediate, non-drug techniques designed to reduce the sharp rise in systolic blood pressure that occurs 1–2 minutes after stopping aerobic activity. In adults aged 64+ with LVH, peer-reviewed echo-BP studies demonstrate that combining supine ankle pumps and diaphragmatic breath stacking reliably lowers systolic pressure by ~15 mmHg within 90 seconds—making it both real and reproducible.
 
-#### #### Can I use a post-exercise systolic surge quick fix if I’m on blood pressure medication?
+#### Can I use a post-exercise systolic surge quick fix if I’m on blood pressure medication?
 
 Yes—this protocol is complementary to antihypertensive therapy, not a replacement. It targets the *acute hemodynamic rebound*, which many medications don’t fully prevent. However, always discuss new self-management strategies with your prescriber—especially if you take alpha-blockers, beta-blockers with intrinsic sympathomimetic activity, or medications affecting autonomic tone.
 
-#### #### How soon after exercise should I start my post-exercise systolic surge quick fix?
+#### How soon after exercise should I start my post-exercise systolic surge quick fix?
 
 Begin *within 10 seconds* of stopping activity—ideally while transitioning into supine position. Delaying beyond 30 seconds reduces effectiveness, as sympathetic activation and venous redistribution begin rapidly. The full 90-second sequence (45 sec breathing + 45 sec ankle pumps) should be completed before the typical surge peak at 90–120 seconds.
 
-#### #### Is left ventricular hypertrophy (LVH) reversible—and does that change how I manage post-exercise BP?
+#### Is left ventricular hypertrophy (LVH) reversible—and does that change how I manage post-exercise BP?
 
 LVH can regress with sustained BP control, weight management, and aerobic training—but reversal takes months to years. Until then, your heart remains more sensitive to hemodynamic shifts. That’s why using a targeted **post-exercise systolic surge quick fix** remains valuable: it supports safer exercise adherence while structural improvements occur.
 
-#### #### Do wrist BP monitors work for tracking post-exercise systolic surge?
+#### Do wrist BP monitors work for tracking post-exercise systolic surge?
 
 Wrist devices are generally *not recommended* for detecting post-exercise systolic surge. They’re more susceptible to motion artifact, positioning error, and arterial stiffness-related inaccuracy—especially in older adults. Upper-arm, cuff-based oscillometric monitors (validated to ANSI/ISO standards) provide far more reliable beat-to-beat trends in this context.

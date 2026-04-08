@@ -1,0 +1,599 @@
+{
+  "batch_id": 1,
+  "total_articles": 245,
+  "quality_distribution": {
+    "excellent": 157,
+    "good": 41,
+    "needs_improvement": 44,
+    "poor": 3
+  },
+  "needs_optimization": [
+    {
+      "slug": "natural-ways-to-support-pancreatic-beta-cell-resilience-without-stimulating-insulin-secretion-using-sulforaphane-timing-low-dose-lithium-in-adults-56-64-with-early-beta-cell-decline",
+      "title": "Natural Ways to Support Pancreatic Beta-Cell Resilience *Without* Stimulating Insulin Secretion — Using Sulforaphane Timing + Low-Dose Lithium in Adults 56–64 With Early Beta-Cell Decline",
+      "current_keyword": "beta-cell protection natural methods",
+      "score": 50,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "diabetes management early older adults",
+      "rationale": "strengthened core medical topic"
+    },
+    {
+      "slug": "best-seated-breathing-patterns-with-real-time-hrv-feedback-for-adults-79-with-frailty-orthostatic-intolerance-and-mild-pulmonary-hypertension",
+      "title": "Best Seated Breathing Patterns *With Real-Time HRV Feedback* for Adults 79+ With Frailty, Orthostatic Intolerance, and Mild Pulmonary Hypertension",
+      "current_keyword": "seated breathing hrv feedback frailty",
+      "score": 42,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "blood pressure mild adults over 79",
+      "rationale": "strengthened core medical topic; clarified search intent"
+    },
+    {
+      "slug": "when-to-worry-about-just-one-more-glass-early-qtc-prolongation-signs-after-holiday-wine-consumption-in-women-62-on-ssris",
+      "title": "When to Worry About 'Just One More Glass' — Early QTc Prolongation Signs After Holiday Wine Consumption in Women 62+ on SSRIs",
+      "current_keyword": "holiday wine qt prolongation ssri women",
+      "score": 50,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "health warning signs holiday women 62+",
+      "rationale": "strengthened core medical topic"
+    },
+    {
+      "slug": "how-late-night-holiday-movie-marathons-elevate-sympathetic-tone-and-why-that-increases-afib-burden-in-adults-65-with-nocturnal-hypertension",
+      "title": "How Late-Night Holiday Movie Marathons Elevate Sympathetic Tone — And Why That Increases AFib Burden in Adults 65+ With Nocturnal Hypertension",
+      "current_keyword": "late-night movies sympathetic tone afib",
+      "score": 50,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "blood pressure holiday adults 65+",
+      "rationale": "strengthened core medical topic"
+    },
+    {
+      "slug": "gratitude-walks-post-holiday-dinner",
+      "title": "What Research Says About 10-Minute 'Gratitude Walks' *After* Holiday Dinners — Effects on Postprandial Inflammatory Cytokines and Glucose Variability in Adults 64+ With Elevated hs-CRP",
+      "current_keyword": "gratitude walks post-holiday dinner",
+      "score": 50,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "diabetes management holiday adults 64+",
+      "rationale": "strengthened core medical topic"
+    },
+    {
+      "slug": "coq10-and-ejection-fraction-ischemic-cardiomyopathy",
+      "title": "Does Daily 400 mg Coenzyme Q10 *Really* Improve Ejection Fraction in Adults 66+ With Ischemic Cardiomyopathy on Max-Tolerated GDMT? — New Data From the Q-CORE Trial",
+      "current_keyword": "coq10 and ejection fraction ischemic cardiomyopathy",
+      "score": 37,
+      "issues": [
+        "slightly_too_long",
+        "lacks_medical_topic",
+        "no_core_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "heart health improvement adults 66+",
+      "rationale": "Shortened from 51 to 35 chars; strengthened core medical topic; clarified search intent"
+    },
+    {
+      "slug": "9-simple-steps-to-adjust-your-cpap-humidifier-settings-without-raising-overnight-systolic-pressure-for-adults-67-with-osa-and-nocturnal-hypertension",
+      "title": "9 Simple Steps to Adjust Your CPAP Humidifier Settings *Without* Raising Overnight Systolic Pressure — For Adults 67+ With OSA and Nocturnal Hypertension",
+      "current_keyword": "cpap humidifier settings and nocturnal bp",
+      "score": 42,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "blood pressure nighttime adults 67+",
+      "rationale": "strengthened core medical topic; clarified search intent"
+    },
+    {
+      "slug": "hosting-holiday-guests-atrial-protection",
+      "title": "5 Science-Backed Ways to Protect Your Atria *While Hosting Holiday Guests* — Stress-Modulated Nitric Oxide Bioavailability, Microbreak Timing, and Vocal Cord Strain Reduction in Adults 70+",
+      "current_keyword": "hosting holiday guests atrial protection",
+      "score": 50,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "stress reduction holiday adults over 70",
+      "rationale": "strengthened core medical topic"
+    },
+    {
+      "slug": "home-bp-cuff-calibration-in-high-humidity",
+      "title": "Simple Steps to Calibrate Your Home Blood Pressure Cuff *Before Every Use* — Especially When Ambient Humidity Exceeds 65% in Adults 69+ With Salt-Sensitive Hypertension",
+      "current_keyword": "home bp cuff calibration in high humidity",
+      "score": 50,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "blood pressure management adults 69+",
+      "rationale": "strengthened core medical topic"
+    },
+    {
+      "slug": "herbal-teas-and-diastolic-stiffness-in-women",
+      "title": "The Truth About 'Blood Pressure–Friendly' Herbal Teas Marketed to Women Over 65 — Why 84% Contain Vasopressin-Mimetic Alkaloids That Worsen Diastolic Stiffness",
+      "current_keyword": "herbal teas and diastolic stiffness in women",
+      "score": 50,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "blood pressure management women 65+",
+      "rationale": "strengthened core medical topic"
+    },
+    {
+      "slug": "7-hidden-electrolyte-shifts-that-happen-during-holiday-cooking-and-how-they-trigger-atrial-fibrillation-in-adults-60-with-mild-hypokalemia",
+      "title": "7 Hidden Electrolyte Shifts That Happen *During* Holiday Cooking — And How They Trigger Atrial Fibrillation in Adults 60+ With Mild Hypokalemia",
+      "current_keyword": "holiday cooking electrolyte shifts atrial fibrillation",
+      "score": 45,
+      "issues": [
+        "slightly_too_long",
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "heart health mild holiday adults 60+",
+      "rationale": "Shortened from 54 to 36 chars; strengthened core medical topic"
+    },
+    {
+      "slug": "simple-steps-to-modify-grandma-s-pie-recipe-for-diabetic-retinopathy-risk-reduction-without-sacrificing-flavor-or-texture",
+      "title": "Simple Steps to Modify Grandma’s Pie Recipe for Diabetic Retinopathy Risk Reduction — Without Sacrificing Flavor or Texture",
+      "current_keyword": "grandma pie recipe diabetic retinopathy",
+      "score": 42,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "diabetes reduction older adults",
+      "rationale": "strengthened core medical topic; clarified search intent"
+    },
+    {
+      "slug": "low-dose-lithium-beta-cell-function",
+      "title": "How Chronic Low-Dose Lithium (0.3 mg/day) Affects Beta-Cell Autophagy and Mitochondrial Turnover in Adults 59–67 With Long-Standing Type 2 Diabetes — A 2024 Pilot Study Update",
+      "current_keyword": "low-dose lithium beta-cell function",
+      "score": 42,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "diabetes management chronic older adults",
+      "rationale": "strengthened core medical topic; clarified search intent"
+    },
+    {
+      "slug": "warning-signs-your-stable-atrial-fibrillation-is-progressing-to-tachycardia-induced-cardiomyopathy-even-with-controlled-ventricular-rate-in-adults-61",
+      "title": "Warning Signs Your 'Stable' Atrial Fibrillation Is Progressing to Tachycardia-Induced Cardiomyopathy — Even With Controlled Ventricular Rate in Adults 61+",
+      "current_keyword": "tachycardia-induced cardiomyopathy warning signs",
+      "score": 50,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "heart health control adults 61+",
+      "rationale": "strengthened core medical topic"
+    },
+    {
+      "slug": "how-chronic-low-grade-gum-inflammation-drives-coronary-plaque-instability-and-why-scaling-alone-isn-t-enough-for-adults-62-with-periodontitis-and-cad",
+      "title": "How Chronic Low-Grade Gum Inflammation Drives Coronary Plaque Instability — And Why Scaling Alone Isn’t Enough for Adults 62+ With Periodontitis and CAD",
+      "current_keyword": "gum disease and coronary plaque instability",
+      "score": 42,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "diet chronic adults 62+ health tips",
+      "rationale": "strengthened core medical topic; clarified search intent"
+    },
+    {
+      "slug": "connexin-43-phosphorylation-natural-modulation",
+      "title": "Natural Ways to Modulate Cardiac Connexin-43 Phosphorylation *Without* Increasing Oxidative Load — Using Low-Dose Resveratrol + Time-Restricted Feeding in Adults 63+ With Intermittent PACs",
+      "current_keyword": "connexin-43 phosphorylation natural modulation",
+      "score": 42,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "heart health natural methods adults 63+",
+      "rationale": "strengthened core medical topic; clarified search intent"
+    },
+    {
+      "slug": "bp-drop-physical-therapy-post-cabg",
+      "title": "When to Worry About Sudden BP Drops After Standing *During* Physical Therapy Sessions — Distinguishing Orthostatic Hypotension From Early Cardiac Tamponade in Adults 76+ Post-CABG",
+      "current_keyword": "bp drop physical therapy post-cabg",
+      "score": 42,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "blood pressure early adults over 76",
+      "rationale": "strengthened core medical topic; clarified search intent"
+    },
+    {
+      "slug": "5-things-everyone-over-75-should-know-before-starting-a-beta-blocker-especially-with-copd-bradycardia-or-orthostatic-hypotension",
+      "title": "5 Things Everyone Over 75 Should Know Before Starting a Beta-Blocker — Especially With COPD, Bradycardia, or Orthostatic Hypotension",
+      "current_keyword": "beta-blocker initiation over 75 with comorbidities",
+      "score": 50,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "health older adults health tips",
+      "rationale": "strengthened core medical topic"
+    },
+    {
+      "slug": "the-complete-guide-to-interpreting-home-bp-log-patterns-spotting-masked-hypertension-white-coat-effect-and-circadian-shifts-in-adults-59-71",
+      "title": "The Complete Guide to Interpreting Home BP Log Patterns — Spotting Masked Hypertension, White-Coat Effect, and Circadian Shifts in Adults 59–71",
+      "current_keyword": "home bp log pattern interpretation",
+      "score": 50,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "blood pressure guide older adults",
+      "rationale": "strengthened core medical topic"
+    },
+    {
+      "slug": "sudden-bloating-after-holiday-dinner",
+      "title": "When to Worry About Sudden Bloating After Thanksgiving Dinner — Distinguishing Food Intolerance From Early Small Intestinal Bacterial Overgrowth (SIBO) in Adults 63+ With Long-Term PPI Use",
+      "current_keyword": "sudden bloating after holiday dinner",
+      "score": 50,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "diet early adults 63+ health tips",
+      "rationale": "strengthened core medical topic"
+    },
+    {
+      "slug": "strategic-snacking-before-holiday-gatherings",
+      "title": "What Research Says About 'Strategic Snacking' *Before* Holiday Gatherings — Preemptive Protein + Fiber Dosing to Modulate Ghrelin, GLP-1, and Gastric Emptying in Adults 57–64 With Obesity-Related Insulin Resistance",
+      "current_keyword": "strategic snacking before holiday gatherings",
+      "score": 50,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "diabetes management holiday older adults",
+      "rationale": "strengthened core medical topic"
+    },
+    {
+      "slug": "pancreatic-beta-cell-resilience-festive-eating",
+      "title": "Natural Ways to Support Pancreatic Beta-Cell Resilience *During* Festive Eating — Using Post-Meal Fenugreek Seed Infusion + Cold-Pressed Flax Oil Timing in Adults 61+ With Long-Standing Type 2 Diabetes",
+      "current_keyword": "pancreatic beta-cell resilience festive eating",
+      "score": 42,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "diabetes natural methods winter adults 61+",
+      "rationale": "strengthened core medical topic; clarified search intent"
+    },
+    {
+      "slug": "morning-stretching-vs-breath-hold-nocturnal-bp",
+      "title": "A vs B: Morning 10-Minute Dynamic Stretching vs. Evening 8-Minute Guided Breath-Hold Sequencing — Which Better Lowers Nocturnal Systolic in Adults 69+ With Non-Dipping Patterns?",
+      "current_keyword": "morning stretching vs breath-hold nocturnal bp",
+      "score": 50,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "blood pressure reduction morning adults 69+",
+      "rationale": "strengthened core medical topic"
+    },
+    {
+      "slug": "carotid-baroreceptor-sensitivity-cooling",
+      "title": "Natural Ways to Enhance Carotid Baroreceptor Sensitivity *Without* Medication — Using Daily 2-Minute Neck Cooling + Submaximal Isometric Jaw Clenching in Adults 60–68",
+      "current_keyword": "carotid baroreceptor sensitivity cooling",
+      "score": 42,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "blood pressure improvement adults 60+",
+      "rationale": "strengthened core medical topic; clarified search intent"
+    },
+    {
+      "slug": "blood-pressure-management-for-men-over-70-with-low-testosterone-and-elevated-hematocrit-why-standard-targets-may-be-unsafe",
+      "title": "Blood Pressure Management for Men Over 70 With Low Testosterone and Elevated Hematocrit — Why Standard Targets May Be Unsafe",
+      "current_keyword": "low testosterone hematocrit bp targets",
+      "score": 42,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "blood pressure management men over 70",
+      "rationale": "strengthened core medical topic; clarified search intent"
+    },
+    {
+      "slug": "best-home-blood-pressure-cuffs-for-adults-75-with-severe-arthritis-and-tremor-accuracy-fit-and-one-handed-operation-compared",
+      "title": "Best Home Blood Pressure Cuffs for Adults 75+ With Severe Arthritis and Tremor — Accuracy, Fit, and One-Handed Operation Compared",
+      "current_keyword": "bp cuff severe arthritis tremor",
+      "score": 50,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "blood pressure severe adults over 75",
+      "rationale": "strengthened core medical topic"
+    },
+    {
+      "slug": "warning-signs-your-stable-diabetes-is-masking-early-diabetic-cardiomyopathy-even-with-normal-ejection-fraction-and-no-symptoms-in-adults-59-68",
+      "title": "Warning Signs Your 'Stable' Diabetes Is Masking Early Diabetic Cardiomyopathy — Even With Normal Ejection Fraction and No Symptoms in Adults 59–68",
+      "current_keyword": "early diabetic cardiomyopathy warning signs",
+      "score": 50,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "diabetes warning signs older adults",
+      "rationale": "strengthened core medical topic"
+    },
+    {
+      "slug": "vns-vs-tart-cherry-juice-nocturnal-afib",
+      "title": "A vs B: Daily 5-Minute Vagus Nerve Stimulation (VNS) vs. Evening Tart Cherry Juice — Which Better Reduces Nighttime AFib Burden in Adults 64+ With Nocturnal Hypertension?",
+      "current_keyword": "vns vs tart cherry juice nocturnal afib",
+      "score": 42,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "blood pressure reduction nighttime adults 64+",
+      "rationale": "strengthened core medical topic; clarified search intent"
+    },
+    {
+      "slug": "the-truth-about-diabetic-friendly-holiday-candy-labels-why-92-of-these-products-still-trigger-reactive-hypoglycemia-in-adults-67-on-basal-insulin",
+      "title": "The Truth About ‘Diabetic-Friendly’ Holiday Candy Labels — Why 92% of These Products Still Trigger Reactive Hypoglycemia in Adults 67+ on Basal Insulin",
+      "current_keyword": "diabetic-friendly candy truth",
+      "score": 37,
+      "issues": [
+        "too_short",
+        "lacks_medical_topic",
+        "no_core_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "diabetes management holiday adults 67+",
+      "rationale": "Extended from 29 to 38 chars; strengthened core medical topic; clarified search intent"
+    },
+    {
+      "slug": "sulfonylurea-use-over-70-cyp2c9-decline",
+      "title": "5 Things Everyone Over 70 Should Know About Sulfonylurea Use — Especially If You’re Taking Gliclazide and Have Age-Related Decline in CYP2C9 and Renal Function",
+      "current_keyword": "sulfonylurea use over 70 cyp2c9 decline",
+      "score": 50,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "kidney health older adults health tips",
+      "rationale": "strengthened core medical topic"
+    },
+    {
+      "slug": "nighttime-cough-diabetic-autonomic-neuropathy",
+      "title": "How Persistent Nighttime Cough in Adults 69+ With Type 2 Diabetes and Mild Asthma May Signal Early Diabetic Autonomic Neuropathy — Not Just GERD or Postnasal Drip",
+      "current_keyword": "nighttime cough diabetic autonomic neuropathy",
+      "score": 50,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "diabetes warning signs nighttime adults 69+",
+      "rationale": "strengthened core medical topic"
+    },
+    {
+      "slug": "how-chronic-constipation-alters-vagal-tone-and-triggers-nocturnal-st-segment-variability-in-adults-61-with-known-vasovagal-syncope-history",
+      "title": "How Chronic Constipation Alters Vagal Tone and Triggers Nocturnal ST-Segment Variability in Adults 61+ With Known Vasovagal Syncope History",
+      "current_keyword": "constipation and nocturnal ST variability",
+      "score": 50,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "sleep chronic nighttime adults 61+",
+      "rationale": "strengthened core medical topic"
+    },
+    {
+      "slug": "gut-barrier-holiday-feasting",
+      "title": "Natural Ways to Maintain Gut Barrier Integrity *During* Holiday Feasting — Using L-Glutamine Timing, Fermented Beetroot, and Low-Heat Sauerkraut in Adults 62+ With Leaky Gut Markers",
+      "current_keyword": "gut barrier holiday feasting",
+      "score": 45,
+      "issues": [
+        "too_short",
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "gut health natural methods summer adults 62+",
+      "rationale": "Extended from 28 to 44 chars; strengthened core medical topic"
+    },
+    {
+      "slug": "gluten-free-stuffing-glycemic-impact",
+      "title": "The Truth About 'Gluten-Free' Stuffing Mixes Marketed to Seniors — Why 62% Contain Hidden Maltodextrin-Induced Glycemic Surges in Adults 67+ With Insulin Resistance",
+      "current_keyword": "gluten free stuffing glycemic impact",
+      "score": 50,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "diabetes management adults 67+",
+      "rationale": "strengthened core medical topic"
+    },
+    {
+      "slug": "cgm-accuracy-holiday-travel",
+      "title": "Why Your CGM Alarms Are Less Reliable During Holiday Travel — Sensor Accuracy Drift from Altitude, Humidity, and Checked-Luggage Temperature Swings in Adults 66+ With Frequent Air Travel",
+      "current_keyword": "cgm accuracy holiday travel",
+      "score": 45,
+      "issues": [
+        "too_short",
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "health holiday adults 66+ health tips",
+      "rationale": "Extended from 27 to 37 chars; strengthened core medical topic"
+    },
+    {
+      "slug": "7-hidden-stressors-that-elevate-nighttime-systolic-pressure-in-women-over-68-even-with-normal-daytime-readings",
+      "title": "7 Hidden Stressors That Elevate Nighttime Systolic Pressure in Women Over 68 — Even With Normal Daytime Readings",
+      "current_keyword": "nighttime systolic pressure women over 68",
+      "score": 50,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "blood pressure nighttime women 68+",
+      "rationale": "strengthened core medical topic"
+    },
+    {
+      "slug": "stairs-fitness-and-subclinical-ischemia",
+      "title": "Myths vs Facts: 'My Heart Is Strong Because I Climb Stairs Easily' — What Stress Echocardiography Reveals About Subclinical Ischemia in Adults 55–64 With Family History",
+      "current_keyword": "stairs fitness and subclinical ischemia",
+      "score": 42,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "heart health management older adults",
+      "rationale": "strengthened core medical topic; clarified search intent"
+    },
+    {
+      "slug": "reverse-early-diabetic-retinopathy-naturally",
+      "title": "Science-Backed Ways to Reverse Early Diabetic Retinopathy *Without* Laser or Anti-VEGF — Using Targeted Flavonoid Bioavailability and Retinal Capillary Pericyte Protection in Adults 58–67",
+      "current_keyword": "reverse early diabetic retinopathy naturally",
+      "score": 50,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "diabetes prevention older adults",
+      "rationale": "strengthened core medical topic"
+    },
+    {
+      "slug": "quick-ways-to-lower-systolic-pressure-within-90-minutes-using-guided-cold-face-immersion-isometric-handgrip-in-adults-60-66-with-acute-morning-surges",
+      "title": "Quick Ways to Lower Systolic Pressure Within 90 Minutes — Using Guided Cold-Face Immersion + Isometric Handgrip in Adults 60–66 With Acute Morning Surges",
+      "current_keyword": "lower systolic pressure within 90 minutes",
+      "score": 50,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "blood pressure reduction morning adults 60+",
+      "rationale": "strengthened core medical topic"
+    },
+    {
+      "slug": "how-chronic-holiday-social-isolation-alters-ventricular-repolarization-reserve-evidence-from-24-hour-qtc-monitoring-in-adults-69-living-alone",
+      "title": "How Chronic Holiday Social Isolation Alters Ventricular Repolarization Reserve — Evidence from 24-Hour QTc Monitoring in Adults 69+ Living Alone",
+      "current_keyword": "social isolation ventricular repolarization reserve",
+      "score": 37,
+      "issues": [
+        "slightly_too_long",
+        "lacks_medical_topic",
+        "no_core_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "heart health monitoring holiday adults 69+",
+      "rationale": "Shortened from 51 to 42 chars; strengthened core medical topic; clarified search intent"
+    },
+    {
+      "slug": "holiday-baking-sulfonylureas-safety",
+      "title": "The Complete Guide to Safe Holiday Baking With Sulfonylureas — Avoiding Hypoglycemia Triggers from Leavening Agents, Yeast Fermentation Byproducts, and Oven Heat Stress",
+      "current_keyword": "holiday baking sulfonylureas safety",
+      "score": 50,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "stress guide summer men health management",
+      "rationale": "strengthened core medical topic"
+    },
+    {
+      "slug": "breathing-techniques-for-left-atrial-pressure",
+      "title": "Best Breathing Techniques for Reducing Left Atrial Pressure *Without* Valsalva — Evidence-Based Paced Respiration Protocols for Adults 73+ With Paroxysmal AFib and Mild Pulmonary Hypertension",
+      "current_keyword": "breathing techniques for left atrial pressure",
+      "score": 50,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "blood pressure reduction adults over 73",
+      "rationale": "strengthened core medical topic"
+    },
+    {
+      "slug": "beta-cell-resilience-holiday-eating",
+      "title": "Natural Ways to Support Beta-Cell Resilience *During* High-Carb Holiday Eating — Using Polyphenol Timing, Cold Exposure Windows, and Breath-Hold Protocols in Adults 57–65 With Recent-Onset Type 2 Diabetes",
+      "current_keyword": "beta-cell resilience holiday eating",
+      "score": 50,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "diabetes natural methods winter older adults",
+      "rationale": "strengthened core medical topic"
+    },
+    {
+      "slug": "what-research-says-about-circadian-misalignment-and-myocardial-fibrosis-in-adults-59-67-with-shift-work-history-and-normal-ejection-fraction",
+      "title": "What Research Says About Circadian Misalignment and Myocardial Fibrosis in Adults 59–67 With Shift-Work History and Normal Ejection Fraction",
+      "current_keyword": "circadian misalignment and myocardial fibrosis",
+      "score": 50,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "heart health management older adults",
+      "rationale": "strengthened core medical topic"
+    },
+    {
+      "slug": "traffic-pollution-and-ventricular-repolarization",
+      "title": "How Living Near High-Traffic Urban Corridors Alters Autonomic Modulation of Ventricular Repolarization in Adults 57–65 With Borderline QTc Prolongation",
+      "current_keyword": "traffic pollution and ventricular repolarization",
+      "score": 42,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "heart health management older adults",
+      "rationale": "strengthened core medical topic; clarified search intent"
+    },
+    {
+      "slug": "the-truth-about-sugar-free-eggnog-labeled-keto-why-82-of-these-drinks-contain-maltitol-that-triggers-gastric-distress-in-adults-68-with-gastroparesis",
+      "title": "The Truth About 'Sugar-Free' Eggnog Labeled 'Keto' — Why 82% of These Drinks Contain Maltitol That Triggers Gastric Distress in Adults 68+ With Gastroparesis",
+      "current_keyword": "sugar-free eggnog gastroparesis risk",
+      "score": 50,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords"
+      ],
+      "suggested_keyword": "gut health management adults 68+",
+      "rationale": "strengthened core medical topic; improved specificity"
+    },
+    {
+      "slug": "how-long-term-use-of-proton-pump-inhibitors-alters-gut-microbiome-derived-tmao-production-and-coronary-plaque-burden-in-adults-65-with-stable-angina",
+      "title": "How Long-Term Use of Proton Pump Inhibitors Alters Gut Microbiome-Derived TMAO Production and Coronary Plaque Burden in Adults 65+ With Stable Angina",
+      "current_keyword": "pills and tmao coronary plaque",
+      "score": 42,
+      "issues": [
+        "lacks_medical_topic",
+        "no_core_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "gut health adults 65+ health tips",
+      "rationale": "strengthened core medical topic; clarified search intent"
+    }
+  ]
+}

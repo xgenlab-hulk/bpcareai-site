@@ -59,18 +59,18 @@ In short, your body is giving you kind, quiet feedback—not criticism. The goal
 
 ### FAQ
 
-#### #### What are the most common holiday medication routine failure signs for older adults?
+#### What are the most common holiday medication routine failure signs for older adults?
 
 The most telling signs include increased glucose swings (especially overnight lows), dropping time-in-range on CGM, unexplained fatigue or brain fog after meals, and a noticeable rise in fasting glucose despite unchanged A1C. These often appear 1–3 weeks into the holiday season—and are highly responsive to small, timely adjustments.
 
-#### #### Can holiday medication routine failure signs occur even if my A1C hasn’t changed?
+#### Can holiday medication routine failure signs occur even if my A1C hasn’t changed?
 
 Yes—absolutely. A1C measures average glucose over ~90 days and masks daily variability. You can have excellent A1C *and* worsening hypoglycemia, higher post-meal spikes, or rising insulin resistance (HOMA-IR). That’s why pairing A1C with CGM data or fingerstick trends gives a fuller, kinder picture of your health.
 
-#### #### How soon after the holidays should I check for holiday medication routine failure signs?
+#### How soon after the holidays should I check for holiday medication routine failure signs?
 
 Begin watching closely starting the week *before* major festivities—and continue for 2–3 weeks after. Most metabolic shifts become measurable within 10–14 days. A follow-up HOMA-IR test or CGM report 3 weeks post-holidays offers especially helpful insight.
 
-#### #### Does blood pressure play a role in holiday medication routine failure?
+#### Does blood pressure play a role in holiday medication routine failure?
 
 Yes—especially for adults over 55. Holiday stress, salt intake, and disrupted sleep can raise systolic BP by 10–15 mm Hg. Since many diabetes meds (like ACE inhibitors or SGLT2 inhibitors) also support heart and kidney health, rising BP (e.g., sustained >135/85 mm Hg) may signal that your overall regimen—including timing and dosing—is out of sync with seasonal demands.

@@ -96,22 +96,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What are the most common post-meal fatigue sleep apnea red flags I should watch for?
+#### What are the most common post-meal fatigue sleep apnea red flags I should watch for?
 
 The top three include: (1) predictable drowsiness 30–90 minutes after *any* meal—not just large or heavy ones; (2) accompanying symptoms like brain fog, shortness of breath while sitting, or sudden heart palpitations after eating; and (3) fatigue that doesn’t improve with hydration, light movement, or caffeine. When paired with known hypertension or loud snoring, these become higher-priority signals.
 
-#### #### Can post-meal fatigue sleep apnea red flags appear even if I’m already using CPAP?
+#### Can post-meal fatigue sleep apnea red flags appear even if I’m already using CPAP?
 
 Yes—absolutely. CPAP effectiveness can change over time due to weight fluctuations, aging airway anatomy, mask fit issues, or mask leaks. If your post-meal fatigue has worsened or become more consistent despite regular CPAP use, it’s a clear cue to review your therapy with your sleep specialist—not a sign that treatment “isn’t working.”
 
-#### #### Is post-meal fatigue linked to high blood pressure?
+#### Is post-meal fatigue linked to high blood pressure?
 
 Yes—indirectly but significantly. Poor sleep quality from untreated apnea contributes to endothelial dysfunction and sympathetic overactivity, which elevates arterial pressure. Then, after meals, the natural postprandial dip in BP can compound with underlying vascular stiffness, reducing cerebral perfusion and triggering fatigue. It’s a cycle—but one that responds well to integrated care.
 
-#### #### Does eating healthier during family gatherings really help with sleep apnea-related fatigue?
+#### Does eating healthier during family gatherings really help with sleep apnea-related fatigue?
 
 Yes—especially when focused on balance. Lower-glycemic meals (more non-starchy veggies, lean protein, healthy fats) reduce insulin surges and blunt post-meal blood flow shifts to the gut. One study found adults with sleep apnea who ate balanced meals reported 35% less afternoon fatigue versus those consuming high-carb, low-fiber meals—even without weight loss.
 
-#### #### How soon after a meal should I check my pulse oximeter for sleep apnea clues?
+#### How soon after a meal should I check my pulse oximeter for sleep apnea clues?
 
 For the most telling reading, check your SpO₂ at two points: once *just before* you start eating (baseline), and again *45 minutes after* your first bite. That window captures peak digestive demand and aligns with when oxygen desaturation effects often surface in people with nocturnal hypoxia.

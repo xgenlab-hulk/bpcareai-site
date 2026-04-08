@@ -94,22 +94,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Is leg swelling and heart failure symptoms after 50 always serious?
+#### Is leg swelling and heart failure symptoms after 50 always serious?
 
 Not always—but it’s always worth evaluating. Mild, occasional swelling after a long flight or a very salty meal is usually harmless. But *new*, *persistent*, or *progressive* swelling—especially with fatigue, breathlessness, or weight gain—deserves medical review to rule out heart-related causes.
 
-#### #### What’s the difference between leg swelling from heart failure and swelling from varicose veins?
+#### What’s the difference between leg swelling from heart failure and swelling from varicose veins?
 
 Heart-related swelling tends to be symmetrical (both legs), worse at the end of the day, and improves with overnight rest or leg elevation. It’s often accompanied by other signs like shortness of breath or fatigue. Varicose-related swelling is typically milder, localized near visible veins, and may feel achy or heavy—but rarely causes systemic symptoms.
 
-#### #### Can high blood pressure cause leg swelling and heart failure symptoms after 50?
+#### Can high blood pressure cause leg swelling and heart failure symptoms after 50?
 
 Yes—chronic high blood pressure (hypertension) is one of the most common contributors to heart failure later in life. Over time, elevated arterial pressure forces the heart to work harder, leading to thickening of the heart muscle (left ventricular hypertrophy) and eventually reduced pumping efficiency—which can result in fluid buildup and leg swelling.
 
-#### #### Are there blood tests that check for heart-related swelling?
+#### Are there blood tests that check for heart-related swelling?
 
 No single blood test diagnoses swelling—but labs like BNP (B-type natriuretic peptide) or NT-proBNP are often used to assess heart strain and help confirm or rule out heart failure as a cause of edema. Your doctor may also check kidney function (creatinine, eGFR), electrolytes, and liver enzymes—since multiple systems interact in fluid balance.
 
-#### #### Does walking help reduce leg swelling related to heart health?
+#### Does walking help reduce leg swelling related to heart health?
 
 Yes—regular, moderate walking supports circulation, activates the calf-muscle pump, and helps your body regulate fluid more effectively. Just be sure to wear supportive footwear and stop if you feel chest pressure, dizziness, or unusual shortness of breath.

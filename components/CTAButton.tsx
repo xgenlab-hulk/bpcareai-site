@@ -26,7 +26,7 @@ export default function CTAButton({
   const baseClasses = `inline-flex items-center justify-center rounded-full font-semibold transition-all duration-200 hover:shadow-lg whitespace-nowrap ${sizeClasses}`;
 
   const variantClasses = {
-    primary: 'bg-gradient-to-r from-brand-blue to-brand-purple text-white hover:scale-105',
+    primary: 'bg-gray-900 text-white hover:bg-gray-800 hover:scale-105',
     secondary: 'bg-white text-brand-blue-dark border-2 border-brand-blue hover:bg-brand-blue/5',
     accent: 'bg-gradient-to-r from-red-500 to-red-600 text-white hover:scale-105 hover:from-red-600 hover:to-red-700',
   };

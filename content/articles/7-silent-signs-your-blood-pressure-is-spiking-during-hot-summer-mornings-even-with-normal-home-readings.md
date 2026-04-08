@@ -61,17 +61,17 @@ It’s completely understandable to feel puzzled when your numbers look fine but
 
 ### FAQ  
 
-#### #### What are silent blood pressure spikes summer mornings — and why don’t my home readings catch them?  
+#### What are silent blood pressure spikes summer mornings — and why don’t my home readings catch them?  
 These are brief, heat-triggered rises in systolic pressure (often 160–180 mm Hg) that occur in early-morning hours, especially during hot weather. Home monitors usually capture only one static moment — but these spikes are fleeting and posture- or activity-dependent, so they’re missed unless you check at just the right time and position.
 
-#### #### Can silent blood pressure spikes summer mornings increase stroke risk?  
+#### Can silent blood pressure spikes summer mornings increase stroke risk?  
 Yes — research links frequent morning systolic surges (>20 mm Hg above baseline) with a 1.7x higher risk of ischemic stroke in adults 65+, likely due to increased shear stress on stiffened carotid and cerebral arteries.
 
-#### #### Are silent blood pressure spikes summer mornings more common in men or women over 65?  
+#### Are silent blood pressure spikes summer mornings more common in men or women over 65?  
 Studies suggest women over 65 experience them more frequently — possibly due to steeper age-related declines in vascular elasticity and autonomic responsiveness during thermal stress.
 
-#### #### Does drinking coffee in the morning worsen silent blood pressure spikes summer mornings?  
+#### Does drinking coffee in the morning worsen silent blood pressure spikes summer mornings?  
 Caffeine can add ~5–10 mm Hg to systolic pressure for 2–3 hours — enough to tip a borderline surge into a clinically relevant one on hot days. Try switching to decaf until late morning if you notice symptoms.
 
-#### #### What’s the best time to take blood pressure if I suspect silent blood pressure spikes summer mornings?  
+#### What’s the best time to take blood pressure if I suspect silent blood pressure spikes summer mornings?  
 Take readings at three points: (1) immediately after waking (still lying down), (2) 2 minutes after standing, and (3) 5 minutes after light activity (e.g., walking to the kitchen). Note room temperature and whether you’ve had caffeine or water.

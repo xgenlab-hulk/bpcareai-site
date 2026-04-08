@@ -77,22 +77,22 @@ Managing hypertension during the holidays doesn’t mean giving up joy at the ta
 
 ### FAQ
 
-#### #### Do salt substitutes really taste different for seniors with hypertension?
+#### Do salt substitutes really taste different for seniors with hypertension?
 
 Yes—especially for adults 74+, whose salt taste receptors decline significantly with age. Potassium chloride–based substitutes often register as bitter or metallic due to heightened sensitivity in remaining bitter-taste pathways. This makes adherence harder, not because of willpower, but biology. Working with a dietitian to tailor flavor strategies improves both enjoyment and BP outcomes.
 
-#### #### What are the safest salt substitutes for seniors with hypertension and taste changes?
+#### What are the safest salt substitutes for seniors with hypertension and taste changes?
 
 The safest options prioritize *palatability first*: umami-rich blends (mushroom + garlic + nutritional yeast), zinc-supportive herbs (thyme, rosemary), and low-potassium alternatives like lemon zest or smoked paprika. Avoid high-potassium substitutes if you have CKD or take certain BP medications—always discuss options with your healthcare team.
 
-#### #### How can I improve salt substitutes taste perception seniors hypertension during holiday meals?
+#### How can I improve salt substitutes taste perception seniors hypertension during holiday meals?
 
 Start small: add a pinch of toasted sesame seeds to green beans, simmer gravy with dried shiitakes, or finish roasted sweet potatoes with a splash of balsamic and crushed walnuts. These enhance savory depth without sodium spikes—and research shows such sensory layering improves long-term adherence by up to 35% in adults over 70.
 
-#### #### Are there natural ways to restore taste sensitivity in seniors with hypertension?
+#### Are there natural ways to restore taste sensitivity in seniors with hypertension?
 
 While taste bud regeneration slows with age, optimizing zinc and B12 status, staying hydrated, and avoiding smoking or excessive alcohol can support existing function. Some studies show improved salty taste recognition within 8–12 weeks of consistent zinc supplementation (under medical guidance)—especially when paired with umami-rich meals.
 
-#### #### Can holiday stress affect how salt substitutes taste to seniors with hypertension?
+#### Can holiday stress affect how salt substitutes taste to seniors with hypertension?
 
 Absolutely. Stress elevates cortisol, which can temporarily blunt taste sensitivity—especially for salt and sweet—and may increase cravings for highly processed, high-sodium comfort foods. Gentle movement, mindful breathing before meals, and sharing cooking tasks can ease this effect and restore sensory presence at the table.

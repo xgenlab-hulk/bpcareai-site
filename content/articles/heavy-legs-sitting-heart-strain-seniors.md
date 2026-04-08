@@ -95,17 +95,17 @@ Feeling “heavy legs” after sitting doesn’t mean your heart is failing—or
 
 ### FAQ  
 
-#### #### Why do my legs feel heavy after sitting for a long time—could it be heart-related?  
+#### Why do my legs feel heavy after sitting for a long time—could it be heart-related?  
 Yes—it *can* be heart-related, especially after age 60. While often tied to venous pooling or stiffness, persistent heaviness may reflect early right heart strain, particularly if paired with breathlessness, fatigue, or slow-to-resolve swelling. It’s rarely urgent—but worth discussing with your provider.
 
-#### #### Is heavy legs sitting heart strain seniors a sign of DVT?  
+#### Is heavy legs sitting heart strain seniors a sign of DVT?  
 Not necessarily—but it’s important to know the difference. DVT usually causes *one-sided* swelling, warmth, redness, and tenderness—not just generalized heaviness. If you notice sudden asymmetry, pain with calf squeeze (Homan’s sign), or fever, seek medical evaluation promptly.
 
-#### #### Can high blood pressure cause heavy legs when sitting?  
+#### Can high blood pressure cause heavy legs when sitting?  
 Indirectly, yes. Chronic high BP contributes to arterial *and* venous stiffness over time. It also increases afterload on the right heart, potentially reducing its efficiency in handling venous return—making that “heavy legs sitting heart strain seniors” feeling more likely, especially with prolonged immobility.
 
-#### #### Does walking help heavy legs after sitting—and how much is enough?  
+#### Does walking help heavy legs after sitting—and how much is enough?  
 Absolutely. Just 2–3 minutes of gentle walking or calf raises every hour significantly improves venous return. In studies, adults who walked for 2 minutes hourly saw a 37% reduction in post-sitting leg heaviness over 6 weeks.
 
-#### #### Are compression socks helpful for heavy legs in seniors?  
+#### Are compression socks helpful for heavy legs in seniors?  
 They can be—but only if fitted properly and recommended by your clinician. Poorly sized or overly tight stockings may restrict flow or worsen discomfort. For most low-risk seniors, movement and elevation remain first-line strategies; compression is best considered when swelling or diagnosed venous insufficiency is present.

@@ -54,17 +54,17 @@ In short: both techniques support heart health, but *when* you do them shapes *h
 
 ### FAQ
 
-#### #### Is cold face immersion vs vagus humming hrvar equally safe for people over 70?
+#### Is cold face immersion vs vagus humming hrvar equally safe for people over 70?
 Yes — *with modifications*. For cold face immersion, use cool (not icy) water and limit to 2–3 minutes if you have known carotid sinus sensitivity. For humming, keep volume low and stop if you feel lightheaded. Always prioritize comfort over duration.
 
-#### #### Does cold face immersion vs vagus humming hrvar affect blood pressure differently?
+#### Does cold face immersion vs vagus humming hrvar affect blood pressure differently?
 Yes. Cold face immersion may cause a brief (1–2 min), mild rise in systolic BP due to peripheral vasoconstriction — followed by a more sustained drop as vagal tone increases. Humming tends to promote gradual, gentle BP reduction over 60–90 minutes, especially in those with stage 1 hypertension.
 
-#### #### Can I combine cold face immersion and vagus humming in one day?
+#### Can I combine cold face immersion and vagus humming in one day?
 Yes — and many find synergy. Try cold immersion in the morning *and* humming in the evening. Avoid doing both within 2 hours of each other, as overlapping vagal activation may blunt adaptation over time.
 
-#### #### What’s the best HRV metric to track for heart health after 60?
+#### What’s the best HRV metric to track for heart health after 60?
 RMSSD is most responsive to parasympathetic shifts (great for daily tracking), while SDNN reflects overall autonomic resilience — and correlates strongly with cardiovascular outcomes in aging populations. Track both weekly.
 
-#### #### Do I need special equipment for cold face immersion vs vagus humming hrvar?
+#### Do I need special equipment for cold face immersion vs vagus humming hrvar?
 No. A clean washcloth, cool tap water, and a quiet space are all you need. No apps, subscriptions, or biofeedback devices required — though validated HRV trackers (ECG-based) can deepen insight over time.

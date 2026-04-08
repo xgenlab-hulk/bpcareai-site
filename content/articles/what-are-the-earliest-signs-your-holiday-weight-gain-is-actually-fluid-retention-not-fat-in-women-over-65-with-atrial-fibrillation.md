@@ -71,17 +71,17 @@ It’s completely okay — and very common — to wonder whether your holiday we
 
 ### FAQ  
 
-#### #### Could holiday weight gain fluid retention afib seniors be mistaken for normal aging?  
+#### Could holiday weight gain fluid retention afib seniors be mistaken for normal aging?  
 Yes — many assume puffiness or slow weight gain is “just part of getting older.” But sudden swelling, rapid weight shifts, or breathing changes aren’t typical aging signs; they’re signals your heart-kidney system is adapting. Early recognition helps preserve function.
 
-#### #### How is holiday weight gain fluid retention afib seniors different from regular weight gain?  
+#### How is holiday weight gain fluid retention afib seniors different from regular weight gain?  
 Fluid retention tends to appear in under 72 hours, causes pitting edema and orthopnea, and often reverses with small lifestyle tweaks or medication adjustment. Fat gain occurs gradually (weeks to months), doesn’t cause breathing changes, and isn’t affected by overnight leg elevation.
 
-#### #### What foods should seniors with AFib avoid during holidays to reduce fluid retention?  
+#### What foods should seniors with AFib avoid during holidays to reduce fluid retention?  
 Limit highly processed items — think deli meats, canned soups, frozen dinners, and salty snacks — which often contain 800–1,200 mg sodium per serving. Aim for <1,500 mg/day total. Focus on fresh vegetables, lean proteins, and whole grains seasoned with herbs instead of salt.
 
-#### #### Does cold weather make holiday weight gain fluid retention afib seniors worse?  
+#### Does cold weather make holiday weight gain fluid retention afib seniors worse?  
 Cold can cause peripheral vasoconstriction, redirecting fluid toward the core and increasing cardiac filling pressures — especially in AFib. Staying warmly dressed and maintaining light movement indoors helps support balanced circulation.
 
-#### #### Can healthy holiday eating for seniors really make a difference in fluid control?  
+#### Can healthy holiday eating for seniors really make a difference in fluid control?  
 Absolutely. Studies show that reducing sodium by just 500–1,000 mg/day lowers systolic BP by 2–4 mm Hg and reduces fluid retention episodes by ~20% in older adults with AFib — all without eliminating festive flavors.

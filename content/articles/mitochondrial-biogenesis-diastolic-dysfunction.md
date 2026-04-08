@@ -46,22 +46,22 @@ In conclusion, supporting mitochondrial health isn’t about dramatic overhauls�
 
 ### FAQ
 
-#### #### Can mitochondrial biogenesis diastolic dysfunction be reversed with lifestyle changes alone?
+#### Can mitochondrial biogenesis diastolic dysfunction be reversed with lifestyle changes alone?
 
 While complete reversal depends on individual factors like duration and severity, multiple studies report measurable improvements in diastolic function parameters (e.g., 12–15% improvement in e’ velocity) after 12 weeks of combined time-restricted feeding and aerobic activity in adults 60+.
 
-#### #### What’s the best time window for eating to support mitochondrial biogenesis diastolic dysfunction?
+#### What’s the best time window for eating to support mitochondrial biogenesis diastolic dysfunction?
 
 A 10-hour window—such as 7 a.m. to 5 p.m.—has shown the strongest adherence and metabolic benefits in older adults. Shorter windows (e.g., 8 hours) may increase risk of muscle loss or hypoglycemia in this age group unless medically supervised.
 
-#### #### Does walking after dinner really help the heart—or is it just for digestion?
+#### Does walking after dinner really help the heart—or is it just for digestion?
 
 Yes—post-dinner walking stimulates AMPK activation, which directly upregulates PGC-1α and enhances mitochondrial quality control. In one trial, older adults who walked 15 minutes after dinner showed a 19% increase in circulating TFAM mRNA levels after 8 weeks.
 
-#### #### Is mitochondrial biogenesis diastolic dysfunction linked to high blood pressure?
+#### Is mitochondrial biogenesis diastolic dysfunction linked to high blood pressure?
 
 Strongly. Hypertension accelerates mitochondrial oxidative damage in cardiomyocytes, and impaired biogenesis reduces the heart’s ability to handle increased afterload—creating a feedback loop. Controlling arterial pressure helps break this cycle.
 
-#### #### Can supplements like CoQ10 or PQQ support mitochondrial biogenesis in diastolic dysfunction?
+#### Can supplements like CoQ10 or PQQ support mitochondrial biogenesis in diastolic dysfunction?
 
 Some small trials show modest benefits, but current evidence does not support routine supplementation over foundational habits like circadian eating and movement—especially given limited safety data in polypharmacy scenarios common in adults over 65.

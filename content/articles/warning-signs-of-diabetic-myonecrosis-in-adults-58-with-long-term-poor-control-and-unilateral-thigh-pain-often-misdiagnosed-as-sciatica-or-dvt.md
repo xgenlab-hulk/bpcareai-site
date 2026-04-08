@@ -102,22 +102,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What are the earliest diabetic myonecrosis thigh pain warning signs?
+#### What are the earliest diabetic myonecrosis thigh pain warning signs?
 
 The earliest signs include deep, persistent, one-sided thigh pain that begins without injury—often described as “aching,” “heavy,” or “tight.” There’s usually no swelling, redness, or fever. Pain may worsen with activity but doesn’t improve with typical muscle remedies (ice, NSAIDs, stretching) after 3–4 days.
 
-#### #### Can diabetic myonecrosis be mistaken for sciatica—and how do I tell the difference?
+#### Can diabetic myonecrosis be mistaken for sciatica—and how do I tell the difference?
 
 Yes—very often. Sciatica typically causes sharp, shooting pain that travels *down the back of the leg*, often into the foot, and may come with numbness or tingling. Diabetic myonecrosis pain stays *localized to the thigh*, doesn’t radiate, and isn’t linked to spine movement (e.g., bending or coughing doesn’t worsen it). Also, sciatica rarely occurs without some back discomfort—whereas myonecrosis does.
 
-#### #### Are diabetic myonecrosis thigh pain warning signs different in men vs. women?
+#### Are diabetic myonecrosis thigh pain warning signs different in men vs. women?
 
 No major gender differences have been reported in studies. Both men and women over 58 with long-standing diabetes show similar patterns: unilateral thigh involvement, slow progression over days, and MRI findings of focal muscle necrosis without mass effect. However, women may delay seeking care longer due to attributing pain to arthritis or “normal aging.”
 
-#### #### Does diabetic myonecrosis cause high blood pressure?
+#### Does diabetic myonecrosis cause high blood pressure?
 
 Not directly—but it often occurs in people who *already* have hypertension (up to 85% in published case series). High BP and high blood sugar together accelerate small-vessel damage. So while the condition itself doesn’t raise BP, managing both is essential for recovery and prevention.
 
-#### #### Is diabetic myonecrosis life-threatening?
+#### Is diabetic myonecrosis life-threatening?
 
 No—it’s not immediately life-threatening like a heart attack or stroke. But untreated or recurrent episodes can lead to significant muscle loss, reduced mobility, and increased fall risk in older adults. That’s why timely diagnosis matters—not for emergency survival, but for long-term independence and quality of life.

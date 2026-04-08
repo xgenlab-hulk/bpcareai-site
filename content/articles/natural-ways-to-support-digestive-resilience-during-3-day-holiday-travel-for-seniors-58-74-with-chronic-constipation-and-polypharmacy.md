@@ -58,22 +58,22 @@ In all this, remember: building digestive resilience during holiday travel senio
 
 ### FAQ
 
-#### #### What are the best natural ways to support digestive resilience during holiday travel seniors?
+#### What are the best natural ways to support digestive resilience during holiday travel seniors?
 
 The most effective strategies include pairing soluble fiber with warm fluids at breakfast, anchoring meals to your natural circadian rhythm (largest meal at noon, lighter dinner by 7 p.m.), and incorporating gentle movement after meals—even seated options. These approaches work *with* your physiology, not against it.
 
-#### #### How does polypharmacy affect digestive resilience during holiday travel seniors?
+#### How does polypharmacy affect digestive resilience during holiday travel seniors?
 
 Many commonly prescribed medications—including certain antihypertensives (e.g., verapamil), antidepressants (e.g., amitriptyline), and iron supplements—can slow intestinal motility or alter fluid balance. That’s why non-pharmacologic rhythm-supporting habits become especially valuable during travel disruptions.
 
-#### #### Can dehydration worsen constipation during holiday travel for seniors?
+#### Can dehydration worsen constipation during holiday travel for seniors?
 
 Yes—absolutely. Older adults often have a blunted thirst response, and travel (especially flights) increases insensible water loss. Even mild dehydration (as little as 2% body weight loss) reduces colonic water absorption and stiffens stool. Sipping warm fluids consistently—not just when thirsty—is a key pillar of digestive resilience during holiday travel seniors.
 
-#### #### Is it safe to use prune juice or magnesium citrate while traveling?
+#### Is it safe to use prune juice or magnesium citrate while traveling?
 
 Prune juice (½ cup daily) is generally safe and evidence-supported for mild constipation—but monitor for bloating or diarrhea, especially with other fiber or medications. Magnesium citrate is an osmotic laxative and should be used cautiously in seniors with kidney concerns or on certain heart medications—always consult your doctor first.
 
-#### #### How long does it take to rebuild digestive rhythm after returning home?
+#### How long does it take to rebuild digestive rhythm after returning home?
 
 Most people notice improvement within 2–4 days of resuming consistent sleep, meals, and movement. Patience matters—your gut microbiome and motilin cycles respond gently to routine, not urgency.

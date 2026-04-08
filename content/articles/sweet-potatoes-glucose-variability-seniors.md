@@ -62,22 +62,22 @@ In summary, small shifts in food preparation—especially around familiar holida
 
 ### FAQ
 
-#### #### Does roasting sweet potatoes lower their glycemic index for seniors?
+#### Does roasting sweet potatoes lower their glycemic index for seniors?
 
 Yes. Slow roasting preserves resistant starch and fiber structure, lowering the glycemic index from ~70 (instant mashed + marshmallows) to ~44–48. This translates to slower digestion and gentler glucose curves—particularly helpful for seniors with prediabetes.
 
-#### #### How does sweet potatoes glucose variability seniors compare to white potatoes?
+#### How does sweet potatoes glucose variability seniors compare to white potatoes?
 
 Sweet potatoes generally show lower *sweet potatoes glucose variability seniors* than white potatoes—especially when roasted—due to higher fiber, vitamin A, and polyphenol content. However, preparation matters more than the base ingredient: roasted white potatoes still outperform marshmallow-topped sweet potatoes in CGM stability.
 
-#### #### Can cinnamon alone reduce post-meal glucose spikes in older adults?
+#### Can cinnamon alone reduce post-meal glucose spikes in older adults?
 
 Clinical studies suggest 1–2 g of ground cinnamon per day may modestly improve insulin sensitivity, but effects are most pronounced when combined with whole-food preparation and portion control—not as a standalone fix for high-sugar dishes.
 
-#### #### Is instant mashed sweet potato safe for prediabetes?
+#### Is instant mashed sweet potato safe for prediabetes?
 
 It can be—when portion-controlled (¼ cup), unsweetened, and paired with protein/fat—but most commercial varieties contain added sugars, maltodextrin, or dextrose. Always check labels; opt for frozen or fresh pureed versions without additives.
 
-#### #### Why do seniors experience bigger glucose swings after holiday meals?
+#### Why do seniors experience bigger glucose swings after holiday meals?
 
 Aging reduces insulin secretion capacity, slows gastric motility, and alters gut hormone signaling (e.g., GLP-1 and GIP). Combined with higher-fat, higher-sugar holiday foods—and often reduced physical activity—this creates ideal conditions for exaggerated postprandial glucose variability.

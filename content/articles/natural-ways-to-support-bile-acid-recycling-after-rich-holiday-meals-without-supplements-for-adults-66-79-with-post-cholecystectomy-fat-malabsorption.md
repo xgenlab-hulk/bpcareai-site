@@ -56,22 +56,22 @@ In summary, supporting **bile acid recycling after gallbladder removal** is both
 
 ### FAQ
 
-#### #### How does bile acid recycling after gallbladder removal affect digestion in seniors?
+#### How does bile acid recycling after gallbladder removal affect digestion in seniors?
 
 Bile acid recycling after gallbladder removal becomes less efficient with age due to slower intestinal motility and reduced liver synthesis capacity. In adults 66–79, this can contribute to fat malabsorption, especially after larger or richer meals—making dietary timing and fiber quality especially impactful.
 
-#### #### Can I improve bile acid recycling after gallbladder removal without supplements?
+#### Can I improve bile acid recycling after gallbladder removal without supplements?
 
 Yes—many people see meaningful improvement by adjusting meal timing, adding bitter greens, increasing soluble fiber *with meals*, and incorporating gentle post-meal movement. Clinical trials show non-supplement strategies improve stool consistency in 60–70% of older adults with mild fat malabsorption.
 
-#### #### What foods best support bile acid recycling after gallbladder removal?
+#### What foods best support bile acid recycling after gallbladder removal?
 
 Top evidence-supported options include roasted fennel (rich in soluble fiber and anethole), turkey giblet broth (gentle, nutrient-dense, low-fat), arugula and dandelion greens (bitter compounds stimulate bile flow), and chia or ground flaxseed (when taken 10–15 min before meals).
 
-#### #### Is walking helpful for bile acid recycling after gallbladder removal?
+#### Is walking helpful for bile acid recycling after gallbladder removal?
 
 Yes—studies show that 10–12 minutes of walking within 30 minutes of eating enhances splanchnic circulation and supports ileal bile acid reabsorption. It’s one of the most accessible, low-risk interventions for adults 66–79.
 
-#### #### Does holiday eating worsen bile acid recycling after gallbladder removal?
+#### Does holiday eating worsen bile acid recycling after gallbladder removal?
 
 Rich, high-fat holiday meals can temporarily overwhelm the continuous bile flow pattern post-cholecystectomy—especially when combined with reduced activity and irregular timing. Planning ahead with broth-based starters, bitter greens, and structured movement helps maintain balance without restriction.

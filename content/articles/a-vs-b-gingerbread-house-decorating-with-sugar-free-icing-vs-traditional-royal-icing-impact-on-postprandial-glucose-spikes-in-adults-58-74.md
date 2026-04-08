@@ -70,22 +70,22 @@ Holidays are meant to be shared, joyful, and grounded in connection—not anxiet
 
 ### FAQ
 
-#### #### Does sugar-free icing really lower blood sugar during gingerbread house decorating?
+#### Does sugar-free icing really lower blood sugar during gingerbread house decorating?
 
 Yes—based on CGM data from adults 58–74, sugar-free icing led to significantly smaller postprandial glucose spikes (average +22 mg/dL vs. +48 mg/dL with traditional icing). However, individual responses vary, and sugar-free doesn’t guarantee zero impact—especially if other high-carb elements (e.g., candy decorations, sweetened milk) are involved.
 
-#### #### How does gingerbread house blood sugar comparison relate to blood pressure management?
+#### How does gingerbread house blood sugar comparison relate to blood pressure management?
 
 Postprandial hyperglycemia triggers inflammation and oxidative stress, contributing to arterial stiffness and endothelial dysfunction—both precursors to elevated blood pressure. In the study, participants with larger glucose excursions also showed greater short-term BP variability, suggesting shared physiological pathways. Managing glucose supports vascular health holistically.
 
-#### #### Is gingerbread house blood sugar comparison relevant for people with prediabetes?
+#### Is gingerbread house blood sugar comparison relevant for people with prediabetes?
 
 Absolutely. Prediabetes often presents with exaggerated postprandial glucose spikes—even before fasting levels rise. The *gingerbread house blood sugar comparison* offers a low-stakes, real-world way to observe how specific foods affect your body, helping identify patterns before they progress.
 
-#### #### Can stress during holiday activities affect my glucose reading more than the icing itself?
+#### Can stress during holiday activities affect my glucose reading more than the icing itself?
 
 Yes. Acute psychological stress increases catecholamines and cortisol, which stimulate liver glucose production and reduce insulin sensitivity. In the study, 31% of participants had higher-than-expected spikes on days with reported time pressure or multitasking—even when using sugar-free icing—highlighting the importance of pacing and presence.
 
-#### #### Do I need a CGM to understand my gingerbread house blood sugar response?
+#### Do I need a CGM to understand my gingerbread house blood sugar response?
 
 No—but it’s the most accurate method available outside a lab. For most adults, consistent fingerstick testing (fasting, then 1 and 2 hours after finishing) provides useful directional insight. Pair it with notes on mood, activity, and what else you ate to build a clearer personal picture.

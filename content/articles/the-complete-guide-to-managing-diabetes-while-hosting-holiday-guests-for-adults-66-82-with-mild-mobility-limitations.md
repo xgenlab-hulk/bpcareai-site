@@ -52,17 +52,17 @@ You don’t have to choose between being a gracious host and caring for yourself
 
 ### FAQ
 
-#### #### How can I manage diabetes while hosting holiday guests elderly without feeling overwhelmed?
+#### How can I manage diabetes while hosting holiday guests elderly without feeling overwhelmed?
 Start with one or two changes—like preparing one dish ahead or inviting a guest to help set the table. Prioritize rest, keep snacks nearby, and trust that your calm presence matters more than perfect timing. You’re not alone: 78% of adults 65+ say simple adaptations made their holiday hosting feel joyful *and* safe.
 
-#### #### What are safe, low-effort food ideas for diabetes management hosting holiday guests elderly?
+#### What are safe, low-effort food ideas for diabetes management hosting holiday guests elderly?
 Focus on protein, fiber, and healthy fats: baked salmon with lemon-dill green beans, lentil-stuffed bell peppers, Greek yogurt dip with cucumber and cherry tomatoes. Pre-portion servings to avoid overeating—and use high-back chairs or seated prep stations to reduce strain.
 
-#### #### How do I politely ask for help with diabetes management hosting holiday guests elderly?
+#### How do I politely ask for help with diabetes management hosting holiday guests elderly?
 Try warm, direct language: *“I’m pacing myself this year—I’d love your company while I rest for 15 minutes after lunch,”* or *“Could you help me carry in the dessert tray? My knees appreciate the support.”* Framing requests around shared enjoyment (“Let’s enjoy this together”) keeps it light and inclusive.
 
-#### #### Should I adjust my diabetes meds during the holidays?
+#### Should I adjust my diabetes meds during the holidays?
 Never change doses or timing without consulting your doctor or pharmacist first. Stress, travel, or altered sleep can affect blood sugar—but your care team can help you create a personalized holiday plan ahead of time.
 
-#### #### Is it okay to decline certain holiday foods while hosting?
+#### Is it okay to decline certain holiday foods while hosting?
 Absolutely—and it’s an act of self-respect. Say, *“This apple crisp looks wonderful—I’ll savor a small portion later,”* or simply enjoy non-food joys: music, conversation, lighting candles. Your guests will follow your lead with kindness.

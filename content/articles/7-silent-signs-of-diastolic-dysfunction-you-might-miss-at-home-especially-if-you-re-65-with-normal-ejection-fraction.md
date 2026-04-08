@@ -108,17 +108,17 @@ Diastolic dysfunction isn’t a diagnosis of doom — it’s a signal your heart
 
 ### FAQ
 
-#### #### What are the silent signs diastolic dysfunction seniors should watch for?
+#### What are the silent signs diastolic dysfunction seniors should watch for?
 The most common overlooked signs include unexplained fatigue despite adequate sleep, needing extra pillows to breathe comfortably at night, a dry cough that wakes you in early morning hours, feeling short of breath while doing light activities like dressing or bending, subtle swelling in the feet or shins by evening, a heart rate that stays elevated longer than usual after walking, and afternoon “brain fog” not explained by other causes.
 
-#### #### Can silent signs diastolic dysfunction seniors appear even with normal blood pressure?
+#### Can silent signs diastolic dysfunction seniors appear even with normal blood pressure?
 Yes — absolutely. While high blood pressure is the top risk factor, diastolic dysfunction can develop in people with *controlled* or even borderline-normal BP (e.g., 128/78 mm Hg) over decades. Stiffening of the heart muscle relates more to cumulative exposure, vascular health, and metabolic factors like insulin resistance than a single reading.
 
-#### #### How is silent signs diastolic dysfunction seniors different from systolic heart failure?
+#### How is silent signs diastolic dysfunction seniors different from systolic heart failure?
 Systolic heart failure involves weakened pumping (low ejection fraction <40%), causing obvious symptoms like severe fatigue and swelling. Diastolic dysfunction involves *stiffness*, not weakness — so EF stays normal (≥50%), but the heart struggles to fill. Symptoms are subtler and often misattributed to aging, lung disease, or anxiety.
 
-#### #### Can diet and exercise really improve diastolic function?
+#### Can diet and exercise really improve diastolic function?
 Yes — studies show that losing just 5–10% of body weight (if overweight), reducing sodium, exercising regularly, and managing blood sugar can improve diastolic relaxation scores on echo within 6–12 months. These changes reduce myocardial fibrosis and improve calcium handling in heart cells.
 
-#### #### Is there a home test for diastolic dysfunction?
+#### Is there a home test for diastolic dysfunction?
 No single home test exists — but tracking symptoms, weight, BP trends, orthopnea, and activity tolerance provides powerful clues. An echocardiogram remains the gold standard for diagnosis, but your observations help your doctor decide *when* and *how urgently* to order one.

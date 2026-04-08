@@ -45,17 +45,17 @@ Managing diabetes while caring for a spouse with dementia is among the most comp
 
 ### FAQ
 
-#### #### How can I tell if my spouse with dementia is having low blood sugar—or just dementia symptoms?
+#### How can I tell if my spouse with dementia is having low blood sugar—or just dementia symptoms?
 Low blood sugar in dementia can look like sudden irritability, slurred speech, sweating, or staring blankly—often mistaken for worsening cognition. Check their blood sugar *immediately* if these appear abruptly, especially before meals or after activity. Treat with 15g fast-acting glucose (4 oz juice or 3–4 glucose tablets), then recheck in 15 minutes.
 
-#### #### What are the biggest medication risks for a diabetes management dementia caregiver?
+#### What are the biggest medication risks for a diabetes management dementia caregiver?
 The top risks include double-dosing insulin (due to memory lapses), skipping your own doses while focused on your spouse, and mixing up similar-looking pills (e.g., glipizide vs. gabapentin). Using two separate, labeled organizers—and involving a pharmacist in an annual “medication reconciliation”—reduces risk significantly.
 
-#### #### How do I handle holiday diabetes management when my spouse has dementia?
+#### How do I handle holiday diabetes management when my spouse has dementia?
 Holiday diabetes management becomes more manageable with planning: pre-portion desserts, keep healthy snacks visible, and assign one trusted family member to support meal timing for *both* of you. Avoid skipping meals to “save calories” for later—this increases hypoglycemia risk. Stick to your usual insulin schedule—even during travel or gatherings.
 
-#### #### Can dementia cause blood sugar to rise—even without eating more?
+#### Can dementia cause blood sugar to rise—even without eating more?
 Yes—stress, infection, sleep disruption, or even chronic pain linked to dementia can trigger hormonal shifts (like increased cortisol) that raise blood sugar. Unexplained highs may signal an underlying issue like a UTI or dehydration—so check for fever, cloudy urine, or dry mouth, and contact your provider if patterns persist.
 
-#### #### Where can I find caregiver support specifically for diabetes management dementia caregiver situations?
+#### Where can I find caregiver support specifically for diabetes management dementia caregiver situations?
 Many Area Agencies on Aging offer free caregiver coaching, and the National Institute on Aging (nia.nih.gov) and American Diabetes Association (diabetes.org/caregiver) provide tailored toolkits—including printable medication trackers, emergency contact sheets, and dementia-friendly meal ideas.

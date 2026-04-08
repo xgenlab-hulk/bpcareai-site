@@ -95,17 +95,17 @@ Starting a walking group at 63+ is a beautiful act of self-care — and with tho
 
 ### FAQ  
 
-#### #### Can walking affect my diabetes medication if I have CKD?  
+#### Can walking affect my diabetes medication if I have CKD?  
 Yes — especially medications cleared by the kidneys (like SGLT2 inhibitors or metformin) or those affecting fluid/electrolytes (like diuretics). Mild CKD slows drug clearance, and walking adds fluid shifts and modest changes in kidney blood flow. That’s why reviewing timing and dosing *before* starting a walking group is key — it helps prevent lows, dehydration, or sodium imbalances.
 
-#### #### What diabetes medication walking group seniors ckda adjustments are most common?  
+#### What diabetes medication walking group seniors ckda adjustments are most common?  
 The top three discussed in clinical practice are: (1) shifting diuretic timing to mornings, (2) adjusting metformin dose or formulation (e.g., switching to extended-release) to improve GI tolerance with activity, and (3) temporarily reducing sulfonylurea or rapid-acting insulin doses before walks — always under medical guidance.
 
-#### #### Should I stop my diabetes medication before joining a walking group?  
+#### Should I stop my diabetes medication before joining a walking group?  
 No — never stop or skip diabetes meds without talking to your doctor. Some medications (like insulin or sulfonylureas) carry real hypoglycemia risk with activity, but the safer approach is *adjusting dose or timing*, not stopping. Your doctor may also suggest adding a CGM (continuous glucose monitor) for added insight.
 
-#### #### How often should I check my kidney numbers if I start walking regularly?  
+#### How often should I check my kidney numbers if I start walking regularly?  
 If you have mild CKD and begin a new activity routine, your doctor will likely repeat eGFR and UACR in 3–6 months — especially if you’re on SGLT2 inhibitors or ACE/ARBs. More frequent checks aren’t usually needed unless you notice swelling, fatigue, or changes in urination.
 
-#### #### Does walking help with CKD progression in seniors with diabetes?  
+#### Does walking help with CKD progression in seniors with diabetes?  
 Yes — moderate aerobic activity like walking is associated with slower eGFR decline in adults with type 2 diabetes and mild-to-moderate CKD. A 2023 meta-analysis found that consistent walking (≥150 min/week) was linked to a 19% lower risk of progressing to Stage 4 CKD over 5 years — *provided medications and fluid balance are well-managed*.

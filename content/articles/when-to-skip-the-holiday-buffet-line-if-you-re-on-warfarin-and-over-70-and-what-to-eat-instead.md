@@ -109,17 +109,17 @@ If you're unsure, talking to your doctor is always a good idea. And yes—*warfa
 
 ### FAQ
 
-#### #### Can warfarin holiday buffet seniors include mashed potatoes and gravy?
+#### Can warfarin holiday buffet seniors include mashed potatoes and gravy?
 Yes—mashed potatoes (without added kale or spinach) and traditional pan gravy (made from turkey drippings, not leafy greens) are generally low in vitamin K (<5 mcg per ½-cup serving). Just watch sodium in store-bought gravies, as high salt can affect blood pressure and fluid balance—especially important for seniors managing both anticoagulation and cardiovascular health.
 
-#### #### What holiday desserts are safest for warfarin holiday buffet seniors?
+#### What holiday desserts are safest for warfarin holiday buffet seniors?
 Opt for fruit-based or dairy-forward options like baked apples with cinnamon, plain cheesecake (small portion), or vanilla panna cotta. Avoid desserts with large amounts of kale powder, matcha, or parsley garnishes. Also skip anything labeled “superfood green blend”—those often pack unexpected vitamin K.
 
-#### #### Does alcohol at holiday parties affect warfarin in seniors?
+#### Does alcohol at holiday parties affect warfarin in seniors?
 Yes—moderately. Even 1–2 drinks can inhibit warfarin metabolism in older adults, potentially raising INR. For most seniors on warfarin, the safest limit is *one* 5-oz glass of wine or 12-oz beer *per day*, and only if cleared by your doctor. Eggnog (often made with raw eggs and high-fat dairy) also poses food-safety and cholesterol concerns—consider a pasteurized, low-fat version.
 
-#### #### Are there non-leafy vegetables I can enjoy freely at holiday meals while on warfarin?
+#### Are there non-leafy vegetables I can enjoy freely at holiday meals while on warfarin?
 Absolutely. Winter squash (acorn, butternut), carrots, parsnips, beets, cauliflower, cucumbers, zucchini, and onions all contain minimal vitamin K (typically <10 mcg per ½-cup cooked serving). Roasting or sautéing them with herbs like thyme, sage, or rosemary adds festive flavor without interfering with your INR.
 
-#### #### How soon after a vitamin K–rich holiday meal might my INR change?
+#### How soon after a vitamin K–rich holiday meal might my INR change?
 INR shifts rarely happen overnight. It usually takes 3–5 days for dietary vitamin K changes to influence clotting factor synthesis—so a single big serving of spinach won’t spike your INR the next morning. However, *repeated* higher intake over several days *can* lower your INR gradually. That’s why consistency—not occasional indulgence—is what truly supports stability.

@@ -58,17 +58,17 @@ The holidays don’t have to mean trading joy for vigilance. With realistic expe
 
 ### FAQ
 
-#### #### Does skipping dessert actually help blood sugar during the holidays?
+#### Does skipping dessert actually help blood sugar during the holidays?
 Yes—but usually less than people expect. CGM data shows that for adults 61–74, skipping dessert alone reduces average post-holiday glucose spikes by just 5–12 mg/dL. Bigger wins come from balancing meals, managing stress, and protecting sleep.
 
-#### #### Are “skip dessert blood sugar control holiday myths” dangerous for older adults?
+#### Are “skip dessert blood sugar control holiday myths” dangerous for older adults?
 They can be misleading—and sometimes harmful—if they lead to ignoring bigger drivers like alcohol intake, medication timing, or poor sleep. Over-reliance on dessert avoidance may delay meaningful lifestyle adjustments that actually improve time-in-range.
 
-#### #### What’s the best alternative to skipping dessert for holiday blood sugar control?
+#### What’s the best alternative to skipping dessert for holiday blood sugar control?
 Focus on *portion, pairing, and timing*: Choose a small serving (e.g., ¼ slice pie), eat it *with* protein/fat (like a dollop of Greek yogurt), and enjoy it *earlier* in the evening—not right before bed.
 
-#### #### Does blood pressure affect blood sugar during holidays?
+#### Does blood pressure affect blood sugar during holidays?
 Yes—closely. Elevated BP (≥130/80 mm Hg) often reflects underlying inflammation and sympathetic nervous system activation, both of which worsen insulin resistance. Managing one helps the other.
 
-#### #### Should I check my blood sugar more often during holidays?
+#### Should I check my blood sugar more often during holidays?
 If you have prediabetes or diabetes, yes—especially before and 2 hours after your largest meal. But remember: consistency matters more than frequency. Even 3 thoughtful checks per day reveal more than daily random tests.

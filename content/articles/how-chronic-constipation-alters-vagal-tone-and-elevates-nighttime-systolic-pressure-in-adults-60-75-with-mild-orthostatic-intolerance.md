@@ -86,22 +86,22 @@ Understanding how constipation vagal tone nighttime bp fits into your overall he
 
 ### FAQ
 
-#### #### Can constipation really raise my blood pressure at night?
+#### Can constipation really raise my blood pressure at night?
 
 Yes—especially in adults over 60. Chronic constipation can lead to colonic distension, which sends altered signals via the vagus nerve. This may reduce the brain’s ability to buffer blood pressure changes during sleep, contributing to elevated nighttime systolic readings—a pattern sometimes called “non-dipping” or “reverse-dipping” BP.
 
-#### #### What is constipation vagal tone nighttime bp—and is it dangerous?
+#### What is constipation vagal tone nighttime bp—and is it dangerous?
 
 *Constipation vagal tone nighttime bp* refers to the physiological link between prolonged stool retention, changes in vagus nerve signaling, and loss of the normal nighttime dip in systolic blood pressure. While not immediately life-threatening, it reflects reduced autonomic flexibility—and over time, sustained nighttime hypertension is linked to higher risks for stroke, cognitive decline, and heart remodeling. The good news? It’s often modifiable with lifestyle support.
 
-#### #### Does improving constipation lower nighttime blood pressure?
+#### Does improving constipation lower nighttime blood pressure?
 
 Research suggests it can—particularly when constipation improvement is paired with other circadian-supportive habits (like consistent sleep timing and hydration). In small clinical studies, adults 60–75 who normalized bowel habits over 8–12 weeks saw an average 5–8 mm Hg reduction in mean nighttime systolic pressure—even without medication changes.
 
-#### #### Is this the same as “white coat hypertension”?
+#### Is this the same as “white coat hypertension”?
 
 No. White coat hypertension refers to elevated BP only in medical settings due to anxiety. *Constipation vagal tone nighttime bp*, by contrast, shows up during relaxed, home-based nighttime measurements—and reflects real physiological shifts in autonomic regulation, not situational stress.
 
-#### #### Could my blood pressure medication be making my constipation worse?
+#### Could my blood pressure medication be making my constipation worse?
 
 Some medications—including calcium channel blockers (e.g., amlodipine), certain diuretics, and opioid pain relievers—can slow colonic motility. If you’ve started a new med and noticed both worsening constipation *and* higher nighttime BP, mention it to your provider. Adjustments or alternatives may be possible.

@@ -71,17 +71,17 @@ Choosing to use a CGM later in life reflects wisdom, not weakness. It’s a proa
 
 ### FAQ
 
-#### #### Does Medicare cover CGM for seniors with low vision?
+#### Does Medicare cover CGM for seniors with low vision?
 Yes — Medicare Part B covers FDA-approved CGMs for beneficiaries aged 65+ who have diabetes and meet at least one of these criteria: use insulin, have recurrent hypoglycemia, or have hypoglycemia unawareness. Coverage includes sensors, transmitters, and necessary accessories (e.g., audio-enabled receivers). Low vision itself isn’t a standalone eligibility factor, but it often coexists with conditions that *do* qualify — and accessibility features are considered medically necessary for safe use.
 
-#### #### What’s the best CGM for seniors with low vision and tremor?
+#### What’s the best CGM for seniors with low vision and tremor?
 There isn’t a single “best” device — the most effective CGM for seniors with low vision is the one whose audio alerts are loudest and clearest *for you*, whose app interface works with your phone’s accessibility settings, and whose sensor placement feels secure and manageable. Clinicians often prioritize systems with FDA-cleared voice guidance, haptic alerts, and seamless caregiver sharing. A CDCES or low-vision rehabilitation specialist can help compare options side-by-side.
 
-#### #### Can a caregiver monitor my CGM remotely if I have low vision?
+#### Can a caregiver monitor my CGM remotely if I have low vision?
 Yes — all major CGM platforms support real-time remote monitoring via secure apps. Caregivers download the same app, receive an invitation link from your account, and gain view-only access (they cannot change settings). Alerts can be customized per person — for example, your spouse might get urgent notifications for values <55 mg/dL, while your nurse receives daily summary reports.
 
-#### #### Do CGMs replace fingerstick testing entirely for older adults?
+#### Do CGMs replace fingerstick testing entirely for older adults?
 Not always. While most CGMs reduce fingersticks significantly, Medicare and FDA guidelines still require periodic calibration (for certain models) or confirmation before treating severe lows or making major insulin adjustments. However, many newer systems are “non-adjunctive” — meaning treatment decisions can be based solely on CGM values. Your care team will clarify what applies to your device and health status.
 
-#### #### How often do CGM sensors need to be changed for seniors with dexterity issues?
+#### How often do CGM sensors need to be changed for seniors with dexterity issues?
 Most sensors last 7–14 days, depending on the model. For those with dexterity challenges, longer wear times reduce frequency of handling — but only if skin tolerance and accuracy remain consistent. Some older adults find the thigh offers easier self-application than the abdomen. Discuss alternatives with your provider, and ask about applicators with ergonomic grips or visual alignment guides.

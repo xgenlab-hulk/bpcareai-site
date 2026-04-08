@@ -94,17 +94,17 @@ Heart health isn’t about chasing perfection. It’s about listening—deeply, 
 
 ### FAQ
 
-#### #### Can a normal resting heart rate hide sinus node dysfunction?
+#### Can a normal resting heart rate hide sinus node dysfunction?
 Yes—absolutely. Sinus node dysfunction often begins with preserved resting rate but reduced heart rate variability (HRV) and blunted response to activity. This is especially common in women over 65 and may go unnoticed without specific testing.
 
-#### #### What is normal resting heart rate sinus node dysfunction—and how is it diagnosed?
+#### What is normal resting heart rate sinus node dysfunction—and how is it diagnosed?
 “Normal resting heart rate sinus node dysfunction” refers to a situation where your resting pulse falls within the typical 60–100 bpm range, yet your SA node shows signs of aging—like chronotropic incompetence or abnormal pauses—detected via longer-term monitoring (e.g., 48-hour ECG), HRV analysis, or electrophysiology study.
 
-#### #### Is sinus node dysfunction more common in older women?
+#### Is sinus node dysfunction more common in older women?
 Yes. Research suggests women over 66 are at higher risk due to hormonal shifts post-menopause, higher prevalence of autoimmune conditions affecting the conduction system, and differences in autonomic nervous system aging. Symptoms may also present more subtly—like fatigue or brain fog—rather than overt arrhythmias.
 
-#### #### Can lifestyle changes improve sinus node function?
+#### Can lifestyle changes improve sinus node function?
 While you can’t reverse SA node aging, consistent, gentle aerobic activity, quality sleep, stress reduction (like paced breathing), and avoiding medications that suppress heart rate can support overall autonomic health—and improve how you *feel*, even with underlying SND.
 
-#### #### Does low HRV always mean sinus node dysfunction?
+#### Does low HRV always mean sinus node dysfunction?
 Not always—but persistently low HRV (especially <30 ms in a 5-minute recording) in someone over 65 with fatigue or dizziness *should prompt further evaluation*. Low HRV reflects autonomic imbalance, which may stem from SA node changes, but also from sleep apnea, chronic inflammation, or deconditioning. Context matters.

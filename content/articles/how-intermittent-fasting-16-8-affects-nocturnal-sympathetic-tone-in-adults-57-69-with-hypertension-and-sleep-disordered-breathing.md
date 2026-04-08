@@ -79,22 +79,22 @@ Navigating health in your late 50s and 60s means honoring complexity—not chasi
 
 ### FAQ
 
-#### #### Does intermittent fasting worsen nocturnal sympathetic tone in people with sleep apnea?
+#### Does intermittent fasting worsen nocturnal sympathetic tone in people with sleep apnea?
 
 Not universally—but it *can*, especially if the eating window extends past 8 p.m. Late meals raise insulin and delay the postprandial dip in sympathetic activity, potentially overlapping with the nadir in upper airway muscle tone (2–4 a.m.). In adults with moderate-to-severe OSA, this may blunt the expected nocturnal BP dip and increase sympathetic surges following apneic events.
 
-#### #### Can intermittent fasting improve blood pressure in older adults with hypertension?
+#### Can intermittent fasting improve blood pressure in older adults with hypertension?
 
 Yes—modestly and variably. Meta-analyses report average reductions of 3–5 mm Hg systolic and 2–3 mm Hg diastolic in adults over 55 following 12+ weeks of 16:8 fasting. However, benefits are most consistent in those who also improve sleep continuity and maintain adequate potassium/magnesium intake. Fasting alone doesn’t override untreated OSA or medication nonadherence.
 
-#### #### How does intermittent fasting affect vagal rebound timing in adults over 60?
+#### How does intermittent fasting affect vagal rebound timing in adults over 60?
 
 Emerging evidence suggests fasting may *enhance* vagal rebound—if timed appropriately. A 2024 substudy of the FAST-HYPER trial observed that participants who fasted from 7 p.m. to 7 a.m. showed earlier and steeper increases in high-frequency HRV after spontaneous arousals, compared to those fasting 9 p.m.–9 a.m. Researchers hypothesize that earlier fasting supports mitochondrial efficiency in brainstem nuclei involved in cardiorespiratory coupling.
 
-#### #### Is the 16:8 method safe for someone with high blood pressure and snoring?
+#### Is the 16:8 method safe for someone with high blood pressure and snoring?
 
 It can be—provided it’s individualized and monitored. Safety hinges less on the ratio itself and more on consistency with circadian cues (e.g., avoiding food within 3 hours of melatonin rise) and responsiveness to symptoms. Snoring alone isn’t a contraindication, but if accompanied by witnessed apneas or excessive daytime sleepiness, formal sleep evaluation should precede fasting initiation.
 
-#### #### What’s the best time to break a fast if I have hypertension and wake up frequently at night?
+#### What’s the best time to break a fast if I have hypertension and wake up frequently at night?
 
 For most adults aged 57–69 with hypertension and nocturnal awakenings, breaking the fast *after* sunrise—and ideally after light exposure—supports cortisol rhythm alignment and may reduce early-morning BP surges. Aim to eat within 30–60 minutes of waking, even if that’s at 6:30 a.m. Avoid large, high-carbohydrate meals immediately upon waking, which can trigger reactive sympathetic activation.

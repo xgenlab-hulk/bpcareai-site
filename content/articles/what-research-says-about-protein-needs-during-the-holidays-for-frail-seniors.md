@@ -47,17 +47,17 @@ In summary, supporting muscle health through thoughtful nutrition doesn’t mean
 
 ### FAQ  
 
-#### #### How much protein do frail seniors really need during the holidays?  
+#### How much protein do frail seniors really need during the holidays?  
 Frail seniors benefit from 1.2–1.5 grams of protein per kilogram of body weight daily—roughly 25–30 g per meal—to support muscle maintenance. This is 50–90% higher than standard recommendations, especially important when activity dips and stress rises during festive periods.
 
-#### #### Do holiday protein needs for frail seniors change if someone has high blood pressure?  
+#### Do holiday protein needs for frail seniors change if someone has high blood pressure?  
 Yes—while protein itself doesn’t raise BP, many traditional holiday protein sources (e.g., cured meats, cheeses) are high in sodium. Opt for lower-sodium options like baked fish, skinless turkey breast, beans, or unsalted nuts to meet **holiday protein needs for frail seniors** without compromising cardiovascular health.
 
-#### #### Can frail seniors get enough protein from plant-based holiday foods?  
+#### Can frail seniors get enough protein from plant-based holiday foods?  
 Absolutely—with planning. Combine complementary plant proteins (e.g., lentils + brown rice, hummus + whole-wheat pita) to ensure all essential amino acids. Soy-based foods (tofu, tempeh, edamame) are complete proteins and excellent holiday additions.
 
-#### #### Is it safe for frail seniors with kidney issues to increase protein during the holidays?  
+#### Is it safe for frail seniors with kidney issues to increase protein during the holidays?  
 It depends on kidney function stage and stability. Those with CKD Stage 1–2 may safely follow higher protein targets, but Stage 3+ requires personalized guidance from a nephrologist or registered dietitian—never restrict or increase protein without clinical input.
 
-#### #### What are easy, festive protein snacks for frail seniors?  
+#### What are easy, festive protein snacks for frail seniors?  
 Try mini frittatas (eggs + veggies), pumpkin seed–yogurt parfaits, smoked salmon on cucumber rounds, or a warm cup of milk-based eggnog (low-sugar, fortified). All deliver ~10–15 g protein in bite-sized, digestion-friendly portions.

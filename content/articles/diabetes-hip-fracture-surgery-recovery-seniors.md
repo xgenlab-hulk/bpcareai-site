@@ -38,22 +38,22 @@ Recovery after hip fracture surgery with diabetes is demanding — but entirely 
 
 ### FAQ
 
-#### #### How does diabetes affect hip fracture surgery recovery in seniors?
+#### How does diabetes affect hip fracture surgery recovery in seniors?
 
 Diabetes contributes to delayed bone healing, higher infection rates, and increased risk of complications like pressure ulcers and delirium — especially in adults 79+ with HbA1c 7.8–8.9%. Chronic hyperglycemia impairs immune cell function and collagen cross-linking, making the **diabetes hip fracture surgery recovery seniors** phase longer and more complex than in non-diabetic peers.
 
-#### #### What are safe blood sugar targets after hip fracture surgery for older adults with diabetes?
+#### What are safe blood sugar targets after hip fracture surgery for older adults with diabetes?
 
 Perioperative targets are typically 110–180 mg/dL. Tighter goals (e.g., <110 mg/dL) are discouraged in seniors due to hypoglycemia risk and lack of mortality benefit. Overnight glucose should stay above 100 mg/dL, and postprandial peaks ideally remain below 200 mg/dL.
 
-#### #### Can tele-rehabilitation help seniors with diabetes recover from hip fracture surgery?
+#### Can tele-rehabilitation help seniors with diabetes recover from hip fracture surgery?
 
 Yes — especially when led by therapists trained in geriatric diabetes care. Tele-rehab improves adherence, reduces fall risk during travel, and allows timely adjustments to activity based on glucose patterns and mobility tolerance. It’s a key component of effective **diabetes hip fracture surgery recovery seniors** planning.
 
-#### #### How much protein do seniors need after hip fracture surgery with diabetes?
+#### How much protein do seniors need after hip fracture surgery with diabetes?
 
 Aim for 1.2–1.5 grams of protein per kilogram of body weight daily (e.g., 75–90 g for a 65 kg person), spread across 3–4 meals. This helps preserve lean mass, supports wound healing, and stabilizes glucose by slowing gastric emptying.
 
-#### #### What signs indicate I should contact my doctor during diabetes hip fracture surgery recovery?
+#### What signs indicate I should contact my doctor during diabetes hip fracture surgery recovery?
 
 Reach out promptly for: glucose consistently >250 mg/dL, recurrent lows (<70 mg/dL) with symptoms, new or worsening skin breakdown, fever >100.4°F, shortness of breath, or calf swelling — all possible signals of infection, DVT, or metabolic decompensation.

@@ -1,0 +1,383 @@
+{
+  "audit_version": "v4-flexible",
+  "batch_id": 4,
+  "total_checked": 20,
+  "audit_date": "2026-03-11",
+  "articles": [
+    {
+      "slug": "how-cold-weather-indoor-heating-dries-nasal-mucosa-and-why-that-worsens-postprandial-glucose-spikes-in-adults-70-with-autonomic-neuropathy",
+      "primaryKeyword": "indoor heating nasal glucose spikes",
+      "score": 45,
+      "grade": "Poor",
+      "needs_optimization": true,
+      "reasoning": "While the phrasing is natural, the connection between 'indoor heating nasal' and 'glucose spikes' is too obscure for real user searches. People searching about glucose spikes wouldn't think to include nasal/heating terms. The medical connection is too niche and technical. Users would more likely search 'glucose spikes winter' or 'glucose spikes cold weather' if they noticed a pattern.",
+      "strengths": [
+        "Natural word flow",
+        "Addresses glucose spikes (specific condition)"
+      ],
+      "weaknesses": [
+        "Obscure connection unlikely to be searched",
+        "Missing audience (seniors/elderly)",
+        "Too technically specific for typical user searches"
+      ]
+    },
+    {
+      "slug": "how-chronic-loneliness-after-retirement-alters-autonomic-tone-and-elevates-nocturnal-systolic-pressure-in-adults-68-with-preserved-ejection-fraction",
+      "primaryKeyword": "loneliness and nocturnal blood pressure in seniors",
+      "score": 88,
+      "grade": "Very Good",
+      "needs_optimization": false,
+      "reasoning": "Strong keyword that combines an emotional/lifestyle factor (loneliness) with a specific medical concern (nocturnal blood pressure) and appropriate audience (seniors). Real users experiencing both issues would search this way. Natural phrasing with good specificity. Minor room for improvement but not necessary.",
+      "strengths": [
+        "Real-world search query combining lifestyle and medical factors",
+        "Clear audience identifier (seniors)",
+        "Natural, readable phrasing",
+        "Specific medical topic (nocturnal blood pressure)"
+      ],
+      "weaknesses": []
+    },
+    {
+      "slug": "hosting-holiday-guests-atrial-protection",
+      "primaryKeyword": "hosting holiday guests atrial protection",
+      "score": 50,
+      "grade": "Poor",
+      "needs_optimization": true,
+      "reasoning": "Unnatural search phrasing. 'Atrial protection' is not how regular users would search - they'd use 'atrial fibrillation', 'AFib', or 'heart health'. The connection to 'hosting guests' is specific but the medical terminology is too technical. Users would more likely search 'heart health holiday stress' or 'AFib holiday triggers'.",
+      "strengths": [
+        "Relevant holiday context",
+        "Addresses specific concern (hosting stress)"
+      ],
+      "weaknesses": [
+        "'Atrial protection' is too technical/clinical",
+        "Unnatural search phrasing",
+        "Missing audience identifier",
+        "Real users wouldn't combine these terms this way"
+      ]
+    },
+    {
+      "slug": "home-bp-cuff-calibration-in-high-humidity",
+      "primaryKeyword": "home bp cuff calibration in high humidity",
+      "score": 72,
+      "grade": "Good",
+      "needs_optimization": true,
+      "reasoning": "Specific and natural query addressing a practical concern. Users who notice accuracy issues with their BP monitor in humid environments would search this way. However, it's quite niche - most users would search 'blood pressure monitor accuracy' or 'BP cuff calibration' without the humidity qualifier. Audience could improve it but not essential for this specific technical query.",
+      "strengths": [
+        "Natural phrasing",
+        "Addresses practical user concern",
+        "Specific technical topic"
+      ],
+      "weaknesses": [
+        "Very niche search - limited volume",
+        "Could be more discoverable without humidity qualifier"
+      ]
+    },
+    {
+      "slug": "holiday-medication-holiday-myths-facts",
+      "primaryKeyword": "holiday medication holiday myths facts",
+      "score": 55,
+      "grade": "Poor",
+      "needs_optimization": true,
+      "reasoning": "Confusing repetition of 'holiday' creates awkward phrasing. The term 'medication holiday' is insider/medical jargon that most users wouldn't know. Users would more likely search 'skipping medication during holidays' or 'stopping blood pressure medication temporarily'. Missing audience and lacks medical specificity.",
+      "strengths": [
+        "Addresses common misconception",
+        "Holiday context is relevant"
+      ],
+      "weaknesses": [
+        "Confusing repetition (holiday x2)",
+        "'Medication holiday' is medical jargon",
+        "Too vague - which medications?",
+        "Missing audience identifier"
+      ]
+    },
+    {
+      "slug": "holiday-cookie-swap-glucose-management",
+      "primaryKeyword": "holiday cookie swap glucose management",
+      "score": 78,
+      "grade": "Good",
+      "needs_optimization": true,
+      "reasoning": "Natural query combining a specific social situation (cookie swap) with a clear medical concern (glucose management). Users with diabetes attending cookie swaps would search this way. The phrasing is good and specific. Would benefit from audience (diabetes/diabetic) or age identifier, but works reasonably well without it. Score above 70 but under 85 threshold.",
+      "strengths": [
+        "Natural search phrasing",
+        "Specific social context (cookie swap)",
+        "Clear medical focus (glucose management)"
+      ],
+      "weaknesses": [
+        "Could specify 'diabetes' for clarity",
+        "Missing audience age identifier"
+      ]
+    },
+    {
+      "slug": "herbal-teas-and-diastolic-stiffness-in-women",
+      "primaryKeyword": "herbal teas and diastolic stiffness in women",
+      "score": 62,
+      "grade": "Fair",
+      "needs_optimization": true,
+      "reasoning": "Natural phrasing and includes audience (women), but 'diastolic stiffness' is too technical. Regular users would search 'herbal tea for blood pressure' or 'herbal tea for heart health'. The technical term reduces searchability. Also, 'in women' could be more specific about age (older women, women over 60).",
+      "strengths": [
+        "Natural phrasing",
+        "Has audience identifier (women)",
+        "Clear topic (herbal teas)"
+      ],
+      "weaknesses": [
+        "'Diastolic stiffness' is too technical",
+        "Audience too broad - needs age specificity",
+        "Users would use simpler medical terms"
+      ]
+    },
+    {
+      "slug": "foods-for-central-bp-and-cognitive-blood-flow",
+      "primaryKeyword": "foods for central bp and cognitive blood flow",
+      "score": 70,
+      "grade": "Good",
+      "needs_optimization": true,
+      "reasoning": "Natural structure ('foods for X') that users commonly search. However, 'central BP' is abbreviated/technical and 'cognitive blood flow' is medical terminology. Users would more likely search 'foods for blood pressure and brain health' or 'foods for BP and memory'. The concept is good but terminology needs to be more user-friendly. Missing audience identifier.",
+      "strengths": [
+        "Natural 'foods for' search structure",
+        "Combines two related health concerns",
+        "Clear intent (dietary solutions)"
+      ],
+      "weaknesses": [
+        "'Central BP' is too technical/abbreviated",
+        "'Cognitive blood flow' is medical jargon",
+        "Missing audience identifier"
+      ]
+    },
+    {
+      "slug": "foods-for-aortic-stiffness-without-orthostasis",
+      "primaryKeyword": "foods for aortic stiffness without orthostasis",
+      "score": 42,
+      "grade": "Poor",
+      "needs_optimization": true,
+      "reasoning": "While 'foods for X' is a natural search pattern, both 'aortic stiffness' and 'orthostasis' are medical jargon that regular users wouldn't search. Users would more likely search 'foods for heart health' or 'foods to improve circulation'. The medical specificity is too high for typical user search behavior. Missing audience.",
+      "strengths": [
+        "Natural 'foods for' structure",
+        "Addresses specific concern (avoiding side effects)"
+      ],
+      "weaknesses": [
+        "'Aortic stiffness' is medical jargon",
+        "'Orthostasis' is too technical",
+        "Users wouldn't search these terms",
+        "Missing audience identifier"
+      ]
+    },
+    {
+      "slug": "cgms-for-seniors-without-smartphones",
+      "primaryKeyword": "cgms for seniors without smartphones",
+      "score": 85,
+      "grade": "Very Good",
+      "needs_optimization": false,
+      "reasoning": "Addresses a real, specific user need (seniors who want glucose monitoring but don't have smartphones). Natural search phrasing with clear audience. However, 'CGMs' might be slightly technical - some users would search 'glucose monitor' or 'diabetes monitor' instead. But people researching these devices would know the term. Right at the 85 threshold - acceptable but could be slightly improved.",
+      "strengths": [
+        "Clear audience (seniors)",
+        "Addresses specific practical need (no smartphones)",
+        "Natural phrasing",
+        "Real user search scenario"
+      ],
+      "weaknesses": [
+        "'CGMs' might be slightly technical for some users"
+      ]
+    },
+    {
+      "slug": "ambulatory-arterial-stiffness-index-interpretation",
+      "primaryKeyword": "ambulatory arterial stiffness index interpretation",
+      "score": 65,
+      "grade": "Fair",
+      "needs_optimization": true,
+      "reasoning": "Technical medical term that some users (those who received this test result) would search. Natural phrasing for people trying to understand their test results. However, it's quite niche and medical. Missing audience identifier. Would work for users who already have this diagnosis/test, but limited broader searchability.",
+      "strengths": [
+        "Natural for users with this test result",
+        "Clear intent (interpretation/understanding)",
+        "Specific medical test"
+      ],
+      "weaknesses": [
+        "Very technical/niche terminology",
+        "Limited search volume",
+        "Missing audience identifier"
+      ]
+    },
+    {
+      "slug": "9-foods-that-support-pancreatic-beta-cell-resilience-during-high-carb-holidays-based-on-human-islet-transcriptomics-and-nrf2-activation-studies",
+      "primaryKeyword": "beta-cell resilience holiday foods",
+      "score": 58,
+      "grade": "Fair",
+      "needs_optimization": true,
+      "reasoning": "While simplified from the very technical article title, 'beta-cell resilience' is still medical jargon that most users wouldn't search. People with diabetes would search 'foods to protect pancreas', 'diabetes-friendly holiday foods', or 'foods for blood sugar control'. The holiday context is good. Missing audience identifier.",
+      "strengths": [
+        "Relevant holiday context",
+        "Addresses food/diet (common search)",
+        "Natural word flow"
+      ],
+      "weaknesses": [
+        "'Beta-cell resilience' is medical jargon",
+        "Users would search for blood sugar/diabetes terms instead",
+        "Missing audience identifier"
+      ]
+    },
+    {
+      "slug": "7-hidden-ways-your-hearing-aid-s-bluetooth-streaming-affects-baroreceptor-sensitivity-especially-during-morning-blood-pressure-spikes-in-adults-73",
+      "primaryKeyword": "hearing aids and morning blood pressure spikes",
+      "score": 82,
+      "grade": "Good",
+      "needs_optimization": true,
+      "reasoning": "Natural query combining two health concerns (hearing aids and blood pressure spikes). Users with both conditions who notice a pattern would search this way. Good specificity with morning timing. However, missing explicit age identifier even though article targets adults 73+. Scores well but just under 85 threshold.",
+      "strengths": [
+        "Natural search combining two health factors",
+        "Specific timing (morning)",
+        "Clear medical topic (blood pressure spikes)",
+        "Addresses real user concern"
+      ],
+      "weaknesses": [
+        "Missing explicit age identifier (seniors/elderly)"
+      ]
+    },
+    {
+      "slug": "7-hidden-electrolyte-shifts-that-happen-during-holiday-cooking-and-how-they-trigger-atrial-fibrillation-in-adults-60-with-mild-hypokalemia",
+      "primaryKeyword": "holiday cooking electrolyte shifts atrial fibrillation",
+      "score": 68,
+      "grade": "Fair",
+      "needs_optimization": true,
+      "reasoning": "Interesting connection but 'electrolyte shifts' is somewhat technical. Users would more likely search 'holiday cooking AFib triggers' or 'atrial fibrillation holiday cooking'. The concept is good but phrasing could be more user-friendly. Missing audience identifier. The connection between cooking and AFib is specific, which is good.",
+      "strengths": [
+        "Specific context (holiday cooking)",
+        "Clear condition (atrial fibrillation)",
+        "Natural word flow",
+        "Addresses trigger identification"
+      ],
+      "weaknesses": [
+        "'Electrolyte shifts' is medical terminology",
+        "Missing audience identifier",
+        "Could simplify language"
+      ]
+    },
+    {
+      "slug": "5-things-your-endocrinologist-won-t-tell-you-about-holiday-alcohol-choices-especially-if-you-re-on-glp-1-agonists",
+      "primaryKeyword": "alcohol and GLP-1 agonists holiday",
+      "score": 80,
+      "grade": "Good",
+      "needs_optimization": true,
+      "reasoning": "Specific and relevant query for people on GLP-1 medications. Natural phrasing with clear medical specificity. Holiday context adds relevance. However, 'GLP-1 agonists' is the clinical term - some users might search 'Ozempic' or 'Mounjaro' (brand names) instead. Just under 85 threshold - works well but could be optimized.",
+      "strengths": [
+        "Specific medication class",
+        "Natural search phrasing",
+        "Relevant holiday context",
+        "Clear user concern (alcohol interaction)"
+      ],
+      "weaknesses": [
+        "Clinical term vs brand names users might use",
+        "Missing age identifier"
+      ]
+    },
+    {
+      "slug": "whole-grain-cereal-endothelial-dysfunction",
+      "primaryKeyword": "whole grain cereal endothelial dysfunction",
+      "score": 38,
+      "grade": "Very Poor",
+      "needs_optimization": true,
+      "reasoning": "Unnatural keyword stuffing without connectors. 'Endothelial dysfunction' is heavy medical jargon that regular users would never search. Users would search 'whole grain cereal heart health' or 'whole grain cereal blood pressure'. Missing audience and lacks natural phrasing. Too technical for real user searches.",
+      "strengths": [
+        "Specific food item (whole grain cereal)"
+      ],
+      "weaknesses": [
+        "'Endothelial dysfunction' is medical jargon",
+        "No connecting words - keyword stuffing",
+        "Unnatural phrasing",
+        "Missing audience identifier",
+        "Users wouldn't search this way"
+      ]
+    },
+    {
+      "slug": "what-are-the-earliest-signs-of-right-sided-heart-failure-in-adults-64-with-untreated-sleep-apnea-before-jugular-venous-distention-appears",
+      "primaryKeyword": "early right-sided heart failure signs sleep apnea",
+      "score": 75,
+      "grade": "Good",
+      "needs_optimization": true,
+      "reasoning": "Addresses a real user concern (early signs of heart failure) with relevant context (sleep apnea). Natural phrasing and specific medical topic. However, 'right-sided heart failure' is more clinical - users might search 'heart failure signs' more generally. Missing explicit age identifier. Good keyword that could be slightly optimized.",
+      "strengths": [
+        "Natural search phrasing",
+        "Early detection focus (user intent)",
+        "Specific condition context (sleep apnea)",
+        "Clear medical topic"
+      ],
+      "weaknesses": [
+        "'Right-sided' is somewhat clinical specificity",
+        "Missing explicit age identifier"
+      ]
+    },
+    {
+      "slug": "weekly-hiit-once-sarcopenia-diabetes",
+      "primaryKeyword": "weekly-hiit once sarcopenia diabetes",
+      "score": 52,
+      "grade": "Poor",
+      "needs_optimization": true,
+      "reasoning": "Awkward phrasing with missing connectors. 'Weekly HIIT once' reads unnaturally. 'Sarcopenia' is medical jargon most users wouldn't know - they'd search 'muscle loss' or 'muscle weakness'. Better as 'HIIT once weekly for muscle loss and diabetes' or 'weekly HIIT diabetes muscle loss seniors'. Missing audience identifier.",
+      "strengths": [
+        "Specific exercise type (HIIT)",
+        "Addresses two conditions (muscle loss, diabetes)",
+        "Frequency mentioned (weekly once)"
+      ],
+      "weaknesses": [
+        "Awkward, unnatural phrasing",
+        "'Sarcopenia' is medical jargon",
+        "Missing connectors",
+        "Missing audience identifier"
+      ]
+    },
+    {
+      "slug": "warning-signs-your-holiday-energy-crash-is-actually-orthostatic-hypotension-not-just-overeating-in-adults-76-with-age-related-baroreflex-blunting",
+      "primaryKeyword": "holiday energy crash orthostatic hypotension",
+      "score": 72,
+      "grade": "Good",
+      "needs_optimization": true,
+      "reasoning": "Good connection between common symptom (energy crash) and medical condition. 'Orthostatic hypotension' is somewhat technical but people researching dizziness/energy issues might encounter this term. Natural phrasing with relevant holiday context. Missing audience identifier and could simplify medical term to 'low blood pressure standing' for broader reach.",
+      "strengths": [
+        "Natural search combining symptom and condition",
+        "Relevant holiday context",
+        "User-friendly symptom (energy crash)",
+        "Clear diagnostic intent"
+      ],
+      "weaknesses": [
+        "'Orthostatic hypotension' is medical terminology",
+        "Missing audience identifier",
+        "Could use simpler medical terms"
+      ]
+    },
+    {
+      "slug": "turkey-preparation-postprandial-systolic-pressure",
+      "primaryKeyword": "turkey preparation postprandial systolic pressure",
+      "score": 48,
+      "grade": "Poor",
+      "needs_optimization": true,
+      "reasoning": "Unnatural keyword stuffing. 'Postprandial systolic pressure' is heavy medical jargon that regular users would never search. Users would search 'blood pressure after eating turkey' or 'turkey and blood pressure'. Missing connectors and audience. The connection is too technical for typical search behavior.",
+      "strengths": [
+        "Specific food context (turkey preparation)"
+      ],
+      "weaknesses": [
+        "'Postprandial systolic pressure' is medical jargon",
+        "No connecting words - keyword stuffing",
+        "Unnatural phrasing",
+        "Missing audience identifier",
+        "Users wouldn't search this way"
+      ]
+    }
+  ],
+  "summary": {
+    "total": 20,
+    "excellent_90plus": 0,
+    "very_good_85to89": 2,
+    "good_70to84": 5,
+    "fair_60to69": 4,
+    "poor_40to59": 7,
+    "very_poor_below40": 2,
+    "needs_optimization": 18,
+    "average_score": 63.5
+  },
+  "key_findings": [
+    "Only 2 keywords (10%) scored 85+ and don't need optimization",
+    "Most common issue: Medical jargon that users wouldn't search (endothelial dysfunction, postprandial, orthostasis, beta-cell, sarcopenia)",
+    "Many keywords missing audience identifiers (seniors/elderly/age groups)",
+    "Several keywords have good concepts but unnatural phrasing or keyword stuffing",
+    "Best performers combined real-world situations with user-friendly medical terms",
+    "Worst performers used multiple technical terms or lacked connecting words"
+  ],
+  "methodology_notes": "Used v4 flexible standard with judgment-based evaluation. Focused on 'would real users search this way?' rather than mechanical rule application. Scored holistically considering search match quality (40 pts), clarity/specificity (30 pts), natural phrasing (20 pts), and SEO/GEO value (10 pts). Recognized that audience identifiers add value when relevant but aren't mandatory for all keywords."
+}

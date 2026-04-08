@@ -66,22 +66,22 @@ Microcirculation isn’t something you “fix” overnight—it’s nurtured, da
 
 ### FAQ
 
-#### #### Can cold hands and feet be a sign of poor capillary perfusion in hypertensive elderly?
+#### Can cold hands and feet be a sign of poor capillary perfusion in hypertensive elderly?
 
 Yes—especially when they occur regularly at rest, improve only slowly with warming, and aren’t linked to low room temperature. Cold extremities in this age group often reflect reduced microvascular flow rather than just “poor circulation” in large arteries.
 
-#### #### How does nitric oxide affect capillary perfusion in hypertensive elderly?
+#### How does nitric oxide affect capillary perfusion in hypertensive elderly?
 
 Nitric oxide helps maintain both vessel tone *and* red blood cell deformability—their ability to bend and pass smoothly through capillaries. With aging and hypertension, nitric oxide recycling slows, which can reduce capillary responsiveness—even if BP is medically controlled.
 
-#### #### Are there foods that naturally support capillary perfusion without raising blood pressure?
+#### Are there foods that naturally support capillary perfusion without raising blood pressure?
 
 Yes. Leafy greens (arugula, spinach, beet greens), unsalted pistachios, pomegranate juice (100% pure, no added sugar), and dark cocoa (70%+ cacao, low-sugar) all support nitric oxide pathways without increasing sodium or arterial pressure.
 
-#### #### Does walking help capillary perfusion in hypertensive elderly—or is it too intense?
+#### Does walking help capillary perfusion in hypertensive elderly—or is it too intense?
 
 Gentle, rhythmic walking absolutely helps—especially at a pace where you can still hold a conversation. It creates consistent shear stress, which trains capillaries to respond better over time. Start with 5–10 minutes twice daily and build gradually.
 
-#### #### Can high blood pressure damage capillaries even if it’s “well-controlled”?
+#### Can high blood pressure damage capillaries even if it’s “well-controlled”?
 
 Yes. Even BP readings in the “controlled” range (e.g., 135/85 mm Hg) over many years may contribute to structural changes in capillary beds—making ongoing support for microcirculation important regardless of current BP numbers.

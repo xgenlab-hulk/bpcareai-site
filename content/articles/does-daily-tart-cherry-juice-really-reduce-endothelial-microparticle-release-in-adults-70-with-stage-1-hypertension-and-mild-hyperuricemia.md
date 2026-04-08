@@ -44,22 +44,22 @@ In short, tart cherry juice isn’t a magic elixir—but for many adults over 70
 
 ### FAQ
 
-#### #### Does tart cherry juice endothelial microparticles help lower blood pressure in seniors?
+#### Does tart cherry juice endothelial microparticles help lower blood pressure in seniors?
 
 Research shows modest systolic reductions—about 3–5 mm Hg on average—after 8–12 weeks of consistent, high-anthocyanin tart cherry juice use in adults 70+. But BP improvement appears linked *indirectly*: the juice may support endothelial function first (reflected in reduced tart cherry juice endothelial microparticles), which then contributes to smoother arterial tone over time.
 
-#### #### How much tart cherry juice endothelial microparticles reduction is clinically meaningful?
+#### How much tart cherry juice endothelial microparticles reduction is clinically meaningful?
 
 In clinical trials, a sustained 15–20% reduction in CD31+/CD42b− microparticles—paired with improved flow-mediated dilation—is associated with lower long-term cardiovascular risk. That level of change has been observed in ~60% of compliant participants aged 70+ using precise dosing protocols.
 
-#### #### Can I get the same benefits from tart cherry supplements instead of juice?
+#### Can I get the same benefits from tart cherry supplements instead of juice?
 
 Not reliably. Most capsule-based anthocyanin supplements lack the full phytonutrient matrix (like quercetin glycosides and organic acids) found in whole-juice preparations—and none have demonstrated equivalent effects on tart cherry juice endothelial microparticles in peer-reviewed trials involving older adults.
 
-#### #### Does tart cherry juice raise uric acid?
+#### Does tart cherry juice raise uric acid?
 
 No—when unsweetened and consumed in recommended amounts, tart cherry juice is associated with *modest uric acid lowering* (≈0.3–0.5 mg/dL) in adults with mild hyperuricemia, likely due to anthocyanin-driven inhibition of xanthine oxidase and enhanced renal excretion.
 
-#### #### Is tart cherry juice safe with blood pressure medication?
+#### Is tart cherry juice safe with blood pressure medication?
 
 Generally yes—but because it may enhance nitric oxide activity and mild vasodilation, it’s wise to monitor BP closely during the first 2–3 weeks of starting tart cherry juice, especially if you take ACE inhibitors, ARBs, or calcium channel blockers. Always discuss with your prescriber first.

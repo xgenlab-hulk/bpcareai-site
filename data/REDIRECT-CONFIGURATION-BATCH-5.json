@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "created_date": "2026-03-21",
+    "total_redirects": 48,
+    "batches_covered": [
+      "batch-5"
+    ],
+    "articles_range": "46-95",
+    "purpose": "为Batch 5优化的50篇文章提供301永久重定向配置",
+    "usage": "将redirects数组内容添加到next.config.js的redirects()函数中"
+  },
+  "redirects": [
+    {
+      "source": "/articles/what-are-the-earliest-signs-your-holiday-weight-gain-is-actually-fluid-retention-not-fat-in-women-over-65-with-atrial-fibrillation",
+      "destination": "/articles/fluid-retention-weight-gain-afib-women-65",
+      "permanent": true
+    },
+    {
+      "source": "/articles/travel-glucose-monitor-seniors-offline-sync",
+      "destination": "/articles/glucose-monitor-travel-seniors-offline",
+      "permanent": true
+    },
+    {
+      "source": "/articles/the-truth-about-sugar-free-holiday-candy-labeled-for-diabetics-why-87-still-cause-postprandial-endothelial-stiffness-via-polyol-pathway-activation",
+      "destination": "/articles/sugar-free-candy-diabetes-safety-truth",
+      "permanent": true
+    },
+    {
+      "source": "/articles/sunlight-exposure-and-circadian-blood-pressure",
+      "destination": "/articles/morning-sunlight-blood-pressure-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/prehypertension-progression-predictors-midlife",
+      "destination": "/articles/prehypertension-progression-family-history",
+      "permanent": true
+    },
+    {
+      "source": "/articles/plate-mapping-macular-degeneration-seniors",
+      "destination": "/articles/macular-degeneration-meal-planning-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/normal-resting-heart-rate-sinus-node-dysfunction",
+      "destination": "/articles/normal-heart-rate-hidden-heart-problems-women",
+      "permanent": true
+    },
+    {
+      "source": "/articles/non-alcoholic-drinks-holiday-heart-syndrome",
+      "destination": "/articles/non-alcoholic-drinks-heart-rhythm-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/nasal-rinse-breath-hold-for-endothelial-function",
+      "destination": "/articles/breathing-exercises-blood-pressure-natural",
+      "permanent": true
+    },
+    {
+      "source": "/articles/microwave-leakage-and-blood-pressure-variability",
+      "destination": "/articles/microwave-radiation-blood-pressure-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/low-carb-vs-magnesium-holiday-heart-prevention",
+      "destination": "/articles/prevent-holiday-heart-palpitations-naturally",
+      "permanent": true
+    },
+    {
+      "source": "/articles/late-night-snacking-hepatic-gluconeogenesis",
+      "destination": "/articles/late-night-snacking-blood-sugar-control",
+      "permanent": true
+    },
+    {
+      "source": "/articles/kefir-endotoxemia-diabetes-seniors",
+      "destination": "/articles/kefir-diabetes-gut-health-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/intermittent-socializing-postprandial-glucose",
+      "destination": "/articles/eating-alone-blood-sugar-diabetes-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-holiday-family-conflict-elevates-cortisol-driven-hepatic-glucose-output-especially-in-women-57-65-with-perimenopausal-insulin-resistance",
+      "destination": "/articles/stress-raises-blood-sugar-perimenopause-women",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-cold-weather-indoor-heating-dries-nasal-mucosa-and-why-that-worsens-postprandial-glucose-spikes-in-adults-70-with-autonomic-neuropathy",
+      "destination": "/articles/indoor-heating-blood-sugar-seniors-diabetes",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-chronic-loneliness-after-retirement-alters-autonomic-tone-and-elevates-nocturnal-systolic-pressure-in-adults-68-with-preserved-ejection-fraction",
+      "destination": "/articles/loneliness-nighttime-blood-pressure-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/hosting-holiday-guests-atrial-protection",
+      "destination": "/articles/heart-health-hosting-holiday-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/home-bp-cuff-calibration-in-high-humidity",
+      "destination": "/articles/blood-pressure-monitor-accuracy-humidity",
+      "permanent": true
+    },
+    {
+      "source": "/articles/holiday-medication-holiday-myths-facts",
+      "destination": "/articles/skipping-diabetes-medication-holiday-risks",
+      "permanent": true
+    },
+    {
+      "source": "/articles/holiday-cookie-swap-glucose-management",
+      "destination": "/articles/holiday-cookie-swap-diabetes-tips",
+      "permanent": true
+    },
+    {
+      "source": "/articles/herbal-teas-and-diastolic-stiffness-in-women",
+      "destination": "/articles/herbal-teas-blood-pressure-women-65",
+      "permanent": true
+    },
+    {
+      "source": "/articles/foods-for-central-bp-and-cognitive-blood-flow",
+      "destination": "/articles/foods-blood-pressure-brain-health-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/foods-for-aortic-stiffness-without-orthostasis",
+      "destination": "/articles/foods-arterial-stiffness-seniors-safe",
+      "permanent": true
+    },
+    {
+      "source": "/articles/cgms-for-seniors-without-smartphones",
+      "destination": "/articles/glucose-monitor-no-smartphone-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/ambulatory-arterial-stiffness-index-interpretation",
+      "destination": "/articles/arterial-stiffness-index-home-monitors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/9-foods-that-support-pancreatic-beta-cell-resilience-during-high-carb-holidays-based-on-human-islet-transcriptomics-and-nrf2-activation-studies",
+      "destination": "/articles/foods-support-pancreas-health-holiday-meals",
+      "permanent": true
+    },
+    {
+      "source": "/articles/7-hidden-ways-your-hearing-aid-s-bluetooth-streaming-affects-baroreceptor-sensitivity-especially-during-morning-blood-pressure-spikes-in-adults-73",
+      "destination": "/articles/hearing-aids-morning-blood-pressure-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/7-hidden-electrolyte-shifts-that-happen-during-holiday-cooking-and-how-they-trigger-atrial-fibrillation-in-adults-60-with-mild-hypokalemia",
+      "destination": "/articles/holiday-cooking-heart-rhythm-electrolytes",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-things-your-endocrinologist-won-t-tell-you-about-holiday-alcohol-choices-especially-if-you-re-on-glp-1-agonists",
+      "destination": "/articles/alcohol-glp-1-medications-holiday-guide",
+      "permanent": true
+    },
+    {
+      "source": "/articles/whole-grain-cereal-endothelial-dysfunction",
+      "destination": "/articles/whole-grain-cereal-blood-sugar-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/what-are-the-earliest-signs-of-right-sided-heart-failure-in-adults-64-with-untreated-sleep-apnea-before-jugular-venous-distention-appears",
+      "destination": "/articles/right-sided-heart-failure-sleep-apnea-64",
+      "permanent": true
+    },
+    {
+      "source": "/articles/weekly-hiit-once-sarcopenia-diabetes",
+      "destination": "/articles/weekly-hiit-sarcopenia-diabetes-71",
+      "permanent": true
+    },
+    {
+      "source": "/articles/warning-signs-your-holiday-energy-crash-is-actually-orthostatic-hypotension-not-just-overeating-in-adults-76-with-age-related-baroreflex-blunting",
+      "destination": "/articles/low-blood-pressure-after-eating-elderly-76",
+      "permanent": true
+    },
+    {
+      "source": "/articles/turkey-preparation-postprandial-systolic-pressure",
+      "destination": "/articles/turkey-blood-pressure-holiday-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/the-truth-about-senior-friendly-holiday-meal-kits-why-92-fail-to-meet-ada-recommended-sodium-fiber-targets-for-hypertensive-adults-75",
+      "destination": "/articles/senior-meal-kits-sodium-fiber-heart-health",
+      "permanent": true
+    },
+    {
+      "source": "/articles/the-truth-about-low-sodium-frozen-dinners-marketed-to-seniors-why-78-still-exceed-ada-sodium-targets-for-stage-1-hypertension",
+      "destination": "/articles/low-sodium-frozen-dinners-hidden-sodium-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/tai-chi-vs-walking-for-hfpef-seniors",
+      "destination": "/articles/tai-chi-walking-heart-failure-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/simple-steps-to-modify-grandma-s-pie-recipe-for-diabetic-retinopathy-risk-reduction-without-sacrificing-flavor-or-texture",
+      "destination": "/articles/diabetic-friendly-pie-recipe-eye-health",
+      "permanent": true
+    },
+    {
+      "source": "/articles/seniors-living-alone-holiday-party-preparedness",
+      "destination": "/articles/holiday-party-safety-tips-seniors-living-alone",
+      "permanent": true
+    },
+    {
+      "source": "/articles/natural-support-for-coronary-microvascular-disease",
+      "destination": "/articles/natural-treatment-coronary-microvascular-disease",
+      "permanent": true
+    },
+    {
+      "source": "/articles/low-dose-lithium-beta-cell-function",
+      "destination": "/articles/low-dose-lithium-diabetes-treatment",
+      "permanent": true
+    },
+    {
+      "source": "/articles/intermittent-fasting-before-cardiac-catheterization",
+      "destination": "/articles/fasting-cardiac-catheterization-kidney-disease",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-seasonal-air-pollution-peaks-alter-st-segment-variability-and-why-that-increases-acute-coronary-syndrome-risk-in-adults-59-with-stable-angina",
+      "destination": "/articles/air-pollution-heart-health-seniors-angina",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-chronic-constipation-elevates-24-hour-mean-arterial-pressure-via-gut-derived-trimethylamine-n-oxide-especially-in-adults-70-with-low-fiber-diets",
+      "destination": "/articles/constipation-blood-pressure-gut-health-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/home-ecg-patch-interpretation-for-seniors",
+      "destination": "/articles/how-to-read-home-ecg-patch-data",
+      "permanent": true
+    },
+    {
+      "source": "/articles/home-bp-cuff-with-ecg-for-afib-seniors",
+      "destination": "/articles/blood-pressure-monitor-with-ecg-afib",
+      "permanent": true
+    },
+    {
+      "source": "/articles/hidden-sodium-holiday-side-dishes",
+      "destination": "/articles/hidden-sodium-holiday-foods-seniors",
+      "permanent": true
+    }
+  ],
+  "instructions": {
+    "step_1": "打开 next.config.js 文件",
+    "step_2": "找到 async redirects() 函数",
+    "step_3": "将上述redirects数组内容添加到slugRedirects数组中",
+    "step_4": "保存并重新部署网站",
+    "step_5": "验证重定向是否生效: curl -I https://yourdomain.com/articles/[旧slug]"
+  }
+}

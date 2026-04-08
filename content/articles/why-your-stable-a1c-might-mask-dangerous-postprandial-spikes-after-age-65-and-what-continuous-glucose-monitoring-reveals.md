@@ -62,19 +62,19 @@ You’re not expected to manage all this alone. With thoughtful support and the 
 
 ### FAQ
 
-#### #### Why does A1c not show post-meal spikes in older adults?  
+#### Why does A1c not show post-meal spikes in older adults?  
 A1c measures average glucose over ~3 months and smooths out highs and lows. It cannot detect short-term fluctuations like postprandial spikes—which are especially common and impactful in seniors due to age-related changes in insulin secretion and glucose metabolism.
 
-#### #### What are the a1c limitations and postprandial glucose in seniors—and why should I care?  
+#### What are the a1c limitations and postprandial glucose in seniors—and why should I care?  
 The **a1c limitations and postprandial glucose in seniors** refer to how A1c underestimates real-time glucose variability and misses harmful after-meal surges. These spikes contribute to vascular aging and are associated with higher risks of stroke, heart disease, and cognitive decline—even when A1c appears stable.
 
-#### #### Is postprandial glucose more important than fasting glucose in older adults?  
+#### Is postprandial glucose more important than fasting glucose in older adults?  
 For many seniors, yes—especially those with preserved fasting glucose but rising A1c. Postprandial glucose often contributes more to overall glycemic burden in aging, and controlling it may improve energy, reduce fall risk, and support vascular health.
 
-#### #### Can high postprandial glucose affect blood pressure?  
+#### Can high postprandial glucose affect blood pressure?  
 Yes. Acute glucose spikes trigger sympathetic nervous system activation and transient increases in arterial pressure. Over time, repeated spikes may worsen endothelial function and stiffen arteries—contributing to sustained hypertension, particularly in those already managing elevated BP.
 
-#### #### Do I need continuous glucose monitoring if my A1c is fine?  
+#### Do I need continuous glucose monitoring if my A1c is fine?  
 Not necessarily—but if you’re over 65 and experience fatigue, confusion after meals, or unexplained fluctuations in energy or blood pressure, CGM may uncover hidden patterns. Discuss it with your provider as part of a personalized, proactive approach to healthy aging.  
 
 If you're unsure, talking to your doctor is always a good idea.

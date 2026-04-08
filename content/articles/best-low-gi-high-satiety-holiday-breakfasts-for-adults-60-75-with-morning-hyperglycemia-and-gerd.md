@@ -50,17 +50,17 @@ In summary, thoughtful holiday breakfast planning doesn’t mean giving up joy o
 
 ### FAQ
 
-#### #### What are the best low-GI holiday breakfast options for someone with morning hyperglycemia and GERD?  
+#### What are the best low-GI holiday breakfast options for someone with morning hyperglycemia and GERD?  
 Opt for warm steel-cut oats (cooked 25 minutes, cooled), topped with 2 egg whites, ¼ mashed avocado, and 1 tsp cinnamon. Avoid citrus, tomatoes, and added sugars. This combination delivers ~18 g protein, GI ≈ 30, and promotes gastric buffering without acid stimulation.
 
-#### #### Can a low-GI holiday breakfast morning hyperglycemia GERD plan help stabilize overnight glucose?  
+#### Can a low-GI holiday breakfast morning hyperglycemia GERD plan help stabilize overnight glucose?  
 Yes — studies show that consuming 15–20 g protein + low-GI carb at breakfast improves first-phase insulin secretion and reduces dawn phenomenon spikes by up to 30% in adults over 60. Overnight stabilization depends on consistent timing and avoiding late-evening carbs.
 
-#### #### How does GERD affect morning blood sugar in adults 60–75?  
+#### How does GERD affect morning blood sugar in adults 60–75?  
 GERD itself doesn’t raise blood sugar, but shared drivers — like chronic low-grade inflammation, vagal nerve dysfunction, and disrupted sleep due to reflux — impair insulin signaling. Poor GERD control correlates with higher HbA1c (+0.4–0.7%) independent of BMI.
 
-#### #### Are eggs safe for breakfast if I have GERD and diabetes?  
+#### Are eggs safe for breakfast if I have GERD and diabetes?  
 Yes — especially egg whites and whole eggs in moderation (1–2 per day). Eggs are low-GI, high-satiety, and neutral in pH. Avoid frying in butter or pairing with hash browns or toast — those combinations increase acid load and glycemic impact.
 
-#### #### What holiday foods should I avoid for low-GI holiday breakfast morning hyperglycemia GERD?  
+#### What holiday foods should I avoid for low-GI holiday breakfast morning hyperglycemia GERD?  
 Skip cinnamon rolls, pancakes with syrup, granola with dried fruit, and breakfast casseroles with heavy cheese or processed meats. These are typically high-GI, acid-stimulating, and delay gastric emptying — worsening both morning hyperglycemia and reflux.

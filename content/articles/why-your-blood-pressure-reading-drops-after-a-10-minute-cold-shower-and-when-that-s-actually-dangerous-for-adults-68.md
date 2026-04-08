@@ -71,23 +71,23 @@ Tracking your blood pressure trends can help you and your doctor make better dec
 
 ### FAQ
 
-#### #### Is a cold shower blood pressure drop risk higher for seniors with high blood pressure?
+#### Is a cold shower blood pressure drop risk higher for seniors with high blood pressure?
 
 Yes—especially if you're on medications that affect vascular tone or heart rate. Longstanding hypertension often goes hand-in-hand with stiffer arteries and reduced autonomic flexibility, making BP regulation less resilient to thermal stress.
 
-#### #### Can cold showers cause low blood pressure in elderly people even without symptoms?
+#### Can cold showers cause low blood pressure in elderly people even without symptoms?
 
 Absolutely. Studies show up to 40% of adults over 70 experience *asymptomatic* BP drops >30 mm Hg after cold exposure—yet still face increased fall risk and subclinical cerebral perfusion changes over time.
 
-#### #### What’s the safest water temperature for a shower if I’m concerned about cold shower blood pressure drop risk?
+#### What’s the safest water temperature for a shower if I’m concerned about cold shower blood pressure drop risk?
 
 For most adults 68+, water between 85–92°F (29–33°C) offers refreshment without triggering sharp autonomic shifts. If you prefer cooler showers, try ending with 30 seconds of slightly warmer water to ease the transition.
 
-#### #### Does taking deep breaths during a cold shower help prevent blood pressure drops?
+#### Does taking deep breaths during a cold shower help prevent blood pressure drops?
 
 Not reliably—and in some cases, intentional breath-holding or Valsalva-like efforts can worsen vagal tone and deepen the drop. Slow, relaxed breathing *after* the shower is safer and more effective.
 
-#### #### Are there warning signs I should never ignore after a cold shower?
+#### Are there warning signs I should never ignore after a cold shower?
 
 Yes: sudden blurred vision, difficulty speaking, one-sided weakness, or confusion—even if brief—warrant urgent evaluation. These could signal transient cerebral hypoperfusion or other neurological concerns.
 

@@ -89,22 +89,22 @@ Your body speaks in quiet ways — especially around the holidays, when routines
 
 ### FAQ
 
-#### #### Could sudden fatigue after holiday meals be a sign of heart problems in older women?
+#### Could sudden fatigue after holiday meals be a sign of heart problems in older women?
 
 Yes — especially when it appears alongside other subtle signs like needing to sit up to breathe comfortably, shortness of breath while walking after dinner, or waking up breathless at night. In women 65+, these can point to early diastolic changes rather than acute issues, and are often very manageable with lifestyle adjustments and coordinated care.
 
-#### #### What’s the difference between normal post-meal tiredness and concerning sudden fatigue after holiday meals cardiac diastolic dysfunction?
+#### What’s the difference between normal post-meal tiredness and concerning sudden fatigue after holiday meals cardiac diastolic dysfunction?
 
 Normal fullness-related tiredness feels warm, relaxed, and improves with light movement or time. Concerning fatigue arrives quickly — within 30 minutes — feels heavy or “weighted,” persists despite rest, and is often paired with breathing changes or swelling. It’s less about *how much* you ate and more about *how your body responds*.
 
-#### #### Is sudden fatigue after holiday meals cardiac diastolic dysfunction reversible?
+#### Is sudden fatigue after holiday meals cardiac diastolic dysfunction reversible?
 
 Often, yes — particularly when caught early. Weight management (even 5–10% loss), consistent CPAP use, sodium moderation, and regular movement support better diastolic function over time. Many women see meaningful improvement in energy and breathing within 3–6 months of targeted support.
 
-#### #### Can sleep apnea alone cause fatigue after eating — or is it always linked to heart changes?
+#### Can sleep apnea alone cause fatigue after eating — or is it always linked to heart changes?
 
 Sleep apnea can absolutely cause postprandial fatigue on its own — due to disrupted sleep architecture and intermittent hypoxia affecting metabolism and alertness. However, because sleep apnea and diastolic dysfunction frequently coexist and amplify each other, it’s wise to consider both when new or worsening symptoms emerge.
 
-#### #### Does high blood pressure always accompany sudden fatigue after holiday meals cardiac diastolic dysfunction?
+#### Does high blood pressure always accompany sudden fatigue after holiday meals cardiac diastolic dysfunction?
 
 Not always — but it’s very common. Up to 80% of people with diastolic dysfunction have hypertension, often with elevated diastolic (bottom number) or pulse pressure (difference between top and bottom numbers). Even “borderline” readings — like 138/86 mm Hg — matter in context, especially with obesity and apnea.

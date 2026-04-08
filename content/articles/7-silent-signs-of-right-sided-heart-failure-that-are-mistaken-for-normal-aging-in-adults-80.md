@@ -79,22 +79,22 @@ Heart disease remains the leading cause of death among adults over 80—but it d
 
 ### FAQ
 
-#### #### What are the most common right-sided heart failure signs in octogenarians?
+#### What are the most common right-sided heart failure signs in octogenarians?
 
 The most common *subtle* signs include nocturnal polyuria (waking multiple times at night to urinate), isolated jugular venous distension (JVD) without leg swelling, unexplained hepatomegaly, early satiety, and unaccounted-for weight gain. Because these overlap with aging-related changes, they’re often missed—making careful clinical correlation essential.
 
-#### #### Can right-sided heart failure signs in octogenarians occur without swelling?
+#### Can right-sided heart failure signs in octogenarians occur without swelling?
 
 Yes—absolutely. While peripheral edema is classic, up to 25% of older adults with confirmed right-sided heart failure present *without* noticeable ankle or leg swelling. This is especially true in those who are very frail, bedbound, or have low albumin levels. Isolated JVD or hepatomegaly may be the only physical clues.
 
-#### #### How is right-sided heart failure different from left-sided heart failure in older adults?
+#### How is right-sided heart failure different from left-sided heart failure in older adults?
 
 Left-sided failure primarily affects the lungs—causing breathlessness, cough, and orthopnea. Right-sided failure affects systemic circulation—leading to venous congestion in the liver, gut, and neck veins. In octogenarians, both often coexist (biventricular failure), but right-sided signs may dominate early—especially in conditions like pulmonary hypertension or chronic lung disease.
 
-#### #### Is nocturnal polyuria always a sign of heart problems?
+#### Is nocturnal polyuria always a sign of heart problems?
 
 No—not always. It can stem from sleep apnea, diabetes insipidus, or simply age-related decline in antidiuretic hormone (ADH) secretion. However, when nocturnal urine volume exceeds one-third of total 24-hour output *and* appears alongside other subtle signs (like JVD or weight gain), it warrants evaluation for right-sided heart failure.
 
-#### #### What tests help confirm right-sided heart failure in older adults?
+#### What tests help confirm right-sided heart failure in older adults?
 
 An echocardiogram is the gold standard—assessing right ventricular size, function, tricuspid regurgitation velocity (to estimate pulmonary artery pressure), and inferior vena cava size/collapse. Blood tests (BNP or NT-proBNP), chest X-ray, and liver function panels also support diagnosis—and help rule out mimics like cirrhosis or malignancy.

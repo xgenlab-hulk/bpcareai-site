@@ -61,22 +61,22 @@ Recovery after stroke is rarely linear—but it *is* possible. With patience and
 
 ### FAQ
 
-#### #### Can natural methods really improve baroreflex sensitivity after stroke adults 65+?
+#### Can natural methods really improve baroreflex sensitivity after stroke adults 65+?
 
 Yes—studies published in *Stroke* and *Journal of the American Heart Association* confirm that structured, non-invasive practices like paced breathing and rhythmic squatting improve BRS by 20–30% over 6–8 weeks in older stroke survivors. Consistency matters more than intensity.
 
-#### #### What’s the safest way to start improving baroreflex sensitivity after stroke in seniors?
+#### What’s the safest way to start improving baroreflex sensitivity after stroke in seniors?
 
 Begin with seated diaphragmatic breathing (5 sec in, 6 sec out) for 5 minutes once daily. Add cold-face exposure only after clearance from your rehab therapist—especially if you have carotid sinus sensitivity or arrhythmia.
 
-#### #### Does low heart rate variability (HRV) always mean poor baroreflex sensitivity after stroke adults 65+?
+#### Does low heart rate variability (HRV) always mean poor baroreflex sensitivity after stroke adults 65+?
 
 Not always—but they’re closely linked. Reduced HRV often reflects diminished vagal input, which supports baroreflex function. In older stroke patients, low HRV (e.g., RMSSD < 15 ms) correlates strongly with slower BRS recovery.
 
-#### #### How long does it take to see changes in blood pressure stability after starting these natural strategies?
+#### How long does it take to see changes in blood pressure stability after starting these natural strategies?
 
 Most people notice subtle improvements—like less dizziness on standing—in 2–4 weeks. Measurable gains in HRV and orthostatic BP response typically emerge between 6–12 weeks with daily practice.
 
-#### #### Are there foods or supplements that support baroreflex sensitivity?
+#### Are there foods or supplements that support baroreflex sensitivity?
 
 While no supplement directly “fixes” BRS, adequate magnesium (320–420 mg/day), omega-3s (from fatty fish or algae oil), and hydration support vascular health and autonomic balance. Always discuss supplements with your doctor, especially if on anticoagulants.

@@ -57,22 +57,22 @@ Remember: this isn’t about perfection. It’s about working *with*, not agains
 
 ### FAQ
 
-#### #### Is post meal walking timing gastroparesis important for people over 70?
+#### Is post meal walking timing gastroparesis important for people over 70?
 
 Yes—especially because gastric motilin surges become more distinct (though lower in amplitude) with age, and vagal tone recovery slows. The 2023 GI Rhythm Study confirmed that adults 69–84 responded *more consistently* to timed walking than younger adults with similar symptoms.
 
-#### #### What’s the best post meal walking timing gastroparesis for someone with type 2 diabetes?
+#### What’s the best post meal walking timing gastroparesis for someone with type 2 diabetes?
 
 For adults with type 2 diabetes, the +58-minute window is often most effective—coinciding with peak insulin sensitivity and vagal rebound. Pair it with a low-glycemic dessert (like berries) to avoid glucose spikes.
 
-#### #### Can post meal walking timing gastroparesis help reduce bloating after holiday meals?
+#### Can post meal walking timing gastroparesis help reduce bloating after holiday meals?
 
 Absolutely. Holiday meals tend to be higher in fat and volume—both of which delay gastric emptying. Using the +22- and +87-minute windows helps activate motilin-driven cleansing waves *before* bloating sets in.
 
-#### #### Does walking after dinner lower blood pressure?
+#### Does walking after dinner lower blood pressure?
 
 Light walking after meals can support healthy arterial pressure—especially systolic readings. In older adults, 3–5 minutes of movement 60+ minutes post-meal has been linked to modest (~5 mm Hg) reductions in evening systolic BP, likely due to improved vagal balance and reduced postprandial vascular stress.
 
-#### #### Do I need a prescription to try post meal walking timing gastroparesis?
+#### Do I need a prescription to try post meal walking timing gastroparesis?
 
 No—it’s a free, evidence-informed habit. But if you have orthostatic hypotension, severe neuropathy, or recent cardiac events, talk with your care team first to tailor timing and intensity safely.

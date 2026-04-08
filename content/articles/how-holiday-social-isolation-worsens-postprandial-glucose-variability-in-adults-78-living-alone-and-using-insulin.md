@@ -38,22 +38,22 @@ In summary, holiday-related social isolation doesn’t just affect mood—it mea
 
 ### FAQ
 
-#### #### Does social isolation postprandial glucose seniors experience differ from younger adults?
+#### Does social isolation postprandial glucose seniors experience differ from younger adults?
 
 Yes. Adults 78+ have age-related reductions in vagal reserve and slower gastric transit, making them more susceptible to isolation-induced delays in gastric emptying—and thus more pronounced glucose variability after meals. Younger adults may show milder or transient effects.
 
-#### #### Can social isolation postprandial glucose seniors impact long-term diabetes complications?
+#### Can social isolation postprandial glucose seniors impact long-term diabetes complications?
 
 Potentially, yes. Repeated postprandial hyperglycemia (>180 mg/dL) and hypoglycemia increase oxidative stress and endothelial dysfunction—factors linked to accelerated microvascular disease. Studies associate high PPG variability with 20% higher risk of retinopathy progression over 5 years in older adults.
 
-#### #### How does healthy holiday eating for seniors support glucose stability amid isolation?
+#### How does healthy holiday eating for seniors support glucose stability amid isolation?
 
 “Healthy holiday eating for seniors” emphasizes structure—not restriction: consistent timing, balanced macros (e.g., 15g protein + 30g complex carb per meal), and mindful pacing. These habits buffer autonomic instability and reduce reliance on perfect insulin matching—especially valuable when social cues for satiety or routine are missing.
 
-#### #### What role does stress play in social isolation postprandial glucose seniors?
+#### What role does stress play in social isolation postprandial glucose seniors?
 
 Stress elevates cortisol and epinephrine, which oppose insulin action and stimulate hepatic glucose production. In socially isolated seniors, even low-grade, chronic stress contributes to elevated fasting and postprandial glucose—and blunts the effectiveness of rapid-acting insulin.
 
-#### #### Are blood pressure and postprandial glucose linked in socially isolated seniors?
+#### Are blood pressure and postprandial glucose linked in socially isolated seniors?
 
 Yes—through shared autonomic pathways. Vagal withdrawal lowers heart rate variability *and* impairs both gastric motility and vascular reactivity. Seniors with isolated systolic hypertension (e.g., 150/75 mm Hg) often show parallel PPG instability, suggesting a common underlying dysautonomia.

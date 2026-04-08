@@ -63,17 +63,17 @@ Holiday weight gain during menopause is common, but not inevitable. By understan
 
 ### FAQ
 
-#### #### Why do women gain more weight during the holidays after menopause?
+#### Why do women gain more weight during the holidays after menopause?
 After menopause, declining estrogen levels alter fat distribution, increasing abdominal storage. Combined with a slower metabolism and holiday eating patterns, this leads to faster weight gain—commonly referred to as menopause holiday weight gain women experience.
 
-#### #### How can I prevent menopause-related weight gain during the holidays?
+#### How can I prevent menopause-related weight gain during the holidays?
 Focus on balanced meals rich in fiber and protein, control portions, stay physically active, and monitor your waist size. Planning ahead for parties—like eating a healthy snack beforehand—can also reduce overeating.
 
-#### #### Is healthy holiday eating for seniors different after menopause?
+#### Is healthy holiday eating for seniors different after menopause?
 Yes. Postmenopausal women need fewer calories due to lower metabolic rates but require the same or higher amounts of nutrients like calcium and vitamin D. Healthy holiday eating for seniors should emphasize nutrient density over volume.
 
-#### #### Does metabolism really slow down after 50?
+#### Does metabolism really slow down after 50?
 Yes. Metabolic rate decreases by about 5% each decade after 40. This means a woman in her 60s may need 200–300 fewer calories per day than she did in early adulthood, even with similar activity levels.
 
-#### #### Can blood pressure be affected by holiday weight gain in menopausal women?
+#### Can blood pressure be affected by holiday weight gain in menopausal women?
 Yes. Excess weight, especially around the abdomen, increases strain on the heart and blood vessels. Even a 5–10 pound gain can raise arterial pressure, particularly in women already at risk for hypertension.

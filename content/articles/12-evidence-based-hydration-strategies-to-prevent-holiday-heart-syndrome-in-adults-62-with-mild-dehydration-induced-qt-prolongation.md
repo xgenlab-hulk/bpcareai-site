@@ -83,22 +83,22 @@ The holidays are meant to be joyful—not stressful for your heart. The fact tha
 
 ### FAQ
 
-#### #### What are the best hydration strategies for holiday heart syndrome prevention in seniors?
+#### What are the best hydration strategies for holiday heart syndrome prevention in seniors?
 
 The most effective strategies focus on *timing and electrolyte pairing*, not just volume. Prioritize sipping water 20 minutes before meals, adding modest sodium to soups or broths, eating potassium-rich foods with alcohol-containing meals, and avoiding cold or sugary drinks during festivities. These approaches help stabilize QT intervals by supporting steady extracellular potassium and magnesium—critical for safe cardiac repolarization in adults over 60.
 
-#### #### Can mild dehydration really trigger holiday heart syndrome in older adults?
+#### Can mild dehydration really trigger holiday heart syndrome in older adults?
 
 Yes—especially in adults 62+ with borderline QTc (450–470 ms). As little as 1.5% body weight loss from dehydration can reduce plasma volume, increase sympathetic tone, and prolong ventricular repolarization. When combined with even modest alcohol intake, this creates a “perfect storm” for transient arrhythmias. Fortunately, rehydration *around meals*—not just throughout the day—can significantly lower risk.
 
-#### #### Are there specific hydration strategies holiday heart syndrome prevention tips for people taking blood pressure medication?
+#### Are there specific hydration strategies holiday heart syndrome prevention tips for people taking blood pressure medication?
 
 Absolutely. Diuretics (like hydrochlorothiazide) increase potassium and magnesium loss, so pairing meals with potassium-rich foods (spinach, avocado, banana) and considering magnesium glycinate (with provider approval) is wise. Also, avoid overhydrating rapidly—slow, steady sipping around meals helps maintain stable BP *and* electrolytes without stressing the kidneys or heart.
 
-#### #### Does coffee or tea count toward my daily hydration goals during the holidays?
+#### Does coffee or tea count toward my daily hydration goals during the holidays?
 
 Caffeinated beverages have a mild diuretic effect, but regular consumers develop tolerance—so moderate intake (1–2 cups/day) still contributes to net hydration. Herbal teas (chamomile, ginger, peppermint) and warm broths are excellent caffeine-free options that also support electrolyte balance and digestion.
 
-#### #### How much water should adults over 60 drink daily to prevent holiday heart syndrome?
+#### How much water should adults over 60 drink daily to prevent holiday heart syndrome?
 
 Rather than focusing solely on “8 glasses,” aim for *consistent, meal-anchored hydration*: ~4 oz before each meal, sips during meals, and 6 oz of warm broth or herbal tea in the evening. Total fluid intake typically ranges from 1,500–1,700 mL/day for most adults 62+, but individual needs vary based on activity, climate, medications, and kidney function. Urine color and frequency remain the kindest, most reliable guides.

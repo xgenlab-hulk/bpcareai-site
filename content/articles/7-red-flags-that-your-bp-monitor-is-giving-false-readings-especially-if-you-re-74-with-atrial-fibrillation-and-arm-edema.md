@@ -62,22 +62,22 @@ Accurate BP tracking is absolutely achievable—even with AFib and edema—when 
 
 ### FAQ
 
-#### #### Can atrial fibrillation cause false blood pressure readings?
+#### Can atrial fibrillation cause false blood pressure readings?
 
 Yes—AFib introduces irregular pulse intervals that interfere with oscillometric algorithms. Many home monitors either display error messages or produce inaccurate averages, especially if the rhythm is highly variable. Clinically validated devices designed for arrhythmia detection reduce—but don’t eliminate—this risk.
 
-#### #### Why do I get different blood pressure readings every time, especially with arm swelling?
+#### Why do I get different blood pressure readings every time, especially with arm swelling?
 
 Arm edema changes tissue resistance and cuff contact, leading to inconsistent compression dynamics. A cuff that fits well on a non-swollen arm may be too tight or too loose when edema is present—potentially causing *false blood pressure readings in elderly* users by 10–25 mm Hg. Measuring at consistent times (e.g., morning before fluid accumulation peaks) helps improve reliability.
 
-#### #### Are wrist blood pressure monitors reliable for older adults with AFib?
+#### Are wrist blood pressure monitors reliable for older adults with AFib?
 
 Generally, no. Wrist devices are more sensitive to positioning, motion, and arterial stiffness—both common in older adults. They’re also less validated in AFib populations. Upper-arm monitors with proper cuff sizing remain the preferred choice for accuracy.
 
-#### #### How often should I recalibrate or replace my home blood pressure monitor?
+#### How often should I recalibrate or replace my home blood pressure monitor?
 
 Most electronic monitors don’t require user recalibration but should be professionally checked every 1–2 years. Replace your device if it’s over 5 years old, shows physical damage (cracks, frayed tubing), or consistently fails validation checks with a clinical device.
 
-#### #### What’s the best way to confirm if my readings are accurate?
+#### What’s the best way to confirm if my readings are accurate?
 
 The gold standard is comparative validation: Have a healthcare provider take two manual (auscultatory) readings using a mercury or aneroid sphygmomanometer while your device takes a simultaneous reading—ideally during a stable period (not immediately after walking or stress). Repeat on at least two separate visits.

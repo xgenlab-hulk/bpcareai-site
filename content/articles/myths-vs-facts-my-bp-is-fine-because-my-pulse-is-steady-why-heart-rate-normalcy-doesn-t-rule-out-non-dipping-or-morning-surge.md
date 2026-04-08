@@ -75,17 +75,17 @@ A steady heart rate is reassuring—but it’s only one piece of your cardiovasc
 
 ### FAQ
 
-#### #### Does a steady pulse mean my blood pressure is fine?  
+#### Does a steady pulse mean my blood pressure is fine?  
 No. Heart rate and blood pressure are controlled by separate autonomic pathways. A normal, steady pulse does not rule out hypertension, non-dipping, or morning surge—making this a key example of *heart rate steady blood pressure myths*.
 
-#### #### What are signs of non-dipping blood pressure?  
+#### What are signs of non-dipping blood pressure?  
 You won’t feel it—but clues include frequent nighttime urination (nocturia), morning headaches, or fatigue despite adequate sleep. Confirmation requires ambulatory BP monitoring showing <10% drop in average nighttime systolic BP versus daytime.
 
-#### #### Can heart rate steady blood pressure myths affect treatment decisions?  
+#### Can heart rate steady blood pressure myths affect treatment decisions?  
 Yes. Relying solely on HR or isolated clinic BP readings may lead to under-treatment of masked hypertension. Up to 25% of adults with normal office BP show abnormal patterns on ABPM—highlighting why *heart rate steady blood pressure myths* can delay appropriate care.
 
-#### #### Is morning surge dangerous even if my resting heart rate is normal?  
+#### Is morning surge dangerous even if my resting heart rate is normal?  
 Yes. A morning systolic surge >20 mm Hg is associated with a 2–3× increased risk of stroke. It reflects heightened sympathetic tone and arterial stiffness—not HR changes—so it can occur silently alongside steady HR.
 
-#### #### How often should I check blood pressure if I’m over 50?  
+#### How often should I check blood pressure if I’m over 50?  
 At minimum: twice daily (morning and evening) for one week, repeated quarterly—or as directed by your clinician. More frequent monitoring is advised if you have hypertension, diabetes, or kidney disease.

@@ -92,22 +92,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What are the earliest blood test signs of mitochondrial problems in type 2 diabetes?
+#### What are the earliest blood test signs of mitochondrial problems in type 2 diabetes?
 
 Early blood-based clues include abnormal acylcarnitine profiles (especially elevated C14:1, C16, and C18:1), a rising lactate/pyruvate ratio after mild activity, and subtle changes in creatine kinase or ALT—not as markers of damage, but as reflections of shifting energy metabolism. These often appear before noticeable muscle weakness or fatigue becomes severe.
 
-#### #### How do mitochondrial dysfunction lab clues diabetes relate to exercise intolerance?
+#### How do mitochondrial dysfunction lab clues diabetes relate to exercise intolerance?
 
 They help explain *why* exercise feels harder than expected—even with good cardiovascular health. When mitochondria process fuel less efficiently, muscles rely more on anaerobic pathways, leading to earlier lactate buildup, heavier legs, and longer recovery. Recognizing these clues allows for tailored support—like adjusting exercise pacing or emphasizing recovery nutrition.
 
-#### #### Are mitochondrial dysfunction lab clues diabetes covered by insurance?
+#### Are mitochondrial dysfunction lab clues diabetes covered by insurance?
 
 Coverage varies. Acylcarnitine panels and lactate/pyruvate ratios are sometimes covered when ordered for evaluation of unexplained fatigue or metabolic concerns—especially with supporting clinical documentation. Urinary TCA intermediates are less commonly covered but may be available through specialty labs with self-pay options. Always check with your provider and insurer ahead of testing.
 
-#### #### Can lifestyle changes improve mitochondrial function in adults over 60 with diabetes?
+#### Can lifestyle changes improve mitochondrial function in adults over 60 with diabetes?
 
 Yes—robustly. Studies show measurable improvements in mitochondrial density, enzyme activity (e.g., citrate synthase), and oxygen utilization after 8–12 weeks of combined aerobic and resistance training—even in adults aged 65–80. Nutrition, sleep, and stress management further support these gains.
 
-#### #### Is mitochondrial dysfunction the same as chronic fatigue syndrome?
+#### Is mitochondrial dysfunction the same as chronic fatigue syndrome?
 
 No. Mitochondrial dysfunction refers to a measurable reduction in cellular energy production capacity—often linked to metabolic conditions like type 2 diabetes. Chronic fatigue syndrome (now often called ME/CFS) is a distinct, complex neuroimmune condition with different diagnostic criteria and mechanisms. While fatigue overlaps, the underlying drivers and management strategies differ significantly.

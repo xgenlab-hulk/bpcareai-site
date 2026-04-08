@@ -89,17 +89,17 @@ The fact that you’re reading this means you care deeply about your health—an
 
 ### FAQ
 
-#### #### Can over-the-counter pain relievers really affect my kidneys if I only take them once in a while?
+#### Can over-the-counter pain relievers really affect my kidneys if I only take them once in a while?
 Yes—especially if you’re over 65 and taking an ACE inhibitor or diuretic. Even a few doses of ibuprofen or naproxen can temporarily reduce kidney blood flow and increase albumin leakage. Acetaminophen is usually safer, but always discuss frequency and dosage with your healthcare team.
 
-#### #### What are the most common mistakes worsening diabetic nephropathy in older adults?
+#### What are the most common mistakes worsening diabetic nephropathy in older adults?
 The top three are: (1) not checking for loss of nighttime BP dipping, (2) consuming too much sodium early in the day (which interferes with ACE inhibitor effectiveness), and (3) using NSAIDs without medical guidance—even occasionally. Each is easily assessed and adjusted with simple changes.
 
-#### #### Are there dietary mistakes worsening diabetic nephropathy that people don’t realize?
+#### Are there dietary mistakes worsening diabetic nephropathy that people don’t realize?
 Yes—especially timing-related ones. Eating high-sodium foods at breakfast (e.g., smoked fish, pickles, canned beans) undermines kidney protection for much of the day. Also, skipping meals or eating inconsistently can cause glucose and BP swings that stress delicate kidney filters.
 
-#### #### Does coffee raise blood pressure enough to harm my kidneys?
+#### Does coffee raise blood pressure enough to harm my kidneys?
 For most people over 65, moderate coffee (1–2 cups/day) doesn’t significantly raise BP long-term—especially if consumed without added sugar or creamers. However, if you notice jitteriness, palpitations, or a rise in home BP readings after coffee, consider switching to decaf or herbal teas.
 
-#### #### Is microalbuminuria reversible in older adults?
+#### Is microalbuminuria reversible in older adults?
 Yes—frequently. Studies show that up to 50% of adults over 65 with isolated microalbuminuria return to normal UACR within 2–3 years when blood pressure, sodium, uric acid, and medication use are optimized—even without changing diabetes treatment.

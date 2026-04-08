@@ -45,22 +45,22 @@ In short, winter-related blood pressure changes are common, manageable, and rare
 
 ### FAQ
 
-#### #### Does low vitamin D cause winter hypertension in seniors?
+#### Does low vitamin D cause winter hypertension in seniors?
 
 Not directly—but research shows a consistent association. Low vitamin D levels (especially below 20 ng/mL) correlate with increased arterial stiffness and renin-angiotensin system activation, both of which can contribute to seasonal BP elevation in older adults. It's one piece of a larger picture—not a sole cause.
 
-#### #### Can vitamin D supplements lower blood pressure in winter?
+#### Can vitamin D supplements lower blood pressure in winter?
 
 Some clinical trials report modest reductions—typically 2–4 mm Hg in systolic BP—among seniors with baseline deficiency who take 1,000–2,000 IU daily for 3+ months. But results vary, and supplements work best alongside other heart-healthy habits—not in isolation.
 
-#### #### Is vitamin d and winter hypertension reversible?
+#### Is vitamin d and winter hypertension reversible?
 
 Yes—most often. Restoring vitamin D levels to 30 ng/mL or higher, combined with regular physical activity and mindful sodium intake, frequently supports a return toward baseline winter BP patterns within 8–12 weeks.
 
-#### #### What’s the best time of day to check blood pressure in winter?
+#### What’s the best time of day to check blood pressure in winter?
 
 Morning, about an hour after waking and before caffeine or breakfast, tends to yield the most consistent readings. Avoid checking right after coming in from cold outdoor air—wait 15–20 minutes to let your body temperature and circulation stabilize.
 
-#### #### Are there natural food sources high in vitamin D for seniors?
+#### Are there natural food sources high in vitamin D for seniors?
 
 Yes—fatty fish (3 oz salmon = ~570 IU), fortified milk or oat milk (120–140 IU per cup), UV-exposed mushrooms (varies widely), and egg yolks (40 IU each). Since dietary intake alone rarely meets full winter needs for older adults, pairing foods with sensible sun exposure or supplementation (if advised) is often most effective.

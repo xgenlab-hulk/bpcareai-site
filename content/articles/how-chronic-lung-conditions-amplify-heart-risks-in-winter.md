@@ -81,22 +81,22 @@ Winter doesn’t have to mean stepping back from life—it can be a season of th
 
 ### FAQ
 
-#### #### Does cold weather really increase heart attack risk for people with COPD?
+#### Does cold weather really increase heart attack risk for people with COPD?
 
 Yes—studies suggest adults over 65 with COPD face up to a 20% higher risk of cardiovascular events (like heart attacks or hospitalizations for heart failure) during December–February compared to warmer months. Cold-induced vasoconstriction, increased blood viscosity, and heightened sympathetic nervous system activity all contribute. It’s not inevitable—but it underscores why proactive monitoring matters.
 
-#### #### How does lung disease winter heart risk differ from general winter heart health for seniors?
+#### How does lung disease winter heart risk differ from general winter heart health for seniors?
 
 While all older adults experience some rise in blood pressure and clotting tendency in cold weather, *lung disease winter heart risk* adds a layer of oxygen-related stress. Reduced gas exchange means the heart must work harder to deliver adequate oxygen—even at rest. This dual burden makes BP control, symptom awareness, and early intervention especially important for those managing asthma or COPD.
 
-#### #### Can using a rescue inhaler more often in winter signal rising heart strain?
+#### Can using a rescue inhaler more often in winter signal rising heart strain?
 
 Not directly—but increased reliance on short-acting bronchodilators (like albuterol) may reflect worsening airway narrowing, which in turn raises demand on the heart. Frequent use (more than two days per week for symptom relief, outside of exercise) warrants a check-in with your provider—not just for lung management, but to assess whether your cardiovascular status needs reevaluation.
 
-#### #### Is it safe to continue my heart medications if I get a cold or flu this winter?
+#### Is it safe to continue my heart medications if I get a cold or flu this winter?
 
 Yes—continue all prescribed heart and lung medications unless specifically advised otherwise by your doctor. Stopping beta-blockers, ACE inhibitors, or inhalers abruptly can cause rebound effects. Instead, let your care team know about any new illness so they can guide adjustments safely.
 
-#### #### What’s the best indoor temperature for someone with both COPD and high blood pressure?
+#### What’s the best indoor temperature for someone with both COPD and high blood pressure?
 
 Aim for 68–72°F (20–22°C) with humidity between 40–50%. Too warm (>75°F) can cause vasodilation and BP drops that lead to dizziness; too cold (<65°F) triggers vasoconstriction and BP spikes. Consistency matters more than perfection—small, steady adjustments support both lung comfort and heart stability.

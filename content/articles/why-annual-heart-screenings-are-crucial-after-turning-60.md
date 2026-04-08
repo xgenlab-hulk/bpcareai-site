@@ -86,22 +86,22 @@ Caring for your heart after 60 isn’t about fearing decline—it’s about deep
 
 ### FAQ
 
-#### #### Do I really need annual heart screenings after 60 if I feel perfectly healthy?
+#### Do I really need annual heart screenings after 60 if I feel perfectly healthy?
 
 Yes—even if you feel great, subtle changes in blood pressure, cholesterol, or heart rhythm can develop without symptoms. Annual heart screenings after 60 help detect these early, when lifestyle adjustments or gentle interventions are most effective. Feeling well is wonderful—and regular screenings help keep it that way.
 
-#### #### What specific tests are included in annual heart screenings after 60?
+#### What specific tests are included in annual heart screenings after 60?
 
 Most include blood pressure measurement, a fasting lipid panel, blood glucose or HbA1c test, and an electrocardiogram (ECG). Depending on your personal and family history, your doctor may also recommend additional assessments—like a thyroid panel or kidney function test—since these influence heart health too.
 
-#### #### How often should I get heart screenings after age 60—and does insurance cover them?
+#### How often should I get heart screenings after age 60—and does insurance cover them?
 
 The American Heart Association and U.S. Preventive Services Task Force recommend *annual heart screenings after 60*, especially for those with risk factors. Many Medicare Advantage plans and standard Medicare Part B cover preventive cardiovascular screenings—including cholesterol and blood pressure checks—at no cost once per year. Be sure to ask your provider which services are included in your plan.
 
-#### #### Can stress really affect my heart screening results?
+#### Can stress really affect my heart screening results?
 
 Yes—temporary stress or anxiety can elevate blood pressure or cause minor ECG variations during your appointment. That’s why doctors often take multiple readings and consider trends over time—not just one visit. Practicing slow breathing for a few minutes before your screening can help you relax and get the most accurate picture.
 
-#### #### Is high cholesterol still a concern after 60—even if I’ve never had issues before?
+#### Is high cholesterol still a concern after 60—even if I’ve never had issues before?
 
 Absolutely. Cholesterol metabolism changes with age, and LDL (“bad”) cholesterol tends to rise gradually after 60—especially in women post-menopause. Since high LDL contributes to plaque buildup over time, catching it early through *annual heart screenings after 60* allows for proactive, personalized support—whether that’s dietary tweaks, increased activity, or, if needed, medication.

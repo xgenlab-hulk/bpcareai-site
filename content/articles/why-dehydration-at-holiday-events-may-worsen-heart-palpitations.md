@@ -61,22 +61,22 @@ Holiday stress, rich food, late nights, and social demands all converge at once�
 
 ### FAQ
 
-#### #### Can dehydration cause heart palpitations during Christmas parties?
+#### Can dehydration cause heart palpitations during Christmas parties?
 
 Yes—especially when combined with alcohol, caffeine, or salty foods. Dehydration lowers blood volume and alters electrolytes, making the heart more sensitive to rhythm disturbances. This is a key contributor to **dehydration holiday palpitations**, particularly among adults over 50.
 
-#### #### What are the best drinks to prevent dehydration holiday palpitations?
+#### What are the best drinks to prevent dehydration holiday palpitations?
 
 Water is ideal—but unsweetened herbal teas, diluted fruit juices, and low-sodium broths also help. Avoid sugary sodas and excessive coffee or energy drinks, which can worsen dehydration and stimulate the heart.
 
-#### #### Is “holiday heart syndrome prevention” possible without giving up alcohol entirely?
+#### Is “holiday heart syndrome prevention” possible without giving up alcohol entirely?
 
 Absolutely. Prevention focuses on moderation and balance: limit drinks, pair each one with water, avoid drinking on an empty stomach, and stay hydrated before, during, and after events. Many people find even small adjustments significantly reduce palpitations.
 
-#### #### How long do dehydration-related palpitations usually last?
+#### How long do dehydration-related palpitations usually last?
 
 Most resolve within minutes to hours once hydration and electrolyte balance improve. If episodes persist beyond a day—or increase in frequency or intensity—it’s wise to consult your healthcare provider.
 
-#### #### Does cold weather make dehydration holiday palpitations more likely?
+#### Does cold weather make dehydration holiday palpitations more likely?
 
 Indirectly, yes. Cold, dry air (especially indoors with heating systems) increases insensible water loss through breathing and skin. Add holiday activities and reduced thirst cues—and it’s easier to become dehydrated without realizing it.

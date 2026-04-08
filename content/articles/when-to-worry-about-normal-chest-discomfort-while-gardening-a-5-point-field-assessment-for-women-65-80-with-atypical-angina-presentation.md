@@ -68,17 +68,17 @@ Noticing subtle changes in how your body responds to everyday joys—like garden
 
 ### FAQ  
 
-#### #### What are the most common signs of atypical angina in women gardening?  
+#### What are the most common signs of atypical angina in women gardening?  
 The most common signs include unexplained jaw or neck pressure *during* physical activity (like digging or lifting), unusual fatigue that lingers hours after gardening, shortness of breath without heavy exertion, and nausea or cold sweats with no digestive cause. Importantly, these often occur *without* classic chest pain.
 
-#### #### How is atypical angina in women different from regular heartburn while gardening?  
+#### How is atypical angina in women different from regular heartburn while gardening?  
 Heartburn typically burns *behind the breastbone*, improves quickly with antacids or sitting upright, and may worsen when bending forward. Atypical angina in women gardening is more likely to radiate to the jaw or back, persist *after* stopping activity, and *not* respond to antacids—even if it feels “burning.”
 
-#### #### Can high blood pressure cause atypical angina in women gardening?  
+#### Can high blood pressure cause atypical angina in women gardening?  
 High BP (especially if consistently ≥140/90 mm Hg) increases strain on the heart and raises risk for silent ischemia—but it doesn’t *cause* angina directly. However, uncontrolled hypertension combined with exertion can unmask underlying coronary artery disease, making atypical angina more likely.
 
-#### #### Is it safe to keep gardening if I’ve been diagnosed with atypical angina?  
+#### Is it safe to keep gardening if I’ve been diagnosed with atypical angina?  
 Yes—with guidance. Most women can continue gardening safely by pacing, using ergonomic tools, avoiding peak heat, and stopping *before* symptoms arise. Your cardiologist or primary care provider can help tailor a plan—including possible stress testing or medication adjustments.
 
-#### #### What tests are used to diagnose atypical angina in women?  
+#### What tests are used to diagnose atypical angina in women?  
 Common evaluations include an ECG (resting and possibly exercise-stress), echocardiogram, coronary CT angiography, or functional testing like a stress echocardiogram or nuclear perfusion scan—especially if standard tests are inconclusive. Because symptoms are atypical, clinicians increasingly rely on symptom context *plus* objective data.

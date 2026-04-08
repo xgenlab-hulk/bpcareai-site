@@ -63,17 +63,17 @@ You’re not alone in navigating these details—and small adjustments often mak
 
 ### FAQ
 
-#### #### Can probiotics raise blood sugar in people taking metformin?
+#### Can probiotics raise blood sugar in people taking metformin?
 Yes—some strains and formulations may contribute to modest increases in blood glucose, especially in adults over 60. This isn’t universal, but it’s worth monitoring, particularly with high-potency or multi-strain products containing fermentable fibers.
 
-#### #### What probiotics are safest with metformin for seniors?
+#### What probiotics are safest with metformin for seniors?
 Strains like *Bifidobacterium longum* BB536 and *Lactobacillus acidophilus* NCFM have shown neutral or mildly beneficial glucose effects in older adult studies. Look for sugar-free, dairy-free, and refrigerated options when possible.
 
-#### #### Does the metformin probiotics blood glucose interaction affect A1c?
+#### Does the metformin probiotics blood glucose interaction affect A1c?
 Not typically in the short term—but sustained small elevations (e.g., 10–20 mg/dL fasting) over several months *could* contribute to a slight A1c drift (e.g., 0.2–0.3%). Regular testing helps catch patterns early.
 
-#### #### Are there foods that worsen the metformin probiotics blood glucose interaction?
+#### Are there foods that worsen the metformin probiotics blood glucose interaction?
 Yes—high-fiber cereals, agave-sweetened yogurts, or kombucha with added fruit juice may amplify glucose responses when combined with certain probiotics. Pairing probiotics with low-glycemic meals supports steadier readings.
 
-#### #### How soon after starting probiotics might I see a change in blood glucose while on metformin?
+#### How soon after starting probiotics might I see a change in blood glucose while on metformin?
 Most noticeable shifts—if they occur—emerge within 2–6 weeks. That’s why checking glucose at baseline and then again after one month is a practical, low-effort way to assess impact.

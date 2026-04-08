@@ -44,22 +44,22 @@ In closing, supporting **mitochondrial quality control in cardiomyocytes** is le
 
 ### FAQ
 
-#### #### Can mitochondrial quality control in cardiomyocytes be improved after age 65?
+#### Can mitochondrial quality control in cardiomyocytes be improved after age 65?
 
 Yes—studies show mitophagy responsiveness remains intact in older adults. Interventions like fasting-mimicking diets and Urolithin A have demonstrated measurable improvements in mitochondrial turnover markers (e.g., increased LC3-II/I ratio, reduced oxidized mitochondrial proteins) in clinical trials with participants aged 65–80.
 
-#### #### What’s the difference between general autophagy and mitochondrial quality control in cardiomyocytes?
+#### What’s the difference between general autophagy and mitochondrial quality control in cardiomyocytes?
 
 Autophagy is the body’s broad cellular “cleanup” system. Mitochondrial quality control in cardiomyocytes is a specialized subset—focusing exclusively on identifying, isolating, and recycling damaged mitochondria in heart muscle cells. Because cardiomyocytes rarely divide, this process is especially vital for long-term function.
 
-#### #### Does Urolithin A raise blood pressure or interact with heart medications?
+#### Does Urolithin A raise blood pressure or interact with heart medications?
 
 No evidence suggests Urolithin A affects arterial pressure or interacts with common cardiovascular medications (e.g., beta-blockers, ACE inhibitors, statins) in clinical studies to date. However, always share new supplements with your prescribing clinician—especially if you’re on anticoagulants or diuretics.
 
-#### #### How often should I do a fasting-mimicking diet for heart mitochondrial support?
+#### How often should I do a fasting-mimicking diet for heart mitochondrial support?
 
 Current evidence supports a monthly 5-day cycle for adults 65+. Longer or more frequent cycles haven’t shown added benefit—and may risk unintended lean mass loss in older adults. Consistency over intensity is key.
 
-#### #### Is VO₂ peak the best way to assess mitochondrial quality control in cardiomyocytes?
+#### Is VO₂ peak the best way to assess mitochondrial quality control in cardiomyocytes?
 
 While not a direct measure, VO₂ peak is the strongest *functional* correlate—reflecting integrated mitochondrial capacity across the heart, lungs, and muscles. In adults 66+, a VO₂ peak <18 mL/kg/min often aligns with reduced mitophagy efficiency observed in tissue biomarker studies.

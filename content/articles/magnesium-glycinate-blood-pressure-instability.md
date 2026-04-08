@@ -75,22 +75,22 @@ In short, **magnesium-glycinate-blood-pressure-instability** is rarely dangerous
 
 ### FAQ
 
-#### #### Can magnesium glycinate cause blood pressure fluctuations even if lab tests are normal?
+#### Can magnesium glycinate cause blood pressure fluctuations even if lab tests are normal?
 
 Yes—serum magnesium reflects only circulating levels, not tissue stores or functional vascular effects. Subclinical BP shifts may appear as altered nocturnal dipping, post-void overshoot, or reduced HRV, even with labs in the “normal” range.
 
-#### #### What is magnesium-glycinate-blood-pressure-instability—and is it dangerous?
+#### What is magnesium-glycinate-blood-pressure-instability—and is it dangerous?
 
 **Magnesium-glycinate-blood-pressure-instability** refers to subtle, rhythm-related changes in arterial pressure—like delayed nocturnal dips or exaggerated morning surges—that can occur with magnesium glycinate use in older adults. It’s usually not dangerous, but signals the need for personalized dosing or timing.
 
-#### #### How do I know if my magnesium glycinate is affecting my blood pressure?
+#### How do I know if my magnesium glycinate is affecting my blood pressure?
 
 Look for consistent patterns—not just numbers: morning fatigue despite “normal” BP, feeling unsteady after urinating, or needing longer to feel mentally clear upon waking. Pair symptom notes with home BP logs across 5–7 days.
 
-#### #### Does magnesium glycinate lower blood pressure too much in seniors?
+#### Does magnesium glycinate lower blood pressure too much in seniors?
 
 Not typically—but in those with mild diastolic dysfunction or autonomic changes, its vasodilatory effect may shift pressure distribution rather than simply lowering it. The issue isn’t “too low,” but *less stable* across daily transitions.
 
-#### #### Should I stop magnesium glycinate if I notice these signs?
+#### Should I stop magnesium glycinate if I notice these signs?
 
 Not necessarily—adjustments like dose timing, hydration habits, or splitting the dose may restore balance. Always discuss changes with your care team, especially if you’re on other cardiovascular medications.

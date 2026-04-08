@@ -87,17 +87,17 @@ Changes in alcohol metabolism after age 55 aren’t a sign of decline—they’r
 
 ### FAQ  
 
-#### #### Does alcohol metabolism age 55 holiday heart risk apply even if I only drink wine?  
+#### Does alcohol metabolism age 55 holiday heart risk apply even if I only drink wine?  
 Yes. The risk stems from ethanol content—not beverage type. Red wine contains polyphenols, but its alcohol still metabolizes into acetaldehyde. A 5-oz glass of wine (12% ABV) delivers ~14 g ethanol—the same trigger load as other standard drinks.
 
-#### #### Can holiday heart syndrome happen with just one drink after age 55?  
+#### Can holiday heart syndrome happen with just one drink after age 55?  
 Rarely—but possible in susceptible individuals, especially those with confirmed mild steatosis and low ALDH2 reserve. Case reports document new-onset AFib after as little as 10–12 g ethanol (≈¾ of a standard drink) in adults over 60 with elevated GGT and insulin resistance.
 
-#### #### How long does it take for alcohol metabolism to improve after stopping drinking at age 58?  
+#### How long does it take for alcohol metabolism to improve after stopping drinking at age 58?  
 Liver fat reduction begins within **7–10 days**, and ALDH2 expression improves gradually over **8–12 weeks** of sustained abstinence. Full enzymatic recovery varies by genetics and baseline health—but functional gains in acetaldehyde clearance are measurable within the first month.
 
-#### #### Is there a blood test that shows how well I metabolize alcohol?  
+#### Is there a blood test that shows how well I metabolize alcohol?  
 No direct commercial test exists for ALDH2 *activity*, but indirect clues include: persistently elevated GGT despite abstinence, low urinary thiamine metabolites, or high serum acetaldehyde levels (research-only assay). Clinically, we rely on pattern recognition + liver biomarkers.
 
-#### #### Does holiday heart syndrome increase long-term stroke risk?  
+#### Does holiday heart syndrome increase long-term stroke risk?  
 Yes—if untreated. A single episode of alcohol-triggered AFib carries a **1.6× increased 5-year stroke risk**, especially if recurrent. Early detection and abstinence reduce that risk substantially—underscoring why prevention matters more than reaction.

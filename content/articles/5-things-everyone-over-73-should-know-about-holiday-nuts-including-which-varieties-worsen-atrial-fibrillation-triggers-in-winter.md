@@ -68,17 +68,17 @@ A joyful, connected holiday season is absolutely possible—even with AFib. With
 
 ### FAQ
 
-#### #### Are holiday nuts bad for people with atrial fibrillation?
+#### Are holiday nuts bad for people with atrial fibrillation?
 Not inherently—but some varieties (like Brazil nuts or large portions of almonds) may tip mineral balance in ways that increase susceptibility to AFib episodes, especially during colder months. Focus on portion control, pairing, and individual tolerance.
 
-#### #### Which holiday nuts increase atrial fibrillation risk the most?
+#### Which holiday nuts increase atrial fibrillation risk the most?
 Brazil nuts (due to very high magnesium and low potassium) and heavily salted mixed nuts (due to sodium-induced fluid shifts and BP spikes) carry the highest potential for triggering AFib in sensitive individuals over 73.
 
-#### #### Can eating nuts cause atrial fibrillation in seniors?
+#### Can eating nuts cause atrial fibrillation in seniors?
 Nuts alone won’t *cause* AFib, but in people with existing paroxysmal AFib—especially with age-related changes in electrolyte handling or vagal responsiveness—they can act as a trigger. It’s about context: timing, quantity, temperature, and overall health.
 
-#### #### How do holiday nuts affect blood pressure and heart rhythm together?
+#### How do holiday nuts affect blood pressure and heart rhythm together?
 High-sodium nuts can raise BP acutely (e.g., 5–10 mm Hg systolic), increasing strain on the atria. Meanwhile, imbalanced Mg:K ratios may alter cardiac cell excitability—creating a “double effect” on rhythm stability during winter.
 
-#### #### What are the safest holiday nuts for seniors with AFib?
+#### What are the safest holiday nuts for seniors with AFib?
 Walnuts, pecans, and unsalted cashews are generally the safest choices—moderate in magnesium, supportive of potassium balance, and naturally low in sodium. Always keep portions small and enjoy them mindfully.

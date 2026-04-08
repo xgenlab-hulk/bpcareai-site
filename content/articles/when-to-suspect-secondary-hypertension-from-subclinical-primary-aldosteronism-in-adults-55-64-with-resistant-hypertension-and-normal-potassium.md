@@ -90,17 +90,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What are the early signs of secondary hypertension subclinical aldosteronism?
+#### What are the early signs of secondary hypertension subclinical aldosteronism?
 Early signs often lack drama: subtle fatigue, mild swelling in the ankles, gradually worsening blood pressure control despite medications, or findings like early diastolic dysfunction on echo—even with normal potassium. A rising BP after potassium supplementation or an elevated upright aldosterone-to-renin ratio are key functional clues.
 
-#### #### How common is secondary hypertension subclinical aldosteronism in adults over 60?
+#### How common is secondary hypertension subclinical aldosteronism in adults over 60?
 It’s more common than many realize—studies estimate 5–10% of adults aged 55–64 with resistant hypertension have subclinical PA. Prevalence rises slightly with age, though diagnosis rates remain low due to under-screening.
 
-#### #### Can secondary hypertension subclinical aldosteronism occur with normal kidney function?
+#### Can secondary hypertension subclinical aldosteronism occur with normal kidney function?
 Yes—absolutely. Many patients have normal serum creatinine and eGFR early on. Aldosterone’s damage begins at the tissue level (blood vessels, heart, kidney tubules) before lab markers shift. Microalbuminuria or subtle changes in urinary sodium excretion may appear first.
 
-#### #### Does stress cause secondary hypertension subclinical aldosteronism?
+#### Does stress cause secondary hypertension subclinical aldosteronism?
 No—stress doesn’t *cause* it, but it can worsen it. Chronic stress activates the sympathetic nervous system and RAAS, potentially amplifying aldosterone’s effects and making BP harder to control. Managing stress supports treatment but doesn’t replace the need for proper diagnosis.
 
-#### #### Is an adrenal CT scan enough to rule out secondary hypertension subclinical aldosteronism?
+#### Is an adrenal CT scan enough to rule out secondary hypertension subclinical aldosteronism?
 Not quite. A normal CT scan rules out large adrenal tumors—but subclinical PA often stems from bilateral adrenal hyperplasia (BAH), which appears normal on imaging. Functional testing (like ARR + confirmatory tests) is essential. Imaging alone misses up to 60% of cases.

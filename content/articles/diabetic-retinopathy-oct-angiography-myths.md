@@ -68,17 +68,17 @@ Hearing that changes can happen silently may sound worrying—but remember, OCT-
 
 ### FAQ
 
-#### #### Does OCT angiography hurt or require dilation?  
+#### Does OCT angiography hurt or require dilation?  
 No—it’s completely non-invasive and painless. Most people don’t need dilation, though some providers may use mild drops to get the clearest view. The scan takes just seconds and feels like looking at a blinking light.
 
-#### #### How often should someone with long-term diabetes get OCT angiography?  
+#### How often should someone with long-term diabetes get OCT angiography?  
 For adults 61+ with 8+ years of T2D, many specialists recommend baseline OCT-A alongside your annual dilated exam—and repeat imaging every 1–2 years if early capillary changes are seen. Frequency depends on your individual risk profile.
 
-#### #### Are diabetic retinopathy oct angiography myths preventing early detection?  
+#### Are diabetic retinopathy oct angiography myths preventing early detection?  
 Yes—many people skip or delay specialized imaging because they assume “no symptoms = no problem.” But OCT-A proves that retinal capillary dropout begins silently. Dispelling these *diabetic retinopathy oct angiography myths* helps more adults access timely, preventive care.
 
-#### #### Can lifestyle changes reverse early capillary dropout seen on OCT-A?  
+#### Can lifestyle changes reverse early capillary dropout seen on OCT-A?  
 Not always fully—but strong evidence shows that improving BP control, treating sleep apnea, and maintaining stable glucose can slow progression significantly and sometimes restore partial perfusion in early stages.
 
-#### #### Is OCT angiography covered by insurance for people with diabetes?  
+#### Is OCT angiography covered by insurance for people with diabetes?  
 Coverage varies, but many Medicare Advantage plans and commercial insurers now cover OCT-A for patients with diabetes and known risk factors—especially when ordered by a retina specialist as part of a comprehensive assessment.

@@ -90,17 +90,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What are the earliest signs of diabetic retinopathy in someone with normal A1c but high post-meal glucose?
+#### What are the earliest signs of diabetic retinopathy in someone with normal A1c but high post-meal glucose?
 The earliest signs aren’t visual—they’re microscopic: capillary non-perfusion in the retinal periphery, microaneurysms outside the macula, and subtle vessel caliber changes. These are detectable via ultra-widefield imaging or OCTA, not standard eye exams—and they correlate more closely with postprandial glucose variability than A1c.
 
-#### #### Can early diabetic retinopathy signs fluctuating glucose appear even with A1c under 6.5%?
+#### Can early diabetic retinopathy signs fluctuating glucose appear even with A1c under 6.5%?
 Yes. Research confirms that glycemic variability—particularly large postprandial excursions—drives oxidative stress in retinal capillaries independently of mean glucose. Adults with A1c 5.9–6.4% but frequent spikes >160 mg/dL may show early microvascular changes on advanced imaging.
 
-#### #### How often should adults 55–64 with diabetes get ultra-widefield retinal imaging?
+#### How often should adults 55–64 with diabetes get ultra-widefield retinal imaging?
 While guidelines don’t yet mandate it universally, experts recommend baseline UWFA or OCTA for anyone with diabetes ≥5 years—especially if they have hypertension, dyslipidemia, or known glucose variability. Repeat every 12–24 months if initial imaging shows early changes; otherwise, every 2–3 years with annual standard dilated exams.
 
-#### #### Does blood pressure variability affect early diabetic retinopathy signs fluctuating glucose?
+#### Does blood pressure variability affect early diabetic retinopathy signs fluctuating glucose?
 Yes—strongly. Visit-to-visit systolic BP variation >15 mm Hg multiplies retinal microvascular risk when combined with high glucose variability. Both disrupt endothelial shear stress responses and promote pericyte loss.
 
-#### #### Are there lifestyle changes proven to reduce early diabetic retinopathy signs fluctuating glucose?
+#### Are there lifestyle changes proven to reduce early diabetic retinopathy signs fluctuating glucose?
 Yes. Clinical trials show that structured low-glycemic-load meals, postprandial walking (10–15 min), and consistent sleep schedules reduce MAGE by 25–40% over 12 weeks—slowing progression of early microvascular changes on imaging.

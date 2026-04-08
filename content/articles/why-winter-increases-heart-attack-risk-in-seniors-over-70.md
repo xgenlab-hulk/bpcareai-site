@@ -103,17 +103,17 @@ Winter doesn’t have to be a season of fear for seniors. With awareness and sim
 
 ### FAQ
 
-#### #### Why are seniors more at risk for heart attacks in winter?
+#### Why are seniors more at risk for heart attacks in winter?
 Older adults, especially those over 70, have reduced cardiovascular resilience. Cold weather causes blood vessels to narrow, raising blood pressure and forcing the heart to work harder. Seniors often have underlying conditions like high BP or artery disease, making them more vulnerable to these changes.
 
-#### #### Does cold weather directly cause heart attacks in seniors?
+#### Does cold weather directly cause heart attacks in seniors?
 Cold weather doesn’t directly “cause” heart attacks, but it creates conditions that increase the likelihood—especially in people with existing heart disease. Lower temperatures raise blood pressure, thicken blood slightly, and increase heart workload, all of which can trigger an event in at-risk individuals.
 
-#### #### What is winter heart attack risk for seniors with high blood pressure?
+#### What is winter heart attack risk for seniors with high blood pressure?
 Seniors with high blood pressure face a significantly higher risk in winter because cold-induced vasoconstriction can push BP even higher—sometimes by 10–20 mm Hg. This increases strain on the heart and raises the chance of a cardiovascular event.
 
-#### #### How can I protect my elderly parent during cold weather?
+#### How can I protect my elderly parent during cold weather?
 Help them dress warmly in layers, avoid outdoor exertion like shoveling, keep their home adequately heated, and encourage regular hydration and movement. Monitor for symptoms like chest discomfort or unusual fatigue, and ensure they attend regular check-ups.
 
-#### #### Is it safe for seniors to exercise outside in winter?
+#### Is it safe for seniors to exercise outside in winter?
 It can be safe with precautions. Seniors should avoid exercising in extreme cold or high winds, warm up indoors first, wear proper clothing (including a scarf), and avoid holding their breath during effort. Those with heart conditions should consult their doctor before starting any outdoor routine.

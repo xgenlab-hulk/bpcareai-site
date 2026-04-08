@@ -57,22 +57,22 @@ Heart health during the holidays isn’t about perfection—it’s about awarene
 
 ### FAQ
 
-#### #### Does holiday weight gain heart failure preserved ejection fraction increase risk of hospitalization?
+#### Does holiday weight gain heart failure preserved ejection fraction increase risk of hospitalization?
 
 Yes—studies suggest that even modest weight gain (≥4.4 lbs / 2 kg) over 7–10 days is associated with a 20–30% higher likelihood of outpatient visits or hospitalization for HFpEF-related decompensation in adults 65+. Early intervention helps reduce this risk.
 
-#### #### How much weight gain is too much for someone with HFpEF during the holidays?
+#### How much weight gain is too much for someone with HFpEF during the holidays?
 
 For most adults 75+, gaining more than **3 pounds in 2–3 days** or **5 pounds in one week** is a meaningful change worth discussing with your clinician—even without obvious symptoms.
 
-#### #### Can holiday weight gain heart failure preserved ejection fraction cause confusion or memory changes in seniors?
+#### Can holiday weight gain heart failure preserved ejection fraction cause confusion or memory changes in seniors?
 
 Indirectly, yes. Fluid shifts and subtle drops in blood pressure—especially when standing—can reduce cerebral perfusion. This may contribute to temporary brain fog, confusion, or increased fall risk, particularly in those already managing multiple medications or cognitive changes.
 
-#### #### Is it safe to use over-the-counter diuretics during the holidays if I notice weight gain?
+#### Is it safe to use over-the-counter diuretics during the holidays if I notice weight gain?
 
 No. Over-the-counter water pills are not appropriate for HFpEF management and may worsen electrolyte imbalances or interact with prescribed medications. Always consult your clinician before adjusting any treatment.
 
-#### #### Do I need to stop eating sweets entirely if I have HFpEF?
+#### Do I need to stop eating sweets entirely if I have HFpEF?
 
 Not at all. Enjoying small portions of desserts mindfully—paired with balanced meals and movement—is perfectly compatible with heart health. Focus less on eliminating and more on enjoying with awareness.

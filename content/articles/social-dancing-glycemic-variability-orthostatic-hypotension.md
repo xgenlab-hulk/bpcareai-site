@@ -42,22 +42,22 @@ In summary, social dancing glycemic variability orthostatic hypotension reflects
 
 ### FAQ
 
-#### #### Can social dancing really help lower blood sugar swings in people with diabetes?
+#### Can social dancing really help lower blood sugar swings in people with diabetes?
 
 Yes—especially when done regularly. In a 12-week study of adults aged 67–79 with type 2 diabetes, twice-weekly social dancing led to a 23% reduction in glycemic variability. This effect appears linked to improved vagal tone and better insulin sensitivity through rhythmic neuromuscular activation.
 
-#### #### Does social dancing glycemic variability orthostatic hypotension improve balance and reduce fall risk?
+#### Does social dancing glycemic variability orthostatic hypotension improve balance and reduce fall risk?
 
 Indirectly, yes. By enhancing vestibular processing and autonomic regulation, social dancing supports more stable cerebral perfusion during position changes—reducing dizziness on standing. Participants in the cohort also reported fewer near-falls and improved confidence in mobility.
 
-#### #### How does dancing affect heart rate variability in adults with orthostatic hypotension?
+#### How does dancing affect heart rate variability in adults with orthostatic hypotension?
 
 Dancing increases parasympathetic (vagal) modulation, reflected in higher HRV metrics like RMSSD. In the same cohort, HRV improved significantly after 12 weeks—suggesting enhanced cardiac autonomic flexibility, which helps buffer BP drops during upright posture.
 
-#### #### Is it safe to dance if I have mild orthostatic hypotension?
+#### Is it safe to dance if I have mild orthostatic hypotension?
 
 Generally, yes—with precautions. Start slowly, use seated warm-ups, stay hydrated, and avoid rapid transitions from sitting to standing. Work with an instructor familiar with age-related BP changes, and monitor symptoms closely. Always discuss new activities with your care team.
 
-#### #### What types of social dancing are best for older adults managing diabetes and BP concerns?
+#### What types of social dancing are best for older adults managing diabetes and BP concerns?
 
 Styles with predictable rhythm, moderate tempo, and emphasis on posture and partner connection—such as foxtrot, waltz, or line dancing—tend to be most accessible. Avoid highly aerobic or acrobatic forms unless cleared by your physician.

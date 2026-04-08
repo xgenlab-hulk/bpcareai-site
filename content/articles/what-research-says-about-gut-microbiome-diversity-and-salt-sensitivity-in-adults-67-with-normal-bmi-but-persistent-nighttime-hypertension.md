@@ -92,22 +92,22 @@ Understanding the link between your gut, salt, and blood pressure isn’t about 
 
 ### FAQ
 
-#### #### Does gut microbiome and salt sensitivity seniors increase stroke risk?
+#### Does gut microbiome and salt sensitivity seniors increase stroke risk?
 
 Yes—indirectly. Persistent nighttime hypertension (a common feature of salt sensitivity in older adults) is associated with a **40% higher risk of ischemic stroke**, according to a 2023 meta-analysis in *JAMA Neurology*. When combined with low microbial diversity—particularly reduced *F. prausnitzii*—the risk appears amplified due to chronic low-grade inflammation and endothelial stress.
 
-#### #### Can probiotics fix gut microbiome and salt sensitivity seniors?
+#### Can probiotics fix gut microbiome and salt sensitivity seniors?
 
 Not reliably—at least not yet. Most over-the-counter probiotics don’t include *Faecalibacterium prausnitzii*, and studies haven’t shown consistent BP improvement from generic strains. However, dietary prebiotics (fiber-rich foods) *have* demonstrated measurable increases in *F. prausnitzii* abundance and improved nocturnal BP dipping in small clinical trials.
 
-#### #### Is salt sensitivity only about eating too much salt?
+#### Is salt sensitivity only about eating too much salt?
 
 No. Salt sensitivity reflects how your body *responds* to sodium—not just how much you consume. In seniors, it’s often tied to age-related changes in kidney function, hormonal signaling (especially aldosterone and renin), and, as newer research shows, gut microbial metabolism. Two people eating identical diets may have very different BP responses—largely due to these internal factors.
 
-#### #### What’s a healthy nighttime blood pressure for someone over 65?
+#### What’s a healthy nighttime blood pressure for someone over 65?
 
 For adults 65+, guidelines suggest aiming for a nighttime average **below 120/70 mm Hg**, with at least a 10% decline from daytime readings. Consistently higher values—especially systolic >130 mm Hg at night—are considered “nocturnal hypertension” and warrant discussion with your care team.
 
-#### #### Does fasting or time-restricted eating help gut microbiome and salt sensitivity seniors?
+#### Does fasting or time-restricted eating help gut microbiome and salt sensitivity seniors?
 
 Emerging evidence suggests yes—modestly. A 2024 pilot study found that 12-hour overnight fasts (e.g., stopping eating by 7 p.m.) were associated with improved gut microbial rhythmicity and a 6–8 mm Hg reduction in nocturnal systolic BP over 8 weeks—particularly in adults with low baseline *F. prausnitzii*. As always, talk with your doctor before adjusting eating windows, especially if you take medications or have diabetes.

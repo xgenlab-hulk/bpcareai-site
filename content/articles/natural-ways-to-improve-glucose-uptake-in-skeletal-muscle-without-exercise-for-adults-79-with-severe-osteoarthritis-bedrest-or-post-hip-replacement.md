@@ -76,22 +76,22 @@ Improving glucose handling doesn’t mean “fixing” your body—it means hono
 
 ### FAQ
 
-#### #### Can cold exposure really help improve glucose uptake without exercise seniors?
+#### Can cold exposure really help improve glucose uptake without exercise seniors?
 
 Yes—but it’s subtle and specific. Studies show *mild, localized cold* (like a cool compress on the thigh for 10–15 minutes shortly after eating) may boost blood flow and GLUT4 movement in nearby muscle. It’s not about shivering or full-body chilling. Think “cool comfort,” not “cold shock.” Always check with your doctor first if you have circulation issues or neuropathy.
 
-#### #### What foods help improve glucose uptake without exercise seniors?
+#### What foods help improve glucose uptake without exercise seniors?
 
 Nitrate-rich vegetables—especially arugula, spinach, beetroot, and celery—are top choices. They support nitric oxide production, which enhances both blood flow and insulin-independent glucose transport into muscle. Pair them with healthy fats (like olive oil or avocado) to slow carb absorption and reduce post-meal spikes. Avoid ultra-processed “low-sugar” snacks—they often contain refined starches that raise glucose just as much.
 
-#### #### Does sitting position after meals really affect blood sugar in older adults?
+#### Does sitting position after meals really affect blood sugar in older adults?
 
 Yes—research confirms it. Sitting fully upright for 30–45 minutes after eating helps direct blood flow toward digestive organs and improves insulin delivery to muscle. Slouching or lying flat right after meals may blunt this effect. One study in adults 75+ found upright posture lowered 2-hour postprandial glucose by up to 22 mg/dL—comparable to some early-stage lifestyle interventions.
 
-#### #### Are there risks to trying these natural methods?
+#### Are there risks to trying these natural methods?
 
 These strategies are low-risk when used mindfully. Avoid extreme cold, skip nitrate-rich foods only if you’re on nitrate medications (like nitroglycerin) or have severe kidney disease (ask your doctor first), and always prioritize comfort—if sitting upright causes pain, try a supportive chair with lumbar cushioning instead of forcing posture. Safety and dignity come first.
 
-#### #### How long before I might notice changes?
+#### How long before I might notice changes?
 
 Most people don’t see dramatic shifts overnight—but consistency matters. With daily attention to posture, food choices, and gentle thermal cues, many notice improved energy, steadier mood, or fewer “after-dinner crashes” within 2–4 weeks. Lab changes (like HbA1c) usually take 3 months to reflect. Patience and self-compassion are part of the practice.

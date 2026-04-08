@@ -64,17 +64,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ  
 
-#### #### Does late-night pie eating glucose rhythms seniors affect blood pressure too?  
+#### Does late-night pie eating glucose rhythms seniors affect blood pressure too?  
 Yes—especially in adults with early neuropathy. Late eating activates the sympathetic nervous system, which can raise nocturnal systolic BP by 5–10 mm Hg and blunt the normal nighttime dip. This “non-dipping” pattern is linked to increased cardiovascular risk.
 
-#### #### Is there a safe time window for dessert if I have diabetic neuropathy?  
+#### Is there a safe time window for dessert if I have diabetic neuropathy?  
 For most seniors with early neuropathy, finishing dessert by 7:30 p.m. allows optimal insulin response and aligns with peak melatonin onset (~9–10 p.m.). Waiting until after 8:30 p.m. significantly increases odds of overnight hyperglycemia.
 
-#### #### Can late-night pie eating glucose rhythms seniors be reversed with lifestyle changes?  
+#### Can late-night pie eating glucose rhythms seniors be reversed with lifestyle changes?  
 Absolutely. Research shows that shifting evening meals earlier—even by 90 minutes—improves overnight glucose stability within 2–3 weeks in adults 65+. Consistent timing also helps retrain circadian gene expression (e.g., CLOCK, BMAL1) tied to metabolic health.
 
-#### #### Why does pie specifically cause problems—not just any late snack?  
+#### Why does pie specifically cause problems—not just any late snack?  
 Pies combine rapidly digested carbs (refined flour), saturated fat (butter crust), and often added sugars—creating a “triple hit” that delays gastric emptying, blunts incretin hormone release (like GLP-1), and promotes inflammation—all harder for aging beta cells and nerves to manage.
 
-#### #### Are sugar-free pies safer for late-night eating?  
+#### Are sugar-free pies safer for late-night eating?  
 Not necessarily. Artificial sweeteners may still trigger cephalic phase insulin release or alter gut microbiota—both relevant in neuropathy. More importantly, timing remains the dominant factor: even low-sugar pie after 8 p.m. disrupts *late-night pie eating glucose rhythms seniors*.

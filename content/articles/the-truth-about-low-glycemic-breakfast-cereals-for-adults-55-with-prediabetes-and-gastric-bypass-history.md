@@ -66,22 +66,22 @@ Navigating nutrition after gastric bypass and prediabetes isn’t about finding 
 
 ### FAQ
 
-#### #### Is there any low-glycemic cereal gastric bypass prediabetes combination that’s actually safe?
+#### Is there any low-glycemic cereal gastric bypass prediabetes combination that’s actually safe?
 
 Some people tolerate plain puffed brown rice or unsweetened rolled oats *with added protein and fat*, but safety depends entirely on your individual response — not the box label. Always test first.
 
-#### #### Why does low-glycemic cereal gastric bypass prediabetes cause such big spikes when GI says it shouldn’t?
+#### Why does low-glycemic cereal gastric bypass prediabetes cause such big spikes when GI says it shouldn’t?
 
 Because the glycemic index assumes normal digestion — and bypass surgery changes everything: faster emptying, less hormonal braking (like GLP-1), and direct nutrient delivery to highly absorptive gut segments.
 
-#### #### Can I ever eat cereal again after gastric bypass and prediabetes?
+#### Can I ever eat cereal again after gastric bypass and prediabetes?
 
 Yes — but “cereal” may look different now. Think: high-protein, low-carb options like quinoa flakes or buckwheat groats, served with full-fat dairy or nut butter. Portion size (often ≤¼ cup dry) and timing matter more than GI score.
 
-#### #### Does rapid gastric emptying affect blood pressure too?
+#### Does rapid gastric emptying affect blood pressure too?
 
 Yes — postprandial glucose surges can trigger sympathetic nervous system activation and transient BP elevation. Some people see systolic increases of 15–25 mm Hg within 60 minutes of a high-carb meal.
 
-#### #### Are gluten-free cereals safer for prediabetes after gastric bypass?
+#### Are gluten-free cereals safer for prediabetes after gastric bypass?
 
 Not necessarily. Many gluten-free cereals use refined starches (rice flour, tapioca) that digest even faster than wheat — leading to steeper glucose curves. Always check total carbs and added sugars, not just the gluten claim.

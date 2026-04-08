@@ -1,0 +1,322 @@
+{
+  "batch_id": 2,
+  "total_checked": 20,
+  "articles": [
+    {
+      "slug": "warning-signs-your-normal-blood-pressure-reading-is-actually-masked-hypertension-especially-during-routine-dental-visits-in-adults-62",
+      "primaryKeyword": "masked hypertension during dental procedures",
+      "score": 80,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 15,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier"]
+    },
+    {
+      "slug": "warning-signs-your-holiday-weight-gain-is-accelerating-diabetic-kidney-hyperfiltration-even-before-egfr-drops",
+      "primaryKeyword": "holiday weight gain diabetic kidney signs",
+      "score": 80,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 15,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier"]
+    },
+    {
+      "slug": "type-1-diabetes-holiday-potluck-guide",
+      "primaryKeyword": "type 1 diabetes holiday potluck guide",
+      "score": 80,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 15,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier"]
+    },
+    {
+      "slug": "taurine-vitamin-b6-atrial-calcium-handling",
+      "primaryKeyword": "taurine vitamin b6 atrial calcium handling",
+      "score": 48,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 0,
+        "length": 15,
+        "natural": 5,
+        "intent": 5,
+        "no_jargon": 3
+      },
+      "needs_optimization": true,
+      "issues": ["generic_medical_topic", "no_audience_identifier", "awkward_phrasing", "technical_jargon", "unclear_intent"]
+    },
+    {
+      "slug": "stabilize-morning-glucose-without-insulin",
+      "primaryKeyword": "stabilize morning glucose without insulin",
+      "score": 80,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 15,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier"]
+    },
+    {
+      "slug": "quick-fix-for-postprandial-hypotension-seniors",
+      "primaryKeyword": "quick fix for postprandial hypotension seniors",
+      "score": 98,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 20,
+        "length": 15,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 3
+      },
+      "needs_optimization": false,
+      "issues": ["minor_technical_term"]
+    },
+    {
+      "slug": "quercetin-and-hypertensive-retinopathy-microvascular",
+      "primaryKeyword": "quercetin and hypertensive retinopathy microvascular",
+      "score": 48,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 0,
+        "length": 10,
+        "natural": 5,
+        "intent": 5,
+        "no_jargon": 3
+      },
+      "needs_optimization": true,
+      "issues": ["generic_medical_topic", "no_audience_identifier", "borderline_length", "awkward_phrasing", "technical_jargon", "unclear_intent"]
+    },
+    {
+      "slug": "post-dinner-brain-fog-diabetes-65",
+      "primaryKeyword": "post-dinner brain fog diabetes 65+",
+      "score": 85,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 20,
+        "length": 10,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": false,
+      "issues": ["borderline_length"]
+    },
+    {
+      "slug": "natural-cardiac-fibroblast-stabilization-post-mi",
+      "primaryKeyword": "natural cardiac fibroblast stabilization post-mi",
+      "score": 38,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 0,
+        "length": 15,
+        "natural": 0,
+        "intent": 0,
+        "no_jargon": 3
+      },
+      "needs_optimization": true,
+      "issues": ["generic_medical_topic", "no_audience_identifier", "unnatural_phrasing", "technical_jargon", "unclear_intent"]
+    },
+    {
+      "slug": "nasal-decongestants-and-pulse-pressure-in-asthma",
+      "primaryKeyword": "nasal decongestants and pulse pressure in asthma",
+      "score": 75,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 15,
+        "natural": 10,
+        "intent": 5,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier", "somewhat_unclear_intent"]
+    },
+    {
+      "slug": "how-late-night-holiday-movie-marathons-elevate-sympathetic-tone-and-why-that-increases-afib-burden-in-adults-65-with-nocturnal-hypertension",
+      "primaryKeyword": "late-night movies sympathetic tone afib",
+      "score": 58,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 15,
+        "natural": 0,
+        "intent": 0,
+        "no_jargon": 3
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier", "technical_jargon", "unnatural_phrasing", "unclear_intent"]
+    },
+    {
+      "slug": "how-holiday-stress-hormones-disrupt-overnight-glucose-recovery-in-adults-58-69-with-prediabetes",
+      "primaryKeyword": "holiday stress and overnight glucose recovery",
+      "score": 80,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 15,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier"]
+    },
+    {
+      "slug": "how-alcohol-metabolism-changes-after-age-55-and-why-that-raises-holiday-heart-syndrome-risk-in-adults-55-69-with-mild-liver-steatosis",
+      "primaryKeyword": "alcohol metabolism age 55 holiday heart",
+      "score": 75,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 10,
+        "length": 15,
+        "natural": 5,
+        "intent": 5,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": ["vague_audience", "awkward_phrasing", "unclear_intent"]
+    },
+    {
+      "slug": "healthy-holiday-buffet-glycemic-traps",
+      "primaryKeyword": "healthy holiday buffet glycemic traps",
+      "score": 75,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 15,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier"]
+    },
+    {
+      "slug": "gut-kidney-axis-modulation-for-bp-control",
+      "primaryKeyword": "gut-kidney axis modulation for bp control",
+      "score": 55,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 0,
+        "length": 15,
+        "natural": 5,
+        "intent": 5,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": ["generic_medical_topic", "no_audience_identifier", "awkward_phrasing", "unclear_intent"]
+    },
+    {
+      "slug": "gratitude-walks-post-holiday-dinner",
+      "primaryKeyword": "gratitude walks post-holiday dinner",
+      "score": 30,
+      "breakdown": {
+        "medical_topic": 0,
+        "audience": 0,
+        "length": 10,
+        "natural": 10,
+        "intent": 5,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": ["no_medical_topic", "no_audience_identifier", "borderline_length", "unclear_intent"]
+    },
+    {
+      "slug": "fruitcake-vs-almond-flour-loaf-diabetes",
+      "primaryKeyword": "fruitcake vs almond flour loaf diabetes",
+      "score": 80,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 15,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier"]
+    },
+    {
+      "slug": "does-intermittent-fasting-during-holidays-actually-lower-hba1c-what-12-week-rct-data-shows-for-adults-54-68-with-hba1c-7-2-8-6",
+      "primaryKeyword": "intermittent fasting holidays HbA1c study",
+      "score": 75,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 15,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier"]
+    },
+    {
+      "slug": "coq10-and-ejection-fraction-ischemic-cardiomyopathy",
+      "primaryKeyword": "coq10 and ejection fraction ischemic cardiomyopathy",
+      "score": 55,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 0,
+        "length": 10,
+        "natural": 5,
+        "intent": 5,
+        "no_jargon": 3
+      },
+      "needs_optimization": true,
+      "issues": ["generic_medical_topic", "no_audience_identifier", "borderline_length", "awkward_phrasing", "technical_jargon", "unclear_intent"]
+    },
+    {
+      "slug": "blood-pressure-underestimation-in-advanced-ckid",
+      "primaryKeyword": "blood pressure underestimation in advanced ckid",
+      "score": 68,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 15,
+        "natural": 5,
+        "intent": 5,
+        "no_jargon": 3
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier", "technical_jargon", "awkward_phrasing", "unclear_intent"]
+    }
+  ],
+  "summary": {
+    "total": 20,
+    "excellent_85plus": 2,
+    "good_70to84": 8,
+    "fair_50to69": 7,
+    "poor_below50": 3,
+    "needs_optimization": 18,
+    "common_issues": [
+      "missing_audience_identifier (18 articles)",
+      "technical_jargon (7 articles)",
+      "generic_or_vague_medical_topic (6 articles)",
+      "awkward_phrasing (7 articles)",
+      "unclear_intent (7 articles)"
+    ],
+    "notes": "Most articles have good medical topics and natural phrasing but lack audience identifiers. Only 2 articles scored 85+ (excellent). The most critical issue is the absence of target audience identifiers (seniors, adults 65+, etc.) in 90% of articles."
+  }
+}

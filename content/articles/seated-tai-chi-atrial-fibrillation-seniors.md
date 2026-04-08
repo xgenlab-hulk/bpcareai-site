@@ -91,22 +91,22 @@ Living well with atrial fibrillation and taking a DOAC doesn’t mean stepping b
 
 ### FAQ
 
-#### #### Can seated tai chi atrial fibrillation seniors help reduce stroke risk?
+#### Can seated tai chi atrial fibrillation seniors help reduce stroke risk?
 
 While seated tai chi atrial fibrillation seniors does not replace anticoagulation therapy, studies suggest it may contribute indirectly to stroke risk reduction by improving HRV, lowering resting heart rate (by ~5–7 bpm on average), and reducing sympathetic overactivity—factors associated with thromboembolic burden. It does *not* lower CHA₂DS₂-VASc score, nor does it replace DOACs.
 
-#### #### Is seated tai chi safe for seniors on blood thinners like Eliquis or Xarelto?
+#### Is seated tai chi safe for seniors on blood thinners like Eliquis or Xarelto?
 
 Yes—when adapted properly. Research shows no increased bleeding events in seniors on DOACs practicing seated tai chi under supervised, low-strain protocols. Key safety features include eliminating overhead reaches, avoiding gripping, and maintaining neutral spine alignment to prevent microvascular strain.
 
-#### #### How often should seniors with atrial fibrillation do seated tai chi?
+#### How often should seniors with atrial fibrillation do seated tai chi?
 
 Evidence supports 5–7 minutes daily, ideally at the same time each day (e.g., after breakfast), progressing to 12–15 minutes after two weeks of consistent practice. Frequency matters more than duration: daily micro-dosing yields better autonomic adaptation than longer, infrequent sessions.
 
-#### #### Does seated tai chi lower blood pressure in older adults with heart disease?
+#### Does seated tai chi lower blood pressure in older adults with heart disease?
 
 Modest reductions are possible: clinical trials report average systolic BP decreases of 4–6 mm Hg and diastolic drops of 2–3 mm Hg after 8–12 weeks of regular seated tai chi. These changes reflect improved arterial compliance and reduced peripheral resistance—not pharmacologic effects.
 
-#### #### What’s the difference between seated tai chi for AFib and general seated tai chi for seniors?
+#### What’s the difference between seated tai chi for AFib and general seated tai chi for seniors?
 
 General seated tai chi may include deeper rotations, faster pacing, or breath patterns that stimulate vagal surges—potentially destabilizing for AFib. Seated tai chi for AFib prioritizes rhythm-matched breathing (4:6 or 5:7 ratio), eliminates all twisting beyond 20°, avoids breath retention, and emphasizes *isometric relaxation* over dynamic effort—making it uniquely suited for heart disease and anticoagulation safety.

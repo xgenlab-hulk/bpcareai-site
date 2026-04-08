@@ -40,22 +40,22 @@ In short, enjoying sweet potatoes during family gatherings doesn’t require sac
 
 ### FAQ
 
-#### #### Is sweet potato casserole vs roasted neuropathy really that different for nerve pain?
+#### Is sweet potato casserole vs roasted neuropathy really that different for nerve pain?
 
 Yes—roasted preparations generally produce lower glycemic load, fewer AGEs, and higher antioxidant retention than traditional casseroles with added sugars and high-heat baking. These differences correlate with slower progression of nerve damage in observational studies of adults with prediabetes and early neuropathy.
 
-#### #### Can I still serve sweet potato casserole at Thanksgiving if I have neuropathy?
+#### Can I still serve sweet potato casserole at Thanksgiving if I have neuropathy?
 
 Absolutely—but modify it: replace marshmallows with toasted oats and walnuts, swap brown sugar for unsweetened applesauce + cinnamon, and bake at 350°F instead of 425°F. This reduces GL by ~35% and AGE formation by ~50%, making *sweet potato casserole vs roasted neuropathy* a much closer comparison.
 
-#### #### What’s the best way to measure if my sweet potato dish is helping my neuropathy?
+#### What’s the best way to measure if my sweet potato dish is helping my neuropathy?
 
 Track postprandial glucose (90 minutes after eating), note changes in symptom intensity over 2–4 weeks using a simple 1–10 scale, and discuss trends with your neurologist or endocrinologist. Consistent readings below 140 mg/dL and stable or improving symptom scores suggest your food choices are supportive.
 
-#### #### Does cooking method affect blood pressure in people with neuropathy?
+#### Does cooking method affect blood pressure in people with neuropathy?
 
 Indirectly—yes. High-AGE, high-sugar meals contribute to endothelial dysfunction and arterial stiffness, both linked to elevated systolic BP (e.g., >130 mm Hg). Roasting instead of frying or high-heat baking helps maintain vascular resilience, supporting healthier arterial pressure long-term.
 
-#### #### Are purple sweet potatoes better than orange for neuropathy?
+#### Are purple sweet potatoes better than orange for neuropathy?
 
 They offer complementary benefits: purple varieties contain anthocyanins with strong anti-inflammatory effects in nerve tissue, while orange types provide more beta-carotene (a precursor to vitamin A, essential for Schwann cell function). Rotating both is ideal—just prepare them simply (roasted or steamed) to maximize benefit.

@@ -79,22 +79,22 @@ Managing heart health during the holidays doesn’t mean giving up convenience o
 
 ### FAQ
 
-#### #### Are all low-sodium soups unsafe for people on spironolactone?
+#### Are all low-sodium soups unsafe for people on spironolactone?
 
 Not at all. Many low-sodium soups contain no added potassium salts and rely on herbs, spices, and umami-rich ingredients (like mushrooms or tomato paste) for flavor. Always check the full ingredient list—look specifically for *potassium chloride*, *potassium citrate*, or *potassium gluconate*. If those aren’t present, the soup is likely fine in moderation.
 
-#### #### What are low-sodium soup potassium excipients—and why are they used?
+#### What are low-sodium soup potassium excipients—and why are they used?
 
 Low-sodium soup potassium excipients are potassium-based compounds (most commonly potassium chloride) added to mimic the taste and mouthfeel of salt while reducing sodium content. They’re used because potassium chloride has a salty taste—though some people notice a slight bitterness. Their presence is legal and safe for most—but becomes clinically relevant when combined with potassium-sparing diuretics.
 
-#### #### Can low-sodium soup potassium excipients raise my blood pressure?
+#### Can low-sodium soup potassium excipients raise my blood pressure?
 
 No—potassium itself does not raise BP. In fact, adequate potassium intake supports healthy arterial pressure. However, *excess* potassium in vulnerable individuals (e.g., those with reduced kidney function on spironolactone) can affect heart rhythm—not BP directly. So while your numbers may stay stable, your cardiac conduction could be subtly impacted.
 
-#### #### Is “no salt added” the same as “low-sodium”?
+#### Is “no salt added” the same as “low-sodium”?
 
 Not exactly. “No salt added” means no sodium chloride was added during processing—but the product may still contain naturally occurring sodium (e.g., from vegetables or dairy). “Low-sodium” means ≤140 mg per serving. Neither label tells you about potassium content—so both require reading the full ingredient list.
 
-#### #### Do frozen or refrigerated low-sodium soups contain fewer potassium excipients than canned ones?
+#### Do frozen or refrigerated low-sodium soups contain fewer potassium excipients than canned ones?
 
 Not necessarily. Formulation depends on the brand and recipe—not packaging type. Some refrigerated soups use potassium salts for shelf-life extension, while others avoid them entirely. Always check the ingredient list, regardless of format.

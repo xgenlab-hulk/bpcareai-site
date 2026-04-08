@@ -67,17 +67,17 @@ Science continues to uncover how deeply connected our mood, metabolism, and dail
 
 ### FAQ
 
-#### #### Does light therapy fasting glucose type 2 diabetes work for everyone?
+#### Does light therapy fasting glucose type 2 diabetes work for everyone?
 Not universally—but studies suggest adults with both type 2 diabetes and seasonal mood changes see the most consistent benefits, especially when light is used consistently in the morning. Individual response varies based on baseline circadian alignment, age, and overall health.
 
-#### #### Can light therapy fasting glucose type 2 diabetes replace my diabetes medication?
+#### Can light therapy fasting glucose type 2 diabetes replace my diabetes medication?
 No. Light therapy is a supportive circadian intervention—not a substitute for prescribed medications, diet, or physical activity. Always consult your care team before adjusting your treatment plan.
 
-#### #### How long does it take to see effects on fasting glucose from light therapy?
+#### How long does it take to see effects on fasting glucose from light therapy?
 In the 2024 trial, measurable improvements in overnight glucose variability appeared after about 3 weeks of daily morning use. Most participants continued benefits through the full 6-week study period.
 
-#### #### Is light therapy safe for people with diabetic retinopathy?
+#### Is light therapy safe for people with diabetic retinopathy?
 Generally yes—but only under guidance from an eye specialist. Those with active or advanced retinopathy should be evaluated first, as high-intensity light requires careful consideration.
 
-#### #### Do I need a prescription for a light therapy device?
+#### Do I need a prescription for a light therapy device?
 No—but look for devices labeled “10,000 lux,” “UV-filtered,” and FDA-cleared for SAD. Avoid unregulated or overly bright “wellness lamps” without clinical validation.

@@ -65,22 +65,22 @@ Holiday rhythms can disrupt even the most carefully managed health routines—an
 
 ### FAQ
 
-#### #### What causes post-meal dizziness after Christmas dinner in older adults with diabetes?
+#### What causes post-meal dizziness after Christmas dinner in older adults with diabetes?
 
 Post-meal dizziness after holiday meals often stems from postprandial hypotension—a natural BP dip after eating that’s amplified by diabetes-related nerve changes, aging arteries, and medications. High-carb, high-fat meals increase blood flow to the gut while reducing flow to the brain—especially if orthostatic hypotension is already present.
 
-#### #### Is post-meal dizziness christmas diabetes orthostatic hypotension dangerous?
+#### Is post-meal dizziness christmas diabetes orthostatic hypotension dangerous?
 
 Most of the time, no—it’s manageable. But when combined with fainting, confusion, or worsening balance, it *can* signal advancing autonomic dysfunction. Red flags include dizziness that happens both after meals *and* standing, or that doesn’t improve with hydration and slower movement.
 
-#### #### Can GLP-1 drugs like Ozempic make post-meal dizziness worse during Christmas?
+#### Can GLP-1 drugs like Ozempic make post-meal dizziness worse during Christmas?
 
 Yes—they can. GLP-1 agonists slow gastric emptying and promote vasodilation, which may deepen postprandial BP drops—especially in older adults with orthostatic hypotension. Talk to your doctor about timing or dosage adjustments before major holiday meals.
 
-#### #### How can I manage blood sugar during Christmas and New Year without triggering dizziness?
+#### How can I manage blood sugar during Christmas and New Year without triggering dizziness?
 
 Focus on consistency: keep carb portions moderate, pair carbs with protein/fiber, avoid skipping meals, and test glucose before and 2 hours after eating. Staying hydrated and moving gently (like a short walk after dinner) also supports both glucose and BP stability.
 
-#### #### Should I stop my blood pressure meds over the holidays if I get dizzy after eating?
+#### Should I stop my blood pressure meds over the holidays if I get dizzy after eating?
 
 No—never stop or adjust antihypertensives without consulting your doctor. Some may need re-timing (e.g., taking them in the morning instead of evening) or temporary lowering, but abrupt changes can cause rebound hypertension or other risks.

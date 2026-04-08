@@ -47,22 +47,22 @@ Heart health after 50 isn’t about perfection—it’s about thoughtful, scienc
 
 ### FAQ
 
-#### #### Is daily nut consumption and heart protection after 50 effective even if I don’t have high cholesterol?
+#### Is daily nut consumption and heart protection after 50 effective even if I don’t have high cholesterol?
 
 Yes. Even with normal cholesterol levels, nuts support arterial elasticity, reduce low-grade inflammation, and improve endothelial function—key elements of long-term cardiovascular resilience. Their benefits extend beyond cholesterol-lowering to include antioxidant and anti-thrombotic effects.
 
-#### #### How much should I eat daily for heart protection after 50?
+#### How much should I eat daily for heart protection after 50?
 
 A standard heart-healthy portion is 28–30 grams (about one ounce or a small handful)—equivalent to ~23 almonds, 14 walnut halves, or 49 shelled pistachios. This amount delivers optimal unsaturated fats, fiber, and plant sterols without excessive calories for most adults.
 
-#### #### Can daily nut consumption and heart protection after 50 help lower blood pressure?
+#### Can daily nut consumption and heart protection after 50 help lower blood pressure?
 
 Yes—modestly but meaningfully. Clinical trials show average reductions of 2–5 mm Hg in both systolic and diastolic pressure, particularly when nuts replace refined carbohydrates or saturated fats in the diet. Magnesium and potassium in nuts support healthy vascular tone and sodium balance.
 
-#### #### Are roasted nuts as beneficial as raw ones?
+#### Are roasted nuts as beneficial as raw ones?
 
 Dry-roasted, unsalted nuts retain nearly all their heart-healthy nutrients. However, avoid oil-roasted or heavily salted varieties, which add unnecessary saturated fat and sodium—both counterproductive for arterial health after age 50.
 
-#### #### Do I need to eat the same type of nut every day?
+#### Do I need to eat the same type of nut every day?
 
 No—variety is encouraged. Different nuts offer distinct phytonutrients: walnuts supply ALA omega-3s, almonds deliver vitamin E and calcium, and pistachios are high in lutein and phytosterols. Rotating types ensures broader antioxidant and anti-inflammatory coverage.

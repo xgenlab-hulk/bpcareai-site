@@ -68,17 +68,17 @@ LADA is manageable—and increasingly well-understood. With accurate identificat
 
 ### FAQ  
 
-#### #### What are the key signs of LADA in adults over 50?  
+#### What are the key signs of LADA in adults over 50?  
 Key signs include lean body habitus, rapid progression to insulin (often within 1–3 years), absence of metabolic syndrome features, personal/family history of autoimmunity, and positive GAD65 antibodies—even if initial diagnosis was “type 2.”
 
-#### #### How is LADA diagnosis atypical type 2 diabetes confirmed?  
+#### How is LADA diagnosis atypical type 2 diabetes confirmed?  
 Confirmation requires both clinical suspicion *and* lab testing: GAD65 antibody positivity plus evidence of preserved (but declining) beta-cell function—typically via C-peptide. Testing is most reliable within 6–12 months of diagnosis.
 
-#### #### Can LADA be mistaken for type 2 diabetes forever?  
+#### Can LADA be mistaken for type 2 diabetes forever?  
 Yes—up to 50% of LADA cases are misdiagnosed as type 2 for 2+ years. This delay increases risk of diabetic ketoacidosis and microvascular complications. Early autoantibody testing prevents this.
 
-#### #### Does family history affect LADA diagnosis atypical type 2 diabetes?  
+#### Does family history affect LADA diagnosis atypical type 2 diabetes?  
 Absolutely. A first-degree relative with type 1 diabetes, GAD65+ status, or another autoimmune condition raises pretest probability by 2–3 fold—and warrants earlier antibody screening.
 
-#### #### Is insulin always needed right away in LADA?  
+#### Is insulin always needed right away in LADA?  
 Not immediately—but most people with LADA require insulin within 3–6 years. Delaying insulin in favor of sulfonylureas may hasten beta-cell burnout. Early basal insulin is often protective.

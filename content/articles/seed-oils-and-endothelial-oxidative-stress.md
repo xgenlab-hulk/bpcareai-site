@@ -46,17 +46,17 @@ In summary, dietary fats aren’t universally “good” or “bad” — their 
 
 ### FAQ
 
-#### #### Does olive oil cause seed oils and endothelial oxidative stress?
+#### Does olive oil cause seed oils and endothelial oxidative stress?
 No — extra-virgin olive oil is rich in oleic acid (monounsaturated) and polyphenols like oleuropein, which actively inhibit lipid peroxidation and support nitric oxide production. Unlike high-linoleic seed oils, it does not promote seed oils and endothelial oxidative stress — especially when used raw or gently heated.
 
-#### #### Can seed oils and endothelial oxidative stress raise blood pressure?
+#### Can seed oils and endothelial oxidative stress raise blood pressure?
 Yes — chronic endothelial oxidative stress impairs vasodilation and promotes arterial stiffness, contributing to systolic hypertension. In older adults, this mechanism may explain why some see BP improvements after reducing refined seed oil intake — independent of sodium changes.
 
-#### #### Are sunflower and safflower oils safe if I don’t have high Lp(a)?
+#### Are sunflower and safflower oils safe if I don’t have high Lp(a)?
 For most healthy adults without genetic lipid disorders, moderate use of *high-oleic* versions poses minimal risk. However, conventional (high-linoleic) forms remain highly oxidizable — especially when reheated or consumed in ultra-processed foods. Lowering overall intake remains a prudent strategy for long-term vascular health.
 
-#### #### What’s the best oil for cooking if I’m over 60 and have heart disease?
+#### What’s the best oil for cooking if I’m over 60 and have heart disease?
 Extra-virgin olive oil (for low-to-medium heat), avocado oil (for higher-heat sautéing or roasting), and coconut oil (unrefined, for occasional baking) are well-studied, stable options. Avoid generic “vegetable oil” blends and partially hydrogenated fats — both linked to greater oxidative burden in aging populations.
 
-#### #### How quickly can reducing seed oils improve endothelial function?
+#### How quickly can reducing seed oils improve endothelial function?
 Clinical trials show measurable improvements in flow-mediated dilation within 4–8 weeks of switching from high-LA oils to olive or macadamia oil — particularly in adults with baseline endothelial dysfunction or elevated inflammatory markers.

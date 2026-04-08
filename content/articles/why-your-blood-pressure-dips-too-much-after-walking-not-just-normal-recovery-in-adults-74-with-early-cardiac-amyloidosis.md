@@ -95,17 +95,17 @@ Discovering a pattern like post-walk hypotension in cardiac amyloidosis can feel
 
 ### FAQ
 
-#### #### What causes post-walk hypotension in cardiac amyloidosis?
+#### What causes post-walk hypotension in cardiac amyloidosis?
 Post-walk hypotension in cardiac amyloidosis results primarily from two overlapping issues: (1) stiffened heart muscle (due to amyloid deposits) that impairs filling and limits cardiac output during and after exertion, and (2) autonomic nervous system dysfunction that blunts the body’s natural ability to constrict blood vessels and raise heart rate to maintain pressure. Together, these lead to an exaggerated, symptomatic drop in systolic and diastolic BP after even mild activity.
 
-#### #### Is post-walk hypotension in cardiac amyloidosis different from orthostatic hypotension?
+#### Is post-walk hypotension in cardiac amyloidosis different from orthostatic hypotension?
 Yes. Orthostatic hypotension refers specifically to BP drops occurring *within 3 minutes of standing up* — a test of baroreflex function alone. Post-walk hypotension in cardiac amyloidosis involves both autonomic and myocardial contributions and typically occurs *after cessation of movement*, reflecting impaired circulatory recovery. While overlap exists, the timing, triggers, and clinical implications differ meaningfully.
 
-#### #### Can post-walk hypotension in cardiac amyloidosis improve with treatment?
+#### Can post-walk hypotension in cardiac amyloidosis improve with treatment?
 In some cases — yes. Disease-modifying therapies like tafamidis (for ATTR) have shown stabilization or modest improvement in functional capacity and autonomic markers in clinical trials. Symptom-focused strategies — including medication adjustment, hydration guidance, and physical countermeasures — can significantly reduce the frequency and severity of episodes, improving daily confidence and safety.
 
-#### #### Why does my blood pressure drop after walking even though I feel fine doing it?
+#### Why does my blood pressure drop after walking even though I feel fine doing it?
 This is common in early cardiac amyloidosis. Your heart may still pump adequately *during* walking — thanks to compensatory mechanisms like increased heart rate — but lacks the reserve to sustain pressure *after* you stop. The drop reflects delayed vascular re-constriction and impaired diastolic filling, not necessarily immediate danger — but it’s a valuable sign your cardiovascular system is working near its limit.
 
-#### #### Should I stop walking if I have post-walk hypotension in cardiac amyloidosis?
+#### Should I stop walking if I have post-walk hypotension in cardiac amyloidosis?
 Not necessarily — but you may need to adjust *how* you walk. Shorter durations (e.g., 3–4 minutes), slower pace, frequent seated rests, and avoiding hot environments can help. Walking remains beneficial for circulation, mood, and muscle health. Work with your cardiologist or cardiac rehab team to design a safe, sustainable plan tailored to your current physiology.

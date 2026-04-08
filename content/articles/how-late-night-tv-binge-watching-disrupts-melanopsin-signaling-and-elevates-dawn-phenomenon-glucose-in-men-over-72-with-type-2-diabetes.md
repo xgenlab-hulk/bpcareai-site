@@ -88,22 +88,22 @@ Understanding how late-night TV watching affects your body’s internal clock do
 
 ### FAQ
 
-#### #### Does watching TV late at night really affect my morning blood sugar?
+#### Does watching TV late at night really affect my morning blood sugar?
 
 Yes—especially if you’re over 70 and have type 2 diabetes. Blue-enriched light from screens delays melatonin, reduces overnight insulin sensitivity, and intensifies the natural rise in blood sugar that occurs before dawn. Clinical studies show fasting glucose can increase by 20–40 mg/dL in susceptible individuals after just one hour of evening screen exposure.
 
-#### #### What is the late-night TV dawn phenomenon diabetes link—and is it reversible?
+#### What is the late-night TV dawn phenomenon diabetes link—and is it reversible?
 
 The *late-night TV dawn phenomenon diabetes* link refers to how evening artificial light worsens early-morning hyperglycemia via disrupted circadian signaling. It’s often reversible: shifting screen time earlier, using blue-light filters, and optimizing sleep hygiene improve fasting glucose in 60–70% of older adults within 2–4 weeks, according to pilot trials.
 
-#### #### Can blue light from TV cause high blood pressure in older adults with diabetes?
+#### Can blue light from TV cause high blood pressure in older adults with diabetes?
 
 While blue light doesn’t directly raise blood pressure, chronic circadian disruption *is* associated with elevated nocturnal and morning BP—particularly in people with diabetes. Poor melatonin signaling contributes to sympathetic nervous system overactivity and reduced endothelial function, potentially raising systolic BP by 5–10 mm Hg on average. Managing light exposure supports both glucose *and* cardiovascular rhythm.
 
-#### #### Is the dawn phenomenon the same as the Somogyi effect?
+#### Is the dawn phenomenon the same as the Somogyi effect?
 
 No. The *dawn phenomenon* is a natural hormonal surge that raises blood sugar in early morning hours—unrelated to prior hypoglycemia. The *Somogyi effect* (or rebound hyperglycemia) occurs when overnight low blood sugar triggers a stress-hormone response. A 3 a.m. glucose check helps distinguish them: >70 mg/dL points to dawn phenomenon; <65 mg/dL suggests possible Somogyi.
 
-#### #### How can I tell if my high morning glucose is due to late-night TV or something else?
+#### How can I tell if my high morning glucose is due to late-night TV or something else?
 
 Look for consistency: if high fasting glucose occurs *only* on nights you watch TV past 9:30 p.m.—and improves when you switch to reading or listening to audio—you likely have a light-related contributor. However, other causes include inadequate basal insulin, undiagnosed sleep apnea, or kidney-related glucose reabsorption changes. A 7-day glucose log plus discussion with your care team helps clarify root causes.

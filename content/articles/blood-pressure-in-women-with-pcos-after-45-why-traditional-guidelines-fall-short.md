@@ -101,22 +101,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does PCOS increase blood pressure risk after menopause?
+#### Does PCOS increase blood pressure risk after menopause?
 
 Yes. Women with a prior PCOS diagnosis face a higher likelihood of developing hypertension after menopause—even if they never had high BP before. This is linked to persistent insulin resistance, residual androgen activity, and earlier vascular aging. Studies estimate a 1.5- to 2-fold increased risk compared to women without PCOS.
 
-#### #### What is normal blood pressure for women with PCOS after 45?
+#### What is normal blood pressure for women with PCOS after 45?
 
 There’s no single “normal” number—it depends on your overall health, lifestyle, and vascular status. That said, many clinicians aim for <130/80 mm Hg in women with PCOS history, especially if other risk factors (like prediabetes or family history) are present. A systolic pressure consistently above 135 mm Hg warrants discussion—even if the diastolic stays low.
 
-#### #### Can pcos blood pressure after 45 women be managed without medication?
+#### Can pcos blood pressure after 45 women be managed without medication?
 
 Often, yes—especially when lifestyle adjustments begin early and are sustained. Diet, movement, sleep, and stress management significantly influence insulin sensitivity and vascular tone. That said, some women benefit from medication sooner, not as a failure, but as proactive support for long-term heart and kidney health. The goal is always personalized, compassionate care.
 
-#### #### Why does my blood pressure go up after eating—even healthy meals?
+#### Why does my blood pressure go up after eating—even healthy meals?
 
 This may point to postprandial hypotension followed by reactive hypertension, or heightened sympathetic response to insulin surges. It’s more common in women with insulin resistance. Try smaller, balanced meals and monitor patterns over several days. Discuss with your provider if it happens regularly or causes symptoms.
 
-#### #### Does metformin help with blood pressure in women with PCOS after 45?
+#### Does metformin help with blood pressure in women with PCOS after 45?
 
 Metformin doesn’t directly lower BP, but by improving insulin sensitivity and reducing inflammation, it may indirectly support healthier arterial function—particularly in women with elevated fasting insulin or prediabetes. Its effect varies, so it’s best used as part of a broader strategy—not as a standalone BP solution.

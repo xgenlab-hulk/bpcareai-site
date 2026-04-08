@@ -3,7 +3,7 @@ title: >-
   Does Stress Raise Cholesterol After 35? Yes — Here’s Why
 slug: does-stress-raise-cholesterol-after-35
 description: >-
-  Yes, chronic stress raises LDL cholesterol by ~12 mg/dL after 35 (per 2022 JAHA meta-analysis). Learn how cortisol (stress hormone) and behavior drive this —
+  Yes, chronic stress raises LDL cholesterol by ~12 mg/dL after 35 (per 2022 JAHA meta-analysis).
 date: '2026-04-03'
 updated: '2026-04-03'
 primaryKeyword: >-

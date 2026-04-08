@@ -68,17 +68,17 @@ Living well with heart failure is possible — and it’s built on thoughtful la
 
 ### FAQ
 
-#### #### Is transdermal magnesium sacubitril valsartan safe for seniors with kidney issues?
+#### Is transdermal magnesium sacubitril valsartan safe for seniors with kidney issues?
 Yes — generally safer than oral magnesium in mild-to-moderate kidney impairment (eGFR 30–59 mL/min), because transdermal delivery avoids gut absorption and systemic peaks. Still, avoid use if eGFR is <30 unless explicitly guided by your nephrologist or cardiologist.
 
-#### #### Can transdermal magnesium sacubitril valsartan cause high potassium?
+#### Can transdermal magnesium sacubitril valsartan cause high potassium?
 No direct link exists. Magnesium itself does not raise potassium. However, sacubitril/valsartan *can*, so potassium levels should be monitored regularly regardless of magnesium use — especially if you’re also on an MRAs (like spironolactone).
 
-#### #### Does transdermal magnesium interact with Entresto?
+#### Does transdermal magnesium interact with Entresto?
 No clinically significant pharmacokinetic or pharmacodynamic interactions have been identified between transdermal magnesium chloride and sacubitril or valsartan. They work through different pathways and do not compete for metabolism or excretion.
 
-#### #### Will transdermal magnesium lower my blood pressure too much if I’m already on sacubitril/valsartan?
+#### Will transdermal magnesium lower my blood pressure too much if I’m already on sacubitril/valsartan?
 It’s unlikely. Topical magnesium typically causes only minimal BP changes — if any — in clinical practice. Most studies report systolic reductions of ≤3 mm Hg, well within normal daily variation. Always monitor at home and share trends with your provider.
 
-#### #### How long does it take to see benefits from transdermal magnesium in heart failure?
+#### How long does it take to see benefits from transdermal magnesium in heart failure?
 Consistent use for 4–8 weeks may support gradual improvements in symptoms like leg cramps or fatigue. Biomarker changes (e.g., NT-proBNP) are usually assessed at 3-month intervals during routine follow-up — not daily or weekly. Patience and consistency matter most.

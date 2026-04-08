@@ -81,22 +81,22 @@ Living well with diabetic gastroparesis as a senior doesn’t mean giving up joy
 
 ### FAQ
 
-#### #### How can seniors with diabetic gastroparesis support gastric emptying naturally during holiday meals?
+#### How can seniors with diabetic gastroparesis support gastric emptying naturally during holiday meals?
 
 The most effective natural supports include eating smaller portions, choosing softer-cooked foods, staying upright for at least 90 minutes after eating, sipping warm (not hot) herbal teas like fennel or ginger *before* meals, and taking a gentle 10-minute walk 30–45 minutes after finishing. Avoid carbonated drinks, high-fat desserts, and lying down soon after eating—all of which can worsen delays.
 
-#### #### What foods should seniors with diabetic gastroparesis avoid to support gastric emptying?
+#### What foods should seniors with diabetic gastroparesis avoid to support gastric emptying?
 
 Avoid raw, fibrous vegetables (like celery or kale), tough cuts of meat, fried foods, nuts, seeds, and excessive dairy—especially full-fat cheeses and cream-based sauces. Also limit alcohol and caffeine, which can irritate the stomach lining and disrupt motilin signaling. Focus instead on well-cooked, low-residue options: oatmeal, ripe bananas, applesauce, skinless chicken, and smooth lentil soup.
 
-#### #### Can lifestyle changes really support gastric emptying diabetic gastroparesis seniors without medication?
+#### Can lifestyle changes really support gastric emptying diabetic gastroparesis seniors without medication?
 
 Yes—many seniors see meaningful improvement with consistent, non-pharmaceutical approaches. Research shows that combining upright posture, paced eating, thermal support (warmth), and gentle movement can improve gastric emptying times by 20–30% over 4–8 weeks. These strategies work best when personalized and supported by regular glucose and symptom tracking.
 
-#### #### Is ginger safe for seniors with diabetic gastroparesis?
+#### Is ginger safe for seniors with diabetic gastroparesis?
 
 Yes—when used moderately. Up to 1.5 g of powdered ginger root (about ½ tsp), taken 30 minutes before a meal, has been shown in clinical studies to mildly enhance gastric motility and reduce nausea. Avoid ginger supplements with added sugars or fillers. Always check with your pharmacist if you take blood thinners (e.g., warfarin), as high-dose ginger may interact.
 
-#### #### How does stress affect gastric emptying in older adults with diabetes?
+#### How does stress affect gastric emptying in older adults with diabetes?
 
 Stress activates the sympathetic (“fight-or-flight”) nervous system—which directly inhibits vagal tone and slows gastric contractions. Chronic stress may contribute to unpredictable emptying and wider glucose variability. Simple practices like 4-7-8 breathing (inhale 4 sec, hold 7, exhale 8) before meals or mindful sipping of warm tea can help shift toward parasympathetic dominance—supporting both digestion and calm.

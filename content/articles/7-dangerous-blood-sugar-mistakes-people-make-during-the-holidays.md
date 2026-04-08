@@ -45,22 +45,22 @@ The holidays don’t have to mean sacrificing health for joy — they’re meant
 
 ### FAQ
 
-#### #### What are the most common holiday blood sugar mistakes people over 50 make?
+#### What are the most common holiday blood sugar mistakes people over 50 make?
 
 The top *holiday blood sugar mistakes* include skipping diabetes medications “to compensate” for eating more, underestimating carb counts in holiday dishes (especially sauces and drinks), and delaying blood sugar checks because of busy schedules — all of which increase risks of highs or dangerous lows.
 
-#### #### How do holiday blood sugar mistakes affect blood pressure?
+#### How do holiday blood sugar mistakes affect blood pressure?
 
 They’re closely linked: high blood sugar promotes inflammation and arterial stiffness, which can raise systolic BP by 5–10 mm Hg in susceptible individuals. Over time, repeated spikes contribute to sustained hypertension — a key driver of heart disease and stroke.
 
-#### #### Can stress really cause holiday blood sugar mistakes?
+#### Can stress really cause holiday blood sugar mistakes?
 
 Yes — absolutely. Emotional and logistical stress raises cortisol and adrenaline, both of which trigger the liver to release stored glucose. This effect is stronger in adults over 50 due to age-related changes in hormone regulation and stress response.
 
-#### #### Is it safe to drink alcohol during the holidays if I have diabetes?
+#### Is it safe to drink alcohol during the holidays if I have diabetes?
 
 In moderation — yes. But alcohol can mask hypoglycemia symptoms (like dizziness or shakiness) and interfere with liver glucose production. Always eat something with carbs before drinking, limit to one serving (5 oz wine, 12 oz beer), and check your levels before bed.
 
-#### #### What’s a healthy blood sugar range during the holidays?
+#### What’s a healthy blood sugar range during the holidays?
 
 For most adults over 50, target fasting levels are 80–130 mg/dL and post-meal (2-hour) levels under 180 mg/dL — though your doctor may adjust these based on your health history and goals.

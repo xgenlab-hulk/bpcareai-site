@@ -3,7 +3,7 @@ title: >-
   Nutrient-Dense Foods for Low Appetite Seniors: Eat Smarter
 slug: nutrient-dense-foods-low-appetite-seniors
 description: >-
-  Nutrient dense foods for low appetite seniors—like lentils + tahini (12g protein per ¼ cup) — help prevent muscle loss. 1.2–1.5g protein/kg/day needed (not
+  Nutrient dense foods for low appetite seniors—like lentils + tahini (12g protein per ¼ cup) — help prevent muscle loss. 1.2–1.
 date: '2026-04-02'
 updated: '2026-04-02'
 primaryKeyword: >-

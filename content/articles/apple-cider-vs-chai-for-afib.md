@@ -56,17 +56,17 @@ Choosing between warm spiced apple cider and decaf chai latte doesn’t need to 
 
 ### FAQ
 
-#### #### Is warm apple cider safe for someone with atrial fibrillation?
+#### Is warm apple cider safe for someone with atrial fibrillation?
 Yes—with caveats. Unfiltered apple cider contains beneficial polyphenols, but its natural sugar content (≈3 g per oz) may cause transient BP spikes or autonomic shifts in sensitive individuals. Limit to 6 oz, avoid added sugars, and monitor symptoms. For those with frequent AFib episodes, decaf chai may offer more predictable hemodynamic effects.
 
-#### #### What’s better for AFib prevention: apple cider vs chai for afib?
+#### What’s better for AFib prevention: apple cider vs chai for afib?
 For adults 64+ with mild left atrial enlargement, decaf chai latte (oat milk, no syrup) generally presents a lower-risk profile due to stable glycemic response, negligible caffeine, and endothelial-supportive spices. Apple cider offers valuable antioxidants but requires stricter portion control to mitigate stretch-signaling effects on the atria.
 
-#### #### Does oat milk chai have less impact on blood pressure than apple cider?
+#### Does oat milk chai have less impact on blood pressure than apple cider?
 Yes—studies show oat milk-based decaf chai produces smaller postprandial BP fluctuations (<8 mm Hg systolic rise) compared to unsweetened apple cider (~12–15 mm Hg rise in adults with mild LAE), likely due to beta-glucan–mediated vascular modulation and absence of fructose-driven uric acid elevation.
 
-#### #### Can ginger or cinnamon in chai trigger AFib?
+#### Can ginger or cinnamon in chai trigger AFib?
 No evidence suggests culinary doses of ginger or cinnamon trigger AFib. In fact, gingerol and cinnamaldehyde exhibit anti-inflammatory and NO-boosting properties. However, excessive amounts (>2 g dried ginger daily) may interact with anticoagulants—discuss with your provider if on apixaban or warfarin.
 
-#### #### Is unfiltered apple cider healthier than filtered for heart rhythm?
+#### Is unfiltered apple cider healthier than filtered for heart rhythm?
 Unfiltered cider retains more quercetin and fiber, which support endothelial health—but the higher particulate load and sugar concentration may increase postprandial oxidative stress in aging atria. Filtered versions with no added sugar are often better tolerated for long-term rhythm stability.

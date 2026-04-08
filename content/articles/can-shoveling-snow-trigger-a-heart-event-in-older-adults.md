@@ -85,17 +85,17 @@ Staying active and engaged in daily life—including seasonal tasks like snow re
 
 ### FAQ
 
-#### #### Is shoveling snow heart risk higher for people with high blood pressure?
+#### Is shoveling snow heart risk higher for people with high blood pressure?
 Yes. Hypertension increases baseline arterial pressure, and cold exposure plus physical strain can push BP into dangerous ranges—sometimes triggering arrhythmias or plaque rupture. People with uncontrolled high blood pressure (≥140/90 mm Hg) should avoid shoveling unless cleared by their physician.
 
-#### #### What are the warning signs of a heart event while shoveling snow?
+#### What are the warning signs of a heart event while shoveling snow?
 Key signs include chest tightness or pressure (not just sharp pain), discomfort spreading to the jaw, neck, or left arm, sudden shortness of breath, cold sweats, nausea, dizziness, or unexplained fatigue. Importantly, women and older adults may experience atypical symptoms—like profound exhaustion or indigestion—without classic chest pain.
 
-#### #### Can shoveling snow heart risk be reduced with medication?
+#### Can shoveling snow heart risk be reduced with medication?
 Certain medications—such as beta-blockers, ACE inhibitors, or calcium channel blockers—can help blunt the BP and heart rate spikes caused by shoveling. However, they don’t eliminate risk. Never start, stop, or adjust cardiac meds solely to enable snow removal—always discuss timing and safety with your prescribing provider.
 
-#### #### How does cold weather affect the heart beyond shoveling?
+#### How does cold weather affect the heart beyond shoveling?
 Cold air causes peripheral vasoconstriction, raising afterload on the heart; it also increases blood viscosity and platelet stickiness, slightly elevating clotting risk. Additionally, holiday stress, dietary changes, and reduced physical activity in winter can compound cardiovascular strain—making *winter heart health for seniors* a holistic concern, not just a shoveling issue.
 
-#### #### Are there safer alternatives to shoveling for older adults?
+#### Are there safer alternatives to shoveling for older adults?
 Absolutely. Using a snow blower (with appropriate safety precautions), hiring assistance, or asking family members or neighborhood services to help are excellent options. Some communities offer senior snow removal programs—check with local Area Agencies on Aging or municipal offices. Remember: preserving heart health is more valuable than maintaining a perfectly clear driveway.

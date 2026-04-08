@@ -69,17 +69,17 @@ Food is love—especially at family gatherings. Understanding how *sweet potato 
 
 ### FAQ  
 
-#### #### Is sweet potato casserole metabolic syndrome a real medical diagnosis?  
+#### Is sweet potato casserole metabolic syndrome a real medical diagnosis?  
 No—it’s not a formal diagnosis, but rather a descriptive phrase used in nutrition science to highlight how specific recipes interact with the physiological features of metabolic syndrome, particularly in older adults. Think of it as a practical lens—not a label.
 
-#### #### Can I still eat sweet potato casserole if I have metabolic syndrome?  
+#### Can I still eat sweet potato casserole if I have metabolic syndrome?  
 Yes! The key is adjusting ingredients—not eliminating the dish. Focus on reducing added sugars, choosing unsaturated fats, and boosting fiber. Even small swaps lower postprandial triglyceride spikes significantly.
 
-#### #### How does sweet potato casserole metabolic syndrome affect blood pressure?  
+#### How does sweet potato casserole metabolic syndrome affect blood pressure?  
 Indirectly but meaningfully. Delayed triglyceride clearance promotes inflammation and endothelial dysfunction, both of which contribute to arterial stiffness and elevated systolic BP—especially noticeable in adults over 65.
 
-#### #### What’s the best side dish to balance a sweet potato casserole at Thanksgiving?  
+#### What’s the best side dish to balance a sweet potato casserole at Thanksgiving?  
 A large leafy green salad with olive oil–lemon dressing and roasted Brussels sprouts adds polyphenols, magnesium, and fiber—all shown to support postprandial lipid and glucose regulation.
 
-#### #### Are canned sweet potatoes okay for metabolic syndrome?  
+#### Are canned sweet potatoes okay for metabolic syndrome?  
 Opt for plain, no-sugar-added varieties packed in water—not syrup. Rinse before use. Fresh or frozen unsweetened sweet potatoes remain the top choice for consistent glycemic control.

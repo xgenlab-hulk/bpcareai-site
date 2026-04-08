@@ -71,22 +71,22 @@ Most importantly, it reminds us that wellness doesn’t have to mean sacrifice. 
 
 ### FAQ
 
-#### #### Does apple cider vinegar postprandial glucose benefit everyone over 50?
+#### Does apple cider vinegar postprandial glucose benefit everyone over 50?
 
 No. The 2024 RCT found meaningful reductions in post-meal glucose *only* in adults aged 59–78 with confirmed insulin resistance—and only when ACV was consumed with high-glycemic meals. People with normal insulin sensitivity or low-carb meals saw no significant effect.
 
-#### #### How much apple cider vinegar postprandial glucose impact can I expect at holiday meals?
+#### How much apple cider vinegar postprandial glucose impact can I expect at holiday meals?
 
 In the study, 15 mL (1 tbsp) of 5% ACV taken *with* the meal reduced the 2-hour glucose peak by ~22 mg/dL on average—roughly equivalent to swapping white potatoes for roasted cauliflower. Effects varied based on meal composition, so individual results may differ.
 
-#### #### Can I use any kind of vinegar for apple cider vinegar postprandial glucose support?
+#### Can I use any kind of vinegar for apple cider vinegar postprandial glucose support?
 
 No. Only apple cider vinegar with ≥5% acetic acid—and ideally, raw, unfiltered varieties containing the “mother”—showed consistent effects. Balsamic, rice, and white vinegars have different acid profiles and lack the same enzymatic inhibition demonstrated in the trial.
 
-#### #### Does apple cider vinegar lower blood pressure too?
+#### Does apple cider vinegar lower blood pressure too?
 
 While some small studies suggest mild vasodilatory effects from acetic acid, the 2024 RCT did *not* measure blood pressure outcomes. There’s currently no robust evidence that ACV meaningfully impacts systolic or diastolic pressure in adults with insulin resistance.
 
-#### #### Is it safe to take apple cider vinegar daily during the holidays?
+#### Is it safe to take apple cider vinegar daily during the holidays?
 
 For most healthy adults over 59, yes—when properly diluted (e.g., in salad dressing) and limited to 1–2 tbsp per day. However, avoid daily use if you have GERD, gastroparesis, or chronic kidney disease—and always rinse your mouth with water afterward to protect tooth enamel.

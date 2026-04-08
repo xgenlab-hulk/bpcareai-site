@@ -95,22 +95,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does nighttime hypertension nocturia low testosterone increase stroke risk?
+#### Does nighttime hypertension nocturia low testosterone increase stroke risk?
 
 Yes—particularly because non-dipping BP is linked to increased arterial stiffness and impaired cerebral autoregulation. Men aged 57–68 with this triad have a 1.7x higher 10-year risk of ischemic stroke compared to peers with normal nocturnal dipping and no nocturia—even after adjusting for age and diabetes.
 
-#### #### Can low testosterone cause high blood pressure at night specifically?
+#### Can low testosterone cause high blood pressure at night specifically?
 
 Indirectly, yes. Low testosterone contributes to endothelial dysfunction, increased sympathetic tone, and altered renin-angiotensin-aldosterone system (RAAS) activity—all of which impair the natural nighttime decline in blood pressure. It also reduces the kidney’s ability to excrete sodium efficiently at night, raising fluid volume and arterial pressure after bedtime.
 
-#### #### What’s the best time to check blood pressure for nighttime hypertension nocturia low testosterone?
+#### What’s the best time to check blood pressure for nighttime hypertension nocturia low testosterone?
 
 For screening, take readings at 10 p.m. and again at 2 a.m. (if you wake naturally). But for diagnosis, ABPM is strongly preferred—it provides 30+ data points overnight and accounts for sleep-wake transitions. Home monitors alone can miss reverse dipping patterns.
 
-#### #### Is nocturia always related to the prostate in older men?
+#### Is nocturia always related to the prostate in older men?
 
 No. While benign prostatic hyperplasia (BPH) contributes in some cases, up to half of men with nocturia aged 57–68 have *global* nocturnal polyuria—meaning their kidneys produce too much urine at night due to circadian misalignment, low melatonin, or hormonal shifts—not obstruction.
 
-#### #### Can lifestyle changes alone reverse nighttime hypertension nocturia low testosterone?
+#### Can lifestyle changes alone reverse nighttime hypertension nocturia low testosterone?
 
 In many cases, yes—especially when started early. Clinical trials show 60–70% of men following timed fluid restriction, evening melatonin, pre-6 p.m. sodium control, and resistance training see measurable improvements in nocturnal dipping and nocturia frequency within 8–12 weeks. However, individual response varies, and ongoing monitoring remains essential.

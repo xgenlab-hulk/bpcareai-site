@@ -45,22 +45,22 @@ Heart health isn’t about perfection—it’s about thoughtful, sustainable cho
 
 ### FAQ
 
-#### #### Does salt intake and heart disease development happen quickly?
+#### Does salt intake and heart disease development happen quickly?
 
 No—this process typically unfolds over years or decades. While very high salt consumption can cause acute spikes in blood pressure, the structural changes in arteries and heart muscle occur gradually. That’s why consistent, moderate reduction matters more than occasional “perfect” days.
 
-#### #### Can reducing salt intake reverse heart disease?
+#### Can reducing salt intake reverse heart disease?
 
 Reducing salt won’t reverse advanced heart disease, but it *can* slow progression, lower BP, reduce strain on the heart, and improve response to medications. Many people see improved energy, less swelling, and better sleep within weeks of lowering sodium.
 
-#### #### How does salt intake and heart disease development differ in older adults versus younger adults?
+#### How does salt intake and heart disease development differ in older adults versus younger adults?
 
 Older adults generally have reduced kidney function and stiffer arteries, making them more sensitive to sodium’s fluid-retaining effects. As a result, the same amount of salt may raise BP more significantly—and contribute more steadily to long-term heart disease risk—than in younger adults.
 
-#### #### Is sea salt or Himalayan salt safer for heart health?
+#### Is sea salt or Himalayan salt safer for heart health?
 
 No—despite marketing claims, all salts contain sodium chloride (about 40% sodium by weight). Sea salt, kosher salt, and pink salt aren’t meaningfully lower in sodium and offer no proven heart-health advantage over table salt.
 
-#### #### What’s the best way to tell if I’m eating too much salt?
+#### What’s the best way to tell if I’m eating too much salt?
 
 Look beyond taste: check food labels, track meals for 3 days using a free nutrition app, and monitor your blood pressure regularly. Consistent readings above 130/80 mm Hg—especially alongside swelling or fatigue—may signal that salt intake and heart disease development are worth exploring with your clinician.

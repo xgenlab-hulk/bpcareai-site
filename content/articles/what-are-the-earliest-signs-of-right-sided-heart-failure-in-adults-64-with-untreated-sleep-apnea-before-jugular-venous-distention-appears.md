@@ -74,17 +74,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What are the earliest signs of right-sided heart failure in someone with sleep apnea?
+#### What are the earliest signs of right-sided heart failure in someone with sleep apnea?
 The earliest signs often include nocturnal polyuria (waking 2+ times nightly to urinate), isolated lower-leg edema without weight gain, and worsening GERD or nighttime cough—*before* jugular venous distention or liver congestion appear.
 
-#### #### Can early right-sided heart failure signs sleep apnea show up without swelling or weight gain?
+#### Can early right-sided heart failure signs sleep apnea show up without swelling or weight gain?
 Yes. Because early right-sided heart failure signs sleep apnea stem from venous pressure shifts—not total fluid overload—you may see symptoms like frequent nighttime urination or reflux *without* obvious edema or weight change.
 
-#### #### How is early right-sided heart failure diagnosed in patients with sleep apnea?
+#### How is early right-sided heart failure diagnosed in patients with sleep apnea?
 Diagnosis starts with clinical clues and history, then may include echocardiography (focusing on RV size, function, and estimated pulmonary artery pressure), overnight oximetry, and sometimes right-heart catheterization if pulmonary hypertension is suspected.
 
-#### #### Does treating sleep apnea reverse early right-sided heart failure?
+#### Does treating sleep apnea reverse early right-sided heart failure?
 In many cases—yes. Consistent CPAP use can reduce pulmonary vascular resistance and RV afterload, leading to measurable improvement in RV structure and function within 3–6 months.
 
-#### #### Is nocturnal polyuria a reliable early sign of right-sided heart failure?
+#### Is nocturnal polyuria a reliable early sign of right-sided heart failure?
 It’s not definitive on its own—but when paired with known OSA, unrefreshing sleep, and other venous congestion clues (like mild edema or reflux), nocturnal polyuria becomes a meaningful red flag worth discussing with your care team.

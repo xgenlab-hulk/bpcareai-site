@@ -70,22 +70,22 @@ Heart health is deeply personal—and deeply hopeful. With awareness and gentle 
 
 ### FAQ
 
-#### #### Can arm pain be a sign of a heart attack in women over 50?
+#### Can arm pain be a sign of a heart attack in women over 50?
 
 Yes—especially if it’s new, unexplained, and occurs alongside other subtle signs like fatigue, shortness of breath, or nausea. Unlike men, many women over 50 experience arm pain without chest discomfort, making it a crucial symptom to recognize.
 
-#### #### What does arm pain from a heart issue feel like in women over 50?
+#### What does arm pain from a heart issue feel like in women over 50?
 
 It’s often described as dull, heavy, achy, or numb—rather than sharp or stabbing—and may radiate from the chest or shoulder down the inner left arm. It can come and go, especially with physical activity or emotional stress.
 
-#### #### Are arm pain and heart attack symptoms in women over 50 different from men’s?
+#### Are arm pain and heart attack symptoms in women over 50 different from men’s?
 
 Yes. Women are more likely to report atypical symptoms: arm or jaw pain, profound fatigue, indigestion-like discomfort, or anxiety—sometimes without obvious chest pressure. This difference is well-documented in clinical guidelines and underscores why personalized assessment matters.
 
-#### #### Is left arm pain always heart-related in women over 50?
+#### Is left arm pain always heart-related in women over 50?
 
 No—most cases stem from musculoskeletal causes (like rotator cuff issues or cervical spine changes). But because cardiovascular disease is the #1 cause of death for women in this age group, new or unusual left arm pain deserves thoughtful evaluation—not automatic dismissal.
 
-#### #### How common is arm pain as a heart attack symptom in women over 50?
+#### How common is arm pain as a heart attack symptom in women over 50?
 
 Studies suggest up to 30% of women experiencing a heart event report arm, shoulder, or back pain as a primary or early symptom—often before more recognizable signs appear.

@@ -75,17 +75,17 @@ Your heart is resilient—and early detection gives you meaningful time to act. 
 
 ### FAQ  
 
-#### #### What are early heart strain signs during routine activity?  
+#### What are early heart strain signs during routine activity?  
 Early heart strain signs during routine activity include delayed speech recovery after light exertion (e.g., >90 seconds to talk normally after vacuuming), jaw or neck fatigue within minutes of stair use, unexplained breathlessness that lingers longer than usual, or needing to sit immediately after carrying modest loads—all despite being otherwise active and healthy.
 
-#### #### Can early heart strain signs routine activity occur even with normal blood pressure?  
+#### Can early heart strain signs routine activity occur even with normal blood pressure?  
 Yes. Diastolic dysfunction can develop independently of elevated BP. Arterial pressure readings may fall within “normal” ranges (e.g., 128/78 mm Hg), yet filling pressures inside the heart can be elevated—detectable only through symptom awareness and targeted testing like echocardiography.
 
-#### #### Are early heart strain signs routine activity more common after age 60?  
+#### Are early heart strain signs routine activity more common after age 60?  
 Yes—prevalence rises significantly after age 55, particularly in adults with hypertension, metabolic syndrome, or sedentary intervals earlier in life. However, because many remain active, symptoms are easily overlooked until progression occurs.
 
-#### #### What tests detect early heart strain signs before major symptoms appear?  
+#### What tests detect early heart strain signs before major symptoms appear?  
 Echocardiography with tissue Doppler imaging (measuring E/e’ ratio), exercise stress testing with echo or BNP biomarker analysis, and sometimes cardiac MRI can identify subclinical diastolic impairment—even when resting ECG and standard echo appear normal.
 
-#### #### How is early heart strain different from general fatigue?  
+#### How is early heart strain different from general fatigue?  
 General fatigue improves with rest and isn’t tied to specific exertional triggers. Early heart strain signs routine activity are *task-specific*, *reproducible*, and involve *delayed physiological recovery*—not just mental tiredness. They often co-occur with subtle physical sensations (jaw tightness, upper back pressure) rather than generalized exhaustion.

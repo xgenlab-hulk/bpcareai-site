@@ -60,22 +60,22 @@ In closing, fatigue after blood pressure medication over 65 is understandable—
 
 ### FAQ
 
-#### #### Is fatigue after blood pressure medication over 65 normal—or a sign something’s wrong?
+#### Is fatigue after blood pressure medication over 65 normal—or a sign something’s wrong?
 
 It’s *common*, but not always benign. Up to 25% of older adults report fatigue with beta-blockers or diuretics, yet new or worsening fatigue—especially with other symptoms—deserves evaluation to rule out heart strain, electrolyte imbalance, or medication interaction.
 
-#### #### How long does fatigue after blood pressure medication over 65 usually last?
+#### How long does fatigue after blood pressure medication over 65 usually last?
 
 For most people, mild fatigue eases within 1–2 weeks as the body adjusts. If it persists beyond 14 days, worsens, or appears alongside lightheadedness or swelling, it’s time for a check-in with your care team.
 
-#### #### Can ACE inhibitors cause fatigue without raising blood pressure?
+#### Can ACE inhibitors cause fatigue without raising blood pressure?
 
 Yes—though not by lowering BP too much, ACE inhibitors can rarely trigger early angioedema or affect potassium levels, both of which lead to unusual tiredness. This is uncommon but important to recognize early.
 
-#### #### What’s the difference between medication fatigue and heart failure fatigue?
+#### What’s the difference between medication fatigue and heart failure fatigue?
 
 Medication-related fatigue often improves with rest and doesn’t worsen with activity. Heart failure fatigue tends to get *worse* with exertion, comes with breathlessness, leg swelling, or nighttime coughing—and may not fully lift even after sleeping.
 
-#### #### Should I check my pulse if I feel fatigued after starting a new blood pressure drug?
+#### Should I check my pulse if I feel fatigued after starting a new blood pressure drug?
 
 Yes—especially if you’re on a beta-blocker or calcium channel blocker. A consistently slow (under 50 bpm) or irregular pulse could explain your fatigue and guide safer adjustments.

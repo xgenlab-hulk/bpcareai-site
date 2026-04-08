@@ -90,22 +90,22 @@ Living well with osteoporosis and atrial fibrillation at 82+ is absolutely possi
 
 ### FAQ
 
-#### #### Can low-impact resistance osteoporosis afib seniors 82+ exercises help reduce fall risk?
+#### Can low-impact resistance osteoporosis afib seniors 82+ exercises help reduce fall risk?
 
 Yes — when properly tailored. Research shows that 2–3 weekly sessions of seated or supported resistance work improve leg strength, balance confidence, and reaction time. In one 2022 trial of adults aged 80–90 with osteoporosis and Afib, participants saw a 37% reduction in near-falls after 10 weeks of guided low-impact resistance training.
 
-#### #### Are resistance bands safe for seniors 82+ with severe osteoporosis and on apixaban?
+#### Are resistance bands safe for seniors 82+ with severe osteoporosis and on apixaban?
 
 Generally, yes — especially light or medium resistance bands used in controlled, seated positions. Unlike free weights, bands offer smooth, adjustable tension without sudden jolts or grip strain. Just avoid anchoring bands overhead or behind the back, which could encourage unsafe spinal positions. Always inspect bands for nicks or tears before use.
 
-#### #### What’s the safest way to build strength if I have kyphosis and Afib?
+#### What’s the safest way to build strength if I have kyphosis and Afib?
 
 Focus on “axial elongation”: gentle lengthening of the spine in upright or supine positions, paired with diaphragmatic breathing. Wall sits, seated rows, and heel raises against a countertop are excellent starting points. A physical therapist can teach you personalized cues — like imagining a string lifting the top of your head — that support posture without strain.
 
-#### #### Can I do resistance exercise the same day I get my apixaban dose?
+#### Can I do resistance exercise the same day I get my apixaban dose?
 
 Yes — timing of apixaban (usually twice daily, 12 hours apart) doesn’t restrict movement. However, avoid vigorous activity within 2 hours of dosing if you’ve noticed dizziness or low BP after taking it. Consistency matters more than timing — choose a time of day when you feel most alert and stable.
 
-#### #### How do I know if an exercise is too intense for my heart and bones?
+#### How do I know if an exercise is too intense for my heart and bones?
 
 Listen closely: if you cannot speak in full sentences during movement, feel your heart racing or skipping *during or for more than 5 minutes after* exercise, or experience sharp or new back pain — stop and rest. These are signals, not failures. Resume at a gentler level the next day, and share what you noticed with your care team.

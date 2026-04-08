@@ -45,22 +45,22 @@ In short, stress and blood sugar in older diabetics are deeply linked—but enti
 
 ### FAQ
 
-#### #### Does stress raise blood sugar in older adults with diabetes?
+#### Does stress raise blood sugar in older adults with diabetes?
 
 Yes—stress triggers the release of cortisol and adrenaline, which prompt the liver to release extra glucose. In older adults with diabetes, especially those with insulin resistance or reduced pancreatic function, this can lead to noticeable spikes and slower return to baseline.
 
-#### #### How does chronic stress affect A1C in older diabetics?
+#### How does chronic stress affect A1C in older diabetics?
 
 Chronic, unmanaged stress may contribute to A1C increases of 0.3% to 0.6% over several months—not enough to sound alarms, but meaningful enough to impact long-term health goals. Consistent stress management can help stabilize A1C over time.
 
-#### #### Can reducing stress lower blood sugar naturally in older diabetics?
+#### Can reducing stress lower blood sugar naturally in older diabetics?
 
 Often, yes. Research shows that mindfulness-based stress reduction, regular gentle movement, and improved sleep hygiene can reduce average fasting glucose by 15–25 mg/dL in adults over 50 with type 2 diabetes—especially when practiced consistently for 8–12 weeks.
 
-#### #### What’s the difference between stress-induced high blood sugar and diabetic ketoacidosis (DKA)?
+#### What’s the difference between stress-induced high blood sugar and diabetic ketoacidosis (DKA)?
 
 Stress-induced highs typically occur gradually and rarely exceed 400 mg/dL in type 2 diabetes. DKA is rare in type 2 but more common in type 1 and involves dangerously high ketones, nausea, confusion, and rapid breathing—requiring urgent care. If you use insulin and feel unwell with high glucose, check for ketones per your care plan.
 
-#### #### Is there a link between stress and blood pressure in older diabetics?
+#### Is there a link between stress and blood pressure in older diabetics?
 
 Absolutely. Stress activates the sympathetic nervous system, raising both heart rate and arterial pressure. For older adults managing diabetes and hypertension, addressing stress supports *both* glucose control and cardiovascular health—making it a cornerstone of holistic care.

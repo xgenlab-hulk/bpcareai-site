@@ -72,22 +72,22 @@ In short: Your body speaks in quiet ways—and your heart is no exception. If yo
 
 ### FAQ
 
-#### #### What are the earliest signs of diabetic cardiomyopathy in women over 55?
+#### What are the earliest signs of diabetic cardiomyopathy in women over 55?
 
 The earliest signs often include subtle exertional dyspnea on flat ground, unexplained fatigue after light activity, reduced heart rate variability, and echocardiographic signs like impaired diastolic relaxation (e.g., E/A ratio <0.8)—all occurring before EF drops or NT-proBNP rises.
 
-#### #### Can early diabetic cardiomyopathy signs women experience be reversed?
+#### Can early diabetic cardiomyopathy signs women experience be reversed?
 
 While structural changes may not fully reverse, functional improvements—especially in diastolic function and HRV—are possible with optimized glucose control, regular aerobic activity, weight management, and blood pressure support. Many women see measurable gains within 3–6 months of consistent lifestyle shifts.
 
-#### #### Are early diabetic cardiomyopathy signs women notice different from men’s?
+#### Are early diabetic cardiomyopathy signs women notice different from men’s?
 
 Yes—women more commonly report fatigue, sleep disturbances, and vague exertional discomfort rather than classic chest pressure. They also tend to develop diastolic dysfunction earlier and more frequently than men with similar diabetes duration.
 
-#### #### Does metformin protect against early diabetic cardiomyopathy signs?
+#### Does metformin protect against early diabetic cardiomyopathy signs?
 
 Metformin has shown modest cardioprotective effects in observational studies—likely through improved insulin sensitivity and reduced oxidative stress—but it’s not a standalone shield. Lifestyle remains the cornerstone for preventing or slowing early diabetic cardiomyopathy signs women face.
 
-#### #### Is an echocardiogram enough to catch early diabetic cardiomyopathy?
+#### Is an echocardiogram enough to catch early diabetic cardiomyopathy?
 
 A standard echo *can* detect early signs—especially when focused on diastolic parameters (E/A, e′, E/e′)—but it’s most helpful when interpreted alongside symptoms, ECG, and clinical context. Strain imaging (speckle-tracking echo) adds even greater sensitivity for subtle myocardial changes.

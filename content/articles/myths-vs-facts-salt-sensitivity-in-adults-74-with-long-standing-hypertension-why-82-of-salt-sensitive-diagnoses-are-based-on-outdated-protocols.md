@@ -100,22 +100,22 @@ If you're unsure, talking to your doctor is always a good idea—especially one 
 
 ### FAQ
 
-#### #### Is salt sensitivity permanent in older adults with hypertension?
+#### Is salt sensitivity permanent in older adults with hypertension?
 
 No—it’s dynamic and influenced by kidney function, medications, hydration, and overall health. Many people show different sodium responsiveness year to year. Regular reassessment (not annual “challenge tests,” but thoughtful clinical review + FeNa when appropriate) is more useful than a one-time label.
 
-#### #### Can I test for salt sensitivity at home?
+#### Can I test for salt sensitivity at home?
 
 No reliable home test exists. Blood pressure cuffs measure effect—not cause. Self-testing with high-salt meals is unsafe and misleading in older adults. If sodium responsiveness is clinically relevant, your provider may order timed urine collections for FeNa or recommend supervised ambulatory BP monitoring.
 
-#### #### What’s the link between salt-sensitivity-myths-elderly-hypertension and heart failure?
+#### What’s the link between salt-sensitivity-myths-elderly-hypertension and heart failure?
 
 Mislabeling salt sensitivity can lead to overly aggressive sodium restriction—which may worsen outcomes in older adults with preserved ejection fraction (HFpEF). Current HF guidelines emphasize *individualized* sodium goals (often 2,000–3,000 mg/day), not universal low-salt mandates—especially when combined with diuretics.
 
-#### #### Does sea salt or Himalayan salt lower blood pressure compared to table salt?
+#### Does sea salt or Himalayan salt lower blood pressure compared to table salt?
 
 No—all salts contain ~40% sodium by weight. “Less processed” salts may have trace minerals, but they do *not* reduce sodium load or BP impact. The key is total sodium *amount*, not source.
 
-#### #### Are there blood tests besides FeNa to assess salt sensitivity in seniors?
+#### Are there blood tests besides FeNa to assess salt sensitivity in seniors?
 
 Not routinely. Renin, aldosterone, and BNP levels offer supportive clues but aren’t diagnostic. Ambulatory BP monitoring (24-hour readings) remains the most practical clinical tool—especially looking for *non-dipping* patterns (BP that doesn’t fall at night), which correlates more strongly with sodium retention in older adults than isolated clinic readings.

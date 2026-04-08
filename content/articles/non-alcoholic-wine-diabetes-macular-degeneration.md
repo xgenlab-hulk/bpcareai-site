@@ -51,22 +51,22 @@ In summary, thoughtful beverage selection supports both vascular and ocular resi
 
 ### FAQ
 
-#### #### Is non-alcoholic wine safe for people with diabetes and macular degeneration?
+#### Is non-alcoholic wine safe for people with diabetes and macular degeneration?
 
 Yes—if carefully selected. Prioritize options with <2 g free sugars per serving and verified anthocyanin or polyphenol content. Avoid those with added sucrose, fructose, or concentrated grape juice. Always pair with a source of healthy fat to support carotenoid absorption.
 
-#### #### What non-alcoholic wine diabetes macular degeneration options have the least sugar?
+#### What non-alcoholic wine diabetes macular degeneration options have the least sugar?
 
 Black currant infusions (unsweetened, brewed at home) typically contain <1 g sugar per 120 mL. Some certified low-sugar commercial pomegranate-mulberry blends list 1.5 g per 150 mL—check labels for “total sugars” *and* “added sugars.”
 
-#### #### Can non-alcoholic wine diabetes macular degeneration choices really support eye health?
+#### Can non-alcoholic wine diabetes macular degeneration choices really support eye health?
 
 Evidence suggests yes—but indirectly. Anthocyanins and ellagitannins improve retinal blood flow, reduce oxidative stress in RPE cells, and enhance uptake of dietary lutein/zeaxanthin. Human trials show improved contrast sensitivity after 12 weeks of daily anthocyanin intake (≥100 mg/day).
 
-#### #### Does resveratrol in non-alcoholic red wine help early macular degeneration?
+#### Does resveratrol in non-alcoholic red wine help early macular degeneration?
 
 Resveratrol has demonstrated anti-angiogenic effects in lab studies, but its oral bioavailability is low (<1%), especially without fat co-consumption. In real-world use, black currant and pomegranate anthocyanins show more consistent RPE protective effects in clinical OCT follow-up.
 
-#### #### Are there BP-friendly non-alcoholic wine alternatives for seniors with hypertension?
+#### Are there BP-friendly non-alcoholic wine alternatives for seniors with hypertension?
 
 Absolutely. Low-sodium, low-sugar, anthocyanin-rich options like unsweetened hibiscus-black currant infusions may support endothelial function. Avoid high-potassium blends if on ACE inhibitors—consult your provider before making dietary changes.

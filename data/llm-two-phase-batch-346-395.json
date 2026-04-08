@@ -1,0 +1,2082 @@
+{
+  "batch_info": {
+    "batch_id": "batch-011",
+    "articles_range": "346-395",
+    "total_articles": 50,
+    "created_date": "2026-03-23"
+  },
+  "summary": {
+    "total_articles": 50,
+    "all_successful": true,
+    "successful_count": 50,
+    "failed_count": 0,
+    "average_original_score": 58.95,
+    "average_optimized_score": 92.11,
+    "average_improvement": 33.16,
+    "redirects_needed": 40,
+    "quality_compliance": {
+      "description_length_violations": 4,
+      "all_fields_above_85": 45,
+      "overall_score_above_85": 50
+    }
+  },
+  "phase1_metadata": {
+    "optimization_results": [
+      {
+        "article_number": 346,
+        "filename": "women-holiday-heart-syndrome-menopause",
+        "original_metadata": {
+          "primaryKeyword": "women holiday heart syndrome menopause",
+          "slug": "women-holiday-heart-syndrome-menopause",
+          "title": "5 Things Every Woman Over 67 Should Know About Holiday Heart Syndrome — Especially With Concurrent Perimenopausal Estrogen Decline and Subclinical Coronary Microvascular Dysfunction",
+          "description": "Gender-specific breakdown of hormonal, microvascular, and inflammatory intersections that uniquely predispose postmenopausal women to alcohol-triggered arrhythmias during festive periods."
+        },
+        "original_scores": {
+          "primaryKeyword": 68,
+          "slug": 75,
+          "title": 55,
+          "description": 60,
+          "overall": 64.5
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "holiday heart syndrome women 67 menopause",
+          "slug": "holiday-heart-syndrome-women-67",
+          "title": "Holiday Heart Risk After Menopause? (Women 67+ Essential Guide)",
+          "description": "Holiday heart risk after menopause? Get 5 warning signs women 67+ must know, why estrogen loss changes rhythm, and when to skip wine today."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 92,
+          "slug": 92,
+          "title": 90,
+          "description": 95,
+          "overall": 92.25
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 347,
+        "filename": "traffic-vibration-baroreceptor-sensitivity-hypertension",
+        "original_metadata": {
+          "primaryKeyword": "traffic vibration baroreceptor sensitivity hypertension",
+          "slug": "traffic-vibration-baroreceptor-sensitivity-hypertension",
+          "title": "How Chronic Exposure to Low-Frequency Traffic Vibration (Below 10 Hz) Modulates Baroreceptor Sensitivity in Adults 65–70 With Stage 1 Hypertension and Mild Sleep Fragmentation",
+          "description": "Analyzes environmental biomechanics affecting autonomic regulation — focusing on sub-threshold vibrational stimuli that subtly impair pressure-sensing neural pathways."
+        },
+        "original_scores": {
+          "primaryKeyword": 55,
+          "slug": 60,
+          "title": 48,
+          "description": 52,
+          "overall": 53.75
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "traffic noise blood pressure sleep seniors",
+          "slug": "traffic-noise-bp-sleep-65-70",
+          "title": "Traffic Noise Raising Your BP at Night? (Ages 65-70 Sleep Guide)",
+          "description": "Traffic noise raising BP at night? Discover 4 ways to protect heart health, why vibration stress triggers hypertension, and when to act—ages 65-70."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 90,
+          "slug": 90,
+          "title": 88,
+          "description": 93,
+          "overall": 90.25
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 348,
+        "filename": "subclinical-aortic-stenosis-blood-pressure-masking",
+        "original_metadata": {
+          "primaryKeyword": "subclinical aortic stenosis blood pressure masking",
+          "slug": "subclinical-aortic-stenosis-blood-pressure-masking",
+          "title": "Warning Signs Your 'Stable' Blood Pressure Readings Are Masking Subclinical Aortic Valve Stenosis Progression — Especially With Concurrent Elevated NT-proBNP and Normal Echocardiographic Gradient in Adults 75+",
+          "description": "Highlights discordant clinical signals (e.g., preserved gradient despite rising biomarkers) that indicate early valvular obstruction altering central hemodynamics."
+        },
+        "original_scores": {
+          "primaryKeyword": 62,
+          "slug": 65,
+          "title": 50,
+          "description": 58,
+          "overall": 58.75
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "normal bp hiding heart valve problems 75",
+          "slug": "normal-bp-hiding-valve-stenosis-75",
+          "title": "Normal BP Hiding Heart Valve Problems? (Adults 75+ Warning Signs)",
+          "description": "Normal BP but tired? Get 5 signs of aortic valve stenosis adults 75+ must know, why stable numbers mislead, and critical tests to request today."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 88,
+          "slug": 91,
+          "title": 89,
+          "description": 94,
+          "overall": 90.5
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 349,
+        "filename": "simple-steps-to-normalize-post-exercise-blood-pressure-recovery-time-in-adults-60-with-metabolic-syndrome-and-subclinical-diastolic-impairment",
+        "original_metadata": {
+          "primaryKeyword": "post-exercise blood pressure recovery metabolic syndrome",
+          "slug": "simple-steps-to-normalize-post-exercise-blood-pressure-recovery-time-in-adults-60-with-metabolic-syndrome-and-subclinical-diastolic-impairment",
+          "title": "Simple Steps to Normalize Post-Exercise Blood Pressure Recovery Time in Adults 60+ With Metabolic Syndrome and Subclinical Diastolic Impairment",
+          "description": "Offers actionable, low-intensity movement and recovery strategies to improve parasympathetic reactivation speed after exertion—critical for cardiovascular resilience."
+        },
+        "original_scores": {
+          "primaryKeyword": 75,
+          "slug": 45,
+          "title": 62,
+          "description": 68,
+          "overall": 62.5
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "bp stays high after exercise metabolic syndrome",
+          "slug": "bp-recovery-after-exercise-60",
+          "title": "BP Stays High After Exercise? (Metabolic Syndrome Recovery Guide)",
+          "description": "BP high after walks? Get 5 recovery techniques for adults 60+ with metabolic syndrome, why slow recovery signals stress, and safe cooldown timing."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 90,
+          "slug": 93,
+          "title": 91,
+          "description": 96,
+          "overall": 92.5
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 350,
+        "filename": "post-meal-walking-atrial-stretch",
+        "original_metadata": {
+          "primaryKeyword": "post-meal walking atrial stretch",
+          "slug": "post-meal-walking-atrial-stretch",
+          "title": "How Daily 2-Minute Upright Post-Meal Walking Modulates Postprandial Atrial Stretch in Adults 57–63 With Mild Left Atrial Enlargement — A Mechanistic Guide",
+          "description": "Explains the biomechanical and hemodynamic rationale for timing-specific ambulation to reduce transient atrial wall stress, with ultrasound-guided gait recommendations."
+        },
+        "original_scores": {
+          "primaryKeyword": 70,
+          "slug": 78,
+          "title": 58,
+          "description": 55,
+          "overall": 65.25
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "walking after meals heart rhythm atrial 57",
+          "slug": "walking-after-meals-atrial-health-57",
+          "title": "Should You Walk After Meals? (Atrial Health Guide Ages 57-63)",
+          "description": "Walk after meals? Discover the proven 2-minute timing that protects heart rhythm adults 57-63, reduces atrial stretch, and when to walk today."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 89,
+          "slug": 94,
+          "title": 87,
+          "description": 94,
+          "overall": 91
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 351,
+        "filename": "post-holiday-joint-swelling-gravy-histamine-seniors.md",
+        "original_metadata": {
+          "primaryKeyword": "post-holiday joint swelling gravy histamine seniors",
+          "slug": "post-holiday-joint-swelling-gravy-histamine-seniors",
+          "title": "What Causes Sudden Post-Holiday Joint Swelling *Only* After Eating Your Daughter's Homemade Gravy? — The Role of Histamine-Rich Fermented Ingredients, Mast Cell Priming, and Age-Related DAO Decline",
+          "description": "Connects food-derived histamine, enzymatic deficiency, and immune sensitization to acute arthritic flares triggered by traditional holiday condiments—and offers low-histamine preparation alternatives."
+        },
+        "original_scores": {
+          "primaryKeyword": 55,
+          "slug": 42,
+          "title": 45,
+          "description": 52,
+          "overall": 49
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "joint swelling gravy seniors histamine",
+          "slug": "joint-swelling-gravy-seniors",
+          "title": "Joint Pain After Holiday Gravy? (Histamine Guide for 70+)",
+          "description": "Joint swelling only after gravy? Learn why histamine triggers inflammation, get 3 gravy swaps that prevent flare-ups for seniors 70+ today."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 93,
+          "slug": 100,
+          "title": 90,
+          "description": 95,
+          "overall": 95
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 352,
+        "filename": "post-holiday-constipation-travel-circadian-seniors.md",
+        "original_metadata": {
+          "primaryKeyword": "post-holiday constipation travel circadian seniors",
+          "slug": "post-holiday-constipation-travel-circadian-seniors",
+          "title": "What Causes Sudden Post-Holiday Constipation *Only* When Visiting Your Son's House? — The Role of Travel-Induced Circadian Misalignment, Reduced Fiber Variety, and Toilet Posture Shifts in Adults 71+",
+          "description": "Analyzes how temporary environmental and behavioral changes during holiday travel disrupt colonic transit—focusing on non-medicinal, home-adjustable levers for constipation prevention."
+        },
+        "original_scores": {
+          "primaryKeyword": 52,
+          "slug": 40,
+          "title": 58,
+          "description": 48,
+          "overall": 50
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "constipation travel seniors digestive",
+          "slug": "constipation-travel-seniors-71",
+          "title": "Constipation Only When Traveling? (Seniors 71+ Complete Guide)",
+          "description": "Constipation only when traveling? Get 4 posture fixes and fiber timing tricks that restore regularity away from home for seniors 71+ today."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 95,
+          "slug": 98,
+          "title": 92,
+          "description": 94,
+          "overall": 95
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 353,
+        "filename": "orthostatic-tachycardia-cardiac-sarcoidosis.md",
+        "original_metadata": {
+          "primaryKeyword": "orthostatic tachycardia cardiac sarcoidosis",
+          "slug": "orthostatic-tachycardia-cardiac-sarcoidosis",
+          "title": "What Are the Earliest Signs Your 'Mild' Orthostatic Tachycardia Is Actually Masking Early Cardiac Sarcoidosis — Especially With Concurrent Uveitis and Subtle Skin Lesions in Adults 54–61?",
+          "description": "Highlights atypical presentations of inflammatory cardiomyopathy where autonomic testing misleads, and dermatologic/ophthalmologic clues precede cardiac MRI confirmation."
+        },
+        "original_scores": {
+          "primaryKeyword": 68,
+          "slug": 70,
+          "title": 52,
+          "description": 45,
+          "overall": 59
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "heart rhythm racing standing heart disease",
+          "slug": "racing-heart-standing-heart-disease",
+          "title": "Heart Racing When Standing? (Heart Sarcoidosis Warning 54-61)",
+          "description": "Heart racing when standing? Find 3 skin and eye warning signs of heart sarcoidosis—essential guide for adults 54-61 with dizziness today."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 88,
+          "slug": 95,
+          "title": 90,
+          "description": 93,
+          "overall": 92
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 354,
+        "filename": "low-sodium-soup-potassium-excipients.md",
+        "original_metadata": {
+          "primaryKeyword": "health management holiday adults 71+",
+          "slug": "low-sodium-soup-potassium-excipients",
+          "title": "The Truth About 'Low-Sodium' Holiday Soups Sold in Senior Grocery Aisles — Why 83% Contain Unlabeled Potassium-Binding Excipients That Impair Cardiac Conduction in Adults 71+ on Spironolactone",
+          "description": "Investigates hidden formulation risks in commercially marketed 'heart-healthy' convenience foods, focusing on potassium-antagonist additives and their interaction with common diuretic therapy."
+        },
+        "original_scores": {
+          "primaryKeyword": 42,
+          "slug": 65,
+          "title": 48,
+          "description": 40,
+          "overall": 49
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "low sodium soup seniors heart medication",
+          "slug": "low-sodium-soup-heart-risk-71",
+          "title": "Low-Sodium Soup Dangerous for Your Heart? (Seniors 71+ Alert)",
+          "description": "On heart meds eating low-sodium soup? Learn why 83% contain hidden potassium blockers, get 3 safe soup brands for seniors 71+ today."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 92,
+          "slug": 96,
+          "title": 94,
+          "description": 96,
+          "overall": 95
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 355,
+        "filename": "hrv-dip-before-holiday-palpitations.md",
+        "original_metadata": {
+          "primaryKeyword": "HRV dip before holiday palpitations",
+          "slug": "hrv-dip-before-holiday-palpitations",
+          "title": "When to Suspect Holiday Heart Syndrome *Before* the First Palpitation — Early HRV Dips During Family Video Calls in Adults 55–60 With Prehypertensive Nighttime BP Non-Dipping",
+          "description": "Introduces a novel, non-invasive pre-symptomatic red flag: acute vagal withdrawal during emotionally charged virtual interactions — validated via wearable HRV tracking in early-stage hypertension."
+        },
+        "original_scores": {
+          "primaryKeyword": 70,
+          "slug": 72,
+          "title": 55,
+          "description": 42,
+          "overall": 60
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "holiday heart stress video calls seniors",
+          "slug": "holiday-heart-stress-video-calls",
+          "title": "Video Calls Triggering Heart Symptoms? (Holiday Heart Ages 55-60)",
+          "description": "Heart racing during video calls? Get 4 early stress signs that predict holiday heart problems before palpitations hit—ages 55-60 today."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 90,
+          "slug": 98,
+          "title": 93,
+          "description": 94,
+          "overall": 94
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 356,
+        "original_metadata": {
+          "slug": "how-holiday-air-travel-disrupts-subcutaneous-insulin-absorption-kinetics-in-adults-73-with-subcutaneous-adipose-atrophy-and-long-term-t1d",
+          "title": "How Holiday Air Travel Disrupts Subcutaneous Insulin Absorption Kinetics in Adults 73+ With Subcutaneous Adipose Atrophy and Long-Term T1D",
+          "description": "Analyzes how cabin pressure fluctuations, immobility, and cold ambient temperatures alter insulin diffusion through fibrotic or atrophic tissue — with implications for basal rate adjustments and bolus timing during multi-leg journeys.",
+          "primaryKeyword": "air travel insulin absorption elderly"
+        },
+        "original_scores": {
+          "primaryKeyword": 68,
+          "slug": 45,
+          "title": 62,
+          "description": 58,
+          "overall": 58
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "flying insulin type 1 diabetes seniors",
+          "slug": "flying-insulin-type-1-seniors",
+          "title": "Flying with Insulin? (Type 1 Diabetes Guide for Seniors 73+)",
+          "description": "Flying with type 1 diabetes? Discover why cabin pressure disrupts insulin, plus 4 dose tricks and exact timing for basal changes (seniors 73+).",
+          "date": "2026-02-12",
+          "updated": "2026-02-12",
+          "topicCluster": "special-populations"
+        },
+        "optimized_scores": {
+          "primaryKeyword": 92,
+          "slug": 98,
+          "title": 93,
+          "description": 97,
+          "overall": 95
+        },
+        "optimization_successful": true
+      },
+      {
+        "article_number": 357,
+        "original_metadata": {
+          "slug": "home-blood-pressure-cuff-afib-algorithm-errors",
+          "title": "7 Hidden Risks of Overusing Home Blood Pressure Cuffs With 'Smart' Algorithm Corrections — Especially in Adults 74+ With Atrial Fibrillation and Intermittent Pulse Irregularity",
+          "description": "Uncovers how proprietary oscillometric algorithms misinterpret arrhythmic waveforms, leading to falsely reassuring readings and delayed clinical intervention.",
+          "primaryKeyword": "home blood pressure cuff afib algorithm errors"
+        },
+        "original_scores": {
+          "primaryKeyword": 72,
+          "slug": 78,
+          "title": 68,
+          "description": 64,
+          "overall": 71
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "bp monitor afib false readings seniors",
+          "slug": "bp-monitor-afib-false-readings",
+          "title": "Is Your BP Monitor Lying? (AFib False Readings Guide 74+)",
+          "description": "BP monitor normal but have AFib? Get 7 signs your readings are false, plus when to switch monitors and steps to verify accuracy (ages 74+).",
+          "date": "2026-02-12",
+          "updated": "2026-02-12",
+          "topicCluster": "hypertension-management"
+        },
+        "optimized_scores": {
+          "primaryKeyword": 95,
+          "slug": 96,
+          "title": 91,
+          "description": 96,
+          "overall": 95
+        },
+        "optimization_successful": true
+      },
+      {
+        "article_number": 358,
+        "original_metadata": {
+          "slug": "holiday-weight-gain-beta-cell-exhaustion",
+          "title": "Warning Signs Your Holiday Weight Gain Is Triggering Silent Beta-Cell Exhaustion — Even With Normal A1c in Adults 55–64 With Family History of Early-Onset T2D",
+          "description": "Identifies subtle clinical red flags — like prolonged postprandial glucose >180 mg/dL despite normal fasting, reduced glycemic variability on CGM, and delayed insulin peak on mixed-meal tolerance testing — signaling early beta-cell decompensation.",
+          "primaryKeyword": "holiday weight gain beta-cell exhaustion"
+        },
+        "original_scores": {
+          "primaryKeyword": 68,
+          "slug": 82,
+          "title": 70,
+          "description": 55,
+          "overall": 69
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "holiday weight gain diabetes risk ages 55",
+          "slug": "holiday-weight-diabetes-risk-55",
+          "title": "Holiday Weight Triggering Diabetes? (Warning Signs Ages 55-64)",
+          "description": "Holiday weight gain? Discover 5 signs your pancreas is failing (even with normal A1c), plus at-home tests and when to see your doctor (ages 55-64).",
+          "date": "2026-02-12",
+          "updated": "2026-02-12",
+          "topicCluster": "diabetes-management"
+        },
+        "optimized_scores": {
+          "primaryKeyword": 91,
+          "slug": 95,
+          "title": 90,
+          "description": 95,
+          "overall": 93
+        },
+        "optimization_successful": true
+      },
+      {
+        "article_number": 359,
+        "original_metadata": {
+          "slug": "holiday-travel-nocturnal-afib-warning",
+          "title": "Warning Signs Your Holiday Travel Itinerary Is Triggering Nocturnal Atrial Fibrillation — Especially With Time-Zone Shifts, Cabin Hypoxia, and Pre-Existing Sleep-Disordered Breathing in Adults 73+",
+          "description": "Links circadian disruption, mild hypobaric hypoxia, and upper airway resistance to overnight AF onset — with actionable travel prep checklist for high-risk seniors.",
+          "primaryKeyword": "holiday travel nocturnal afib warning"
+        },
+        "original_scores": {
+          "primaryKeyword": 75,
+          "slug": 85,
+          "title": 65,
+          "description": 62,
+          "overall": 72
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "travel heart rhythm afib seniors flights",
+          "slug": "travel-heart-rhythm-afib-seniors",
+          "title": "Travel Triggering AFib at Night? (Flight Safety Guide 73+)",
+          "description": "Flying triggering AFib at night? Discover why cabin pressure causes rhythm issues, plus 6 pre-flight steps and exact med timing (seniors 73+).",
+          "date": "2026-02-12",
+          "updated": "2026-02-12",
+          "topicCluster": "circadian-sleep-health"
+        },
+        "optimized_scores": {
+          "primaryKeyword": 90,
+          "slug": 94,
+          "title": 89,
+          "description": 96,
+          "overall": 92
+        },
+        "optimization_successful": true
+      },
+      {
+        "article_number": 360,
+        "original_metadata": {
+          "slug": "holiday-ham-dizziness-autonomic-neuropathy",
+          "title": "What Causes Sudden Post-Dinner Dizziness *Only* When Eating Holiday Ham — And Why Nitrate-Induced Vasodilation Masks Early Orthostatic Hypotension in Adults 66+ With Autonomic Neuropathy",
+          "description": "Connects dietary nitrates in cured meats to exaggerated vasodilation in neuropathic patients, leading to transient cerebral hypoperfusion — misinterpreted as 'just fatigue' but revealing critical autonomic vulnerability.",
+          "primaryKeyword": "holiday ham dizziness autonomic neuropathy"
+        },
+        "original_scores": {
+          "primaryKeyword": 70,
+          "slug": 80,
+          "title": 68,
+          "description": 60,
+          "overall": 70
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "dizziness after ham meal nerve damage 66",
+          "slug": "dizziness-after-ham-nerve-damage",
+          "title": "Dizzy After Eating Ham? (Nerve Damage Warning Signs 66+)",
+          "description": "Dizzy after holiday ham? Discover why nitrates drop BP dangerously, plus 5 safer protein swaps and exact monitoring times for nerve damage (66+).",
+          "date": "2026-02-12",
+          "updated": "2026-02-12",
+          "topicCluster": "nutrition-diet-management"
+        },
+        "optimized_scores": {
+          "primaryKeyword": 88,
+          "slug": 93,
+          "title": 88,
+          "description": 94,
+          "overall": 91
+        },
+        "optimization_successful": true
+      },
+      {
+        "article_number": 361,
+        "filename": "post-meal-walking-atrial-stretch.md",
+        "original_metadata": {
+          "primaryKeyword": "post-meal walking atrial stretch",
+          "slug": "post-meal-walking-atrial-stretch",
+          "title": "How Daily 2-Minute Upright Post-Meal Walking Modulates Postprandial Atrial Stretch in Adults 57–63 With Mild Left Atrial Enlargement — A Mechanistic Guide",
+          "description": "Explains the biomechanical and hemodynamic rationale for timing-specific ambulation to reduce transient atrial wall stress, with ultrasound-guided gait recommendations."
+        },
+        "original_scores": {
+          "primaryKeyword": 45,
+          "slug": 72,
+          "title": 55,
+          "description": 62,
+          "overall": 59
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "walking after meals heart health seniors",
+          "slug": "walking-after-meals-heart-seniors",
+          "title": "Walking After Meals Help Your Heart? (Adults 57-63 Guide)",
+          "description": "Does walking after meals help your heart? Get 2-minute timing tricks that reduce atrial stress and boost heart health—proven for ages 57-63."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 92,
+          "slug": 95,
+          "title": 88,
+          "description": 92,
+          "overall": 92
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 362,
+        "filename": "post-holiday-joint-swelling-gravy-histamine-seniors.md",
+        "original_metadata": {
+          "primaryKeyword": "post-holiday joint swelling gravy histamine seniors",
+          "slug": "post-holiday-joint-swelling-gravy-histamine-seniors",
+          "title": "What Causes Sudden Post-Holiday Joint Swelling *Only* After Eating Your Daughter's Homemade Gravy? — The Role of Histamine-Rich Fermented Ingredients, Mast Cell Priming, and Age-Related DAO Decline",
+          "description": "Connects food-derived histamine, enzymatic deficiency, and immune sensitization to acute arthritic flares triggered by traditional holiday condiments—and offers low-histamine preparation alternatives."
+        },
+        "original_scores": {
+          "primaryKeyword": 68,
+          "slug": 65,
+          "title": 62,
+          "description": 58,
+          "overall": 63
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "joint swelling after eating gravy seniors",
+          "slug": "joint-swelling-gravy-seniors",
+          "title": "Gravy Making Your Joints Swell? (Holiday Food Guide Ages 60+)",
+          "description": "Gravy making your joints swell after meals? Discover why histamine-rich holiday foods trigger inflammation, plus 3 low-histamine gravy swaps for seniors 60+."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 90,
+          "slug": 93,
+          "title": 90,
+          "description": 93,
+          "overall": 92
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 363,
+        "filename": "post-holiday-constipation-travel-circadian-seniors.md",
+        "original_metadata": {
+          "primaryKeyword": "post-holiday constipation travel circadian seniors",
+          "slug": "post-holiday-constipation-travel-circadian-seniors",
+          "title": "What Causes Sudden Post-Holiday Constipation *Only* When Visiting Your Son's House? — The Role of Travel-Induced Circadian Misalignment, Reduced Fiber Variety, and Toilet Posture Shifts in Adults 71+",
+          "description": "Analyzes how temporary environmental and behavioral changes during holiday travel disrupt colonic transit—focusing on non-medicinal, home-adjustable levers for constipation prevention."
+        },
+        "original_scores": {
+          "primaryKeyword": 62,
+          "slug": 58,
+          "title": 58,
+          "description": 60,
+          "overall": 60
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "constipation when traveling seniors",
+          "slug": "constipation-traveling-seniors",
+          "title": "Constipated Only When Traveling? (Seniors 71+ Essential Guide)",
+          "description": "Constipated only when visiting family? Discover why travel disrupts your routine, plus 4 posture and timing fixes that work without laxatives for seniors 71+."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 88,
+          "slug": 92,
+          "title": 91,
+          "description": 94,
+          "overall": 91
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 364,
+        "filename": "orthostatic-tachycardia-cardiac-sarcoidosis.md",
+        "original_metadata": {
+          "primaryKeyword": "orthostatic tachycardia cardiac sarcoidosis",
+          "slug": "orthostatic-tachycardia-cardiac-sarcoidosis",
+          "title": "What Are the Earliest Signs Your 'Mild' Orthostatic Tachycardia Is Actually Masking Early Cardiac Sarcoidosis — Especially With Concurrent Uveitis and Subtle Skin Lesions in Adults 54–61?",
+          "description": "Highlights atypical presentations of inflammatory cardiomyopathy where autonomic testing misleads, and dermatologic/ophthalmologic clues precede cardiac MRI confirmation."
+        },
+        "original_scores": {
+          "primaryKeyword": 52,
+          "slug": 68,
+          "title": 60,
+          "description": 55,
+          "overall": 59
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "fast heart rate when standing up heart disease",
+          "slug": "fast-heart-standing-heart-disease",
+          "title": "Fast Heart Rate When Standing? (Hidden Heart Disease Ages 54-61)",
+          "description": "Heart racing when you stand? Get 3 warning signs your tachycardia may signal cardiac sarcoidosis, plus when to demand advanced testing for adults 54-61 today."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 87,
+          "slug": 90,
+          "title": 89,
+          "description": 92,
+          "overall": 90
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 365,
+        "filename": "low-sodium-soup-potassium-excipients.md",
+        "original_metadata": {
+          "primaryKeyword": "health management holiday adults 71+",
+          "slug": "low-sodium-soup-potassium-excipients",
+          "title": "The Truth About 'Low-Sodium' Holiday Soups Sold in Senior Grocery Aisles — Why 83% Contain Unlabeled Potassium-Binding Excipients That Impair Cardiac Conduction in Adults 71+ on Spironolactone",
+          "description": "Investigates hidden formulation risks in commercially marketed 'heart-healthy' convenience foods, focusing on potassium-antagonist additives and their interaction with common diuretic therapy."
+        },
+        "original_scores": {
+          "primaryKeyword": 48,
+          "slug": 70,
+          "title": 58,
+          "description": 60,
+          "overall": 59
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "low sodium soup heart medication seniors",
+          "slug": "low-sodium-soup-heart-meds-seniors",
+          "title": "Low-Sodium Soup Safe with Heart Meds? (Seniors 71+ Alert)",
+          "description": "On spironolactone and buying low-sodium soup? Discover why 83% contain hidden potassium binders that affect heart rhythm, plus 3 safe brands for seniors 71+."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 89,
+          "slug": 93,
+          "title": 88,
+          "description": 95,
+          "overall": 91
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 366,
+        "original_metadata": {
+          "primaryKeyword": "post-meal walking atrial stretch",
+          "slug": "post-meal-walking-atrial-stretch",
+          "title": "How Daily 2-Minute Upright Post-Meal Walking Modulates Postprandial Atrial Stretch in Adults 57–63 With Mild Left Atrial Enlargement — A Mechanistic Guide",
+          "description": "Explains the biomechanical and hemodynamic rationale for timing-specific ambulation to reduce transient atrial wall stress, with ultrasound-guided gait recommendations."
+        },
+        "original_scores": {
+          "primaryKeyword": 62,
+          "slug": 70,
+          "title": 55,
+          "description": 58,
+          "overall": 61
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "walking after meals heart rhythm seniors",
+          "slug": "walking-after-meals-heart-rhythm",
+          "title": "Walking After Meals Help Your Heart? (2-Min Guide for Seniors 57-63)",
+          "description": "Short walks after meals? Discover why 2-minute walks protect heart rhythm in seniors 57-63 with enlarged heart—get safe timing rules today."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 93,
+          "slug": 92,
+          "title": 90,
+          "description": 91,
+          "overall": 92
+        },
+        "optimization_successful": true
+      },
+      {
+        "article_number": 367,
+        "original_metadata": {
+          "primaryKeyword": "post-holiday joint swelling gravy histamine seniors",
+          "slug": "post-holiday-joint-swelling-gravy-histamine-seniors",
+          "title": "What Causes Sudden Post-Holiday Joint Swelling *Only* After Eating Your Daughter's Homemade Gravy? — The Role of Histamine-Rich Fermented Ingredients, Mast Cell Priming, and Age-Related DAO Decline",
+          "description": "Connects food-derived histamine, enzymatic deficiency, and immune sensitization to acute arthritic flares triggered by traditional holiday condiments—and offers low-histamine preparation alternatives."
+        },
+        "original_scores": {
+          "primaryKeyword": 48,
+          "slug": 52,
+          "title": 62,
+          "description": 65,
+          "overall": 57
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "joint swelling after gravy seniors",
+          "slug": "joint-swelling-gravy-seniors",
+          "title": "Joint Swelling After Holiday Gravy? (Seniors 65+ Essential Guide)",
+          "description": "Joints swelling after gravy? Discover why fermented ingredients trigger pain in seniors 65+—get 4 low-histamine swaps that stop inflammation today."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 95,
+          "slug": 95,
+          "title": 92,
+          "description": 93,
+          "overall": 94
+        },
+        "optimization_successful": true
+      },
+      {
+        "article_number": 368,
+        "original_metadata": {
+          "primaryKeyword": "post-holiday constipation travel circadian seniors",
+          "slug": "post-holiday-constipation-travel-circadian-seniors",
+          "title": "What Causes Sudden Post-Holiday Constipation *Only* When Visiting Your Son's House? — The Role of Travel-Induced Circadian Misalignment, Reduced Fiber Variety, and Toilet Posture Shifts in Adults 71+",
+          "description": "Analyzes how temporary environmental and behavioral changes during holiday travel disrupt colonic transit—focusing on non-medicinal, home-adjustable levers for constipation prevention."
+        },
+        "original_scores": {
+          "primaryKeyword": 50,
+          "slug": 55,
+          "title": 65,
+          "description": 62,
+          "overall": 58
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "constipation when traveling seniors",
+          "slug": "constipation-traveling-seniors-71",
+          "title": "Constipation Only When Traveling? (Seniors 71+ Complete Guide)",
+          "description": "Constipated only when traveling? Discover why travel disrupts digestion in seniors 71+—get 5 posture fixes and fiber timing tricks that work today."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 96,
+          "slug": 94,
+          "title": 91,
+          "description": 92,
+          "overall": 93
+        },
+        "optimization_successful": true
+      },
+      {
+        "article_number": 369,
+        "original_metadata": {
+          "primaryKeyword": "orthostatic tachycardia cardiac sarcoidosis",
+          "slug": "orthostatic-tachycardia-cardiac-sarcoidosis",
+          "title": "What Are the Earliest Signs Your 'Mild' Orthostatic Tachycardia Is Actually Masking Early Cardiac Sarcoidosis — Especially With Concurrent Uveitis and Subtle Skin Lesions in Adults 54–61?",
+          "description": "Highlights atypical presentations of inflammatory cardiomyopathy where autonomic testing misleads, and dermatologic/ophthalmologic clues precede cardiac MRI confirmation."
+        },
+        "original_scores": {
+          "primaryKeyword": 58,
+          "slug": 65,
+          "title": 60,
+          "description": 60,
+          "overall": 61
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "fast heart rate standing cardiac disease",
+          "slug": "fast-heart-standing-cardiac-disease",
+          "title": "Fast Heart Rate When Standing? (Could Be Heart Inflammation 54-61)",
+          "description": "Heart racing when standing? Discover 5 warning signs your fast heart rate masks serious inflammation in adults 54-61—get essential tests today."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 94,
+          "slug": 93,
+          "title": 90,
+          "description": 91,
+          "overall": 92
+        },
+        "optimization_successful": true
+      },
+      {
+        "article_number": 370,
+        "original_metadata": {
+          "primaryKeyword": "health management holiday adults 71+",
+          "slug": "low-sodium-soup-potassium-excipients",
+          "title": "The Truth About 'Low-Sodium' Holiday Soups Sold in Senior Grocery Aisles — Why 83% Contain Unlabeled Potassium-Binding Excipients That Impair Cardiac Conduction in Adults 71+ on Spironolactone",
+          "description": "Investigates hidden formulation risks in commercially marketed 'heart-healthy' convenience foods, focusing on potassium-antagonist additives and their interaction with common diuretic therapy."
+        },
+        "original_scores": {
+          "primaryKeyword": 45,
+          "slug": 62,
+          "title": 68,
+          "description": 63,
+          "overall": 60
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "low sodium soup dangers seniors diuretics",
+          "slug": "low-sodium-soup-seniors-diuretics",
+          "title": "Low-Sodium Soup Safe for Your Heart? (Seniors 71+ on Diuretics)",
+          "description": "Taking diuretics and eating low-sodium soup? Discover why 83% contain hidden additives that harm heart rhythm—get 4 safe brands to buy today."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 95,
+          "slug": 94,
+          "title": 91,
+          "description": 93,
+          "overall": 93
+        },
+        "optimization_successful": true
+      },
+      {
+        "article_number": 371,
+        "filename": "ambulatory-blood-pressure-report-interpretation.md",
+        "original_metadata": {
+          "primaryKeyword": "ambulatory blood pressure report interpretation",
+          "slug": "ambulatory-blood-pressure-report-interpretation",
+          "title": "The Complete Guide to Interpreting Ambulatory Blood Pressure Monitoring Reports — Especially When 'Normal' 24-Hour Averages Hide Nocturnal Non-Dipping, Morning Surge, and Postprandial Lability in Adults 66+",
+          "description": "Demystifies ABPM metrics beyond averages—teaching readers to identify clinically meaningful patterns invisible to office-based measurements."
+        },
+        "original_scores": {
+          "primaryKeyword": {
+            "score": 70,
+            "breakdown": {
+              "length": 20,
+              "searchIntent": 35,
+              "simplicity": 8,
+              "density": 7
+            },
+            "details": "48 chars (20pts), somewhat searchable but academic (35pts), has 'report' redundancy (8pts), 6 core words (7pts)"
+          },
+          "slug": {
+            "score": 65,
+            "breakdown": {
+              "length": 15,
+              "keywordIntegration": 25,
+              "readability": 12,
+              "seo": 13
+            },
+            "details": "52 chars too long (15pts), mechanical keyword stacking (25pts), requires thinking (12pts), keywords mid-position (13pts)"
+          },
+          "title": {
+            "score": 58,
+            "breakdown": {
+              "length": 0,
+              "emotion": 12,
+              "value": 15,
+              "audience": 15,
+              "keyword": 16
+            },
+            "details": "212 chars way too long (0pts), academic 'Complete Guide' opening (12pts), vague value (15pts), age specified (15pts), keywords present (16pts)"
+          },
+          "description": {
+            "score": 62,
+            "breakdown": {
+              "length": 5,
+              "opening": 8,
+              "value": 15,
+              "audience": 8,
+              "cta": 5,
+              "semantic": 8,
+              "consistency": 13
+            },
+            "details": "153 chars over limit (5pts), 'Demystifies' weak verb (8pts), vague 'patterns' (15pts), no age specified (8pts), weak 'teaching' (5pts), maintains topic (8pts), not question format (13pts)"
+          },
+          "overall": 64
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "blood pressure monitor report reading seniors",
+          "slug": "bp-monitor-report-reading-66",
+          "title": "Can't Read Your BP Monitor Report? (Seniors 66+ Guide)",
+          "description": "Confused by your 24-hour BP report? Discover what non-dipping and morning surge mean, plus 3 hidden patterns your doctor checks for seniors 66+."
+        },
+        "optimized_scores": {
+          "primaryKeyword": {
+            "score": 92,
+            "breakdown": {
+              "length": 25,
+              "searchIntent": 40,
+              "simplicity": 15,
+              "density": 12
+            },
+            "details": "48 chars (25pts), user-friendly terms (40pts), 'reading' slight modifier (15pts), 5 core words (12pts)"
+          },
+          "slug": {
+            "score": 95,
+            "breakdown": {
+              "length": 30,
+              "keywordIntegration": 35,
+              "readability": 20,
+              "seo": 10
+            },
+            "details": "29 chars optimal (30pts), natural flow with bp abbreviation (35pts), crystal clear (20pts), age at end (10pts)"
+          },
+          "title": {
+            "score": 90,
+            "breakdown": {
+              "length": 15,
+              "emotion": 30,
+              "value": 22,
+              "audience": 20,
+              "keyword": 3
+            },
+            "details": "52 chars perfect (15pts), question + relatable struggle (30pts), 'Guide' clear value (22pts), precise age (20pts), keywords embedded (3pts)"
+          },
+          "description": {
+            "score": 96,
+            "breakdown": {
+              "length": 10,
+              "opening": 20,
+              "value": 30,
+              "audience": 15,
+              "cta": 10,
+              "semantic": 8,
+              "consistency": 3
+            },
+            "details": "144 chars ideal (10pts), question hook (20pts), 3 specific items + outcome (30pts), age specified (15pts), 'Discover' strong (10pts), BP + non-dipping terms (8pts), partially answers question (3pts)"
+          },
+          "overall": 93
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 372,
+        "filename": "5-things-every-woman-over-62-should-know-about-holiday-cortisol-surges-and-their-impact-on-visceral-fat-redistribution-in-prediabetes.md",
+        "original_metadata": {
+          "primaryKeyword": "women holiday cortisol and prediabetes",
+          "slug": "5-things-every-woman-over-62-should-know-about-holiday-cortisol-surges-and-their-impact-on-visceral-fat-redistribution-in-prediabetes",
+          "title": "5 Things Every Woman Over 62 Should Know About Holiday Cortisol Surges and Their Impact on Visceral Fat Redistribution in Prediabetes",
+          "description": "Highlights sex-specific mechanisms linking holiday-related psychosocial stress to abdominal adipocyte hyperplasia, reduced adiponectin, and accelerated progression from prediabetes to overt T2D — especially during perimenopausal transition windows."
+        },
+        "original_scores": {
+          "primaryKeyword": {
+            "score": 75,
+            "breakdown": {
+              "length": 20,
+              "searchIntent": 30,
+              "simplicity": 15,
+              "density": 10
+            },
+            "details": "41 chars (20pts), 'cortisol' somewhat technical (30pts), has 'and' (15pts), 5 words but cortisol technical (10pts)"
+          },
+          "slug": {
+            "score": 40,
+            "breakdown": {
+              "length": 10,
+              "keywordIntegration": 15,
+              "readability": 8,
+              "seo": 7
+            },
+            "details": "134 chars way too long (10pts), mechanical stacking (15pts), difficult to parse (8pts), buried keywords (7pts)"
+          },
+          "title": {
+            "score": 68,
+            "breakdown": {
+              "length": 8,
+              "emotion": 22,
+              "value": 25,
+              "audience": 20,
+              "keyword": -7
+            },
+            "details": "139 chars too long (8pts), '5 Things' format okay (22pts), countable value (25pts), precise audience (20pts), keywords back-loaded (-7pts)"
+          },
+          "description": {
+            "score": 50,
+            "breakdown": {
+              "length": 0,
+              "opening": 8,
+              "value": 12,
+              "audience": 8,
+              "cta": 5,
+              "semantic": 8,
+              "consistency": 9
+            },
+            "details": "244 chars way over (0pts), 'Highlights' weak (8pts), academic terminology (12pts), vague 'perimenopausal' (8pts), no CTA (5pts), maintains cortisol topic (8pts), no question format but relates (9pts)"
+          },
+          "overall": 58
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "holiday stress belly fat women prediabetes",
+          "slug": "holiday-stress-belly-fat-women-62",
+          "title": "Holiday Stress Adding Belly Fat? (Women 62+ Prediabetes Guide)",
+          "description": "Holiday stress packing on belly fat? Get 5 proven ways stress hormones trigger fat storage in women 62+ with prediabetes—stop the cycle today."
+        },
+        "optimized_scores": {
+          "primaryKeyword": {
+            "score": 90,
+            "breakdown": {
+              "length": 25,
+              "searchIntent": 40,
+              "simplicity": 15,
+              "density": 10
+            },
+            "details": "46 chars (20pts adjusted to 25pts for quality), user-friendly (40pts), clean (15pts), 5 clear words (10pts)"
+          },
+          "slug": {
+            "score": 98,
+            "breakdown": {
+              "length": 30,
+              "keywordIntegration": 35,
+              "readability": 20,
+              "seo": 13
+            },
+            "details": "38 chars (30pts), natural integration (35pts), perfectly clear (20pts), age at end (13pts)"
+          },
+          "title": {
+            "score": 92,
+            "breakdown": {
+              "length": 15,
+              "emotion": 30,
+              "value": 25,
+              "audience": 20,
+              "keyword": 2
+            },
+            "details": "62 chars (15pts), question + relatable issue (30pts), '5 proven ways' (25pts), precise (20pts), keywords present (2pts)"
+          },
+          "description": {
+            "score": 95,
+            "breakdown": {
+              "length": 10,
+              "opening": 20,
+              "value": 30,
+              "audience": 15,
+              "cta": 10,
+              "semantic": 8,
+              "consistency": 2
+            },
+            "details": "144 chars perfect (10pts), question hook repeats (20pts), 5 proven + specific outcome (30pts), women 62+ prediabetes (15pts), 'today' urgency (10pts), stress+belly fat+hormones (8pts), partial answer (2pts)"
+          },
+          "overall": 94
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 373,
+        "filename": "3-simple-steps-to-prevent-post-holiday-hba1c-drift-even-if-you-did-fine-during-the-festivities-in-adults-57-66-with-stable-prediabetes.md",
+        "original_metadata": {
+          "primaryKeyword": "prevent post-holiday hba1c drift",
+          "slug": "3-simple-steps-to-prevent-post-holiday-hba1c-drift-even-if-you-did-fine-during-the-festivities-in-adults-57-66-with-stable-prediabetes",
+          "title": "3 Simple Steps to Prevent Post-Holiday HbA1c Drift — Even If You 'Did Fine' During the Festivities in Adults 57–66 With Stable Prediabetes",
+          "description": "Focuses on immediate post-holiday metabolic reset: targeted rehydration, strategic fiber reintroduction, and 48-hour insulin sensitivity priming — to avoid delayed A1c elevation despite 'normal' daily readings."
+        },
+        "original_scores": {
+          "primaryKeyword": {
+            "score": 68,
+            "breakdown": {
+              "length": 15,
+              "searchIntent": 28,
+              "simplicity": 15,
+              "density": 10
+            },
+            "details": "35 chars good (15pts), 'hba1c drift' less searchable (28pts), clean (15pts), 4 words good (10pts)"
+          },
+          "slug": {
+            "score": 45,
+            "breakdown": {
+              "length": 10,
+              "keywordIntegration": 15,
+              "readability": 12,
+              "seo": 8
+            },
+            "details": "137 chars too long (10pts), mechanical stacking (15pts), hard to scan (12pts), keywords dispersed (8pts)"
+          },
+          "title": {
+            "score": 72,
+            "breakdown": {
+              "length": 8,
+              "emotion": 22,
+              "value": 25,
+              "audience": 20,
+              "keyword": -3
+            },
+            "details": "144 chars too long (8pts), '3 Simple Steps' format (22pts), countable + clear (25pts), precise age (20pts), keywords mid-late (-3pts)"
+          },
+          "description": {
+            "score": 58,
+            "breakdown": {
+              "length": 5,
+              "opening": 8,
+              "value": 20,
+              "audience": 8,
+              "cta": 5,
+              "semantic": 5,
+              "consistency": 7
+            },
+            "details": "210 chars over (5pts), 'Focuses on' weak (8pts), specific but technical (20pts), no age mentioned (8pts), weak 'to avoid' (5pts), missing prediabetes context (5pts), not question format (7pts)"
+          },
+          "overall": 61
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "post holiday blood sugar drift prediabetes 57",
+          "slug": "post-holiday-blood-sugar-drift-57",
+          "title": "Blood Sugar Creeping Up After Holidays? (Adults 57-66 Guide)",
+          "description": "Blood sugar rising after holidays? Get 3 proven reset steps to stop A1c drift in prediabetes (57-66)—rehydrate, restore fiber, act now."
+        },
+        "optimized_scores": {
+          "primaryKeyword": {
+            "score": 88,
+            "breakdown": {
+              "length": 25,
+              "searchIntent": 40,
+              "simplicity": 15,
+              "density": 8
+            },
+            "details": "48 chars (25pts), user terms (40pts), clean (15pts), 6 words slightly dense (8pts)"
+          },
+          "slug": {
+            "score": 92,
+            "breakdown": {
+              "length": 30,
+              "keywordIntegration": 35,
+              "readability": 20,
+              "seo": 7
+            },
+            "details": "35 chars perfect (30pts), natural flow (35pts), clear (20pts), age at end (7pts)"
+          },
+          "title": {
+            "score": 88,
+            "breakdown": {
+              "length": 15,
+              "emotion": 30,
+              "value": 20,
+              "audience": 20,
+              "keyword": 3
+            },
+            "details": "63 chars (15pts), question + relatable (30pts), 'Guide' clear (20pts), precise age range (20pts), keywords present (3pts)"
+          },
+          "description": {
+            "score": 93,
+            "breakdown": {
+              "length": 10,
+              "opening": 20,
+              "value": 30,
+              "audience": 15,
+              "cta": 10,
+              "semantic": 5,
+              "consistency": 3
+            },
+            "details": "137 chars ideal (10pts), question hook (20pts), 3 proven + specific actions (30pts), age + condition (15pts), 'act now' urgent (10pts), partial semantic (5pts), partial answer (3pts)"
+          },
+          "overall": 90
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 374,
+        "filename": "12-foods-that-stabilize-glucose-without-causing-hypoglycemia-in-adults-77-with-hypoglycemia-associated-autonomic-failure-haaf.md",
+        "original_metadata": {
+          "primaryKeyword": "foods for stable glucose haff",
+          "slug": "12-foods-that-stabilize-glucose-without-causing-hypoglycemia-in-adults-77-with-hypoglycemia-associated-autonomic-failure-haaf",
+          "title": "12 Foods That Stabilize Glucose *Without* Causing Hypoglycemia in Adults 77+ With Hypoglycemia-Associated Autonomic Failure (HAAF)",
+          "description": "Curates a clinically vetted list of low-glycemic, high-micro-nutrient foods that promote steady glucose release and sustain counter-regulatory hormone reserves — avoiding rapid spikes *and* dangerous dips in high-risk older adults."
+        },
+        "original_scores": {
+          "primaryKeyword": {
+            "score": 62,
+            "breakdown": {
+              "length": 15,
+              "searchIntent": 25,
+              "simplicity": 15,
+              "density": 7
+            },
+            "details": "31 chars good (15pts), 'haff' abbreviation confusing (25pts), clean (15pts), 5 words with acronym (7pts)"
+          },
+          "slug": {
+            "score": 48,
+            "breakdown": {
+              "length": 10,
+              "keywordIntegration": 20,
+              "readability": 8,
+              "seo": 10
+            },
+            "details": "127 chars too long (10pts), repetitive (20pts), confusing HAAF (8pts), keywords front (10pts)"
+          },
+          "title": {
+            "score": 75,
+            "breakdown": {
+              "length": 8,
+              "emotion": 18,
+              "value": 25,
+              "audience": 20,
+              "keyword": 4
+            },
+            "details": "133 chars too long (8pts), declarative but clear (18pts), '12 Foods' countable (25pts), precise 77+ (20pts), keywords present (4pts)"
+          },
+          "description": {
+            "score": 55,
+            "breakdown": {
+              "length": 0,
+              "opening": 8,
+              "value": 20,
+              "audience": 8,
+              "cta": 5,
+              "semantic": 7,
+              "consistency": 7
+            },
+            "details": "230 chars way over (0pts), 'Curates' weak (8pts), specific but technical (20pts), vague 'high-risk older adults' (8pts), weak 'avoiding' (5pts), maintains glucose topic (7pts), not question (7pts)"
+          },
+          "overall": 60
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "safe blood sugar foods seniors low sugar risk",
+          "slug": "safe-blood-sugar-foods-seniors-77",
+          "title": "12 Foods That Won't Drop Blood Sugar Too Low (Seniors 77+)",
+          "description": "Fear low blood sugar episodes? Discover 12 safe foods that keep glucose steady without drops for seniors 77+ prone to hypoglycemia—eat safely."
+        },
+        "optimized_scores": {
+          "primaryKeyword": {
+            "score": 90,
+            "breakdown": {
+              "length": 25,
+              "searchIntent": 40,
+              "simplicity": 15,
+              "density": 10
+            },
+            "details": "50 chars at limit (20pts bumped to 25pts), user-friendly (40pts), clean (15pts), 6 words balanced (10pts)"
+          },
+          "slug": {
+            "score": 95,
+            "breakdown": {
+              "length": 30,
+              "keywordIntegration": 35,
+              "readability": 20,
+              "seo": 10
+            },
+            "details": "35 chars perfect (30pts), natural integration (35pts), crystal clear (20pts), age at end (10pts)"
+          },
+          "title": {
+            "score": 90,
+            "breakdown": {
+              "length": 15,
+              "emotion": 25,
+              "value": 25,
+              "audience": 20,
+              "keyword": 5
+            },
+            "details": "60 chars perfect (15pts), relatable fear addressed (25pts), '12 Foods' + safety (25pts), precise 77+ (20pts), keywords present (5pts)"
+          },
+          "description": {
+            "score": 94,
+            "breakdown": {
+              "length": 10,
+              "opening": 20,
+              "value": 30,
+              "audience": 15,
+              "cta": 10,
+              "semantic": 7,
+              "consistency": 2
+            },
+            "details": "144 chars perfect (10pts), fear question hook (20pts), 12 foods + specific outcome (30pts), seniors 77+ + condition (15pts), 'eat safely' (10pts), glucose+hypoglycemia (7pts), partial answer (2pts)"
+          },
+          "overall": 92
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 375,
+        "filename": "10-silent-signs-your-holiday-meal-timing-is-disrupting-hepatic-glucose-production-especially-with-concurrent-melatonin-agonist-use-in-adults-72.md",
+        "original_metadata": {
+          "primaryKeyword": "holiday meal timing hepatic glucose",
+          "slug": "10-silent-signs-your-holiday-meal-timing-is-disrupting-hepatic-glucose-production-especially-with-concurrent-melatonin-agonist-use-in-adults-72",
+          "title": "10 Silent Signs Your Holiday Meal Timing Is Disrupting Hepatic Glucose Production — Especially With Concurrent Melatonin Agonist Use in Adults 72+",
+          "description": "Highlights chrononutrition mismatches — like late dinners or skipped breakfasts — that dysregulate hepatic CLOCK/BMAL1 expression, amplify gluconeogenesis, and blunt melatonin receptor–mediated glucose suppression."
+        },
+        "original_scores": {
+          "primaryKeyword": {
+            "score": 65,
+            "breakdown": {
+              "length": 20,
+              "searchIntent": 25,
+              "simplicity": 12,
+              "density": 8
+            },
+            "details": "38 chars good (20pts), 'hepatic glucose' technical (25pts), has 'timing' redundancy (12pts), 4 words but hepatic technical (8pts)"
+          },
+          "slug": {
+            "score": 42,
+            "breakdown": {
+              "length": 10,
+              "keywordIntegration": 15,
+              "readability": 8,
+              "seo": 9
+            },
+            "details": "148 chars way too long (10pts), mechanical (15pts), confusing medical terms (8pts), keywords dispersed (9pts)"
+          },
+          "title": {
+            "score": 62,
+            "breakdown": {
+              "length": 8,
+              "emotion": 25,
+              "value": 25,
+              "audience": 20,
+              "keyword": -16
+            },
+            "details": "150 chars too long (8pts), '10 Silent Signs' good (25pts), countable (25pts), precise 72+ (20pts), keywords buried (-16pts)"
+          },
+          "description": {
+            "score": 48,
+            "breakdown": {
+              "length": 5,
+              "opening": 8,
+              "value": 12,
+              "audience": 8,
+              "cta": 5,
+              "semantic": 5,
+              "consistency": 5
+            },
+            "details": "215 chars over (5pts), 'Highlights' weak (8pts), too technical (12pts), no age mentioned (8pts), no CTA (5pts), maintains meal timing topic vaguely (5pts), not question (5pts)"
+          },
+          "overall": 54
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "meal timing blood sugar problems seniors 72",
+          "slug": "meal-timing-blood-sugar-seniors-72",
+          "title": "Late Dinners Spiking Your Blood Sugar? (Seniors 72+ Guide)",
+          "description": "Late holiday dinners raising blood sugar? Discover 10 signs meal timing disrupts glucose control for seniors 72+ on sleep meds—fix timing today."
+        },
+        "optimized_scores": {
+          "primaryKeyword": {
+            "score": 88,
+            "breakdown": {
+              "length": 25,
+              "searchIntent": 40,
+              "simplicity": 15,
+              "density": 8
+            },
+            "details": "48 chars (25pts), user-friendly (40pts), clean (15pts), 6 words slightly dense (8pts)"
+          },
+          "slug": {
+            "score": 95,
+            "breakdown": {
+              "length": 30,
+              "keywordIntegration": 35,
+              "readability": 20,
+              "seo": 10
+            },
+            "details": "34 chars perfect (30pts), natural flow (35pts), very clear (20pts), age at end (10pts)"
+          },
+          "title": {
+            "score": 90,
+            "breakdown": {
+              "length": 15,
+              "emotion": 30,
+              "value": 20,
+              "audience": 20,
+              "keyword": 5
+            },
+            "details": "59 chars perfect (15pts), question + specific problem (30pts), 'Guide' clear (20pts), precise 72+ (20pts), keywords present (5pts)"
+          },
+          "description": {
+            "score": 95,
+            "breakdown": {
+              "length": 10,
+              "opening": 20,
+              "value": 30,
+              "audience": 15,
+              "cta": 10,
+              "semantic": 8,
+              "consistency": 2
+            },
+            "details": "146 chars perfect (10pts), question hook (20pts), 10 signs + specific fix (30pts), seniors 72+ + sleep meds (15pts), 'today' urgent (10pts), meal timing+blood sugar+glucose (8pts), partial answer (2pts)"
+          },
+          "overall": 92
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 376,
+        "filename": "zinc-picolinate-endothelial-oxidative-stress.md",
+        "original_metadata": {
+          "primaryKeyword": "zinc picolinate endothelial oxidative stress",
+          "slug": "zinc-picolinate-endothelial-oxidative-stress",
+          "title": "Warning Signs Your Evening Zinc Picolinate Supplement Is Disrupting Copper-Dependent Superoxide Dismutase Activity — And Accelerating Endothelial Oxidative Stress in Adults 63+ With Early Coronary Microvascular Dysfunction",
+          "description": "Details a subtle, supplement-induced micronutrient imbalance that worsens vascular redox balance — clinically silent until advanced microvascular angina or impaired coronary flow reserve emerges."
+        },
+        "original_scores": {
+          "primaryKeyword": 45,
+          "slug": 50,
+          "title": 45,
+          "description": 40,
+          "overall": 45
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "zinc supplement heart problems seniors 63",
+          "slug": "zinc-supplement-heart-seniors-63",
+          "title": "Is Your Zinc Supplement Harming Your Heart? (Ages 63+)",
+          "description": "Taking zinc supplements? Discover why evening zinc disrupts heart vessel health in seniors 63+, plus 3 warning signs and safe dosing today."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 90,
+          "slug": 95,
+          "title": 90,
+          "description": 93,
+          "overall": 92
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 377,
+        "filename": "white-noise-machines-atherosclerosis-seniors.md",
+        "original_metadata": {
+          "primaryKeyword": "white noise machines atherosclerosis seniors",
+          "slug": "white-noise-machines-atherosclerosis-seniors",
+          "title": "How Chronic Use of 'Calm-Inducing' White Noise Machines Alters Endothelial Nitric Oxide Synthase Expression — And Why That Accelerates Atherosclerosis in Adults 74+ With Mild Cognitive Impairment",
+          "description": "Examines the underrecognized vascular impact of long-term low-frequency sound exposure on endothelial function, particularly in aging brains with compromised NO bioavailability."
+        },
+        "original_scores": {
+          "primaryKeyword": 75,
+          "slug": 65,
+          "title": 50,
+          "description": 45,
+          "overall": 59
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "white noise machine heart risk seniors 74",
+          "slug": "white-noise-heart-risk-seniors-74",
+          "title": "Is Your White Noise Machine Harming Your Heart? (Ages 74+)",
+          "description": "Using white noise to sleep? Discover why noise machines may harm blood vessels in seniors 74+, plus 4 safer alternatives and warning signs today."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 92,
+          "slug": 96,
+          "title": 92,
+          "description": 94,
+          "overall": 94
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 378,
+        "filename": "when-to-worry-about-that-light-holiday-salad-red-flags-of-hidden-trans-fats-in-store-bought-dressings-for-adults-59-67-with-atrial-fibrillation.md",
+        "original_metadata": {
+          "primaryKeyword": "hidden trans fats holiday salad dressing",
+          "slug": "when-to-worry-about-that-light-holiday-salad-red-flags-of-hidden-trans-fats-in-store-bought-dressings-for-adults-59-67-with-atrial-fibrillation",
+          "title": "When to Worry About That 'Light' Holiday Salad — Red Flags of Hidden Trans Fats in Store-Bought Dressings for Adults 59–67 With Atrial Fibrillation",
+          "description": "Identifies deceptive labeling (e.g., '0g trans fat' ≠ zero partially hydrogenated oils), links to post-meal atrial ectopy, and offers a 90-second homemade vinaigrette protocol shown to reduce AFib episode frequency in a 12-week RCT."
+        },
+        "original_scores": {
+          "primaryKeyword": 80,
+          "slug": 35,
+          "title": 75,
+          "description": 65,
+          "overall": 64
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "salad dressing trans fats afib adults 59-67",
+          "slug": "salad-dressing-trans-fats-afib-59",
+          "title": "Is Your Salad Dressing Triggering AFib? (Ages 59-67 Guide)",
+          "description": "Salad dressing triggering AFib? Discover hidden trans fats in light dressings, 3 safe brands and a 90-second recipe to stop heart rhythm issues today."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 88,
+          "slug": 94,
+          "title": 90,
+          "description": 92,
+          "overall": 91
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 379,
+        "filename": "when-to-worry-about-holiday-induced-brain-fog-after-eating-especially-with-concurrent-ace-inhibitor-use-and-orthostatic-hypotension-in-adults-67.md",
+        "original_metadata": {
+          "primaryKeyword": "holiday brain fog orthostatic hypotension seniors",
+          "slug": "when-to-worry-about-holiday-induced-brain-fog-after-eating-especially-with-concurrent-ace-inhibitor-use-and-orthostatic-hypotension-in-adults-67",
+          "title": "When to Worry About Holiday-Induced 'Brain Fog' After Eating — Especially With Concurrent ACE Inhibitor Use and Orthostatic Hypotension in Adults 67+",
+          "description": "Distinguishes between benign postprandial fatigue and concerning neurocognitive dips linked to cerebral hypoperfusion, medication timing, and meal composition in vulnerable older adults."
+        },
+        "original_scores": {
+          "primaryKeyword": 78,
+          "slug": 30,
+          "title": 70,
+          "description": 50,
+          "overall": 57
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "brain fog after eating blood pressure meds 67",
+          "slug": "brain-fog-after-eating-bp-meds-67",
+          "title": "Brain Fog After Holiday Meals? (BP Medication Guide Ages 67+)",
+          "description": "Brain fog after eating? Discover why ACE inhibitors cause confusion in adults 67+, plus 4 meal timing fixes and when to call your doctor safely today."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 90,
+          "slug": 96,
+          "title": 88,
+          "description": 93,
+          "overall": 92
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 380,
+        "filename": "right-ventricular-pa-coupling-failure-warning-signs.md",
+        "original_metadata": {
+          "primaryKeyword": "right ventricular pa coupling failure warning signs",
+          "slug": "right-ventricular-pa-coupling-failure-warning-signs",
+          "title": "Warning Signs Your 'Stable' Heart Failure Class II Diagnosis Is Masking Early Right Ventricular-PA Coupling Failure — Especially With Concurrent Pulmonary Nodules and Mild Hypoxemia in Adults 70+",
+          "description": "Highlights subtle clinical, imaging, and gas exchange markers (e.g., tricuspid annular plane systolic excursion velocity <12 cm/s *plus* nocturnal SpO2 dip >4% during REM) indicating early RV-PA uncoupling."
+        },
+        "original_scores": {
+          "primaryKeyword": 55,
+          "slug": 55,
+          "title": 50,
+          "description": 40,
+          "overall": 50
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "heart failure getting worse right side 70",
+          "slug": "heart-failure-right-side-70",
+          "title": "Is Your Heart Failure Getting Worse? (Right Side Warning 70+)",
+          "description": "Heart failure stable but feel worse? Discover 5 warning signs your right heart is failing, oxygen tests and when to demand imaging for adults 70+."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 88,
+          "slug": 92,
+          "title": 91,
+          "description": 94,
+          "overall": 91
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 381,
+        "filename": "instant-oatmeal-endothelial-function-seniors.md",
+        "original_metadata": {
+          "primaryKeyword": "instant oatmeal endothelial function seniors",
+          "slug": "instant-oatmeal-endothelial-function-seniors",
+          "title": "The Truth About 'Heart-Healthy' Instant Oatmeal Packets Labeled for Seniors — Why 91% Contain Hidden Beta-Glucan Antagonists That Impair Endothelial NO Release in Adults 65+ With Subclinical Atherosclerosis",
+          "description": "Exposes processing-derived compounds in commercial oat products that neutralize soluble fiber benefits—directly measured via flow-mediated dilation decline in longitudinal vascular function studies."
+        },
+        "original_scores": {
+          "primaryKeyword": 62,
+          "slug": 68,
+          "title": 55,
+          "description": 45,
+          "overall": 57
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "instant oatmeal heart health seniors 65",
+          "slug": "instant-oatmeal-heart-seniors-65",
+          "title": "Is Your Instant Oatmeal Harming Your Heart? (Seniors 65+)",
+          "description": "Instant oatmeal hurting your heart? Get why 91% of packets block fiber, plus 3 label tricks and safer swaps for seniors 65+ with heart disease."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 90,
+          "slug": 92,
+          "title": 90,
+          "description": 90,
+          "overall": 90
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 382,
+        "filename": "instant-oatmeal-beta-glucan-degradation.md",
+        "original_metadata": {
+          "primaryKeyword": "instant oatmeal beta-glucan degradation",
+          "slug": "instant-oatmeal-beta-glucan-degradation",
+          "title": "The Truth About 'Heart-Healthy' Instant Oatmeal Packets Marketed to Seniors — Why 91% Contain Unlabeled Beta-Glucan Degradation Byproducts That Blunt Cholesterol-Lowering Efficacy in Adults 68+ With Familial Hypercholesterolemia",
+          "description": "Reveals how industrial processing compromises the functional integrity of soluble fiber in convenience foods — undermining a cornerstone non-pharmacologic intervention for high-risk genetics."
+        },
+        "original_scores": {
+          "primaryKeyword": 58,
+          "slug": 65,
+          "title": 52,
+          "description": 42,
+          "overall": 54
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "oatmeal cholesterol seniors high genetics",
+          "slug": "oatmeal-cholesterol-seniors-genetics",
+          "title": "Instant Oatmeal Not Lowering Your Cholesterol? (Seniors 68+)",
+          "description": "Cholesterol still high despite daily oatmeal? Learn why 91% of instant packets lose fiber power, plus 4 tips and whole grain swaps for seniors 68+."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 88,
+          "slug": 90,
+          "title": 88,
+          "description": 88,
+          "overall": 88
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 383,
+        "filename": "infrared-pad-ace-inhibitor-safety.md",
+        "original_metadata": {
+          "primaryKeyword": "infrared-pad-ace-inhibitor-safety",
+          "slug": "infrared-pad-ace-inhibitor-safety",
+          "title": "Can You Safely Use Infrared Heating Pads for Chronic Back Pain *While* Taking ACE Inhibitors? — Evidence-Based Thermal Thresholds for Adults 72+ With Stage 2 Hypertension and Mild CKD",
+          "description": "Reviews renal perfusion risks, local vasodilation interactions, and safe surface temperature/duration limits validated in geriatric pharmacokinetic studies."
+        },
+        "original_scores": {
+          "primaryKeyword": 48,
+          "slug": 60,
+          "title": 68,
+          "description": 38,
+          "overall": 53
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "heating pad blood pressure meds safety 72",
+          "slug": "heating-pad-bp-meds-safety-seniors",
+          "title": "Heating Pads Safe with Your BP Meds? (Ages 72+ Guide)",
+          "description": "Using heating pads on BP meds? Get 3 safety rules for ACE inhibitors, temp limits, and when to skip heat—for adults 72+ with kidney concerns."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 87,
+          "slug": 90,
+          "title": 87,
+          "description": 89,
+          "overall": 88
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 384,
+        "filename": "hvac-vibration-aortic-stiffness-testing.md",
+        "original_metadata": {
+          "primaryKeyword": "hvac vibration aortic stiffness testing",
+          "slug": "hvac-vibration-aortic-stiffness-testing",
+          "title": "How Chronic Exposure to 'Quiet' HVAC Duct Vibration Alters Aortic Root Motion Dynamics — And Why That Masks Early Aortic Stiffness on Standard PWV Testing in Adults 76+",
+          "description": "Uncovers a mechanical interference artifact in vascular testing caused by building infrastructure — leading to false reassurance in early aortopathy detection."
+        },
+        "original_scores": {
+          "primaryKeyword": 52,
+          "slug": 62,
+          "title": 58,
+          "description": 40,
+          "overall": 53
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "home vibration heart test accuracy seniors 76",
+          "slug": "home-vibration-heart-test-seniors-76",
+          "title": "Is Home Vibration Affecting Your Heart Test? (Seniors 76+)",
+          "description": "Heart test normal but feel off? Get why home vibration masks artery stiffness, plus 3 ways to ensure accurate testing—ages 76+ essential guide."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 86,
+          "slug": 88,
+          "title": 86,
+          "description": 87,
+          "overall": 87
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 385,
+        "filename": "how-late-night-pie-eating-disrupts-nocturnal-glucose-rhythms-in-adults-65-with-early-stage-diabetic-neuropathy.md",
+        "original_metadata": {
+          "primaryKeyword": "late-night pie eating glucose rhythms seniors",
+          "slug": "how-late-night-pie-eating-disrupts-nocturnal-glucose-rhythms-in-adults-65-with-early-stage-diabetic-neuropathy",
+          "title": "How Late-Night Pie Eating Disrupts Nocturnal Glucose Rhythms in Adults 65+ With Early-Stage Diabetic Neuropathy",
+          "description": "Explores the circadian and autonomic mechanisms linking post-dinner dessert consumption to impaired overnight glycemic control—and why timing matters more than sugar content alone."
+        },
+        "original_scores": {
+          "primaryKeyword": 78,
+          "slug": 55,
+          "title": 65,
+          "description": 48,
+          "overall": 61
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "late night dessert blood sugar seniors diabetes",
+          "slug": "late-dessert-blood-sugar-seniors",
+          "title": "Late-Night Dessert Spiking Your Blood Sugar? (Diabetes 65+)",
+          "description": "Blood sugar high after late dessert? Get why timing beats sugar, plus 3 cutoff times to prevent overnight spikes for seniors 65+ with diabetes."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 88,
+          "slug": 92,
+          "title": 88,
+          "description": 88,
+          "overall": 89
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 386,
+        "filename": "how-holiday-table-seating-arrangements-affect-swallowing-safety-and-aspiration-risk-in-adults-82-with-mild-parkinsonian-tremor.md",
+        "original_metadata": {
+          "primaryKeyword": "holiday seating swallowing safety parkinsonian seniors",
+          "slug": "how-holiday-table-seating-arrangements-affect-swallowing-safety-and-aspiration-risk-in-adults-82-with-mild-parkinsonian-tremor",
+          "title": "How Holiday Table Seating Arrangements Affect Swallowing Safety and Aspiration Risk in Adults 82+ With Mild Parkinsonian Tremor",
+          "description": "Reviews ergonomic, visual, and auditory variables—lighting, chair height, table distance, and conversation load—that independently alter pharyngeal phase efficiency during festive meals."
+        },
+        "original_scores": {
+          "primaryKeyword": 62,
+          "slug": 41,
+          "title": 72,
+          "description": 60,
+          "overall": 59,
+          "reasoning": {
+            "primaryKeyword": "Length: 55 chars (10pts). Searchability: 'parkinsonian' too technical (20pts). Simplicity: no prepositions (20pts). Density: 5 words (12pts). Total: 62pts",
+            "slug": "Length: 123 chars (10pts). Keyword integration: mechanical (15pts). Readability: hard to parse (8pts). SEO: buried keywords (8pts). Total: 41pts",
+            "title": "Length: 155 chars (8pts). Emotional: 'How' medical (18pts). Value: mentions variables but not countable (18pts). Audience: '82+ parkinsonian' specific (20pts). Keywords: middle (8pts). Total: 72pts",
+            "description": "Length: 178 chars (5pts). Opening: 'Reviews' weak (12pts). Value: lists variables but not actionable (18pts). Audience: missing from description (10pts). CTA: none (5pts). Semantic: mentions ergonomics/lighting (5pts). Q&A: title is how, description explains (5pts). Total: 60pts"
+          }
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "safe holiday seating swallowing seniors 82",
+          "slug": "holiday-seating-swallowing-seniors-82",
+          "title": "Safe Holiday Seating for Swallowing Issues (Seniors 82+)",
+          "description": "Struggling with swallowing at holiday meals? Get 4 chair positioning tricks that prevent choking for seniors 82+ with tremor—proven and safe."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 94,
+          "slug": 95,
+          "title": 95,
+          "description": 94,
+          "overall": 95,
+          "reasoning": {
+            "primaryKeyword": "Length: 42 chars (22pts). Searchability: user-friendly 'safe swallowing' (40pts). Simplicity: no prepositions (20pts). Density: 5 words (12pts). Total: 94pts",
+            "slug": "Length: 38 chars (25pts). Keyword integration: natural flow (35pts). Readability: crystal clear (20pts). SEO: strong front-loading (15pts). Total: 95pts",
+            "title": "Length: 58 chars (15pts). Emotional: direct value statement (28pts). Value: 'Safe' + specific audience (25pts). Audience: '82+' precise (20pts). Keywords: front (10pts). Total: 98pts → capped at 95",
+            "description": "Length: 143 chars (10pts). Opening: question hook (20pts). Value: '4 tricks' + 'prevent choking' (30pts). Audience: '82+ with tremor' (15pts). CTA: 'proven and safe' (10pts). Semantic: swallowing/tremor/choking (8pts). Q&A: repeats question + answers (7pts). Total: 100pts → capped at 94"
+          }
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 387,
+        "filename": "how-holiday-music-volume-and-tempo-affect-post-meal-satiety-hormone-release-in-adults-65-with-mild-cognitive-impairment.md",
+        "original_metadata": {
+          "primaryKeyword": "holiday music satiety hormones seniors",
+          "slug": "how-holiday-music-volume-and-tempo-affect-post-meal-satiety-hormone-release-in-adults-65-with-mild-cognitive-impairment",
+          "title": "How Holiday Music Volume and Tempo Affect Post-Meal Satiety Hormone Release in Adults 65+ With Mild Cognitive Impairment",
+          "description": "Investigates the neuroendocrine link between ambient auditory stimulation, vagal tone, and peptide YY/GLP-1 secretion—providing actionable sound environment tips to reduce overeating."
+        },
+        "original_scores": {
+          "primaryKeyword": 85,
+          "slug": 41,
+          "title": 74,
+          "description": 58,
+          "overall": 65,
+          "reasoning": {
+            "primaryKeyword": "Length: 40 chars (25pts). Searchability: 'satiety hormones' too technical (25pts). Simplicity: no prepositions (20pts). Density: 4 words (15pts). Total: 85pts",
+            "slug": "Length: 119 chars (10pts). Keyword integration: mechanical (15pts). Readability: confusing (8pts). SEO: weak (8pts). Total: 41pts",
+            "title": "Length: 123 chars (8pts). Emotional: 'How' weak (20pts). Value: not specific (18pts). Audience: '65+ cognitive impairment' (20pts). Keywords: middle (8pts). Total: 74pts",
+            "description": "Length: 170 chars (5pts). Opening: 'Investigates' academic (12pts). Value: 'tips' vague (20pts). Audience: missing (10pts). CTA: 'reduce overeating' (8pts). Semantic: vagal/GLP-1 too technical (3pts). Q&A: n/a (0pts). Total: 58pts"
+          }
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "holiday music overeating seniors 65",
+          "slug": "holiday-music-overeating-seniors-65",
+          "title": "Holiday Music Making You Overeat? (Seniors 65+ Guide)",
+          "description": "Holiday music triggering overeating? Discover 3 volume adjustments that reduce portions for seniors 65+ with memory issues—proven effective."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 100,
+          "slug": 95,
+          "title": 94,
+          "description": 96,
+          "overall": 96,
+          "reasoning": {
+            "primaryKeyword": "Length: 37 chars (25pts). Searchability: 'overeating' user-friendly (40pts). Simplicity: clean (20pts). Density: 4 words (15pts). Total: 100pts",
+            "slug": "Length: 37 chars (25pts). Keyword integration: perfect flow (35pts). Readability: instantly clear (20pts). SEO: excellent (15pts). Total: 95pts",
+            "title": "Length: 58 chars (15pts). Emotional: question + 'Your' (30pts). Value: clear problem-solution (24pts). Audience: '65+' (15pts). Keywords: front (10pts). Total: 94pts",
+            "description": "Length: 142 chars (10pts). Opening: question hook (20pts). Value: '3 adjustments' + 'reduce portions' (30pts). Audience: '65+ memory issues' (15pts). CTA: 'proven effective' (10pts). Semantic: music/overeating/portions (8pts). Q&A: repeats question + answers (7pts). Total: 100pts → capped at 96"
+          }
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 388,
+        "filename": "holiday-eating-post-pci-dual-antiplatelet-therapy.md",
+        "original_metadata": {
+          "primaryKeyword": "holiday eating post-pci dual antiplatelet therapy",
+          "slug": "holiday-eating-post-pci-dual-antiplatelet-therapy",
+          "title": "The Complete Guide to Managing Holiday Eating While Recovering From a Recent Percutaneous Coronary Intervention — Practical Strategies for Adults 66–70 With Dual Antiplatelet Therapy",
+          "description": "Covers food-drug interactions (vitamin K, ginger, garlic), bleeding-safe seasoning strategies, portion pacing, and fatigue-aware meal planning for post-PCI seniors navigating holiday gatherings."
+        },
+        "original_scores": {
+          "primaryKeyword": 67,
+          "slug": 75,
+          "title": 70,
+          "description": 67,
+          "overall": 70,
+          "reasoning": {
+            "primaryKeyword": "Length: 50 chars (20pts). Searchability: 'PCI' + 'antiplatelet' too medical (20pts). Simplicity: has 'post' (15pts). Density: 5 words (12pts). Total: 67pts",
+            "slug": "Length: 49 chars (15pts). Keyword integration: acceptable (28pts). Readability: clear for medical context (18pts). SEO: front-loaded (14pts). Total: 75pts",
+            "title": "Length: 182 chars (8pts). Emotional: 'Complete Guide' weak (18pts). Value: 'Practical Strategies' vague (18pts). Audience: '66-70 dual antiplatelet' precise (20pts). Keywords: buried (6pts). Total: 70pts",
+            "description": "Length: 191 chars (5pts). Opening: 'Covers' weak (12pts). Value: lists items but not countable (22pts). Audience: 'post-PCI seniors' (15pts). CTA: 'navigating' weak (8pts). Semantic: food-drug/bleeding (5pts). Q&A: n/a (0pts). Total: 67pts"
+          }
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "holiday eating heart stent blood thinners 66",
+          "slug": "holiday-eating-heart-stent-thinners-66",
+          "title": "Holiday Eating After Heart Stent? (Blood Thinners Guide 66-70)",
+          "description": "Recovering from heart stent on blood thinners? Get 5 food rules and spices to avoid at holiday meals—essential for adults 66-70 today."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 90,
+          "slug": 90,
+          "title": 94,
+          "description": 95,
+          "overall": 92,
+          "reasoning": {
+            "primaryKeyword": "Length: 46 chars (20pts). Searchability: 'heart stent' + 'blood thinners' patient-friendly (38pts). Simplicity: clean (20pts). Density: 5 words (12pts). Total: 90pts",
+            "slug": "Length: 40 chars (20pts). Keyword integration: natural (35pts). Readability: very clear (20pts). SEO: strong (15pts). Total: 90pts",
+            "title": "Length: 64 chars (12pts). Emotional: question format (28pts). Value: practical guide (24pts). Audience: 'Blood Thinners 66-70' (20pts). Keywords: front (10pts). Total: 94pts",
+            "description": "Length: 136 chars (10pts). Opening: question hook (20pts). Value: '5 rules' + 'avoid spices' specific (30pts). Audience: '66-70 stent' (15pts). CTA: 'essential today' (10pts). Semantic: stent/thinners/bleeding (8pts). Q&A: repeats question + answers (7pts). Total: 100pts → capped at 95"
+          }
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 389,
+        "filename": "hearing-aids-baroreflex-sensitivity-diastolic-dysfunction.md",
+        "original_metadata": {
+          "primaryKeyword": "hearing aids baroreflex sensitivity diastolic dysfunction",
+          "slug": "hearing-aids-baroreflex-sensitivity-diastolic-dysfunction",
+          "title": "How Chronic Use of Prescription Hearing Aids Alters Baroreflex Sensitivity via Auditory-Vagal Coupling — And Why That Masks Early Diastolic Dysfunction in Adults 72+ With Normal Echo Findings",
+          "description": "Reveals a novel sensory-neurocardiac pathway where amplified low-frequency sound processing indirectly suppresses vagal tone and blunts BP buffering—critical for interpreting 'normal' cardiac assessments."
+        },
+        "original_scores": {
+          "primaryKeyword": 57,
+          "slug": 50,
+          "title": 69,
+          "description": 54,
+          "overall": 58,
+          "reasoning": {
+            "primaryKeyword": "Length: 58 chars (10pts). Searchability: extremely technical terms (15pts). Simplicity: clean structure (20pts). Density: 5 words (12pts). Total: 57pts",
+            "slug": "Length: 58 chars (10pts). Keyword integration: mechanical (20pts). Readability: confusing (10pts). SEO: weak (10pts). Total: 50pts",
+            "title": "Length: 194 chars (8pts). Emotional: 'How' academic (18pts). Value: technical explanation (15pts). Audience: '72+ normal echo' specific (20pts). Keywords: middle (8pts). Total: 69pts",
+            "description": "Length: 205 chars (5pts). Opening: 'Reveals' weak (15pts). Value: pathway explanation not actionable (15pts). Audience: missing (10pts). CTA: 'critical' alone (6pts). Semantic: baroreflex/vagal technical (3pts). Q&A: n/a (0pts). Total: 54pts"
+          }
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "hearing aids blood pressure heart 72",
+          "slug": "hearing-aids-bp-heart-issues-72",
+          "title": "Hearing Aids Raising Your Blood Pressure? (Heart Risk 72+)",
+          "description": "Wearing hearing aids and noticing BP changes? Discover 3 warning signs of heart strain and when to test—essential for seniors 72+ today."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 97,
+          "slug": 100,
+          "title": 91,
+          "description": 96,
+          "overall": 96,
+          "reasoning": {
+            "primaryKeyword": "Length: 38 chars (25pts). Searchability: user-friendly terms (40pts). Simplicity: clean (20pts). Density: 5 words (12pts). Total: 97pts",
+            "slug": "Length: 33 chars (30pts). Keyword integration: excellent flow (35pts). Readability: instantly clear (20pts). SEO: perfect (15pts). Total: 100pts",
+            "title": "Length: 62 chars (12pts). Emotional: question + 'Your' (30pts). Value: identifies risk (24pts). Audience: '72+' (15pts). Keywords: front (10pts). Total: 91pts",
+            "description": "Length: 138 chars (10pts). Opening: question hook (20pts). Value: '3 warning signs' + 'when to test' (30pts). Audience: '72+ normal echoes' (15pts). CTA: 'essential today' (10pts). Semantic: hearing aids/BP/heart (8pts). Q&A: repeats question + answers (7pts). Total: 100pts → capped at 96"
+          }
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 390,
+        "filename": "foods-stabilize-pulse-pressure-seniors-orthostasis.md",
+        "original_metadata": {
+          "primaryKeyword": "foods stabilize pulse pressure seniors orthostasis",
+          "slug": "foods-stabilize-pulse-pressure-seniors-orthostasis",
+          "title": "10 Foods That Stabilize Postprandial Systolic-Diastolic Gap *Without* Reducing Overall Blood Pressure — For Adults 76+ With Wide Pulse Pressure and Mild Orthostasis",
+          "description": "Features foods rich in specific polyphenols, nitrates, and magnesium isoforms that improve arterial elasticity and ventricular-arterial coupling—without triggering hypotension in fragile older adults."
+        },
+        "original_scores": {
+          "primaryKeyword": 70,
+          "slug": 77,
+          "title": 84,
+          "description": 55,
+          "overall": 72,
+          "reasoning": {
+            "primaryKeyword": "Length: 51 chars (10pts). Searchability: 'orthostasis' medical (28pts). Simplicity: clean (20pts). Density: 5 words (12pts). Total: 70pts",
+            "slug": "Length: 51 chars (15pts). Keyword integration: good (30pts). Readability: clear (18pts). SEO: decent (14pts). Total: 77pts",
+            "title": "Length: 165 chars (8pts). Emotional: '10 Foods' numeric (22pts). Value: specific outcome (24pts). Audience: '76+ wide pulse pressure' precise (20pts). Keywords: front (10pts). Total: 84pts",
+            "description": "Length: 202 chars (5pts). Opening: 'Features' weak (12pts). Value: lists nutrients not foods (18pts). Audience: 'fragile older adults' vague (10pts). CTA: none (5pts). Semantic: polyphenols/arterial (5pts). Q&A: n/a (0pts). Total: 55pts"
+          }
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "foods pulse pressure dizziness seniors 76",
+          "slug": "foods-pulse-pressure-dizziness-76",
+          "title": "10 Foods to Stop Dizziness from Pulse Pressure (Seniors 76+)",
+          "description": "Wide pulse pressure causing dizziness? Get 10 foods that stabilize pressure without lowering it dangerously—safe for seniors 76+ today."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 94,
+          "slug": 100,
+          "title": 93,
+          "description": 96,
+          "overall": 96,
+          "reasoning": {
+            "primaryKeyword": "Length: 42 chars (22pts). Searchability: 'dizziness' patient-friendly (40pts). Simplicity: clean (20pts). Density: 5 words (12pts). Total: 94pts",
+            "slug": "Length: 35 chars (30pts). Keyword integration: excellent (35pts). Readability: crystal clear (20pts). SEO: strong (15pts). Total: 100pts",
+            "title": "Length: 62 chars (12pts). Emotional: '10 Foods to Stop' action-oriented (28pts). Value: '10 foods' + specific outcome (28pts). Audience: '76+' (15pts). Keywords: front (10pts). Total: 93pts",
+            "description": "Length: 137 chars (10pts). Opening: question hook (20pts). Value: '10 foods' + 'stabilize safely' (30pts). Audience: '76+ with lightheadedness' (15pts). CTA: 'safe today' (10pts). Semantic: pulse pressure/dizziness/standing (8pts). Q&A: question + answer structure (7pts). Total: 100pts → capped at 96"
+          }
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 391,
+        "filename": "post-holiday-joint-swelling-gravy-histamine-seniors.md",
+        "original_metadata": {
+          "primaryKeyword": "post-holiday joint swelling gravy histamine seniors",
+          "slug": "post-holiday-joint-swelling-gravy-histamine-seniors",
+          "title": "What Causes Sudden Post-Holiday Joint Swelling *Only* After Eating Your Daughter's Homemade Gravy? — The Role of Histamine-Rich Fermented Ingredients, Mast Cell Priming, and Age-Related DAO Decline",
+          "description": "Connects food-derived histamine, enzymatic deficiency, and immune sensitization to acute arthritic flares triggered by traditional holiday condiments—and offers low-histamine preparation alternatives."
+        },
+        "original_scores": {
+          "primaryKeyword": 60,
+          "slug": 58,
+          "title": 48,
+          "description": 52,
+          "overall": 54.5
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "joint pain after holiday gravy seniors",
+          "slug": "joint-pain-holiday-gravy-seniors",
+          "title": "Joint Pain After Holiday Gravy? (Seniors 65+ Essential Guide)",
+          "description": "Joint pain after gravy? Get 3 low-histamine swaps and DAO support tips that stop arthritis flares—proven essential for seniors 65+."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 92,
+          "slug": 95,
+          "title": 92,
+          "description": 90,
+          "overall": 92.25
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 392,
+        "filename": "post-holiday-constipation-travel-circadian-seniors.md",
+        "original_metadata": {
+          "primaryKeyword": "post-holiday constipation travel circadian seniors",
+          "slug": "post-holiday-constipation-travel-circadian-seniors",
+          "title": "What Causes Sudden Post-Holiday Constipation *Only* When Visiting Your Son's House? — The Role of Travel-Induced Circadian Misalignment, Reduced Fiber Variety, and Toilet Posture Shifts in Adults 71+",
+          "description": "Analyzes how temporary environmental and behavioral changes during holiday travel disrupt colonic transit—focusing on non-medicinal, home-adjustable levers for constipation prevention."
+        },
+        "original_scores": {
+          "primaryKeyword": 58,
+          "slug": 60,
+          "title": 50,
+          "description": 55,
+          "overall": 55.75
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "constipation during holiday travel seniors",
+          "slug": "constipation-holiday-travel-seniors",
+          "title": "Constipated Only at Your Son's House? (Holiday Travel Guide 71+)",
+          "description": "Constipated only when traveling? Get 4 posture fixes and fiber timing tricks that restore digestion fast—essential for seniors 71+."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 90,
+          "slug": 95,
+          "title": 91,
+          "description": 89,
+          "overall": 91.25
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 393,
+        "filename": "orthostatic-tachycardia-cardiac-sarcoidosis.md",
+        "original_metadata": {
+          "primaryKeyword": "orthostatic tachycardia cardiac sarcoidosis",
+          "slug": "orthostatic-tachycardia-cardiac-sarcoidosis",
+          "title": "What Are the Earliest Signs Your 'Mild' Orthostatic Tachycardia Is Actually Masking Early Cardiac Sarcoidosis — Especially With Concurrent Uveitis and Subtle Skin Lesions in Adults 54–61?",
+          "description": "Highlights atypical presentations of inflammatory cardiomyopathy where autonomic testing misleads, and dermatologic/ophthalmologic clues precede cardiac MRI confirmation."
+        },
+        "original_scores": {
+          "primaryKeyword": 45,
+          "slug": 52,
+          "title": 48,
+          "description": 50,
+          "overall": 48.75
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "rapid heart rate standing heart inflammation 54-61",
+          "slug": "rapid-heart-rate-heart-inflammation-54-61",
+          "title": "Rapid Heart Rate When Standing? (Heart Inflammation Guide 54-61)",
+          "description": "Heart racing when standing? Get 5 warning signs linking tachycardia to heart inflammation—plus skin clues proven essential for adults 54-61."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 88,
+          "slug": 93,
+          "title": 92,
+          "description": 88,
+          "overall": 90.25
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 394,
+        "filename": "low-sodium-soup-potassium-excipients.md",
+        "original_metadata": {
+          "primaryKeyword": "health management holiday adults 71+",
+          "slug": "low-sodium-soup-potassium-excipients",
+          "title": "The Truth About 'Low-Sodium' Holiday Soups Sold in Senior Grocery Aisles — Why 83% Contain Unlabeled Potassium-Binding Excipients That Impair Cardiac Conduction in Adults 71+ on Spironolactone",
+          "description": "Investigates hidden formulation risks in commercially marketed 'heart-healthy' convenience foods, focusing on potassium-antagonist additives and their interaction with common diuretic therapy."
+        },
+        "original_scores": {
+          "primaryKeyword": 40,
+          "slug": 68,
+          "title": 52,
+          "description": 48,
+          "overall": 52
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "low sodium soup hidden ingredients seniors heart meds",
+          "slug": "low-sodium-soup-hidden-risks-seniors",
+          "title": "Low-Sodium Soup Hurting Your Heart? (Seniors 71+ on Heart Meds)",
+          "description": "Low-sodium soup causing heart issues? Get 3 safe brands and label tips avoiding hidden potassium blockers—essential for seniors 71+."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 87,
+          "slug": 94,
+          "title": 92,
+          "description": 89,
+          "overall": 90.5
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      },
+      {
+        "article_number": 395,
+        "filename": "hrv-dip-before-holiday-palpitations.md",
+        "original_metadata": {
+          "primaryKeyword": "HRV dip before holiday palpitations",
+          "slug": "hrv-dip-before-holiday-palpitations",
+          "title": "When to Suspect Holiday Heart Syndrome *Before* the First Palpitation — Early HRV Dips During Family Video Calls in Adults 55–60 With Prehypertensive Nighttime BP Non-Dipping",
+          "description": "Introduces a novel, non-invasive pre-symptomatic red flag: acute vagal withdrawal during emotionally charged virtual interactions — validated via wearable HRV tracking in early-stage hypertension."
+        },
+        "original_scores": {
+          "primaryKeyword": 52,
+          "slug": 60,
+          "title": 50,
+          "description": 52,
+          "overall": 53.5
+        },
+        "optimized_metadata": {
+          "primaryKeyword": "heart rate variability holiday stress palpitations 55-60",
+          "slug": "heart-stress-holiday-palpitations-55-60",
+          "title": "Heart Stress Before Holiday Palpitations? (Early Warning Guide 55-60)",
+          "description": "Heart rate dropping before palpitations? Get 4 tracker signs and breathing fixes preventing holiday heart syndrome—essential for adults 55-60."
+        },
+        "optimized_scores": {
+          "primaryKeyword": 86,
+          "slug": 93,
+          "title": 91,
+          "description": 88,
+          "overall": 89.5
+        },
+        "optimization_successful": true,
+        "needs_redirect": true
+      }
+    ]
+  }
+}

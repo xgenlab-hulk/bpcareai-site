@@ -98,22 +98,22 @@ Winter doesn’t have to mean metabolic uncertainty. Understanding how *indoor h
 
 ### FAQ
 
-#### #### Does indoor heating really affect blood sugar in seniors?
+#### Does indoor heating really affect blood sugar in seniors?
 
 Yes—especially in adults 70+. Dry air from forced-air heating reduces nasal nitric oxide, which supports vagal tone and proper insulin timing. In those with autonomic neuropathy or age-related nerve changes, this can lead to sharper, longer-lasting post-meal glucose spikes—even with familiar foods.
 
-#### #### What’s the link between nasal dryness and holiday diabetes management?
+#### What’s the link between nasal dryness and holiday diabetes management?
 
 During colder months, indoor heating lowers humidity, drying nasal mucosa and reducing nitric oxide. This weakens vagus nerve signaling—slowing insulin release and disrupting gastric emptying. For people practicing *holiday diabetes management*, this environmental factor can explain unexpected glucose rises despite careful carb counting or medication adherence.
 
-#### #### Can using a humidifier help reduce indoor heating nasal glucose spikes?
+#### Can using a humidifier help reduce indoor heating nasal glucose spikes?
 
 Absolutely. Raising indoor relative humidity to 35–45% helps maintain healthy nasal mucosa and nitric oxide production. Studies show improved vagal tone and more stable postprandial glucose in older adults who consistently use clean, well-maintained humidifiers—particularly in bedrooms and main living spaces.
 
-#### #### Is nasal spray enough—or do I need something stronger?
+#### Is nasal spray enough—or do I need something stronger?
 
 Preservative-free saline *gel* (used once or twice daily) is often more effective than spray alone for sustained mucosal hydration and NO support. Sprays offer quick relief but evaporate faster; gels create a longer-lasting protective layer. Avoid decongestant sprays (like oxymetazoline) for regular use—they can worsen rebound dryness.
 
-#### #### Could my BP meds be making indoor heating nasal glucose spikes worse?
+#### Could my BP meds be making indoor heating nasal glucose spikes worse?
 
 Some medications—including certain antihypertensives (e.g., beta-blockers, diuretics) and anticholinergics—can reduce salivary and mucosal moisture. If you notice increased dryness or glucose variability after starting or adjusting BP meds, mention it at your next visit. Never stop or change doses without consulting your provider—but it’s helpful context for personalized care.

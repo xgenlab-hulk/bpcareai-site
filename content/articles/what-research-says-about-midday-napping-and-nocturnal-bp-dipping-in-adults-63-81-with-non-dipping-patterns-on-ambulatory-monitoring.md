@@ -89,22 +89,22 @@ Understanding *napping and nocturnal blood pressure dipping* doesn’t mean addi
 
 ### FAQ
 
-#### #### Does napping help lower blood pressure at night?
+#### Does napping help lower blood pressure at night?
 
 Yes — but only under specific conditions. Research shows that a short (20–45 minute), supine midday nap — taken before 2 p.m. — is associated with improved nocturnal dipping in adults aged 63–81 with non-dipping patterns. Napping later in the day or for too long may interfere with nighttime sleep and actually blunt the dip.
 
-#### #### Can napping and nocturnal blood pressure dipping be improved without medication?
+#### Can napping and nocturnal blood pressure dipping be improved without medication?
 
 Absolutely. Lifestyle approaches — including strategic napping, consistent sleep timing, moderate daytime movement, and sodium-aware eating — are foundational. In several trials, non-medication interventions improved dipping magnitude by 4–7 percentage points over 8–12 weeks. These changes work best when personalized and sustained.
 
-#### #### Is napping and nocturnal blood pressure dipping linked to stroke risk?
+#### Is napping and nocturnal blood pressure dipping linked to stroke risk?
 
 Yes. Non-dipping and reverse dipping are independently associated with increased risk of stroke, heart attack, and kidney decline — even when daytime BP is well-controlled. A 10% smaller nocturnal dip correlates with roughly a 20% higher risk of major cardiovascular events over 5 years.
 
-#### #### What’s the best time of day to nap for blood pressure benefits?
+#### What’s the best time of day to nap for blood pressure benefits?
 
 The sweet spot appears to be between 12:30 and 2:00 p.m. — aligning with the natural post-lunch dip in alertness and cortisol. Naps after 3 p.m. are more likely to interfere with nighttime sleep onset and reduce melatonin production, potentially worsening nocturnal BP patterns.
 
-#### #### Do I need a special device to check my nocturnal blood pressure dipping?
+#### Do I need a special device to check my nocturnal blood pressure dipping?
 
 Yes — standard home cuffs won’t capture this. Ambulatory blood pressure monitoring (ABPM) is required. It’s a small wearable device prescribed by your provider, typically covered by insurance. Some newer home monitors offer “night mode,” but they lack the frequency and context of true ABPM and shouldn’t replace clinical evaluation for dipping assessment.

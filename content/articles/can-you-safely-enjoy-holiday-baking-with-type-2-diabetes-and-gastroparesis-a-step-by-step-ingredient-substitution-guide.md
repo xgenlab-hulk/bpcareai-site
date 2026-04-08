@@ -84,22 +84,22 @@ Holiday baking for gastroparesis diabetes doesn’t have to mean sacrifice. It�
 
 ### FAQ
 
-#### #### Can I bake cookies safely with gastroparesis and type 2 diabetes?
+#### Can I bake cookies safely with gastroparesis and type 2 diabetes?
 
 Yes—you can bake cookies safely by choosing low-FODMAP flours (like rice-tapioca blends), using dextrose or allulose instead of honey or brown sugar, limiting fat to ≤5 g per serving, and avoiding dried fruit or nuts. Smaller, thinner cookies also empty faster than dense, chewy varieties.
 
-#### #### What are the best low-FODMAP, low-fat holiday baking substitutions for someone with gastroparesis diabetes?
+#### What are the best low-FODMAP, low-fat holiday baking substitutions for someone with gastroparesis diabetes?
 
 Top evidence-supported swaps include: ghee or avocado oil (used sparingly), certified low-FODMAP oat or rice flour, dextrose or allulose for sweetness, unsweetened apple sauce as a binder, and lemon zest/vanilla for flavor. Avoid high-fructan spices like garlic powder or onion powder—even in small amounts.
 
-#### #### Is holiday baking for gastroparesis diabetes possible without sacrificing taste?
+#### Is holiday baking for gastroparesis diabetes possible without sacrificing taste?
 
 Absolutely. Flavor comes from aromatic compounds (vanilla, citrus zest, cinnamon), texture from smart starch blends (tapioca + rice), and richness from minimal, high-quality fats—not volume or fermentable fibers. Many people report *improved* satisfaction because meals feel lighter and more digestible.
 
-#### #### How does gastroparesis affect blood sugar during holiday meals?
+#### How does gastroparesis affect blood sugar during holiday meals?
 
 Gastroparesis causes delayed and erratic gastric emptying, which pushes carbohydrate absorption later—leading to late-onset hyperglycemia (often peaking at 3–4 hours) and increased risk of reactive hypoglycemia afterward. This makes standard insulin timing ineffective; working with your endocrinologist on extended or dual-wave bolus strategies may be needed.
 
-#### #### Are gluten-free holiday recipes automatically safe for gastroparesis diabetes?
+#### Are gluten-free holiday recipes automatically safe for gastroparesis diabetes?
 
 Not necessarily. Many gluten-free flours (e.g., almond, coconut, chickpea) are high in fat, fiber, or FODMAPs—three key triggers for delayed gastric emptying. Always check total fat (<7 g/serving), fiber (<3 g), and FODMAP content—not just gluten status.

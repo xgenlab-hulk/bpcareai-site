@@ -41,22 +41,22 @@ In closing, maintaining movement through winter doesn’t require gym membership
 
 ### FAQ
 
-#### #### What are the best indoor exercises for seniors with high blood pressure?
+#### What are the best indoor exercises for seniors with high blood pressure?
 
 The safest options include seated or standing marching, resistance band work, tai chi, and brisk walking in place — all performed at moderate intensity (able to talk comfortably but not sing). Aim for at least 30 minutes most days, broken into manageable segments if needed.
 
-#### #### Can indoor exercises for seniors really lower blood pressure?
+#### Can indoor exercises for seniors really lower blood pressure?
 
 Yes — consistent moderate activity can reduce systolic BP by an average of 4–9 mm Hg over 3–6 months, comparable to some first-line antihypertensive medications. The key is regularity: studies show benefits begin within weeks and strengthen with sustained practice.
 
-#### #### Are there indoor exercises for seniors I should avoid if I’m on BP medication?
+#### Are there indoor exercises for seniors I should avoid if I’m on BP medication?
 
 Avoid isometric holds (like planks or wall sits longer than 20 seconds), heavy lifting (>10 lbs), or rapid head-position changes (e.g., forward bends followed by quick uprights), as these may interfere with BP regulation — especially if you take alpha-blockers or nitrates. Always check with your prescriber before adding resistance or balance challenges.
 
-#### #### How often should seniors check their blood pressure in winter?
+#### How often should seniors check their blood pressure in winter?
 
 Check twice daily (morning and evening) for at least one week when starting a new routine or noticing symptoms like lightheadedness or fatigue. Once stable, weekly checks are generally sufficient unless advised otherwise by your clinician.
 
-#### #### Does cold weather directly raise blood pressure?
+#### Does cold weather directly raise blood pressure?
 
 Yes — cold exposure triggers vasoconstriction and mild sympathetic activation, which can raise systolic BP by 3–8 mm Hg on average. This effect is amplified by reduced activity and increased indoor sodium intake during winter months.

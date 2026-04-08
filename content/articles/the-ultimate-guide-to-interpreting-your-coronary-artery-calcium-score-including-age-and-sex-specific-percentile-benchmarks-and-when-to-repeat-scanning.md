@@ -87,17 +87,17 @@ A coronary calcium score interpretation guide empowers you to move beyond anxiet
 
 ### FAQ
 
-#### #### What does a coronary calcium score of zero really mean?
+#### What does a coronary calcium score of zero really mean?
 A CAC score of zero means no detectable calcified plaque on CT imaging—but it doesn’t rule out non-calcified (soft) plaque or future risk. Among adults 50+, a CAC = 0 is reassuring and often associated with very low 10-year risk of heart attack (<1%). However, those with strong family history, diabetes, or heavy smoking may still benefit from preventive strategies regardless of CAC.
 
-#### #### How often should I repeat my coronary calcium score?
+#### How often should I repeat my coronary calcium score?
 Repeat scanning is generally not recommended routinely. Current guidelines suggest reconsidering CAC only if: (1) initial score was 0 and >5 years have passed *plus* new major risk factors emerged (e.g., diabetes diagnosis), or (2) baseline CAC was 1–99 and clinical decision-making remains uncertain after 3–5 years. For scores ≥100, repeat scanning adds little incremental value—focus instead shifts to managing risk factors and symptoms.
 
-#### #### Is there a “normal” coronary calcium score interpretation guide for women vs. men?
+#### Is there a “normal” coronary calcium score interpretation guide for women vs. men?
 Yes—sex-specific interpretation is essential. Women tend to develop calcium later and often have lower absolute scores at comparable ages. A coronary calcium score interpretation guide incorporating MESA percentiles shows that a CAC of 50 at age 60 is in the ~50th percentile for women but ~70th for men. Thus, the same number conveys higher relative risk in men—underscoring why sex-adjusted benchmarks improve accuracy.
 
-#### #### Can lifestyle changes lower my coronary calcium score?
+#### Can lifestyle changes lower my coronary calcium score?
 No—calcium deposits, once formed, are generally stable and don’t regress with current therapies. However, lifestyle changes *do* significantly slow or halt progression and reduce the risk of heart events—even with existing calcium. Think of CAC as a “mile marker”: it tells you how far you’ve gone, but healthy habits determine how fast (or slowly) you continue.
 
-#### #### Does a high coronary calcium score mean I need a stent or surgery?
+#### Does a high coronary calcium score mean I need a stent or surgery?
 Not necessarily. A high CAC score indicates advanced atherosclerosis but doesn’t diagnose obstructive blockages. Further testing—like stress testing or coronary CT angiography—is needed to assess blood flow limitations. Most people with high CAC benefit first from intensive medical therapy (statins, blood pressure control, diabetes management) rather than invasive procedures.

@@ -89,22 +89,22 @@ Interpreting your home blood pressure logs isn’t about becoming a cardiologist
 
 ### FAQ
 
-#### #### How do I know if my home blood pressure readings are accurate enough for interpreting home blood pressure logs?
+#### How do I know if my home blood pressure readings are accurate enough for interpreting home blood pressure logs?
 
 Accuracy starts with validation: ensure your device is clinically validated (look for certifications from ANSI/AAMI or ESH) and recalibrated every 2 years. Accuracy also depends on technique—always rest 5 minutes before measuring, use the correct cuff size (most adults 61+ need large or extra-large), and take readings at consistent times. If your logs show extreme variability (e.g., systolic ranging from 110 to 180 mm Hg across calm, rested sessions), recheck technique or consult your pharmacist for a device demo.
 
-#### #### What’s the best way to start interpreting home blood pressure logs if I’ve never tracked patterns before?
+#### What’s the best way to start interpreting home blood pressure logs if I’ve never tracked patterns before?
 
 Begin with a simple 7-day log: measure twice daily (morning and evening), record time, position, symptoms, and pulse signal strength. After one week, calculate your average systolic and diastolic—and look for the *range*, not just the average. Then ask: Do mornings tend to be higher? Does evening BP drop more than 10% from daytime? Are there days when readings cluster unusually high *and* pulse amplitude is low? These early observations form the foundation for deeper *interpreting home blood pressure logs*.
 
-#### #### Can white coat effect cause misleading home blood pressure logs?
+#### Can white coat effect cause misleading home blood pressure logs?
 
 No—white coat effect specifically refers to elevated readings *in clinical settings*, not at home. However, some people develop “reactive home hypertension”: unintentional stress while measuring (e.g., worrying about results, rushing to record). This can mimic white coat patterns. To test for it, try “unobserved” logging: set a reminder to measure, then walk away for 5 minutes before returning to read and record. Compare those values with your usual readings—if they’re consistently lower, stress response may be influencing your logs.
 
-#### #### Why does pulse amplitude matter when interpreting home blood pressure logs?
+#### Why does pulse amplitude matter when interpreting home blood pressure logs?
 
 Pulse amplitude reflects the strength and regularity of the arterial pulse detected by the cuff sensor. In older adults—especially those with atrial fibrillation, peripheral artery disease, or very stiff arteries—a weak or inconsistent pulse signal often accompanies inaccurate systolic or diastolic estimates. When high BP readings appear alongside low amplitude (<60%), treat them as suspect until confirmed with proper rest, repositioning, or manual sphygmomanometry.
 
-#### #### How often should I review my interpreting home blood pressure logs with my doctor?
+#### How often should I review my interpreting home blood pressure logs with my doctor?
 
 Bring your completed log (ideally 5–7 days of twice-daily readings) to every hypertension-related visit—and at minimum, every 3–6 months if your BP is stable. If you’ve recently changed medications, started a new supplement, or noticed new symptoms (like frequent dizziness), share an updated log sooner. Your provider can use your longitudinal data to assess treatment effectiveness far more accurately than any single office reading.

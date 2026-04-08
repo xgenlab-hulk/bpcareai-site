@@ -85,22 +85,22 @@ Holidays don’t have to mean choosing between joy and wellness. With thoughtful
 
 ### FAQ
 
-#### #### What are the best low glycemic holiday sides constipation options for seniors with slow digestion?
+#### What are the best low glycemic holiday sides constipation options for seniors with slow digestion?
 
 The most effective options combine soluble and insoluble fiber in gentle, well-cooked forms—like roasted fennel with lemon zest, barley-stuffed mushrooms, and spiced carrot-lentil medleys. These support both stable blood sugar and colonic motility without causing gas or discomfort.
 
-#### #### Can low glycemic holiday sides constipation help with both blood sugar and bowel regularity?
+#### Can low glycemic holiday sides constipation help with both blood sugar and bowel regularity?
 
 Yes—when carefully chosen. Soluble, fermentable fibers (e.g., in barley, lentils, and garlic) improve insulin sensitivity *and* feed beneficial gut bacteria, while bulking fibers (e.g., in roasted squash or sautéed greens) add gentle volume to support regular transit. Clinical studies show this dual-fiber approach improves both HbA1c and stool frequency in adults over 60.
 
-#### #### Are there low glycemic holiday sides constipation that are easy to prepare ahead?
+#### Are there low glycemic holiday sides constipation that are easy to prepare ahead?
 
 Absolutely. Dishes like lentil & roasted beet salad, cauliflower-white bean purée, and spiced carrot-lentil medley hold well refrigerated for 3–4 days and reheat gently on the stove or in the oven—no loss of fiber benefits or flavor.
 
-#### #### How much fiber should seniors aim for daily when managing constipation and prediabetes?
+#### How much fiber should seniors aim for daily when managing constipation and prediabetes?
 
 Current guidelines recommend 21–25 g/day for women and 25–30 g/day for men over 50. But quality matters more than quantity: aim for at least 8–10 g of *soluble*, fermentable fiber daily (from sources like barley, oats, lentils, and cooked onions) and pair it with 12–15 g of *insoluble* fiber (from whole grains, roasted vegetables, and flaxseed).
 
-#### #### Do low glycemic holiday sides constipation need to be bland or boring?
+#### Do low glycemic holiday sides constipation need to be bland or boring?
 
 Not at all! Roasting brings out natural sweetness in vegetables, citrus zest adds brightness, and warming spices like cinnamon, cumin, and sage enhance flavor *and* digestive function. Think of these sides as comforting, colorful, and deeply satisfying—not sacrificial.

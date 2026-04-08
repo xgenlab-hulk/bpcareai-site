@@ -70,22 +70,22 @@ Living well with type 2 diabetes—even for 12+ years—is absolutely possible. 
 
 ### FAQ
 
-#### #### Does cutting sugar alone reverse type 2 diabetes in older adults?
+#### Does cutting sugar alone reverse type 2 diabetes in older adults?
 
 No—especially not after 12+ years. Sugar reduction helps manage blood glucose and reduce liver fat, but reversal typically requires significant weight loss, improved insulin sensitivity, and preserved beta-cell function—factors that decline with duration.
 
-#### #### Are sugar reduction reverse type 2 diabetes myths dangerous?
+#### Are sugar reduction reverse type 2 diabetes myths dangerous?
 
 They can be—when they lead people to delay proven interventions (like structured weight management or medication review) or blame themselves for outcomes driven by biology, not willpower.
 
-#### #### Can I reverse type 2 diabetes after age 60 with long duration?
+#### Can I reverse type 2 diabetes after age 60 with long duration?
 
 Yes—though it’s less common. DiRECT showed ~7% remission in those with >12 years’ duration. Success is strongly linked to weight loss magnitude, baseline C-peptide, and liver fat reduction—not sugar intake alone.
 
-#### #### Is honey or maple syrup safer than table sugar for reversing diabetes?
+#### Is honey or maple syrup safer than table sugar for reversing diabetes?
 
 Not meaningfully. All caloric sweeteners raise blood glucose and contribute to calorie surplus. Focus on overall energy balance—not sweetener swaps.
 
-#### #### What’s the best test to see if reversal is possible for me?
+#### What’s the best test to see if reversal is possible for me?
 
 Start with a C-peptide test and liver ultrasound—or discuss MRI-PDFF if available. These give insight into your pancreas’s insulin-making capacity and ectopic fat burden, both key predictors of remission potential.

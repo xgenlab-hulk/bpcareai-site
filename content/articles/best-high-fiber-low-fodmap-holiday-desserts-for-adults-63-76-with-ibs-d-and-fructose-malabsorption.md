@@ -88,17 +88,17 @@ Holidays shouldn’t require choosing between celebration and comfort. With the 
 
 ### FAQ
 
-#### #### What are the best low FODMAP holiday desserts for seniors with IBS-D?
+#### What are the best low FODMAP holiday desserts for seniors with IBS-D?
 The most reliably tolerated options include chilled pear-ginger poach (made with maple syrup and fresh ginger), gluten-free almond cake sweetened with glucose syrup, and baked cinnamon-spiced banana oat squares (using certified low-FODMAP oats and ripe banana only). All are low in fructans, excess fructose, and polyols—and designed with age-related digestion in mind.
 
-#### #### Where can I find easy-to-make low fodmap holiday desserts seniors can prepare at home?
+#### Where can I find easy-to-make low fodmap holiday desserts seniors can prepare at home?
 Many trusted resources offer step-by-step recipes tested by Monash University’s FODMAP team—including their official app and the book *The Complete Low-FODMAP Diet* (2022 edition). Look for recipes labeled “green light” for fructose, fructans, and polyols, and always check serving sizes. Bonus: most require minimal prep time and no specialty equipment.
 
-#### #### Are there low FODMAP holiday desserts that also support heart health for older adults?
+#### Are there low FODMAP holiday desserts that also support heart health for older adults?
 Yes! Options like chia seed pudding (made with lactose-free almond milk and maple syrup) provide omega-3s and soluble fiber—both linked to improved arterial elasticity and modest BP support in adults over 60. Just keep portions modest (¼ cup chia seeds max per day) and pair with a source of healthy fat like walnuts (1–2 halves).
 
-#### #### Can fructose malabsorption get worse with age?
+#### Can fructose malabsorption get worse with age?
 Research suggests digestive enzyme activity—including fructase—may decline modestly after age 60, and gut motility slows, potentially amplifying symptoms. However, this doesn’t mean intolerance worsens universally. Many seniors actually *improve* tolerance with consistent low-FODMAP habits and microbiome-supportive fibers like psyllium. Retesting with a dietitian every 12–18 months is recommended.
 
-#### #### Do low fodmap holiday desserts seniors eat need to be completely sugar-free?
+#### Do low fodmap holiday desserts seniors eat need to be completely sugar-free?
 No—and they shouldn’t be. Glucose syrup, maple syrup (in 1-tbsp portions), and small amounts of brown rice syrup are all low-FODMAP and provide energy your body uses efficiently. Avoiding *all* sugars unnecessarily can lead to fatigue and poor nutrient intake in older adults. Focus on *type* and *balance*, not elimination.

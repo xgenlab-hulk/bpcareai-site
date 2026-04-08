@@ -44,17 +44,17 @@ Whether you're hosting or attending, choosing **alcohol-free mocktails blood pre
 
 ### FAQ  
 
-#### #### Can alcohol-free mocktails really lower blood pressure in women over 55?  
+#### Can alcohol-free mocktails really lower blood pressure in women over 55?  
 Yes—when thoughtfully formulated. Ingredients like beetroot (nitrates), bananas or pumpkin seeds (potassium/magnesium), and tart cherries support endothelial function and smooth muscle relaxation. Clinical observations suggest consistent use may contribute to modest but meaningful reductions—especially when replacing regular alcohol intake.
 
-#### #### Are alcohol-free mocktails blood pressure women over 55 safe to drink daily?  
+#### Are alcohol-free mocktails blood pressure women over 55 safe to drink daily?  
 Generally yes—if they’re low in added sugar (<5 g/serving) and made with whole-food ingredients. Daily intake is fine for most, but if you take BP medications (e.g., ACE inhibitors or ARBs), discuss high-potassium or high-nitrate drinks with your doctor first.
 
-#### #### Do low-alcohol drinks offer the same blood pressure benefits as alcohol-free mocktails?  
+#### Do low-alcohol drinks offer the same blood pressure benefits as alcohol-free mocktails?  
 No. Even drinks labeled “low-alcohol” (0.5–1.2% ABV) contain enough ethanol to suppress nitric oxide production, disrupt sleep cycles, and impair magnesium utilization—counteracting potential benefits from other ingredients.
 
-#### #### What’s the best time to drink an alcohol-free mocktail for blood pressure support?  
+#### What’s the best time to drink an alcohol-free mocktail for blood pressure support?  
 Early evening (5–7 p.m.) works well—early enough to avoid nighttime fluid overload, late enough to support wind-down without interfering with sleep onset. Avoid drinking large volumes within 90 minutes of bedtime.
 
-#### #### Can I make effective alcohol-free mocktails at home without special equipment?  
+#### Can I make effective alcohol-free mocktails at home without special equipment?  
 Absolutely. A blender or shaker, fresh produce, and mineral-rich liquids (coconut water, unsweetened almond milk, sparkling water) are all you need. Try blending ½ cup cooked beet, ¼ cup pomegranate juice, squeeze of lime, pinch of sea salt (for electrolytes), and ice—then top with soda. It’s simple, satisfying, and science-aligned.

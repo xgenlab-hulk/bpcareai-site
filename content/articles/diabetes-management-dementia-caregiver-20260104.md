@@ -66,22 +66,22 @@ Caring well for two people starts with honoring your own limits and strengths. W
 
 ### FAQ
 
-#### #### How can I safely manage my diabetes while caring for my husband with dementia?
+#### How can I safely manage my diabetes while caring for my husband with dementia?
 
 Prioritize consistency *for yourself*: use pre-filled insulin, dual-alert CGMs, and “no-choice” meals. Work with your care team to simplify your regimen—fewer variables mean fewer chances for error. Always review medications annually to avoid interactions (e.g., some dementia drugs affect glucose metabolism).
 
-#### #### What are the biggest risks in diabetes management dementia caregiver situations?
+#### What are the biggest risks in diabetes management dementia caregiver situations?
 
 The top clinical risks include unrecognized hypoglycemia (yours), medication duplication or omission (both), and nutritional imbalance—either from skipped meals or overfeeding due to misreading hunger cues. Cognitive load also increases risk of delayed response to BP or glucose emergencies.
 
-#### #### Are there tools specifically designed for the diabetes management dementia caregiver role?
+#### Are there tools specifically designed for the diabetes management dementia caregiver role?
 
 Yes—dual-alert CGMs, voice-activated medication dispensers, and shared-care digital logs help bridge the gap. Look for FDA-cleared devices with caregiver modes and large-text interfaces. Also ask your pharmacist about “brown bag” medication reviews—especially important when managing multiple prescriptions across two people.
 
-#### #### Can dementia medications affect my blood sugar?
+#### Can dementia medications affect my blood sugar?
 
 Some can. For example, certain antipsychotics (like quetiapine) and corticosteroids (sometimes used for agitation) may increase insulin resistance. Always share *all* medications—including supplements—with both your endocrinologist and neurologist.
 
-#### #### How do I know if I’m burning out as a diabetes management dementia caregiver?
+#### How do I know if I’m burning out as a diabetes management dementia caregiver?
 
 Watch for persistent exhaustion, irritability, frequent illness, or losing track of your own glucose checks for >3 days. These aren’t “signs of weakness”—they’re signals your nervous system needs support. Respite care, telehealth counseling, and caregiver support groups significantly improve outcomes for both you and your spouse.

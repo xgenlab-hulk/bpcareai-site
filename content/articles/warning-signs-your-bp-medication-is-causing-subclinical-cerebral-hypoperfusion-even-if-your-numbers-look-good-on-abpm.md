@@ -88,15 +88,15 @@ Understanding bp medication cerebral hypoperfusion isn’t about fear or blame�
 
 ### FAQ
 
-#### #### Could bp medication cerebral hypoperfusion cause memory problems even if my MRI looks normal?
+#### Could bp medication cerebral hypoperfusion cause memory problems even if my MRI looks normal?
 
 Yes—it can. Standard structural MRI detects tissue damage (like strokes or atrophy), but not temporary or regional blood flow changes. Functional tools like SPECT or advanced MRI techniques (e.g., arterial spin labeling) may reveal hypoperfusion before structural changes appear. Memory *support* functions (like working memory or retrieval speed) often shift first—sometimes mistaken for “normal aging.”
 
-#### #### Is bp medication cerebral hypoperfusion reversible?
+#### Is bp medication cerebral hypoperfusion reversible?
 
 In most cases, yes—especially when identified early. Reducing excessive nocturnal dipping, adjusting orthostatic triggers, or switching to agents with less peripheral vasodilatory effect (e.g., ACE inhibitors vs. some calcium channel blockers) often restores healthier cerebral perfusion patterns within weeks to months.
 
-#### #### What BP numbers should raise concern for cerebral hypoperfusion?
+#### What BP numbers should raise concern for cerebral hypoperfusion?
 
 There’s no single “danger number”—but watch for:  
 - Nocturnal systolic dip >25% from daytime average  
@@ -104,10 +104,10 @@ There’s no single “danger number”—but watch for:
 - Orthostatic drop ≥20/10 mm Hg *plus* lightheadedness or mental slowing  
 Remember: context matters more than isolated values.
 
-#### #### Can lifestyle changes alone improve cerebral perfusion while on BP meds?
+#### Can lifestyle changes alone improve cerebral perfusion while on BP meds?
 
 Absolutely. Regular aerobic activity (e.g., brisk walking 30 min/day), proper hydration, consistent sleep, and avoiding alcohol before bed all support cerebral autoregulation. These don’t replace medication—but they enhance how well your brain uses the blood flow it receives.
 
-#### #### Does everyone on BP meds need SPECT imaging?
+#### Does everyone on BP meds need SPECT imaging?
 
 No. SPECT is not routine screening. It’s considered when clinical symptoms strongly suggest regional hypoperfusion *and* other causes (e.g., sleep apnea, vitamin deficiency, depression) have been ruled out. Your doctor will weigh risks, benefits, and alternatives—including simpler functional assessments—first.

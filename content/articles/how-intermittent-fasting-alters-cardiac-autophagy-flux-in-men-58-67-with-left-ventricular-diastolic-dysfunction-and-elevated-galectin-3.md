@@ -44,22 +44,22 @@ In summary, while **intermittent fasting cardiac autophagy diastolic dysfunction
 
 ### FAQ
 
-#### #### Does intermittent fasting improve cardiac autophagy in people with diastolic dysfunction?
+#### Does intermittent fasting improve cardiac autophagy in people with diastolic dysfunction?
 
 Yes—clinical studies in men aged 58–67 show that consistent time-restricted eating (e.g., 14:10) enhances autophagic flux, as reflected by increased plasma LC3-II/Bnip3 ratios and favorable changes in MRI-T1 mapping. This effect appears most pronounced in those with mild-to-moderate diastolic dysfunction and elevated galectin-3.
 
-#### #### Can intermittent fasting cardiac autophagy diastolic dysfunction be measured at home?
+#### Can intermittent fasting cardiac autophagy diastolic dysfunction be measured at home?
 
 No—autophagy flux cannot be measured directly at home. However, you *can* track supportive indicators: resting heart rate, blood pressure trends, symptom journals (e.g., fatigue, breathlessness), and adherence to fasting windows. Confirmatory testing requires specialized labs (LC3-II/Bnip3) and cardiac MRI—both done in clinical settings.
 
-#### #### Is intermittent fasting safe for someone with high galectin-3 and diastolic dysfunction?
+#### Is intermittent fasting safe for someone with high galectin-3 and diastolic dysfunction?
 
 Generally yes—but only under guidance from a cardiologist or metabolic medicine specialist. Elevated galectin-3 signals active myocardial remodeling, so fasting must be introduced gradually and paired with ongoing monitoring of renal function, electrolytes, and cardiac biomarkers.
 
-#### #### How long does it take to see changes in cardiac autophagy with intermittent fasting?
+#### How long does it take to see changes in cardiac autophagy with intermittent fasting?
 
 Most studies report measurable shifts in LC3-II/Bnip3 ratios and T1 mapping after 8–12 weeks of consistent time-restricted eating. Functional improvements—like reduced exertional breathlessness—may follow within 3–6 months.
 
-#### #### Does intermittent fasting lower blood pressure in men with diastolic dysfunction?
+#### Does intermittent fasting lower blood pressure in men with diastolic dysfunction?
 
 Modest reductions are common: meta-analyses report average systolic BP drops of 5–7 mm Hg and diastolic BP reductions of 3–4 mm Hg after 12 weeks of time-restricted eating. These changes likely stem from improved insulin sensitivity, reduced sympathetic tone, and enhanced vascular autophagy—not just weight loss.

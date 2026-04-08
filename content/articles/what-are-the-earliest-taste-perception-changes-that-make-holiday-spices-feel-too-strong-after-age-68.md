@@ -75,17 +75,17 @@ It’s completely okay—and beautifully human—to experience taste perception 
 
 ### FAQ
 
-#### #### Why do holiday spices taste stronger after age 65?
+#### Why do holiday spices taste stronger after age 65?
 As we age, the olfactory bulb gradually loses volume (up to 10–15% by age 70), and zinc-dependent taste receptors renew more slowly—making aromatic and pungent compounds like cloves, cayenne, and star anise register more sharply. It’s not that the spices changed—it’s that your sensory calibration did.
 
-#### #### What are the earliest signs of taste perception changes holiday spices?
+#### What are the earliest signs of taste perception changes holiday spices?
 Early signs include needing less spice to feel its effect, finding previously enjoyable dishes suddenly overwhelming, or instinctively diluting or cooling spiced foods (e.g., adding milk to chai, rinsing spiced nuts). These often appear between ages 65–70 and progress gradually over years.
 
-#### #### Can taste perception changes holiday spices affect my blood pressure?
+#### Can taste perception changes holiday spices affect my blood pressure?
 Indirectly, yes. When flavors feel muted or overly intense, people sometimes increase salt or sugar to restore satisfaction—both of which, in excess, influence arterial pressure. Being aware of this link helps you make intentional, heart-supportive swaps instead of automatic adjustments.
 
-#### #### Is diminished spice tolerance a sign of dementia or neurological decline?
+#### Is diminished spice tolerance a sign of dementia or neurological decline?
 No—not on its own. Age-related taste and smell changes are common and typically occur slowly. Sudden or asymmetric loss (e.g., only on one side), especially with memory changes or balance issues, warrants evaluation—but gradual shifts in spice tolerance are part of typical sensory aging.
 
-#### #### Should I stop using holiday spices altogether if they feel too strong?
+#### Should I stop using holiday spices altogether if they feel too strong?
 Not at all. Many warming spices—cinnamon, ginger, turmeric—have anti-inflammatory properties that support cardiovascular and metabolic health. The goal isn’t avoidance, but mindful adaptation: adjusting preparation methods, pairing wisely, and honoring how your body responds today—not how it did 20 years ago.

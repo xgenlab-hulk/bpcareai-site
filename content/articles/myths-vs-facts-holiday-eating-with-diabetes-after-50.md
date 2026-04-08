@@ -56,22 +56,22 @@ Holidays aren’t about perfection—they’re about presence. Every mindful bit
 
 ### FAQ
 
-#### #### Is it safe to eat fruit during Christmas if I have diabetes over 50?
+#### Is it safe to eat fruit during Christmas if I have diabetes over 50?
 
 Yes—with awareness. Stick to one small serving (e.g., ½ cup berries or one small apple) and pair it with protein or healthy fat (like Greek yogurt or nuts) to slow sugar absorption. Avoid fruit juices and dried fruits unless carefully measured.
 
-#### #### What are the most common diabetes holiday myths vs facts for seniors?
+#### What are the most common diabetes holiday myths vs facts for seniors?
 
 Common myths include “You can skip insulin for a big meal” (false—this raises risks of DKA or HHS), “Sugar-free means carb-free” (many sugar-free treats still contain flour and starch), and “If your A1c is fine, holiday eating doesn’t matter” (acute spikes still stress blood vessels and nerves).
 
-#### #### How do diabetes holiday myths vs facts affect heart health?
+#### How do diabetes holiday myths vs facts affect heart health?
 
 Holiday eating patterns—especially high-sodium meals, excess alcohol, and large carb loads—can raise both blood glucose *and* blood pressure. Adults over 50 with diabetes are twice as likely to develop hypertension, making balanced holiday choices doubly important for arterial pressure and long-term cardiovascular wellness.
 
-#### #### Can I have eggnog with diabetes?
+#### Can I have eggnog with diabetes?
 
 Traditional eggnog is high in sugar and saturated fat. A safer option: unsweetened almond milk-based eggnog (homemade, with a touch of cinnamon and nutmeg) or a small portion (¼ cup) of regular eggnog paired with a protein-rich snack.
 
-#### #### Do holiday stress and sleep changes affect my blood sugar?
+#### Do holiday stress and sleep changes affect my blood sugar?
 
 Yes—chronic stress raises cortisol, which increases glucose production in the liver. Poor sleep (common during holidays) reduces insulin sensitivity by up to 23%. Prioritizing rest and gentle stress relief—like deep breathing or short walks—supports steadier glucose all season.

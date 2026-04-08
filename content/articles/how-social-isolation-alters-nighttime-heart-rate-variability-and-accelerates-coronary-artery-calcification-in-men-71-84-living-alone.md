@@ -56,22 +56,22 @@ In closing: Your heart thrives on rhythm—both in its beat and in your life’s
 
 ### FAQ
 
-#### #### Does social isolation directly cause coronary artery calcification?
+#### Does social isolation directly cause coronary artery calcification?
 
 Not alone—but longitudinal studies show it independently predicts faster CAC progression, especially when paired with reduced nighttime HRV. It acts through biological pathways like chronic inflammation and autonomic imbalance—not just behavior.
 
-#### #### How does social isolation and coronary artery calcification relate to blood pressure?
+#### How does social isolation and coronary artery calcification relate to blood pressure?
 
 Social isolation is associated with higher nocturnal systolic BP and blunted BP dipping during sleep—both linked to increased CAC. Elevated arterial pressure stresses vessel walls, making them more susceptible to calcium deposition over time.
 
-#### #### Can improving social connection slow coronary artery calcification?
+#### Can improving social connection slow coronary artery calcification?
 
 We don’t yet have randomized trials proving reversal—but observational data suggest slower CAC progression in men who increase social engagement and report lower loneliness over 2+ years, even after accounting for medication use and lifestyle.
 
-#### #### Is CAC testing recommended for everyone over 70?
+#### Is CAC testing recommended for everyone over 70?
 
 Not universally—but it’s increasingly considered for asymptomatic adults aged 65–79 with intermediate risk (e.g., 10-year ASCVD risk of 7.5–20%). Discuss with your clinician whether it adds clarity to your prevention plan.
 
-#### #### What’s a normal heart rate variability number for someone my age?
+#### What’s a normal heart rate variability number for someone my age?
 
 There’s no single “normal”—HRV declines naturally with age. For men 70–84, average nighttime RMSSD (a common HRV metric) typically ranges from 18–32 ms. Consistent values below 15 ms—especially with declining trend—may warrant deeper look at sleep, stress, and connection.

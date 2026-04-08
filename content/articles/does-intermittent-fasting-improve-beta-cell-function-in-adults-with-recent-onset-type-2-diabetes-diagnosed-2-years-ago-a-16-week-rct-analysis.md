@@ -102,22 +102,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does intermittent fasting improve beta-cell function in type 2 diabetes?
+#### Does intermittent fasting improve beta-cell function in type 2 diabetes?
 
 Yes—particularly in adults with recent-onset type 2 diabetes (<2 years). A 16-week RCT found that a 14:10 intermittent fasting protocol led to measurable improvements in first-phase insulin secretion (+19%), C-peptide response (+12%), and insulin processing efficiency (lower proinsulin/C-peptide ratio).
 
-#### #### Can intermittent fasting beta-cell function help reverse early type 2 diabetes?
+#### Can intermittent fasting beta-cell function help reverse early type 2 diabetes?
 
 “Reverse” isn’t quite the right word—but significant remission (defined as sustained normal glucose without medications) has been observed in early-stage type 2 diabetes with intensive lifestyle approaches, including time-restricted eating. Beta-cell recovery is a key contributor to that outcome, though it works best alongside weight management and ongoing support.
 
-#### #### Is intermittent fasting safe for people over 50 with diabetes?
+#### Is intermittent fasting safe for people over 50 with diabetes?
 
 Generally, yes—when individualized and supervised. Safety depends on your overall health, current medications, and how you implement fasting. Those on insulin or sulfonylureas need special guidance to avoid hypoglycemia. Starting slowly (e.g., 12:12) and working with your care team makes all the difference.
 
-#### #### What’s the best intermittent fasting schedule for beta-cell recovery?
+#### What’s the best intermittent fasting schedule for beta-cell recovery?
 
 The 14:10 pattern has the strongest evidence in recent-onset type 2 diabetes so far—but consistency matters more than perfection. Even shifting to a 13:11 window daily can reduce metabolic burden on beta-cells over time. Focus on regularity, adequate protein/fiber intake, and listening to your body.
 
-#### #### How long does it take to see changes in beta-cell function with intermittent fasting?
+#### How long does it take to see changes in beta-cell function with intermittent fasting?
 
 In the 16-week RCT, statistically significant improvements were seen after 12–14 weeks. However, some participants reported better post-meal energy and steadier glucose readings within 2–4 weeks—early hints that beta-cells were responding to reduced demand.

@@ -67,17 +67,17 @@ The link between air pollution and afib in women over 60 is real—but it’s al
 
 ### FAQ  
 
-#### #### Does air pollution worsen AFib in older women?  
+#### Does air pollution worsen AFib in older women?  
 Yes—multiple studies show that short-term exposure to elevated PM2.5 levels correlates with increased AFib episodes, longer episode durations, and greater nocturnal QT prolongation—especially in women over 60 with existing arrhythmia.
 
-#### #### Is air pollution and afib in women over 60 different from men’s risk?  
+#### Is air pollution and afib in women over 60 different from men’s risk?  
 Research suggests yes. Postmenopausal women may experience stronger inflammatory and autonomic responses to PM2.5, and hormonal shifts appear to influence how the atria respond to environmental stressors—making this group uniquely sensitive.
 
-#### #### Can wearing a mask during walks reduce AFib triggers from air pollution?  
+#### Can wearing a mask during walks reduce AFib triggers from air pollution?  
 Surgical or N95-style masks *can* reduce inhaled PM2.5 by 30–80%, depending on fit and activity level—but they’re most helpful on very high-pollution days and shouldn’t replace timing or location adjustments.
 
-#### #### Does indoor air pollution affect AFib too?  
+#### Does indoor air pollution affect AFib too?  
 Indoor sources—like wood-burning stoves, frying oils, or poor ventilation—can elevate fine particles. Using exhaust fans, avoiding scented candles, and considering HEPA filtration may support heart rhythm stability, especially at night.
 
-#### #### Are there medications that protect against air pollution–related AFib flares?  
+#### Are there medications that protect against air pollution–related AFib flares?  
 No drugs are approved specifically for this purpose—but optimizing guideline-directed therapy (e.g., anticoagulation, rate/rhythm control, statins for inflammation) helps build resilience. Always discuss any concerns with your care team before making changes.

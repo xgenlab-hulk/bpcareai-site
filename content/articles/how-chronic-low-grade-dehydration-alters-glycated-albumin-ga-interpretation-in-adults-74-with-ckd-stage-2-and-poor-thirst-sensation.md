@@ -96,17 +96,17 @@ Managing blood sugar as we age isn’t about chasing perfect numbers — it’s 
 
 ### FAQ
 
-#### #### Does dehydration raise glycated albumin in elderly patients with CKD?
+#### Does dehydration raise glycated albumin in elderly patients with CKD?
 Yes — even mild, chronic dehydration increases serum albumin concentration and slows its turnover, both of which artificially elevate glycated albumin (GA) levels. This effect is amplified in older adults with CKD stage 2 due to age-related declines in thirst perception and subtle reductions in kidney clearance.
 
-#### #### How does glycated albumin dehydration CKD elderly affect diabetes management?
+#### How does glycated albumin dehydration CKD elderly affect diabetes management?
 It can lead to overestimation of average blood glucose, potentially prompting unnecessary insulin or medication increases. Since GA reflects albumin glycation — not just glucose exposure — clinicians should interpret it alongside hydration markers (like BUN/creatinine), serum albumin, and preferably fructosamine or CGM data.
 
-#### #### Is glycated albumin reliable for older adults with stage 2 CKD?
+#### Is glycated albumin reliable for older adults with stage 2 CKD?
 GA *can* be useful, but it’s less reliable as a standalone metric in adults 74+ with stage 2 CKD and poor thirst sensation. Its sensitivity to albumin concentration and turnover means it often overestimates glycemia. Pairing it with fructosamine or short-term continuous glucose monitoring improves accuracy.
 
-#### #### What’s the difference between glycated albumin and A1C in kidney disease?
+#### What’s the difference between glycated albumin and A1C in kidney disease?
 A1C reflects glycation of hemoglobin over ~3 months and can be falsely low in CKD due to anemia or shortened red blood cell survival. GA reflects albumin glycation over ~2–3 weeks but is falsely *high* in dehydration or reduced albumin catabolism — common in aging and early CKD. Neither is universally superior; context determines usefulness.
 
-#### #### Can drinking more water lower my glycated albumin level?
+#### Can drinking more water lower my glycated albumin level?
 If elevated GA is driven partly by dehydration, yes — rehydration over several days to weeks can normalize serum albumin concentration and improve GA accuracy. However, it won’t change GA if the elevation truly reflects higher average glucose. That’s why pairing GA with other metrics matters.

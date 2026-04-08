@@ -46,22 +46,22 @@ In summary, choosing heart-healthy foods shouldn’t mean compromising kidney sa
 
 ### FAQ
 
-#### #### Is low-sodium soup potassium chloride ckdseniors safe for someone with stage 3 kidney disease?
+#### Is low-sodium soup potassium chloride ckdseniors safe for someone with stage 3 kidney disease?
 
 Not automatically. Many low-sodium soups use potassium chloride as a sodium replacement, which can raise serum potassium in CKD Stage 3. Always check the ingredient list—and consult your nephrologist before regularly consuming such products.
 
-#### #### What are the signs of hyperkalemia from low-sodium soup potassium chloride ckdseniors?
+#### What are the signs of hyperkalemia from low-sodium soup potassium chloride ckdseniors?
 
 Early signs include fatigue, muscle weakness, and irregular pulse. Later signs—such as palpitations, shortness of breath, or sudden dizziness—warrant immediate medical attention, as they may reflect developing bradycardia or ECG changes.
 
-#### #### Can low-sodium soup potassium chloride affect blood pressure?
+#### Can low-sodium soup potassium chloride affect blood pressure?
 
 Yes—but indirectly. While potassium can help relax blood vessels and support healthy BP in people with normal kidney function, excess potassium in CKD may trigger arrhythmias that impair cardiac output—leading to drops in systolic BP or orthostatic hypotension.
 
-#### #### Are there safer canned soup alternatives for seniors with CKD?
+#### Are there safer canned soup alternatives for seniors with CKD?
 
 Yes. Look for soups with <200 mg potassium *and* no potassium chloride in the ingredients. Brands offering “renal-friendly” or “low-potassium” lines (often found in specialty or online pharmacies) are better options—but always verify labels yourself.
 
-#### #### Does “no salt added” mean it’s safe for CKD seniors?
+#### Does “no salt added” mean it’s safe for CKD seniors?
 
 No. “No salt added” refers only to sodium chloride—it says nothing about potassium chloride or total potassium content. A “no salt added” soup can still contain 600+ mg of potassium per serving, making it potentially unsafe for CKD Stage 3.

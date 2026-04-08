@@ -52,17 +52,17 @@ In heart failure management, small dietary choices add up—especially for senio
 
 ### FAQ
 
-#### #### Is bone broth safe for seniors with heart failure and high blood pressure?  
+#### Is bone broth safe for seniors with heart failure and high blood pressure?  
 Yes—with strict attention to sodium, histamine, and portion size. Opt for unsalted, slow-simmered homemade versions (≤30 mg sodium/cup) and avoid commercial broths unless verified at <100 mg sodium and free of histamine-liberating additives.
 
-#### #### Can bone broth worsen fluid retention in heart failure seniors?  
+#### Can bone broth worsen fluid retention in heart failure seniors?  
 It *can*, if sodium content is high or if consumed in large volumes (>1 cup/day). Excess sodium promotes water retention; even “low-sodium” store-bought broths may exceed daily limits when combined with other foods. Homemade broth, carefully prepared, poses far less risk.
 
-#### #### What’s the best bone broth for seniors with heart failure and kidney disease?  
+#### What’s the best bone broth for seniors with heart failure and kidney disease?  
 Prioritize homemade broth made from unsalted, non-processed bones—and avoid adding potassium-rich ingredients (e.g., tomato paste, seaweed). Skip store-bought broths with potassium chloride, especially if eGFR <60 mL/min/1.73m².
 
-#### #### Does collagen in bone broth improve heart function in seniors?  
+#### Does collagen in bone broth improve heart function in seniors?  
 No direct evidence shows collagen improves cardiac contractility or ejection fraction. However, glycine and proline support vascular endothelium and gut health—both relevant to systemic inflammation and fluid regulation in chronic heart failure.
 
-#### #### How much sodium is too much in bone broth for heart failure seniors?  
+#### How much sodium is too much in bone broth for heart failure seniors?  
 More than **100 mg per serving** is generally considered unsafe for most NYHA Class II seniors on sodium-restricted diets (1,500–2,000 mg/day). Always individualize with your care team—some require stricter limits (e.g., <1,200 mg/day) based on NT-proBNP levels or diuretic response.

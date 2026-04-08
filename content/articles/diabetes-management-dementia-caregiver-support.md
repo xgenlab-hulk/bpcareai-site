@@ -54,22 +54,22 @@ With compassionate planning and realistic boundaries, dual chronic disease careg
 
 ### FAQ
 
-#### #### How can I safely manage my insulin while caring for my spouse with advanced dementia?
+#### How can I safely manage my insulin while caring for my spouse with advanced dementia?
 
 Use insulin pens with dose memory features, set medication alarms with verbal confirmation prompts, and keep a shared log (paper or digital) that a neighbor or telehealth nurse can review weekly. Never skip your own blood glucose checks — untreated highs or lows impair judgment needed for safe caregiving.
 
-#### #### What does diabetes management dementia caregiver support actually include?
+#### What does diabetes management dementia caregiver support actually include?
 
 It includes coordinated help with medication administration, meal planning aligned with both conditions, respite care to prevent burnout, and training in recognizing hypoglycemia vs. dementia-related confusion. Many programs also provide home safety assessments and connections to social workers.
 
-#### #### Is it safe to share diabetes supplies (like glucose meters) between myself and my spouse with dementia?
+#### Is it safe to share diabetes supplies (like glucose meters) between myself and my spouse with dementia?
 
 No. Sharing lancets or meters risks infection and inaccurate readings — especially if your spouse has poor circulation or skin integrity issues. Each person needs their own FDA-cleared device, calibrated regularly. Label supplies clearly to avoid mix-ups.
 
-#### #### How do I know if my caregiver stress is affecting my diabetes control?
+#### How do I know if my caregiver stress is affecting my diabetes control?
 
 Watch for patterns: rising A1C (≥7.5%) despite stable routines, frequent nighttime awakenings to check blood sugar, or unintentional skipping of insulin doses. These are signs your cognitive load is exceeding capacity — and a cue to activate formal *diabetes management dementia caregiver support*.
 
-#### #### Can dementia medications interfere with blood sugar control?
+#### Can dementia medications interfere with blood sugar control?
 
 Yes. Some antipsychotics (e.g., quetiapine) and mood stabilizers (e.g., valproate) are associated with weight gain and insulin resistance. Always discuss new prescriptions with both your endocrinologist and neurologist — and request baseline and follow-up glucose and lipid panels.

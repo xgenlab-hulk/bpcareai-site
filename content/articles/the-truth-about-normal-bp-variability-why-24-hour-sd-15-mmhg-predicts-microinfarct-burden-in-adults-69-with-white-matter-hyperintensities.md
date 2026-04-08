@@ -97,22 +97,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does blood pressure variability affect brain health even if my average BP is normal?
+#### Does blood pressure variability affect brain health even if my average BP is normal?
 
 Yes—it absolutely can. Research shows that high blood pressure variability and brain health are linked *independently* of average BP levels. People with “normal” averages (e.g., 120–130 mmHg systolic) but wide swings (>15 mmHg SD) still show greater white matter hyperintensity progression and microinfarct burden—especially after age 69.
 
-#### #### What is a healthy blood pressure variability range for seniors?
+#### What is a healthy blood pressure variability range for seniors?
 
 For adults 65+, a 24-hour systolic BP standard deviation (SD) under **12–13 mmHg** is considered low-risk. An SD between **13–15 mmHg** warrants monitoring, and **>15 mmHg**—particularly with existing white matter changes—is increasingly seen as a red flag for small-vessel stress. Remember: consistency matters more than perfection.
 
-#### #### Can lifestyle changes really reduce blood pressure variability and improve brain health?
+#### Can lifestyle changes really reduce blood pressure variability and improve brain health?
 
 Yes—multiple studies confirm it. Regular aerobic activity, consistent sleep timing, mindful breathing, and balanced sodium intake all improve autonomic regulation and reduce BP lability. In one 6-month trial, older adults who added daily paced breathing saw a 3.1 mmHg reduction in 24-hour systolic SD—and slower WMH growth on follow-up MRI.
 
-#### #### Is home blood pressure monitoring enough to assess variability?
+#### Is home blood pressure monitoring enough to assess variability?
 
 Not quite. While home readings offer valuable clues (especially patterns across mornings/evenings), true assessment of blood pressure variability and brain health requires **ambulatory monitoring (ABPM)**—which captures nighttime dips, morning surges, and full circadian rhythm. Home logs are excellent for spotting trends and supporting clinical decisions—but ABPM remains the gold standard.
 
-#### #### What’s the connection between white matter hyperintensities and blood pressure?
+#### What’s the connection between white matter hyperintensities and blood pressure?
 
 White matter hyperintensities (WMHs) are MRI-visible changes reflecting damage to the brain’s deep white matter—often due to chronic low-grade ischemia from small-vessel disease. Elevated and variable BP accelerates this process by straining fragile arterioles, impairing autoregulation, and promoting leakage and inflammation. In essence, WMHs are a visible “footprint” of cumulative vascular stress—including the impact of blood pressure variability.

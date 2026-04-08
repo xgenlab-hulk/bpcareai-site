@@ -71,22 +71,22 @@ Staying hydrated is one of the kindest, simplest things you can do for your hear
 
 ### FAQ
 
-#### #### Can drinking more water lower blood pressure in older adults?
+#### Can drinking more water lower blood pressure in older adults?
 
 For many adults over 50, increasing water intake *from a state of mild dehydration* can help normalize blood pressure—especially if low fluid volume was contributing to elevated readings. However, simply drinking extra water when already well-hydrated rarely causes significant BP drops. The key is consistency and personalization—not volume alone.
 
-#### #### Does drinking water and blood pressure reduction work for people with hypertension?
+#### Does drinking water and blood pressure reduction work for people with hypertension?
 
 Drinking water and blood pressure reduction is *one supportive piece* of hypertension management—not a replacement for medication or lifestyle changes like reducing sodium or increasing physical activity. In clinical studies, proper hydration helped improve BP control in about 25–30% of adults with stage 1 hypertension when combined with other evidence-based habits.
 
-#### #### How much water should I drink daily to support heart health and stable blood pressure?
+#### How much water should I drink daily to support heart health and stable blood pressure?
 
 Most healthy adults over 50 benefit from 6–8 cups (48–64 oz) of total fluids per day—but individual needs vary based on activity, climate, medications, and health conditions. A practical rule: aim for pale-yellow urine and at least 4–6 bathroom visits per day. If you’re on diuretics or have heart/kidney concerns, ask your provider for a personalized target.
 
-#### #### Can dehydration cause high blood pressure?
+#### Can dehydration cause high blood pressure?
 
 Yes—mild to moderate dehydration can trigger hormonal and vascular responses that raise systolic BP by 3–8 mm Hg, particularly in older adults. This is usually reversible with gentle rehydration, but it underscores why staying consistently hydrated matters for long-term heart health.
 
-#### #### Is it possible to drink too much water and affect blood pressure?
+#### Is it possible to drink too much water and affect blood pressure?
 
 Yes—though rare in healthy individuals, overhydration (especially in people with heart failure, kidney disease, or hyponatremia) can dilute sodium levels and cause fluid retention, potentially raising BP or straining the heart. Balance—not extremes—is the heart-healthy goal.

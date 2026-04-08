@@ -89,22 +89,22 @@ In closing, occasional dizziness when standing is understandable as we age—but
 
 ### FAQ
 
-#### #### What causes dizziness standing up orthostatic hypotension in older adults?
+#### What causes dizziness standing up orthostatic hypotension in older adults?
 
 The most common contributors include age-related decline in autonomic nervous system responsiveness, dehydration, medications (especially antihypertensives, diuretics, and antidepressants), underlying heart conditions like heart failure with preserved ejection fraction (HFpEF), and neurological conditions such as Parkinson’s disease or diabetic neuropathy.
 
-#### #### Is dizziness standing up orthostatic hypotension the same as low blood pressure?
+#### Is dizziness standing up orthostatic hypotension the same as low blood pressure?
 
 No—they’re related but distinct. “Low blood pressure” (hypotension) refers to consistently low resting BP readings, regardless of posture. *Dizziness standing up orthostatic hypotension* specifically describes a *drop in BP upon standing*, often with symptoms—even if seated BP is normal or only mildly low. Someone can have normal seated BP yet still experience orthostatic hypotension.
 
-#### #### Can dizziness standing up orthostatic hypotension be a sign of heart failure?
+#### Can dizziness standing up orthostatic hypotension be a sign of heart failure?
 
 Yes—particularly heart failure with preserved ejection fraction (HFpEF), which is common in older adults and often under-recognized. Reduced cardiac output limits the heart’s ability to compensate for postural changes. When combined with symptoms like fatigue, shortness of breath on exertion, or swollen ankles, orthostatic dizziness warrants careful cardiovascular assessment.
 
-#### #### How often should I check my blood pressure for orthostatic hypotension?
+#### How often should I check my blood pressure for orthostatic hypotension?
 
 For initial screening, check twice on separate days using the 3-minute protocol (lying → 1 min upright → 3 min upright). If results are normal and you’re asymptomatic, annual reassessment is reasonable. If symptoms persist or worsen, weekly checks for 2–3 weeks—especially at times you typically feel dizzy—can reveal patterns your doctor can interpret.
 
-#### #### Does orthostatic hypotension increase fall risk in seniors?
+#### Does orthostatic hypotension increase fall risk in seniors?
 
 Yes—studies show orthostatic hypotension is associated with a 30–50% higher risk of falls in adults over 65. Importantly, the risk rises not just from actual fainting, but from momentary instability, visual blurring, or delayed reaction time during the BP drop. Addressing it significantly reduces fall incidence.

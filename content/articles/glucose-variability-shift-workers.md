@@ -66,22 +66,22 @@ You’re not alone—and small, consistent changes truly add up. With thoughtful
 
 ### FAQ
 
-#### #### Does working nights make glucose variability shift workers worse?
+#### Does working nights make glucose variability shift workers worse?
 
 Yes—studies show night-shift workers with type 2 diabetes experience up to 2.3× greater glucose variability compared to day workers, largely due to circadian misalignment affecting insulin secretion and liver glucose output.
 
-#### #### Can meal timing really reduce glucose variability shift workers?
+#### Can meal timing really reduce glucose variability shift workers?
 
 Absolutely. A 2023 randomized trial found that shifting dinner 2.5 hours earlier reduced glucose variability by 38% in rotating-shift nurses with type 2 diabetes—without changing total calories or carb intake.
 
-#### #### What’s the safest way to use melatonin for glucose variability shift workers?
+#### What’s the safest way to use melatonin for glucose variability shift workers?
 
 Low-dose (0.3–0.5 mg), taken 60 minutes before intended sleep onset, is well-tolerated and evidence-supported. Avoid higher doses (>3 mg), which may blunt insulin response in some individuals.
 
-#### #### Is blue light exposure safe for people with diabetes?
+#### Is blue light exposure safe for people with diabetes?
 
 Yes—when used appropriately. Morning blue-enriched light (post-shift) is safe and beneficial. Just avoid it within 2 hours of your planned bedtime, as it can interfere with sleep onset.
 
-#### #### How does age affect glucose variability in shift workers?
+#### How does age affect glucose variability in shift workers?
 
 After age 50, circadian amplitude naturally declines, making it harder to adapt to schedule changes. That’s why phase-shifting strategies—like timed light and melatonin—are especially important for long-term metabolic health.

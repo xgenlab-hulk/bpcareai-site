@@ -74,22 +74,22 @@ It’s easy to feel overwhelmed by nuanced dietary science—especially when ter
 
 ### FAQ
 
-#### #### Is herbal chai vs pomegranate mocktail for atrial ectopy backed by real studies?
+#### Is herbal chai vs pomegranate mocktail for atrial ectopy backed by real studies?
 
 Yes—two 2023 pilot RCTs published in *Journal of Cardiovascular Translational Research* and *Menopause* enrolled a total of 132 postmenopausal women aged 70–85. Both used ambulatory ECG monitoring and controlled for meal composition, hydration status, and medication use. While larger confirmatory trials are underway, findings show statistically significant differences in PAC frequency and timing related to beverage temperature, carbonation, and polyphenol delivery.
 
-#### #### Can I drink pomegranate every day if I have occasional atrial ectopy?
+#### Can I drink pomegranate every day if I have occasional atrial ectopy?
 
 Yes—with modifications. Choose unsweetened, non-carbonated pomegranate juice (≤4 oz/day), serve at room temperature, and consume it *with* a balanced meal—not on an empty stomach or right after eating. Avoid pairing it with high-glycemic foods (e.g., white bread, pastries), which compound postprandial autonomic stress.
 
-#### #### Does herbal chai vs pomegranate mocktail for atrial ectopy affect blood pressure too?
+#### Does herbal chai vs pomegranate mocktail for atrial ectopy affect blood pressure too?
 
 Indirectly, yes. Warm chai may promote mild vasodilation and modest BP reduction (~3–5 mm Hg systolic) via nitric oxide modulation—especially with cinnamon and ginger. Sparkling pomegranate, particularly if high in sodium or consumed rapidly, can transiently elevate BP in salt-sensitive individuals. Monitoring both rhythm *and* BP together gives a fuller picture of cardiovascular response.
 
-#### #### Are there safer alternatives for holiday gatherings?
+#### Are there safer alternatives for holiday gatherings?
 
 Absolutely. Try warm hibiscus-ginger infusion (naturally caffeine-free, rich in quercetin), or still pomegranate-mint spritzer (sparkling water + 2 oz pomegranate + fresh mint). Avoid added sugars, artificial sweeteners (some linked to autonomic dysregulation), and excessive ice—cold shock can trigger vagal rebound and ectopy in susceptible individuals.
 
-#### #### Should I stop drinking herbal chai if I’m on blood thinners?
+#### Should I stop drinking herbal chai if I’m on blood thinners?
 
 Not necessarily—but discuss it with your clinician. While most caffeine-free chai blends don’t interfere with warfarin, some spices (e.g., large amounts of turmeric or garlic powder) may enhance anticoagulant effects. Stick to traditional chai spices (cinnamon, ginger, cardamom) in culinary amounts, and avoid concentrated extracts or supplements.

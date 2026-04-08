@@ -72,22 +72,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can low-glycemic stuffing insulin resistance ibs-c recipes really help with both blood sugar *and* constipation?
+#### Can low-glycemic stuffing insulin resistance ibs-c recipes really help with both blood sugar *and* constipation?
 
 Yes—but only when designed with dual goals in mind. Most standard “low-glycemic” recipes prioritize slow-digesting carbs but overlook fermentability and osmotic load, which matter deeply for IBS-C. The best versions use viscous, low-fermentation fibers (like psyllium or beta-glucan-rich oats) *and* include gentle prokinetics (like fennel or magnesium-rich nuts)—not just volume.
 
-#### #### Where can I find low-glycemic stuffing insulin resistance ibs-c recipes that are actually tested for older adults?
+#### Where can I find low-glycemic stuffing insulin resistance ibs-c recipes that are actually tested for older adults?
 
 Look for recipes developed by registered dietitians specializing in gastro-metabolic health—especially those citing clinical guidelines like the American College of Gastroenterology’s IBS-C management toolkit *and* the American Diabetes Association’s older-adult nutrition recommendations. Avoid generic “diabetic” or “high-fiber” blogs unless they explicitly address age-related insulin sensitivity decline *and* pelvic floor or motilin considerations.
 
-#### #### Is it safe to use psyllium in stuffing if I have IBS-C and take metformin?
+#### Is it safe to use psyllium in stuffing if I have IBS-C and take metformin?
 
 Generally, yes—but introduce it slowly (½ tsp per serving, max 2 tsp/day) and drink ≥8 oz water with each dose. Psyllium does not interfere with metformin absorption, and its low-fermentation profile makes it safer than inulin or wheat bran for IBS-C. However, if you experience increased bloating or delayed transit within 48 hours, pause and consult your provider—some individuals with slow-transit constipation benefit more from osmotic agents (e.g., magnesium citrate) than bulk formers.
 
-#### #### How does managing blood sugar during Christmas and New Year differ for someone over 60 with insulin resistance?
+#### How does managing blood sugar during Christmas and New Year differ for someone over 60 with insulin resistance?
 
 Metabolically, your liver releases more glucose overnight (due to age-related cortisol rhythm shifts), and muscle glucose uptake slows—so even moderate carb loads hit harder. Pair that with seasonal stress, disrupted sleep, and richer meals, and glucose variability increases by ~25% in adults 60–74 vs. younger adults. That’s why pairing carbs with protein/fat *and* choosing low-glycemic, high-soluble-fiber bases (like the oat or cauliflower options above) is especially protective during holiday feasting.
 
-#### #### Can I prepare low-glycemic stuffing insulin resistance ibs-c ahead of time?
+#### Can I prepare low-glycemic stuffing insulin resistance ibs-c ahead of time?
 
 Absolutely—and doing so helps! Baking stuffing a day ahead and reheating gently preserves texture and allows flavors to meld, while reducing same-day kitchen stress. Store refrigerated (≤3 days) or frozen (up to 2 months). Just avoid adding delicate herbs (like parsley or dill) until reheating—they retain freshness and volatile compounds that support digestion best when fresh.

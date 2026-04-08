@@ -42,17 +42,17 @@ Holiday heart syndrome isn’t inevitable—and research continues to affirm tha
 
 ### FAQ
 
-#### #### Does holiday heart syndrome go away with age?
+#### Does holiday heart syndrome go away with age?
 Holiday heart syndrome itself isn’t age-dependent—it’s triggered by alcohol exposure—but recovery *slows* with age due to natural changes in cardiac conduction and autonomic function. Most episodes resolve within 24 hours in younger adults, but older adults may take 48–72 hours or longer to fully restore normal rhythm.
 
-#### #### What does current research holiday heart syndrome aging say about long-term risk?
+#### What does current research holiday heart syndrome aging say about long-term risk?
 Recent longitudinal data (2024, Framingham Offspring Study) shows that adults over 55 who experience even one episode of alcohol-triggered AF have a 35% higher 10-year risk of persistent AF and a 22% increased risk of ischemic stroke—highlighting why prevention and early recognition matter.
 
-#### #### Can holiday heart syndrome happen without drinking alcohol?
+#### Can holiday heart syndrome happen without drinking alcohol?
 No—by definition, holiday heart syndrome refers specifically to acute arrhythmias precipitated by alcohol consumption. However, other triggers like sleep deprivation, high-sodium meals, or intense emotional stress can cause similar symptoms in susceptible individuals.
 
-#### #### Is there a safe amount of alcohol for people over 60?
+#### Is there a safe amount of alcohol for people over 60?
 Based on current **research holiday heart syndrome aging**, the safest approach is to limit intake to ≤1 drink/day for all adults over 60—and avoid binge patterns entirely. Even low-dose alcohol can lower the arrhythmia threshold in aging atrial tissue.
 
-#### #### How soon after drinking can holiday heart syndrome occur?
+#### How soon after drinking can holiday heart syndrome occur?
 Symptoms typically begin 12–36 hours after the last drink—often peaking on the second day—when blood alcohol levels fall and sympathetic nervous system rebound occurs. This timing explains why many people mistake it for “just a hangover.”

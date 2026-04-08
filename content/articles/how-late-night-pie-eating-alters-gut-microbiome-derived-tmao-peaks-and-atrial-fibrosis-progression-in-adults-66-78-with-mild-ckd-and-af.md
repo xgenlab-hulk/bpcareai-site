@@ -71,22 +71,22 @@ Understanding *late-night pie tmao atrial fibrosis* isn’t about adding worry t
 
 ### FAQ
 
-#### #### Does eating pie at night really affect atrial fibrosis—or is that overstated?
+#### Does eating pie at night really affect atrial fibrosis—or is that overstated?
 
 Research suggests it’s not the pie itself, but the *timing* and *context*: For older adults with mild CKD and AF, late-night consumption of choline-rich foods may contribute to elevated TMAO during periods of reduced kidney clearance. Over months, chronically elevated TMAO has been associated with greater atrial stiffness in imaging studies—but this is a slow, modifiable process, not an immediate trigger.
 
-#### #### Can late-night pie tmao atrial fibrosis be reversed with lifestyle changes?
+#### Can late-night pie tmao atrial fibrosis be reversed with lifestyle changes?
 
 Yes—studies show that dietary timing shifts, increased fiber intake, and aerobic activity (even walking 30 minutes most days) can reduce TMAO by 15–30% within 8–12 weeks in older adults with mild CKD. Atrial tissue also demonstrates measurable plasticity, especially when rhythm control and kidney health are supported.
 
-#### #### Is “late-night pie tmao atrial fibrosis” the same as holiday heart syndrome?
+#### Is “late-night pie tmao atrial fibrosis” the same as holiday heart syndrome?
 
 Not exactly. Holiday heart syndrome typically refers to acute alcohol-induced AF episodes—often in otherwise healthy people. *Late-night pie tmao atrial fibrosis*, by contrast, describes a slower, microbiome- and kidney-mediated pathway to structural change—particularly relevant for those with preexisting CKD and AF. Both highlight how seasonal habits can interact with physiology—but they involve different mechanisms and timelines.
 
-#### #### What’s the safest time to enjoy dessert if I have AF and mild kidney disease?
+#### What’s the safest time to enjoy dessert if I have AF and mild kidney disease?
 
 Based on circadian kidney function data, finishing dessert by 7:30–8 p.m. aligns best with peak nocturnal filtration windows. Even shifting from 10 p.m. to 8:30 p.m. has shown measurable reductions in overnight TMAO excursions in pilot studies with adults aged 65+.
 
-#### #### Do all pies affect TMAO the same way?
+#### Do all pies affect TMAO the same way?
 
 No. Pies high in eggs, heavy cream, or whey protein (e.g., pumpkin pie with evaporated milk and egg custard base) provide more choline and L-carnitine—the precursors to TMAO. Fruit-forward versions with whole-grain crusts and minimal dairy tend to be gentler on TMAO kinetics—especially when enjoyed earlier in the evening.

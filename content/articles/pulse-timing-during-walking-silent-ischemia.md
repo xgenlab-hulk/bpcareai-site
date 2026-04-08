@@ -91,17 +91,17 @@ Heart health isn’t only measured in clinic visits or annual tests—it lives i
 
 ### FAQ
 
-#### #### What is pulse timing during walking silent ischemia—and why is it different from regular heart rate monitoring?
+#### What is pulse timing during walking silent ischemia—and why is it different from regular heart rate monitoring?
 Pulse timing during walking silent ischemia refers to checking pulse waveform characteristics (not just rate) at precise, science-identified moments *during* walking—such as 22 seconds after turning—when transient drops in coronary blood flow may alter arterial pulse shape. Unlike basic heart rate monitoring, this method detects subtle hemodynamic shifts linked to silent ischemia that routine HR tracking overlooks.
 
-#### #### Can I use my smartwatch to track pulse timing during walking silent ischemia?
+#### Can I use my smartwatch to track pulse timing during walking silent ischemia?
 Some FDA-cleared smartwatches with PPG waveform export (not just HR summary) can support this practice—but consumer-grade devices vary widely in accuracy during motion. Look for models validated for *ambulatory pulse contour analysis*, not just resting heart rate. Always confirm interpretation with your clinician.
 
-#### #### How often should I check pulse timing during walking silent ischemia if I have claudication?
+#### How often should I check pulse timing during walking silent ischemia if I have claudication?
 Start with 2–3 supervised walks per week, focusing on 2–3 high-yield windows (e.g., post-turn, pavement change). Once familiar, aim for consistency—not frequency. Data quality matters more than quantity: one well-documented walk per week is more valuable than five rushed attempts.
 
-#### #### Does pulse timing during walking silent ischemia replace stress testing?
+#### Does pulse timing during walking silent ischemia replace stress testing?
 No. It complements stress testing by capturing real-world physiological responses missed in lab settings. Stress tests assess global capacity; pulse timing during walking silent ischemia reveals micro-temporal vulnerability during functional activity.
 
-#### #### What other conditions besides claudication make pulse timing during walking important?
+#### What other conditions besides claudication make pulse timing during walking important?
 Adults with diabetes, chronic kidney disease, left ventricular hypertrophy, or autonomic neuropathy benefit greatly—since these conditions increase silent ischemia risk and reduce symptom perception. Early detection via pulse timing supports timely intervention and personalized activity planning.

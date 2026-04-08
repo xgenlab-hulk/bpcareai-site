@@ -66,17 +66,17 @@ In short, holiday stress and atrial ectopy aren’t reasons to step back from th
 
 ### FAQ  
 
-#### #### Can holiday stress and atrial ectopy happen without drinking alcohol?  
+#### Can holiday stress and atrial ectopy happen without drinking alcohol?  
 Yes. While “holiday heart syndrome” was first described in relation to binge drinking, newer clinical observations confirm that non-alcoholic stressors—including sleep loss, emotional intensity, and physical strain—can also contribute to transient atrial ectopy in older adults.
 
-#### #### Is holiday stress and atrial ectopy dangerous for seniors?  
+#### Is holiday stress and atrial ectopy dangerous for seniors?  
 For most adults over 60, occasional atrial ectopy remains benign—especially when isolated and asymptomatic. However, if episodes become frequent (e.g., >30 per hour on a Holter monitor) or occur alongside symptoms like lightheadedness, evaluation helps rule out underlying contributors such as electrolyte shifts or undiagnosed sleep apnea.
 
-#### #### How does wrapping gifts affect blood pressure?  
+#### How does wrapping gifts affect blood pressure?  
 Repetitive motions, sustained postures, and time pressure can temporarily raise systolic BP by 10–20 mm Hg in sensitive individuals—enough to influence autonomic signaling and atrial tissue irritability, particularly in those with early vascular stiffness or reduced HRV.
 
-#### #### What’s the safest way to enjoy holiday activities with a history of PACs?  
+#### What’s the safest way to enjoy holiday activities with a history of PACs?  
 Prioritize rhythm over speed: wrap earlier in the day, sit rather than stand, and build in rest pauses. Staying hydrated (aim for ~1.5 L water daily) and maintaining consistent potassium/magnesium intake (via foods like bananas, spinach, and almonds) also supports electrical stability.
 
-#### #### Does cold weather worsen holiday stress and atrial ectopy?  
+#### Does cold weather worsen holiday stress and atrial ectopy?  
 Cold exposure can elevate sympathetic tone and peripheral resistance—potentially amplifying the effects of other stressors. Dress warmly indoors, avoid sudden transitions from warm to cold spaces, and consider using a humidifier to ease respiratory effort, which indirectly supports autonomic balance.

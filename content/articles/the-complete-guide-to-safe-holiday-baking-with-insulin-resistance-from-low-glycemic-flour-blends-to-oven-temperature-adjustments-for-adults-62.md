@@ -56,22 +56,22 @@ If you're unsure, talking to your doctor is always a good idea. With thoughtful 
 
 ### FAQ
 
-#### #### Can I use coconut flour for safe holiday baking insulin resistance?
+#### Can I use coconut flour for safe holiday baking insulin resistance?
 
 Yes—but cautiously. Coconut flour absorbs up to 4x its weight in liquid, so it’s best used in small amounts (¼ cup max per recipe) and paired with eggs or psyllium to prevent dryness. It’s high in fiber but low in resistant starch, so combine it with cooled cooked legumes or green banana flour for balanced glucose response.
 
-#### #### What are the best low-glycemic flours for seniors with insulin resistance?
+#### What are the best low-glycemic flours for seniors with insulin resistance?
 
 Top options include teff flour (naturally rich in resistant starch when cooled), barley flour (contains beta-glucan), and lentil flour (high in protein + fiber). Always choose whole-grain, stone-ground versions—and remember: cooling baked goods enhances their low-glycemic effect.
 
-#### #### How does oven temperature affect blood sugar during safe holiday baking insulin resistance?
+#### How does oven temperature affect blood sugar during safe holiday baking insulin resistance?
 
 Lower temperatures (325–350°F) promote slower, more even starch transformation—preserving more resistant starch and reducing the formation of advanced glycation end-products (AGEs), which are linked to vascular stiffness. Higher heat (≥375°F) can rapidly break down starch structure, leading to quicker glucose release.
 
-#### #### Do spices like cinnamon or nutmeg help with blood sugar control during holiday baking?
+#### Do spices like cinnamon or nutmeg help with blood sugar control during holiday baking?
 
 Yes—cinnamon contains cinnamaldehyde, shown in studies to improve insulin sensitivity modestly (≈10–15% effect in some trials). While not a substitute for medical care, adding ½–1 tsp per batch is a flavorful, evidence-informed boost.
 
-#### #### Is it safe to bake with sugar substitutes like erythritol if I have insulin resistance and high BP?
+#### Is it safe to bake with sugar substitutes like erythritol if I have insulin resistance and high BP?
 
 Erythritol is generally well-tolerated and doesn’t raise blood glucose—but recent observational data suggests very high intake *may* be associated with increased cardiovascular risk in certain populations. For most seniors, moderate use (≤10 g/day) is considered safe. Prioritize whole-food sweetness first—and always pair treats with protein or healthy fat (e.g., a slice of spiced pear bread with a handful of walnuts).

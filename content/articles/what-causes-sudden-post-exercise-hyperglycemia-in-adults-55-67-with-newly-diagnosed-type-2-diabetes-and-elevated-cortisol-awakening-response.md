@@ -92,22 +92,22 @@ What you’re experiencing isn’t a sign that something’s broken beyond repai
 
 ### FAQ
 
-#### #### Why does my blood sugar go up after walking if I have type 2 diabetes?
+#### Why does my blood sugar go up after walking if I have type 2 diabetes?
 
 Walking *should* lower blood sugar—but in early-stage type 2 diabetes, especially with elevated morning cortisol, your liver may release extra glucose in response to activity. This is a temporary, hormonally driven effect—not a sign that walking is harmful. It often improves with consistent movement and timing adjustments.
 
-#### #### Is post-exercise hyperglycemia cortisol diabetes dangerous?
+#### Is post-exercise hyperglycemia cortisol diabetes dangerous?
 
 Not typically. These short-term spikes (lasting <90 minutes) don’t significantly impact long-term HbA1c and aren’t linked to acute complications. However, if they happen frequently *and* are accompanied by symptoms like fatigue or thirst, it’s wise to discuss them with your care team to rule out other contributors.
 
-#### #### Can high cortisol cause high blood sugar after exercise?
+#### Can high cortisol cause high blood sugar after exercise?
 
 Yes—especially in the morning. Elevated cortisol increases hepatic glucose production and reduces insulin sensitivity in muscle and fat tissue. When combined with physical activity, this can temporarily override glucose uptake, leading to **post-exercise hyperglycemia cortisol diabetes**—particularly in adults newly diagnosed with type 2 diabetes.
 
-#### #### What’s the best time of day to exercise with type 2 diabetes and high cortisol?
+#### What’s the best time of day to exercise with type 2 diabetes and high cortisol?
 
 Late morning (after 10 a.m.) or early afternoon (1–4 p.m.) tends to align better with lower cortisol and higher insulin sensitivity for most adults over 55. Avoid intense or prolonged activity within 90 minutes of waking—unless your provider has guided you otherwise based on your personal pattern.
 
-#### #### Does post-exercise hyperglycemia cortisol diabetes mean my diabetes is getting worse?
+#### Does post-exercise hyperglycemia cortisol diabetes mean my diabetes is getting worse?
 
 Not necessarily. It often reflects early-stage hormonal adaptation—not disease progression. In fact, noticing and responding to this pattern is a sign you’re engaging thoughtfully with your health. Many people see improvement as muscle mass increases, sleep deepens, and stress management becomes part of their routine.

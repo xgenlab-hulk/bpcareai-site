@@ -57,21 +57,21 @@ In every bite you prepare, you’re affirming that care and celebration aren’t
 
 ### FAQ  
 
-#### #### How can seniors with heart failure safely bring food to family potlucks?  
+#### How can seniors with heart failure safely bring food to family potlucks?  
 Absolutely—they can! Focus on fresh, whole ingredients, skip added salt and high-sodium condiments, and label dishes clearly. Dishes like quinoa-stuffed peppers, baked sweet potato wedges, or white bean & herb dip are flavorful, familiar, and heart-supportive. Planning ahead makes it simple—and your contribution often inspires others to try gentler, more mindful eating too.
 
-#### #### What are easy, low-sodium potluck contributions heart failure seniors can prepare in under 30 minutes?  
+#### What are easy, low-sodium potluck contributions heart failure seniors can prepare in under 30 minutes?  
 Try:  
 - Cucumber-dill yogurt dip (use plain unsalted Greek yogurt + fresh dill + lemon zest)  
 - Roasted cherry tomatoes & basil on whole-grain crostini  
 - Mixed greens with sliced apple, walnuts, and balsamic drizzle  
 All require minimal prep, contain zero added sodium, and travel well.
 
-#### #### Can I still enjoy dessert at a family gathering with heart failure?  
+#### Can I still enjoy dessert at a family gathering with heart failure?  
 Yes—with thoughtful tweaks. Opt for fruit-based treats like baked apples with cinnamon, or a small portion of dark chocolate (70%+ cacao) with berries. Avoid desserts with processed sugars and high sodium (e.g., store-bought pies, cookies with baking soda). Portion control matters most—enjoy one small, satisfying bite, not a large serving out of habit.
 
-#### #### Is it okay to decline certain dishes at a potluck when managing heart failure?  
+#### Is it okay to decline certain dishes at a potluck when managing heart failure?  
 Completely okay—and wise. A polite, light-hearted phrase like *“I’m savoring my lentil salad today—so good!”* sets boundaries without apology. You’re honoring your health, not rejecting hospitality.
 
-#### #### Do heart failure medications affect how I should approach potluck contributions heart failure seniors?  
+#### Do heart failure medications affect how I should approach potluck contributions heart failure seniors?  
 Some medications—like ACE inhibitors or ARBs—can interact with high-potassium foods (e.g., bananas, spinach, beans), so it’s helpful to review your diet with your pharmacist or cardiologist. But for most people, potassium-rich whole foods are beneficial *unless* lab values indicate otherwise. Your care team can help personalize guidance.

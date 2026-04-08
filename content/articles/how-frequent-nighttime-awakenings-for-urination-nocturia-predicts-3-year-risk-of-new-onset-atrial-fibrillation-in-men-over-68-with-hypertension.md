@@ -100,22 +100,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does nocturia cause atrial fibrillation—or is it just a warning sign?
+#### Does nocturia cause atrial fibrillation—or is it just a warning sign?
 
 Nocturia itself doesn’t *cause* AFib. Rather, it’s a clinical marker reflecting underlying processes—like sympathetic nervous system surges, nocturnal fluid shifts, and atrial stretch—that *do* contribute to AFib development over time. Think of it like smoke indicating fire: the smoke isn’t the problem, but it tells you where to look.
 
-#### #### How many times is too many? What’s the cutoff for nocturia and atrial fibrillation risk?
+#### How many times is too many? What’s the cutoff for nocturia and atrial fibrillation risk?
 
 Studies consistently point to **two or more nighttime voids per night**, occurring regularly over several weeks, as the threshold linked to significantly higher 3-year AFib risk in older men with hypertension. Occasional awakenings (e.g., once every few nights) aren’t considered clinically concerning in this context.
 
-#### #### Is nocturia and atrial fibrillation risk the same for women?
+#### Is nocturia and atrial fibrillation risk the same for women?
 
 Most current evidence on this specific link comes from male cohorts—largely due to higher prevalence of both hypertension-driven nocturia and AFib in older men. Women experience nocturia frequently (often from pelvic floor changes or menopause-related shifts), but the mechanistic link to AFib appears less pronounced—though still worthy of evaluation, especially with other risk factors.
 
-#### #### Can treating high blood pressure reduce nocturia—and lower AFib risk?
+#### Can treating high blood pressure reduce nocturia—and lower AFib risk?
 
 Yes. Optimizing BP control—especially achieving consistent nighttime dipping (a 10–20% drop in systolic pressure while sleeping)—has been shown to reduce nocturnal urine volume by up to 25% and slow atrial remodeling. ACE inhibitors and ARBs may offer added benefit here, given their anti-fibrotic properties.
 
-#### #### What tests might my doctor recommend if I have frequent nocturia and hypertension?
+#### What tests might my doctor recommend if I have frequent nocturia and hypertension?
 
 Depending on your history, your doctor may suggest: a 7-day bladder diary, home BP monitoring (with emphasis on pre-sleep and morning readings), an ECG, a 24-hour Holter or event monitor, and possibly a basic kidney panel or sleep assessment. None are invasive—and many begin with simple conversation and observation.

@@ -76,17 +76,17 @@ Holiday meals are meant to nourish more than just the body—they feed connectio
 
 ### FAQ
 
-#### #### Is bloating after holiday meals seniors a sign of heart problems?
+#### Is bloating after holiday meals seniors a sign of heart problems?
 Sometimes—yes. In older women, bloating that comes with swelling, weight gain, or breathing changes can reflect fluid buildup from early heart failure. It’s rarely the *only* sign, but it’s an important clue when combined with others.
 
-#### #### Why do I get bloated after holiday meals seniors but not other times?
+#### Why do I get bloated after holiday meals seniors but not other times?
 Holiday meals tend to be higher in sodium, fat, and portion size—all of which challenge fluid balance, especially if your kidneys or heart are working harder than usual. Your body may handle everyday meals just fine, but a holiday spread can reveal subtle changes in how well systems are cooperating.
 
-#### #### Can medications cause bloating after holiday meals seniors?
+#### Can medications cause bloating after holiday meals seniors?
 Absolutely. Common prescriptions like calcium channel blockers (e.g., amlodipine), NSAIDs, and even some antidepressants can contribute to fluid retention—especially when paired with high-sodium foods. Always review your meds with your pharmacist or doctor before major dietary shifts.
 
-#### #### What’s the difference between bloating and abdominal swelling?
+#### What’s the difference between bloating and abdominal swelling?
 Bloating usually feels like internal pressure or gassiness—often relieved by burping or passing gas. Abdominal swelling (distension) feels firmer, may visibly enlarge your waistline, and doesn’t ease with typical digestive relief. Swelling that’s firm, symmetrical, and accompanied by ankle puffiness points more toward fluid retention.
 
-#### #### Does bloating after holiday meals seniors go away on its own?
+#### Does bloating after holiday meals seniors go away on its own?
 Often yes—if it’s tied to a single high-sodium meal and your heart/kidneys are functioning well. But if it lingers beyond 48–72 hours or keeps returning with similar meals, it’s wise to explore underlying causes with your healthcare provider.

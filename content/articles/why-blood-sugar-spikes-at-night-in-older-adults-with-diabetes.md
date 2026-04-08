@@ -61,22 +61,22 @@ Nighttime blood sugar spikes in elderly diabetics are rarely a sign of failure�
 
 ### FAQ
 
-#### #### Why do elderly diabetics get high blood sugar at night?
+#### Why do elderly diabetics get high blood sugar at night?
 
 Several age-related factors contribute—including natural hormonal surges (dawn phenomenon), reduced insulin sensitivity overnight, slower medication metabolism, and sometimes undetected nighttime lows triggering rebound highs (Somogyi effect).
 
-#### #### What causes nighttime blood sugar spikes in elderly diabetics despite eating well?
+#### What causes nighttime blood sugar spikes in elderly diabetics despite eating well?
 
 Even with balanced meals, older adults may experience delayed gastric emptying, milder nocturnal hypoglycemia (especially on certain medications), or changes in liver glucose output—all of which can raise morning readings independent of diet.
 
-#### #### How can I prevent nighttime blood sugar spikes in elderly diabetics naturally?
+#### How can I prevent nighttime blood sugar spikes in elderly diabetics naturally?
 
 Focus on consistent evening routines: moderate carb intake at dinner, light activity afterward, staying hydrated, and prioritizing quality sleep. Avoid alcohol late at night, and discuss medication timing with your provider—sometimes a small adjustment makes a big difference.
 
-#### #### Is a blood sugar of 160 mg/dL at bedtime too high for an older adult?
+#### Is a blood sugar of 160 mg/dL at bedtime too high for an older adult?
 
 Not necessarily—but consistency matters more than a single number. For many older adults, a target range of 110–150 mg/dL at bedtime is reasonable. Values consistently above 180 mg/dL may suggest need for dietary or medication review.
 
-#### #### Does high blood pressure affect nighttime blood sugar spikes?
+#### Does high blood pressure affect nighttime blood sugar spikes?
 
 While hypertension and diabetes often coexist, high BP itself doesn’t directly cause glucose spikes—but shared risk factors (like inflammation or autonomic nervous system changes) can influence both. Managing both conditions supports overall metabolic health.

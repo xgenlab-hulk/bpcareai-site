@@ -79,17 +79,17 @@ Walking each day is one of the kindest, most powerful things you can do for your
 
 ### FAQ  
 
-#### #### Why does my blood sugar go up when I walk in the morning but not later in the day?  
+#### Why does my blood sugar go up when I walk in the morning but not later in the day?  
 That’s likely due to the dawn phenomenon—your body’s natural cortisol surge between 4–8 a.m. boosts liver glucose output. Later in the day, cortisol drops, insulin action improves, and muscles are more glucose-responsive. This timing effect is especially noticeable in adults over 66.
 
-#### #### Can a morning walk raise blood glucose seniors even if they’re not on insulin?  
+#### Can a morning walk raise blood glucose seniors even if they’re not on insulin?  
 Yes—it’s less common, but possible. Older adults with significant insulin resistance, prediabetes, or early-stage type 2 diabetes may experience this due to reduced insulin secretion and heightened stress-hormone sensitivity—even without insulin therapy.
 
-#### #### Is it safe to keep walking if my morning walk raises blood glucose seniors?  
+#### Is it safe to keep walking if my morning walk raises blood glucose seniors?  
 Absolutely—*as long as you’re not experiencing symptoms like confusion or palpitations*. Walking remains deeply beneficial. The goal isn’t to stop—it’s to time it well, hydrate, and possibly add a small pre-walk carb. Always discuss persistent spikes with your care team.
 
-#### #### Does walking in the morning affect blood pressure differently than other times?  
+#### Does walking in the morning affect blood pressure differently than other times?  
 Not directly—but sustained high glucose can gradually impact vascular health. Most seniors see a modest *drop* in systolic BP (3–5 mm Hg) after walking, regardless of time. However, if your glucose spikes sharply *and* you feel lightheaded, check both glucose *and* BP to rule out orthostatic changes or dehydration.
 
-#### #### What’s the best time to walk for someone over 65 with type 2 diabetes?  
+#### What’s the best time to walk for someone over 65 with type 2 diabetes?  
 Research points to 9:30 a.m.–12 p.m. as the metabolic “sweet spot” for most: cortisol has peaked and begun declining, insulin sensitivity is higher, and muscle glucose uptake is optimized. Start with a 10-minute test walk at 10 a.m. and track your response for 3 days.

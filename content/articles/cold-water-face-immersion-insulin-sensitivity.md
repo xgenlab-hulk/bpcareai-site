@@ -76,22 +76,22 @@ Exploring tools like cold-water face immersion insulin sensitivity isn’t about
 
 ### FAQ
 
-#### #### Does cold-water face immersion insulin sensitivity work for people over 70?
+#### Does cold-water face immersion insulin sensitivity work for people over 70?
 
 Yes—studies including participants up to age 82 show measurable vagal activation and modest postprandial glucose improvements, *but only when protocols are individually adapted* (e.g., shorter duration, warmer water, seated position). Effect size tends to be ~15–20% smaller than in younger cohorts, emphasizing the need for patience and personalization.
 
-#### #### Can cold-water face immersion insulin sensitivity replace my diabetes medication?
+#### Can cold-water face immersion insulin sensitivity replace my diabetes medication?
 
 No. This technique may complement standard care—including metformin, GLP-1 agonists, or insulin—by supporting more efficient glucose handling, but it does *not* lower fasting glucose or substitute for pharmacologic insulin action. Always discuss adjustments to your treatment plan with your endocrinologist or primary care provider.
 
-#### #### Is cold-water face immersion safe if I have high blood pressure?
+#### Is cold-water face immersion safe if I have high blood pressure?
 
 Generally yes—if your BP is well-controlled (e.g., consistently <140/90 mm Hg) and you avoid breath-holding or sudden head movements. However, acute BP drops *can* occur during immersion, so starting with very brief, seated sessions and monitoring closely is essential. Those with resistant hypertension or orthostatic hypotension should seek clearance first.
 
-#### #### What’s the best water temperature for cold-water face immersion insulin sensitivity?
+#### What’s the best water temperature for cold-water face immersion insulin sensitivity?
 
 Research points to 10–15°C (50–59°F) as the optimal range—cool enough to activate trigeminal nerve endings without triggering excessive sympathetic rebound or discomfort. Avoid ice water (<5°C), which may provoke vasoconstriction and blunt the desired vagal effect.
 
-#### #### Does splashing cold water on my face do the same thing as full immersion?
+#### Does splashing cold water on my face do the same thing as full immersion?
 
 Not quite. Brief splashes provide minimal trigeminal stimulation and little sustained vagal engagement. For measurable effects on insulin sensitivity, you need *continuous, gentle contact* over the ophthalmic and maxillary branches of the trigeminal nerve—best achieved with a soaked cloth held steadily for at least 60 seconds.

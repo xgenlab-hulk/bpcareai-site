@@ -46,22 +46,22 @@ In summary, choosing between tart cherry juice and melatonin isn’t about picki
 
 ### FAQ
 
-#### #### Is tart cherry juice as effective as melatonin for lowering blood pressure at night?
+#### Is tart cherry juice as effective as melatonin for lowering blood pressure at night?
 
 Research suggests tart cherry juice may offer more reliable support for nocturnal systolic BP dipping than standard 1 mg melatonin — particularly in adults 64–80 with non-dipping patterns. While melatonin primarily targets sleep onset, tart cherry juice influences nitric oxide, inflammation, and vagal tone, contributing to smoother nighttime BP declines.
 
-#### #### Can I take tart cherry juice and melatonin together for better blood pressure control?
+#### Can I take tart cherry juice and melatonin together for better blood pressure control?
 
 Combining them hasn’t been well studied for BP outcomes. Because both affect melatonin pathways, there’s potential for additive sedation or unpredictable autonomic effects — especially in older adults with polypharmacy. Always consult your healthcare provider before combining.
 
-#### #### What’s the best time to drink tart cherry juice for blood pressure and sleep benefits?
+#### What’s the best time to drink tart cherry juice for blood pressure and sleep benefits?
 
 Most studies administer 8 oz of unsweetened tart cherry juice 60 minutes before bedtime. This timing aligns peak anthocyanin absorption and endogenous melatonin support with the natural pre-sleep rise in vagal tone.
 
-#### #### Does tart cherry juice vs melatonin for blood pressure matter more for people over 70?
+#### Does tart cherry juice vs melatonin for blood pressure matter more for people over 70?
 
 Yes — age-related declines in melatonin production, endothelial function, and baroreflex sensitivity mean interventions that support multiple pathways (like tart cherry juice) may offer broader cardiovascular benefits than single-target agents like melatonin in adults over 70.
 
-#### #### Are there side effects of tart cherry juice or melatonin I should watch for?
+#### Are there side effects of tart cherry juice or melatonin I should watch for?
 
 Tart cherry juice is generally well tolerated, though high intake may cause mild GI upset or interact with blood thinners (due to quercetin content). Melatonin may cause next-day drowsiness, vivid dreams, or — rarely — transient increases in BP in sensitive individuals. Monitor how you feel and report changes to your care team.

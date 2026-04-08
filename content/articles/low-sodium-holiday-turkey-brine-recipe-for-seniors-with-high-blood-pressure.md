@@ -86,22 +86,22 @@ Your holiday table doesn’t need to be a compromise between joy and health. Wit
 
 ### FAQ
 
-#### #### Is a low-sodium turkey brine for seniors safe for people on blood pressure medication?
+#### Is a low-sodium turkey brine for seniors safe for people on blood pressure medication?
 
 Yes—when made without added salt or high-sodium ingredients, a low-sodium turkey brine for seniors is generally safe and supportive for those taking antihypertensive medications like beta-blockers, ACE inhibitors, or diuretics. However, always discuss major dietary changes with your prescribing clinician, especially if you’re managing heart failure or kidney disease.
 
-#### #### Can I use this low-sodium turkey brine for seniors with a frozen turkey?
+#### Can I use this low-sodium turkey brine for seniors with a frozen turkey?
 
 It’s best to fully thaw your turkey in the refrigerator first (allow ~24 hours per 4–5 lbs). Never brine a partially frozen bird—the outer layers may absorb too much liquid while the center remains icy, increasing food safety risks. Once fully thawed and patted dry, proceed with the brine as directed.
 
-#### #### How does a low-sodium turkey brine for seniors compare to a regular brine in terms of taste and texture?
+#### How does a low-sodium turkey brine for seniors compare to a regular brine in terms of taste and texture?
 
 Many families report *no noticeable difference* in tenderness or richness—just cleaner, brighter flavor notes from the citrus and herbs. Without salt’s water-retention effect, the meat stays juicy *without* feeling “spongy.” Most find it more refreshing and easier to digest.
 
-#### #### Does rinsing the turkey after brining remove sodium?
+#### Does rinsing the turkey after brining remove sodium?
 
 Since this recipe contains *zero added salt*, rinsing isn’t necessary for sodium reduction—but it’s still wise to rinse and pat dry to remove surface herbs and ensure even browning. Just be sure to sanitize your sink and tools afterward.
 
-#### #### Are there other holiday dishes I should adjust for heart health?
+#### Are there other holiday dishes I should adjust for heart health?
 
 Absolutely. Try swapping regular stuffing for one made with unsalted nuts, dried fruit, and whole-grain bread; use olive oil instead of butter for roasting; and serve cranberry sauce made with orange juice and a touch of maple syrup instead of refined sugar. Small shifts add up to big benefits—especially when enjoyed mindfully.

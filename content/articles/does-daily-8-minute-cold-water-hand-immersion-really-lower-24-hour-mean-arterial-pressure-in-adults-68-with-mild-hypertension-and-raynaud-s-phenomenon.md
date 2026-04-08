@@ -92,17 +92,17 @@ If you're unsure, talking to your doctor is always a good idea—especially befo
 
 ### FAQ
 
-#### #### Does cold water immersion lower blood pressure in people with Raynaud’s?
+#### Does cold water immersion lower blood pressure in people with Raynaud’s?
 Yes—studies show that *cold water immersion blood pressure raynauds* can lead to modest reductions in 24-hour mean arterial pressure in adults aged 68+ with mild hypertension and Raynaud’s, when done safely (15–17°C water, 8 minutes daily). The mechanism involves vagal activation—not peripheral vasoconstriction alone.
 
-#### #### Is cold water immersion safe for high blood pressure and Raynaud’s?
+#### Is cold water immersion safe for high blood pressure and Raynaud’s?
 It can be safe—and even beneficial—for many adults with mild hypertension and Raynaud’s, *provided* water temperature stays between 15–17°C, duration is limited to 8 minutes, and it’s avoided during active attacks. Always discuss with your healthcare provider first, particularly if you have other cardiovascular conditions.
 
-#### #### Can cold therapy raise blood pressure instead of lowering it?
+#### Can cold therapy raise blood pressure instead of lowering it?
 It can—if the cold is too intense (<12°C), too prolonged (>12 minutes), or applied during an active Raynaud’s episode. Those scenarios may trigger a stronger sympathetic response, leading to transient BP elevation. That’s why adherence to safe thresholds is essential for *cold water immersion blood pressure raynauds* to work as intended.
 
-#### #### What’s the best time of day to do cold hand immersion?
+#### What’s the best time of day to do cold hand immersion?
 Morning is often ideal—before caffeine or major activity—because it aligns with natural circadian rhythms and allows time to observe effects on daytime BP patterns. However, consistency matters more than timing; choose a window you can sustain daily.
 
-#### #### Do I need special equipment for cold water immersion?
+#### Do I need special equipment for cold water immersion?
 No. A standard kitchen bowl, tap water, and optionally a thermometer (to verify 15–17°C) are all that’s needed. Avoid ice baths, cold showers, or full-body immersion—those aren’t part of the studied protocol and carry different risks for this population.

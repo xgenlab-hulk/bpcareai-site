@@ -62,22 +62,22 @@ You’re not alone in wanting to care for your health in ways that honor both sc
 
 ### FAQ
 
-#### #### Can berberine worsen liver fibrosis in older adults already on metformin?
+#### Can berberine worsen liver fibrosis in older adults already on metformin?
 
 Current evidence doesn’t show berberine causing progression of fibrosis—especially at typical doses (500–1000 mg/day). In fact, some studies suggest berberine may support liver health by reducing inflammation and insulin resistance. However, in elderly individuals with existing fibrosis, close monitoring of ALT, AST, and FibroScan® is essential to confirm stability.
 
-#### #### Is berberine and metformin in elderly with liver fibrosis safe if my ALT is normal?
+#### Is berberine and metformin in elderly with liver fibrosis safe if my ALT is normal?
 
 “Normal” ALT doesn’t guarantee absence of fibrotic activity—especially in aging livers. A normal ALT with rising GGT or a FibroScan® value above 7.0 kPa warrants cautious introduction and follow-up. Context matters more than a single number.
 
-#### #### Does berberine affect how metformin works for blood sugar control?
+#### Does berberine affect how metformin works for blood sugar control?
 
 Berberine may enhance glucose-lowering effects—similar to metformin—by activating AMPK. This synergy can be helpful, but also increases the chance of hypoglycemia if doses aren’t adjusted. Monitor fasting and post-meal glucose closely during the first 4 weeks.
 
-#### #### Should I stop metformin before starting berberine?
+#### Should I stop metformin before starting berberine?
 
 No—there’s no need to discontinue metformin unless advised by your doctor. Instead, introduce berberine gradually and monitor glucose and liver markers together.
 
-#### #### Are there alternatives to berberine for blood sugar support in mild liver fibrosis?
+#### Are there alternatives to berberine for blood sugar support in mild liver fibrosis?
 
 Yes—lifestyle-first approaches like Mediterranean-style eating, regular gentle movement (e.g., walking 30 minutes most days), and timed protein intake often provide meaningful metabolic support without added hepatic processing load.

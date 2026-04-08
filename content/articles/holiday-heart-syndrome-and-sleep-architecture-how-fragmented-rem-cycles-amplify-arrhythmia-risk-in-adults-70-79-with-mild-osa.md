@@ -84,17 +84,17 @@ Understanding *sleep architecture holiday heart syndrome oSA* empowers you to ce
 
 ### FAQ
 
-#### #### What is holiday heart syndrome prevention for seniors with sleep apnea?  
+#### What is holiday heart syndrome prevention for seniors with sleep apnea?  
 Holiday heart syndrome prevention for seniors with sleep apnea focuses on reducing alcohol-related cardiac stress during vulnerable sleep windows — especially REM — while optimizing breathing stability. Key steps include avoiding alcohol 4 hours before bed, maintaining side-sleeping posture, staying hydrated, and using rhythm-monitoring tools if advised. Since mild OSA increases susceptibility even to small amounts of alcohol, prevention centers on timing and consistency, not just quantity.
 
-#### #### How does sleep architecture holiday heart syndrome oSA affect older adults?  
+#### How does sleep architecture holiday heart syndrome oSA affect older adults?  
 In adults 70–79, age-related declines in REM continuity combine with mild OSA to create unstable autonomic control during sleep. Fragmented REM leads to erratic vagal surges, which — when paired with alcohol — lower the threshold for atrial fibrillation. This *sleep architecture holiday heart syndrome oSA* interaction explains why seemingly modest holiday behaviors can trigger clinically significant arrhythmias in this population.
 
-#### #### Can mild sleep apnea cause holiday heart syndrome?  
+#### Can mild sleep apnea cause holiday heart syndrome?  
 Yes — mild OSA (AHI 5–14) is strongly associated with holiday heart syndrome, particularly in adults over 70. It’s not the apnea alone, but how it fragments REM sleep and amplifies the pro-arrhythmic effects of alcohol on cardiac electrophysiology. Studies confirm that mild OSA doubles the risk of alcohol-triggered AF compared to those without OSA — underscoring the importance of screening and tailored prevention.
 
-#### #### Is holiday heart syndrome reversible?  
+#### Is holiday heart syndrome reversible?  
 In most cases, yes — especially when detected early and linked to modifiable triggers like timing and amount of alcohol, sleep position, or dehydration. Nocturnal AF episodes in otherwise healthy older adults often resolve within 24–48 hours with rest and abstinence. However, repeated episodes may indicate underlying vulnerability that benefits from evaluation for OSA, hypertension, or silent structural heart changes.
 
-#### #### What are the best sleep habits to prevent holiday heart syndrome?  
+#### What are the best sleep habits to prevent holiday heart syndrome?  
 Consistency is key: go to bed and wake at similar times, avoid screens 1 hour before bed, keep the bedroom cool and dark, and reserve the bed for sleep only. For those with OSA, adding humidified air, nasal dilators, or positional support can improve REM stability. Most importantly — protect the 2–5 a.m. window: no alcohol, caffeine, or heavy meals during this high-risk REM-dense period.

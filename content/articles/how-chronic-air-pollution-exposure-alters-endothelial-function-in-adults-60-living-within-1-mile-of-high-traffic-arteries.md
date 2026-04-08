@@ -74,17 +74,17 @@ Understanding how air pollution endothelial function seniors relates to heart di
 
 ### FAQ  
 
-#### #### Does long-term air pollution exposure cause permanent endothelial damage in seniors?  
+#### Does long-term air pollution exposure cause permanent endothelial damage in seniors?  
 No—endothelial cells regenerate continuously, and function can improve significantly with reduced exposure and supportive lifestyle changes. Studies show measurable FMD improvements within 8–12 weeks of consistent HEPA filtration and dietary nitrate intake in adults 60+.
 
-#### #### How does air pollution endothelial function seniors differ from younger adults?  
+#### How does air pollution endothelial function seniors differ from younger adults?  
 Seniors experience amplified effects due to age-related declines in antioxidant enzymes (e.g., superoxide dismutase), slower NO synthesis, and accumulated vascular injury. For example, a given PM2.5 dose causes ~40% greater reduction in FMD in adults over 65 versus those aged 40–50.
 
-#### #### Can air pollution endothelial function seniors be reversed without moving away from traffic?  
+#### Can air pollution endothelial function seniors be reversed without moving away from traffic?  
 Yes—multiple urban cohort trials confirm reversal is possible through indoor air mitigation (HEPA + carbon filtration), dietary optimization (nitrates, polyphenols), and regular aerobic activity. Improvements in PWV and FMD have been documented independent of relocation.
 
-#### #### What is a safe PM2.5 level for seniors living near roads?  
+#### What is a safe PM2.5 level for seniors living near roads?  
 The WHO recommends an annual average of ≤5 µg/m³. However, many urban neighborhoods near highways average 12–20 µg/m³. Even reducing personal exposure by 30–50% indoors yields measurable vascular benefits—so focus on achievable reductions, not perfection.
 
-#### #### Is wearing an N95 mask outdoors helpful for seniors concerned about endothelial health?  
+#### Is wearing an N95 mask outdoors helpful for seniors concerned about endothelial health?  
 For brief outings (e.g., walking the dog or commuting), yes—N95s filter ≥95% of PM2.5. But they’re not practical for all-day use and don’t address indoor exposure, which contributes ~70% of total daily dose for homebound or retired seniors. Prioritize indoor air quality first.

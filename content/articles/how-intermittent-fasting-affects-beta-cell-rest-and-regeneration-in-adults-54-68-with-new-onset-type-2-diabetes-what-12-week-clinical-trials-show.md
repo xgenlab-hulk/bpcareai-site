@@ -82,22 +82,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does intermittent fasting beta-cell regeneration work for everyone over 60?
+#### Does intermittent fasting beta-cell regeneration work for everyone over 60?
 
 Not universally—but adults aged 54–68 with new-onset type 2 diabetes (diagnosed within the past 12–18 months), preserved kidney function (eGFR ≥60), and no history of pancreatitis or autonomic neuropathy show the strongest evidence of benefit. Response varies based on genetics, lifestyle habits, and baseline beta-cell reserve.
 
-#### #### How long does it take to see signs of intermittent fasting beta-cell regeneration?
+#### How long does it take to see signs of intermittent fasting beta-cell regeneration?
 
 Most clinical trials show measurable changes—like improved proinsulin:C-peptide ratio or HOMA-B—in as little as 8–12 weeks. Structural changes (e.g., MRI volume shifts) tend to appear later and require longer follow-up.
 
-#### #### Can intermittent fasting beta-cell regeneration reverse type 2 diabetes completely?
+#### Can intermittent fasting beta-cell regeneration reverse type 2 diabetes completely?
 
 In select cases—yes, partial or complete remission (defined as HbA1c <5.7% off all glucose-lowering meds for ≥3 months) has occurred in 12-week trials, especially among those who also lost 5–10% body weight. However, sustained remission requires ongoing lifestyle support—not just fasting alone.
 
-#### #### Is it safe to combine intermittent fasting with metformin?
+#### Is it safe to combine intermittent fasting with metformin?
 
 Yes—metformin is generally safe with intermittent fasting and may even complement its effects on insulin sensitivity. However, monitor for GI side effects (more common when meals are compressed) and discuss timing with your provider—some prefer taking it with food.
 
-#### #### What’s the best fasting schedule for beta-cell recovery in older adults?
+#### What’s the best fasting schedule for beta-cell recovery in older adults?
 
 The 16:8 method (e.g., eating between 9 a.m. and 5 p.m.) has the most human trial data in this age group—and aligns well with circadian rhythms. Avoid very long fasts (>20 hours) unless guided by a clinician familiar with your full health picture.

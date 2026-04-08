@@ -93,17 +93,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What causes extreme fatigue after exercise in people with diastolic dysfunction?
+#### What causes extreme fatigue after exercise in people with diastolic dysfunction?
 Extreme fatigue after exercise in diastolic dysfunction stems from three interconnected issues: inefficient mitochondria (slower energy production and cleanup), delayed lactate clearance due to poor microcirculation, and reduced nitric oxide availability—which limits blood flow during recovery. These aren’t signs of weakness, but of altered physiology common in preserved EF heart disease.
 
-#### #### Is post-exercise fatigue diastolic dysfunction older adults experience different from normal aging fatigue?
+#### Is post-exercise fatigue diastolic dysfunction older adults experience different from normal aging fatigue?
 Yes. Normal aging-related fatigue usually improves within 24–36 hours and responds well to rest and hydration. In contrast, **post-exercise fatigue diastolic dysfunction older adults** experience often lasts 48–72+ hours, includes cognitive fog or unrefreshing sleep, and persists despite adequate rest—pointing to underlying cardiac and vascular inefficiency rather than general deconditioning.
 
-#### #### Can high blood pressure contribute to post-exercise fatigue in diastolic dysfunction?
+#### Can high blood pressure contribute to post-exercise fatigue in diastolic dysfunction?
 Absolutely. Hypertension is the #1 risk factor for diastolic dysfunction. Chronically elevated arterial pressure (e.g., consistent readings ≥140/90 mm Hg—or even “high-normal” 130–139/80–89 mm Hg over time) causes left ventricular hypertrophy and myocardial stiffening. This directly impairs relaxation and filling, worsening the metabolic and vascular delays that drive prolonged fatigue.
 
-#### #### Does exercise make diastolic dysfunction worse?
+#### Does exercise make diastolic dysfunction worse?
 Not when done thoughtfully. In fact, regular, appropriately dosed aerobic activity improves endothelial function and mitochondrial health over time. But *excessive* or *unfamiliar* exertion—especially without warm-up or recovery windows—can temporarily worsen symptoms. The goal isn’t to avoid movement, but to move *with intelligence*.
 
-#### #### Are beta-blockers or other heart medications linked to post-exercise fatigue?
+#### Are beta-blockers or other heart medications linked to post-exercise fatigue?
 Some medications—including certain beta-blockers (e.g., metoprolol succinate), diuretics, and even statins—can contribute to fatigue or impair mitochondrial function. However, fatigue lasting >48 hours is more likely tied to the underlying diastolic physiology than the meds themselves. Never stop or adjust medications without consulting your provider—but do mention persistent fatigue; dosage or timing adjustments may help.

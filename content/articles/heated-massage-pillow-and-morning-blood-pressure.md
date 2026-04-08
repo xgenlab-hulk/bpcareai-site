@@ -56,17 +56,17 @@ Managing morning blood pressure doesn’t require dramatic changes—sometimes, 
 
 ### FAQ
 
-#### #### Can a heated massage pillow lower morning blood pressure?
+#### Can a heated massage pillow lower morning blood pressure?
 Yes—some evidence suggests it may help reduce early-morning systolic surges, likely by easing muscle tension and supporting vagal tone. Observed effects are modest (typically 3–6 mm Hg), and results vary based on individual physiology and consistency of use.
 
-#### #### Is it safe to use a heated massage pillow if I have high blood pressure?
+#### Is it safe to use a heated massage pillow if I have high blood pressure?
 Generally yes—but safety depends on your specific health picture. Those with cervical spondylosis, anticoagulant use, or recent neck injury should first discuss use with their healthcare provider. Always avoid excessive heat or pressure.
 
-#### #### How does a heated massage pillow affect cortisol and blood pressure in the morning?
+#### How does a heated massage pillow affect cortisol and blood pressure in the morning?
 Morning cortisol naturally rises to help you wake up—but in some adults, this spike also triggers a sharper BP increase. Gentle heat and massage on the upper trapezius may help dampen this coupling by reducing somatic tension and enhancing parasympathetic signaling.
 
-#### #### What’s the best time to use a heated massage pillow for blood pressure support?
+#### What’s the best time to use a heated massage pillow for blood pressure support?
 For morning blood pressure considerations, use it *after* waking but *before* getting out of bed or consuming caffeine—ideally during a quiet 10–12 minute window while practicing slow breathing.
 
-#### #### Are there alternatives to a heated massage pillow for lowering morning systolic pressure?
+#### Are there alternatives to a heated massage pillow for lowering morning systolic pressure?
 Yes—morning walks outdoors (even 10 minutes), seated mindfulness practices, and consistent sleep timing all support healthier morning BP patterns. Combining approaches often yields the most sustainable benefit.

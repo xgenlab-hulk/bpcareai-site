@@ -44,22 +44,22 @@ In closing: healing isn’t about erasing the past or “fixing” yourself. It�
 
 ### FAQ
 
-#### #### Can MBCT for seasonal depression with late-life PTSD really reduce relapse in older adults?
+#### Can MBCT for seasonal depression with late-life PTSD really reduce relapse in older adults?
 
 Yes—recent randomized controlled trials (2023–2024) show that trauma-adapted MBCT cut winter depressive relapse rates by nearly half compared to treatment-as-usual in adults aged 60–78. The effect appears strongest when the program begins in early autumn, before symptoms escalate.
 
-#### #### Is MBCT for seasonal depression with late-life PTSD safe for people with high blood pressure?
+#### Is MBCT for seasonal depression with late-life PTSD safe for people with high blood pressure?
 
 Absolutely—and potentially beneficial. MBCT has been associated with modest reductions in resting systolic BP (average ~5 mm Hg) in older adults, likely due to decreased sympathetic nervous system activation. Always share your full health profile with your therapist and physician.
 
-#### #### How is MBCT for seasonal depression with late-life PTSD different from standard MBCT?
+#### How is MBCT for seasonal depression with late-life PTSD different from standard MBCT?
 
 It includes trauma-sensitive pacing (e.g., optional eyes-open practice, clear choice points), psychoeducation about how seasons and memory interact, and guided reflections on safety and agency—designed specifically for neurocognitive changes common after age 55.
 
-#### #### Does insurance cover MBCT for seasonal depression with late-life PTSD?
+#### Does insurance cover MBCT for seasonal depression with late-life PTSD?
 
 Coverage varies, but many Medicare Advantage plans and Medicaid programs now reimburse group-based behavioral interventions for depression—including adapted MBCT—when delivered by licensed mental health professionals. Ask your provider about CPT code 90853 (group psychotherapy).
 
-#### #### Can I do MBCT for seasonal depression with late-life PTSD on my own, without a therapist?
+#### Can I do MBCT for seasonal depression with late-life PTSD on my own, without a therapist?
 
 While self-guided mindfulness apps exist, research shows the greatest benefit for this population comes from live, relational, trauma-informed delivery—especially for safety-building and processing seasonal triggers. If in-person groups aren’t available, look for telehealth options led by geriatric mental health specialists.

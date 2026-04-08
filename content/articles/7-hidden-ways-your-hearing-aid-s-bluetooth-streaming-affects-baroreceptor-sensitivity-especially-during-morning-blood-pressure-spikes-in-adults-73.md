@@ -78,22 +78,22 @@ Your hearing aid is designed to bring clarity, connection, and confidence—not 
 
 ### FAQ
 
-#### #### Could my Bluetooth hearing aid be raising my blood pressure in the morning?
+#### Could my Bluetooth hearing aid be raising my blood pressure in the morning?
 
 No—there’s no evidence that Bluetooth hearing aids *cause* elevated blood pressure. They emit very low-level RF energy and do not interfere with cardiovascular function. However, researchers are gently exploring whether acoustic stimulation timing (e.g., streaming right after waking) might coincide with natural morning BP fluctuations—making it worth noticing your personal patterns.
 
-#### #### Are hearing aids and morning blood pressure spikes connected in seniors?
+#### Are hearing aids and morning blood pressure spikes connected in seniors?
 
 They can co-occur, but not necessarily interact directly. Both are common in adults 73+: ~75% have hearing loss, and ~65% have hypertension—with morning BP surges affecting up to 35%. Their overlap invites careful observation, not concern. Focus on consistent measurement and lifestyle habits first.
 
-#### #### Do hearing aids affect the vagus nerve or heart rate variability?
+#### Do hearing aids affect the vagus nerve or heart rate variability?
 
 Not in a clinically meaningful way. Some lab studies show *very subtle* acoustic modulation of vagal tone—but these effects are far smaller than those from deep breathing, walking, or even smiling. Hearing aids support communication, which itself promotes parasympathetic (calming) activity over time.
 
-#### #### Should I stop using Bluetooth features on my hearing aids if I have high blood pressure?
+#### Should I stop using Bluetooth features on my hearing aids if I have high blood pressure?
 
 No. There’s no medical reason to discontinue Bluetooth use. If you’d like extra peace of mind, try delaying streaming by 10 minutes after waking—or switch to non-streaming mode during your first hour. Small adjustments, not big changes, are often most effective.
 
-#### #### What’s the best time to check blood pressure if I wear hearing aids?
+#### What’s the best time to check blood pressure if I wear hearing aids?
 
 The ideal time is 1 hour after waking, *before* breakfast and *after* sitting quietly for 5 minutes—regardless of hearing aid use. If you'd like to explore timing nuances, take one reading right after inserting your aids (but before streaming), and another 15 minutes later. Compare averages over several days—not single values.

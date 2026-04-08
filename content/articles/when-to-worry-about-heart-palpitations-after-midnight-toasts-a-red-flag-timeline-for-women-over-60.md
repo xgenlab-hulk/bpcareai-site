@@ -75,22 +75,22 @@ Experiencing heart palpitations after midnight toasts women 60+ is more common�
 
 ### FAQ
 
-#### #### What does “heart palpitations after midnight toasts women 60+” actually mean—and is it dangerous?
+#### What does “heart palpitations after midnight toasts women 60+” actually mean—and is it dangerous?
 
 This phrase describes the noticeable fluttering, pounding, or skipping sensations in the chest that some women over 60 experience shortly after having alcohol (often wine or champagne) late at night—typically following holiday or celebratory gatherings. In most cases, it reflects temporary, alcohol-triggered ectopy (like PACs or PVCs) and isn’t dangerous. However, because women in this age group often have subtle cardiovascular changes—like stiffer arteries or slower heart rate recovery—it’s wise to observe patterns and consult your provider if episodes become frequent, prolonged, or are linked with dizziness or fatigue.
 
-#### #### Can heart palpitations after midnight toasts women 60+ be a sign of atrial fibrillation?
+#### Can heart palpitations after midnight toasts women 60+ be a sign of atrial fibrillation?
 
 Yes—though not always. AFib can be triggered by alcohol, especially in susceptible individuals, and may begin as brief, intermittent episodes (called “paroxysmal AFib”). In women over 60, even a single documented episode of AFib lasting >30 seconds warrants evaluation, as risk for stroke increases—even without symptoms. Your doctor may recommend a 7-day event monitor or handheld ECG device to capture rhythm during a palpitation episode.
 
-#### #### How is “holiday heart syndrome prevention” different for women over 60 compared to younger adults?
+#### How is “holiday heart syndrome prevention” different for women over 60 compared to younger adults?
 
 Holiday heart syndrome prevention for women 60+ emphasizes hydration *before* drinking (not just after), stricter alcohol limits (≤1 drink/day), checking electrolytes (especially magnesium and potassium), and prioritizing sleep hygiene. Younger adults may bounce back quickly from a night of celebration; women over 60 often benefit more from proactive rhythm support—like consistent evening routines and mindful pacing—than reactive measures.
 
-#### #### Should I stop drinking entirely if I get heart palpitations after midnight toasts?
+#### Should I stop drinking entirely if I get heart palpitations after midnight toasts?
 
 Not necessarily—but it’s reasonable to pause for 2–3 weeks and observe. If palpitations resolve completely during that time—and return after reintroducing alcohol—it strongly suggests alcohol sensitivity. Many women find they enjoy celebrations just as much with non-alcoholic alternatives, especially when paired with intention and presence. Your heart doesn’t need perfection—it needs consistency, kindness, and clarity.
 
-#### #### Is low blood pressure at night normal—and could it relate to my palpitations?
+#### Is low blood pressure at night normal—and could it relate to my palpitations?
 
 A mild nocturnal dip in blood pressure (usually 10–20 mm Hg lower than daytime) is normal and healthy. But if your systolic BP drops below 90 mm Hg *and* you feel dizzy or fatigued upon standing, it may reflect volume loss (from alcohol’s diuretic effect) or autonomic changes common with aging. Pairing evening alcohol with extra fluids and a small, salty snack (e.g., a few unsalted almonds + a slice of avocado) can help stabilize overnight pressures.

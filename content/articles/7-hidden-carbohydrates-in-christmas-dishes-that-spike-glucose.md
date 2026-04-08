@@ -63,17 +63,17 @@ The goal isn’t perfection—it’s awareness and kindness toward yourself. You
 
 ### FAQ
 
-#### #### What are the top hidden carbs in Christmas meals for people with diabetes?  
+#### What are the top hidden carbs in Christmas meals for people with diabetes?  
 Common hidden sources include gravy (flour/cornstarch), stuffing (bread-based), sweet potato casserole (added sugars + natural starch), jellied cranberry sauce (30+ g carbs per ¼ cup), and mulled wine or spiked cider (15–25 g added sugar per serving).
 
-#### #### How do hidden carbs in Christmas meals affect blood sugar in older adults?  
+#### How do hidden carbs in Christmas meals affect blood sugar in older adults?  
 Older adults often have reduced insulin sensitivity and slower gastric emptying—so even moderate carb loads cause sharper, longer-lasting glucose spikes. Studies show post-meal glucose can rise 60–100 mg/dL higher in adults over 60 compared to younger adults eating identical meals.
 
-#### #### Can hidden carbs Christmas meals diabetes impact heart health too?  
+#### Can hidden carbs Christmas meals diabetes impact heart health too?  
 Yes—chronic post-meal glucose spikes contribute to arterial inflammation and oxidative stress, raising long-term risk for hypertension, coronary artery disease, and stroke. Managing *hidden carbs Christmas meals diabetes* supports both glycemic control and cardiovascular wellness.
 
-#### #### Are gluten-free holiday dishes automatically lower in carbs?  
+#### Are gluten-free holiday dishes automatically lower in carbs?  
 Not necessarily. Many gluten-free products use rice flour, tapioca starch, or potato starch—all high-glycemic carbs. Always check total carbohydrate content—not just the “gluten-free” label.
 
-#### #### What’s a realistic carb target for a holiday dinner if I have diabetes?  
+#### What’s a realistic carb target for a holiday dinner if I have diabetes?  
 Aim for 45–60 g of total carbs per meal—but personalize it with your dietitian. Spreading carbs across smaller, balanced meals (with protein + healthy fat + fiber) helps prevent sharp spikes more than strict counting alone.

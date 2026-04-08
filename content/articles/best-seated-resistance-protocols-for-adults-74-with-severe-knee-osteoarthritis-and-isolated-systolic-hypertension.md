@@ -55,22 +55,22 @@ We know it takes courage to start—even gently. Your body remembers strength, e
 
 ### FAQ
 
-#### #### Is seated resistance training isolated systolic safe for someone with a pacemaker?
+#### Is seated resistance training isolated systolic safe for someone with a pacemaker?
 
 Yes—when cleared by your cardiologist. Avoid pressing resistance bands directly over the device site, and prioritize smooth, non-jarring motions. Monitor for dizziness or irregular pulse during and after sessions.
 
-#### #### Can seated resistance training isolated systolic lower my blood pressure long-term?
+#### Can seated resistance training isolated systolic lower my blood pressure long-term?
 
 Evidence suggests yes—especially when combined with aerobic activity and dietary support. A 2022 meta-analysis found that 12 weeks of supervised isometric handgrip or lower-body protocols reduced average systolic BP by 6–10 mm Hg in adults over 70 with isolated systolic hypertension.
 
-#### #### What’s the best resistance band strength for seated resistance training isolated systolic?
+#### What’s the best resistance band strength for seated resistance training isolated systolic?
 
 Start with light (yellow) or medium (red) loop bands—never heavy. You should be able to complete all reps with steady breathing and no facial grimacing. Progress only when exercises feel comfortably controlled for two full weeks.
 
-#### #### Does seated resistance training help knee pain from osteoarthritis?
+#### Does seated resistance training help knee pain from osteoarthritis?
 
 Gently, yes. Strengthening quadriceps and glutes improves joint support and reduces load per step. Studies show consistent low-load seated strengthening can decrease WOMAC pain scores by ~25% over 3 months—with no worsening of radiographic OA.
 
-#### #### How often should I check my blood pressure during seated resistance training?
+#### How often should I check my blood pressure during seated resistance training?
 
 Check once before starting, then again 2 minutes after finishing. If you feel unwell mid-session, pause and check immediately. Avoid checking during exertion—this can cause inaccurate readings due to motion artifact.

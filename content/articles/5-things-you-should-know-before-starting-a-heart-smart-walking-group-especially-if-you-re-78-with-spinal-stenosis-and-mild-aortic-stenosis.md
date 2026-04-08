@@ -84,17 +84,17 @@ In closing, walking remains one of the kindest, most accessible forms of heart c
 
 ### FAQ
 
-#### #### Is walking safe for seniors 78+ with mild aortic stenosis?
+#### Is walking safe for seniors 78+ with mild aortic stenosis?
 Yes—walking is generally safe and encouraged, provided intensity, terrain, and pacing are individualized. Mild aortic stenosis (peak velocity 2.5–3.0 m/s) does not preclude activity, but requires attention to exertional symptoms, BP response, and gait adaptability. Avoid pushing through lightheadedness or leg heaviness, and prioritize flat, even surfaces.
 
-#### #### What are the biggest risks of walking groups for people with aortic stenosis?
+#### What are the biggest risks of walking groups for people with aortic stenosis?
 The primary risks relate to unintentional pacing escalation and reduced self-monitoring. Group dynamics can suppress natural gait variability, increase subaortic pressure overload, and mask early presyncope. These risks are amplified in seniors 78+ due to age-related declines in baroreflex sensitivity and slower symptom recognition.
 
-#### #### How can I tell if my walking group is compromising walking group safety aortic stenosis seniors 78+?
+#### How can I tell if my walking group is compromising walking group safety aortic stenosis seniors 78+?
 Watch for: needing to hold your breath to keep up; inability to speak full sentences comfortably; increased reliance on railings or walls for balance; new or worsening leg heaviness *before* reaching your usual distance; or feeling unusually fatigued for >2 hours after walking. These suggest mismatched exertion—not lack of fitness.
 
-#### #### Should I avoid hills entirely if I have aortic stenosis?
+#### Should I avoid hills entirely if I have aortic stenosis?
 Not necessarily—but limit inclines to ≤2.5% grade and avoid continuous uphill walking longer than 60 seconds. Use handrails or switch to a zigzag path to reduce instantaneous afterload. If you experience chest pressure or lightheadedness on any incline, stop and consult your cardiologist.
 
-#### #### Can spinal stenosis make it harder to recognize heart-related symptoms during walking?
+#### Can spinal stenosis make it harder to recognize heart-related symptoms during walking?
 Yes. Neurogenic claudication (leg pain/weakness from spinal stenosis) and cardiac ischemia can both cause exertional leg discomfort, shortness of breath, or fatigue. The key differentiator is response to position: spinal symptoms often improve with forward bending or sitting, while cardiac symptoms may persist or worsen regardless of posture—and may include associated jaw, neck, or arm discomfort.

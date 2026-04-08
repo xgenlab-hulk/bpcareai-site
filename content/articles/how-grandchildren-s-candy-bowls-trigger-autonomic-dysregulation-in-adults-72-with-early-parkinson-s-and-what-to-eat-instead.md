@@ -62,17 +62,17 @@ While it may seem surprising, everyday moments like reaching into a candy bowl c
 
 ### FAQ
 
-#### #### Can candy bowls autonomic dysregulation parkinsons happen before diagnosis?
+#### Can candy bowls autonomic dysregulation parkinsons happen before diagnosis?
 Yes. Autonomic dysfunction—including orthostatic intolerance triggered by sugar/caffeine—is often detectable 5–10 years before motor diagnosis, especially in those with REM sleep behavior disorder or constipation.
 
-#### #### Is candy bowls autonomic dysregulation parkinsons reversible?
+#### Is candy bowls autonomic dysregulation parkinsons reversible?
 Not fully reversible, but progression can be slowed. Lifestyle strategies—like consistent hydration, timed meals, magnesium-rich snacks, and avoiding rapid sucrose/caffeine loads—improve symptom burden and orthostatic tolerance in clinical studies.
 
-#### #### What’s the safest sweet treat for someone with early Parkinson’s at a holiday party?
+#### What’s the safest sweet treat for someone with early Parkinson’s at a holiday party?
 A small portion (1 oz) of dark chocolate (≥70% cacao) paired with walnuts—providing magnesium, flavonoids, and healthy fats to buffer glucose and catecholamine spikes.
 
-#### #### Does caffeine alone cause autonomic dysregulation in Parkinson’s?
+#### Does caffeine alone cause autonomic dysregulation in Parkinson’s?
 Caffeine alone can reduce cerebral blood flow and impair baroreflex gain, especially in older adults with preexisting autonomic impairment—but combined with high-glycemic foods, the effect is synergistic and more pronounced.
 
-#### #### Are there specific blood pressure targets for adults with early Parkinson’s?
+#### Are there specific blood pressure targets for adults with early Parkinson’s?
 Yes. While general guidelines recommend <140/90 mm Hg, adults with Parkinson’s benefit from maintaining systolic BP ≥110 mm Hg *while standing*, to avoid orthostatic hypotension. Individualized targets should be set with your neurologist or geriatrician.

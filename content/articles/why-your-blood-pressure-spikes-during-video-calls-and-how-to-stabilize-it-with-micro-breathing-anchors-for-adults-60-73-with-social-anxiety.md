@@ -57,22 +57,22 @@ In short: blood pressure spikes during video calls are real, understandable, and
 
 ### FAQ
 
-#### #### Why do my blood pressure spikes during video calls happen even when I’m not talking?
+#### Why do my blood pressure spikes during video calls happen even when I’m not talking?
 
 Because simply *being seen* activates your brain’s social threat detection — especially when your own image is visible. Even silent observation triggers sympathetic arousal. This is amplified in adults over 60 due to age-related changes in autonomic regulation.
 
-#### #### Can blood pressure spikes during video calls cause long-term damage?
+#### Can blood pressure spikes during video calls cause long-term damage?
 
 Occasional spikes aren’t dangerous — but if they happen frequently (e.g., multiple times daily) and exceed 160/100 mm Hg, they contribute to cumulative endothelial stress and increased arterial stiffness over time. Consistent management helps protect long-term heart and brain health.
 
-#### #### Is “Zoom hypertension” the same as white-coat syndrome?
+#### Is “Zoom hypertension” the same as white-coat syndrome?
 
 They share similarities — both are situational, anxiety-driven BP elevations — but white-coat syndrome occurs in clinical settings, while Zoom hypertension happens in everyday digital spaces. Both reflect heightened autonomic reactivity, and both respond well to breathing techniques and gradual exposure.
 
-#### #### Do blood pressure spikes during video calls affect memory or focus?
+#### Do blood pressure spikes during video calls affect memory or focus?
 
 Yes — elevated BP reduces cerebral blood flow efficiency, especially in frontal lobe regions involved in attention and working memory. That “foggy” feeling mid-call? It’s partly vascular — and often improves with consistent breathing practice.
 
-#### #### Should I avoid video calls if I have high blood pressure?
+#### Should I avoid video calls if I have high blood pressure?
 
 No — but you *can* adapt. Start with shorter, audio-first meetings, use breathing anchors proactively, and schedule calls earlier in the day (when cortisol is naturally lower). Most importantly: talk with your doctor about integrating these strategies into your overall cardiovascular plan.

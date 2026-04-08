@@ -54,22 +54,22 @@ Managing diabetes during the holidays isn’t about perfection—it’s about pr
 
 ### FAQ
 
-#### #### How does holiday travel affect blood sugar in seniors with diabetes?
+#### How does holiday travel affect blood sugar in seniors with diabetes?
 
 Holiday travel disrupts routines critical to glucose control—like meal timing, sleep, activity, and stress levels. In seniors, slower metabolism, reduced insulin sensitivity, and age-related changes in kidney function or medication processing make these disruptions more pronounced. That’s why holiday travel blood sugar seniors face can vary more widely than in younger adults—and why small, consistent adjustments matter most.
 
-#### #### What are the best ways to manage blood sugar during Christmas and New Year travel?
+#### What are the best ways to manage blood sugar during Christmas and New Year travel?
 
 Start by packing extra supplies, planning meals ahead (even jotting down restaurant menu options), staying hydrated, moving regularly—even in short bursts—and checking glucose more frequently. Share your plan with a trusted travel companion, and keep emergency contacts accessible. Managing blood sugar during Christmas and New Year is less about restriction and more about rhythm: eat at familiar times when possible, choose nutrient-dense foods, and give yourself grace when things don’t go as planned.
 
-#### #### Can holiday travel cause high blood pressure in seniors with diabetes?
+#### Can holiday travel cause high blood pressure in seniors with diabetes?
 
 Yes—indirectly. Stress, disrupted sleep, dehydration, salty holiday foods, and prolonged sitting can all contribute to temporary rises in blood pressure. Since many seniors with diabetes also have hypertension, these factors may compound cardiovascular strain. Monitoring both glucose *and* BP during travel helps detect early shifts—especially since elevated BP (e.g., consistently above 140/90 mm Hg) and high glucose often share underlying causes like inflammation or insulin resistance.
 
-#### #### How often should seniors with diabetes check blood sugar while traveling?
+#### How often should seniors with diabetes check blood sugar while traveling?
 
 Aim for at least four checks daily: upon waking, before lunch, before dinner, and at bedtime. Add checks before driving, after unusual activity, two hours after meals, or whenever symptoms of high or low glucose appear. If you’re on insulin, pump therapy, or have a history of hypoglycemia unawareness, your provider may recommend even more frequent monitoring—especially across time zones.
 
-#### #### Are airport security scanners safe for diabetes devices like insulin pumps or CGMs?
+#### Are airport security scanners safe for diabetes devices like insulin pumps or CGMs?
 
 Yes—modern insulin pumps and CGMs are designed to withstand standard airport screening, including walk-through metal detectors and millimeter-wave scanners. However, avoid placing devices through X-ray machines (like those used for carry-ons). Instead, request a visual inspection or hand search—and carry a doctor’s note or device ID card for smoother processing. Always keep backup supplies and manual glucose testing tools in your carry-on.

@@ -64,17 +64,17 @@ It’s reassuring to know that small, consistent tweaks to *how* and *when* you 
 
 ### FAQ
 
-#### #### What causes a postprandial blood pressure surge after breakfast?
+#### What causes a postprandial blood pressure surge after breakfast?
 A **postprandial blood pressure surge breakfast** happens when high-glycemic foods trigger rapid insulin and NEFA spikes—activating the sympathetic nervous system and RAAS. In adults with insulin resistance, this response is exaggerated, leading to arterial constriction and elevated BP within 30–90 minutes.
 
-#### #### Is postprandial blood pressure surge breakfast dangerous long-term?
+#### Is postprandial blood pressure surge breakfast dangerous long-term?
 Yes—if repeated daily. Chronic surges accelerate arterial stiffness, increase left ventricular workload, and are linked to higher risk of stroke and heart failure—especially in those over 55. Research shows persistent postprandial BP spikes predict cardiovascular events independently of resting BP.
 
-#### #### Can vinegar really lower postprandial blood pressure surge breakfast?
+#### Can vinegar really lower postprandial blood pressure surge breakfast?
 Yes—multiple clinical trials support it. Taking 1–2 tsp apple cider vinegar 5–10 minutes before a high-carb breakfast improved post-meal endothelial function and reduced systolic BP by 8–12 mm Hg at 60 minutes in adults aged 55–70 with insulin resistance.
 
-#### #### What’s the best time to check BP after breakfast for postprandial surge?
+#### What’s the best time to check BP after breakfast for postprandial surge?
 Check at 30, 60, and 90 minutes after your first bite—while seated, relaxed, and using the same arm. Record all three. A rise ≥15 mm Hg systolic (from pre-meal baseline) across two time points signals a meaningful **postprandial blood pressure surge breakfast**.
 
-#### #### Does coffee with breakfast worsen postprandial blood pressure surge?
+#### Does coffee with breakfast worsen postprandial blood pressure surge?
 Often, yes—especially black coffee on an empty stomach. Caffeine + glucose synergistically increases epinephrine and NEFA, amplifying vasoconstriction. Delay coffee until 60+ minutes after eating—or pair it with protein/fat to blunt the effect.

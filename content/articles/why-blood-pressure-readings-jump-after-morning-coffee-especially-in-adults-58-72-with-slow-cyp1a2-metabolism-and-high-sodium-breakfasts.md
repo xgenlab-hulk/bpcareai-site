@@ -53,17 +53,17 @@ In most cases, a *morning blood pressure spike after coffee* is manageable — n
 
 ### FAQ
 
-#### #### Does coffee cause long-term high blood pressure?
+#### Does coffee cause long-term high blood pressure?
 No — decades of research show regular coffee consumption does *not* lead to chronic hypertension in most people. Temporary rises are common, but tolerance often develops over time. Persistent spikes may signal sensitivity to caffeine, sodium, or stress — not inevitable disease.
 
-#### #### Why does my blood pressure spike only after morning coffee — not afternoon?
+#### Why does my blood pressure spike only after morning coffee — not afternoon?
 Morning is a “perfect storm”: natural cortisol peaks, overnight dehydration, slower overnight metabolism, and often higher-sodium breakfasts. By afternoon, your body has processed earlier caffeine, hydration is improved, and meals tend to be lighter in sodium.
 
-#### #### Is a morning blood pressure spike after coffee dangerous?
+#### Is a morning blood pressure spike after coffee dangerous?
 Usually not — especially if it’s brief (<60 minutes) and returns to baseline. A sustained rise above 140/90 mm Hg *after* coffee warrants review, but isolated spikes aren’t equivalent to diagnosed hypertension.
 
-#### #### Can slow caffeine metabolism be tested?
+#### Can slow caffeine metabolism be tested?
 Yes — some pharmacogenetic tests (like those analyzing *CYP1A2* variants) are available through healthcare providers. However, observing your own pattern — e.g., jitteriness or BP spikes lasting 3+ hours after coffee — can be just as telling.
 
-#### #### What breakfast foods raise blood pressure the most with coffee?
+#### What breakfast foods raise blood pressure the most with coffee?
 High-sodium combos: cured meats (bacon, ham), canned beans, soy sauce-based dishes, instant oatmeal packets, and many store-bought breads and cheeses. Even seemingly mild items like tomato juice or miso soup can contribute significantly to sodium load.

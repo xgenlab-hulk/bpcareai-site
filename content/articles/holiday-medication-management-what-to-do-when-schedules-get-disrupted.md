@@ -79,17 +79,17 @@ And if you’re unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### How can I keep my diabetes medication schedule holidays consistent while traveling?  
+#### How can I keep my diabetes medication schedule holidays consistent while traveling?  
 Pack medications in your carry-on (never checked luggage), bring copies of prescriptions, and consider time zone changes—especially for insulin. If crossing more than two time zones, ask your provider whether to adjust dosing times gradually. A simple pill organizer labeled with days *and* times helps prevent mix-ups—even mid-flight.
 
-#### #### What should I do if I forget a dose during the holidays?  
+#### What should I do if I forget a dose during the holidays?  
 Don’t double up unless specifically instructed. For most oral meds (e.g., metformin, DPP-4 inhibitors), take the missed dose as soon as you remember—if it’s within 2–3 hours of the scheduled time. For insulin or GLP-1s, contact your care team before making adjustments. Keep a log of missed doses and glucose readings to share at your next visit.
 
-#### #### Is it safe to adjust my diabetes medication schedule holidays on my own?  
+#### Is it safe to adjust my diabetes medication schedule holidays on my own?  
 No—especially for insulin, sulfonylureas, or GLP-1 receptor agonists. These medications affect insulin secretion or sensitivity in ways that depend heavily on timing, food intake, and activity. Even seemingly small changes (e.g., switching from AM to PM dosing of a once-daily med) can impact fasting glucose or overnight safety. Always consult your provider before altering your *diabetes medication schedule holidays*.
 
-#### #### How do holiday foods affect my diabetes medications?  
+#### How do holiday foods affect my diabetes medications?  
 Rich, high-carb, or high-fat meals can delay gastric emptying and alter how quickly glucose enters your bloodstream—potentially changing the ideal timing for rapid-acting insulin or incretin-based meds. Pairing carbs with fiber, protein, or healthy fats helps smooth the response. Checking glucose 1–2 hours after eating offers real-time insight.
 
-#### #### Can stress during the holidays raise my blood sugar—even if I eat well?  
+#### Can stress during the holidays raise my blood sugar—even if I eat well?  
 Yes. Stress triggers cortisol and adrenaline release, which prompt the liver to release stored glucose—raising levels regardless of food intake. This is why consistent medication timing *plus* mindful breathing, short walks, or quiet moments matter just as much as diet. Chronic stress may contribute to average glucose increases of 20–40 mg/dL over several days.

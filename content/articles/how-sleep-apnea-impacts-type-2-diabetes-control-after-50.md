@@ -48,23 +48,23 @@ Tracking your blood pressure trends can help you and your doctor make better dec
 
 ### FAQ
 
-#### #### Does sleep apnea cause type 2 diabetes in older adults?
+#### Does sleep apnea cause type 2 diabetes in older adults?
 
 Not directly — but untreated sleep apnea significantly increases the risk. Research shows that moderate-to-severe OSA raises the likelihood of developing type 2 diabetes by 2–3 times, largely due to chronic inflammation and insulin resistance. In older adults, this risk compounds with age-related metabolic slowdown.
 
-#### #### Can treating sleep apnea improve type 2 diabetes control in older adults?
+#### Can treating sleep apnea improve type 2 diabetes control in older adults?
 
 Yes — consistently. Studies report average A1c reductions of 0.5–1.0% after 3–6 months of effective CPAP use, especially in those with severe OSA and poorly controlled diabetes. Even modest improvements in sleep quality support better glucose regulation.
 
-#### #### What’s the connection between sleep apnea and type 2 diabetes in older adults and heart health?
+#### What’s the connection between sleep apnea and type 2 diabetes in older adults and heart health?
 
 Very close. Both conditions independently raise cardiovascular risk — and together, they amplify it. Sleep apnea contributes to hypertension, arterial stiffness, and arrhythmias; type 2 diabetes accelerates atherosclerosis. Managing both lowers long-term risk of heart attack, stroke, and heart failure.
 
-#### #### Is snoring always a sign of sleep apnea in people with diabetes?
+#### Is snoring always a sign of sleep apnea in people with diabetes?
 
 Not always — but it’s a red flag worth exploring. Up to 40% of habitual snorers over 50 have OSA, and that number jumps to ~60% among those with type 2 diabetes. If snoring is loud, accompanied by gasping or pauses, or linked to daytime fatigue, it’s time for evaluation.
 
-#### #### Can losing weight cure sleep apnea and type 2 diabetes in older adults?
+#### Can losing weight cure sleep apnea and type 2 diabetes in older adults?
 
 Weight loss helps — often significantly. Losing just 5–10% of body weight can reduce apnea severity and improve insulin sensitivity. While “cure” is rarely the right word, many people achieve remission of type 2 diabetes and major reduction (or elimination) of OSA symptoms with sustained lifestyle change — especially when started early and supported medically.
 

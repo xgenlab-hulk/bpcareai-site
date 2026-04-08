@@ -70,22 +70,22 @@ Your body thrives on rhythm—on cues like light, movement, and rest—that have
 
 ### FAQ
 
-#### #### Does morning sunlight really lower blood pressure—or is it just placebo?
+#### Does morning sunlight really lower blood pressure—or is it just placebo?
 
 Yes—multiple peer-reviewed trials (including double-blind, crossover designs) confirm that full-spectrum morning light exposure lowers midday systolic BP by ~6–8 mm Hg in adults with SAD and mild hypertension. The effect is mediated by melanopsin, nitric oxide, and cortisol rhythm—not expectation.
 
-#### #### How does morning sunlight and midday blood pressure connect for people over 60?
+#### How does morning sunlight and midday blood pressure connect for people over 60?
 
 Older adults often experience blunted cortisol rhythms and reduced NO bioavailability—both of which contribute to stiffer arteries and higher midday BP. Morning light helps re-anchor circadian timing and supports endothelial function, making *morning sunlight and midday blood pressure* regulation especially relevant after age 60.
 
-#### #### Can I get the same benefit from a light therapy lamp instead of real sunlight?
+#### Can I get the same benefit from a light therapy lamp instead of real sunlight?
 
 Most clinically validated lamps emit sufficient blue-wavelength light to stimulate melanopsin—but only if used correctly (at 10,000 lux, 16–24 inches away, for 20–30 min between 8–11 a.m.). However, natural sunlight provides broader spectral cues—including infrared and subtle UV components—that may enhance NO release and autonomic balance beyond what lamps replicate.
 
-#### #### Is it safe to skip my BP medication if I start getting morning sunlight?
+#### Is it safe to skip my BP medication if I start getting morning sunlight?
 
 No. Morning sunlight is a supportive lifestyle practice—not a replacement for prescribed antihypertensive therapy. Always consult your healthcare provider before adjusting medications.
 
-#### #### What’s the best time to measure blood pressure to see the effect of morning light?
+#### What’s the best time to measure blood pressure to see the effect of morning light?
 
 To assess impact, measure systolic BP at 11:45 a.m. and again at 1:15 p.m., after resting quietly for 5 minutes. Compare readings across days with and without 10–11 a.m. light exposure—keeping other variables (caffeine, activity, posture) as consistent as possible.

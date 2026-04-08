@@ -86,17 +86,17 @@ Understanding how traffic noise morning systolic blood pressure works doesn’t 
 
 ### FAQ
 
-#### #### Does traffic noise really raise blood pressure even with windows closed?
+#### Does traffic noise really raise blood pressure even with windows closed?
 Yes — especially low-frequency noise from heavy vehicles, which transmits easily through building materials. Studies confirm measurable increases in morning systolic blood pressure (8–12 mmHg) among adults 63+ living near freeways, even with windows closed and indoor noise levels under 40 dB(A).
 
-#### #### How does traffic noise morning systolic blood pressure differ from regular hypertension?
+#### How does traffic noise morning systolic blood pressure differ from regular hypertension?
 Traffic noise morning systolic blood pressure reflects a *pattern*: elevated readings specifically in the early morning hours, often with normal or lower evening values. It’s driven by disrupted sleep physiology rather than chronic kidney or hormonal disease — though over time, it can contribute to sustained hypertension if unaddressed.
 
-#### #### Can traffic noise morning systolic blood pressure increase stroke risk?
+#### Can traffic noise morning systolic blood pressure increase stroke risk?
 Indirectly, yes. Repeated morning surges strain arteries, accelerate stiffening, and impair endothelial repair — all established contributors to cerebrovascular events. While no single study links traffic noise directly to stroke incidence in older adults, population-level data show 12–15% higher stroke hospitalization rates in high-traffic urban zip codes.
 
-#### #### What’s the best way to test if traffic noise is affecting my blood pressure?
+#### What’s the best way to test if traffic noise is affecting my blood pressure?
 Start with 7 days of home monitoring: take two readings each morning (within 1 min of waking, then again 30 min later), plus one evening reading. Compare patterns across weekdays vs. weekends — if weekday mornings consistently run 10+ mmHg higher, traffic noise may be playing a role.
 
-#### #### Is there medication to counteract traffic noise effects on blood pressure?
+#### Is there medication to counteract traffic noise effects on blood pressure?
 No medication targets noise-induced BP elevation specifically. However, some antihypertensives — like long-acting calcium channel blockers — provide smoother 24-hour coverage and may better support morning control in noise-exposed individuals. Always discuss timing and options with your provider — never adjust meds based on environmental concerns alone.

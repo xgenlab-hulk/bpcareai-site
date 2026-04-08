@@ -73,22 +73,22 @@ Most post-dinner palpitations holiday heart syndrome episodes resolve quickly an
 
 ### FAQ
 
-#### #### What causes post-dinner palpitations holiday heart syndrome?
+#### What causes post-dinner palpitations holiday heart syndrome?
 
 It’s usually a mix of dietary triggers—especially alcohol, high sodium, large portions—and physiological shifts like increased vagal tone after eating. In older adults, even modest amounts can disrupt the heart’s electrical stability, leading to transient arrhythmias like PACs or short runs of atrial fibrillation.
 
-#### #### Is post-dinner palpitations holiday heart syndrome dangerous?
+#### Is post-dinner palpitations holiday heart syndrome dangerous?
 
 Typically, no—if it’s brief (<30 seconds), isolated, and doesn’t come with dizziness, chest pain, or breathlessness. But recurrent episodes (more than 2–3 times per month) may increase long-term stroke or heart failure risk, especially if undiagnosed AFib is present.
 
-#### #### Can holiday heart syndrome happen without alcohol?
+#### Can holiday heart syndrome happen without alcohol?
 
 Yes. High-sodium foods (deli meats, cheeses, gravies), caffeine (hot chocolate, eggnog with espresso), dehydration, or even emotional stress can trigger similar palpitations—making *post-dinner palpitations holiday heart syndrome* possible even in non-drinkers.
 
-#### #### How is holiday heart syndrome prevention different for seniors?
+#### How is holiday heart syndrome prevention different for seniors?
 
 Older adults metabolize alcohol more slowly, retain more sodium, and often have stiffer arteries—so prevention focuses on stricter portion control, earlier dinners, hydration, and checking meds (like NSAIDs or decongestants) that worsen fluid retention or rhythm instability.
 
-#### #### Does holiday heart syndrome show up on an EKG?
+#### Does holiday heart syndrome show up on an EKG?
 
 Sometimes—but not always. A resting EKG may look normal between episodes. For diagnosis, doctors often recommend a 24- or 48-hour Holter monitor or event recorder worn during typical holiday activities to catch the arrhythmia in real time.

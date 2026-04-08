@@ -72,22 +72,22 @@ Holiday lighting glucose uptake seniors experience is a real, research-backed in
 
 ### FAQ
 
-#### #### Can holiday lighting really affect my blood sugar as a senior?
+#### Can holiday lighting really affect my blood sugar as a senior?
 
 Yes—especially blue-rich LED strings used in the evening. Studies show that even moderate exposure after sunset can reduce melatonin, which in turn influences insulin receptor sensitivity in aging muscle tissue. This doesn’t mean your sugar will spike dramatically, but it may contribute to less stable overnight glucose patterns—particularly if you’re over 50 and already managing prediabetes or metabolic concerns.
 
-#### #### What is holiday lighting glucose uptake seniors — and why does it matter more after 50?
+#### What is holiday lighting glucose uptake seniors — and why does it matter more after 50?
 
 “Holiday lighting glucose uptake seniors” refers to how festive indoor lighting—especially blue-heavy LEDs—can subtly reduce the body’s ability to take up glucose efficiently during sleep, due to melatonin suppression. After age 50, melatonin production naturally declines, circadian rhythms become more fragile, and muscle insulin sensitivity decreases with age—making this seasonal influence more noticeable and more worth supporting gently.
 
-#### #### Does warm-white holiday lighting still impact holiday lighting glucose uptake seniors?
+#### Does warm-white holiday lighting still impact holiday lighting glucose uptake seniors?
 
 Warm-white LEDs (2700K–3000K) emit far less blue light than cool-white or daylight varieties—so their impact on melatonin and subsequent glucose uptake is significantly reduced. They’re a thoughtful, easy swap if you enjoy ambient lighting in the evenings. Look for labels specifying “warm white” or “soft white” and avoid “bright white” or “daylight” unless using them only during daytime hours.
 
-#### #### Can eating certain foods at dinner offset the effects of holiday lighting on my metabolism?
+#### Can eating certain foods at dinner offset the effects of holiday lighting on my metabolism?
 
 Yes—strategically timed, balanced dinners support both glucose stability and melatonin readiness. Prioritizing protein, fiber, and healthy fats in your evening meal—while finishing 2–3 hours before bed—helps prevent glucose surges and supports hormonal balance. Think roasted vegetables with chickpeas and tahini, or baked cod with barley and steamed broccoli. It’s not about restriction; it’s about resonance.
 
-#### #### Is there a link between holiday lighting, blood pressure, and glucose in older adults?
+#### Is there a link between holiday lighting, blood pressure, and glucose in older adults?
 
 Indirectly, yes. Disrupted circadian rhythms (from evening light exposure) are associated with both elevated nocturnal blood pressure and impaired glucose regulation—two factors that often co-occur in aging adults. Supporting one—like optimizing light exposure or meal timing—often gently benefits the other. Consistent evening BP readings above 120/70 mm Hg, especially when paired with restless sleep or variable glucose, may signal shared circadian influence.

@@ -82,22 +82,22 @@ If you're unsure, talking to your doctor is always a good idea. And remember: ch
 
 ### FAQ
 
-#### #### Does skipping breakfast before Thanksgiving really affect blood pressure in people with metabolic syndrome?
+#### Does skipping breakfast before Thanksgiving really affect blood pressure in people with metabolic syndrome?
 
 Yes—studies show skipping breakfast can raise systolic blood pressure by 8–15 mm Hg after a large, high-carb meal. For adults with metabolic syndrome, this effect is amplified due to underlying endothelial dysfunction and heightened postprandial inflammation. The combination of fasting + feast creates a double stressor on the cardiovascular system.
 
-#### #### Can “skip breakfast thanksgiving metabolic syndrome” increase my risk of a blood sugar spike—even if I’m not diabetic?
+#### Can “skip breakfast thanksgiving metabolic syndrome” increase my risk of a blood sugar spike—even if I’m not diabetic?
 
 Absolutely. Even prediabetes (HbA1c 5.7–6.4%) or insulin resistance means your body struggles to manage glucose surges. Skipping breakfast delays insulin receptor activation, leading to larger, longer-lasting postprandial spikes—often exceeding 180 mg/dL after Thanksgiving dinner. Continuous glucose data confirms this pattern in over 70% of adults with metabolic syndrome.
 
-#### #### Is it okay to skip breakfast before Thanksgiving if I take metformin or blood pressure meds?
+#### Is it okay to skip breakfast before Thanksgiving if I take metformin or blood pressure meds?
 
 Not necessarily. Medications help manage baseline numbers—but they don’t override the metabolic consequences of abrupt fasting followed by a high-load meal. In fact, skipping breakfast may reduce metformin’s effectiveness (which works best when taken with food) and increase BP variability despite antihypertensive therapy. Always discuss meal-timing adjustments with your prescribing clinician.
 
-#### #### What’s a good breakfast option before Thanksgiving that won’t ruin my appetite—but still supports metabolic health?
+#### What’s a good breakfast option before Thanksgiving that won’t ruin my appetite—but still supports metabolic health?
 
 Think “anchor, not anchor meal”: 200–300 calories with protein + fiber + healthy fat. Examples: 1 small apple with 1 tbsp almond butter; 1 hard-boiled egg + ½ cup roasted sweet potato; or a smoothie with unsweetened almond milk, ½ banana, spinach, and 1 scoop pea protein. These support insulin sensitivity without overfilling.
 
-#### #### Does intermittent fasting work for people with metabolic syndrome—or is “skip breakfast thanksgiving metabolic syndrome” part of a bigger pattern?
+#### Does intermittent fasting work for people with metabolic syndrome—or is “skip breakfast thanksgiving metabolic syndrome” part of a bigger pattern?
 
 Intermittent fasting (e.g., 16:8) *can* be beneficial for some—but only when aligned with circadian biology and individual tolerance. For many adults over 50 with metabolic syndrome, rigid fasting windows *increase* cortisol, worsen glucose variability, and elevate nighttime BP. Research shows consistency—not duration—of eating windows matters most. If you’re considering fasting, work with a registered dietitian or endocrinologist familiar with metabolic health.

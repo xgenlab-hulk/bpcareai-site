@@ -87,22 +87,22 @@ If you're unsure, talking to your doctor is always a good idea—and mentioning 
 
 ### FAQ
 
-#### #### Can natural vagal tone support seniors holiday help with post-meal dizziness?
+#### Can natural vagal tone support seniors holiday help with post-meal dizziness?
 
 Yes—especially when dizziness happens within 15–45 minutes after eating. Upright posture for 20+ minutes and paced exhalations (like 4-7-8 breathing) help stabilize blood pressure and improve cerebral perfusion. These methods target the vagus nerve’s role in regulating heart rate and vascular tone—key contributors to orthostatic and postprandial lightheadedness in older adults.
 
-#### #### What’s the best time to practice natural vagal tone support seniors holiday techniques?
+#### What’s the best time to practice natural vagal tone support seniors holiday techniques?
 
 The sweet spot is three moments: (1) 3–5 minutes *before* your meal (diaphragmatic breathing), (2) the first 20 minutes *after* your last bite (upright seated posture), and (3) 25–30 minutes post-meal (paced exhalation). Doing all three—even briefly—creates a supportive sequence for digestion and autonomic balance.
 
-#### #### Do I need special training to do breath counting for vagal tone?
+#### Do I need special training to do breath counting for vagal tone?
 
 No. You only need awareness—not perfection. Start with counting *exhalations only*: breathe in naturally, then silently count “one” as you exhale, “two” on the next exhale, up to “four.” Pause, then repeat. Even 60 seconds of focused exhalation counting improves vagal output. Consistency matters more than duration.
 
-#### #### Is it safe to sit upright after meals if I have GERD or acid reflux?
+#### Is it safe to sit upright after meals if I have GERD or acid reflux?
 
 Yes—and often beneficial. While lying down worsens reflux, upright posture (especially with slight forward lean *away* from the table, not hunched over) supports esophageal clearance and reduces gastric pressure. Pair it with slower eating and smaller bites for added comfort.
 
-#### #### How long before I notice changes from natural vagal tone support seniors holiday habits?
+#### How long before I notice changes from natural vagal tone support seniors holiday habits?
 
 Many people report improved energy and steadiness within 3–5 days. For measurable improvements in post-meal blood pressure stability or digestion, allow 2–3 weeks of consistent practice—ideally paired with regular hydration and moderate portion sizes. Think of it like tuning an instrument: small adjustments, repeated kindly, bring harmony back.

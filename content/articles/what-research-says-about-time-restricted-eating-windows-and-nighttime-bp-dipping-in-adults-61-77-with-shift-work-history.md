@@ -102,22 +102,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does time-restricted eating nighttime blood pressure improve dipping in older adults with shift work history?
+#### Does time-restricted eating nighttime blood pressure improve dipping in older adults with shift work history?
 
 Yes—studies specifically in adults aged 61–77 with prior shift work show that narrowing the daily eating window to 8–10 hours, especially ending by early afternoon, supports a ≥10% systolic BP dip at night. This effect appears strongest when combined with consistent sleep-wake timing and reduced evening light exposure.
 
-#### #### What’s the best time-restricted eating window for nighttime blood pressure in people over 60?
+#### What’s the best time-restricted eating window for nighttime blood pressure in people over 60?
 
 For most adults 61–77 with a history of shift work, research supports an 8-hour window (e.g., 7 a.m. to 3 p.m.) or a 10-hour window (7 a.m. to 5 p.m.). Earlier cessation—ideally before 5 p.m.—aligns better with melatonin onset and reduces nocturnal renin surges. Individual tolerance varies, so gradual adjustment (e.g., shifting end time by 30 minutes weekly) is recommended.
 
-#### #### Can time-restricted eating nighttime blood pressure strategies replace my BP medication?
+#### Can time-restricted eating nighttime blood pressure strategies replace my BP medication?
 
 No. Time-restricted eating is a supportive lifestyle strategy—not a substitute for prescribed antihypertensive therapy. However, some individuals may find improved BP control with TRE, potentially allowing medication adjustments *under medical supervision*. Never stop or change doses without consulting your physician.
 
-#### #### Why does shift work affect blood pressure years after stopping night shifts?
+#### Why does shift work affect blood pressure years after stopping night shifts?
 
 Shift work induces long-lasting changes in central and peripheral circadian clocks—including in the kidneys, adrenal glands, and vascular smooth muscle. Epigenetic modifications (e.g., DNA methylation of clock genes like *PER2* and *BMAL1*) can persist for decades, altering hormonal rhythms and vascular reactivity—even after returning to day schedules.
 
-#### #### Is nocturnal dipping still important if I feel fine and have normal clinic BP readings?
+#### Is nocturnal dipping still important if I feel fine and have normal clinic BP readings?
 
 Yes. Up to one-third of adults with “normal” office BP have abnormal 24-hour patterns—particularly non-dipping or reverse dipping—which significantly raise long-term cardiovascular risk. Ambulatory monitoring remains the only reliable way to assess true nocturnal BP behavior.

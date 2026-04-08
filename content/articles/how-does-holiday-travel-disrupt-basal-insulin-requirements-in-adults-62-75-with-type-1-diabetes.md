@@ -81,17 +81,17 @@ Traveling during the holidays doesn’t have to mean sacrificing glycemic stabil
 
 ### FAQ
 
-#### #### How do I adjust my basal insulin for holiday travel with type 1 diabetes?
+#### How do I adjust my basal insulin for holiday travel with type 1 diabetes?
 Begin adjusting basal rates 2–3 days before departure—shifting by 10–20% per day depending on direction of travel and your observed glucose patterns. Eastward travel typically requires *increasing* basal rates in the early morning (local time) and *decreasing* them in the late evening. Always verify changes with fasting glucose tests and CGM trend arrows.
 
-#### #### What are common holiday travel insulin requirements type 1 diabetes pitfalls for older adults?
+#### What are common holiday travel insulin requirements type 1 diabetes pitfalls for older adults?
 Top pitfalls include: delaying basal adjustments until after arrival, relying solely on bolus corrections without assessing overnight basal coverage, using outdated insulin storage methods (e.g., leaving vials in hotel bathrooms), and skipping pre-travel consultation with a diabetes educator or endocrinologist.
 
-#### #### Do holiday travel insulin requirements type 1 diabetes differ for seniors vs. younger adults?
+#### Do holiday travel insulin requirements type 1 diabetes differ for seniors vs. younger adults?
 Yes. Adults 62–75 often experience slower circadian re-entrainment, reduced hepatic insulin clearance, and greater susceptibility to hypoglycemia unawareness—meaning basal adjustments tend to be smaller in magnitude but needed over longer durations (5–7 days vs. 3–4). They also benefit more from conservative, data-driven titration than aggressive upfront changes.
 
-#### #### How long does it take for insulin needs to stabilize after holiday travel?
+#### How long does it take for insulin needs to stabilize after holiday travel?
 Most adults 62–75 require 5–7 days to fully re-synchronize basal insulin needs to local time—though initial stabilization (i.e., avoiding severe highs/lows) often occurs within 48–72 hours. Continue reviewing CGM reports and fasting glucose tests through day 7 to confirm steady-state alignment.
 
-#### #### Can jet lag alone raise blood sugar in type 1 diabetes?
+#### Can jet lag alone raise blood sugar in type 1 diabetes?
 Yes—jet lag induces acute stress responses (cortisol, catecholamines) that promote gluconeogenesis and reduce peripheral glucose uptake. In the 147-person study, mean fasting glucose rose by 28 mg/dL on day 2 post–eastward travel *even in participants who maintained identical food intake and activity levels*, confirming that circadian disruption alone alters insulin sensitivity.

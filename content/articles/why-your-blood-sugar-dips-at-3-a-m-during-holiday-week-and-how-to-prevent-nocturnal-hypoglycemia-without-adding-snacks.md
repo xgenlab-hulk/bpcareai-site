@@ -61,17 +61,17 @@ With thoughtful adjustments—not extra calories—you can enjoy the holidays wh
 
 ### FAQ
 
-#### #### What causes nocturnal hypoglycemia during holidays in older adults?
+#### What causes nocturnal hypoglycemia during holidays in older adults?
 Nocturnal hypoglycemia during holidays in adults 50–65 results from circadian misalignment, delayed gastric emptying after high-fat meals, and increased early-morning insulin sensitivity—compounded by age-related reductions in glucagon response and symptom awareness.
 
-#### #### Is nocturnal hypoglycemia during holidays dangerous?
+#### Is nocturnal hypoglycemia during holidays dangerous?
 Yes—repeated episodes increase risk of cardiac arrhythmias, falls, cognitive impairment, and impaired hypoglycemia awareness over time. In older adults, even asymptomatic lows below 54 mg/dL warrant clinical review.
 
-#### #### Can I prevent nocturnal hypoglycemia during holidays without eating more?
+#### Can I prevent nocturnal hypoglycemia during holidays without eating more?
 Absolutely. Evidence supports non-caloric strategies like timed walking, CGM-guided insulin adjustments, meal sequencing, and optimizing sleep hygiene—all shown to reduce 3 a.m. lows without adding snacks or calories.
 
-#### #### Why does my blood sugar drop at 3 a.m. even when I skip dessert?
+#### Why does my blood sugar drop at 3 a.m. even when I skip dessert?
 High-fat savory foods (e.g., stuffing, gravy, cheese) delay gastric emptying more than sugar alone—causing a “second-wave” glucose drop hours after dinner. Combined with natural pre-dawn insulin sensitivity, this creates a perfect storm—even without sweets.
 
-#### #### Does alcohol affect nocturnal hypoglycemia during holidays?
+#### Does alcohol affect nocturnal hypoglycemia during holidays?
 Yes. Even moderate alcohol (1–2 drinks) inhibits hepatic glucose production for up to 12 hours—significantly increasing hypoglycemia risk overnight, especially when paired with insulin or sulfonylureas. Avoid drinking on an empty stomach and consider delaying evening doses if consuming alcohol.

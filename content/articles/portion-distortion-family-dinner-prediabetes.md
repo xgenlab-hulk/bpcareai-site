@@ -57,22 +57,22 @@ If you're unsure, talking to your doctor is always a good idea. Recognizing **po
 
 ### FAQ
 
-#### #### Why do holiday meals cause bigger blood sugar spikes for people with prediabetes?
+#### Why do holiday meals cause bigger blood sugar spikes for people with prediabetes?
 
 Holiday meals often combine high-carb foods (mashed potatoes, rolls, desserts), large portions, and eating quickly—all of which challenge insulin response. When gastric emptying is slower, carbs release unpredictably, causing delayed or prolonged glucose elevation.
 
-#### #### How does portion distortion family dinner prediabetes affect blood pressure too?
+#### How does portion distortion family dinner prediabetes affect blood pressure too?
 
 Chronic overeating—especially refined carbs and sodium-heavy sides—contributes to fluid retention and arterial stiffness. Over time, this raises systolic BP, particularly in adults over 60. Managing portion size supports both glycemic *and* cardiovascular health.
 
-#### #### Can I still enjoy traditional dishes during family dinners if I have prediabetes?
+#### Can I still enjoy traditional dishes during family dinners if I have prediabetes?
 
 Absolutely—focus on proportion and preparation. Use smaller plates, increase non-starchy vegetables, reduce added sugars and salt, and prioritize protein and healthy fats to balance each bite. Tradition lives in flavor and connection—not volume.
 
-#### #### What’s the best way to explain portion changes to older relatives without offending them?
+#### What’s the best way to explain portion changes to older relatives without offending them?
 
 Try framing it gently: *“I’m learning how my body responds differently now, and I’d love your help making our meals even more nourishing for everyone.”* Offer to cook a new version of a favorite dish together—it turns adjustment into shared care.
 
-#### #### Does portion distortion family dinner prediabetes get worse with age?
+#### Does portion distortion family dinner prediabetes get worse with age?
 
 Yes—especially between ages 58–74, due to declining muscle mass (reducing glucose uptake), slower digestion, and changes in leptin and ghrelin signaling. But awareness + small, consistent tweaks make a measurable difference.

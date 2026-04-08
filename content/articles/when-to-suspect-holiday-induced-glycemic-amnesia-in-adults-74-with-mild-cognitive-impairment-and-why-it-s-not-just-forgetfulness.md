@@ -75,19 +75,19 @@ Tracking your blood pressure trends can help you and your doctor make better dec
 
 ### FAQ
 
-#### #### What is holiday glycemic amnesia mild cognitive impairment—and is it reversible?  
+#### What is holiday glycemic amnesia mild cognitive impairment—and is it reversible?  
 Holiday glycemic amnesia mild cognitive impairment refers to short-term memory disruptions triggered by acute blood sugar spikes during festive periods. It’s typically reversible within days once glucose stabilizes—and it’s distinct from progressive dementia.
 
-#### #### How is holiday glycemic amnesia mild cognitive impairment different from Alzheimer’s disease?  
+#### How is holiday glycemic amnesia mild cognitive impairment different from Alzheimer’s disease?  
 Unlike Alzheimer’s—which involves structural brain changes and steady decline—glycemic amnesia occurs episodically, correlates tightly with glucose excursions, and improves with metabolic correction. Imaging studies show no hippocampal atrophy in isolated cases.
 
-#### #### Can holiday glycemic amnesia mild cognitive impairment happen without diabetes?  
+#### Can holiday glycemic amnesia mild cognitive impairment happen without diabetes?  
 Yes. Adults with prediabetes (HbA1c 5.7–6.4%), insulin resistance, or age-related glucose intolerance are also at risk—especially with high-glycemic holiday foods and disrupted sleep.
 
-#### #### Does blood pressure play a role in holiday glycemic amnesia?  
+#### Does blood pressure play a role in holiday glycemic amnesia?  
 Absolutely. Glucose spikes activate the sympathetic nervous system, which can elevate systolic BP by 10–20 mm Hg. Since both hypertension and hyperglycemia impair cerebral blood flow, managing both supports clearer thinking.
 
-#### #### Are there medications that increase the risk of holiday glycemic amnesia mild cognitive impairment?  
+#### Are there medications that increase the risk of holiday glycemic amnesia mild cognitive impairment?  
 Yes—especially sulfonylureas (e.g., glipizide) and insulin, which carry higher risks of both hypoglycemia *and* rebound hyperglycemia if meals are skipped or delayed. Discuss timing adjustments with your provider before holiday travel.
 
 If you're unsure, talking to your doctor is always a good idea. With gentle attention and simple habits, holiday glycemic amnesia mild cognitive impairment doesn’t have to dim your joy—it can be a quiet invitation to care for your brain, one mindful bite at a time.

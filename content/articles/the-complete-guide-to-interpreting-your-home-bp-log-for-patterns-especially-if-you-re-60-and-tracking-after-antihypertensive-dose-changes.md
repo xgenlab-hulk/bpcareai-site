@@ -82,22 +82,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### How often should I check my blood pressure at home to make interpreting home blood pressure log useful?
+#### How often should I check my blood pressure at home to make interpreting home blood pressure log useful?
 
 For most adults 60+, guidelines recommend twice daily (morning and evening) for 7 days before a clinic visit—and continuing 2–3 times weekly afterward. Consistency matters more than frequency: same time, same conditions, same arm. Too many readings (e.g., hourly) can increase anxiety and obscure true trends.
 
-#### #### What’s the best way to share my home blood pressure log with my doctor?
+#### What’s the best way to share my home blood pressure log with my doctor?
 
 Bring a printed summary—ideally a weekly average table showing AM/PM systolic/diastolic, plus notes on meds and symptoms. Many clinics accept digital logs (PDF or spreadsheet), but avoid sending raw screenshots without labels. If using an app, export clean data—not just charts. Bonus tip: highlight 2–3 observations you’d like to discuss (e.g., “Morning readings rose after dose change on 5/12”).
 
-#### #### Can interpreting home blood pressure log help detect white-coat or masked hypertension?
+#### Can interpreting home blood pressure log help detect white-coat or masked hypertension?
 
 Yes—absolutely. White-coat hypertension shows elevated readings in-clinic but normal home values (e.g., 165/95 at the office, 128/78 at home). Masked hypertension is the opposite: normal in-office (<140/90) but high at home (≥135/85). Interpreting home blood pressure log is actually the *gold standard* for identifying both—since home readings reflect real-world conditions.
 
-#### #### Why do my blood pressure readings vary so much—even when I measure carefully?
+#### Why do my blood pressure readings vary so much—even when I measure carefully?
 
 Variability is normal, especially after 60. Arterial stiffness, baroreflex changes, and slower drug metabolism all contribute. A typical “normal” variation is ±10 mm Hg systolic between readings taken 1–2 minutes apart. But if differences exceed ±15 mm Hg regularly, double-check technique, cuff fit, and posture—and consider whether anxiety, caffeine, or bladder fullness played a role.
 
-#### #### Should I stop taking my blood pressure medication if my home log shows low numbers?
+#### Should I stop taking my blood pressure medication if my home log shows low numbers?
 
 No—never stop or change doses on your own. Occasional low readings (e.g., 110/65) are common and often harmless—especially if you feel fine. But if you’re seeing repeated systolic <110 *with dizziness, fatigue, or falls*, contact your provider. They’ll assess whether adjustment is needed—and whether it’s due to dose, timing, diet (e.g., low sodium), or other factors.

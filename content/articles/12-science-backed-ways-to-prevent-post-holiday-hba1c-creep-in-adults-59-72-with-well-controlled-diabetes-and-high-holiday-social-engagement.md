@@ -66,22 +66,22 @@ In short, prevent post-holiday hba1c creep diabetes isn’t about perfection—i
 
 ### FAQ
 
-#### #### How can I prevent post-holiday HbA1c creep diabetes if I’m very socially active during Christmas?
+#### How can I prevent post-holiday HbA1c creep diabetes if I’m very socially active during Christmas?
 
 Prioritize *timing* over total restriction: micro-walks after meals, strategic alcohol sequencing, and “glucose buffer” snacks are proven to maintain stability without missing out. Social connection itself supports long-term metabolic health—so keep showing up, just with small anchors.
 
-#### #### What’s the best way to prevent post-holiday HbA1c creep in older adults with type 2 diabetes?
+#### What’s the best way to prevent post-holiday HbA1c creep in older adults with type 2 diabetes?
 
 Focus on circadian alignment (sleep, light, meal timing) and movement snacking—both show stronger effects in adults 60+ than calorie-focused approaches alone. CGM or structured SMBG (pre/post meals + bedtime) for 1 week in late December gives actionable insight.
 
-#### #### Does drinking alcohol during Christmas cause post-holiday HbA1c creep?
+#### Does drinking alcohol during Christmas cause post-holiday HbA1c creep?
 
 Alcohol itself isn’t the main driver—but *how and when* you drink matters. Consuming alcohol on an empty stomach or late at night disrupts glucose regulation and sleep architecture, contributing to cumulative drift. Pairing it mindfully with food and protein significantly reduces risk.
 
-#### #### Can walking after meals really prevent post-holiday HbA1c creep diabetes?
+#### Can walking after meals really prevent post-holiday HbA1c creep diabetes?
 
 Yes—multiple RCTs confirm that even 3–5 minutes of walking within 15 minutes of eating lowers postprandial glucose peaks and improves next-day fasting levels in adults 60+. It’s one of the most accessible, evidence-backed tools available.
 
-#### #### Is it normal for HbA1c to rise slightly after the holidays?
+#### Is it normal for HbA1c to rise slightly after the holidays?
 
 A small, temporary rise (≤0.2%) can happen—but sustained increases >0.3% suggest glycemic patterns shifted meaningfully. Since HbA1c reflects ~3 months of data, December’s habits carry weight. The good news? With awareness and simple tweaks, you can gently guide it back.

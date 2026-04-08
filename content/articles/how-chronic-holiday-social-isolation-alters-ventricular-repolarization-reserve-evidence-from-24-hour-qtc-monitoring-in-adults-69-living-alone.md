@@ -56,17 +56,17 @@ In short, your heart thrives on rhythm—not just in beats per minute, but in th
 
 ### FAQ
 
-#### #### Can chronic social isolation ventricular repolarization reserve be reversed?  
+#### Can chronic social isolation ventricular repolarization reserve be reversed?  
 Yes—studies suggest improvements in QTc stability within 4–6 weeks of increased regular social contact and stress-reduction practices, especially in adults over 65.
 
-#### #### Does holiday social isolation ventricular repolarization affect everyone over 65?  
+#### Does holiday social isolation ventricular repolarization affect everyone over 65?  
 No—effects vary widely. Those with strong baseline social networks, active lifestyles, or robust vagal tone often show little to no QTc change. It’s most noticeable in individuals reporting both objective isolation (living alone) *and* subjective loneliness.
 
-#### #### What’s the difference between holiday heart syndrome and social isolation ventricular repolarization reserve?  
+#### What’s the difference between holiday heart syndrome and social isolation ventricular repolarization reserve?  
 Holiday heart syndrome typically refers to acute atrial arrhythmias (like AFib) triggered by alcohol or overindulgence. In contrast, *social isolation ventricular repolarization reserve* describes a subtler, longer-term adaptation in ventricular electrical recovery—often without symptoms—linked to emotional context rather than acute triggers.
 
-#### #### How often should I check my blood pressure during the holidays?  
+#### How often should I check my blood pressure during the holidays?  
 For most adults over 65, checking twice daily (morning and evening) for one week before, during, and after major holidays provides helpful trend data—especially if you live alone or notice increased fatigue or restlessness.
 
-#### #### Are there medications that affect ventricular repolarization reserve?  
+#### Are there medications that affect ventricular repolarization reserve?  
 Yes—certain antidepressants (e.g., citalopram), antibiotics (e.g., azithromycin), and anti-nausea drugs (e.g., ondansetron) can prolong QTc. Always discuss new prescriptions with your doctor, especially if you’re already managing hypertension or taking multiple medications.

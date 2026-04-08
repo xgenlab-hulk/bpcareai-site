@@ -55,17 +55,17 @@ In summary, intermittent fasting orthostatic hypotension seniors is a real, phys
 
 ### FAQ
 
-#### #### Can intermittent fasting cause orthostatic hypotension in seniors with diabetes?  
+#### Can intermittent fasting cause orthostatic hypotension in seniors with diabetes?  
 Yes—especially in adults 72+ with long-standing type 2 diabetes. Autonomic impairment, reduced plasma volume, and altered postprandial hemodynamics increase susceptibility. Fasting windows >14 hours may amplify risk.
 
-#### #### Is intermittent fasting orthostatic hypotension seniors more common with certain diabetes medications?  
+#### Is intermittent fasting orthostatic hypotension seniors more common with certain diabetes medications?  
 Yes. SGLT2 inhibitors (e.g., empagliflozin), alpha-blockers, and some diuretics lower intravascular volume or blunt compensatory vasoconstriction—raising the likelihood of orthostatic drops during fasting.
 
-#### #### What’s a safer alternative to intermittent fasting for older adults with diabetes and low BP?  
+#### What’s a safer alternative to intermittent fasting for older adults with diabetes and low BP?  
 Consistent meal timing, moderate protein distribution (25–30 g/meal), daytime fluid intake, and avoiding large carbohydrate loads late in the day are evidence-supported alternatives that support both glycemic control and BP stability.
 
-#### #### Does orthostatic hypotension always mean my blood pressure medication is too high?  
+#### Does orthostatic hypotension always mean my blood pressure medication is too high?  
 Not necessarily. While over-treatment contributes, orthostasis in seniors with diabetes often reflects autonomic decline, dehydration, or postprandial shifts—not just drug effects. A full review of medications, diet, and mobility is essential.
 
-#### #### How often should I check my blood pressure if I’m trying intermittent fasting and have diabetes?  
+#### How often should I check my blood pressure if I’m trying intermittent fasting and have diabetes?  
 Check orthostatic readings (seated → standing) at least twice weekly—ideally at different times of day and relative to meals. Include symptom notes. Daily home monitoring helps detect patterns before they lead to events.

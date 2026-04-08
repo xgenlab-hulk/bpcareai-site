@@ -78,22 +78,22 @@ Managing type 2 diabetes in later life isn’t about chasing perfection—it’s
 
 ### FAQ
 
-#### #### Is tart cherry juice safe for people with type 2 diabetes?
+#### Is tart cherry juice safe for people with type 2 diabetes?
 
 Yes—when chosen carefully. Opt for 100% Montmorency tart cherry juice *without added sugars*, and stick to an 8 oz (240 mL) serving. It contains about 30 g of natural fruit sugar, so count it as part of your carbohydrate allowance. Studies show its polyphenols may actually improve insulin sensitivity over time, especially when paired with consistent sleep timing.
 
-#### #### Can melatonin raise blood sugar or interfere with diabetes meds?
+#### Can melatonin raise blood sugar or interfere with diabetes meds?
 
 At low doses (0.3–0.5 mg), melatonin is unlikely to raise blood sugar—and some studies suggest it may modestly improve fasting glucose and insulin resistance in older adults with type 2 diabetes. It doesn’t meaningfully interact with common diabetes medications like metformin, GLP-1 agonists, or basal insulin. However, always review new supplements with your prescribing clinician.
 
-#### #### What’s the difference between tart cherry vs melatonin for nighttime glucose in real-world use?
+#### What’s the difference between tart cherry vs melatonin for nighttime glucose in real-world use?
 
 In practice, tart cherry juice offers broader antioxidant and anti-inflammatory support—and fits easily into an evening routine (e.g., with herbal tea). Melatonin acts more precisely on the central circadian clock and may be especially helpful if you struggle with falling *or staying* asleep. For many women, tart cherry vs melatonin for nighttime glucose comes down to personal preference, timing habits, and whether sleep onset or sleep maintenance is the bigger challenge.
 
-#### #### Does tart cherry juice really contain melatonin?
+#### Does tart cherry juice really contain melatonin?
 
 Yes—Montmorency tart cherries are one of the few natural food sources of melatonin, with concentrations ranging from 0.013 to 0.135 μg per gram of fresh fruit. An 8 oz glass of unsweetened juice delivers approximately 0.1–0.3 mg total—much less than supplemental doses, but enough to contribute meaningfully when combined with its other bioactive compounds.
 
-#### #### Can I take tart cherry juice and melatonin together?
+#### Can I take tart cherry juice and melatonin together?
 
 While no major safety concerns have been reported, combining them hasn’t been well studied for glucose outcomes—and may increase drowsiness or next-morning grogginess in sensitive individuals. Most clinicians recommend trying one at a time for 2–3 weeks to assess individual response before considering combination use.

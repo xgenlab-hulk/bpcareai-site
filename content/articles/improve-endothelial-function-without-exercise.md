@@ -90,22 +90,22 @@ Improving endothelial function without exercise isn’t about fixing something b
 
 ### FAQ
 
-#### #### Can I improve endothelial function without exercise if I have arthritis or limited mobility?
+#### Can I improve endothelial function without exercise if I have arthritis or limited mobility?
 
 Yes—absolutely. In fact, many of the 12 strategies were developed and tested specifically for adults with mobility constraints. Nasal breathing, timed hydration, auricular vagus stimulation, and polyphenol-rich food pairings require no joint movement or exertion, yet they directly support nitric oxide pathways essential for endothelial health.
 
-#### #### What’s the fastest way to improve endothelial function without exercise in older adults?
+#### What’s the fastest way to improve endothelial function without exercise in older adults?
 
 Based on RCT timelines, the combination of timed hydration (upon waking and pre-dinner), daily nasal breathing practice (5 min × 2), and consistent polyphenol pairing at meals shows measurable FMD improvement in as few as 7–10 days—especially when paired with morning sunlight exposure. These are gentle, low-barrier habits with strong evidence in adults 67–81.
 
-#### #### Does improving endothelial function without exercise also help blood pressure?
+#### Does improving endothelial function without exercise also help blood pressure?
 
 Yes—indirectly but meaningfully. Healthy endothelium produces more nitric oxide, which helps arteries relax and maintain optimal tone. While these strategies aren’t intended to replace BP medication if prescribed, studies report modest but consistent reductions in systolic BP (average 4–6 mm Hg) and improved pulse pressure variability within 14 days—likely due to enhanced vascular elasticity.
 
-#### #### Are supplements necessary to improve endothelial function without exercise?
+#### Are supplements necessary to improve endothelial function without exercise?
 
 No. The evidence highlights whole-food pairings (e.g., berries + olive oil), lifestyle timing (hydration, light exposure), and neuromodulation (breathing, vagus stimulation) as sufficient drivers of change. That said, magnesium glycinate (200 mg) is the only supplement with robust RCT support in this specific demographic—and it’s considered very safe for most older adults when used short-term.
 
-#### #### How does hs-CRP relate to endothelial health—and why does it matter for heart health?
+#### How does hs-CRP relate to endothelial health—and why does it matter for heart health?
 
 hs-CRP reflects low-grade systemic inflammation, which directly suppresses nitric oxide production and promotes oxidative stress in endothelial cells. Elevated hs-CRP (>3 mg/L) is independently associated with higher risk of arterial stiffness and future cardiovascular events—even when cholesterol and BP appear normal. That’s why it’s such a useful marker: it tells us whether the inner lining of our arteries is experiencing silent wear—and whether gentle interventions are making a difference.

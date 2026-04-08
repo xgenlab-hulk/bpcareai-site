@@ -175,18 +175,18 @@ export default async function ArticlePage({ params }: PageProps) {
             </span>
           </div>
 
-          <h1 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-6">
+          <h1 className="text-2xl lg:text-3xl font-bold text-gray-900 mb-4">
             {article.title}
           </h1>
 
-          <p className="text-lg text-gray-700 leading-relaxed mb-6">
+          <p className="text-sm lg:text-base text-gray-600 leading-relaxed mb-6">
             {article.description}
           </p>
         </header>
 
         {/* Article Content */}
         <div
-          className="prose max-w-none markdown-content"
+          className="max-w-none markdown-content"
           dangerouslySetInnerHTML={{ __html: article.content }}
         />
 
@@ -199,21 +199,7 @@ export default async function ArticlePage({ params }: PageProps) {
           </p>
         </div>
 
-        {/* CTA Section */}
-        <div className="mt-16 glass-card p-8 lg:p-12 text-center">
-          <h2 className="text-2xl font-bold text-gray-900 mb-4">
-            Track Your Blood Pressure with BPCare AI
-          </h2>
-          <p className="text-base text-gray-700 mb-8 max-w-2xl mx-auto">
-            Put these insights into practice. Download BPCare AI to track your blood pressure
-            trends, understand your heart health, and feel more confident.
-          </p>
-          <CTAButton href="https://apps.apple.com/us/app/bpcare-ai-heart-rate-monitor/id6748299186" external>
-            Download on App Store
-          </CTAButton>
-        </div>
-
-        {/* Related Articles */}
+        {/* Related Articles（放在 CTA 前面） */}
         {relatedArticles.length > 0 && (
           <div className="mt-16">
             <h2 className="text-2xl font-bold text-gray-900 mb-8">Related Articles</h2>
@@ -235,6 +221,20 @@ export default async function ArticlePage({ params }: PageProps) {
             </div>
           </div>
         )}
+
+        {/* CTA Section（最底部） */}
+        <div className="mt-16 glass-card p-8 lg:p-12 text-center">
+          <h2 className="text-2xl font-bold text-gray-900 mb-4">
+            Track Your Blood Pressure with BPCare AI
+          </h2>
+          <p className="text-base text-gray-700 mb-8 max-w-2xl mx-auto">
+            Put these insights into practice. Download BPCare AI to track your blood pressure
+            trends, understand your heart health, and feel more confident.
+          </p>
+          <CTAButton href="https://apps.apple.com/us/app/bpcare-ai-heart-rate-monitor/id6748299186" external>
+            Download on App Store
+          </CTAButton>
+        </div>
       </article>
     </div>
   );

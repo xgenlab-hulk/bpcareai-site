@@ -87,17 +87,17 @@ Taking an SGLT2 inhibitor is a meaningful step toward protecting your heart and 
 
 ### FAQ
 
-#### #### Can I take a warm bath while on dapagliflozin?
+#### Can I take a warm bath while on dapagliflozin?
 Yes — safely, with gentle precautions. Keep bath water between 37.5–38.5°C (99.5–101.3°F), limit soak time to 10–15 minutes, and drink a glass of water before and after. Dapagliflozin (like other SGLT2 inhibitors) supports fluid excretion, so supporting hydration helps maintain stability — especially if you notice mild dizziness when standing.
 
-#### #### Are warm baths sglt2 inhibitors safety concerns higher during winter holidays?
+#### Are warm baths sglt2 inhibitors safety concerns higher during winter holidays?
 Holiday routines — including richer foods, less movement, occasional skipped meds, or mild dehydration from indoor heating — can subtly affect fluid balance. That’s why *warm baths sglt2 inhibitors safety* becomes especially relevant in December. Staying consistent with hydration, checking bath temperature, and rising slowly from the tub go a long way.
 
-#### #### Can warm baths cause ketoacidosis in people on SGLT2 inhibitors?
+#### Can warm baths cause ketoacidosis in people on SGLT2 inhibitors?
 It’s extremely rare for warm baths *alone* to trigger ketoacidosis — but prolonged immersion in hot water *combined* with fasting, illness, or significant carb restriction *may* contribute to euDKA (euglycemic diabetic ketoacidosis) in susceptible individuals. If you feel unusually tired, nauseated, or confused — especially with normal or only slightly elevated blood sugar — contact your provider promptly. Staying well-hydrated and avoiding extended fasts lowers this already low risk.
 
-#### #### What’s the safest water temperature for warm baths on empagliflozin?
+#### What’s the safest water temperature for warm baths on empagliflozin?
 For empagliflozin users aged 63+, the safest range is **37.5–38°C (99.5–100.4°F)**. This supports relaxation without triggering marked vasodilation or core temperature rise. Always use a bath thermometer — and remember, it’s okay to adjust downward if you feel flushed or lightheaded.
 
-#### #### Should I stop my SGLT2 inhibitor before a holiday bath?
+#### Should I stop my SGLT2 inhibitor before a holiday bath?
 No — do not stop or skip your SGLT2 inhibitor unless specifically advised by your prescribing clinician. These medications provide ongoing cardiovascular and kidney protection. Instead, support your body with hydration, moderate temperature, and mindful movement before and after bathing.

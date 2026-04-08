@@ -84,17 +84,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can I use banana in baking if I have a latex allergy?
+#### Can I use banana in baking if I have a latex allergy?
 No—not reliably. Banana proteins (especially chitinase and hevein-like proteins) are highly heat-stable and frequently trigger reactions even in baked goods like banana bread or muffins. For safe holiday baking latex food allergy seniors, opt for apple sauce (unsweetened), mashed pear, or commercial banana-flavored extracts labeled “latex-free” and verified by your allergist.
 
-#### #### What are the safest holiday desserts for seniors with latex-food cross-reactivity?
+#### What are the safest holiday desserts for seniors with latex-food cross-reactivity?
 Top choices include spiced pear crisp (with oat topping), molasses ginger cookies (egg-free and nut-free), vanilla bean panna cotta made with coconut milk, and dark chocolate-dipped dried apricots (ensure no kiwi or avocado oil in processing). Always confirm ingredients and facility practices—especially for pre-made chocolates or gift boxes.
 
-#### #### How do I explain my latex-food sensitivities to family during holiday baking?
+#### How do I explain my latex-food sensitivities to family during holiday baking?
 Try saying: *“My body sometimes reacts to certain fruits like banana or kiwi—not because they’re ‘bad,’ but because they share tiny protein similarities with materials used in medical gloves. To keep things cozy and safe for everyone, I’ll bake my treats with gentle swaps—and I’d love your help keeping my mixing bowl and spatula separate!”* Framing it as shared care—not restriction—makes it welcoming.
 
-#### #### Are store-bought gluten-free or vegan baked goods automatically safe for latex-food cross-reactivity?
+#### Are store-bought gluten-free or vegan baked goods automatically safe for latex-food cross-reactivity?
 Not at all. Many gluten-free products rely on banana flour, avocado oil, or kiwi-based enzymes—and vegan items often use banana or avocado as binders or fats. Always read full ingredient lists *and* check for facility disclosures. “Vegan” ≠ “latex-safe.”
 
-#### #### Does high blood pressure affect latex-food cross-reactivity symptoms?
+#### Does high blood pressure affect latex-food cross-reactivity symptoms?
 Emerging research suggests chronic inflammation and vascular stress—including sustained high blood pressure—may influence mast cell activity and immune reactivity. While not a direct cause, keeping BP well-managed (ideally below 130/80 mm Hg for most adults 58+) supports overall immune resilience—and may help reduce symptom frequency or severity.

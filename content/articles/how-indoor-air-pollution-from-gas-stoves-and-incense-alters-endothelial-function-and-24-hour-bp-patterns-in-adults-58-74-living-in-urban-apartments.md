@@ -84,22 +84,22 @@ In closing, it’s important to remember that vascular health isn’t fixed—it
 
 ### FAQ
 
-#### #### Does indoor air pollution raise blood pressure in older adults?
+#### Does indoor air pollution raise blood pressure in older adults?
 
 Yes—studies confirm that indoor air pollution, especially from gas stoves and incense, raises both short-term and 24-hour average blood pressure in adults aged 58–74. NO₂ and PM₂.₅ impair endothelial function, reducing nitric oxide availability and contributing to arterial stiffness and elevated systolic pressure—particularly noticeable in urban seniors with limited ventilation options.
 
-#### #### How does indoor air pollution blood pressure urban seniors differ from outdoor exposure?
+#### How does indoor air pollution blood pressure urban seniors differ from outdoor exposure?
 
 Indoor air pollution blood pressure urban seniors is often *more concentrated* than outdoor air—especially in sealed apartments. Gas stoves can generate NO₂ levels 2–5× higher indoors than outdoors; incense can spike PM₂.₅ to 100+ µg/m³ indoors, whereas urban outdoor averages range from 10–30 µg/m³. Because seniors spend ~90% of their time indoors, cumulative indoor exposure carries outsized influence on daily BP patterns.
 
-#### #### Can improving indoor air quality lower blood pressure?
+#### Can improving indoor air quality lower blood pressure?
 
 Evidence suggests yes—modestly but meaningfully. One 12-week study of adults 60–72 found that switching from gas to induction cooking + using HEPA/carbon filtration lowered average home systolic BP by 3.2 mm Hg and improved nocturnal dipping by 12%. While not a replacement for medication when indicated, cleaner air supports vascular repair and enhances the effectiveness of lifestyle and pharmacologic interventions.
 
-#### #### What’s the safest way to cook if I have high blood pressure?
+#### What’s the safest way to cook if I have high blood pressure?
 
 Prioritize ventilation first: always use a properly functioning range hood or open windows. Next, consider fuel source: induction and electric cooktops produce no combustion pollutants. If you continue using gas, avoid high-flame searing without ventilation and never use the oven and stovetop simultaneously without exhausting air. Lastly, keep cooking times efficient—shorter exposure = less pollutant buildup.
 
-#### #### Is incense really that harmful for blood pressure?
+#### Is incense really that harmful for blood pressure?
 
 For urban seniors, yes—especially with regular use. Burning a single incense stick for 30 minutes can elevate indoor PM₂.₅ by up to 120 µg/m³ and trigger acute endothelial dysfunction lasting 2–4 hours. In those with pre-existing hypertension, this may translate to sustained BP elevation over the day. Occasional, well-ventilated use poses lower risk—but daily burning in small, sealed spaces is strongly discouraged.

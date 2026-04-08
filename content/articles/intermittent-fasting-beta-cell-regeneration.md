@@ -56,22 +56,22 @@ In summary, *intermittent fasting beta-cell regeneration* represents a hopeful, 
 
 ### FAQ
 
-#### #### Does intermittent fasting beta-cell regeneration work for people over 60?
+#### Does intermittent fasting beta-cell regeneration work for people over 60?
 
 Yes—studies including participants up to age 67 show measurable C-peptide improvement and higher remission rates when combined with dietary quality and weight management. The pace may be slower than in younger adults, but functional gains are clinically relevant.
 
-#### #### Can intermittent fasting beta-cell regeneration reverse type 2 diabetes permanently?
+#### Can intermittent fasting beta-cell regeneration reverse type 2 diabetes permanently?
 
 “Permanent reversal” isn’t yet supported by long-term data. However, 12–24 months of insulin independence has been documented in ~20% of compliant adults 55–67 with preserved C-peptide. Sustained lifestyle adherence remains key to maintaining benefits.
 
-#### #### What’s the best way to measure intermittent fasting beta-cell regeneration in practice?
+#### What’s the best way to measure intermittent fasting beta-cell regeneration in practice?
 
 C-peptide testing (fasting or stimulated) is the most accessible clinical measure. Advanced tools like dynamic contrast-enhanced MRI or PET imaging remain largely research-only but help validate mechanisms.
 
-#### #### Does skipping breakfast trigger intermittent fasting beta-cell regeneration?
+#### Does skipping breakfast trigger intermittent fasting beta-cell regeneration?
 
 Not necessarily. Simply missing breakfast doesn’t guarantee metabolic benefit—and may worsen glycemic variability if followed by large, high-carb lunches. Consistency, duration (≥14 hours), and food quality during the eating window are what drive observed regenerative signals.
 
-#### #### Is intermittent fasting safe for people with high blood pressure?
+#### Is intermittent fasting safe for people with high blood pressure?
 
 For most adults with well-managed hypertension, yes—especially since fasting often improves insulin sensitivity and arterial pressure. However, those on diuretics or ACE inhibitors should monitor BP closely and consult their clinician before starting, as fluid balance and electrolyte needs may shift.

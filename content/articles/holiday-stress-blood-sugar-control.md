@@ -66,17 +66,17 @@ Holiday stress blood sugar control isn’t about perfection. It’s about unders
 
 ### FAQ
 
-#### #### Does holiday stress blood sugar control affect everyone equally?
+#### Does holiday stress blood sugar control affect everyone equally?
 No—genetics, years of stress exposure, sleep quality, and baseline insulin sensitivity all influence how strongly cortisol impacts your glucose. Adults over 55 tend to have slower cortisol clearance, making timing of interventions especially important.
 
-#### #### Can holiday stress blood sugar control cause long-term damage?
+#### Can holiday stress blood sugar control cause long-term damage?
 Occasional spikes won’t harm you—but repeated, unmanaged post-meal highs (especially >180 mg/dL) over weeks or months may accelerate progression from prediabetes to type 2 diabetes. Consistent patterns matter more than single events.
 
-#### #### How does holiday stress affect blood pressure and blood sugar together?
+#### How does holiday stress affect blood pressure and blood sugar together?
 Cortisol raises both arterial pressure *and* blood glucose—often in tandem. That’s why you might notice your BP creeping up *at the same time* your glucose does during tense moments. This dual effect is part of why stress-metabolism-link is so clinically relevant.
 
-#### #### Is it okay to use deep breathing *during* a heated conversation?
+#### Is it okay to use deep breathing *during* a heated conversation?
 Yes—but start *before* tension builds. Once cortisol is surging, breathing helps—but prevention works best. Try taking one slow breath before responding to a triggering comment—it buys neural space and reduces reactivity.
 
-#### #### Do festive foods like sweet potatoes or cranberry sauce worsen this effect?
+#### Do festive foods like sweet potatoes or cranberry sauce worsen this effect?
 Not inherently—but pairing high-glycemic foods (e.g., stuffing, rolls) with high-stress moments creates a “perfect storm.” Focus on protein/fiber balance *and* emotional pacing—not just food labels.

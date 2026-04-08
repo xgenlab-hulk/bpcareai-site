@@ -87,17 +87,17 @@ If you're unsure, talking to your doctor is always a good idea. And if you've be
 
 ### FAQ
 
-#### #### Do sugar-free candies cause blood sugar spikes in older adults with diabetes?
+#### Do sugar-free candies cause blood sugar spikes in older adults with diabetes?
 Not typically—but the **sugar-free candies glycemic response frail elderly** can vary widely. Erythritol and sucralose rarely raise glucose, but allulose may cause a modest, delayed rise in some older adults, especially those with slower liver metabolism. More importantly, glucose numbers alone don’t tell the full story: hormonal responses matter too.
 
-#### #### Are sugar-free candies safe for frail elderly with low blood pressure?
+#### Are sugar-free candies safe for frail elderly with low blood pressure?
 They *can* be—but proceed with awareness. Some sweeteners (especially sucralose and erythritol in sensitive individuals) may trigger norepinephrine surges, which can paradoxically lead to *after-drop* hypotension in those with autonomic dysfunction. Pairing with protein and sitting quietly for 15 minutes post-treat may help stabilize BP.
 
-#### #### What’s the safest sugar substitute for frail older adults during the holidays?
+#### What’s the safest sugar substitute for frail older adults during the holidays?
 There’s no single “safest” option for everyone—but whole-food sources (like mashed banana or unsweetened applesauce in baking) carry the fewest unknowns. Among commercial alternatives, small amounts of allulose tend to produce the most predictable, modest glycemic and hormonal profile in clinical studies involving adults over 76 with sarcopenia.
 
-#### #### Can sugar-free candy affect heart rate in seniors?
+#### Can sugar-free candy affect heart rate in seniors?
 Yes—especially in those with autonomic dysfunction. The 32-person study found measurable epinephrine and norepinephrine increases after erythritol and sucralose ingestion, correlating with transient heart rate elevation (average +8–12 bpm) in about 60% of participants. This wasn’t dangerous in isolation—but repeated surges could add strain over time.
 
-#### #### Do sugar-free candies glycemic response frail elderly differ from younger adults?
+#### Do sugar-free candies glycemic response frail elderly differ from younger adults?
 Absolutely. In healthy younger adults, most low-calorie sweeteners show minimal glucose or hormonal effects. In frail older adults, however, age-related declines in gut motility, autonomic reflexes, and hepatic clearance alter how these compounds are sensed and processed—making individualized observation essential.

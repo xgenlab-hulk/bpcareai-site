@@ -44,17 +44,17 @@ The holidays aren’t about perfection—they’re about presence, connection, a
 
 ### FAQ
 
-#### #### Can I have eggnog if I have diabetes and I’m over 60?  
+#### Can I have eggnog if I have diabetes and I’m over 60?  
 Yes—you can enjoy eggnog in moderation! Opt for a light version: ½ cup made with unsweetened almond milk, pasteurized egg whites, a pinch of nutmeg, and no added sugar. Avoid store-bought versions with high-fructose corn syrup, and always pair it with a protein-rich snack like turkey roll-ups or cheese cubes.
 
-#### #### What are the best diabetic holiday desserts over 60 for someone with heart concerns?  
+#### What are the best diabetic holiday desserts over 60 for someone with heart concerns?  
 Look for low-sodium, low-saturated-fat options: spiced poached pears, dark chocolate-dipped orange segments (70%+ cocoa), or chia seed pudding sweetened with berries. These support both blood sugar *and* heart health—key since nearly 68% of adults over 65 with diabetes also have hypertension or cardiovascular disease.
 
-#### #### How often can I enjoy diabetic holiday desserts over 60 without affecting my A1C?  
+#### How often can I enjoy diabetic holiday desserts over 60 without affecting my A1C?  
 Most people can include a modest dessert (15g carbs or less) 2–3 times per week without significant A1C impact—*if* other meals stay balanced and activity remains consistent. An A1C increase of 0.2–0.3% is typical with occasional treats; larger jumps suggest portion or frequency needs review.
 
-#### #### Is sugar-free candy safe for seniors with diabetes?  
+#### Is sugar-free candy safe for seniors with diabetes?  
 Not always. Many sugar-free candies contain sugar alcohols (like sorbitol or maltitol), which can cause bloating or diarrhea—especially in older adults with slower digestion. Plus, they still contain calories and carbs. Read labels carefully: aim for <5g total carbs per serving and avoid products listing “maltitol” high in the ingredients.
 
-#### #### Do holiday stress and sleep changes affect blood sugar in seniors?  
+#### Do holiday stress and sleep changes affect blood sugar in seniors?  
 Yes—absolutely. Stress raises cortisol, which increases glucose production; poor sleep disrupts insulin sensitivity. One study found that just three nights of <6 hours’ sleep raised fasting glucose by an average of 12 mg/dL in adults over 60. Prioritize rest, gentle movement (like 10-minute walks after meals), and deep breathing—even five minutes helps.

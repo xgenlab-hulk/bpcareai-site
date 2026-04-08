@@ -91,22 +91,22 @@ Improving aortic compliance is a gentle, months-long process—not a quick fix. 
 
 ### FAQ
 
-#### #### Can certain foods for aortic stiffness without orthostasis help if I’m already on blood pressure medication?
+#### Can certain foods for aortic stiffness without orthostasis help if I’m already on blood pressure medication?
 
 Yes—many of these foods work synergistically with medications like ACE inhibitors or ARBs by supporting endothelial function and reducing oxidative stress. However, avoid high-potassium foods (e.g., bananas, white beans) if you take potassium-sparing diuretics (e.g., spironolactone) or have advanced kidney disease (eGFR <30). Always discuss dietary changes with your prescribing clinician.
 
-#### #### Are there foods for aortic stiffness without orthostasis that are safe for people with swallowing difficulties?
+#### Are there foods for aortic stiffness without orthostasis that are safe for people with swallowing difficulties?
 
 Absolutely. Steamed spinach puréed into soups, mashed avocado, smoothies with kiwi and plain yogurt, or finely ground almonds blended into oatmeal retain their vascular benefits while being texture-modified. Avoid whole nuts or raw beets if choking risk is present—opt for roasted beet powder (¼ tsp/day) instead.
 
-#### #### How do foods for aortic stiffness without orthostasis differ from general “heart-healthy” diets?
+#### How do foods for aortic stiffness without orthostasis differ from general “heart-healthy” diets?
 
 General heart-healthy diets (e.g., DASH or Mediterranean) emphasize broad cardiovascular risk reduction. Foods for aortic stiffness without orthostasis prioritize *central arterial compliance* and *postural BP stability*—so they emphasize nitrate-rich vegetables, magnesium bioavailability, and balanced sodium-potassium ratios *without* aggressive sodium restriction, which can worsen orthostasis in frail older adults.
 
-#### #### Do I need to avoid salt completely to improve aortic stiffness?
+#### Do I need to avoid salt completely to improve aortic stiffness?
 
 No—and doing so may be counterproductive. Older adults with orthostatic tendency often need *moderate* sodium (1,800–2,300 mg/day) to maintain intravascular volume and sympathetic tone. Focus instead on eliminating *ultra-processed* sodium (chips, canned soups) and pairing natural sodium sources (e.g., tomato sauce, miso) with high-potassium foods to optimize the Na+/K+ ratio.
 
-#### #### Can lifestyle changes really lower aortic pulse wave velocity at age 70+?
+#### Can lifestyle changes really lower aortic pulse wave velocity at age 70+?
 
 Yes. A 2022 meta-analysis of 17 trials found that combined dietary + physical activity interventions reduced carotid-femoral PWV by an average of 0.5–0.9 m/s in adults aged 65–85—equivalent to “reversing” 5–10 years of arterial aging. Benefits were greatest when interventions lasted ≥12 weeks and included nitrate-rich vegetables and resistance training.

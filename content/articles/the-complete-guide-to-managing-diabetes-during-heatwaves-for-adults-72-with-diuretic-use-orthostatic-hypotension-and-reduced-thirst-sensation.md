@@ -77,22 +77,22 @@ In summer’s heat, your experience of diabetes doesn’t have to feel more frag
 
 ### FAQ
 
-#### #### How can I stay hydrated during a heatwave if I don’t feel thirsty?
+#### How can I stay hydrated during a heatwave if I don’t feel thirsty?
 
 Because thirst sensation declines significantly after age 70, rely on scheduled sipping—not thirst—as your cue. Aim for 120 mL (½ cup) of fluid every 90 minutes during daylight hours. Use visual cues like a marked water bottle or hourly phone reminder. Monitor urine color (aim for pale yellow) and frequency (at least 4 voids/day) as objective signs of hydration status.
 
-#### #### What are the safest electrolyte options for someone with diabetes, diuretics, and kidney concerns during hot weather?
+#### What are the safest electrolyte options for someone with diabetes, diuretics, and kidney concerns during hot weather?
 
 Avoid high-potassium electrolyte drinks if you take ACE inhibitors, ARBs, or potassium-sparing diuretics. Prioritize low-potassium, sodium-focused rehydration: homemade solution (1 L water + 6 tsp sugar + ½ tsp salt), low-sodium broths, or oral rehydration salts labeled “low potassium” (<10 mmol/L). Confirm safety with your clinician before adding any supplement—especially if eGFR is <60 mL/min/1.73m².
 
-#### #### Is diabetes heatwave management elderly different for people on insulin versus oral medications?
+#### Is diabetes heatwave management elderly different for people on insulin versus oral medications?
 
 Yes. Insulin requires strict temperature control (keep below 30°C) and may need temporary dose adjustment if activity or food intake drops—consult your provider before changing doses. Oral agents like sulfonylureas carry higher hypoglycemia risk in heat due to reduced renal clearance and variable intake; metformin is generally stable but avoid if vomiting/diarrhea occurs (lactic acidosis risk). CGM use becomes even more valuable for real-time trend detection.
 
-#### #### Why does my blood pressure drop when I stand up in hot weather—and how can I prevent falls?
+#### Why does my blood pressure drop when I stand up in hot weather—and how can I prevent falls?
 
 Heat causes peripheral vasodilation, reducing systemic vascular resistance. When combined with diuretics and age-related baroreflex blunting, this amplifies orthostatic hypotension. Prevent falls by rising slowly (sit on edge of bed 1 full minute before standing), wearing compression stockings (15–20 mm Hg), and ensuring adequate sodium intake (unless contraindicated). Avoid standing still for >2 minutes in heat.
 
-#### #### Can high heat make my CGM sensor fall off—or give false readings?
+#### Can high heat make my CGM sensor fall off—or give false readings?
 
 Yes—heat, humidity, and sweat increase sensor adhesive failure in older adults. It can also cause transient signal noise or calibration drift. Improve adhesion with skin prep, enhancers, and breathable tape. Recalibrate only per manufacturer instructions—and discard sensors showing persistent out-of-range alerts or adhesive lifting >24 hours after application.

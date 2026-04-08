@@ -84,22 +84,22 @@ In closing, understanding how knee pain and blood pressure in elderly adults int
 
 ### FAQ
 
-#### #### Does knee pain directly raise blood pressure in older adults?
+#### Does knee pain directly raise blood pressure in older adults?
 
 Yes—indirectly but significantly. Chronic knee pain activates the sympathetic nervous system and encourages sedentary behavior, both of which contribute to elevated and less variable blood pressure. In adults over 70, studies link moderate-to-severe knee OA with a 20–25% higher likelihood of non-dipping BP patterns.
 
-#### #### Can treating knee pain lower blood pressure in elderly patients?
+#### Can treating knee pain lower blood pressure in elderly patients?
 
 Not always dramatically—but it often helps normalize patterns. For example, one 12-week physical therapy program focused on knee strengthening and gait retraining led to an average 5–7 mm Hg reduction in daytime systolic BP among adults 72+ with Stage 2 hypertension and knee OA. The bigger win is often improved dipping and reduced morning surge.
 
-#### #### Is knee pain and blood pressure in elderly a sign of heart problems?
+#### Is knee pain and blood pressure in elderly a sign of heart problems?
 
 Not necessarily—but it *is* a sign that your cardiovascular system may be working harder than needed. Non-dipping BP and morning surges are independent risk factors for left ventricular hypertrophy and stroke. So while knee pain itself isn’t cardiac, its effect on BP warrants heart-healthy attention.
 
-#### #### What’s the best blood pressure monitor for seniors with knee or hand pain?
+#### What’s the best blood pressure monitor for seniors with knee or hand pain?
 
 Look for an upper-arm cuff with one-touch operation, large display, irregular heartbeat detection, and memory storage. Avoid wrist monitors—they’re less accurate in older adults and especially unreliable if arthritis limits hand stability or grip strength.
 
-#### #### Why does my blood pressure spike when I stand up after sitting with knee pain?
+#### Why does my blood pressure spike when I stand up after sitting with knee pain?
 
 Pain-induced muscle guarding, breath-holding, or sudden postural shifts can trigger a sympathetic reflex—raising heart rate and vasoconstriction. Combine that with possible deconditioning from reduced activity, and orthostatic (standing-up) BP changes become more pronounced. It’s not uncommon—and often improves with gradual mobility work and hydration.

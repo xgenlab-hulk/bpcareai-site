@@ -52,22 +52,22 @@ In the spirit of the season, remember: wellness isn’t about perfection—it’
 
 ### FAQ
 
-#### #### Can christmas cookies blood sugar swaps really make a difference for someone with prediabetes?
+#### Can christmas cookies blood sugar swaps really make a difference for someone with prediabetes?
 
 Yes—our CGM data showed an average 38% smaller glucose spike with optimized swaps in adults with prediabetes (fasting glucose 108–122 mg/dL). The key is combining low-glycemic flours, added fiber, and slow-digesting sweeteners—not just cutting sugar alone.
 
-#### #### What are the best christmas cookies blood sugar swaps for classic sugar cookies?
+#### What are the best christmas cookies blood sugar swaps for classic sugar cookies?
 
 Try swapping all-purpose flour for a mix of superfine almond flour and certified gluten-free oat flour (70/30), replace half the sugar with allulose (which has minimal effect on glucose), and add 1 tsp ground flax per ½ cup flour for structure and fiber.
 
-#### #### Do sugar-free holiday cookies always support healthy blood sugar?
+#### Do sugar-free holiday cookies always support healthy blood sugar?
 
 Not necessarily. Some “sugar-free” cookies use maltitol or high-fructose corn syrup derivatives, which *can* raise glucose or trigger GI upset. Always check total *net carbs* and ingredient quality—not just the “sugar-free” label.
 
-#### #### How long does it take to see changes after trying christmas cookies blood sugar swaps?
+#### How long does it take to see changes after trying christmas cookies blood sugar swaps?
 
 Many notice steadier energy and reduced post-cookie fatigue within 2–3 days. For measurable glucose trends, aim for consistent use over 1–2 weeks—especially when paired with mindful portion sizes and balanced meals.
 
-#### #### Are there heart-healthy benefits to these swaps beyond blood sugar?
+#### Are there heart-healthy benefits to these swaps beyond blood sugar?
 
 Absolutely. Many of these changes—like adding nuts, seeds, and cinnamon—also support healthy cholesterol and arterial pressure. Fiber-rich swaps may contribute to modest reductions in systolic BP (average ~3–5 mm Hg in longer-term studies).

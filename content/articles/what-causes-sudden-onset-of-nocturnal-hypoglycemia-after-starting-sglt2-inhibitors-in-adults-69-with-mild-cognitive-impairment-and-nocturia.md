@@ -57,22 +57,22 @@ Experiencing SGLT2 inhibitors nocturnal hypoglycemia seniors can feel unsettling
 
 ### FAQ
 
-#### #### What are the early signs of SGLT2 inhibitors nocturnal hypoglycemia in seniors?
+#### What are the early signs of SGLT2 inhibitors nocturnal hypoglycemia in seniors?
 
 Early signs can be subtle: restless sleep, night sweats, vivid dreams, waking with a headache or feeling unusually tired, or finding your glucose meter reading below 70 mg/dL during a 2–4 a.m. check. Because hypoglycemia awareness often declines with age and MCI, symptoms may be less obvious — making regular monitoring especially valuable.
 
-#### #### Can SGLT2 inhibitors cause low blood sugar at night even without other diabetes meds?
+#### Can SGLT2 inhibitors cause low blood sugar at night even without other diabetes meds?
 
 Yes — though rare, it *can* happen in seniors, particularly those with reduced kidney function, nocturia, or mild cognitive impairment. The combination of enhanced urinary glucose loss, altered circadian insulin sensitivity, and fragmented sleep increases vulnerability — even without insulin or sulfonylureas.
 
-#### #### How does mild cognitive impairment affect nighttime blood sugar awareness?
+#### How does mild cognitive impairment affect nighttime blood sugar awareness?
 
 MCI can dampen autonomic warning signals (like tremor or hunger) and delay recognition of mental symptoms (like confusion or difficulty concentrating). This “hypoglycemia unawareness” means lows may go unnoticed until they’re more advanced — reinforcing the importance of scheduled glucose checks or CGM.
 
-#### #### Are there alternatives to SGLT2 inhibitors for seniors with frequent nocturia?
+#### Are there alternatives to SGLT2 inhibitors for seniors with frequent nocturia?
 
 Not necessarily — many seniors benefit greatly from SGLT2 inhibitors’ cardiovascular and renal protection. Instead of stopping them, your doctor may adjust timing, dosage, or support strategies (like fluid scheduling or bedtime snacks) to prevent lows. Always discuss options before making changes.
 
-#### #### Does nocturia itself raise the risk of nighttime low blood sugar?
+#### Does nocturia itself raise the risk of nighttime low blood sugar?
 
 Indirectly, yes. Frequent nighttime awakenings disrupt slow-wave and REM sleep — both critical for stable glucose regulation. Poor sleep quality also increases cortisol and reduces insulin sensitivity overnight, creating conditions where even modest glucose-lowering effects become more pronounced.

@@ -74,22 +74,22 @@ Holiday travel doesn’t have to mean guessing about your glucose. With a little
 
 ### FAQ
 
-#### #### How does airplane cabin pressure affect CGM calibration holiday travel disruption?
+#### How does airplane cabin pressure affect CGM calibration holiday travel disruption?
 
 Cabin pressure (equivalent to ~6,000–8,000 ft elevation) doesn’t directly damage sensors, but lower oxygen and drier air can slightly delay glucose diffusion into interstitial fluid — potentially causing a 10–20 minute lag in trend direction. This is usually subtle and resolves within an hour of landing. Staying well-hydrated and confirming with a fingerstick mid-flight helps maintain confidence.
 
-#### #### Can cold weather cause CGM calibration holiday travel disruption?
+#### Can cold weather cause CGM calibration holiday travel disruption?
 
 Yes — especially temperatures below 10°C (50°F). Cold slows enzymatic reactions inside the sensor and may reduce local blood flow, leading to transient underestimation (e.g., CGM reads 120 mg/dL while fingerstick shows 140 mg/dL). Warming the sensor site gently (e.g., with a hand over it for 60 seconds) before scanning often restores alignment.
 
-#### #### What’s the best way to recalibrate a CGM during holiday travel?
+#### What’s the best way to recalibrate a CGM during holiday travel?
 
 Avoid recalibrating during or right after meals, caffeine, or stress. Instead, wait until glucose is relatively stable (e.g., 2–3 hours after eating), then perform two fingerstick tests 5 minutes apart — using the average value if they agree within 10%. Enter that average into your CGM. Repeat only if trends remain inconsistent across two checks.
 
-#### #### Do I need to recalibrate my CGM every time I fly?
+#### Do I need to recalibrate my CGM every time I fly?
 
 Not necessarily — especially if you use a factory-calibrated system (e.g., Dexcom G7, Medtronic Guardian 4). These devices don’t require routine user calibration. However, checking with a fingerstick once or twice per flight — particularly during long-haul or multi-leg trips — is a wise, low-effort way to verify reliability.
 
-#### #### How does jet lag impact CGM accuracy during holiday travel?
+#### How does jet lag impact CGM accuracy during holiday travel?
 
 Jet lag itself doesn’t alter CGM function, but it *does* shift your body’s insulin sensitivity, cortisol rhythms, and meal timing — all of which affect glucose levels independently. This can make CGM trends *seem* erratic, even when the device is working perfectly. Prioritizing consistent sleep windows, light exposure, and modest carb intake during transit helps stabilize your physiology — supporting more predictable CGM readings.

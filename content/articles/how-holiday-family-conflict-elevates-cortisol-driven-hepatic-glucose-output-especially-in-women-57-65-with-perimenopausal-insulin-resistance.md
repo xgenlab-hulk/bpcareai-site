@@ -41,22 +41,22 @@ In short, holiday stress doesn’t have to derail your metabolic health. Your bo
 
 ### FAQ
 
-#### #### Does family conflict cortisol glucose output affect men and women the same way?
+#### Does family conflict cortisol glucose output affect men and women the same way?
 
 No. Women 57–65 experience greater cortisol sensitivity due to declining estrogen, which normally modulates GRα expression and hepatic cortisol breakdown. Men show less pronounced hepatic glucose output in response to equivalent psychosocial stress.
 
-#### #### Can family conflict cortisol glucose output raise blood pressure too?
+#### Can family conflict cortisol glucose output raise blood pressure too?
 
 Yes—cortisol increases vascular tone and sodium retention, contributing to transient BP elevations (often 5–15 mm Hg systolic). In those with existing hypertension, repeated spikes may delay BP control. This is why *family conflict cortisol glucose output* and arterial pressure often rise together during stressful holidays.
 
-#### #### How long does elevated glucose from family conflict last?
+#### How long does elevated glucose from family conflict last?
 
 Typically 6–24 hours after the stressor ends—if no further conflict occurs. But with chronic low-grade tension (e.g., ongoing caregiving strain), elevated fasting glucose can persist for days, reflecting sustained GRα activation and reduced insulin-mediated glucose uptake.
 
-#### #### What’s the link between holiday diabetes management and cortisol?
+#### What’s the link between holiday diabetes management and cortisol?
 
 Holiday diabetes management must include stress physiology—not just carbs and medication. Cortisol directly antagonizes insulin action in muscle and fat while stimulating the liver. Ignoring this means missing a key driver of holiday glucose variability.
 
-#### #### Is there a blood test that shows if stress is affecting my liver’s glucose production?
+#### Is there a blood test that shows if stress is affecting my liver’s glucose production?
 
 Not directly—but elevated fasting glucose + normal C-peptide + high morning cortisol (≥20 µg/dL) suggests cortisol-driven hepatic output rather than beta-cell failure. Paired testing (glucose + cortisol + insulin) offers the clearest picture.

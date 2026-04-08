@@ -87,17 +87,17 @@ Holiday meals are meant to nourish more than the body—they feed memory, belong
 
 ### FAQ
 
-#### #### What are the best foods for chewing efficiency holiday meals seniors?  
+#### What are the best foods for chewing efficiency holiday meals seniors?  
 Focus on foods that offer gentle resistance and predictable texture: tender roasted root vegetables, moist ground turkey or meatloaf, soft-cooked lentils, ripe pears or baked apples, and creamy mashed potatoes with visible herb flecks (for sensory interest). Avoid foods that crumble unpredictably (like dry crackers), stick heavily (like peanut butter), or require sudden biting force (like whole apples or raw carrots).
 
-#### #### Can chewing efficiency holiday meals seniors improve without dental appliances?  
+#### Can chewing efficiency holiday meals seniors improve without dental appliances?  
 Yes—absolutely. Research shows that targeted oral-motor exercises, strategic food modification, and mindful meal pacing can meaningfully support chewing function—even in adults over 80—without dentures, implants, or supplements. Muscle coordination and sensory awareness respond well to gentle, consistent practice.
 
-#### #### How does sarcopenic dysphagia affect chewing efficiency holiday meals seniors?  
+#### How does sarcopenic dysphagia affect chewing efficiency holiday meals seniors?  
 Sarcopenic dysphagia involves age-related loss of both skeletal muscle (including jaw and tongue muscles) and neuromuscular coordination. This can lead to slower chewing cycles, reduced bite force, and longer oral transit time—making holiday meals feel tiring or risky. The good news? It’s modifiable: studies show even 5 minutes of daily oral-motor activity improves chewing endurance by up to 22% over 8 weeks.
 
-#### #### Are there natural ways to increase saliva for better chewing efficiency holiday meals seniors?  
+#### Are there natural ways to increase saliva for better chewing efficiency holiday meals seniors?  
 Yes—gentle stimulation helps. Try sipping warm (not hot) herbal teas like ginger or chamomile, sucking on a slice of lemon or cucumber before meals, or chewing sugar-free gum with xylitol for 2–3 minutes pre-meal. Avoid anticholinergic medications (e.g., some allergy or bladder drugs) if possible—ask your pharmacist about alternatives, as these can significantly reduce saliva.
 
-#### #### What’s the difference between dysphagia and normal aging-related chewing changes?  
+#### What’s the difference between dysphagia and normal aging-related chewing changes?  
 Normal aging may bring slower chewing, mild fatigue, or preference for softer textures—while still allowing safe, complete swallowing without coughing or choking. Dysphagia involves symptoms like frequent throat clearing, wet/gurgly voice after eating, unexplained weight loss, or recurrent lung infections. When in doubt, a brief screening by a speech-language pathologist can clarify whether support is needed—and early guidance makes all the difference.

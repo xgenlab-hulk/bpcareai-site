@@ -67,22 +67,22 @@ High blood pressure is highly manageable—even when medication interactions rai
 
 ### FAQ
 
-#### #### Can SSRIs really raise blood pressure in older adults?
+#### Can SSRIs really raise blood pressure in older adults?
 
 Yes—especially in those over 70. SSRIs may trigger serotonin-driven arterial tightening, particularly when combined with other vasoactive meds. Studies show systolic BP increases of 10–15 mm Hg are possible in susceptible individuals.
 
-#### #### What medications commonly interact with blood pressure meds in seniors?
+#### What medications commonly interact with blood pressure meds in seniors?
 
 Common culprits include SSRIs, PPIs, anticholinergics (like oxybutynin), NSAIDs (e.g., ibuprofen), decongestants (pseudoephedrine), and certain herbal supplements (e.g., licorice root). These can interfere with BP control through fluid retention, electrolyte shifts, or nervous system effects.
 
-#### #### How do medication interactions raise blood pressure seniors—and can they be reversed?
+#### How do medication interactions raise blood pressure seniors—and can they be reversed?
 
 They often act via altered serotonin signaling, potassium loss, or reduced vagal tone—all reversible with careful deprescribing or substitution. In clinical practice, adjusting or stopping one interacting drug (under supervision) often lowers BP by 8–12 mm Hg within 2–4 weeks.
 
-#### #### Are there safer alternatives to PPIs or anticholinergics for older adults?
+#### Are there safer alternatives to PPIs or anticholinergics for older adults?
 
 Often, yes. For reflux, lifestyle tweaks plus intermittent H₂ blockers (e.g., famotidine) may suffice. For overactive bladder, behavioral therapy and newer agents like mirabegron carry lower BP risk than traditional anticholinergics.
 
-#### #### Does polypharmacy always raise blood pressure?
+#### Does polypharmacy always raise blood pressure?
 
 Not always—but it *significantly increases the odds*. Each additional medication raises the risk of clinically relevant BP elevation by ~12%. That’s why regular medication reviews are a cornerstone of healthy aging.

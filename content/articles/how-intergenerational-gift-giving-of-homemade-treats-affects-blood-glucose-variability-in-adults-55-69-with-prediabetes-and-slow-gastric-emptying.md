@@ -88,17 +88,17 @@ Navigating homemade holiday treats prediabetes gastric emptying doesn’t requir
 
 ### FAQ
 
-#### #### How do homemade holiday treats affect blood sugar in people with prediabetes and slow digestion?
+#### How do homemade holiday treats affect blood sugar in people with prediabetes and slow digestion?
 Homemade holiday treats prediabetes gastric emptying can cause unpredictable glucose patterns because they often contain unmeasured sugars and fats—both of which delay stomach emptying. This leads to either late-onset spikes (peaking at 90–120 minutes) or “double dips” where initial stability is followed by hypoglycemia as delayed absorption catches up.
 
-#### #### Are there safer homemade holiday treats prediabetes gastric emptying options I can suggest to family?
+#### Are there safer homemade holiday treats prediabetes gastric emptying options I can suggest to family?
 Yes! Encourage swaps like baked apples with cinnamon and walnuts, no-sugar-added chia pudding, or whole-grain mini-muffins made with almond flour and modest sweetener (e.g., 1 tsp maple syrup per muffin). Even better: invite loved ones to bake *together*, using recipes designed for steady glucose response.
 
-#### #### Can slow gastric emptying worsen prediabetes over time?
+#### Can slow gastric emptying worsen prediabetes over time?
 Not directly—but untreated or unrecognized delayed gastric emptying can make glucose management more challenging, potentially accelerating progression from prediabetes to type 2 diabetes if lifestyle support isn’t in place. Fortunately, dietary adjustments, mindful eating, and regular movement often improve both digestion and insulin sensitivity.
 
-#### #### What’s the difference between “prediabetes” and “impaired fasting glucose”?
+#### What’s the difference between “prediabetes” and “impaired fasting glucose”?
 They’re closely related: prediabetes is the broader term covering three patterns—impaired fasting glucose (IFG: 100–125 mg/dL), impaired glucose tolerance (IGT: 140–199 mg/dL at 2-hour oral glucose test), or elevated A1c (5.7–6.4%). All signal increased diabetes risk—and all respond well to lifestyle support.
 
-#### #### Should I avoid all holiday desserts if I have gastroparesis and prediabetes?
+#### Should I avoid all holiday desserts if I have gastroparesis and prediabetes?
 No—you don’t need to avoid them entirely. Focus instead on portion control, ingredient awareness, and strategic pairing (e.g., with protein or healthy fats). Many people find they tolerate small servings of moist, low-fat, lower-sugar treats very well—especially when eaten slowly and mindfully.

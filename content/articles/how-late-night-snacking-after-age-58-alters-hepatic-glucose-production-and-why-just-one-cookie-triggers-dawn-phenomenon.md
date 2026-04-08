@@ -86,22 +86,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does late-night snacking and fasting glucose over 58 affect everyone the same way?
+#### Does late-night snacking and fasting glucose over 58 affect everyone the same way?
 
 No—not everyone responds identically. Genetics, medication use, sleep quality, and baseline insulin sensitivity all influence how strongly late eating affects fasting glucose. But studies consistently show that adults over 58 experience *greater circadian vulnerability* than younger adults—meaning even modest late eating tends to have a more pronounced effect on overnight glucose regulation.
 
-#### #### Can I still have a bedtime snack if I’m over 58 and watching my diabetes?
+#### Can I still have a bedtime snack if I’m over 58 and watching my diabetes?
 
 Yes—but timing and composition matter. A small, low-carb, high-protein snack (like cottage cheese or a hard-boiled egg) consumed *at least 2 hours before bed* is far less likely to disrupt hepatic fasting than a carb-heavy snack right before sleep. Avoid refined carbs and added sugars entirely in the evening window.
 
-#### #### How does late-night snacking and fasting glucose over 58 relate to heart health?
+#### How does late-night snacking and fasting glucose over 58 relate to heart health?
 
 Elevated fasting glucose is closely tied to increased arterial stiffness and endothelial dysfunction—both early markers of cardiovascular risk. In adults over 58, repeated overnight glucose spikes contribute to systemic inflammation and oxidative stress, which accelerate vascular aging. Managing nighttime metabolism supports not just blood sugar, but also BP stability and long-term heart resilience.
 
-#### #### Is the dawn phenomenon normal—or a sign something’s wrong?
+#### Is the dawn phenomenon normal—or a sign something’s wrong?
 
 The dawn phenomenon *is* a normal physiological rise in blood glucose (typically 5–10 mg/dL) between 4–8 a.m., driven by natural hormone surges. However, when fasting glucose climbs **20–40 mg/dL** overnight—or exceeds 130 mg/dL regularly—it often signals *exaggerated* hepatic glucose production, frequently worsened by late eating, poor sleep, or advancing insulin resistance.
 
-#### #### Does intermittent fasting help with late-night snacking and fasting glucose over 58?
+#### Does intermittent fasting help with late-night snacking and fasting glucose over 58?
 
 For many adults over 58, yes—especially time-restricted eating (TRE) with a 10–12 hour overnight fast. Research shows TRE improves insulin sensitivity and reduces nocturnal glucose variability *without requiring calorie reduction*. However, it’s important to discuss with your doctor first—particularly if you take insulin or sulfonylureas, as timing adjustments may be needed to prevent hypoglycemia.

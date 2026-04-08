@@ -54,17 +54,17 @@ In short, enjoying holiday card games doesn’t have to mean compromising heart 
 
 ### FAQ
 
-#### #### Do holiday card games raise blood pressure enough to cause arrhythmia?
+#### Do holiday card games raise blood pressure enough to cause arrhythmia?
 Yes—especially in sedentary adults over 65 with existing cardiovascular risk factors. Studies show transient BP increases of 10–20 mm Hg during play, which may lower the threshold for brief arrhythmias like PACs. It’s rare for healthy hearts, but worth monitoring if you have known heart disease or hypertension.
 
-#### #### Can holiday card games blood pressure arrhythmia happen even without drinking alcohol?
+#### Can holiday card games blood pressure arrhythmia happen even without drinking alcohol?
 Absolutely. While “holiday heart syndrome” was originally linked to alcohol, newer research confirms that psychological stress—like competitive card play—can independently trigger similar BP surges and rhythm changes through cortisol and sympathetic activation.
 
-#### #### What’s the safest type of holiday card game for someone with high blood pressure?
+#### What’s the safest type of holiday card game for someone with high blood pressure?
 Slower-paced, cooperative games (e.g., Uno with house rules allowing passes, or memory-style matching) tend to generate less sympathetic arousal than timed or high-stakes games like competitive spades or tournament bridge. Focus on laughter and connection—not winning.
 
-#### #### Is occasional palpitation during holiday card games dangerous?
+#### Is occasional palpitation during holiday card games dangerous?
 Not usually—if it’s brief (<30 seconds), resolves quickly, and isn’t paired with dizziness or chest pain. But if palpitations happen repeatedly during play—or worsen over several days—it’s wise to consult your healthcare provider.
 
-#### #### How does holiday card games blood pressure arrhythmia differ from regular stress-related BP spikes?
+#### How does holiday card games blood pressure arrhythmia differ from regular stress-related BP spikes?
 The difference lies in frequency and context: holiday card games often occur repeatedly in a short timeframe (e.g., multiple games across a weekend), combined with other seasonal stressors (travel, disrupted sleep, richer foods). This cumulative load—part of *low-intensity-stress physiology*—may affect vascular resilience more than isolated stress events.

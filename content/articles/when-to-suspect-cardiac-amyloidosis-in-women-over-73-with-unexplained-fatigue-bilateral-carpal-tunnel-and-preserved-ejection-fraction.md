@@ -92,17 +92,17 @@ Cardiac amyloidosis symptoms women 73+ may sound daunting, but increased awarene
 
 ### FAQ
 
-#### #### What are the most common cardiac amyloidosis symptoms women 73+ experience?
+#### What are the most common cardiac amyloidosis symptoms women 73+ experience?
 The most common symptoms include persistent, unexplained fatigue (often described as “heavy” or “washed out”), bilateral carpal tunnel syndrome (frequently requiring surgery in both wrists), shortness of breath with minimal exertion, leg or abdominal swelling, and lightheadedness upon standing. Notably, many women retain normal ejection fraction on echocardiogram — making symptoms the primary clue.
 
-#### #### Can cardiac amyloidosis symptoms women 73+ be mistaken for other conditions?
+#### Can cardiac amyloidosis symptoms women 73+ be mistaken for other conditions?
 Yes — very commonly. These symptoms are often misattributed to aging, osteoarthritis, depression, chronic fatigue syndrome, or “just being out of shape.” Bilateral carpal tunnel, in particular, is rarely linked to heart disease in routine care — yet it’s one of the strongest early predictors of ATTR amyloidosis in older women.
 
-#### #### How is cardiac amyloidosis diagnosed in women over 73?
+#### How is cardiac amyloidosis diagnosed in women over 73?
 Diagnosis typically begins with a detailed history and physical exam, followed by ECG (looking for low voltage + pseudo-infarct), echocardiogram (assessing wall thickness and strain), and blood tests (BNP/NT-proBNP, serum free light chains). If suspicion remains, a technetium-99m PYP scan is performed — a non-invasive, highly accurate test that avoids the need for biopsy in most cases.
 
-#### #### Is cardiac amyloidosis hereditary in older women?
+#### Is cardiac amyloidosis hereditary in older women?
 Most cases in women over 73 are due to *wild-type* transthyretin amyloidosis (ATTRwt), which is *not* inherited and results from age-related misfolding of normal transthyretin protein. Hereditary ATTR (ATTRv) is much rarer in this age group and usually presents earlier (50s–60s) with family history and neuropathy. Genetic testing helps clarify the type.
 
-#### #### Are there treatments for cardiac amyloidosis in older adults?
+#### Are there treatments for cardiac amyloidosis in older adults?
 Yes — and they’re more effective when started early. Tafamidis, a stabilizer of the transthyretin protein, is FDA-approved for ATTR cardiomyopathy and shown to reduce cardiovascular hospitalizations and slow functional decline. Supportive care (e.g., diuretics for fluid control, pacemakers for conduction disease) remains important, and multidisciplinary care involving cardiology, neurology, and primary care yields the best outcomes.

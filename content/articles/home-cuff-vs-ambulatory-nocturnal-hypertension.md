@@ -63,22 +63,22 @@ Choosing between home and ambulatory monitoring isn’t about “right or wrong�
 
 ### FAQ
 
-#### #### Is home-cuff-vs-ambulatory-nocturnal-hypertension really different for seniors with sleep apnea?
+#### Is home-cuff-vs-ambulatory-nocturnal-hypertension really different for seniors with sleep apnea?
 
 Yes—older adults with even mild sleep apnea often have fragmented nocturnal BP patterns that home cuffs miss. Ambulatory monitoring captures these fluctuations across real sleep cycles, while home cuffs tend to reflect wakeful moments or incomplete relaxation.
 
-#### #### How does mild cognitive impairment affect home-cuff-vs-ambulatory-nocturnal-hypertension choices?
+#### How does mild cognitive impairment affect home-cuff-vs-ambulatory-nocturnal-hypertension choices?
 
 MCI can impact memory for routine, ability to recognize device errors, or comfort with overnight wear. That’s why shared decision-making—with input from family or caregivers—is key. Simpler home cuffs with audio cues or clinician-assisted ambulatory setups often work best.
 
-#### #### Can I use my home blood pressure cuff to check nocturnal hypertension?
+#### Can I use my home blood pressure cuff to check nocturnal hypertension?
 
 Technically yes—but clinically, it’s not ideal. Most home oscillometric cuffs aren’t validated for supine or asleep use, and adherence drops significantly at night. For reliable nocturnal assessment, ambulatory monitoring remains the recommended standard.
 
-#### #### What’s the best blood pressure target at night for adults 71+?
+#### What’s the best blood pressure target at night for adults 71+?
 
 Current guidelines suggest an average nocturnal systolic <120 mm Hg and diastolic <70 mm Hg—but individual goals depend on frailty, medications, and comorbidities. Always discuss targets with your care team.
 
-#### #### Does Medicare cover ambulatory blood pressure monitoring for nocturnal hypertension?
+#### Does Medicare cover ambulatory blood pressure monitoring for nocturnal hypertension?
 
 Yes—in many cases, Medicare Part B covers ambulatory BP monitoring once per year if ordered for suspected white-coat or masked hypertension, including nocturnal patterns. Ask your provider about documentation requirements.

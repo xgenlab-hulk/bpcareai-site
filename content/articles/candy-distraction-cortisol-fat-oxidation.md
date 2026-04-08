@@ -57,17 +57,17 @@ In short, **candy distraction cortisol fat oxidation** isn’t about blame—it�
 
 ### FAQ
 
-#### #### Does candy distraction cortisol fat oxidation affect blood pressure?
+#### Does candy distraction cortisol fat oxidation affect blood pressure?
 Yes—elevated evening cortisol increases sympathetic nervous system activity, which can raise arterial pressure, especially during sleep onset. Studies report average systolic increases of **5–8 mm Hg** in adults 65+ on high-distraction days, even without diagnosed hypertension.
 
-#### #### Can reducing candy distraction cortisol fat oxidation improve weight loss in older adults?
+#### Can reducing candy distraction cortisol fat oxidation improve weight loss in older adults?
 Indirectly—but meaningfully. While it won’t cause rapid weight loss, lowering evening cortisol helps restore normal nocturnal fat oxidation. Over time, this supports modest but sustainable reductions in abdominal fat—especially when paired with consistent movement and protein-rich meals.
 
-#### #### What’s the best way to measure candy distraction cortisol fat oxidation at home?
+#### What’s the best way to measure candy distraction cortisol fat oxidation at home?
 You can’t directly measure cortisol or RER at home, but proxies help: track salivary cortisol via at-home test kits (used under clinical guidance), monitor overnight RER with research-grade wearables (not consumer fitness trackers), and note subjective markers like sleep fragmentation or morning fasting glucose trends.
 
-#### #### Is it safe to skip dessert entirely during family gatherings?
+#### Is it safe to skip dessert entirely during family gatherings?
 Absolutely—and often beneficial. Skipping dessert doesn’t mean missing joy. Try sharing a single square of high-cocoa dark chocolate or a small bowl of berries with whipped cream. It models mindful enjoyment without triggering the cascade.
 
-#### #### How does stress-metabolism-interference differ between age groups?
+#### How does stress-metabolism-interference differ between age groups?
 Younger adults often rebound quickly from acute stressors; cortisol returns to baseline within hours. In adults 66+, HPA axis recovery slows—so a 20-minute candy-fueled disruption can elevate cortisol for **4–6 hours**, overlapping with critical windows for metabolic repair and fat oxidation.

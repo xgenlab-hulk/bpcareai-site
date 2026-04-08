@@ -50,22 +50,22 @@ In short, recognizing *holiday hyponatremia early signs seniors* experience does
 
 ### FAQ
 
-#### #### What are the earliest warning signs of holiday hyponatremia in seniors?
+#### What are the earliest warning signs of holiday hyponatremia in seniors?
 
 The earliest signs include altered thirst patterns (e.g., sudden overdrinking or prolonged disinterest in fluids), unexplained overnight weight gain >2.5%, and subtle changes in speech rhythm or prosody—often noticed during morning family chats—*before* confusion or falls occur.
 
-#### #### Can healthy holiday eating for seniors prevent hyponatremia?
+#### Can healthy holiday eating for seniors prevent hyponatremia?
 
 Yes—when it includes balanced sodium intake (not just low-salt avoidance) and timed hydration. Prioritizing broth-based soups, fermented foods, and modest dairy helps maintain electrolyte stability, especially during festive routines that disrupt usual habits.
 
-#### #### Are holiday hyponatremia early signs seniors show different from general hyponatremia symptoms?
+#### Are holiday hyponatremia early signs seniors show different from general hyponatremia symptoms?
 
 Yes. In older adults with MCI, classic symptoms like headache or nausea may be muted or absent. Instead, clinicians look for *pre-symptomatic* markers: prosodic speech changes, impaired thirst regulation, and rapid fluid retention—all tied to age-related neuroendocrine shifts.
 
-#### #### How quickly can hyponatremia develop during the holidays?
+#### How quickly can hyponatremia develop during the holidays?
 
 In vulnerable seniors, sodium can drop significantly within 48–72 hours—especially after multiple high-fluid, low-sodium meals paired with reduced activity and possible medication interactions.
 
-#### #### Does blood pressure monitoring help detect holiday hyponatremia early signs seniors might miss?
+#### Does blood pressure monitoring help detect holiday hyponatremia early signs seniors might miss?
 
 Indirectly—yes. A sudden drop in systolic BP (e.g., >20 mm Hg from baseline) or orthostatic changes alongside weight gain or speech shifts warrant closer evaluation, as hypotension can reflect volume overload and sodium dilution.

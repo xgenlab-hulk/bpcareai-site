@@ -60,17 +60,17 @@ Resetting your gut isn’t about perfection—it’s about gentle recalibration.
 
 ### FAQ
 
-#### #### How soon can I reset gut microbiome after holiday meals no probiotics?
+#### How soon can I reset gut microbiome after holiday meals no probiotics?
 Most adults 65–80 notice improved regularity and reduced bloating within 48–72 hours when applying timed resistant starch, polyphenol sequencing, and a 12-hour fasting window—no probiotics needed.
 
-#### #### Can I reset gut microbiome after holiday meals no probiotics if I’m on metformin?
+#### Can I reset gut microbiome after holiday meals no probiotics if I’m on metformin?
 Yes—these food-first strategies complement metformin well. Just avoid taking psyllium within 2 hours of metformin, as fiber can reduce absorption. Space them apart by at least 2–3 hours.
 
-#### #### What’s the best fiber for constipation-predominant IBS and type 2 diabetes?
+#### What’s the best fiber for constipation-predominant IBS and type 2 diabetes?
 Soluble, low-FODMAP fibers work best: psyllium husk, ground flaxseed, and cooked okra. They soften stool *without* triggering gas or spikes in blood sugar—unlike high-FODMAP fibers like raw onions or apples.
 
-#### #### Does fasting help reset gut microbiome after holiday meals no probiotics?
+#### Does fasting help reset gut microbiome after holiday meals no probiotics?
 Yes—when done gently. A consistent 12-hour overnight fast supports microbial rhythm restoration and improves insulin sensitivity. Avoid longer fasts (e.g., 16+ hours) if you’re on sulfonylureas or insulin, due to hypoglycemia risk.
 
-#### #### Are there any foods I should avoid during the first 48 hours after holiday meals?
+#### Are there any foods I should avoid during the first 48 hours after holiday meals?
 Temporarily limit dairy (especially soft cheeses), fried foods, and artificial sweeteners (sorbitol, mannitol)—all can slow motility or feed gas-producing microbes. Also skip large servings of raw cruciferous veggies (like raw broccoli) until your gut feels steadier.

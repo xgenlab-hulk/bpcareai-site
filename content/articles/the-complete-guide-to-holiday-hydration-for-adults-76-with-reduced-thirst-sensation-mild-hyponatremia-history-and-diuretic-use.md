@@ -65,17 +65,17 @@ A joyful, healthy holiday season starts with feeling grounded—not drained, diz
 
 ### FAQ
 
-#### #### What are safe holiday drinks for seniors with hyponatremia history?  
+#### What are safe holiday drinks for seniors with hyponatremia history?  
 Stick to low-sugar, sodium-balanced options: diluted coconut water (¼ cup in ½ cup water), warm herbal teas with a pinch of sea salt, or low-sodium broths. Avoid plain water overload, undiluted fruit juices, and alcohol—even wine can worsen sodium shifts in sensitive individuals.
 
-#### #### How much water should seniors on diuretics drink during the holidays?  
+#### How much water should seniors on diuretics drink during the holidays?  
 There’s no one-size-fits-all number—but aim for consistent, small sips: roughly 1,200–1,500 mL/day (about 5–6 cups), adjusted for activity, heat, and urine output. Never force >200 mL at once if you’re on diuretics—timing matters more than total volume.
 
-#### #### Can holiday hydration seniors hyponatremia affect my blood pressure?  
+#### Can holiday hydration seniors hyponatremia affect my blood pressure?  
 Yes—both dehydration *and* overhydration can destabilize BP. Low sodium can blunt vascular tone, contributing to orthostatic drops; too much plain water can dilute sodium further, worsening lightheadedness. Balanced hydration supports steadier arterial pressure.
 
-#### #### Is cranberry juice safe for seniors with mild hyponatremia?  
+#### Is cranberry juice safe for seniors with mild hyponatremia?  
 Not as a primary hydrator. While it contains some potassium, most commercial versions are high in sugar and lack sodium—making them poor choices for sodium-sensitive seniors. Better to use it sparingly (1–2 tbsp) as a flavor accent in balanced drinks.
 
-#### #### What time of day is best to check for holiday hydration seniors hyponatremia clues?  
+#### What time of day is best to check for holiday hydration seniors hyponatremia clues?  
 First thing in the morning—before coffee or breakfast—is ideal. Check tongue tackiness, get up slowly to assess orthostasis, and note first-void urine color. These early cues reflect overnight fluid and sodium status most clearly.

@@ -1,0 +1,499 @@
+{
+  "batch_id": 8,
+  "total_articles": 245,
+  "quality_distribution": {
+    "excellent": 188,
+    "good": 6,
+    "needs_improvement": 49,
+    "poor": 2
+  },
+  "needs_optimization": [
+    {
+      "slug": "the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors",
+      "title": "The Truth About 'Sugar-Free' Holiday Candy Labels: What FDA Compliance Doesn’t Tell You About Sugar Alcohols and GI Distress in Seniors",
+      "current_keyword": "sugar-free candy side effects seniors",
+      "score": 50,
+      "issues": [],
+      "suggested_keyword": "stress holiday seniors sugar-free",
+      "rationale": "Adjusted length from 37 to 33 chars"
+    },
+    {
+      "slug": "natural-ways-to-support-renin-angiotensin-system-balance-without-ace-inhibitors-for-adults-with-hypertension-and-chronic-cough-or-angioedema",
+      "title": "Natural Ways to Support Renin-Angiotensin System Balance Without ACE Inhibitors—For Adults With Hypertension and Chronic Cough or Angioedema",
+      "current_keyword": "renin angiotensin balance natural alternatives",
+      "score": 40,
+      "issues": [
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "renin angiotensin balance natural",
+      "rationale": "Adjusted length from 46 to 33 chars"
+    },
+    {
+      "slug": "natural-ways-to-stabilize-autonomic-tone-during-holiday-travel-especially-for-adults-with-parkinson-s-associated-cardiac-dysautonomia-age-65-81",
+      "title": "Natural Ways to Stabilize Autonomic Tone During Holiday Travel—Especially for Adults With Parkinson’s-Associated Cardiac Dysautonomia (Age 65–81)",
+      "current_keyword": "autonomic tone stabilization during holiday travel",
+      "score": 50,
+      "issues": [],
+      "suggested_keyword": "autonomic tone holiday over 65",
+      "rationale": "Adjusted length from 50 to 30 chars"
+    },
+    {
+      "slug": "why-does-portion-distortion-hit-harder-in-multi-generational-households-the-role-of-intergenerational-feeding-scripts-in-adults-55-74",
+      "title": "Why Does Portion Distortion Hit Harder in Multi-Generational Households? The Role of Intergenerational Feeding Scripts in Adults 55–74",
+      "current_keyword": "portion distortion intergenerational feeding scripts",
+      "score": 35,
+      "issues": [
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "portion distortion intergenerational",
+      "rationale": "Adjusted length from 52 to 36 chars"
+    },
+    {
+      "slug": "what-research-says-about-hearing-loss-as-an-early-biomarker-of-vascular-aging-in-men-over-75",
+      "title": "What Research Says About Hearing Loss as an Early Biomarker of Vascular Aging in Men Over 75",
+      "current_keyword": "hearing loss vascular aging men over 75",
+      "score": 55,
+      "issues": [],
+      "suggested_keyword": "hearing loss over 75 vascular aging",
+      "rationale": "Adjusted length from 39 to 35 chars"
+    },
+    {
+      "slug": "what-research-says-about-cranberry-sauce-and-uti-risk-in-women-over-70-during-holiday-travel",
+      "title": "What Research Says About Cranberry Sauce and UTI Risk in Women Over 70 During Holiday Travel",
+      "current_keyword": "cranberry sauce uti prevention seniors",
+      "score": 50,
+      "issues": [],
+      "suggested_keyword": "cranberry sauce holiday over 70",
+      "rationale": "Adjusted length from 38 to 31 chars"
+    },
+    {
+      "slug": "quick-ways-to-lower-post-holiday-triglycerides-without-fasting-especially-for-sedentary-adults-over-75",
+      "title": "Quick Ways to Lower Post-Holiday Triglycerides Without Fasting—Especially for Sedentary Adults Over 75",
+      "current_keyword": "lower triglycerides without fasting seniors",
+      "score": 50,
+      "issues": [],
+      "suggested_keyword": "lower triglycerides holiday over 75",
+      "rationale": "Adjusted length from 43 to 35 chars"
+    },
+    {
+      "slug": "5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications",
+      "title": "5 Silent Signs Your Holiday Hydration Strategy Is Failing—Especially With Diuretic Medications",
+      "current_keyword": "dehydration signs seniors diuretics",
+      "score": 47,
+      "issues": [
+        "weak_search_intent"
+      ],
+      "suggested_keyword": "medication holiday dehydration",
+      "rationale": "Adjusted length from 35 to 30 chars"
+    },
+    {
+      "slug": "what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65",
+      "title": "What Are the Earliest Signs of Postprandial Hypoxemia After a Heavy Family Meal—And Why It’s Often Missed in Adults With Mild COPD Over 65?",
+      "current_keyword": "postprandial hypoxemia copd seniors",
+      "score": 50,
+      "issues": [],
+      "suggested_keyword": "postprandial hypoxemia over 65",
+      "rationale": "Adjusted length from 35 to 30 chars"
+    },
+    {
+      "slug": "the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging",
+      "title": "The Truth About 'Sugar-Free' Holiday Cookies Labeled for Diabetics—What the FDA Doesn’t Require on Packaging",
+      "current_keyword": "sugar-free cookies glycemic impact seniors",
+      "score": 50,
+      "issues": [],
+      "suggested_keyword": "diabetes holiday sugar-free cookies",
+      "rationale": "Adjusted length from 42 to 35 chars"
+    },
+    {
+      "slug": "best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd",
+      "title": "Best 5 Low-FODMAP Holiday Side Dishes for Seniors With IBS and GERD",
+      "current_keyword": "low-fodmap holiday sides seniors",
+      "score": 55,
+      "issues": [],
+      "suggested_keyword": "low-fodmap holiday holiday seniors",
+      "rationale": "Adjusted length from 32 to 34 chars"
+    },
+    {
+      "slug": "why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75",
+      "title": "Why Eating Late at Night During Family Visits Increases Fall Risk in Adults 75+",
+      "current_keyword": "late night eating fall risk seniors",
+      "score": 55,
+      "issues": [],
+      "suggested_keyword": "late night eating fall risk seniors",
+      "rationale": "Optimized for score 55/100"
+    },
+    {
+      "slug": "what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time",
+      "title": "What Research Says About Intermittent Fasting Windows That Actually Work for Seniors at Holiday Time",
+      "current_keyword": "intermittent fasting seniors holiday time windows",
+      "score": 55,
+      "issues": [],
+      "suggested_keyword": "intermittent fasting holiday seniors",
+      "rationale": "Adjusted length from 49 to 36 chars"
+    },
+    {
+      "slug": "the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers",
+      "title": "The Truth About ‘Heart-Healthy’ Holiday Wine Labels: What Polyphenol Claims Don’t Disclose for Seniors on Beta-Blockers",
+      "current_keyword": "holiday wine labels beta-blocker risks",
+      "score": 50,
+      "issues": [],
+      "suggested_keyword": "heart holiday seniors wine labels",
+      "rationale": "Adjusted length from 38 to 33 chars"
+    },
+    {
+      "slug": "myths-vs-facts-eating-light-during-holidays-doesn-t-mean-skipping-meals-here-s-why-for-seniors",
+      "title": "Myths vs Facts: 'Eating Light' During Holidays Doesn’t Mean Skipping Meals—Here’s Why for Seniors",
+      "current_keyword": "eating light holiday seniors myths",
+      "score": 50,
+      "issues": [],
+      "suggested_keyword": "eating light holiday seniors myths",
+      "rationale": "Optimized for score 50/100"
+    },
+    {
+      "slug": "does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease",
+      "title": "Does Intermittent Fasting Worsen Diastolic Dysfunction in Women Over 50 with Hypertensive Heart Disease?",
+      "current_keyword": "intermittent fasting and diastolic dysfunction",
+      "score": 40,
+      "issues": [
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "heart over 50 intermittent fasting",
+      "rationale": "Adjusted length from 46 to 34 chars; Added audience/scenario identifier"
+    },
+    {
+      "slug": "a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd",
+      "title": "A vs B: Roasted Sweet Potatoes vs Mashed White Potatoes for Seniors with Stage 3 CKD",
+      "current_keyword": "sweet potatoes vs white potatoes CKD seniors",
+      "score": 55,
+      "issues": [],
+      "suggested_keyword": "sweet potatoes over 3 vs white",
+      "rationale": "Adjusted length from 44 to 30 chars"
+    },
+    {
+      "slug": "7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control",
+      "title": "7 Hidden Sources of Added Sugar at Family Dinners That Sabotage Blood Sugar Control",
+      "current_keyword": "hidden added sugar family dinners",
+      "score": 45,
+      "issues": [
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "blood sugar hidden added family",
+      "rationale": "Adjusted length from 33 to 31 chars"
+    },
+    {
+      "slug": "5-things-your-cardiologist-isn-t-telling-you-about-statin-side-effects-after-age-65",
+      "title": "5 Things Your Cardiologist Isn’t Telling You About Statin Side Effects After Age 65",
+      "current_keyword": "statin side effects after age 65",
+      "score": 45,
+      "issues": [
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "statin side over 65 effects after",
+      "rationale": "Adjusted length from 32 to 33 chars; Added audience/scenario identifier"
+    },
+    {
+      "slug": "12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle",
+      "title": "12 Science-Backed Ways to Reduce Postprandial Triglyceride Spikes After Age 65—Especially With a Sedentary Lifestyle",
+      "current_keyword": "reduce postprandial triglycerides aging sedentary",
+      "score": 50,
+      "issues": [],
+      "suggested_keyword": "reduce postprandial over 65 triglycerides",
+      "rationale": "Adjusted length from 49 to 41 chars"
+    },
+    {
+      "slug": "12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55",
+      "title": "12 Science-Backed Ways to Reduce Coronary Artery Calcification Progression After Age 55",
+      "current_keyword": "reduce coronary artery calcification progression",
+      "score": 45,
+      "issues": [
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "reduce coronary over 55 artery",
+      "rationale": "Adjusted length from 48 to 30 chars; Added audience/scenario identifier"
+    },
+    {
+      "slug": "can-intermittent-fasting-lower-ldl-particle-count-in-men-with-familial-hypercholesterolemia-over-50",
+      "title": "Can Intermittent Fasting Lower LDL-Particle Count in Men With Familial Hypercholesterolemia Over 50?",
+      "current_keyword": "intermittent fasting LDL particle count men",
+      "score": 55,
+      "issues": [],
+      "suggested_keyword": "cholesterol over 50 intermittent",
+      "rationale": "Adjusted length from 43 to 32 chars"
+    },
+    {
+      "slug": "the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone",
+      "title": "The Connection Between Chronic Loneliness and Left Ventricular Hypertrophy in Older Adults Living Alone",
+      "current_keyword": "loneliness left ventricular hypertrophy aging",
+      "score": 50,
+      "issues": [],
+      "suggested_keyword": "loneliness left older adults ventricular",
+      "rationale": "Adjusted length from 45 to 40 chars"
+    },
+    {
+      "slug": "quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85",
+      "title": "Quick 90-Second Breathing Techniques to Lower Systolic Pressure Before a Doctor’s Visit—Clinically Validated for Ages 50–85",
+      "current_keyword": "breathing techniques lower systolic pressure",
+      "score": 40,
+      "issues": [
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "breathing techniques lower systolic",
+      "rationale": "Adjusted length from 44 to 35 chars"
+    },
+    {
+      "slug": "natural-ways-to-improve-nitric-oxide-bioavailability-without-supplements-especially-after-age-60",
+      "title": "Natural Ways to Improve Nitric Oxide Bioavailability Without Supplements—Especially After Age 60",
+      "current_keyword": "natural nitric oxide bioavailability aging",
+      "score": 55,
+      "issues": [],
+      "suggested_keyword": "natural nitric over 60 oxide bioavailability",
+      "rationale": "Adjusted length from 42 to 44 chars"
+    },
+    {
+      "slug": "myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75",
+      "title": "Myths vs Facts: 'I’m Too Old to Benefit From Cholesterol-Lowering Statins After 75'",
+      "current_keyword": "statins after 75 myths vs facts",
+      "score": 50,
+      "issues": [],
+      "suggested_keyword": "cholesterol over 75 statins after",
+      "rationale": "Adjusted length from 31 to 33 chars"
+    },
+    {
+      "slug": "how-night-shift-work-after-age-50-rewires-circadian-genes-linked-to-coronary-artery-calcification",
+      "title": "How Night Shift Work After Age 50 Rewires Circadian Genes Linked to Coronary Artery Calcification",
+      "current_keyword": "night shift circadian genes coronary calcification",
+      "score": 55,
+      "issues": [],
+      "suggested_keyword": "night shift over 50 circadian genes",
+      "rationale": "Adjusted length from 50 to 35 chars"
+    },
+    {
+      "slug": "5-things-every-caregiver-should-know-before-taking-an-aging-parent-to-a-new-year-s-eve-party",
+      "title": "5 Things Every Caregiver Should Know Before Taking an Aging Parent to a New Year’s Eve Party",
+      "current_keyword": "caregiver new year's eve party prep",
+      "score": 40,
+      "issues": [
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "caregiver new year's party prep",
+      "rationale": "Adjusted length from 35 to 31 chars"
+    },
+    {
+      "slug": "5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60",
+      "title": "5 Signs Your Holiday Eating Habits Are Accelerating Muscle Loss After Age 60",
+      "current_keyword": "holiday eating muscle loss seniors",
+      "score": 55,
+      "issues": [],
+      "suggested_keyword": "holiday eating holiday over 60",
+      "rationale": "Adjusted length from 34 to 30 chars"
+    },
+    {
+      "slug": "what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents",
+      "title": "What Are the Silent Signs of Salt-Induced Fluid Retention During Holiday Travel With Aging Parents?",
+      "current_keyword": "silent signs salt-induced fluid retention seniors",
+      "score": 55,
+      "issues": [],
+      "suggested_keyword": "silent signs holiday salt-induced",
+      "rationale": "Adjusted length from 49 to 33 chars"
+    },
+    {
+      "slug": "the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you",
+      "title": "The Truth About 'Healthy' Holiday Treats Labeled for Seniors: What Labels Don’t Tell You",
+      "current_keyword": "healthy holiday treats seniors labels",
+      "score": 55,
+      "issues": [],
+      "suggested_keyword": "healthy holiday holiday seniors",
+      "rationale": "Adjusted length from 37 to 31 chars"
+    },
+    {
+      "slug": "how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75",
+      "title": "How Holiday Portion Sizes Affect Digestion and Blood Pressure in Adults Over 75",
+      "current_keyword": "holiday portion sizes seniors digestion",
+      "score": 55,
+      "issues": [],
+      "suggested_keyword": "blood pressure holiday over 75",
+      "rationale": "Adjusted length from 39 to 30 chars"
+    },
+    {
+      "slug": "best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs",
+      "title": "Best High-Fiber, Low-Residue Holiday Sides for Seniors With Diverticulosis or IBS",
+      "current_keyword": "high-fiber low-residue holiday sides",
+      "score": 55,
+      "issues": [],
+      "suggested_keyword": "high-fiber low-residue holiday seniors",
+      "rationale": "Adjusted length from 36 to 38 chars"
+    },
+    {
+      "slug": "12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults",
+      "title": "12-Minute Breathing Protocol to Lower Systolic BP: A Science-Backed Technique for Anxiety-Prone Adults",
+      "current_keyword": "breathing technique lower systolic bp",
+      "score": 40,
+      "issues": [
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "breathing technique lower systolic",
+      "rationale": "Adjusted length from 37 to 34 chars"
+    },
+    {
+      "slug": "warning-signs-your-senior-loved-one-is-using-food-to-cope-with-holiday-grief-or-loneliness",
+      "title": "Warning Signs Your Senior Loved One Is Using Food to Cope With Holiday Grief or Loneliness",
+      "current_keyword": "holiday grief emotional eating seniors",
+      "score": 47,
+      "issues": [
+        "weak_search_intent"
+      ],
+      "suggested_keyword": "holiday grief holiday seniors emotional",
+      "rationale": "Adjusted length from 38 to 39 chars"
+    },
+    {
+      "slug": "the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis",
+      "title": "The Link Between Holiday Leftovers and Antibiotic Resistance in Older Adults with Chronic UTIs",
+      "current_keyword": "holiday leftovers antibiotic resistance UTI seniors",
+      "score": 50,
+      "issues": [],
+      "suggested_keyword": "holiday leftovers holiday older adults",
+      "rationale": "Adjusted length from 51 to 38 chars"
+    },
+    {
+      "slug": "why-dehydration-at-holiday-events-may-worsen-heart-palpitations",
+      "title": "Why Dehydration at Holiday Events May Worsen Heart Palpitations",
+      "current_keyword": "dehydration holiday palpitations",
+      "score": 55,
+      "issues": [],
+      "suggested_keyword": "heart holiday dehydration palpitations",
+      "rationale": "Adjusted length from 32 to 38 chars"
+    },
+    {
+      "slug": "when-to-worry-about-chest-tightness-in-cold-weather",
+      "title": "When to Worry About Chest Tightness in Cold Weather",
+      "current_keyword": "chest tightness winter cold",
+      "score": 50,
+      "issues": [],
+      "suggested_keyword": "chest tightness winter cold when",
+      "rationale": "Adjusted length from 27 to 32 chars"
+    },
+    {
+      "slug": "the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now",
+      "title": "The Truth About Salt Intake in Winter: Is Your Diet Riskier Now?",
+      "current_keyword": "salt intake in winter",
+      "score": 30,
+      "issues": [
+        "too_short"
+      ],
+      "suggested_keyword": "salt intake in winter truth about",
+      "rationale": "Adjusted length from 21 to 33 chars"
+    },
+    {
+      "slug": "can-intermittent-fasting-help-reset-blood-sugar-after-christmas",
+      "title": "Can Intermittent Fasting Help Reset Blood Sugar After Christmas?",
+      "current_keyword": "intermittent fasting after christmas",
+      "score": 40,
+      "issues": [
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "blood sugar intermittent fasting",
+      "rationale": "Adjusted length from 36 to 32 chars"
+    },
+    {
+      "slug": "the-truth-about-benign-holiday-palpitations-are-they-really-harmless",
+      "title": "The Truth About 'Benign' Holiday Palpitations: Are They Really Harmless?",
+      "current_keyword": "benign holiday palpitations truth",
+      "score": 55,
+      "issues": [],
+      "suggested_keyword": "benign holiday holiday palpitations",
+      "rationale": "Adjusted length from 33 to 35 chars"
+    },
+    {
+      "slug": "low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar",
+      "title": "Low-Glycemic Holiday Side Dishes That Won’t Spike Blood Sugar",
+      "current_keyword": "low-glycemic holiday side dishes",
+      "score": 55,
+      "issues": [],
+      "suggested_keyword": "blood sugar holiday low-glycemic",
+      "rationale": "Optimized for score 55/100"
+    },
+    {
+      "slug": "is-your-senior-loved-one-withdrawn-this-winter-it-might-be-seasonal-depression",
+      "title": "Is Your Senior Loved One Withdrawn This Winter? It Might Be Seasonal Depression",
+      "current_keyword": "withdrawn behavior in seniors winter",
+      "score": 50,
+      "issues": [],
+      "suggested_keyword": "withdrawn behavior winter seniors",
+      "rationale": "Adjusted length from 36 to 33 chars"
+    },
+    {
+      "slug": "diabetes-friendly-holiday-snacks-under-150-calories-for-after-70",
+      "title": "Diabetes-Friendly Holiday Snacks Under 150 Calories for After 70",
+      "current_keyword": "diabetic holiday snacks over 70",
+      "score": 50,
+      "issues": [],
+      "suggested_keyword": "diabetes holiday over 70 diabetic",
+      "rationale": "Adjusted length from 31 to 33 chars"
+    },
+    {
+      "slug": "5-easy-morning-routines-to-stabilize-blood-sugar-after-a-holiday-feast",
+      "title": "5 Easy Morning Routines to Stabilize Blood Sugar After a Holiday Feast",
+      "current_keyword": "morning routine after holiday feast",
+      "score": 50,
+      "issues": [],
+      "suggested_keyword": "blood sugar holiday morning routine",
+      "rationale": "Optimized for score 50/100"
+    },
+    {
+      "slug": "3-simple-breathing-techniques-to-reduce-heart-stress-in-cold-air",
+      "title": "3 Simple Breathing Techniques to Reduce Heart Stress in Cold Air",
+      "current_keyword": "cold air breathing techniques",
+      "score": 40,
+      "issues": [
+        "lacks_audience_or_scenario"
+      ],
+      "suggested_keyword": "heart stress cold breathing techniques",
+      "rationale": "Adjusted length from 29 to 38 chars"
+    },
+    {
+      "slug": "can-intermittent-fasting-help-balance-holiday-eating-for-active-retirees",
+      "title": "Can Intermittent Fasting Help Balance Holiday Eating for Active Retirees?",
+      "current_keyword": "intermittent fasting holiday eating seniors",
+      "score": 55,
+      "issues": [],
+      "suggested_keyword": "intermittent fasting holiday eating",
+      "rationale": "Adjusted length from 43 to 35 chars"
+    },
+    {
+      "slug": "top-5-light-therapy-lamps-recommended-by-geriatric-therapists-for-seniors",
+      "title": "Top 5 Light Therapy Lamps Recommended by Geriatric Therapists for Seniors",
+      "current_keyword": "best light therapy lamps for seniors",
+      "score": 55,
+      "issues": [],
+      "suggested_keyword": "best light seniors therapy lamps",
+      "rationale": "Adjusted length from 36 to 32 chars"
+    },
+    {
+      "slug": "quick-ways-to-lift-a-senior-s-mood-during-a-winter-blue-day",
+      "title": "Quick Ways to Lift a Senior’s Mood During a Winter Blue Day",
+      "current_keyword": "quick mood boosters for seniors",
+      "score": 50,
+      "issues": [],
+      "suggested_keyword": "quick mood winter seniors boosters",
+      "rationale": "Adjusted length from 31 to 34 chars"
+    },
+    {
+      "slug": "is-sugar-free-living-necessary-for-diabetics-over-50",
+      "title": "Is Sugar-Free Living Necessary for Diabetics Over 50?",
+      "current_keyword": "do diabetics need to avoid all sugar after 50",
+      "score": 50,
+      "issues": [],
+      "suggested_keyword": "diabetes over 50 do diabetics need",
+      "rationale": "Adjusted length from 45 to 34 chars"
+    },
+    {
+      "slug": "how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults",
+      "title": "How Holiday Feasting Can Trigger Atrial Fibrillation in Older Adults",
+      "current_keyword": "holiday feasting and atrial fibrillation",
+      "score": 55,
+      "issues": [],
+      "suggested_keyword": "holiday feasting holiday older adults",
+      "rationale": "Adjusted length from 40 to 37 chars"
+    }
+  ]
+}

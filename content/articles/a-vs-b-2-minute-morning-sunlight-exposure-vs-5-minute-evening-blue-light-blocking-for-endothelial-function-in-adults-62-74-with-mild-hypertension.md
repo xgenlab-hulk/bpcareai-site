@@ -57,22 +57,22 @@ In short, neither morning sunlight nor evening blue-light blocking is a “magic
 
 ### FAQ
 
-#### #### Does morning sunlight vs blue light blocking endothelial function really make a difference for people over 65?
+#### Does morning sunlight vs blue light blocking endothelial function really make a difference for people over 65?
 
 Yes—studies in adults 62–74 show measurable improvements in flow-mediated dilation (+1.8–2.3%) and nitric oxide metabolites with either strategy. Effects are modest but clinically relevant when sustained over months, especially alongside standard hypertension care.
 
-#### #### Is morning sunlight vs blue light blocking endothelial function more effective for lowering blood pressure?
+#### Is morning sunlight vs blue light blocking endothelial function more effective for lowering blood pressure?
 
 Neither significantly lowers *office* BP alone—but morning light improves daytime endothelial reactivity (linked to long-term arterial health), while blue-light blocking enhances *nocturnal* dipping (a strong predictor of stroke and heart failure risk). They complement each other.
 
-#### #### Can I use indoor lamps instead of morning sunlight for endothelial benefits?
+#### Can I use indoor lamps instead of morning sunlight for endothelial benefits?
 
 Standard indoor lighting rarely exceeds 500 lux—far below the ~2,500–10,000 lux threshold needed for robust ipRGC activation. Full-spectrum daylight-mimicking lamps *can* help in winter or for mobility-limited individuals, but natural outdoor light remains most effective.
 
-#### #### How long before I see changes in my endothelial markers?
+#### How long before I see changes in my endothelial markers?
 
 Most trials report detectable FMD or NOx shifts after 4–6 weeks of consistent practice. Ambulatory BP patterns often improve within 2–3 weeks.
 
-#### #### Do blue-light-blocking glasses interfere with evening relaxation or melatonin?
+#### Do blue-light-blocking glasses interfere with evening relaxation or melatonin?
 
 Well-designed amber lenses (blocking 430–490 nm) actually *support* melatonin onset by reducing suppression—helping you fall asleep faster and deepen restorative slow-wave sleep, both vital for endothelial repair.

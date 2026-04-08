@@ -58,23 +58,23 @@ Tracking your blood pressure trends can help you and your doctor make better dec
 
 ### FAQ
 
-#### #### Does “eating light” during holidays really prevent glucose spikes in seniors with insulin resistance?
+#### Does “eating light” during holidays really prevent glucose spikes in seniors with insulin resistance?
 
 Not automatically—and that’s why *holiday eating light glucose myths facts seniors* matters so much. “Light” often overlooks carb quality, meal order, and portion distribution. Data shows 72% of seniors who believed they were “eating light” still had clinically significant post-meal spikes—because their “light” meal was high in refined starches and low in protein.
 
-#### #### Is skipping dessert enough to keep glucose stable for older adults?
+#### Is skipping dessert enough to keep glucose stable for older adults?
 
 No. While skipping dessert helps, hidden carbs in sauces, sides, and beverages often contribute more to glucose elevation than dessert itself. One tablespoon of gravy can add 5g of carbs—and when eaten with white rolls, that adds up fast.
 
-#### #### What’s the best way to enjoy holiday meals while managing insulin resistance as a senior?
+#### What’s the best way to enjoy holiday meals while managing insulin resistance as a senior?
 
 Prioritize protein + fat *before* carbs, space meals 4–5 hours apart, move gently for 10 minutes after eating (walking boosts glucose uptake), and stay hydrated. “Healthy holiday eating for seniors” is less about restriction—and more about rhythm, balance, and awareness.
 
-#### #### Do incretin hormones like GLP-1 work differently in older adults?
+#### Do incretin hormones like GLP-1 work differently in older adults?
 
 Yes. Aging reduces both GLP-1 secretion and tissue sensitivity to it—by up to 30% in adults over 65. That’s why meal timing and composition become *more* important—not less—as we age.
 
-#### #### Can blood pressure changes during the holidays affect glucose control?
+#### Can blood pressure changes during the holidays affect glucose control?
 
 Absolutely. Elevated BP (especially systolic >135 mm Hg) often co-occurs with insulin resistance due to shared pathways like endothelial dysfunction and sympathetic overactivity. Managing one supports the other—making *holiday eating light glucose myths facts seniors* relevant for heart *and* metabolic health.
 

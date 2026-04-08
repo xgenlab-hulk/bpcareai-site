@@ -97,17 +97,17 @@ Learning about silent heart attack symptoms in elderly adults isn’t about stir
 
 ### FAQ
 
-#### #### What are the most common silent heart attack symptoms in elderly adults?  
+#### What are the most common silent heart attack symptoms in elderly adults?  
 The most common silent heart attack symptoms in elderly adults include unexplained fatigue, mild shortness of breath during everyday tasks, nausea or indigestion without a clear trigger, and a vague sense of anxiety or discomfort—often without chest pain. Because these signs are subtle and easy to attribute to aging or stress, they’re frequently overlooked.
 
-#### #### Can a silent heart attack cause long-term damage even without symptoms?  
+#### Can a silent heart attack cause long-term damage even without symptoms?  
 Yes. Silent heart attacks cause real, measurable damage to the heart muscle—just like symptomatic ones. Left undetected, they increase the risk of future heart attacks, heart failure, irregular heart rhythms (like atrial fibrillation), and reduced pumping efficiency over time.
 
-#### #### How is a silent heart attack diagnosed in older adults?  
+#### How is a silent heart attack diagnosed in older adults?  
 Diagnosis usually happens during routine care—through an ECG showing old injury patterns (like Q waves), elevated cardiac enzymes (e.g., troponin) in blood work, or imaging like an echocardiogram revealing areas of weakened motion. Sometimes, a silent heart attack is discovered incidentally during evaluation for another issue—like new-onset shortness of breath or abnormal heart sounds.
 
-#### #### Are silent heart attacks more common in men or women over 65?  
+#### Are silent heart attacks more common in men or women over 65?  
 Women over 65 are slightly more likely than men to experience silent or atypical presentations—including fatigue, insomnia, and back or jaw discomfort—though overall incidence is high in both genders. Hormonal shifts post-menopause and differences in pain perception contribute to this variation.
 
-#### #### What role does high blood pressure play in silent heart attacks?  
+#### What role does high blood pressure play in silent heart attacks?  
 High blood pressure (hypertension) is one of the top modifiable risk factors for silent heart attacks. It silently damages arterial walls, accelerates plaque buildup, and increases strain on the heart over decades—often without noticeable symptoms until significant damage has occurred. Keeping BP below 130/80 mm Hg (per current guidelines for most older adults) significantly lowers risk.

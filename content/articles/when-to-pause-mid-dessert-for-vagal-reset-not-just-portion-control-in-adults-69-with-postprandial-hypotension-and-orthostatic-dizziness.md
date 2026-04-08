@@ -87,22 +87,22 @@ Managing blood pressure changes after meals doesn’t require drastic changes—
 
 ### FAQ
 
-#### #### What exactly is a vagal reset dessert postprandial hypotension strategy?
+#### What exactly is a vagal reset dessert postprandial hypotension strategy?
 
 A vagal reset dessert postprandial hypotension strategy is a timed, non-pharmacological approach to support vagus nerve function *during* dessert consumption—specifically designed to mitigate the blood pressure drop that occurs 30–90 minutes after eating. It combines mindful breathing, strategic pauses (e.g., after the first bite, before coffee), and food pairing—not calorie counting—to enhance autonomic balance.
 
-#### #### Can vagal reset dessert postprandial hypotension help if I don’t have diagnosed low blood pressure?
+#### Can vagal reset dessert postprandial hypotension help if I don’t have diagnosed low blood pressure?
 
 Yes. Many adults experience *symptomatic* postprandial drops even with normal baseline BP readings. Because vagal tone influences not only BP but also heart rate variability, digestion, and mental clarity, these strategies often improve energy, focus, and stability—even in people whose clinic BP measurements appear “normal.”
 
-#### #### Is there research supporting vagal reset timing *during* dessert—not just before or after?
+#### Is there research supporting vagal reset timing *during* dessert—not just before or after?
 
 Yes. A 2023 pilot study in *Journal of the American Geriatrics Society* tested timed vagal stimulation (diaphragmatic breathing initiated 2 minutes after first bite of dessert) in 42 adults aged 68–82. Participants showed a 37% smaller systolic BP decline at 60 minutes post-meal compared to controls who breathed only before dessert or not at all—highlighting the importance of *in-meal* timing.
 
-#### #### Does coffee cancel out the benefits of a vagal reset dessert postprandial hypotension pause?
+#### Does coffee cancel out the benefits of a vagal reset dessert postprandial hypotension pause?
 
 Not entirely—but timing matters. Caffeine (≥100 mg, roughly one 8-oz cup) can blunt vagally mediated heart rate responses for up to 90 minutes. That’s why pausing *before* pouring coffee—ideally waiting until 10–15 minutes after your first bite—preserves the window for optimal vagal engagement.
 
-#### #### Are there foods that naturally support vagal tone during dessert?
+#### Are there foods that naturally support vagal tone during dessert?
 
 Yes—though not “magic” foods. Foods rich in omega-3s (e.g., walnuts in fruit crumble), magnesium (dark chocolate ≥70% cacao), and prebiotic fiber (berries, pears) support neural and endothelial health over time. But for immediate effect, *how and when* you eat matters more than specific ingredients—making the pause itself the most potent “ingredient.”

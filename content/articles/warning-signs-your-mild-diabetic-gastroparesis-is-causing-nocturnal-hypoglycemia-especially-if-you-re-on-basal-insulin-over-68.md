@@ -79,22 +79,22 @@ Gastroparesis and nocturnal hypoglycemia in seniors is manageable with awareness
 
 ### FAQ
 
-#### #### What are the early warning signs of gastroparesis and nocturnal hypoglycemia in seniors?
+#### What are the early warning signs of gastroparesis and nocturnal hypoglycemia in seniors?
 
 Early signs include waking up with headaches or fatigue, unexplained morning nausea, or finding your fasting glucose lower than expected—even if bedtime readings looked fine. Because seniors often lack classic symptoms (like tremors or palpitations), behavioral clues—like skipping breakfast or seeming unusually withdrawn—are worth noting.
 
-#### #### Can gastroparesis and nocturnal hypoglycemia in seniors happen even with “well-controlled” A1c?
+#### Can gastroparesis and nocturnal hypoglycemia in seniors happen even with “well-controlled” A1c?
 
 Yes. An A1c of 6.8% doesn’t rule out frequent nighttime lows—it may even mask them. In fact, some seniors with A1cs in the “target range” have wide glucose swings: high after meals, low overnight. This variability doesn’t show up in A1c alone.
 
-#### #### How does delayed gastric emptying cause low blood sugar at night?
+#### How does delayed gastric emptying cause low blood sugar at night?
 
 When food stays in the stomach longer, glucose enters the bloodstream later than expected—often 6–10 hours after eating. If your basal insulin peaks earlier (e.g., 4–6 hours post-injection), there’s insulin “on board” with little glucose to match—leading to nocturnal hypoglycemia.
 
-#### #### Is metformin safer than insulin for seniors with gastroparesis?
+#### Is metformin safer than insulin for seniors with gastroparesis?
 
 Metformin doesn’t cause hypoglycemia on its own—but it *can* worsen nausea or GI discomfort in people with gastroparesis. It’s not automatically safer; the best choice depends on kidney function, nutritional status, and overall diabetes management goals.
 
-#### #### Does gastroparesis affect blood pressure?
+#### Does gastroparesis affect blood pressure?
 
 Not directly—but recurrent nocturnal hypoglycemia can trigger autonomic stress responses, potentially contributing to BP variability overnight. Some studies link frequent lows with increased risk of orthostatic hypotension in older adults, so monitoring both glucose *and* BP trends adds valuable insight.

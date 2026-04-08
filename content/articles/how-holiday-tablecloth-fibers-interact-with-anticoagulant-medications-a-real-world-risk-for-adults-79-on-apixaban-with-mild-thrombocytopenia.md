@@ -55,17 +55,17 @@ In summary, the *holiday tablecloth anticoagulant interaction* is not a dramatic
 
 ### FAQ
 
-#### #### Can holiday tablecloths really affect my blood thinner medication?
+#### Can holiday tablecloths really affect my blood thinner medication?
 No—tablecloths don’t chemically alter apixaban levels. But indirect effects (like microfiber ingestion or friction-related platelet changes) may subtly influence bleeding risk in vulnerable individuals, especially those with mild thrombocytopenia. This falls under the broader concept of *holiday tablecloth anticoagulant interaction*.
 
-#### #### Is there scientific proof linking tablecloth dyes to bleeding risk in seniors on apixaban?
+#### Is there scientific proof linking tablecloth dyes to bleeding risk in seniors on apixaban?
 There is no large-scale clinical trial directly linking tablecloth dyes to bleeding in apixaban users. However, mechanistic studies support plausibility: certain dyes impair platelet adhesion *in vitro*, and observational data note increased mucosal bleeding in older adults during high-exposure seasonal periods. The *holiday tablecloth anticoagulant interaction* is best understood as a cumulative, low-level risk factor—not a primary cause.
 
-#### #### What’s the safest type of tablecloth for someone on blood thinners?
+#### What’s the safest type of tablecloth for someone on blood thinners?
 Opt for undyed, natural-fiber linens (e.g., organic cotton or linen) certified to Oeko-Tex Standard 100 (Class II for textiles in direct skin contact). Avoid velvet, sequins, or embossed patterns that increase friction or fiber shedding.
 
-#### #### Does healthy eating during family gatherings include considering table settings?
+#### Does healthy eating during family gatherings include considering table settings?
 Yes—*healthy eating during family gatherings* extends beyond food choices. It includes minimizing environmental stressors that could compound medication effects—like avoiding abrasive surfaces or potential chemical exposures near the dining area.
 
-#### #### Should I stop using festive tablecloths altogether if I’m on apixaban?
+#### Should I stop using festive tablecloths altogether if I’m on apixaban?
 Not necessarily. Simple, proactive steps—like pre-washing, choosing certified fabrics, and reducing hand-to-mouth contact—lower risk meaningfully. The goal is mindful celebration, not elimination. If you're unsure, talking to your doctor is always a good idea.

@@ -72,17 +72,17 @@ If you're unsure, talking to your doctor is always a good idea. Fatigue after me
 
 ### FAQ
 
-#### #### Is fatigue after meals diabetes elderly a sign of heart problems?  
+#### Is fatigue after meals diabetes elderly a sign of heart problems?  
 Not always—but it *can* indicate reduced cardiac output reserve or impaired autonomic regulation of heart rate and BP. When paired with shortness of breath or chest discomfort, prompt cardiac evaluation is advised.
 
-#### #### What’s the difference between fatigue after meals diabetes elderly and normal aging tiredness?  
+#### What’s the difference between fatigue after meals diabetes elderly and normal aging tiredness?  
 Normal post-meal drowsiness is mild and resolves within 30 minutes. Fatigue after meals diabetes elderly tends to be deeper, longer-lasting (60–120 minutes), and associated with lightheadedness, cold extremities, or cognitive slowing—even with adequate sleep and hydration.
 
-#### #### Can medications cause fatigue after meals diabetes elderly?  
+#### Can medications cause fatigue after meals diabetes elderly?  
 Yes. Common culprits include alpha-glucosidase inhibitors (acarbose), GLP-1 RAs (semaglutide, dulaglutide), insulin, and certain antihypertensives. Always review timing and dosing with your provider.
 
-#### #### Does drinking coffee help with fatigue after meals diabetes elderly?  
+#### Does drinking coffee help with fatigue after meals diabetes elderly?  
 Caffeine may temporarily raise BP and alertness, but it also increases gastric motility and can worsen postprandial drops in some people—especially if consumed *with* meals. Better to hydrate with water first.
 
-#### #### How often should I check my blood pressure after eating if I’m over 70 with diabetes?  
+#### How often should I check my blood pressure after eating if I’m over 70 with diabetes?  
 Start with checking pre-meal, then at 30 and 60 minutes post-meal—three times per week for two weeks. Consistent patterns (e.g., repeated ≥20 mm Hg drops) warrant clinical review.

@@ -3,7 +3,7 @@ title: >-
   Blood Sugar Friendly Foods for Seniors: Stay Full & Steady
 slug: blood-sugar-friendly-foods-seniors
 description: >-
-  Blood sugar friendly foods for seniors — like lentils and Greek yogurt — lower post-meal glucose by up to 35 mg/dL (AJCN, 2022). Eat well, avoid spikes
+  Blood sugar friendly foods for seniors — like lentils and Greek yogurt — lower post-meal glucose by up to 35 mg/dL (AJCN, 2022).
 date: '2026-04-07'
 updated: '2026-04-07'
 primaryKeyword: >-

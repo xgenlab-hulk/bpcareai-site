@@ -64,17 +64,17 @@ In the end, managing blood pressure in later life is less about chasing perfect 
 
 ### FAQ
 
-#### #### Is home vs ambulatory blood pressure frail elderly monitoring covered by Medicare or insurance?
+#### Is home vs ambulatory blood pressure frail elderly monitoring covered by Medicare or insurance?
 Many Medicare Advantage plans cover ABPM once per year for suspected white-coat or masked hypertension—standard Medicare (Part B) covers it only under specific diagnostic criteria. Home monitors are rarely covered directly, but some plans offer reimbursement through wellness programs. Always check with your plan first.
 
-#### #### Can dementia-related agitation make ambulatory BP monitoring unsafe?
+#### Can dementia-related agitation make ambulatory BP monitoring unsafe?
 Not inherently—but it can reduce accuracy. If agitation leads to frequent cuff removal, pulling at wires, or inability to rest quietly during readings, ABPM may yield incomplete data. In such cases, simplified HBPM with caregiver support—or intermittent clinic-based orthostatic testing—may be safer and more informative.
 
-#### #### What’s the best home BP monitor for a frail elderly person with arthritis?
+#### What’s the best home BP monitor for a frail elderly person with arthritis?
 Look for an upper-arm, fully automatic, oscillometric device with a wide-cuff option (for arms 32–42 cm), large high-contrast display, and one-touch operation. Validation for use in older adults (per ESH/ACC guidelines) is essential—avoid wrist models, which underestimate systolic BP by up to 10 mm Hg in frail elders.
 
-#### #### How often should frail elderly adults check blood pressure at home?
+#### How often should frail elderly adults check blood pressure at home?
 For stable individuals: twice daily (morning and evening) for 7 days, then monthly. For those newly diagnosed, changing meds, or experiencing dizziness/falls: daily for 1–2 weeks, then taper as guided by your clinician.
 
-#### #### Does orthostatic intolerance affect home vs ambulatory blood pressure frail elderly readings differently?
+#### Does orthostatic intolerance affect home vs ambulatory blood pressure frail elderly readings differently?
 Yes. Orthostatic drops are often *missed entirely* in standard home protocols (which require seated rest). ABPM captures movement-related changes more naturally—but only if the person walks around freely during wear. Adding a simple seated-to-standing check (BP measured immediately after standing) at home—done safely with support—adds valuable context.

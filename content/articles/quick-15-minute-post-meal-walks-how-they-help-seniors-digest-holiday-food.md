@@ -95,22 +95,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Are post-meal walks safe for seniors with heart conditions?
+#### Are post-meal walks safe for seniors with heart conditions?
 
 Yes, in most cases, light walking after meals is considered safe and even beneficial for seniors with stable heart conditions. It promotes circulation and helps regulate blood pressure and glucose. However, those with congestive heart failure, angina, or recent cardiac events should consult their physician before beginning any new activity routine. Your doctor can help determine a safe pace and duration based on your individual health status.
 
-#### #### How soon after eating should seniors go for a walk?
+#### How soon after eating should seniors go for a walk?
 
 It’s best to wait 10 to 30 minutes after finishing your meal before walking. This allows your stomach to begin digesting food and reduces the chance of cramping or reflux. Starting too soon may shift blood flow away from the stomach temporarily, though gentle movement is generally well-tolerated.
 
-#### #### Can post-meal walks for seniors holiday really help lower blood sugar?
+#### Can post-meal walks for seniors holiday really help lower blood sugar?
 
 Yes, multiple studies confirm that short walks after meals significantly reduce post-meal blood glucose spikes in older adults. A 15-minute walk can lower glucose levels by 15–22%, especially when done after carbohydrate-rich meals. This effect is particularly strong in people over 60 and those with insulin resistance.
 
-#### #### What if I can't walk outside? Can I still benefit?
+#### What if I can't walk outside? Can I still benefit?
 
 Absolutely. Indoor walking—around your home, hallway, or local mall—provides the same metabolic benefits. You can also try seated marches, standing leg lifts, or slow pacing while watching TV after dinner. The key is consistent, light movement that engages large muscle groups.
 
-#### #### Do post-meal walks help with bloating and digestion?
+#### Do post-meal walks help with bloating and digestion?
 
 Yes. Physical movement stimulates intestinal contractions, helping food move through the digestive tract more efficiently. Many seniors report reduced bloating, gas, and feelings of fullness after adopting a post-meal walking habit. Combined with mindful eating and hydration, walking supports healthy digestion naturally.

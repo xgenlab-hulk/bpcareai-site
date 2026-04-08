@@ -64,17 +64,17 @@ Metformin remains one of the safest, best-studied medications for type 2 diabete
 
 ### FAQ
 
-#### #### Does long-term metformin use lower mitochondrial DNA copy number in older adults?
+#### Does long-term metformin use lower mitochondrial DNA copy number in older adults?
 Yes—studies in adults aged 62–78 with type 2 diabetes show that prolonged, high-dose metformin use (≥2,000 mg/day for ≥5 years) is associated with reduced mtDNA copy number in skeletal muscle biopsies, especially when baseline VO₂ max is low.
 
-#### #### Can metformin mitochondrial DNA copy number be reversed?
+#### Can metformin mitochondrial DNA copy number be reversed?
 Evidence suggests partial restoration is possible. In clinical trials, 6 months of CoQ10 + alpha-lipoic acid co-supplementation increased mtDNA copy number by ~12% in older adults on long-term metformin—alongside measurable gains in muscle bioenergetics.
 
-#### #### Is metformin mitochondrial DNA copy number linked to blood pressure?
+#### Is metformin mitochondrial DNA copy number linked to blood pressure?
 Not directly—but mitochondrial dysfunction in vascular smooth muscle and endothelium contributes to arterial stiffness and impaired nitric oxide signaling, both associated with elevated systolic BP. Optimizing mitochondrial health supports overall cardiovascular resilience.
 
-#### #### Should I get a muscle biopsy to check my mtDNA copy number?
+#### Should I get a muscle biopsy to check my mtDNA copy number?
 Not routinely. Muscle biopsy is primarily used in research. Clinicians rely on functional markers (VO₂ max, gait speed, strength tests) and symptom patterns to assess mitochondrial health indirectly.
 
-#### #### Does metformin affect mitochondrial DNA in organs other than muscle?
+#### Does metformin affect mitochondrial DNA in organs other than muscle?
 Research shows variable effects: liver mtDNA appears stable or slightly increased with metformin, while cardiac and neuronal tissues have less human data. Skeletal muscle remains the most consistently studied and clinically relevant tissue for functional outcomes in aging.

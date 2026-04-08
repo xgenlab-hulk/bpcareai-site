@@ -56,17 +56,17 @@ In short, a *diastolic drop sitting up elderly* is more than a number—it’s a
 
 ### FAQ
 
-#### #### What causes diastolic drop sitting up elderly?
+#### What causes diastolic drop sitting up elderly?
 This occurs when the stiffened, thickened left ventricle (common in LVH) can’t fill efficiently during the early relaxation phase after lying down. Gravity reduces venous return upon sitting, and the heart—already dependent on atrial contraction—struggles to maintain diastolic pressure without full compensatory reflexes.
 
-#### #### Is diastolic drop sitting up elderly dangerous?
+#### Is diastolic drop sitting up elderly dangerous?
 Not usually on its own—but it can increase fall risk or signal worsening diastolic function. If it’s frequent, symptomatic, or paired with other signs like fatigue or breathlessness, it deserves evaluation as part of overall cardiovascular health.
 
-#### #### How is diastolic drop sitting up different from orthostatic hypotension?
+#### How is diastolic drop sitting up different from orthostatic hypotension?
 Orthostatic hypotension involves a ≥20 mm Hg systolic *or* ≥10 mm Hg diastolic drop *within 3 minutes of standing*—and focuses on standing, not sitting. Diastolic drop sitting up elderly often happens faster (within 30 sec), may occur with minimal systolic change, and reflects ventricular stiffness more than pure autonomic failure.
 
-#### #### Can medications cause or worsen diastolic drop sitting up elderly?
+#### Can medications cause or worsen diastolic drop sitting up elderly?
 Yes—especially beta-blockers, nondihydropyridine calcium channel blockers (e.g., verapamil), and diuretics. These can slow heart rate, reduce contractility, or lower intravascular volume, amplifying the drop. Always review meds with your clinician before adjusting.
 
-#### #### Does left ventricular hypertrophy always lead to diastolic drop sitting up elderly?
+#### Does left ventricular hypertrophy always lead to diastolic drop sitting up elderly?
 No—not everyone with LVH experiences it. But the risk increases with greater wall thickness (>12 mm), longer duration of hypertension, and coexisting conditions like diabetes or obesity. Echo findings like reduced E/A ratio or elevated E/e′ ratio help predict susceptibility.

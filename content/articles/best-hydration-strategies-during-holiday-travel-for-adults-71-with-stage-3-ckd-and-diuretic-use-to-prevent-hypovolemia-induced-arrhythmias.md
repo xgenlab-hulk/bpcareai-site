@@ -77,17 +77,17 @@ Holiday travel doesn’t have to mean compromising safety—or joy. With thought
 
 ### FAQ
 
-#### #### How does holiday travel increase arrhythmia risk in older adults with CKD?
+#### How does holiday travel increase arrhythmia risk in older adults with CKD?
 Travel introduces multiple stressors—low cabin humidity, immobility, circadian disruption, and variable access to food/fluid—that compound CKD-related impairments in fluid and electrolyte regulation. This raises the risk of hypovolemia-induced arrhythmias, particularly in those on diuretics. Proactive hydration planning is central to holiday travel hydration arrhythmia prevention.
 
-#### #### What’s the safest amount of fluid to drink during a 4-hour flight if I’m on furosemide and have stage 3 CKD?
+#### What’s the safest amount of fluid to drink during a 4-hour flight if I’m on furosemide and have stage 3 CKD?
 Aim for 400–500 mL (about 2 small cups) total during the flight—sipped steadily (e.g., 100 mL every hour). Avoid drinking large volumes at once. Always pair fluids with a small, low-sodium, potassium-moderate snack. Confirm timing and volume with your nephrologist before travel, as individual needs vary based on eGFR, residual kidney function, and current diuretic regimen.
 
-#### #### Can holiday heart syndrome be prevented with hydration strategies for seniors with kidney disease?
+#### Can holiday heart syndrome be prevented with hydration strategies for seniors with kidney disease?
 Yes—though “holiday heart syndrome” traditionally refers to alcohol-triggered AFib, the broader concept includes arrhythmias provoked by fluid/electrolyte imbalance during festive travel. For seniors with CKD, focusing on balanced, timed hydration—and avoiding alcohol, excess sodium, and missed diuretic doses—is among the most effective forms of holiday heart syndrome prevention.
 
-#### #### Is coconut water safe for holiday travel hydration arrhythmia prevention in stage 3 CKD?
+#### Is coconut water safe for holiday travel hydration arrhythmia prevention in stage 3 CKD?
 No—coconut water contains ~600 mg potassium per cup, which exceeds safe limits for many with stage 3 CKD, especially those on RAAS inhibitors (e.g., lisinopril) or with borderline potassium levels. Stick to plain water or custom low-potassium oral rehydration solutions recommended by your renal dietitian.
 
-#### #### How do I adjust my diuretic schedule for international travel across time zones?
+#### How do I adjust my diuretic schedule for international travel across time zones?
 Do *not* adjust diuretic timing on your own. Work with your nephrologist 1–2 weeks before travel to map your usual dose against destination time zones. Generally, maintain your home-time dosing until fully acclimated (usually 3–5 days), then transition gradually under supervision—never skipping doses or doubling up. Consistency in timing helps sustain stable intravascular volume and supports holiday travel hydration arrhythmia prevention.

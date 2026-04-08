@@ -75,22 +75,22 @@ Hyponatremia linked to diabetes medication is both preventable and reversible wi
 
 ### FAQ
 
-#### #### Can SGLT2 inhibitors cause hyponatremia in older adults?
+#### Can SGLT2 inhibitors cause hyponatremia in older adults?
 
 Yes—SGLT2 inhibitors increase urinary sodium excretion and can lower serum sodium, especially in seniors with reduced renal reserve or concurrent diuretic use. Risk rises further with heat exposure or low-sodium diets.
 
-#### #### What are the earliest diabetes medication hyponatremia signs seniors should watch for?
+#### What are the earliest diabetes medication hyponatremia signs seniors should watch for?
 
 The quietest signs include unexplained gait instability, fragmented dreaming, mild morning lightheadedness upon standing, and subtle word-finding delays—not confusion or seizures. These often precede lab abnormalities.
 
-#### #### Is hyponatremia from diabetes medication dangerous for seniors over 70?
+#### Is hyponatremia from diabetes medication dangerous for seniors over 70?
 
 It can be—if unrecognized and progressive. Even mild, chronic hyponatremia (130–135 mmol/L) is associated with increased fall risk and mild cognitive slowing in older adults—but catching it early makes all the difference.
 
-#### #### Does hot-tub use really raise hyponatremia risk in people on diabetes meds?
+#### Does hot-tub use really raise hyponatremia risk in people on diabetes meds?
 
 Yes—heat causes vasodilation and mild fluid shifts, which—combined with thiazides or SGLT2 inhibitors—can suppress sodium conservation and amplify water retention. This creates a “perfect storm” for subclinical drops, especially in those over 72.
 
-#### #### Can I check my sodium level at home?
+#### Can I check my sodium level at home?
 
 No—serum sodium requires a blood test. But tracking symptoms, BP trends, and hydration habits gives your clinician valuable clues to guide timely testing.

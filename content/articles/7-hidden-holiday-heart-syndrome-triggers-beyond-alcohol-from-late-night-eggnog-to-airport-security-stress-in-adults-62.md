@@ -81,22 +81,22 @@ The holidays don’t have to be a minefield for your heart — especially when y
 
 ### FAQ
 
-#### #### What are non-alcoholic holiday heart syndrome triggers?
+#### What are non-alcoholic holiday heart syndrome triggers?
 
 Non-alcoholic holiday heart syndrome triggers include stressors like travel anxiety, high-sodium holiday foods, disrupted sleep schedules, cold-weather vasoconstriction, and emotional exhaustion — all of which can acutely elevate arrhythmia risk in adults 62+ without involving alcohol consumption.
 
-#### #### Can non-alcoholic holiday heart syndrome triggers cause AFib?
+#### Can non-alcoholic holiday heart syndrome triggers cause AFib?
 
 Yes. Clinical studies confirm that non-alcoholic holiday heart syndrome triggers — particularly sleep loss, sodium overload, and acute psychological stress — are independently associated with new-onset or recurrent atrial fibrillation in older adults, especially those with underlying hypertension or structural heart changes.
 
-#### #### How do I know if my palpitations are from non-alcoholic holiday heart syndrome triggers?
+#### How do I know if my palpitations are from non-alcoholic holiday heart syndrome triggers?
 
 Palpitations tied to non-alcoholic holiday heart syndrome triggers typically occur within hours of identifiable stressors (e.g., after a salty meal, following a stressful travel day, or during late-night socializing) and resolve within minutes to hours with rest and hydration. Persistent or symptomatic episodes warrant medical evaluation to rule out other causes.
 
-#### #### Does holiday stress really raise blood pressure in seniors?
+#### Does holiday stress really raise blood pressure in seniors?
 
 Yes — consistently. Research shows older adults experience an average 10–15 mm Hg systolic BP increase during high-stress holiday periods, especially when combined with sleep loss and dietary sodium. This elevation is clinically meaningful: sustained BP >140/90 mm Hg doubles stroke risk in adults over 60.
 
-#### #### Are there specific foods I should avoid to reduce non-alcoholic holiday heart syndrome triggers?
+#### Are there specific foods I should avoid to reduce non-alcoholic holiday heart syndrome triggers?
 
 Yes. Limit processed cheeses, cured meats, canned soups, gravy packets, and baked goods with baking soda or powder (hidden sodium sources). Focus instead on whole, unprocessed foods — and always check nutrition labels: anything over 200 mg sodium per serving adds up quickly across multiple holiday meals.

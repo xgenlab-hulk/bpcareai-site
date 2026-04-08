@@ -80,17 +80,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can I use a sauna 2 months after a heart attack if I’m 65 and feel great?
+#### Can I use a sauna 2 months after a heart attack if I’m 65 and feel great?
 Not automatically — even if you feel well, objective markers like LVEF, rhythm stability, and BP control must be confirmed by your cardiologist. The 2024 AHA recommends waiting until *at least* 12 weeks post-MI *and* completing cardiac rehab before considering sauna use. Feeling great is encouraging, but it’s only one piece of the picture.
 
-#### #### Is infrared sauna safer than traditional sauna after a heart attack over 60?
+#### Is infrared sauna safer than traditional sauna after a heart attack over 60?
 Yes — current evidence supports infrared saunas as the safer starting option for men aged 60+ recovering from MI. Their lower ambient temperatures reduce acute hemodynamic strain while still offering therapeutic warmth. Always begin under medical guidance and monitor closely.
 
-#### #### What’s the safest temperature and duration for sauna safety after heart attack over 60?
+#### What’s the safest temperature and duration for sauna safety after heart attack over 60?
 For men aged 62–71, the AHA-endorsed starting point is *infrared* at 50°C for 5 minutes — repeated once weekly. Only advance with documented tolerance and clinician approval. Never exceed 55°C or 12 minutes without reassessment.
 
-#### #### Can sauna use lower blood pressure long-term after a heart attack?
+#### Can sauna use lower blood pressure long-term after a heart attack?
 Some studies suggest regular, supervised sauna use (2–3x/week over 3+ months) may modestly improve endothelial function and reduce resting systolic BP by 5–7 mm Hg in stable post-MI patients. However, this benefit only emerges *after* full clinical stabilization — not during early recovery.
 
-#### #### Does having a stent mean I can never use a sauna again?
+#### Does having a stent mean I can never use a sauna again?
 No — having a coronary stent doesn’t permanently exclude sauna use. If the stent was placed >6 weeks ago, you’re symptom-free, and your LVEF and rhythm are stable, sauna reintroduction may be appropriate. Your interventional cardiologist will confirm stent endothelialization status before clearance.

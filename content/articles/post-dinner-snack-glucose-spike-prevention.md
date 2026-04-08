@@ -73,17 +73,17 @@ Managing glucose in later life isn’t about perfection—it’s about patterns,
 
 ### FAQ
 
-#### #### What’s the best post-dinner snack for glucose spike prevention in older adults with diabetes?
+#### What’s the best post-dinner snack for glucose spike prevention in older adults with diabetes?
 The most effective options combine lean protein (7–10 g), soluble fiber (3–5 g), and minimal digestible carbohydrate (<5 g). Examples include ¼ cup low-fat cottage cheese with chia seeds, or a small apple with 10 almonds. Timing—90 minutes after the first bite of dinner—is as important as composition.
 
-#### #### Can a post-dinner snack actually prevent nocturnal hypoglycemia?
+#### Can a post-dinner snack actually prevent nocturnal hypoglycemia?
 Yes—when properly formulated and timed. A low-glycemic, protein-fiber snack helps stabilize hepatic glucose output and avoids the sharp insulin surge that precedes rebound lows. Clinical observation shows a ~35% reduction in documented nocturnal hypoglycemia episodes when this strategy replaces either skipping a snack *or* choosing high-carb desserts.
 
-#### #### Is post-dinner snack glucose spike prevention safe for people with kidney disease?
+#### Is post-dinner snack glucose spike prevention safe for people with kidney disease?
 Generally yes—but protein sources should be adjusted per estimated glomerular filtration rate (eGFR). For eGFR <60 mL/min/1.73m², prioritize plant-based proteins (e.g., lentils, tofu) and limit dairy-based options unless cleared by your nephrologist. Always pair with fiber to support satiety without excess nitrogen load.
 
-#### #### Does alcohol at dinner affect the timing or effectiveness of post-dinner snack glucose spike prevention?
+#### Does alcohol at dinner affect the timing or effectiveness of post-dinner snack glucose spike prevention?
 Yes. Alcohol inhibits gluconeogenesis and can blunt the counterregulatory response, increasing hypoglycemia risk—especially when combined with insulin or sulfonylureas. If you consume alcohol with dinner, consider moving the snack to 105 minutes post-meal and adding an extra gram of protein (e.g., +1 tsp hemp hearts) to support steady glucose release.
 
-#### #### How does healthy eating during family gatherings fit into post-dinner snack glucose spike prevention?
+#### How does healthy eating during family gatherings fit into post-dinner snack glucose spike prevention?
 Family meals often involve richer, larger, or higher-fat dishes—which delay digestion and push glucose peaks later. Rather than avoiding gatherings, plan ahead: eat mindfully during the main course, skip dessert, and bring your own 90-minute snack (e.g., pre-portioned nuts + pear). This honors tradition *and* physiology—supporting both connection and control.

@@ -50,22 +50,22 @@ Managing *midday bp dip postprandial hypotension* is entirely possible with thou
 
 ### FAQ
 
-#### #### What causes midday bp dip postprandial hypotension in older adults?
+#### What causes midday bp dip postprandial hypotension in older adults?
 
 It results from a mismatch between increased splanchnic blood flow during digestion and diminished autonomic compensation — especially in those with mild autonomic neuropathy. Age-related baroreflex decline, reduced cardiac output reserve, and meal composition (e.g., high-carb, high-protein loads) all contribute.
 
-#### #### How is midday bp dip postprandial hypotension different from orthostatic hypotension?
+#### How is midday bp dip postprandial hypotension different from orthostatic hypotension?
 
 Orthostatic hypotension occurs specifically upon standing and reflects impaired upright regulation. *Midday bp dip postprandial hypotension* happens *after eating*, regardless of posture, and is driven primarily by splanchnic vasodilation and autonomic lag — though both can coexist.
 
-#### #### Can timed isometric handgrip really help midday bp dip postprandial hypotension?
+#### Can timed isometric handgrip really help midday bp dip postprandial hypotension?
 
 Yes — clinical studies in adults 65+ show that performing isometric handgrip 5–10 minutes before lunch raises systolic BP by 10–15 mm Hg for up to 90 minutes, effectively blunting the postprandial dip without increasing heart rate excessively.
 
-#### #### Is postprandial hypotension only a concern after lunch?
+#### Is postprandial hypotension only a concern after lunch?
 
 While the *midday bp dip postprandial hypotension* pattern is most common after lunch — likely due to circadian dips in sympathetic tone combined with typical meal size — it can occur after any meal. Dinner-related dips are less frequent but possible, especially in those with advanced autonomic impairment.
 
-#### #### What blood pressure numbers define postprandial hypotension?
+#### What blood pressure numbers define postprandial hypotension?
 
 A drop of ≥20 mm Hg systolic or ≥10 mm Hg diastolic within two hours of eating — confirmed by ambulatory monitoring — meets diagnostic criteria. Symptom correlation (e.g., lightheadedness, fatigue) strengthens clinical relevance.

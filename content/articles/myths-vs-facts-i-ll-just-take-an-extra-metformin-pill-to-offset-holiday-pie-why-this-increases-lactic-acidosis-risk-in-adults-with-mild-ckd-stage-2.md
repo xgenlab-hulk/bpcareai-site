@@ -46,22 +46,22 @@ In summary, enjoying holiday treats is absolutely possible—and part of joyful 
 
 ### FAQ
 
-#### #### Can metformin holiday pie lactic acidosis happen with just one extra pill?
+#### Can metformin holiday pie lactic acidosis happen with just one extra pill?
 
 Yes—especially in adults over 50 with CKD Stage 2. A single additional 500 mg dose can push plasma concentrations beyond safe thresholds when kidney clearance is already borderline. It’s not the pill itself, but the *timing and context* (dehydration, meal composition, concurrent illness) that tip the balance.
 
-#### #### Is metformin holiday pie lactic acidosis more common in seniors with stage 2 CKD?
+#### Is metformin holiday pie lactic acidosis more common in seniors with stage 2 CKD?
 
 Yes. While lactic acidosis remains rare overall, adults aged 60+ with CKD Stage 2 have a 3–5× higher relative risk compared to younger, healthier adults—due to age-related declines in both renal function and lactate metabolism.
 
-#### #### What are safer alternatives to extra metformin for holiday sugar control?
+#### What are safer alternatives to extra metformin for holiday sugar control?
 
 Focus on behavioral strategies: smaller portions, mindful eating, walking after meals, and staying hydrated. Some people benefit from pre-meal vinegar (1 tsp apple cider vinegar in water), though always discuss supplements with your doctor first.
 
-#### #### Does stopping metformin before a big meal prevent lactic acidosis?
+#### Does stopping metformin before a big meal prevent lactic acidosis?
 
 No—and it’s not recommended. Skipping doses can cause rebound hyperglycemia and disrupt long-term glycemic control. Metformin works best when taken consistently at prescribed doses.
 
-#### #### How often should kidney function be checked if I’m on metformin and over 50?
+#### How often should kidney function be checked if I’m on metformin and over 50?
 
 At minimum, eGFR and creatinine should be tested twice yearly. If you’ve had recent illness, started new medications, or noticed fatigue or swelling, ask for an earlier recheck.

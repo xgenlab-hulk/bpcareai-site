@@ -76,22 +76,22 @@ If you're unsure, talking to your doctor is always a good idea. And remember—t
 
 ### FAQ
 
-#### #### How can I manage blood sugar during Christmas and New Year without skipping family meals?
+#### How can I manage blood sugar during Christmas and New Year without skipping family meals?
 
 You absolutely don’t need to skip meals. Focus instead on structural adjustments: fill half your plate with non-starchy vegetables first, add 15–20 g of protein before touching carbs, and integrate “stealth fiber” (like ground flax in sauces or lentils in stuffing). These shifts lower glycemic load without sacrificing flavor or connection.
 
-#### #### What’s the best holiday buffet blood sugar guide for seniors with type 2 diabetes?
+#### What’s the best holiday buffet blood sugar guide for seniors with type 2 diabetes?
 
 The most effective *holiday buffet blood sugar guide* for seniors emphasizes *timing*, *fiber integration*, and *portion visualization*—not calorie counting. Prioritize starting meals with soup or salad, sequencing protein before starches, and using the Modified MyPlate layout. Always consult your endocrinologist before adjusting medications around festive eating.
 
-#### #### Is there a holiday buffet blood sugar guide that works for people with high blood pressure too?
+#### Is there a holiday buffet blood sugar guide that works for people with high blood pressure too?
 
 Yes—many strategies overlap. High-fiber, low-sodium, potassium-rich foods (like roasted beets, spinach, white beans) support both blood sugar control and vascular health. Avoiding high-sugar, high-salt combos (e.g., glazed ham + sweet potatoes + cranberry sauce) helps prevent the dual spikes in glucose and arterial pressure that strain the aging cardiovascular system.
 
-#### #### Why does blood sugar spike more after holiday buffets as we age?
+#### Why does blood sugar spike more after holiday buffets as we age?
 
 After age 50, muscle mass declines (~1% per year), reducing glucose disposal capacity. Pancreatic beta-cell function decreases, and gut hormone responses (like GLP-1 release) become blunted. Combined with common buffet foods—high in rapidly digested carbs and low in fiber—these changes prolong and amplify glucose excursions.
 
-#### #### Can walking after a holiday buffet really lower blood sugar?
+#### Can walking after a holiday buffet really lower blood sugar?
 
 Yes—moderate activity like a 10–15 minute walk within 30 minutes of finishing a meal can reduce 2-hour postprandial glucose by 15–25% in adults 65+, according to the ADA’s Standards of Care. It enhances skeletal muscle glucose uptake independent of insulin—a crucial advantage as insulin sensitivity declines with age.

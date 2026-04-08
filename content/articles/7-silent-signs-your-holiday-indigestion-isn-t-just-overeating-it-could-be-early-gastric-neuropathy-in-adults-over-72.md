@@ -78,17 +78,17 @@ In short, occasional indigestion is common—but consistent, patterned symptoms 
 
 ### FAQ
 
-#### #### What are the most common senior holiday indigestion warning signs?
+#### What are the most common senior holiday indigestion warning signs?
 The top subtle signs include early satiety (feeling full after just a few bites), nausea appearing 2–4 hours after eating, persistent bloating without relief, unexplained weight loss, and erratic blood sugar—especially in adults over 72 with diabetes or hypertension.
 
-#### #### Could my holiday indigestion be something serious if I’m over 72?
+#### Could my holiday indigestion be something serious if I’m over 72?
 Yes—while occasional discomfort is common, recurrent or worsening symptoms may indicate gastric neuropathy, gastroparesis, or other autonomic issues. These are treatable but require proper assessment, especially when paired with fatigue, dizziness, or blood sugar swings.
 
-#### #### How is gastric neuropathy diagnosed in older adults?
+#### How is gastric neuropathy diagnosed in older adults?
 Diagnosis typically begins with symptom questionnaires (like GCSI) and clinical evaluation. Confirmatory testing includes gastric emptying scintigraphy—a noninvasive scan measuring how quickly food leaves the stomach—or breath tests. Blood work may assess HbA1c, thyroid function, and vitamin B12 levels, as deficiencies can mimic or worsen neuropathic GI symptoms.
 
-#### #### Are there foods seniors should avoid during holidays to reduce indigestion risk?
+#### Are there foods seniors should avoid during holidays to reduce indigestion risk?
 Yes—limit high-fat items (gravy, fried appetizers, heavy cheeses), raw cruciferous vegetables (raw broccoli, cabbage), carbonated beverages, and large portions of dried fruit or nuts. Opt instead for soft, warm, low-residue options prepared with minimal oil or butter.
 
-#### #### Does high blood pressure relate to holiday indigestion in seniors?
+#### Does high blood pressure relate to holiday indigestion in seniors?
 Indirectly—chronic hypertension contributes to small-vessel disease that may impair autonomic nerve function over time. Additionally, some antihypertensive medications (e.g., calcium channel blockers) can mildly delay gastric motility. Monitoring both BP and digestive patterns together offers a fuller health picture.

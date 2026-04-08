@@ -94,17 +94,17 @@ Holiday traditions centered on food—especially intergenerational baking—are 
 
 ### FAQ
 
-#### #### Do homemade cookies raise triglycerides more than store-bought ones in seniors?
+#### Do homemade cookies raise triglycerides more than store-bought ones in seniors?
 Not inherently—but many traditional homemade recipes rely heavily on butter, shortening, or lard, which are higher in saturated fat than some commercial varieties fortified with plant sterols or reformulated with palm oil blends. What matters most is total saturated fat and added sugar content—not whether it’s homemade. Always check labels or ask about ingredients when accepting gifts.
 
-#### #### How long do triglycerides stay elevated after eating homemade cookies for seniors with metabolic syndrome?
+#### How long do triglycerides stay elevated after eating homemade cookies for seniors with metabolic syndrome?
 In adults 68+, triglyceride levels typically peak 3–4 hours after eating and may remain above baseline for 6–8 hours—especially with metabolic syndrome. In contrast, healthy younger adults usually return to baseline within 4 hours.
 
-#### #### Can I still enjoy homemade cookies if I have high triglycerides?
+#### Can I still enjoy homemade cookies if I have high triglycerides?
 Yes—with mindful modifications. Focus on portion size, ingredient swaps (e.g., avocado oil instead of butter), and pairing with fiber or protein. Many seniors find that enjoying one small, modified cookie with tea after lunch feels satisfying *and* metabolically gentle.
 
-#### #### What’s the link between postprandial triglycerides and blood pressure in older adults?
+#### What’s the link between postprandial triglycerides and blood pressure in older adults?
 Elevated postprandial triglycerides contribute to endothelial dysfunction and increased arterial stiffness—both associated with higher systolic blood pressure, especially in adults over 65. While not a direct cause, chronic postprandial hypertriglyceridemia is part of a broader vascular stress pattern.
 
-#### #### Are sugar-free cookies safer for triglyceride control in seniors?
+#### Are sugar-free cookies safer for triglyceride control in seniors?
 Not necessarily. Many sugar-free versions replace sucrose with fructose or maltitol, which—when consumed in excess—can drive hepatic de novo lipogenesis (new fat creation), raising triglycerides. Read labels carefully: aim for <5 g added sugars *and* <10 g total sugars per serving.

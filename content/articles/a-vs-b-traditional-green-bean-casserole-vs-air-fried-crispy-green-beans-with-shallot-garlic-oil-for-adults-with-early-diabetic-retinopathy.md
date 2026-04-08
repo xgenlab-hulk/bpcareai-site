@@ -70,22 +70,22 @@ Choosing between green bean casserole vs air-fried green beans isn’t about cho
 
 ### FAQ
 
-#### #### Is green bean casserole vs air-fried green beans really that different for someone with diabetic retinopathy?
+#### Is green bean casserole vs air-fried green beans really that different for someone with diabetic retinopathy?
 
 Yes — especially in how they affect short-term glucose response and retinal stress signals. Traditional casserole tends to raise post-meal glucose more sharply and contributes more dietary AGEs, both of which are associated with faster progression in early retinopathy. Air-fried versions offer gentler metabolic impact — without sacrificing satisfaction.
 
-#### #### Can I still enjoy green bean casserole vs air-fried green beans during holiday meals?
+#### Can I still enjoy green bean casserole vs air-fried green beans during holiday meals?
 
 Absolutely — and you don’t need to choose one forever. Think of it as spectrum, not a switch. Even modifying one element — like swapping canned soup for a homemade mushroom sauce or using air-fried onions — meaningfully reduces AGEs and acrylamide exposure. The goal is sustainability, not sacrifice.
 
-#### #### How does cooking method affect flavonoids in green beans?
+#### How does cooking method affect flavonoids in green beans?
 
 Flavonoids like quercetin are sensitive to heat, water, and processing. Boiling leaches up to 50% into cooking water; baking or frying at high temps degrades them. Air-frying at moderate temps (<375°F) for short durations (8–12 min) preserves up to 85% of native flavonoids — especially when beans are lightly oiled first to enhance antioxidant absorption.
 
-#### #### Are there other vegetables I should prepare similarly to support eye health?
+#### Are there other vegetables I should prepare similarly to support eye health?
 
 Yes — cruciferous vegetables (broccoli, Brussels sprouts), bell peppers, and asparagus all contain retinal-protective carotenoids and flavonoids. Steaming, roasting at low-moderate heat, or quick air-frying helps retain their benefits better than boiling or prolonged baking.
 
-#### #### Does sodium content differ significantly between green bean casserole vs air-fried green beans?
+#### Does sodium content differ significantly between green bean casserole vs air-fried green beans?
 
 Yes — dramatically. A typical 1-cup serving of traditional casserole made with canned soup and fried onions contains ~500–700 mg sodium. Air-fried green beans with shallot-garlic oil (no added salt) typically contain under 10 mg — unless salt is added intentionally. Since high sodium intake correlates with increased retinal blood flow resistance and microvascular strain, this difference matters for long-term eye health.

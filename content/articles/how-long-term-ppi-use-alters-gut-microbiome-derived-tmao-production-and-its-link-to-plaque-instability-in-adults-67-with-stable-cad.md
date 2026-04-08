@@ -58,22 +58,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Do pills and tmao heart disease seniors 67+ interact even if I feel fine?
+#### Do pills and tmao heart disease seniors 67+ interact even if I feel fine?
 
 Yes. TMAO elevation often causes no symptoms, yet studies link levels >6.5 µmol/L to increased plaque vulnerability—even in asymptomatic seniors with stable CAD. Silent progression underscores why proactive assessment matters.
 
-#### #### Can stopping PPIs lower TMAO quickly in pills and tmao heart disease seniors 67+?
+#### Can stopping PPIs lower TMAO quickly in pills and tmao heart disease seniors 67+?
 
 Not necessarily—and abrupt discontinuation isn’t advised. TMAO reductions post-PPI cessation take weeks to months and depend on individual microbiome recovery. Work with your provider to assess whether stepping down or switching to H2 blockers (e.g., famotidine) is appropriate.
 
-#### #### Are there natural ways to lower TMAO besides probiotics for pills and tmao heart disease seniors 67+?
+#### Are there natural ways to lower TMAO besides probiotics for pills and tmao heart disease seniors 67+?
 
 Yes. Regular aerobic activity (150 min/week moderate intensity), adequate hydration, and limiting highly processed red meats while emphasizing plant polyphenols (berries, green tea, extra-virgin olive oil) support healthier microbial metabolism and reduce systemic inflammation tied to TMAO effects.
 
-#### #### Does high TMAO mean my heart disease is worsening?
+#### Does high TMAO mean my heart disease is worsening?
 
 Not alone—but it’s a metabolic signal. Elevated TMAO reflects altered gut–host interactions that *contribute* to instability. It's best interpreted alongside imaging (e.g., coronary CTA), functional tests (stress echocardiogram), and clinical symptoms—not as a standalone diagnosis.
 
-#### #### Is TMAO testing covered by Medicare for seniors 67+?
+#### Is TMAO testing covered by Medicare for seniors 67+?
 
 Currently, TMAO testing is considered investigational by most insurers, including Medicare, and is typically out-of-pocket (~$150–$250). However, some academic medical centers offer it as part of research protocols or integrated cardiometabolic evaluations.

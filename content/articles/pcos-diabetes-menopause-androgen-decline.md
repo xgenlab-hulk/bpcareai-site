@@ -59,22 +59,22 @@ Navigating *PCOS diabetes menopause androgen decline* doesn’t mean your body i
 
 ### FAQ
 
-#### #### Does PCOS diabetes menopause androgen decline increase heart disease risk?
+#### Does PCOS diabetes menopause androgen decline increase heart disease risk?
 
 Yes—indirectly. Androgen decline contributes to visceral fat accumulation and reduced muscle mass, both of which elevate insulin resistance and inflammation. Combined with hypertension (seen in ~30% of women over 60 with type 2 diabetes), this raises cardiovascular risk. But lifestyle adjustments—especially regular movement and blood pressure awareness—can meaningfully lower that risk.
 
-#### #### Can PCOS diabetes menopause androgen decline affect blood sugar control even after menopause?
+#### Can PCOS diabetes menopause androgen decline affect blood sugar control even after menopause?
 
 Absolutely. Lower androgen levels correlate with decreased insulin sensitivity and altered fat distribution—both of which challenge glycemic management. Many women find their A1c creeps up slowly postmenopause, even with unchanged diet or meds. That’s why consistent glucose and BP tracking matters.
 
-#### #### Is testosterone therapy ever considered for women over 60 with PCOS diabetes menopause androgen decline?
+#### Is testosterone therapy ever considered for women over 60 with PCOS diabetes menopause androgen decline?
 
 Not routinely—and never without careful evaluation. While some studies show modest benefits for libido or lean mass, risks (like liver strain or worsening sleep apnea) must be weighed against potential gains. Current guidelines do not recommend systemic testosterone for metabolic purposes in this group.
 
-#### #### How does stress impact PCOS diabetes menopause androgen decline?
+#### How does stress impact PCOS diabetes menopause androgen decline?
 
 Chronic stress raises cortisol, which promotes abdominal fat storage and impairs insulin signaling—amplifying the metabolic effects of androgen decline. Prioritizing restorative practices (mindful breathing, nature time, joyful connection) helps buffer this effect.
 
-#### #### What’s the link between PCOS diabetes menopause androgen decline and high blood pressure?
+#### What’s the link between PCOS diabetes menopause androgen decline and high blood pressure?
 
 Visceral fat—driven partly by androgen shifts—releases inflammatory molecules and activates the renin-angiotensin system, contributing to arterial stiffness and elevated BP. That’s why waist measurement and home BP tracking are simple yet powerful tools.

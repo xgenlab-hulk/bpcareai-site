@@ -65,22 +65,22 @@ Warm baths aren’t a miracle cure—but they *are* a gentle, accessible, and ev
 
 ### FAQ
 
-#### #### Can warm baths heart circulation help lower high blood pressure in older adults?
+#### Can warm baths heart circulation help lower high blood pressure in older adults?
 
 Yes—moderate-temperature warm baths (98–102°F) have been associated with modest but clinically meaningful reductions in systolic blood pressure in older adults. A 2021 study found an average 6–8 mm Hg drop after four weeks of daily 10–15 minute soaks. The mechanism involves peripheral vasodilation and reduced vascular resistance—not dehydration or stress-induced spikes.
 
-#### #### Are warm baths heart circulation benefits the same as hot tubs or saunas?
+#### Are warm baths heart circulation benefits the same as hot tubs or saunas?
 
 No. Hot tubs and saunas often exceed 104°F and may elevate heart rate and cardiac output significantly—posing risks for seniors with uncontrolled hypertension or heart disease. Warm baths, by contrast, rely on gentle, controlled heat and immersion depth to support *peripheral* circulation without overtaxing the heart.
 
-#### #### How often should seniors take warm baths for heart circulation benefits?
+#### How often should seniors take warm baths for heart circulation benefits?
 
 Research suggests daily 10–15 minute soaks yield the most consistent improvements in peripheral blood flow and BP regulation. However, even 3–4 times per week can provide measurable benefits—especially when paired with hydration and slow transitions.
 
-#### #### Can warm baths improve circulation in people with diabetes?
+#### Can warm baths improve circulation in people with diabetes?
 
 Yes—many adults with well-managed type 2 diabetes report improved skin warmth and reduced numbness after regular warm baths. However, because neuropathy can impair temperature sensation, always test water with a thermometer or elbow—not fingertips—and avoid prolonged soaking (beyond 20 minutes) to prevent skin breakdown.
 
-#### #### Do warm baths help with winter heart health for seniors beyond circulation?
+#### Do warm baths help with winter heart health for seniors beyond circulation?
 
 Absolutely. Beyond improving blood flow, warm baths support parasympathetic nervous system activation—lowering cortisol and heart rate variability (HRV) markers linked to stress resilience. Combined with better sleep onset and reduced muscle tension, this creates a holistic buffer against seasonal cardiovascular strain—making warm baths heart circulation a quietly powerful part of winter heart health for seniors.

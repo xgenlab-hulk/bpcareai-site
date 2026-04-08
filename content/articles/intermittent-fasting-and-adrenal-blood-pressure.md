@@ -46,17 +46,17 @@ In short, intermittent fasting and adrenal blood pressure aren’t just about ca
 
 ### FAQ
 
-#### #### Can intermittent fasting and adrenal blood pressure management help reduce nighttime high blood pressure in seniors?  
+#### Can intermittent fasting and adrenal blood pressure management help reduce nighttime high blood pressure in seniors?  
 Yes—when properly timed (e.g., 14:10 window ending by early evening), intermittent fasting may help preserve aldosterone rhythm and blunt nocturnal renin surges, supporting healthier nighttime BP dips. But effects vary based on adrenal reserve and medication use.
 
-#### #### Is intermittent fasting and adrenal blood pressure safe if I take fludrocortisone?  
+#### Is intermittent fasting and adrenal blood pressure safe if I take fludrocortisone?  
 It *can* be safe—but requires coordination with your provider. Fludrocortisone doesn’t follow natural rhythms, so fasting windows must avoid overlapping with peak drug effect times and ensure adequate sodium/potassium balance. Never adjust dosing without medical guidance.
 
-#### #### Does intermittent fasting affect cortisol levels in older adults with adrenal insufficiency?  
+#### Does intermittent fasting affect cortisol levels in older adults with adrenal insufficiency?  
 Yes—poorly timed fasting (e.g., skipping breakfast or eating late) may further dysregulate cortisol rhythms. A consistent 14:10 window aligned with natural wake/sleep cycles supports more stable HPA axis signaling, though individual responses vary.
 
-#### #### What’s the best time to eat during intermittent fasting for blood pressure control?  
+#### What’s the best time to eat during intermittent fasting for blood pressure control?  
 For most adults 62+, ending your eating window by 7 p.m. aligns best with adrenal PER1/PER2 expression peaks and supports nocturnal BP dipping. Morning meals should occur within 1 hour of waking to reinforce circadian entrainment.
 
-#### #### How long does it take to see blood pressure changes with intermittent fasting?  
+#### How long does it take to see blood pressure changes with intermittent fasting?  
 Some adults notice subtle BP stabilization within 2–3 weeks of consistent 14:10 timing; however, meaningful improvements in rhythm (e.g., restored nocturnal dip) often require 6–8 weeks of adherence plus lifestyle integration (sleep, stress, hydration).

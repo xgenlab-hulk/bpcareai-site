@@ -74,15 +74,15 @@ Holiday meals are about presence—not perfection. Supporting *gastric acid resi
 
 ### FAQ
 
-#### #### Can gastric acid resilience ppi therapy holiday meals help with post-meal fatigue?
+#### Can gastric acid resilience ppi therapy holiday meals help with post-meal fatigue?
 
 Yes—especially when fatigue occurs regularly within 60–90 minutes after eating. It often reflects delayed gastric emptying or suboptimal protein digestion due to lower pepsin activity. Gentle warming, strategic protein timing, and synergistic food pairings can ease this without changing your PPI regimen.
 
-#### #### What does “gastric acid resilience ppi therapy holiday meals” actually mean in practice?
+#### What does “gastric acid resilience ppi therapy holiday meals” actually mean in practice?
 
 It means supporting your digestive system’s natural adaptability *while continuing your prescribed PPI therapy*. Rather than trying to increase acid (which contradicts PPI action), it focuses on optimizing enzyme activation, nutrient co-absorption, and gastric motility through temperature, timing, and food synergy—making holiday meals both joyful and physiologically supportive.
 
-#### #### Are there foods I should avoid entirely during holiday meals if I’m on long-term PPI therapy?
+#### Are there foods I should avoid entirely during holiday meals if I’m on long-term PPI therapy?
 
 Not necessarily “avoid,” but consider modifying how you enjoy them. For example:  
 - Instead of raw onions in stuffing, try gently sautéed onions.  
@@ -90,10 +90,10 @@ Not necessarily “avoid,” but consider modifying how you enjoy them. For exam
 - Choose roasted sweet potatoes over mashed versions with heavy cream—easier on motilin signaling.  
 The emphasis is on gentleness, not elimination.
 
-#### #### How does low pepsinogen I/II affect holiday eating—and is it reversible?
+#### How does low pepsinogen I/II affect holiday eating—and is it reversible?
 
 Low pepsinogen I/II reflects reduced functional capacity of gastric chief cells—common with aging and long-term PPI use. It’s not typically “reversed,” but its impact can be meaningfully offset. Supporting pepsin activity via vitamin C, warmth, and well-timed protein helps compensate. Many people notice improved energy and comfort within 2–3 holiday meals once adjustments begin.
 
-#### #### Can I still enjoy desserts if I’m focused on gastric acid resilience?
+#### Can I still enjoy desserts if I’m focused on gastric acid resilience?
 
 Absolutely—especially when chosen thoughtfully. Baked fruits (apples, pears), lightly sweetened ricotta, or dark chocolate (70%+ cacao, 1 small square) are gentler on digestion than high-fat, high-sugar combinations like cheesecake with whipped cream. Warmth, simplicity, and portion awareness go a long way.

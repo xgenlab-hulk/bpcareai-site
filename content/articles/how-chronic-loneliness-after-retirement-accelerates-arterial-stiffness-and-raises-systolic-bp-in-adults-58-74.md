@@ -65,22 +65,22 @@ The link between loneliness and arterial stiffness blood pressure reminds us tha
 
 ### FAQ
 
-#### #### Does loneliness really affect blood pressure and arterial stiffness?
+#### Does loneliness really affect blood pressure and arterial stiffness?
 
 Yes—multiple longitudinal studies confirm that chronic loneliness is associated with measurable increases in arterial stiffness (via pulse wave velocity) and higher systolic blood pressure, especially in adults over 55. This happens through biological pathways involving inflammation, endothelial dysfunction, and autonomic nervous system imbalance.
 
-#### #### Can loneliness and arterial stiffness blood pressure changes be reversed?
+#### Can loneliness and arterial stiffness blood pressure changes be reversed?
 
 Often, yes. Research shows improvements in both arterial elasticity and BP control within 3–6 months of increasing meaningful social contact, regular physical activity, and stress-reduction practices—even later in life.
 
-#### #### Is loneliness and arterial stiffness blood pressure more common after retirement?
+#### Is loneliness and arterial stiffness blood pressure more common after retirement?
 
 Data suggests yes—retirement can reduce daily structure and incidental social interaction. Adults aged 58–74 who experience sudden loss of workplace connection *and* limited alternative social outlets show higher rates of accelerated arterial stiffening over time.
 
-#### #### What’s a healthy pulse wave velocity for someone in their 60s?
+#### What’s a healthy pulse wave velocity for someone in their 60s?
 
 For adults aged 60–70, a normal PWV is typically under 9–10 m/sec. Values consistently above 10 m/sec suggest increased arterial stiffness and warrant discussion with a healthcare provider.
 
-#### #### Does having pets help with loneliness and arterial stiffness blood pressure?
+#### Does having pets help with loneliness and arterial stiffness blood pressure?
 
 Some studies suggest pet ownership—particularly dogs—is linked to modest reductions in systolic BP and improved social engagement. While not a substitute for human connection, pets can offer routine, comfort, and opportunities for neighborhood interaction.

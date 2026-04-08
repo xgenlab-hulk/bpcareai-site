@@ -70,22 +70,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Why do I get high blood sugar after low-carb meals even though I’ve had diabetes for years?
+#### Why do I get high blood sugar after low-carb meals even though I’ve had diabetes for years?
 
 This pattern—called **postprandial hyperglycemia low-carb long-standing diabetes**—often stems from reduced muscle glucose uptake, mitochondrial stress (signaled by GDF-15), and blunted gut hormone responses—not just carb load. It’s a sign of evolving physiology, not poor choices.
 
-#### #### Is postprandial hyperglycemia low-carb long-standing diabetes dangerous?
+#### Is postprandial hyperglycemia low-carb long-standing diabetes dangerous?
 
 Yes—if sustained. Repeated spikes above 180 mg/dL after meals are linked to higher risk of microvascular complications and may reflect underlying mitochondrial or vascular stress. But it’s manageable with targeted strategies—not just stricter carb limits.
 
-#### #### Can GDF-15 levels explain why my blood sugar stays high after meals?
+#### Can GDF-15 levels explain why my blood sugar stays high after meals?
 
 Often, yes. Elevated GDF-15 (>1,000 pg/mL) signals mitochondrial strain and correlates with reduced insulin sensitivity in muscle and altered energy regulation—even on low-carb diets. It’s one piece of a larger puzzle, not a standalone diagnosis.
 
-#### #### Does walking after meals really help with postprandial hyperglycemia?
+#### Does walking after meals really help with postprandial hyperglycemia?
 
 Yes—especially for adults over 60. Just 10 minutes of light walking within 30 minutes of eating can lower 90-minute glucose by 25–35 mg/dL, likely by activating non-insulin-dependent glucose transporters in muscle.
 
-#### #### Should I avoid protein-rich low-carb meals if they raise my blood sugar?
+#### Should I avoid protein-rich low-carb meals if they raise my blood sugar?
 
 Not necessarily—but consider distribution and pairing. Very high-protein meals (e.g., >40g at once) may stimulate glucagon. Try balancing protein with healthy fats and fiber (e.g., avocado + turkey + spinach) and spreading protein across the day.

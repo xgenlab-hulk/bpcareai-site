@@ -74,22 +74,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can paced breathing really lower diastolic blood pressure in 48 hours?
+#### Can paced breathing really lower diastolic blood pressure in 48 hours?
 
 Yes—two randomized clinical trials confirm it. Adults with isolated diastolic hypertension who practiced 5.5 breaths per minute for 10–12 minutes twice daily saw average diastolic reductions of 6–9 mm Hg within 48 hours. The effect is linked to enhanced vagal tone and improved heart rate variability—not temporary stress reduction alone.
 
-#### #### What’s the best breathing rate to lower diastolic blood pressure in 48 hours?
+#### What’s the best breathing rate to lower diastolic blood pressure in 48 hours?
 
 The most consistently effective rate across studies is 5.5 breaths per minute—roughly a 5.5-second inhale and 5.5-second exhale. This pace aligns with the body’s natural resonance frequency, maximizing baroreflex sensitivity and parasympathetic activation. Slower isn’t always better; too slow (e.g., <4 breaths/min) may trigger mild stress responses in some individuals.
 
-#### #### Does lowering diastolic blood pressure in 48 hours mean my hypertension is cured?
+#### Does lowering diastolic blood pressure in 48 hours mean my hypertension is cured?
 
 No—and that’s okay. What these short-term shifts show is that your nervous system and vascular function remain responsive. Sustained improvements come from repeating these practices regularly (e.g., 5–10 minutes daily), alongside balanced nutrition, movement, and sleep. Think of the 48-hour window as a “proof of concept” for your body’s adaptability—not a permanent fix, but a hopeful sign.
 
-#### #### Can I use this method if I’m already on blood pressure medication?
+#### Can I use this method if I’m already on blood pressure medication?
 
 Most people can—*but always consult your prescribing clinician first*. Paced breathing is generally safe alongside antihypertensives, and some providers encourage it as complementary support. However, if your medication lowers BP significantly (e.g., ACE inhibitors or beta-blockers), your provider may want to monitor for symptoms like lightheadedness, especially during the first few days.
 
-#### #### Do I need a special device to lower diastolic blood pressure in 48 hours?
+#### Do I need a special device to lower diastolic blood pressure in 48 hours?
 
 No. The core technique—paced breathing at 5.5 breaths per minute—is completely device-agnostic. While HRV biofeedback tools can enhance awareness and motivation, they aren’t required. Many participants in the RCTs used only a timer and focused attention—and still achieved meaningful results. Your breath is always with you, ready to support you.

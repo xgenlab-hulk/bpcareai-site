@@ -83,22 +83,22 @@ If you're unsure, talking to your doctor is always a good idea. And if you're ex
 
 ### FAQ
 
-#### #### What are the best holiday appetizers macular degeneration patients can eat safely?
+#### What are the best holiday appetizers macular degeneration patients can eat safely?
 
 Great question! Focus on whole-food options rich in lutein, zeaxanthin, omega-3s, and antioxidants: baked salmon skewers with lemon-dill drizzle, roasted beet and walnut crostini, scrambled eggs with spinach and tomatoes, or lentil-stuffed mini peppers. Avoid highly processed, sodium-laden options (like many store-bought meatballs or cheese spreads), which may contribute to systemic inflammation and vascular stress—both linked to AMD progression.
 
-#### #### How can I make holiday appetizers macular degeneration–friendly for my parents without drawing attention?
+#### How can I make holiday appetizers macular degeneration–friendly for my parents without drawing attention?
 
 Keep it seamless and celebratory. Serve appetizers on colorful, textured boards (slate, bamboo, or ceramic with bold glazes) and use garnishes that *everyone* enjoys—like pomegranate arils, fresh herbs, or roasted garlic cloves. Offer a mix of textures and temperatures (warm spiced nuts + cool cucumber cups), which naturally draws interest and supports sensory engagement. Most importantly: invite them to help choose or arrange something—even if it’s just picking the herb garnish. Agency and inclusion matter more than any single modification.
 
-#### #### Are there specific vitamins or supplements I should add to holiday appetizers macular degeneration plans?
+#### Are there specific vitamins or supplements I should add to holiday appetizers macular degeneration plans?
 
 Supplements shouldn’t replace food—but they can complement it. The AREDS2 formula (vitamin C, vitamin E, zinc, copper, lutein, and zeaxanthin) is clinically supported *for people with intermediate AMD*. However, adding lutein-rich foods—like kale chips, scrambled eggs with spinach, or corn-and-pepper relish—to your holiday appetizers macular degeneration plan delivers nutrients in their most bioavailable form, plus fiber and phytonutrients you won’t get in a pill.
 
-#### #### Can high blood pressure affect my macular degeneration?
+#### Can high blood pressure affect my macular degeneration?
 
 Yes—indirectly but significantly. Hypertension contributes to vascular stiffness and reduced blood flow to the retina. Studies show people with uncontrolled BP (≥140/90 mm Hg) have a higher risk of AMD progression, especially the wet (neovascular) form. Managing arterial pressure supports both heart and eye health—so healthy holiday eating for seniors includes watching sodium, enjoying potassium-rich foods (like avocado, sweet potatoes, and white beans), and staying physically active.
 
-#### #### Do I need special plates or tools for holiday appetizers macular degeneration?
+#### Do I need special plates or tools for holiday appetizers macular degeneration?
 
 Not necessarily—but contrast matters. Solid-color plates (black, navy, or deep green) make light-colored foods stand out. Avoid patterned or glossy surfaces that cause glare. A simple, wide-rimmed ceramic dish or slate board often works better than ornate porcelain. No need for “medical” gear—just mindful choices that serve both your eyes and your spirit.

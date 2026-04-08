@@ -73,22 +73,22 @@ Choosing between CGM and fingerstick isn’t about “better” or “worse”�
 
 ### FAQ
 
-#### #### Is CGM vs fingerstick nocturnal hypoglycemia elderly really worth it for someone with memory issues?
+#### Is CGM vs fingerstick nocturnal hypoglycemia elderly really worth it for someone with memory issues?
 
 Yes—especially because CGM reduces reliance on self-reported symptoms and memory-dependent actions (like remembering to test at 3 a.m.). Alarms can be set to vibrate or alert caregivers remotely, adding an extra layer of safety.
 
-#### #### How accurate is CGM vs fingerstick nocturnal hypoglycemia elderly in real life?
+#### How accurate is CGM vs fingerstick nocturnal hypoglycemia elderly in real life?
 
 Real-world data shows CGM detects ~82% of clinically significant nocturnal events (<70 mg/dL), compared to ~25% with once-daily fingerstick. Accuracy holds well even with mild anemia or edema—common in older adults.
 
-#### #### Does Medicare cover CGM for seniors on basal insulin only?
+#### Does Medicare cover CGM for seniors on basal insulin only?
 
 Yes—if you meet criteria (e.g., diagnosed diabetes, treated with insulin, and have documented hypoglycemia or difficulty recognizing lows), Medicare Part B covers FDA-approved CGM systems—including supplies and training.
 
-#### #### Can fingerstick testing ever be enough for older adults?
+#### Can fingerstick testing ever be enough for older adults?
 
 It *can* be sufficient—for some. But if you’ve had a fall, confusion, or unexplained fatigue at night, or if your HbA1c is stable but you’re experiencing daytime shakiness, it’s likely missing important patterns. CGM vs fingerstick nocturnal hypoglycemia elderly comparisons consistently favor CGM in those scenarios.
 
-#### #### Do CGM sensors work well for thin or fragile skin?
+#### Do CGM sensors work well for thin or fragile skin?
 
 Modern sensors are designed with low-profile adhesives and flexible applicators. Many seniors report comfortable wear—even with thinner skin—when applied to upper arm or thigh (rather than abdomen). A clinician or certified diabetes educator can help choose the best option.

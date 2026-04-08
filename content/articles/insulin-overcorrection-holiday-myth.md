@@ -87,17 +87,17 @@ If you're unsure, talking to your doctor is always a good idea. And remember: ma
 
 ### FAQ
 
-#### #### Is it safe to take extra insulin to cover holiday desserts?
+#### Is it safe to take extra insulin to cover holiday desserts?
 No—it’s not safe and reinforces the **insulin overcorrection holiday myth**. Desserts high in fat and sugar cause delayed, prolonged glucose rises. Extra rapid-acting insulin given upfront often leads to hypoglycemia 3–5 hours later, followed by rebound highs. Instead, consider splitting your dose or choosing smaller portions paired with protein.
 
-#### #### Does the insulin overcorrection holiday myth apply to people over 60?
+#### Does the insulin overcorrection holiday myth apply to people over 60?
 Yes—especially for adults aged 59–67 with long-standing type 2 diabetes. Age-related declines in renal function, muscle mass, and hormonal counter-regulation make overcorrection riskier and less predictable. CGM studies confirm this group experiences the highest rates of glucose variability and late-onset hypoglycemia during holiday weeks.
 
-#### #### Can overcorrecting insulin during holidays cause long-term damage?
+#### Can overcorrecting insulin during holidays cause long-term damage?
 Yes. Repeated overcorrection contributes to glycemic volatility, which independently predicts microvascular complications—including retinopathy progression and early nephropathy—even when average A1C appears stable. Over 5 years, adults with high glucose variability show 22% greater risk of new microalbuminuria.
 
-#### #### Why do I get low blood sugar *after* a big holiday meal—even though I took insulin?
+#### Why do I get low blood sugar *after* a big holiday meal—even though I took insulin?
 This is classic delayed hypoglycemia—common when correction insulin is dosed for immediate glucose but food (especially high-fat, high-fiber dishes) digests slowly. Your insulin peaks while glucose is still rising, then drops sharply once absorption catches up. CGM data shows this occurs in 41% of overcorrection events in adults over 60.
 
-#### #### What’s the best way to enjoy holiday meals without stressing about blood sugar?
+#### What’s the best way to enjoy holiday meals without stressing about blood sugar?
 Start with structure: eat balanced bites (protein + veg + modest carb), time meals earlier, use half-portions for starches and desserts, and check glucose 2 and 4 hours after eating—not just before. Most importantly, treat your correction factor like a living number: test it, update it, and adjust it with your care team—not against it.

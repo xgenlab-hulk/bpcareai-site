@@ -53,17 +53,17 @@ Intermittent fasting holiday eating seniors isn’t about perfection or restrict
 
 ### FAQ
 
-#### #### Is intermittent fasting holiday eating seniors safe for people with high blood pressure?
+#### Is intermittent fasting holiday eating seniors safe for people with high blood pressure?
 Yes—for many, but only with medical guidance. Time-restricted eating may support healthier BP patterns by reducing late-night snacking and improving insulin sensitivity. However, if you take BP-lowering medications (especially alpha- or beta-blockers), timing and dosage may need review.
 
-#### #### Can intermittent fasting holiday eating seniors help prevent holiday weight gain?
+#### Can intermittent fasting holiday eating seniors help prevent holiday weight gain?
 Research suggests it *can*, especially when combined with mindful eating and regular movement. A 2022 study in *JAMA Internal Medicine* found that adults aged 55–75 following a 12-hour time-restricted pattern gained, on average, 0.7 lbs less over the holiday period than those without structured eating windows.
 
-#### #### What’s the best intermittent fasting schedule for healthy holiday eating for seniors?
+#### What’s the best intermittent fasting schedule for healthy holiday eating for seniors?
 A 12-hour window (e.g., 7 a.m.–7 p.m.) is widely recommended as safe, sustainable, and aligned with natural circadian biology. Avoid extreme protocols (like 24-hour fasts or OMAD) unless specifically advised and supervised by your care team.
 
-#### #### Does intermittent fasting affect medication timing for seniors?
+#### Does intermittent fasting affect medication timing for seniors?
 It can—especially for drugs taken with food (e.g., certain thyroid meds or NSAIDs) or those that influence blood sugar or hydration. Always discuss timing adjustments with your pharmacist or physician before starting.
 
-#### #### Are there signs I should stop intermittent fasting during the holidays?
+#### Are there signs I should stop intermittent fasting during the holidays?
 Yes. Persistent hunger that disrupts sleep, lightheadedness upon standing, new constipation, or increased irritability are gentle cues your body may prefer a different rhythm. Listen with kindness—and return to what feels steady and supportive.

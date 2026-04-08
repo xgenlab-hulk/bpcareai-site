@@ -86,22 +86,22 @@ If you're unsure, talking to your doctor is always a good idea — especially if
 
 ### FAQ
 
-#### #### Could holiday heart syndrome actually be cardiac sarcoidosis?
+#### Could holiday heart syndrome actually be cardiac sarcoidosis?
 
 Yes — though it’s uncommon, early cardiac sarcoidosis can mimic holiday heart syndrome, especially in adults over 60 with autoimmune conditions. Key differentiators include symptoms that persist beyond typical recovery time (e.g., fatigue or tachycardia lasting >48 hours), lack of response to rest or hydration, and recurrence without clear triggers like alcohol or stress.
 
-#### #### What are the most overlooked holiday heart syndrome cardiac sarcoidosis signs?
+#### What are the most overlooked holiday heart syndrome cardiac sarcoidosis signs?
 
 The top subtle signs include: isolated fatigue after small amounts of alcohol, transient AV block (e.g., brief dizziness or “pause” feeling during holiday stress), persistent sinus tachycardia (>90 bpm at rest for multiple days), and unexplained shortness of breath during light activity — particularly if you’re on methotrexate or have known sarcoidosis elsewhere.
 
-#### #### How is holiday heart syndrome cardiac sarcoidosis diagnosed?
+#### How is holiday heart syndrome cardiac sarcoidosis diagnosed?
 
 No single test confirms it. Diagnosis typically involves a combination: detailed symptom history, EKG (looking for PR prolongation or ventricular ectopy), echocardiogram (to assess structure/function), cardiac MRI (for tissue characterization), and sometimes FDG-PET scanning (to detect active inflammation). Blood tests like ACE level or lysozyme may support — but not confirm — the diagnosis.
 
-#### #### Does methotrexate increase risk of cardiac sarcoidosis?
+#### Does methotrexate increase risk of cardiac sarcoidosis?
 
 Methotrexate itself doesn’t *cause* cardiac sarcoidosis, but it may delay recognition — since it suppresses general inflammation, potentially masking early immune activity in the heart. Also, people on methotrexate often have underlying autoimmune conditions associated with higher sarcoidosis risk.
 
-#### #### Can holiday heart syndrome prevention reduce risk of cardiac sarcoidosis?
+#### Can holiday heart syndrome prevention reduce risk of cardiac sarcoidosis?
 
 Not directly — because cardiac sarcoidosis stems from immune dysregulation, not lifestyle alone. However, *holiday heart syndrome prevention* strategies (limiting alcohol, staying hydrated, prioritizing sleep, managing stress) support overall heart resilience and may help distinguish true holiday-triggered arrhythmias from more persistent issues needing evaluation.

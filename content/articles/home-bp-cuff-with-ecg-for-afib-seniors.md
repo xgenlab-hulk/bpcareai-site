@@ -78,22 +78,22 @@ Choosing the right tool isn’t about finding perfection—it’s about finding 
 
 ### FAQ
 
-#### #### Do home BP cuffs with ECG really detect AFib accurately in seniors?
+#### Do home BP cuffs with ECG really detect AFib accurately in seniors?
 
 Yes—when clinically validated and used correctly. Studies show FDA-cleared upper-arm hybrid devices detect AFib with 92–96% sensitivity in adults 65+, but accuracy dips slightly in very frail individuals or those with very low pulse amplitude. Consistency matters more than a single reading: look for patterns over time, not isolated alerts.
 
-#### #### What’s the best home bp cuff with ecg for afib seniors with arthritis?
+#### What’s the best home bp cuff with ecg for afib seniors with arthritis?
 
 The most arthritis-friendly models feature large, raised buttons; auto-inflation; a wide-range cuff (22–42 cm); and ECG electrodes built into the cuff fabric—not separate pads. Prioritize devices validated per ESH-IP or ISO 81060-2 *with older adult participants*, and avoid wrist-worn hybrids for AFib screening, as they’re less reliable in this population.
 
-#### #### Can a home bp cuff with ecg for afib seniors replace my Holter monitor?
+#### Can a home bp cuff with ecg for afib seniors replace my Holter monitor?
 
 No—it’s a valuable *complement*, not a replacement. Holter and event monitors capture continuous, multi-lead ECG over 24–72+ hours and remain the standard for diagnosing intermittent arrhythmias. A home hybrid device helps spot *recurrent* AFib episodes and track trends alongside BP—but it shouldn’t be used to rule out other rhythm issues like bradycardia or ventricular ectopy.
 
-#### #### Why does my home BP cuff with ECG sometimes say “irregular pulse” but no AFib?
+#### Why does my home BP cuff with ECG sometimes say “irregular pulse” but no AFib?
 
 “Irregular pulse” is a broader flag—it could mean premature beats, sinus arrhythmia (normal with breathing), or brief pauses. AFib detection requires sustained, chaotic rhythm without P-waves. Many devices will display “irregular pulse” first, then confirm AFib only if the pattern lasts ≥30 seconds and meets algorithm criteria. Don’t panic—but do note frequency and context.
 
-#### #### Is it safe to rely on a home bp cuff with ecg for afib seniors if I’m on blood thinners?
+#### Is it safe to rely on a home bp cuff with ecg for afib seniors if I’m on blood thinners?
 
 Yes—as long as it’s used as directed and findings are shared with your care team. Anticoagulant therapy depends on stroke risk (calculated via CHA₂DS₂-VASc score), not just AFib detection alone. Your doctor uses your home data *alongside* labs, symptoms, and exams to guide treatment. Never adjust medication based on home readings alone.

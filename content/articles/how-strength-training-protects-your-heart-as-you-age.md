@@ -43,22 +43,22 @@ In summary, strength training is not just about stronger arms or improved postur
 
 ### FAQ
 
-#### #### Does strength training lower blood pressure in people over 50?
+#### Does strength training lower blood pressure in people over 50?
 
 Yes—consistently. Meta-analyses show that supervised resistance training 2–3 times per week reduces systolic BP by an average of 4–6 mm Hg and diastolic BP by 2–3 mm Hg in adults aged 50 and older, especially when combined with aerobic activity and dietary improvements.
 
-#### #### What are the top strength training benefits for heart health over 50?
+#### What are the top strength training benefits for heart health over 50?
 
 Key benefits include improved insulin sensitivity, reduced arterial stiffness, enhanced endothelial function, lower systemic inflammation, better body composition (less visceral fat), and greater autonomic balance—leading to more stable heart rate and blood pressure responses.
 
-#### #### Can strength training benefit heart health over 50 even if I’ve never lifted weights before?
+#### Can strength training benefit heart health over 50 even if I’ve never lifted weights before?
 
 Absolutely. Research confirms that previously sedentary adults over 50 gain significant cardiovascular advantages within 12 weeks of beginner-friendly resistance training—even using chairs, bands, or light hand weights. Consistency matters more than intensity.
 
-#### #### Is it safe to do strength training with high blood pressure?
+#### Is it safe to do strength training with high blood pressure?
 
 Generally, yes—with precautions. Avoid breath-holding (Valsalva maneuver), heavy maximal lifts, or rapid exertion. Focus on controlled movements, exhale during effort, and monitor BP before and after sessions. Always get clearance from your healthcare provider if your resting BP exceeds 160/100 mm Hg or if you have stage 2 hypertension.
 
-#### #### How much strength training is needed for heart health benefits?
+#### How much strength training is needed for heart health benefits?
 
 The American College of Sports Medicine recommends two non-consecutive days per week of moderate-intensity resistance training targeting all major muscle groups. Each session should last 20–30 minutes—not counting warm-up or cool-down. Even modest adherence yields measurable improvements in vascular health markers within months.

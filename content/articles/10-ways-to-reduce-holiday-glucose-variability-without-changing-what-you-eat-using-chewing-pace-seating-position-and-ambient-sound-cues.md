@@ -55,22 +55,22 @@ The holidays don’t have to be a metabolic minefield. You don’t need to skip 
 
 ### FAQ
 
-#### #### Can I really reduce glucose variability without diet change—and does it work for people over 60?
+#### Can I really reduce glucose variability without diet change—and does it work for people over 60?
 
 Yes—multiple pilot studies confirm it. In adults aged 60–75, combining chewing pace, upright posture, and low-frequency sound reduced MAGE by 28% over 10 days *without altering food intake*. These methods enhance vagal tone and slow gastric motility, both of which decline with age—and both highly responsive to behavioral input.
 
-#### #### What’s the easiest way to reduce glucose variability without diet change during holiday parties?
+#### What’s the easiest way to reduce glucose variability without diet change during holiday parties?
 
 Start with #1 and #7 above: chew each bite 25–30 times, and take three slow breaths before your first bite. These two steps alone accounted for 19% of the total MAGE reduction in the largest pilot cohort—and require zero preparation or equipment.
 
-#### #### Do these strategies help with blood pressure too?
+#### Do these strategies help with blood pressure too?
 
 Indirectly, yes. Since glucose variability and blood pressure variability share autonomic (especially vagal) underpinnings, improving HRV via posture, breathing, and auditory entrainment often coincides with improved diurnal BP patterns—particularly reduced nocturnal dipping and morning surge. One study noted a 5.2 mm Hg average drop in systolic BP variability alongside MAGE improvement.
 
-#### #### Is chewing slowly enough—or do I need all 10 techniques?
+#### Is chewing slowly enough—or do I need all 10 techniques?
 
 You’ll see measurable effects with just one or two consistently applied. However, synergy matters: combining chewing pace + upright posture + sound yielded 34% greater MAGE reduction than any single intervention alone. Think of them as layers of support—not prerequisites.
 
-#### #### Will these tips interfere with enjoying holiday meals?
+#### Will these tips interfere with enjoying holiday meals?
 
 Not at all—in fact, they deepen enjoyment. Slower chewing enhances flavor perception and satiety. Upright posture supports digestion and energy. Calm sound reduces mealtime stress. Many participants reported *more* pleasure and connection—not less—because they felt physically steadier and mentally present.

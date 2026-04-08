@@ -93,22 +93,22 @@ Supporting your health after 59 isn’t about fighting aging—it’s about part
 
 ### FAQ
 
-#### #### Does beta-cell resilience in aging prediabetes improve with lifestyle changes—or is decline inevitable?
+#### Does beta-cell resilience in aging prediabetes improve with lifestyle changes—or is decline inevitable?
 
 No, decline is *not* inevitable. Multiple human trials—including the landmark DPP-OS follow-up study—show that adults aged 60+ who adopted structured lifestyle changes (including meal timing and nutrient-dense eating) maintained stable beta-cell function for up to 15 years longer than control groups. Resilience is about functional support—not regeneration—but it absolutely responds to consistent, circadian-aligned habits.
 
-#### #### How does zinc specifically support beta-cell resilience in aging prediabetes?
+#### How does zinc specifically support beta-cell resilience in aging prediabetes?
 
 Zinc is essential for insulin crystallization, storage, and secretion inside beta-cells. With age, zinc absorption declines—and low zinc status impairs the enzyme that converts proinsulin to active insulin. Human data shows that older adults with serum zinc >80 mcg/dL have significantly higher C-peptide levels and lower proinsulin-to-insulin ratios—both signs of healthier beta-cell processing.
 
-#### #### Can time-restricted eating help beta-cell resilience in aging prediabetes even without weight loss?
+#### Can time-restricted eating help beta-cell resilience in aging prediabetes even without weight loss?
 
 Yes—in fact, that’s one of the most encouraging findings. A 2021 randomized trial in *Cell Metabolism* followed adults 60–75 with prediabetes. Those assigned to a 10-hour TRE window (no calorie restriction) improved beta-cell function by 12% after 12 weeks—even with zero average weight change. The benefit appeared tied to reduced oxidative stress and improved mitochondrial efficiency in pancreatic tissue.
 
-#### #### Is berberine safe for long-term use in adults over 60?
+#### Is berberine safe for long-term use in adults over 60?
 
 Berberine has been used safely for decades in traditional medicine—and modern trials (including a 2-year RCT in *The Lancet Healthy Longevity*) report no serious adverse events in adults 60+ taking 500 mg once daily. However, it *can* interact with certain medications (e.g., cyclosporine, metformin, or anticoagulants), so always consult your doctor before starting—especially if you take multiple prescriptions.
 
-#### #### What’s the difference between beta-cell “resilience” and “regeneration”?
+#### What’s the difference between beta-cell “resilience” and “regeneration”?
 
 Resilience refers to preserving existing function—like strengthening a bridge to handle more traffic. Regeneration implies creating *new* beta-cells, which remains extremely limited in humans after childhood. Current evidence strongly supports enhancing resilience (via rhythm, nutrients, and targeted compounds), but does *not* support claims of significant regeneration in aging prediabetes.

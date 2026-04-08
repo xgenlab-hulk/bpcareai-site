@@ -87,22 +87,22 @@ Enjoying the light, laughter, and love of Hanukkah and Christmas is deeply nouri
 
 ### FAQ
 
-#### #### Does late-night snacking overnight glucose stability seniors improve with certain types of protein?
+#### Does late-night snacking overnight glucose stability seniors improve with certain types of protein?
 
 Yes—higher-quality, easily digestible proteins like Greek yogurt, cottage cheese, or eggs tend to promote steadier overnight glucose compared to highly processed meats or large portions of red meat. Aim for ~7–10 g of protein paired with fiber or healthy fat to slow absorption.
 
-#### #### Can melatonin supplements affect overnight glucose stability in older women?
+#### Can melatonin supplements affect overnight glucose stability in older women?
 
 Potentially, yes. Since melatonin naturally suppresses insulin secretion, supplemental melatonin (especially doses >1 mg taken within 2 hours of eating) may amplify post-snack glucose elevation in women over 70 with prediabetes. If you use melatonin regularly, discuss timing and dose with your provider—taking it earlier (e.g., 1 hour before bed, not with food) may help.
 
-#### #### How does late-night snacking overnight glucose stability seniors relate to heart health?
+#### How does late-night snacking overnight glucose stability seniors relate to heart health?
 
 Overnight glucose instability is linked to increased oxidative stress and mild inflammation—both of which can affect vascular function over time. In older adults, repeated glucose excursions may contribute to stiffer arteries and slightly elevated nocturnal BP. Supporting stable overnight glucose is one gentle way to support long-term cardiovascular wellness.
 
-#### #### Is it safe to eat latkes or kugel during Hanukkah if I’m over 70 and prediabetic?
+#### Is it safe to eat latkes or kugel during Hanukkah if I’m over 70 and prediabetic?
 
 Absolutely—with simple tweaks. Try baking instead of frying latkes, using cauliflower or zucchini to reduce starch, and serving them with Greek yogurt instead of sour cream. Portion control matters most: one small latke (about 3 inches) plus a side of steamed greens balances enjoyment and metabolic support.
 
-#### #### What’s the best time to check blood sugar if I want to understand my late-night snacking overnight glucose stability seniors?
+#### What’s the best time to check blood sugar if I want to understand my late-night snacking overnight glucose stability seniors?
 
 The most telling checks are *pre-bedtime* (9:30–10 p.m.) and *fasting* (immediately upon waking, before any food or drink). Compare these across several nights—not just one—to spot patterns. Avoid checking immediately after dessert; wait at least 60–90 minutes to see the peak effect.

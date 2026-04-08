@@ -64,22 +64,22 @@ Restoring balance doesn’t mean chasing perfection—it means honoring how your
 
 ### FAQ
 
-#### #### Can lifestyle changes really help restore anp secretion circadian rhythm older adults?
+#### Can lifestyle changes really help restore anp secretion circadian rhythm older adults?
 
 Yes—studies in adults 70+ show that timed light exposure, afternoon sodium intake, and pre-sleep thermal cues improve 24-hour natriuresis patterns and reduce nocturnal BP elevation. These aren’t quick fixes, but consistent practice over 4–6 weeks often yields measurable shifts.
 
-#### #### What foods best support natural ANP release in older adults?
+#### What foods best support natural ANP release in older adults?
 
 Foods rich in nitrates (like arugula, beetroot), potassium (sweet potatoes, lentils), and magnesium (pumpkin seeds, almonds) support endothelial and cardiac signaling. Avoid high-sodium processed snacks *after* 3 p.m.—timing matters as much as content.
 
-#### #### Does restoring anp secretion circadian rhythm older adults lower blood pressure?
+#### Does restoring anp secretion circadian rhythm older adults lower blood pressure?
 
 Indirectly, yes. In a 2022 pilot study, older adults who followed light + meal timing protocols saw average morning systolic BP reductions of 8–12 mm Hg over 8 weeks—likely due to improved sodium handling and reduced nocturnal fluid shift.
 
-#### #### Is nocturnal polyuria always linked to ANP rhythm disruption?
+#### Is nocturnal polyuria always linked to ANP rhythm disruption?
 
 Not always—but it’s a common contributor, especially when eGFR is preserved and prostate exams are normal. Other causes include sleep apnea, heart failure, or certain diuretics—but ANP rhythm is often overlooked and highly modifiable.
 
-#### #### Are there risks to trying foot warming or light therapy?
+#### Are there risks to trying foot warming or light therapy?
 
 Very low risk—just avoid foot soaking if you have open sores, neuropathy with no sensation, or severe peripheral artery disease. For light exposure, consult your eye doctor first if you have advanced macular degeneration or are on photosensitizing medications.

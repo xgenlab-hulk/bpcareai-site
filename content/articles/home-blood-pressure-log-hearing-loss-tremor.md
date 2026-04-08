@@ -93,22 +93,22 @@ If you're unsure, talking to your doctor is always a good idea. And if you're lo
 
 ### FAQ
 
-#### #### How do I keep a home blood pressure log with hearing loss and tremor?
+#### How do I keep a home blood pressure log with hearing loss and tremor?
 
 Use tactile, low-vision tools like embossed date grids, raised-line pressure charts, and color-coded wristbands. Skip voice prompts and small-touch interfaces. Focus on texture, contrast, and simple physical actions—like placing a textured dot or feeling a ridge pattern—to record readings reliably.
 
-#### #### What’s the best blood pressure monitor for someone with hearing loss and hand tremor?
+#### What’s the best blood pressure monitor for someone with hearing loss and hand tremor?
 
 Look for an upper-arm automatic cuff with large, high-contrast numbers, physical push buttons (not touchscreens), and minimal audio cues. Avoid models requiring voice commands, Bluetooth syncing, or complex menu navigation. Many users find success with devices certified by the American Heart Association and tested for ease-of-use in older adults.
 
-#### #### Can tremor affect home blood pressure readings—and how do I compensate?
+#### Can tremor affect home blood pressure readings—and how do I compensate?
 
 A mild tremor doesn’t change your actual blood pressure—but it *can* affect cuff placement or cause motion artifact if your arm moves during measurement. To compensate: sit fully supported, rest your arm on a firm surface at heart level, and wait until your hand is still before starting. Taking two readings, one minute apart, also helps smooth out variability.
 
-#### #### Is a home blood pressure log hearing loss tremor system covered by Medicare or insurance?
+#### Is a home blood pressure log hearing loss tremor system covered by Medicare or insurance?
 
 Some occupational therapy evaluations—including recommendations for adaptive monitoring tools—are covered under Medicare Part B if ordered by a physician and deemed medically necessary. Ask your doctor or OT about documentation for durable medical equipment (DME) or home safety assessments.
 
-#### #### How often should I check my blood pressure if I’m over 74 and have mild tremor?
+#### How often should I check my blood pressure if I’m over 74 and have mild tremor?
 
 Most guidelines recommend checking twice daily (morning and evening) for seven days when starting a new treatment or adjusting medication—and then at least twice weekly for ongoing management. Consistency matters more than frequency—so choose a schedule that fits your energy and routine, and stick with it.

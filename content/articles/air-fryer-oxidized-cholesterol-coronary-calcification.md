@@ -84,22 +84,22 @@ Living well with coronary artery calcification doesn’t mean perfection—it me
 
 ### FAQ
 
-#### #### Does air frying cause oxidized cholesterol even without added oil?
+#### Does air frying cause oxidized cholesterol even without added oil?
 
 Yes. Oxidized cholesterol forms from the cholesterol *naturally present* in animal-based foods (like chicken, fish, eggs, or cheese) when exposed to high heat and airflow—no added oil required. Studies confirm measurable increases in oxysterols after air frying lean proteins alone.
 
-#### #### Can air fryer oxidized cholesterol coronary calcification be reversed?
+#### Can air fryer oxidized cholesterol coronary calcification be reversed?
 
 Coronary calcification itself is generally irreversible—but its *progression* can slow or stabilize. Reducing dietary sources of oxidized cholesterol (including from high-heat cooking) supports lower vascular inflammation and may help prevent further plaque buildup—especially when combined with statins, blood pressure control, and smoking cessation.
 
-#### #### Is air frying safer than deep frying for someone with coronary artery calcification?
+#### Is air frying safer than deep frying for someone with coronary artery calcification?
 
 Air frying typically uses far less oil and produces fewer harmful compounds like acrylamide or advanced glycation end-products (AGEs) than deep frying. However, because it relies on intense, dry heat (often >350°F), it can generate *more* oxysterols than gentler methods like steaming or poaching—even compared to moderate-heat oven baking. So while it’s safer than deep frying in some ways, it’s not automatically “safe” for those with established calcification.
 
-#### #### What’s the safest way to cook eggs for heart health after age 70?
+#### What’s the safest way to cook eggs for heart health after age 70?
 
 Poaching, soft-boiling, or scrambling with a splash of water (not butter or oil) at low heat (<250°F) minimizes cholesterol oxidation. Avoid high-heat methods like frying or air-frying eggs—even “oil-free” versions—since egg yolk contains abundant cholesterol highly susceptible to oxidation.
 
-#### #### Do plant-based meats cooked in air fryers produce oxidized cholesterol?
+#### Do plant-based meats cooked in air fryers produce oxidized cholesterol?
 
 No—because they contain no cholesterol. However, some highly processed plant-based products contain added oils (like sunflower or coconut) that *can* oxidize into aldehydes and other inflammatory compounds at high heat. Opt for whole-food options (tofu, tempeh, beans) and use lower temps when air frying them.

@@ -54,17 +54,17 @@ In time, small supportive steps add up—not just for your gums or your BP, but 
 
 ### FAQ
 
-#### #### Does periodontitis nighttime blood pressure inflammation go away after treatment?
+#### Does periodontitis nighttime blood pressure inflammation go away after treatment?
 Yes—studies show that non-surgical periodontal therapy (like scaling and root planing) reduces IL-6 and CRP levels by 25–40% within 3 months, and many patients see improved nocturnal dipping—often within 8–12 weeks. Sustained improvement depends on ongoing oral hygiene and regular follow-up.
 
-#### #### Can periodontitis nighttime blood pressure inflammation happen even with normal daytime BP?
+#### Can periodontitis nighttime blood pressure inflammation happen even with normal daytime BP?
 Yes. Some adults with “white-coat” or masked hypertension have normal office readings but elevated nighttime BP linked to chronic inflammation—including from periodontitis. ABPM helps uncover these hidden patterns.
 
-#### #### How does periodontitis nighttime blood pressure inflammation compare to other causes of non-dipping?
+#### How does periodontitis nighttime blood pressure inflammation compare to other causes of non-dipping?
 Periodontitis contributes to *low-grade, persistent* inflammation—different from acute causes like sleep apnea or medication timing. While sleep apnea may cause sharp, intermittent BP surges, periodontitis-related inflammation tends to blunt dipping more gradually and consistently—making it especially relevant for long-term vascular health in aging adults.
 
-#### #### Is there a specific blood pressure number I should watch for at night?
+#### Is there a specific blood pressure number I should watch for at night?
 For most adults over 60, average nighttime systolic BP below 120 mm Hg and diastolic below 70 mm Hg is reassuring. Consistently higher numbers—especially above 130/75 mm Hg—warrant discussion with your care team, particularly if paired with gum symptoms.
 
-#### #### Do mouthwashes help reduce periodontitis nighttime blood pressure inflammation?
+#### Do mouthwashes help reduce periodontitis nighttime blood pressure inflammation?
 Antiseptic rinses (e.g., chlorhexidine) may temporarily lower bacterial load—but they’re not substitutes for mechanical cleaning or professional care. Overuse can disrupt oral microbiome balance. Focus first on gentle brushing, interdental cleaning, and regular dental evaluation.

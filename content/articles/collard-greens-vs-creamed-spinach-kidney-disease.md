@@ -50,23 +50,23 @@ Tracking your blood pressure trends can help you and your doctor make better dec
 
 ### FAQ
 
-#### #### Is collard greens vs creamed spinach kidney disease a real concern for older adults?
+#### Is collard greens vs creamed spinach kidney disease a real concern for older adults?
 
 Yes — especially for those with Stage 3 CKD. While both are nutrient-rich, their potassium bioavailability and phosphorus load differ meaningfully. Vinegar-brined collards tend to be gentler on potassium balance; creamed spinach may pose more phosphorus-related risk, particularly if made with processed dairy.
 
-#### #### Which is safer for someone with high potassium and CKD: collard greens or creamed spinach?
+#### Which is safer for someone with high potassium and CKD: collard greens or creamed spinach?
 
 Generally, vinegar-brined collard greens — when rinsed and cooked slowly — are the safer choice. Lab analyses show they deliver less *absorbable* potassium per serving than creamed spinach, which also carries higher phosphorus from dairy and potential additives.
 
-#### #### Can I eat creamed spinach during the holidays if I have kidney disease?
+#### Can I eat creamed spinach during the holidays if I have kidney disease?
 
 Yes — with mindful tweaks. Use phosphate-free milk alternatives, skip thickening agents with hidden phosphates, and keep portions small (≤⅓ cup). Pair it with low-potassium mains like baked cod or turkey breast to balance your overall meal.
 
-#### #### Does cooking method change potassium in collard greens?
+#### Does cooking method change potassium in collard greens?
 
 Absolutely. Soaking and boiling collards in vinegar water (then discarding the liquid) significantly lowers potassium — unlike steaming or sautéing, which preserve most of it. Slow-cooking *after* leaching helps retain texture without reintroducing minerals.
 
-#### #### What’s the biggest mistake people make with collard greens vs creamed spinach kidney disease planning?
+#### What’s the biggest mistake people make with collard greens vs creamed spinach kidney disease planning?
 
 Assuming “no bacon” or “low-fat” equals kidney-safe — without checking for hidden phosphates or skipping the rinse step. It’s the *how*, not just the *what*, that supports stable eGFR and potassium.
 

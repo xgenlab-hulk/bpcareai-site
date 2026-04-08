@@ -84,24 +84,24 @@ You don’t have to be perfect—you just have to be kind—to your body, your s
 
 ### FAQ
 
-#### #### How can grandparents with diabetes stay safe during holiday meals?
+#### How can grandparents with diabetes stay safe during holiday meals?
 
 Focus on balance, not banishment. Fill half your plate with non-starchy veggies (roasted Brussels sprouts, green beans), choose lean proteins (turkey breast, baked fish), and enjoy small portions of favorites—like one small square of dark chocolate or a ¼ cup of mashed sweet potato. Eat slowly, chew thoroughly, and pair carbs with protein or healthy fat (e.g., apple slices with almond butter) to smooth blood sugar rises.
 
-#### #### What are the top 3 holiday risks for grandparents managing diabetes—and how to avoid them?
+#### What are the top 3 holiday risks for grandparents managing diabetes—and how to avoid them?
 
 1. **Irregular meal timing** → Set gentle reminders to eat every 4–5 hours—even if it’s just a small snack like string cheese + pear slices.  
 2. **Overlooking hydration** → Keep a visible water bottle or herbal tea mug within arm’s reach all day.  
 3. **Skipping movement due to busyness** → Build “micro-moments”: stand while helping wrap gifts, march in place during commercials, or do seated arm circles while reading stories.  
 
-#### #### Is it safe for grandparents with diabetes to travel during the holidays?
+#### Is it safe for grandparents with diabetes to travel during the holidays?
 
 Yes—with preparation. Pack double the medication (in carry-on, not checked luggage), bring snacks (nuts, low-sugar granola bars), and keep glucose tablets handy in case of lows. If flying, request a diabetic meal in advance—and move your legs hourly. Also, adjust insulin timing with your doctor if crossing time zones.
 
-#### #### How does stress affect blood sugar during family gatherings—and what can grandparents do?
+#### How does stress affect blood sugar during family gatherings—and what can grandparents do?
 
 Stress hormones like cortisol directly raise blood glucose—even during happy stress! Try grounding techniques: name 3 things you see, 2 things you hear, and 1 thing you feel (like the texture of a wool sweater). Or step outside for 60 seconds of fresh air. These tiny resets lower physiological stress in minutes.
 
-#### #### Can holiday decorations or activities pose hidden risks for grandparents with diabetes?
+#### Can holiday decorations or activities pose hidden risks for grandparents with diabetes?
 
 Yes—especially if neuropathy or vision changes are present. Watch for tripping hazards (loose cords, uneven rugs near the tree), use LED lights (cooler, safer), and avoid standing on chairs or ladders. Opt for battery-operated candles instead of real ones. And if crafting with glue or glitter, wash hands well afterward—dry skin cracks more easily in winter, raising infection risk.

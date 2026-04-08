@@ -77,17 +77,17 @@ Winter doesn’t have to mean diminished vitality. With thoughtful, evidence-bas
 
 ### FAQ
 
-#### #### Can natural dopamine support without medication winter seniors help with seasonal depression in older adults?  
+#### Can natural dopamine support without medication winter seniors help with seasonal depression in older adults?  
 Yes—especially when seasonal depression presents as low energy, slowed thinking, or reduced initiative (rather than classic sadness). Clinical trials show these non-medication strategies improve functional dopamine signaling, which supports emotional regulation, attention, and physical engagement—key domains affected in seasonal depression in older adults.
 
-#### #### What foods best support dopamine without medication in winter for seniors?  
+#### What foods best support dopamine without medication in winter for seniors?  
 Focus on bioavailable tyrosine sources consumed early in the day: lentils, pumpkin seeds, turkey breast, eggs, and low-fat dairy. Pair with vitamin B6-rich foods (e.g., bananas, spinach) to support conversion to dopamine. Avoid high-sugar breakfasts, which blunt tyrosine transport into the brain.
 
-#### #### Is cold exposure safe for seniors seeking dopamine support without medication in winter?  
+#### Is cold exposure safe for seniors seeking dopamine support without medication in winter?  
 Yes—if kept brief, moderate, and consistent. The trials used cool (not cold) water at 15–17°C for ≤2 minutes total—well within safety thresholds for older adults. Avoid ice baths, prolonged immersion, or cold exposure if you have uncontrolled hypertension, Raynaud’s, or recent cardiac events.
 
-#### #### How long before I notice benefits from dopamine support without medication winter seniors strategies?  
+#### How long before I notice benefits from dopamine support without medication winter seniors strategies?  
 Most participants reported improved alertness and mental clarity within 10–14 days. Objective measures (reaction time, postural sway) improved significantly by week 3–4 with consistent practice. Benefits tend to plateau around week 6—making sustained habit formation key.
 
-#### #### Does dopamine support without medication winter seniors affect blood pressure?  
+#### Does dopamine support without medication winter seniors affect blood pressure?  
 Indirectly, yes. Dopamine modulates sympathetic tone and baroreflex sensitivity. Trials noted modest stabilization of morning BP variability (+12% reduction in systolic swing between lying and standing) in participants following all three protocols—likely due to improved autonomic coordination, not direct vasoactive effects.

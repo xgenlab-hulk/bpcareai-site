@@ -77,17 +77,17 @@ Enjoying the holidays doesn’t require compromising your heart health—it call
 
 ### FAQ
 
-#### #### What is energy drinks holiday heart—and is it real?
+#### What is energy drinks holiday heart—and is it real?
 Yes, it’s a clinically observed phenomenon where consumption of energy drinks—especially alongside alcohol and rich foods during festive periods—triggers temporary but potentially serious cardiac rhythm disturbances in older adults. It’s part of the broader “holiday heart syndrome” spectrum and is increasingly documented in emergency department studies among patients aged 55+.
 
-#### #### Can one energy drink cause holiday heart syndrome in seniors?
+#### Can one energy drink cause holiday heart syndrome in seniors?
 It’s possible—especially in those with underlying hypertension, prior arrhythmias, or reduced caffeine metabolism. A single 16-oz can contains up to 300 mg of caffeine, which exceeds the recommended upper limit (200 mg) for many adults over 60. Combined with dehydration or sleep loss, even one serving may tip the balance toward palpitations or atrial fibrillation.
 
-#### #### How is energy drinks holiday heart different from regular holiday heart syndrome?
+#### How is energy drinks holiday heart different from regular holiday heart syndrome?
 Traditional holiday heart syndrome refers primarily to alcohol-induced arrhythmias (often after binge drinking). *Energy drinks holiday heart* involves caffeine as the primary trigger—sometimes *without* alcohol—but frequently worsened by it. It tends to occur at lower total alcohol doses and may manifest earlier in the evening, with symptoms like jitteriness or rapid pulse preceding arrhythmia.
 
-#### #### Are sugar-free energy drinks safer for older adults?
+#### Are sugar-free energy drinks safer for older adults?
 Not necessarily. While eliminating sugar helps with glucose control, artificial sweeteners like sucralose and acesulfame-K have been associated in some studies with altered gut microbiota and endothelial dysfunction—both linked to cardiovascular risk. More importantly, caffeine content remains unchanged, so the core cardiac risks persist.
 
-#### #### What are the best non-caffeinated alternatives for staying alert at holiday gatherings?
+#### What are the best non-caffeinated alternatives for staying alert at holiday gatherings?
 Try infused water (cucumber-mint or lemon-ginger), warm herbal teas (chamomile, rooibos, or ginger), or sparkling water with a splash of cranberry juice. Light physical movement—like a 5-minute walk after eating—also boosts circulation and mental clarity naturally, without straining your heart.

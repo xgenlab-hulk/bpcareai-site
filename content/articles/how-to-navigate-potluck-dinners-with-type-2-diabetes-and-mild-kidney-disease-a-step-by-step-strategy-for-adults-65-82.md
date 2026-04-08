@@ -69,22 +69,22 @@ In short, potluck dinners with diabetes and kidney disease don’t have to mean 
 
 ### FAQ
 
-#### #### How do I handle potluck dinners with diabetes and kidney disease when I can’t bring a dish?
+#### How do I handle potluck dinners with diabetes and kidney disease when I can’t bring a dish?
 
 Many hosts welcome contributions—even a simple green salad with olive oil & lemon (no salt or cheese) gives you a safe, familiar option. If bringing food isn’t possible, arrive slightly full, focus on vegetables and lean proteins already present, and limit sauces, dressings, and desserts.
 
-#### #### What are the top 3 foods to avoid at potluck dinners with diabetes and kidney disease?
+#### What are the top 3 foods to avoid at potluck dinners with diabetes and kidney disease?
 
 Avoid canned beans (high in sodium + phosphorus additives), macaroni and cheese (often made with phosphate-containing processed cheese), and pies/cakes with frosting (spikes glucose + contains phosphorus preservatives). Stick to fresh, whole ingredients whenever possible.
 
-#### #### Can I still enjoy holiday treats during potluck dinners with diabetes and kidney disease?
+#### Can I still enjoy holiday treats during potluck dinners with diabetes and kidney disease?
 
 Yes—with intention. Try a *small* portion (e.g., 1 tbsp whipped cream instead of a full slice), pair it with protein (like a few walnuts), and savor slowly. One mindful bite counts more than three rushed ones.
 
-#### #### How does sodium affect both diabetes and kidney disease?
+#### How does sodium affect both diabetes and kidney disease?
 
 Excess sodium raises blood pressure, which damages small blood vessels in the kidneys *and* increases insulin resistance. Over time, this double burden accelerates progression of both conditions—making daily sodium awareness especially valuable.
 
-#### #### Is it okay to skip dessert entirely at potlucks?
+#### Is it okay to skip dessert entirely at potlucks?
 
 Absolutely—and often wise. Many desserts contain hidden phosphorus (from leavening agents or emulsifiers) and rapidly absorbed carbs. Choosing herbal tea or a few berries instead supports both kidney filtering and stable glucose.

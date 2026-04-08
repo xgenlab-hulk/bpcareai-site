@@ -78,22 +78,22 @@ In closing, learning about *aromatase inhibitors heart microvascular dysfunction
 
 ### FAQ
 
-#### #### Can aromatase inhibitors cause heart problems in women over 65?
+#### Can aromatase inhibitors cause heart problems in women over 65?
 
 Yes—while AIs are not directly toxic to heart muscle, they can worsen underlying microvascular coronary dysfunction by reducing estrogen’s protective effects on small blood vessels. This may lead to symptoms like fatigue or shortness of breath, particularly in women with pre-existing risk factors such as hypertension or diabetes.
 
-#### #### What is aromatase inhibitors heart microvascular dysfunction—and should I be tested?
+#### What is aromatase inhibitors heart microvascular dysfunction—and should I be tested?
 
 *Aromatase inhibitors heart microvascular dysfunction* refers to the increased resistance and reduced blood flow in the heart’s tiniest arteries following estrogen depletion from AI therapy. Testing—such as stress echocardiography or coronary flow reserve—is reasonable before starting treatment if you’re over 65 and have risk factors like high blood pressure, diabetes, or unexplained exertional symptoms.
 
-#### #### Are there alternatives to aromatase inhibitors if I have microvascular dysfunction?
+#### Are there alternatives to aromatase inhibitors if I have microvascular dysfunction?
 
 For some women, especially those at higher cardiovascular risk, tamoxifen (which acts differently on estrogen receptors) may be considered—though it carries its own risk-benefit profile. Shared decision-making with your oncologist and cardiologist helps determine the safest, most effective option for *your* unique situation.
 
-#### #### Does high blood pressure make aromatase inhibitors heart microvascular dysfunction worse?
+#### Does high blood pressure make aromatase inhibitors heart microvascular dysfunction worse?
 
 Yes—hypertension is both a cause and amplifier of microvascular dysfunction. Elevated arterial pressure damages the endothelium over time, and AI therapy may further impair the vessels’ ability to dilate. That’s why optimizing BP control (ideally to <130/80 mm Hg for most adults over 65) before and during AI use is especially important.
 
-#### #### Can lifestyle changes really improve microvascular function during AI therapy?
+#### Can lifestyle changes really improve microvascular function during AI therapy?
 
 Absolutely. Studies show that regular aerobic activity, a heart-healthy diet, good sleep, and stress management can improve coronary flow reserve by 10–25% over 3–6 months—even in older adults. These changes support endothelial health and help counterbalance some of the vascular effects of estrogen reduction.

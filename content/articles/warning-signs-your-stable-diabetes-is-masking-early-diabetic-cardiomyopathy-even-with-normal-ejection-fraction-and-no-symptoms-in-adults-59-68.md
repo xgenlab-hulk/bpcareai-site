@@ -99,17 +99,17 @@ Learning about *early diabetic cardiomyopathy warning signs* isn’t about induc
 
 ### FAQ
 
-#### #### What are the earliest detectable signs of diabetic cardiomyopathy?
+#### What are the earliest detectable signs of diabetic cardiomyopathy?
 The earliest signs are *subclinical*—meaning they show up on specialized tests before symptoms do. These include reduced global longitudinal strain (GLS > −18%), elevated galectin-3 (>17.8 ng/mL), abnormal myocardial T1 mapping on MRI, and impaired diastolic relaxation on echocardiography—even with normal ejection fraction and no chest pain or breathlessness.
 
-#### #### Can early diabetic cardiomyopathy warning signs appear with normal blood pressure and HbA1c?
+#### Can early diabetic cardiomyopathy warning signs appear with normal blood pressure and HbA1c?
 Yes—absolutely. Normal HbA1c (e.g., 6.5–7.0%) masks significant glucose swings (high MAGE/CONGA), which drive oxidative stress and fibrosis. Similarly, “normal” BP (e.g., 128/78 mm Hg) doesn’t rule out microvascular dysfunction or early myocardial stiffness. That’s why relying solely on these two metrics misses *early diabetic cardiomyopathy warning signs*.
 
-#### #### How is early diabetic cardiomyopathy different from heart failure with preserved ejection fraction (HFpEF)?
+#### How is early diabetic cardiomyopathy different from heart failure with preserved ejection fraction (HFpEF)?
 Early diabetic cardiomyopathy is considered a *precursor* to HFpEF. Both involve diastolic dysfunction and myocardial stiffness—but early diabetic cardiomyopathy occurs specifically due to diabetes-related metabolic injury, often before structural remodeling is advanced. It’s distinguished by stronger links to glycemic variability, galectin-3 elevation, and GLS impairment—rather than hypertension or obesity alone.
 
-#### #### Do standard EKGs or stress tests detect early diabetic cardiomyopathy?
+#### Do standard EKGs or stress tests detect early diabetic cardiomyopathy?
 No. Routine EKGs and exercise stress tests assess electrical conduction and ischemia—not subtle myocardial deformation or fibrosis. They’re useful for ruling out other issues but lack sensitivity for *early diabetic cardiomyopathy warning signs*. Advanced imaging (speckle-tracking echo, cardiac MRI) and biomarkers are needed.
 
-#### #### At what age should someone with diabetes ask about early diabetic cardiomyopathy screening?
+#### At what age should someone with diabetes ask about early diabetic cardiomyopathy screening?
 Adults aged 59–68 with 10+ years of diabetes—especially those with glycemic variability, microalbuminuria, or retinopathy—should discuss advanced cardiac screening with their endocrinologist or cardiologist. It’s not yet routine, but growing evidence supports its value in this demographic.

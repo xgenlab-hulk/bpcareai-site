@@ -95,22 +95,22 @@ Holiday meals should nourish your spirit as much as your body—and that’s ent
 
 ### FAQ
 
-#### #### What are the best low-glycemic holiday sides arthritis patients can make without standing long?
+#### What are the best low-glycemic holiday sides arthritis patients can make without standing long?
 
 The top options include no-cook chia relishes, microwave-roasted squash, one-pot bean purées, and jarred beet salads—all designed to take ≤10 minutes, require zero chopping, and keep glycemic load under 5 per serving. They also minimize wrist extension and gripping strain.
 
-#### #### Where can I find low-glycemic holiday sides arthritis recipes that don’t need special equipment?
+#### Where can I find low-glycemic holiday sides arthritis recipes that don’t need special equipment?
 
 All four recipes in this article use only basic kitchen tools: a microwave, small saucepan, mixing bowl, and spoon. No food processor or stand mixer is required—though an immersion blender (optional) makes purées smoother. Pre-minced garlic, pre-chopped nuts, and vacuum-packed beets are widely available in most grocery stores.
 
-#### #### How do low-glycemic holiday sides arthritis help with blood sugar *and* joint pain?
+#### How do low-glycemic holiday sides arthritis help with blood sugar *and* joint pain?
 
 They address shared biological pathways: reducing post-meal glucose spikes lowers AGE formation and systemic inflammation, both of which drive cartilage breakdown. At the same time, ingredients like omega-3s, polyphenols, and magnesium actively modulate inflammatory cytokines and support synovial fluid health.
 
-#### #### Can I freeze low-glycemic holiday sides arthritis dishes for later use?
+#### Can I freeze low-glycemic holiday sides arthritis dishes for later use?
 
 Yes—chia relish and white bean purée freeze well for up to 3 months. Portion into silicone muffin cups or small containers before freezing; thaw overnight in the fridge and stir gently before serving. Avoid freezing roasted vegetables or walnut-beet salad—they lose texture and freshness.
 
-#### #### Are canned beans okay for low-glycemic holiday sides arthritis?
+#### Are canned beans okay for low-glycemic holiday sides arthritis?
 
 Absolutely—if they’re labeled “low-sodium” or “no salt added.” Rinsing removes ~40% of residual sodium and prevents unnecessary fluid retention, which can worsen joint swelling. Canned beans retain nearly all their fiber and resistant starch, making them excellent for glycemic stability.

@@ -44,17 +44,17 @@ This complex interplay—GERD, COPD, and AFib—is highly treatable when identif
 
 ### FAQ  
 
-#### #### Can GERD really cause AFib in older men with COPD?  
+#### Can GERD really cause AFib in older men with COPD?  
 Yes—especially at night. Reflux activates the vagus nerve, triggering electrical instability in the atria. In men 70+ with mild COPD, reduced respiratory reserve and age-related autonomic shifts make this pathway more likely. This is the core mechanism behind *gerd-induced afib men 70+ copd*.
 
-#### #### Is gerd-induced afib men 70+ copd reversible with treatment?  
+#### Is gerd-induced afib men 70+ copd reversible with treatment?  
 Often, yes. Studies report up to 68% reduction in nocturnal AFib burden after 8 weeks of optimized GERD management (lifestyle + PPI + positional therapy) in men with mild COPD—without adding antiarrhythmic drugs.
 
-#### #### How is gerd-induced afib men 70+ copd different from typical AFib?  
+#### How is gerd-induced afib men 70+ copd different from typical AFib?  
 It’s typically paroxysmal, occurs almost exclusively at night, correlates tightly with cough or reflux symptoms, and shows strong vagal influence on ECG (e.g., slow ventricular response, pauses). It’s less associated with left atrial enlargement or hypertension than traditional AFib.
 
-#### #### What’s the best test to confirm GERD is driving my AFib?  
+#### What’s the best test to confirm GERD is driving my AFib?  
 Esophageal pH-impedance monitoring paired with concurrent cardiac event recording is the most reliable method. It documents both reflux events *and* whether AFib starts within 1–3 minutes afterward—confirming the esophago-atrial reflex.
 
-#### #### Does treating GERD lower stroke risk in gerd-induced afib men 70+ copd?  
+#### Does treating GERD lower stroke risk in gerd-induced afib men 70+ copd?  
 Not directly—but reducing AFib burden lowers overall thromboembolic risk. Stroke prevention still depends on CHA₂DS₂-VASc score assessment; however, eliminating a reversible trigger like reflux may delay or avoid long-term anticoagulation in select low-risk cases.

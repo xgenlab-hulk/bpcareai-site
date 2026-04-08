@@ -37,22 +37,22 @@ Staying proactive through winter doesn’t mean giving up comfort—it means ada
 
 ### FAQ
 
-#### #### Do winter habits and blood pressure really affect seniors more than younger adults?
+#### Do winter habits and blood pressure really affect seniors more than younger adults?
 
 Yes. Age-related changes—including stiffer arteries, reduced kidney function, and slower autonomic responses—make older adults more sensitive to cold-induced vasoconstriction and sodium retention. Research shows BP variability increases by nearly 20% in adults over 65 during winter months compared to younger cohorts.
 
-#### #### What winter habits and blood pressure triggers should seniors avoid during holidays?
+#### What winter habits and blood pressure triggers should seniors avoid during holidays?
 
 Key triggers include excessive salt in gravies, cured meats, and baked goods; skipping prescribed antihypertensive doses due to travel or schedule changes; alcohol consumption beyond moderate limits (more than one drink per day); and prolonged sitting during gatherings. Even reduced exposure to natural light can disrupt circadian rhythms tied to BP regulation.
 
-#### #### Can indoor heating worsen winter habits and blood pressure?
+#### Can indoor heating worsen winter habits and blood pressure?
 
 Indirectly—yes. Overheated homes dry the air, contributing to mild dehydration, which concentrates blood volume and raises viscosity. Sudden transitions between warm rooms and cold outdoors also provoke sharp BP fluctuations. Keep indoor temps steady (68–70°F) and use a humidifier to support hydration.
 
-#### #### Does lack of sunlight in winter affect blood pressure?
+#### Does lack of sunlight in winter affect blood pressure?
 
 Emerging evidence links lower vitamin D levels—common in winter—to increased renin activity and endothelial dysfunction. While supplementation alone isn’t a BP cure, maintaining adequate vitamin D (per your doctor’s guidance) supports overall vascular health.
 
-#### #### How often should seniors check blood pressure in winter?
+#### How often should seniors check blood pressure in winter?
 
 At least twice weekly if stable; daily if newly diagnosed, adjusting medications, or noticing symptoms like fatigue or lightheadedness. Consistency in timing and technique matters more than frequency—so choose a routine that fits your lifestyle and stick with it.

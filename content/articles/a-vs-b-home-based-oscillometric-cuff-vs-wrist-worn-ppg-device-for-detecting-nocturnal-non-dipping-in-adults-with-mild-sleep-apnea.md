@@ -90,22 +90,22 @@ Understanding *oscillometric cuff vs ppg nocturnal non-dipping* doesn’t mean y
 
 ### FAQ
 
-#### #### Is oscillometric cuff vs PPG nocturnal non-dipping really different in accuracy for people with mild sleep apnea?
+#### Is oscillometric cuff vs PPG nocturnal non-dipping really different in accuracy for people with mild sleep apnea?
 
 Yes — research consistently shows oscillometric upper-arm cuffs provide more accurate and artifact-resistant nocturnal BP tracking in adults with mild OSA. Wrist PPG devices are more sensitive to movement, wrist positioning, and sleep fragmentation — all common in even mild apnea — leading to greater measurement variability and potential underestimation of non-dipping.
 
-#### #### Can wrist-worn PPG devices diagnose nocturnal non-dipping?
+#### Can wrist-worn PPG devices diagnose nocturnal non-dipping?
 
 Not reliably on their own. While some advanced PPG wearables offer “night mode,” they lack the regulatory clearance and clinical validation needed to formally diagnose non-dipping. Diagnosis requires multi-night, cuff-based ambulatory monitoring or rigorous home protocols using oscillometric devices — especially in populations with sleep-disordered breathing.
 
-#### #### What’s the best home device for detecting oscillometric cuff vs PPG nocturnal non-dipping?
+#### What’s the best home device for detecting oscillometric cuff vs PPG nocturnal non-dipping?
 
 There’s no single “best” device, but upper-arm oscillometric monitors with FDA-cleared ambulatory or nighttime modes (e.g., those supporting auto-scheduling and memory storage for ≥3 nights) are strongly preferred over wrist PPG for assessing dipping status — particularly in adults with known or suspected OSA.
 
-#### #### Does CPAP therapy affect nocturnal non-dipping?
+#### Does CPAP therapy affect nocturnal non-dipping?
 
 Yes — consistent CPAP use in adults with mild OSA has been shown to restore normal dipping in up to 50–60% of non-dippers within 3–6 months, likely by reducing sympathetic activation and improving endothelial function. Even partial adherence (4+ hours/night, 5+ nights/week) can yield measurable benefits.
 
-#### #### Why does blood pressure sometimes rise at night instead of dipping?
+#### Why does blood pressure sometimes rise at night instead of dipping?
 
 This “reverse dipping” can stem from several factors — including untreated mild OSA, chronic kidney disease, autonomic neuropathy (sometimes related to diabetes), or certain medications like decongestants or stimulants. In older adults, stiffening arteries and altered baroreflex sensitivity also play a role — making careful, repeated assessment especially valuable.

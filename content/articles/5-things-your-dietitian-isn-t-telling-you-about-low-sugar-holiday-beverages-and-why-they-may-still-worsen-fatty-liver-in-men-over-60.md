@@ -95,22 +95,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Are “no added sugar” holiday drinks safe for men with fatty liver disease?
+#### Are “no added sugar” holiday drinks safe for men with fatty liver disease?
 
 Yes—if they’re truly low in *total* fructose and free of concentrated fruit sources. But many “no added sugar” mulled ciders, sparkling punches, and plant-based eggnog alternatives contain high-fructose fruit juices or concentrates. Always check total carbs and ingredients—not just the front-of-package claim—when considering *low-sugar holiday drinks fatty liver men 60+*.
 
-#### #### Can drinking low-sugar holiday drinks still raise my risk of fatty liver at age 62?
+#### Can drinking low-sugar holiday drinks still raise my risk of fatty liver at age 62?
 
 Potentially—yes. Even without added sugar, beverages made with apple juice, pear nectar, agave, or dried fruit purees deliver fructose directly to your liver. For men over 60, whose fructose metabolism slows with age, regularly consuming more than 15–20 g of fructose daily from drinks may contribute to hepatic fat buildup over time—especially alongside sedentary habits or insulin resistance.
 
-#### #### What are the best low-sugar holiday drinks for men over 60 with early-stage fatty liver?
+#### What are the best low-sugar holiday drinks for men over 60 with early-stage fatty liver?
 
 Top choices include: unsweetened herbal teas (chamomile, ginger, rooibos), sparkling water with citrus or crushed cranberries, warm cinnamon-almond milk (unsweetened), and whole-fruit–infused water. Avoid anything with juice concentrates, maltodextrin, or more than 8 g total carbs per serving. Prioritize drinks that are low in both sugar *and* fructose—not just “low-sugar.”
 
-#### #### Do sugar-free holiday drinks affect blood pressure in older men?
+#### Do sugar-free holiday drinks affect blood pressure in older men?
 
 Some sugar-free drinks containing high levels of sodium (common in broth-based or savory “mocktails”) or stimulants like caffeine can temporarily elevate BP. More importantly, chronic liver fat accumulation is associated with increased arterial stiffness and higher average systolic pressure—so supporting liver health indirectly supports cardiovascular wellness too.
 
-#### #### Is it okay to enjoy one small serving of eggnog if I have fatty liver?
+#### Is it okay to enjoy one small serving of eggnog if I have fatty liver?
 
 Occasionally—yes. A 4-ounce portion of traditional eggnog contains about 12 g of sugar and 180 calories. If you choose a version made with low-fat dairy and minimal added sweetener—and pair it with a walk after dinner—you’re honoring both tradition and physiology. Moderation, timing, and context matter more than elimination.

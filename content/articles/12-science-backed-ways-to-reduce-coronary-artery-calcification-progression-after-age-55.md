@@ -86,22 +86,22 @@ Reducing coronary artery calcification progression is not about chasing perfecti
 
 ### FAQ
 
-#### #### Can lifestyle changes really reduce coronary artery calcification progression?
+#### Can lifestyle changes really reduce coronary artery calcification progression?
 
 Yes—multiple longitudinal studies confirm it. For example, the CARDIA study found that adults who maintained ideal cardiovascular health metrics (non-smoking, healthy weight, regular activity, balanced diet, optimal BP and cholesterol) had 60% slower CAC progression over 15 years compared to those with 0–2 ideal factors.
 
-#### #### What’s the best vitamin K2 dosage to reduce coronary artery calcification progression?
+#### What’s the best vitamin K2 dosage to reduce coronary artery calcification progression?
 
 Based on current RCT evidence, 180 mcg/day of menaquinone-7 (MK-7) is the most consistently effective dose for reducing coronary artery calcification progression in adults over 55—particularly when taken with a meal containing healthy fats.
 
-#### #### Does magnesium help reduce coronary artery calcification progression—and which form is best?
+#### Does magnesium help reduce coronary artery calcification progression—and which form is best?
 
 Yes—especially magnesium threonate. Its unique ability to enhance endothelial nitric oxide production and cross biological barriers makes it particularly effective. Clinical trials used 1,400 mg/day of magnesium threonate (≈140 mg elemental magnesium), taken in the evening, and observed measurable slowing of CAC progression.
 
-#### #### Is coronary artery calcification reversible—or only stabilizable?
+#### Is coronary artery calcification reversible—or only stabilizable?
 
 Complete reversal of established calcification is rare, but stabilization—and even modest regression in some cases—has been documented, especially when combining intensive risk factor control (e.g., LDL <55 mg/dL, BP <120/80 mm Hg, hs-CRP <1 mg/L) with K2 and magnesium optimization.
 
-#### #### How often should I get a CAC scan to monitor progression?
+#### How often should I get a CAC scan to monitor progression?
 
 Most guidelines recommend repeating a CAC scan every 3–5 years *only* if your initial score was >0 and you’re actively implementing interventions. Frequent scanning isn’t needed—and isn’t advised—due to radiation exposure and diminishing clinical utility without clear changes in management.

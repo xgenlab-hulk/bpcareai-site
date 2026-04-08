@@ -54,22 +54,22 @@ The holidays aren’t about sacrifice—they’re about savoring what truly nour
 
 ### FAQ
 
-#### #### What are the best non-alcoholic drinks for heart health during the holidays?
+#### What are the best non-alcoholic drinks for heart health during the holidays?
 
 The best options are low-sugar, low-sodium, and rich in heart-friendly compounds like potassium, magnesium, flavanols, and polyphenols. Top picks include hibiscus tea (cooled or warm), sparkling water with lemon and mint, unsweetened cocoa with cinnamon, and golden sparklers made with low-sodium coconut water and turmeric. Avoid high-sugar mocktails, excessive caffeine, and drinks with hidden sodium or licorice root.
 
-#### #### Can non-alcoholic drinks heart health support help prevent holiday heart syndrome?
+#### Can non-alcoholic drinks heart health support help prevent holiday heart syndrome?
 
 Yes—mindfully chosen non-alcoholic drinks heart health strategies play a meaningful role in prevention. Since holiday heart syndrome is often triggered by alcohol-induced electrolyte shifts and autonomic stress, replacing even one or two alcoholic beverages with hydrating, mineral-balanced alternatives helps stabilize heart rhythm and reduce strain on the cardiovascular system—especially during periods of emotional excitement and disrupted sleep.
 
-#### #### Are there non-alcoholic drinks heart health benefits for people with high blood pressure?
+#### Are there non-alcoholic drinks heart health benefits for people with high blood pressure?
 
 Absolutely. Studies show consistent intake of potassium-rich, low-sodium beverages—like hibiscus tea, unsalted tomato juice (in moderation), and diluted pomegranate juice—can support healthy arterial pressure. In one 2022 meta-analysis, daily hibiscus tea consumption was associated with an average 5.5 mm Hg reduction in systolic BP among adults over 50 with stage 1 hypertension.
 
-#### #### Is sparkling water bad for your heart if you’re over 50?
+#### Is sparkling water bad for your heart if you’re over 50?
 
 Plain, unsweetened sparkling water is generally heart-safe and can support hydration—especially if you struggle to drink enough still water. Just check the label: avoid varieties with added sodium (look for <5 mg per 8 oz) or artificial sweeteners like sucralose, which some emerging research links to subtle changes in gut microbiota that may influence vascular inflammation.
 
-#### #### Can I drink herbal teas if I’m on heart medication?
+#### Can I drink herbal teas if I’m on heart medication?
 
 Most common herbal teas (chamomile, peppermint, ginger, rooibos) are safe in moderate amounts—but always consult your doctor or pharmacist first. Some herbs—like St. John’s wort, ginseng, or large amounts of green tea—can interfere with blood thinners (e.g., warfarin) or antiarrhythmics. Also avoid licorice root tea regularly, as glycyrrhizin can raise BP and deplete potassium.

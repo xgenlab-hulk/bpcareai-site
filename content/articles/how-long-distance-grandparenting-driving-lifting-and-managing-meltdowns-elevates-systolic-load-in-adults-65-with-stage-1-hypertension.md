@@ -87,17 +87,17 @@ Grandparenting is not inherently harmful to heart health—it’s one of life’
 
 ### FAQ
 
-#### #### Does grandparenting systolic load hypertension affect diastolic pressure too?  
+#### Does grandparenting systolic load hypertension affect diastolic pressure too?  
 Yes—but less consistently. While systolic pressure responds acutely to physical exertion and emotional arousal, diastolic changes tend to be smaller and more variable. In older adults, isolated systolic elevation is already common due to arterial stiffening; grandparenting-related stressors primarily amplify this existing pattern rather than significantly altering diastolic tone.
 
-#### #### How does grandparenting systolic load hypertension differ from general caregiver stress?  
+#### How does grandparenting systolic load hypertension differ from general caregiver stress?  
 Grandparenting systolic load hypertension emphasizes *intermittent, episodic* demands—driving, lifting, meltdowns—rather than chronic, 24/7 care. Unlike dementia caregiving, which involves sustained cognitive load, grandparenting exerts hemodynamic stress in bursts, making recovery windows especially critical. This distinction affects both monitoring strategy and intervention timing.
 
-#### #### Can managing grandparenting systolic load hypertension reduce my need for medication?  
+#### Can managing grandparenting systolic load hypertension reduce my need for medication?  
 Not necessarily—but it *can* improve treatment efficacy and stability. Many patients report fewer dose escalations and improved BP control when combining medication with load-reduction strategies. Always discuss any lifestyle changes with your provider before adjusting prescriptions.
 
-#### #### What’s a safe systolic target during grandparenting activities?  
+#### What’s a safe systolic target during grandparenting activities?  
 For adults 65+, the ACC/AHA recommends an average systolic goal <130 mm Hg *in clinical settings*, but real-world targets during activity should prioritize safety over strict numbers. A transient rise to 150–155 mm Hg during lifting or driving is generally well-tolerated *if it resolves within 5 minutes*. Persistent elevation >160 mm Hg warrants review.
 
-#### #### Is there evidence that grandparenting systolic load hypertension increases stroke risk?  
+#### Is there evidence that grandparenting systolic load hypertension increases stroke risk?  
 While no longitudinal studies isolate “grandparenting” as a standalone risk factor, repeated systolic excursions >160 mm Hg are associated with increased risk of small-vessel disease and white-matter hyperintensities—both precursors to vascular cognitive impairment and ischemic stroke. Managing load aligns with broader secondary prevention goals.

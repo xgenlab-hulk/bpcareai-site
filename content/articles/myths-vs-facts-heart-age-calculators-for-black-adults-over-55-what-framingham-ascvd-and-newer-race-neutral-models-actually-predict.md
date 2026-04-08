@@ -63,22 +63,22 @@ Risk calculators offer one piece of information—not your full story. While und
 
 ### FAQ
 
-#### #### Do heart age calculators work the same for Black adults over 55?
+#### Do heart age calculators work the same for Black adults over 55?
 
 No—many popular tools (like older Framingham-based versions) were built using predominantly white, non-Hispanic populations and tend to underestimate heart disease risk in Black adults. Newer race-neutral models improve accuracy but still require clinical interpretation alongside your full health picture.
 
-#### #### Are there heart age calculator myths black adults over 55 should know about?
+#### Are there heart age calculator myths black adults over 55 should know about?
 
 Yes—common myths include: “A ‘normal’ heart age means I’m safe from heart disease,” “Race-based adjustments are scientifically necessary,” and “Online calculators replace doctor visits.” None are true. Heart age is a communication tool—not a diagnostic test.
 
-#### #### Can I trust a free online heart age calculator?
+#### Can I trust a free online heart age calculator?
 
 Most free tools oversimplify risk. They often omit key variables (e.g., social determinants, kidney function, or lifetime BP exposure) and rarely disclose their underlying data sources. Use them for general awareness only—not clinical decisions.
 
-#### #### What’s the best way to assess my actual heart disease risk?
+#### What’s the best way to assess my actual heart disease risk?
 
 A shared decision-making visit with your primary care provider or cardiologist is best. They’ll consider your BP trends, lipid panel, glucose levels, ECG if indicated, and personal/family history—not just a calculator score.
 
-#### #### Does high blood pressure always lead to heart disease?
+#### Does high blood pressure always lead to heart disease?
 
 Not inevitably—but uncontrolled hypertension significantly raises your risk. Lowering systolic BP by just 10 mm Hg (e.g., from 150 to 140) can reduce stroke risk by ~30% and heart attack risk by ~20% in adults over 55.

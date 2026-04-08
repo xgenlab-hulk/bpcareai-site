@@ -65,17 +65,17 @@ Managing blood pressure during the holidays doesn’t mean giving up joy, flavor
 
 ### FAQ
 
-#### #### What holiday foods blood pressure spikes seniors the most?
+#### What holiday foods blood pressure spikes seniors the most?
 The top triggers include canned gravy, seasoned stuffing mixes, cured meats, sugary desserts, and aged cheeses — all of which can raise systolic pressure by 15–25 mm Hg within two hours in adults with stiffened arteries.
 
-#### #### Are there holiday foods blood pressure spikes seniors should avoid entirely?
+#### Are there holiday foods blood pressure spikes seniors should avoid entirely?
 No food needs to be avoided *entirely*, but portion control and preparation matter greatly. For example, enjoy one small slice of pie instead of two — and pair it with protein (like Greek yogurt) to blunt the glucose response.
 
-#### #### How can seniors monitor holiday foods blood pressure effects at home?
+#### How can seniors monitor holiday foods blood pressure effects at home?
 Take your BP before a holiday meal and again 90–120 minutes after eating. Use the same arm, seated position, and device each time. Look for patterns over several days — not just single readings.
 
-#### #### Does alcohol affect blood pressure during the holidays?
+#### Does alcohol affect blood pressure during the holidays?
 Yes — especially in older adults. Even one standard drink (5 oz wine, 12 oz beer) can raise systolic BP by 5–10 mm Hg for several hours. Limit to one drink per occasion, and avoid mixing with salty snacks.
 
-#### #### Can herbal teas or spices help offset holiday foods blood pressure spikes seniors experience?
+#### Can herbal teas or spices help offset holiday foods blood pressure spikes seniors experience?
 Some evidence suggests cinnamon, hibiscus tea, and garlic may modestly support healthy BP — but they don’t neutralize the effects of excess sodium or sugar. They’re best used as part of an overall heart-smart pattern, not as a “fix.”

@@ -63,17 +63,17 @@ Living well through the seasons doesn’t mean feeling cheerful every day—it m
 
 ### FAQ
 
-#### #### What are the most common signs of seasonal depression in older adults?  
+#### What are the most common signs of seasonal depression in older adults?  
 The most common signs include persistent low energy, trouble concentrating, increased irritability or restlessness, insomnia (especially early-morning awakening), loss of interest in usual hobbies, and unexplained physical symptoms like headaches or stomach upset. Unlike younger adults, older adults may not report feeling “sad”—so behavioral changes (e.g., stopping phone calls, skipping meals) are often more telling than emotional language.
 
-#### #### How is a complete guide seasonal depression seniors different from general depression resources?  
+#### How is a complete guide seasonal depression seniors different from general depression resources?  
 A *complete guide seasonal depression seniors* focuses specifically on how aging-related factors—such as changes in vision, mobility, medication use, social networks, and circadian biology—affect seasonal mood patterns. It emphasizes accessible, home-based strategies that respect physical limitations and prioritize safety, routine, and gentle engagement—rather than high-intensity interventions.
 
-#### #### Can seasonal depression in older adults be managed without medication?  
+#### Can seasonal depression in older adults be managed without medication?  
 Yes—many older adults successfully manage seasonal depression using non-medication approaches: timed light exposure, regular physical activity suited to their ability, structured daily routines, social connection, and nutritional support. That said, some individuals benefit from short-term, low-dose antidepressants—especially when symptoms significantly interfere with daily function. Decisions should always be made collaboratively with a trusted healthcare provider.
 
-#### #### Is light therapy safe for seniors with eye conditions or high blood pressure?  
+#### Is light therapy safe for seniors with eye conditions or high blood pressure?  
 Most light therapy boxes filter out harmful UV rays and are considered safe for general use—including for many with age-related eye changes (e.g., cataracts or glaucoma). However, if you have retinal disease, macular degeneration, or are taking photosensitizing medications (e.g., certain antibiotics or diuretics), consult your ophthalmologist first. Light therapy itself does not raise blood pressure—but improved mood and activity levels may positively influence cardiovascular metrics over time.
 
-#### #### How long does it take for lifestyle changes to improve seasonal depression in older adults?  
+#### How long does it take for lifestyle changes to improve seasonal depression in older adults?  
 Many people notice subtle improvements—like steadier energy or easier mornings—within 1–2 weeks of consistent light exposure and routine adjustments. More significant mood shifts typically emerge after 3–4 weeks of daily practice. Patience and self-compassion matter most: progress isn’t linear, and small, sustained steps add up meaningfully over time.

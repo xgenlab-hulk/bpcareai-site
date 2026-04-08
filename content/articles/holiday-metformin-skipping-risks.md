@@ -74,22 +74,22 @@ Managing diabetes and aging well is deeply personal—and full of grace. You don
 
 ### FAQ
 
-#### #### Is skipping metformin for one day during the holidays really dangerous for seniors?
+#### Is skipping metformin for one day during the holidays really dangerous for seniors?
 
 For most healthy younger adults, one missed dose is unlikely to cause harm. But for adults 70+, especially with long-term use and low B12, even a single skipped dose can contribute to subtle metabolic shifts—increasing lactic acidosis risk, raising homocysteine, and worsening neuropathy. It’s less about the one day—and more about how your body responds *after*.
 
-#### #### What are the biggest holiday metformin skipping risks for people with B12 deficiency?
+#### What are the biggest holiday metformin skipping risks for people with B12 deficiency?
 
 The top concerns are acute neuropathic flare-ups (more tingling, burning, or imbalance), a temporary but meaningful rise in homocysteine (linked to vascular strain), and reduced buffering against lactate buildup—particularly if dehydration or mild illness occurs around the same time.
 
-#### #### Can holiday metformin skipping risks lead to high blood pressure?
+#### Can holiday metformin skipping risks lead to high blood pressure?
 
 Metformin itself doesn’t directly raise BP—but skipping it may lead to higher average glucose, which over time contributes to arterial stiffness. In B12-deficient individuals, elevated homocysteine (which spikes quickly after missed doses) is independently associated with endothelial dysfunction and a 20% increased risk of hypertension progression.
 
-#### #### How often should older adults on metformin check their B12 levels?
+#### How often should older adults on metformin check their B12 levels?
 
 Experts recommend checking B12 every 12–24 months if you’ve been on metformin for 5+ years—especially if you’re over 70 or have digestive conditions (e.g., atrophic gastritis). If levels are borderline (300–400 pg/mL), consider MMA testing too.
 
-#### #### Does alcohol during the holidays increase holiday metformin skipping risks?
+#### Does alcohol during the holidays increase holiday metformin skipping risks?
 
 Yes—alcohol can impair liver metabolism and increase lactate production. Combined with skipped metformin and B12 deficiency, it raises the potential for metabolic strain. Moderation and consistency matter more than abstinence.

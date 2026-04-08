@@ -68,22 +68,22 @@ Managing familial hypercholesterolemia after 50 isn’t about finding one soluti
 
 ### FAQ
 
-#### #### Does intermittent fasting lower LDL particle count in men over 50 with familial hypercholesterolemia?
+#### Does intermittent fasting lower LDL particle count in men over 50 with familial hypercholesterolemia?
 
 Current evidence suggests modest reductions—typically 5–10% in LDL-P—when IF (especially 16:8) is combined with stable lipid-lowering therapy and healthy food choices. Results vary by individual genetics, baseline insulin sensitivity, and adherence. It is not a substitute for medication but may enhance overall cardiovascular risk reduction.
 
-#### #### Can intermittent fasting LDL particle count men help reduce heart attack risk?
+#### Can intermittent fasting LDL particle count men help reduce heart attack risk?
 
 Lowering LDL particle count is associated with reduced atherosclerotic progression and cardiovascular events—especially in high-risk groups like men with FH. While no long-term outcome trials yet prove IF directly prevents heart attacks in this population, improving LDL-P, apoB, and inflammation aligns with established pathways for lowering arterial risk.
 
-#### #### Is the 5:2 intermittent fasting plan safe for men over 50 with high cholesterol?
+#### Is the 5:2 intermittent fasting plan safe for men over 50 with high cholesterol?
 
 The 5:2 approach may be less suitable for older adults with FH unless closely supervised. Very low-calorie days can cause temporary triglyceride spikes, affect medication absorption, and challenge nutritional adequacy. Most clinicians recommend starting with time-restricted eating (e.g., 16:8) before considering more intensive protocols.
 
-#### #### How long does it take to see changes in LDL particle count with intermittent fasting?
+#### How long does it take to see changes in LDL particle count with intermittent fasting?
 
 Meaningful shifts in LDL-P generally require at least 8–12 weeks of consistent adherence, along with stable background therapy. Because LDL-P reflects cumulative metabolic influences—not acute changes—repeat testing before and after a defined trial period (e.g., 3 months) offers the clearest picture.
 
-#### #### Should men with FH avoid intermittent fasting if they have high blood pressure?
+#### Should men with FH avoid intermittent fasting if they have high blood pressure?
 
 Not necessarily—but caution is warranted. Some men experience transient BP fluctuations during early fasting adaptation. If you have hypertension, monitor BP regularly during the first few weeks and discuss findings with your provider. Staying well-hydrated and avoiding sodium surges during eating windows supports stability.

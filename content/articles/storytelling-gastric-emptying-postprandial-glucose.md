@@ -60,17 +60,17 @@ In summary, intergenerational storytelling at dinner is more than nostalgia—it
 
 ### FAQ
 
-#### #### Does storytelling really affect gastric emptying and postprandial glucose?
+#### Does storytelling really affect gastric emptying and postprandial glucose?
 Yes—studies using gastric ultrasound and CGM show that emotionally engaged storytelling during meals increases vagal tone, delays gastric emptying by ~20%, and smooths postprandial glucose curves in adults 78+ with MCI.
 
-#### #### How does storytelling gastric emptying postprandial glucose differ from just eating slowly?
+#### How does storytelling gastric emptying postprandial glucose differ from just eating slowly?
 Eating slowly is behavioral; storytelling gastric emptying postprandial glucose involves neurophysiological shifts—specifically parasympathetic activation—that modulate gut-brain signaling, not just chewing pace. It’s the *quality* of engagement, not just duration.
 
-#### #### Can storytelling gastric emptying postprandial glucose help people with type 2 diabetes?
+#### Can storytelling gastric emptying postprandial glucose help people with type 2 diabetes?
 Emerging evidence suggests yes—particularly for older adults with coexisting MCI. Smoother glucose curves reduce oxidative stress on pancreatic beta cells and vascular endothelium, supporting long-term glycemic and cognitive health.
 
-#### #### Is there a best time of day to practice intergenerational storytelling for glucose benefits?
+#### Is there a best time of day to practice intergenerational storytelling for glucose benefits?
 Dinner appears most effective—likely due to circadian alignment of vagal tone, meal composition (often higher carb/fat), and natural family availability. Morning meals show weaker effects in current studies.
 
-#### #### What if my loved one has hearing loss or aphasia? Can they still benefit?
+#### What if my loved one has hearing loss or aphasia? Can they still benefit?
 Absolutely. Nonverbal storytelling—shared photo albums, music, tactile objects, or even synchronized breathing—can elicit similar parasympathetic responses. The key is mutual presence, not verbal fluency.

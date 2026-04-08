@@ -49,22 +49,22 @@ In short, sharing joy with grandchildren doesn’t require sacrificing metabolic
 
 ### FAQ
 
-#### #### Does eating dessert after 8 p.m. raise triglycerides in older adults with metabolic syndrome?
+#### Does eating dessert after 8 p.m. raise triglycerides in older adults with metabolic syndrome?
 
 Yes—studies show triglyceride clearance slows significantly after 8 p.m. due to circadian decline in lipoprotein lipase. In adults 60–71 with metabolic syndrome, late-night dessert triglycerides metabolic syndrome can elevate overnight triglyceride levels by 20–30%, increasing cardiovascular strain.
 
-#### #### What’s the safest time to enjoy sweets if I have metabolic syndrome?
+#### What’s the safest time to enjoy sweets if I have metabolic syndrome?
 
 For optimal triglyceride clearance, aim to consume desserts before 7:30 p.m. Research suggests shifting intake 90 minutes earlier reduces postprandial triglyceride spikes and supports healthier overnight lipid metabolism.
 
-#### #### Can fructose in late-night desserts worsen metabolic syndrome?
+#### Can fructose in late-night desserts worsen metabolic syndrome?
 
 Absolutely. Fructose is metabolized almost exclusively in the liver, where it promotes *de novo* lipogenesis—even without excess calories. Combined with low nocturnal LPL activity, this creates a perfect storm for elevated triglycerides and hepatic fat accumulation.
 
-#### #### Are there dessert alternatives that won’t spike triglycerides?
+#### Are there dessert alternatives that won’t spike triglycerides?
 
 Yes. Prioritize low-fructose, high-fiber options like stewed pears, roasted stone fruits, unsweetened chia pudding, or a small portion of nuts and dark chocolate. These support satiety and slower glucose/triglyceride responses.
 
-#### #### Does late-night dessert triglycerides metabolic syndrome affect blood pressure?
+#### Does late-night dessert triglycerides metabolic syndrome affect blood pressure?
 
 Indirectly, yes. Chronic overnight hypertriglyceridemia contributes to endothelial dysfunction and arterial stiffness—both associated with rising systolic and pulse pressure over time. Managing timing and composition helps support both lipid and BP health.

@@ -70,22 +70,22 @@ Holiday joy shouldn’t come with guilt—or silent A1C surprises. Understanding
 
 ### FAQ
 
-#### #### Do sugar-free baking mixes really affect A1C in older adults?
+#### Do sugar-free baking mixes really affect A1C in older adults?
 
 Yes—especially those containing maltitol or isomalt. Clinical observations in adults 59–75 show measurable A1C increases (0.4–0.6%) over 12 weeks with regular use, largely due to partial absorption and delayed glucose release.
 
-#### #### What’s the real sugar-free baking mixes a1c impact compared to regular mixes?
+#### What’s the real sugar-free baking mixes a1c impact compared to regular mixes?
 
 While traditional mixes may spike glucose quickly, sugar-free versions often cause *delayed* rises—making them harder to catch with standard fingersticks. Over time, that contributes similarly to A1C elevation, particularly in older adults with slower metabolism.
 
-#### #### Are all sugar alcohols equally problematic for A1C?
+#### Are all sugar alcohols equally problematic for A1C?
 
 No. Erythritol has negligible effect on blood glucose or insulin. Maltitol, isomalt, and sorbitol do raise glucose—and maltitol’s impact is most pronounced in adults over 60, per recent cohort data.
 
-#### #### Can I still bake for the holidays without risking my A1C?
+#### Can I still bake for the holidays without risking my A1C?
 
 Absolutely. Prioritize mixes with erythritol + natural non-nutritive sweeteners, control portions, add protein/fat, and test after eating. Many find success with simple swaps—like unsweetened applesauce or mashed banana in moderation—plus a touch of cinnamon for flavor.
 
-#### #### Does the sugar-free baking mixes a1c impact also affect blood pressure?
+#### Does the sugar-free baking mixes a1c impact also affect blood pressure?
 
 Not directly—but chronic hyperglycemia *does* contribute to arterial stiffness and endothelial dysfunction over time, which can elevate systolic BP. So managing A1C remains part of holistic cardiovascular health, especially for adults over 59.

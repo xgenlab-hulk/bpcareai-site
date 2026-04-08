@@ -81,22 +81,22 @@ Understanding how holiday stress, cortisol, and GLP-1 interact isn’t about add
 
 ### FAQ
 
-#### #### Does holiday stress really affect GLP-1 secretion in older adults?
+#### Does holiday stress really affect GLP-1 secretion in older adults?
 
 Yes—studies show that acute psychological stress during the holiday period raises salivary cortisol by up to 28% in adults 64+, and this directly suppresses post-meal GLP-1 release by 32–40%. Age-related declines in L-cell function and slower cortisol clearance make this effect more pronounced after 60.
 
-#### #### How does stress cortisol glp-1 secretion holiday impact blood sugar control?
+#### How does stress cortisol glp-1 secretion holiday impact blood sugar control?
 
 Elevated cortisol blunts GLP-1–driven insulin release and delays gastric emptying regulation—leading to higher and more prolonged post-meal glucose spikes. In prediabetes, this can push 2-hour glucose readings from the target range (<140 mg/dL) into the diabetic range (≥200 mg/dL) during holiday weeks—even without dietary changes.
 
-#### #### Can mindful breathing improve GLP-1 secretion during holiday stress?
+#### Can mindful breathing improve GLP-1 secretion during holiday stress?
 
 Yes—diaphragmatic breathing activates the parasympathetic nervous system within minutes, reducing cortisol and enhancing vagal tone to the gut. Clinical trials show that 5 minutes of timed breathing before meals increases postprandial GLP-1 area-under-curve by ~22% in adults 65+ with obesity and prediabetes.
 
-#### #### Is GLP-1 only important for people on diabetes medication?
+#### Is GLP-1 only important for people on diabetes medication?
 
 No. Your body produces its own GLP-1 continuously—especially after meals. It plays vital roles in blood sugar balance, satiety signaling, and even cardiovascular protection. Supporting natural GLP-1 secretion is foundational to long-term metabolic health, regardless of medication use.
 
-#### #### What’s the best time of day to practice breathing for stress cortisol glp-1 secretion holiday support?
+#### What’s the best time of day to practice breathing for stress cortisol glp-1 secretion holiday support?
 
 The most impactful times are: (1) 15 minutes before your largest meal, and (2) within 10 minutes after any recognized stressor (e.g., family conflict, travel delays). These windows align with natural cortisol surges *and* the body’s preparation for nutrient processing—making your breathing practice both physiologically precise and highly effective.

@@ -46,22 +46,22 @@ Making healthier versions of beloved dishes isn’t about perfection—it’s ab
 
 ### FAQ
 
-#### #### What are some easy healthy recipe swaps for families with kids?
+#### What are some easy healthy recipe swaps for families with kids?
 
 Try swapping sugary breakfast cereals for oatmeal topped with berries and a drizzle of honey—or use whole-grain tortillas instead of white for quesadillas. Kids often adapt well when changes are gradual and involve them in choosing toppings or mixing ingredients.
 
-#### #### Can healthy recipe swaps for families really lower blood pressure?
+#### Can healthy recipe swaps for families really lower blood pressure?
 
 Yes—especially when focused on reducing sodium, increasing potassium-rich foods (like spinach, sweet potatoes, and bananas), and cutting back on processed ingredients. Studies show that consistent dietary improvements can lower systolic BP by 5–10 mm Hg over several months—comparable to some first-line medications.
 
-#### #### Are there healthy recipe swaps for families that work for holiday meals?
+#### Are there healthy recipe swaps for families that work for holiday meals?
 
 Absolutely. Try roasting turkey with citrus and herbs instead of brining in salty solutions; use low-sodium broth in stuffing; and swap whipped topping for lightly sweetened, whipped cottage cheese or ricotta in desserts. Small tweaks add up without changing the spirit of the meal.
 
-#### #### How do I know if a swap is working for my heart health?
+#### How do I know if a swap is working for my heart health?
 
 Look beyond the scale. Improved energy, steadier moods, fewer afternoon slumps, and more consistent BP readings are all positive signs. Pairing food changes with regular movement and restful sleep multiplies the benefits.
 
-#### #### Do I need special ingredients or equipment for healthy recipe swaps for families?
+#### Do I need special ingredients or equipment for healthy recipe swaps for families?
 
 Not at all. Most swaps use pantry staples—canned beans (rinsed), frozen vegetables, plain yogurt, whole grains, and spices. A good blender or food processor helps with purees and dips, but isn’t required. Focus on simplicity, not specialty.

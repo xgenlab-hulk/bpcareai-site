@@ -1,0 +1,507 @@
+{
+  "总数": 40,
+  "成功回滚": 17,
+  "失败": 23,
+  "详细列表": [
+    {
+      "编号": 1,
+      "新文件名": "safe-holiday-foods-seniors-80-grandkids.md",
+      "旧文件名": "12-holiday-foods-seniors-70-can-eat-without-spiking-blood-sugar-or-blood-pressure.md",
+      "新slug": "safe-holiday-foods-seniors-80-grandkids",
+      "旧slug": "12-holiday-foods-seniors-70-can-eat-without-spiking-blood-sugar-or-blood-pressure",
+      "状态": "✅ 成功",
+      "验证": {
+        "文件名正确": true,
+        "slug字段正确": true,
+        "优化内容保留": true
+      }
+    },
+    {
+      "编号": 2,
+      "新文件名": "liver-health-foods-nafld-prediabetes-60s.md",
+      "旧文件名": "natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-using-pomegranate-derived-urolithin-a-and-time-restricted-feeding-for-adults-63-79-with-diabetic-cardiomyopathy.md",
+      "新slug": "liver-health-foods-nafld-prediabetes-60s",
+      "旧slug": "natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-using-pomegranate-derived-urolithin-a-and-time-restricted-feeding-for-adults-63-79-with-diabetic-cardiomyopathy",
+      "状态": "✅ 成功",
+      "验证": {
+        "文件名正确": true,
+        "slug字段正确": true,
+        "优化内容保留": true
+      }
+    },
+    {
+      "编号": 3,
+      "新文件名": "foods-blood-vessel-health-seniors-60.md",
+      "旧文件名": "10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina.md",
+      "新slug": "foods-blood-vessel-health-seniors-60",
+      "旧slug": "10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina",
+      "状态": "✅ 成功",
+      "验证": {
+        "文件名正确": true,
+        "slug字段正确": true,
+        "优化内容保留": true
+      }
+    },
+    {
+      "编号": 4,
+      "状态": "❌ 失败",
+      "错误": "未找到relatedSlugs",
+      "新文件名": "post-meal-bp-foods-seniors-60.md",
+      "新slug": "post-meal-bp-foods-seniors-60"
+    },
+    {
+      "编号": 5,
+      "新文件名": "foods-boost-blood-vessel-seniors.md",
+      "旧文件名": "10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina.md",
+      "新slug": "foods-boost-blood-vessel-seniors",
+      "旧slug": "10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina",
+      "状态": "✅ 成功",
+      "验证": {
+        "文件名正确": true,
+        "slug字段正确": true,
+        "优化内容保留": true
+      }
+    },
+    {
+      "编号": 6,
+      "新文件名": "foods-delay-artery-calcification-66.md",
+      "旧文件名": "12-science-backed-ways-to-lower-coronary-artery-calcium-score-progression-without-statins-for-adults-57-69-with-cac-100-and-statin-intolerance.md",
+      "新slug": "foods-delay-artery-calcification-66",
+      "旧slug": "12-science-backed-ways-to-lower-coronary-artery-calcium-score-progression-without-statins-for-adults-57-69-with-cac-100-and-statin-intolerance",
+      "状态": "✅ 成功",
+      "验证": {
+        "文件名正确": true,
+        "slug字段正确": true,
+        "优化内容保留": true
+      }
+    },
+    {
+      "编号": 7,
+      "新文件名": "foods-disrupt-gut-microbiome-diabetes-54-66.md",
+      "旧文件名": "how-long-term-metformin-use-alters-gut-microbiome-diversity-and-butyrate-production-in-adults-67-81-with-type-2-diabetes-and-constipation-predominant-ibs.md",
+      "新slug": "foods-disrupt-gut-microbiome-diabetes-54-66",
+      "旧slug": "how-long-term-metformin-use-alters-gut-microbiome-diversity-and-butyrate-production-in-adults-67-81-with-type-2-diabetes-and-constipation-predominant-ibs",
+      "状态": "✅ 成功",
+      "验证": {
+        "文件名正确": true,
+        "slug字段正确": true,
+        "优化内容保留": true
+      }
+    },
+    {
+      "编号": 8,
+      "新文件名": "feeling-full-without-gallbladder-pain-73.md",
+      "旧文件名": "a-vs-b-slow-chewed-roast-turkey-vs-ground-turkey-patties-impact-on-satiety-hormone-release-and-post-meal-fullness-in-adults-55-69-with-mild-gastroparesis-and-early-sarcopenia.md",
+      "新slug": "feeling-full-without-gallbladder-pain-73",
+      "旧slug": "a-vs-b-slow-chewed-roast-turkey-vs-ground-turkey-patties-impact-on-satiety-hormone-release-and-post-meal-fullness-in-adults-55-69-with-mild-gastroparesis-and-early-sarcopenia",
+      "状态": "✅ 成功",
+      "验证": {
+        "文件名正确": true,
+        "slug字段正确": true,
+        "优化内容保留": true
+      }
+    },
+    {
+      "编号": 9,
+      "状态": "❌ 失败",
+      "错误": "未找到relatedSlugs",
+      "新文件名": "foods-muscle-glucose-uptake-seniors-61.md",
+      "新slug": "foods-muscle-glucose-uptake-seniors-61"
+    },
+    {
+      "编号": 10,
+      "状态": "❌ 失败",
+      "错误": "未找到relatedSlugs",
+      "新文件名": "coronary-flow-foods-microvascular-57.md",
+      "新slug": "coronary-flow-foods-microvascular-57"
+    },
+    {
+      "编号": 11,
+      "状态": "❌ 失败",
+      "错误": "未找到relatedSlugs",
+      "新文件名": "white-rice-blood-sugar-asian-adults-62.md",
+      "新slug": "white-rice-blood-sugar-asian-adults-62"
+    },
+    {
+      "编号": 12,
+      "状态": "❌ 失败",
+      "错误": "未找到relatedSlugs",
+      "新文件名": "nerve-oxygenation-foods-neuropathy-69.md",
+      "新slug": "nerve-oxygenation-foods-neuropathy-69"
+    },
+    {
+      "编号": 13,
+      "状态": "❌ 失败",
+      "错误": "未找到relatedSlugs",
+      "新文件名": "pulse-wave-velocity-foods-avoid-61-cac.md",
+      "新slug": "pulse-wave-velocity-foods-avoid-61-cac"
+    },
+    {
+      "编号": 14,
+      "状态": "❌ 失败",
+      "错误": "未找到relatedSlugs",
+      "新文件名": "central-aortic-pressure-foods-74-pulse.md",
+      "新slug": "central-aortic-pressure-foods-74-pulse"
+    },
+    {
+      "编号": 15,
+      "状态": "❌ 失败",
+      "错误": "未找到relatedSlugs",
+      "新文件名": "central-aortic-pressure-foods-90-min.md",
+      "新slug": "central-aortic-pressure-foods-90-min"
+    },
+    {
+      "编号": 16,
+      "状态": "❌ 失败",
+      "错误": "未找到relatedSlugs",
+      "新文件名": "glucose-variability-foods-ldl-safe-66.md",
+      "新slug": "glucose-variability-foods-ldl-safe-66"
+    },
+    {
+      "编号": 17,
+      "状态": "❌ 失败",
+      "错误": "未找到relatedSlugs",
+      "新文件名": "heart-rate-recovery-foods-seniors-bp.md",
+      "新slug": "heart-rate-recovery-foods-seniors-bp"
+    },
+    {
+      "编号": 18,
+      "状态": "❌ 失败",
+      "错误": "未找到relatedSlugs",
+      "新文件名": "foods-lower-triglycerides-glucose-seniors.md",
+      "新slug": "foods-lower-triglycerides-glucose-seniors"
+    },
+    {
+      "编号": 19,
+      "状态": "❌ 失败",
+      "错误": "未找到relatedSlugs",
+      "新文件名": "liver-health-foods-diabetes-seniors-alt.md",
+      "新slug": "liver-health-foods-diabetes-seniors-alt"
+    },
+    {
+      "编号": 20,
+      "状态": "❌ 失败",
+      "错误": "未找到relatedSlugs",
+      "新文件名": "arterial-stiffness-foods-seniors-bp.md",
+      "新slug": "arterial-stiffness-foods-seniors-bp"
+    },
+    {
+      "编号": 21,
+      "状态": "❌ 失败",
+      "错误": "未找到relatedSlugs",
+      "新文件名": "foods-raise-bp-hidden-causes-seniors.md",
+      "新slug": "foods-raise-bp-hidden-causes-seniors"
+    },
+    {
+      "编号": 22,
+      "状态": "❌ 失败",
+      "错误": "未找到relatedSlugs",
+      "新文件名": "foods-stabilize-bp-during-meals-57-69.md",
+      "新slug": "foods-stabilize-bp-during-meals-57-69"
+    },
+    {
+      "编号": 23,
+      "状态": "❌ 失败",
+      "错误": "未找到relatedSlugs",
+      "新文件名": "stable-glucose-foods-haaf-adults-77.md",
+      "新slug": "stable-glucose-foods-haaf-adults-77"
+    },
+    {
+      "编号": 24,
+      "状态": "❌ 失败",
+      "错误": "未找到relatedSlugs",
+      "新文件名": "vagal-tone-foods-post-meal-60-74.md",
+      "新slug": "vagal-tone-foods-post-meal-60-74"
+    },
+    {
+      "编号": 25,
+      "新文件名": "foods-heart-rhythm-afib-64.md",
+      "旧文件名": "the-truth-about-heart-healthy-holiday-wine-labels-what-the-2024-fda-draft-guidance-says-about-alcohol-dose-thresholds-for-atrial-fibrillation-risk.md",
+      "新slug": "foods-heart-rhythm-afib-64",
+      "旧slug": "the-truth-about-heart-healthy-holiday-wine-labels-what-the-2024-fda-draft-guidance-says-about-alcohol-dose-thresholds-for-atrial-fibrillation-risk",
+      "状态": "✅ 成功",
+      "验证": {
+        "文件名正确": true,
+        "slug字段正确": true,
+        "优化内容保留": true
+      }
+    },
+    {
+      "编号": 26,
+      "新文件名": "foods-heart-healing-after-heart-attack-69.md",
+      "旧文件名": "natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-using-pomegranate-derived-urolithin-a-and-time-restricted-feeding-for-adults-63-79-with-diabetic-cardiomyopathy.md",
+      "新slug": "foods-heart-healing-after-heart-attack-69",
+      "旧slug": "natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-using-pomegranate-derived-urolithin-a-and-time-restricted-feeding-for-adults-63-79-with-diabetic-cardiomyopathy",
+      "状态": "✅ 成功",
+      "验证": {
+        "文件名正确": true,
+        "slug字段正确": true,
+        "优化内容保留": true
+      }
+    },
+    {
+      "编号": 27,
+      "新文件名": "foods-lower-blood-pressure-naturally-53-68.md",
+      "旧文件名": "a-vs-b-cold-pressed-beetroot-juice-vs-fermented-beet-kvass-which-lowers-central-aortic-systolic-pressure-more-in-men-58-67-with-arterial-stiffness.md",
+      "新slug": "foods-lower-blood-pressure-naturally-53-68",
+      "旧slug": "a-vs-b-cold-pressed-beetroot-juice-vs-fermented-beet-kvass-which-lowers-central-aortic-systolic-pressure-more-in-men-58-67-with-arterial-stiffness",
+      "状态": "✅ 成功",
+      "验证": {
+        "文件名正确": true,
+        "slug字段正确": true,
+        "优化内容保留": true
+      }
+    },
+    {
+      "编号": 28,
+      "新文件名": "foods-improve-muscle-energy-diabetes-63.md",
+      "旧文件名": "natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-high-intensity-interval-training-using-cold-adapted-green-tea-polyphenols-and-seated-resistance-band-cycles-in-adults-71-with-sarcopenia-and-prediabetes.md",
+      "新slug": "foods-improve-muscle-energy-diabetes-63",
+      "旧slug": "natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-high-intensity-interval-training-using-cold-adapted-green-tea-polyphenols-and-seated-resistance-band-cycles-in-adults-71-with-sarcopenia-and-prediabetes",
+      "状态": "✅ 成功",
+      "验证": {
+        "文件名正确": true,
+        "slug字段正确": true,
+        "优化内容保留": true
+      }
+    },
+    {
+      "编号": 29,
+      "新文件名": "holiday-foods-blood-sugar-bp-seniors-70.md",
+      "旧文件名": "how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75.md",
+      "新slug": "holiday-foods-blood-sugar-bp-seniors-70",
+      "旧slug": "how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75",
+      "状态": "✅ 成功",
+      "验证": {
+        "文件名正确": true,
+        "slug字段正确": true,
+        "优化内容保留": true
+      }
+    },
+    {
+      "编号": 30,
+      "状态": "❌ 失败",
+      "错误": "未找到relatedSlugs",
+      "新文件名": "holiday-foods-heart-failure-seniors.md",
+      "新slug": "holiday-foods-heart-failure-seniors"
+    },
+    {
+      "编号": 31,
+      "状态": "❌ 失败",
+      "错误": "未找到relatedSlugs",
+      "新文件名": "holiday-foods-cardiac-afterload-lvh-66.md",
+      "新slug": "holiday-foods-cardiac-afterload-lvh-66"
+    },
+    {
+      "编号": 32,
+      "新文件名": "holiday-herbs-warfarin-safe-seniors-74.md",
+      "旧文件名": "natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling.md",
+      "新slug": "holiday-herbs-warfarin-safe-seniors-74",
+      "旧slug": "natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling",
+      "状态": "✅ 成功",
+      "验证": {
+        "文件名正确": true,
+        "slug字段正确": true,
+        "优化内容保留": true
+      }
+    },
+    {
+      "编号": 33,
+      "状态": "❌ 失败",
+      "错误": "未找到relatedSlugs",
+      "新文件名": "bdnf-movement-seniors-mood.md",
+      "新slug": "bdnf-movement-seniors-mood"
+    },
+    {
+      "编号": 34,
+      "状态": "❌ 失败",
+      "错误": "未找到relatedSlugs",
+      "新文件名": "breathing-lower-systolic-bp-seniors.md",
+      "新slug": "breathing-lower-systolic-bp-seniors"
+    },
+    {
+      "编号": 35,
+      "状态": "❌ 失败",
+      "错误": "未找到relatedSlugs",
+      "新文件名": "heart-healthy-casserole-swaps-seniors.md",
+      "新slug": "heart-healthy-casserole-swaps-seniors"
+    },
+    {
+      "编号": 36,
+      "状态": "❌ 失败",
+      "错误": "未找到relatedSlugs",
+      "新文件名": "vegan-cookies-afib-seniors-heart-safe.md",
+      "新slug": "vegan-cookies-afib-seniors-heart-safe"
+    },
+    {
+      "编号": 37,
+      "新文件名": "best-times-measure-bp-daily.md",
+      "旧文件名": "a-vs-b-10-minute-morning-sunlight-exposure-vs-6-minute-evening-blue-blocking-glasses-impact-on-circadian-bp-dip-in-adults-61-78-with-non-dipping-pattern.md",
+      "新slug": "best-times-measure-bp-daily",
+      "旧slug": "a-vs-b-10-minute-morning-sunlight-exposure-vs-6-minute-evening-blue-blocking-glasses-impact-on-circadian-bp-dip-in-adults-61-78-with-non-dipping-pattern",
+      "状态": "✅ 成功",
+      "验证": {
+        "文件名正确": true,
+        "slug字段正确": true,
+        "优化内容保留": true
+      }
+    },
+    {
+      "编号": 38,
+      "新文件名": "when-test-glucose-seniors-dawn.md",
+      "旧文件名": "simple-steps-to-adjust-your-holiday-meal-timing-for-optimal-circadian-glucose-rhythms-in-adults-73-with-advanced-sleep-phase-syndrome.md",
+      "新slug": "when-test-glucose-seniors-dawn",
+      "旧slug": "simple-steps-to-adjust-your-holiday-meal-timing-for-optimal-circadian-glucose-rhythms-in-adults-73-with-advanced-sleep-phase-syndrome",
+      "状态": "✅ 成功",
+      "验证": {
+        "文件名正确": true,
+        "slug字段正确": true,
+        "优化内容保留": true
+      }
+    },
+    {
+      "编号": 39,
+      "新文件名": "check-bp-after-flying-copd-60.md",
+      "旧文件名": "how-long-distance-air-travel-alters-endothelial-glycocalyx-thickness-and-microvascular-permeability-in-adults-61-77-with-stage-2-hypertension-and-prior-dvt.md",
+      "新slug": "check-bp-after-flying-copd-60",
+      "旧slug": "how-long-distance-air-travel-alters-endothelial-glycocalyx-thickness-and-microvascular-permeability-in-adults-61-77-with-stage-2-hypertension-and-prior-dvt",
+      "状态": "✅ 成功",
+      "验证": {
+        "文件名正确": true,
+        "slug字段正确": true,
+        "优化内容保留": true
+      }
+    },
+    {
+      "编号": 40,
+      "新文件名": "ketone-testing-keto-bariatric-67.md",
+      "旧文件名": "12-science-backed-times-to-check-your-glucose-during-the-holidays-based-on-circadian-ampk-activation-peaks-in-adults-70-with-sarcopenia-and-insulin-resistance.md",
+      "新slug": "ketone-testing-keto-bariatric-67",
+      "旧slug": "12-science-backed-times-to-check-your-glucose-during-the-holidays-based-on-circadian-ampk-activation-peaks-in-adults-70-with-sarcopenia-and-insulin-resistance",
+      "状态": "✅ 成功",
+      "验证": {
+        "文件名正确": true,
+        "slug字段正确": true,
+        "优化内容保留": true
+      }
+    }
+  ],
+  "错误": [
+    {
+      "编号": 4,
+      "文件": "post-meal-bp-foods-seniors-60.md",
+      "错误": "未找到relatedSlugs"
+    },
+    {
+      "编号": 9,
+      "文件": "foods-muscle-glucose-uptake-seniors-61.md",
+      "错误": "未找到relatedSlugs"
+    },
+    {
+      "编号": 10,
+      "文件": "coronary-flow-foods-microvascular-57.md",
+      "错误": "未找到relatedSlugs"
+    },
+    {
+      "编号": 11,
+      "文件": "white-rice-blood-sugar-asian-adults-62.md",
+      "错误": "未找到relatedSlugs"
+    },
+    {
+      "编号": 12,
+      "文件": "nerve-oxygenation-foods-neuropathy-69.md",
+      "错误": "未找到relatedSlugs"
+    },
+    {
+      "编号": 13,
+      "文件": "pulse-wave-velocity-foods-avoid-61-cac.md",
+      "错误": "未找到relatedSlugs"
+    },
+    {
+      "编号": 14,
+      "文件": "central-aortic-pressure-foods-74-pulse.md",
+      "错误": "未找到relatedSlugs"
+    },
+    {
+      "编号": 15,
+      "文件": "central-aortic-pressure-foods-90-min.md",
+      "错误": "未找到relatedSlugs"
+    },
+    {
+      "编号": 16,
+      "文件": "glucose-variability-foods-ldl-safe-66.md",
+      "错误": "未找到relatedSlugs"
+    },
+    {
+      "编号": 17,
+      "文件": "heart-rate-recovery-foods-seniors-bp.md",
+      "错误": "未找到relatedSlugs"
+    },
+    {
+      "编号": 18,
+      "文件": "foods-lower-triglycerides-glucose-seniors.md",
+      "错误": "未找到relatedSlugs"
+    },
+    {
+      "编号": 19,
+      "文件": "liver-health-foods-diabetes-seniors-alt.md",
+      "错误": "未找到relatedSlugs"
+    },
+    {
+      "编号": 20,
+      "文件": "arterial-stiffness-foods-seniors-bp.md",
+      "错误": "未找到relatedSlugs"
+    },
+    {
+      "编号": 21,
+      "文件": "foods-raise-bp-hidden-causes-seniors.md",
+      "错误": "未找到relatedSlugs"
+    },
+    {
+      "编号": 22,
+      "文件": "foods-stabilize-bp-during-meals-57-69.md",
+      "错误": "未找到relatedSlugs"
+    },
+    {
+      "编号": 23,
+      "文件": "stable-glucose-foods-haaf-adults-77.md",
+      "错误": "未找到relatedSlugs"
+    },
+    {
+      "编号": 24,
+      "文件": "vagal-tone-foods-post-meal-60-74.md",
+      "错误": "未找到relatedSlugs"
+    },
+    {
+      "编号": 30,
+      "文件": "holiday-foods-heart-failure-seniors.md",
+      "错误": "未找到relatedSlugs"
+    },
+    {
+      "编号": 31,
+      "文件": "holiday-foods-cardiac-afterload-lvh-66.md",
+      "错误": "未找到relatedSlugs"
+    },
+    {
+      "编号": 33,
+      "文件": "bdnf-movement-seniors-mood.md",
+      "错误": "未找到relatedSlugs"
+    },
+    {
+      "编号": 34,
+      "文件": "breathing-lower-systolic-bp-seniors.md",
+      "错误": "未找到relatedSlugs"
+    },
+    {
+      "编号": 35,
+      "文件": "heart-healthy-casserole-swaps-seniors.md",
+      "错误": "未找到relatedSlugs"
+    },
+    {
+      "编号": 36,
+      "文件": "vegan-cookies-afib-seniors-heart-safe.md",
+      "错误": "未找到relatedSlugs"
+    }
+  ],
+  "下一步建议": "检查失败的文章并手动处理"
+}

@@ -70,19 +70,19 @@ See your doctor if you notice:
 
 ### FAQ
 
-#### #### Can hearing aids affect heart rate variability and baroreflex sensitivity?  
+#### Can hearing aids affect heart rate variability and baroreflex sensitivity?  
 Yes—studies suggest chronic low-frequency auditory input may modestly reduce high-frequency heart rate variability and blunt baroreflex sensitivity, especially in older adults. This is part of the broader hearing aids baroreflex sensitivity diastolic dysfunction relationship, but effects are typically mild and reversible.
 
-#### #### Does hearing aids baroreflex sensitivity diastolic dysfunction mean my hearing aids are unsafe?  
+#### Does hearing aids baroreflex sensitivity diastolic dysfunction mean my hearing aids are unsafe?  
 No. Hearing aids remain safe and beneficial for communication and cognitive health. This connection reflects a nuanced physiological interaction—not a risk or side effect. It simply means heart assessments may benefit from added context.
 
-#### #### How is diastolic dysfunction diagnosed if echo looks normal?  
+#### How is diastolic dysfunction diagnosed if echo looks normal?  
 Standard echo may miss early diastolic changes. Additional clues include abnormal tissue Doppler (e’ velocity), elevated E/e’ ratio, abnormal 24-hour BP patterns (e.g., non-dipping), or symptoms like exertional fatigue—even with preserved ejection fraction.
 
-#### #### Are there lifestyle changes that improve baroreflex sensitivity naturally?  
+#### Are there lifestyle changes that improve baroreflex sensitivity naturally?  
 Yes—regular aerobic activity, mindful breathing, adequate sleep, and reducing sodium intake all support healthier baroreflex function. These also complement hearing aid use without conflict.
 
-#### #### Should I stop wearing my hearing aids before a cardiac test?  
+#### Should I stop wearing my hearing aids before a cardiac test?  
 No—there’s no need to discontinue use. Instead, share your hearing aid usage pattern with your cardiologist so they can interpret results with full context, including the potential role of hearing aids baroreflex sensitivity diastolic dysfunction.
 
 If you're unsure, talking to your doctor is always a good idea.

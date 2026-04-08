@@ -70,17 +70,17 @@ The good news? This pathway is modifiable. With early awareness and consistent c
 
 ### FAQ
 
-#### #### Does gum disease cause coronary artery calcification directly?  
+#### Does gum disease cause coronary artery calcification directly?  
 Not alone—but chronic gum disease contributes to systemic inflammation (elevated IL-6 and hs-CRP), which promotes calcium deposition in coronary arteries over time. It’s one important piece of the puzzle, especially in adults with otherwise normal LDL.
 
-#### #### Can gum disease and coronary artery calcification be reversed?  
+#### Can gum disease and coronary artery calcification be reversed?  
 While existing calcium deposits aren’t removed by treating gum disease, studies show that reducing oral inflammation slows further progression of coronary artery calcification—and improves endothelial function.
 
-#### #### Is there a test that links gum disease and coronary artery calcification?  
+#### Is there a test that links gum disease and coronary artery calcification?  
 No single test connects them directly, but combining a periodontal assessment + hs-CRP blood test + CAC scoring gives clinicians a powerful, integrated picture of risk.
 
-#### #### How often should adults 55–69 get screened for gum disease and coronary artery calcification?  
+#### How often should adults 55–69 get screened for gum disease and coronary artery calcification?  
 Annual dental exams are ideal—and more frequent visits (every 3–4 months) if you have a history of gum disease. A baseline CAC scan is reasonable for those aged 55–69 with additional risk factors, typically repeated every 5 years if initial score is low.
 
-#### #### Does flossing really affect heart health?  
+#### Does flossing really affect heart health?  
 Yes—consistently removing plaque between teeth lowers bacterial load and associated inflammation. Population studies link regular interdental cleaning with lower hs-CRP and slower CAC progression over time.

@@ -86,17 +86,17 @@ In all things, remember: adapting doesn’t mean diminishing. It means honoring 
 
 ### FAQ
 
-#### #### What are the best holiday foods to reduce microaspiration holiday meals seniors should choose?  
+#### What are the best holiday foods to reduce microaspiration holiday meals seniors should choose?  
 Soft, moist, cohesive foods are safest: braised short ribs, mashed potatoes with warm milk, baked apples with cinnamon, and oat-based desserts like soft fruit crumbles. Avoid dry crackers, raw vegetables, popcorn, nuts, and tough, fibrous meats unless finely minced and moistened.
 
-#### #### How can I reduce microaspiration holiday meals seniors at home without special equipment?  
+#### How can I reduce microaspiration holiday meals seniors at home without special equipment?  
 Start with three gentle habits: (1) Tuck your chin slightly when swallowing, (2) sip warm water between bites—not during—to rinse residue, and (3) serve all foods at room temperature or mildly warm (never icy or scalding). These require no tools, just awareness and kindness toward your own rhythm.
 
-#### #### Does silent GERD increase microaspiration risk during holiday meals?  
+#### Does silent GERD increase microaspiration risk during holiday meals?  
 Yes—significantly. Because silent GERD lacks classic symptoms like heartburn, refluxed acid can silently weaken laryngeal sensation and delay protective reflexes. This makes it easier for tiny amounts of food or liquid to enter the airway unnoticed. Managing GERD with dietary timing (avoiding large meals 3 hours before bed) and upright posture during/after eating supports safer swallowing.
 
-#### #### Are thickened liquids always necessary to reduce microaspiration holiday meals seniors?  
+#### Are thickened liquids always necessary to reduce microaspiration holiday meals seniors?  
 Not always—and not for everyone. While some benefit from nectar- or honey-thick liquids, others do better with thin liquids taken slowly and deliberately. A speech-language pathologist can help determine what’s right for you. Never thicken liquids without guidance, as over-thickening can increase residue and effort.
 
-#### #### Can vocal fold atrophy improve with holiday-season lifestyle changes?  
+#### Can vocal fold atrophy improve with holiday-season lifestyle changes?  
 Vocal fold atrophy itself isn’t reversible through diet or humidity alone—but supporting laryngeal health *does* improve function. Consistent hydration, optimal humidity, avoiding vocal strain (like shouting over noise), and gentle vocal warm-ups (humming, lip trills) can enhance closure efficiency and sensory awareness—making swallowing safer and voice stronger.

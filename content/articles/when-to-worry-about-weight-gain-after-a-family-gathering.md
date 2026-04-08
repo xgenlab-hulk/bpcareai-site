@@ -74,17 +74,17 @@ Most post-gathering weight shifts are temporary and reversible with gentle, sust
 
 ### FAQ
 
-#### #### How much weight gain after a holiday gathering is considered normal?
+#### How much weight gain after a holiday gathering is considered normal?
 A short-term increase of 2–4 pounds is typical and usually reflects fluid retention from higher sodium and carbohydrate intake. This generally resolves within 3–7 days as your body rebalances.
 
-#### #### When should I be concerned about post-holiday weight gain concerns?
+#### When should I be concerned about post-holiday weight gain concerns?
 If your weight stays 5+ pounds above your usual baseline for more than 10 days—or if you develop swelling, breathlessness, or consistently elevated BP—you should consult your provider. These could indicate fluid overload or emerging metabolic strain.
 
-#### #### Do post-holiday weight gain concerns affect blood pressure?
+#### Do post-holiday weight gain concerns affect blood pressure?
 Yes. Even modest weight gain (3–5 lbs) can raise systolic BP by 2–4 mm Hg in adults over 50, especially if abdominal fat increases. Chronic elevation contributes to arterial pressure damage over time.
 
-#### #### Can healthy eating during family gatherings really make a difference?
+#### Can healthy eating during family gatherings really make a difference?
 Absolutely. Prioritizing lean protein, vegetables, whole grains, and mindful portions helps stabilize blood sugar, reduce sodium load, and support healthy weight maintenance—even amid celebration.
 
-#### #### Is rapid weight loss after a holiday gathering safe?
+#### Is rapid weight loss after a holiday gathering safe?
 Rapid loss (more than 2 pounds per week without medical supervision) isn’t recommended, especially for older adults. Focus instead on steady, sustainable habits—hydration, movement, and balanced meals—to support natural recalibration.

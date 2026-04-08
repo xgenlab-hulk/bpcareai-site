@@ -45,22 +45,22 @@ In summary, holiday grandparenting is a gift—but it’s okay to protect your o
 
 ### FAQ
 
-#### #### Does eating carbs late at night raise blood pressure in seniors?
+#### Does eating carbs late at night raise blood pressure in seniors?
 
 Yes—especially in adults 65+. Evening carbohydrate intake coincides with reduced insulin sensitivity and blunted melatonin-mediated vasodilation. Studies show refined carbs after 7 p.m. correlate with higher nocturnal systolic BP, particularly in those with preexisting hypertension or non-dipping patterns.
 
-#### #### Can late-evening carbs and nighttime blood pressure be improved without medication?
+#### Can late-evening carbs and nighttime blood pressure be improved without medication?
 
 Often, yes. Behavioral changes—including shifting dinner earlier, choosing complex carbs over refined ones, and avoiding large meals within 3 hours of sleep—have lowered nighttime BP by 5–10 mm Hg in clinical trials involving older adults.
 
-#### #### What’s the safest time to eat carbs if I have nocturnal hypertension?
+#### What’s the safest time to eat carbs if I have nocturnal hypertension?
 
 Ideally, consume most carbohydrates earlier in the day—prior to 3 p.m. for optimal insulin sensitivity. If eating carbs in the evening is unavoidable, pair them with lean protein and healthy fats, and aim to finish by 7 p.m. to allow metabolic clearance before the body’s natural nocturnal BP dip begins.
 
-#### #### Do holiday treats really affect my blood pressure—or is it just salt?
+#### Do holiday treats really affect my blood pressure—or is it just salt?
 
 Both matter. While sodium remains a well-known BP driver, emerging evidence highlights the independent role of *timing* and *type* of carbohydrate intake. Late-evening carbs and nighttime blood pressure are increasingly recognized as modifiable factors—especially when combined with high-sodium holiday foods.
 
-#### #### Is it normal for blood pressure to rise after dinner during the holidays?
+#### Is it normal for blood pressure to rise after dinner during the holidays?
 
 A modest, transient rise (≤10 mm Hg) is typical postprandially. But sustained elevation (>2 hours) or nighttime readings above 120/70 mm Hg suggest disrupted circadian regulation—often tied to meal timing, carb load, or sleep fragmentation common during caregiving holidays.

@@ -80,22 +80,22 @@ Bright light therapy age related macular degeneration concerns are valid—but t
 
 ### FAQ
 
-#### #### Can bright light therapy worsen age-related macular degeneration?
+#### Can bright light therapy worsen age-related macular degeneration?
 
 Current evidence does not support light therapy causing progression in early-to-moderate AMD—*when* spectrally appropriate devices (low in blue light <480 nm) are used at recommended durations (20–30 minutes) and distances. No randomized trials have shown accelerated atrophy or drusen growth attributable to properly administered therapy.
 
-#### #### Is bright light therapy safe for seniors with dry AMD?
+#### Is bright light therapy safe for seniors with dry AMD?
 
 Yes—dry (non-neovascular) AMD is the most common form, and guidelines specifically affirm safety for early and intermediate stages. Because dry AMD progresses slowly and lacks abnormal blood vessels, it carries lower photochemical risk than wet AMD—which *is* generally considered a contraindication for light therapy unless explicitly cleared by a retinal specialist.
 
-#### #### How does bright light therapy age related macular degeneration interact with cataracts?
+#### How does bright light therapy age related macular degeneration interact with cataracts?
 
 Cataracts actually provide *some* natural protection—they yellow with age and filter out more blue light. That said, dense cataracts may reduce therapeutic effectiveness. If you’ve had recent cataract surgery (especially with clear IOLs), your blue-light exposure increases slightly—so extra attention to spectral filtering and session length is advised.
 
-#### #### Can light therapy help seasonal depression in older adults even if I’m indoors most days?
+#### Can light therapy help seasonal depression in older adults even if I’m indoors most days?
 
 Absolutely. Natural daylight exposure drops significantly in winter—especially for older adults who may spend more time indoors. Light therapy compensates for this deficit by stimulating melanopsin-containing ganglion cells in the retina, helping regulate serotonin, cortisol, and melatonin rhythms. In fact, studies show 55–65% of older adults with seasonal depression in older adults respond meaningfully to consistent morning light therapy.
 
-#### #### Do I need special eye exams before starting bright light therapy age related macular degeneration protocols?
+#### Do I need special eye exams before starting bright light therapy age related macular degeneration protocols?
 
 You don’t need *new* imaging just to begin—but updating your retinal exam within the past 6–12 months is recommended. Your ophthalmologist should review your AMD stage, check for signs of progression (like RPE mottling or new drusen), and confirm there’s no active neovascularization. A brief Amsler grid test at home each week is also a helpful self-check.

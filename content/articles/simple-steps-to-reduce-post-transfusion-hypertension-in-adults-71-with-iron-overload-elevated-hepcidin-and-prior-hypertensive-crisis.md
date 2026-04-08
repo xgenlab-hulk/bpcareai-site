@@ -63,22 +63,22 @@ Post-transfusion hypertension adults 71+ iron overload is manageable—not inevi
 
 ### FAQ
 
-#### #### What causes high blood pressure after a blood transfusion in older adults with iron overload?
+#### What causes high blood pressure after a blood transfusion in older adults with iron overload?
 
 It’s largely driven by iron-catalyzed oxidative stress in blood vessel walls—especially when hepcidin is elevated—leading to rapid vasoconstriction and reduced nitric oxide. Age-related stiffening of arteries makes this effect more pronounced in adults 71+.
 
-#### #### Is post-transfusion hypertension adults 71+ iron overload preventable?
+#### Is post-transfusion hypertension adults 71+ iron overload preventable?
 
 Yes—through tailored strategies like timed phlebotomy, antioxidant support (e.g., IV ascorbate), and selective vasodilator use. Prevention works best when started *before* the first problematic episode.
 
-#### #### How soon after a transfusion does blood pressure typically rise in this group?
+#### How soon after a transfusion does blood pressure typically rise in this group?
 
 Most cases occur within 6–24 hours, peaking around 12 hours. Monitoring during this window is especially helpful.
 
-#### #### Can diet alone control post-transfusion hypertension adults 71+ iron overload?
+#### Can diet alone control post-transfusion hypertension adults 71+ iron overload?
 
 Diet supports overall vascular health (low sodium, antioxidant-rich foods), but it’s not enough on its own when iron overload and hepcidin dysregulation are involved. Medical supervision remains essential.
 
-#### #### Does nitroglycerin always help with post-transfusion blood pressure spikes?
+#### Does nitroglycerin always help with post-transfusion blood pressure spikes?
 
 Only in select cases—and only under direct guidance. It’s not for routine use and should never replace evaluation for underlying causes like volume shifts or renal perfusion changes.

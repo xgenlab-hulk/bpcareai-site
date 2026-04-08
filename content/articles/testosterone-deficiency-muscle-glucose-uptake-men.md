@@ -84,22 +84,22 @@ Understanding the link between testosterone deficiency, muscle glucose uptake, a
 
 ### FAQ
 
-#### #### Does low testosterone directly cause insulin resistance in muscle?
+#### Does low testosterone directly cause insulin resistance in muscle?
 
 Yes—testosterone supports insulin receptor substrate-1 (IRS-1) phosphorylation and downstream AKT activation in skeletal muscle. Clinical studies confirm men with testosterone deficiency muscle glucose uptake men show blunted insulin-mediated glucose disposal, independent of body fat changes.
 
-#### #### Can statins worsen testosterone deficiency muscle glucose uptake men?
+#### Can statins worsen testosterone deficiency muscle glucose uptake men?
 
 Statin-induced mitochondrial stress reduces ATP availability in muscle fibers, impairing both contraction efficiency and insulin-dependent GLUT4 trafficking. This effect appears additive—not merely overlapping—with age-related testosterone decline, particularly in men over 74 with preexisting sarcopenia.
 
-#### #### What blood tests best reflect testosterone deficiency muscle glucose uptake men?
+#### What blood tests best reflect testosterone deficiency muscle glucose uptake men?
 
 The most informative panel includes: total testosterone, SHBG, calculated free testosterone, fasting insulin, HbA1c, and cystatin C. Optional but insightful: adiponectin (low levels correlate with muscle insulin resistance) and myostatin (elevated in sarcopenic insulin resistance).
 
-#### #### Is testosterone therapy safe for men with diabetes or prediabetes?
+#### Is testosterone therapy safe for men with diabetes or prediabetes?
 
 Evidence is mixed. Some trials show improved glycemic control with TT in hypogonadal men with type 2 diabetes; others note increased hematocrit or sleep apnea risk. Current guidelines (Endocrine Society, 2020) recommend TT only for confirmed hypogonadism with symptoms—and emphasize concurrent lifestyle intervention. It is not a standalone treatment for diabetes.
 
-#### #### How does sarcopenia affect blood sugar in older men?
+#### How does sarcopenia affect blood sugar in older men?
 
 Sarcopenia reduces the primary site of glucose disposal. Each 10% loss of lean mass correlates with ~15% increase in fasting insulin and ~0.3% rise in HbA1c—even after adjusting for BMI. That’s why preserving muscle isn’t just about strength—it’s core to metabolic resilience.

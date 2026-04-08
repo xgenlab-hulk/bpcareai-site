@@ -87,22 +87,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Why does my cholesterol look normal but I still have heart disease risk?
+#### Why does my cholesterol look normal but I still have heart disease risk?
 
 Standard cholesterol tests measure *how much* cholesterol is present—not *how many particles* are circulating (ApoB), whether they’re oxidized (OxLDL), or whether you carry elevated Lp(a). Up to 40% of older adults with “normal” results on routine panels have hidden risk factors detectable only with advanced testing.
 
-#### #### Can cholesterol be normal but heart risk high elders even with healthy habits?
+#### Can cholesterol be normal but heart risk high elders even with healthy habits?
 
 Yes. Genetics (like high Lp(a)), aging-related changes in metabolism and inflammation, and lifelong exposure to environmental or physiological stressors all contribute—even in people who eat well, move regularly, and avoid smoking. That’s why advanced markers add meaningful context beyond lifestyle alone.
 
-#### #### Is high Lp(a) dangerous for older adults even if cholesterol is normal?
+#### Is high Lp(a) dangerous for older adults even if cholesterol is normal?
 
 Absolutely. Lp(a) is an independent, genetically driven risk factor. Studies show adults over 65 with Lp(a) >50 mg/dL have significantly higher rates of heart attack and aortic stenosis—even with optimal LDL-C and blood pressure. It’s one of the most under-recognized contributors to *cholesterol normal but heart risk high elders*.
 
-#### #### Do I need to fast before advanced lipid testing?
+#### Do I need to fast before advanced lipid testing?
 
 Most advanced tests—including ApoB, Lp(a), and ApoA1—do *not* require fasting. However, if your provider orders a full lipid panel *alongside* these, they may recommend a 10–12 hour fast for consistency. Always follow your clinician’s instructions.
 
-#### #### Can high OxLDL be lowered naturally?
+#### Can high OxLDL be lowered naturally?
 
 Yes—though it requires patience and consistency. Diets rich in antioxidants (vitamin C, E, polyphenols), regular physical activity, good sleep hygiene, and avoiding smoking or excessive alcohol all support reduced oxidation. Some evidence also supports benefits from green tea extract and aged garlic—but always discuss supplements with your doctor first.

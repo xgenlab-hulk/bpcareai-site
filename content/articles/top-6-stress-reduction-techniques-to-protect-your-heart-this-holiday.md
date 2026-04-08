@@ -82,22 +82,22 @@ The holidays don’t have to be a test of endurance for your heart. With simple,
 
 ### FAQ
 
-#### #### Can stress reduction holiday heart really prevent arrhythmias—or is it just soothing?
+#### Can stress reduction holiday heart really prevent arrhythmias—or is it just soothing?
 
 Yes—gently but meaningfully. Multiple randomized trials (including the 2021 HEART-STEP study) found that adults over 50 practicing just 5 minutes/day of guided breathing or mindful movement saw a 37% reduction in symptomatic AFib episodes over 8 weeks. While not a replacement for medical care, consistent stress reduction supports autonomic balance—the foundation of steady heart rhythm.
 
-#### #### What’s the link between stress reduction holiday heart and high blood pressure?
+#### What’s the link between stress reduction holiday heart and high blood pressure?
 
 Stress activates the sympathetic nervous system, causing vasoconstriction and increased cardiac output—which raises both systolic and diastolic pressure. Over time, repeated spikes contribute to arterial stiffness and endothelial inflammation. Daily stress-reduction practices lower average daytime BP by 3–5 mm Hg and improve nighttime dipping—key predictors of long-term heart health.
 
-#### #### Is holiday heart syndrome reversible—or does it mean permanent damage?
+#### Is holiday heart syndrome reversible—or does it mean permanent damage?
 
 In most cases, holiday heart syndrome is fully reversible with lifestyle adjustment and reduced triggers (especially alcohol moderation, hydration, and sleep consistency). It’s typically *not* a sign of structural heart disease—unless recurrent or prolonged. That said, repeated episodes *can* increase long-term AFib risk, making early stress reduction holiday heart strategies especially valuable.
 
-#### #### How often should I check my pulse or BP during the holidays?
+#### How often should I check my pulse or BP during the holidays?
 
 If you’re over 50 or have known hypertension or arrhythmia, aim for twice weekly—same time each day (e.g., after morning tea, before bed). Note how you felt that day (tired? rushed? joyful?) alongside numbers. Trends matter far more than single readings. Avoid checking right after meals, caffeine, or emotional conversations—wait 15–20 minutes.
 
-#### #### Are there foods or drinks I should avoid to support stress reduction holiday heart?
+#### Are there foods or drinks I should avoid to support stress reduction holiday heart?
 
 Yes—especially in combination. Skip the “triple threat”: alcohol + caffeine + high-sugar desserts consumed close together. Also limit ultra-processed snacks (chips, cookies, candy), which spike insulin and can trigger reactive hypoglycemia—another arrhythmia trigger. Instead, pair festive treats with protein (e.g., cheese with crackers) or healthy fat (nuts with dark chocolate) to smooth blood sugar response.

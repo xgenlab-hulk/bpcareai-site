@@ -61,22 +61,22 @@ In summary, daily 4-minute sauna exposure isn’t a miracle treatment—but for 
 
 ### FAQ
 
-#### #### Does sauna use improve coronary flow reserve in people with endothelial dysfunction?
+#### Does sauna use improve coronary flow reserve in people with endothelial dysfunction?
 
 Yes—several randomized trials using transthoracic Doppler echo show modest but repeatable improvements in coronary flow reserve after 3–4 weeks of daily 4-minute sauna sessions in adults 69+ with endothelial dysfunction and no structural heart disease.
 
-#### #### What’s the difference between Finnish and infrared sauna for sauna coronary flow reserve endothelial benefits?
+#### What’s the difference between Finnish and infrared sauna for sauna coronary flow reserve endothelial benefits?
 
 Both styles improve coronary flow reserve, but through slightly different mechanisms. Finnish saunas trigger stronger acute cardiovascular responses (higher core temp, increased HR), while infrared saunas promote deeper tissue warming at lower ambient temps—potentially better tolerated by those with heat sensitivity. Studies report similar CFR gains (12–18%) with either protocol when matched for duration and frequency.
 
-#### #### Can sauna coronary flow reserve endothelial improvements reduce heart disease risk long-term?
+#### Can sauna coronary flow reserve endothelial improvements reduce heart disease risk long-term?
 
 While no trial has yet linked sauna use directly to reduced heart disease events in this population, improved CFR reflects healthier endothelial function—a well-established predictor of future cardiovascular outcomes. Ongoing longitudinal studies are exploring this connection.
 
-#### #### Is 4 minutes really enough time in the sauna to see benefits?
+#### Is 4 minutes really enough time in the sauna to see benefits?
 
 Yes—in controlled trials, 4 minutes was the optimal duration balancing safety, adherence, and measurable CFR change. Longer sessions didn’t yield proportionally greater gains and increased dropout rates due to discomfort.
 
-#### #### Should I stop my blood pressure medications if I start using sauna regularly?
+#### Should I stop my blood pressure medications if I start using sauna regularly?
 
 No. Sauna use is complementary—not a replacement—for prescribed treatments. Always discuss lifestyle changes with your healthcare provider, especially if you take antihypertensives or diuretics.

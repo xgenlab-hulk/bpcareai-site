@@ -75,23 +75,23 @@ Tracking your blood pressure trends can help you and your doctor make better dec
 
 ### FAQ
 
-#### #### Is tai chi as effective as treadmill walking for microvascular angina?
+#### Is tai chi as effective as treadmill walking for microvascular angina?
 
 Yes—when practiced consistently (e.g., 12 minutes daily for 12 weeks), tai chi produces comparable improvements in myocardial perfusion reserve index (MPRI) to supervised treadmill walking. Tai chi achieves this primarily by enhancing autonomic balance and reducing systemic inflammation, while treadmill walking drives structural capillary adaptations. The *tai chi vs treadmill microvascular angina* comparison shows they work through complementary pathways—not competing ones.
 
-#### #### Can I do tai chi instead of treadmill if I have microvascular angina and joint pain?
+#### Can I do tai chi instead of treadmill if I have microvascular angina and joint pain?
 
 Absolutely. Tai chi is low-impact, weight-bearing, and adaptable for limited mobility. Research shows adults 67+ with osteoarthritis who substituted tai chi for treadmill walking maintained MPRI improvements while reporting significantly less joint discomfort and higher long-term adherence. Always inform your instructor about your diagnosis and any physical limitations.
 
-#### #### What’s the best exercise for microvascular angina: tai chi vs treadmill?
+#### What’s the best exercise for microvascular angina: tai chi vs treadmill?
 
 There’s no universal “best”—the optimal choice depends on your goals, physical capacity, and preferences. If improving autonomic regulation and stress resilience is a priority, tai chi may offer earlier benefits. If increasing functional capacity or preparing for cardiac rehab milestones is the goal, treadmill walking provides clear aerobic progression. Many clinicians now suggest alternating both—e.g., tai chi on Mondays/Wednesdays/Fridays and treadmill on Tuesdays/Thursdays—to harness synergistic effects.
 
-#### #### Does tai chi lower blood pressure enough to help microvascular angina?
+#### Does tai chi lower blood pressure enough to help microvascular angina?
 
 Yes. Meta-analyses show tai chi reduces systolic BP by an average of 5–8 mm Hg and diastolic BP by 3–4 mm Hg in adults with hypertension—comparable to moderate aerobic exercise. Since elevated arterial pressure damages microvascular endothelium over time, even modest reductions support long-term perfusion health.
 
-#### #### Are there risks to doing tai chi or treadmill walking with microvascular angina?
+#### Are there risks to doing tai chi or treadmill walking with microvascular angina?
 
 Both are safe for most adults with stable microvascular angina when appropriately dosed and supervised. Risks arise mainly from unsupervised intensity escalation (e.g., pushing too hard on treadmill) or poor form (e.g., holding breath during tai chi). Always obtain clearance from your cardiologist before beginning either program—and consider working with a cardiac rehab team for personalized guidance.
 

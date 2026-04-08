@@ -72,17 +72,17 @@ Microvascular health isn’t fixed—it’s dynamic, responsive, and supported b
 
 ### FAQ
 
-#### #### Does quercetin help with hypertensive retinopathy microvascular issues?
+#### Does quercetin help with hypertensive retinopathy microvascular issues?
 Yes—our 12-week RCT found that 200 mg daily improved retinal arteriolar reactivity by 14% in adults aged 59–66 with early hypertensive retinopathy. It’s not a cure, but it appears to support healthier microvascular function alongside standard care.
 
-#### #### Is quercetin safe for people with high blood pressure?
+#### Is quercetin safe for people with high blood pressure?
 Generally, yes—especially at 200 mg/day. In our study, no serious adverse events were linked to quercetin. Still, talk with your doctor first if you take blood thinners or multiple BP medications.
 
-#### #### Can quercetin lower blood pressure on its own?
+#### Can quercetin lower blood pressure on its own?
 Not significantly in this population. Participants’ average clinic BP didn’t drop meaningfully—but measures of microvascular and arterial stiffness *did* improve. Think of it as supporting vessel quality, not just quantity.
 
-#### #### What foods are highest in quercetin?
+#### What foods are highest in quercetin?
 Red onions (especially outer layers), capers, apples (with skin), berries, broccoli, and green tea top the list. Cooking can reduce levels, so enjoy some raw or lightly steamed.
 
-#### #### How long does it take for quercetin to affect microvascular health?
+#### How long does it take for quercetin to affect microvascular health?
 In our trial, measurable changes in retinal reactivity appeared after 8–12 weeks—reinforcing why consistency matters. Short-term use is unlikely to yield noticeable benefits.

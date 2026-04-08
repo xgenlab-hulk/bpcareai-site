@@ -66,17 +66,17 @@ Making heart-healthy holiday recipe swaps isn’t about perfection—it’s abou
 
 ### FAQ  
 
-#### #### What are the best heart-healthy holiday recipe swaps for high blood pressure?  
+#### What are the best heart-healthy holiday recipe swaps for high blood pressure?  
 Focus on reducing sodium (swap table salt for herbs and citrus), limiting saturated fat (choose lean proteins and plant-based fats), and increasing potassium-rich foods like roasted sweet potatoes, spinach, and bananas. These shifts support healthy arterial pressure and kidney function.  
 
-#### #### Can heart-healthy holiday recipe swaps really prevent holiday heart syndrome?  
+#### Can heart-healthy holiday recipe swaps really prevent holiday heart syndrome?  
 Yes—when combined with moderation in alcohol and mindful pacing of meals. Reducing sodium, added sugars, and heavy fats helps stabilize heart rhythm and reduces strain on the cardiovascular system during high-stress, high-indulgence periods.  
 
-#### #### Are there easy heart-healthy holiday recipe swaps for diabetic adults over 50?  
+#### Are there easy heart-healthy holiday recipe swaps for diabetic adults over 50?  
 Absolutely. Prioritize fiber-rich whole grains, non-starchy vegetables, and naturally sweet ingredients (like cinnamon and baked apples) instead of refined sugars. Swapping white flour for whole-wheat or oat flour—and using unsweetened dairy alternatives—can help manage post-meal glucose spikes.  
 
-#### #### How much sodium should I aim for during the holidays?  
+#### How much sodium should I aim for during the holidays?  
 The American Heart Association recommends no more than 1,500 mg per day for adults over 50, especially those with hypertension or heart concerns. That’s roughly ⅔ teaspoon of salt—less than many single holiday meals contain.  
 
-#### #### Do I need to avoid all traditional dishes to protect my heart?  
+#### Do I need to avoid all traditional dishes to protect my heart?  
 Not at all. Most classic recipes can be gently reimagined—think herb-roasted turkey instead of brined-and-buttered, or whole-grain stuffing instead of boxed mix. It’s about balance, not elimination.

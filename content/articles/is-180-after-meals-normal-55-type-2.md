@@ -3,7 +3,7 @@ title: >-
   Is 180 After Meals Normal for Someone 55 With Type 2?
 slug: is-180-after-meals-normal-55-type-2
 description: >-
-  Is 180 after meals normal for someone 55 with type 2? Yes—but repeated spikes ≥180 mg/dL raise heart risk by 12% (JAMA, 2022). Learn smarter eating to protect
+  Is 180 after meals normal for someone 55 with type 2? Yes—but repeated spikes ≥180 mg/dL raise heart risk by 12% (JAMA, 2022).
 date: '2026-04-04'
 updated: '2026-04-04'
 primaryKeyword: >-

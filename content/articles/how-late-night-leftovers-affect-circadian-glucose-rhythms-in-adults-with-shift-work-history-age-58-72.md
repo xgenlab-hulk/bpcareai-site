@@ -58,22 +58,22 @@ In short, honoring your body’s natural rhythms isn’t about restriction—it�
 
 ### FAQ
 
-#### #### Does eating late-night leftovers circadian glucose shift work increase my risk of type 2 diabetes?
+#### Does eating late-night leftovers circadian glucose shift work increase my risk of type 2 diabetes?
 
 Yes—particularly if you have a history of rotating shifts. Research shows adults over 60 with >10 years of shift work face a 2.3-fold higher risk of developing type 2 diabetes when regularly eating after 9 p.m., largely due to impaired nocturnal insulin secretion and reduced glucose disposal.
 
-#### #### How does late-night leftovers circadian glucose shift work affect blood pressure?
+#### How does late-night leftovers circadian glucose shift work affect blood pressure?
 
 It contributes to sympathetic nervous system activation overnight, leading to elevated nocturnal systolic BP (often by 8–12 mm Hg) and blunted BP dipping—both recognized risk factors for stroke and heart failure in older adults.
 
-#### #### Can I reverse circadian disruption from past shift work?
+#### Can I reverse circadian disruption from past shift work?
 
 Partially—yes. While some epigenetic changes persist, consistent sleep timing (even on weekends), morning light exposure, and aligning meals within a 10-hour window (e.g., 7 a.m.–5 p.m.) can improve melatonin rhythm regularity and insulin sensitivity within 4–6 weeks.
 
-#### #### Are there specific foods that support circadian glucose balance after age 60?
+#### Are there specific foods that support circadian glucose balance after age 60?
 
 Prioritize whole-food sources of magnesium (spinach, black beans), potassium (avocado, banana), and polyphenols (berries, green tea). These nutrients support endothelial function and insulin receptor signaling—especially important as age-related declines in vitamin D and melatonin amplify glucose variability.
 
-#### #### Is it safe to use melatonin supplements to “reset” my rhythm if I eat late-night leftovers?
+#### Is it safe to use melatonin supplements to “reset” my rhythm if I eat late-night leftovers?
 
 Not without medical guidance. Exogenous melatonin may further suppress insulin secretion when taken near meals, worsening glucose spikes. It’s best used only under supervision—and never within 3 hours of eating.

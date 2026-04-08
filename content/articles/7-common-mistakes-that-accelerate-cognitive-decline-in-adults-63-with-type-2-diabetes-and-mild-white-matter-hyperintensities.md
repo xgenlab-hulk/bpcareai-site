@@ -81,22 +81,22 @@ Your brain is remarkably adaptable—even into your 70s and beyond. The presence
 
 ### FAQ
 
-#### #### What are the most common mistakes cognitive decline diabetes elderly make with blood sugar management?
+#### What are the most common mistakes cognitive decline diabetes elderly make with blood sugar management?
 
 One of the top mistakes is treating nocturnal hypoglycemia with fast-digesting carbs alone—leading to reactive hyperglycemia and increased oxidative stress in vulnerable brain tissue. Another is aiming for overly tight HbA1c targets (e.g., <6.0%) without accounting for hypoglycemia risk or glucose variability. Both can accelerate small-vessel damage reflected in white matter changes.
 
-#### #### Can mistakes cognitive decline diabetes be reversed in older adults?
+#### Can mistakes cognitive decline diabetes be reversed in older adults?
 
 Yes—many of the drivers are modifiable. Studies show that stabilizing nocturnal glucose, improving sleep quality, and optimizing 24-hour blood pressure control can slow or even halt WMH progression over 12–24 months. Brain plasticity remains active well into later life, especially when supported by consistent, gentle lifestyle support.
 
-#### #### How does untreated sleep apnea contribute to mistakes cognitive decline diabetes elderly?
+#### How does untreated sleep apnea contribute to mistakes cognitive decline diabetes elderly?
 
 Untreated sleep-disordered breathing causes intermittent hypoxia and surges in sympathetic nervous system activity—both of which raise nighttime BP and impair cerebral autoregulation. In adults with diabetes, this combination significantly increases the rate of white matter hyperintensity growth, particularly in frontal and periventricular regions tied to executive function.
 
-#### #### Is it safe to adjust my blood pressure medication timing on my own?
+#### Is it safe to adjust my blood pressure medication timing on my own?
 
 No—timing changes should always be discussed with your prescribing clinician. Some antihypertensives (e.g., diuretics) are best taken earlier in the day to avoid nighttime urination, while others (e.g., certain calcium channel blockers or ARBs) may offer greater benefit at bedtime. Your provider will consider your full regimen, kidney function, and BP pattern before recommending adjustments.
 
-#### #### What’s the link between white matter hyperintensities and dementia risk?
+#### What’s the link between white matter hyperintensities and dementia risk?
 
 Mild WMHs are common in aging and don’t predict dementia on their own. However, rapid progression—especially when paired with diabetes and vascular risk factors—increases long-term risk for vascular cognitive impairment. The encouraging part? Slowing WMH growth through targeted lifestyle and medical support is associated with preserved memory, processing speed, and executive function over time.

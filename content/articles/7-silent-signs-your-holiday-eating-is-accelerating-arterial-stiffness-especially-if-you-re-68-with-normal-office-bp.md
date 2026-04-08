@@ -102,17 +102,17 @@ If you're unsure, talking to your doctor is always a good idea. And remember: no
 
 ### FAQ
 
-#### #### What are the earliest signs of arterial stiffness after holiday meals?
+#### What are the earliest signs of arterial stiffness after holiday meals?
 The earliest signs include delayed fingertip capillary refill (>3 seconds after pressing), new morning ankle swelling appearing 12–24 hours post-feast, and worsening dizziness when standing within 2 hours of eating. These reflect transient endothelial and microvascular changes—not yet visible on standard BP checks.
 
-#### #### Can arterial stiffness occur even with normal blood pressure readings?
+#### Can arterial stiffness occur even with normal blood pressure readings?
 Yes. Arterial stiffness frequently precedes hypertension by years. Office BP measures pressure at a single point in time, while stiffness affects how energy travels through the arterial tree—best assessed via pulse wave velocity or pulse pressure widening. Many seniors with “normal” BP have elevated cfPWV (>10 m/s), indicating early vascular aging.
 
-#### #### Are signs of arterial stiffness after holiday meals reversible?
+#### Are signs of arterial stiffness after holiday meals reversible?
 Absolutely. Research shows that dietary adjustments—such as reducing sodium to <1,500 mg/day, increasing nitrate-rich vegetables (beets, arugula), and avoiding late-night high-fat meals—can improve arterial elasticity within weeks. Physical activity, even light walking, enhances endothelial function rapidly.
 
-#### #### Why do I feel dizzy after eating rich food at my age?
+#### Why do I feel dizzy after eating rich food at my age?
 In older adults, rich meals trigger blood flow redistribution to the gut—diverting volume from systemic circulation. If arteries are stiff, they cannot compensate efficiently, leading to transient drops in cerebral perfusion. This manifests as dizziness, especially when standing. It’s not just “low BP”—it’s impaired vascular responsiveness.
 
-#### #### Is morning ankle swelling after Thanksgiving a red flag for heart health?
+#### Is morning ankle swelling after Thanksgiving a red flag for heart health?
 Occasional, meal-linked swelling is usually benign—but if it recurs consistently after festive eating and lasts beyond 24 hours, it may indicate subclinical fluid retention driven by endothelial inflammation and transient albumin leakage. Paired with other signs (e.g., delayed capillary refill or widened pulse pressure), it warrants discussion with your clinician.

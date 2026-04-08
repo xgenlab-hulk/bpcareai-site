@@ -44,22 +44,22 @@ In short, your holiday traditions don’t need overhauling—just thoughtful twe
 
 ### FAQ
 
-#### #### Does using aluminum cookware during holiday meals increase Alzheimer’s risk?
+#### Does using aluminum cookware during holiday meals increase Alzheimer’s risk?
 
 No strong evidence links normal, occasional use of aluminum cookware to developing Alzheimer’s disease. However, for people *already diagnosed* with early-stage Alzheimer’s, repeated exposure—especially in acidic, high-heat cooking—may contribute to short-term cognitive fluctuations, as seen in recent imaging studies.
 
-#### #### Can aluminum from holiday meals affect cognition in older adults?
+#### Can aluminum from holiday meals affect cognition in older adults?
 
 Yes—subtly and temporarily. Research suggests that in adults 65+ with early neurodegeneration, trace aluminum from unlined pans may interact with amyloid-beta dynamics, leading to measurable but reversible changes in attention and memory over 1–3 days.
 
-#### #### What’s the safest cookware for holiday meals if I have early Alzheimer’s?
+#### What’s the safest cookware for holiday meals if I have early Alzheimer’s?
 
 Stainless steel, enameled cast iron, glass, or ceramic-coated roasting pans are excellent alternatives. They resist leaching, distribute heat evenly, and eliminate concerns about aluminum exposure during festive cooking.
 
-#### #### Is there a link between aluminum cookware holiday meals alzheimer's cognition and blood pressure?
+#### Is there a link between aluminum cookware holiday meals alzheimer's cognition and blood pressure?
 
 Not directly—but stress, inflammation, and sleep disruption (all influenced by meal timing and composition) can impact both cognition *and* vascular health. Managing one supports the other.
 
-#### #### Should I stop eating turkey cooked in aluminum pans altogether?
+#### Should I stop eating turkey cooked in aluminum pans altogether?
 
 Not necessarily—but consider rotating cookware, especially for acidic or long-cooked dishes. One meal won’t change your trajectory, but consistent habits support long-term brain resilience.

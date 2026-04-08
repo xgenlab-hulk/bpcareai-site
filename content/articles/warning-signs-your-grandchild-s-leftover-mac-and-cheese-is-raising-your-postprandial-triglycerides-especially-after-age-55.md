@@ -90,22 +90,22 @@ Getting older doesn’t mean giving up the warmth of shared meals—it means lea
 
 ### FAQ
 
-#### #### Does mac and cheese raise triglycerides more than other foods?
+#### Does mac and cheese raise triglycerides more than other foods?
 
 Yes—especially traditional versions. A typical homemade serving (1.5 cups) can contain 15–25 g of saturated fat and 60+ g of refined carbs. That combo triggers a stronger, longer-lasting triglyceride response than lean protein or whole grains alone. Healthier versions (whole-grain pasta, reduced cheese, added veggies) lower that impact significantly.
 
-#### #### Can mac and cheese postprandial triglycerides affect my blood pressure?
+#### Can mac and cheese postprandial triglycerides affect my blood pressure?
 
 Indirectly, yes. Chronically elevated post-meal triglycerides contribute to endothelial dysfunction—the lining of your arteries becomes less flexible—which over time can raise systolic and diastolic pressure. While one bowl won’t spike your BP, repeated spikes may add cumulative strain—especially after age 55.
 
-#### #### How long do mac and cheese postprandial triglycerides stay elevated?
+#### How long do mac and cheese postprandial triglycerides stay elevated?
 
 In healthy adults under 50, triglycerides usually peak at 2–3 hours and return near baseline by 4–5 hours. In adults over 55—especially with low physical activity or insulin resistance—they may remain elevated for 6–8 hours. This prolonged exposure is what concerns cardiometabolic health experts.
 
-#### #### Is it safe to eat mac and cheese if I have high cholesterol?
+#### Is it safe to eat mac and cheese if I have high cholesterol?
 
 It depends on *how* it’s made and *how much* you eat. Traditional mac and cheese is high in saturated fat—which raises LDL—but its bigger hidden impact may be on *triglycerides*, especially postprandially. Swapping ingredients and controlling portions makes it far safer. Work with a registered dietitian to personalize it.
 
-#### #### What’s a good alternative to mac and cheese for family gatherings?
+#### What’s a good alternative to mac and cheese for family gatherings?
 
 Try “zoodle mac” (spiralized zucchini mixed with light cheese sauce), baked lentil pasta with garlic-herb béchamel, or whole-wheat shells with roasted butternut squash, sage, and a sprinkle of parmesan. They deliver creaminess, comfort, and nostalgia—with less metabolic cost.

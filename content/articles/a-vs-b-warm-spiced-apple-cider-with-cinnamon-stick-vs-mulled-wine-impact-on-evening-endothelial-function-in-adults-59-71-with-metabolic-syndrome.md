@@ -94,17 +94,17 @@ And if you're still weighing your options this season—remember, **apple cider 
 
 ### FAQ
 
-#### #### Is warm apple cider better than mulled wine for seniors with high blood pressure?
+#### Is warm apple cider better than mulled wine for seniors with high blood pressure?
 Yes—especially unsweetened, gently warmed apple cider. It avoids alcohol-induced BP variability and supports endothelial nitric oxide production without the glycemic or oxidative stress that mulled wine can introduce in adults over 60. Studies show modest but consistent improvements in evening arterial flexibility with cider versus wine in this age group.
 
-#### #### What’s the healthiest mulled wine alternative for seniors?
+#### What’s the healthiest mulled wine alternative for seniors?
 A low-alcohol or alcohol-free version works best: try 3 oz organic red wine mixed with 4 oz warm pomegranate juice and a cinnamon stick—or skip wine entirely and use tart cherry juice (rich in anthocyanins) with ginger and clove. Always keep added sugars minimal (<5 g per serving).
 
-#### #### Can apple cider vs mulled wine seniors affect medication effectiveness?
+#### Can apple cider vs mulled wine seniors affect medication effectiveness?
 Potentially, yes. Alcohol can interfere with medications like metformin, certain blood pressure drugs (e.g., nitrates), and statins. Apple cider (without alcohol) poses far fewer interaction risks—and its polyphenols may even complement the action of some cardiovascular meds. Discuss patterns with your pharmacist or prescriber.
 
-#### #### Does heating apple cider destroy its health benefits?
+#### Does heating apple cider destroy its health benefits?
 Not when done gently. Steeping spices in cider below 60°C preserves most polyphenols. Boiling or prolonged high-heat cooking *can* degrade heat-sensitive compounds like quercetin—so aim for “steamy warm,” not bubbling hot.
 
-#### #### How much apple cider is safe for seniors with diabetes or prediabetes?
+#### How much apple cider is safe for seniors with diabetes or prediabetes?
 Up to 8 oz (240 mL) of unsweetened, unfiltered apple cider is generally well-tolerated—especially when consumed after a balanced meal. Check your glucose 90 minutes later to see your personal response. Always prioritize fiber-rich whole fruit first, but occasional cider is reasonable with mindful portioning.

@@ -79,22 +79,22 @@ Heart health at 64+ isn’t about perfection—it’s about thoughtful, sustaina
 
 ### FAQ
 
-#### #### Does intermittent silence central aortic pressure work for people with isolated systolic hypertension?
+#### Does intermittent silence central aortic pressure work for people with isolated systolic hypertension?
 
 Yes—especially in adults over 60, where isolated systolic hypertension (elevated top number only) often reflects increased arterial stiffness and wave reflection. Intermittent silence supports improved cfPWV and reduced augmentation index, both closely tied to central aortic systolic pressure regulation.
 
-#### #### How is intermittent silence central aortic pressure different from mindfulness or meditation?
+#### How is intermittent silence central aortic pressure different from mindfulness or meditation?
 
 Mindfulness and meditation often involve focused attention or mental engagement (e.g., breath awareness, mantra repetition). Intermittent silence emphasizes *auditory rest without instruction*—a passive, non-directed state. Research suggests this distinction matters: the absence of cognitive demand may uniquely dampen sympathetic reactivity linked to central aortic pressure.
 
-#### #### Can I get the same benefits from listening to nature sounds or white noise?
+#### Can I get the same benefits from listening to nature sounds or white noise?
 
 Not quite. Nature sounds and white noise still require auditory processing—and for many with heightened stress sensitivity, they can sustain low-grade vigilance. Intermittent silence central aortic pressure benefits appear strongest when the auditory system experiences *true minimal input*, allowing deeper autonomic recalibration.
 
-#### #### Do I need a completely soundproof room to practice intermittent silence?
+#### Do I need a completely soundproof room to practice intermittent silence?
 
 No. Even in typical home environments, closing windows, turning off devices, and choosing a quieter time of day creates enough contrast to trigger benefit. The goal is perceptible *reduction in predictable auditory load*, not absolute zero decibels.
 
-#### #### Is there a best time of day to practice intermittent silence for lowering central aortic pressure?
+#### Is there a best time of day to practice intermittent silence for lowering central aortic pressure?
 
 Mid-morning (90–120 minutes after waking) or early afternoon tends to align well with post-cortisol-peak recovery—when the nervous system is most receptive to parasympathetic support. Avoid practicing within 30 minutes of waking or right before bed if it disrupts your natural rhythm.

@@ -86,23 +86,23 @@ Holidays don’t have to mean compromise—or crisis. With thoughtful preparatio
 
 ### FAQ
 
-#### #### Does Christmas or New Year’s raise blood sugar more for people over 50?
+#### Does Christmas or New Year’s raise blood sugar more for people over 50?
 
 Research shows New Year’s Eve poses a *higher acute risk* for unpredictable glucose swings—especially lows—due to alcohol, sleep loss, and delayed meals. Christmas tends to cause more *sustained mild elevation*, thanks to repeated high-carb meals over several days. So while Christmas may raise average glucose more, New Year’s carries greater risk of dangerous variability.
 
-#### #### How does the christmas vs new year blood sugar comparison affect someone with type 2 diabetes?
+#### How does the christmas vs new year blood sugar comparison affect someone with type 2 diabetes?
 
 For adults with type 2 diabetes over 50, the **christmas vs new year blood sugar** difference lies in mechanism: Christmas challenges insulin demand (via carb load), while New Year’s challenges insulin *delivery and awareness* (via alcohol-induced hypoglycemia and disrupted routines). Both require different safeguards—portion awareness for Christmas, and timing/alcohol caution for New Year’s.
 
-#### #### Can holiday stress alone raise blood sugar—even without extra food?
+#### Can holiday stress alone raise blood sugar—even without extra food?
 
 Yes. Cortisol and epinephrine released during emotional stress increase hepatic glucose production and reduce insulin sensitivity. In adults over 50, this effect is amplified due to age-related adrenal and pancreatic changes. A 2021 *Psychosomatic Medicine* study found that perceived stress alone raised average glucose by 12–16 mg/dL over 3 days—even with identical diets.
 
-#### #### Is alcohol worse for blood sugar at Christmas or New Year’s?
+#### Is alcohol worse for blood sugar at Christmas or New Year’s?
 
 New Year’s is typically higher-risk: Champagne, mixed drinks, and late-night sipping often occur *without food*, increasing hypoglycemia risk—especially with insulin or sulfonylureas. At Christmas, alcohol is more commonly consumed *with meals*, offering some protective buffering. Still, limit to one standard drink (5 oz wine, 12 oz beer, 1.5 oz spirits) and always pair with protein.
 
-#### #### What’s a realistic blood sugar target during the holidays for someone over 50?
+#### What’s a realistic blood sugar target during the holidays for someone over 50?
 
 The ADA recommends individualized goals, but for most adults over 50, aim for:  
 - Fasting: 90–150 mg/dL  

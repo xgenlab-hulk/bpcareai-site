@@ -58,22 +58,22 @@ In short, supporting *renal sodium excretion TRPV4 activation adults 59-73* isn�
 
 ### FAQ
 
-#### #### Can TRPV4 activation really help my blood pressure at age 65?
+#### Can TRPV4 activation really help my blood pressure at age 65?
 
 Yes—especially if you have salt-sensitive hypertension. TRPV4 helps kidneys release sodium more efficiently. In adults 59–73, gentle activation via diet and rhythm has been associated with modest but meaningful BP reductions (average 4–7 mm Hg systolic over 6–8 weeks in pilot studies).
 
-#### #### What foods best support renal sodium excretion TRPV4 activation adults 59-73?
+#### What foods best support renal sodium excretion TRPV4 activation adults 59-73?
 
 Citrus peel (organic, unwaxed), cold-pressed olive oil, tart cherries, and small servings of raw garlic are top choices. All contain compounds shown to modulate TRPV4 in human-relevant concentrations—without burdening digestion or interacting with common medications.
 
-#### #### Is contrast foot soaking safe for someone with high blood pressure?
+#### Is contrast foot soaking safe for someone with high blood pressure?
 
 Generally yes—if done gently and without extremes. Keep warm water below 40°C and cool water above 15°C. Skip it during acute illness or if you have uncontrolled hypertension (BP >160/100 mm Hg). Always sit while soaking and rise slowly afterward.
 
-#### #### How does low urinary citrate relate to TRPV4 and blood pressure?
+#### How does low urinary citrate relate to TRPV4 and blood pressure?
 
 Low urinary citrate (<300 mg/day) often signals mild metabolic acidosis and reduced mitochondrial efficiency in kidney cells—both of which dampen TRPV4 activity. Restoring citrate (via diet or potassium citrate, if prescribed) can indirectly support TRPV4-mediated sodium clearance.
 
-#### #### Do I need supplements to support renal sodium excretion TRPV4 activation adults 59-73?
+#### Do I need supplements to support renal sodium excretion TRPV4 activation adults 59-73?
 
 Not necessarily. Whole-food sources (citrus peel, olive oil, berries) and lifestyle rhythms are first-line and well-tolerated. Supplements like quercetin or resveratrol have theoretical TRPV4 effects—but human data in this age group is limited, and interactions with BP meds are possible. Focus on food-first support unless advised otherwise.

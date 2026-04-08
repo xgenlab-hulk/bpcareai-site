@@ -65,17 +65,17 @@ We know holiday cooking is about love, memory, and connection — not lab report
 
 ### FAQ
 
-#### #### Can I still eat roast beef during the holidays if I have diabetic nephropathy?  
+#### Can I still eat roast beef during the holidays if I have diabetic nephropathy?  
 Yes — absolutely. Focus on preparation, not elimination. Low-temp, moist-roasted beef with herb-acid marinades has been shown to reduce AGE content by more than half compared to traditional methods — making it a safe, satisfying choice.
 
-#### #### What’s the easiest way to reduce AGEs in holiday roasts without buying new equipment?  
+#### What’s the easiest way to reduce AGEs in holiday roasts without buying new equipment?  
 Use your existing oven and a covered pot. Lower the temperature to 250°F, add a splash of broth, cover tightly, and roast slowly. No special gear needed — just patience and a thermometer.
 
-#### #### Do herbs like oregano and thyme really lower AGEs in meat?  
+#### Do herbs like oregano and thyme really lower AGEs in meat?  
 Yes — multiple studies confirm it. Oregano and thyme contain rosmarinic acid and carvacrol, which directly trap reactive carbonyls (like glyoxal) during cooking. When paired with acidic marinades, they’ve reduced measurable AGEs in roasted meats by 35–45% in controlled assays.
 
-#### #### Does slow cooking in a crockpot reduce AGEs in holiday roasts?  
+#### Does slow cooking in a crockpot reduce AGEs in holiday roasts?  
 It *can* — but only if the lid stays on and liquid is maintained. Evaporation leads to browning and AGE spikes, even at low temps. For best results, fill your slow cooker no more than ⅔ full and avoid lifting the lid frequently.
 
-#### #### Are there specific blood tests that measure AGE levels?  
+#### Are there specific blood tests that measure AGE levels?  
 Not routinely used in clinical practice yet — but research labs measure serum carboxymethyllysine (CML) or skin autofluorescence (SAF). These aren’t standard screening tools, but your doctor may consider them in complex cases of progressive nephropathy or unexplained vascular stiffness.

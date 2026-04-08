@@ -93,22 +93,22 @@ The holidays are meant to nourish more than just the body — they feed memory, 
 
 ### FAQ
 
-#### #### How can I manage blood sugar during a holiday cookie swap without giving up cookies entirely?
+#### How can I manage blood sugar during a holiday cookie swap without giving up cookies entirely?
 
 You absolutely don’t need to skip cookies — focus instead on portion size, pairing (add protein/fat), timing (avoid eating on an empty stomach), and movement (a short walk after tasting helps). Using a CGM or fingerstick meter even once or twice during the event reveals how your body responds, empowering smarter choices next time.
 
-#### #### Is holiday cookie swap glucose management only for people with diabetes?
+#### Is holiday cookie swap glucose management only for people with diabetes?
 
 No. It’s especially helpful for adults 50+ with prediabetes, insulin resistance, or a family history of type 2 diabetes — conditions affecting nearly 1 in 3 U.S. adults over 65. Since glucose dysregulation often develops silently, proactive monitoring during high-carb events can uncover early patterns worth addressing.
 
-#### #### What’s a realistic blood sugar goal during a holiday cookie swap?
+#### What’s a realistic blood sugar goal during a holiday cookie swap?
 
 For most adults over 50, aim to keep glucose under 160 mg/dL at its peak and back within 30 points of baseline within 2 hours. Occasional excursions above that are normal — what matters most is recovery speed and frequency. If spikes happen daily for more than 3 days, consider discussing with your clinician.
 
-#### #### Can stress from holiday planning affect my glucose levels during a cookie swap?
+#### Can stress from holiday planning affect my glucose levels during a cookie swap?
 
 Yes — acute stress raises cortisol, which increases liver glucose production and reduces insulin sensitivity. Pairing deep breathing (4-second inhale, 6-second exhale) with your first bite or stepping outside for 2 minutes before joining the group can meaningfully moderate this effect.
 
-#### #### Do I need a prescription for a CGM to practice holiday cookie swap glucose management?
+#### Do I need a prescription for a CGM to practice holiday cookie swap glucose management?
 
 Not necessarily. While some CGMs require prescriptions (especially for insurance coverage), others are available over-the-counter for wellness use. Discuss options with your primary care provider or endocrinologist — they can help determine whether short-term CGM use aligns with your health goals and current medications.

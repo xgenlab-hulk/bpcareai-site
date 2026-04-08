@@ -80,22 +80,22 @@ Recovery after stroke is rarely linear—and neither is blood pressure managemen
 
 ### FAQ
 
-#### #### What are the current blood pressure after stroke recovery targets for older adults?
+#### What are the current blood pressure after stroke recovery targets for older adults?
 
 According to the 2023 AHA/ASA guidelines, most adults over 50 recovering from ischemic stroke should aim for a target of **less than 130/80 mm Hg**, especially if they have additional cardiovascular risk factors. For hemorrhagic stroke, earlier control—often targeting systolic <140 mm Hg—is common. However, individual goals depend on your overall health, tolerance, and recovery progress.
 
-#### #### How soon after a stroke should I start taking blood pressure medication?
+#### How soon after a stroke should I start taking blood pressure medication?
 
 It depends on your stroke type and initial readings. For most ischemic strokes, antihypertensive medications are *not* started in the first 24–48 hours unless BP is severely elevated (e.g., >220/120 mm Hg) or there’s another urgent condition. For hemorrhagic stroke, treatment often begins within hours. Your neurologist or primary care provider will guide timing based on imaging, symptoms, and response.
 
-#### #### Can blood pressure after stroke recovery targets change over time?
+#### Can blood pressure after stroke recovery targets change over time?
 
 Yes—absolutely. Early recovery (first 1–2 weeks) focuses on stability and avoiding extremes. As healing progresses—over weeks to months—targets often become more stringent to reduce long-term stroke risk. Your care team will reassess regularly, adjusting goals based on your function, side effects, and overall wellness.
 
-#### #### Why does my blood pressure fluctuate so much after a stroke?
+#### Why does my blood pressure fluctuate so much after a stroke?
 
 Fluctuations are common after stroke due to changes in autonomic nervous system regulation, medication adjustments, altered mobility, and even shifts in daily routine. Orthostatic hypotension (a drop in BP when standing) affects up to 25% of stroke survivors. While occasional variation is normal, persistent swings warrant discussion with your clinician.
 
-#### #### Is home blood pressure monitoring reliable after stroke?
+#### Is home blood pressure monitoring reliable after stroke?
 
 Yes—when done correctly. Use an upper-arm, automated, clinically validated device; follow proper technique (quiet rest, supported arm, same time each day); and record multiple readings over several days. Home monitoring provides richer data than clinic visits alone and is strongly encouraged in current guidelines.

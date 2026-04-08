@@ -83,17 +83,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does cold-water face immersion lower heart rate immediately?
+#### Does cold-water face immersion lower heart rate immediately?
 Yes—many people notice an immediate slowing of heart rate *during* and for 30–90 seconds after immersion, thanks to the diving reflex. However, the more meaningful, sustained reductions in *resting* heart rate (like the 4.2 bpm seen in the RCT) develop gradually over several weeks of consistent practice.
 
-#### #### How long should I do cold-water face immersion for heart rate benefits?
+#### How long should I do cold-water face immersion for heart rate benefits?
 Based on the 12-week trial, 15 seconds of water at ~15°C (59°F), performed twice daily, produced measurable improvements. Beginners should start with 10 seconds once daily for 3–4 days, then gradually increase duration and frequency. Consistency matters more than intensity.
 
-#### #### Can cold-water face immersion heart rate effects help with high blood pressure?
+#### Can cold-water face immersion heart rate effects help with high blood pressure?
 Yes—indirectly. By enhancing vagal tone and lowering resting heart rate, cold-water face immersion supports healthier autonomic balance, which contributes to modest but meaningful reductions in systolic BP (as seen in the trial: −5.7 mm Hg on average). It’s not a standalone treatment for moderate or severe hypertension, but it can complement lifestyle changes like diet, movement, and stress management.
 
-#### #### Is cold-water face immersion safe for older adults with heart disease?
+#### Is cold-water face immersion safe for older adults with heart disease?
 It’s generally safe for healthy adults over 50—but *not* recommended without medical clearance if you have known arrhythmias (e.g., sick sinus syndrome), uncontrolled hypertension, or a history of stroke or heart failure. The sudden vagal surge can affect rhythm in susceptible individuals.
 
-#### #### Do I need ice-cold water for cold-water face immersion heart rate benefits?
+#### Do I need ice-cold water for cold-water face immersion heart rate benefits?
 No. Water temperature between 10–16°C (50–61°F) is effective. Very cold water (<10°C) increases discomfort and risk of gasping or breath-holding, which may blunt the desired parasympathetic response. Cool tap water—chilled in the fridge for 30 minutes—is usually ideal.

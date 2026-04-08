@@ -72,17 +72,17 @@ In short, your afternoon tea doesn’t need to be off-limits—but understanding
 
 ### FAQ  
 
-#### #### Does stevia in tea affect sodium reabsorption in older adults?  
+#### Does stevia in tea affect sodium reabsorption in older adults?  
 Yes—preliminary evidence suggests steviol glycosides may mildly inhibit ENaC channels in the distal nephron. While not clinically significant for most people, in adults 73+ on thiazides and with mild volume depletion, it may contribute to reduced sodium conservation—especially when combined with citric acid.
 
-#### #### Can citric acid in lemon tea worsen hypokalemia in thiazide users?  
+#### Can citric acid in lemon tea worsen hypokalemia in thiazide users?  
 It can. Citric acid increases distal hydrogen ion secretion, which promotes potassium excretion via H⁺/K⁺ exchange. In thiazide-treated older adults, this may deepen existing hypokalemia—potentially affecting heart rhythm and muscle function.
 
-#### #### What is tea stevia citric acid renal sodium reabsorption—and why should I care?  
+#### What is tea stevia citric acid renal sodium reabsorption—and why should I care?  
 Tea stevia citric acid renal sodium reabsorption refers to how these common beverage components interact with kidney transporters (like NCC and ENaC) to influence sodium retention. For older adults on diuretics, this interaction can amplify volume loss and electrolyte shifts—impacting blood pressure stability and daily energy.
 
-#### #### Is green tea safer than black tea for people on blood pressure meds?  
+#### Is green tea safer than black tea for people on blood pressure meds?  
 Not necessarily. Both contain caffeine (a mild diuretic) and polyphenols that may affect vascular tone—but neither is inherently “safer.” What matters more is *what you add*: lemon, stevia, or other acids/sweeteners—not the base tea itself.
 
-#### #### How much citric acid is too much for someone with mild kidney impairment?  
+#### How much citric acid is too much for someone with mild kidney impairment?  
 There’s no universal cutoff, but regularly consuming >1,000 mg/day (equivalent to ~2 tbsp fresh lemon juice) may challenge acid-base balance in adults with eGFR <60 mL/min. Discuss safe limits with your nephrologist or primary care provider.

@@ -77,22 +77,22 @@ The holidays are meant to be warm, joyful, and shared—not stressful or isolati
 
 ### FAQ
 
-#### #### Does alcohol lower blood sugar in older adults with diabetes?
+#### Does alcohol lower blood sugar in older adults with diabetes?
 
 Yes—especially when consumed without food or alongside insulin or sulfonylureas. Alcohol inhibits the liver’s ability to release glucose, and this effect is stronger in adults over 60 due to slower metabolism and age-related changes in organ function.
 
-#### #### What does research on alcohol and blood sugar say about holiday cocktails?
+#### What does research on alcohol and blood sugar say about holiday cocktails?
 
 *Research on alcohol and blood sugar* shows that mixed drinks—particularly those with added sugars (like cranberry juice, syrups, or sweetened sodas)—can cause a rapid glucose spike followed by delayed hypoglycemia. A 2023 clinical trial found that older adults who drank a rum-and-cola had twice the incidence of overnight lows compared to those who chose dry white wine with cheese.
 
-#### #### Is red wine safer than beer for blood sugar control in seniors?
+#### Is red wine safer than beer for blood sugar control in seniors?
 
 Not necessarily. While red wine has no added sugar, its alcohol content still suppresses glucose production. Beer often contains carbohydrates (10–15 g per 12 oz), which may blunt the drop—but also raise initial blood sugar. The safest choice depends more on *how much*, *when*, and *what you eat with it* than the beverage type alone.
 
-#### #### Can I drink alcohol if I have high blood pressure and diabetes?
+#### Can I drink alcohol if I have high blood pressure and diabetes?
 
 Many older adults do—but with caution. Alcohol can temporarily raise blood pressure and interfere with antihypertensive medications like ACE inhibitors or beta-blockers. The American Heart Association recommends no more than one drink per day for women and two for men—and advises discussing your specific regimen with your provider first.
 
-#### #### How long after drinking does alcohol affect blood sugar?
+#### How long after drinking does alcohol affect blood sugar?
 
 Alcohol’s glucose-lowering effect typically begins within 30–60 minutes and can last 12–16 hours—especially in older adults. That’s why checking blood sugar at bedtime *and* during the night (if possible) is strongly advised after any alcohol intake.

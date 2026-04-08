@@ -42,22 +42,22 @@ While arsenic exposure and vascular calcification pose real concerns, they’re 
 
 ### FAQ
 
-#### #### Can low-level arsenic in well water really affect my heart if I feel fine?
+#### Can low-level arsenic in well water really affect my heart if I feel fine?
 
 Yes. Chronic arsenic exposure—even below 10 µg/L—has been associated with measurable increases in pulse wave velocity and medial calcification over 5–10 years. Symptoms often appear late; early detection relies on BP tracking, PWV screening (if available), and regular echocardiograms for HFpEF evaluation.
 
-#### #### Is arsenic exposure and vascular calcification reversible?
+#### Is arsenic exposure and vascular calcification reversible?
 
 Medial calcification is largely irreversible once established, but progression can be slowed. Reducing arsenic exposure, optimizing blood pressure control (<130/80 mm Hg for most seniors), and addressing metabolic contributors (e.g., vitamin D excess, chronic kidney disease) are evidence-supported strategies.
 
-#### #### How does arsenic exposure and vascular calcification differ from coronary artery disease?
+#### How does arsenic exposure and vascular calcification differ from coronary artery disease?
 
 Arterial stiffening from arsenic primarily affects the *media* layer—leading to isolated systolic hypertension and HFpEF—whereas coronary artery disease involves *intimal* plaque buildup causing ischemia, angina, or MI. Both raise heart disease risk, but they require different diagnostic approaches (e.g., PWV vs. coronary calcium scoring).
 
-#### #### Does boiling well water remove arsenic?
+#### Does boiling well water remove arsenic?
 
 No—boiling concentrates arsenic by evaporating water. It does not remove it. Only certified filtration methods (reverse osmosis, adsorptive media) reliably reduce inorganic arsenic.
 
-#### #### Should I get tested for arsenic even if my well was tested when I bought the house?
+#### Should I get tested for arsenic even if my well was tested when I bought the house?
 
 Yes. Arsenic levels fluctuate with seasonal groundwater shifts, land use changes, and well integrity. The EPA recommends retesting private wells every 3–5 years—or sooner after flooding, drought, or nearby construction.

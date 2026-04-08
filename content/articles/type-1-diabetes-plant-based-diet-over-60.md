@@ -111,22 +111,22 @@ If you're unsure, talking to your doctor is always a good idea. And remember: a 
 
 ### FAQ
 
-#### #### Is a plant-based diet safe for someone with type 1 diabetes over 60?
+#### Is a plant-based diet safe for someone with type 1 diabetes over 60?
 
 Yes—with thoughtful planning. Older adults with type 1 diabetes can thrive on plant-based eating, but require attention to protein timing, micronutrient status (especially B12, iodine, selenium), and insulin dosing adjustments for slowed digestion. Work with a dietitian experienced in both diabetes and aging.
 
-#### #### How does gastroparesis affect a type 1 diabetes plant-based diet over 60?
+#### How does gastroparesis affect a type 1 diabetes plant-based diet over 60?
 
 Gastroparesis slows stomach emptying, making carb absorption unpredictable. High-fiber plant foods may worsen bloating or delay glucose peaks—so prioritize well-cooked, lower-insoluble-fiber options (like peeled apples, oatmeal, lentil soup) and consider splitting insulin doses.
 
-#### #### Can a type 1 diabetes plant-based diet over 60 improve hypothyroidism?
+#### Can a type 1 diabetes plant-based diet over 60 improve hypothyroidism?
 
 It won’t reverse autoimmune hypothyroidism, but it *can* support thyroid health—especially when rich in selenium (Brazil nuts), zinc (pumpkin seeds), and balanced iodine (small servings of nori). Avoid excessive raw cruciferous vegetables (e.g., large salads of kale or broccoli) unless cooked, as they contain goitrogens that may interfere with iodine uptake in sensitive individuals.
 
-#### #### Do I need to take supplements on a type 1 diabetes plant-based diet over 60?
+#### Do I need to take supplements on a type 1 diabetes plant-based diet over 60?
 
 Most people benefit from vitamin B12 (2.4 mcg/day), vitamin D (800–1000 IU/day), and possibly selenium (55–70 mcg/day) and iodine (150 mcg/day)—but only after lab testing and discussion with your provider. Avoid self-prescribing high-dose iodine or iron without confirmation of deficiency.
 
-#### #### Will my insulin needs decrease on a type 1 diabetes plant-based diet over 60?
+#### Will my insulin needs decrease on a type 1 diabetes plant-based diet over 60?
 
 Not necessarily—and certainly not uniformly. Some people see improved insulin sensitivity and lower total doses; others need *more* precise dosing due to delayed gastric emptying. Always monitor closely and adjust under medical guidance—never reduce basal or bolus insulin without consultation.

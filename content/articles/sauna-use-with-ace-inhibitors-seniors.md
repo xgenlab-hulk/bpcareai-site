@@ -55,17 +55,17 @@ In short: sauna use with ace inhibitors seniors is not off-limits—it’s an op
 
 ### FAQ
 
-#### #### Can seniors on ACE inhibitors safely use a sauna?
+#### Can seniors on ACE inhibitors safely use a sauna?
 Yes—most can, provided they follow conservative guidelines: limiting temperature to ≤70°C, duration to ≤15 minutes, and monitoring for dizziness or excessive BP drops. Always discuss your plan with your cardiologist or primary care provider first.
 
-#### #### Is sauna use with ACE inhibitors seniors safe for people with mild LV hypertrophy?
+#### Is sauna use with ACE inhibitors seniors safe for people with mild LV hypertrophy?
 Generally, yes. Mild LV hypertrophy reflects adaptive remodeling—not acute instability—and doesn’t preclude sauna use. However, because ACE inhibitors and heat both reduce afterload, closer attention to BP response and recovery is advised.
 
-#### #### Does sauna use with ACE inhibitors seniors lower blood pressure too much?
+#### Does sauna use with ACE inhibitors seniors lower blood pressure too much?
 It *can*, especially if combined with dehydration or rapid cooling. Research shows average systolic BP drops of 10–20 mm Hg during sauna use—normal for healthy adults—but seniors on ACE inhibitors may see drops up to 25–30 mm Hg. That’s why measuring post-sauna BP and allowing full recovery time matters.
 
-#### #### Should I skip my ACE inhibitor on sauna days?
+#### Should I skip my ACE inhibitor on sauna days?
 No. Skipping doses can cause rebound hypertension and is never recommended without explicit guidance from your prescribing clinician.
 
-#### #### What’s the safest time of day for sauna use with ACE inhibitors?
+#### What’s the safest time of day for sauna use with ACE inhibitors?
 Early afternoon (between 12–3 p.m.) tends to align best with natural circadian BP rhythms in older adults—when systolic pressure is typically most stable and orthostatic risk lowest.

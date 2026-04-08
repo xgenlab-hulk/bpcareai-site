@@ -86,22 +86,22 @@ Heart health in later life isn’t about perfection—it’s about thoughtful st
 
 ### FAQ
 
-#### #### Does vitamin D improve left atrial strain in older adults?
+#### Does vitamin D improve left atrial strain in older adults?
 
 Yes—according to the 12-month D-HEART trial, daily 1,000 IU vitamin D3 led to a modest but statistically significant improvement in left atrial reservoir strain among adults 65+ with subclinical deficiency and preserved ejection fraction. The effect was strongest in those who achieved serum 25(OH)D levels ≥30 ng/mL.
 
-#### #### What is a normal left atrial strain value for seniors?
+#### What is a normal left atrial strain value for seniors?
 
 In healthy adults aged 65–75, typical left atrial reservoir strain ranges from −20% to −26%. Values above −18% may indicate early reduction in atrial elasticity—especially if accompanied by other signs of diastolic burden, such as elevated E/e′ or NT-proBNP.
 
-#### #### Can vitamin D left atrial strain seniors be measured at any clinic?
+#### Can vitamin D left atrial strain seniors be measured at any clinic?
 
 Not quite. Left atrial strain requires specialized echocardiography with speckle-tracking software and trained interpreters—so it’s most commonly available at larger hospitals or academic cardiology centers. Ask your cardiologist whether your echo report includes strain analysis, and whether repeating it in 6–12 months could offer useful insight.
 
-#### #### Is 1,000 IU of vitamin D3 safe for seniors every day?
+#### Is 1,000 IU of vitamin D3 safe for seniors every day?
 
 Yes. The Institute of Medicine and Endocrine Society both consider 1,000–2,000 IU/day safe and appropriate for most adults over age 65. Higher doses may be needed for repletion under medical guidance—but routine daily use above 4,000 IU is not recommended without testing and supervision.
 
-#### #### Does improving vitamin D levels lower blood pressure in seniors?
+#### Does improving vitamin D levels lower blood pressure in seniors?
 
 Evidence is mixed. Some meta-analyses show small reductions in systolic BP (around 2–3 mm Hg) with vitamin D repletion, particularly in those with baseline deficiency and hypertension. However, the D-HEART trial did not observe significant BP changes, suggesting vitamin D’s potential benefit for left atrial strain may occur through other pathways—like reducing myocardial fibrosis or inflammation.

@@ -89,22 +89,22 @@ Living well with asymptomatic chronic pancreatitis doesn’t require deprivation
 
 ### FAQ
 
-#### #### Are holiday nut mixes chronic pancreatitis seniors safe to eat at all?
+#### Are holiday nut mixes chronic pancreatitis seniors safe to eat at all?
 
 Yes—with modifications. Raw or lightly toasted, unsalted, single-variety nuts in modest portions (¼ cup max, 2–3x/week) are generally well-tolerated. Avoid roasted, salted, or candy-coated blends, especially those high in omega-6 fats like sunflower or pumpkin seeds.
 
-#### #### What’s the safest nut option for seniors with chronic pancreatitis during the holidays?
+#### What’s the safest nut option for seniors with chronic pancreatitis during the holidays?
 
 Raw almonds and raw cashews are among the best choices: lower in omega-6, easier to digest, and less prone to oxidation. Soak them for 4–6 hours before eating to further reduce phytic acid and improve enzyme accessibility.
 
-#### #### Can holiday nut mixes chronic pancreatitis seniors cause diabetes to worsen?
+#### Can holiday nut mixes chronic pancreatitis seniors cause diabetes to worsen?
 
 Indirectly, yes. Chronic low-grade pancreatic inflammation may accelerate beta-cell dysfunction over time. While nuts alone won’t trigger diabetes, frequent consumption of pro-inflammatory, high-fat mixes may contribute to insulin resistance—especially when combined with sedentary holiday routines and disrupted sleep.
 
-#### #### Do I need to stop eating nuts entirely if I have asymptomatic chronic pancreatitis?
+#### Do I need to stop eating nuts entirely if I have asymptomatic chronic pancreatitis?
 
 No. Elimination isn’t necessary or evidence-based. Instead, focus on *how* they’re prepared, *which kinds*, and *how much*—not whether. Most adults with MRCP-confirmed disease maintain stable elastase-1 when following mindful nut guidelines.
 
-#### #### Is fecal elastase-1 testing covered by Medicare for seniors with known chronic pancreatitis?
+#### Is fecal elastase-1 testing covered by Medicare for seniors with known chronic pancreatitis?
 
 Yes—Medicare Part B typically covers fecal elastase-1 testing when ordered by a physician for evaluation of suspected exocrine pancreatic insufficiency, including in patients with known chronic pancreatitis. Prior authorization may be required depending on your plan.

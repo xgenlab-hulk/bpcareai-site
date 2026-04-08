@@ -89,22 +89,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What are the earliest signs of cardiac amyloidosis in older adults?
+#### What are the earliest signs of cardiac amyloidosis in older adults?
 
 The earliest signs often involve *multiple systems*: orthostatic hypotension (lightheadedness on standing), bilateral carpal tunnel syndrome (often recurrent), spinal stenosis, unexplained left ventricular thickening on echo, and fatigue disproportionate to activity. Importantly, heart failure symptoms like breathlessness may appear *later*—making these “non-cardiac” clues especially valuable for cardiac amyloidosis early detection orthostasis.
 
-#### #### Can cardiac amyloidosis early detection orthostasis happen without heart failure symptoms?
+#### Can cardiac amyloidosis early detection orthostasis happen without heart failure symptoms?
 
 Yes—absolutely. Many people with early ATTR-CM have *no* shortness of breath, no edema, and preserved ejection fraction. Orthostatic hypotension may be the *first* noticeable symptom—arising from amyloid deposits in autonomic nerves and small cardiac vessels—making it a critical entry point for cardiac amyloidosis early detection orthostasis.
 
-#### #### Is carpal tunnel syndrome really linked to heart disease?
+#### Is carpal tunnel syndrome really linked to heart disease?
 
 Yes—in particular, to transthyretin cardiac amyloidosis (ATTR-CM). Up to 70% of people later diagnosed with ATTR-CM report prior carpal tunnel syndrome, often bilateral and sometimes requiring multiple surgeries. It’s not that carpal tunnel *causes* heart disease—it’s that both can stem from the same underlying process: misfolded transthyretin protein depositing in tendons *and* the heart. So yes—carpal tunnel + orthostasis in someone 79+ deserves thoughtful evaluation for heart disease.
 
-#### #### How accurate is strain echocardiography for detecting early cardiac amyloidosis?
+#### How accurate is strain echocardiography for detecting early cardiac amyloidosis?
 
 Strain echo is highly sensitive for early ATTR-CM. Studies show an apical sparing pattern has >90% specificity and ~85% sensitivity—even before wall thickening or diastolic dysfunction appear on standard echo. When combined with clinical clues like orthostasis and carpal tunnel, it significantly improves diagnostic accuracy without radiation or biopsy.
 
-#### #### Do I need a heart biopsy to confirm cardiac amyloidosis?
+#### Do I need a heart biopsy to confirm cardiac amyloidosis?
 
 Not usually—especially for suspected ATTR-CM. Over 95% of cases can now be confirmed non-invasively using a combination of: (1) normal serum free light chains (to rule out AL), and (2) positive technetium-99m PYP scintigraphy (a nuclear imaging test). Heart biopsy remains reserved for atypical cases or when AL amyloidosis is strongly suspected despite normal FLC tests.

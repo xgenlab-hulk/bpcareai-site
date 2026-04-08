@@ -40,17 +40,17 @@ In short, dessert portion control visual decline is not a barrier to joy—it’
 
 ### FAQ  
 
-#### #### What are the best visual cues for dessert portion control with age-related visual decline?  
+#### What are the best visual cues for dessert portion control with age-related visual decline?  
 Evidence-based cues include high-contrast plating (e.g., dark plate for vanilla cake), tactile rim markers on bowls, and pre-portioned ½-cup dessert cups—all validated in geriatric visual ergonomics studies for adults 80+.
 
-#### #### How does dessert portion control visual decline affect blood pressure in seniors?  
+#### How does dessert portion control visual decline affect blood pressure in seniors?  
 Excess sugar and calories from oversized desserts can contribute to post-meal arterial pressure elevation and long-term BP drift—especially when visual misjudgment leads to habitual overconsumption. Managing portion size via visual cues helps support stable systolic and diastolic readings.
 
-#### #### Can dessert portion control visual decline be improved with lifestyle changes?  
+#### Can dessert portion control visual decline be improved with lifestyle changes?  
 While age-related visual processing changes aren’t reversible, their impact on eating behavior *is* highly modifiable. Contrast enhancement, tactile feedback, and structured serving tools reduce reliance on declining visual estimation—making healthy eating during family gatherings both practical and sustainable.
 
-#### #### Is it safe to use smaller plates for dessert portion control in older adults?  
+#### Is it safe to use smaller plates for dessert portion control in older adults?  
 Smaller plates *can* help—but only when paired with adequate visual contrast. Without contrast or tactile cues, a small white plate holding lemon tart may still appear “half-empty” to someone with reduced contrast sensitivity, leading to unintentional over-serving.
 
-#### #### What’s the recommended dessert portion size for adults over 75?  
+#### What’s the recommended dessert portion size for adults over 75?  
 A standard appropriate portion is ½ cup (about 120 mL) of most desserts—equivalent to ~150–200 calories and ≤15 g added sugar. This aligns with American Heart Association guidelines for older adults managing cardiovascular and metabolic health.

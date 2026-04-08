@@ -81,22 +81,22 @@ In closing, it’s completely normal — and biologically wise — to adjust you
 
 ### FAQ
 
-#### #### Does intermittent fasting gender glycogen resynthesis affect blood pressure in older adults?
+#### Does intermittent fasting gender glycogen resynthesis affect blood pressure in older adults?
 
 Yes — indirectly. When glycogen resynthesis is inefficient (e.g., due to mistimed fasting or hormonal mismatch), it can contribute to overnight glucose variability and sympathetic nervous system activation — both linked to elevated morning BP. Stabilizing glycogen turnover supports smoother circadian BP patterns, especially the natural nighttime dip. Studies show adults with prediabetes who align fasting with hormonal rhythms see modest reductions in systolic BP (average 4–6 mm Hg) over 12 weeks.
 
-#### #### How does intermittent fasting gender glycogen resynthesis differ after menopause?
+#### How does intermittent fasting gender glycogen resynthesis differ after menopause?
 
 After menopause, lower estradiol reduces glycogen synthase activation in the liver — especially in response to carbohydrates eaten late in the day. This means women 58–66 may need shorter fasting windows (12–14 hours) and daytime-focused carb intake to optimize resynthesis. Importantly, progesterone from adipose tissue can still modulate this process — so individual variation remains high.
 
-#### #### Can intermittent fasting gender glycogen resynthesis improve insulin resistance in prediabetes?
+#### Can intermittent fasting gender glycogen resynthesis improve insulin resistance in prediabetes?
 
 Yes — when personalized. Research shows that women with prediabetes following a hormone-aware 13-hour fasting protocol saw a 19% improvement in HOMA-IR over 16 weeks, compared to 12% in men on a 15-hour protocol — underscoring that *how* you fast matters more than *how long*. The key is matching fasting duration and meal timing to your hormonal and circadian context.
 
-#### #### Is intermittent fasting safe for people with borderline high blood pressure?
+#### Is intermittent fasting safe for people with borderline high blood pressure?
 
 Generally yes — and potentially beneficial — when done gently and monitored. Fasting can support vascular health by reducing oxidative stress and improving endothelial function. However, rapid shifts in sodium/water balance during early fasting may cause transient BP fluctuations. That’s why pairing fasting with consistent hydration, potassium-rich foods (like spinach, avocado, banana), and daily BP checks is recommended.
 
-#### #### What lab tests best reflect intermittent fasting gender glycogen resynthesis?
+#### What lab tests best reflect intermittent fasting gender glycogen resynthesis?
 
 No single test measures it directly, but useful indicators include: fasting insulin, HOMA-IR, oral glucose tolerance test (OGTT) with insulin assay, and continuous glucose monitoring (CGM) metrics like time-in-range (70–140 mg/dL) and glucose variability (coefficient of variation <12%). For deeper insight, some functional labs offer serum adiponectin and sex-hormone-binding globulin (SHBG) — both correlate with estradiol activity and metabolic flexibility.

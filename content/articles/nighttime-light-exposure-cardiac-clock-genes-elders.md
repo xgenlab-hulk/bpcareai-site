@@ -61,17 +61,17 @@ Circadian biology isn’t rigid—it’s adaptable. Even small, consistent chang
 
 ### FAQ
 
-#### #### Does nighttime light exposure cardiac clock genes elders affect blood pressure directly?  
+#### Does nighttime light exposure cardiac clock genes elders affect blood pressure directly?  
 Yes—studies link chronic nighttime light exposure to a 20% higher risk of nocturnal hypertension (BP that doesn’t dip ≥10% at night) in adults over 60. This blunted “dipping” pattern correlates strongly with BMAL1 suppression and increased arterial stiffness.
 
-#### #### How does nighttime light exposure cardiac impact people with prior shift work?  
+#### How does nighttime light exposure cardiac impact people with prior shift work?  
 Elders with 15+ years of shift work show 3x greater PER2 phase delay compared to non-shift peers—meaning their heart cells’ internal timing lags behind real-world night/day cues, contributing to long-term diastolic strain.
 
-#### #### Can reducing nighttime light exposure cardiac clock genes elders improve heart function?  
+#### Can reducing nighttime light exposure cardiac clock genes elders improve heart function?  
 In a 12-week trial of adults aged 62–71 with elevated NT-proBNP, those using amber glasses + blackout strategies saw a 15% average drop in NT-proBNP and improved E/e′ ratio (an echo measure of diastolic function)—suggesting measurable reversal potential.
 
-#### #### What’s the safest light level at night for heart health in older adults?  
+#### What’s the safest light level at night for heart health in older adults?  
 Under 10 lux (equivalent to a dim nightlight across the room) is ideal. For reference: smartphone screens emit 30–100 lux at arm’s length—enough to significantly suppress melatonin and disrupt REV-ERBα signaling in elders.
 
-#### #### Is there a blood test to check if my cardiac clock genes are disrupted?  
+#### Is there a blood test to check if my cardiac clock genes are disrupted?  
 Not routinely—BMAL1 and PER2 aren’t measured clinically. But NT-proBNP, along with 24-hour BP monitoring and sleep studies assessing melatonin onset, provide strong functional clues about circadian-cardiac alignment.

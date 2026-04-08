@@ -45,22 +45,22 @@ Heart health isn’t about perfection—it’s about steady, kind choices that a
 
 ### FAQ
 
-#### #### Does fruit consumption help lower blood pressure in seniors?
+#### Does fruit consumption help lower blood pressure in seniors?
 
 Yes—especially fruits high in potassium (like bananas, oranges, and melons) and fiber (like apples and pears). Potassium helps relax blood vessel walls and counteracts sodium’s effects, supporting healthier arterial pressure over time.
 
-#### #### How much fruit should seniors eat daily for heart disease prevention?
+#### How much fruit should seniors eat daily for heart disease prevention?
 
 Most guidelines recommend 1.5 to 2 cups of whole fruit per day for adults over 60. That’s about two medium-sized pieces of fruit or a small bowl of berries. Consistency matters more than occasional large portions.
 
-#### #### Is fruit consumption and heart disease prevention seniors should prioritize different from younger adults?
+#### Is fruit consumption and heart disease prevention seniors should prioritize different from younger adults?
 
 The core principles are similar—but older adults often benefit even more from fruit’s fiber and antioxidants, given natural declines in metabolism, blood vessel elasticity, and antioxidant defenses with age. Prioritizing whole fruit over juice becomes especially important after 60.
 
-#### #### Can eating too much fruit raise blood sugar in seniors?
+#### Can eating too much fruit raise blood sugar in seniors?
 
 For most healthy seniors, whole fruit poses little risk—it’s the fiber that slows sugar absorption. However, those with type 2 diabetes or insulin resistance may benefit from pairing fruit with protein or healthy fat (e.g., apple slices with almond butter) and monitoring how their body responds.
 
-#### #### Are frozen or canned fruits as good for heart health as fresh ones?
+#### Are frozen or canned fruits as good for heart health as fresh ones?
 
 Yes—when chosen wisely. Frozen fruits retain most nutrients and are free of added sugars. Canned fruits in water or 100% juice (not syrup) are also excellent. Just check labels to avoid added sugars or sodium.

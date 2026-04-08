@@ -57,17 +57,17 @@ Holiday moments—however complicated—are fleeting. Your heart is resilient, a
 
 ### FAQ
 
-#### #### Can emotional stress cause heart arrhythmia in healthy adults?
+#### Can emotional stress cause heart arrhythmia in healthy adults?
 Yes—especially during periods of heightened emotion like family gatherings. Even adults with no prior heart diagnosis can experience temporary rhythm changes due to surges in stress hormones, caffeine, or disrupted routines. These episodes are usually brief and reversible with rest and reassessment.
 
-#### #### How does emotional stress and heart arrhythmia relate to holiday heart syndrome?
+#### How does emotional stress and heart arrhythmia relate to holiday heart syndrome?
 Holiday heart syndrome refers to arrhythmias—most commonly atrial fibrillation—that appear around festive times. While alcohol is often highlighted, emotional stress and heart arrhythmia play an equally important role. The combination of psychological strain, altered sleep, and dietary shifts creates a “perfect storm” for rhythm sensitivity.
 
-#### #### What’s the difference between normal heart fluttering and something serious?
+#### What’s the difference between normal heart fluttering and something serious?
 A brief, isolated flutter or skipped beat—especially during stress—is common and usually benign. But if flutters happen frequently (more than a few times a week), last longer than a minute, or come with dizziness, fatigue, or shortness of breath, it’s wise to consult your doctor for evaluation.
 
-#### #### Does anxiety directly cause arrhythmia, or is it just a symptom?
+#### Does anxiety directly cause arrhythmia, or is it just a symptom?
 Anxiety doesn’t *cause* arrhythmia in the way structural heart disease does—but it can trigger or unmask them. Heightened sympathetic nervous system activity from anxiety raises heart rate and BP, potentially provoking ectopic beats or AFib in susceptible individuals. Managing anxiety supports overall cardiac stability.
 
-#### #### Are blood pressure spikes during arguments dangerous for older adults?
+#### Are blood pressure spikes during arguments dangerous for older adults?
 Yes—repeated spikes above 180/120 mm Hg (“hypertensive urgency”) can strain arteries and increase arrhythmia risk. Even milder but frequent elevations (e.g., 150/95 mm Hg during conflict) contribute to long-term wear on the heart’s rhythm system. Learning de-escalation and self-regulation helps protect both emotional and cardiovascular health.

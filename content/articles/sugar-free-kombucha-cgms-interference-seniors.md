@@ -50,17 +50,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does sugar-free kombucha affect CGM readings in seniors?  
+#### Does sugar-free kombucha affect CGM readings in seniors?  
 Yes — many “sugar-free” kombuchas contain gluconic acid, which can interfere with certain CGM sensors in adults 65+, causing temporary false elevations. This *sugar-free kombucha cgms interference seniors* issue is well-documented but easily managed with awareness and verification.
 
-#### #### Is sugar-free kombucha safe for people with diabetes?  
+#### Is sugar-free kombucha safe for people with diabetes?  
 Yes — gluconic acid does not raise blood glucose or impact insulin needs. It’s metabolized differently and poses no clinical risk. The concern is limited to CGM *readings*, not health outcomes.
 
-#### #### How can I tell if my kombucha is causing CGM interference?  
+#### How can I tell if my kombucha is causing CGM interference?  
 Try a fingerstick glucose test 30–45 minutes after drinking. If your blood glucose is normal (<140 mg/dL) but your CGM shows a spike, gluconic acid may be the culprit. Repeat with a different brand to compare.
 
-#### #### Are there kombucha brands safe for CGM users over 65?  
+#### Are there kombucha brands safe for CGM users over 65?  
 A growing number of small-batch producers now publish gluconic acid testing results. Look for brands that disclose ≤0.3 g/dL or explicitly state “CGM-compatible” based on third-party validation.
 
-#### #### Does sugar-free kombucha cgms interference seniors happen with all CGM models?  
+#### Does sugar-free kombucha cgms interference seniors happen with all CGM models?  
 No — newer enzymatic CGMs (e.g., Dexcom G7, Medtronic Guardian 4) show significantly less cross-reactivity. Older models and non-enzymatic devices remain more susceptible.

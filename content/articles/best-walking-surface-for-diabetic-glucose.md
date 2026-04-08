@@ -40,22 +40,22 @@ In summary, movement remains one of the most accessible tools for supporting met
 
 ### FAQ
 
-#### #### What is the best walking surface for diabetic glucose control in seniors?
+#### What is the best walking surface for diabetic glucose control in seniors?
 
 The best walking surface for diabetic glucose control in seniors—particularly those 70+ with flat feet and reduced ankle sensation—is textured rubber. It delivers optimal plantar pressure variation to stimulate GLUT4 translocation while minimizing fall risk and joint strain.
 
-#### #### Is walking on grass better than pavement for blood sugar in diabetics?
+#### Is walking on grass better than pavement for blood sugar in diabetics?
 
 Yes—dry, even grass offers mild sensory challenge and improved pressure distribution versus rigid pavement, leading to modestly greater interstitial glucose declines (≈5–10 mg/dL more at 60 minutes) in older adults with type 2 diabetes. However, it must be well-maintained and free of hidden roots or holes.
 
-#### #### Can walking on sand help lower blood sugar for people with diabetes?
+#### Can walking on sand help lower blood sugar for people with diabetes?
 
 Loose or deep sand is *not recommended* for adults 70+ with diabetes and flat feet. While it increases muscle activation, it also significantly raises instability and energy cost—potentially reducing walking duration and increasing injury risk without meaningful added glucose benefit.
 
-#### #### Does walking surface affect A1C levels over time?
+#### Does walking surface affect A1C levels over time?
 
 Consistent use of an appropriate surface (e.g., textured rubber) combined with regular walking (≥150 min/week) may contribute to A1C reductions of 0.3–0.5% over 3–6 months—especially when paired with dietary self-management and medication adherence.
 
-#### #### What surfaces should people with diabetic neuropathy avoid?
+#### What surfaces should people with diabetic neuropathy avoid?
 
 People with diabetic neuropathy should avoid gravel, cobblestones, uneven dirt trails, and deep sand. These surfaces limit protective sensation and increase risk of undetected trauma, blistering, or falls. Prioritize level, textured rubber or short-mown grass with visual clarity and even footing.

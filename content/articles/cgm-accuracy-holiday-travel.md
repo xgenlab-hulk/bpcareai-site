@@ -85,17 +85,17 @@ Holiday travel doesn’t have to mean guessing about your glucose. Understanding
 
 ### FAQ
 
-#### #### Does altitude really affect my CGM readings—or is it just anecdotal?
+#### Does altitude really affect my CGM readings—or is it just anecdotal?
 Yes—it’s backed by lab and real-world studies. At typical cabin altitudes (~6,500 ft), reduced oxygen partial pressure slows glucose oxidase reaction kinetics, causing delays and underestimation. Clinical trials show average deviations of 12–18 mg/dL during ascent/descent phases.
 
-#### #### How can I improve cgm accuracy holiday travel for my mom who flies monthly?
+#### How can I improve cgm accuracy holiday travel for my mom who flies monthly?
 Start new sensors 2 days before each trip, keep all supplies in climate-stable carry-on luggage, encourage hydration with electrolyte-enhanced water (if cleared by her cardiologist), and use fingerstick checks before insulin dosing. Also, review her logs together weekly—look for patterns like “lower CGM at 3 PM on return flights.”
 
-#### #### Why does my CGM alarm go off constantly during flights—even when my fingerstick is normal?
+#### Why does my CGM alarm go off constantly during flights—even when my fingerstick is normal?
 This often points to *humidity-induced calibration drift*, not true hypoglycemia. Dry cabin air alters interstitial fluid composition, confusing factory-calibrated algorithms. The fix? Confirm with a fingerstick *before* treating—and mute non-critical alarms during flight (most apps allow this for set periods).
 
-#### #### Can cold weather at my destination mess up my CGM too?
+#### Can cold weather at my destination mess up my CGM too?
 Absolutely—especially if your sensor or transmitter gets chilled below 10°C (50°F). Cold slows enzyme activity and can cause temporary signal loss or “frozen” readings. Keep your arm covered, avoid holding cold drinks against the sensor site, and warm up indoors for 15 minutes before checking trends.
 
-#### #### Is cgm accuracy holiday travel worse for people over 70 compared to those in their 50s?
+#### Is cgm accuracy holiday travel worse for people over 70 compared to those in their 50s?
 Yes—studies suggest age-related reductions in skin perfusion, slower interstitial fluid turnover, and higher rates of polypharmacy amplify environmental effects. Adults 66+ show ~30% more sensor variability during travel than adults 50–59, even with identical devices and routines.

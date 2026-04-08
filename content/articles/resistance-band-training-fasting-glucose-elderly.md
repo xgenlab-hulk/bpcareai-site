@@ -78,22 +78,22 @@ Improving glucose control and rebuilding muscle resilience isn’t reserved for 
 
 ### FAQ
 
-#### #### Does resistance band training lower fasting glucose in seniors over 70?
+#### Does resistance band training lower fasting glucose in seniors over 70?
 
 Yes—clinical evidence shows that 10 minutes daily of progressive resistance band training, performed 5 days/week for 12 weeks, lowered average fasting glucose by 12% in adults aged 67–79 with sarcopenic obesity. Benefits were linked to improved GLUT4 translocation and muscle capillary growth—not just weight loss.
 
-#### #### Can resistance band training fasting glucose elderly help prevent type 2 diabetes?
+#### Can resistance band training fasting glucose elderly help prevent type 2 diabetes?
 
 Absolutely. Since prediabetes (fasting glucose 100–125 mg/dL) affects nearly 1 in 3 adults over 65, interventions that enhance muscle glucose uptake—like resistance band training fasting glucose elderly routines—are frontline prevention strategies. Consistent training improves insulin sensitivity independently of BMI.
 
-#### #### How soon can I see changes in my fasting glucose with resistance bands?
+#### How soon can I see changes in my fasting glucose with resistance bands?
 
 Most participants in the 12-week trial saw measurable reductions by week 4 (average drop of ~5 mg/dL), with continued improvement through week 12. Individual responses vary—especially with medication use or chronic inflammation—so tracking weekly provides the clearest picture.
 
-#### #### Do I need special bands or equipment?
+#### Do I need special bands or equipment?
 
 No. Standard loop or tube-style resistance bands (with handles or door anchors) are sufficient. Start with light or medium resistance and progress only when exercises feel comfortably controlled for all reps. Avoid “max effort” bands that compromise form.
 
-#### #### Is resistance band training safe for people with high blood pressure?
+#### Is resistance band training safe for people with high blood pressure?
 
 Generally, yes—especially when performed at moderate intensity with proper breathing. Resistance exercise causes transient BP elevation, but regular training leads to long-term reductions in resting systolic BP (by ~5–7 mm Hg on average). Always consult your provider if BP exceeds 160/100 mm Hg at rest.

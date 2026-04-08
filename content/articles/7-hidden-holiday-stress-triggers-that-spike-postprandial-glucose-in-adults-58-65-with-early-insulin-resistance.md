@@ -95,22 +95,22 @@ Holiday stress and blood sugar spikes don’t have to define your December. You�
 
 ### FAQ
 
-#### #### Does holiday stress and blood sugar spikes affect people with prediabetes more than those with normal glucose?
+#### Does holiday stress and blood sugar spikes affect people with prediabetes more than those with normal glucose?
 
 Yes. Prediabetes reflects existing beta-cell strain and reduced insulin sensitivity—so stress-induced cortisol and catecholamines exert a proportionally larger effect. Studies show adults with prediabetes experience 30–40% greater postprandial glucose excursions during acute stress versus normoglycemic peers.
 
-#### #### Can holiday stress and blood sugar spikes raise blood pressure too?
+#### Can holiday stress and blood sugar spikes raise blood pressure too?
 
 Absolutely. The same sympathetic activation that impairs insulin signaling also increases cardiac output and peripheral vascular resistance. It’s common to see concurrent rises: a 15–25 mg/dL glucose increase often coincides with a 5–10 mm Hg systolic BP rise in adults 58–65.
 
-#### #### What’s the best time to check blood sugar during holiday meals to catch stress-related spikes?
+#### What’s the best time to check blood sugar during holiday meals to catch stress-related spikes?
 
 Test at 30, 60, and 120 minutes after your first bite—not just fasting or random checks. Stress-related spikes often peak earlier (at 30–60 min) than food-only spikes (typically 60–90 min), revealing the unique contribution of cortisol and epinephrine.
 
-#### #### Is it normal for blood sugar to go over 200 mg/dL after a holiday meal—even if I’m careful?
+#### Is it normal for blood sugar to go over 200 mg/dL after a holiday meal—even if I’m careful?
 
 Occasional readings above 200 mg/dL may happen, but consistency matters. If 2-hour postprandial glucose exceeds 200 mg/dL in three or more meals across a week—especially without heavy carb intake—it suggests stress or other factors are significantly impairing insulin action and warrants clinical review.
 
-#### #### Do blood pressure medications affect postprandial glucose?
+#### Do blood pressure medications affect postprandial glucose?
 
 Some do. Beta-blockers (e.g., metoprolol) can mask hypoglycemia symptoms and slightly blunt insulin secretion. Thiazide diuretics (e.g., hydrochlorothiazide) may raise fasting glucose by ~2–5 mg/dL long-term. Always discuss medication effects with your prescriber—never adjust doses independently.

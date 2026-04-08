@@ -56,17 +56,17 @@ Seasonal depression in older adults is both real and treatable—and recognizing
 
 ### FAQ
 
-#### #### What are the most common signs of seasonal depression in seniors?  
+#### What are the most common signs of seasonal depression in seniors?  
 The most common signs include increased fatigue, oversleeping or insomnia, carbohydrate cravings, social withdrawal, difficulty concentrating, and low motivation—even without obvious sadness. These symptoms typically begin in late fall and ease by early spring.
 
-#### #### Can seasonal depression in older adults be mistaken for dementia?  
+#### Can seasonal depression in older adults be mistaken for dementia?  
 Yes—especially when memory lapses, confusion, or apathy appear. However, unlike dementia, seasonal depression symptoms tend to fluctuate with the seasons and improve with light exposure or treatment. A thorough evaluation helps distinguish between the two.
 
-#### #### Are there physical signs of seasonal depression in seniors besides mood changes?  
+#### Are there physical signs of seasonal depression in seniors besides mood changes?  
 Yes. Physical signs can include unexplained aches, slower movement, digestive changes, weight gain, and elevated blood pressure. These often reflect the body’s stress response to low light and disrupted circadian rhythms.
 
-#### #### How is seasonal depression different from regular depression in older adults?  
+#### How is seasonal depression different from regular depression in older adults?  
 Seasonal depression follows a predictable pattern—usually worsening in fall/winter and improving in spring/summer—while non-seasonal depression persists year-round and may include more intense feelings of guilt or hopelessness. Both require attention and care.
 
-#### #### Does vitamin D deficiency contribute to seasonal depression in older adults?  
+#### Does vitamin D deficiency contribute to seasonal depression in older adults?  
 Yes. Older adults produce less vitamin D from sun exposure, and lower levels are linked to higher rates of depressive symptoms. While supplementation isn’t a standalone treatment, maintaining adequate vitamin D (as advised by your doctor) supports mood regulation and bone health.

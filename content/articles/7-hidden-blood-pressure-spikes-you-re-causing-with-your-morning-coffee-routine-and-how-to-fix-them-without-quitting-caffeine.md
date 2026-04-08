@@ -75,22 +75,22 @@ In closing: Your morning coffee doesn’t have to be a source of worry. With awa
 
 ### FAQ
 
-#### #### Does black coffee cause a morning coffee blood pressure spike?
+#### Does black coffee cause a morning coffee blood pressure spike?
 
 Yes — but the effect varies widely. Black coffee *can* raise systolic BP by 5–15 mm Hg in sensitive individuals, especially within 30–60 minutes of consumption. However, regular drinkers often develop partial tolerance. The key is whether *your* BP rises significantly *and* stays elevated — not just whether it spikes briefly.
 
-#### #### Can decaf coffee still cause a morning coffee blood pressure spike?
+#### Can decaf coffee still cause a morning coffee blood pressure spike?
 
 Rarely — but possibly. Most decaf coffees retain 2–5 mg of caffeine per cup, which is unlikely to raise BP on its own. However, some decaf processing methods use solvents or high heat that may alter bioactive compounds. More commonly, BP reactions to “decaf” come from additives (e.g., high-sodium creamers) or the placebo effect of expecting stimulation.
 
-#### #### How long does a morning coffee blood pressure spike last?
+#### How long does a morning coffee blood pressure spike last?
 
 Typically 60–120 minutes in healthy adults — but in those over 60 with slower caffeine metabolism or vascular stiffness, it can linger for up to 3 hours. If your BP remains elevated beyond 2 hours post-coffee on multiple days, it’s worth reviewing timing, dose, and lifestyle context with your clinician.
 
-#### #### Is cold brew worse for blood pressure than hot coffee?
+#### Is cold brew worse for blood pressure than hot coffee?
 
 Often, yes — not because of temperature, but because cold brew is usually more concentrated (1.5–2x the caffeine per ounce) and consumed rapidly. A 12-oz cold brew can easily exceed 180 mg caffeine — well above the ~100 mg threshold where BP effects become more pronounced in older adults.
 
-#### #### Can stress make my morning coffee blood pressure spike worse?
+#### Can stress make my morning coffee blood pressure spike worse?
 
 Absolutely. Psychological stress activates the same sympathetic pathways as caffeine — meaning they compound each other. If you’re checking emails, rushing out the door, or managing caregiving duties while sipping coffee, your BP response will likely be stronger and longer-lasting than if you’re relaxed and present with your cup.

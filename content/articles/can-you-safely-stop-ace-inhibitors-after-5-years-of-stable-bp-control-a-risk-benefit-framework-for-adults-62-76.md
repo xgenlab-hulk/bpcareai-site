@@ -66,17 +66,17 @@ Deciding whether to continue or adjust long-term blood pressure medication isn�
 
 ### FAQ
 
-#### #### Is it safe to stop ACE inhibitors after 5 years if my blood pressure is normal?
+#### Is it safe to stop ACE inhibitors after 5 years if my blood pressure is normal?
 Yes—*potentially*—but only with medical guidance and careful monitoring. Normal BP doesn’t guarantee your body no longer relies on the medication. Stopping ACE inhibitors safely over 60 requires assessing kidney function, RAAS activity, and cardiovascular history—not just current numbers.
 
-#### #### What are the risks of stopping ACE inhibitors safely over 60?
+#### What are the risks of stopping ACE inhibitors safely over 60?
 The main concern is rebound hypertension—BP rising above pre-treatment levels—often within 1–3 weeks. Other possible effects include subtle declines in kidney filtration or increased albuminuria. These are usually reversible if caught early, which is why gradual tapering and follow-up are essential.
 
-#### #### Can lifestyle changes alone replace ACE inhibitors after years of use?
+#### Can lifestyle changes alone replace ACE inhibitors after years of use?
 For some, yes—but it’s uncommon in adults over 60 without additional risk factors (e.g., diabetes, heart disease). Most benefit from combining healthy habits *with* medication, rather than viewing them as alternatives. Think of lifestyle as the foundation, and medication as targeted support.
 
-#### #### How often should I check my blood pressure when tapering off an ACE inhibitor?
+#### How often should I check my blood pressure when tapering off an ACE inhibitor?
 Check twice daily (morning and evening) for at least six weeks after starting the taper. Record each reading—including date, time, posture, and any symptoms—to spot patterns your doctor can interpret.
 
-#### #### Does stopping ACE inhibitors affect kidney health in older adults?
+#### Does stopping ACE inhibitors affect kidney health in older adults?
 It *can*, especially if there’s underlying kidney vulnerability. ACE inhibitors help preserve renal blood flow in aging kidneys. That’s why eGFR and urine albumin tests are part of the evaluation before considering stopping ACE inhibitors safely over 60.

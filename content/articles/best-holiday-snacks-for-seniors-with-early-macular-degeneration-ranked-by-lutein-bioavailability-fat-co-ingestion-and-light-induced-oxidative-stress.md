@@ -70,17 +70,17 @@ Supporting your eyes during the holidays doesn’t require deprivation or compli
 
 ### FAQ
 
-#### #### Are there safe holiday snacks macular degeneration seniors can enjoy without worsening eye health?
+#### Are there safe holiday snacks macular degeneration seniors can enjoy without worsening eye health?
 Yes—focus on whole-food sources of lutein, zeaxanthin, and omega-3s paired with healthy fats. Examples include baked salmon bites with dill and lemon, steamed broccoli topped with pine nuts and olive oil, or air-popped popcorn tossed with nutritional yeast and a pinch of smoked paprika. Avoid highly processed, high-glycemic snacks (e.g., white-flour cookies, sugary eggnog), which promote inflammation and glycation stress in retinal tissues.
 
-#### #### What are the best holiday snacks macular degeneration seniors should avoid?
+#### What are the best holiday snacks macular degeneration seniors should avoid?
 Limit or avoid snacks high in trans fats (e.g., commercially fried appetizers), excessive sodium (e.g., heavily salted nuts or deli-meat rolls), and refined carbohydrates (e.g., candy canes, fruitcake made with white flour and corn syrup). These contribute to endothelial dysfunction, oxidative stress, and impaired choroidal blood flow—key drivers in AMD progression.
 
-#### #### Can holiday snacks macular degeneration seniors eat help lower blood pressure too?
+#### Can holiday snacks macular degeneration seniors eat help lower blood pressure too?
 Many overlapping principles apply: potassium-rich options (roasted sweet potatoes, banana “nice cream”), magnesium-dense foods (pumpkin seeds, dark chocolate ≥70%), and nitrate-containing vegetables (beetroot hummus) support healthy arterial pressure. Since hypertension is a modifiable AMD risk factor—especially for geographic atrophy—choosing snacks that benefit both cardiovascular and ocular health is doubly wise.
 
-#### #### Do cooking methods affect lutein in holiday foods?
+#### Do cooking methods affect lutein in holiday foods?
 Yes. Gentle heating (steaming, roasting, sautéing) increases lutein bioavailability by breaking down plant cell walls—but boiling leaches water-soluble co-factors like vitamin C and folate. For maximum synergy, roast vegetables with olive oil instead of boiling, and add fresh herbs (e.g., parsley, cilantro) at the end to preserve heat-sensitive antioxidants.
 
-#### #### Is it okay to take lutein supplements during the holidays instead of adjusting snacks?
+#### Is it okay to take lutein supplements during the holidays instead of adjusting snacks?
 Supplements can be helpful *if prescribed or recommended by your eye care provider*, particularly for those with documented low macular pigment optical density (MPOD) on specialized testing. However, whole-food sources provide additional phytonutrients (e.g., alpha-carotene, lycopene, polyphenols) that work synergistically—something isolated supplements cannot replicate. Food-first remains the gold standard for sustainable, low-risk ocular nutrition optimization.

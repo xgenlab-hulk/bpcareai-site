@@ -68,22 +68,22 @@ Metabolic health in your late 50s through 70s isn’t about rigid rules—it’s
 
 ### FAQ
 
-#### #### Does intermittent fasting hepatic glucose production prediabetes worsen with age?
+#### Does intermittent fasting hepatic glucose production prediabetes worsen with age?
 
 Yes—age-related declines in insulin clearance, altered cortisol rhythms, and reduced hepatic insulin sensitivity can amplify overnight glucose output during fasting, especially in adults over 60 with prediabetes. However, individual responses vary widely based on fitness, frailty, and dietary habits.
 
-#### #### Can intermittent fasting hepatic glucose production prediabetes be reversed with lifestyle changes?
+#### Can intermittent fasting hepatic glucose production prediabetes be reversed with lifestyle changes?
 
 Evidence suggests yes—particularly with combined strategies: moderate time-restricted eating (e.g., 14:10), resistance training 2x/week, and reducing refined carbohydrates. In clinical trials, ~40% of adults 58–70 with prediabetes achieved normal fasting glucose within 6 months using such approaches.
 
-#### #### How does the 14:10 fasting schedule specifically affect liver glucose release overnight?
+#### How does the 14:10 fasting schedule specifically affect liver glucose release overnight?
 
 The 14:10 window extends the natural overnight fast, which—when well-tolerated—can improve insulin sensitivity and reduce hepatic gluconeogenesis over time. But in some older adults with elevated fasting insulin (>15 µU/mL), it may initially *increase* nocturnal glucose output due to cortisol-driven pathways and slower insulin degradation.
 
-#### #### Is intermittent fasting safe during holiday seasons for people with prediabetes?
+#### Is intermittent fasting safe during holiday seasons for people with prediabetes?
 
 Holiday diabetes management benefits most from consistency—not restriction. A flexible 14:10 approach (e.g., adjusting the eating window to accommodate family meals) is safer and more sustainable than strict fasting during high-stress, high-carb periods. Prioritize protein, move after meals, and monitor trends—not single readings.
 
-#### #### What blood tests best reflect changes in intermittent fasting hepatic glucose production prediabetes?
+#### What blood tests best reflect changes in intermittent fasting hepatic glucose production prediabetes?
 
 Fasting insulin, HOMA-IR, and CGM-derived nocturnal glucose slope (2–5 a.m.) are more revealing than fasting glucose alone. Adding a 2-hour post-dinner glucose test can also clarify how your liver responds to meal timing shifts.

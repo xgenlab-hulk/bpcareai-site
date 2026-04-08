@@ -56,22 +56,22 @@ In closing, remember: feeling physiologically stirred after a family gathering i
 
 ### FAQ
 
-#### #### How soon after a family gathering should I do breathwork to normalize cortisol?
+#### How soon after a family gathering should I do breathwork to normalize cortisol?
 
 Ideally within 5–10 minutes of stepping away from the event. Cortisol typically begins rising 10–20 minutes post-stimulus, so early intervention helps prevent peak elevation.
 
-#### #### Can cold water on the face really help normalize cortisol after family gathering?
+#### Can cold water on the face really help normalize cortisol after family gathering?
 
 Yes—cold facial immersion triggers the mammalian dive reflex, which rapidly increases vagal tone and reduces cortisol production. In studies with adults 60–75, 15-second splashes (repeated twice) lowered salivary cortisol by ~19% within 20 minutes.
 
-#### #### What’s the best breathing pattern to normalize cortisol after family gathering?
+#### What’s the best breathing pattern to normalize cortisol after family gathering?
 
 The 4-7-8 method is well-tolerated and validated in older adults: inhale 4 sec, hold 7 sec, exhale 8 sec. Four rounds take ~3 minutes and significantly increase heart rate variability—a marker of healthy stress recovery.
 
-#### #### Does healthy eating during family gatherings affect cortisol levels?
+#### Does healthy eating during family gatherings affect cortisol levels?
 
 Absolutely. High-sugar or highly processed foods can amplify cortisol-driven glucose spikes. Pairing mindful portion choices (e.g., filling half your plate with vegetables first) with post-meal breathwork supports steadier cortisol and glucose responses.
 
-#### #### Is it normal to feel exhausted *after* a joyful family gathering?
+#### Is it normal to feel exhausted *after* a joyful family gathering?
 
 Yes—and very common. This “social hangover” often reflects autonomic exhaustion, not low energy reserves. It’s your body’s signal that it’s ready to transition from engagement back to restoration—and that’s where gentle breathwork and cold cues truly help.

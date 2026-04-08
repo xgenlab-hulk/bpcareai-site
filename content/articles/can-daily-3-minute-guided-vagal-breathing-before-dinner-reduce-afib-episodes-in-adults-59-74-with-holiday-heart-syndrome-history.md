@@ -62,22 +62,22 @@ See your doctor if you notice:
 
 ### FAQ
 
-#### #### Is vagal breathing holiday heart prevention effective for older adults?
+#### Is vagal breathing holiday heart prevention effective for older adults?
 
 Yes—especially for adults 59–74 with documented postprandial AFib or holiday heart syndrome history. Pilot data shows measurable improvements in HRV and reduced AFib burden within 4 weeks when practiced consistently before meals.
 
-#### #### How does vagal breathing holiday heart prevention compare to medication?
+#### How does vagal breathing holiday heart prevention compare to medication?
 
 It’s not a replacement for prescribed antiarrhythmics or anticoagulants—but as a non-pharmacologic intervention, it supports the body’s natural regulatory systems. In the pilot, 68% of participants reported feeling “more in control” of their rhythm, even when continuing their usual meds.
 
-#### #### Can I do vagal breathing holiday heart prevention if I have high blood pressure?
+#### Can I do vagal breathing holiday heart prevention if I have high blood pressure?
 
 Absolutely—and it’s especially helpful. Vagal activation lowers both systolic and diastolic pressure modestly (average drop of 5–7 mm Hg in studies), reduces arterial stiffness, and improves baroreflex sensitivity—all key for long-term cardiovascular resilience.
 
-#### #### Do I need special training or apps to practice vagal breathing?
+#### Do I need special training or apps to practice vagal breathing?
 
 No. Guided audio tracks are widely available for free, and basic paced breathing (5-inhale / 6-exhale) is easy to learn. Consistency matters more than perfection—even 3 minutes, 5 days a week, shows benefit.
 
-#### #### What’s the best time of day to practice for holiday heart syndrome prevention?
+#### What’s the best time of day to practice for holiday heart syndrome prevention?
 
 Right before dinner is ideal—it targets the most vulnerable window. But if dinner timing varies, aim for 10–15 minutes before *any* main meal, especially those higher in salt, alcohol, or refined carbs.

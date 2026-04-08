@@ -71,17 +71,17 @@ Holiday traditions are meaningful—and managing health doesn’t mean sacrifici
 
 ### FAQ
 
-#### #### Are diabetes-friendly holiday cookie kits safe for people with gastroparesis?  
+#### Are diabetes-friendly holiday cookie kits safe for people with gastroparesis?  
 Not universally. Many contain fermentable fibers or resistant starch modifiers that can worsen delayed gastric emptying and cause unpredictable glucose spikes—even in kits labeled “low sugar.” Always check ingredient lists for inulin, FOS, GOS, or modified starches, and consider CGM or timed fingersticks to assess real-world impact.
 
-#### #### What makes diabetes-friendly holiday cookie kits gastroparesis a concern for older adults?  
+#### What makes diabetes-friendly holiday cookie kits gastroparesis a concern for older adults?  
 Age-related declines in gastric motilin, vagal tone, and interstitial cell function mean slower digestion—even without diagnosed gastroparesis. Combined with common kit ingredients like chicory root fiber or resistant maltodextrin, this can lead to erratic glucose absorption and GI discomfort, especially in adults 63+.
 
-#### #### Can I modify store-bought diabetes-friendly holiday cookie kits to make them safer for gastroparesis?  
+#### Can I modify store-bought diabetes-friendly holiday cookie kits to make them safer for gastroparesis?  
 Yes—strategically. Add 5–7 g of lean protein (e.g., Greek yogurt dip) or healthy fat (e.g., crushed pecans) before eating; chill cookies before serving; and limit to one serving per day while tracking symptoms and glucose at 30-, 60-, and 90-minute intervals.
 
-#### #### Do all low-sugar cookie kits affect gastric emptying?  
+#### Do all low-sugar cookie kits affect gastric emptying?  
 No—but many do, depending on *how* sugar is reduced. Kits replacing sucrose with polyols (e.g., erythritol, maltitol) or fermentable fibers often trigger osmotic diarrhea or bloating. Those using primarily almond or coconut flour—with minimal added functional fibers—tend to be better tolerated.
 
-#### #### Is gastroparesis the same as slow digestion?  
+#### Is gastroparesis the same as slow digestion?  
 Clinically, gastroparesis refers to *confirmed* delayed gastric emptying (typically <90% emptied at 4 hours via gastric emptying scintigraphy). However, “gastroparesis-like symptoms” describe similar experiences—including early satiety, bloating, and nausea—without formal diagnosis. These are very common in aging and diabetes, and warrant the same dietary caution.

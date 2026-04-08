@@ -100,22 +100,22 @@ Blood pressure is dynamic—and highly responsive to daily habits, including *wh
 
 ### FAQ
 
-#### #### Does intermittent fasting lower blood pressure without weight loss?
+#### Does intermittent fasting lower blood pressure without weight loss?
 
 Yes—recent clinical trials show modest but clinically meaningful BP reductions (averaging 5–7 mm Hg systolic) in normoweight adults following 16:8 time-restricted eating, even with stable body weight. These effects appear linked to improved circadian alignment and hormonal regulation—not calorie deficit.
 
-#### #### Can intermittent fasting blood pressure no weight loss work for someone over 60?
+#### Can intermittent fasting blood pressure no weight loss work for someone over 60?
 
 Evidence supports safety and efficacy in adults up to age 75, provided there are no contraindications (e.g., frailty, uncontrolled arrhythmias, or advanced chronic kidney disease). Older adults may benefit especially from restored nocturnal dipping—a protective pattern that commonly declines with age.
 
-#### #### Is intermittent fasting blood pressure effective for salt-sensitive hypertension?
+#### Is intermittent fasting blood pressure effective for salt-sensitive hypertension?
 
 Emerging data suggest yes. In a 2024 pilot study, normoweight adults with confirmed salt sensitivity showed greater BP reduction with 16:8 TRE than with standard dietary sodium advice alone—likely due to enhanced renal sodium excretion during fasting windows.
 
-#### #### What’s the best time window for lowering blood pressure with intermittent fasting?
+#### What’s the best time window for lowering blood pressure with intermittent fasting?
 
 Current evidence points to 14:10 or 16:8 windows starting no later than noon (e.g., 12 p.m.–8 p.m.) as optimal for circadian BP support. Eating earlier in the day aligns with peak insulin sensitivity and adrenal cortisol rhythms—both relevant to arterial pressure control.
 
-#### #### Can I combine intermittent fasting with my blood pressure medication?
+#### Can I combine intermittent fasting with my blood pressure medication?
 
 Yes—but do so under medical supervision. Some antihypertensives (e.g., ACE inhibitors, ARBs) may increase potassium or affect volume status, and fasting can subtly alter electrolyte balance. Your doctor may adjust timing or dosage based on your BP response and lab trends.

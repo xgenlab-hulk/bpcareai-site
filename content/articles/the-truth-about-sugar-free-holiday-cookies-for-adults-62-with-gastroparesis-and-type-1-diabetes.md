@@ -58,22 +58,22 @@ The holidays are about joy—not anxiety over labels. You *can* enjoy treats min
 
 ### FAQ
 
-#### #### Are sugar-free cookies gastroparesis seniors safe if they contain erythritol?
+#### Are sugar-free cookies gastroparesis seniors safe if they contain erythritol?
 
 Erythritol is generally better tolerated than maltitol or sorbitol—especially in amounts under 10 grams per sitting—but individual sensitivity varies. Some seniors report GI discomfort even at lower doses, particularly when combined with other fermentable carbs (FODMAPs). Start with ¼ cookie and track symptoms.
 
-#### #### What sugar alcohols should seniors with gastroparesis avoid completely?
+#### What sugar alcohols should seniors with gastroparesis avoid completely?
 
 Maltitol and sorbitol top the list—they’re highly osmotic and strongly linked to bloating, diarrhea, and delayed gastric transit in older adults. Xylitol is intermediate in risk; limit to <5 g per meal. Always check labels: “sugar-free” doesn’t mean “maltitol-free.”
 
-#### #### Can sugar-free cookies gastroparesis seniors still raise blood sugar?
+#### Can sugar-free cookies gastroparesis seniors still raise blood sugar?
 
 Yes—especially those made with maltitol (GI ~35) or blended sweeteners. Even “zero glycemic” options like allulose may affect insulin needs indirectly via gastric feedback loops. Always count total carbs and monitor beyond the standard 2-hour window.
 
-#### #### Do “diabetic-friendly” cookies automatically work for gastroparesis?
+#### Do “diabetic-friendly” cookies automatically work for gastroparesis?
 
 No. Many “diabetic-friendly” products prioritize low glycemic index over gastric tolerance—using high-maltitol formulas that worsen delayed emptying. Gastroparesis requires a dual focus: glucose *and* motility support.
 
-#### #### Is it better to skip sweets entirely during the holidays?
+#### Is it better to skip sweets entirely during the holidays?
 
 Not necessarily! Small, mindful portions of well-chosen treats—paired with protein and timed thoughtfully—can support emotional well-being *and* metabolic stability. Deprivation often backfires, leading to overcompensation later.

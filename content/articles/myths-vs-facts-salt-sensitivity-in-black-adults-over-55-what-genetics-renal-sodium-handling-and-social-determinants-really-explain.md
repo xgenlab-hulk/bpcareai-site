@@ -76,17 +76,17 @@ Salt sensitivity in Black adults over 55 is real—but it’s neither inevitable
 
 ### FAQ
 
-#### #### Does salt sensitivity run in families—and is it linked to genetics in Black adults?
+#### Does salt sensitivity run in families—and is it linked to genetics in Black adults?
 Yes—family history is one of the strongest predictors of salt sensitivity. In Black adults, inherited variants like APOL1 G1/G2 significantly increase susceptibility, particularly when combined with aging kidneys or conditions like diabetes. However, genetics is only part of the picture: shared environment and lifestyle also contribute.
 
-#### #### How does salt sensitivity affect blood pressure in Black adults over 55?
+#### How does salt sensitivity affect blood pressure in Black adults over 55?
 Salt sensitivity causes blood pressure to rise more sharply in response to sodium intake—often by 10–20 mm Hg systolic—compared to salt-resistant individuals. Among adults over 55, this effect compounds with natural age-related declines in renal sodium excretion and arterial elasticity, making BP control more challenging without tailored strategies.
 
-#### #### Can stress really change how my kidneys handle salt?
+#### Can stress really change how my kidneys handle salt?
 Yes—chronic stress activates the sympathetic nervous system and alters hormone signaling (e.g., cortisol, aldosterone), which can increase ENaC expression in kidney tubules. Emerging epigenetic research suggests prolonged psychosocial stress may leave molecular “marks” that enhance sodium reabsorption—even independent of diet.
 
-#### #### Is salt sensitivity the same as high blood pressure?
+#### Is salt sensitivity the same as high blood pressure?
 No. Salt sensitivity is a *physiological pattern*—a tendency for BP to fluctuate with sodium intake. Many people with salt sensitivity have normal BP on low-sodium diets, while others develop persistent hypertension. It’s a modifiable risk factor, not a diagnosis itself.
 
-#### #### Are there medications specifically for salt-sensitive hypertension?
+#### Are there medications specifically for salt-sensitive hypertension?
 While no drug is labeled “for salt sensitivity,” certain classes work especially well: thiazide or thiazide-like diuretics (e.g., chlorthalidone), mineralocorticoid receptor antagonists (e.g., spironolactone), and sometimes calcium channel blockers. Your provider may adjust treatment based on your sodium handling profile and kidney function.

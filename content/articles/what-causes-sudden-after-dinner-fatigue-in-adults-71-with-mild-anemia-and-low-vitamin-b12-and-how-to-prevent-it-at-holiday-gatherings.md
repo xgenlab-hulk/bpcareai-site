@@ -89,22 +89,22 @@ Holiday fatigue doesn’t have to mean disengagement. With thoughtful preparatio
 
 ### FAQ
 
-#### #### Why do I get so tired after dinner even though my blood tests say I’m “just slightly anemic”?
+#### Why do I get so tired after dinner even though my blood tests say I’m “just slightly anemic”?
 
 Mild anemia—even with hemoglobin just below normal (e.g., 11.8 g/dL)—reduces oxygen reserve. Combined with age-related declines in cardiac output and slower vascular responsiveness, your body struggles to meet the dual demand of digestion *and* brain function simultaneously. That mismatch shows up as fatigue—not weakness.
 
-#### #### Is after-dinner fatigue in seniors with anemia linked to blood pressure drops?
+#### Is after-dinner fatigue in seniors with anemia linked to blood pressure drops?
 
 Yes. Postprandial hypotension—a drop in systolic BP ≥ 20 mm Hg within 2 hours of eating—is present in up to 30% of adults over 70. It’s more likely when anemia coexists with autonomic nervous system changes. Monitoring BP before and after meals helps identify this pattern.
 
-#### #### Can vitamin B12 deficiency cause fatigue even if my hemoglobin is normal?
+#### Can vitamin B12 deficiency cause fatigue even if my hemoglobin is normal?
 
 Absolutely. Neurological and mitochondrial symptoms (fatigue, brain fog, balance issues) often appear *before* anemia develops. Up to 40% of older adults with serum B12 < 300 pg/mL show functional deficiency markers like elevated MMA—even with normal CBC results.
 
-#### #### What’s the best time of day to take B12 if I’m also taking thyroid medication or a PPI?
+#### What’s the best time of day to take B12 if I’m also taking thyroid medication or a PPI?
 
 Take B12 at least 4 hours apart from levothyroxine (to avoid interference) and *not* with PPIs (which reduce stomach acid needed for B12 release from food). Sublingual or injectable forms bypass this issue—but always coordinate timing with your prescriber.
 
-#### #### Are there holiday foods I should avoid entirely if I have mild anemia and low B12?
+#### Are there holiday foods I should avoid entirely if I have mild anemia and low B12?
 
 Not “avoid entirely,” but limit high-fat, high-sugar combinations (e.g., gravy-laden mashed potatoes + pie), which maximize postprandial blood shunting and insulin spikes. Instead, choose lean proteins, roasted vegetables, and whole grains—foods that support steady energy and nutrient absorption.

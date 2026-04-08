@@ -59,17 +59,17 @@ Healing isn’t about dramatic shifts—it’s about consistency, gentleness, an
 
 ### FAQ  
 
-#### #### What are the best pancreatic acinar repair foods type 2 diabetes for someone with chronic pancreatitis?  
+#### What are the best pancreatic acinar repair foods type 2 diabetes for someone with chronic pancreatitis?  
 The most evidence-supported options include fermented buckwheat, cooked dandelion greens, cold-pressed flaxseed oil, steamed shiitake mushrooms, and low-sugar berry compotes—all chosen for low trypsinogen activation and demonstrated acinar-protective effects in preclinical and pilot human studies.
 
-#### #### Can pancreatic acinar repair foods type 2 diabetes help improve fecal elastase-3 levels?  
+#### Can pancreatic acinar repair foods type 2 diabetes help improve fecal elastase-3 levels?  
 In small pilot studies (n=32), adults aged 58–67 who consumed ≥3 servings/week of targeted foods maintained stable fecal elastase-3 (≥200 µg/g) over 12 months, while controls saw a mean decline of 15%. This suggests support—not reversal—of exocrine reserve.
 
-#### #### Are there foods I should avoid even if they’re “healthy” for pancreatic acinar repair foods type 2 diabetes?  
+#### Are there foods I should avoid even if they’re “healthy” for pancreatic acinar repair foods type 2 diabetes?  
 Yes. Raw cruciferous vegetables (e.g., broccoli sprouts), high-dose turmeric supplements, and unfermented soy isolates may stimulate cholecystokinin (CCK) or trypsinogen expression—potentially stressing fragile acinar tissue. Stick to cooked, fermented, or low-CCK options.
 
-#### #### How long does it take to see benefits from pancreatic acinar repair foods?  
+#### How long does it take to see benefits from pancreatic acinar repair foods?  
 Most pilot data shows measurable stabilization in elastase-3 and symptom patterns after 8–12 weeks of consistent intake—though cellular changes (e.g., improved mitochondrial density in acinar cells) may take 4–6 months to reflect functionally.
 
-#### #### Does blood pressure management relate to pancreatic acinar health?  
+#### Does blood pressure management relate to pancreatic acinar health?  
 Indirectly, yes. Hypertension (especially >140/90 mm Hg) correlates with systemic inflammation and endothelial dysfunction, both of which impair microcirculation in the pancreas. Supporting arterial pressure helps sustain oxygen and nutrient delivery to regenerating acinar tissue.

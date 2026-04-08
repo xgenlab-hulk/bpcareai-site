@@ -97,22 +97,22 @@ Remember: every rep you do with awareness is a quiet act of self-care. Every adj
 
 ### FAQ
 
-#### #### Is strength training safe for seniors with peripheral neuropathy and diabetes?
+#### Is strength training safe for seniors with peripheral neuropathy and diabetes?
 
 Yes—when properly adapted. Research shows that modified strength training reduces ulcer risk and improves muscle mass, balance, and nerve function in adults over 60 with diabetic peripheral neuropathy. Key safety elements include pressure-aware stance, eccentric emphasis, and proprioceptive feedback—not avoiding resistance altogether.
 
-#### #### What’s the best strength training peripheral neuropathy seniors program for home use?
+#### What’s the best strength training peripheral neuropathy seniors program for home use?
 
 A safe, effective home program starts with bodyweight exercises emphasizing control over intensity: sit-to-stands with slow lowering, wall squats with wide stance, seated leg extensions with towel under arch, and single-leg balance drills on varied surfaces. Always begin with supervision or guidance from a physical therapist familiar with neuropathy-safe protocols.
 
-#### #### Can strength training worsen peripheral neuropathy symptoms?
+#### Can strength training worsen peripheral neuropathy symptoms?
 
 Not when done correctly. In fact, appropriate strength training improves circulation, reduces inflammation, and supports nerve health. However, poorly designed programs—like high-impact jumping, narrow stances, or excessive forefoot loading—can increase pressure on vulnerable areas and raise ulcer risk. That’s why personalized modification matters.
 
-#### #### How often should seniors with diabetes and neuropathy do strength training?
+#### How often should seniors with diabetes and neuropathy do strength training?
 
 The American College of Sports Medicine recommends 2–3 nonconsecutive days per week for resistance training. In the 187-patient study, participants saw optimal results with two weekly sessions focused on lower-body eccentric control and balance, plus daily proprioceptive “micro-practices” (like 30-second barefoot balance drills).
 
-#### #### Do compression socks help during strength training for peripheral neuropathy?
+#### Do compression socks help during strength training for peripheral neuropathy?
 
 Compression socks (15–20 mm Hg) may support venous return and reduce swelling, but they don’t replace proper footwear or stance modification. Importantly, avoid tight or ill-fitting socks that create pressure points—especially around the toes or Achilles. Always inspect feet before and after workouts, regardless of sock type.

@@ -74,17 +74,17 @@ Understanding *nocturnal st-segment depression triggers* helps shift care from r
 
 ### FAQ
 
-#### #### What are the most common nocturnal st-segment depression triggers in older adults?
+#### What are the most common nocturnal st-segment depression triggers in older adults?
 The top triggers identified in recent studies include gastroesophageal reflux, REM-sleep apnea surges, supine volume shifts, nocturnal hypertension, paroxysmal atrial fibrillation, cold bedroom temperatures, and late-evening high-carbohydrate meals—all occurring without classic chest pain or obstructive CAD.
 
-#### #### Can nocturnal st-segment depression triggers happen without blocked arteries?
+#### Can nocturnal st-segment depression triggers happen without blocked arteries?
 Yes. In fact, 100% of participants in the referenced study had nonobstructive CAD (defined as <50% stenosis on angiography), yet 37% showed reproducible nocturnal ST depression—highlighting that ischemia-like changes can arise from functional, non-anatomic causes.
 
-#### #### How do doctors test for nocturnal st-segment depression triggers?
+#### How do doctors test for nocturnal st-segment depression triggers?
 The most effective method is extended-duration home ECG patch monitoring (10–14 days), ideally paired with overnight pulse oximetry, activity tracking, and symptom diaries. Standard stress tests and single-night sleep studies often miss these transient, context-dependent events.
 
-#### #### Is nocturnal ST depression always dangerous?
+#### Is nocturnal ST depression always dangerous?
 Not always—but it warrants evaluation. In older adults with underlying heart disease, recurrent nocturnal ST depression correlates with higher 5-year rates of hospitalization for heart failure and arrhythmias. Context matters: isolated, brief episodes with clear benign triggers (e.g., mild reflux) carry lower risk than frequent, prolonged, or hemodynamically coupled changes.
 
-#### #### What lifestyle changes help reduce nocturnal st-segment depression triggers?
+#### What lifestyle changes help reduce nocturnal st-segment depression triggers?
 Prioritize positional adjustments (head elevation), consistent sleep hygiene, BP monitoring at night and on waking, avoiding late meals, and treating known GERD or sleep apnea. Small, sustained changes often yield measurable improvements in nocturnal cardiac stability.

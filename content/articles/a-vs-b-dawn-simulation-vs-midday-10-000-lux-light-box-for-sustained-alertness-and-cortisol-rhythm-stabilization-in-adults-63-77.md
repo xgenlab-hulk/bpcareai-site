@@ -89,22 +89,22 @@ If you're unsure, talking to your doctor is always a good idea—especially when
 
 ### FAQ
 
-#### #### Is dawn simulation as effective as a 10,000-lux light box for seniors with seasonal depression?
+#### Is dawn simulation as effective as a 10,000-lux light box for seniors with seasonal depression?
 
 Yes—in fact, for adults aged 63–77, dawn simulation often outperforms midday light boxes for cortisol rhythm stabilization and long-term adherence. A 2022 randomized trial found that dawn simulation users had significantly steeper morning cortisol slopes (+31% improvement vs. +12% in the light box group) and were nearly 40% more likely to continue use at 12 weeks.
 
-#### #### What’s the best time of day to use a light box if I’m over 65?
+#### What’s the best time of day to use a light box if I’m over 65?
 
 For optimal cortisol rhythm support, aim for light exposure within 30–90 minutes of waking—even if that means using your light box at 6:30 a.m. rather than waiting until noon. Older adults’ circadian systems respond most strongly to light in this early window, making timing more important than intensity alone.
 
-#### #### Can light therapy affect my blood pressure or heart rate?
+#### Can light therapy affect my blood pressure or heart rate?
 
 Mild, transient increases in heart rate or BP can occur during light exposure—especially with high-intensity midday boxes—but these usually normalize within minutes. More importantly, *stabilizing your cortisol rhythm over time* supports healthier 24-hour BP patterns. Many seniors report reduced morning BP spikes and less afternoon dipping after 4–6 weeks of consistent, well-timed light use.
 
-#### #### Do I need a prescription for dawn simulation or light therapy devices?
+#### Do I need a prescription for dawn simulation or light therapy devices?
 
 No—most dawn simulators and 10,000-lux light boxes are available over the counter. However, consult your doctor before starting if you have retinal disease, bipolar disorder, or are taking photosensitizing medications (e.g., certain antibiotics or diuretics).
 
-#### #### How long does it take to notice improvements in energy and mood with dawn simulation?
+#### How long does it take to notice improvements in energy and mood with dawn simulation?
 
 Most adults aged 63–77 begin noticing subtle shifts—like easier wake-ups or improved morning focus—within 7–10 days. Meaningful improvements in sustained alertness and mood typically emerge between weeks 2 and 4, especially when combined with regular sleep and daytime movement.

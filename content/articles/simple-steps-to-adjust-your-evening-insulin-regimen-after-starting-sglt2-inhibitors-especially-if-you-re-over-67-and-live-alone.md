@@ -61,17 +61,17 @@ In most cases, a careful **evening insulin sgl2 inhibitor adjustment**, guided b
 
 ### FAQ
 
-#### #### Do I need to lower my evening insulin when starting an SGLT2 inhibitor?
+#### Do I need to lower my evening insulin when starting an SGLT2 inhibitor?
 Yes—most people over 65 benefit from a modest reduction (often 10–20%) in their evening basal insulin dose soon after starting an SGLT2 inhibitor. This helps prevent low volume states and supports safer ketone balance. Always discuss timing and amount with your doctor first.
 
-#### #### What is evening insulin sgl2 inhibitor adjustment—and why is it different for seniors?
+#### What is evening insulin sgl2 inhibitor adjustment—and why is it different for seniors?
 Evening insulin sgl2 inhibitor adjustment refers to thoughtfully reducing or re-timing your nighttime insulin after beginning an SGLT2 inhibitor. It’s especially important for seniors because aging kidneys, milder thirst signals, and slower metabolic recovery make volume and fuel shifts harder to self-correct.
 
-#### #### Can I skip my evening insulin if I feel fine and my sugar is normal?
+#### Can I skip my evening insulin if I feel fine and my sugar is normal?
 No—never skip or delay insulin without guidance. Normal glucose with an SGLT2 inhibitor doesn’t guarantee safety from eDKA. Ketones can rise silently. Always test ketones if you’re unwell, fasting, or feeling “off”—and follow your provider’s plan for **evening insulin sgl2 inhibitor adjustment**.
 
-#### #### How often should I check ketones after starting an SGLT2 inhibitor?
+#### How often should I check ketones after starting an SGLT2 inhibitor?
 Check blood ketones at least twice weekly—morning and evening—if you’re on evening insulin. Increase to daily during illness, reduced eating, or warm weather. If you’re unsure about frequency or interpretation, ask your diabetes educator or pharmacist.
 
-#### #### Does high blood pressure affect evening insulin sgl2 inhibitor adjustment?
+#### Does high blood pressure affect evening insulin sgl2 inhibitor adjustment?
 Not directly—but if you have hypertension (especially if treated with ACE inhibitors or ARBs), your risk of volume shifts increases slightly. That makes consistent hydration and gentle **evening insulin sgl2 inhibitor adjustment** even more valuable.

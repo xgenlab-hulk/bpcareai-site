@@ -75,22 +75,22 @@ You don’t need to stand, lift heavy weights, or push past discomfort to nurtur
 
 ### FAQ
 
-#### #### Can seated resistance band exercises with bp feedback help lower high blood pressure in seniors?
+#### Can seated resistance band exercises with bp feedback help lower high blood pressure in seniors?
 
 Yes—when done consistently and monitored thoughtfully, seated resistance band exercises with bp feedback can support long-term improvements in arterial pressure regulation. Studies suggest regular low-intensity resistance training may reduce resting systolic BP by 4–9 mm Hg over 12 weeks in older adults, especially when combined with mindful breathing and gradual progression. The key is avoiding spikes *during* exertion—hence the value of real-time feedback.
 
-#### #### Are seated resistance band exercises with bp feedback safe for someone with severe knee osteoarthritis?
+#### Are seated resistance band exercises with bp feedback safe for someone with severe knee osteoarthritis?
 
 Absolutely—and they’re often recommended. Because these exercises eliminate compressive load on the knee joint (no squatting, stepping, or bending), they preserve joint integrity while strengthening supporting muscles like quadriceps and hamstrings *indirectly*, via neural activation and improved circulation. Always keep knees at 90° or greater and avoid anchoring bands in ways that pull across the joint line.
 
-#### #### How often should I do seated resistance band exercises with bp feedback if I have orthostatic intolerance?
+#### How often should I do seated resistance band exercises with bp feedback if I have orthostatic intolerance?
 
 Start with just 1–2 sessions per week, each lasting 10–15 minutes. Focus first on learning your BP response pattern—not building endurance. Once you observe consistent, well-tolerated responses (e.g., systolic rise <25 mm Hg, full recovery within 2 minutes), you may gradually increase frequency to three times weekly—but only if energy levels and symptoms remain stable.
 
-#### #### Do I need special equipment for seated resistance band exercises with bp feedback?
+#### Do I need special equipment for seated resistance band exercises with bp feedback?
 
 You’ll need a certified upper-arm BP monitor (preferably with irregular pulse detection), a set of loop or handle-style resistance bands (light to medium resistance), and a stable, arm-supported chair. No gym membership, weights, or standing platforms are required. A door anchor (used with caution and secured to solid framing) can expand exercise options safely.
 
-#### #### Can seated resistance band exercises improve circulation without raising blood pressure too much?
+#### Can seated resistance band exercises improve circulation without raising blood pressure too much?
 
 Yes—they stimulate nitric oxide release and enhance endothelial function, which supports healthy blood flow *without* requiring large increases in systemic pressure. In fact, many adults with orthostatic intolerance find their *standing* BP becomes *more stable* after several weeks of seated resistance work—likely due to improved autonomic tone and venous return efficiency.

@@ -91,22 +91,22 @@ If you're unsure, talking to your doctor is always a good idea—and mentioning 
 
 ### FAQ
 
-#### #### Can “healthy” holiday cookies still cause hypoglycemia in seniors with neuropathy?
+#### Can “healthy” holiday cookies still cause hypoglycemia in seniors with neuropathy?
 
 Yes—absolutely. “Healthy” labels don’t guarantee low glycemic impact. Oats, dried fruit, and natural sweeteners still raise blood glucose—sometimes unpredictably in older adults with slowed digestion and blunted symptom awareness. Neuropathy masks early warning signs, making reactive lows more likely—and more dangerous.
 
-#### #### How does peripheral neuropathy increase risk during a cookie swap diabetes neuropathy seniors situation?
+#### How does peripheral neuropathy increase risk during a cookie swap diabetes neuropathy seniors situation?
 
 Neuropathy—especially when autonomic—can impair your body’s ability to release epinephrine and glucagon during low blood sugar. That means no tremor, no sweat, no racing heart—just sudden confusion, fatigue, or falls. In seniors over 80, this “hypoglycemia unawareness” affects up to 40% of those on insulin or sulfonylureas.
 
-#### #### What are safer alternatives to traditional cookies for someone managing holiday diabetes management?
+#### What are safer alternatives to traditional cookies for someone managing holiday diabetes management?
 
 Focus on protein + healthy fat + minimal refined carb: think spiced roasted almonds, mini ricotta cups with lemon zest, or dark chocolate-dipped orange segments (limit to 1 tsp honey total). Always pair with a blood glucose check 90 minutes post-snack—and avoid eating within 3 hours of bedtime unless cleared by your provider.
 
-#### #### Is it okay to skip a cookie swap entirely if I have a history of nocturnal hypoglycemia?
+#### Is it okay to skip a cookie swap entirely if I have a history of nocturnal hypoglycemia?
 
 Yes—and it’s medically sound. Skipping reduces exposure to unpredictable carb loads and eliminates the risk of overnight glucose dips. Social connection doesn’t require shared food. Suggest a non-food gathering: caroling, photo sharing, or a warm drink meetup with herbal tea or decaf cocoa.
 
-#### #### Do blood pressure changes happen during holiday eating—and should seniors track them alongside glucose?
+#### Do blood pressure changes happen during holiday eating—and should seniors track them alongside glucose?
 
 Yes. High-carb, high-sodium holiday foods can temporarily elevate systolic BP by 10–20 mm Hg—especially in those with arterial stiffness (common after age 75). Since hypertension and diabetes often coexist, tracking both BP *and* glucose gives a fuller picture of cardiovascular safety. A reading consistently above 140/90 mm Hg warrants discussion with your clinician.

@@ -72,22 +72,22 @@ Navigating hormonal health in your seventies isn’t about chasing youth—it’
 
 ### FAQ
 
-#### #### Does testosterone therapy increase blood sugar in older men with NAFLD?
+#### Does testosterone therapy increase blood sugar in older men with NAFLD?
 
 Not necessarily—and not uniformly. In men with low testosterone and insulin resistance, TRT often leads to modest *improvements* in fasting glucose and insulin sensitivity. However, if NAFLD is advanced (e.g., with fibrosis or elevated ALT/AST), high-dose or poorly monitored TRT may worsen fat accumulation and blunt those benefits. The key is individualized dosing guided by liver enzymes and glucose trends—not blanket recommendations.
 
-#### #### How does testosterone therapy affect hepatic glucose production seniors with type 2 diabetes?
+#### How does testosterone therapy affect hepatic glucose production seniors with type 2 diabetes?
 
 Testosterone helps regulate hepatic glucose production by reducing the activity of gluconeogenic enzymes like PEPCK and G6Pase. In older men with type 2 diabetes and documented hypogonadism, clinical trials show average reductions in HbA1c of 0.3–0.5% after 6–12 months of physiological TRT—especially when combined with lifestyle support. But again, benefit depends on baseline liver health and avoiding excessive dosing.
 
-#### #### Can testosterone therapy worsen NAFLD in men over 70?
+#### Can testosterone therapy worsen NAFLD in men over 70?
 
 It *can*, particularly at supraphysiological doses or in men with significant visceral fat and preexisting metabolic dysfunction. Studies suggest that while TRT itself doesn’t *cause* NAFLD, it may accelerate fat deposition in an already vulnerable liver—especially if diet, activity, or insulin resistance aren’t addressed concurrently. Regular liver enzyme checks and dose titration help prevent this.
 
-#### #### Is liver biopsy necessary before starting testosterone therapy?
+#### Is liver biopsy necessary before starting testosterone therapy?
 
 No—not routinely. Non-invasive tools like ultrasound, FibroScan®, and blood biomarkers (ALT, AST, GGT, ferritin, CK-18) are typically sufficient for risk stratification in clinical practice. Biopsy remains reserved for cases where imaging and labs suggest possible NASH or fibrosis, and diagnosis would change management.
 
-#### #### What’s the safest form of testosterone for older men with liver concerns?
+#### What’s the safest form of testosterone for older men with liver concerns?
 
 There’s no universally “safest” formulation—but transdermal gels and patches tend to produce more stable, physiologic serum levels compared to intramuscular injections, which cause peaks and troughs. Oral testosterone is generally avoided in older adults due to first-pass liver metabolism and higher risk of enzyme elevation. Your provider will weigh absorption, convenience, and your personal health profile—not just theoretical safety.

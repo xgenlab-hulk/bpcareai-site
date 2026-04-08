@@ -67,17 +67,17 @@ Improving metabolic resilience at 60+ isn’t about speed or extremes—it’s a
 
 ### FAQ
 
-#### #### Does inulin FOS for GLP-1 in prediabetes work for everyone over 60?
+#### Does inulin FOS for GLP-1 in prediabetes work for everyone over 60?
 No—not everyone responds the same way. Clinical data shows roughly half of adults aged 59–71 with prediabetes and low-fiber diets see measurable increases in postprandial GLP-1 after 2 g/day of inulin-FOS—especially when taken before breakfast and when baseline butyrate-producing bacteria are present. Individual microbiome composition is a major factor.
 
-#### #### How much inulin FOS for GLP-1 in prediabetes is safe to take daily?
+#### How much inulin FOS for GLP-1 in prediabetes is safe to take daily?
 For adults in their 60s with prediabetes, research supports starting with 1–2 g per day. Higher doses (e.g., 5–10 g) increase risk of gas, bloating, or osmotic diarrhea—particularly if fiber intake has been consistently low. Always increase slowly and discontinue if gastrointestinal symptoms persist beyond 3–4 days.
 
-#### #### Can inulin-FOS raise blood pressure or affect heart health?
+#### Can inulin-FOS raise blood pressure or affect heart health?
 Inulin-FOS itself does not raise blood pressure. In fact, some studies suggest modest improvements in arterial pressure (average reduction of 2–3 mm Hg systolic) due to improved endothelial function and reduced systemic inflammation—though effects are indirect and gradual. As with any dietary change, monitor BP trends consistently.
 
-#### #### What foods contain inulin and FOS naturally?
+#### What foods contain inulin and FOS naturally?
 Excellent whole-food sources include raw garlic (2.5 g per clove), raw onion (1.5 g per ½ cup), asparagus (2 g per ½ cup cooked), chicory root (3–5 g per tsp), and jicama (2 g per ¼ cup raw). Cooking reduces but doesn’t eliminate these prebiotics.
 
-#### #### Is inulin-FOS the same as the GLP-1 drugs prescribed for diabetes?
+#### Is inulin-FOS the same as the GLP-1 drugs prescribed for diabetes?
 No—absolutely not. Inulin-FOS is a dietary prebiotic that *may support* your body’s natural GLP-1 release. Prescription GLP-1 receptor agonists (e.g., semaglutide, dulaglutide) are potent synthetic molecules that directly activate GLP-1 receptors—used for type 2 diabetes and obesity management under medical supervision. They are not interchangeable.

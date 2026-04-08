@@ -40,22 +40,22 @@ While holiday traditions matter deeply, small, evidence-informed swaps support b
 
 ### FAQ
 
-#### #### Are maple-glazed sweet potatoes vs candied yams blood sugar effects clinically significant for older adults with diabetes?
+#### Are maple-glazed sweet potatoes vs candied yams blood sugar effects clinically significant for older adults with diabetes?
 
 Yes—studies show adults 65+ with T2D experience 20–30% greater postprandial glucose excursions than younger peers for the same carb load. The difference between roasted sweet potatoes and marshmallow-topped yams can mean the difference between staying under 160 mg/dL and spiking above 200 mg/dL at 90 minutes.
 
-#### #### Can I substitute canned yams for sweet potatoes without affecting my maple-glazed sweet potatoes vs candied yams blood sugar comparison?
+#### Can I substitute canned yams for sweet potatoes without affecting my maple-glazed sweet potatoes vs candied yams blood sugar comparison?
 
 No—not reliably. Canned “yams” are typically pre-sweetened, cooked in syrup, and lack intact skin or resistant starch. Even rinsing only partially reduces sugar load. True roasted sweet potatoes (skin-on, baked at 400°F for 45–60 min) offer superior fiber retention and slower digestion.
 
-#### #### #### Does adding marshmallows really change the maple-glazed sweet potatoes vs candied yams blood sugar outcome that much?
+#### #### Does adding marshmallows really change the maple-glazed sweet potatoes vs candied yams blood sugar outcome that much?
 
 Absolutely. Marshmallows contribute ~18 g of pure glucose and sucrose per ¼ cup—and melt into a sticky, rapidly digested layer that coats the yam surface, eliminating any buffering effect from fiber. CGM studies show this addition increases peak glucose by an average of 27 mg/dL compared to the same yam dish without marshmallows.
 
-#### #### Is it safe to eat sweet potatoes daily if I have type 2 diabetes?
+#### Is it safe to eat sweet potatoes daily if I have type 2 diabetes?
 
 Yes—when prepared mindfully. A ½-cup serving of roasted, skin-on sweet potato fits comfortably within most diabetes meal plans (15–20 g net carbs) and provides potassium, vitamin A, and soluble fiber shown to improve insulin sensitivity over time.
 
-#### #### Do cooling sweet potatoes increase resistant starch—and does that help blood sugar?
+#### Do cooling sweet potatoes increase resistant starch—and does that help blood sugar?
 
 Yes. Cooling roasted sweet potatoes for 2+ hours increases resistant starch by ~2–3 g per ½ cup. This non-digestible starch feeds beneficial gut bacteria and reduces the glycemic response by ~10–15% in adults over 60, according to clinical trials published in *Diabetes Care*.

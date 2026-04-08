@@ -86,22 +86,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does holiday travel circadian rhythm really increase AF risk—or is it just stress?
+#### Does holiday travel circadian rhythm really increase AF risk—or is it just stress?
 
 Yes—it’s physiologically real. Eastward travel disrupts the molecular clocks in heart tissue, alters potassium channel expression (like *KCNJ2* and *KCND3*), and impairs autonomic balance. Stress contributes, but circadian misalignment alone accounts for ~65% of travel-related AF episodes in adults 68+, independent of emotional strain.
 
-#### #### How can I prevent holiday travel circadian rhythm af trigger when visiting family overseas?
+#### How can I prevent holiday travel circadian rhythm af trigger when visiting family overseas?
 
 Start adjusting your sleep and medication schedule 3–4 days before departure. Use melatonin (0.5 mg) 1 hour before target bedtime at destination time *only on travel days*, stay hydrated, avoid alcohol/caffeine close to bedtime, and prioritize early-morning sunlight exposure upon arrival to reset your SCN (suprachiasmatic nucleus).
 
-#### #### Is “holiday heart syndrome prevention” different for older adults with AF?
+#### Is “holiday heart syndrome prevention” different for older adults with AF?
 
 Absolutely. While “holiday heart syndrome” traditionally refers to acute AF after binge drinking in younger adults, prevention for those 68+ focuses less on alcohol moderation and more on circadian alignment, anticoagulant timing, BP stability, and recognizing subtle symptoms like fatigue or brain fog—which may be the only sign of silent AF.
 
-#### #### Can jet lag cause high blood pressure—and does that affect AF?
+#### Can jet lag cause high blood pressure—and does that affect AF?
 
 Yes. Acute circadian disruption elevates nighttime systolic BP by an average of 12–18 mm Hg and blunts the normal nocturnal dip—increasing arterial pressure load on the left atrium. Since elevated BP is a top modifiable AF risk factor, this adds another layer to why **holiday travel circadian rhythm af trigger** is so impactful.
 
-#### #### Do all time zones pose equal risk—or is eastward travel truly worse?
+#### Do all time zones pose equal risk—or is eastward travel truly worse?
 
 Eastward travel is consistently higher risk. Crossing time zones westward allows your body to “stretch” its natural ~24.2-hour rhythm, which aligns more easily with longer days. Eastward travel requires *compressing* that cycle—something the aging circadian system struggles with. Studies show eastbound trips cause 2.3x more AF episodes than comparable westbound ones in adults over 65.

@@ -64,22 +64,22 @@ Arrhythmogenic cardiomyopathy is rare—and even rarer to detect in its earliest
 
 ### FAQ
 
-#### #### Can a normal ECG rule out arrhythmogenic cardiomyopathy in older adults?
+#### Can a normal ECG rule out arrhythmogenic cardiomyopathy in older adults?
 
 No—it cannot. Up to 30% of people with genetically confirmed ACM have a normal resting ECG, especially in early stages. In adults 55–66 with unexplained syncope and family history of SCD, *ECG limitations arrhythmogenic cardiomyopathy syncope* mean additional testing (like cardiac MRI) may be needed—even with “normal” results.
 
-#### #### What does T-wave inversion in V1–V3 mean in someone over 55?
+#### What does T-wave inversion in V1–V3 mean in someone over 55?
 
 In adults over 40, T-wave inversions isolated to V1–V3—without other explanations like prior heart attack—are considered a major diagnostic criterion for ACM. While not definitive alone, they strongly suggest underlying right ventricular pathology when paired with syncope or family history.
 
-#### #### Why might my echo be normal but still need a cardiac MRI?
+#### Why might my echo be normal but still need a cardiac MRI?
 
 Echocardiograms assess heart *function* and gross *structure*, but they can’t reliably detect early fatty replacement or microscopic scarring. Cardiac MRI visualizes tissue composition directly—making it the gold standard for identifying early ACM when *ECG limitations arrhythmogenic cardiomyopathy syncope* raise concern.
 
-#### #### Are PVCs dangerous in this context?
+#### Are PVCs dangerous in this context?
 
 Not all PVCs are concerning—but PVCs with left bundle branch block (LBBB) morphology and inferior axis (pointing down in leads II, III, aVF) may originate from the right ventricle and, when increasing with exercise, can signal early ACM. Context matters more than frequency.
 
-#### #### Is arrhythmogenic cardiomyopathy only found in young athletes?
+#### Is arrhythmogenic cardiomyopathy only found in young athletes?
 
 No. While historically linked to young competitive athletes, ACM has a broad age range. Late-onset presentations—especially in those 55–66 with syncope and family history—are increasingly recognized and should prompt careful evaluation beyond standard ECG and echo.

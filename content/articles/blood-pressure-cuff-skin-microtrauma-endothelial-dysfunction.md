@@ -108,22 +108,22 @@ Understanding *blood pressure cuff skin microtrauma endothelial dysfunction* isn
 
 ### FAQ
 
-#### #### Can blood pressure cuff skin microtrauma endothelial dysfunction happen even without visible bruising?
+#### Can blood pressure cuff skin microtrauma endothelial dysfunction happen even without visible bruising?
 
 Yes. Subclinical microtrauma refers to microscopic damage—capillary leakage, pericyte stress, and localized oxidative changes—that occurs before bruising or discoloration appears. Studies using high-resolution Doppler ultrasound have detected altered microvascular flow patterns in older adults after just 10–15 cuff inflations, even when skin looks entirely normal.
 
-#### #### How does blood pressure cuff skin microtrauma endothelial dysfunction affect long-term heart health?
+#### How does blood pressure cuff skin microtrauma endothelial dysfunction affect long-term heart health?
 
 Repeated microtrauma promotes chronic low-grade inflammation in the brachial artery wall, reducing nitric oxide availability and increasing arterial stiffness. Over time, this contributes to elevated pulse pressure, left ventricular hypertrophy, and higher risk for heart failure with preserved ejection fraction (HFpEF)—a condition affecting nearly 50% of heart failure cases in adults over 75.
 
-#### #### Is there a specific blood pressure cuff type recommended to reduce blood pressure cuff skin microtrauma endothelial dysfunction in seniors?
+#### Is there a specific blood pressure cuff type recommended to reduce blood pressure cuff skin microtrauma endothelial dysfunction in seniors?
 
 Cuffs with wider, softer bladders (e.g., “contoured” or “dual-bladder” designs) and automatic inflation control systems—especially those calibrated for slower ramp-up rates—have shown lower microtrauma incidence in pilot studies. However, proper sizing remains more impactful than brand features. Always prioritize accurate fit over advanced features.
 
-#### #### What’s the link between blood pressure cuff skin microtrauma and nitric oxide?
+#### What’s the link between blood pressure cuff skin microtrauma and nitric oxide?
 
 Mechanical compression disrupts endothelial nitric oxide synthase (eNOS) activity and increases superoxide production, which binds to and inactivates nitric oxide. This “quenching” effect reduces vasodilation capacity and initiates pro-inflammatory signaling—both hallmarks of early endothelial dysfunction.
 
-#### #### Can using a wrist blood pressure monitor avoid blood pressure cuff skin microtrauma endothelial dysfunction?
+#### Can using a wrist blood pressure monitor avoid blood pressure cuff skin microtrauma endothelial dysfunction?
 
 Wrist monitors avoid upper-arm trauma but introduce new variables: they’re highly sensitive to positioning and often less accurate in older adults with arterial stiffness or arrhythmias. For most adults 77+, a properly fitted upper-arm cuff remains the clinically preferred method—provided it’s sized and used thoughtfully.

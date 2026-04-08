@@ -86,22 +86,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Do statins after 75 actually reduce heart attacks—or is that just a myth?
+#### Do statins after 75 actually reduce heart attacks—or is that just a myth?
 
 No, it’s not a myth—but it’s also not guaranteed for everyone. Recent data from the PREVAIL trial shows a 22% reduction in heart attacks, strokes, or cardiovascular death in adults aged 75–84 taking moderate-intensity statins for primary prevention. Benefits were clearest in those with higher baseline risk (e.g., LDL >130 mg/dL or diabetes).
 
-#### #### Are statins after 75 myths vs facts relevant if I’ve never had high cholesterol?
+#### Are statins after 75 myths vs facts relevant if I’ve never had high cholesterol?
 
 Yes—they’re still relevant. Cholesterol levels can change with age, menopause, weight shifts, or new medications. Even if your numbers looked fine in your 60s, it’s wise to recheck every 1–2 years after 75. Some people develop “age-related dyslipidemia,” where LDL rises and HDL drops—making statin evaluation appropriate even without prior diagnosis.
 
-#### #### Do statins cause dementia or memory loss in older adults?
+#### Do statins cause dementia or memory loss in older adults?
 
 Large, high-quality studies—including STAREE and a 2023 meta-analysis of over 100,000 adults—found *no increased risk* of dementia, cognitive decline, or memory problems with statin use in adults over 75. In fact, some data suggest statins may support brain health by improving blood flow and reducing vascular inflammation.
 
-#### #### Can statins after 75 help with mobility or frailty?
+#### Can statins after 75 help with mobility or frailty?
 
 Not directly—but they *can* help preserve mobility *indirectly*. By lowering cardiovascular risk, statins reduce the chance of events (like heart failure or stroke) that often lead to sudden declines in strength, balance, and independence. STAREE specifically tracked physical function and found no increase in frailty or falls among statin users.
 
-#### #### What’s the safest statin to start after age 75?
+#### What’s the safest statin to start after age 75?
 
 Atorvastatin and rosuvastatin are most studied in older adults and generally well tolerated at low-to-moderate doses (e.g., atorvastatin 10–20 mg daily or rosuvastatin 5–10 mg daily). Simvastatin is less preferred after 75 due to higher drug-interaction risk—especially with common medications like amiodarone or certain antifungals. Your doctor will weigh your full medication list and kidney/liver function before recommending one.

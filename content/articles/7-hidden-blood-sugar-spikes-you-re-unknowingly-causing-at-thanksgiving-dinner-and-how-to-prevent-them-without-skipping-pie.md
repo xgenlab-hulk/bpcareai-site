@@ -50,17 +50,17 @@ Thanksgiving doesn’t have to be a metabolic minefield. With thoughtful prepara
 
 ### FAQ
 
-#### #### What causes blood sugar to spike 3 hours after Thanksgiving dinner?  
+#### What causes blood sugar to spike 3 hours after Thanksgiving dinner?  
 Delayed spikes often result from the combined effect of fat, alcohol, and refined carbs slowing digestion—plus age-related declines in insulin secretion. Checking glucose at 3 hours (not just 2) helps detect these late surges.
 
-#### #### How can I prevent thanksgiving blood sugar spikes without skipping dessert?  
+#### How can I prevent thanksgiving blood sugar spikes without skipping dessert?  
 Prioritize protein and fiber first, add healthy fat to desserts (e.g., nuts with pie), limit alcohol with sweets, and take a 15-minute walk after eating. These strategies reduce postprandial glucose area-under-the-curve by up to 22%.
 
-#### #### Is there a link between thanksgiving blood sugar spikes prevention and heart health?  
+#### Is there a link between thanksgiving blood sugar spikes prevention and heart health?  
 Yes. Repeated postprandial hyperglycemia contributes to arterial stiffness, endothelial damage, and increased systolic BP—especially relevant for adults 55+ with prediabetes. Managing glucose surges supports both glycemic and cardiovascular stability.
 
-#### #### Can stress really raise blood sugar at Thanksgiving?  
+#### Can stress really raise blood sugar at Thanksgiving?  
 Absolutely. Acute stress triggers cortisol and epinephrine release, stimulating the liver to produce extra glucose—even without eating. Combine that with rich foods, and the effect multiplies.
 
-#### #### Do blood pressure and blood sugar spikes happen together at holiday meals?  
+#### Do blood pressure and blood sugar spikes happen together at holiday meals?  
 Often. High-sodium, high-carb, high-fat meals elevate both systolic BP (by 5–12 mm Hg) and glucose (by 40–70 mg/dL), particularly in those with insulin resistance—a shared pathway known as cardiometabolic risk.

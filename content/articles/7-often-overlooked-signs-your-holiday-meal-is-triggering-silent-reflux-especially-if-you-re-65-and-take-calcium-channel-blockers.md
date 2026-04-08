@@ -87,17 +87,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ  
 
-#### #### What are the most common silent reflux symptoms after holiday meals seniors should watch for?  
+#### What are the most common silent reflux symptoms after holiday meals seniors should watch for?  
 The most frequently overlooked signs include morning hoarseness, a persistent dry cough (especially worse at night or when bending), frequent throat clearing, a sensation of something “stuck” in the throat, unexplained fatigue after eating, and a sour or metallic taste upon waking. These often occur *without* heartburn—and are especially relevant for seniors on calcium channel blockers, who may have reduced LES tone.
 
-#### #### Can calcium channel blockers cause silent reflux in older adults?  
+#### Can calcium channel blockers cause silent reflux in older adults?  
 Yes. Calcium channel blockers—including amlodipine, nifedipine, and diltiazem—relax smooth muscle throughout the body, including the lower esophageal sphincter (LES). This relaxation can allow small amounts of gastric content to rise into the esophagus and throat—triggering silent reflux symptoms after holiday meals seniors often attribute to aging or allergies.
 
-#### #### How can I tell if my post-holiday cough is from reflux or something else?  
+#### How can I tell if my post-holiday cough is from reflux or something else?  
 A reflux-related cough is typically dry, worse at night or upon waking, triggered by bending or lying flat, and *not* accompanied by fever, colored mucus, or nasal congestion. It often improves with dietary adjustments (e.g., avoiding late meals or fatty foods) and worsens after rich holiday meals. If it lasts more than 3 weeks—or is paired with voice changes, swallowing pain, or weight loss—it’s wise to consult your provider for further assessment.
 
-#### #### Is silent reflux dangerous for seniors?  
+#### Is silent reflux dangerous for seniors?  
 While not immediately life-threatening, untreated silent reflux can lead to chronic throat irritation, vocal cord damage, dental enamel erosion, and, in rare cases, precancerous changes in the esophagus (Barrett’s esophagus). For seniors—especially those with comorbidities like COPD, asthma, or chronic kidney disease—the cumulative impact on quality of life and respiratory health makes early recognition and management especially valuable.
 
-#### #### Do blood pressure medications like amlodipine affect digestion in seniors?  
+#### Do blood pressure medications like amlodipine affect digestion in seniors?  
 Yes—amlodipine and other calcium channel blockers can slow gastric motility and reduce lower esophageal sphincter pressure, both of which increase susceptibility to reflux. While they remain essential for cardiovascular protection, pairing them with mindful eating habits (like earlier meals and upright posture) helps balance digestive comfort with heart health.

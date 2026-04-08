@@ -50,17 +50,17 @@ Supporting your body through the holidays isn’t about restriction or perfectio
 
 ### FAQ  
 
-#### #### Can natural blood sugar support holidays really make a difference without medication?  
+#### Can natural blood sugar support holidays really make a difference without medication?  
 Yes—especially for prediabetes or mild fluctuations. Lifestyle-based support improves insulin sensitivity over time, and studies show many adults over 50 lower their HbA1c by 0.3–0.5% with consistent dietary and stress-management changes alone.
 
-#### #### What’s the best natural blood sugar support for Christmas parties and gatherings?  
+#### What’s the best natural blood sugar support for Christmas parties and gatherings?  
 Prioritize protein and fiber first (e.g., nuts, roasted veggies, lean turkey), sip water between drinks, and take a short walk afterward. These simple steps buffer glucose responses better than any single supplement.
 
-#### #### Are magnesium and cinnamon safe for older adults taking heart medications?  
+#### Are magnesium and cinnamon safe for older adults taking heart medications?  
 Generally yes—but always check with your pharmacist or doctor first. Magnesium can interact with certain diuretics or antibiotics, and cinnamon may enhance effects of anticoagulants at very high doses.
 
-#### #### How soon can I see results from natural blood sugar support holidays?  
+#### How soon can I see results from natural blood sugar support holidays?  
 Many notice improved energy and steadier moods within 3–5 days. For measurable glucose changes, allow 2–3 weeks of consistent habits—and track trends, not single numbers.
 
-#### #### Does stress really raise blood sugar during New Year celebrations?  
+#### Does stress really raise blood sugar during New Year celebrations?  
 Absolutely. Acute stress increases cortisol and epinephrine, which prompt the liver to release glucose—even without eating. That’s why breathwork and sleep hygiene are key parts of *natural blood sugar support holidays*.

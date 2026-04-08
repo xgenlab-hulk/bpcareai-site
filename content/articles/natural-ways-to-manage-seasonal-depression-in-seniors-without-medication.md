@@ -51,17 +51,17 @@ You’re not alone—and you don’t have to wait for spring to feel brighter. N
 
 ### FAQ
 
-#### #### Can natural remedies for seasonal depression really help older adults over 70?  
+#### Can natural remedies for seasonal depression really help older adults over 70?  
 Yes—research shows light therapy, regular physical activity, and social connection are especially effective for adults over 70. Because older adults often have more stable routines, integrating gentle strategies (like morning light or mindful breathing) can yield noticeable benefits within 2–4 weeks.
 
-#### #### What are the best natural remedies for seasonal depression without pills?  
+#### What are the best natural remedies for seasonal depression without pills?  
 The most evidence-backed options include timed bright-light exposure (morning), consistent sleep-wake schedules, moderate physical activity (even seated), nutrient-rich meals, and mindfulness practices like deep breathing or gratitude journaling. These approaches work synergistically—and many double as heart-healthy habits.
 
-#### #### How long do natural remedies for seasonal depression take to work?  
+#### How long do natural remedies for seasonal depression take to work?  
 Most people begin noticing subtle improvements—like better focus or steadier energy—in 2–3 weeks. Full benefit typically builds over 4–6 weeks of consistent practice. Patience and self-compassion are key parts of the process.
 
-#### #### Does vitamin D supplementation help with seasonal depression in seniors?  
+#### Does vitamin D supplementation help with seasonal depression in seniors?  
 It can—especially for those with documented deficiency (common in older adults). A typical maintenance dose is 600–800 IU/day, but your doctor can check levels and recommend what’s right for you. Don’t exceed 4,000 IU/day without medical supervision.
 
-#### #### Is seasonal depression in older adults different from regular depression?  
+#### Is seasonal depression in older adults different from regular depression?  
 Yes—it tends to follow a clear seasonal pattern (fall/winter onset, spring remission), features more fatigue and oversleeping (rather than insomnia), and often responds faster to light and routine-based strategies. Still, overlapping symptoms mean professional evaluation is always valuable.

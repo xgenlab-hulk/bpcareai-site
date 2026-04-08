@@ -56,19 +56,19 @@ See your doctor promptly if:
 
 ### FAQ
 
-#### #### What causes white coat resistance home higher blood pressure?  
+#### What causes white coat resistance home higher blood pressure?  
 It stems from age-related vascular changes—especially endothelial dysfunction and aortic stiffening—that reduce arterial buffering capacity. Unlike stress-induced spikes, this pattern reflects chronically heightened peripheral resistance during daily activity, coupled with impaired autonomic relaxation at night.
 
-#### #### Is white coat resistance home higher blood pressure dangerous?  
+#### Is white coat resistance home higher blood pressure dangerous?  
 Yes—if untreated. It signals early vascular aging and is linked to higher risks of left ventricular hypertrophy, microvascular damage, and silent cerebral small vessel disease—even when average BP appears “controlled.”
 
-#### #### How is white coat resistance home higher blood pressure different from masked hypertension?  
+#### How is white coat resistance home higher blood pressure different from masked hypertension?  
 Masked hypertension means *normal* clinic BP but *high* home/ambulatory BP—often tied to workplace stress or lifestyle factors. White coat resistance home higher blood pressure is a specific subset characterized by preserved or exaggerated daytime reactivity *plus* loss of nocturnal dipping—making it a stronger predictor of arterial stiffness progression.
 
-#### #### Can medication lower white coat resistance home higher blood pressure?  
+#### Can medication lower white coat resistance home higher blood pressure?  
 Some antihypertensives—particularly long-acting calcium channel blockers (e.g., amlodipine) and ARBs—show benefit in restoring nocturnal dipping and reducing central aortic pressure. However, treatment decisions should follow confirmed diagnosis via home or ambulatory monitoring—not isolated readings.
 
-#### #### Does white coat resistance home higher blood pressure get worse with age?  
+#### Does white coat resistance home higher blood pressure get worse with age?  
 Evidence suggests yes: longitudinal data shows progression in PWV and loss of dipping accelerates after age 60, especially without lifestyle intervention. Early recognition allows for timely vascular protection strategies.  
 
 If you're unsure, talking to your doctor is always a good idea.

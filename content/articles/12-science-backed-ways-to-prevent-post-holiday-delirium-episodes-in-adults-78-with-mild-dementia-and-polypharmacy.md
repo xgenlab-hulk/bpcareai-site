@@ -52,17 +52,17 @@ Preventing delirium after holiday in dementia seniors doesn’t require perfecti
 
 ### FAQ
 
-#### #### What are the top signs of delirium in older adults after the holidays?  
+#### What are the top signs of delirium in older adults after the holidays?  
 Early signs include sudden trouble focusing, disorientation to time/place, unusual drowsiness or agitation, rambling speech, or difficulty following simple directions — especially if they differ from baseline behavior.
 
-#### #### How can I prevent delirium after holiday dementia seniors through diet alone?  
+#### How can I prevent delirium after holiday dementia seniors through diet alone?  
 Diet alone isn’t enough — but it’s a powerful lever. Prioritize consistent hydration, balanced meals with protein/fiber, limited added sugar and anticholinergics (like nutmeg), and familiar foods. Pairing nutrition with stable sleep and medication review offers the strongest protection.
 
-#### #### Does polypharmacy increase the risk of prevent delirium after holiday dementia seniors?  
+#### Does polypharmacy increase the risk of prevent delirium after holiday dementia seniors?  
 Yes — significantly. Taking 4+ medications increases delirium risk by ~2.5x during seasonal disruptions. Review all prescriptions (including OTCs and supplements) with a geriatrician or pharmacist before December begins.
 
-#### #### Can dehydration really cause confusion in seniors over 75?  
+#### Can dehydration really cause confusion in seniors over 75?  
 Absolutely. Even mild dehydration (as little as 2% body weight loss) impairs attention and working memory. In older adults with dementia, it’s among the *most common* reversible causes of acute cognitive change.
 
-#### #### Is post-holiday delirium the same as worsening dementia?  
+#### Is post-holiday delirium the same as worsening dementia?  
 No — delirium is sudden, fluctuating, and usually reversible with timely support. Dementia progresses gradually over months/years. Distinguishing them helps guide appropriate care and avoids unnecessary worry.

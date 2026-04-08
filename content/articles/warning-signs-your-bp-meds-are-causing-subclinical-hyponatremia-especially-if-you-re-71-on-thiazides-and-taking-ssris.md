@@ -91,22 +91,22 @@ Hyponatremia linked to thiazide use in older adults is far more common—and far
 
 ### FAQ
 
-#### #### What are the earliest thiazide hyponatremia warning signs elderly people should watch for?
+#### What are the earliest thiazide hyponatremia warning signs elderly people should watch for?
 
 The earliest signs are often neuropsychiatric and gait-related—not dramatic, but persistent: mild memory lapses (like forgetting why you walked into a room), slower thinking speed, increased apathy, unsteady walking, or frequent near-falls. These may appear before sodium drops below 135 mmol/L, so context matters more than a single number.
 
-#### #### Can thiazide hyponatremia warning signs elderly occur even with “normal” sodium lab results?
+#### Can thiazide hyponatremia warning signs elderly occur even with “normal” sodium lab results?
 
 Yes—absolutely. Sodium levels between 135–137 mmol/L in adults over 70, especially with symptoms or risk factors (like SSRIs or frailty), warrant attention. Research shows functional decline begins well before the textbook “hyponatremia” cutoff. Trends matter more than isolated values.
 
-#### #### Are there blood pressure meds safer than thiazides for older adults at risk of hyponatremia?
+#### Are there blood pressure meds safer than thiazides for older adults at risk of hyponatremia?
 
 Yes. Calcium channel blockers (e.g., amlodipine), ACE inhibitors (e.g., lisinopril), or potassium-sparing diuretics (e.g., amiloride) are often preferred in frail older adults—particularly if hyponatremia is suspected or recurrent. They effectively manage arterial pressure without disrupting sodium balance the way thiazides can.
 
-#### #### How often should seniors on thiazides get sodium checked?
+#### How often should seniors on thiazides get sodium checked?
 
 For adults 71+, annual sodium testing is reasonable—but if you’re also on an SSRI, take other diuretics, or notice subtle changes in thinking or balance, ask about checking sodium every 6 months—or sooner if symptoms arise.
 
-#### #### Does drinking more water cause thiazide hyponatremia warning signs elderly?
+#### Does drinking more water cause thiazide hyponatremia warning signs elderly?
 
 Not exactly—but *excess* low-sodium fluids (like plain water, herbal tea, or coffee without electrolytes) *on top of* thiazide use can tip the balance. It’s less about total volume and more about sodium-to-water ratio. Sipping steadily beats guzzling—and including modest dietary sodium helps keep things balanced.

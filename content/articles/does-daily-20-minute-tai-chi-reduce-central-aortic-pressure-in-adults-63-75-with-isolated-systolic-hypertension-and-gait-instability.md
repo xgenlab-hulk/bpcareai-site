@@ -80,22 +80,22 @@ The journey of supporting your cardiovascular health in your 60s and 70s doesn�
 
 ### FAQ
 
-#### #### Does tai chi lower central aortic pressure in older adults with isolated systolic hypertension?
+#### Does tai chi lower central aortic pressure in older adults with isolated systolic hypertension?
 
 Yes—multiple clinical trials show that regular tai chi (especially 20 minutes daily for 12 weeks) significantly lowers central aortic pressure in adults aged 63–75 with isolated systolic hypertension. Reductions of up to 10 mm Hg in central systolic pressure have been documented, often exceeding changes seen in brachial (arm) readings.
 
-#### #### How does tai chi affect pulse wave velocity and augmentation index in ISH?
+#### How does tai chi affect pulse wave velocity and augmentation index in ISH?
 
 Tai chi improves both key markers of arterial health: pulse wave velocity (PWV) typically decreases by 0.5–0.8 m/sec, indicating reduced aortic stiffness, while augmentation index (AIx) drops by 5–7 percentage points—signaling less harmful wave reflection. These changes reflect improved biomechanical efficiency and enhanced vagal regulation.
 
-#### #### Is tai chi safe for people with gait instability and high blood pressure?
+#### Is tai chi safe for people with gait instability and high blood pressure?
 
 Yes—tai chi is uniquely suited for individuals with gait instability and isolated systolic hypertension. Its emphasis on controlled weight shifting, low center of gravity, and mindful movement has been shown in randomized trials to improve balance *while* reducing central aortic pressure—without increasing fall risk.
 
-#### #### Can tai chi replace blood pressure medication?
+#### Can tai chi replace blood pressure medication?
 
 Tai chi is best viewed as a powerful *complement*—not a replacement—for prescribed antihypertensive medication. Many participants in clinical trials continued their usual medications while gaining additional benefits from tai chi. Always consult your doctor before adjusting any treatment plan.
 
-#### #### What’s the best tai chi style for lowering blood pressure in seniors?
+#### What’s the best tai chi style for lowering blood pressure in seniors?
 
 Sun-style and modified Yang-style tai chi are most frequently studied and recommended for older adults with isolated systolic hypertension. Both emphasize upright posture, smooth transitions, and accessible movements—making them ideal for supporting both cardiovascular and balance health.

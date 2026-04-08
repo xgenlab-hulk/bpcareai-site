@@ -73,17 +73,17 @@ The idea that something as humble as flaxseed could meaningfully influence *flax
 
 ### FAQ
 
-#### #### Does flaxseed central aortic blood pressure improve with daily intake—and how much is needed?
+#### Does flaxseed central aortic blood pressure improve with daily intake—and how much is needed?
 Yes—clinical trials in adults 60–72 with metabolic syndrome show measurable improvements in flaxseed central aortic blood pressure with just 3 grams of *freshly ground* flaxseed daily for 8 weeks. Average reductions were around 5 mm Hg in central systolic pressure and nearly 4% in augmentation index—benefits that held even when brachial BP changed only slightly.
 
-#### #### How does flaxseed compare to other functional foods for lowering central aortic blood pressure?
+#### How does flaxseed compare to other functional foods for lowering central aortic blood pressure?
 Flaxseed stands out for its triple-action profile: ALA (omega-3), lignans (antioxidants), and soluble fiber (prebiotic). In head-to-head comparisons, it produced larger AIx reductions than psyllium alone and more consistent CASP benefits than walnuts or chia in this age group—likely due to its unique combination of bioactive compounds and favorable fermentation profile in the aging gut.
 
-#### #### Can flaxseed central aortic blood pressure benefits occur without noticeable changes in arm blood pressure?
+#### Can flaxseed central aortic blood pressure benefits occur without noticeable changes in arm blood pressure?
 Absolutely. That’s one of the most important insights from recent tonometry studies. Because central aortic blood pressure reflects wave reflection and arterial stiffness—not just cardiac output or peripheral resistance—it can improve *before* or *independently* of brachial BP changes. This is why some people feel more energetic or less “wired” within days—even if their arm cuff numbers haven’t budged yet.
 
-#### #### Is ground flaxseed safe for people on blood pressure medication?
+#### Is ground flaxseed safe for people on blood pressure medication?
 Generally yes—but talk to your doctor first. Flaxseed may have additive effects with ACE inhibitors or calcium channel blockers, especially if your BP begins dropping more than expected. Also, because it’s high in fiber and may mildly affect platelet function, it’s wise to space it at least 2 hours apart from medications absorbed in the gut (like levothyroxine or certain antibiotics).
 
-#### #### How long does it take to see flaxseed central aortic blood pressure results?
+#### How long does it take to see flaxseed central aortic blood pressure results?
 Most tonometric studies show statistically significant changes by week 4, with peak effects observed around week 8. However, some individuals report improved morning alertness or reduced leg fatigue as early as day 5–7—early signs your endothelium and autonomic tone may be responding. Consistency matters more than speed: skipping doses or using stale, pre-ground flaxseed significantly blunts benefits.

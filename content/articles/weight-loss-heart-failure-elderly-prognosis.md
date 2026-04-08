@@ -85,22 +85,22 @@ Aging with heart failure doesn’t mean passively waiting for decline. It means 
 
 ### FAQ
 
-#### #### Does weight loss always mean heart failure is getting worse?
+#### Does weight loss always mean heart failure is getting worse?
 
 Not necessarily—but in adults 80+, unintentional weight loss (especially >5% in 3 months) is rarely benign. It may reflect worsening cardiac output, but it can also point to other serious conditions like cancer, depression, or early dementia. Evaluation should focus on *why* the loss is happening—not just assuming it’s “just the heart.”
 
-#### #### What is considered dangerous weight loss in heart failure elderly prognosis?
+#### What is considered dangerous weight loss in heart failure elderly prognosis?
 
 In older adults with heart failure, losing more than 5% of baseline body weight in three months—or 10% over six months—is clinically significant and associated with higher mortality risk. For example, a 120-pound person losing 6+ pounds in 12 weeks warrants investigation, even if heart failure symptoms appear stable.
 
-#### #### How does weight loss heart failure elderly prognosis compare to BNP or ejection fraction?
+#### How does weight loss heart failure elderly prognosis compare to BNP or ejection fraction?
 
 Multiple studies confirm that unintentional weight loss outperforms BNP and left ventricular ejection fraction (LVEF) as a one-year mortality predictor in adults 80+. BNP can be falsely low in frailty or renal impairment, and LVEF doesn’t capture inflammatory or metabolic drivers of decline. Weight loss integrates all these domains.
 
-#### #### Can weight gain reverse heart failure cachexia?
+#### Can weight gain reverse heart failure cachexia?
 
 Not reliably—because cachexia involves irreversible muscle loss and metabolic dysfunction, not just low weight. Nutritional support and exercise help slow progression and improve function, but reversal requires treating the root cause (e.g., controlling inflammation, managing cancer, optimizing heart failure therapy).
 
-#### #### Is weight loss more concerning in HFpEF than HFrEF in older adults?
+#### Is weight loss more concerning in HFpEF than HFrEF in older adults?
 
 Yes—especially in women over 80. HFpEF is linked to higher rates of comorbidities (hypertension, diabetes, obesity-related inflammation) and often presents with subtle, insidious weight loss before overt symptoms emerge. In this group, weight loss may be among the earliest detectable signs of decompensation.

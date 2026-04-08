@@ -41,22 +41,22 @@ Heart health in winter isn’t about drastic changes—it’s about gentle, cons
 
 ### FAQ
 
-#### #### Are winter heart supplements necessary for everyone over 50?
+#### Are winter heart supplements necessary for everyone over 50?
 
 Not necessarily—but many older adults benefit from targeted support due to age-related declines in nutrient absorption and seasonal shifts in sun exposure and activity. Vitamin D, magnesium, and omega-3s are among the most evidence-backed *winter heart supplements*, especially for those with low baseline levels or specific risk factors.
 
-#### #### What are the best winter heart supplements for seniors with high blood pressure?
+#### What are the best winter heart supplements for seniors with high blood pressure?
 
 For seniors managing hypertension, vitamin D (1,000–2,000 IU D3 daily), magnesium glycinate (200–400 mg), and omega-3s (EPA/DHA combined 1,000 mg) have the strongest clinical backing. Always pair supplementation with home BP tracking and consult your doctor—especially if you’re on ACE inhibitors, beta-blockers, or diuretics.
 
-#### #### Can winter heart supplements replace heart medication?
+#### Can winter heart supplements replace heart medication?
 
 No. Supplements support—but do not substitute for—prescribed treatments. They work best as part of a holistic plan that includes medication adherence, lifestyle habits, and regular check-ins with your care team.
 
-#### #### How do I know if my vitamin D level is low?
+#### How do I know if my vitamin D level is low?
 
 A simple blood test (25-hydroxyvitamin D) tells the story. Levels below 20 ng/mL indicate deficiency; 20–29 ng/mL is insufficiency. Many primary care providers include this in routine winter labs for patients over 50.
 
-#### #### Is magnesium safe for seniors with kidney issues?
+#### Is magnesium safe for seniors with kidney issues?
 
 Magnesium supplementation requires caution with impaired kidney function (eGFR <60 mL/min). In such cases, excess magnesium isn’t excreted efficiently and can build up. Always get kidney function tested before starting—and work with your nephrologist or cardiologist on dosing.

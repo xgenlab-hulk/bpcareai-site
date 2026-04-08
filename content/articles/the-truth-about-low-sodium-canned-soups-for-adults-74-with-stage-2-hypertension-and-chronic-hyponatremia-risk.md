@@ -101,22 +101,22 @@ If you're unsure, talking to your doctor is always a good idea — especially be
 
 ### FAQ
 
-#### #### Is low-sodium soup safe for elderly people with hyponatremia?
+#### Is low-sodium soup safe for elderly people with hyponatremia?
 
 Not automatically. Many “low-sodium” soups replace sodium chloride with potassium chloride — which can worsen hyponatremia in older adults with reduced kidney function or on certain BP meds. Always check both sodium *and* potassium on the label, and discuss with your doctor before making dietary swaps.
 
-#### #### Can low sodium soup hyponatremia elderly cause confusion or memory issues?
+#### Can low sodium soup hyponatremia elderly cause confusion or memory issues?
 
 Yes — even mild hyponatremia (130–134 mmol/L) is linked to subtle cognitive changes in adults over 70, including slowed processing speed and short-term memory lapses. These symptoms often improve when sodium is gently restored — highlighting why soup choices matter more than we think.
 
-#### #### What’s the safest sodium level per serving for someone 74+ with stage 2 hypertension and hyponatremia risk?
+#### What’s the safest sodium level per serving for someone 74+ with stage 2 hypertension and hyponatremia risk?
 
 Aim for ≤100 mg sodium *and* ≤300 mg potassium per serving — especially if you’re on diuretics or have eGFR <60. Remember: “Low sodium” on the label (≤140 mg) isn’t tailored to hyponatremia risk, so individualized targets are key.
 
-#### #### Do potassium-based salt substitutes raise blood pressure?
+#### Do potassium-based salt substitutes raise blood pressure?
 
 No — potassium generally supports healthy blood pressure. But in older adults with impaired kidney clearance, excess potassium can disrupt sodium-water balance, *indirectly* affecting BP stability and increasing fall risk. It’s not the potassium itself — it’s the *context*.
 
-#### #### Are there any soups I can trust without checking every label?
+#### Are there any soups I can trust without checking every label?
 
 Look for brands labeled “no salt added” *and* “no potassium chloride” — and double-check the ingredients. Organic, low-sodium bone broths (with just bones, vinegar, herbs) tend to be safest. When in doubt, homemade is most controllable — and often more nourishing.

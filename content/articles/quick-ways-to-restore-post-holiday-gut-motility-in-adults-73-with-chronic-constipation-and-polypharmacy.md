@@ -75,17 +75,17 @@ Gentle movement, mindful breathing, and warm, soothing rituals aren’t “small
 
 ### FAQ
 
-#### #### How can seniors restore gut motility post-holiday without changing medications?
+#### How can seniors restore gut motility post-holiday without changing medications?
 Many seniors can safely support motility through non-pharmacologic methods that engage the vagus nerve and intrinsic gut nerves—like diaphragmatic breathing, abdominal self-massage, and timed warm herbal sips. These approaches avoid interactions entirely and are especially helpful when adjusting or tapering medications isn’t appropriate.
 
-#### #### What are the safest ways to restore gut motility post-holiday seniors over 75?
+#### What are the safest ways to restore gut motility post-holiday seniors over 75?
 For adults over 75, safety starts with gentleness: avoid stimulant laxatives, sudden high-fiber boosts, or aggressive abdominal pressure. Prioritize hydration (6–8 cups daily), 3-minute daily breathing + massage, and warm herbal teas like fennel or ginger. Always discuss new routines with your pharmacist or prescriber—especially if you take anticoagulants, diuretics, or heart medications.
 
-#### #### Can healthy holiday eating for seniors help prevent post-holiday constipation?
+#### Can healthy holiday eating for seniors help prevent post-holiday constipation?
 Yes—“healthy holiday eating for seniors” means prioritizing fiber *sources* that are gentle and well-tolerated (like cooked pears, oatmeal, or stewed prunes), staying hydrated with warm fluids, keeping portion sizes moderate, and maintaining light daily movement—even seated marches or walking around the kitchen. It’s less about restriction and more about rhythm.
 
-#### #### Are there foods seniors should avoid after the holidays to support gut motility?
+#### Are there foods seniors should avoid after the holidays to support gut motility?
 Limit highly processed sweets, heavy dairy-based desserts, and large portions of red meat immediately post-holiday—these can slow transit. Also, be cautious with unripe bananas, white rice, and excess cheese, which may contribute to firm stools in sensitive systems. Focus instead on steamed vegetables, warm soups, and fermented foods like plain yogurt (if tolerated).
 
-#### #### How long does it usually take to restore gut motility post-holiday seniors?
+#### How long does it usually take to restore gut motility post-holiday seniors?
 Most adults aged 73+ notice improved comfort and more predictable bowel patterns within 3–7 days of consistently practicing these gentle techniques—especially when combined with adequate hydration and light movement. Lasting change builds gradually: think of it as nurturing your gut’s natural rhythm, not forcing a quick fix.

@@ -97,17 +97,17 @@ Remember: Managing diabetes well at 60+ isn’t about perfection. It’s about k
 
 ### FAQ
 
-#### #### Does stable A1c mean I don’t need insulin yet?
+#### Does stable A1c mean I don’t need insulin yet?
 Not necessarily — especially if you’ve had type 2 diabetes for 10+ years. A1c reflects average glucose, not how hard your pancreas is working. Imaging and lab markers (like C-peptide) often reveal significant beta-cell loss even with “stable” A1c — making this one of the most persistent **insulin initiation myths type 2 diabetes** patients encounter.
 
-#### #### At what A1c should I consider insulin for type 2 diabetes?
+#### At what A1c should I consider insulin for type 2 diabetes?
 There’s no universal A1c threshold. Guidelines (like ADA/EASD) suggest considering insulin when A1c remains ≥7.5% on dual or triple therapy — *but* emerging data shows benefit in starting earlier (e.g., A1c 6.8–7.2%) for adults 57–70 with long-standing disease and signs of beta-cell decline. It’s less about the number, more about context.
 
-#### #### What are the signs that insulin initiation myths type 2 diabetes are affecting my care?
+#### What are the signs that insulin initiation myths type 2 diabetes are affecting my care?
 Common signs include: believing “my pills are enough forever,” avoiding insulin due to fear of needles or weight gain, or assuming stable A1c = no progression. If your doctor hasn’t discussed beta-cell health, insulin options, or long-term preservation strategies in the last 12–24 months, it may be time for a shared decision-making refresh.
 
-#### #### Is insulin safe for older adults with type 2 diabetes?
+#### Is insulin safe for older adults with type 2 diabetes?
 Yes — especially modern basal insulins (degludec, glargine U300). They’re designed for low hypoglycemia risk and flexible dosing. Studies like SENIOR and PRIME show excellent safety and quality-of-life outcomes in adults 65+ when initiated thoughtfully and titrated slowly.
 
-#### #### Can lifestyle changes reverse beta-cell loss?
+#### Can lifestyle changes reverse beta-cell loss?
 While you can’t fully regenerate lost beta cells, consistent healthy habits — especially weight loss (if indicated), sleep optimization, and regular movement — can significantly improve *function* of remaining cells and reduce demand on them. That’s why lifestyle and medication work best *together*, not as alternatives.

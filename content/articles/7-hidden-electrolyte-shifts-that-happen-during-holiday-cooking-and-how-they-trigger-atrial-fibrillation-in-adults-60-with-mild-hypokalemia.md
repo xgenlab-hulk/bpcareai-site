@@ -90,17 +90,17 @@ The holidays are meant to be joyful—not stressful on your cardiovascular syste
 
 ### FAQ
 
-#### #### Can holiday cooking really cause atrial fibrillation—even without alcohol?
+#### Can holiday cooking really cause atrial fibrillation—even without alcohol?
 Yes—especially in adults over 60 with mild hypokalemia. Prolonged standing, dehydration, and high-sodium seasoning during holiday cooking can shift potassium and magnesium levels enough to disrupt electrical signaling in the heart—triggering AFib independently of alcohol intake.
 
-#### #### What are the most common holiday cooking electrolyte shifts atrial fibrillation triggers?
+#### What are the most common holiday cooking electrolyte shifts atrial fibrillation triggers?
 The top three are: (1) potassium dropping due to diuretic-like effects of sodium overload and stress hormones; (2) magnesium depletion from sweating and poor dietary intake during busy prep; and (3) relative dehydration lowering overall electrolyte concentration—making the heart more electrically irritable.
 
-#### #### How can I tell if my palpitations are from holiday cooking electrolyte shifts atrial fibrillation—or something else?
+#### How can I tell if my palpitations are from holiday cooking electrolyte shifts atrial fibrillation—or something else?
 Look for patterns: Do flutters happen *only* during or shortly after extended cooking sessions? Are they paired with muscle cramps, thirst, or fatigue? If yes, electrolyte shifts are likely involved. If palpitations occur randomly—or with exertion, lying flat, or at night—other causes (like sleep apnea or structural heart changes) should be explored.
 
-#### #### Is “holiday heart syndrome” the same as holiday cooking electrolyte shifts atrial fibrillation?
+#### Is “holiday heart syndrome” the same as holiday cooking electrolyte shifts atrial fibrillation?
 Not exactly. “Holiday heart syndrome” traditionally refers to alcohol-triggered AFib in otherwise healthy people. **Holiday cooking electrolyte shifts atrial fibrillation** is a broader, physiology-first concept—it includes non-alcoholic triggers like salt, standing, and dehydration, especially relevant for older adults managing chronic conditions.
 
-#### #### Can eating bananas or drinking coconut water prevent holiday cooking electrolyte shifts atrial fibrillation?
+#### Can eating bananas or drinking coconut water prevent holiday cooking electrolyte shifts atrial fibrillation?
 They can help *support* potassium balance—but only if timed well and paired with hydration and sodium moderation. One banana (~422 mg potassium) won’t offset hours of high-salt cooking or significant fluid loss. Prevention works best when layered: smart seasoning, paced movement, consistent sipping, and mindful rest.

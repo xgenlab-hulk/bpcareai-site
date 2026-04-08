@@ -92,22 +92,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can lifestyle changes really improve left ventricular filling pressure without diuretics?
+#### Can lifestyle changes really improve left ventricular filling pressure without diuretics?
 
 Yes—multiple clinical trials confirm it. For example, the 2022 *RELAX-HFpEF* sub-study showed that combining timed hydration, posture sequencing, and vagal breathing lowered E/e’ by an average of 1.4 units in women 65+—comparable to mild pharmacologic effects, with no side effects.
 
-#### #### What are the best non-diuretic ways to improve left ventricular filling pressure for someone with HFpEF?
+#### What are the best non-diuretic ways to improve left ventricular filling pressure for someone with HFpEF?
 
 The most evidence-backed approaches include: 1) spacing fluid intake earlier in the day, 2) practicing slow, paced breathing to enhance vagal tone, 3) using gradual posture transitions before lying down, and 4) wearing daytime compression stockings. All are safe, accessible, and shown in echo-confirmed studies to support diastolic compliance.
 
-#### #### How do I know if I’m successfully improving left ventricular filling pressure without diuretics?
+#### How do I know if I’m successfully improving left ventricular filling pressure without diuretics?
 
 You may notice fewer episodes of breathlessness when lying flat, less nighttime coughing, steadier weight over time, and improved energy during daily tasks. While only echocardiography can confirm changes in E/e’, these symptom improvements strongly correlate with lower filling pressures in real-world practice.
 
-#### #### Does salt restriction help improve left ventricular filling pressure without diuretics?
+#### Does salt restriction help improve left ventricular filling pressure without diuretics?
 
 Moderate sodium moderation (1,500–2,000 mg/day) *can* help—but timing matters more than extreme restriction. Spreading sodium intake evenly across meals—and avoiding high-sodium dinners—reduces nocturnal fluid shifts and has stronger evidence than strict low-salt diets for HFpEF.
 
-#### #### Is walking safe if I have high left ventricular filling pressure?
+#### Is walking safe if I have high left ventricular filling pressure?
 
 Yes—gentle, consistent walking is one of the safest and most effective ways to improve left ventricular filling pressure without diuretics. Aim for 10–15 minutes after meals, at a pace where you can speak comfortably. Always consult your cardiologist before starting a new routine, especially if you experience chest discomfort or dizziness.

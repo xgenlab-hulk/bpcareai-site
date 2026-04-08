@@ -90,22 +90,22 @@ Your gut has adapted beautifully over decades — and occasional holiday indulge
 
 ### FAQ
 
-#### #### Can holiday pie really change my gut bacteria — even if I don’t get diarrhea?
+#### Can holiday pie really change my gut bacteria — even if I don’t get diarrhea?
 
 Yes — especially after age 65. Studies show that just 2–3 servings of traditional holiday pies can temporarily reduce butyrate-producing bacteria by up to 40%, often without diarrhea or bloating. Changes may appear as altered stool odor or slower morning energy onset instead.
 
-#### #### What are the earliest signs of gut microbiome shifts holiday pie in older adults?
+#### What are the earliest signs of gut microbiome shifts holiday pie in older adults?
 
 The most common early signs include: stronger or more sulfurous stool odor, a sense of incomplete evacuation despite daily bowel movements, and mild morning fatigue or brain fog that improves later in the day — all appearing within 2–4 days after eating pie.
 
-#### #### How long do gut microbiome shifts holiday pie last?
+#### How long do gut microbiome shifts holiday pie last?
 
 In most adults 65+ with stable IBS-D, these shifts resolve within 5–7 days of returning to usual eating patterns — especially with gentle fiber support and consistent mealtimes. Lasting changes are rare unless holiday-style eating continues for 2+ weeks.
 
-#### #### Does eating gluten-free or low-sugar pie prevent gut microbiome shifts holiday pie?
+#### Does eating gluten-free or low-sugar pie prevent gut microbiome shifts holiday pie?
 
 Not necessarily. While reducing refined sugar helps, many gluten-free crusts use highly processed starches (e.g., tapioca, potato) that ferment quickly and may *increase* gas-producing bacteria. Focus less on “free-from” labels and more on whole-food fiber pairing and portion mindfulness.
 
-#### #### Is it safe to take probiotics after holiday pie to reset my gut?
+#### Is it safe to take probiotics after holiday pie to reset my gut?
 
 For most adults over 65 with IBS-D, evidence for routine probiotic use is mixed. Some strains (e.g., *Bifidobacterium infantis* 35624) show modest benefit for IBS symptoms, but timing matters — starting *before* holiday meals may be more effective than waiting until after. Always discuss with your doctor first, especially if you have a weakened immune system or recent hospitalization.

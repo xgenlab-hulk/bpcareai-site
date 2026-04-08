@@ -72,17 +72,17 @@ Navigating emotional eating multigenerational gatherings doesn’t mean choosing
 
 ### FAQ
 
-#### #### Why do I crave sweets more during family holidays—even when I’m not hungry?
+#### Why do I crave sweets more during family holidays—even when I’m not hungry?
 This is common—and biologically understandable. Holidays activate memory centers tied to reward (like the hippocampus and nucleus accumbens), which can override normal hunger signals. Add in elevated cortisol from social performance pressure, and your body may seek quick glucose for energy—even if you don’t need it. Pairing a small sweet with protein (e.g., dark chocolate + almonds) helps stabilize the response.
 
-#### #### How does emotional eating multigenerational gatherings affect my A1C over time?
+#### How does emotional eating multigenerational gatherings affect my A1C over time?
 Studies suggest that recurring emotionally driven eating episodes—especially when paired with disrupted sleep or reduced activity—can raise A1C by 0.3–0.5 percentage points over 3–6 months in adults with long-standing type 2 diabetes. That may sound small, but it correlates with measurable increases in microvascular risk.
 
-#### #### Can emotional eating multigenerational gatherings raise my blood pressure too?
+#### Can emotional eating multigenerational gatherings raise my blood pressure too?
 Yes—indirectly but meaningfully. Cortisol and sympathetic nervous system activation increase heart rate and arterial pressure. In adults over 50, even brief spikes above 140/90 mm Hg during stressful interactions can compound existing vascular stiffness. Consistent emotional eating patterns often co-occur with sedentary time and sodium-rich foods—further influencing BP.
 
-#### #### Is it okay to skip medication to “fit in” at a big family meal?
+#### Is it okay to skip medication to “fit in” at a big family meal?
 No—and it’s more common than many realize. Skipping or delaying insulin, GLP-1 agonists, or other glucose-lowering meds increases risk of hyperglycemia, dehydration, and—in rare cases—diabetic ketoacidosis (DKA) or hyperosmolar state. Always consult your care team before adjusting dosing; many regimens can be flexibly timed.
 
-#### #### What’s one small thing I can do *this week* to prepare for upcoming gatherings?
+#### What’s one small thing I can do *this week* to prepare for upcoming gatherings?
 Try a “taste-and-reflect” practice: Choose one familiar family dish, eat a mindful bite, and gently ask yourself: *What am I feeling right now? What does this taste remind me of? Do I want more—or is something else calling for attention?* Noticing without judgment builds the neural pathways that support calmer, clearer choices later.

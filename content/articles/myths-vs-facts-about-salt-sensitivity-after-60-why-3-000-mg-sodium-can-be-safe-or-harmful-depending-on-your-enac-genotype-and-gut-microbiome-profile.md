@@ -79,17 +79,17 @@ The goal isn’t perfection—it’s precision. As we age, our bodies evolve, an
 
 ### FAQ
 
-#### #### What does “salt sensitivity genetics microbiome aging” actually mean?
+#### What does “salt sensitivity genetics microbiome aging” actually mean?
 It describes how an individual’s blood pressure response to sodium is influenced by three interacting factors: inherited genetic variants (like those in *SCNN1B* affecting sodium channels), the composition and metabolic output of their gut microbiome (e.g., TMAO vs. butyrate balance), and age-related physiological changes (reduced renal reserve, hormonal shifts). Together, they determine whether 3,000 mg sodium is safe—or risky—for *you*.
 
-#### #### Can I be salt-sensitive even if my blood pressure is normal?
+#### Can I be salt-sensitive even if my blood pressure is normal?
 Yes. Salt sensitivity is defined by *change*, not absolute BP. Some individuals maintain normal readings (e.g., 128/78 mm Hg) on low sodium but rise into hypertensive range (e.g., 142/86 mm Hg) on higher intake—making them “masked” salt-sensitive. This phenotype is associated with increased long-term arterial stiffness, even without overt hypertension.
 
-#### #### How does the gut microbiome affect salt sensitivity genetics microbiome aging?
+#### How does the gut microbiome affect salt sensitivity genetics microbiome aging?
 Your gut microbes metabolize nutrients into signaling molecules that directly influence vascular tone and inflammation. High-TMAO producers exacerbate salt-induced endothelial damage, while butyrate producers strengthen the gut barrier and dampen systemic inflammation—modulating how strongly your ENaC channels respond to sodium. This interaction is especially relevant after age 60, when microbiome diversity naturally declines.
 
-#### #### Is 3,000 mg of sodium safe for everyone over 60?
+#### Is 3,000 mg of sodium safe for everyone over 60?
 No—safety depends on your personal profile. For someone with a protective *SCNN1B* genotype *and* high butyrate-producing microbiota, 3,000 mg may pose minimal BP risk. But for someone with a risk variant *and* elevated TMAO, even 2,000 mg could trigger clinically meaningful rises in systolic BP. There is no universal “safe” threshold—only personalized thresholds.
 
-#### #### Do blood pressure medications change salt sensitivity?
+#### Do blood pressure medications change salt sensitivity?
 Some do. Thiazide diuretics (e.g., chlorthalidone) enhance sodium excretion and may mask underlying salt sensitivity—leading to rebound hypertension if discontinued abruptly. Conversely, RAAS inhibitors (e.g., lisinopril, losartan) blunt the renin-angiotensin system’s response to sodium, effectively reducing sensitivity. Always discuss sodium goals with your prescriber when starting or adjusting antihypertensives.

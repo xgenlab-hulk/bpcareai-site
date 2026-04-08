@@ -74,22 +74,22 @@ Your medical team knows that every person’s heart tells its own story — and 
 
 ### FAQ
 
-#### #### Can cataract surgery worsen heart disease in seniors?
+#### Can cataract surgery worsen heart disease in seniors?
 
 No — cataract surgery does not worsen heart disease. However, the perioperative period requires careful coordination for seniors with existing heart conditions. Temporary fluctuations in heart rate or blood pressure are possible but well-managed with pre-planning. Research shows no increased long-term cardiac risk when standard protocols are followed.
 
-#### #### How does heart disease affect cataract surgery recovery in seniors?
+#### How does heart disease affect cataract surgery recovery in seniors?
 
 Heart disease — especially when managed with beta-blockers — can influence how your body responds to surgical stress, light exposure, and pain relief. For example, slower heart rate recovery after mild vagal stimulation or heightened sensitivity to NSAID-related BP changes may occur. These are predictable, not dangerous — and easily addressed with tailored guidance from your care team.
 
-#### #### What medications should I stop before cataract surgery if I have heart disease?
+#### What medications should I stop before cataract surgery if I have heart disease?
 
 Most heart medications — including beta-blockers, ACE inhibitors, and statins — should be continued as prescribed. Only stop aspirin or NSAIDs (like ibuprofen) if specifically instructed by your surgeon or cardiologist, usually 5–7 days before surgery. Never discontinue beta-blockers without consultation — abrupt withdrawal can increase cardiac stress.
 
-#### #### Is a heart rate under 58 bpm safe during cataract surgery?
+#### Is a heart rate under 58 bpm safe during cataract surgery?
 
 Yes — especially if it’s stable and asymptomatic. Many healthy seniors on beta-blockers have resting heart rates in the 50–58 bpm range. Your surgical team will monitor your rhythm continuously and may use gentle interventions (like adjusting head position or administering a tiny dose of atropine) only if needed. This is routine, not concerning.
 
-#### #### How soon can I resume normal activities after cataract surgery if I have heart disease?
+#### How soon can I resume normal activities after cataract surgery if I have heart disease?
 
 Most seniors resume light activities — like walking and reading — within 24–48 hours. Avoid heavy lifting (>10 lbs), bending at the waist, or vigorous exercise for 5–7 days. If you use a cardiac rehab program, ask your cardiologist about easing back in — many programs offer modified sessions during early recovery.

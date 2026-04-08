@@ -66,22 +66,22 @@ Many people with marfanoid features live full, healthy lives—especially when a
 
 ### FAQ
 
-#### #### What are the earliest aortic strain warning signs marfanoid features back pain might indicate?
+#### What are the earliest aortic strain warning signs marfanoid features back pain might indicate?
 
 The earliest signs include unexplained upper or mid-back pain (often described as “tearing” or “stabbing”), loss of carotid pulse quality, a new pulsatile abdominal mass, or a widened mediastinum on prior chest X-ray—particularly when occurring together in someone with marfanoid traits.
 
-#### #### Can normal blood pressure readings rule out aortic strain warning signs marfanoid features back pain?
+#### Can normal blood pressure readings rule out aortic strain warning signs marfanoid features back pain?
 
 No. Even “normal” office BP may mask abnormal pressure dynamics—like wide pulse pressure (>60 mm Hg) or orthostatic surges—that strain the aorta. Ambulatory BP monitoring or home readings over time offer more insight than single measurements.
 
-#### #### How does high blood pressure contribute to aortic strain in people with marfanoid features?
+#### How does high blood pressure contribute to aortic strain in people with marfanoid features?
 
 Elevated blood pressure increases mechanical stress on the aortic wall. In marfanoid individuals, fibrillin-1 deficiency impairs elastic fiber integrity, making the aorta less able to absorb pulsatile forces—leading to progressive dilation or micro-tears over time.
 
-#### #### Is back pain always serious in older adults with marfanoid features?
+#### Is back pain always serious in older adults with marfanoid features?
 
 Not always—but it warrants careful evaluation. While muscle strain or arthritis is common, persistent, unrelenting, or position-independent back pain in this group should prompt assessment for aortic pathology, especially if accompanied by other warning signs.
 
-#### #### What imaging is best for detecting early aortic strain?
+#### What imaging is best for detecting early aortic strain?
 
 Transthoracic echocardiography (TTE) screens the ascending aorta well; contrast-enhanced CT angiography (CTA) or MR angiography provides comprehensive evaluation of the entire aorta—including abdominal segments—and is recommended if clinical suspicion is moderate to high.

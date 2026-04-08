@@ -92,22 +92,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Do women really need different sleep apnea screening for heart strain than men?
+#### Do women really need different sleep apnea screening for heart strain than men?
 
 Yes. Women—especially after age 60—are more likely to experience upper airway resistance syndrome (UARS) and RERAs rather than classic apneas. These cause less oxygen desaturation but more frequent arousals and autonomic stress, increasing long-term heart strain risk. Standard AHI-focused screening often misses this.
 
-#### #### What is sleep apnea screening women heart strain—and why is it important after 60?
+#### What is sleep apnea screening women heart strain—and why is it important after 60?
 
 *Sleep apnea screening women heart strain* refers to tailored assessment methods that go beyond oxygen levels to detect subtle breathing-related cardiac stress—like RERA frequency, HRV changes, and nocturnal BP patterns. It’s vital after 60 because age-related declines in vagal tone and estrogen loss amplify cardiovascular vulnerability to even mild sleep-disordered breathing.
 
-#### #### Can normal oxygen saturation hide heart strain in older women?
+#### Can normal oxygen saturation hide heart strain in older women?
 
 Absolutely. Up to 45% of women over 60 with confirmed OSA or UARS maintain average SpO₂ ≥94%. Yet they often show elevated sympathetic activity, non-dipping blood pressure, and reduced HRV—all linked to early structural and functional heart changes.
 
-#### #### Is there a link between sleep apnea and atrial fibrillation in women over 60?
+#### Is there a link between sleep apnea and atrial fibrillation in women over 60?
 
 Yes—strongly. Women over 60 with untreated OSA have a 2.7-fold higher risk of developing atrial fibrillation. Even mild OSA (AHI 5–15) increases AFib incidence by 40%, likely due to repeated intrathoracic pressure swings and nocturnal vagal withdrawal.
 
-#### #### What’s the best first step if I suspect sleep-related heart strain?
+#### What’s the best first step if I suspect sleep-related heart strain?
 
 Start with a detailed symptom log and discuss it with your primary care provider or cardiologist—mentioning concerns about RERAs, nocturnal BP patterns, or HRV. Request referral to a sleep specialist experienced in gender-specific presentations, not just a general screening test.

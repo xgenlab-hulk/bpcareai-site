@@ -69,22 +69,22 @@ Holiday meals don’t have to be a trade-off between joy and health—especially
 
 ### FAQ
 
-#### #### How can intergenerational recipes sarcopenia seniors improve muscle health?
+#### How can intergenerational recipes sarcopenia seniors improve muscle health?
 
 Intergenerational recipes sarcopenia seniors support muscle health primarily by increasing both total protein intake and its *quality*—especially leucine-rich, easily digestible sources like eggs, dairy, legumes, and collagen-fortified broths. When older adults co-develop meals with younger relatives, adherence improves significantly: studies show a 27% average rise in protein consumption during holiday weeks, along with greater variety in micronutrient-dense vegetables and whole grains.
 
-#### #### Are canned beans okay for seniors with sarcopenia—or should we always use dried?
+#### Are canned beans okay for seniors with sarcopenia—or should we always use dried?
 
 Canned beans are acceptable—and often practical—but choose low-sodium or no-salt-added varieties, and rinse thoroughly to reduce sodium by up to 40%. Dried beans, especially when pressure-cooked, retain higher levels of potassium, magnesium, and B vitamins critical for muscle and nerve function. For intergenerational recipes sarcopenia seniors, consider a hybrid approach: cook a large batch of dried beans together (a bonding activity!), then freeze portions for easy use year-round.
 
-#### #### What’s the best way to add more protein to traditional holiday sides without changing flavor?
+#### What’s the best way to add more protein to traditional holiday sides without changing flavor?
 
 Subtle, effective boosts include blending silken tofu into mashed potatoes (adds ~5 g protein/cup, undetectable texture), folding cooked lentils into stuffing (adds ~9 g protein/½ cup), or stirring 1 tbsp collagen peptides into gravy or cranberry sauce (adds ~10 g protein, zero taste). These methods preserve familiarity while meaningfully raising protein density.
 
-#### #### Can holiday cooking help manage blood pressure in seniors with sarcopenia?
+#### Can holiday cooking help manage blood pressure in seniors with sarcopenia?
 
 Yes—especially when intergenerational efforts prioritize potassium-rich foods (sweet potatoes, spinach, tomatoes), limit added sodium (using herbs, citrus, and vinegar instead of salt), and incorporate nitrate-rich vegetables like beets or arugula in salads or roasts. Since sarcopenia and hypertension frequently coexist, these dietary shifts support both muscle maintenance and arterial health.
 
-#### #### Do I need a nutritionist to adapt family recipes for sarcopenia?
+#### Do I need a nutritionist to adapt family recipes for sarcopenia?
 
 Not necessarily—many effective adaptations are intuitive and evidence-based (e.g., adding beans to soups, choosing leaner cuts, incorporating eggs). However, consulting a registered dietitian nutritionist (RDN) certified in geriatric nutrition is highly recommended if you’re managing multiple conditions (e.g., kidney disease, diabetes, or heart failure), taking medications affected by potassium or protein intake, or experiencing unintended weight loss or appetite changes.

@@ -62,17 +62,17 @@ In summary, staying safe this holiday season doesn’t mean avoiding celebration
 
 ### FAQ
 
-#### #### What are the earliest holiday hyponatremia warning signs seniors should watch for?
+#### What are the earliest holiday hyponatremia warning signs seniors should watch for?
 The most telling early signs include unexplained morning mental fogginess, brief episodes of trouble recalling words or names, and subtle balance changes—like shuffling feet or needing to hold furniture when standing. These often precede classic symptoms like vomiting or seizures and may be misattributed to holiday stress or aging.
 
-#### #### Can healthy holiday eating for seniors help prevent hyponatremia?
+#### Can healthy holiday eating for seniors help prevent hyponatremia?
 Yes—moderation matters. While sodium restriction is appropriate for some (e.g., heart failure), overly aggressive low-salt diets *combined* with high fluid intake increase hyponatremia risk. Healthy holiday eating for seniors includes balanced meals with natural sodium sources (e.g., vegetables, dairy, lean meats) and mindful beverage choices—not just focusing on “low salt” or “more water.”
 
-#### #### Are holiday hyponatremia warning signs seniors different from regular hyponatremia symptoms?
+#### Are holiday hyponatremia warning signs seniors different from regular hyponatremia symptoms?
 Yes. In older adults on SSRIs or thiazides, early signs are often neurological and transient—like momentary disorientation or mild gait hesitation—rather than acute nausea or lethargy. Classic symptoms usually appear only after sodium falls below 130 mmol/L; early warning signs may occur at 132–135 mmol/L, making them critical for prevention.
 
-#### #### How soon after increasing fluid intake can holiday hyponatremia warning signs seniors appear?
+#### How soon after increasing fluid intake can holiday hyponatremia warning signs seniors appear?
 In susceptible individuals, subtle signs can emerge within 24–72 hours of sustained increased fluid intake—especially if combined with new or intensified medication use, reduced activity, or illness. That’s why vigilance during the first week of holiday gatherings is especially important.
 
-#### #### Does drinking sparkling water or herbal tea count toward risky fluid intake?
+#### Does drinking sparkling water or herbal tea count toward risky fluid intake?
 Yes—any non-alcoholic beverage contributes to total water load. Sparkling water, unsweetened teas, broths, and even watery fruits (like watermelon or oranges) add volume. Focus on *consistency*, not just quantity: spreading intake across the day and matching fluids with food helps maintain balance better than large, infrequent servings.

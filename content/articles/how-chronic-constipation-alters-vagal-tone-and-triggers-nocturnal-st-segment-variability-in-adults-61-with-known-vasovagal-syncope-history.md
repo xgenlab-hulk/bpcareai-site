@@ -90,17 +90,17 @@ Understanding the relationship between digestion, nervous system regulation, and
 
 ### FAQ
 
-#### #### Can constipation and nocturnal ST variability indicate heart disease?
+#### Can constipation and nocturnal ST variability indicate heart disease?
 Not necessarily. While ST-segment changes can appear concerning, in the context of chronic constipation and vasovagal syncope history, they often reflect *vagally mediated repolarization shifts*, not coronary artery blockage. However, because true ischemia must always be ruled out first, evaluation—including stress testing or coronary CT angiography—is essential before attributing changes solely to autonomic mechanisms.
 
-#### #### Is constipation and nocturnal ST variability common in seniors?
+#### Is constipation and nocturnal ST variability common in seniors?
 It’s relatively uncommon overall but more frequently observed in specific subgroups: adults over 65 with documented vasovagal syncope and persistent functional constipation. Population studies estimate prevalence between 15–30% in this cohort—significantly higher than in age-matched controls without syncope.
 
-#### #### How does straining during bowel movements affect heart rhythm at night?
+#### How does straining during bowel movements affect heart rhythm at night?
 Straining activates the Valsalva maneuver—increasing intrathoracic pressure and triggering a reflexive vagal surge *after* release. In susceptible individuals, this can lower heart rate and blood pressure abruptly. At night, when vagal tone is already elevated, residual neural sensitivity may prolong this effect, contributing to delayed ST shifts during subsequent sleep cycles—even without active straining.
 
-#### #### What’s the difference between nocturnal ST variability and nocturnal angina?
+#### What’s the difference between nocturnal ST variability and nocturnal angina?
 Nocturnal angina occurs during REM sleep, usually with chest discomfort, diaphoresis, and elevated cardiac enzymes—indicating myocardial ischemia. In contrast, constipation and nocturnal ST variability typically occur in non-REM sleep, are asymptomatic, resolve spontaneously, and show no biomarker elevation or perfusion defects.
 
-#### #### Can improving constipation reduce ST changes on my ECG?
+#### Can improving constipation reduce ST changes on my ECG?
 Yes—clinical reports suggest that resolving chronic constipation (via fiber, osmotic laxatives like polyethylene glycol, or prokinetics such as prucalopride under supervision) often normalizes overnight HRV metrics and reduces frequency of ST deviations. One small pilot trial showed a 64% reduction in nocturnal ST events after 8 weeks of targeted gut-directed therapy.

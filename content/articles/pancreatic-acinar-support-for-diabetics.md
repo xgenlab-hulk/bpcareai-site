@@ -40,17 +40,17 @@ In caring for your pancreas, you’re also caring for your whole metabolic rhyth
 
 ### FAQ
 
-#### #### What natural supplements help pancreatic acinar support for diabetics?  
+#### What natural supplements help pancreatic acinar support for diabetics?  
 Zinc and vitamin B6 are key nutritional co-factors—not direct enzyme replacements, but helpers your body needs to produce and activate lipase and other digestive enzymes. Always discuss supplementation with your healthcare provider, especially if taking medications like ACE inhibitors (zinc interaction) or metformin (B6 depletion risk).
 
-#### #### Can pancreatic acinar support for diabetics improve blood sugar control?  
+#### Can pancreatic acinar support for diabetics improve blood sugar control?  
 Yes—indirectly. Better fat digestion reduces post-meal glucose volatility by supporting regular gastric emptying and gut hormone balance. In one pilot study, older adults with type 2 diabetes and low fecal elastase saw a 15% reduction in postprandial glucose excursions after 8 weeks of targeted nutrient support.
 
-#### #### Is fatty pancreas reversible—and does pancreatic acinar support for diabetics help?  
+#### Is fatty pancreas reversible—and does pancreatic acinar support for diabetics help?  
 While complete reversal isn’t guaranteed, studies show pancreatic fat content can decrease with sustained weight loss (5–7% body weight), improved insulin sensitivity, and reduced oxidative stress—all areas where mindful nutrition and movement play supportive roles.
 
-#### #### Are digestive bitters safe for seniors with diabetes?  
+#### Are digestive bitters safe for seniors with diabetes?  
 Most culinary bitters (dandelion, gentian, artichoke leaf) are well-tolerated in moderate amounts. However, avoid if you have gallstones, active peptic ulcer disease, or take blood thinners—gentian may enhance anticoagulant effects. Start with small doses and monitor tolerance.
 
-#### #### How do I know if I need pancreatic enzyme replacement therapy (PERT)?  
+#### How do I know if I need pancreatic enzyme replacement therapy (PERT)?  
 PERT is typically reserved for moderate-to-severe insufficiency—often defined as fecal elastase <100 µg/g or clear clinical signs like significant steatorrhea + weight loss. Your doctor may trial PERT temporarily while assessing response. Natural support strategies are appropriate at earlier stages and alongside medical guidance.

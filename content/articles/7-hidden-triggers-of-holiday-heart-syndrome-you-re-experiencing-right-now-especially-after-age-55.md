@@ -70,17 +70,17 @@ The holidays don’t have to be a cardiovascular gamble. With greater awareness 
 
 ### FAQ
 
-#### #### What are the most common holiday heart syndrome triggers after 55?
+#### What are the most common holiday heart syndrome triggers after 55?
 The most common non-alcoholic holiday heart syndrome triggers after 55 include sleep fragmentation, abrupt temperature changes (especially cold exposure), emotionally intense interactions, irregular meal timing, dehydration, medication timing disruptions (e.g., missing morning antihypertensives during travel), and sustained mental load from caregiving or planning. Each can independently elevate sympathetic tone and impair autonomic recovery.
 
-#### #### Can holiday heart syndrome triggers after 55 cause long-term damage?
+#### Can holiday heart syndrome triggers after 55 cause long-term damage?
 Occasional, well-managed exposures rarely cause permanent harm—but repeated or severe episodes may accelerate vascular aging and increase risk for incident atrial fibrillation, heart failure with preserved ejection fraction (HFpEF), or silent myocardial ischemia. Early recognition and mitigation support long-term resilience.
 
-#### #### Is holiday heart syndrome prevention possible without giving up traditions?
+#### Is holiday heart syndrome prevention possible without giving up traditions?
 Yes—prevention focuses on *how* you engage, not *whether*. For example: hosting instead of traveling preserves sleep continuity; scheduling family visits midday (when BP is naturally lower) reduces strain; using voice notes instead of lengthy calls conserves energy. Small adaptations compound into meaningful protection.
 
-#### #### Does caffeine worsen holiday heart syndrome triggers after 55?
+#### Does caffeine worsen holiday heart syndrome triggers after 55?
 Caffeine’s effect varies widely by individual tolerance and metabolism. In some adults over 55, even one cup of coffee may blunt nocturnal BP dipping or prolong QT interval. If you notice jitteriness, palpitations, or delayed sleep onset after caffeine, consider switching to decaf after noon—or eliminating it 3–5 days before travel or major events to assess baseline rhythm stability.
 
-#### #### How does stress differ as a holiday heart syndrome trigger after 55 versus younger adults?
+#### How does stress differ as a holiday heart syndrome trigger after 55 versus younger adults?
 Stress in older adults produces slower cortisol clearance and reduced HRV recovery. Where a 30-year-old’s heart rate may return to baseline within 90 seconds of a stressful event, it can take 3–5 minutes after age 55—prolonging strain on the left ventricle and coronary arteries. This makes pacing and recovery time especially critical.

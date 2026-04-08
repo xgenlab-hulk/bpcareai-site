@@ -78,17 +78,17 @@ Metformin has helped millions of people live longer, healthier lives with type 2
 
 ### FAQ
 
-#### #### Is metformin safe for elderly with diabetes over 80?
+#### Is metformin safe for elderly with diabetes over 80?
 Yes—many people over 80 continue metformin safely, especially if kidney function (eGFR) stays above 45 mL/min/1.73m² and they have no major heart or liver conditions. Dose adjustments and closer monitoring are typical, but discontinuation isn’t automatic with age alone.
 
-#### #### What are the risks of long-term metformin use in seniors?
+#### What are the risks of long-term metformin use in seniors?
 The main concerns are gradual decline in kidney clearance (raising theoretical lactic acidosis risk), vitamin B12 deficiency (affecting nerves and cognition), and gastrointestinal intolerance (bloating, diarrhea). None are inevitable—and all are manageable with routine screening and small lifestyle tweaks.
 
-#### #### How often should kidney function be checked for metformin safety for elderly with diabetes?
+#### How often should kidney function be checked for metformin safety for elderly with diabetes?
 At minimum once a year—but many geriatric and endocrinology experts recommend checking eGFR every 6 months for adults over 70 on metformin. More frequent checks may be needed if eGFR is trending downward or if you develop heart failure, recurrent infections, or dehydration.
 
-#### #### Can metformin cause memory problems in older adults?
+#### Can metformin cause memory problems in older adults?
 Metformin itself doesn’t directly cause memory loss—but long-term use is associated with lower vitamin B12, which *can* contribute to cognitive changes like brain fog or mild memory lapses. These are often reversible with B12 repletion, so screening is important.
 
-#### #### Does metformin raise blood pressure?
+#### Does metformin raise blood pressure?
 No—metformin is neutral for blood pressure. In fact, some studies suggest it may have modest BP-lowering effects (around 2–3 mm Hg systolic) due to improved insulin sensitivity and reduced vascular inflammation. It’s not a substitute for antihypertensive meds, but it won’t interfere with them either.

@@ -63,17 +63,17 @@ Your body remembers connection—not just in emotions, but in chemistry. The gut
 
 ### FAQ
 
-#### #### Can holiday isolation really change my gut bacteria at age 80?  
+#### Can holiday isolation really change my gut bacteria at age 80?  
 Yes—studies show even short-term reductions in social mealtimes correlate with measurable declines in SCFA-producing microbes like *Roseburia* and *Eubacterium rectale* within 5–7 days. This effect is more pronounced in adults over 80 due to age-related baseline microbial fragility.
 
-#### #### What are the best foods to support gut health during holiday isolation gut microbiota inflammation seniors?  
+#### What are the best foods to support gut health during holiday isolation gut microbiota inflammation seniors?  
 Focus on fiber-rich, gently fermented options: cooked apples with cinnamon (pectin + polyphenols), lightly steamed broccoli (sulforaphane), plain kefir (1/4 cup), and oats soaked overnight (beta-glucan). Avoid ultra-processed holiday treats high in emulsifiers, which may further disrupt mucus layer integrity.
 
-#### #### Does holiday isolation gut microbiota inflammation seniors affect blood pressure?  
+#### Does holiday isolation gut microbiota inflammation seniors affect blood pressure?  
 Indirectly, yes. Elevated IL-6 and reduced butyrate impair endothelial function and nitric oxide bioavailability—contributing to postprandial BP surges. One trial found frail seniors with low social meal frequency had a 22% higher odds of systolic BP >140 mm Hg after holiday meals.
 
-#### #### How long does it take to reverse gut changes from holiday isolation?  
+#### How long does it take to reverse gut changes from holiday isolation?  
 With consistent micro-social rituals and dietary support, microbial diversity improvements are detectable in stool samples within 10–14 days. Full functional recovery—including normalized IL-6 and GLP-1 responses—typically takes 3–4 weeks.
 
-#### #### Is loneliness the same as social isolation in terms of gut impact?  
+#### Is loneliness the same as social isolation in terms of gut impact?  
 No. Loneliness is subjective distress; social isolation is objective lack of contact. Research confirms that *objective mealtime isolation*—even without reported loneliness—drives measurable gut-immune shifts in seniors. Presence matters more than perception in this context.

@@ -87,17 +87,17 @@ Holiday travel doesn’t have to mean metabolic setbacks. With awareness and sma
 
 ### FAQ
 
-#### #### Does holiday travel circadian glucose spikes seniors happen even with short trips (under 3 time zones)?
+#### Does holiday travel circadian glucose spikes seniors happen even with short trips (under 3 time zones)?
 Yes—even crossing two time zones (e.g., Chicago to Denver) can delay melatonin onset by 1–2 hours and reduce insulin sensitivity by ~12%, per a 2021 *Journal of Clinical Endocrinology & Metabolism* study. The effect is subtler but still clinically relevant for those with prediabetes.
 
-#### #### How long does it take seniors to recover from holiday travel circadian glucose disruption?
+#### How long does it take seniors to recover from holiday travel circadian glucose disruption?
 Most adults aged 65+ require **1 day per time zone crossed** to fully re-synchronize. However, glucose tolerance often improves within 2–3 days of consistent local mealtimes and light exposure—even before full sleep normalization.
 
-#### #### Can healthy holiday eating for seniors offset circadian-related glucose spikes?
+#### Can healthy holiday eating for seniors offset circadian-related glucose spikes?
 Yes—when paired with timing. Choosing whole grains, lean proteins, and non-starchy vegetables helps, but eating those foods at biologically inappropriate times (e.g., a large carb-heavy dinner at 10 PM local time when your body expects fasting) still triggers exaggerated spikes. Timing + food quality = optimal protection.
 
-#### #### Is melatonin supplementation safe for seniors managing holiday travel circadian glucose spikes?
+#### Is melatonin supplementation safe for seniors managing holiday travel circadian glucose spikes?
 Low-dose (0.5–1 mg) melatonin taken 1–2 hours before *desired bedtime* at destination may aid adjustment—but consult your doctor first, especially if taking anticoagulants or antihypertensives. Melatonin alone won’t fix misaligned meal timing, which plays an equal role.
 
-#### #### Do blood pressure fluctuations during holiday travel relate to the same circadian mechanisms?
+#### Do blood pressure fluctuations during holiday travel relate to the same circadian mechanisms?
 Yes. Circadian misalignment elevates sympathetic nervous system tone and blunts nocturnal BP dipping—contributing to “non-dipper” patterns seen in up to 60% of older adults with prediabetes. This increases arterial stiffness and cardiovascular strain, reinforcing why integrated monitoring of both glucose and BP matters.

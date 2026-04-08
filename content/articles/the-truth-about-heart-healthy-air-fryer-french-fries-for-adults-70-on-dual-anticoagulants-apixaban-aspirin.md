@@ -88,22 +88,22 @@ Navigating food, medications, and heart health after 70 is anything but simple�
 
 ### FAQ
 
-#### #### Can air fryer fries interfere with apixaban or aspirin effectiveness?
+#### Can air fryer fries interfere with apixaban or aspirin effectiveness?
 
 Not directly—but high-heat cooking methods like air frying can increase acrylamide and oxidized lipids, which promote endothelial stress and platelet reactivity. This doesn’t “block” your medications, but may subtly reduce their protective margin—especially in seniors on dual anticoagulation. Think of it as background noise that makes the “signal” of your treatment slightly harder to maintain.
 
-#### #### Are air fryer fries anticoagulant safety seniors concerns overstated for healthy older adults?
+#### Are air fryer fries anticoagulant safety seniors concerns overstated for healthy older adults?
 
 Not necessarily overstated—but highly individualized. For seniors with stable kidney function, well-controlled blood sugar, and no history of vascular events, occasional air-fried potatoes pose minimal risk. However, for those on dual anticoagulants *and* managing additional conditions (like CKD, diabetes, or hypertension), the cumulative impact of dietary oxidative stress deserves thoughtful attention.
 
-#### #### What’s a safer way to enjoy crispy potatoes while on apixaban and aspirin?
+#### What’s a safer way to enjoy crispy potatoes while on apixaban and aspirin?
 
 Try oven-roasting at 160°C with olive oil and rosemary, or lightly pan-searing in avocado oil (high smoke point, low PUFA content). Soaking potatoes beforehand and avoiding browning beyond light golden reduces acrylamide significantly. And remember—crispy isn’t the only path to satisfaction. Try mashed potatoes with garlic-infused olive oil, or potato-leek soup with a drizzle of flaxseed oil for heart-healthy omega-3s.
 
-#### #### Do air fryer fries raise blood pressure?
+#### Do air fryer fries raise blood pressure?
 
 Not directly—but the oxidative stress and endothelial inflammation linked to high-acrylamide, high-oxidized-oil foods *can* contribute to arterial stiffness over time, which may elevate systolic BP. In seniors, even a 5–10 mm Hg sustained rise in systolic pressure is associated with increased cardiovascular risk.
 
-#### #### Is there a recommended weekly limit for air-fried starchy foods in seniors on blood thinners?
+#### Is there a recommended weekly limit for air-fried starchy foods in seniors on blood thinners?
 
 While no official guidelines exist, clinical dietitians working with anticoagulated seniors often suggest limiting high-heat starches (including air-fried, roasted, or grilled potatoes, breads, and cereals) to ≤2 servings per week—especially if paired with other pro-inflammatory foods. Prioritize boiled, steamed, or poached starches the rest of the time.

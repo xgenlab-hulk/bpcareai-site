@@ -76,15 +76,15 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can I use a CGM if I don’t own a smartphone—and am over 75?
+#### Can I use a CGM if I don’t own a smartphone—and am over 75?
 
 Yes—absolutely. Several FDA-approved CGMs work with simple, handheld readers that have large buttons, voice output, and no smartphone required. Medicare and many private insurers cover them for eligible seniors with diabetes, especially those on insulin or with hypoglycemia unawareness.
 
-#### #### Are cgms for seniors without smartphones covered by Medicare?
+#### Are cgms for seniors without smartphones covered by Medicare?
 
 Yes. Medicare Part B covers therapeutic CGMs (like Dexcom G7 with receiver or Abbott Libre 2/3 with reader) for people with diabetes who meet specific criteria—including those using insulin, having recurrent low blood sugar, or needing frequent glucose checks. Coverage includes sensors, transmitters, and compatible readers—not just smartphone apps.
 
-#### #### What’s the easiest CGM system for someone with arthritis or low vision?
+#### What’s the easiest CGM system for someone with arthritis or low vision?
 
 Look for systems with:  
 - Physical buttons (not touchscreens)  
@@ -94,10 +94,10 @@ Look for systems with:
 - Readers that weigh under 4 oz and fit comfortably in hand  
 Clinics often let you try demo units before committing.
 
-#### #### Do I need internet access to use a CGM without a smartphone?
+#### Do I need internet access to use a CGM without a smartphone?
 
 No. While some features—like remote sharing with family—require Wi-Fi or cellular service, core CGM functions (real-time glucose display, alarms, trend arrows, and data storage) work entirely offline. Manual downloads to a computer also require no internet.
 
-#### #### How often do I need to change the sensor—and is it painful?
+#### How often do I need to change the sensor—and is it painful?
 
 Most sensors last 10–14 days. Application uses a quick, spring-loaded inserter—similar to an EpiPen—and causes minimal discomfort for most people. Many clinics offer application assistance, and numbing cream (like lidocaine) can be applied 30 minutes beforehand if preferred. Removal is gentle—like peeling off a bandage.

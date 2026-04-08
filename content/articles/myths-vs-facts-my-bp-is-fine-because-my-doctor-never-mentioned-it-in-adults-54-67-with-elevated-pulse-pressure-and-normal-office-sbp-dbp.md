@@ -68,17 +68,17 @@ In short, trusting your BP numbers is wise — but looking *beyond* them is equa
 
 ### FAQ
 
-#### #### Is a high pulse pressure dangerous if my doctor never mentioned it?
+#### Is a high pulse pressure dangerous if my doctor never mentioned it?
 Yes — it can signal early arterial stiffness, especially after age 50. The **pulse pressure myth doctor not mentioning** reflects how routine BP checks often overlook this metric. A consistently wide pulse pressure (>55 mm Hg) deserves discussion, even with normal systolic/diastolic values.
 
-#### #### What’s a normal pulse pressure for someone my age (60+)?
+#### What’s a normal pulse pressure for someone my age (60+)?
 For adults 60+, a pulse pressure between 40–55 mm Hg is typical. Above 60 mm Hg — particularly with normal diastolic BP (<80 mm Hg) — may suggest aortic stiffening and warrants evaluation.
 
-#### #### Can pulse pressure be high even when my BP is “normal”?
+#### Can pulse pressure be high even when my BP is “normal”?
 Absolutely. This is called isolated pulse pressure elevation — e.g., 134/72 mm Hg (pulse pressure = 62 mm Hg). It’s a known risk marker for microvascular and cerebral changes, and part of the **pulse pressure myth doctor not mentioning** phenomenon.
 
-#### #### Does exercise lower pulse pressure?
+#### Does exercise lower pulse pressure?
 Yes — regular aerobic and resistance training can improve arterial elasticity over time. Studies show consistent activity may reduce pulse pressure by 3–6 mm Hg within 3–6 months.
 
-#### #### Should I ask my doctor about pulse pressure at my next visit?
+#### Should I ask my doctor about pulse pressure at my next visit?
 Yes. A simple question like, *“Could we look at my pulse pressure trend over time?”* opens an important conversation — especially if you’re 54–67 and have other cardiovascular risk factors.

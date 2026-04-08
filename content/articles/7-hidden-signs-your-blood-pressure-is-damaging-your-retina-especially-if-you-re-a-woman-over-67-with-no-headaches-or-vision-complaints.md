@@ -87,17 +87,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can high blood pressure cause eye problems even if I feel fine and have no vision changes?
+#### Can high blood pressure cause eye problems even if I feel fine and have no vision changes?
 Yes—absolutely. Hypertensive retinopathy often develops silently. Cotton-wool spots, arteriolar narrowing, and AV nicking may be present for months or years before any noticeable blurring, dimming, or headaches occur. That’s why regular dilated eye exams are essential, especially for women over 67.
 
-#### #### What are the most common retinal signs high blood pressure women over 67 should know about?
+#### What are the most common retinal signs high blood pressure women over 67 should know about?
 The three most clinically meaningful signs are: (1) cotton-wool spots (fluffy white patches indicating nerve fiber ischemia), (2) arteriovenous (AV) nicking (where retinal arteries indent crossing veins), and (3) asymmetric retinal changes—like more pronounced nicking in one eye versus the other. All can appear before BP reaches classic “hypertensive” thresholds.
 
-#### #### Do retinal signs high blood pressure women over 67 mean I’ll have a stroke?
+#### Do retinal signs high blood pressure women over 67 mean I’ll have a stroke?
 Not necessarily—but they *do* indicate increased risk. Research shows women over 65 with mild hypertensive retinopathy have up to a 2.3× higher 5-year risk of stroke compared to peers without retinal changes—even after accounting for measured BP. Think of it like tire tread wear: it doesn’t mean your car will break down tomorrow, but it tells you it’s time to check alignment, pressure, and maintenance.
 
-#### #### Can lowering my blood pressure reverse retinal damage?
+#### Can lowering my blood pressure reverse retinal damage?
 In many cases, yes—especially when caught early. Studies show improvement in arteriolar narrowing and resolution of cotton-wool spots within 3–6 months of achieving consistent BP control (typically <130/80 mm Hg for most adults over 65). Papilledema (optic nerve swelling) requires urgent treatment, but milder changes often respond well to sustained, gentle BP management.
 
-#### #### Is there a specific blood pressure target for women over 67 to protect their eyes?
+#### Is there a specific blood pressure target for women over 67 to protect their eyes?
 Current guidelines (ACC/AHA 2023) recommend an individualized goal, generally <130/80 mm Hg for most adults over 65—but your provider may adjust based on frailty, fall risk, or cognitive status. Importantly, *avoiding large fluctuations* (e.g., spikes >160/100 followed by drops <110/70) may matter just as much as the average number—since retinal vessels are sensitive to rapid pressure shifts.

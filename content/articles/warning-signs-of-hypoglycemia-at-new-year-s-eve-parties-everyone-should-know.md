@@ -95,17 +95,17 @@ The holidays are meant to bring joy, connection, and rest—not worry. Recognizi
 
 ### FAQ
 
-#### #### What are the most common hypoglycemia signs at parties seniors should watch for?
+#### What are the most common hypoglycemia signs at parties seniors should watch for?
 The most common signs include shakiness, sweating, rapid heartbeat, and sudden hunger—but seniors often experience subtler clues like confusion, drowsiness, blurred vision, or irritability. Because alcohol and excitement can mimic or mask these, it helps to check blood sugar if anything feels “off,” even mildly.
 
-#### #### Can hypoglycemia signs at parties seniors be mistaken for alcohol intoxication?
+#### Can hypoglycemia signs at parties seniors be mistaken for alcohol intoxication?
 Yes—absolutely. Slurred speech, unsteadiness, confusion, and drowsiness occur in both low blood sugar and alcohol use. That’s why it’s vital to treat suspected hypoglycemia *first*, especially if the person has diabetes or takes insulin or sulfonylureas—even if they’ve been drinking.
 
-#### #### How does alcohol affect blood sugar in older adults during New Year’s Eve?
+#### How does alcohol affect blood sugar in older adults during New Year’s Eve?
 Alcohol inhibits the liver’s ability to produce glucose, particularly when consumed without food. In seniors, this effect may be stronger due to slower metabolism, reduced kidney function, and medications that lower blood sugar. Lows can occur several hours after drinking—even overnight—so checking before bed is wise.
 
-#### #### Is it safe for seniors with diabetes to fast or skip meals during holiday parties?
+#### Is it safe for seniors with diabetes to fast or skip meals during holiday parties?
 Not usually. Skipping meals—especially before or during alcohol consumption—raises the risk of hypoglycemia significantly. Instead, aim for smaller, balanced portions throughout the evening, and always pair drinks with food.
 
-#### #### What’s the safest way to manage blood sugar during Christmas and New Year if I’m on insulin?
+#### What’s the safest way to manage blood sugar during Christmas and New Year if I’m on insulin?
 Work with your healthcare team *before* the holidays to review your insulin plan—especially timing and dosing around meals and alcohol. Carry fast-acting carbs, check glucose regularly, eat consistently, and avoid drinking on an empty stomach. A pre-party call with your doctor or diabetes educator can provide personalized guidance tailored to your routine.

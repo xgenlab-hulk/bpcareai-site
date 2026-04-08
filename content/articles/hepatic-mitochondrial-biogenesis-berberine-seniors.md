@@ -83,17 +83,17 @@ Supporting liver health in your 60s and beyond doesn’t mean chasing dramatic f
 
 ### FAQ  
 
-#### #### Can berberine help hepatic mitochondrial biogenesis berberine seniors — and is it safe with my diabetes meds?  
+#### Can berberine help hepatic mitochondrial biogenesis berberine seniors — and is it safe with my diabetes meds?  
 Yes — berberine activates AMPK, which in turn stimulates PGC-1α and TFAM, supporting new mitochondrial formation in liver cells. It’s generally safe with most diabetes medications, including metformin and GLP-1 agonists, *but* should be timed at least 2 hours apart from metformin to reduce GI side effects. Always discuss with your provider before combining, especially if you’re on insulin or sulfonylureas (risk of hypoglycemia is low but possible).  
 
-#### #### What’s the best time of day to take berberine for hepatic mitochondrial biogenesis berberine seniors?  
+#### What’s the best time of day to take berberine for hepatic mitochondrial biogenesis berberine seniors?  
 Evening dosing (with dinner) is preferred for seniors — slower nighttime gut transit allows more interaction with colonic bacteria needed to convert berberine into active metabolites. If using twice daily, pair the second dose with lunch — avoiding late-night use, which may interfere with sleep in sensitive individuals.  
 
-#### #### Does urolithin A work the same way in older adults — and do I need a test to see if my gut can make it?  
+#### Does urolithin A work the same way in older adults — and do I need a test to see if my gut can make it?  
 No — production drops significantly after age 60 due to shifts in *Gordonibacter* and *Ellagibacter* species. Stool testing for urolithin-producing bacteria isn’t routinely available or clinically validated for this purpose. Instead, a pragmatic approach is to trial a standardized urolithin A supplement (500 mg/day) for 12 weeks while tracking ALT, energy, and post-meal glucose — then reassess.  
 
-#### #### Can I support hepatic mitochondrial biogenesis berberine seniors with diet alone — no supplements?  
+#### Can I support hepatic mitochondrial biogenesis berberine seniors with diet alone — no supplements?  
 Yes — but it’s less predictable. Diets rich in polyphenols (berries, green tea, dark leafy greens), omega-3s (fatty fish, flax), and resistant starch (cooled potatoes, lentils) all support AMPK and mitochondrial health. However, achieving consistent, therapeutic levels of berberine or urolithin A through food alone is unlikely in seniors with age-related microbiome changes — making targeted, low-dose supplementation a reasonable adjunct.  
 
-#### #### Is hepatic mitochondrial biogenesis berberine seniors helpful for people with advanced fibrosis (F3–F4)?  
+#### Is hepatic mitochondrial biogenesis berberine seniors helpful for people with advanced fibrosis (F3–F4)?  
 This approach is best suited for early-stage NAFLD (F0–F2) and metabolic dysfunction. In advanced fibrosis, mitochondrial support remains important — but priority shifts to preventing further injury, managing portal pressure, and coordinating care with a hepatologist. Berberine and urolithin A are not substitutes for guideline-recommended therapies in cirrhosis.

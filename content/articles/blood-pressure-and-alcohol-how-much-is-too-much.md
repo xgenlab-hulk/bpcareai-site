@@ -73,17 +73,17 @@ You don’t need perfection to support your cardiovascular health—and understa
 
 ### FAQ
 
-#### #### Does alcohol raise blood pressure immediately?
+#### Does alcohol raise blood pressure immediately?
 Yes—alcohol can cause a short-term drop in BP right after consumption (due to vasodilation), followed within hours by a rebound increase. Chronic use leads to sustained elevation. Even one drink daily may raise systolic BP by 1–2 mm Hg over time—so *alcohol and blood pressure limits* are relevant even for light drinkers.
 
-#### #### What is the safest amount of alcohol for someone with high blood pressure?
+#### What is the safest amount of alcohol for someone with high blood pressure?
 For adults diagnosed with hypertension, current guidance from the American Heart Association recommends limiting alcohol to *no more than one drink per day for women and none for men*—or ideally, abstaining altogether. This reflects stricter *alcohol and blood pressure limits* than general population guidelines, given heightened sensitivity.
 
-#### #### Can cutting back on alcohol lower my blood pressure?
+#### Can cutting back on alcohol lower my blood pressure?
 Yes—reducing or eliminating alcohol is one of the most effective lifestyle changes for lowering BP. Studies show that people who cut from moderate to low or no alcohol intake see average reductions of 3–4 mm Hg in systolic pressure within 2–4 weeks. That’s clinically meaningful and may delay or reduce the need for medication.
 
-#### #### Is red wine really “heart-healthy”?
+#### Is red wine really “heart-healthy”?
 While some observational studies linked moderate red wine intake to lower cardiovascular risk, newer evidence suggests any potential benefit is likely due to lifestyle factors—not the wine itself. Alcohol—even in red wine—raises BP and increases atrial fibrillation risk. No major medical guideline recommends starting to drink for health reasons, especially after age 50.
 
-#### #### How does alcohol interact with blood pressure medications?
+#### How does alcohol interact with blood pressure medications?
 Alcohol can amplify side effects like dizziness or lightheadedness when combined with antihypertensives (e.g., beta-blockers, alpha-agonists). It may also interfere with liver metabolism of drugs like amlodipine or losartan, altering their effectiveness. Always discuss your alcohol habits with your prescriber to ensure safe *alcohol and blood pressure limits* are maintained.

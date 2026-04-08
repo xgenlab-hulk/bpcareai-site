@@ -68,17 +68,17 @@ In short, *nasal decongestants and carotid sinus sensitivity* are quietly connec
 
 ### FAQ
 
-#### #### Can nasal decongestants cause carotid sinus hypersensitivity?  
+#### Can nasal decongestants cause carotid sinus hypersensitivity?  
 No—chronic use is more likely to cause *hypo*sensitivity (blunted response), not hypersensitivity. Carotid sinus hypersensitivity is usually linked to aging, structural changes, or certain neurological conditions—not decongestants.
 
-#### #### Do nasal decongestants affect blood pressure in older adults?  
+#### Do nasal decongestants affect blood pressure in older adults?  
 Yes—especially with repeated use. Oral decongestants like pseudoephedrine can raise systolic BP by 5–15 mm Hg on average; in those with early autonomic neuropathy, they may also delay BP recovery after standing, increasing fall risk.
 
-#### #### How do nasal decongestants impact carotid sinus sensitivity over time?  
+#### How do nasal decongestants impact carotid sinus sensitivity over time?  
 Long-term α-adrenergic stimulation appears to desensitize baroreceptors in the carotid sinuses, reducing their ability to detect and respond to BP changes. This contributes to slower orthostatic recovery—particularly noticeable in adults 64+ with mild autonomic decline.
 
-#### #### Are there safer alternatives to OTC nasal decongestants for seniors?  
+#### Are there safer alternatives to OTC nasal decongestants for seniors?  
 Yes—saline nasal irrigation, steroid nasal sprays (prescription), and allergen avoidance are preferred first-line options. Antihistamines like loratadine or cetirizine (non-sedating) may help without affecting BP regulation.
 
-#### #### Can carotid sinus sensitivity improve after stopping nasal decongestants?  
+#### Can carotid sinus sensitivity improve after stopping nasal decongestants?  
 Often, yes—especially if use was recent and limited. Baroreflex function may gradually recover over several weeks, though full restoration depends on underlying health factors like diabetes control or neuropathy progression.

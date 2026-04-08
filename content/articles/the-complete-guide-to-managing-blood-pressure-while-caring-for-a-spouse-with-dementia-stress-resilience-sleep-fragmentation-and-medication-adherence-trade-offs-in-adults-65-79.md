@@ -70,22 +70,22 @@ Managing blood pressure while caring for a spouse with dementia isn’t about do
 
 ### FAQ
 
-#### #### How does caring for someone with dementia affect my blood pressure?
+#### How does caring for someone with dementia affect my blood pressure?
 
 Caring for a spouse with dementia often leads to chronic activation of the stress response, disrupted sleep, and inconsistent self-care—all of which contribute to elevated or unstable blood pressure. Research shows caregivers aged 65–79 are significantly more likely to develop hypertension, partly due to cortisol–renin dysrhythmia and reduced recovery time between daily stressors.
 
-#### #### What’s the best way to track blood pressure as a dementia caregiver?
+#### What’s the best way to track blood pressure as a dementia caregiver?
 
 Use a validated upper-arm home monitor, take readings twice daily (morning and early evening) for at least 5 days, and record them alongside brief notes about sleep, activity, and mood. Avoid checking during or right after caregiving tasks—wait until you’ve had 5 minutes of quiet. Consistency matters more than frequency.
 
-#### #### Can missed BP medication doses really impact my long-term heart health?
+#### Can missed BP medication doses really impact my long-term heart health?
 
 Yes—especially in adults over 65. Skipping doses—even occasionally—can lead to BP variability and increased arterial strain over time. Because kidney function and drug metabolism change with age, missed doses may have a more pronounced effect than earlier in life. Working with your provider to simplify your regimen (e.g., once-daily dosing, combination pills) can improve adherence.
 
-#### #### Is it normal for my blood pressure to spike at night if I’m up caring for my spouse?
+#### Is it normal for my blood pressure to spike at night if I’m up caring for my spouse?
 
 Not exactly “normal,” but quite common—and clinically meaningful. Nighttime BP that doesn’t dip by at least 10% (called “non-dipping”) is associated with higher cardiovascular risk. Fragmented sleep, frequent awakenings, and nocturnal anxiety all contribute. Discussing this pattern with your doctor may lead to timing adjustments—for example, taking certain BP meds in the evening instead of the morning.
 
-#### #### What lifestyle changes are most effective for blood pressure management dementia caregiver situations?
+#### What lifestyle changes are most effective for blood pressure management dementia caregiver situations?
 
 The most evidence-supported, realistic changes include daily movement (even 10–15 minutes), consistent meal timing, limiting caffeine late in the day, prioritizing restful micro-breaks, and using home BP tracking to spot patterns—not perfection. These strategies work *with* your caregiving reality, not against it.

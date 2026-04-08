@@ -3,7 +3,7 @@ title: >-
   Does Melatonin Raise Blood Pressure at Night? (Evidence-Based)
 slug: melatonin-blood-pressure-at-night
 description: >-
-  No — melatonin doesn’t raise BP at night; studies show it lowers nighttime systolic BP by 3.5 mmHg (vasodilation effect). Check your readings & talk to your
+  No — melatonin doesn’t raise BP at night; studies show it lowers nighttime systolic BP by 3.5 mmHg (vasodilation effect).
 date: '2026-04-04'
 updated: '2026-04-04'
 primaryKeyword: >-

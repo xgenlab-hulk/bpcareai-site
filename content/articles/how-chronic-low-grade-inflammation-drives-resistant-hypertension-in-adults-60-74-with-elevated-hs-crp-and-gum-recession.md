@@ -84,22 +84,22 @@ Understanding the role of chronic low-grade inflammation in resistant hypertensi
 
 ### FAQ
 
-#### #### Can treating gum disease really lower blood pressure in adults 60–74?
+#### Can treating gum disease really lower blood pressure in adults 60–74?
 
 Yes—clinical studies show that comprehensive periodontal therapy (including deep cleaning and follow-up maintenance) can reduce systolic blood pressure by an average of 8–12 mm Hg in adults 60–74 with resistant hypertension and active periodontitis. This effect appears strongest when combined with consistent oral hygiene and medical management.
 
-#### #### Is inflammation and resistant hypertension adults 60-74 linked to other health conditions?
+#### Is inflammation and resistant hypertension adults 60-74 linked to other health conditions?
 
 Yes. This combination is associated with higher risks for coronary artery disease, heart failure with preserved ejection fraction (HFpEF), chronic kidney disease progression, and cognitive changes—largely due to shared mechanisms like endothelial dysfunction and oxidative stress. However, addressing inflammation early can help slow or mitigate these risks.
 
-#### #### What’s the difference between regular CRP and hs-CRP—and why does it matter for inflammation and resistant hypertension adults 60-74?
+#### What’s the difference between regular CRP and hs-CRP—and why does it matter for inflammation and resistant hypertension adults 60-74?
 
 Standard CRP tests detect higher levels of inflammation (e.g., from infections or autoimmune flares). High-sensitivity CRP (hs-CRP) measures much lower concentrations—ideal for spotting the quiet, ongoing inflammation tied to cardiovascular risk and resistant hypertension. For adults 60–74, hs-CRP >2.0 mg/L is considered a red flag worth discussing with both your physician and dentist.
 
-#### #### Do I need antibiotics or surgery to treat gum disease related to my high blood pressure?
+#### Do I need antibiotics or surgery to treat gum disease related to my high blood pressure?
 
 Not usually. Most cases respond well to non-surgical treatments like scaling and root planing, along with improved daily care. Antibiotics or surgery are reserved for advanced, refractory cases—and even then, they’re part of a broader strategy that includes BP monitoring and lifestyle support.
 
-#### #### Can diet alone reduce inflammation enough to improve resistant hypertension?
+#### Can diet alone reduce inflammation enough to improve resistant hypertension?
 
 Diet is a powerful tool—but rarely sufficient on its own for resistant hypertension. A heart-healthy, anti-inflammatory eating pattern (like the DASH or Mediterranean approach) supports vascular health and lowers hs-CRP over time. Yet for adults 60–74 with gum-related inflammation, combining dietary changes with dental care yields the most consistent BP improvements.

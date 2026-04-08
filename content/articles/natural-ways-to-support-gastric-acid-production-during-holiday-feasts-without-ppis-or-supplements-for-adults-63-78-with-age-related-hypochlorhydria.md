@@ -45,22 +45,22 @@ In short, supporting gastric health during holiday meals is less about “fixing
 
 ### FAQ
 
-#### #### Can natural gastric acid support holiday meals help with bloating after big dinners?
+#### Can natural gastric acid support holiday meals help with bloating after big dinners?
 
 Yes—especially when bloating occurs 60–90 minutes after eating and is accompanied by early fullness. Bitter herbs, mindful chewing, and avoiding icy drinks before and during meals support timely acid release and gastric emptying, reducing fermentation-related gas.
 
-#### #### What are the safest natural gastric acid support holiday meals strategies for someone on blood pressure medication?
+#### What are the safest natural gastric acid support holiday meals strategies for someone on blood pressure medication?
 
 All the strategies described—bitter herb infusions, chewing pace, beverage temperature, and protein distribution—are non-pharmacologic and have no known interactions with antihypertensives. However, if you take ACE inhibitors or ARBs, discuss any new herbal routines with your prescriber, as some botanicals may influence potassium balance.
 
-#### #### Do digestive bitters really work for older adults with low stomach acid?
+#### Do digestive bitters really work for older adults with low stomach acid?
 
 Clinical evidence is limited but promising: a 2021 pilot study in adults 65+ showed that standardized gentian + artichoke extract taken 10 min pre-meal significantly improved subjective digestion scores and reduced postprandial fullness over 4 weeks. Effects are best when combined with behavioral supports like chewing and pacing.
 
-#### #### Is it normal to need less protein as we age—or more?
+#### Is it normal to need less protein as we age—or more?
 
 Older adults actually need *more* protein per kilogram of body weight (1.0–1.2 g/kg/day) to maintain muscle mass—but it must be well-digested. Natural gastric acid support holiday meals helps ensure that increased protein intake translates into absorption—not discomfort.
 
-#### #### Can low stomach acid cause vitamin B12 deficiency even with a balanced diet?
+#### Can low stomach acid cause vitamin B12 deficiency even with a balanced diet?
 
 Absolutely. Stomach acid is required to cleave B12 from dietary proteins so it can bind to intrinsic factor in the small intestine. Up to 40% of B12 deficiency in adults over 65 is linked to hypochlorhydria—not dietary lack.

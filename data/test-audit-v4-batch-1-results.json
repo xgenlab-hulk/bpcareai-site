@@ -1,0 +1,410 @@
+{
+  "batch_id": 1,
+  "total_checked": 20,
+  "audit_version": "v4-flexible",
+  "audit_date": "2026-03-11",
+  "articles": [
+    {
+      "slug": "the-truth-about-normal-bp-variability-why-24-hour-sd-15-mmhg-predicts-microinfarct-burden-in-adults-69-with-white-matter-hyperintensities",
+      "primaryKeyword": "blood pressure variability and brain health",
+      "score": 90,
+      "grade": "Excellent",
+      "needs_optimization": false,
+      "reasoning": "Natural, user-friendly search query that connects two clear medical concepts (blood pressure variability and brain health) in a way real users would search. No technical jargon. Clear intent. Audience not needed - the topic is specific enough and applies broadly to anyone concerned about BP and brain health.",
+      "strengths": [
+        "Natural search phrasing",
+        "User-friendly medical terms",
+        "Clear connection between two health concerns",
+        "Specific enough without being overly narrow"
+      ],
+      "weaknesses": []
+    },
+    {
+      "slug": "natural-ways-to-support-pancreatic-beta-cell-resilience-without-stimulating-insulin-secretion-using-sulforaphane-timing-low-dose-lithium-in-adults-56-64-with-early-beta-cell-decline",
+      "primaryKeyword": "health management seniors",
+      "score": 45,
+      "grade": "Poor",
+      "needs_optimization": true,
+      "reasoning": "Critical flaw: 'health management' is far too generic - users don't search for 'health', they search for specific conditions like diabetes, blood pressure, etc. The article is clearly about pancreatic beta cells and diabetes management, but the keyword loses all that specificity. While 'seniors' is good, the main topic needs to be specific (e.g., 'pancreatic beta cell support' or 'diabetes prevention').",
+      "strengths": [
+        "Has audience identifier (seniors)"
+      ],
+      "weaknesses": [
+        "Extremely generic main topic - 'health' is too vague",
+        "Users search for specific conditions, not 'health management'",
+        "Completely misses the article's actual focus on pancreatic/diabetes topics",
+        "No clear medical topic or search intent"
+      ]
+    },
+    {
+      "slug": "myths-vs-facts-about-salt-sensitivity-after-60-why-3-000-mg-sodium-can-be-safe-or-harmful-depending-on-your-enac-genotype-and-gut-microbiome-profile",
+      "primaryKeyword": "salt sensitivity genetics microbiome aging",
+      "score": 55,
+      "grade": "Poor",
+      "needs_optimization": true,
+      "reasoning": "While specific topics are included (salt sensitivity, genetics, microbiome, aging), the phrasing is unnatural and feels like keyword stuffing. Real users would search 'salt sensitivity after 60' or 'salt sensitivity genetics' - not a string of disconnected medical terms. The concepts are valid but need natural connectors or should be prioritized better (e.g., 'salt sensitivity and genetics over 60').",
+      "strengths": [
+        "Specific medical topics included",
+        "Age context present (aging)"
+      ],
+      "weaknesses": [
+        "Unnatural phrasing - feels like keyword list, not search query",
+        "Lacks connecting words or natural structure",
+        "Real users wouldn't type this exact string",
+        "Could be more focused on primary concept (salt sensitivity) with supporting details"
+      ]
+    },
+    {
+      "slug": "best-seated-breathing-patterns-with-real-time-hrv-feedback-for-adults-79-with-frailty-orthostatic-intolerance-and-mild-pulmonary-hypertension",
+      "primaryKeyword": "hypertension management adults 79+",
+      "score": 72,
+      "grade": "Good",
+      "needs_optimization": true,
+      "reasoning": "Decent keyword but somewhat generic given the article's specific focus. 'Hypertension management' is searchable and natural, and 'adults 79+' is good specificity. However, the article is about breathing exercises/HRV feedback, not general hypertension management. Could be more specific like 'breathing exercises hypertension seniors' or 'HRV breathing for blood pressure control'. Current keyword works but doesn't capture the unique value.",
+      "strengths": [
+        "Natural phrasing",
+        "Specific age demographic",
+        "Clear medical topic (hypertension)",
+        "User-friendly terms"
+      ],
+      "weaknesses": [
+        "Too generic for the article's specific focus on breathing/HRV",
+        "Doesn't capture the unique angle (breathing exercises)",
+        "Could better reflect actual content"
+      ]
+    },
+    {
+      "slug": "7-hidden-medication-interactions-that-raise-blood-pressure-after-age-60-including-common-antidepressants-antihistamines-and-topical-nsaids",
+      "primaryKeyword": "medication-induced hypertension over 60",
+      "score": 88,
+      "grade": "Very Good",
+      "needs_optimization": false,
+      "reasoning": "Strong keyword. 'Medication-induced hypertension' is a specific medical concept that users would search for (or 'medications that raise blood pressure'). Age context 'over 60' is natural and adds valuable specificity. Slightly technical with 'medication-induced' but still user-friendly enough. Could potentially be 90+ with slightly more natural phrasing like 'medications that raise blood pressure over 60', but this version is very good.",
+      "strengths": [
+        "Specific medical concept",
+        "Natural age identifier",
+        "Clear search intent",
+        "User-friendly while medically accurate"
+      ],
+      "weaknesses": [
+        "Minor: 'medication-induced' slightly formal, but acceptable"
+      ]
+    },
+    {
+      "slug": "why-does-blood-pressure-spike-during-morning-commutes-not-just-stress-in-adults-58-67-with-subclinical-carotid-plaque",
+      "primaryKeyword": "morning blood pressure spike traffic exposure",
+      "score": 82,
+      "grade": "Good",
+      "needs_optimization": true,
+      "reasoning": "Good keyword with natural concepts. 'Morning blood pressure spike' is exactly how users search. 'Traffic exposure' is a bit formal - users might search 'morning blood pressure spike driving' or 'blood pressure spike commute'. The connection between concepts is clear but could be more natural. Close to 85 threshold - this is borderline. Works well but slight rewording could improve.",
+      "strengths": [
+        "Natural search phrase (morning blood pressure spike)",
+        "Specific scenario (traffic/commute)",
+        "User-friendly terms",
+        "Clear search intent"
+      ],
+      "weaknesses": [
+        "Minor: 'traffic exposure' slightly formal - 'driving' or 'commute' more natural",
+        "Could use better connectors between concepts"
+      ]
+    },
+    {
+      "slug": "when-to-skip-the-family-dessert-table-entirely-5-clinical-indicators-that-signal-high-risk-carbohydrate-load-for-adults-69-with-diabetic-gastroparesis",
+      "primaryKeyword": "skip dessert diabetic gastroparesis seniors",
+      "score": 75,
+      "grade": "Good",
+      "needs_optimization": true,
+      "reasoning": "Interesting keyword with good specificity. 'Skip dessert' is very natural and action-oriented. 'Diabetic gastroparesis' is specific but somewhat technical (gastroparesis isn't widely known). 'Seniors' adds audience. However, phrasing is a bit choppy - reads like a list rather than a search query. Real users might search 'dessert and diabetic gastroparesis' or 'eating with diabetic gastroparesis'. The intent is clear, but naturalness could improve.",
+      "strengths": [
+        "Action-oriented (skip dessert)",
+        "Specific medical condition",
+        "Audience identifier (seniors)",
+        "Clear practical intent"
+      ],
+      "weaknesses": [
+        "Slightly choppy phrasing - not quite natural sentence flow",
+        "'Gastroparesis' is technical term not everyone knows",
+        "Could use connectors for more natural search phrase"
+      ]
+    },
+    {
+      "slug": "what-research-says-about-late-night-protein-timing-effects-on-overnight-glucose-stability-and-growth-hormone-pulses-in-adults-63-with-prediabetes",
+      "primaryKeyword": "late-night protein and blood sugar",
+      "score": 87,
+      "grade": "Very Good",
+      "needs_optimization": false,
+      "reasoning": "Excellent natural search query. 'Late-night protein' is how people actually search, 'blood sugar' is user-friendly (not 'glucose'). Connection is clear with 'and'. No audience specified, but that's fine - the query is specific and clear enough. Users interested in this would find it regardless of age. Very close to 90, just slightly less specific than it could be, but that's not necessarily bad.",
+      "strengths": [
+        "Very natural search phrasing",
+        "User-friendly terms (blood sugar vs glucose)",
+        "Clear cause-effect relationship",
+        "Common search scenario (late-night eating concerns)"
+      ],
+      "weaknesses": [
+        "Minor: could add context like 'diabetes' or 'prediabetes' but not necessary"
+      ]
+    },
+    {
+      "slug": "myths-vs-facts-you-can-reverse-type-2-diabetes-with-diet-alone-what-15-year-remission-data-shows-for-adults-diagnosed-after-age-55",
+      "primaryKeyword": "type 2 diabetes reversal after 55",
+      "score": 92,
+      "grade": "Excellent",
+      "needs_optimization": false,
+      "reasoning": "Excellent keyword. 'Type 2 diabetes reversal' is exactly what users search for. 'After 55' adds valuable age specificity naturally. Clear, specific, searchable, natural phrasing. This is precisely how real people would search when looking for information about reversing diabetes later in life. Nothing to improve.",
+      "strengths": [
+        "Perfect natural search phrase",
+        "Specific medical condition and goal (reversal)",
+        "Natural age context",
+        "Clear user intent",
+        "User-friendly terminology"
+      ],
+      "weaknesses": []
+    },
+    {
+      "slug": "5-things-every-man-over-65-taking-testosterone-replacement-should-know-about-its-effect-on-insulin-receptor-tyrosine-kinase-activity-and-glucose-uptake-efficiency",
+      "primaryKeyword": "testosterone therapy and insulin resistance",
+      "score": 89,
+      "grade": "Very Good",
+      "needs_optimization": false,
+      "reasoning": "Strong keyword. 'Testosterone therapy' is user-friendly (therapy vs replacement), 'insulin resistance' is well-known term. Natural connection with 'and'. No age specified, but that's acceptable - the medical topic connection is clear and specific enough. Users searching this would find value regardless of exact age phrasing. Very searchable, natural, clear intent.",
+      "strengths": [
+        "Natural phrasing with clear connector",
+        "Both concepts are user-searchable",
+        "Specific medical relationship",
+        "Clear health concern intent"
+      ],
+      "weaknesses": [
+        "Minor: could add 'men over 65' but not necessary given specificity"
+      ]
+    },
+    {
+      "slug": "warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-not-just-bloating-in-adults-70-with-long-term-ppi-use",
+      "primaryKeyword": "holiday leftovers gut dysbiosis ppi seniors",
+      "score": 62,
+      "grade": "Fair",
+      "needs_optimization": true,
+      "reasoning": "Mixed quality. 'Holiday leftovers' is very natural and specific context. 'Seniors' is good audience. However, 'gut dysbiosis' is technical jargon - most users would search 'gut health' or 'digestive problems'. 'PPI' (proton pump inhibitors) is also technical abbreviation. The phrasing is also choppy, lacking natural connectors. Better version: 'holiday leftovers gut health seniors' or 'leftover food digestive problems seniors'.",
+      "strengths": [
+        "Natural scenario (holiday leftovers)",
+        "Audience identifier (seniors)",
+        "Specific context"
+      ],
+      "weaknesses": [
+        "Technical jargon: 'gut dysbiosis' not user-friendly",
+        "Medical abbreviation 'PPI' unclear to general users",
+        "Choppy phrasing without connectors",
+        "Would benefit from simpler health terms"
+      ]
+    },
+    {
+      "slug": "the-complete-guide-to-managing-blood-pressure-while-caring-for-a-spouse-with-dementia-stress-resilience-sleep-fragmentation-and-medication-adherence-trade-offs-in-adults-65-79",
+      "primaryKeyword": "blood pressure management dementia caregiver",
+      "score": 91,
+      "grade": "Excellent",
+      "needs_optimization": false,
+      "reasoning": "Outstanding keyword. 'Blood pressure management' is natural and searchable. 'Dementia caregiver' perfectly captures the unique angle - users in this situation would absolutely search this way. All terms are user-friendly, no jargon. Natural flow. No age needed - 'dementia caregiver' already implies typical age range and the specificity is perfect. This would rank well and match user intent perfectly.",
+      "strengths": [
+        "Natural search phrasing",
+        "Unique angle well-captured (caregiver stress)",
+        "All user-friendly terms",
+        "Clear specific intent",
+        "Perfect audience match without forcing age numbers"
+      ],
+      "weaknesses": []
+    },
+    {
+      "slug": "5-things-every-woman-over-64-taking-low-dose-hrt-should-know-about-holiday-alcohol-interactions-and-hepatic-cyp2c9-saturation",
+      "primaryKeyword": "hrt alcohol metabolism seniors women",
+      "score": 78,
+      "grade": "Good",
+      "needs_optimization": true,
+      "reasoning": "Good core concepts but slightly awkward phrasing. 'HRT' is commonly known abbreviation (acceptable), 'alcohol metabolism' is searchable though a bit formal. 'Seniors women' is slightly awkward order - should be 'women seniors' or 'senior women'. Users would more likely search 'HRT and alcohol women' or 'hormone therapy alcohol interaction'. The concepts are right but flow could be more natural.",
+      "strengths": [
+        "Clear medical topic (HRT)",
+        "Relevant concern (alcohol interaction)",
+        "Audience specified (women, seniors)"
+      ],
+      "weaknesses": [
+        "Awkward word order: 'seniors women' unnatural",
+        "'Alcohol metabolism' slightly formal - 'alcohol interaction' more natural",
+        "Could flow better as search query"
+      ]
+    },
+    {
+      "slug": "12-foods-that-stabilize-postprandial-cholinergic-tone-not-just-digestive-aids-including-slow-roasted-fennel-lacto-fermented-beets-and-toasted-caraway-seeds-for-adults-60-74",
+      "primaryKeyword": "cholinergic-stabilizing foods seniors",
+      "score": 35,
+      "grade": "Very Poor",
+      "needs_optimization": true,
+      "reasoning": "Critical issues. 'Cholinergic-stabilizing' is highly technical medical jargon that virtually no regular users would search. 'Postprandial cholinergic tone' is something only medical professionals would use. Real users would search 'foods for digestion' or 'foods for gut health' or similar user-friendly terms. Even health-conscious seniors wouldn't search 'cholinergic'. This needs complete rewrite with user-friendly language.",
+      "strengths": [
+        "Has audience (seniors)"
+      ],
+      "weaknesses": [
+        "Extremely technical jargon: 'cholinergic-stabilizing'",
+        "Users would never search this medical terminology",
+        "No clear user-friendly health benefit described",
+        "Completely inaccessible to general audience",
+        "Must be rewritten in plain language"
+      ]
+    },
+    {
+      "slug": "12-foods-that-delay-endothelial-senescence-not-just-lower-bp-including-black-garlic-extract-germinated-brown-rice-and-low-age-roasted-chickpeas-for-adults-60",
+      "primaryKeyword": "foods that delay endothelial aging",
+      "score": 58,
+      "grade": "Poor",
+      "needs_optimization": true,
+      "reasoning": "Significant issues. 'Endothelial aging' is medical terminology that most users won't search. 'Endothelial' relates to blood vessels, but regular users would search 'foods for blood vessel health' or 'foods for heart health' or 'anti-aging foods for circulation'. The structure 'foods that delay...' is natural, but the medical term makes it unsearchable. Needs user-friendly alternative like 'foods for blood vessel health' or 'foods for healthy arteries'.",
+      "strengths": [
+        "Natural structure: 'foods that delay...'",
+        "Clear food-based intent"
+      ],
+      "weaknesses": [
+        "Technical jargon: 'endothelial' not user-friendly",
+        "Users don't search 'endothelial aging'",
+        "Needs plain language: 'blood vessel health', 'artery health', 'circulation'",
+        "Missing audience identifier that could help"
+      ]
+    },
+    {
+      "slug": "why-your-holiday-heart-palpitations-might-be-caused-by-cold-induced-coronary-vasoconstriction-not-alcohol-in-adults-59-with-raynaud-s-phenomenon",
+      "primaryKeyword": "cold-induced palpitations raynaud holiday heart",
+      "score": 68,
+      "grade": "Fair",
+      "needs_optimization": true,
+      "reasoning": "Mixed quality. 'Cold-induced palpitations' is good and searchable. 'Raynaud' is a known condition (acceptable specificity). 'Holiday heart' is a real medical term but not widely known. However, phrasing is choppy - feels like keyword list rather than natural search. Real users might search 'heart palpitations cold weather' or 'palpitations raynaud syndrome'. Lacks natural connectors, reads mechanically. Concepts are good but need better flow.",
+      "strengths": [
+        "Specific scenario (cold-induced)",
+        "Clear symptom (palpitations)",
+        "Specific condition (Raynaud)"
+      ],
+      "weaknesses": [
+        "Choppy, list-like phrasing - lacks natural flow",
+        "'Holiday heart' not widely known term",
+        "Missing connectors between concepts",
+        "Reads like keyword stuffing rather than search query"
+      ]
+    },
+    {
+      "slug": "why-your-holiday-energy-crash-may-be-postprandial-hypoglycemia-not-just-fatigue-in-adults-50-59-with-reactive-hypoglycemia-history",
+      "primaryKeyword": "holiday energy crash postprandial hypoglycemia",
+      "score": 71,
+      "grade": "Good",
+      "needs_optimization": true,
+      "reasoning": "Good natural start with 'holiday energy crash' - very user-friendly and searchable. However, 'postprandial hypoglycemia' is medical jargon. While 'hypoglycemia' is more commonly known than some terms, 'postprandial' (after eating) is technical. Better alternatives: 'holiday energy crash low blood sugar' or 'holiday energy crash after eating'. The intent is clear but language could be more accessible.",
+      "strengths": [
+        "Excellent natural phrase: 'holiday energy crash'",
+        "Relatable scenario",
+        "Clear symptom focus"
+      ],
+      "weaknesses": [
+        "Technical term: 'postprandial' (after eating)",
+        "'Hypoglycemia' known but could be 'low blood sugar'",
+        "Could be more user-friendly while keeping specificity"
+      ]
+    },
+    {
+      "slug": "why-your-blood-pressure-dips-too-much-after-walking-not-just-normal-recovery-in-adults-74-with-early-cardiac-amyloidosis",
+      "primaryKeyword": "post-walk hypotension in cardiac amyloidosis",
+      "score": 66,
+      "grade": "Fair",
+      "needs_optimization": true,
+      "reasoning": "Mixed quality. Structure is clear but has issues. 'Post-walk hypotension' is somewhat technical - 'hypotension' is medical term for low blood pressure. 'Cardiac amyloidosis' is very specific rare condition. For such a specific condition, the keyword might work for a niche audience, but 'hypotension' should probably be 'low blood pressure'. Also, phrasing with 'in' is slightly clinical. Better: 'blood pressure drops after walking' or 'low blood pressure after exercise cardiac amyloidosis'.",
+      "strengths": [
+        "Specific scenario (after walking)",
+        "Clear medical condition mentioned",
+        "Specific condition name (amyloidosis)"
+      ],
+      "weaknesses": [
+        "Technical term: 'hypotension' vs 'low blood pressure'",
+        "Clinical phrasing: 'in cardiac amyloidosis'",
+        "Could be more user-friendly",
+        "Very niche condition - but that may be intentional"
+      ]
+    },
+    {
+      "slug": "when-to-worry-about-just-one-more-glass-early-qtc-prolongation-signs-after-holiday-wine-consumption-in-women-62-on-ssris",
+      "primaryKeyword": "holiday wine qt prolongation ssri women",
+      "score": 64,
+      "grade": "Fair",
+      "needs_optimization": true,
+      "reasoning": "Several issues. 'QT prolongation' is medical jargon (heart rhythm issue) that general users won't search. 'SSRI' is an abbreviation (antidepressants) that's somewhat known but still clinical. Phrasing is very choppy and list-like. Real users would search 'wine and antidepressants' or 'alcohol ssri heart' or 'holiday drinking antidepressants'. Concepts are valuable but language is too technical and flow is poor.",
+      "strengths": [
+        "Relevant scenario (holiday wine)",
+        "Audience (women)",
+        "Important drug interaction topic"
+      ],
+      "weaknesses": [
+        "Technical jargon: 'QT prolongation'",
+        "Abbreviation: 'SSRI' somewhat known but clinical",
+        "Very choppy keyword list format",
+        "Lacks natural connectors and flow",
+        "Users would search more generally (wine and antidepressants)"
+      ]
+    },
+    {
+      "slug": "when-should-you-skip-the-holiday-buffet-entirely-4-clinical-red-flags-that-signal-high-risk-eating-for-adults-76-with-stage-4-ckd",
+      "primaryKeyword": "skip holiday buffet stage 4 ckd seniors",
+      "score": 77,
+      "grade": "Good",
+      "needs_optimization": true,
+      "reasoning": "Good action-oriented phrase 'skip holiday buffet' - very natural and relatable. 'Stage 4 CKD' is medical terminology (chronic kidney disease). While kidney patients may know 'CKD', it's still an abbreviation. 'Seniors' adds audience. Phrasing is slightly choppy. Better alternatives: 'holiday buffet chronic kidney disease' or 'holiday eating kidney disease seniors'. Close to 80+ but technical abbreviation and choppy flow hold it back slightly.",
+      "strengths": [
+        "Action-oriented natural phrase (skip holiday buffet)",
+        "Specific context (holiday eating)",
+        "Specific medical condition mentioned",
+        "Audience identifier (seniors)"
+      ],
+      "weaknesses": [
+        "Medical abbreviation: 'CKD' (spell out or use 'kidney disease')",
+        "Slightly choppy phrasing",
+        "Could flow more naturally with connectors"
+      ]
+    }
+  ],
+  "summary": {
+    "total": 20,
+    "excellent_90plus": 3,
+    "very_good_85to89": 3,
+    "good_70to84": 6,
+    "fair_60to69": 5,
+    "poor_40to59": 2,
+    "very_poor_below40": 1,
+    "needs_optimization": 15
+  },
+  "key_findings": {
+    "common_strengths": [
+      "Many keywords use natural search scenarios (holiday contexts, specific symptoms)",
+      "Good variety of specific medical conditions mentioned",
+      "Several excellent examples of user-friendly phrasing"
+    ],
+    "common_issues": [
+      "Technical medical jargon appears in 40% of keywords (cholinergic, endothelial, postprandial, hypotension, QT prolongation)",
+      "Choppy phrasing without natural connectors in several keywords (reads like lists, not searches)",
+      "Medical abbreviations without context (CKD, SSRI, PPI, HRT)",
+      "Some keywords too generic ('health management') while others too technical"
+    ],
+    "patterns": {
+      "audience_identifier_usage": "Used in 10/20 keywords - appropriately flexible, not forced",
+      "natural_phrasing": "Strong in top performers, weak in technical keywords",
+      "specificity_balance": "Best performers balance medical specificity with user-friendly language"
+    }
+  },
+  "recommendations": {
+    "immediate_priority": [
+      "Replace 'health management seniors' - too generic, needs specific condition",
+      "Replace 'cholinergic-stabilizing foods' - extreme technical jargon",
+      "Simplify technical terms: hypotension→low blood pressure, endothelial→blood vessel, postprandial→after eating"
+    ],
+    "secondary_improvements": [
+      "Add natural connectors to choppy keywords (and, for, with)",
+      "Spell out abbreviations or use common terms (CKD→kidney disease)",
+      "Improve word order in awkward phrases (seniors women→senior women)"
+    ],
+    "maintain": [
+      "Keep excellent natural keywords like 'type 2 diabetes reversal after 55'",
+      "Keep strong scenario-based keywords like 'blood pressure management dementia caregiver'",
+      "Keep user-friendly medical terms like 'blood sugar' instead of 'glucose'"
+    ]
+  }
+}

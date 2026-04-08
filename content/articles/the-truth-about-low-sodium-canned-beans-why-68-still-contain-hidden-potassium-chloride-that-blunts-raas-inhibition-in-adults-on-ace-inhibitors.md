@@ -68,17 +68,17 @@ In summary, low-sodium canned beans and ACE inhibitors require mindful pairing�
 
 ### FAQ
 
-#### #### Are low-sodium canned beans safe to eat if I’m taking ACE inhibitors?  
+#### Are low-sodium canned beans safe to eat if I’m taking ACE inhibitors?  
 It depends on the ingredients. Many “low-sodium” varieties replace salt with potassium chloride—which can raise blood potassium levels when combined with ACE inhibitors. Always check the ingredient list and consult your doctor or pharmacist before regularly consuming them.
 
-#### #### Do low-sodium canned beans and ACE inhibitors increase hyperkalemia risk?  
+#### Do low-sodium canned beans and ACE inhibitors increase hyperkalemia risk?  
 Yes—especially in adults over 60 with reduced kidney function. Potassium chloride in these products adds dietary potassium that ACE inhibitors impair the body’s ability to clear, raising the risk of hyperkalemia.
 
-#### #### What are safer alternatives to low-sodium canned beans for someone on ACE inhibitors?  
+#### What are safer alternatives to low-sodium canned beans for someone on ACE inhibitors?  
 Choose “no salt added” canned beans (rinse well before use) or cook dried beans from scratch. Avoid seasoning blends containing potassium chloride. Flavor with garlic, cumin, smoked paprika, or fresh herbs instead.
 
-#### #### Can potassium in beans affect my blood pressure treatment?  
+#### Can potassium in beans affect my blood pressure treatment?  
 Indirectly—yes. Excess potassium can blunt the full benefit of ACE inhibitors by interfering with RAAS inhibition and increasing the risk of side effects. Stable potassium levels support consistent BP control.
 
-#### #### How often should I get my potassium level checked if I eat low-sodium canned beans and ACE inhibitors?  
+#### How often should I get my potassium level checked if I eat low-sodium canned beans and ACE inhibitors?  
 Most clinicians recommend checking serum potassium every 3–6 months if you’re stable, or more frequently if you’ve had elevated readings, kidney concerns, or start new medications. Ask your provider what schedule fits your health profile.

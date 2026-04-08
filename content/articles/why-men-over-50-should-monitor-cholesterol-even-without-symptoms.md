@@ -61,22 +61,22 @@ Heart health isn’t about waiting for trouble—it’s about listening closely,
 
 ### FAQ
 
-#### #### Do I need cholesterol monitoring for men over 50 no symptoms if I feel fine?
+#### Do I need cholesterol monitoring for men over 50 no symptoms if I feel fine?
 
 Yes. High cholesterol causes no symptoms until arteries are significantly narrowed or blocked. By age 50, many men already have early plaque buildup—so screening is essential even with no warning signs.
 
-#### #### How often should cholesterol monitoring for men over 50 no symptoms happen?
+#### How often should cholesterol monitoring for men over 50 no symptoms happen?
 
 Most guidelines recommend screening every 4–6 years starting at age 40–45. For men over 50 with no symptoms but additional risk factors (e.g., family history, high BP), annual or biannual checks may be advised.
 
-#### #### What’s the difference between a basic cholesterol test and advanced lipid testing?
+#### What’s the difference between a basic cholesterol test and advanced lipid testing?
 
 A standard lipid panel measures total cholesterol, LDL, HDL, and triglycerides. Advanced tests—like LDL particle number (LDL-P) or ApoB—assess the actual number and size of cholesterol-carrying particles, offering greater precision for those at intermediate risk or with borderline results.
 
-#### #### Can cholesterol be too low?
+#### Can cholesterol be too low?
 
 Very low total cholesterol (<120 mg/dL) is uncommon and rarely harmful—but if accompanied by unintentional weight loss, fatigue, or digestive issues, it may signal an underlying condition and warrants medical evaluation.
 
-#### #### Does high HDL always protect the heart?
+#### Does high HDL always protect the heart?
 
 Not necessarily. While HDL >60 mg/dL is generally favorable, extremely high levels (>90 mg/dL) in some individuals may reflect dysfunctional HDL—especially if other risk factors are present. Context matters, which is why your full lipid profile and overall health picture guide interpretation.

@@ -37,17 +37,17 @@ Seasonal depression in older adults is treatable—and understanding how medicat
 
 ### FAQ
 
-#### #### What medications commonly interact with antidepressants in older adults with seasonal depression?  
+#### What medications commonly interact with antidepressants in older adults with seasonal depression?  
 Common culprits include beta-blockers (e.g., metoprolol), anticholinergics (e.g., oxybutynin, diphenhydramine), corticosteroids, and certain statins. These may interfere with serotonin, dopamine, or melatonin pathways—potentially worsening fatigue, low motivation, or sleep disruption tied to seasonal depression in older adults.
 
-#### #### Can medication interactions seasonal depression older adults be reversed?  
+#### Can medication interactions seasonal depression older adults be reversed?  
 Yes—in many cases. Adjusting doses, switching to alternatives with lower interaction potential (e.g., using ramipril instead of a beta-blocker for BP control), or adding supportive nutrients (like vitamin D or omega-3s) can ease symptoms. Always work with your prescriber before making changes.
 
-#### #### How do I know if my low energy is from seasonal depression—or a medication side effect?  
+#### How do I know if my low energy is from seasonal depression—or a medication side effect?  
 Look for timing: does fatigue or low mood consistently begin in late fall and improve by spring? Does it coincide with starting or adjusting a new medication? A symptom journal tracking daily energy, sleep, appetite, and medication timing can help clarify patterns—and is especially useful when discussing *medication interactions seasonal depression older adults* with your doctor.
 
-#### #### Are blood pressure medications linked to seasonal depression symptoms?  
+#### Are blood pressure medications linked to seasonal depression symptoms?  
 Some are—particularly non-selective beta-blockers (e.g., propranolol) and certain calcium channel blockers, which may cross the blood-brain barrier and influence norepinephrine or melatonin receptors. While they’re vital for cardiovascular health, their impact on mood deserves attention in the context of seasonal depression in older adults.
 
-#### #### Should I stop taking my medications if I think they’re worsening my seasonal depression?  
+#### Should I stop taking my medications if I think they’re worsening my seasonal depression?  
 No—never stop or change medications without consulting your doctor or pharmacist. Instead, share your concerns and observations. Together, you can explore safer alternatives or supportive strategies that honor both your heart health and emotional well-being. If you're unsure, talking to your doctor is always a good idea.

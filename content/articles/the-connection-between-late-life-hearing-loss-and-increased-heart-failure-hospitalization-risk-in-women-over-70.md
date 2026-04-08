@@ -57,22 +57,22 @@ Understanding the link between hearing loss and heart failure hospitalization em
 
 ### FAQ
 
-#### #### Does hearing loss increase heart failure hospitalization risk in older women?
+#### Does hearing loss increase heart failure hospitalization risk in older women?
 
 Yes—studies suggest women over 70 with untreated moderate-to-severe hearing loss face a 25–35% higher risk of heart failure hospitalization over five years, likely due to shared vascular vulnerability and delayed symptom reporting.
 
-#### #### Can treating hearing loss reduce heart failure hospitalization?
+#### Can treating hearing loss reduce heart failure hospitalization?
 
 While hearing aids haven’t yet been proven to directly lower heart failure hospitalization rates in large trials, they support better communication with clinicians, improved medication adherence, and earlier recognition of worsening symptoms—all factors linked to reduced acute care use.
 
-#### #### Is hearing loss and heart failure hospitalization linked in men too?
+#### Is hearing loss and heart failure hospitalization linked in men too?
 
 Research shows a similar association in men, though the magnitude appears slightly lower. Most large cohort studies report stronger correlations in women—possibly due to differences in vascular aging patterns, hormonal influences post-menopause, or longer average lifespan allowing more time for cumulative microvascular damage.
 
-#### #### What blood pressure level increases risk for hearing loss and heart failure hospitalization?
+#### What blood pressure level increases risk for hearing loss and heart failure hospitalization?
 
 Consistently elevated BP—particularly systolic ≥140 mm Hg or diastolic ≥90 mm Hg—contributes to microvascular damage in both the cochlea and myocardium. For adults over 65, current guidelines recommend treatment initiation at ≥130/80 mm Hg to reduce cardiovascular and sensory risks.
 
-#### #### How often should women over 70 get hearing and heart screenings?
+#### How often should women over 70 get hearing and heart screenings?
 
 Annual hearing assessments are recommended starting at age 65. Heart health checks—including BP, cholesterol, fasting glucose, and symptom review—should occur at least yearly, with more frequent monitoring if risk factors like hypertension, obesity, or family history are present.

@@ -99,22 +99,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What causes low fiber holiday constipation calcium in seniors?
+#### What causes low fiber holiday constipation calcium in seniors?
 
 It’s a combination of three factors: 1) Naturally slower colonic motility after age 60, 2) Reduced dietary fiber intake during holiday disruptions (fewer vegetables, more processed treats), and 3) Calcium carbonate supplements binding with bile and slowing transit—especially when taken without food or fiber. Together, they create a “perfect storm” for early, subtle constipation.
 
-#### #### Can low fiber holiday constipation calcium affect my blood pressure?
+#### Can low fiber holiday constipation calcium affect my blood pressure?
 
 Yes—indirectly. Straining during bowel movements (known as the Valsalva maneuver) can cause short-term spikes in systolic blood pressure—sometimes by 20–40 mm Hg. For seniors managing hypertension or heart health, minimizing constipation helps avoid unnecessary cardiovascular stress.
 
-#### #### How much fiber do I really need during the holidays if I take calcium?
+#### How much fiber do I really need during the holidays if I take calcium?
 
 Aim for 21–25 grams per day for women over 50 and 25–30 grams for men—*especially* when taking calcium supplements. Even small additions help: 1 medium pear (5.5 g), ½ cup black beans (7.5 g), or 2 tbsp ground flaxseed (3.8 g) go a long way.
 
-#### #### Is it safe to take magnesium with calcium during the holidays?
+#### Is it safe to take magnesium with calcium during the holidays?
 
 Often yes—magnesium citrate or glycinate (200–350 mg/day) can gently counter calcium’s constipating effect and support muscle relaxation in the gut. But talk with your doctor first, especially if you have kidney concerns or take certain heart medications.
 
-#### #### Does holiday stress make low fiber holiday constipation calcium worse?
+#### Does holiday stress make low fiber holiday constipation calcium worse?
 
 Absolutely. Stress activates the sympathetic nervous system (“fight-or-flight”), which directly suppresses digestive activity—including enzyme release and intestinal contractions. Combine that with disrupted sleep and irregular meals, and your gut gets a triple challenge—making fiber and mindful calcium timing even more important.

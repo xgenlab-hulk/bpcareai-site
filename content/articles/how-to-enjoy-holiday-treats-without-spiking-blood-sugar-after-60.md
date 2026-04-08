@@ -45,17 +45,17 @@ In closing, enjoying the holidays doesn’t require sacrifice—it calls for tho
 
 ### FAQ  
 
-#### #### Can I enjoy holiday treats without spiking blood sugar if I have prediabetes?  
+#### Can I enjoy holiday treats without spiking blood sugar if I have prediabetes?  
 Yes—prediabetes is reversible with consistent lifestyle habits. Focus on pairing carbs with protein/fiber, limiting portions to ≤15 g of net carbs per serving, and moving gently (e.g., a 10-minute walk) after eating. Many seniors see improved postprandial glucose within 2–4 weeks of consistent practice.
 
-#### #### What are the best holiday desserts to enjoy without spiking blood sugar?  
+#### What are the best holiday desserts to enjoy without spiking blood sugar?  
 Look for options naturally lower in refined carbs and higher in fiber: baked apples with cinnamon and walnuts, dark chocolate (70%+ cocoa) with a handful of almonds, or chia seed pudding sweetened with a touch of monk fruit. Avoid anything made with white flour, corn syrup, or fruit juice concentrate—even if labeled “sugar-free.”
 
-#### #### How can I enjoy holiday treats without spiking blood sugar when dining out or at family gatherings?  
+#### How can I enjoy holiday treats without spiking blood sugar when dining out or at family gatherings?  
 Plan ahead: Eat a small protein-rich snack (e.g., hard-boiled egg + cucumber slices) before arriving. At the table, fill half your plate with non-starchy vegetables first, then add lean protein, and *lastly* choose one small dessert—eat it slowly and stop when satisfied, not full.
 
-#### #### Does alcohol affect blood sugar during the holidays?  
+#### Does alcohol affect blood sugar during the holidays?  
 Yes—especially sweet wines, eggnog, and mixed drinks with juice or syrups. Alcohol can both raise and lower blood glucose unpredictably. Stick to 1 standard drink (5 oz wine, 12 oz light beer) and always consume it with food—not on an empty stomach.
 
-#### #### Is it okay to skip meals to “save room” for holiday desserts?  
+#### Is it okay to skip meals to “save room” for holiday desserts?  
 No. Skipping meals increases insulin resistance and often leads to overeating later—and sharp glucose spikes. Instead, eat regular, balanced meals and include your treat as a planned part of one meal, not an addition to it.

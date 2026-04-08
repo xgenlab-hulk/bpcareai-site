@@ -56,17 +56,17 @@ Managing blood pressure through summer heatwaves doesn’t mean compromising saf
 
 ### FAQ
 
-#### #### Should I lower my blood pressure medication dose during a heatwave?
+#### Should I lower my blood pressure medication dose during a heatwave?
 Yes—*if advised by your clinician*. Some antihypertensives (especially thiazide diuretics) may need temporary dose reduction during prolonged heat exposure to prevent dehydration and low BP. Never adjust doses without professional input.
 
-#### #### How does summer heat affect antihypertensive dosing summer heatwaves in older adults?
+#### How does summer heat affect antihypertensive dosing summer heatwaves in older adults?
 Heat increases vasodilation and fluid loss, which can amplify the effects of medications like CCBs and diuretics. In adults over 60, reduced thirst perception and slower autonomic responses raise the risk of orthostatic hypotension—making *antihypertensive dosing summer heatwaves* especially important to manage safely.
 
-#### #### Can I stop my blood pressure meds in hot weather?
+#### Can I stop my blood pressure meds in hot weather?
 No. Stopping antihypertensive medications abruptly—even during summer—can cause dangerous rebound hypertension, increasing stroke and heart event risk. Always consult your provider before any change.
 
-#### #### What’s the safest time of day to take my blood pressure pills in summer?
+#### What’s the safest time of day to take my blood pressure pills in summer?
 For most once-daily CCBs (e.g., amlodipine), evening dosing may be preferable during heatwaves—it aligns better with natural nocturnal BP patterns and reduces daytime hypotension risk. Timing for other classes depends on individual response and clinician guidance.
 
-#### #### Does drinking more water replace the need to adjust antihypertensive dosing summer heatwaves?
+#### Does drinking more water replace the need to adjust antihypertensive dosing summer heatwaves?
 Hydration supports stability but doesn’t eliminate the need for careful dosing review. Even well-hydrated older adults can develop orthostatic hypotension on standard antihypertensive regimens during heat stress—so clinical assessment remains essential.

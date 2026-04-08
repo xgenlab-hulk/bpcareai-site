@@ -81,22 +81,22 @@ Holiday socializing is about connection, laughter, shared stories—and it shoul
 
 ### FAQ
 
-#### #### Why do I feel dizzy *while* eating—not just after?
+#### Why do I feel dizzy *while* eating—not just after?
 
 That’s a key clue. In autonomic neuropathy, the body’s anticipatory response kicks in *before* digestion fully begins—especially when you’re engaged socially (talking, listening, gesturing). Your nervous system may misread the combined signals of chewing, swallowing, and emotional engagement as “stress,” triggering early vasodilation. Pausing to breathe intentionally before and during meals helps reset that signal.
 
-#### #### Can post-meal blood pressure drops socializing seniors happen even with normal fasting BP?
+#### Can post-meal blood pressure drops socializing seniors happen even with normal fasting BP?
 
 Yes—absolutely. Many seniors with autonomic issues have perfectly healthy resting BP. The issue isn’t chronic low pressure—it’s *lack of adaptability*. Think of it like a thermostat that doesn’t respond quickly to temperature changes. Your BP may read 132/78 mm Hg while seated quietly—but drop sharply the moment you stand *and* talk, or walk to refill your glass.
 
-#### #### Are there foods I should avoid during holiday meals to prevent post-meal blood pressure drops socializing seniors?
+#### Are there foods I should avoid during holiday meals to prevent post-meal blood pressure drops socializing seniors?
 
 Rather than avoiding foods, focus on *how* you eat them. Large portions of high-carbohydrate dishes (mashed potatoes, stuffing, pie) can trigger greater insulin-mediated vasodilation—so pairing them with protein (turkey, cheese, nuts) and fiber (roasted vegetables, whole-grain rolls) slows absorption and blunts the BP dip. Also, sip water steadily—not all at once—to avoid sudden fluid shifts.
 
-#### #### Does alcohol make postprandial hypotension worse during parties?
+#### Does alcohol make postprandial hypotension worse during parties?
 
 Yes—especially wine and cocktails. Alcohol is a direct vasodilator and impairs baroreflex sensitivity. Even one small glass can lower systolic BP by 5–10 mm Hg *on top of* the meal-related drop. If you choose to drink, opt for lower-alcohol options (e.g., wine spritzer), sip slowly, and always pair with food—not on an empty stomach.
 
-#### #### Is it safe to wear compression stockings during holiday events?
+#### Is it safe to wear compression stockings during holiday events?
 
 Yes—and often very helpful. Graduated compression (15–20 mm Hg) supports venous return from the legs, reducing how much blood pools below the waist when you’re upright and active. Choose breathable, mid-thigh styles in neutral colors; put them on *before* breakfast so they’re already working by lunchtime. Just be sure they fit properly—no bunching or constriction behind the knee.

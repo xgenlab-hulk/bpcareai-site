@@ -72,22 +72,22 @@ If you're unsure, talking to your doctor is always a good idea. And if you’ve 
 
 ### FAQ
 
-#### #### How can seniors reduce histamine during the holidays without giving up tradition?
+#### How can seniors reduce histamine during the holidays without giving up tradition?
 
 The key is substitution—not elimination. Try fresh herbs instead of dried (dried herbs like oregano and thyme are histamine-liberating), freeze proteins before roasting, and choose sparkling water with lemon over wine or beer. Many families report that guests don’t notice the swaps—just that the meal feels lighter and easier to digest.
 
-#### #### What are the best low-histamine holiday foods for seniors with chronic urticaria?
+#### What are the best low-histamine holiday foods for seniors with chronic urticaria?
 
 Top choices include: freshly cooked turkey or chicken (not deli-style), mashed potatoes made with ghee or olive oil (skip cream and butter if sensitive), steamed carrots or zucchini, baked apples with cinnamon, and herbal teas like chamomile or ginger (avoid black/green tea, which contain tannins that may inhibit DAO). Always prioritize *freshness* and *minimal processing*.
 
-#### #### Is holiday histamine urticaria seniors linked to blood pressure changes?
+#### Is holiday histamine urticaria seniors linked to blood pressure changes?
 
 Not directly—but there’s an important connection. Histamine can cause transient vasodilation and mild hypotension in some people, while chronic inflammation from repeated flares may contribute to arterial stiffness over time. Seniors managing both hypertension and urticaria should monitor BP closely during festive periods, especially if using antihistamines that have anticholinergic effects (e.g., diphenhydramine), which can influence heart rate and BP regulation.
 
-#### #### Can DAO supplements really help seniors with holiday histamine urticaria seniors?
+#### Can DAO supplements really help seniors with holiday histamine urticaria seniors?
 
 Yes—when used correctly. Clinical experience and small trials suggest DAO enzymes taken *with meals* improve tolerance to moderate-histamine foods in 60–70% of adults over 60 with low baseline DAO activity. Effectiveness depends on proper timing, avoiding interfering substances (like antacids), and choosing products with verified HDU labeling.
 
-#### #### Are there holiday spices seniors with histamine intolerance should avoid?
+#### Are there holiday spices seniors with histamine intolerance should avoid?
 
 Yes. Avoid aged or fermented spices: paprika (often high in histamine due to storage), chili powder blends (frequently mixed with garlic/onion powders, which are histamine liberators), and curry powder (may contain turmeric *plus* fenugreek and mustard—both potential triggers). Safer options include fresh ginger, ground cardamom, fennel seed, and small amounts of cinnamon—always introduced one at a time to assess tolerance.

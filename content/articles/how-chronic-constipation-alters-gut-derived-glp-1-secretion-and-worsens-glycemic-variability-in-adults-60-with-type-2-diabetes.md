@@ -40,17 +40,17 @@ In summary, constipation glp-1 secretion type 2 diabetes represents a tangible, 
 
 ### FAQ
 
-#### #### Does constipation reduce GLP-1 in people with type 2 diabetes?  
+#### Does constipation reduce GLP-1 in people with type 2 diabetes?  
 Yes—clinical studies confirm that prolonged colonic transit dampens postprandial GLP-1 secretion by up to 35% in adults with type 2 diabetes, particularly those over age 60. This contributes to impaired insulin response and greater glucose swings.
 
-#### #### How does constipation glp-1 secretion type 2 diabetes affect A1c levels?  
+#### How does constipation glp-1 secretion type 2 diabetes affect A1c levels?  
 It doesn’t usually raise average A1c dramatically, but it *increases glycemic variability*—leading to more frequent highs and lows. This pattern is associated with higher cardiovascular risk and microvascular complications, independent of A1c.
 
-#### #### Can improving constipation help GLP-1 medications work better?  
+#### Can improving constipation help GLP-1 medications work better?  
 Potentially. Since endogenous GLP-1 secretion supports the efficacy of GLP-1 receptor agonists (e.g., semaglutide, dulaglutide), optimizing gut motility may enhance treatment response—though more research is needed specifically in older adults.
 
-#### #### What’s the safest laxative for seniors with type 2 diabetes and constipation?  
+#### What’s the safest laxative for seniors with type 2 diabetes and constipation?  
 Polyethylene glycol (PEG) 3350 is first-line: it’s non-absorbed, electrolyte-neutral, and doesn’t affect glucose metabolism. Avoid sodium phosphate formulations, which pose renal and electrolyte risks in older adults.
 
-#### #### Is there a link between constipation, blood pressure, and diabetes?  
+#### Is there a link between constipation, blood pressure, and diabetes?  
 Indirectly—chronic constipation can trigger vagal stress responses and elevate sympathetic tone, contributing to transient BP spikes. In older adults with diabetes, this adds strain to already vulnerable vascular regulation.

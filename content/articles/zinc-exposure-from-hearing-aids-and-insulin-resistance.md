@@ -89,22 +89,22 @@ If you're unsure, talking to your doctor is always a good idea. They can help cl
 
 ### FAQ
 
-#### #### Could old or leaking hearing aid batteries cause zinc poisoning in seniors with diabetes?
+#### Could old or leaking hearing aid batteries cause zinc poisoning in seniors with diabetes?
 
 No. Zinc-air batteries are sealed and chemically stable during normal use. Even if slightly corroded, they do not release zinc in a form that the body absorbs through skin or air. Zinc toxicity from hearing aids has never been documented in medical literature—and would require ingesting large quantities of damaged batteries, not typical handling.
 
-#### #### Does zinc exposure from hearing aids and insulin resistance affect HbA1c levels?
+#### Does zinc exposure from hearing aids and insulin resistance affect HbA1c levels?
 
 There is no scientific basis for this connection. HbA1c reflects average blood glucose over ~3 months and is influenced by diet, activity, medications, and overall metabolic health—not environmental zinc from hearing devices. Studies tracking thousands of older adults with diabetes and hearing aids show no association between battery use and glycemic control.
 
-#### #### Can zinc supplements improve insulin sensitivity in adults over 70 with type 2 diabetes?
+#### Can zinc supplements improve insulin sensitivity in adults over 70 with type 2 diabetes?
 
 Some small studies suggest modest benefits for people with *confirmed zinc deficiency*, but routine supplementation isn’t recommended without testing. Excess zinc may actually impair copper status and immune function in older adults. Focus first on food-based zinc and discuss labs with your provider before starting supplements.
 
-#### #### Are hearing aid batteries safe to keep in my bedside drawer near my glucose meter?
+#### Are hearing aid batteries safe to keep in my bedside drawer near my glucose meter?
 
 Yes—absolutely. Zinc-air batteries pose no vapor, dust, or leaching risk in dry, room-temperature storage. They’re as safe to store near your diabetes supplies as your reading glasses or pill organizer.
 
-#### #### What should I do if I accidentally touched a used hearing aid battery and then ate lunch?
+#### What should I do if I accidentally touched a used hearing aid battery and then ate lunch?
 
 Nothing specific is needed. Zinc isn’t absorbed through brief, dry skin contact—and handwashing before eating is already a sound habit. No testing or intervention is required. If you experience irritation or rash (very rare), rinse with water and consult a pharmacist.

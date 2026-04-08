@@ -102,17 +102,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What does loss of exercise tolerance mean with mitral valve prolapse?
+#### What does loss of exercise tolerance mean with mitral valve prolapse?
 Loss of exercise tolerance with mitral valve prolapse refers to a noticeable, unexplained decline in your ability to perform physical activities you once handled easily — such as walking uphill, carrying groceries, or climbing stairs — without becoming unusually short of breath, fatigued, or lightheaded. It may signal worsening mitral regurgitation or early ventricular changes, even if resting blood pressure and weight remain stable.
 
-#### #### Is loss exercise tolerance mitral valve prolapse always serious?
+#### Is loss exercise tolerance mitral valve prolapse always serious?
 Not always — but it should never be ignored. In many cases, it reflects manageable progression, like mild remodeling or compensated regurgitation. However, it *can* be the first clue to more significant issues like chordal rupture or diastolic dysfunction. Early evaluation helps distinguish between benign deconditioning and meaningful structural change.
 
-#### #### Can you have loss exercise tolerance mitral valve prolapse with normal BP and normal echo?
+#### Can you have loss exercise tolerance mitral valve prolapse with normal BP and normal echo?
 Yes — especially early on. Resting BP reflects systemic arterial pressure, not left-sided filling pressures or valve competence. Likewise, a standard echocardiogram may appear “normal” if it wasn’t focused on strain, 3D valve analysis, or Doppler quantification of regurgitation. Subtle functional decline often precedes obvious structural findings.
 
-#### #### How long can you live with mitral valve prolapse and no symptoms?
+#### How long can you live with mitral valve prolapse and no symptoms?
 Many people live full, active lives for decades with MVP and never develop complications. Long-term studies show >95% of adults with uncomplicated MVP have survival rates similar to the general population. But regular follow-up — especially after age 55 — helps ensure early detection if things begin to shift.
 
-#### #### What’s the difference between MVP and secondary mitral regurgitation?
+#### What’s the difference between MVP and secondary mitral regurgitation?
 Mitral valve prolapse is a *primary valve disorder*: the valve itself is anatomically abnormal (bulging leaflets). Secondary (or functional) mitral regurgitation happens when the valve is structurally normal, but the left ventricle enlarges or becomes dysfunctional — pulling the leaflets apart. In older adults with MVP, the line can blur: chronic prolapse can lead to ventricular remodeling, which then *causes* secondary regurgitation — making both processes relevant.

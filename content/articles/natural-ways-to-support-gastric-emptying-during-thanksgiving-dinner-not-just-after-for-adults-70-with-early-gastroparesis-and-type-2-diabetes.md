@@ -88,17 +88,17 @@ Thanksgiving isn’t about perfection. It’s about presence — with loved ones
 
 ### FAQ
 
-#### #### How can I support gastric emptying during meal without medication?
+#### How can I support gastric emptying during meal without medication?
 You can support gastric emptying during meal naturally through timed herbal infusions (like ginger-chamomile sipped 5–10 min before eating), protein-first sequencing, seated diaphragmatic breathing every few bites, and mindful chewing. These approaches are supported by geriatric trials and focus on enhancing your body’s innate motilin and vagal signaling — no prescriptions needed.
 
-#### #### What foods help support gastric emptying during meal for seniors with diabetes?
+#### What foods help support gastric emptying during meal for seniors with diabetes?
 Lean proteins (turkey breast, baked cod), well-cooked vegetables (carrots, zucchini), and low-fiber starches (white rice, peeled potatoes) tend to empty most predictably. Avoid large amounts of raw fiber, fried foods, and heavy cream-based dishes *all at once* — instead, pair small portions with digestive-supportive habits like breathing pauses and ginger infusion.
 
-#### #### Is it possible to support gastric emptying during meal at family gatherings?
+#### Is it possible to support gastric emptying during meal at family gatherings?
 Absolutely — and it’s easier than you think. Start with one strategy: try the protein-first sequence at the main course, or sip warm ginger-chamomile tea while helping set the table. These small, quiet actions integrate seamlessly into holiday flow — no explanations needed, no disruption required. Supporting gastric emptying during meal at family gatherings is about rhythm, not rigidity.
 
-#### #### Why does gastroparesis get worse around holidays?
+#### Why does gastroparesis get worse around holidays?
 Holiday meals often combine high-fat gravies, large portions, rushed eating, and emotional stress — all of which suppress vagal tone and delay gastric motilin release. Add age-related slowing of gastric pacemaker cells and diabetic autonomic changes, and even familiar foods can feel overwhelming. The good news? Timing-focused strategies help buffer these effects.
 
-#### #### Can deep breathing really help digestion during a meal?
+#### Can deep breathing really help digestion during a meal?
 Yes — especially seated diaphragmatic breathing. Research shows slow, deep breaths activate the parasympathetic nervous system, which directly supports gastric accommodation and pyloric relaxation. In a 2022 trial with adults 68+, those who practiced 4-6-8 breathing (inhale 4, hold 6, exhale 8) every 4 bites reported significantly less early satiety and postprandial nausea. It’s free, gentle, and takes less than 30 seconds.

@@ -83,17 +83,17 @@ Enjoying a single, mindful glass of mulled wine during the holidays doesn’t ha
 
 ### FAQ  
 
-#### #### Does mulled wine interact with beta-blockers differently than regular red wine?  
+#### Does mulled wine interact with beta-blockers differently than regular red wine?  
 Mulled wine isn’t inherently more reactive—but its preparation matters. Heating doesn’t alter ethanol content, but added spices (like cinnamon or clove) may mildly affect platelet function or GI absorption. More importantly, the warmth and sweetness encourage slower, more relaxed sipping—potentially delaying peak BAC and widening your effective safety window *if timed right*. The core issue remains **beta-blocker mulled wine timing**, not the spice blend.
 
-#### #### How long after my beta-blocker can I have mulled wine safely?  
+#### How long after my beta-blocker can I have mulled wine safely?  
 For most extended-release beta-blockers (e.g., metoprolol succinate, bisoprolol), waiting **at least 7–8 hours** after your evening dose provides a comfortable safety margin. If you take your pill at 8 p.m., that means 3–4 a.m.—so shifting your glass to earlier in the evening (e.g., 5–6 p.m.) is often the simplest, safest strategy. This is the cornerstone of smart **beta-blocker mulled wine timing**.
 
-#### #### Can I have mulled wine if I’m on atenolol?  
+#### Can I have mulled wine if I’m on atenolol?  
 Yes—many people do, safely. But atenolol has a longer half-life (~7–9 hours in adults over 59) and is renally cleared, so dose adjustments may be needed with declining kidney function (eGFR <60 mL/min). Because of this, a **≥8-hour wait** is advised—and checking creatinine/eGFR with your doctor annually helps personalize your window. Again, **beta-blocker mulled wine timing** becomes even more individualized here.
 
-#### #### Is “holiday heart syndrome” reversible—and am I at higher risk on beta-blockers?  
+#### Is “holiday heart syndrome” reversible—and am I at higher risk on beta-blockers?  
 Holiday heart syndrome—acute atrial fibrillation triggered by binge or even moderate alcohol—is usually reversible within 24–48 hours once alcohol stops. While beta-blockers *don’t cause* it, they may mask early symptoms (like palpitations) due to blunted heart rate response—making detection harder. That’s why symptom awareness (e.g., “fluttering,” neck pulsations, sudden fatigue) matters more than numbers alone.
 
-#### #### Does mulled wine raise blood pressure?  
+#### Does mulled wine raise blood pressure?  
 Not acutely—alcohol is a vasodilator, so it typically causes a *short-term dip* in BP (5–10 mm Hg systolic). However, repeated or heavy use can elevate BP long-term via sympathetic activation, cortisol release, and weight gain. For occasional, low-dose enjoyment with proper **beta-blocker mulled wine timing**, the acute effect is usually neutral-to-mildly beneficial—but only if your baseline isn’t already borderline low.

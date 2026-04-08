@@ -73,17 +73,17 @@ Low blood pressure on SGLT2 inhibitors is manageable—and often reversible—wi
 
 ### FAQ
 
-#### #### What are the most common symptoms of low blood pressure on SGLT2 inhibitors in older adults with kidney disease?
+#### What are the most common symptoms of low blood pressure on SGLT2 inhibitors in older adults with kidney disease?
 The most common symptoms include unexplained fatigue after walking (paradoxical exertional fatigue), mental fogginess within 30–60 minutes of eating, lightheadedness when standing *without* full syncope, and increased shakiness or tremor intensity upon standing—especially in those with orthostatic tremor. Less obvious signs include reduced exercise tolerance, morning grogginess that doesn’t improve with coffee, and frequent nighttime urination due to disrupted circadian BP rhythms.
 
-#### #### Can low blood pressure on SGLT2 inhibitors cause long-term harm?
+#### Can low blood pressure on SGLT2 inhibitors cause long-term harm?
 Yes—if prolonged and unrecognized. Chronically low BP—particularly systolic <90 mm Hg—can reduce perfusion to the kidneys and brain, potentially accelerating cognitive decline or worsening residual renal function in CKD stage 4–5. However, harm is preventable: studies show adjusting timing/dose or adding nonpharmacologic support (e.g., salt supplementation under supervision) restores stability in >85% of cases within 2–4 weeks.
 
-#### #### How soon after starting empagliflozin or dapagliflozin does low blood pressure on SGLT2 inhibitors typically appear?
+#### How soon after starting empagliflozin or dapagliflozin does low blood pressure on SGLT2 inhibitors typically appear?
 Most cases emerge within the first 2–6 weeks—often peaking around week 3—as the body adjusts to osmotic diuresis and mild volume contraction. However, in dialysis patients or those with severe autonomic dysfunction, signs may appear as early as day 3–5. That’s why BP checks are recommended at baseline, then weekly for the first month.
 
-#### #### Is orthostatic hypotension the same as low blood pressure on SGLT2 inhibitors?
+#### Is orthostatic hypotension the same as low blood pressure on SGLT2 inhibitors?
 Not exactly. Orthostatic hypotension is a *pattern*—a BP drop upon standing—while low blood pressure on SGLT2 inhibitors refers to the *cause* (medication-induced volume shift). Many people experience both together, especially with CKD or orthostatic tremor. But SGLT2-related hypotension can also occur *without* orthostasis—such as during sleep (nocturnal hypotension) or after meals—so broader assessment is essential.
 
-#### #### Do all SGLT2 inhibitors carry the same risk of low blood pressure?
+#### Do all SGLT2 inhibitors carry the same risk of low blood pressure?
 Risk varies slightly. Empagliflozin has shown a modestly higher incidence of hypotension-related adverse events in trials (e.g., 7.2% vs. 4.9% for placebo in the EMPA-REG OUTCOME trial), likely due to its stronger natriuretic effect. Dapagliflozin and canagliflozin show comparable but slightly lower rates—though individual response depends more on baseline volume status, age, and autonomic function than the specific drug.

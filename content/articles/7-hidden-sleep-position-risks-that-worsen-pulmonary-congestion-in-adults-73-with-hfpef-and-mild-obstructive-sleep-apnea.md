@@ -76,17 +76,17 @@ Managing HFpEF and mild OSA as you age is about working *with* your body — not
 
 ### FAQ  
 
-#### #### Does sleeping on my side really reduce pulmonary congestion if I have HFpEF?  
+#### Does sleeping on my side really reduce pulmonary congestion if I have HFpEF?  
 Yes — multiple studies confirm that lateral positioning (especially left-side) reduces nocturnal pulmonary capillary wedge pressure by 2–4 mm Hg compared to supine sleep in adults 70+. This occurs because side-sleeping lessens central fluid shift and improves diaphragmatic excursion, supporting better left ventricular filling and reducing pulmonary venous congestion. It’s particularly helpful for *sleep position pulmonary congestion hfpef seniors* who wake with orthopnea.
 
-#### #### Can changing my sleep position lower my apnea-hypopnea index (AHI) even with mild OSA?  
+#### Can changing my sleep position lower my apnea-hypopnea index (AHI) even with mild OSA?  
 Absolutely. In mild OSA (AHI 5–15), positional therapy — avoiding supine sleep — reduces AHI by an average of 30–50%. One randomized trial found that HFpEF patients using a positional feedback device (gentle vibration when rolling supine) cut their median AHI from 11.2 to 5.8 events/hour over 8 weeks. This directly supports reduced pulmonary congestion by limiting hypoxia-driven pulmonary vasoconstriction.
 
-#### #### What’s the best pillow setup for seniors with HFpEF and sleep apnea?  
+#### What’s the best pillow setup for seniors with HFpEF and sleep apnea?  
 Avoid stacking regular pillows — they flex the neck and can worsen airway collapse. Instead, use a firm 30° foam wedge under the upper torso *and* a supportive cervical pillow. Add a body pillow behind your back to discourage supine rolling. This combination lowers pulmonary venous pressure *and* maintains upper airway patency — key for managing *sleep position pulmonary congestion hfpef seniors*.
 
-#### #### Is heart disease worse when sleeping flat?  
+#### Is heart disease worse when sleeping flat?  
 For many older adults with underlying heart disease — especially HFpEF, diastolic dysfunction, or pulmonary hypertension — yes. Supine positioning increases preload, elevates pulmonary pressures, blunts nocturnal BP dipping, and amplifies OSA severity. These changes collectively increase cardiac workload during a time when the heart should be resting. That’s why positional awareness is part of comprehensive heart disease management.
 
-#### #### Do CPAP machines eliminate the need to worry about sleep position?  
+#### Do CPAP machines eliminate the need to worry about sleep position?  
 CPAP effectively treats airway obstruction, but it does *not* fully offset the hemodynamic effects of supine positioning — such as fluid redistribution and increased pulmonary venous pressure. In fact, some older adults report residual orthopnea on CPAP while supine. Combining CPAP *with* 30° elevation or side-sleeping yields the greatest improvement in both AHI *and* pulmonary congestion markers.

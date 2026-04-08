@@ -66,17 +66,17 @@ Experiencing a **post-exercise blood sugar spike older adults** sometimes face d
 
 ### FAQ
 
-#### #### Why does my blood sugar go up after walking if I have diabetes and retinopathy?
+#### Why does my blood sugar go up after walking if I have diabetes and retinopathy?
 This temporary rise often stems from stress-hormone–driven glucose release from the liver—especially in older adults whose autonomic nervous system may respond more strongly to light activity. It’s typically short-lived and doesn’t reflect worsening diabetes.
 
-#### #### Is a post-exercise blood sugar spike older adults experience dangerous?
+#### Is a post-exercise blood sugar spike older adults experience dangerous?
 Not inherently. Most spikes resolve within an hour and don’t increase long-term complication risk. What matters more is your overall glucose pattern, HbA1c, and how you feel—not a single elevated reading after walking.
 
-#### #### Can metformin affect post-exercise blood sugar spike older adults notice?
+#### Can metformin affect post-exercise blood sugar spike older adults notice?
 Metformin itself doesn’t cause spikes—but because it reduces hepatic glucose production, some people on stable metformin therapy may actually see *less* of a post-walk rise. If your dose recently changed, discuss timing and response with your clinician.
 
-#### #### Does walking worsen diabetic retinopathy?
+#### Does walking worsen diabetic retinopathy?
 No—moderate walking is safe and beneficial. In fact, consistent activity helps stabilize blood pressure and blood sugar, both of which protect retinal health. Avoid heavy straining or breath-holding (like in intense weightlifting), but gentle ambulation poses no added risk.
 
-#### #### Should I skip exercise if I get a post-exercise blood sugar spike older adults report?
+#### Should I skip exercise if I get a post-exercise blood sugar spike older adults report?
 Absolutely not. The long-term benefits of daily movement far outweigh the brief, self-correcting nature of these spikes. Focus on patterns—not single readings—and work with your care team to fine-tune timing and support.

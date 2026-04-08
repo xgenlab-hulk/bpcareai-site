@@ -53,22 +53,22 @@ In short: This isn’t about rigid rules or rapid fixes. It’s about honoring y
 
 ### FAQ
 
-#### #### Does intermittent fasting improve diastolic function in people over 50?
+#### Does intermittent fasting improve diastolic function in people over 50?
 
 Yes—modest but meaningful improvements have been observed in recent RCTs, especially with a 14:10 fasting window. Benefits include better E/e’ ratios and reduced left atrial strain, likely tied to improved insulin sensitivity and lower nighttime BP.
 
-#### #### Can intermittent fasting and diastolic function be supported without weight loss?
+#### Can intermittent fasting and diastolic function be supported without weight loss?
 
 Potentially. While most studies involved overweight participants, improvements in insulin sensitivity and nocturnal BP dipping occurred *before* significant weight change—suggesting metabolic timing itself may benefit heart relaxation.
 
-#### #### Is 16:8 fasting safe for someone with stage 1 hypertension?
+#### Is 16:8 fasting safe for someone with stage 1 hypertension?
 
 It *can* be—but data suggests 14:10 may be more consistently supportive of diastolic function and nocturnal BP dipping in adults 50–64. Always discuss fasting plans with your healthcare provider, especially if you’re on BP medication.
 
-#### #### What echocardiogram measurements reflect diastolic function?
+#### What echocardiogram measurements reflect diastolic function?
 
 Key markers include the E/e’ ratio (measuring early filling velocity vs. tissue relaxation), left atrial volume index, deceleration time of the E wave, and pulmonary vein flow patterns. Your cardiologist interprets these in context.
 
-#### #### How does insulin resistance affect diastolic function?
+#### How does insulin resistance affect diastolic function?
 
 Insulin resistance promotes inflammation, fibrosis, and stiffening of the heart muscle—and is strongly associated with higher E/e’ and enlarged left atria. Improving insulin sensitivity (via fasting, movement, or diet) directly supports healthier diastolic relaxation.

@@ -54,17 +54,17 @@ Eating well with heart failure and mild cognitive impairment doesn’t mean sacr
 
 ### FAQ
 
-#### #### What are the best low-sodium high-potassium sides heart failure seniors can make without chopping?
+#### What are the best low-sodium high-potassium sides heart failure seniors can make without chopping?
 Try microwaved sweet potato halves topped with mashed avocado and dill; steamed frozen spinach warmed with garlic powder and lemon; canned white beans (rinsed) gently heated with olive oil and parsley; roasted butternut squash cubes (pre-cut, frozen) tossed with cinnamon; or mashed banana stirred into plain oatmeal with chia seeds. All require zero chopping and under 15 minutes.
 
-#### #### Are low-sodium high-potassium sides heart failure seniors safe if I’m on a diuretic?
+#### Are low-sodium high-potassium sides heart failure seniors safe if I’m on a diuretic?
 Yes—for most people on loop diuretics (e.g., furosemide), potassium-rich sides help offset losses. But if you’re on spironolactone or have reduced kidney function, your target range may differ. Always pair food choices with recent lab results (potassium, creatinine) and provider guidance.
 
-#### #### Can low-sodium high-potassium sides heart failure seniors help with blood pressure control?
+#### Can low-sodium high-potassium sides heart failure seniors help with blood pressure control?
 Absolutely. Reducing sodium intake by 1,000 mg/day can lower systolic BP by 2–5 mm Hg in adults over 65. Paired with potassium’s vasodilatory effect, these sides contribute meaningfully to arterial pressure management—especially when combined with consistent medication and activity.
 
-#### #### Do frozen vegetables count as high-potassium options for heart failure diets?
+#### Do frozen vegetables count as high-potassium options for heart failure diets?
 Yes—frozen spinach (½ cup = ~420 mg potassium), frozen acorn squash (½ cup = ~285 mg), and frozen tomatoes (½ cup = ~290 mg) retain nearly all their potassium and require no prep. Just check labels for “no salt added” or “unsalted” versions.
 
-#### #### How much potassium do seniors with heart failure really need daily?
+#### How much potassium do seniors with heart failure really need daily?
 The general recommendation is 3,500–4,700 mg/day for healthy older adults—but those with heart failure should aim within their clinician’s advised range, typically 3,800–4,300 mg/day if kidney function is preserved and medications allow.

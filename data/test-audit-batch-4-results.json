@@ -1,0 +1,323 @@
+{
+  "batch_id": 4,
+  "total_checked": 20,
+  "articles": [
+    {
+      "slug": "how-cold-weather-indoor-heating-dries-nasal-mucosa-and-why-that-worsens-postprandial-glucose-spikes-in-adults-70-with-autonomic-neuropathy",
+      "primaryKeyword": "indoor heating nasal glucose spikes",
+      "score": 60,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 10,
+        "natural": 5,
+        "intent": 5,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier", "borderline_length", "awkward_phrasing", "unclear_intent"]
+    },
+    {
+      "slug": "how-chronic-loneliness-after-retirement-alters-autonomic-tone-and-elevates-nocturnal-systolic-pressure-in-adults-68-with-preserved-ejection-fraction",
+      "primaryKeyword": "loneliness and nocturnal blood pressure in seniors",
+      "score": 95,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 20,
+        "length": 15,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 0
+      },
+      "needs_optimization": false,
+      "issues": []
+    },
+    {
+      "slug": "hosting-holiday-guests-atrial-protection",
+      "primaryKeyword": "hosting holiday guests atrial protection",
+      "score": 45,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 0,
+        "length": 10,
+        "natural": 10,
+        "intent": 5,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["generic_medical_topic", "no_audience_identifier", "borderline_length", "unclear_intent"]
+    },
+    {
+      "slug": "home-bp-cuff-calibration-in-high-humidity",
+      "primaryKeyword": "home bp cuff calibration in high humidity",
+      "score": 60,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 10,
+        "natural": 10,
+        "intent": 5,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier", "borderline_length", "unclear_intent"]
+    },
+    {
+      "slug": "holiday-medication-holiday-myths-facts",
+      "primaryKeyword": "holiday medication holiday myths facts",
+      "score": 40,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 0,
+        "length": 10,
+        "natural": 5,
+        "intent": 5,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["generic_medical_topic", "no_audience_identifier", "borderline_length", "awkward_phrasing", "unclear_intent"]
+    },
+    {
+      "slug": "holiday-cookie-swap-glucose-management",
+      "primaryKeyword": "holiday cookie swap glucose management",
+      "score": 60,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 10,
+        "natural": 10,
+        "intent": 5,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier", "borderline_length", "unclear_intent"]
+    },
+    {
+      "slug": "herbal-teas-and-diastolic-stiffness-in-women",
+      "primaryKeyword": "herbal teas and diastolic stiffness in women",
+      "score": 60,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 10,
+        "length": 10,
+        "natural": 10,
+        "intent": 5,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["vague_audience", "borderline_length", "unclear_intent"]
+    },
+    {
+      "slug": "foods-for-central-bp-and-cognitive-blood-flow",
+      "primaryKeyword": "foods for central bp and cognitive blood flow",
+      "score": 60,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 10,
+        "natural": 10,
+        "intent": 5,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier", "borderline_length", "unclear_intent"]
+    },
+    {
+      "slug": "foods-for-aortic-stiffness-without-orthostasis",
+      "primaryKeyword": "foods for aortic stiffness without orthostasis",
+      "score": 60,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 10,
+        "natural": 10,
+        "intent": 5,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier", "borderline_length", "unclear_intent"]
+    },
+    {
+      "slug": "cgms-for-seniors-without-smartphones",
+      "primaryKeyword": "cgms for seniors without smartphones",
+      "score": 60,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 20,
+        "length": 10,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": ["borderline_length"]
+    },
+    {
+      "slug": "ambulatory-arterial-stiffness-index-interpretation",
+      "primaryKeyword": "ambulatory arterial stiffness index interpretation",
+      "score": 40,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 15,
+        "natural": 5,
+        "intent": 5,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier", "technical_jargon", "awkward_phrasing", "unclear_intent"]
+    },
+    {
+      "slug": "9-foods-that-support-pancreatic-beta-cell-resilience-during-high-carb-holidays-based-on-human-islet-transcriptomics-and-nrf2-activation-studies",
+      "primaryKeyword": "beta-cell resilience holiday foods",
+      "score": 60,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 10,
+        "natural": 10,
+        "intent": 5,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier", "borderline_length", "unclear_intent"]
+    },
+    {
+      "slug": "7-hidden-ways-your-hearing-aid-s-bluetooth-streaming-affects-baroreceptor-sensitivity-especially-during-morning-blood-pressure-spikes-in-adults-73",
+      "primaryKeyword": "hearing aids and morning blood pressure spikes",
+      "score": 70,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 15,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier"]
+    },
+    {
+      "slug": "7-hidden-electrolyte-shifts-that-happen-during-holiday-cooking-and-how-they-trigger-atrial-fibrillation-in-adults-60-with-mild-hypokalemia",
+      "primaryKeyword": "holiday cooking electrolyte shifts atrial fibrillation",
+      "score": 70,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 15,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier"]
+    },
+    {
+      "slug": "5-things-your-endocrinologist-won-t-tell-you-about-holiday-alcohol-choices-especially-if-you-re-on-glp-1-agonists",
+      "primaryKeyword": "alcohol and GLP-1 agonists holiday",
+      "score": 60,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 10,
+        "natural": 10,
+        "intent": 5,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier", "borderline_length", "unclear_intent"]
+    },
+    {
+      "slug": "whole-grain-cereal-endothelial-dysfunction",
+      "primaryKeyword": "whole grain cereal endothelial dysfunction",
+      "score": 35,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 0,
+        "length": 10,
+        "natural": 5,
+        "intent": 5,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["generic_medical_topic", "no_audience_identifier", "borderline_length", "technical_jargon", "awkward_phrasing", "unclear_intent"]
+    },
+    {
+      "slug": "what-are-the-earliest-signs-of-right-sided-heart-failure-in-adults-64-with-untreated-sleep-apnea-before-jugular-venous-distention-appears",
+      "primaryKeyword": "early right-sided heart failure signs sleep apnea",
+      "score": 70,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 15,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier"]
+    },
+    {
+      "slug": "weekly-hiit-once-sarcopenia-diabetes",
+      "primaryKeyword": "weekly-hiit once sarcopenia diabetes",
+      "score": 50,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 10,
+        "natural": 5,
+        "intent": 5,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier", "borderline_length", "awkward_phrasing", "unclear_intent"]
+    },
+    {
+      "slug": "warning-signs-your-holiday-energy-crash-is-actually-orthostatic-hypotension-not-just-overeating-in-adults-76-with-age-related-baroreflex-blunting",
+      "primaryKeyword": "holiday energy crash orthostatic hypotension",
+      "score": 70,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 15,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier"]
+    },
+    {
+      "slug": "turkey-preparation-postprandial-systolic-pressure",
+      "primaryKeyword": "turkey preparation postprandial systolic pressure",
+      "score": 40,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 15,
+        "natural": 5,
+        "intent": 5,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": ["no_audience_identifier", "technical_jargon", "awkward_phrasing", "unclear_intent"]
+    }
+  ],
+  "summary": {
+    "total": 20,
+    "excellent_85plus": 1,
+    "good_70to84": 5,
+    "fair_50to69": 11,
+    "poor_below50": 3,
+    "needs_optimization": 19,
+    "common_issues": {
+      "no_audience_identifier": 18,
+      "borderline_length": 14,
+      "unclear_intent": 13,
+      "technical_jargon": 4,
+      "awkward_phrasing": 5,
+      "generic_medical_topic": 3
+    },
+    "average_score": 58.5
+  }
+}

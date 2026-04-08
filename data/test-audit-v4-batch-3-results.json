@@ -1,0 +1,382 @@
+{
+  "audit_version": "v4-flexible",
+  "batch_id": 3,
+  "total_checked": 20,
+  "audit_date": "2026-03-11",
+  "articles": [
+    {
+      "slug": "best-seated-resistance-band-exercises-with-real-time-bp-feedback-for-adults-80-with-orthostatic-intolerance-and-severe-knee-osteoarthritis",
+      "primaryKeyword": "seated resistance band exercises with bp feedback",
+      "score": 88,
+      "grade": "Very Good",
+      "needs_optimization": false,
+      "reasoning": "Natural search phrase combining specific exercise type (seated resistance band), unique feature (bp feedback), and clear user intent. Users with orthostatic issues or mobility limitations would search this way. Length is appropriate, phrasing is natural. Audience (80+) not included but not needed since 'seated' and 'bp feedback' already indicate target demographic. Could marginally improve by adding 'seniors' but works very well as-is.",
+      "strengths": [
+        "Specific exercise type that's searchable",
+        "Natural phrasing users would type",
+        "Clear user intent (mobility-limited exercise)",
+        "Unique qualifier (bp feedback) adds specificity"
+      ],
+      "weaknesses": []
+    },
+    {
+      "slug": "atrial-stabilizing-foods-holiday-heart",
+      "primaryKeyword": "atrial-stabilizing foods holiday heart",
+      "score": 72,
+      "grade": "Good",
+      "needs_optimization": false,
+      "reasoning": "Specific medical context (holiday heart) with clear topic (foods). However, 'atrial-stabilizing' is somewhat technical - real users more likely search 'foods for holiday heart syndrome' or 'prevent afib during holidays'. The phrasing works but could be more user-friendly. Length is good, intent is clear.",
+      "strengths": [
+        "Specific condition (holiday heart)",
+        "Clear topic (foods)",
+        "Natural length"
+      ],
+      "weaknesses": [
+        "Slightly technical term 'atrial-stabilizing'",
+        "Could be more user-friendly phrasing"
+      ]
+    },
+    {
+      "slug": "9-simple-steps-to-adjust-your-cpap-humidifier-settings-without-raising-overnight-systolic-pressure-for-adults-67-with-osa-and-nocturnal-hypertension",
+      "primaryKeyword": "cpap humidifier settings and nocturnal bp",
+      "score": 85,
+      "grade": "Very Good",
+      "needs_optimization": false,
+      "reasoning": "Practical search combining device (CPAP), specific feature (humidifier settings), and health concern (nocturnal bp). Users with sleep apnea and blood pressure issues would search this way. Natural phrasing, appropriate length. 'nocturnal bp' is slightly abbreviated but commonly understood. No age needed as topic is specific to condition.",
+      "strengths": [
+        "Specific device and setting",
+        "Clear health connection",
+        "Natural user search pattern",
+        "Appropriate specificity"
+      ],
+      "weaknesses": []
+    },
+    {
+      "slug": "5-things-every-woman-over-65-taking-oral-estradiol-should-know-about-its-effect-on-renin-angiotensin-aldosterone-system-activation-and-systolic-drift",
+      "primaryKeyword": "oral estradiol and systolic blood pressure drift",
+      "score": 80,
+      "grade": "Good",
+      "needs_optimization": false,
+      "reasoning": "Specific medication (oral estradiol) with specific health effect (systolic bp drift). Good search match for women on HRT concerned about blood pressure. 'Systolic drift' is somewhat technical but users researching this topic would understand. Could add 'women' or 'postmenopausal' for more specificity but works well without it.",
+      "strengths": [
+        "Specific medication",
+        "Clear health concern (blood pressure)",
+        "Natural phrasing",
+        "Searchable by target audience"
+      ],
+      "weaknesses": [
+        "Slightly technical term 'systolic drift'"
+      ]
+    },
+    {
+      "slug": "10-ways-to-reduce-holiday-glucose-variability-without-changing-what-you-eat-using-chewing-pace-seating-position-and-ambient-sound-cues",
+      "primaryKeyword": "reduce glucose variability without diet change",
+      "score": 92,
+      "grade": "Excellent",
+      "needs_optimization": false,
+      "reasoning": "Excellent natural search phrase. Clear medical topic (glucose variability), specific constraint (without diet change), and strong user intent. People with diabetes looking for non-dietary interventions would search exactly this way. Natural length, user-friendly terms, highly searchable.",
+      "strengths": [
+        "Clear medical topic",
+        "Specific user intent",
+        "Natural conversational phrasing",
+        "User-friendly terminology",
+        "Addresses common pain point"
+      ],
+      "weaknesses": []
+    },
+    {
+      "slug": "what-are-the-earliest-signs-your-holiday-weight-gain-is-actually-fluid-retention-not-fat-in-women-over-65-with-atrial-fibrillation",
+      "primaryKeyword": "holiday weight gain fluid retention afib seniors",
+      "score": 90,
+      "grade": "Excellent",
+      "needs_optimization": false,
+      "reasoning": "Strong natural search phrase. Combines common concern (holiday weight gain), important distinction (fluid vs fat), specific condition (afib), and audience (seniors). Real users would search this way when concerned about sudden weight changes. All terms are user-friendly and searchable.",
+      "strengths": [
+        "Natural user concern",
+        "Clear medical condition",
+        "Appropriate audience specification",
+        "User-friendly terminology",
+        "High search intent match"
+      ],
+      "weaknesses": []
+    },
+    {
+      "slug": "travel-glucose-monitor-seniors-offline-sync",
+      "primaryKeyword": "travel glucose monitor seniors offline sync",
+      "score": 83,
+      "grade": "Good",
+      "needs_optimization": false,
+      "reasoning": "Practical search for specific situation (travel), device (glucose monitor), audience (seniors), and technical concern (offline sync). Natural phrasing that target users would search. Appropriate specificity. Could flow slightly better with 'for' connector but works well as keyword string.",
+      "strengths": [
+        "Specific use case (travel)",
+        "Clear device type",
+        "Relevant audience",
+        "Practical technical concern"
+      ],
+      "weaknesses": [
+        "Could flow slightly better with connectors"
+      ]
+    },
+    {
+      "slug": "the-truth-about-sugar-free-holiday-candy-labeled-for-diabetics-why-87-still-cause-postprandial-endothelial-stiffness-via-polyol-pathway-activation",
+      "primaryKeyword": "sugar-free candy endothelial stiffness",
+      "score": 65,
+      "grade": "Fair",
+      "needs_optimization": true,
+      "reasoning": "Topic is clear (sugar-free candy) but 'endothelial stiffness' is too technical. Real users would search 'sugar-free candy blood sugar impact' or 'sugar-free candy diabetes safe' or 'sugar-free candy side effects'. The current phrasing uses medical jargon that general users wouldn't search. Needs more user-friendly terminology.",
+      "strengths": [
+        "Specific food product",
+        "Clear topic area"
+      ],
+      "weaknesses": [
+        "Technical medical term 'endothelial stiffness'",
+        "Users would search more practical terms",
+        "Missing diabetes/blood sugar connection"
+      ]
+    },
+    {
+      "slug": "sunlight-exposure-and-circadian-blood-pressure",
+      "primaryKeyword": "sunlight exposure and circadian blood pressure",
+      "score": 82,
+      "grade": "Good",
+      "needs_optimization": false,
+      "reasoning": "Clear natural search connecting environmental factor (sunlight) with health effect (circadian blood pressure). Users interested in natural blood pressure management would search this way. 'Circadian' is somewhat technical but increasingly understood by health-conscious users. Natural phrasing with good connector word.",
+      "strengths": [
+        "Natural search phrase",
+        "Clear cause-effect relationship",
+        "Specific health topic",
+        "Good use of connector"
+      ],
+      "weaknesses": [
+        "Slightly technical term 'circadian'"
+      ]
+    },
+    {
+      "slug": "prehypertension-progression-predictors-midlife",
+      "primaryKeyword": "prehypertension progression predictors midlife",
+      "score": 75,
+      "grade": "Good",
+      "needs_optimization": false,
+      "reasoning": "Medical term (prehypertension) is searchable, combined with clear intent (progression predictors) and audience (midlife). Some users might search 'prehypertension risk factors' or 'will prehypertension become hypertension' instead, but current phrasing works for informed users. Could flow better with connectors but adequate as-is.",
+      "strengths": [
+        "Specific medical condition",
+        "Clear user intent (prediction)",
+        "Relevant life stage"
+      ],
+      "weaknesses": [
+        "Could flow better with connectors",
+        "Some users might use simpler terms"
+      ]
+    },
+    {
+      "slug": "plate-mapping-macular-degeneration-seniors",
+      "primaryKeyword": "plate mapping macular degeneration seniors",
+      "score": 70,
+      "grade": "Good",
+      "needs_optimization": false,
+      "reasoning": "Specific technique (plate mapping) for specific condition (macular degeneration) with audience (seniors). However, 'plate mapping' is somewhat niche terminology - users might search 'meal planning macular degeneration' or 'diet for macular degeneration seniors' more commonly. The term works for those who know it, but may not be the most common search pattern.",
+      "strengths": [
+        "Specific condition",
+        "Clear audience",
+        "Unique approach"
+      ],
+      "weaknesses": [
+        "Niche term 'plate mapping' may have low search volume",
+        "Users might search more common meal planning terms"
+      ]
+    },
+    {
+      "slug": "normal-resting-heart-rate-sinus-node-dysfunction",
+      "primaryKeyword": "normal resting heart rate sinus node dysfunction",
+      "score": 78,
+      "grade": "Good",
+      "needs_optimization": false,
+      "reasoning": "Interesting search phrase addressing specific concern - can heart rate appear normal despite sinus node dysfunction? Users diagnosed with or concerned about this condition would search this way. 'Sinus node dysfunction' is medical terminology but appropriate for target audience (those with or researching the diagnosis). Natural phrasing with good specificity.",
+      "strengths": [
+        "Specific medical condition",
+        "Clear diagnostic question",
+        "Natural phrasing",
+        "Appropriate for informed users"
+      ],
+      "weaknesses": [
+        "Medical terminology may be technical for some"
+      ]
+    },
+    {
+      "slug": "non-alcoholic-drinks-holiday-heart-syndrome",
+      "primaryKeyword": "non-alcoholic drinks holiday heart syndrome",
+      "score": 86,
+      "grade": "Very Good",
+      "needs_optimization": false,
+      "reasoning": "Excellent practical search. Specific beverage category (non-alcoholic), specific condition (holiday heart syndrome), clear intent (alternatives/prevention). Users with afib or holiday heart concerns would naturally search this way. User-friendly terms, natural phrasing, appropriate length.",
+      "strengths": [
+        "Clear practical intent",
+        "Specific medical condition",
+        "Natural search phrasing",
+        "User-friendly terminology",
+        "Addresses real user need"
+      ],
+      "weaknesses": []
+    },
+    {
+      "slug": "nasal-rinse-breath-hold-for-endothelial-function",
+      "primaryKeyword": "nasal rinse breath-hold for endothelial function",
+      "score": 60,
+      "grade": "Fair",
+      "needs_optimization": true,
+      "reasoning": "Specific technique (nasal rinse breath-hold) but outcome is too technical. 'Endothelial function' is medical jargon most users wouldn't search. Users would more likely search 'nasal rinse blood pressure' or 'nasal rinse heart health' or 'breathing exercises blood vessels'. Needs more user-friendly health benefit terminology.",
+      "strengths": [
+        "Specific technique",
+        "Natural connector words"
+      ],
+      "weaknesses": [
+        "Technical medical term 'endothelial function'",
+        "Users would search more practical health benefits",
+        "Missing clear health outcome in lay terms"
+      ]
+    },
+    {
+      "slug": "microwave-leakage-and-blood-pressure-variability",
+      "primaryKeyword": "microwave leakage and blood pressure variability",
+      "score": 76,
+      "grade": "Good",
+      "needs_optimization": false,
+      "reasoning": "Specific environmental concern (microwave leakage) connected to specific health effect (blood pressure variability). Users concerned about EMF exposure and blood pressure would search this way. Natural phrasing with good connector. Topic is niche but searchable by concerned individuals.",
+      "strengths": [
+        "Specific environmental factor",
+        "Clear health concern",
+        "Natural phrasing",
+        "Good connector word"
+      ],
+      "weaknesses": [
+        "Niche topic may have lower search volume"
+      ]
+    },
+    {
+      "slug": "low-carb-vs-magnesium-holiday-heart-prevention",
+      "primaryKeyword": "low-carb vs magnesium holiday heart prevention",
+      "score": 88,
+      "grade": "Very Good",
+      "needs_optimization": false,
+      "reasoning": "Excellent comparison search. Two specific interventions (low-carb diet vs magnesium) for specific condition (holiday heart prevention). Natural comparison format that users would search when evaluating options. Clear intent, user-friendly terms, appropriate length.",
+      "strengths": [
+        "Natural comparison format",
+        "Specific interventions",
+        "Clear medical condition",
+        "User-friendly terminology",
+        "Strong user intent"
+      ],
+      "weaknesses": []
+    },
+    {
+      "slug": "late-night-snacking-hepatic-gluconeogenesis",
+      "primaryKeyword": "late-night snacking hepatic gluconeogenesis",
+      "score": 58,
+      "grade": "Poor",
+      "needs_optimization": true,
+      "reasoning": "Topic is clear (late-night snacking) but outcome is highly technical medical jargon. 'Hepatic gluconeogenesis' is not user-friendly - real users would search 'late-night snacking blood sugar' or 'late-night snacking diabetes' or 'late-night eating liver glucose'. Needs plain language health outcomes instead of biochemical process terminology.",
+      "strengths": [
+        "Clear relatable behavior",
+        "Specific timing"
+      ],
+      "weaknesses": [
+        "Highly technical medical jargon",
+        "Users won't search biochemical process names",
+        "Needs user-friendly health outcome terms",
+        "Missing audience or condition"
+      ]
+    },
+    {
+      "slug": "kefir-endotoxemia-diabetes-seniors",
+      "primaryKeyword": "kefir endotoxemia diabetes seniors",
+      "score": 68,
+      "grade": "Fair",
+      "needs_optimization": true,
+      "reasoning": "Good elements (kefir, diabetes, seniors) but 'endotoxemia' is technical medical terminology. Most users would search 'kefir diabetes seniors' or 'kefir benefits diabetes seniors' or 'kefir blood sugar seniors'. The technical term limits searchability. Structure is good but needs more user-friendly middle term.",
+      "strengths": [
+        "Specific food (kefir)",
+        "Clear condition (diabetes)",
+        "Relevant audience (seniors)"
+      ],
+      "weaknesses": [
+        "Technical term 'endotoxemia' not user-searchable",
+        "Middle term should be user-friendly benefit",
+        "Reduces search volume potential"
+      ]
+    },
+    {
+      "slug": "intermittent-socializing-postprandial-glucose",
+      "primaryKeyword": "intermittent socializing postprandial glucose",
+      "score": 73,
+      "grade": "Good",
+      "needs_optimization": false,
+      "reasoning": "Interesting connection between behavior (intermittent socializing) and health metric (postprandial glucose). 'Postprandial' is somewhat technical but increasingly understood. Users researching blood sugar and social factors might search this way. Unique angle but searchable. Could be more accessible with 'after-meal blood sugar' but works for informed users.",
+      "strengths": [
+        "Unique behavioral factor",
+        "Specific timing (postprandial)",
+        "Clear health metric"
+      ],
+      "weaknesses": [
+        "Slightly technical term 'postprandial'",
+        "Could be more user-friendly"
+      ]
+    },
+    {
+      "slug": "how-holiday-family-conflict-elevates-cortisol-driven-hepatic-glucose-output-especially-in-women-57-65-with-perimenopausal-insulin-resistance",
+      "primaryKeyword": "family conflict cortisol glucose output",
+      "score": 70,
+      "grade": "Good",
+      "needs_optimization": false,
+      "reasoning": "Relatable trigger (family conflict) connected through mechanism (cortisol) to outcome (glucose output). While 'glucose output' is somewhat technical, users researching stress and blood sugar would understand it. Could be more accessible as 'family conflict stress blood sugar' but current version works for health-literate users. Natural flow with clear connections.",
+      "strengths": [
+        "Relatable life situation",
+        "Clear stress-health connection",
+        "Natural logical flow",
+        "Includes stress hormone (cortisol)"
+      ],
+      "weaknesses": [
+        "Slightly technical 'glucose output'",
+        "Could use more common terms like 'blood sugar'"
+      ]
+    }
+  ],
+  "summary": {
+    "total": 20,
+    "excellent_90plus": 2,
+    "very_good_85to89": 4,
+    "good_70to84": 9,
+    "fair_60to69": 3,
+    "poor_40to59": 2,
+    "very_poor_below40": 0,
+    "needs_optimization": 5,
+    "average_score": 76.15,
+    "pass_rate": 75.0
+  },
+  "key_findings": {
+    "common_strengths": [
+      "Most keywords have specific medical topics or conditions",
+      "Natural phrasing in majority of cases",
+      "Good use of contextual qualifiers (holiday, travel, etc.)",
+      "Appropriate audience targeting when needed"
+    ],
+    "common_weaknesses": [
+      "Technical medical jargon in some keywords (endothelial, hepatic gluconeogenesis, endotoxemia)",
+      "Some biochemical process terms users wouldn't search",
+      "Occasional use of technical medical terminology over user-friendly terms"
+    ],
+    "patterns_observed": [
+      "Keywords with practical health concerns score higher (glucose variability, fluid retention)",
+      "Keywords with technical medical processes score lower (endothelial function, hepatic gluconeogenesis)",
+      "Comparison keywords work well (low-carb vs magnesium)",
+      "Contextual qualifiers (holiday, travel) add value without forcing",
+      "Audience specification used judiciously where it adds value"
+    ]
+  },
+  "v4_methodology_notes": {
+    "flexible_judgment_applied": true,
+    "audience_not_forced": true,
+    "natural_phrasing_prioritized": true,
+    "user_search_behavior_considered": true,
+    "technical_jargon_appropriately_flagged": true
+  }
+}

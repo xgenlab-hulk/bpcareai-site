@@ -90,17 +90,17 @@ In summary, hypertensive retinopathy early warning signs are among the most sens
 
 ### FAQ
 
-#### #### What are the earliest signs of hypertensive retinopathy before vision loss?
+#### What are the earliest signs of hypertensive retinopathy before vision loss?
 The earliest signs include measurable venular narrowing (>12% change over time), intensified focal arteriolar light reflex (a brighter central stripe along small arteries), and accelerated microvascular tortuosity — all detectable via smartphone fundus imaging before any visual complaints arise.
 
-#### #### Can hypertensive retinopathy early warning signs be reversed?
+#### Can hypertensive retinopathy early warning signs be reversed?
 Yes — with timely, individualized blood pressure management. Studies show that achieving and sustaining target BP (often <135/85 mm Hg for adults 71+) for 6–12 months can stabilize or even improve venular caliber and tortuosity metrics. Reversal depends on duration and severity of prior hypertension.
 
-#### #### Are hypertensive retinopathy early warning signs different in older adults?
+#### Are hypertensive retinopathy early warning signs different in older adults?
 Yes. Adults over 70 often show more pronounced venular narrowing and slower recovery of microvascular tone after BP reduction. Age-related lens changes and reduced retinal blood flow reserve mean these signs may appear at lower BP thresholds — reinforcing the need for personalized targets.
 
-#### #### Do I need an eye exam if my blood pressure is controlled?
+#### Do I need an eye exam if my blood pressure is controlled?
 Yes — especially after age 71. Even well-controlled BP can mask underlying microvascular stress. Annual retinal screening (via fundus photography or smartphone imaging) provides objective data that complements BP readings and helps prevent late-stage complications.
 
-#### #### How often should I get screened for hypertensive retinopathy early warning signs?
+#### How often should I get screened for hypertensive retinopathy early warning signs?
 For adults 71+, annual screening is recommended — or every 6 months if you have diabetes, chronic kidney disease, or a history of stroke. More frequent imaging may be advised if initial scans show progressive changes.

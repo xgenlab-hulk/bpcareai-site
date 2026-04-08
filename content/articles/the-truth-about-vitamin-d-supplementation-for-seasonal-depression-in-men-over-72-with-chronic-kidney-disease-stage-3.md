@@ -65,22 +65,22 @@ You don’t need to “fix” your mood with a pill—or feel discouraged if vit
 
 ### FAQ
 
-#### #### Can vitamin D supplementation seasonal depression kidney disease help with winter blues in older men with CKD?
+#### Can vitamin D supplementation seasonal depression kidney disease help with winter blues in older men with CKD?
 
 It *may* help—but only if guided by labs and clinical context. Because CKD impairs conversion to active vitamin D, standard supplements often don’t translate to improved mood unless paired with PTH and mineral monitoring. Evidence supporting standalone use for seasonal depression in this group remains limited.
 
-#### #### Is it safe for men over 72 with CKD Stage 3 to take vitamin D supplements for seasonal depression?
+#### Is it safe for men over 72 with CKD Stage 3 to take vitamin D supplements for seasonal depression?
 
 Yes—*if dosed and monitored appropriately*. Unsupervised high-dose vitamin D can raise calcium and strain already-compromised kidneys. Target 25(OH)D levels between 30–45 ng/mL (not higher), and recheck every 3–6 months with PTH and electrolytes.
 
-#### #### What’s the difference between regular vitamin D and calcitriol for seasonal depression in CKD?
+#### What’s the difference between regular vitamin D and calcitriol for seasonal depression in CKD?
 
 Regular vitamin D (D2/D3) must be activated by the kidneys. Calcitriol is the *already-active* form—and bypasses that step. It’s prescribed only when PTH is elevated and standard supplementation hasn’t helped—but it requires careful calcium monitoring.
 
-#### #### Does low vitamin D cause depression—or is it just a marker?
+#### Does low vitamin D cause depression—or is it just a marker?
 
 Current evidence suggests it’s both: low 25(OH)D is associated with higher depression risk, *and* depression-related behaviors (less outdoor time, poorer diet) can lower vitamin D. In CKD, the relationship is further tangled by PTH, inflammation, and reduced sunlight exposure.
 
-#### #### Are there alternatives to vitamin D supplementation seasonal depression kidney disease for older adults?
+#### Are there alternatives to vitamin D supplementation seasonal depression kidney disease for older adults?
 
 Yes—light therapy (10,000-lux lamps for 20–30 min each morning), structured physical activity, social engagement, and cognitive behavioral therapy (CBT) all have strong evidence for seasonal mood support—even in older adults with CKD.

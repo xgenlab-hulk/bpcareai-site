@@ -72,17 +72,17 @@ Early detection gives you time to adjust diet, optimize glucose control, and pro
 
 ### FAQ
 
-#### #### What are the earliest gastroparesis signs in men over 60?
+#### What are the earliest gastroparesis signs in men over 60?
 The earliest gastroparesis signs men seniors often include early satiety, unpredictable post-meal glucose swings, bloating after modest meals, and unexplained fatigue — all appearing 18–24 months before nausea or vomiting.
 
-#### #### Can early gastroparesis signs men seniors be reversed?
+#### Can early gastroparesis signs men seniors be reversed?
 While nerve damage isn’t fully reversible, early-stage gastric dysrhythmia *can improve* with strict glycemic control, dietary adjustments, and sometimes prokinetic support — especially when caught via EGG or breath testing before structural changes occur.
 
-#### #### Are there home tests for early gastroparesis signs men seniors?
+#### Are there home tests for early gastroparesis signs men seniors?
 No reliable FDA-cleared home tests exist yet. However, wearable EGG devices are entering clinical trials, and breath hydrogen analyzers are increasingly used in outpatient settings — ask your endocrinologist or gastroenterologist if these fit your risk profile.
 
-#### #### How is diabetic gastroparesis different in older men versus women?
+#### How is diabetic gastroparesis different in older men versus women?
 Men over 60 tend to present with subtler, more gradual symptoms — often misattributed to aging or prostate meds. Women report nausea and vomiting earlier; men more commonly show glucose instability first — making early gastroparesis signs men seniors easy to overlook.
 
-#### #### What blood tests help detect early gastroparesis?
+#### What blood tests help detect early gastroparesis?
 No blood test diagnoses gastroparesis directly — but checking for markers like HbA1c, vitamin B12 (low levels suggest bacterial overgrowth), and autonomic function (via heart rate variability) supports a broader assessment of nerve health linked to early gastroparesis signs men seniors.

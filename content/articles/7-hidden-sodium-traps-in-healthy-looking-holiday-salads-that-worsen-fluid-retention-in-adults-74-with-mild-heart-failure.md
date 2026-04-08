@@ -70,22 +70,22 @@ If you're unsure, talking to your doctor is always a good idea. And remember: *h
 
 ### FAQ
 
-#### #### Are holiday salads really high in sodium for people with heart failure?
+#### Are holiday salads really high in sodium for people with heart failure?
 
 Yes—many seemingly healthy holiday salads contain hidden sodium from ingredients like marinated vegetables, bottled dressings, cured cheeses, and seasoned nuts. Even a single serving can exceed 500–900 mg of sodium, which may worsen fluid retention in adults with heart failure. Focusing on fresh, whole ingredients and preparing dressings at home helps keep sodium in check.
 
-#### #### What are the safest salad ingredients for someone managing high sodium holiday salads heart failure?
+#### What are the safest salad ingredients for someone managing high sodium holiday salads heart failure?
 
 The safest choices include fresh leafy greens (spinach, arugula, romaine), raw or steamed vegetables (cucumber, bell peppers, cherry tomatoes), unsalted nuts and seeds, avocado, plain cooked beans (rinsed thoroughly), and low-sodium cheeses like fresh mozzarella or goat cheese (in modest portions). Always verify labels on packaged items—even “natural” or “organic” products can be high in sodium.
 
-#### #### Can I still enjoy festive salads during family gatherings without worsening my heart failure symptoms?
+#### Can I still enjoy festive salads during family gatherings without worsening my heart failure symptoms?
 
 Absolutely. With a few smart substitutions—like using lemon juice and herbs instead of bottled vinaigrette, choosing unsalted roasted nuts, and skipping pickled or marinated add-ins—you can enjoy delicious, colorful salads that support your heart health. Healthy eating during family gatherings is about balance, not sacrifice—and many loved ones appreciate learning alongside you.
 
-#### #### How much sodium is too much for someone with mild heart failure during the holidays?
+#### How much sodium is too much for someone with mild heart failure during the holidays?
 
 The American Heart Association recommends no more than 1,500 mg of sodium per day for adults with heart failure. During holiday weeks, sodium intake often spikes by 20–30%, so staying close to this target helps prevent symptom flare-ups. Tracking intake for just 2–3 days can reveal surprising sources—and guide meaningful, sustainable changes.
 
-#### #### Do all bottled salad dressings contain high sodium—and is there a reliable way to identify low-sodium options?
+#### Do all bottled salad dressings contain high sodium—and is there a reliable way to identify low-sodium options?
 
 Most bottled vinaigrettes contain 250–400 mg sodium per tablespoon, largely due to preservatives and flavor enhancers. To identify lower-sodium options, look for labels stating “low sodium” (≤140 mg per serving) or “no salt added.” Better yet, make your own: olive oil, vinegar or citrus juice, Dijon mustard (check sodium content), and fresh herbs yield rich flavor with under 5 mg sodium per tablespoon.

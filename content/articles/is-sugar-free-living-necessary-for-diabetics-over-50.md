@@ -85,22 +85,22 @@ And to return to the heart of your question: *do diabetics need to avoid all sug
 
 ### FAQ
 
-#### #### Do diabetics need to avoid all sugar after 50—or is natural sugar okay?
+#### Do diabetics need to avoid all sugar after 50—or is natural sugar okay?
 
 Yes—natural sugars found in whole fruits, plain dairy (like milk and plain yogurt), and some starchy vegetables are fine in reasonable portions. These foods come with fiber, protein, or healthy fats that help slow glucose absorption. What to limit is *added sugar*: cane sugar, corn syrup, honey, agave, and concentrated sweeteners added during processing.
 
-#### #### Do diabetics need to avoid all sugar after 50 if they’re on insulin?
+#### Do diabetics need to avoid all sugar after 50 if they’re on insulin?
 
 Not necessarily—but timing and consistency matter more. People on insulin benefit from predictable carb intake at meals to match their dosing. Skipping carbs or eating erratic amounts increases the risk of lows or highs. Work with your care team to align food choices with your insulin regimen—not to eliminate sugar entirely.
 
-#### #### Can older adults with diabetes still eat desserts?
+#### Can older adults with diabetes still eat desserts?
 
 Absolutely—with planning. Try smaller portions, pair with protein/fat, choose lower-sugar options (like chia pudding sweetened with cinnamon and a touch of maple syrup), or save treats for special occasions. Monitoring your glucose before and after helps you learn what works best for *you*.
 
-#### #### Is honey or maple syrup safer than table sugar for diabetics over 50?
+#### Is honey or maple syrup safer than table sugar for diabetics over 50?
 
 No—honey, maple syrup, and coconut sugar all raise blood glucose similarly to table sugar (sucrose). They may contain trace nutrients, but they’re still concentrated sources of carbohydrate and should be counted as such. A teaspoon of honey has ~6g of sugar—just like a teaspoon of granulated sugar.
 
-#### #### Does cutting out sugar improve blood pressure in diabetics over 50?
+#### Does cutting out sugar improve blood pressure in diabetics over 50?
 
 Often, yes—especially when reducing *processed* foods high in both sugar *and* sodium. Studies show that lowering added sugar intake by 25g/day can reduce systolic blood pressure by 5–7 mm Hg in adults with type 2 diabetes—likely due to reduced inflammation, improved insulin sensitivity, and less fluid retention.

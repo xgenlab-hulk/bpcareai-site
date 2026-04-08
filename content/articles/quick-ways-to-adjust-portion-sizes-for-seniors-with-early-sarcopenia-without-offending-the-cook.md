@@ -47,22 +47,22 @@ In closing, supporting muscle health through thoughtful eating is both science-b
 
 ### FAQ
 
-#### #### How can seniors practice portion control sarcopenia seniors without losing muscle?
+#### How can seniors practice portion control sarcopenia seniors without losing muscle?
 
 Focus on protein preservation first: aim for 1.0–1.2 g of protein per kilogram of body weight daily, evenly distributed. Use visual cues (like the 9-inch plate) to reduce starchy and fatty portions—not protein or vegetables. Combine with regular resistance exercise—even seated movements—to signal muscles to retain mass.
 
-#### #### Is portion control sarcopenia seniors different from general weight-loss portion control?
+#### Is portion control sarcopenia seniors different from general weight-loss portion control?
 
 Yes. General weight-loss strategies often cut protein or overall calories too aggressively, risking further muscle loss. Portion control sarcopenia seniors prioritizes *protein density* and *micronutrient richness*, while modestly reducing low-nutrient, high-calorie foods—never at the expense of muscle-supporting nutrients like leucine, vitamin D, or magnesium.
 
-#### #### What are easy portion control tips for healthy holiday eating for seniors?
+#### What are easy portion control tips for healthy holiday eating for seniors?
 
 Serve appetizers on small plates, fill half your holiday plate with roasted vegetables or salad, choose lean turkey over dark meat with skin, and limit gravy and sugary desserts to 1–2 small servings. Drink water before and between courses—and consider taking a short walk after meals to support glucose metabolism.
 
-#### #### Can portion control help with blood pressure in seniors?
+#### Can portion control help with blood pressure in seniors?
 
 Yes. Reducing sodium-dense, highly processed portions—while increasing potassium-rich vegetables and legumes—supports healthier arterial pressure. Combined with consistent portion management, this contributes to better BP control, especially in those with hypertension (defined as ≥140/90 mm Hg).
 
-#### #### Do I need a dietitian to implement portion control sarcopenia seniors?
+#### Do I need a dietitian to implement portion control sarcopenia seniors?
 
 Not necessarily—but consulting a registered dietitian (RD) specializing in aging or muscle health can personalize protein targets, address chewing/swallowing concerns, and align strategies with cultural preferences or medical conditions like diabetes or CKD. Many Medicare plans cover nutrition counseling for qualifying diagnoses.

@@ -64,17 +64,17 @@ Seasonal depression in older adults is treatable—and often improves significan
 
 ### FAQ
 
-#### #### What are the most common signs of seasonal depression in older adults?  
+#### What are the most common signs of seasonal depression in older adults?  
 Common signs include increased fatigue, oversleeping or insomnia, loss of interest in favorite activities, social withdrawal, carbohydrate cravings, and difficulty concentrating. Unlike younger adults, older adults may not verbalize sadness—instead showing irritability, unexplained aches, or apathy.
 
-#### #### Is withdrawn behavior in seniors winter normal—or should I be concerned?  
+#### Is withdrawn behavior in seniors winter normal—or should I be concerned?  
 Some quiet reflection is normal in winter, but *persistent* withdrawal—especially when paired with sleep changes, low energy, or declining self-care—is not typical aging. It may indicate seasonal depression in older adults and warrants gentle follow-up.
 
-#### #### Can withdrawn behavior in seniors winter affect physical health?  
+#### Can withdrawn behavior in seniors winter affect physical health?  
 Yes. Chronic withdrawal can lead to reduced physical activity, poorer nutrition, disrupted sleep, and worsened BP control. Research links untreated seasonal mood changes to increased inflammation markers and higher systolic BP variability.
 
-#### #### How is seasonal depression in older adults different from major depression?  
+#### How is seasonal depression in older adults different from major depression?  
 It follows a clear seasonal pattern (typically fall/winter onset and spring remission), tends to involve more hypersomnia and carbohydrate craving, and often presents with less guilt or suicidal ideation—but more somatic complaints and functional decline.
 
-#### #### Does light therapy work for older adults with seasonal depression?  
+#### Does light therapy work for older adults with seasonal depression?  
 Yes—studies show 60–70% of older adults experience improvement with daily 30-minute morning light therapy (10,000 lux). Always discuss with a healthcare provider first, particularly if taking photosensitizing medications or managing eye conditions.

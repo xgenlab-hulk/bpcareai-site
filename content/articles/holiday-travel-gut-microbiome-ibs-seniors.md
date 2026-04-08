@@ -93,22 +93,22 @@ If you're unsure, talking to your doctor is always a good idea — especially wh
 
 ### FAQ
 
-#### #### Does holiday travel really change gut bacteria in seniors with IBS?
+#### Does holiday travel really change gut bacteria in seniors with IBS?
 
 Yes — research shows measurable reductions in microbial diversity (especially *Bifidobacterium* and *Akkermansia*) after air travel in adults over 58. These shifts correlate strongly with increased IBS symptom severity and duration. Stress, circadian disruption, and dehydration are the top three drivers — not just “eating differently.”
 
-#### #### What are the best prebiotic foods for holiday travel gut microbiome ibs seniors?
+#### What are the best prebiotic foods for holiday travel gut microbiome ibs seniors?
 
 Stick with low-FODMAP, easily digestible prebiotics: ripe bananas, cooked oats, soaked chia seeds (1 tsp), or small portions of canned lentils (¼ cup, rinsed). Timing matters more than volume — aim for 1–2 servings spaced 3–4 hours apart, always with water. Avoid raw onions, garlic, or Jerusalem artichokes while traveling.
 
-#### #### Can holiday travel gut microbiome ibs seniors impact blood pressure?
+#### Can holiday travel gut microbiome ibs seniors impact blood pressure?
 
 Indirectly — yes. Vagal withdrawal and chronic low-grade gut inflammation both influence autonomic nervous system balance. Studies link dysbiosis with modest but consistent increases in systolic BP (average +4–7 mm Hg) in adults over 60. That’s why supporting gut health during travel may also support cardiovascular stability.
 
-#### #### Is it safe to take probiotics before flying if I have IBS?
+#### Is it safe to take probiotics before flying if I have IBS?
 
 Evidence is mixed — but *strain-specific* and *timing-specific* matters. Spore-based probiotics (e.g., *Bacillus coagulans*) show better survival in transit and may help maintain barrier function. Avoid multi-strain blends high in *Lactobacillus acidophilus* if you’re gas-prone — some strains increase hydrogen production. Talk to your provider about whether a short 5-day pre-trip course makes sense for *your* pattern.
 
-#### #### How long does it take for the gut microbiome to recover after holiday travel?
+#### How long does it take for the gut microbiome to recover after holiday travel?
 
 Most adults over 58 see noticeable improvement in regularity and comfort within 3–5 days — especially with consistent sleep, hydration, and gentle fiber. Full microbial diversity recovery may take 10–14 days, depending on baseline health and how much antibiotic exposure you’ve had over your lifetime. Patience + routine = your best recovery tools.

@@ -94,17 +94,17 @@ Understanding the relationship between herbal teas and diastolic stiffness in wo
 
 ### FAQ
 
-#### #### Are herbal teas and diastolic stiffness in women linked in clinical studies?
+#### Are herbal teas and diastolic stiffness in women linked in clinical studies?
 Yes — emerging evidence links certain alkaloid-rich herbal teas to measurable increases in arterial stiffness and diastolic impairment in postmenopausal women. A 2023 analysis in *Hypertension Research* found that 84% of tested commercial blends contained vasopressin-mimetic compounds, with associated 11% average increases in pulse wave velocity among regular users with preexisting stiffness.
 
-#### #### Can hibiscus tea raise blood pressure instead of lowering it?
+#### Can hibiscus tea raise blood pressure instead of lowering it?
 While hibiscus extract has demonstrated modest BP-lowering effects in controlled trials, commercial hibiscus *teas* — especially blended versions containing citrus rind or bitter orange — may contain synephrine or other adrenergic alkaloids. In women with early diastolic stiffness, these components can override hibiscus’ anthocyanin benefits and promote vasoconstriction.
 
-#### #### What herbal teas are safest for women concerned about blood pressure and diastolic function?
+#### What herbal teas are safest for women concerned about blood pressure and diastolic function?
 Peppermint, lemon balm, and rooibos have no documented vasoconstrictive alkaloids and are considered low-risk. Always choose single-ingredient, unsweetened, unblended versions — and avoid “energy,” “metabolism,” or “circulation-boosting” formulations, which are most likely to contain vasopressin-mimetics.
 
-#### #### Does ginger tea affect diastolic stiffness?
+#### Does ginger tea affect diastolic stiffness?
 Ginger itself is not inherently problematic, but many commercial ginger teas include added citrus peel, black pepper (piperine), or proprietary stimulant blends — all potential sources of vasoactive alkaloids. Pure, fresh-grated ginger steeped at home poses minimal risk and may even support endothelial health in moderation.
 
-#### #### How soon after stopping herbal tea might I notice improved diastolic function?
+#### How soon after stopping herbal tea might I notice improved diastolic function?
 There’s no universal timeline, but vascular smooth muscle responsiveness to alkaloids typically normalizes within 7–14 days after discontinuation. If you’ve been drinking multiple cups daily of high-alkaloid blends, consider a 2-week “tea pause” while tracking BP and symptoms — then reintroduce one botanical at a time to assess tolerance.

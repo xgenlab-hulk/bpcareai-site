@@ -86,22 +86,22 @@ Diabetes management senior cohousing isn’t about outsourcing care—it’s abo
 
 ### FAQ
 
-#### #### How does diabetes management senior cohousing differ from assisted living?
+#### How does diabetes management senior cohousing differ from assisted living?
 
 In diabetes management senior cohousing, residents retain full ownership of their homes and healthcare decisions. Support is peer-initiated and reciprocal—not staff-delivered or medically mandated. Assisted living provides clinical oversight and personal care; cohousing offers community infrastructure—like shared kitchens, mutual aid networks, and co-designed wellness protocols—that empowers self-management.
 
-#### #### Can CGM alerts really be shared safely in senior cohousing?
+#### Can CGM alerts really be shared safely in senior cohousing?
 
 Yes—when built on informed consent, device-level privacy controls, and clear community agreements. FDA-cleared CGMs allow granular sharing permissions (e.g., glucose-only alerts, no historical data), and all alerts can be paused or revoked instantly by the user. No health information is stored on community servers—data flows directly from device to designated phones via encrypted channels.
 
-#### #### What role does nutrition play in diabetes management senior cohousing?
+#### What role does nutrition play in diabetes management senior cohousing?
 
 Nutrition is foundational—and intentionally inclusive. Rather than special “diabetic meals,” communities adopt glycemic-aware cooking for everyone: balanced carb portions, high-fiber choices, and reduced sodium/sugar. This lowers average post-meal glucose spikes by 20–30 mg/dL in older adults, according to cohort studies in Minnesota and Vermont cohousing groups.
 
-#### #### Is emergency training required for all residents in diabetes management senior cohousing?
+#### Is emergency training required for all residents in diabetes management senior cohousing?
 
 No—training is always voluntary and role-specific. However, at least 3–5 residents per household cluster (e.g., 6–8 units) are encouraged to complete a 90-minute, hands-on session covering recognition of hypo/hyperglycemia, safe administration of oral glucose gel, and when/how to activate EMS. Training uses low-literacy materials and includes return demonstration.
 
-#### #### How do I start implementing diabetes management senior cohousing in my existing community?
+#### How do I start implementing diabetes management senior cohousing in my existing community?
 
 Begin with a resident-led wellness committee, partner with a local CDCES or geriatric nurse practitioner for a 2-hour educational workshop, and pilot one initiative—such as a shared pantry upgrade or a monthly “blood sugar & breakfast” discussion group. Measure impact using simple metrics: % of residents reporting improved confidence in managing lows, average weekly carb consistency, or reduction in urgent care visits over 6 months.

@@ -74,22 +74,22 @@ Remember: Aging well with GLP-1 therapy isn’t about rigid rules—it’s about
 
 ### FAQ
 
-#### #### How does glp-1 agonist meal timing family gathering affect nausea in older adults?
+#### How does glp-1 agonist meal timing family gathering affect nausea in older adults?
 
 Nausea is common in older GLP-1 users because the medication slows gastric emptying—and aging further reduces stomach motility. Eating large, high-fat meals too close to an event increases this risk. Spacing your last substantial meal 2–3 hours before arrival, choosing lower-fat, higher-protein options, and avoiding carbonated drinks can reduce nausea by up to 50% in observational reports.
 
-#### #### What’s the best glp-1 agonist meal timing family gathering strategy if I’m also on insulin?
+#### What’s the best glp-1 agonist meal timing family gathering strategy if I’m also on insulin?
 
 Coordinate timing closely with your care team. Generally, aim to eat your anchor meal 2–3 hours pre-event, then adjust rapid-acting insulin doses based on anticipated carb intake *at* the gathering—not on what you ate earlier. Never skip basal insulin. Consider splitting your meal into two smaller portions spaced 90 minutes apart to minimize glucose swings and gastric distress.
 
-#### #### Can glp-1 agonist meal timing family gathering help prevent low blood sugar during holiday meals?
+#### Can glp-1 agonist meal timing family gathering help prevent low blood sugar during holiday meals?
 
 Yes—strategic timing helps. Eating a balanced anchor meal beforehand prevents reactive hypoglycemia from arriving overly hungry. Then, eating slowly and pairing carbs with protein/fat blunts post-meal glucose spikes *and* subsequent drops. Check glucose 2 hours after starting your main meal—if it’s trending downward rapidly (<80 mg/dL), have a 15-gram carb snack with protein (e.g., crackers + cheese).
 
-#### #### Should I take my GLP-1 injection the morning of a family gathering?
+#### Should I take my GLP-1 injection the morning of a family gathering?
 
 Most GLP-1 agonists (e.g., semaglutide weekly, dulaglutide weekly, liraglutide daily) can be taken on schedule regardless of events—but consistency matters more than timing. If your usual dose day falls on the gathering day, take it as directed (often in the morning, with or without food, depending on the specific drug). Don’t delay or double-dose to “accommodate” the event.
 
-#### #### Is it safe to skip breakfast before a family dinner if I’m on a GLP-1 agonist?
+#### Is it safe to skip breakfast before a family dinner if I’m on a GLP-1 agonist?
 
 No—skipping breakfast increases risk of postprandial hypoglycemia, nausea, and overeating later. Instead, eat a light, protein-forward breakfast (e.g., Greek yogurt + berries, or cottage cheese + peach slices) 3–4 hours before the event. This maintains steady glucose, primes digestion, and supports satiety without overwhelming your system.

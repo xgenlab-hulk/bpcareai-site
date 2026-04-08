@@ -67,22 +67,22 @@ The holidays are meant to be shared—not scrutinized. Small, intentional shifts
 
 ### FAQ
 
-#### #### Can holiday table settings portion control prediabetes really make a difference for someone my age?
+#### Can holiday table settings portion control prediabetes really make a difference for someone my age?
 
 Yes—especially for adults 55–72. As we age, gastric emptying slows, leptin sensitivity decreases, and visual cues become more important than internal hunger signals. Studies show that simple changes like using smaller plates or increasing plate-food contrast reduced average calorie intake by 12–18% in adults over 60 with prediabetes—without increasing hunger or reducing meal satisfaction.
 
-#### #### How does holiday table settings portion control prediabetes relate to blood pressure?
+#### How does holiday table settings portion control prediabetes relate to blood pressure?
 
 Holiday meals often include higher sodium (gravies, cured meats, cheeses) and refined carbs—which can cause temporary BP spikes. When portion sizes are larger, those effects compound. Research links consistent overeating during festive seasons with 5–7 mm Hg increases in systolic BP over 3 weeks—particularly in adults with prediabetes and existing arterial stiffness.
 
-#### #### What’s the best plate size for holiday table settings portion control prediabetes?
+#### What’s the best plate size for holiday table settings portion control prediabetes?
 
 For main courses, aim for 9 to 9.5 inches in diameter. That’s roughly the size of a traditional salad plate—but used intentionally for your full meal. Avoid “dinner plates” over 10.5 inches, which encourage 20–30% more food volume without altering perceived fullness.
 
-#### #### Does seating arrangement affect blood sugar response during holiday meals?
+#### Does seating arrangement affect blood sugar response during holiday meals?
 
 Indirectly—but meaningfully. Being seated near high-carb food stations or next to enthusiastic servers increases unplanned bites by up to 35% in observational studies of adults 60+. Since each additional 15 grams of carbohydrate can raise postprandial glucose by 30–40 mg/dL in people with prediabetes, minimizing easy access helps maintain steadier readings.
 
-#### #### Are there simple ways to test if my holiday table settings portion control prediabetes approach is working?
+#### Are there simple ways to test if my holiday table settings portion control prediabetes approach is working?
 
 Yes! Try this two-week experiment: use a 9-inch plate for all main meals, drink one glass of water before sitting, and pause for 20 seconds after every 3 bites. Track your energy levels, after-meal fullness (1–10 scale), and—if possible—post-meal glucose (2 hours after eating). Most adults notice improved satiety and steadier energy within 5–7 days.

@@ -45,17 +45,17 @@ Holiday meals don’t need to be perfect to be meaningful. What matters most is 
 
 ### FAQ
 
-#### #### Can eating slowly holiday meals dementia prevent sundowning episodes?  
+#### Can eating slowly holiday meals dementia prevent sundowning episodes?  
 Not on its own. Sundowning is linked to circadian disruption and sensory fatigue—not meal pace. However, combining slower eating with low-stimulus environments and predictable routines *can* reduce its intensity and frequency.
 
-#### #### Is eating slowly holiday meals dementia helpful for blood pressure management in older adults?  
+#### Is eating slowly holiday meals dementia helpful for blood pressure management in older adults?  
 Yes—but only when paired with other supports. Studies show a 10–15% reduction in postprandial BP spikes when paced eating includes seated posture, warm (not hot) foods, and 2-minute rest periods before and after meals.
 
-#### #### What are better alternatives to “just eat slower” for someone with dementia during holiday gatherings?  
+#### What are better alternatives to “just eat slower” for someone with dementia during holiday gatherings?  
 Try “sensory-first” strategies: use favorite scents (cinnamon, roasted herbs), serve one course at a time, keep conversation light and repetitive (“This is your favorite apple pie”), and allow silent participation—even just sitting at the table helps maintain belonging.
 
-#### #### Does chewing longer improve digestion for people with dementia?  
+#### Does chewing longer improve digestion for people with dementia?  
 Chewing longer *can* aid mechanical digestion, but cognitive fatigue often overrides physical readiness. For many, smaller, softer bites offered with rhythm and reassurance work better than extended chewing demands.
 
-#### #### How do I know if my loved one is overwhelmed—not refusing food—during holiday meals?  
+#### How do I know if my loved one is overwhelmed—not refusing food—during holiday meals?  
 Watch for nonverbal cues: shallow breathing, lip licking, turning head away, or gripping the chair. These often precede verbal refusal and signal nervous system overload—not dislike of food.

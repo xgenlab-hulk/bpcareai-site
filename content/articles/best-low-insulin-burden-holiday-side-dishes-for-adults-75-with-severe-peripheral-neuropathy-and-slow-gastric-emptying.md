@@ -59,17 +59,17 @@ Choosing **low insulin burden holiday sides neuropathy** isn’t about giving up
 
 ### FAQ
 
-#### #### What are the best low insulin burden holiday sides neuropathy options for someone with gastroparesis?
+#### What are the best low insulin burden holiday sides neuropathy options for someone with gastroparesis?
 The top five clinically aligned options include: (1) chilled, peeled, and boiled parsnip mash (leached to reduce FODMAPs), (2) cooked-and-cooled pearl barley salad with roasted fennel and lemon zest, (3) baked green banana “fries” with cinnamon, (4) steamed and cooled purple sweet potato cubes (cooled ≥4 hrs), and (5) lentil-walnut pilaf with soaked red lentils and toasted walnuts. All emphasize resistant starch, soluble fiber, and thermal stability.
 
-#### #### Can low insulin burden holiday sides neuropathy help reduce burning feet pain?
+#### Can low insulin burden holiday sides neuropathy help reduce burning feet pain?
 Indirectly—but meaningfully. By lowering post-meal glucose spikes and systemic inflammation, these sides support better microvascular blood flow to nerves and reduce oxidative stress—a known contributor to burning, tingling, and electric sensations in peripheral neuropathy.
 
-#### #### Are there holiday side dishes that won’t worsen slow gastric emptying?
+#### Are there holiday side dishes that won’t worsen slow gastric emptying?
 Yes—focus on low-FODMAP, low-fat, moderate-fiber sides prepared with cooling steps (to increase resistant starch) and gentle cooking methods (steaming > frying). Avoid creamy sauces thickened with wheat flour or inulin, and skip raw cruciferous veggies like raw broccoli or cabbage.
 
-#### #### How does resistant starch help with neuropathy and digestion?
+#### How does resistant starch help with neuropathy and digestion?
 Resistant starch resists digestion in the small intestine, reaching the colon intact—where it feeds beneficial bacteria that produce short-chain fatty acids (like butyrate). Butyrate supports gut barrier integrity, reduces neuroinflammation, and enhances motilin release, helping normalize gastric emptying rhythms.
 
-#### #### Do I need to eliminate all traditional holiday sides to follow a low insulin burden holiday sides neuropathy plan?
+#### Do I need to eliminate all traditional holiday sides to follow a low insulin burden holiday sides neuropathy plan?
 No—many classics can be adapted. Mashed potatoes become safer when made with peeled, cooled Yukon Golds and a splash of unsweetened almond milk instead of cream. Stuffing can be reimagined using certified low-FODMAP gluten-free bread, celery (in small amounts), and fresh sage—baked separately to preserve texture and digestibility.

@@ -54,22 +54,22 @@ In conclusion, supporting sympathetic tone through intentional food choices is b
 
 ### FAQ
 
-#### #### Can magnesium-rich foods really lower blood pressure during family dinners?
+#### Can magnesium-rich foods really lower blood pressure during family dinners?
 
 Yes—studies show oral magnesium supplementation (300–500 mg/day) reduces systolic BP by ~3–5 mm Hg in older adults with hypertension. Whole-food sources like pumpkin seeds and spinach offer co-factors (e.g., potassium, fiber) that enhance this effect—especially when served warm to support absorption and parasympathetic signaling.
 
-#### #### What are the best foods sympathetic tone family gatherings anxiety for seniors with social anxiety?
+#### What are the best foods sympathetic tone family gatherings anxiety for seniors with social anxiety?
 
 Top evidence-backed options include warm roasted pumpkin seeds (102°F), steamed spinach (110°F), fermented yogurt (86°F), black beans (104°F), and gently warmed banana (95°F). Each supports magnesium status and/or GABA activity—key regulators of autonomic balance during sensory overload.
 
-#### #### Do GABA supplements work better than GABA-rich foods for calming during family meals?
+#### Do GABA supplements work better than GABA-rich foods for calming during family meals?
 
 Oral GABA supplements have limited blood-brain barrier penetration. In contrast, fermented foods like yogurt contain bioactive peptides and live microbes that promote *endogenous* GABA production in the gut—and gut-derived GABA signals directly to the brainstem via the vagus nerve. Food-first approaches are safer and more effective for long-term tone regulation.
 
-#### #### How soon before a family dinner should I eat calming foods?
+#### How soon before a family dinner should I eat calming foods?
 
 Consume 1–2 servings 30–60 minutes prior. This allows time for gastric emptying and early-phase nutrient signaling—without competing with digestion of the main meal. Avoid large portions, which may divert blood flow from the brain and increase discomfort.
 
-#### #### Is white-coat hypertension dangerous during holidays?
+#### Is white-coat hypertension dangerous during holidays?
 
 While white-coat hypertension itself isn’t classified as Stage 1 HTN, repeated episodic surges (>140/90 mm Hg) during high-stimulus events correlate with increased 10-year cardiovascular risk—especially in adults over 65. Dietary modulation is a recognized first-line nonpharmacologic strategy in guidelines from the American College of Cardiology and European Society of Hypertension.

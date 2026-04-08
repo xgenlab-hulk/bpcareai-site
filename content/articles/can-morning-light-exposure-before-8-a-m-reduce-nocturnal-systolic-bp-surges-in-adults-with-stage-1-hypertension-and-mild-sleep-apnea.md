@@ -96,22 +96,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does morning light exposure really lower blood pressure at night?
+#### Does morning light exposure really lower blood pressure at night?
 
 Yes—emerging clinical trials show that consistent morning light exposure before 8 a.m. can reduce nocturnal systolic BP by an average of 5–7 mm Hg in adults with stage 1 hypertension and mild sleep apnea. The mechanism involves circadian realignment, which helps dampen sympathetic nervous system activity during sleep.
 
-#### #### How does morning light exposure nocturnal blood pressure work with sleep apnea?
+#### How does morning light exposure nocturnal blood pressure work with sleep apnea?
 
 Morning light exposure doesn’t treat airway obstruction—but it supports the underlying circadian regulation of autonomic function. In mild OSA, disrupted rhythms contribute to exaggerated nocturnal BP surges. By reinforcing a stable light-dark cycle, morning light helps restore natural dipping patterns—even when apneas are still present.
 
-#### #### Can I use a light therapy lamp instead of natural sunlight for morning light exposure nocturnal blood pressure benefits?
+#### Can I use a light therapy lamp instead of natural sunlight for morning light exposure nocturnal blood pressure benefits?
 
 Yes—studies using 10,000-lux white light boxes for 30 minutes between 6:30–7:45 a.m. show similar BP effects to natural light. Look for lamps labeled “circadian-effective” or “full-spectrum,” and sit ~16–24 inches away, eyes open but not staring directly at the light.
 
-#### #### Is morning light exposure safe for people with glaucoma or retinal conditions?
+#### Is morning light exposure safe for people with glaucoma or retinal conditions?
 
 Most adults with well-managed eye conditions can safely enjoy morning light. However, if you have light-sensitive retinal disease, advanced glaucoma, or are on photosensitizing medications (e.g., certain antibiotics or diuretics), consult your ophthalmologist first.
 
-#### #### How long does it take to see changes in nocturnal blood pressure from morning light exposure?
+#### How long does it take to see changes in nocturnal blood pressure from morning light exposure?
 
 Most studies observed measurable improvements in nocturnal dipping status and average nighttime systolic BP after 2–4 weeks of consistent practice. Benefits tend to build gradually—and fade if the habit stops, underscoring the importance of routine.

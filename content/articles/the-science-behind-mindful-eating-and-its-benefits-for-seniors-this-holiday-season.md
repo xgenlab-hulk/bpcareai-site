@@ -51,22 +51,22 @@ The holidays are a time for connection, comfort, and celebration—not dietary v
 
 ### FAQ
 
-#### #### How does mindful eating help seniors manage blood sugar during the holidays?
+#### How does mindful eating help seniors manage blood sugar during the holidays?
 
 Mindful eating supports healthier blood sugar control by encouraging slower eating, which allows time for satiety and insulin signaling to align. Clinical studies show older adults practicing mindful eating experience smaller post-meal glucose spikes—often reducing peak levels by 20–30 mg/dL compared to habitual eating—particularly after carbohydrate-rich holiday meals. This is linked to improved insulin sensitivity and reduced oxidative stress, both critical for preventing progression from prediabetes to type 2 diabetes.
 
-#### #### Is the science of mindful eating seniors holidays backed by real research?
+#### Is the science of mindful eating seniors holidays backed by real research?
 
 Yes. Multiple peer-reviewed studies—including RCTs conducted by the National Institute on Aging and universities like Tufts and UCSF—demonstrate measurable benefits in adults 60+. These include improved glycemic variability, enhanced digestive comfort, reduced emotional eating frequency, and even modest improvements in systolic BP (averaging a 4–6 mm Hg reduction over 8–12 weeks). Importantly, interventions were brief (as few as four 30-minute sessions) and delivered in community or telehealth formats, making them highly accessible.
 
-#### #### Can mindful eating lower blood pressure in seniors?
+#### Can mindful eating lower blood pressure in seniors?
 
 While not a standalone treatment for hypertension, mindful eating contributes to BP management indirectly—and sometimes directly. By reducing stress-related sympathetic activation, improving sleep quality, supporting healthy weight maintenance, and decreasing sodium-laden “mindless snacking,” it complements standard lifestyle approaches. Some studies report modest reductions in systolic BP (3–7 mm Hg) among older adults practicing mindfulness-based nutrition strategies consistently for 10+ weeks—especially when combined with moderate physical activity.
 
-#### #### What’s the best way for seniors to start mindful eating without feeling overwhelmed?
+#### What’s the best way for seniors to start mindful eating without feeling overwhelmed?
 
 Begin with one anchor behavior: try the “first-bite pause” at one meal per day—take a breath, notice the color and scent of your food, and chew slowly for the first three bites. No tracking, no goals—just noticing. After a week, gently add a second cue, like putting your fork down between bites. Research confirms that consistency—not intensity—drives lasting change, and even 2–3 minutes of daily practice yields measurable neural and metabolic benefits within four weeks.
 
-#### #### Does mindful eating help with holiday weight gain in older adults?
+#### Does mindful eating help with holiday weight gain in older adults?
 
 Yes—but not in the way many assume. Rather than preventing weight gain outright, mindful eating helps stabilize weight by reducing reactive overeating and improving metabolic efficiency. A 2022 study tracking adults 65+ found those using mindful eating strategies gained, on average, 0.8 pounds over the holiday period—compared to 2.3 pounds in the control group. More importantly, they maintained muscle mass and reported greater energy and digestive ease, underscoring that healthy holiday eating for seniors is about resilience, not restriction.

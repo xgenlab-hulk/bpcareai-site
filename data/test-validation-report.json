@@ -1,0 +1,973 @@
+{
+  "total_tested": 50,
+  "pass_count": 38,
+  "pass_rate": "76.0%",
+  "average_score": 89.9,
+  "quality_distribution": {
+    "excellent": 38,
+    "good": 0,
+    "needs_improvement": 3,
+    "poor": 9
+  },
+  "issue_statistics": {
+    "no_real_medical_topic": 9,
+    "unnatural_phrasing": 16,
+    "no_audience": 3,
+    "generic_main_topic": 1
+  },
+  "detailed_results": [
+    {
+      "slug": "warning-signs-your-holiday-dessert-plate-is-accelerating-arterial-stiffness-especially-if-you-re-on-beta-blockers-and-over-73",
+      "current_keyword": "holiday dessert arterial stiffness warning signs",
+      "optimized_keyword": "arterial stiffness warning signs over 73",
+      "agent_claimed_score": 90,
+      "actual_score": 60,
+      "passed": false,
+      "issues": [
+        "no_real_medical_topic"
+      ],
+      "score_breakdown": {
+        "real_medical_topic": 0,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "when-to-worry-about-post-holiday-constipation-in-adults-72-with-chronic-opioid-use-and-low-fiber-diet-history",
+      "current_keyword": "post-holiday constipation opioid warning signs",
+      "optimized_keyword": "constipation warning signs adults 72+",
+      "agent_claimed_score": 90,
+      "actual_score": 60,
+      "passed": false,
+      "issues": [
+        "no_real_medical_topic"
+      ],
+      "score_breakdown": {
+        "real_medical_topic": 0,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat",
+      "current_keyword": "health management seniors",
+      "optimized_keyword": "digestive health high-fiber foods seniors",
+      "agent_claimed_score": 90,
+      "actual_score": 100,
+      "passed": true,
+      "issues": [],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "warning-signs-your-stable-atrial-fibrillation-is-progressing-to-tachycardia-induced-cardiomyopathy-even-with-controlled-ventricular-rate-in-adults-61",
+      "current_keyword": "health management adults 61+",
+      "optimized_keyword": "atrial fibrillation warning signs adults 61+",
+      "agent_claimed_score": 90,
+      "actual_score": 60,
+      "passed": false,
+      "issues": [
+        "no_real_medical_topic"
+      ],
+      "score_breakdown": {
+        "real_medical_topic": 0,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "quick-ways-to-stabilize-pulse-pressure-fluctuations-during-grocery-shopping-for-adults-70-with-orthostatic-intolerance-and-postprandial-hypotension",
+      "current_keyword": "health management adults 70+",
+      "optimized_keyword": "blood pressure management adults 70+",
+      "agent_claimed_score": 90,
+      "actual_score": 100,
+      "passed": true,
+      "issues": [],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "coronary-microvascular-reactivity-natural-support",
+      "current_keyword": "coronary microvascular reactivity natural support",
+      "optimized_keyword": "heart health natural support adults 66+",
+      "agent_claimed_score": 90,
+      "actual_score": 100,
+      "passed": true,
+      "issues": [],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "turkey-cooking-method-endothelial-health",
+      "current_keyword": "turkey cooking method endothelial health",
+      "optimized_keyword": "heart health cooking methods adults 66+",
+      "agent_claimed_score": 90,
+      "actual_score": 100,
+      "passed": true,
+      "issues": [],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "nocturnal-nitric-oxide-beetroot-gel-nasal-breathing",
+      "current_keyword": "health management nighttime adults 67+",
+      "optimized_keyword": "blood pressure nighttime control adults 67+",
+      "agent_claimed_score": 90,
+      "actual_score": 100,
+      "passed": true,
+      "issues": [],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "turkey-preparation-gout-uric-acid-comparison",
+      "current_keyword": "health management men 62",
+      "optimized_keyword": "gout management diet men 62-79",
+      "agent_claimed_score": 90,
+      "actual_score": 60,
+      "passed": false,
+      "issues": [
+        "no_real_medical_topic"
+      ],
+      "score_breakdown": {
+        "real_medical_topic": 0,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "the-truth-about-gluten-free-holiday-desserts-for-adults-67-with-non-celiac-gluten-sensitivity-and-small-intestinal-bacterial-overgrowth",
+      "current_keyword": "health management holiday adults 67+",
+      "optimized_keyword": "digestive health gluten-free diet adults 67+",
+      "agent_claimed_score": 90,
+      "actual_score": 95,
+      "passed": true,
+      "issues": [
+        "unnatural_phrasing"
+      ],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 5,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "the-complete-guide-to-non-alcoholic-celebration-rituals-for-adults-72-with-hfpef-and-alcohol-induced-pulmonary-congestion",
+      "current_keyword": "health management adults 72+",
+      "optimized_keyword": "heart failure management adults 72+",
+      "agent_claimed_score": 90,
+      "actual_score": 100,
+      "passed": true,
+      "issues": [],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "healthy-holiday-buffet-glycemic-traps",
+      "current_keyword": "healthy holiday buffet glycemic traps",
+      "optimized_keyword": "blood sugar holiday foods diabetes",
+      "agent_claimed_score": 90,
+      "actual_score": 75,
+      "passed": false,
+      "issues": [
+        "no_audience",
+        "unnatural_phrasing"
+      ],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 0,
+        "optimal_length": 15,
+        "natural_phrasing": 5,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "10-foods-that-boost-endothelial-no-synthase-activity-in-adults-54-69-with-elevated-adma-and-normal-ldl-c",
+      "current_keyword": "foods boost endothelial NO synthase adults 54-69",
+      "optimized_keyword": "heart health foods adults 54-69",
+      "agent_claimed_score": 90,
+      "actual_score": 95,
+      "passed": true,
+      "issues": [
+        "unnatural_phrasing"
+      ],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 5,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "what-research-says-about-ultra-processed-holiday-snacks-and-endothelial-dysfunction-in-adults-61-75-with-subclinical-atherosclerosis",
+      "current_keyword": "ultra-processed snacks endothelial function atherosclerosis",
+      "optimized_keyword": "heart health processed foods adults 61-75",
+      "agent_claimed_score": 90,
+      "actual_score": 95,
+      "passed": true,
+      "issues": [
+        "unnatural_phrasing"
+      ],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 5,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now",
+      "current_keyword": "diet management winter seniors",
+      "optimized_keyword": "blood pressure salt intake seniors",
+      "agent_claimed_score": 90,
+      "actual_score": 100,
+      "passed": true,
+      "issues": [],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "5-things-everyone-over-70-should-know-about-coronary-artery-calcium-cac-scoring-especially-if-you-re-taking-statins-but-have-zero-symptoms",
+      "current_keyword": "coronary calcium scoring over 70",
+      "optimized_keyword": "heart health screening over 70",
+      "agent_claimed_score": 90,
+      "actual_score": 100,
+      "passed": true,
+      "issues": [],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "nitric-oxide-coupling-without-l-arginine",
+      "current_keyword": "nitric oxide coupling without l-arginine",
+      "optimized_keyword": "heart health natural support adults 68+",
+      "agent_claimed_score": 90,
+      "actual_score": 100,
+      "passed": true,
+      "issues": [],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "does-long-term-use-of-ppis-increase-risk-of-atrial-fibrillation-in-seniors-with-gerd",
+      "current_keyword": "PPIs atrial fibrillation risk seniors GERD",
+      "optimized_keyword": "heart rhythm medication risks seniors",
+      "agent_claimed_score": 90,
+      "actual_score": 100,
+      "passed": true,
+      "issues": [],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "when-to-worry-about-just-one-more-glass-early-qtc-prolongation-signs-after-holiday-wine-consumption-in-women-62-on-ssris",
+      "current_keyword": "holiday wine qt prolongation ssri women",
+      "optimized_keyword": "heart rhythm alcohol risks women 62+",
+      "agent_claimed_score": 90,
+      "actual_score": 95,
+      "passed": true,
+      "issues": [
+        "unnatural_phrasing"
+      ],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 5,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "the-complete-guide-to-interpreting-nt-probnp-in-adults-76-with-ckd-stage-3b-and-anemia-why-standard-cutpoints-fail-and-what-adjusted-thresholds-to-use",
+      "current_keyword": "nt-probnp interpretation in elderly ckd",
+      "optimized_keyword": "heart failure testing adults 76+",
+      "agent_claimed_score": 90,
+      "actual_score": 100,
+      "passed": true,
+      "issues": [],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60",
+      "current_keyword": "sleep disruption and seasonal depression",
+      "optimized_keyword": "sleep health seasonal depression adults 60+",
+      "agent_claimed_score": 90,
+      "actual_score": 55,
+      "passed": false,
+      "issues": [
+        "no_real_medical_topic",
+        "unnatural_phrasing"
+      ],
+      "score_breakdown": {
+        "real_medical_topic": 0,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 5,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "holiday-healthy-swap-triglyceride-lipoprotein",
+      "current_keyword": "holiday healthy swap triglyceride lipoprotein",
+      "optimized_keyword": "cholesterol diet warning signs diabetes",
+      "agent_claimed_score": 90,
+      "actual_score": 80,
+      "passed": false,
+      "issues": [
+        "no_audience"
+      ],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 0,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "warning-signs-your-blood-pressure-is-straining-your-aorta-especially-if-you-re-a-man-over-72-with-marfanoid-features-and-unexplained-back-pain",
+      "current_keyword": "blood management pressure over 72",
+      "optimized_keyword": "blood pressure warning signs men over 72",
+      "agent_claimed_score": 90,
+      "actual_score": 100,
+      "passed": true,
+      "issues": [],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "improve-endothelial-function-quickly",
+      "current_keyword": "improve endothelial function quickly",
+      "optimized_keyword": "heart health improvement adults 57-74",
+      "agent_claimed_score": 90,
+      "actual_score": 95,
+      "passed": true,
+      "issues": [
+        "unnatural_phrasing"
+      ],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 5,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "silent-myocardial-infarction-ecg-patch-monitoring",
+      "current_keyword": "silent myocardial infarction ecg patch monitoring",
+      "optimized_keyword": "heart attack warning signs over 75",
+      "agent_claimed_score": 90,
+      "actual_score": 100,
+      "passed": true,
+      "issues": [],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "natural-ways-to-enhance-salivary-amylase-activity-before-holiday-starches-without-medication-for-adults-65-84-with-xerostomia-and-gerd",
+      "current_keyword": "salivary amylase holiday starches seniors",
+      "optimized_keyword": "digestive health natural support adults 65-84",
+      "agent_claimed_score": 90,
+      "actual_score": 100,
+      "passed": true,
+      "issues": [],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "when-should-you-get-a-coronary-cta-instead-of-stress-testing-for-adults-58-64-with-atypical-chest-pain-and-low-to-intermediate-pre-test-probability",
+      "current_keyword": "coronary cta vs stress test atypical chest pain",
+      "optimized_keyword": "heart testing options adults 58-64",
+      "agent_claimed_score": 90,
+      "actual_score": 100,
+      "passed": true,
+      "issues": [],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "sugar-free-desserts-gut-health-seniors",
+      "current_keyword": "sugar-free desserts gut health seniors",
+      "optimized_keyword": "digestive health sugar-free foods seniors",
+      "agent_claimed_score": 90,
+      "actual_score": 100,
+      "passed": true,
+      "issues": [],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "strength-training-peripheral-neuropathy-seniors",
+      "current_keyword": "strength training peripheral neuropathy seniors",
+      "optimized_keyword": "diabetes exercise neuropathy adults 60+",
+      "agent_claimed_score": 90,
+      "actual_score": 95,
+      "passed": true,
+      "issues": [
+        "unnatural_phrasing"
+      ],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 5,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "chewing-turkey-satiety-gastroparesis",
+      "current_keyword": "diet management post-meal seniors",
+      "optimized_keyword": "digestive health eating habits adults 55-69",
+      "agent_claimed_score": 90,
+      "actual_score": 100,
+      "passed": true,
+      "issues": [],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "foods-stabilize-pulse-pressure-seniors-orthostasis",
+      "current_keyword": "foods stabilize pulse pressure seniors orthostasis",
+      "optimized_keyword": "blood pressure foods seniors 76+",
+      "agent_claimed_score": 90,
+      "actual_score": 100,
+      "passed": true,
+      "issues": [],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "7-smart-swaps-for-healthier-holiday-meals-after-65",
+      "current_keyword": "healthy holiday swaps for seniors",
+      "optimized_keyword": "heart health holiday meals after 65",
+      "agent_claimed_score": 90,
+      "actual_score": 75,
+      "passed": false,
+      "issues": [
+        "no_audience",
+        "unnatural_phrasing"
+      ],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 0,
+        "optimal_length": 15,
+        "natural_phrasing": 5,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "12-holiday-foods-seniors-70-can-eat-without-spiking-blood-sugar-or-blood-pressure",
+      "current_keyword": "holiday foods for seniors 70+",
+      "optimized_keyword": "blood pressure diet seniors 70+",
+      "agent_claimed_score": 90,
+      "actual_score": 100,
+      "passed": true,
+      "issues": [],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "sodium-potassium-pump-resilience-natural",
+      "current_keyword": "diet management adults 66+",
+      "optimized_keyword": "heart health natural support adults 66+",
+      "agent_claimed_score": 90,
+      "actual_score": 100,
+      "passed": true,
+      "issues": [],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "warning-signs-of-cerebral-autoregulation-failure-masquerading-as-just-stress-in-adults-58-70-with-migraine-with-aura-and-labile-bp",
+      "current_keyword": "cerebral autoregulation failure warning signs adults 58-70",
+      "optimized_keyword": "blood pressure warning signs adults 58-70",
+      "agent_claimed_score": 90,
+      "actual_score": 100,
+      "passed": true,
+      "issues": [],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis",
+      "current_keyword": "holiday leftovers antibiotic resistance UTI seniors",
+      "optimized_keyword": "urinary tract infection prevention seniors",
+      "agent_claimed_score": 90,
+      "actual_score": 60,
+      "passed": false,
+      "issues": [
+        "no_real_medical_topic"
+      ],
+      "score_breakdown": {
+        "real_medical_topic": 0,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "warning-signs-of-subclinical-vitamin-b12-malabsorption-triggered-by-holiday-ham-and-roast-beef-in-adults-70-taking-ppis-or-with-atrophic-gastritis",
+      "current_keyword": "b12 malabsorption holiday meat",
+      "optimized_keyword": "vitamin b12 deficiency adults 70+",
+      "agent_claimed_score": 90,
+      "actual_score": 60,
+      "passed": false,
+      "issues": [
+        "no_real_medical_topic"
+      ],
+      "score_breakdown": {
+        "real_medical_topic": 0,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "chicken-preparation-triglyceride-clearance-hypertriglyceridemia",
+      "current_keyword": "diet management holiday seniors",
+      "optimized_keyword": "cholesterol management diet adults 60-72",
+      "agent_claimed_score": 90,
+      "actual_score": 100,
+      "passed": true,
+      "issues": [],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "12-science-backed-ways-to-improve-baroreflex-sensitivity-without-medication-for-adults-67-80-with-orthostatic-hypotension-and-recurrent-falls",
+      "current_keyword": "health management seniors",
+      "optimized_keyword": "blood pressure balance adults 67-80",
+      "agent_claimed_score": 90,
+      "actual_score": 95,
+      "passed": true,
+      "issues": [
+        "unnatural_phrasing"
+      ],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 5,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "pheochromocytoma-suspicion-adults-57-70-normal-urinary-metanephrines",
+      "current_keyword": "health management seniors",
+      "optimized_keyword": "blood pressure warning signs adults 57-70",
+      "agent_claimed_score": 90,
+      "actual_score": 100,
+      "passed": true,
+      "issues": [],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor",
+      "current_keyword": "healthy recipe swaps for families",
+      "optimized_keyword": "heart health cooking tips families",
+      "agent_claimed_score": 90,
+      "actual_score": 100,
+      "passed": true,
+      "issues": [],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know",
+      "current_keyword": "seasonal depression vs winter sadness",
+      "optimized_keyword": "mental health seasonal depression families",
+      "agent_claimed_score": 90,
+      "actual_score": 95,
+      "passed": true,
+      "issues": [
+        "unnatural_phrasing"
+      ],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 5,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "candy-distraction-cortisol-fat-oxidation",
+      "current_keyword": "diet management adults 66+",
+      "optimized_keyword": "stress management diet adults 66+",
+      "agent_claimed_score": 90,
+      "actual_score": 100,
+      "passed": true,
+      "issues": [],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "how-chronic-low-grade-dental-inflammation-alters-plaque-stability-in-adults-68-with-stable-cad-evidence-from-serial-ivus-oct-imaging",
+      "current_keyword": "dental inflammation and coronary plaque stability",
+      "optimized_keyword": "heart health dental care adults 68+",
+      "agent_claimed_score": 90,
+      "actual_score": 95,
+      "passed": true,
+      "issues": [
+        "unnatural_phrasing"
+      ],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 5,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "the-truth-about-heart-healthy-holiday-salads-why-kale-cranberries-and-walnuts-may-backfire-for-adults-67-on-warfarin-or-apixaban",
+      "current_keyword": "holiday salad warfarin interaction truth",
+      "optimized_keyword": "heart health medication diet adults 67+",
+      "agent_claimed_score": 90,
+      "actual_score": 95,
+      "passed": true,
+      "issues": [
+        "unnatural_phrasing"
+      ],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 5,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "warm-baths-sglt2-inhibitors-safety",
+      "current_keyword": "health management holiday adults 63+",
+      "optimized_keyword": "diabetes medication safety adults 63+",
+      "agent_claimed_score": 90,
+      "actual_score": 95,
+      "passed": true,
+      "issues": [
+        "unnatural_phrasing"
+      ],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 5,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "protein-first-timing-triglycerides-metabolic-syndrome",
+      "current_keyword": "protein-first timing triglycerides metabolic syndrome",
+      "optimized_keyword": "cholesterol diet timing adults 68+",
+      "agent_claimed_score": 90,
+      "actual_score": 100,
+      "passed": true,
+      "issues": [],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "does-sugar-free-holiday-candy-really-protect-your-teeth-in-adults-70-with-reduced-salivary-flow-and-early-root-caries",
+      "current_keyword": "sugar-free holiday candy dental health seniors",
+      "optimized_keyword": "dental health sugar-free foods adults 70+",
+      "agent_claimed_score": 90,
+      "actual_score": 55,
+      "passed": false,
+      "issues": [
+        "no_real_medical_topic",
+        "unnatural_phrasing"
+      ],
+      "score_breakdown": {
+        "real_medical_topic": 0,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 5,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "5-things-every-caregiver-should-know-before-taking-an-aging-parent-to-a-new-year-s-eve-party",
+      "current_keyword": "health management seniors",
+      "optimized_keyword": "health safety caregivers aging parents",
+      "agent_claimed_score": 90,
+      "actual_score": 55,
+      "passed": false,
+      "issues": [
+        "no_real_medical_topic",
+        "generic_main_topic"
+      ],
+      "score_breakdown": {
+        "real_medical_topic": 0,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 10,
+        "avoids_technical": 10,
+        "avoids_generic": 0,
+        "no_stuffing": 0
+      }
+    },
+    {
+      "slug": "5-foods-that-support-gut-microbiome-resilience-during-multi-day-family-gatherings-for-adults-55-69-with-ibs-d-and-seasonal-stress-induced-flares",
+      "current_keyword": "gut health foods for holiday IBS",
+      "optimized_keyword": "digestive health ibs foods adults 55-69",
+      "agent_claimed_score": 90,
+      "actual_score": 95,
+      "passed": true,
+      "issues": [
+        "unnatural_phrasing"
+      ],
+      "score_breakdown": {
+        "real_medical_topic": 40,
+        "has_audience": 20,
+        "optimal_length": 15,
+        "natural_phrasing": 5,
+        "avoids_technical": 10,
+        "avoids_generic": 5,
+        "no_stuffing": 0
+      }
+    }
+  ]
+}

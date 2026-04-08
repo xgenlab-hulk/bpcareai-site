@@ -68,22 +68,22 @@ Seeing “pulse pressure widening aortic sclerosis” on a report can feel unset
 
 ### FAQ
 
-#### #### What does pulse pressure widening aortic sclerosis mean for someone over 75?
+#### What does pulse pressure widening aortic sclerosis mean for someone over 75?
 
 Pulse pressure widening aortic sclerosis describes a common age-related pattern: stiffer arteries cause higher systolic pressure, while mild aortic valve thickening (sclerosis—not stenosis) contributes to lower diastolic pressure—widening the gap between the two. It’s frequently seen in healthy older adults and rarely requires treatment unless accompanied by symptoms or progression to stenosis.
 
-#### #### Is pulse pressure widening aortic sclerosis the same as aortic stenosis?
+#### Is pulse pressure widening aortic sclerosis the same as aortic stenosis?
 
 No. Aortic valve sclerosis involves mild calcium buildup or thickening *without* significant narrowing or obstruction of blood flow. Aortic stenosis means the valve opening is substantially reduced (typically <1.0 cm²), causing increased strain on the heart. Most people with sclerosis never develop stenosis—studies show only ~1–2% per year progress.
 
-#### #### Can lifestyle changes help with pulse pressure widening aortic sclerosis?
+#### Can lifestyle changes help with pulse pressure widening aortic sclerosis?
 
 Yes—especially regular movement, balanced hydration, moderate sodium intake, and stress-aware breathing. These support arterial flexibility and overall cardiovascular harmony. While they won’t reverse valve calcification, they help your system function more smoothly *despite* age-related changes.
 
-#### #### What’s a normal pulse pressure for adults over 75?
+#### What’s a normal pulse pressure for adults over 75?
 
 A pulse pressure of 40–60 mm Hg is typical in healthy older adults. Widening to 60–75 mm Hg is common and often benign; above 75 mm Hg warrants monitoring; above 100 mm Hg, particularly with symptoms, merits clinical review.
 
-#### #### Does pulse pressure widening aortic sclerosis increase stroke risk?
+#### Does pulse pressure widening aortic sclerosis increase stroke risk?
 
 Widened pulse pressure *is* associated with a modest increase in stroke risk—mainly because it reflects underlying arterial stiffness, which independently contributes to cerebrovascular vulnerability. However, that risk is strongly modified by other factors: managing blood pressure overall, staying physically active, and avoiding smoking reduce risk far more than focusing solely on pulse pressure width.

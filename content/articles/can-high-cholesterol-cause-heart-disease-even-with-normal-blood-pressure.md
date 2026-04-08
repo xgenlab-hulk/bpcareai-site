@@ -68,17 +68,17 @@ In summary, your heart’s health isn’t determined by just one number. High ch
 
 ### FAQ
 
-#### #### Can high cholesterol cause heart disease even if my blood pressure is normal?
+#### Can high cholesterol cause heart disease even if my blood pressure is normal?
 Yes—absolutely. High cholesterol (especially elevated LDL) promotes plaque buildup in arteries regardless of blood pressure levels. Studies confirm that people with optimal BP but high LDL face substantially increased heart disease risk—proving these two factors act independently.
 
-#### #### Is high cholesterol and heart disease with normal blood pressure common in older adults?
+#### Is high cholesterol and heart disease with normal blood pressure common in older adults?
 Yes. Among adults aged 50–69, nearly 40% have elevated LDL cholesterol while maintaining normal BP (<120/80 mm Hg). This combination is especially prevalent in postmenopausal women and individuals with insulin resistance.
 
-#### #### Does normal blood pressure mean I don’t need cholesterol medication?
+#### Does normal blood pressure mean I don’t need cholesterol medication?
 Not necessarily. Guidelines from the American College of Cardiology (ACC) and American Heart Association (AHA) recommend statins based on overall cardiovascular risk—not just cholesterol or BP alone. If your 10-year risk of heart disease is ≥7.5%, treatment may be advised—even with perfect BP.
 
-#### #### What’s the difference between cholesterol and blood pressure in heart disease risk?
+#### What’s the difference between cholesterol and blood pressure in heart disease risk?
 Cholesterol contributes to *structural damage*: LDL deposits form plaques inside arteries. Blood pressure exerts *mechanical stress*: high force strains artery walls and can rupture existing plaques. Both matter—but neither cancels out the other.
 
-#### #### Can lifestyle changes lower cholesterol enough to avoid medication—even with normal blood pressure?
+#### Can lifestyle changes lower cholesterol enough to avoid medication—even with normal blood pressure?
 For many, yes. Dietary shifts, regular movement, and weight management can reduce LDL by 15–30%. However, genetics (e.g., familial hypercholesterolemia) may require medication regardless of lifestyle—so personalized guidance from your provider is key.

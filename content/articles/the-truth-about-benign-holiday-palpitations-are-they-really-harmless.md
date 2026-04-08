@@ -84,17 +84,17 @@ The *benign holiday palpitations truth* isn’t about fear—it’s about clarit
 
 ### FAQ
 
-#### #### Are “benign holiday palpitations truth” really harmless—or just misunderstood?
+#### Are “benign holiday palpitations truth” really harmless—or just misunderstood?
 Not all are harmless. While many short-lived palpitations resolve without issue, research increasingly links alcohol-triggered arrhythmias—even in healthy adults—to higher long-term AFib and stroke risk. The *benign holiday palpitations truth* is that “benign” should describe *confirmed absence of risk*, not just “feels okay for now.”
 
-#### #### Can benign holiday palpitations truth turn into something serious over time?
+#### Can benign holiday palpitations truth turn into something serious over time?
 Yes—especially with repeated exposure. Studies show that adults who experience holiday heart syndrome more than twice a year have a 2.5x higher risk of developing persistent AFib within 5 years, particularly if other risk factors (like hypertension or obesity) are present.
 
-#### #### What’s the difference between normal holiday heart flutters and something needing attention?
+#### What’s the difference between normal holiday heart flutters and something needing attention?
 Normal: Brief (<30 sec), isolated, no associated symptoms (no dizziness, fatigue, or breathlessness), resolves quickly with rest/hydration. Needs attention: Recurrent (≥2x/week), lasts >2 minutes, occurs without obvious trigger, or comes with lightheadedness, chest discomfort, or confusion.
 
-#### #### Does caffeine cause the same kind of palpitations as alcohol during holidays?
+#### Does caffeine cause the same kind of palpitations as alcohol during holidays?
 Caffeine *can* trigger palpitations—but typically through increased adrenaline rather than direct electrical disruption. It’s less likely than alcohol to cause AFib in healthy adults, but combined with alcohol, sleep loss, or stress, it significantly raises susceptibility—especially over age 50.
 
-#### #### How soon after drinking do holiday heart syndrome symptoms usually appear?
+#### How soon after drinking do holiday heart syndrome symptoms usually appear?
 Most commonly within 12–36 hours post-binge—often peaking on the second day (e.g., Sunday morning after Saturday night festivities). This delayed onset is why people sometimes miss the connection between drinking and their symptoms.

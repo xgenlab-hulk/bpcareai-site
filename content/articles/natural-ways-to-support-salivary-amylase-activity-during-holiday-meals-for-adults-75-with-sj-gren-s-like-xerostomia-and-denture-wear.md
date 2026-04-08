@@ -55,17 +55,17 @@ In the spirit of the season, remember: supporting salivary amylase in dry mouth 
 
 ### FAQ
 
-#### #### Can chewing sugar-free gum help support salivary amylase in dry mouth seniors?  
+#### Can chewing sugar-free gum help support salivary amylase in dry mouth seniors?  
 Yes—*if* tolerated. Look for gums sweetened with xylitol (not sorbitol) and chew *gently* for no more than 3–5 minutes before meals. Xylitol supports oral microbiome balance and mild salivation without spiking blood sugar. Avoid excessive chewing, especially with ill-fitting dentures.
 
-#### #### What foods naturally support salivary amylase in dry mouth seniors during holidays?  
+#### What foods naturally support salivary amylase in dry mouth seniors during holidays?  
 Soft-cooked winter squash, ripe bananas, baked apples with cinnamon, and warm barley or farro porridge provide digestible starches *plus* moisture and gentle fiber. Pair them with healthy fats (e.g., olive oil drizzle, avocado mash) to slow gastric emptying and sustain enzyme activity.
 
-#### #### Is it safe to use lemon or vinegar to support salivary amylase in dry mouth seniors?  
+#### Is it safe to use lemon or vinegar to support salivary amylase in dry mouth seniors?  
 Use caution. Undiluted lemon juice or vinegar can erode denture acrylics and irritate atrophic oral mucosa. Instead, try 1–2 drops of lemon *in warm water* or apple cider vinegar *diluted 1:10*—sip slowly before meals only if your mouth shows no signs of redness or soreness.
 
-#### #### How does denture wear affect salivary amylase activity?  
+#### How does denture wear affect salivary amylase activity?  
 Dentures—especially when loose or poorly fitted—reduce tactile feedback from the palate and gums, dampening the neural signals that trigger salivary reflexes. Well-maintained, properly seated dentures restore some of this signaling, making regular dental check-ins an important part of oral-digestive support.
 
-#### #### Are there herbs or supplements proven to support salivary amylase in dry mouth seniors?  
+#### Are there herbs or supplements proven to support salivary amylase in dry mouth seniors?  
 No supplement directly replaces amylase in the mouth, but clinical trials suggest modest benefits from oral magnesium glycinate (200 mg/day) and vitamin B2 (riboflavin, 1.3 mg/day) in improving saliva quality—not quantity—in older adults with xerostomia. Always discuss with your provider before starting.

@@ -66,17 +66,17 @@ The holidays don’t have to be a setback for your health. With awareness and sm
 
 ### FAQ
 
-#### #### Can holiday stress really raise blood sugar in older adults with diabetes?  
+#### Can holiday stress really raise blood sugar in older adults with diabetes?  
 Yes, emotional stress triggers the release of hormones like cortisol and adrenaline, which increase glucose production in the liver. In seniors with type 2 diabetes, this can lead to measurable rises in blood sugar—even without changes in diet.
 
-#### #### How does holiday stress blood sugar seniors differently than younger people?  
+#### How does holiday stress blood sugar seniors differently than younger people?  
 Older adults may have reduced insulin sensitivity, slower metabolism, and less resilience to routine changes. They’re also more likely to have coexisting health conditions, making them more vulnerable to stress-related glucose fluctuations.
 
-#### #### What are some signs that stress is affecting my blood sugar during the holidays?  
+#### What are some signs that stress is affecting my blood sugar during the holidays?  
 Look for unexplained spikes in glucose readings, increased irritability, trouble sleeping, fatigue, or frequent urination. Keeping a log of your levels and daily activities can help identify stress as a contributing factor.
 
-#### #### How can seniors manage healthy holiday eating with diabetes?  
+#### How can seniors manage healthy holiday eating with diabetes?  
 Focus on portion control, balanced meals with protein and fiber, and timing. You don’t need to avoid treats entirely—just enjoy them mindfully and pair them with physical activity.
 
-#### #### Should I check my blood sugar more often during the holidays?  
+#### Should I check my blood sugar more often during the holidays?  
 Yes. Increased monitoring—especially during and after social events or stressful situations—helps you catch trends early and adjust your habits or medication as needed, in consultation with your healthcare provider.

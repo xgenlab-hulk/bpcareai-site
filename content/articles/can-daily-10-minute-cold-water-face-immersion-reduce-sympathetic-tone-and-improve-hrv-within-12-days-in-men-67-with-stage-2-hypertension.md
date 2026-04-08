@@ -89,22 +89,22 @@ Improving autonomic balance is rarely about dramatic shifts—it’s about stead
 
 ### FAQ
 
-#### #### Does cold face immersion and heart rate variability help lower blood pressure in older adults?
+#### Does cold face immersion and heart rate variability help lower blood pressure in older adults?
 
 Yes—emerging evidence suggests it can contribute to modest but clinically relevant reductions. In the 12-day pilot trial, men 67+ with stage 2 hypertension saw an average 4.3-mm Hg drop in 24-hour systolic BP after daily cold face immersion. These changes appear linked to improved autonomic balance, not direct vasodilation.
 
-#### #### How long does it take for cold face immersion and heart rate variability to show effects?
+#### How long does it take for cold face immersion and heart rate variability to show effects?
 
 In controlled settings, measurable HRV improvements (e.g., +20% in RMSSD) have been observed within 12 days of consistent 10-minute daily sessions. Sustained benefits likely require ongoing practice—but early signals suggest neuroplasticity in autonomic pathways remains accessible well into later life.
 
-#### #### Is cold face immersion safe for people with heart disease?
+#### Is cold face immersion safe for people with heart disease?
 
 Mostly yes—but caution is essential. It is generally safe for stable, treated heart disease (e.g., controlled coronary artery disease). However, avoid it if you have uncontrolled arrhythmias, recent heart attack, or carotid sinus sensitivity. Always discuss with your cardiologist first.
 
-#### #### What’s the best water temperature for cold face immersion?
+#### What’s the best water temperature for cold face immersion?
 
 Research used 12°C (54°F), roughly the temperature of refrigerated water. Avoid ice water (<5°C), which may trigger excessive vagal stimulation or discomfort. A cool, consistent temperature is safer and more sustainable than extreme cold.
 
-#### #### Can I do cold face immersion if I’m on blood pressure medication?
+#### Can I do cold face immersion if I’m on blood pressure medication?
 
 Yes—in fact, many participants in the pilot trial were on antihypertensive regimens (ACE inhibitors, calcium channel blockers, etc.). Cold face immersion is considered complementary, not alternative. Never discontinue or adjust medications without medical guidance.

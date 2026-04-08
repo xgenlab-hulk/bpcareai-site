@@ -63,22 +63,22 @@ Holiday traditions bring joy, connection, and meaning—and managing diabetes do
 
 ### FAQ
 
-#### #### Why do I get high blood sugar after holiday meals even though my fasting levels are fine?
+#### Why do I get high blood sugar after holiday meals even though my fasting levels are fine?
 
 Postprandial glucose reflects how your body handles food *in the moment*—not your baseline. Aging, longer diabetes duration, and holiday-specific habits (like delayed insulin or high-fat meals) can all delay glucose clearance, leading to spikes even with excellent fasting control.
 
-#### #### What are the most common hidden causes of holiday postprandial glucose spikes seniors don’t notice?
+#### What are the most common hidden causes of holiday postprandial glucose spikes seniors don’t notice?
 
 Top culprits include artificial sweeteners like maltitol (in “sugar-free” chocolates), skipping light activity after meals, delayed insulin dosing during travel, alcohol with meals (especially eggnog or mulled wine), and stress-related cortisol increases—which raise glucose independently of food.
 
-#### #### How often should seniors check glucose during the holidays to catch postprandial spikes?
+#### How often should seniors check glucose during the holidays to catch postprandial spikes?
 
 Check once daily—ideally 90–120 minutes after your largest meal—for 5–7 days. If readings consistently exceed 160 mg/dL, add a second check at 2 hours to see if glucose is still rising. Consistency matters more than frequency.
 
-#### #### Can holiday postprandial glucose spikes seniors experience lead to long-term complications?
+#### Can holiday postprandial glucose spikes seniors experience lead to long-term complications?
 
 Occasional spikes won’t cause harm—but repeated, unaddressed elevations over weeks may contribute to higher A1C and increased cardiovascular risk over time. Fortunately, early recognition makes them highly modifiable.
 
-#### #### Does cold weather affect blood sugar during the holidays?
+#### Does cold weather affect blood sugar during the holidays?
 
 Yes—cold can reduce peripheral circulation and slightly increase insulin resistance. Indoor inactivity, richer foods, and holiday stress compound this effect. Bundling up and staying gently active helps offset it.

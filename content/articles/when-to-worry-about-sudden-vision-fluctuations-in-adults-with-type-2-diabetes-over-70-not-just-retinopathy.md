@@ -96,17 +96,17 @@ Vision changes after 70—especially with diabetes—can feel alarming, but many
 
 ### FAQ
 
-#### #### What causes sudden blurry vision in older adults with diabetes—other than retinopathy?
+#### What causes sudden blurry vision in older adults with diabetes—other than retinopathy?
 Sudden blurry vision in older adults with diabetes is frequently due to osmotic lens swelling from rapid blood sugar shifts, posterior vitreous detachment (PVD), medication-induced pupil dilation (e.g., from bladder or nerve pain meds), or even transient low blood pressure affecting optic nerve blood flow. Retinopathy typically causes *gradual*, not sudden, vision loss.
 
-#### #### Are sudden vision changes in elderly diabetes patients always serious?
+#### Are sudden vision changes in elderly diabetes patients always serious?
 Not always—but they always deserve attention. Many causes (like mild osmotic shifts or early PVD) are benign and reversible. However, some—such as retinal tear, angle-closure glaucoma, or ischemic optic neuropathy—are time-sensitive. Because symptoms overlap, prompt evaluation helps distinguish urgency from reassurance.
 
-#### #### Can high blood sugar cause immediate vision changes?
+#### Can high blood sugar cause immediate vision changes?
 Yes—typically within hours. Glucose levels above 200–250 mg/dL increase lens osmolarity, drawing in water and changing its shape. This leads to temporary nearsightedness or inconsistent focus, often improving as glucose normalizes over several days.
 
-#### #### How soon after a blood sugar drop can vision improve?
+#### How soon after a blood sugar drop can vision improve?
 With sustained normoglycemia (e.g., fasting glucose 90–130 mg/dL for 3–5 days), lens hydration usually stabilizes and vision clarity returns. However, avoid aggressive correction—drops faster than 50 mg/dL per day may prolong fluctuations.
 
-#### #### Is posterior vitreous detachment dangerous for people with diabetes?
+#### Is posterior vitreous detachment dangerous for people with diabetes?
 PVD itself isn’t dangerous—it’s a normal age-related change. But in diabetic eyes, especially those with traction or prior retinal treatment, PVD carries higher risk of retinal tear or detachment. New floaters or flashes warrant evaluation within 24–48 hours to rule out complications.

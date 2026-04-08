@@ -52,22 +52,22 @@ Supporting your vagus nerve isn’t about perfection—it’s about showing up f
 
 ### FAQ
 
-#### #### Can natural vagal tone support holiday stress help with high blood pressure?
+#### Can natural vagal tone support holiday stress help with high blood pressure?
 
 Yes—studies show regular vagal-stimulating practices like paced breathing and cold exposure can modestly lower systolic BP (by ~3–7 mm Hg on average) over time, especially when paired with healthy sleep and movement. It’s complementary—not a replacement—for medical care.
 
-#### #### What’s the best time of day to practice natural vagal tone support during holiday stress?
+#### What’s the best time of day to practice natural vagal tone support during holiday stress?
 
 Mornings (to set your nervous system tone) and evenings (to unwind after social events or travel) are ideal. Even two 3-minute sessions daily yield measurable benefits in HRV within two weeks.
 
-#### #### How long does it take to notice changes with natural vagal tone support holiday stress?
+#### How long does it take to notice changes with natural vagal tone support holiday stress?
 
 Many people report feeling calmer or sleeping more deeply within 3–5 days. Objective improvements in HRV or resting heart rate often appear in 2–4 weeks with consistent practice.
 
-#### #### Does humming really count as natural vagal tone support?
+#### Does humming really count as natural vagal tone support?
 
 Absolutely. Vocal toning activates the dorsal motor nucleus of the vagus—the brainstem region that sends calming signals to your heart and gut. Research confirms even solo humming increases vagal output measurably.
 
-#### #### Is cold water on the face safe for people with heart conditions?
+#### Is cold water on the face safe for people with heart conditions?
 
 For most, yes—use cool (not ice-cold) water and limit to 15–20 seconds. If you have known arrhythmias like sick sinus syndrome or recent heart surgery, check with your cardiologist first.

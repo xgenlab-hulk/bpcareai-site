@@ -3,7 +3,7 @@ title: >-
   Fasting vs Postprandial Testing on GLP-1 Agonists After Age 72
 slug: when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists
 description: >-
-  GLP-1s delay gastric emptying 30-50%, pushing peak glucose to 120-180 min post-meal. Learn the best testing windows for adults 72+ on semaglutide or tirzepatide
+  GLP-1s delay gastric emptying 30-50%, pushing peak glucose to 120-180 min post-meal.
 date: '2026-01-08'
 updated: '2026-03-29'
 primaryKeyword: postprandial glucose testing GLP-1 agonists over 72
@@ -61,17 +61,17 @@ Managing diabetes well into your 70s and beyond is absolutely achievable—and e
 
 ### FAQ
 
-#### #### At what time should I check blood sugar after eating if I’m over 72 and on semaglutide?  
+#### At what time should I check blood sugar after eating if I’m over 72 and on semaglutide?  
 For most adults over 72 on semaglutide, checking at **120 and 180 minutes** after the first bite gives a clearer picture than the standard 2-hour test alone—especially if you experience dizziness, fatigue, or nausea several hours after meals.
 
-#### #### Is postprandial testing timing for glp1 users over 72 different from younger adults?  
+#### Is postprandial testing timing for glp1 users over 72 different from younger adults?  
 Yes—due to slower gastric emptying and altered drug metabolism, peak glucose often occurs 30–90 minutes later in older adults. Standard 2-hour testing may miss both peaks and delayed lows, making extended windows (up to 180 minutes) more informative.
 
-#### #### Can tirzepatide change when my blood sugar peaks after meals?  
+#### Can tirzepatide change when my blood sugar peaks after meals?  
 Absolutely. Tirzepatide delays gastric emptying more than semaglutide alone, and its glucose-lowering effect lasts longer—so many patients see peak glucose at 150–180 minutes and a secondary dip near 3–4 hours. This makes rigid 2-hour testing insufficient.
 
-#### #### Do I still need fasting glucose tests if I switch to postprandial-focused monitoring?  
+#### Do I still need fasting glucose tests if I switch to postprandial-focused monitoring?  
 Yes—fasting glucose remains valuable for assessing baseline insulin resistance and overnight stability. But it should complement, not replace, postprandial assessment when using GLP-1 agonists.
 
-#### #### What symptoms suggest my postprandial timing is off?  
+#### What symptoms suggest my postprandial timing is off?  
 Recurrent lightheadedness, sweating, or confusion 2–4 hours after meals—or unexplained fatigue or falls in the mid-to-late afternoon—may signal delayed glucose excursions or hypoglycemia missed by standard timing.

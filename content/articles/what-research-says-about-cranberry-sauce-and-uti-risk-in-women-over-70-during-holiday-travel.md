@@ -53,17 +53,17 @@ In short, enjoying cranberry sauce during the holidays is perfectly fine—and e
 
 ### FAQ
 
-#### #### Does cranberry sauce really help prevent UTIs in older women?
+#### Does cranberry sauce really help prevent UTIs in older women?
 Current evidence suggests that while cranberry products *may* offer modest support for some individuals, canned cranberry sauce has very low bioavailable proanthocyanidins—and cannot replace hydration or medical treatment. For women over 70, focusing on consistent fluid intake remains the most proven strategy for **cranberry sauce uti prevention seniors**.
 
-#### #### Is homemade cranberry sauce better for UTI prevention than store-bought?
+#### Is homemade cranberry sauce better for UTI prevention than store-bought?
 Yes—homemade versions made with whole, unsweetened cranberries and gentle heating retain more active compounds. Store-bought jellied sauces typically contain <5% cranberry and high amounts of sugar and water, significantly reducing PAC concentration and bioavailability.
 
-#### #### Can cranberry sauce interfere with medications commonly taken by seniors?
+#### Can cranberry sauce interfere with medications commonly taken by seniors?
 Cranberry products are generally safe, but high doses (e.g., concentrated extracts or large volumes of juice) may rarely interact with warfarin or certain chemotherapy drugs. Always check with your pharmacist or doctor if you’re taking anticoagulants or other long-term medications.
 
-#### #### Does holiday travel increase UTI risk for women over 70—and why?
+#### Does holiday travel increase UTI risk for women over 70—and why?
 Yes. Travel-related factors—including dehydration, delayed bathroom breaks, changes in routine, and sitting for extended periods—can all contribute to urinary stasis and bacterial growth. Combined with age-related changes in bladder function and immune response, this raises susceptibility.
 
-#### #### What’s the best way to include cranberry sauce uti prevention seniors into holiday meals?
+#### What’s the best way to include cranberry sauce uti prevention seniors into holiday meals?
 Think of it as a flavorful addition—not a remedy. Enjoy a small portion of your favorite cranberry sauce alongside plenty of water, fiber-rich vegetables, and lean protein. Pair it with habits that truly protect urinary health: staying hydrated, moving regularly, and listening to your body’s cues.

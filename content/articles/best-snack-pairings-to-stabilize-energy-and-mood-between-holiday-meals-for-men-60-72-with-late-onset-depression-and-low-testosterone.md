@@ -77,22 +77,22 @@ The goal isn’t perfection—it’s consistency, compassion, and small, science
 
 ### FAQ
 
-#### #### What are the best snack pairings for mood stability seniors during holiday gatherings?
+#### What are the best snack pairings for mood stability seniors during holiday gatherings?
 
 The most effective options combine protein, healthy fat, and low-glycemic fiber—like cottage cheese with sliced peaches and pumpkin seeds, or smoked salmon on rye crispbread with avocado. These combinations support steady glucose, sustain dopamine/serotonin synthesis, and reduce inflammatory load—critical for men with late-onset depression and low testosterone.
 
-#### #### Can snack pairings for mood stability seniors help with low testosterone symptoms?
+#### Can snack pairings for mood stability seniors help with low testosterone symptoms?
 
 Yes—indirectly but significantly. Balanced snacks help maintain insulin sensitivity, reduce oxidative stress, and support cholesterol metabolism—all necessary for optimal testosterone production and transport. For example, zinc-rich pumpkin seeds paired with vitamin C–rich bell pepper strips enhances zinc bioavailability, a cofactor in testosterone synthesis.
 
-#### #### Are there snack pairings for mood stability seniors that also support healthy blood pressure?
+#### Are there snack pairings for mood stability seniors that also support healthy blood pressure?
 
 Absolutely. Focus on potassium- and magnesium-rich foods paired with lean protein: e.g., banana with 1 tbsp natural almond butter, or baked beet chips with hummus. These help counterbalance sodium effects, improve endothelial function, and stabilize postprandial arterial pressure—especially important given that nearly 70% of adults over 65 have hypertension.
 
-#### #### How do I know if my snacks are helping my mood—or making it worse?
+#### How do I know if my snacks are helping my mood—or making it worse?
 
 Track energy, mood, and physical cues (like clarity, irritability, or bloating) before and 60–90 minutes after each snack for five days. If you consistently feel sluggish, foggy, or emotionally flat afterward, the snack likely lacks sufficient fat/protein or contains hidden sugars or excess sodium. A sustained improvement in afternoon alertness is often the first sign a pairing is working.
 
-#### #### Do holiday stress and disrupted sleep affect how well snack pairings for mood stability seniors work?
+#### Do holiday stress and disrupted sleep affect how well snack pairings for mood stability seniors work?
 
 Yes. Poor sleep reduces leptin and increases ghrelin—altering hunger signaling—and elevates cortisol, which interferes with serotonin receptor sensitivity. Stress also depletes B vitamins and magnesium, needed for neurotransmitter synthesis. So while smart snacks help, prioritize consistent bedtime routines and gentle movement—they’re foundational partners in mood stability.

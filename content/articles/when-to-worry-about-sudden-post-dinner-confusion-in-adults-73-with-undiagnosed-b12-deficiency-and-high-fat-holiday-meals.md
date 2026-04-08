@@ -59,17 +59,17 @@ Sudden post-dinner confusion in older adults can feel unsettling, but it’s rar
 
 ### FAQ
 
-#### #### What causes sudden confusion after dinner in seniors with low B12?
+#### What causes sudden confusion after dinner in seniors with low B12?
 It’s likely a combo of fat-triggered cholecystokinin release slowing cerebral B12 delivery *plus* age-related declines in gut absorption and blood-brain barrier efficiency. High-fat meals act like a “stress test” for marginal B12 status.
 
-#### #### Is post-dinner confusion b12 deficiency seniors reversible?
+#### Is post-dinner confusion b12 deficiency seniors reversible?
 Yes—especially when identified early. Oral or sublingual B12 (1,000 mcg daily) often restores function within 2–6 weeks. Intramuscular injections may be used if absorption is severely impaired.
 
-#### #### Can post-dinner confusion b12 deficiency seniors happen even with “normal” blood test results?
+#### Can post-dinner confusion b12 deficiency seniors happen even with “normal” blood test results?
 Absolutely. Standard serum B12 tests miss up to 30% of functional deficiencies. Elevated MMA (>0.4 µmol/L) or homocysteine (>13 µmol/L) are more sensitive markers—and should be checked if suspicion is high.
 
-#### #### Does high blood pressure make post-dinner confusion worse in seniors?
+#### Does high blood pressure make post-dinner confusion worse in seniors?
 Not directly—but hypertension accelerates microvascular aging in the brain, which compounds the impact of reduced B12 delivery. Keeping BP below 130/80 mm Hg supports healthier cerebral perfusion.
 
-#### #### Are there foods seniors should avoid during holidays to prevent confusion?
+#### Are there foods seniors should avoid during holidays to prevent confusion?
 Not “avoid”—but moderate portions of very high-fat items (pan gravies, cream-based sauces, fried appetizers) may reduce post-meal fluctuations. Focus on flavor-rich, lower-sat-fat alternatives like herb-roasted veggies or lentil stuffing.

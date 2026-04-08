@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "created_date": "2026-03-22",
+    "batch_id": "batch-009",
+    "total_redirects": 49,
+    "batches_covered": [
+      "batch-009"
+    ],
+    "articles_range": "246-295"
+  },
+  "redirects": [
+    {
+      "source": "/articles/foods-for-cardiac-fibroblast-quiescence",
+      "destination": "/articles/heart-scarring-foods-seniors-70",
+      "permanent": true
+    },
+    {
+      "source": "/articles/does-cranberry-sauce-really-help-uti-prevention-in-women-over-65-separating-proanthocyanidin-efficacy-from-sugar-driven-biofilm-risk",
+      "destination": "/articles/cranberry-sauce-uti-prevention-65",
+      "permanent": true
+    },
+    {
+      "source": "/articles/diabetes-management-winter-power-outage",
+      "destination": "/articles/diabetes-power-outage-insulin-65",
+      "permanent": true
+    },
+    {
+      "source": "/articles/blood-pressure-on-long-haul-flights-seniors",
+      "destination": "/articles/blood-pressure-long-flights-68",
+      "permanent": true
+    },
+    {
+      "source": "/articles/best-walking-surfaces-diabetic-foot-ulcers",
+      "destination": "/articles/walking-surfaces-diabetic-foot-69",
+      "permanent": true
+    },
+    {
+      "source": "/articles/best-protein-sources-for-holiday-meals-if-you-re-taking-warfarin-and-have-stage-2-ckd-balancing-inr-stability-and-phosphorus-control-in-adults-70",
+      "destination": "/articles/protein-warfarin-kidney-disease",
+      "permanent": true
+    },
+    {
+      "source": "/articles/a-vs-b-daily-10-minute-resistance-band-workouts-vs-brisk-walking-for-improving-coronary-flow-reserve-in-adults-63-with-nonobstructive-cad",
+      "destination": "/articles/resistance-bands-vs-walking-heart",
+      "permanent": true
+    },
+    {
+      "source": "/articles/a-vs-b-daily-10-minute-resistance-band-routine-vs-nordic-walking-for-improving-stroke-volume-index-in-adults-73-with-preserved-ejection-fraction",
+      "destination": "/articles/resistance-bands-nordic-walking",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-things-everyone-over-70-should-know-about-coronary-artery-calcium-cac-scoring-especially-if-you-re-taking-statins-but-have-zero-symptoms",
+      "destination": "/articles/calcium-scoring-heart-test-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-foods-that-support-mitochondrial-membrane-integrity-during-high-fat-holiday-meals-for-adults-65-with-statin-associated-myopathy",
+      "destination": "/articles/foods-muscle-pain-statins-holidays",
+      "permanent": true
+    },
+    {
+      "source": "/articles/why-eating-standing-up-at-holiday-buffets-raises-aspiration-risk-in-adults-80-with-subclinical-dysphagia",
+      "destination": "/articles/standing-eating-choking-seniors-80",
+      "permanent": true
+    },
+    {
+      "source": "/articles/when-to-worry-about-sudden-drowsiness-after-christmas-dinner-linking-postprandial-hypoglycemia-autonomic-blunting-and-late-night-falls-in-adults-75",
+      "destination": "/articles/drowsiness-after-meals-seniors-75",
+      "permanent": true
+    },
+    {
+      "source": "/articles/what-are-the-earliest-ecg-clues-of-right-ventricular-strain-in-adults-58-69-with-obesity-mild-sleep-apnea-and-normal-bnp",
+      "destination": "/articles/heart-strain-sleep-apnea-58-69",
+      "permanent": true
+    },
+    {
+      "source": "/articles/troponin-after-fall-in-elderly",
+      "destination": "/articles/heart-test-after-fall-elderly-82",
+      "permanent": true
+    },
+    {
+      "source": "/articles/traffic-pollution-carotid-thickness-progression",
+      "destination": "/articles/traffic-pollution-heart-health-66",
+      "permanent": true
+    },
+    {
+      "source": "/articles/best-protein-sources-for-holiday-meals-if-you-re-taking-warfarin-and-have-stage-2-ckd-balancing-inr-stability-and-phosphorus-control-in-adults-70",
+      "destination": "/articles/safe-protein-warfarin-kidney-disease",
+      "permanent": true
+    },
+    {
+      "source": "/articles/a-vs-b-daily-10-minute-resistance-band-workouts-vs-brisk-walking-for-improving-coronary-flow-reserve-in-adults-63-with-nonobstructive-cad",
+      "destination": "/articles/resistance-bands-vs-walking-heart",
+      "permanent": true
+    },
+    {
+      "source": "/articles/a-vs-b-daily-10-minute-resistance-band-routine-vs-nordic-walking-for-improving-stroke-volume-index-in-adults-73-with-preserved-ejection-fraction",
+      "destination": "/articles/resistance-bands-nordic-walking-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-things-everyone-over-70-should-know-about-coronary-artery-calcium-cac-scoring-especially-if-you-re-taking-statins-but-have-zero-symptoms",
+      "destination": "/articles/heart-calcium-scan-over-70-statins",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-foods-that-support-mitochondrial-membrane-integrity-during-high-fat-holiday-meals-for-adults-65-with-statin-associated-myopathy",
+      "destination": "/articles/foods-statin-muscle-pain-holidays",
+      "permanent": true
+    },
+    {
+      "source": "/articles/does-cranberry-sauce-really-help-uti-prevention-in-women-over-65-separating-proanthocyanidin-efficacy-from-sugar-driven-biofilm-risk",
+      "destination": "/articles/cranberry-uti-prevention-women-65",
+      "permanent": true
+    },
+    {
+      "source": "/articles/diabetes-management-winter-power-outage",
+      "destination": "/articles/diabetes-power-outage-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/best-walking-surfaces-diabetic-foot-ulcers",
+      "destination": "/articles/walking-surfaces-diabetic-feet",
+      "permanent": true
+    },
+    {
+      "source": "/articles/best-protein-sources-for-holiday-meals-if-you-re-taking-warfarin-and-have-stage-2-ckd-balancing-inr-stability-and-phosphorus-control-in-adults-70",
+      "destination": "/articles/protein-warfarin-kidney-disease",
+      "permanent": true
+    },
+    {
+      "source": "/articles/best-protein-sources-for-holiday-meals-if-you-re-taking-warfarin-and-have-stage-2-ckd-balancing-inr-stability-and-phosphorus-control-in-adults-70",
+      "destination": "/articles/protein-kidney-disease-warfarin",
+      "permanent": true
+    },
+    {
+      "source": "/articles/a-vs-b-daily-10-minute-resistance-band-workouts-vs-brisk-walking-for-improving-coronary-flow-reserve-in-adults-63-with-nonobstructive-cad",
+      "destination": "/articles/resistance-bands-vs-walking-heart",
+      "permanent": true
+    },
+    {
+      "source": "/articles/a-vs-b-daily-10-minute-resistance-band-routine-vs-nordic-walking-for-improving-stroke-volume-index-in-adults-73-with-preserved-ejection-fraction",
+      "destination": "/articles/resistance-bands-nordic-walking-73",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-things-everyone-over-70-should-know-about-coronary-artery-calcium-cac-scoring-especially-if-you-re-taking-statins-but-have-zero-symptoms",
+      "destination": "/articles/heart-calcium-scan-70-statins",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-foods-that-support-mitochondrial-membrane-integrity-during-high-fat-holiday-meals-for-adults-65-with-statin-associated-myopathy",
+      "destination": "/articles/foods-statin-muscle-pain-65",
+      "permanent": true
+    },
+    {
+      "source": "/articles/does-daily-10-minute-cold-water-face-immersion-improve-first-phase-insulin-secretion-in-adults-58-65-with-prediabetes-and-normal-weight",
+      "destination": "/articles/cold-water-face-therapy-blood-sugar",
+      "permanent": true
+    },
+    {
+      "source": "/articles/dental-inflammation-coronary-microvascular-flow",
+      "destination": "/articles/gum-disease-heart-health-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/can-you-safely-eat-leftover-gravy-on-day-3-if-you-have-stage-3-ckd-a-food-safety-phosphorus-stability-guide-for-adults-74",
+      "destination": "/articles/leftover-gravy-kidney-disease-safety",
+      "permanent": true
+    },
+    {
+      "source": "/articles/arsenic-exposure-and-vascular-calcification",
+      "destination": "/articles/well-water-arsenic-heart-health-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/a-vs-b-traditional-mashed-potatoes-vs-cauliflower-parsnip-blend-for-satiety-glycemic-response-in-adults-61-73-with-mild-ckd-and-hypertension",
+      "destination": "/articles/mashed-potatoes-kidney-disease-sugar",
+      "permanent": true
+    },
+    {
+      "source": "/articles/best-protein-sources-for-holiday-meals-if-you-re-taking-warfarin-and-have-stage-2-ckd-balancing-inr-stability-and-phosphorus-control-in-adults-70",
+      "destination": "/articles/safe-holiday-protein-warfarin-kidney",
+      "permanent": true
+    },
+    {
+      "source": "/articles/a-vs-b-daily-10-minute-resistance-band-workouts-vs-brisk-walking-for-improving-coronary-flow-reserve-in-adults-63-with-nonobstructive-cad",
+      "destination": "/articles/resistance-bands-walking-heart-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/a-vs-b-daily-10-minute-resistance-band-routine-vs-nordic-walking-for-improving-stroke-volume-index-in-adults-73-with-preserved-ejection-fraction",
+      "destination": "/articles/resistance-bands-nordic-walking-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-things-everyone-over-70-should-know-about-coronary-artery-calcium-cac-scoring-especially-if-you-re-taking-statins-but-have-zero-symptoms",
+      "destination": "/articles/calcium-score-testing-over-70-statins",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-foods-that-support-mitochondrial-membrane-integrity-during-high-fat-holiday-meals-for-adults-65-with-statin-associated-myopathy",
+      "destination": "/articles/foods-reduce-statin-muscle-pain-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/does-daily-10-minute-cold-water-face-immersion-improve-first-phase-insulin-secretion-in-adults-58-65-with-prediabetes-and-normal-weight",
+      "destination": "/articles/cold-water-therapy-blood-sugar",
+      "permanent": true
+    },
+    {
+      "source": "/articles/dental-inflammation-coronary-microvascular-flow",
+      "destination": "/articles/gum-disease-heart-blood-flow",
+      "permanent": true
+    },
+    {
+      "source": "/articles/can-you-safely-eat-leftover-gravy-on-day-3-if-you-have-stage-3-ckd-a-food-safety-phosphorus-stability-guide-for-adults-74",
+      "destination": "/articles/leftover-gravy-kidney-safety",
+      "permanent": true
+    },
+    {
+      "source": "/articles/arsenic-exposure-and-vascular-calcification",
+      "destination": "/articles/well-water-arsenic-heart-risk",
+      "permanent": true
+    },
+    {
+      "source": "/articles/a-vs-b-traditional-mashed-potatoes-vs-cauliflower-parsnip-blend-for-satiety-glycemic-response-in-adults-61-73-with-mild-ckd-and-hypertension",
+      "destination": "/articles/mashed-potatoes-kidney-disease",
+      "permanent": true
+    },
+    {
+      "source": "/articles/best-protein-sources-for-holiday-meals-if-you-re-taking-warfarin-and-have-stage-2-ckd-balancing-inr-stability-and-phosphorus-control-in-adults-70",
+      "destination": "/articles/protein-choices-warfarin-kidney",
+      "permanent": true
+    },
+    {
+      "source": "/articles/a-vs-b-daily-10-minute-resistance-band-workouts-vs-brisk-walking-for-improving-coronary-flow-reserve-in-adults-63-with-nonobstructive-cad",
+      "destination": "/articles/resistance-bands-vs-walking-heart",
+      "permanent": true
+    },
+    {
+      "source": "/articles/a-vs-b-daily-10-minute-resistance-band-routine-vs-nordic-walking-for-improving-stroke-volume-index-in-adults-73-with-preserved-ejection-fraction",
+      "destination": "/articles/resistance-bands-vs-nordic-walking",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-things-everyone-over-70-should-know-about-coronary-artery-calcium-cac-scoring-especially-if-you-re-taking-statins-but-have-zero-symptoms",
+      "destination": "/articles/calcium-scoring-heart-test-age-70",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-foods-that-support-mitochondrial-membrane-integrity-during-high-fat-holiday-meals-for-adults-65-with-statin-associated-myopathy",
+      "destination": "/articles/foods-statin-muscle-pain-holidays",
+      "permanent": true
+    }
+  ],
+  "instructions": {
+    "implementation": "Add these redirects to next.config.js in the async redirects() function",
+    "format": "source: old slug path, destination: new slug path, permanent: true (301 redirect)",
+    "validation": "Test each redirect after deployment to ensure proper routing"
+  }
+}

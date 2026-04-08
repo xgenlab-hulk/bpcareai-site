@@ -66,22 +66,22 @@ Holiday traditions are meaningful—and so is honoring your health with kindness
 
 ### FAQ
 
-#### #### Does eggnog fasting glucose prediabetes mean I’ll definitely get diabetes?
+#### Does eggnog fasting glucose prediabetes mean I’ll definitely get diabetes?
 
 Not necessarily—but repeated overnight glucose spikes *do* accelerate insulin resistance. Studies suggest consistent fasting values >125 mg/dL increase progression risk by 3–5x compared to stable prediabetic ranges.
 
-#### #### Can I still have eggnog if I have prediabetes and high blood pressure?
+#### Can I still have eggnog if I have prediabetes and high blood pressure?
 
 Yes—with modifications. Focus on low-sodium, no-added-sugar versions and avoid pairing it with salty snacks (which can elevate BP). Monitor both glucose *and* BP the next morning—some people see a 5–10 mm Hg systolic rise after heavy, high-fat evening drinks.
 
-#### #### How does eggnog fasting glucose prediabetes compare to other holiday drinks like mulled wine or spiked cider?
+#### How does eggnog fasting glucose prediabetes compare to other holiday drinks like mulled wine or spiked cider?
 
 Eggnog tends to be worse for overnight stability due to its high fat + sugar + alcohol trifecta. Mulled wine (without added sugar) has less impact on fasting glucose—but still requires timing and portion control.
 
-#### #### Is there a “safe” amount of eggnog for men over 65 with prediabetes?
+#### Is there a “safe” amount of eggnog for men over 65 with prediabetes?
 
 Sensor data suggests ≤½ cup of modified eggnog (under 10 g added sugar, <5 g fat) consumed before 7 p.m. causes minimal disruption in most men—but individual responses vary. When in doubt, test before and after.
 
-#### #### Does drinking eggnog affect my A1c over time?
+#### Does drinking eggnog affect my A1c over time?
 
 Yes—if consumed regularly during holidays. Just two servings per week over six weeks can raise A1c by 0.1–0.2%, especially in those already near the upper limit of prediabetes.

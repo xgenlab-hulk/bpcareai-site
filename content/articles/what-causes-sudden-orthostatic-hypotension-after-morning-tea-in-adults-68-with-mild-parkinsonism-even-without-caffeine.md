@@ -86,17 +86,17 @@ Orthostatic hypotension after tea seniors is more common—and more manageable�
 
 ### FAQ
 
-#### #### Why does decaf tea cause orthostatic hypotension in older adults?
+#### Why does decaf tea cause orthostatic hypotension in older adults?
 Decaf tea still contains bioactive compounds like EGCG, theanine, and polyphenols that promote mild vasodilation. In seniors with age-related or parkinsonism-associated baroreflex blunting, even these gentle effects can tip the balance—especially when combined with delayed gastric emptying and postural stress.
 
-#### #### Is orthostatic hypotension after tea seniors a sign of Parkinson’s disease?
+#### Is orthostatic hypotension after tea seniors a sign of Parkinson’s disease?
 Not necessarily—but it *can* be an early functional sign of autonomic involvement, which often precedes motor diagnosis by several years. About 15–20% of people with isolated orthostatic hypotension go on to develop Parkinson’s or related synucleinopathies over 10 years. It warrants discussion with a neurologist, not alarm.
 
-#### #### What’s the safest tea to drink if I have orthostatic hypotension after tea seniors?
+#### What’s the safest tea to drink if I have orthostatic hypotension after tea seniors?
 Warm, low-tannin infusions like fennel or licorice root (in moderation) tend to be better tolerated than green or black teas. However, individual response varies—so the safest approach is less about the tea itself and more about *how and when* you drink it: sip slowly, sit first, stand later.
 
-#### #### Can orthostatic hypotension after tea seniors be reversed?
+#### Can orthostatic hypotension after tea seniors be reversed?
 While underlying autonomic changes aren’t fully reversible, symptoms are highly responsive to behavioral strategies, hydration optimization, and sometimes targeted therapies like midodrine (under specialist care). Many people report marked improvement within 4–6 weeks of consistent self-management.
 
-#### #### Does drinking tea on an empty stomach make orthostatic hypotension worse?
+#### Does drinking tea on an empty stomach make orthostatic hypotension worse?
 Yes—fasting can reduce baseline plasma volume and amplify splanchnic pooling. Having even a small amount of food (e.g., a cracker or banana) before tea helps buffer the hemodynamic response and supports more stable gastric motility.

@@ -62,22 +62,22 @@ In summary, while diabetes remains central to neuropathic risk, environmental fa
 
 ### FAQ
 
-#### #### Can low indoor humidity cause permanent corneal nerve damage in people with diabetes?
+#### Can low indoor humidity cause permanent corneal nerve damage in people with diabetes?
 
 Yes—chronic exposure to indoor humidity below 30% increases osmotic stress and inflammation on the ocular surface, which may accelerate structural loss of corneal nerves observed via confocal microscopy. This is especially relevant for adults with long-standing diabetes and pre-existing neuropathy.
 
-#### #### What indoor humidity level is safe to prevent corneal nerve damage?
+#### What indoor humidity level is safe to prevent corneal nerve damage?
 
 For adults with diabetes aged 77+, maintaining indoor humidity between 40–45% significantly reduces tear evaporation and supports corneal nerve homeostasis. Levels under 30% are associated with measurable increases in tear osmolarity and CCM-detected nerve abnormalities.
 
-#### #### Does indoor humidity corneal nerve damage affect blood sugar control?
+#### Does indoor humidity corneal nerve damage affect blood sugar control?
 
 No—indoor humidity corneal nerve damage does not directly alter glucose metabolism or HbA1c. However, untreated ocular surface disease may reduce quality of life and medication adherence, indirectly influencing overall diabetes self-management.
 
-#### #### Are humidifiers helpful for preventing corneal nerve damage in older adults?
+#### Are humidifiers helpful for preventing corneal nerve damage in older adults?
 
 When used correctly—cleaned regularly, filled with distilled water, and set to maintain 40–45% RH—humidifiers are a well-supported, non-pharmacologic strategy to mitigate environmental contributors to corneal nerve stress in frail older adults with diabetes.
 
-#### #### Can corneal nerve damage from dry air be reversed?
+#### Can corneal nerve damage from dry air be reversed?
 
 Partial recovery is possible with sustained humidity optimization, optimized tear film support, and glycemic control. Corneal confocal studies show modest nerve fiber regeneration (5–12% increase in density) over 6–12 months when combined with environmental and topical interventions.

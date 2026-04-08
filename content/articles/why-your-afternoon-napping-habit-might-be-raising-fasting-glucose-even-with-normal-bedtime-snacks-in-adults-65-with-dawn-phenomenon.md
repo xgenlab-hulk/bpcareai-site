@@ -82,22 +82,22 @@ Understanding how **afternoon naps and fasting glucose in seniors** interact doe
 
 ### FAQ
 
-#### #### Does napping in the afternoon raise blood sugar in older adults?
+#### Does napping in the afternoon raise blood sugar in older adults?
 
 Yes—particularly when naps occur after 2:30 p.m. or last longer than 60 minutes. Research shows such naps can delay melatonin onset and amplify the dawn phenomenon, leading to higher fasting glucose levels the next morning in adults 65+. Shorter, earlier naps (under 30 minutes, before 2:00 p.m.) typically have neutral or even modestly beneficial effects.
 
-#### #### Can afternoon naps and fasting glucose in seniors be improved without stopping naps entirely?
+#### Can afternoon naps and fasting glucose in seniors be improved without stopping naps entirely?
 
 Absolutely. You don’t need to eliminate napping. Evidence supports shifting nap timing earlier in the day, reducing duration to 20–30 minutes, and pairing naps with bright-light exposure afterward. These adjustments preserve restorative benefits while minimizing circadian disruption.
 
-#### #### Why does my fasting glucose go up even though I eat a healthy bedtime snack?
+#### Why does my fasting glucose go up even though I eat a healthy bedtime snack?
 
 A healthy bedtime snack helps prevent nocturnal hypoglycemia—but it doesn’t override circadian-driven hepatic glucose production. In older adults with dawn phenomenon, the liver releases more glucose overnight due to elevated cortisol and glucagon, especially when circadian alignment is weakened (e.g., by late/long afternoon naps). The snack addresses fuel availability; circadian timing affects hormonal *signals*.
 
-#### #### Is there a link between afternoon naps and blood pressure in seniors?
+#### Is there a link between afternoon naps and blood pressure in seniors?
 
 Yes—though distinct from glucose effects. Late or prolonged naps can blunt the natural nighttime dip in blood pressure (nocturnal dipping), increasing average 24-hour BP. In older adults, non-dipping patterns are associated with higher cardiovascular risk and may co-occur with glucose dysregulation due to shared autonomic and circadian mechanisms.
 
-#### #### What’s the best time to check fasting glucose if I take afternoon naps?
+#### What’s the best time to check fasting glucose if I take afternoon naps?
 
 Check first thing upon waking—before drinking water, brushing teeth, or moving around—ideally after at least 8 hours of uninterrupted nighttime sleep. Avoid checking immediately after a nap, as that reflects post-nap glucose, not true fasting status. Consistency in timing (e.g., always measuring at 7:00 a.m. after waking at 6:30 a.m.) improves trend accuracy.

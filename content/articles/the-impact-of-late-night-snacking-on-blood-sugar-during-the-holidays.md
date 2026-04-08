@@ -68,22 +68,22 @@ In short, holiday joy doesn’t require sacrificing well-being—and understandi
 
 ### FAQ
 
-#### #### Does late-night snacking blood sugar affect people without diabetes?
+#### Does late-night snacking blood sugar affect people without diabetes?
 
 Yes—even those with normal glucose levels may see temporary spikes after late eating. Insulin sensitivity naturally dips in the evening, so blood sugar may rise more easily and take longer to return to baseline. Over time, repeated late-night spikes may contribute to insulin resistance, especially in adults over 50.
 
-#### #### Can late-night snacking blood sugar cause high blood pressure?
+#### Can late-night snacking blood sugar cause high blood pressure?
 
 Not directly—but there’s a meaningful link. Poor glucose control, especially overnight, is associated with increased sympathetic nervous system activity and vascular stiffness—both contributors to elevated arterial pressure. Studies suggest adults with frequent postprandial hyperglycemia are up to 30% more likely to develop hypertension within 5 years.
 
-#### #### What’s the best time to stop eating before bed to avoid late-night snacking blood sugar spikes?
+#### What’s the best time to stop eating before bed to avoid late-night snacking blood sugar spikes?
 
 For most adults over 50, stopping food intake by 7:30–8 p.m. supports optimal glucose metabolism overnight. This allows sufficient time for digestion and aligns with the body’s natural decline in insulin secretion after sunset.
 
-#### #### Is it okay to have a small glass of wine with dessert late at night?
+#### Is it okay to have a small glass of wine with dessert late at night?
 
 Alcohol can initially lower blood sugar—but when paired with sweets or eaten on an empty stomach late at night, it may disrupt glucose regulation and impair liver glucose release overnight. If you choose alcohol, pair it with protein and limit to one serving (5 oz wine), ideally before 8 p.m.
 
-#### #### Will skipping dinner and snacking late at night worsen blood sugar control?
+#### Will skipping dinner and snacking late at night worsen blood sugar control?
 
 Yes—skipping meals earlier in the day often leads to hungrier, less mindful eating later, increasing the chance of larger, carb-heavy snacks. This pattern can trigger sharper glucose spikes and greater insulin demand. Consistent, balanced meals throughout the day help stabilize energy and reduce late-night cravings.

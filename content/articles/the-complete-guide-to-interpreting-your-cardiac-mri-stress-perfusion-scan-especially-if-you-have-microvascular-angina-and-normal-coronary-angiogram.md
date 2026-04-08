@@ -51,17 +51,17 @@ In summary, a cardiac MRI stress perfusion scan is far more than a “next-step 
 
 ### FAQ
 
-#### #### What does a low myocardial perfusion reserve (MPR) mean on a cardiac MRI stress perfusion scan?
+#### What does a low myocardial perfusion reserve (MPR) mean on a cardiac MRI stress perfusion scan?
 A low MPR—typically <2.0, and especially <1.5—indicates impaired ability of the heart muscle to increase blood flow under stress. In the context of normal coronary arteries, this strongly suggests microvascular angina or early diabetic microangiopathy.
 
-#### #### How do I find a reliable cardiac MRI stress perfusion interpretation guide?
+#### How do I find a reliable cardiac MRI stress perfusion interpretation guide?
 Look for resources developed by academic cardiology centers or societies like the Society for Cardiovascular Magnetic Resonance (SCMR). Your imaging center should provide a report that includes quantitative MPR values, regional heterogeneity metrics, and correlation with clinical symptoms—not just descriptive phrases like “mildly heterogeneous.”
 
-#### #### Can cardiac MRI stress perfusion detect microvascular angina better than a stress echo or nuclear test?
+#### Can cardiac MRI stress perfusion detect microvascular angina better than a stress echo or nuclear test?
 Yes—cardiac MRI offers superior spatial resolution (~2 mm vs. ~8–10 mm for SPECT/PET) and avoids ionizing radiation. It uniquely enables pixel-wise quantification of perfusion and detection of subtle heterogeneity missed by other modalities, making it the preferred test for suspected microvascular angina—especially in women and diabetics.
 
-#### #### Is microvascular angina considered “real” heart disease?
+#### Is microvascular angina considered “real” heart disease?
 Absolutely. Microvascular angina is a recognized form of ischemic heart disease (IHD) listed in major guidelines (ESC, AHA). It carries increased long-term cardiovascular risk—including higher rates of heart failure hospitalization and mortality—underscoring why accurate diagnosis via tools like this *cardiac MRI stress perfusion interpretation guide* is essential.
 
-#### #### Why might my cardiac MRI stress perfusion look normal even if I have symptoms?
+#### Why might my cardiac MRI stress perfusion look normal even if I have symptoms?
 Possible reasons include suboptimal stress agent dosing, motion artifact, early-stage disease below detection thresholds, or non-ischemic causes (e.g., cardiac syndrome X, autonomic dysfunction). Repeating the test with optimized protocols—or adding T1 mapping and extracellular volume (ECV) assessment—may uncover underlying pathology.

@@ -71,17 +71,17 @@ Holiday traditions are woven with warmth, memory, and connection—and no scienc
 
 ### FAQ
 
-#### #### Does eating holiday leftovers late at night really change my genes?
+#### Does eating holiday leftovers late at night really change my genes?
 Yes—but not your DNA sequence. Instead, late-night eating alters *gene expression*, particularly in circadian regulators like *PER3*. The 2023 ChronoNutrition Trial confirmed reduced *PER3* mRNA in saliva after 10 p.m. meals in adults 59–70 with shift-work history—indicating disrupted peripheral clock signaling.
 
-#### #### How does late-night leftovers circadian gene expression affect blood pressure?
+#### How does late-night leftovers circadian gene expression affect blood pressure?
 Disrupted circadian gene expression contributes to sympathetic nervous system overactivity and impaired endothelial function—both linked to elevated nocturnal and early-morning BP. In the trial, participants with suppressed *PER3* showed a 7–9 mm Hg rise in average morning systolic pressure the day after late eating.
 
-#### #### Can I reverse the effects of late-night leftovers circadian gene expression?
+#### Can I reverse the effects of late-night leftovers circadian gene expression?
 Yes—circadian rhythms are highly plastic. Consistent morning light exposure, daytime movement, and aligning meals with natural daylight (e.g., finishing dinner by 8 p.m.) can restore *PER3* amplitude within 2–3 weeks, as shown in follow-up analyses of the trial cohort.
 
-#### #### Is it worse to eat leftovers late if I have prediabetes?
+#### Is it worse to eat leftovers late if I have prediabetes?
 Yes. Adults with mild insulin resistance show amplified *PER3* suppression and greater next-day glucose excursions after late meals—up to 2.5× the effect seen in metabolically healthy peers of the same age.
 
-#### #### What’s the best time to eat holiday leftovers if I want to protect my circadian health?
+#### What’s the best time to eat holiday leftovers if I want to protect my circadian health?
 Aim to finish all meals—including leftovers—by 8:30–9:00 p.m. This allows at least 12 hours of overnight fasting, supports melatonin release, and minimizes interference with *PER3* and other clock-controlled metabolic genes.

@@ -91,22 +91,22 @@ Stabilizing pulse pressure isn’t about achieving perfection—it’s about gen
 
 ### FAQ
 
-#### #### What foods stabilize pulse pressure seniors orthostasis without causing dizziness?
+#### What foods stabilize pulse pressure seniors orthostasis without causing dizziness?
 
 Foods like purple sweet potato, arugula, unsalted pumpkin seeds, and pomegranate arils support arterial elasticity through nitric oxide modulation, magnesium glycinate delivery, and polyphenol-mediated anti-inflammatory effects—all without significant systemic vasodilation. Their low glycemic index and gentle bioactivity make them suitable for those with mild orthostasis.
 
-#### #### Are there foods that stabilize pulse pressure seniors orthostasis during holiday meals?
+#### Are there foods that stabilize pulse pressure seniors orthostasis during holiday meals?
 
 Yes—focus on whole-food additions rather than restrictions. Add steamed broccoli rabe to mashed potatoes, stir cacao nibs into oatmeal, serve unsweetened dried tart cherries as a festive snack, and use miso-based gravies instead of high-sodium bouillon. These choices maintain flavor and tradition while supporting vascular stability.
 
-#### #### Can magnesium supplements help foods stabilize pulse pressure seniors orthostasis—or are food sources safer?
+#### Can magnesium supplements help foods stabilize pulse pressure seniors orthostasis—or are food sources safer?
 
 Food-sourced magnesium (especially from pumpkin seeds, black beans, and walnuts) is generally safer and more effective for this population. Supplements like magnesium oxide may cause diarrhea or unpredictable BP drops; magnesium glycinate or threonate from whole foods offers steadier tissue uptake and avoids autonomic disruption.
 
-#### #### Does high sodium intake widen pulse pressure in older adults?
+#### Does high sodium intake widen pulse pressure in older adults?
 
 Yes—excess sodium accelerates collagen deposition and impairs nitric oxide signaling in aging arteries. However, *very low* sodium (<1,500 mg/day) may worsen orthostasis in some. Aim for 1,800–2,300 mg/day, prioritizing natural sources over processed foods.
 
-#### #### Is wide pulse pressure reversible with diet alone in seniors?
+#### Is wide pulse pressure reversible with diet alone in seniors?
 
 Diet alone won’t fully reverse structural arterial stiffening, but consistent intake of targeted foods can improve functional elasticity—reducing pulse pressure by 5–12 mm Hg in clinical studies—and significantly improve orthostatic tolerance and quality of life.

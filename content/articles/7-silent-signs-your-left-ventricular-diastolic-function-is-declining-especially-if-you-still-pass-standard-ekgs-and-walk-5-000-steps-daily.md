@@ -72,17 +72,17 @@ The good news? Diastolic changes detected early respond beautifully to lifestyle
 
 ### FAQ
 
-#### #### What are the silent signs of diastolic dysfunction in older adults?  
+#### What are the silent signs of diastolic dysfunction in older adults?  
 These include unexplained shortness of breath while walking on level ground, prolonged heart rate recovery after light activity, waking at night with a dry cough or needing extra pillows, subtle fatigue despite good sleep, mild swelling in ankles by evening, increased urination at night (nocturia), and feeling unusually winded while speaking or singing.
 
-#### #### Can you have silent signs of diastolic dysfunction with normal blood pressure?  
+#### Can you have silent signs of diastolic dysfunction with normal blood pressure?  
 Yes. While high BP is a major contributor, some adults develop early diastolic stiffness even with “normal” readings (e.g., 128/82 mm Hg), especially if those numbers have trended upward over years or if pulse pressure is narrow (<40 mm Hg).
 
-#### #### Are silent signs of diastolic dysfunction reversible?  
+#### Are silent signs of diastolic dysfunction reversible?  
 In many cases—yes. Lifestyle changes (salt moderation, aerobic activity, weight management, sleep hygiene) and treating underlying conditions (like hypertension or diabetes) can significantly improve ventricular relaxation over 3–6 months.
 
-#### #### Does a normal EKG rule out diastolic dysfunction?  
+#### Does a normal EKG rule out diastolic dysfunction?  
 No. An EKG shows electrical signals—not mechanical filling. Diastolic dysfunction often requires echocardiography with Doppler analysis for accurate detection.
 
-#### #### What’s the difference between diastolic dysfunction and heart failure?  
+#### What’s the difference between diastolic dysfunction and heart failure?  
 Diastolic dysfunction describes impaired relaxation/filling *without* symptoms. When symptoms like persistent breathlessness or fatigue appear *despite* preserved ejection fraction, it’s termed heart failure with preserved EF (HFpEF)—a later stage that often begins with those silent signs of diastolic dysfunction.

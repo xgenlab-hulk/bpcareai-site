@@ -66,17 +66,17 @@ In short, *home blood pressure cuff afib algorithm errors* are a real but manage
 
 ### FAQ
 
-#### #### Can home blood pressure cuffs detect atrial fibrillation accurately?  
+#### Can home blood pressure cuffs detect atrial fibrillation accurately?  
 Most standard home cuffs can *flag* possible irregular pulses (many display an icon), but they cannot *diagnose* AFib. Confirmation requires ECG-based tools—like a single-lead handheld monitor or clinical-grade Holter study.
 
-#### #### Do home blood pressure cuff afib algorithm errors affect all brands equally?  
+#### Do home blood pressure cuff afib algorithm errors affect all brands equally?  
 No—accuracy varies widely. Look for devices independently validated per ANSI/AAMI/ISO standards *in AFib populations*. Fewer than 15% of consumer cuffs meet this bar. Check the manufacturer’s clinical validation report for “atrial fibrillation” or “arrhythmia” testing.
 
-#### #### Are wrist blood pressure monitors safe for people with AFib?  
+#### Are wrist blood pressure monitors safe for people with AFib?  
 Wrist cuffs are generally less reliable than upper-arm models—especially in older adults or those with vascular stiffness. For AFib, upper-arm cuffs remain the preferred choice unless mobility limitations require alternatives.
 
-#### #### Why does my cuff give different readings when my pulse feels irregular?  
+#### Why does my cuff give different readings when my pulse feels irregular?  
 Irregular beats alter arterial waveform shape and timing. Oscillometric algorithms rely on consistent pulsations to estimate systolic and diastolic pressure—so variability introduces uncertainty. That’s why context (pulse check, symptoms, timing) matters more than the number alone.
 
-#### #### Should I stop using my home blood pressure cuff if I have AFib?  
+#### Should I stop using my home blood pressure cuff if I have AFib?  
 Not at all—just use it more intentionally. Think of it as one piece of your health picture, not the full story. Pair it with clinical visits and clear communication with your care team.

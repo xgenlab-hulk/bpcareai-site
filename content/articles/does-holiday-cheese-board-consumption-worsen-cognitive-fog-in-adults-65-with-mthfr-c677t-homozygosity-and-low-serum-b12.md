@@ -66,22 +66,22 @@ Cognitive changes around the holidays rarely stem from one food—or one gene. T
 
 ### FAQ
 
-#### #### Does eating cheese cause brain fog in seniors with MTHFR?
+#### Does eating cheese cause brain fog in seniors with MTHFR?
 
 Yes—*some* cheeses, particularly aged, fermented, or unpasteurized varieties, contain high levels of histamine and tyramine. In seniors with *MTHFR C677T* homozygosity and low B12, impaired methylation can slow histamine clearance, leading to temporary cognitive fog, fatigue, or irritability within 1–2 hours of consumption.
 
-#### #### Can cheese board cognitive fog mthfr seniors be prevented?
+#### Can cheese board cognitive fog mthfr seniors be prevented?
 
 Yes—through strategic choices: selecting low-histamine cheeses (e.g., fresh mozzarella, ricotta), limiting portions to ≤15 g of higher-histamine options, pairing with DAO-supportive foods (vitamin C, B6), and ensuring optimal B12 and active folate status. Prevention also includes avoiding alcohol with aged cheese and eating cheese *after* a balanced meal.
 
-#### #### Is there a safe amount of aged cheese for MTHFR seniors with low B12?
+#### Is there a safe amount of aged cheese for MTHFR seniors with low B12?
 
 There is no universal “safe” amount—but functional tolerance varies. For most with confirmed low B12 (<350 pg/mL) and MTHFR TT, even 10–15 g of aged Gouda or Parmesan may trigger symptoms. Start with <5 g and monitor closely for 2 hours. If fog or fatigue occurs, avoid until B12 and homocysteine are optimized.
 
-#### #### What are the best cheese alternatives for seniors with MTHFR and cognitive fog?
+#### What are the best cheese alternatives for seniors with MTHFR and cognitive fog?
 
 Top safer options include pasteurized fresh mozzarella (not smoked), plain full-fat cottage cheese, ricotta, and labneh. All contain <20 mg/kg histamine and minimal tyramine. Always check labels for “aged,” “fermented,” or “raw milk”—and when in doubt, choose fresher, milder, and shorter-aged varieties.
 
-#### #### How does histamine affect the brain in older adults with MTHFR mutations?
+#### How does histamine affect the brain in older adults with MTHFR mutations?
 
 Elevated histamine crosses the blood-brain barrier and binds to H1 and H3 receptors in the hypothalamus and cortex—disrupting wake-sleep cycles, attention, and working memory. In MTHFR TT seniors with low B12, reduced SAMe availability limits histamine methylation by HNMT, allowing histamine to accumulate longer—potentially amplifying these neurocognitive effects.

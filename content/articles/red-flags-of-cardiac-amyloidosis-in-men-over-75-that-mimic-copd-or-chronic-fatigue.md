@@ -85,22 +85,22 @@ Cardiac amyloidosis used to carry a grim prognosis, but today’s landscape is b
 
 ### FAQ
 
-#### #### What are the earliest cardiac amyloidosis red flags in elderly men?
+#### What are the earliest cardiac amyloidosis red flags in elderly men?
 
 The earliest red flags often appear outside the heart: bilateral carpal tunnel syndrome (especially if surgically treated more than once), lumbar spinal stenosis requiring decompression, or unexplained autonomic symptoms like constipation or orthostatic dizziness. Cardiac signs may follow—such as gradual onset of shortness of breath with preserved ejection fraction on echo and low-voltage ECG.
 
-#### #### Can cardiac amyloidosis red flags in elderly men be mistaken for COPD?
+#### Can cardiac amyloidosis red flags in elderly men be mistaken for COPD?
 
 Yes—frequently. Both conditions cause dyspnea, fatigue, and reduced exercise tolerance. But unlike COPD, cardiac amyloidosis typically shows no response to bronchodilators, often includes leg edema or ascites, and features echocardiographic signs of diastolic dysfunction (e.g., restrictive filling, septal thickening) rather than hyperinflated lungs on imaging.
 
-#### #### Is troponin always elevated in cardiac amyloidosis?
+#### Is troponin always elevated in cardiac amyloidosis?
 
 Not always—but *disproportionately elevated* troponin (e.g., high-sensitivity troponin T >15 ng/L or troponin I >35 ng/L) in the absence of acute coronary syndrome is a recognized red flag. This reflects chronic, low-grade myocardial injury from amyloid deposition—not plaque rupture. Levels often remain stable over months but shouldn’t be ignored.
 
-#### #### What does “preserved ejection fraction with restrictive filling” mean?
+#### What does “preserved ejection fraction with restrictive filling” mean?
 
 It means the heart pumps normally (LVEF ≥50%) but fills poorly due to stiffness—like trying to pour water into a rigid, narrow bottle. On echocardiography, this appears as a tall, sharp E wave and tiny or missing A wave on Doppler, with E/e′ ratio >15. It’s a hallmark of infiltrative heart disease, including amyloidosis.
 
-#### #### Are there lifestyle changes that help with cardiac amyloidosis?
+#### Are there lifestyle changes that help with cardiac amyloidosis?
 
 While no diet or supplement reverses amyloid deposits, sodium restriction (<2,000 mg/day), fluid moderation (often 1.5–2 L/day), and avoiding NSAIDs (which worsen kidney and heart function) are evidence-supported. Gentle aerobic activity—like walking or seated cycling—helps maintain functional capacity, but heavy lifting or intense exertion should be discussed with your cardiologist.

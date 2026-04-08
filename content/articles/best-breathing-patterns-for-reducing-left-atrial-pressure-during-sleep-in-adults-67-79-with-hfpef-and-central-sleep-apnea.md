@@ -47,17 +47,17 @@ In summary, supporting your heart and lungs with thoughtful breathing isn’t ab
 
 ### FAQ
 
-#### #### Can breathing patterns hfpef left atrial pressure be lowered without CPAP?  
+#### Can breathing patterns hfpef left atrial pressure be lowered without CPAP?  
 Yes—studies show that regular practice of paced diaphragmatic breathing or resonant frequency training can modestly reduce nocturnal left atrial pressure *even without CPAP*, particularly in mild-to-moderate central sleep apnea. However, CPAP remains first-line for moderate-severe cases, and breathing techniques are best used as complementary support.
 
-#### #### What’s the safest breathing pattern hfpef left atrial pressure technique for older adults?  
+#### What’s the safest breathing pattern hfpef left atrial pressure technique for older adults?  
 Paced diaphragmatic breathing at 5–6 breaths per minute is widely regarded as the safest and most accessible starting point. It avoids breath-holding, minimizes strain, and has strong safety data in adults over 65.
 
-#### #### Do breathing exercises help with both HFpEF and central sleep apnea symptoms?  
+#### Do breathing exercises help with both HFpEF and central sleep apnea symptoms?  
 Research suggests yes—especially when practiced consistently. In one 12-week trial, participants reported 30% fewer central apneas per hour and improved Kansas City Cardiomyopathy Questionnaire (KCCQ) scores, indicating better quality of life and symptom control.
 
-#### #### How long does it take to see effects from breathing patterns hfpef left atrial pressure training?  
+#### How long does it take to see effects from breathing patterns hfpef left atrial pressure training?  
 Most people begin noticing subjective improvements—like calmer nights or easier mornings—within 2–4 weeks. Objective changes in pressure metrics typically emerge after 6–8 weeks of daily practice, based on overnight monitoring data.
 
-#### #### Is resonant frequency breathing safe if I have atrial fibrillation?  
+#### Is resonant frequency breathing safe if I have atrial fibrillation?  
 Generally yes—but consult your electrophysiologist first. While resonant breathing supports autonomic balance, individual heart rhythm responses vary. Avoid breath-hold components and focus on smooth, rhythmic flow.

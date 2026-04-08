@@ -43,22 +43,22 @@ In all of this, remember: healthy eating during family gatherings isn’t about 
 
 ### FAQ
 
-#### #### Can holiday soups really affect sodium excretion in CKD stage 3?
+#### Can holiday soups really affect sodium excretion in CKD stage 3?
 
 Yes—especially high-volume, broth-based soups with added salt or processed ingredients. In CKD stage 3, even moderate sodium loads (800+ mg) can slow sodium excretion by several hours, increasing interdialytic weight gain risk. Supporting timely excretion helps protect heart and kidney health.
 
-#### #### What are the best foods to pair with holiday soups to improve sodium excretion ckid holiday soups?
+#### What are the best foods to pair with holiday soups to improve sodium excretion ckid holiday soups?
 
 Focus on fresh, low-sodium, potassium-rich vegetables (e.g., spinach, mushrooms, winter squash) eaten *before* or *with* the soup. These support natriuretic signaling without adding phosphorus or sodium burden. Avoid salted nuts, cured meats, or instant broth mixes, which counteract these benefits.
 
-#### #### Does drinking water before holiday meals help sodium excretion ckid holiday soups?
+#### Does drinking water before holiday meals help sodium excretion ckid holiday soups?
 
 Yes—especially if it’s bicarbonate-enriched water (pH ≥7.5). Hydrating 20–30 minutes prior improves renal perfusion and supports sodium delivery to excretory sites. Plain water helps too, but alkaline water may offer added benefit for acidotic individuals common in later-stage CKD.
 
-#### #### Is it safe to adjust diuretic timing around holiday meals?
+#### Is it safe to adjust diuretic timing around holiday meals?
 
 Only under guidance from your nephrologist or prescribing clinician. Some evidence supports taking loop diuretics 1 hour *before* a higher-sodium meal to align with peak sodium absorption—but this depends on your individual regimen, BP status, and volume balance.
 
-#### #### How soon after eating holiday soup should I expect signs of sodium retention?
+#### How soon after eating holiday soup should I expect signs of sodium retention?
 
 Most people with CKD stage 3 notice subtle signs—like mild ankle swelling or feeling unusually full—within 3–5 hours. Significant weight gain (>2.2 lbs) typically appears by the next morning. Early awareness gives you time to adjust hydration or activity gently.

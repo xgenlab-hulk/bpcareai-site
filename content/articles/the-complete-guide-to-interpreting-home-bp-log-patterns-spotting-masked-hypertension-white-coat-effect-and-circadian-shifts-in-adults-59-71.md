@@ -47,22 +47,22 @@ Remember: your body speaks in rhythms, not snapshots. With patience and practice
 
 ### FAQ
 
-#### #### What does “masked hypertension” look like in a home BP log?
+#### What does “masked hypertension” look like in a home BP log?
 
 Masked hypertension shows up as consistently elevated readings at home (e.g., ≥135/85 mm Hg) while office visits remain “normal” (<140/90 mm Hg). In your log, you might see morning and evening averages hovering around 138/87 mm Hg—but no obvious spikes or symptoms. It’s often missed without routine home monitoring.
 
-#### #### How can I improve my home bp log pattern interpretation?
+#### How can I improve my home bp log pattern interpretation?
 
 Start by standardizing your routine: same time(s) daily, same posture (seated, arm supported), same arm, and quiet breathing for 5 minutes beforehand. Log at least 5–7 days weekly, and review trends weekly—not single values. Over time, you’ll spot repeating patterns like evening surges or post-meal dips.
 
-#### #### Is white-coat effect dangerous for people over 60?
+#### Is white-coat effect dangerous for people over 60?
 
 White-coat effect itself isn’t harmful—but it can mask true hypertension if relied on alone. In adults 59–71, untreated underlying high BP increases stroke risk by ~30% over 10 years. That’s why home bp log pattern interpretation is essential: it reveals what the clinic can’t always catch.
 
-#### #### What’s a “non-dipper” pattern—and should I worry?
+#### What’s a “non-dipper” pattern—and should I worry?
 
 A non-dipper pattern means your nighttime BP doesn’t drop at least 10% from daytime levels (e.g., only 5% decline). Seen in ~35–45% of adults over 65, it’s linked to higher cardiovascular risk—but manageable with tailored lifestyle and treatment strategies. Not a diagnosis, but an important clue.
 
-#### #### Can stress really change my home BP log pattern?
+#### Can stress really change my home BP log pattern?
 
 Yes—acute stress can raise systolic BP by 20–40 mm Hg temporarily. Chronic stress may contribute to sustained elevations, especially in the evening. Pairing BP logs with brief notes (“felt rushed before reading”) helps separate situational spikes from true trends. If stress is frequent, consider mindfulness, paced breathing, or talking with a counselor.

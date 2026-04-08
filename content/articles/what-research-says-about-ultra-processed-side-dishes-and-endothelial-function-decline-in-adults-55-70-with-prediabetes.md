@@ -86,22 +86,22 @@ If you're unsure, talking to your doctor is always a good idea. And if you’ve 
 
 ### FAQ
 
-#### #### Does eating ultra-processed foods cause immediate damage to blood vessel function in people with prediabetes?
+#### Does eating ultra-processed foods cause immediate damage to blood vessel function in people with prediabetes?
 
 Yes—studies show acute endothelial impairment can occur within 2 hours of consuming a meal high in ultra-processed ingredients. In adults 55–70 with prediabetes, flow-mediated dilation (FMD) often drops by 30–40% post-meal, reflecting reduced nitric oxide availability and increased oxidative stress.
 
-#### #### Can switching to whole-food holiday sides really improve endothelial function?
+#### Can switching to whole-food holiday sides really improve endothelial function?
 
 Absolutely. Clinical trials demonstrate measurable improvements in FMD within hours of choosing whole-food alternatives—especially those rich in polyphenols (like cranberries), healthy fats (like olive oil), and fiber (like whole grains). Over time, consistent swaps support sustained vascular resilience.
 
-#### #### How does ultra-processed foods endothelial function relate to high blood pressure in older adults?
+#### How does ultra-processed foods endothelial function relate to high blood pressure in older adults?
 
 Ultra-processed foods contribute to endothelial dysfunction, which impairs the blood vessels’ ability to relax and regulate pressure. This sets the stage for rising arterial pressure—especially noticeable after meals. In adults with prediabetes, this effect is compounded by insulin resistance, making BP control more challenging.
 
-#### #### Are canned or frozen vegetables okay, or do they count as ultra-processed?
+#### Are canned or frozen vegetables okay, or do they count as ultra-processed?
 
 Most plain frozen vegetables (without sauces or seasonings) and low-sodium canned beans or tomatoes are *not* classified as ultra-processed. The concern lies with items containing multiple additives, hydrogenated oils, or excessive sodium/sugar—like canned cranberry sauce or pre-made stuffing mixes.
 
-#### #### Do I need special testing to know if my endothelium is healthy?
+#### Do I need special testing to know if my endothelium is healthy?
 
 Not necessarily. While flow-mediated dilation (FMD) is the gold-standard research measure, everyday indicators—like stable post-meal energy, comfortable physical activity, and consistent BP readings below 135/85 mm Hg—suggest good vascular health. Talk to your doctor about whether biomarkers like hs-CRP or fasting insulin might offer added insight.

@@ -66,25 +66,25 @@ You don’t need to overhaul your life to nurture your brain and stabilize your 
 
 ### FAQ
 
-#### #### Does exercise timing really affect fasting glucose variability in older adults?
+#### Does exercise timing really affect fasting glucose variability in older adults?
 
 Yes—especially in adults 60 and older with prediabetes or mild cognitive impairment. Research shows that both the *type* and *timing* of activity influence overnight hepatic glucose production and insulin sensitivity. For example, post-dinner walking has been associated with ~12% lower next-morning fasting glucose variability over 4 weeks compared to no structured activity, while pre-dinner resistance work may improve glucose disposal during the meal itself—contributing to smoother overnight patterns.
 
-#### #### What’s the best time to exercise for lowering fasting glucose variability?
+#### What’s the best time to exercise for lowering fasting glucose variability?
 
 There’s no universal “best” time—but evidence points to two gentle, effective windows:  
 • 30–60 minutes *after dinner*: Supports postprandial glucose clearance and may enhance glymphatic flow overnight.  
 • 45–60 minutes *before dinner*: Helps prime insulin-responsive tissues ahead of the largest meal of the day.  
 Consistency matters more than perfection—choose the window that fits your energy, schedule, and preferences.
 
-#### #### How does exercise timing fasting glucose variability relate to brain health?
+#### How does exercise timing fasting glucose variability relate to brain health?
 
 Closely. Unstable fasting glucose is linked to increased oxidative stress and reduced cerebral blood flow—both risk factors for cognitive decline. Meanwhile, regular physical activity at strategic times improves sleep architecture (especially deep NREM sleep), which boosts glymphatic clearance of amyloid-beta—a protein implicated in Alzheimer’s disease pathology. So stabilizing glucose *through timing* supports both metabolic and neurological resilience.
 
-#### #### Can resistance bands really make a difference in just 12 minutes?
+#### Can resistance bands really make a difference in just 12 minutes?
 
 Absolutely—especially when done consistently. Studies in older adults show that even low-volume resistance training (as little as 10–15 minutes, 2–3x/week) improves insulin sensitivity, muscle glucose uptake, and functional strength. Resistance bands offer safe, scalable resistance without requiring gym access or heavy equipment—making them ideal for home-based routines.
 
-#### #### Is walking after dinner better than walking in the morning for blood sugar control?
+#### Is walking after dinner better than walking in the morning for blood sugar control?
 
 For *fasting* glucose specifically, evening walking tends to have a more direct impact—because it helps manage the glucose load from dinner and supports overnight stabilization. Morning walking is still highly beneficial (especially for circadian alignment and mood), but its effect on *next-morning* fasting values is generally less pronounced than post-dinner movement. The key is finding what fits sustainably into your day.

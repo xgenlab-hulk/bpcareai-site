@@ -63,17 +63,17 @@ In short, recognizing cerebral autoregulation failure warning signs adults 58–
 
 ### FAQ
 
-#### #### What are the earliest cerebral autoregulation failure warning signs adults 58–70 should watch for?  
+#### What are the earliest cerebral autoregulation failure warning signs adults 58–70 should watch for?  
 Early signs include transient visual snow upon standing, brief verbal fluency drops (e.g., trouble naming objects after posture change), and post-exertional BP swings >25 mm Hg—not necessarily accompanied by dizziness. These often precede more obvious symptoms.
 
-#### #### Can stress mimic cerebral autoregulation failure warning signs adults 58–70 experience?  
+#### Can stress mimic cerebral autoregulation failure warning signs adults 58–70 experience?  
 Yes—stress can cause similar symptoms (e.g., brain fog, palpitations), but true autoregulatory issues show *consistent timing*: tied to posture, exertion, or BP shifts—not emotional triggers. Keeping a symptom-BP log helps distinguish them.
 
-#### #### Is migraine with aura linked to cerebral autoregulation failure?  
+#### Is migraine with aura linked to cerebral autoregulation failure?  
 Research suggests yes. Cortical spreading depression in migraine with aura may temporarily disrupt endothelial function and neurovascular coupling—making the brain more sensitive to BP changes, especially with age.
 
-#### #### Does high blood pressure always mean poor autoregulation?  
+#### Does high blood pressure always mean poor autoregulation?  
 No. Many people with well-controlled hypertension maintain strong autoregulation. Conversely, some with “normal” BP readings show impaired reactivity—highlighting why functional assessment (like TCD) adds value beyond numbers.
 
-#### #### What lifestyle changes best support cerebrovascular autoregulation?  
+#### What lifestyle changes best support cerebrovascular autoregulation?  
 Prioritize aerobic consistency (e.g., brisk walking 30 min/day), sodium moderation (<2,300 mg/day), and good sleep hygiene. Avoid prolonged bed rest and rapid weight loss, both of which can blunt autoregulatory adaptation.

@@ -84,22 +84,22 @@ In closing, caring for your heart health at 71+ isn’t about drastic changes. I
 
 ### FAQ
 
-#### #### Does ankle circles vs calf squeezes pulse pressure really make a measurable difference?
+#### Does ankle circles vs calf squeezes pulse pressure really make a measurable difference?
 
 Yes—especially in adults 71+ with confirmed aortic stiffness. Studies using tonometry show morning ankle circles reduce central pulse pressure by ~7 mm Hg on average, while evening calf squeezes yield ~3 mm Hg. The difference lies in neural timing and vascular targeting—not effort level.
 
-#### #### Can I do both ankle circles and calf squeezes—or is it better to pick one?
+#### Can I do both ankle circles and calf squeezes—or is it better to pick one?
 
 You can safely do both! Many participants in recent trials combined morning circles (for central tone) with evening squeezes (for circulation and relaxation). Just be mindful of timing—morning circles work best within 30 minutes of waking; calf squeezes are ideal 1–2 hours before bedtime.
 
-#### #### Is ankle circles vs calf squeezes pulse pressure relevant if my arm BP is normal?
+#### Is ankle circles vs calf squeezes pulse pressure relevant if my arm BP is normal?
 
 Absolutely. Up to 30% of adults over 70 have “normal” brachial BP but elevated central pulse pressure due to arterial stiffness. This mismatch is why central hemodynamics are increasingly used in geriatric cardiovascular assessment—even when arm readings appear reassuring.
 
-#### #### Do I need special equipment to try these?
+#### Do I need special equipment to try these?
 
 No. Both techniques require zero equipment. All you need is a stable chair and comfortable clothing. If balance is a concern, perform ankle circles while seated with back support—and use the chair arms for stability during calf squeezes.
 
-#### #### How long until I notice benefits from ankle circles or calf squeezes?
+#### How long until I notice benefits from ankle circles or calf squeezes?
 
 Most people report feeling lighter or more energized after 1–2 weeks of consistent practice. Tonometry studies show measurable central pulse pressure shifts within 5–7 days of daily morning ankle circles. Consistency—not intensity—is what builds cumulative benefit.

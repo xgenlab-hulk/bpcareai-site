@@ -55,17 +55,17 @@ In short: yes, you *can* enjoy stuffing with stage 2 heart failure—thoughtfull
 
 ### FAQ
 
-#### #### Is traditional stuffing safe for someone with heart failure?
+#### Is traditional stuffing safe for someone with heart failure?
 Not without modification. Most classic recipes contain 500–900 mg of sodium per serving—well over the recommended 1,500–2,000 mg daily limit for heart failure patients. Homemade, low-sodium versions are safer and just as delicious.
 
-#### #### How much sodium is too much in stuffing for seniors with heart failure?
+#### How much sodium is too much in stuffing for seniors with heart failure?
 More than ~300–400 mg per ½-cup serving is considered high for stage 2 heart failure. Aim for under 250 mg if possible—especially if you’re also managing hypertension or kidney concerns.
 
-#### #### Can I eat stuffing sodium heart failure seniors typically consume during holidays?
+#### Can I eat stuffing sodium heart failure seniors typically consume during holidays?
 Many do—but often unknowingly exceed their daily sodium limit in one meal. That’s why planning ahead (e.g., choosing one lower-sodium side instead of several moderate ones) makes a real difference in how you feel afterward.
 
-#### #### Does removing salt from stuffing affect texture?
+#### Does removing salt from stuffing affect texture?
 Not at all—salt doesn’t bind or moisten. What *does* keep stuffing tender is broth temperature (use warm), proper bread-to-liquid ratio (about 1½ cups broth per 4 cups dried bread), and gentle mixing.
 
-#### #### Are gluten-free or vegan stuffings automatically lower in sodium?
+#### Are gluten-free or vegan stuffings automatically lower in sodium?
 Not necessarily. Many GF broths and plant-based sausages are highly salted. Always read labels—look for “<140 mg sodium per serving” to qualify as low-sodium.

@@ -1,0 +1,924 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BPCareAI Pipeline 精确流程图 v2</title>
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #0f172a;
+      color: #e2e8f0;
+      padding: 40px 20px;
+    }
+    h1 { text-align: center; font-size: 28px; margin-bottom: 4px; color: #f8fafc; }
+    .subtitle { text-align: center; color: #94a3b8; margin-bottom: 40px; font-size: 13px; }
+    .section {
+      max-width: 1400px;
+      margin: 0 auto 50px;
+      background: #1e293b;
+      border-radius: 16px;
+      padding: 32px;
+      border: 1px solid #334155;
+    }
+    .section h2 {
+      font-size: 20px;
+      margin-bottom: 4px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .section .desc { color: #94a3b8; font-size: 13px; margin-bottom: 24px; }
+    .badge { display: inline-block; padding: 2px 10px; border-radius: 12px; font-size: 12px; font-weight: 600; }
+    .badge-daily { background: #1e3a5f; color: #60a5fa; }
+    .badge-weekly { background: #3b1f4e; color: #c084fc; }
+    .badge-prod { background: #14532d; color: #4ade80; }
+    .badge-api { background: #713f12; color: #fbbf24; }
+    .mermaid { display: flex; justify-content: center; overflow-x: auto; }
+
+    /* 精确注释 */
+    .note-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 16px;
+      margin-top: 24px;
+    }
+    .note-card {
+      background: #0f172a;
+      border-radius: 10px;
+      padding: 16px;
+      border: 1px solid #334155;
+    }
+    .note-card h4 { font-size: 13px; color: #94a3b8; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px; }
+    .note-card p, .note-card li { font-size: 13px; color: #cbd5e1; line-height: 1.6; }
+    .note-card ul { padding-left: 16px; }
+    .note-card code { background: #334155; padding: 1px 6px; border-radius: 4px; font-size: 12px; color: #60a5fa; }
+    .note-card .file { color: #a78bfa; font-family: monospace; font-size: 12px; }
+    .note-card .val { color: #fbbf24; font-weight: 600; }
+    .note-card .warn { color: #f87171; }
+
+    /* 数据表 */
+    .data-table {
+      max-width: 1400px;
+      margin: 0 auto 50px;
+      background: #1e293b;
+      border-radius: 16px;
+      padding: 32px;
+      border: 1px solid #334155;
+    }
+    .data-table h2 { margin-bottom: 20px; }
+    table { width: 100%; border-collapse: collapse; }
+    th, td { text-align: left; padding: 10px 14px; border-bottom: 1px solid #334155; font-size: 13px; }
+    th { color: #94a3b8; font-weight: 600; font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; }
+    td { color: #cbd5e1; }
+    td:first-child { color: #f8fafc; font-weight: 500; }
+    .val { color: #60a5fa; font-weight: 600; font-family: monospace; }
+    .file-ref { color: #a78bfa; font-family: monospace; font-size: 12px; }
+    .correct { color: #4ade80; }
+    .incorrect { color: #f87171; text-decoration: line-through; }
+
+    .divider { max-width: 1400px; margin: 0 auto 50px; border-top: 1px solid #334155; }
+  </style>
+</head>
+<body>
+
+<h1>BPCareAI Content Pipeline - Precise Flowchart v2</h1>
+<p class="subtitle">Based on line-by-line source code verification | 2026-04-01 | All values from actual code</p>
+
+<!-- ==================== SYSTEM OVERVIEW ==================== -->
+<div class="section">
+  <h2>System Overview - Three Lines</h2>
+  <p class="desc">Three independent automation lines that feed into each other via shared data files</p>
+  <div class="mermaid">
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#1e40af', 'primaryTextColor': '#f8fafc', 'primaryBorderColor': '#3b82f6', 'lineColor': '#64748b', 'secondaryColor': '#7c3aed', 'tertiaryColor': '#059669', 'background': '#1e293b', 'mainBkg': '#1e293b', 'nodeBorder': '#475569', 'clusterBkg': '#0f172a', 'clusterBorder': '#334155', 'titleColor': '#f8fafc', 'edgeLabelBackground': '#1e293b', 'nodeTextColor': '#f8fafc' }}}%%
+graph LR
+  subgraph L1["LINE 1 - Daily Data"]
+    direction TB
+    GSC["GSC API Pull<br/>7 days data"]
+    TREND["Trend Detection<br/>3d vs 28d baseline"]
+    URGENT["Urgent Topic Gen<br/>Perplexity + Qwen"]
+  end
+
+  subgraph L2["LINE 2 - Weekly Strategy"]
+    direction TB
+    WGSC["7-Day GSC<br/>Summary"]
+    WLLM["Qwen Deep<br/>Analysis"]
+    WPPLX["Perplexity<br/>P1/P2 Deep Dive"]
+    WGEN["Topic<br/>Generation"]
+    WSCORE["Scoring v2.1<br/>4 dimensions"]
+  end
+
+  subgraph L3["LINE 3 - Daily Production"]
+    direction TB
+    INV["Inventory<br/>Check"]
+    POOL["Topic Pool<br/>Assembly"]
+    ARTGEN["Article<br/>Generation Loop"]
+    PUB["Index + Deploy"]
+  end
+
+  GSC --> TREND --> URGENT
+  URGENT -->|"urgent-topics.json<br/>(max 3, TTL 3d)"| POOL
+  GSC -.->|"raw data files"| WGSC
+  WGSC --> WLLM --> WPPLX --> WGEN --> WSCORE
+  WSCORE -->|"planned-topics-*.json<br/>(scored, 35/week)"| POOL
+  INV -->|"< 30 triggers<br/>emergency replenish"| POOL
+  POOL --> ARTGEN --> PUB
+
+  style GSC fill:#1e3a5f,stroke:#3b82f6,color:#f8fafc
+  style TREND fill:#1e3a5f,stroke:#3b82f6,color:#f8fafc
+  style URGENT fill:#7f1d1d,stroke:#ef4444,color:#f8fafc
+  style WGSC fill:#3b1f4e,stroke:#a855f7,color:#f8fafc
+  style WLLM fill:#3b1f4e,stroke:#a855f7,color:#f8fafc
+  style WPPLX fill:#713f12,stroke:#f59e0b,color:#f8fafc
+  style WGEN fill:#3b1f4e,stroke:#a855f7,color:#f8fafc
+  style WSCORE fill:#164e63,stroke:#06b6d4,color:#f8fafc
+  style INV fill:#14532d,stroke:#22c55e,color:#f8fafc
+  style POOL fill:#14532d,stroke:#22c55e,color:#f8fafc
+  style ARTGEN fill:#14532d,stroke:#22c55e,color:#f8fafc
+  style PUB fill:#14532d,stroke:#22c55e,color:#f8fafc
+  </div>
+</div>
+
+<!-- ==================== LINE 1: GSC DAILY ==================== -->
+<div class="section">
+  <h2><span class="badge badge-daily">DAILY</span> Line 1: GSC Data Pull + Trend Detection + Urgent Topics</h2>
+  <p class="desc">scripts/gsc-daily-analysis.ts - Pull data, detect trends, generate urgent topics via Perplexity + Qwen</p>
+  <div class="mermaid">
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#1e40af', 'primaryTextColor': '#f8fafc', 'primaryBorderColor': '#3b82f6', 'lineColor': '#64748b', 'background': '#1e293b', 'mainBkg': '#1e293b', 'nodeBorder': '#475569', 'edgeLabelBackground': '#1e293b', 'nodeTextColor': '#f8fafc' }}}%%
+flowchart TD
+  A["<b>Step 1: GSC API Pull</b><br/>client.query() x2 per day<br/>dimensions: query (25k) + page (25k)<br/>window: today-9d ~ today-3d (7 days)<br/>rate limit: 300ms between days"]
+  B["<b>Store Raw Data</b><br/>saveDailyRawData()<br/>data/seo/raw/{YYYY-MM-DD}.json<br/>same-date = overwrite"]
+  C["<b>Step 2: Trend Detection</b><br/>detectTrends(recent3d, baseline28d)<br/>lib/seo/trend-detector.ts"]
+  C1["<b>SURGE</b><br/>recent daily avg / baseline daily avg >= 3.0<br/>AND impressions >= 3<br/>score = min(ratio * 15, 100)"]
+  C2["<b>NEW_QUERY</b><br/>not in 28d baseline<br/>AND appeared >= 2 days<br/>score = min(impressions * 10, 60)"]
+  C3["<b>RANK_JUMP</b><br/>position improved >= 10 places<br/>score = min(improvement * 3, 80)"]
+  D["<b>Save Analysis</b><br/>data/seo/analysis/daily-{date}.json<br/>alerts sorted by score DESC"]
+  E{"<b>Any alert<br/>score >= 50?</b>"}
+  F["No high alerts<br/>clean expired urgent topics"]
+  G["<b>Step 3: Process High Alerts</b><br/>highAlerts.slice(0, 3)<br/>max 3 alerts processed"]
+
+  H["<b>3a: Perplexity API</b><br/>discoverUserQuestions(alert.query)<br/>model: sonar, temp: 0.2<br/>NO existingTopics passed here"]
+  H_OUT["Returns:<br/>questions: string[] (take first 5)<br/>competitorCoverage: string<br/>whyItMatters: string"]
+
+  I["<b>3b: Qwen LLM</b><br/>convertUrgentQueryToTopic()<br/>model: qwen-plus-latest, temp: 0.4"]
+  I_IN["Input:<br/>query + impressions + position<br/>+ alertType + alertReason<br/>+ Perplexity top 5 questions<br/>(appended to alertReason string)"]
+  I_OUT["Output:<br/>title + primaryKeyword<br/>+ description + topicCluster<br/>+ reasoning"]
+  I_FAIL["<b>LLM Fallback</b><br/>title: query + ': What You Need to Know'<br/>pk: alert.query<br/>desc: 'Learn about {query}...'<br/>cluster: 'trending'"]
+
+  J["<b>3c: Embedding Dedup</b><br/>generateEmbeddingForText()<br/>text = title + desc + pk<br/>compare vs ALL existing articles"]
+  K{"sim > 0.80?"}
+  L["REJECT<br/>log and skip"]
+  M["ACCEPT"]
+
+  N["<b>Write urgent-topics.json</b><br/>Each topic includes:<br/>...LLM output fields<br/>query, type, score<br/>perplexityQuestions[5]<br/>createdAt, expiresAt (+3 days)"]
+
+  O["<b>Step 4: Cleanup</b><br/>cleanupOldData()<br/>delete raw/analysis > 12 months"]
+
+  A --> B --> C
+  C --> C1
+  C --> C2
+  C --> C3
+  C1 --> D
+  C2 --> D
+  C3 --> D
+  D --> E
+  E -->|"No"| F
+  E -->|"Yes"| G
+  G --> H --> H_OUT --> I_IN --> I --> I_OUT
+  I -.->|"on error"| I_FAIL
+  I_OUT --> J --> K
+  I_FAIL --> J
+  K -->|"Yes"| L
+  K -->|"No"| M --> N
+  N --> O
+  F --> O
+
+  style A fill:#1e3a5f,stroke:#3b82f6,color:#f8fafc
+  style B fill:#1e3a5f,stroke:#3b82f6,color:#f8fafc
+  style C fill:#1e3a5f,stroke:#3b82f6,color:#f8fafc
+  style C1 fill:#1e3a5f,stroke:#60a5fa,color:#f8fafc
+  style C2 fill:#1e3a5f,stroke:#60a5fa,color:#f8fafc
+  style C3 fill:#1e3a5f,stroke:#60a5fa,color:#f8fafc
+  style D fill:#1e3a5f,stroke:#3b82f6,color:#f8fafc
+  style E fill:#1e3a5f,stroke:#60a5fa,color:#f8fafc
+  style F fill:#334155,stroke:#64748b,color:#94a3b8
+  style G fill:#7f1d1d,stroke:#ef4444,color:#f8fafc
+  style H fill:#713f12,stroke:#f59e0b,color:#f8fafc
+  style H_OUT fill:#713f12,stroke:#f59e0b,color:#f8fafc
+  style I fill:#4a1d96,stroke:#a855f7,color:#f8fafc
+  style I_IN fill:#4a1d96,stroke:#a855f7,color:#f8fafc
+  style I_OUT fill:#4a1d96,stroke:#a855f7,color:#f8fafc
+  style I_FAIL fill:#334155,stroke:#64748b,color:#94a3b8
+  style J fill:#164e63,stroke:#06b6d4,color:#f8fafc
+  style K fill:#164e63,stroke:#06b6d4,color:#f8fafc
+  style L fill:#7f1d1d,stroke:#ef4444,color:#f8fafc
+  style M fill:#14532d,stroke:#22c55e,color:#f8fafc
+  style N fill:#14532d,stroke:#22c55e,color:#f8fafc
+  style O fill:#334155,stroke:#64748b,color:#94a3b8
+  </div>
+
+  <div class="note-grid">
+    <div class="note-card">
+      <h4>Perplexity Call Details (Line 1)</h4>
+      <ul>
+        <li>Function: <code>discoverUserQuestions(alert.query)</code></li>
+        <li>Note: <span class="val">does NOT pass existingTopics</span> here (unlike Line 2)</li>
+        <li>Only <span class="val">top 5</span> questions used (from up to 15 returned)</li>
+        <li>Questions injected into <code>alertReason</code> string, not separate field</li>
+        <li>On Perplexity failure: continues without questions (empty array)</li>
+      </ul>
+    </div>
+    <div class="note-card">
+      <h4>Urgent Topic Lifecycle</h4>
+      <ul>
+        <li>Created by: <code>gsc-daily-analysis.ts</code></li>
+        <li>Consumed by: <code>auto-generate-daily.ts</code> → <code>loadUrgentTopics()</code></li>
+        <li>TTL: <span class="val">3 days</span> (expiresAt field)</li>
+        <li>Score filter: <span class="val">only at write time</span> (score >= 50 in gsc-daily-analysis)</li>
+        <li>Read filter: <span class="val">only expiresAt > now</span> (no score filter at read)</li>
+        <li class="warn">Field mapping issue: loadUrgentTopics() uses t.query/t.suggestedPK/t.reason instead of t.title/t.primaryKeyword/t.description</li>
+      </ul>
+    </div>
+    <div class="note-card">
+      <h4>No-Alert Path</h4>
+      <ul>
+        <li>If no alert scores >= 50: cleans expired urgent topics from file</li>
+        <li>Filter: keeps only topics where <code>expiresAt > now</code></li>
+        <li>Does NOT clear file entirely - preserves valid unexpired topics</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- ==================== LINE 2: WEEKLY ==================== -->
+<div class="section">
+  <h2><span class="badge badge-weekly">WEEKLY</span> Line 2: Weekly Topic Refresh + Scoring</h2>
+  <p class="desc">scripts/weekly-topic-refresh.ts - Analyze GSC, Perplexity deep dive, generate & score 35 new topics</p>
+  <div class="mermaid">
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#1e40af', 'primaryTextColor': '#f8fafc', 'primaryBorderColor': '#3b82f6', 'lineColor': '#64748b', 'background': '#1e293b', 'mainBkg': '#1e293b', 'nodeBorder': '#475569', 'edgeLabelBackground': '#1e293b', 'nodeTextColor': '#f8fafc' }}}%%
+flowchart TD
+  S1["<b>Step 1: Inventory Check</b><br/>getTopicsInventory()<br/>Scan data/planned-topics-*.json<br/>Keep: score >= 30<br/>toGenerate = 35 - kept"]
+  S1D{"toGenerate <= 0?"}
+  S1SKIP["Done - enough topics"]
+
+  S2["<b>Step 2: GSC Weekly Summary</b><br/>loadRawDataRange(last 7 days)<br/>Aggregate queries by impressions<br/>Top 20 pages by impressions"]
+
+  S3["<b>Step 3: LLM Deep Analysis</b><br/>runWeeklyDeepAnalysis()<br/>model: qwen-plus-latest, temp: 0.3<br/>siteInfo: '50+老年人心血管健康网站, 2209篇'"]
+  S3OUT["Returns:<br/>searchIntentAnalysis<br/>ctrAnomalies<br/>hiddenOpportunities<br/>topicPriorities<br/>articleOptimizations[]"]
+
+  S4["<b>Step 3.5: Perplexity Deep Dive</b><br/>Only P1 + P2 priority directions<br/>(P3 skipped to save cost)"]
+  S4LOOP["FOR EACH P1/P2 keyword:<br/>discoverUserQuestions(<br/>  keyword,<br/>  existingArticles.slice(0,20)<br/>)<br/>delay: 500ms between calls"]
+  S4OUT["Per keyword returns:<br/>15 real questions<br/>competitorCoverage<br/>whyItMatters"]
+
+  S5["<b>Step 4: Generate Topic Candidates</b><br/>generateTopicCandidatesForKeyword()<br/>model: qwen-plus-latest"]
+  S5ENRICH["Inject Perplexity into angles:<br/>Original angles from config<br/>+ up to 8 Real user search questions<br/>+ 1 Competitor insight line<br/>+ 1 Trending context line"]
+  S5DIST["Priority distribution:<br/>P1: ceil(toGenerate * 0.5)<br/>P2: ceil(toGenerate * 0.3)<br/>P3: remainder<br/>Per category: max(3, ceil(total/count))"]
+  S5NOTE["source = 'weekly-refresh' for all<br/>delay: 1000ms between categories"]
+
+  S6["<b>Step 5: Score All Candidates</b><br/>scoreTopics(allCandidates)<br/>lib/seo/topic-scorer.ts"]
+  S6TOP["Take top toGenerate by score"]
+
+  S7["<b>Step 6: Write Topic Library</b><br/>Match by keyword overlap<br/>combined = kept(score>=30) + new<br/>Write to each planned-topics-*.json"]
+  S7MATCH["Category matching logic:<br/>categoryKeywords map<br/>checks: pk + title text includes keyword"]
+
+  S8["<b>Step 7: Article Optimizations</b><br/>If llmAnalysis has suggestions:<br/>save to article-optimizations-pending.json"]
+
+  S9["<b>Step 8: Weekly Report</b><br/>data/seo/analysis/weekly-{week}.json<br/>Includes: perplexityInsights, topTopics[10]"]
+
+  S1 --> S1D
+  S1D -->|"Yes"| S1SKIP
+  S1D -->|"No"| S2 --> S3 --> S3OUT --> S4
+  S4 --> S4LOOP --> S4OUT --> S5
+  S5 --> S5ENRICH --> S5DIST --> S5NOTE --> S6 --> S6TOP --> S7 --> S7MATCH --> S8 --> S9
+
+  style S1 fill:#3b1f4e,stroke:#a855f7,color:#f8fafc
+  style S1D fill:#3b1f4e,stroke:#a855f7,color:#f8fafc
+  style S1SKIP fill:#334155,stroke:#64748b,color:#94a3b8
+  style S2 fill:#1e3a5f,stroke:#3b82f6,color:#f8fafc
+  style S3 fill:#4a1d96,stroke:#a855f7,color:#f8fafc
+  style S3OUT fill:#4a1d96,stroke:#a855f7,color:#f8fafc
+  style S4 fill:#713f12,stroke:#f59e0b,color:#f8fafc
+  style S4LOOP fill:#713f12,stroke:#f59e0b,color:#f8fafc
+  style S4OUT fill:#713f12,stroke:#f59e0b,color:#f8fafc
+  style S5 fill:#4a1d96,stroke:#a855f7,color:#f8fafc
+  style S5ENRICH fill:#713f12,stroke:#f59e0b,color:#f8fafc
+  style S5DIST fill:#4a1d96,stroke:#a855f7,color:#f8fafc
+  style S5NOTE fill:#4a1d96,stroke:#a855f7,color:#f8fafc
+  style S6 fill:#164e63,stroke:#06b6d4,color:#f8fafc
+  style S6TOP fill:#164e63,stroke:#06b6d4,color:#f8fafc
+  style S7 fill:#14532d,stroke:#22c55e,color:#f8fafc
+  style S7MATCH fill:#14532d,stroke:#22c55e,color:#f8fafc
+  style S8 fill:#334155,stroke:#64748b,color:#94a3b8
+  style S9 fill:#14532d,stroke:#22c55e,color:#f8fafc
+  </div>
+
+  <div class="note-grid">
+    <div class="note-card">
+      <h4>Perplexity Call Details (Line 2)</h4>
+      <ul>
+        <li>Function: <code>discoverUserQuestions(keyword, existingTitles)</code></li>
+        <li><span class="val">DOES pass existingTopics</span> (up to 20 articles per keyword)</li>
+        <li>existingTopics filtered by: title includes first word of keyword</li>
+        <li>All 15 questions returned, but only <span class="val">8 injected as angles</span></li>
+        <li>Also injects competitorCoverage and whyItMatters as angles</li>
+      </ul>
+    </div>
+    <div class="note-card">
+      <h4>Critical: NO Embedding Dedup</h4>
+      <ul>
+        <li class="warn">Weekly refresh does NOT do embedding-based dedup</li>
+        <li>Topics go straight from LLM generation -> scoring -> library</li>
+        <li>Only text-level dedup: <code>alreadyPlannedTitles</code> passed to LLM prompt</li>
+        <li>Contrast with emergency replenish which DOES do embedding dedup (threshold 0.85)</li>
+        <li>Article-level dedup (0.80) catches duplicates later at generation time</li>
+      </ul>
+    </div>
+    <div class="note-card">
+      <h4>siteInfo Inconsistency</h4>
+      <ul>
+        <li>LLM deep analysis prompt says: <span class="val">"50+老年人"</span></li>
+        <li>Perplexity prompt says: <span class="val">"adults (age 35+)"</span></li>
+        <li>Article generation system prompt says: <span class="val">"adults aged 35 and above"</span></li>
+        <li>convertUrgentQueryToTopic says: <span class="val">"adults 35+"</span></li>
+        <li class="warn">LLM deep analysis siteInfo should be updated to 35+</li>
+      </ul>
+    </div>
+    <div class="note-card">
+      <h4>Core Topics Config (automation-config.json)</h4>
+      <ul>
+        <li><b>P1:</b> cholesterol (8篇,缺口大), diabetes (41展示+好排名), exercise (947展示,77%缺口)</li>
+        <li><b>P2:</b> healthy eating (30展示+soft foods 17变体)</li>
+        <li><b>P3:</b> blood pressure (476篇,加强长尾), heart health (分散,加强具体方向)</li>
+        <li>Note: P1 has 3 keywords, P2 has 1, P3 has 2</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- ==================== SCORING v2.1 ==================== -->
+<div class="section">
+  <h2><span class="badge badge-weekly">SCORING</span> Topic Scoring System v2.1 - Four Dimensions</h2>
+  <p class="desc">lib/seo/topic-scorer.ts - Exact scoring logic from source code</p>
+  <div class="mermaid">
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#1e40af', 'primaryTextColor': '#f8fafc', 'primaryBorderColor': '#3b82f6', 'lineColor': '#64748b', 'background': '#1e293b', 'mainBkg': '#1e293b', 'nodeBorder': '#475569', 'edgeLabelBackground': '#1e293b', 'nodeTextColor': '#f8fafc' }}}%%
+flowchart TD
+  INPUT["<b>Input: TopicCandidate</b><br/>title, primaryKeyword, description<br/>topicCluster, source"]
+
+  subgraph DIM1["clusterNeed (0-30)"]
+    D1["resolveCluster() maps to<br/>6 defined clusters"]
+    D1A["gapRatio > 0.5 (coverage < 50%)<br/>score = 25 + min(gapRatio*10, 5)"]
+    D1B["gapRatio > 0.2 (coverage < 80%)<br/>score = 15 + gapRatio*20"]
+    D1C["gapRatio > 0 (approaching target)<br/>score = 5 + gapRatio*50"]
+    D1D["gapRatio <= 0 (target met)<br/>score = 3"]
+    D1E["Penalty: if recent 7d output >= 3<br/>subtract 8 points"]
+    D1F["Non-core cluster<br/>score = 10 (base)"]
+  end
+
+  subgraph DIM2["searchDemand (0-25)"]
+    D2["findBestGSCMatch()"]
+    D2A["<b>Exact match</b><br/>2+ specific words overlap<br/>+ bidirectional >= 40%/30%"]
+    D2B["<b>Direction match</b><br/>1+ specific words<br/>+ 2+ total words overlap"]
+    D2C["No match → source-based:<br/>gsc-trend/gsc-gap: 12<br/>weekly-refresh: 8<br/>other: 4"]
+    D2EXACT["impr >= 10: 18 + min(impr/5, 3)<br/>impr 5-9: 12 + impr<br/>impr < 5: 8 + impr*2"]
+    D2DIR["impr >= 5: 10 + min(impr, 5)<br/>impr < 5: 7 + impr"]
+    D2CLICK["Click bonus:<br/>clicks > 0: + min(clicks*3, 6)"]
+  end
+
+  subgraph DIM3["differentiation (0-25)"]
+    D3["calcMaxPKOverlap()<br/>specific words only"]
+    D3A["overlap <= 30%: 22 + (1-overlap)*3"]
+    D3B["overlap 30-50%: 15 + (1-overlap)*10"]
+    D3C["overlap 50-70%: 8"]
+    D3D["overlap > 70%: 2"]
+  end
+
+  subgraph DIM4["timeliness (0-20)"]
+    D4A["Default (evergreen): 6"]
+    D4B["GSC trend = 'up': 16"]
+    D4C["GSC trend = 'down': 2"]
+    D4D["source = 'gsc-trend': 19"]
+  end
+
+  TOTAL["<b>Total Score</b><br/>clamp(0, 100)<br/>= clusterNeed + searchDemand<br/>+ differentiation + timeliness"]
+
+  INPUT --> DIM1
+  INPUT --> DIM2
+  INPUT --> DIM3
+  INPUT --> DIM4
+  D1 --> D1A & D1B & D1C & D1D & D1F
+  D1A & D1B & D1C & D1D --> D1E
+  D2 --> D2A --> D2EXACT --> D2CLICK
+  D2 --> D2B --> D2DIR --> D2CLICK
+  D2 --> D2C
+  D3 --> D3A & D3B & D3C & D3D
+  DIM1 --> TOTAL
+  DIM2 --> TOTAL
+  DIM3 --> TOTAL
+  DIM4 --> TOTAL
+
+  style INPUT fill:#334155,stroke:#64748b,color:#f8fafc
+  style TOTAL fill:#14532d,stroke:#22c55e,color:#f8fafc
+  style D1 fill:#1e3a5f,stroke:#3b82f6,color:#f8fafc
+  style D1A fill:#1e3a5f,stroke:#60a5fa,color:#f8fafc
+  style D1B fill:#1e3a5f,stroke:#60a5fa,color:#f8fafc
+  style D1C fill:#1e3a5f,stroke:#60a5fa,color:#f8fafc
+  style D1D fill:#334155,stroke:#64748b,color:#94a3b8
+  style D1E fill:#7f1d1d,stroke:#ef4444,color:#f8fafc
+  style D1F fill:#334155,stroke:#64748b,color:#94a3b8
+  style D2 fill:#1e3a5f,stroke:#3b82f6,color:#f8fafc
+  style D2A fill:#14532d,stroke:#22c55e,color:#f8fafc
+  style D2B fill:#713f12,stroke:#f59e0b,color:#f8fafc
+  style D2C fill:#334155,stroke:#64748b,color:#94a3b8
+  style D2EXACT fill:#14532d,stroke:#22c55e,color:#f8fafc
+  style D2DIR fill:#713f12,stroke:#f59e0b,color:#f8fafc
+  style D2CLICK fill:#164e63,stroke:#06b6d4,color:#f8fafc
+  style D3 fill:#1e3a5f,stroke:#3b82f6,color:#f8fafc
+  style D3A fill:#14532d,stroke:#22c55e,color:#f8fafc
+  style D3B fill:#713f12,stroke:#f59e0b,color:#f8fafc
+  style D3C fill:#7f1d1d,stroke:#ef4444,color:#f8fafc
+  style D3D fill:#7f1d1d,stroke:#ef4444,color:#f8fafc
+  style D4A fill:#334155,stroke:#64748b,color:#94a3b8
+  style D4B fill:#14532d,stroke:#22c55e,color:#f8fafc
+  style D4C fill:#7f1d1d,stroke:#ef4444,color:#f8fafc
+  style D4D fill:#14532d,stroke:#22c55e,color:#f8fafc
+  </div>
+
+  <div class="note-grid">
+    <div class="note-card">
+      <h4>Cluster Targets (CLUSTER_TARGETS)</h4>
+      <ul>
+        <li>lifestyle-interventions: target <span class="val">200</span>, P1</li>
+        <li>diabetes-management: target <span class="val">500</span>, P1</li>
+        <li>nutrition-diet-management: target <span class="val">400</span>, P2</li>
+        <li>cardiovascular-health: target <span class="val">300</span>, P2</li>
+        <li>hypertension-management: target <span class="val">600</span>, P3</li>
+        <li>medication-safety: target <span class="val">150</span>, P3</li>
+      </ul>
+    </div>
+    <div class="note-card">
+      <h4>Word Classification</h4>
+      <ul>
+        <li><b>GENERIC_WORDS</b> (not counted as specific): blood, pressure, heart, health, diabetes, sugar, seniors, adults, over, age, high, low, normal</li>
+        <li><b>STOP_WORDS</b> (ignored entirely): a, an, the, of, for, in, how, does, can, what, etc.</li>
+        <li>Specific words = everything else with length > 2</li>
+      </ul>
+    </div>
+    <div class="note-card">
+      <h4>Trend Detection (for timeliness)</h4>
+      <ul>
+        <li>Based on 28-day GSC query baseline</li>
+        <li>recent 3d daily avg / total daily avg</li>
+        <li>ratio >= 1.5 = 'up'</li>
+        <li>ratio <= 0.5 = 'down'</li>
+        <li>else = 'stable'</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- ==================== LINE 3: DAILY PRODUCTION ==================== -->
+<div class="section">
+  <h2><span class="badge badge-prod">DAILY</span> Line 3: Article Generation Pipeline</h2>
+  <p class="desc">scripts/auto-generate-daily.ts - Inventory check, topic selection, article generation loop</p>
+  <div class="mermaid">
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#1e40af', 'primaryTextColor': '#f8fafc', 'primaryBorderColor': '#3b82f6', 'lineColor': '#64748b', 'background': '#1e293b', 'mainBkg': '#1e293b', 'nodeBorder': '#475569', 'edgeLabelBackground': '#1e293b', 'nodeTextColor': '#f8fafc' }}}%%
+flowchart TD
+  M1["<b>Step 1: Load Config</b><br/>automation-config.json<br/>projectStartDate: 2025-11-28"]
+  M2["<b>Step 2: Determine Target</b><br/>Day 1-20: 15/day<br/>Day 21-40: 20/day<br/>Day 41+: 5/day (current)<br/>Override: ARTICLES_COUNT_OVERRIDE env"]
+
+  M3{"<b>Step 3: Inventory Check</b><br/>getTotalTopicsCount()<br/>total >= 30?"}
+  M3OK["Sufficient"]
+  M3LOW["<b>Emergency Replenish</b><br/>selectTopicsForReplenishment(50)<br/>Sort by count ASC<br/>Per topic max: 20<br/>Per topic cap: 50 total"]
+  M3REP["<b>replenishMultipleTopics()</b><br/>FOR EACH low-stock topic:<br/>1. Qwen generate candidates<br/>2. Generate embedding per candidate<br/>3. checkTopicDuplicateWithExtra()<br/>   threshold: 0.85<br/>   compare vs articles + new accepted<br/>4. Cache embedding if accepted<br/>5. Loop until target or 10 attempts<br/>6. Break if pass rate < 10%<br/>delay: 300ms per candidate, 2s between topics"]
+
+  M4["<b>Step 4: Build Topic Pool</b>"]
+  M4U["<b>loadUrgentTopics()</b><br/>data/seo/urgent-topics.json<br/>Filter: expiresAt > now<br/>Maps to TopicWithSource:<br/>  title = 'Article about: {query}'<br/>  pk = t.suggestedPK<br/>  desc = t.reason<br/>  source = 'gsc-urgent'"]
+  M4R["<b>selectRandomTopicsForGeneration()</b><br/>count + 3 - urgentCount<br/>Sort all by score DESC<br/>Diversity: same cluster max ceil(count/clusters)<br/>at least 2 per cluster<br/>Overflow goes to skipped list"]
+  M4MERGE["Merged pool =<br/>[...urgent, ...regular]<br/>urgent topics consumed first"]
+
+  M5["<b>Step 5-8: Generation Loop</b><br/>while successCount < target<br/>AND topicIndex < pool.length"]
+
+  M5A["<b>5a: Generate Article Body</b><br/>generateArticleMarkdown(topic)<br/>Qwen Plus, temp: 0.7, top_p: 0.9<br/>Random tone from 3 options<br/>Word count: 1200-1800 fixed<br/>System: board-certified cardiologist<br/>Structure: H1 > Quick Answer > Key Facts<br/>> When to See Doctor > H2x3 > Conclusion > FAQ x5<br/>validateArticleBody(): min 500 words"]
+
+  M5B["<b>5b: Optimize Metadata</b><br/>optimizeMetadata(topic, body)<br/>Qwen Plus, temp: 0.3<br/>Input: topic fields + body preview (first 2000 chars)<br/>Output: title + pk + description + slug<br/>validateAndFixMetadata(): strict field checks<br/>Retry: up to 2 attempts<br/>Fallback: use original topic data"]
+
+  M5C["<b>5c: Embedding Dedup</b><br/>checkArticleDuplicate()<br/>text = title + desc + pk<br/>vs loadArticleEmbeddings()"]
+  M5C_OK["sim <= 0.80: PASS"]
+  M5C_FAIL{"sim > 0.80?"}
+  M5C_RETRY["<b>Retry with different angle</b><br/>Modify description:<br/>'Write DIFFERENT angle from {slug}'<br/>Re-generate full article<br/>Re-check dedup"]
+  M5C_RETRY2{"still > 0.80?"}
+  M5C_SKIP["SKIP topic<br/>Mark as consumed<br/>Continue to next in pool"]
+
+  M5D["<b>5d: Smart Internal Linking</b><br/>findSimilarArticlesForTopic()<br/>topK: 5, minSimilarity: 0.50<br/>Take: max(3, min(5, found))<br/>Set relatedSlugs on new article<br/>addBidirectionalLinkSmart() for each<br/>maxLinksPerArticle: 5"]
+
+  M5E["<b>5e: Write File</b><br/>frontmatterToYAML() - >- safe format<br/>content/articles/{slug}.md<br/>Inner --- check: throws if found"]
+
+  M5F["<b>5f: Save Embedding</b><br/>addEmbeddingForNewArticle()<br/>Incremental append"]
+
+  M5G["<b>5g: Mark Consumed</b><br/>slugify(topic.title) added to set<br/>delay: 1000ms between articles"]
+
+  M6["<b>Step 9: Post-Generation</b><br/>Remove consumed topics from planned-topics files<br/>Clear consumed urgent topics<br/>clearConsumedUrgentTopics(consumedPKs)"]
+
+  M7["<b>Step 10: Rebuild Index</b><br/>npm run build:articles-index<br/>Only if success > 0"]
+
+  M8["<b>Summary Output</b><br/>Day, stage, target, generated<br/>failed, dedup discarded<br/>inventory before/after"]
+
+  M1 --> M2 --> M3
+  M3 -->|"Yes"| M3OK --> M4
+  M3 -->|"No"| M3LOW --> M3REP --> M4
+  M4 --> M4U
+  M4 --> M4R
+  M4U --> M4MERGE
+  M4R --> M4MERGE
+  M4MERGE --> M5
+
+  M5 --> M5A --> M5B --> M5C
+  M5C --> M5C_OK
+  M5C --> M5C_FAIL
+  M5C_OK --> M5D --> M5E --> M5F --> M5G -->|"loop back"| M5
+  M5C_FAIL -->|"Yes"| M5C_RETRY --> M5C_RETRY2
+  M5C_RETRY2 -->|"No"| M5C_OK
+  M5C_RETRY2 -->|"Yes"| M5C_SKIP -->|"loop back"| M5
+
+  M5G -->|"target reached"| M6 --> M7 --> M8
+
+  style M1 fill:#14532d,stroke:#22c55e,color:#f8fafc
+  style M2 fill:#14532d,stroke:#22c55e,color:#f8fafc
+  style M3 fill:#14532d,stroke:#22c55e,color:#f8fafc
+  style M3OK fill:#14532d,stroke:#22c55e,color:#f8fafc
+  style M3LOW fill:#7f1d1d,stroke:#ef4444,color:#f8fafc
+  style M3REP fill:#4a1d96,stroke:#a855f7,color:#f8fafc
+  style M4 fill:#14532d,stroke:#22c55e,color:#f8fafc
+  style M4U fill:#7f1d1d,stroke:#ef4444,color:#f8fafc
+  style M4R fill:#3b1f4e,stroke:#a855f7,color:#f8fafc
+  style M4MERGE fill:#14532d,stroke:#22c55e,color:#f8fafc
+  style M5 fill:#334155,stroke:#64748b,color:#f8fafc
+  style M5A fill:#4a1d96,stroke:#a855f7,color:#f8fafc
+  style M5B fill:#4a1d96,stroke:#a855f7,color:#f8fafc
+  style M5C fill:#164e63,stroke:#06b6d4,color:#f8fafc
+  style M5C_OK fill:#14532d,stroke:#22c55e,color:#f8fafc
+  style M5C_FAIL fill:#164e63,stroke:#06b6d4,color:#f8fafc
+  style M5C_RETRY fill:#713f12,stroke:#f59e0b,color:#f8fafc
+  style M5C_RETRY2 fill:#713f12,stroke:#f59e0b,color:#f8fafc
+  style M5C_SKIP fill:#7f1d1d,stroke:#ef4444,color:#f8fafc
+  style M5D fill:#164e63,stroke:#06b6d4,color:#f8fafc
+  style M5E fill:#14532d,stroke:#22c55e,color:#f8fafc
+  style M5F fill:#164e63,stroke:#06b6d4,color:#f8fafc
+  style M5G fill:#334155,stroke:#64748b,color:#f8fafc
+  style M6 fill:#334155,stroke:#64748b,color:#f8fafc
+  style M7 fill:#14532d,stroke:#22c55e,color:#f8fafc
+  style M8 fill:#14532d,stroke:#22c55e,color:#f8fafc
+  </div>
+
+  <div class="note-grid">
+    <div class="note-card">
+      <h4>Article Body Generation (Qwen Plus)</h4>
+      <ul>
+        <li>System role: <span class="val">board-certified cardiologist</span></li>
+        <li>Target age: <span class="val">adults aged 35 and above</span></li>
+        <li>3 random tones: educational/conversational/reassuring</li>
+        <li>Word count always: <span class="val">1200-1800</span> (no random range)</li>
+        <li>Required structure sections: H1, Quick Answer, Key Facts (5+), When to See Doctor (4-5 thresholds), H2 Understanding, H2 Actions, H2 Monitoring, Conclusion, FAQ (5 items)</li>
+        <li>GEO rules: PK 4-6x, 3-5 synonyms, AI-quotable paragraphs, medical term bridges, 2+ guideline refs</li>
+      </ul>
+    </div>
+    <div class="note-card">
+      <h4>Metadata Optimization (Qwen Plus)</h4>
+      <ul>
+        <li>Temperature: <span class="val">0.3</span> (low creative, high accuracy)</li>
+        <li>Input: topic fields + first 2000 chars of body</li>
+        <li>PK validation: 15-60 chars, no jargon, <code>---</code> replaced with <code>—</code></li>
+        <li>Title validation: 30-70 chars, YAML-safe</li>
+        <li>Description validation: 80-160 chars, no newlines</li>
+        <li>Slug validation: lowercase + digits + hyphens, max 80 chars</li>
+        <li>Cluster: matchTopicCluster() maps to 20 existing clusters</li>
+      </ul>
+    </div>
+    <div class="note-card">
+      <h4>Emergency Replenish Details</h4>
+      <ul>
+        <li>Trigger: total topics < <span class="val">30</span></li>
+        <li>Target: <span class="val">50</span> new topics</li>
+        <li>Sort by count ASC (lowest stock first)</li>
+        <li>Per topic single batch: max <span class="val">20</span></li>
+        <li>Per topic total cap: <span class="val">50</span></li>
+        <li>Dedup: embedding-based, threshold <span class="val">0.85</span></li>
+        <li>Includes: extraEmbeddings (newly accepted in same session)</li>
+        <li>Max attempts: <span class="val">10</span> rounds per topic</li>
+        <li>Early exit: acceptance rate < <span class="val">10%</span></li>
+        <li>Rate limits: <span class="val">300ms</span> per candidate, <span class="val">2s</span> between topics</li>
+      </ul>
+    </div>
+    <div class="note-card">
+      <h4>Topic Consumption Logic</h4>
+      <ul>
+        <li>Both successful AND failed topics are consumed (marked via slugify)</li>
+        <li>Dedup-discarded topics are also consumed</li>
+        <li>Removal: filter planned-topics by slugified title match</li>
+        <li>Urgent topics: removed by suggestedPK match in clearConsumedUrgentTopics()</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- ==================== PERPLEXITY COMPARISON ==================== -->
+<div class="section">
+  <h2><span class="badge badge-api">API</span> Perplexity API - Two Call Sites Comparison</h2>
+  <p class="desc">lib/seo/llm-analyzer.ts - discoverUserQuestions() - Same function, different usage contexts</p>
+
+  <div class="note-grid">
+    <div class="note-card" style="border-color: #ef4444;">
+      <h4>Call Site 1: Daily Urgent (gsc-daily-analysis.ts:239)</h4>
+      <ul>
+        <li><b>Trigger:</b> GSC alert with score >= 50</li>
+        <li><b>Frequency:</b> 0-3 times per day</li>
+        <li><b>Call:</b> <code>discoverUserQuestions(alert.query)</code></li>
+        <li><b>existingTopics:</b> <span class="val">NOT passed</span> (empty default)</li>
+        <li><b>Questions used:</b> <span class="val">top 5</span> (from 15 returned)</li>
+        <li><b>Injection point:</b> Appended to <code>alertReason</code> string for Qwen convertUrgentQueryToTopic()</li>
+        <li><b>Purpose:</b> Understand what real users ask about the trending query</li>
+      </ul>
+    </div>
+    <div class="note-card" style="border-color: #a855f7;">
+      <h4>Call Site 2: Weekly Refresh (weekly-topic-refresh.ts:183)</h4>
+      <ul>
+        <li><b>Trigger:</b> Weekly run, for P1 + P2 priority keywords</li>
+        <li><b>Frequency:</b> 3-4 times per week (P1: cholesterol, diabetes, exercise + P2: healthy eating)</li>
+        <li><b>Call:</b> <code>discoverUserQuestions(keyword, existingTitles.slice(0,20))</code></li>
+        <li><b>existingTopics:</b> <span class="val">PASSED</span> (up to 20 titles per keyword)</li>
+        <li><b>Questions used:</b> <span class="val">up to 8</span> injected as angles</li>
+        <li><b>Injection point:</b> Added to <code>enrichedAngles[]</code> for Qwen generateTopicCandidatesForKeyword()</li>
+        <li><b>Also injects:</b> competitorCoverage + whyItMatters as angle entries</li>
+        <li><b>Purpose:</b> Find content gaps and real user needs for topic generation</li>
+        <li><b>Delay:</b> 500ms between calls</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="note-grid" style="margin-top: 16px;">
+    <div class="note-card">
+      <h4>Shared: Perplexity API Config</h4>
+      <ul>
+        <li>Endpoint: <code>https://api.perplexity.ai/chat/completions</code></li>
+        <li>Model: <span class="val">sonar</span></li>
+        <li>Temperature: <span class="val">0.2</span></li>
+        <li>System: "health content researcher"</li>
+        <li>Target audience in prompt: "adults (age 35+)"</li>
+        <li>Returns JSON: {questions[15], competitorCoverage, whyItMatters}</li>
+        <li>Graceful failure: returns empty structure, flow continues</li>
+        <li>Auth: <code>PERPLEXITY_API_KEY</code> env var</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- ==================== DATA FILES ==================== -->
+<div class="data-table">
+  <h2>Data Files & Flow</h2>
+  <table>
+    <thead>
+      <tr><th>File</th><th>Written By</th><th>Read By</th><th>Content</th><th>Lifecycle</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="file-ref">data/seo/raw/{date}.json</td>
+        <td>gsc-daily-analysis</td>
+        <td>weekly-topic-refresh, topic-scorer</td>
+        <td>GSC daily queries + pages + summary</td>
+        <td>Auto-cleaned > 12 months</td>
+      </tr>
+      <tr>
+        <td class="file-ref">data/seo/analysis/daily-{date}.json</td>
+        <td>gsc-daily-analysis</td>
+        <td>gsc-daily-analysis (same run)</td>
+        <td>Trend alerts (SURGE/NEW_QUERY/RANK_JUMP)</td>
+        <td>Auto-cleaned > 12 months</td>
+      </tr>
+      <tr>
+        <td class="file-ref">data/seo/urgent-topics.json</td>
+        <td>gsc-daily-analysis</td>
+        <td>auto-generate-daily</td>
+        <td>0-3 urgent topics with Perplexity questions</td>
+        <td>3-day TTL per topic</td>
+      </tr>
+      <tr>
+        <td class="file-ref">data/planned-topics-{category}.json</td>
+        <td>weekly-topic-refresh, replenish</td>
+        <td>auto-generate-daily</td>
+        <td>Scored topics per category</td>
+        <td>Weekly refresh (score < 30 pruned)</td>
+      </tr>
+      <tr>
+        <td class="file-ref">data/articles-index.json</td>
+        <td>build:articles-index script</td>
+        <td>topic-scorer, replenish, weekly-refresh</td>
+        <td>All published article metadata</td>
+        <td>Rebuilt after each generation</td>
+      </tr>
+      <tr>
+        <td class="file-ref">data/articles-embeddings.json</td>
+        <td>addEmbeddingForNewArticle</td>
+        <td>checkArticleDuplicate, findSimilarArticles</td>
+        <td>1024-dim vectors for all articles</td>
+        <td>Incremental append</td>
+      </tr>
+      <tr>
+        <td class="file-ref">data/seo/analysis/weekly-{week}.json</td>
+        <td>weekly-topic-refresh</td>
+        <td>(report only)</td>
+        <td>Weekly report with Perplexity insights</td>
+        <td>Persistent</td>
+      </tr>
+      <tr>
+        <td class="file-ref">content/articles/{slug}.md</td>
+        <td>auto-generate-daily</td>
+        <td>Next.js build, build:articles-index</td>
+        <td>Article with YAML >- frontmatter + body</td>
+        <td>Permanent</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- ==================== ALL THRESHOLDS ==================== -->
+<div class="data-table">
+  <h2>Complete Threshold & Parameter Reference</h2>
+  <table>
+    <thead>
+      <tr><th>Parameter</th><th>Value</th><th>Source File</th><th>Used In</th><th>Notes</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>SURGE_THRESHOLD</td><td class="val">3.0</td><td class="file-ref">trend-detector.ts:48</td><td>Daily trend detection</td><td>Recent daily avg / baseline daily avg</td></tr>
+      <tr><td>MIN_IMPRESSIONS_FOR_SURGE</td><td class="val">3</td><td class="file-ref">trend-detector.ts:50</td><td>Daily trend detection</td><td>Filter out noise</td></tr>
+      <tr><td>RANK_JUMP_THRESHOLD</td><td class="val">10</td><td class="file-ref">trend-detector.ts:49</td><td>Daily trend detection</td><td>Position improvement in places</td></tr>
+      <tr><td>NEW_QUERY_MIN_DAYS</td><td class="val">2</td><td class="file-ref">trend-detector.ts:51</td><td>Daily trend detection</td><td>New query must appear 2+ days</td></tr>
+      <tr><td>High alert threshold</td><td class="val">>= 50</td><td class="file-ref">gsc-daily-analysis.ts:229</td><td>Urgent topic creation</td><td>Only score>=50 → Perplexity+LLM</td></tr>
+      <tr><td>Max urgent alerts processed</td><td class="val">3</td><td class="file-ref">gsc-daily-analysis.ts:235</td><td>Urgent topic creation</td><td>.slice(0, 3)</td></tr>
+      <tr><td>Urgent topic TTL</td><td class="val">3 days</td><td class="file-ref">gsc-daily-analysis.ts:272</td><td>Urgent topic lifecycle</td><td>expiresAt = now + 3d</td></tr>
+      <tr><td>Urgent topic dedup</td><td class="val">0.80</td><td class="file-ref">gsc-daily-analysis.ts:313</td><td>Urgent topic dedup</td><td>Same as article dedup</td></tr>
+      <tr><td>WEEKLY_TARGET</td><td class="val">35</td><td class="file-ref">weekly-topic-refresh.ts:29</td><td>Weekly topic count</td><td>7 days x 5 articles/day</td></tr>
+      <tr><td>Topic keep score</td><td class="val">>= 30</td><td class="file-ref">weekly-topic-refresh.ts:57</td><td>Weekly prune</td><td>Old topics below 30 discarded</td></tr>
+      <tr><td>Perplexity questions injected (weekly)</td><td class="val">8</td><td class="file-ref">weekly-topic-refresh.ts:235</td><td>Angle enrichment</td><td>.slice(0, 8) of 15 returned</td></tr>
+      <tr><td>Perplexity questions used (daily)</td><td class="val">5</td><td class="file-ref">gsc-daily-analysis.ts:243</td><td>Urgent topic prompt</td><td>.slice(0, 5) of 15 returned</td></tr>
+      <tr><td>totalMinThreshold</td><td class="val">30</td><td class="file-ref">automation-config.json</td><td>Inventory check</td><td>Below triggers emergency replenish</td></tr>
+      <tr><td>targetReplenishAmount</td><td class="val">50</td><td class="file-ref">automation-config.json</td><td>Emergency replenish</td><td>Total topics to add</td></tr>
+      <tr><td>MAX_TITLES_PER_TOPIC</td><td class="val">50</td><td class="file-ref">manager.ts:166</td><td>Replenish cap</td><td>Per-topic inventory ceiling</td></tr>
+      <tr><td>MAX_REPLENISH_PER_TOPIC</td><td class="val">20</td><td class="file-ref">manager.ts:167</td><td>Replenish per-batch</td><td>Single replenish max per topic</td></tr>
+      <tr><td>Topic dedup threshold</td><td class="val">0.85</td><td class="file-ref">automation-config.json</td><td>replenish.ts dedup</td><td>Cosine similarity, includes extraEmbeddings</td></tr>
+      <tr><td>maxAttempts (replenish)</td><td class="val">10</td><td class="file-ref">automation-config.json</td><td>replenish.ts loop</td><td>Generation rounds</td></tr>
+      <tr><td>expectedPassRate</td><td class="val">0.7</td><td class="file-ref">automation-config.json</td><td>Batch size calc</td><td>batchSize = ceil(remaining / 0.7)</td></tr>
+      <tr><td>delayBetweenAttempts</td><td class="val">300ms</td><td class="file-ref">automation-config.json</td><td>Replenish rate limit</td><td>Per candidate</td></tr>
+      <tr><td>DEDUP_SIMILARITY_THRESHOLD</td><td class="val">0.80</td><td class="file-ref">auto-generate-daily.ts:28</td><td>Article dedup</td><td>Dedup retry: 1 attempt max</td></tr>
+      <tr><td>Internal link min similarity</td><td class="val">0.50</td><td class="file-ref">auto-generate-daily.ts:458</td><td>findSimilarArticlesForTopic</td><td>Minimum to recommend as related</td></tr>
+      <tr><td>Internal link topK</td><td class="val">5</td><td class="file-ref">auto-generate-daily.ts:457</td><td>Smart linking</td><td>Max related articles returned</td></tr>
+      <tr><td>maxLinksPerArticle</td><td class="val">5</td><td class="file-ref">auto-generate-daily.ts:476</td><td>Bidirectional linking</td><td>Cap on relatedSlugs per article</td></tr>
+      <tr><td>Embedding dimensions</td><td class="val">1024</td><td class="file-ref">lib/embeddings/qwen.ts</td><td>All embedding ops</td><td>Qwen text-embedding-v4</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- ==================== KNOWN ISSUES ==================== -->
+<div class="data-table">
+  <h2>Known Issues & Inconsistencies (from code review)</h2>
+  <table>
+    <thead>
+      <tr><th>Issue</th><th>Location</th><th>Impact</th><th>Details</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>loadUrgentTopics() field mismatch</td>
+        <td class="file-ref">auto-generate-daily.ts:283-305</td>
+        <td>Urgent topics may not use LLM-optimized metadata</td>
+        <td>Uses t.query/t.suggestedPK/t.reason instead of t.title/t.primaryKeyword/t.description. The LLM-generated fields exist in the JSON but are ignored at read time.</td>
+      </tr>
+      <tr>
+        <td>siteInfo says "50+" in weekly LLM</td>
+        <td class="file-ref">weekly-topic-refresh.ts:144</td>
+        <td>Minor - LLM may optimize for wrong age group</td>
+        <td>All other prompts updated to "35+" but runWeeklyDeepAnalysis still says "50+老年人心血管健康网站"</td>
+      </tr>
+      <tr>
+        <td>No embedding dedup in weekly refresh</td>
+        <td class="file-ref">weekly-topic-refresh.ts</td>
+        <td>Potential duplicate topics in library</td>
+        <td>Weekly refresh relies only on text-level alreadyPlannedTitles for dedup. Emergency replenish uses embedding dedup (0.85). Article-level dedup (0.80) is the last defense.</td>
+      </tr>
+      <tr>
+        <td>GitHub Actions cron disabled</td>
+        <td class="file-ref">.github/workflows/daily-article-generation.yml:3-5</td>
+        <td>No automated daily execution</td>
+        <td>schedule commented out. Only manual workflow_dispatch available. Missing Perplexity key in workflow env.</td>
+      </tr>
+      <tr>
+        <td>Perplexity key not in workflow</td>
+        <td class="file-ref">.github/workflows/daily-article-generation.yml:48</td>
+        <td>GSC daily and weekly scripts won't have Perplexity access in CI</td>
+        <td>Only QWEN_API_KEY is passed. PERPLEXITY_API_KEY and GSC credentials not configured.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- ==================== LLM CALLS SUMMARY ==================== -->
+<div class="data-table">
+  <h2>All LLM / API Calls - Complete Inventory</h2>
+  <table>
+    <thead>
+      <tr><th>Call</th><th>Model</th><th>Temp</th><th>Where</th><th>Input</th><th>Output</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>GSC data pull</td>
+        <td>Google Search Console API</td>
+        <td>-</td>
+        <td>gsc-daily-analysis</td>
+        <td>Date range, dimensions</td>
+        <td>Queries + pages with metrics</td>
+      </tr>
+      <tr>
+        <td>Perplexity search</td>
+        <td class="val">sonar</td>
+        <td class="val">0.2</td>
+        <td>llm-analyzer.ts</td>
+        <td>Keyword + optional existing titles</td>
+        <td>15 questions + competitor + trending</td>
+      </tr>
+      <tr>
+        <td>Weekly deep analysis</td>
+        <td class="val">qwen-plus-latest</td>
+        <td class="val">0.3</td>
+        <td>llm-analyzer.ts</td>
+        <td>GSC queries/pages + site info</td>
+        <td>Intent analysis + CTR anomalies + optimizations</td>
+      </tr>
+      <tr>
+        <td>Urgent topic conversion</td>
+        <td class="val">qwen-plus-latest</td>
+        <td class="val">0.4</td>
+        <td>llm-analyzer.ts</td>
+        <td>Query + metrics + Perplexity questions</td>
+        <td>title + pk + desc + cluster + reasoning</td>
+      </tr>
+      <tr>
+        <td>Topic candidate generation</td>
+        <td class="val">qwen-plus-latest</td>
+        <td>varies</td>
+        <td>qwen-topics.ts</td>
+        <td>Keyword + existing titles/PKs + angles</td>
+        <td>Batch of topic candidates</td>
+      </tr>
+      <tr>
+        <td>Article body generation</td>
+        <td class="val">qwen-plus-latest</td>
+        <td class="val">0.7</td>
+        <td>qwen-articles.ts</td>
+        <td>Topic title + PK + coreKeyword + tone</td>
+        <td>1200-1800 word markdown article</td>
+      </tr>
+      <tr>
+        <td>Metadata optimization</td>
+        <td class="val">qwen-plus-latest</td>
+        <td class="val">0.3</td>
+        <td>qwen-articles.ts</td>
+        <td>Topic fields + first 2000 chars of body</td>
+        <td>Optimized title + pk + desc + slug</td>
+      </tr>
+      <tr>
+        <td>Embedding generation</td>
+        <td class="val">text-embedding-v4</td>
+        <td>-</td>
+        <td>embeddings/qwen.ts</td>
+        <td>title + desc + pk concatenated</td>
+        <td>1024-dim float vector</td>
+      </tr>
+      <tr>
+        <td>Article optimization suggestions</td>
+        <td class="val">qwen-plus-latest</td>
+        <td class="val">0.3</td>
+        <td>llm-analyzer.ts</td>
+        <td>High-impression low-CTR pages + GSC queries</td>
+        <td>Suggested title/desc/pk per article</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<script>
+  mermaid.initialize({
+    startOnLoad: true,
+    theme: 'dark',
+    securityLevel: 'loose',
+    flowchart: {
+      useMaxWidth: true,
+      htmlLabels: true,
+      curve: 'basis',
+      nodeSpacing: 25,
+      rankSpacing: 35,
+    }
+  });
+</script>
+
+</body>
+</html>

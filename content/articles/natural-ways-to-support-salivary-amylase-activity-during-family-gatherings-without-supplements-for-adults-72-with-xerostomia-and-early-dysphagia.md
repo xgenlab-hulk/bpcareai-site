@@ -47,22 +47,22 @@ In closing, supporting natural salivary amylase activity doesn’t require pills
 
 ### FAQ
 
-#### #### Can salivary amylase support xerostomia dysphagia really be improved without medication?
+#### Can salivary amylase support xerostomia dysphagia really be improved without medication?
 
 Yes—studies confirm that sensory priming techniques (e.g., chilled citrus inhalation, thermal contrast sequencing) significantly increase salivary flow rate and amylase concentration in adults with xerostomia, even when baseline production is low. These methods work by activating the trigeminal and glossopharyngeal nerves, which signal the salivary nuclei directly.
 
-#### #### What foods best support salivary amylase activity in older adults with dry mouth?
+#### What foods best support salivary amylase activity in older adults with dry mouth?
 
 Mildly acidic, cool-to-room-temperature foods—like unsweetened yogurt with grated lemon zest, chilled pear slices, or cucumber ribbons with a hint of lime—provide safe, effective stimulation. Avoid highly sugared or sticky starches (e.g., white bread, pastries) as first bites, since they demand more amylase than may be available.
 
-#### #### Is salivary amylase support xerostomia dysphagia relevant for someone with controlled high blood pressure?
+#### Is salivary amylase support xerostomia dysphagia relevant for someone with controlled high blood pressure?
 
 Absolutely. Hypertension management often involves medications (e.g., ACE inhibitors, beta-blockers) that contribute to xerostomia. Supporting salivary amylase activity helps maintain safe oral processing—reducing strain on the cardiovascular system during swallowing, which can transiently elevate systolic BP by 20–30 mm Hg in vulnerable individuals.
 
-#### #### How long does it take to notice changes with these natural techniques?
+#### How long does it take to notice changes with these natural techniques?
 
 Most people report subjective improvements—such as earlier moisture onset or smoother first swallows—within 3–5 family meals when practicing consistently. Objective increases in salivary amylase activity are measurable via chairside assays after 2 weeks of regular use.
 
-#### #### Are there risks to submandibular massage for older adults?
+#### Are there risks to submandibular massage for older adults?
 
 When performed gently (light pressure, upward motion, ≤30 seconds), submandibular massage is low-risk. Avoid if you have active neck swelling, recent neck surgery, or uncontrolled hypertension (systolic >160 mm Hg). Always stop if discomfort or dizziness occurs.

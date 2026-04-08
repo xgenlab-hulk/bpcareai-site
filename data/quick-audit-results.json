@@ -1,0 +1,108 @@
+{
+  "audit_date": "2026-03-11",
+  "audit_method": "rule-based-quick-check",
+  "summary": {
+    "total_articles": 2209,
+    "needs_optimization_count": 1820,
+    "percentage": "82.4%",
+    "score_distribution": {
+      "excellent_85+": 389,
+      "good_70-84": 738,
+      "needs_work_<70": 1082
+    }
+  },
+  "needs_optimization": [
+    {
+      "slug": "the-truth-about-normal-bp-variability-why-24-hour-sd-15-mmhg-predicts-microinfarct-burden-in-adults-69-with-white-matter-hyperintensities",
+      "primaryKeyword": "blood pressure variability and brain health",
+      "score": 80,
+      "issues": [
+        "lacks_audience"
+      ],
+      "needs_optimization": true
+    },
+    {
+      "slug": "natural-ways-to-support-pancreatic-beta-cell-resilience-without-stimulating-insulin-secretion-using-sulforaphane-timing-low-dose-lithium-in-adults-56-64-with-early-beta-cell-decline",
+      "primaryKeyword": "health management seniors",
+      "score": 65,
+      "issues": [
+        "uses_generic_terms"
+      ],
+      "needs_optimization": true
+    },
+    {
+      "slug": "myths-vs-facts-about-salt-sensitivity-after-60-why-3-000-mg-sodium-can-be-safe-or-harmful-depending-on-your-enac-genotype-and-gut-microbiome-profile",
+      "primaryKeyword": "salt sensitivity genetics microbiome aging",
+      "score": 40,
+      "issues": [
+        "no_medical_keyword",
+        "lacks_audience"
+      ],
+      "needs_optimization": true
+    },
+    {
+      "slug": "why-does-blood-pressure-spike-during-morning-commutes-not-just-stress-in-adults-58-67-with-subclinical-carotid-plaque",
+      "primaryKeyword": "morning blood pressure spike traffic exposure",
+      "score": 80,
+      "issues": [
+        "lacks_audience"
+      ],
+      "needs_optimization": true
+    },
+    {
+      "slug": "when-to-skip-the-family-dessert-table-entirely-5-clinical-indicators-that-signal-high-risk-carbohydrate-load-for-adults-69-with-diabetic-gastroparesis",
+      "primaryKeyword": "skip dessert diabetic gastroparesis seniors",
+      "score": 60,
+      "issues": [
+        "no_medical_keyword"
+      ],
+      "needs_optimization": true
+    },
+    {
+      "slug": "what-research-says-about-late-night-protein-timing-effects-on-overnight-glucose-stability-and-growth-hormone-pulses-in-adults-63-with-prediabetes",
+      "primaryKeyword": "late-night protein and blood sugar",
+      "score": 80,
+      "issues": [
+        "lacks_audience"
+      ],
+      "needs_optimization": true
+    },
+    {
+      "slug": "myths-vs-facts-you-can-reverse-type-2-diabetes-with-diet-alone-what-15-year-remission-data-shows-for-adults-diagnosed-after-age-55",
+      "primaryKeyword": "type 2 diabetes reversal after 55",
+      "score": 80,
+      "issues": [
+        "lacks_audience"
+      ],
+      "needs_optimization": true
+    },
+    {
+      "slug": "5-things-every-man-over-65-taking-testosterone-replacement-should-know-about-its-effect-on-insulin-receptor-tyrosine-kinase-activity-and-glucose-uptake-efficiency",
+      "primaryKeyword": "testosterone therapy and insulin resistance",
+      "score": 40,
+      "issues": [
+        "no_medical_keyword",
+        "lacks_audience"
+      ],
+      "needs_optimization": true
+    },
+    {
+      "slug": "warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-not-just-bloating-in-adults-70-with-long-term-ppi-use",
+      "primaryKeyword": "holiday leftovers gut dysbiosis ppi seniors",
+      "score": 60,
+      "issues": [
+        "no_medical_keyword"
+      ],
+      "needs_optimization": true
+    },
+    {
+      "slug": "5-things-every-woman-over-64-taking-low-dose-hrt-should-know-about-holiday-alcohol-interactions-and-hepatic-cyp2c9-saturation",
+      "primaryKeyword": "hrt alcohol metabolism seniors women",
+      "score": 60,
+      "issues": [
+        "no_medical_keyword"
+      ],
+      "needs_optimization": true
+    }
+  ]
+}

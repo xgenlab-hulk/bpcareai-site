@@ -61,17 +61,17 @@ In closing, caring for your health during the holidays doesn’t mean sacrificin
 
 ### FAQ
 
-#### #### Can gratitude walks post-holiday dinner really lower inflammation in older adults?  
+#### Can gratitude walks post-holiday dinner really lower inflammation in older adults?  
 Yes—the 2024 trial demonstrated statistically significant reductions in IL-6 and TNF-α among adults 64+ who practiced 10-minute gratitude walks after meals, particularly when hs-CRP was elevated.
 
-#### #### How soon after dinner should I do a gratitude walk post-holiday dinner?  
+#### How soon after dinner should I do a gratitude walk post-holiday dinner?  
 Ideally within 20–40 minutes. That timing coincides with early postprandial metabolic activity and appears optimal for modulating glucose and inflammatory responses.
 
-#### #### Are gratitude walks post-holiday dinner helpful for people with prediabetes?  
+#### Are gratitude walks post-holiday dinner helpful for people with prediabetes?  
 Yes. Participants with prediabetes showed the greatest improvements in MAGE scores—suggesting enhanced glucose stability—when combining walking with gratitude reflection versus walking alone.
 
-#### #### Do I need a fitness tracker or glucose monitor to benefit?  
+#### Do I need a fitness tracker or glucose monitor to benefit?  
 No. The study measured outcomes via clinical labs and validated surveys—not wearable data. Consistency and intention matter more than metrics—though tracking can deepen awareness over time.
 
-#### #### Is this safe if I have knee or hip discomfort?  
+#### Is this safe if I have knee or hip discomfort?  
 Absolutely—many participants modified the walk (slower pace, shorter duration, indoor pacing, seated gratitude breathing) and still experienced benefits. Always honor your body’s signals and consult your physical therapist or physician if pain persists.

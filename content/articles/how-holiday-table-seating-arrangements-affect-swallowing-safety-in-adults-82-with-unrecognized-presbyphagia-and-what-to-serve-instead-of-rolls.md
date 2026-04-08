@@ -97,17 +97,17 @@ The holidays are about presence, warmth, and shared humanity—not perfection. I
 
 ### FAQ
 
-#### #### What is presbyphagia—and is it the same as dysphagia?
+#### What is presbyphagia—and is it the same as dysphagia?
 Presbyphagia refers specifically to the natural, age-related changes in swallowing physiology—such as slower pharyngeal transit, reduced tongue base retraction, and milder laryngeal closure—that occur in most adults over 70. Dysphagia is a broader term for any swallowing disorder, often due to disease or injury. Presbyphagia is common and typically mild; dysphagia may require targeted therapy.
 
-#### #### How does holiday seating swallowing safety presbyphagia affect older adults during family meals?
+#### How does holiday seating swallowing safety presbyphagia affect older adults during family meals?
 Holiday seating swallowing safety presbyphagia matters because prolonged sitting in reclined or unstable positions—combined with distractions like conversation, background noise, or fatigue—can slow pharyngeal clearance and increase aspiration risk, even in people with no prior diagnosis. Upright, supported seating with minimal head rotation helps maintain safe, efficient swallowing.
 
-#### #### Can changing my chair really improve my swallowing safety during holiday meals?
+#### Can changing my chair really improve my swallowing safety during holiday meals?
 Yes—research shows that moving from a 120° reclined chair to a 90° upright chair improves pharyngeal transit time by ~0.6 seconds and reduces post-swallow residue by approximately 28%. Even small postural shifts, when practiced consistently, support safer swallowing in adults with presbyphagia.
 
-#### #### What are the best holiday foods for someone with presbyphagia?
+#### What are the best holiday foods for someone with presbyphagia?
 Focus on foods that are moist, cohesive, and easy to chew and swallow—like creamy mashed potatoes with roasted garlic, tender braised greens, baked apples with cinnamon, or soft herb-seasoned turkey loaf. Avoid dry, crumbly, or stringy items (e.g., plain rolls, tough meats, raw vegetables). Always prioritize flavor and familiarity—safety and enjoyment go hand in hand.
 
-#### #### Does healthy eating during family gatherings mean giving up tradition?
+#### Does healthy eating during family gatherings mean giving up tradition?
 Not at all. Healthy eating during family gatherings means adapting tradition with care—keeping beloved flavors and rituals intact while adjusting texture, moisture, and pacing to match changing needs. A softly spiced sweet potato casserole or herb-infused polenta “roll” carries the same warmth and intention as its classic counterpart—just with added support for lifelong well-being.

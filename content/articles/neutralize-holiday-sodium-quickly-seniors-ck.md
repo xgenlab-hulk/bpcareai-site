@@ -60,22 +60,22 @@ It’s okay to enjoy the holidays. With thoughtful choices, you can savor flavor
 
 ### FAQ
 
-#### #### Can I really neutralize holiday sodium quickly seniors ck without medication?
+#### Can I really neutralize holiday sodium quickly seniors ck without medication?
 
 Yes—using carefully timed, low-potassium foods and gentle hydration can support your body’s natural sodium clearance within 20 minutes. This isn’t about “flushing” sodium, but helping your kidneys manage it more efficiently—especially important when eGFR is reduced.
 
-#### #### What are the safest potassium-rich foods for neutralize holiday sodium quickly seniors ck?
+#### What are the safest potassium-rich foods for neutralize holiday sodium quickly seniors ck?
 
 Think “small and steady”: ¼ cup cooked carrots (110 mg K), 2 tbsp mashed sweet potato (no added salt, 100 mg K), or 3 cherry tomatoes (60 mg K). Avoid high-potassium items like oranges, spinach, or dried fruit unless approved by your renal dietitian.
 
-#### #### Does neutralize holiday sodium quickly seniors ck help with blood pressure spikes?
+#### Does neutralize holiday sodium quickly seniors ck help with blood pressure spikes?
 
 It can—studies show coordinated potassium intake + paced hydration may blunt post-meal systolic BP rises by 4–7 mm Hg in adults 70+ with CKD Stage 3. It’s not a replacement for meds, but a meaningful part of daily self-care.
 
-#### #### Is walking after dinner helpful for sodium balance?
+#### Is walking after dinner helpful for sodium balance?
 
 Light movement (like a 5-minute stroll) *after* using the 20-minute sequence may support circulation—but avoid vigorous activity right after eating, which can divert blood from kidneys.
 
-#### #### How much sodium is too much for someone with CKD Stage 3 during the holidays?
+#### How much sodium is too much for someone with CKD Stage 3 during the holidays?
 
 The National Kidney Foundation recommends ≤2,000 mg/day for most with CKD Stage 3. One slice of store-bought stuffing can contain 450 mg—and a single tablespoon of soy sauce adds 900 mg. Reading labels and choosing fresh, whole ingredients makes the biggest difference.

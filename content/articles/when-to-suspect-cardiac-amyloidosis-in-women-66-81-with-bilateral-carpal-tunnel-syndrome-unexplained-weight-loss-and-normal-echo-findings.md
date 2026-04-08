@@ -60,22 +60,22 @@ In closing, discovering that symptoms like carpal tunnel, weight loss, and subtl
 
 ### FAQ
 
-#### #### Could bilateral carpal tunnel syndrome be linked to cardiac amyloidosis in older women?
+#### Could bilateral carpal tunnel syndrome be linked to cardiac amyloidosis in older women?
 
 Yes—particularly when it appears years before heart symptoms. In women aged 66–81, bilateral CTS is part of the well-documented *cardiac amyloidosis carpal tunnel women weight loss* triad and warrants thoughtful cardiac assessment.
 
-#### #### What does unexplained weight loss mean in the context of cardiac amyloidosis carpal tunnel women weight loss?
+#### What does unexplained weight loss mean in the context of cardiac amyloidosis carpal tunnel women weight loss?
 
 Unexplained weight loss typically means losing 5% or more of your body weight over 6–12 months without trying—often accompanied by reduced appetite or early satiety. When paired with bilateral carpal tunnel, it strengthens suspicion for systemic amyloid involvement.
 
-#### #### Is cardiac amyloidosis common in women over 70 with normal echocardiograms?
+#### Is cardiac amyloidosis common in women over 70 with normal echocardiograms?
 
 It’s underrecognized—not rare. Studies suggest up to 13% of women over 70 with heart failure and preserved ejection fraction may have ATTR cardiac amyloidosis, even with “normal” wall thickness on echo. That’s why the *cardiac amyloidosis carpal tunnel women weight loss* pattern is such a valuable clue.
 
-#### #### Can an ECG look abnormal even if my echo is normal?
+#### Can an ECG look abnormal even if my echo is normal?
 
 Absolutely. Low-voltage QRS complexes on ECG—especially with preserved or only mildly increased wall thickness—are a hallmark red flag. This mismatch is one reason why ECG and echo should be reviewed together, not in isolation.
 
-#### #### Does carpal tunnel always mean I have heart disease?
+#### Does carpal tunnel always mean I have heart disease?
 
 No—carpal tunnel is very common and usually unrelated to heart issues. But when it’s bilateral, long-standing, and occurs alongside other clues like weight loss and fatigue in later life, it’s worth discussing with your provider as part of a broader health picture.

@@ -80,22 +80,22 @@ Understanding *inhaled steroids gluconeogenesis diabetes* isn’t about alarm—
 
 ### FAQ
 
-#### #### Do inhaled steroids cause gluconeogenesis in people with diabetes?
+#### Do inhaled steroids cause gluconeogenesis in people with diabetes?
 
 Yes—especially in adults over 65. Even low-dose inhaled corticosteroids like budesonide can activate glucocorticoid receptors in the liver, increasing expression of PEPCK and other gluconeogenic enzymes. This raises fasting blood glucose, independent of insulin secretion. The effect is modest but clinically meaningful in older adults with existing insulin resistance.
 
-#### #### How do inhaled steroids gluconeogenesis diabetes interactions differ from oral steroids?
+#### How do inhaled steroids gluconeogenesis diabetes interactions differ from oral steroids?
 
 Oral steroids produce much higher systemic exposure (e.g., prednisone 5 mg yields ~75% bioavailability), leading to broader metabolic effects—including pronounced insulin resistance and muscle catabolism. In contrast, inhaled steroids gluconeogenesis diabetes effects are more selective: primarily hepatic glucose overproduction, with less impact on peripheral glucose uptake—making fasting glucose the most sensitive marker.
 
-#### #### Can inhaled budesonide raise blood sugar in elderly patients with type 2 diabetes?
+#### Can inhaled budesonide raise blood sugar in elderly patients with type 2 diabetes?
 
 Absolutely. Studies show adults 65–81 on maintenance budesonide (200–400 mcg/day) experience average fasting glucose increases of 12–18 mg/dL. This is linked to age-associated upregulation of hepatic glucocorticoid receptors and slower cortisol clearance—both of which amplify the drug’s effect on gluconeogenic genes like *PCK1*.
 
-#### #### Does inhaled steroid use affect A1c levels?
+#### Does inhaled steroid use affect A1c levels?
 
 It can—but often modestly. In longer-term studies (6+ months), average A1c rose by 0.2–0.4 percentage points in older adults on inhaled corticosteroids. Because A1c reflects 90-day averages, it may not capture acute fasting glucose shifts. That’s why pairing A1c with daily fasting checks gives a fuller picture.
 
-#### #### Are there safer inhaled steroid alternatives for people with diabetes?
+#### Are there safer inhaled steroid alternatives for people with diabetes?
 
 Not necessarily “safer,” but potentially lower-impact. Ciclesonide, for example, is a prodrug activated only in the lungs and undergoes rapid hepatic inactivation—resulting in ~5% systemic exposure vs. budesonide’s ~11%. However, individual response varies, and switching should only occur under medical supervision. Non-steroidal options like leukotriene modifiers (e.g., montelukast) may suit some—but aren’t appropriate for moderate-to-severe asthma.

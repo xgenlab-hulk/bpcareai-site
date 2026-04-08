@@ -67,22 +67,22 @@ It’s completely normal—and human—to experience some fluctuation in sleep a
 
 ### FAQ
 
-#### #### Does holiday sleep disruption blood sugar affect everyone over 50 the same way?
+#### Does holiday sleep disruption blood sugar affect everyone over 50 the same way?
 
 Not exactly. While most adults over 50 experience some degree of reduced insulin sensitivity with sleep loss, individual responses vary based on genetics, baseline fitness, medication use, and prior sleep habits. Those with strong circadian routines tend to bounce back faster—even after travel or late nights.
 
-#### #### How long does it take for blood sugar to return to normal after holiday sleep disruption?
+#### How long does it take for blood sugar to return to normal after holiday sleep disruption?
 
 For most healthy adults over 50, returning to regular sleep patterns for 3–5 nights restores insulin sensitivity significantly. Fasting glucose often stabilizes within 48–72 hours of resuming consistent bed/wake times and balanced meals.
 
-#### #### Can holiday sleep disruption blood sugar raise my risk of developing type 2 diabetes?
+#### Can holiday sleep disruption blood sugar raise my risk of developing type 2 diabetes?
 
 Short-term disruptions alone won’t cause diabetes—but repeated, unaddressed holiday cycles (year after year) may contribute to long-term metabolic wear. Think of it like compounding interest: small, recurring imbalances add up over time. That’s why mindful recovery matters—not just during the holidays, but in the weeks that follow.
 
-#### #### Why do I feel hungrier and crave sweets more when I’m not sleeping well during the holidays?
+#### Why do I feel hungrier and crave sweets more when I’m not sleeping well during the holidays?
 
 Poor sleep increases ghrelin (the “hunger hormone”) and decreases leptin (the “satiety hormone”). It also activates brain regions linked to reward-seeking—making high-calorie, high-sugar foods more appealing. This is especially pronounced after age 50, when hormonal shifts amplify these effects.
 
-#### #### Is it safe to check my blood sugar more often during the holidays?
+#### Is it safe to check my blood sugar more often during the holidays?
 
 Yes—especially if you have prediabetes or diabetes. Frequent checks (fasting + 2-hour post-meal) help identify patterns and guide small adjustments—like walking after dinner or choosing a smaller portion of dessert. Just be sure to interpret results in context: one high reading isn’t cause for alarm, but consistent trends over several days are worth discussing with your care team.

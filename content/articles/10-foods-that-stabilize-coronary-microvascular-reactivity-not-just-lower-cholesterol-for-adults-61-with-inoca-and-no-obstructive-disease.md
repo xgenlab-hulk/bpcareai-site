@@ -91,22 +91,22 @@ Improving coronary microvascular reactivity isn’t about fixing something broke
 
 ### FAQ
 
-#### #### What foods improve coronary microvascular reactivity naturally?
+#### What foods improve coronary microvascular reactivity naturally?
 
 Several whole foods have demonstrated benefits in clinical and preclinical studies — especially epicatechin-rich cocoa, fermented soy (miso, tempeh), low-temperature roasted walnuts, wild blueberries, and beetroot. These support both nitric oxide production and smooth muscle relaxation, key to healthy microvascular reactivity.
 
-#### #### Are there foods coronary microvascular reactivity experts recommend for INOCA patients?
+#### Are there foods coronary microvascular reactivity experts recommend for INOCA patients?
 
 Yes — cardiologists specializing in microvascular disease often highlight foods coronary microvascular reactivity research has linked to improved endothelial function and coronary flow reserve: dark leafy greens, extra-virgin olive oil, green tea, pomegranate, and lentils. These are emphasized not for cholesterol alone, but for their direct effects on vessel responsiveness.
 
-#### #### Can diet alone improve coronary microvascular reactivity in older adults?
+#### Can diet alone improve coronary microvascular reactivity in older adults?
 
 Diet is a powerful *supportive* tool — and in many cases, the first-line intervention for INOCA. While it may not replace medication for everyone, studies show consistent dietary patterns (like the MIND or Mediterranean diets, enriched with the foods above) lead to measurable improvements in microvascular function within 8–12 weeks — especially when combined with regular movement and stress management.
 
-#### #### Do walnuts help coronary microvascular reactivity — and does roasting matter?
+#### Do walnuts help coronary microvascular reactivity — and does roasting matter?
 
 Yes — walnuts contain ALA, polyphenols, and vitamin E, all associated with improved microvascular dilation. Roasting at high heat (>350°F) degrades sensitive compounds, so low-temperature roasting (<300°F) or raw, refrigerated walnuts preserve their benefits best.
 
-#### #### How is coronary microvascular reactivity different from blood pressure?
+#### How is coronary microvascular reactivity different from blood pressure?
 
 Blood pressure reflects the force of blood against artery walls — a *systemic* measure. Coronary microvascular reactivity is about *how well tiny heart vessels respond* — opening wider when needed (e.g., during walking) and gently narrowing at rest. You can have normal BP and still have impaired microvascular reactivity — which is why symptom-aware care matters so much.

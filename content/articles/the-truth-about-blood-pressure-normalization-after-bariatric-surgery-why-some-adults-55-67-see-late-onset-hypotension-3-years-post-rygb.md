@@ -93,22 +93,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can post-bariatric surgery low blood pressure happen 5 years after RYGB?
+#### Can post-bariatric surgery low blood pressure happen 5 years after RYGB?
 
 Yes—absolutely. While many notice BP changes in the first 1–2 years, true late-onset hypotension (defined as new onset ≥3 years post-op) is well-documented, particularly in adults over 55. Vascular remodeling, RAAS suppression, and cumulative autonomic adaptation continue evolving over time.
 
-#### #### Is post-bariatric surgery low blood pressure dangerous?
+#### Is post-bariatric surgery low blood pressure dangerous?
 
 It depends on context. Asymptomatic low BP is usually benign. But *symptomatic* post-bariatric surgery low blood pressure—especially with orthostatic dizziness, falls, or fatigue—can impact safety and quality of life. It may also signal underlying issues like dehydration, electrolyte shifts, or medication overcorrection.
 
-#### #### What’s the difference between normal low BP and post-bariatric surgery low blood pressure?
+#### What’s the difference between normal low BP and post-bariatric surgery low blood pressure?
 
 Normal low BP in healthy adults is typically stable and asymptomatic (e.g., lifelong 96/62 mm Hg). Post-bariatric surgery low blood pressure is *acquired*, often progressive, and commonly tied to orthostatic changes, meal-related dips, or medication sensitivity—especially after significant, sustained weight loss.
 
-#### #### Does gastric sleeve cause the same low BP issues as RYGB?
+#### Does gastric sleeve cause the same low BP issues as RYGB?
 
 Less commonly—and usually less pronounced. RYGB uniquely alters gut hormone signaling (GLP-1, PYY), bile acid metabolism, and nutrient absorption in ways that more strongly influence RAAS and autonomic tone. Sleeve gastrectomy shows milder BP reductions overall, with far fewer reports of late-onset hypotension.
 
-#### #### Can low blood pressure after weight loss surgery improve heart health long-term?
+#### Can low blood pressure after weight loss surgery improve heart health long-term?
 
 Yes—in many ways. Lower BP reduces strain on the heart and arteries, lowering lifetime risk of stroke, heart attack, and heart failure. However, *excessively* low or unstable BP may compromise organ perfusion, especially in older adults. Balance—not just “lower”—is the goal.

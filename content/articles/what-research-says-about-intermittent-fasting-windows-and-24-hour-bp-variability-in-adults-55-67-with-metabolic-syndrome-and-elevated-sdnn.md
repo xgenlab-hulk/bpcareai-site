@@ -71,22 +71,22 @@ The science behind **intermittent fasting blood pressure variability adults 55-6
 
 ### FAQ
 
-#### #### Does intermittent fasting worsen blood pressure variability in adults over 55?
+#### Does intermittent fasting worsen blood pressure variability in adults over 55?
 
 Not necessarily—and recent evidence suggests the opposite, when done thoughtfully. In adults 55–67 with metabolic syndrome, properly timed intermittent fasting (especially 14:10) improved 24-hour BP patterns, enhanced vagal tone, and moderated morning surges. The key is personalization: abrupt or overly restrictive windows may disrupt rhythm rather than support it.
 
-#### #### How does intermittent fasting blood pressure variability in adults 55-67 differ from younger adults?
+#### How does intermittent fasting blood pressure variability in adults 55-67 differ from younger adults?
 
 Older adults tend to have less flexible circadian BP regulation—especially reduced nocturnal dipping and heightened morning surges. Younger adults often see larger average BP reductions with fasting, but older adults benefit more in *pattern quality*: smoother transitions, better overnight recovery, and improved heart rate variability. Hormonal rhythms (like aldosterone) also shift with age, making timing more consequential.
 
-#### #### Can intermittent fasting blood pressure variability adults 55-67 be measured at home?
+#### Can intermittent fasting blood pressure variability adults 55-67 be measured at home?
 
 Yes—but with important caveats. Home monitors can track trends, especially morning and evening readings, but they can’t replace ambulatory monitoring for full 24-hour assessment. To get meaningful insights, take readings at the same times daily (e.g., within 30 minutes of waking, before dinner, and at bedtime), sit quietly for 5 minutes first, and use an upper-arm cuff validated for arrhythmia or hypertension. Consistency matters more than frequency.
 
-#### #### Does skipping breakfast increase morning blood pressure surge?
+#### Does skipping breakfast increase morning blood pressure surge?
 
 It can—especially in adults with metabolic syndrome. The FAST-HYPER trial found that delaying the first meal past 9:30 a.m. (common in 16:8) was linked to sharper pre-awakening aldosterone peaks and a +22 mm Hg average morning surge. Starting your eating window earlier—ideally within 60 minutes of waking—supports gentler hormonal transitions.
 
-#### #### Is heart rate variability (HRV) the same as SDNN?
+#### Is heart rate variability (HRV) the same as SDNN?
 
 SDNN (Standard Deviation of Normal-to-Normal intervals) is one specific, clinically validated measure of HRV—calculated from ECG or high-fidelity PPG data over a defined period (often 24 hours). While consumer wearables estimate HRV, they rarely report true SDNN. In research on metabolic syndrome and aging, SDNN < 70 ms signals reduced vagal resilience—and improving it is a meaningful goal for BP stability.

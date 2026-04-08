@@ -73,22 +73,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can I use the grandma pie recipe diabetic retinopathy modifications for other desserts too?
+#### Can I use the grandma pie recipe diabetic retinopathy modifications for other desserts too?
 
 Absolutely! These principles—anthocyanin-rich fruits, resistant starch flours, and low-AGE baking—are transferable. Try swapping blueberries into muffins, using oat-green banana flour in crisp toppings, or baking fruit crisps at 330°F. Just keep portion sizes mindful (½ cup filling + 1 small slice crust = balanced treat).
 
-#### #### Is there a specific grandma pie recipe diabetic retinopathy version I can print or share with my family?
+#### Is there a specific grandma pie recipe diabetic retinopathy version I can print or share with my family?
 
 While there’s no single “official” version, a well-tested adaptation includes: ½ cup mashed ripe banana + 2 tbsp oat milk for crust binding, 2 cups mixed frozen berries (no sugar added), 1 tbsp chia seeds + 1 tsp lemon juice for thickening, and a 325°F bake for 60 minutes. Many community health centers and ADA-affiliated dietitians offer free downloadable handouts—ask yours!
 
-#### #### Does the grandma pie recipe diabetic retinopathy approach help with other diabetes complications, like neuropathy or kidney health?
+#### Does the grandma pie recipe diabetic retinopathy approach help with other diabetes complications, like neuropathy or kidney health?
 
 Yes—many of the same mechanisms apply. Lowering AGEs and oxidative stress benefits nerves (reducing neuropathic pain risk) and glomerular filtration (supporting kidney function). In fact, a 2021 cohort study found that adults following low-AGE diets had 28% slower eGFR decline over 3 years.
 
-#### #### Do I need to avoid all sugar—or just certain kinds—for diabetic retinopathy prevention?
+#### Do I need to avoid all sugar—or just certain kinds—for diabetic retinopathy prevention?
 
 It’s less about total sugar and more about *type*, *timing*, and *company*. Minimize added sugars—especially fructose and glucose syrups—but don’t fear whole-food sugars (like those in berries or apples). Pairing carbs with fiber, fat, and protein slows absorption and reduces glycative stress on retinal vessels.
 
-#### #### How often can I enjoy a modified grandma pie recipe diabetic retinopathy dessert without increasing risk?
+#### How often can I enjoy a modified grandma pie recipe diabetic retinopathy dessert without increasing risk?
 
 Evidence suggests enjoying a modest serving (⅛ of a 9-inch pie) once every 7–10 days—paired with consistent glucose monitoring and eye exams—is compatible with retinopathy risk reduction. Frequency matters less than consistency in overall dietary pattern and metabolic control.

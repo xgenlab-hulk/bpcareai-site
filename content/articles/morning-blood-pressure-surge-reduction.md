@@ -85,22 +85,22 @@ Living with both aging and sleep apnea can feel like navigating two shifting lan
 
 ### FAQ
 
-#### #### Does morning blood pressure surge reduction really work for people over 65 with sleep apnea?
+#### Does morning blood pressure surge reduction really work for people over 65 with sleep apnea?
 
 Yes — multiple small clinical trials and polysomnography-BP coupling studies (including the 2022 SLEEP-HEART study) show that combining behavioral timing strategies — like pre-rise hydration and positional support — leads to measurable reductions in morning SBP surge (averaging 7–12 mm Hg) in adults aged 65–79 with moderate OSA. Benefits tend to build over 2–4 weeks of consistent practice.
 
-#### #### What’s the safest way to try morning blood pressure surge reduction at home?
+#### What’s the safest way to try morning blood pressure surge reduction at home?
 
 Start with just one step — like sipping room-temperature water upon waking while still lying down — for 5 days. Then add foot warming. Finally, adjust your pillow angle. Go slowly, track your readings, and pause if you feel unsteady or unusually fatigued. Always continue using prescribed therapies like CPAP and medications unless advised otherwise by your care team.
 
-#### #### Can morning blood pressure surge reduction lower stroke risk?
+#### Can morning blood pressure surge reduction lower stroke risk?
 
 While no single lifestyle strategy eliminates stroke risk, managing the morning surge *is* part of comprehensive cardiovascular protection. Observational data links a >35 mm Hg morning SBP surge to a 40% higher relative risk of ischemic stroke in adults over 65 — especially those with OSA. Supporting smoother circadian transitions is a recognized component of secondary prevention guidelines.
 
-#### #### Is it normal to have higher blood pressure in the morning?
+#### Is it normal to have higher blood pressure in the morning?
 
 Yes — a modest rise (10–20 mm Hg) is typical and reflects natural circadian activation. However, a surge of ≥20 mm Hg — especially when paired with symptoms like morning headaches, fatigue, or labored breathing — may signal underlying contributors like untreated sleep apnea or suboptimal medication timing, and deserves gentle evaluation.
 
-#### #### How does CPAP use relate to morning blood pressure surge reduction?
+#### How does CPAP use relate to morning blood pressure surge reduction?
 
 CPAP therapy is the cornerstone for OSA-related BP dysregulation. When used consistently and effectively (≥4 hours/night, good mask seal), CPAP restores nocturnal dipping and reduces sympathetic hyperactivity — making other *morning blood pressure surge reduction* strategies even more effective. Think of CPAP as the foundation, and these habits as thoughtful enhancements.

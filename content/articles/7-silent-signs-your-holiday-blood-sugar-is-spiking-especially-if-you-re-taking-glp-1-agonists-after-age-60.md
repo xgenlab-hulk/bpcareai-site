@@ -81,22 +81,22 @@ The holidays are meant to be joyful—not stressful about numbers. If you’re n
 
 ### FAQ
 
-#### #### Can silent blood sugar spikes on GLP-1 drugs happen even if my A1c is normal?
+#### Can silent blood sugar spikes on GLP-1 drugs happen even if my A1c is normal?
 
 Yes—they absolutely can. A1c reflects your average blood sugar over ~3 months and won’t capture short-term spikes or dips. You could have a normal A1c (e.g., 5.6%) but still experience repeated post-meal rises above 180 mg/dL, especially during holiday eating patterns. That’s why spot checks and pattern tracking matter.
 
-#### #### Are silent blood sugar spikes on GLP-1 drugs more common after age 60?
+#### Are silent blood sugar spikes on GLP-1 drugs more common after age 60?
 
 Yes—due to age-related changes in insulin sensitivity, kidney function, muscle mass, and stress-hormone regulation. Research shows older adults are more likely to experience asymptomatic hyperglycemia, particularly around lifestyle disruptions like holidays.
 
-#### #### What’s the difference between silent blood sugar spikes on GLP-1 drugs and regular high blood sugar?
+#### What’s the difference between silent blood sugar spikes on GLP-1 drugs and regular high blood sugar?
 
 “Silent” means the rise happens without classic symptoms (thirst, frequent urination, headache). With GLP-1s, the medication often blunts those signals—so spikes may only show up as fatigue, slower mental processing, or delayed vision recovery. It’s not that the glucose isn’t high—it’s that your body isn’t shouting about it.
 
-#### #### Does taking semaglutide mean I no longer need to monitor blood sugar?
+#### Does taking semaglutide mean I no longer need to monitor blood sugar?
 
 Not necessarily. While many people on GLP-1s reduce or stop routine monitoring, holiday periods—especially with changes in diet, activity, or sleep—are ideal times to resume checking (e.g., fasting + 2-hour post-dinner for 5 days). It gives you real-time insight into how your body is responding.
 
-#### #### Can holiday stress alone raise blood sugar—even on GLP-1 medication?
+#### Can holiday stress alone raise blood sugar—even on GLP-1 medication?
 
 Yes. Stress triggers cortisol and epinephrine, which prompt your liver to release stored glucose. GLP-1s help regulate this, but they don’t fully suppress it—particularly during prolonged or intense stress. That’s why mindfulness, breathing, and rest aren’t “extras”—they’re part of your glucose management plan.

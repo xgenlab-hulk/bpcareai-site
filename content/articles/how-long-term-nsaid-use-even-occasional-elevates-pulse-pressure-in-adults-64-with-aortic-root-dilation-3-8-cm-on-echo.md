@@ -81,22 +81,22 @@ Understanding the relationship between **nsaid use pulse pressure aortic root di
 
 ### FAQ
 
-#### #### Can occasional ibuprofen raise pulse pressure in someone with aortic root dilation?
+#### Can occasional ibuprofen raise pulse pressure in someone with aortic root dilation?
 
 Yes—studies suggest even intermittent NSAID use (e.g., 2–4 times per week) may contribute to higher pulse pressure in adults with known aortic root dilation >3.8 cm, likely due to effects on elastin turnover and MMP-9 activity. The change is often gradual, not sudden, which is why regular BP tracking helps.
 
-#### #### Does nsaid use pulse pressure aortic root dilation affect everyone the same way?
+#### Does nsaid use pulse pressure aortic root dilation affect everyone the same way?
 
 No. Individual response varies based on genetics, overall vascular health, duration and frequency of NSAID use, and coexisting conditions like hypertension or diabetes. However, adults over 64 with confirmed aortic root dilation are considered a higher-sensitivity group—and thus benefit from personalized guidance.
 
-#### #### What’s a safe alternative to NSAIDs for joint pain if I have aortic root dilation?
+#### What’s a safe alternative to NSAIDs for joint pain if I have aortic root dilation?
 
 Acetaminophen (up to 3,000 mg/day, if liver health permits) is often recommended as a first-line option. Topical NSAIDs, heat/cold therapy, physical therapy, and low-impact movement (like swimming or tai chi) are also supported by evidence. Always discuss options with your doctor or pharmacist to match them to your full health picture.
 
-#### #### Is pulse pressure more important than systolic blood pressure in aortic root dilation?
+#### Is pulse pressure more important than systolic blood pressure in aortic root dilation?
 
 Neither replaces the other—they tell complementary stories. Systolic pressure reflects the force of each heartbeat; pulse pressure reflects how well your aorta absorbs that force. In aortopathy, pulse pressure >65 mmHg can emerge earlier than systolic elevation and is strongly linked to reduced aortic compliance. Monitoring both gives the fullest picture.
 
-#### #### How often should I check my blood pressure if I have aortic root dilation and use NSAIDs occasionally?
+#### How often should I check my blood pressure if I have aortic root dilation and use NSAIDs occasionally?
 
 We recommend checking twice weekly at home—same time, same conditions—and recording the values. Bring this log to your cardiology visits. If your pulse pressure rises steadily over 2–3 months (e.g., from 62 to 70 mmHg), share it with your provider—even if you feel fine. Early patterns help guide timely, thoughtful care.

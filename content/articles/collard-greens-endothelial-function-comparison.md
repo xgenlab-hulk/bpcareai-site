@@ -68,22 +68,22 @@ Food is never just fuel—it’s memory, comfort, connection. Whether it’s the
 
 ### FAQ
 
-#### #### Does cooking method really affect collard greens endothelial function comparison?
+#### Does cooking method really affect collard greens endothelial function comparison?
 
 Yes—cooking method significantly influences key compounds. Long, high-sodium simmering (like with ham hock) preserves heme iron and collagen but reduces heat-sensitive glucosinolates by up to 50%. Quick sautéing or light steaming retains more glucosinolates and nitrates, supporting nitric oxide production—yet may offer less heme iron. The *collard greens endothelial function comparison* hinges on balancing these factors based on your health goals.
 
-#### #### Can collard greens improve endothelial function in people with stage 2 hypertension?
+#### Can collard greens improve endothelial function in people with stage 2 hypertension?
 
 Research suggests yes—especially when prepared thoughtfully. A 2023 pilot study in adults aged 65–72 with stage 2 hypertension showed that those eating low-sodium, lightly cooked collards 3x/week experienced an average 1.6% increase in FMD after 6 weeks—alongside modest BP reductions (≈4/2 mm Hg). Effects were most pronounced in participants also meeting daily potassium targets (>3,500 mg).
 
-#### #### Is the collard greens endothelial function comparison relevant for family meals?
+#### Is the collard greens endothelial function comparison relevant for family meals?
 
 Absolutely. “Healthy eating during family gatherings” doesn’t mean serving separate plates—it means adapting shared dishes with intention. For example, preparing collards with half the usual salt and offering a salt-free seasoning blend at the table lets everyone customize. This honors tradition *and* supports endothelial health across generations.
 
-#### #### Do I need to avoid ham hock entirely if I have high blood pressure?
+#### Do I need to avoid ham hock entirely if I have high blood pressure?
 
 Not necessarily—but portion and frequency matter. Using 1 small smoked turkey leg (not ham hock) for a full pot cuts sodium dramatically while delivering similar depth. Or, use ham hock for flavor only—simmer it separately, then discard before adding greens. That way, you keep the essence without the load.
 
-#### #### How much sodium is too much in collard greens for someone with hypertension?
+#### How much sodium is too much in collard greens for someone with hypertension?
 
 For adults with stage 2 hypertension, aim for ≤1,500 mg sodium per *day*. A single cup of traditional ham hock–cooked collards can contain 800–1,200 mg—so even one serving uses up more than half your daily allowance. Low-sodium versions (using herbs, vinegar, and lean proteins) typically contain 150–300 mg per serving—making them far easier to fit into a heart-healthy pattern.

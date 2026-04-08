@@ -73,17 +73,17 @@ Hypertensive urgency is manageable—and often reversible—with timely, informe
 
 ### FAQ
 
-#### #### What does a single high blood pressure reading NSAIDs mean for someone over 60?
+#### What does a single high blood pressure reading NSAIDs mean for someone over 60?
 A single high blood pressure reading NSAIDs in adults over 60 suggests possible medication-related pressure elevation—not necessarily long-term hypertension. It warrants review of recent NSAID use, dosing, and interactions with other meds, especially if repeated.
 
-#### #### Is one high BP reading dangerous if I’m taking ibuprofen daily?
+#### Is one high BP reading dangerous if I’m taking ibuprofen daily?
 Not automatically—but daily NSAID use raises baseline blood pressure in about 20% of older adults. A sudden spike above 180/110 warrants evaluation, particularly if accompanied by swelling, fatigue, or reduced urine output.
 
-#### #### Can antidepressants and NSAIDs raise blood pressure together?
+#### Can antidepressants and NSAIDs raise blood pressure together?
 Yes. Some antidepressants (especially SNRIs and TCAs) and NSAIDs have additive effects on fluid retention and vascular tone. This combination increases the likelihood of a single high blood pressure reading NSAIDs becoming clinically significant.
 
-#### #### What’s the difference between hypertensive urgency and emergency?
+#### What’s the difference between hypertensive urgency and emergency?
 Urgency means BP ≥180/110 *without* signs of organ damage (e.g., no chest pain, altered mental status, or acute kidney injury). Emergency means those symptoms *are* present—and requires ER evaluation immediately.
 
-#### #### Should I stop my NSAID if I get one high BP reading?
+#### Should I stop my NSAID if I get one high BP reading?
 Don’t stop abruptly without consulting your doctor. Instead, pause NSAID use temporarily, recheck BP in 24–48 hours, and discuss alternatives during your next visit. Sudden discontinuation can sometimes trigger rebound effects.

@@ -109,17 +109,17 @@ If you're unsure, talking to your doctor is always a good idea. And remember: re
 
 ### FAQ
 
-#### #### Can eating more berries really help reduce oxidative stress holiday meals cause?
+#### Can eating more berries really help reduce oxidative stress holiday meals cause?
 Yes—especially when eaten *before* or *with* the meal. A 2022 trial in adults aged 60–72 found that consuming ½ cup of mixed berries 15 minutes before a high-fat meal lowered postprandial ROS by 31% and reduced VCAM-1 expression by 22% compared to placebo. Blueberries, blackberries, and raspberries are especially rich in anthocyanins, which cross the blood-brain barrier and support both vascular and cognitive resilience.
 
-#### #### What’s the best way to reduce oxidative stress holiday meals without skipping my favorite dishes?
+#### What’s the best way to reduce oxidative stress holiday meals without skipping my favorite dishes?
 Focus on *pairings and timing*, not elimination. For example: enjoy your grandmother’s stuffing—but serve it alongside roasted red onions and parsley (quercetin + apigenin), and drizzle it with apple cider vinegar instead of gravy. These combos enhance antioxidant absorption and blunt inflammatory signaling—without changing tradition.
 
-#### #### Does cooking method really affect oxidative stress during holiday meals?
+#### Does cooking method really affect oxidative stress during holiday meals?
 Absolutely. Deep-frying at high heat generates oxidized cholesterol and aldehydes that directly impair endothelial function. In contrast, roasting, steaming, or air-frying at ≤375°F preserves food matrix integrity and reduces AGE formation by up to 70%. Adding antioxidant-rich herbs (rosemary, thyme, oregano) to cooking oils further inhibits lipid oxidation.
 
-#### #### Are supplements helpful for reducing oxidative stress during holiday meals?
+#### Are supplements helpful for reducing oxidative stress during holiday meals?
 Most evidence points to *food-first* approaches—especially for adults with subclinical atherosclerosis. High-dose isolated antioxidants (like vitamin E or beta-carotene pills) have shown neutral or even adverse effects in older adults with cardiovascular risk. Whole foods deliver complex phytochemical networks that work in concert—something supplements can’t replicate.
 
-#### #### How soon after a holiday meal can I expect to feel the benefits of these changes?
+#### How soon after a holiday meal can I expect to feel the benefits of these changes?
 Many people notice improved energy and less post-meal “fogginess” within 1–2 days. Biomarker changes (like lower hs-CRP or improved postprandial glucose) typically become measurable after 2–3 weeks of consistent practice—especially when combined with light daily movement and adequate hydration.

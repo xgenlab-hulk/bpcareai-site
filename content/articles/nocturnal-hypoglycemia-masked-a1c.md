@@ -55,17 +55,17 @@ In summary, a “well-controlled” A1c doesn’t guarantee nighttime safety—e
 
 ### FAQ  
 
-#### #### Can nocturnal hypoglycemia masked a1c happen even with a normal A1c and good time-in-range?  
+#### Can nocturnal hypoglycemia masked a1c happen even with a normal A1c and good time-in-range?  
 Yes. A1c reflects average glucose over ~3 months and cannot detect timing or frequency of lows. Similarly, time-in-range (TIR) often excludes or smooths over brief but clinically meaningful nocturnal dips—especially if the CGM sensor wasn’t worn continuously or readings were paused overnight.
 
-#### #### What lab tests help uncover nocturnal hypoglycemia masked a1c?  
+#### What lab tests help uncover nocturnal hypoglycemia masked a1c?  
 Key functional markers include evening (10 p.m.) salivary cortisol, fasting morning growth hormone, and a fasting 8-amino acid panel. Elevated evening cortisol (>0.12 µg/dL) plus suppressed GH (<0.5 ng/mL) strongly suggest recurrent nocturnal hypoglycemia masked a1c—even with A1c <7.0%.
 
-#### #### Does using a GLP-1 agonist increase risk of nocturnal hypoglycemia masked a1c?  
+#### Does using a GLP-1 agonist increase risk of nocturnal hypoglycemia masked a1c?  
 GLP-1 agonists alone carry low hypoglycemia risk—but when combined with insulin, sulfonylureas, or in settings of renal impairment or rapid weight loss, they *can* contribute to *nocturnal hypoglycemia masked a1c*. Age-related decline in counterregulation further amplifies vulnerability.
 
-#### #### Are older adults more likely to have silent nocturnal hypoglycemia?  
+#### Are older adults more likely to have silent nocturnal hypoglycemia?  
 Yes. Autonomic symptom perception (e.g., sweating, tremor, hunger) diminishes with age. Up to 40% of adults over 65 experience “hypoglycemia unawareness,” meaning lows occur without warning—making biomarker and pattern-based detection essential.
 
-#### #### How often should I check overnight glucose if I’m on a GLP-1 and over 65?  
+#### How often should I check overnight glucose if I’m on a GLP-1 and over 65?  
 If you’re on combination therapy or have risk factors (e.g., eGFR <60, prior lows), check glucose between 2–3 a.m. twice weekly for 2–4 weeks—or use blinded CGM with overnight analytics enabled. Consistent values <70 mg/dL warrant clinical review.

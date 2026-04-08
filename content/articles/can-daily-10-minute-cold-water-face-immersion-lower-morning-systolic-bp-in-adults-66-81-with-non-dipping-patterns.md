@@ -102,22 +102,22 @@ Exploring gentle, evidence-informed ways to support your body’s natural rhythm
 
 ### FAQ
 
-#### #### Does cold face immersion lower morning blood pressure in older adults?
+#### Does cold face immersion lower morning blood pressure in older adults?
 
 Yes—emerging evidence suggests it can. In clinical studies with adults aged 66–81, daily 10-minute cold face immersion was associated with a statistically significant reduction in morning systolic BP (average ~7 mm Hg), particularly among those with non-dipping patterns. Effects appear linked to improved vagal tone and HRV—not direct vasoconstriction.
 
-#### #### How does cold face immersion morning blood pressure work—and is it safe for seniors?
+#### How does cold face immersion morning blood pressure work—and is it safe for seniors?
 
 It works primarily through trigeminal–vagal stimulation: cooling facial skin activates the vagus nerve, promoting parasympathetic (rest-and-digest) dominance. When done with lukewarm-to-cool (not freezing) water and proper pacing, it’s considered low-risk for healthy older adults. Always check with your doctor first if you have heart disease, stroke history, or autonomic dysfunction.
 
-#### #### Can cold face immersion morning blood pressure replace my BP medication?
+#### Can cold face immersion morning blood pressure replace my BP medication?
 
 No. Cold face immersion is a complementary strategy—not a substitute for prescribed antihypertensive therapy. It may support your nervous system’s regulation of BP, but it does not address underlying vascular stiffness, renal sodium handling, or hormonal drivers of hypertension. Never stop or adjust medications without consulting your healthcare provider.
 
-#### #### What’s the ideal water temperature for cold face immersion to lower BP?
+#### What’s the ideal water temperature for cold face immersion to lower BP?
 
 Research protocols typically use water between 10–15°C (50–59°F). Warmer than that reduces vagal activation; colder increases discomfort and risk of bradycardia. A kitchen thermometer is helpful—start at 14°C and adjust based on comfort and response.
 
-#### #### How long before I see changes in my morning blood pressure?
+#### How long before I see changes in my morning blood pressure?
 
 Most participants in pilot studies reported measurable reductions in morning systolic BP after 2–3 weeks of consistent daily practice, with peak effects around week 4–6. Individual responses vary—so patience and steady tracking are key.

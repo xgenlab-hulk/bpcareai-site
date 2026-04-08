@@ -91,22 +91,22 @@ Managing gastroparesis and type 2 diabetes in later life is complex—but not in
 
 ### FAQ
 
-#### #### What are the best low-FODMAP foods that stabilize glucose gastroparesis elderly?
+#### What are the best low-FODMAP foods that stabilize glucose gastroparesis elderly?
 
 The most supportive options include peeled ripe banana (½ medium), white rice congee (¼ cup dry rice), poached egg whites, steamed peeled zucchini (½ cup), and unsweetened applesauce (¼ cup). These are low in fermentable carbs, low-viscosity, and contain modulated fiber that slows—not stalls—glucose absorption.
 
-#### #### Can fiber help foods stabilize glucose gastroparesis elderly—or does it make gastroparesis worse?
+#### Can fiber help foods stabilize glucose gastroparesis elderly—or does it make gastroparesis worse?
 
 It depends entirely on *fiber type and dose*. Highly viscous or insoluble fibers (e.g., wheat bran, raw broccoli, whole psyllium husk) often worsen symptoms and glucose lability. But low-viscosity, low-FODMAP soluble fibers—like pectin from peeled apples or resistant starch from cooled white potato—have demonstrated glucose-stabilizing effects in clinical studies of older adults with gastroparesis.
 
-#### #### Are there specific meal timing rules for foods that stabilize glucose gastroparesis elderly?
+#### Are there specific meal timing rules for foods that stabilize glucose gastroparesis elderly?
 
 Yes. Prioritize protein or healthy fat first (e.g., 1 tsp olive oil or 1 oz shredded chicken), wait 5–10 minutes, then add low-FODMAP starches and vegetables. Keep total meal volume under 350 mL and avoid eating again for at least 90 minutes unless a small, protein-based snack is needed.
 
-#### #### Does gastroparesis affect A1c accuracy?
+#### Does gastroparesis affect A1c accuracy?
 
 Not directly—but because gastroparesis causes erratic glucose absorption, A1c may underestimate or overestimate true glycemic exposure. For example, frequent late-onset hypoglycemia can artificially lower A1c, masking hyperglycemic risk. CGM data is far more reliable for treatment decisions in this population.
 
-#### #### Can I eat oatmeal if I have gastroparesis and diabetes?
+#### Can I eat oatmeal if I have gastroparesis and diabetes?
 
 Standard oatmeal (especially steel-cut or rolled oats) is generally *not recommended*: it’s high in beta-glucan—a highly viscous soluble fiber that significantly delays gastric emptying and increases bloating. Instead, opt for low-viscosity alternatives like white rice congee or mashed banana with a pinch of cinnamon.

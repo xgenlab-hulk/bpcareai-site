@@ -58,22 +58,22 @@ Holiday meals are about connection—not perfection. A smoothie bowl isn’t “
 
 ### FAQ
 
-#### #### Are holiday smoothie bowls triglycerides a real concern—or just hype?
+#### Are holiday smoothie bowls triglycerides a real concern—or just hype?
 
 Yes—it’s grounded in physiology. Fructose overload in insulin-resistant livers increases de novo lipogenesis (new fat creation), raising triglycerides. For men over 68 with metabolic syndrome, even one large bowl weekly can contribute to cumulative lipid changes.
 
-#### #### Do frozen fruit blends raise holiday smoothie bowls triglycerides more than fresh fruit?
+#### Do frozen fruit blends raise holiday smoothie bowls triglycerides more than fresh fruit?
 
 Not inherently—but frozen blends are often *portioned larger* and *blended without fiber-rich skins or pulp*, speeding fructose absorption. Fresh fruit eaten whole (like an apple with skin) delivers fiber that slows digestion and lowers glycemic and triglyceride impact.
 
-#### #### Can holiday smoothie bowls triglycerides affect blood pressure?
+#### Can holiday smoothie bowls triglycerides affect blood pressure?
 
 Indirectly, yes. Chronically elevated triglycerides contribute to endothelial dysfunction and arterial stiffness—both associated with higher systolic and diastolic pressure over time. Managing triglycerides supports overall vascular health.
 
-#### #### Is it safe to eat smoothie bowls if I’m on statins or triglyceride-lowering medication?
+#### Is it safe to eat smoothie bowls if I’m on statins or triglyceride-lowering medication?
 
 Generally yes—but discuss portion size and frequency with your doctor. Medications manage risk but don’t eliminate the need for dietary alignment, especially around fructose load.
 
-#### #### What’s a heart-friendly alternative to a holiday smoothie bowl?
+#### What’s a heart-friendly alternative to a holiday smoothie bowl?
 
 Try a small bowl of plain Greek yogurt (unsweetened), topped with ½ cup blueberries, 1 tsp walnuts, and cinnamon. It offers protein, antioxidants, and healthy fats—with far less fructose and a gentler impact on triglycerides and glucose.

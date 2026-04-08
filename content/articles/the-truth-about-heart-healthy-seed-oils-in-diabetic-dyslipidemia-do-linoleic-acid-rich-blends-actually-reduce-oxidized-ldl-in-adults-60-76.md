@@ -67,22 +67,22 @@ Nutrition science evolves—and what was once considered universally beneficial 
 
 ### FAQ
 
-#### #### Are seed oils and oxidized LDL in diabetes linked to higher heart disease risk?
+#### Are seed oils and oxidized LDL in diabetes linked to higher heart disease risk?
 
 Yes—especially in older adults with insulin resistance. High linoleic acid intake in the context of chronic inflammation can promote LDL oxidation, a key step in atherosclerosis. Studies show oxLDL levels correlate more strongly with coronary artery calcification than total LDL cholesterol.
 
-#### #### Can switching from corn oil to olive oil lower oxidized LDL in people with diabetes?
+#### Can switching from corn oil to olive oil lower oxidized LDL in people with diabetes?
 
 Evidence suggests yes. In trials, high-oleic oils reduced oxLDL by ~15–18% over 4 weeks compared to high-LA blends—likely due to greater oxidative stability and added polyphenols in extra-virgin olive oil.
 
-#### #### Do seed oils and oxidized LDL in diabetes affect blood pressure?
+#### Do seed oils and oxidized LDL in diabetes affect blood pressure?
 
 Indirectly. Oxidized LDL contributes to endothelial dysfunction and arterial stiffness—both drivers of systolic hypertension. While seed oils themselves don’t raise BP acutely, their role in long-term vascular health may influence arterial pressure regulation over time.
 
-#### #### Is it safe to use seed oils for baking if I have diabetes and high cholesterol?
+#### Is it safe to use seed oils for baking if I have diabetes and high cholesterol?
 
 It depends on the oil and method. Refined high-oleic sunflower or safflower oil is safer for moderate-heat baking (<350°F) than regular soybean or corn oil, which oxidize readily above 320°F. Always store oils in dark, cool places—and discard any with a stale or paint-like odor.
 
-#### #### What’s the best test to check for oxidized LDL in clinical practice?
+#### What’s the best test to check for oxidized LDL in clinical practice?
 
 The most validated direct measure is serum oxLDL by ELISA (e.g., Mercodia assay). While not yet routine, it’s increasingly available through specialty labs—and especially useful when standard lipids don’t explain ongoing cardiovascular risk.

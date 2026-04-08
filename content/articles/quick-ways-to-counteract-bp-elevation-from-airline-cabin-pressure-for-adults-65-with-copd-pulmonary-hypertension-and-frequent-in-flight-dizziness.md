@@ -49,22 +49,22 @@ Flying doesn’t have to mean surrendering comfort or control. With thoughtful p
 
 ### FAQ
 
-#### #### Does airplane cabin pressure and blood pressure always rise together?
+#### Does airplane cabin pressure and blood pressure always rise together?
 
 Not always — but for adults with COPD, pulmonary hypertension, or autonomic changes related to aging, the link is stronger. Studies show BP elevation occurs in ~60–70% of this group during flight simulation, compared to ~20% of healthy peers.
 
-#### #### Can flying worsen pulmonary hypertension because of airplane cabin pressure and blood pressure effects?
+#### Can flying worsen pulmonary hypertension because of airplane cabin pressure and blood pressure effects?
 
 Yes — cabin hypoxia can cause acute pulmonary vasoconstriction, raising pulmonary artery pressures. This may secondarily elevate systemic BP as the right heart strains. Pre-flight evaluation and sometimes portable oxygen are recommended.
 
-#### #### How soon before a flight should I check my blood pressure to assess risk?
+#### How soon before a flight should I check my blood pressure to assess risk?
 
 Ideally, measure your BP twice daily for 5 days before travel — once in the morning, once in the early evening — and note any patterns with activity or medication timing. Bring those numbers to your pre-travel consult.
 
-#### #### Is nasal breathing or humming really helpful for BP during flights?
+#### Is nasal breathing or humming really helpful for BP during flights?
 
 Yes — research shows nasal NO release improves endothelial function and dampens sympathetic tone. In one 2022 hypobaric study, participants using 2-minute nasal humming intervals saw 12% lower systolic BP rise versus controls.
 
-#### #### What’s the safest way to manage dizziness mid-flight if I have low oxygen reserves?
+#### What’s the safest way to manage dizziness mid-flight if I have low oxygen reserves?
 
 First, sit upright and avoid sudden head movements. Use supplemental oxygen if prescribed — even at low flow (1–2 L/min). Avoid caffeine and alcohol entirely. If dizziness persists beyond 10 minutes or includes chest pressure or confusion, notify crew immediately.

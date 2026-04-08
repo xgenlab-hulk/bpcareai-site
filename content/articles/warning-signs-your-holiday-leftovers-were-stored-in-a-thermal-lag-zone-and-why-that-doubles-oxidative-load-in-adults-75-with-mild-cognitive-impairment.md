@@ -63,17 +63,17 @@ In short, mindful handling of holiday leftovers isn’t just about avoiding food
 
 ### FAQ
 
-#### #### What is holiday leftovers thermal lag oxidative stress—and why does it matter for seniors?
+#### What is holiday leftovers thermal lag oxidative stress—and why does it matter for seniors?
 Holiday leftovers thermal lag oxidative stress refers to the buildup of harmful lipid peroxides when cooked foods sit too long in the “danger zone” (40–140°F) before refrigeration. In adults 75+, this increases oxidative load in the hippocampus, potentially accelerating cognitive changes—especially when combined with preexisting mild cognitive impairment.
 
-#### #### How long can holiday leftovers safely sit out before causing thermal lag oxidative stress?
+#### How long can holiday leftovers safely sit out before causing thermal lag oxidative stress?
 Per USDA guidelines, cooked foods should not remain between 40°F and 140°F for more than **two hours**—or **one hour** if ambient temperature exceeds 90°F. For adults with MCI or hypertension, reducing that window to **30 minutes** significantly lowers oxidative compound formation.
 
-#### #### Can holiday leftovers thermal lag oxidative stress affect blood pressure?
+#### Can holiday leftovers thermal lag oxidative stress affect blood pressure?
 Indirectly, yes. Chronic oxidative stress contributes to endothelial dysfunction and arterial stiffness—both associated with rising systolic BP over time. While a single instance won’t spike BP, repeated exposure may worsen long-term vascular health in susceptible adults.
 
-#### #### Does reheating leftovers eliminate oxidative stress compounds?
+#### Does reheating leftovers eliminate oxidative stress compounds?
 No. Common reheating methods (microwave, stovetop) do *not* break down lipid peroxides like 4-HNE or malondialdehyde—they persist and may even concentrate during evaporation. Prevention (timely cooling + proper storage) is far more effective than correction.
 
-#### #### Are frozen holiday leftovers safer than refrigerated ones?
+#### Are frozen holiday leftovers safer than refrigerated ones?
 Yes—if frozen *within 30 minutes* of cooking. Freezing halts both microbial growth *and* oxidative reactions. However, repeated freeze-thaw cycles degrade fats, so portion before freezing and reheat only what’s needed.

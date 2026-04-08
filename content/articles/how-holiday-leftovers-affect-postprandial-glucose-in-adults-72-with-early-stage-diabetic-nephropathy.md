@@ -78,17 +78,17 @@ If you're unsure, talking to your doctor is always a good idea. And remember: ho
 
 ### FAQ  
 
-#### #### Does reheating turkey increase its effect on postprandial glucose in seniors with kidney disease?  
+#### Does reheating turkey increase its effect on postprandial glucose in seniors with kidney disease?  
 No—reheating turkey itself doesn’t raise its glycemic impact (it’s naturally low-carb). However, reheated turkey *with gravy*, *pan sauces*, or *butter-based sides* can delay gastric emptying and alter insulin timing, sometimes causing a later, prolonged glucose rise. Focus on lean portions and low-sodium, low-carb accompaniments for steadier responses.
 
-#### #### How do holiday leftovers postprandial glucose seniors compare to fresh meals?  
+#### How do holiday leftovers postprandial glucose seniors compare to fresh meals?  
 For most seniors with early diabetic nephropathy, the difference is small—but measurable. Studies show reheated starchy sides (like stuffing or potatoes) may cause a 10–15% smaller *initial* spike (due to slight resistant starch formation), but glucose often remains elevated longer—leading to similar or slightly higher 2-hour averages. Portion control and pairing with protein/fiber remain more impactful than freshness alone.
 
-#### #### Can holiday leftovers postprandial glucose seniors affect kidney function in stage 1–2 CKD?  
+#### Can holiday leftovers postprandial glucose seniors affect kidney function in stage 1–2 CKD?  
 Not directly or immediately—but repeated, unmanaged postprandial spikes (especially above 180 mg/dL) contribute to oxidative stress and endothelial inflammation, which over months and years may accelerate glomerular injury. Staying within target ranges supports kidney-protective pathways—including nitric oxide production and podocyte stability.
 
-#### #### What’s the safest way to store and reheat holiday leftovers for seniors with diabetes and CKD?  
+#### What’s the safest way to store and reheat holiday leftovers for seniors with diabetes and CKD?  
 Store within 2 hours of cooking in shallow, airtight containers. Refrigerate up to 4 days—or freeze for longer. When reheating, ensure internal temperature reaches 165°F (use a food thermometer). Avoid adding salt, sugar, or high-phosphorus ingredients (e.g., processed cheese, deli meats) during reheating. Prioritize herbs, lemon juice, or vinegar for flavor.
 
-#### #### Should seniors with early diabetic nephropathy avoid mashed potatoes altogether during the holidays?  
+#### Should seniors with early diabetic nephropathy avoid mashed potatoes altogether during the holidays?  
 Not necessarily—but portion and preparation matter. A ⅓-cup serving (about the size of a lightbulb) fits comfortably within a kidney-friendly, glucose-conscious meal—especially when topped with garlic-infused olive oil instead of butter and paired with roasted vegetables and lean turkey. It’s moderation, not elimination, that supports lasting health.

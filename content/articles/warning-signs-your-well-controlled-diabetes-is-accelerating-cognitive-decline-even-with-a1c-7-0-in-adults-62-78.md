@@ -83,22 +83,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can diabetes cause memory problems even with A1c under 7.0?
+#### Can diabetes cause memory problems even with A1c under 7.0?
 
 Yes—absolutely. While good A1c control lowers overall risk, other factors like glucose variability, vascular health, inflammation, and insulin resistance in the brain can contribute to memory changes independently. Studies show measurable differences in hippocampal volume and processing speed in adults with long-standing diabetes—even with A1c <7.0%.
 
-#### #### What are the earliest diabetes cognitive decline warning signs I should watch for?
+#### What are the earliest diabetes cognitive decline warning signs I should watch for?
 
 Early signs often include subtle but noticeable changes: taking longer to process information (e.g., following directions or reacting while driving), increased word-finding difficulty, needing reminders for appointments you’d usually recall, or feeling mentally “foggy” more often—especially after meals or poor sleep. These aren’t urgent alarms, but gentle cues to check in with your care team.
 
-#### #### Are there specific tests to detect diabetes-related cognitive decline early?
+#### Are there specific tests to detect diabetes-related cognitive decline early?
 
 Yes—though not all are routine. Clinically, the Digit Symbol Substitution Test (DSST) is a quick, validated screen for processing speed. Brain MRI can measure hippocampal volume over time. In specialized settings, cerebrospinal fluid (CSF) analysis looks at tau and beta-amyloid ratios. However, most primary care visits begin with conversation, symptom review, and simple cognitive screens like the MoCA or clock-drawing test.
 
-#### #### Does high blood pressure make diabetes cognitive decline worse?
+#### Does high blood pressure make diabetes cognitive decline worse?
 
 Yes—significantly. Hypertension damages small vessels throughout the body, including those feeding the brain. Adults with both diabetes and elevated BP (especially sustained above 135/85 mm Hg) face a compounded risk for white matter changes and cognitive slowing. Managing both conditions together offers strong protective benefits.
 
-#### #### Can lifestyle changes really slow cognitive decline in people with diabetes?
+#### Can lifestyle changes really slow cognitive decline in people with diabetes?
 
 Yes—robust evidence supports this. The SPRINT-MIND trial showed that intensive BP control (target <120/80 mm Hg) reduced risk of mild cognitive impairment by 19% in adults with hypertension—and many participants also had diabetes. Similarly, studies like the FINGER trial demonstrated that combined diet, exercise, cognitive training, and vascular risk management improved cognitive outcomes in at-risk older adults, including those with metabolic conditions.

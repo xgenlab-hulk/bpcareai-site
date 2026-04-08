@@ -72,17 +72,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What are some soft food diet holiday meals for seniors that are also healthy?
+#### What are some soft food diet holiday meals for seniors that are also healthy?
 Opt for mashed sweet potatoes, pureed squash soup, soft whole-grain stuffing, and shredded turkey in gravy. Include protein, fiber, and vitamins by blending or cooking foods until tender. Avoid excessive salt, sugar, and saturated fats to support heart and metabolic health.
 
-#### #### Can seniors on a soft food diet still enjoy holiday desserts?
+#### Can seniors on a soft food diet still enjoy holiday desserts?
 Yes! Try baked apples, pear compote, pumpkin mousse, or banana-oat bars made soft with applesauce. Use natural sweeteners like cinnamon or a touch of honey instead of refined sugar. These treats are gentle on the teeth and easier to digest.
 
-#### #### How can I make holiday meals easier to chew for someone with dentures?
+#### How can I make holiday meals easier to chew for someone with dentures?
 Cook foods until very tender, then chop, mash, or puree as needed. Use sauces, gravies, or broths to add moisture. Avoid sticky, crunchy, or hard items like nuts, caramel, or raw vegetables. Serve food at a warm temperature to enhance texture and flavor.
 
-#### #### What should I do if my parent refuses to eat during holidays due to dental pain?
+#### What should I do if my parent refuses to eat during holidays due to dental pain?
 Gentle encouragement helps. Offer favorite soft foods and create a relaxed atmosphere. Rule out dental issues like sore spots or ill-fitting dentures. If eating continues to decline, consult a dentist or doctor to address pain or swallowing concerns.
 
-#### #### Are there high-protein soft foods suitable for holiday meals?
+#### Are there high-protein soft foods suitable for holiday meals?
 Absolutely. Include soft-cooked eggs, cottage cheese, mashed beans, lentil soup, ground turkey, tofu, and Greek yogurt. These provide essential protein for muscle and immune health without requiring heavy chewing.

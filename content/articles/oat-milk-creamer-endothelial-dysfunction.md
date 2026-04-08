@@ -95,22 +95,22 @@ Understanding oat milk creamer endothelial dysfunction doesn’t mean avoiding p
 
 ### FAQ
 
-#### #### Does oat milk creamer cause endothelial dysfunction in everyone?
+#### Does oat milk creamer cause endothelial dysfunction in everyone?
 
 No—effects are most pronounced in adults aged 60+ with preexisting vascular vulnerability, such as carotid plaque or metabolic syndrome. Healthy younger adults typically show no clinically relevant change in flow-mediated dilation after consumption.
 
-#### #### Can oat milk creamer endothelial dysfunction be reversed?
+#### Can oat milk creamer endothelial dysfunction be reversed?
 
 Yes—studies suggest that discontinuing emulsifier-rich creamers and adopting endothelial-supportive habits (e.g., daily brisk walking, flavonoid-rich foods, adequate magnesium intake) can improve FMD by 1.5–2.5 percentage points within 10–12 weeks.
 
-#### #### What’s the safest oat milk creamer for heart disease patients?
+#### What’s the safest oat milk creamer for heart disease patients?
 
 Look for refrigerated, minimally processed options with ≤3 ingredients—ideally just oats, water, and sea salt. Avoid shelf-stable varieties with added gums or lecithins. Always check for sodium content: aim for <50 mg per serving if managing hypertension or heart disease.
 
-#### #### Is there a link between oat milk creamer and high blood pressure?
+#### Is there a link between oat milk creamer and high blood pressure?
 
 Oat milk creamer itself doesn’t directly raise BP—but impaired endothelial function contributes to arterial stiffness and reduced vasodilatory reserve, both of which elevate systolic pressure over time. This is especially relevant for adults over 60, where isolated systolic hypertension is common.
 
-#### #### Are all non-dairy creamers equally risky for endothelial health?
+#### Are all non-dairy creamers equally risky for endothelial health?
 
 No. Coconut milk creamers high in saturated fat (≥4 g per serving) may promote inflammation differently than emulsifier-heavy oat versions. Almond milk creamers tend to contain fewer problematic stabilizers—but often more added sugars. Ingredient transparency matters more than the base milk type.

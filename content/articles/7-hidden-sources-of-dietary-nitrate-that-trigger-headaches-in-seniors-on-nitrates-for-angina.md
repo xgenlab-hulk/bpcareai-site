@@ -81,17 +81,17 @@ Managing heart health during the holidays doesn’t mean sacrificing joy, flavor
 
 ### FAQ
 
-#### #### Can dietary nitrates really interfere with my angina medication?
+#### Can dietary nitrates really interfere with my angina medication?
 Yes. Naturally occurring nitrates in foods like spinach, beets, arugula, and cured meats convert to nitric oxide in the body—just like prescription nitrates do. When consumed close in time to medications such as nitroglycerin or isosorbide, they can cause additive vasodilation, leading to low blood pressure, dizziness, or falls—especially in adults over 60.
 
-#### #### What foods should I avoid if I’m on nitrate medication for angina?
+#### What foods should I avoid if I’m on nitrate medication for angina?
 You don’t need to avoid them entirely—but limit or time carefully: cured/smoked meats (bacon, salami, corned beef), leafy greens (spinach, arugula, lettuce), beets and beetroot products, celery juice, and some fermented foods like sauerkraut. Portion size matters: a half-cup serving of cooked spinach contains ~350 mg nitrate, whereas 1 cup of diced cucumber contains less than 5 mg.
 
-#### #### How does dietary nitrate angina medication interaction differ from drug–drug interactions?
+#### How does dietary nitrate angina medication interaction differ from drug–drug interactions?
 Unlike drug–drug interactions—which often involve liver enzyme competition (e.g., CYP450)—*dietary nitrate angina medication interaction* is primarily pharmacodynamic: both sources act on the same biological pathway (nitric oxide → cGMP → smooth muscle relaxation). This means effects are dose- and timing-dependent, not metabolism-dependent—so even foods considered “heart-healthy” can pose risks in specific clinical contexts.
 
-#### #### Are there safe, nitrate-free holiday side dishes for seniors on angina meds?
+#### Are there safe, nitrate-free holiday side dishes for seniors on angina meds?
 Absolutely. Try roasted sweet potatoes with cinnamon, quinoa pilaf with dried cranberries and walnuts, steamed green beans with lemon zest, or baked apples with oats and nutmeg. These offer fiber, antioxidants, and satisfying texture—all without meaningful nitrate contribution (<10 mg per standard serving).
 
-#### #### Does cooking reduce nitrate levels in vegetables?
+#### Does cooking reduce nitrate levels in vegetables?
 Not significantly. Boiling can leach 10–30% of nitrates into water, but roasting, steaming, or sautéing preserves most. More impactful than cooking method is *selection*: swapping high-nitrate greens (spinach, chard) for moderate- or low-nitrate options (zucchini, summer squash, mushrooms, bell peppers) makes a measurable difference in total intake.

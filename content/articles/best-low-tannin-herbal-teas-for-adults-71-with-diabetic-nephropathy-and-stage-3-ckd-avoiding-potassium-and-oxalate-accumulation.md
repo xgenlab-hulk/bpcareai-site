@@ -61,17 +61,17 @@ In caring for kidneys shaped by years of diabetes, small, consistent choices add
 
 ### FAQ
 
-#### #### Can low-tannin herbal tea diabetic nephropathy help manage blood sugar?
+#### Can low-tannin herbal tea diabetic nephropathy help manage blood sugar?
 While no herbal tea replaces medication, some low-tannin options like lemon balm and green rooibos contain compounds studied for mild glucose-modulating effects — though evidence in humans with CKD remains limited. Always prioritize your prescribed diabetes management plan first.
 
-#### #### What’s the safest low-tannin herbal tea diabetic nephropathy option for someone with high potassium?
+#### What’s the safest low-tannin herbal tea diabetic nephropathy option for someone with high potassium?
 Chamomile (whole flower, 4-minute steep at 85°C) consistently tests lowest in potassium (18 mg/cup) and oxalate among lab-verified options — making it a top choice when serum potassium is near or above 5.0 mmol/L.
 
-#### #### Are there low-tannin herbal tea diabetic nephropathy brands I should avoid?
+#### Are there low-tannin herbal tea diabetic nephropathy brands I should avoid?
 Avoid blends containing hibiscus, parsley, nettle, or spinach leaf — all higher in potassium and/or oxalate. Also skip “detox” or “kidney cleanse” labeled teas; these are unregulated and often contain diuretic herbs that may worsen volume status in CKD.
 
-#### #### Does brewing temperature really change potassium leaching in herbal tea?
+#### Does brewing temperature really change potassium leaching in herbal tea?
 Yes — lab data shows potassium extraction increases by ~40% when raising water temperature from 70°C to 95°C for the same herb and steep time. Keeping water just below boiling (85°C) helps minimize mineral transfer.
 
-#### #### Can I drink low-tannin herbal tea diabetic nephropathy if I’m on dialysis?
+#### Can I drink low-tannin herbal tea diabetic nephropathy if I’m on dialysis?
 Not without discussing it with your nephrologist and dietitian first. Dialysis patients often follow stricter potassium and fluid guidelines — and individual tolerance varies widely. Some may enjoy ½ cup of chamomile 2–3 times weekly, while others pause herbal teas entirely between sessions.

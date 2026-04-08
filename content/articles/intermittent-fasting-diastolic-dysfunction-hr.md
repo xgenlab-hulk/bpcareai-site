@@ -60,17 +60,17 @@ In summary, the emerging picture around *intermittent fasting diastolic dysfunct
 
 ### FAQ
 
-#### #### Can intermittent fasting worsen diastolic dysfunction?
+#### Can intermittent fasting worsen diastolic dysfunction?
 Not directly—but prolonged fasting may reduce plasma volume and impair baroreflex sensitivity, especially in older adults. This can unmask or exacerbate symptoms like fatigue or orthostatic dizziness. Shorter, gentler windows (e.g., 12:12) are generally better tolerated than 16:8 in this population.
 
-#### #### Is intermittent fasting diastolic dysfunction HR safe for seniors with high blood pressure?
+#### Is intermittent fasting diastolic dysfunction HR safe for seniors with high blood pressure?
 It can be—with close attention to hydration, sodium, and timing. The 2024 pilot found that adults with controlled hypertension (BP <140/90 mmHg) maintained stable HRV when fasting ended ≥24 hours before the event and included potassium-rich meals.
 
-#### #### What HRV numbers should I watch for with diastolic dysfunction?
+#### What HRV numbers should I watch for with diastolic dysfunction?
 Age-adjusted RMSSD values below 20 ms (for ages 65–75) or SDNN <70 ms may signal reduced parasympathetic tone. More important than absolute numbers is *trend*: a consistent 15%+ decline over 3–4 days warrants review.
 
-#### #### Does intermittent fasting affect heart rate variability in people with heart failure?
+#### Does intermittent fasting affect heart rate variability in people with heart failure?
 Yes—especially in HFpEF (heart failure with preserved ejection fraction), which often overlaps with diastolic dysfunction. Studies suggest modest HRV gains with very gradual fasting initiation, but abrupt protocols increase arrhythmia vulnerability.
 
-#### #### How long before a holiday meal should I stop fasting to protect my heart?
+#### How long before a holiday meal should I stop fasting to protect my heart?
 Based on the 2024 data, ending the fasting window at least 36–48 hours before the main event allowed autonomic recovery in 94% of participants. This gives time for rehydration, glycogen replenishment, and baroreflex recalibration.

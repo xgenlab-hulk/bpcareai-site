@@ -55,22 +55,22 @@ Holiday joy doesn’t have to come at the cost of comfort or control. With thoug
 
 ### FAQ
 
-#### #### Can fermented beetroot really help with gut barrier holiday feasting?
+#### Can fermented beetroot really help with gut barrier holiday feasting?
 
 Yes — when properly fermented (10–14 days, room temp, no vinegar), beetroot develops nitrate-reducing *Lactobacillus plantarum* strains shown in small human studies to improve mucosal blood flow and reduce post-meal zonulin spikes by up to 27%. Heat or vinegar kills this benefit.
 
-#### #### Is L-glutamine safe for adults over 62 with kidney concerns?
+#### Is L-glutamine safe for adults over 62 with kidney concerns?
 
 For most adults with normal kidney function (eGFR > 60 mL/min/1.73m²), short-term, pre-meal dosing (up to 5 g/day) is well tolerated. Those with stage 3+ CKD should consult their nephrologist first — glutamine metabolism shifts in advanced kidney disease.
 
-#### #### How does gut barrier holiday feasting affect blood sugar control?
+#### How does gut barrier holiday feasting affect blood sugar control?
 
 Tightly linked. Increased intestinal permeability allows bacterial endotoxins (like LPS) into circulation, triggering low-grade inflammation that impairs insulin signaling. Studies show zonulin levels correlate with postprandial glucose AUC — meaning stronger barrier support helps smooth out holiday diabetes management.
 
-#### #### Does sauerkraut need to be homemade to work for gut barrier holiday feasting?
+#### Does sauerkraut need to be homemade to work for gut barrier holiday feasting?
 
 Not necessarily — but it must be unpasteurized, refrigerated, and free of added vinegar or preservatives. Check labels for “live cultures,” “naturally fermented,” and “contains active lactobacilli.” Shelf-stable jars = dead microbes.
 
-#### #### Can I take L-glutamine with my diabetes medications?
+#### Can I take L-glutamine with my diabetes medications?
 
 Generally yes — no known interactions with metformin, SGLT2 inhibitors, or GLP-1 agonists. However, space it 30 minutes away from thyroid meds (like levothyroxine) and certain antibiotics (e.g., tetracyclines) to avoid binding.

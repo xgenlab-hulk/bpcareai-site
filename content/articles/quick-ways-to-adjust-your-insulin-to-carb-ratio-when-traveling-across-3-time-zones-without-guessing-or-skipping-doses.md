@@ -89,22 +89,22 @@ Traveling across time zones with diabetes doesn’t have to mean white-knuckling
 
 ### FAQ
 
-#### #### How do I adjust my insulin-to-carb ratio for international travel across multiple time zones?
+#### How do I adjust my insulin-to-carb ratio for international travel across multiple time zones?
 
 Start with a 10–20% reduction in your usual ICR for the first 1–2 days after arrival, especially for eastward travel. Monitor closely: if post-meal glucose rises >2 mg/dL/min or stays >180 mg/dL at 2 hours, increase ICR slightly the next meal. Gradually return to your home ratio by day 4–5 as your body synchronizes.
 
-#### #### What is insulin carb ratio time zone travel—and why does it matter for older adults?
+#### What is insulin carb ratio time zone travel—and why does it matter for older adults?
 
 **Insulin carb ratio time zone travel** refers to how your body’s changing insulin sensitivity across time zones affects the amount of rapid-acting insulin needed per gram of carbohydrate. For adults over 50, age-related shifts in liver glucose output, renal insulin clearance, and stress hormone patterns make these adjustments more impactful—and more manageable with awareness.
 
-#### #### Can I use my continuous glucose monitor (CGM) to guide ICR changes during time zone travel?
+#### Can I use my continuous glucose monitor (CGM) to guide ICR changes during time zone travel?
 
 Yes—your CGM is one of your best tools. Focus on trend arrows *and* rate of change: a double-up arrow with glucose rising >3 mg/dL/min suggests your current ICR may be too low; a flat or gently downward trend 90 minutes after eating may mean your ICR is appropriate. Avoid adjusting solely on absolute numbers—context matters most.
 
-#### #### Do correction factors change during time zone travel, too?
+#### Do correction factors change during time zone travel, too?
 
 Absolutely—and often before your ICR does. Many people find their correction factor (e.g., how much 1 unit lowers glucose) improves (i.e., becomes more potent) in the first 24–48 hours after eastward travel. A typical starting point: increase correction potency by 15–25% for the first two days, then reassess daily.
 
-#### #### Is it safe to skip a long-acting insulin dose during a long flight?
+#### Is it safe to skip a long-acting insulin dose during a long flight?
 
 No—skipping basal insulin entirely risks significant hyperglycemia and ketosis. Instead, delay the dose until local bedtime at your destination (even if that’s 14+ hours later), then administer at 75% of your usual dose. Always consult your care team before modifying long-acting insulin timing.

@@ -65,17 +65,17 @@ Supporting *endothelial nitric oxide synthase recoupling* is one of the kindest 
 
 ### FAQ
 
-#### #### What does endothelial nitric oxide synthase recoupling mean in simple terms?  
+#### What does endothelial nitric oxide synthase recoupling mean in simple terms?  
 It means helping your blood vessel lining restore its ability to produce nitric oxide—the natural molecule that keeps arteries relaxed and flowing smoothly. Think of it like tuning an instrument so it plays the right note again.
 
-#### #### Can endothelial nitric oxide synthase recoupling happen without medication?  
+#### Can endothelial nitric oxide synthase recoupling happen without medication?  
 Yes—especially with dietary nitrates (like beetroot), folate from whole foods, and mindful NSAID use. Clinical studies in adults over 65 show measurable improvements in vascular function within 72 hours using these approaches alone.
 
-#### #### How does high ADMA affect endothelial nitric oxide synthase recoupling?  
+#### How does high ADMA affect endothelial nitric oxide synthase recoupling?  
 ADMA blocks the enzyme’s active site, competing with arginine and promoting uncoupling. Lowering the ADMA-to-arginine ratio—through diet, hydration, and kidney-supportive habits—creates space for healthier eNOS function.
 
-#### #### Is beetroot juice safe for people with hypertension and kidney concerns?  
+#### Is beetroot juice safe for people with hypertension and kidney concerns?  
 In moderate amounts (100 mL/day), unsweetened beetroot juice is well tolerated—even with mild kidney changes (eGFR >60 mL/min). Always discuss with your doctor if you’re on potassium-restricted diets or take certain BP medications.
 
-#### #### What’s the fastest natural way to support endothelial function in older adults?  
+#### What’s the fastest natural way to support endothelial function in older adults?  
 The most consistently effective approach combines timed dietary nitrate (e.g., beetroot juice pre-activity), daily leafy greens for folate, and minimizing NSAID frequency. Together, they support *endothelial nitric oxide synthase recoupling*, flow-mediated dilation, and long-term heart health.

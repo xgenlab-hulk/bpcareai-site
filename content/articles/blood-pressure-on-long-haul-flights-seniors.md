@@ -81,22 +81,22 @@ Flying long-haul doesn’t have to mean compromising your comfort or cardiovascu
 
 ### FAQ
 
-#### #### Does flying raise blood pressure on long haul flights seniors?
+#### Does flying raise blood pressure on long haul flights seniors?
 
 Yes — but usually modestly and temporarily. Studies show average systolic BP increases of 5–12 mm Hg during flights ≥6 hours, primarily due to RAAS activation, mild hypoxia, and immobility. For most seniors with well-managed health, this is not concerning. But for those with mild CKD or orthostatic intolerance, the rise may feel more pronounced — especially if hydration or movement is limited.
 
-#### #### How can I lower my blood pressure on long haul flights seniors naturally?
+#### How can I lower my blood pressure on long haul flights seniors naturally?
 
 Focus on three pillars: consistent, paced hydration (not chugging); gentle seated movement every 20–30 minutes; and wearing properly fitted 15–20 mm Hg compression socks. Avoid alcohol, excess salt, and large meals before/during the flight — all can amplify BP fluctuations. Deep breathing and mindful posture also help regulate autonomic tone.
 
-#### #### What’s the safest blood pressure range during a long flight for someone over 65?
+#### What’s the safest blood pressure range during a long flight for someone over 65?
 
 There’s no universal “safe” number — but consistency matters more than perfection. For most adults 65+, a seated systolic between 120–145 mm Hg and diastolic between 70–85 mm Hg is typical and reassuring. If your usual home readings are 130–138/76–82, seeing 142/84 mid-flight is normal physiology — not a crisis. The real concern is sudden swings: e.g., dropping from 140/80 to 110/60 upon standing.
 
-#### #### Should I bring my home blood pressure monitor on the plane?
+#### Should I bring my home blood pressure monitor on the plane?
 
 Yes — especially if you have CKD or orthostatic intolerance. A validated upper-arm oscillometric device (not wrist-based) lets you check seated and standing values at key moments: before boarding, 2 hours in, and after landing. Keep it in your carry-on (not checked luggage), and calibrate it at home 1 week before travel.
 
-#### #### Can mild CKD make blood pressure harder to control during flights?
+#### Can mild CKD make blood pressure harder to control during flights?
 
 Yes — mildly. Reduced kidney function means slower clearance of sodium and fluid, and a heightened RAAS response to hypoxia or volume shifts. That’s why hydration timing, compression, and medication review matter even more. But with mild CKD (eGFR 60–89), most people fly safely — the goal is simply smarter preparation, not restriction.

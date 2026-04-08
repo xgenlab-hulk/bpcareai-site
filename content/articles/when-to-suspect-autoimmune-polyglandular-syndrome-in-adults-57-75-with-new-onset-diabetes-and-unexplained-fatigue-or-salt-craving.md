@@ -71,22 +71,22 @@ Autoimmune polyglandular syndrome diabetes fatigue is rare—but highly manageab
 
 ### FAQ
 
-#### #### Could autoimmune polyglandular syndrome diabetes fatigue be mistaken for menopause or andropause?
+#### Could autoimmune polyglandular syndrome diabetes fatigue be mistaken for menopause or andropause?
 
 Yes—especially in women 57–75, where fatigue, low libido, and mood changes overlap. But APS-related fatigue tends to worsen with fasting or exertion and improves quickly with appropriate steroid replacement, unlike hormonal transitions. Lab testing helps clarify.
 
-#### #### What labs should I ask for if I suspect autoimmune polyglandular syndrome diabetes fatigue?
+#### What labs should I ask for if I suspect autoimmune polyglandular syndrome diabetes fatigue?
 
 Start with morning cortisol, ACTH, sodium, potassium, TSH, free T4, TPO antibodies, and fasting glucose/A1c. If cortisol is low-normal, follow up with an ACTH stimulation test. Your doctor may also check renin, aldosterone, and DHEA-S.
 
-#### #### Is autoimmune polyglandular syndrome diabetes fatigue hereditary?
+#### Is autoimmune polyglandular syndrome diabetes fatigue hereditary?
 
 There is a genetic component—especially with HLA-DR3 and HLA-DR4 variants—and first-degree relatives of people with APS have a higher risk of developing autoimmune endocrine disorders. Family history matters.
 
-#### #### Can autoimmune polyglandular syndrome diabetes fatigue cause high blood pressure?
+#### Can autoimmune polyglandular syndrome diabetes fatigue cause high blood pressure?
 
 No—quite the opposite. Most people with APS and adrenal insufficiency experience *low* blood pressure (hypotension), particularly orthostatic drops (e.g., >20 mm Hg systolic decrease on standing). High BP would suggest another cause.
 
-#### #### How quickly can symptoms improve after starting treatment for autoimmune polyglandular syndrome diabetes fatigue?
+#### How quickly can symptoms improve after starting treatment for autoimmune polyglandular syndrome diabetes fatigue?
 
 Many notice increased energy and reduced salt cravings within days of starting physiologic hydrocortisone replacement. Full stabilization—including blood pressure and electrolyte balance—usually takes 2–6 weeks as doses are carefully adjusted.

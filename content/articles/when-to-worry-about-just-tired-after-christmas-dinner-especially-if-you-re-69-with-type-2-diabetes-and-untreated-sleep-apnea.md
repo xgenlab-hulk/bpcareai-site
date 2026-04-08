@@ -60,17 +60,17 @@ If you’re unsure, talking to your doctor is always a good idea. Early interven
 
 ### FAQ  
 
-#### #### Is post-dinner fatigue sleep apnea diabetes elderly a sign of heart problems?  
+#### Is post-dinner fatigue sleep apnea diabetes elderly a sign of heart problems?  
 Yes—it can reflect increased cardiac workload due to nocturnal hypoxia and insulin resistance. Persistent postprandial fatigue in this demographic correlates with higher rates of left ventricular hypertrophy and diastolic dysfunction, especially when BP remains elevated (>140/90 mm Hg) overnight.
 
-#### #### What’s the difference between normal tiredness and dangerous fatigue in someone with diabetes and sleep apnea?  
+#### What’s the difference between normal tiredness and dangerous fatigue in someone with diabetes and sleep apnea?  
 Normal tiredness lifts with light activity or caffeine and resolves within 60 minutes. Dangerous fatigue is persistent (>2 hours), unrelieved by rest, and often paired with cognitive fog, orthostatic dizziness, or oxygen desaturation <90% on pulse oximetry.
 
-#### #### Can untreated sleep apnea make my diabetes harder to manage—and cause worse post-dinner fatigue?  
+#### Can untreated sleep apnea make my diabetes harder to manage—and cause worse post-dinner fatigue?  
 Absolutely. Sleep fragmentation and hypoxia increase cortisol and sympathetic tone, raising fasting glucose by 15–25 mg/dL on average—and worsening postprandial spikes. This creates a cycle where fatigue leads to inactivity, which worsens both apnea and glycemic control.
 
-#### #### How soon after Christmas dinner should I worry if I feel unusually tired?  
+#### How soon after Christmas dinner should I worry if I feel unusually tired?  
 If fatigue begins within 30 minutes, lasts longer than 90 minutes, and occurs repeatedly across 3+ holiday meals—even with similar food choices—it’s time to explore underlying contributors like sleep apnea or glucose variability.
 
-#### #### Does high blood pressure play a role in post-dinner fatigue sleep apnea diabetes elderly?  
+#### Does high blood pressure play a role in post-dinner fatigue sleep apnea diabetes elderly?  
 Yes. Nocturnal hypertension (especially non-dipping BP patterns) commonly coexists with untreated apnea and diabetes. Elevated arterial pressure after meals may reflect impaired baroreflex function—another reason to monitor BP at consistent times, including 1 and 2 hours post-dinner.

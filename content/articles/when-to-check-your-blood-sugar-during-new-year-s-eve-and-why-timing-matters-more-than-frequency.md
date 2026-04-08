@@ -96,17 +96,17 @@ The goal of mindful glucose monitoring isn’t perfection—it’s predictabilit
 
 ### FAQ
 
-#### #### How often should I check my blood sugar on New Year’s Eve?  
+#### How often should I check my blood sugar on New Year’s Eve?  
 Frequency matters less than timing. Aim for 3–4 targeted checks—at baseline, 90–120 minutes after eating, 2–3 hours after drinking, and before bed—rather than random or hourly checks. This gives you clinically meaningful data without burnout.
 
-#### #### When to check blood sugar New Year’s Eve if I’m on metformin only?  
+#### When to check blood sugar New Year’s Eve if I’m on metformin only?  
 Metformin alone carries minimal hypoglycemia risk, so strict timing is less urgent. However, if you’re combining it with alcohol or skipping meals, checking before bed is still wise—especially if you’re over 50 and have reduced kidney function (eGFR <60 mL/min), which affects metformin clearance.
 
-#### #### When to check blood sugar New Year’s Eve after drinking alcohol?  
+#### When to check blood sugar New Year’s Eve after drinking alcohol?  
 Check 2–3 hours after your last drink—and again before sleep. Alcohol can cause delayed hypoglycemia, particularly between midnight and 3 a.m., due to suppressed liver glucose production. Never go to bed with a glucose <100 mg/dL after drinking.
 
-#### #### Do I need to check more often if I’m using a CGM on New Year’s Eve?  
+#### Do I need to check more often if I’m using a CGM on New Year’s Eve?  
 Yes—but differently. Use your CGM’s trend arrows and alerts strategically. Pay close attention to sustained downward arrows after 10 p.m., and review the 2-hour post-meal and overnight graphs the next day. Alarms are helpful, but interpreting *why* a trend is happening requires timing context.
 
-#### #### What’s the best snack to pair with alcohol to prevent lows?  
+#### What’s the best snack to pair with alcohol to prevent lows?  
 Choose a balanced option: 15g carb + 7g protein + healthy fat (e.g., 6 whole-grain crackers + 1 oz cheese + 5 almonds). Avoid carb-only snacks (like pretzels), which cause quick spikes followed by sharper drops—especially risky with sulfonylureas.

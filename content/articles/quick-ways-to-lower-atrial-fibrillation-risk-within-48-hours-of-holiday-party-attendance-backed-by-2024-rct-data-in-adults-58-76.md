@@ -82,22 +82,22 @@ If you're unsure, talking to your doctor is always a good idea. And remember—y
 
 ### FAQ
 
-#### #### Can drinking extra water really reduce AFib risk within 48 hours holiday?
+#### Can drinking extra water really reduce AFib risk within 48 hours holiday?
 
 Yes—but hydration alone isn’t enough. In the 2024 trial, hydration was most effective when paired with electrolytes (especially potassium and magnesium) and timed within 4 hours post-party. Plain water helps, but adding modest natural sources of minerals—like coconut water, bananas, or leafy greens—enhanced the protective effect significantly.
 
-#### #### What’s the fastest way to reduce AFib risk within 48 hours holiday after a big meal?
+#### What’s the fastest way to reduce AFib risk within 48 hours holiday after a big meal?
 
 The most time-efficient strategy is combining two actions: (1) a potassium-magnesium-rich snack (e.g., banana with 1 tbsp almond butter) within 2 hours, and (2) a 20-second cold-water facial immersion before bed. Together, these address both electrical stability and nervous system balance—two key levers identified in the trial.
 
-#### #### Does avoiding alcohol for 48 hours reduce AFib risk within 48 hours holiday—or is timing less important than what you do *after*?
+#### Does avoiding alcohol for 48 hours reduce AFib risk within 48 hours holiday—or is timing less important than what you do *after*?
 
 Avoiding alcohol helps long-term, but the 2024 trial found that *what you do after* matters more for short-term rhythm protection. Participants who drank moderately (1–2 drinks) but followed the 48-hour protocol had lower AFib incidence than those who abstained but returned to irregular eating and poor sleep. So yes—timing *and* supportive actions both count.
 
-#### #### Is cold-water facial immersion safe for people with high blood pressure?
+#### Is cold-water facial immersion safe for people with high blood pressure?
 
 For most adults with stable, well-managed hypertension (e.g., BP <140/90 mm Hg), yes—especially when done gently and briefly (20–30 seconds). However, if your systolic BP regularly exceeds 160 mm Hg or you have uncontrolled arterial pressure, check with your doctor first. The trial excluded participants with recent hypertensive crises or unstable heart failure.
 
-#### #### How soon after a holiday party should I start trying to reduce AFib risk within 48 hours holiday?
+#### How soon after a holiday party should I start trying to reduce AFib risk within 48 hours holiday?
 
 Ideally, begin within 2–4 hours after returning home—especially with hydration and nutrition. The vagal priming and meal-spacing strategies remain beneficial up to 48 hours post-event, but earlier initiation yields the strongest rhythm-stabilizing effects observed in the study.

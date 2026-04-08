@@ -86,17 +86,17 @@ You’re not alone—and you’re not powerless. Microvascular angina reflects r
 
 ### FAQ
 
-#### #### What are the best Nrf2-activating foods microvascular angina elders should eat daily?
+#### What are the best Nrf2-activating foods microvascular angina elders should eat daily?
 The most clinically supported options include raw broccoli sprouts (sulforaphane), crushed-and-rested garlic (allicin), pomegranate arils (ellagic acid), walnuts, turmeric (curcumin), green tea (EGCG), blueberries (anthocyanins), dark chocolate (70%+ cocoa, flavanols), extra virgin olive oil (oleocanthal), and fermented soy (daidzein). Prioritize freshness, proper preparation, and consistency—daily intake matters more than occasional large servings.
 
-#### #### Do Nrf2-activating foods microvascular angina elders interact with heart medications?
+#### Do Nrf2-activating foods microvascular angina elders interact with heart medications?
 Most whole-food Nrf2 activators have no clinically significant interactions with common cardiovascular drugs like beta-blockers, ACE inhibitors, or low-dose aspirin. However, high-dose garlic supplements (>1,000 mg/day) may potentiate anticoagulants like warfarin; stick to culinary amounts (1–2 cloves/day). Always discuss dietary changes with your prescriber—especially if taking nitrates or ranolazine.
 
-#### #### Can cooking destroy the Nrf2 benefits in foods like broccoli and garlic?
+#### Can cooking destroy the Nrf2 benefits in foods like broccoli and garlic?
 Yes—but selectively. Boiling broccoli for >5 minutes deactivates myrosinase, halting sulforaphane formation. Steaming ≤3 minutes preserves ~70% activity. For garlic, crushing and allowing 10 minutes before light cooking (e.g., sautéing <1 min) retains >80% allicin potential. Avoid microwaving garlic or boiling sprouts—these methods degrade key enzymes most severely.
 
-#### #### How long before I notice improvements in microvascular angina symptoms?
+#### How long before I notice improvements in microvascular angina symptoms?
 Clinical trials report measurable improvements in microvascular reactivity (via PAT or CFR) within 4–8 weeks of consistent intake. Symptom relief—such as reduced chest tightness during exertion or faster post-activity recovery—often begins between weeks 3–6. Patience and regularity are essential: Nrf2 pathway upregulation requires sustained exposure.
 
-#### #### Is there a blood test to check if Nrf2-activating foods are working for me?
+#### Is there a blood test to check if Nrf2-activating foods are working for me?
 No direct commercial blood test measures Nrf2 activation—but downstream markers can help. Your doctor may track changes in urinary 8-OHdG (oxidative DNA damage), serum glutathione peroxidase activity, or hs-CRP over 3 months. More practically, repeat microvascular reactivity testing (e.g., EndoPAT or CFR) every 3–6 months offers objective insight into endothelial progress.

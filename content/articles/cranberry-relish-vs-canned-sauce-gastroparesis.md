@@ -54,22 +54,22 @@ In summary, choosing wisely between cranberry relish and canned sauce isn’t ab
 
 ### FAQ
 
-#### #### Is cranberry relish vs canned sauce gastroparesis really that different for blood sugar?
+#### Is cranberry relish vs canned sauce gastroparesis really that different for blood sugar?
 
 Yes — especially in adults with delayed gastric emptying. Fresh relish delivers intact fiber and slower-digesting carbs, while canned sauce provides concentrated, rapidly absorbed sugars with minimal fiber — increasing risk of unpredictable glucose spikes and delayed hypoglycemia.
 
-#### #### Can I eat canned cranberry sauce if I have gastroparesis and diabetes?
+#### Can I eat canned cranberry sauce if I have gastroparesis and diabetes?
 
 You *can*, but cautiously. Limit to ≤1 tsp per meal and pair with protein/fat. Monitor for bloating or rapid glucose rises — many with gastroparesis report better tolerance with whole-fruit relish due to improved gastric pacing.
 
-#### #### What’s the best cranberry option for holiday diabetes management?
+#### What’s the best cranberry option for holiday diabetes management?
 
 Fresh, no-added-sugar relish is generally preferred. Look for recipes with ≥2 g fiber per serving and avoid heat-processing that degrades pectin. Always individualize based on your CGM data and symptom response.
 
-#### #### Does fiber in cranberry relish help gastroparesis?
+#### Does fiber in cranberry relish help gastroparesis?
 
 Soluble fiber (like pectin) adds viscosity and supports more regulated gastric emptying — unlike insoluble fiber, which may worsen symptoms in severe gastroparesis. Moderation is key: too much fiber (>5 g at once) can cause bloating.
 
-#### #### How does cranberry relish vs canned sauce gastroparesis affect blood pressure?
+#### How does cranberry relish vs canned sauce gastroparesis affect blood pressure?
 
 While neither directly raises BP, large glucose swings can trigger sympathetic nervous system activation, transiently elevating systolic pressure by 10–15 mm Hg. Stable postprandial glucose supports overall cardiovascular resilience — an important consideration in adults 68+ managing both diabetes and hypertension.

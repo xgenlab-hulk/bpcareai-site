@@ -75,17 +75,17 @@ In closing: Your heart’s electrical architecture remains responsive well into 
 
 ### FAQ
 
-#### #### Does walking help connexin-43 expression support in aging heart?  
+#### Does walking help connexin-43 expression support in aging heart?  
 Yes—moderate aerobic activity (like brisk walking 30 minutes most days) improves nitric oxide bioavailability and reduces oxidative stress, both of which help preserve connexin-43 function. One trial found walkers over 65 had significantly lower P-wave dispersion than sedentary peers.
 
-#### #### What foods boost connexin-43 expression support in aging heart naturally?  
+#### What foods boost connexin-43 expression support in aging heart naturally?  
 Top evidence-backed options include cruciferous vegetables (broccoli sprouts, kale), deeply pigmented berries (blueberries, black currants), turmeric (with black pepper), and red grapes or peanuts (for resveratrol). Focus on variety and freshness—cooking can reduce sulforaphane yield.
 
-#### #### Can holiday heart syndrome be prevented with connexin-43 expression support in aging heart strategies?  
+#### Can holiday heart syndrome be prevented with connexin-43 expression support in aging heart strategies?  
 Yes—these approaches directly target the underlying vulnerability: disrupted intercellular communication. Combined with mindful alcohol intake (<1 drink/day for women, <2 for men) and consistent sleep, they form a strong foundation for holiday heart syndrome prevention.
 
-#### #### Is connexin-43 expression support in aging heart relevant for people without diagnosed heart disease?  
+#### Is connexin-43 expression support in aging heart relevant for people without diagnosed heart disease?  
 Absolutely. Connexin-43 remodeling begins silently years before symptoms appear. Supporting it early is like maintaining the wiring in your home—you don’t wait for the lights to flicker.
 
-#### #### Does magnesium help with connexin-43?  
+#### Does magnesium help with connexin-43?  
 Magnesium supports overall cardiac electrophysiology and may stabilize gap junctions indirectly—especially in those with suboptimal intake—but no clinical trial has yet measured its direct effect on Cx43 expression in older adults.

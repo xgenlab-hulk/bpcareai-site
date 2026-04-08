@@ -45,17 +45,17 @@ In time, these small, consistent choices add up to real relief. You’re not try
 
 ### FAQ  
 
-#### #### How can seniors reduce joint stiffness post-holiday naturally?  
+#### How can seniors reduce joint stiffness post-holiday naturally?  
 Start with meal timing (omega-3s before heavier meals), prioritize whole foods low in AGEs (steamed veggies, baked fish, berries), and add short, frequent movement anchors — like seated leg lifts or gentle wrist circles — every 1.5 hours. Hydration and quality sleep also play key supportive roles.
 
-#### #### What foods help reduce joint stiffness post-holiday seniors with arthritis?  
+#### What foods help reduce joint stiffness post-holiday seniors with arthritis?  
 Focus on deeply colored vegetables (kale, beets), tart cherries, fatty fish (salmon, mackerel), flax and chia seeds, and spices like turmeric and ginger. Pair them intentionally — for example, add turmeric to scrambled eggs *before* a holiday brunch — to enhance anti-inflammatory synergy.
 
-#### #### Does high CRP cause joint stiffness in older adults?  
+#### Does high CRP cause joint stiffness in older adults?  
 Elevated hs-CRP (especially > 3.0 mg/L) reflects systemic inflammation, which *contributes to* joint stiffness in osteoarthritis — it doesn’t directly “cause” it, but it amplifies pain signaling and reduces tissue repair efficiency. Lowering CRP through diet, movement, and stress management often improves stiffness.
 
-#### #### Can walking help reduce joint stiffness post-holiday seniors?  
+#### Can walking help reduce joint stiffness post-holiday seniors?  
 Yes — but consistency matters more than intensity. Just 10 minutes of slow, comfortable walking twice a day (morning and early evening) improves synovial fluid circulation and has been linked to ~25% lower stiffness scores in adults over 65 with OA in 4-week trials.
 
-#### #### What’s the best time of day to take omega-3s for joint stiffness?  
+#### What’s the best time of day to take omega-3s for joint stiffness?  
 For best effect, take omega-3-rich foods (like walnuts or flax) 15–20 minutes *before* a higher-AGE meal — not on an empty stomach or right after dessert. This timing helps modulate the inflammatory response to that meal, rather than treating inflammation after it begins.

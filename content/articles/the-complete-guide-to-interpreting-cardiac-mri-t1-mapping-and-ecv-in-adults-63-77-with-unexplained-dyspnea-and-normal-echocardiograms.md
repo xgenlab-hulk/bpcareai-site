@@ -76,17 +76,17 @@ Heart disease doesn’t always shout. Sometimes it whispers—in shortness of br
 
 ### FAQ
 
-#### #### What does “elevated ECV” mean on a cardiac MRI—and is it always serious?
+#### What does “elevated ECV” mean on a cardiac MRI—and is it always serious?
 Elevated extracellular volume (ECV >28%) suggests expansion of the space between heart muscle cells—commonly due to diffuse fibrosis, amyloid deposition, or chronic inflammation. It’s not automatically a diagnosis, but it *is* a red flag requiring correlation with symptoms, labs (e.g., troponin, NT-proBNP, serum free light chains), and sometimes biopsy. In adults 63–77, ECV >30% strongly warrants amyloid workup.
 
-#### #### How is cardiac MRI T1 mapping interpretation different from a regular cardiac MRI?
+#### How is cardiac MRI T1 mapping interpretation different from a regular cardiac MRI?
 A standard cardiac MRI evaluates structure, motion, and blood flow. T1 mapping adds quantitative, pixel-by-pixel measurements of magnetic relaxation times—allowing objective assessment of tissue composition. It’s not just “looking at pictures”; it’s measuring biological properties—like collagen or protein burden—that standard MRI can’t quantify.
 
-#### #### Can cardiac MRI T1 mapping interpretation detect early heart disease before symptoms appear?
+#### Can cardiac MRI T1 mapping interpretation detect early heart disease before symptoms appear?
 Yes—studies show abnormal native T1 and ECV can precede symptoms by months or even years in high-risk groups (e.g., long-standing hypertension, diabetes, or genetic carriers of amyloidosis). However, routine screening isn’t currently recommended for asymptomatic people. Its greatest value lies in clarifying *unexplained* symptoms—like dyspnea with normal echo.
 
-#### #### Is cardiac MRI T1 mapping safe for older adults with kidney issues?
+#### Is cardiac MRI T1 mapping safe for older adults with kidney issues?
 Gadolinium contrast is generally avoided if eGFR falls below 30 mL/min/1.73m² due to risk of nephrogenic systemic fibrosis (NSF)—a rare but serious condition. However, *native* T1 mapping (without contrast) is entirely safe and still highly informative for detecting iron overload or edema. Always discuss kidney function with your care team before scheduling.
 
-#### #### Do I need a referral to get cardiac MRI T1 mapping interpretation?
+#### Do I need a referral to get cardiac MRI T1 mapping interpretation?
 Yes—you’ll need a referral from a cardiologist or primary care provider familiar with advanced imaging indications. Not all MRI centers perform or interpret T1 mapping routinely, so ask whether the facility has experience with quantitative myocardial mapping and whether their radiologists/cardiologists collaborate on interpretation.

@@ -82,22 +82,22 @@ Winter with AFib doesn’t have to mean worry—it can be a season of calm consi
 
 ### FAQ
 
-#### #### Does cold weather really increase stroke risk for seniors with AFib?
+#### Does cold weather really increase stroke risk for seniors with AFib?
 
 Yes—studies confirm that colder ambient temperatures correlate with a modest but measurable increase in ischemic stroke incidence among older adults with AFib. This is largely due to vasoconstriction, hemoconcentration, and heightened platelet reactivity—all amplified in aging physiology. The risk rises gradually—not suddenly—and is most significant during prolonged exposure below 40°F (4°C).
 
-#### #### How does holiday eating affect cold weather stroke risk afib seniors?
+#### How does holiday eating affect cold weather stroke risk afib seniors?
 
 Holiday feasting contributes to *postprandial hypercoagulability*, a temporary increase in clotting tendency after large, high-fat, or high-sodium meals. When layered on top of cold-induced vascular changes, it creates a synergistic effect—not dangerous on its own, but worth moderating through portion control, hydration, and mindful timing.
 
-#### #### Are there specific foods seniors with AFib should avoid during winter?
+#### Are there specific foods seniors with AFib should avoid during winter?
 
 There’s no universal “avoid list,” but it helps to limit highly processed items (canned soups, frozen dinners, cured meats) due to sodium and preservatives. Also, be mindful of grapefruit and pomegranate if you take certain anticoagulants—they can interfere with medication metabolism. Focus instead on potassium-rich foods (bananas, spinach, white beans) and omega-3s (fatty fish, flaxseed) to support vascular tone.
 
-#### #### Can wearing a scarf or hat outdoors lower cold weather stroke risk afib seniors?
+#### Can wearing a scarf or hat outdoors lower cold weather stroke risk afib seniors?
 
 Yes—covering your head, neck, and face helps minimize the abrupt vasoconstrictive response triggered by cold air hitting exposed skin and airways. This stabilizes peripheral resistance and reduces the immediate BP surge that can occur in the first few minutes outdoors.
 
-#### #### Is it safe to exercise outside in winter if I have AFib?
+#### Is it safe to exercise outside in winter if I have AFib?
 
 Gentle outdoor activity (like walking) is generally safe—if temperatures are above 20°F (−7°C) and you’re dressed warmly. Avoid intense exertion in very cold or windy conditions, as this can provoke arrhythmias or BP spikes. Indoor alternatives—chair yoga, mall walking, or stair climbing—are excellent year-round options.

@@ -87,22 +87,22 @@ Recognizing *holiday ham dizziness autonomic neuropathy* isn’t about adding wo
 
 ### FAQ
 
-#### #### Why do I get dizzy *only* after eating holiday ham—but not other meats?
+#### Why do I get dizzy *only* after eating holiday ham—but not other meats?
 
 Holiday ham (and similar cured meats) contains added sodium nitrite, which rapidly converts to nitric oxide—a powerful vasodilator. Fresh or roasted meats lack this additive. In adults with autonomic neuropathy, that vasodilation isn’t properly balanced by compensatory vasoconstriction or heart rate increases, leading to transient cerebral hypoperfusion and dizziness.
 
-#### #### Is holiday ham dizziness autonomic neuropathy dangerous?
+#### Is holiday ham dizziness autonomic neuropathy dangerous?
 
 On its own, occasional dizziness isn’t life-threatening—but it *is* a marker of reduced autonomic reserve. Left unaddressed, it can increase fall risk (a leading cause of injury in adults 65+) and may reflect broader cardiovascular vulnerability. Early recognition allows for proactive management.
 
-#### #### Can holiday ham dizziness autonomic neuropathy happen even if my diabetes is “well-controlled”?
+#### Can holiday ham dizziness autonomic neuropathy happen even if my diabetes is “well-controlled”?
 
 Yes. Hemoglobin A1c reflects average glucose over 3 months—but autonomic damage accumulates over years and isn’t fully reversible with current glucose targets. Even with A1c <7.0%, structural and functional nerve changes may persist. That’s why symptom awareness matters as much as lab values.
 
-#### #### Does eating organic or “no-nitrate-added” ham prevent this?
+#### Does eating organic or “no-nitrate-added” ham prevent this?
 
 Not necessarily. Products labeled “no nitrate added” often use celery juice or powder—which naturally contains nitrates—and are legally permitted to list “no added nitrates” despite delivering comparable nitrite levels. Always check the ingredient list for terms like “cultured celery juice” or “cherry powder,” which serve the same preservative function.
 
-#### #### Are there alternatives to holiday ham that won’t trigger dizziness?
+#### Are there alternatives to holiday ham that won’t trigger dizziness?
 
 Yes. Roasted turkey breast (uncured), baked chicken, or plant-based options like lentil loaf or mushroom “ham” provide festive flavor without added nitrates. When choosing deli-style meats, look for brands explicitly stating “0 ppm nitrite” and verified by third-party testing—though availability remains limited.

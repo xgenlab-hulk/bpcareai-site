@@ -68,17 +68,17 @@ Choosing food shouldn’t mean choosing between joy and health—especially when
 
 ### FAQ  
 
-#### #### What are the best low-sodium high-fiber buffet sides seniors can prepare ahead of time?  
+#### What are the best low-sodium high-fiber buffet sides seniors can prepare ahead of time?  
 Roasted beet-kale slaw (dressed just before serving), lentil-mushroom pilaf (with barley or farro for extra chew), baked sweet potato wedges with rosemary, quinoa-tabbouleh with parsley and lemon, steamed broccoli-rice medley with turmeric, and spiced carrot-apple ribbons with toasted fennel seeds. All hold texture well for 3+ hours and contain ≤140mg sodium and ≥3g fiber per ½-cup serving.
 
-#### #### Are low-sodium high-fiber buffet sides seniors eat really safe for 3 hours?  
+#### Are low-sodium high-fiber buffet sides seniors eat really safe for 3 hours?  
 Yes—when properly held. Hot dishes should remain ≥140°F throughout (use a probe thermometer), and cold ones ≤40°F. Lab-tested versions of lentil-mushroom pilaf and roasted beet slaw maintained safe microbial levels and texture integrity for up to 3.5 hours under controlled buffet conditions.
 
-#### #### Can high-fiber buffet sides worsen constipation in seniors?  
+#### Can high-fiber buffet sides worsen constipation in seniors?  
 Not when introduced gradually and paired with fluids. Sudden increases (more than 5g/day over 3–5 days) may cause gas or bloating. Start with one 3g-fiber side per meal, drink 6–8 oz water with it, and add gentle movement (a 10-minute walk post-meal helps digestion significantly).
 
-#### #### Do I need special equipment to keep low-sodium high-fiber buffet sides seniors love at safe temperatures?  
+#### Do I need special equipment to keep low-sodium high-fiber buffet sides seniors love at safe temperatures?  
 No—but a simple digital probe thermometer is incredibly helpful. Chafing dishes with full water pans and tight-fitting lids maintain heat more evenly than steam tables alone. For cold sides, nest serving bowls in larger containers filled with crushed ice and rotate every 90 minutes.
 
-#### #### How does fiber help with both constipation and blood pressure in older adults?  
+#### How does fiber help with both constipation and blood pressure in older adults?  
 Soluble fiber (found in lentils, oats, apples) binds to bile acids and supports healthy cholesterol metabolism—indirectly easing arterial strain. It also promotes beneficial gut bacteria that produce short-chain fatty acids linked to improved endothelial function. Insoluble fiber adds bulk and stimulates gentle colonic contractions—supporting regularity without harsh laxative effects.

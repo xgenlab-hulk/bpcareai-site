@@ -64,22 +64,22 @@ In summary, while breathing patterns left atrial pressure af are not a replaceme
 
 ### FAQ
 
-#### #### Can breathing patterns left atrial pressure af help during an acute AF episode?
+#### Can breathing patterns left atrial pressure af help during an acute AF episode?
 
 Yes — when practiced correctly, evidence-based patterns like the 4-7-8-3 technique have demonstrated acute PAWP reductions ≥4 mmHg in adults 70+ during invasive monitoring. Effects are temporary but clinically meaningful for symptom relief.
 
-#### #### Are there breathing patterns left atrial pressure af that worsen AF symptoms?
+#### Are there breathing patterns left atrial pressure af that worsen AF symptoms?
 
 Yes. Rapid, shallow breathing; forceful inspiratory holds; or breath-holding during exertion can raise intrathoracic pressure, reduce venous return, and increase sympathetic drive — potentially elevating left atrial pressure and triggering palpitations or dyspnea.
 
-#### #### Do I need special equipment to use breathing patterns left atrial pressure af safely?
+#### Do I need special equipment to use breathing patterns left atrial pressure af safely?
 
 No — but consistency and correct form matter more than frequency. A quiet space and a timer (phone or clock) are sufficient. Avoid breath-hold practices if you have uncontrolled hypertension, recent stroke, or unstable angina without prior clinician review.
 
-#### #### How does this differ from general “relaxation breathing” for AF?
+#### How does this differ from general “relaxation breathing” for AF?
 
 General relaxation breathing reduces anxiety but doesn’t reliably lower left atrial pressure. The validated patterns emphasize *exhalation duration*, *post-exhalation apnea*, and *diaphragmatic engagement* — parameters specifically selected to optimize cardiac filling dynamics in AF.
 
-#### #### Is this recommended for people with heart disease and AF?
+#### Is this recommended for people with heart disease and AF?
 
 Yes — especially for those with heart disease involving diastolic dysfunction or HFpEF. Always coordinate with your cardiology team to ensure alignment with your broader treatment plan.

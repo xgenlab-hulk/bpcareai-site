@@ -1,0 +1,210 @@
+{
+  "metadata": {
+    "created_date": "2026-03-21",
+    "total_redirects": 38,
+    "batches_covered": [
+      "batch-006"
+    ],
+    "purpose": "为Batch 6优化的50篇文章提供301永久重定向配置",
+    "usage": "将redirects数组内容添加到next.config.js的redirects()函数中"
+  },
+  "redirects": [
+    {
+      "source": "/articles/aromatase-inhibitors-diabetes-interaction-seniors",
+      "destination": "/articles/breast-cancer-drugs-diabetes-women-65",
+      "permanent": true
+    },
+    {
+      "source": "/articles/9-hidden-sources-of-holiday-related-magnesium-depletion-in-adults-65-with-chronic-migraines-and-how-to-replenish-without-diarrhea",
+      "destination": "/articles/magnesium-depletion-migraines-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/7-hidden-medication-interactions-that-raise-systolic-pressure-in-adults-72-taking-antidepressants-and-calcium-channel-blockers",
+      "destination": "/articles/antidepressant-bp-interaction-seniors-72",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-holiday-safe-herbs-and-spices-that-boost-endothelial-no-production-without-interfering-with-warfarin-for-adults-74-on-anticoagulation-therapy",
+      "destination": "/articles/warfarin-safe-herbs-holiday-cooking-74",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-foods-that-enhance-myocardial-mitochondrial-biogenesis-without-increasing-oxidative-stress-for-adults-55-63-with-early-diastolic-dysfunction",
+      "destination": "/articles/heart-energy-foods-diastolic-dysfunction",
+      "permanent": true
+    },
+    {
+      "source": "/articles/10-silent-signs-your-heart-is-struggling-during-summer-heat-even-with-normal-baseline-bp-and-pulse-in-adults-65",
+      "destination": "/articles/heart-strain-summer-heat-seniors-65",
+      "permanent": true
+    },
+    {
+      "source": "/articles/7-hidden-medication-interactions-that-raise-systolic-pressure-in-adults-72-taking-antidepressants-and-calcium-channel-blockers",
+      "destination": "/articles/medication-interactions-bp-seniors-ssri",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-holiday-safe-herbs-and-spices-that-boost-endothelial-no-production-without-interfering-with-warfarin-for-adults-74-on-anticoagulation-therapy",
+      "destination": "/articles/holiday-herbs-warfarin-safe-seniors-74",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-foods-that-enhance-myocardial-mitochondrial-biogenesis-without-increasing-oxidative-stress-for-adults-55-63-with-early-diastolic-dysfunction",
+      "destination": "/articles/foods-heart-energy-diastolic-dysfunction",
+      "permanent": true
+    },
+    {
+      "source": "/articles/10-silent-signs-your-heart-is-struggling-during-summer-heat-even-with-normal-baseline-bp-and-pulse-in-adults-65",
+      "destination": "/articles/heart-strain-summer-heat-seniors-65",
+      "permanent": true
+    },
+    {
+      "source": "/articles/when-to-worry-about-unexplained-fatigue-after-age-68-distinguishing-early-heart-failure-from-anemia-thyroid-dysfunction-and-medication-side-effects",
+      "destination": "/articles/fatigue-after-68-heart-vs-anemia-thyroid",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-late-night-snacking-during-hanukkah-or-christmas-eve-affects-overnight-glucose-stability-in-women-over-70",
+      "destination": "/articles/late-night-snacking-blood-sugar-women-70",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-cold-weather-vasoconstriction-amplifies-post-holiday-sodium-sensitivity-in-men-over-72-with-peripheral-artery-disease",
+      "destination": "/articles/cold-weather-sodium-sensitivity-pad-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-chronic-low-grade-gum-inflammation-drives-coronary-plaque-instability-and-why-scaling-alone-isn-t-enough-for-adults-62-with-periodontitis-and-cad",
+      "destination": "/articles/gum-disease-heart-health-seniors-62",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-chronic-low-dose-nsaid-use-after-age-65-alters-renin-angiotensin-feedback-and-why-it-masks-early-diastolic-hypertension",
+      "destination": "/articles/nsaid-blood-pressure-risk-seniors-65",
+      "permanent": true
+    },
+    {
+      "source": "/articles/holiday-travel-gut-microbiome-ibs-seniors",
+      "destination": "/articles/holiday-travel-digestive-problems-ibs-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-late-night-snacking-during-hanukkah-or-christmas-eve-affects-overnight-glucose-stability-in-women-over-70",
+      "destination": "/articles/late-night-snacking-blood-sugar-women-70",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-cold-weather-vasoconstriction-amplifies-post-holiday-sodium-sensitivity-in-men-over-72-with-peripheral-artery-disease",
+      "destination": "/articles/cold-weather-sodium-sensitivity-men-72-pad",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-chronic-low-grade-gum-inflammation-drives-coronary-plaque-instability-and-why-scaling-alone-isn-t-enough-for-adults-62-with-periodontitis-and-cad",
+      "destination": "/articles/gum-disease-heart-risk-seniors-over-60",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-chronic-low-dose-nsaid-use-after-age-65-alters-renin-angiotensin-feedback-and-why-it-masks-early-diastolic-hypertension",
+      "destination": "/articles/ibuprofen-blood-pressure-risk-over-65",
+      "permanent": true
+    },
+    {
+      "source": "/articles/holiday-travel-gut-microbiome-ibs-seniors",
+      "destination": "/articles/holiday-travel-ibs-flare-prevention-58",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-late-night-snacking-during-hanukkah-or-christmas-eve-affects-overnight-glucose-stability-in-women-over-70",
+      "destination": "/articles/late-night-snacking-blood-sugar-women-70",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-cold-weather-vasoconstriction-amplifies-post-holiday-sodium-sensitivity-in-men-over-72-with-peripheral-artery-disease",
+      "destination": "/articles/cold-weather-salt-sensitivity-pad-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-chronic-low-grade-gum-inflammation-drives-coronary-plaque-instability-and-why-scaling-alone-isn-t-enough-for-adults-62-with-periodontitis-and-cad",
+      "destination": "/articles/gum-disease-heart-health-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-chronic-low-dose-nsaid-use-after-age-65-alters-renin-angiotensin-feedback-and-why-it-masks-early-diastolic-hypertension",
+      "destination": "/articles/ibuprofen-blood-pressure-seniors-kidneys",
+      "permanent": true
+    },
+    {
+      "source": "/articles/holiday-travel-gut-microbiome-ibs-seniors",
+      "destination": "/articles/holiday-travel-digestive-problems-ibs",
+      "permanent": true
+    },
+    {
+      "source": "/articles/heart-healthy-holiday-dinner-mci-hosting",
+      "destination": "/articles/host-holiday-dinner-memory-loss-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/foods-cardiac-fibroblast-quiescence-seniors",
+      "destination": "/articles/foods-heart-tissue-health-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/connexin-43-phosphorylation-natural-modulation",
+      "destination": "/articles/stop-irregular-heartbeats-naturally-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/bp-drop-physical-therapy-post-cabg",
+      "destination": "/articles/bp-drops-standing-after-heart-surgery",
+      "permanent": true
+    },
+    {
+      "source": "/articles/best-holiday-appetizers-for-adults-70-with-denture-instability-soft-high-protein-low-residue-options-that-don-t-require-chewing-force",
+      "destination": "/articles/soft-holiday-appetizers-dentures-70",
+      "permanent": true
+    },
+    {
+      "source": "/articles/7-holiday-foods-that-trigger-silent-gastric-reflux-in-adults-65-even-without-heartburn",
+      "destination": "/articles/holiday-foods-silent-reflux-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/7-hidden-heart-disease-risk-factors-your-primary-care-doctor-might-miss-especially-if-you-re-a-woman-over-65-with-migraines",
+      "destination": "/articles/heart-risk-factors-women-65-migraines",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-things-everyone-over-75-should-know-before-starting-a-beta-blocker-especially-with-copd-bradycardia-or-orthostatic-hypotension",
+      "destination": "/articles/beta-blocker-safety-seniors-75-copd",
+      "permanent": true
+    },
+    {
+      "source": "/articles/10-foods-that-modulate-hepatic-fxr-signaling-without-activating-srebp-1c-for-adults-61-with-type-2-diabetes-and-rising-alt-despite-stable-weight",
+      "destination": "/articles/liver-friendly-foods-diabetes-high-alt",
+      "permanent": true
+    },
+    {
+      "source": "/articles/aromatase-inhibitors-diabetes-interaction-seniors",
+      "destination": "/articles/breast-cancer-meds-diabetes-women-65",
+      "permanent": true
+    },
+    {
+      "source": "/articles/9-hidden-sources-of-holiday-related-magnesium-depletion-in-adults-65-with-chronic-migraines-and-how-to-replenish-without-diarrhea",
+      "destination": "/articles/holiday-magnesium-depletion-migraines-65",
+      "permanent": true
+    },
+    {
+      "source": "/articles/7-hidden-medication-interactions-that-raise-systolic-pressure-in-adults-72-taking-antidepressants-and-calcium-channel-blockers",
+      "destination": "/articles/antidepressant-bp-medication-interaction-72",
+      "permanent": true
+    }
+  ],
+  "instructions": {
+    "step_1": "打开 next.config.js 文件",
+    "step_2": "找到 async redirects() 函数",
+    "step_3": "将上述redirects数组内容添加到slugRedirects数组中",
+    "step_4": "保存并重新部署网站",
+    "step_5": "验证重定向是否生效: curl -I https://yourdomain.com/articles/[旧slug]"
+  }
+}

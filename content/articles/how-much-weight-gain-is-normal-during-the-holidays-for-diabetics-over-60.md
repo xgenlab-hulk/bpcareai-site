@@ -74,17 +74,17 @@ Holiday seasons are meant to be shared, savored, and lived—not measured solely
 
 ### FAQ
 
-#### #### Is 5 pounds of holiday weight gain normal for diabetics over 60?  
+#### Is 5 pounds of holiday weight gain normal for diabetics over 60?  
 Yes—gaining up to 5 pounds during November–January is common and generally considered within a normal, reversible range for adults over 60. What matters most is how quickly it’s addressed and whether it’s accompanied by changes in blood sugar, energy, or BP.
 
-#### #### How does holiday weight gain diabetics over 60 affect blood pressure?  
+#### How does holiday weight gain diabetics over 60 affect blood pressure?  
 Even modest weight gain (3–5 lbs) can raise arterial pressure slightly—especially if sodium intake increases with holiday foods. For those already managing hypertension, this may mean tighter monitoring and a quick check-in with your care team.
 
-#### #### Can holiday weight gain diabetics over 60 lead to long-term complications?  
+#### Can holiday weight gain diabetics over 60 lead to long-term complications?  
 Not necessarily—when recognized early and supported with healthy routines, most seasonal weight changes reverse naturally by late January. Long-term concerns arise only if elevated glucose, BP, or weight persist for 8+ weeks without adjustment.
 
-#### #### What’s the best way to lose holiday weight if I’m over 60 and diabetic?  
+#### What’s the best way to lose holiday weight if I’m over 60 and diabetic?  
 Focus on consistency—not speed. Prioritize daily movement, balanced meals with adequate protein, hydration, and sleep. Avoid drastic cuts—older adults need nutrient density and muscle support more than calorie deficits.
 
-#### #### Do blood sugar-lowering medications change during the holidays?  
+#### Do blood sugar-lowering medications change during the holidays?  
 Sometimes—but never adjust them on your own. If your readings trend higher for several days, or you’re skipping meals regularly, consult your provider. They may temporarily tweak timing or dosage—especially for insulin or meglitinides.

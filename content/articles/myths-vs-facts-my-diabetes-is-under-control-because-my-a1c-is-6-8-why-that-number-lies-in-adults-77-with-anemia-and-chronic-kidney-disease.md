@@ -68,22 +68,22 @@ Managing diabetes after 75—with anemia and CKD—isn’t about doing less. It�
 
 ### FAQ
 
-#### #### Does anemia cause false low A1c in elderly patients with CKD?
+#### Does anemia cause false low A1c in elderly patients with CKD?
 
 Yes—especially iron-deficiency anemia and anemia of chronic disease. Low iron alters hemoglobin glycation kinetics and shortens red blood cell survival, leading to falsely low A1c values. This is a key part of **A1c inaccuracy anemia CKD elderly**, and why alternative markers are recommended.
 
-#### #### Can CKD stage 3 cause A1c inaccuracy even without anemia?
+#### Can CKD stage 3 cause A1c inaccuracy even without anemia?
 
 Absolutely. Uremic toxins in CKD (even Stage 3) interfere with hemoglobin glycation and lab assay accuracy. Carbamylation and reduced RBC lifespan both contribute—making A1c less reliable regardless of hemoglobin level. **A1c inaccuracy anemia CKD elderly** applies across the CKD spectrum—not just in advanced stages.
 
-#### #### What’s a safe A1c target for someone 78 with CKD and mild anemia?
+#### What’s a safe A1c target for someone 78 with CKD and mild anemia?
 
 Individualized targets are essential. For many older adults with CKD and anemia, a target of 7.0–7.5% balances safety (avoiding hypoglycemia) with reasonable control. Fructosamine or CGM-derived metrics often guide treatment more reliably than A1c alone.
 
-#### #### Is fructosamine better than A1c for seniors with kidney disease?
+#### Is fructosamine better than A1c for seniors with kidney disease?
 
 In many cases—yes. Because fructosamine reflects albumin glycation over ~2–3 weeks and isn’t tied to red blood cell turnover, it’s less affected by anemia or shortened RBC life. However, it’s less useful if albumin is very low (<2.5 g/dL) or in acute illness.
 
-#### #### How often should I check fructosamine if I have CKD and diabetes?
+#### How often should I check fructosamine if I have CKD and diabetes?
 
 Typically every 3–6 months—especially if A1c seems inconsistent with your symptoms or home glucose readings. Pair it with CGM data or structured self-monitoring for the fullest picture.

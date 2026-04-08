@@ -98,22 +98,22 @@ If you're unsure, talking to your doctor is always a good idea—and mentioning 
 
 ### FAQ
 
-#### #### What causes sudden drowsiness after dinner in seniors—and is it dangerous?
+#### What causes sudden drowsiness after dinner in seniors—and is it dangerous?
 
 Sudden drowsiness after dinner in adults 75+ can signal late-onset hypoglycemia, often due to delayed insulin release and weakened autonomic responses. Because classic warning signs (shaking, sweating) are muted, it may be mistaken for fatigue—yet it raises fall and injury risk significantly. Yes—it’s potentially dangerous, but highly manageable with awareness and small lifestyle tweaks.
 
-#### #### Is post-dinner drowsiness hypoglycemia seniors common in people without diabetes?
+#### Is post-dinner drowsiness hypoglycemia seniors common in people without diabetes?
 
 Yes. Up to 30% of documented cases occur in older adults with no diabetes diagnosis. Age-related changes in gut hormone signaling, reduced muscle mass, and slower metabolism can all trigger reactive lows—even with normal fasting glucose.
 
-#### #### How is post-dinner drowsiness hypoglycemia seniors different from regular sleepiness?
+#### How is post-dinner drowsiness hypoglycemia seniors different from regular sleepiness?
 
 Regular sleepiness builds gradually and improves with rest. Post-dinner drowsiness hypoglycemia seniors comes on suddenly—often 2–4 hours after eating—and is frequently paired with other subtle signs: mild confusion, delayed reactions, unsteadiness when standing, or needing to hold onto furniture. It may also resolve quickly after eating a small carb-protein snack.
 
-#### #### Can blood pressure meds cause drowsiness after dinner?
+#### Can blood pressure meds cause drowsiness after dinner?
 
 Some antihypertensives—especially alpha-2 agonists (e.g., clonidine) or high-dose beta-blockers—can contribute to fatigue and blunt autonomic responses. But drowsiness *specifically after dinner*, especially with unsteadiness or mental fog, points more strongly toward glucose dysregulation than medication side effects alone.
 
-#### #### What foods should seniors avoid after dinner to prevent drowsiness and falls?
+#### What foods should seniors avoid after dinner to prevent drowsiness and falls?
 
 Avoid large servings of rapidly digested carbs *without balancing protein or fat*: think white bread, sugary desserts, fruit juice, or mashed potatoes eaten alone. Instead, pair carbs intentionally—e.g., apple slices *with* peanut butter, or whole-grain crackers *with* cheese. Also avoid alcohol with dinner, which can amplify both hypoglycemia and orthostatic drops.

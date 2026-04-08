@@ -69,22 +69,22 @@ Holiday meals don’t have to be a source of stress or compromise. Small, joyful
 
 ### FAQ
 
-#### #### Does adding vinegar to gravy really lower blood sugar after holiday meals?
+#### Does adding vinegar to gravy really lower blood sugar after holiday meals?
 
 Yes—modestly and temporarily. Clinical studies show that 10–15 mL of vinegar consumed *with* a carbohydrate-containing meal (like mashed potatoes and gravy) can reduce the 30- to 90-minute postprandial glucose rise by 15–20% in adults with insulin resistance. It works mainly by slowing gastric emptying and enhancing insulin sensitivity—not by replacing medications or healthy habits.
 
-#### #### Is vinegar gravy postprandial glucose insulin resistance safe for people with high blood pressure?
+#### Is vinegar gravy postprandial glucose insulin resistance safe for people with high blood pressure?
 
 Generally, yes—especially when used in typical culinary amounts (1–2 tsp per serving). Vinegar does not raise BP and may support endothelial health. However, if you take diuretics (e.g., hydrochlorothiazide) or have low potassium, discuss vinegar use with your provider first, as large or frequent doses could theoretically affect electrolyte balance.
 
-#### #### How much vinegar should I add to holiday gravy for blood sugar benefits?
+#### How much vinegar should I add to holiday gravy for blood sugar benefits?
 
 Research supports 10–15 mL (about 2–3 teaspoons) of 5% acetic acid vinegar—such as apple cider or white vinegar—added to the finished gravy just before serving. More isn’t better: doses above 20 mL offer no additional glucose benefit and may cause discomfort, especially in older adults with sensitive digestion.
 
-#### #### Can vinegar in gravy replace my diabetes or blood pressure medications?
+#### Can vinegar in gravy replace my diabetes or blood pressure medications?
 
 No. Vinegar is a supportive food-modulation strategy—not a treatment. It may complement your current plan, but never discontinue or adjust prescribed medications without consulting your healthcare team. Think of it as one thoughtful thread in a broader tapestry of care.
 
-#### #### Does the type of vinegar matter for vinegar gravy postprandial glucose insulin resistance?
+#### Does the type of vinegar matter for vinegar gravy postprandial glucose insulin resistance?
 
 Yes—choose vinegars with consistent, labeled acetic acid content (ideally 5%). Raw, unfiltered apple cider vinegar contains beneficial polyphenols, but white vinegar offers the same acetic acid dose with less variability. Avoid “flavored” or “balsamic glaze” products, which often contain added sugar and inconsistent acidity—defeating the purpose.

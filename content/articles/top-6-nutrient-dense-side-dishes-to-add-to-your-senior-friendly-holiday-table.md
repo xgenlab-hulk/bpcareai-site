@@ -94,22 +94,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What are the best nutrient-dense holiday side dishes seniors can eat without upsetting digestion?
+#### What are the best nutrient-dense holiday side dishes seniors can eat without upsetting digestion?
 
 Great question! Gentle-cooked options like roasted sweet potatoes, steamed carrots, herbed white beans, and sautéed spinach are typically well-tolerated. Avoid overly fried, creamy, or highly spiced versions—and introduce new high-fiber sides gradually (e.g., start with ¼ cup lentils and work up). Soaking and rinsing beans or using canned varieties (low-sodium) also helps reduce gas.
 
-#### #### Where can I find easy-to-make nutrient-dense holiday side dishes seniors will actually enjoy?
+#### Where can I find easy-to-make nutrient-dense holiday side dishes seniors will actually enjoy?
 
 Many local senior centers, Meals on Wheels programs, and community kitchens offer free or low-cost cooking classes focused on healthy aging. Online, search for “senior-friendly holiday recipes” or “soft-texture holiday sides”—and look for resources from trusted sources like the Academy of Nutrition and Dietetics or the National Institute on Aging.
 
-#### #### Are nutrient-dense holiday side dishes seniors eat helpful for blood pressure management?
+#### Are nutrient-dense holiday side dishes seniors eat helpful for blood pressure management?
 
 Yes—especially those rich in potassium (sweet potatoes, spinach, white beans), magnesium (kale, lentils, walnuts), and nitrates (beets, arugula). These nutrients support vascular relaxation and healthy arterial pressure. Pairing them with lower-sodium preparation methods makes the impact even more meaningful.
 
-#### #### Can I still enjoy traditional holiday sides if I’m watching my blood sugar?
+#### Can I still enjoy traditional holiday sides if I’m watching my blood sugar?
 
 Absolutely—you can absolutely enjoy classics with smart tweaks. Swap mashed potatoes for cauliflower-potato mash (½ and ½), use Greek yogurt instead of sour cream in dips, and choose whole-grain stuffing over refined bread versions. Portion control and pairing with protein/fiber (like turkey or beans) also help smooth glucose response.
 
-#### #### How much fiber do seniors really need during the holidays—and how can side dishes help?
+#### How much fiber do seniors really need during the holidays—and how can side dishes help?
 
 Adults 51+ need about 22–28 grams of fiber daily. One cup of cooked lentils offers 15.6 g; 1 cup of roasted Brussels sprouts adds 6.4 g; and ½ cup of raspberries contributes 4 g. Including just two of these nutrient-dense holiday side dishes seniors love easily meets half your daily fiber goal—supporting gut health, satiety, and heart wellness.

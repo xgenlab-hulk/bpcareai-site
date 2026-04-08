@@ -84,22 +84,22 @@ Feeling lightheaded after pie orthostatic hypotension women 65+ is more common�
 
 ### FAQ
 
-#### #### What causes lightheadedness after pie orthostatic hypotension women 65+?
+#### What causes lightheadedness after pie orthostatic hypotension women 65+?
 
 This combination reflects two overlapping processes: orthostatic hypotension (BP drop on standing) and postprandial hypotension (BP drop after eating). In women over 65, aging blood vessels, slower autonomic reflexes, and common medications amplify both effects—especially after rich, high-carb meals like pie.
 
-#### #### Is lightheadedness after pie orthostatic hypotension women 65+ a sign of heart trouble?
+#### Is lightheadedness after pie orthostatic hypotension women 65+ a sign of heart trouble?
 
 Not necessarily. While heart conditions like arrhythmias or heart failure can contribute, lightheadedness after pie orthostatic hypotension women 65+ is more commonly linked to autonomic changes, medication effects, or dehydration. Still, it’s wise to rule out cardiac causes—especially if symptoms include chest pressure, palpitations, or shortness of breath.
 
-#### #### Can healthy eating during family gatherings help prevent lightheadedness after pie?
+#### Can healthy eating during family gatherings help prevent lightheadedness after pie?
 
 Yes—absolutely. Prioritizing protein and fiber with desserts (e.g., cottage cheese with berries instead of whipped cream), staying hydrated, and pacing yourself through the meal all support steadier blood pressure. Healthy eating during family gatherings isn’t about restriction—it’s about honoring your body’s needs while still savoring connection and comfort.
 
-#### #### Why do I only get dizzy after dessert—not the main meal?
+#### Why do I only get dizzy after dessert—not the main meal?
 
 Desserts like pie are often high in refined carbohydrates and fats, triggering a stronger insulin response and greater blood flow to the gut. This can create a sharper BP dip—especially when combined with standing up to clear plates or greet guests. The main meal may be less concentrated in these triggers, especially if it includes lean protein and vegetables.
 
-#### #### Does caffeine or alcohol make lightheadedness after pie orthostatic hypotension women 65+ worse?
+#### Does caffeine or alcohol make lightheadedness after pie orthostatic hypotension women 65+ worse?
 
 Often, yes. Alcohol is a direct vasodilator and dehydrating agent; caffeine can cause rebound vasodilation hours later. Both may intensify postprandial BP drops—particularly when consumed with or shortly after a heavy meal. Opting for herbal tea or sparkling water with lemon is a gentler choice for many women over 65.

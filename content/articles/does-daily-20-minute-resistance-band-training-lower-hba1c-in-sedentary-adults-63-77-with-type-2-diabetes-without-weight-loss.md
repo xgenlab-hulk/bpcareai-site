@@ -81,17 +81,17 @@ The message from this research isn’t about adding pressure—it’s about offe
 
 ### FAQ
 
-#### #### Does resistance band training and hba1c in seniors really work without weight loss?
+#### Does resistance band training and hba1c in seniors really work without weight loss?
 Yes—clinical evidence shows that 20 minutes of resistance band training, three times weekly for 16 weeks, lowered HbA1c by ~0.5% in adults aged 63–77, *with no change in body weight or BMI*. The effect is tied to improved muscle glucose uptake, not calorie deficit.
 
-#### #### How often should seniors do resistance band training to see changes in hba1c?
+#### How often should seniors do resistance band training to see changes in hba1c?
 In the study, participants trained three times per week for 20 minutes each session. Benefits were measurable after 8 weeks, with the most significant HbA1c improvements observed at the 16-week mark. Consistency matters more than intensity—so even two sessions per week can yield meaningful progress over time.
 
-#### #### Is resistance band training and hba1c in seniors safe for people with high blood pressure?
+#### Is resistance band training and hba1c in seniors safe for people with high blood pressure?
 Generally, yes—especially when performed at moderate intensity and without breath-holding (Valsalva maneuver). Resistance band training typically causes smaller, shorter BP spikes than free-weight lifting. Still, if you have uncontrolled hypertension (e.g., >160/100 mm Hg), consult your provider before beginning and monitor BP before and after sessions.
 
-#### #### Can resistance bands help with diabetic neuropathy?
+#### Can resistance bands help with diabetic neuropathy?
 While resistance band training won’t reverse nerve damage, it *can* help preserve muscle mass and circulation in the legs—reducing fall risk and supporting foot health. Always wear supportive footwear, avoid barefoot work, and choose seated or supported exercises if balance or sensation is compromised.
 
-#### #### Do I need a prescription or referral to start resistance band training for diabetes management?
+#### Do I need a prescription or referral to start resistance band training for diabetes management?
 No—resistance band training is considered a safe, self-managed lifestyle strategy for most adults with type 2 diabetes. However, if you have heart disease, severe peripheral artery disease, or recent surgery, a brief conversation with your doctor or a physical therapist ensures your plan fits your unique needs.

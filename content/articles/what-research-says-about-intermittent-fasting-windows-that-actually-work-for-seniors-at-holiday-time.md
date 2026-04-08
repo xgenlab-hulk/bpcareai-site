@@ -47,22 +47,22 @@ In all things, kindness to yourself is part of the plan. The goal isn’t perfec
 
 ### FAQ
 
-#### #### Can intermittent fasting seniors holiday time windows help with blood sugar during Christmas and New Year meals?
+#### Can intermittent fasting seniors holiday time windows help with blood sugar during Christmas and New Year meals?
 
 Yes—when practiced gently. Research shows that maintaining a consistent 10-hour eating window (e.g., 8 a.m.–6 p.m.) helps stabilize post-meal glucose responses—even during festive eating—by supporting insulin sensitivity and circadian alignment. Flexibility (e.g., shifting to 9 a.m.–7 p.m. for a holiday brunch) remains effective, especially when paired with mindful food choices.
 
-#### #### Are intermittent fasting seniors holiday time windows safe for people with high blood pressure?
+#### Are intermittent fasting seniors holiday time windows safe for people with high blood pressure?
 
 Most evidence suggests yes—especially when combined with low-sodium, potassium-rich foods and consistent hydration. In fact, several small trials observed modest BP improvements (average drop of 4–6 mm Hg systolic) in older adults following 10-hour TRE. However, those on diuretics or BP medications should work with their clinician to monitor and adjust as needed.
 
-#### #### What’s the best intermittent fasting seniors holiday time window for preserving muscle in your 70s?
+#### What’s the best intermittent fasting seniors holiday time window for preserving muscle in your 70s?
 
 A 10-hour window—such as 8 a.m. to 6 p.m.—is most studied and practical. Crucially, pairing it with ~25–30 g of high-quality protein at each main meal (breakfast, lunch, and an early dinner) supports muscle protein synthesis. Resistance activity—even light bands or chair squats—2–3x weekly further enhances preservation.
 
-#### #### Do I need to stop intermittent fasting seniors holiday time windows during family gatherings?
+#### Do I need to stop intermittent fasting seniors holiday time windows during family gatherings?
 
 Not at all. Think of your window as a gentle guide—not a gatekeeper. You can pause or widen it temporarily (e.g., 11 a.m.–8 p.m. for a multi-course dinner), then ease back the next day. Consistency over time—not daily rigidity—drives long-term benefit.
 
-#### #### Is intermittent fasting safe for seniors with type 2 diabetes during the holidays?
+#### Is intermittent fasting safe for seniors with type 2 diabetes during the holidays?
 
 It can be—with medical supervision. Studies confirm improved glycemic control with TRE in older adults with diabetes, but medication adjustments (especially insulin or sulfonylureas) may be needed to prevent hypoglycemia. Always coordinate with your endocrinologist or primary care provider before starting or modifying a plan.

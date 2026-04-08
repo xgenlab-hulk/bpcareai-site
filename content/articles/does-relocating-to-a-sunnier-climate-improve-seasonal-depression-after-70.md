@@ -57,22 +57,22 @@ Relocating for seasonal depression relief may offer meaningful benefits for *som
 
 ### FAQ
 
-#### #### Does relocating for seasonal depression relief actually work for people over 70?
+#### Does relocating for seasonal depression relief actually work for people over 70?
 
 Research suggests mixed results. A 2021 longitudinal analysis found that only about 28% of adults aged 70–85 experienced sustained mood improvement after moving south—most of whom had mild symptoms, strong pre-move support systems, and continued engagement in structured daily routines. For others, the stress of relocation temporarily worsened mood and sleep. Evidence supports combining environmental strategies (like light exposure) with behavioral and clinical support—not relying on location alone.
 
-#### #### Is relocating for seasonal depression relief safer for older adults with high blood pressure?
+#### Is relocating for seasonal depression relief safer for older adults with high blood pressure?
 
 Not necessarily—and caution is warranted. Sudden climate shifts (e.g., from cold/dry to hot/humid) can challenge cardiovascular regulation. Heat exposure may cause vasodilation and transient drops in BP, while dehydration risk increases—potentially leading to orthostatic hypotension. Conversely, some retirees report *increased* systolic BP after moving due to stress-related cortisol elevation. Always consult your cardiologist or primary care provider before relocating, especially if your BP has been unstable (e.g., readings consistently >140/90 mm Hg or highly variable).
 
-#### #### What are realistic alternatives to relocating for seasonal depression relief?
+#### What are realistic alternatives to relocating for seasonal depression relief?
 
 Effective, well-studied alternatives include daily morning light therapy (10,000 lux, 20–30 min), cognitive behavioral therapy adapted for older adults (CBT-I for insomnia + CBT-SAD), regular physical activity (even 15 minutes of walking outdoors), and vitamin D supplementation *only if lab-confirmed deficiency* (typically <20 ng/mL). Social prescribing—connecting with community programs through your healthcare team—is also gaining traction in geriatric mental health.
 
-#### #### Can seasonal depression in older adults be mistaken for dementia?
+#### Can seasonal depression in older adults be mistaken for dementia?
 
 Yes—sometimes. “Pseudodementia” refers to depressive symptoms (e.g., memory complaints, slowed thinking, apathy) that mimic cognitive decline but improve with depression treatment. Unlike neurodegenerative conditions, these symptoms tend to fluctuate with mood, appear relatively suddenly, and respond to antidepressants or psychotherapy. A thorough neuropsychological evaluation helps distinguish between the two.
 
-#### #### How long does it take to adjust to a new climate after relocating for seasonal depression relief?
+#### How long does it take to adjust to a new climate after relocating for seasonal depression relief?
 
 Physiological adaptation—such as thermoregulation, sleep-wake cycle realignment, and vitamin D synthesis—typically takes 6–12 weeks in healthy older adults. However, emotional and social adjustment often requires 6–12 *months*, especially if familiar supports are left behind. Patience and proactive relationship-building are key to long-term success.

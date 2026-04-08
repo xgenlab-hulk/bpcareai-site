@@ -3,7 +3,7 @@ title: >-
   Warning Signs of Weak Heart Pump in Adults Over 40
 slug: warning-signs-weak-heart-pump
 description: >-
-  Warning signs of weak heart pump include unexplained fatigue, breathlessness on mild activity, and leg swelling—40% of people with LVEF <40% notice these for
+  Warning signs of weak heart pump include unexplained fatigue, breathlessness on mild activity, and leg swelling—40% of people with LVEF <40% notice these for.
 date: '2026-04-02'
 updated: '2026-04-02'
 primaryKeyword: >-

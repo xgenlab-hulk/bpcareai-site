@@ -62,22 +62,22 @@ If you're unsure, talking to your doctor is always a good idea—and mentioning 
 
 ### FAQ
 
-#### #### What are the most common signs of holiday leftovers dehydration seniors 80+?
+#### What are the most common signs of holiday leftovers dehydration seniors 80+?
 
 The most common signs include increased afternoon confusion, worsening constipation despite unchanged diet, dry nasal passages, and feeling unusually tired after meals—even when drinking water regularly. These reflect subtle shifts in sodium balance and mucosal hydration, not just total fluid volume.
 
-#### #### Can holiday leftovers dehydration seniors 80+ affect blood pressure?
+#### Can holiday leftovers dehydration seniors 80+ affect blood pressure?
 
 Yes—mild dehydration can lead to slightly higher systolic readings (e.g., 142/84 instead of 132/78 mm Hg) or more variable BP throughout the day, especially when rising from sitting. It may also contribute to orthostatic drops if combined with certain medications.
 
-#### #### How much broth should seniors 80+ drink daily to prevent holiday leftovers dehydration seniors 80+?
+#### How much broth should seniors 80+ drink daily to prevent holiday leftovers dehydration seniors 80+?
 
 A gentle, effective target is 1–1.5 cups (240–360 mL) of warm, low-sodium broth spread across two servings—ideally mid-morning and midafternoon. This supports sodium balance without overloading kidneys.
 
-#### #### Is constipation really a sign of dehydration in older adults?
+#### Is constipation really a sign of dehydration in older adults?
 
 Yes—particularly in adults 80+. The colon reabsorbs more water when overall hydration is marginal, leading to harder stools and slower transit. It’s often one of the earliest, most reliable clues—even before thirst or urine changes appear.
 
-#### #### Do holiday meals raise hyponatremia risk for seniors?
+#### Do holiday meals raise hyponatremia risk for seniors?
 
 They can—especially when meals are high in carbohydrates and low in sodium-containing liquids (like broth or tomato-based soups). Combined with diminished thirst and age-related kidney adaptation, this pattern may lower serum sodium gradually over several days.

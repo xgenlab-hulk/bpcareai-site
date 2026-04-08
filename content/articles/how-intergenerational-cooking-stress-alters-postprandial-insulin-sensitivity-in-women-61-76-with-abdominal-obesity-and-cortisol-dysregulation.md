@@ -83,22 +83,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does cooking stress really affect insulin sensitivity in older women?
+#### Does cooking stress really affect insulin sensitivity in older women?
 
 Yes—especially in women aged 61–76 with abdominal obesity and signs of cortisol dysregulation. Research shows emotional labor during family meal prep can activate the HPA axis, raising cortisol and temporarily reducing insulin sensitivity—even when meals are nutritionally sound. Real-time CGM data from pilot studies confirms measurable postprandial glucose differences linked to stress context, not just food content.
 
-#### #### How does cooking stress insulin sensitivity family meals impact blood pressure?
+#### How does cooking stress insulin sensitivity family meals impact blood pressure?
 
 Cooking stress can contribute to transient increases in systolic and diastolic pressure due to sympathetic nervous system activation and cortisol-mediated vasoconstriction. In women with existing hypertension or arterial stiffness, repeated postprandial BP surges (e.g., >140/90 mm Hg after meals) may compound cardiovascular risk over time—making stress-aware meal practices doubly beneficial.
 
-#### #### Can reducing cooking stress improve insulin sensitivity without changing my diet?
+#### Can reducing cooking stress improve insulin sensitivity without changing my diet?
 
 Often, yes. Studies suggest that lowering emotional load during meal preparation—through delegation, pacing, or mindfulness—can improve 2-hour postprandial glucose disposal by 10–20%, independent of dietary changes. This highlights how deeply interconnected our nervous and metabolic systems truly are.
 
-#### #### What’s the best way to measure insulin sensitivity at home?
+#### What’s the best way to measure insulin sensitivity at home?
 
 Direct measurement requires clinical tests (like hyperinsulinemic-euglycemic clamps), but practical proxies include continuous glucose monitoring (CGM) metrics (e.g., time-in-range, glucose rise rate, 2-hour recovery), paired with simple tools like the Matsuda Index (calculated from fasting and 2-hour glucose/insulin values). For most people, tracking consistent post-meal glucose trends over time offers the most actionable insight.
 
-#### #### Is intergenerational cooking always stressful—or can it be protective?
+#### Is intergenerational cooking always stressful—or can it be protective?
 
 It depends on context and support. When roles are shared, expectations are flexible, and emotional labor is acknowledged—not just absorbed—it can foster joy, purpose, and even metabolic resilience. Intergenerational cooking becomes protective when it feels collaborative, not compulsory—and when “helping” includes honoring the cook’s energy and boundaries.

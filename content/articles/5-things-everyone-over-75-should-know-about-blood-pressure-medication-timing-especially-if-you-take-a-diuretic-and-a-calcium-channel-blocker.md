@@ -57,22 +57,22 @@ In short, *blood pressure medication timing over 75* isn’t about rigid rules�
 
 ### FAQ
 
-#### #### Does blood pressure medication timing matter more after age 75?
+#### Does blood pressure medication timing matter more after age 75?
 
 Yes—because aging affects kidney function, arterial stiffness, autonomic nervous system balance, and circadian hormone patterns (like cortisol and melatonin). These changes mean the same dose at the same time may behave differently than it did at age 60. So *blood pressure medication timing over 75* is especially worth reviewing with your care team.
 
-#### #### Is it safe to take amlodipine at night instead of in the morning?
+#### Is it safe to take amlodipine at night instead of in the morning?
 
 For most people over 75, yes—especially if morning doses haven’t fully controlled early-morning surges or if nighttime BP remains high. Studies (including the MAPEC trial) suggest evening dosing of certain antihypertensives—including amlodipine—may improve 24-hour control and dipping patterns. Always consult your provider before switching.
 
-#### #### Can taking my diuretic in the evening affect my blood pressure medication timing over 75?
+#### Can taking my diuretic in the evening affect my blood pressure medication timing over 75?
 
 It *can*—but it’s usually not recommended. Evening diuretic use may increase nighttime urination (nocturia), disrupt sleep, and potentially worsen dehydration-related dizziness. Morning dosing remains standard unless your doctor tailors it for specific reasons (e.g., resistant hypertension with confirmed nocturnal volume overload).
 
-#### #### What’s the best time to check blood pressure at home if I’m over 75?
+#### What’s the best time to check blood pressure at home if I’m over 75?
 
 Take readings twice daily: once in the morning (before breakfast and meds, after resting 5 minutes) and once in the evening (before dinner, also after resting). Consistency matters more than perfection—same arm, same chair, same time window each day.
 
-#### #### Do beta-blockers or ACE inhibitors also follow chronobiology patterns?
+#### Do beta-blockers or ACE inhibitors also follow chronobiology patterns?
 
 Yes—many antihypertensives do. For example, RAAS inhibitors (like lisinopril or valsartan) may be more effective at night due to nocturnal RAAS activation. But individual response varies widely, so personalization—not generalization—is key.

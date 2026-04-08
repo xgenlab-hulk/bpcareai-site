@@ -46,22 +46,22 @@ In short, while vitamin b12 and seasonal depression aren’t directly causal, ma
 
 ### FAQ
 
-#### #### Can low B12 make seasonal depression worse in seniors?
+#### Can low B12 make seasonal depression worse in seniors?
 
 Yes—it can worsen symptoms like fatigue, brain fog, and low motivation, which overlap with seasonal depression in older adults. B12 supports neurotransmitter production and nerve health, so deficiency may reduce your resilience during darker months.
 
-#### #### Is there a link between vitamin b12 and seasonal depression?
+#### Is there a link between vitamin b12 and seasonal depression?
 
 Research hasn’t proven direct causation, but observational studies consistently show associations: older adults with low B12 are more likely to report depressive symptoms—including those that follow a seasonal pattern. It’s considered a contributing, modifiable factor.
 
-#### #### How much B12 should older adults take for mood support?
+#### How much B12 should older adults take for mood support?
 
 The Recommended Dietary Allowance (RDA) for adults over 50 is 2.4 mcg/day—but many clinicians recommend 500–1,000 mcg daily in supplement form for seniors, given decreased absorption. Always discuss dosage with your healthcare provider.
 
-#### #### Does vitamin D deficiency also affect seasonal depression in older adults?
+#### Does vitamin D deficiency also affect seasonal depression in older adults?
 
 Absolutely. Vitamin D—often called the “sunshine vitamin”—is closely tied to mood regulation and is commonly low in winter, especially among older adults with limited sun exposure or darker skin tones. It often co-occurs with B12 insufficiency.
 
-#### #### Can I test for B12 deficiency at home?
+#### Can I test for B12 deficiency at home?
 
 At-home finger-prick tests exist, but they only measure serum B12—not functional markers like MMA or homocysteine. For accurate assessment, especially if symptoms are present, a clinical lab test ordered by your provider remains the gold standard.

@@ -3,7 +3,7 @@ title: >-
   5 Foods That Lower Blood Pressure Naturally After 50
 slug: foods-lower-blood-pressure-naturally-after-50
 description: >-
-  Foods that lower blood pressure naturally after 50—like beets and leafy greens—can drop systolic BP by up to 8.1 mmHg. (Plain language: how hard your heart
+  Foods that lower blood pressure naturally after 50—like beets and leafy greens—can drop systolic BP by up to 8.1 mmHg.
 date: '2026-04-07'
 updated: '2026-04-07'
 primaryKeyword: >-

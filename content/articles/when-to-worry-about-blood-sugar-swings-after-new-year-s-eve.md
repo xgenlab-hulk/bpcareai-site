@@ -87,17 +87,17 @@ You’ve spent decades caring for others—this is a perfect time to extend that
 
 ### FAQ
 
-#### #### What are the warning signs that I should worry about blood sugar spikes after New Year’s Eve?
+#### What are the warning signs that I should worry about blood sugar spikes after New Year’s Eve?
 Warning signs include frequent thirst, waking up multiple times at night to urinate, blurry vision lasting more than a day or two, unexplained fatigue that doesn’t lift with rest, or repeated glucose readings above 200 mg/dL two hours after meals. If you notice any of these—especially alongside dizziness or confusion—it’s time to check in with your provider.
 
-#### #### When to worry about blood sugar spikes in older adults—what’s different after age 50?
+#### When to worry about blood sugar spikes in older adults—what’s different after age 50?
 After 50, muscle mass decreases, fat distribution shifts, and insulin sensitivity often declines—even without weight gain. This means smaller amounts of sugar or alcohol can trigger larger spikes. Also, symptoms like fatigue or confusion may be mistaken for “normal aging,” delaying diagnosis. That’s why regular screening and pattern tracking matter more than ever.
 
-#### #### When to worry about blood sugar spikes vs. normal fluctuations—how much is too much?
+#### When to worry about blood sugar spikes vs. normal fluctuations—how much is too much?
 Normal post-meal glucose typically peaks around 140–160 mg/dL and returns to <120 mg/dL within 2 hours. Spikes above 180 mg/dL *repeatedly*, or staying above 200 mg/dL for longer than 2 hours, cross into concerning territory—especially if accompanied by symptoms or occurring on multiple days.
 
-#### #### Can high blood sugar after New Year’s Eve affect my blood pressure?
+#### Can high blood sugar after New Year’s Eve affect my blood pressure?
 Yes—absolutely. Elevated glucose promotes inflammation and stiffens arteries, which raises systolic and diastolic pressure. Studies show that for every 1% rise in HbA1c, average systolic BP increases by 1.4–2.0 mm Hg. If your BP readings have crept up lately (e.g., from 120/75 to 135/85), checking glucose is a smart next step.
 
-#### #### Do I need to go to the ER for blood sugar spikes?
+#### Do I need to go to the ER for blood sugar spikes?
 Most spikes don’t require emergency care—but seek immediate help if you experience severe confusion, trouble breathing, fruity-smelling breath (a sign of diabetic ketoacidosis), or loss of consciousness. These are rare but serious—and warrant urgent evaluation.

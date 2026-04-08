@@ -69,17 +69,17 @@ The goal of *CGM time-in-range holiday decision making* isn’t to turn holidays
 
 ### FAQ
 
-#### #### What is a good time-in-range (TIR) for older adults during the holidays?  
+#### What is a good time-in-range (TIR) for older adults during the holidays?  
 For adults aged 55–69, a TIR of **≥70% in the 70–180 mg/dL range** during the holiday week is associated with lower symptom burden and stable energy. Below 70% for three days is a signal to gently reassess habits—not a cause for alarm.
 
-#### #### How does CGM time-in-range holiday decision making differ from checking fasting glucose?  
+#### How does CGM time-in-range holiday decision making differ from checking fasting glucose?  
 Fasting glucose is a single snapshot before breakfast; TIR reflects *hours of metabolic behavior*—including responses to meals, stress, activity, and sleep. During holidays, TIR often reveals patterns fasting tests miss—making *CGM time-in-range holiday decision making* uniquely helpful for proactive, person-centered care.
 
-#### #### Can I use CGM time-in-range holiday decision making if I’m not on insulin?  
+#### Can I use CGM time-in-range holiday decision making if I’m not on insulin?  
 Yes! The 2023 trial included adults managing diabetes with diet, metformin, or sulfonylureas—and found TIR guidance improved confidence and reduced holiday-related glucose variability across all groups.
 
-#### #### Do I need a prescription for a CGM to use it for holiday planning?  
+#### Do I need a prescription for a CGM to use it for holiday planning?  
 Most FDA-cleared CGMs require a prescription, but many primary care providers are comfortable prescribing them for short-term use—especially around high-variability periods like holidays. Ask your clinician about a 7- to 14-day trial.
 
-#### #### Is time-in-range the same as A1c?  
+#### Is time-in-range the same as A1c?  
 No. A1c estimates average glucose over ~3 months but doesn’t show highs, lows, or timing. TIR adds nuance—like how often and when glucose goes out of range—making it especially useful for *CGM time-in-range holiday decision making*.

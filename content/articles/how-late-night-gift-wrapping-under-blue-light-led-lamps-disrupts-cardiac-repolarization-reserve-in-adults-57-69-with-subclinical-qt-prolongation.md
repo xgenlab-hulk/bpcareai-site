@@ -54,22 +54,22 @@ In summary, *blue light gift wrapping qt prolongation* is a nuanced but addressa
 
 ### FAQ
 
-#### #### Does blue light gift wrapping qt prolongation affect everyone over 50?
+#### Does blue light gift wrapping qt prolongation affect everyone over 50?
 
 No—not everyone. The effect is most relevant for adults aged 57–69 with preexisting subclinical QT prolongation (QTc 440–470 ms), especially those with additional risk factors like medication use or metabolic conditions.
 
-#### #### Can blue light gift wrapping qt prolongation cause sudden cardiac arrest?
+#### Can blue light gift wrapping qt prolongation cause sudden cardiac arrest?
 
 While rare, it *can* lower the threshold for ventricular arrhythmias in susceptible individuals—particularly when combined with other triggers like alcohol, dehydration, or acute stress. It does not directly cause sudden cardiac arrest but may contribute to its initiation in high-risk cases.
 
-#### #### Is there a safe amount of blue light gift wrapping for people with long QT?
+#### Is there a safe amount of blue light gift wrapping for people with long QT?
 
 There’s no universally “safe” duration—but limiting exposure to ≤30 minutes after 9 p.m., using warmer lighting, and avoiding concurrent stimulants (e.g., coffee, dark chocolate) significantly reduces risk. Individual tolerance varies, so personalized assessment is key.
 
-#### #### What’s the difference between QT prolongation and holiday heart syndrome?
+#### What’s the difference between QT prolongation and holiday heart syndrome?
 
 QT prolongation refers to a measurable delay in ventricular repolarization (seen on ECG), while “holiday heart syndrome” traditionally describes acute atrial fibrillation triggered by binge alcohol intake. Today, the term is expanding to include other rhythm disturbances—including ventricular arrhythmias—linked to seasonal behaviors like late-night blue-light exposure and sleep disruption.
 
-#### #### Do smart LED bulbs with “night mode” prevent blue light gift wrapping qt prolongation?
+#### Do smart LED bulbs with “night mode” prevent blue light gift wrapping qt prolongation?
 
 Many do reduce blue emission, but effectiveness varies. Look for bulbs certified to emit <10% blue light below 490 nm—or better yet, use dedicated warm-white task lamps instead of relying solely on software-based “night shift” modes.

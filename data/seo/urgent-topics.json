@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "title": "What Does BP AI Mean for Your Blood Pressure?",
+    "primaryKeyword": "what does bp ai mean for blood pressure",
+    "description": "BP AI uses smartphone sensors and algorithms to estimate trends—studies show ~85% correlation with cuff readings. Learn if it’s right for you over 35.",
+    "topicCluster": "ai-blood-pressure-tools",
+    "reasoning": "People are suddenly searching 'bp ai' because new FDA-cleared apps (like Apple Watch + Withings integrations) launched this month, sparking confusion about accuracy, safety, and real-world use—especially among adults 35+ who want trustworthy, non-invasive ways to track rising BP without buying more hardware.",
+    "query": "bp ai",
+    "type": "RANK_JUMP",
+    "score": 67,
+    "perplexityQuestions": [
+      "What does BP AI mean for blood pressure monitoring?",
+      "Is 140/90 dangerous for a 45-year-old adult?",
+      "How accurate is AI for predicting blood pressure trends?",
+      "Can AI apps lower my high BP at age 50?",
+      "What is the best AI device for home BP tracking over 35?"
+    ],
+    "createdAt": "2026-04-07T02:41:19.591Z",
+    "expiresAt": "2026-04-10T02:41:19.592Z"
+  }
+]

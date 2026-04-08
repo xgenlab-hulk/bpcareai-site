@@ -52,17 +52,17 @@ It’s entirely possible to enjoy rich, aromatic, deeply comforting holiday stuf
 
 ### FAQ
 
-#### #### Is gluten-free stuffing safe for seniors with celiac and Hashimoto’s?
+#### Is gluten-free stuffing safe for seniors with celiac and Hashimoto’s?
 Yes—*if* it’s made with certified gluten-free ingredients, prepared separately from gluten-containing foods, and avoids questionable starches like maltodextrin from wheat. Lab-confirmed safety requires verification beyond labeling.
 
-#### #### Where can I find reliable gluten-free stuffing recipes for celiac seniors?
+#### Where can I find reliable gluten-free stuffing recipes for celiac seniors?
 Look for recipes vetted by registered dietitians specializing in geriatric GI health—or check resources from the Celiac Disease Foundation and National Institute on Aging. Always cross-check broth, sausage, and thickeners.
 
-#### #### Can gluten-free stuffing celiac seniors still cause thyroid flares?
+#### Can gluten-free stuffing celiac seniors still cause thyroid flares?
 Potentially—yes. Even trace gluten can amplify autoimmune activity in susceptible individuals. Studies show TSH and thyroid antibody fluctuations within days of exposure in older adults with dual diagnoses.
 
-#### #### Does “gluten-removed” beer or broth count as safe for gluten-free stuffing celiac seniors?
+#### Does “gluten-removed” beer or broth count as safe for gluten-free stuffing celiac seniors?
 No. “Gluten-removed” products use enzymatic treatment but aren’t reliably gluten-free per biopsy standards—and are *not recommended* for celiac disease, especially in seniors with comorbid autoimmunity.
 
-#### #### How often should seniors with celiac and thyroiditis get thyroid labs checked?
+#### How often should seniors with celiac and thyroiditis get thyroid labs checked?
 At minimum, every 6–12 months—if stable. After dietary changes or suspected exposure, check TSH, free T4, and TPO antibodies 4–6 weeks later for meaningful trends. If you're unsure, talking to your doctor is always a good idea.

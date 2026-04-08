@@ -40,17 +40,17 @@ In summary, neither mulled wine nor sparkling cider is inherently “off-limits,
 
 ### FAQ
 
-#### #### Is mulled wine better than sparkling cider for people with type 2 diabetes?
+#### Is mulled wine better than sparkling cider for people with type 2 diabetes?
 Mulled wine may raise blood glucose less acutely than high-sugar sparkling cider—but its alcohol content increases overnight fasting glucose and impairs insulin signaling. For most adults with type 2 diabetes, low-sugar, non-alcoholic alternatives (e.g., unsweetened sparkling water with cinnamon) are safer than either traditional option.
 
-#### #### Can sparkling cider raise triglycerides more than mulled wine in metabolic syndrome?
+#### Can sparkling cider raise triglycerides more than mulled wine in metabolic syndrome?
 Yes—in clinical observations, 2-hour post-consumption triglycerides rose an average of 42 mg/dL after high-fructose sparkling cider versus 28 mg/dL after mulled wine in adults 63–79 with metabolic syndrome. Fructose-driven hepatic lipogenesis appears more potent than alcohol-mediated effects in this demographic.
 
-#### #### What’s the best low-sugar alternative to mulled wine vs sparkling cider diabetes concerns?
+#### What’s the best low-sugar alternative to mulled wine vs sparkling cider diabetes concerns?
 Unsweetened hot spiced apple infusion (simmered whole apple slices, cinnamon stick, star anise, no added sugar) or dry sparkling water with a splash of pomegranate juice (<2 g sugar) offers polyphenols without significant glucose or triglyceride burden.
 
-#### #### Does heating mulled wine destroy all its heart-healthy polyphenols?
+#### Does heating mulled wine destroy all its heart-healthy polyphenols?
 Heating reduces resveratrol bioavailability by ~35% and degrades some heat-sensitive flavonoids—but stable compounds like quercetin and proanthocyanidins remain largely intact. Still, benefits are modest compared to the metabolic risks of alcohol and sugar in this population.
 
-#### #### Should I avoid both mulled wine and sparkling cider if my triglycerides are over 200 mg/dL?
+#### Should I avoid both mulled wine and sparkling cider if my triglycerides are over 200 mg/dL?
 Yes—especially if levels remain elevated despite diet and statin therapy. Both beverages add metabolic stress to an already overloaded liver. Prioritize beverages with negligible fructose and zero alcohol until triglycerides stabilize below 150 mg/dL.

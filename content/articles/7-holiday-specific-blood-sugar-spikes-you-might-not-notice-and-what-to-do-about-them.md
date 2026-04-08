@@ -91,22 +91,22 @@ Holidays are meant to be shared—not scrutinized. If you notice *holiday blood 
 
 ### FAQ
 
-#### #### Why do I get high blood sugar after holiday parties—even when I skip dessert?
+#### Why do I get high blood sugar after holiday parties—even when I skip dessert?
 
 Alcohol, disrupted sleep, delayed meals, and even excitement can all raise glucose independently of sweets. A glass of wine on an empty stomach or staying up past midnight may contribute more than the cookie tray.
 
-#### #### Are holiday blood sugar spikes unnoticed more common in older adults?
+#### Are holiday blood sugar spikes unnoticed more common in older adults?
 
 Yes—especially between ages 55 and 74. Natural declines in insulin secretion, slower gastric emptying, and increased medication sensitivity mean glucose responses become less predictable. That’s why pattern-checking (not just symptom-checking) is so helpful.
 
-#### #### What’s the difference between holiday blood sugar spikes unnoticed and regular hyperglycemia?
+#### What’s the difference between holiday blood sugar spikes unnoticed and regular hyperglycemia?
 
 The difference lies in *context and recognition*. Regular hyperglycemia often comes with noticeable symptoms and clear dietary triggers. *Holiday blood sugar spikes unnoticed* tend to be milder, more variable, and tied to schedule shifts—so they’re easily missed unless you’re checking strategically.
 
-#### #### Can stress really raise my blood sugar during the holidays?
+#### Can stress really raise my blood sugar during the holidays?
 
 Absolutely. Emotional and physical stress increase cortisol, which tells your liver to release extra glucose. In adults over 60, this effect may last longer—and recovery may take more rest or gentle movement.
 
-#### #### Should I adjust my diabetes medications during the holidays?
+#### Should I adjust my diabetes medications during the holidays?
 
 Never adjust medications on your own. But do share your holiday plans (travel, meal timing, activity changes) with your care team ahead of time. They can help you anticipate needs—like adjusting rapid-acting insulin dosing for delayed dinners or advising on safe alcohol limits with your current regimen.

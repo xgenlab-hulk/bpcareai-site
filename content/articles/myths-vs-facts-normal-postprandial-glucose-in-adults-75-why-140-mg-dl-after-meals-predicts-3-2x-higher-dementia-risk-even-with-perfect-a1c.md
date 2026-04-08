@@ -95,17 +95,17 @@ Understanding the *postprandial glucose dementia risk older adults* face isn’t
 
 ### FAQ
 
-#### #### Is postprandial glucose dementia risk older adults higher even without diabetes?
+#### Is postprandial glucose dementia risk older adults higher even without diabetes?
 Yes. Multiple studies—including the Rush Memory and Aging Project—show that elevated postprandial glucose (≥140 mg/dL at 90 minutes) independently predicts dementia risk in older adults *regardless* of diabetes status. In fact, nearly half of participants with high postprandial glucose in these studies had A1C <5.7%.
 
-#### #### What is a safe postprandial glucose target for someone over 75?
+#### What is a safe postprandial glucose target for someone over 75?
 For optimal brain health, aim for **<130 mg/dL at 90 minutes** after a standard carbohydrate-containing meal. While <140 mg/dL is often cited as “acceptable,” emerging evidence links values between 130–140 mg/dL to early vascular and neuronal stress—especially with repeated occurrence.
 
-#### #### Does postprandial glucose dementia risk older adults apply to people with normal A1C?
+#### Does postprandial glucose dementia risk older adults apply to people with normal A1C?
 Absolutely. A1C reflects average glucose over ~3 months and smooths out peaks and valleys. It cannot detect harmful postprandial spikes—which drive oxidative stress and amyloid deposition in the brain. That’s why relying solely on A1C misses a critical window for intervention.
 
-#### #### Can lifestyle changes really lower postprandial glucose in older adults?
+#### Can lifestyle changes really lower postprandial glucose in older adults?
 Yes—and often quickly. Studies show that adding just 10 minutes of walking after meals lowers 90-minute glucose by 20–30 mg/dL in adults 70+. Combining movement with protein/fat at meals yields additive benefits, with many seeing improvements within 2–4 weeks.
 
-#### #### Should I check my postprandial glucose if I’m on blood pressure medication?
+#### Should I check my postprandial glucose if I’m on blood pressure medication?
 Yes—especially if you take beta-blockers (e.g., metoprolol) or diuretics, which can subtly affect glucose metabolism. Also, hypertension and postprandial hyperglycemia often coexist and synergistically damage small vessels in the brain. Monitoring both BP and glucose gives a fuller picture of vascular-cognitive health.

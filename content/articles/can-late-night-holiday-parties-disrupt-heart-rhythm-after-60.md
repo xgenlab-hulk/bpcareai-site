@@ -72,22 +72,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can late-night parties and heart rhythm issues be prevented in older adults?
+#### Can late-night parties and heart rhythm issues be prevented in older adults?
 
 Yes—many rhythm-related episodes linked to holiday festivities are preventable with mindful habits. Prioritizing consistent sleep timing, limiting alcohol to no more than one standard drink per day (for women) or two (for men), staying hydrated, and avoiding heavy meals late at night significantly reduce risk. Prevention doesn’t mean perfection; it means gentle awareness and adjustment.
 
-#### #### What is holiday heart syndrome—and how does it relate to late-night parties and heart rhythm?
+#### What is holiday heart syndrome—and how does it relate to late-night parties and heart rhythm?
 
 Holiday heart syndrome refers to acute cardiac arrhythmias—most commonly atrial fibrillation—that occur after binge alcohol consumption, often during extended celebrations. It’s especially relevant to *late-night parties and heart rhythm* because the combination of alcohol, sleep loss, and stress creates a “perfect storm” for electrical instability in the aging heart. While usually reversible, it’s a clear sign the body needs rest and rhythm support.
 
-#### #### Is it safe to attend late-night parties after 60 if I have high blood pressure?
+#### Is it safe to attend late-night parties after 60 if I have high blood pressure?
 
 Yes—with preparation. Keep your BP well-managed with medication adherence, monitor at home before and after events, avoid salty snacks and excess alcohol, and build in quiet recovery time. If your usual BP runs above 140/90 mm Hg consistently, talk with your doctor about whether adjusting timing of medications (e.g., taking an evening dose) might help buffer nighttime surges.
 
-#### #### How long does it take for heart rhythm to return to normal after a late-night party?
+#### How long does it take for heart rhythm to return to normal after a late-night party?
 
 For most healthy adults over 60, mild palpitations or brief irregularities resolve within 12–24 hours with rest, hydration, and normal sleep. If symptoms persist beyond 48 hours—or recur frequently across multiple events—it’s wise to consult your healthcare provider to rule out underlying triggers.
 
-#### #### Does caffeine from holiday drinks affect heart rhythm in older adults?
+#### Does caffeine from holiday drinks affect heart rhythm in older adults?
 
 Occasional caffeine (e.g., one cup of coffee or tea) is generally safe for most older adults. However, large amounts—especially from energy drinks, espresso shots, or multiple servings late in the day—can increase heart rate and trigger premature beats in sensitive individuals. Pay attention to how your body responds, and consider switching to decaf options after noon.

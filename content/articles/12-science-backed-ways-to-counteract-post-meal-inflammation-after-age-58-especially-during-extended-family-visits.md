@@ -82,17 +82,17 @@ Reducing post-meal inflammation seniors 58+ experience isn’t about perfection 
 
 ### FAQ
 
-#### #### Does drinking lemon water help reduce post-meal inflammation seniors 58+ experience?  
+#### Does drinking lemon water help reduce post-meal inflammation seniors 58+ experience?  
 Lemon water alone has minimal direct anti-inflammatory impact in clinical studies. However, adding fresh lemon juice (rich in hesperidin and vitamin C) to warm water *before* a meal may mildly support phase-II liver detoxification and improve hydration status—both of which indirectly aid inflammation modulation. It’s supportive, not sufficient on its own.
 
-#### #### What foods should seniors 58+ avoid to reduce post-meal inflammation?  
+#### What foods should seniors 58+ avoid to reduce post-meal inflammation?  
 Focus less on strict avoidance and more on proportion and pairing. Highly processed carbohydrates (e.g., white rolls, sugary desserts), fried foods, and cured meats (like bacon or salami) consistently trigger larger IL-6 and CRP spikes in older adults. Instead of eliminating entirely, pair them with fiber, vinegar, or omega-3 fats to blunt the response.
 
-#### #### Can walking after dinner really reduce post-meal inflammation seniors face?  
+#### Can walking after dinner really reduce post-meal inflammation seniors face?  
 Yes—robustly. A 2020 randomized trial in adults aged 60–75 showed that a 10-minute walk beginning 15 minutes after a standardized meal lowered 2-hour postprandial IL-6 by 22% and improved endothelial function (measured by flow-mediated dilation) by 1.8%. Consistency matters more than intensity.
 
-#### #### Is intermittent fasting helpful for reduce post-meal inflammation seniors?  
+#### Is intermittent fasting helpful for reduce post-meal inflammation seniors?  
 For most healthy seniors, time-restricted eating (e.g., 12-hour overnight fast) is safe and may modestly lower baseline CRP. However, aggressive fasting (e.g., 16:8) isn’t universally beneficial past age 58—some studies show increased cortisol and muscle catabolism. Consult your provider before adopting extended fasting patterns.
 
-#### #### How long does it take to see results from these lifestyle changes?  
+#### How long does it take to see results from these lifestyle changes?  
 Many people notice reduced afternoon fatigue and clearer thinking within 1–2 weeks. Measurable reductions in CRP typically appear after 4–6 weeks of consistent practice, especially when combining movement, strategic spice use, and hydration pacing.

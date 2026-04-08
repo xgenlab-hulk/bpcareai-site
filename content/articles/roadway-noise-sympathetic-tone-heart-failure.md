@@ -84,17 +84,17 @@ In summary, roadway noise sympathetic tone heart failure is a real and addressab
 
 ### FAQ
 
-#### #### Does roadway noise really cause heart failure—or is it just correlation?
+#### Does roadway noise really cause heart failure—or is it just correlation?
 Research shows a *causal pathway*, not just association. Longitudinal data controls for confounders like air pollution, socioeconomic status, and comorbidities—and demonstrates dose-response relationships: higher noise levels (>60 dB) correlate with steeper declines in HRV and greater HF incidence. Mechanistic studies confirm biological plausibility via sympathetic activation, endothelial dysfunction, and left ventricular remodeling.
 
-#### #### How does roadway noise sympathetic tone differ from stress-related high blood pressure?
+#### How does roadway noise sympathetic tone differ from stress-related high blood pressure?
 Roadway noise sympathetic tone reflects *autonomic dysregulation during sleep*, independent of conscious stress. Unlike acute emotional stress—which raises BP transiently—noise-induced sympathetic activation persists across sleep cycles, blunting normal nocturnal BP dipping and promoting structural heart changes over years. It’s less about “feeling anxious” and more about your nervous system failing to disengage.
 
-#### #### Can reducing roadway noise sympathetic tone heart failure risk help even after a diagnosis of early heart failure?
+#### Can reducing roadway noise sympathetic tone heart failure risk help even after a diagnosis of early heart failure?
 Yes—especially in Stage A or B heart failure (preclinical or minimally symptomatic). Studies report improved 6-minute walk distance, reduced NT-proBNP levels, and normalized LF/HF ratios in patients who implemented noise mitigation + vagal training over 6 months. Autonomic recovery remains possible well into older age.
 
-#### #### What’s the safest nighttime blood pressure range for adults over 65?
+#### What’s the safest nighttime blood pressure range for adults over 65?
 For most adults 65+, ideal nocturnal BP is <120/70 mm Hg—with a 10–20% dip from daytime averages. Sustained readings ≥130/75 mm Hg at night—particularly with symptoms like morning headaches or confusion—warrant evaluation for non-dipping and autonomic contributors like roadway noise.
 
-#### #### Do electric vehicles eliminate this risk?
+#### Do electric vehicles eliminate this risk?
 Not entirely. While EVs reduce engine noise, tire-road interaction and wind resistance still generate 50–60 dB at 10 meters—enough to disrupt sleep architecture and elevate sympathetic tone in sensitive individuals. Urban planning that prioritizes lower speed limits, smoother pavements, and buffer zones remains essential.

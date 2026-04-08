@@ -92,22 +92,22 @@ Living with diabetes and caring for your kidneys doesn’t mean walking on eggsh
 
 ### FAQ
 
-#### #### Can NSAIDs cause kidney damage in people with diabetes even if they only take them once in a while?
+#### Can NSAIDs cause kidney damage in people with diabetes even if they only take them once in a while?
 
 Yes—intermittent use *can* affect kidney blood flow, especially in adults over 60 with Stage 2 diabetic nephropathy. Because prostaglandins help maintain renal perfusion under stress, even short-term NSAID use may reduce filtration capacity temporarily. This is why “occasional” doesn’t always mean “risk-free” in this context.
 
-#### #### What are safer pain relievers for back pain if I have diabetes and early kidney disease?
+#### What are safer pain relievers for back pain if I have diabetes and early kidney disease?
 
 Acetaminophen (at recommended doses), topical NSAIDs (like diclofenac gel), and non-drug approaches—including heat, gentle movement, and physical therapy—are generally preferred. Always discuss new or ongoing pain management plans with your provider, especially if you’re taking medications that affect kidney blood flow (e.g., lisinopril or metformin).
 
-#### #### How does NSAIDs and kidney injury diabetes relate to blood pressure medications?
+#### How does NSAIDs and kidney injury diabetes relate to blood pressure medications?
 
 Some blood pressure medications—particularly ACE inhibitors and ARBs—protect the kidneys long-term but rely partly on prostaglandin-mediated vasodilation to maintain safe intraglomerular pressure. NSAIDs blunt that effect, potentially reducing the protective action and increasing AKI risk. This interaction is well-documented and one reason providers recommend caution with NSAIDs in this population.
 
-#### #### Are urine tests better than blood tests for spotting early kidney changes in diabetes?
+#### Are urine tests better than blood tests for spotting early kidney changes in diabetes?
 
 Yes—urine albumin-to-creatinine ratio (UACR) detects early glomerular leakage *before* creatinine rises or eGFR declines. It’s recommended annually for all adults with diabetes—and more frequently (every 6 months) if UACR is elevated or eGFR is trending downward.
 
-#### #### Does drinking more water completely cancel out NSAID-related kidney risk?
+#### Does drinking more water completely cancel out NSAID-related kidney risk?
 
 No—while staying well-hydrated lowers risk, it doesn’t eliminate it. NSAID-induced reductions in renal blood flow stem from prostaglandin inhibition, not just volume status. Hydration supports resilience, but it’s one part of a broader picture that includes age, diabetes duration, baseline kidney function, and other medications.

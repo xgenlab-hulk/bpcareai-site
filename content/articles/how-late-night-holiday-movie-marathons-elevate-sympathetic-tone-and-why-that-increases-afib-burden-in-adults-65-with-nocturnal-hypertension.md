@@ -94,22 +94,22 @@ Understanding how *late-night movies sympathetic tone afib* connections work isn
 
 ### FAQ
 
-#### #### Does watching TV late at night really affect AFib risk—or is that overstated?
+#### Does watching TV late at night really affect AFib risk—or is that overstated?
 
 Research supports a real link—not as a direct cause, but as a modifiable contributor to autonomic imbalance. A 2023 cohort study in *JAMA Cardiology* found adults 65+ who regularly watched screens after 10 p.m. had a 1.7× higher 3-year incidence of new-onset AFib compared to peers with consistent pre-9 p.m. screen cutoffs—after adjusting for BMI, alcohol, and sleep duration.
 
-#### #### Can late-night movies sympathetic tone trigger AFib even if my blood pressure seems normal?
+#### Can late-night movies sympathetic tone trigger AFib even if my blood pressure seems normal?
 
 Yes. Sympathetic tone influences heart rhythm independently of BP. Elevated norepinephrine can shorten atrial refractory periods and promote ectopic firing—even in people with normotensive daytime readings. Nocturnal hypertension is just one piece; autonomic testing (like HRV or ABPM) gives a fuller picture.
 
-#### #### How does blue light from holiday movies specifically raise sympathetic tone?
+#### How does blue light from holiday movies specifically raise sympathetic tone?
 
 Blue light suppresses melatonin, which normally dampens sympathetic output overnight. Without that signal, the locus coeruleus (a key norepinephrine-producing brainstem nucleus) remains more active—and norepinephrine spillover into circulation increases by up to 30% in older adults, per PET imaging studies.
 
-#### #### Is “holiday heart syndrome” the same as AFib triggered by late-night movies?
+#### Is “holiday heart syndrome” the same as AFib triggered by late-night movies?
 
 Not exactly. “Holiday heart syndrome” traditionally refers to acute AFib following heavy alcohol intake—often over weekends or holidays. The *late-night movies sympathetic tone afib* pathway is distinct: it’s non-alcoholic, gradual, and rooted in circadian disruption rather than metabolic stress. Both fall under *circadian-arrhythmia-link*, but require different prevention strategies.
 
-#### #### What’s the safest time to watch holiday movies if I’m 65+ and have high blood pressure?
+#### What’s the safest time to watch holiday movies if I’m 65+ and have high blood pressure?
 
 For most adults in this age group, finishing screen-based entertainment by 8:30–9 p.m. aligns best with natural melatonin onset and nocturnal BP dipping. If you must watch later, use blue-light filters, sit upright, and avoid emotionally intense content—prioritizing calm over stimulation.

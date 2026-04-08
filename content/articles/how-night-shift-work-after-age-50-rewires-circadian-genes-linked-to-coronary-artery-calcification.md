@@ -70,22 +70,22 @@ Understanding how *night shift circadian genes coronary calcification* interconn
 
 ### FAQ
 
-#### #### Does night shift work cause permanent damage to circadian genes?
+#### Does night shift work cause permanent damage to circadian genes?
 
 No—not permanent damage, but potentially long-lasting dysregulation. Clock genes like *CLOCK* and *BMAL1* remain responsive throughout life. Studies show that shifting back to day-based routines, combined with light therapy and consistent sleep timing, can restore much of their rhythmic function—even after decades of night work. Age may slow the pace of recovery, but improvement is still very possible.
 
-#### #### How is night shift circadian genes coronary calcification linked in research?
+#### How is night shift circadian genes coronary calcification linked in research?
 
 Multiple longitudinal studies—including the Nurses’ Health Study II and the UK Biobank—have observed associations between long-term night shift work (10+ years), altered expression of core clock genes in blood and adipose tissue, and higher coronary artery calcium scores. These links appear strongest in adults over 50, likely due to age-related declines in circadian amplitude and slower cellular repair mechanisms.
 
-#### #### Can coronary calcification be reversed—or only slowed?
+#### Can coronary calcification be reversed—or only slowed?
 
 Calcium deposits themselves are generally not reversible, but their *progression* can be significantly slowed or halted. Lifestyle changes—including improved sleep hygiene, Mediterranean-style eating, regular movement, and optimal blood pressure control—have been associated with stable or even reduced CAC scores over time in clinical trials. Statins and other medications may also play a role when indicated.
 
-#### #### Is a CAC scan safe—and do insurance plans cover it?
+#### Is a CAC scan safe—and do insurance plans cover it?
 
 Yes, a CAC scan uses very low-dose radiation (about 1–2 mSv—comparable to a mammogram) and carries no known risks for most adults. Coverage varies: Medicare does not routinely cover CAC screening, but many private insurers do—for patients meeting specific risk criteria (e.g., age 40–75, intermediate ASCVD risk). Ask your doctor about medical necessity documentation to improve coverage chances.
 
-#### #### What blood pressure numbers should I watch for after age 50?
+#### What blood pressure numbers should I watch for after age 50?
 
 For most adults over 50, the target is below 130/80 mm Hg—consistent with current ACC/AHA guidelines. Systolic (top number) becomes especially important with age, as arteries stiffen. If your home readings average ≥135/85 mm Hg over a week, consider discussing it with your provider. Remember: small, sustained reductions—like lowering systolic by just 5 mm Hg—can meaningfully lower long-term heart risk.

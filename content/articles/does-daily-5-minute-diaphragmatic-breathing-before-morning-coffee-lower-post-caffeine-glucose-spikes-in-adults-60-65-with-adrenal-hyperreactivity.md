@@ -63,22 +63,22 @@ None of this is about rigid rules or overnight fixes. It’s about offering your
 
 ### FAQ
 
-#### #### Does diaphragmatic breathing before coffee really lower blood sugar spikes?
+#### Does diaphragmatic breathing before coffee really lower blood sugar spikes?
 
 Yes—for some adults, especially those with stress-sensitive physiology. Research suggests 5 minutes of slow, deep breathing before caffeine can reduce acute glucose excursions by 15–30% in individuals with adrenal reactivity, likely via vagally mediated dampening of catecholamine-driven hepatic glucose release.
 
-#### #### How long before coffee should I do diaphragmatic breathing to prevent glucose spikes?
+#### How long before coffee should I do diaphragmatic breathing to prevent glucose spikes?
 
 Ideally, complete your 5-minute session *immediately before* brewing or pouring your coffee—then wait at least 10–15 minutes before drinking. This allows time for vagal activation to peak and creates a clear physiological “buffer zone.”
 
-#### #### Is diaphragmatic breathing before coffee glucose spikes helpful for people with type 2 diabetes?
+#### Is diaphragmatic breathing before coffee glucose spikes helpful for people with type 2 diabetes?
 
 It may support glucose stability as part of a broader strategy—but it’s not a replacement for medication or clinical guidance. Those with established diabetes should work with their care team to interpret home glucose data and adjust habits safely.
 
-#### #### Can deep breathing lower blood pressure too?
+#### Can deep breathing lower blood pressure too?
 
 Yes. Regular diaphragmatic breathing has been shown to modestly reduce systolic BP by 3–6 mm Hg and diastolic BP by 2–4 mm Hg over time—especially when practiced consistently. Morning practice may help set a calmer tone for arterial pressure regulation throughout the day.
 
-#### #### What’s the best breathing ratio for lowering glucose response?
+#### What’s the best breathing ratio for lowering glucose response?
 
 A 4-second inhalation and 6-second exhalation (or 5:5 if 6 feels too long) is well-supported in studies focused on vagal activation and postprandial glucose control. The longer exhalation is key—it stimulates the vagus nerve more effectively.

@@ -91,22 +91,22 @@ The holidays don’t have to mean compromising your health—or your joy. Recogn
 
 ### FAQ
 
-#### #### What are the most common holiday dizziness diabetes warning signs in older adults?
+#### What are the most common holiday dizziness diabetes warning signs in older adults?
 
 The most telling signs include dizziness when standing up (especially after sitting or lying down), sudden fatigue that doesn’t lift with rest, mental fogginess during conversation, or unsteadiness while holding a plate or glass. Unlike younger adults, older individuals may *not* experience sweating, shaking, or heart palpitations—even with significant lows. These subtle shifts are key *holiday dizziness diabetes warning signs* that deserve prompt glucose checking.
 
-#### #### Can holiday dizziness diabetes warning signs point to something other than blood sugar?
+#### Can holiday dizziness diabetes warning signs point to something other than blood sugar?
 
 Yes—absolutely. While glucose fluctuations are common triggers, dizziness and fatigue during holiday events can also signal dehydration, medication side effects (e.g., from new blood pressure drugs), undiagnosed anemia, heart rhythm changes (like atrial fibrillation), or even early urinary tract infections—which are more frequent and less symptomatic in older adults with diabetes. That’s why a full assessment—including BP, glucose, and clinical evaluation—is essential.
 
-#### #### How do I know if my holiday dizziness diabetes warning signs mean I need to adjust my medications?
+#### How do I know if my holiday dizziness diabetes warning signs mean I need to adjust my medications?
 
 You shouldn’t adjust medications on your own—but if you notice recurring dizziness or fatigue within 2 hours of your usual insulin or sulfonylurea dose, or consistently after meals with similar carb content, it may indicate your current regimen needs fine-tuning. Bring your glucose log—including times, foods, activity, and symptoms—to your next appointment. Your provider may consider adjusting timing, dosing, or switching to agents with lower hypoglycemia risk (e.g., GLP-1 RAs or basal insulin analogs).
 
-#### #### Is it normal to feel more tired with diabetes during the holidays?
+#### Is it normal to feel more tired with diabetes during the holidays?
 
 Fatigue *can* be common—but it’s not “normal” in the sense that it should be ignored. Increased mental load (planning, social expectations), disrupted sleep, fluctuating glucose, and higher sodium intake all compound fatigue. However, persistent or worsening fatigue—especially paired with dizziness, thirst, or frequent urination—warrants investigation. It could reflect suboptimal glucose control, sleep apnea, or thyroid changes, all of which are treatable.
 
-#### #### How does blood pressure interact with holiday dizziness diabetes warning signs?
+#### How does blood pressure interact with holiday dizziness diabetes warning signs?
 
 Closely. Many adults with diabetes also manage hypertension—and holiday stressors (salt, alcohol, excitement) can raise BP, while dehydration or medication effects can lower it. Orthostatic drops in BP (≥20 mm Hg systolic on standing) are especially common in older adults and significantly increase fall risk. Since both high and low BP can mimic or worsen dizziness, tracking BP *with* glucose offers a fuller clinical picture—making *holiday dizziness diabetes warning signs* easier to interpret accurately.

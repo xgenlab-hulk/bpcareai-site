@@ -90,22 +90,22 @@ Understanding how everyday environmental factors like low-frequency noise ambula
 
 ### FAQ
 
-#### #### Does low-frequency noise ambulatory blood pressure affect everyone the same way?
+#### Does low-frequency noise ambulatory blood pressure affect everyone the same way?
 
 No—individual sensitivity varies widely based on age, baseline autonomic function, genetics, and even prior noise exposure history. Adults over 60 tend to show stronger BP reactivity than younger adults, and those with existing hypertension or anxiety disorders often experience amplified effects. However, nearly all older adults show *some* measurable shift in 24-hour BP patterns with prolonged exposure above 40 dB in the 10–25 Hz range.
 
-#### #### Can low-frequency noise ambulatory blood pressure be reversed with lifestyle changes alone?
+#### Can low-frequency noise ambulatory blood pressure be reversed with lifestyle changes alone?
 
 Often, yes—especially when started early. Studies show that combining improved sleep hygiene, diaphragmatic breathing, and strategic noise reduction can lower 24-hour systolic BP by 5–9 mm Hg within 8–12 weeks. For some, that’s enough to avoid medication escalation. However, if non-dipping persists despite lifestyle efforts, medical evaluation is recommended.
 
-#### #### How is low-frequency noise ambulatory blood pressure different from regular high blood pressure?
+#### How is low-frequency noise ambulatory blood pressure different from regular high blood pressure?
 
 Regular (clinic-based) BP measures a snapshot—often influenced by “white coat” anxiety or recent activity. Low-frequency noise ambulatory blood pressure reflects *how your BP behaves across real-world conditions*, including during sleep and quiet hours. It highlights disruptions in circadian rhythm and autonomic regulation that standard checks miss—making it a more sensitive marker of long-term cardiovascular risk in older adults.
 
-#### #### What decibel level of low-frequency noise starts affecting blood pressure?
+#### What decibel level of low-frequency noise starts affecting blood pressure?
 
 There’s no universal threshold, but research suggests biological effects begin at surprisingly low levels: sustained exposure above **35–40 dB in the 10–30 Hz band**, particularly at night, correlates with measurable changes in cortisol, HRV, and nocturnal BP dipping. For context, a well-maintained elevator motor can emit ~42 dB at 16 Hz—inaudible yet physiologically active.
 
-#### #### Is there a link between low-frequency noise and memory problems in seniors?
+#### Is there a link between low-frequency noise and memory problems in seniors?
 
 Emerging evidence suggests yes—indirectly. Chronic amygdala activation and elevated nighttime cortisol impair hippocampal neuroplasticity and sleep-dependent memory consolidation. While not direct causation, population studies show urban seniors reporting persistent low-frequency hum have a 1.4x higher odds of subjective cognitive decline over 3 years—after adjusting for known vascular risk factors.

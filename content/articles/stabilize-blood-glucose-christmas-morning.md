@@ -72,17 +72,17 @@ Managing diabetes during the holidays isn’t about perfection—it’s about pr
 
 ### FAQ
 
-#### #### How can I stabilize blood glucose Christmas morning without skipping treats?
+#### How can I stabilize blood glucose Christmas morning without skipping treats?
 You don’t need to skip treats—just sequence and pair them wisely. Enjoy a small portion of dessert *after* your protein-first breakfast and alongside fiber-rich foods (e.g., berries, nuts). Delaying sweets by 90+ minutes post-protein helps prevent sharp spikes. Research shows this approach lowers 2-hour glucose by ~20% versus eating dessert with the main meal.
 
-#### #### What’s the best time to check blood sugar to stabilize blood glucose Christmas morning?
+#### What’s the best time to check blood sugar to stabilize blood glucose Christmas morning?
 Check at five key points: fasting (upon waking), then 30, 60, 90, and 120 minutes after the *first bite* of protein. This captures the full dynamic response—not just the peak, but the duration and recovery. Avoid checking only at “2 hours after the meal starts,” as timing varies widely with sequential eating.
 
-#### #### Does cold weather affect my ability to stabilize blood glucose Christmas morning?
+#### Does cold weather affect my ability to stabilize blood glucose Christmas morning?
 Yes—indirectly. Cold ambient temperatures (<16°C / 60°F) can activate sympathetic nervous system responses, raising epinephrine and cortisol, which promote hepatic glucose production. Conversely, overheated rooms (>24°C / 75°F) speed gastric emptying. Aim for a steady 19–21°C (66–70°F) to support stable digestion and hormonal balance.
 
-#### #### Can I use regular oatmeal instead of steel-cut for viscosity benefits?
+#### Can I use regular oatmeal instead of steel-cut for viscosity benefits?
 Rolled oats work—but steel-cut oats yield significantly higher beta-glucan solubility and retrograded starch after chilling. Quick oats break down too rapidly, reducing viscosity by ~60% compared to steel-cut. If using rolled oats, increase soaking time to 24 hours and refrigerate to maximize effect.
 
-#### #### Is fasting overnight enough to stabilize blood glucose Christmas morning?
+#### Is fasting overnight enough to stabilize blood glucose Christmas morning?
 No. Overnight fasting sets the baseline—but Christmas morning’s unique combination of emotional arousal, circadian cortisol surge, and meal composition creates a distinct metabolic context. Fasting glucose alone doesn’t predict postprandial response in adults over 60, where gastric and hormonal changes dominate early-morning dynamics.

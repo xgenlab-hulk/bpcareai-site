@@ -54,22 +54,22 @@ In short: You don’t need to overhaul holiday traditions to support healthier l
 
 ### FAQ
 
-#### #### Does protein-first timing triglycerides metabolic syndrome really work for people over 70?
+#### Does protein-first timing triglycerides metabolic syndrome really work for people over 70?
 
 Yes—clinical trials involving adults aged 68–82 showed consistent reductions in 4-hour postprandial triglycerides (average drop of 31 mg/dL) when protein was consumed 90 seconds before the main course, versus control groups who ate protein last or mixed.
 
-#### #### What’s the best protein-first timing triglycerides metabolic syndrome window for Thanksgiving dinner?
+#### What’s the best protein-first timing triglycerides metabolic syndrome window for Thanksgiving dinner?
 
 The two most effective windows are: (1) 90 seconds before the turkey is served, and (2) within 3 minutes of sitting down at the table—both align with peak gastric hormone release and optimal LPL priming.
 
-#### #### Can protein-first timing triglycerides metabolic syndrome help with blood pressure too?
+#### Can protein-first timing triglycerides metabolic syndrome help with blood pressure too?
 
 Indirectly, yes. Lower post-meal triglycerides mean less endothelial stress and improved arterial flexibility—both linked to more stable BP readings. One 12-week trial noted a modest but consistent 3–4 mm Hg average systolic reduction in participants practicing timed protein intake.
 
-#### #### Do plant proteins work as well as animal proteins for this strategy?
+#### Do plant proteins work as well as animal proteins for this strategy?
 
 Yes—if they’re complete or combined. Lentils + pumpkin seeds, tofu + quinoa, or pea protein isolate all trigger similar GLP-1 and CCK responses. Just aim for ≥15 g of high-quality protein in your “first bite.”
 
-#### #### Is this just another fad diet?
+#### Is this just another fad diet?
 
 No. This isn’t about restriction or calorie counting. It’s a physiology-informed habit—rooted in decades of research on nutrient sequencing, gut-brain signaling, and age-related changes in lipid metabolism. Think of it as “metabolic pacing”—not dieting.

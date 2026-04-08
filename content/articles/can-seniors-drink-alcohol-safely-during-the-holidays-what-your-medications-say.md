@@ -54,17 +54,17 @@ Enjoying the holidays doesn’t mean sacrificing safety—or joy. With a little 
 
 ### FAQ
 
-#### #### Can alcohol and medications for seniors holidays affect my blood pressure meds?
+#### Can alcohol and medications for seniors holidays affect my blood pressure meds?
 Yes—alcohol can cause unpredictable changes in arterial pressure when taken with antihypertensives. It may lower BP too much (leading to dizziness or falls) or blunt the effect of some medications, raising BP unexpectedly. Consistent monitoring helps detect these shifts early.
 
-#### #### Is there a safe amount of alcohol for seniors on multiple medications?
+#### Is there a safe amount of alcohol for seniors on multiple medications?
 There is no universal “safe” amount—it depends on your specific drugs, health conditions, and metabolism. For many seniors on three or more prescriptions, abstaining is the safest choice. Always discuss your individual situation with your pharmacist or physician.
 
-#### #### How does alcohol interact with common senior supplements like turmeric or fish oil?
+#### How does alcohol interact with common senior supplements like turmeric or fish oil?
 Some supplements interact meaningfully with alcohol. High-dose fish oil may increase bleeding risk when combined with alcohol—especially alongside anticoagulants. Turmeric (curcumin) can also enhance anticoagulant effects. While generally low-risk in culinary amounts, concentrated supplements deserve the same caution as medications.
 
-#### #### Does “one glass of wine” really pose a risk if I’m healthy and active?
+#### Does “one glass of wine” really pose a risk if I’m healthy and active?
 Even healthy, active seniors experience age-related changes in alcohol metabolism. One drink may raise BAC by up to 20% more than in a younger adult—and even small increases can impair balance, reaction time, and judgment, raising fall risk during busy holiday activities.
 
-#### #### What should I do if I accidentally drank alcohol while on a restricted medication?
+#### What should I do if I accidentally drank alcohol while on a restricted medication?
 Don’t panic—but do monitor closely for symptoms like nausea, headache, irregular heartbeat, or confusion. Contact your pharmacist or doctor if you feel unwell, and keep a record of what you took and when. In cases involving anticoagulants or sedatives, medical evaluation may be advised.

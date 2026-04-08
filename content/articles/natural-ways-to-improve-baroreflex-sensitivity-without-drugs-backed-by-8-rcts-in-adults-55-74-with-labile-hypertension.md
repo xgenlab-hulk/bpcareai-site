@@ -64,22 +64,22 @@ Improving baroreflex sensitivity naturally isn’t about perfection—it’s abo
 
 ### FAQ
 
-#### #### Can improving baroreflex sensitivity naturally help with morning BP spikes?
+#### Can improving baroreflex sensitivity naturally help with morning BP spikes?
 
 Yes. Morning surges are often tied to blunted BRS upon waking. Timed breathing done right after rising—and cold-face immersion—have both shown reductions in morning systolic variability by 12–15% in RCTs.
 
-#### #### What’s the best way to improve baroreflex sensitivity naturally for someone over 70?
+#### What’s the best way to improve baroreflex sensitivity naturally for someone over 70?
 
 All four methods are safe and studied in adults up to 74—many participants were frail or had mild mobility limits. Start with timed breathing and vocal resistance, then add cold-face immersion. Isometric handgrip can be modified (e.g., lighter resistance, shorter holds) if needed.
 
-#### #### Does improving baroreflex sensitivity naturally lower resting blood pressure too?
+#### Does improving baroreflex sensitivity naturally lower resting blood pressure too?
 
 Sometimes—but modestly. In the RCTs, average resting BP dropped only 3–5 mm Hg systolic. The bigger win was *stability*: fewer extreme swings and faster recovery after stress. That’s the hallmark of improved BRS.
 
-#### #### How long before I notice changes?
+#### How long before I notice changes?
 
 Most people report feeling calmer, less reactive, or more steady on their feet within 2–3 weeks. Objective BRS improvements appear reliably by week 4 in clinical studies.
 
-#### #### Are there risks to cold-water face immersion for older adults?
+#### Are there risks to cold-water face immersion for older adults?
 
 Not when done gently and briefly. Avoid if you have uncontrolled arrhythmias or recent stroke—but for most adults 55–74, it’s well-tolerated and carries no known adverse events in the trials. Always breathe normally—no breath-holding beyond 5 seconds.

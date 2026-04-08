@@ -69,17 +69,17 @@ Heart health doesn’t wait for dramatic symptoms—and neither should preventio
 
 ### FAQ
 
-#### #### Can a dentist really detect heart disease?
+#### Can a dentist really detect heart disease?
 Yes—through signs like severe gum inflammation, carotid calcifications on dental X-rays, and microvascular changes in the tongue or gums. While dentists don’t diagnose heart disease, they *can* spot red flags that warrant medical follow-up.
 
-#### #### How common is dentist detection of heart disease in men over 65?
+#### How common is dentist detection of heart disease in men over 65?
 Studies estimate that 15–25% of men over 65 with advanced periodontitis have undetected cardiovascular risk—many confirmed later via echocardiogram or stress testing. Dentist detection of heart disease in men over 65 is underutilized but highly promising.
 
-#### #### What oral symptoms should prompt a heart health check?
+#### What oral symptoms should prompt a heart health check?
 Persistent gum recession with bleeding, unexplained tooth mobility, recurrent mouth ulcers, or a pale/scalloped tongue—especially alongside fatigue or swelling—deserve discussion with both your dentist and physician.
 
-#### #### Does gum disease cause heart disease?
+#### Does gum disease cause heart disease?
 Not directly—but chronic periodontitis contributes to systemic inflammation, endothelial damage, and elevated CRP—all known drivers of atherosclerosis and heart disease progression.
 
-#### #### Are dental X-rays safe for detecting heart risk?
+#### Are dental X-rays safe for detecting heart risk?
 Yes. The radiation dose from a standard dental panoramic X-ray is very low (about 0.01 mSv—less than a day of natural background radiation). When carotid calcifications appear, it’s considered a “free bonus” clue—not the main purpose of the image, but a clinically meaningful one.

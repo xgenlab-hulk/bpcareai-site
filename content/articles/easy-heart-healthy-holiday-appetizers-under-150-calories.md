@@ -55,22 +55,22 @@ Holiday joy isn’t measured in calories or cholesterol numbers — it’s found
 
 ### FAQ
 
-#### #### What are some easy heart-healthy holiday appetizers under 150 calories for seniors?
+#### What are some easy heart-healthy holiday appetizers under 150 calories for seniors?
 
 Try baked zucchini chips with garlic-herb seasoning (~120 cal), smoked salmon on whole-grain rye crisp with capers and dill (~145 cal), or air-popped popcorn tossed with nutritional yeast and a pinch of smoked paprika (~130 cal). All are low in sodium, rich in nutrients, and gentle on the heart.
 
-#### #### Can heart-healthy holiday appetizers under 150 calories still be flavorful?
+#### Can heart-healthy holiday appetizers under 150 calories still be flavorful?
 
 Absolutely! Flavor comes from herbs, spices, citrus, vinegar, and roasting — not salt or heavy cream. Think lemon-thyme chickpeas, balsamic-glazed mushrooms, or spiced roasted nuts (unsalted, <¼ tsp spice blend per serving).
 
-#### #### Are there heart-healthy holiday appetizers under 150 calories that are also diabetes-friendly?
+#### Are there heart-healthy holiday appetizers under 150 calories that are also diabetes-friendly?
 
 Yes — focus on options with minimal added sugar (<5 g per serving) and at least 3 g fiber or protein. Examples include stuffed mini bell peppers with quinoa and black beans, or avocado-egg salad on endive leaves.
 
-#### #### How does sodium in appetizers affect blood pressure in older adults?
+#### How does sodium in appetizers affect blood pressure in older adults?
 
 Excess sodium causes fluid retention, increasing arterial pressure. For adults over 50, even a single high-sodium appetizer (e.g., >300 mg sodium) can raise systolic BP by 5–10 mm Hg temporarily — and repeated exposure accelerates vascular stiffness.
 
-#### #### What’s the best way to adjust family-favorite appetizers to be heart-healthy for seniors?
+#### What’s the best way to adjust family-favorite appetizers to be heart-healthy for seniors?
 
 Swap full-fat dairy for low-fat Greek yogurt or mashed avocado; use herbs instead of salt; choose whole grains over refined flour; and bake or air-fry instead of deep-frying. Small tweaks add up — and most guests won’t even notice the difference.

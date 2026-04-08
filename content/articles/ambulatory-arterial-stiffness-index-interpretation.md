@@ -44,17 +44,17 @@ In summary, AASI is a valuable, non-invasive piece of your cardiovascular puzzle
 
 ### FAQ
 
-#### #### What does a high ambulatory arterial stiffness index interpretation mean clinically?
+#### What does a high ambulatory arterial stiffness index interpretation mean clinically?
 A high AASI (typically ≥0.34) suggests reduced buffering capacity in small resistance arteries—often reflecting early microvascular remodeling. It’s associated with higher risks for silent brain infarcts, declining kidney function, and impaired cerebral autoregulation—not necessarily immediate danger, but a signal to optimize vascular health.
 
-#### #### How is ambulatory arterial stiffness index interpretation different from pulse wave velocity (PWV)?
+#### How is ambulatory arterial stiffness index interpretation different from pulse wave velocity (PWV)?
 While PWV measures large-artery stiffness (aortic/carotid), AASI estimates *small-artery* stiffness via diastolic–systolic regression. They correlate modestly (r ≈ 0.4–0.5), meaning both offer complementary insights—AASI is more accessible via home monitors, whereas PWV requires specialized equipment.
 
-#### #### Can ambulatory arterial stiffness index interpretation be used in people with atrial fibrillation?
+#### Can ambulatory arterial stiffness index interpretation be used in people with atrial fibrillation?
 Caution is advised. Irregular rhythms reduce the reliability of diastolic–systolic regression, potentially inflating AASI. If you have AFib, discuss alternative markers (e.g., visit-to-visit BP variability, central aortic pressure estimates) with your provider.
 
-#### #### Does medication affect ambulatory arterial stiffness index interpretation?
+#### Does medication affect ambulatory arterial stiffness index interpretation?
 Yes—certain antihypertensives (e.g., renin-angiotensin system blockers, nebivolol) may lower AASI more than others, independent of BP reduction. This makes AASI useful for evaluating *vascular-specific* drug effects beyond standard BP control.
 
-#### #### Is AASI the same as “arterial stiffness” measured in clinics?
+#### Is AASI the same as “arterial stiffness” measured in clinics?
 No. Clinic-based “arterial stiffness” usually refers to carotid-femoral PWV or augmentation index. AASI is distinct: it’s derived from routine BP variability and reflects peripheral resistance vessel behavior—not central elastic artery function.

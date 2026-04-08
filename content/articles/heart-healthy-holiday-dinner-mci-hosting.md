@@ -93,22 +93,22 @@ Hosting a heart-healthy holiday dinner mci hosting experience isn’t about perf
 
 ### FAQ
 
-#### #### How can I plan a heart-healthy holiday dinner mci hosting plan without feeling overwhelmed?
+#### How can I plan a heart-healthy holiday dinner mci hosting plan without feeling overwhelmed?
 
 Start with just *one* change: choose one dish to simplify (e.g., swap mashed potatoes for cauliflower mash), label it clearly, and ask one trusted guest to help serve it. Small steps build confidence—and science shows consistency matters more than scale. Most adults with MCI find success with 1–2 adaptations per holiday season.
 
-#### #### What are easy heart-healthy holiday dinner mci hosting menu ideas for seniors?
+#### What are easy heart-healthy holiday dinner mci hosting menu ideas for seniors?
 
 Try: baked cod with lemon-dill sauce (omega-3s + low sodium), roasted sweet potato wedges (potassium + fiber), steamed green beans with slivered almonds (magnesium + healthy fats), and unsweetened applesauce with cinnamon (antioxidants + zero added sugar). All can be prepped ahead, labeled, and served with minimal last-minute effort.
 
-#### #### Can mild cognitive impairment affect how I manage my blood pressure during holiday meals?
+#### Can mild cognitive impairment affect how I manage my blood pressure during holiday meals?
 
 Yes—cognitive load can elevate stress hormones, which temporarily raise BP. For example, trying to recall multiple guests’ dietary restrictions *while* monitoring cooking times may spike systolic pressure by 10–15 mm Hg. That’s why simplifying, labeling, and scripting help protect both cognition *and* cardiovascular health.
 
-#### #### Is alcohol ever safe with heart disease and MCI?
+#### Is alcohol ever safe with heart disease and MCI?
 
 Generally, no—especially during festive meals. Even moderate alcohol (1 drink) can interfere with BP medications, disrupt sleep (critical for memory consolidation), and worsen dehydration. If you do choose to include it, discuss it first with your cardiologist or geriatrician—and limit to *one* 5 oz glass of dry red wine, consumed *with* food, no later than 7 p.m.
 
-#### #### How do I tell guests about dietary needs without making it awkward?
+#### How do I tell guests about dietary needs without making it awkward?
 
 Use warm, inclusive language: *“We’re keeping things light and heart-friendly this year—so much delicious flavor, no heavy feeling!”* Offer tasty alternatives (sparkling water with berries, roasted spiced nuts) so no one feels excluded. Most guests appreciate clarity—and will likely follow your lead with gratitude.

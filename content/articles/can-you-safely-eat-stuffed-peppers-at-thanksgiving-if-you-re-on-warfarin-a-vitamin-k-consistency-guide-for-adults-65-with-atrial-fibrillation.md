@@ -56,22 +56,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can I eat roasted stuffed peppers on warfarin without affecting my INR?
+#### Can I eat roasted stuffed peppers on warfarin without affecting my INR?
 
 Yes—you can safely enjoy roasted stuffed peppers on warfarin as long as your vitamin K intake stays consistent from day to day. One medium pepper with moderate greens (like ¼ cup chopped spinach or kale) provides about 85–95 mcg of vitamin K—well within the stable range most clinicians recommend (70–120 mcg/day). Just avoid sudden increases (e.g., going from zero spinach to a full cup overnight).
 
-#### #### What are some warfarin safe holiday foods vitamin k options besides stuffed peppers?
+#### What are some warfarin safe holiday foods vitamin k options besides stuffed peppers?
 
 Great question! Other **warfarin safe holiday foods vitamin k** choices include: baked sweet potatoes (low in vitamin K, high in potassium), steamed green beans (moderate—~30 mcg per ½ cup), roasted acorn squash (very low—<5 mcg), and turkey breast (virtually no vitamin K). Pair them with consistent herbs and portions—and you’ll support both your INR and your appetite.
 
-#### #### Does cooking method change vitamin K in vegetables for warfarin users?
+#### Does cooking method change vitamin K in vegetables for warfarin users?
 
 Yes—but not as much as many think. Vitamin K is fat-soluble and heat-stable, so roasting, baking, or sautéing preserves most of it. Steaming or boiling can reduce levels by 10–20% due to leaching into water. For warfarin users, the bigger issue is *variability*: switching between methods week to week can introduce inconsistency. Pick one and stick with it.
 
-#### #### Are cranberry products safe with warfarin during Thanksgiving?
+#### Are cranberry products safe with warfarin during Thanksgiving?
 
 Cranberry juice and sauces *don’t contain significant vitamin K*, but they *can* interfere with warfarin metabolism—potentially raising INR. Limit cranberry juice to 4 oz or less per day, and enjoy sauce in typical holiday portions (2–3 tbsp). If you’ve had INR shifts after cranberry before, consider a homemade version with less juice—or skip it altogether.
 
-#### #### How much vitamin K is too much when on warfarin?
+#### How much vitamin K is too much when on warfarin?
 
 There’s no universal “too much,” but sudden jumps above 120–150 mcg/day—especially if you usually eat <60 mcg—can shift INR. Most clinicians recommend aiming for *consistency* over strict restriction. A daily range of 70–100 mcg is manageable for most people on warfarin—and easy to hit with one serving of leafy greens, plus common veggies and herbs.

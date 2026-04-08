@@ -70,22 +70,22 @@ In summary, holiday weight gain beta-cell exhaustion is not inevitable—and it�
 
 ### FAQ
 
-#### #### Does holiday weight gain beta-cell exhaustion show up on standard blood tests?
+#### Does holiday weight gain beta-cell exhaustion show up on standard blood tests?
 
 Not reliably. Fasting glucose and A1c often remain normal until beta-cell function declines by 50–70%. More sensitive tools include postprandial glucose checks, CGM-derived metrics (like time above 140 mg/dL), or proinsulin-to-insulin ratio.
 
-#### #### Can holiday weight gain beta-cell exhaustion be reversed?
+#### Can holiday weight gain beta-cell exhaustion be reversed?
 
 Yes—especially in the early phase. Studies show structured diet, activity, and modest weight loss (3–5% of body weight) improve beta-cell glucose sensitivity and reduce proinsulin secretion within 12 weeks.
 
-#### #### Is holiday weight gain beta-cell exhaustion the same as prediabetes?
+#### Is holiday weight gain beta-cell exhaustion the same as prediabetes?
 
 Not exactly. Prediabetes is a *diagnostic category* based on lab values. Holiday weight gain beta-cell exhaustion describes a *physiological process*—often preceding and contributing to prediabetes—but detectable before thresholds are crossed.
 
-#### #### What’s the link between holiday weight gain beta-cell exhaustion and high blood pressure?
+#### What’s the link between holiday weight gain beta-cell exhaustion and high blood pressure?
 
 Visceral fat from holiday weight gain promotes systemic inflammation and sympathetic nervous system activation—both contribute to arterial stiffness and elevated BP. Sustained BP >130/80 mm Hg in this age group warrants evaluation alongside glucose metabolism.
 
-#### #### How soon after holiday weight gain does beta-cell exhaustion begin?
+#### How soon after holiday weight gain does beta-cell exhaustion begin?
 
 Functional changes can appear within 4–6 weeks of sustained caloric surplus—especially with high intake of ultra-processed foods. The timeline accelerates with age, sedentary behavior, and genetic risk.

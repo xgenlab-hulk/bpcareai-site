@@ -45,17 +45,17 @@ In summary, the Q-CORE trial provides encouraging, high-quality evidence that Co
 
 ### FAQ
 
-#### #### Does CoQ10 improve ejection fraction in ischemic cardiomyopathy?
+#### Does CoQ10 improve ejection fraction in ischemic cardiomyopathy?
 Yes — the Q-CORE trial found that 400 mg/day of ubiquinol increased LVEF by an average of 2.8 percentage points over 24 weeks in adults 66+ with ischemic cardiomyopathy already on max-tolerated GDMT.
 
-#### #### What is the best dose of CoQ10 for coq10 and ejection fraction ischemic cardiomyopathy?
+#### What is the best dose of CoQ10 for coq10 and ejection fraction ischemic cardiomyopathy?
 Based on current evidence, 400 mg/day of ubiquinol (not ubiquinone) taken with food is the dose studied and shown effective in the Q-CORE trial for improving coq10 and ejection fraction ischemic cardiomyopathy outcomes.
 
-#### #### Can CoQ10 replace heart failure medications?
+#### Can CoQ10 replace heart failure medications?
 No. CoQ10 is not a substitute for guideline-directed medical therapy (GDMT) like beta-blockers, ARNIs, or SGLT2 inhibitors. It should only be considered as an *add-on*, under medical supervision.
 
-#### #### Does CoQ10 lower blood pressure?
+#### Does CoQ10 lower blood pressure?
 CoQ10 has shown mild BP-lowering effects in some hypertension studies (typically -3 to -7 mm Hg systolic), but this was not a primary focus in Q-CORE. Its main benefit in ischemic cardiomyopathy relates to myocardial energetics — not arterial pressure control.
 
-#### #### Is coq10 and ejection fraction ischemic cardiomyopathy supported by large clinical trials?
+#### Is coq10 and ejection fraction ischemic cardiomyopathy supported by large clinical trials?
 Yes — the Q-CORE trial is the largest and most rigorous RCT to date addressing coq10 and ejection fraction ischemic cardiomyopathy, with robust methodology including central echo core lab analysis and blinded endpoint adjudication.

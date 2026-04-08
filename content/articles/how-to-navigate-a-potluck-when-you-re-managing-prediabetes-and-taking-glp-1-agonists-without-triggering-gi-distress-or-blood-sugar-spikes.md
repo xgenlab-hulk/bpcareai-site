@@ -69,17 +69,17 @@ Navigating family gatherings while managing prediabetes and using GLP-1 agonists
 
 ### FAQ  
 
-#### #### How can I avoid nausea at a potluck while taking a GLP-1 agonist?  
+#### How can I avoid nausea at a potluck while taking a GLP-1 agonist?  
 Start with a small portion of protein and non-starchy vegetables *before* touching carbs or rich foods—and chew slowly. Avoid eating large amounts within 1–2 hours of your injection time, and skip carbonated or overly sweet beverages. Sipping ginger tea beforehand may also help settle the stomach for some people.
 
-#### #### Is potluck prediabetes glp-1 agonist safety different for people over 60?  
+#### Is potluck prediabetes glp-1 agonist safety different for people over 60?  
 Yes—older adults often experience slower gastric motility even without medication, and GLP-1s amplify that effect. Add in age-related shifts in kidney function, muscle mass, and insulin sensitivity, and it becomes even more important to prioritize protein-first sequencing, mindful pacing, and hydration. A 2023 review noted adults 60+ had a 25% higher rate of GI-related discontinuation of GLP-1s during unstructured eating events—highlighting why proactive planning matters.
 
-#### #### Can I still enjoy desserts at a potluck on a GLP-1 agonist?  
+#### Can I still enjoy desserts at a potluck on a GLP-1 agonist?  
 Yes—strategically. Wait until you’ve eaten protein and fiber first, then choose *one* small portion (e.g., 1–2 tbsp of fruit-based crumble, not cake with frosting). Pair it with a few nuts or a spoonful of plain Greek yogurt to slow absorption and support satiety. Avoid combining multiple sweets—or eating dessert on an empty stomach.
 
-#### #### What’s the best time to take my GLP-1 injection before a family potluck?  
+#### What’s the best time to take my GLP-1 injection before a family potluck?  
 If your event is in the afternoon or evening, morning injection is usually ideal—giving your body time to settle into its rhythm before food arrives. Avoid injecting *immediately before* eating. For weekly injections, many find consistency (e.g., every Sunday morning) supports better predictability than trying to time doses around variable events.
 
-#### #### Does potluck prediabetes glp-1 agonist safety include blood pressure concerns?  
+#### Does potluck prediabetes glp-1 agonist safety include blood pressure concerns?  
 Absolutely. Many potluck staples—like canned beans, deli meats, and creamy casseroles—are high in sodium, which can raise arterial pressure. Since up to 65% of adults with prediabetes also have elevated BP, pairing GLP-1 use with mindful sodium awareness supports both metabolic and cardiovascular health. Opt for fresh herbs, lemon, garlic, and vinegar instead of salt-heavy seasonings.

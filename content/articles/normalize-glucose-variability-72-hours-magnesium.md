@@ -104,17 +104,17 @@ Glucose variability isn’t just a number on a screen—it reflects how well you
 
 ### FAQ
 
-#### #### Can magnesium alone normalize glucose variability in 72 hours—or is alpha-lipoic acid necessary?  
+#### Can magnesium alone normalize glucose variability in 72 hours—or is alpha-lipoic acid necessary?  
 While magnesium-glycinate improves insulin sensitivity and reduces oxidative stress, studies show it achieves only ~25–30% of the MAGE reduction seen with the combined protocol. Alpha-lipoic acid enhances magnesium’s cellular uptake and independently protects beta-cells—making the synergy essential for rapid, robust effects in older adults.
 
-#### #### Does “normalize glucose variability 72 hours magnesium” work for people with normal A1C but high daily swings?  
+#### Does “normalize glucose variability 72 hours magnesium” work for people with normal A1C but high daily swings?  
 Yes. In the 63-participant trial, 41% had A1C <5.7% yet showed elevated MAGE (>3.2 mmol/L) post-holidays. Their response to the protocol was nearly identical to those with prediabetes—confirming that glucose variability is an independent metric requiring its own attention.
 
-#### #### How soon after starting the protocol should I expect to see changes in my glucose readings?  
+#### How soon after starting the protocol should I expect to see changes in my glucose readings?  
 Most participants observed measurable reductions in post-meal spikes by hour 24, with maximal MAGE and SD improvements occurring between hours 48–72. Consistency with dosing timing and meal pairing significantly influences speed of response.
 
-#### #### Are there side effects or interactions I should know about?  
+#### Are there side effects or interactions I should know about?  
 Magnesium-glycinate is generally well tolerated; diarrhea is rare at 300 mg/day. R-alpha-lipoic acid may cause mild transient nausea if taken on an empty stomach—hence the recommendation to dose 30 minutes before meals. Both supplements may enhance the effects of insulin or sulfonylureas, so monitor closely if using these medications.
 
-#### #### Can I continue this protocol beyond 72 hours?  
+#### Can I continue this protocol beyond 72 hours?  
 The 3-day approach is designed for *acute stabilization*. Long-term magnesium supplementation (up to 400 mg/day) is safe for most seniors, but extended high-dose ALA (beyond 600 mg/day total) should be guided by a clinician—especially with kidney impairment or heavy metal burden concerns.

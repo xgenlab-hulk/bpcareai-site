@@ -52,22 +52,22 @@ In closing: enjoying the holidays doesn’t require sacrificing comfort or contr
 
 ### FAQ
 
-#### #### Are sugar-free candies safe for people with gastroparesis?
+#### Are sugar-free candies safe for people with gastroparesis?
 
 Not all sugar-free candies are safe for people with gastroparesis. Many contain maltitol or sorbitol, which can worsen delayed gastric emptying and cause osmotic diarrhea or secondary hyperglycemia. Always check labels—and when in doubt, choose alternatives sweetened with stevia or erythritol instead.
 
-#### #### Can sugar-free candies and gastroparesis lead to high blood sugar?
+#### Can sugar-free candies and gastroparesis lead to high blood sugar?
 
 Yes—indirectly. Though sugar alcohols aren’t fully absorbed, their fermentation in the colon can trigger stress hormones (like epinephrine) and gut peptides (like GLP-1), leading to reactive glucose spikes several hours after consumption. This is especially relevant in adults 69+ with existing gastroparesis and insulin resistance.
 
-#### #### What sugar alcohols should I avoid if I have gastroparesis?
+#### What sugar alcohols should I avoid if I have gastroparesis?
 
 Maltitol is the most problematic—found in many sugar-free chocolates and caramels—and should be limited or avoided. Sorbitol is also poorly tolerated. Erythritol tends to be gentler on digestion, and xylitol falls in the middle. Stevia and monk fruit extracts are non-fermentable options worth exploring.
 
-#### #### Do sugar-free candies affect blood pressure?
+#### Do sugar-free candies affect blood pressure?
 
 Sugar-free candies themselves don’t directly raise blood pressure. However, repeated episodes of dehydration from osmotic diarrhea—or stress-induced catecholamine surges—can temporarily elevate arterial pressure. Consistent hydration and mindful intake support both gut and cardiovascular wellness.
 
-#### #### Is there a “safe” amount of sugar-free candy for seniors with gastroparesis?
+#### Is there a “safe” amount of sugar-free candy for seniors with gastroparesis?
 
 There’s no one-size-fits-all threshold—but starting with ≤3 grams of total sugar alcohols per serving, eaten slowly with food, helps most people assess tolerance safely. Monitoring symptoms and glucose over 3–4 hours gives clearer insight than package claims alone.

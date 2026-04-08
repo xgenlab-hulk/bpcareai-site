@@ -1,0 +1,812 @@
+{
+  "batch_id": 5,
+  "total_articles": 245,
+  "quality_distribution": {
+    "excellent": 177,
+    "good": 5,
+    "needs_improvement": 63,
+    "poor": 0
+  },
+  "needs_optimization": [
+    {
+      "slug": "salt-sensitivity-myths-in-black-adults",
+      "title": "Myths vs Facts: ‘Salt Sensitivity’ in Black Adults 55–72 — What Genomic Studies Reveal About ENaC Variants, Potassium Excretion, and Real-World Dietary Response",
+      "current_keyword": "salt sensitivity myths in Black adults",
+      "score": 55,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "blood pressure management adults 55+",
+      "rationale": "Restructured (38 to 36 chars); clarified medical focus"
+    },
+    {
+      "slug": "best-high-fiber-low-fodmap-holiday-desserts-for-adults-63-76-with-ibs-d-and-fructose-malabsorption",
+      "title": "Best High-Fiber, Low-FODMAP Holiday Desserts for Adults 63–76 With IBS-D and Fructose Malabsorption",
+      "current_keyword": "low fodmap holiday desserts seniors",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "health management holiday meals adults 63+",
+      "rationale": "Restructured (35 to 42 chars); clarified medical focus"
+    },
+    {
+      "slug": "best-breathing-patterns-for-reducing-left-atrial-pressure-during-sleep-in-adults-67-79-with-hfpef-and-central-sleep-apnea",
+      "title": "Best Breathing Patterns for Reducing Left Atrial Pressure During Sleep in Adults 67–79 With HFpEF and Central Sleep Apnea",
+      "current_keyword": "breathing patterns hfpef left atrial pressure",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "heart health during sleep adults 67+",
+      "rationale": "Restructured (45 to 36 chars); clarified medical focus"
+    },
+    {
+      "slug": "12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-in-adults-58-69-with-agatston-score-100-400-and-elevated-lp-a",
+      "title": "12 Science-Backed Ways to Reduce Coronary Artery Calcification Progression in Adults 58–69 With Agatston Score 100–400 and Elevated Lp(a)",
+      "current_keyword": "slow coronary artery calcification progression",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "heart health management for adults 58+",
+      "rationale": "Restructured (46 to 38 chars); clarified medical focus"
+    },
+    {
+      "slug": "12-science-backed-ways-to-improve-baroreflex-sensitivity-without-medication-for-adults-67-80-with-orthostatic-hypotension-and-recurrent-falls",
+      "title": "12 Science-Backed Ways to Improve Baroreflex Sensitivity Without Medication — For Adults 67–80 With Orthostatic Hypotension and Recurrent Falls",
+      "current_keyword": "improve baroreflex sensitivity naturally",
+      "score": 55,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "health management management for adults 67+",
+      "rationale": "Restructured (40 to 43 chars); clarified medical focus"
+    },
+    {
+      "slug": "10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia",
+      "title": "10 Foods That Stabilize Vagal Tone During Holiday Overeating — For Adults 61–74 With POTS-Like Symptoms and Orthostatic Tachycardia",
+      "current_keyword": "foods stabilize vagal tone holiday seniors",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "heart rate holiday meals adults 61+",
+      "rationale": "Restructured (42 to 35 chars); clarified medical focus"
+    },
+    {
+      "slug": "when-to-worry-about-new-onset-palpitations-during-morning-meditation-in-adults-66-79-with-known-aortic-stenosis-and-mild-lvot-obstruction",
+      "title": "When to Worry About New-Onset Palpitations During Morning Meditation in Adults 66–79 With Known Aortic Stenosis and Mild LVOT Obstruction",
+      "current_keyword": "palpitations meditation aortic stenosis",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "heart health morning adults 66+",
+      "rationale": "Restructured (39 to 31 chars); clarified medical focus"
+    },
+    {
+      "slug": "what-causes-recurrent-nighttime-palpitations-with-normal-ecgs-in-women-52-68-during-perimenopause-and-when-it-signals-early-atrial-fibrosis",
+      "title": "What Causes Recurrent Nighttime Palpitations With Normal ECGs in Women 52–68 During Perimenopause — And When It Signals Early Atrial Fibrosis",
+      "current_keyword": "nighttime palpitations perimenopause afib risk",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "heart rate management adults 52+",
+      "rationale": "Restructured (46 to 32 chars); clarified medical focus"
+    },
+    {
+      "slug": "warning-signs-your-well-controlled-diabetes-is-masking-early-diabetic-cardiomyopathy-especially-if-you-re-63-and-have-normal-ejection-fraction",
+      "title": "Warning Signs Your 'Well-Controlled' Diabetes Is Masking Early Diabetic Cardiomyopathy — Especially If You’re 63+ and Have Normal Ejection Fraction",
+      "current_keyword": "diabetic cardiomyopathy early warning signs",
+      "score": 55,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "diabetes management adults over 60",
+      "rationale": "Restructured (43 to 34 chars); clarified medical focus"
+    },
+    {
+      "slug": "warning-signs-your-holiday-leftovers-are-causing-subclinical-dehydration-in-adults-80-with-diminished-thirst-response-and-mild-hyponatremia-risk",
+      "title": "Warning Signs Your Holiday Leftovers Are Causing Subclinical Dehydration in Adults 80+ With Diminished Thirst Response and Mild Hyponatremia Risk",
+      "current_keyword": "holiday leftovers dehydration seniors 80+",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "health management management adults 80+",
+      "rationale": "Restructured (41 to 39 chars); clarified medical focus"
+    },
+    {
+      "slug": "vagal-breathing-central-systolic-pressure",
+      "title": "Does Daily 10-Minute Guided Vagal Breathing Lower Central Systolic Pressure in Adults 60–73 With Elevated Aortic Augmentation Index and High Job Stress?",
+      "current_keyword": "vagal breathing central systolic pressure",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "blood pressure stress management adults 60+",
+      "rationale": "Restructured (41 to 43 chars); clarified medical focus"
+    },
+    {
+      "slug": "the-complete-guide-to-navigating-holiday-buffets-with-visual-impairment-and-age-related-macular-degeneration",
+      "title": "The Complete Guide to Navigating Holiday Buffets With Visual Impairment and Age-Related Macular Degeneration",
+      "current_keyword": "holiday buffet visual impairment seniors",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "health management holiday meals adults",
+      "rationale": "Restructured (40 to 38 chars); clarified medical focus"
+    },
+    {
+      "slug": "quick-ways-to-normalize-morning-pulse-pressure-without-increasing-medication-in-adults-70-83-with-aortic-stiffness-and-orthostatic-dizziness",
+      "title": "Quick Ways to Normalize Morning Pulse Pressure Without Increasing Medication in Adults 70–83 With Aortic Stiffness and Orthostatic Dizziness",
+      "current_keyword": "lower morning pulse pressure elderly",
+      "score": 55,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "blood pressure morning adults 70+",
+      "rationale": "Restructured (36 to 33 chars); clarified medical focus"
+    },
+    {
+      "slug": "how-intermittent-social-isolation-during-winter-months-elevates-il-6-and-accelerates-atherosclerotic-plaque-instability-in-adults-65-81-with-prior-mi",
+      "title": "How Intermittent Social Isolation During Winter Months Elevates IL-6 and Accelerates Atherosclerotic Plaque Instability in Adults 65–81 With Prior MI",
+      "current_keyword": "social isolation winter atherosclerosis",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "inflammation winter season adults 65+",
+      "rationale": "Restructured (39 to 37 chars); clarified medical focus"
+    },
+    {
+      "slug": "how-intergenerational-recipe-sharing-affects-nutrient-density-in-holiday-meals-for-adults-54-65-with-early-sarcopenia-and-low-protein-intake",
+      "title": "How Intergenerational Recipe Sharing Affects Nutrient Density in Holiday Meals for Adults 54–65 With Early Sarcopenia and Low Protein Intake",
+      "current_keyword": "intergenerational recipes sarcopenia seniors",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "health management holiday meals adults 54+",
+      "rationale": "Restructured (44 to 42 chars); clarified medical focus"
+    },
+    {
+      "slug": "easy-ways-to-modify-holiday-pie-crust-for-adults-64-77-with-celiac-disease-and-refractory-dermatitis-herpetiformis",
+      "title": "Easy Ways to Modify Holiday Pie Crust for Adults 64–77 With Celiac Disease and Refractory Dermatitis Herpetiformis",
+      "current_keyword": "gluten free pie crust celiac seniors",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "health management holiday meals adults 64+",
+      "rationale": "Restructured (36 to 42 chars); clarified medical focus"
+    },
+    {
+      "slug": "does-daily-250-mg-of-magnesium-threonate-improve-ventricular-repolarization-homogeneity-in-adults-60-72-with-qtc-prolongation-and-polypharmacy",
+      "title": "Does Daily 250 mg of Magnesium Threonate Improve Ventricular Repolarization Homogeneity in Adults 60–72 With QTc Prolongation and Polypharmacy?",
+      "current_keyword": "magnesium threonate qt prolongation",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "heart health management for adults 60+",
+      "rationale": "Restructured (35 to 38 chars); clarified medical focus"
+    },
+    {
+      "slug": "5-things-every-woman-over-65-with-osteoporosis-should-know-before-eating-holiday-roast-beef-and-gravy",
+      "title": "5 Things Every Woman Over 65 With Osteoporosis Should Know Before Eating Holiday Roast Beef and Gravy",
+      "current_keyword": "holiday roast beef osteoporosis women seniors",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "bone health holiday meals adults",
+      "rationale": "Restructured (45 to 32 chars); clarified medical focus"
+    },
+    {
+      "slug": "10-foods-that-increase-pulse-wave-velocity-within-2-hours-and-what-to-eat-instead-if-you-re-61-with-elevated-cac-score",
+      "title": "10 Foods That Increase Pulse Wave Velocity Within 2 Hours — And What to Eat Instead If You’re 61+ With Elevated CAC Score",
+      "current_keyword": "foods that increase pulse wave velocity",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "health management management adults",
+      "rationale": "Restructured (39 to 35 chars); clarified medical focus"
+    },
+    {
+      "slug": "when-to-worry-about-post-holiday-constipation-in-adults-72-with-chronic-opioid-use-and-low-fiber-diet-history",
+      "title": "When to Worry About Post-Holiday Constipation in Adults 72+ With Chronic Opioid Use and Low-Fiber Diet History",
+      "current_keyword": "post-holiday constipation opioid warning signs",
+      "score": 55,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "health management holiday meals adults 72+",
+      "rationale": "Restructured (46 to 42 chars); clarified medical focus"
+    },
+    {
+      "slug": "warning-signs-your-holiday-plate-is-hiding-excess-sodium-even-if-you-skipped-the-gravy",
+      "title": "Warning Signs Your Holiday Plate Is Hiding Excess Sodium — Even If You Skipped the Gravy",
+      "current_keyword": "hidden sodium holiday foods warning signs",
+      "score": 55,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "blood pressure warning signs holiday meals adults",
+      "rationale": "Restructured (41 to 49 chars); clarified medical focus"
+    },
+    {
+      "slug": "warning-signs-your-bp-meds-are-causing-subclinical-hyponatremia-especially-if-you-re-71-on-thiazides-and-taking-ssris",
+      "title": "Warning Signs Your BP Meds Are Causing Subclinical Hyponatremia — Especially If You’re 71+ on Thiazides and Taking SSRIs",
+      "current_keyword": "thiazide hyponatremia warning signs elderly",
+      "score": 55,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "blood pressure warning signs adults",
+      "rationale": "Restructured (43 to 35 chars); clarified medical focus"
+    },
+    {
+      "slug": "turkey-preparation-gout-uric-acid-comparison",
+      "title": "A vs B: Traditional Roast Turkey (Skin-On, Herb-Rubbed) vs. Slow-Braised Turkey Leg (Bone-In, Low-Sodium Broth) — Impact on Postprandial Uric Acid in Men 62–79 With Gout and Mild CKD",
+      "current_keyword": "turkey preparation gout uric acid comparison",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "kidney health management adults 62+",
+      "rationale": "Restructured (44 to 35 chars); clarified medical focus"
+    },
+    {
+      "slug": "natural-ways-to-support-capillary-perfusion-without-vasodilators-for-adults-67-79-with-hypertension-mild-peripheral-artery-disease-and-cold-hands-feet",
+      "title": "Natural Ways to Support Capillary Perfusion Without Vasodilators — For Adults 67–79 With Hypertension, Mild Peripheral Artery Disease, and Cold Hands/Feet",
+      "current_keyword": "capillary perfusion in hypertensive elderly",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "blood pressure management for adults 67+",
+      "rationale": "Restructured (43 to 40 chars); clarified medical focus"
+    },
+    {
+      "slug": "how-chronic-low-grade-inflammation-from-gum-disease-raises-a1c-in-adults-58-74-with-type-2-diabetes-and-poor-dental-access",
+      "title": "How Chronic Low-Grade Inflammation From Gum Disease Raises A1C in Adults 58–74 With Type 2 Diabetes and Poor Dental Access",
+      "current_keyword": "gum disease and A1C elevation older adults",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "diabetes management adults 58+",
+      "rationale": "Restructured (42 to 30 chars); clarified medical focus"
+    },
+    {
+      "slug": "12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness",
+      "title": "12 Science-Backed Ways to Lower Pulse Pressure in Adults 69–82 With Isolated Systolic Hypertension and Aortic Stiffness",
+      "current_keyword": "lower pulse pressure in elderly",
+      "score": 55,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "blood pressure management for adults 69+",
+      "rationale": "Restructured (31 to 40 chars); clarified medical focus"
+    },
+    {
+      "slug": "what-causes-sudden-morning-hyperglycemia-on-christmas-day-even-with-perfect-nighttime-glucose-dawn-phenomenon-vs-somogyi-rebound-in-adults-57-71",
+      "title": "What Causes Sudden Morning Hyperglycemia on Christmas Day — Even With Perfect Nighttime Glucose? (Dawn Phenomenon vs. Somogyi Rebound in Adults 57–71)",
+      "current_keyword": "morning hyperglycemia christmas day cause",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "diabetes management adults 57+",
+      "rationale": "Restructured (41 to 30 chars); clarified medical focus"
+    },
+    {
+      "slug": "renin-angiotensin-balance-natural-support",
+      "title": "Natural Ways to Support Renin-Angiotensin System Balance Using Zinc-Optimized Plant Proteins — For Adults 61–73 With Early-Stage CKD and Stage 1 Hypertension",
+      "current_keyword": "renin angiotensin balance natural support",
+      "score": 55,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "blood pressure management for adults 61+",
+      "rationale": "Restructured (41 to 40 chars); clarified medical focus"
+    },
+    {
+      "slug": "quick-ways-to-prevent-overnight-hypoglycemia-after-late-night-holiday-dessert-for-adults-54-66-on-sulfonylureas-or-basal-insulin",
+      "title": "Quick Ways to Prevent Overnight Hypoglycemia After Late-Night Holiday Dessert — For Adults 54–66 on Sulfonylureas or Basal Insulin",
+      "current_keyword": "prevent overnight hypoglycemia holiday dessert",
+      "score": 55,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "diabetes holiday meals adults 54+",
+      "rationale": "Restructured (46 to 33 chars); clarified medical focus"
+    },
+    {
+      "slug": "12-science-backed-ways-to-improve-baroreflex-sensitivity-without-drugs-for-adults-59-76-with-isolated-systolic-hypertension-and-low-hrv",
+      "title": "12 Science-Backed Ways to Improve Baroreflex Sensitivity Without Drugs — For Adults 59–76 With Isolated Systolic Hypertension and Low HRV",
+      "current_keyword": "baroreflex sensitivity improvement methods",
+      "score": 55,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "blood pressure management for adults 59+",
+      "rationale": "Restructured (42 to 40 chars); clarified medical focus"
+    },
+    {
+      "slug": "when-to-worry-about-sudden-post-dinner-confusion-in-adults-73-with-undiagnosed-b12-deficiency-and-high-fat-holiday-meals",
+      "title": "When to Worry About Sudden Post-Dinner Confusion in Adults 73+ With Undiagnosed B12 Deficiency and High-Fat Holiday Meals",
+      "current_keyword": "post-dinner confusion b12 deficiency seniors",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "health management holiday meals adults 73+",
+      "rationale": "Restructured (44 to 42 chars); clarified medical focus"
+    },
+    {
+      "slug": "right-ventricular-fibrosis-galectin-3-warning-signs",
+      "title": "Warning Signs Your ‘Stable’ Heart Failure Is Masking Early Right Ventricular Fibrosis — Especially With Elevated Serum Galectin-3 and Reduced RV Strain Rate",
+      "current_keyword": "right ventricular fibrosis galectin-3 warning signs",
+      "score": 50,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "heart health warning signs adults",
+      "rationale": "Restructured (51 to 33 chars); clarified medical focus"
+    },
+    {
+      "slug": "quick-atrial-electrophysiology-normalization",
+      "title": "Quick Ways to Normalize Post-Feast Atrial Electrophysiology Using Cold Compress Timing and Cervical Positioning — For Adults 70+ With Prior Holiday-Induced AFib",
+      "current_keyword": "quick atrial electrophysiology normalization",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "atrial fibrillation holiday meals adults 70+",
+      "rationale": "Restructured (44 to 44 chars); clarified medical focus"
+    },
+    {
+      "slug": "myths-vs-facts-my-bp-is-fine-because-my-doctor-never-mentioned-it-in-adults-54-67-with-elevated-pulse-pressure-and-normal-office-sbp-dbp",
+      "title": "Myths vs Facts: 'My BP Is Fine Because My Doctor Never Mentioned It' in Adults 54–67 With Elevated Pulse Pressure and Normal Office SBP/DBP",
+      "current_keyword": "pulse pressure myth doctor not mentioning",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "blood pressure management adults 54+",
+      "rationale": "Restructured (41 to 36 chars); clarified medical focus"
+    },
+    {
+      "slug": "how-late-night-gift-wrapping-under-blue-light-led-lamps-disrupts-cardiac-repolarization-reserve-in-adults-57-69-with-subclinical-qt-prolongation",
+      "title": "How Late-Night Gift Wrapping Under Blue-Light LED Lamps Disrupts Cardiac Repolarization Reserve in Adults 57–69 With Subclinical QT Prolongation",
+      "current_keyword": "blue light gift wrapping qt prolongation",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "heart health management adults 57+",
+      "rationale": "Restructured (40 to 34 chars); clarified medical focus"
+    },
+    {
+      "slug": "does-daily-cold-water-face-immersion-improve-vagal-tone-and-reduce-atrial-fibrillation-burden-in-adults-67-with-paroxysmal-af-and-low-hrv",
+      "title": "Does Daily Cold-Water Face Immersion Improve Vagal Tone and Reduce Atrial Fibrillation Burden in Adults 67+ With Paroxysmal AF and Low HRV?",
+      "current_keyword": "cold water face immersion afib vagal tone",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "atrial fibrillation adults 67+",
+      "rationale": "Restructured (41 to 30 chars); clarified medical focus"
+    },
+    {
+      "slug": "can-daily-5-minute-guided-visualization-lower-post-holiday-stress-induced-hyperglycemia-in-women-58-73-with-type-2-diabetes",
+      "title": "Can Daily 5-Minute Guided Visualization Lower Post-Holiday Stress-Induced Hyperglycemia in Women 58–73 With Type 2 Diabetes?",
+      "current_keyword": "guided visualization holiday hyperglycemia",
+      "score": 55,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "diabetes holiday meals adults 58+",
+      "rationale": "Restructured (42 to 33 chars); clarified medical focus"
+    },
+    {
+      "slug": "10-quick-ways-to-reduce-sodium-load-in-traditional-holiday-side-dishes-without-losing-flavor-or-family-approval",
+      "title": "10 Quick Ways to Reduce Sodium Load in Traditional Holiday Side Dishes — Without Losing Flavor or Family Approval",
+      "current_keyword": "reduce sodium in holiday side dishes seniors",
+      "score": 55,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "blood pressure holiday meals adults",
+      "rationale": "Restructured (44 to 35 chars); clarified medical focus"
+    },
+    {
+      "slug": "10-foods-seniors-80-can-share-with-grandkids-at-holiday-meals-without-triggering-hypoglycemia-or-gi-distress",
+      "title": "10 Foods Seniors 80+ Can Share With Grandkids at Holiday Meals — Without Triggering Hypoglycemia or GI Distress",
+      "current_keyword": "holiday foods seniors 80+ grandkids",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "diabetes holiday meals adults 80+",
+      "rationale": "Restructured (35 to 33 chars); clarified medical focus"
+    },
+    {
+      "slug": "what-causes-sudden-onset-of-orthostatic-tachycardia-after-dental-anesthesia-in-adults-71-with-autonomic-neuropathy-and-prior-orthostatic-hypotension",
+      "title": "What Causes Sudden Onset of Orthostatic Tachycardia After Dental Anesthesia in Adults 71+ With Autonomic Neuropathy and Prior Orthostatic Hypotension",
+      "current_keyword": "orthostatic tachycardia after dental anesthesia seniors",
+      "score": 42,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "heart rate management adults 71+",
+      "rationale": "Restructured (55 to 32 chars); clarified medical focus"
+    },
+    {
+      "slug": "silent-myocardial-infarction-ecg-patch-monitoring",
+      "title": "5 Things Everyone Over 75 Should Know About ‘Silent’ Myocardial Infarction Detection Using Continuous ECG Patch Monitoring and AI-Derived ST-T Morphology Clustering",
+      "current_keyword": "silent myocardial infarction ecg patch monitoring",
+      "score": 55,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "heart health management adults over 60",
+      "rationale": "Restructured (49 to 38 chars); clarified medical focus"
+    },
+    {
+      "slug": "natural-ways-to-support-digestive-resilience-during-3-day-holiday-travel-for-seniors-58-74-with-chronic-constipation-and-polypharmacy",
+      "title": "Natural Ways to Support Digestive Resilience During 3-Day Holiday Travel — For Seniors 58–74 With Chronic Constipation and Polypharmacy",
+      "current_keyword": "digestive resilience during holiday travel seniors",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "health management holiday meals adults 58+",
+      "rationale": "Restructured (50 to 42 chars); clarified medical focus"
+    },
+    {
+      "slug": "nasal-breathing-central-aortic-pressure",
+      "title": "Can Daily 4-Minute Nasal Breathing Sequencing (Buteyko + Box Breathing) Reduce Central Aortic Systolic Pressure in Women 58–71 With Elevated Pulse Wave Velocity?",
+      "current_keyword": "nasal breathing central aortic pressure",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "blood pressure management for adults 58+",
+      "rationale": "Restructured (39 to 40 chars); clarified medical focus"
+    },
+    {
+      "slug": "left-atrial-appendage-flow-velocity-breathing",
+      "title": "Quick Ways to Normalize Left Atrial Appendage Flow Velocity Using Diaphragmatic Breathing and Postural Sequencing — Especially in Adults 65+ With CHA₂DS₂-VASc ≥3",
+      "current_keyword": "left atrial appendage flow velocity breathing",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "health management management adults 65+",
+      "rationale": "Restructured (45 to 39 chars); clarified medical focus"
+    },
+    {
+      "slug": "isometric-handgrip-tai-chi-central-aortic-pressure",
+      "title": "A vs B: 4-Minute Daily Isometric Handgrip vs. 15-Minute Morning Tai Chi for Reducing Central Aortic Systolic Pressure in Adults 60–74 With Isolated Systolic Hypertension",
+      "current_keyword": "isometric handgrip tai chi central aortic pressure",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "blood pressure morning adults 60+",
+      "rationale": "Restructured (50 to 33 chars); clarified medical focus"
+    },
+    {
+      "slug": "how-cold-weather-holiday-hosting-affects-swallowing-safety-in-adults-80-with-mild-dysphagia-and-reduced-laryngeal-sensation",
+      "title": "How Cold-Weather Holiday Hosting Affects Swallowing Safety in Adults 80+ With Mild Dysphagia and Reduced Laryngeal Sensation",
+      "current_keyword": "cold weather holiday hosting dysphagia seniors",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "health management holiday meals adults 80+",
+      "rationale": "Restructured (46 to 42 chars); clarified medical focus"
+    },
+    {
+      "slug": "chewing-turkey-satiety-gastroparesis",
+      "title": "A vs B: Slow-Chewed Roast Turkey vs. Ground Turkey Patties — Impact on Satiety Hormone Release and Post-Meal Fullness in Adults 55–69 With Mild Gastroparesis and Early Sarcopenia",
+      "current_keyword": "chewing turkey satiety gastroparesis",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "health management management adults 55+",
+      "rationale": "Restructured (36 to 39 chars); clarified medical focus"
+    },
+    {
+      "slug": "5-things-every-woman-over-65-with-type-2-diabetes-and-early-stage-osteoporosis-should-know-about-thiazolidinediones",
+      "title": "5 Things Every Woman Over 65 With Type 2 Diabetes and Early-Stage Osteoporosis Should Know About Thiazolidinediones",
+      "current_keyword": "tzds osteoporosis women over 65",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "diabetes management adults over 60",
+      "rationale": "Restructured (31 to 34 chars); clarified medical focus"
+    },
+    {
+      "slug": "12-holiday-foods-seniors-70-can-eat-without-spiking-blood-sugar-or-blood-pressure",
+      "title": "12 Holiday Foods Seniors 70+ Can Eat Without Spiking Blood Sugar or Blood Pressure",
+      "current_keyword": "holiday foods for seniors 70+",
+      "score": 42,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "blood pressure holiday meals adults 70+",
+      "rationale": "Restructured (29 to 39 chars); clarified medical focus"
+    },
+    {
+      "slug": "what-causes-sudden-after-dinner-fatigue-in-adults-71-with-mild-anemia-and-low-vitamin-b12-and-how-to-prevent-it-at-holiday-gatherings",
+      "title": "What Causes Sudden After-Dinner Fatigue in Adults 71+ With Mild Anemia and Low Vitamin B12 — And How to Prevent It at Holiday Gatherings",
+      "current_keyword": "after-dinner fatigue in seniors with anemia",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "health management holiday meals adults 71+",
+      "rationale": "Restructured (43 to 42 chars); clarified medical focus"
+    },
+    {
+      "slug": "what-are-the-earliest-signs-of-holiday-induced-hydration-decline-in-adults-78-with-reduced-thirst-perception-and-chronic-constipation",
+      "title": "What Are the Earliest Signs of Holiday-Induced Hydration Decline in Adults 78+ With Reduced Thirst Perception and Chronic Constipation?",
+      "current_keyword": "early signs dehydration seniors holiday",
+      "score": 55,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "health management holiday meals adults 78+",
+      "rationale": "Restructured (39 to 42 chars); clarified medical focus"
+    },
+    {
+      "slug": "warning-signs-your-holiday-healthy-swap-is-causing-hidden-hyponatremia-in-adults-76-on-thiazide-diuretics",
+      "title": "Warning Signs Your Holiday ‘Healthy Swap’ Is Causing Hidden Hyponatremia in Adults 76+ on Thiazide Diuretics",
+      "current_keyword": "healthy swap hyponatremia thiazide diuretics",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "health management management adults 76+",
+      "rationale": "Restructured (44 to 39 chars); clarified medical focus"
+    },
+    {
+      "slug": "the-complete-guide-to-interpreting-pulse-pressure-widening-in-adults-76-with-aortic-valve-sclerosis-not-just-aortic-stenosis",
+      "title": "The Complete Guide to Interpreting Pulse Pressure Widening in Adults 76+ With Aortic Valve Sclerosis, Not Just Aortic Stenosis",
+      "current_keyword": "pulse pressure widening aortic sclerosis",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "blood pressure management adults 76+",
+      "rationale": "Restructured (40 to 36 chars); clarified medical focus"
+    },
+    {
+      "slug": "the-complete-guide-to-eating-well-at-holiday-parties-without-asking-questions-or-drawing-attention-for-seniors-70-with-hearing-loss-and-social-anxiety",
+      "title": "The Complete Guide to Eating Well at Holiday Parties Without Asking Questions or Drawing Attention — For Seniors 70+ With Hearing Loss and Social Anxiety",
+      "current_keyword": "eating well at holiday parties hearing loss",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "health management holiday meals adults 70+",
+      "rationale": "Restructured (43 to 42 chars); clarified medical focus"
+    },
+    {
+      "slug": "natural-ways-to-reduce-post-holiday-joint-stiffness-in-adults-64-81-with-osteoarthritis-and-high-resolution-crp-elevation",
+      "title": "Natural Ways to Reduce Post-Holiday Joint Stiffness in Adults 64–81 With Osteoarthritis and High-Resolution CRP Elevation",
+      "current_keyword": "reduce joint stiffness post-holiday seniors",
+      "score": 55,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "inflammation holiday meals adults 64+",
+      "rationale": "Restructured (43 to 37 chars); clarified medical focus"
+    },
+    {
+      "slug": "breathing-patterns-right-atrial-pressure-seniors",
+      "title": "Best Breathing Patterns to Reduce Right Atrial Pressure During Stair Climbing in Adults 68+ With Tricuspid Regurgitation and Elevated Jugular Venous Pressure",
+      "current_keyword": "breathing patterns right atrial pressure seniors",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "heart health management for adults 68+",
+      "rationale": "Restructured (48 to 38 chars); clarified medical focus"
+    },
+    {
+      "slug": "best-snack-pairings-to-stabilize-energy-and-mood-between-holiday-meals-for-men-60-72-with-late-onset-depression-and-low-testosterone",
+      "title": "Best Snack Pairings to Stabilize Energy and Mood Between Holiday Meals — For Men 60–72 With Late-Onset Depression and Low Testosterone",
+      "current_keyword": "snack pairings for mood stability seniors",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "health management holiday meals adults 60+",
+      "rationale": "Restructured (41 to 42 chars); clarified medical focus"
+    },
+    {
+      "slug": "10-unexpected-household-chemicals-that-accelerate-coronary-artery-calcification-in-adults-62-with-chronic-kidney-disease",
+      "title": "10 Unexpected Household Chemicals That Accelerate Coronary Artery Calcification in Adults 62+ With Chronic Kidney Disease",
+      "current_keyword": "household chemicals coronary artery calcification seniors",
+      "score": 42,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "heart health management adults 62+",
+      "rationale": "Restructured (57 to 34 chars); clarified medical focus"
+    },
+    {
+      "slug": "what-causes-sudden-diastolic-drop-after-sitting-up-from-supine-in-adults-69-with-left-ventricular-hypertrophy-and-reduced-early-diastolic-filling",
+      "title": "What Causes Sudden Diastolic Drop After Sitting Up From Supine in Adults 69+ With Left Ventricular Hypertrophy and Reduced Early Diastolic Filling?",
+      "current_keyword": "diastolic drop sitting up elderly",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "blood pressure management for adults 69+",
+      "rationale": "Restructured (33 to 40 chars); clarified medical focus"
+    },
+    {
+      "slug": "what-are-the-earliest-signs-of-cerebral-autoregulation-failure-in-adults-68-with-long-standing-hypertension-and-white-matter-hyperintensities",
+      "title": "What Are the Earliest Signs of Cerebral Autoregulation Failure in Adults 68+ With Long-Standing Hypertension and White Matter Hyperintensities?",
+      "current_keyword": "cerebral autoregulation failure signs",
+      "score": 55,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "blood pressure management adults 68+",
+      "rationale": "Restructured (37 to 36 chars); clarified medical focus"
+    },
+    {
+      "slug": "the-truth-about-low-sodium-canned-soups-for-adults-74-with-stage-2-hypertension-and-chronic-hyponatremia-risk",
+      "title": "The Truth About 'Low-Sodium' Canned Soups for Adults 74+ With Stage 2 Hypertension and Chronic Hyponatremia Risk",
+      "current_keyword": "low sodium soup hyponatremia elderly",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "blood pressure management adults 74+",
+      "rationale": "Restructured (36 to 36 chars); clarified medical focus"
+    },
+    {
+      "slug": "capillary-rarefaction-reversal-natural",
+      "title": "Natural Ways to Support Capillary Rarefaction Reversal Using Low-Dose Pomegranate Ellagitannins and Diaphragmatic Breathing — For Adults 64–79 With Hypertension and Reduced Nailfold Capillary Density",
+      "current_keyword": "capillary rarefaction reversal natural",
+      "score": 47,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords",
+        "unclear_intent"
+      ],
+      "suggested_keyword": "blood pressure management for adults 64+",
+      "rationale": "Restructured (38 to 40 chars); clarified medical focus"
+    },
+    {
+      "slug": "what-to-eat-before-opening-gifts-a-12-minute-pre-event-strategy-to-prevent-postprandial-hypotension-in-adults-75",
+      "title": "What to Eat Before Opening Gifts — A 12-Minute Pre-Event Strategy to Prevent Postprandial Hypotension in Adults 75+",
+      "current_keyword": "prevent postprandial hypotension seniors",
+      "score": 55,
+      "issues": [
+        "missing_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "health management management for adults 75+",
+      "rationale": "Restructured (40 to 43 chars); clarified medical focus"
+    }
+  ]
+}

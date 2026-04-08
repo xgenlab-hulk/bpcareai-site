@@ -80,17 +80,17 @@ Understanding the nuances of **resting heart rate high-grade av block seniors** 
 
 ### FAQ
 
-#### #### Is a resting heart rate of 70 bpm dangerous for seniors with high-grade AV block?  
+#### Is a resting heart rate of 70 bpm dangerous for seniors with high-grade AV block?  
 Not inherently—but in the setting of high-grade AV block, a sustained rate of 70 bpm may reflect an unstable ventricular escape rhythm rather than healthy sinus control. It warrants closer evaluation, especially if accompanied by symptoms like fatigue or lightheadedness. This is part of why **resting heart rate high-grade av block seniors** needs individualized interpretation—not blanket reassurance.
 
-#### #### What’s the difference between Mobitz I and Mobitz II AV block in older adults—and why does it matter for resting heart rate?  
+#### What’s the difference between Mobitz I and Mobitz II AV block in older adults—and why does it matter for resting heart rate?  
 Mobitz I (Wenckebach) typically involves progressive PR-interval prolongation before a dropped beat and is often benign—especially in athletic or younger individuals. Mobitz II involves sudden, non-progressive block—often below the AV node—and carries much higher risk of progression to complete heart block. In seniors, Mobitz II is strongly associated with structural heart disease and may present with deceptively “normal” resting rates due to ventricular escape. Monitoring becomes critical.
 
-#### #### Can medications cause high resting heart rate in seniors with AV block?  
+#### Can medications cause high resting heart rate in seniors with AV block?  
 Yes—but it’s uncommon. More frequently, medications *slow* the heart. However, drugs like albuterol (for COPD), thyroid hormone replacement (if overdosed), or stimulant-based ADHD meds (rarely used in this age group) can elevate ventricular escape rates. Always review new prescriptions with your electrophysiologist.
 
-#### #### Does high blood pressure affect resting heart rate in people with AV block?  
+#### Does high blood pressure affect resting heart rate in people with AV block?  
 Not directly—but uncontrolled hypertension accelerates left ventricular hypertrophy and fibrosis, worsening conduction system disease over time. Also, some antihypertensives (e.g., non-dihydropyridine calcium channel blockers) can further depress AV conduction. That’s why managing both BP *and* rhythm matters for long-term heart health.
 
-#### #### How often should seniors with high-grade AV block get an ECG or pacemaker check?  
+#### How often should seniors with high-grade AV block get an ECG or pacemaker check?  
 Baseline ECG should be repeated every 6–12 months—or sooner if symptoms change. If a pacemaker is implanted, routine device checks occur every 3–6 months initially, then annually once stable. Remote monitoring (if enabled) allows for more frequent data capture between visits.

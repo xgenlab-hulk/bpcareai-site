@@ -88,22 +88,22 @@ Metabolic health isn’t about perfection—it’s about consistency, compassion
 
 ### FAQ
 
-#### #### Can I normalize fasting glucose without skipping dinner if I’m already on metformin?
+#### Can I normalize fasting glucose without skipping dinner if I’m already on metformin?
 
 Yes—absolutely. In the study, 62% of participants were taking metformin, and the protocol still produced statistically significant improvements. The nighttime strategy works *alongside* medication by targeting different physiological levers (overnight liver output, vagal tone, and protein metabolism). Never stop or adjust meds without consulting your provider—but adding these habits is generally safe and supportive.
 
-#### #### Does normalize fasting glucose without skipping dinner work for people with type 2 diabetes—not just prediabetes?
+#### Does normalize fasting glucose without skipping dinner work for people with type 2 diabetes—not just prediabetes?
 
 It can—and often does—especially for those with milder, well-managed type 2 diabetes (A1c <7.0%). The 89-person trial included 21 adults with established type 2 diabetes (average A1c 6.6%), and they saw similar reductions in fasting glucose as the prediabetes group. That said, individual responses vary, and close monitoring is essential. Always pair lifestyle strategies with professional guidance.
 
-#### #### What if I can’t do nasal breathing—I have chronic sinus congestion or sleep apnea?
+#### What if I can’t do nasal breathing—I have chronic sinus congestion or sleep apnea?
 
 That’s completely understandable. Start gently: try seated nasal breathing for 2–3 minutes while watching TV or reading. Use a saline rinse before bed to clear passages, or consider working with an ENT or respiratory therapist on positional strategies or gentle nasal dilators. Even partial nasal breathing—paired with slow exhalation—is beneficial. Don’t force it; consistency over intensity matters most.
 
-#### #### Is micellar casein safe for people with kidney concerns?
+#### Is micellar casein safe for people with kidney concerns?
 
 For adults with *normal* or *mildly reduced* kidney function (eGFR >60 mL/min), 15g of high-quality protein at night poses no risk—and may actually support muscle maintenance. However, if you’ve been advised to limit protein due to moderate-to-severe CKD (eGFR <45), speak with your nephrologist first. Alternative options like egg white protein (lower in phosphorus) may be considered under supervision.
 
-#### #### How soon will I see results from normalizing fasting glucose without skipping dinner?
+#### How soon will I see results from normalizing fasting glucose without skipping dinner?
 
 Most participants noticed small shifts within 3–5 nights—especially in how rested they felt upon waking. For measurable fasting glucose changes, allow 2–3 weeks of consistent practice. CGM data showed the steepest improvements between days 10–14. Patience and repetition are your allies here.

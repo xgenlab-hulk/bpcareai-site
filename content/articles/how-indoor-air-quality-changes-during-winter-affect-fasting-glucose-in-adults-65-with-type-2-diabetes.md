@@ -75,22 +75,22 @@ Understanding how your indoor environment interacts with your physiology empower
 
 ### FAQ
 
-#### #### Does cold weather itself raise blood sugar in seniors with diabetes?
+#### Does cold weather itself raise blood sugar in seniors with diabetes?
 
 Cold weather *indirectly* affects blood sugar—not by changing glucose metabolism directly, but by altering behavior (less outdoor activity, more carbohydrate-rich comfort foods) and indoor air quality (reduced ventilation, increased pollutant buildup). Studies show average fasting glucose rises ~5–8 mg/dL in December–February versus June–August among community-dwelling seniors with type 2 diabetes—partially attributable to these combined seasonal factors.
 
-#### #### Can poor indoor air quality worsen winter indoor air glucose control seniors?
+#### Can poor indoor air quality worsen winter indoor air glucose control seniors?
 
 Yes. Research indicates that elevated indoor CO₂ (>1,200 ppm) and VOC levels correlate with reduced insulin sensitivity overnight. One longitudinal cohort study found seniors exposed to high winter indoor air pollutant loads had a 22% higher odds of experiencing fasting hyperglycemia (>126 mg/dL) compared to low-exposure peers—even after adjusting for BMI, medication use, and diet.
 
-#### #### What’s the best way to improve indoor air for better winter indoor air glucose control seniors?
+#### What’s the best way to improve indoor air for better winter indoor air glucose control seniors?
 
 The most effective, evidence-backed approach combines source control (e.g., avoiding unvented combustion), ventilation (short, frequent outdoor air exchanges), and filtration (HEPA + activated carbon in sleeping areas). Aim for indoor CO₂ <800 ppm and PM2.5 <12 µg/m³—and track how those levels align with your fasting glucose trends over 10–14 days.
 
-#### #### Do air purifiers help with blood sugar management in older adults with diabetes?
+#### Do air purifiers help with blood sugar management in older adults with diabetes?
 
 Air purifiers with true HEPA and substantial activated carbon filters *can* support glucose stability—particularly by reducing PM2.5 and VOCs linked to inflammation and autonomic dysfunction. However, they work best *alongside* ventilation—not as a replacement. A 2022 pilot trial in Boston showed seniors using such purifiers in bedrooms saw a mean 6.4 mg/dL reduction in morning fasting glucose over 6 weeks—when combined with timed window ventilation.
 
-#### #### Is there a link between indoor humidity and blood sugar in winter?
+#### Is there a link between indoor humidity and blood sugar in winter?
 
 Moderate indoor humidity (30–50% RH) supports mucosal barrier integrity and may reduce airborne virus transmission—which matters because infections are a well-known trigger for acute hyperglycemia. However, excessively high humidity (>60%) encourages mold growth and dust mite proliferation, both linked to inflammatory responses that may impair insulin signaling. So aim for balance—not dryness, not dampness.

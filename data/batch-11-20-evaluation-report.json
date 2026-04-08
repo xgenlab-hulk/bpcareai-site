@@ -1,0 +1,771 @@
+{
+  "batch": "11-20",
+  "evaluation_date": "2026-03-17",
+  "articles_evaluated": 10,
+  "standard_version": "v2.0",
+  "standard_document": ".claude/skills/MASTER-METADATA-OPTIMIZATION-STANDARD.md",
+  "results": [
+    {
+      "slug": "warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-not-just-bloating-in-adults-70-with-long-term-ppi-use",
+      "optimized_metadata": {
+        "primaryKeyword": "digestive problems holiday food ppi seniors",
+        "slug": "digestive-problems-holiday-food-ppi-seniors",
+        "title": "Digestive Problems After Holiday Food (If You Take PPIs)",
+        "description": "Learn why holiday meals cause digestive issues if you take acid reflux medication. Includes simple at-home tests and gentle diet adjustments for seniors."
+      },
+      "scores": {
+        "primaryKeyword": {
+          "total": 95,
+          "breakdown": {
+            "length": 25,
+            "search_intent": 40,
+            "conciseness": 20,
+            "density": 10
+          },
+          "details": "46 chars (20分); User-friendly words (40分); No prepositions (20分); 6 core words (10分 - exceeds 5 words)"
+        },
+        "slug": {
+          "total": 60,
+          "breakdown": {
+            "length": 15,
+            "keyword_integration": 25,
+            "readability": 15,
+            "seo": 10
+          },
+          "details": "43 chars (15分 - exceeds 38); Mechanical keyword join (25分); Needs thinking (15分); Keywords mid-position (10分)"
+        },
+        "title": {
+          "total": 67,
+          "breakdown": {
+            "length": 15,
+            "emotional_appeal": 18,
+            "value_clarity": 18,
+            "audience_id": 15,
+            "keyword": 8
+          },
+          "details": "56 chars (15分); Declarative statement (18分); Problem clear but no solution detail (18分); 'PPI Users' mentioned (15分); Keywords mid-title (8分)"
+        },
+        "description": {
+          "total": 65,
+          "breakdown": {
+            "length": 10,
+            "strong_opening": 15,
+            "specific_value": 20,
+            "audience": 12,
+            "cta": 8
+          },
+          "details": "153 chars (10分 - exceeds 150); 'Learn why' weak opening (15分); 'simple tests' vague, no numbers (20分); 'seniors' too vague (12分); No urgency words (8分)"
+        },
+        "overall": 71.75
+      },
+      "meets_standard": false,
+      "issues": [
+        "PrimaryKeyword: 6 core words (should be 2-5) - 5分扣除",
+        "Slug: 43字符超标 (应该30-38字符) - 扣10分",
+        "Slug: 机械拼接关键词，不够自然 - 扣10分",
+        "Title: 缺少情感吸引力 (无疑问句/Your) - 扣12分",
+        "Title: 无具体价值主张 (无数字/明确结果) - 扣7分",
+        "Description: 153字符超标 (应该130-150) - 扣1分",
+        "Description: 'Learn why'弱开场 - 扣10分",
+        "Description: 无可数内容 ('simple tests'不够具体) - 扣10分",
+        "Description: 'seniors'太泛，无年龄 - 扣8分",
+        "Description: 无紧迫性词汇 - 扣7分"
+      ],
+      "needs_re_optimization": true,
+      "recommendations": [
+        "PrimaryKeyword: 减少到5个核心词以内，例如 'digestive problems holiday food ppi'",
+        "Slug: 缩短到38字符内，例如 'holiday-digestion-ppi-seniors' (29字符)",
+        "Title: 使用疑问句格式，例如 'Holiday Food Upsetting Your Stomach? (PPI Users Complete Guide)'",
+        "Description: 添加疑问开场+可数内容+紧迫性，例如 'Holiday meals upsetting your stomach? Discover why PPIs change digestion, plus 3 tests you can do today and meal timing tricks that prevent bloating for seniors 60+.'"
+      ]
+    },
+    {
+      "slug": "the-complete-guide-to-managing-blood-pressure-while-caring-for-a-spouse-with-dementia-stress-resilience-sleep-fragmentation-and-medication-adherence-trade-offs-in-adults-65-79",
+      "optimized_metadata": {
+        "primaryKeyword": "blood pressure management dementia caregivers",
+        "slug": "blood-pressure-management-dementia-caregivers",
+        "title": "Blood Pressure Management for Dementia Caregivers (65-79)",
+        "description": "Learn how to manage blood pressure while caring for a spouse with dementia. Covers stress, sleep issues, and medication adherence for caregivers 65-79."
+      },
+      "scores": {
+        "primaryKeyword": {
+          "total": 95,
+          "breakdown": {
+            "length": 25,
+            "search_intent": 40,
+            "conciseness": 20,
+            "density": 10
+          },
+          "details": "49 chars (20分); User search words (40分); No prepositions (20分); 5 core words (12分)"
+        },
+        "slug": {
+          "total": 60,
+          "breakdown": {
+            "length": 20,
+            "keyword_integration": 25,
+            "readability": 15,
+            "seo": 12
+          },
+          "details": "45 chars (20分 - exceeds 38); Mechanical join (25分); Needs thinking (15分); Keywords well-positioned (12分)"
+        },
+        "title": {
+          "total": 65,
+          "breakdown": {
+            "length": 15,
+            "emotional_appeal": 18,
+            "value_clarity": 15,
+            "audience_id": 20,
+            "keyword": 8
+          },
+          "details": "58 chars (15分); Declarative (18分); Generic 'management', no specifics (15分); Age range specified (20分); Keywords mid-position (8分)"
+        },
+        "description": {
+          "total": 65,
+          "breakdown": {
+            "length": 10,
+            "strong_opening": 15,
+            "specific_value": 15,
+            "audience": 20,
+            "cta": 8
+          },
+          "details": "151 chars (10分 - exceeds 150); 'Learn how' weak (15分); 'Covers' vague list (15分); Age+condition specified (20分); No urgency (8分)"
+        },
+        "overall": 71.25
+      },
+      "meets_standard": false,
+      "issues": [
+        "Slug: 45字符超标 (应该30-38) - 扣5分",
+        "Slug: 机械拼接primaryKeyword - 扣10分",
+        "Title: 无情感钩子 (无疑问句/Your) - 扣12分",
+        "Title: 无具体价值 ('management'太泛) - 扣10分",
+        "Description: 151字符略超 - 扣1分",
+        "Description: 'Learn how'弱开场 - 扣10分",
+        "Description: 'Covers'太泛，无可数内容 - 扣15分",
+        "Description: 无紧迫性词 - 扣7分"
+      ],
+      "needs_re_optimization": true,
+      "recommendations": [
+        "Slug: 使用缩写和精简，例如 'bp-management-dementia-caregivers' (33字符)",
+        "Title: 使用'Your'增加个人化，例如 'Keeping Your BP Down While Caring for Spouse with Dementia'",
+        "Description: 添加疑问开场+可数价值+紧迫性，例如 'Caring for spouse with dementia? Get 5 proven BP strategies for fragmented sleep and caregiver stress—plus when to adjust meds safely (ages 65-79).'"
+      ]
+    },
+    {
+      "slug": "5-things-every-woman-over-64-taking-low-dose-hrt-should-know-about-holiday-alcohol-interactions-and-hepatic-cyp2c9-saturation",
+      "optimized_metadata": {
+        "primaryKeyword": "hrt alcohol interactions women over 64",
+        "slug": "hrt-holiday-alcohol-interactions-women-over-64",
+        "title": "5 Things Women on HRT Need to Know About Holiday Alcohol",
+        "description": "Learn how hormone replacement therapy affects alcohol processing in women 64+. Includes safety tips for holiday drinking and what to watch for."
+      },
+      "scores": {
+        "primaryKeyword": {
+          "total": 95,
+          "breakdown": {
+            "length": 25,
+            "search_intent": 40,
+            "conciseness": 20,
+            "density": 10
+          },
+          "details": "40 chars (25分); User search words (40分); No prepositions (20分); 6 core words (10分 - exceeds 5)"
+        },
+        "slug": {
+          "total": 65,
+          "breakdown": {
+            "length": 20,
+            "keyword_integration": 30,
+            "readability": 18,
+            "seo": 12
+          },
+          "details": "46 chars (20分 - exceeds 38); Core words integrated well (30分); Clear topic (18分); Good keyword position (12分)"
+        },
+        "title": {
+          "total": 75,
+          "breakdown": {
+            "length": 15,
+            "emotional_appeal": 22,
+            "value_clarity": 25,
+            "audience_id": 15,
+            "keyword": 8
+          },
+          "details": "56 chars (15分); Strong action 'Need to Know' (22分); Numbered list+specific topic (25分); 'Women on HRT' clear (15分); Keywords mid-position (8分)"
+        },
+        "description": {
+          "total": 65,
+          "breakdown": {
+            "length": 10,
+            "strong_opening": 15,
+            "specific_value": 20,
+            "audience": 18,
+            "cta": 8
+          },
+          "details": "143 chars (10分); 'Learn how' weak (15分); 'Includes safety tips' vague (20分); Age+condition (18分); 'watch for' weak CTA (8分)"
+        },
+        "overall": 75
+      },
+      "meets_standard": false,
+      "issues": [
+        "PrimaryKeyword: 6个核心词 (应该2-5) - 扣5分",
+        "Slug: 46字符超标 (应该30-38) - 扣5分",
+        "Title: 无疑问句/Your - 扣8分 (但有强动词部分弥补)",
+        "Description: 'Learn how'弱开场 - 扣10分",
+        "Description: 无可数内容 ('safety tips'不具体) - 扣10分",
+        "Description: 'women 64+'缺少具体年龄范围 - 扣2分",
+        "Description: 无紧迫性词 - 扣7分"
+      ],
+      "needs_re_optimization": true,
+      "recommendations": [
+        "PrimaryKeyword: 精简到 'hrt alcohol interactions women 64'",
+        "Slug: 缩短到 'hrt-holiday-alcohol-women-64' (28字符)",
+        "Title: 保持当前格式 (已经75分，较好)",
+        "Description: 改进为 'On HRT and enjoying holiday wine? Learn the 4 warning signs of alcohol interactions and exactly when to skip that glass—essential for women 64+.'"
+      ]
+    },
+    {
+      "slug": "12-foods-that-stabilize-postprandial-cholinergic-tone-not-just-digestive-aids-including-slow-roasted-fennel-lacto-fermented-beets-and-toasted-caraway-seeds-for-adults-60-74",
+      "optimized_metadata": {
+        "primaryKeyword": "foods improve digestion after meals seniors",
+        "slug": "foods-improve-digestion-after-meals-seniors",
+        "title": "12 Foods That Improve Digestion After Meals (Ages 60-74)",
+        "description": "Discover 12 foods that help with digestion after meals for adults 60-74. Reduces nausea, reflux, and discomfort naturally with evidence-based choices."
+      },
+      "scores": {
+        "primaryKeyword": {
+          "total": 95,
+          "breakdown": {
+            "length": 25,
+            "search_intent": 40,
+            "conciseness": 20,
+            "density": 10
+          },
+          "details": "46 chars (20分); User search words (40分); No prepositions (20分); 6 core words (10分 - exceeds 5)"
+        },
+        "slug": {
+          "total": 60,
+          "breakdown": {
+            "length": 15,
+            "keyword_integration": 25,
+            "readability": 15,
+            "seo": 10
+          },
+          "details": "43 chars (15分 - exceeds 38); Mechanical join (25分); Needs thinking (15分); Keywords mid-position (10分)"
+        },
+        "title": {
+          "total": 65,
+          "breakdown": {
+            "length": 15,
+            "emotional_appeal": 18,
+            "value_clarity": 25,
+            "audience_id": 20,
+            "keyword": 8
+          },
+          "details": "58 chars (15分); Declarative (18分); Number+specific benefit (25分); Age range clear (20分); Keywords front (8分)"
+        },
+        "description": {
+          "total": 65,
+          "breakdown": {
+            "length": 10,
+            "strong_opening": 20,
+            "specific_value": 22,
+            "audience": 20,
+            "cta": 8
+          },
+          "details": "150 chars (10分); 'Discover' strong verb (20分); '12 foods'+specific benefits (22分); Age range specified (20分); 'evidence-based' not urgent (8分)"
+        },
+        "overall": 71.25
+      },
+      "meets_standard": false,
+      "issues": [
+        "PrimaryKeyword: 6个核心词 - 扣5分",
+        "Slug: 43字符超标 - 扣10分",
+        "Slug: 机械拼接 - 扣10分",
+        "Title: 无情感钩子 - 扣12分",
+        "Description: 无紧迫性词 - 扣7分"
+      ],
+      "needs_re_optimization": true,
+      "recommendations": [
+        "PrimaryKeyword: 精简到 'foods digestion after meals seniors'",
+        "Slug: 缩短到 'digestion-foods-meals-seniors-60s' (34字符)",
+        "Title: 改为疑问句，例如 'Bloated After Meals? 12 Foods That Help Digestion (60-74)'",
+        "Description: 添加紧迫性，例如 'Discover 12 foods that stop reflux and bloating after meals—proven to reduce nausea and discomfort naturally. Essential guide for adults 60-74.'"
+      ]
+    },
+    {
+      "slug": "12-foods-that-delay-endothelial-senescence-not-just-lower-bp-including-black-garlic-extract-germinated-brown-rice-and-low-age-roasted-chickpeas-for-adults-60",
+      "optimized_metadata": {
+        "primaryKeyword": "foods blood vessel health aging adults",
+        "slug": "foods-blood-vessel-health-aging-60-plus",
+        "title": "12 Foods That Support Blood Vessel Health as You Age (60+)",
+        "description": "Discover 12 foods that support healthy blood vessels as you age. Goes beyond lowering blood pressure to protect vascular health naturally for adults 60+."
+      },
+      "scores": {
+        "primaryKeyword": {
+          "total": 95,
+          "breakdown": {
+            "length": 25,
+            "search_intent": 40,
+            "conciseness": 20,
+            "density": 10
+          },
+          "details": "40 chars (25分); User-friendly words (40分); No prepositions (20分); 5 core words (12分)"
+        },
+        "slug": {
+          "total": 70,
+          "breakdown": {
+            "length": 25,
+            "keyword_integration": 30,
+            "readability": 18,
+            "seo": 12
+          },
+          "details": "39 chars (25分 - slightly over); Good integration (30分); Clear topic (18分); Good position (12分)"
+        },
+        "title": {
+          "total": 68,
+          "breakdown": {
+            "length": 15,
+            "emotional_appeal": 22,
+            "value_clarity": 25,
+            "audience_id": 15,
+            "keyword": 8
+          },
+          "details": "58 chars (15分); 'Your'+action verb (22分); Number+specific benefit (25分); '60+' mentioned (15分); Keywords mid-position (8分)"
+        },
+        "description": {
+          "total": 65,
+          "breakdown": {
+            "length": 10,
+            "strong_opening": 20,
+            "specific_value": 22,
+            "audience": 18,
+            "cta": 8
+          },
+          "details": "153 chars (10分 - exceeds 150); 'Discover' strong (20分); '12 foods'+specific benefit (22分); 'adults 60+' (18分); 'naturally' weak CTA (8分)"
+        },
+        "overall": 74.5
+      },
+      "meets_standard": false,
+      "issues": [
+        "Slug: 39字符略超标 (应该30-38) - 扣5分",
+        "Title: 无疑问句 - 扣8分",
+        "Title: '60+'太泛 - 扣5分",
+        "Description: 153字符超标 - 扣1分",
+        "Description: 无紧迫性词 - 扣7分"
+      ],
+      "needs_re_optimization": true,
+      "recommendations": [
+        "Slug: 缩短到 'blood-vessel-health-foods-60-plus' (34字符)",
+        "Title: 可保持或改为 'Your Blood Vessels Aging? 12 Foods That Help (60+)'",
+        "Description: 精简并添加紧迫性，例如 'Discover 12 foods that protect blood vessels as you age—goes beyond BP to support vascular health naturally. Essential for adults 60+.' (138字符)"
+      ]
+    },
+    {
+      "slug": "why-your-holiday-heart-palpitations-might-be-caused-by-cold-induced-coronary-vasoconstriction-not-alcohol-in-adults-59-with-raynaud-s-phenomenon",
+      "optimized_metadata": {
+        "primaryKeyword": "holiday palpitations cold weather raynauds",
+        "slug": "holiday-palpitations-cold-weather-raynauds",
+        "title": "Holiday Heart Palpitations: Could It Be the Cold? (Raynaud's)",
+        "description": "Learn why cold weather may cause heart palpitations during holidays if you have Raynaud's. Covers temperature triggers and when to worry about symptoms."
+      },
+      "scores": {
+        "primaryKeyword": {
+          "total": 95,
+          "breakdown": {
+            "length": 25,
+            "search_intent": 40,
+            "conciseness": 20,
+            "density": 10
+          },
+          "details": "44 chars (20分); User search words (40分); No prepositions (20分); 5 core words (12分)"
+        },
+        "slug": {
+          "total": 75,
+          "breakdown": {
+            "length": 25,
+            "keyword_integration": 30,
+            "readability": 20,
+            "seo": 15
+          },
+          "details": "42 chars (25分 - slightly over); Good integration (30分); Very clear (20分); Keywords front (15分)"
+        },
+        "title": {
+          "total": 68,
+          "breakdown": {
+            "length": 15,
+            "emotional_appeal": 25,
+            "value_clarity": 20,
+            "audience_id": 15,
+            "keyword": 8
+          },
+          "details": "61 chars (12分); Question format (25分); Clear cause (20分); Condition mentioned (15分); Keywords front (8分)"
+        },
+        "description": {
+          "total": 65,
+          "breakdown": {
+            "length": 10,
+            "strong_opening": 15,
+            "specific_value": 20,
+            "audience": 15,
+            "cta": 8
+          },
+          "details": "152 chars (10分 - exceeds 150); 'Learn why' weak (15分); 'Covers' vague (20分); Condition but no age (15分); 'when to worry' weak (8分)"
+        },
+        "overall": 75.75
+      },
+      "meets_standard": false,
+      "issues": [
+        "Slug: 42字符略超 - 扣5分",
+        "Title: 61字符略长 - 扣3分",
+        "Description: 152字符超标 - 扣1分",
+        "Description: 'Learn why'弱开场 - 扣10分",
+        "Description: 无可数内容 - 扣10分",
+        "Description: 缺少年龄范围 - 扣5分",
+        "Description: 无紧迫性词 - 扣7分"
+      ],
+      "needs_re_optimization": true,
+      "recommendations": [
+        "Slug: 可保持或缩短到 'holiday-palpitations-cold-raynauds' (35字符)",
+        "Title: 优秀，保持",
+        "Description: 改进为 'Cold weather triggering heart palpitations? Discover why Raynaud's patients face holiday risk—plus 3 warning signs and when to call your doctor (adults 59+).'"
+      ]
+    },
+    {
+      "slug": "why-your-holiday-energy-crash-may-be-postprandial-hypoglycemia-not-just-fatigue-in-adults-50-59-with-reactive-hypoglycemia-history",
+      "optimized_metadata": {
+        "primaryKeyword": "holiday energy crash low blood sugar adults",
+        "slug": "holiday-energy-crash-low-blood-sugar-50-59",
+        "title": "Holiday Energy Crash: Could It Be Low Blood Sugar? (Ages 50-59)",
+        "description": "Learn why you crash after holiday meals and how to tell if it's low blood sugar. Includes symptom checklist and testing tips for adults 50-59."
+      },
+      "scores": {
+        "primaryKeyword": {
+          "total": 95,
+          "breakdown": {
+            "length": 25,
+            "search_intent": 40,
+            "conciseness": 20,
+            "density": 10
+          },
+          "details": "45 chars (22分); User search words (40分); No prepositions (20分); 6 core words (10分 - exceeds 5)"
+        },
+        "slug": {
+          "total": 75,
+          "breakdown": {
+            "length": 25,
+            "keyword_integration": 35,
+            "readability": 20,
+            "seo": 15
+          },
+          "details": "42 chars (25分 - slightly over); Natural flow (35分); Very clear (20分); Keywords front (15分)"
+        },
+        "title": {
+          "total": 72,
+          "breakdown": {
+            "length": 12,
+            "emotional_appeal": 25,
+            "value_clarity": 20,
+            "audience_id": 20,
+            "keyword": 8
+          },
+          "details": "63 chars (12分); Question format (25分); Clear problem (20分); Age range clear (20分); Keywords front (8分)"
+        },
+        "description": {
+          "total": 68,
+          "breakdown": {
+            "length": 10,
+            "strong_opening": 15,
+            "specific_value": 22,
+            "audience": 20,
+            "cta": 8
+          },
+          "details": "142 chars (10分); 'Learn why' weak (15分); 'symptom checklist'+testing (22分); Age range specified (20分); 'tips' weak CTA (8分)"
+        },
+        "overall": 77.5
+      },
+      "meets_standard": false,
+      "issues": [
+        "PrimaryKeyword: 6个核心词 - 扣5分",
+        "Slug: 42字符略超 - 扣5分",
+        "Title: 63字符略长 - 扣3分",
+        "Description: 'Learn why'弱开场 - 扣10分",
+        "Description: 无紧迫性词 - 扣7分"
+      ],
+      "needs_re_optimization": false,
+      "recommendations": [
+        "PrimaryKeyword: 精简到 'holiday energy crash blood sugar adults'",
+        "Slug: 可保持或微调",
+        "Title: 保持 (72分可接受)",
+        "Description: 改进开场+紧迫性，例如 'Crashing after holiday meals? Discover if it's low blood sugar—includes symptom checklist and self-testing protocols. Essential for adults 50-59.'"
+      ]
+    },
+    {
+      "slug": "why-your-blood-pressure-dips-too-much-after-walking-not-just-normal-recovery-in-adults-74-with-early-cardiac-amyloidosis",
+      "optimized_metadata": {
+        "primaryKeyword": "blood pressure drops after walking cardiac amyloidosis",
+        "slug": "blood-pressure-drops-after-walking-cardiac-amyloidosis",
+        "title": "Blood Pressure Drops After Walking (Cardiac Amyloidosis 74+)",
+        "description": "Learn when post-walk blood pressure drops are concerning for adults 74+ with cardiac amyloidosis. Covers symptoms, causes, and when to see your doctor."
+      },
+      "scores": {
+        "primaryKeyword": {
+          "total": 95,
+          "breakdown": {
+            "length": 25,
+            "search_intent": 40,
+            "conciseness": 20,
+            "density": 10
+          },
+          "details": "56 chars (20分 - exceeds 50); User search words (40分); No prepositions (20分); 6 core words (10分 - exceeds 5)"
+        },
+        "slug": {
+          "total": 65,
+          "breakdown": {
+            "length": 20,
+            "keyword_integration": 25,
+            "readability": 18,
+            "seo": 10
+          },
+          "details": "54 chars (20分 - exceeds 38); Mechanical join (25分); Clear but long (18分); Keywords front (10分)"
+        },
+        "title": {
+          "total": 71,
+          "breakdown": {
+            "length": 15,
+            "emotional_appeal": 18,
+            "value_clarity": 20,
+            "audience_id": 20,
+            "keyword": 8
+          },
+          "details": "60 chars (15分); Declarative (18分); Clear problem (20分); Age+condition (20分); Keywords front (8分)"
+        },
+        "description": {
+          "total": 65,
+          "breakdown": {
+            "length": 10,
+            "strong_opening": 15,
+            "specific_value": 20,
+            "audience": 20,
+            "cta": 8
+          },
+          "details": "151 chars (10分 - exceeds 150); 'Learn when' weak (15分); 'Covers' vague list (20分); Age+condition (20分); 'see doctor' weak (8分)"
+        },
+        "overall": 74
+      },
+      "meets_standard": false,
+      "issues": [
+        "PrimaryKeyword: 56字符超标 (应该30-50) - 扣5分",
+        "Slug: 54字符严重超标 - 扣10分",
+        "Slug: 机械拼接 - 扣10分",
+        "Title: 无情感钩子 - 扣12分",
+        "Description: 151字符略超 - 扣1分",
+        "Description: 'Learn when'弱开场 - 扣10分",
+        "Description: 无可数内容 - 扣10分",
+        "Description: 无紧迫性 - 扣7分"
+      ],
+      "needs_re_optimization": true,
+      "recommendations": [
+        "PrimaryKeyword: 精简到 'blood pressure drops walking heart amyloid' (45字符)",
+        "Slug: 大幅缩短到 'bp-drops-walking-heart-amyloid-74' (33字符)",
+        "Title: 改为 'Your Blood Pressure Drops After Walking: What It Means (Heart Amyloid 74+)'",
+        "Description: 改进为 'Post-walk BP drops concerning? Get 3 warning signs for cardiac amyloidosis patients—plus when to adjust activity safely. Essential for adults 74+.'"
+      ]
+    },
+    {
+      "slug": "when-to-worry-about-just-one-more-glass-early-qtc-prolongation-signs-after-holiday-wine-consumption-in-women-62-on-ssris",
+      "optimized_metadata": {
+        "primaryKeyword": "holiday wine heart rhythm ssri women",
+        "slug": "holiday-wine-heart-rhythm-women-ssris",
+        "title": "Holiday Wine and Heart Rhythm: What Women on SSRIs Should Know",
+        "description": "Learn how holiday wine affects heart rhythm if you take SSRIs. Covers warning signs, safety tips, and when to be concerned for women 62+."
+      },
+      "scores": {
+        "primaryKeyword": {
+          "total": 95,
+          "breakdown": {
+            "length": 25,
+            "search_intent": 40,
+            "conciseness": 20,
+            "density": 10
+          },
+          "details": "38 chars (25分); User-friendly words (40分); No prepositions (20分); 5 core words (12分)"
+        },
+        "slug": {
+          "total": 80,
+          "breakdown": {
+            "length": 30,
+            "keyword_integration": 35,
+            "readability": 20,
+            "seo": 15
+          },
+          "details": "37 chars (30分); Natural flow (35分); Very clear (20分); Keywords front (15分)"
+        },
+        "title": {
+          "total": 75,
+          "breakdown": {
+            "length": 15,
+            "emotional_appeal": 22,
+            "value_clarity": 25,
+            "audience_id": 20,
+            "keyword": 8
+          },
+          "details": "62 chars (12分); Strong statement (22分); Clear topic+action (25分); Condition+implied age (20分); Keywords front (8分)"
+        },
+        "description": {
+          "total": 68,
+          "breakdown": {
+            "length": 9,
+            "strong_opening": 15,
+            "specific_value": 20,
+            "audience": 20,
+            "cta": 8
+          },
+          "details": "137 chars (9分); 'Learn how' weak (15分); 'Covers' vague (20分); Age+condition (20分); 'be concerned' weak (8分)"
+        },
+        "overall": 79.5
+      },
+      "meets_standard": false,
+      "issues": [
+        "Title: 62字符略长 - 扣3分",
+        "Title: 无疑问句/Your - 扣8分",
+        "Description: 137字符略短 (建议130-150) - 扣1分",
+        "Description: 'Learn how'弱开场 - 扣10分",
+        "Description: 无可数内容 - 扣10分",
+        "Description: 无紧迫性 - 扣7分"
+      ],
+      "needs_re_optimization": false,
+      "recommendations": [
+        "Slug: 优秀 (80分)",
+        "Title: 保持 (75分)",
+        "Description: 改进为 'On SSRIs and enjoying holiday wine? Learn the 4 warning signs of heart rhythm changes and exactly when to skip that glass—essential for women 62+.' (148字符)"
+      ]
+    },
+    {
+      "slug": "when-should-you-skip-the-holiday-buffet-entirely-4-clinical-red-flags-that-signal-high-risk-eating-for-adults-76-with-stage-4-ckd",
+      "optimized_metadata": {
+        "primaryKeyword": "skip holiday buffet stage 4 kidney disease",
+        "slug": "skip-holiday-buffet-stage-4-ckd-seniors",
+        "title": "Should You Skip the Holiday Buffet? (Stage 4 CKD Guide)",
+        "description": "Learn when to skip holiday buffets if you have stage 4 kidney disease. Includes safety thresholds and alternative options for adults 76+."
+      },
+      "scores": {
+        "primaryKeyword": {
+          "total": 95,
+          "breakdown": {
+            "length": 25,
+            "search_intent": 40,
+            "conciseness": 20,
+            "density": 10
+          },
+          "details": "44 chars (20分); User search words (40分); No prepositions (20分); 6 core words (10分 - exceeds 5)"
+        },
+        "slug": {
+          "total": 70,
+          "breakdown": {
+            "length": 25,
+            "keyword_integration": 30,
+            "readability": 18,
+            "seo": 12
+          },
+          "details": "39 chars (25分 - slightly over); Good integration (30分); Clear (18分); Keywords front (12分)"
+        },
+        "title": {
+          "total": 67,
+          "breakdown": {
+            "length": 15,
+            "emotional_appeal": 25,
+            "value_clarity": 15,
+            "audience_id": 20,
+            "keyword": 8
+          },
+          "details": "55 chars (15分); Question format (25分); Generic 'Guide' (15分); Condition+age (20分); Keywords front (8分)"
+        },
+        "description": {
+          "total": 68,
+          "breakdown": {
+            "length": 9,
+            "strong_opening": 15,
+            "specific_value": 20,
+            "audience": 20,
+            "cta": 8
+          },
+          "details": "137 chars (9分); 'Learn when' weak (15分); 'safety thresholds' vague (20分); Age+condition (20分); 'options' weak (8分)"
+        },
+        "overall": 75
+      },
+      "meets_standard": false,
+      "issues": [
+        "PrimaryKeyword: 6个核心词 - 扣5分",
+        "Slug: 39字符略超 - 扣5分",
+        "Title: 无具体价值 ('Guide'太泛) - 扣10分",
+        "Description: 137字符略短 - 扣1分",
+        "Description: 'Learn when'弱开场 - 扣10分",
+        "Description: 无可数内容 - 扣10分",
+        "Description: 无紧迫性 - 扣7分"
+      ],
+      "needs_re_optimization": false,
+      "recommendations": [
+        "PrimaryKeyword: 精简到 'skip holiday buffet stage 4 kidney'",
+        "Slug: 微调到 'skip-holiday-buffet-stage-4-ckd' (31字符)",
+        "Title: 改进为 'Skip the Holiday Buffet? 4 Red Flags for Stage 4 Kidney Disease'",
+        "Description: 改进为 'Stage 4 kidney disease and holiday buffets? Get 4 clinical red flags that signal high-risk eating—plus safe alternatives. Essential for adults 76+.' (148字符)"
+      ]
+    }
+  ],
+  "summary": {
+    "avg_scores": {
+      "primaryKeyword": 95.0,
+      "slug": 68.5,
+      "title": 69.3,
+      "description": 65.9,
+      "overall": 74.7
+    },
+    "meeting_standard": 0,
+    "needs_improvement": 10,
+    "common_issues": [
+      "Slug长度超标 (10篇全部超过38字符或在边缘)",
+      "Title缺少情感钩子 (7篇无疑问句/Your)",
+      "Description开场弱 (9篇使用'Learn'系列弱动词)",
+      "Description无可数内容 (8篇缺少具体数字)",
+      "Description无紧迫性词汇 (10篇全部缺少)",
+      "PrimaryKeyword核心词过多 (6篇有6个核心词，应该2-5个)"
+    ],
+    "quality_distribution": {
+      "85_plus": 0,
+      "75_to_84": 3,
+      "65_to_74": 7,
+      "below_65": 0
+    },
+    "best_performing_article": {
+      "slug": "when-to-worry-about-just-one-more-glass-early-qtc-prolongation-signs-after-holiday-wine-consumption-in-women-62-on-ssris",
+      "overall_score": 79.5,
+      "strengths": [
+        "Slug表现优秀 (80分)",
+        "Title表现良好 (75分)",
+        "PrimaryKeyword完美 (95分)"
+      ]
+    },
+    "worst_performing_article": {
+      "slug": "warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-not-just-bloating-in-adults-70-with-long-term-ppi-use",
+      "overall_score": 71.75,
+      "weaknesses": [
+        "Slug仅60分 (机械拼接+超长)",
+        "Title仅67分 (无情感钩子)",
+        "Description仅65分 (弱开场+无可数内容+无紧迫性)"
+      ]
+    },
+    "key_findings": [
+      "所有10篇文章的PrimaryKeyword都达到95分 (优秀)",
+      "Slug平均分仅68.5分，远低于85分标准",
+      "Title平均分69.3分，主要问题是缺少情感吸引力",
+      "Description平均分65.9分，最大问题是开场弱+无紧迫性词",
+      "整体平均分74.7分，距离85分标准有10.3分差距",
+      "无一篇文章达到85分及格线",
+      "最高分79.5分，最低分71.75分，差距7.75分"
+    ],
+    "strategic_recommendations": [
+      "立即优先修复：Description的开场和紧迫性词汇 (可快速提升5-10分)",
+      "第二优先：Slug长度控制和自然度 (需要重新设计)",
+      "第三优先：Title增加疑问句格式或'Your'个人化 (需要创意重写)",
+      "长期改进：在优化时使用标准模板确保可数内容出现"
+    ]
+  }
+}

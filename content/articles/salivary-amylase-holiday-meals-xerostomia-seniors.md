@@ -44,22 +44,22 @@ Incorporating these gentle, evidence-informed habits helps honor both tradition 
 
 ### FAQ
 
-#### #### Can chewing sugar-free gum before holiday meals help salivary amylase holiday meals xerostomia seniors?
+#### Can chewing sugar-free gum before holiday meals help salivary amylase holiday meals xerostomia seniors?
 
 Yes—chewing stimulates salivary flow by ~3–5x baseline, and sugar-free gum with xylitol or citrus flavor enhances amylase secretion more than neutral flavors. Chew for 2–3 minutes *before* sitting down to eat, then discard—don’t swallow gum.
 
-#### #### Are there holiday foods I should avoid entirely if I have salivary amylase holiday meals xerostomia seniors concerns?
+#### Are there holiday foods I should avoid entirely if I have salivary amylase holiday meals xerostomia seniors concerns?
 
 Avoid extremely dry, crumbly, or sticky foods *unless modified*: think unbuttered stuffing balls, plain crackers, or dense fruitcake. Instead, moisten stuffing with broth, serve crackers with soft cheese, or choose poached pears over dried figs. Texture matters more than ingredient lists.
 
-#### #### Does drinking water during meals help salivary amylase activity—or dilute it?
+#### Does drinking water during meals help salivary amylase activity—or dilute it?
 
 Sipping small amounts (1–2 oz) of room-temperature water *between* bites supports lubrication without diluting enzymes. Gulping large volumes *during* chewing, however, washes away saliva and disrupts enzymatic contact time.
 
-#### #### Can stress or rushing through holiday meals affect salivary amylase?
+#### Can stress or rushing through holiday meals affect salivary amylase?
 
 Yes—stress activates the sympathetic nervous system, which directly inhibits salivary gland output. Rushing reduces chewing time and sensory engagement. Aim for 20+ minutes per meal and practice one mindful breath before the first bite.
 
-#### #### Is low salivary amylase linked to higher blood pressure in seniors?
+#### Is low salivary amylase linked to higher blood pressure in seniors?
 
 Not directly—but poor oral-digestive function can contribute to postprandial glucose spikes and inflammation, both associated with vascular stiffness. While salivary amylase itself doesn’t regulate BP, supporting oral health is part of holistic cardiovascular wellness in aging.

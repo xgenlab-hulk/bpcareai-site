@@ -98,17 +98,17 @@ Holiday baking isn’t about restriction—it’s about honoring your body while
 
 ### FAQ
 
-#### #### Are sugar-free cookies safe for seniors with stage 2 CKD?
+#### Are sugar-free cookies safe for seniors with stage 2 CKD?
 Yes—but *only if* they’re made with kidney-friendly sweeteners (like erythritol + monk fruit) and free of hidden phosphorus or potassium. Many commercial “sugar-free” cookies contain maltitol or phosphate additives, which aren’t ideal for long-term kidney health—even in stage 2.
 
-#### #### What’s the best sugar substitute for sugar-free cookies stage 2 ckid seniors?
+#### What’s the best sugar substitute for sugar-free cookies stage 2 ckid seniors?
 Erythritol is widely considered the safest sugar alcohol for stage 2 CKD because it’s absorbed and excreted without being metabolized by the kidneys. Blending it with a tiny amount of monk fruit or stevia enhances sweetness without adding potassium, phosphorus, or glycemic load.
 
-#### #### Can I eat store-bought sugar-free cookies if I have stage 2 CKD and normal eGFR?
+#### Can I eat store-bought sugar-free cookies if I have stage 2 CKD and normal eGFR?
 Proceed with caution. Most store-bought versions contain maltitol, sorbitol, or phosphate-based ingredients—even if “no sugar added” is highlighted. Always check the full ingredient list and avoid products listing “calcium phosphate,” “sodium acid pyrophosphate,” or “yeast extract.”
 
-#### #### Do sugar-free cookies raise blood pressure in seniors with CKD?
+#### Do sugar-free cookies raise blood pressure in seniors with CKD?
 Not directly—but ingredients matter. High-sodium baking powder, excess added salt for flavor, or dehydration from sugar alcohol–induced diarrhea can all contribute to temporary BP elevation. Pairing cookies with plenty of water and choosing low-sodium, low-phosphorus versions helps maintain stability.
 
-#### #### Is erythritol safe for kidneys in older adults?
+#### Is erythritol safe for kidneys in older adults?
 Current evidence suggests yes—especially compared to other sugar alcohols. Erythritol isn’t metabolized by the liver or kidneys and is excreted unchanged in urine. Studies in older adults with preserved eGFR show no adverse effects on creatinine, eGFR, or electrolytes at typical intake levels (≤10 g per serving).

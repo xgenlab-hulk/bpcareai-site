@@ -93,22 +93,22 @@ If you're unsure, talking to your doctor is always a good idea. And remember: *w
 
 ### FAQ
 
-#### #### Why am I gaining weight even though I’m eating less and exercising — could it be my thyroid?
+#### Why am I gaining weight even though I’m eating less and exercising — could it be my thyroid?
 
 Yes — especially if you’re over 50 and newly diagnosed with type 2 diabetes. Subclinical hypothyroidism slows metabolism and worsens insulin resistance, making weight loss harder despite calorie restriction. A full thyroid panel (TSH, free T4, free T3, TPOAb) helps clarify whether thyroid function is contributing.
 
-#### #### What does “weight gain calorie restriction new diabetes” really mean — and should I be concerned?
+#### What does “weight gain calorie restriction new diabetes” really mean — and should I be concerned?
 
 It means your body may be struggling to balance blood sugar *and* thyroid hormone signals simultaneously. This pattern is a recognized red flag for endocrine overlap — particularly between Hashimoto’s thyroiditis and early type 2 diabetes. It’s not typical “aging weight gain,” and yes — it’s worth exploring with your provider.
 
-#### #### Can dieting make hypothyroidism worse — and contribute to weight gain calorie restriction new diabetes?
+#### Can dieting make hypothyroidism worse — and contribute to weight gain calorie restriction new diabetes?
 
 Absolutely. Very low-calorie diets (<1,200 kcal/day), prolonged fasting, or high-stress approaches can lower active T3, raise reverse T3, and increase cortisol — all of which promote fat storage and reduce metabolic flexibility. Gentle, sustainable habits work better when thyroid and diabetes are both in play.
 
-#### #### How soon after a diabetes diagnosis should I get my thyroid checked?
+#### How soon after a diabetes diagnosis should I get my thyroid checked?
 
 Ideally at diagnosis — and again in 3–6 months if initial labs were borderline or symptoms persist. Up to 30% of adults with new-onset type 2 diabetes have undiagnosed thyroid dysfunction, so early screening is both reasonable and evidence-supported.
 
-#### #### Does treating subclinical hypothyroidism help with blood sugar control?
+#### Does treating subclinical hypothyroidism help with blood sugar control?
 
 Studies show modest but meaningful improvements: average A1c reductions of 0.3–0.5% and improved insulin sensitivity after starting levothyroxine — especially in those with TSH >5.0 mIU/L and symptoms. It’s not a substitute for diabetes management, but part of a whole-body approach.

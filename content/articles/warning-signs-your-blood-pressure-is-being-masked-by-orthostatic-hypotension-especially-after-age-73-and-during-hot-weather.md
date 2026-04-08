@@ -101,22 +101,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What is masked hypertension orthostatic hypotension seniors—and why does it matter?
+#### What is masked hypertension orthostatic hypotension seniors—and why does it matter?
 
 Masked hypertension orthostatic hypotension seniors refers to a pattern where blood pressure reads high while lying down (supine hypertension), yet drops significantly upon standing (orthostatic hypotension). It matters because standard seated checks miss it—leading to under-treated hypertension, increased fall risk, and higher stroke vulnerability, especially in hot weather or after age 73.
 
-#### #### Can masked hypertension orthostatic hypotension seniors be detected at home?
+#### Can masked hypertension orthostatic hypotension seniors be detected at home?
 
 Yes—with careful technique. Use a validated upper-arm cuff, take readings in three positions (supine, seated, standing at 1- and 3-minutes), and log symptoms. Consistent supine readings ≥140/90 mm Hg *plus* standing drops ≥20/10 mm Hg may indicate this pattern. Share results with your clinician.
 
-#### #### Is masked hypertension orthostatic hypotension seniors more common in summer?
+#### Is masked hypertension orthostatic hypotension seniors more common in summer?
 
 Yes—heat causes vasodilation and fluid loss through sweat, worsening orthostatic drops. Combined with age-related stiffening of arteries and reduced baroreflex sensitivity, this creates a perfect storm for *masked hypertension orthostatic hypotension seniors*, especially among adults over 73.
 
-#### #### How is masked hypertension orthostatic hypotension seniors different from regular orthostatic hypotension?
+#### How is masked hypertension orthostatic hypotension seniors different from regular orthostatic hypotension?
 
 Regular orthostatic hypotension usually occurs without high BP elsewhere. In contrast, *masked hypertension orthostatic hypotension seniors* involves *coexisting* supine hypertension—meaning the cardiovascular system is both over- and under-performing depending on posture. This dual stress increases long-term risks like white-matter lesions and heart remodeling.
 
-#### #### What medications can worsen masked hypertension orthostatic hypotension seniors?
+#### What medications can worsen masked hypertension orthostatic hypotension seniors?
 
 Common culprits include diuretics (e.g., furosemide), alpha-blockers (e.g., terazosin), certain antidepressants (e.g., amitriptyline), and antihypertensives dosed late in the day. Always review your full medication list—including OTC and supplements—with your doctor or pharmacist before making changes.

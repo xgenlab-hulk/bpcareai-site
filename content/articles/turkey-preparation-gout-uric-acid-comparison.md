@@ -81,22 +81,22 @@ Enjoying a shared meal doesn’t have to mean choosing between tradition and hea
 
 ### FAQ
 
-#### #### Is slow-braised turkey leg better than roasted turkey breast for gout management?
+#### Is slow-braised turkey leg better than roasted turkey breast for gout management?
 
 Yes—particularly for men with mild CKD. Slow-braising reduces AGE formation by up to 60%, lowers effective purine load (~15–20% less), and supports better sodium-potassium balance. Clinical data shows significantly smaller 2-hour uric acid spikes (+0.9 vs. +1.8 mg/dL) and improved 24-hour renal excretion.
 
-#### #### How does turkey preparation affect uric acid in people with kidney disease?
+#### How does turkey preparation affect uric acid in people with kidney disease?
 
 Turkey preparation influences uric acid through three main pathways: (1) purine density and digestibility, (2) AGE-induced renal inflammation and transporter inhibition, and (3) sodium load disrupting urate secretion. In mild CKD, even moderate sodium excess (e.g., from seasoned roast skin) can reduce fractional uric acid excretion by 10–15%.
 
-#### #### What is the best turkey preparation gout uric acid comparison for holiday meals?
+#### What is the best turkey preparation gout uric acid comparison for holiday meals?
 
 The most favorable option is bone-in, skin-off turkey leg slow-braised in low-sodium vegetable broth with fresh herbs. Compared to traditional skin-on, herb-rubbed roast turkey, this method consistently shows lower postprandial uric acid spikes, higher 24-hour urinary excretion, and reduced inflammatory markers in clinical studies of older adults with gout and CKD.
 
-#### #### Can I eat turkey skin if I have gout?
+#### Can I eat turkey skin if I have gout?
 
 It’s best avoided. Turkey skin is highly concentrated in purines and saturated fat, and roasting it creates additional AGEs. Removing skin before cooking cuts purine load by ~25% and eliminates a major source of dietary sodium and oxidative compounds.
 
-#### #### Does cooking temperature really change uric acid response?
+#### Does cooking temperature really change uric acid response?
 
 Yes—significantly. High-heat methods (>350°F) increase AGEs, which promote oxidative stress in renal tubules and impair urate transporters. Low-and-slow cooking preserves nutrients, reduces AGEs, and yields more predictable, gentler uric acid kinetics—especially important when kidney reserve is diminished.

@@ -87,17 +87,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can microvascular coronary reactivity natural improve without medications?
+#### Can microvascular coronary reactivity natural improve without medications?
 Yes—multiple RCTs confirm that nonpharmacologic approaches like timed L-arginine + vitamin C, paced breathing, and cold-water facial immersion significantly improve coronary flow reserve in women with INOCA. Improvements range from 18–26% across studies—comparable to some first-line therapies—but without side effects or prescriptions.
 
-#### #### What foods support microvascular coronary reactivity natural?
+#### What foods support microvascular coronary reactivity natural?
 While no single food “fixes” microvascular function, diets rich in nitrates (beets, spinach, arugula), polyphenols (berries, dark chocolate, green tea), and omega-3s (fatty fish, flaxseed) support endothelial health and NO production. Pairing nitrate-rich foods with vitamin C–rich ones (e.g., beet salad with lemon dressing) enhances absorption and effect.
 
-#### #### How long does it take to see improvements in microvascular coronary reactivity natural?
+#### How long does it take to see improvements in microvascular coronary reactivity natural?
 Most RCTs report measurable changes in coronary flow reserve or FMD within 6–12 weeks of consistent practice. Symptom relief—like reduced chest tightness or increased stamina—often begins earlier, around week 3–4, especially with paced breathing and CWFI.
 
-#### #### Is INOCA the same as microvascular angina?
+#### Is INOCA the same as microvascular angina?
 Yes—in clinical practice, “microvascular angina” is a common synonym for INOCA when microvascular dysfunction is confirmed. Both describe angina symptoms *without* obstructive CAD, and both involve impaired microvascular coronary reactivity natural.
 
-#### #### Does high blood pressure affect microvascular coronary reactivity natural?
+#### Does high blood pressure affect microvascular coronary reactivity natural?
 Absolutely. Even mild elevations in arterial pressure (e.g., sustained BP > 130/80 mm Hg) accelerate endothelial damage and reduce NO availability over time. That’s why BP management—including lifestyle strategies—is one of the most impactful ways to protect microvascular coronary reactivity natural.

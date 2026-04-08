@@ -82,22 +82,22 @@ In summary, unexplained weight gain while on GLP-1 agonists in adults with type 
 
 ### FAQ
 
-#### #### Does weight gain on GLP-1 agonists mean the medication isn’t working for my diabetes?
+#### Does weight gain on GLP-1 agonists mean the medication isn’t working for my diabetes?
 
 Not necessarily. GLP-1 RAs continue to improve blood glucose, insulin sensitivity, and beta-cell function—even if weight changes occur. Weight gain GLP-1 agonists diabetes doesn’t automatically signal reduced efficacy; instead, it may reflect fluid shifts, medication timing, or concurrent health factors that can be addressed without discontinuing therapy.
 
-#### #### Can weight gain GLP-1 agonists diabetes be reversed without stopping the medication?
+#### Can weight gain GLP-1 agonists diabetes be reversed without stopping the medication?
 
 Yes—in many cases. If fluid retention is confirmed (e.g., via JVP, BIA, or edema exam), simple interventions like short-term sodium restriction (<1,500 mg/day), temporary diuretic adjustment (under supervision), or optimizing sleep position can resolve it. Adipose-related gain may respond to refined nutrition strategies or increased daily movement—no dose change required.
 
-#### #### How soon after starting a GLP-1 RA should I worry about weight gain?
+#### How soon after starting a GLP-1 RA should I worry about weight gain?
 
 Most concerning fluid-related weight gain emerges within the first 2–8 weeks. Gains appearing after 12 weeks are less likely to be fluid-driven and more likely tied to lifestyle, aging metabolism, or other medications. That said, any gain >4 lbs over 3 days warrants discussion—regardless of timing.
 
-#### #### Is weight gain on GLP-1 agonists linked to heart failure risk?
+#### Is weight gain on GLP-1 agonists linked to heart failure risk?
 
 It can be—but not causally. In adults with existing heart failure with preserved ejection fraction (HFpEF) or subclinical diastolic dysfunction, GLP-1 RAs may unmask latent volume intolerance. However, large outcomes trials (e.g., SELECT, FIGHT) show *reduced* heart failure hospitalizations overall with semaglutide and tirzepatide. The key is early recognition—not avoidance.
 
-#### #### Do all GLP-1 agonists cause the same risk of weight gain?
+#### Do all GLP-1 agonists cause the same risk of weight gain?
 
 No. Shorter-acting agents (e.g., exenatide twice daily) appear less associated with fluid retention than weekly formulations (dulaglutide, semaglutide) or dual-agonists (tirzepatide). Individual response varies widely—and newer agents continue to be studied for their hemodynamic profiles.

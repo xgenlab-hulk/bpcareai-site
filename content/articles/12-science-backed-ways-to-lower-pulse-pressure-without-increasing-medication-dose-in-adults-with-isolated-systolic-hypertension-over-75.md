@@ -65,22 +65,22 @@ Lowering pulse pressure isolated systolic hypertension is not only possible—it
 
 ### FAQ
 
-#### #### Can lowering pulse pressure isolated systolic hypertension reduce stroke risk in older adults?
+#### Can lowering pulse pressure isolated systolic hypertension reduce stroke risk in older adults?
 
 Yes. Research shows that reducing pulse pressure by even 5–10 mm Hg lowers stroke risk by approximately 10–15% in adults over 75—particularly when achieved through arterial stiffness reduction, not just stronger BP meds.
 
-#### #### What’s the best way to lower pulse pressure isolated systolic hypertension without medication changes?
+#### What’s the best way to lower pulse pressure isolated systolic hypertension without medication changes?
 
 The most effective non-pharmacologic strategies target arterial elasticity directly: timed flavonoid intake, dynamic resistance training, optimizing nocturnal oxygen saturation, and consistent slow breathing—all backed by cfPWV trials in older adults.
 
-#### #### Is a pulse pressure of 70 mm Hg dangerous for someone over 75 with isolated systolic hypertension?
+#### Is a pulse pressure of 70 mm Hg dangerous for someone over 75 with isolated systolic hypertension?
 
 A pulse pressure of 70 mm Hg is elevated (normal is 30–50 mm Hg) and signals increased arterial stiffness—but it’s very common and modifiable. It becomes more concerning if paired with symptoms like dizziness or fatigue, or if it climbs above 80 mm Hg regularly.
 
-#### #### Does walking help lower pulse pressure in older adults?
+#### Does walking help lower pulse pressure in older adults?
 
 Yes—especially brisk walking after meals. A 2021 study found that three 10-minute post-meal walks daily lowered pulse pressure by an average of 4.2 mm Hg over 12 weeks in adults 75–85.
 
-#### #### Are there foods that specifically help lower pulse pressure?
+#### Are there foods that specifically help lower pulse pressure?
 
 Yes—flavonoid-rich foods (berries, dark chocolate, green tea), omega-3 sources (fatty fish), vitamin K2 sources (natto, aged cheese), and potassium-rich foods (bananas, spinach, beans) all support arterial flexibility when eaten regularly as part of a balanced diet.

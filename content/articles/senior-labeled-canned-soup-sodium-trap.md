@@ -70,22 +70,22 @@ Navigating food labels gets easier with practice—and the good news is, awarene
 
 ### FAQ
 
-#### #### Are all senior-labeled canned soups part of the senior-labeled-canned-soup-sodium-trap?
+#### Are all senior-labeled canned soups part of the senior-labeled-canned-soup-sodium-trap?
 
 Not all—but many are. In a 2023 review, 68% of soups explicitly marketed to seniors exceeded 1,500 mg sodium per can. Always verify using the Nutrition Facts panel rather than relying on front-of-package claims.
 
-#### #### How can I spot the senior-labeled-canned-soup-sodium-trap on the label?
+#### How can I spot the senior-labeled-canned-soup-sodium-trap on the label?
 
 Look beyond “low sodium.” Check the number of servings per container, total sodium per can, and scan the ingredients for hidden sodium sources (e.g., sodium nitrate, autolyzed yeast). Also note if potassium chloride is listed near the top—it may indicate sodium substitution.
 
-#### #### Is the senior-labeled-canned-soup-sodium-trap dangerous for people with normal blood pressure?
+#### Is the senior-labeled-canned-soup-sodium-trap dangerous for people with normal blood pressure?
 
 For most healthy adults over 50, occasional exposure isn’t harmful. But since BP tends to rise gradually with age—and salt sensitivity increases after 60—it’s wise to build habits early. Prevention is gentle, consistent, and kind to your future self.
 
-#### #### Can rinsing canned soup reduce sodium?
+#### Can rinsing canned soup reduce sodium?
 
 Rinsing won’t meaningfully reduce sodium in broth-based soups, but it *can* cut sodium by 30–40% in canned beans, vegetables, or legumes you add yourself. For best results, use low-sodium broth as a base and build from there.
 
-#### #### What’s a safe daily sodium target for adults over 65 with hypertension?
+#### What’s a safe daily sodium target for adults over 65 with hypertension?
 
 The American Heart Association recommends no more than 1,500 mg per day for adults with hypertension or heart disease. For reference, one teaspoon of table salt contains ~2,300 mg sodium—so staying within limits means being mindful across *all* foods, not just soup.

@@ -56,22 +56,22 @@ In conclusion, supporting heart health through diet remains powerful and accessi
 
 ### FAQ
 
-#### #### Does instant oatmeal beta-glucan degradation affect blood pressure?
+#### Does instant oatmeal beta-glucan degradation affect blood pressure?
 
 Not directly—but chronically elevated LDL due to reduced beta-glucan efficacy contributes to arterial stiffness and endothelial dysfunction, both linked to rising systolic BP over time. While beta-glucan itself doesn’t lower BP acutely, its role in cholesterol and inflammation management supports long-term vascular health.
 
-#### #### How can I tell if my instant oatmeal has undergone beta-glucan degradation?
+#### How can I tell if my instant oatmeal has undergone beta-glucan degradation?
 
 Look for clues on the label: “oat flour,” “pre-gelatinized oats,” or “enzymatically treated” suggest processing that breaks down beta-glucan chains. As a real-world test, prepare a small batch and observe viscosity—if it’s thin rather than gel-like after cooling slightly, degradation is likely.
 
-#### #### Is there a safe amount of instant oatmeal for seniors with heart disease?
+#### Is there a safe amount of instant oatmeal for seniors with heart disease?
 
 There’s no universal “safe” amount—efficacy depends more on beta-glucan quality than quantity. One serving (½ cup dry) of *intact* beta-glucan-rich oats daily is supported by evidence; however, most instant varieties require 2–3 servings to approach functional equivalence, increasing sodium or sugar exposure unnecessarily.
 
-#### #### Can cooking method reverse instant oatmeal beta-glucan degradation?
+#### Can cooking method reverse instant oatmeal beta-glucan degradation?
 
 No. Degradation occurs *before* packaging—during manufacturing. Once beta-glucan polymers are cleaved, home cooking cannot restore molecular weight or viscosity.
 
-#### #### Are gluten-free instant oatmeals more or less likely to contain degraded beta-glucan?
+#### Are gluten-free instant oatmeals more or less likely to contain degraded beta-glucan?
 
 Gluten-free certification doesn’t correlate with beta-glucan integrity. In fact, extra milling and sorting steps sometimes increase shear stress on oat particles—potentially worsening degradation. Always check processing language, not just allergen statements.

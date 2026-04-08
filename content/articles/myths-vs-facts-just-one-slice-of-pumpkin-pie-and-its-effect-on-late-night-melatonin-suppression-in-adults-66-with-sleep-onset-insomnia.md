@@ -71,22 +71,22 @@ Holiday traditions—including shared desserts—are meaningful and nourishing i
 
 ### FAQ
 
-#### #### Does pumpkin pie really affect melatonin in older adults—or is that just a myth?
+#### Does pumpkin pie really affect melatonin in older adults—or is that just a myth?
 
 Yes—it’s well-documented. Research shows that the fructose in pumpkin pie triggers cortisol release, which directly inhibits melatonin production in adults 66+. Salivary melatonin studies confirm measurable delays in onset, especially when consumed after 7:00 p.m.
 
-#### #### Can ‘just one slice’ of pumpkin pie cause sleep-onset insomnia in seniors?
+#### Can ‘just one slice’ of pumpkin pie cause sleep-onset insomnia in seniors?
 
 For many adults 66+, yes—even one slice consumed late in the evening can contribute to sleep-onset insomnia. Polysomnography data reveals longer sleep latency and reduced deep sleep following evening fructose intake, particularly in those with preexisting insulin resistance or hypertension.
 
-#### #### How does pumpkin pie melatonin sleep onset insomnia relate to blood pressure?
+#### How does pumpkin pie melatonin sleep onset insomnia relate to blood pressure?
 
 Elevated evening cortisol from fructose metabolism can increase sympathetic tone and arterial pressure—especially during sleep. Studies report nocturnal systolic BP elevations of 8–12 mm Hg in adults 66+ after late-night sugary desserts, compounding risks for cardiovascular strain.
 
-#### #### Is canned pumpkin healthier than pumpkin pie for sleep?
+#### Is canned pumpkin healthier than pumpkin pie for sleep?
 
 Plain, unsweetened canned pumpkin (without added sugars or syrups) contains negligible fructose and no refined carbs—so it does not disrupt melatonin or delay sleep onset. However, once baked into pie with sweeteners, cream, and crust, its metabolic impact changes substantially.
 
-#### #### What’s the best time to eat pumpkin pie if I have insomnia?
+#### What’s the best time to eat pumpkin pie if I have insomnia?
 
 Ideally before 6:30 p.m.—at least 3 hours before bedtime—and paired with protein/fat. This allows time for cortisol to normalize and minimizes interference with your natural melatonin surge, which typically begins around 9:00 p.m. in adults over 66.

@@ -80,22 +80,22 @@ Building strength doesn’t require pushing through pain — especially after ag
 
 ### FAQ
 
-#### #### Are seated exercises for blood pressure elderly effective for lowering high BP?
+#### Are seated exercises for blood pressure elderly effective for lowering high BP?
 
 Yes — multiple clinical trials confirm that seated resistance training lowers systolic BP by an average of 5–9 mm Hg in adults over 75 with hypertension. This effect stems from improved endothelial function and reduced peripheral vascular resistance, not just calorie burn.
 
-#### #### What’s the best seated exercise for blood pressure elderly with knee pain?
+#### What’s the best seated exercise for blood pressure elderly with knee pain?
 
 Seated leg extensions using light resistance bands are among the safest and most studied options. They strengthen quadriceps without compressing the patellofemoral joint — critical for those with severe knee osteoarthritis. Always avoid locking the knee at full extension.
 
-#### #### Can seated exercises for blood pressure elderly replace walking or aerobic activity?
+#### Can seated exercises for blood pressure elderly replace walking or aerobic activity?
 
 Not entirely — but they *complement* it meaningfully. For adults who cannot walk safely due to pain, imbalance, or orthostatic intolerance, seated resistance work provides unique vascular benefits that aerobic-only programs may miss, especially regarding endothelial health and muscle perfusion.
 
-#### #### How long before I see changes in my blood pressure?
+#### How long before I see changes in my blood pressure?
 
 Most people notice modest improvements (2–5 mm Hg reduction) within 4–6 weeks of consistent 3×/week practice. Maximal benefits typically emerge at 12–16 weeks, especially when paired with sodium moderation and adequate sleep.
 
-#### #### Do I need special equipment for seated exercises for blood pressure elderly?
+#### Do I need special equipment for seated exercises for blood pressure elderly?
 
 No — only a sturdy, armless chair (with no wheels) and a set of loop or tube-style resistance bands (light to medium resistance). Avoid elastic tubing with metal handles, which can pinch fingers; opt for fabric-covered bands with soft grips instead.

@@ -72,17 +72,17 @@ Staying steady in winter isn’t about perfection — it’s about listening clo
 
 ### FAQ  
 
-#### #### Does drinking warm water help blood pressure in winter for seniors?  
+#### Does drinking warm water help blood pressure in winter for seniors?  
 Warm water *alone* doesn’t reliably support blood pressure stability — but warm water *with balanced electrolytes* (like a trace of sodium and potassium) can help maintain plasma volume and reduce orthostatic drops. Plain warm water may still pull fluid into the gut, potentially worsening constipation without improving circulatory volume.
 
-#### #### What’s the best drink for winter hydration blood pressure stability elderly?  
+#### What’s the best drink for winter hydration blood pressure stability elderly?  
 The most supportive options combine warmth, mild electrolytes, and mucilage: think ginger-fennel infusion with a pinch of sea salt, or okra broth. These help retain fluid in circulation *and* soothe the digestive tract — addressing both BP stability and constipation in one gentle step.
 
-#### #### Can dehydration cause high blood pressure in older adults during winter?  
+#### Can dehydration cause high blood pressure in older adults during winter?  
 Yes — but not always in the way people expect. Mild dehydration can trigger compensatory mechanisms: the kidneys release renin, activating the RAAS system, which constricts vessels and retains sodium. In older adults with stiffer arteries, this often raises systolic BP. Paradoxically, *over*-hydration with plain water can also destabilize BP by diluting sodium and reducing oncotic pressure — making electrolyte-aware hydration essential.
 
-#### #### How much water should a 78-year-old drink in winter?  
+#### How much water should a 78-year-old drink in winter?  
 There’s no universal “right amount.” Focus instead on *timing*, *temperature*, and *composition*. Aim for 1,200–1,500 mL (about 5–6 cups) total daily — but distribute it across the 4-tier protocol above, avoiding large volumes after 6 p.m. to protect sleep and minimize nocturia.
 
-#### #### Does constipation affect blood pressure in seniors?  
+#### Does constipation affect blood pressure in seniors?  
 Indirectly, yes. Straining during bowel movements triggers the Valsalva maneuver — raising intrathoracic pressure and causing sharp, transient BP spikes (sometimes +30–40 mm Hg). Chronic constipation also reflects slower transit and altered gut-fluid dynamics, which can influence overall volume distribution and autonomic tone — both relevant to long-term BP stability.

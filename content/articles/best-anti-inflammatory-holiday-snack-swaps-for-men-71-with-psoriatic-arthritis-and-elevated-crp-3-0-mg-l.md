@@ -80,22 +80,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What are the best anti inflammatory holiday snacks psoriatic arthritis men over 70 can eat without cooking?
+#### What are the best anti inflammatory holiday snacks psoriatic arthritis men over 70 can eat without cooking?
 
 Look for ready-to-eat options rich in omega-3s (walnuts, smoked salmon), polyphenols (pomegranate, blueberries, dark chocolate ≥85%), and low-glycemic fiber (cucumber, flaxseed). Avoid added sugars, refined grains, and oils high in omega-6 (soybean, corn, sunflower). Pre-portioned raw nuts, canned wild salmon pouches, and frozen organic berries require zero prep.
 
-#### #### Can anti inflammatory holiday snacks psoriatic arthritis really lower CRP in older adults?
+#### Can anti inflammatory holiday snacks psoriatic arthritis really lower CRP in older adults?
 
 Yes—modestly but meaningfully. A 2021 randomized trial in *Clinical Rheumatology* found that men 65+ with psoriatic arthritis who swapped just two pro-inflammatory snacks per day for anti-inflammatory alternatives saw an average CRP reduction from 4.2 to 2.7 mg/L over 12 weeks—without medication changes.
 
-#### #### Are there anti inflammatory holiday snacks psoriatic arthritis that also support heart health?
+#### Are there anti inflammatory holiday snacks psoriatic arthritis that also support heart health?
 
 Absolutely. Omega-3–rich foods (walnuts, salmon), nitrate-containing veggies (cucumber, beetroot), and polyphenol-dense fruits (blueberries, pomegranate) all improve endothelial function and reduce arterial stiffness—key concerns for men 71+ with elevated CRP and psoriatic arthritis.
 
-#### #### Do I need to avoid all sugar during the holidays if I have psoriatic arthritis and high CRP?
+#### Do I need to avoid all sugar during the holidays if I have psoriatic arthritis and high CRP?
 
 Not all sugar—but be mindful of *added* and *refined* sugars, which trigger rapid glucose and insulin spikes linked to IL-17 surges. Natural sugars in whole fruit (like pomegranate arils or berries) come with fiber and polyphenols that buffer the effect. Limit added sugar to <10 g per snack—and pair it with fat or protein (e.g., dark chocolate with walnuts) to slow absorption.
 
-#### #### How soon might I notice joint or energy changes after switching to anti inflammatory holiday snacks psoriatic arthritis?
+#### How soon might I notice joint or energy changes after switching to anti inflammatory holiday snacks psoriatic arthritis?
 
 Some men report improved morning stiffness and steadier afternoon energy within 3–5 days. More measurable changes—like reduced CRP or fewer flares—typically emerge after 2–3 weeks of consistent choices. Keep a brief symptom log to spot personal patterns.

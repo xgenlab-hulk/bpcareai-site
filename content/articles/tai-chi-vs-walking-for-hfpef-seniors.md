@@ -71,17 +71,17 @@ Living well with HFpEF isn’t about pushing harder—it’s about moving smarte
 
 ### FAQ
 
-#### #### Is tai chi vs walking for HFpEF seniors equally effective for lowering blood pressure?
+#### Is tai chi vs walking for HFpEF seniors equally effective for lowering blood pressure?
 Yes—both modalities show modest but clinically relevant BP reductions in older adults with HFpEF. Meta-analyses report average systolic reductions of 4–6 mm Hg after 12 weeks, with tai chi showing slightly greater effects on diastolic BP (–3.5 mm Hg vs –2.1 mm Hg for walking), likely due to enhanced vagal tone and reduced arterial stiffness.
 
-#### #### What’s the best tai chi vs walking for HFpEF seniors routine for someone with knee pain?
+#### What’s the best tai chi vs walking for HFpEF seniors routine for someone with knee pain?
 For knee pain, seated or supported tai chi qigong is strongly preferred—it minimizes joint loading while preserving cardiovascular and autonomic benefits. If walking is chosen, use a treadmill with cushioned surface, handrails, and speed ≤1.2 mph; avoid outdoor pavement or inclines. Always consult a physical therapist to assess gait mechanics first.
 
-#### #### Can tai chi vs walking for HFpEF seniors improve quality of life beyond physical measures?
+#### Can tai chi vs walking for HFpEF seniors improve quality of life beyond physical measures?
 Absolutely. Studies consistently report greater improvements in depression scores, sleep quality, and self-reported vitality with tai chi—likely linked to its mindfulness component and social engagement in group classes. Walking also improves mood, but tai chi’s dual focus on movement and mental presence appears especially beneficial for emotional resilience in older HFpEF patients.
 
-#### #### How long does it take to see changes in 6-minute walk distance with either exercise?
+#### How long does it take to see changes in 6-minute walk distance with either exercise?
 Meaningful improvements (≥30 meters) typically emerge after 8–12 weeks of consistent, supervised practice—whether tai chi or walking. Earlier gains (weeks 4–6) may appear in perceived exertion or fatigue, even before distance increases.
 
-#### #### Do I need an echocardiogram before starting tai chi or walking for HFpEF?
+#### Do I need an echocardiogram before starting tai chi or walking for HFpEF?
 While not mandatory for everyone, baseline echocardiography is recommended—especially if you haven’t had one in the past year—to confirm HFpEF diagnosis and establish diastolic function metrics (e’, E/e’, LAVI). This helps tailor expectations and track subtle but important cardiac changes over time.

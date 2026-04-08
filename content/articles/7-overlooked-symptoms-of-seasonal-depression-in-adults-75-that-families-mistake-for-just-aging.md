@@ -71,22 +71,22 @@ Seasonal shifts affect us all—our bodies, our rhythms, our moods. And for adul
 
 ### FAQ
 
-#### #### What are the most common seasonal depression symptoms in adults 75+?
+#### What are the most common seasonal depression symptoms in adults 75+?
 
 The most common *overlooked* symptoms include apathy (loss of interest in previously enjoyed activities), unexplained fatigue that doesn’t improve with rest, increased social withdrawal, difficulty concentrating or following conversations, changes in appetite (often decreased, not increased), sleep disruptions (early-morning awakening or excessive drowsiness), and irritability or uncharacteristic tearfulness. These differ from classic SAD in younger adults and are often mistaken for dementia or frailty.
 
-#### #### Can seasonal depression in older adults be mistaken for dementia?
+#### Can seasonal depression in older adults be mistaken for dementia?
 
 Yes—frequently. Both conditions can involve slowed thinking, memory lapses, and reduced initiative. However, seasonal depression symptoms in adults 75+ typically fluctuate with the seasons (worsening in late fall/winter and improving by spring), whereas dementia progresses gradually and steadily. Also, people with seasonal depression usually retain insight (“I just don’t feel like doing anything”)—while those with early dementia may lack awareness of changes.
 
-#### #### How is seasonal depression in older adults treated?
+#### How is seasonal depression in older adults treated?
 
 Treatment is often multimodal and gentle: light therapy (30 minutes of 10,000-lux light each morning), increased natural daylight exposure, regular low-intensity movement, cognitive behavioral therapy adapted for aging (CBT-I or CBT-SAD), and—in some cases—antidepressants. Importantly, treatment response is often faster in older adults than in younger ones when the right approach is matched to the individual.
 
-#### #### Does seasonal depression in older adults increase fall risk?
+#### Does seasonal depression in older adults increase fall risk?
 
 Yes—indirectly. Fatigue, slowed reaction time, reduced alertness, and low motivation can impair balance, gait, and environmental awareness. Studies show older adults with untreated depression have a 30% higher fall risk—making early recognition of seasonal depression symptoms in adults 75+ an important part of fall prevention.
 
-#### #### Is it normal for older adults to feel more down in winter?
+#### Is it normal for older adults to feel more down in winter?
 
 It’s *common*, but not *normal*—in the sense that it shouldn’t be accepted as unavoidable. Mild mood dips may occur, but persistent low mood, loss of pleasure, or functional decline warrants support. Think of it like blood pressure: occasional fluctuations happen, but sustained elevation needs attention. Same goes for mood.

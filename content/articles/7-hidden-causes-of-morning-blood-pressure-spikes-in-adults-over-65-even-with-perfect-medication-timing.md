@@ -68,17 +68,17 @@ In short, **morning blood pressure spikes over 65** are rarely a sign of treatme
 
 ### FAQ
 
-#### #### Why do I get high blood pressure in the morning even though I take my meds at night?  
+#### Why do I get high blood pressure in the morning even though I take my meds at night?  
 It’s not uncommon—even with ideal timing, aging arteries, hormonal surges at dawn, and subtle sleep disruptions can override medication effects. What matters most is the *pattern*, not just a single reading.
 
-#### #### Are morning blood pressure spikes over 65 dangerous?  
+#### Are morning blood pressure spikes over 65 dangerous?  
 Yes—studies link sustained early-morning surges to higher cardiovascular risk, especially between 6–10 a.m. However, recognizing and addressing them proactively makes a big difference in long-term health.
 
-#### #### What’s the best time to check blood pressure for morning spikes over 65?  
+#### What’s the best time to check blood pressure for morning spikes over 65?  
 Take your first reading within 1 minute of waking (still lying down or seated), then again at 30 and 60 minutes after rising—before caffeine, food, or activity.
 
-#### #### Can stress cause morning blood pressure spikes?  
+#### Can stress cause morning blood pressure spikes?  
 Yes—anticipatory stress (e.g., worrying about the day ahead) can activate the sympathetic nervous system early, contributing to surges. Breathing exercises upon waking may help soften this response.
 
-#### #### Is morning hypertension the same as white coat syndrome?  
+#### Is morning hypertension the same as white coat syndrome?  
 No. White coat hypertension occurs only in clinical settings, while morning spikes happen at home—and reflect real physiological changes tied to circadian biology.

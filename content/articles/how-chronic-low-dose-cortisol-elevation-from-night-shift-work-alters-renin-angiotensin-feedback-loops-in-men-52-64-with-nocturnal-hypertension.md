@@ -75,17 +75,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does night shift work cause permanent damage to the renin-angiotensin system?  
+#### Does night shift work cause permanent damage to the renin-angiotensin system?  
 No—changes are typically functional and reversible with consistent circadian alignment strategies. Permanent structural damage is rare and usually linked to untreated severe hypertension over many years.
 
-#### #### What is night shift blood pressure renin angiotensin—and why should I care?  
+#### What is night shift blood pressure renin angiotensin—and why should I care?  
 It’s the interplay between disrupted cortisol rhythms, altered RAAS signaling, and elevated nighttime BP in shift workers. Caring matters because it helps explain *why* your BP behaves differently—and empowers targeted, non-pharmacologic support.
 
-#### #### How is night shift blood pressure renin angiotensin different from regular high blood pressure?  
+#### How is night shift blood pressure renin angiotensin different from regular high blood pressure?  
 Unlike essential hypertension, this pattern features a loss of nocturnal dipping, higher renin variability, and stronger ties to cortisol timing and sleep fragmentation—not just vessel stiffness or salt retention.
 
-#### #### Can melatonin supplements help regulate night shift blood pressure renin angiotensin?  
+#### Can melatonin supplements help regulate night shift blood pressure renin angiotensin?  
 Short-term, low-dose (0.5 mg) melatonin taken 1 hour before desired sleep *may* support circadian realignment—but consult your doctor first, especially if taking antihypertensives or anticoagulants.
 
-#### #### Is nocturnal hypertension in night workers linked to heart attack risk?  
+#### Is nocturnal hypertension in night workers linked to heart attack risk?  
 Yes—studies show non-dipping BP increases cardiovascular event risk by ~20% over 10 years in adults 50+, independent of daytime readings. That’s why understanding *night shift blood pressure renin angiotensin* dynamics supports long-term resilience.

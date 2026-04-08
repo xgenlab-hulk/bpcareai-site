@@ -43,22 +43,22 @@ Whether you're attending your first family potluck in years or hosting your own,
 
 ### FAQ
 
-#### #### How do I adjust my insulin for holiday meals with high-fat foods?
+#### How do I adjust my insulin for holiday meals with high-fat foods?
 
 High-fat meals delay carb absorption—so consider splitting your bolus (e.g., 50% at start, 50% over 90–120 minutes) or using an extended bolus if your pump supports it. Monitor CGM trends closely for 3+ hours post-meal.
 
-#### #### What’s the best way to carb-count dishes without nutrition labels at a potluck?
+#### What’s the best way to carb-count dishes without nutrition labels at a potluck?
 
 Ask the host about ingredients or preparation methods. Use visual cues (e.g., cupped hand ≈ 15 g carbs) and prioritize dishes with known bases—like plain roasted vegetables (low-carb) vs. candied yams (high-carb). When uncertain, err on the side of slightly higher carb estimates.
 
-#### #### Is there a reliable type 1 diabetes holiday potluck guide for seniors over 50?
+#### Is there a reliable type 1 diabetes holiday potluck guide for seniors over 50?
 
 Yes—this *type 1 diabetes holiday potluck guide* emphasizes age-specific considerations: slower gastric emptying, altered insulin sensitivity, and reduced symptom awareness. It prioritizes safety, simplicity, and sustainability over rigid rules.
 
-#### #### How much alcohol is safe with type 1 diabetes during holiday parties?
+#### How much alcohol is safe with type 1 diabetes during holiday parties?
 
 Limit to one drink (e.g., 5 oz wine or 12 oz light beer) and always pair with food. Alcohol inhibits gluconeogenesis—increasing overnight hypo risk—so check glucose before bed and consider a small bedtime snack if below 100 mg/dL.
 
-#### #### Can stress from holiday gatherings affect my blood glucose?
+#### Can stress from holiday gatherings affect my blood glucose?
 
 Yes—emotional stress triggers cortisol and epinephrine release, which raise blood glucose. Practice grounding techniques (e.g., 4-7-8 breathing) before entering crowded spaces, and schedule short breaks to recalibrate.

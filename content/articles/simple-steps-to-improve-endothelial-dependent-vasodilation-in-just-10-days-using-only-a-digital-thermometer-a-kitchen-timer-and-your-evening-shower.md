@@ -96,22 +96,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can I really improve endothelial function in 10 days without supplements or devices?
+#### Can I really improve endothelial function in 10 days without supplements or devices?
 
 Yes—multiple peer-reviewed studies confirm that structured thermal sequencing (like the warm-cold-warm method described here) improves flow-mediated dilation by 12–22% within 7–10 days in adults aged 50–75. No pills, patches, or prescriptions required—just consistency and attention to timing and temperature.
 
-#### #### Does improving endothelial function in 10 days lower blood pressure?
+#### Does improving endothelial function in 10 days lower blood pressure?
 
 It can—especially systolic pressure. In a 2022 pilot trial (n=42, avg. age 61), participants who followed this exact protocol saw an average drop of 5.2 mm Hg in systolic BP by Day 10, with effects sustained at 4-week follow-up. That’s because healthier endothelium means more responsive, flexible arteries—not just “lower numbers,” but better vascular *behavior*.
 
-#### #### What’s the safest way to improve endothelial function in 10 days for someone over 60?
+#### What’s the safest way to improve endothelial function in 10 days for someone over 60?
 
 Start slow: begin with just 15 seconds of cool water (22°C) in Phase 2 for Days 1–3, then gradually increase to 30 seconds by Day 4. Always check forearm temperature *before and after*—if the post-sequence rise is <0.5°C by Day 5, extend warm priming to 4 minutes and add gentle calf squeezes during Phase 3. Listen to your body—not the clock.
 
-#### #### Why does warm-cold-warm work better than just cold showers?
+#### Why does warm-cold-warm work better than just cold showers?
 
 Cold-only exposure can cause prolonged vasoconstriction—especially in aging vessels—potentially raising BP temporarily. The warm-cold-*warm* sequence creates a “pulse” effect: warmth activates eNOS, cold triggers rebound shear stress, and the second warm phase locks in NO release. It’s the *sequence*, not the cold itself, that drives the benefit.
 
-#### #### Can I use a hot tub or sauna instead of a shower?
+#### Can I use a hot tub or sauna instead of a shower?
 
 Not for this specific protocol. Hot tubs (>40°C) raise core temperature too much, increasing cardiac demand—especially in older adults. Saunas lack the localized, controllable flow needed for precise thermal targeting. A standard shower gives you full control over duration, temperature, and body coverage—making it the safest, most reproducible tool for improving endothelial function in 10 days.

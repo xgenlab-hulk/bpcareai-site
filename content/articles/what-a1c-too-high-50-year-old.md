@@ -3,7 +3,7 @@ title: >-
   What A1C Level Is Too High for a 50-Year-Old?
 slug: what-a1c-too-high-50-year-old
 description: >-
-  What a1c level is too high for 50 year old adults? ADA says ≥7.5% (avg. glucose ~169 mg/dL) raises complication risk—act now with lifestyle or treatment
+  What a1c level is too high for 50 year old adults? ADA says ≥7.5% (avg.
 date: '2026-04-02'
 updated: '2026-04-02'
 primaryKeyword: >-

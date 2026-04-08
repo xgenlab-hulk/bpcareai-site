@@ -46,22 +46,22 @@ In short, both approaches are safe, accessible, and backed by emerging science. 
 
 ### FAQ
 
-#### #### Is isometric handgrip tai chi central aortic pressure effective for seniors over 70?
+#### Is isometric handgrip tai chi central aortic pressure effective for seniors over 70?
 
 Most clinical trials focus on ages 60–74, but pilot data suggest similar benefits for healthy adults up to 79—especially when handgrip intensity is adjusted and tai chi modified for balance needs. Always check with your doctor first.
 
-#### #### How does isometric handgrip tai chi central aortic pressure compare to aerobic walking?
+#### How does isometric handgrip tai chi central aortic pressure compare to aerobic walking?
 
 Walking improves overall cardiovascular fitness and lowers brachial BP, but studies show isometric handgrip and tai chi produce *greater reductions in central aortic systolic pressure and pulse wave velocity*—likely due to their direct impact on autonomic tone and arterial wall stress.
 
-#### #### Can I combine isometric handgrip and tai chi for better results on central aortic pressure?
+#### Can I combine isometric handgrip and tai chi for better results on central aortic pressure?
 
 Yes—early evidence suggests synergy. One 8-week pilot found combined users saw 14% greater improvement in baroreflex gain versus either alone. Just space them apart by at least 2 hours to avoid fatigue.
 
-#### #### Does tai chi lower blood pressure as effectively as medication?
+#### Does tai chi lower blood pressure as effectively as medication?
 
 For many with mild-to-moderate isolated systolic hypertension, tai chi can reduce systolic BP by 5–10 mm Hg over 8–12 weeks—comparable to single-drug therapy. It doesn’t replace meds for everyone, but it’s a powerful complement.
 
-#### #### What’s the best time of day to do isometric handgrip for central aortic pressure?
+#### What’s the best time of day to do isometric handgrip for central aortic pressure?
 
 Morning sessions align well with natural cortisol peaks and may enhance baroreflex sensitivity. Evening sessions can help blunt nocturnal BP surges—but consistency matters more than timing. Choose what fits your rhythm.

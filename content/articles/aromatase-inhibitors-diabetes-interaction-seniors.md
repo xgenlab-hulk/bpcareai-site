@@ -87,17 +87,17 @@ Hormone therapy for breast cancer is life-saving—and so is protecting your lon
 
 ### FAQ
 
-#### #### Can aromatase inhibitors cause diabetes in older women?
+#### Can aromatase inhibitors cause diabetes in older women?
 Yes—especially in women over 65 with preexisting risk factors like overweight, family history, or prediabetes. Aromatase inhibitors don’t *cause* diabetes outright, but they accelerate insulin resistance, increasing the likelihood of progression to type 2 diabetes by roughly 1.8-fold over 2 years compared to non-users.
 
-#### #### What’s the difference between tamoxifen and aromatase inhibitors in terms of diabetes risk?
+#### What’s the difference between tamoxifen and aromatase inhibitors in terms of diabetes risk?
 Tamoxifen is a selective estrogen receptor modulator (SERM) and may slightly *improve* insulin sensitivity in some women. Aromatase inhibitors (letrozole, anastrozole, exemestane) lower systemic estrogen more profoundly—and are associated with measurable increases in insulin resistance markers. So the **aromatase-inhibitors diabetes interaction seniors** is distinct from tamoxifen’s profile.
 
-#### #### Are there safer diabetes medications to use with aromatase inhibitors in seniors?
+#### Are there safer diabetes medications to use with aromatase inhibitors in seniors?
 Metformin remains first-line and generally well-tolerated—but dose adjustments may be needed. GLP-1 receptor agonists (e.g., semaglutide, dulaglutide) show promise due to their anti-inflammatory and beta-cell protective effects. SGLT2 inhibitors (e.g., empagliflozin) can be helpful but require caution in women with reduced eGFR or recurrent UTIs—both more common in seniors on AIs.
 
-#### #### Does vitamin D supplementation help with aromatase-inhibitor-related insulin resistance?
+#### Does vitamin D supplementation help with aromatase-inhibitor-related insulin resistance?
 Evidence is encouraging: women over 65 on AIs with serum vitamin D <20 ng/mL have significantly higher HOMA-IR scores. Supplementing to reach 30–50 ng/mL (under medical guidance) has been linked to ~15% improvement in insulin sensitivity in small trials—likely due to reduced adipose tissue inflammation and improved beta-cell function.
 
-#### #### How often should I check my blood sugar if I’m on both an aromatase inhibitor and insulin?
+#### How often should I check my blood sugar if I’m on both an aromatase inhibitor and insulin?
 At minimum: fasting, before dinner, and at bedtime—plus one random check mid-afternoon. If using insulin, consider adding a 2-hour post-dinner check weekly to catch delayed hyperglycemia. Discuss CGM with your care team—it’s increasingly covered for seniors with complex regimens, including the **aromatase-inhibitors diabetes interaction seniors** scenario.

@@ -71,22 +71,22 @@ Managing blood sugar during holiday shift work doesn’t mean sacrificing your r
 
 ### FAQ
 
-#### #### How can I manage blood sugar during holiday shift work if I’m over 60?
+#### How can I manage blood sugar during holiday shift work if I’m over 60?
 
 Older adults benefit most from predictability—even within variable schedules. Anchor your day with consistent sleep windows (even if shifted), prioritize protein-rich snacks every 4–5 hours, and test glucose at least twice per shift: once before starting and once before leaving. Discuss with your provider whether adjusting long-acting insulin timing or reducing sulfonylurea doses during high-stress weeks may improve safety.
 
-#### #### What are the best foods for managing blood sugar during Christmas and New Year shifts?
+#### What are the best foods for managing blood sugar during Christmas and New Year shifts?
 
 Focus on low-glycemic, high-fiber, and protein-balanced options: turkey roll-ups with spinach and hummus, cottage cheese with berries, or a small portion of roasted root vegetables with lentils. Avoid “holiday-only” foods that combine refined carbs + fat + salt (e.g., stuffing, gravy, pie crust), as this trio delays gastric emptying and causes prolonged glucose elevation.
 
-#### #### Does managing blood sugar during holiday shift work affect my blood pressure?
+#### Does managing blood sugar during holiday shift work affect my blood pressure?
 
 Yes—indirectly but significantly. Poor sleep, elevated cortisol, and chronic hyperglycemia all contribute to arterial stiffness and sympathetic nervous system activation, raising systolic and diastolic pressure. Studies show adults with diabetes who report frequent shift-related glucose instability are 1.7× more likely to develop stage 1 hypertension (130–139/80–89 mm Hg) within 12 months.
 
-#### #### Should I adjust my diabetes medications for holiday shifts?
+#### Should I adjust my diabetes medications for holiday shifts?
 
 Never adjust medications on your own—but do consult your provider *before* the holiday rush begins. Some people benefit from temporarily lowering rapid-acting insulin doses for late-night meals or pausing certain oral agents during extended night shifts. Your care team can help determine what’s safe and appropriate for your specific regimen.
 
-#### #### How does lack of sleep during holiday shifts impact blood sugar control?
+#### How does lack of sleep during holiday shifts impact blood sugar control?
 
 Just one night of ≤5 hours’ sleep reduces insulin sensitivity by ~20%, increases evening cortisol by ~37%, and raises next-day fasting glucose by an average of 14 mg/dL. For older adults, recovery takes longer—so protecting sleep, even in short naps (20–30 minutes), supports steadier glucose patterns across the holiday season.

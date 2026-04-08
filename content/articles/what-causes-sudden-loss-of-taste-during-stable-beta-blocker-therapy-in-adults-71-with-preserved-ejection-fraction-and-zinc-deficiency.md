@@ -50,22 +50,22 @@ In most cases, *loss of taste beta blocker therapy seniors* experience is revers
 
 ### FAQ
 
-#### #### Can beta-blockers really cause loss of taste in older adults?
+#### Can beta-blockers really cause loss of taste in older adults?
 
 Yes—while not listed as a top-tier side effect, clinical reports and recent studies suggest up to 8–12% of adults over 70 on beta-blockers notice altered taste, especially with longer treatment duration and concurrent zinc insufficiency.
 
-#### #### Is loss of taste beta blocker therapy seniors related to heart failure progression?
+#### Is loss of taste beta blocker therapy seniors related to heart failure progression?
 
 No. Taste changes in this context are generally *not* linked to worsening ejection fraction or cardiac decompensation. They reflect sensory physiology—not pump function—and often improve with nutritional and medication review.
 
-#### #### Could my ACE inhibitor history be affecting my taste while on beta-blockers now?
+#### Could my ACE inhibitor history be affecting my taste while on beta-blockers now?
 
 Potentially. ACE inhibitors (e.g., lisinopril) are known to cause taste disturbance in ~2–5% of users, and shared ACE2 modulation may extend effects—even after discontinuation—especially in older adults with slower cellular turnover.
 
-#### #### Does zinc supplementation help restore taste during beta-blocker therapy?
+#### Does zinc supplementation help restore taste during beta-blocker therapy?
 
 Evidence is promising but individualized. In trials, correcting zinc deficiency (serum <70 µg/dL) improved taste acuity in 60–70% of older adults within 4–8 weeks—particularly when combined with optimized medication timing.
 
-#### #### When should I bring up taste changes to my cardiologist or primary care provider?
+#### When should I bring up taste changes to my cardiologist or primary care provider?
 
 At your next scheduled visit—or sooner if changes interfere with eating, cause weight loss, or coincide with new fatigue or dizziness. It’s a valid, meaningful part of your health story.

@@ -66,17 +66,17 @@ In short, finding a pattern of reactive hypoglycemia on your OGTT doesn’t mean
 
 ### FAQ
 
-#### #### What does a “reactive hypoglycemia OGTT result” mean for someone over 55?
+#### What does a “reactive hypoglycemia OGTT result” mean for someone over 55?
 A reactive hypoglycemia OGTT result means your blood glucose dropped below 70 mg/dL (often <55 mg/dL) 2–4 hours after drinking the glucose solution—*and* you had symptoms matching that drop. In adults over 55, this is most often due to age-related changes in insulin secretion and sensitivity—not serious disease.
 
-#### #### How is OGTT interpretation reactive hypoglycemia adults different from younger patients?
+#### How is OGTT interpretation reactive hypoglycemia adults different from younger patients?
 Older adults typically show delayed insulin clearance and less robust counter-regulatory hormone responses (like glucagon or epinephrine). So even mild glucose dips may trigger pronounced symptoms—and insulin levels may remain elevated longer. That’s why extended sampling and C-peptide help avoid overdiagnosis.
 
-#### #### Can reactive hypoglycemia show up on OGTT even if HbA1c is normal?
+#### Can reactive hypoglycemia show up on OGTT even if HbA1c is normal?
 Yes—absolutely. Reactive hypoglycemia is a *dynamic* issue: it reflects how your body handles rapid glucose shifts, not your average blood sugar over time. Many people with perfectly normal HbA1c (≤5.6%) have clear reactive patterns on OGTT.
 
-#### #### Is fasting insulin necessary for OGTT interpretation reactive hypoglycemia adults?
+#### Is fasting insulin necessary for OGTT interpretation reactive hypoglycemia adults?
 While not always ordered, fasting insulin adds valuable context—especially when paired with fasting glucose and HOMA-IR. It helps distinguish insulin resistance from beta-cell hyperactivity and supports more precise **OGTT interpretation reactive hypoglycemia adults**.
 
-#### #### What other tests might help rule out insulinoma besides OGTT?
+#### What other tests might help rule out insulinoma besides OGTT?
 If insulinoma is suspected, doctors may check proinsulin, beta-hydroxybutyrate (low during insulin-driven hypoglycemia), and perform a supervised 72-hour fast—the gold standard for diagnosing fasting hypoglycemia. Imaging (like endoscopic ultrasound or Ga-68 DOTATATE PET) is only pursued if biochemical evidence strongly supports it.

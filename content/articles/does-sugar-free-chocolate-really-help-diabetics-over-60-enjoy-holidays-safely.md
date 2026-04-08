@@ -66,17 +66,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Is sugar-free chocolate safe for older adults with diabetes?
+#### Is sugar-free chocolate safe for older adults with diabetes?
 Yes, in moderation—but not all sugar-free chocolates are equal. Products using erythritol or stevia tend to have less impact on blood sugar and digestion than those with maltitol. Always check the label and monitor your glucose response.
 
-#### #### Can sugar-free chocolate raise blood sugar in seniors with type 2 diabetes?
+#### Can sugar-free chocolate raise blood sugar in seniors with type 2 diabetes?
 Yes, some sugar-free chocolates—especially those high in maltitol—can still raise blood glucose. Although lower than regular chocolate, the net carbs from sugar alcohols can add up, particularly with larger portions.
 
-#### #### What are the side effects of eating too much sugar-free chocolate for diabetics over 60?
+#### What are the side effects of eating too much sugar-free chocolate for diabetics over 60?
 Common side effects include bloating, gas, stomach cramps, and diarrhea due to poor absorption of sugar alcohols. Older adults may be more sensitive because of slower digestion and existing gastrointestinal changes.
 
-#### #### How much sugar-free chocolate can a diabetic over 60 eat safely?
+#### How much sugar-free chocolate can a diabetic over 60 eat safely?
 Start with one small serving (e.g., 1–2 squares) and monitor your body’s response. Avoid exceeding 10–15 grams of sugar alcohols per sitting, especially if they include sorbitol or maltitol.
 
-#### #### Are there better alternatives to sugar-free chocolate for healthy holiday eating for seniors?
+#### Are there better alternatives to sugar-free chocolate for healthy holiday eating for seniors?
 Yes. Dark chocolate (70% cocoa or higher) in small amounts, fruit-based desserts, or homemade treats sweetened with cinnamon or vanilla can offer flavor with less risk. Pairing any sweet with protein or fiber also helps balance its impact.

@@ -56,22 +56,22 @@ Deciding between aspirin and colchicine for secondary prevention isn’t about f
 
 ### FAQ
 
-#### #### Is colchicine safer than aspirin for secondary prevention in older adults?
+#### Is colchicine safer than aspirin for secondary prevention in older adults?
 
 Colchicine (0.5 mg daily) has shown a favorable safety profile in adults up to age 85 in clinical trials — with lower rates of major gastrointestinal bleeding than low-dose aspirin (75–100 mg/day). However, it requires careful dosing adjustments in those with kidney or liver impairment.
 
-#### #### What does “aspirin vs colchicine secondary prevention” mean for someone with high hs-CRP?
+#### What does “aspirin vs colchicine secondary prevention” mean for someone with high hs-CRP?
 
 It means comparing two different protective strategies: aspirin mainly prevents clots, while colchicine more directly calms vascular inflammation — especially helpful when hs-CRP is elevated (>2 mg/L). For high-inflammation subgroups, colchicine added to standard care reduces 3-year MACE by about 31%.
 
-#### #### Can I take aspirin and colchicine together for secondary prevention?
+#### Can I take aspirin and colchicine together for secondary prevention?
 
 Current guidelines do not recommend routine dual use outside of clinical trials. Combining them hasn’t been shown to improve outcomes further — and may increase GI side effects. Most experts recommend choosing one based on individual risk factors, including bleeding history and inflammation markers.
 
-#### #### Does colchicine lower blood pressure?
+#### Does colchicine lower blood pressure?
 
 Colchicine does not directly lower BP or arterial pressure. Its benefit lies in reducing inflammation-driven plaque progression — which indirectly supports long-term vascular health and may help stabilize BP control over time.
 
-#### #### How long should I take colchicine for secondary prevention?
+#### How long should I take colchicine for secondary prevention?
 
 In trials like LoDoCo2, participants took colchicine daily for at least 2–3 years with continued benefit. Duration should be personalized — discuss goals and reassessment timing (e.g., repeat hs-CRP at 6–12 months) with your cardiologist.

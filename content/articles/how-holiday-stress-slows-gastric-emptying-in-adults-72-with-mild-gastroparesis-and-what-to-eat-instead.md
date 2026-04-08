@@ -54,17 +54,17 @@ With thoughtful planning, the holidays can remain joyful and digestively comfort
 
 ### FAQ  
 
-#### #### Can holiday stress and gastroparesis in seniors cause vomiting?  
+#### Can holiday stress and gastroparesis in seniors cause vomiting?  
 Yes—acute stress can worsen gastric stasis to the point of gastric retention, triggering reflexive vomiting, especially after large or high-fat meals. This is more common in seniors with preexisting vagal impairment.
 
-#### #### How does holiday stress and gastroparesis in seniors differ from regular indigestion?  
+#### How does holiday stress and gastroparesis in seniors differ from regular indigestion?  
 Regular indigestion (dyspepsia) usually resolves within 1–2 hours and isn’t consistently tied to meal timing or stress triggers. In contrast, gastroparesis-related fullness persists ≥3 hours, often with nausea and no relief from antacids—signaling motility dysfunction rather than acid excess.
 
-#### #### What foods should seniors with mild gastroparesis avoid during holiday meals?  
+#### What foods should seniors with mild gastroparesis avoid during holiday meals?  
 Avoid high-fat items (pan gravy, sausage stuffing, cream-based soups), raw cruciferous vegetables (raw broccoli, cauliflower), nuts, seeds, and carbonated beverages—all shown to delay gastric emptying by ≥40% in clinical trials involving adults 70+.
 
-#### #### Does anxiety raise blood pressure in seniors with gastroparesis?  
+#### Does anxiety raise blood pressure in seniors with gastroparesis?  
 Yes—acute anxiety triggers sympathetic activation, often elevating systolic BP by 10–25 mm Hg. While not directly causing gastroparesis, this hemodynamic shift further suppresses vagal output, creating a dual burden on digestion and cardiovascular regulation.
 
-#### #### Are there medications safe for seniors with holiday stress and gastroparesis?  
+#### Are there medications safe for seniors with holiday stress and gastroparesis?  
 Some prokinetics (e.g., low-dose erythromycin) may be considered short-term under supervision, but many agents carry QT-prolongation or CNS risks in older adults. Non-pharmacologic approaches—timing, texture, and vagal support—are first-line and evidence-supported.

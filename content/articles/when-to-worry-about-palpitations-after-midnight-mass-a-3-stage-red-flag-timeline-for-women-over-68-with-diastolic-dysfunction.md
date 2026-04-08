@@ -58,22 +58,22 @@ In all honesty, **palpitations after midnight mass in elderly women** are often 
 
 ### FAQ
 
-#### #### What causes palpitations after midnight mass in elderly women?
+#### What causes palpitations after midnight mass in elderly women?
 
 Common contributors include caffeine (in coffee, cocoa, or desserts), rich or salty foods, emotional excitement, fatigue, and temporary shifts in fluid balance—all of which can affect heart rhythm or filling, especially in those with diastolic dysfunction.
 
-#### #### Are palpitations after midnight mass in elderly women dangerous?
+#### Are palpitations after midnight mass in elderly women dangerous?
 
 Not usually—but they’re worth noticing. In most cases, they reflect temporary stress on the heart. However, if they’re frequent, prolonged, or paired with shortness of breath, swelling, or fatigue, they may signal that your heart needs extra support during busy times.
 
-#### #### Can holiday heart syndrome happen without alcohol?
+#### Can holiday heart syndrome happen without alcohol?
 
 Yes. While “holiday heart syndrome” was first described with heavy alcohol use, modern understanding includes non-alcoholic triggers—like excess sodium, sleep disruption, and emotional intensity—all relevant to midnight mass and its aftermath.
 
-#### #### How can I tell if my palpitations are from anxiety or something heart-related?
+#### How can I tell if my palpitations are from anxiety or something heart-related?
 
 Anxiety-related palpitations often come with sweating, trembling, or a sense of dread—and tend to ease once the stressful moment passes. Heart-related ones may linger, occur at rest, or accompany other physical signs (like ankle swelling or breathlessness lying flat). When in doubt, gentle monitoring and a conversation with your doctor offer clarity.
 
-#### #### Should I stop attending midnight mass if I have diastolic dysfunction?
+#### Should I stop attending midnight mass if I have diastolic dysfunction?
 
 Not at all. With simple preparations—like staying hydrated, pacing yourself, and resting afterward—you can fully enjoy this meaningful tradition. Many women with diastolic dysfunction attend regularly and thrive—especially when they listen to their bodies and work closely with their care teams.

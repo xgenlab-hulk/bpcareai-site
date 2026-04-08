@@ -73,17 +73,17 @@ FMD is rare—but real, treatable, and often underdiagnosed in women navigating 
 
 ### FAQ  
 
-#### #### Could fibromuscular dysplasia resistant hypertension women be mistaken for anxiety or menopause symptoms?  
+#### Could fibromuscular dysplasia resistant hypertension women be mistaken for anxiety or menopause symptoms?  
 Yes—absolutely. Palpitations, headaches, and BP variability overlap with perimenopausal symptoms and anxiety disorders. That’s why objective signs (like a unilateral bruit or >20 mm Hg inter-arm difference) are so important for distinguishing FMD.
 
-#### #### How common is fibromuscular dysplasia resistant hypertension women in adults over 60?  
+#### How common is fibromuscular dysplasia resistant hypertension women in adults over 60?  
 While FMD incidence declines after age 60, diagnosis often occurs later—up to 25% of cases are identified in women aged 60–68. Resistant hypertension in this group warrants FMD screening, especially with atypical features.
 
-#### #### Is there a blood test for fibromuscular dysplasia resistant hypertension women?  
+#### Is there a blood test for fibromuscular dysplasia resistant hypertension women?  
 No—FMD has no biomarker. Diagnosis relies on imaging (CTA/MRA preferred) and clinical correlation. Blood tests help rule out other secondary causes (e.g., aldosterone, renin, creatinine).
 
-#### #### Can fibromuscular dysplasia cause sudden high blood pressure spikes?  
+#### Can fibromuscular dysplasia cause sudden high blood pressure spikes?  
 Yes—particularly with renal artery stenosis. These spikes may be episodic and linked to posture changes, dehydration, or medication timing. They’re rarely “white coat” in nature and often correlate with symptom flares.
 
-#### #### Does fibromuscular dysplasia run in families?  
+#### Does fibromuscular dysplasia run in families?  
 There’s growing evidence of familial clustering—about 10–15% of FMD patients report a first-degree relative with FMD, carotid dissection, or aneurysm. Genetic counseling isn’t routine yet, but family history matters.

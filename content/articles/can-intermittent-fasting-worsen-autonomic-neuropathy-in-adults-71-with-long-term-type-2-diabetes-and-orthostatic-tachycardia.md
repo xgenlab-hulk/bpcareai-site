@@ -91,22 +91,22 @@ Living well with long-term type 2 diabetes doesn’t require adopting every tren
 
 ### FAQ
 
-#### #### Can intermittent fasting worsen autonomic neuropathy in elderly people with diabetes?
+#### Can intermittent fasting worsen autonomic neuropathy in elderly people with diabetes?
 
 Yes—especially in adults over 70 with long-standing type 2 diabetes. Fasting can amplify sympathetic nervous system activity while further reducing vagal tone, potentially worsening orthostatic tachycardia, blood pressure lability, and gastrointestinal symptoms. This makes *intermittent fasting autonomic neuropathy elderly* a clinically relevant concern requiring personalized evaluation.
 
-#### #### Is intermittent fasting safe for someone with diabetic autonomic neuropathy and orthostatic hypotension?
+#### Is intermittent fasting safe for someone with diabetic autonomic neuropathy and orthostatic hypotension?
 
 Generally, no—without careful assessment and supervision. Orthostatic hypotension reflects impaired baroreflex function, and fasting-induced volume shifts or catecholamine surges may lower BP further or delay recovery on standing. Safer alternatives include consistent, nutrient-dense meals spaced evenly throughout the day.
 
-#### #### What are early warning signs that intermittent fasting is affecting my autonomic nervous system?
+#### What are early warning signs that intermittent fasting is affecting my autonomic nervous system?
 
 Look for: dizziness within 1–2 minutes of standing; heart palpitations at rest or after meals; unexplained fatigue or brain fog in the morning; increased falls or near-falls; and worsening constipation or bladder fullness sensation. These may signal worsening autonomic imbalance related to *intermittent fasting autonomic neuropathy elderly*.
 
-#### #### Does time-restricted eating improve A1C in older adults with diabetes—and is it worth the autonomic risk?
+#### Does time-restricted eating improve A1C in older adults with diabetes—and is it worth the autonomic risk?
 
 Some studies show modest A1C reductions (~0.3–0.6%) with 12–14 hour fasting windows in older adults—but benefits are highly individual and often matched by structured meal timing alone. Given the potential autonomic risks, the trade-off isn’t automatically favorable—especially in those with known neuropathy.
 
-#### #### Are there safer alternatives to intermittent fasting for blood sugar management in seniors with autonomic issues?
+#### Are there safer alternatives to intermittent fasting for blood sugar management in seniors with autonomic issues?
 
 Yes. Prioritizing low-glycemic, high-fiber meals; spreading carbohydrate intake across 3–4 moderate meals; adding resistance exercise (even chair-based); and optimizing hydration and sleep often yield comparable or better glycemic and cardiovascular outcomes—with far less autonomic strain.

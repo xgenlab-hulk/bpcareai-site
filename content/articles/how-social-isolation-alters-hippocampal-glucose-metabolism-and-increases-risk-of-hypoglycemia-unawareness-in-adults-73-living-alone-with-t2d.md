@@ -89,22 +89,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does social isolation hippocampal glucose metabolism affect memory in older adults with diabetes?
+#### Does social isolation hippocampal glucose metabolism affect memory in older adults with diabetes?
 
 Yes—reduced hippocampal glucose metabolism is associated with slower processing speed and mild word-finding delays in adults 73+ with T2D and limited social contact. These changes are often subtle and reversible with increased engagement, not signs of irreversible decline.
 
-#### #### Can improving social connection reverse changes in social isolation hippocampal glucose metabolism?
+#### Can improving social connection reverse changes in social isolation hippocampal glucose metabolism?
 
 Emerging evidence suggests yes. A 12-week intervention combining weekly in-person peer visits and light physical activity showed measurable improvements in hippocampal FDG uptake on PET scans—and correlated with fewer asymptomatic hypoglycemic events in participants with T2D.
 
-#### #### How does social isolation hippocampal glucose metabolism differ from general age-related cognitive change?
+#### How does social isolation hippocampal glucose metabolism differ from general age-related cognitive change?
 
 While normal aging may slightly slow recall, *social isolation hippocampal glucose metabolism* reflects a specific, inflammation-mediated shift in how the hippocampus uses fuel—making it more vulnerable to metabolic stressors like hypoglycemia. It’s distinct from Alzheimer’s pathology and doesn’t imply dementia.
 
-#### #### Is hypoglycemia unawareness only a concern for people on insulin?
+#### Is hypoglycemia unawareness only a concern for people on insulin?
 
 No. While insulin and sulfonylureas carry higher hypoglycemia risk, older adults with T2D—even those managed with diet and metformin—can develop unawareness, especially when social isolation contributes to altered brain glucose sensing.
 
-#### #### What’s the safest blood sugar target for adults over 73 living alone?
+#### What’s the safest blood sugar target for adults over 73 living alone?
 
 Individualized goals are best, but many geriatric guidelines suggest aiming for pre-meal levels between 100–150 mg/dL, with an upper limit of 180 mg/dL to reduce hypoglycemia risk—particularly if living alone or experiencing reduced symptom awareness.

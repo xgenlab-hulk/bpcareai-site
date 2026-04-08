@@ -64,22 +64,22 @@ Improving vascular health doesn’t require extreme measures—even in later lif
 
 ### FAQ
 
-#### #### Does post-dinner walking endothelial function seniors improve even with existing carotid plaque?
+#### Does post-dinner walking endothelial function seniors improve even with existing carotid plaque?
 
 Yes—studies specifically enrolling adults aged 72+ with mild, asymptomatic carotid plaque show measurable acute improvements in flow-mediated dilation after 10-minute walks. The benefit appears strongest when walking begins within 30 minutes of eating and is sustained over several weeks.
 
-#### #### How fast should seniors walk for optimal post-dinner walking endothelial function?
+#### How fast should seniors walk for optimal post-dinner walking endothelial function?
 
 For most adults over 70, a gait speed of 2.0–2.5 km/h (about 1.2–1.6 mph) is ideal—roughly a relaxed, conversational pace. Slower speeds (<1.8 km/h) produce diminished shear stress; faster speeds (>3.0 km/h) offer no additional endothelial benefit and increase fall risk in this age group.
 
-#### #### Is post-dinner walking endothelial function seniors affected by cold weather?
+#### Is post-dinner walking endothelial function seniors affected by cold weather?
 
 Yes—ambient temperature significantly influences outcomes. RCT data show that walking outdoors below 10°C (50°F) reduces the typical FMD improvement by up to 30%, likely due to competing vasoconstrictive signals. Indoor walking at 18–22°C (65–72°F) yields the most reliable results.
 
-#### #### Can I substitute post-dinner walking with other light activities like stretching or seated cycling?
+#### Can I substitute post-dinner walking with other light activities like stretching or seated cycling?
 
 Not equivalently. While gentle movement is beneficial, only rhythmic, weight-bearing ambulation generates the consistent laminar shear stress needed to trigger nitric oxide–mediated endothelial responses. Seated cycling or stretching may support joint mobility or circulation—but current evidence does not show comparable FMD effects in seniors.
 
-#### #### Do holiday foods cancel out the benefits of post-dinner walking endothelial function seniors?
+#### Do holiday foods cancel out the benefits of post-dinner walking endothelial function seniors?
 
 Not entirely—but meal composition matters. High-saturated-fat or high-glycemic meals blunt the endothelial response, reducing the magnitude (though not eliminating) the walking benefit. Pairing your walk with balanced holiday meals—emphasizing vegetables, lean protein, and whole grains—preserves and even amplifies the effect.

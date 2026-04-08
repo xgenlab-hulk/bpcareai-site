@@ -40,22 +40,22 @@ In short, enjoying turkey during the holidays doesn’t mean choosing between jo
 
 ### FAQ
 
-#### #### Does roasting turkey preserve more zinc than frying for older adults?
+#### Does roasting turkey preserve more zinc than frying for older adults?
 
 Yes—roasting at moderate temperatures helps maintain zinc in its bioavailable form, while deep-frying introduces oxidative stress that may reduce absorption efficiency by 15–20% in adults over 65.
 
-#### #### How does turkey preparation zinc bioavailability seniors impact immune function during winter?
+#### How does turkey preparation zinc bioavailability seniors impact immune function during winter?
 
 Optimal zinc absorption supports T-cell development and neutrophil function—both of which decline with age. Choosing preparations that maximize bioavailability (like slow-roasted breast) helps maintain these defenses when seasonal respiratory challenges are most common.
 
-#### #### Is turkey preparation zinc bioavailability seniors affected by cooking time?
+#### Is turkey preparation zinc bioavailability seniors affected by cooking time?
 
 Moderate cooking time enhances digestibility and zinc release—but excessively long roasting (e.g., >4 hours at low temps) or charring can degrade amino acids needed for zinc transport. Aim for tender, moist meat without browning beyond light golden.
 
-#### #### Can adding lemon or herbs to roasted turkey improve zinc absorption?
+#### Can adding lemon or herbs to roasted turkey improve zinc absorption?
 
 Yes—citrus and mild acidic marinades (like lemon juice or apple cider vinegar) gently increase stomach-like acidity in the meal matrix, supporting zinc solubilization. Fresh herbs like rosemary also contain antioxidants that may counteract minor oxidative effects from cooking.
 
-#### #### Should seniors with low stomach acid avoid turkey altogether?
+#### Should seniors with low stomach acid avoid turkey altogether?
 
 Not at all. In fact, well-cooked turkey remains one of the best natural zinc sources for seniors. Pairing it with fermented foods (e.g., sauerkraut) or a small splash of vinegar at mealtime can help compensate for lower gastric acid—making **turkey preparation zinc bioavailability seniors** more reliable without supplements.

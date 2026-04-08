@@ -76,22 +76,22 @@ Holiday traditions matter—and so does honoring your body’s changing needs wi
 
 ### FAQ
 
-#### #### Is “diabetes-friendly hot chocolate kidney risk” something I need to worry about if my kidney function is only mildly reduced?
+#### Is “diabetes-friendly hot chocolate kidney risk” something I need to worry about if my kidney function is only mildly reduced?
 
 Yes—even with mild CKD (eGFR 60–89), phosphorus retention begins subtly, and the cumulative effect of frequent low-grade osmotic stress or caffeine-mediated renal vasoconstriction adds up over time. Early awareness helps prevent progression.
 
-#### #### What makes “diabetes-friendly hot chocolate kidney risk” different for someone over 70 versus younger adults with diabetes?
+#### What makes “diabetes-friendly hot chocolate kidney risk” different for someone over 70 versus younger adults with diabetes?
 
 Older adults experience slower drug clearance, reduced intestinal water reabsorption, and age-related decline in glomerular filtration rate—even within the “normal” range. These changes mean compounds like maltitol and phosphorus exert greater physiological impact at lower doses.
 
-#### #### Can I still drink store-bought “sugar-free” hot cocoa if I have CKD and take metformin?
+#### Can I still drink store-bought “sugar-free” hot cocoa if I have CKD and take metformin?
 
 It depends on formulation. Many contain maltitol *and* phosphate additives *and* caffeine—three risk amplifiers. If you choose one, limit to half a serving, drink extra water, avoid taking it within 3 hours of metformin, and check the ingredient list carefully. Homemade versions remain the safest default.
 
-#### #### Does decaf hot cocoa eliminate the diabetes-friendly hot chocolate kidney risk?
+#### Does decaf hot cocoa eliminate the diabetes-friendly hot chocolate kidney risk?
 
 Decaf reduces—but doesn’t eliminate—the risk. Phosphorus load and maltitol content remain unchanged. Decaf is preferable to regular cocoa if caffeine sensitivity or BP concerns are present, but label review is still essential.
 
-#### #### Are there any kidney-safe cocoa brands recommended for people on metformin?
+#### Are there any kidney-safe cocoa brands recommended for people on metformin?
 
 No brand is universally “recommended,” as formulations change frequently and labeling remains inconsistent. Instead, focus on verifying three criteria: no sugar alcohols (especially maltitol), no phosphate additives, and <10 mg caffeine per serving. Brands listing “organic cocoa, stevia, natural flavors” with no added phosphates are generally safer starting points—but always verify via full ingredient disclosure.

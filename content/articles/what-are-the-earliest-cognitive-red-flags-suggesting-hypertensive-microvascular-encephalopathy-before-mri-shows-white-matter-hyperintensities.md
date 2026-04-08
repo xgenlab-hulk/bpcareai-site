@@ -77,17 +77,17 @@ Cognitive red flags hypertensive microvascular encephalopathy are meaningful sig
 
 ### FAQ
 
-#### #### What are the earliest signs of hypertensive microvascular encephalopathy before MRI changes?
+#### What are the earliest signs of hypertensive microvascular encephalopathy before MRI changes?
 The earliest signs include slowed verbal fluency timing (e.g., longer pauses between words), inconsistent dual-task gait (like stumbling while counting aloud), and fluctuating processing speed—often appearing months before white matter hyperintensities show on MRI.
 
-#### #### Can cognitive red flags hypertensive microvascular encephalopathy appear even with controlled blood pressure?
+#### Can cognitive red flags hypertensive microvascular encephalopathy appear even with controlled blood pressure?
 Yes. Clinic-based readings can miss nocturnal hypertension, morning surges, or visit-to-visit variability—all linked to early microvascular injury. Ambulatory BP monitoring often reveals patterns that home or office checks miss.
 
-#### #### Are cognitive red flags hypertensive microvascular encephalopathy reversible?
+#### Are cognitive red flags hypertensive microvascular encephalopathy reversible?
 Evidence suggests early-stage changes *can* stabilize or improve with rigorous BP control (targeting <130/80 mm Hg for many over 60), aerobic exercise, and improved sleep—especially before structural MRI changes emerge.
 
-#### #### How is hypertensive microvascular encephalopathy different from Alzheimer’s disease?
+#### How is hypertensive microvascular encephalopathy different from Alzheimer’s disease?
 It primarily affects executive function, processing speed, and gait—not episodic memory first. It’s driven by small-vessel pathology (not amyloid plaques), and progression is strongly tied to vascular risk management.
 
-#### #### Does anxiety cause similar cognitive red flags?
+#### Does anxiety cause similar cognitive red flags?
 Anxiety can mimic some symptoms (e.g., mental slowing), but it typically doesn’t produce the specific dual-task gait inconsistency or verbal fluency timing delays seen in early hypertensive microvascular encephalopathy. A thorough clinical evaluation helps distinguish causes.

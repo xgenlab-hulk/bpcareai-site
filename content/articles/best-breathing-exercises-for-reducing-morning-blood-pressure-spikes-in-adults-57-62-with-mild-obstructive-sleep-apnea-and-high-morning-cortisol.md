@@ -87,22 +87,22 @@ Managing morning blood pressure spikes isn’t about achieving perfection—it�
 
 ### FAQ
 
-#### #### Can breathing exercises really lower morning blood pressure spikes—or is it just placebo?
+#### Can breathing exercises really lower morning blood pressure spikes—or is it just placebo?
 
 Yes—multiple randomized trials confirm clinically meaningful reductions. A 2022 study in *Hypertension* found that adults aged 55–65 with mild OSA who practiced 5.5-breaths-per-minute coherence breathing for 10 minutes each morning reduced their mean morning systolic BP surge by 11.3 mm Hg after six weeks—significantly more than the control group (p<0.001). Neuroimaging also shows reduced amygdala reactivity and increased prefrontal inhibition of sympathetic output.
 
-#### #### What’s the best breathing exercise for morning blood pressure spike in someone with sleep apnea?
+#### What’s the best breathing exercise for morning blood pressure spike in someone with sleep apnea?
 
 The most evidence-supported approach combines *pre-awakening 4-7-8 breathing* (to prime vagal tone) followed by *morning pursed-lip breathing* (to stabilize airway pressure and prevent hypoxia-triggered norepinephrine release). Together, they address both neural and mechanical contributors to the surge in mild OSA.
 
-#### #### How soon can I expect to see results from breathing exercises morning blood pressure spike?
+#### How soon can I expect to see results from breathing exercises morning blood pressure spike?
 
 Most adults notice subtle shifts—like less morning stiffness or improved mental clarity—within 3–5 days. Objective BP changes typically emerge after 2–3 weeks of consistent daily practice (≥5 days/week). Full autonomic adaptation—measured via HRV improvement and cortisol normalization—usually takes 6–8 weeks.
 
-#### #### Do I need to stop caffeine or change my diet to make breathing exercises work?
+#### Do I need to stop caffeine or change my diet to make breathing exercises work?
 
 No—but timing matters. Avoid practicing breathing techniques *immediately after* caffeine, which can blunt vagal response. Wait at least 30–45 minutes post-coffee. Dietary changes aren’t required for the breathing to work, though reducing added sugars and evening sodium supports overall BP regulation and complements the practice.
 
-#### #### Is there a risk of lowering blood pressure too much with these exercises?
+#### Is there a risk of lowering blood pressure too much with these exercises?
 
 Not when practiced as described. These techniques modulate *excessive* sympathetic tone—not baseline function. They do not cause hypotension in normotensive individuals, and studies show no episodes of orthostatic hypotension or syncope in adults aged 57–62 using paced breathing protocols. As always, discuss major lifestyle changes with your healthcare provider if you’re on antihypertensive medication.

@@ -38,17 +38,17 @@ In summary, light therapy is a gentle, research-supported tool—not a substitut
 
 ### FAQ
 
-#### #### What are the best light therapy lamps for seniors with low vision?  
+#### What are the best light therapy lamps for seniors with low vision?  
 Seniors with early cataracts or mild macular changes benefit from lamps with broad, even diffusion and adjustable brightness (e.g., 2,500–5,000 lux range). Look for models with large, edge-lit panels and matte finishes to minimize glare. Always pair use with regular ophthalmologic evaluation.
 
-#### #### Are there best light therapy lamps for seniors that don’t cause eye strain?  
+#### Are there best light therapy lamps for seniors that don’t cause eye strain?  
 Yes—lamps designed with full-spectrum, UV-free LEDs and anti-glare diffusers significantly reduce ocular stress. Geriatric therapists recommend avoiding compact, high-intensity units with narrow beams and instead choosing wider, lower-intensity panels used at arm’s length.
 
-#### #### Can light therapy help with seasonal depression in older adults who live in assisted living?  
+#### Can light therapy help with seasonal depression in older adults who live in assisted living?  
 Absolutely. Many assisted living facilities now incorporate scheduled light therapy into wellness programs. Portable, plug-in models with simple controls work well in shared or limited-space environments—and group sessions can enhance social engagement alongside biological benefits.
 
-#### #### How long does it take for light therapy to work for older adults?  
+#### How long does it take for light therapy to work for older adults?  
 Most seniors begin noticing improvements in energy and mood within 2–4 weeks of consistent daily use. Full benefits—including stabilized sleep timing—may take 6–8 weeks. Patience and routine are key.
 
-#### #### Is light therapy safe for seniors taking blood pressure medication?  
+#### Is light therapy safe for seniors taking blood pressure medication?  
 Yes—light therapy has no known interactions with antihypertensive drugs. However, because improved sleep and reduced stress may influence BP regulation, continue routine monitoring and share observations with your care team.

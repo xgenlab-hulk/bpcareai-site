@@ -55,17 +55,17 @@ In short, enjoying nourishing, comforting soups this holiday season doesn’t re
 
 ### FAQ
 
-#### #### Are holiday soups really risky for seniors taking ACE inhibitors?
+#### Are holiday soups really risky for seniors taking ACE inhibitors?
 Yes—especially when made with high-sodium ingredients like bouillon, canned beans, or smoked meats. *High sodium holiday soups seniors ace inhibitors* can interfere with medication effectiveness and raise BP or fluid retention risks.
 
-#### #### What’s a safe daily sodium target for seniors on ARBs during the holidays?
+#### What’s a safe daily sodium target for seniors on ARBs during the holidays?
 Most adults over 50 should aim for ≤1,500 mg/day—particularly those on ARBs or ACE inhibitors. Even brief spikes above 2,000 mg can trigger measurable BP increases within 24–48 hours.
 
-#### #### Can I still enjoy traditional holiday stews if I’m watching sodium for heart health?
+#### Can I still enjoy traditional holiday stews if I’m watching sodium for heart health?
 Absolutely—with smart substitutions: homemade broth, dried (not canned) beans, fresh herbs instead of salt, and unsmoked lean proteins. Focus on *healthy holiday eating for seniors*: flavorful, familiar, and physiologically supportive.
 
-#### #### Do “low-sodium” soup labels guarantee safety for people on blood pressure meds?
+#### Do “low-sodium” soup labels guarantee safety for people on blood pressure meds?
 Not necessarily. “Low sodium” means ≤140 mg per serving—but a full bowl may contain multiple servings. Always check the “servings per container” and total sodium per prepared portion.
 
-#### #### How does sodium affect kidney function in seniors on ACE inhibitors?
+#### How does sodium affect kidney function in seniors on ACE inhibitors?
 ACE inhibitors help protect kidney function—but high sodium intake blunts this benefit, increases intraglomerular pressure, and may accelerate decline in those with existing CKD. Monitoring sodium remains a cornerstone of renal-angiotensin safety.

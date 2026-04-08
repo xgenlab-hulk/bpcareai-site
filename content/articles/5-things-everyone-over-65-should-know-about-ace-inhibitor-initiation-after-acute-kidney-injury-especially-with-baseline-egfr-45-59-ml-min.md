@@ -71,22 +71,22 @@ For many seniors, ACE inhibitor post-aki kidney recovery isn’t just safe—it�
 
 ### FAQ
 
-#### #### Can I restart my ACE inhibitor after AKI if my eGFR is still 48 mL/min?
+#### Can I restart my ACE inhibitor after AKI if my eGFR is still 48 mL/min?
 
 Yes—if your eGFR has stabilized or improved for ≥48 hours, potassium is <5.0 mmol/L, and you’re not volume-depleted. An eGFR of 48 mL/min falls within the target range for safe restart in Stage 3a CKD, especially with documented recovery momentum.
 
-#### #### How long should I wait before restarting ACE inhibitors after AKI?
+#### How long should I wait before restarting ACE inhibitors after AKI?
 
 There’s no fixed “waiting period.” Timing depends on recovery—not calendar days. Most clinicians initiate reintroduction between **7–14 days post-AKI**, provided creatinine has plateaued or declined and volume status is optimal. Delaying unnecessarily increases cardiovascular risk.
 
-#### #### What’s the safest potassium monitoring window after restarting an ACE inhibitor post-AKI?
+#### What’s the safest potassium monitoring window after restarting an ACE inhibitor post-AKI?
 
 The highest-risk window for hyperkalemia is **Days 3–10** after restarting. Check potassium at Day 3 and Day 7. If normal, repeat at Day 14. Continue monitoring every 2–4 weeks for 3 months, especially if using ARBs, potassium-sparing diuretics, or supplements.
 
-#### #### Does age alone make ACE inhibitor post-aki kidney recovery unsafe?
+#### Does age alone make ACE inhibitor post-aki kidney recovery unsafe?
 
 No. Age increases vulnerability to AKI and drug accumulation, but it doesn’t preclude safe reintroduction. What matters more is frailty status, comorbidities (e.g., diabetes, heart failure), polypharmacy, and how well kidney function recovers—not chronological age.
 
-#### #### Are there alternatives if ACE inhibitors can’t be restarted?
+#### Are there alternatives if ACE inhibitors can’t be restarted?
 
 Yes—ARBs (angiotensin receptor blockers like losartan) offer similar benefits with slightly lower hyperkalemia risk. In select cases, newer agents like finerenone (a nonsteroidal MRA) may be considered, particularly with diabetic kidney disease and albuminuria—but always under nephrology guidance.

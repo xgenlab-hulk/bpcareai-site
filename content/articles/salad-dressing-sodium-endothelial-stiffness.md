@@ -84,22 +84,22 @@ Your commitment to eating well—especially in the warm, shared moments of famil
 
 ### FAQ
 
-#### #### Does salad dressing sodium endothelial stiffness affect everyone—or just older adults?
+#### Does salad dressing sodium endothelial stiffness affect everyone—or just older adults?
 
 Salad dressing sodium endothelial stiffness is most clinically relevant for adults 65+, especially those with existing hypertension, diabetes, or chronic kidney disease. Younger, healthy individuals typically compensate more easily—but repeated high-sodium meals over decades still contribute to cumulative endothelial wear.
 
-#### #### Can I reverse salad dressing sodium endothelial stiffness with diet changes alone?
+#### Can I reverse salad dressing sodium endothelial stiffness with diet changes alone?
 
 Yes—often meaningfully. Studies show that reducing daily sodium by 600–1,000 mg for 8–12 weeks improves flow-mediated dilation (FMD) by 4–7% in adults 70+, particularly when paired with potassium-rich foods and regular movement. It’s never too late to support your endothelium.
 
-#### #### Are “no salt added” dressings always safe for people with arterial stiffness?
+#### Are “no salt added” dressings always safe for people with arterial stiffness?
 
 Not necessarily. “No salt added” refers only to *added* sodium chloride—not naturally occurring sodium in ingredients like tomato paste, soy sauce, or fermented vinegars. Always check the *total sodium* listed on the Nutrition Facts panel—not marketing claims.
 
-#### #### How much sodium is too much in a single salad dressing serving for someone with Stage 1 hypertension?
+#### How much sodium is too much in a single salad dressing serving for someone with Stage 1 hypertension?
 
 For adults with Stage 1 hypertension, aim for ≤140 mg sodium *per serving*—ideally ≤90 mg. That’s equivalent to about 1/8 tsp of table salt. Many bottled dressings exceed 400 mg per standard 2-Tbsp serving, making them high-risk for acute endothelial stress.
 
-#### #### What’s the link between salad dressing sodium endothelial stiffness and pulse-wave velocity?
+#### What’s the link between salad dressing sodium endothelial stiffness and pulse-wave velocity?
 
 Pulse-wave velocity (PWV) measures how fast pressure waves travel through arteries—a direct indicator of stiffness. Higher sodium intake triggers fluid shifts and smooth muscle constriction, raising PWV. In clinical studies, a single 500-mg sodium load from dressing increased cfPWV by 0.8–1.2 m/sec in older adults with early hypertension—crossing into the “moderately increased stiffness” range.

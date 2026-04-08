@@ -64,17 +64,17 @@ In short, while low-dose naltrexone and blood pressure arthritis is still an evo
 
 ### FAQ
 
-#### #### Does low-dose naltrexone lower blood pressure in people with arthritis?  
+#### Does low-dose naltrexone lower blood pressure in people with arthritis?  
 LDN isn’t a direct antihypertensive, but emerging reports suggest it may *stabilize* BP—particularly reducing excessive variability—by calming immune-driven endothelial inflammation. It rarely causes large drops in average BP, which is why it’s sometimes considered for those with fluctuating readings alongside RA.
 
-#### #### Can low-dose naltrexone and blood pressure arthritis be used together safely?  
+#### Can low-dose naltrexone and blood pressure arthritis be used together safely?  
 Yes—when carefully supervised. LDN has minimal interactions with most antihypertensives and RA medications (like methotrexate), but coordination between your providers is essential. Avoid LDN if you’re taking opioids or have acute hepatitis.
 
-#### #### Is low-dose naltrexone and blood pressure arthritis supported by clinical trials?  
+#### Is low-dose naltrexone and blood pressure arthritis supported by clinical trials?  
 No large-scale RCTs exist yet specifically for this combination—but several pilot studies (e.g., 2022 pilot in *Journal of Clinical Rheumatology*) observed improved endothelial function and reduced CRP in RA patients on LDN. Research is ongoing.
 
-#### #### How long before LDN affects vascular symptoms in RA?  
+#### How long before LDN affects vascular symptoms in RA?  
 Most people report subtle shifts—like steadier energy, fewer morning BP spikes, or improved joint stiffness—within 4–8 weeks. Endothelial improvements may take 3+ months to become measurable via FMD or ABPM.
 
-#### #### Does LDN help with arterial stiffness in older adults with autoimmune disease?  
+#### Does LDN help with arterial stiffness in older adults with autoimmune disease?  
 Preliminary data suggests yes—by reducing TNF-α and improving NO signaling, LDN may slow age- and inflammation-related increases in pulse wave velocity (PWV), a marker of arterial stiffness. Larger studies are needed.

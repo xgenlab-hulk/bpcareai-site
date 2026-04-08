@@ -90,22 +90,22 @@ Winter doesn’t have to mean compromise—just consciousness. Your body is wise
 
 ### FAQ
 
-#### #### Does salt intake in winter really raise blood pressure more than in summer?
+#### Does salt intake in winter really raise blood pressure more than in summer?
 
 Yes—for many people over 50, it *can*. Research shows average systolic BP increases by 3–5 mm Hg between summer and winter months. While cold-induced vasoconstriction plays a role, the bigger contributor is often increased consumption of processed, canned, and restaurant-style foods—plus reduced intake of potassium-rich produce—during colder months.
 
-#### #### How much sodium is safe for seniors during winter?
+#### How much sodium is safe for seniors during winter?
 
 The American Heart Association recommends no more than 1,500 mg per day for adults with hypertension or those over 50. For reference: 1 teaspoon of table salt contains ~2,300 mg of sodium—so even modest additions add up quickly. Focus on whole foods, read labels carefully, and aim to keep *each meal* under 500 mg sodium.
 
-#### #### Can cutting back on salt intake in winter lower my blood pressure quickly?
+#### Can cutting back on salt intake in winter lower my blood pressure quickly?
 
 Many people see measurable improvements in 2–4 weeks. In clinical trials, reducing sodium by ~1,000 mg/day lowered systolic BP by an average of 5–6 mm Hg in adults with hypertension. The effect tends to be more pronounced in Black adults, older adults, and those with diabetes or CKD.
 
-#### #### Are there winter foods that naturally help balance sodium?
+#### Are there winter foods that naturally help balance sodium?
 
 Absolutely! Potassium-rich options include baked sweet potatoes (542 mg per medium potato), cooked spinach (839 mg per cup), white beans (502 mg per ½ cup), bananas (422 mg each), and plain nonfat yogurt (579 mg per cup). These help your kidneys excrete excess sodium and relax blood vessel walls.
 
-#### #### Do hot drinks like tea or coffee affect salt intake in winter?
+#### Do hot drinks like tea or coffee affect salt intake in winter?
 
 Not directly—but very hot beverages can sometimes mask thirst cues, leading to unintentional under-hydration. Also, some flavored or instant coffees contain added sodium (up to 100 mg per packet). Stick to plain hot water, herbal teas, or black coffee—and watch for “seasonal” drinks with added syrups or powdered mixes.

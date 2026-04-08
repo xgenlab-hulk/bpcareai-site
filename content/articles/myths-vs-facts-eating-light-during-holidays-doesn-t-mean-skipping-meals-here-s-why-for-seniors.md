@@ -79,22 +79,22 @@ The holidays are about connection—not calculation. You don’t need to fast, s
 
 ### FAQ
 
-#### #### Is “eating light” during the holidays safe for seniors with high blood pressure?
+#### Is “eating light” during the holidays safe for seniors with high blood pressure?
 
 Yes—if it means choosing lower-sodium, potassium-rich foods (like baked salmon, spinach, sweet potatoes) and limiting ultra-processed snacks and canned soups. But “eating light” should *never* mean skipping meals, which can cause BP fluctuations—especially if you’re on antihypertensive meds. Steady, balanced meals help keep arterial pressure more stable throughout the day.
 
-#### #### What does “eating light holiday seniors myths” really get wrong about protein?
+#### What does “eating light holiday seniors myths” really get wrong about protein?
 
 It wrongly assumes that less food = healthier aging. In truth, low protein intake is linked to accelerated muscle loss (sarcopenia), slower recovery, and weaker immunity. Seniors need *more*, not less, high-quality protein—even during festive times. Think: grilled shrimp on appetizer skewers, lentil soup instead of cream-based chowder, or turkey-stuffed mushrooms instead of plain crackers.
 
-#### #### Can skipping meals during holiday parties increase fall risk for older adults?
+#### Can skipping meals during holiday parties increase fall risk for older adults?
 
 Yes—absolutely. Skipping meals raises the risk of hypoglycemia, orthostatic hypotension (a BP drop when standing), and muscle weakness—all of which contribute to falls. One study found that adults over 70 who skipped breakfast had a **20% higher fall rate** over the following month compared to those who ate regularly. Consistent fueling supports balance, alertness, and strength.
 
-#### #### Are holiday “detox” teas or juice cleanses safe for seniors?
+#### Are holiday “detox” teas or juice cleanses safe for seniors?
 
 No. These are not supported by science—and can be dangerous for older adults. They often lack protein and electrolytes, disrupt medication timing, and may interact with heart or kidney medications. There’s no evidence the body needs “detoxing” when organs like the liver and kidneys are healthy—and for seniors, these cleanses increase dehydration and frailty risk.
 
-#### #### How can I tell if my “eating light” habit is actually causing low blood sugar?
+#### How can I tell if my “eating light” habit is actually causing low blood sugar?
 
 Watch for subtle signs *before* meals: sweating, shakiness, sudden hunger, trouble concentrating, or feeling anxious or irritable. If these improve within 15 minutes of eating something with carbs *and* protein (like half a banana with peanut butter), low blood sugar may be the cause. A home glucose monitor can help confirm—but always discuss patterns with your provider.

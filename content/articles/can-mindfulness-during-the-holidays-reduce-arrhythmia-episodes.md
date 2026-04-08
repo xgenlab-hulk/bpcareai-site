@@ -43,22 +43,22 @@ In closing, supporting your heart during the holidays doesn’t mean perfection 
 
 ### FAQ
 
-#### #### Can mindfulness really reduce holiday-triggered arrhythmias?
+#### Can mindfulness really reduce holiday-triggered arrhythmias?
 
 Yes — multiple studies, including a 2022 randomized trial in *JAMA Internal Medicine*, found that participants over 50 practicing guided mindfulness for 10 minutes daily saw a 28% reduction in self-reported palpitation frequency over six weeks compared to controls. While not a replacement for medical treatment, it’s a safe, accessible complement.
 
-#### #### Does “mindfulness holiday arrhythmia” apply to people without diagnosed heart disease?
+#### Does “mindfulness holiday arrhythmia” apply to people without diagnosed heart disease?
 
 Absolutely. Many adults experience benign, stress-responsive palpitations during the holidays — often labeled “holiday heart syndrome” even without underlying disease. Mindfulness helps regulate the autonomic nervous system, making it relevant for prevention and reassurance alike.
 
-#### #### What’s the best type of mindfulness for reducing arrhythmia episodes during Christmas?
+#### What’s the best type of mindfulness for reducing arrhythmia episodes during Christmas?
 
 Breath-focused practices (like 4-7-8 breathing) and body scan meditations show the strongest evidence for calming cardiac reactivity. Consistency matters more than duration — even 3–5 minutes daily builds nervous system resilience over time.
 
-#### #### Is holiday heart syndrome preventable with natural remedies?
+#### Is holiday heart syndrome preventable with natural remedies?
 
 Yes — lifestyle-based prevention is well-supported. Key strategies include moderating alcohol (especially binge drinking), managing sodium intake (<2,300 mg/day), prioritizing sleep, and incorporating mindfulness. These align with the broader category of *natural-remedies* and *holiday heart syndrome prevention*.
 
-#### #### How soon before the holidays should I start mindfulness to see benefits?
+#### How soon before the holidays should I start mindfulness to see benefits?
 
 Research suggests beginning 2–4 weeks ahead allows time for measurable shifts in heart rate variability and perceived stress. But starting anytime — even Christmas Eve — offers real, gentle support. Your heart responds to kindness, not deadlines.

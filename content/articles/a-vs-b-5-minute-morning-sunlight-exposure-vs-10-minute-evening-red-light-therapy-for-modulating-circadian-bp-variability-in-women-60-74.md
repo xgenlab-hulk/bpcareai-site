@@ -92,22 +92,22 @@ Your body has spent decades learning how to adapt—and it’s still learning. T
 
 ### FAQ
 
-#### #### Is sunlight vs red light for blood pressure really supported by science?
+#### Is sunlight vs red light for blood pressure really supported by science?
 
 Yes—though research is still evolving. Multiple peer-reviewed studies (including randomized trials in adults 60+) show that timed light exposure influences autonomic nervous system markers like HRV and cortisol rhythm, both of which modulate BP variability. Morning sunlight improves circadian alignment; evening red light enhances parasympathetic recovery. Neither replaces medication when needed—but both are safe, low-risk complements.
 
-#### #### Which is better for lowering morning blood pressure: sunlight or red light?
+#### Which is better for lowering morning blood pressure: sunlight or red light?
 
 For reducing the *morning surge*, morning sunlight tends to have a more direct effect—by reinforcing cortisol timing and melanopsin-driven alertness signaling. Red light works more indirectly, supporting overnight recovery so the *next* morning’s rise begins from a lower baseline. So for immediate morning SBP concerns, sunlight is often the first-line non-pharmacological strategy—but many women benefit from using both.
 
-#### #### Can I use sunlight vs red light for blood pressure if I take hypertension medication?
+#### Can I use sunlight vs red light for blood pressure if I take hypertension medication?
 
 Absolutely—and many do safely. Light therapies don’t interfere with common antihypertensives (e.g., ACE inhibitors, calcium channel blockers). In fact, some clinicians observe that patients using consistent morning light may stabilize on lower doses over time—though dosage adjustments should *always* be guided by your provider and verified with home monitoring.
 
-#### #### Does red light therapy raise blood pressure?
+#### Does red light therapy raise blood pressure?
 
 No credible evidence suggests red light raises BP. On the contrary, studies report modest reductions in systolic pressure (average 3–5 mm Hg) and improved HRV after several weeks of evening use—likely due to enhanced nitric oxide bioavailability and vagal tone.
 
-#### #### How long before I notice changes in my blood pressure rhythm?
+#### How long before I notice changes in my blood pressure rhythm?
 
 Most people begin seeing subtle shifts—like steadier morning readings or less dizziness upon rising—in 2–4 weeks. Full circadian realignment may take 6–8 weeks of consistent practice. Patience and gentle consistency matter more than intensity.

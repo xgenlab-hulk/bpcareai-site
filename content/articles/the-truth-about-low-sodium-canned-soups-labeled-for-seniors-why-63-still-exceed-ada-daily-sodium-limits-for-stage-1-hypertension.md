@@ -58,22 +58,22 @@ In short: “low sodium” labels are helpful starting points — not guarantees
 
 ### FAQ
 
-#### #### Is “low sodium canned soup sodium truth” really that different from regular soup?
+#### Is “low sodium canned soup sodium truth” really that different from regular soup?
 
 Yes — but not always in the way you’d hope. While many low-sodium soups do contain less salt than standard versions, our lab analysis showed that over 60% still exceed the 1,500 mg/day target for adults with Stage 1 hypertension. The difference often lies in portion assumptions and hidden sodium additives — not just table salt.
 
-#### #### What does “low sodium canned soup sodium truth” mean for someone with high blood pressure?
+#### What does “low sodium canned soup sodium truth” mean for someone with high blood pressure?
 
 It means label claims alone aren’t enough. For BP management, focus on *total sodium per serving you actually eat*, not just the “per ½ cup” line. Consistently exceeding 1,500 mg/day can blunt the effectiveness of lifestyle changes and medications — and keep arterial pressure higher than needed.
 
-#### #### Are there truly low sodium canned soups under 300 mg per can?
+#### Are there truly low sodium canned soups under 300 mg per can?
 
 Yes — but they’re rare on mainstream shelves. Look for brands specializing in renal or cardiac diets, or check store-brand “no salt added” varieties (then verify total sodium per can). Always double-check — some “no salt added” soups still contain 400–600 mg due to natural sodium in ingredients.
 
-#### #### Does sodium in soup affect blood pressure immediately?
+#### Does sodium in soup affect blood pressure immediately?
 
 Not usually — but regular excess intake contributes to fluid retention and gradual arterial stiffness, raising baseline BP over weeks and months. That’s why consistency matters more than any single meal.
 
-#### #### Can I reduce sodium in canned soup at home?
+#### Can I reduce sodium in canned soup at home?
 
 Absolutely. Draining and rinsing reduces sodium by ~30–40%. Simmering with extra water and straining helps too — though flavor dilution may occur. Better yet: use low-sodium broth as a base and add fresh or frozen veggies and lean protein.

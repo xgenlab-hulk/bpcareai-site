@@ -1,0 +1,269 @@
+{
+  "metadata": {
+    "created_date": "2026-03-23",
+    "batch_id": "batch-011",
+    "total_redirects": 50,
+    "batches_covered": [
+      "batch-011"
+    ],
+    "articles_range": "346-395",
+    "note": "All articles with slug changes - corrected count"
+  },
+  "redirects": [
+    {
+      "source": "/articles/women-holiday-heart-syndrome-menopause",
+      "destination": "/articles/holiday-heart-syndrome-women-67",
+      "permanent": true
+    },
+    {
+      "source": "/articles/traffic-vibration-baroreceptor-sensitivity-hypertension",
+      "destination": "/articles/traffic-noise-bp-sleep-65-70",
+      "permanent": true
+    },
+    {
+      "source": "/articles/subclinical-aortic-stenosis-blood-pressure-masking",
+      "destination": "/articles/normal-bp-hiding-valve-stenosis-75",
+      "permanent": true
+    },
+    {
+      "source": "/articles/simple-steps-to-normalize-post-exercise-blood-pressure-recovery-time-in-adults-60-with-metabolic-syndrome-and-subclinical-diastolic-impairment",
+      "destination": "/articles/bp-recovery-after-exercise-60",
+      "permanent": true
+    },
+    {
+      "source": "/articles/post-meal-walking-atrial-stretch",
+      "destination": "/articles/walking-after-meals-atrial-health-57",
+      "permanent": true
+    },
+    {
+      "source": "/articles/post-holiday-joint-swelling-gravy-histamine-seniors",
+      "destination": "/articles/joint-swelling-gravy-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/post-holiday-constipation-travel-circadian-seniors",
+      "destination": "/articles/constipation-travel-seniors-71",
+      "permanent": true
+    },
+    {
+      "source": "/articles/orthostatic-tachycardia-cardiac-sarcoidosis",
+      "destination": "/articles/racing-heart-standing-heart-disease",
+      "permanent": true
+    },
+    {
+      "source": "/articles/low-sodium-soup-potassium-excipients",
+      "destination": "/articles/low-sodium-soup-heart-risk-71",
+      "permanent": true
+    },
+    {
+      "source": "/articles/hrv-dip-before-holiday-palpitations",
+      "destination": "/articles/holiday-heart-stress-video-calls",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-holiday-air-travel-disrupts-subcutaneous-insulin-absorption-kinetics-in-adults-73-with-subcutaneous-adipose-atrophy-and-long-term-t1d",
+      "destination": "/articles/flying-insulin-type-1-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/home-blood-pressure-cuff-afib-algorithm-errors",
+      "destination": "/articles/bp-monitor-afib-false-readings",
+      "permanent": true
+    },
+    {
+      "source": "/articles/holiday-weight-gain-beta-cell-exhaustion",
+      "destination": "/articles/holiday-weight-diabetes-risk-55",
+      "permanent": true
+    },
+    {
+      "source": "/articles/holiday-travel-nocturnal-afib-warning",
+      "destination": "/articles/travel-heart-rhythm-afib-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/holiday-ham-dizziness-autonomic-neuropathy",
+      "destination": "/articles/dizziness-after-ham-nerve-damage",
+      "permanent": true
+    },
+    {
+      "source": "/articles/post-meal-walking-atrial-stretch",
+      "destination": "/articles/walking-after-meals-heart-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/post-holiday-joint-swelling-gravy-histamine-seniors",
+      "destination": "/articles/joint-swelling-gravy-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/post-holiday-constipation-travel-circadian-seniors",
+      "destination": "/articles/constipation-traveling-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/orthostatic-tachycardia-cardiac-sarcoidosis",
+      "destination": "/articles/fast-heart-standing-heart-disease",
+      "permanent": true
+    },
+    {
+      "source": "/articles/low-sodium-soup-potassium-excipients",
+      "destination": "/articles/low-sodium-soup-heart-meds-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/post-meal-walking-atrial-stretch",
+      "destination": "/articles/walking-after-meals-heart-rhythm",
+      "permanent": true
+    },
+    {
+      "source": "/articles/post-holiday-joint-swelling-gravy-histamine-seniors",
+      "destination": "/articles/joint-swelling-gravy-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/post-holiday-constipation-travel-circadian-seniors",
+      "destination": "/articles/constipation-traveling-seniors-71",
+      "permanent": true
+    },
+    {
+      "source": "/articles/orthostatic-tachycardia-cardiac-sarcoidosis",
+      "destination": "/articles/fast-heart-standing-cardiac-disease",
+      "permanent": true
+    },
+    {
+      "source": "/articles/low-sodium-soup-potassium-excipients",
+      "destination": "/articles/low-sodium-soup-seniors-diuretics",
+      "permanent": true
+    },
+    {
+      "source": "/articles/ambulatory-blood-pressure-report-interpretation",
+      "destination": "/articles/bp-monitor-report-reading-66",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-things-every-woman-over-62-should-know-about-holiday-cortisol-surges-and-their-impact-on-visceral-fat-redistribution-in-prediabetes",
+      "destination": "/articles/holiday-stress-belly-fat-women-62",
+      "permanent": true
+    },
+    {
+      "source": "/articles/3-simple-steps-to-prevent-post-holiday-hba1c-drift-even-if-you-did-fine-during-the-festivities-in-adults-57-66-with-stable-prediabetes",
+      "destination": "/articles/post-holiday-blood-sugar-drift-57",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-foods-that-stabilize-glucose-without-causing-hypoglycemia-in-adults-77-with-hypoglycemia-associated-autonomic-failure-haaf",
+      "destination": "/articles/safe-blood-sugar-foods-seniors-77",
+      "permanent": true
+    },
+    {
+      "source": "/articles/10-silent-signs-your-holiday-meal-timing-is-disrupting-hepatic-glucose-production-especially-with-concurrent-melatonin-agonist-use-in-adults-72",
+      "destination": "/articles/meal-timing-blood-sugar-seniors-72",
+      "permanent": true
+    },
+    {
+      "source": "/articles/zinc-picolinate-endothelial-oxidative-stress",
+      "destination": "/articles/zinc-supplement-heart-seniors-63",
+      "permanent": true
+    },
+    {
+      "source": "/articles/white-noise-machines-atherosclerosis-seniors",
+      "destination": "/articles/white-noise-heart-risk-seniors-74",
+      "permanent": true
+    },
+    {
+      "source": "/articles/when-to-worry-about-that-light-holiday-salad-red-flags-of-hidden-trans-fats-in-store-bought-dressings-for-adults-59-67-with-atrial-fibrillation",
+      "destination": "/articles/salad-dressing-trans-fats-afib-59",
+      "permanent": true
+    },
+    {
+      "source": "/articles/when-to-worry-about-holiday-induced-brain-fog-after-eating-especially-with-concurrent-ace-inhibitor-use-and-orthostatic-hypotension-in-adults-67",
+      "destination": "/articles/brain-fog-after-eating-bp-meds-67",
+      "permanent": true
+    },
+    {
+      "source": "/articles/right-ventricular-pa-coupling-failure-warning-signs",
+      "destination": "/articles/heart-failure-right-side-70",
+      "permanent": true
+    },
+    {
+      "source": "/articles/instant-oatmeal-endothelial-function-seniors",
+      "destination": "/articles/instant-oatmeal-heart-seniors-65",
+      "permanent": true
+    },
+    {
+      "source": "/articles/instant-oatmeal-beta-glucan-degradation",
+      "destination": "/articles/oatmeal-cholesterol-seniors-genetics",
+      "permanent": true
+    },
+    {
+      "source": "/articles/infrared-pad-ace-inhibitor-safety",
+      "destination": "/articles/heating-pad-bp-meds-safety-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/hvac-vibration-aortic-stiffness-testing",
+      "destination": "/articles/home-vibration-heart-test-seniors-76",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-late-night-pie-eating-disrupts-nocturnal-glucose-rhythms-in-adults-65-with-early-stage-diabetic-neuropathy",
+      "destination": "/articles/late-dessert-blood-sugar-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-holiday-table-seating-arrangements-affect-swallowing-safety-and-aspiration-risk-in-adults-82-with-mild-parkinsonian-tremor",
+      "destination": "/articles/holiday-seating-swallowing-seniors-82",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-holiday-music-volume-and-tempo-affect-post-meal-satiety-hormone-release-in-adults-65-with-mild-cognitive-impairment",
+      "destination": "/articles/holiday-music-overeating-seniors-65",
+      "permanent": true
+    },
+    {
+      "source": "/articles/holiday-eating-post-pci-dual-antiplatelet-therapy",
+      "destination": "/articles/holiday-eating-heart-stent-thinners-66",
+      "permanent": true
+    },
+    {
+      "source": "/articles/hearing-aids-baroreflex-sensitivity-diastolic-dysfunction",
+      "destination": "/articles/hearing-aids-bp-heart-issues-72",
+      "permanent": true
+    },
+    {
+      "source": "/articles/foods-stabilize-pulse-pressure-seniors-orthostasis",
+      "destination": "/articles/foods-pulse-pressure-dizziness-76",
+      "permanent": true
+    },
+    {
+      "source": "/articles/post-holiday-joint-swelling-gravy-histamine-seniors",
+      "destination": "/articles/joint-pain-holiday-gravy-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/post-holiday-constipation-travel-circadian-seniors",
+      "destination": "/articles/constipation-holiday-travel-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/orthostatic-tachycardia-cardiac-sarcoidosis",
+      "destination": "/articles/rapid-heart-rate-heart-inflammation-54-61",
+      "permanent": true
+    },
+    {
+      "source": "/articles/low-sodium-soup-potassium-excipients",
+      "destination": "/articles/low-sodium-soup-hidden-risks-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/hrv-dip-before-holiday-palpitations",
+      "destination": "/articles/heart-stress-holiday-palpitations-55-60",
+      "permanent": true
+    }
+  ],
+  "instructions": {
+    "implementation": "Add these redirects to next.config.js",
+    "format": "source: old slug, destination: new slug, permanent: true",
+    "validation": "Test each redirect after deployment"
+  }
+}

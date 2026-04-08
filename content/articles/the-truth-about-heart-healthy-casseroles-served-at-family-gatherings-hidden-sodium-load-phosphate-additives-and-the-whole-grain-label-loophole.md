@@ -63,22 +63,22 @@ In the end, “heart-healthy” shouldn’t feel like a compromise—it should f
 
 ### FAQ
 
-#### #### Is “heart-healthy casserole hidden sodium phosphate” really a concern for older adults?
+#### Is “heart-healthy casserole hidden sodium phosphate” really a concern for older adults?
 
 Yes—especially for those with stage 1 hypertension or early CKD. Processed casserole ingredients often contain multiple sodium and phosphate additives that accumulate silently across meals, contributing to arterial stiffness and kidney workload over time.
 
-#### #### How much sodium is too much in a “heart-healthy” casserole?
+#### How much sodium is too much in a “heart-healthy” casserole?
 
 For adults 60+, the AHA recommends no more than 2,300 mg/day—and ideally closer to 1,500 mg if you have hypertension or CKD. A single casserole serving with canned soup, pre-shredded cheese, and frozen crust can easily deliver 600–900 mg—over one-third of your daily budget.
 
-#### #### Can I trust the “whole grain” label on casserole crusts or stuffing?
+#### Can I trust the “whole grain” label on casserole crusts or stuffing?
 
 Not always. Check the ingredient list: if “enriched wheat flour” or “wheat flour” appears before “whole wheat flour,” the product is mostly refined. True whole grain options list 100% whole grain flour as the first ingredient—and provide ≥3 g fiber per serving.
 
-#### #### What are common phosphate additives to avoid in holiday casseroles?
+#### What are common phosphate additives to avoid in holiday casseroles?
 
 Watch for tricalcium phosphate, sodium tripolyphosphate, disodium phosphate, and phosphoric acid—often added to cheese, deli meats, frozen crusts, and canned gravies to enhance texture or shelf life.
 
-#### #### Are there easy casserole swaps that lower both sodium and phosphate?
+#### Are there easy casserole swaps that lower both sodium and phosphate?
 
 Absolutely. Use fresh or frozen (unsalted) vegetables, shred your own cheese, prepare creamy bases from low-sodium broth + blended cauliflower or white beans, and bake in cast iron or glass instead of pre-made crusts. Small changes add up—without sacrificing tradition.

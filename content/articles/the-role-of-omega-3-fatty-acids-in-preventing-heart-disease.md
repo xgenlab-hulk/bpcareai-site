@@ -75,22 +75,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can omega-3 fatty acids for heart disease prevention lower high blood pressure?
+#### Can omega-3 fatty acids for heart disease prevention lower high blood pressure?
 
 Yes — but modestly. Clinical studies suggest that higher intakes of EPA and DHA (typically 3+ grams/day, often via supplement) may lower systolic BP by about 2–4 mm Hg and diastolic BP by 1–3 mm Hg — especially in people with hypertension. That may sound small, but even a 2 mm Hg drop in systolic pressure is linked to a 7% lower risk of heart disease over time. Dietary sources alone (e.g., 2 servings of fish/week) offer gentler support — best viewed as part of an overall BP-friendly pattern.
 
-#### #### Are plant-based omega-3s enough for omega-3 fatty acids for heart disease prevention?
+#### Are plant-based omega-3s enough for omega-3 fatty acids for heart disease prevention?
 
 For general wellness, yes — flax, chia, hemp, and walnuts are nutritious and anti-inflammatory. But for targeted cardiovascular support, especially if you have elevated triglycerides or known heart disease, marine-based EPA and DHA are more reliably effective. As mentioned earlier, the body converts only a small fraction of plant-based ALA into EPA/DHA — and conversion declines further with age and certain health conditions.
 
-#### #### How much fish oil should I take for omega-3 fatty acids for heart disease prevention?
+#### How much fish oil should I take for omega-3 fatty acids for heart disease prevention?
 
 There’s no universal dose — it depends on your health status and goals. For general heart health, 500–1000 mg of combined EPA + DHA daily is commonly recommended. For elevated triglycerides (≥200 mg/dL), guidelines sometimes suggest 2–4 grams/day under medical supervision. Always choose a reputable brand that tests for purity (heavy metals, PCBs) and oxidation (rancidity), and discuss dosage with your healthcare provider — especially if you’re on anticoagulants or have a bleeding disorder.
 
-#### #### Do omega-3s interact with blood pressure medications?
+#### Do omega-3s interact with blood pressure medications?
 
 Omega-3s are generally safe alongside most BP medications — including ACE inhibitors, beta-blockers, and calcium channel blockers. In fact, they may complement them by supporting vascular health and reducing inflammation. However, very high doses (≥3 grams/day of EPA+DHA) *may* enhance the blood-thinning effect of certain medications — so transparency with your doctor is key.
 
-#### #### Is it better to get omega-3s from food or supplements?
+#### Is it better to get omega-3s from food or supplements?
 
 Food first — always. Whole fish provides not just EPA and DHA, but also high-quality protein, selenium, vitamin D, and other synergistic nutrients. Supplements are valuable when dietary intake is limited (due to preference, cost, access, or sustainability concerns) — or when higher therapeutic doses are needed. Just remember: a supplement fills a gap. It doesn’t replace the broader benefits of a varied, whole-foods-based diet.

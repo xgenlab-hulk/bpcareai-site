@@ -87,17 +87,17 @@ Supporting mitochondrial health isn’t about chasing dramatic transformations�
 
 ### FAQ
 
-#### #### Does intermittent fasting improve mitochondrial function in people with prediabetes?
+#### Does intermittent fasting improve mitochondrial function in people with prediabetes?
 Yes—clinical studies, including the 16-week trial in adults 55–61, show that time-restricted eating increases citrate synthase activity, reduces harmful acylcarnitines, and boosts mtDNA copy number—all indicators of improved mitochondrial biogenesis in prediabetes.
 
-#### #### How does intermittent fasting mitochondrial biogenesis prediabetes affect heart health?
+#### How does intermittent fasting mitochondrial biogenesis prediabetes affect heart health?
 By enhancing the heart’s ability to produce energy efficiently from fats and carbohydrates, intermittent fasting mitochondrial biogenesis prediabetes supports better diastolic relaxation, improved cardiac output reserve, and reduced oxidative stress—key factors in preventing progression to heart failure with preserved ejection fraction (HFpEF), which is increasingly common in older adults with metabolic syndrome.
 
-#### #### Can intermittent fasting reverse prediabetes—and does that help mitochondria?
+#### Can intermittent fasting reverse prediabetes—and does that help mitochondria?
 Intermittent fasting alone may not “reverse” prediabetes for everyone, but it frequently improves insulin sensitivity and glycemic variability—both of which create a favorable environment for mitochondrial repair. In the study, 38% of participants moved back to normoglycemia after 16 weeks, and those individuals showed the largest gains in mitochondrial markers.
 
-#### #### Is it safe to try intermittent fasting if I have high blood pressure?
+#### Is it safe to try intermittent fasting if I have high blood pressure?
 For most people with well-controlled hypertension (e.g., BP <140/90 mm Hg), time-restricted eating is safe—and may even support healthier circadian BP patterns (e.g., improved nocturnal dipping). However, if you’re on antihypertensive medication—especially ACE inhibitors or diuretics—discuss timing adjustments with your provider to avoid excessive drops.
 
-#### #### What’s the best eating window for heart and metabolic health in my 50s?
+#### What’s the best eating window for heart and metabolic health in my 50s?
 Research suggests an 8- to 10-hour window aligned with daylight (e.g., 8 a.m. to 6 p.m. or 10 a.m. to 6 p.m.) works well for adults 55–61. This supports natural cortisol and melatonin rhythms while allowing sufficient overnight fasting to activate repair pathways—without extending into potentially stressful durations (>14 hours) for this age group.

@@ -79,22 +79,22 @@ Living in a city doesn’t mean surrendering control over your cardiovascular he
 
 ### FAQ
 
-#### #### Does air pollution raise blood pressure in older adults?
+#### Does air pollution raise blood pressure in older adults?
 
 Yes—multiple studies confirm that short-term exposure to PM2.5 and NO₂ is associated with measurable increases in both systolic and diastolic blood pressure among adults over 50. These effects are typically modest per exposure (1–5 mm Hg), but repeat exposure may contribute to long-term vascular changes.
 
-#### #### How does air pollution affect blood pressure in urban seniors specifically?
+#### How does air pollution affect blood pressure in urban seniors specifically?
 
 Urban seniors face dual challenges: age-related declines in vascular resilience *and* higher baseline exposure to traffic-related pollutants. Real-world data shows BP elevations occur more quickly and persist longer in this group compared to younger adults or rural peers—making timing, location, and indoor air quality especially important.
 
-#### #### Can air pollution cause high blood pressure long term?
+#### Can air pollution cause high blood pressure long term?
 
 While air pollution alone doesn’t “cause” hypertension the way genetics or chronic kidney disease might, long-term exposure is now recognized by the American Heart Association as a *modifiable risk factor* for developing and worsening hypertension—particularly in populations with preexisting cardiovascular vulnerability.
 
-#### #### What’s the safest time of day to walk outside in a polluted city?
+#### What’s the safest time of day to walk outside in a polluted city?
 
 Early morning—generally before 9 a.m.—tends to have the lowest PM2.5 levels in most urban areas, thanks to cooler temperatures, less traffic, and overnight atmospheric settling. Avoid walking between noon and 6 p.m., when pollution peaks and your BP may also be naturally rising.
 
-#### #### Do air purifiers really help lower blood pressure risk?
+#### Do air purifiers really help lower blood pressure risk?
 
 They don’t lower BP directly—but by reducing indoor PM2.5 (which often mirrors outdoor levels), they decrease one source of vascular stress. Studies show improved endothelial function and lower evening BP variability in older adults using HEPA purifiers consistently—especially in bedrooms during sleep.

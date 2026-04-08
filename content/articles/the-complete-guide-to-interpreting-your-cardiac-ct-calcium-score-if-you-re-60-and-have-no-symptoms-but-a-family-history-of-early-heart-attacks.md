@@ -63,17 +63,17 @@ A cardiac CT calcium score is never a diagnosis — it’s information. When vie
 
 ### FAQ
 
-#### #### What does a cardiac CT calcium score guide recommend for someone 60 with a score of zero?
+#### What does a cardiac CT calcium score guide recommend for someone 60 with a score of zero?
 A zero score at age 60 is highly reassuring — indicating no detectable coronary calcium and very low short-to-medium term risk. However, because family history increases lifetime risk, continuing heart-healthy habits and periodic reassessment (e.g., every 5 years) remain wise. This cardiac CT calcium score guide emphasizes that zero ≠ immunity — but it *does* mean your arteries currently show no signs of advanced plaque.
 
-#### #### How often should I repeat my cardiac CT calcium score if I’m over 60 and have a family history?
+#### How often should I repeat my cardiac CT calcium score if I’m over 60 and have a family history?
 Most guidelines suggest repeating only if your initial score was >0 — typically every 3–5 years — since calcium rarely regresses and progression tends to be gradual. If your first scan was zero and you remain asymptomatic with stable risk factors, many experts defer repeat scanning indefinitely. Your personalized cardiac CT calcium score guide should reflect your unique risk profile.
 
-#### #### Can a high cardiac CT calcium score mean I’ll have a heart attack soon?
+#### Can a high cardiac CT calcium score mean I’ll have a heart attack soon?
 Not necessarily. A high score (e.g., >400) indicates substantial plaque burden — but most heart attacks arise from *non-calcified*, inflamed plaques. That’s why clinical judgment, symptom assessment, and other tests (like stress testing or lipid panels) matter just as much. This cardiac CT calcium score guide helps put numbers in perspective — not predict destiny.
 
-#### #### Does family history change how my calcium score is interpreted?
+#### Does family history change how my calcium score is interpreted?
 Yes — significantly. A score considered “moderate” for the general population may prompt earlier intervention in someone with premature family heart disease. Genetic risk multiplies the meaning of each calcium unit — making personalized interpretation essential.
 
-#### #### Is a cardiac CT calcium score the same as a coronary CT angiogram?
+#### Is a cardiac CT calcium score the same as a coronary CT angiogram?
 No. A calcium score uses low-radiation CT to quantify calcified plaque only. A coronary CT angiogram (CCTA) uses contrast dye and higher radiation to visualize both calcified *and* soft plaque, plus blood flow — usually reserved for symptomatic patients.

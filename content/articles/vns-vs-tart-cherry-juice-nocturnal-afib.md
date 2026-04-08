@@ -42,17 +42,17 @@ In summary, neither VNS nor tart cherry juice is a universal solution—but both
 
 ### FAQ
 
-#### #### Does tart cherry juice really help with nighttime AFib in older adults?  
+#### Does tart cherry juice really help with nighttime AFib in older adults?  
 Yes—modestly. Small clinical trials (e.g., a 2022 pilot in *JACC: Clinical Electrophysiology*) found adults 65+ consuming tart cherry juice nightly for 8 weeks had a 22% average reduction in nocturnal AFib burden versus placebo—likely due to anti-inflammatory and mild sedative effects. It’s not a substitute for anticoagulation or rhythm control when indicated.
 
-#### #### Is 5-minute vagus nerve stimulation enough to reduce nocturnal AFib?  
+#### Is 5-minute vagus nerve stimulation enough to reduce nocturnal AFib?  
 Evidence suggests yes—if practiced consistently. A 2023 randomized trial in *Heart Rhythm* showed older adults doing daily 5-minute paced breathing for 12 weeks reduced nocturnal AFib episodes by 31% compared to controls. Key factors: regular timing, proper technique, and pairing with other sleep hygiene practices.
 
-#### #### How does vns vs tart cherry juice nocturnal afib compare for people with nighttime high blood pressure?  
+#### How does vns vs tart cherry juice nocturnal afib compare for people with nighttime high blood pressure?  
 Both may help—but through different mechanisms. VNS directly improves autonomic balance and lowers sympathetic drive, often reducing nocturnal BP by 5–8 mm Hg systolic. Tart cherry juice supports endothelial function and melatonin-mediated vasodilation, with typical reductions of 3–5 mm Hg. Combining them is safe and sometimes synergistic—but discuss timing with your provider.
 
-#### #### Can I use tart cherry juice instead of blood thinners for AFib?  
+#### Can I use tart cherry juice instead of blood thinners for AFib?  
 No. Tart cherry juice does not affect clotting pathways and should never replace anticoagulation prescribed for stroke prevention. Its role is adjunctive—supporting rhythm stability and sleep, not thromboembolic risk reduction.
 
-#### #### What’s the best time to do vagus nerve stimulation for nighttime AFib?  
+#### What’s the best time to do vagus nerve stimulation for nighttime AFib?  
 60–90 minutes before bedtime is optimal. This aligns with the natural pre-sleep rise in vagal tone and avoids stimulating digestion too close to lying down. Avoid doing it immediately after meals or within 20 minutes of alcohol.

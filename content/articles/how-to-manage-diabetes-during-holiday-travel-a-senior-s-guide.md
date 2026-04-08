@@ -49,17 +49,17 @@ Holiday travel with diabetes isn’t about rigid rules or avoiding joy—it’s 
 
 ### FAQ
 
-#### #### How can I adjust my insulin schedule when traveling across time zones?  
+#### How can I adjust my insulin schedule when traveling across time zones?  
 Work with your healthcare provider at least one week before travel to plan gradual dose or timing adjustments—especially for long-haul flights (3+ time zones). Shorter trips (1–2 zones) often require only minor tweaks, like shifting your usual dose by 30–60 minutes per day until aligned.
 
-#### #### What are the best snacks for stable blood sugar during airport delays?  
+#### What are the best snacks for stable blood sugar during airport delays?  
 Choose portable, balanced options: a small apple with single-serve nut butter, low-sodium turkey roll-ups, or a handful of almonds and a low-glycemic fruit like berries. Avoid sugary drinks and highly processed “travel snacks” like granola bars with added sugars.
 
-#### #### How does holiday stress affect diabetes management during travel?  
+#### How does holiday stress affect diabetes management during travel?  
 Stress hormones like cortisol can raise blood glucose—and holiday pressures (packing, scheduling, family dynamics) may increase this effect. Gentle breathing, short walks, or even five minutes of quiet reflection can help lower both stress and glucose response.
 
-#### #### Should I carry a letter from my doctor when traveling with diabetes supplies?  
+#### Should I carry a letter from my doctor when traveling with diabetes supplies?  
 Yes—especially internationally. A brief, signed letter explaining your condition and listing necessary supplies (including syringes, insulin pens, or continuous glucose monitors) helps avoid delays at security or customs.
 
-#### #### Can holiday meals cause dangerous blood sugar swings for seniors?  
+#### Can holiday meals cause dangerous blood sugar swings for seniors?  
 They *can*, but they don’t have to. Focus on portion control, mindful eating, and pairing carbs with protein or fat to slow absorption. Checking glucose 2 hours after eating gives helpful feedback—and helps you enjoy treats without guilt or fear.

@@ -64,17 +64,17 @@ In closing, discovering *cardiac amyloidosis early signs carpal tunnel* doesn’
 
 ### FAQ
 
-#### #### Could carpal tunnel syndrome really be linked to heart problems in older adults?  
+#### Could carpal tunnel syndrome really be linked to heart problems in older adults?  
 Yes—especially in adults over 75, bilateral carpal tunnel is a recognized early sign of transthyretin cardiac amyloidosis. Studies suggest up to 40% of people with ATTR amyloidosis have had carpal tunnel surgery before their heart diagnosis.
 
-#### #### What are the earliest cardiac amyloidosis early signs carpal tunnel patients might notice?  
+#### What are the earliest cardiac amyloidosis early signs carpal tunnel patients might notice?  
 Beyond wrist pain or numbness, watch for unexplained weight loss, bloating after meals, constipation, dizziness when standing, and fatigue that doesn’t improve with rest—especially when paired with a low-voltage ECG.
 
-#### #### Is cardiac amyloidosis early signs carpal tunnel something my primary care doctor can screen for?  
+#### Is cardiac amyloidosis early signs carpal tunnel something my primary care doctor can screen for?  
 Yes—your doctor can start with a detailed history, physical exam, ECG, basic labs (including serum free light chains), and referral for specialized imaging if red flags align. It’s not routine screening, but it *is* appropriate when patterns suggest it.
 
-#### #### Does having carpal tunnel mean I definitely have cardiac amyloidosis?  
+#### Does having carpal tunnel mean I definitely have cardiac amyloidosis?  
 No. Carpal tunnel is very common and usually unrelated to heart disease. But in older adults with *multiple* subtle symptoms—including weight loss, GI changes, or autonomic symptoms—it becomes a meaningful clue worth discussing.
 
-#### #### Are there lifestyle changes that help if cardiac amyloidosis is suspected?  
+#### Are there lifestyle changes that help if cardiac amyloidosis is suspected?  
 Gentle movement, balanced nutrition, hydration, and avoiding sudden position changes (to reduce dizziness) are supportive. Most importantly: partner with your care team to understand what’s happening—and what options exist for comfort, function, and peace of mind.

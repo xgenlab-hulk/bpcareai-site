@@ -45,22 +45,22 @@ In short, caring for your diabetes doesn’t have to happen in isolation. With t
 
 ### FAQ
 
-#### #### Can social prescribing HbA1c type 2 diabetes really lower my A1c meaningfully?
+#### Can social prescribing HbA1c type 2 diabetes really lower my A1c meaningfully?
 
 Yes—clinical data from multiple UK and Canadian trials show an average 0.4% reduction in HbA1c among adults 60–72 with high loneliness scores after 12–16 weeks of supported group participation. While not a replacement for medication, it’s a clinically relevant, sustainable boost—especially when traditional strategies stall.
 
-#### #### How does social prescribing HbA1c type work alongside metformin or GLP-1 medications?
+#### How does social prescribing HbA1c type work alongside metformin or GLP-1 medications?
 
 Social prescribing doesn’t interfere with diabetes meds—in fact, early evidence suggests it may enhance their effects. By reducing stress-related glucose production and supporting dopamine-GLP-1 pathways, it complements pharmacologic action rather than competing with it.
 
-#### #### Is social prescribing HbA1c type 2 diabetes covered by insurance or the NHS?
+#### Is social prescribing HbA1c type 2 diabetes covered by insurance or the NHS?
 
 In England, social prescribing is fully integrated into primary care and funded through NHS contracts—so referrals and initial link-worker support are free. In Canada, coverage varies by province; some health regions and First Nations health authorities include it in chronic disease management programs.
 
-#### #### Do I need to be physically active to benefit?
+#### Do I need to be physically active to benefit?
 
 Not necessarily. Programs range from seated choirs and craft circles to walking groups and mindfulness-based peer support—all designed around accessibility and personal preference. The core ingredient is *meaningful connection*, not exertion.
 
-#### #### What if I try a group and don’t click with it?
+#### What if I try a group and don’t click with it?
 
 That’s completely normal—and expected. Social prescribing emphasizes choice and low-pressure exploration. Link workers typically offer 2–3 options and support gentle transitions. Finding the right fit may take time, and that’s part of the process.

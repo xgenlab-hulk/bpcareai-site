@@ -68,22 +68,22 @@ The holidays are a meaningful time for connection, reflection, and gratitude—e
 
 ### FAQ
 
-#### #### What are the best diabetic holiday snacks over 70 that won’t spike blood sugar?
+#### What are the best diabetic holiday snacks over 70 that won’t spike blood sugar?
 
 The best options combine protein, healthy fat, and soluble fiber to slow glucose absorption. Top choices include smoked salmon cucumber rolls, herbed cottage cheese with pear, spiced roasted chickpeas, and walnut-stuffed Medjool dates (in controlled portions). All are under 150 calories and have a glycemic load under 10.
 
-#### #### Can diabetic holiday snacks over 70 also support heart health?
+#### Can diabetic holiday snacks over 70 also support heart health?
 
 Yes—many do double duty. Nuts, fatty fish, and legumes provide heart-healthy monounsaturated fats, omega-3s, and potassium while keeping carbs low. Avoiding excess sodium (<150 mg/serving) and added sugars further supports arterial pressure and endothelial function—key concerns for adults over 70 managing both diabetes and hypertension.
 
-#### #### Are sugar-free holiday candies safe for seniors with diabetes?
+#### Are sugar-free holiday candies safe for seniors with diabetes?
 
 Not necessarily. Many sugar-free candies contain sugar alcohols (e.g., sorbitol, maltitol), which can cause bloating, diarrhea, or laxative effects—especially in older adults with slower gut motility. They may also still raise blood glucose slightly. Prioritize whole-food snacks over highly processed alternatives, and always check labels for total carbohydrate—not just “sugar-free.”
 
-#### #### How often should someone over 70 eat diabetic holiday snacks?
+#### How often should someone over 70 eat diabetic holiday snacks?
 
 Two planned snacks per day—mid-morning and mid-afternoon—are ideal for most adults over 70. Timing helps prevent large glucose swings, supports consistent energy, and reduces evening overeating. Skipping snacks may increase hypoglycemia risk for those on insulin or insulin secretagogues.
 
-#### #### Do diabetic holiday snacks over 70 need to be refrigerated?
+#### Do diabetic holiday snacks over 70 need to be refrigerated?
 
 Not always—but perishable options like cottage cheese, smoked salmon, or yogurt-based dips should be kept chilled and consumed within 2 hours of preparation if unrefrigerated. Shelf-stable choices (roasted chickpeas, plain nuts, unsweetened nut butter packets) are excellent for travel or parties where refrigeration isn’t available.

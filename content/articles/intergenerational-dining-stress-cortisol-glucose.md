@@ -91,22 +91,22 @@ Intergenerational dining stress cortisol glucose is a real, biologically grounde
 
 ### FAQ
 
-#### #### What foods lower cortisol and stabilize blood sugar before family gatherings?
+#### What foods lower cortisol and stabilize blood sugar before family gatherings?
 
 Foods rich in magnesium (spinach, pumpkin seeds), omega-3s (fatty fish, walnuts), and polyphenols (berries, green tea) support HPA axis regulation and insulin sensitivity. Pair them with protein and fiber—e.g., salmon salad with mixed greens and lemon-tahini dressing—to blunt intergenerational dining stress cortisol glucose responses.
 
-#### #### Can intergenerational dining stress cortisol glucose affect my blood pressure?
+#### Can intergenerational dining stress cortisol glucose affect my blood pressure?
 
 Yes. Cortisol increases vascular resistance and promotes sodium retention, often raising systolic BP by 10–25 mm Hg acutely. Combined with vagal withdrawal, this may also reduce HRV (heart rate variability)—a marker of cardiovascular resilience. Pre-gathering nutrition helps buffer this effect.
 
-#### #### How long before a family dinner should I eat to manage intergenerational dining stress cortisol glucose?
+#### How long before a family dinner should I eat to manage intergenerational dining stress cortisol glucose?
 
 Ideally 60–90 minutes prior. This window allows time for initial digestion, cortisol modulation, and stabilization of fasting glucose—without triggering hunger or reactive hypoglycemia upon sitting down.
 
-#### #### Does intermittent fasting help with intergenerational dining stress?
+#### Does intermittent fasting help with intergenerational dining stress?
 
 Not necessarily—and may backfire. For adults 60+, extended fasting can elevate evening cortisol and impair glucose counter-regulation. Instead, focus on *timing and composition*: consistent, balanced mini-meals throughout the day better support metabolic and neural stability than prolonged abstinence.
 
-#### #### Are there supplements that help with intergenerational dining stress cortisol glucose?
+#### Are there supplements that help with intergenerational dining stress cortisol glucose?
 
 While no supplement replaces whole-food strategies, some evidence supports vitamin D (if deficient), ashwagandha (standardized root extract, 300 mg BID), and berberine (500 mg pre-meal) for modulating cortisol metabolism and postprandial glucose—*but only under clinician guidance*, especially if taking antihypertensives or diabetes medications.

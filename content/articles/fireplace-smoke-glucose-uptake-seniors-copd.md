@@ -55,22 +55,22 @@ In short, fireplace smoke glucose uptake seniors copd is a nuanced but addressab
 
 ### FAQ
 
-#### #### Does fireplace smoke really affect blood sugar in older adults with diabetes and COPD?
+#### Does fireplace smoke really affect blood sugar in older adults with diabetes and COPD?
 
 Yes—studies show PM2.5 from wood smoke reduces nitric oxide availability, which impairs insulin-mediated glucose transport into muscle. Adults 71+ with both conditions are especially vulnerable due to age-related declines in endothelial repair and lung clearance.
 
-#### #### Can fireplace smoke glucose uptake seniors copd be reversed with lifestyle changes?
+#### Can fireplace smoke glucose uptake seniors copd be reversed with lifestyle changes?
 
 Absolutely. Switching to cleaner heating sources, improving indoor air filtration, and adjusting fire timing relative to meals have all been associated with improved post-meal glucose stability in clinical observations.
 
-#### #### Is there a safe amount of fireplace use for seniors with COPD and type 2 diabetes?
+#### Is there a safe amount of fireplace use for seniors with COPD and type 2 diabetes?
 
 There’s no universal “safe” number—but limiting use to ≤1x/week, ensuring excellent ventilation, and avoiding fires within 3 hours of meals significantly lowers risk. Monitoring personal glucose and symptom responses remains the best guide.
 
-#### #### How does fireplace smoke compare to cigarette smoke in terms of metabolic impact?
+#### How does fireplace smoke compare to cigarette smoke in terms of metabolic impact?
 
 While different in composition, wood smoke contains many of the same oxidative compounds (e.g., polycyclic aromatic hydrocarbons) shown to suppress eNOS activity. In older adults with compromised lung and vascular health, the metabolic consequences can be similarly significant—even at lower exposure levels.
 
-#### #### Do air purifiers help with fireplace smoke glucose uptake seniors copd?
+#### Do air purifiers help with fireplace smoke glucose uptake seniors copd?
 
 Yes—particularly models with true HEPA filters plus activated carbon, which remove both PM2.5 particles and volatile organic compounds. In one home-based trial, consistent use cut indoor PM2.5 by 62% and was associated with a 14% improvement in 2-hour post-meal glucose values over 10 days.

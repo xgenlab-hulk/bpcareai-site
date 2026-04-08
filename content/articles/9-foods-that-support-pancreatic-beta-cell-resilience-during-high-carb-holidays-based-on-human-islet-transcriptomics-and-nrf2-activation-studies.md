@@ -84,22 +84,22 @@ Supporting beta-cell resilience during the holidays isn’t about vigilance or r
 
 ### FAQ
 
-#### #### What are the best beta-cell resilience holiday foods for someone over 50?
+#### What are the best beta-cell resilience holiday foods for someone over 50?
 
 The most research-backed beta-cell resilience holiday foods for adults over 50 include fermented black garlic, roasted walnuts, black cumin seeds, purple cabbage, cinnamon-stewed apples, turmeric-roasted sweet potatoes, steamed broccoli, unsweetened green tea, and high-cacao dark chocolate. Each has demonstrated effects on Nrf2 activation, PDX1 stabilization, or MAFA support in human islet studies—especially under glucose stress.
 
-#### #### Can beta-cell resilience holiday foods help if I’m pre-diabetic?
+#### Can beta-cell resilience holiday foods help if I’m pre-diabetic?
 
 Yes. Early-stage prediabetes often reflects declining beta-cell compensation—not just insulin resistance. Human islet transcriptomics suggest that foods rich in Nrf2-activating phytonutrients may help preserve functional beta-cell mass and delay progression. In clinical trials, similar compounds improved postprandial glucose control by 12–18% over 8–12 weeks in prediabetic adults.
 
-#### #### Do beta-cell resilience holiday foods lower blood sugar immediately?
+#### Do beta-cell resilience holiday foods lower blood sugar immediately?
 
 No—and that’s by design. These foods don’t act like medication; instead, they support cellular defense systems over time. You’re unlikely to see dramatic drops in fasting glucose after one serving, but consistent inclusion (3–4 times weekly) may help smooth post-meal spikes and improve overall glycemic variability—key markers linked to long-term beta-cell health.
 
-#### #### Are there holiday foods I should avoid to protect my beta cells?
+#### Are there holiday foods I should avoid to protect my beta cells?
 
 It’s less about strict avoidance and more about balance. Highly processed items with added sugars *and* refined flour (e.g., sugary cereals, packaged cookies, sweetened eggnog) tend to drive rapid glucose spikes *without* accompanying phytonutrients or fiber to buffer stress. Prioritizing whole-food sources of carbs—and pairing them with the beta-cell resilience holiday foods listed above—makes a meaningful difference.
 
-#### #### How do I know if my beta cells need extra support during the holidays?
+#### How do I know if my beta cells need extra support during the holidays?
 
 Look for subtle, repeatable patterns—not single events. These include feeling unusually tired or “wired but tired” 60–90 minutes after meals, needing caffeine to get through the afternoon, or noticing increased thirst or dry mouth after festive dinners. While not diagnostic, these signals often reflect early beta-cell adaptation—and are excellent reasons to lean into supportive, joyful nutrition.

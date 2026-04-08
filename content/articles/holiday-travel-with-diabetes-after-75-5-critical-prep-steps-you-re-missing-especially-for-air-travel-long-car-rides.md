@@ -76,22 +76,22 @@ You’ve navigated decades of life with resilience. Now, with a few intentional 
 
 ### FAQ
 
-#### #### How do I keep insulin cool during a long car ride after 75?
+#### How do I keep insulin cool during a long car ride after 75?
 
 Use a small insulated cooler bag with a frozen, non-liquid cold pack (frozen gel packs are often flagged by TSA, but a solid-phase coolant is safer and more reliable). Place insulin in its original box inside the bag—never directly against the cold pack. Check the bag’s interior temperature with a small thermometer if possible; aim to keep it between 36–46°F (2–8°C). Avoid leaving it in the car—even for 10 minutes—when outside temps exceed 77°F.
 
-#### #### What’s the best way to adjust insulin for time zones when you have mild memory changes?
+#### What’s the best way to adjust insulin for time zones when you have mild memory changes?
 
 Start 3 days before travel: shift your long-acting insulin by 1 unit earlier (westbound) or later (eastbound) each day. Use color-coded sticky notes or voice memos labeled with location and time zone (“Dinner Lantus – Chicago Time”). Many find success pairing dose changes with familiar routines—e.g., “I take my evening insulin right after brushing my teeth.”
 
-#### #### Is diabetes travel prep after 75 different for air travel vs. road trips?
+#### Is diabetes travel prep after 75 different for air travel vs. road trips?
 
 Yes—subtly but importantly. Air travel introduces unpredictable delays, cabin dehydration (low humidity = ~12% lower hydration), and limited movement options. Road trips offer more control over snacks, rest breaks, and temperature, but require planning for safe insulin storage and frequent position changes to avoid stiffness or swelling. Both benefit from pre-labeled supplies, visible emergency carbs, and a printed care summary.
 
-#### #### Do I need a doctor’s note for TSA if I’m over 75 and use an insulin pump?
+#### Do I need a doctor’s note for TSA if I’m over 75 and use an insulin pump?
 
 While not legally required, a brief, dated letter from your provider significantly streamlines screening—especially if you use mobility aids or need extra time. Include your name, diagnosis, device type (e.g., “tubless insulin pump”), and a sentence like, “This device is medically necessary and cannot be removed for inspection.” Keep it in a clear sleeve in your carry-on.
 
-#### #### How can I tell if my blood sugar changes during travel are due to aging, medication, or something else?
+#### How can I tell if my blood sugar changes during travel are due to aging, medication, or something else?
 
 Look for patterns: Are highs happening only after large meals or late at night? Are lows tied to skipped snacks or increased walking? Track readings for 5–7 days before and during travel. If fluctuations persist *beyond* expected travel stressors—or if you notice new symptoms like fatigue, blurred vision, or swelling—share the log with your care team. They can assess whether adjustments to timing, dosage, or monitoring frequency would help.

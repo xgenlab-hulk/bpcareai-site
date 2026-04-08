@@ -73,17 +73,17 @@ Your heart has carried you through decades of life—and it deserves kindness, e
 
 ### FAQ
 
-#### #### Does eggnog cause QT prolongation in older men?
+#### Does eggnog cause QT prolongation in older men?
 Yes—especially when consumed late at night. Its combination of calcium, fat, sugar, and alcohol can interact with age-related changes in cardiac ion channels, leading to measurable QT interval lengthening in men over 62. This doesn’t happen to everyone, but susceptibility increases with existing risk factors.
 
-#### #### Can eggnog and qt interval prolongation in older men lead to sudden cardiac events?
+#### Can eggnog and qt interval prolongation in older men lead to sudden cardiac events?
 While rare, QT prolongation *can* predispose to dangerous arrhythmias like torsades de pointes—particularly in those with additional triggers (e.g., electrolyte imbalances, certain medications, or structural heart disease). It’s not about eggnog alone, but how it fits into your overall cardiac health picture.
 
-#### #### Is non-alcoholic eggnog safer for QT interval in older men?
+#### Is non-alcoholic eggnog safer for QT interval in older men?
 Generally, yes—removing alcohol eliminates one major QT-modulating factor. However, high calcium and fat content remain, so portion size and timing still matter. Opt for versions with <200 mg calcium per serving and consume earlier in the day.
 
-#### #### What other holiday foods affect QT interval?
+#### What other holiday foods affect QT interval?
 Heavy meals high in saturated fat (e.g., gravy-laden roasts), large servings of licorice (contains glycyrrhizin, which lowers potassium), and excessive caffeine (in spiked cocoa or energy drinks) can all influence repolarization. Moderation and timing are key.
 
-#### #### How does holiday heart syndrome relate to eggnog and qt interval prolongation in older men?
+#### How does holiday heart syndrome relate to eggnog and qt interval prolongation in older men?
 Holiday heart syndrome traditionally refers to alcohol-induced AFib, but newer evidence shows broader electrophysiological vulnerability—including QT changes—during festive periods. For older men, **eggnog and qt interval prolongation in older men** represents one piece of this larger pattern: diet, timing, and aging converging on the heart’s electrical resilience.

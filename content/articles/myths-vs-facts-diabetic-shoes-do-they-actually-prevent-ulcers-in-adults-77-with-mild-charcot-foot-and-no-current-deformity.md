@@ -57,17 +57,17 @@ In summary, *diabetic shoes ulcer prevention charcot foot* isn’t about labels�
 
 ### FAQ
 
-#### #### Do diabetic shoes really prevent ulcers in people with Charcot foot?
+#### Do diabetic shoes really prevent ulcers in people with Charcot foot?
 Yes—but only when they’re properly fitted, biomechanically appropriate for *your specific foot structure*, and worn consistently. Studies show that generic “diabetic shoes” without pressure mapping verification reduce ulcer risk by less than 15%, while individually optimized footwear cuts risk by over 50% in early Charcot.
 
-#### #### Are diabetic shoes ulcer prevention charcot foot strategies effective for seniors over 75?
+#### Are diabetic shoes ulcer prevention charcot foot strategies effective for seniors over 75?
 Yes, especially when combined with regular podiatric monitoring. A 2023 subanalysis of the Diabetic Foot Consortium found that adults 75+ with mild Charcot who used pressure-mapped therapeutic footwear had a 62% lower 3-year ulcer rate versus matched controls using standard footwear.
 
-#### #### Can I use off-the-shelf diabetic shoes instead of custom ones for ulcer prevention with Charcot foot?
+#### Can I use off-the-shelf diabetic shoes instead of custom ones for ulcer prevention with Charcot foot?
 Off-the-shelf models *may* work—if they’re professionally fitted, have a rigid rocker sole, and are validated with pressure mapping. However, research shows that 71% of older adults with mild Charcot require at least semi-custom modifications (e.g., added midfoot posting or metatarsal pads) to achieve safe pressure levels.
 
-#### #### What’s the difference between diabetic shoes and regular supportive shoes?
+#### What’s the difference between diabetic shoes and regular supportive shoes?
 Diabetic shoes must meet ADA/ANSI standards: extra depth, seamless interiors, non-binding uppers, and a firm heel counter. Regular supportive shoes—even high-end athletic brands—lack these specific design requirements and aren’t tested for neuropathic foot safety.
 
-#### #### How often should I replace my diabetic shoes for ulcer prevention?
+#### How often should I replace my diabetic shoes for ulcer prevention?
 Every 6–12 months—or sooner if the sole shows uneven wear, the heel counter loses rigidity, or orthotics compress beyond 30%. Worn-out shoes lose their pressure-relieving function, increasing ulcer risk even if they still “feel comfortable.”

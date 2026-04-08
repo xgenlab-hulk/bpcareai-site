@@ -99,22 +99,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What exactly is cold-weather sodium sensitivity pad seniors?
+#### What exactly is cold-weather sodium sensitivity pad seniors?
 
 Cold-weather sodium sensitivity pad seniors refers to the increased responsiveness of blood pressure and fluid balance to dietary sodium during colder months—especially in older adults with peripheral artery disease (PAD). Due to seasonal vasoconstriction and altered kidney function, sodium intake that was previously well-tolerated may now raise BP, worsen leg symptoms, or increase edema.
 
-#### #### Does cold-weather sodium sensitivity pad seniors affect women too?
+#### Does cold-weather sodium sensitivity pad seniors affect women too?
 
 Yes—though research shows men over 72 with PAD demonstrate some of the most pronounced shifts in sodium handling during winter. Women with PAD, hypertension, or kidney disease also experience seasonal sensitivity, but hormonal factors (like post-menopausal estrogen decline) and body composition differences can influence timing and severity. Everyone benefits from winter-aware sodium habits.
 
-#### #### How much sodium is safe for seniors with PAD in winter?
+#### How much sodium is safe for seniors with PAD in winter?
 
 For men over 72 with PAD, current guidance suggests aiming for **1,200–1,500 mg/day** during colder months—roughly 30% lower than typical “heart-healthy” recommendations of 2,000–2,300 mg. This range helps offset seasonal drops in sodium tolerance without risking deficiency. Always discuss targets with your care team, especially if you take diuretics or RAAS inhibitors.
 
-#### #### Can indoor heating make cold-weather sodium sensitivity pad seniors worse?
+#### Can indoor heating make cold-weather sodium sensitivity pad seniors worse?
 
 Absolutely. Overheated, dry indoor air contributes to subtle dehydration and activates the same sympathetic pathways as outdoor cold—amplifying vasoconstriction and sodium retention. Keep indoor temps around 68–70°F, use a humidifier (40–50% humidity), and sip low-sodium fluids regularly—even if you don’t feel thirsty.
 
-#### #### Are there foods that naturally help counteract cold-weather sodium sensitivity pad seniors?
+#### Are there foods that naturally help counteract cold-weather sodium sensitivity pad seniors?
 
 Yes. Potassium-rich foods—like baked sweet potatoes, bananas, spinach, white beans, and avocados—support healthy sodium-potassium balance and gentle fluid regulation. Magnesium-rich options (pumpkin seeds, almonds, dark leafy greens) also help relax blood vessels. Pair them with low-sodium preparation methods for best effect.

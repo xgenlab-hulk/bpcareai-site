@@ -86,17 +86,17 @@ Movement is one of the kindest things you can do for your heart — at any age. 
 
 ### FAQ
 
-#### #### Does exercise and temporary blood pressure increase mean I have hypertension?
+#### Does exercise and temporary blood pressure increase mean I have hypertension?
 No — not at all. Hypertension is diagnosed based on *resting* blood pressure readings taken on multiple occasions. A rise during activity is expected and healthy. Only persistent elevation *at rest* (≥130/80 mm Hg on repeated checks) suggests hypertension.
 
-#### #### How high is too high for exercise and temporary blood pressure increase?
+#### How high is too high for exercise and temporary blood pressure increase?
 For most adults, systolic BP up to **200 mm Hg** during vigorous activity is normal. However, consistent readings above **220/110 mm Hg**, especially with symptoms, warrant evaluation — as does failure to return toward baseline within 10 minutes of stopping.
 
-#### #### Can regular exercise lower my resting blood pressure even if I see an exercise and temporary blood pressure increase?
+#### Can regular exercise lower my resting blood pressure even if I see an exercise and temporary blood pressure increase?
 Yes — absolutely. In fact, consistent moderate activity (like 150 minutes/week of brisk walking) can lower resting systolic BP by **5–8 mm Hg**, on average. The temporary rise during movement helps train your vessels to relax more effectively *between* workouts.
 
-#### #### Why does my blood pressure sometimes spike during simple tasks like climbing stairs?
+#### Why does my blood pressure sometimes spike during simple tasks like climbing stairs?
 Stairs engage large muscle groups suddenly and require quick cardiovascular adjustment. A brief, sharp rise is normal — especially if you’re not used to that motion. Over time, with regular movement, your body becomes more efficient at meeting those demands without such pronounced spikes.
 
-#### #### Is it safe to exercise if I’m on blood pressure medication?
+#### Is it safe to exercise if I’m on blood pressure medication?
 In most cases, yes — and it’s encouraged. Some medications (like beta-blockers) may blunt your heart rate and BP response, while others (like ACE inhibitors) may support healthier vascular function. Always discuss your specific regimen and goals with your prescribing provider before starting a new routine.

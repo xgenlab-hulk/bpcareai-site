@@ -84,17 +84,17 @@ Seasonal shifts in mood are neither unusual nor shameful—especially as we age 
 
 ### FAQ  
 
-#### #### What are the most common signs of seasonal depression in older men?  
+#### What are the most common signs of seasonal depression in older men?  
 Older men often experience subtle, physical, or behavioral signs rather than classic sadness—like persistent fatigue, oversleeping or early-morning awakening, carbohydrate cravings, difficulty concentrating, social withdrawal, or increased irritability. Because these overlap with aging or chronic illness, they’re frequently overlooked.
 
-#### #### Why do men and hidden seasonal depression go hand-in-hand?  
+#### Why do men and hidden seasonal depression go hand-in-hand?  
 Cultural expectations around stoicism, lifelong habits of minimizing emotional discomfort, and a tendency to attribute mood changes to physical health or “just getting older” all contribute. Many men haven’t had practice naming or discussing low mood—making seasonal patterns especially easy to conceal, even from themselves.
 
-#### #### Can seasonal depression in older adults be mistaken for heart disease or high blood pressure?  
+#### Can seasonal depression in older adults be mistaken for heart disease or high blood pressure?  
 Yes—sometimes. Fatigue, low motivation, sleep disruption, and even chest tightness can appear in both seasonal depression and cardiovascular conditions. Since blood pressure often rises slightly in cold weather (a normal response), ongoing elevation *plus* mood changes warrants discussion with your doctor to explore possible links.
 
-#### #### Is light therapy safe for older adults with eye conditions or hypertension?  
+#### Is light therapy safe for older adults with eye conditions or hypertension?  
 Most standard light therapy boxes are safe for general use—including for those with well-managed hypertension. However, if you have retinal conditions (e.g., macular degeneration), glaucoma, or are taking photosensitizing medications (like some antibiotics or diuretics), consult your ophthalmologist or prescribing provider first.
 
-#### #### How is seasonal depression in older adults different from general depression?  
+#### How is seasonal depression in older adults different from general depression?  
 The key distinction is timing and recurrence: seasonal depression follows a clear annual pattern (usually fall/winter onset and spring remission) and improves without treatment when seasons change. General depression can occur at any time, lasts longer, and doesn’t follow light-related cycles—though both are valid, treatable, and sometimes co-occur.

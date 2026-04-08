@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "created_date": "2026-03-20",
+    "total_redirects": 35,
+    "batches_covered": ["batch-001", "batch-002"],
+    "purpose": "为Batch 1-2优化的35篇文章提供301永久重定向配置",
+    "usage": "将redirects数组内容添加到next.config.js的redirects()函数中"
+  },
+  "redirects": [
+    {
+      "source": "/articles/10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina",
+      "destination": "/articles/foods-strengthen-blood-vessels-naturally-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/10-foods-that-stabilize-cardiac-ion-channels-during-alcohol-exposure-for-adults-62-75-with-lqt2-variant-and-holiday-related-syncope",
+      "destination": "/articles/heart-safe-foods-long-qt-syndrome-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/10-foods-that-stabilize-coronary-microvascular-reactivity-not-just-lower-cholesterol-for-adults-61-with-inoca-and-no-obstructive-disease",
+      "destination": "/articles/chest-pain-clear-arteries-foods-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/10-foods-that-stabilize-fasting-glucose-without-lowering-it-for-adults-62-with-history-of-hypoglycemia-and-age-related-adrenal-blunting",
+      "destination": "/articles/prevent-low-blood-sugar-seniors-safe-foods",
+      "permanent": true
+    },
+    {
+      "source": "/articles/10-foods-that-stabilize-post-holiday-cortisol-rhythm-without-medication-for-adults-59-71-with-type-2-diabetes-and-chronic-stress",
+      "destination": "/articles/lower-cortisol-foods-diabetes-holiday-stress",
+      "permanent": true
+    },
+    {
+      "source": "/articles/10-foods-that-stabilize-postprandial-glucose-variability-in-adults-64-with-gastroparesis-and-type-2-diabetes",
+      "destination": "/articles/gastroparesis-diabetes-foods-blood-sugar-control",
+      "permanent": true
+    },
+    {
+      "source": "/articles/10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers",
+      "destination": "/articles/lower-pulse-pressure-foods-arterial-health",
+      "permanent": true
+    },
+    {
+      "source": "/articles/10-foods-that-stabilize-sympathetic-tone-during-loud-crowded-family-dinners-especially-for-adults-69-with-white-coat-hypertension-and-social-anxiety",
+      "destination": "/articles/calming-foods-anxiety-family-gatherings-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/10-foods-that-stabilize-systolic-diastolic-gap-without-lowering-overall-bp-for-adults-69-with-wide-pulse-pressure-and-preserved-cognitive-function",
+      "destination": "/articles/stabilize-blood-pressure-gap-naturally-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia",
+      "destination": "/articles/prevent-dizziness-heart-racing-holiday-meals-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/10-foods-that-support-glycemic-resilience-during-heat-waves-especially-for-adults-70-with-diabetes-and-medication-induced-hyponatremia-risk",
+      "destination": "/articles/blood-sugar-foods-hot-weather-diabetes-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max",
+      "destination": "/articles/energy-boosting-foods-seniors-over-70",
+      "permanent": true
+    },
+    {
+      "source": "/articles/10-foods-that-support-mitochondrial-resilience-during-holiday-stress-in-adults-57-74-with-chronic-fatigue",
+      "destination": "/articles/energy-foods-holiday-fatigue-chronic-fatigue-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia",
+      "destination": "/articles/soft-foods-holiday-meals-seniors-dysphagia",
+      "permanent": true
+    },
+    {
+      "source": "/articles/10-foods-that-worsen-diabetic-retinopathy-progression-even-with-normal-blood-pressure-and-ldl-in-adults-60-with-early-nonproliferative-changes",
+      "destination": "/articles/foods-worsen-diabetic-retinopathy",
+      "permanent": true
+    },
+    {
+      "source": "/articles/10-foods-that-worsen-endothelial-glycocalyx-thickness-in-adults-57-68-with-prediabetes-and-early-diastolic-dysfunction",
+      "destination": "/articles/foods-to-avoid-prediabetes-heart-health",
+      "permanent": true
+    },
+    {
+      "source": "/articles/10-heart-healthy-swaps-for-traditional-holiday-dishes-after-50",
+      "destination": "/articles/heart-healthy-holiday-swaps-seniors-50",
+      "permanent": true
+    },
+    {
+      "source": "/articles/10-high-fiber-holiday-foods-that-support-digestion-after-50",
+      "destination": "/articles/high-fiber-holiday-foods-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/10-medication-interactions-that-raise-bp-without-warning-from-otc-decongestants-to-topical-testosterone-in-men-over-68",
+      "destination": "/articles/medication-interactions-raise-blood-pressure-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone",
+      "destination": "/articles/holiday-medication-interactions-afib-drugs",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years",
+      "destination": "/articles/prevent-holiday-weight-gain-diabetes-adults",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits",
+      "destination": "/articles/reduce-post-meal-inflammation-seniors-over-58",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-improve-baroreflex-sensitivity-without-drugs-for-adults-59-76-with-isolated-systolic-hypertension-and-low-hrv",
+      "destination": "/articles/reduce-dizziness-standing-adults-60-prevent-falls",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-improve-baroreflex-sensitivity-without-medication-for-adults-67-80-with-orthostatic-hypotension-and-recurrent-falls",
+      "destination": "/articles/prevent-falls-elderly-natural-balance-tips-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-improve-left-ventricular-filling-pressure-without-diuretics-for-women-65-with-hfpef-and-preserved-ejection-fraction",
+      "destination": "/articles/manage-heart-failure-naturally-women-65-hfpef",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-lower-central-aortic-pressure-without-medication-for-adults-57-71-with-high-pulse-wave-velocity-and-normal-brachial-readings",
+      "destination": "/articles/lower-central-aortic-pressure-naturally-adults-55",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-55-72-with-long-standing-type-2-diabetes",
+      "destination": "/articles/prevent-a1c-rise-after-holidays-type-2-diabetes",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-59-72-with-well-controlled-diabetes-and-high-holiday-social-engagement",
+      "destination": "/articles/prevent-blood-sugar-spikes-holiday-parties-diabetes",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-prevent-post-holiday-delirium-episodes-in-adults-78-with-mild-dementia-and-polypharmacy",
+      "destination": "/articles/prevent-holiday-confusion-dementia-seniors-78",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness",
+      "destination": "/articles/lower-pulse-pressure-naturally-seniors-elderly",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75",
+      "destination": "/articles/lower-pulse-pressure-seniors-isolated-systolic-hypertension",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-lower-systolic-blood-pressure-without-medication-in-adults-55-66-with-mild-hypertension-and-high-occupational-stress",
+      "destination": "/articles/lower-blood-pressure-without-meds-adults-55-65",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-surprising-holiday-foods-that-help-stabilize-fasting-glucose-in-adults-62-with-dawn-phenomenon",
+      "destination": "/articles/stabilize-fasting-blood-sugar-dawn-phenomenon-foods",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-things-every-senior-should-know-about-alcohol-and-nocturnal-hypoglycemia-during-holiday-parties",
+      "destination": "/articles/alcohol-low-blood-sugar-night-seniors-holiday-parties",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-things-every-woman-over-62-should-know-about-estrogen-loss-and-fasting-glucose-creep",
+      "destination": "/articles/estrogen-loss-fasting-blood-sugar-women-62-menopause",
+      "permanent": true
+    }
+  ],
+  "instructions": {
+    "step_1": "打开 next.config.js 文件",
+    "step_2": "找到 async redirects() 函数",
+    "step_3": "将上述redirects数组内容添加到slugRedirects数组中",
+    "step_4": "保存并重新部署网站",
+    "step_5": "验证重定向是否生效: curl -I https://yourdomain.com/articles/[旧slug]"
+  }
+}

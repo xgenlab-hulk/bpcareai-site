@@ -57,22 +57,22 @@ Holiday snacking diabetic neuropathy doesn’t mean giving up joy—it means hon
 
 ### FAQ
 
-#### #### Can holiday snacking diabetic neuropathy cause low blood sugar at night?
+#### Can holiday snacking diabetic neuropathy cause low blood sugar at night?
 
 Yes—especially due to delayed gastric emptying. When food digests slowly, insulin (or medication) may peak *before* glucose from your snack fully enters your bloodstream—leading to a dip 2–4 hours later, often during sleep. Pairing carbs with protein and finishing snacks earlier helps prevent this.
 
-#### #### How does diabetic neuropathy change how I taste holiday foods?
+#### How does diabetic neuropathy change how I taste holiday foods?
 
 Early autonomic and sensory nerve changes can dull taste (especially sweetness), reduce ability to sense heat or cold, and alter texture perception—making spiced cider seem bland or roasted nuts feel “off.” This sometimes leads to overeating in search of satisfaction, unintentionally raising glucose.
 
-#### #### What are the best holiday snacks for someone with early-stage diabetic neuropathy?
+#### What are the best holiday snacks for someone with early-stage diabetic neuropathy?
 
 Focus on soft, warm (not hot), balanced options: baked cinnamon pears, cottage cheese with stewed cranberries, or a small portion of lentil soup. Prioritize fiber + protein + healthy fat to support steady glucose and gentle digestion.
 
-#### #### Does gastroparesis always mean I have advanced neuropathy?
+#### Does gastroparesis always mean I have advanced neuropathy?
 
 Not necessarily. Mild gastric slowing is common in early autonomic neuropathy—even with normal nerve conduction studies. It’s often reversible with consistent timing, texture adjustments, and glucose management.
 
-#### #### Can managing blood sugar during Christmas and New Year really prevent neuropathy progression?
+#### Can managing blood sugar during Christmas and New Year really prevent neuropathy progression?
 
 Yes—studies show maintaining average glucose <154 mg/dL (HbA1c <7.0%) significantly slows nerve damage progression. Small, sustainable changes during high-risk times like the holidays add up meaningfully over time.

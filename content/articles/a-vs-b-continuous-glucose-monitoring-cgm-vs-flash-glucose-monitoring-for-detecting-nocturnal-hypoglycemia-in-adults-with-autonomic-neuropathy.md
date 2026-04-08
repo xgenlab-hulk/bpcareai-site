@@ -76,22 +76,22 @@ Living well with diabetes and autonomic neuropathy means balancing vigilance wit
 
 ### FAQ
 
-#### #### Is CGM better than flash for detecting nighttime lows in people with nerve damage from diabetes?
+#### Is CGM better than flash for detecting nighttime lows in people with nerve damage from diabetes?
 
 Yes—especially for those with autonomic neuropathy. CGM provides real-time alerts and predictive low-glucose suspend features, while flash requires manual scanning. In clinical studies, CGM detected 92% of nocturnal lows before they became severe, versus 68% for flash in adults with confirmed autonomic neuropathy.
 
-#### #### What does “cgm vs flash glucose monitoring neuropathy” really mean for my daily routine?
+#### What does “cgm vs flash glucose monitoring neuropathy” really mean for my daily routine?
 
 It refers to how these two technologies perform when your body’s natural low-blood-sugar warnings are dampened by nerve damage. CGM offers automated alerts and trend forecasting, reducing reliance on symptoms or memory. Flash is simpler to start but places more responsibility on consistent, timely scanning—especially overnight—making it less reliable for asymptomatic hypoglycemia detection in neuropathy.
 
-#### #### Can flash glucose monitoring be safe for someone with diabetic neuropathy?
+#### Can flash glucose monitoring be safe for someone with diabetic neuropathy?
 
 It *can* be safe—if used intentionally. People with mild neuropathy, strong routines, and caregiver support may do well with flash. However, those with impaired hypoglycemia awareness, living alone, or experiencing frequent nighttime lows should strongly consider CGM, given its superior detection rates in this population.
 
-#### #### Do I still need fingerstick tests if I use CGM or flash?
+#### Do I still need fingerstick tests if I use CGM or flash?
 
 Yes. Both technologies measure glucose in interstitial fluid—not blood—and can lag or drift, especially during rapid glucose changes or in areas affected by neuropathy. Always confirm treatment decisions (like treating a low) with a fingerstick test when symptoms don’t match the reading.
 
-#### #### How often should I replace my sensor if I have neuropathy?
+#### How often should I replace my sensor if I have neuropathy?
 
 Most CGM and flash sensors last 10–14 days. However, if you notice increasing lag, poor adhesion, or frequent calibration errors (for calibrating CGMs), consider earlier replacement—particularly if you have peripheral neuropathy affecting skin integrity or circulation. Discuss patterns with your diabetes care team.

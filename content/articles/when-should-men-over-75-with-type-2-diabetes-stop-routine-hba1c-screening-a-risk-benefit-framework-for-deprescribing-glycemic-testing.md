@@ -82,17 +82,17 @@ Deciding when to stop hba1c screening elderly men is not a sign of giving up—i
 
 ### FAQ
 
-#### #### At what age should men stop HbA1c screening?
+#### At what age should men stop HbA1c screening?
 There’s no universal age cutoff. Decisions should be based on overall health, not calendar years. However, guidelines—including those from the American Diabetes Association (ADA) and American Geriatrics Society—suggest reassessing the need for routine HbA1c testing starting at age 75, especially in the presence of frailty, dementia, or limited life expectancy.
 
-#### #### Can I stop hba1c screening elderly men if my diabetes is well-controlled?
+#### Can I stop hba1c screening elderly men if my diabetes is well-controlled?
 Possibly—but “well-controlled” looks different with age. If your current regimen is safe, simple, and aligned with your goals (e.g., avoiding falls or hospital visits), continuing routine A1c testing may not add value. The key question is: *Will this result change what we do?* If not, it may be time to stop hba1c screening elderly men.
 
-#### #### What happens if we stop HbA1c screening in older adults with diabetes?
+#### What happens if we stop HbA1c screening in older adults with diabetes?
 Stopping routine A1c testing doesn’t mean stopping diabetes care. It usually means shifting focus to symptom monitoring, medication safety, nutrition, and functional goals. Research shows this approach maintains quality of life while reducing hypoglycemia and treatment burden.
 
-#### #### Do doctors ever recommend stopping A1c tests for seniors?
+#### Do doctors ever recommend stopping A1c tests for seniors?
 Yes—increasingly so. Major clinical guidelines now endorse individualized, goal-directed care for older adults. The 2023 ADA Standards of Care state that “HbA1c targets and monitoring frequency should be relaxed for older adults with limited life expectancy or high burden of comorbidity.”
 
-#### #### Is stopping HbA1c screening the same as stopping all blood sugar checks?
+#### Is stopping HbA1c screening the same as stopping all blood sugar checks?
 No. Stopping routine HbA1c screening is different from eliminating all glucose monitoring. Many clinicians still recommend occasional fingerstick checks—especially for those on insulin or prone to lows—to ensure safety and guide day-to-day decisions.

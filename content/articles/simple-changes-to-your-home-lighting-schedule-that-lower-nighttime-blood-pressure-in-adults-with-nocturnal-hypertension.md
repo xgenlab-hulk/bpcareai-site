@@ -73,22 +73,22 @@ Supporting your heart health doesn’t always mean dramatic changes—it often m
 
 ### FAQ
 
-#### #### Can changing home lighting and nighttime blood pressure habits really make a difference for older adults?
+#### Can changing home lighting and nighttime blood pressure habits really make a difference for older adults?
 
 Yes—especially for adults over 50. As we age, our circadian system becomes more sensitive to light timing and less resilient to disruptions. Studies show that structured lighting interventions can lower nighttime systolic BP by 5–8 mm Hg within weeks, reducing strain on arteries and supporting healthier heart disease outcomes.
 
-#### #### How does home lighting and nighttime blood pressure relate to melatonin?
+#### How does home lighting and nighttime blood pressure relate to melatonin?
 
 Light—particularly blue light in the evening—delays melatonin release. Since melatonin helps coordinate nighttime drops in heart rate, vascular tone, and renin activity, disrupted melatonin timing can contribute to elevated or non-dipping BP. Supporting natural melatonin rhythms through lighting helps restore this protective nighttime dip.
 
-#### #### What’s the best type of bulb for evening use to support home lighting and nighttime blood pressure?
+#### What’s the best type of bulb for evening use to support home lighting and nighttime blood pressure?
 
 Look for bulbs labeled “2700K” or “warm white” (they emit minimal blue light). Avoid cool-white (4000K+) or daylight (5000K–6500K) bulbs in living areas and bedrooms after 7 p.m. Dimmable options let you gradually reduce intensity in the hour before bed—another gentle cue for your nervous system to shift into rest mode.
 
-#### #### Does screen time before bed affect nighttime blood pressure?
+#### Does screen time before bed affect nighttime blood pressure?
 
 It can—especially if devices are used without blue-light filters in the 1–2 hours before sleep. Evening screen exposure has been associated with delayed melatonin onset, reduced sleep efficiency, and higher nocturnal systolic BP in multiple observational studies. Using built-in “night shift” or “blue light filter” settings—and keeping screens at arm’s length—helps minimize impact.
 
-#### #### Is it safe to adjust home lighting and nighttime blood pressure strategies while taking blood pressure medication?
+#### Is it safe to adjust home lighting and nighttime blood pressure strategies while taking blood pressure medication?
 
 Yes—lighting adjustments are non-pharmacological and generally safe to use alongside prescribed treatment. In fact, optimizing circadian cues may enhance how well medications work—especially those timed to align with natural rhythms (like certain ACE inhibitors). Always share lifestyle changes with your care team so they can interpret BP trends accurately.

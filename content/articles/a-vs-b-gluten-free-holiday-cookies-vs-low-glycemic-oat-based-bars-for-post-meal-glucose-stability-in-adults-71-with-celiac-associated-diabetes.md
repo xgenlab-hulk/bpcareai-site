@@ -40,17 +40,17 @@ In summary, while both options avoid gluten, oat-based bars generally support mo
 
 ### FAQ
 
-#### #### Are gluten-free cookies vs oat bars diabetes-friendly for seniors with celiac disease?
+#### Are gluten-free cookies vs oat bars diabetes-friendly for seniors with celiac disease?
 Yes—but with critical distinctions. Certified gluten-free oat bars (with ≥3 g beta-glucan and no added sugars) consistently outperform most gluten-free cookies in CGM studies for older adults. Cookies often contain high-GI starch blends that trigger sharper glucose spikes, even without gluten.
 
-#### #### How do gluten-free cookies vs oat bars diabetes impact blood sugar differently in people over 70?
+#### How do gluten-free cookies vs oat bars diabetes impact blood sugar differently in people over 70?
 In adults 71+, oat bars typically lower 2-hour postprandial glucose by 35–40 mg/dL compared to gluten-free cookies, largely due to delayed gastric emptying and enhanced incretin response. Age-related reductions in DPP-4 enzyme activity also prolong GLP-1 effects when beta-glucan is present.
 
-#### #### Can I substitute gluten-free cookies for oat bars diabetes management during holidays?
+#### Can I substitute gluten-free cookies for oat bars diabetes management during holidays?
 Occasionally—yes—but not interchangeably. One gluten-free cookie (avg. 15 g net carbs) may raise glucose as much as two small oat bars (combined 14 g net carbs + 4 g fiber). Prioritize oat bars for main snacks; reserve cookies for occasional, smaller servings paired with protein/fat.
 
-#### #### Do oat bars raise blood pressure?
+#### Do oat bars raise blood pressure?
 No—well-formulated oat bars (low in sodium, high in potassium and magnesium) may actually support healthy arterial pressure. Beta-glucan has been associated with modest systolic BP reductions (~2–3 mm Hg) in meta-analyses of older adults.
 
-#### #### What’s the best time of day to eat oat bars for diabetes control?
+#### What’s the best time of day to eat oat bars for diabetes control?
 Morning or early afternoon is optimal. Cortisol peaks in the morning, increasing insulin resistance; pairing oat bars with light movement (e.g., 5-min walk post-snack) improves glucose disposal by ~22% in geriatric populations.

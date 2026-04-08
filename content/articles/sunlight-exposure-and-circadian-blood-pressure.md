@@ -73,17 +73,17 @@ The beautiful truth about circadian health is that our internal clocks remain re
 
 ### FAQ  
 
-#### #### Does sitting by a sunny window help with circadian blood pressure regulation?  
+#### Does sitting by a sunny window help with circadian blood pressure regulation?  
 Not significantly—standard window glass blocks most of the short-wavelength light (especially 460–480 nm) needed to stimulate the retinal cells that signal the brain’s circadian center. While it provides warmth and brightness, it lacks the spectral quality required for robust SCN entrainment. For meaningful impact on *sunlight exposure and circadian blood pressure*, direct outdoor exposure is far more effective.
 
-#### #### Can sunlight exposure and circadian blood pressure improve even if I have high blood pressure already?  
+#### Can sunlight exposure and circadian blood pressure improve even if I have high blood pressure already?  
 Yes. Research shows that regular morning light exposure supports healthier 24-hour BP patterns—including improved nocturnal dipping—even in adults with established hypertension. It works alongside medication and lifestyle changes, not instead of them. Think of it as helping your body’s natural rhythm cooperate with your treatment plan.
 
-#### #### How much morning sunlight do older adults really need for circadian benefits?  
+#### How much morning sunlight do older adults really need for circadian benefits?  
 Studies suggest that just **5–15 minutes** of outdoor light between 7–9 a.m. is sufficient for most adults 70+ to begin shifting melatonin timing and supporting better BP rhythm. Longer duration isn’t necessarily better—consistency matters more than intensity. Even on overcast days, outdoor light delivers significantly more biologically active photons than indoor alternatives.
 
-#### #### Is artificial light (like light therapy lamps) a good substitute for sunlight exposure and circadian blood pressure support?  
+#### Is artificial light (like light therapy lamps) a good substitute for sunlight exposure and circadian blood pressure support?  
 High-quality light boxes (10,000 lux, emitting 460–480 nm peak wavelengths, with UV-filtered output) can be effective—especially in winter or for those unable to go outside. However, natural light remains the gold standard: it contains dynamic spectral shifts, subtle intensity variations, and environmental cues (like movement, fresh air, and horizon cues) that enhance circadian signaling beyond what static artificial sources provide.
 
-#### #### Does wearing sunglasses in the morning affect sunlight exposure and circadian blood pressure?  
+#### Does wearing sunglasses in the morning affect sunlight exposure and circadian blood pressure?  
 Yes—if worn during early-morning light exposure (before ~10 a.m.), most sunglasses reduce melanopsin-stimulating light by 70–90%, blunting the circadian signal. If you need eye protection due to glare or light sensitivity, consider lenses labeled “circadian-friendly” or “blue-enhancing,” or simply remove them briefly during your 5-minute outdoor window while staying seated and comfortable.

@@ -73,17 +73,17 @@ Holiday travel with diabetes doesn’t have to mean constant vigilance or compro
 
 ### FAQ  
 
-#### #### Which glucose monitors work without Wi-Fi for seniors traveling to rural areas?  
+#### Which glucose monitors work without Wi-Fi for seniors traveling to rural areas?  
 Several FDA-cleared flash glucose systems store data locally for 14+ days and sync later—no constant connection needed. Look for models explicitly listing “offline data storage” and “manual sync via USB or Bluetooth” in their user guides.
 
-#### #### What’s the best travel glucose monitor seniors offline sync for cold-weather trips?  
+#### What’s the best travel glucose monitor seniors offline sync for cold-weather trips?  
 Devices certified for operation between 32°F–104°F (not just storage) are safest. Battery chemistry matters too—lithium-polymer tends to outperform alkaline in temperature extremes. Always carry spares in an inside coat pocket, not a backpack left in the car.
 
-#### #### How do I know if my current CGM supports offline sync for holiday travel?  
+#### How do I know if my current CGM supports offline sync for holiday travel?  
 Check your device manual for “local memory capacity” (e.g., “stores 14 days of glucose data”) and “sync method” (e.g., “Bluetooth sync to smartphone, no internet required”). If it says “requires cloud upload” or “real-time alerts only via app,” it likely lacks robust offline capability.
 
-#### #### Are there travel glucose monitors seniors offline sync options with large-button interfaces?  
+#### Are there travel glucose monitors seniors offline sync options with large-button interfaces?  
 Yes—some newer models offer optional high-visibility mode, physical side buttons, and simplified home screens. Ask your diabetes educator to demo units in person; many clinics keep samples for hands-on testing.
 
-#### #### Can grandchildren accidentally disrupt my glucose monitor’s offline sync?  
+#### Can grandchildren accidentally disrupt my glucose monitor’s offline sync?  
 Unlikely—but they *can* interfere with Bluetooth pairing or bump the sensor loose. Teach them gentle curiosity (“Let’s watch the numbers change together!”), and consider a soft silicone sensor cover for extra security during hugs and playtime.

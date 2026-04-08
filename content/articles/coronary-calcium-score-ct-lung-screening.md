@@ -57,17 +57,17 @@ Getting a coronary calcium score during routine lung screening is a valuable opp
 
 ### FAQ
 
-#### #### Does CT lung screening reliably measure coronary calcium score?
+#### Does CT lung screening reliably measure coronary calcium score?
 Not always—and reliability drops in people with emphysema or distorted chest anatomy. Automated software used in **coronary calcium score ct lung screening** can misattribute bronchial or nodal calcification as coronary, especially without expert review. Always discuss results with a provider familiar with both pulmonary and cardiac imaging.
 
-#### #### Can emphysema cause a falsely high coronary calcium score ct lung screening?
+#### Can emphysema cause a falsely high coronary calcium score ct lung screening?
 Yes. Emphysema-related airway remodeling increases bronchial wall calcification, which may overlap spatially with coronary arteries on low-dose CT. Studies show up to 30% of “high” CAC scores in older smokers with COPD are downgraded after expert re-evaluation.
 
-#### #### What’s a normal coronary calcium score ct lung screening result for someone my age?
+#### What’s a normal coronary calcium score ct lung screening result for someone my age?
 There’s no universal “normal,” but median CAC scores rise steadily after age 60: roughly 40–60 for men and 20–30 for women at age 65. More important than the number is its percentile for your age, sex, and ethnicity—ask for that context.
 
-#### #### Is coronary calcium score the same as a stress test?
+#### Is coronary calcium score the same as a stress test?
 No. A CAC score measures calcified plaque *burden* (a marker of long-term atherosclerosis). A stress test evaluates *blood flow* and heart function *under exertion*. They answer different questions—and neither replaces the other in assessing overall heart disease risk.
 
-#### #### Do I need a separate heart scan if I got a coronary calcium score ct lung screening?
+#### Do I need a separate heart scan if I got a coronary calcium score ct lung screening?
 Usually not—unless your score is unexpectedly high *and* you have no traditional risk factors (e.g., no high BP, diabetes, smoking, or family history), or if symptoms suggest possible ischemia. Your doctor can help decide if further testing adds value.

@@ -93,22 +93,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does sleep apnea affect insulin clearance in diabetics differently as we age?
+#### Does sleep apnea affect insulin clearance in diabetics differently as we age?
 
 Yes. After age 50, natural declines in growth hormone, lean muscle mass, and liver detox capacity make the body more sensitive to intermittent hypoxia. Studies show adults 60+ with OSA have 25% slower insulin clearance rates than younger counterparts with similar AHI—highlighting why age-specific assessment matters.
 
-#### #### How does CPAP therapy improve insulin clearance in diabetics with sleep apnea?
+#### How does CPAP therapy improve insulin clearance in diabetics with sleep apnea?
 
 CPAP restores normal oxygenation and reduces sympathetic activation, allowing the liver to resume proper IDE enzyme activity and insulin receptor recycling. Clinical trials report improved insulin clearance rates within 10–14 days of consistent CPAP use—even before significant weight loss occurs.
 
-#### #### Can untreated sleep apnea cause insulin resistance even if blood sugar looks normal?
+#### Can untreated sleep apnea cause insulin resistance even if blood sugar looks normal?
 
 Absolutely. Early-stage insulin resistance often shows up first as elevated fasting insulin (not glucose) and higher post-meal glucose variability. This “pre-hyperglycemic” phase can last years—and is strongly associated with moderate-to-severe OSA in adults with BMI >30.
 
-#### #### Is there a link between sleep apnea, insulin clearance, and high blood pressure?
+#### Is there a link between sleep apnea, insulin clearance, and high blood pressure?
 
 Yes—strongly. Intermittent hypoxia activates the renin-angiotensin-aldosterone system (RAAS), raising arterial pressure and promoting vascular stiffness. Since both hypertension and impaired insulin clearance share underlying inflammation and endothelial dysfunction, they often coexist and amplify each other—making integrated care essential.
 
-#### #### What’s the best test to assess insulin clearance in someone with sleep apnea and diabetes?
+#### What’s the best test to assess insulin clearance in someone with sleep apnea and diabetes?
 
 While direct measurement requires complex modeling (e.g., euglycemic clamp with labeled insulin), practical proxies include fasting insulin + C-peptide ratio, HOMA-IR, and oral glucose tolerance tests with insulin sampling at 0, 30, 60, and 120 minutes. Paired with AHI and ODI data, these offer a functional picture of clearance efficiency.

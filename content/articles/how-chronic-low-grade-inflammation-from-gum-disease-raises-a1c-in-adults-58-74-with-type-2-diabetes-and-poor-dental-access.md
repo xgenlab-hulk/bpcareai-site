@@ -90,17 +90,17 @@ Understanding the connection between gum disease and A1C elevation older adults 
 
 ### FAQ  
 
-#### #### Does gum disease really raise A1C in older adults?  
+#### Does gum disease really raise A1C in older adults?  
 Yes—multiple studies confirm it. Chronic gum inflammation increases IL-6 and TNF-α, which interfere with insulin function. In adults 58–74 with type 2 diabetes, untreated periodontitis is associated with A1C elevations averaging 0.3%–0.8%, independent of other factors.  
 
-#### #### How does gum disease and A1C elevation older adults affect heart health?  
+#### How does gum disease and A1C elevation older adults affect heart health?  
 It’s a triple link: gum disease raises systemic inflammation → worsens insulin resistance → contributes to endothelial dysfunction and arterial stiffness. This creates a cycle that increases cardiovascular risk—especially since high A1C and hypertension often coexist. Managing gum health supports both glycemic *and* cardiovascular stability.  
 
-#### #### Can improving my oral hygiene lower my A1C without seeing a dentist?  
+#### Can improving my oral hygiene lower my A1C without seeing a dentist?  
 Evidence suggests yes—modestly but meaningfully. One 2021 randomized trial found adults 60+ with type 2 diabetes who adopted daily interdental cleaning + antimicrobial rinse saw an average A1C reduction of 0.27% over 6 months—even without professional scaling. Consistency matters more than intensity.  
 
-#### #### Is bleeding gums normal as I get older?  
+#### Is bleeding gums normal as I get older?  
 No—bleeding is *never* normal, even in older adults. It signals active inflammation and should be addressed. While gum tissue may thin with age, healthy gums don’t bleed with gentle brushing. Persistent bleeding is a sign to adjust your routine or consult a provider.  
 
-#### #### What’s the best toothpaste for someone with diabetes and gum disease?  
+#### What’s the best toothpaste for someone with diabetes and gum disease?  
 Look for fluoride toothpaste with stannous fluoride (proven anti-plaque/anti-gingivitis properties) and no harsh abrasives. Avoid whitening formulas with high peroxide or sodium lauryl sulfate (SLS), which can irritate sensitive tissues. Always check with your dentist or pharmacist if you use dentures or have dry mouth.

@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "created_date": "2026-03-21",
+    "batch_number": 4,
+    "total_redirects": 50,
+    "articles_range": "86-135",
+    "success_rate": "100%"
+  },
+  "redirects": [
+    {
+      "source": "/articles/12-things-every-woman-over-72-should-know-about-nocturnal-hypertension-especially-after-bilateral-oophorectomy-and-long-term-aromatase-inhibitor-use",
+      "destination": "/articles/nighttime-bp-wont-dip-cancer-meds-women-72",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-unexpected-household-products-that-raise-blood-pressure-from-air-fresheners-to-laundry-detergents",
+      "destination": "/articles/air-fresheners-spike-bp-products-swap-55",
+      "permanent": true
+    },
+    {
+      "source": "/articles/13-science-backed-ways-to-reduce-holiday-sodium-load-without-losing-flavor-focused-on-umami-layering-herb-infusion-timing-and-potassium-rich-swaps",
+      "destination": "/articles/holiday-food-bland-salt-flavor-tricks-50",
+      "permanent": true
+    },
+    {
+      "source": "/articles/14-hidden-portion-traps-in-mini-holiday-treats-that-sabotage-blood-pressure-control-in-adults-69-with-salt-sensitive-hypertension",
+      "destination": "/articles/mini-treats-spike-bp-sodium-traps-69",
+      "permanent": true
+    },
+    {
+      "source": "/articles/14-medications-that-lower-blood-pressure-indirectly-from-antidepressants-to-antipsychotics-and-why-that-matters-for-frail-seniors",
+      "destination": "/articles/antidepressant-dizziness-meds-drop-bp-70",
+      "permanent": true
+    },
+    {
+      "source": "/articles/3-simple-breathing-techniques-to-reduce-heart-stress-in-cold-air",
+      "destination": "/articles/cold-air-breathing-heart-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/3-simple-steps-to-prevent-post-holiday-hba1c-drift-even-if-you-did-fine-during-the-festivities-in-adults-57-66-with-stable-prediabetes",
+      "destination": "/articles/hba1c-drift-post-holidays-prediabetes",
+      "permanent": true
+    },
+    {
+      "source": "/articles/4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts",
+      "destination": "/articles/appetite-suppressants-holiday-feasts-50s",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-common-medication-adjustments-seniors-need-in-winter",
+      "destination": "/articles/winter-med-adjustments-bp-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-easy-morning-routines-to-stabilize-blood-sugar-after-a-holiday-feast",
+      "destination": "/articles/morning-blood-sugar-reset-holiday-feast",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-foods-that-raise-blood-pressure-even-if-they-re-low-sodium",
+      "destination": "/articles/low-sodium-foods-raise-bp-50plus",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-foods-that-support-gut-microbiome-resilience-during-multi-day-family-gatherings-for-adults-55-69-with-ibs-d-and-seasonal-stress-induced-flares",
+      "destination": "/articles/holiday-ibs-d-foods-stop-diarrhea-55-69",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-foods-that-support-mitochondrial-membrane-integrity-during-high-fat-holiday-meals-for-adults-65-with-statin-associated-myopathy",
+      "destination": "/articles/statin-muscle-pain-holiday-foods-65plus",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-foods-that-support-salivary-amylase-activity-without-increasing-carbohydrate-load-for-adults-77-with-xerostomia-and-mild-dysphagia",
+      "destination": "/articles/dry-mouth-swallowing-foods-seniors-77",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid",
+      "destination": "/articles/hidden-sodium-holiday-bp-foods-50plus",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners",
+      "destination": "/articles/mindful-eating-family-dinners-50s",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-mistakes-that-make-holiday-weight-gain-harder-to-reverse-after-age-58",
+      "destination": "/articles/holiday-weight-loss-mistakes-58",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-natural-light-therapy-alternatives-for-seniors-with-macular-degeneration-or-cataracts-who-can-t-use-standard-sad-lamps",
+      "destination": "/articles/light-therapy-vision-loss-seniors-65",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-natural-potassium-rich-foods-that-don-t-interact-with-spironolactone-safe-for-adults-60-82-with-resistant-hypertension",
+      "destination": "/articles/spironolactone-safe-potassium-foods-60-82",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-natural-ways-to-improve-coronary-microvascular-function-without-medication-especially-for-women-with-inoca-and-normal-coronary-angiograms",
+      "destination": "/articles/inoca-natural-treatment-women-50s",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties",
+      "destination": "/articles/blood-sugar-crash-holiday-snacks-50s",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-science-backed-ways-to-reduce-holiday-related-insulin-resistance",
+      "destination": "/articles/reduce-insulin-resistance-holidays-50s",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60",
+      "destination": "/articles/holiday-muscle-loss-warning-signs-60s",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily",
+      "destination": "/articles/low-protein-sarcopenia-holiday-signs-60s",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-signs-your-holiday-stress-is-spiking-cortisol-and-raising-fasting-glucose-without-you-noticing",
+      "destination": "/articles/holiday-stress-cortisol-blood-sugar-60s",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-silent-signs-your-heart-is-struggling-in-cold-weather",
+      "destination": "/articles/heart-struggling-cold-weather-signs",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications",
+      "destination": "/articles/dehydration-signs-diuretics-holiday",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor",
+      "destination": "/articles/heart-healthy-casserole-swaps-low-sodium",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose",
+      "destination": "/articles/holiday-dishes-glucose-safe-swaps",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-surprising-foods-that-may-trigger-holiday-heart-syndrome",
+      "destination": "/articles/holiday-foods-trigger-heart-palpitations",
+      "permanent": true
+    },
+    {
+      "source": "/articles/family-history-bp-monitoring-50s",
+      "destination": "/articles/family-history-bp-home-monitoring-50s",
+      "permanent": true
+    },
+    {
+      "source": "/articles/high-bp-diagnosis-holiday-party-53-64",
+      "destination": "/articles/new-bp-diagnosis-holiday-party-53-64",
+      "permanent": true
+    },
+    {
+      "source": "/articles/high-bp-hosting-holiday-dinner-55-63",
+      "destination": "/articles/new-bp-hosting-holiday-dinner-55-63",
+      "permanent": true
+    },
+    {
+      "source": "/articles/prediabetes-holiday-potluck-guide-55-64",
+      "destination": "/articles/prediabetes-holiday-potluck-55-64",
+      "permanent": true
+    },
+    {
+      "source": "/articles/ace-inhibitors-brain-fog-60-69",
+      "destination": "/articles/ace-inhibitors-brain-fog-memory-60-69",
+      "permanent": true
+    },
+    {
+      "source": "/articles/insulin-diabetes-potluck-party-70-plus",
+      "destination": "/articles/insulin-potluck-blood-sugar-70s",
+      "permanent": true
+    },
+    {
+      "source": "/articles/aortic-stenosis-bp-monitoring-74-plus",
+      "destination": "/articles/aortic-stenosis-bp-errors-74s",
+      "permanent": true
+    },
+    {
+      "source": "/articles/cardiac-rehab-memory-issues-safety-75-plus",
+      "destination": "/articles/cardiac-rehab-memory-loss-75s",
+      "permanent": true
+    },
+    {
+      "source": "/articles/nitroglycerin-dementia-caregiver-safety-78-plus",
+      "destination": "/articles/nitroglycerin-dementia-caregiver-78s",
+      "permanent": true
+    },
+    {
+      "source": "/articles/diabetic-foot-ulcers-holiday-hosting-caregiver",
+      "destination": "/articles/foot-ulcers-holiday-hosting-guide",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-things-every-caregiver-should-know-before-preparing-holiday-meals-for-a-senior-with-early-stage-alzheimer-s-and-sundowning",
+      "destination": "/articles/holiday-meals-alzheimers-sundowning",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment",
+      "destination": "/articles/holiday-dysphagia-swallowing-safety",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy",
+      "destination": "/articles/holiday-type-1-diabetes-blood-sugar",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-things-every-caregiver-should-know-before-taking-an-aging-parent-to-a-new-year-s-eve-party",
+      "destination": "/articles/new-years-eve-party-safety-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-things-every-man-over-55-should-know-about-normal-morning-heart-rate-variability-especially-with-untreated-mild-sleep-disordered-breathing",
+      "destination": "/articles/morning-hrv-sleep-apnea-men-55",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-things-every-man-over-65-taking-testosterone-replacement-should-know-about-its-effect-on-insulin-receptor-tyrosine-kinase-activity-and-glucose-uptake-efficiency",
+      "destination": "/articles/trt-insulin-resistance-men-65",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-things-every-man-over-68-with-low-testosterone-and-type-2-diabetes-should-know-about-muscle-protein-synthesis-and-glucose-uptake",
+      "destination": "/articles/low-testosterone-diabetes-muscle-men-68",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-things-every-woman-58-67-with-autoimmune-thyroid-disease-should-know-before-sharing-a-holiday-buffet",
+      "destination": "/articles/holiday-buffets-thyroid-hashimoto-women",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-things-every-woman-68-with-gestational-diabetes-history-should-know-before-starting-glp-1-agonist-therapy",
+      "destination": "/articles/glp1-gestational-diabetes-women-68",
+      "permanent": true
+    },
+    {
+      "source": "/articles/5-things-every-woman-over-62-should-know-about-calcium-fortified-eggnog-and-bone-mineral-density-especially-with-long-term-ppi-use",
+      "destination": "/articles/calcium-eggnog-bone-ppi-women-62",
+      "permanent": true
+    }
+  ]
+}

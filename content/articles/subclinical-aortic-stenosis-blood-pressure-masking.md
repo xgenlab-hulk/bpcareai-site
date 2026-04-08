@@ -62,22 +62,22 @@ While subclinical aortic stenosis blood pressure masking sounds complex, it’s 
 
 ### FAQ
 
-#### #### Can subclinical aortic stenosis blood pressure masking happen even with normal echocardiogram results?
+#### Can subclinical aortic stenosis blood pressure masking happen even with normal echocardiogram results?
 
 Yes—it’s possible. Standard echocardiograms assess peak pressure gradients at rest, which may remain normal despite early valve stiffening and rising NT-proBNP. Advanced techniques (like dobutamine stress echo or 4D flow MRI) or serial biomarker tracking often reveal progression before echo changes become obvious.
 
-#### #### What does subclinical aortic stenosis blood pressure masking mean for my daily life?
+#### What does subclinical aortic stenosis blood pressure masking mean for my daily life?
 
 It doesn’t mean immediate risk—but it does suggest your heart is adapting quietly. That makes consistent follow-up, lifestyle support, and attention to subtle symptoms especially valuable. Most people continue everyday activities without restriction at this stage.
 
-#### #### Is high blood pressure required for subclinical aortic stenosis blood pressure masking to occur?
+#### Is high blood pressure required for subclinical aortic stenosis blood pressure masking to occur?
 
 No—this phenomenon is most common in people with *stable or even low-normal* BP. The masking occurs because the heart compensates so effectively that systemic pressure stays unchanged, even as valve function gradually declines.
 
-#### #### How often should NT-proBNP be checked in adults over 75 with stable BP?
+#### How often should NT-proBNP be checked in adults over 75 with stable BP?
 
 For those with known valve thickening or borderline findings, checking NT-proBNP every 6–12 months is reasonable. A sustained rise—especially above 450 pg/mL in adults 75+—warrants deeper cardiovascular evaluation.
 
-#### #### Does taking blood pressure medication hide signs of aortic stenosis?
+#### Does taking blood pressure medication hide signs of aortic stenosis?
 
 Some medications (like beta-blockers) may reduce the measured gradient on echo, making stenosis appear milder than it is. That’s why clinical context, symptoms, and biomarkers matter just as much as numbers alone.

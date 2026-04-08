@@ -44,17 +44,17 @@ In short, the evidence doesn’t promise dramatic drops—but it *does* suggest 
 
 ### FAQ
 
-#### #### Does cold water immersion systolic blood pressure RCT show long-term benefits?
+#### Does cold water immersion systolic blood pressure RCT show long-term benefits?
 Yes—the 12-week *cold water immersion systolic blood pressure rct* demonstrated a statistically significant average reduction of 6.2 mm Hg in morning systolic BP by week 12, sustained for 4 weeks post-intervention in follow-up testing. Benefits faded gradually when immersion stopped, suggesting consistency matters.
 
-#### #### Can cold water immersion systolic lower BP in people over 70?
+#### Can cold water immersion systolic lower BP in people over 70?
 The original *cold water immersion systolic blood pressure rct* capped enrollment at age 72, so data for those over 70 is limited. Small pilot studies suggest similar adaptations may occur—but safety monitoring becomes even more important due to age-related reductions in baroreflex sensitivity and vascular elasticity.
 
-#### #### Is 10 minutes of cold water immersion safe for someone with high blood pressure?
+#### Is 10 minutes of cold water immersion safe for someone with high blood pressure?
 For most adults with *well-controlled* hypertension (systolic <150 mm Hg on treatment), yes—if introduced gradually and monitored. But if systolic regularly exceeds 160 mm Hg or you experience palpitations or chest discomfort during cold exposure, pause and consult your physician.
 
-#### #### Does cold showering count as cold water immersion for BP benefits?
+#### Does cold showering count as cold water immersion for BP benefits?
 Not quite. Most *cold water immersion systolic blood pressure rct*-aligned protocols use seated immersion up to the clavicle (not just feet or hands) for consistent thermal load. Showers involve variable flow, temperature, and surface area—making effects less predictable.
 
-#### #### What’s the ideal water temperature for cold water immersion systolic benefits?
+#### What’s the ideal water temperature for cold water immersion systolic benefits?
 Research points to 14–16°C (57–61°F) as the sweet spot: cool enough to trigger adaptive autonomic responses, but not so cold as to provoke excessive sympathetic surge or breath-holding. Avoid sub-10°C unless under clinical supervision.

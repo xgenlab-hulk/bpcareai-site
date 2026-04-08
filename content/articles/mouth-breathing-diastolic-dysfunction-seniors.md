@@ -91,22 +91,22 @@ Understanding the link between nighttime breathing and heart health doesn’t me
 
 ### FAQ
 
-#### #### Does mouth breathing cause diastolic dysfunction in older adults?
+#### Does mouth breathing cause diastolic dysfunction in older adults?
 
 Yes—research suggests that chronic mouth breathing during sleep is associated with subtle but measurable increases in left ventricular filling pressure, particularly in adults aged 58–72. It’s not the sole cause, but it appears to be a contributing factor in early diastolic changes, especially when combined with other age-related shifts in vascular and respiratory function.
 
-#### #### Can mouth breathing diastolic dysfunction seniors be reversed?
+#### Can mouth breathing diastolic dysfunction seniors be reversed?
 
 Often, yes—especially when identified early. Lifestyle adjustments like improving nasal breathing, managing allergies, optimizing sleep position, and engaging in gentle oropharyngeal exercises can support improved diastolic function over months. Cardiac MRI follow-ups in pilot interventions show modest but encouraging improvements in E/e′ ratios after 3–6 months of consistent habit change.
 
-#### #### Is mouth breathing diastolic dysfunction the same as heart failure?
+#### Is mouth breathing diastolic dysfunction the same as heart failure?
 
 No. Diastolic dysfunction refers to reduced relaxation or increased stiffness of the left ventricle—it’s a functional change, not a diagnosis of heart failure. Many adults live with mild diastolic changes for years without symptoms. Heart failure is a clinical syndrome requiring specific signs (like breathlessness, fluid retention, or reduced exercise tolerance) and objective evidence. Early detection of *mouth breathing diastolic dysfunction seniors* helps prevent progression—not treat existing failure.
 
-#### #### What’s the difference between diastolic dysfunction and high blood pressure?
+#### What’s the difference between diastolic dysfunction and high blood pressure?
 
 They’re related but distinct. High blood pressure (hypertension) increases the *afterload*—the resistance the heart pumps against. Diastolic dysfunction affects the heart’s ability to *relax and fill*. However, long-standing hypertension is a leading cause of diastolic stiffness—so managing BP remains essential. Interestingly, some people with *mouth breathing diastolic dysfunction seniors* have normal daytime BP but show abnormal nocturnal dipping patterns, suggesting sleep-related autonomic dysregulation.
 
-#### #### Do CPAP machines help with mouth breathing–related diastolic changes?
+#### Do CPAP machines help with mouth breathing–related diastolic changes?
 
 CPAP is highly effective for obstructive sleep apnea—and may indirectly help by stabilizing breathing patterns and reducing intrathoracic pressure swings. However, for people with *only* mouth breathing (no apnea or hypopnea), CPAP isn’t typically indicated. Alternatives like nasal resistance devices or myofunctional therapy may be more appropriate first steps—and should be discussed with a sleep or ENT specialist.

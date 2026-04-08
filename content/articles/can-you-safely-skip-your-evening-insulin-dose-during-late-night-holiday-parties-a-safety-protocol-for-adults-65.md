@@ -90,17 +90,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What happens if I skip my evening insulin dose at a holiday party?
+#### What happens if I skip my evening insulin dose at a holiday party?
 Skipping your evening insulin—especially basal insulin—may lead to gradually rising blood glucose over the next 12–24 hours. While not usually an emergency, repeated omissions can contribute to fatigue, increased thirst, and slower healing. Rapid-acting insulin skipped *before a late meal*, however, may result in higher post-meal glucose—but not necessarily dangerous highs, especially if the meal is modest and you’re otherwise healthy.
 
-#### #### Is it ever safe to skip insulin during holiday parties?
+#### Is it ever safe to skip insulin during holiday parties?
 Yes—*if* it’s part of a pre-approved plan with your provider. Some people use “correction-only” approaches for occasional late meals, or adjust basal timing instead of skipping. But unsupervised, routine skipping increases risk—particularly for adults over 65, whose bodies respond differently to insulin fluctuations.
 
-#### #### Can I adjust my insulin dose myself before a late holiday party?
+#### Can I adjust my insulin dose myself before a late holiday party?
 Many people safely adjust rapid-acting insulin based on carb counting and CGM trends—but basal insulin adjustments should only be made with guidance. A 10–25% reduction in your usual rapid-acting dose, taken *with* your late meal, is often reasonable. Always review your personal plan with your diabetes educator or endocrinologist first.
 
-#### #### How does alcohol affect insulin at holiday parties?
+#### How does alcohol affect insulin at holiday parties?
 Alcohol can both raise and lower blood glucose. Sweet drinks (punch, cider, dessert wines) add carbs and spike glucose. Meanwhile, spirits and dry wines—especially on an empty stomach—can impair the liver’s ability to release glucose, raising hypoglycemia risk hours later. Always pair alcohol with food, check glucose before bed, and consider a small bedtime snack if drinking.
 
-#### #### Do blood pressure medications interact with insulin during the holidays?
+#### Do blood pressure medications interact with insulin during the holidays?
 Some medications—including certain diuretics (e.g., hydrochlorothiazide) and beta-blockers—can subtly influence glucose metabolism or mask hypoglycemia symptoms. While interactions aren’t common, it’s wise to review *all* your medications (including OTC and supplements) with your pharmacist or doctor before major dietary or schedule changes.

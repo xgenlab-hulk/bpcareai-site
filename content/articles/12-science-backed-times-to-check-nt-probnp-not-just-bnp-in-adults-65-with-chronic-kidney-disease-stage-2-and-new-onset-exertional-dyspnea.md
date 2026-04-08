@@ -94,22 +94,22 @@ Feeling breathless with everyday activity can be unsettling — but it doesn’t
 
 ### FAQ
 
-#### #### When is the best time to check NT-proBNP in someone with chronic kidney disease?
+#### When is the best time to check NT-proBNP in someone with chronic kidney disease?
 
 The best time depends on clinical context, but evidence supports measuring NT-proBNP *before* antihypertensive dosing, *pre-dialysis* (if applicable), *after 30 minutes of quiet sitting*, and *in the morning*. Avoid testing immediately after meals, exercise, or during acute illness.
 
-#### #### How does nt-probnp timing chronic kidney disease affect interpretation in older adults?
+#### How does nt-probnp timing chronic kidney disease affect interpretation in older adults?
 
 Because NT-proBNP is renally cleared and rises with age, timing becomes critical in older adults with CKD. A value drawn post-dialysis or after lying down may appear falsely low, while one drawn after standing or post-exertion may better reveal early cardiac stress — improving detection of incipient heart failure.
 
-#### #### Can NT-proBNP be used to monitor heart disease progression in CKD Stage 2?
+#### Can NT-proBNP be used to monitor heart disease progression in CKD Stage 2?
 
 Yes — but only with consistent timing. Serial NT-proBNP measurements (e.g., every 3–6 months) drawn under standardized conditions can detect trends: a sustained rise >25% over time correlates with worsening diastolic function or subclinical ventricular remodeling, even when eGFR remains stable.
 
-#### #### Is NT-proBNP better than BNP for people with kidney disease?
+#### Is NT-proBNP better than BNP for people with kidney disease?
 
 Yes — NT-proBNP has a longer half-life (~120 min vs. ~20 min for BNP) and is less affected by neprilysin inhibitors. More importantly, NT-proBNP shows stronger correlation with cardiac structure and outcomes in CKD populations, especially Stages 2–3.
 
-#### #### What NT-proBNP level is concerning for heart disease in a 70-year-old with CKD Stage 2?
+#### What NT-proBNP level is concerning for heart disease in a 70-year-old with CKD Stage 2?
 
 There’s no universal cutoff, but consensus guidelines suggest interpreting NT-proBNP alongside eGFR and symptoms. For a 70-year-old with eGFR 70 mL/min/1.73m², values >1,200 pg/mL (especially if rising over time and measured pre-dose/upright) warrant further cardiac evaluation — even without overt heart failure diagnosis.

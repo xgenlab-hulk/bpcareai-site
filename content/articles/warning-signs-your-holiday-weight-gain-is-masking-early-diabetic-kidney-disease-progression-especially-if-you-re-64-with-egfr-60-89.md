@@ -72,17 +72,17 @@ Early diabetic kidney disease is manageable — especially when caught while eGF
 
 ### FAQ
 
-#### #### Could holiday weight gain early diabetic kidney disease show up *without* changes in my A1c?
+#### Could holiday weight gain early diabetic kidney disease show up *without* changes in my A1c?
 Yes — absolutely. A1c reflects average blood sugar over ~3 months, but kidney stress can begin from acute sodium/fluid shifts, BP spikes, or inflammation — none of which directly alter A1c. That’s why monitoring symptoms and trends matters just as much as labs.
 
-#### #### Is holiday weight gain early diabetic kidney disease reversible?
+#### Is holiday weight gain early diabetic kidney disease reversible?
 In many cases, yes — especially at eGFR 60–89. Lifestyle adjustments (like reducing sodium, moving daily, and mindful eating) combined with appropriate medications can halt or slow progression significantly.
 
-#### #### How often should I get my eGFR and urine ACR checked if I’m over 64 with diabetes?
+#### How often should I get my eGFR and urine ACR checked if I’m over 64 with diabetes?
 At least once a year — but if you’ve had recent holiday weight gain early diabetic kidney disease concerns, ask your provider about checking both every 6 months. Some clinicians recommend quarterly checks if eGFR is trending downward, even slightly.
 
-#### #### Does drinking more water help prevent holiday weight gain early diabetic kidney disease?
+#### Does drinking more water help prevent holiday weight gain early diabetic kidney disease?
 Staying well-hydrated supports kidney function — but “more” isn’t always better. Overhydration can dilute electrolytes and strain the heart/kidneys in older adults. Aim for consistent, moderate intake guided by thirst and pale-yellow urine.
 
-#### #### Can certain holiday foods speed up diabetic kidney disease?
+#### Can certain holiday foods speed up diabetic kidney disease?
 Yes — particularly high-sodium items (deli meats, canned soups, stuffing), phosphorus-rich foods (colas, processed cheeses), and large portions of red meat. These increase workload on filtering units and promote inflammation.

@@ -92,22 +92,22 @@ In closing: noticing small shifts in thinking, memory, or daily habits doesn’t
 
 ### FAQ
 
-#### #### What are the earliest diabetes cognitive decline warning signs men 69+ should watch for?
+#### What are the earliest diabetes cognitive decline warning signs men 69+ should watch for?
 
 Early signs often include subtle, recurring patterns—not one-off moments. Watch for increased hesitation when navigating familiar places, repeating questions or stories within the same conversation, forgetting medication timing (not just dosage), or substituting words (“chair” for “table”). These are not signs of dementia, but gentle indicators that your brain may benefit from extra support—especially when paired with HbA1c between 6.8% and 7.4%.
 
-#### #### Can diabetes cognitive decline warning signs appear even with “good” A1c levels?
+#### Can diabetes cognitive decline warning signs appear even with “good” A1c levels?
 
 Yes—absolutely. An HbA1c of 6.8–7.4% falls within clinical guidelines for many adults, yet research shows this range is associated with early hippocampal glucose hypometabolism. Brain tissue is especially sensitive to fluctuations, not just averages—and factors like post-meal spikes, nighttime lows, or blood pressure variability also matter. Stability on paper doesn’t always equal stability at the cellular level.
 
-#### #### Is memory loss inevitable with long-term diabetes?
+#### Is memory loss inevitable with long-term diabetes?
 
 No—it is not inevitable. While diabetes does increase risk for cognitive changes over time, studies consistently show that men who maintain physical activity, prioritize quality sleep, manage blood pressure, and stay socially and mentally engaged significantly lower their risk—even with decades of diabetes. Brain health is modifiable at every age.
 
-#### #### What’s the best at-home test for early cognitive changes in men with diabetes?
+#### What’s the best at-home test for early cognitive changes in men with diabetes?
 
 The Montreal Cognitive Assessment (MoCA) is widely validated and sensitive to early shifts, especially in executive function and delayed recall. It takes ~10 minutes, is available free online (with instructions), and has versions adapted for vision or mobility needs. Pair it with the Clock Drawing Test for a fuller picture—and share results with your provider.
 
-#### #### Does high blood pressure make diabetes cognitive decline warning signs more likely?
+#### Does high blood pressure make diabetes cognitive decline warning signs more likely?
 
 Yes. Hypertension and diabetes often travel together—and when they do, their effects on small blood vessels in the brain compound. Men over 69 with systolic BP >140 mm Hg *and* HbA1c 6.8–7.4% have been shown in cohort studies to experience faster rates of cognitive change than those managing either condition well alone. That’s why checking both regularly—and treating both thoughtfully—is so impactful.

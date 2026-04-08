@@ -77,22 +77,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can over-the-counter allergy medicine raise blood pressure in seniors?
+#### Can over-the-counter allergy medicine raise blood pressure in seniors?
 
 Yes—especially first-generation antihistamines like diphenhydramine (Benadryl®) and hydroxyzine. These cross the blood-brain barrier and have strong anticholinergic and α1-adrenergic potentiating effects, which can increase peripheral resistance and heart rate. In adults over 60, even occasional use may contribute to sustained BP elevation.
 
-#### #### What antidepressants are most likely to cause medication-induced hypertension over 60?
+#### What antidepressants are most likely to cause medication-induced hypertension over 60?
 
 Tricyclic antidepressants (TCAs) like amitriptyline and nortriptyline carry the highest documented risk due to combined norepinephrine reuptake inhibition and anticholinergic activity. Among SSRIs, paroxetine has notable anticholinergic properties, while venlafaxine (an SNRI) may elevate BP at higher doses. Newer agents like sertraline and escitalopram generally have lower BP impact—but individual responses vary.
 
-#### #### Is topical ibuprofen or diclofenac safe for blood pressure in older adults?
+#### Is topical ibuprofen or diclofenac safe for blood pressure in older adults?
 
 While topical NSAIDs deliver far less drug systemically than oral forms, emerging data suggest they *can* still suppress renal prostaglandins—especially in older adults with reduced kidney reserve. This may lead to sodium retention and modest BP increases (typically 3–8 mm Hg systolic), particularly with frequent, long-term use over large surface areas.
 
-#### #### How long does it take for blood pressure to return to normal after stopping a BP-raising medication?
+#### How long does it take for blood pressure to return to normal after stopping a BP-raising medication?
 
 Most people see gradual improvement within 1–2 weeks after discontinuation—though full normalization may take 3–6 weeks, depending on the drug’s half-life, duration of use, and individual physiology. For example, anticholinergic effects from TCAs may linger longer than those from short-acting decongestants.
 
-#### #### Are there natural alternatives to common BP-raising medications for seniors?
+#### Are there natural alternatives to common BP-raising medications for seniors?
 
 Not as direct replacements—but non-drug strategies can meaningfully support symptom relief. For allergies: saline nasal rinses and allergen avoidance often reduce reliance on antihistamines. For mild depression/anxiety: structured physical activity, mindfulness practices, and social connection have robust evidence in older adults. For pain: tai chi, heat therapy, and physical therapy frequently reduce need for NSAIDs. Always discuss alternatives with your provider before making changes.

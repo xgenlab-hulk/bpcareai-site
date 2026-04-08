@@ -46,17 +46,17 @@ In closing, supporting gastric emptying after holiday meal doesn’t require dra
 
 ### FAQ
 
-#### #### How can I improve gastric emptying after holiday meal without medication?
+#### How can I improve gastric emptying after holiday meal without medication?
 Focus on three evidence-based elements: (1) Wait 45+ minutes before walking post-meal, (2) Sip ginger-cumin infusion 30 min before and 90 min after eating, and (3) Chew each bite 20–25 times with intentional pauses. These steps align with age-related motility physiology and have demonstrated benefit in clinical trials with adults over 65.
 
-#### #### What foods slow gastric emptying after holiday meal the most?
+#### What foods slow gastric emptying after holiday meal the most?
 High-fat items (e.g., gravy, cream-based desserts, fried appetizers) and concentrated sweets (candies, pies) are the strongest inhibitors—fat >30 g and sugar >50 g per meal can delay emptying by 3+ hours. Large volumes of raw cruciferous vegetables (e.g., whole raw broccoli) also contribute due to fermentable fiber load.
 
-#### #### Does lying down affect gastric emptying after holiday meal?
+#### Does lying down affect gastric emptying after holiday meal?
 Yes—reclining or lying flat within 2 hours of eating significantly reduces antral pressure waves and increases reflux risk. For optimal gastric emptying after holiday meal, maintain upright posture (seated or standing) for at least 90 minutes post-meal, especially if experiencing bloating or heartburn.
 
-#### #### Can stress impact gastric emptying after holiday meal?
+#### Can stress impact gastric emptying after holiday meal?
 Absolutely. Acute psychosocial stress (e.g., family tension during gatherings) activates the sympathetic nervous system, suppressing vagally mediated gastric motility. Deep breathing for 5 minutes before eating—inhaling 4 sec, holding 4 sec, exhaling 6 sec—has been shown to restore parasympathetic tone and improve gastric accommodation in older adults.
 
-#### #### Is gastroparesis the same as slow gastric emptying after holiday meal?
+#### Is gastroparesis the same as slow gastric emptying after holiday meal?
 No. Gastroparesis is a clinical diagnosis requiring objective confirmation (e.g., gastric emptying scintigraphy showing >10% retention at 4 hours) and identifiable cause (e.g., diabetes, post-viral). “Slow gastric emptying after holiday meal” describes a transient, diet- and age-influenced phenomenon—often fully reversible with behavioral adjustments.

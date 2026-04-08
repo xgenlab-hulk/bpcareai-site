@@ -3,7 +3,7 @@ title: >-
   How Does Alcohol Raise Cholesterol in Middle Age?
 slug: alcohol-cholesterol-middle-age
 description: >-
-  How does alcohol raise cholesterol in middle age? Heavy drinking raises non-HDL cholesterol by 18 mg/dL — and cuts HDL's protective function by 22% in
+  How does alcohol raise cholesterol in middle age? Heavy drinking raises non-HDL cholesterol by 18 mg/dL — and cuts HDL's protective function by 22% in.
 date: '2026-04-06'
 updated: '2026-04-06'
 primaryKeyword: >-

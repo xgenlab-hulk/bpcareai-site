@@ -79,22 +79,22 @@ Healing after a diabetic foot ulcer is a meaningful milestone — one that refle
 
 ### FAQ
 
-#### #### Can sauna therapy help diabetic foot ulcer recovery?
+#### Can sauna therapy help diabetic foot ulcer recovery?
 
 Sauna therapy *may* support circulation and relaxation during later stages of recovery — but it is **not a treatment** for active ulcers or early healing. Evidence does not support using saunas to accelerate wound closure. Instead, its role is supportive — and only when neuropathy, perfusion, and autonomic function are stable. Always coordinate with your podiatrist or endocrinologist first.
 
-#### #### Is sauna therapy diabetic foot ulcer recovery safe for seniors with neuropathy?
+#### Is sauna therapy diabetic foot ulcer recovery safe for seniors with neuropathy?
 
 It *can* be — but safety depends on individual readiness, not age alone. Adults 68+ with severe neuropathy face higher thermal injury risk due to reduced sensation and slower autonomic responses. Studies suggest waiting a minimum of 8–12 weeks after complete closure, confirming sensory preservation, and starting with very low heat (≤50°C) and short duration (≤5 min) — all under clinical guidance.
 
-#### #### What temperature is safe for sauna therapy diabetic foot ulcer recovery?
+#### What temperature is safe for sauna therapy diabetic foot ulcer recovery?
 
 For those cleared to begin, evidence-based thresholds recommend air temperature ≤50°C (122°F) for infrared saunas, with foot skin temperature monitored to stay below 36°C (96.8°F) *during* and *for 30 minutes after* the session. Ambient temperatures above 60°C are generally discouraged until at least 16 weeks post-closure — and even then, only with documented thermal perception and stable orthostatic BP.
 
-#### #### Can heat from a sauna reopen a healed diabetic foot ulcer?
+#### Can heat from a sauna reopen a healed diabetic foot ulcer?
 
 Not directly — but heat *can* contribute to conditions that increase vulnerability: localized edema, microtrauma from unnoticed pressure, or delayed immune surveillance in neuropathic tissue. While rare, case reports describe recurrent ulceration within 2–3 weeks of unsupervised sauna use in high-neuropathy patients — often linked to prolonged exposure (>12 min) or failure to offload pressure post-session.
 
-#### #### Does sauna therapy affect blood sugar in people with diabetes?
+#### Does sauna therapy affect blood sugar in people with diabetes?
 
 Short sauna sessions (under 15 min) typically cause minimal acute glucose shifts. However, longer or hotter exposures may trigger mild cortisol-mediated increases — usually <20 mg/dL in stable individuals. More importantly, dehydration from sauna use can *concentrate* blood glucose readings temporarily. Staying well-hydrated and checking levels before *and* 60 minutes after helps distinguish true trends from artifacts.

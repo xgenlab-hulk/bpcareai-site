@@ -99,17 +99,17 @@ If you're unsure, talking to your doctor is always a good idea. And if you’ve 
 
 ### FAQ
 
-#### #### Is flaxseed oil vs ground flaxseed diabetes equally effective for lowering triglycerides?
+#### Is flaxseed oil vs ground flaxseed diabetes equally effective for lowering triglycerides?
 Not quite. Research in older adults with diabetic dyslipidemia shows soaked ground flaxseed reduces post-meal triglyceride spikes more consistently than flaxseed oil—even with equal ALA doses. The fiber and lignans in ground flax support slower fat absorption and better chylomicron clearance, which matters most for this population.
 
-#### #### Can I use flaxseed oil vs ground flaxseed diabetes if I’m on metformin?
+#### Can I use flaxseed oil vs ground flaxseed diabetes if I’m on metformin?
 Yes—both forms are generally safe with metformin. However, because flax can mildly enhance insulin sensitivity, monitor your blood glucose closely for the first week when introducing either form. Some people report needing slightly lower doses of short-acting insulin around meals with flax—so discuss timing with your provider.
 
-#### #### Does ground flaxseed need to be soaked for diabetes benefits?
+#### Does ground flaxseed need to be soaked for diabetes benefits?
 Soaking isn’t mandatory—but it *does* improve usability for older adults. It softens the fiber, boosts mucilage release (which helps regulate blood sugar and fat absorption), and reduces potential GI irritation. For ages 60+, soaking 12 hours is a gentle, evidence-supported best practice.
 
-#### #### How long does flaxseed oil last in the fridge for diabetes management?
+#### How long does flaxseed oil last in the fridge for diabetes management?
 Cold-pressed flaxseed oil should be used within **30 days** of opening—or within 30 days of the pressing date—even if refrigerated. Oxidation begins quickly, degrading ALA and forming compounds that may *increase* oxidative stress—counterproductive for diabetes and vascular health.
 
-#### #### Can flaxseed help with both blood sugar and cholesterol in diabetes?
+#### Can flaxseed help with both blood sugar and cholesterol in diabetes?
 Yes—modestly. Studies show 1–2 tbsp/day of ground flax (soaked) may lower HbA1c by 0.1–0.3% and reduce LDL by 5–10% over 12 weeks—especially when combined with consistent carb awareness and movement. It’s not a magic bullet, but a helpful piece of the puzzle.

@@ -89,22 +89,22 @@ If you're unsure, talking to your doctor is always a good idea. And if stairs fi
 
 ### FAQ
 
-#### #### Can climbing stairs regularly prevent subclinical ischemia?
+#### Can climbing stairs regularly prevent subclinical ischemia?
 
 Not necessarily. While stair climbing improves cardiovascular fitness and lowers overall heart disease risk, it doesn’t guarantee protection against subclinical ischemia—especially in genetically predisposed adults. Studies show that up to 20% of highly active 55–64-year-olds with family history still develop inducible ischemia detected only via stress echo. Regular activity supports heart health—but it doesn’t replace personalized assessment.
 
-#### #### Does stairs fitness and subclinical ischemia mean I’ll have a heart attack?
+#### Does stairs fitness and subclinical ischemia mean I’ll have a heart attack?
 
 No—it means your heart may not be getting optimal blood flow *during stress*, which is an early warning sign—not a diagnosis of imminent trouble. With appropriate follow-up (lifestyle tweaks, possible medication, or further testing), most people stabilize or improve significantly. Subclinical ischemia is treatable, reversible in many cases, and rarely progresses rapidly when caught early.
 
-#### #### I feel fine and climb stairs easily—do I still need heart screening?
+#### I feel fine and climb stairs easily—do I still need heart screening?
 
 Yes—if you’re 55–64 and have a first-degree relative with early heart disease (before age 65), current guidelines support considering advanced screening like stress echo—even without symptoms. “Feeling fine” is reassuring, but it doesn’t rule out silent coronary changes. Early detection dramatically improves long-term outcomes.
 
-#### #### What’s the difference between subclinical ischemia and angina?
+#### What’s the difference between subclinical ischemia and angina?
 
 Angina is *symptomatic* ischemia—meaning you feel it (chest pressure, jaw pain, arm discomfort, shortness of breath). Subclinical ischemia produces *no noticeable symptoms*, even under stress. It’s detected only through imaging (like stress echo) or specialized ECG analysis. Both involve reduced blood flow—but subclinical ischemia is earlier, quieter, and often more responsive to intervention.
 
-#### #### Are there alternatives to stress echo for detecting subclinical ischemia?
+#### Are there alternatives to stress echo for detecting subclinical ischemia?
 
 Yes—options include nuclear stress testing (SPECT/PET) and cardiac MRI stress perfusion. Each has pros and cons: stress echo avoids radiation and is widely available; nuclear tests offer higher sensitivity in some populations; MRI provides exceptional tissue detail but is less accessible. Your doctor will weigh factors like kidney function, body habitus, and local expertise to recommend the best option.

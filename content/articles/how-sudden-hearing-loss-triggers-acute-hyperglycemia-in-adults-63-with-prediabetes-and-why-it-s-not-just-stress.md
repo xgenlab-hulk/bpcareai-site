@@ -54,17 +54,17 @@ In short, *sudden hearing loss hyperglycemia prediabetes* reflects your body’s
 
 ### FAQ
 
-#### #### Does sudden hearing loss cause high blood sugar in people with prediabetes?
+#### Does sudden hearing loss cause high blood sugar in people with prediabetes?
 Yes—especially in adults over 60. Acute inner-ear injury triggers an inflammatory-HPA response that reduces insulin sensitivity in muscle tissue, leading to measurable, short-term hyperglycemia. This is distinct from everyday stress-related spikes.
 
-#### #### Can sudden hearing loss hyperglycemia prediabetes lead to type 2 diabetes?
+#### Can sudden hearing loss hyperglycemia prediabetes lead to type 2 diabetes?
 Not typically—when managed promptly. Transient insulin resistance usually resolves fully within 1–2 weeks. However, repeated episodes *or* unaddressed lifestyle factors (like poor sleep or inactivity) may increase long-term diabetes risk.
 
-#### #### How long does hyperglycemia last after sudden hearing loss?
+#### How long does hyperglycemia last after sudden hearing loss?
 Most adults see glucose normalize within 7–10 days. Peak elevation occurs at 48–72 hours post-onset. Consistent monitoring helps confirm resolution and rule out underlying progression.
 
-#### #### Is this related to blood pressure changes too?
+#### Is this related to blood pressure changes too?
 Sometimes. The same HPA activation that raises cortisol can also increase sympathetic nervous system activity—potentially raising systolic BP by 10–20 mm Hg temporarily. That’s why tracking both glucose *and* BP offers a fuller picture.
 
-#### #### Should I stop my diabetes medications if I get sudden hearing loss?
+#### Should I stop my diabetes medications if I get sudden hearing loss?
 No—don’t adjust medications without consulting your provider. Many glucose-lowering drugs remain safe and helpful during recovery. Your care team can determine whether short-term adjustments are appropriate based on your 72-hour glucose pattern.

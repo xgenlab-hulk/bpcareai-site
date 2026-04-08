@@ -66,17 +66,17 @@ The journey of heart healing after 50 isn’t about chasing perfection—it’s 
 
 ### FAQ
 
-#### #### Can reversing heart disease after 50 really happen—or is it just marketing hype?
+#### Can reversing heart disease after 50 really happen—or is it just marketing hype?
 Yes—reversing heart disease after 50 is supported by peer-reviewed clinical trials. While complete anatomical “erasure” of advanced plaque is rare, significant functional improvement (like reduced angina, stabilized calcium scores, lower BP, and improved exercise tolerance) is both documented and common. It requires commitment—but not perfection.
 
-#### #### Is it too late to reverse heart disease after 50 if I’ve had a heart attack?
+#### Is it too late to reverse heart disease after 50 if I’ve had a heart attack?
 Not at all. Cardiac rehabilitation programs—which combine supervised exercise, nutrition counseling, and emotional support—are proven to reduce repeat heart events by 25–30% in adults over 50, even after a prior heart attack. Many participants report improved energy, mood, and quality of life within weeks.
 
-#### #### What lifestyle changes have the strongest evidence for reversing heart disease after 50?
+#### What lifestyle changes have the strongest evidence for reversing heart disease after 50?
 The top three, based on large-scale studies, are: (1) adopting a predominantly whole-food, plant-centered diet; (2) engaging in regular aerobic activity (150+ min/week); and (3) managing stress through mindfulness or relaxation techniques. Together, they influence blood pressure, cholesterol, inflammation, and insulin resistance—all key levers in heart disease progression.
 
-#### #### Does high blood pressure need medication—or can reversing heart disease after 50 include lowering BP naturally?
+#### Does high blood pressure need medication—or can reversing heart disease after 50 include lowering BP naturally?
 Many adults over 50 successfully lower elevated BP through lifestyle alone—especially with weight management, reduced sodium intake, regular movement, and stress reduction. However, if your BP stays above 130/80 despite 3–6 months of consistent effort, medication may be recommended to protect your heart and brain. Lifestyle and medication work best together.
 
-#### #### How long does it take to see results when trying to reverse heart disease after 50?
+#### How long does it take to see results when trying to reverse heart disease after 50?
 Some changes appear quickly: improved energy and sleep may occur in 2–4 weeks; BP and blood sugar often improve within 4–12 weeks. Cholesterol and inflammatory markers typically shift within 3–6 months. Structural improvements (like plaque stabilization) may take 12–24 months to confirm via imaging—but symptom relief often comes much sooner.

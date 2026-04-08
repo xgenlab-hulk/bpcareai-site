@@ -65,22 +65,22 @@ In short, preparing a *heart smart casserole for kidney disease* doesn’t mean 
 
 ### FAQ
 
-#### #### Can I use canned tomatoes in my heart smart casserole for kidney disease?
+#### Can I use canned tomatoes in my heart smart casserole for kidney disease?
 
 Yes—but choose “no salt added” varieties and rinse thoroughly before using. One half-cup of rinsed, no-salt-added canned tomatoes contains ~170 mg potassium and minimal phosphorus—well within most stage 3 CKD limits.
 
-#### #### What’s the best low-phosphorus cheese to use in a heart smart casserole for kidney disease?
+#### What’s the best low-phosphorus cheese to use in a heart smart casserole for kidney disease?
 
 Fresh mozzarella, brie, and cream cheese tend to be lower in phosphorus (around 50–90 mg per ounce) compared to cheddar or Swiss (130–180 mg). Always check labels—some “light” or processed cheeses contain added phosphates.
 
-#### #### How do I know if a pre-made casserole ingredient is safe for someone with CKD and high BP?
+#### How do I know if a pre-made casserole ingredient is safe for someone with CKD and high BP?
 
 Look for <140 mg sodium *and* no phosphate additives per serving. Also avoid ingredients listing “potassium chloride” (a common salt substitute that adds potassium) if your labs show elevated levels.
 
-#### #### Is it safe to freeze and reheat a heart smart casserole for kidney disease?
+#### Is it safe to freeze and reheat a heart smart casserole for kidney disease?
 
 Yes—freeze within 2 hours of cooking and reheat only once, ensuring it reaches 165°F internally. Avoid aluminum foil in acidic dishes (like tomato-based casseroles) during storage, as it may leach small amounts of metal.
 
-#### #### Do herbs and spices count toward potassium limits in a heart smart casserole for kidney disease?
+#### Do herbs and spices count toward potassium limits in a heart smart casserole for kidney disease?
 
 Most dried herbs and spices contribute negligible potassium—even generous amounts of oregano, basil, or black pepper add <10 mg per teaspoon. Focus instead on limiting high-potassium produce like spinach, potatoes, and tomatoes unless portion-controlled and prepared properly.

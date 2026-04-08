@@ -66,22 +66,22 @@ Understanding the connection between light, melatonin, and mood doesn’t mean y
 
 ### FAQ
 
-#### #### Does melatonin help with seasonal depression in older adults?
+#### Does melatonin help with seasonal depression in older adults?
 
 Research suggests melatonin *may* support mood regulation in older adults—but primarily by improving sleep timing and circadian alignment, not as a direct antidepressant. Its benefit appears strongest when used at low doses (0.3–0.5 mg), taken consistently in the evening, and paired with morning light exposure.
 
-#### #### What does current melatonin and seasonal depression research say about safety for seniors?
+#### What does current melatonin and seasonal depression research say about safety for seniors?
 
 Most clinical trials report good tolerability of low-dose melatonin in adults over 60, with minimal side effects (e.g., mild drowsiness). However, melatonin can interact with blood thinners, diabetes medications, and some antihypertensives—so medical guidance is recommended before starting.
 
-#### #### Is there strong evidence linking melatonin and seasonal depression research to improved outcomes in people over 50?
+#### Is there strong evidence linking melatonin and seasonal depression research to improved outcomes in people over 50?
 
 Yes—several recent studies (2021–2024) specifically include participants aged 50–75. A meta-analysis in *Aging & Mental Health* (2022) concluded that chronobiological interventions—including appropriately timed melatonin—led to modest but statistically significant improvements in seasonal mood scores, particularly when integrated into broader lifestyle support.
 
-#### #### Can melatonin worsen blood pressure in older adults?
+#### Can melatonin worsen blood pressure in older adults?
 
 Melatonin generally has neutral or slightly beneficial effects on arterial pressure in most studies. Some evidence even points to modest reductions in nocturnal BP—though individual responses vary. Always monitor BP regularly if adding melatonin, especially alongside other cardiovascular medications.
 
-#### #### How long should I try melatonin before deciding if it helps with seasonal depression?
+#### How long should I try melatonin before deciding if it helps with seasonal depression?
 
 Give it 3–4 weeks of consistent, correctly timed use (e.g., 0.5 mg, 90 minutes before bed) alongside morning light. Track mood, energy, and sleep quality—not just one symptom—to assess its impact meaningfully.

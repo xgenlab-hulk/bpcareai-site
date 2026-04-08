@@ -84,22 +84,22 @@ Vitamin D plays an important role in bone health, immune support, and muscle fun
 
 ### FAQ
 
-#### #### Can eggnog really cause vitamin D toxicity in seniors?
+#### Can eggnog really cause vitamin D toxicity in seniors?
 
 Yes — but not from a single serving. Eggnog vitamin D toxicity in seniors arises from *cumulative intake*: fortified eggnog (up to 115 IU per 8 oz), daily supplements (often 1,000–2,000 IU), and other fortified foods. In adults over 74 with reduced kidney clearance, this combination can slowly push 25(OH)D levels into the toxic range (>150 ng/mL), especially during sun-deprived winter months.
 
-#### #### What are the earliest warning signs of eggnog vitamin d toxicity seniors should watch for?
+#### What are the earliest warning signs of eggnog vitamin d toxicity seniors should watch for?
 
 The earliest signs are often subtle and non-specific: increased urination (especially at night), persistent constipation, low energy, mild confusion, or unexplained apathy. These may appear before blood tests show abnormal calcium — making self-awareness and timely lab checks especially valuable for adults over 74.
 
-#### #### Is homemade eggnog safer than store-bought for seniors concerned about vitamin D?
+#### Is homemade eggnog safer than store-bought for seniors concerned about vitamin D?
 
 Generally, yes. Traditional homemade eggnog made with raw eggs, whole milk, sugar, and spices contains negligible added vitamin D. Most store-bought versions, however, are fortified with vitamin D (and sometimes calcium), adding ~100–130 IU per serving — which counts toward your daily total. Always check the Nutrition Facts label.
 
-#### #### How much vitamin D is too much for someone over 74?
+#### How much vitamin D is too much for someone over 74?
 
 The Institute of Medicine sets the Upper Intake Level at 4,000 IU/day — but many geriatric guidelines suggest aiming for 600–1,000 IU/day from all sources for adults over 74, unless otherwise directed. Levels consistently above 100 ng/mL (serum 25(OH)D) warrant discussion with your doctor, particularly if accompanied by symptoms like fatigue or constipation.
 
-#### #### Does drinking eggnog affect blood pressure in seniors?
+#### Does drinking eggnog affect blood pressure in seniors?
 
 Eggnog itself doesn’t directly raise blood pressure — but excessive calcium buildup from chronic vitamin D excess can contribute to vascular stiffness over time. More immediately, dehydration from undetected polyuria (a sign of early hypercalcemia) may temporarily affect BP readings. Staying well-hydrated and monitoring both calcium-related symptoms and arterial pressure supports long-term cardiovascular wellness.

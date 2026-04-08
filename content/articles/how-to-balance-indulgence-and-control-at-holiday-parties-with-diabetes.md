@@ -68,22 +68,22 @@ Holidays are meant to nourish the spirit — not just the body. With thoughtful 
 
 ### FAQ
 
-#### #### How can I enjoy holiday treats without spiking my blood sugar?
+#### How can I enjoy holiday treats without spiking my blood sugar?
 
 Focus on portion control, pairing carbs with protein or healthy fats, and timing your treats mindfully — such as after a balanced meal rather than on an empty stomach. Checking your blood sugar 1–2 hours after eating helps you learn how different foods affect *you*. Most people find that one modest serving of dessert — savored slowly — fits comfortably within healthy ranges.
 
-#### #### What are the best diabetes holiday party tips for older adults?
+#### What are the best diabetes holiday party tips for older adults?
 
 Prioritize hydration, move gently before and after meals (even walking for 10 minutes helps), eat a light protein-rich snack before attending, and bring a healthy dish to share — like a veggie platter or lentil salad. Also, don’t hesitate to ask about ingredients or request modifications — most hosts are happy to accommodate.
 
-#### #### Are there specific diabetes holiday party tips for people taking insulin?
+#### Are there specific diabetes holiday party tips for people taking insulin?
 
 Yes — timing matters greatly. If your meal is delayed, consider adjusting your rapid-acting insulin dose (with your doctor’s guidance) or having a small carb-containing snack to prevent lows. Always carry fast-acting glucose (like glucose tablets or juice boxes) in case of unexpected drops. Never skip your basal insulin unless instructed.
 
-#### #### How does stress affect blood sugar during the holidays?
+#### How does stress affect blood sugar during the holidays?
 
 Stress triggers cortisol and adrenaline release, which can raise blood glucose — sometimes significantly. Older adults may be more sensitive to these effects, especially with disrupted sleep or caregiving responsibilities. Gentle breathing, short walks, and setting kind boundaries (“I’ll stay for an hour — it’s perfect!”) all support steadier glucose.
 
-#### #### Should I check my blood pressure more often during the holidays?
+#### Should I check my blood pressure more often during the holidays?
 
 Yes — holiday stress, richer foods, and changes in activity can influence arterial pressure. A normal reading is under 120/80 mm Hg; readings consistently above 140/90 mm Hg warrant a follow-up with your provider. Since cardiovascular health and diabetes go hand-in-hand, staying aware of both BP and blood sugar supports your whole-body resilience.

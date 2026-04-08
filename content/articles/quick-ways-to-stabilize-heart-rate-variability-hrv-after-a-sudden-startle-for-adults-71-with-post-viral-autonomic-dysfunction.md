@@ -69,22 +69,22 @@ Autonomic recovery takes time, especially after age 71 and following viral illne
 
 ### FAQ
 
-#### #### How quickly can I stabilize HRV after startle seniors 71+ using these methods?
+#### How quickly can I stabilize HRV after startle seniors 71+ using these methods?
 
 In clinical observation, most adults 71+ begin showing measurable HRV rebound (≥15% RMSSD increase) within 45–60 seconds when performing the full 90-second sequence correctly. Consistent daily practice for 10–14 days typically improves both speed and depth of recovery.
 
-#### #### Do these techniques help stabilize HRV after startle seniors 71+ who also have heart disease?
+#### Do these techniques help stabilize HRV after startle seniors 71+ who also have heart disease?
 
 Yes—these non-pharmacologic strategies are specifically designed for safety in comorbid heart disease. However, avoid carotid sinus pressure (distinct from gentle cooling) if you have carotid stenosis or a history of stroke/TIA. Always coordinate with your cardiologist before beginning, especially if you use rhythm-control medications.
 
-#### #### Can humming really stabilize HRV after startle seniors 71+? Is there research behind it?
+#### Can humming really stabilize HRV after startle seniors 71+? Is there research behind it?
 
 Yes. A 2021 randomized crossover study (*Frontiers in Aging Neuroscience*) found that 62-Hz humming significantly increased high-frequency HRV power (a marker of vagal tone) by 26% in adults 65–82 with mild autonomic impairment—more than standard paced breathing alone. The effect was sustained for 8–12 minutes post-intervention.
 
-#### #### Are there risks to lateral neck cooling for seniors?
+#### Are there risks to lateral neck cooling for seniors?
 
 When done correctly—using cool (not cold), brief (≤20 sec), and unilateral (left side only) application—risks are minimal. Avoid if you have known carotid sinus hypersensitivity, recent neck radiation, or active skin infection. Never massage or press deeply—only light surface contact.
 
-#### #### How does stabilizing HRV after startle relate to blood pressure control?
+#### How does stabilizing HRV after startle relate to blood pressure control?
 
 HRV and BP regulation share overlapping neural circuitry via the baroreflex arc. Improved HRV recovery after startle often coincides with faster BP normalization after positional changes (e.g., standing), reducing orthostatic symptoms. While HRV itself doesn’t lower BP, it reflects healthier autonomic integration—supporting long-term arterial pressure stability.

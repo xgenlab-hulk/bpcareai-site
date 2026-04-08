@@ -67,22 +67,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Could unexplained fatigue heart failure over 68 be mistaken for depression?
+#### Could unexplained fatigue heart failure over 68 be mistaken for depression?
 
 Yes—especially since low motivation, sleep changes, and slowed thinking overlap. But fatigue from heart failure usually correlates with physical exertion or posture changes, while depression-related fatigue is often constant and mood-linked. Blood tests (NT-proBNP, TSH, ferritin) and a careful symptom timeline help distinguish them.
 
-#### #### What’s the difference between unexplained fatigue heart failure over 68 and regular aging fatigue?
+#### What’s the difference between unexplained fatigue heart failure over 68 and regular aging fatigue?
 
 Normal aging fatigue tends to improve with rest and isn’t tied to specific activities or positions. Cardiac fatigue often worsens *after* minimal effort, lingers longer, and may come with subtle signs like orthostatic dizziness or evening swelling—even without obvious shortness of breath.
 
-#### #### Is NT-proBNP testing reliable for detecting early heart failure in people over 68?
+#### Is NT-proBNP testing reliable for detecting early heart failure in people over 68?
 
 Yes—NT-proBNP is one of the most validated tools for this age group. Because kidney function and baseline levels naturally rise with age, doctors use age-adjusted thresholds (e.g., >1,200 pg/mL for ≥75 years), making it highly useful when interpreted thoughtfully.
 
-#### #### Can high blood pressure alone cause fatigue in older adults?
+#### Can high blood pressure alone cause fatigue in older adults?
 
 Not directly—but long-standing, poorly controlled hypertension (e.g., consistently >150/90 mm Hg) can gradually weaken the heart muscle, leading to heart failure and fatigue. That’s why consistent BP monitoring and management are so important.
 
-#### #### Does fatigue from thyroid problems feel different from heart-related fatigue?
+#### Does fatigue from thyroid problems feel different from heart-related fatigue?
 
 Typically, yes. Hypothyroid fatigue feels like deep, pervasive sluggishness—often with cold intolerance and dry skin—while heart-related fatigue tends to fluctuate with activity, posture, or time of day, and may include subtle fluid retention or breathing changes.

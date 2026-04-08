@@ -92,17 +92,17 @@ If you're unsure, talking to your doctor is always a good idea—and mentioning 
 
 ### FAQ
 
-#### #### What is a safe time in range for seniors with diabetes and a history of falls?
+#### What is a safe time in range for seniors with diabetes and a history of falls?
 For older adults with recurrent falls, a safer personalized time in range is often 80–160 mg/dL, with emphasis on avoiding readings below 70 mg/dL—especially overnight or before standing up. This prioritizes stability and fall prevention over strict glycemic targets.
 
-#### #### How does frailty affect CGM time in range interpretation in elderly diabetes?
+#### How does frailty affect CGM time in range interpretation in elderly diabetes?
 Frailty reduces physiological reserve, making it harder to recover from glucose fluctuations. It’s associated with higher rates of hypoglycemia unawareness, slower counter-regulatory responses, and increased fall risk—so standard CGM time in range frail elderly diabetes targets must be widened and reinterpreted with safety thresholds, not just percentages.
 
-#### #### Can CGM time in range frail elderly diabetes help reduce hospital visits?
+#### Can CGM time in range frail elderly diabetes help reduce hospital visits?
 Yes—studies suggest that using CGM with frailty-informed ranges (e.g., avoiding lows <70 mg/dL and acting on sustained highs >200 mg/dL) is associated with 30–40% fewer emergency department visits for hypoglycemia and related injuries in adults 75+.
 
-#### #### Do I need a CGM if I’m not on insulin?
+#### Do I need a CGM if I’m not on insulin?
 Not necessarily—but if you’re frail, have falls, or take glucose-lowering meds like sulfonylureas, a CGM can reveal hidden patterns (e.g., overnight lows or delayed post-meal spikes) that fingerstick checks miss. Many Medicare plans now cover CGMs for qualifying older adults with diabetes.
 
-#### #### What’s the difference between time in range and A1c for older adults?
+#### What’s the difference between time in range and A1c for older adults?
 A1c reflects average glucose over ~3 months but masks dangerous highs and lows—and can be falsely low in anemia or kidney disease. CGM time in range shows *variability*, timing, and trends—making it far more useful for identifying fall triggers and guiding day-to-day safety decisions in frail elderly diabetes.

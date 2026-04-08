@@ -100,17 +100,17 @@ Nocturnal hypertension in perimenopausal women isn’t a sign that your body is 
 
 ### FAQ
 
-#### #### What does nocturnal hypertension in perimenopausal women mean for heart health?
+#### What does nocturnal hypertension in perimenopausal women mean for heart health?
 Nocturnal hypertension in perimenopausal women means your blood pressure stays elevated — or even rises — during sleep instead of dipping by the expected 10–20%. This pattern is linked to increased strain on the heart and arteries over time, raising long-term risks for stroke, left ventricular thickening, and microvascular damage — even if daytime BP appears normal.
 
-#### #### Can hot flashes cause high blood pressure at night?
+#### Can hot flashes cause high blood pressure at night?
 Yes — indirectly. Hot flashes reflect autonomic nervous system instability, particularly heightened sympathetic activity and norepinephrine release. That surge doesn’t stop when you fall asleep, and it can prevent the natural nighttime drop in blood pressure. Studies show women with severe vasomotor symptoms are significantly more likely to be non-dippers or reverse dippers.
 
-#### #### Is nocturnal hypertension in perimenopausal women treatable without medication?
+#### Is nocturnal hypertension in perimenopausal women treatable without medication?
 Absolutely. Evidence supports nonpharmacologic approaches like paced breathing, sleep hygiene optimization, core cooling strategies, and regular moderate exercise — all of which reduce sympathetic overactivity and improve BP dipping. These strategies work *with* your physiology, not against it.
 
-#### #### How is nocturnal hypertension different from regular high blood pressure?
+#### How is nocturnal hypertension different from regular high blood pressure?
 Regular (daytime) hypertension is diagnosed when clinic or home readings average ≥130/80 mm Hg. Nocturnal hypertension refers specifically to elevated BP *during sleep*, often missed unless measured via ambulatory monitoring. It’s clinically distinct because it reflects autonomic dysfunction rather than just vascular resistance — and carries unique predictive value for organ damage.
 
-#### #### Does progesterone help with nighttime blood pressure during perimenopause?
+#### Does progesterone help with nighttime blood pressure during perimenopause?
 Emerging evidence suggests bioidentical progesterone (particularly oral micronized) may support parasympathetic tone and reduce norepinephrine spikes — especially when used alongside lifestyle strategies. However, it’s not a standalone fix, and dosing must be individualized. Always discuss hormone therapy with a clinician experienced in menopause and cardiovascular health.

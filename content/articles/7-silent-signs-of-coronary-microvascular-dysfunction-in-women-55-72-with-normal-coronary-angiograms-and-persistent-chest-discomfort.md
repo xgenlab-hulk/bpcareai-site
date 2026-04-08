@@ -86,17 +86,17 @@ Heart disease remains the leading cause of death among women in the U.S.—yet f
 
 ### FAQ
 
-#### #### What are the most common coronary microvascular dysfunction symptoms women report?
+#### What are the most common coronary microvascular dysfunction symptoms women report?
 The most frequently reported symptoms include pressure-like or burning chest discomfort (often midline or left-sided), unexplained fatigue, shortness of breath with mild exertion, sleep disturbances, and cognitive “fogginess.” Unlike classic angina, these symptoms may be triggered by emotional stress, cold weather, or after meals—and they often persist despite normal ECGs and angiograms.
 
-#### #### Can coronary microvascular dysfunction symptoms women have be mistaken for anxiety?
+#### Can coronary microvascular dysfunction symptoms women have be mistaken for anxiety?
 Yes—very often. Because symptoms like palpitations, breathlessness, and chest tightness overlap significantly with anxiety, many women are initially diagnosed with panic disorder or functional chest pain. However, objective evidence—such as reduced coronary flow reserve on PET or abnormal acetylcholine response during invasive testing—can distinguish CMD from primary psychiatric conditions.
 
-#### #### How is coronary microvascular dysfunction diagnosed if angiograms are normal?
+#### How is coronary microvascular dysfunction diagnosed if angiograms are normal?
 Diagnosis relies on functional assessment rather than anatomy. Key tools include transthoracic Doppler echocardiography for coronary flow reserve (CFR), PET myocardial perfusion imaging for absolute blood flow quantification, and, in select cases, invasive coronary reactivity testing during catheterization. These methods evaluate how well the small vessels respond to stress—not whether large arteries are blocked.
 
-#### #### Is coronary microvascular dysfunction reversible?
+#### Is coronary microvascular dysfunction reversible?
 While structural changes may be permanent, functional impairment is often modifiable. Lifestyle interventions (exercise, Mediterranean diet, stress reduction), blood pressure control, statins (even without high cholesterol), and medications like beta-blockers or ranolazine have demonstrated improvement in symptoms and CFR in clinical studies.
 
-#### #### Does having normal blood pressure mean I’m not at risk for coronary microvascular dysfunction?
+#### Does having normal blood pressure mean I’m not at risk for coronary microvascular dysfunction?
 Not necessarily. Many women with CMD have “normal” office BP readings (e.g., <120/80 mm Hg) but exhibit abnormal nocturnal dipping, exaggerated morning surges, or elevated central aortic pressure—factors that strain the microvasculature. Ambulatory BP monitoring can reveal these hidden patterns.

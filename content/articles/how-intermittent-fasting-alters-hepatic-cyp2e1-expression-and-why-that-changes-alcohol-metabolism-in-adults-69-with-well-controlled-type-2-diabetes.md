@@ -67,17 +67,17 @@ None of this means giving up social joy or the comfort of a shared glass of wine
 
 ### FAQ
 
-#### #### Does intermittent fasting increase alcohol sensitivity in people with type 2 diabetes?  
+#### Does intermittent fasting increase alcohol sensitivity in people with type 2 diabetes?  
 Yes—especially in adults over 65. Fasting upregulates CYP2E1, which intensifies alcohol’s oxidative effects. This can lead to greater fatigue, slower recovery, and higher liver enzyme readings—even with moderate intake.
 
-#### #### How does intermittent fasting alcohol metabolism diabetes affect blood pressure?  
+#### How does intermittent fasting alcohol metabolism diabetes affect blood pressure?  
 While not a direct driver of hypertension, the oxidative stress from amplified CYP2E1 activity can worsen endothelial function over time—potentially contributing to stiffer arteries and less responsive BP regulation. This is why consistent monitoring matters.
 
-#### #### Can I drink alcohol while doing 16:8 intermittent fasting if I have diabetes?  
+#### Can I drink alcohol while doing 16:8 intermittent fasting if I have diabetes?  
 Technically yes—but safety depends on *when* and *how much*. We recommend avoiding alcohol during the fast, limiting weekly intake to ≤3 drinks, and always consuming with food. Discuss your pattern with your care team.
 
-#### #### Is CYP2E1 activity reversible if I stop intermittent fasting?  
+#### Is CYP2E1 activity reversible if I stop intermittent fasting?  
 Yes. Enzyme expression typically returns toward baseline within 3–7 days of resuming regular, balanced meals—though individual variation exists, especially with age and diabetes duration.
 
-#### #### Does metformin interact with intermittent fasting and alcohol?  
+#### Does metformin interact with intermittent fasting and alcohol?  
 Metformin itself doesn’t directly affect CYP2E1—but combined with fasting and alcohol, it may slightly increase lactate production and reduce hepatic glucose output further. While rare, this trio can raise the risk of lactic acidosis in vulnerable individuals. Always consult your prescriber before mixing all three.

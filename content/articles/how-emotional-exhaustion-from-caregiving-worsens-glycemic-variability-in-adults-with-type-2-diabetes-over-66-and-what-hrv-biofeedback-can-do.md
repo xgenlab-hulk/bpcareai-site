@@ -86,22 +86,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does caregiver stress really affect blood sugar control in older adults with diabetes?
+#### Does caregiver stress really affect blood sugar control in older adults with diabetes?
 
 Yes—multiple studies confirm it. Adults over 66 providing regular care show measurable increases in glycemic variability, including higher MAGE scores and reduced time-in-range. This occurs largely through cortisol-driven insulin resistance and autonomic nervous system shifts—not lack of effort or attention to diet.
 
-#### #### How does caregiver stress and glycemic variability seniors experience differ from younger adults?
+#### How does caregiver stress and glycemic variability seniors experience differ from younger adults?
 
 Older adults tend to have less physiological reserve—so the same level of emotional load may produce larger glucose excursions and slower recovery. Additionally, age-related declines in HRV and renal clearance of stress hormones amplify the effect. Importantly, interventions like HRV biofeedback remain highly effective, even later in life.
 
-#### #### Can HRV biofeedback help reduce caregiver stress and glycemic variability seniors face?
+#### Can HRV biofeedback help reduce caregiver stress and glycemic variability seniors face?
 
 Absolutely. A 2023 randomized trial found that seniors (mean age 71) practicing 5 minutes of resonant breathing daily for six weeks saw significant improvements in both HRV (+21%) and glycemic stability (MAGE reduced by 19%). Benefits were sustained at three-month follow-up when practice continued—even intermittently.
 
-#### #### Is high blood pressure linked to caregiver stress and glycemic variability in seniors?
+#### Is high blood pressure linked to caregiver stress and glycemic variability in seniors?
 
 Yes—there’s strong overlap. Autonomic dysregulation from chronic stress elevates both sympathetic tone (raising BP) and cortisol (worsening glucose control). Adults with caregiver stress and glycemic variability seniors often show non-dipping nocturnal BP patterns and increased pulse pressure—both associated with higher cardiovascular risk.
 
-#### #### What’s the simplest thing I can do this week to begin supporting my nervous system and blood sugar?
+#### What’s the simplest thing I can do this week to begin supporting my nervous system and blood sugar?
 
 Start with one 5-minute breathing session—ideally at the same time each day—focusing only on slow, soft belly breaths. No need to clear your mind or “do it perfectly.” Just notice your breath, pause when distracted, and begin again. That gentle repetition is where healing begins.

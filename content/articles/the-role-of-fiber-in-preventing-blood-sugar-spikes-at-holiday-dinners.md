@@ -79,22 +79,22 @@ Holidays are meant to be shared—not scrutinized. You don’t need to master ev
 
 ### FAQ
 
-#### #### How much fiber do I need to prevent blood sugar spikes at holiday meals?
+#### How much fiber do I need to prevent blood sugar spikes at holiday meals?
 
 Aim for 5–10 grams of *soluble* fiber with or just before a carbohydrate-rich meal. That’s about ½ cup cooked oats, ¼ cup cooked black beans, or one medium pear with skin. Consistency matters more than perfection—even adding 3–4 grams regularly helps smooth glucose curves over time.
 
-#### #### Can fiber to prevent blood sugar spikes help if I’m already on diabetes medication?
+#### Can fiber to prevent blood sugar spikes help if I’m already on diabetes medication?
 
 Yes—fiber works synergistically with most glucose-lowering medications (including metformin and GLP-1 agonists) by supporting slower, steadier absorption. Just let your care team know you’re increasing fiber, especially if you’re on insulin, so they can help you monitor for possible dose adjustments.
 
-#### #### What are the best high-fiber holiday foods that won’t feel “diet-y”?
+#### What are the best high-fiber holiday foods that won’t feel “diet-y”?
 
 Think flavor first: roasted acorn squash with cinnamon and walnuts, warm barley salad with dried cherries and parsley, spiced baked apples with oats and pecans, or a savory lentil dip with veggie sticks. These deliver 4–7g of fiber per serving—and taste rich, comforting, and festive.
 
-#### #### Does cooking affect fiber’s ability to prevent blood sugar spikes?
+#### Does cooking affect fiber’s ability to prevent blood sugar spikes?
 
 Mostly no—cooking doesn’t destroy fiber. In fact, gentle cooking (steaming, roasting, simmering) can make some fibers *more accessible*, especially in beans and root vegetables. Avoid over-boiling greens for hours, though—that can leach some nutrients. And always eat fruits with their skin when possible (apples, pears, plums) for maximum soluble fiber.
 
-#### #### Is there a risk of eating too much fiber too quickly during the holidays?
+#### Is there a risk of eating too much fiber too quickly during the holidays?
 
 Yes—ramping up fiber too fast (especially without enough fluids) can cause bloating or gas. Increase gradually: add 2–3 grams per day over a week or two, and drink plenty of water. If discomfort persists, try rotating fiber sources (e.g., alternate oats one day, lentils the next) to support diverse gut bacteria.

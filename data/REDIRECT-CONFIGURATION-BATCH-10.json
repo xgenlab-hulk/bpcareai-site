@@ -1,0 +1,244 @@
+{
+  "metadata": {
+    "created_date": "2026-03-23",
+    "batch_id": "batch-010",
+    "total_redirects": 45,
+    "batches_covered": [
+      "batch-010"
+    ],
+    "articles_range": "296-345",
+    "note": "Only includes successfully optimized articles (45/50)"
+  },
+  "redirects": [
+    {
+      "source": "/articles/how-to-navigate-grandmother-s-famous-apple-pie-without-spiking-post-meal-glucose-practical-portion-pairing-tactics-for-adults-58-72-with-prediabetes",
+      "destination": "/articles/apple-pie-blood-sugar-prediabetes-58-72",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-social-isolation-alters-hippocampal-glucose-metabolism-and-increases-risk-of-hypoglycemia-unawareness-in-adults-73-living-alone-with-t2d",
+      "destination": "/articles/loneliness-low-blood-sugar-risk-73",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-late-afternoon-snacking-at-family-gatherings-disrupts-nocturnal-melatonin-and-elevates-fasting-glucose-in-adults-59-66-with-shift-work-history",
+      "destination": "/articles/afternoon-snacks-morning-glucose-59-66",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-daily-use-of-hearing-aids-alters-parasympathetic-tone-and-postprandial-glucose-variability-in-adults-76-with-mild-hearing-loss-and-t2d",
+      "destination": "/articles/hearing-aids-blood-sugar-diabetes-76",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-chronic-knee-osteoarthritis-pain-alters-ambulatory-blood-pressure-patterns-in-adults-72-with-stage-2-hypertension",
+      "destination": "/articles/knee-pain-raising-bp-seniors-72",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-social-isolation-alters-hippocampal-glucose-metabolism-and-increases-risk-of-hypoglycemia-unawareness-in-adults-73-living-alone-with-t2d",
+      "destination": "/articles/loneliness-low-blood-sugar-diabetes-73",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-late-afternoon-snacking-at-family-gatherings-disrupts-nocturnal-melatonin-and-elevates-fasting-glucose-in-adults-59-66-with-shift-work-history",
+      "destination": "/articles/afternoon-snacks-blood-sugar-shift-workers-59",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-daily-use-of-hearing-aids-alters-parasympathetic-tone-and-postprandial-glucose-variability-in-adults-76-with-mild-hearing-loss-and-t2d",
+      "destination": "/articles/hearing-aids-blood-sugar-spikes-diabetes-76",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-chronic-knee-osteoarthritis-pain-alters-ambulatory-blood-pressure-patterns-in-adults-72-with-stage-2-hypertension",
+      "destination": "/articles/knee-pain-raising-bp-seniors-72",
+      "permanent": true
+    },
+    {
+      "source": "/articles/enhance-hepatic-insulin-clearance-natural",
+      "destination": "/articles/liver-insulin-health-diabetes-66-natural",
+      "permanent": true
+    },
+    {
+      "source": "/articles/enhance-hepatic-insulin-clearance-natural",
+      "destination": "/articles/liver-insulin-balance-seniors-nafld",
+      "permanent": true
+    },
+    {
+      "source": "/articles/endothelial-support-without-nitrates-seniors",
+      "destination": "/articles/blood-vessel-foods-seniors-stomach",
+      "permanent": true
+    },
+    {
+      "source": "/articles/endocrine-disruptors-senior-living-insulin-resistance",
+      "destination": "/articles/hidden-toxins-nursing-homes-diabetes",
+      "permanent": true
+    },
+    {
+      "source": "/articles/diabetic-retinopathy-oct-angiography-myths",
+      "destination": "/articles/eye-damage-diabetes-no-symptoms-61",
+      "permanent": true
+    },
+    {
+      "source": "/articles/diabetic-protein-bars-gut-barrier-risk",
+      "destination": "/articles/protein-bars-diabetes-gut-problems",
+      "permanent": true
+    },
+    {
+      "source": "/articles/enhance-hepatic-insulin-clearance-natural",
+      "destination": "/articles/liver-insulin-metabolism-nafld-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/endothelial-support-without-nitrates-seniors",
+      "destination": "/articles/blood-vessel-health-foods-seniors-66",
+      "permanent": true
+    },
+    {
+      "source": "/articles/endocrine-disruptors-senior-living-insulin-resistance",
+      "destination": "/articles/hidden-chemicals-nursing-homes-diabetes",
+      "permanent": true
+    },
+    {
+      "source": "/articles/diabetic-retinopathy-oct-angiography-myths",
+      "destination": "/articles/diabetes-eye-damage-vision-still-fine",
+      "permanent": true
+    },
+    {
+      "source": "/articles/diabetic-protein-bars-gut-barrier-risk",
+      "destination": "/articles/diabetes-protein-bars-hidden-ingredients",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-to-navigate-grandmother-s-famous-apple-pie-without-spiking-post-meal-glucose-practical-portion-pairing-tactics-for-adults-58-72-with-prediabetes",
+      "destination": "/articles/apple-pie-blood-sugar-adults-prediabetes",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-social-isolation-alters-hippocampal-glucose-metabolism-and-increases-risk-of-hypoglycemia-unawareness-in-adults-73-living-alone-with-t2d",
+      "destination": "/articles/loneliness-low-blood-sugar-seniors-diabetes",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-late-afternoon-snacking-at-family-gatherings-disrupts-nocturnal-melatonin-and-elevates-fasting-glucose-in-adults-59-66-with-shift-work-history",
+      "destination": "/articles/afternoon-snacks-blood-sugar-shift-workers",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-daily-use-of-hearing-aids-alters-parasympathetic-tone-and-postprandial-glucose-variability-in-adults-76-with-mild-hearing-loss-and-t2d",
+      "destination": "/articles/hearing-aids-blood-sugar-seniors-diabetes",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-chronic-knee-osteoarthritis-pain-alters-ambulatory-blood-pressure-patterns-in-adults-72-with-stage-2-hypertension",
+      "destination": "/articles/knee-pain-blood-pressure-seniors-72",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-to-navigate-grandmother-s-famous-apple-pie-without-spiking-post-meal-glucose-practical-portion-pairing-tactics-for-adults-58-72-with-prediabetes",
+      "destination": "/articles/apple-pie-blood-sugar-prediabetes",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-social-isolation-alters-hippocampal-glucose-metabolism-and-increases-risk-of-hypoglycemia-unawareness-in-adults-73-living-alone-with-t2d",
+      "destination": "/articles/isolation-low-blood-sugar-seniors-73",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-late-afternoon-snacking-at-family-gatherings-disrupts-nocturnal-melatonin-and-elevates-fasting-glucose-in-adults-59-66-with-shift-work-history",
+      "destination": "/articles/snacking-sleep-blood-sugar-59-66",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-daily-use-of-hearing-aids-alters-parasympathetic-tone-and-postprandial-glucose-variability-in-adults-76-with-mild-hearing-loss-and-t2d",
+      "destination": "/articles/hearing-aids-blood-sugar-seniors-76",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-chronic-knee-osteoarthritis-pain-alters-ambulatory-blood-pressure-patterns-in-adults-72-with-stage-2-hypertension",
+      "destination": "/articles/knee-pain-blood-pressure-seniors-72",
+      "permanent": true
+    },
+    {
+      "source": "/articles/low-sodium-soup-potassium-chloride-ckdseniors",
+      "destination": "/articles/low-sodium-soup-dangers-kidney-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/low-blue-light-lamps-renin-morning-systolic-pressure",
+      "destination": "/articles/evening-lamps-morning-bp-spikes-64",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-late-night-eggnog-consumption-alters-circadian-insulin-secretion-patterns-in-adults-67-with-long-standing-type-2-diabetes",
+      "destination": "/articles/late-night-eggnog-blood-sugar-67",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-late-night-eggnog-consumption-alters-cardiac-repolarization-reserve-in-adults-58-65-with-subclinical-qt-prolongation",
+      "destination": "/articles/eggnog-heart-rhythm-danger-58-65",
+      "permanent": true
+    },
+    {
+      "source": "/articles/how-intermittent-use-of-magnetic-mattress-pads-alters-baroreflex-gain-in-adults-63-with-mild-orthostatic-intolerance-and-early-autonomic-neuropathy",
+      "destination": "/articles/magnetic-mattress-bp-dizziness-63",
+      "permanent": true
+    },
+    {
+      "source": "/articles/central-aortic-pressure-foods-wide-pulse-pressure",
+      "destination": "/articles/lower-aortic-pressure-foods-seniors-70",
+      "permanent": true
+    },
+    {
+      "source": "/articles/warm-baths-sglt2-inhibitors-safety",
+      "destination": "/articles/sglt2-warm-baths-safety-seniors-63",
+      "permanent": true
+    },
+    {
+      "source": "/articles/tea-stevia-citric-acid-renal-sodium-reabsorption",
+      "destination": "/articles/afternoon-tea-diuretics-seniors-73",
+      "permanent": true
+    },
+    {
+      "source": "/articles/sugar-free-candies-and-gastroparesis",
+      "destination": "/articles/sugar-free-candy-gastroparesis-69",
+      "permanent": true
+    },
+    {
+      "source": "/articles/stable-heart-disease-plaque-erosion",
+      "destination": "/articles/stable-heart-disease-still-progressing",
+      "permanent": true
+    },
+    {
+      "source": "/articles/warm-baths-sglt2-inhibitors-safety",
+      "destination": "/articles/warm-baths-diabetes-meds-safety-63",
+      "permanent": true
+    },
+    {
+      "source": "/articles/tea-stevia-citric-acid-renal-sodium-reabsorption",
+      "destination": "/articles/tea-sweeteners-diuretics-seniors-73",
+      "permanent": true
+    },
+    {
+      "source": "/articles/sugar-free-candies-and-gastroparesis",
+      "destination": "/articles/sugar-free-candy-gastroparesis-69",
+      "permanent": true
+    },
+    {
+      "source": "/articles/stable-heart-disease-plaque-erosion",
+      "destination": "/articles/stable-heart-disease-hidden-risks",
+      "permanent": true
+    },
+    {
+      "source": "/articles/sodium-potassium-pump-resilience-natural",
+      "destination": "/articles/heart-rhythm-holiday-stress-diuretics",
+      "permanent": true
+    }
+  ],
+  "instructions": {
+    "implementation": "Add these redirects to next.config.js in the async redirects() function",
+    "format": "source: old slug path, destination: new slug path, permanent: true (301 redirect)",
+    "validation": "Test each redirect after deployment to ensure proper routing"
+  }
+}

@@ -40,22 +40,22 @@ In summary, cold water immersion heart failure HRV is a promising, nonpharmacolo
 
 ### FAQ
 
-#### #### Does cold water immersion heart failure HRV help lower blood pressure in older adults?
+#### Does cold water immersion heart failure HRV help lower blood pressure in older adults?
 
 Some small RCTs report modest reductions in daytime systolic BP (≈4–6 mm Hg) after 8 weeks of consistent 12°C immersion, likely due to improved baroreflex sensitivity and reduced sympathetic drive. However, effects vary widely—especially in those with established hypertension or arterial stiffness.
 
-#### #### Is cold water immersion heart failure HRV safe for people with atrial fibrillation?
+#### Is cold water immersion heart failure HRV safe for people with atrial fibrillation?
 
 Not universally. Those with well-controlled, asymptomatic paroxysmal AF *may* tolerate supervised protocols—but persistent or uncontrolled AF increases risk of vagally mediated pauses or bradycardia. Cardiology clearance and rhythm monitoring are essential.
 
-#### #### Can cold water immersion heart failure HRV reduce NT-proBNP long term?
+#### Can cold water immersion heart failure HRV reduce NT-proBNP long term?
 
 Early trials show statistically significant but clinically modest NT-proBNP reductions (median −12% at 12 weeks). Longer-term data (>6 months) are limited, and reductions don’t consistently correlate with structural improvements—so NT-proBNP should remain one piece of a broader clinical picture.
 
-#### #### Does cold water immersion improve HRV in people over 60?
+#### Does cold water immersion improve HRV in people over 60?
 
 Yes—when appropriately dosed. Studies in adults 59–70 show HRV improvements averaging 12–18% in time- and frequency-domain metrics (e.g., RMSSD, HFnu) after 6–8 weeks of 10-minute, 12°C sessions 3–5×/week.
 
-#### #### What’s the safest way to start cold water immersion at home?
+#### What’s the safest way to start cold water immersion at home?
 
 Begin with cool (not cold) water (15–16°C), 2–3 minutes, 2×/week. Gradually increase frequency, duration, and cold intensity over 3–4 weeks—only if no adverse symptoms occur. Always have someone nearby for the first 3 sessions, and avoid immersion within 2 hours of meals or medications that affect BP or HR.

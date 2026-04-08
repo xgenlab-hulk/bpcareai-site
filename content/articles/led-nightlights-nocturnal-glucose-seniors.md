@@ -56,22 +56,22 @@ Understanding how everyday elements like hallway lighting interact with our biol
 
 ### FAQ
 
-#### #### Do LED nightlights raise blood sugar in older adults?
+#### Do LED nightlights raise blood sugar in older adults?
 
 Yes—indirectly. Research suggests that blue-enriched LED light at night can suppress melatonin and disrupt insulin pulsatility, contributing to elevated nocturnal and fasting glucose levels in adults 70+. It’s not the light itself raising sugar, but rather its effect on circadian signaling.
 
-#### #### Are led nightlights nocturnal glucose seniors linked to diabetes risk?
+#### Are led nightlights nocturnal glucose seniors linked to diabetes risk?
 
 While LED nightlights don’t cause diabetes, chronic disruption of melatonin and sleep architecture may worsen glycemic control in those with prediabetes or type 2 diabetes. In longitudinal studies, poor sleep efficiency combined with nighttime light exposure was associated with a 20% higher likelihood of progressing from prediabetes to diabetes over five years.
 
-#### #### What color LED nightlight is safest for seniors with diabetes?
+#### What color LED nightlight is safest for seniors with diabetes?
 
 Warm amber (≤2200K) or red-spectrum LEDs are safest—they emit almost no melanopsin-stimulating wavelengths. Avoid cool-white or daylight LEDs (4000K–6500K), which strongly activate retinal melanopsin and may interfere with glucose regulation.
 
-#### #### Can turning off hallway lights improve nocturia?
+#### Can turning off hallway lights improve nocturia?
 
 Some studies report modest reductions in nocturia frequency (about 0.5–1 fewer trips/night) after optimizing bedroom-adjacent lighting—likely due to improved sleep continuity and melatonin-supported bladder relaxation. It’s one supportive step among many, including fluid timing and sodium management.
 
-#### #### Does light exposure at night affect blood pressure too?
+#### Does light exposure at night affect blood pressure too?
 
 Yes. Circadian misalignment from nocturnal light exposure is associated with blunted nocturnal BP dipping—meaning blood pressure stays elevated overnight instead of dropping by the typical 10–20%. This “non-dipping” pattern is linked to higher cardiovascular risk, especially in older adults.

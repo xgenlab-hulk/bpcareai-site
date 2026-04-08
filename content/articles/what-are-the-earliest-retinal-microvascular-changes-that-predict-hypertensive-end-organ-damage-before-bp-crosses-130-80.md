@@ -75,17 +75,17 @@ If you're unsure, talking to your doctor is always a good idea. And if you’ve 
 
 ### FAQ
 
-#### #### Can retinal changes before hypertension diagnosis be reversed?
+#### Can retinal changes before hypertension diagnosis be reversed?
 Yes—studies suggest that lifestyle intervention (especially aerobic exercise + sodium reduction) initiated during the prehypertensive window can normalize FAZ size and improve deep capillary plexus density within 6–12 months.
 
-#### #### What’s the difference between retinal changes before hypertension diagnosis and hypertensive retinopathy?
+#### What’s the difference between retinal changes before hypertension diagnosis and hypertensive retinopathy?
 Hypertensive retinopathy occurs *after* sustained high BP and includes visible signs like flame hemorrhages or optic disc swelling. **Retinal changes before hypertension diagnosis**, in contrast, are subclinical—detectable only with advanced imaging—and reflect early vascular adaptation, not damage.
 
-#### #### Do I need OCT angiography if my blood pressure is normal?
+#### Do I need OCT angiography if my blood pressure is normal?
 Not routinely—but if you’re 55–69 with a strong family history of hypertension or cardiovascular disease, discussing OCT-A with your ophthalmologist or cardiologist may offer valuable insight into your long-term vascular resilience.
 
-#### #### Are retinal changes before hypertension diagnosis linked to stroke risk?
+#### Are retinal changes before hypertension diagnosis linked to stroke risk?
 Emerging data shows yes: adults with enlarged FAZ and reduced perifoveal vessel density have a 2.4× higher 5-year risk of silent cerebral infarcts—even with BP <125/75 mm Hg.
 
-#### #### How often should I check my blood pressure if I have early retinal changes?
+#### How often should I check my blood pressure if I have early retinal changes?
 We recommend home monitoring twice daily (morning and evening) for at least 7 consecutive days every 3–6 months—and sharing the full log with both your primary care provider and eye specialist.

@@ -89,22 +89,22 @@ If you're unsure, talking to your doctor is always a good idea—especially befo
 
 ### FAQ
 
-#### #### Is post meal movement gastroparesis seniors safe for people with low blood pressure?
+#### Is post meal movement gastroparesis seniors safe for people with low blood pressure?
 
 Yes—with precautions. Seated heel-toe rocking is generally safer than standing for those with orthostatic hypotension (low BP on standing), as it avoids postural change entirely. Always check BP before and after movement. If your systolic drops ≥20 mm Hg when standing, prioritize rocking or other seated options—and discuss findings with your clinician.
 
-#### #### How does post meal movement gastroparesis seniors affect blood sugar in non-diabetic older adults?
+#### How does post meal movement gastroparesis seniors affect blood sugar in non-diabetic older adults?
 
 Even without diabetes, age-related gastric slowing can cause exaggerated 2-hour glucose spikes (>140 mg/dL). Studies show both interventions modestly lower postprandial glucose in prediabetic and normoglycemic older adults—likely by improving nutrient delivery timing and enhancing insulin sensitivity via muscle pump activation.
 
-#### #### Can I do post meal movement gastroparesis seniors if I use a walker or have severe balance issues?
+#### Can I do post meal movement gastroparesis seniors if I use a walker or have severe balance issues?
 
 Absolutely—especially heel-toe rocking, which requires no weight-bearing shift. If standing feels unstable, try seated marching (lifting knees alternately while holding chair arms) or ankle circles (30 seconds each direction). The goal is rhythmic, gentle activation—not exertion.
 
-#### #### Does timing matter? Should I start moving right after my meal?
+#### Does timing matter? Should I start moving right after my meal?
 
 Yes—ideally within 5–10 minutes of finishing. Waiting longer than 20 minutes reduces the effect on gastric motilin release and early-phase insulin response. However, even delayed movement (e.g., 30 minutes post-meal) still shows measurable benefit in frail populations.
 
-#### #### Are there foods that work better with post meal movement gastroparesis seniors?
+#### Are there foods that work better with post meal movement gastroparesis seniors?
 
 Lower-fat, moderate-fiber meals tend to empty more predictably—so pairing movement with meals containing lean protein, cooked vegetables, and whole grains (rather than fried or creamy dishes) supports consistency. Avoid carbonated beverages, which increase gastric distension and may blunt movement benefits.

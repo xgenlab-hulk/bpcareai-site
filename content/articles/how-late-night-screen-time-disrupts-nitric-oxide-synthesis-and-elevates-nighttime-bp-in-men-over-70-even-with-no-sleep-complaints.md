@@ -74,22 +74,22 @@ Blood pressure is not a fixed number—it’s a dynamic reflection of how your w
 
 ### FAQ
 
-#### #### Does screen time really affect nitric oxide in older men—even without sleep problems?
+#### Does screen time really affect nitric oxide in older men—even without sleep problems?
 
 Yes. Multiple peer-reviewed studies confirm that evening blue-light exposure suppresses eNOS phosphorylation in men over 70, independent of melatonin levels or subjective sleep quality. This effect has been observed even in participants reporting no insomnia, no daytime sleepiness, and normal polysomnography results.
 
-#### #### Can screen time nitric oxide nighttime bp men 70 be reversed with lifestyle changes?
+#### Can screen time nitric oxide nighttime bp men 70 be reversed with lifestyle changes?
 
 Absolutely. Clinical trials show that switching to spectral-filtered devices for just two weeks restores nocturnal BP dipping patterns in 68–74% of participants aged 65–79. Combined with warm ambient lighting and earlier screen curfews, improvements in endothelial function markers (like flow-mediated dilation) are often measurable within 3–4 weeks.
 
-#### #### Is there a safe amount of evening screen time for men over 70 concerned about nighttime BP?
+#### Is there a safe amount of evening screen time for men over 70 concerned about nighttime BP?
 
 Research suggests limiting unfiltered screen exposure to ≤20 minutes between 8–10 p.m., or using strong spectral filtering (≥70% blue-light reduction below 480 nm) for up to 60 minutes. Individual sensitivity varies, so pairing screen use with relaxed breathing and seated posture further supports vascular calm.
 
-#### #### Why does blue light affect blood vessels but not just sleep?
+#### Why does blue light affect blood vessels but not just sleep?
 
 Because specialized intrinsically photosensitive retinal ganglion cells (ipRGCs) respond to blue light not only to regulate melatonin, but also to influence autonomic and endothelial pathways directly—via connections to the hypothalamus and brainstem nuclei that modulate heart rate, vascular tone, and NO synthesis. This is a parallel pathway—not just a sleep-related one.
 
-#### #### Do e-readers with frontlights count as “screen time” in this context?
+#### Do e-readers with frontlights count as “screen time” in this context?
 
 Yes—if they emit blue-rich light (most do, unless specifically labeled “warm light” or “blue-light free”). Even e-ink displays with adjustable frontlights can deliver biologically active blue wavelengths. Look for models with color-shifting frontlights and set them to warm mode in the evening.

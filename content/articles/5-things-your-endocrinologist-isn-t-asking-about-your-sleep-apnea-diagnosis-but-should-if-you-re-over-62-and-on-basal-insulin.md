@@ -86,22 +86,22 @@ Managing diabetes and sleep apnea as you age isn’t about perfection. It’s ab
 
 ### FAQ
 
-#### #### Does sleep apnea and basal insulin in seniors increase risk of nighttime low blood sugar?
+#### Does sleep apnea and basal insulin in seniors increase risk of nighttime low blood sugar?
 
 Yes—especially when CPAP use is inconsistent or oxygen desaturation is frequent and deep. Hypoxia activates stress hormones like epinephrine and cortisol, which counteract insulin and raise glucose—but paradoxically, they can also blunt warning symptoms of hypoglycemia (like sweating or tremor), making lows harder to detect. This double effect raises both risk *and* danger.
 
-#### #### How does untreated sleep apnea affect long-term diabetes control in older adults?
+#### How does untreated sleep apnea affect long-term diabetes control in older adults?
 
 Untreated moderate-to-severe sleep apnea is associated with higher HbA1c (by ~0.4–0.7%), increased insulin resistance, and faster progression of microvascular complications—including retinopathy and neuropathy. It also contributes to arterial stiffness and left ventricular hypertrophy, compounding cardiovascular risk in seniors with diabetes.
 
-#### #### Can CPAP therapy improve insulin sensitivity in seniors using basal insulin?
+#### Can CPAP therapy improve insulin sensitivity in seniors using basal insulin?
 
 Yes—studies show that consistent CPAP use (≥4 hrs/night for 3+ months) improves fasting insulin levels and HOMA-IR (a marker of insulin resistance) by 15–25% in adults over 60. Benefits are most pronounced in those with baseline AHI >20 and significant nocturnal hypoxemia.
 
-#### #### Is it safe to adjust my basal insulin dose based on my CPAP usage?
+#### Is it safe to adjust my basal insulin dose based on my CPAP usage?
 
 No—not without guidance. While CPAP *can* improve insulin sensitivity over time, abrupt dose changes based solely on device usage can lead to rebound hyperglycemia or unexpected lows. Always discuss any insulin adjustments with your endocrinologist or certified diabetes care team—and consider pairing changes with short-term CGM data.
 
-#### #### What’s the link between sleep apnea, high blood pressure, and diabetes in older adults?
+#### What’s the link between sleep apnea, high blood pressure, and diabetes in older adults?
 
 It’s a well-documented triad: sleep apnea causes intermittent hypoxia → triggers sympathetic overactivity and endothelial dysfunction → raises nighttime and morning BP → worsens insulin resistance and accelerates vascular damage. Up to 70% of adults with resistant hypertension also have undiagnosed OSA—and nearly half of those with OSA have hypertension. Managing one helps the others.

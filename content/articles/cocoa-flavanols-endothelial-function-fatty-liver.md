@@ -52,22 +52,22 @@ Improving endothelial health isn’t about quick fixes—it’s about consistent
 
 ### FAQ
 
-#### #### Does cocoa flavanols improve endothelial function in people with fatty liver?
+#### Does cocoa flavanols improve endothelial function in people with fatty liver?
 
 Yes—especially in adults aged 63–79 with non-alcoholic fatty liver disease (NAFLD). Clinical studies show 1 g/day of cocoa flavanols improved flow-mediated dilation by ~22% in those with >5% liver fat, likely due to enhanced nitric oxide bioavailability and reduced oxidative stress in the vessel wall.
 
-#### #### How does cocoa flavanols endothelial function fatty liver relate to heart disease risk?
+#### How does cocoa flavanols endothelial function fatty liver relate to heart disease risk?
 
 Strongly. Endothelial dysfunction is a precursor to atherosclerosis and hypertension—key drivers of heart disease. Since NAFLD independently raises cardiovascular mortality risk by 30–50%, improving endothelial function via cocoa flavanols may interrupt that pathway, particularly when liver fat is the main metabolic bottleneck.
 
-#### #### Can I get enough cocoa flavanols from regular dark chocolate?
+#### Can I get enough cocoa flavanols from regular dark chocolate?
 
 Unlikely. Most commercial dark chocolate contains only 10–100 mg of active flavanols per serving—and often adds sugar and saturated fat that counteract benefits. Clinical trials used purified, low-sugar cocoa extracts delivering ~500–1000 mg flavanols daily.
 
-#### #### Is cocoa safe if I’m on blood pressure medication?
+#### Is cocoa safe if I’m on blood pressure medication?
 
 Generally yes—but discuss it with your doctor first. Cocoa flavanols can modestly enhance vasodilation, so BP-lowering effects may add to medications like ACE inhibitors or calcium channel blockers. Monitor BP closely during the first few weeks.
 
-#### #### Do cocoa flavanols lower liver fat directly?
+#### Do cocoa flavanols lower liver fat directly?
 
 Not dramatically on their own—but they appear to support metabolic flexibility. In trials, participants taking 1 g/day saw modest (~5–8%) reductions in intrahepatic triglycerides after 12 weeks, especially when combined with moderate aerobic activity and Mediterranean-style eating.

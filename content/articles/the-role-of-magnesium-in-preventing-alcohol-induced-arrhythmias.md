@@ -41,17 +41,17 @@ Holiday heart syndrome isn’t inevitable—and **magnesium alcohol arrhythmias*
 
 ### FAQ
 
-#### #### Can magnesium supplements prevent holiday heart syndrome?
+#### Can magnesium supplements prevent holiday heart syndrome?
 Yes—when used appropriately. Clinical trials suggest magnesium repletion (especially IV in acute settings, or oral supplementation in chronic cases) can reduce the frequency and duration of alcohol-triggered arrhythmias. It’s not a standalone fix, but part of a broader prevention strategy including alcohol moderation and electrolyte balance.
 
-#### #### Does magnesium alcohol arrhythmias only happen with binge drinking?
+#### Does magnesium alcohol arrhythmias only happen with binge drinking?
 Not exclusively. While binge drinking carries the highest immediate risk, repeated moderate intake (e.g., >2 drinks/day for men, >1 for women) over time—especially with low dietary magnesium—can contribute to chronic depletion and increased susceptibility to arrhythmias.
 
-#### #### What’s the best form of magnesium for preventing alcohol-induced arrhythmias?
+#### What’s the best form of magnesium for preventing alcohol-induced arrhythmias?
 Magnesium glycinate, taurate, and L-threonate show strong evidence for cardiac support and cellular uptake. Avoid magnesium oxide unless prescribed for constipation—it’s poorly absorbed and unlikely to correct functional deficits linked to arrhythmias.
 
-#### #### Can low magnesium cause heart palpitations even without alcohol?
+#### Can low magnesium cause heart palpitations even without alcohol?
 Absolutely. Magnesium supports normal electrical conduction in the heart—so deficiency alone can trigger premature atrial or ventricular contractions (PACs/PVCs), especially under stress or dehydration. That’s why assessing magnesium status matters year-round—not just during the holidays.
 
-#### #### How long does it take for magnesium to help with arrhythmias?
+#### How long does it take for magnesium to help with arrhythmias?
 Acute correction (e.g., IV magnesium in hospital settings) works within hours. Oral repletion typically takes 2–4 weeks to noticeably improve symptoms—if deficiency is the primary driver. Consistency matters more than speed.

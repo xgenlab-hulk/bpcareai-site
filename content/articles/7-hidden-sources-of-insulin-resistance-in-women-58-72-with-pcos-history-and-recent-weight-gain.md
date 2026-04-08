@@ -79,22 +79,22 @@ Insulin resistance sources in perimenopausal women are complex—but not mysteri
 
 ### FAQ
 
-#### #### What are the most common insulin resistance sources in perimenopausal women?
+#### What are the most common insulin resistance sources in perimenopausal women?
 
 The top overlooked sources include subclinical thyroid autoimmunity (elevated TPO antibodies), low-grade endometrial inflammation, estrogen-driven shifts in adipose tissue immune cells, and chronic low-dose corticosteroid use—even at doses as low as 2.5–5 mg prednisone daily.
 
-#### #### Can PCOS history increase insulin resistance sources in perimenopausal women?
+#### Can PCOS history increase insulin resistance sources in perimenopausal women?
 
 Yes—absolutely. Women with prior PCOS have higher baseline insulin resistance and greater susceptibility to visceral fat expansion during perimenopause. That combination increases risk for metabolic dysfunction—even with modest weight gain.
 
-#### #### How do I know if my insulin resistance is from thyroid issues vs. menopause?
+#### How do I know if my insulin resistance is from thyroid issues vs. menopause?
 
 Lab clues help: elevated TPO antibodies + rising reverse T3 + normal TSH suggest thyroid autoimmunity is contributing. Meanwhile, falling estradiol (<30 pg/mL) with rising FSH (>25 IU/L) and disproportionate abdominal fat gain point more to perimenopausal drivers. Both can coexist—and often do.
 
-#### #### Does metformin help with insulin resistance sources in perimenopausal women?
+#### Does metformin help with insulin resistance sources in perimenopausal women?
 
 Metformin can improve insulin sensitivity, particularly in those with PCOS history or prediabetes (HbA1c 5.7–6.4%). But it doesn’t address root causes like inflammation or thyroid immunity—so pairing it with lifestyle and targeted testing yields best results.
 
-#### #### Is high blood pressure linked to insulin resistance in this age group?
+#### Is high blood pressure linked to insulin resistance in this age group?
 
 Yes—strongly. Up to 60% of women aged 55–74 with insulin resistance also have elevated BP (≥130/80 mm Hg). Both share underlying drivers: endothelial dysfunction, sympathetic nervous system activation, and chronic low-grade inflammation.

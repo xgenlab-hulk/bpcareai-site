@@ -82,17 +82,17 @@ Understanding that **normal home blood pressure readings risk** isn’t about a 
 
 ### FAQ  
 
-#### #### Does “normal” home blood pressure mean low risk for stroke in older adults?  
+#### Does “normal” home blood pressure mean low risk for stroke in older adults?  
 Not necessarily. In adults 70+, orthostatic drops or white-coat resistance—even with average home readings under 130/80 mm Hg—can double stroke risk independent of mean BP. Context matters more than the number alone.
 
-#### #### Can normal home blood pressure readings risk be higher if I feel dizzy when standing?  
+#### Can normal home blood pressure readings risk be higher if I feel dizzy when standing?  
 Yes. Dizziness on standing often signals orthostatic hypotension. Research shows this pattern increases fall and stroke risk—even when seated home readings appear ideal. It’s a sign your circulation isn’t adapting well, not that your BP is “fine.”
 
-#### #### Are normal home blood pressure readings risk factors different for men and women over 70?  
+#### Are normal home blood pressure readings risk factors different for men and women over 70?  
 The mechanisms are similar, but women tend to develop orthostatic hypotension earlier and more frequently—partly due to differences in autonomic aging and higher rates of autoimmune conditions affecting vascular tone.
 
-#### #### What’s the best time of day to check BP at home for accuracy?  
+#### What’s the best time of day to check BP at home for accuracy?  
 Morning (within 1 hour of waking, before meds or caffeine) and early evening are most informative. Adding a pre-bed reading helps spot nocturnal patterns—key for assessing overall stability.
 
-#### #### Do wrist BP monitors work for detecting orthostatic changes?  
+#### Do wrist BP monitors work for detecting orthostatic changes?  
 Not reliably. Upper-arm cuffs with validated accuracy (look for AHA/ESH/ISO certification) are strongly recommended. Wrist devices are sensitive to positioning and less accurate for detecting small but clinically meaningful drops.

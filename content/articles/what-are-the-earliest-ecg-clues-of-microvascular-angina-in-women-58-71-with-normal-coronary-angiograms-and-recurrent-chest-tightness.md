@@ -97,22 +97,22 @@ Heart disease in women often wears quieter clothes—and that’s okay. Discover
 
 ### FAQ
 
-#### #### What are the earliest ECG signs of microvascular angina in women?
+#### What are the earliest ECG signs of microvascular angina in women?
 
 The most reproducible early ECG clues include transient T-wave inversions (especially in V4–V6) during mental stress—and abnormal QT hysteresis, where the QT interval fails to shorten appropriately during heart rate increases and recovers sluggishly afterward. These are subtle but meaningful patterns, especially when correlated with symptoms and normal coronary anatomy.
 
-#### #### Can microvascular angina ekg signs women be seen on a standard resting ECG?
+#### Can microvascular angina ekg signs women be seen on a standard resting ECG?
 
 Rarely. Over 80% of women with confirmed microvascular angina have entirely normal resting ECGs. To detect *microvascular angina ekg signs women*, dynamic testing—such as ECG monitoring during mental stress, cold pressor challenge, or low-intensity exercise—is needed.
 
-#### #### Are microvascular angina ekg signs women different from those in men?
+#### Are microvascular angina ekg signs women different from those in men?
 
 Yes. Women more frequently show T-wave inversions (rather than ST depression) during provocation, and exhibit greater QT hysteresis abnormalities. Hormonal influences—particularly postmenopausal estrogen loss—and differences in autonomic tone contribute to these sex-specific patterns.
 
-#### #### Is microvascular angina dangerous? Can it lead to heart attack?
+#### Is microvascular angina dangerous? Can it lead to heart attack?
 
 While microvascular angina itself doesn’t involve plaque rupture, it *is* associated with increased long-term risk: women with INOCA have a 2–3× higher risk of hospitalization for heart failure or recurrent ischemia over 5 years compared to those without. It’s a sign of systemic vascular vulnerability—not a benign condition.
 
-#### #### What tests besides ECG help diagnose microvascular angina?
+#### What tests besides ECG help diagnose microvascular angina?
 
 Key confirmatory tests include coronary flow reserve measurement (via PET or Doppler echocardiography), acetylcholine or adenosine provocation during invasive coronary function testing, and non-invasive assessments like brachial artery FMD and biomarkers (e.g., NT-proBNP, hs-CRP). ECG clues guide *who* needs these next steps.

@@ -59,17 +59,17 @@ Flying remains safe and joyful for most older adults—including those managing 
 
 ### FAQ
 
-#### #### Does flying worsen endothelial glycocalyx in people with high blood pressure?  
+#### Does flying worsen endothelial glycocalyx in people with high blood pressure?  
 Yes—particularly in adults with stage 2 hypertension. Cabin hypoxia and immobility accelerate syndecan-1 shedding, thinning the glycocalyx and increasing microvascular permeability. This effect is more pronounced in those over 60 and with prior vascular events like DVT.
 
-#### #### How does air travel endothelial glycocalyx hypertension relate to heart disease risk?  
+#### How does air travel endothelial glycocalyx hypertension relate to heart disease risk?  
 It’s a window into early vascular stress. Glycocalyx damage precedes and contributes to atherosclerosis, arterial stiffness, and inflammation—all core features of heart disease. While one flight won’t cause a heart attack, repeated unprotected exposure may accelerate underlying processes.
 
-#### #### Can compression socks protect the endothelial glycocalyx during flights?  
+#### Can compression socks protect the endothelial glycocalyx during flights?  
 Indirectly—yes. By improving venous return and reducing capillary pressure, they lessen mechanical strain on the glycocalyx and lower syndecan-1 shedding. Combined with hydration, they’re among the most practical tools we have.
 
-#### #### Is NT-proBNP testing useful before long flights?  
+#### Is NT-proBNP testing useful before long flights?  
 Not routinely—but for adults 61–77 with stage 2 hypertension and prior DVT, a baseline NT-proBNP helps contextualize post-flight spikes. A rise >25% above baseline warrants discussion with your cardiologist or primary care provider.
 
-#### #### What’s the safest flight duration for someone with hypertension and past DVT?  
+#### What’s the safest flight duration for someone with hypertension and past DVT?  
 There’s no universal cutoff—but flights longer than 4–6 hours carry higher hemodynamic stress. For trips >6 hours, pre-travel hydration, compression, movement, and post-flight BP/leg symptom monitoring become especially valuable.

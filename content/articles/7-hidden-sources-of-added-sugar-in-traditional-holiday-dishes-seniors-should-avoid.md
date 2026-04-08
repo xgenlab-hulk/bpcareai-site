@@ -84,22 +84,22 @@ And remember: Your body has carried you through decades of love, laughter, and l
 
 ### FAQ
 
-#### #### What are the top hidden sugar in holiday foods seniors should watch for?
+#### What are the top hidden sugar in holiday foods seniors should watch for?
 
 The most common culprits include canned cranberry sauce, boxed stuffing mixes, sweet potato casserole with marshmallows, store-bought eggnog, glazed carrots, holiday rolls with honey washes, and fruit-based salads with sweetened dressings. Together, these can contribute 40–60+ grams of added sugar across a single meal—well above the American Heart Association’s recommended limit of 25 g/day for women and 36 g/day for men.
 
-#### #### How does hidden sugar in holiday foods seniors eat affect blood pressure?
+#### How does hidden sugar in holiday foods seniors eat affect blood pressure?
 
 Added sugar contributes to insulin resistance and systemic inflammation, both of which promote arterial stiffness and endothelial dysfunction—key drivers of rising systolic pressure. Research published in *Hypertension* (2022) found that adults over 50 who reduced added sugar by 20 g/day saw an average 5–7 mm Hg drop in systolic BP over eight weeks, independent of weight loss.
 
-#### #### Can I still enjoy traditional holiday flavors without added sugar?
+#### Can I still enjoy traditional holiday flavors without added sugar?
 
 Absolutely! Flavor comes from herbs, spices, roasting, acidity (like vinegar or citrus), and umami-rich ingredients (mushrooms, tomato paste, miso). For example, a savory-sweet stuffing can use roasted apples and caramelized onions instead of brown sugar—and cranberry sauce gains brightness from orange and warmth from ginger, not syrup.
 
-#### #### Is “natural” sugar like honey or maple syrup safer for seniors?
+#### Is “natural” sugar like honey or maple syrup safer for seniors?
 
 Not necessarily. While honey and maple syrup contain trace nutrients, they’re still considered *added sugars* by the FDA and raise blood glucose similarly to table sugar. One tablespoon = ~17 g sugar. Moderation matters most—limit to 1 tsp per serving when possible.
 
-#### #### Do sugar-free or “diet” holiday products help?
+#### Do sugar-free or “diet” holiday products help?
 
 Sometimes—but not always. Artificial sweeteners like sucralose or aspartame don’t raise blood sugar, but emerging evidence suggests they may alter gut microbiota and influence insulin response in some older adults. Better options include small amounts of monk fruit or erythritol—or simply reducing sweetness overall to reset taste preferences.

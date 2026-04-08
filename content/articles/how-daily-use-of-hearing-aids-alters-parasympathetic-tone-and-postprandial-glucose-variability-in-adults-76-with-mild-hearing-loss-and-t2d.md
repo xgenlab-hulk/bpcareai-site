@@ -65,17 +65,17 @@ Science is increasingly revealing how interconnected our senses, nervous system,
 
 ### FAQ
 
-#### #### Can hearing aids improve blood sugar control in older adults with diabetes?  
+#### Can hearing aids improve blood sugar control in older adults with diabetes?  
 Yes—indirectly. Emerging evidence links consistent hearing aid use to improved parasympathetic tone, which helps coordinate insulin release and reduce postprandial glucose variability. It’s not a replacement for medication or diet, but a supportive layer in holistic care.
 
-#### #### What is hearing aids parasympathetic glucose variability—and why does it matter for seniors?  
+#### What is hearing aids parasympathetic glucose variability—and why does it matter for seniors?  
 *Hearing aids parasympathetic glucose variability* refers to how daily hearing aid use may stabilize blood sugar fluctuations after meals by strengthening vagus-mediated nervous system signaling. For seniors with T2D, smoother glucose curves mean fewer energy crashes, less strain on the heart and kidneys, and better day-to-day resilience.
 
-#### #### Does hearing aids parasympathetic glucose variability affect blood pressure too?  
+#### Does hearing aids parasympathetic glucose variability affect blood pressure too?  
 Potentially, yes. Since the vagus nerve regulates both heart rate and vascular tone, improved parasympathetic input may contribute to more stable BP responses—particularly postprandial hypotension, which affects up to 30% of adults over 75.
 
-#### #### How long before I might notice changes from wearing hearing aids daily?  
+#### How long before I might notice changes from wearing hearing aids daily?  
 Pilot data suggest measurable HRV and CGM pattern shifts may appear after 4–6 weeks of consistent use (≥5 hrs/day), though individual timelines vary. Focus on routine—not results.
 
-#### #### Do I need special hearing aids to support glucose or nervous system health?  
+#### Do I need special hearing aids to support glucose or nervous system health?  
 No. Standard, properly fitted hearing aids—adjusted for mild hearing loss—are what the current research used. What matters most is daily wear and audiological follow-up to ensure optimal input.

@@ -81,22 +81,22 @@ Managing glucose in later life is less about perfection and more about consisten
 
 ### FAQ
 
-#### #### Does exercise timing postprandial glucose variability affect heart health in older adults?
+#### Does exercise timing postprandial glucose variability affect heart health in older adults?
 
 Yes—high glucose variability is independently associated with increased arterial stiffness, endothelial dysfunction, and 24-hour systolic BP variability. In adults 60+, each 10-point rise in MAGE correlates with a 7% higher risk of incident hypertension over 3 years.
 
-#### #### How does exercise timing postprandial glucose variability differ for people with kidney disease?
+#### How does exercise timing postprandial glucose variability differ for people with kidney disease?
 
 Reduced renal function impairs insulin and medication clearance, blunting counter-regulatory hormone responses (e.g., glucagon, epinephrine). This makes fasted exercise riskier—especially if combined with SGLT2 inhibitors or insulin. Post-dinner walking avoids this vulnerability and improves insulin sensitivity without taxing renal glucose handling.
 
-#### #### Can I improve exercise timing postprandial glucose variability without a CGM?
+#### Can I improve exercise timing postprandial glucose variability without a CGM?
 
 Yes—though less precisely. Use paired fingerstick checks: pre-meal, 2 hours post-meal, and upon waking. Track patterns over 2 weeks with and without walking. Consistent drops of ≥30 mg/dL at the 2-hour mark suggest effective timing. Also monitor subjective energy—stable glucose often means fewer afternoon crashes.
 
-#### #### Is walking intensity more important than timing for glucose control?
+#### Is walking intensity more important than timing for glucose control?
 
 Timing has a larger *acute* impact on postprandial excursions than intensity—at least for moderate efforts. A 30-minute walk at 3.5 mph reduces 2-hour glucose similarly whether done at 50% or 70% of max heart rate. However, higher intensity (>80% HRmax) may increase nocturnal hypoglycemia risk in insulin users, making timing even more critical.
 
-#### #### How soon after starting timed walking will I see changes in my glucose patterns?
+#### How soon after starting timed walking will I see changes in my glucose patterns?
 
 Most adults notice measurable shifts in postprandial peaks and MAGE within 5–7 days. For sustained improvements in TAR and nocturnal stability, allow 2–3 weeks of consistent timing. A1c changes typically lag by 2–3 months.

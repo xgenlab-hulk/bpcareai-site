@@ -91,17 +91,17 @@ Choosing between monitoring options isn’t about choosing “better” or “wo
 
 ### FAQ
 
-#### #### Does ECG patch vs holter asymptomatic afib detection really make a difference in stroke prevention?
+#### Does ECG patch vs holter asymptomatic afib detection really make a difference in stroke prevention?
 Yes—because early detection allows for timely risk assessment and personalized decisions about anticoagulation. Studies show that identifying even brief, asymptomatic AFib episodes helps refine stroke risk scores (like CHA₂DS₂-VASc), leading to more appropriate use of blood thinners and fewer unnecessary treatments.
 
-#### #### Which is more comfortable: ECG patch vs holter for older adults?
+#### Which is more comfortable: ECG patch vs holter for older adults?
 Most adults 60+ find ECG patches significantly more comfortable. They’re smaller, wire-free, water-resistant, and worn discreetly on the chest for up to two weeks—no electrode gels, no tangled leads, and no restrictions on bathing or daily movement.
 
-#### #### Can a Holter monitor miss asymptomatic AFib entirely?
+#### Can a Holter monitor miss asymptomatic AFib entirely?
 Yes—frequently. Because asymptomatic AFib in older adults is often paroxysmal (comes and goes) and brief (sometimes under 30 seconds), a 24–48 hour Holter has a high chance of missing it. Extended-wear patches improve detection by capturing more cardiac cycles over time.
 
-#### #### Is ECG patch vs holter asymptomatic afib monitoring covered by insurance?
+#### Is ECG patch vs holter asymptomatic afib monitoring covered by insurance?
 Many Medicare Advantage plans and commercial insurers now cover FDA-cleared ECG patches for indicated uses—including AFib screening in adults with risk factors like hypertension and age ≥65. Coverage varies, so check with your plan or ask your provider’s office to verify eligibility.
 
-#### #### Do I need to change my lifestyle if I’m diagnosed with asymptomatic AFib?
+#### Do I need to change my lifestyle if I’m diagnosed with asymptomatic AFib?
 Not necessarily—but it’s a great opportunity to optimize what supports heart rhythm health: consistent blood pressure control, moderate physical activity, quality sleep, and avoiding excess alcohol or stimulants. Your care team will help tailor recommendations to your unique situation—always with gentleness and respect for your goals.

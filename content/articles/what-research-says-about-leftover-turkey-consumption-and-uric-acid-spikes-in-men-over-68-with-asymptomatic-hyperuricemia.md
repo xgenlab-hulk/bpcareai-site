@@ -83,22 +83,22 @@ Understanding the interplay between leftover turkey uric acid men over 68 and lo
 
 ### FAQ
 
-#### #### Does eating leftover turkey really raise uric acid in older men?
+#### Does eating leftover turkey really raise uric acid in older men?
 
 Yes—particularly in men over 68 with existing hyperuricemia or reduced kidney function. Reheated turkey, especially when cooked with fats or sugars, delivers a concentrated purine load that aging kidneys process more slowly. Research shows uric acid can rise significantly within 72 hours after consumption—even without symptoms.
 
-#### #### How much leftover turkey uric acid risk is there for men over 68?
+#### How much leftover turkey uric acid risk is there for men over 68?
 
 The risk isn’t about turkey alone—it’s about *context*. A 3-oz portion of plain roasted turkey poses minimal risk for most. But combined with alcohol, fructose-rich sides, or slow-cooking methods, it can contribute to uric acid spikes of 1.0–2.0 mg/dL in susceptible men over 68—enough to push levels into the crystal-forming range (>6.8 mg/dL).
 
-#### #### Can I still enjoy holiday meals if I have asymptomatic hyperuricemia?
+#### Can I still enjoy holiday meals if I have asymptomatic hyperuricemia?
 
 Absolutely. Focus on balance: prioritize fresh vegetables, choose lean turkey portions, skip sugary sauces and beer, and stay well-hydrated. Many people successfully maintain healthy uric acid levels through mindful eating—not elimination.
 
-#### #### Is slow-cooked turkey worse for uric acid than roasted turkey?
+#### Is slow-cooked turkey worse for uric acid than roasted turkey?
 
 Evidence suggests yes—especially for older adults. Slow-cooked or braised turkey tends to have higher AGE content and may concentrate purines during prolonged heating. Roasted turkey (especially breast meat, skin removed) is generally lower in both purines and inflammatory compounds.
 
-#### #### What’s the safest way to reheat leftover turkey for men over 68 with high uric acid?
+#### What’s the safest way to reheat leftover turkey for men over 68 with high uric acid?
 
 Steam, microwave with low-sodium broth, or gently sauté with olive oil and herbs—avoid browning in butter or reheating in sugary, high-sodium gravies. Keep portions modest (≤100 g), and pair with alkalizing foods like cucumber, lemon water, or a small handful of cherries.

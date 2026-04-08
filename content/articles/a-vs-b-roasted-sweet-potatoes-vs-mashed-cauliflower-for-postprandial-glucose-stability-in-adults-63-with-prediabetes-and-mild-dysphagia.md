@@ -50,23 +50,23 @@ Tracking your blood pressure trends can help you and your doctor make better dec
 
 ### FAQ
 
-#### #### Is roasted sweet potatoes vs mashed cauliflower seniors better for blood pressure?
+#### Is roasted sweet potatoes vs mashed cauliflower seniors better for blood pressure?
 
 Both options support heart health when prepared without excess salt or saturated fat. Sweet potatoes provide potassium (about 475 mg per ½ cup), which helps balance sodium and support arterial pressure. Cauliflower contributes magnesium and nitrates—both linked to vascular relaxation. Neither raises BP directly; the bigger influence is overall sodium intake and meal balance.
 
-#### #### Can mashed cauliflower cause digestive issues for seniors with mild dysphagia?
+#### Can mashed cauliflower cause digestive issues for seniors with mild dysphagia?
 
 Well-cooked and smoothly mashed cauliflower is generally well-tolerated—even for those with mild dysphagia. However, over-reliance on very low-fiber foods may contribute to constipation over time. Pair it with soft-cooked lentils or ground flaxseed to maintain gentle motility.
 
-#### #### Which is easier to swallow: roasted sweet potatoes or mashed cauliflower for seniors?
+#### Which is easier to swallow: roasted sweet potatoes or mashed cauliflower for seniors?
 
 Mashed cauliflower is typically easier to swallow due to its uniform, cohesive texture—especially when prepared with appropriate thickness (similar to warm pudding). Roasted sweet potatoes offer beneficial sensory feedback for those maintaining safe oral-motor function, but may require slight modification (e.g., smaller dice or light mashing) if chewing fatigue occurs.
 
-#### #### Does roasting sweet potatoes increase their glycemic index?
+#### Does roasting sweet potatoes increase their glycemic index?
 
 Yes—roasting can slightly raise GI compared to boiling (which yields GI ~44), because heat breaks down starches. Still, roasted sweet potatoes remain moderate-GI and rich in antioxidants. For tighter glucose control, consider partial boiling + brief roasting to balance texture and response.
 
-#### #### Are there other holiday starch alternatives safe for prediabetes and dysphagia?
+#### Are there other holiday starch alternatives safe for prediabetes and dysphagia?
 
 Absolutely. Well-mashed parsnips, pureed butternut squash (with skin removed), or soft polenta made with almond milk and minimal cheese are excellent, nutrient-dense options—always tailored to your chewing and swallowing comfort.
 

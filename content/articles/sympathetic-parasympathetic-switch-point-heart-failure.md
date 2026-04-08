@@ -62,22 +62,22 @@ Autonomic balance isn’t about perfection—it’s about gentle recalibration o
 
 ### FAQ
 
-#### #### What does “sympathetic-parasympathetic switch point heart failure” actually mean?
+#### What does “sympathetic-parasympathetic switch point heart failure” actually mean?
 
 It refers to the physiological threshold at which your nervous system shifts from parasympathetic-dominant (rest-and-digest) to sympathetic-dominant (fight-or-flight) signaling—and how easily it returns. In heart failure, especially HFpEF, this point often shifts toward sympathetic bias, contributing to symptoms even when heart pumping looks normal on echo.
 
-#### #### Can breathing exercises really change the sympathetic-parasympathetic switch point heart failure?
+#### Can breathing exercises really change the sympathetic-parasympathetic switch point heart failure?
 
 Yes—but only if they target *expiratory duration*, not just depth. Studies show that extending exhalation to ≥6 seconds—repeatedly—increases high-frequency HRV (a marker of vagal tone) by 15–22% in HFpEF patients over 6 weeks. Generic “deep breathing” without timed exhalation shows minimal effect on autonomic metrics.
 
-#### #### How does evening light affect the sympathetic-parasympathetic switch point in heart disease?
+#### How does evening light affect the sympathetic-parasympathetic switch point in heart disease?
 
 Evening light—especially blue-wavelength light—suppresses melatonin and delays circadian phase, which blunts the natural nocturnal rise in vagal activity. In heart disease, this reduces overnight HRV recovery and elevates next-morning sympathetic tone. Dimming lights and shifting to warmer spectra after 8 p.m. supports timely autonomic downregulation.
 
-#### #### Is foot temperature a reliable sign of autonomic health in HFpEF?
+#### Is foot temperature a reliable sign of autonomic health in HFpEF?
 
 Yes—when measured correctly. Bilateral foot warmth (>32°C) after rest reflects healthy sympathetic-mediated vasoconstriction release. Asymmetry >1.2°C is associated with impaired baroreflex sensitivity in HFpEF and predicts slower heart rate recovery post-exercise. It’s a simple, non-invasive proxy worth tracking weekly.
 
-#### #### Do I need special equipment to assess my sympathetic-parasympathetic switch point?
+#### Do I need special equipment to assess my sympathetic-parasympathetic switch point?
 
 No. A basic digital thermometer, a stopwatch or breath timer app, and awareness of your lighting environment provide clinically useful insights. For deeper analysis, wearable HRV trackers (measuring RMSSD or HF power) add value—but consistency matters more than precision. Focus first on reproducible daily habits, then layer in measurement.

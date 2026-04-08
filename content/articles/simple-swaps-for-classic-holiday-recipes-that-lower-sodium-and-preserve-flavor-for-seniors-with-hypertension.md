@@ -48,17 +48,17 @@ You don’t have to choose between celebration and care. With simple, intentiona
 
 ### FAQ
 
-#### #### What are some easy low sodium holiday recipes seniors can prepare without sacrificing flavor?
+#### What are some easy low sodium holiday recipes seniors can prepare without sacrificing flavor?
 Try roasted herb turkey breast with garlic-rosemary rub (skip the brine), mashed cauliflower with chives and a splash of unsweetened almond milk, and oven-roasted root vegetables tossed in olive oil and thyme. All are naturally low in sodium and high in flavor—and most require under 30 minutes of hands-on time.
 
-#### #### Where can I find trusted low sodium holiday recipes seniors can rely on?
+#### Where can I find trusted low sodium holiday recipes seniors can rely on?
 Reputable sources include the American Heart Association’s “Heart-Check Certified” recipe database, the National Institute on Aging’s “Go4Life” nutrition section, and registered dietitian blogs focused on senior wellness. Look for recipes that list sodium content per serving and avoid “reduced-sodium” claims unless they specify actual milligrams.
 
-#### #### Are low sodium holiday recipes seniors-friendly also suitable for people with diabetes?
+#### Are low sodium holiday recipes seniors-friendly also suitable for people with diabetes?
 Yes—many low sodium holiday recipes seniors enjoy are naturally aligned with diabetes-friendly principles: whole foods, balanced carbs, and minimal processed ingredients. Just be mindful of added sugars in sauces or desserts; opt for natural sweetness from fruit or spices like cinnamon and nutmeg.
 
-#### #### Can I still enjoy gravy during the holidays if I have high blood pressure?
+#### Can I still enjoy gravy during the holidays if I have high blood pressure?
 Absolutely—just make it yourself! Use low-sodium broth, simmer onions and mushrooms for richness, and thicken with a cornstarch slurry instead of flour-and-broth mixes. One taste-tester said, “It tasted like comfort—without the crash.”
 
-#### #### How much sodium is too much during holiday meals for seniors with hypertension?
+#### How much sodium is too much during holiday meals for seniors with hypertension?
 For adults with hypertension, the AHA recommends staying under 1,500 mg of sodium per day. That means aiming for no more than 400–500 mg per meal—including appetizers and desserts. Reading labels and preparing more from scratch helps keep totals in check.

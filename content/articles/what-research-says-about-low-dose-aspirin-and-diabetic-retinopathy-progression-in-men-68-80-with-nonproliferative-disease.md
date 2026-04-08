@@ -92,22 +92,22 @@ Understanding how medications interact with aging and diabetes empowers thoughtf
 
 ### FAQ
 
-#### #### Does low-dose aspirin worsen diabetic retinopathy in older men?
+#### Does low-dose aspirin worsen diabetic retinopathy in older men?
 
 Current evidence does not support a broad “worsening” effect. Large trials like ASCEND show no overall increase in vision-threatening progression with 100 mg/day aspirin. However, subgroup analyses suggest a small increase in retinal hemorrhages among men aged ≥65 with preexisting NPDR—particularly if blood pressure or glucose are poorly controlled.
 
-#### #### Is aspirin diabetic retinopathy men 68-80 a recognized clinical concern?
+#### Is aspirin diabetic retinopathy men 68-80 a recognized clinical concern?
 
 Yes—though not a contraindication, it’s a documented consideration in geriatric diabetes guidelines. The American Diabetes Association (ADA) and American Academy of Ophthalmology (AAO) both recommend individualized aspirin decisions in this demographic, factoring in retinal status, cardiovascular risk, and bleeding potential.
 
-#### #### Should men 68–80 with nonproliferative diabetic retinopathy stop taking aspirin?
+#### Should men 68–80 with nonproliferative diabetic retinopathy stop taking aspirin?
 
 Not automatically—and never without consulting your physician. Stopping aspirin abruptly after long-term use may increase thrombotic risk. The decision depends on your personal risk-benefit profile: if you have prior heart disease or stroke, benefits usually outweigh theoretical retinal concerns. If you’re on aspirin only for primary prevention and have stable NPDR, a discussion about deprescribing may be appropriate.
 
-#### #### What alternatives exist to aspirin for cardiovascular protection in men with diabetic retinopathy?
+#### What alternatives exist to aspirin for cardiovascular protection in men with diabetic retinopathy?
 
 There are no direct pharmacologic substitutes for aspirin’s antiplatelet effect. Instead, focus intensifies on optimizing modifiable drivers: strict BP control (<130/80), statin therapy (even without high cholesterol), smoking cessation, and renal protection (e.g., SGLT2 inhibitors or ACEi/ARBs if albuminuria is present). Lifestyle remains the cornerstone.
 
-#### #### How often should men 68–80 with diabetes and retinopathy see an eye specialist?
+#### How often should men 68–80 with diabetes and retinopathy see an eye specialist?
 
 At minimum, once yearly with a dilated exam. If you have moderate or severe NPDR—or any sign of macular edema—you’ll likely need exams every 3–6 months. Tele-ophthalmology or AI-assisted retinal imaging may supplement but not replace comprehensive evaluation.

@@ -74,22 +74,22 @@ Living with LQT2 doesn’t mean stepping back from life’s joys—it means enga
 
 ### FAQ
 
-#### #### Can certain foods really help stabilize cardiac ion channels when drinking alcohol?
+#### Can certain foods really help stabilize cardiac ion channels when drinking alcohol?
 
 Yes—especially for adults with known ion channel conditions like LQT2. Potassium-, magnesium-, and omega-3-rich foods support the heart’s natural electrical environment, helping buffer against alcohol’s subtle effects on hERG channel function. While no food eliminates genetic risk, consistent intake of these nutrients contributes meaningfully to rhythm stability.
 
-#### #### What are the best foods that stabilize cardiac ion channels alcohol might affect in older adults?
+#### What are the best foods that stabilize cardiac ion channels alcohol might affect in older adults?
 
 The most supportive options include wild-caught salmon (for DHA), avocados and bananas (potassium), spinach and pumpkin seeds (magnesium), and walnuts (plant omega-3s and magnesium). These foods are gentle on digestion, nutrient-dense, and easy to incorporate into meals typical for adults 62–75.
 
-#### #### Do I need to stop drinking alcohol entirely if I have LQT2 and want foods that stabilize cardiac ion channels alcohol exposure?
+#### Do I need to stop drinking alcohol entirely if I have LQT2 and want foods that stabilize cardiac ion channels alcohol exposure?
 
 Not necessarily—and many adults with LQT2 enjoy alcohol safely in moderation. The key is pairing any drink with adequate hydration, balanced electrolytes (from food), and awareness of timing (e.g., avoiding alcohol on an empty stomach or after poor sleep). Discuss your personal threshold with your electrophysiologist—they may suggest limiting to ≤1 standard drink on occasion, especially during high-stress or dehydrating situations.
 
-#### #### Are there foods I should avoid during holiday gatherings if I have LQT2?
+#### Are there foods I should avoid during holiday gatherings if I have LQT2?
 
 Yes—especially highly processed foods high in sodium (which can worsen potassium excretion) and sugary cocktails or energy drinks (which may trigger catecholamine surges and increase QT variability). Also, avoid grapefruit juice if you’re taking certain antiarrhythmics, as it interferes with drug metabolism.
 
-#### #### How soon before a holiday event should I start eating foods that stabilize cardiac ion channels alcohol exposure?
+#### How soon before a holiday event should I start eating foods that stabilize cardiac ion channels alcohol exposure?
 
 Nutritional support works best when consistent—not just before an event. However, increasing intake of potassium- and magnesium-rich foods 2–3 days prior—along with staying well-hydrated—can help ensure optimal baseline electrolyte status. Think of it like tuning an instrument before the concert: gentle, regular care yields the most reliable results.

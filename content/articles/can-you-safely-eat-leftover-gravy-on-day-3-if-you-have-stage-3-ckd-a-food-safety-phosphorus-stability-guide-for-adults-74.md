@@ -51,17 +51,17 @@ In conclusion, mindful gravy habits are part of broader, compassionate self-care
 
 ### FAQ  
 
-#### #### Is leftover gravy safe for someone with stage 3 CKD after 72 hours?  
+#### Is leftover gravy safe for someone with stage 3 CKD after 72 hours?  
 No—not reliably. While healthy adults may safely consume refrigerated gravy up to 4 days, adults with stage 3 CKD and age-related reductions in gastric acidity and immunity should limit gravy to **48 hours max** in the fridge (at ≤40°F). After that, phosphate accumulation and spore germination risk rise meaningfully.
 
-#### #### How does reheating affect phosphorus levels in leftover gravy for stage 3 CKD patients?  
+#### How does reheating affect phosphorus levels in leftover gravy for stage 3 CKD patients?  
 Reheating itself doesn’t reduce phosphorus—it may slightly concentrate it through water evaporation. More critically, repeated heating-cooling cycles accelerate collagen breakdown from bones or connective tissue, releasing additional phosphate into the liquid. That’s why *leftover gravy safety stage 3 ckd* hinges more on storage duration and base ingredients than reheating method.
 
-#### #### Can I freeze gravy to extend leftover gravy safety stage 3 ckd?  
+#### Can I freeze gravy to extend leftover gravy safety stage 3 ckd?  
 Yes—freezing is the safest extension strategy. Portion gravy into shallow containers, cool quickly (within 2 hours of cooking), then freeze at 0°F or lower. Use within 3 months for best quality and phosphorus stability. Thaw overnight in the fridge—not on the counter—and reheat to a full boil before serving.
 
-#### #### Does low-sodium gravy automatically mean low-phosphorus for CKD?  
+#### Does low-sodium gravy automatically mean low-phosphorus for CKD?  
 No. Phosphorus and sodium come from different sources. A gravy thickened with bone broth and browned flour may be low in salt but still high in phosphorus (from bone minerals and additives like sodium phosphates, sometimes hidden in commercial bouillon). Always check ingredient labels—and when in doubt, opt for homemade, bone-free versions.
 
-#### #### Are store-bought gravy mixes safe for stage 3 CKD?  
+#### Are store-bought gravy mixes safe for stage 3 CKD?  
 Most conventional mixes contain added phosphates (e.g., sodium tripolyphosphate) as preservatives and texture enhancers—often contributing 100–200 mg phosphorus per serving. Look for “phosphate-free” labeled products or choose certified renal-friendly brands reviewed by your dietitian. When possible, make your own using cornstarch, herbs, and low-phos broth.

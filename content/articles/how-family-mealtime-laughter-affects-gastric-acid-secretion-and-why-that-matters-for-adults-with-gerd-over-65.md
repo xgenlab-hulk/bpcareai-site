@@ -86,22 +86,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does laughing make GERD worse for seniors?
+#### Does laughing make GERD worse for seniors?
 
 Not necessarily—and not always. Gentle, socially connected laughter often supports vagal activity and *reduces* acid secretion. However, loud, prolonged, or poorly timed laughter—especially right after a large meal—can increase intra-abdominal pressure and briefly worsen reflux. It depends on timing, intensity, posture, and individual anatomy.
 
-#### #### Can laughter gastric acid gerd family meals actually improve digestion?
+#### Can laughter gastric acid gerd family meals actually improve digestion?
 
 Yes—in specific contexts. Shared laughter during meals has been associated with improved gastric motility and reduced acid output in older adults, likely due to parasympathetic activation. Real-world studies show modest but consistent reductions in reflux frequency when laughter is relaxed and well-timed—though results vary by person.
 
-#### #### How does laughter affect gastric acid secretion in people over 65 with GERD?
+#### How does laughter affect gastric acid secretion in people over 65 with GERD?
 
 Laughter influences gastric acid via the vagus nerve and diaphragmatic mechanics. Calm, rhythmic laughter tends to *decrease* acid production and enhance esophageal clearance; explosive or breath-holding laughter may *increase* transient reflux. Age-related declines in vagal tone and LES pressure make these effects more noticeable—but also more modifiable with mindful habits.
 
-#### #### Is it safe to eat dessert with family if I have GERD?
+#### Is it safe to eat dessert with family if I have GERD?
 
 Yes—with adjustments. Smaller portions, sitting upright, waiting 20–30 minutes after the main course before dessert, and pairing sweets with calming conversation (rather than intense storytelling right after) can reduce reflux risk. Many find that sharing dessert slowly—with laughter woven in gently—supports digestion rather than hinders it.
 
-#### #### What foods are safest for older adults with GERD during holiday meals?
+#### What foods are safest for older adults with GERD during holiday meals?
 
 Focus on lean proteins (turkey, baked fish), cooked vegetables (steamed carrots, mashed sweet potatoes), whole grains (oatmeal-based stuffing), and low-acid fruits (bananas, melon). Avoid fried items, heavy gravies, citrus-based sauces, chocolate, peppermint, and excessive caffeine—all known reflux triggers. And remember: *healthy eating during family gatherings* is less about perfection and more about presence, pacing, and patience.

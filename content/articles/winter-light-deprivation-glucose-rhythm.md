@@ -96,22 +96,22 @@ Seasonal changes are part of life—not a threat to your health. With awareness 
 
 ### FAQ
 
-#### #### Does winter light deprivation glucose rhythm affect everyone with type 2 diabetes?
+#### Does winter light deprivation glucose rhythm affect everyone with type 2 diabetes?
 
 Not everyone experiences it to the same degree—but research suggests about 30–40% of adults aged 64–80 with type 2 diabetes show measurable disruptions in glucose timing during winter months, especially when combined with seasonal mood symptoms or indoor-dominant lifestyles.
 
-#### #### Can winter light deprivation glucose rhythm raise my blood pressure too?
+#### Can winter light deprivation glucose rhythm raise my blood pressure too?
 
 Indirectly, yes. Circadian misalignment is associated with modest increases in average arterial pressure—studies report systolic BP elevations of 3–7 mm Hg in winter among older adults with metabolic conditions. This appears linked to overlapping pathways involving sympathetic tone and cortisol rhythm—not just glucose.
 
-#### #### How long does it take to reset my winter light deprivation glucose rhythm with light therapy?
+#### How long does it take to reset my winter light deprivation glucose rhythm with light therapy?
 
 Most people notice subtle improvements in energy and morning alertness within 3–5 days of consistent morning light. Glucose rhythm stabilization—such as more predictable fasting levels—typically takes 2–4 weeks of daily practice. Consistency matters more than duration: 20 minutes daily is more effective than 60 minutes once a week.
 
-#### #### Is blue-light therapy safe for older adults with cataracts or macular concerns?
+#### Is blue-light therapy safe for older adults with cataracts or macular concerns?
 
 Broad-spectrum white light boxes (10,000 lux) are generally safe and recommended over narrow-band blue devices for older adults. If you have advanced cataracts or retinal disease, consult your ophthalmologist first—but natural daylight remains the safest, most accessible option.
 
-#### #### Can diet changes fix winter light deprivation glucose rhythm?
+#### Can diet changes fix winter light deprivation glucose rhythm?
 
 Diet supports metabolic health, but it doesn’t replace circadian input. You may still see glucose variability in winter even with excellent nutrition—because the liver’s *timing* of glucose release is regulated by light-driven brain signals, not just food intake. Pairing balanced meals with consistent light exposure gives your body the full set of cues it needs.

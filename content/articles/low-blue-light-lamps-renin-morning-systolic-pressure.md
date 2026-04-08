@@ -55,22 +55,22 @@ In short, your evening lighting choices are one piece of a larger, deeply person
 
 ### FAQ
 
-#### #### Do low-blue-light lamps raise blood pressure in older adults?
+#### Do low-blue-light lamps raise blood pressure in older adults?
 
 Not directly—but in adults 64+, prolonged or late-evening use may delay melatonin onset, leading to higher overnight renin activity and contributing to elevated early-morning systolic pressure. This effect is subtle and highly individual.
 
-#### #### Can low-blue-light lamps renin morning systolic pressure be reversed?
+#### Can low-blue-light lamps renin morning systolic pressure be reversed?
 
 Yes—often within 2–4 weeks of adjusting light timing (e.g., turning lamps off by 9 p.m.) and reinforcing consistent sleep-wake cues. BP patterns frequently normalize alongside improved melatonin rhythm.
 
-#### #### Are low-blue-light lamps safe for people with hypertension?
+#### Are low-blue-light lamps safe for people with hypertension?
 
 Generally yes—but if you have diagnosed hypertension or morning BP surges, discuss your lighting routine with your doctor or pharmacist. They may suggest pairing lamp use with other chronobiological supports.
 
-#### #### Why does blood pressure rise in the morning anyway?
+#### Why does blood pressure rise in the morning anyway?
 
 This “morning surge” is partly natural: cortisol rises, sympathetic nervous activity increases, and RAAS reactivates after nocturnal suppression. In older adults, blunted melatonin can amplify this surge via unchecked renin release.
 
-#### #### What’s the best time to check blood pressure if I use low-blue-light lamps?
+#### What’s the best time to check blood pressure if I use low-blue-light lamps?
 
 First thing upon waking—before getting out of bed, drinking coffee, or checking your phone. Sit quietly for 5 minutes, then measure. Consistency matters more than perfection.

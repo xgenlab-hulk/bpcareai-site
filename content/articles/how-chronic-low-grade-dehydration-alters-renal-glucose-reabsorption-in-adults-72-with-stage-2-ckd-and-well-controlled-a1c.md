@@ -84,22 +84,22 @@ What’s unfolding in your kidneys isn’t malfunction—it’s adaptation. Your
 
 ### FAQ
 
-#### #### Can mild dehydration raise blood sugar in people with stage 2 CKD?
+#### Can mild dehydration raise blood sugar in people with stage 2 CKD?
 
 Yes—especially in adults over 70. Low-grade dehydration activates RAAS, which can increase SGLT2 transporter activity in the proximal tubule. This leads to greater glucose reabsorption from urine back into the blood, contributing to post-meal spikes—even with normal A1c and no diabetes diagnosis.
 
-#### #### How does dehydration and glucose reabsorption ckid differ from diabetic kidney disease?
+#### How does dehydration and glucose reabsorption ckid differ from diabetic kidney disease?
 
 Dehydration and glucose reabsorption ckid describes a *functional, reversible shift* in how the kidneys handle filtered glucose due to volume status—not structural damage. Diabetic kidney disease involves progressive glomerular injury, albuminuria, and declining eGFR over years. The former may occur independently and often improves with hydration support; the latter requires long-term glycemic and BP management.
 
-#### #### Does drinking more water lower A1c in older adults with CKD?
+#### Does drinking more water lower A1c in older adults with CKD?
 
 Not directly—and not quickly. A1c reflects 3-month average glucose, so short-term hydration changes won’t alter it significantly. However, consistent appropriate hydration may help stabilize postprandial glucose, reduce SGLT2-driven reabsorption, and support overall kidney efficiency—contributing to more predictable day-to-day numbers.
 
-#### #### Are SGLT2 inhibitors recommended for dehydration and glucose reabsorption ckid?
+#### Are SGLT2 inhibitors recommended for dehydration and glucose reabsorption ckid?
 
 Not routinely—and not as a first-line response to dehydration. These medications are FDA-approved for specific indications (e.g., heart failure, CKD progression, type 2 diabetes) and carry risks like volume depletion or genital infections. They’re not intended to counteract low-grade dehydration. Addressing fluid balance comes first; medication decisions should follow shared discussion with your nephrologist or primary care provider.
 
-#### #### What’s the best way to tell if I’m dehydrated without lab tests?
+#### What’s the best way to tell if I’m dehydrated without lab tests?
 
 Look beyond thirst: monitor morning weight consistency, observe skin turgor on the back of your hand (slow recoil may suggest mild dehydration), and track daily urine output (aim for pale yellow and at least 4–6 voids/day). Dry mouth alone isn’t reliable—but combined with fatigue or mild headache, it may signal the need for gentle rehydration.

@@ -83,17 +83,17 @@ Managing cerebrovascular health during family gatherings doesn’t mean sacrific
 
 ### FAQ
 
-#### #### Can whole-grain stuffing cause postprandial hypotension even if my blood pressure is usually normal?
+#### Can whole-grain stuffing cause postprandial hypotension even if my blood pressure is usually normal?
 Yes. Even with baseline-normal BP (e.g., 128/76 mm Hg), adults over 68 with carotid stenosis often lack the autonomic reserve to counteract meal-induced splanchnic pooling. Whole-grain stuffing’s fiber and starch profile still triggers insulin-mediated vasodilation—making holiday stuffing postprandial hypotension possible regardless of typical BP numbers.
 
-#### #### What’s the safest time to eat stuffing if I have carotid stenosis?
+#### What’s the safest time to eat stuffing if I have carotid stenosis?
 Ideally, consume stuffing 20–30 minutes *after* finishing lean protein and non-starchy vegetables. This “protein-first” sequence lowers the glycemic response by 25–40% and reduces peak insulin by ~30%, directly mitigating the vasodilatory cascade that drives holiday stuffing postprandial hypotension.
 
-#### #### Does eating smaller portions of stuffing help prevent postprandial hypotension?
+#### Does eating smaller portions of stuffing help prevent postprandial hypotension?
 Yes—significantly. Reducing stuffing from a standard ¾-cup portion (≈35 g carb) to ⅓ cup (≈18 g carb) cuts splanchnic blood flow demand by roughly half. Studies show this simple change lowers the odds of a >20 mm Hg systolic drop by 62% in adults with moderate-to-severe carotid stenosis.
 
-#### #### Are sweet potatoes safer than stuffing for preventing postprandial hypotension?
+#### Are sweet potatoes safer than stuffing for preventing postprandial hypotension?
 Not necessarily. While sweet potatoes have a lower glycemic index (~63) than white bread (~73), they’re still high in digestible starch (≈27 g carb/cup). Without added fat or protein, they can provoke similar insulin surges. Pairing them with turkey and olive oil—or swapping in roasted cauliflower “mash”—offers greater hemodynamic stability.
 
-#### #### Can medications like metformin increase my risk of holiday stuffing postprandial hypotension?
+#### Can medications like metformin increase my risk of holiday stuffing postprandial hypotension?
 Metformin itself doesn’t cause hypotension, but it enhances insulin sensitivity—which may amplify the vasodilatory effects of high-carb meals in susceptible individuals. When combined with carotid stenosis and aging autonomic function, this synergy can worsen holiday stuffing postprandial hypotension. Discuss meal-timing strategies with your prescriber.

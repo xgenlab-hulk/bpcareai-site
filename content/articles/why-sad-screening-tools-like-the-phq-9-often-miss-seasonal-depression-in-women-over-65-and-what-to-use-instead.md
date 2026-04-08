@@ -86,22 +86,22 @@ Seasonal depression in older adults isn’t rare—it’s underrecognized. And w
 
 ### FAQ
 
-#### #### What are the best SAD screening tools for older women?
+#### What are the best SAD screening tools for older women?
 
 The Seasonally Weighted Geriatric Depression Scale (SW-GDS) is currently the most validated option for women over 65. Unlike general depression screens, it includes questions about timing, functional impact, and light exposure—and has demonstrated strong accuracy in geriatric primary care settings.
 
-#### #### Are standard depression questionnaires like the PHQ-9 reliable for detecting seasonal depression in older women?
+#### Are standard depression questionnaires like the PHQ-9 reliable for detecting seasonal depression in older women?
 
 No—not reliably. Studies show the PHQ-9 misses nearly half of clinically significant cases of seasonal depression in women 65+ because it doesn’t assess seasonal patterns or contextual function. Its symptom focus overlaps heavily with age-related changes, leading to under-detection.
 
-#### #### Can seasonal depression in older adults affect blood pressure?
+#### Can seasonal depression in older adults affect blood pressure?
 
 Yes—indirectly but meaningfully. Low mood and reduced activity in winter can contribute to less consistent movement, disrupted sleep, and increased stress hormone levels—all of which influence arterial pressure. Some women notice their BP readings rise slightly in December–February, then normalize in spring—even without changes in medication.
 
-#### #### What’s the difference between regular depression and seasonal depression in older women?
+#### What’s the difference between regular depression and seasonal depression in older women?
 
 Seasonal depression follows a clear, recurring pattern—typically emerging in late fall and lifting by early spring—with symptoms like low energy, oversleeping, carbohydrate cravings, and social withdrawal. Regular (non-seasonal) depression tends to be less time-locked and may include more persistent feelings of worthlessness or agitation.
 
-#### #### Do light therapy lamps work for older women with seasonal depression?
+#### Do light therapy lamps work for older women with seasonal depression?
 
 Yes—especially when used consistently in the morning (20–30 minutes within an hour of waking) at 10,000 lux intensity. Research shows improvement in mood and energy within 2–4 weeks for many women over 65. Always consult your doctor first if you have eye conditions (e.g., glaucoma, retinopathy) or take photosensitizing medications.

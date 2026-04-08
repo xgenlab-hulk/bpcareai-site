@@ -88,22 +88,22 @@ The goal isn’t perfection—it’s presence. Being aware of how food, posture,
 
 ### FAQ
 
-#### #### Does cranberry sauce really raise blood pressure at night in seniors?
+#### Does cranberry sauce really raise blood pressure at night in seniors?
 
 Yes—but indirectly. Cranberry sauce itself doesn’t contain hypertensive compounds. Rather, its acidity can trigger transient lower esophageal sphincter relaxation and silent reflux, especially in seniors with hiatal hernia or mild sleep apnea. This activates autonomic pathways that blunt the normal nighttime dip in blood pressure—leading to what’s called *cranberry sauce nocturnal hypertension seniors*. It’s not universal, but it’s more common than many realize.
 
-#### #### Can cranberry sauce nocturnal hypertension seniors be prevented without giving up holiday foods?
+#### Can cranberry sauce nocturnal hypertension seniors be prevented without giving up holiday foods?
 
 Absolutely. Prevention focuses on timing, portion, and pairing—not elimination. Eating cranberry sauce earlier in the meal, diluting its acidity, avoiding late-night servings, and elevating your head while sleeping can significantly reduce reflux-triggered BP surges—without skipping tradition.
 
-#### #### Is cranberry sauce nocturnal hypertension seniors linked to heart disease risk?
+#### Is cranberry sauce nocturnal hypertension seniors linked to heart disease risk?
 
 Emerging evidence suggests yes. Persistent nocturnal hypertension—regardless of cause—is associated with a 2-fold increased risk of cardiovascular events in adults over 65. Because cranberry sauce nocturnal hypertension seniors reflects underlying autonomic dysregulation and reflux burden, it serves as a useful signal to assess overall cardio-gastrointestinal health—not just a fleeting holiday quirk.
 
-#### #### What’s the difference between regular high blood pressure and nocturnal hypertension?
+#### What’s the difference between regular high blood pressure and nocturnal hypertension?
 
 Regular (daytime) hypertension is diagnosed when office or home readings consistently exceed 130/80 mm Hg. Nocturnal hypertension refers specifically to elevated BP *during sleep*, typically defined as average nighttime systolic ≥120 mm Hg or diastolic ≥70 mm Hg—or failure of BP to dip by at least 10% from daytime levels. It’s often missed without ambulatory monitoring.
 
-#### #### Are there other holiday foods that act similarly to cranberry sauce?
+#### Are there other holiday foods that act similarly to cranberry sauce?
 
 Yes. Other acidic, high-polyphenol, or LES-relaxing foods include tomato-based sauces, citrus desserts, peppermint tea, chocolate, and carbonated beverages. Like cranberry sauce, their impact depends heavily on individual anatomy, meal timing, and coexisting conditions—not just the food itself.

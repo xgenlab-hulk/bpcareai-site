@@ -44,22 +44,22 @@ In summary, thoughtful, paced breathing is not just relaxation — it’s a non-
 
 ### FAQ
 
-#### #### Can breathing techniques for left atrial pressure help reduce AFib episodes in older adults?
+#### Can breathing techniques for left atrial pressure help reduce AFib episodes in older adults?
 
 Yes — multiple small clinical trials (including the 2022 *JACC: Clinical Electrophysiology* pilot) found that 6 weeks of paced breathing at 5.5 bpm correlated with a 32% reduction in AFib burden among adults 70+ with paroxysmal AFib, likely due to lowered LA stretch and autonomic balance.
 
-#### #### Are breathing techniques for left atrial pressure safe if I have pulmonary hypertension?
+#### Are breathing techniques for left atrial pressure safe if I have pulmonary hypertension?
 
 They are safe *only when paced correctly*: avoid breath-holding, forceful exhalation, or rapid rates (<4 or >8 breaths/min). Mild pulmonary hypertension (Group 2) responds well to low-pressure oscillation breathing; however, those with severe PH (mean PAP >35 mm Hg) should first discuss protocol suitability with a pulmonary hypertension specialist.
 
-#### #### Do breathing techniques for left atrial pressure lower blood pressure too?
+#### Do breathing techniques for left atrial pressure lower blood pressure too?
 
 They typically produce modest BP reductions — average systolic drop of 5–8 mm Hg — primarily via reduced sympathetic tone and peripheral resistance. This is generally beneficial, but those with orthostatic hypotension should practice seated and monitor symptoms closely.
 
-#### #### What’s the difference between these breathing techniques and yoga pranayama?
+#### What’s the difference between these breathing techniques and yoga pranayama?
 
 Many traditional pranayama practices (e.g., Kapalabhati or Bhastrika) involve active, forceful exhalation and breath retention — both contraindicated in elevated LA pressure. The evidence-based protocols emphasized here prioritize passive exhalation and strict rhythm control, validated by invasive hemodynamic monitoring.
 
-#### #### How long until I notice benefits from breathing techniques for left atrial pressure?
+#### How long until I notice benefits from breathing techniques for left atrial pressure?
 
 Most participants in clinical studies reported subjective improvements in breathing ease and stamina within 7–10 days. Objective hemodynamic changes (e.g., lower E/e’ ratio on echo) were detectable after 3–4 weeks of consistent practice.

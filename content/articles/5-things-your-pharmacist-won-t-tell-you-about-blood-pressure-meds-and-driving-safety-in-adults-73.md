@@ -88,17 +88,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can bp meds driving safety elderly be improved without stopping my medication?
+#### Can bp meds driving safety elderly be improved without stopping my medication?
 Yes—absolutely. Most adjustments involve timing, lifestyle support, or switching to equally effective alternatives with gentler profiles (like newer ARBs instead of older alpha-blockers). Your care team can help identify options that preserve both your BP control and your confidence behind the wheel.
 
-#### #### Are certain blood pressure medications safer for driving in older adults?
+#### Are certain blood pressure medications safer for driving in older adults?
 Generally, ACE inhibitors (e.g., lisinopril), ARBs (e.g., losartan), and long-acting calcium channel blockers (e.g., amlodipine) tend to have fewer effects on alertness or vision than alpha-blockers or beta-blockers with CNS penetration (e.g., propranolol). But individual responses vary—so what matters most is *your* experience, not just general guidelines.
 
-#### #### How often should I review bp meds driving safety elderly with my doctor?
+#### How often should I review bp meds driving safety elderly with my doctor?
 We recommend discussing this at least once a year—and anytime you notice new symptoms (like increased fatigue, trouble focusing, or visual changes), start a new medication, or experience a significant life change (e.g., retirement, moving, or a new diagnosis).
 
-#### #### Can low blood pressure from meds cause driving issues even if I don’t feel dizzy?
+#### Can low blood pressure from meds cause driving issues even if I don’t feel dizzy?
 Yes. Even “asymptomatic” low BP—especially if it dips below 110/65 mm Hg—can reduce blood flow to the brain just enough to slow processing speed or impair judgment in split-second decisions. That’s why functional checks (like reaction timing or visual awareness) matter as much as symptom reports.
 
-#### #### Does caffeine or alcohol affect bp meds driving safety elderly?
+#### Does caffeine or alcohol affect bp meds driving safety elderly?
 Moderate caffeine (1–2 cups/day) usually doesn’t interfere—but large amounts can temporarily raise BP and increase jitteriness, which may affect focus. Alcohol, even in small amounts, can amplify the sedative effects of many BP meds and impair coordination—so it’s wise to avoid drinking before driving, especially if you’re on alpha-blockers or central agents.

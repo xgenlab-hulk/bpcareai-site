@@ -58,22 +58,22 @@ In short: your body knows how to adapt. With thoughtful preparation, even longer
 
 ### FAQ
 
-#### #### Does flight duration systolic blood pressure variability mean my hypertension is getting worse?
+#### Does flight duration systolic blood pressure variability mean my hypertension is getting worse?
 
 No—it reflects temporary, reversible changes tied to environmental and behavioral factors during travel, not underlying disease progression. Most fluctuations return to baseline within 1–2 days.
 
-#### #### How long does flight duration systolic blood pressure variability typically last after landing?
+#### How long does flight duration systolic blood pressure variability typically last after landing?
 
 For most adults 68–82, elevated systolic readings related to flight stress resolve within 24–48 hours. Persistent elevation beyond that warrants follow-up.
 
-#### #### Can white-coat hypertension become “real” hypertension after repeated long flights?
+#### Can white-coat hypertension become “real” hypertension after repeated long flights?
 
 There’s no evidence that air travel *causes* sustained hypertension. However, regular BP monitoring helps detect gradual changes over time—so consistent tracking remains valuable.
 
-#### #### Is it safe to fly with white-coat hypertension?
+#### Is it safe to fly with white-coat hypertension?
 
 Yes—especially with preparation. Focus on hydration, movement, rest, and familiarizing yourself with your usual BP patterns beforehand.
 
-#### #### What’s the best time to check blood pressure before a long flight?
+#### What’s the best time to check blood pressure before a long flight?
 
 Check at home for three mornings in a row before travel—this gives you a useful baseline. Avoid checking within 2 hours of caffeine or vigorous activity.

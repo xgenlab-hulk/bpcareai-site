@@ -81,22 +81,22 @@ Family gatherings should be about warmth, memory-making, and belonging—not sil
 
 ### FAQ
 
-#### #### Does holiday heart syndrome only happen during Christmas and New Year’s?
+#### Does holiday heart syndrome only happen during Christmas and New Year’s?
 
 No—while “holiday heart syndrome” was named for its seasonal peak (Dec 24–Jan 1), it can occur during *any* extended period of emotional intensity, alcohol excess, or sleep disruption—including summer reunions, weddings, or even major family milestones like graduations or funerals. The trigger isn’t the calendar—it’s the behavioral pattern.
 
-#### #### Can family gatherings heart attack risk be reduced with medication alone?
+#### Can family gatherings heart attack risk be reduced with medication alone?
 
 Medication helps manage underlying conditions like hypertension or AFib—but it doesn’t fully offset the acute physiological impact of stress, sodium load, or sleep loss. Prevention works best when meds are paired with behavioral strategies (like pacing alcohol, mindful eating, and scheduled rest). Think of meds as your foundation, and lifestyle as your daily maintenance.
 
-#### #### How does emotional stress from family gatherings affect blood pressure?
+#### How does emotional stress from family gatherings affect blood pressure?
 
 Emotional stress activates the sympathetic nervous system, causing blood vessels to constrict and heart rate to rise—both of which elevate BP. In susceptible individuals, even brief conflict can raise systolic pressure by 20+ mm Hg. Repeated surges over days may contribute to endothelial inflammation and long-term arterial stiffness.
 
-#### #### Is it safe to skip my blood pressure medication for one day during a family trip?
+#### Is it safe to skip my blood pressure medication for one day during a family trip?
 
 No. Skipping doses—even “just once”—can cause rebound effects: BP may spike higher than usual, increasing strain on the heart and vessels. If traveling, pack meds in your carry-on, set phone reminders, and talk to your doctor if timing needs adjustment (e.g., due to time zones).
 
-#### #### What’s the link between alcohol, family gatherings, and sudden cardiac events?
+#### What’s the link between alcohol, family gatherings, and sudden cardiac events?
 
 Binge drinking (≥4 drinks for women, ≥5 for men in ~2 hours) disrupts electrolyte balance, increases heart rate variability, and promotes atrial fibrillation—especially in those over 50 with existing heart changes. Even moderate alcohol can interact with medications like warfarin or certain antihypertensives. Limiting intake and spacing drinks with water significantly lowers risk.

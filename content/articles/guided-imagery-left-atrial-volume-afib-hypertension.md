@@ -68,22 +68,22 @@ In short, heart disease doesn’t have to mean inevitable decline—and structur
 
 ### FAQ
 
-#### #### Does guided imagery really reduce left atrial volume in people with AFib and high blood pressure?
+#### Does guided imagery really reduce left atrial volume in people with AFib and high blood pressure?
 
 Yes—two recent RCTs in adults 60–74 showed that daily 12-minute guided imagery led to measurable left atrial volume regression (4–6% on average) over six months, alongside reduced fibrotic biomarkers and improved vagal tone.
 
-#### #### Can guided imagery left atrial volume AFib hypertension replace my blood pressure meds?
+#### Can guided imagery left atrial volume AFib hypertension replace my blood pressure meds?
 
 No. Guided imagery is a supportive, adjunctive practice—not a replacement for prescribed antihypertensive or antiarrhythmic therapy. Always consult your cardiologist before adjusting medications.
 
-#### #### How long before I see changes in my left atrial volume with guided imagery?
+#### How long before I see changes in my left atrial volume with guided imagery?
 
 Structural changes take time. In studies, early biomarker shifts appeared by 3 months; significant left atrial volume reduction was documented at 6 months—with consistency being key.
 
-#### #### Is guided imagery safe for older adults with heart disease?
+#### Is guided imagery safe for older adults with heart disease?
 
 Yes—when done without physical exertion or breath-holding, guided imagery is low-risk and well-tolerated. That said, if you experience lightheadedness or increased palpitations during practice, pause and speak with your care team.
 
-#### #### What’s the best way to start guided imagery for AFib and hypertension?
+#### What’s the best way to start guided imagery for AFib and hypertension?
 
 Begin with a trusted, medically reviewed audio program—ideally one developed with input from cardiologists or behavioral medicine specialists. Aim for consistency over intensity: 12 minutes daily is more effective than 60 minutes once a week.

@@ -1,0 +1,235 @@
+{
+  "metadata": {
+    "created_date": "2026-03-21",
+    "total_redirects": 43,
+    "batches_covered": [
+      "batch-003"
+    ],
+    "purpose": "为Batch 3优化的43篇文章提供301永久重定向配置",
+    "usage": "将redirects数组内容添加到next.config.js的redirects()函数中"
+  },
+  "redirects": [
+    {
+      "source": "/articles/12-blood-sugar-safe-swaps-for-classic-christmas-cookies-tested-with-continuous-glucose-monitoring-in-adults-55-72",
+      "destination": "/articles/holiday-cookies-blood-sugar-swaps-cgm-55-72",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-evidence-based-hydration-strategies-to-prevent-holiday-heart-syndrome-in-adults-62-with-mild-dehydration-induced-qt-prolongation",
+      "destination": "/articles/hydration-holiday-heart-palpitations-62",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-evidence-based-ways-to-maintain-social-rhythm-during-holiday-isolation-especially-for-retired-widowed-adults-living-alone",
+      "destination": "/articles/holiday-loneliness-social-rhythm-retired-widowed",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-foods-that-delay-endothelial-senescence-not-just-lower-bp-including-black-garlic-extract-germinated-brown-rice-and-low-age-roasted-chickpeas-for-adults-60",
+      "destination": "/articles/foods-slow-blood-vessel-aging-60",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-foods-that-enhance-myocardial-mitochondrial-biogenesis-without-increasing-oxidative-stress-for-adults-55-63-with-early-diastolic-dysfunction",
+      "destination": "/articles/heart-energy-foods-diastolic-dysfunction-55-63",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-foods-that-modulate-gut-derived-serotonin-5-ht-to-reduce-postprandial-glucose-variability-in-men-60-76-with-type-2-diabetes-and-ibs-d",
+      "destination": "/articles/blood-sugar-ibs-d-men-60-foods",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-times-to-check-nt-probnp-not-just-bnp-in-adults-65-with-chronic-kidney-disease-stage-2-and-new-onset-exertional-dyspnea",
+      "destination": "/articles/nt-probnp-timing-ckd-shortness-breath",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-times-to-check-your-resting-heart-rate-not-just-during-clinic-visits-in-adults-58-with-anxiety-related-palpitations",
+      "destination": "/articles/heart-rate-check-anxiety-palpitations",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-times-to-measure-capillary-glucose-after-a-meal-not-just-fasting-for-adults-58-with-rapid-gastric-emptying-and-reactive-hypoglycemia",
+      "destination": "/articles/glucose-timing-rapid-emptying-hypoglycemia",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-times-to-measure-fasting-glucose-before-breakfast-not-just-upon-waking-for-adults-65-with-dawn-phenomenon-and-shift-work-history",
+      "destination": "/articles/fasting-glucose-dawn-shift-workers",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-times-to-take-a-short-walk-after-family-meal-courses-based-on-gastric-emptying-rhythms-in-adults-69-with-gastroparesis-like-symptoms",
+      "destination": "/articles/post-meal-walk-timing-gastroparesis-69",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-buffer-the-glycemic-impact-of-holiday-pie-crust-in-adults-64-with-prediabetes-and-high-fasting-insulin",
+      "destination": "/articles/holiday-pie-blood-sugar-prediabetes-64",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension",
+      "destination": "/articles/salt-cravings-hypertension-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years",
+      "destination": "/articles/holiday-weight-gain-type-2-diabetes-5-years",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits",
+      "destination": "/articles/post-meal-inflammation-adults-58",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-improve-baroreflex-sensitivity-without-drugs-for-adults-59-76-with-isolated-systolic-hypertension-and-low-hrv",
+      "destination": "/articles/baroreflex-sensitivity-ish-hrv",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-improve-baroreflex-sensitivity-without-medication-for-adults-67-80-with-orthostatic-hypotension-and-recurrent-falls",
+      "destination": "/articles/orthostatic-hypotension-falls-67-80",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-improve-left-ventricular-filling-pressure-without-diuretics-for-women-65-with-hfpef-and-preserved-ejection-fraction",
+      "destination": "/articles/lv-filling-pressure-hfpef-women-65",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-lower-central-aortic-pressure-without-medication-for-adults-57-71-with-high-pulse-wave-velocity-and-normal-brachial-readings",
+      "destination": "/articles/central-aortic-pressure-pwv-57-71",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness",
+      "destination": "/articles/pulse-pressure-ish-aortic-stiffness",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75",
+      "destination": "/articles/pulse-pressure-ish-seniors-75",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-lower-systolic-blood-pressure-without-medication-in-adults-55-66-with-mild-hypertension-and-high-occupational-stress",
+      "destination": "/articles/bp-without-meds-work-stress-55-66",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-prevent-post-holiday-delirium-episodes-in-adults-78-with-mild-dementia-and-polypharmacy",
+      "destination": "/articles/holiday-delirium-dementia-78",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-55-72-with-long-standing-type-2-diabetes",
+      "destination": "/articles/a1c-creep-holidays-diabetes-55-72",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-59-72-with-well-controlled-diabetes-and-high-holiday-social-engagement",
+      "destination": "/articles/blood-sugar-holiday-parties-diabetes",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-prevent-post-holiday-hyponatremia-in-adults-78-living-alone-and-taking-ssris-or-thiazides",
+      "destination": "/articles/low-sodium-holiday-meals-ssris-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings",
+      "destination": "/articles/blood-sugar-spikes-family-meals-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-protect-retinal-pericytes-and-reduce-early-diabetic-retinopathy-risk-without-medication",
+      "destination": "/articles/protect-eyes-diabetic-retinopathy-natural",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-protect-your-gut-microbiome-from-antibiotic-induced-dysbiosis-if-you-re-managing-diabetes-and-over-64",
+      "destination": "/articles/gut-health-antibiotics-diabetes-seniors",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-reduce-alcohol-induced-cardiac-stress-even-if-you-re-not-drinking",
+      "destination": "/articles/heart-stress-alcohol-exposure-non-drinkers",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55",
+      "destination": "/articles/slow-heart-calcium-progression-adults-55",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-in-adults-58-69-with-agatston-score-100-400-and-elevated-lp-a",
+      "destination": "/articles/slow-cac-progression-high-lpa-adults-58-69",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-reduce-coronary-artery-calcium-cac-progression-without-statins-in-adults-55-64-with-cac-score-100-300",
+      "destination": "/articles/slow-cac-without-statins-adults-55-64",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-reduce-glucose-variability-during-winter-months-for-adults-60-with-seasonal-affective-disorder-and-type-2-diabetes",
+      "destination": "/articles/winter-blood-sugar-swings-adults-60-diabetes",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-reduce-glycemic-variability-not-just-lower-a1c-in-adults-55-71-with-type-2-diabetes-and-frequent-hypoglycemia",
+      "destination": "/articles/blood-sugar-stability-prevent-lows-adults-55-71",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-reduce-holiday-meal-related-oxidative-stress-in-adults-57-74-with-elevated-hs-crp-and-subclinical-atherosclerosis",
+      "destination": "/articles/holiday-inflammation-food-adults-57-74",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-reduce-left-atrial-stiffness-within-6-weeks-for-adults-61-76-with-paroxysmal-afib-and-elevated-la-strain-index",
+      "destination": "/articles/afib-heart-stiffness-adults-61-76",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-reduce-left-atrial-strain-variability-during-air-travel-for-adults-with-paroxysmal-afib-and-mild-copd",
+      "destination": "/articles/flying-afib-copd-heart-protection",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-reduce-post-family-meal-gastric-reflux-within-20-minutes-for-adults-59-with-silent-gerd-and-mild-hiatal-hernia",
+      "destination": "/articles/reflux-after-meals-relief-adults-59",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis",
+      "destination": "/articles/holiday-inflammation-ra-adults-59-76",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-reduce-post-holiday-inflammation-in-just-5-days-targeting-crp-il-6-and-endothelial-function-in-adults-55-72",
+      "destination": "/articles/post-holiday-inflammation-reset-55-72",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-reduce-postprandial-endothelial-dysfunction-within-45-minutes-for-adults-60-76-with-type-2-diabetes-and-elevated-adma",
+      "destination": "/articles/blood-vessel-health-meals-diabetes-60-76",
+      "permanent": true
+    },
+    {
+      "source": "/articles/12-science-backed-ways-to-reduce-postprandial-oxidative-burst-during-the-main-course-for-adults-57-65-with-early-macular-degeneration",
+      "destination": "/articles/eye-health-meals-macular-degeneration-57-65",
+      "permanent": true
+    }
+  ],
+  "instructions": {
+    "step_1": "打开 next.config.js 文件",
+    "step_2": "找到 async redirects() 函数",
+    "step_3": "在Batch 1-2重定向后添加Batch 3重定向",
+    "step_4": "保存并重新部署网站",
+    "step_5": "验证重定向是否生效: curl -I https://yourdomain.com/articles/[旧slug]"
+  }
+}

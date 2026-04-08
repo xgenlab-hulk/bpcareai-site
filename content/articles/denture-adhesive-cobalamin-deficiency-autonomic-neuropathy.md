@@ -87,17 +87,17 @@ Nutritional gaps like denture adhesive cobalamin deficiency autonomic neuropathy
 
 ### FAQ
 
-#### #### Can denture adhesive really cause B12 deficiency?
+#### Can denture adhesive really cause B12 deficiency?
 Yes — especially zinc-containing adhesives used daily over months. Zinc inhibits gastric acid and intrinsic factor production, both essential for B12 absorption. This effect is amplified in adults over 75 and those with type 2 diabetes.
 
-#### #### What are the first signs of denture adhesive cobalamin deficiency autonomic neuropathy?
+#### What are the first signs of denture adhesive cobalamin deficiency autonomic neuropathy?
 Early signs include unexplained orthostatic dizziness, resting tachycardia, delayed gastric emptying (bloating, early satiety), and subtle declines in heart rate variability — often before classic B12 symptoms like anemia or peripheral neuropathy appear.
 
-#### #### How is denture adhesive cobalamin deficiency autonomic neuropathy diagnosed?
+#### How is denture adhesive cobalamin deficiency autonomic neuropathy diagnosed?
 Diagnosis requires more than serum B12. Key tests include methylmalonic acid (MMA), homocysteine, and sometimes serum zinc/copper. Clinical correlation — including adhesive use history, diabetes status, and autonomic symptom patterns — is essential.
 
-#### #### Does metformin make denture adhesive cobalamin deficiency autonomic neuropathy worse?
+#### Does metformin make denture adhesive cobalamin deficiency autonomic neuropathy worse?
 Yes. Metformin reduces intestinal B12 absorption by up to 20% and may impair calcium-dependent B12 uptake. When combined with zinc-induced gastric changes, the risk of functional deficiency increases synergistically.
 
-#### #### Are there alternatives to denture adhesive that don’t affect B12?
+#### Are there alternatives to denture adhesive that don’t affect B12?
 Absolutely. Zinc-free adhesives — including polyacrylic acid–based gels and strips — provide reliable retention without interfering with gastric physiology or micronutrient absorption. Dental implants or relined dentures may also reduce long-term adhesive dependence.

@@ -89,17 +89,17 @@ Holiday eating doesn’t have to mean compromising your nutritional foundation�
 
 ### FAQ
 
-#### #### Does reheating turkey in the microwave reduce zinc more than oven reheating?
+#### Does reheating turkey in the microwave reduce zinc more than oven reheating?
 Microwave reheating *does not inherently reduce zinc more*—provided it’s done correctly. Studies show zinc loss is comparable between microwave (82–85% retention) and conventional oven (80–84%) when portions are covered, hydrated, and heated evenly. The bigger factor is *overheating* or reheating more than once, which degrades protein-bound zinc regardless of method.
 
-#### #### How does atrophic gastritis affect magnesium absorption from reheated vegetables?
+#### How does atrophic gastritis affect magnesium absorption from reheated vegetables?
 Atrophic gastritis lowers gastric acid, reducing the solubilization of magnesium bound to oxalates (in spinach) or phytates (in potatoes and beans). Reheating doesn’t worsen this directly—but dry reheating (e.g., crispy roasted veggies in air fryer) may concentrate oxalates on the surface. Steaming or moist reheating preserves hydration and minimizes this effect.
 
-#### #### Can reheating holiday leftovers mineral bioavailability seniors be improved with lemon juice or vinegar?
+#### Can reheating holiday leftovers mineral bioavailability seniors be improved with lemon juice or vinegar?
 Yes—adding acidic ingredients like lemon juice or apple cider vinegar *just before serving* (not during storage or reheating) helps solubilize zinc and magnesium in the upper GI tract. This mimics natural gastric acid and supports ionization—particularly helpful for seniors with low HCl. Aim for 1 tsp per serving, added at the table.
 
-#### #### Is frozen leftover gravy safe for seniors with atrophic gastritis—and does it retain minerals?
+#### Is frozen leftover gravy safe for seniors with atrophic gastritis—and does it retain minerals?
 Yes, frozen gravy (especially meat-based) retains zinc and magnesium well—up to 94% over 30 days at –4°F. However, avoid gravies thickened with excessive flour or cornstarch, as residual phytates may increase chelation. Opt for reduction-thickened or gelatin-enriched versions for better mineral accessibility.
 
-#### #### Do ceramic or glass containers make a difference in reheating holiday leftovers mineral bioavailability seniors?
+#### Do ceramic or glass containers make a difference in reheating holiday leftovers mineral bioavailability seniors?
 They do—positively. Unlike some plastics or aluminum foil, inert materials like borosilicate glass or glazed ceramic don’t interact with acidic foods (e.g., cranberry sauce, tomato-based gravies), preventing unintended mineral binding or leaching of interfering ions. Always choose non-reactive cookware for storage and reheating.

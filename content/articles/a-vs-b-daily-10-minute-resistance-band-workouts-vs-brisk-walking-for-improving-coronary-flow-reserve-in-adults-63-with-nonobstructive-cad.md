@@ -68,22 +68,22 @@ Improving coronary flow reserve isn’t about pushing harder—it’s about movi
 
 ### FAQ
 
-#### #### Is resistance band vs walking coronary flow equally effective for older adults with heart disease?
+#### Is resistance band vs walking coronary flow equally effective for older adults with heart disease?
 
 Research suggests both improve coronary flow reserve—but low-load resistance training may offer greater adherence and microvascular benefits in adults 63+ with INOCA, especially those managing joint limitations or fatigue. The key is consistency, not intensity.
 
-#### #### Can resistance band workouts lower BP as effectively as walking?
+#### Can resistance band workouts lower BP as effectively as walking?
 
 Yes—when done regularly. Studies show both modalities reduce systolic BP by ~5–8 mm Hg over 12 weeks in adults with stage 1 hypertension. Resistance training may offer slightly greater reductions in diastolic pressure due to improved arterial compliance.
 
-#### #### What’s the best resistance band vs walking coronary flow routine for someone with nonobstructive CAD?
+#### What’s the best resistance band vs walking coronary flow routine for someone with nonobstructive CAD?
 
 A balanced approach works best: try 10 minutes of banded strength work 5 days/week *plus* 15–20 minutes of brisk walking 3 days/week. Always consult your cardiologist before starting—especially if you’re on beta-blockers or have arrhythmia history.
 
-#### #### Does walking improve coronary flow reserve in people over 65?
+#### Does walking improve coronary flow reserve in people over 65?
 
 Absolutely. Brisk walking improves endothelial function and CFR—studies report 15–20% increases in adults aged 65–79 after 8–12 weeks of consistent activity (≥150 min/week total).
 
-#### #### Are resistance bands safe for seniors with heart disease?
+#### Are resistance bands safe for seniors with heart disease?
 
 Yes—when used correctly. Choose light-to-medium resistance, avoid breath-holding (exhale on exertion), and stop if you feel chest pressure, dizziness, or irregular heartbeat. Supervised initiation with a cardiac rehab specialist is ideal.

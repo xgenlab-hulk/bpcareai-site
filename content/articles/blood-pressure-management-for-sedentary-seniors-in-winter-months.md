@@ -39,17 +39,17 @@ In summary, managing blood pressure during winter doesn’t require dramatic lif
 
 ### FAQ
 
-#### #### Does cold weather really raise blood pressure in sedentary seniors blood pressure?  
+#### Does cold weather really raise blood pressure in sedentary seniors blood pressure?  
 Yes—cold-induced vasoconstriction increases vascular resistance, and reduced activity lowers natural circulatory support. Studies confirm average winter BP increases of 5–10 mm Hg in sedentary seniors compared to warmer months.
 
-#### #### What’s a safe blood pressure target for sedentary seniors blood pressure in winter?  
+#### What’s a safe blood pressure target for sedentary seniors blood pressure in winter?  
 For most adults 65+, the American College of Cardiology recommends a target under 130/80 mm Hg—but individual goals depend on frailty, cognition, and fall risk. Discuss personalized targets with your provider.
 
-#### #### Can staying indoors all winter worsen sedentary seniors blood pressure?  
+#### Can staying indoors all winter worsen sedentary seniors blood pressure?  
 Yes—prolonged inactivity contributes to stiffer arteries and reduced endothelial function. Even light indoor movement (e.g., seated marching, stretching) helps maintain vascular tone and supports senior blood pressure control in winter.
 
-#### #### How often should sedentary seniors check blood pressure in winter?  
+#### How often should sedentary seniors check blood pressure in winter?  
 At least twice weekly if stable; daily if newly diagnosed, adjusting meds, or noticing symptoms like lightheadedness. Consistency in timing and conditions improves trend accuracy.
 
-#### #### Is high blood pressure in winter reversible when spring arrives?  
+#### Is high blood pressure in winter reversible when spring arrives?  
 Often—but not always. Some seniors retain elevated readings if lifestyle habits don’t shift. Early winter monitoring helps detect patterns early, allowing timely, non-pharmacologic adjustments to prevent long-term strain.

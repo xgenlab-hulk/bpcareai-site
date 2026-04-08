@@ -54,22 +54,22 @@ Winter doesn’t have to mean compromise—just thoughtful preparation. With con
 
 ### FAQ
 
-#### #### Does layering clothes and blood pressure have a real connection—or is it just old wives’ tales?
+#### Does layering clothes and blood pressure have a real connection—or is it just old wives’ tales?
 
 Yes—it’s backed by physiology. Cold-induced vasoconstriction raises peripheral resistance, which directly impacts systolic and diastolic pressure. Proper layering helps blunt that effect, especially in adults over 50 whose thermoregulation is naturally less responsive.
 
-#### #### Can wearing too many layers raise blood pressure instead of helping?
+#### Can wearing too many layers raise blood pressure instead of helping?
 
 Not typically—but overheating *can* cause dehydration or stress responses that indirectly affect BP. The key is smart layering (not just piling on), with breathable, moisture-wicking fabrics. If you’re sweating heavily indoors, consider removing a mid-layer rather than enduring discomfort.
 
-#### #### How does layering clothes and blood pressure relate to heart attack risk in winter?
+#### How does layering clothes and blood pressure relate to heart attack risk in winter?
 
 Cold stress increases cardiac workload and BP variability—factors linked to higher short-term cardiovascular event risk. While layering alone won’t eliminate risk, it’s one evidence-informed part of a broader strategy for senior blood pressure control in winter.
 
-#### #### What’s the best base layer for someone with sensitive skin and high blood pressure?
+#### What’s the best base layer for someone with sensitive skin and high blood pressure?
 
 Look for soft, non-irritating merino wool or seamless bamboo-blend tops—they regulate temperature gently and avoid friction or overheating. Avoid tight-fitting garments around the neck or wrists, which can restrict circulation.
 
-#### #### Should I check my blood pressure more often in winter?
+#### Should I check my blood pressure more often in winter?
 
 Yes—many clinicians recommend twice-weekly checks during colder months, especially if you’ve had prior BP fluctuations. Consistency matters more than frequency: same time, same conditions, same arm.

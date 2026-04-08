@@ -40,17 +40,17 @@ In summary, small shifts in holiday cooking—like choosing roasted over slow-co
 
 ### FAQ
 
-#### #### Does roasting sweet potatoes improve endothelial function compared to slow-cooking?
+#### Does roasting sweet potatoes improve endothelial function compared to slow-cooking?
 Yes—roasting preserves polyphenols and minimizes AGE formation, both associated with improved flow-mediated dilation and NO availability. Studies in adults 58–69 with metabolic syndrome show 6–9% greater FMD improvement 2 hours after roasted vs slow-cooked preparations.
 
-#### #### How does sweet potatoes roasted vs slow-cooked endothelial function affect blood pressure?
+#### How does sweet potatoes roasted vs slow-cooked endothelial function affect blood pressure?
 Roasted sweet potatoes are linked to smaller postprandial systolic BP rises (typically <10 mm Hg) versus slow-cooked versions (often >20 mm Hg), likely due to lower AGE load and better insulin modulation—key drivers of arterial stiffness.
 
-#### #### Is sweet potatoes roasted vs slow-cooked endothelial function relevant for people with prediabetes?
+#### Is sweet potatoes roasted vs slow-cooked endothelial function relevant for people with prediabetes?
 Absolutely. Prediabetes shares underlying endothelial mechanisms with metabolic syndrome—including early eNOS uncoupling and oxidative stress. Roasting helps maintain vascular reactivity even before full diagnosis.
 
-#### #### Can I still use butter and brown sugar without harming my arteries?
+#### Can I still use butter and brown sugar without harming my arteries?
 Occasional use is fine—but for regular meals, swapping butter for olive oil and brown sugar for whole-food sweeteners (e.g., mashed banana) reduces saturated fat intake and AGE generation, supporting long-term endothelial integrity.
 
-#### #### Do cinnamon and pecans really make a measurable difference?
+#### Do cinnamon and pecans really make a measurable difference?
 Yes. Clinical trials show 1 tsp cinnamon daily improves insulin sensitivity by ~12%, and 15 g pecans (≈¼ cup) increases plasma arginine—NO’s precursor—by 18% within 2 hours, amplifying the benefit of roasting.

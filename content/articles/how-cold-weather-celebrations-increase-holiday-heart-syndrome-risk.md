@@ -73,22 +73,22 @@ Holiday time is meant for warmth—not just of the hearth, but of connection, tr
 
 ### FAQ
 
-#### #### What is cold weather holiday heart—and is it serious?
+#### What is cold weather holiday heart—and is it serious?
 
 Cold weather holiday heart describes the temporary increase in cardiovascular demand that occurs when cold temperatures combine with common holiday activities like outdoor exertion, alcohol intake, and dietary changes. It’s usually mild and reversible—rarely serious on its own—but worth recognizing so you can support your heart comfortably.
 
-#### #### Does cold weather holiday heart cause permanent damage?
+#### Does cold weather holiday heart cause permanent damage?
 
 No—cold weather holiday heart does not cause lasting harm when managed gently. The physiological responses (like vasoconstriction and BP elevation) are natural adaptations. They resolve as conditions normalize, especially with rest, hydration, and appropriate layering. Chronic unmanaged high BP is different—and that’s why regular monitoring matters.
 
-#### #### How can I prevent cold weather holiday heart during winter celebrations?
+#### How can I prevent cold weather holiday heart during winter celebrations?
 
 Focus on three pillars: *warmth* (dress in layers, protect your face), *pace* (avoid sudden exertion, take breaks), and *balance* (limit alcohol and salt, prioritize sleep and hydration). These steps significantly lower strain without asking you to skip the joy.
 
-#### #### Is holiday heart syndrome prevention the same for people over 60?
+#### Is holiday heart syndrome prevention the same for people over 60?
 
 Yes—with added emphasis on hydration (thirst sensation declines with age) and medication timing (some BP meds work best taken in the morning, especially in winter). Also, consider scheduling outdoor activities during midday when temperatures are mildest.
 
-#### #### Can cold weather holiday heart trigger atrial fibrillation?
+#### Can cold weather holiday heart trigger atrial fibrillation?
 
 It can contribute—particularly when combined with alcohol, dehydration, or fatigue. But AFib is multifactorial, and cold exposure alone rarely causes it. If you have a history of arrhythmia, discuss a personalized holiday plan with your cardiologist. Many people manage it beautifully with small adjustments.

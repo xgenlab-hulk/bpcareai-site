@@ -81,22 +81,22 @@ You don’t need perfect numbers or dramatic lifestyle overhauls. Small, sustain
 
 ### FAQ
 
-#### #### Can low-dose prednisone cause heart disease even if my cholesterol is normal?
+#### Can low-dose prednisone cause heart disease even if my cholesterol is normal?
 
 Yes. Chronic low-dose corticosteroids contribute to *corticosteroids endothelial senescence ra*—a process that impairs blood vessel repair and function independently of LDL cholesterol. This can lead to stiffer arteries, higher systolic blood pressure, and increased long-term heart disease risk—even with optimal lipid panels.
 
-#### #### What is corticosteroids endothelial senescence ra—and why does it matter for RA patients?
+#### What is corticosteroids endothelial senescence ra—and why does it matter for RA patients?
 
 *Corticosteroids endothelial senescence ra* refers to accelerated aging of the blood vessel lining (endothelium) and its repair cells (EPCs) triggered by long-term glucocorticoid use in rheumatoid arthritis. It involves increased p16INK4a, shortened telomeres, and reduced flow-mediated dilation—raising heart disease risk even when traditional markers like cholesterol appear reassuring.
 
-#### #### Does corticosteroids endothelial senescence ra show up on an EKG or standard blood test?
+#### Does corticosteroids endothelial senescence ra show up on an EKG or standard blood test?
 
 No. An EKG detects electrical activity—not endothelial health. Routine blood tests (like cholesterol or basic metabolic panels) also miss this process. Diagnosis requires specialized tools: flow-mediated dilation (ultrasound), EPC analysis, or biomarkers like IL-6 and osteopontin—available through select cardiology or research centers.
 
-#### #### Are there natural ways to slow corticosteroids endothelial senescence ra?
+#### Are there natural ways to slow corticosteroids endothelial senescence ra?
 
 Yes—evidence supports time-targeted antioxidants (vitamin C/E before steroid dosing), regular aerobic movement, quality sleep, and stress-regulation practices like paced breathing. These help preserve nitric oxide, reduce oxidative stress, and support endothelial progenitor cell function.
 
-#### #### How often should someone on long-term low-dose steroids get heart health screening?
+#### How often should someone on long-term low-dose steroids get heart health screening?
 
 For adults 55–69 on corticosteroids ≥1 year, consider discussing vascular health screening with your provider every 12–24 months—including home BP tracking, FMD if accessible, and evaluation of functional capacity (e.g., 6-minute walk test). Earlier or more frequent checks are reasonable if other risk factors are present.

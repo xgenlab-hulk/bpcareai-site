@@ -85,17 +85,17 @@ Thanksgiving isn’t about flawless execution — it’s about showing up with k
 
 ### FAQ
 
-#### #### What’s the best diabetes-safe side dish gastroparesis-approved option for Thanksgiving?
+#### What’s the best diabetes-safe side dish gastroparesis-approved option for Thanksgiving?
 A smooth, well-cooked purée — like butternut squash blended with a pinch of nutmeg and a drizzle of maple syrup (1 tsp max) — is widely tolerated. It’s low in insoluble fiber, soft in texture, and has a moderate glycemic index (~51). Always peel and strain thoroughly to remove any stringy bits.
 
-#### #### Can I use canned beans in a diabetes-safe side dish gastroparesis recipe?
+#### Can I use canned beans in a diabetes-safe side dish gastroparesis recipe?
 Yes — *if* they’re fully softened and mashed or puréed. Rinse well to reduce sodium, then simmer 10–15 minutes longer to ensure tenderness. Avoid whole-kidney-bean salads or dishes with visible bean skins. Black bean purée (strained) or refried pinto beans (low-sodium, no lard) are safer options.
 
-#### #### Is sweet potato safe for gastroparesis — and does it count as a diabetes-safe side dish gastroparesis choice?
+#### Is sweet potato safe for gastroparesis — and does it count as a diabetes-safe side dish gastroparesis choice?
 Yes — *when peeled, fully cooked until tender, and served in modest portions (½ cup)*. Sweet potatoes have more soluble fiber than white potatoes and a lower GI (~63 vs. ~78). Avoid roasting whole or serving with marshmallows or brown sugar glazes — those add fat/sugar that can delay emptying.
 
-#### #### What Thanksgiving sides should I avoid entirely if someone has gastroparesis?
+#### What Thanksgiving sides should I avoid entirely if someone has gastroparesis?
 Skip anything raw, chewy, or high-resistance: raw salads, whole-kernel corn, fried onions, green beans with strings intact, stuffing with nuts/dried fruit/celery, and coarse whole-grain breads. Also avoid ultra-high-fat additions like heavy cream sauces or bacon bits — they slow gastric motility significantly.
 
-#### #### How do I explain my food choices to relatives without making anyone feel judged?
+#### How do I explain my food choices to relatives without making anyone feel judged?
 Try: “I made this version because it’s easier on the stomach — and honestly, it’s so creamy and delicious, I think everyone will love it!” Focus on flavor, tradition, and care — not medical labels. Most people appreciate the thought behind the dish far more than the technical details.

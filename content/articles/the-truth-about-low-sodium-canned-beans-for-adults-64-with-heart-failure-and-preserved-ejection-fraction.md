@@ -82,22 +82,22 @@ Navigating nutrition with heart failure and preserved ejection fraction doesn’
 
 ### FAQ
 
-#### #### Are low-sodium canned beans heart failure safe if I rinse them well?
+#### Are low-sodium canned beans heart failure safe if I rinse them well?
 
 Rinsing helps significantly—it removes roughly one-third of added calcium chloride and surface preservatives, and cuts sodium by up to 45%. However, rinsing does *not* eliminate preservatives absorbed during canning (e.g., potassium sorbate bound to bean skins) or calcium chloride integrated into the bean’s structure. For best safety, combine rinsing with careful label review and moderation.
 
-#### #### Can low-sodium canned beans heart failure raise my blood pressure?
+#### Can low-sodium canned beans heart failure raise my blood pressure?
 
 Not directly—but certain additives may interfere with RAAS modulation or endothelial function over time, potentially blunting expected BP benefits or contributing to arterial stiffness. In clinical practice, we occasionally see modest systolic increases (5–10 mm Hg) in sensitive individuals after prolonged use of calcium-fortified or acid-preserved low-sodium legumes—especially when combined with RAAS inhibitors.
 
-#### #### What’s the safest canned bean option for someone with HFpEF and high blood pressure?
+#### What’s the safest canned bean option for someone with HFpEF and high blood pressure?
 
 Look for brands labeled “no salt added” *and* “no calcium chloride,” with ingredients limited to beans, water, and maybe vinegar or lemon juice (mild acidifiers). Black beans and navy beans tend to have lower natural potassium density than white or lima beans—making them gentler options for BP and RAAS-sensitive individuals.
 
-#### #### Do all low-sodium canned beans heart failure products contain potassium binders?
+#### Do all low-sodium canned beans heart failure products contain potassium binders?
 
 No—not all. But many do, especially those marketed for extended shelf life or vibrant color retention. Potassium sorbate appears in ~60% of national-brand “low-sodium” canned beans, according to a 2023 FDA database review. Always check the ingredient list; if “potassium sorbate” or “potassium benzoate” appears, that product contains a potassium binder.
 
-#### #### How much potassium is too much for someone with heart failure and preserved ejection fraction?
+#### How much potassium is too much for someone with heart failure and preserved ejection fraction?
 
 For most adults with stable HFpEF and normal kidney function (eGFR >60), the recommended upper limit is ~4,700 mg/day. But for those with reduced eGFR (30–59 mL/min), many cardiologists advise staying below 3,500 mg/day—especially if taking spironolactone or ACE inhibitors. A single ½-cup serving of potassium-sorbate–treated beans may contribute an additional 150–200 mg beyond its natural potassium content—small, but meaningful across multiple daily servings.

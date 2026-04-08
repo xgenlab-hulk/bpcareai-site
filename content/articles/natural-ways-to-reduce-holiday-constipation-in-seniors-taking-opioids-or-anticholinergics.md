@@ -53,22 +53,22 @@ If you're unsure, talking to your doctor is always a good idea—and mentioning 
 
 ### FAQ
 
-#### #### Can prune juice really help natural constipation relief seniors opioids?
+#### Can prune juice really help natural constipation relief seniors opioids?
 
 Yes—but timing and formulation matter. Studies show best results with 120 mL of *prune-pear juice* taken 30 minutes before breakfast. Avoid drinking it with calcium-fortified foods or iron supplements, as those can blunt its effect.
 
-#### #### What’s the safest magnesium for natural constipation relief seniors opioids?
+#### What’s the safest magnesium for natural constipation relief seniors opioids?
 
 Magnesium L-threonate is emerging as a gentler, neuro-supportive option for older adults—especially those also managing cognitive or sleep concerns. Typical doses studied in seniors range from 800–1,200 mg/day, split into two doses with meals. Always confirm kidney function first.
 
-#### #### Are abdominal massages safe for seniors with osteoporosis or hernias?
+#### Are abdominal massages safe for seniors with osteoporosis or hernias?
 
 Gentle, non-deep-pressure techniques like the I-L-U-O sequence are generally safe—but avoid firm pressure over bony areas or known hernia sites. If you have severe osteoporosis (T-score < –3.0) or a recent abdominal surgery, consult your physical therapist before starting.
 
-#### #### How does healthy holiday eating for seniors support gut motility?
+#### How does healthy holiday eating for seniors support gut motility?
 
 Prioritizing warm fluids (herbal teas, broths), soluble fiber (oats, applesauce, cooked pears), and consistent meal timing helps maintain vagal tone and colonic contractions. Skip heavy, high-fat holiday sides late in the day—those delay gastric emptying and worsen nighttime stasis.
 
-#### #### Can anticholinergic meds cause constipation even if I’m not on opioids?
+#### Can anticholinergic meds cause constipation even if I’m not on opioids?
 
 Absolutely. Medications like diphenhydramine (Benadryl®), oxybutynin, or certain tricyclic antidepressants reduce acetylcholine throughout the body—including the gut. That’s why *natural constipation relief seniors opioids* strategies often overlap with anticholinergic-related constipation: hydration, timed fiber, and neuromuscular support all help.

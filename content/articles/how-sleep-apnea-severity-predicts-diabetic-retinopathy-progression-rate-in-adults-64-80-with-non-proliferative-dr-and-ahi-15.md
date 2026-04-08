@@ -90,22 +90,22 @@ The science is clear: this progression isn’t preordained. It responds to care,
 
 ### FAQ
 
-#### #### Does sleep apnea diabetic retinopathy progression happen faster in older adults?
+#### Does sleep apnea diabetic retinopathy progression happen faster in older adults?
 
 Yes—especially between ages 64 and 80. Age-related declines in respiratory muscle tone, lung elasticity, and retinal vascular repair capacity mean that hypoxia from OSA has a stronger impact. However, this also means interventions like CPAP often yield proportionally greater benefits in this age group.
 
-#### #### Can treating sleep apnea slow diabetic retinopathy progression even if I’ve had diabetes for 20+ years?
+#### Can treating sleep apnea slow diabetic retinopathy progression even if I’ve had diabetes for 20+ years?
 
 Absolutely. Studies show that initiating effective OSA treatment—even decades after diabetes onset—can stabilize retinal capillary density and reduce VEGF-driven inflammation. The retina retains remarkable adaptive capacity, particularly when oxygen delivery improves consistently.
 
-#### #### Is sleep apnea diabetic retinopathy progression reversible with CPAP?
+#### Is sleep apnea diabetic retinopathy progression reversible with CPAP?
 
 While advanced damage (like fibrosis or optic nerve changes) isn’t reversible, early-stage NPDR progression—including microaneurysm formation and capillary dropout—is often halted or significantly slowed with sustained CPAP adherence ≥4 hours/night. Some patients even show measurable improvement in retinal blood flow on OCT angiography within 6–12 months.
 
-#### #### Do I need a formal sleep study if my partner says I snore loudly and stop breathing?
+#### Do I need a formal sleep study if my partner says I snore loudly and stop breathing?
 
 Yes. Snoring and observed apneas are strong clinical clues—but only a sleep study (in-lab or validated home test) can quantify AHI, oxygen desaturation, and sleep architecture. Since AHI >15 is a key predictor in sleep apnea diabetic retinopathy progression, accurate measurement guides both urgency and treatment planning.
 
-#### #### Can weight loss alone improve both my sleep apnea and diabetic retinopathy?
+#### Can weight loss alone improve both my sleep apnea and diabetic retinopathy?
 
 Modest weight loss (5–10% of body weight) often reduces AHI by 25–30% and improves insulin sensitivity—both of which support retinal health. However, for adults with AHI >15, weight loss alone rarely eliminates OSA. Combining it with CPAP offers the strongest protection against diabetic retinopathy progression.

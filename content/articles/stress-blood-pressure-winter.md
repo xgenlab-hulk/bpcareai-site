@@ -3,7 +3,7 @@ title: >-
   Does Stress Raise Blood Pressure in Winter? Yes—Here’s Why
 slug: stress-blood-pressure-winter
 description: >-
-  Yes—stress raises blood pressure in winter: cold + stress adds 3–5 mmHg (vasoconstriction) and up to 12 mmHg more during anxiety. Learn simple, proven ways to
+  Yes—stress raises blood pressure in winter: cold + stress adds 3–5 mmHg (vasoconstriction) and up to 12 mmHg more during anxiety.
 date: '2026-04-02'
 updated: '2026-04-02'
 primaryKeyword: >-

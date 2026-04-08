@@ -78,22 +78,22 @@ Living well with stage 2 CKD at 66+ isn’t about giving up joy — it’s about
 
 ### FAQ
 
-#### #### Is it really necessary to skip holiday ham kidney disease seniors — or is a small slice okay?
+#### Is it really necessary to skip holiday ham kidney disease seniors — or is a small slice okay?
 
 For many, a *very small* portion (1–2 ounces) of low-sodium, additive-free ham — enjoyed mindfully and balanced with plenty of vegetables — may be fine. But because cured ham is typically high in sodium, phosphorus additives, and protein density, it’s safest to choose alternatives unless your nephrologist or dietitian has reviewed your recent labs and confirmed tolerance. When in doubt, “skip holiday ham kidney disease seniors” is a gentle, protective guideline.
 
-#### #### What are the best holiday foods for seniors with stage 2 kidney disease?
+#### What are the best holiday foods for seniors with stage 2 kidney disease?
 
 Focus on whole, minimally processed foods: herb-roasted poultry or fish, lentils or chickpeas, steamed or roasted seasonal vegetables (like carrots, parsnips, or green beans), unsalted nuts, and fresh fruit. Prioritize flavor through herbs, citrus, and spices — not salt or sauces. These choices support stable BUN, healthy BP, and steady eGFR.
 
-#### #### Can skipping holiday ham kidney disease seniors help lower my BUN level?
+#### Can skipping holiday ham kidney disease seniors help lower my BUN level?
 
 Not immediately — BUN reflects *recent* protein intake and kidney clearance, not long-term damage. But consistently choosing lower-protein, lower-sodium, additive-free options helps prevent repeated spikes and supports more stable urea nitrogen levels over time. Think of it as smoothing the road, not changing the destination.
 
-#### #### Does stage 2 CKD mean I’ll eventually need dialysis?
+#### Does stage 2 CKD mean I’ll eventually need dialysis?
 
 No — not necessarily. In fact, many people with stage 2 CKD maintain stable kidney function for decades with lifestyle support, regular monitoring, and timely medical care. Choosing *healthy holiday eating for seniors* is one meaningful way to help preserve function — and your quality of life.
 
-#### #### Are there kidney-friendly substitutes for ham that still feel festive?
+#### Are there kidney-friendly substitutes for ham that still feel festive?
 
 Absolutely. Try herb-crusted turkey breast with cranberry-orange glaze, savory mushroom-and-lentil Wellington, or a maple-glazed acorn squash stuffed with wild rice and toasted pecans. These dishes bring richness, aroma, and tradition — without the hidden sodium or phosphorus burden. They’re proof that care and celebration go hand in hand.

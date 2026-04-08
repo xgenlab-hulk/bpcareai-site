@@ -77,22 +77,22 @@ In closing, remember that emotional well-being is part of overall health—not s
 
 ### FAQ
 
-#### #### What are the signs of social isolation and seasonal depression in seniors?
+#### What are the signs of social isolation and seasonal depression in seniors?
 
 Signs include persistent low energy, increased sleep or insomnia, withdrawal from friends or family, loss of interest in hobbies, difficulty concentrating, unexplained aches, and appetite changes. Unlike younger adults, older adults may not express sadness directly—instead, they might say “I just don’t feel like myself” or “Everything feels heavier.”
 
-#### #### Can social isolation and seasonal depression happen even with family nearby?
+#### Can social isolation and seasonal depression happen even with family nearby?
 
 Yes. Proximity doesn’t guarantee meaningful interaction. Many older adults live near adult children but have infrequent or superficial contact—especially if mobility, hearing, or technology barriers exist. Emotional isolation—feeling unseen or unheard—is just as impactful as physical solitude.
 
-#### #### How is seasonal depression in older adults different from general depression?
+#### How is seasonal depression in older adults different from general depression?
 
 Seasonal depression in older adults tends to feature more hypersomnia (excessive sleep), carbohydrate cravings, and lethargy—and less agitation or insomnia than non-seasonal depression. It also follows a reliable annual pattern, typically emerging in fall/winter and easing by early spring. Importantly, it responds well to light exposure and structured social engagement—not just medication.
 
-#### #### Does vitamin D help with social isolation and seasonal depression?
+#### Does vitamin D help with social isolation and seasonal depression?
 
 Vitamin D deficiency is common in older adults, especially in winter, and low levels are associated with increased depressive symptoms. While supplementation (typically 800–1000 IU/day for adults over 65) may support mood, it’s most effective when combined with other strategies—like light exposure and social connection—not as a standalone fix.
 
-#### #### Are there any blood pressure changes linked to seasonal depression in older adults?
+#### Are there any blood pressure changes linked to seasonal depression in older adults?
 
 Yes. Chronic low mood and stress can contribute to dysregulated autonomic function, sometimes showing as elevated systolic blood pressure (e.g., repeated readings >140 mm Hg) or, less commonly, orthostatic hypotension (a drop in BP upon standing). These patterns warrant discussion with your clinician—not as a cause, but as a clue pointing to broader physiological strain.

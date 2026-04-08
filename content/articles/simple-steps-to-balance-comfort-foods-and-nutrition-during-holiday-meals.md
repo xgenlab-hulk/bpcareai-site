@@ -45,22 +45,22 @@ Balancing comfort food and health isn’t about perfection—it’s about presen
 
 ### FAQ
 
-#### #### How can I balance comfort food and health without feeling deprived?
+#### How can I balance comfort food and health without feeling deprived?
 
 Focus on portion awareness and flavor satisfaction—not elimination. Serve yourself a modest portion of your favorite dish, eat it slowly, and pair it with fiber-rich sides. You’ll likely feel more satisfied—and less sluggish—than if you restrict then overindulge later.
 
-#### #### Is balancing comfort food and health possible if I have high blood pressure?
+#### Is balancing comfort food and health possible if I have high blood pressure?
 
 Yes—and it’s especially important. Prioritizing lower-sodium versions of classics (e.g., unsalted butter, herbs instead of salt rubs), increasing potassium-rich foods (sweet potatoes, spinach, bananas), and limiting alcohol to one drink can all support healthy BP trends during festive times.
 
-#### #### What are practical ways to practice balancing comfort food and health at Thanksgiving dinner?
+#### What are practical ways to practice balancing comfort food and health at Thanksgiving dinner?
 
 Start with a small bowl of broth-based soup or salad. Then fill half your plate with roasted vegetables, add a palm-sized portion of turkey, and enjoy one small serving of stuffing or pie. Sit away from the buffet table, and take breaks between courses to check in with your hunger cues.
 
-#### #### Does drinking wine affect my ability to balance comfort food and health?
+#### Does drinking wine affect my ability to balance comfort food and health?
 
 Moderate alcohol—up to one 5-ounce glass per day for women and men over 65—may fit into a balanced approach. But alcohol can raise BP in some people, especially when paired with salty foods. If you notice your readings climb after drinking, consider alternating wine with sparkling water.
 
-#### #### Can balancing comfort food and health help me avoid weight gain over the holidays?
+#### Can balancing comfort food and health help me avoid weight gain over the holidays?
 
 Studies suggest most adults gain only 1–2 pounds between Thanksgiving and New Year’s—not the oft-cited 5–10 lbs. The key is consistency: staying active, prioritizing sleep, and returning to familiar routines quickly after celebrations. Small, repeated choices matter more than any single meal.

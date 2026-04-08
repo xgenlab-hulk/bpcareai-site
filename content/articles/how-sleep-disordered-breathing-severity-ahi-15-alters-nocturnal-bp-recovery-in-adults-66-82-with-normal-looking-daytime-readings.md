@@ -65,22 +65,22 @@ While aging brings changes, your body still responds beautifully to supportive h
 
 ### FAQ
 
-#### #### Does sleep apnea cause high blood pressure at night even if daytime readings are normal?
+#### Does sleep apnea cause high blood pressure at night even if daytime readings are normal?
 
 Yes—especially in adults 66–82. Sleep apnea triggers repeated oxygen drops and nervous system surges that prevent the usual 10–20% nighttime BP decline. This is why many people with AHI >15 show non-dipping or reverse dipping patterns despite normal daytime values.
 
-#### #### What is considered abnormal nocturnal blood pressure recovery in older adults with sleep apnea?
+#### What is considered abnormal nocturnal blood pressure recovery in older adults with sleep apnea?
 
 Abnormal recovery includes: non-dipping (nocturnal BP drop <10%), reverse dipping (BP *rises* at night), or morning surge >35 mm Hg systolic. In the Sleep Heart Health Study, adults 66–82 with AHI >15 were significantly more likely to show these patterns than those with lower AHI.
 
-#### #### How does AHI >15 affect sleep apnea nocturnal blood pressure recovery adults 66-82?
+#### How does AHI >15 affect sleep apnea nocturnal blood pressure recovery adults 66-82?
 
 An AHI >15 indicates moderate-to-severe sleep-disordered breathing—and strongly correlates with impaired nocturnal BP recovery. It doubles the odds of non-dipping and increases reverse dipping risk by nearly 3-fold in this age group, independent of daytime hypertension.
 
-#### #### Can treating sleep apnea improve nighttime blood pressure patterns?
+#### Can treating sleep apnea improve nighttime blood pressure patterns?
 
 Yes—studies show CPAP therapy, when used consistently, restores dipping patterns in about 60–70% of adults 66–82 with AHI >15. Even modest improvements in AHI (e.g., dropping from 22 to 14) can meaningfully reduce morning surge magnitude.
 
-#### #### Is home blood pressure monitoring enough to assess sleep apnea nocturnal blood pressure recovery adults 66-82?
+#### Is home blood pressure monitoring enough to assess sleep apnea nocturnal blood pressure recovery adults 66-82?
 
 No—standard home monitors only capture daytime or sporadic readings. To assess nocturnal recovery, 24-hour ambulatory BP monitoring (ABPM) is needed. When paired with home sleep testing, it gives the clearest picture of how breathing events shape your BP rhythm overnight.

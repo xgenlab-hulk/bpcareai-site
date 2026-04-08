@@ -91,17 +91,17 @@ Understanding **heart rate recovery and HFpEF mortality** doesn’t mean resigni
 
 ### FAQ
 
-#### #### What is a normal heart rate recovery after a 6-minute walk test in older adults with HFpEF?
+#### What is a normal heart rate recovery after a 6-minute walk test in older adults with HFpEF?
 A normal heart rate recovery is typically ≥18 bpm at 1 minute post-walk. For adults 75+, values between 13–17 bpm suggest early autonomic change, while ≤12 bpm is consistently linked to higher risk—and is the cutoff used in major studies linking **heart rate recovery and HFpEF mortality**.
 
-#### #### Does heart rate recovery predict mortality better than ejection fraction in HFpEF?
+#### Does heart rate recovery predict mortality better than ejection fraction in HFpEF?
 Yes—absolutely. Ejection fraction is preserved by definition in HFpEF (≥50%), so it offers virtually no prognostic information. In contrast, heart rate recovery reflects real-time autonomic and microvascular function. Multiple studies confirm that **heart rate recovery and HFpEF mortality** associations remain strong even after adjusting for EF, NT-proBNP, and other standard biomarkers.
 
-#### #### Can medications like beta-blockers mask heart rate recovery results?
+#### Can medications like beta-blockers mask heart rate recovery results?
 Beta-blockers do reduce the absolute magnitude of HRR—but they do *not* eliminate its predictive power. Large registries show that even on beta-blockers, an HRR ≤12 bpm still doubles 5-year mortality risk. The key is interpreting HRR *in context*, not discarding it.
 
-#### #### Is heart rate recovery useful for people without a formal HFpEF diagnosis but with unexplained shortness of breath?
+#### Is heart rate recovery useful for people without a formal HFpEF diagnosis but with unexplained shortness of breath?
 Yes. In primary care settings, an abnormal HRR during a 6MWT is increasingly used as a “red flag” to trigger further cardiac evaluation—including echocardiography, natriuretic peptide testing, and referral to heart failure specialists—especially when symptoms align with HFpEF phenotypes (e.g., obesity, hypertension, female sex, age >60).
 
-#### #### How does heart rate recovery compare to blood pressure response during the 6-minute walk test?
+#### How does heart rate recovery compare to blood pressure response during the 6-minute walk test?
 While both matter, BP response (e.g., failure of systolic BP to rise ≥10 mm Hg or a paradoxical drop) reflects different mechanisms—mainly vascular stiffness and ventricular-arterial coupling. HRR adds complementary information about neural control and muscle metabolism. Together, they provide a fuller functional picture than either alone.

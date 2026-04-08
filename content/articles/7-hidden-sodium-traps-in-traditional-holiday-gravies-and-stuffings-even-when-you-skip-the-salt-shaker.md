@@ -78,22 +78,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What are the best low sodium holiday gravy alternatives for someone with high blood pressure?
+#### What are the best low sodium holiday gravy alternatives for someone with high blood pressure?
 
 The most effective *low sodium holiday gravy alternatives* focus on building flavor from scratch: use unsalted homemade stock, deepen savoriness with roasted vegetables and herbs (like thyme, sage, and rosemary), and finish with a splash of acidity—such as apple cider vinegar or lemon juice. Nutritional yeast adds umami without sodium, and a small amount of unsweetened almond milk or oat milk can lend creaminess without added salt.
 
-#### #### Can I make low sodium holiday gravy alternatives using store-bought broth?
+#### Can I make low sodium holiday gravy alternatives using store-bought broth?
 
 Yes—but read labels carefully. Look for broths labeled “no salt added” *and* check the sodium per cup: aim for ≤140 mg per serving. Many “low sodium” broths still contain 300–500 mg per cup due to preservatives. When in doubt, dilute with water and enrich with extra sautéed aromatics.
 
-#### #### Are there low sodium holiday gravy alternatives that still taste rich and traditional?
+#### Are there low sodium holiday gravy alternatives that still taste rich and traditional?
 
 Absolutely. Richness comes from time and technique—not just salt. Simmering stock longer, using roasted turkey parts, adding caramelized onions, and stirring in a pat of unsalted butter at the end all build body and depth. Many families report that these versions taste *more* nuanced and satisfying over time.
 
-#### #### How much sodium is typically in traditional holiday stuffing?
+#### How much sodium is typically in traditional holiday stuffing?
 
 A typical ½-cup serving of classic stuffing (made with sausage, seasoned breadcrumbs, and butter) contains 450–700 mg sodium—sometimes more if made with pre-seasoned mix or canned broth. Switching to unsalted bread, lean turkey sausage (check label—some contain <200 mg per 2 oz), and homemade broth drops that to 150–250 mg.
 
-#### #### Does rinsing canned ingredients really reduce sodium?
+#### Does rinsing canned ingredients really reduce sodium?
 
 Yes—studies show rinsing canned beans, corn, or tomatoes under cold water for 30–60 seconds reduces sodium by 30–40%. It’s a simple, effective step that works especially well in stuffing or vegetable-based gravies.

@@ -80,22 +80,22 @@ Understanding the interplay between everyday products like menthol gels and comp
 
 ### FAQ
 
-#### #### Can menthol gels insulin sensitivity lipodystrophy affect my blood sugar control?
+#### Can menthol gels insulin sensitivity lipodystrophy affect my blood sugar control?
 
 Yes — indirectly. While menthol doesn’t raise blood glucose directly, its suppression of lipolysis in subcutaneous fat may promote ectopic fat storage in liver and muscle, worsening whole-body insulin resistance over time. This can contribute to gradual increases in fasting glucose or insulin requirements — though effects are usually subtle and unfold over months to years.
 
-#### #### Do all cooling gels cause menthol gels insulin sensitivity lipodystrophy issues?
+#### Do all cooling gels cause menthol gels insulin sensitivity lipodystrophy issues?
 
 No. Only products containing TRPM8 agonists — primarily menthol (typically 1–10%), but also icilin or eucalyptol in some formulations — activate this pathway. Camphor-based or capsaicin-containing gels work through different receptors (TRPV1/TRPA1) and are not associated with this specific masking effect.
 
-#### #### How long does it take for menthol gels insulin sensitivity lipodystrophy to become noticeable?
+#### How long does it take for menthol gels insulin sensitivity lipodystrophy to become noticeable?
 
 Clinical masking generally begins after ~3–6 months of frequent (≥4x/week), site-repetitive use — especially when applied over insulin injection zones. However, thermal imaging studies suggest functional changes in adipose metabolism occur within 2–4 weeks of consistent use.
 
-#### #### Is lipodystrophy reversible once detected?
+#### Is lipodystrophy reversible once detected?
 
 In early stages — yes, often. Switching injection sites, optimizing insulin delivery (e.g., using shorter needles or ultra-fine syringes), and reducing local irritation can allow partial fat regeneration over 6–12 months. Advanced or long-standing cases may require referral to endocrinology or dermatology for specialized assessment.
 
-#### #### Does using menthol gels increase my risk of developing diabetes?
+#### Does using menthol gels increase my risk of developing diabetes?
 
 No. Menthol gels do not cause diabetes. However, in people who already have diabetes — especially those on long-term insulin — chronic use may interfere with timely recognition of treatment-related complications like lipodystrophy, potentially delaying interventions that preserve metabolic health.

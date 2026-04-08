@@ -39,22 +39,22 @@ In short, joyful, flavorful holiday meals are absolutely possible—even essenti
 
 ### FAQ
 
-#### #### Can high-fiber low-residue holiday sides help prevent diverticulitis flare-ups?
+#### Can high-fiber low-residue holiday sides help prevent diverticulitis flare-ups?
 
 Yes—when carefully chosen. Studies suggest that a consistent intake of *soluble* fiber (like that in peeled, cooked fruits and vegetables) helps maintain regular, soft stools—reducing pressure in the colon and lowering the risk of diverticular inflammation. Avoiding nuts, seeds, popcorn, and raw, stringy vegetables is key during active management.
 
-#### #### What are some easy high-fiber low-residue holiday sides I can make in under 30 minutes?
+#### What are some easy high-fiber low-residue holiday sides I can make in under 30 minutes?
 
 Try mashed sweet potatoes (peeled, boiled until very soft, blended with cinnamon and a drizzle of coconut milk), silken tofu-based “cranberry mousse” (blended cooked cranberries, silken tofu, and orange zest), or creamed spinach made with frozen chopped spinach (thawed and well-drained) and a splash of low-sodium vegetable broth.
 
-#### #### Are refined grains okay for seniors with diverticulosis?
+#### Are refined grains okay for seniors with diverticulosis?
 
 Yes—especially during holidays. White rice, refined breads, and egg noodles are low-residue and well-tolerated. They’re not “unhealthy” in context; they provide digestible energy and a neutral base for fiber-rich additions like pureed squash or stewed pears.
 
-#### #### Do I need to avoid all raw vegetables during the holidays?
+#### Do I need to avoid all raw vegetables during the holidays?
 
 Not necessarily—but it’s wise to limit them. Raw bell peppers, cucumbers, or salads with lots of leafy greens may cause bloating or cramping for some. Steaming, roasting, or pureeing vegetables significantly improves tolerance while preserving nutrients.
 
-#### #### How does fiber type affect IBS symptoms during holiday meals?
+#### How does fiber type affect IBS symptoms during holiday meals?
 
 Soluble fiber (found in oats, peeled apples, carrots, and psyllium husk) absorbs water, forms a gel, and slows digestion—often calming IBS-D and supporting regularity in IBS-C. Insoluble fiber (in wheat bran, raw veggies, nuts) adds bulk and speeds transit—potentially worsening gas or urgency. Prioritizing soluble sources makes a meaningful difference.

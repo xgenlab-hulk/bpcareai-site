@@ -75,22 +75,22 @@ Understanding how everyday environments—including the gentle hum of a mobility
 
 ### FAQ
 
-#### #### Can low-frequency vibration from my mobility scooter really affect my blood pressure?
+#### Can low-frequency vibration from my mobility scooter really affect my blood pressure?
 
 Yes—especially if you’re 79 or older and have peripheral neuropathy. Vibrations in the 4–12 Hz range (common in scooters and wheeled walkers) can subtly disrupt carotid sinus signaling, reducing baroreflex sensitivity and contributing to greater blood pressure variability and orthostatic hypotension.
 
-#### #### What is low frequency vibration and baroreflex seniors—and why should I care?
+#### What is low frequency vibration and baroreflex seniors—and why should I care?
 
 *Low frequency vibration and baroreflex seniors* refers to how gentle, repetitive mechanical vibrations (often imperceptible) interact with the body’s natural blood pressure regulation system in older adults. It matters because diminished baroreflex sensitivity increases risk of dizziness, falls, and inconsistent BP control—particularly in those with nerve damage.
 
-#### #### Does walking with a wheeled walker expose me to the same low-frequency vibration and baroreflex seniors risks?
+#### Does walking with a wheeled walker expose me to the same low-frequency vibration and baroreflex seniors risks?
 
 Potentially, yes—especially on uneven surfaces or with older walkers lacking shock absorption. Wheeled walkers generate vibrations primarily in the 5–10 Hz band during propulsion. If you have neuropathy and notice lightheadedness after walking short distances, this interaction may be playing a role.
 
-#### #### Are there specific blood pressure numbers I should watch for?
+#### Are there specific blood pressure numbers I should watch for?
 
 Yes. Orthostatic hypotension is defined as a drop of ≥20 mm Hg in systolic BP or ≥10 mm Hg in diastolic BP within 3 minutes of standing. Also monitor for high *variability*: systolic BP readings fluctuating more than 30 mm Hg across multiple checks in one day may signal reduced baroreflex reserve.
 
-#### #### Can improving baroreflex sensitivity reduce my fall risk?
+#### Can improving baroreflex sensitivity reduce my fall risk?
 
 Evidence suggests yes. Higher baroreflex sensitivity correlates strongly with better postural stability and faster BP recovery after standing. Interventions like paced breathing, hydration, and vibration-aware mobility choices have been linked to fewer near-falls and improved confidence in daily movement.

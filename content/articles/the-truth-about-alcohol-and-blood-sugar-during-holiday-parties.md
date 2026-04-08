@@ -60,22 +60,22 @@ The holidays are about presence—not perfection. Small, intentional choices add
 
 ### FAQ
 
-#### #### Does alcohol lower blood sugar during holiday parties?
+#### Does alcohol lower blood sugar during holiday parties?
 
 Yes—it can. Alcohol interferes with the liver’s ability to release glucose, potentially causing hypoglycemia—especially several hours after drinking or overnight. This effect is more pronounced in older adults and those on insulin or sulfonylureas.
 
-#### #### How does the alcohol effect on blood sugar holidays differ for seniors over 60?
+#### How does the alcohol effect on blood sugar holidays differ for seniors over 60?
 
 Metabolism slows with age, and liver/kidney function may change—meaning alcohol stays in your system longer and impacts glucose regulation more significantly. Older adults also face higher risks of falls and medication interactions, making timing, portion size, and food pairing especially important.
 
-#### #### Can I drink wine if I have diabetes during the holidays?
+#### Can I drink wine if I have diabetes during the holidays?
 
 Yes—with care. A 5-ounce glass of dry red or white wine (about 12% alcohol) typically contains 1–2 g of carbs and minimal sugar. Always pair it with food, monitor your glucose, and limit to one serving per day.
 
-#### #### What are the safest alcoholic drinks for people with type 2 diabetes at holiday events?
+#### What are the safest alcoholic drinks for people with type 2 diabetes at holiday events?
 
 Safest options include dry wines, light beers, or distilled spirits (vodka, gin, tequila) served neat, on the rocks, or with zero-calorie mixers. Avoid sweet wines, liqueurs, punches, and cocktails with syrups or fruit juices.
 
-#### #### Does alcohol raise or lower blood pressure during holiday stress?
+#### Does alcohol raise or lower blood pressure during holiday stress?
 
 Alcohol can temporarily raise blood pressure—and repeated heavy use is linked to sustained hypertension. For those managing both diabetes and high BP, moderation is doubly important: even moderate drinking (more than 1–2 drinks/day) may contribute to arterial pressure increases of 2–4 mm Hg on average.

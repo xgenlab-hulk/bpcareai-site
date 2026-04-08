@@ -87,17 +87,17 @@ The holidays are about connection, comfort, and care — not perfection. You don
 
 ### FAQ
 
-#### #### Are “oat-based” holiday cookies safe for seniors with AFib on warfarin?  
+#### Are “oat-based” holiday cookies safe for seniors with AFib on warfarin?  
 Oats themselves don’t interfere with warfarin — but many oat-based cookies contain hidden vitamin K sources (like dried herbs or green powders) or potassium additives that *do*. If you’re on warfarin, stick to plain oats or homemade versions with no added greens, and keep vitamin K intake consistent day-to-day.
 
-#### #### What makes “heart-healthy holiday cookies seniors afib” misleading for men over 75?  
+#### What makes “heart-healthy holiday cookies seniors afib” misleading for men over 75?  
 The term often emphasizes sugar or saturated fat while ignoring interactions with common AFib meds — like potassium buildup with spironolactone or fiber-related digoxin absorption issues. Age-related slower metabolism and kidney changes also heighten sensitivity to these effects.
 
-#### #### Can I eat store-bought “low-sugar” cookies if I have AFib and take digoxin?  
+#### Can I eat store-bought “low-sugar” cookies if I have AFib and take digoxin?  
 Possibly — but check total soluble fiber per serving. More than 5 g per cookie, especially with other high-fiber foods that day, may lower digoxin absorption. Also avoid cookies with potassium chloride (a common salt substitute), which can dangerously raise potassium when combined with digoxin.
 
-#### #### Do “heart-healthy holiday cookies seniors afib” need FDA approval?  
+#### Do “heart-healthy holiday cookies seniors afib” need FDA approval?  
 No. Terms like “heart-healthy” are regulated loosely by the FDA and don’t require clinical proof for specific populations like seniors with AFib or polypharmacy. Always verify ingredients and consult your pharmacist — not the marketing.
 
-#### #### Are there any holiday cookies truly safe for seniors on multiple heart medications?  
+#### Are there any holiday cookies truly safe for seniors on multiple heart medications?  
 Yes — but safety comes from simplicity and control. Homemade shortbread with whole-wheat flour, minimal butter, no added salt or potassium, and no herbal additives is often the safest choice. Portion size and timing matter just as much as ingredients.

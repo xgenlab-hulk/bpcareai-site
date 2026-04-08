@@ -59,17 +59,17 @@ A low resting heart rate doesn’t automatically mean danger—but in the settin
 
 ### FAQ
 
-#### #### Is a resting heart rate of 50 bpm dangerous for women over 65 on digoxin and thyroid medication?  
+#### Is a resting heart rate of 50 bpm dangerous for women over 65 on digoxin and thyroid medication?  
 Not inherently—but it warrants evaluation, especially if accompanied by fatigue, dizziness, or poor exercise tolerance. In women with hypothyroidism, this RHR may reflect compounded SA node suppression rather than benign athletic conditioning.
 
-#### #### How does hypothyroidism affect resting heart rate digoxin response?  
+#### How does hypothyroidism affect resting heart rate digoxin response?  
 Hypothyroidism reduces cardiac T3 availability, dampens beta-adrenergic receptor sensitivity, and elevates reverse T3—all of which blunt the heart’s ability to compensate for digoxin’s chronotropic effects. This can lead to *exaggerated* bradycardia without proportional symptoms.
 
-#### #### Can resting heart rate digoxin hypothyroidism women improve with treatment adjustments?  
+#### Can resting heart rate digoxin hypothyroidism women improve with treatment adjustments?  
 Yes—often. Optimizing thyroid replacement (e.g., adding low-dose liothyronine in select cases), adjusting digoxin dose based on trough levels and renal function, and reassessing concomitant meds can restore safer heart rate dynamics.
 
-#### #### What ECG findings suggest digoxin toxicity in someone with hypothyroidism?  
+#### What ECG findings suggest digoxin toxicity in someone with hypothyroidism?  
 Beyond bradycardia: frequent premature ventricular contractions (PVCs), bidirectional VT, atrial tachycardia with AV block, or new-onset junctional rhythm—especially if paired with nausea or visual changes (yellow-green halos).
 
-#### #### Does age alone explain low resting heart rate in women 65+?  
+#### Does age alone explain low resting heart rate in women 65+?  
 No. While intrinsic sinus node function declines gradually with age, a *new* or *progressive* drop below 52 bpm—particularly on digoxin and with hypothyroidism—deserves targeted investigation into hormonal, pharmacologic, and electrophysiological contributors.

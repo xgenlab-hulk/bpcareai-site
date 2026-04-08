@@ -95,22 +95,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does diaphragmatic breathing postprandial glucose help older adults with type 2 diabetes?
+#### Does diaphragmatic breathing postprandial glucose help older adults with type 2 diabetes?
 
 Yes—especially for adults 64+ with signs of autonomic imbalance (e.g., high LF/HF ratio). Clinical observations and small trials suggest regular post-meal diaphragmatic breathing can modestly lower 60- to 90-minute glucose peaks by 15–30 mg/dL, primarily by enhancing vagal tone and reducing stress hormone interference.
 
-#### #### How long after eating should I do diaphragmatic breathing postprandial glucose practice?
+#### How long after eating should I do diaphragmatic breathing postprandial glucose practice?
 
 Ideally, begin 5–10 minutes after finishing your meal. This timing aligns with the early phase of glucose absorption and hepatic response—when vagal modulation has the greatest opportunity to influence glucose disposal and production.
 
-#### #### Can diaphragmatic breathing postprandial glucose replace my diabetes medication?
+#### Can diaphragmatic breathing postprandial glucose replace my diabetes medication?
 
 No. Diaphragmatic breathing is a complementary strategy—not a replacement for prescribed medications, nutrition planning, or physical activity. It supports your body’s natural regulatory systems but does not alter insulin resistance or beta-cell function at the cellular level like pharmacotherapy does.
 
-#### #### Is the 4-7-8 breathing technique safe for people with high blood pressure?
+#### Is the 4-7-8 breathing technique safe for people with high blood pressure?
 
 Yes—when practiced gently and without breath-holding strain, the 4-7-8 rhythm is generally safe and often beneficial for adults with hypertension. Its emphasis on prolonged exhalation supports parasympathetic calming and may contribute to modest BP reductions over time. If you experience lightheadedness, shorten the hold or exhale duration.
 
-#### #### Do I need special equipment to track LF/HF ratio or practice diaphragmatic breathing?
+#### Do I need special equipment to track LF/HF ratio or practice diaphragmatic breathing?
 
 No special equipment is required to begin. You can start breathing practice immediately with no tools. For LF/HF assessment, consult your healthcare provider—some clinics offer HRV analysis during routine visits or cardiac rehab programs. Consumer wearables may provide estimates, but clinical-grade interpretation is recommended for medical decision-making.

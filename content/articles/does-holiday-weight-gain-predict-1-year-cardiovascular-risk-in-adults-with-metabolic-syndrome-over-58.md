@@ -50,17 +50,17 @@ In summary, while holiday traditions bring joy, they also offer a window into lo
 
 ### FAQ
 
-#### #### Does holiday weight gain increase cardiovascular risk in older adults with metabolic syndrome?  
+#### Does holiday weight gain increase cardiovascular risk in older adults with metabolic syndrome?  
 Yes—particularly when gains exceed 2.5 kg. Research links such increases to faster carotid artery wall thickening and higher 1-year risk of hypertension progression, independent of overall BMI.
 
-#### #### Can holiday weight gain cardiovascular risk be reversed with lifestyle changes?  
+#### Can holiday weight gain cardiovascular risk be reversed with lifestyle changes?  
 Absolutely. Studies show that structured nutrition coaching and moderate aerobic activity (150 min/week) initiated within 6 weeks of holiday gain significantly slow CIMT progression—even if weight loss is modest (<3%).
 
-#### #### Is healthy holiday eating for seniors different from general advice?  
+#### Is healthy holiday eating for seniors different from general advice?  
 Yes. Older adults often have reduced thirst sensation, slower gastric emptying, and increased sodium sensitivity—making hydration, smaller frequent meals, and low-sodium preparation especially important.
 
-#### #### How much holiday weight gain is considered dangerous for heart health?  
+#### How much holiday weight gain is considered dangerous for heart health?  
 For adults over 58 with metabolic syndrome, ≥2.5 kg (5.5 lbs) gained between November and January is associated with measurable increases in arterial stiffness and 1-year cardiovascular event risk.
 
-#### #### Do blood pressure medications affect holiday weight gain cardiovascular risk?  
+#### Do blood pressure medications affect holiday weight gain cardiovascular risk?  
 Some diuretics and beta-blockers may mask early weight-related BP changes or contribute to fluid retention. Discuss seasonal medication review with your provider—especially if you’re gaining weight despite adherence.

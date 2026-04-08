@@ -75,17 +75,17 @@ While the idea of a hormone-releasing tumor sounds daunting, pheochromocytoma is
 
 ### FAQ
 
-#### #### What are the most common signs of pheochromocytoma hypertension fluctuations episodic palpitations?
+#### What are the most common signs of pheochromocytoma hypertension fluctuations episodic palpitations?
 The hallmark is unpredictable, short-lived spikes in blood pressure—often accompanied by palpitations, anxiety, sweating, or tremor—followed by full return to normal BP. Unlike typical high blood pressure, these episodes may occur only a few times a week or month and aren’t consistently linked to stress or activity.
 
-#### #### Can pheochromocytoma hypertension fluctuations episodic palpitations happen without high blood pressure?
+#### Can pheochromocytoma hypertension fluctuations episodic palpitations happen without high blood pressure?
 Yes—up to 20% of people with pheochromocytoma have entirely normal blood pressure between episodes. Palpitations, flushing, or headaches may be the only clues, making careful symptom tracking especially important.
 
-#### #### How is pheochromocytoma hypertension fluctuations episodic palpitations diagnosed?
+#### How is pheochromocytoma hypertension fluctuations episodic palpitations diagnosed?
 Diagnosis typically begins with blood or urine tests measuring metanephrines—the breakdown products of catecholamines. A 24-hour urine collection or plasma free metanephrines test is highly sensitive. Imaging (CT or MRI of the abdomen) follows if biochemical results are elevated.
 
-#### #### Is pheochromocytoma dangerous if left untreated?
+#### Is pheochromocytoma dangerous if left untreated?
 Untreated, repeated catecholamine surges can strain the heart and blood vessels over time, increasing risk of stroke, heart attack, or arrhythmias. However, with timely evaluation and treatment, outcomes are excellent—and most people regain full health.
 
-#### #### Are there lifestyle changes that help manage pheochromocytoma hypertension fluctuations episodic palpitations?
+#### Are there lifestyle changes that help manage pheochromocytoma hypertension fluctuations episodic palpitations?
 No lifestyle change treats the underlying tumor, but avoiding triggers (e.g., caffeine, tyramine-rich foods, certain OTC meds) and practicing stress-awareness techniques can reduce episode frequency and severity—buying valuable time before definitive treatment.

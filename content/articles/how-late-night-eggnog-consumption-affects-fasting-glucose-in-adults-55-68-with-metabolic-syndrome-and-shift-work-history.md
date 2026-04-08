@@ -70,17 +70,17 @@ Holiday traditions carry deep meaning—especially as we grow older and cherish 
 
 ### FAQ  
 
-#### #### Does drinking eggnog at night raise fasting glucose in people with metabolic syndrome?  
+#### Does drinking eggnog at night raise fasting glucose in people with metabolic syndrome?  
 Yes—especially for adults 55–68 with metabolic syndrome and prior shift-work exposure. The combination of high sugar, saturated fat, and circadian misalignment reduces overnight insulin sensitivity, often elevating next-morning fasting glucose by 15–25 mg/dL. This effect is more pronounced than in younger adults or those without metabolic syndrome.
 
-#### #### How does late-night eggnog fasting glucose metabolic syndrome impact blood pressure?  
+#### How does late-night eggnog fasting glucose metabolic syndrome impact blood pressure?  
 Elevated overnight glucose and cortisol dysregulation can contribute to sympathetic nervous system activation—potentially raising systolic BP by 5–10 mm Hg the following morning. Over repeated exposures, this may worsen existing hypertension, particularly in those with metabolic syndrome where BP ≥130/85 mm Hg is already common.
 
-#### #### Can I still enjoy eggnog during Christmas if I have metabolic syndrome and work nights?  
+#### Can I still enjoy eggnog during Christmas if I have metabolic syndrome and work nights?  
 Absolutely—mindfully and intentionally. Shift your serving to before 8 p.m., choose lower-sugar versions, pair with protein, and monitor how you feel. Many people find they enjoy it *more* when it doesn’t leave them sluggish or anxious the next day.
 
-#### #### Is fasting glucose the only number I should watch during the holidays?  
+#### Is fasting glucose the only number I should watch during the holidays?  
 No. Pay equal attention to *glucose variability* (how much your levels swing), energy patterns, sleep quality, and blood pressure trends. A stable fasting glucose with wide swings overnight may indicate early insulin resistance—even if the morning number looks fine.
 
-#### #### What’s the safest time to drink eggnog if I’m a former night-shift worker?  
+#### What’s the safest time to drink eggnog if I’m a former night-shift worker?  
 For most adults 55–68 with shift-work history, 6:30–7:45 p.m. offers the best balance of social enjoyment and metabolic alignment. This window supports natural insulin secretion and avoids the steep decline in glucose tolerance that begins around 9 p.m.

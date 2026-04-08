@@ -50,22 +50,22 @@ If you're unsure, talking to your doctor is always a good idea. And remember: po
 
 ### FAQ
 
-#### #### Why do I only get tired after dinner at my daughter’s house—but not mine?
+#### Why do I only get tired after dinner at my daughter’s house—but not mine?
 
 Your daughter’s home likely has newer materials (carpet, furniture, decor) or stronger scent sources that release VOCs. Combined with the natural postprandial dip in energy, these compounds may temporarily affect mitochondrial efficiency—especially in sensitive individuals over 60.
 
-#### #### Is post dinner fatigue holiday indoor air dangerous?
+#### Is post dinner fatigue holiday indoor air dangerous?
 
 Not inherently—but it *is* a useful signal. It suggests your body is responding to cumulative environmental and metabolic demands. With gentle mitigation, most people see meaningful improvement in just 1–2 visits.
 
-#### #### Can air purifiers help with post dinner fatigue holiday indoor air?
+#### Can air purifiers help with post dinner fatigue holiday indoor air?
 
 Yes—especially models with activated carbon filters (which target VOCs) and HEPA filters (for particles). Look for units rated for the room size and run them 30–60 minutes before gathering.
 
-#### #### Does fibromyalgia make me more sensitive to indoor air?
+#### Does fibromyalgia make me more sensitive to indoor air?
 
 Research suggests yes. People with fibromyalgia often show altered autonomic nervous system regulation and reduced mitochondrial reserve—making them more likely to notice subtle environmental stressors like VOCs.
 
-#### #### What foods worsen post-dinner fatigue during holiday gatherings?
+#### What foods worsen post-dinner fatigue during holiday gatherings?
 
 Heavy, high-glycemic meals (e.g., mashed potatoes + gravy + pie) increase insulin demand and blood shunting to the gut—amplifying fatigue when paired with VOC exposure. Prioritizing protein, fiber, and healthy fats helps stabilize energy.

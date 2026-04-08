@@ -74,17 +74,17 @@ Heart health isn’t just about one number—it’s about listening to your whol
 
 ### FAQ
 
-#### #### Why does heart failure get worse even when NT-proBNP stays stable in older adults with low iron?
+#### Why does heart failure get worse even when NT-proBNP stays stable in older adults with low iron?
 Because NT-proBNP reflects wall stress—not cellular energy health. Iron deficiency impairs mitochondrial function in heart cells independently, leading to gradual weakening. Hepcidin-driven iron trapping means blood tests may miss the problem until damage accumulates.
 
-#### #### Can heart failure nt-probnp iron deficiency seniors be reversed with treatment?
+#### Can heart failure nt-probnp iron deficiency seniors be reversed with treatment?
 Not “reversed” entirely—but outcomes improve significantly. IV iron therapy has been shown to stabilize ejection fraction, reduce hospitalizations, and improve daily function—even in those 75+—when given early in the course of iron-deficient heart failure.
 
-#### #### Is ferritin alone enough to diagnose iron deficiency in heart failure?
+#### Is ferritin alone enough to diagnose iron deficiency in heart failure?
 No. Ferritin is an acute-phase reactant and often falsely elevated due to inflammation. Always pair it with transferrin saturation (TSAT). TSAT <15% is diagnostic of functional iron deficiency in heart failure—regardless of ferritin level.
 
-#### #### What’s the link between hepcidin and heart failure progression?
+#### What’s the link between hepcidin and heart failure progression?
 Hepcidin rises with inflammation (common in aging and heart failure), blocking ferroportin and trapping iron in storage. This causes “functional iron deficiency”—where iron exists in the body but can’t reach heart cells, starving mitochondria and worsening contractility over time.
 
-#### #### Does high blood pressure make iron deficiency worse in seniors with heart failure?
+#### Does high blood pressure make iron deficiency worse in seniors with heart failure?
 Not directly—but hypertension increases cardiac workload and inflammation, both of which raise hepcidin. This creates a cycle: more stress → more hepcidin → less usable iron → weaker heart → harder work → higher BP. Managing BP supports iron metabolism indirectly.

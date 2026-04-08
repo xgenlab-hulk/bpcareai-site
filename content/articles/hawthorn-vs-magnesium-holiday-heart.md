@@ -96,17 +96,17 @@ None of this is about perfection—or eliminating celebration. It’s about hono
 
 ### FAQ
 
-#### #### Is hawthorn vs magnesium holiday heart really something I should compare—or is one clearly better?
+#### Is hawthorn vs magnesium holiday heart really something I should compare—or is one clearly better?
 Neither is “better” across the board—it depends on your goals and physiology. Hawthorn supports long-term vascular tone and gentle autonomic recalibration, while magnesium glycinate offers more immediate membrane-stabilizing effects. For men with very low HRV or documented Mg deficiency, magnesium may yield quicker feedback. For those sensitive to minerals or seeking cumulative botanical support, hawthorn-chamomile fits well. The *hawthorn vs magnesium holiday heart* question is best answered personally—not prescriptively.
 
-#### #### Can I take hawthorn and magnesium together for holiday heart syndrome prevention?
+#### Can I take hawthorn and magnesium together for holiday heart syndrome prevention?
 We don’t yet have robust safety or efficacy data on combining them nightly. While no major interactions are known, hawthorn may influence how certain transporters handle magnesium—and both affect calcium channels. Until more pharmacokinetic studies are published, it’s wiser to try one consistently for 10 days, assess, then discuss combination use with your clinician.
 
-#### #### Does magnesium glycinate actually help with nocturnal AFib—or is that overstated?
+#### Does magnesium glycinate actually help with nocturnal AFib—or is that overstated?
 Evidence is promising but nuanced. In men aged 61–75 with holiday heart syndrome, evening magnesium glycinate (200 mg elemental Mg) reduced nocturnal PAC burden by ~45% in 7-day ECG studies—likely by improving myocardial magnesium stores and stabilizing atrial myocyte membranes. It won’t “stop AFib” in structural heart disease—but for alcohol-triggered, parasympathetic-sensitive ectopy? Yes, it’s among the best-studied natural supports available.
 
-#### #### What’s the safest herbal alternative to magnesium for holiday heart syndrome prevention?
+#### What’s the safest herbal alternative to magnesium for holiday heart syndrome prevention?
 Chamomile-hawthorn is the most evidence-informed combo for this demographic—but always rule out contraindications first (e.g., anticoagulant use, heart failure with reduced ejection fraction). Other herbs like motherwort or lemon balm may offer calming effects, but lack the same depth of human ECG data for nocturnal atrial ectopy specifically.
 
-#### #### How long does it take for hawthorn to work for holiday heart symptoms?
+#### How long does it take for hawthorn to work for holiday heart symptoms?
 Hawthorn’s benefits are cumulative—not instant. Most men in clinical observation saw meaningful reductions in nocturnal PACs and improvements in HRV after 7–10 consecutive days of consistent use. Think of it like nurturing soil: the effects deepen with time, not intensity.

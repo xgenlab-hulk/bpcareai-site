@@ -78,22 +78,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can festive drinks really improve endothelial function in older adults?
+#### Can festive drinks really improve endothelial function in older adults?
 
 Yes—especially those rich in well-absorbed anthocyanins like hibiscus. Clinical studies using ultrasound-confirmed flow-mediated dilation (FMD) show measurable improvements (up to 12%) within 90 minutes in adults 65+, particularly when drinks are prepared to preserve bioactive compounds.
 
-#### #### Do sugar-free cranberry drinks help with festive drinks endothelial function hypertension?
+#### Do sugar-free cranberry drinks help with festive drinks endothelial function hypertension?
 
 Not significantly—based on current evidence. While cranberry contains beneficial polyphenols, its anthocyanins are less bioavailable than hibiscus’, and many commercial sugar-free versions include additives that may blunt vascular benefits. For festive drinks endothelial function hypertension, hibiscus-infused options currently hold stronger clinical support.
 
-#### #### How much hibiscus water should I drink for blood pressure and endothelial support?
+#### How much hibiscus water should I drink for blood pressure and endothelial support?
 
 Most studies use 240–360 mL (8–12 oz) of cold-brewed hibiscus infusion daily. Consistency matters more than volume—regular, moderate intake appears more effective than occasional large servings. Always discuss with your provider if you take antihypertensive medications, as hibiscus may have additive effects.
 
-#### #### Is sparkling water bad for blood pressure or arteries?
+#### Is sparkling water bad for blood pressure or arteries?
 
 Plain sparkling water (without added sodium, citric acid, or sweeteners) is neutral—neither harmful nor beneficial for BP or endothelial function. However, *carbonation itself* doesn’t interfere with anthocyanin activity, making it a great vehicle for hibiscus infusions.
 
-#### #### What’s the link between nitric oxide and festive drinks endothelial function hypertension?
+#### What’s the link between nitric oxide and festive drinks endothelial function hypertension?
 
 Nitric oxide (NO) is the primary signaling molecule that tells arteries to relax and stay supple. Mild hypertension is often associated with reduced NO bioavailability. Anthocyanins—especially from hibiscus—help activate endothelial nitric oxide synthase (eNOS), boosting NO production and improving flow-mediated dilation. This is one key mechanism behind why festive drinks endothelial function hypertension is such a meaningful topic for healthy aging.

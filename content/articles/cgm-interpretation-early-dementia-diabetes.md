@@ -80,11 +80,11 @@ Managing diabetes alongside early dementia is complex—but it doesn’t have to
 
 ### FAQ
 
-#### #### How does early dementia affect CGM interpretation in people with diabetes?
+#### How does early dementia affect CGM interpretation in people with diabetes?
 
 Early dementia impacts CGM interpretation by reducing symptom awareness, slowing response to alerts, and increasing the risk of unrecognized hypoglycemia—especially at night. Standard metrics like Time in Range (TIR) may appear acceptable while masking dangerous patterns like frequent glucose swings or prolonged lows. Effective **CGM interpretation early dementia diabetes** therefore emphasizes glycemic variability (MAGE), nocturnal low frequency, and stricter hypoglycemia thresholds—not just average glucose.
 
-#### #### What CGM metrics matter most for someone with dementia and diabetes?
+#### What CGM metrics matter most for someone with dementia and diabetes?
 
 Beyond TIR, the most critical metrics are:  
 - **MAGE >65 mg/dL**, indicating high glucose variability linked to cognitive fluctuations  
@@ -92,15 +92,15 @@ Beyond TIR, the most critical metrics are:
 - **Any time <54 mg/dL**, which should be zero in early dementia due to impaired awareness  
 These metrics guide safer medication adjustments and caregiver support planning—making them central to accurate **CGM interpretation early dementia diabetes**.
 
-#### #### Can CGM help detect worsening dementia in people with diabetes?
+#### Can CGM help detect worsening dementia in people with diabetes?
 
 CGM itself doesn’t diagnose dementia progression—but emerging research suggests that *increasing glycemic variability* (e.g., rising MAGE over 3–6 months) and *more frequent asymptomatic nocturnal lows* may correlate with subtle cognitive decline, even before formal testing shows change. While not diagnostic, these CGM patterns warrant closer cognitive screening and interdisciplinary review.
 
-#### #### Why is Time in Range not enough for older adults with dementia?
+#### Why is Time in Range not enough for older adults with dementia?
 
 Because TIR reflects *duration*, not *timing* or *severity*. A person could spend 72% of the day in range yet experience three 20-minute lows at 45 mg/dL overnight—events that increase fall risk, disrupt sleep architecture, and impair next-day cognition. In early dementia, where self-correction is unreliable, **CGM interpretation early dementia diabetes** must prioritize *safety margins*, not just statistical averages.
 
-#### #### What’s the safest glucose target for someone with early dementia and type 2 diabetes?
+#### What’s the safest glucose target for someone with early dementia and type 2 diabetes?
 
 Current consensus supports an individualized target range of **80–150 mg/dL**, with goals of:  
 - TIR ≥70% in that range  

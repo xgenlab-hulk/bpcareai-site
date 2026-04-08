@@ -83,17 +83,17 @@ The goal of *holiday eating prediabetes working adults* isn’t to eliminate joy
 
 ### FAQ  
 
-#### #### How can I enjoy holiday meals without worsening my prediabetes?  
+#### How can I enjoy holiday meals without worsening my prediabetes?  
 Focus on *what you add*, not just what you avoid. Prioritize lean protein (turkey, fish, beans), non-starchy vegetables (green beans, Brussels sprouts, salad), and healthy fats (olive oil, nuts, avocado). Limit portions of starchy sides and desserts—but savor them slowly. Pairing carbs with protein and fat slows digestion and reduces glucose spikes. Even one small adjustment—like swapping mashed potatoes for roasted cauliflower—can lower post-meal glucose by 20–30 mg/dL.
 
-#### #### What are the best holiday eating strategies for working adults with prediabetes?  
+#### What are the best holiday eating strategies for working adults with prediabetes?  
 The most effective approaches are time-efficient and office-compatible: 1) Prep “build-your-own” lunch components on weekends, 2) Use the “Three-Question Filter” when ordering out, and 3) Apply the “Anchor-and-Adjust” rule at social events. These tactics reduce decision fatigue and rely on structure—not willpower. Studies show adults who use at least two of these strategies report 42% less post-holiday glucose variability.
 
-#### #### Is holiday eating prediabetes working adults different from general healthy eating advice?  
+#### Is holiday eating prediabetes working adults different from general healthy eating advice?  
 Yes—because it accounts for real-world constraints: unpredictable schedules, limited kitchen access, and cognitive load from demanding roles. General advice often assumes time for cooking or quiet meals; this approach prioritizes speed, portability, and minimal prep. It also emphasizes *timing* (e.g., avoiding late-night snacking) and *stress-aware eating*, both critical for adults whose cortisol rhythms may already be dysregulated.
 
-#### #### Can prediabetes be reversed during the holidays?  
+#### Can prediabetes be reversed during the holidays?  
 While full reversal typically takes 3–6 months of consistent habits, the holidays *are* a powerful window to build momentum. Small, sustainable changes—like eating breakfast within 1 hour of waking, walking for 10 minutes after dinner, or swapping soda for sparkling water—can improve insulin sensitivity measurably in just 2–4 weeks. Reversal is possible, and the habits you start now form the foundation.
 
-#### #### Do I need to track calories or carbs to manage prediabetes during the holidays?  
+#### Do I need to track calories or carbs to manage prediabetes during the holidays?  
 No. Evidence shows that focusing on food *quality*, *timing*, and *consistency* yields better outcomes than tracking—especially for busy adults. Prioritizing protein, fiber, and healthy fats at each meal regulates appetite and glucose more effectively than calorie targets. In fact, 78% of adults in a 2022 ADA behavioral trial who used visual portion cues (like the palm-and-fist method) achieved greater A1C reduction than those using apps to log every bite.

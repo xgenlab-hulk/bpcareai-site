@@ -90,22 +90,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does magnesium L-threonate nocturnal bp improvement happen quickly?
+#### Does magnesium L-threonate nocturnal bp improvement happen quickly?
 
 Most studies report measurable changes in nocturnal dipping after 8–12 weeks of daily 200 mg supplementation. Effects tend to build gradually as CSF magnesium levels stabilize—so consistency matters more than speed.
 
-#### #### Is magnesium L-threonate better than other forms for nocturnal BP?
+#### Is magnesium L-threonate better than other forms for nocturnal BP?
 
 Yes—because of its unique ability to raise magnesium in the brain and cerebrospinal fluid. Oxide and citrate improve serum magnesium but do not significantly cross the blood-brain barrier. Early evidence suggests this brain-penetrant property may influence central autonomic regulation relevant to nocturnal BP.
 
-#### #### Can magnesium L-threonate lower BP too much at night?
+#### Can magnesium L-threonate lower BP too much at night?
 
 In clinical trials involving adults 66–80, 200 mg/day of magnesium L-threonate has not been associated with excessive dipping (<20%) or symptomatic hypotension. That said, if you’re already on multiple antihypertensive medications—or experience lightheadedness when rising at night—discuss timing and dosage with your provider.
 
-#### #### What’s the difference between nocturnal BP dipping and “morning surge”?
+#### What’s the difference between nocturnal BP dipping and “morning surge”?
 
 Nocturnal dipping refers to the healthy 10–20% BP drop during sleep; morning surge is the natural rise in BP within 2 hours of waking. Both reflect autonomic flexibility—but non-dipping often coincides with exaggerated morning surges, increasing stroke risk. Supporting balanced magnesium status may benefit both patterns.
 
-#### #### Do I need a prescription for magnesium L-threonate?
+#### Do I need a prescription for magnesium L-threonate?
 
 No—magnesium L-threonate is available over-the-counter as a dietary supplement. However, because it interacts with certain medications (e.g., bisphosphonates, antibiotics like tetracyclines), and because optimal dosing depends on individual health status, consulting your physician or pharmacist before starting is recommended—especially if you have kidney concerns or take BP-lowering drugs.

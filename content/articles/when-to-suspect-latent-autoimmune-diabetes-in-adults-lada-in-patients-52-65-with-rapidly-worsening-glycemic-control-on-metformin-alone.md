@@ -100,22 +100,22 @@ Learning that your diabetes may have an autoimmune component doesn’t mean thin
 
 ### FAQ
 
-#### #### What are the early signs of LADA in adults over 50?
+#### What are the early signs of LADA in adults over 50?
 
 Early signs include gradual but noticeable worsening of blood sugar control on metformin alone, normal or low BMI (<25), absence of strong metabolic syndrome features (like high triglycerides or hypertension), and possibly mild fatigue or recurrent infections. Unlike classic type 2, weight gain isn’t typical—and symptoms may emerge quietly over 6–18 months.
 
-#### #### How is LADA diagnosis in middle-aged adults different from type 2 diabetes?
+#### How is LADA diagnosis in middle-aged adults different from type 2 diabetes?
 
 LADA involves autoimmune beta-cell loss, while type 2 diabetes primarily involves insulin resistance and relative insulin deficiency. People with LADA often respond less well to insulin-stimulating drugs (like sulfonylureas) and tend to progress to insulin dependence faster—yet they rarely develop ketoacidosis early on. Antibody testing (GAD65) and C-peptide assessment help tell them apart.
 
-#### #### Can LADA diagnosis in middle-aged adults be missed?
+#### Can LADA diagnosis in middle-aged adults be missed?
 
 Yes—frequently. Because LADA shares features with both type 1 and type 2, and because antibody testing isn’t routine in initial diabetes workups, many people live with a misclassification for 1–3 years. That’s why persistent glycemic drift on metformin—especially in lean adults—is a key prompt for reconsideration.
 
-#### #### Is insulin always needed right away with LADA?
+#### Is insulin always needed right away with LADA?
 
 Not always—but early, low-dose basal insulin (like glargine or detemir) is often recommended once beta-cell decline is confirmed or strongly suspected. It reduces glucose toxicity, eases demand on remaining beta cells, and supports better long-term C-peptide preservation. Starting insulin isn’t failure—it’s protective.
 
-#### #### Does family history matter in LADA?
+#### Does family history matter in LADA?
 
 Family history of *autoimmune* conditions (e.g., Hashimoto’s, lupus, celiac) is more relevant than family history of type 2 diabetes. However, having a first-degree relative with type 1 diabetes does increase LADA risk slightly—suggesting shared genetic susceptibility in some cases.

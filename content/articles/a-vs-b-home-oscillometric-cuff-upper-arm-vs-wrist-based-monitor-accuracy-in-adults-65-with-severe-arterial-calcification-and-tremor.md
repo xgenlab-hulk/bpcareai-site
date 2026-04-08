@@ -71,22 +71,22 @@ Getting reliable numbers doesn’t require perfect health — just the right too
 
 ### FAQ
 
-#### #### Does arterial calcification affect wrist blood pressure cuff accuracy more than upper-arm cuffs?
+#### Does arterial calcification affect wrist blood pressure cuff accuracy more than upper-arm cuffs?
 
 Yes — significantly. Medial calcification stiffens arteries near the wrist (radial artery), weakening oscillometric signals during diastolic decay. Wrist monitors rely heavily on those late-phase pulses, leading to larger errors (often +5 to +12 mm Hg systolic) compared to upper-arm cuffs, where brachial arteries are less affected and signal detection is more robust.
 
-#### #### How does blood pressure cuff accuracy arterial calcification impact treatment decisions?
+#### How does blood pressure cuff accuracy arterial calcification impact treatment decisions?
 
 Poor accuracy can lead to under- or over-treatment. For example, falsely elevated wrist readings might prompt unnecessary medication increases, raising fall or dizziness risk in seniors. Conversely, underestimated diastolic values could mask uncontrolled hypertension. Validated upper-arm devices reduce this risk — supporting safer, more personalized care.
 
-#### #### Can essential tremor cause false high blood pressure readings?
+#### Can essential tremor cause false high blood pressure readings?
 
 Tremor itself doesn’t raise BP — but it *can* interfere with measurement, especially at the wrist. Motion artifacts may cause the device to misread oscillations, often resulting in invalid readings or falsely high systolic values. Upper-arm cuffs are far less sensitive to hand movement, making them more dependable for people with tremor.
 
-#### #### What’s the best cuff size for seniors with thick arms and arterial calcification?
+#### What’s the best cuff size for seniors with thick arms and arterial calcification?
 
 Measure your upper arm circumference. If it’s 35–44 cm, you likely need a “large adult” cuff (usually labeled 32–42 cm or 35–44 cm depending on brand). Using too small a cuff inflates readings; too large may under-read. When in doubt, ask your clinic to double-check your fit — it takes 60 seconds and makes a measurable difference.
 
-#### #### Are finger blood pressure monitors reliable for older adults with calcification?
+#### Are finger blood pressure monitors reliable for older adults with calcification?
 
 No — finger monitors are not recommended for clinical use in adults over 65. They’re highly sensitive to temperature, positioning, and arterial stiffness, with validation studies showing error margins exceeding ±15 mm Hg in older populations. Stick with upper-arm oscillometric devices cleared for home use in seniors.

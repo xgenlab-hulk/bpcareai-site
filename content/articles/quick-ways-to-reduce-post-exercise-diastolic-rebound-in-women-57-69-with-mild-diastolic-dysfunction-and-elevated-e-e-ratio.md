@@ -95,22 +95,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What causes post-exercise diastolic rebound diastolic dysfunction in women over 55?
+#### What causes post-exercise diastolic rebound diastolic dysfunction in women over 55?
 
 Post-exercise diastolic rebound diastolic dysfunction often arises from age-related stiffening of the left ventricle, combined with reduced vagal tone and slower baroreflex sensitivity — all common in women after menopause. It’s frequently amplified by longstanding, even well-controlled, hypertension or increased abdominal fat. Importantly, it reflects *how* the heart and vessels respond to activity cessation — not necessarily disease progression.
 
-#### #### Is post-exercise diastolic rebound diastolic dysfunction dangerous?
+#### Is post-exercise diastolic rebound diastolic dysfunction dangerous?
 
 In mild cases, it’s not immediately dangerous — but it *is* clinically meaningful. Repeated diastolic surges may contribute over time to left atrial enlargement or worsening E/e’ ratios. The good news: simple, non-pharmacologic cooldown strategies (like graded positioning and paced breathing) reliably reduce or eliminate this rebound in most women aged 57–69 with early diastolic impairment.
 
-#### #### Can walking or swimming still be safe if I have post-exercise diastolic rebound diastolic dysfunction?
+#### Can walking or swimming still be safe if I have post-exercise diastolic rebound diastolic dysfunction?
 
 Yes — absolutely. Aerobic activity remains highly beneficial for heart health, including diastolic function. The key is *how* you end it. With a consistent 90-second cooldown protocol, most women continue enjoying walking, swimming, and cycling without concern — and often report feeling more energized and less fatigued afterward.
 
-#### #### Does caffeine or salt intake affect post-exercise diastolic rebound?
+#### Does caffeine or salt intake affect post-exercise diastolic rebound?
 
 Yes — both can influence it. High sodium intake (≥2,300 mg/day) may blunt the natural post-exercise dip in diastolic pressure. Similarly, consuming caffeine within 90 minutes of activity can amplify sympathetic tone, potentially worsening rebound. Moderation — and timing — matters more than elimination.
 
-#### #### What’s the difference between diastolic rebound and normal post-exercise BP changes?
+#### What’s the difference between diastolic rebound and normal post-exercise BP changes?
 
 A healthy post-exercise response includes a gradual decline in both systolic and diastolic pressure over 3–5 minutes. Diastolic rebound is defined as a *rise* in the diastolic number — typically ≥5 mm Hg above pre-exercise baseline — occurring within 1–3 minutes after stopping activity. It’s the *direction* and *timing*, not just the absolute number, that signals the need for tailored recovery support.

@@ -56,22 +56,22 @@ Your resting heart rate is one thoughtful piece of your heart-health puzzle — 
 
 ### FAQ
 
-#### #### Is resting heart rate and longevity prediction over 50 scientifically supported?
+#### Is resting heart rate and longevity prediction over 50 scientifically supported?
 
 Yes — multiple longitudinal studies (including the Framingham Heart Study and the HUNT Study) have found associations between higher resting heart rates and increased mortality risk in adults over 50, independent of traditional risk factors. While RHR alone doesn’t *determine* lifespan, it’s considered a useful, noninvasive marker of overall cardiovascular resilience.
 
-#### #### What’s a healthy resting heart rate for someone over 50?
+#### What’s a healthy resting heart rate for someone over 50?
 
 Most healthy adults over 50 have a resting heart rate between 60–100 bpm. Athletes or highly active individuals may see readings as low as 50–60 bpm — which is typically normal and reflects strong heart efficiency. Consistently above 80 bpm warrants discussion with your provider, especially if accompanied by symptoms.
 
-#### #### Does resting heart rate and longevity prediction over 50 apply equally to men and women?
+#### Does resting heart rate and longevity prediction over 50 apply equally to men and women?
 
 Research shows similar patterns across genders, though women tend to have slightly higher average RHRs (by ~3–5 bpm) due to physiological differences like smaller heart size and hormonal influences. Still, the same general thresholds and trends hold true for assessing heart health and longevity potential.
 
-#### #### Can lowering my resting heart rate add years to my life?
+#### Can lowering my resting heart rate add years to my life?
 
 Not directly — but adopting habits that lower an elevated RHR (like regular movement, stress management, and quality sleep) are strongly linked to longer, healthier lives. Think of it as improving the *conditions* that support longevity, not chasing a number.
 
-#### #### Should I worry if my resting heart rate changes slightly day to day?
+#### Should I worry if my resting heart rate changes slightly day to day?
 
 No — minor fluctuations (5–10 bpm) are completely normal and reflect everyday influences like sleep, hydration, and mood. Focus on consistent patterns over time rather than daily variation.

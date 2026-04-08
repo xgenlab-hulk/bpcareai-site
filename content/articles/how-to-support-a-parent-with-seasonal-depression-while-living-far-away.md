@@ -61,22 +61,22 @@ Supporting parent with seasonal depression doesn’t require perfection—it req
 
 ### FAQ
 
-#### #### How can I tell if my elderly parent has seasonal depression—or is it just normal aging?
+#### How can I tell if my elderly parent has seasonal depression—or is it just normal aging?
 
 Seasonal depression in older adults is *not* a normal part of aging. While some slowing of energy or mild sleep changes can occur with age, persistent low motivation, loss of interest in long-standing hobbies, increased tearfulness, or unexplained physical complaints that follow a clear autumn-to-winter pattern warrant evaluation. Unlike typical aging, seasonal depression responds well to targeted interventions—including light therapy, behavioral activation, and sometimes medication.
 
-#### #### What are the best ways to support a parent with seasonal depression when I live in another state?
+#### What are the best ways to support a parent with seasonal depression when I live in another state?
 
 Start with reliable, low-pressure communication: schedule recurring video calls, share photos or voice notes tied to daily routines, and coordinate practical supports like grocery delivery or light-box setup through local services. Partner with their primary care provider to establish a shared care plan—and ask about telehealth mental health visits, which Medicare and most private insurers now cover for depression management.
 
-#### #### Can supporting parent with seasonal depression improve their physical health outcomes too?
+#### Can supporting parent with seasonal depression improve their physical health outcomes too?
 
 Yes—strongly. Emerging research links untreated seasonal mood changes in older adults to elevated inflammatory markers (like IL-6 and CRP), higher systolic blood pressure variability, and increased risk of falls and hospitalization. Addressing mood supports better adherence to medication regimens, improved sleep architecture, and more consistent engagement in physical activity—all of which contribute to cardiovascular and metabolic resilience.
 
-#### #### Is light therapy safe for older adults with macular degeneration or glaucoma?
+#### Is light therapy safe for older adults with macular degeneration or glaucoma?
 
 Most clinically approved light boxes filter out harmful UV wavelengths and pose minimal risk—but anyone with preexisting retinal conditions should consult an ophthalmologist before starting. Alternatives include dawn-simulating alarm clocks (gentler intensity) or increasing natural light exposure through window seating during daytime hours.
 
-#### #### How do I approach the topic without making my parent feel criticized or infantilized?
+#### How do I approach the topic without making my parent feel criticized or infantilized?
 
 Frame your concern around shared values: *“I love our Sunday calls—I’ve noticed how much brighter your face looks when we talk after your morning walk. Would you be open to trying something small together this winter to keep that energy going?”* Focus on collaboration (“What’s worked before?”), not correction. Emphasize choice, dignity, and partnership—not oversight.

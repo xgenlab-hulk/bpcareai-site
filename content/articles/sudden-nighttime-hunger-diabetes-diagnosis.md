@@ -96,22 +96,22 @@ Waking up hungry in the middle of the night isn’t something you have to just �
 
 ### FAQ
 
-#### #### Could sudden nighttime hunger be an early sign of diabetes—even if my daytime blood sugar is normal?
+#### Could sudden nighttime hunger be an early sign of diabetes—even if my daytime blood sugar is normal?
 
 Yes—it *can* be. Some people experience reactive hypoglycemia years before formal diabetes diagnosis, especially if they have insulin resistance or prediabetes. A glucose tolerance test or continuous glucose monitor (CGM) evaluation may reveal hidden patterns. Don’t dismiss nighttime hunger just because morning readings look fine.
 
-#### #### What’s the difference between sudden nighttime hunger diabetes diagnosis and regular “hunger pangs”?
+#### What’s the difference between sudden nighttime hunger diabetes diagnosis and regular “hunger pangs”?
 
 True *sudden nighttime hunger diabetes diagnosis*-related episodes tend to come on rapidly, feel urgent or distressing, and are often paired with other symptoms—sweating, tremor, anxiety, or mental fogginess. Regular hunger pangs are milder, more gradual, and usually resolve with a small, balanced snack.
 
-#### #### Is sudden nighttime hunger more dangerous for older adults with diabetes?
+#### Is sudden nighttime hunger more dangerous for older adults with diabetes?
 
 Yes—because aging reduces symptom awareness (hypoglycemia unawareness), slows drug clearance, and increases fall risk. A single episode of nocturnal hypoglycemia in someone over 70 carries higher risk of confusion, injury, or cardiac stress—making timely recognition and adjustment especially important.
 
-#### #### Can medications *other than* diabetes drugs cause nighttime hunger?
+#### Can medications *other than* diabetes drugs cause nighttime hunger?
 
 Yes—though less commonly. Beta-blockers (e.g., metoprolol), certain antidepressants (like mirtazapine), and even some sleep aids may influence appetite regulation or mask hypoglycemia symptoms. Always review *all* medications—not just diabetes ones—with your provider.
 
-#### #### Does nighttime hunger always mean my blood sugar is low?
+#### Does nighttime hunger always mean my blood sugar is low?
 
 No—not always. While low glucose is a frequent culprit, other contributors include delayed gastric emptying (gastroparesis), cortisol rhythm shifts, sleep fragmentation, or even mild dehydration mistaken for hunger. That’s why testing *at the time of symptoms* matters more than assumptions.

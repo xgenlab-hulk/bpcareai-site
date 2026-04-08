@@ -68,17 +68,17 @@ Heart disease is not an inevitable part of growing older—and neither is declin
 
 ### FAQ
 
-#### #### Do I really need cholesterol screening after age 80?
+#### Do I really need cholesterol screening after age 80?
 Yes—especially if you’re in good overall health and expect to live several more years. Evidence from the 85+ Study and UK Biobank shows LDL cholesterol remains a meaningful predictor of heart events even past age 90. Screening helps inform personalized decisions—not automatic treatment.
 
-#### #### Are statins safe for people over 85?
+#### Are statins safe for people over 85?
 Yes, current research supports the safety of moderate-dose statins in adults up to age 95. Large studies—including pooled analyses of over 170,000 participants—found no increased risk of serious side effects like muscle damage or cognitive changes in older adults.
 
-#### #### What’s the right cholesterol target for someone over 80?
+#### What’s the right cholesterol target for someone over 80?
 There’s no universal number. Goals depend on your overall health, other conditions (like diabetes or kidney disease), and personal priorities. For many, an LDL under 100 mg/dL is reasonable—but some may aim for 115–130 mg/dL if stability and quality of life are top priorities.
 
-#### #### Can high cholesterol cause symptoms in older adults?
+#### Can high cholesterol cause symptoms in older adults?
 Often, no—it’s called “the silent risk.” That’s why screening matters. However, very high levels (LDL > 190 mg/dL) may show up as yellowish deposits around the eyes (xanthelasma) or tendons (xanthomas)—though these are rare. More commonly, uncontrolled cholesterol contributes silently to narrowed arteries over time.
 
-#### #### Is it ever too late to start managing cholesterol?
+#### Is it ever too late to start managing cholesterol?
 No. Research shows starting statin therapy between ages 80–85 is linked to lower 5-year mortality—especially for those with existing heart disease or diabetes. It’s never too late to support your heart with compassion and evidence.

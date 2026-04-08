@@ -61,22 +61,22 @@ Remember: AMD progresses slowly, and even small, consistent changes in eating ha
 
 ### FAQ
 
-#### #### What are the most common macular degeneration dietary warning signs in seniors over 68?
+#### What are the most common macular degeneration dietary warning signs in seniors over 68?
 
 The most common *macular degeneration dietary warning signs* include gradual loss of central detail (like trouble reading fine print), needing brighter light for close tasks, colors appearing less vivid, and straight lines looking wavy. These may reflect declining macular pigment due to low lutein intake or increased oxidative stress from high-AGE holiday foods.
 
-#### #### Can holiday eating really worsen macular degeneration?
+#### Can holiday eating really worsen macular degeneration?
 
 Yes—especially for those with early AMD or drusen. High-saturated-fat meals, frequent high-AGE foods (grilled, roasted, fried), and low intake of leafy greens can accelerate inflammation and oxidative damage in the macula. One study found seniors who ate ≥3 high-AGE meals weekly had 1.7x greater drusen growth over 18 months.
 
-#### #### How do I know if my diet is contributing to macular degeneration dietary warning signs?
+#### How do I know if my diet is contributing to macular degeneration dietary warning signs?
 
 Look for patterns: Are leafy greens missing from most meals? Is most protein coming from processed or heavily browned meats? Do desserts or sauces dominate your plate? Pair those habits with any of the at-home visual changes listed above—and you may be seeing *macular degeneration dietary warning signs* in action.
 
-#### #### Does high blood pressure affect macular degeneration?
+#### Does high blood pressure affect macular degeneration?
 
 Yes—chronic hypertension (especially readings consistently above 140/90 mm Hg) damages small retinal vessels and reduces blood flow to the macula. It’s considered a co-risk factor, especially when combined with poor nutrition. Managing both BP *and* diet offers synergistic protection.
 
-#### #### Are supplements helpful for preventing macular degeneration progression?
+#### Are supplements helpful for preventing macular degeneration progression?
 
 For many adults over 60 with intermediate AMD, the AREDS2 formula (vitamins C & E, zinc, copper, lutein, and zeaxanthin) has been shown to reduce progression risk by about 25%. But food-first remains best—supplements support, not replace, a nutrient-rich diet.

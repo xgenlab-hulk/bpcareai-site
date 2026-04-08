@@ -92,22 +92,22 @@ Cardiac amyloidosis used to mean limited options. Today? We have disease-modifyi
 
 ### FAQ
 
-#### #### What are the earliest signs of cardiac amyloidosis in older men?
+#### What are the earliest signs of cardiac amyloidosis in older men?
 
 The earliest signs are often subtle and easy to miss: unexplained fatigue that doesn’t lift with rest, bilateral carpal tunnel syndrome (especially if treated surgically), low-voltage ECG, and orthostatic lightheadedness. Many men also report gastrointestinal changes—like early satiety or alternating constipation and diarrhea—due to autonomic nerve involvement.
 
-#### #### How common is cardiac amyloidosis diagnosis low-voltage ecg older men?
+#### How common is cardiac amyloidosis diagnosis low-voltage ecg older men?
 
 It’s more common than many realize. Among men over 75 with low-voltage ECG *plus* bilateral carpal tunnel, studies suggest up to 30–40% will be diagnosed with wild-type ATTR cardiac amyloidosis within 2–4 years—if actively evaluated. Yet fewer than 10% undergo targeted testing—highlighting a major gap in early detection.
 
-#### #### Can you have cardiac amyloidosis with a normal echocardiogram?
+#### Can you have cardiac amyloidosis with a normal echocardiogram?
 
 Yes—absolutely. Up to 40% of patients with biopsy-confirmed cardiac amyloidosis have a structurally normal echocardiogram early in the disease. Standard echo measures size and motion, not tissue composition. That’s why low-voltage ECG, clinical history, and specialized imaging (like bone-avid tracer scans) are essential when suspicion is high.
 
-#### #### Is carpal tunnel syndrome always linked to heart problems in older men?
+#### Is carpal tunnel syndrome always linked to heart problems in older men?
 
 Not always—but bilateral carpal tunnel in men over 70 warrants attention. While most cases are mechanical, recurrent or bilateral symptoms—especially with no clear occupational cause—are associated with systemic amyloid deposition. In fact, carpal tunnel release is now considered a potential “sentinel event” for future cardiac amyloidosis evaluation.
 
-#### #### What’s the best test after a low-voltage ECG in an older man?
+#### What’s the best test after a low-voltage ECG in an older man?
 
 After confirming the ECG finding and reviewing symptoms, the next best step is serum free light chain (FLC) testing to rule out AL amyloidosis. If FLC is normal, a bone-avid tracer scan (e.g., Tc-99m PYP) is the most accurate, non-invasive way to confirm ATTR cardiac amyloidosis—without needing a heart biopsy.

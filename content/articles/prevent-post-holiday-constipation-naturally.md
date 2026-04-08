@@ -58,17 +58,17 @@ In closing, supporting your digestive rhythm doesn’t require drastic changes. 
 
 ### FAQ
 
-#### #### How can I prevent post-holiday constipation naturally without laxatives?
+#### How can I prevent post-holiday constipation naturally without laxatives?
 You can prevent post-holiday constipation naturally by aligning fiber, warm herbal broths (ginger, fennel, peppermint), and gentle abdominal massage with your body’s natural motilin rhythm—peaking mid-morning and midafternoon—and tracking hydration via daily scale weight.
 
-#### #### What are the best natural ways to prevent post-holiday constipation for seniors?
+#### What are the best natural ways to prevent post-holiday constipation for seniors?
 The best natural ways include timed herb-infused broth sipping (every 90 min during motilin peaks), pairing each gram of fiber with 150 mL warm fluid, and 3–5 minutes of clockwise abdominal massage 20 minutes after your midafternoon sip—plus daily weight checks to guide hydration.
 
-#### #### Does drinking more water alone prevent post-holiday constipation naturally?
+#### Does drinking more water alone prevent post-holiday constipation naturally?
 Not always—especially for older adults. Water must be consumed *with* fiber and *timed* near motilin peaks to effectively soften stool and stimulate propulsion. Without fiber and rhythm, extra water may simply be excreted without improving transit.
 
-#### #### Can abdominal massage really help prevent post-holiday constipation naturally?
+#### Can abdominal massage really help prevent post-holiday constipation naturally?
 Yes—when performed gently in a clockwise direction over the colon for 3–5 minutes, 20 minutes after a timed broth sip, it enhances parasympathetic signaling and has been shown in pilot data to improve stool consistency and urge sensation in 68% of participants over 7 days.
 
-#### #### Is it safe to use ginger, fennel, and peppermint herbs daily for constipation support?
+#### Is it safe to use ginger, fennel, and peppermint herbs daily for constipation support?
 These herbs are generally recognized as safe (GRAS) by the FDA for culinary and short-term digestive support. However, consult your pharmacist if you take anticoagulants (ginger may interact) or have GERD (peppermint may relax the lower esophageal sphincter).

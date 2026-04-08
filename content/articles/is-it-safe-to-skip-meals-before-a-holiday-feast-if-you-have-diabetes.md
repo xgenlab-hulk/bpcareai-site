@@ -80,17 +80,17 @@ Managing blood sugar during Christmas and New Year doesn’t mean sacrificing jo
 
 ### FAQ
 
-#### #### Can skipping meals before a holiday feast cause low blood sugar in people with diabetes?
+#### Can skipping meals before a holiday feast cause low blood sugar in people with diabetes?
 Yes—especially for those taking insulin or sulfonylureas. Skipping meals disrupts the balance between medication action and food intake, raising the risk of hypoglycemia. Older adults are particularly vulnerable due to slower metabolism, reduced kidney function, and diminished symptom awareness.
 
-#### #### Is skipping meals before holiday feast diabetes ever recommended?
+#### Is skipping meals before holiday feast diabetes ever recommended?
 No—not without explicit guidance from your diabetes care team. Fasting or meal-skipping is not part of standard diabetes management for older adults on glucose-lowering medications. Intermittent fasting protocols (e.g., 16:8) lack sufficient safety data for this population and are generally discouraged unless closely supervised in clinical settings.
 
-#### #### What’s a safer alternative to skipping meals before holiday feast diabetes?
+#### What’s a safer alternative to skipping meals before holiday feast diabetes?
 Eat consistent, balanced meals throughout the day—adjusting portion sizes and carb distribution instead of omitting meals entirely. For example, enjoy a lighter lunch with extra protein and non-starchy vegetables, then savor your holiday dinner mindfully. Pre-bolusing insulin (if appropriate) and checking glucose before and 2 hours after the meal also support safer outcomes.
 
-#### #### How does alcohol affect blood sugar when skipping meals before a holiday feast?
+#### How does alcohol affect blood sugar when skipping meals before a holiday feast?
 Alcohol inhibits the liver’s ability to produce glucose, increasing the risk of delayed hypoglycemia—especially when consumed without food. This risk compounds when combined with skipped meals and insulin or sulfonylureas. Always consume alcohol with food, monitor closely, and avoid drinking on an empty stomach.
 
-#### #### Should I check my blood sugar more often during the holidays?
+#### Should I check my blood sugar more often during the holidays?
 Yes. Checking before meals, 2 hours after eating, and at bedtime helps detect patterns and prevent extremes. If you use a continuous glucose monitor (CGM), review trends daily—even brief dips or spikes offer valuable insights for adjusting future plans.

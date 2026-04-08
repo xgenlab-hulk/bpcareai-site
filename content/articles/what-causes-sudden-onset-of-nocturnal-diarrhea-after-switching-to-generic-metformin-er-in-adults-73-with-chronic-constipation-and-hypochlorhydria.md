@@ -78,22 +78,22 @@ Experiencing *generic metformin er nocturnal diarrhea seniors* doesn’t mean yo
 
 ### FAQ
 
-#### #### Why does generic metformin ER cause nighttime diarrhea in older adults?
+#### Why does generic metformin ER cause nighttime diarrhea in older adults?
 
 Generic metformin ER formulations vary in excipients—like lactose or certain cellulose derivatives—that create osmotic pressure in the colon. In seniors with slower gut transit and low stomach acid, these ingredients trigger fluid shifts and secretory diarrhea, often peaking at night due to circadian motilin rhythms.
 
-#### #### Is generic metformin er nocturnal diarrhea seniors a sign of something serious?
+#### Is generic metformin er nocturnal diarrhea seniors a sign of something serious?
 
 Usually not. While alarming, this pattern is most often linked to formulation differences—not infection, cancer, or worsening diabetes. However, persistent symptoms warrant evaluation to rule out other causes like *C. difficile*, microscopic colitis, or pancreatic insufficiency.
 
-#### #### Can switching back to brand-name metformin ER stop generic metformin er nocturnal diarrhea seniors?
+#### Can switching back to brand-name metformin ER stop generic metformin er nocturnal diarrhea seniors?
 
 Yes—in clinical observation, ~70% of affected seniors report resolution within 3–5 days of returning to Glucophage XR. The brand uses a proprietary hydrophilic polymer matrix less prone to pH-dependent variability.
 
-#### #### Does low stomach acid make metformin side effects worse?
+#### Does low stomach acid make metformin side effects worse?
 
 Absolutely. Hypochlorhydria delays gastric emptying and alters the microenvironment where ER coatings dissolve. This increases the chance of erratic drug release—raising risks for both GI upset and variable glucose-lowering effects.
 
-#### #### Are there safer extended-release diabetes medications for seniors with constipation and low stomach acid?
+#### Are there safer extended-release diabetes medications for seniors with constipation and low stomach acid?
 
 Yes—options like extended-release sulfonylureas (e.g., glipizide ER) or DPP-4 inhibitors (e.g., sitagliptin) lack osmotic excipients and don’t rely on pH-sensitive release. Discuss alternatives with your prescriber, especially if GI symptoms persist.

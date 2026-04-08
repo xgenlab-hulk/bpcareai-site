@@ -79,22 +79,22 @@ In time, small, steady habits build real resilience. Your body has remarkable ca
 
 ### FAQ
 
-#### #### What is post-exercise blood pressure recovery metabolic syndrome—and why does it matter?
+#### What is post-exercise blood pressure recovery metabolic syndrome—and why does it matter?
 
 It refers to the speed and pattern with which your blood pressure returns to resting levels after physical activity, particularly in the context of metabolic syndrome. Slower recovery reflects reduced autonomic flexibility and is linked to increased cardiovascular risk—but it’s also highly modifiable with lifestyle support.
 
-#### #### How long should blood pressure take to recover after exercise in someone with metabolic syndrome?
+#### How long should blood pressure take to recover after exercise in someone with metabolic syndrome?
 
 For most adults 60+ with metabolic syndrome and early diastolic changes, a healthy target is systolic BP dropping ≥10 mm Hg within 2 minutes and returning near baseline (<5 mm Hg difference) by 10 minutes. Delays beyond this warrant discussion with your clinician—but don’t panic. Patterns matter more than one-off numbers.
 
-#### #### Can post-exercise blood pressure recovery metabolic syndrome improve with lifestyle changes alone?
+#### Can post-exercise blood pressure recovery metabolic syndrome improve with lifestyle changes alone?
 
 Yes—especially with consistent low-intensity movement, paced breathing, hydration, and mindful recovery pauses. Research shows improvements in recovery time within 8–12 weeks of structured, gentle interventions—even without weight loss.
 
-#### #### Is post-exercise blood pressure recovery different for people with diastolic dysfunction?
+#### Is post-exercise blood pressure recovery different for people with diastolic dysfunction?
 
 Yes. Subclinical diastolic impairment reduces ventricular compliance, increasing reliance on precise autonomic balance. This makes recovery slower and more sensitive to factors like sodium intake, sleep, and emotional stress—so holistic support yields outsized benefits.
 
-#### #### Should I stop exercising if my post-exercise blood pressure stays high?
+#### Should I stop exercising if my post-exercise blood pressure stays high?
 
 No—unless advised by your doctor. Instead, modify intensity and prioritize recovery structure: shorter bouts, seated options, and intentional breathing. Movement remains protective; it’s the *how* and *when* that often needs fine-tuning.

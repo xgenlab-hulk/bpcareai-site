@@ -94,22 +94,22 @@ Understanding *nsaid prostaglandin e2 hypertension* isn’t about adding worry�
 
 ### FAQ
 
-#### #### Can long-term ibuprofen use raise blood pressure even if my kidney tests are normal?
+#### Can long-term ibuprofen use raise blood pressure even if my kidney tests are normal?
 
 Yes—especially in adults over 60. Ibuprofen reduces renal prostaglandin E2 production, leading to sodium retention and mild vasoconstriction. This often raises BP *before* eGFR declines, which is why normal lab values don’t guarantee full functional stability.
 
-#### #### What is nsaid prostaglandin e2 hypertension—and is it reversible?
+#### What is nsaid prostaglandin e2 hypertension—and is it reversible?
 
 *NSAID prostaglandin e2 hypertension* describes the blood pressure elevation caused by NSAID-induced suppression of kidney-derived PGE2, resulting in sodium retention and reduced renal blood flow. Yes—it’s typically reversible within weeks of discontinuing NSAIDs (under guidance) and often improves with alternative pain strategies.
 
-#### #### Are there safe pain relievers for people with hypertension and normal eGFR?
+#### Are there safe pain relievers for people with hypertension and normal eGFR?
 
 Yes. Acetaminophen (≤3 g/day), topical NSAIDs, duloxetine (for neuropathic or musculoskeletal pain), and non-drug approaches like physical therapy and heat therapy have strong safety data in older adults with hypertension and preserved kidney function.
 
-#### #### Does naproxen affect blood pressure more than other NSAIDs?
+#### Does naproxen affect blood pressure more than other NSAIDs?
 
 Naproxen has a longer half-life (~14 hours) and may sustain COX-2 inhibition longer than ibuprofen (~2 hours), potentially increasing the window for sodium retention. However, individual responses vary—and dose, frequency, and co-medications matter more than the specific NSAID alone.
 
-#### #### Can I take NSAIDs safely if I’m on blood pressure medication?
+#### Can I take NSAIDs safely if I’m on blood pressure medication?
 
 It depends on your regimen and health status. NSAIDs can blunt the effect of diuretics and ACE/ARB medications—and increase cardiovascular risk when combined. If needed, use the lowest dose, shortest duration, and discuss timing with your prescriber. Regular BP monitoring is key.

@@ -90,17 +90,17 @@ Holidays are about connection—not compromise. Knowing what your body responds 
 
 ### FAQ
 
-#### #### Is holiday ham safe for seniors with high blood pressure?
+#### Is holiday ham safe for seniors with high blood pressure?
 Yes—with precautions. Traditional ham is high in sodium, which can raise arterial pressure. Seniors with hypertension (BP ≥ 130/80 mm Hg) should limit portions to 2 oz, choose lower-sodium options when possible, and monitor BP before and 2–4 hours after eating. Consistent spikes >10 mm Hg systolic warrant a conversation with your care team.
 
-#### #### What are the signs of nitrate sensitivity in older adults?
+#### What are the signs of nitrate sensitivity in older adults?
 Common signs include headache (often frontal or throbbing), facial flushing, mild dizziness, or fatigue appearing 30–120 minutes after eating cured meats. Unlike allergic reactions, there’s no rash or throat swelling—but symptoms can interfere with daily function. If patterns repeat, consider a 2-week elimination trial followed by reintroduction.
 
-#### #### How does kidney function affect holiday ham safety over 65?
+#### How does kidney function affect holiday ham safety over 65?
 Reduced renal clearance means sodium, phosphorus, and potassium from ham stay in circulation longer. This can contribute to fluid retention, elevated BP, or increased workload on already-stressed kidneys. If your eGFR is <60 mL/min/1.73m² or you have proteinuria, work with a dietitian to personalize safe intake levels.
 
-#### #### Can sulfites in ham cause problems even if I’ve never had allergies?
+#### Can sulfites in ham cause problems even if I’ve never had allergies?
 Absolutely. Sulfite sensitivity can develop later in life and doesn’t require prior allergic history. Symptoms are often subtle: nasal congestion, mild wheezing, or stomach discomfort—not hives or anaphylaxis. Because sulfites aren’t required to be labeled on all meat products, check ingredient lists carefully for sodium bisulfite, potassium metabisulfite, or sulfur dioxide.
 
-#### #### Does “uncured” ham mean it’s safer for seniors?
+#### Does “uncured” ham mean it’s safer for seniors?
 Not automatically. “Uncured” usually means no *added* synthetic nitrates/nitrites—but it may still contain naturally occurring nitrates (from celery powder) and added salt or sulfites. Always read the full ingredient list and nutrition facts—not just the front-of-package claim.

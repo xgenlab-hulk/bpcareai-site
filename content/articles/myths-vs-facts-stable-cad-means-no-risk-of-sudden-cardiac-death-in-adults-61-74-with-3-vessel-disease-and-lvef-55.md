@@ -69,22 +69,22 @@ While no one can eliminate all risk, understanding your unique profile empowers 
 
 ### FAQ
 
-#### #### Does “stable CAD” mean I’m safe from sudden cardiac death?
+#### Does “stable CAD” mean I’m safe from sudden cardiac death?
 
 Not necessarily. “Stable CAD” reflects symptom control—not absence of electrical or structural vulnerability. Adults 61–74 with 3-vessel disease and LVEF >55% still carry measurable *stable CAD sudden cardiac death risk*, particularly if other risk markers (like fibrosis or arrhythmia) are present.
 
-#### #### What is the 5-year sudden cardiac death risk for someone with stable CAD and 3-vessel disease?
+#### What is the 5-year sudden cardiac death risk for someone with stable CAD and 3-vessel disease?
 
 Among adults 61–74 with multivessel CAD and preserved LVEF, 5-year SCD risk ranges from 3–8%—higher than the general population and highly variable based on fibrosis, arrhythmia history, and biomarkers. Risk calculators help personalize this estimate.
 
-#### #### Can stable CAD sudden cardiac death risk be reduced with lifestyle changes?
+#### Can stable CAD sudden cardiac death risk be reduced with lifestyle changes?
 
 Yes—consistently managing BP, staying active, eating heart-healthy foods, and avoiding smoking all lower overall cardiovascular risk—including *stable CAD sudden cardiac death risk*. These steps support plaque stability and electrical resilience.
 
-#### #### Is an ejection fraction over 55% enough to rule out sudden cardiac death risk?
+#### Is an ejection fraction over 55% enough to rule out sudden cardiac death risk?
 
 No. LVEF measures pumping strength but not electrical stability or scar burden. Up to 40% of SCD cases occur in people with LVEF >50%. Additional testing (e.g., cardiac MRI, Holter monitoring) offers deeper insight.
 
-#### #### Do I need an ICD if my CAD is stable and my heart pumps well?
+#### Do I need an ICD if my CAD is stable and my heart pumps well?
 
 Most people with stable CAD and LVEF >55% do *not* need an ICD—but certain high-risk features (e.g., inducible ventricular tachycardia, significant fibrosis, or prior syncope) may warrant discussion. Shared decision-making with your electrophysiologist is key.

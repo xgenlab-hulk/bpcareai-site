@@ -89,17 +89,17 @@ Understanding **blood pressure raising medication interactions seniors** isn’t
 
 ### FAQ  
 
-#### #### Can over-the-counter cold medicines raise blood pressure in seniors?  
+#### Can over-the-counter cold medicines raise blood pressure in seniors?  
 Yes—especially oral decongestants like pseudoephedrine and phenylephrine. They activate alpha-1 adrenergic receptors, causing vasoconstriction and increasing systolic BP by 10–20 mm Hg in adults over 70. Nasal sprays (e.g., oxymetazoline) carry similar risks with repeated use and can worsen rebound congestion and hypertension.
 
-#### #### What are the most common blood pressure raising medication interactions seniors should watch for?  
+#### What are the most common blood pressure raising medication interactions seniors should watch for?  
 The top three clinically significant interactions include: (1) NSAIDs + ACE inhibitors/ARBs (reduces antihypertensive effect and promotes fluid retention), (2) SSRIs/SNRIs + decongestants (synergistic norepinephrine elevation), and (3) TCAs + anticholinergic sleep aids (increased cardiac output and peripheral resistance). Each is underrecognized in routine care but highly modifiable.
 
-#### #### Do herbal supplements interact with blood pressure medications?  
+#### Do herbal supplements interact with blood pressure medications?  
 Yes—several do. Licorice root (glycyrrhizin) inhibits 11-beta-HSD2, leading to cortisol-induced mineralocorticoid excess and sodium retention. Ginseng may potentiate sympathomimetic effects, while yohimbe directly stimulates alpha-2 adrenergic receptors. Always disclose supplement use during medication reviews.
 
-#### #### How often should seniors check their blood pressure if taking multiple medications?  
+#### How often should seniors check their blood pressure if taking multiple medications?  
 We recommend twice-daily readings (morning and evening) for one week before each follow-up appointment—and anytime starting, stopping, or adjusting a medication known to affect BP. Consistent tracking helps distinguish true hypertension progression from medication-induced fluctuations.
 
-#### #### Can kidney function changes cause blood pressure to rise unexpectedly?  
+#### Can kidney function changes cause blood pressure to rise unexpectedly?  
 Absolutely. As glomerular filtration rate (eGFR) declines—even into the “normal-low” range (60–89 mL/min/1.73m²)—the kidneys retain more sodium and activate RAAS more readily. This, combined with slower drug clearance, makes seniors uniquely susceptible to BP elevations from otherwise routine medications. Monitoring eGFR annually is strongly advised.

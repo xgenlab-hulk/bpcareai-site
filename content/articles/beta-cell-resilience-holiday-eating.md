@@ -91,22 +91,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can beta-cell resilience holiday eating really help if I’m already on metformin?
+#### Can beta-cell resilience holiday eating really help if I’m already on metformin?
 
 Yes—metformin improves insulin sensitivity but doesn’t directly protect beta cells from ER stress or oxidative damage. These lifestyle strategies target complementary pathways (e.g., Nrf2 activation, vagal tone, chaperone protein expression), and early data suggest additive benefits. Always discuss timing with your prescriber, especially around dosing.
 
-#### #### How soon might I notice changes with beta-cell resilience holiday eating?
+#### How soon might I notice changes with beta-cell resilience holiday eating?
 
 Most people report improved energy stability and reduced post-meal sluggishness within 7–10 days. Glucose tracking may show modest improvements (e.g., 10–20 mg/dL lower 90-min postprandial values) by week 2–3. Consistency matters more than dramatic change.
 
-#### #### Is cold face immersion safe for someone with high blood pressure or atrial fibrillation?
+#### Is cold face immersion safe for someone with high blood pressure or atrial fibrillation?
 
 For most adults with well-controlled hypertension (<140/90 mm Hg), yes—cold face immersion is brief and vagally mediated (it *lowers* heart rate). However, if you have uncontrolled BP, recent cardiac events, or documented arrhythmia like AFib, consult your cardiologist first. A gentler alternative is holding a cold, damp washcloth to your face for 60 seconds.
 
-#### #### Do I need special equipment for the breath-hold protocol?
+#### Do I need special equipment for the breath-hold protocol?
 
 No. A timer on your phone or watch is all you need. The goal isn’t duration—it’s learning to recognize your body’s natural CO₂ signal. Start conservatively (even 15–20 seconds), and never push through discomfort or lightheadedness.
 
-#### #### Can I use these strategies year-round—not just during holidays?
+#### Can I use these strategies year-round—not just during holidays?
 
 Absolutely. In fact, many people find them easiest to adopt during the holidays because the structure (e.g., “before dinner”) creates routine—and the motivation is high. Once integrated, they become gentle anchors for everyday metabolic wellness.

@@ -47,17 +47,17 @@ In summary, cold face immersion for blood pressure is a promising, low-cost adju
 
 ### FAQ
 
-#### #### Does cold face immersion for blood pressure work for everyone?
+#### Does cold face immersion for blood pressure work for everyone?
 No — effectiveness varies by age, baseline autonomic function, and vascular health. It tends to produce clearer acute reductions in central aortic pressure among men 62–78 with high augmentation index, but minimal effect in those with very low vagal tone or advanced arterial calcification.
 
-#### #### How often should I do cold face immersion for blood pressure?
+#### How often should I do cold face immersion for blood pressure?
 Most research protocols use 1–3 sessions daily, each lasting 20–30 seconds. Consistency matters more than duration — daily practice for 4–6 weeks may yield modest cumulative improvements in HRV and AIx, though long-term BP effects remain under study.
 
-#### #### Is cold face immersion for blood pressure safe if I take beta-blockers?
+#### Is cold face immersion for blood pressure safe if I take beta-blockers?
 Generally yes — but because beta-blockers already suppress sympathetic drive, added vagal activation may cause excessive heart rate slowing in some individuals. Monitor HR closely and consult your prescriber before starting.
 
-#### #### Can cold face immersion lower central aortic systolic pressure more than arm BP?
+#### Can cold face immersion lower central aortic systolic pressure more than arm BP?
 Yes — that’s one of its distinguishing features. Studies report greater reductions in central (aortic) systolic pressure (−5 to −12 mm Hg) versus peripheral (brachial) readings (often −0 to −4 mm Hg), underscoring its value for assessing wave reflection and ventricular load.
 
-#### #### What’s the difference between augmentation index and pulse wave velocity?
+#### What’s the difference between augmentation index and pulse wave velocity?
 Augmentation index (AIx) reflects how much reflected pressure waves boost central systolic pressure during late systole — expressed as a percentage (normal <25% in healthy 60-year-olds). Pulse wave velocity (PWV) directly measures arterial stiffness in m/sec (normal <10 m/sec); both are complementary markers of vascular aging.

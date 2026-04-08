@@ -71,17 +71,17 @@ In short, **non-dipping blood pressure aging** is a signal worth listening to �
 
 ### FAQ
 
-#### #### What does “non-dipping blood pressure aging” mean?
+#### What does “non-dipping blood pressure aging” mean?
 It refers to the gradual loss of the normal nighttime drop in blood pressure that commonly occurs with advancing age — especially after 65. Instead of dipping 10–20%, BP stays flat or even rises overnight, reflecting changes in autonomic nervous system function and cardiac structure.
 
-#### #### Is non-dipping blood pressure aging dangerous?
+#### Is non-dipping blood pressure aging dangerous?
 Not inherently — but it *is* associated with higher risks. Studies link it to a 20–30% increased risk of stroke and a 2-fold higher risk of developing heart failure over 10 years. It’s a marker — not a disease — but one that deserves attention.
 
-#### #### Can non-dipping blood pressure aging be reversed?
+#### Can non-dipping blood pressure aging be reversed?
 Sometimes — yes. Lifestyle adjustments (like timed medication, improved sleep, and salt reduction) and treating underlying conditions (e.g., sleep apnea or diabetes) can restore dipping in up to 40% of cases, especially when caught early.
 
-#### #### Does everyone over 67 develop non-dipping blood pressure aging?
+#### Does everyone over 67 develop non-dipping blood pressure aging?
 No. While prevalence rises with age — affecting ~30% of people aged 60–69 and ~45% of those over 75 — many healthy older adults still maintain normal dipping. Genetics, fitness level, and lifetime cardiovascular health all influence this.
 
-#### #### How is non-dipping blood pressure aging different from white-coat hypertension?
+#### How is non-dipping blood pressure aging different from white-coat hypertension?
 White-coat hypertension means high BP *only* in clinical settings due to anxiety. Non-dipping is about *timing*: elevated BP specifically at night, regardless of clinic readings — and it’s best detected with 24-hour ABPM, not office visits.

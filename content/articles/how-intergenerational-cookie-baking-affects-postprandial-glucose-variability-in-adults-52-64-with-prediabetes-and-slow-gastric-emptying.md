@@ -86,22 +86,22 @@ Holiday traditions hold deep emotional and cultural value—and they *can* coexi
 
 ### FAQ
 
-#### #### Does baking cookies actually raise blood sugar more than eating them straight from the package?
+#### Does baking cookies actually raise blood sugar more than eating them straight from the package?
 
 Not necessarily—but *how* you bake matters. Tasting raw batter, inhaling aromas, and grazing while baking activates anticipatory insulin responses *before* full ingestion. In adults with slow gastric emptying, this can cause mismatched insulin timing—leading to either delayed hyperglycemia or late hypoglycemia. Packaged cookies eaten all at once produce a more predictable (though still significant) glucose curve.
 
-#### #### Can cookie-baking prediabetes gastric-emptying improve my insulin sensitivity?
+#### Can cookie-baking prediabetes gastric-emptying improve my insulin sensitivity?
 
 Indirectly—yes. When done mindfully (slow chewing, paced tasting, sensory engagement), baking stimulates vagal activity and incretin hormone release (GLP-1, GIP), which support beta-cell function and insulin sensitivity over time. However, rushed or stress-filled baking may trigger cortisol release, counteracting those benefits.
 
-#### #### Is cookie-baking prediabetes gastric-emptying linked to high blood pressure?
+#### Is cookie-baking prediabetes gastric-emptying linked to high blood pressure?
 
 Not directly—but there’s overlap in underlying mechanisms. Both delayed gastric emptying and hypertension are associated with autonomic nervous system imbalance (especially reduced vagal tone) and chronic low-grade inflammation. Adults managing both conditions may notice that calming strategies used during baking—like paced breathing and mindful movement—support arterial pressure stability too.
 
-#### #### What’s the best way to test if I have delayed gastric emptying?
+#### What’s the best way to test if I have delayed gastric emptying?
 
 The most accurate clinical test is gastric emptying scintigraphy. Less accessible but useful alternatives include breath tests (¹³C-octanoic acid) or wireless motility capsule studies. Symptom questionnaires like the Gastroparesis Cardinal Symptom Index (GCSI) can screen—but shouldn’t replace objective testing if symptoms persist.
 
-#### #### Do blood pressure medications affect gastric emptying?
+#### Do blood pressure medications affect gastric emptying?
 
 Some do—particularly opioid analgesics (often used for chronic pain in this age group) and certain antidepressants (e.g., tricyclics). Calcium channel blockers like nifedipine may slightly delay emptying, while others like diltiazem appear neutral. Always discuss GI side effects with your prescriber—not all BP meds impact motility equally.

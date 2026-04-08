@@ -48,22 +48,22 @@ In all this, remember: adaptation is not diminishment. A well-designed **holiday
 
 ### FAQ
 
-#### #### How can I create a holiday meal plan mild cognitive impairment that still feels festive?
+#### How can I create a holiday meal plan mild cognitive impairment that still feels festive?
 
 Focus on familiar foods with sensory upgrades—think cranberry sauce with orange zest and chopped pistachios (color + crunch + aroma) or herb-roasted turkey breast sliced thin for easy handling. Keep the spirit intact by involving your loved one in simple prep steps, like stirring or garnishing, to maintain agency and engagement.
 
-#### #### What are the best texture modifications for a holiday meal plan mild cognitive impairment?
+#### What are the best texture modifications for a holiday meal plan mild cognitive impairment?
 
 Prioritize *bite-sized, fork-tender* proteins (e.g., shredded braised beef, baked cod flakes) and *contrasting textures*—not purees unless medically indicated. Avoid sticky or crumbly items (like dry stuffing or unmoistened mashed potatoes) that increase choking risk or reduce oral satisfaction. Always assess individual tolerance: some prefer smooth, others crave crunch.
 
-#### #### Can flavor amplification help with appetite in mild cognitive impairment?
+#### Can flavor amplification help with appetite in mild cognitive impairment?
 
 Yes—enhancing aroma and umami stimulates salivation and gastric motility, improving early-phase satiety signaling. Clinical trials report ~20% higher caloric intake at meals when meals include ≥3 aroma-rich ingredients (e.g., rosemary, garlic, lemon) versus standard preparation.
 
-#### #### Is it safe to adjust salt and sugar in a holiday meal plan mild cognitive impairment?
+#### Is it safe to adjust salt and sugar in a holiday meal plan mild cognitive impairment?
 
 Yes—with nuance. While sodium restriction remains important for those with hypertension (target <1,500 mg/day if BP ≥140/90 mm Hg), flavor need not suffer. Leverage potassium-rich herbs, vinegar, fermented foods (e.g., sauerkraut), and slow-cooked broths to build depth. Always align changes with your care team, especially if managing heart failure or chronic kidney disease.
 
-#### #### How does a holiday meal plan mild cognitive impairment support long-term brain health?
+#### How does a holiday meal plan mild cognitive impairment support long-term brain health?
 
 Consistent, nutrient-dense, sensorially engaging meals support vascular integrity, reduce neuroinflammation, and promote gut microbiome diversity—all linked to slower cognitive decline. Prioritizing omega-3s (fatty fish), polyphenols (berries, dark leafy greens), and B vitamins (fortified whole grains) within a pleasurable framework yields compounding benefits beyond the holidays.

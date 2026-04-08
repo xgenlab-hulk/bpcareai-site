@@ -68,17 +68,17 @@ In short, staying hydrated during the holidays doesn’t require perfection—ju
 
 ### FAQ  
 
-#### #### What are the earliest dehydration warning signs in seniors winter?  
+#### What are the earliest dehydration warning signs in seniors winter?  
 The earliest signs are often subtle: dry mouth, infrequent urination (less than 4x/day), fatigue that worsens in the afternoon, and mild dizziness when rising. Because thirst sensation declines with age, waiting for thirst means you’re likely already 1–2% dehydrated.
 
-#### #### Can dehydration warning signs in seniors winter mimic other conditions?  
+#### Can dehydration warning signs in seniors winter mimic other conditions?  
 Yes—dehydration can resemble urinary tract infections (UTIs), mild strokes, or even depression. Confusion, irritability, and memory lapses are common and reversible with rehydration. That’s why doctors often check electrolytes and BUN/creatinine ratios before diagnosing cognitive decline.
 
-#### #### How much water should seniors drink during winter holidays?  
+#### How much water should seniors drink during winter holidays?  
 Aim for 1.5–2 liters (about 6–8 glasses) daily—but adjust based on activity, medications, and climate. Those on diuretics or with heart failure may need personalized guidance from their care team.
 
-#### #### Does drinking alcohol increase dehydration risk in older adults?  
+#### Does drinking alcohol increase dehydration risk in older adults?  
 Absolutely. Alcohol suppresses antidiuretic hormone (ADH), increasing urine production. One standard drink can cause the body to excrete up to 4x its volume in water—making older adults especially vulnerable during multi-hour gatherings.
 
-#### #### Are blood pressure changes linked to dehydration in seniors?  
+#### Are blood pressure changes linked to dehydration in seniors?  
 Yes. Dehydration reduces circulating blood volume, which can lower systolic BP—or paradoxically raise it in some individuals due to compensatory vasoconstriction. Sudden drops upon standing (orthostatic hypotension) are especially common and increase fall risk.

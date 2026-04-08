@@ -49,17 +49,17 @@ In conclusion, daily 2000 IU vitamin D3 appears supportive of **vitamin d3 postp
 
 ### FAQ
 
-#### #### Does vitamin D3 improve postprandial insulin sensitivity in older adults with type 2 diabetes?
+#### Does vitamin D3 improve postprandial insulin sensitivity in older adults with type 2 diabetes?
 Yes—particularly in those with documented seasonal deficiency (serum 25(OH)D < 20 ng/mL). Winter RCTs show that 2000 IU/day for 12 weeks improved 2-hour OGTT outcomes by ~12% and enhanced insulin signaling in adipose tissue.
 
-#### #### How does vitamin D3 affect postprandial insulin sensitivity mechanistically?
+#### How does vitamin D3 affect postprandial insulin sensitivity mechanistically?
 Vitamin D3 upregulates vitamin D receptor (VDR) expression in fat tissue, which supports proper phosphorylation of insulin receptor substrate-1 (IRS-1)—a key step that allows insulin to trigger glucose uptake. Low VDR activity is linked to impaired post-meal glucose clearance.
 
-#### #### Is 2000 IU vitamin D3 safe for long-term use in adults 53–69?
+#### Is 2000 IU vitamin D3 safe for long-term use in adults 53–69?
 Yes—for most adults in this age group, 2000 IU/day falls well within the safe upper limit (4000 IU/day) and is commonly used for repletion. However, long-term use should be accompanied by periodic 25(OH)D monitoring (e.g., every 6 months) to avoid excess.
 
-#### #### Can vitamin D3 replace metformin or other glucose-lowering medications?
+#### Can vitamin D3 replace metformin or other glucose-lowering medications?
 No. Vitamin D3 is not a substitute for prescribed diabetes medications. It may serve as a supportive, adjunctive strategy—but never discontinue or adjust medications without consulting your healthcare team.
 
-#### #### What’s the best time of year to test vitamin D for holiday diabetes management?
+#### What’s the best time of year to test vitamin D for holiday diabetes management?
 Late winter (January–February) is ideal—it captures your lowest seasonal level and helps guide supplementation before holiday eating patterns begin. Rechecking in late spring can confirm repletion.

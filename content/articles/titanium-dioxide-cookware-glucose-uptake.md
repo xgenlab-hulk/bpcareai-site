@@ -82,22 +82,22 @@ The good news? You have agency. Thoughtful cookware choices, mindful cooking hab
 
 ### FAQ
 
-#### #### Is titanium dioxide cookware safe for people with diabetes?
+#### Is titanium dioxide cookware safe for people with diabetes?
 
 Current regulatory guidance (FDA, EFSA) considers titanium dioxide *generally recognized as safe* (GRAS) in food-grade applications — but those assessments were based on *ingested pigment*, not *inhaled or ingested nanoparticles from heated cookware*. For adults with diabetes or insulin resistance, minimizing unnecessary nanoparticle exposure aligns with a precautionary, metabolic-resilience approach — especially given emerging data on mitochondrial effects in muscle tissue.
 
-#### #### Can titanium dioxide cookware glucose uptake affect my A1c?
+#### Can titanium dioxide cookware glucose uptake affect my A1c?
 
 No direct human studies show titanium dioxide cookware glucose uptake altering A1c values. However, animal and cell studies suggest TiO₂ NPs may impair insulin-stimulated glucose disposal in skeletal muscle — a key determinant of long-term glycemic control. While unlikely to shift A1c alone, repeated exposure could contribute to subtle declines in glucose tolerance over months or years, particularly when combined with other metabolic stressors.
 
-#### #### Does washing or seasoning titanium dioxide ceramic cookware reduce nanoparticle release?
+#### Does washing or seasoning titanium dioxide ceramic cookware reduce nanoparticle release?
 
 Washing does not reduce inherent nanoparticle release — but proper care *does* slow degradation. Seasoning (e.g., oil-baking) offers no protective effect on TiO₂ coatings (unlike cast iron), and aggressive scrubbing accelerates wear. The best prevention is avoiding scratches and overheating.
 
-#### #### Are there cookware alternatives proven safer for insulin-resistant adults?
+#### Are there cookware alternatives proven safer for insulin-resistant adults?
 
 Yes. Stainless steel (especially 18/10 grade), cast iron, and enameled cast iron have decades of safety data and no known nanoparticle concerns. Glass and ceramic *without* nano-enhanced coatings (e.g., plain stoneware baking dishes) are also excellent options. Look for cookware labeled “no nanoparticles” or verified by independent labs for low leaching at high temperatures.
 
-#### #### How do I know if my ceramic pan contains titanium dioxide nanoparticles?
+#### How do I know if my ceramic pan contains titanium dioxide nanoparticles?
 
 Most manufacturers don’t disclose this — but if the product touts “ultra-nonstick,” “self-cleaning,” “photocatalytic,” or “nano-reinforced ceramic,” it likely contains TiO₂ NPs. Check the brand’s technical documentation or contact customer service directly. Products sold in the EU post-2022 must declare nanomaterials on labels — a helpful clue if imported.

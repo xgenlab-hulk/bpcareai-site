@@ -37,17 +37,17 @@ In time, these small actions become second nature—not because you’re “doin
 
 ### FAQ  
 
-#### #### How can I improve glycemic resilience holiday social events without giving up my favorite foods?  
+#### How can I improve glycemic resilience holiday social events without giving up my favorite foods?  
 You absolutely don’t need to eliminate favorites. Focus instead on *order*, *pace*, and *presence*: eat veggies and protein first, slow your bites with conversation, and breathe intentionally before beginning. Studies show this approach lets people enjoy pumpkin pie or stuffing while maintaining steadier glucose—no swaps required.
 
-#### #### What’s the best way to build glycemic resilience holiday social events when traveling or staying with family?  
+#### What’s the best way to build glycemic resilience holiday social events when traveling or staying with family?  
 Pack a small container of raw almonds or cherry tomatoes for a grounding snack. Use the breath-hold technique in your hotel room or car before entering gatherings. And remember: asking to serve yourself first gives you full control over plate sequencing—no explanation needed.
 
-#### #### Does glycemic resilience holiday social events affect blood pressure too?  
+#### Does glycemic resilience holiday social events affect blood pressure too?  
 Yes—closely. Glucose spikes trigger sympathetic nervous system activation, which can raise systolic BP by 10–15 mm Hg temporarily. Supporting glycemic resilience helps stabilize both systems, especially important for adults over 55 where cardiovascular risk and glucose metabolism are deeply linked.
 
-#### #### Can walking after dinner really help glycemic resilience holiday social events?  
+#### Can walking after dinner really help glycemic resilience holiday social events?  
 Gentle movement for 10–15 minutes (like a slow walk with a friend) lowers post-meal glucose by ~20–30 mg/dL—especially effective when done within 30 minutes of eating. It’s not about intensity; it’s about signaling your muscles to absorb glucose.
 
-#### #### Is it normal to feel anxious about food during holiday events after a new diabetes diagnosis?  
+#### Is it normal to feel anxious about food during holiday events after a new diabetes diagnosis?  
 Very normal—and completely understandable. Anxiety itself raises cortisol and glucose. That’s why breathwork and pacing aren’t “extra” steps; they’re core tools for calming your nervous system *while* supporting metabolic balance. You’re not alone in this feeling.

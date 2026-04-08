@@ -62,17 +62,17 @@ If you're unsure, talking to your doctor is always a good idea. And remember: *c
 
 ### FAQ
 
-#### #### Can cold weather really cause heart palpitations in people with Raynaud’s?
+#### Can cold weather really cause heart palpitations in people with Raynaud’s?
 Yes—especially in adults over 59. Raynaud’s reflects heightened vascular reactivity, and that sensitivity can extend to coronary arteries. Cold-induced palpitations raynaud holiday heart often result from temporary coronary vasoconstriction, not serious structural disease.
 
-#### #### Is cold-induced palpitations raynaud holiday heart dangerous?
+#### Is cold-induced palpitations raynaud holiday heart dangerous?
 Typically no—when symptoms resolve quickly with warming and don’t include chest pain, fainting, or prolonged rapid heartbeat. But because symptoms can mimic more serious conditions, it’s wise to confirm the pattern with your healthcare provider.
 
-#### #### How is cold-induced palpitations raynaud holiday heart different from alcohol-related holiday heart syndrome?
+#### How is cold-induced palpitations raynaud holiday heart different from alcohol-related holiday heart syndrome?
 Alcohol-related holiday heart usually appears after binge drinking and involves atrial fibrillation—often with fatigue, lightheadedness, and irregular pulse *regardless of temperature*. Cold-induced palpitations raynaud holiday heart occurs predictably with cold exposure, improves rapidly with warmth, and is often accompanied by classic Raynaud’s signs (fingers/toes turning white or blue).
 
-#### #### Can wearing gloves and socks prevent cold-induced palpitations?
+#### Can wearing gloves and socks prevent cold-induced palpitations?
 Not directly—but staying warm overall helps reduce systemic vasoconstriction. Since the body conserves heat by constricting peripheral vessels first, keeping extremities warm may lessen the cascade that reaches coronary vessels.
 
-#### #### Does high blood pressure make cold-induced palpitations worse?
+#### Does high blood pressure make cold-induced palpitations worse?
 Yes. Elevated baseline BP increases the workload on the heart, and cold exposure adds further strain through vasoconstriction. Managing BP year-round—including during colder months—supports more stable cardiac responses.

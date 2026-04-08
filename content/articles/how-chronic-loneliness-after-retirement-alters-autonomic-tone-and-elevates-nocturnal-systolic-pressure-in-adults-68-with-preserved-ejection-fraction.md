@@ -70,22 +70,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does loneliness really affect blood pressure at night—or is it just stress?
+#### Does loneliness really affect blood pressure at night—or is it just stress?
 
 Yes—it’s more than general stress. Studies using 24-hour ambulatory monitoring confirm that older adults reporting high loneliness scores show significantly flatter nocturnal systolic dips, independent of perceived stress levels. The mechanism involves reduced baroreflex sensitivity and altered cortisol rhythms, not just transient anxiety.
 
-#### #### What is a healthy nocturnal blood pressure for seniors—and how does loneliness change it?
+#### What is a healthy nocturnal blood pressure for seniors—and how does loneliness change it?
 
 For most adults 65+, a healthy nighttime systolic BP falls between 90–115 mm Hg—ideally 10–20% lower than daytime values. Chronic loneliness and nocturnal blood pressure in seniors often correlate with averages above 120 mm Hg at night, reflecting impaired autonomic recovery. This pattern, called “non-dipping,” appears in roughly 35–40% of socially isolated adults over 68.
 
-#### #### Can treating loneliness lower nocturnal blood pressure in seniors?
+#### Can treating loneliness lower nocturnal blood pressure in seniors?
 
 Emerging evidence suggests yes. A 2023 randomized trial found that seniors participating in a 12-week group-based social engagement program saw an average 7 mm Hg reduction in nocturnal systolic pressure—alongside measurable improvements in heart rate variability and self-reported connection. Benefits were most pronounced in those with initially low baseline interaction frequency.
 
-#### #### Is nocturnal hypertension dangerous even if my heart is strong?
+#### Is nocturnal hypertension dangerous even if my heart is strong?
 
 Absolutely—even with preserved ejection fraction, elevated nighttime BP increases risk for silent cerebrovascular damage, kidney filtration decline, and arterial stiffness. Nighttime systolic pressure is actually a stronger predictor of cardiovascular events in older adults than daytime readings alone.
 
-#### #### What’s the best way to track loneliness and nocturnal blood pressure in seniors at home?
+#### What’s the best way to track loneliness and nocturnal blood pressure in seniors at home?
 
 Pair simple self-assessment with objective measurement: Use a validated scale like the UCLA Loneliness Scale (3-item version) monthly, and complement it with home BP logs noting time, posture, and context (e.g., “after video call with daughter”). Consistency—not perfection—offers the clearest picture over time.

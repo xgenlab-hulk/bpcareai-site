@@ -57,22 +57,22 @@ In short: enjoying holiday bread doesn’t mean compromising your B12 status. Wi
 
 ### FAQ
 
-#### #### Is gluten-free holiday bread b12 deficiency common in older men?
+#### Is gluten-free holiday bread b12 deficiency common in older men?
 
 Yes—especially among men over 70 with undiagnosed or untreated celiac disease. Studies suggest up to 40% of older adults with celiac have low B12, and GF holiday bread rarely makes up for the shortfall unless specifically fortified.
 
-#### #### Can gluten-free holiday bread b12 deficiency cause high blood pressure?
+#### Can gluten-free holiday bread b12 deficiency cause high blood pressure?
 
 Not directly—but chronic B12 deficiency can elevate homocysteine, which is associated with increased cardiovascular risk, including arterial stiffness and higher systolic BP (often seen as isolated systolic hypertension—e.g., 150/75 mm Hg).
 
-#### #### How much B12 do I need if I eat gluten-free holiday bread regularly?
+#### How much B12 do I need if I eat gluten-free holiday bread regularly?
 
 Men over 50 need at least 2.4 mcg daily—but due to reduced absorption, many experts recommend 500–1000 mcg via supplement to ensure adequacy—particularly if relying on non-fortified GF bread.
 
-#### #### Does toasting gluten-free holiday bread reduce its B12 content?
+#### Does toasting gluten-free holiday bread reduce its B12 content?
 
 No—B12 is heat-stable. Toasting won’t degrade it. However, if the loaf wasn’t fortified to begin with, toasting won’t add any.
 
-#### #### Are all gluten-free holiday breads equally risky for B12 deficiency?
+#### Are all gluten-free holiday breads equally risky for B12 deficiency?
 
 No. Risk depends on fortification, ingredient quality, and potential cross-contamination. Always check labels for added B12—and look for certifications like GFCO (Gluten-Free Certification Organization) to reduce gluten exposure risks.

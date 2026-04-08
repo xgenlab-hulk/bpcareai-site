@@ -68,22 +68,22 @@ The holidays shouldn’t mean choosing between joy and health. Skipping breakfas
 
 ### FAQ
 
-#### #### Does skipping breakfast cause high blood sugar in seniors?
+#### Does skipping breakfast cause high blood sugar in seniors?
 
 Yes—especially in adults 67+. Skipping breakfast amplifies the dawn phenomenon and triggers cortisol-driven hepatic glucose release. Without food to prompt insulin, blood sugar often rises sharply by lunch and stays elevated longer after dinner.
 
-#### #### Is skipping breakfast holiday hyperglycemia seniors linked to heart health?
+#### Is skipping breakfast holiday hyperglycemia seniors linked to heart health?
 
 Absolutely. Repeated glucose spikes strain blood vessels and worsen arterial stiffness—both risk factors for hypertension and cardiovascular events. Seniors with BP readings consistently above 140/90 mm Hg should pay close attention to meal timing.
 
-#### #### Can intermittent fasting be safe for seniors during the holidays?
+#### Can intermittent fasting be safe for seniors during the holidays?
 
 It *can* be—but traditional fasting windows (like 16:8) often backfire after age 65. Shorter, gentler approaches—such as eating within a 10-hour window (e.g., 7 a.m.–5 p.m.)—are better studied and safer for glucose stability.
 
-#### #### What’s the best breakfast for seniors trying to avoid holiday hyperglycemia?
+#### What’s the best breakfast for seniors trying to avoid holiday hyperglycemia?
 
 Focus on low-glycemic, high-protein options: cottage cheese with cinnamon and apple slices, scrambled eggs with spinach and whole-grain toast, or chia pudding made with unsweetened almond milk. Avoid sugary cereals, pastries, or fruit juices—even “natural” ones.
 
-#### #### Does skipping breakfast affect blood pressure in older adults?
+#### Does skipping breakfast affect blood pressure in older adults?
 
 Yes—indirectly. Cortisol surges from fasting can temporarily raise systolic BP by 5–10 mm Hg. Over time, repeated spikes contribute to sustained hypertension, especially in those already managing arterial pressure concerns.

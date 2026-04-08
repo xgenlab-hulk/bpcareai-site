@@ -80,17 +80,17 @@ Holiday seasons are meant to be meaningful—not stressful. What you’re experi
 
 ### FAQ
 
-#### #### Can holiday stress and nighttime blood pressure seniors be linked even without diagnosed sleep apnea?
+#### Can holiday stress and nighttime blood pressure seniors be linked even without diagnosed sleep apnea?
 Yes. Even undiagnosed or mild OSA—common in older adults—can worsen under holiday stress due to weight fluctuations, alcohol intake, or sleeping position changes. Up to 60% of seniors over 65 have some degree of OSA, often unrecognized. Elevated nighttime BP may be one of the earliest clues.
 
-#### #### How does healthy holiday eating for seniors support stable blood pressure at night?
+#### How does healthy holiday eating for seniors support stable blood pressure at night?
 Nutrient-rich, lower-sodium, and fiber-forward meals help regulate fluid balance and prevent post-dinner BP spikes. High-fat or high-sugar meals delay gastric emptying and activate the sympathetic nervous system—both of which can contribute to elevated nocturnal arterial pressure.
 
-#### #### Is it normal for blood pressure to rise slightly during the holidays—even in seniors without heart disease?
+#### Is it normal for blood pressure to rise slightly during the holidays—even in seniors without heart disease?
 Minor, short-term increases (e.g., 5–10 mm Hg systolic) can occur in anyone due to excitement, travel, or altered sleep. However, sustained nighttime elevations—especially above 120/70 mm Hg—or loss of the normal nocturnal dip warrant gentle evaluation. This is where *holiday stress and nighttime blood pressure seniors* becomes clinically meaningful.
 
-#### #### What’s the safest way to check blood pressure at night without disrupting sleep?
+#### What’s the safest way to check blood pressure at night without disrupting sleep?
 Use an automated upper-arm monitor with a silent inflation mode and low-light display. Take the reading only if you’re naturally awake (e.g., during a bathroom break), not by setting an alarm. Lie still for 2 minutes before inflating—avoid sitting up abruptly.
 
-#### #### Does mild cognitive decline directly cause high blood pressure at night?
+#### Does mild cognitive decline directly cause high blood pressure at night?
 Not directly—but it can indirectly affect behaviors that influence BP: forgetting to take medications, skipping CPAP use, misjudging portion sizes, or overlooking hydration. Supporting cognitive wellness (through routine, social connection, and quality sleep) therefore supports cardiovascular stability too.

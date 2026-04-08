@@ -84,22 +84,22 @@ The conversation around **morning vs evening exercise nocturnal hypertension** i
 
 ### FAQ
 
-#### #### Does morning vs evening exercise really affect nocturnal hypertension?
+#### Does morning vs evening exercise really affect nocturnal hypertension?
 
 Yes—research shows timing influences how your body regulates blood pressure across the 24-hour cycle. In adults 66–79, morning walking (pre-coffee, fasted, 15 min) tends to smooth early-morning surges, while evening resistance training (post-dinner, 12 min) improves nighttime stability—particularly in those with non-dipping patterns. Both are effective, but they support different parts of the circadian curve.
 
-#### #### Is fasting before morning walking safe for older adults with nocturnal hypertension?
+#### Is fasting before morning walking safe for older adults with nocturnal hypertension?
 
 For most healthy older adults, a brief fast (e.g., skipping breakfast until *after* the walk) is safe and may support vascular responsiveness. However, if you take insulin, sulfonylureas, or have a history of hypoglycemia, consult your doctor first. Staying hydrated with water before and after is more important than strict fasting.
 
-#### #### What’s the best time to exercise if I have heart disease and nocturnal hypertension?
+#### What’s the best time to exercise if I have heart disease and nocturnal hypertension?
 
 There’s no universal “best” time—but evidence suggests *evening low-intensity resistance* may offer added protection for nighttime BP in adults with established heart disease. That said, morning aerobic activity remains highly beneficial for overall cardiovascular fitness and morning BP control. The key is choosing a time you’ll stick with—and avoiding intense exertion within 2 hours of bedtime.
 
-#### #### Can resistance bands really lower blood pressure?
+#### Can resistance bands really lower blood pressure?
 
 Yes—when used regularly and correctly. A 12-minute, moderate-resistance routine improves muscle pump efficiency, enhances vagal tone, and reduces sympathetic overactivity—all of which contribute to smoother 24-hour BP patterns. Studies show consistent use lowers average nocturnal systolic BP by 4–6 mm Hg over 12 weeks.
 
-#### #### Do I need a prescription for ambulatory BP monitoring?
+#### Do I need a prescription for ambulatory BP monitoring?
 
 Not always—but ABPM is typically ordered by your primary care provider or cardiologist to confirm suspected nocturnal hypertension. Many insurance plans cover it if clinically indicated (e.g., normal clinic BP but symptoms like morning headaches or fatigue). Ask your doctor whether it’s appropriate for your situation.

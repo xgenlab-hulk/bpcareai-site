@@ -88,17 +88,17 @@ Discovering early right ventricular fibrosis galectin-3 warning signs doesn’t 
 
 ### FAQ
 
-#### #### What are the earliest warning signs of right ventricular fibrosis linked to galectin-3?
+#### What are the earliest warning signs of right ventricular fibrosis linked to galectin-3?
 Early signs include exertional oxygen desaturation without breathlessness, ankle edema that seems out of proportion to neck vein pressure, and abnormal RV strain on echo—even when standard measures like TAPSE appear normal. Elevated serum galectin-3 (>17.8 ng/mL), especially if rising over time, strengthens concern for underlying right ventricular fibrosis galectin-3 warning signs.
 
-#### #### Can right ventricular fibrosis galectin-3 warning signs occur in people with normal left ventricular ejection fraction?
+#### Can right ventricular fibrosis galectin-3 warning signs occur in people with normal left ventricular ejection fraction?
 Yes. Right ventricular fibrosis galectin-3 warning signs are increasingly recognized in HFpEF (heart failure with preserved EF), where left-sided function looks intact but right-heart strain and fibrotic signaling are already active—often driven by systemic inflammation, obesity-related metabolic stress, or occult pulmonary vascular changes.
 
-#### #### How often should galectin-3 be tested for monitoring right ventricular fibrosis risk?
+#### How often should galectin-3 be tested for monitoring right ventricular fibrosis risk?
 Galectin-3 is not a routine screening test. It’s most useful when there’s clinical suspicion—such as unexplained RV dysfunction on echo or disproportionate symptoms. If initially elevated, repeat testing every 6–12 months helps track trends. Stable or falling levels may indicate effective therapy; rising levels (e.g., >20% increase over 6 months) warrant deeper RV assessment.
 
-#### #### Is right ventricular fibrosis reversible?
+#### Is right ventricular fibrosis reversible?
 Complete reversal of established fibrosis remains unlikely with current therapies. However, early-stage fibrosis—particularly when driven by modifiable factors like hypertension, diabetes, or sleep apnea—can stabilize or show partial regression with aggressive risk-factor control and guideline-directed medical therapy (e.g., SGLT2 inhibitors, MRAs).
 
-#### #### Does high blood pressure cause right ventricular fibrosis?
+#### Does high blood pressure cause right ventricular fibrosis?
 Systemic hypertension primarily affects the left ventricle—but chronically elevated pulmonary pressures (e.g., from untreated sleep apnea or left-heart disease) *do* increase RV afterload and promote fibrosis. So while “BP” alone doesn’t directly cause RV fibrosis, uncontrolled arterial pressure often coexists with conditions that do—making comprehensive cardiovascular management essential.

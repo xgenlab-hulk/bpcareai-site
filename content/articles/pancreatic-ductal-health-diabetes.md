@@ -85,22 +85,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can improving pancreatic ductal health diabetes help reduce flare-ups of chronic pancreatitis?
+#### Can improving pancreatic ductal health diabetes help reduce flare-ups of chronic pancreatitis?
 
 Yes—especially in cases linked to ductal inflammation rather than purely acinar injury. Studies show that stabilizing ductal epithelium (via CFTR support and bile acid buffering) correlates with a ~30% reduction in annual flare frequency in adults 60+, independent of enzyme supplementation.
 
-#### #### What’s the difference between supporting pancreatic ductal health diabetes versus general “pancreas support”?
+#### What’s the difference between supporting pancreatic ductal health diabetes versus general “pancreas support”?
 
 General “pancreas support” often focuses on acinar cells and enzyme output—which can unintentionally increase ductal pressure. Pancreatic ductal health diabetes targets the *epithelial lining* and fluid transport mechanisms—prioritizing barrier integrity and anti-inflammatory signaling *without* stimulating secretion.
 
-#### #### Are curcumin nanoparticles safe for adults over 65 with kidney concerns?
+#### Are curcumin nanoparticles safe for adults over 65 with kidney concerns?
 
 Nano-curcumin is generally well-tolerated, but because particle clearance relies partly on renal function, adults with eGFR <60 mL/min/1.73m² should use lower doses (80 mg once daily) and discuss with their nephrologist. No significant interactions with common diabetes or blood pressure meds have been reported.
 
-#### #### Does taurine supplementation affect blood sugar control in type 2 diabetes?
+#### Does taurine supplementation affect blood sugar control in type 2 diabetes?
 
 Not directly—but taurine may modestly improve insulin sensitivity over time (studies show ~0.3–0.4% HbA1c reduction at 6 months with 1,500 mg/day). For ductal protection, however, the *timing* (pre-bedtime) and *lower dose* (500–750 mg) are more impactful than glucose effects.
 
-#### #### Can lifestyle changes alone improve pancreatic ductal health diabetes?
+#### Can lifestyle changes alone improve pancreatic ductal health diabetes?
 
 Lifestyle is foundational—but not always sufficient alone in established chronic pancreatitis. Diet, hydration rhythm, and movement create the right environment; targeted nutrients like nano-curcumin and timed taurine act as precision tools. Think of them as complementary—not optional, but not replacements for medical care.

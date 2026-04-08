@@ -82,17 +82,17 @@ Navigating holiday meals with confidence is absolutely possible. Understanding *
 
 ### FAQ
 
-#### #### What are the safest low-sodium holiday soup options for seniors with orthostatic hypotension?  
+#### What are the safest low-sodium holiday soup options for seniors with orthostatic hypotension?  
 Look for soups made with minimal, whole-food ingredients—ideally homemade or from trusted brands that avoid yeast extract, hydrolyzed proteins, and fermented concentrates. Clear broths (chicken, turkey, or vegetable) with visible herbs and vegetables—and less than 100 mg sodium *per serving*—are generally safer. Always check for hidden glutamate sources, not just sodium content.
 
-#### #### Does low-sodium holiday soup orthostatic risk apply to all seniors—or only those with diagnosed low BP?  
+#### Does low-sodium holiday soup orthostatic risk apply to all seniors—or only those with diagnosed low BP?  
 It applies most significantly to seniors over 72 with known autonomic changes, regardless of resting BP. Many people have “normal” seated readings but diminished baroreflex reserve—making them vulnerable to orthostatic drops only after specific triggers like certain soups. If you experience dizziness after meals, it’s worth investigating—even without a prior diagnosis.
 
-#### #### Can I still enjoy traditional holiday soups if I’m concerned about low-sodium holiday soup orthostatic risk?  
+#### Can I still enjoy traditional holiday soups if I’m concerned about low-sodium holiday soup orthostatic risk?  
 Yes—with simple modifications. Dilute store-bought broth with water or unsalted homemade stock, add extra cooked lentils or white beans for texture and satiety (which helps stabilize postprandial BP), and boost flavor with fresh garlic, rosemary, or lemon zest instead of dried umami powders. Warmth and comfort don’t require hidden additives.
 
-#### #### Are canned “low-sodium” soups safer than frozen holiday soups for seniors?  
+#### Are canned “low-sodium” soups safer than frozen holiday soups for seniors?  
 Not necessarily. Both categories frequently use similar flavor-enhancing systems. Canned soups may have higher sodium *unless labeled “low-sodium”*, but frozen versions often rely more heavily on yeast extracts and hydrolyzed proteins to withstand freezing/thawing. Always read ingredient lists—not just the front-of-package claims.
 
-#### #### What medical tests can help determine if my dizziness after holiday soup is related to orthostatic risk?  
+#### What medical tests can help determine if my dizziness after holiday soup is related to orthostatic risk?  
 Your doctor may recommend orthostatic vital signs (BP and pulse measured supine, then at 1 and 3 minutes upright), a tilt-table test, or 24-hour ambulatory BP monitoring. Autonomic function testing—including heart rate variability (HRV) analysis during deep breathing—can also assess baroreflex sensitivity directly.

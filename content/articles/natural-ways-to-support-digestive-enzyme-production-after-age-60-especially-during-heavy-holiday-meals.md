@@ -50,17 +50,17 @@ Digestion doesn’t have to slow down your joy—especially during the holidays.
 
 ### FAQ  
 
-#### #### How can seniors boost natural digestive enzymes without supplements?  
+#### How can seniors boost natural digestive enzymes without supplements?  
 Focus on whole-food supports: chew thoroughly, include fermented vegetables (like raw sauerkraut), add fresh ginger or pineapple to meals, and try bitter herbs (e.g., dandelion greens or gentian) before eating. These encourage your body’s own enzyme release and improve digestive coordination.
 
-#### #### Are natural digestive enzymes seniors holiday meals safe for people on heart medications?  
+#### Are natural digestive enzymes seniors holiday meals safe for people on heart medications?  
 Yes—when sourced from food and used moderately. Ginger and fermented foods are generally safe, but if you take blood thinners (like warfarin), discuss high-ginger intake with your doctor. Bitter herbs may interact with certain diabetes or blood pressure meds, so always share your full routine with your care team.
 
-#### #### What foods naturally contain digestive enzymes for seniors?  
+#### What foods naturally contain digestive enzymes for seniors?  
 Pineapple (bromelain), papaya (papain), mango (amylase), kiwi (actinidin), raw honey (invertase), and fermented foods like miso and kefir all contain active enzymes. Prioritize fresh, raw, or traditionally fermented versions—heat and pasteurization destroy enzyme activity.
 
-#### #### Can stress really affect digestive enzyme production in older adults?  
+#### Can stress really affect digestive enzyme production in older adults?  
 Absolutely. Chronic stress activates the “fight-or-flight” nervous system, which directly suppresses digestive secretions—including stomach acid and pancreatic enzymes. Deep breathing before meals and mindful eating help shift into “rest-and-digest” mode—supporting natural digestive enzyme seniors holiday meals more effectively than any pill.
 
-#### #### Do digestive bitters really work for seniors?  
+#### Do digestive bitters really work for seniors?  
 Research is limited but promising: small clinical studies suggest bitter compounds stimulate gastric acid and bile flow within minutes—especially helpful for older adults with low stomach acid. Use them consistently before meals (not on an empty stomach) and choose alcohol-free, glycerin-based options if sensitive.

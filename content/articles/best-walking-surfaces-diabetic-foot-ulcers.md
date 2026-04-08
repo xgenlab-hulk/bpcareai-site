@@ -62,17 +62,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What are the best walking surfaces diabetic foot ulcers for seniors recovering from neuropathic wounds?
+#### What are the best walking surfaces diabetic foot ulcers for seniors recovering from neuropathic wounds?
 The best walking surfaces diabetic foot ulcers for this population are even, predictable, and moderately compliant—making asphalt the top recommendation, followed closely by smooth concrete when used with appropriate footwear. Grass and gravel introduce instability and pressure variability, increasing recurrence risk.
 
-#### #### Can walking on grass help prevent diabetic foot ulcers?
+#### Can walking on grass help prevent diabetic foot ulcers?
 No—grass is generally *not* recommended for adults with prior diabetic foot ulcers. Its inconsistency increases postural sway and plantar pressure variability by over 35%, and wet or uneven patches raise shear forces and fall risk. It does not qualify among the best walking surfaces diabetic foot ulcers.
 
-#### #### Is concrete bad for diabetic feet?
+#### Is concrete bad for diabetic feet?
 Not inherently. While concrete yields higher peak plantar pressures than asphalt, its uniformity supports stable gait mechanics—especially when combined with offloading footwear. It ranks second only to asphalt among the best walking surfaces diabetic foot ulcers for most seniors in remission.
 
-#### #### How does walking surface affect blood sugar control in people with diabetes?
+#### How does walking surface affect blood sugar control in people with diabetes?
 Walking surface doesn’t directly alter blood glucose—but safe, sustainable walking improves insulin sensitivity and aids glycemic control. Choosing stable surfaces helps maintain consistent activity levels, supporting long-term HbA1c management.
 
-#### #### Do I need custom orthotics if I walk on asphalt or concrete?
+#### Do I need custom orthotics if I walk on asphalt or concrete?
 Not necessarily—but given that up to 60% of adults with prior ulcers have measurable plantar pressure abnormalities, a podiatric evaluation is strongly advised. Custom or prefabricated offloading insoles significantly reduce peak pressure and are often essential regardless of surface choice.

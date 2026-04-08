@@ -66,22 +66,22 @@ In time, many people find that adjusting how and when they enjoy holiday favorit
 
 ### FAQ
 
-#### #### Could holiday leftovers really affect my gut health if I’m on PPIs for heartburn?
+#### Could holiday leftovers really affect my gut health if I’m on PPIs for heartburn?
 
 Yes—especially over time. PPIs reduce stomach acid, which normally helps control microbial flow into the intestines. Combined with fermentable carbs in common leftovers (like stuffing or sweet potatoes), this can gently shift your gut microbiome—leading to symptoms like brain fog or stool changes, not just bloating.
 
-#### #### What are the most common signs of holiday leftovers gut dysbiosis in seniors on long-term PPIs?
+#### What are the most common signs of holiday leftovers gut dysbiosis in seniors on long-term PPIs?
 
 The top three subtle signs are: delayed satiety (still hungry 90+ minutes after eating), consistent mid-afternoon mental fogginess, and repeated soft or mushy stools (Bristol types 5–6) without diarrhea or pain.
 
-#### #### Is holiday leftovers gut dysbiosis ppi seniors reversible with lifestyle changes?
+#### Is holiday leftovers gut dysbiosis ppi seniors reversible with lifestyle changes?
 
 Absolutely. Most people see improvement within 1–3 weeks of mindful prebiotic choices, modest meal spacing, and choosing lower-fermentable versions of favorite foods—no strict diets required.
 
-#### #### Can hydrogen sulfide overproduction cause serious harm in older adults?
+#### Can hydrogen sulfide overproduction cause serious harm in older adults?
 
 At the low levels linked to dietary shifts and PPI use, hydrogen sulfide is unlikely to cause harm—it’s a natural compound produced in small amounts by many gut microbes. However, excess may contribute to temporary symptoms like fatigue or stool softening. It’s rarely dangerous at this stage, but worth tuning into.
 
-#### #### Does healthy eating during family gatherings mean I have to avoid all my favorite holiday foods?
+#### Does healthy eating during family gatherings mean I have to avoid all my favorite holiday foods?
 
 Not at all. Healthy eating during family gatherings means savoring foods mindfully—perhaps enjoying smaller portions of richer dishes, pairing them with easily digested sides (like roasted squash or steamed greens), and staying gently attuned to how your body responds. Joy and nourishment go hand in hand.

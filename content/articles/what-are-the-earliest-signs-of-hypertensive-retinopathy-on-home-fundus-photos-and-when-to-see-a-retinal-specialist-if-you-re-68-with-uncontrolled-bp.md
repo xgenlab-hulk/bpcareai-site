@@ -74,17 +74,17 @@ Early hypertensive retinopathy is treatable—and often reversible—with timely
 
 ### FAQ
 
-#### #### Can smartphone photos really detect hypertensive retinopathy at home?
+#### Can smartphone photos really detect hypertensive retinopathy at home?
 Yes—when using FDA-cleared adapters and following proper technique, smartphone fundus imaging can reliably identify arteriolar narrowing, AV nicking, and microhemorrhages. Sensitivity ranges from 78–89% compared to clinical ophthalmoscopy in peer-reviewed studies.
 
-#### #### Is hypertensive retinopathy home detection safe for older adults with cataracts?
+#### Is hypertensive retinopathy home detection safe for older adults with cataracts?
 Mild cataracts rarely interfere with detecting major retinal signs—but dense, mature cataracts may limit image clarity. If images appear uniformly hazy or gray, consult your eye doctor about timing for cataract evaluation.
 
-#### #### What BP level triggers concern for early hypertensive retinopathy?
+#### What BP level triggers concern for early hypertensive retinopathy?
 Sustained readings ≥140/90 mm Hg increase risk, but changes may appear earlier in people with rapid BP rises, diabetes, or genetic susceptibility. Consistency matters more than single spikes.
 
-#### #### Does hypertensive retinopathy home detection replace annual eye exams?
+#### Does hypertensive retinopathy home detection replace annual eye exams?
 No—it complements them. Comprehensive dilated exams remain essential for assessing glaucoma, macular degeneration, and other age-related conditions.
 
-#### #### How often should I take retinal photos if I’m monitoring for hypertensive retinopathy?
+#### How often should I take retinal photos if I’m monitoring for hypertensive retinopathy?
 Once every 3–6 months is reasonable for stable patients. Increase to monthly if BP has recently become uncontrolled or if you’ve started a new antihypertensive medication.

@@ -105,22 +105,22 @@ If you're unsure, talking to your doctor is always a good idea. And remember: *m
 
 ### FAQ
 
-#### #### Why does my blood sugar spike every Christmas morning—even when I didn’t eat anything overnight?
+#### Why does my blood sugar spike every Christmas morning—even when I didn’t eat anything overnight?
 
 This is often the Dawn Phenomenon in action: a natural rise in cortisol and growth hormone between 3–8 a.m. that prompts your liver to release glucose. In adults over 60, this effect can be more pronounced due to age-related shifts in hormone regulation and insulin sensitivity—even with perfect nighttime control.
 
-#### #### What’s the real morning hyperglycemia christmas day cause—and is it dangerous?
+#### What’s the real morning hyperglycemia christmas day cause—and is it dangerous?
 
 The *morning hyperglycemia christmas day cause* is usually either the Dawn Phenomenon (hormonal) or Somogyi Rebound (reaction to overnight low). Neither is inherently dangerous *if recognized*, but repeated unrecognized rebounds can increase fall risk, fatigue, or dehydration—especially in older adults. Testing at 3 a.m. and checking ketones helps clarify which is at play.
 
-#### #### Can holiday stress really raise my fasting glucose?
+#### Can holiday stress really raise my fasting glucose?
 
 Yes—absolutely. Psychological stress increases cortisol, which directly raises blood glucose. For adults 57–71, even positive stress (“I’m so excited for the grandchildren!”) can elevate fasting levels by 20–50 mg/dL. Combine that with disrupted sleep or skipped meals, and the effect compounds.
 
-#### #### Is Somogyi Rebound more common in older adults?
+#### Is Somogyi Rebound more common in older adults?
 
 It’s not necessarily *more common*, but it’s *more easily missed*. Reduced hypoglycemia awareness, quieter symptoms (no tremor or sweating), and changes in sleep quality mean many older adults don’t notice the low that triggers the rebound—making the high morning reading seem sudden and confusing.
 
-#### #### Should I change my diabetes meds just for Christmas?
+#### Should I change my diabetes meds just for Christmas?
 
 No—not without guidance. But do discuss your holiday plans with your care team *before* December 24th. Small, proactive tweaks—like adjusting basal insulin timing or adding a bedtime snack—can prevent surprises and keep your celebrations joyful, not stressful.

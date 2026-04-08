@@ -52,17 +52,17 @@ In short, while *one night heavy drinking heart* concerns are real, they’re al
 
 ### FAQ
 
-#### #### Can one night heavy drinking cause heart palpitations in people over 55?
+#### Can one night heavy drinking cause heart palpitations in people over 55?
 Yes — especially due to alcohol’s effect on heart rhythm and electrolyte balance. Palpitations after heavy drinking are among the most common early signs of holiday heart syndrome and usually resolve within 24–48 hours. If they persist or worsen, consult your doctor.
 
-#### #### Does one night heavy drinking heart risk go away with age?
+#### Does one night heavy drinking heart risk go away with age?
 Not exactly — but understanding your personal risk increases with age. While the *likelihood* of acute issues like AFib rises after 55, the *severity* is often mild and reversible with rest and hydration. Prevention becomes more impactful than ever.
 
-#### #### How long does it take for the heart to recover after one night heavy drinking?
+#### How long does it take for the heart to recover after one night heavy drinking?
 For most healthy adults over 55, heart rate, rhythm, and blood pressure return to baseline within 1–3 days. Recovery may take longer if you have underlying hypertension, diabetes, or take certain medications.
 
-#### #### Is holiday heart syndrome preventable?
+#### Is holiday heart syndrome preventable?
 Yes — and prevention starts with moderation. Limiting intake, staying hydrated, avoiding binge patterns, and knowing your personal thresholds significantly reduce risk. Holiday heart syndrome prevention is simpler than many realize.
 
-#### #### Can one night heavy drinking raise blood pressure long-term?
+#### Can one night heavy drinking raise blood pressure long-term?
 A single episode typically causes only temporary elevation (hours to a couple of days). However, repeated episodes can contribute to sustained high BP over time — especially if combined with poor sleep, dehydration, or high-sodium foods. Consistency in healthy habits makes all the difference.

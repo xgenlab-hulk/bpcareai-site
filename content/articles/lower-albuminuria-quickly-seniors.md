@@ -91,22 +91,22 @@ If you're unsure, talking to your doctor is always a good idea—and if your goa
 
 ### FAQ
 
-#### #### Can lowering albuminuria quickly seniors be done without medication?
+#### Can lowering albuminuria quickly seniors be done without medication?
 
 Yes—especially in early microalbuminuria. Non-pharmacologic strategies like timed magnesium glycinate, cold-water immersion, dietary timing, and aerobic activity have shown measurable impact in pilot studies. These approaches target physiological drivers (like endothelial shear stress and sympathetic tone) rather than just masking symptoms. Always discuss with your provider before making changes to your care plan.
 
-#### #### How soon can I expect to see changes in my ACR when trying to lower albuminuria quickly seniors?
+#### How soon can I expect to see changes in my ACR when trying to lower albuminuria quickly seniors?
 
 In the pilot study, participants saw a median 31% ACR reduction within 72 hours—measured via follow-up urine test on day 4. However, individual responses vary. Some notice subtle shifts in energy or fluid balance sooner; others benefit more from consistent use over 2–4 weeks. ACR is best rechecked after at least 3 full days of protocol adherence—and confirmed with a second test 1–2 weeks later.
 
-#### #### Does lowering albuminuria quickly seniors also help protect the heart?
+#### Does lowering albuminuria quickly seniors also help protect the heart?
 
 Yes—strongly. Albuminuria and cardiovascular disease share common roots: inflammation, oxidative stress, and endothelial dysfunction. Reducing glomerular stress often coincides with improved arterial stiffness and autonomic balance—both linked to lower risk of heart failure and stroke in older adults. That’s why this is part of a broader “rapid-kidney-protection” mindset that honors whole-body health.
 
-#### #### Is magnesium glycinate safe for seniors with diabetes?
+#### Is magnesium glycinate safe for seniors with diabetes?
 
 Generally, yes—especially at low doses (100–200 mg elemental magnesium). Magnesium glycinate has minimal effect on blood sugar and is less likely than other forms (e.g., citrate or oxide) to cause diarrhea or interact with metformin. Still, if you take insulin or sulfonylureas, monitor for rare hypoglycemia symptoms during the first few days, as magnesium can mildly enhance insulin sensitivity.
 
-#### #### Can I use warm water instead of cold for hand immersion?
+#### Can I use warm water instead of cold for hand immersion?
 
 Cold water (12–14°C) appears key for triggering the vagal and nitric oxide effects observed in the pilot. Warm water won’t produce the same autonomic response—though gentle warmth *after* cold immersion can aid comfort. If cold feels overwhelming at first, start with cool tap water (~18°C) for 1–2 minutes and gradually decrease temperature and increase duration over several evenings.

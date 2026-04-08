@@ -63,19 +63,19 @@ Seek medical advice if you notice:
 
 ### FAQ
 
-#### #### What are the most common silent sodium overload signs seniors should watch for after Thanksgiving?
+#### What are the most common silent sodium overload signs seniors should watch for after Thanksgiving?
 The most common *silent sodium overload signs seniors* include unexplained morning ankle swelling, afternoon mental fogginess, increased nighttime urination (nocturia), dry mouth despite drinking water, and subtle fatigue that doesn’t improve with rest. These often precede noticeable BP changes.
 
-#### #### Can ARBs mask silent sodium overload signs seniors?
+#### Can ARBs mask silent sodium overload signs seniors?
 No—ARBs do not mask these signs. In fact, because they reduce aldosterone-driven sodium excretion, they may *amplify* subtle signs like edema or cognitive slowing in older adults. Monitoring remains essential.
 
-#### #### Are silent sodium overload signs seniors different from general high-sodium symptoms?
+#### Are silent sodium overload signs seniors different from general high-sodium symptoms?
 Yes. While younger adults may report headaches or facial flushing, seniors more commonly experience neuropsychological (e.g., slowed thinking) and volume-related (e.g., isolated ankle edema) signs—not classic hypertension symptoms. This makes them easier to overlook.
 
-#### #### How much sodium is too much for seniors on ARBs during holidays?
+#### How much sodium is too much for seniors on ARBs during holidays?
 For adults over 70 on ARBs, daily sodium intake should ideally stay below 1,500 mg—especially if eGFR is reduced. A single serving of gravy (½ cup) can contain 500–700 mg, and stuffing often exceeds 800 mg per cup.
 
-#### #### Does drinking more water help with silent sodium overload signs seniors?
+#### Does drinking more water help with silent sodium overload signs seniors?
 Not necessarily. Excess water without sodium correction can worsen hyponatremia risk in older adults. Focus instead on sodium reduction, gentle movement, and consistent BP/weight monitoring.
 
 If you're unsure, talking to your doctor is always a good idea. Recognizing *silent sodium overload signs seniors* early empowers thoughtful, proactive care—especially during joyful, food-rich seasons.

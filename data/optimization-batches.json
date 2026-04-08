@@ -1,0 +1,82 @@
+{
+  "total_articles": 45,
+  "batch_size": 9,
+  "num_batches": 5,
+  "batches": [
+    {
+      "batch_id": 1,
+      "slugs": [
+        "quercetin-and-hypertensive-retinopathy-microvascular",
+        "the-truth-about-sugar-free-holiday-candy-labeled-for-diabetics-why-87-still-cause-postprandial-endothelial-stiffness-via-polyol-pathway-activation",
+        "ambulatory-arterial-stiffness-index-interpretation",
+        "whole-grain-cereal-endothelial-dysfunction",
+        "the-truth-about-low-sodium-frozen-dinners-marketed-to-seniors-why-78-still-exceed-ada-sodium-targets-for-stage-1-hypertension",
+        "how-chronic-constipation-elevates-24-hour-mean-arterial-pressure-via-gut-derived-trimethylamine-n-oxide-especially-in-adults-70-with-low-fiber-diets",
+        "7-hidden-medication-interactions-that-raise-systolic-pressure-in-adults-72-taking-antidepressants-and-calcium-channel-blockers",
+        "magnesium-glycinate-central-aortic-pressure",
+        "the-truth-about-heart-safe-holiday-cocktails-labeled-low-alcohol-why-4-5-abv-mulled-wine-still-raises-qt-dispersion-in-adults-67-on-amiodarone"
+      ],
+      "count": 9
+    },
+    {
+      "batch_id": 2,
+      "slugs": [
+        "does-daily-tart-cherry-juice-really-reduce-endothelial-microparticle-release-in-adults-70-with-stage-1-hypertension-and-mild-hyperuricemia",
+        "magnesium-threonate-beta-blocker-safety",
+        "what-are-the-earliest-ecg-clues-of-right-ventricular-strain-in-adults-58-69-with-obesity-mild-sleep-apnea-and-normal-bnp",
+        "how-intermittent-use-of-magnetic-mattress-pads-alters-baroreflex-gain-in-adults-63-with-mild-orthostatic-intolerance-and-early-autonomic-neuropathy",
+        "benzalkonium-chloride-corneal-nerve-regeneration",
+        "right-ventricular-pa-coupling-failure-warning-signs",
+        "hvac-vibration-aortic-stiffness-testing",
+        "denture-adhesive-cobalamin-deficiency-autonomic-neuropathy",
+        "chest-pressure-memory-foam-couch"
+      ],
+      "count": 9
+    },
+    {
+      "batch_id": 3,
+      "slugs": [
+        "air-purifier-ozone-pancreatic-islet-oxygenation",
+        "simple-steps-to-improve-endothelial-dependent-vasodilation-in-just-10-days-using-only-a-digital-thermometer-a-kitchen-timer-and-your-evening-shower",
+        "best-footwear-modifications-for-adults-65-with-charcot-neuroarthropathy-and-mild-copd-balancing-offloading-oxygen-conservation-and-fall-prevention",
+        "oat-milk-creamer-endothelial-dysfunction",
+        "warning-signs-of-hypertensive-retinopathy-progression-that-appear-before-vision-changes-detected-via-smartphone-fundus-imaging-in-adults-71",
+        "how-indoor-humidity-below-30-triggers-endothelial-stiffness-in-adults-55-68-with-early-arterial-calcification",
+        "the-truth-about-no-sugar-added-protein-bars-for-men-69-with-diabetic-gastroparesis-and-early-autonomic-neuropathy",
+        "sweet-potatoes-roasted-vs-slow-cooked-endothelial-function",
+        "how-gut-microbial-metabolites-e-g-tmao-indole-3-propionic-acid-predict-subclinical-myocardial-fibrosis-in-adults-59-75-with-metabolic-syndrome"
+      ],
+      "count": 9
+    },
+    {
+      "batch_id": 4,
+      "slugs": [
+        "endothelial-nitric-oxide-synthase-recoupling",
+        "collard-greens-endothelial-function-comparison",
+        "improve-endothelial-function-quickly",
+        "how-long-term-nsaid-use-even-occasional-elevates-pulse-pressure-in-adults-64-with-aortic-root-dilation-3-8-cm-on-echo",
+        "pom-inhibitors-atherosclerosis-gut-microbiome",
+        "natural-ways-to-support-endothelial-repair-after-acute-hypertensive-crisis-for-adults-65-with-prior-bp-220-120-and-microalbuminuria",
+        "12-science-backed-ways-to-reduce-postprandial-endothelial-dysfunction-within-45-minutes-for-adults-60-76-with-type-2-diabetes-and-elevated-adma",
+        "what-research-says-about-ultra-processed-holiday-snacks-and-endothelial-dysfunction-in-adults-61-75-with-subclinical-atherosclerosis",
+        "how-chronic-low-dose-corticosteroid-use-for-rheumatoid-arthritis-accelerates-coronary-endothelial-senescence-in-adults-55-69-with-normal-ldl"
+      ],
+      "count": 9
+    },
+    {
+      "batch_id": 5,
+      "slugs": [
+        "best-portable-foot-thermometers-for-early-neuropathy-detection-in-adults-70-with-limited-dexterity-and-poor-vision",
+        "how-gut-derived-trimethylamine-n-oxide-tmao-alters-vascular-smooth-muscle-phenotype-transition-in-adults-68-82-with-hypertension-and-low-fiber-diets",
+        "salad-dressing-sodium-endothelial-stiffness",
+        "cgm-postprandial-patterns-beta-cell-reserve",
+        "the-truth-about-heart-healthy-plant-based-burgers-for-adults-over-70-with-stage-2-ckd-hidden-potassium-load-and-phosphate-additives",
+        "resistance-training-left-ventricular-hypertrophy",
+        "myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-thanksgiving-dinner-why-this-backfires-for-adults-with-metabolic-syndrome",
+        "the-ultimate-guide-to-pre-loading-your-plate-before-a-family-feast-a-3-step-strategy-for-adults-with-metabolic-syndrome",
+        "the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias"
+      ],
+      "count": 9
+    }
+  ]
+}

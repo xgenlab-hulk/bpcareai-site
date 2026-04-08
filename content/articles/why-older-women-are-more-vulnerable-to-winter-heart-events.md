@@ -92,22 +92,22 @@ Understanding *older women winter heart risk* doesn’t mean resigning yourself 
 
 ### FAQ
 
-#### #### Why are older women more at risk for heart problems in winter?
+#### Why are older women more at risk for heart problems in winter?
 
 Older women face increased winter heart risk due to the combined effects of postmenopausal hormonal changes (like reduced estrogen protection), cold-induced vasoconstriction, and age-related arterial stiffening. These factors raise blood pressure, increase clotting tendency, and reduce the heart’s ability to respond to stress—all amplified during colder months.
 
-#### #### Does older women winter heart risk apply even if I’m otherwise healthy?
+#### Does older women winter heart risk apply even if I’m otherwise healthy?
 
 Yes. Even women without diagnosed heart disease can experience elevated risk in winter. Hormonal shifts after menopause affect vascular health regardless of weight, activity level, or cholesterol numbers. Regular BP monitoring and seasonal check-ins with your doctor help catch subtle changes early.
 
-#### #### How does winter heart health for seniors differ between men and women?
+#### How does winter heart health for seniors differ between men and women?
 
 While both genders see seasonal BP increases in winter, women over 60 are more likely to experience atypical symptoms (e.g., fatigue, nausea, back pain), delayed diagnosis, and higher complication rates. Hormonal loss, differences in fat distribution, and variations in autonomic nervous system responses contribute to these disparities.
 
-#### #### What’s the best way to monitor winter heart health for seniors at home?
+#### What’s the best way to monitor winter heart health for seniors at home?
 
 Use a validated upper-arm blood pressure cuff, take readings at the same time daily after resting, and record results weekly. Pair this with attention to energy levels, breathing ease, and swelling patterns. Share trends with your clinician—not just single high readings—to inform personalized care.
 
-#### #### Can flu or colds really affect my heart health in winter?
+#### Can flu or colds really affect my heart health in winter?
 
 Yes. Respiratory infections increase systemic inflammation and place extra demand on the heart. Studies link influenza infection with a 3–6x higher short-term risk of heart attack or stroke—especially in adults over 65. Staying up to date on flu and pneumococcal vaccines is a simple, evidence-based way to protect your heart year after year.

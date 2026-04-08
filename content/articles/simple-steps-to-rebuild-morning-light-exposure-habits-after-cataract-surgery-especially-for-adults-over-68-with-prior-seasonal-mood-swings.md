@@ -91,22 +91,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### How soon after cataract surgery can seniors start morning light exposure?
+#### How soon after cataract surgery can seniors start morning light exposure?
 
 Most ophthalmologists recommend beginning gentle, short-duration (5–10 minute) outdoor light exposure as early as **3–5 days post-op**, provided your eye is healing well and you’re not experiencing significant pain or light sensitivity. Always confirm timing with your surgeon, especially if you had complex surgery or have other eye conditions like glaucoma or macular degeneration.
 
-#### #### Is morning light exposure after cataract surgery seniors safe for people with high blood pressure?
+#### Is morning light exposure after cataract surgery seniors safe for people with high blood pressure?
 
 Yes—and often beneficial. Regular morning light helps stabilize circadian-driven BP patterns, supporting the natural nocturnal dip (which protects heart and kidney health). However, if you experience dizziness or lightheadedness when standing in the morning sun, sit down first and consult your primary care provider. Blood pressure can fluctuate during early recovery, so pairing light exposure with hydration and slow positional changes is wise.
 
-#### #### Can yellow-tinted IOLs interfere with morning light exposure after cataract surgery seniors?
+#### Can yellow-tinted IOLs interfere with morning light exposure after cataract surgery seniors?
 
 Potentially, yes. Yellow-filtering IOLs block some blue-wavelength light (400–480 nm), which is most effective at stimulating circadian photoreceptors. While they reduce glare and UV exposure, they may require slightly longer or more intense morning light exposure to achieve the same circadian benefit. Discuss your IOL type with your surgeon—and consider supplementing with a 10,000-lux light box if natural light access is limited.
 
-#### #### Does morning light exposure help seasonal depression in older adults?
+#### Does morning light exposure help seasonal depression in older adults?
 
 Strong evidence says yes. Multiple randomized trials show that consistent morning light (especially between 6:30–8:30 a.m.) significantly reduces symptoms of seasonal depression in older adults—sometimes as effectively as low-dose SSRI medication, with fewer side effects. The key is regularity: skipping more than 2 consecutive days can weaken the effect.
 
-#### #### What’s the best time of day for morning light exposure after cataract surgery for seniors with SAD?
+#### What’s the best time of day for morning light exposure after cataract surgery for seniors with SAD?
 
 The sweet spot is **within the first 60–90 minutes after local sunrise**, or no later than **8:30 a.m.** (standard time). Light exposure later than 9:30 a.m. begins to lose its phase-advancing power and may delay your internal clock instead—potentially worsening early-morning awakening or insomnia. Consistency matters more than perfection: aim for the same window most days, even if duration varies.

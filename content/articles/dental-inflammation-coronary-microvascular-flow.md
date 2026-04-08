@@ -60,17 +60,17 @@ Heart health isn’t just about cholesterol numbers or artery scans. It’s also
 
 ### FAQ
 
-#### #### Can dental inflammation coronary microvascular flow affect people without obvious gum disease?  
+#### Can dental inflammation coronary microvascular flow affect people without obvious gum disease?  
 Yes. Studies show subclinical periodontal inflammation—detectable only via biomarkers or deep probing—can still correlate with glycocalyx changes and reduced coronary flow reserve, especially in adults over 60.
 
-#### #### Is dental inflammation coronary microvascular flow reversible?  
+#### Is dental inflammation coronary microvascular flow reversible?  
 Emerging evidence suggests yes—with sustained periodontal treatment (e.g., scaling/root planing plus oral hygiene support), researchers have observed measurable improvements in microvascular function within 3–6 months.
 
-#### #### How does dental inflammation coronary microvascular flow relate to FFRct results?  
+#### How does dental inflammation coronary microvascular flow relate to FFRct results?  
 FFRct models incorporate hemodynamic data influenced by microvascular resistance. When glycocalyx damage elevates resistance in small vessels, FFRct may show lower-than-expected values—even without obstructive plaque—highlighting the need to consider oral health in interpretation.
 
-#### #### Does treating gum disease lower heart attack risk?  
+#### Does treating gum disease lower heart attack risk?  
 While no single study proves causation, large observational trials (like the PAROKRANK study) found that adults with treated periodontitis had a ~15% lower incidence of recurrent cardiovascular events over 5 years compared to untreated peers.
 
-#### #### Are there natural ways to protect the endothelial glycocalyx?  
+#### Are there natural ways to protect the endothelial glycocalyx?  
 Yes—consistent intake of antioxidants (vitamin C, quercetin), omega-3 fatty acids, and adequate hydration supports glycocalyx integrity. Regular physical activity—even brisk walking 30 minutes most days—also promotes healthy endothelial function.

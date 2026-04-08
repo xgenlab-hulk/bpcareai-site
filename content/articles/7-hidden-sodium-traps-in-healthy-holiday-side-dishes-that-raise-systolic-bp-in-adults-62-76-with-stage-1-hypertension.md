@@ -53,17 +53,17 @@ In short: enjoying holiday meals while managing hypertension is absolutely possi
 
 ### FAQ
 
-#### #### Are mashed potatoes a hidden sodium trap during the holidays?  
+#### Are mashed potatoes a hidden sodium trap during the holidays?  
 Yes—especially when made with instant potato flakes (often 300–500 mg sodium per serving) or topped with processed cheese or bacon bits. Opt for freshly boiled Yukon Golds mashed with unsalted butter, warm milk, and roasted garlic for rich flavor and <50 mg sodium per cup.
 
-#### #### What are the top 3 hidden sodium in holiday side dishes I should watch for?  
+#### What are the top 3 hidden sodium in holiday side dishes I should watch for?  
 The biggest culprits are: (1) Stuffing made with commercial broth or seasoned cubes (up to 800 mg/serving), (2) green bean casserole with canned soup and fried onions (often 650+ mg), and (3) glazed winter squash using pre-made glazes or teriyaki marinade (400–700 mg).
 
-#### #### Can “healthy” fermented foods like kimchi raise my blood pressure?  
+#### Can “healthy” fermented foods like kimchi raise my blood pressure?  
 Some can—many commercial kimchi and sauerkraut contain added salt for preservation and flavor. Check labels: aim for <140 mg sodium per ¼ cup. Refrigerated, unpasteurized versions with “no salt added” on the label are safer choices.
 
-#### #### Does roasting vegetables always add sodium?  
+#### Does roasting vegetables always add sodium?  
 Not inherently—but it becomes a risk when using pre-salted oils, flavored butters, or store-bought seasoning blends. Plain olive or avocado oil with herbs and spices adds zero sodium and enhances natural sweetness.
 
-#### #### How quickly can reducing hidden sodium in holiday side dishes lower my systolic BP?  
+#### How quickly can reducing hidden sodium in holiday side dishes lower my systolic BP?  
 For many adults 60+, systolic BP begins to trend downward within 3–5 days of consistent low-sodium eating—especially when paired with adequate potassium from foods like sweet potatoes, spinach, and bananas.

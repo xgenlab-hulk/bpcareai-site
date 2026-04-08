@@ -81,22 +81,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does loneliness really affect heart rate variability in older adults?
+#### Does loneliness really affect heart rate variability in older adults?
 
 Yes—multiple longitudinal studies confirm that persistent loneliness is associated with lower heart rate variability (HRV) in adults 65 and older. This relationship appears independent of physical activity levels and traditional risk factors, suggesting that emotional connection supports nervous system resilience in measurable ways.
 
-#### #### Can improving social connection raise HRV in seniors?
+#### Can improving social connection raise HRV in seniors?
 
 Research suggests yes. A 2022 randomized trial found that older adults participating in a 12-week community engagement program showed a statistically significant 15% average increase in RMSSD—a key HRV metric—compared to controls. Improvements were most pronounced among those who reported deeper quality of interaction, not just frequency.
 
-#### #### What is a normal HRV for someone over 65—and how does loneliness and heart rate variability seniors compare?
+#### What is a normal HRV for someone over 65—and how does loneliness and heart rate variability seniors compare?
 
 There’s no single “normal” HRV—it varies widely by individual. However, population-based data indicate median RMSSD values for healthy adults 65–74 fall between 25–35 ms, dropping slightly with each decade. In contrast, studies report average RMSSD values of 17–22 ms among socially isolated seniors—within a range increasingly associated with higher 5-year cardiovascular risk.
 
-#### #### Is low HRV always a sign of poor heart health?
+#### Is low HRV always a sign of poor heart health?
 
 Not necessarily. HRV is highly influenced by factors like sleep quality, recent illness, medications (e.g., beta-blockers), and even caffeine intake. A single low reading isn’t diagnostic. What clinicians look for is a *persistent downward trend*, particularly when paired with other clues—like fatigue, anxiety, or reduced exercise tolerance.
 
-#### #### Can I check my HRV at home—and is it reliable?
+#### Can I check my HRV at home—and is it reliable?
 
 Yes—many clinically validated wearables and smartphone-connected ECG devices (used according to manufacturer guidance) provide reasonable estimates of HRV, especially RMSSD. For best accuracy, take readings at the same time each day—ideally first thing in the morning—after resting quietly for 2–3 minutes. Keep in mind that home tools are best for tracking personal trends, not replacing clinical evaluation.

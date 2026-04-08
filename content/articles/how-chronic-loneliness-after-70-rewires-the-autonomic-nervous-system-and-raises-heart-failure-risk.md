@@ -104,22 +104,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does loneliness really increase heart failure risk after age 70—or is it just correlation?
+#### Does loneliness really increase heart failure risk after age 70—or is it just correlation?
 
 Yes—multiple longitudinal studies control for smoking, diabetes, BMI, and physical activity, and still find that sustained loneliness independently predicts higher rates of heart failure diagnosis over 5–10 years. One analysis in *JAMA Internal Medicine* (2022) showed a 32% increased risk among adults 70+ reporting high loneliness for 3+ years—even after adjusting for depression and baseline cardiac function.
 
-#### #### How does loneliness and heart failure risk after 70 compare to other known risk factors like high blood pressure?
+#### How does loneliness and heart failure risk after 70 compare to other known risk factors like high blood pressure?
 
 Loneliness appears to act *alongside* traditional risks—not instead of them. For example, someone with well-controlled BP (128/76 mm Hg) but high, chronic loneliness may still face elevated heart failure risk due to autonomic dysregulation and inflammation. Think of it like tire pressure and road conditions: both matter for a smooth ride.
 
-#### #### Can improving social connection actually reverse heart-related changes from loneliness?
+#### Can improving social connection actually reverse heart-related changes from loneliness?
 
 Emerging evidence suggests yes—especially when started early. A 2023 pilot study in *Circulation: Heart Failure* found that seniors in a 12-week peer-visiting program showed measurable improvements in HRV (+18%) and reductions in arterial stiffness after 6 months. Changes were modest but clinically meaningful—and most pronounced in those who reported deeper emotional connection, not just more visits.
 
-#### #### Is there a specific blood pressure number I should watch for if I’m concerned about loneliness and heart failure risk after 70?
+#### Is there a specific blood pressure number I should watch for if I’m concerned about loneliness and heart failure risk after 70?
 
 While guidelines recommend keeping BP below 130/80 mm Hg for most adults 65+, what’s more telling is *pattern change*. Watch for a gradual rise in systolic pressure (e.g., from 122 to 136 mm Hg over 3 months) *without* changes in salt intake, medications, or activity. Also note if your diastolic stays stubbornly high (>75 mm Hg) despite lifestyle efforts—that can signal increased vascular resistance linked to sympathetic overactivity.
 
-#### #### What’s the difference between loneliness and depression—and why does it matter for heart health?
+#### What’s the difference between loneliness and depression—and why does it matter for heart health?
 
 Loneliness is the subjective feeling of lacking desired social connection; depression is a clinical condition involving persistent low mood, loss of interest, fatigue, and sometimes hopelessness. They often co-occur, but not always—and they impact the heart differently. Loneliness tends to drive sympathetic activation (higher norepinephrine, stiffer arteries), while depression more strongly links to inflammation and platelet reactivity. Both deserve attention, but the strategies to address them can differ—so naming what you’re experiencing matters.

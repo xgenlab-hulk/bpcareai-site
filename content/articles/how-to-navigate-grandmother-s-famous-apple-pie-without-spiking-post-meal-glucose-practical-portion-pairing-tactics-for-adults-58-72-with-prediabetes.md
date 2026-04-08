@@ -85,23 +85,23 @@ Enjoying grandmother’s apple pie doesn’t mean choosing between health and he
 
 ### FAQ
 
-#### #### Can I manage apple pie with prediabetes if I’m on metformin?
+#### Can I manage apple pie with prediabetes if I’m on metformin?
 
 Yes—metformin improves insulin sensitivity and reduces hepatic glucose output, which helps blunt post-meal spikes. However, it does *not* eliminate the need for portion awareness. Continue monitoring glucose responses, especially since metformin’s effect varies with age-related kidney function changes (eGFR should be checked annually). Always take metformin with meals to minimize GI side effects.
 
-#### #### How many grams of carbs in apple pie is safe to manage apple pie with prediabetes?
+#### How many grams of carbs in apple pie is safe to manage apple pie with prediabetes?
 
 For most adults aged 58–72, a target of **20–25 g of total carbohydrate** per dessert serving is clinically supportive. A typical ½-slice portion delivers this range—especially if the filling uses minimal added sugar and the crust is made with whole-grain or oat-based flour. Avoid pies with caramel drizzle, streusel topping, or corn syrup-based glazes, which can add 10–15 g hidden carbs.
 
-#### #### Is it better to eat apple pie in the morning or evening to manage apple pie with prediabetes?
+#### Is it better to eat apple pie in the morning or evening to manage apple pie with prediabetes?
 
 Morning is generally preferable. Insulin sensitivity follows a circadian rhythm, peaking around midday and dipping by ~25% in the evening. Eating dessert earlier in the day—paired with light movement like a 10-minute walk afterward—leads to significantly lower and shorter glucose excursions compared to evening consumption.
 
-#### #### Does the type of apple affect how well I can manage apple pie with prediabetes?
+#### Does the type of apple affect how well I can manage apple pie with prediabetes?
 
 Yes. Tart, firm varieties like Granny Smith or Honeycrisp have higher polyphenol content and lower glycemic impact than sweeter, softer apples like Red Delicious or Golden Delicious. Baking also concentrates natural sugars, so using underripe apples and limiting added sweeteners (≤2 Tbsp brown sugar per 6-cup filling) further supports glucose stability.
 
-#### #### Can I substitute the crust to make apple pie safer for prediabetes?
+#### Can I substitute the crust to make apple pie safer for prediabetes?
 
 Absolutely—but focus on *structure*, not just “low-carb.” A crust made with almond flour alone lacks soluble fiber and may digest too quickly. Better options include:  
 - 50/50 blend of whole-wheat pastry flour and ground flaxseed (adds viscous fiber)  

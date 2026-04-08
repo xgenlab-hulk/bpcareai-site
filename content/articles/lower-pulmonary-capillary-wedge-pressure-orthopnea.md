@@ -84,22 +84,22 @@ Living well with orthopnea and preserved EF doesn’t mean waiting for symptoms 
 
 ### FAQ
 
-#### #### Can posture really lower pulmonary capillary wedge pressure orthopnea?
+#### Can posture really lower pulmonary capillary wedge pressure orthopnea?
 
 Yes—studies using right-heart catheterization confirm it. Seated forward leaning reduces PCWP by an average of 3–5 mm Hg in older adults with HFpEF and orthopnea. This occurs through mechanical redistribution of blood volume and improved diaphragmatic positioning, which lowers left atrial pressure.
 
-#### #### What’s the safest way to lower pulmonary capillary wedge pressure orthopnea at home?
+#### What’s the safest way to lower pulmonary capillary wedge pressure orthopnea at home?
 
 The safest, most studied method combines seated forward lean + pursed-lip exhalation + light abdominal bracing. It’s non-invasive, requires no equipment, and has been validated in clinical hemodynamic settings. Avoid supine positions or deep Valsalva maneuvers (like bearing down), which can raise PCWP.
 
-#### #### Does lowering pulmonary capillary wedge pressure orthopnea help with preserved EF heart disease?
+#### Does lowering pulmonary capillary wedge pressure orthopnea help with preserved EF heart disease?
 
 Absolutely. Even with preserved ejection fraction (EF ≥50%), elevated PCWP drives symptoms like orthopnea, fatigue, and exercise intolerance. Reducing it acutely improves comfort—and consistent use may help slow long-term pulmonary vascular remodeling associated with chronic elevation.
 
-#### #### Is pursed-lip breathing safe for people with high blood pressure?
+#### Is pursed-lip breathing safe for people with high blood pressure?
 
 Yes—pursed-lip breathing is widely recommended for adults with hypertension and heart disease. It promotes parasympathetic activation, reduces sympathetic tone, and does not raise arterial pressure. In fact, studies show it may modestly lower systolic BP by 3–5 mm Hg over time.
 
-#### #### How often should I practice these techniques?
+#### How often should I practice these techniques?
 
 As needed for symptom relief—typically before bedtime, upon waking with orthopnea, or during midday fatigue. Most people benefit from 2–3 rounds per session, holding each for 30–60 seconds. There’s no risk of overuse, though consistency matters more than frequency.

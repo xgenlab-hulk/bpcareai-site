@@ -69,22 +69,22 @@ In summary, managing heart health with CKD requires thoughtful, individualized s
 
 ### FAQ
 
-#### #### Can hawthorn berberine and afib in ckid cause sudden cardiac arrest?
+#### Can hawthorn berberine and afib in ckid cause sudden cardiac arrest?
 
 Yes—though rare, the combination increases risk of ventricular arrhythmias like torsades de pointes due to QT prolongation and hypokalemia, especially when digoxin is also used. Sudden cardiac arrest is a potential, though uncommon, outcome in high-risk scenarios.
 
-#### #### Is hawthorn berberine and afib in ckid safe if my eGFR is stable at 55?
+#### Is hawthorn berberine and afib in ckid safe if my eGFR is stable at 55?
 
 No. Even with stable stage 3 CKD, reduced renal clearance alters drug and herb metabolism. Case reports document toxicity at eGFR values as high as 58 mL/min/1.73m²—so stability alone doesn’t guarantee safety.
 
-#### #### What supplements *are* safe for heart disease and CKD stage 3?
+#### What supplements *are* safe for heart disease and CKD stage 3?
 
 Evidence supports cautious use of vitamin D3 (if deficient), omega-3s, and magnesium glycinate (dose-adjusted), but all require provider approval. Avoid licorice root, yohimbe, and stimulant-containing blends entirely.
 
-#### #### Does berberine lower blood pressure enough to replace my BP meds?
+#### Does berberine lower blood pressure enough to replace my BP meds?
 
 Berberine may modestly reduce systolic BP by ~5–10 mm Hg in clinical trials—but it’s not a substitute for guideline-directed therapy. In CKD, its effects on potassium and drug interactions outweigh any marginal benefit.
 
-#### #### Can I take hawthorn alone if I avoid berberine?
+#### Can I take hawthorn alone if I avoid berberine?
 
 Hawthorn alone still poses risks in CKD+Afib—especially with digoxin or QT-prolonging drugs. It’s not considered low-risk merely because it’s single-ingredient. Always consult your care team before starting.

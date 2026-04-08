@@ -57,17 +57,17 @@ Winter doesn’t have to mean surrendering to rising numbers on your monitor. Wi
 
 ### FAQ  
 
-#### #### Are bananas considered superfoods for blood pressure?  
+#### Are bananas considered superfoods for blood pressure?  
 Yes — bananas are widely recognized as superfoods for blood pressure thanks to their high potassium content (~422 mg per medium fruit) and low sodium. While they’re available year-round, pairing them with seasonal winter foods (like oatmeal with pumpkin seeds and sliced banana) adds variety and extra magnesium.
 
-#### #### What are the best superfoods for blood pressure for seniors over 65?  
+#### What are the best superfoods for blood pressure for seniors over 65?  
 For seniors over 65, focus on soft, easy-to-digest options rich in potassium and magnesium — like mashed sweet potatoes, steamed kale, roasted beets, unsalted pumpkin seeds, and citrus fruits. These are gentle on digestion, nutrient-dense, and support arterial flexibility without added salt or sugar.
 
-#### #### Can superfoods for blood pressure replace medication?  
+#### Can superfoods for blood pressure replace medication?  
 No — superfoods for blood pressure are complementary, not replacements, for prescribed treatment. They support healthy vascular function and may help improve response to medication, but never stop or adjust heart medications without consulting your healthcare provider.
 
-#### #### How quickly do blood pressure-lowering foods work?  
+#### How quickly do blood pressure-lowering foods work?  
 Some effects — like those from dietary nitrates in beets — can appear within a few hours. But lasting improvements typically emerge after consistent intake over 2–4 weeks. Think of it like watering a plant: steady, gentle care yields stronger roots over time.
 
-#### #### Do I need to avoid all salt if I’m eating superfoods for blood pressure?  
+#### Do I need to avoid all salt if I’m eating superfoods for blood pressure?  
 Not necessarily — but aim for less than 1,500 mg of sodium per day (about ⅔ teaspoon of salt), especially if you’re over 50 or have existing hypertension. The goal is balance: more potassium- and magnesium-rich foods *and* less added sodium — not elimination, but thoughtful moderation.

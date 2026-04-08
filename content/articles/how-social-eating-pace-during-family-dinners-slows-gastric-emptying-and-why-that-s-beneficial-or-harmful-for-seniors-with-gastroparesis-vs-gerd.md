@@ -96,22 +96,22 @@ Digestion isn’t a race—and it’s not one-size-fits-all. Whether you're navi
 
 ### FAQ
 
-#### #### Does slowing down my eating help gastroparesis—or make it worse?
+#### Does slowing down my eating help gastroparesis—or make it worse?
 
 It depends on *how* you slow down. Gentle pacing—smaller bites, thorough chewing, stopping at 80% full—supports digestion in mild-to-moderate gastroparesis. But extremely long meals (>45 min) or large portions eaten slowly can overwhelm an already sluggish stomach. Focus on *consistency* and *portion control*, not just duration.
 
-#### #### How does social eating pace seniors gastroparesis differ from solo eating for older adults?
+#### How does social eating pace seniors gastroparesis differ from solo eating for older adults?
 
 Social meals typically extend mealtime by 15–25 minutes and increase chewing frequency by ~30%, boosting vagal tone and salivary enzymes. For seniors with intact vagal function, this helps gastric coordination. But if vagal impairment is present (common in advanced gastroparesis), the same social pace may delay emptying further—making structured mini-meals (every 2–3 hours) more effective than one long dinner.
 
-#### #### Can changing my eating pace reduce GERD symptoms during holiday meals?
+#### Can changing my eating pace reduce GERD symptoms during holiday meals?
 
 Yes—especially if you combine slower pacing with other reflux-smart habits: avoiding late dinners, skipping carbonated drinks, and staying upright afterward. Research shows a 30–40 minute social meal reduces TLESRs by up to 35% compared to rushed eating. Just avoid lying down or napping right after—even if you feel “full but calm.”
 
-#### #### Is there a link between blood pressure and eating pace in seniors?
+#### Is there a link between blood pressure and eating pace in seniors?
 
 Indirectly, yes. Slower, mindful eating supports parasympathetic (vagal) dominance, which helps regulate both digestion *and* arterial pressure. Seniors who eat rapidly often show transient BP spikes—particularly systolic increases of 10–15 mm Hg during or just after meals. Consistent pacing may contribute to smoother 24-hour BP patterns, especially when paired with low-sodium holiday cooking.
 
-#### #### What foods should I prioritize when adjusting my social eating pace seniors gastroparesis?
+#### What foods should I prioritize when adjusting my social eating pace seniors gastroparesis?
 
 Focus on *low-residue, low-fat, well-cooked* options: soft-cooked carrots, oatmeal, baked applesauce, lean ground turkey, and well-blended soups. Avoid raw vegetables, tough meats, fried foods, and high-fiber cereals—these demand more gastric work. Smaller, more frequent meals (4–5/day) often outperform three large ones, regardless of pace.

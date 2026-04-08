@@ -73,22 +73,22 @@ Holiday traditions are meant to be warm, familiar, and comforting—not stressfu
 
 ### FAQ
 
-#### #### Does late-night snacking affect blood pressure in seniors?
+#### Does late-night snacking affect blood pressure in seniors?
 
 Yes—especially when it happens between 10 p.m. and 2 a.m. Eating late activates stress hormones and delays the natural nighttime dip in arterial pressure. Studies show seniors who eat after 9 p.m. are 1.7x more likely to have non-dipping BP patterns, which increases cardiovascular risk over time.
 
-#### #### Is late-night snacking seniors circadian rhythm linked to memory problems?
+#### Is late-night snacking seniors circadian rhythm linked to memory problems?
 
 Indirectly, yes. Late eating disrupts REM sleep—the stage critical for memory consolidation. In adults 65+, even modest reductions in REM duration correlate with slower recall speed and poorer working memory performance in longitudinal studies. Supporting circadian alignment supports cognitive resilience.
 
-#### #### Can I still enjoy holiday treats without disrupting my circadian rhythm?
+#### Can I still enjoy holiday treats without disrupting my circadian rhythm?
 
 Absolutely—you just need to time them right. Enjoy that slice of pumpkin pie *with* dessert after dinner (by 7:30 p.m.), not as a midnight snack. Pair sweets with protein or healthy fats to slow absorption and reduce metabolic strain. A small portion, enjoyed mindfully and early, fits beautifully into healthy holiday eating for seniors.
 
-#### #### Why do I feel hungrier at night during the holidays?
+#### Why do I feel hungrier at night during the holidays?
 
 Stress, altered routines, and reduced daytime activity all contribute. Cortisol often dips later in the day for seniors, which can increase evening appetite. Also, many holiday gatherings happen in the evening—so hunger cues get socially reinforced. Try scheduling a light, protein-rich afternoon snack (e.g., cottage cheese + pear) to prevent intense evening hunger.
 
-#### #### How does late-night snacking seniors circadian rhythm impact digestion?
+#### How does late-night snacking seniors circadian rhythm impact digestion?
 
 It slows gastric emptying and reduces gut motility—especially after age 60. Eating late means your digestive tract is still processing food while your body tries to enter rest-and-repair mode. This can lead to bloating, reflux, and constipation—and may worsen symptoms in people with GERD or irritable bowel syndrome (IBS).

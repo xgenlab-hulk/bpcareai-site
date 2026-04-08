@@ -62,22 +62,22 @@ In closing, small, science-informed choices like strategic snacking before holid
 
 ### FAQ
 
-#### #### Does strategic snacking before holiday gatherings really help with blood sugar control?
+#### Does strategic snacking before holiday gatherings really help with blood sugar control?
 
 Yes—clinical trials show that a 60-minute pre-meal snack containing ≥15 g protein and 4–6 g soluble fiber reduces 2-hour postprandial glucose by up to 28 mg/dL in adults 57–64 with insulin resistance.
 
-#### #### What’s the best time to do strategic snacking before holiday gatherings?
+#### What’s the best time to do strategic snacking before holiday gatherings?
 
 Research supports **60 minutes before the meal**, not 30. This window allows optimal ghrelin suppression and GLP-1 release—critical for adults whose gut hormone responses slow with age.
 
-#### #### Can strategic snacking before holiday gatherings lower blood pressure?
+#### Can strategic snacking before holiday gatherings lower blood pressure?
 
 Indirectly, yes. By improving insulin sensitivity and reducing post-meal glucose and triglyceride spikes, it supports healthier endothelial function and arterial elasticity—factors linked to long-term systolic BP stability.
 
-#### #### Is Greek yogurt + flaxseed the only option for strategic snacking before holiday gatherings?
+#### Is Greek yogurt + flaxseed the only option for strategic snacking before holiday gatherings?
 
 No—other options include cottage cheese + chia seeds, hard-boiled egg + ½ avocado, or lentil soup (½ cup) + steamed broccoli. Focus on whole-food combinations with balanced protein/fiber—not just calorie count.
 
-#### #### Do I need to do strategic snacking before holiday gatherings every time?
+#### Do I need to do strategic snacking before holiday gatherings every time?
 
 Not necessarily. It’s most beneficial during higher-risk situations: multi-course meals, extended durations (>2 hours), or when alcohol or highly refined carbs are central to the menu. Use it intentionally—not automatically.

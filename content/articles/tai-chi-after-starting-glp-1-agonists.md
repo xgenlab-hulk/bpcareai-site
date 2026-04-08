@@ -79,17 +79,17 @@ Starting a GLP-1 agonist is often part of a thoughtful, compassionate approach t
 
 ### FAQ
 
-#### #### Can I do tai chi after starting GLP-1 agonists if I have diabetes?
+#### Can I do tai chi after starting GLP-1 agonists if I have diabetes?
 Yes—you can. In fact, tai chi after starting GLP-1 agonists is especially beneficial for adults with type 2 diabetes, supporting glucose regulation, balance, and stress resilience. Just allow 10–14 days for initial adaptation, monitor orthostatic BP, and stay well-hydrated.
 
-#### #### Is morning tai chi safe after starting GLP-1 agonists?
+#### Is morning tai chi safe after starting GLP-1 agonists?
 Morning tai chi is generally safe—but if you inject your GLP-1 medication in the morning, consider waiting 1–2 hours before practice during the first 2–3 weeks. This gives your digestive system time to settle and reduces risk of nausea or transient dizziness.
 
-#### #### How long should I wait before doing tai chi after starting GLP-1 agonists?
+#### How long should I wait before doing tai chi after starting GLP-1 agonists?
 Most adults tolerate gentle tai chi by day 7–10 after their first dose—especially if starting at the lowest available dose. Full, unsupported practice is often comfortable by week 3–4, assuming stable orthostatic readings and no persistent GI symptoms.
 
-#### #### Does tai chi lower blood pressure—and could that be risky with GLP-1 drugs?
+#### Does tai chi lower blood pressure—and could that be risky with GLP-1 drugs?
 Yes, tai chi has a modest BP-lowering effect (studies show average reductions of 3–5 mm Hg systolic over 12 weeks). When combined with GLP-1 agonists—which may also mildly lower BP via weight loss and improved vascular function—the effect is usually additive but rarely clinically concerning. Monitoring ensures safety without limiting benefit.
 
-#### #### What’s the best way to prevent dizziness during tai chi while on GLP-1 meds?
+#### What’s the best way to prevent dizziness during tai chi while on GLP-1 meds?
 Rise slowly from seated or low positions, hydrate consistently (not just before practice), avoid practicing on an empty stomach *or* immediately after a large meal, and keep a chair or wall nearby for light support. If dizziness persists beyond week 3, discuss with your care team—they may adjust timing or evaluate for contributing factors like electrolyte shifts or medication interactions.

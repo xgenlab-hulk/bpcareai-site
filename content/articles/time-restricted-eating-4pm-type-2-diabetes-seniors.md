@@ -81,22 +81,22 @@ The science behind time-restricted eating 4pm type 2 diabetes seniors is still e
 
 ### FAQ
 
-#### #### Can time-restricted eating starting at 4 p.m. help lower NT-proBNP in seniors with type 2 diabetes?
+#### Can time-restricted eating starting at 4 p.m. help lower NT-proBNP in seniors with type 2 diabetes?
 
 Yes. In the TRIM-Heart Trial, older adults with type 2 diabetes who adopted a 4 p.m.–midnight eating window saw an average 22% reduction in NT-proBNP over 16 weeks—indicating less ventricular wall stress—even without weight loss.
 
-#### #### Is time-restricted eating 4pm type 2 diabetes seniors safe for people on metformin or SGLT2 inhibitors?
+#### Is time-restricted eating 4pm type 2 diabetes seniors safe for people on metformin or SGLT2 inhibitors?
 
 Generally yes—metformin and most SGLT2 inhibitors (e.g., empagliflozin, dapagliflozin) have low hypoglycemia risk and may even synergize with circadian eating. However, always discuss timing adjustments with your prescriber, especially if combining with insulin or sulfonylureas.
 
-#### #### Does time-restricted eating 4pm type 2 diabetes seniors improve diastolic function on echo?
+#### Does time-restricted eating 4pm type 2 diabetes seniors improve diastolic function on echo?
 
 Yes. TRIM-Heart participants showed a statistically significant improvement in E/e’ ratio (−1.9 units), reflecting better left ventricular relaxation and lower filling pressures—a key goal in early diastolic dysfunction.
 
-#### #### Can I do time-restricted eating starting at 4 p.m. if I’m not trying to lose weight?
+#### Can I do time-restricted eating starting at 4 p.m. if I’m not trying to lose weight?
 
 Absolutely. The TRIM-Heart Trial explicitly enrolled participants with stable weight, and cardiac benefits occurred independently of weight change. Focus remains on metabolic timing, not caloric deficit.
 
-#### #### How long does it take to see changes in cardiac strain markers like NT-proBNP?
+#### How long does it take to see changes in cardiac strain markers like NT-proBNP?
 
 In clinical trials, measurable NT-proBNP reductions began appearing at 8 weeks, with greatest changes observed by 12–16 weeks. Consistency matters more than speed—think in terms of steady, supportive rhythms rather than quick fixes.

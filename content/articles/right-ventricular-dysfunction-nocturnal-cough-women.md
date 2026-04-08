@@ -88,17 +88,17 @@ Right ventricular dysfunction nocturnal cough women is a real, identifiable patt
 
 ### FAQ
 
-#### #### What causes nocturnal cough in women with right ventricular dysfunction?
+#### What causes nocturnal cough in women with right ventricular dysfunction?
 Right ventricular dysfunction can lead to elevated pulmonary venous pressure, especially when lying flat at night. This causes subtle fluid shifts into the lung interstitium—not enough to cause overt congestion, but enough to irritate airway nerves and trigger a reflexive, dry cough. Obesity and GERD amplify this effect, making the cough more frequent and persistent.
 
-#### #### Is right ventricular dysfunction nocturnal cough women linked to high blood pressure?
+#### Is right ventricular dysfunction nocturnal cough women linked to high blood pressure?
 Not directly to *systemic* high blood pressure (hypertension), but yes to elevated *pulmonary* pressures—often stemming from left-heart stiffness, sleep apnea, or chronic lung conditions. In women with obesity and GERD, even mild increases in pulmonary vascular resistance can strain the right ventricle and produce nocturnal cough.
 
-#### #### Can right ventricular dysfunction nocturnal cough women be mistaken for asthma?
+#### Can right ventricular dysfunction nocturnal cough women be mistaken for asthma?
 Yes—frequently. Because the cough is often dry, worse at night or early morning, and sometimes associated with wheezing-like sensations, it’s commonly misdiagnosed as asthma or chronic bronchitis. However, unlike true asthma, it typically shows no response to bronchodilators and *does* improve with volume management and targeted heart support.
 
-#### #### What echo findings suggest subclinical right ventricular dysfunction?
+#### What echo findings suggest subclinical right ventricular dysfunction?
 Key clues include TAPSE <16 mm, S’ velocity <10 cm/s, right atrial enlargement (>18 cm²), elevated ePASP (>35 mm Hg), and septal flattening on imaging. These are best assessed by an experienced echocardiographer familiar with age- and sex-specific norms.
 
-#### #### Does losing weight really help right ventricular dysfunction nocturnal cough women?
+#### Does losing weight really help right ventricular dysfunction nocturnal cough women?
 Yes—consistently. Studies show that even 5–7% weight loss in women over 60 reduces right ventricular afterload, improves diastolic filling, and significantly decreases nocturnal cough frequency. It’s one of the most effective, evidence-backed interventions—and it supports overall heart health in lasting ways.

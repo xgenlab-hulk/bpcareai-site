@@ -80,22 +80,22 @@ Holiday joy doesn’t require trade-offs with health—and supporting your body�
 
 ### FAQ
 
-#### #### Can omega-3 supplements really help me lower triglycerides after holiday meal?
+#### Can omega-3 supplements really help me lower triglycerides after holiday meal?
 
 Yes—but only when used intentionally. Research in adults 60–78 shows that a *pre-meal dose* of high-EPA (≥2 g) fish oil, taken 15–30 minutes before a high-fat festive meal, can reduce the 2-hour triglyceride spike by up to 37%. Generic daily fish oil capsules (often 300–500 mg EPA/DHA combined) won’t deliver the same effect. Timing, dose, and EPA ratio matter most.
 
-#### #### What’s the safest way to lower triglycerides after holiday meal without medication?
+#### What’s the safest way to lower triglycerides after holiday meal without medication?
 
 The safest, most evidence-backed non-medication approach combines three elements: (1) a targeted pre-meal EPA dose (2–3 g), (2) light movement (10–15 min walk) within 30 minutes after eating, and (3) pairing the meal with soluble fiber (like oats, apples, or beans) to support steady fat absorption. These steps work synergistically—and are well-tolerated across ages 60–78.
 
-#### #### How soon after a holiday meal should I act to lower triglycerides after holiday meal?
+#### How soon after a holiday meal should I act to lower triglycerides after holiday meal?
 
 The window of opportunity begins *before* the meal—and closes quickly. Chylomicron production ramps up within minutes of fat entering the small intestine. To effectively blunt the peak, take your EPA dose 15–30 minutes *before* eating. If you forget, taking it *immediately after* the first few bites still offers ~60% of the benefit—but waiting until dessert reduces effectiveness significantly.
 
-#### #### Do I need to avoid all fats during the holidays to keep my triglycerides in check?
+#### Do I need to avoid all fats during the holidays to keep my triglycerides in check?
 
 Not at all. The goal isn’t fat avoidance—it’s *fat coordination*. Prioritize monounsaturated and omega-3 fats (avocado, walnuts, salmon) over saturated fats (gravy, processed meats, pastries), and always pair higher-fat items with fiber and movement. Your body handles moderate, well-timed fat far better than it does large, isolated doses—especially later in the day.
 
-#### #### Is post-holiday triglyceride elevation dangerous for seniors?
+#### Is post-holiday triglyceride elevation dangerous for seniors?
 
 Occasional spikes aren’t harmful—but repeated, unblunted surges (especially above 200 mg/dL at 2 hours) are associated with increased oxidative stress on blood vessels and greater risk of pancreatitis in susceptible individuals. For adults with mixed dyslipidemia, managing the *postprandial response* is now recognized as part of comprehensive cardiovascular prevention—not just a footnote to fasting labs.

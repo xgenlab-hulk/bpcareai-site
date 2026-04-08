@@ -70,22 +70,22 @@ Secondary hypertension ppi warning signs are rarely dramatic—but they’re det
 
 ### FAQ
 
-#### #### Could long-term PPI use cause secondary hypertension even if my blood pressure was normal before?
+#### Could long-term PPI use cause secondary hypertension even if my blood pressure was normal before?
 
 Yes—especially after 2+ years of daily use. The process is gradual and often masked by age-related BP increases. Monitoring for subtle signs like low magnesium or rising diastolic pressure helps identify it early.
 
-#### #### What are the most important secondary hypertension ppi warning signs I should watch for at age 62?
+#### What are the most important secondary hypertension ppi warning signs I should watch for at age 62?
 
 Key signs include unexplained fatigue, frequent nighttime leg cramps, increasing BP variability, and blood pressure that no longer responds well to usual medications. Lab findings like low magnesium (<1.8 mg/dL) or high aldosterone are strong secondary hypertension ppi warning signs.
 
-#### #### Is there a link between PPIs, magnesium, and blood pressure spikes in older adults?
+#### Is there a link between PPIs, magnesium, and blood pressure spikes in older adults?
 
 Absolutely. PPI-induced hypomagnesemia disrupts vascular tone and amplifies aldosterone activity—both directly raising arterial pressure. In adults 57–69, even mild magnesium deficiency (1.6–1.7 mg/dL) correlates with steeper BP rise over 12 months.
 
-#### #### Can stopping PPIs lower my blood pressure?
+#### Can stopping PPIs lower my blood pressure?
 
 In some cases—yes—especially if hypomagnesemia or aldosterone excess is contributing. BP improvement may take 4–12 weeks after discontinuation and magnesium repletion, and should always be guided by your clinician.
 
-#### #### Are all PPIs equally likely to cause secondary hypertension?
+#### Are all PPIs equally likely to cause secondary hypertension?
 
 Current evidence doesn’t show major differences among FDA-approved PPIs, but risk rises with duration and dose. Higher-dose, once-daily regimens (e.g., esomeprazole 40 mg) carry greater hypomagnesemia risk than low-dose, on-demand use.

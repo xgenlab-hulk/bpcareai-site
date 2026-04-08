@@ -59,22 +59,22 @@ You’re not alone in navigating this — and small, thoughtful adjustments trul
 
 ### FAQ
 
-#### #### Are “no-sugar-added protein bars gastroparesis” safe for men over 65?
+#### Are “no-sugar-added protein bars gastroparesis” safe for men over 65?
 
 Not necessarily. Many contain maltitol or other sugar alcohols that increase osmotic load and worsen delayed gastric emptying — especially in those with diabetic gastroparesis and autonomic neuropathy. Always check the full ingredient list, not just front-of-package claims.
 
-#### #### What makes “no-sugar-added protein bars gastroparesis” misleading for people with diabetes?
+#### What makes “no-sugar-added protein bars gastroparesis” misleading for people with diabetes?
 
 The term focuses only on sucrose and added sugars — ignoring polyols and fermentable fibers that directly impact gastric motility and autonomic function. For people with diabetes and gastroparesis, osmotic tolerance matters more than glycemic index alone.
 
-#### #### Can erythritol cause gastroparesis symptoms?
+#### Can erythritol cause gastroparesis symptoms?
 
 Yes — though milder than maltitol, erythritol can still trigger bloating, nausea, and early satiety in sensitive individuals, particularly when consumed in amounts over 10g per sitting or without adequate fluid intake.
 
-#### #### What’s a better alternative to protein bars for someone with gastroparesis?
+#### What’s a better alternative to protein bars for someone with gastroparesis?
 
 Soft-cooked or blended whole foods — like cottage cheese, silken tofu, or egg-based dishes — offer high-quality protein with minimal osmotic or fermentable burden. They’re also easier for your stomach to process gradually.
 
-#### #### Does gastroparesis affect blood pressure?
+#### Does gastroparesis affect blood pressure?
 
 Yes — especially when autonomic neuropathy is present. Fluctuations in posture (orthostatic hypotension), meal-related vasodilation, and erratic glucose absorption can all influence arterial pressure. Monitoring BP before and after meals may reveal useful patterns.

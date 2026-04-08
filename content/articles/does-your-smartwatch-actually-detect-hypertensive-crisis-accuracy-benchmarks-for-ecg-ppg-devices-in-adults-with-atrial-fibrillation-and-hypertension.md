@@ -105,17 +105,17 @@ Smartwatches are valuable companions in long-term cardiovascular awareness—but
 
 ### FAQ
 
-#### #### Can a smartwatch detect a hypertensive crisis?
+#### Can a smartwatch detect a hypertensive crisis?
 No. No FDA-cleared smartwatch currently measures blood pressure directly or alerts users to hypertensive crises (≥180/110 mm Hg). Some devices estimate heart rate or detect AFib—but these features do not equate to BP monitoring or crisis detection.
 
-#### #### How accurate are smartwatches for blood pressure in people with AFib?
+#### How accurate are smartwatches for blood pressure in people with AFib?
 PPG-based smartwatches show significantly reduced accuracy for blood pressure estimation in people with atrial fibrillation. Irregular pulse waves interfere with waveform analysis, leading to unreliable readings. Clinical-grade cuff devices remain the standard for BP assessment in AFib.
 
-#### #### What does FDA clearance really mean for smartwatch accuracy hypertensive crisis?
+#### What does FDA clearance really mean for smartwatch accuracy hypertensive crisis?
 FDA clearance for ECG or PPG features means the device meets performance standards *for its specific labeled use*—such as detecting AFib—not for diagnosing hypertension or identifying crises. Clearance does not imply diagnostic equivalence to clinical BP monitors.
 
-#### #### Is the Omron HeartGuide better for detecting high blood pressure?
+#### Is the Omron HeartGuide better for detecting high blood pressure?
 Yes—the Omron HeartGuide is the only FDA-cleared wearable *with an inflatable cuff* and validated oscillometric BP measurement. It meets international accuracy standards under proper use conditions but does not provide automated alerts for hypertensive crisis thresholds.
 
-#### #### Should I trust my smartwatch instead of my home BP monitor?
+#### Should I trust my smartwatch instead of my home BP monitor?
 No. Upper-arm home monitors validated by major health societies (e.g., AHA, ESH) remain far more accurate and reliable for tracking blood pressure. Use your smartwatch for rhythm insights and activity trends—but rely on cuff-based devices for BP decisions.

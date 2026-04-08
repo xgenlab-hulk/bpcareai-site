@@ -81,22 +81,22 @@ Heart health isn’t about avoiding all fluctuations—it’s about building res
 
 ### FAQ
 
-#### #### Does holiday weight gain increase AFib recurrence risk in people with obesity?
+#### Does holiday weight gain increase AFib recurrence risk in people with obesity?
 
 Yes—particularly for adults with obesity class II. The 2024 retrospective analysis found that gaining 2.3–3.7 kg over the holiday period was linked to a statistically significant increase in 90-day AFib recurrence after ablation or cardioversion. However, this risk is modifiable with proactive, personalized strategies.
 
-#### #### Can holiday weight gain and AFib recurrence prediction be used in clinical practice?
+#### Can holiday weight gain and AFib recurrence prediction be used in clinical practice?
 
 Clinicians are beginning to integrate seasonal weight trends into prognostic-risk-modeling frameworks—especially for patients with known AFib and obesity class II. While not yet part of formal guidelines, tracking weight alongside BP, symptoms, and lab markers helps personalize prevention plans and timing of follow-up visits.
 
-#### #### Is holiday heart syndrome preventable if I have AFib?
+#### Is holiday heart syndrome preventable if I have AFib?
 
 Yes—holiday heart syndrome prevention is very achievable. It centers on moderation (not elimination), consistency (not perfection), and awareness. Simple steps like limiting sodium, spacing out alcohol, prioritizing movement, and protecting sleep significantly lower risk—even for adults with long-standing AFib.
 
-#### #### What’s a safe amount of weight gain during the holidays for someone with AFib?
+#### What’s a safe amount of weight gain during the holidays for someone with AFib?
 
 For adults with AFib and obesity class II, aiming to keep holiday weight gain under 2 kg (about 4.5 pounds) is a practical, evidence-informed goal. Gains beyond this range—especially when combined with other triggers like excess alcohol or poor sleep—were associated with higher recurrence odds in recent studies.
 
-#### #### Do I need special tests if I gain weight over the holidays?
+#### Do I need special tests if I gain weight over the holidays?
 
 Not necessarily—but it’s wise to mention it at your next visit. Your provider may check your BP, review your rhythm monitor data (if you wear one), assess for signs of fluid retention, or adjust diuretic dosing if appropriate. Early conversation helps turn observation into action.

@@ -80,22 +80,22 @@ You don’t need to regain the stamina of decades past to experience deeper calm
 
 ### FAQ
 
-#### #### Can seated breathing hrv feedback frailty help with low blood pressure when standing?
+#### Can seated breathing hrv feedback frailty help with low blood pressure when standing?
 
 Yes—when practiced consistently while fully seated, this technique supports autonomic balance without triggering orthostatic stress. By strengthening vagal tone and improving baroreflex sensitivity, it helps reduce *variability* in blood pressure—not necessarily raise low readings—but often leads to fewer symptomatic drops upon standing over time.
 
-#### #### Is seated breathing hrv feedback frailty safe for someone with mild pulmonary hypertension?
+#### Is seated breathing hrv feedback frailty safe for someone with mild pulmonary hypertension?
 
 Research suggests it is both safe and beneficial. Slowing breath rate to 4.5–5.5 breaths/minute has been associated with modest reductions in pulmonary vascular resistance in clinical trials—including among adults with WHO Group 1 or Group 3 pulmonary hypertension. Because it’s seated and non-exertional, it avoids the hemodynamic stress of upright activity.
 
-#### #### How often should I do seated breathing hrv feedback frailty to see benefits?
+#### How often should I do seated breathing hrv feedback frailty to see benefits?
 
 Most studies showing measurable improvements in HRV and BP stability used 10 minutes daily for 4–6 weeks. However, even 3–5 minutes once a day can yield subjective benefits—like reduced breathlessness or improved mental clarity—within 1–2 weeks. Consistency matters more than duration.
 
-#### #### Do I need special equipment to get HRV feedback?
+#### Do I need special equipment to get HRV feedback?
 
 Not necessarily. Many FDA-cleared wearable devices (ECG-based watches or fingertip sensors) provide real-time HRV metrics like RMSSD or coherence scores. Simpler alternatives include guided audio tracks timed to resonant frequency—though pairing them with basic HRV feedback gives you richer insight into your nervous system’s response.
 
-#### #### Can this breathing practice replace my blood pressure medication?
+#### Can this breathing practice replace my blood pressure medication?
 
 No—and it shouldn’t be used as a substitute for prescribed treatment. Instead, think of seated breathing with HRV feedback as complementary support: a daily habit that enhances your body’s natural regulatory capacity alongside medications, diet, and other therapies recommended by your care team.

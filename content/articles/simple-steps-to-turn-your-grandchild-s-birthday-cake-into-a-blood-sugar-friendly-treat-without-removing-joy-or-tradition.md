@@ -37,17 +37,17 @@ In the end, a *blood sugar friendly birthday cake seniors* isn’t about restric
 
 ### FAQ
 
-#### #### Can I use honey instead of sugar in a blood sugar friendly birthday cake seniors?
+#### Can I use honey instead of sugar in a blood sugar friendly birthday cake seniors?
 Yes—but with caution. Honey has a slightly lower glycemic index than table sugar (around 58 vs. 65), yet it still raises blood glucose significantly. Use no more than ¼ cup per standard cake recipe, and pair it with high-fiber flour and nuts to moderate absorption.
 
-#### #### What’s the best frosting option for a blood sugar friendly birthday cake seniors?
+#### What’s the best frosting option for a blood sugar friendly birthday cake seniors?
 Greek yogurt–vanilla frosting (made with plain nonfat Greek yogurt, a pinch of cinnamon, and monk fruit sweetener) offers protein, probiotics, and minimal added sugar—typically under 3 g per 2-tbsp serving.
 
-#### #### Are store-bought “diabetic-friendly” cakes safe for seniors?
+#### Are store-bought “diabetic-friendly” cakes safe for seniors?
 Many contain sugar alcohols (maltitol, glycerin) that can cause bloating or diarrhea in older adults, and some still carry high sodium or saturated fat. Always read labels—and when in doubt, homemade is more controllable and often more satisfying.
 
-#### #### How can I involve my grandchild in making a blood sugar friendly birthday cake seniors?
+#### How can I involve my grandchild in making a blood sugar friendly birthday cake seniors?
 Let them mash bananas, stir batter, or decorate with fresh berries and crushed walnuts. Talking about “strong bones,” “happy tummies,” and “energy for play” makes nutrition feel warm and inclusive—not clinical.
 
-#### #### Does lowering sugar in cake affect baking time or texture?
+#### Does lowering sugar in cake affect baking time or texture?
 Slightly—reduced sugar may lead to paler color and less browning (since sugar aids caramelization), and cakes may be denser. To compensate, add ½ tsp of apple cider vinegar to activate baking soda, or include 1 egg white for lift.

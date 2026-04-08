@@ -85,22 +85,22 @@ Flying with insulin-dependent diabetes after 61 doesn’t mean choosing between 
 
 ### FAQ
 
-#### #### How does cabin pressure affect blood sugar during flights for seniors with insulin-dependent diabetes?
+#### How does cabin pressure affect blood sugar during flights for seniors with insulin-dependent diabetes?
 
 Cabin pressure (equivalent to 6,000–8,000 ft altitude) reduces tissue oxygenation slightly, which can delay insulin absorption and alter liver glucose release. In adults 61+, this contributes to measurable air travel glucose variability insulin—especially during flights over 2 hours. Staying hydrated and timing insulin *after* boarding helps offset this.
 
-#### #### What’s the safest way to adjust insulin *during* a long flight if I’m over 60?
+#### What’s the safest way to adjust insulin *during* a long flight if I’m over 60?
 
 For flights over 4 hours, consider splitting your long-acting insulin dose: 60% the night before, 40% after boarding. Rapid-acting doses for in-flight meals should be reduced by 10–15% unless you’ve walked the aisle recently. Always carry backup insulin, glucose tabs, and a doctor’s note.
 
-#### #### Can air travel glucose variability insulin impact heart health in older adults?
+#### Can air travel glucose variability insulin impact heart health in older adults?
 
 Yes—indirectly. Large glucose swings increase oxidative stress and endothelial strain, which may compound existing cardiovascular risks. That’s why pairing glucose stability with hydration, movement, and BP tracking supports both metabolic *and* circulatory resilience.
 
-#### #### Do I need a doctor’s note to carry insulin and CGM supplies through TSA?
+#### Do I need a doctor’s note to carry insulin and CGM supplies through TSA?
 
 While not legally required, a brief, dated note on clinic letterhead helps streamline security screening—especially for liquid insulin, pumps, or CGM chargers. Keep it in your wallet, not your carry-on bag.
 
-#### #### Is it safe to use my CGM on a plane?
+#### Is it safe to use my CGM on a plane?
 
 Yes—CGMs (and insulin pumps) are FAA-approved for all flight phases. However, avoid placing your receiver or phone directly against the aircraft wall during takeoff/landing, as metal shielding may briefly interrupt signal. Otherwise, wear and use as usual.

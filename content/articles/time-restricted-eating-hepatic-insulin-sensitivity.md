@@ -100,22 +100,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does time-restricted eating hepatic insulin sensitivity help lower ALT in older adults?
+#### Does time-restricted eating hepatic insulin sensitivity help lower ALT in older adults?
 
 Yes — especially when practiced consistently for 8–12 weeks. Clinical trials in adults 60+ with NAFLD show average ALT reductions of 12–18% with a 10-hour feeding window ending by 6 PM. The effect is strongest when combined with moderate protein timing and adequate sleep.
 
-#### #### How does time-restricted eating hepatic insulin sensitivity differ from standard intermittent fasting?
+#### How does time-restricted eating hepatic insulin sensitivity differ from standard intermittent fasting?
 
 Standard intermittent fasting (like 16:8) often delays the first meal until noon and the last until 8 PM — which misses the liver’s peak insulin-sensitivity window (4–6 PM). Time-restricted eating hepatic insulin sensitivity emphasizes *early* eating windows aligned with circadian gene expression — not just calorie restriction.
 
-#### #### Can time-restricted eating hepatic insulin sensitivity improve blood sugar control if I already have type 2 diabetes?
+#### Can time-restricted eating hepatic insulin sensitivity improve blood sugar control if I already have type 2 diabetes?
 
 It can — and often does. In a 2023 pilot study of adults 65+ with type 2 diabetes and NAFLD, those following an 8–10 hour window ending by 6 PM saw average HbA1c drops of 0.4–0.7% over 12 weeks — with reduced post-meal glucose spikes and less reliance on prandial insulin.
 
-#### #### Is it safe to do time-restricted eating if I’m on blood pressure medication?
+#### Is it safe to do time-restricted eating if I’m on blood pressure medication?
 
 Mostly yes — but coordination with your doctor is essential. Some BP meds (like ACE inhibitors or diuretics) affect electrolyte balance, and shifting meal timing can influence hydration and sodium handling. Your provider may adjust dosing or timing — especially if you’re also reducing processed sodium through dietary changes.
 
-#### #### What’s the best protein source for improving hepatic insulin sensitivity in my 60s?
+#### What’s the best protein source for improving hepatic insulin sensitivity in my 60s?
 
 Leucine-rich, easily digestible proteins work best: eggs, whey protein isolate, Greek yogurt, salmon, and lentils. Avoid very high-fat cuts of red meat late in the day — they may blunt insulin signaling. For those with mild kidney concerns, plant-based options (lentils, tofu, edamame) offer excellent leucine without added strain.

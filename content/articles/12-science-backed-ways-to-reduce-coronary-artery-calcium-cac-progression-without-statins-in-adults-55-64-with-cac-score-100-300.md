@@ -62,17 +62,17 @@ A CAC score of 100–300 isn’t a life sentence—it’s a signal your body is 
 
 ### FAQ
 
-#### #### Can reducing coronary calcium without statins adults 55-64 really work—or is it just theoretical?
+#### Can reducing coronary calcium without statins adults 55-64 really work—or is it just theoretical?
 Yes—it’s been demonstrated in randomized trials. The K2-CAC study (2022) showed significantly slower progression in adults 55–64 with baseline CAC 100–300 who used K2-MK7 + lifestyle support vs. placebo over 2 years.
 
-#### #### Does magnesium really help reduce coronary calcium without statins adults 55-64?
+#### Does magnesium really help reduce coronary calcium without statins adults 55-64?
 Evidence suggests yes—especially magnesium threonate. Its ability to cross the blood-brain barrier and support endothelial function makes it uniquely relevant for arterial health in this age group. Doses of 144 mg elemental Mg at night improved arterial elasticity markers in pilot studies.
 
-#### #### What’s the best time of day to take vitamin K2-MK7 to reduce coronary calcium without statins adults 55-64?
+#### What’s the best time of day to take vitamin K2-MK7 to reduce coronary calcium without statins adults 55-64?
 Take it with your largest meal of the day—or before bed—with healthy fat (e.g., avocado, olive oil, nuts). This maximizes absorption and aligns with circadian rhythms in vascular repair.
 
-#### #### Can exercise alone reduce coronary artery calcium?
+#### Can exercise alone reduce coronary artery calcium?
 Not “reverse” existing calcium, but yes—consistent aerobic + resistance training slows progression. MESA found adults who met both activity guidelines had 35% lower 5-year CAC growth versus inactive peers.
 
-#### #### Is a CAC score of 200 considered high risk for heart disease?
+#### Is a CAC score of 200 considered high risk for heart disease?
 It falls in the “moderate” range (100–300), indicating definite plaque and ~10–15% 10-year risk of major cardiac event—*if untreated*. But risk is highly modifiable. Focus on progression—not just the number.

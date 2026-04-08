@@ -95,17 +95,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### How do I know if my home BP readings are accurate with AFib?
+#### How do I know if my home BP readings are accurate with AFib?
 Home BP monitors validated for use in AFib (look for ISO 81060-2:2018 or ESH certification) are generally reliable—but best used with proper technique. Take readings after resting, avoid movement or talking, and repeat twice. If your device displays “irregular pulse” alongside high systolic numbers, that’s often a sign of rhythm-driven variation—not equipment error.
 
-#### #### What’s a normal blood pressure range for seniors with AFib?
+#### What’s a normal blood pressure range for seniors with AFib?
 There’s no single “normal” target for everyone—but current guidelines suggest aiming for <130/80 mm Hg for most adults 65+, *if tolerated well*. For those with frailty, dementia, or very low diastolic pressure (<60 mm Hg), slightly higher targets (e.g., <140/90 mm Hg) may be safer and more appropriate. Always personalize with your clinician.
 
-#### #### Can interpreting home BP logs afib seniors help reduce unnecessary medication changes?
+#### Can interpreting home BP logs afib seniors help reduce unnecessary medication changes?
 Yes—absolutely. Many medication adjustments happen after isolated high readings, without considering rhythm context or time-based patterns. Thoughtful interpreting home BP logs afib seniors helps identify whether spikes are transient (rhythm-related) or persistent (suggesting true hypertension), supporting more confident, evidence-informed treatment choices.
 
-#### #### Why does my BP jump when I feel palpitations?
+#### Why does my BP jump when I feel palpitations?
 During AFib episodes—especially rapid ones—your ventricles may not fill fully between beats, leading to stronger, more forceful contractions. This can raise systolic pressure temporarily. It’s not dangerous in isolation, but repeated spikes over weeks may signal a need to revisit rhythm control strategies.
 
-#### #### Should I stop checking BP if readings vary too much?
+#### Should I stop checking BP if readings vary too much?
 No—variation itself is valuable information. Instead of stopping, try adding context: time of day, symptoms, and rhythm status. That turns confusing numbers into meaningful stories your care team can truly use.

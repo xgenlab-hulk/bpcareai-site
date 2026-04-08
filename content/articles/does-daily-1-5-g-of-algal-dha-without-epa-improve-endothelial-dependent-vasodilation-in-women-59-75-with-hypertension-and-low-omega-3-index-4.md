@@ -40,22 +40,22 @@ In closing, nurturing your endothelium isn’t about chasing perfection—it’s
 
 ### FAQ
 
-#### #### Does algal DHA endothelial function women improve blood pressure?
+#### Does algal DHA endothelial function women improve blood pressure?
 
 Algal DHA’s primary benefit in this population appears to be on *endothelial function*—not necessarily immediate blood pressure reduction. Clinical studies show improvements in FMD and red blood cell membrane fluidity, but systolic/diastolic changes are often modest (<3–5 mm Hg) over 12 weeks. That said, better endothelial health supports long-term BP stability by improving arterial compliance and reducing peripheral resistance.
 
-#### #### Can algal DHA endothelial function women work without EPA?
+#### Can algal DHA endothelial function women work without EPA?
 
 Yes—recent trials confirm that 1.5 g/day of *EPA-free* algal DHA significantly improves FMD in women 59–75 with low Omega-3 Index and hypertension. DHA uniquely integrates into cell membranes and supports eNOS coupling, effects not fully replicated by EPA alone. This makes pure DHA especially relevant for studying *endpoint-specificity* in vascular outcomes.
 
-#### #### How long does it take for algal DHA to improve endothelial function?
+#### How long does it take for algal DHA to improve endothelial function?
 
 Most studies observing FMD improvements used 12-week intervention periods. Red blood cell membrane DHA levels typically plateau after 8–12 weeks of consistent dosing—so meaningful changes in endothelial responsiveness generally align with that timeline. Some individuals report increased energy or mental clarity sooner, but vascular metrics require sustained intake.
 
-#### #### Is algal DHA safe for women taking blood pressure medication?
+#### Is algal DHA safe for women taking blood pressure medication?
 
 Yes—algal DHA has no known clinically significant interactions with common antihypertensives (e.g., ACE inhibitors, calcium channel blockers, or thiazide diuretics). That said, because DHA may have mild antithrombotic effects, discuss starting any new supplement with your prescribing clinician—especially if you’re on anticoagulants like warfarin.
 
-#### #### What’s the best way to check if my endothelial function is improving?
+#### What’s the best way to check if my endothelial function is improving?
 
 FMD testing requires specialized ultrasound equipment and trained technicians—so it’s not routine, but it *is* available at many academic medical centers or preventive cardiology clinics. More accessible markers include repeat Omega-3 Index testing (every 4–6 months), home BP trend analysis, and discussing symptoms like exercise tolerance or leg circulation with your provider.

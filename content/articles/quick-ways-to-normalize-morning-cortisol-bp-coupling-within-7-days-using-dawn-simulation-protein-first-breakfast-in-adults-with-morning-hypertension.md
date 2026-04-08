@@ -93,22 +93,22 @@ Supporting healthy circadian rhythms isn’t about perfection—it’s about con
 
 ### FAQ
 
-#### #### What exactly is morning cortisol bp coupling normalization—and why does it matter for heart disease?
+#### What exactly is morning cortisol bp coupling normalization—and why does it matter for heart disease?
 
 Morning cortisol bp coupling normalization refers to restoring the natural, timed relationship between your body’s morning cortisol rise and its corresponding blood pressure response. When these two rhythms align properly—cortisol peaking just before or with your BP surge—it supports healthier vascular tone and reduces strain on the heart over time. Misalignment is associated with increased arterial stiffness and higher long-term risk for heart disease, especially in adults over 50.
 
-#### #### Can morning cortisol bp coupling normalization help if I’m already on blood pressure medication?
+#### Can morning cortisol bp coupling normalization help if I’m already on blood pressure medication?
 
 Yes—absolutely. This approach works *alongside* medications, not instead of them. Many antihypertensives (like ACE inhibitors or ARBs) target different pathways than circadian rhythm support. In fact, some studies suggest improved medication efficacy when morning cortisol-BP coupling is strengthened—potentially allowing for more stable dosing or fewer side effects like morning drowsiness or fatigue.
 
-#### #### How do I know if I’m a non-dipper—and is morning cortisol bp coupling normalization right for me?
+#### How do I know if I’m a non-dipper—and is morning cortisol bp coupling normalization right for me?
 
 A non-dipper shows less than a 10% drop in nighttime BP versus daytime levels—best confirmed via 24-hour ambulatory BP monitoring. If your home readings show little or no nighttime drop *and* you experience morning BP spikes, fatigue upon waking, or dependence on early caffeine, this protocol is very likely relevant. It’s especially helpful for adults over 50 with hypertension, diabetes, or kidney concerns.
 
-#### #### Does the 250-lux light need to be from a special lamp—or can sunlight count?
+#### Does the 250-lux light need to be from a special lamp—or can sunlight count?
 
 Natural sunlight absolutely counts—and is ideal when available! Sitting near a sunny window (not behind glass, which blocks key wavelengths) for 20–30 minutes shortly after waking delivers well over 250 lux on most clear days. On cloudy days or during winter months, a clinically tested light therapy lamp set to 250–500 lux is a reliable alternative.
 
-#### #### Will drinking more water in the morning help with morning hypertension?
+#### Will drinking more water in the morning help with morning hypertension?
 
 Hydration matters—but timing matters more. While chronic dehydration can raise BP, chugging large amounts of water *immediately* upon waking may briefly elevate BP due to volume shift and sympathetic activation. Instead, sip 4–6 oz of water within 15 minutes of waking, then enjoy your protein-first breakfast. Consistent daily hydration (about 1.5–2 L total, adjusted for activity/climate) supports overall vascular health far more than a single morning gulp.

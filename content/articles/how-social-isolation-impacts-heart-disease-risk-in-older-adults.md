@@ -82,17 +82,17 @@ Heart disease remains a leading cause of death in older adults, but understandin
 
 ### FAQ
 
-#### #### Can loneliness really increase my risk of heart disease?
+#### Can loneliness really increase my risk of heart disease?
 Yes. Chronic loneliness triggers stress responses that raise blood pressure, promote inflammation, and encourage unhealthy behaviors—all of which increase the risk of heart disease. Studies show socially isolated individuals have up to a 30% higher chance of developing cardiovascular problems.
 
-#### #### What is the difference between being alone and being socially isolated?
+#### What is the difference between being alone and being socially isolated?
 Being alone refers to physical solitude, while social isolation involves a lack of meaningful connections. You can be surrounded by people and still feel isolated, or live alone and feel deeply connected. It’s the emotional experience of disconnection that affects heart health.
 
-#### #### How does social isolation affect blood pressure in seniors?
+#### How does social isolation affect blood pressure in seniors?
 Social isolation is linked to chronically elevated cortisol levels, which can lead to sustained increases in blood pressure. Research suggests isolated seniors are more likely to have hypertension (defined as 140/90 mm Hg or higher) compared to those with strong social support.
 
-#### #### What are some signs of social isolation in older adults?
+#### What are some signs of social isolation in older adults?
 Signs include withdrawing from social activities, losing interest in hobbies, declining invitations, appearing sad or fatigued, missing medication doses, or not answering calls. Changes in eating or sleeping habits may also signal isolation.
 
-#### #### Can improving social connections reverse heart disease risk?
+#### Can improving social connections reverse heart disease risk?
 While existing heart damage cannot be undone, strengthening social ties can reduce ongoing stress, improve lifestyle habits, and lower future risk. Even modest improvements in social engagement have been shown to positively influence blood pressure and overall cardiovascular outcomes.

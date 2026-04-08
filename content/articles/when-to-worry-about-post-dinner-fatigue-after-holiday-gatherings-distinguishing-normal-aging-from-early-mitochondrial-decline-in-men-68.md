@@ -66,17 +66,17 @@ Feeling tired after a big holiday meal is human, relatable, and often perfectly 
 
 ### FAQ
 
-#### #### Is post-dinner fatigue mitochondrial decline common in seniors over 68?  
+#### Is post-dinner fatigue mitochondrial decline common in seniors over 68?  
 Yes—it’s increasingly recognized as part of healthy metabolic aging. Research suggests up to 40% of adults over 65 report increased postprandial fatigue tied to slower glucose metabolism and reduced mitochondrial turnover. Importantly, it’s not inevitable, and lifestyle support makes a measurable difference.
 
-#### #### How is post-dinner fatigue mitochondrial decline different from regular tiredness after eating?  
+#### How is post-dinner fatigue mitochondrial decline different from regular tiredness after eating?  
 Regular post-meal drowsiness typically peaks 30–45 minutes after eating and lifts within 90 minutes—often improved by light walking or hydration. Fatigue linked to mitochondrial inefficiency tends to persist longer (2–4 hours), feels heavier or “brain-foggy,” and may not respond to simple movement. It’s often accompanied by slower recovery from everyday tasks.
 
-#### #### Can healthy holiday eating for seniors reduce post-dinner fatigue mitochondrial decline symptoms?  
+#### Can healthy holiday eating for seniors reduce post-dinner fatigue mitochondrial decline symptoms?  
 Absolutely. Prioritizing protein, fiber, and healthy fats—and moderating refined carbohydrates—helps stabilize blood sugar and reduces the metabolic “spike-and-crash” that stresses aging mitochondria. Studies show seniors who follow a balanced holiday plate report up to 50% less prolonged fatigue compared to those eating traditional high-glycemic meals.
 
-#### #### Does blood pressure affect post-dinner fatigue in older adults?  
+#### Does blood pressure affect post-dinner fatigue in older adults?  
 Yes—especially postprandial hypotension. Up to 30% of adults over 65 experience a systolic BP drop of ≥20 mm Hg within 2 hours of eating, leading to reduced cerebral blood flow and fatigue. Monitoring BP before and 30–60 minutes after meals can reveal helpful patterns.
 
-#### #### Are there supplements that help with post-dinner fatigue mitochondrial decline seniors?  
+#### Are there supplements that help with post-dinner fatigue mitochondrial decline seniors?  
 While no supplement replaces whole-food nutrition or movement, some nutrients support mitochondrial function—like coenzyme Q10 (CoQ10), magnesium, and alpha-lipoic acid. However, evidence in seniors is mixed, and interactions with medications (e.g., blood thinners, statins) are possible. Always discuss with your doctor before starting anything new.

@@ -68,22 +68,22 @@ While this pattern signals increased vulnerability, it doesn’t mean decline is
 
 ### FAQ
 
-#### #### Why does my blood pressure drop *only* when I walk—and not when I stand up?
+#### Why does my blood pressure drop *only* when I walk—and not when I stand up?
 
 That’s a key clue. Orthostatic drops happen within 3 minutes of standing. A drop *during* walking suggests autonomic nerves aren’t signaling blood vessels to tighten *while active*—a hallmark of diabetic autonomic neuropathy. It’s less about gravity and more about failed dynamic regulation.
 
-#### #### Is blood pressure drops walking diabetes neuropathy reversible?
+#### Is blood pressure drops walking diabetes neuropathy reversible?
 
 Not fully reversible, but progression can slow significantly with tight glucose control, regular supervised exercise, hydration, and sometimes medications like fludrocortisone or midodrine—*if prescribed and monitored carefully*.
 
-#### #### Can blood pressure drops walking diabetes neuropathy cause dementia?
+#### Can blood pressure drops walking diabetes neuropathy cause dementia?
 
 It doesn’t directly *cause* dementia, but it contributes to reduced cerebral blood flow during activity—especially in small vessels. Over time, this is linked to accelerated white-matter damage and faster progression of vascular cognitive impairment.
 
-#### #### What’s a “normal” BP change during walking for someone with long-term diabetes?
+#### What’s a “normal” BP change during walking for someone with long-term diabetes?
 
 In healthy adults, systolic BP typically rises 10–30 mm Hg during brisk walking. A *drop* of 15 mm Hg or more—or no rise at all—during or immediately after walking warrants evaluation.
 
-#### #### Does metformin or insulin cause blood pressure drops walking?
+#### Does metformin or insulin cause blood pressure drops walking?
 
 Neither directly causes this pattern—but poorly managed diabetes (with frequent lows or wide glucose swings) accelerates nerve damage. The issue is underlying neuropathy, not the medication itself.

@@ -97,17 +97,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Are sugar-free desserts safe for seniors on GLP-1 medications?
+#### Are sugar-free desserts safe for seniors on GLP-1 medications?
 Not all are—and safety depends heavily on *which* sweeteners are used. Sugar alcohols (like sorbitol and maltitol) commonly found in sugar-free cookies, chocolates, and pies can worsen nausea and diarrhea in seniors on GLP-1 agonists due to slowed gastric emptying. Pure stevia or monk fruit in small amounts are generally better tolerated, but even these should be introduced gradually.
 
-#### #### What sugar-free desserts glp-1 seniors can eat without nausea?
+#### What sugar-free desserts glp-1 seniors can eat without nausea?
 Look for options with ≤2g of sugar alcohols per serving—or better yet, choose whole-food alternatives: baked cinnamon apples, chia seed pudding sweetened with a pinch of maple syrup, or plain Greek yogurt with berries. Homemade treats using almond or coconut flour (without maltodextrin or heavy sugar alcohol blends) tend to be gentler on digestion.
 
-#### #### Do sugar-free desserts glp-1 seniors cause low blood sugar?
+#### Do sugar-free desserts glp-1 seniors cause low blood sugar?
 They *can*, especially if they contain maltodextrin, corn syrup solids, or hidden carbs—and particularly if combined with insulin or sulfonylureas. Even some non-nutritive sweeteners may influence insulin secretion indirectly via gut-brain signaling. Monitoring glucose 2 hours after eating helps identify patterns.
 
-#### #### Why do I feel nauseous after eating “healthy” sugar-free candy?
+#### Why do I feel nauseous after eating “healthy” sugar-free candy?
 Many sugar-free candies use large amounts of sorbitol or xylitol—both known to draw water into the intestines and ferment, causing gas, cramping, and nausea. In seniors, whose digestive systems move more slowly, this effect is magnified—especially when layered on top of GLP-1–induced gastric slowing.
 
-#### #### Can erythritol be used safely by seniors on Ozempic®?
+#### Can erythritol be used safely by seniors on Ozempic®?
 Erythritol is the best-tolerated sugar alcohol—about 90% is absorbed in the small intestine and excreted unchanged in urine—making it less likely to cause GI upset than sorbitol or maltitol. Still, limit intake to ≤10g per sitting, and avoid products combining it with maltodextrin or artificial flavors that may irritate sensitive stomachs.

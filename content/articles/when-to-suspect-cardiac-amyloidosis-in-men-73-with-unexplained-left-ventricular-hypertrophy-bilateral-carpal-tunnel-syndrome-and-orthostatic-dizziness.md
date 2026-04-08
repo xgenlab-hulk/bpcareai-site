@@ -60,22 +60,22 @@ Cardiac amyloidosis diagnosis men 73+ isn’t something to fear, but it *is* som
 
 ### FAQ
 
-#### #### What are the earliest signs of cardiac amyloidosis in older men?
+#### What are the earliest signs of cardiac amyloidosis in older men?
 
 Early signs often include unexplained fatigue, shortness of breath with mild activity, orthostatic dizziness, bilateral carpal tunnel syndrome, and a heart echo showing thickened walls despite normal or high-normal blood pressure. Because symptoms are subtle, average time to diagnosis is 2–3 years from symptom onset.
 
-#### #### How is cardiac amyloidosis diagnosis men 73+ different from diagnosing younger patients?
+#### How is cardiac amyloidosis diagnosis men 73+ different from diagnosing younger patients?
 
 In men 73+, wild-type transthyretin (ATTRwt) amyloidosis is most common—so genetic testing is usually *not* needed, unlike in younger patients where hereditary (ATTRv) forms are more likely. Diagnosis leans heavily on imaging (PYP scan) and ruling out AL amyloidosis via serum free light chain assays.
 
-#### #### Can cardiac amyloidosis diagnosis men 73+ be mistaken for high blood pressure?
+#### Can cardiac amyloidosis diagnosis men 73+ be mistaken for high blood pressure?
 
 Yes—frequently. Left ventricular hypertrophy from amyloidosis can look identical to that caused by long-standing hypertension on echo or ECG. But unlike hypertension-related thickening, amyloidosis often presents with *low-normal or borderline BP*, orthostatic drops, and preserved EF—clues that point away from typical hypertension.
 
-#### #### Is there a blood test for cardiac amyloidosis?
+#### Is there a blood test for cardiac amyloidosis?
 
 No single blood test confirms it—but key labs include NT-proBNP (often markedly elevated), high-sensitivity troponin (mildly elevated), and serum free light chains + immunofixation to rule out AL amyloidosis. These are essential parts of the cardiac amyloidosis diagnosis men 73+ workup.
 
-#### #### Does carpal tunnel syndrome always mean cardiac amyloidosis?
+#### Does carpal tunnel syndrome always mean cardiac amyloidosis?
 
 Not at all—but bilateral carpal tunnel requiring surgery *in men over 60*, especially alongside heart changes, increases suspicion significantly. Up to 25% of men with ATTRwt amyloidosis have had carpal tunnel surgery—often years before cardiac symptoms appear.

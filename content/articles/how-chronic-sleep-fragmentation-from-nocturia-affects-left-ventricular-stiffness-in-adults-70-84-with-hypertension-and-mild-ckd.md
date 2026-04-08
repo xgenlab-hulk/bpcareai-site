@@ -55,22 +55,22 @@ Left ventricular stiffness develops slowly—and so can improvements. Even modes
 
 ### FAQ
 
-#### #### Does nocturia sleep fragmentation heart stiffness go away on its own?
+#### Does nocturia sleep fragmentation heart stiffness go away on its own?
 
 No—it typically progresses without intervention, especially when linked to untreated hypertension or CKD. However, improving sleep continuity and optimizing blood pressure control *can* slow or stabilize stiffness. Early detection makes a real difference.
 
-#### #### Can treating nocturia improve heart stiffness in older adults?
+#### Can treating nocturia improve heart stiffness in older adults?
 
 Yes—clinical studies suggest that interventions like timed diuretic use, fluid redistribution strategies, and behavioral sleep hygiene lead to measurable reductions in sympathetic activation and improved diastolic function over 3–6 months.
 
-#### #### What’s the connection between nocturia sleep fragmentation heart stiffness and high blood pressure?
+#### What’s the connection between nocturia sleep fragmentation heart stiffness and high blood pressure?
 
 Each nighttime awakening causes transient spikes in BP and heart rate. In people with existing hypertension, these repeated surges contribute to vascular remodeling and myocardial fibrosis—key drivers of left ventricular stiffness.
 
-#### #### Is nocturia always a sign of heart problems?
+#### Is nocturia always a sign of heart problems?
 
 Not always—but in adults over 70 with hypertension or CKD, it’s a valuable signal worth evaluating. Nocturia can stem from many causes (e.g., benign prostatic hyperplasia, diabetes, medication effects), but its impact on heart health is increasingly recognized in cardiology guidelines.
 
-#### #### How common is nocturia in adults aged 70–84?
+#### How common is nocturia in adults aged 70–84?
 
 Very common: approximately 65–80% of adults in this age group report waking at least once nightly; 40–55% report two or more awakenings. When paired with hypertension and mild CKD, the cardiovascular implications become especially relevant.

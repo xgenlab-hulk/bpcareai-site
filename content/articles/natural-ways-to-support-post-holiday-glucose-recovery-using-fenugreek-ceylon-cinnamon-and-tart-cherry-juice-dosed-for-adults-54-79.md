@@ -54,22 +54,22 @@ Supporting your body’s return to balance after the holidays doesn’t require 
 
 ### FAQ
 
-#### #### Can fenugreek and cinnamon interact with my blood pressure medication?
+#### Can fenugreek and cinnamon interact with my blood pressure medication?
 
 Yes—both may enhance the effects of ACE inhibitors or diuretics, potentially lowering BP more than expected. Monitor both glucose *and* arterial pressure closely for the first two weeks, and discuss with your clinician before starting.
 
-#### #### What’s the safest way to start natural glucose recovery after holidays at age 68?
+#### What’s the safest way to start natural glucose recovery after holidays at age 68?
 
 Begin with one support at a time: try Ceylon cinnamon (500 mg with breakfast) for 7 days, then add tart cherry juice (4 oz with lunch). Wait until week 3 before introducing fenugreek—this lets you observe individual responses and minimize digestive upset.
 
-#### #### Does tart cherry juice really help with natural glucose recovery after holidays—or is it just for sleep?
+#### Does tart cherry juice really help with natural glucose recovery after holidays—or is it just for sleep?
 
 Clinical trials in adults 54–79 show tart cherry juice improves both fasting glucose *and* insulin sensitivity—likely due to anthocyanins’ effect on GLUT4 transporters. Its mild melatonin content supports restorative sleep, which further aids metabolic recovery.
 
-#### #### I take warfarin. Is there a safe natural option for natural glucose recovery after holidays?
+#### I take warfarin. Is there a safe natural option for natural glucose recovery after holidays?
 
 Ceylon cinnamon (in moderation, ≤1,000 mg/day) and tart cherry juice (unsweetened, ≤8 oz/day) are generally safe with warfarin—but fenugreek is best avoided due to its vitamin K and coumarin-like compounds. Always share supplement plans with your anticoagulation provider.
 
-#### #### How long does natural glucose recovery after holidays usually take?
+#### How long does natural glucose recovery after holidays usually take?
 
 Most adults 54–79 see stabilization within 10–21 days when combining dietary recalibration, light activity, and evidence-based supports. Individual timelines vary based on baseline health, kidney function, and medication regimen.

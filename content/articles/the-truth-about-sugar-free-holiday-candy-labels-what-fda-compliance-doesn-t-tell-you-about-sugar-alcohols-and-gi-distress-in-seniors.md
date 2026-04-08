@@ -45,17 +45,17 @@ In short, “sugar-free” isn’t inherently benign—and understanding *sugar-
 
 ### FAQ
 
-#### #### Can sugar-free candy cause diarrhea in older adults?
+#### Can sugar-free candy cause diarrhea in older adults?
 Yes—especially products containing maltitol or sorbitol. In adults over 70, slower intestinal transit and reduced absorption increase the risk of osmotic diarrhea. As little as 10–15 g of maltitol may trigger symptoms.
 
-#### #### What are the most common sugar-free candy side effects seniors experience?
+#### What are the most common sugar-free candy side effects seniors experience?
 The most common *sugar-free candy side effects seniors* report include bloating, abdominal cramps, gas, urgent loose stools (often within 3–6 hours), and occasional nausea. Less obvious but clinically relevant are subtle postprandial glucose fluctuations and transient drops in serum magnesium.
 
-#### #### Are there sugar-free candies safe for seniors with diabetes?
+#### Are there sugar-free candies safe for seniors with diabetes?
 Yes—but safety depends on both sweetener type and portion size. Candies sweetened predominantly with erythritol (≤10 g/serving), minimal added carbs (<5 g total), and no hidden maltitol blends tend to be best tolerated. Always verify with your care team before regular use.
 
-#### #### Does “sugar-free” mean zero effect on blood sugar?
+#### Does “sugar-free” mean zero effect on blood sugar?
 No. While sugar alcohols have lower glycemic indices than sucrose, they still contribute calories and can raise blood glucose—especially maltitol (GI ≈ 35) and xylitol (GI ≈ 13). In insulin-resistant seniors, even “low-GI” options may cause measurable postprandial increases.
 
-#### #### How can I tell if my digestive symptoms are from sugar-free candy?
+#### How can I tell if my digestive symptoms are from sugar-free candy?
 Keep a brief food-symptom log noting timing, dose, and symptom onset. If bloating or diarrhea consistently occurs within 6 hours of consuming sugar-free items—and resolves when avoided—it’s highly suggestive. Rule out other causes (e.g., lactose intolerance, small intestinal bacterial overgrowth) with your provider if patterns persist.

@@ -72,17 +72,17 @@ You don’t need to skip holiday treats to protect your health. With thoughtful 
 
 ### FAQ  
 
-#### #### Can sugar-free cookies maltitol gastroparesis develop suddenly in older adults—even without diabetes?  
+#### Can sugar-free cookies maltitol gastroparesis develop suddenly in older adults—even without diabetes?  
 Yes. Functional gastroparesis related to maltitol intake is dose-dependent and age-accelerated—not disease-dependent. Many adults over 70 experience transient, maltitol-induced gastric stasis without underlying diabetes or neuropathy. It’s a physiological response to osmotic load in an already slower-moving system.
 
-#### #### Are “keto-certified” sugar-free cookies safer for seniors than regular sugar-free cookies?  
+#### Are “keto-certified” sugar-free cookies safer for seniors than regular sugar-free cookies?  
 No. “Keto-certified” only verifies net carbohydrate content (<5 g per serving)—not digestive safety. In fact, 81% of keto-certified holiday cookies in the FDA-label audit contained maltitol, compared to 67% of non-keto-labeled sugar-free varieties. Certification says nothing about gastric tolerance.
 
-#### #### What’s the safest amount of maltitol for someone over 70 who wants to try a “sugar-free” cookie?  
+#### What’s the safest amount of maltitol for someone over 70 who wants to try a “sugar-free” cookie?  
 Evidence suggests a maximum of **3 grams per sitting**—roughly the amount in ¼ of a typical store-bought keto cookie. Even then, monitor closely for bloating or nausea within 90 minutes. For most older adults, avoiding maltitol entirely during high-social-demand periods (like holiday meals) is the most predictable strategy.
 
-#### #### Do sugar alcohols like maltitol affect blood pressure directly?  
+#### Do sugar alcohols like maltitol affect blood pressure directly?  
 Not directly—but indirectly, yes. Severe bloating and gastric distension can stimulate vagal reflexes, causing transient drops in systolic pressure (up to 15–20 mm Hg) or contributing to orthostatic dizziness. In people managing hypertension with medications like ACE inhibitors or diuretics, this adds another layer of hemodynamic variability.
 
-#### #### Can gastroparesis caused by sugar-free cookies maltitol gastroparesis be reversed?  
+#### Can gastroparesis caused by sugar-free cookies maltitol gastroparesis be reversed?  
 Yes—typically within 2–4 days of eliminating maltitol and other high-osmolarity sugar alcohols. Symptoms resolve as colonic fermentation normalizes and gastric pacemaker activity recovers. Persistent symptoms beyond one week warrant evaluation for other causes.

@@ -60,22 +60,22 @@ In short, optimizing your CPAP humidifier isn’t about chasing perfection—it�
 
 ### FAQ
 
-#### #### Can adjusting my CPAP humidifier really affect my nocturnal blood pressure?
+#### Can adjusting my CPAP humidifier really affect my nocturnal blood pressure?
 
 Yes—research shows that inadequate humidification can contribute to airway irritation, sympathetic activation, and modest but clinically relevant increases in nocturnal systolic BP—especially in adults over 65. Optimizing *cpap humidifier settings and nocturnal bp* alignment is a safe, non-pharmacologic part of comprehensive OSA care.
 
-#### #### What’s the best humidifier setting for someone with high nighttime BP?
+#### What’s the best humidifier setting for someone with high nighttime BP?
 
 There’s no universal “best” setting—but evidence suggests starting at 30–32°C with mid-level humidity (e.g., 3–4/6) and adjusting based on comfort *and* morning BP trends works well for most adults 67+. Avoid extremes: <26°C may dry airways; >37°C may cause rainout and micro-arousals—both potentially affecting *cpap humidifier settings and nocturnal bp*.
 
-#### #### Does CPAP humidification impact 24-hour blood pressure, or just overnight?
+#### Does CPAP humidification impact 24-hour blood pressure, or just overnight?
 
 Most studies focus on nocturnal BP, but since nighttime pressure strongly influences 24-hour averages—and non-dipping patterns predict long-term cardiovascular risk—supporting healthy nocturnal BP through proper humidification can positively influence overall BP burden. Think of it as one supportive piece of a larger picture.
 
-#### #### My CPAP machine says “Auto” mode—do I still need to think about cpap humidifier settings and nocturnal bp?
+#### My CPAP machine says “Auto” mode—do I still need to think about cpap humidifier settings and nocturnal bp?
 
 Yes. Auto modes adjust based on ambient conditions—not your individual airway physiology or BP patterns. They’re helpful, but pairing them with symptom awareness and occasional manual fine-tuning (especially during seasonal changes) helps ensure *cpap humidifier settings and nocturnal bp* remain in harmony.
 
-#### #### Is there a link between CPAP rainout and elevated blood pressure?
+#### Is there a link between CPAP rainout and elevated blood pressure?
 
 Indirectly, yes. Rainout can cause abrupt awakenings or mask discomfort, triggering brief sympathetic surges and transient BP spikes. While not sustained hypertension, repeated micro-arousals may contribute to non-dipping patterns over time—another reason why balanced humidification matters.

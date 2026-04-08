@@ -78,17 +78,17 @@ Navigating life with diabetic cervical myelopathy and orthopnea takes patience, 
 
 ### FAQ  
 
-#### #### Can pillow modifications diabetic cervical myelopathy help reduce nighttime blood sugar spikes?  
+#### Can pillow modifications diabetic cervical myelopathy help reduce nighttime blood sugar spikes?  
 Yes — indirectly but meaningfully. By improving airway patency and reducing intermittent hypoxia, optimized pillow setups lower sympathetic nervous system activation, which in turn blunts cortisol- and epinephrine-driven glucose release. Studies show reductions in nocturnal glucose variability of 15–20% in responsive adults 60+ when combined with stable daytime diabetes management.
 
-#### #### What’s the safest pillow angle for someone with diabetic cervical myelopathy and orthopnea?  
+#### What’s the safest pillow angle for someone with diabetic cervical myelopathy and orthopnea?  
 A 15–25° elevation (roughly 2–4 inches of lift under the head and upper shoulders) is generally safest and most effective. This range improves respiratory mechanics without forcing cervical extension or compromising spinal cord perfusion. Always pair it with neutral neck alignment — your ear should line up vertically with your acromion (top of shoulder), not drift forward or backward.
 
-#### #### Are memory foam pillows recommended for pillow modifications diabetic cervical myelopathy?  
+#### Are memory foam pillows recommended for pillow modifications diabetic cervical myelopathy?  
 Yes — *if* they’re medium-firm, low-contour, and layered thoughtfully. High-density memory foam provides stable cervical support without sinkage, while a softer top layer prevents pressure sores. Avoid ultra-soft or “cloud-like” foams — they lack the structural integrity needed to maintain lordosis in older adults with ligamentous laxity or disc degeneration.
 
-#### #### How do I know if my current pillow is worsening my brachial plexus symptoms?  
+#### How do I know if my current pillow is worsening my brachial plexus symptoms?  
 Watch for: increased numbness or tingling in the thumbs/index fingers (C6 territory) or pinky/ring fingers (C8/T1) upon waking; difficulty holding a coffee cup or buttoning shirts in the morning; or tightness across the front of the shoulder that eases only when you drop your shoulders and relax your jaw. These signs suggest neural compression — and mean your pillow height, shoulder support, or sleeping position needs adjustment.
 
-#### #### Can pillow modifications diabetic cervical myelopathy replace CPAP for orthopnea?  
+#### Can pillow modifications diabetic cervical myelopathy replace CPAP for orthopnea?  
 No — not at all. CPAP treats obstructive or central sleep apnea, while pillow modifications address *positional contributors* to airway narrowing and nerve compression. They’re complementary, not interchangeable. If your orthopnea stems from heart failure or pulmonary disease, CPAP (or other prescribed therapies) remains essential. Pillow tweaks simply help you use it more comfortably and effectively.

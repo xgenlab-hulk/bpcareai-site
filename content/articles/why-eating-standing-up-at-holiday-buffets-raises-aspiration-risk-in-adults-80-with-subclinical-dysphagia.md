@@ -63,17 +63,17 @@ Holiday meals should be joyful—not stressful. You don’t have to give up your
 
 ### FAQ  
 
-#### #### Does standing while eating really increase aspiration risk for seniors?  
+#### Does standing while eating really increase aspiration risk for seniors?  
 Yes—especially for adults 80+. Upright posture reduces pharyngeal muscle efficiency and delays swallow initiation. When combined with age-related sensory decline or subclinical dysphagia, *standing eating aspiration risk seniors* becomes significantly higher than when seated with proper alignment.
 
-#### #### What makes holiday buffets especially risky for older adults?  
+#### What makes holiday buffets especially risky for older adults?  
 Buffets encourage multitasking—walking, talking, reaching, and eating simultaneously—reducing cognitive focus on swallowing safety. Rich, dry, or crumbly foods (like stuffing or crackers) and rushed pacing further compound *standing eating aspiration risk seniors*.
 
-#### #### Can healthy holiday eating for seniors include buffet-style meals?  
+#### Can healthy holiday eating for seniors include buffet-style meals?  
 Absolutely—when paired with mindful positioning. Choose a seat before eating, use smaller plates, and take breaks between servings. Prioritizing posture and pacing makes *healthy holiday eating for seniors* both safe and satisfying.
 
-#### #### Is aspiration always obvious?  
+#### Is aspiration always obvious?  
 No. Silent aspiration—where food or liquid enters the airway without coughing or choking—is common in older adults and often goes unnoticed until complications like pneumonia arise. That’s why prevention-focused habits matter even without symptoms.
 
-#### #### Do blood pressure fluctuations affect swallowing safety?  
+#### Do blood pressure fluctuations affect swallowing safety?  
 Not directly—but conditions like orthostatic hypotension (a BP drop upon standing) can cause dizziness or lightheadedness, impairing coordination and increasing fall *and* aspiration risk. Monitoring BP helps identify patterns that impact overall stability—including safe mealtime positioning.

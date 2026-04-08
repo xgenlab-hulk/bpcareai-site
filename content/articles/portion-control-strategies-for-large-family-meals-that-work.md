@@ -42,22 +42,22 @@ In short, practicing thoughtful **portion control at family meals** doesn’t me
 
 ### FAQ
 
-#### #### How can I practice portion control at family meals without offending my host or seeming picky?
+#### How can I practice portion control at family meals without offending my host or seeming picky?
 
 Gentle communication goes a long way: try saying, “This looks delicious—I’ll start with a small portion and come back if I’m still hungry.” Or bring a healthy side dish to share (like a colorful salad or roasted veggie tray), which subtly shifts the balance of the meal. Most hosts appreciate thoughtfulness over perfection.
 
-#### #### What are easy portion control at family meals techniques for someone who lives with adult children or grandchildren?
+#### What are easy portion control at family meals techniques for someone who lives with adult children or grandchildren?
 
 Use separate serving utensils for each dish (not shared spoons), keep high-calorie items like gravy or butter off the table, and serve yourself *before* passing dishes around. When possible, sit beside someone who eats slowly—it naturally encourages pacing.
 
-#### #### Does portion control at family meals really affect blood pressure?
+#### Does portion control at family meals really affect blood pressure?
 
 Yes—especially when combined with reduced sodium intake. Research shows that reducing portion sizes of high-sodium foods (e.g., processed meats, canned soups, frozen entrees) can lower systolic BP by an average of 4–6 mm Hg over 8 weeks in adults with elevated readings.
 
-#### #### Is it okay to skip breakfast to “save room” for a big family dinner?
+#### Is it okay to skip breakfast to “save room” for a big family dinner?
 
 Not recommended. Skipping meals often leads to overcompensation later—and increases post-meal blood glucose spikes, which over time stress the vascular system. Instead, aim for balanced mini-meals throughout the day: a small protein-rich breakfast (e.g., Greek yogurt + berries), a midday snack (handful of nuts), and mindful enjoyment at dinner.
 
-#### #### How much water should I drink during family meals to support portion control?
+#### How much water should I drink during family meals to support portion control?
 
 Aim for 1–2 glasses (8–16 oz) before and during the meal. Staying well-hydrated helps maintain satiety signaling and supports kidney function—key for managing sodium balance and arterial pressure.

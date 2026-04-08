@@ -69,17 +69,17 @@ Managing diabetes at holiday parties doesn’t mean sacrificing joy, connection,
 
 ### FAQ
 
-#### #### How can I manage diabetes at holiday parties without feeling left out?
+#### How can I manage diabetes at holiday parties without feeling left out?
 Focus on connection—not just food. Bring a dish you love and know fits your plan (like roasted Brussels sprouts or herb-marinated chicken skewers), and volunteer to help set up or greet guests. Most people appreciate involvement far more than they notice what’s on your plate. And remember: your presence—not your portion size—is the real gift.
 
-#### #### What are the best snacks to bring to a holiday party when managing diabetes at holiday parties?
+#### What are the best snacks to bring to a holiday party when managing diabetes at holiday parties?
 Choose portable, protein- and fiber-rich options: spiced roasted chickpeas, mini frittatas in muffin tins, apple slices with almond butter for dipping, or a cheese-and-nut platter with whole-grain crackers (limit to 4–6 crackers per serving). Avoid pre-made dips with added sugars—opt for hummus, guacamole, or plain Greek yogurt-based ranch.
 
-#### #### How does alcohol affect blood sugar during holiday parties—and how can I manage diabetes at holiday parties safely if I choose to drink?
+#### How does alcohol affect blood sugar during holiday parties—and how can I manage diabetes at holiday parties safely if I choose to drink?
 Alcohol can lower blood sugar initially—especially on an empty stomach—then cause delayed spikes due to its effect on the liver. To stay safe: never drink on an empty stomach, limit to one standard drink, avoid sugary mixers (use sparkling water + citrus), and check glucose before bed. Keep fast-acting carbs (like 4 oz juice or 3–4 glucose tablets) nearby—just in case.
 
-#### #### Should I adjust my diabetes medication before holiday parties?
+#### Should I adjust my diabetes medication before holiday parties?
 Never change doses on your own. But *do* talk with your doctor or diabetes educator ahead of time—especially if you’re using insulin, sulfonylureas, or meglitinides. They may suggest temporary adjustments for days with unpredictable meals or increased activity—or recommend continuous glucose monitoring (CGM) for added insight.
 
-#### #### Is it okay to skip meals during the day to “save calories” for a holiday party?
+#### Is it okay to skip meals during the day to “save calories” for a holiday party?
 No—this often leads to overeating, reactive hypoglycemia, and larger glucose swings. Instead, maintain regular meals and snacks with balanced macros. Skipping meals also increases stress on your body and makes it harder to recognize fullness cues later. Consistency supports stability.

@@ -79,22 +79,22 @@ The goal isn’t perfection. It’s gentle alignment—honoring both your biolog
 
 ### FAQ
 
-#### #### Does wrapping gifts late at night raise blood sugar in people with prediabetes?
+#### Does wrapping gifts late at night raise blood sugar in people with prediabetes?
 
 Yes—especially for adults over 60 with age-related circadian delay. Evening cognitive activity after 10 p.m., particularly under bright light, can suppress melatonin and subtly increase cortisol, reducing overnight insulin sensitivity. Studies report average fasting glucose increases of 8–12 mg/dL in this group following late-night activity—though effects vary by individual rhythm and routine.
 
-#### #### How does late-night activity fasting glucose prediabetes differ from eating late at night?
+#### How does late-night activity fasting glucose prediabetes differ from eating late at night?
 
 They affect glucose through different pathways. Late eating raises blood sugar directly via carbohydrate load and digestion. Late-night activity fasting glucose prediabetes refers to metabolic changes driven by *timing and neural stimulation*, not calories—so even sugar-free, low-movement tasks like wrapping or planning can influence overnight regulation via circadian signaling.
 
-#### #### Can late-night activity fasting glucose prediabetes be reversed with lifestyle changes?
+#### Can late-night activity fasting glucose prediabetes be reversed with lifestyle changes?
 
 Absolutely. Because this phenomenon is largely driven by circadian misalignment—not permanent damage—supporting your natural rhythm often restores balance. Consistent morning light, earlier winding down, and avoiding bright screens after 9 p.m. have shown measurable improvements in fasting glucose within 2–4 weeks in clinical studies with older adults.
 
-#### #### Is high blood pressure linked to late-night activity in people with prediabetes?
+#### Is high blood pressure linked to late-night activity in people with prediabetes?
 
 There is an indirect but meaningful connection. Poor circadian alignment contributes to both elevated fasting glucose *and* non-dipping nocturnal blood pressure (where BP doesn’t fall 10–20% overnight). Adults with prediabetes are already at higher risk for hypertension—and late-night mental activity may further blunt the normal nighttime BP dip. Monitoring both glucose and BP trends together gives a fuller picture of metabolic health.
 
-#### #### Should I stop doing holiday crafts altogether if I have prediabetes?
+#### Should I stop doing holiday crafts altogether if I have prediabetes?
 
 Not at all. The key is *timing and transition*, not elimination. Shifting creative activities earlier in the evening (e.g., wrapping between 7–8:30 p.m.), dimming lights afterward, and adding a short relaxation ritual can preserve joy while supporting glucose stability. Think of it as honoring your body’s wisdom—not restricting your spirit.

@@ -74,17 +74,17 @@ Getting reliable blood pressure numbers isn’t about perfection—it’s about 
 
 ### FAQ
 
-#### #### Can a too-small blood pressure cuff cause false low blood pressure readings?
+#### Can a too-small blood pressure cuff cause false low blood pressure readings?
 Yes—counterintuitively, an undersized cuff often leads to **false low blood pressure readings**, especially in people with larger arms. The cuff can’t fully compress the artery, tricking the device into thinking less pressure is needed.
 
-#### #### Why does atrial fibrillation cause false low blood pressure readings?
+#### Why does atrial fibrillation cause false low blood pressure readings?
 AFib creates irregular pulse intervals and reduced stroke volume. Oscillometric monitors misinterpret these variations as lower pressure, commonly yielding **false low blood pressure readings**, particularly in systolic values.
 
-#### #### How often should I recalibrate my home blood pressure monitor?
+#### How often should I recalibrate my home blood pressure monitor?
 Most home devices don’t offer user recalibration. Instead, check accuracy every 6–12 months against a validated clinical device—especially if you notice drifting numbers or unexplained symptoms.
 
-#### #### What’s the best cuff size for someone with large arms?
+#### What’s the best cuff size for someone with large arms?
 Look for “large” (33–42 cm) or “extra-large” (42–52 cm) cuffs. Measure your arm at the midpoint between shoulder and elbow—then choose the cuff whose bladder length covers 80% of your arm’s circumference.
 
-#### #### Can dehydration cause false low blood pressure readings?
+#### Can dehydration cause false low blood pressure readings?
 Dehydration typically causes *true* low BP—not false readings—but it can amplify device errors (e.g., weak pulse signal), making **false low blood pressure readings** more likely, especially with wrist monitors or in AFib.

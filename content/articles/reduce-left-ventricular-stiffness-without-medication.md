@@ -61,17 +61,17 @@ The idea that heart muscle stiffness is “set in stone” after 50 simply isn�
 
 ### FAQ
 
-#### #### Can lifestyle changes really reduce left ventricular stiffness without medication?
+#### Can lifestyle changes really reduce left ventricular stiffness without medication?
 Yes—multiple clinical trials confirm that targeted diet timing, breathing practices, and aerobic training improve diastolic function and titin phosphorylation in adults 50+, independent of medication.
 
-#### #### What foods help reduce left ventricular stiffness without medication?
+#### What foods help reduce left ventricular stiffness without medication?
 Focus on potassium- and magnesium-rich whole foods (avocados, bananas, leafy greens, legumes) and limit ultra-processed items. Prioritize morning sodium and avoid late-night high-salt meals to support PKG activity.
 
-#### #### How does deep breathing reduce left ventricular stiffness without medication?
+#### How does deep breathing reduce left ventricular stiffness without medication?
 Extended exhalations (≥6 seconds) stimulate vagal tone, increasing nitric oxide and cGMP—key activators of PKG, which phosphorylates titin and enhances ventricular relaxation.
 
-#### #### Is left ventricular stiffness reversible?
+#### Is left ventricular stiffness reversible?
 In many cases, yes—especially when caught early. Reversibility depends on duration, underlying conditions, and consistency with evidence-based lifestyle levers like sodium timing and aerobic activity.
 
-#### #### Does high blood pressure cause left ventricular stiffness?
+#### Does high blood pressure cause left ventricular stiffness?
 Yes—chronic elevated BP increases afterload, triggering structural remodeling and reducing titin phosphorylation over time. That’s why managing arterial pressure *and* myocardial compliance together is so powerful.

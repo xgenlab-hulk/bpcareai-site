@@ -70,17 +70,17 @@ Understanding how seasonal biology affects your metabolism empowers you — not 
 
 ### FAQ
 
-#### #### Does low vitamin D cause insulin resistance — or is it the other way around?
+#### Does low vitamin D cause insulin resistance — or is it the other way around?
 Both directions occur. Chronically low *free* 25(OH)D promotes adipose inflammation and IRS-1 serine phosphorylation — directly impairing insulin signaling. Conversely, insulin resistance increases hepatic DBP production and alters glycosylation, further reducing free vitamin D. It’s a bidirectional loop — making early intervention key.
 
-#### #### How does vitamin-d-binding-protein winter insulin affect blood pressure?
+#### How does vitamin-d-binding-protein winter insulin affect blood pressure?
 Lower free 25(OH)D reduces renin inhibition and endothelial nitric oxide synthase (eNOS) activity — contributing to vasoconstriction and arterial stiffness. In adults 57–65, winter-associated free-D decline correlates with an average 4–6 mm Hg rise in systolic BP. This is one reason why *vitamin-d-binding-protein winter insulin* intersects with cardiovascular risk.
 
-#### #### Can vitamin D supplements fix vitamin-d-binding-protein winter insulin issues?
+#### Can vitamin D supplements fix vitamin-d-binding-protein winter insulin issues?
 Supplements help — but only if dosed and timed appropriately. Standard doses often fail to raise *free* 25(OH)D without addressing DBP affinity and clearance. Combining D3 with K2, magnesium, and timed light exposure yields better outcomes than D3 alone — especially in winter.
 
-#### #### What’s the best time of year to test free vitamin D?
+#### What’s the best time of year to test free vitamin D?
 Late January or early February — when DBP glycosylation shifts are most pronounced and free 25(OH)D typically hits its annual nadir. Testing then reveals your true winter bioavailability baseline.
 
-#### #### Is vitamin-d-binding-protein winter insulin relevant for people without diabetes?
+#### Is vitamin-d-binding-protein winter insulin relevant for people without diabetes?
 Yes. Even in normoglycemic adults 57–65, winter-related free-D decline predicts *future* insulin resistance — appearing up to 2 years before fasting glucose rises. It’s a modifiable early-warning signal, not just a complication of established diabetes.

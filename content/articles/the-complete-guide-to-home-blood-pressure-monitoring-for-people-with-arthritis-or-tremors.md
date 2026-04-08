@@ -51,19 +51,19 @@ Call your healthcare provider if you notice:
 
 ### FAQ
 
-#### #### Can I use a wrist blood pressure monitor if I have arthritis in my hands?  
+#### Can I use a wrist blood pressure monitor if I have arthritis in my hands?  
 Wrist monitors require steady positioning and fine motor control to place correctly—so while they’re *possible*, they’re often less reliable for people with hand or wrist arthritis. Upper-arm automatic cuffs with easy-wrap technology are usually a gentler, more accurate choice.
 
-#### #### How does home blood pressure monitoring arthritis differ from standard monitoring?  
+#### How does home blood pressure monitoring arthritis differ from standard monitoring?  
 The core principle is the same—but the approach adapts. It emphasizes larger buttons, supportive positioning, validated devices, and repeated, relaxed measurements to account for movement or joint stiffness. Accuracy isn’t compromised—it’s carefully preserved through thoughtful habits.
 
-#### #### Is home blood pressure monitoring arthritis recommended for people with Parkinson’s disease?  
+#### Is home blood pressure monitoring arthritis recommended for people with Parkinson’s disease?  
 Yes—especially because BP can fluctuate significantly in Parkinson’s (e.g., orthostatic hypotension). Monitoring at home, ideally at consistent times and in both seated and standing positions (with assistance), gives your care team richer, real-world data.
 
-#### #### What’s the best time of day to check blood pressure if I have tremors?  
+#### What’s the best time of day to check blood pressure if I have tremors?  
 Early morning (before medications) and early evening tend to be most stable for many. But if tremors are milder 30–60 minutes after taking Parkinson’s meds, that window may yield calmer, more repeatable readings.
 
-#### #### Do I need special training to do home blood pressure monitoring arthritis safely?  
+#### Do I need special training to do home blood pressure monitoring arthritis safely?  
 Not formal training—but a quick in-person or video demo with your pharmacist or nurse makes a big difference. They can watch your setup, suggest adaptive tools, and confirm your cuff size and placement. Many clinics offer free BP technique checks.
 
 Home blood pressure monitoring arthritis doesn’t have to feel daunting. With patience, the right tools, and small, compassionate adjustments, you can gather trustworthy information—right from your favorite chair. If you're unsure, talking to your doctor is always a good idea.

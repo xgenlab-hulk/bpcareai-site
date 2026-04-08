@@ -82,22 +82,22 @@ It’s completely understandable to feel uncertain when heart changes appear—b
 
 ### FAQ
 
-#### #### What are the key differences between cardiac amyloidosis vs hypertensive heart disease?
+#### What are the key differences between cardiac amyloidosis vs hypertensive heart disease?
 
 Cardiac amyloidosis involves abnormal protein deposits that stiffen the heart muscle, often without high blood pressure, while hypertensive heart disease results from years of elevated arterial pressure causing adaptive thickening. Amyloidosis commonly shows disproportionate NT-proBNP elevation, apical-sparing strain on echo, and may present with carpal tunnel or spinal stenosis—features rarely seen in pure hypertensive remodeling.
 
-#### #### Can cardiac amyloidosis vs hypertensive heart disease be mistaken for each other in older adults?
+#### Can cardiac amyloidosis vs hypertensive heart disease be mistaken for each other in older adults?
 
 Yes—especially in adults 77+, where both conditions share overlapping features like LVH and diastolic dysfunction. Up to 20% of older adults initially diagnosed with hypertensive heart disease are later reclassified after advanced testing reveals amyloidosis. That’s why “unexplained LVH” warrants thoughtful follow-up—not assumptions.
 
-#### #### Does normal troponin rule out cardiac amyloidosis?
+#### Does normal troponin rule out cardiac amyloidosis?
 
 No. In early or wild-type transthyretin (ATTRwt) cardiac amyloidosis, troponin levels often remain within the normal range—even as the heart sustains microscopic injury. Relying solely on troponin can delay diagnosis; combining it with NT-proBNP, strain imaging, and clinical clues provides much more reliable insight.
 
-#### #### Why does obesity make ECG interpretation less reliable in diagnosing LVH?
+#### Why does obesity make ECG interpretation less reliable in diagnosing LVH?
 
 Excess body fat dampens electrical signals traveling from the heart to skin electrodes, reducing QRS voltage amplitude. As a result, up to 40% of obese older adults with confirmed LVH on echocardiography will have a “normal-voltage” ECG—making echo and strain imaging far more dependable for detecting true structural change.
 
-#### #### Is cardiac amyloidosis treatable in older adults?
+#### Is cardiac amyloidosis treatable in older adults?
 
 Yes—and increasingly so. For wild-type ATTR amyloidosis (the most common type in adults over 75), medications like tafamidis stabilize the transthyretin protein and slow progression. Supportive care—including careful BP management and symptom relief—is highly effective. Early recognition leads to better outcomes and improved quality of life.

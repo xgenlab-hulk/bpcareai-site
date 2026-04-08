@@ -62,22 +62,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can quick workouts after holiday meals really lower blood sugar?
+#### Can quick workouts after holiday meals really lower blood sugar?
 
 Yes—studies show light activity like walking or seated movement within 30–60 minutes after eating improves insulin sensitivity and helps muscles absorb glucose more efficiently. A 10-minute session can lower post-meal glucose by 15–25%, especially in adults over 50.
 
-#### #### What’s the best time to do quick workouts after holiday meals?
+#### What’s the best time to do quick workouts after holiday meals?
 
 Ideally, start 20–40 minutes after finishing your meal—when blood sugar is beginning to rise but hasn’t peaked yet. Avoid waiting until you feel overly full or drowsy.
 
-#### #### Are quick workouts after holiday meals safe if I have high blood pressure?
+#### Are quick workouts after holiday meals safe if I have high blood pressure?
 
 Absolutely—and often recommended. Low-impact options like chair marching or gentle stretching support both glucose and BP regulation. Just avoid holding your breath or straining. If your resting BP is consistently above 140/90 mm Hg, check with your provider before adding new routines.
 
-#### #### Do I need special equipment for quick workouts after holiday meals?
+#### Do I need special equipment for quick workouts after holiday meals?
 
 Nope! All the movements suggested here require only a stable chair and enough floor or carpet space to stand safely. Comfortable clothing and non-slip socks are all you need.
 
-#### #### Can I do these workouts if I have knee or hip pain?
+#### Can I do these workouts if I have knee or hip pain?
 
 Yes—with small adjustments. Seated versions (like seated leg lifts or arm circles) work beautifully. Focus on smooth, controlled motion—not speed or range. If any movement causes sharp pain, stop and consult your physical therapist or doctor.

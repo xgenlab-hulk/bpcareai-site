@@ -79,22 +79,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Why does my blood sugar spike more at holiday dinners than at home—even when I eat the same foods?
+#### Why does my blood sugar spike more at holiday dinners than at home—even when I eat the same foods?
 
 It’s likely due to a combination of emotional triggers (like family dynamics or performance pressure), elevated cortisol from low-grade stress, and ambient cues (smells, sounds, lighting) that prime your metabolic response *before* you eat. These factors amplify gluconeogenesis and blunt insulin sensitivity—especially in adults over 64.
 
-#### #### Are holiday dinner blood sugar emotional triggers different for seniors vs. younger adults?
+#### Are holiday dinner blood sugar emotional triggers different for seniors vs. younger adults?
 
 Yes. Older adults often experience slower cortisol clearance, reduced insulin receptor sensitivity, and greater neural responsiveness to social-emotional cues—making holiday dinner blood sugar emotional triggers more physiologically potent and longer-lasting.
 
-#### #### Can stress from family gatherings really raise blood sugar—even if I don’t overeat?
+#### Can stress from family gatherings really raise blood sugar—even if I don’t overeat?
 
 Absolutely. Cortisol-driven gluconeogenesis can increase blood glucose by 20–40 mg/dL *independently* of food intake. Add in sympathetic nervous system activation (faster heart rate, shallow breathing), and your body behaves as if it’s preparing for action—even when you’re just smiling through dessert.
 
-#### #### What’s the best time to check blood sugar after a holiday meal?
+#### What’s the best time to check blood sugar after a holiday meal?
 
 For adults 64+, aim for three checks: pre-meal (fasting), 1 hour after your *first bite*, and 2 hours after. Many seniors peak later—so the 2-hour reading is especially telling. Avoid checking only at 30 minutes; it’s often too early to capture the full effect.
 
-#### #### Does drinking wine with dinner make holiday dinner blood sugar emotional triggers worse?
+#### Does drinking wine with dinner make holiday dinner blood sugar emotional triggers worse?
 
 It can—especially in moderation. While a single 5-oz glass may not spike glucose directly, alcohol interferes with liver glucose regulation and delays cortisol breakdown. In emotionally charged settings, this can extend and deepen glucose fluctuations. Sparkling water with citrus is a gentler alternative.

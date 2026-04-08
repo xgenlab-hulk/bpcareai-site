@@ -60,22 +60,22 @@ Your body is doing its best to protect you—even in winter. Cold weather renal 
 
 ### FAQ
 
-#### #### Does cold weather increase renal sympathetic activity in older adults?
+#### Does cold weather increase renal sympathetic activity in older adults?
 
 Yes—especially in adults over 70. Research shows cold exposure boosts renal norepinephrine release and RAAS activation, contributing to sodium retention and elevated blood pressure. This effect is more pronounced with age due to natural declines in autonomic flexibility.
 
-#### #### How does cold weather renal sympathetic activity affect diastolic dysfunction?
+#### How does cold weather renal sympathetic activity affect diastolic dysfunction?
 
 It can subtly worsen symptoms by increasing circulating volume and arterial stiffness—both of which challenge the heart’s ability to relax and fill efficiently. This may lead to earlier fatigue or mild breathlessness during daily activities.
 
-#### #### Can wearing warmer clothes reduce cold weather renal sympathetic activity?
+#### Can wearing warmer clothes reduce cold weather renal sympathetic activity?
 
 Yes—layered, insulating clothing helps maintain core and peripheral temperature, reducing the nervous system’s need to activate vasoconstriction and renal sympathetic signaling. Even small improvements (e.g., keeping feet warm) support steadier BP.
 
-#### #### Is cold weather renal sympathetic activity reversible?
+#### Is cold weather renal sympathetic activity reversible?
 
 Absolutely. It’s a dynamic, responsive process—not permanent damage. When ambient temperatures rise or thermal comfort improves, sympathetic drive to the kidneys typically returns toward baseline within days.
 
-#### #### What’s the ideal indoor temperature for someone with hypertension in winter?
+#### What’s the ideal indoor temperature for someone with hypertension in winter?
 
 Evidence supports maintaining living spaces between **68–72°F (20–22°C)**. This range balances comfort, energy efficiency, and physiological stability—minimizing unnecessary cold-triggered BP spikes without overheating.

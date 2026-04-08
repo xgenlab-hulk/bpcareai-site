@@ -74,22 +74,22 @@ Holidays are about connection, comfort, and continuity—not compromise. Knowing
 
 ### FAQ
 
-#### #### Is there phosphate in canned gravy—and how do I know?
+#### Is there phosphate in canned gravy—and how do I know?
 
 Yes—most canned and jarred gravies contain phosphate additives to improve texture and shelf stability. Check the ingredient list for words like “sodium tripolyphosphate,” “disodium phosphate,” or “calcium phosphate.” If you see any, that product is not ideal for adults managing stage 3 CKD.
 
-#### #### Can holiday gravy phosphate kidney disease seniors affect my heart health?
+#### Can holiday gravy phosphate kidney disease seniors affect my heart health?
 
 Yes—elevated phosphorus levels are linked to increased arterial stiffness, vascular calcification, and left ventricular hypertrophy, all of which raise cardiovascular risk—especially in adults 74+ with existing kidney and heart concerns.
 
-#### #### What’s the safest thickener for holiday gravy phosphate kidney disease seniors?
+#### What’s the safest thickener for holiday gravy phosphate kidney disease seniors?
 
 Cornstarch and arrowroot powder are excellent, low-phosphorus alternatives. Both are plant-based, highly effective, and contain less than 5 mg of phosphorus per tablespoon—making them far safer than phosphate-based commercial thickeners.
 
-#### #### Do phosphate binders help if I accidentally eat gravy with added phosphates?
+#### Do phosphate binders help if I accidentally eat gravy with added phosphates?
 
 Phosphate binders (like calcium acetate or sevelamer) work best when taken *with meals* containing phosphorus. If you know you’ll be eating a dish with hidden phosphates—like restaurant gravy—you can take your prescribed binder as directed. But prevention (choosing low-phosphate options) remains the most effective strategy.
 
-#### #### Are gluten-free gravies automatically safer for kidney health?
+#### Are gluten-free gravies automatically safer for kidney health?
 
 Not necessarily. Gluten-free gravies often use phosphate-based thickeners (like sodium aluminum phosphate) to replace wheat flour’s binding power. Always read the full ingredient list—even “healthier” labels don’t guarantee low phosphorus.

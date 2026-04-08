@@ -96,17 +96,17 @@ Hearing “your ECG is normal” is genuinely good news—it means no urgent ele
 
 ### FAQ
 
-#### #### Does a normal ECG rule out conduction disease in older adults?
+#### Does a normal ECG rule out conduction disease in older adults?
 No—it does not. Research shows that up to 68% of early conduction abnormalities in adults over 65 aren’t detected by a standard resting ECG. This is why *ecg normalcy and conduction disease* can coexist, especially in the presence of age-related AV node fibrosis or intermittent fascicular delay.
 
-#### #### What does “ecg normalcy and conduction disease” really mean?
+#### What does “ecg normalcy and conduction disease” really mean?
 It means that while your ECG appears within standard reference ranges (no arrhythmias, no clear block), subtle or evolving issues in the heart’s electrical pathways—like early PR prolongation or patchy bundle branch fibrosis—may still be present. These often require longer-term or more advanced testing to identify.
 
-#### #### Can high blood pressure cause conduction problems even with a normal ECG?
+#### Can high blood pressure cause conduction problems even with a normal ECG?
 Yes. Chronic elevated arterial pressure contributes to structural remodeling in the AV node and His-Purkinje system over time. Many people with well-controlled but long-standing hypertension develop mild conduction changes that remain invisible on routine ECG—making ongoing monitoring and holistic cardiovascular care especially valuable.
 
-#### #### What symptoms should prompt me to ask about conduction health—even with normal ECGs?
+#### What symptoms should prompt me to ask about conduction health—even with normal ECGs?
 Pay gentle attention to unexplained fatigue, near-fainting (pre-syncope), mental fogginess upon standing, or a consistently slow pulse (<50 bpm) paired with symptoms. These warrant discussion—even if every ECG has been reassuring.
 
-#### #### Is it safe to ignore a normal ECG if I’m over 65 and feel fine?
+#### Is it safe to ignore a normal ECG if I’m over 65 and feel fine?
 Feeling fine is wonderful—and a strong sign of overall resilience. However, because early conduction changes are often silent, routine ECGs alone shouldn’t replace thoughtful conversations about your personal risk profile. *Ecg normalcy and conduction disease* awareness helps ensure your care remains proactive, not just reactive.

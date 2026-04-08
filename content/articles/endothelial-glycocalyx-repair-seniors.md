@@ -77,22 +77,22 @@ Caring for your vascular health at 67+ doesn’t require dramatic overhauls—or
 
 ### FAQ
 
-#### #### Can endothelial glycocalyx repair seniors help lower my risk of heart disease?
+#### Can endothelial glycocalyx repair seniors help lower my risk of heart disease?
 
 Yes—indirectly but meaningfully. A healthy glycocalyx reduces arterial inflammation, improves microcirculation, and helps maintain normal blood vessel permeability—all factors linked to slower progression of atherosclerosis and coronary artery disease. While it won’t replace statins or BP meds when clinically indicated, supporting glycocalyx integrity addresses an upstream contributor to heart disease often overlooked in routine care.
 
-#### #### What’s the best way to monitor endothelial glycocalyx repair seniors progress at home?
+#### What’s the best way to monitor endothelial glycocalyx repair seniors progress at home?
 
 There’s no direct at-home test yet—but you *can* track meaningful proxies: consistent post-meal energy (less “food coma”), reduced evening ankle swelling, steadier balance when rising, and stable BP readings *without* increased lightheadedness. Over time, your doctor may also assess microvascular function via specialized tools like sidestream dark field imaging—if available—or follow biomarkers like serum syndecan-1 or hyaluronan (though these remain largely research-grade).
 
-#### #### Are there foods I should avoid to protect my glycocalyx?
+#### Are there foods I should avoid to protect my glycocalyx?
 
 Yes—especially highly refined carbohydrates and added sugars consumed without fiber or protein. A single high-glycemic meal (e.g., white bagel + jam, sugary cereal) can trigger acute glycocalyx shedding in older adults with metabolic syndrome. Also limit ultra-processed meats and fried foods rich in advanced glycation end-products (AGEs), which promote oxidative stress at the endothelial surface.
 
-#### #### Does walking really help endothelial glycocalyx repair seniors—or is it just general fitness?
+#### Does walking really help endothelial glycocalyx repair seniors—or is it just general fitness?
 
 It’s both—and the timing matters. Postprandial walking specifically blunts glucose and triglyceride spikes known to activate heparanase and hyaluronidase enzymes that break down glycocalyx components. In contrast, pre-meal or fasting walks improve insulin sensitivity but don’t offer the same targeted protection against meal-induced glycocalyx injury.
 
-#### #### Can I combine citrus flavonoids with my blood pressure medications?
+#### Can I combine citrus flavonoids with my blood pressure medications?
 
 Most commonly prescribed BP meds—including ACE inhibitors (e.g., lisinopril), ARBs (e.g., losartan), calcium channel blockers (e.g., amlodipine), and thiazide diuretics—are not known to interact with citrus flavonoids at dietary or supplemental levels. However, *grapefruit* (not other citrus) inhibits CYP3A4 enzymes and can raise blood levels of certain medications like some statins and antiarrhythmics—so always clarify with your pharmacist which citrus forms are safe for *your* regimen.

@@ -28,7 +28,7 @@ export default function MobileCTABar() {
           href="https://apps.apple.com/us/app/bpcare-ai-heart-rate-monitor/id6748299186"
           target="_blank"
           rel="noopener noreferrer"
-          className="flex items-center justify-center gap-2 w-full bg-gradient-to-r from-brand-blue to-brand-purple text-white py-3.5 rounded-full font-semibold text-base shadow-md active:scale-[0.98] transition-transform"
+          className="flex items-center justify-center gap-2 w-full bg-gray-900 text-white py-3.5 rounded-full font-semibold text-base shadow-md hover:bg-gray-800 active:scale-[0.98] transition-all"
         >
           <span></span>
           <span>Download Free</span>

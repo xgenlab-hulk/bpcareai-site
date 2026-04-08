@@ -77,22 +77,22 @@ Lowering oxidative stress after family meal isn’t about perfection—it’s ab
 
 ### FAQ
 
-#### #### How soon after a family meal should I start walking to lower oxidative stress after family meal?
+#### How soon after a family meal should I start walking to lower oxidative stress after family meal?
 
 Begin light walking at exactly 20 minutes post-meal for optimal glucose disposal and ROS modulation. A second 10-minute bout at 45–55 minutes further enhances antioxidant enzyme activity. Total cumulative movement of 25 minutes within the first 90 minutes yields the strongest evidence for retinal benefit.
 
-#### #### Can drinking green tea help me lower oxidative stress after family meal?
+#### Can drinking green tea help me lower oxidative stress after family meal?
 
 Yes—but timing matters. Green tea catechins (especially EGCG) are best absorbed on an empty stomach and may interfere with non-heme iron absorption if consumed *with* a meal rich in plant-based iron. For postprandial support, drink decaffeinated green tea *starting at minute 30*, without milk. One 8-oz cup provides ~150 mg EGCG—shown in trials to reduce postprandial MDA by 17% at 75 minutes.
 
-#### #### What foods should I avoid during family gatherings to help lower oxidative stress after family meal?
+#### What foods should I avoid during family gatherings to help lower oxidative stress after family meal?
 
 Minimize simultaneous intake of high-glycemic carbs (e.g., white rolls, mashed potatoes made with butter *and* cream) paired with high-saturated-fat proteins (e.g., marbled beef, fried chicken skin). This combination triggers synergistic oxidative bursts. Instead, choose lean proteins with intact fiber (e.g., grilled salmon with roasted beets and quinoa) and swap refined starches for whole-food alternatives like roasted sweet potato or barley.
 
-#### #### Does alcohol consumption impact my ability to lower oxidative stress after family meal?
+#### Does alcohol consumption impact my ability to lower oxidative stress after family meal?
 
 Yes—especially in early AMD. Ethanol metabolism generates acetaldehyde and depletes glutathione. Even one 5-oz glass of red wine with dinner may blunt the protective effect of dietary polyphenols by 30–40% in susceptible individuals. If consumed, pair it with extra lutein-rich greens and delay by at least 30 minutes after the first bite.
 
-#### #### Are antioxidant supplements effective for lowering oxidative stress after family meal?
+#### Are antioxidant supplements effective for lowering oxidative stress after family meal?
 
 Not as reliably as food-based, timed strategies. High-dose isolated beta-carotene (≥20 mg/day) has been linked to increased lung cancer risk in smokers, and synthetic lutein supplements lack the full phytonutrient matrix found in whole foods. Whole-food sources provide co-factors (e.g., vitamin E, selenium) essential for recycling antioxidants—and their absorption is naturally regulated by digestive feedback mechanisms.

@@ -41,22 +41,22 @@ In short, tai chi isn’t a replacement for medical care — but it *is* a power
 
 ### FAQ
 
-#### #### Does tai chi postprandial glucose older adults benefit those with knee osteoarthritis?
+#### Does tai chi postprandial glucose older adults benefit those with knee osteoarthritis?
 
 Yes — the 2023 RCT specifically included participants with mild knee osteoarthritis (Kellgren-Lawrence grade I–II) and found no worsening of joint symptoms. In fact, 78% reported improved knee comfort after 12 weeks, likely due to enhanced proprioception, reduced inflammatory markers (like IL-6), and more efficient load distribution across the joint.
 
-#### #### How soon can I expect to see changes in my postprandial glucose with daily tai chi?
+#### How soon can I expect to see changes in my postprandial glucose with daily tai chi?
 
 Most participants in the study saw modest improvements by week 4, with statistically significant reductions in 2-hour post-meal glucose by week 8. Consistency matters more than intensity — practicing 45 minutes, 5 days/week, yielded greater effects than shorter or less frequent sessions.
 
-#### #### Is tai chi postprandial glucose older adults effective even without weight loss?
+#### Is tai chi postprandial glucose older adults effective even without weight loss?
 
 Yes. The trial controlled for body weight changes, and improvements in glucose clearance occurred independently of weight loss — pointing to direct effects on muscle perfusion, GLUT4 translocation, and parasympathetic tone.
 
-#### #### Can I do tai chi if I use a cane or walker?
+#### Can I do tai chi if I use a cane or walker?
 
 Absolutely. Seated tai chi and supported standing forms (using a sturdy chair or countertop for balance) maintain the rhythmic breathing, coordinated movement, and neuromuscular engagement that drive metabolic benefits. Many community centers and virtual programs now offer adaptive tai chi classes.
 
-#### #### Does tai chi affect fasting blood glucose as much as postprandial glucose?
+#### Does tai chi affect fasting blood glucose as much as postprandial glucose?
 
 The 2023 study found stronger effects on postprandial glucose than fasting levels — reinforcing that tai chi’s greatest impact lies in enhancing the body’s *response* to meals, rather than altering baseline insulin production. This makes *tai chi postprandial glucose older adults* a particularly relevant strategy for daily metabolic management.

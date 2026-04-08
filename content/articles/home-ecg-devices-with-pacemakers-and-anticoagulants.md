@@ -60,22 +60,22 @@ In summary, home ECG devices with pacemakers and anticoagulants can be helpful c
 
 ### FAQ
 
-#### #### Can home ECG devices with pacemakers and anticoagulants detect atrial flutter accurately?
+#### Can home ECG devices with pacemakers and anticoagulants detect atrial flutter accurately?
 
 Most consumer-grade home ECG devices struggle to reliably identify atrial flutter—especially in people with pacemakers—due to low signal fidelity and inability to resolve subtle flutter waves (typically 250–350 bpm). They may misclassify flutter as atrial fibrillation or even normal sinus rhythm. Clinical-grade monitoring remains the gold standard.
 
-#### #### Are home ECG devices with pacemakers and anticoagulants safe to use alongside apixaban?
+#### Are home ECG devices with pacemakers and anticoagulants safe to use alongside apixaban?
 
 Yes—they’re physically safe to use—but they don’t assess whether your apixaban dose is appropriate or whether your stroke risk has changed. Apixaban levels aren’t measured by ECGs, and rhythm changes detected at home still require clinical correlation.
 
-#### #### Do I need a prescription for home ECG devices with pacemakers and anticoagulants?
+#### Do I need a prescription for home ECG devices with pacemakers and anticoagulants?
 
 No—most are FDA-cleared for over-the-counter use. However, Medicare and private insurers rarely cover them without documented medical necessity (e.g., prior arrhythmia diagnosis). Discuss utility and coverage with your cardiologist first.
 
-#### #### Can rivaroxaban cause false ECG readings?
+#### Can rivaroxaban cause false ECG readings?
 
 Rivaroxaban itself doesn’t interfere with ECG signals—but uncontrolled bleeding (e.g., from overdose or interaction) can lead to anemia or hypotension, which may secondarily affect heart rate and rhythm. The ECG won’t flag the anticoagulant issue; it only reflects the heart’s electrical activity at that moment.
 
-#### #### How often should someone over 72 record ECGs if using home ECG devices with pacemakers and anticoagulants?
+#### How often should someone over 72 record ECGs if using home ECG devices with pacemakers and anticoagulants?
 
 There’s no universal frequency. For stable patients, 2–3 times weekly may suffice. During symptom flares, record before, during, and after—then share all strips with your clinician. More frequent use doesn’t improve outcomes unless paired with expert interpretation.

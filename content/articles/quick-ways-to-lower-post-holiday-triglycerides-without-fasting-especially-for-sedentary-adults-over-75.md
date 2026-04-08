@@ -58,17 +58,17 @@ In short, you don’t need drastic measures to support healthy lipid metabolism 
 
 ### FAQ
 
-#### #### Can seniors really lower triglycerides without fasting—and how soon?
+#### Can seniors really lower triglycerides without fasting—and how soon?
 Yes—clinical studies confirm that adults aged 70+ can see measurable reductions (15–25%) in non-fasting triglycerides within 48–72 hours using timed nutrition and light movement—no fasting required.
 
-#### #### What’s the safest way to lower triglycerides without fasting seniors who take heart medication?
+#### What’s the safest way to lower triglycerides without fasting seniors who take heart medication?
 Work with your doctor first—but strategies like post-meal walking, soluble fiber before meals, and omega-3s taken *with food* are generally compatible with common cardiac meds (e.g., statins, ACE inhibitors). Avoid high-dose niacin unless prescribed.
 
-#### #### Are there foods seniors should avoid *immediately* after the holidays to lower triglycerides without fasting?
+#### Are there foods seniors should avoid *immediately* after the holidays to lower triglycerides without fasting?
 Focus less on elimination and more on timing: limit sugary beverages and baked goods *within 2 hours of dinner*, as nighttime metabolism slows. Prioritize whole-food fats (like avocado or walnuts) over fried or processed options.
 
-#### #### Does drinking more water help lower triglycerides without fasting seniors?
+#### Does drinking more water help lower triglycerides without fasting seniors?
 Staying well-hydrated supports liver and kidney function involved in lipid processing. While water alone won’t drop TGs dramatically, pairing it with lemon and timing it around meals enhances its supportive role—especially in older adults prone to mild dehydration.
 
-#### #### Is it normal for triglycerides to spike after holiday meals—even if I’m usually healthy?
+#### Is it normal for triglycerides to spike after holiday meals—even if I’m usually healthy?
 Absolutely. Even healthy seniors commonly see non-fasting triglycerides rise from baseline (~100 mg/dL) to 180–220 mg/dL after a high-carb, high-fat meal. The key is how quickly they return to baseline—interventions help restore that balance gently and safely.

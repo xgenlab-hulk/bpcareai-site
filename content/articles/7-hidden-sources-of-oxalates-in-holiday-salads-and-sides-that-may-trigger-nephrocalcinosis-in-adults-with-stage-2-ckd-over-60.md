@@ -98,17 +98,17 @@ Navigating *holiday oxalates ckid nephrocalcinosis* doesn’t require perfection
 
 ### FAQ
 
-#### #### What are the top holiday foods high in oxalates for seniors with CKD?
+#### What are the top holiday foods high in oxalates for seniors with CKD?
 Some of the most commonly overlooked high-oxalate holiday foods include roasted beetroot, candied ginger, spinach-based dips or toppings, almond flour crackers, and pecan-topped sweet potato casserole. These appear frequently in festive menus but aren’t always flagged on kidney-diet lists—making them “hidden” risks for adults over 60 with stage 2 CKD.
 
-#### #### Can holiday oxalates ckid nephrocalcinosis be reversed with diet changes alone?
+#### Can holiday oxalates ckid nephrocalcinosis be reversed with diet changes alone?
 Nephrocalcinosis itself reflects calcium deposits in kidney tissue and isn’t typically reversible once established—but progression can often be slowed or halted with consistent dietary management, especially reducing high-bioavailability oxalate intake and staying well-hydrated. Early-stage changes respond well to lifestyle support, particularly when paired with regular kidney function monitoring.
 
-#### #### How does holiday oxalates ckid nephrocalcinosis affect blood pressure in older adults?
+#### How does holiday oxalates ckid nephrocalcinosis affect blood pressure in older adults?
 Oxalate itself doesn’t directly raise blood pressure—but the kidney stress caused by repeated oxalate overload can worsen underlying hypertension, especially in adults over 60 with stage 2 CKD. Since high BP and CKD often coexist and amplify each other, managing both becomes even more important during high-oxalate holiday eating periods.
 
-#### #### Is it safe to eat cranberry sauce if I have CKD?
+#### Is it safe to eat cranberry sauce if I have CKD?
 Yes—unsweetened or low-sugar cranberry sauce is generally low in oxalate (<5 mg per ¼ cup) and may even support urinary health. Just watch added sugars and avoid versions made with high-fructose corn syrup or excessive sodium, which can impact both kidney and cardiovascular health.
 
-#### #### Do cooking methods change oxalate levels in holiday vegetables?
+#### Do cooking methods change oxalate levels in holiday vegetables?
 Yes—boiling reduces soluble oxalates by up to 30–50% (they leach into water), while roasting or sautéing concentrates them. Steaming falls in between. For safest results with higher-oxalate veggies like beets or Swiss chard, boil briefly and discard the water—or choose lower-oxalate alternatives like zucchini, green beans, or cauliflower.

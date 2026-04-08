@@ -84,22 +84,22 @@ High blood pressure is often called the “silent” condition — but that does
 
 ### FAQ
 
-#### #### How often should I do deep breathing exercises to lower blood pressure to see results?
+#### How often should I do deep breathing exercises to lower blood pressure to see results?
 
 Most research shows benefits with **5–10 minutes, once or twice daily**, for at least 4 weeks. Consistency matters more than duration — even 3 minutes daily builds neural pathways over time. Think of it like watering a plant: regular, gentle attention yields stronger roots.
 
-#### #### Do deep breathing exercises to lower blood pressure work for everyone?
+#### Do deep breathing exercises to lower blood pressure work for everyone?
 
 They help *most* people, especially those with stress-sensitive or early-stage hypertension. However, individual responses vary based on factors like baseline BP, nervous system sensitivity, and how regularly you practice. It’s rare for someone to get *no* benefit — but the degree of change differs. That’s why tracking your own numbers (and how you feel) is so helpful.
 
-#### #### Can deep breathing replace my blood pressure medication?
+#### Can deep breathing replace my blood pressure medication?
 
 No — not unless your doctor says so. Deep breathing exercises to lower blood pressure are best viewed as *supportive*, not substitutive. Many people continue medication while gaining added calm, better sleep, and improved BP control. Always discuss any changes to your treatment plan with your healthcare provider.
 
-#### #### What’s the best time of day to practice breathing for blood pressure?
+#### What’s the best time of day to practice breathing for blood pressure?
 
 Morning practice helps set a calmer tone for the day, while late afternoon (around 4–6 p.m.) aligns with natural dips in cortisol and can ease the transition from “doing” to “being.” Avoid right after large meals or within an hour of bedtime if you tend to feel sleepy afterward.
 
-#### #### Is there a breathing technique proven to be most effective for high blood pressure?
+#### Is there a breathing technique proven to be most effective for high blood pressure?
 
 Paced breathing at **5–6 breaths per minute** (about 5 seconds in, 5 seconds out) has the strongest evidence — particularly when guided (via app, audio, or device). Techniques like diaphragmatic breathing, resonant breathing, and coherent breathing all fall under this umbrella. The key is slowness, smoothness, and consistency — not complexity.

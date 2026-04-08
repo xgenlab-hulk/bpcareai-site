@@ -50,22 +50,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### How can seniors with macular degeneration safely enjoy holiday buffet visual impairment seniors situations?
+#### How can seniors with macular degeneration safely enjoy holiday buffet visual impairment seniors situations?
 
 Seniors can use tactile plate mapping, high-contrast serving ware, and verbal confirmation from staff to identify foods confidently. Pre-planning with hosts—and bringing a familiar utensil or placemat—also supports consistency and reduces anxiety.
 
-#### #### What are the best low-vision-friendly foods to include at a holiday buffet for seniors?
+#### What are the best low-vision-friendly foods to include at a holiday buffet for seniors?
 
 Focus on naturally high-contrast, nutrient-dense options: roasted beets on white plates, cranberry sauce in clear glass bowls, herb-roasted chicken on dark ceramic, and steamed broccoli with lemon zest. Avoid visually similar items placed side-by-side (e.g., white fish and mashed potatoes) without textural or temperature differentiation.
 
-#### #### Where can I find training or resources on holiday buffet visual impairment seniors strategies?
+#### Where can I find training or resources on holiday buffet visual impairment seniors strategies?
 
 Local agencies for the blind, senior centers, and low-vision rehabilitation programs often offer hands-on workshops in mealtime independence. The American Foundation for the Blind (AFB) and National Eye Institute (NEI) provide free, printable guides on kitchen safety and dining adaptations.
 
-#### #### Is high sodium intake especially risky for seniors with AMD and hypertension?
+#### Is high sodium intake especially risky for seniors with AMD and hypertension?
 
 Yes. Research links diets high in sodium (>2,300 mg/day) to increased oxidative stress in retinal tissue and elevated systolic blood pressure—both risk factors for AMD progression and cardiovascular events. Aim for <1,500 mg/day if you have hypertension or advanced AMD.
 
-#### #### Can lighting adjustments really improve food identification at holiday buffets?
+#### Can lighting adjustments really improve food identification at holiday buffets?
 
 Absolutely. Diffused, non-glare lighting (500–750 lux) enhances contrast sensitivity more than bright, direct spotlights—which can cause disabling glare for those with cataracts or AMD. Warm-white LED bulbs (2700K–3000K) often provide better color discrimination than cool-white alternatives.

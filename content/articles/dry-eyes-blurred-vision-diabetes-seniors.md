@@ -48,22 +48,22 @@ In short, *dry eyes blurred vision diabetes seniors* is a signpost—not a sente
 
 ### FAQ
 
-#### #### Can diabetes cause dry eyes and blurred vision at the same time?
+#### Can diabetes cause dry eyes and blurred vision at the same time?
 
 Yes—diabetes can contribute to both through multiple pathways: high blood sugar damages small nerves (including those regulating tear production) and affects retinal neurons before vascular changes appear. This dual effect explains why some seniors experience *dry eyes blurred vision diabetes seniors* together, even with well-managed glucose.
 
-#### #### Is blurred vision from dry eyes dangerous for seniors with diabetes?
+#### Is blurred vision from dry eyes dangerous for seniors with diabetes?
 
 Usually not dangerous—but it *is* a cue. Dry-eye-related blurring tends to fluctuate and improve with lubrication, whereas diabetic neurodegeneration may cause steadier, subtle declines in contrast sensitivity or night vision. Either way, it’s worth discussing with your eye care provider.
 
-#### #### What’s the difference between diabetic retinopathy and diabetic retinal neurodegeneration?
+#### What’s the difference between diabetic retinopathy and diabetic retinal neurodegeneration?
 
 Diabetic retinopathy refers to damage to retinal *blood vessels*, typically appearing later (often after 15+ years of diabetes). Diabetic retinal neurodegeneration involves early *nerve cell loss*—detectable via OCT-A or ganglion cell analysis—and may begin within 5 years of diagnosis.
 
-#### #### Do I need special tests if I have dry eyes and diabetes?
+#### Do I need special tests if I have dry eyes and diabetes?
 
 Yes—if symptoms are new or worsening after age 63, ask about tear osmolarity testing and OCT-A. These non-invasive tools help clarify whether treatment should focus on tear health, nerve protection, or both.
 
-#### #### Can high blood pressure make dry eyes and blurred vision worse in seniors with diabetes?
+#### Can high blood pressure make dry eyes and blurred vision worse in seniors with diabetes?
 
 Absolutely. Hypertension compounds microvascular stress in both the lacrimal glands and retina. Keeping BP below 130/80 mm Hg (per current ADA guidelines for older adults with diabetes) supports ocular health alongside glycemic control.

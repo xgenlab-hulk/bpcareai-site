@@ -78,22 +78,22 @@ Understanding how traffic pollution and ventricular repolarization interact isn�
 
 ### FAQ
 
-#### #### Does traffic pollution cause long QT syndrome?
+#### Does traffic pollution cause long QT syndrome?
 
 No—traffic pollution does not cause inherited or acquired long QT syndrome (defined as QTc > 480 ms with symptoms or risk factors). However, research suggests chronic exposure to traffic pollution and ventricular repolarization changes may contribute to *mild, reversible prolongation* in susceptible adults—particularly those already near the upper limit of normal. This is distinct from clinical long QT and rarely progresses without additional triggers.
 
-#### #### Can traffic pollution and ventricular repolarization affect blood pressure too?
+#### Can traffic pollution and ventricular repolarization affect blood pressure too?
 
 Yes—studies consistently link traffic-related air pollution (especially PM2.5 and NO₂) with small but meaningful increases in systolic and diastolic blood pressure. One meta-analysis found an average rise of 1.2 mm Hg in SBP per 10 µg/m³ increase in PM2.5. Since BP and autonomic regulation share neural pathways with ventricular repolarization, managing one often supports the other.
 
-#### #### Is QTc prolongation always dangerous?
+#### Is QTc prolongation always dangerous?
 
 Not at all. Many healthy adults—especially women and older adults—have QTc values in the borderline range (440–480 ms) with no increased risk of arrhythmia. What matters most is *stability*: a steady, unchanged QTc over time is far more reassuring than a single number near the upper limit. Context—including symptoms, medications, and overall cardiovascular health—is essential.
 
-#### #### How often should I get an ECG if I live near heavy traffic?
+#### How often should I get an ECG if I live near heavy traffic?
 
 For adults 57–65 with borderline QTc and regular traffic exposure, an ECG every 1–2 years is reasonable—more often if you start new medications, develop new symptoms, or notice changes in energy or rhythm. It’s not about frequency alone, but about creating a personal baseline you and your doctor can monitor thoughtfully.
 
-#### #### Do air purifiers really help with heart rhythm stability?
+#### Do air purifiers really help with heart rhythm stability?
 
 They won’t change your ECG overnight—but consistent use of certified HEPA purifiers in key rooms has been associated in cohort studies with improved HRV and smaller day-to-day fluctuations in QTc. Think of them as quiet partners in maintaining a calmer internal environment—especially helpful for those whose homes sit close to high-traffic corridors.

@@ -89,22 +89,22 @@ Stress and blood sugar holidays don’t have to derail your well-being. With sma
 
 ### FAQ
 
-#### #### Does stress really raise blood sugar during Christmas and New Year?
+#### Does stress really raise blood sugar during Christmas and New Year?
 
 Yes—absolutely. Emotional stress triggers cortisol and adrenaline, which tell your liver to release glucose into your bloodstream. This effect is especially noticeable during high-pressure times like Christmas and New Year, when routines shift and emotions run high. For adults over 50, who may already have reduced insulin sensitivity, these hormonal surges can cause noticeable spikes—even without eating sweets.
 
-#### #### How does stress and blood sugar holidays affect blood pressure too?
+#### How does stress and blood sugar holidays affect blood pressure too?
 
 Stress and blood sugar holidays often go hand-in-hand with elevated blood pressure. Cortisol increases heart rate and constricts blood vessels, while high glucose levels promote inflammation and arterial stiffness. It’s common to see both fasting glucose and BP rise together during the holidays—especially if sleep, movement, and hydration dip. Monitoring both gives a fuller picture of your cardiovascular wellness.
 
-#### #### What’s the best way to manage blood sugar during Christmas and New Year without giving up celebrations?
+#### What’s the best way to manage blood sugar during Christmas and New Year without giving up celebrations?
 
 Focus on balance—not restriction. Prioritize protein and fiber with meals, move gently after eating, stay hydrated (even with herbal tea), and give yourself permission to step away when needed. Small choices add up: choosing sparkling water over eggnog, taking a walk instead of scrolling, or sharing cooking duties. Joy doesn’t require sacrifice—and neither does stable blood sugar.
 
-#### #### Can holiday stress cause prediabetes to worsen temporarily?
+#### Can holiday stress cause prediabetes to worsen temporarily?
 
 Yes—especially if stress is prolonged and combined with disrupted sleep, less movement, or irregular eating. While prediabetes is a chronic condition, its expression can fluctuate. A few weeks of elevated glucose due to holiday stress won’t “reverse progress,” but it *is* a helpful signal that your current coping tools may need refreshing. Most importantly, it’s reversible with renewed habits in January.
 
-#### #### Is it normal to feel more anxious about blood sugar during the holidays?
+#### Is it normal to feel more anxious about blood sugar during the holidays?
 
 Very normal—and more common than you might think. Many adults over 50 report heightened health awareness during the holidays, especially if they’ve had recent lab work or know family members with diabetes. That awareness, when paired with practical strategies (like checking once or twice a day), becomes empowering—not alarming. You’re paying attention in service of your well-being—and that’s a sign of strength.

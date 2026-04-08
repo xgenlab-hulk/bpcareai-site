@@ -41,17 +41,17 @@ Emotional eating at family events isn’t something to eliminate—it’s someth
 
 ### FAQ
 
-#### #### Why do I always overeat at family gatherings—even when I’m not hungry?
+#### Why do I always overeat at family gatherings—even when I’m not hungry?
 Overeating in these settings is rarely about hunger alone. It’s often tied to emotional cues—like wanting to feel included, avoiding conflict (“Just try one bite!”), or soothing stress from family dynamics. For many over 50, it’s also linked to slower digestion, reduced satiety signals, or medications that affect appetite.
 
-#### #### Is emotional eating at family events a sign of poor health?
+#### Is emotional eating at family events a sign of poor health?
 Not inherently. Occasional emotional eating at family events is a normal human response. It becomes a concern only if it consistently leads to discomfort, disrupts daily energy or sleep, or coincides with rising blood pressure, unexplained weight gain, or persistent low mood—signs that deeper support may be helpful.
 
-#### #### How can I practice healthy eating during family gatherings without offending anyone?
+#### How can I practice healthy eating during family gatherings without offending anyone?
 Lead with kindness—for others *and* yourself. A simple, warm “This is delicious—I’ll enjoy a small portion” often suffices. Offering to bring a dish gives you gentle control. Most importantly: prioritize presence over perfection. Laughing with cousins, listening to an uncle’s story, or holding space for quiet moments nourishes you far beyond any meal.
 
-#### #### Does emotional eating at family events affect blood pressure?
+#### Does emotional eating at family events affect blood pressure?
 Yes—indirectly. High-sodium dishes, large portions, alcohol, and stress can all contribute to temporary BP increases. Repeated spikes may impact long-term arterial pressure, especially if paired with sedentary time post-meal. Gentle movement (a walk after dinner), hydration, and mindful pacing help buffer these effects.
 
-#### #### Can therapy help with emotional eating at family events?
+#### Can therapy help with emotional eating at family events?
 Absolutely. Cognitive behavioral therapy (CBT) and acceptance and commitment therapy (ACT) are evidence-based approaches that help identify triggers, build responsive—not reactive—habits, and strengthen self-compassion—especially valuable during life stages where identity and roles evolve.

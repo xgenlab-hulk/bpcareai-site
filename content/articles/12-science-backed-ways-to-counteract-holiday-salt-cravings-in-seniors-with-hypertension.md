@@ -52,17 +52,17 @@ In short, reducing salt cravings isn’t about deprivation—it’s about honori
 
 ### FAQ  
 
-#### #### Why do seniors crave salt more during the holidays?  
+#### Why do seniors crave salt more during the holidays?  
 Holiday environments—rich aromas, social eating cues, and seasonal stress—can amplify natural age-related declines in taste sensitivity and zinc status. Combined with drier indoor air and less frequent hydration, these factors may increase perceived salt need—even when sodium levels are adequate.
 
-#### #### What’s the safest way to reduce salt cravings hypertension seniors experience?  
+#### What’s the safest way to reduce salt cravings hypertension seniors experience?  
 Start with sensory upgrades (umami herbs, citrus zest, cool temperatures) and ensure adequate hydration and zinc intake. Avoid sudden sodium drops—aim for gradual reduction (e.g., 250 mg less per day each week) while monitoring BP and energy.
 
-#### #### Can reducing salt cravings hypertension seniors face really lower blood pressure?  
+#### Can reducing salt cravings hypertension seniors face really lower blood pressure?  
 Yes—studies show that sustained sodium reduction of ~1,000 mg/day can lower systolic BP by 2–5 mm Hg in hypertensive older adults. When paired with improved taste satisfaction and better hydration, the effect is both measurable and sustainable.
 
-#### #### Are there herbs or spices safe for seniors on blood pressure meds?  
+#### Are there herbs or spices safe for seniors on blood pressure meds?  
 Most culinary herbs (basil, oregano, turmeric, rosemary) are safe and supportive. Avoid excessive licorice root (may raise BP) and consult your doctor before using high-dose supplements like garlic extract, which may interact with anticoagulants or certain BP medications.
 
-#### #### How much sodium is okay for seniors with high blood pressure?  
+#### How much sodium is okay for seniors with high blood pressure?  
 The American Heart Association recommends no more than 1,500 mg per day for most adults with hypertension—roughly ⅔ teaspoon of salt. Remember: ~75% of dietary sodium comes from processed and restaurant foods, not the saltshaker.

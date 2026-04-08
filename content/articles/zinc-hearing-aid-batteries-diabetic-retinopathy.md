@@ -81,22 +81,22 @@ Living well with diabetes, hearing changes, and vision concerns is absolutely po
 
 ### FAQ
 
-#### #### Could zinc from hearing aid batteries worsen my diabetic retinopathy?
+#### Could zinc from hearing aid batteries worsen my diabetic retinopathy?
 
 No clinical studies have shown that normal use of zinc-air hearing aid batteries causes or accelerates diabetic retinopathy. The zinc in these batteries is safely sealed and only becomes accessible if the battery is physically damaged *and* held in prolonged contact with moist tissue—a scenario extremely rare in everyday use.
 
-#### #### Are zinc hearing aid batteries safe for older adults with diabetes and poor wound healing?
+#### Are zinc hearing aid batteries safe for older adults with diabetes and poor wound healing?
 
 Yes—they are considered safe when used as intended. Poor wound healing in diabetes is primarily linked to blood sugar control, circulation, and infection risk—not hearing aid battery exposure. That said, avoiding unnecessary oral or skin contact with batteries is a simple, sensible habit.
 
-#### #### What should I do if I accidentally swallowed a hearing aid battery?
+#### What should I do if I accidentally swallowed a hearing aid battery?
 
 Seek medical attention right away—even though zinc batteries are less corrosive than alkaline ones, button batteries can still pose risks if lodged in the esophagus or digestive tract. This is unrelated to zinc exposure over time, but an urgent safety issue.
 
-#### #### Do hearing aid batteries contain mercury or lead?
+#### Do hearing aid batteries contain mercury or lead?
 
 Modern zinc-air hearing aid batteries sold in the U.S. and EU are mercury-free and lead-free. They contain zinc, manganese dioxide, potassium hydroxide (a mild electrolyte), and air—all safely encapsulated.
 
-#### #### Can high zinc intake affect blood sugar control in diabetes?
+#### Can high zinc intake affect blood sugar control in diabetes?
 
 Dietary zinc (from food or supplements) does not meaningfully impact glucose metabolism in most people. In fact, some studies suggest adequate zinc status may support insulin function. However, extremely high-dose zinc supplementation (over 40 mg/day long-term) *may* interfere with copper absorption—so always discuss supplements with your doctor.

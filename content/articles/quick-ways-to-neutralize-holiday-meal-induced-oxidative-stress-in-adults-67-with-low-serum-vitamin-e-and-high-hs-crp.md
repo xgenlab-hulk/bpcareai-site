@@ -74,22 +74,22 @@ The holidays are meant to be nourishing—not taxing. You don’t need to overha
 
 ### FAQ
 
-#### #### Can tart cherry juice really help neutralize oxidative stress holiday meals in seniors?
+#### Can tart cherry juice really help neutralize oxidative stress holiday meals in seniors?
 
 Yes—especially unsweetened tart cherry juice (Montmorency variety). Clinical studies in adults 65+ show that 4 oz consumed within 15 minutes after a meal increases circulating anthocyanins and reduces hs-CRP by up to 19% over two days. Its anti-inflammatory action complements antioxidant defenses already strained by holiday eating patterns.
 
-#### #### What’s the fastest way to neutralize oxidative stress holiday meals without supplements?
+#### What’s the fastest way to neutralize oxidative stress holiday meals without supplements?
 
 Three food-first actions take under 90 seconds total: (1) drizzle rosemary-infused olive oil on hot food *just before serving*, (2) add 1 tbsp cooled roasted walnuts as a garnish, and (3) sip 4 oz unsweetened tart cherry juice within 15 minutes after eating. These work synergistically—supporting vitamin E recycling, boosting glutathione activity, and calming NF-kB signaling.
 
-#### #### Do I need to avoid holiday foods entirely to neutralize oxidative stress holiday meals?
+#### Do I need to avoid holiday foods entirely to neutralize oxidative stress holiday meals?
 
 Absolutely not. Restriction isn’t the goal—resilience is. The strategies above are designed to *accompany*, not replace, beloved traditions. Think of them as gentle “buffers”: enhancing your body’s natural ability to handle richer meals, rather than demanding you skip the stuffing or skip the gathering.
 
-#### #### Is low vitamin E common in seniors—and can food alone raise it?
+#### Is low vitamin E common in seniors—and can food alone raise it?
 
 Yes—up to 30% of adults over 65 have suboptimal serum vitamin E, often due to lower intake of nuts, seeds, avocado, and plant oils—not necessarily deficiency. While food alone may not rapidly correct very low levels (<4 µg/mL), consistent use of rosemary oil (rich in tocopherol-stabilizing compounds) and walnuts (providing gamma-tocopherol and selenium co-factors) supports functional vitamin E status over weeks to months.
 
-#### #### How does high hs-CRP relate to holiday meals and blood pressure?
+#### How does high hs-CRP relate to holiday meals and blood pressure?
 
 Elevated hs-CRP reflects underlying vascular inflammation—which can impair nitric oxide production, stiffen arteries, and contribute to BP variability. Holiday meals high in saturated fat and refined carbs can temporarily raise hs-CRP by 1–2 mg/L in susceptible individuals. Over time, repeated spikes may contribute to sustained elevation—making strategies that neutralize oxidative stress holiday meals doubly valuable for cardiovascular resilience.

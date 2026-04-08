@@ -55,17 +55,17 @@ Heart health doesn’t require perfection—it thrives on consistency, kindness 
 
 ### FAQ
 
-#### #### Does fermented cranberry sauce improve endothelial function in older adults with high blood pressure?  
+#### Does fermented cranberry sauce improve endothelial function in older adults with high blood pressure?  
 Yes—clinical data shows that low-sugar, 72-hour fermented cranberry sauce led to a 5.2% improvement in flow-mediated dilation (FMD) at 90 minutes post-meal in adults aged 73+ with stage 1 hypertension—more than unfermented or traditionally sweetened versions.
 
-#### #### How does cranberry sauce fermentation endothelial function hypertension relate to holiday meals?  
+#### How does cranberry sauce fermentation endothelial function hypertension relate to holiday meals?  
 Fermentation enhances polyphenol bioavailability, which supports post-meal blood vessel relaxation—especially helpful during family gatherings when meals tend to be larger and higher in sodium or refined carbs. It’s one gentle way to promote resilience in your circulatory system without changing traditions.
 
-#### #### Can cranberry sauce fermentation endothelial benefits be seen in people with stage 1 hypertension under 70?  
+#### Can cranberry sauce fermentation endothelial benefits be seen in people with stage 1 hypertension under 70?  
 While the strongest evidence comes from trials in adults 73+, similar mechanisms likely apply across ages. However, endothelial responsiveness tends to decline with age, so benefits may be more pronounced—and more easily measured—in older adults.
 
-#### #### Is homemade fermented cranberry sauce safe for people on blood pressure medication?  
+#### Is homemade fermented cranberry sauce safe for people on blood pressure medication?  
 Generally yes—but because fermented foods can interact with certain medications (e.g., MAO inhibitors or anticoagulants), consult your pharmacist or doctor before regularly adding fermented cranberry to your routine.
 
-#### #### How long should cranberry sauce ferment to support endothelial health?  
+#### How long should cranberry sauce ferment to support endothelial health?  
 In clinical studies, 72 hours of controlled fermentation using specific lactic acid bacteria yielded optimal polyphenol release and FMD response. Shorter fermentation (under 24 hours) showed minimal difference from unfermented controls.

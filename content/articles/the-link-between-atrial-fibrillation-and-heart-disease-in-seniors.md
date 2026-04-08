@@ -74,22 +74,22 @@ Understanding the link between atrial fibrillation and heart disease in elderly 
 
 ### FAQ
 
-#### #### Can atrial fibrillation and heart disease in elderly adults be reversed?
+#### Can atrial fibrillation and heart disease in elderly adults be reversed?
 
 While AFib itself is rarely “cured” in older adults—especially when structural heart changes are present—it can often be well managed. Lifestyle improvements, medications, and procedures like ablation (in select cases) can restore normal rhythm or control heart rate effectively. Heart disease progression can also slow or stabilize with consistent BP management, cholesterol control, and cardiac rehabilitation. The goal is not reversal alone, but improved function, reduced symptoms, and lower complication risk.
 
-#### #### What is the most common cause of atrial fibrillation and heart disease in elderly patients?
+#### What is the most common cause of atrial fibrillation and heart disease in elderly patients?
 
 Hypertension (high blood pressure) is the leading contributor—accounting for over 60% of AFib cases in adults over 75. Long-standing elevated arterial pressure causes left atrial enlargement and fibrosis, disrupting electrical conduction. Other frequent contributors include coronary artery disease, valvular heart disease (especially mitral valve issues), and age-related degeneration of the heart’s conduction system.
 
-#### #### How does atrial fibrillation increase the risk of heart failure in seniors?
+#### How does atrial fibrillation increase the risk of heart failure in seniors?
 
 AFib reduces the heart’s pumping efficiency by 15–30%, especially when rapid ventricular rates persist over time. This chronic “overwork” can lead to tachycardia-induced cardiomyopathy—a reversible form of heart failure. Additionally, AFib impairs ventricular filling, raising pressures in the left atrium and pulmonary veins, which contributes to congestion and shortness of breath. Studies show seniors with untreated AFib have a 2–3 times higher risk of developing heart failure within 5 years.
 
-#### #### Is it safe for elderly patients with AFib to exercise?
+#### Is it safe for elderly patients with AFib to exercise?
 
 Yes—when appropriately guided. Moderate-intensity aerobic activity is not only safe but recommended for most older adults with AFib and stable heart disease. A 2022 study in *JAMA Internal Medicine* found that seniors who engaged in regular walking had a 27% lower risk of hospitalization for heart failure. Always consult your cardiologist before beginning a new exercise program, particularly if you’ve had recent rhythm disturbances or heart failure symptoms.
 
-#### #### Does having atrial fibrillation automatically mean I have heart disease?
+#### Does having atrial fibrillation automatically mean I have heart disease?
 
 Not necessarily—but it’s a strong warning sign. Up to 15% of people diagnosed with AFib have no known structural heart disease at first evaluation (“lone AFib”). However, even in these cases, aging-related changes or subtle abnormalities may be present. Over time, untreated AFib can contribute to heart disease development. That’s why comprehensive evaluation—including echocardiography and lab testing—is standard after an AFib diagnosis, especially in older adults.

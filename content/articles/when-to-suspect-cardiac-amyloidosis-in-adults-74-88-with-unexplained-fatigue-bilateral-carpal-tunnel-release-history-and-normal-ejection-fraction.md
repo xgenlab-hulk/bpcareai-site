@@ -71,17 +71,17 @@ Cardiac amyloidosis is treatable—especially when identified early. Wild-type A
 
 ### FAQ
 
-#### #### Could carpal tunnel surgery be linked to heart problems later in life?  
+#### Could carpal tunnel surgery be linked to heart problems later in life?  
 Yes—particularly bilateral or recurrent carpal tunnel surgery in adults over 75 may signal underlying wild-type ATTR amyloidosis, which can involve the heart years later. It’s not the surgery itself, but the shared amyloid pathology.
 
-#### #### What are the earliest cardiac amyloidosis signs after carpal tunnel surgery?  
+#### What are the earliest cardiac amyloidosis signs after carpal tunnel surgery?  
 The earliest signs include unexplained fatigue disproportionate to activity, orthostatic dizziness, constipation, and echocardiographic findings like thickened walls with “sparkling” texture—often with normal ejection fraction.
 
-#### #### Is cardiac amyloidosis common after carpal tunnel surgery?  
+#### Is cardiac amyloidosis common after carpal tunnel surgery?  
 No—it’s rare overall, but among older adults with bilateral CTS surgery, the prevalence of underlying cardiac amyloidosis is significantly higher than in the general elderly population (estimated 10–15% in select referral cohorts).
 
-#### #### Does normal ejection fraction rule out cardiac amyloidosis?  
+#### Does normal ejection fraction rule out cardiac amyloidosis?  
 No. In wild-type ATTR, ejection fraction is typically preserved (55–65%) until late stages. Diagnosis relies on a combination of clinical clues, imaging texture, strain patterns, and confirmatory scans—not EF alone.
 
-#### #### What tests confirm cardiac amyloidosis in someone with prior carpal tunnel surgery?  
+#### What tests confirm cardiac amyloidosis in someone with prior carpal tunnel surgery?  
 First-line non-invasive testing includes bone scintigraphy (e.g., 99mTc-PYP scan) with heart-to-contralateral lung ratio ≥1.5, plus serum free light chains and immunofixation to exclude AL amyloidosis. Echo with strain imaging and cardiac MRI may provide supportive evidence.

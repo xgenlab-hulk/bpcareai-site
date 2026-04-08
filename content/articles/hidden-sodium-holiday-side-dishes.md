@@ -75,22 +75,22 @@ Managing hypertension doesn’t mean giving up celebration — it means choosing
 
 ### FAQ
 
-#### #### Are mashed cauliflower and roasted Brussels sprouts safe low-sodium holiday side dishes?
+#### Are mashed cauliflower and roasted Brussels sprouts safe low-sodium holiday side dishes?
 
 Yes — *when prepared simply*. Plain steamed or roasted cauliflower and Brussels sprouts contain less than 30 mg sodium per cup. Avoid pre-marinated versions, cheese sauces, or bacon bits (which can add 200–500 mg per serving). Use garlic powder (not garlic salt), lemon juice, or toasted nuts for flavor instead.
 
-#### #### What are the top 3 hidden sodium holiday side dishes people overlook?
+#### What are the top 3 hidden sodium holiday side dishes people overlook?
 
 The most commonly underestimated ones are: (1) Stuffing/dressing made with seasoned croutons or broth, (2) Green bean casserole with canned soup and fried onions, and (3) Cranberry sauce made with high-sodium pectin or citrus juices preserved with sodium benzoate. All can easily exceed 350 mg per serving.
 
-#### #### How can I ask family to support my low-sodium needs without sounding demanding?
+#### How can I ask family to support my low-sodium needs without sounding demanding?
 
 Try warm, appreciative language: *“I love how much care you put into these meals — would you be open to trying one version of the gravy with no-salt-added broth? I’d be happy to help prep it!”* Framing it as collaboration — not correction — invites teamwork and keeps the focus on shared joy.
 
-#### #### Can I still enjoy traditional holiday flavors while avoiding hidden sodium holiday side dishes?
+#### Can I still enjoy traditional holiday flavors while avoiding hidden sodium holiday side dishes?
 
 Absolutely. Umami-rich ingredients like mushrooms, sun-dried tomatoes (rinsed), nutritional yeast, and tamari (low-sodium version) deepen flavor without relying on salt. Roasting vegetables intensifies sweetness and savoriness naturally — no sodium required.
 
-#### #### Is there a difference between “salt” and “sodium” on food labels — and why does it matter?
+#### Is there a difference between “salt” and “sodium” on food labels — and why does it matter?
 
 Yes. Table salt (sodium chloride) is about 40% sodium by weight — so 1 gram of salt equals ~400 mg sodium. Food labels list *sodium*, not salt, because it’s the sodium ion that affects BP and fluid balance. Always check the “Sodium” line — not just “Salt Content” — for accuracy.

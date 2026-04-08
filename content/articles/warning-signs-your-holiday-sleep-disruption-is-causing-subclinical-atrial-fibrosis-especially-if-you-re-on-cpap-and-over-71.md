@@ -76,22 +76,22 @@ Subtle changes don’t mean inevitable decline—they mean opportunity. With awa
 
 ### FAQ
 
-#### #### What are the earliest sleep disruption and atrial fibrosis warning signs I should watch for?
+#### What are the earliest sleep disruption and atrial fibrosis warning signs I should watch for?
 
 The earliest signs are often silent—but include recurring overnight oxygen dips below 88%, a rising morning NT-proBNP (especially >125 pg/mL), and reduced heart rate variability (HRV) measured over several nights. None cause obvious symptoms at first—but together, they suggest early structural change.
 
-#### #### Can holiday heart syndrome lead to atrial fibrosis—or is it just temporary?
+#### Can holiday heart syndrome lead to atrial fibrosis—or is it just temporary?
 
 Holiday heart syndrome typically refers to *acute*, alcohol-triggered AFib that resolves with abstinence. But repeated episodes—especially when layered with untreated sleep disruption—can accelerate atrial remodeling. Over time, that increases risk for *persistent* atrial fibrosis and chronic AFib.
 
-#### #### Are sleep disruption and atrial fibrosis warning signs different in women over 70?
+#### Are sleep disruption and atrial fibrosis warning signs different in women over 70?
 
 Yes—women often present with more subtle markers: greater HRV loss at lower oxygen desaturation thresholds, and NT-proBNP levels that rise earlier relative to men of the same age. Also, postmenopausal estrogen decline may heighten atrial susceptibility to inflammatory triggers.
 
-#### #### Does CPAP prevent atrial fibrosis—or just treat sleep apnea?
+#### Does CPAP prevent atrial fibrosis—or just treat sleep apnea?
 
 CPAP significantly lowers risk—but doesn’t eliminate it. Structural changes can still occur if CPAP use is inconsistent, mask fit is poor, or other drivers (like sodium load or uncontrolled BP) aren’t addressed. Think of CPAP as essential *foundation*, not full protection.
 
-#### #### How often should I get NT-proBNP checked if I’m over 71 and use CPAP?
+#### How often should I get NT-proBNP checked if I’m over 71 and use CPAP?
 
 For stable patients, every 6–12 months is reasonable. If you’ve had AFib, worsening CPAP data, or new fatigue, consider checking every 3 months during high-risk periods (e.g., November–January) to catch trends early.

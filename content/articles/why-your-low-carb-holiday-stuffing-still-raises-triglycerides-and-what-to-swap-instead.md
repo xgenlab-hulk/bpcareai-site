@@ -81,17 +81,17 @@ Holiday traditions are meant to nourish—not burden—your health. Understandin
 
 ### FAQ
 
-#### #### Does low-carb stuffing triglycerides diabetes mean I should avoid all holiday carbs?
+#### Does low-carb stuffing triglycerides diabetes mean I should avoid all holiday carbs?
 No. It means *how* and *which* carbs matter more than total count. Focus on whole-food, high-fiber sources (barley, wild rice, roasted squash) paired with healthy fats and lean protein—rather than ultra-processed low-carb flours or sweeteners. Portion awareness still applies, but fiber and food matrix trump isolated carb numbers.
 
-#### #### Can low-carb stuffing triglycerides diabetes be safe if I’m on metformin?
+#### Can low-carb stuffing triglycerides diabetes be safe if I’m on metformin?
 Metformin improves insulin sensitivity and may modestly lower fasting triglycerides—but it does *not* prevent postprandial lipemia. You’ll still benefit from choosing stuffing with soluble fiber, balanced fats, and minimal added fructose. Always discuss dietary changes with your prescribing clinician.
 
-#### #### Why does my triglyceride level go up even when I eat “diabetic-friendly” low-carb stuffing?
+#### Why does my triglyceride level go up even when I eat “diabetic-friendly” low-carb stuffing?
 Because many “diabetic-friendly” recipes prioritize glycemic index over lipid metabolism. Hidden fructose, excess omega-6 fats, and lack of soluble fiber disrupt post-meal fat clearance—especially in adults over 50. Lab values reflect *how your body handles the meal*, not just its label.
 
-#### #### Is there a safe amount of dried cranberries in low-carb stuffing triglycerides diabetes recipes?
+#### Is there a safe amount of dried cranberries in low-carb stuffing triglycerides diabetes recipes?
 Limit to 1–2 tsp per serving (≈2–4 g fructose). Better yet, swap for ¼ cup chopped roasted apple with skin—same sweetness, added fiber, and no fructose overload.
 
-#### #### Do blood pressure and triglycerides interact during holiday meals?
+#### Do blood pressure and triglycerides interact during holiday meals?
 Yes. Acute postprandial lipemia triggers endothelial dysfunction and transient increases in arterial pressure—especially in those with existing hypertension. That’s why pairing mindful eating with consistent BP tracking gives a fuller picture of cardiovascular strain.

@@ -79,22 +79,22 @@ Living well with stage 3a CKD doesn’t mean skipping joy—it means celebrating
 
 ### FAQ
 
-#### #### What are the earliest biomarkers of cardiac strain in CKD stage 3a?
+#### What are the earliest biomarkers of cardiac strain in CKD stage 3a?
 
 The earliest detectable biomarkers include urinary NGAL (rising within 1–2 days of stress), plasma GDF-15 (reflecting mitochondrial strain), and reduced beat-to-beat heart rate variability (indicating autonomic shift). These often change before symptoms or standard labs like creatinine or BNP.
 
-#### #### How do biomarkers of cardiac strain in CKD stage 3a differ from those in later CKD stages?
+#### How do biomarkers of cardiac strain in CKD stage 3a differ from those in later CKD stages?
 
 In stage 3a, biomarkers tend to be more dynamic and reversible—NGAL and HRV often normalize with sodium restriction or rest. In stages 4–5, changes become more persistent, and BNP/proBNP rises more prominently. Early detection in stage 3a offers the widest window for lifestyle intervention.
 
-#### #### Can holiday heart syndrome occur in CKD stage 3a without heavy drinking?
+#### Can holiday heart syndrome occur in CKD stage 3a without heavy drinking?
 
 Yes—“holiday heart syndrome” in CKD stage 3a is often driven more by sodium load, sleep disruption, and sympathetic activation than alcohol alone. Even moderate wine consumption (1–2 glasses) combined with high-sodium meals can tip the balance.
 
-#### #### Are home BP monitors useful for spotting cardiac strain in CKD stage 3a?
+#### Are home BP monitors useful for spotting cardiac strain in CKD stage 3a?
 
 Yes—when used consistently. Look beyond single readings: rising morning systolic BP (≥135 mm Hg), widening pulse pressure (>60 mm Hg), or increasing day-to-day variability can all hint at early strain—especially when paired with fatigue or reduced exercise tolerance.
 
-#### #### What labs should I ask my nephrologist about before the holidays?
+#### What labs should I ask my nephrologist about before the holidays?
 
 Consider requesting baseline NGAL, GDF-15, and a 12-lead ECG with HRV analysis (if available) in late October or early November. This gives your team a reference point to compare against any mid-holiday changes.

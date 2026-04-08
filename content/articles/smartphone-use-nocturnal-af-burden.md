@@ -81,22 +81,22 @@ Understanding smartphone use nocturnal AF burden empowers you—not to fear tech
 
 ### FAQ
 
-#### #### Does using my smartphone before bed really increase my risk of nighttime AF episodes?
+#### Does using my smartphone before bed really increase my risk of nighttime AF episodes?
 
 Yes—especially if you’re over 70 and have paroxysmal AF plus mild sleep apnea. Blue light suppresses melatonin, which normally helps stabilize heart rhythm at night. Studies show this raises both the duration and frequency of nocturnal AF episodes, contributing directly to smartphone use nocturnal AF burden.
 
-#### #### How does smartphone use nocturnal AF burden differ from daytime AF triggers?
+#### How does smartphone use nocturnal AF burden differ from daytime AF triggers?
 
 Daytime AF is often linked to acute stressors like exertion, caffeine, or dehydration. Nocturnal AF, however, is strongly influenced by autonomic shifts and hormonal rhythms. Smartphone use nocturnal AF burden reflects how digital exposure disrupts these delicate nighttime balances—making episodes longer, more recurrent, and less likely to self-terminate.
 
-#### #### Can reducing evening screen time lower my overall AF burden—even if I already have persistent AF?
+#### Can reducing evening screen time lower my overall AF burden—even if I already have persistent AF?
 
 While reducing smartphone use nocturnal AF burden won’t reverse established persistent AF, it *can* decrease episode frequency and duration during sleep—lowering strain on the heart, improving sleep quality, and potentially slowing progression. Every reduction in nocturnal arrhythmia burden supports better long-term cardiovascular outcomes.
 
-#### #### Is “night mode” on my phone enough to prevent AF-triggering effects?
+#### Is “night mode” on my phone enough to prevent AF-triggering effects?
 
 Not quite. While night mode reduces blue light, it doesn’t eliminate it—and brightness, duration, and individual sensitivity matter too. For best protection, combine night mode with dimmed brightness, a strict cutoff time (ideally 90 minutes before bed), and charging your phone outside the bedroom.
 
-#### #### What’s the connection between sleep apnea and smartphone use nocturnal AF burden?
+#### What’s the connection between sleep apnea and smartphone use nocturnal AF burden?
 
 Mild obstructive sleep apnea causes repeated oxygen dips and pressure changes that irritate the atria. When paired with melatonin suppression from smartphone use, the combined effect multiplies AF vulnerability—leading to higher smartphone use nocturnal AF burden than either factor alone. Treating sleep apnea (e.g., with PAP therapy) significantly blunts this interaction.

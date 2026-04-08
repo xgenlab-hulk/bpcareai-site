@@ -105,7 +105,7 @@ export default async function ArticlesPage({ searchParams }: PageProps) {
         </div>
 
         {/* Editorial Standards */}
-        <div className="mb-10 flex justify-center">
+        <div className="mb-8 flex justify-center">
           <div className="inline-flex items-center gap-3 px-4 py-2.5 bg-gradient-to-r from-blue-50 via-purple-50 to-blue-50 border border-blue-100/60 rounded-full shadow-sm">
             <div className="flex-shrink-0">
               <div className="w-6 h-6 bg-gradient-to-br from-blue-500 to-purple-600 rounded-full flex items-center justify-center shadow-sm">
@@ -123,6 +123,11 @@ export default async function ArticlesPage({ searchParams }: PageProps) {
           </div>
         </div>
 
+        {/* Search */}
+        <Suspense fallback={null}>
+          <ArticleSearch />
+        </Suspense>
+
         {/* Category Tabs */}
         <div className="mb-6 flex flex-wrap justify-center gap-2">
           <Link
@@ -134,7 +139,6 @@ export default async function ArticlesPage({ searchParams }: PageProps) {
             }`}
           >
             All
-            <span className="ml-1.5 text-xs opacity-75">({allArticles.length})</span>
           </Link>
           {CATEGORIES.map((cat) => (
             <Link
@@ -147,23 +151,8 @@ export default async function ArticlesPage({ searchParams }: PageProps) {
               }`}
             >
               {cat.label}
-              <span className="ml-1.5 text-xs opacity-75">
-                ({categoryCounts[cat.slug] || 0})
-              </span>
             </Link>
           ))}
-        </div>
-
-        {/* Search */}
-        <Suspense fallback={null}>
-          <ArticleSearch />
-        </Suspense>
-
-        {/* Results count */}
-        <div className="mb-6 text-sm text-gray-500 text-center">
-          {totalArticles} article{totalArticles !== 1 ? 's' : ''} found
-          {selectedCategory ? ` in ${selectedCategory.label}` : ''}
-          {searchQuery ? ` matching "${searchQuery}"` : ''}
         </div>
 
         {/* Articles List */}
@@ -176,42 +165,38 @@ export default async function ArticlesPage({ searchParams }: PageProps) {
             </p>
           </div>
         ) : (
-          <div className="space-y-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
             {paginatedArticles.map((article) => {
               const articleCategory = getCategoryForCluster(article.topicCluster);
               return (
                 <Link
                   key={article.slug}
                   href={`/articles/${article.slug}`}
-                  className="block glass-card p-8 hover:shadow-xl transition-all duration-300 group"
+                  className="flex flex-col glass-card p-6 hover:shadow-xl transition-all duration-300 group"
                 >
-                  <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-4">
-                    <div className="flex items-center text-sm text-gray-600">
-                      <span>📅</span>
-                      <span className="ml-2">
-                        {new Date(article.date).toLocaleDateString('en-US', {
-                          month: 'long',
-                          day: 'numeric',
-                          year: 'numeric',
-                        })}
-                      </span>
-                    </div>
+                  <div className="flex items-center gap-2 mb-3">
                     {articleCategory && (
-                      <span className="mt-2 sm:mt-0 inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-blue-50 text-blue-700 border border-blue-100">
+                      <span className="text-xs font-medium text-blue-600 bg-blue-50 px-2 py-0.5 rounded-full">
                         {articleCategory.label}
                       </span>
                     )}
+                    <span className="text-xs text-gray-400">
+                      {new Date(article.date).toLocaleDateString('en-US', {
+                        month: 'short',
+                        day: 'numeric',
+                      })}
+                    </span>
                   </div>
 
-                  <h2 className="text-2xl font-bold text-gray-900 mb-4 group-hover:text-brand-blue-dark transition-colors">
+                  <h2 className="text-base font-bold text-gray-900 mb-4 group-hover:text-brand-blue-dark transition-colors leading-snug line-clamp-3 h-[4.2rem]">
                     {article.title}
                   </h2>
 
-                  <p className="text-gray-700 text-base leading-relaxed mb-4">
+                  <p className="text-sm text-gray-600 leading-relaxed line-clamp-5 flex-1">
                     {article.description}
                   </p>
 
-                  <span className="text-brand-blue-dark font-semibold group-hover:underline">
+                  <span className="mt-4 text-sm text-brand-blue-dark font-semibold group-hover:underline">
                     Read article →
                   </span>
                 </Link>
@@ -220,7 +205,12 @@ export default async function ArticlesPage({ searchParams }: PageProps) {
           </div>
         )}
 
-        {/* Pagination */}
+        {/* Results count + Pagination */}
+        <div className="mt-8 text-center text-sm text-gray-400">
+          {totalArticles} article{totalArticles !== 1 ? 's' : ''}
+          {selectedCategory ? ` in ${selectedCategory.label}` : ''}
+          {searchQuery ? ` matching "${searchQuery}"` : ''}
+        </div>
         {totalPages > 1 && (
           <nav className="mt-12 flex justify-center items-center gap-2" aria-label="Pagination">
             {/* Previous */}

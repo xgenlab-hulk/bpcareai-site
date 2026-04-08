@@ -79,22 +79,22 @@ The holidays are meant to be shared—not strained. You don’t need to “fix�
 
 ### FAQ
 
-#### #### Does holiday weight gain really affect heart health in seniors—or is it exaggerated?
+#### Does holiday weight gain really affect heart health in seniors—or is it exaggerated?
 
 It’s very real—and well-documented. Studies show even modest gains (3–5 pounds) over the holidays correlate with measurable increases in blood pressure, fluid retention, and hospitalization risk among seniors with heart failure or hypertension. The aging cardiovascular system simply has less reserve to absorb these shifts.
 
-#### #### How much weight gain during the holidays is considered risky for seniors with heart disease?
+#### How much weight gain during the holidays is considered risky for seniors with heart disease?
 
 For seniors with diagnosed heart conditions, gaining **more than 4 pounds in 3–5 days**, or **6+ pounds over 2 weeks**, warrants closer monitoring—and possibly a call to your cardiologist or primary care provider. It’s not just the number, but how quickly it appears and whether it’s accompanied by symptoms like swelling, breathlessness, or fatigue.
 
-#### #### Can healthy holiday eating for seniors still include traditional foods?
+#### Can healthy holiday eating for seniors still include traditional foods?
 
 Absolutely—yes. “Healthy holiday eating for seniors” means thoughtful modifications, not removal. Roast turkey with herb rub instead of gravy, sweet potato casserole with less brown sugar and a pecan-oat topping, or cranberry sauce made with orange juice instead of corn syrup. Tradition and heart health can coexist beautifully.
 
-#### #### Why does salt intake spike during the holidays—and why is it especially risky for seniors’ hearts?
+#### Why does salt intake spike during the holidays—and why is it especially risky for seniors’ hearts?
 
 Holiday meals are naturally high in sodium: cured meats, cheeses, canned soups, dressings, and baked goods all add up quickly. One slice of pie with whipped cream can contain 300–400 mg sodium; a cup of soup may hold 900+ mg. For seniors, excess sodium triggers fluid retention, raising blood volume and arterial pressure—which strains an already working heart. The kidneys also become less efficient at clearing sodium with age, compounding the effect.
 
-#### #### Is alcohol consumption during the holidays safe for seniors with heart disease?
+#### Is alcohol consumption during the holidays safe for seniors with heart disease?
 
 Moderation is key—and “moderate” means no more than **one 5-ounce glass of wine, 12 oz of beer, or 1.5 oz of spirits per day** for women, and up to two for men—*if cleared by your doctor*. Alcohol can interact with heart medications (especially blood thinners and antiarrhythmics), raise triglycerides, and trigger atrial fibrillation (“holiday heart syndrome”). If you choose to drink, pair it with water and avoid drinking on an empty stomach.

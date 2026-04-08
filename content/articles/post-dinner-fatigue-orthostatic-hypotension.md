@@ -84,22 +84,22 @@ If you're unsure, talking to your doctor is always a good idea. And if you’ve 
 
 ### FAQ
 
-#### #### What causes post dinner fatigue orthostatic hypotension in older adults?
+#### What causes post dinner fatigue orthostatic hypotension in older adults?
 
 Post dinner fatigue orthostatic hypotension occurs when blood pressure drops significantly after eating *and* upon standing—due to age-related decline in autonomic reflexes, slower vascular response, and increased blood flow to the gut. It’s especially likely after large, high-carbohydrate evening meals in warm environments or when rising from low seating.
 
-#### #### Is post dinner fatigue orthostatic hypotension dangerous?
+#### Is post dinner fatigue orthostatic hypotension dangerous?
 
 While often mild, it can increase fall risk—particularly in adults 76+ whose balance and recovery responses are naturally slower. Repeated episodes may also signal underlying autonomic dysfunction requiring further evaluation, especially if accompanied by sweating abnormalities, constipation, or urinary changes.
 
-#### #### How is post dinner fatigue orthostatic hypotension different from regular low blood pressure?
+#### How is post dinner fatigue orthostatic hypotension different from regular low blood pressure?
 
 Regular (chronic) low BP is typically stable across conditions. Post dinner fatigue orthostatic hypotension is *context-dependent*: it emerges specifically within 30–120 minutes after eating *and* worsens with position change. Its hallmark is timing—not just absolute numbers.
 
-#### #### Can diet changes really help with postprandial hypotension?
+#### Can diet changes really help with postprandial hypotension?
 
 Yes—studies show that reducing meal size by 25%, lowering simple carbohydrate load, and increasing protein/fiber modestly improves postprandial BP stability in older adults. One randomized trial found a 38% reduction in symptomatic episodes among participants who adopted these adjustments over 8 weeks.
 
-#### #### Does coffee or tea make post dinner fatigue orthostatic hypotension worse?
+#### Does coffee or tea make post dinner fatigue orthostatic hypotension worse?
 
 Caffeine can have dual effects: it may temporarily raise BP via vasoconstriction but also stimulate gastric motilin, potentially accelerating splanchnic pooling. For sensitive individuals, consuming caffeine *with* or *immediately after* dinner may worsen symptoms. Try limiting caffeinated beverages to earlier in the day—and observe how you feel.

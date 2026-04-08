@@ -77,22 +77,22 @@ Science moves incrementally—and this 2024 pilot study is just that: a carefull
 
 ### FAQ
 
-#### #### Does low-dose lithium beta-cell function improve insulin production in older adults with type 2 diabetes?
+#### Does low-dose lithium beta-cell function improve insulin production in older adults with type 2 diabetes?
 
 Yes—according to the 2024 pilot study, adults aged 59–67 taking 0.3 mg/day of lithium showed an 18% improvement in stimulated C-peptide, a marker of insulin-producing capacity. This suggests enhanced functional output from surviving beta cells, likely due to improved mitochondrial quality and reduced amyloid burden—not increased beta-cell mass.
 
-#### #### Is low-dose lithium beta-cell function safe for people with mild kidney impairment?
+#### Is low-dose lithium beta-cell function safe for people with mild kidney impairment?
 
 In the study, participants had eGFR >60 mL/min/1.73m² and showed no change in creatinine or cystatin-C levels over 12 months. However, those with eGFR <45 mL/min/1.73m² were excluded. Safety in mild impairment (eGFR 45–59) hasn’t been established—consult your nephrologist before considering this approach.
 
-#### #### Can low-dose lithium beta-cell function help reduce insulin dependence?
+#### Can low-dose lithium beta-cell function help reduce insulin dependence?
 
 The pilot data didn’t show insulin dose reductions across the group, but 31% of lithium-treated participants required no increase in basal insulin over 12 months—compared to 57% in the placebo group who needed upward titration. Larger trials are needed to confirm effects on insulin independence.
 
-#### #### What’s the difference between prescription lithium and ultra-low-dose lithium for beta-cell support?
+#### What’s the difference between prescription lithium and ultra-low-dose lithium for beta-cell support?
 
 Prescription lithium (e.g., 300–600 mg of lithium carbonate daily) targets brain GSK-3β to stabilize mood and carries risks of thyroid/kidney effects. Ultra-low-dose (0.3 mg elemental lithium) works at a *micronutrient* level—modulating the same kinase in peripheral tissues without crossing into neuroactive concentrations. Blood levels remain undetectable by standard assays.
 
-#### #### Are there natural foods or supplements that act similarly to low-dose lithium beta-cell function?
+#### Are there natural foods or supplements that act similarly to low-dose lithium beta-cell function?
 
 No food contains meaningful lithium at this dose—but magnesium, zinc, and alpha-lipoic acid also support mitochondrial health and autophagy. None replicate lithium’s specific GSK-3β modulation, but they’re complementary. Always discuss supplement use with your care team, especially if taking metformin or SGLT2 inhibitors.

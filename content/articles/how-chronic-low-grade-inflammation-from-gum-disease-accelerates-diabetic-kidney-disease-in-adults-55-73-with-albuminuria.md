@@ -96,22 +96,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does gum disease worsen diabetic kidney disease progression?
+#### Does gum disease worsen diabetic kidney disease progression?
 
 Yes—multiple large studies confirm that untreated periodontitis increases the rate of eGFR decline and raises the risk of progressing from microalbuminuria to macroalbuminuria in adults with type 2 diabetes. The mechanism involves bacterial translocation and sustained elevation of IL-6 and TNF-α, which directly injure kidney filtering units.
 
-#### #### How does gum disease affect kidneys in people with diabetes?
+#### How does gum disease affect kidneys in people with diabetes?
 
 Gum disease triggers chronic low-grade inflammation, releasing bacterial toxins and inflammatory cytokines (like IL-6 and TNF-α) into the bloodstream. These substances damage the glomerular endothelium, increase oxidative stress, and promote fibrosis—accelerating diabetic kidney disease progression, especially in adults over 55 with existing albuminuria.
 
-#### #### Can treating gum disease slow down diabetic kidney disease progression?
+#### Can treating gum disease slow down diabetic kidney disease progression?
 
 Evidence suggests yes. Clinical trials show that non-surgical periodontal therapy (e.g., scaling and root planing) leads to measurable reductions in urinary albumin excretion and serum IL-6 levels within 3–6 months—particularly in patients aged 55–73 with stable glycemic control.
 
-#### #### What’s the best way to test for gum-related kidney risk?
+#### What’s the best way to test for gum-related kidney risk?
 
 There’s no single “test,” but a combination works best: clinical periodontal exam + salivary PCR for *P. gingivalis* + serum hs-CRP and IL-6 + serial ACR and eGFR tracking. Some specialized nephrology clinics now offer integrated oral-systemic risk assessments—ask your care team if this is available.
 
-#### #### Is gum disease and diabetic kidney disease progression preventable?
+#### Is gum disease and diabetic kidney disease progression preventable?
 
 While not 100% preventable due to genetic and metabolic factors, the *rate* of progression is highly modifiable. Consistent oral hygiene, regular periodontal care, tight glucose and BP control, and anti-inflammatory lifestyle habits (like Mediterranean-style eating and daily movement) significantly reduce risk—even when started later in life.

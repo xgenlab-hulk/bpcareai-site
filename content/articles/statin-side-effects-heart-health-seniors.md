@@ -53,17 +53,17 @@ In summary, *statin side effects heart health seniors* are nuanced, individualiz
 
 ### FAQ
 
-#### #### Can statins cause heart problems later in life?
+#### Can statins cause heart problems later in life?
 Statins themselves do not cause heart disease—but in some older adults with polypharmacy, long-term use may contribute to mitochondrial inefficiency and subtle cardiac strain, especially when compounded by CoQ10 depletion or muscle microtrauma. This is not common, but worth discussing during annual cardiovascular reviews.
 
-#### #### What are the most common statin side effects heart health seniors should watch for?
+#### What are the most common statin side effects heart health seniors should watch for?
 Beyond muscle aches, key signals include unexplained fatigue that worsens with activity, slower recovery after mild exertion, new-onset exercise intolerance, and subtle declines in balance or gait speed—all possible markers of underlying metabolic or cardiac adaptation challenges.
 
-#### #### Do statins affect blood pressure in older adults?
+#### Do statins affect blood pressure in older adults?
 Statins do not directly lower BP, but improved endothelial function from long-term use may modestly support arterial pressure regulation. However, in polypharmacy contexts, interactions (e.g., with NSAIDs or certain antihypertensives) can indirectly influence BP stability—making consistent home monitoring valuable.
 
-#### #### How long does it take for statin side effects to appear in seniors?
+#### How long does it take for statin side effects to appear in seniors?
 While some reactions occur within weeks, many relevant to mitochondrial health—like progressive fatigue or cumulative muscle microtears—emerge gradually over 6–24 months of continuous use, especially without CoQ10 support or physical activity.
 
-#### #### Are there alternatives to statins for heart health in seniors with multiple medications?
+#### Are there alternatives to statins for heart health in seniors with multiple medications?
 Yes—lifestyle-first approaches (Mediterranean diet, aerobic + resistance activity, sleep hygiene) remain foundational. In select cases, non-statin lipid-lowering agents like ezetimibe or bempedoic acid may be considered, but decisions must weigh benefits against additional pill burden and interaction risks.

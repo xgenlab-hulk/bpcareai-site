@@ -92,22 +92,22 @@ Preventing post-bariatric holiday weight regain isn’t about perfection or depr
 
 ### FAQ
 
-#### #### What is the best approach to post-bariatric holiday weight regain prevention for seniors?
+#### What is the best approach to post-bariatric holiday weight regain prevention for seniors?
 
 The most effective *post-bariatric holiday weight regain prevention* strategy for seniors emphasizes environmental redesign over self-control. Focus on reducing exposure to high-calorie food cues (e.g., moving serving dishes away from the table), using smaller plates (7 inches), prioritizing protein-first meals, and practicing mindful pauses before eating. These techniques align with age-related changes in satiety signaling and reward processing—and are supported by randomized trials in adults over 60.
 
-#### #### Can holiday weight regain after bariatric surgery reverse health benefits?
+#### Can holiday weight regain after bariatric surgery reverse health benefits?
 
 Yes—modest regain (≥5% of lost weight) within the first 18 months is associated with partial reversal of improvements in fasting glucose, triglycerides, and systolic blood pressure. In adults 58–65, even 3–4 kg regain may elevate arterial pressure by 4–6 mm Hg on average—increasing cardiovascular strain. Early intervention through cue-based strategies significantly improves maintenance rates.
 
-#### #### How does healthy holiday eating for seniors differ after bariatric surgery?
+#### How does healthy holiday eating for seniors differ after bariatric surgery?
 
 *Healthy holiday eating for seniors* post-bariatric surgery requires prioritizing nutrient density and mechanical tolerance over tradition. Avoid high-sugar, high-fat desserts and heavy sauces that delay gastric emptying. Opt instead for protein-rich appetizers (e.g., baked cod cakes), steamed vegetables with lemon-herb drizzle, and unsweetened herbal teas. Smaller, more frequent meals (3–4 per day) better match reduced gastric reservoir function—especially important as gastric motility slows with age.
 
-#### #### Do blood pressure changes signal post-bariatric holiday weight regain?
+#### Do blood pressure changes signal post-bariatric holiday weight regain?
 
 Not directly—but rising systolic or diastolic readings *can* be an early indicator. Sodium-laden holiday foods, alcohol, and disrupted sleep elevate BP within hours. A sustained increase (e.g., systolic >135 mm Hg over 5+ days) alongside subtle weight gain may reflect fluid retention or sympathetic activation preceding fat accumulation. Monitoring both helps detect patterns earlier than scale-only tracking.
 
-#### #### What role does social support play in post-bariatric holiday weight regain prevention?
+#### What role does social support play in post-bariatric holiday weight regain prevention?
 
 Social support is protective—but only when aligned with your goals. Research shows that involving family in meal planning (e.g., choosing recipes together) and sharing your “non-food roles” during gatherings increases adherence by 3.2× compared to going it alone. Conversely, well-meaning pressure to “just try a bite” activates stress-eating pathways. Framing support as collaboration—not permission—makes all the difference.

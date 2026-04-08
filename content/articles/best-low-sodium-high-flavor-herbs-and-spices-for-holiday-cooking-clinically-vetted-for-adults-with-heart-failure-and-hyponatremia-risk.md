@@ -78,21 +78,21 @@ Holiday meals are about connection—not compliance. Choosing *low-sodium herbs 
 
 ### FAQ  
 
-#### #### Can low-sodium herbs heart failure hyponatremia choices really affect my fluid balance?  
+#### Can low-sodium herbs heart failure hyponatremia choices really affect my fluid balance?  
 Yes—indirectly but meaningfully. While herbs themselves contain virtually no sodium or osmoles, their aromatic compounds influence taste perception, satiety signals, and even vagal tone. Clinical observation suggests that flavorful, sodium-free seasonings reduce the drive to drink excess fluids, supporting more stable serum sodium and lower risk of acute decompensated heart failure. Think of them as gentle “volume regulators” for your mealtime experience.
 
-#### #### What are the safest low-sodium herbs heart failure hyponatremia patients can use daily?  
+#### What are the safest low-sodium herbs heart failure hyponatremia patients can use daily?  
 Based on current clinical consensus and pharmacokinetic data, the safest everyday options include: fresh garlic and onion, dried oregano, marjoram, thyme, rosemary, fennel seeds, and lemon zest. All contain <1 mg sodium per teaspoon and lack known interactions with vasopressin, RAAS inhibitors, or diuretics. Avoid blends with potassium chloride, monosodium glutamate (MSG), or hydrolyzed vegetable protein unless explicitly approved by your care team.
 
-#### #### Are there any herbs I should avoid if I have heart failure and hyponatremia?  
+#### Are there any herbs I should avoid if I have heart failure and hyponatremia?  
 Yes—particularly those with documented diuretic or natriuretic activity *or* high-potassium content. Steer clear of:  
 - Dandelion leaf (natural potassium-sparing diuretic—risky with spironolactone)  
 - Licorice root (contains glycyrrhizin, which may worsen sodium retention and lower potassium)  
 - Large amounts of parsley (high in potassium; safe in culinary amounts but avoid medicinal doses)  
 Always discuss herbal teas or supplements with your cardiologist before regular use.
 
-#### #### Does using more herbs mean I can eat more sodium elsewhere?  
+#### Does using more herbs mean I can eat more sodium elsewhere?  
 No. Herbs don’t “cancel out” sodium. They simply offer a safer, more satisfying way to season food *within* your prescribed sodium limit—typically 1,500–2,000 mg/day for most adults with heart failure. Think of herbs as enhancers, not offsets.
 
-#### #### How soon might I notice benefits from switching to low-sodium herbs heart failure hyponatremia-safe seasonings?  
+#### How soon might I notice benefits from switching to low-sodium herbs heart failure hyponatremia-safe seasonings?  
 Many people report improved meal satisfaction and reduced post-meal thirst within 3–5 days. Objective markers—like more stable daily weights or fewer nocturnal awakenings to urinate—often appear within 10–14 days of consistent use. Keep a simple journal: note what you season with, how thirsty you feel 30 minutes later, and your weight each morning. Small insights add up to big understanding.

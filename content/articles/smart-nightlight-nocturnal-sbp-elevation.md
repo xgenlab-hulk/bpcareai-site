@@ -77,22 +77,22 @@ Understanding how everyday choices—including something as small as a nightligh
 
 ### FAQ
 
-#### #### Can smart nightlights really raise blood pressure at night?
+#### Can smart nightlights really raise blood pressure at night?
 
 Yes—particularly in adults over 60. Blue-enriched light from many smart nightlights suppresses melatonin, which indirectly reduces nitric oxide bioavailability and impairs nighttime vasodilation. Clinical studies show this can elevate nocturnal systolic blood pressure by 5–12 mm Hg in susceptible individuals, contributing to *smart-nightlight-nocturnal-sbp-elevation*. The effect is strongest when exposure occurs within 90 minutes of bedtime.
 
-#### #### What’s the safest color for a nightlight if I’m concerned about blood pressure?
+#### What’s the safest color for a nightlight if I’m concerned about blood pressure?
 
 Amber (590–620 nm) or red (<650 nm) light is safest. These wavelengths minimally affect melanopsin receptors in the eye—meaning they preserve melatonin secretion and support healthy endothelial function. Avoid “white,” “cool white,” or “blue-enhanced” LEDs, even at low brightness. Look for products specifically tested for circadian safety—not just “dimmable” or “low-power.”
 
-#### #### Does smart-nightlight-nocturnal-sbp-elevation happen even if I don’t notice sleep problems?
+#### Does smart-nightlight-nocturnal-sbp-elevation happen even if I don’t notice sleep problems?
 
 Yes. Many adults experience subclinical circadian disruption—meaning their melatonin rhythm shifts or dampens without obvious insomnia. Since nocturnal BP regulation relies heavily on melatonin-supported nitric oxide signaling, *smart-nightlight-nocturnal-sbp-elevation* can occur silently, especially in those with existing endothelial vulnerability (e.g., hypertension, diabetes, or aging arteries). That’s why consistent BP monitoring—not just sleep perception—is so valuable.
 
-#### #### How long does it take to see improvements after changing nightlights?
+#### How long does it take to see improvements after changing nightlights?
 
 Most adults notice measurable improvements in sleep onset and nighttime BP within 3–7 days of switching to amber/red lighting and reducing pre-sleep blue light. Full stabilization of melatonin rhythm and endothelial responsiveness typically occurs within 2–3 weeks of consistent practice. Keep logging your BP—you’ll likely see the nocturnal dip gradually return.
 
-#### #### Are there other nighttime habits that worsen nocturnal blood pressure besides light?
+#### Are there other nighttime habits that worsen nocturnal blood pressure besides light?
 
 Yes. Late-evening meals (especially high-sodium or high-carb), caffeine after 2 p.m., alcohol within 3 hours of bed, and sleeping in a warm room (>22°C / 72°F) can all blunt the normal nocturnal BP dip. However, light exposure is among the most potent and easily adjusted factors—making it an excellent place to start.

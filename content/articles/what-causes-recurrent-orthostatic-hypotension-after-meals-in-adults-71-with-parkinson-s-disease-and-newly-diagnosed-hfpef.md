@@ -61,22 +61,22 @@ We understand how unsettling it can feel to lose confidence in everyday activiti
 
 ### FAQ
 
-#### #### What causes postprandial orthostatic hypotension parkinsons in older adults?
+#### What causes postprandial orthostatic hypotension parkinsons in older adults?
 
 It results from overlapping effects: impaired autonomic regulation due to α-synuclein pathology in Parkinson’s, reduced vascular compensation after meals (splanchnic pooling), and stiffened heart muscle from HFpEF—all of which limit the body’s ability to maintain stable arterial pressure when upright after eating.
 
-#### #### Is postprandial orthostatic hypotension parkinsons dangerous?
+#### Is postprandial orthostatic hypotension parkinsons dangerous?
 
 While rarely life-threatening on its own, it increases fall risk—especially in adults over 70. Repeated episodes may also reflect worsening autonomic or cardiac function, making regular monitoring important.
 
-#### #### How is postprandial orthostatic hypotension parkinsons diagnosed?
+#### How is postprandial orthostatic hypotension parkinsons diagnosed?
 
 Clinicians typically use seated and standing BP measurements taken before and 30, 60, and 90 minutes after a standardized meal (e.g., 75g glucose load or typical breakfast). A drop of ≥20 mm Hg systolic or ≥10 mm Hg diastolic while upright qualifies as orthostatic hypotension.
 
-#### #### Can diet changes really help with postprandial orthostatic hypotension parkinsons?
+#### Can diet changes really help with postprandial orthostatic hypotension parkinsons?
 
 Yes—studies show carb-sequencing, smaller meals, and strategic hydration reduce symptom frequency by 30–40% over 4–8 weeks. These are low-risk, high-yield interventions recommended by the American College of Cardiology and International Parkinson and Movement Disorder Society.
 
-#### #### Does HFpEF make postprandial orthostatic hypotension parkinsons worse?
+#### Does HFpEF make postprandial orthostatic hypotension parkinsons worse?
 
 Absolutely. Diastolic dysfunction limits the heart’s ability to compensate for sudden shifts in blood volume—making BP drops after meals more pronounced and slower to recover. That’s why coordinated neurology-cardiology care is especially valuable.

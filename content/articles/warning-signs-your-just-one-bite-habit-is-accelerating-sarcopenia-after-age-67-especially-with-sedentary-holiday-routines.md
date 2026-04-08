@@ -70,22 +70,22 @@ If you're unsure, talking to your doctor is always a good idea. The *holiday sna
 
 ### FAQ
 
-#### #### What are the earliest holiday snacking sarcopenia warning signs 67+?
+#### What are the earliest holiday snacking sarcopenia warning signs 67+?
 
 Early signs include afternoon leg fatigue, slower stair climbing, needing extra push to rise from a chair, or feeling unsteady while carrying light loads. These reflect subtle declines in muscle quality—not just quantity—and often appear before noticeable weight loss.
 
-#### #### Can holiday snacking really affect muscle health in people over 67?
+#### Can holiday snacking really affect muscle health in people over 67?
 
 Yes—especially when high-sugar, low-protein snacks are repeated throughout the day *and* paired with less movement. Studies show that frequent glycemic spikes can suppress muscle protein synthesis for hours in older adults, making consistent, balanced eating and light activity key protective habits.
 
-#### #### How is holiday snacking sarcopenia warning signs 67+ different from normal aging?
+#### How is holiday snacking sarcopenia warning signs 67+ different from normal aging?
 
 Normal aging involves gradual change—but accelerated loss (e.g., losing >1% muscle mass per year) often links to modifiable factors like diet pattern, physical inactivity, or poor sleep. Early warning signs give you time to adjust *before* function is impacted.
 
-#### #### Does blood pressure play a role in muscle health during the holidays?
+#### Does blood pressure play a role in muscle health during the holidays?
 
 Indirectly, yes. Elevated BP (especially systolic >140 mm Hg) can signal reduced vascular health, limiting blood flow to muscles. Since circulation supports nutrient delivery and repair, maintaining healthy arterial pressure helps sustain muscle resilience—even during festive seasons.
 
-#### #### Are there specific foods I should avoid during family gatherings to protect muscle health?
+#### Are there specific foods I should avoid during family gatherings to protect muscle health?
 
 It’s less about avoidance and more about balance. Limit repeated servings of highly refined carbs (white rolls, candy, soda) without protein or fiber. Instead, enjoy treats mindfully—and pair them with options like cheese, eggs, beans, or roasted vegetables to support stable energy and MPS.

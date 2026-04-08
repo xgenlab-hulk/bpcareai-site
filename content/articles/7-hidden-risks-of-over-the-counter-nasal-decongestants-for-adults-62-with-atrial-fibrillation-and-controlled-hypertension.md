@@ -94,17 +94,17 @@ Managing atrial fibrillation and staying heart-healthy as you age isn’t about 
 
 ### FAQ  
 
-#### #### Can nasal decongestants trigger atrial fibrillation in seniors?  
+#### Can nasal decongestants trigger atrial fibrillation in seniors?  
 Yes—they can provoke new-onset Afib or worsen existing episodes, especially in adults over 60 with underlying heart disease or electrolyte imbalances. Pseudoephedrine increases sympathetic tone, which raises atrial irritability and shortens atrial refractory periods—key triggers for Afib initiation.
 
-#### #### Are nasal decongestants atrial fibrillation seniors safe if my blood pressure is well-controlled?  
+#### Are nasal decongestants atrial fibrillation seniors safe if my blood pressure is well-controlled?  
 Not necessarily. Controlled BP reflects vascular pressure—not electrical stability. Even with readings under 130/80 mm Hg, sympathomimetics can still prolong QT, disrupt nocturnal rhythm control, and impair endothelial function. Safety depends on your full cardiac profile—not just one number.
 
-#### #### What’s the safest decongestant for seniors with atrial fibrillation?  
+#### What’s the safest decongestant for seniors with atrial fibrillation?  
 There is no completely “safe” OTC decongestant for this group. Saline irrigation remains the gold-standard first-line option. If pharmacologic support is needed, topical ipratropium (an anticholinergic nasal spray) may be considered *under medical supervision*, as it lacks adrenergic activity—but it’s prescription-only and not appropriate for everyone.
 
-#### #### How long do decongestant effects last in older adults?  
+#### How long do decongestant effects last in older adults?  
 Metabolism slows with age. Pseudoephedrine’s half-life extends from ~6 hours in younger adults to ~9–12 hours in those over 65—meaning its cardiovascular effects (including QT changes and BP elevation) can persist well into the night or next morning.
 
-#### #### Can I use a decongestant just once—like before a flight—to prevent ear pain?  
+#### Can I use a decongestant just once—like before a flight—to prevent ear pain?  
 A single dose carries lower—but not zero—risk. If absolutely necessary, choose the lowest effective dose, take it at least 8 hours before bedtime, and ensure your electrolytes (potassium, magnesium) are optimized beforehand. Discuss with your cardiologist first—especially if you’ve had recent Afib episodes or use antiarrhythmic meds.

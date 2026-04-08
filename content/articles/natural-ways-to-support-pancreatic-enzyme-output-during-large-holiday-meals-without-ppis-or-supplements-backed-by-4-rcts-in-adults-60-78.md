@@ -76,22 +76,22 @@ Supporting digestive health during the holidays isn’t about restriction or per
 
 ### FAQ
 
-#### #### Can natural methods really boost pancreatic enzymes without supplements during holiday meals?
+#### Can natural methods really boost pancreatic enzymes without supplements during holiday meals?
 
 Yes—four randomized controlled trials in adults aged 60–78 show measurable improvements in endogenous enzyme output using non-supplement strategies like pre-meal bitter herb exposure, mindful chewing cadence, and temperature-modulated soup sequencing. These approaches work by enhancing cephalic- and gastric-phase neural signaling—not by replacing enzymes.
 
-#### #### What are the best natural ways to support pancreatic enzymes holiday meals natural for seniors?
+#### What are the best natural ways to support pancreatic enzymes holiday meals natural for seniors?
 
 The most evidence-backed approaches include: (1) consuming a small amount of unsweetened bitter food (e.g., arugula, dandelion greens) 5–7 minutes before eating; (2) chewing each bite 20–25 times with full attention; and (3) sipping ½ cup of mildly warm (45–50°C), low-fat broth 10–12 minutes before the main course. All were tested in RCTs and shown to improve postprandial enzyme markers.
 
-#### #### Do pancreatic enzymes holiday meals natural strategies help with bloating or indigestion after big meals?
+#### Do pancreatic enzymes holiday meals natural strategies help with bloating or indigestion after big meals?
 
 They can—particularly when bloating stems from incomplete macronutrient breakdown (e.g., fatty or protein-rich foods). In the 2022 chewing cadence trial, 68% of participants reported reduced bloating after 3 weeks of consistent practice. However, if bloating is accompanied by weight loss, night sweats, or severe pain, further evaluation is needed.
 
-#### #### Is it safe to stop PPIs and rely only on natural pancreatic enzyme support?
+#### Is it safe to stop PPIs and rely only on natural pancreatic enzyme support?
 
 No—not without medical supervision. PPIs address acid-related conditions (e.g., GERD, erosive esophagitis) and shouldn’t be discontinued abruptly. Natural strategies support enzyme output but do not treat acid reflux or ulcers. Always discuss medication changes with your prescribing clinician.
 
-#### #### How long does it take to notice benefits from pancreatic enzymes holiday meals natural approaches?
+#### How long does it take to notice benefits from pancreatic enzymes holiday meals natural approaches?
 
 Most people report subtle improvements—like steadier energy after meals or less mid-afternoon fatigue—within 7–10 days of consistent practice. Full physiological adaptation (e.g., improved stool consistency, reduced reliance on antacids) typically emerges over 3–6 weeks, as vagal tone and digestive reflexes recalibrate.

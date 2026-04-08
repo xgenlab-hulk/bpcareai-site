@@ -94,22 +94,22 @@ Cataract surgery is a gift of clarity—not just for your eyes, but for your con
 
 ### FAQ
 
-#### #### Does blood pressure after cataract surgery seniors experience usually go back to normal?
+#### Does blood pressure after cataract surgery seniors experience usually go back to normal?
 
 Yes—in the vast majority of cases, blood pressure returns to your personal baseline within 48–72 hours. Studies show over 90% of seniors with well-controlled hypertension see full normalization by day 3 without intervention.
 
-#### #### Can cataract surgery cause high blood pressure long term?
+#### Can cataract surgery cause high blood pressure long term?
 
 No. There is no evidence that cataract surgery triggers chronic hypertension. Any sustained elevation would reflect underlying cardiovascular patterns—not the surgery itself.
 
-#### #### What is a normal blood pressure after cataract surgery seniors should expect?
+#### What is a normal blood pressure after cataract surgery seniors should expect?
 
 A normal post-op range mirrors your usual home values—typically under 140/90 mm Hg. Occasional readings up to 155/95 mm Hg in the first 24 hours are common and expected, especially in those with white-coat hypertension.
 
-#### #### Why does blood pressure go up after eye surgery?
+#### Why does blood pressure go up after eye surgery?
 
 The rise is usually due to a brief activation of the sympathetic nervous system—triggered by stress, positioning, or even the relief of improved vision—not damage or complications. It’s your body’s way of staying alert, not a warning sign.
 
-#### #### Should I stop my blood pressure meds before cataract surgery?
+#### Should I stop my blood pressure meds before cataract surgery?
 
 Generally, no—most antihypertensives should be continued as prescribed. Only stop or adjust medications if specifically instructed by your surgeon or cardiologist. Never discontinue beta-blockers or clonidine abruptly, as this can cause dangerous rebound spikes.

@@ -59,17 +59,17 @@ In short, enjoying holiday desserts doesn’t have to come at the cost of vascul
 
 ### FAQ
 
-#### #### Can holiday dessert arterial stiffness warning signs appear even if my blood pressure is normal?
+#### Can holiday dessert arterial stiffness warning signs appear even if my blood pressure is normal?
 Yes. Arterial stiffness can increase before BP rises significantly—especially in early stages. Pulse wave velocity and arterial elasticity are distinct from standard BP numbers, so subtle changes may show up as fatigue, pulse fullness, or post-meal discomfort—even with “normal” readings.
 
-#### #### Are holiday dessert arterial stiffness warning signs reversible?
+#### Are holiday dessert arterial stiffness warning signs reversible?
 Absolutely. Research shows that reducing high-glycemic load intake—even for just 2–3 weeks—can lead to measurable improvements in PWV and endothelial function in adults over 70. Lifestyle consistency matters more than perfection.
 
-#### #### Do beta-blockers hide holiday dessert arterial stiffness warning signs?
+#### Do beta-blockers hide holiday dessert arterial stiffness warning signs?
 They may soften some symptoms (like rapid pulse), but not all. You might still notice subtle cues—such as lingering fullness in your temples, slower recovery of pulse strength after sitting, or increased evening fatigue. That’s why tracking patterns—not just single readings—is so helpful.
 
-#### #### How does age affect how desserts influence arterial stiffness?
+#### How does age affect how desserts influence arterial stiffness?
 After age 73, collagen cross-linking in arteries increases, and nitric oxide production declines. This makes vessels more sensitive to inflammatory triggers—including repeated glucose spikes. So the same dessert may have a gentler effect at 60 than at 75—making rotation and pacing especially supportive.
 
-#### #### Is dark chocolate okay during the holidays if I’m watching for arterial stiffness?
+#### Is dark chocolate okay during the holidays if I’m watching for arterial stiffness?
 Yes—in moderation. Choose 70%+ cacao, limit to ~1 small square (10–15g), and pair with nuts or berries. Its flavonoids support endothelial health, though portion and frequency still matter for overall glycemic impact.

@@ -54,17 +54,17 @@ Choosing safe, nourishing food during the holidays isn’t about perfection—it
 
 ### FAQ  
 
-#### #### Are senior-friendly holiday meal kits truthfully labeled for heart health?  
+#### Are senior-friendly holiday meal kits truthfully labeled for heart health?  
 Most are not. Only 19% meet AHA-recommended sodium limits (≤920 mg/serving) and include ≥4g fiber. “Heart-healthy” claims are unregulated—always verify nutrition facts and ingredient lists.
 
-#### #### What makes a meal kit truly senior-friendly for dysphagia safety?  
+#### What makes a meal kit truly senior-friendly for dysphagia safety?  
 True dysphagia safety requires IDDSI-certified texture levels (e.g., Level 4 pureed), consistent viscosity across all components, and no mixed textures (like crunchy bits in soft foods). “Soft-textured” on packaging is *not* the same as IDDSI-verified.
 
-#### #### Where can I find reliable senior-friendly holiday meal kits truth?  
+#### Where can I find reliable senior-friendly holiday meal kits truth?  
 Look for kits co-developed with geriatric dietitians or SLPs—and verified by third-party labs for sodium, fiber, and IDDSI compliance. University-affiliated senior nutrition programs or local Area Agencies on Aging often share vetted lists.
 
-#### #### Do senior-friendly holiday meal kits work for people with high blood pressure?  
+#### Do senior-friendly holiday meal kits work for people with high blood pressure?  
 Some do—if they consistently stay under 920 mg sodium, include potassium-supportive ingredients (like sweet potatoes or tomatoes), and avoid added sugars that worsen arterial stiffness. Always cross-check labels, especially for gravy, stuffing, and sauces.
 
-#### #### How much sodium is too much for seniors during the holidays?  
+#### How much sodium is too much for seniors during the holidays?  
 For adults 75+, the ideal target is ≤920 mg per meal (≤2,300 mg daily), especially if managing hypertension, heart failure, or kidney disease. One high-sodium kit can use up *80% of your daily limit* before dessert.

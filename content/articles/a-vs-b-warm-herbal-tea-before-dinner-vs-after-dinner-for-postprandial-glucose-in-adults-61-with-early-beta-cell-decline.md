@@ -50,22 +50,22 @@ None of this replaces personalized medical guidance—but it does empower you wi
 
 ### FAQ
 
-#### #### Does drinking herbal tea before dinner really lower blood sugar in seniors?
+#### Does drinking herbal tea before dinner really lower blood sugar in seniors?
 
 Yes—particularly ginger-cinnamon blends. In the 2023 pilot RCT, adults 61+ with prediabetes saw a statistically significant 19% reduction in 2-hour postprandial glucose AUC when consuming the tea 30 minutes *before* dinner versus after.
 
-#### #### How does herbal tea timing postprandial glucose affect GLP-1?
+#### How does herbal tea timing postprandial glucose affect GLP-1?
 
 Pre-dinner herbal tea appears to stimulate early-phase GLP-1 secretion from intestinal L-cells—likely due to ginger’s TRPV1 activation and cinnamon’s modulation of bile acid receptors. The study observed peak GLP-1 levels 32% higher at 60 minutes post-meal in the “before” group.
 
-#### #### Can herbal tea timing postprandial glucose help during holiday meals?
+#### Can herbal tea timing postprandial glucose help during holiday meals?
 
 Absolutely. Holiday meals often feature concentrated carbohydrates and irregular timing—making strategic interventions like pre-dinner ginger-cinnamon tea especially useful. It supports steadier glucose without restricting festive foods.
 
-#### #### Is it safe to drink ginger-cinnamon tea daily if I take blood pressure medication?
+#### Is it safe to drink ginger-cinnamon tea daily if I take blood pressure medication?
 
 Generally yes—but ginger has mild antiplatelet activity, and cinnamon (in large doses) may interact with anticoagulants or certain diabetes meds. Discuss regular use with your pharmacist or physician, especially if you take warfarin, metformin, or SGLT2 inhibitors.
 
-#### #### What’s the best way to brew ginger-cinnamon tea for metabolic benefit?
+#### What’s the best way to brew ginger-cinnamon tea for metabolic benefit?
 
 Use freshly grated ginger (not powdered) and Ceylon cinnamon (not cassia, which contains higher coumarin). Steep 1 g ginger + ½ tsp cinnamon in 180 mL hot (not boiling) water for 8–10 minutes. Strain and sip warm—no added sweeteners.

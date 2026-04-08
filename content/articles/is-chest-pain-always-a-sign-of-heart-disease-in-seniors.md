@@ -56,22 +56,22 @@ In short, chest pain not related to heart disease in seniors is both common and 
 
 ### FAQ
 
-#### #### Can chest pain not related to heart disease in seniors be caused by anxiety?
+#### Can chest pain not related to heart disease in seniors be caused by anxiety?
 
 Yes—especially in older adults experiencing life transitions, grief, or chronic health concerns. Anxiety can trigger muscle tightening, rapid breathing, and a sensation of pressure or fluttering in the chest. It’s rarely dangerous, but deserves compassionate attention and often responds well to counseling or relaxation techniques.
 
-#### #### What are common non-heart-related causes of chest pain not related to heart disease in seniors?
+#### What are common non-heart-related causes of chest pain not related to heart disease in seniors?
 
 The most frequent include GERD (acid reflux), costochondritis, spinal degeneration (like thoracic osteoarthritis), hiatal hernia, and pulmonary issues such as pleurisy or mild bronchitis. Less commonly, gallbladder inflammation or shingles (in its early phase) may refer pain to the chest.
 
-#### #### Is it possible to have normal blood pressure and still experience chest pain not related to heart disease in seniors?
+#### Is it possible to have normal blood pressure and still experience chest pain not related to heart disease in seniors?
 
 Absolutely. Normal BP (e.g., under 120/80 mm Hg) reflects healthy arterial pressure—but says nothing about esophageal irritation, rib joint inflammation, or nerve sensitivity. Chest pain not related to heart disease in seniors often occurs independently of cardiovascular metrics.
 
-#### #### How can I tell if my chest pain is muscular rather than cardiac?
+#### How can I tell if my chest pain is muscular rather than cardiac?
 
 Muscular chest pain typically changes with movement or touch: it may hurt more when you twist, stretch, or press on the area—and often improves with rest or heat. Cardiac pain usually feels deeper, less localized, and isn’t relieved by changing position or pressing on the chest.
 
-#### #### When should I go to the ER for chest pain, even if I think it’s not heart-related?
+#### When should I go to the ER for chest pain, even if I think it’s not heart-related?
 
 Go immediately if pain is sudden, severe, accompanied by cold sweats, trouble breathing, fainting, or confusion—or if you’re uncertain. Better safe than sorry: emergency teams can quickly rule out serious causes and guide next steps with confidence.

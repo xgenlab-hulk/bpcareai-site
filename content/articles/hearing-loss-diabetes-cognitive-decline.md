@@ -72,17 +72,17 @@ In summary, hearing-loss diabetes cognitive decline isn’t inevitable. With tim
 
 ### FAQ
 
-#### #### Does hearing loss really increase dementia risk in people with diabetes?  
+#### Does hearing loss really increase dementia risk in people with diabetes?  
 Yes. Research shows adults with both hearing loss and diabetes have a 2.3-fold higher risk of developing dementia over 10 years compared to those with neither condition—due in part to overlapping metabolic stress on brain regions like the hippocampus.
 
-#### #### Can treating hearing loss slow cognitive decline in people with diabetes and MCI?  
+#### Can treating hearing loss slow cognitive decline in people with diabetes and MCI?  
 Absolutely. Studies indicate that consistent hearing aid use within six months of diagnosis helps maintain cortical glucose utilization patterns—particularly protecting hippocampal metabolism—and is associated with 30–40% slower cognitive decline over two years.
 
-#### #### What is the auditory-cognitive-metabolic link?  
+#### What is the auditory-cognitive-metabolic link?  
 It’s the interconnected relationship among hearing function, brain energy use (especially glucose metabolism), and systemic metabolic health—including insulin resistance and glycemic control. Disruption in one area affects the others, forming a cycle that can accelerate hearing-loss diabetes cognitive decline.
 
-#### #### Is mild hearing loss serious enough to worry about if I have diabetes?  
+#### Is mild hearing loss serious enough to worry about if I have diabetes?  
 Yes. Even mild hearing loss (25–40 dB HL) correlates with measurable DMN hypermetabolism and reduced hippocampal glucose uptake in adults with diabetes—suggesting early neural reorganization that may precede noticeable memory changes.
 
-#### #### How often should someone with diabetes and hearing loss see a specialist?  
+#### How often should someone with diabetes and hearing loss see a specialist?  
 Annual audiology and neurocognitive screening is recommended—and more frequently (every 6 months) if MCI is present or HbA1c is consistently above 7.5%. Coordination between endocrinology, audiology, and primary care yields the best outcomes.

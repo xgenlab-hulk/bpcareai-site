@@ -86,17 +86,17 @@ Choosing foods with both your heart *and* your kidneys in mind isn’t about per
 
 ### FAQ  
 
-#### #### Are plant-based burgers safe for people with CKD and high blood pressure?  
+#### Are plant-based burgers safe for people with CKD and high blood pressure?  
 Yes—*some* are, but safety depends on formulation. Those with added phosphates or potassium chloride may raise serum potassium or phosphorus, which can indirectly affect arterial pressure and heart rhythm. Opt for low-sodium, no-additive versions, and always pair with your healthcare provider’s guidance—especially if you’re managing both CKD and hypertension.
 
-#### #### What plant-based burgers potassium phosphorus ckdd risks should I watch for?  
+#### What plant-based burgers potassium phosphorus ckdd risks should I watch for?  
 The main concerns are hidden phosphate additives (like sodium tripolyphosphate) and concentrated potassium from ingredients like potassium chloride or yeast extract. These can contribute to hyperkalemia or vascular calcification over time—so checking ingredient lists closely and discussing lab trends with your renal dietitian is key.
 
-#### #### Can I eat Beyond Meat or Impossible Burger with stage 2 CKD?  
+#### Can I eat Beyond Meat or Impossible Burger with stage 2 CKD?  
 Both contain phosphate additives and relatively high potassium (~370–420 mg per patty). While occasional, modest servings *may* be appropriate depending on your labs and overall diet, they’re not ideal for routine use. Simpler, whole-food-based alternatives tend to offer more predictable mineral content.
 
-#### #### Do plant-based burgers raise blood pressure?  
+#### Do plant-based burgers raise blood pressure?  
 Not inherently—but some contain high sodium (up to 390 mg per patty) or potassium-sparing additives that may interact with BP medications. More importantly, elevated potassium or phosphorus over time can contribute to arterial stiffness, affecting long-term BP control. Monitoring both dietary intake and home BP readings helps clarify individual responses.
 
-#### #### How can I tell if a plant-based burger has hidden phosphorus?  
+#### How can I tell if a plant-based burger has hidden phosphorus?  
 Look for words ending in *“phos-”* or *“-phosphate”* in the ingredient list—even small amounts matter. Also watch for terms like “calcium phosphate,” “sodium acid pyrophosphate,” or “trisodium phosphate.” When in doubt, choose products with short, recognizable ingredient lists—and consult your renal dietitian for label interpretation support.

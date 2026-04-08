@@ -66,22 +66,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does sharing food at family meals cause postprandial glucose spikes family meals?
+#### Does sharing food at family meals cause postprandial glucose spikes family meals?
 
 Yes — especially for adults with prediabetes. Shared platters increase unconscious portion inflation, and social pacing delays satiety cues, both contributing to higher and more prolonged glucose rises after eating.
 
-#### #### How do postprandial glucose spikes family meals affect heart health?
+#### How do postprandial glucose spikes family meals affect heart health?
 
 Repeated spikes are linked to increased oxidative stress and endothelial dysfunction — early contributors to arterial stiffness and hypertension. Over time, this raises risk for cardiovascular events, particularly in adults 62+ who may already have age-related vascular changes.
 
-#### #### Can I prevent postprandial glucose spikes family meals without avoiding holiday foods altogether?
+#### Can I prevent postprandial glucose spikes family meals without avoiding holiday foods altogether?
 
 Absolutely. Focus on *order* and *balance*: eat protein and fiber first, limit liquid carbs (like sweetened drinks), and pair higher-carb dishes with vinegar-based sides (e.g., apple cider vinaigrette on greens), which modestly blunts glucose response.
 
-#### #### What’s a normal postprandial glucose level for someone over 60?
+#### What’s a normal postprandial glucose level for someone over 60?
 
 For adults 60+, a reading under 140 mg/dL at 2 hours is generally considered within target. Some providers suggest aiming for <130 mg/dL if prediabetes is recent or other risk factors (like hypertension or obesity) are present.
 
-#### #### Is postprandial glucose more important than fasting glucose for older adults?
+#### Is postprandial glucose more important than fasting glucose for older adults?
 
 For many, yes — especially those with prediabetes. Postprandial levels often rise earlier and more dramatically than fasting glucose, offering an earlier window into declining beta-cell function and insulin resistance.

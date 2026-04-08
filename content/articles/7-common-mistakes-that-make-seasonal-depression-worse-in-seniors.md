@@ -58,22 +58,22 @@ Seasonal depression in older adults is more common than many realize — and far
 
 ### FAQ
 
-#### #### What are the most common mistakes worsening seasonal depression in older adults?
+#### What are the most common mistakes worsening seasonal depression in older adults?
 
 The top **mistakes worsening seasonal depression** include staying indoors during daylight hours, skipping meals or eating poorly, reducing physical activity, withdrawing socially, and stopping treatment (like light therapy or medication) too soon — often before symptoms fully lift.
 
-#### #### Can seasonal depression in older adults be mistaken for dementia or normal aging?
+#### Can seasonal depression in older adults be mistaken for dementia or normal aging?
 
 Yes — symptoms like low motivation, memory lapses, or slowed thinking can overlap with early cognitive changes. That’s why it’s important to rule out mood-related causes first. A thorough evaluation by a primary care provider or geriatric specialist helps clarify whether it’s **mistakes worsening seasonal depression**, another medical issue, or something else entirely.
 
-#### #### How does lack of sunlight contribute to mistakes worsening seasonal depression?
+#### How does lack of sunlight contribute to mistakes worsening seasonal depression?
 
 Less sunlight reduces serotonin production and disrupts melatonin timing — both critical for stable mood and restful sleep. In seniors, whose eyes transmit less light and whose skin synthesizes less vitamin D, this effect is amplified. Skipping morning light exposure is one of the most frequent **mistakes worsening seasonal depression**, especially in winter.
 
-#### #### Is light therapy safe for seniors with eye conditions or high blood pressure?
+#### Is light therapy safe for seniors with eye conditions or high blood pressure?
 
 Most older adults tolerate light therapy well — but those with macular degeneration, glaucoma, or photosensitive conditions should consult an eye doctor first. Light boxes don’t affect blood pressure directly, but stress reduction from improved mood *can* support healthier arterial pressure over time.
 
-#### #### Does seasonal depression in older adults ever go away on its own?
+#### Does seasonal depression in older adults ever go away on its own?
 
 Sometimes symptoms ease as days lengthen — but waiting for spring without support can lead to prolonged distress or complications like malnutrition or falls from low energy. Early, consistent care helps prevent the **mistakes worsening seasonal depression** that delay recovery.

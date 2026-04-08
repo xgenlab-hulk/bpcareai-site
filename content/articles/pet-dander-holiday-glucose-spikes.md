@@ -53,17 +53,17 @@ In summary, pet dander holiday glucose spikes reflect a real, biologically groun
 
 ### FAQ
 
-#### #### Why do my blood sugar levels spike only at my daughter’s house during Christmas — but not at home?
+#### Why do my blood sugar levels spike only at my daughter’s house during Christmas — but not at home?
 This is a classic presentation of pet dander holiday glucose spikes. Even if your daughter’s dog seems “gentle” or “clean,” dander accumulates in carpets, upholstery, and bedding — and your body’s inflammatory response may be uniquely triggered in that setting, impairing insulin action.
 
-#### #### Can pet dander really raise blood sugar in older adults with diabetes?
+#### Can pet dander really raise blood sugar in older adults with diabetes?
 Yes — especially in those with underlying airway sensitivity. Research confirms that allergen-induced IL-6 and TNF-α surges disrupt insulin signaling in skeletal muscle, reducing glucose uptake. Adults over 65 are more vulnerable due to age-related declines in immune regulation and metabolic flexibility.
 
-#### #### How can I tell if pet dander is causing my holiday diabetes management challenges?
+#### How can I tell if pet dander is causing my holiday diabetes management challenges?
 Look for consistency: Do spikes happen *only* where pets live? Are they unrelated to food or activity? Do mild allergy-like symptoms (nasal stuffiness, dry cough) accompany them? Logging glucose alongside context — and possibly checking hs-CRP — helps confirm the pattern.
 
-#### #### Is there a connection between pet dander, blood pressure, and blood sugar?
+#### Is there a connection between pet dander, blood pressure, and blood sugar?
 Indirectly, yes. Chronic low-grade inflammation from repeated allergen exposure contributes to endothelial dysfunction — a shared pathway in both insulin resistance and hypertension. While pet dander doesn’t *directly* raise BP, sustained inflammation may worsen arterial stiffness over time.
 
-#### #### What’s the best way to prepare for holiday visits if I suspect pet dander holiday glucose spikes?
+#### What’s the best way to prepare for holiday visits if I suspect pet dander holiday glucose spikes?
 Plan ahead: Discuss pet access with your host, pack a portable HEPA filter, time medications thoughtfully, and monitor closely. Most importantly, share your observations with your endocrinologist or primary care provider — they can help tailor your holiday diabetes management strategy.

@@ -37,18 +37,18 @@ In summary, celebrating the holidays safely is absolutely possible—even with c
 
 ### FAQ
 
-#### #### What are the safest low allergen holiday sides seniors can make at home?
+#### What are the safest low allergen holiday sides seniors can make at home?
 
 The safest options are minimally processed, pH-neutral, low-FODMAP, and completely free of tree nuts, seeds, dairy (if lactose-intolerant), and common EoE triggers. Top choices include roasted celeriac purée (pH ~6.0, <0.1 g fructans/serving), herb-roasted carrots with thyme and olive oil, and millet pilaf with sautéed bok choy (outer leaves only). All recipes should be prepared in dedicated, thoroughly cleaned cookware.
 
-#### #### Where can I find trusted recipes for low allergen holiday sides seniors with eosinophilic esophagitis?
+#### Where can I find trusted recipes for low allergen holiday sides seniors with eosinophilic esophagitis?
 
 Reputable sources include the American Partnership for Eosinophilic Disorders (APFED) recipe database, Monash University’s Low FODMAP App (filtered for “EoE-friendly”), and peer-reviewed clinical diet manuals such as *The EoE Cookbook* (2023, NIH-supported). Always verify that recipes exclude not only nuts and seeds but also high-histamine ingredients (e.g., fermented soy, aged cheeses) and acidic additives.
 
-#### #### Are store-bought “nut-free” holiday sides safe for seniors with eosinophilic esophagitis?
+#### Are store-bought “nut-free” holiday sides safe for seniors with eosinophilic esophagitis?
 
 Not necessarily. Over 60% of commercial “nut-free” products contain sunflower or pumpkin seeds (common EoE triggers), sulfites (a known esophageal irritant), or high-FODMAP thickeners like inulin or chicory root. Always check ingredient lists for hidden sources—and when in doubt, prepare from scratch using single-ingredient, certified low-allergen components.
 
-#### #### Can low allergen holiday sides seniors eat help reduce esophageal inflammation?
+#### Can low allergen holiday sides seniors eat help reduce esophageal inflammation?
 
 Yes—when consistently aligned with an elimination diet validated for EoE (e.g., six-food elimination diet or targeted amino acid-based approach), low allergen holiday sides seniors consume contribute meaningfully to mucosal healing. Studies show 70–80% of older adults achieve histologic remission within 12 weeks of strict adherence—underscoring the power of intentional, science-backed food choices.

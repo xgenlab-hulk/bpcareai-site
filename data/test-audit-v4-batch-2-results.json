@@ -1,0 +1,363 @@
+{
+  "audit_version": "v4-flexible",
+  "batch_id": 2,
+  "total_checked": 20,
+  "articles": [
+    {
+      "slug": "warning-signs-your-normal-blood-pressure-reading-is-actually-masked-hypertension-especially-during-routine-dental-visits-in-adults-62",
+      "primaryKeyword": "masked hypertension during dental procedures",
+      "score": 88,
+      "grade": "Very Good",
+      "needs_optimization": false,
+      "reasoning": "Specific medical condition (masked hypertension), natural phrasing, specific context (dental procedures). Users searching for this would likely use these exact terms. Age not necessary as the condition applies broadly. Minor improvement possible by adding 'detection' or 'signs', but strong as-is.",
+      "strengths": [
+        "Specific medical condition",
+        "Natural search phrasing",
+        "Relevant contextual specificity (dental procedures)",
+        "User-friendly terminology"
+      ],
+      "weaknesses": []
+    },
+    {
+      "slug": "warning-signs-your-holiday-weight-gain-is-accelerating-diabetic-kidney-hyperfiltration-even-before-egfr-drops",
+      "primaryKeyword": "holiday weight gain diabetic kidney signs",
+      "score": 82,
+      "grade": "Good",
+      "needs_optimization": false,
+      "reasoning": "Good contextual specificity (holiday, diabetic kidney). 'Signs' is clear intent. Natural phrasing. Could be slightly better with 'diabetes' instead of 'diabetic' for more natural search behavior, but works well overall. Not forcing audience is appropriate here.",
+      "strengths": [
+        "Specific condition context (diabetic kidney)",
+        "Clear search intent (signs)",
+        "Natural phrasing",
+        "Relevant seasonal context"
+      ],
+      "weaknesses": [
+        "Could use 'diabetes kidney' vs 'diabetic kidney' for more natural search"
+      ]
+    },
+    {
+      "slug": "type-1-diabetes-holiday-potluck-guide",
+      "primaryKeyword": "type 1 diabetes holiday potluck guide",
+      "score": 92,
+      "grade": "Excellent",
+      "needs_optimization": false,
+      "reasoning": "Excellent keyword. Specific condition (type 1 diabetes), specific context (holiday potluck), clear intent (guide). This is exactly how users search. Natural phrasing, appropriate length. No audience needed - applies to anyone with type 1 diabetes regardless of age.",
+      "strengths": [
+        "Highly specific medical condition",
+        "Clear contextual specificity",
+        "Natural search phrasing",
+        "Clear user intent (guide)"
+      ],
+      "weaknesses": []
+    },
+    {
+      "slug": "taurine-vitamin-b6-atrial-calcium-handling",
+      "primaryKeyword": "taurine vitamin b6 atrial calcium handling",
+      "score": 45,
+      "grade": "Poor",
+      "needs_optimization": true,
+      "reasoning": "Too technical. 'Atrial calcium handling' is medical jargon that regular users won't search. While taurine and vitamin B6 are searchable terms, the overall phrase is too specialized. Users would more likely search 'taurine vitamin b6 heart rhythm' or 'taurine vitamin b6 atrial fibrillation'. Needs user-friendly reframing.",
+      "strengths": [
+        "Specific supplement names (taurine, vitamin B6)"
+      ],
+      "weaknesses": [
+        "Technical medical jargon ('atrial calcium handling')",
+        "Not how users search",
+        "Too specialized terminology"
+      ]
+    },
+    {
+      "slug": "stabilize-morning-glucose-without-insulin",
+      "primaryKeyword": "stabilize morning glucose without insulin",
+      "score": 90,
+      "grade": "Excellent",
+      "needs_optimization": false,
+      "reasoning": "Excellent keyword. Clear medical topic (glucose), specific timing (morning), clear intent (stabilize), specific constraint (without insulin). This is exactly how users search for this information. Natural phrasing, user-friendly terms. No audience needed - relevant to anyone with diabetes.",
+      "strengths": [
+        "Clear medical topic",
+        "Specific timing context",
+        "Natural user search phrasing",
+        "Clear intent and constraint"
+      ],
+      "weaknesses": []
+    },
+    {
+      "slug": "quick-fix-for-postprandial-hypotension-seniors",
+      "primaryKeyword": "quick fix for postprandial hypotension seniors",
+      "score": 75,
+      "grade": "Good",
+      "needs_optimization": false,
+      "reasoning": "Good overall but 'postprandial' is somewhat technical. Many users might search 'after eating' instead. However, those specifically researching this condition may use 'postprandial'. Has audience (seniors) which adds value for this age-specific condition. Clear intent (quick fix). Acceptable but could be more user-friendly.",
+      "strengths": [
+        "Clear intent (quick fix)",
+        "Relevant audience (seniors)",
+        "Specific medical condition"
+      ],
+      "weaknesses": [
+        "Technical term 'postprandial' - many users might search 'after eating blood pressure drop'"
+      ]
+    },
+    {
+      "slug": "quercetin-and-hypertensive-retinopathy-microvascular",
+      "primaryKeyword": "quercetin and hypertensive retinopathy microvascular",
+      "score": 52,
+      "grade": "Poor",
+      "needs_optimization": true,
+      "reasoning": "Technical medical terminology. 'Hypertensive retinopathy microvascular' is not user-friendly. While quercetin is searchable, the condition description is too clinical. Users would more likely search 'quercetin high blood pressure eye damage' or 'quercetin hypertensive retinopathy'. The 'microvascular' adds unnecessary jargon.",
+      "strengths": [
+        "Specific supplement name (quercetin)",
+        "Specific medical condition"
+      ],
+      "weaknesses": [
+        "Technical medical terminology",
+        "Awkward phrasing with 'microvascular' at end",
+        "Not natural user search behavior"
+      ]
+    },
+    {
+      "slug": "post-dinner-brain-fog-diabetes-65",
+      "primaryKeyword": "post-dinner brain fog diabetes 65+",
+      "score": 86,
+      "grade": "Very Good",
+      "needs_optimization": false,
+      "reasoning": "Strong keyword. User-friendly symptom (brain fog), specific timing (post-dinner), specific condition (diabetes), relevant age identifier (65+). Natural phrasing that matches how users would search. The '65+' format is slightly abbreviated but commonly understood. Very searchable and specific.",
+      "strengths": [
+        "User-friendly symptom description",
+        "Specific timing context",
+        "Clear medical condition",
+        "Relevant age specificity"
+      ],
+      "weaknesses": []
+    },
+    {
+      "slug": "natural-cardiac-fibroblast-stabilization-post-mi",
+      "primaryKeyword": "natural cardiac fibroblast stabilization post-mi",
+      "score": 35,
+      "grade": "Very Poor",
+      "needs_optimization": true,
+      "reasoning": "Heavy medical jargon that users won't search. 'Cardiac fibroblast stabilization' and 'post-MI' are clinical terms. Users would search 'natural heart recovery after heart attack' or 'natural supplements after heart attack'. Completely misses user search behavior despite having 'natural' as a good starting point.",
+      "strengths": [
+        "Includes 'natural' (user-friendly modifier)"
+      ],
+      "weaknesses": [
+        "Multiple technical medical terms",
+        "Users don't search 'fibroblast stabilization'",
+        "Clinical abbreviation 'post-MI' not user-friendly",
+        "Completely unnatural phrasing"
+      ]
+    },
+    {
+      "slug": "nasal-decongestants-and-pulse-pressure-in-asthma",
+      "primaryKeyword": "nasal decongestants and pulse pressure in asthma",
+      "score": 78,
+      "grade": "Good",
+      "needs_optimization": false,
+      "reasoning": "Good specificity. 'Nasal decongestants' and 'asthma' are user-friendly. 'Pulse pressure' is somewhat technical but users researching this interaction may know the term. Natural phrasing with good connectors. Could be slightly more accessible with 'blood pressure' instead of 'pulse pressure', but acceptable as-is for the target audience.",
+      "strengths": [
+        "Clear medication type",
+        "Specific medical condition (asthma)",
+        "Natural phrasing",
+        "User-friendly main terms"
+      ],
+      "weaknesses": [
+        "Pulse pressure is somewhat technical - 'blood pressure' more common"
+      ]
+    },
+    {
+      "slug": "how-late-night-holiday-movie-marathons-elevate-sympathetic-tone-and-why-that-increases-afib-burden-in-adults-65-with-nocturnal-hypertension",
+      "primaryKeyword": "late-night movies sympathetic tone afib",
+      "score": 62,
+      "grade": "Fair",
+      "needs_optimization": true,
+      "reasoning": "Mixed quality. 'Late-night movies' is user-friendly and 'afib' is commonly searched, but 'sympathetic tone' is technical medical jargon. Users would more likely search 'late-night movies afib risk' or 'late-night movies heart rhythm'. The technical term in the middle breaks the natural flow. Needs simplification.",
+      "strengths": [
+        "User-friendly context (late-night movies)",
+        "Common medical abbreviation (afib)"
+      ],
+      "weaknesses": [
+        "Technical jargon 'sympathetic tone'",
+        "Not natural user search phrasing",
+        "Mixed technical and casual language"
+      ]
+    },
+    {
+      "slug": "how-holiday-stress-hormones-disrupt-overnight-glucose-recovery-in-adults-58-69-with-prediabetes",
+      "primaryKeyword": "holiday stress and overnight glucose recovery",
+      "score": 84,
+      "grade": "Good",
+      "needs_optimization": false,
+      "reasoning": "Solid keyword. User-friendly terms throughout (holiday stress, overnight glucose recovery). Natural phrasing with good connector ('and'). Clear medical relevance. Could benefit from 'prediabetes' or 'diabetes' but works well without forced audience. Good search match quality.",
+      "strengths": [
+        "User-friendly terminology",
+        "Natural phrasing",
+        "Clear context (holiday stress)",
+        "Specific timing (overnight)"
+      ],
+      "weaknesses": [
+        "Could optionally include condition (prediabetes) for more specificity"
+      ]
+    },
+    {
+      "slug": "how-alcohol-metabolism-changes-after-age-55-and-why-that-raises-holiday-heart-syndrome-risk-in-adults-55-69-with-mild-liver-steatosis",
+      "primaryKeyword": "alcohol metabolism age 55 holiday heart",
+      "score": 81,
+      "grade": "Good",
+      "needs_optimization": false,
+      "reasoning": "Good keyword. User-friendly terms (alcohol metabolism, holiday heart), relevant age marker (age 55). Natural enough phrasing. 'Holiday heart' is a known syndrome name. Could flow slightly better with connectors, but compact format works for search. No forced elements.",
+      "strengths": [
+        "User-friendly medical terms",
+        "Relevant age specificity",
+        "Known syndrome name (holiday heart)",
+        "Clear medical topic"
+      ],
+      "weaknesses": [
+        "Slightly compact phrasing - could use 'after' or 'at' for flow"
+      ]
+    },
+    {
+      "slug": "healthy-holiday-buffet-glycemic-traps",
+      "primaryKeyword": "healthy holiday buffet glycemic traps",
+      "score": 88,
+      "grade": "Very Good",
+      "needs_optimization": false,
+      "reasoning": "Excellent keyword. Natural phrasing, user-friendly terms, specific context (holiday buffet), clear medical relevance (glycemic). 'Traps' is engaging and searchable. This is exactly how users interested in blood sugar management would search. No audience needed - applies broadly to anyone monitoring glucose.",
+      "strengths": [
+        "Natural user search phrasing",
+        "Specific relevant context",
+        "User-friendly medical term (glycemic)",
+        "Engaging descriptor (traps)"
+      ],
+      "weaknesses": []
+    },
+    {
+      "slug": "gut-kidney-axis-modulation-for-bp-control",
+      "primaryKeyword": "gut-kidney axis modulation for bp control",
+      "score": 58,
+      "grade": "Poor",
+      "needs_optimization": true,
+      "reasoning": "Too technical. 'Axis modulation' is jargon. While 'gut-kidney' connection might be searched, 'modulation' is not user-friendly. 'BP control' is acceptable but mixing casual abbreviation with technical jargon is inconsistent. Users would search 'gut health kidney blood pressure' or 'gut kidney connection blood pressure'. Needs simplification.",
+      "strengths": [
+        "Relevant body systems connection",
+        "Clear end goal (bp control)"
+      ],
+      "weaknesses": [
+        "Technical jargon ('axis modulation')",
+        "Inconsistent formality level",
+        "Not natural user search phrasing"
+      ]
+    },
+    {
+      "slug": "gratitude-walks-post-holiday-dinner",
+      "primaryKeyword": "gratitude walks post-holiday dinner",
+      "score": 72,
+      "grade": "Good",
+      "needs_optimization": false,
+      "reasoning": "Interesting keyword. Natural phrasing, specific context (post-holiday dinner). 'Gratitude walks' is somewhat niche but searchable as it's a known wellness practice. Could benefit from adding the health benefit (glucose, digestion, blood pressure) but works as lifestyle/wellness search. Acceptable without forced medical terminology.",
+      "strengths": [
+        "Natural phrasing",
+        "Specific context",
+        "User-friendly terms"
+      ],
+      "weaknesses": [
+        "Somewhat niche concept (gratitude walks)",
+        "Could be more medically specific about benefit"
+      ]
+    },
+    {
+      "slug": "fruitcake-vs-almond-flour-loaf-diabetes",
+      "primaryKeyword": "fruitcake vs almond flour loaf diabetes",
+      "score": 87,
+      "grade": "Very Good",
+      "needs_optimization": false,
+      "reasoning": "Strong comparison keyword. Natural user search (vs format), specific foods, clear medical condition (diabetes). This is exactly how users search when comparing holiday dessert options. User-friendly, clear intent, good specificity. No audience needed - comparison applies to anyone with diabetes.",
+      "strengths": [
+        "Natural comparison format",
+        "Specific food items",
+        "Clear medical condition",
+        "Real user search behavior"
+      ],
+      "weaknesses": []
+    },
+    {
+      "slug": "does-intermittent-fasting-during-holidays-actually-lower-hba1c-what-12-week-rct-data-shows-for-adults-54-68-with-hba1c-7-2-8-6",
+      "primaryKeyword": "intermittent fasting holidays HbA1c study",
+      "score": 85,
+      "grade": "Very Good",
+      "needs_optimization": false,
+      "reasoning": "Strong keyword. Specific intervention (intermittent fasting), context (holidays), clear medical measure (HbA1c), evidence-based framing (study). Natural search phrasing for users researching this topic. HbA1c is widely known among diabetes patients. Good balance of specificity and searchability.",
+      "strengths": [
+        "Specific intervention",
+        "Relevant context",
+        "Clear medical metric (HbA1c)",
+        "Evidence-based angle (study)"
+      ],
+      "weaknesses": []
+    },
+    {
+      "slug": "coq10-and-ejection-fraction-ischemic-cardiomyopathy",
+      "primaryKeyword": "coq10 and ejection fraction ischemic cardiomyopathy",
+      "score": 70,
+      "grade": "Good",
+      "needs_optimization": false,
+      "reasoning": "Mixed technical level. 'CoQ10' and 'ejection fraction' are widely known in heart failure communities. 'Ischemic cardiomyopathy' is technical but patients with this diagnosis would search it. Natural enough phrasing. On the borderline - technical but used by informed patients researching their condition. Acceptable for specialized audience.",
+      "strengths": [
+        "Common supplement name (CoQ10)",
+        "Known cardiac metric (ejection fraction)",
+        "Natural connector phrasing"
+      ],
+      "weaknesses": [
+        "Technical diagnosis term",
+        "May be too specialized for general users"
+      ]
+    },
+    {
+      "slug": "blood-pressure-underestimation-in-advanced-ckid",
+      "primaryKeyword": "blood pressure underestimation in advanced ckid",
+      "score": 68,
+      "grade": "Fair",
+      "needs_optimization": true,
+      "reasoning": "Technical abbreviation issue. 'CKD' (chronic kidney disease) is commonly known, but 'ckid' appears to be a typo or unusual abbreviation. 'Underestimation' is somewhat clinical - users might search 'inaccurate' or 'incorrect'. The concept is good but execution needs refinement. Should be 'blood pressure measurement advanced ckd' or similar.",
+      "strengths": [
+        "Clear medical topic (blood pressure)",
+        "Specific condition context"
+      ],
+      "weaknesses": [
+        "Unusual/incorrect abbreviation 'ckid' vs 'ckd'",
+        "Clinical term 'underestimation' not user-friendly",
+        "Could be more natural phrasing"
+      ]
+    }
+  ],
+  "summary": {
+    "total": 20,
+    "excellent_90plus": 2,
+    "very_good_85to89": 5,
+    "good_70to84": 6,
+    "fair_60to69": 2,
+    "poor_40to59": 3,
+    "very_poor_below40": 2,
+    "needs_optimization": 7
+  },
+  "batch_analysis": {
+    "average_score": 72.9,
+    "common_strengths": [
+      "Good use of user-friendly medical terminology in many keywords",
+      "Natural phrasing without keyword stuffing",
+      "Appropriate use of context (holiday, timing, specific situations)",
+      "Audience not forced when unnecessary"
+    ],
+    "common_weaknesses": [
+      "Several keywords use technical medical jargon users won't search",
+      "Some abbreviations too specialized or incorrect (ckid)",
+      "Mixed formality levels in some keywords (casual + clinical)",
+      "Technical terms like 'postprandial', 'sympathetic tone', 'fibroblast' not user-friendly"
+    ],
+    "key_findings": [
+      "Best performers are natural, user-friendly keywords with clear medical topics",
+      "Technical jargon significantly lowers scores even with good structure",
+      "Context specificity (holiday, timing) adds value when natural",
+      "Audience is appropriately omitted in most cases - not forcing demographics",
+      "Comparison formats ('vs') work very well for user search behavior"
+    ]
+  }
+}

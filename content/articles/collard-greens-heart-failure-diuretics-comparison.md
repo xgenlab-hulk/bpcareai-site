@@ -84,22 +84,22 @@ Heart health isn’t about perfection—it’s about awareness, consistency, and
 
 ### FAQ
 
-#### #### Are collard greens safe for heart failure patients on diuretics?
+#### Are collard greens safe for heart failure patients on diuretics?
 
 Yes—collard greens are nutrient-dense and generally safe, *as long as sodium and potassium are managed carefully*. Their high fiber and magnesium support vascular health, but preparation method (e.g., smoked meat vs. liquid aminos) dramatically affects sodium load and fluid balance. Always discuss portion sizes and seasoning choices with your heart failure team.
 
-#### #### What’s the best collard greens preparation for someone with heart failure and high potassium?
+#### What’s the best collard greens preparation for someone with heart failure and high potassium?
 
 For those with serum potassium >5.0 mEq/L—especially on spironolactone—the Instant-Pot version with liquid aminos is typically safer *if* you avoid adding potassium-rich ingredients (like tomato paste or molasses) and drain all cooking liquid. Steaming or sautéing collards with olive oil and lemon juice is another low-potassium, low-sodium alternative.
 
-#### #### How does a collard greens heart failure diuretics comparison affect fluid retention?
+#### How does a collard greens heart failure diuretics comparison affect fluid retention?
 
 A collard greens heart failure diuretics comparison shows that sodium load is the biggest driver of fluid retention—not the greens themselves. Smoked turkey leg adds significant sodium (and fluid-attracting protein breakdown products), while liquid aminos offer flavor with far less sodium and no added purines. Less sodium = less thirst, less fluid intake, and lower risk of overnight volume overload.
 
-#### #### Can I still enjoy traditional collard greens during holidays if I have heart failure?
+#### Can I still enjoy traditional collard greens during holidays if I have heart failure?
 
 Absolutely—you can adapt tradition. Try using a *single* small smoked turkey wing (not a full leg) for flavor, then remove it before serving. Or infuse broth with smoked paprika, garlic, and a dash of apple cider vinegar for depth—without the sodium or purine burden. Small tweaks preserve joy *and* safety.
 
-#### #### Do Instant-Pot collards lose important nutrients compared to slow-cooked?
+#### Do Instant-Pot collards lose important nutrients compared to slow-cooked?
 
 Most vitamins (A, K, folate) remain stable in both methods. Instant-Pot cooking may reduce nitrates slightly (by ~15%), but also preserves more vitamin C and reduces cooking time—meaning less oxidation and fewer advanced glycation end-products (AGEs) that can worsen inflammation in aging hearts. Neither method is “better” overall—it depends on your lab values and symptoms.

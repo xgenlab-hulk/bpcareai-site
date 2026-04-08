@@ -56,22 +56,22 @@ In short, your body thrives on rhythm — and rhythm thrives on connection. The 
 
 ### FAQ
 
-#### #### Does social isolation really affect blood sugar in older adults with diabetes?
+#### Does social isolation really affect blood sugar in older adults with diabetes?
 
 Yes. Studies show that seniors with type 2 diabetes who experience prolonged social isolation (e.g., >10 days without in-person contact) demonstrate measurable delays in melatonin onset and elevated evening glucose — independent of diet or medication changes.
 
-#### #### How does social isolation circadian glucose rhythms seniors impact HbA1c?
+#### How does social isolation circadian glucose rhythms seniors impact HbA1c?
 
 In observational studies, socially isolated seniors with type 2 diabetes saw an average HbA1c increase of 0.4% over three winter months — largely attributed to disrupted meal timing and reduced NEAT, not worsening insulin resistance per se.
 
-#### #### Can loneliness change my body clock even if I sleep well?
+#### Can loneliness change my body clock even if I sleep well?
 
 Absolutely. Sleep duration ≠ circadian alignment. You may sleep 7 hours soundly, yet still experience phase delay (e.g., melatonin rising at 1:30 a.m. instead of 11 p.m.) — which impairs glucose uptake the next day. Light exposure and social timing are stronger circadian cues than sleep itself.
 
-#### #### What’s the best time of day for seniors with diabetes to exercise?
+#### What’s the best time of day for seniors with diabetes to exercise?
 
 For circadian benefit, aim for light activity (like walking or seated yoga) between 9 a.m. and 12 p.m. Morning movement enhances insulin sensitivity more effectively in older adults — and helps anchor cortisol and glucose rhythms for the rest of the day.
 
-#### #### Are blood pressure and glucose rhythms linked during social isolation?
+#### Are blood pressure and glucose rhythms linked during social isolation?
 
 Yes. Disrupted circadian rhythms often co-occur: nighttime BP non-dipping (failure of BP to drop ≥10% at night) is seen in ~35% of isolated seniors with diabetes — and correlates strongly with flattened glucose rhythms. Both reflect autonomic nervous system dysregulation.

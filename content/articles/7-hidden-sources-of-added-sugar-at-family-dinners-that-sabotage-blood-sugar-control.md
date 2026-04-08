@@ -47,22 +47,22 @@ In closing, enjoying warm, shared meals doesn’t require sacrificing health—i
 
 ### FAQ
 
-#### #### What are the most common hidden added sugar family dinners I should watch for during holidays?
+#### What are the most common hidden added sugar family dinners I should watch for during holidays?
 
 The top culprits include stuffing (especially boxed mixes with dried fruit or sweetened seasonings), canned cranberry sauce, glazed vegetables (like honey-roasted carrots), barbecue or teriyaki marinades, and creamy dips made with flavored sour cream or yogurt blends. Even “healthy” options like bottled vinaigrettes or roasted nut mixes often contain 3–8 g added sugar per serving.
 
-#### #### How can I identify hidden added sugar family dinners when there’s no nutrition label—like at a relative’s house?
+#### How can I identify hidden added sugar family dinners when there’s no nutrition label—like at a relative’s house?
 
 Look for visual cues: glossy or syrupy textures, deep amber coloring, or ingredient names ending in “-ose” (e.g., dextrose, maltose) if a recipe is shared. When in doubt, ask how dishes were prepared—phrasing like “Is this made with any sweeteners or juices?” is both polite and informative.
 
-#### #### Does hidden added sugar family dinners affect blood pressure in older adults?
+#### Does hidden added sugar family dinners affect blood pressure in older adults?
 
 Yes—repeated high-sugar meals promote inflammation and endothelial dysfunction, which can elevate arterial pressure. A 2022 study in *Hypertension* found that adults over 55 consuming >25 g added sugar daily had a 20% higher risk of developing stage 1 hypertension (≥130/80 mm Hg) over 5 years compared to those consuming <10 g/day.
 
-#### #### Are sugar-free or “diabetic-friendly” holiday products safe for blood sugar control?
+#### Are sugar-free or “diabetic-friendly” holiday products safe for blood sugar control?
 
 Not always. Many sugar-free items use maltitol or sorbitol, which still raise blood glucose—just more slowly. Others compensate with refined starches or saturated fats that impair insulin sensitivity. Always check total carbohydrate and fiber content—not just the “sugar-free” claim.
 
-#### #### Can hidden added sugar family dinners impact medication effectiveness for type 2 diabetes?
+#### Can hidden added sugar family dinners impact medication effectiveness for type 2 diabetes?
 
 Yes—unpredictable sugar loads can cause glucose fluctuations that interfere with timing and dosing of medications like sulfonylureas or insulin. Consistent carbohydrate intake helps maintain therapeutic predictability and reduces hypoglycemia risk.

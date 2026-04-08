@@ -42,17 +42,17 @@ In short, *date paste desserts glycemic load nafld seniors* is a nuanced topic�
 
 ### FAQ
 
-#### #### Are date paste desserts safe for seniors with fatty liver disease?  
+#### Are date paste desserts safe for seniors with fatty liver disease?  
 For many seniors with NAFLD, date paste desserts should be limited—not eliminated—but approached with caution. Their high fructose content can worsen hepatic fat accumulation and insulin resistance, especially in those with advanced fibrosis or metabolic syndrome.
 
-#### #### Do date paste desserts glycemic load nafld seniors really lower blood sugar spikes?  
+#### Do date paste desserts glycemic load nafld seniors really lower blood sugar spikes?  
 They may blunt *glucose* spikes slightly (GI ~42 vs. table sugar’s GI 65), but they do *not* reduce fructose-driven triglyceride synthesis or oxidative stress in the liver—key concerns for NAFLD seniors.
 
-#### #### How much date paste is too much for someone with NAFLD over 60?  
+#### How much date paste is too much for someone with NAFLD over 60?  
 Evidence suggests limiting fructose to <10 g per meal for older adults with NAFLD. Since 1 tbsp date paste contains ~8.5 g fructose, even one tablespoon—especially without protein/fat—may exceed safe thresholds.
 
-#### #### Can I substitute date paste for sugar in NAFLD-friendly baking?  
+#### Can I substitute date paste for sugar in NAFLD-friendly baking?  
 Yes—but adjust expectations. Replace only *part* of the sweetener (e.g., ½ tsp date paste + ½ tsp erythritol), and always add fiber-rich ingredients like oat bran or ground flaxseed to slow absorption.
 
-#### #### What are better sweetener options for seniors with NAFLD during the holidays?  
+#### What are better sweetener options for seniors with NAFLD during the holidays?  
 Whole fruits (berries, pears), small amounts of pure maple syrup (<1 tsp), or monk fruit–based blends (zero fructose, minimal GI impact) offer safer alternatives—especially when paired with protein and healthy fats.

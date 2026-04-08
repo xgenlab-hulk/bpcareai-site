@@ -63,22 +63,22 @@ You don’t need drastic changes to support healthier glucose patterns after mea
 
 ### FAQ
 
-#### #### Can natural postprandial glucose control kidney disease help during holiday meals?
+#### Can natural postprandial glucose control kidney disease help during holiday meals?
 
 Yes. Holiday meals tend to be higher in refined carbs and saturated fats, which amplify postprandial glucose excursions. The graded walking + 4-7-8 breathing protocol is especially effective here because it counters both glycemic load *and* meal-related sympathetic activation—without requiring dietary elimination.
 
-#### #### Is diaphragmatic breathing safe for people with CKD and high blood pressure?
+#### Is diaphragmatic breathing safe for people with CKD and high blood pressure?
 
 Absolutely—and often beneficial. Deep, slow breathing activates the vagus nerve, supporting balanced autonomic function and modest BP reductions (studies show average drops of 4–6 mm Hg systolic). Just avoid breath-holding longer than 8 seconds if you have known arrhythmias or severe LV dysfunction.
 
-#### #### What’s the best time to walk after eating for natural postprandial glucose control kidney disease?
+#### What’s the best time to walk after eating for natural postprandial glucose control kidney disease?
 
 Wait 10–15 minutes post-meal to allow initial digestion and avoid reflux or discomfort. Starting too soon may divert blood flow away from the gut; starting too late (beyond 30 minutes) misses the peak insulin/glucose interaction window when muscle glucose uptake is most responsive.
 
-#### #### Does walking intensity really affect kidney-safe glucose management?
+#### Does walking intensity really affect kidney-safe glucose management?
 
 Yes. Walking at <2 METs has minimal effect on glucose disposal in older adults. At 2–3 METs, studies show up to 28% greater skeletal muscle glucose uptake compared to light activity—without increasing glomerular filtration pressure or albumin excretion. That’s why the *intensity gradient*, not just duration, matters.
 
-#### #### Can I combine this with my current diabetes meds?
+#### Can I combine this with my current diabetes meds?
 
 Always consult your nephrologist or endocrinologist first—but yes, these strategies are designed to complement, not replace, existing regimens. Because they work primarily through muscle perfusion and autonomic balance—not insulin secretion—they rarely interfere with sulfonylureas, GLP-1 RAs, or basal insulin.

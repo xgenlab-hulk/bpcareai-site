@@ -108,22 +108,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What are the most common signs of HFpEF in older women?
+#### What are the most common signs of HFpEF in older women?
 
 Common signs include unexplained fatigue, reduced exercise tolerance (e.g., needing to stop while walking or shopping), shortness of breath *only* with exertion—not at rest—difficulty sleeping flat, and swelling in the ankles that worsens by evening. Importantly, many women report “brain fog” or trouble concentrating—symptoms often brushed off as aging or stress.
 
-#### #### Why is hfpref misdiagnosed as aging women so common?
+#### Why is hfpref misdiagnosed as aging women so common?
 
 Because HFpEF symptoms—fatigue, slowed mobility, low stamina—overlap heavily with cultural expectations of aging. Standard tests like echocardiograms often appear normal (since ejection fraction is preserved), and blood tests like BNP may not rise significantly until later stages. Add in gender gaps in research and clinical awareness, and it’s easy to see why **hfpref misdiagnosed as aging women** remains a frequent occurrence.
 
-#### #### Can HFpEF be reversed—or at least stabilized—in women over 70?
+#### Can HFpEF be reversed—or at least stabilized—in women over 70?
 
 While structural stiffness may not fully reverse, HFpEF progression can often be slowed or halted. Studies show that consistent aerobic activity, blood pressure control (target usually <130/80 mm Hg), weight management, and treating comorbidities like sleep apnea and diabetes lead to measurable improvements in symptoms, quality of life, and functional capacity—even in women in their 80s.
 
-#### #### Is the sitting-to-standing test used in regular doctor visits?
+#### Is the sitting-to-standing test used in regular doctor visits?
 
 Not yet—though it’s gaining traction in geriatric cardiology and HFpEF specialty clinics. It’s simple, low-cost, and evidence-backed, but not yet part of routine primary care screening. That’s why knowing how to observe and track your own responses—and sharing them clearly with your provider—makes a real difference.
 
-#### #### Does high blood pressure always lead to HFpEF in older women?
+#### Does high blood pressure always lead to HFpEF in older women?
 
 Not always—but hypertension is the single strongest risk factor. Roughly 90% of women diagnosed with HFpEF have a history of high blood pressure, often dating back decades. Long-term elevated arterial pressure causes the heart muscle to thicken and stiffen, impairing its ability to relax and fill—setting the stage for HFpEF. Controlling BP early and consistently lowers that risk significantly.

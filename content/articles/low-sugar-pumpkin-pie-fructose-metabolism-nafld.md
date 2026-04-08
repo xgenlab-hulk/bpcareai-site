@@ -60,17 +60,17 @@ The truth about *low-sugar pumpkin pie fructose metabolism NAFLD* is that knowle
 
 ### FAQ
 
-#### #### Is “low-sugar” pumpkin pie safe for someone with NAFLD?
+#### Is “low-sugar” pumpkin pie safe for someone with NAFLD?
 Not automatically. Many “low-sugar” versions use fructose-releasing fibers or syrups that worsen hepatic fat accumulation. Always read the full ingredient list — not just the front label — and prioritize whole-food-based fillings.
 
-#### #### How does low-sugar pumpkin pie fructose metabolism NAFLD differ in adults over 70?
+#### How does low-sugar pumpkin pie fructose metabolism NAFLD differ in adults over 70?
 In older adults, reduced liver blood flow, slower enzyme activity (like aldolase B), and diminished mitochondrial function mean fructose is more likely to be converted directly into fat — even at lower doses. This makes *low-sugar pumpkin pie fructose metabolism NAFLD* especially consequential in this age group.
 
-#### #### Can I test how my liver responds to pumpkin pie filling?
+#### Can I test how my liver responds to pumpkin pie filling?
 While there’s no at-home test for fructose-induced lipogenesis, tracking ALT/AST levels every 6–12 months (via routine blood work) and discussing liver ultrasound results with your provider can reveal trends tied to dietary patterns — including holiday treats.
 
-#### #### Does “no added sugar” mean no fructose impact?
+#### Does “no added sugar” mean no fructose impact?
 No. “No added sugar” only refers to sucrose, glucose, and fructose *added during processing*. It doesn’t cover naturally occurring fructose in fruit concentrates or fructose polymers like inulin hydrolysate — both of which significantly affect *low-sugar pumpkin pie fructose metabolism NAFLD*.
 
-#### #### Are there store-bought pumpkin pie fillings truly safe for NAFLD?
+#### Are there store-bought pumpkin pie fillings truly safe for NAFLD?
 A few brands use minimal, non-hydrolyzed fibers (e.g., whole pumpkin + spices only) and list <1g total sugar per serving — but these are rare. When in doubt, choose plain canned pumpkin and add your own warm spices and a *tiny* amount of sweetener you control.

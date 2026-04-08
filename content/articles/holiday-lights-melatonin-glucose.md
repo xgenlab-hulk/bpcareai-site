@@ -63,22 +63,22 @@ In short, your holiday lights aren’t “bad”—they’re just bright in a wa
 
 ### FAQ
 
-#### #### Do holiday lights affect melatonin and blood sugar in older adults?
+#### Do holiday lights affect melatonin and blood sugar in older adults?
 
 Yes—especially blue-enriched LED holiday lights. In adults 68+, evening exposure (7–11 p.m.) can delay melatonin onset by 30–90 minutes and reduce overnight glucose clearance by ~20%, potentially raising morning blood sugar by 10–15 mg/dL.
 
-#### #### How does holiday lights melatonin glucose relate to diabetes management?
+#### How does holiday lights melatonin glucose relate to diabetes management?
 
 Holiday lights melatonin glucose reflects how ambient light disrupts circadian timing—leading to transient insulin resistance overnight. For those managing prediabetes or type 2 diabetes, this underscores why consistent evening routines (light, meal timing, activity) are part of holistic *holiday diabetes management*.
 
-#### #### Can holiday lights impact blood pressure too?
+#### Can holiday lights impact blood pressure too?
 
 Indirectly, yes. Delayed melatonin and fragmented sleep can blunt the normal nocturnal dip in BP (normally ~10–20% lower at night). In older adults, this may contribute to non-dipping patterns—associated with higher cardiovascular risk.
 
-#### #### Are warm-white holiday lights safer for sleep and glucose?
+#### Are warm-white holiday lights safer for sleep and glucose?
 
 Generally, yes. Bulbs labeled 2200–2700K emit far less circadian-disruptive blue light than cool-white (5000K+) or multicolor LEDs. Using them in living areas after 8 p.m. supports earlier melatonin onset and steadier overnight glucose.
 
-#### #### Do I need to remove all holiday lights to protect my health?
+#### Do I need to remove all holiday lights to protect my health?
 
 Not at all. Focus instead on *timing* and *placement*: enjoy lights earlier in the evening, dim or switch off blue-rich displays by 8:30 p.m., and keep bedrooms naturally dark. Small changes align with your biology—not against it.

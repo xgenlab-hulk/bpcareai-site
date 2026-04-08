@@ -76,22 +76,22 @@ Movement doesn’t have to be loud, fast, or intense to be powerful—especially
 
 ### FAQ
 
-#### #### Is chair yoga vs wall sit postprandial glucose really different for seniors with knee pain?
+#### Is chair yoga vs wall sit postprandial glucose really different for seniors with knee pain?
 
 Yes—studies show chair yoga leads to more consistent, comfortable, and clinically meaningful reductions in 1-hour post-meal glucose in adults 76+ with severe knee OA. Wall sits, while effective for muscle endurance in healthier knees, often cause discomfort or swelling in advanced OA—potentially blunting metabolic benefits.
 
-#### #### Can 5 minutes of chair yoga really lower blood sugar after lunch?
+#### Can 5 minutes of chair yoga really lower blood sugar after lunch?
 
 Absolutely—and it’s been measured. In controlled trials using blinded CGM, 5 minutes of dynamic seated yoga lowered average 1-hour postprandial glucose by 22% compared to no movement. It works by stimulating muscle glucose uptake without stressing joints.
 
-#### #### What’s the safest low-impact exercise after meals for someone with diabetes and bad knees?
+#### What’s the safest low-impact exercise after meals for someone with diabetes and bad knees?
 
 Dynamic chair yoga is widely recommended by geriatric physical therapists and endocrinologists for this exact scenario. It’s seated, adaptable, promotes circulation, and avoids compression on the knee joint—making it safer and more sustainable than wall sits, standing squats, or brisk walking.
 
-#### #### Does postprandial glucose matter more than fasting glucose in older adults?
+#### Does postprandial glucose matter more than fasting glucose in older adults?
 
 For many adults over 75, yes. Post-meal spikes are often the earliest sign of declining glucose control—and they correlate more closely with cardiovascular risk and cognitive changes than fasting levels alone. Managing the 1-hour postprandial response is a practical, impactful goal.
 
-#### #### Do I need a CGM to track chair yoga vs wall sit postprandial glucose?
+#### Do I need a CGM to track chair yoga vs wall sit postprandial glucose?
 
 No—you can use standard fingerstick testing at 60 minutes after meals. Just test consistently (same meter, same finger, same time window), record what you ate and what movement you did, and look for trends over 7–10 days. Consistency matters more than high-tech tools.

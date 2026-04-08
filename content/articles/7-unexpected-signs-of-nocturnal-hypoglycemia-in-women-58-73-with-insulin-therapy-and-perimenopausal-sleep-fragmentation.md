@@ -91,22 +91,22 @@ Small adjustments—like a mindful bedtime snack, a shared review of your insuli
 
 ### FAQ
 
-#### #### What are the most common nocturnal hypoglycemia signs perimenopausal women overlook?
+#### What are the most common nocturnal hypoglycemia signs perimenopausal women overlook?
 
 The most commonly missed signs include morning migraines (especially upon waking), unexplained nocturia (waking 2+ times nightly), and subtle REM-sleep disruptions—like vivid nightmares, talking in sleep, or restless leg sensations. Because perimenopausal women often attribute these to hormones or stress, the underlying glucose dip goes uninvestigated.
 
-#### #### Can nocturnal hypoglycemia signs perimenopausal women be mistaken for menopause symptoms?
+#### Can nocturnal hypoglycemia signs perimenopausal women be mistaken for menopause symptoms?
 
 Yes—frequently. Night sweats, insomnia, anxiety upon waking, and fatigue overlap significantly between low blood sugar and perimenopause. But key differences include: night sweats *with* hunger or tremor, morning headaches that improve after eating, or nocturia that appears *after* starting or increasing insulin—not before.
 
-#### #### How does perimenopause increase the risk of nocturnal hypoglycemia in women with diabetes?
+#### How does perimenopause increase the risk of nocturnal hypoglycemia in women with diabetes?
 
 Perimenopause lowers estrogen, which normally enhances insulin sensitivity. Fluctuating progesterone also affects glucose production and utilization. Together, they reduce predictability in blood sugar control—especially overnight, when counter-regulatory hormones (like cortisol) are naturally lower and insulin action may extend longer than expected.
 
-#### #### Is nocturnal hypoglycemia dangerous for older women?
+#### Is nocturnal hypoglycemia dangerous for older women?
 
 Yes—repeated episodes can increase fall risk, contribute to arrhythmias (like QT prolongation), and over time, may affect memory and executive function. Importantly, it’s also linked to higher all-cause mortality in adults over 65 with type 2 diabetes—especially when unrecognized.
 
-#### #### Do I need a CGM to detect nocturnal hypoglycemia signs perimenopausal women often miss?
+#### Do I need a CGM to detect nocturnal hypoglycemia signs perimenopausal women often miss?
 
 Not necessarily—but it helps *immensely*. Fingerstick checks catch only snapshots. A CGM shows trends, duration, and asymptomatic lows (which account for ~60% of nocturnal events in studies). Many providers now recommend short-term CGM use (even 3–7 days) to assess overnight patterns before adjusting therapy.

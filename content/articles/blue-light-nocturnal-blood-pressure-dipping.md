@@ -85,22 +85,22 @@ Disrupted blue light nocturnal blood pressure dipping isn’t a personal failing
 
 ### FAQ
 
-#### #### Does blue light really affect blood pressure at night?
+#### Does blue light really affect blood pressure at night?
 
 Yes—especially in adults over 70. Research shows that evening exposure to blue light (470–490 nm) suppresses melatonin, which plays a role in relaxing blood vessels overnight. This can blunt or eliminate the natural nighttime dip in blood pressure—a pattern called *blue light nocturnal blood pressure dipping*. Studies like the LIGHT-HEART Trial confirm measurable impacts using 24-hour monitoring.
 
-#### #### What is blue light nocturnal blood pressure dipping—and why does it matter?
+#### What is blue light nocturnal blood pressure dipping—and why does it matter?
 
 Blue light nocturnal blood pressure dipping refers to how evening blue light exposure interferes with the healthy 10–20% drop in systolic blood pressure that normally occurs during sleep. Losing this dip is linked to higher cardiovascular risk, poorer brain health, and faster progression in mild cognitive impairment—making it a meaningful marker, not just a number.
 
-#### #### Can reducing blue light improve my nocturnal blood pressure dipping?
+#### Can reducing blue light improve my nocturnal blood pressure dipping?
 
 Evidence suggests yes. In controlled trials, switching to warm-white lighting and minimizing LED screen use after 8 p.m. led to measurable improvements in melatonin timing and nighttime BP patterns within 2–3 weeks—particularly in older adults with MCI. It’s one of the few modifiable lifestyle factors directly tied to circadian BP regulation.
 
-#### #### Is non-dipping blood pressure normal after age 70?
+#### Is non-dipping blood pressure normal after age 70?
 
 Non-dipping (less than 10% nighttime BP drop) becomes more common with age—occurring in up to half of adults 70+ with mild cognitive impairment—but it’s not *inevitable* or “normal” in the healthy-aging sense. It signals underlying circadian or vascular stress and warrants evaluation, especially when paired with other risk factors like hypertension or diabetes.
 
-#### #### Do smart home devices really emit enough blue light to matter?
+#### Do smart home devices really emit enough blue light to matter?
 
 Yes—even at low intensities. Smart thermostats, voice assistants, and security panels often emit light peaking near 480 nm, precisely where melanopsin receptors in the eye are most sensitive. Because older adults may spend evenings in close proximity to these devices (e.g., glancing at the thermostat from bed), cumulative exposure can meaningfully delay melatonin onset and interfere with blue light nocturnal blood pressure dipping.

@@ -59,22 +59,22 @@ In summary, mindful timing of food choices supports not just heart and metabolic
 
 ### FAQ
 
-#### #### Does eating dessert late at night increase dementia risk in seniors?
+#### Does eating dessert late at night increase dementia risk in seniors?
 
 No single behavior like late-night dessert directly causes dementia. However, repeated late-night dessert and dementia glucose disruptions—particularly in those with early Alzheimer’s or insulin resistance—may worsen underlying metabolic stress on the brain over time. It’s one modifiable factor among many.
 
-#### #### Can late-night dessert and dementia glucose issues affect blood pressure?
+#### Can late-night dessert and dementia glucose issues affect blood pressure?
 
 Yes. Nocturnal hyperglycemia triggers sympathetic nervous system activation and sodium retention, contributing to elevated nighttime BP (often seen as “non-dipping” patterns—where BP doesn’t drop ≥10% overnight). This is especially relevant for seniors managing both cognitive and cardiovascular health.
 
-#### #### What are healthier alternatives to late-night dessert for seniors with memory concerns?
+#### What are healthier alternatives to late-night dessert for seniors with memory concerns?
 
 Opt for low-glycemic, high-fiber options consumed before 7 p.m.: a small pear with almond butter, unsweetened cottage cheese with cinnamon, or a few dark chocolate chips (70%+ cocoa) with walnuts. These support satiety without spiking glucose.
 
-#### #### Is it safe for seniors with early Alzheimer’s to skip dessert entirely?
+#### Is it safe for seniors with early Alzheimer’s to skip dessert entirely?
 
 Not necessary—and potentially counterproductive if it leads to social isolation or reduced enjoyment of meals. Focus instead on timing, portion, and pairing—not elimination. Pleasure and routine matter deeply in cognitive wellness.
 
-#### #### How does melatonin interact with insulin in older adults?
+#### How does melatonin interact with insulin in older adults?
 
 Melatonin receptors are present in pancreatic beta cells. As melatonin rises in the evening, it physiologically dampens insulin release—helping maintain stable overnight glucose. In aging and early Alzheimer’s, this signaling may become blunted or mistimed, making the system more sensitive to late carbohydrate loads.

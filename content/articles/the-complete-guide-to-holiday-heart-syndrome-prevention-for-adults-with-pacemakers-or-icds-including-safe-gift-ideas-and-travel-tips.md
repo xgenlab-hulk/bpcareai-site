@@ -58,17 +58,17 @@ With thoughtful preparation, the holidays can be full of warmth—not worry. **H
 
 ### FAQ
 
-#### #### Can holiday lights interfere with my pacemaker or ICD?  
+#### Can holiday lights interfere with my pacemaker or ICD?  
 Most standard LED and incandescent holiday lights pose no risk. Even large displays are safe at normal viewing distances. Only avoid leaning directly into tightly wound strands or placing decorative lights directly over your device site for extended periods.
 
-#### #### What are the best gifts for someone with a pacemaker or ICD?  
+#### What are the best gifts for someone with a pacemaker or ICD?  
 Thoughtful, device-safe ideas include cozy blankets, noise-canceling headphones (safe at normal use distances), books or puzzles, heart-healthy cookbooks, or gift cards for local restaurants with low-sodium menu options. Avoid magnetic jewelry, massage chairs with strong EM fields, or unregulated “wellness” devices marketed for heart health.
 
-#### #### How does cold weather affect my pacemaker battery life?  
+#### How does cold weather affect my pacemaker battery life?  
 Cold temperatures do not meaningfully drain pacemaker or ICD batteries. These devices are designed to operate reliably in freezing conditions. What *can* change is your body’s response—shivering and vasoconstriction may raise BP and heart rate, so staying warm and hydrated supports overall heart stability.
 
-#### #### Is holiday heart prevention for pacemaker patients different from general heart health advice?  
+#### Is holiday heart prevention for pacemaker patients different from general heart health advice?  
 Yes—while many strategies overlap (like limiting salt and alcohol), pacemaker/ICD patients benefit from added attention to device-specific factors: avoiding sustained close contact with strong magnets, recognizing device alerts, and planning ahead for travel screenings. It’s personalized care—not extra caution for its own sake.
 
-#### #### Should I skip holiday parties if I have a pacemaker?  
+#### Should I skip holiday parties if I have a pacemaker?  
 Not at all. With simple steps—like choosing lower-sodium appetizers, stepping outside for quiet moments if crowds feel overwhelming, and checking in with how you feel—you can participate fully and joyfully. Holiday heart prevention for pacemaker patients is about confidence, not cancellation.

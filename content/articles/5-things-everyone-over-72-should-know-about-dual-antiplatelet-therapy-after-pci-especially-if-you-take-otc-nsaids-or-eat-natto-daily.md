@@ -84,22 +84,22 @@ The goal isn’t perfection — it’s partnership. With your cardiologist, phar
 
 ### FAQ
 
-#### #### Is dual antiplatelet therapy over 72 safe for frail older adults?
+#### Is dual antiplatelet therapy over 72 safe for frail older adults?
 
 Yes — but safety depends on careful assessment. Frailty increases bleeding risk, so doctors often use tools like the PRECISE-DAPT score and consider shorter DAPT durations (e.g., 3–6 months instead of 12) for very frail patients. The key is individualization — not blanket rules.
 
-#### #### How long should someone over 72 stay on dual antiplatelet therapy after stent placement?
+#### How long should someone over 72 stay on dual antiplatelet therapy after stent placement?
 
 Most guidelines recommend 6 months for newer-generation drug-eluting stents — and sometimes only 3 months for very high-bleeding-risk patients over 72. Your doctor will weigh stent type, heart disease severity, bleeding history, and kidney function before deciding.
 
-#### #### Can I take aspirin and ticagrelor long term after age 72?
+#### Can I take aspirin and ticagrelor long term after age 72?
 
 Long-term dual antiplatelet therapy over 72 is *rarely* recommended beyond 12 months due to rising bleeding risk. After that, most people step down to aspirin alone — unless there’s a strong reason (e.g., recent stent thrombosis or multiple high-risk stents).
 
-#### #### Does natto interfere with blood thinners like warfarin — and does it affect aspirin or ticagrelor too?
+#### Does natto interfere with blood thinners like warfarin — and does it affect aspirin or ticagrelor too?
 
 Natto’s vitamin K2 *does* significantly interfere with warfarin — requiring close INR monitoring. For aspirin and ticagrelor, direct interference is unlikely, but high intake may influence platelet behavior in aging bodies. Moderation and timing matter.
 
-#### #### Are there natural alternatives to NSAIDs for joint pain in seniors on dual antiplatelet therapy?
+#### Are there natural alternatives to NSAIDs for joint pain in seniors on dual antiplatelet therapy?
 
 Yes — options like topical capsaicin, turmeric (with caution — high doses may have mild antiplatelet effects), heat/cold therapy, tai chi, and aquatic exercise show good evidence for pain relief without increasing bleeding risk. Always discuss supplements with your pharmacist first.

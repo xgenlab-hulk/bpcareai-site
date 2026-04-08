@@ -93,17 +93,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What are the most common non-alcoholic holiday heart syndrome triggers in hypertensive adults?
+#### What are the most common non-alcoholic holiday heart syndrome triggers in hypertensive adults?
 The top non-alcoholic triggers include overnight sodium retention (leading to atrial stretch), disrupted melatonin rhythms (affecting vagal tone and ion channel stability), and post-prandial vagal surges after large, carb-and-fat-rich meals. These are especially relevant for adults 55–79 with controlled hypertension, as age-related changes in kidney function, autonomic responsiveness, and arterial stiffness amplify their impact.
 
-#### #### Can holiday heart syndrome happen even if my blood pressure is well-controlled?
+#### Can holiday heart syndrome happen even if my blood pressure is well-controlled?
 Yes—absolutely. Controlled BP reflects good management of *arterial pressure*, but cardiac rhythm depends on separate but overlapping systems: autonomic balance, electrolyte regulation, circadian signaling, and atrial structure. Many adults experience rhythm disturbances despite BP readings consistently below 130/80 mm Hg—especially during periods of sleep disruption, sodium load, or emotional stress.
 
-#### #### How do I know if my palpitations are related to holiday heart syndrome triggers in hypertensive adults?
+#### How do I know if my palpitations are related to holiday heart syndrome triggers in hypertensive adults?
 Look for timing patterns: Do palpitations occur mostly at night (10 p.m.–3 a.m.) or within 60–90 minutes after large meals? Do they coincide with late-night screen use, travel, or heavier-than-usual sodium intake? Symptom logs paired with pulse checks before breakfast and after dinner can reveal clues. When in doubt, an event monitor prescribed by your provider offers clarity.
 
-#### #### Does caffeine worsen holiday heart syndrome in older adults with hypertension?
+#### Does caffeine worsen holiday heart syndrome in older adults with hypertension?
 Not necessarily—but timing matters. Caffeine consumed after 2 p.m. can delay melatonin onset and amplify sympathetic activity overnight, indirectly increasing vulnerability. For most adults with controlled hypertension, 1–2 cups of coffee *before noon* is well-tolerated. Switching to half-caff or herbal teas after lunch is a gentle, effective buffer.
 
-#### #### Are there specific foods I should avoid to reduce holiday heart syndrome triggers?
+#### Are there specific foods I should avoid to reduce holiday heart syndrome triggers?
 Focus less on “avoiding” and more on *timing and pairing*. Limit highly processed sodium sources (deli meats, canned sauces, frozen meals) *after 3 p.m.* And avoid eating large portions of refined carbs + saturated fat (e.g., white rolls + gravy + mashed potatoes) in one sitting—this combo strongly stimulates insulin and vagal responses. Instead, enjoy smaller portions, chew slowly, and follow meals with light movement.

@@ -63,17 +63,17 @@ You don’t need perfection — just awareness and small, science-backed adjustm
 
 ### FAQ
 
-#### #### Does magnesium glycinate holiday dessert timing really affect heart rhythm?
+#### Does magnesium glycinate holiday dessert timing really affect heart rhythm?
 Yes — especially for adults over 65 with low stomach acid. Taking it 90–120 minutes before dessert supports optimal absorption and helps stabilize cardiac cell membranes *before* sugar- and fat-induced electrolyte shifts occur.
 
-#### #### Can I take magnesium glycinate *with* my holiday pie or cookies?
+#### Can I take magnesium glycinate *with* my holiday pie or cookies?
 It’s not ideal. High-fat, high-sugar foods slow gastric motility and alter gut pH, potentially reducing magnesium glycinate absorption by up to 40%. For best protection, aim for the pre-dessert window instead.
 
-#### #### Is magnesium glycinate holiday dessert timing different if I’m on antacids or PPIs?
+#### Is magnesium glycinate holiday dessert timing different if I’m on antacids or PPIs?
 Yes. Proton pump inhibitors (PPIs) and chronic antacid use further lower gastric acidity — making precise *magnesium glycinate holiday dessert timing* even more important. Consider discussing RBC magnesium testing with your provider.
 
-#### #### How much magnesium glycinate should I take around the holidays?
+#### How much magnesium glycinate should I take around the holidays?
 Most older adults benefit from 200–300 mg elemental magnesium daily — split into one dose in the morning and another 90 minutes before evening dessert. Always confirm dosage with your healthcare team, especially if you have kidney concerns.
 
-#### #### Does magnesium glycinate help with “holiday heart syndrome”?
+#### Does magnesium glycinate help with “holiday heart syndrome”?
 Research suggests yes — particularly for prevention. Magnesium supports normal conduction velocity and reduces automaticity in cardiac tissue. While not a cure, consistent, well-timed supplementation is part of a smart, heart-smart holiday strategy.

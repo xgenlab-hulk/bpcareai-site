@@ -52,17 +52,17 @@ In the end, enjoying kidney-friendly latkes stage 2 ckd isn’t about sacrifice�
 
 ### FAQ
 
-#### #### Can I eat latkes if I have stage 2 CKD?
+#### Can I eat latkes if I have stage 2 CKD?
 Yes—you can enjoy latkes safely with simple modifications like using lower-potassium potatoes, reducing sodium, and choosing phosphorus-conscious binders. *Kidney-friendly latkes stage 2 ckd* are designed to support your kidney function while keeping flavor and tradition intact.
 
-#### #### What are the best potato alternatives for kidney-friendly latkes stage 2 ckd?
+#### What are the best potato alternatives for kidney-friendly latkes stage 2 ckd?
 Yukon Gold and red potatoes (peeled and soaked) are ideal—they contain roughly 40–50% less potassium than russets. Avoid sweet potatoes, parsnips, and beets, which are much higher in potassium.
 
-#### #### How do I reduce phosphorus in traditional latkes?
+#### How do I reduce phosphorus in traditional latkes?
 Skip commercial baking powders, processed cheeses, and fortified flours—all common hidden sources of phosphorus. Instead, use cornstarch or rice flour as binders, and avoid browning agents like caramelized onions (high in advanced glycation end-products, which may stress kidneys over time).
 
-#### #### Are store-bought latke mixes safe for stage 2 CKD?
+#### Are store-bought latke mixes safe for stage 2 CKD?
 Most are not—many contain added sodium (up to 300+ mg per serving), phosphate preservatives, and enriched flours. Always read labels carefully. When in doubt, make your own using whole, unprocessed ingredients.
 
-#### #### Can I serve kidney-friendly latkes stage 2 ckd at holiday gatherings?
+#### Can I serve kidney-friendly latkes stage 2 ckd at holiday gatherings?
 Absolutely—and doing so can open gentle conversations about healthy eating during family gatherings. Offer them alongside other low-sodium, low-potassium sides (like roasted carrots or herb-roasted chicken), and share your recipe. You might just inspire others to join you in eating well—with love.

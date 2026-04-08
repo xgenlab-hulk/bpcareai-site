@@ -85,17 +85,17 @@ Supporting cardiac mitochondrial biogenesis isn’t about chasing perfection—i
 
 ### FAQ
 
-#### #### Does time-restricted eating help mitochondrial biogenesis in heart failure?
+#### Does time-restricted eating help mitochondrial biogenesis in heart failure?
 Yes—particularly in diastolic heart failure (HFpEF). Clinical studies in adults aged 60–74 show that a consistent 10-hour feeding window improves markers of mitochondrial biogenesis (e.g., increased PGC-1α expression, enhanced FGF21 response) and correlates with better diastolic function and exercise capacity. This effect is part of what researchers describe as *mitochondrial biogenesis heart failure trf*.
 
-#### #### What is mitochondrial biogenesis heart failure trf—and is it safe for older adults?
+#### What is mitochondrial biogenesis heart failure trf—and is it safe for older adults?
 *mitochondrial biogenesis heart failure trf* refers to the use of time-restricted eating to stimulate the creation of new, efficient mitochondria in heart muscle cells affected by heart failure—especially HFpEF. In adults 59–74, 10-hour TRF has been shown to be safe and well-tolerated in multiple trials, with no increased risk of hypoglycemia or adverse cardiac events when implemented gradually and under guidance.
 
-#### #### Can polyphenols really improve heart energy in diastolic heart failure?
+#### Can polyphenols really improve heart energy in diastolic heart failure?
 Yes—when timed correctly. Late-afternoon consumption of pomegranate and green tea polyphenols coincides with natural peaks in AMPK and SIRT1 activity, both upstream activators of PGC-1α. Human data suggest this timing increases circulating metabolites (e.g., urolithin A) linked to improved mitochondrial respiration in older adults with low peak VO₂.
 
-#### #### How long before I notice benefits from mitochondrial biogenesis heart failure trf strategies?
+#### How long before I notice benefits from mitochondrial biogenesis heart failure trf strategies?
 Most people begin reporting subjective improvements—such as easier breathing during daily tasks or less afternoon fatigue—within 4–6 weeks. Objective changes (e.g., improved e′ velocity on echo or higher peak VO₂) typically emerge after 12–16 weeks of consistent practice.
 
-#### #### Do I need supplements to support mitochondrial biogenesis in heart failure?
+#### Do I need supplements to support mitochondrial biogenesis in heart failure?
 No. Whole-food sources of polyphenols (pomegranate, green tea, berries, dark leafy greens) are preferred—and more effective—than isolated supplements. Supplements lack the synergistic matrix of fibers, cofactors, and microbial metabolites that enhance bioavailability and cardiac uptake. Focus first on timing and food quality.

@@ -65,22 +65,22 @@ Holiday meals are about warmth, memory, and connection—not numbers on a label.
 
 ### FAQ
 
-#### #### Can reducing sodium in holiday side dishes seniors eat really lower blood pressure?
+#### Can reducing sodium in holiday side dishes seniors eat really lower blood pressure?
 
 Yes—especially for adults over 50. Clinical trials show that lowering sodium intake by 1,000 mg per day can reduce systolic blood pressure by 4–5 mm Hg on average. For those with existing hypertension, the effect may be even more meaningful—helping improve medication effectiveness and daily stability.
 
-#### #### What’s the safest daily sodium limit for seniors during the holidays?
+#### What’s the safest daily sodium limit for seniors during the holidays?
 
 The American Heart Association recommends no more than 1,500 mg per day for adults over 50, especially those with hypertension, heart disease, or kidney concerns. During multi-day celebrations, aiming for ≤600 mg per *side dish serving* helps keep overall intake in a supportive range—even when enjoying several dishes at once.
 
-#### #### How can I reduce sodium in holiday side dishes seniors love without making them taste bland?
+#### How can I reduce sodium in holiday side dishes seniors love without making them taste bland?
 
 Flavor comes from layers—not salt. Think: roasted garlic, toasted spices, citrus zest, fresh herbs, umami-rich mushrooms, tangy vinegars, and creamy textures from yogurt or puréed vegetables. Geriatric dietitians confirm that older adults often experience subtle changes in taste perception—making aromatic, textured, and temperature-varied foods especially satisfying.
 
-#### #### Are “low-sodium” or “heart-healthy” packaged holiday mixes actually helpful?
+#### Are “low-sodium” or “heart-healthy” packaged holiday mixes actually helpful?
 
 Not always. Some “low-sodium” broth or gravy mixes still contain 300–500 mg per serving—and may include hidden sodium sources like autolyzed yeast extract or sodium phosphates. Always check the Nutrition Facts panel for *total sodium*, not marketing claims. When in doubt, homemade versions give you full control.
 
-#### #### Do I need to eliminate all cheese and cured meats from holiday sides to reduce sodium?
+#### Do I need to eliminate all cheese and cured meats from holiday sides to reduce sodium?
 
 No—you don’t need to eliminate, just choose mindfully. Opt for naturally lower-sodium cheeses like Swiss, ricotta, or fresh mozzarella (check labels—some brands add salt for preservation). Limit processed meats like sausage or bacon in stuffing; instead, use smoked paprika or liquid smoke for depth. Small changes add up—without asking you to give up what brings you joy.

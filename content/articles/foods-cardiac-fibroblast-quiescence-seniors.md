@@ -67,22 +67,22 @@ Heart health is deeply connected to how gently and consistently we nurture our t
 
 ### FAQ
 
-#### #### What foods support cardiac fibroblast quiescence without activating TGF-β?
+#### What foods support cardiac fibroblast quiescence without activating TGF-β?
 
 Foods rich in anthocyanins (berries), nitrates (beets, leafy greens), omega-3s (salmon, flax), and polyphenols (olive oil, green tea, dark chocolate) show evidence of promoting fibroblast quiescence through alternative pathways—like PPARγ, SIRT1, and Nrf2—bypassing TGF-β entirely.
 
-#### #### Are there foods cardiac fibroblast quiescence seniors should avoid?
+#### Are there foods cardiac fibroblast quiescence seniors should avoid?
 
 Yes—consistently high intake of ultra-processed carbs, excess sodium (>2,300 mg/day), and fried foods may promote low-grade inflammation and oxidative stress, both of which can indirectly prime fibroblasts for activation—even without direct TGF-β involvement.
 
-#### #### Can lifestyle changes really affect cardiac fibroblast behavior?
+#### Can lifestyle changes really affect cardiac fibroblast behavior?
 
 Absolutely. Human and animal studies confirm that diet, aerobic activity (like brisk walking 30 min/day), and quality sleep all influence fibroblast phenotype—supporting quiescence through improved insulin sensitivity, vagal tone, and redox balance.
 
-#### #### Is early diastolic stiffness reversible with nutrition?
+#### Is early diastolic stiffness reversible with nutrition?
 
 While full reversal isn’t guaranteed, multiple clinical trials (e.g., the SPRINT sub-studies and HF-ACTION nutrition arm) show that targeted dietary patterns—especially Mediterranean-style eating—can improve diastolic parameters like e’ velocity and E/e’ ratio within 6–12 months.
 
-#### #### Does blood pressure control matter for fibroblast quiescence?
+#### Does blood pressure control matter for fibroblast quiescence?
 
 Yes—chronic systolic pressures above 130 mm Hg (even without diagnosis of hypertension) correlate with increased interstitial fibrosis in aging hearts. Keeping BP comfortably below 125–130/75–80 mm Hg supports a quieter fibroblast environment.

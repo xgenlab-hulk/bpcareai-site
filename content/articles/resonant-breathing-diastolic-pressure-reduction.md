@@ -55,22 +55,22 @@ In closing, remember that your body has remarkable capacity to respond to gentle
 
 ### FAQ
 
-#### #### Is resonant breathing diastolic pressure reduction safe for people over 60?
+#### Is resonant breathing diastolic pressure reduction safe for people over 60?
 
 Yes—when practiced gently and consistently, resonant breathing is safe and well-tolerated for adults over 60. Clinical studies specifically including participants aged 60–64 report minimal adverse effects, with benefits observed in both BP and HRV metrics.
 
-#### #### How long does it take to see results from resonant breathing diastolic pressure reduction?
+#### How long does it take to see results from resonant breathing diastolic pressure reduction?
 
 Many people notice subtle shifts—like calmer pulse or slightly lower diastolic readings—within 5–10 minutes of a session. For sustained impact on diastolic pressure and LV filling, practicing 5–10 minutes daily for 2–4 weeks is typically recommended.
 
-#### #### What’s the difference between 5.5 and 6.0 breaths per minute for blood pressure?
+#### What’s the difference between 5.5 and 6.0 breaths per minute for blood pressure?
 
 At 5.5 breaths/minute, the longer exhalation (5.5 seconds) enhances vagal activation more consistently than 6.0 breaths/minute (5-second cycles), correlating with modest but measurable improvements in diastolic pressure—especially in adults with early diastolic dysfunction.
 
-#### #### Can resonant breathing replace my blood pressure medication?
+#### Can resonant breathing replace my blood pressure medication?
 
 No—resonant breathing is a supportive, complementary practice—not a substitute for prescribed treatment. Always consult your doctor before adjusting medications or expectations around BP management.
 
-#### #### Does resonant breathing diastolic pressure reduction work for everyone?
+#### Does resonant breathing diastolic pressure reduction work for everyone?
 
 Most adults aged 60–64 with early diastolic dysfunction respond positively—but individual resonance frequency varies. Some may find 5.7 or 5.3 breaths/minute more effective. Patience and personalization are key.

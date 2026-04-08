@@ -76,22 +76,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can certain foods really help stabilize cortisol rhythm after the holidays — especially with type 2 diabetes?
+#### Can certain foods really help stabilize cortisol rhythm after the holidays — especially with type 2 diabetes?
 
 Yes — research shows that foods rich in magnesium (like pumpkin seeds), GABA-supportive compounds (like fermented sauerkraut), and L-theanine (found in white tea) influence HPA axis signaling in ways that support healthier cortisol timing. For adults with type 2 diabetes, this is especially valuable because stable cortisol rhythms help maintain steady glucose levels and reduce insulin resistance.
 
-#### #### What are the best foods to stabilize cortisol rhythm holiday diabetes for older adults?
+#### What are the best foods to stabilize cortisol rhythm holiday diabetes for older adults?
 
 The most evidence-informed options include roasted pumpkin seeds (magnesium), unpasteurized sauerkraut (probiotics + GABA), white tea (L-theanine), wild-caught salmon (omega-3s + vitamin D), tart cherry juice (melatonin precursor), soaked almonds (vitamin E + magnesium), cooked spinach (folate + magnesium), plain full-fat kefir (GABA + probiotics), black beans (fiber + zinc), and cinnamon-infused oatmeal (polyphenols + blood sugar modulation). All are gentle on digestion and compatible with common diabetes medications.
 
-#### #### Do I need to eliminate holiday foods entirely to stabilize my cortisol rhythm?
+#### Do I need to eliminate holiday foods entirely to stabilize my cortisol rhythm?
 
 Not at all. The goal isn’t restriction — it’s *addition and timing*. Simply adding one supportive food at a strategic time (e.g., pumpkin seeds with breakfast, sauerkraut with lunch) helps buffer stress physiology. Most people find they naturally crave less added sugar once their cortisol rhythm stabilizes, because energy and mood become more consistent.
 
-#### #### How long does it take for foods that stabilize cortisol rhythm holiday diabetes to show results?
+#### How long does it take for foods that stabilize cortisol rhythm holiday diabetes to show results?
 
 Many notice improved morning clarity and steadier energy within 5–7 days. Sleep quality often improves within 10–14 days. For measurable changes in fasting glucose or BP trends, allow 3–4 weeks of consistent practice — especially when paired with regular movement and mindful eating.
 
-#### #### Is it safe to eat fermented foods like sauerkraut if I’m on blood pressure medication?
+#### Is it safe to eat fermented foods like sauerkraut if I’m on blood pressure medication?
 
 Generally, yes — but choose low-sodium versions (<140 mg per serving) and discuss with your doctor if you’re on ACE inhibitors or ARBs, as potassium-rich fermented foods can interact in rare cases. Always introduce new foods gradually and monitor how you feel.

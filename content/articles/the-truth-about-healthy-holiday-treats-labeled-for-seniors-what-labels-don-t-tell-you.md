@@ -86,22 +86,22 @@ Holidays are meant to be joyful—not stressful or confusing. Understanding *hea
 
 ### FAQ
 
-#### #### Are “heart-healthy” holiday cookies really safe for seniors with high blood pressure?
+#### Are “heart-healthy” holiday cookies really safe for seniors with high blood pressure?
 
 Not necessarily. While FDA rules require “heart-healthy” foods to have ≤3 g saturated fat and ≤20 mg cholesterol per serving, they don’t limit sodium, added sugars, or ultra-processed ingredients—all of which affect arterial pressure. Always check the milligrams of sodium and total carbs, not just the claim.
 
-#### #### What should I look for in healthy holiday treats seniors labels when shopping for a parent with diabetes?
+#### What should I look for in healthy holiday treats seniors labels when shopping for a parent with diabetes?
 
 Prioritize the “Added Sugars” line (aim for ≤5 g per serving), check for sugar alcohols (which may still raise glucose slightly), and confirm fiber content (≥2 g helps slow absorption). Also verify serving size—many “diabetic-friendly” packages list unrealistically small portions.
 
-#### #### Do healthy holiday treats seniors labels mean they’re approved by doctors or nutritionists?
+#### Do healthy holiday treats seniors labels mean they’re approved by doctors or nutritionists?
 
 No. Terms like “senior-friendly,” “heart-smart,” or “glucose-conscious” are unregulated marketing phrases. The FDA does not review or approve these claims—only standardized terms like “low-sodium” or “high-fiber” have legal definitions.
 
-#### #### Can “low-sodium” holiday snacks still raise my blood pressure?
+#### Can “low-sodium” holiday snacks still raise my blood pressure?
 
 Yes—if they’re high in refined carbs or saturated fats, both of which promote inflammation and vascular stiffness over time. Also, “low-sodium” only applies per serving—eating multiple servings can easily exceed daily limits (1,500 mg for most seniors).
 
-#### #### Are there any holiday treats truly designed with seniors’ nutritional needs in mind?
+#### Are there any holiday treats truly designed with seniors’ nutritional needs in mind?
 
 Yes—whole-food options like spiced roasted nuts (unsalted, lightly sweetened with cinnamon), baked apples with oats and walnuts, or dark chocolate (70%+ cacao) with a handful of berries. These deliver fiber, magnesium, and antioxidants without relying on label claims.

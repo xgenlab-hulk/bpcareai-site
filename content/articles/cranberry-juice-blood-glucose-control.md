@@ -68,17 +68,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does cranberry juice blood glucose control differ between sweetened and unsweetened versions?  
+#### Does cranberry juice blood glucose control differ between sweetened and unsweetened versions?  
 Yes. While unsweetened juice avoids added sugars, it still contains high natural fructose (≈12 g per cup), which may impair hepatic insulin signaling and elevate LPS. Sweetened versions compound this risk — some contain up to 39 g total sugars per serving. For optimal cranberry juice blood glucose control, PAC-standardized capsules or diluted, low-sugar preparations are preferred.
 
-#### #### Can cranberry juice blood glucose control affect my holiday diabetes management?  
+#### Can cranberry juice blood glucose control affect my holiday diabetes management?  
 Absolutely. Holiday meals often include multiple sources of fructose (desserts, sauces, beverages), and adding cranberry juice may push postprandial glucose beyond target ranges (typically <180 mg/dL for adults 71+). Plan ahead: substitute juice with whole berries or PAC supplements, and test more frequently during festive weeks.
 
-#### #### Is there a safe amount of cranberry juice for someone with diabetes over 70?  
+#### Is there a safe amount of cranberry juice for someone with diabetes over 70?  
 Evidence suggests limiting intake to ≤120 mL of *low-sugar* (≤5 g/120 mL) cranberry product no more than 3x/week — and only if postprandial glucose remains stable (<160 mg/dL at 2 hours). Always pair with protein or fiber to blunt glycemic impact.
 
-#### #### Do cranberry supplements raise blood pressure?  
+#### Do cranberry supplements raise blood pressure?  
 No direct evidence links cranberry PACs to BP changes. However, some commercial supplements contain sodium or potassium additives that may affect individuals on RAAS inhibitors or diuretics. Check labels and consult your pharmacist.
 
-#### #### How does cranberry affect the urinary microbiome in older adults?  
+#### How does cranberry affect the urinary microbiome in older adults?  
 Emerging data show PAC-rich cranberry interventions increase *Lactobacillus* abundance and reduce *Proteus* and *Klebsiella* colonization in catheter-free older adults — but only when fructose load is minimized. High-sugar formulations may instead feed opportunistic pathogens via gut-urinary axis dysbiosis.

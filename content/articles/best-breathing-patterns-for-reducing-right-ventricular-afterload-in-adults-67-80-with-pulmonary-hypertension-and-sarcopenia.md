@@ -92,22 +92,22 @@ Living well with pulmonary hypertension and sarcopenia isn’t about reversing e
 
 ### FAQ
 
-#### #### Can breathing patterns right ventricular afterload PH replace my PH medications?
+#### Can breathing patterns right ventricular afterload PH replace my PH medications?
 
 No—breathing patterns right ventricular afterload PH are a supportive, non-pharmacologic strategy, not a replacement for prescribed therapies like endothelin receptor antagonists, PDE5 inhibitors, or prostacyclin pathway agents. They work best *alongside* your current treatment plan to enhance comfort and functional capacity.
 
-#### #### Do I need special training to practice breathing patterns right ventricular afterload PH safely?
+#### Do I need special training to practice breathing patterns right ventricular afterload PH safely?
 
 Not necessarily—but working with a respiratory therapist or cardiac rehab specialist familiar with PH and aging is highly recommended, especially at first. They can tailor timing, posture, and cues to your strength and stamina, and help you avoid overexertion or breath-holding.
 
-#### #### How long does it take to see changes in pulmonary pressure from breathing patterns right ventricular afterload PH?
+#### How long does it take to see changes in pulmonary pressure from breathing patterns right ventricular afterload PH?
 
 In clinical home studies with adults aged 67–80, measurable reductions in estimated pulmonary arterial pressure (via TRV Doppler) appeared after 3–4 weeks of consistent twice-daily practice (10 minutes total/day). Subjective improvements—like less shortness of breath during daily tasks—often appear within 7–10 days.
 
-#### #### Is abdominal breathing safe if I have bloating or GERD?
+#### Is abdominal breathing safe if I have bloating or GERD?
 
 Yes—with modifications. Focus on *gentle* abdominal softening on inhalation and subtle inward movement on exhalation—avoid deep “belly pushes” that increase intra-abdominal pressure. Try practicing upright or slightly reclined (30°), and avoid practicing within 1 hour of meals. If discomfort persists, consult your gastroenterologist or primary care provider.
 
-#### #### Can I use breathing patterns right ventricular afterload PH if I’m on oxygen therapy?
+#### Can I use breathing patterns right ventricular afterload PH if I’m on oxygen therapy?
 
 Absolutely—and many people do. Continue using your prescribed oxygen flow rate. Breathing patterns right ventricular afterload PH may help you use oxygen more efficiently, potentially improving endurance and reducing perceived breathlessness. Just ensure your oxygen tubing allows full range of motion and doesn’t tug or restrict.

@@ -79,17 +79,17 @@ Cold exposure and paroxysmal afib in elderly adults is more predictable—and mo
 
 ### FAQ  
 
-#### #### Can cold exposure really cause AFib in older adults?  
+#### Can cold exposure really cause AFib in older adults?  
 Yes—especially in those with underlying aortic stiffness or hypertension. Sudden temperature drops trigger sympathetic activation and BP spikes, which can disrupt the heart’s rhythm in susceptible individuals.
 
-#### #### Is cold exposure and paroxysmal afib in elderly adults preventable?  
+#### Is cold exposure and paroxysmal afib in elderly adults preventable?  
 Often, yes. Simple strategies—like warming up before going outside, layering clothing, and doing the seated Valsalva maneuver at first sign—reduce frequency and severity significantly.
 
-#### #### What’s the link between holiday heart syndrome and cold exposure and paroxysmal afib in elderly adults?  
+#### What’s the link between holiday heart syndrome and cold exposure and paroxysmal afib in elderly adults?  
 “Holiday heart syndrome” traditionally refers to alcohol-triggered arrhythmias—but newer evidence shows cold exposure is an equally important seasonal trigger, particularly for paroxysmal AFib in older adults with stiffened arteries.
 
-#### #### Does drinking hot tea before going out help prevent cold-triggered AFib?  
+#### Does drinking hot tea before going out help prevent cold-triggered AFib?  
 Warm liquids may support comfort and circulation, but they don’t blunt the neural reflex triggered by cold skin receptors. The key is minimizing *rapid* temperature shifts—not internal warmth alone.
 
-#### #### Should I stop attending holiday parties if I’ve had cold-triggered palpitations?  
+#### Should I stop attending holiday parties if I’ve had cold-triggered palpitations?  
 Not at all—just plan ahead. Bring a light wrap, pause in transitional spaces (like a covered porch), and keep your response technique fresh in mind. Most episodes are brief and fully reversible with awareness.

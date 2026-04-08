@@ -68,22 +68,22 @@ Improving your nocturnal blood pressure dip isn’t about achieving perfection�
 
 ### FAQ
 
-#### #### Is evening walk vs breathing nocturnal bp dip really something I need to worry about at my age?
+#### Is evening walk vs breathing nocturnal bp dip really something I need to worry about at my age?
 
 Yes—especially after 65. A healthy nocturnal dip supports heart and artery repair overnight. Non-dipping is common but not inevitable, and lifestyle adjustments like evening walks or breathing can help restore rhythm—even later in life.
 
-#### #### Which is better for lowering nighttime systolic BP: evening walk vs breathing nocturnal bp dip?
+#### Which is better for lowering nighttime systolic BP: evening walk vs breathing nocturnal bp dip?
 
 In the 2024 trial, both helped—but the 4-7-8 breathing protocol showed slightly stronger effects on nocturnal systolic dip (+6.8 mm Hg improvement vs +5.2 mm Hg for walking), particularly for those with high stress or trouble winding down.
 
-#### #### Can I combine evening walk and breathing for better nocturnal bp dip?
+#### Can I combine evening walk and breathing for better nocturnal bp dip?
 
 Absolutely—and many participants in follow-up studies did just that. Try a short walk earlier in the evening (75 min after dinner), then 4-7-8 breathing 60 min before bed. Just allow at least 30 minutes between activities to let your nervous system settle.
 
-#### #### Does timing matter for evening walk vs breathing nocturnal bp dip?
+#### Does timing matter for evening walk vs breathing nocturnal bp dip?
 
 Yes—very much. Walking too close to bedtime may raise core temperature and delay melatonin onset. Breathing too early (e.g., right after dinner) may be less effective because the body hasn’t begun its natural wind-down phase. Optimal windows are 75–90 min after dinner for walking, and 60 min before bed for breathing.
 
-#### #### What if I have knee pain or balance concerns—can I still benefit from evening walk vs breathing nocturnal bp dip?
+#### What if I have knee pain or balance concerns—can I still benefit from evening walk vs breathing nocturnal bp dip?
 
 Definitely. Seated or recumbent versions of 4-7-8 breathing require no mobility. For movement, consider gentle seated marches, arm circles, or short stretches in a chair—studies show even low-intensity rhythmic activity can support parasympathetic tone and improve nocturnal dip over time.

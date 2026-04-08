@@ -88,22 +88,22 @@ Discovering white-coat normotension ambulatory hypertension isn’t a cause for 
 
 ### FAQ
 
-#### #### What is white-coat normotension ambulatory hypertension—and is it dangerous?
+#### What is white-coat normotension ambulatory hypertension—and is it dangerous?
 
 White-coat normotension ambulatory hypertension describes a situation where blood pressure appears normal during clinic visits but shows elevated readings (≥130/80 mm Hg daytime average) during 24-hour ambulatory monitoring. It’s not inherently dangerous, but it *is* associated with a modestly increased risk of cardiovascular events over time—similar to sustained hypertension—so it’s important to recognize and address proactively.
 
-#### #### How is white-coat normotension ambulatory hypertension different from white-coat hypertension?
+#### How is white-coat normotension ambulatory hypertension different from white-coat hypertension?
 
 They’re opposites! *White-coat hypertension* means BP is high in the clinic but normal elsewhere. *White-coat normotension ambulatory hypertension* means BP is normal in the clinic but elevated during daily life—making it harder to spot without ambulatory monitoring. Both reflect a disconnect between clinical and real-world physiology, but they point to different underlying patterns.
 
-#### #### Can anxiety cause white-coat normotension ambulatory hypertension?
+#### Can anxiety cause white-coat normotension ambulatory hypertension?
 
 Anxiety itself usually raises BP—not lowers it—so it’s not the direct cause. However, the *anticipation* of a medical visit can trigger a calming vagal response in some older adults, temporarily lowering BP in the office. That temporary dip, combined with otherwise elevated daytime levels, contributes to the white-coat normotension ambulatory hypertension pattern.
 
-#### #### Does white-coat normotension ambulatory hypertension require medication?
+#### Does white-coat normotension ambulatory hypertension require medication?
 
 Not always. Many people respond well to lifestyle adjustments first—especially improved sleep, movement, and sodium awareness. Medication is considered when ambulatory averages remain elevated (e.g., ≥135/85 mm Hg) despite 3–6 months of consistent lifestyle support, or when other risk factors (like diabetes or prior heart disease) are present.
 
-#### #### At what age should I consider ambulatory blood pressure monitoring?
+#### At what age should I consider ambulatory blood pressure monitoring?
 
 Guidelines increasingly recommend ABPM for adults aged 60+ who have inconsistent BP readings, unexplained symptoms like fatigue or dizziness, or elevated home measurements—especially if clinic readings remain deceptively reassuring. It’s a safe, noninvasive way to get a fuller picture of your cardiovascular rhythm.

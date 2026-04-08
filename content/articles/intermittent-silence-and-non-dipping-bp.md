@@ -78,22 +78,22 @@ It’s easy to feel overwhelmed by numbers, diagnoses, or long lists of “shoul
 
 ### FAQ
 
-#### #### What exactly counts as “intermittent silence” for improving non-dipping BP?
+#### What exactly counts as “intermittent silence” for improving non-dipping BP?
 
 Intermittent silence means brief, intentional periods—typically 25–30 minutes—of undistracted quiet without guided audio, breath instruction, or mental tasks. It’s not sleep, zoning out, or passive listening. The key is absence of external stimulation and internal direction—just quiet presence.
 
-#### #### Can intermittent silence and non-dipping bp improvement happen without meditation experience?
+#### Can intermittent silence and non-dipping bp improvement happen without meditation experience?
 
 Yes—absolutely. The clinical trial referenced included participants with zero prior meditation practice. No technique, posture, or belief system was required. Simply sitting quietly, eyes open or closed, was sufficient to observe improvements in vagal tone and nocturnal BP dipping over 8 weeks.
 
-#### #### How long before I might notice changes in my nighttime BP with intermittent silence?
+#### How long before I might notice changes in my nighttime BP with intermittent silence?
 
 Most participants in studies saw modest HRV improvements within 2–3 weeks, with clearer changes in nocturnal dipping patterns emerging by week 6–8. Because BP regulation is gradual and influenced by many factors (sleep, hydration, sodium intake), consistency matters more than speed. Think in terms of gentle unfolding—not quick fixes.
 
-#### #### Is intermittent silence and non-dipping bp relevant for someone with controlled daytime BP?
+#### Is intermittent silence and non-dipping bp relevant for someone with controlled daytime BP?
 
 Yes. Even if your clinic or home readings look fine during the day, a lack of nighttime dip can still signal increased cardiovascular risk. Up to 25% of people with “controlled” hypertension are non-dippers—and intermittent silence offers a low-risk, self-directed way to support healthier 24-hour BP rhythms.
 
-#### #### Does intermittent silence replace blood pressure medication?
+#### Does intermittent silence replace blood pressure medication?
 
 No—and it shouldn’t be used to discontinue prescribed treatment. Intermittent silence is a complementary practice, like walking or reducing sodium. Some participants in trials were able to maintain stable BP with slightly lower medication doses *under medical supervision*, but adjustments should always be made with your care team.

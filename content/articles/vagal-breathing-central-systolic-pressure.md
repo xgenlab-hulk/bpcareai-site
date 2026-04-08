@@ -44,22 +44,22 @@ In summary, supporting heart health doesn’t always mean adding medications—i
 
 ### FAQ
 
-#### #### Does vagal breathing central systolic pressure work for people over 70?
+#### Does vagal breathing central systolic pressure work for people over 70?
 
 Yes—studies including participants up to age 75 show similar improvements in central systolic pressure and AIx, though onset of benefit may take 2–3 weeks longer than in younger cohorts due to slower autonomic adaptation.
 
-#### #### How does vagal breathing central systolic pressure compare to regular deep breathing?
+#### How does vagal breathing central systolic pressure compare to regular deep breathing?
 
 HRV-guided vagal breathing is specifically tuned to your body’s resonance frequency, optimizing vagal activation and baroreflex gain. Generic deep breathing (e.g., 4-7-8) may reduce stress but lacks the hemodynamic precision shown to lower central systolic pressure in RCTs.
 
-#### #### Can I do vagal breathing central systolic pressure while sitting at my desk?
+#### Can I do vagal breathing central systolic pressure while sitting at my desk?
 
 Absolutely—many studies used seated protocols. Just ensure upright posture, relaxed shoulders, and minimal screen distraction. Even 10 minutes before lunch or after work supports consistent practice.
 
-#### #### What’s the difference between central systolic pressure and regular blood pressure?
+#### What’s the difference between central systolic pressure and regular blood pressure?
 
 Central systolic pressure measures force in the aorta—the main artery leaving the heart—while standard BP measures pressure in the brachial artery (upper arm). Because of wave reflection, central systolic pressure can be 10–20 mm Hg higher—and is more closely linked to heart and brain outcomes.
 
-#### #### Do I need special equipment to start?
+#### Do I need special equipment to start?
 
 No. You only need a quiet space and a timer or guided audio. For tracking, a validated home BP monitor with central pressure estimation (if available) adds insight—but consistency matters more than advanced tools.

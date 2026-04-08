@@ -72,17 +72,17 @@ In short, exertional fatigue stair climbing sleep apnea is rarely a sign of some
 
 ### FAQ
 
-#### #### Is exertional fatigue stair climbing sleep apnea a sign of heart failure?
+#### Is exertional fatigue stair climbing sleep apnea a sign of heart failure?
 Not necessarily—and certainly not in the early stages. It’s more commonly a sign of inefficient oxygen delivery due to untreated sleep-disordered breathing. True heart failure usually includes other signs like persistent shortness of breath at rest, orthopnea, or elevated BNP levels.
 
-#### #### Can exertional fatigue stair climbing sleep apnea improve without CPAP?
+#### Can exertional fatigue stair climbing sleep apnea improve without CPAP?
 Yes—especially in mild cases. Weight management (even 5–10% loss), positional therapy, regular movement, and alcohol reduction can significantly reduce symptom burden and nocturnal hypoxemia.
 
-#### #### What’s the link between exertional fatigue stair climbing sleep apnea and pulmonary hypertension?
+#### What’s the link between exertional fatigue stair climbing sleep apnea and pulmonary hypertension?
 Chronic nocturnal hypoxemia can cause mild, reversible increases in pulmonary vascular resistance over time. While full-blown pulmonary hypertension is rare in mild OSA, early RV-PA coupling changes may precede it—making timely evaluation valuable.
 
-#### #### Does normal ejection fraction mean my heart is completely healthy?
+#### Does normal ejection fraction mean my heart is completely healthy?
 It means your left ventricle pumps well—but doesn’t tell the full story about right-heart strain, vascular stiffness, or oxygen delivery efficiency. Think of EF as one important chapter, not the whole book.
 
-#### #### Should I get an echocardiogram just because I feel tired on stairs?
+#### Should I get an echocardiogram just because I feel tired on stairs?
 Not automatically—but discussing your pattern with your doctor is wise. They may recommend targeted tests (like overnight oximetry or a cardiopulmonary exercise test) before ordering imaging.

@@ -96,22 +96,22 @@ In short: most post-dinner palpitations are fleeting and harmless. But when patt
 
 ### FAQ
 
-#### #### What are the most serious post-meal palpitations warning signs I shouldn’t ignore?
+#### What are the most serious post-meal palpitations warning signs I shouldn’t ignore?
 
 The top red flags include palpitations lasting longer than 2 minutes, especially when paired with chest pressure, shortness of breath, dizziness, or fainting—even once. Also concerning: palpitations that wake you from sleep, occur at rest without obvious triggers, or happen more than once daily for several days after meals. These warrant prompt evaluation—not just during holidays.
 
-#### #### Can post-meal palpitations warning signs appear even without drinking alcohol?
+#### Can post-meal palpitations warning signs appear even without drinking alcohol?
 
 Yes—absolutely. While alcohol is a well-known trigger (especially for holiday heart syndrome), large, high-fat, high-sodium meals alone can elevate arterial pressure and activate the sympathetic nervous system. Spicy foods, caffeine, dehydration, or even food sensitivities (like to MSG or nitrates in cured meats) may contribute—particularly in adults with existing hypertension or autonomic imbalance.
 
-#### #### Is there a link between post-meal palpitations warning and high blood pressure?
+#### Is there a link between post-meal palpitations warning and high blood pressure?
 
 Yes—there’s a strong physiological connection. Eating raises cardiac output and systemic vascular resistance temporarily. In people with baseline hypertension (e.g., ≥140/90 mm Hg), that added load can tip the balance—leading to palpitations, skipped beats, or brief arrhythmias. Research shows adults with uncontrolled BP are nearly 3× more likely to report meal-related palpitations than those with optimal control.
 
-#### #### How soon after eating do palpitations usually start—if they’re related to the meal?
+#### How soon after eating do palpitations usually start—if they’re related to the meal?
 
 Timing varies, but most food- or drink-related palpitations begin within 30–120 minutes after finishing a meal. Alcohol-related episodes often peak around 90 minutes post-consumption. If palpitations consistently start *during* eating—or more than 3 hours later—it may point to other causes (e.g., GERD, anxiety, medication timing, or delayed hypoglycemia).
 
-#### #### Can stress during holiday gatherings cause palpitations—even without overeating?
+#### Can stress during holiday gatherings cause palpitations—even without overeating?
 
 Yes—emotional stress activates the same “fight-or-flight” pathways as dietary triggers: increased adrenaline, faster heart rate, and heightened sensitivity to rhythm changes. Combine stress with rich food and alcohol, and the effect multiplies. That’s why self-care—pausing, breathing, stepping outside for air—is both emotionally soothing *and* cardioprotective.

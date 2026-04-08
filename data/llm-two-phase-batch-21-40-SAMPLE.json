@@ -1,0 +1,130 @@
+{
+  "batch_info": {
+    "range": "21-40",
+    "total_articles": 20,
+    "processing_date": "2026-03-16T10:30:00",
+    "note": "This is a SAMPLE/TEMPLATE file showing the expected output format. Run scripts/process-two-phase-batch.py to generate actual results."
+  },
+  "processing_instructions": {
+    "command": "python3 scripts/process-two-phase-batch.py --start 21 --end 40",
+    "requirements": [
+      "Set ANTHROPIC_API_KEY environment variable",
+      "Install anthropic package: pip install anthropic",
+      "Estimated time: 30-60 minutes",
+      "Estimated cost: $10-15 in API usage"
+    ]
+  },
+  "detailed_results": [
+    {
+      "article_number": 21,
+      "slug": "warning-signs-your-normal-blood-pressure-reading-is-actually-masked-hypertension-especially-during-routine-dental-visits-in-adults-62",
+      "original_metadata": {
+        "title": "Warning Signs Your 'Normal' Blood Pressure Reading Is Actually Masked Hypertension — Especially During Routine Dental Visits in Adults 62+",
+        "description": "Identifies contextual BP elevation triggers (e.g., supine position, local anesthetic vasoconstrictors, dental anxiety) that unmask hypertension missed by standard office readings.",
+        "primaryKeyword": "masked hypertension during dental procedures",
+        "slug": "warning-signs-your-normal-blood-pressure-reading-is-actually-masked-hypertension-especially-during-routine-dental-visits-in-adults-62"
+      },
+      "metadata_audit": {
+        "overall_score": 45,
+        "needs_optimization": true,
+        "key_problems": [
+          "Slug is excessively long (143 chars vs ideal 60 chars max)",
+          "Title too long and overly specific (143 chars)",
+          "Description is too technical and too long (181 chars)",
+          "Scope may be too narrow (dental-specific)"
+        ]
+      },
+      "metadata_optimization": {
+        "optimization_successful": true,
+        "optimizations": {
+          "primaryKeyword": {
+            "original": "masked hypertension during dental procedures",
+            "optimized": "masked hypertension warning signs",
+            "rationale": "Broader scope, more searchable, natural phrasing"
+          },
+          "slug": {
+            "original": "warning-signs-your-normal-blood-pressure-reading-is-actually-masked-hypertension-especially-during-routine-dental-visits-in-adults-62",
+            "optimized": "masked-hypertension-warning-signs-adults",
+            "rationale": "Reduced from 143 to 42 chars, clearer, more SEO-friendly"
+          },
+          "title": {
+            "original": "Warning Signs Your 'Normal' Blood Pressure Reading Is Actually Masked Hypertension — Especially During Routine Dental Visits in Adults 62+",
+            "optimized": "Masked Hypertension Warning Signs in Adults Over 60",
+            "rationale": "Concise (53 chars), clear value, natural language"
+          },
+          "description": {
+            "original": "Identifies contextual BP elevation triggers (e.g., supine position, local anesthetic vasoconstrictors, dental anxiety) that unmask hypertension missed by standard office readings.",
+            "optimized": "Learn the warning signs of masked hypertension in adults 60+. Discover why normal office readings can miss high blood pressure.",
+            "rationale": "User-focused, clear value, proper length (127 chars)"
+          }
+        },
+        "quality_scores": {
+          "primaryKeyword": {"score": 90},
+          "slug": {"score": 92},
+          "title": {"score": 91},
+          "description": {"score": 89},
+          "overall": 90
+        }
+      },
+      "metadata_final_score": 90,
+      "metadata_optimized": true,
+      "content_audit": {
+        "content_quality_score": 82,
+        "needs_content_optimization": true,
+        "key_content_issues": [
+          "H1 title too long and doesn't match optimized metadata",
+          "Some technical terms need explanation",
+          "FAQ questions could be more natural"
+        ],
+        "content_audit": {
+          "h1_title": {"score": 75},
+          "structure": {"score": 85},
+          "faq": {"score": 85},
+          "technical_language": {"score": 78},
+          "fact_density": {"score": 88},
+          "user_value": {"score": 82}
+        }
+      },
+      "needs_phase2": true
+    }
+  ],
+  "summary": {
+    "batch_range": "21-40",
+    "total_articles": 20,
+    "successfully_processed": 20,
+    "processing_date": "2026-03-16T10:30:00",
+    "metadata_stats": {
+      "original_avg_score": 58.3,
+      "final_avg_score": 88.7,
+      "articles_optimized": 18,
+      "all_above_85": true
+    },
+    "content_stats": {
+      "avg_score": 76.8,
+      "articles_needing_phase2": 14,
+      "articles_above_85": 6
+    },
+    "articles_needing_phase2": [
+      {
+        "article_number": 21,
+        "slug": "warning-signs-your-normal-blood-pressure-reading-is-actually-masked-hypertension-especially-during-routine-dental-visits-in-adults-62",
+        "content_score": 82,
+        "key_issues": [
+          "H1 title needs update",
+          "Some technical terms need explanation"
+        ]
+      }
+    ]
+  },
+  "README": {
+    "message": "This is a SAMPLE file showing expected output format.",
+    "next_steps": [
+      "1. Set ANTHROPIC_API_KEY environment variable",
+      "2. Run: python3 scripts/process-two-phase-batch.py --start 21 --end 40",
+      "3. Wait 30-60 minutes for processing to complete",
+      "4. Review output in data/llm-two-phase-batch-21-40.json",
+      "5. Use results to update article metadata and identify content optimization priorities"
+    ],
+    "documentation": "See data/llm-two-phase-batch-21-40-README.md for full instructions"
+  }
+}

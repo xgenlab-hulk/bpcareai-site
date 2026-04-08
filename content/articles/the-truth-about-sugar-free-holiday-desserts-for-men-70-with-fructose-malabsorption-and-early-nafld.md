@@ -58,22 +58,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Are sugar-free desserts for fructose malabsorption seniors safe if they use stevia or monk fruit?
+#### Are sugar-free desserts for fructose malabsorption seniors safe if they use stevia or monk fruit?
 
 Stevia and monk fruit extracts are generally well-tolerated by people with fructose malabsorption because they contain no fructose or sugar alcohols—and aren’t fermented in the colon. However, some commercial blends add fillers like erythritol (a sugar alcohol) or dextrose. Always check the ingredient list. Pure stevia leaf powder or certified monk fruit extract (without added fillers) are safer choices.
 
-#### #### What are the best sugar free desserts for fructose malabsorption seniors during Christmas?
+#### What are the best sugar free desserts for fructose malabsorption seniors during Christmas?
 
 Look for homemade options using whole foods: roasted figs with goat cheese and rosemary, baked apples with oats and cinnamon, or a simple rice pudding made with lactose-free milk and vanilla. Avoid prepackaged “low-sugar” pies, cakes, or candies—even if labeled “keto” or “diabetic-friendly”—as they often contain problematic sugar alcohols.
 
-#### #### Can sugar-free gum cause problems for seniors with fructose malabsorption and NAFLD?
+#### Can sugar-free gum cause problems for seniors with fructose malabsorption and NAFLD?
 
 Yes—many sugar-free gums contain 1–2 grams of sorbitol or xylitol per piece. Just 5 pieces could exceed the 10-gram threshold known to trigger osmotic diarrhea in sensitive individuals. For seniors with early NAFLD, frequent chewing may also stimulate digestive hormones in ways that subtly affect insulin signaling—so moderation is wise.
 
-#### #### Do sugar alcohols raise blood pressure?
+#### Do sugar alcohols raise blood pressure?
 
 Sugar alcohols themselves don’t directly raise blood pressure. However, repeated episodes of bloating, discomfort, or dehydration from osmotic diarrhea can temporarily elevate arterial pressure. Chronic digestive stress may also influence autonomic nervous system balance—another indirect factor worth monitoring.
 
-#### #### Is dark chocolate okay for fructose malabsorption and early NAFLD?
+#### Is dark chocolate okay for fructose malabsorption and early NAFLD?
 
 Yes—when chosen mindfully. Opt for plain dark chocolate (85% cocoa or higher), with no added sugars, fruit fillings, or sugar alcohols. A 10g portion (about one small square) contains minimal fructose and offers beneficial flavonoids. Enjoy it slowly, after a balanced meal, to support steady digestion and liver processing.

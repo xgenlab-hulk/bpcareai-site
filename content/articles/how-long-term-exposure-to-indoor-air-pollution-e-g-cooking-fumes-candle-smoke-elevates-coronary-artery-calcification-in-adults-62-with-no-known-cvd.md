@@ -83,22 +83,22 @@ Understanding the link between indoor air pollution coronary artery calcificatio
 
 ### FAQ
 
-#### #### Does indoor air pollution coronary artery calcification show up on regular blood tests?
+#### Does indoor air pollution coronary artery calcification show up on regular blood tests?
 
 No—routine blood work (like cholesterol panels or CRP) can’t detect coronary artery calcification. Only a specialized cardiac CT scan (the CAC scan) measures calcium deposits directly. Blood tests *can* reveal related risks—such as elevated LDL cholesterol, fasting glucose, or markers of inflammation—but they don’t visualize arterial changes.
 
-#### #### Can indoor air pollution coronary artery calcification be reversed?
+#### Can indoor air pollution coronary artery calcification be reversed?
 
 Calcium deposits themselves are generally stable and not reversible—but progression *can* be slowed or halted. Studies show that reducing exposure to pollutants, managing BP and blood sugar, staying physically active, and following a heart-healthy diet (rich in leafy greens, berries, nuts, and whole grains) are associated with stable or slower-growing CAC scores over time.
 
-#### #### How does indoor air pollution coronary artery calcification compare to outdoor air pollution risk?
+#### How does indoor air pollution coronary artery calcification compare to outdoor air pollution risk?
 
 Both matter—but for adults 62+, indoor exposure often dominates because of time spent indoors. One analysis found that indoor PM2.5 levels in poorly ventilated homes averaged 2.3 times higher than outdoor levels in the same city. Since older adults tend to spend more time inside—and may have reduced lung clearance capacity—the indoor environment carries outsized influence on long-term vascular health.
 
-#### #### Is using an air purifier enough to lower indoor air pollution coronary artery calcification risk?
+#### Is using an air purifier enough to lower indoor air pollution coronary artery calcification risk?
 
 An air purifier is a helpful tool—but it works best as part of a broader strategy. Think of it like seatbelts in a car: essential, but not sufficient on its own. Pairing filtration with source control (e.g., switching to electric stoves), ventilation (opening windows), and humidity management delivers the strongest protection.
 
-#### #### Do gas stoves really increase heart disease risk in older adults?
+#### Do gas stoves really increase heart disease risk in older adults?
 
 Yes—evidence is growing. A 2022 review in the *Journal of the American Heart Association* linked frequent gas stove use (without ventilation) to a 17% higher risk of coronary events over 10 years among adults over 60—particularly when combined with other environmental stressors like secondhand smoke or traffic noise. The key isn’t eliminating gas stoves overnight, but reducing exposure through practical habits like always using the hood fan and keeping kitchen doors open during and after cooking.

@@ -73,17 +73,17 @@ Your health doesn’t take a vacation—especially during the holidays—but tha
 
 ### FAQ
 
-#### #### Can non-alcoholic drinks cause holiday heart syndrome?
+#### Can non-alcoholic drinks cause holiday heart syndrome?
 Yes—especially fermented “mocktails” like mulled wine and sparkling cider. Though labeled non-alcoholic, they often contain residual ethanol and histamine, both linked to atrial ectopy in sensitive adults over 65. This contributes to what’s increasingly recognized as *non-alcoholic drinks holiday heart syndrome*.
 
-#### #### Are there safe non-alcoholic drinks for people with holiday heart syndrome?
+#### Are there safe non-alcoholic drinks for people with holiday heart syndrome?
 Yes—opt for freshly prepared, non-fermented, low-histamine options: lightly simmered apple-ginger tea, warm lemon-water with fresh mint, or chilled hibiscus infusion (unsweetened). Avoid anything labeled “naturally fermented,” “unfiltered,” or “refermented.”
 
-#### #### What’s the difference between holiday heart syndrome and non-alcoholic drinks holiday heart syndrome?
+#### What’s the difference between holiday heart syndrome and non-alcoholic drinks holiday heart syndrome?
 Traditional holiday heart syndrome refers to arrhythmias triggered by acute *alcohol* binges. *Non-alcoholic drinks holiday heart syndrome* describes similar rhythm disturbances—but sparked by trace ethanol, histamine, and biogenic amines in legal “alcohol-free” products, especially during seasonal stress.
 
-#### #### Do blood pressure meds interact with non-alcoholic mulled wine?
+#### Do blood pressure meds interact with non-alcoholic mulled wine?
 Some do—particularly ACE inhibitors and ARBs, which can potentiate histamine-mediated vasodilation. Beta-blockers may mask palpitation symptoms without preventing ectopy. Always discuss beverage choices with your prescriber if you’re on cardiac or antihypertensive therapy.
 
-#### #### How much histamine is too much for seniors?
+#### How much histamine is too much for seniors?
 There’s no universal threshold—but many adults over 67 react to as little as **0.5–1.0 mg/L**, especially when combined with other triggers. Commercial mulled ciders average **5–12 mg/L**, making portion control and brand selection especially important.

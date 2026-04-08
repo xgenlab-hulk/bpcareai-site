@@ -102,25 +102,25 @@ Starting a beta-blocker after age 75 isn’t something to fear — it’s someth
 
 ### FAQ
 
-#### #### Can beta-blockers be safely started after age 75 if I have COPD?
+#### Can beta-blockers be safely started after age 75 if I have COPD?
 
 Yes — but selection and dosing matter greatly. Cardioselective agents like bisoprolol or nebivolol are preferred, and initiation should begin at very low doses (e.g., 1.25 mg daily) with close monitoring of breathing and oxygen levels. Avoid non-selective beta-blockers like propranolol in moderate-to-severe COPD.
 
-#### #### What are the biggest risks of beta-blocker initiation over 75 with comorbidities?
+#### What are the biggest risks of beta-blocker initiation over 75 with comorbidities?
 
 The top three clinically significant risks are:  
 1. Excessive heart rate slowing (especially with pre-existing bradycardia or conduction disease),  
 2. Worsening orthostatic hypotension leading to falls (seen in up to 25% of initiations in frail elders), and  
 3. Unmasking or exacerbating COPD symptoms — though this occurs in <5% with proper agent selection and titration.
 
-#### #### How long does it take to know if a beta-blocker is working well for me after age 75?
+#### How long does it take to know if a beta-blocker is working well for me after age 75?
 
 Most people notice stabilization of heart rate and improved exertional tolerance within 2–4 weeks. However, full cardiovascular benefit — such as reduced hospitalizations after heart failure — builds over 3–6 months. Your doctor will monitor symptoms, weight, pulse, BP, and possibly NT-proBNP or echocardiogram changes over time.
 
-#### #### Are there alternatives to beta-blockers for heart disease in older adults?
+#### Are there alternatives to beta-blockers for heart disease in older adults?
 
 Yes — depending on the condition. For hypertension, calcium channel blockers (e.g., amlodipine) or thiazide-like diuretics (e.g., chlorthalidone) are often first-line in older adults. For heart failure with preserved ejection fraction (HFpEF), SGLT2 inhibitors (e.g., empagliflozin) now have strong evidence. Always discuss options in context of your full health picture.
 
-#### #### Do beta-blockers increase dementia risk in people over 75?
+#### Do beta-blockers increase dementia risk in people over 75?
 
 Current evidence does not support a causal link between beta-blocker use and dementia. In fact, some studies suggest better long-term cognitive outcomes in patients with well-controlled heart disease — likely due to improved cerebral perfusion and reduced stroke risk. However, *acute* confusion from hypotension or bradycardia should be evaluated promptly.

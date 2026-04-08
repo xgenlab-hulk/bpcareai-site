@@ -62,22 +62,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can I really normalize heart rate variability after alcohol in under two hours?
+#### Can I really normalize heart rate variability after alcohol in under two hours?
 
 Yes—studies in adults 55–70 show that combining cold-water facial immersion (20–30 sec), paced breathing, and gentle isometric activity can elevate RMSSD by 15–22% within 90 minutes. Effectiveness improves with consistent practice and adequate hydration.
 
-#### #### What’s the safest way to normalize heart rate variability after alcohol if I’m on beta-blockers?
+#### What’s the safest way to normalize heart rate variability after alcohol if I’m on beta-blockers?
 
 Beta-blockers don’t prevent HRV improvement—they may simply shift the magnitude of change. Focus on vagal-supportive techniques (like controlled expiration and cold exposure) rather than heart-rate-lowering maneuvers. Always discuss new routines with your prescribing clinician.
 
-#### #### Does normalizing heart rate variability after alcohol reduce holiday heart syndrome risk?
+#### Does normalizing heart rate variability after alcohol reduce holiday heart syndrome risk?
 
 Emerging evidence suggests yes—especially when paired with moderation (≤1 drink/day for women, ≤2 for men) and consistent recovery habits. One 2023 cohort study found adults who used timed vagal techniques after social drinking had a 37% lower incidence of alcohol-triggered arrhythmia over 12 months.
 
-#### #### Is low HRV after drinking a sign of heart disease?
+#### Is low HRV after drinking a sign of heart disease?
 
 Not necessarily. Transient HRV reduction is common and expected. However, if HRV remains low *between* drinking episodes—or if it’s accompanied by symptoms like fatigue, brain fog, or orthostatic dizziness—it’s worth discussing with your healthcare provider as part of broader cardiovascular wellness.
 
-#### #### Do hydration and electrolytes help normalize heart rate variability after alcohol?
+#### Do hydration and electrolytes help normalize heart rate variability after alcohol?
 
 Yes—mild dehydration reduces plasma volume and increases sympathetic tone. Sipping 250–500 mL of water with a pinch of sea salt (or potassium-rich foods like banana or spinach) within 30 minutes of finishing your drink supports autonomic balance and may accelerate HRV recovery by ~10–15%.

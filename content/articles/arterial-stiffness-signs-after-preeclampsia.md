@@ -63,17 +63,17 @@ Early vascular changes don’t mean inevitable decline—they reflect modifiable
 
 ### FAQ
 
-#### #### What are the earliest signs of arterial stiffness after preeclampsia?
+#### What are the earliest signs of arterial stiffness after preeclampsia?
 The earliest signs are typically silent—but detectable with specialized tools: elevated pulse wave velocity (>10 m/sec), increased augmentation index (>25%), or retinal arteriolar narrowing on eye exam. Symptoms like unexplained fatigue, reduced exercise tolerance, or morning headaches may also appear before BP rises.
 
-#### #### Can arterial stiffness signs after preeclampsia appear even with normal blood pressure?
+#### Can arterial stiffness signs after preeclampsia appear even with normal blood pressure?
 Yes—absolutely. Up to 40% of women with prior preeclampsia show measurable arterial stiffening (via PWV or AIx) while maintaining office BP <120/80 mm Hg. This underscores why BP alone is insufficient for assessing vascular health in this group.
 
-#### #### How does aromatase inhibitor use affect arterial stiffness signs after preeclampsia?
+#### How does aromatase inhibitor use affect arterial stiffness signs after preeclampsia?
 Aromatase inhibitors sharply reduce circulating estradiol, removing estrogen’s protective effects on arterial elasticity and endothelial function. In women with prior preeclampsia—who already have heightened vascular sensitivity—this can accelerate PWV progression by ~0.4 m/sec per year beyond typical aging.
 
-#### #### Is pulse wave velocity testing covered by insurance for women with preeclampsia history?
+#### Is pulse wave velocity testing covered by insurance for women with preeclampsia history?
 Coverage varies, but many academic medical centers and preventive cardiology clinics offer PWV as part of comprehensive vascular risk assessment—particularly for high-risk groups like those with preeclampsia history. Ask your provider whether it’s appropriate for your situation.
 
-#### #### What lifestyle changes most effectively reduce arterial stiffness in postmenopausal women?
+#### What lifestyle changes most effectively reduce arterial stiffness in postmenopausal women?
 Consistent aerobic activity (150 min/week), Mediterranean-style eating, quality sleep (7–8 hours), and stress management show the strongest evidence. Sodium restriction (<1,500 mg/day) and avoiding tobacco are also critical—especially for women with arterial stiffness signs after preeclampsia.

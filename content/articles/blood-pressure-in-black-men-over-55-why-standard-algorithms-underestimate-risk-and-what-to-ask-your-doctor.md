@@ -59,22 +59,22 @@ You’re not alone in navigating this. With the right knowledge, support, and pa
 
 ### FAQ
 
-#### #### Why do Black men over 55 get high blood pressure earlier?
+#### Why do Black men over 55 get high blood pressure earlier?
 
 Genetic factors like increased salt sensitivity and differences in how the body regulates fluid and blood vessel tone play a role—but so do lifelong social stressors, healthcare access, and environmental factors. On average, hypertension begins 5–7 years earlier in Black men than in white men.
 
-#### #### What’s a healthy blood pressure for Black men over 55?
+#### What’s a healthy blood pressure for Black men over 55?
 
 While general guidelines suggest <130/80 mm Hg for most adults, many experts recommend aiming for <125/75 mm Hg in Black men over 55 *if tolerated well*, especially with existing heart or kidney concerns. Always discuss personalized goals with your provider.
 
-#### #### Does blood pressure black men over 55 respond differently to medications?
+#### Does blood pressure black men over 55 respond differently to medications?
 
 Yes. Thiazide diuretics and calcium channel blockers tend to be especially effective as first-line treatments. ACE inhibitors or ARBs may be added—but sometimes work better in combination rather than alone. Never adjust meds without consulting your doctor.
 
-#### #### Can lifestyle changes really lower blood pressure after 55?
+#### Can lifestyle changes really lower blood pressure after 55?
 
 Absolutely. Studies show dietary shifts (like the DASH or Mediterranean patterns), regular movement, and stress reduction can lower systolic BP by 5–10 mm Hg—even in people over 60. Small, consistent steps add up.
 
-#### #### Is home blood pressure monitoring necessary for Black men over 55?
+#### Is home blood pressure monitoring necessary for Black men over 55?
 
 Yes—especially because office readings can be misleading. Home monitoring helps detect “masked hypertension” (normal in-office, high at home) and provides a fuller picture of your daily pattern. It’s now considered essential for accurate assessment.

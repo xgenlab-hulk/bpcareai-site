@@ -55,22 +55,22 @@ With thoughtful planning, holiday meals can be both nourishing and kidney-suppor
 
 ### FAQ
 
-#### #### Is slow-cooked turkey breast safer than deli turkey for someone with chronic kidney disease?
+#### Is slow-cooked turkey breast safer than deli turkey for someone with chronic kidney disease?
 
 Yes—especially when prepared without added salt or phosphate-containing broths. Slow-cooked turkey offers lower sodium, less absorbable phosphorus, and higher protein quality, making it a preferred choice in *turkey preparation chronic kidney disease* planning.
 
-#### #### How does turkey preparation chronic kidney disease affect phosphorus control?
+#### How does turkey preparation chronic kidney disease affect phosphorus control?
 
 Phosphorus from additives (common in deli meats) is almost fully absorbed, raising serum phosphorus faster than natural phosphorus in whole meats. Choosing minimally processed turkey helps maintain target levels (<4.5 mg/dL) and reduces need for phosphate binders.
 
-#### #### Can I eat deli turkey occasionally during the holidays if I have CKD?
+#### Can I eat deli turkey occasionally during the holidays if I have CKD?
 
 Occasional use is possible—but only if the label confirms “no phosphates” and sodium is <150 mg per 2-ounce serving. Even then, limit to one small slice and pair with fresh vegetables—not macaroni salad or rolls (which add hidden sodium and phosphorus).
 
-#### #### What’s the best way to cook turkey breast for kidney health?
+#### What’s the best way to cook turkey breast for kidney health?
 
 Bake or slow-cook plain, skinless turkey breast with water or unsalted broth, herbs, and citrus. Avoid marinades with soy sauce, Worcestershire, or commercial gravy mixes. Remove visible fat to reduce saturated fat intake, supporting cardiovascular health too.
 
-#### #### Does turkey preparation chronic kidney disease impact blood pressure?
+#### Does turkey preparation chronic kidney disease impact blood pressure?
 
 Yes—indirectly. High-sodium and high-phosphate preparations contribute to fluid retention and arterial stiffness, raising systolic and diastolic BP. Choosing low-sodium, additive-free turkey supports both kidney and cardiovascular health—key parts of *healthy holiday eating for seniors*.

@@ -2,7 +2,7 @@
 title: What Is BP AI? Smart Blood Pressure Tracking After 35
 slug: what-is-bp-ai-blood-pressure
 description: >-
-  What is BP AI? It's smart software that analyzes your BP trends—proven to help
+  What is BP AI? It's smart software that analyzes your BP trends—proven to help 2.3× more people hit <130/80 mmHg.
   2.3× more people hit <130/80 mmHg. Learn how it works (blood pressure = BP)
   and
 date: '2026-04-05'

@@ -65,22 +65,22 @@ In short, infections and blood pressure are closely linked—especially when you
 
 ### FAQ
 
-#### #### Can a cold or flu raise blood pressure in older adults?
+#### Can a cold or flu raise blood pressure in older adults?
 
 Yes—viral infections trigger inflammation, increased heart rate, and fluid shifts that commonly elevate systolic BP by 10–25 mm Hg. This effect is more pronounced in adults over 60, especially those with pre-existing hypertension.
 
-#### #### How do infections and blood pressure interact in seniors with heart disease?
+#### How do infections and blood pressure interact in seniors with heart disease?
 
 Infections and blood pressure instability can worsen cardiac workload and oxygen demand, increasing risk for arrhythmias or acute decompensated heart failure. Seniors with coronary artery disease or prior heart attacks should monitor BP closely—and avoid NSAIDs or decongestants without medical guidance.
 
-#### #### Do respiratory infections cause low blood pressure too?
+#### Do respiratory infections cause low blood pressure too?
 
 Occasionally—yes. Severe dehydration, sepsis (rare with colds but possible with flu or pneumonia), or medication interactions (e.g., diuretics + vomiting) can lead to hypotension. Symptoms like lightheadedness when standing or mental fogginess deserve prompt evaluation.
 
-#### #### Should I stop my blood pressure meds if I get the flu?
+#### Should I stop my blood pressure meds if I get the flu?
 
 Generally, no. Most antihypertensives—including ACE inhibitors, ARBs, calcium channel blockers, and beta-blockers—should be continued unless your doctor advises otherwise. Stopping them abruptly can cause rebound hypertension.
 
-#### #### Is there a link between RSV and blood pressure changes in older adults?
+#### Is there a link between RSV and blood pressure changes in older adults?
 
 Emerging evidence suggests yes—RSV (respiratory syncytial virus), once thought to mainly affect infants, causes significant respiratory illness in seniors and is associated with increased BP variability and higher rates of cardiovascular events in the week following infection.

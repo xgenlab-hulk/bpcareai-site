@@ -53,22 +53,22 @@ In closing, remember that awareness—not alarm—is your greatest ally. Many se
 
 ### FAQ
 
-#### #### Can alcohol cause atrial fibrillation in seniors even if they only drink occasionally?
+#### Can alcohol cause atrial fibrillation in seniors even if they only drink occasionally?
 
 Yes—studies show that even one or two drinks, especially close to bedtime, can increase the risk of nocturnal AF episodes in adults over 60, particularly women. This is linked to nighttime vagal dominance and age-related atrial changes—not just total lifetime consumption.
 
-#### #### What is the safest amount of alcohol for seniors with a history of atrial fibrillation?
+#### What is the safest amount of alcohol for seniors with a history of atrial fibrillation?
 
 For seniors with known AF, most cardiologists recommend avoiding alcohol entirely—or limiting to ≤1 drink per week, under guidance. Even modest intake can lower the threshold for recurrence, especially when combined with sleep disruption or dehydration.
 
-#### #### Does alcohol atrial fibrillation seniors affect blood pressure too?
+#### Does alcohol atrial fibrillation seniors affect blood pressure too?
 
 Yes. Alcohol can cause both short-term spikes and longer-term elevation in arterial pressure—especially when consumed regularly. High BP is itself a major contributor to atrial remodeling, creating a cycle that increases AF susceptibility over time.
 
-#### #### Are there non-alcoholic holiday drinks that support heart health?
+#### Are there non-alcoholic holiday drinks that support heart health?
 
 Absolutely. Sparkling water with fresh citrus or berries, warm ginger-turmeric tea, or diluted pomegranate juice (in moderation) offer flavor without ethanol’s electrophysiological effects—and some contain antioxidants linked to improved vascular function.
 
-#### #### Is nocturnal AF more dangerous than daytime AF in older adults?
+#### Is nocturnal AF more dangerous than daytime AF in older adults?
 
 Not inherently—but because it often goes unnoticed, nocturnal AF may go longer without treatment, increasing cumulative stroke risk over time. That’s why symptom awareness and simple monitoring matter so much.

@@ -72,17 +72,17 @@ In summary, “low-sugar” doesn’t mean metabolically neutral—especially wh
 
 ### FAQ
 
-#### #### Does low-sugar ketchup cause blood sugar spikes in seniors with gastroparesis?
+#### Does low-sugar ketchup cause blood sugar spikes in seniors with gastroparesis?
 Yes—particularly due to fructose overload, preservative-induced GLP-1 suppression, and pH-dependent amylase inhibition. Even products with <4 g sugar per serving may trigger postprandial glucose spikes in adults 60+ with gastroparesis-like symptoms, because the *type* and *delivery* of carbohydrates matter more than total grams.
 
-#### #### Can low-sugar ketchup blood sugar spike gastroparesis symptoms worsen over time?
+#### Can low-sugar ketchup blood sugar spike gastroparesis symptoms worsen over time?
 Repeated exposure to high-fructose, low-pH condiments may contribute to intestinal dysbiosis and low-grade inflammation—both associated with progressive motilin dysfunction. While not causative, frequent consumption can amplify existing gastroparesis-like symptoms such as bloating, early satiety, and erratic glucose patterns.
 
-#### #### Is there a safe amount of low-sugar ketchup for someone with diabetes and slow digestion?
+#### Is there a safe amount of low-sugar ketchup for someone with diabetes and slow digestion?
 There’s no universal “safe” amount—but limiting intake to ≤1 tablespoon per meal, pairing it with protein/fat, and choosing preservative-free versions significantly reduces risk. Clinical observation suggests that doses >15 mL (½ oz) in isolation increase odds of >40 mg/dL glucose rise at 90 minutes by 3.2-fold in adults with documented delayed gastric emptying.
 
-#### #### Why does BBQ sauce affect blood sugar more than plain tomato sauce?
+#### Why does BBQ sauce affect blood sugar more than plain tomato sauce?
 BBQ sauce typically contains multiple fructose sources (molasses, brown sugar, HFCS), higher acid load (vinegar + citric acid), and stronger preservative concentrations—all of which synergistically impair GLP-1 response and amylase function. Plain tomato sauce (unsweetened, no preservatives) has lower fermentable load and less pH disruption.
 
-#### #### Are sugar-free ketchup alternatives like stevia-sweetened versions safer for gastroparesis?
+#### Are sugar-free ketchup alternatives like stevia-sweetened versions safer for gastroparesis?
 Not necessarily. While stevia avoids fructose, many stevia-sweetened ketchups still contain maltodextrin (a glucose polymer), sodium benzoate, and citric acid—retaining the same pH- and preservative-driven mechanisms that suppress GLP-1 and inhibit amylase. Always review the full ingredient list—not just the sweetener.

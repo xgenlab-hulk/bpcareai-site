@@ -93,22 +93,22 @@ Living well with type 2 diabetes, CKD, and changing albumin levels is absolutely
 
 ### FAQ
 
-#### #### Why does low albumin make A1c less reliable?
+#### Why does low albumin make A1c less reliable?
 
 Low albumin often accompanies shorter red blood cell survival and increased inflammation — both of which reduce hemoglobin glycation time and lead to falsely low A1c results. This means your true average glucose may be higher than your A1c suggests, especially when fasting glucose rises.
 
-#### #### Is A1c reliability with low albumin a concern only for people with kidney disease?
+#### Is A1c reliability with low albumin a concern only for people with kidney disease?
 
 No — while CKD Stage 3 increases risk, A1c reliability with low albumin also matters for people with heart failure, advanced liver disease, malnutrition, or chronic inflammatory conditions like rheumatoid arthritis. Any condition causing persistent hypoalbuminemia (albumin <3.5 g/dL) may affect A1c accuracy.
 
-#### #### What’s the best alternative test if my albumin is very low (<2.8 g/dL)?
+#### What’s the best alternative test if my albumin is very low (<2.8 g/dL)?
 
 Glycated albumin (GA) is often preferred over fructosamine in moderate-to-severe hypoalbuminemia because it’s normalized to total albumin. However, if albumin falls below ~2.5 g/dL, 1,5-AG may offer the clearest short-term picture — especially for detecting recent hyperglycemic episodes.
 
-#### #### Can diet or supplements raise albumin quickly?
+#### Can diet or supplements raise albumin quickly?
 
 Albumin reflects overall nutritional status and organ health — not just protein intake. While consistent, balanced nutrition (including adequate calories, protein, and micronutrients like zinc and vitamin B12) supports albumin synthesis, rapid increases are uncommon. Focus on steady, sustainable habits — not quick fixes.
 
-#### #### Does high blood pressure affect A1c reliability too?
+#### Does high blood pressure affect A1c reliability too?
 
 High blood pressure itself doesn’t directly alter A1c, but it commonly coexists with conditions that do — like CKD, heart failure, or vascular inflammation — all of which may contribute to low albumin or altered red blood cell turnover. So while BP isn’t a direct factor, managing it well supports overall stability in diabetes monitoring.

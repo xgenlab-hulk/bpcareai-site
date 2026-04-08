@@ -80,22 +80,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can fermented foods beta-cell resilience type 2 diabetes help even if my HbA1c is already well-controlled?
+#### Can fermented foods beta-cell resilience type 2 diabetes help even if my HbA1c is already well-controlled?
 
 Yes—beta-cell resilience is about long-term sustainability, not just current numbers. Even with HbA1c <6.5%, elevated hs-CRP or subtle postprandial insulin spikes may signal early cellular stress. Supporting Nrf2 and reducing ER stress helps preserve functional beta-cell mass for years ahead.
 
-#### #### Which fermented foods beta-cell resilience type 2 diabetes research shows the strongest human evidence?
+#### Which fermented foods beta-cell resilience type 2 diabetes research shows the strongest human evidence?
 
 Fermented black soybean (*chungkookjang*) currently leads in clinical data, with three randomized trials (total n = 217) showing improved beta-cell function and reduced inflammation in adults with prediabetes or early type 2 diabetes. Purple cabbage kimchi has robust preclinical support and emerging pilot data; sourdough rye evidence is more indirect but physiologically compelling.
 
-#### #### Do I need to eat all three—black soybean, kimchi, and sourdough rye—to see benefits?
+#### Do I need to eat all three—black soybean, kimchi, and sourdough rye—to see benefits?
 
 No. Start with one that fits your taste and routine. Many people find success beginning with 1 tablespoon of fermented black soybean daily, then adding another ferment after 2–3 weeks if tolerated well. Consistency matters more than variety—at first.
 
-#### #### How long before I might notice changes in energy or post-meal fullness?
+#### How long before I might notice changes in energy or post-meal fullness?
 
 Some report steadier energy within 10–14 days; measurable improvements in postprandial glucose patterns often emerge after 4–6 weeks of consistent intake. C-peptide or hs-CRP changes typically appear after 8–12 weeks.
 
-#### #### Are store-bought kimchi and sourdough bread as effective as homemade versions?
+#### Are store-bought kimchi and sourdough bread as effective as homemade versions?
 
 It depends. Look for refrigerated, unpasteurized kimchi with no vinegar listed in ingredients (true fermentation uses salt + time). For sourdough rye, choose artisanal loaves with >12-hour fermentation and minimal added sugars or commercial yeast. Avoid “sourdough-flavored” products—these lack live cultures and bioactive compounds.

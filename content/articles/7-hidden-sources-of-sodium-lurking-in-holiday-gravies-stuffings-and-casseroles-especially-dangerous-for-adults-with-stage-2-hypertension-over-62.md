@@ -64,17 +64,17 @@ If you're unsure, talking to your doctor is always a good idea. And if hidden so
 
 ### FAQ
 
-#### #### What are the top 3 hidden sodium sources in holiday gravy for people with high blood pressure?
+#### What are the top 3 hidden sodium sources in holiday gravy for people with high blood pressure?
 The biggest culprits are canned or powdered broth bases (often 800–1,200 mg sodium per cup), soy or Worcestershire sauce used for depth (900–1,000 mg per tablespoon), and pre-mixed gravy packets (typically 600–900 mg per serving). Always check labels—even “natural” gravies may contain disodium phosphate or yeast extract.
 
-#### #### How does hidden sodium in holiday food hypertension affect older adults differently than younger people?
+#### How does hidden sodium in holiday food hypertension affect older adults differently than younger people?
 Older adults—especially those over 62—experience age-related declines in kidney function and vascular elasticity, making them more sensitive to sodium-induced fluid shifts. This can raise systolic BP by 5–12 mm Hg more acutely than in younger adults, increasing short-term strain on the heart and arteries.
 
-#### #### Are homemade stuffing and casseroles safer for hypertension than store-bought versions?
+#### Are homemade stuffing and casseroles safer for hypertension than store-bought versions?
 Not automatically. While homemade gives you control, traditional recipes often call for high-sodium ingredients like seasoned stuffing cubes (up to 1,100 mg per ½ cup), canned soups (800+ mg per ½ cup), and soy sauce. The key is intentional ingredient selection—not just preparation method.
 
-#### #### Can I still enjoy holiday meals if I have stage 2 hypertension?
+#### Can I still enjoy holiday meals if I have stage 2 hypertension?
 Absolutely—yes. Focus on portion awareness, sodium-smart swaps (like unsalted broth and fresh herbs), and balancing higher-sodium items with naturally low-sodium foods (roasted vegetables, plain roasted turkey breast, fruit-based desserts). Many families find that these adjustments enhance flavor, not diminish it.
 
-#### #### What’s a realistic daily sodium target for someone over 62 with hypertension?
+#### What’s a realistic daily sodium target for someone over 62 with hypertension?
 The American Heart Association recommends no more than 1,500 mg per day for adults with hypertension, particularly those over age 50 or with additional cardiovascular risk factors. This is lower than the general guideline of 2,300 mg, reflecting greater sodium sensitivity and cumulative vascular impact with age.

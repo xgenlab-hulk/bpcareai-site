@@ -68,17 +68,17 @@ Remember: your experience is a gift. You’ve lived through seasons of change, c
 
 ### FAQ
 
-#### #### What are some healthy holiday recipes for diabetic grandparents?
+#### What are some healthy holiday recipes for diabetic grandparents?
 Try dishes like herb-roasted turkey breast, garlic green beans, cauliflower mash, or baked apples with cinnamon and walnuts. Focus on high-fiber, low-sugar options that everyone can enjoy. Many traditional recipes can be adapted using sugar substitutes or whole grains.
 
-#### #### How can diabetic grandparents enjoy desserts during the holidays?
+#### How can diabetic grandparents enjoy desserts during the holidays?
 Opt for smaller portions—think one thin slice instead of two. Choose fruit-based desserts like poached pears or baked apples. Or share a dessert with someone else. Monitoring blood sugar afterward helps you learn which treats fit your plan.
 
-#### #### Is it safe for diabetic grandparents to drink alcohol during holiday meals?
+#### Is it safe for diabetic grandparents to drink alcohol during holiday meals?
 In moderation, yes—typically one drink per day for women, two for men. Choose lower-sugar options like dry wine or light beer. Always drink with food to avoid hypoglycemia, especially if you take insulin or certain medications.
 
-#### #### How can families support diabetic grandparents during holiday meals?
+#### How can families support diabetic grandparents during holiday meals?
 Families can include healthier options on the menu, avoid pressuring them to eat certain foods, and involve them in meal planning. Most importantly, treat their choices as normal—not as “restrictions.”
 
-#### #### What should diabetic grandparents do if blood sugar spikes after a holiday meal?
+#### What should diabetic grandparents do if blood sugar spikes after a holiday meal?
 Don’t panic. Check your levels, drink water, and go for a gentle walk. Most spikes are temporary. If readings stay high (above 180 mg/dL) for several hours, consult your care team. Tracking patterns helps prevent future issues.

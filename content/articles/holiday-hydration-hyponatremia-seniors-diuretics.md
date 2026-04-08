@@ -96,22 +96,22 @@ The holidays are meant to be nourishing, not stressful—and your care for your 
 
 ### FAQ
 
-#### #### Can herbal teas cause hyponatremia in seniors on diuretics?
+#### Can herbal teas cause hyponatremia in seniors on diuretics?
 
 Yes—especially when consumed in large volumes (3+ cups/day) without balancing sodium. Most herbal teas contain virtually no sodium or potassium, and diuretics like hydrochlorothiazide reduce the kidney’s ability to excrete excess water. Over several days, this can contribute to *holiday hydration hyponatremia seniors diuretics*, particularly in adults over 65 with age-related declines in kidney function.
 
-#### #### What are safe holiday hydration options for seniors with a history of hyponatremia?
+#### What are safe holiday hydration options for seniors with a history of hyponatremia?
 
 Focus on consistency and balance: sip small amounts (4–6 oz) of sodium-containing fluids throughout the day—like lightly salted broth (½ cup = ~200–300 mg sodium), coconut water (choose unsweetened, check label for sodium content), or oral rehydration solutions designed for older adults (low in sugar, moderate in sodium ~75–100 mmol/L). Avoid drinking >1 liter of plain or herbal water within a 2-hour window.
 
-#### #### How does holiday hydration hyponatremia seniors diuretics differ from dehydration?
+#### How does holiday hydration hyponatremia seniors diuretics differ from dehydration?
 
 They’re opposites in physiology but can mimic each other in symptoms (fatigue, dizziness, confusion). Dehydration means *too little total body water*, often with elevated sodium (>145 mmol/L); hyponatremia means *too much water relative to sodium*, resulting in low or low-normal sodium (<135 mmol/L). Blood tests are needed to tell them apart—and treatment differs significantly (rehydration vs. fluid restriction + sodium support).
 
-#### #### Is infused water safe for seniors on blood pressure medication?
+#### Is infused water safe for seniors on blood pressure medication?
 
 Generally yes—but watch the volume and pairing. Cucumber, lemon, or berry-infused water is hydrating and refreshing, yet contains negligible sodium or electrolytes. If you’re on ACE inhibitors, ARBs, or diuretics, aim to consume it alongside modest sodium sources (e.g., a small portion of cheese, whole-grain toast with a light sprinkle of salt) to maintain balance. Avoid drinking >2 liters of infused water daily without electrolyte support.
 
-#### #### Can low-sodium broth during holidays trigger hyponatremia in seniors?
+#### Can low-sodium broth during holidays trigger hyponatremia in seniors?
 
 It’s less about the broth itself and more about *context*: consuming multiple cups of low-sodium broth (e.g., <100 mg sodium per cup) alongside herbal teas and plain water—especially without other sodium-containing foods—can tip the scale in susceptible individuals. For seniors on diuretics or with prior hyponatremia, choosing broths with 200–400 mg sodium per serving—and limiting total low-sodium fluid to ≤1.5 L/day—offers safer hydration.

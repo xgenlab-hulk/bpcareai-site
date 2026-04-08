@@ -58,22 +58,22 @@ Movement doesn’t have to be intense or lengthy to be powerful—especially whe
 
 ### FAQ
 
-#### #### When is the best time to walk after eating if I have low blood pressure when standing?
+#### When is the best time to walk after eating if I have low blood pressure when standing?
 
 The safest and most effective window is **12–22 minutes after finishing your meal**, especially for adults 70+. This balances glucose-lowering benefits with circulatory stability—avoiding the early postprandial BP dip and late glucose peak.
 
-#### #### Can post-meal walk timing seniors orthostatic hypotension help prevent holiday weight gain?
+#### Can post-meal walk timing seniors orthostatic hypotension help prevent holiday weight gain?
 
 While walking alone won’t offset excess calories, consistent, well-timed post-meal movement improves insulin sensitivity and reduces glucose variability—supporting healthier fat metabolism and appetite regulation over time. Paired with *healthy holiday eating for seniors*, it forms a sustainable foundation.
 
-#### #### Is it safe to walk after dinner if I feel lightheaded when I stand up?
+#### Is it safe to walk after dinner if I feel lightheaded when I stand up?
 
 Mild lightheadedness is common—but walking while symptomatic isn’t advised. Instead, wait until you can stand comfortably for 1 full minute without dizziness, then begin your walk slowly indoors. If lightheadedness persists, discuss orthostatic BP assessment with your clinician.
 
-#### #### Do I need special equipment for a post-meal walk with orthostatic hypotension?
+#### Do I need special equipment for a post-meal walk with orthostatic hypotension?
 
 Not necessarily—but using a stable walking aid (cane, walker) and wearing non-slip, cushioned shoes significantly improves safety and consistency. Avoid carrying items that shift your center of gravity.
 
-#### #### How does post-meal walk timing seniors orthostatic hypotension differ from advice for younger adults?
+#### How does post-meal walk timing seniors orthostatic hypotension differ from advice for younger adults?
 
 Younger adults often benefit from walking immediately after eating or at higher intensities. For seniors with orthostatic hypotension, delaying the walk by 12+ minutes and reducing pace and terrain challenge is essential to protect cerebral perfusion while still supporting glucose clearance.

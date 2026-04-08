@@ -100,17 +100,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What are the silent signs of diabetic neuropathy in older adults?
+#### What are the silent signs of diabetic neuropathy in older adults?
 The silent signs of diabetic neuropathy in older adults include reduced vibration sense (e.g., diminished response to a tuning fork), unexplained foot dryness or cracking, consistent temperature differences between feet, loss of fine hair on toes or shins, subtle balance changes, mild unexplained swelling, and diminished Achilles reflex. These occur before pain, numbness, or tingling—and are especially easy to overlook after age 65.
 
-#### #### Can you have diabetic neuropathy without pain?
+#### Can you have diabetic neuropathy without pain?
 Yes—absolutely. Up to 30% of people with diabetic peripheral neuropathy experience *painless* or *predominantly sensory-loss* forms, especially in older age. This is why regular screening and self-monitoring for non-painful signs like skin changes or temperature asymmetry are so important.
 
-#### #### What are the earliest warning signs of diabetic neuropathy?
+#### What are the earliest warning signs of diabetic neuropathy?
 The earliest warning signs often involve autonomic and large-fiber nerves: cooler or warmer foot temperature asymmetry (≥2°C difference), decreased vibration perception at the ankle, dry or cracked skin on soles without itching, and reduced hair growth on toes. These can appear years before numbness or burning sensations.
 
-#### #### How often should someone over 65 with type 2 diabetes get a neuropathy screening?
+#### How often should someone over 65 with type 2 diabetes get a neuropathy screening?
 The American Diabetes Association recommends annual comprehensive foot exams—including monofilament testing, vibration assessment, and inspection—for all adults with diabetes. If you have additional risk factors (e.g., prior foot ulcer, HbA1c >8%, or known vascular disease), your provider may suggest screenings every 6 months—or sooner if new symptoms arise.
 
-#### #### Does high blood pressure contribute to diabetic neuropathy?
+#### Does high blood pressure contribute to diabetic neuropathy?
 Yes—chronic high blood pressure (especially readings consistently above 140/90 mm Hg) contributes to microvascular damage, reducing blood flow to nerves and accelerating neuropathy progression. Managing both blood sugar *and* arterial pressure together offers the strongest protection for nerve health.

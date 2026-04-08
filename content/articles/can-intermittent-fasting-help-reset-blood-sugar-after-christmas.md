@@ -54,22 +54,22 @@ The truth is, your body is remarkably resilient—even after the holidays. There
 
 ### FAQ
 
-#### #### Is intermittent fasting after Christmas safe for people over 50?
+#### Is intermittent fasting after Christmas safe for people over 50?
 
 Yes—for most—when done gradually and safely. Stick to milder patterns like 12:12 or 14:10, avoid skipping meals if you’re on glucose-lowering meds, and prioritize hydration and nutrient-dense foods. Always discuss with your doctor first if you have diabetes, kidney concerns, or take regular medications.
 
-#### #### How long does it take to see blood sugar improvements with intermittent fasting after Christmas?
+#### How long does it take to see blood sugar improvements with intermittent fasting after Christmas?
 
 Many notice subtle shifts—like steadier energy or lower morning glucose—in as little as 3–5 days. For measurable improvements in insulin sensitivity or HbA1c, expect 2–4 weeks of consistency alongside balanced nutrition and movement.
 
-#### #### Can intermittent fasting after Christmas lower blood pressure too?
+#### Can intermittent fasting after Christmas lower blood pressure too?
 
 It *can*, especially when paired with reduced sodium, added potassium-rich foods (like bananas and leafy greens), and daily walking. Studies show modest BP reductions (3–5 mm Hg systolic) with consistent time-restricted eating over 4–8 weeks—particularly in adults with elevated arterial pressure.
 
-#### #### What’s the best way to break a fast after Christmas without spiking blood sugar?
+#### What’s the best way to break a fast after Christmas without spiking blood sugar?
 
 Choose low-glycemic, high-fiber, protein-rich options: Greek yogurt with berries, avocado on whole-grain toast, or a small bowl of oatmeal with chia seeds and cinnamon. Avoid going straight to juice, pastries, or large carb-heavy meals.
 
-#### #### Does intermittent fasting after Christmas help with weight loss?
+#### Does intermittent fasting after Christmas help with weight loss?
 
 It *may* support modest weight loss (typically 2–4 lbs over 2–3 weeks) by reducing overall calorie intake and improving metabolic flexibility—but it’s not magic. Long-term success depends more on sustainable habits than short-term fasting windows.

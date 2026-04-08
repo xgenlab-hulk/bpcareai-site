@@ -92,22 +92,22 @@ Understanding your body’s seasonal rhythms—including the *morning blood pres
 
 ### FAQ
 
-#### #### What causes morning blood pressure surge in older adults during winter?
+#### What causes morning blood pressure surge in older adults during winter?
 
 Cold temperatures cause blood vessels to narrow (vasoconstriction), increasing resistance and raising pressure. Combined with the natural circadian rise in cortisol and sympathetic tone upon waking, this leads to a more pronounced *morning blood pressure surge*—especially in seniors whose arteries are less flexible and whose BP regulation may be more sensitive to environmental shifts.
 
-#### #### Is morning blood pressure surge dangerous?
+#### Is morning blood pressure surge dangerous?
 
 A modest surge is normal and expected—but when it exceeds 20–30 mm Hg in systolic pressure, especially in winter, it’s associated with higher cardiovascular risk. That’s because the surge coincides with increased heart rate, blood clotting tendency, and arterial stiffness—creating a “perfect storm” for events like stroke or heart attack in vulnerable individuals.
 
-#### #### How can I reduce my morning blood pressure surge in winter?
+#### How can I reduce my morning blood pressure surge in winter?
 
 Start with gradual warming upon waking, staying well-hydrated, dressing warmly before outdoor exposure, and moving gently. Timing of medications may also help—ask your doctor whether adjusting when you take your BP meds (e.g., shifting a dose to evening) could better align with your personal rhythm.
 
-#### #### Does indoor heating affect blood pressure?
+#### Does indoor heating affect blood pressure?
 
 Yes—dry, overheated indoor air can contribute to mild dehydration and irritate airways, potentially triggering subtle stress responses that elevate BP. Keeping indoor humidity between 30–50% and maintaining a moderate room temperature (68–70°F / 20–21°C) supports steadier arterial function.
 
-#### #### Should I check my blood pressure more often in winter?
+#### Should I check my blood pressure more often in winter?
 
 Yes—especially in the morning. Since cold weather can amplify your *morning blood pressure surge*, checking twice daily (upon waking and again in the late afternoon) for 7–10 days gives your doctor a clearer picture than occasional clinic readings. Consistency matters more than frequency—so aim for calm, seated measurements at the same times each day.

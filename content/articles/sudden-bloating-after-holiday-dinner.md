@@ -63,17 +63,17 @@ Remember: occasional discomfort doesn’t equal disease. Many older adults exper
 
 ### FAQ  
 
-#### #### What causes sudden bloating after holiday dinner in seniors?  
+#### What causes sudden bloating after holiday dinner in seniors?  
 Sudden bloating after holiday dinner in adults over 60 often stems from reduced digestive enzyme activity, slower gut motility, high-FODMAP foods (e.g., stuffing, cranberry sauce), or altered gut flora—especially among long-term PPI users.
 
-#### #### Is sudden bloating after holiday dinner a sign of SIBO?  
+#### Is sudden bloating after holiday dinner a sign of SIBO?  
 Not always—but it *can be*, especially when bloating occurs rapidly (within 90 minutes), recurs across meals, and is paired with gas, cramping, or irregular bowel habits. A diagnostic breath test helps confirm.
 
-#### #### How soon after eating does SIBO-related bloating appear?  
+#### How soon after eating does SIBO-related bloating appear?  
 SIBO-related bloating typically begins 30–90 minutes after eating fermentable carbohydrates—much sooner than bloating from delayed gastric emptying or colonic fermentation, which may take 2–6 hours.
 
-#### #### Can PPIs cause bloating years later?  
+#### Can PPIs cause bloating years later?  
 Yes. Long-term PPI use (beyond 12 months) is associated with changes in gastric pH and microbiome composition, increasing the likelihood of bacterial overgrowth in the small intestine—even after discontinuation.
 
-#### #### What’s the best diet to try for sudden bloating after holiday dinner?  
+#### What’s the best diet to try for sudden bloating after holiday dinner?  
 A short-term (5–7 day) low-FODMAP approach—guided by a registered dietitian—is most effective for identifying triggers. Avoid self-prescribed restrictive diets, which can worsen dysbiosis or nutrient gaps in older adults.

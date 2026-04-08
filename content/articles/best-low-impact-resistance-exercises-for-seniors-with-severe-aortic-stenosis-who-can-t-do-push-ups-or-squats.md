@@ -53,17 +53,17 @@ With thoughtful guidance and consistent practice, *aortic stenosis resistance ex
 
 ### FAQ
 
-#### #### Can resistance band exercises be safe for seniors with severe aortic stenosis?  
+#### Can resistance band exercises be safe for seniors with severe aortic stenosis?  
 Yes—when carefully designed. Studies (including the 2022 *Journal of the American College of Cardiology*) show that seated, low-tension band work with strict attention to breathing and partial ROM produces minimal afterload increase (<15 mm Hg systolic rise) and improves peripheral perfusion. Always get clearance first.
 
-#### #### What are the best aortic stenosis resistance exercises seniors can do at home?  
+#### What are the best aortic stenosis resistance exercises seniors can do at home?  
 Top evidence-based options include seated bicep curls (partial ROM), isometric seated rows, and ankle dorsiflexion holds—all using light resistance bands. Avoid standing lifts, overhead presses, or any movement requiring breath-holding.
 
-#### #### Are isometric exercises safe for people with aortic stenosis and heart disease?  
+#### Are isometric exercises safe for people with aortic stenosis and heart disease?  
 Short-duration isometrics (≤10 seconds) *are* safe and beneficial when performed in seated positions and paired with exhalation throughout. Prolonged isometrics (>15 sec) or those involving large muscle groups (e.g., wall sits) are contraindicated due to afterload risk.
 
-#### #### Can strength training worsen aortic stenosis symptoms?  
+#### Can strength training worsen aortic stenosis symptoms?  
 It can—if intensity, posture, or technique aren’t tailored. Heavy loads, rapid movements, or improper breathing elevate arterial pressure acutely. But properly dosed *aortic stenosis resistance exercises seniors* actually help preserve functional capacity and delay frailty progression.
 
-#### #### How often should seniors with aortic stenosis do resistance exercise?  
+#### How often should seniors with aortic stenosis do resistance exercise?  
 2–3 non-consecutive days per week is optimal. Each session should last 15–20 minutes total, focusing on major upper/lower body muscle groups with adequate rest (≥90 sec between sets). Consistency matters more than duration.

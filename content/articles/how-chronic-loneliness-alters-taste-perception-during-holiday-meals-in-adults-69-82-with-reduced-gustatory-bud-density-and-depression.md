@@ -73,22 +73,22 @@ Feeling disconnected from the flavors—and the fellowship—of holiday meals do
 
 ### FAQ
 
-#### #### Does loneliness really change how food tastes during the holidays?
+#### Does loneliness really change how food tastes during the holidays?
 
 Yes—chronic loneliness triggers biological changes (elevated cortisol, reduced dopamine, and altered taste gene expression) that specifically blunt sweet and savory detection. This effect is especially noticeable during holiday meals, when expectations of rich, comforting flavors contrast sharply with diminished sensory input—a phenomenon increasingly documented in research on *loneliness taste perception holiday meals*.
 
-#### #### Can loneliness taste perception holiday meals affect my blood pressure?
+#### Can loneliness taste perception holiday meals affect my blood pressure?
 
 Indirectly, yes. When taste perception dims, people may over-rely on salt for flavor, increasing sodium intake and arterial pressure. Others may skip meals or choose highly processed convenience foods—both linked to higher systolic BP. Addressing the root sensory-emotional disconnect helps support healthier eating patterns and stable cardiovascular metrics.
 
-#### #### What’s the difference between normal aging and loneliness-related taste changes?
+#### What’s the difference between normal aging and loneliness-related taste changes?
 
 Normal aging gradually reduces taste bud density and saliva production—but typically preserves *relative* taste preferences (e.g., sweetness remains more detectable than bitterness). Loneliness-related changes are characterized by *selective blunting* of reward-linked tastes (sweet, umami), often paired with emotional withdrawal from meals and a temporal link to reduced social contact. This distinction helps guide whether lifestyle or clinical support is most needed.
 
-#### #### Are there foods I should avoid during holiday meals if I’m experiencing loneliness taste perception holiday meals?
+#### Are there foods I should avoid during holiday meals if I’m experiencing loneliness taste perception holiday meals?
 
 Avoid relying solely on added salt or sugar to compensate. Instead of oversalting stuffing or sugaring desserts, focus on aroma, texture, and umami layering. Also limit alcohol-heavy punches or eggnogs—alcohol depresses dopamine further and dehydrates mucosal tissues, worsening taste signal transmission.
 
-#### #### How long does it take to notice improvement in taste after reducing loneliness?
+#### How long does it take to notice improvement in taste after reducing loneliness?
 
 Studies tracking older adults in structured social engagement programs (e.g., weekly cooking groups or intergenerational meal sharing) report measurable improvements in taste identification scores within 6–8 weeks—coinciding with reductions in salivary cortisol and self-reported mood. Consistency matters more than intensity: even brief, meaningful interactions daily can begin shifting neuroendocrine tone.

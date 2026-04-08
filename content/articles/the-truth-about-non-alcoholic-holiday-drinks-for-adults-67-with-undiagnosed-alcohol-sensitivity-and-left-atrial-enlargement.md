@@ -93,22 +93,22 @@ Understanding the nuances of *non-alcoholic drinks holiday heart syndrome* empow
 
 ### FAQ
 
-#### #### Can non-alcoholic drinks really cause holiday heart syndrome?
+#### Can non-alcoholic drinks really cause holiday heart syndrome?
 
 Yes—especially in adults over 65 with underlying cardiac changes like left atrial enlargement. Residual ethanol (up to 0.5% ABV), histamine, and vasoactive amines in fermented NA beverages can increase atrial ectopy and trigger arrhythmias, even without obvious intoxication. This is the core mechanism behind *non-alcoholic drinks holiday heart syndrome*.
 
-#### #### What are the safest non-alcoholic holiday drinks for someone with high blood pressure?
+#### What are the safest non-alcoholic holiday drinks for someone with high blood pressure?
 
 Opt for non-fermented, non-effervescent options: plain sparkling water, herbal teas (cooled), or diluted 100% fruit juice (<4 oz). Avoid ginger beer, kombucha, NA wine, and “craft” sodas—they may raise BP acutely via tyramine-induced norepinephrine release or histamine-mediated vasodilation followed by reflex tachycardia.
 
-#### #### How does non-alcoholic drinks holiday heart syndrome differ from regular holiday heart syndrome?
+#### How does non-alcoholic drinks holiday heart syndrome differ from regular holiday heart syndrome?
 
 Classic holiday heart syndrome refers to acute atrial fibrillation after heavy episodic alcohol use. *Non-alcoholic drinks holiday heart syndrome* involves lower-dose, repeated exposure to bioactive compounds in “alcohol-free” products—leading to increased premature atrial contractions (PACs), sinus tachycardia, or brief SVT runs—often without full AFib. It’s more insidious, more common in older adults, and frequently overlooked.
 
-#### #### Are NA wines safer than regular wine for people with atrial enlargement?
+#### Are NA wines safer than regular wine for people with atrial enlargement?
 
 Not necessarily. While NA wines contain far less ethanol, they often retain higher histamine and sulfite levels than their alcoholic counterparts—and may be more concentrated due to post-fermentation processing. For someone with left atrial enlargement, the *pattern* of exposure (e.g., one glass nightly for 5 nights) may pose greater cumulative ectopic risk than occasional moderate alcohol intake.
 
-#### #### Can I test myself for alcohol sensitivity at home?
+#### Can I test myself for alcohol sensitivity at home?
 
 Not definitively—but you *can* perform a structured self-challenge. Eliminate all fermented and NA beverages for 7 days while tracking pulse rhythm and symptoms. Then reintroduce one product for two days only, observing for changes in palpitations, fatigue, or morning BP. Consistent correlation suggests sensitivity. Always discuss findings with your clinician before drawing conclusions.

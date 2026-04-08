@@ -61,22 +61,22 @@ A gentle reminder: air travel blood pressure variability is manageable—not ine
 
 ### FAQ
 
-#### #### Does air travel blood pressure variability affect older adults more than younger travelers?
+#### Does air travel blood pressure variability affect older adults more than younger travelers?
 
 Yes—vascular stiffness, reduced baroreflex sensitivity, and slower medication clearance mean BP fluctuations during flights tend to be larger and longer-lasting in adults 70+. Studies report up to 35% greater systolic variability in this group versus those under 50.
 
-#### #### Can air travel blood pressure variability trigger a hypertensive urgency episode?
+#### Can air travel blood pressure variability trigger a hypertensive urgency episode?
 
 It *can*, especially if combined with missed meds, dehydration, or extreme fatigue. While rare, documented cases show BP spikes >180/120 mm Hg occurring 2–3 hours into flight—often linked to delayed diuretic dosing or caffeine intake on an empty stomach.
 
-#### #### What’s the best time to check blood pressure before a flight?
+#### What’s the best time to check blood pressure before a flight?
 
 Ideally, measure twice daily for 3 days before departure—morning (within 1 hour of waking, before meds/coffee) and evening (2 hours after dinner). This gives your clinician a clearer baseline to assess air travel blood pressure variability risk.
 
-#### #### Are compression socks helpful for blood pressure stability during flights?
+#### Are compression socks helpful for blood pressure stability during flights?
 
 They primarily support venous return and reduce edema—not direct BP control. However, by minimizing orthostatic pooling, they *indirectly* lower variability risk, especially for those prone to postural hypotension.
 
-#### #### Do airport security scanners or metal detectors affect blood pressure monitors?
+#### Do airport security scanners or metal detectors affect blood pressure monitors?
 
 No—modern handheld and upper-arm devices are unaffected by walk-through scanners or millimeter-wave body imagers. Just avoid checking BP while standing in line; wait until you’re seated and relaxed.

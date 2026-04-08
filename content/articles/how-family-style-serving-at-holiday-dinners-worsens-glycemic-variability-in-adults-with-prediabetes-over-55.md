@@ -65,22 +65,22 @@ Holiday meals are about warmth, memory, and love—not perfection. With prediabe
 
 ### FAQ
 
-#### #### Does family-style serving prediabetes seniors increase risk of progressing to type 2 diabetes?
+#### Does family-style serving prediabetes seniors increase risk of progressing to type 2 diabetes?
 
 Not directly—but repeated large glucose spikes (especially above 160–180 mg/dL two hours after eating) over time are associated with faster progression from prediabetes to type 2 diabetes. Research shows consistent postprandial hyperglycemia contributes to beta-cell stress and endothelial dysfunction—both key pathways in diabetes development.
 
-#### #### How can seniors with prediabetes enjoy holiday meals without switching to formal plated service?
+#### How can seniors with prediabetes enjoy holiday meals without switching to formal plated service?
 
 You can keep the spirit of family-style while using “portion anchors”: bring small measuring cups or spoons to the table, use smaller plates (9-inch works well), and serve yourself *first*, before others begin. This preserves tradition while giving you control over portions and sequence.
 
-#### #### Is family-style serving prediabetes seniors safe if I’m also managing high blood pressure?
+#### Is family-style serving prediabetes seniors safe if I’m also managing high blood pressure?
 
 Yes—with attention to sodium and portion size. Many holiday sides (stuffing, gravy, cured meats) are high in sodium, which can elevate arterial pressure. Pairing lower-sodium preparations with your plate-first strategy supports both glycemic *and* cardiovascular health—two goals that go hand-in-hand after age 55.
 
-#### #### What’s the best time to check blood sugar during holiday meals?
+#### What’s the best time to check blood sugar during holiday meals?
 
 The most informative reading is 2 hours after your *first bite*. Set a gentle reminder on your phone. Avoid checking right after dessert—that reading reflects the combined impact of multiple foods and isn’t as useful for understanding meal-specific responses.
 
-#### #### Can walking after dinner really help with post-holiday glucose spikes?
+#### Can walking after dinner really help with post-holiday glucose spikes?
 
 Yes—moderate movement like a 10–15 minute walk starting 30 minutes after eating can lower 2-hour postprandial glucose by 20–30 mg/dL. It’s one of the most accessible, evidence-backed tools for seniors—and it doubles as joyful time with family.

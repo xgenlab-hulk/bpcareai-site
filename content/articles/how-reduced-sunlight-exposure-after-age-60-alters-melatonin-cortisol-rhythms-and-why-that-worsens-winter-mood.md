@@ -64,22 +64,22 @@ Your body’s rhythms change with age—and that’s okay. It doesn’t mean you
 
 ### FAQ
 
-#### #### Does less sunlight exposure really affect melatonin and cortisol in older adults?
+#### Does less sunlight exposure really affect melatonin and cortisol in older adults?
 
 Yes—studies confirm that reduced retinal light input after age 60 delays cortisol’s morning rise by up to 90 minutes and extends melatonin secretion by 1–2 hours. This contributes directly to fatigue, poor sleep quality, and seasonal mood changes.
 
-#### #### How does sunlight exposure melatonin cortisol aging impact heart health?
+#### How does sunlight exposure melatonin cortisol aging impact heart health?
 
 Disrupted cortisol rhythms are linked to higher nighttime blood pressure and reduced heart rate variability—both risk markers for cardiovascular strain. Chronic misalignment may contribute to a 15–20% higher risk of hypertension progression in adults over 65.
 
-#### #### Can I improve my circadian rhythm without light boxes?
+#### Can I improve my circadian rhythm without light boxes?
 
 Absolutely. Natural morning light is the gold standard. Even on overcast days, outdoor exposure delivers significantly more usable light than indoor sources. Pair it with consistent sleep/wake times and mindful evening routines for best results.
 
-#### #### Is seasonal depression in older adults treatable?
+#### Is seasonal depression in older adults treatable?
 
 Yes—and often very responsive to behavioral interventions. Bright light therapy (especially morning), structured physical activity, and social engagement show strong evidence in adults over 60. Antidepressants are rarely first-line unless symptoms are moderate-to-severe.
 
-#### #### What’s the difference between normal aging fatigue and seasonal depression in older adults?
+#### What’s the difference between normal aging fatigue and seasonal depression in older adults?
 
 Normal fatigue tends to be mild and improves with rest. Seasonal depression involves *persistent* low mood, loss of pleasure, difficulty concentrating, and physical symptoms like slowed movement or appetite changes—lasting most days for at least two weeks. It’s not “just getting older.”

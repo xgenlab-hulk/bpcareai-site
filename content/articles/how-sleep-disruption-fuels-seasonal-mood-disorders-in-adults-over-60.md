@@ -85,22 +85,22 @@ Seasonal shifts in mood and sleep are common—but they’re not something you h
 
 ### FAQ
 
-#### #### Can sleep disruption and seasonal depression occur together in older adults?
+#### Can sleep disruption and seasonal depression occur together in older adults?
 
 Yes—absolutely. Sleep disruption and seasonal depression frequently co-occur in adults over 60 due to age-related changes in light perception, melatonin rhythm, and circadian sensitivity. In fact, poor sleep often precedes or worsens seasonal mood symptoms, creating a feedback loop that’s highly responsive to timed light exposure and routine stabilization.
 
-#### #### What are the signs of sleep disruption and seasonal depression in seniors?
+#### What are the signs of sleep disruption and seasonal depression in seniors?
 
 Key signs include persistent early-morning awakening (e.g., waking regularly at 3–4 a.m. and unable to return to sleep), increased daytime fatigue despite adequate time in bed, low motivation, reduced interest in usual activities, carbohydrate cravings, and difficulty concentrating. Unlike younger adults, older adults may express sadness less overtly—instead reporting irritability, physical complaints, or withdrawal.
 
-#### #### How is seasonal depression in older adults different from major depression?
+#### How is seasonal depression in older adults different from major depression?
 
 Seasonal depression in older adults tends to feature more prominent sleep-wake disturbances (especially advanced sleep phase), less pronounced psychomotor agitation, and greater overlap with medical comorbidities like cardiovascular disease or chronic pain. It also responds more reliably to non-pharmacologic interventions like light therapy—especially when initiated early in the season.
 
-#### #### Does lack of sunlight cause high blood pressure in winter?
+#### Does lack of sunlight cause high blood pressure in winter?
 
 Not directly—but seasonal sleep disruption and seasonal depression can contribute to autonomic imbalance, including elevated sympathetic tone and reduced heart rate variability. Some studies show average systolic blood pressure rises by 2–5 mm Hg in winter months, particularly among those with poor sleep continuity or untreated mood symptoms. Consistent monitoring helps identify these patterns.
 
-#### #### Is melatonin supplementation safe for older adults with seasonal depression?
+#### Is melatonin supplementation safe for older adults with seasonal depression?
 
 Low-dose melatonin (0.3–0.5 mg) taken 1–2 hours before desired bedtime may help reset delayed circadian timing—but it’s not a substitute for morning light. Because melatonin interacts with anticoagulants, diabetes medications, and immunosuppressants, always discuss use with your healthcare provider. Evidence for its efficacy in *seasonal* depression specifically remains limited compared to light therapy.

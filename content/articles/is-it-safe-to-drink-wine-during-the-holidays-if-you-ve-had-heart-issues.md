@@ -96,17 +96,17 @@ Making choices about wine after heart issues during the holidays doesn’t have 
 
 ### FAQ
 
-#### #### Can I drink wine after a heart attack during the holidays?
+#### Can I drink wine after a heart attack during the holidays?
 Yes—*sometimes*—but only after discussing it with your cardiologist. Most guidelines recommend waiting at least 3–6 months post-heart attack, avoiding alcohol during active recovery phases, and limiting intake to no more than one 5-ounce glass per day—if cleared. Binge drinking or inconsistent patterns significantly increase risk of complications like arrhythmias or re-injury.
 
-#### #### Is red wine safer than other alcohol after heart issues?
+#### Is red wine safer than other alcohol after heart issues?
 Not necessarily. While red wine contains resveratrol and antioxidants, the alcohol content remains the dominant factor affecting heart rhythm, blood pressure, and medication interactions. No type of alcoholic beverage is universally “safer” for people with known heart disease—the dose and consistency matter far more than the variety.
 
-#### #### What is holiday heart syndrome—and how does wine after heart issues holiday relate?
+#### What is holiday heart syndrome—and how does wine after heart issues holiday relate?
 Holiday heart syndrome refers to acute cardiac arrhythmias—most commonly atrial fibrillation—that occur after episodes of heavy or binge drinking, often during festive periods. It can happen even in people with no prior heart history—but for those recovering from or managing heart conditions, alcohol-triggered arrhythmias pose greater risk. *Wine after heart issues holiday* decisions should prioritize consistency and moderation to avoid triggering this syndrome.
 
-#### #### Does alcohol raise blood pressure enough to matter during the holidays?
+#### Does alcohol raise blood pressure enough to matter during the holidays?
 Yes. Just two standard glasses of wine can raise systolic blood pressure by 4–6 mm Hg for several hours—and repeated elevation contributes to arterial stiffness over time. When combined with holiday stress, salty foods, and disrupted sleep, even moderate alcohol can tip the balance for people with hypertension or heart failure.
 
-#### #### Can I have wine if I’m on blood thinners like Eliquis or warfarin?
+#### Can I have wine if I’m on blood thinners like Eliquis or warfarin?
 It depends—but caution is essential. Alcohol can affect liver enzymes involved in metabolizing anticoagulants, potentially increasing bleeding risk or reducing effectiveness. Many providers recommend limiting to *no more than one drink, no more than 2–3 times per week*, and avoiding it entirely if you’ve had recent bleeding or unstable INR levels. Always confirm with your prescribing clinician.

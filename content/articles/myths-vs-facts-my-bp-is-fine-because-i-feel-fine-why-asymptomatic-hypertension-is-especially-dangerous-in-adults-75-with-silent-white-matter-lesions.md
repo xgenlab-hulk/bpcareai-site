@@ -98,22 +98,22 @@ If you're unsure, talking to your doctor is always a good idea. And if you’ve 
 
 ### FAQ
 
-#### #### Is asymptomatic hypertension myths adults 75+ white matter lesions really a thing—or just medical jargon?
+#### Is asymptomatic hypertension myths adults 75+ white matter lesions really a thing—or just medical jargon?
 
 Yes—it’s very real. “Asymptomatic hypertension myths adults 75+ white matter lesions” refers to the widespread (but mistaken) belief that no symptoms = no risk. In reality, high BP damages small brain vessels silently, and white matter lesions seen on MRI confirm that damage is underway—even without headaches, fatigue, or palpitations.
 
-#### #### Can stage 1 hypertension cause white matter lesions in adults 75+?
+#### Can stage 1 hypertension cause white matter lesions in adults 75+?
 
 Absolutely. Stage 1 hypertension (130–139 / 80–89 mm Hg) is strongly associated with increased white matter lesion volume over time—especially in adults 75+. Research shows lesion growth accelerates even within this “mild” range when combined with aging-related vascular stiffening.
 
-#### #### How often should adults 75+ with white matter lesions check their blood pressure?
+#### How often should adults 75+ with white matter lesions check their blood pressure?
 
 At minimum, twice daily (morning and evening) for one week every 3 months—and anytime new symptoms arise (e.g., imbalance, mental fogginess). More frequent tracking is helpful if starting or adjusting BP medication—or if you’ve had a recent MRI showing progression.
 
-#### #### Does lowering blood pressure reverse white matter lesions?
+#### Does lowering blood pressure reverse white matter lesions?
 
 Not typically—but consistent, appropriate BP control *does* slow or halt further lesion growth in most cases. Some studies suggest very early lesions may stabilize or even regress slightly with aggressive management, but prevention remains far more effective than reversal.
 
-#### #### Are white matter lesions the same as dementia?
+#### Are white matter lesions the same as dementia?
 
 No. White matter lesions are *a risk factor*, not a diagnosis. Many people live full, independent lives with mild-to-moderate lesions. But untreated hypertension increases the likelihood that those lesions will accumulate—and contribute to vascular cognitive impairment over time. Early awareness gives you time to act.

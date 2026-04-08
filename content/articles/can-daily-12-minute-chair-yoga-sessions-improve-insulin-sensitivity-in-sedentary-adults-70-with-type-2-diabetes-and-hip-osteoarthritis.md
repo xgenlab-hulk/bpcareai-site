@@ -40,22 +40,22 @@ In closing, supporting your metabolic health doesn’t require standing, walking
 
 ### FAQ
 
-#### #### Can chair yoga insulin sensitivity improvements be measured at home?
+#### Can chair yoga insulin sensitivity improvements be measured at home?
 
 Yes—while precise insulin sensitivity requires clinical testing, tracking fasting and 2-hour post-meal glucose patterns over time (alongside notes on energy and mobility) offers meaningful clues. Consistent reductions in postprandial spikes—especially after carbohydrate-containing meals—suggest improved muscle glucose uptake.
 
-#### #### How often should seniors with type 2 diabetes do chair yoga for insulin sensitivity benefits?
+#### How often should seniors with type 2 diabetes do chair yoga for insulin sensitivity benefits?
 
 Clinical studies showing measurable effects used 12-minute sessions, 5 days per week. However, even 3 sessions weekly offer benefit—consistency matters more than frequency. Many participants began with 3–5 minutes and built up gradually.
 
-#### #### Does chair yoga help with both diabetes and hip osteoarthritis symptoms?
+#### Does chair yoga help with both diabetes and hip osteoarthritis symptoms?
 
 Yes. In addition to supporting insulin sensitivity, regular chair yoga has been associated with reduced self-reported joint stiffness and pain—likely due to improved circulation, reduced systemic inflammation, and enhanced neuromuscular coordination.
 
-#### #### Is chair yoga safe for seniors with very limited mobility or recent hip replacement?
+#### Is chair yoga safe for seniors with very limited mobility or recent hip replacement?
 
 Generally, yes—*if* cleared by your surgeon or rehabilitation team. Most chair yoga poses avoid deep hip flexion or rotation, and modifications exist for all levels. Always begin under guidance from a certified therapeutic yoga instructor familiar with geriatric and orthopedic needs.
 
-#### #### What’s the difference between chair yoga and regular seated stretching for insulin sensitivity?
+#### What’s the difference between chair yoga and regular seated stretching for insulin sensitivity?
 
 Chair yoga integrates breath-synchronized movement, mindful awareness, and rhythmic muscle engagement—activating parasympathetic tone and neuromuscular pathways linked to GLUT4 trafficking. Seated stretching alone improves flexibility but lacks the dynamic, metabolic stimulus shown to enhance insulin sensitivity in frail seniors.

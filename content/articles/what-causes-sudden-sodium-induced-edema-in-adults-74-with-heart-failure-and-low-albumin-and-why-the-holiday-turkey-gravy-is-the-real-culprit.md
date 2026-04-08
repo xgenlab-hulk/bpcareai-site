@@ -83,22 +83,22 @@ If you're unsure, talking to your doctor is always a good idea. And remember —
 
 ### FAQ
 
-#### #### Why does gravy cause swelling in people with heart failure?
+#### Why does gravy cause swelling in people with heart failure?
 
 Gravy delivers a high concentration of highly absorbable sodium within a gelatin-rich, slow-digesting matrix — which overwhelms capillary oncotic pressure, especially when albumin is low (<3.4 g/dL). This leads to fluid leaking into tissues, causing visible swelling (edema) often within hours.
 
-#### #### Is sodium edema heart failure gravy preventable?
+#### Is sodium edema heart failure gravy preventable?
 
 Yes — absolutely. Prevention focuses on reducing *bioavailable sodium load* per meal (aim for <600 mg in one sitting), using alternative thickeners like pureed beans or arrowroot, and timing diuretics appropriately. Working with a registered dietitian experienced in cardiac nutrition makes a measurable difference.
 
-#### #### Can low albumin cause sodium edema heart failure gravy even if blood pressure is normal?
+#### Can low albumin cause sodium edema heart failure gravy even if blood pressure is normal?
 
 Yes. Albumin governs *oncotic pressure*, not arterial pressure. So even with stable BP readings (e.g., 130/76 mm Hg), low albumin (<3.2 g/dL) impairs sodium binding and fluid containment — making sodium edema heart failure gravy possible without hypertension.
 
-#### #### Are store-bought “low-sodium” gravies safe for heart failure?
+#### Are store-bought “low-sodium” gravies safe for heart failure?
 
 Not always. Many use potassium chloride or yeast extract — both high in sodium analogues — and still contain 400–700 mg sodium per serving. Always read the *actual sodium content per serving*, not just the front-of-package claim. Better yet: Make your own with controlled ingredients.
 
-#### #### What foods besides gravy commonly trigger sodium edema in older adults with heart failure?
+#### What foods besides gravy commonly trigger sodium edema in older adults with heart failure?
 
 Soups (especially condensed or canned), deli meats, frozen dinners, pickled vegetables, cheese spreads, and even some “healthy” snack bars with added sea salt or baking soda. The risk rises when these are eaten alongside warm, collagen-rich broths or gelatin desserts — think meatloaf with gravy *and* Jell-O for dessert.

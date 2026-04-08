@@ -80,22 +80,22 @@ The latest standing desk blood pressure research 60+ doesn’t promise miracles�
 
 ### FAQ
 
-#### #### Does standing at a desk actually lower blood pressure for people over 60?
+#### Does standing at a desk actually lower blood pressure for people over 60?
 
 Yes—modest but clinically meaningful reductions have been observed in multiple 2022–2024 RCTs. On average, older adults with stage 1 hypertension saw systolic BP reductions of 3–5 mm Hg after 3–6 months of consistent, guided standing desk use (90+ minutes/day with micro-movements). These changes reflect improved vascular tone—not just temporary postural effects.
 
-#### #### Is standing desk blood pressure research 60+ relevant if I’m already on medication?
+#### Is standing desk blood pressure research 60+ relevant if I’m already on medication?
 
 Absolutely. Recent standing desk blood pressure research 60+ includes participants taking antihypertensive medications—including ACE inhibitors and calcium channel blockers. The observed BP benefits occurred *in addition to* usual care, suggesting standing desks may complement treatment by supporting endothelial health and reducing sedentary strain on the cardiovascular system.
 
-#### #### Can standing too long raise blood pressure in older adults?
+#### Can standing too long raise blood pressure in older adults?
 
 Prolonged static standing (e.g., >90 minutes without movement) *can* lead to mild, transient increases in systolic BP in some individuals over 60—especially those with reduced baroreflex sensitivity. However, studies show that alternating posture every 30–45 minutes, combined with micro-movements, avoids this effect and instead supports steady, healthy vascular regulation.
 
-#### #### Do I need an expensive adjustable desk to benefit?
+#### Do I need an expensive adjustable desk to benefit?
 
 No. Many effective strategies require no equipment at all: standing while taking calls, using a high countertop or sturdy table for part of the day, or even placing your laptop on a stack of books. The key is consistency and gentle movement—not price tags.
 
-#### #### How soon might I notice changes in my blood pressure after starting a standing desk?
+#### How soon might I notice changes in my blood pressure after starting a standing desk?
 
 Most participants in recent trials began seeing small but measurable shifts in afternoon and evening readings within 2–3 weeks. More consistent improvements—especially in morning surge and day-long variability—typically emerged after 4–6 weeks of regular use paired with mindful movement. Patience and pattern-tracking matter more than speed.

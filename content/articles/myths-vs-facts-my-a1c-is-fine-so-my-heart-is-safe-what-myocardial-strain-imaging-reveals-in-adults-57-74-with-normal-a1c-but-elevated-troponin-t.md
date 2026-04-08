@@ -103,21 +103,21 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does a normal A1c mean my heart is safe from diabetes-related damage?
+#### Does a normal A1c mean my heart is safe from diabetes-related damage?
 No—A1c reflects average blood glucose over ~3 months but doesn’t assess heart muscle function, microvascular health, or inflammation. Adults aged 57–74 with A1c as low as 5.7% can still show early signs of cardiac strain via speckle-tracking echo or elevated troponin T.
 
-#### #### What is the A1c and heart safety myth diabetes—and why is it dangerous?
+#### What is the A1c and heart safety myth diabetes—and why is it dangerous?
 The **A1c and heart safety myth diabetes** is the mistaken belief that “good” A1c numbers guarantee heart protection. In reality, heart damage can begin years before A1c rises—due to insulin resistance, arterial stiffness, and silent microvascular injury. This myth delays early intervention.
 
-#### #### Can I have heart strain even if my A1c is under 6.0%?
+#### Can I have heart strain even if my A1c is under 6.0%?
 Yes—absolutely. Studies show measurable reductions in global longitudinal strain (GLS) and elevated troponin T in adults 57–74 with A1c between 5.7% and 5.9%. This reflects subclinical systolic dysfunction—not yet visible on routine echocardiograms.
 
-#### #### What tests go beyond A1c to check heart health in diabetes?
+#### What tests go beyond A1c to check heart health in diabetes?
 Consider asking about:  
 • High-sensitivity troponin T (hs-TnT) and NT-proBNP blood tests  
 • Speckle-tracking echocardiography (for GLS measurement)  
 • Ambulatory BP monitoring (24-hour readings)  
 • Coronary artery calcium (CAC) scoring—if clinically appropriate  
 
-#### #### Is myocardial strain imaging widely available—and is it covered by insurance?
+#### Is myocardial strain imaging widely available—and is it covered by insurance?
 Many academic medical centers and larger cardiology practices now offer speckle-tracking echo. Coverage varies: some insurers cover it for patients with known heart disease or risk factors like long-standing diabetes—but pre-authorization is often needed. Ask your cardiologist whether it aligns with your personal risk profile.

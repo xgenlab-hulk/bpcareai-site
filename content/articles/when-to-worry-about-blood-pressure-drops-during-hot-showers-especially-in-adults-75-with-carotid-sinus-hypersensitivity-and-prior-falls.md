@@ -87,22 +87,22 @@ Experiencing a **blood pressure drop during hot shower** doesn’t mean you must
 
 ### FAQ
 
-#### #### Can a hot shower cause low blood pressure in seniors?
+#### Can a hot shower cause low blood pressure in seniors?
 
 Yes—especially in adults 75 and older. Heat triggers widespread vasodilation, which, combined with age-related declines in autonomic reflexes and baroreceptor function, can lead to a clinically meaningful drop in blood pressure. This effect is amplified in those taking antihypertensive medications or with conditions like carotid sinus hypersensitivity.
 
-#### #### What is the safest water temperature to avoid blood pressure drop during hot shower?
+#### What is the safest water temperature to avoid blood pressure drop during hot shower?
 
 For older adults, especially those with a history of falls or dizziness, water temperature should not exceed 105°F (40°C). Research shows that temperatures above this threshold increase cutaneous blood flow disproportionately, raising the risk of symptomatic hypotension. Using a thermometer—or testing water with your elbow—offers a more reliable gauge than hand sensation.
 
-#### #### Why do I feel dizzy only after hot showers—not cold ones?
+#### Why do I feel dizzy only after hot showers—not cold ones?
 
 Dizziness after hot (but not cold) showers points strongly to heat-mediated vasodilation and impaired autonomic compensation. Cold water typically causes vasoconstriction, which helps maintain BP. In contrast, hot water promotes peripheral pooling and can activate vagal reflexes—especially in those with carotid sinus hypersensitivity—leading to bradycardia and hypotension.
 
-#### #### Is blood pressure drop during hot shower a sign of heart problems?
+#### Is blood pressure drop during hot shower a sign of heart problems?
 
 Not necessarily—but it *can* be a clue. While often related to autonomic aging or medication effects, recurrent episodes should prompt evaluation for underlying cardiac issues like arrhythmias, aortic stenosis, or heart failure—particularly if accompanied by chest discomfort, fatigue, or irregular pulse. A geriatrician or cardiologist can help determine the root cause.
 
-#### #### How long does it take for blood pressure to recover after a hot shower?
+#### How long does it take for blood pressure to recover after a hot shower?
 
 In healthy adults, BP usually stabilizes within 5–10 minutes of exiting the shower and sitting quietly. In frail older adults—especially those with autonomic dysfunction—it may take 15–25 minutes, and sometimes longer if dehydration or medication effects are present. Persistent dizziness beyond 20 minutes warrants medical review.

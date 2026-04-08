@@ -41,22 +41,22 @@ In short, enjoying the season doesn’t mean sacrificing comfort. With kind, int
 
 ### FAQ
 
-#### #### What are the best post-holiday meal foods for acid reflux seniors to eat the morning after a big dinner?
+#### What are the best post-holiday meal foods for acid reflux seniors to eat the morning after a big dinner?
 
 Opt for soft, alkaline, low-fat options: plain oatmeal with mashed banana and a sprinkle of cinnamon; scrambled egg whites with steamed spinach; or whole-grain toast with a thin layer of almond butter. Avoid citrus, coffee, and pastries—these are common morning triggers.
 
-#### #### Can I still enjoy holiday leftovers if I have acid reflux after 60?
+#### Can I still enjoy holiday leftovers if I have acid reflux after 60?
 
 Yes—with smart swaps. Reheat turkey without gravy, pair it with roasted squash instead of stuffing, and skip the cranberry sauce (high in acid and sugar). Leftover mashed potatoes are fine if made with low-fat milk and minimal butter—and avoid reheating in heavy cream sauces.
 
-#### #### Are there specific post-holiday meal foods for acid reflux seniors that help heal the esophagus?
+#### Are there specific post-holiday meal foods for acid reflux seniors that help heal the esophagus?
 
 While no food “heals” tissue directly, consistent intake of anti-inflammatory, low-acid foods supports mucosal repair. Think: aloe vera juice (1/4 cup, chilled), slippery elm tea (consult your doctor first if on medications), and foods rich in zinc (like pumpkin seeds) and vitamin A (like cooked carrots and butternut squash).
 
-#### #### Does drinking water help acid reflux in seniors?
+#### Does drinking water help acid reflux in seniors?
 
 Yes—but timing matters. Sip small amounts throughout the day rather than large glasses with meals, which can distend the stomach. Warm (not hot) water with a tiny pinch of baking soda (½ tsp max, occasionally) may offer brief relief—but check with your doctor first, especially if you have high blood pressure or kidney concerns.
 
-#### #### How long should I wait to eat again after a holiday meal if I have GERD?
+#### How long should I wait to eat again after a holiday meal if I have GERD?
 
 Aim for 3–4 hours between meals to allow full gastric emptying. For many seniors, this means shifting to three balanced meals plus one light, reflux-friendly snack (like melon or rice cakes) rather than grazing. Consistency in timing helps regulate digestive signals over time.

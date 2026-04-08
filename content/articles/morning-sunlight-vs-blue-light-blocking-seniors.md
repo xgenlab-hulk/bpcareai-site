@@ -88,22 +88,22 @@ Managing blood pressure as we age doesn’t mean chasing perfection—it means b
 
 ### FAQ
 
-#### #### Does morning sunlight really lower blood pressure in seniors—or is it just placebo?
+#### Does morning sunlight really lower blood pressure in seniors—or is it just placebo?
 
 Yes—multiple studies confirm it. A 2023 meta-analysis in *JAMA Internal Medicine* found that consistent morning light exposure (before 10 a.m.) reduced morning systolic BP by an average of 5.2 mm Hg in adults 60+ with mild hypertension. Effects are strongest when combined with regular wake times and minimal artificial light at night.
 
-#### #### Which is better for seniors: morning sunlight or blue light blocking glasses?
+#### Which is better for seniors: morning sunlight or blue light blocking glasses?
 
 Neither is universally “better”—they serve complementary roles. Morning sunlight strengthens the *morning anchor* of your circadian rhythm, while evening blue-light blocking supports the *evening anchor*. For those with documented phase delay (e.g., late melatonin onset), blue-light blocking often produces faster initial improvements in sleep onset and nocturnal BP dipping. For those with irregular wake times or seasonal affective symptoms, morning sunlight tends to yield broader benefits for daytime energy and systolic stability.
 
-#### #### Can I use morning sunlight vs blue light blocking seniors together?
+#### Can I use morning sunlight vs blue light blocking seniors together?
 
 Absolutely—and many clinicians recommend it. In the 2024 RCT, the subgroup using both interventions saw the largest reduction in early-morning systolic surge (−9.4 mm Hg vs control), with no adverse effects. Just ensure blue-light blocking starts no later than 7:00 p.m., and morning light occurs before 10:00 a.m. Avoid bright screens or overhead lights between those windows.
 
-#### #### Do blue-light-blocking glasses help with blood pressure—or just sleep?
+#### Do blue-light-blocking glasses help with blood pressure—or just sleep?
 
 They help both—and the connection is physiological. By advancing melatonin onset, they promote earlier parasympathetic dominance, deeper slow-wave sleep, and improved nocturnal baroreflex sensitivity. This translates directly to lower sympathetic drive upon waking, blunting the morning systolic surge. Studies show the BP effect is independent of total sleep duration.
 
-#### #### What time of day is best for morning sunlight to support blood pressure in older adults?
+#### What time of day is best for morning sunlight to support blood pressure in older adults?
 
 The optimal window is 20–30 minutes *within 30 minutes of waking*, and *always before 10:00 a.m.* Light exposure after 10:00 a.m. has diminishing circadian impact due to declining melanopsin receptor sensitivity in aging retinas. Even on overcast days, outdoor light typically delivers 1,000–5,000 lux—well above the 250-lux threshold needed for phase-setting effects.

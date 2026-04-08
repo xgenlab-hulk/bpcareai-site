@@ -50,17 +50,17 @@ The good news? Much of this damage is reversible—or at least preventable—wit
 
 ### FAQ
 
-#### #### Does sleep apnea cause high blood pressure at night?
+#### Does sleep apnea cause high blood pressure at night?
 Yes—repeated breathing pauses trigger surges in adrenaline and sympathetic nervous system activity, leading to significant *sleep apnea nighttime blood pressure* spikes. These can occur dozens of times per hour and contribute to long-term arterial stiffness.
 
-#### #### Can sleep apnea nighttime blood pressure be normal during the day?
+#### Can sleep apnea nighttime blood pressure be normal during the day?
 Absolutely. Many people with sleep apnea have normal or near-normal daytime readings but dangerous elevations at night—a pattern known as “isolated nocturnal hypertension.” That’s why relying only on clinic or home daytime checks can miss the problem entirely.
 
-#### #### How does untreated sleep apnea affect blood pressure over time?
+#### How does untreated sleep apnea affect blood pressure over time?
 Untreated apnea is linked to a 2–3× higher risk of developing resistant hypertension (BP that stays high despite three or more medications). It also doubles the risk of heart failure and increases stroke risk by up to 60%, largely due to chronic *sleep apnea nighttime blood pressure* stress.
 
-#### #### Is there a link between sleep apnea and silent strokes?
+#### Is there a link between sleep apnea and silent strokes?
 Yes. Research shows people with untreated sleep apnea have a higher incidence of “silent” brain infarcts—small areas of tissue damage detected only on MRI. These are strongly associated with non-dipping blood pressure patterns and impaired nighttime autoregulation.
 
-#### #### What’s the best way to test for sleep apnea-related blood pressure issues?
+#### What’s the best way to test for sleep apnea-related blood pressure issues?
 Ambulatory blood pressure monitoring (ABPM) is the gold standard for evaluating *sleep apnea nighttime blood pressure*. Combined with an at-home sleep study (or in-lab polysomnography), it gives the clearest view of how your breathing and circulation interact overnight.

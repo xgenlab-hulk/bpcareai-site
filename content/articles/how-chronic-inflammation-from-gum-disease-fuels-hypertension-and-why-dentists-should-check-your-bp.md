@@ -70,23 +70,23 @@ Tracking your blood pressure trends can help you and your doctor make better dec
 
 ### FAQ
 
-#### #### Does gum disease cause high blood pressure directly?
+#### Does gum disease cause high blood pressure directly?
 
 Gum disease doesn’t *directly* cause high blood pressure in the way a blocked artery causes a heart attack. Instead, chronic periodontitis contributes to systemic inflammation—raising IL-6 and CRP—which impairs blood vessel function over time. This creates conditions favorable for developing and sustaining hypertension, especially when combined with other risk factors. Think of it as adding fuel to an existing fire—not starting the flame itself.
 
-#### #### Is there scientific proof of a gum disease and high blood pressure link?
+#### Is there scientific proof of a gum disease and high blood pressure link?
 
 Yes. Multiple peer-reviewed studies—including longitudinal cohorts and randomized controlled trials—confirm associations between periodontitis severity and both incidence and control of hypertension. A 2022 meta-analysis in *Hypertension* reviewed 27 studies and found that severe periodontitis was associated with a 49% higher odds of hypertension. Importantly, interventions targeting gum health led to modest but statistically significant BP reductions.
 
-#### #### Can treating gum disease lower my blood pressure?
+#### Can treating gum disease lower my blood pressure?
 
 Evidence suggests yes—particularly for people with both periodontitis and elevated BP. Non-surgical periodontal therapy (e.g., scaling and root planing) has been shown in clinical trials to reduce systolic BP by an average of 3–5 mm Hg within 3–6 months. Results are most pronounced when paired with good oral hygiene and overall cardiovascular risk management.
 
-#### #### What’s the best way to check for gum disease at home?
+#### What’s the best way to check for gum disease at home?
 
 While only a dentist or hygienist can diagnose periodontitis, watch for these signs: gums that bleed easily during brushing/flossing; red, swollen, or tender gums; persistent bad breath; receding gums that make teeth look longer; and loose or shifting teeth. Any of these—especially if lasting more than 2 weeks—warrants a dental evaluation.
 
-#### #### Do dentists routinely check blood pressure—and should they?
+#### Do dentists routinely check blood pressure—and should they?
 
 Many dental practices now include BP screening as part of standard intake, especially for adults over 40. Professional guidelines from the American Dental Association (ADA) and American Heart Association (AHA) encourage it, given the well-documented oral-systemic-inflammation links. If your dentist doesn’t currently check BP, it’s reasonable to ask—particularly if you have known gum disease, hypertension, or related conditions like diabetes.
 

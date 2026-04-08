@@ -76,23 +76,23 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### How often should a 65-year-old with type 2 diabetes check blood sugar?
+#### How often should a 65-year-old with type 2 diabetes check blood sugar?
 
 For many older adults with type 2 diabetes managed with lifestyle changes or non-hypoglycemic medications (e.g., metformin), routine daily monitoring isn’t necessary unless used to guide specific decisions—like adjusting meal timing or evaluating response to new activity. However, those on insulin or sulfonylureas typically need 1–4 checks daily, depending on regimen and stability. Always base frequency on your individual treatment plan and goals.
 
-#### #### What is the recommended blood sugar monitoring frequency for seniors with diabetes who use insulin?
+#### What is the recommended blood sugar monitoring frequency for seniors with diabetes who use insulin?
 
 Seniors using multiple daily insulin injections generally benefit from checking before each meal and at bedtime (4 times daily). Those on once-daily basal insulin may test fasting and bedtime values (2 times daily). CGM is increasingly recommended for this group, especially if hypoglycemia is a concern or if recognizing low blood sugar symptoms is difficult.
 
-#### #### Does Medicare cover blood glucose test strips for seniors with diabetes?
+#### Does Medicare cover blood glucose test strips for seniors with diabetes?
 
 Yes—Medicare Part B covers blood glucose monitors and test strips for people with diabetes. Coverage includes up to 100 test strips and lancets per month for those not using insulin, and up to 300 per month for those using insulin. A doctor’s order is required, and supplies must be obtained from Medicare-enrolled suppliers.
 
-#### #### Can I reduce my blood sugar monitoring frequency if my A1C is stable?
+#### Can I reduce my blood sugar monitoring frequency if my A1C is stable?
 
 Possibly—but don’t assume stability without discussion. A1C reflects average glucose over ~3 months and masks daily variability. Even with a good A1C (e.g., 6.8%), you could experience frequent post-meal spikes or overnight lows. Work with your provider to assess whether reducing frequency is safe—and consider periodic “spot checks” (e.g., 3 days of full monitoring every 3 months) to confirm ongoing stability.
 
-#### #### What are normal blood sugar levels for adults over 60?
+#### What are normal blood sugar levels for adults over 60?
 
 For older adults, targets are individualized, but general ranges endorsed by the ADA and American Geriatrics Society include:  
 - Fasting or pre-meal: 90–150 mg/dL  

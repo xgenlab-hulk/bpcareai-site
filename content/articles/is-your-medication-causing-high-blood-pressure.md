@@ -124,17 +124,17 @@ High blood pressure is manageable, especially when caught early. Being aware of 
 
 ### FAQ
 
-#### #### Can over-the-counter pain relievers raise blood pressure?
+#### Can over-the-counter pain relievers raise blood pressure?
 Yes, certain over-the-counter pain relievers—especially NSAIDs like ibuprofen and naproxen—can increase blood pressure by causing fluid retention and reducing kidney function. Acetaminophen is generally a safer option for people with hypertension, but always check with your doctor first.
 
-#### #### What medications commonly cause high blood pressure?
+#### What medications commonly cause high blood pressure?
 Common **medications that raise blood pressure** include NSAIDs, decongestants (like pseudoephedrine), corticosteroids (e.g., prednisone), some antidepressants (especially TCAs and MAOIs), and hormonal therapies containing estrogen. Some immunosuppressants and stimulant-based weight-loss drugs also carry risks.
 
-#### #### Can allergy medicines affect my blood pressure?
+#### Can allergy medicines affect my blood pressure?
 Yes, many over-the-counter allergy medicines contain decongestants such as pseudoephedrine or phenylephrine, which can elevate blood pressure by constricting blood vessels. Antihistamines without decongestants (like loratadine or fexofenadine) are usually safe alternatives.
 
-#### #### How quickly can a medication raise blood pressure?
+#### How quickly can a medication raise blood pressure?
 Some medications can affect blood pressure within hours (e.g., decongestants), while others may cause gradual increases over days or weeks (e.g., steroids or NSAIDs used long-term). Regular monitoring helps catch changes early.
 
-#### #### Should I stop taking a medication if I think it's raising my blood pressure?
+#### Should I stop taking a medication if I think it's raising my blood pressure?
 No—do not stop any prescribed medication without consulting your doctor. Instead, record your blood pressure readings and discuss your concerns during your next appointment or sooner if readings are high. Your provider can recommend safer alternatives if needed.

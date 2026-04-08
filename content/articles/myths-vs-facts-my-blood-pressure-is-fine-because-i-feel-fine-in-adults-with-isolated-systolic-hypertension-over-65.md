@@ -90,22 +90,22 @@ Living with isolated systolic hypertension symptom-blindness doesn’t mean livi
 
 ### FAQ
 
-#### #### Does isolated systolic hypertension symptom-blindness go away on its own?
+#### Does isolated systolic hypertension symptom-blindness go away on its own?
 
 No — isolated systolic hypertension symptom-blindness does not resolve without intervention. Arterial stiffening tends to progress with age, but lifestyle changes (like regular movement and reduced sodium) and, when appropriate, medication can effectively manage systolic pressure and reduce long-term risks.
 
-#### #### Can I have isolated systolic hypertension symptom-blindness even if my diastolic pressure is normal?
+#### Can I have isolated systolic hypertension symptom-blindness even if my diastolic pressure is normal?
 
 Yes — that’s the definition of isolated systolic hypertension. It’s very common after age 65 and occurs when systolic pressure is ≥130 mm Hg *and* diastolic pressure is <80 mm Hg. Because symptoms are typically absent, regular monitoring is essential.
 
-#### #### Why don’t I feel symptoms with isolated systolic hypertension symptom-blindness?
+#### Why don’t I feel symptoms with isolated systolic hypertension symptom-blindness?
 
 Blood vessels and organs adapt gradually to rising pressure, so warning signals like pain or dizziness rarely appear — even as microscopic changes (like retinal arteriolar narrowing or left ventricular thickening) occur. This adaptation creates the illusion of wellness despite underlying strain.
 
-#### #### Is a blood pressure of 150/70 mm Hg okay for someone over 65?
+#### Is a blood pressure of 150/70 mm Hg okay for someone over 65?
 
 Not necessarily. While older guidelines sometimes accepted higher targets, current ACC/AHA recommendations advise aiming for <130/80 mm Hg for most adults over 65 — especially those who are healthy and active. A reading of 150/70 reflects a wide pulse pressure (80 mm Hg), which is associated with increased stroke and heart failure risk.
 
-#### #### How often should I check my blood pressure if I’m over 65?
+#### How often should I check my blood pressure if I’m over 65?
 
 At minimum, check twice weekly at home — ideally at the same times each day. If you’ve been diagnosed with ISH or are adjusting treatment, your doctor may recommend daily checks for 1–2 weeks to establish a baseline. Consistency matters more than frequency.

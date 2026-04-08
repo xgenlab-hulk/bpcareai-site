@@ -55,22 +55,22 @@ Adding flaxseed isn’t a substitute for prescribed treatment — but it *can* b
 
 ### FAQ
 
-#### #### Does 1 gram of flaxseed lower central systolic pressure in older adults with high blood pressure?
+#### Does 1 gram of flaxseed lower central systolic pressure in older adults with high blood pressure?
 
 In a targeted 6-week study, 1 g of ground flaxseed daily led to modest but statistically significant reductions in central systolic pressure among adults aged 56–69 with stage 1 hypertension — averaging about 3–4 mm Hg. Effects were more pronounced when combined with a low-sodium, whole-food pattern.
 
-#### #### How does flaxseed affect LDL-P and arterial stiffness?
+#### How does flaxseed affect LDL-P and arterial stiffness?
 
 Flax lignans reduce LDL particle oxidation and improve endothelial function — which, over time, lowers arterial stiffness (measured as pulse wave velocity) and may decrease LDL-P by ~5–8% in responsive individuals. These changes are gradual and work best alongside other lifestyle supports.
 
-#### #### Is flaxseed central systolic pressure ldl-p benefit real — or just hype?
+#### Is flaxseed central systolic pressure ldl-p benefit real — or just hype?
 
 It’s real — but realistic. The benefit isn’t dramatic overnight. Think of it as “vascular maintenance”: consistent flax intake supports healthier artery walls and less inflammatory LDL behavior. The strongest evidence comes from trials using *ground*, *fresh* flaxseed (not oil or whole seeds) over 4+ weeks.
 
-#### #### Can I take flaxseed if I’m on blood pressure medication?
+#### Can I take flaxseed if I’m on blood pressure medication?
 
 Yes — but talk with your doctor first. Flaxseed may enhance BP-lowering effects, so your provider may want to monitor your numbers more closely, especially in the first few weeks.
 
-#### #### What’s the best way to include flaxseed for blood pressure support?
+#### What’s the best way to include flaxseed for blood pressure support?
 
 Grind 1–2 tablespoons of whole flaxseeds (a coffee grinder works well), store in an airtight container in the fridge, and add 1 tsp (≈5 g) daily to foods. Avoid heating it above 350°F to preserve lignans. Consistency matters more than dose — aim for daily use over weeks, not occasional large amounts.

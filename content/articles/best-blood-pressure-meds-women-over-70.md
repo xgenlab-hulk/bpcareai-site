@@ -3,7 +3,7 @@ title: >-
   Best Blood Pressure Meds for Women Over 70: Safe & Effective
 slug: best-blood-pressure-meds-women-over-70
 description: >-
-  Best blood pressure meds for women over 70 include chlorthalidone or amlodipine—shown to cut cardiovascular events by 22% in adults 75+. Learn what’s safest
+  Best blood pressure meds for women over 70 include chlorthalidone or amlodipine—shown to cut cardiovascular events by 22% in adults 75+.
 date: '2026-04-02'
 updated: '2026-04-02'
 primaryKeyword: >-

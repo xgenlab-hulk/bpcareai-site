@@ -90,17 +90,17 @@ If you're unsure, talking to your doctor is always a good idea—and yes, the *f
 
 ### FAQ
 
-#### #### Is fruitcake bad for people with diabetes?
+#### Is fruitcake bad for people with diabetes?
 Not inherently—but traditional versions tend to be high in saturated fat, added sugars, and low in fiber, which can worsen postprandial triglyceride spikes and insulin resistance in adults with diabetic dyslipidemia. Smaller portions, homemade swaps (like using almond flour and less butter), or choosing alternatives like citrus almond loaf can make a meaningful difference.
 
-#### #### What’s the best holiday dessert for someone with high triglycerides and diabetes?
+#### What’s the best holiday dessert for someone with high triglycerides and diabetes?
 A dessert made with whole-food fats (almonds, olive oil), soluble fiber (citrus zest, ground flax), and minimal added sugar—like an almond-flour citrus loaf—is generally better tolerated. Clinical observations suggest it supports more efficient chylomicron remnant clearance compared to traditional fruitcake, especially in adults 60+.
 
-#### #### How does fruitcake vs almond flour loaf diabetes impact heart health?
+#### How does fruitcake vs almond flour loaf diabetes impact heart health?
 The difference lies in postprandial lipid dynamics: fruitcake’s saturated fat + refined carb combo tends to delay chylomicron clearance, raising remnant lipoprotein exposure—a known contributor to endothelial stress. Almond-flour loaves, with their monounsaturated fats and intact fiber matrix, promote smoother, faster fat processing—supporting long-term vascular health.
 
-#### #### Can I still eat fruitcake if I have diabetes?
+#### Can I still eat fruitcake if I have diabetes?
 Yes—you can. Consider modifying it: reduce butter by 25%, add finely chopped raw almonds or walnuts for fiber and MUFA, soak dried fruit in unsweetened green tea instead of syrup, and serve a thin slice (about 1 oz) with a cup of peppermint tea and a short walk afterward.
 
-#### #### Does timing matter more than the dessert itself?
+#### Does timing matter more than the dessert itself?
 Timing *amplifies* ingredient effects. Eating a rich dessert late in the day—especially after 6 p.m.—can slow fat clearance by up to 22% in older adults with diabetes, due to natural circadian dips in lipoprotein lipase. Pairing even a traditional treat with an earlier meal and light movement improves outcomes significantly.

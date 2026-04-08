@@ -61,18 +61,18 @@ In short, your breath isn’t just air moving in and out—it’s a gentle, dail
 
 ### FAQ
 
-#### #### Can breathing patterns really lower central systolic pressure augmentation index?
+#### Can breathing patterns really lower central systolic pressure augmentation index?
 
 Yes—studies show that 6 weeks of daily resonance breathing (0.1 Hz) plus exhalation bias reduced central systolic pressure by 8–12 mm Hg and lowered augmentation index by 7–10 percentage points in adults 55–69. These changes correlate with improved carotid-femoral pulse wave velocity and reduced aortic stiffness markers.
 
-#### #### What’s the best breathing pattern for high augmentation index and low HRV?
+#### What’s the best breathing pattern for high augmentation index and low HRV?
 
 The most effective combination is resonance frequency breathing (6 breaths/min) with a 1:2 inhalation-to-exhalation ratio and diaphragmatic load sequencing—practiced for ≥5 minutes, twice daily. This trio specifically targets HF-HRV suppression and dampens wave reflection.
 
-#### #### Do I need special equipment to know if my breathing patterns central systolic pressure augmentation index are helping?
+#### Do I need special equipment to know if my breathing patterns central systolic pressure augmentation index are helping?
 
 Not to start—but for objective feedback, consider periodic assessment via tonometry (available at some cardiology or preventive health clinics). At home, track resting morning BP *and* note subjective improvements: less midday fatigue, easier stair climbing, calmer resting pulse. Consistent trends over 4–6 weeks suggest positive vascular adaptation.
 
-#### #### Is slow breathing safe if I have COPD or heart failure?
+#### Is slow breathing safe if I have COPD or heart failure?
 
 Yes—with modifications. People with COPD may benefit from shorter exhalation ratios (e.g., 1:1.5), while those with stable heart failure often respond well to guided 0.1 Hz breathing under clinical supervision. Always discuss new breathing routines with your care team if you have advanced respiratory or cardiac conditions.

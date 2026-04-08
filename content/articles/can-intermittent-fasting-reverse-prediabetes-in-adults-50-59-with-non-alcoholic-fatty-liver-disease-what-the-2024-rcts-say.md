@@ -74,22 +74,22 @@ The 2024 RCTs offer something deeply hopeful: that adults 50–59 with prediabet
 
 ### FAQ
 
-#### #### Does intermittent fasting prediabetes NAFLD adults really work—or is it just hype?
+#### Does intermittent fasting prediabetes NAFLD adults really work—or is it just hype?
 
 The 2024 RCTs provide high-quality evidence that intermittent fasting—particularly the 16:8 protocol—can improve hepatic insulin sensitivity, lower ALT, and support prediabetes reversal in adults 50–59 with NAFLD. It’s not a magic fix, but it *is* a physiologically grounded strategy backed by measurable outcomes.
 
-#### #### Can intermittent fasting prediabetes NAFLD adults cause muscle loss?
+#### Can intermittent fasting prediabetes NAFLD adults cause muscle loss?
 
 Not when done appropriately. In the 2024 trials, participants who maintained adequate protein intake (1.2–1.6 g/kg/day) and stayed active preserved lean mass—even with modest weight loss. Muscle loss is more closely tied to low protein, inactivity, or excessive calorie restriction than to time-restricted eating itself.
 
-#### #### Is intermittent fasting safe for adults 50+ with high blood pressure?
+#### Is intermittent fasting safe for adults 50+ with high blood pressure?
 
 Yes—for most. Intermittent fasting has been associated with modest BP reductions (average ~4–6 mm Hg systolic) in adults with hypertension and metabolic syndrome. However, if you take diuretics or medications that affect electrolytes (e.g., ACE inhibitors), discuss timing with your clinician to avoid dizziness or imbalances.
 
-#### #### How long before I see changes in my liver enzymes with intermittent fasting?
+#### How long before I see changes in my liver enzymes with intermittent fasting?
 
 In clinical trials, ALT improvements began appearing after 6–8 weeks of consistent 16:8 practice—with more pronounced normalization by week 12–14. Patience and consistency matter more than speed.
 
-#### #### Do I need to do blood tests to know if intermittent fasting prediabetes NAFLD adults is helping me?
+#### Do I need to do blood tests to know if intermittent fasting prediabetes NAFLD adults is helping me?
 
 Not necessarily—but baseline and follow-up labs (fasting glucose, insulin, ALT, AST, A1C, lipid panel) help confirm progress and guide adjustments. Ultrasound or FibroScan® adds valuable insight into liver fat and stiffness, especially if ALT remains elevated despite lifestyle changes.

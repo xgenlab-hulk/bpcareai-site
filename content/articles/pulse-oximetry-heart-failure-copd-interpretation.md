@@ -92,22 +92,22 @@ If you're unsure, talking to your doctor is always a good idea. And remember: pu
 
 ### FAQ
 
-#### #### Can pulse oximetry heart failure COPD interpretation help predict hospital visits?
+#### Can pulse oximetry heart failure COPD interpretation help predict hospital visits?
 
 Yes — studies suggest that consistent, progressive nocturnal desaturation (especially a >5% drop in nadir SpO₂ over 5 nights) is associated with a 2.3× higher likelihood of heart failure-related hospitalization within the next 30 days. It’s not a crystal ball — but it *is* a useful early signal when reviewed alongside other factors like weight or symptoms.
 
-#### #### Is pulse oximetry heart failure COPD interpretation reliable for older adults with poor circulation?
+#### Is pulse oximetry heart failure COPD interpretation reliable for older adults with poor circulation?
 
 It can be — but technique matters more. Cold fingers, thick nails, or Raynaud’s can affect accuracy. Try warming your hands first, using a different finger (index or middle often work best), or repositioning the sensor. If readings seem erratic across multiple attempts, consider discussing alternative monitoring options (like overnight pulse oximetry in a sleep lab) with your provider.
 
-#### #### What’s the difference between normal age-related oxygen drops and concerning ones?
+#### What’s the difference between normal age-related oxygen drops and concerning ones?
 
 It’s normal for SpO₂ to dip slightly during REM sleep — many healthy older adults see lows in the mid-to-high 80s for brief periods (<2 minutes). Concern arises when dips go *below 85%*, last *longer than 5 minutes*, happen *more frequently*, or show *progressive worsening* over several nights — especially if paired with new symptoms like fatigue or swelling.
 
-#### #### Do I need special equipment for pulse oximetry heart failure COPD interpretation?
+#### Do I need special equipment for pulse oximetry heart failure COPD interpretation?
 
 Not necessarily — but a device with memory (storing 8+ hours of data) and the ability to show trend graphs is far more helpful than one that only displays real-time numbers. Look for FDA-cleared models labeled for “intermittent or continuous use” — and always confirm compatibility with your provider if you plan to share data electronically.
 
-#### #### Can medications affect my pulse oximetry readings?
+#### Can medications affect my pulse oximetry readings?
 
 Yes — certain drugs can influence perfusion or respiratory drive. Beta-blockers (e.g., metoprolol) may slightly blunt heart rate response to desaturation; opioids (even low-dose prescriptions) can suppress breathing effort; and sedatives may prolong apnea events. Always mention new or adjusted meds to your care team when reviewing oximetry trends.

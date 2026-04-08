@@ -96,22 +96,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does one slice of pie really raise triglycerides in seniors?
+#### Does one slice of pie really raise triglycerides in seniors?
 
 Yes — especially in adults 61–75 with existing hypertriglyceridemia. Clinical data shows that even a single serving containing fructose-glucose syrup can suppress lipoprotein lipase activity by 20–25% for up to 8 hours, delaying chylomicron clearance and raising post-meal triglycerides significantly.
 
-#### #### Is the “one slice pie triglycerides seniors myth” true for people over 60?
+#### Is the “one slice pie triglycerides seniors myth” true for people over 60?
 
 No — it’s a common misconception. Aging reduces LPL efficiency in fat tissue, and fructose (abundant in most holiday pies) further inhibits this enzyme. Fasting chylomicron clearance testing confirms slower fat clearance in this age group — making portion assumptions misleading.
 
-#### #### Can healthy holiday eating for seniors include pie at all?
+#### Can healthy holiday eating for seniors include pie at all?
 
 Absolutely — with mindful choices. Prioritize smaller portions (e.g., ⅔ slice), choose fruit-forward options without added syrups, pair with protein/fiber, and follow with gentle movement. Balance matters more than elimination.
 
-#### #### What’s the safest type of pie for someone with high triglycerides?
+#### What’s the safest type of pie for someone with high triglycerides?
 
 Baked fruit pies (apple, pear, or berry) made with whole grains and minimal added sugar — ideally sweetened with mashed banana or a touch of maple syrup — tend to have lower fructose load and higher fiber. Avoid cream-based pies (like pumpkin or custard) and those with heavy corn syrup glazes.
 
-#### #### How often can I eat pie without affecting my triglycerides?
+#### How often can I eat pie without affecting my triglycerides?
 
 For most adults 61–75 with triglycerides >180 mg/dL, limiting pie to *once every 10–14 days*, paired with physical activity and balanced meals, helps avoid cumulative elevation. Frequency depends on your individual clearance capacity — which can be assessed with non-fasting triglyceride testing.

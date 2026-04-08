@@ -44,22 +44,22 @@ This season, think of your body not as something to manage or fix, but as a thou
 
 ### FAQ
 
-#### #### What foods raise TMAO most during the holidays—and do they affect seniors differently?
+#### What foods raise TMAO most during the holidays—and do they affect seniors differently?
 
 Yes—roast duck, turkey skin, gravy made with pan drippings, hard cheeses, and egg-based desserts are top TMAO precursors. Seniors may experience stronger effects due to age-related shifts in gut flora and kidney function, making dietary moderation especially supportive.
 
-#### #### Is holiday brain fog tmao seniors linked to high blood pressure?
+#### Is holiday brain fog tmao seniors linked to high blood pressure?
 
 Indirectly, yes. Elevated TMAO is associated with endothelial dysfunction and arterial stiffness—both contributors to rising systolic BP. While TMAO itself doesn’t *cause* hypertension, repeated spikes may compound existing cardiovascular strain in seniors.
 
-#### #### Can holiday brain fog tmao seniors be prevented without giving up favorite foods?
+#### Can holiday brain fog tmao seniors be prevented without giving up favorite foods?
 
 Absolutely. Prevention focuses on balance—not elimination. Pairing high-choline foods with fiber, polyphenols, and probiotic-rich sides helps buffer TMAO production naturally and sustainably.
 
-#### #### Does drinking more water help reduce holiday brain fog tmao seniors?
+#### Does drinking more water help reduce holiday brain fog tmao seniors?
 
 Hydration supports kidney clearance of TMAO and helps maintain optimal blood viscosity—both helpful for mental clarity. Aim for 6–8 glasses daily, adjusting for activity and climate.
 
-#### #### Are there supplements that lower TMAO safely for older adults?
+#### Are there supplements that lower TMAO safely for older adults?
 
 No supplement is FDA-approved specifically for lowering TMAO, and some (e.g., high-dose choline or lecithin) may unintentionally raise it. Always consult your doctor before adding supplements—especially if managing heart or kidney health.

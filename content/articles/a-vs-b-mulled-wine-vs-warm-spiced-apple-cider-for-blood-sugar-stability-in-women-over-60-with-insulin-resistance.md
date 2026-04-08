@@ -40,17 +40,17 @@ In short, neither drink is off-limits—but awareness and intention make all the
 
 ### FAQ
 
-#### #### Is warm apple cider safe for diabetics?
+#### Is warm apple cider safe for diabetics?
 Yes—*if* it’s unsweetened and portion-controlled (4 oz max). Many commercial brands add 20+ grams of extra sugar per serving. Always check labels for “no added sugar” and ingredients like “apple juice concentrate” (which adds concentrated fructose).
 
-#### #### Which is better for insulin resistance: mulled wine or apple cider?
+#### Which is better for insulin resistance: mulled wine or apple cider?
 For most women over 60 with insulin resistance, *unsweetened spiced apple cider* tends to be more predictable—alcohol’s variable effect on liver glucose output makes mulled wine harder to manage consistently. But individual response varies, so self-monitoring is key.
 
-#### #### Can mulled wine vs apple cider diabetes affect my blood pressure?
+#### Can mulled wine vs apple cider diabetes affect my blood pressure?
 Yes—both can influence BP indirectly. Alcohol may cause short-term vasodilation followed by rebound hypertension, especially in sensitive individuals. High-sugar drinks trigger inflammation and oxidative stress, both linked to arterial stiffness over time. Consistently elevated BP (e.g., >135/85 mm Hg at home) warrants discussion with your provider.
 
-#### #### Does heating destroy the health benefits in mulled wine and apple cider?
+#### Does heating destroy the health benefits in mulled wine and apple cider?
 Yes—thermal degradation reduces bioactive polyphenols. Resveratrol (in wine) and chlorogenic acid (in apples) decline significantly above 176°F. Simmer gently (<15 min) and avoid boiling to preserve more of their protective properties.
 
-#### #### Are there lower-sugar alternatives to mulled wine and apple cider?
+#### Are there lower-sugar alternatives to mulled wine and apple cider?
 Absolutely. Try warm herbal infusions like cinnamon-rooibos or ginger-turmeric tea—naturally caffeine-free, zero sugar, and rich in anti-inflammatory compounds. Add a splash of unsweetened almond milk for creaminess, if desired.

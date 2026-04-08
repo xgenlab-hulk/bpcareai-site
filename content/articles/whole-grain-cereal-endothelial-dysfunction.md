@@ -65,22 +65,22 @@ In short: heart health isn’t about single ingredients—it’s about how your 
 
 ### FAQ
 
-#### #### Does whole grain cereal endothelial dysfunction happen even with no diabetes?
+#### Does whole grain cereal endothelial dysfunction happen even with no diabetes?
 
 Yes. Studies show measurable flow-mediated dilation impairment within 90 minutes of eating many commercial whole-grain cereals—even in adults with normal fasting glucose and HbA1c <5.6%. It’s driven more by insulin kinetics and oxidative stress than hyperglycemia alone.
 
-#### #### Can whole grain cereal endothelial dysfunction be reversed?
+#### Can whole grain cereal endothelial dysfunction be reversed?
 
 Often, yes—especially with dietary pattern shifts (e.g., reducing refined grain frequency, adding polyphenol-rich foods like blueberries and dark leafy greens), regular movement after meals, and optimizing sleep. Endothelial function is highly responsive to lifestyle, even later in life.
 
-#### #### Is oatmeal safer than corn flakes for endothelial health?
+#### Is oatmeal safer than corn flakes for endothelial health?
 
 Generally, yes—*if* it’s plain steel-cut or rolled oats, unsweetened and cooked. Instant oatmeal with added sugars or maltodextrin behaves more like corn flakes in terms of glycemic variability and postprandial FMD reduction.
 
-#### #### What’s the best breakfast for heart health after age 60?
+#### What’s the best breakfast for heart health after age 60?
 
 Focus on balance: moderate protein (eggs, Greek yogurt, tofu), healthy fats (avocado, nuts, olive oil), fiber from non-starchy vegetables or low-glycemic fruits (berries, apple with skin), and minimal refined grains. Prioritize satiety and stable energy—not just “low sugar.”
 
-#### #### Do food labels warn about whole grain cereal endothelial dysfunction?
+#### Do food labels warn about whole grain cereal endothelial dysfunction?
 
 No. Current FDA labeling requirements don’t include metrics for glycemic variability, insulin response, or endothelial impact. That’s why looking beyond the front-of-box claims—and tuning into your body’s signals—is so important.

@@ -64,22 +64,22 @@ In closing: Understanding how dental inflammation and coronary plaque stability 
 
 ### FAQ
 
-#### #### Does gum disease really affect heart plaque in seniors?
+#### Does gum disease really affect heart plaque in seniors?
 
 Yes—especially in adults over 65 with existing heart disease. Chronic gum inflammation raises systemic markers like IL-6 and TNF-α, which are associated with less stable coronary plaque features seen on advanced imaging.
 
-#### #### Can treating gum disease improve dental inflammation and coronary plaque stability?
+#### Can treating gum disease improve dental inflammation and coronary plaque stability?
 
 Emerging evidence suggests yes. One 24-month trial found that intensive periodontal therapy reduced hs-CRP by 31% and slowed progression of high-risk plaque features in older adults with CAD—supporting the idea that dental care contributes meaningfully to cardiovascular health.
 
-#### #### What’s the link between dental inflammation and coronary plaque stability in people with stable CAD?
+#### What’s the link between dental inflammation and coronary plaque stability in people with stable CAD?
 
 Even “stable” CAD isn’t static. Low-grade dental inflammation contributes to ongoing vascular inflammation, potentially altering plaque composition over time—making previously stable lesions more vulnerable. This is why routine oral care is part of comprehensive heart health.
 
-#### #### Is high blood pressure related to gum disease?
+#### Is high blood pressure related to gum disease?
 
 There’s growing evidence of association: adults with periodontitis are ~20% more likely to have hypertension (BP ≥140/90 mm Hg), and shared inflammatory mechanisms may partly explain this overlap.
 
-#### #### Do I need special heart scans if I have gum disease?
+#### Do I need special heart scans if I have gum disease?
 
 No—not routinely. IVUS and OCT are research and specialized clinical tools, not standard screening. Focus instead on consistent dental care, BP monitoring, and open communication with your care team.

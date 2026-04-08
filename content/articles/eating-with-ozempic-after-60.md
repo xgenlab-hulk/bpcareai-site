@@ -3,7 +3,7 @@ title: >-
   Eating With Ozempic After 60: What to Eat & Skip
 slug: eating-with-ozempic-after-60
 description: >-
-  Eating with Ozempic after 60 means prioritizing protein (1.2–1.5 g/kg/day) to prevent muscle loss (sarcopenia)—not skipping meals. Get safe, satisfying food
+  Eating with Ozempic after 60 means prioritizing protein (1.2–1.5 g/kg/day) to prevent muscle loss (sarcopenia)—not skipping meals.
 date: '2026-04-05'
 updated: '2026-04-05'
 primaryKeyword: >-

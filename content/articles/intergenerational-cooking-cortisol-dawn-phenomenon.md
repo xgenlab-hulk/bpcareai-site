@@ -51,22 +51,22 @@ The **intergenerational cooking cortisol dawn phenomenon** is not a sign of fail
 
 ### FAQ
 
-#### #### Does intergenerational cooking cortisol dawn phenomenon only happen during holidays?
+#### Does intergenerational cooking cortisol dawn phenomenon only happen during holidays?
 
 No—it can occur anytime multigenerational meal preparation coincides with chronic sleep disruption and longstanding diabetes, but holiday periods increase frequency due to heightened expectations, altered routines, and cumulative fatigue.
 
-#### #### How is intergenerational cooking cortisol dawn phenomenon different from regular dawn phenomenon?
+#### How is intergenerational cooking cortisol dawn phenomenon different from regular dawn phenomenon?
 
 Regular dawn phenomenon reflects normal circadian hormone shifts. The **intergenerational cooking cortisol dawn phenomenon** adds psychosocial stress-triggered HPA-axis activation and SDB-related melatonin suppression—resulting in larger, more variable, and less medication-responsive glucose spikes.
 
-#### #### Can treating sleep apnea reduce intergenerational cooking cortisol dawn?
+#### Can treating sleep apnea reduce intergenerational cooking cortisol dawn?
 
 Yes. Studies show CPAP use for 4+ weeks reduces overnight cortisol by ~25% and lowers fasting glucose by an average of 18–22 mg/dL in men with type 2 diabetes and moderate SDB.
 
-#### #### Is high blood pressure linked to intergenerational cooking cortisol dawn?
+#### Is high blood pressure linked to intergenerational cooking cortisol dawn?
 
 Yes—elevated nocturnal and early-morning BP often co-occur due to shared drivers: sympathetic overactivity, endothelial dysfunction, and cortisol-mediated sodium retention. Monitoring BP alongside glucose provides a fuller clinical picture.
 
-#### #### What’s the best time to check glucose to catch intergenerational cooking cortisol dawn?
+#### What’s the best time to check glucose to catch intergenerational cooking cortisol dawn?
 
 Check at bedtime (ideally 10 p.m.), once between 2–3 a.m. (if naturally awake), and immediately upon waking—before any food, drink, or activity. Consistency across 3–5 nights reveals the pattern more reliably than single readings.

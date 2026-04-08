@@ -1,0 +1,115 @@
+{
+  "batch": "61-80",
+  "processing_timestamp": "2026-03-16T00:27:44.610810",
+  "articles_processed": 20,
+  "results": [
+    {
+      "slug": "how-cold-weather-indoor-heating-dries-nasal-mucosa-and-why-that-worsens-postprandial-glucose-spikes-in-adults-70-with-autonomic-neuropathy",
+      "error": "API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"x-api-key header is required\"},\"request_id\":\"req_011CZ5BNqmxjcN1tREVHbF5h\"}",
+      "processing_timestamp": "2026-03-16T00:27:06.232469"
+    },
+    {
+      "slug": "how-chronic-loneliness-after-retirement-alters-autonomic-tone-and-elevates-nocturnal-systolic-pressure-in-adults-68-with-preserved-ejection-fraction",
+      "error": "API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"x-api-key header is required\"},\"request_id\":\"req_011CZ5BPdT5Q26aJVrsXRRnT\"}",
+      "processing_timestamp": "2026-03-16T00:27:16.937664"
+    },
+    {
+      "slug": "hosting-holiday-guests-atrial-protection",
+      "error": "API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"x-api-key header is required\"},\"request_id\":\"req_011CZ5BPg6puCKzQaLQLRnZh\"}",
+      "processing_timestamp": "2026-03-16T00:27:17.537631"
+    },
+    {
+      "slug": "home-bp-cuff-calibration-in-high-humidity",
+      "error": "API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"x-api-key header is required\"},\"request_id\":\"req_011CZ5BPnRpi1ci5StpEBqoN\"}",
+      "processing_timestamp": "2026-03-16T00:27:19.009135"
+    },
+    {
+      "slug": "holiday-medication-holiday-myths-facts",
+      "error": "API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"x-api-key header is required\"},\"request_id\":\"req_011CZ5BPq1r6LYsSa4p7py3A\"}",
+      "processing_timestamp": "2026-03-16T00:27:19.616919"
+    },
+    {
+      "slug": "holiday-cookie-swap-glucose-management",
+      "error": "API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"x-api-key header is required\"},\"request_id\":\"req_011CZ5BPtd9GATQYuFo1rstU\"}",
+      "processing_timestamp": "2026-03-16T00:27:20.850200"
+    },
+    {
+      "slug": "herbal-teas-and-diastolic-stiffness-in-women",
+      "error": "API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"x-api-key header is required\"},\"request_id\":\"req_011CZ5BQY8sjCt3gtVjRzbHc\"}",
+      "processing_timestamp": "2026-03-16T00:27:31.172019"
+    },
+    {
+      "slug": "foods-for-central-bp-and-cognitive-blood-flow",
+      "error": "API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"x-api-key header is required\"},\"request_id\":\"req_011CZ5BQmhwgHDmhmf3JWecr\"}",
+      "processing_timestamp": "2026-03-16T00:27:32.407249"
+    },
+    {
+      "slug": "foods-for-aortic-stiffness-without-orthostasis",
+      "error": "API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"x-api-key header is required\"},\"request_id\":\"req_011CZ5BQpytmWUJWN5Kn3Tns\"}",
+      "processing_timestamp": "2026-03-16T00:27:33.210689"
+    },
+    {
+      "slug": "cgms-for-seniors-without-smartphones",
+      "error": "API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"x-api-key header is required\"},\"request_id\":\"req_011CZ5BQt7ATL3zq16FDTb7b\"}",
+      "processing_timestamp": "2026-03-16T00:27:33.923614"
+    },
+    {
+      "slug": "ambulatory-arterial-stiffness-index-interpretation",
+      "error": "API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"x-api-key header is required\"},\"request_id\":\"req_011CZ5BQxV66prXipJucZ7uB\"}",
+      "processing_timestamp": "2026-03-16T00:27:34.941880"
+    },
+    {
+      "slug": "9-foods-that-support-pancreatic-beta-cell-resilience-during-high-carb-holidays-based-on-human-islet-transcriptomics-and-nrf2-activation-studies",
+      "error": "API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"x-api-key header is required\"},\"request_id\":\"req_011CZ5BR28s1v8rhNxesWg26\"}",
+      "processing_timestamp": "2026-03-16T00:27:35.883487"
+    },
+    {
+      "slug": "7-hidden-ways-your-hearing-aid-s-bluetooth-streaming-affects-baroreceptor-sensitivity-especially-during-morning-blood-pressure-spikes-in-adults-73",
+      "error": "API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"x-api-key header is required\"},\"request_id\":\"req_011CZ5BR7zapAjfh2x6zh6EV\"}",
+      "processing_timestamp": "2026-03-16T00:27:37.204825"
+    },
+    {
+      "slug": "7-hidden-electrolyte-shifts-that-happen-during-holiday-cooking-and-how-they-trigger-atrial-fibrillation-in-adults-60-with-mild-hypokalemia",
+      "error": "API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"x-api-key header is required\"},\"request_id\":\"req_011CZ5BRFdDmbBJPoTGFQcyi\"}",
+      "processing_timestamp": "2026-03-16T00:27:39.033929"
+    },
+    {
+      "slug": "5-things-your-endocrinologist-won-t-tell-you-about-holiday-alcohol-choices-especially-if-you-re-on-glp-1-agonists",
+      "error": "API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"x-api-key header is required\"},\"request_id\":\"req_011CZ5BRKf4Sz8dviUmSBTo3\"}",
+      "processing_timestamp": "2026-03-16T00:27:39.876457"
+    },
+    {
+      "slug": "whole-grain-cereal-endothelial-dysfunction",
+      "error": "API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"x-api-key header is required\"},\"request_id\":\"req_011CZ5BRRvqrJTNMEUiZoGUV\"}",
+      "processing_timestamp": "2026-03-16T00:27:41.349897"
+    },
+    {
+      "slug": "what-are-the-earliest-signs-of-right-sided-heart-failure-in-adults-64-with-untreated-sleep-apnea-before-jugular-venous-distention-appears",
+      "error": "API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"x-api-key header is required\"},\"request_id\":\"req_011CZ5BRW8rQk2LFTY1ZZoao\"}",
+      "processing_timestamp": "2026-03-16T00:27:42.331753"
+    },
+    {
+      "slug": "weekly-hiit-once-sarcopenia-diabetes",
+      "error": "API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"x-api-key header is required\"},\"request_id\":\"req_011CZ5BRZ4i37cQJh6hKXerf\"}",
+      "processing_timestamp": "2026-03-16T00:27:43.118744"
+    },
+    {
+      "slug": "warning-signs-your-holiday-energy-crash-is-actually-orthostatic-hypotension-not-just-overeating-in-adults-76-with-age-related-baroreflex-blunting",
+      "error": "API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"x-api-key header is required\"},\"request_id\":\"req_011CZ5BRbyqKub2Ttc8RCrHR\"}",
+      "processing_timestamp": "2026-03-16T00:27:43.709920"
+    },
+    {
+      "slug": "turkey-preparation-postprandial-systolic-pressure",
+      "error": "API error: 401 - {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"x-api-key header is required\"},\"request_id\":\"req_011CZ5BRfuDs4uVJMiABgZDk\"}",
+      "processing_timestamp": "2026-03-16T00:27:44.610005"
+    }
+  ],
+  "summary": {
+    "total_processed": 20,
+    "metadata_optimized": 0,
+    "content_needs_optimization": 0,
+    "articles_needing_phase2": [],
+    "metadata_optimization_rate": "0.0%",
+    "content_optimization_needed_rate": "0.0%"
+  }
+}

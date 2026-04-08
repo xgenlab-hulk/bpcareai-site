@@ -74,22 +74,22 @@ Holiday weight fluctuations are normal—and most are temporary. Whether it’s 
 
 ### FAQ
 
-#### #### Can holiday weight gain fluid retention seniors be mistaken for heart failure?
+#### Can holiday weight gain fluid retention seniors be mistaken for heart failure?
 
 Yes—especially in older adults. Early fluid retention often mimics mild heart failure symptoms (like ankle swelling or nighttime breathlessness), but without structural heart damage. That’s why assessment—not assumption—is key.
 
-#### #### How much weight gain is typical for holiday weight gain fluid retention seniors?
+#### How much weight gain is typical for holiday weight gain fluid retention seniors?
 
 Most experience 2–4 pounds of *true* fluid weight gain over the holidays—though some see up to 6 pounds if sodium intake jumps sharply or mobility drops. Gains over 5 pounds in 72 hours warrant gentle evaluation.
 
-#### #### Does amlodipine cause permanent fluid retention?
+#### Does amlodipine cause permanent fluid retention?
 
 No—it causes *reversible*, dose-dependent edema in about 10–15% of users over 65. It’s not harmful in itself, but it’s a sign your fluid balance needs attention—not necessarily a reason to stop the medication.
 
-#### #### Are there foods that help reduce holiday weight gain fluid retention seniors?
+#### Are there foods that help reduce holiday weight gain fluid retention seniors?
 
 Yes—potassium-rich foods like bananas, spinach, and baked sweet potatoes support sodium balance. But avoid potassium supplements unless advised, as they can interact with certain medications.
 
-#### #### What’s the safest way to monitor fluid status at home?
+#### What’s the safest way to monitor fluid status at home?
 
 Daily morning weight (same scale, same clothes, after urinating), calf measurements, and noting how your rings or shoes fit provide reliable clues—far more than occasional BP checks alone.

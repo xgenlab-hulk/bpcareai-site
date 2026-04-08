@@ -60,17 +60,17 @@ In short, supporting central aortic pressure isn’t about chasing lower numbers
 
 ### FAQ  
 
-#### #### What foods lower central aortic pressure without dropping diastolic?  
+#### What foods lower central aortic pressure without dropping diastolic?  
 Certain deeply pigmented berries, omega-3 phospholipid sources (like salmon roe), roasted beets with skin, toasted walnuts, and high-flavanol dark cocoa show selective effects on central wave reflection—helping central systolic pressure while preserving brachial diastolic. Human studies in adults 70+ suggest this pattern holds best when consumed regularly over 6–12 weeks.
 
-#### #### Are there central aortic pressure foods wide pulse pressure that are safe with blood pressure meds?  
+#### Are there central aortic pressure foods wide pulse pressure that are safe with blood pressure meds?  
 Yes—these foods work through structural and signaling pathways (e.g., elastin support, wave reflection modulation), not direct vasodilation, making them generally compatible with most antihypertensives. Still, discuss dietary changes with your prescriber—especially if you take nitrates or alpha-blockers.
 
-#### #### Can diet alone improve wide pulse pressure in older adults?  
+#### Can diet alone improve wide pulse pressure in older adults?  
 Diet plays a supportive role—not a standalone cure. Clinical trials show modest but meaningful reductions in central systolic pressure (3–6 mm Hg) and pulse pressure (5–8 mm Hg) over 3 months with targeted foods *plus* aerobic activity and sodium moderation. It’s most effective as part of an integrated plan.
 
-#### #### Does coffee raise central aortic pressure?  
+#### Does coffee raise central aortic pressure?  
 Short-term, yes—caffeine can increase central systolic by ~5–10 mm Hg for 1–3 hours, especially in habitual low-intake adults. However, long-term coffee consumption (3–4 cups/day, filtered) is associated with *better* aortic compliance in cohort studies—likely due to antioxidant compounds beyond caffeine.
 
-#### #### What’s the difference between brachial and central aortic pressure?  
+#### What’s the difference between brachial and central aortic pressure?  
 Brachial pressure is what’s measured in your arm—it reflects peripheral resistance. Central aortic pressure is estimated or measured near the heart and reflects the *actual load* on your heart and brain arteries. In older adults, central systolic is often 10–20 mm Hg *higher* than brachial—making it a more sensitive marker of cardiovascular risk.

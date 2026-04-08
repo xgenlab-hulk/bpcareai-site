@@ -86,17 +86,17 @@ Holiday traditions are meaningful—and so is caring for yourself in ways that h
 
 ### FAQ  
 
-#### #### What are silent blood sugar spikes holiday prediabetes—and why don’t I feel them?  
+#### What are silent blood sugar spikes holiday prediabetes—and why don’t I feel them?  
 Silent blood sugar spikes holiday prediabetes refer to short-term increases in blood glucose (usually above 140 mg/dL) that occur after meals—especially during festive periods—without classic symptoms like shakiness or sweating. In older adults, nerve sensitivity and symptom perception naturally change, and prediabetes itself rarely causes dramatic symptoms. Instead, the body adapts quietly—making these spikes easy to miss unless you’re watching closely or testing.
 
-#### #### Can silent blood sugar spikes holiday prediabetes happen even if I avoid sugar?  
+#### Can silent blood sugar spikes holiday prediabetes happen even if I avoid sugar?  
 Yes—absolutely. Starchy foods (dinner rolls, mashed potatoes, gravy), alcohol (especially wine and mixed drinks), and large portions of fruit-based desserts all raise blood glucose. Insulin resistance—common with age and inactivity—means even moderate carb intake can trigger a spike, particularly without movement afterward.
 
-#### #### How often should someone with prediabetes check blood sugar during the holidays?  
+#### How often should someone with prediabetes check blood sugar during the holidays?  
 You don’t need to test daily—but checking 1–2 times per week, ideally 90 minutes after a larger holiday meal, gives helpful insight. Focus on patterns—not single numbers. If readings consistently exceed 160 mg/dL at that timing, it’s a gentle signal to adjust pairing, portion, or movement.
 
-#### #### Does drinking more water really help with blood sugar spikes?  
+#### Does drinking more water really help with blood sugar spikes?  
 Yes—hydration supports kidney function and helps dilute circulating glucose. While water won’t “flush out” sugar, studies show adults with prediabetes who maintain consistent hydration (≥1.5 L/day) have lower average post-meal glucose excursions—likely due to improved circulation and cellular function.
 
-#### #### Is delayed wound healing always related to blood sugar?  
+#### Is delayed wound healing always related to blood sugar?  
 Not always—but it’s a meaningful clue, especially when combined with other signs (fatigue, thirst, blurred vision). In prediabetes, even mild chronic elevation impairs fibroblast activity and microcirculation. If small cuts take noticeably longer to scab or close during the holidays, it’s worth discussing with your healthcare provider as part of your overall metabolic health picture.

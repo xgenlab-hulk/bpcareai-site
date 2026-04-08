@@ -85,22 +85,22 @@ Understanding the *hearing loss and heart disease connection after 60* isn’t a
 
 ### FAQ
 
-#### #### Does hearing loss increase risk of heart disease after 60?
+#### Does hearing loss increase risk of heart disease after 60?
 
 Not exactly—but hearing loss can be an early indicator of underlying vascular changes that also affect heart health. Research suggests that older adults with significant hearing loss are more likely to have hypertension, arterial stiffness, or other cardiovascular risk factors. It’s less about causation and more about shared biology.
 
-#### #### Is there a proven hearing loss and heart disease connection after 60?
+#### Is there a proven hearing loss and heart disease connection after 60?
 
 Yes—multiple peer-reviewed studies have identified a statistically significant association. For instance, a 2022 analysis in *JAMA Otolaryngology* found that adults aged 60–75 with moderate hearing loss had a 32% higher likelihood of having stage 2 hypertension, even after adjusting for age, sex, and BMI.
 
-#### #### Can treating hearing loss improve heart health?
+#### Can treating hearing loss improve heart health?
 
 While hearing aids won’t directly lower your blood pressure, they support behaviors that do: greater physical activity, stronger social ties, improved sleep quality, and reduced stress. These secondary benefits contribute meaningfully to long-term cardiovascular wellness.
 
-#### #### Why does high blood pressure affect hearing?
+#### Why does high blood pressure affect hearing?
 
 Elevated BP can damage the small blood vessels in the inner ear over time, reducing oxygen delivery to delicate hair cells. It may also contribute to microvascular remodeling and increased oxidative stress—processes that impair both cochlear function and arterial elasticity.
 
-#### #### Are hearing tests covered by Medicare for heart-related screening?
+#### Are hearing tests covered by Medicare for heart-related screening?
 
 Standard hearing evaluations are generally not covered by Medicare Part B unless medically necessary—for example, if ordered due to dizziness, tinnitus, or suspected neurological involvement. However, many Medicare Advantage plans include annual hearing benefits, and some primary care practices now integrate basic audiology screening as part of comprehensive cardiovascular risk assessment.

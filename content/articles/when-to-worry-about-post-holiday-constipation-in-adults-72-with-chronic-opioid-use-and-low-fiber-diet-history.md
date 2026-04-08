@@ -69,22 +69,22 @@ In short, occasional constipation after the holidays is understandable — but k
 
 ### FAQ
 
-#### #### What are the most serious post-holiday constipation opioid warning signs in seniors?
+#### What are the most serious post-holiday constipation opioid warning signs in seniors?
 
 The most concerning signs include no bowel movement for five or more days *plus* abdominal distension, nausea/vomiting, new urinary changes, or mental fogginess. These may indicate impaction or partial obstruction — both manageable when addressed promptly.
 
-#### #### Can post-holiday constipation opioid warning signs lead to emergency care?
+#### Can post-holiday constipation opioid warning signs lead to emergency care?
 
 Yes — though uncommon, untreated severe constipation in older adults on opioids can progress to fecal impaction, overflow incontinence, or silent bowel obstruction. Emergency evaluation is recommended if you experience vomiting, fever, severe pain, or inability to pass gas.
 
-#### #### Is it safe to use laxatives after the holidays if I’m on long-term opioids?
+#### Is it safe to use laxatives after the holidays if I’m on long-term opioids?
 
 Some laxatives (like stimulants or osmotics) are appropriate under medical guidance, but others (e.g., bulk-forming alone) may worsen impaction if not paired with enough fluid. Always consult your provider before starting — especially if you have heart or kidney conditions.
 
-#### #### How does a low-fiber diet during family gatherings affect constipation risk?
+#### How does a low-fiber diet during family gatherings affect constipation risk?
 
 Family gatherings often center around refined carbs, meats, and desserts — naturally low in fiber. For someone already on opioids and used to low-fiber eating, even a few days of this pattern can tip the balance. Prioritizing familiar high-fiber additions (like steamed broccoli, lentils in soup, or berries with yogurt) supports gentler transitions.
 
-#### #### Are blood pressure changes linked to constipation in older adults?
+#### Are blood pressure changes linked to constipation in older adults?
 
 While not directly causal, straining during bowel movements can temporarily raise systolic BP — sometimes by 20–40 mm Hg. Chronic constipation may also contribute to autonomic stress. That’s why consistent monitoring and gentle bowel routines support both digestive and cardiovascular wellness.

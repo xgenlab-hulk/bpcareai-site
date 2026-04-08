@@ -67,22 +67,22 @@ Holiday meals are about connection, comfort, and care — not perfection. Choosi
 
 ### FAQ
 
-#### #### What are the best blood sugar stabilizing holiday foods for seniors with type 2 diabetes?
+#### What are the best blood sugar stabilizing holiday foods for seniors with type 2 diabetes?
 
 The most effective options include roasted chestnuts, pickled red onions, toasted fennel seeds, cooked-and-cooled parsnips, and pearled barley — all backed by clinical data on delayed gastric emptying and enzyme inhibition.
 
-#### #### Can blood sugar stabilizing holiday foods also help lower blood pressure?
+#### Can blood sugar stabilizing holiday foods also help lower blood pressure?
 
 Yes — many double as heart-healthy choices. Chestnuts (potassium-rich), walnuts (omega-3s), and broccoli rabe (nitrates) support vascular relaxation and arterial pressure regulation — especially important since ~70% of adults with type 2 diabetes also manage hypertension.
 
-#### #### Are there blood sugar stabilizing holiday foods safe for people taking metformin?
+#### Are there blood sugar stabilizing holiday foods safe for people taking metformin?
 
 Absolutely. These whole foods pose no known interactions with metformin. In fact, pairing them with medication often improves overall glycemic control — just monitor for hypoglycemia if adjusting doses with your provider.
 
-#### #### How soon before a holiday meal should I eat blood sugar stabilizing holiday foods?
+#### How soon before a holiday meal should I eat blood sugar stabilizing holiday foods?
 
 No need to pre-load! Incorporate them *as part of* the meal — e.g., add pickled onions to your plate or swap mashed potatoes for barley pilaf. Their benefit comes from co-ingestion with carbohydrates.
 
-#### #### Do blood sugar stabilizing holiday foods work for prediabetes too?
+#### Do blood sugar stabilizing holiday foods work for prediabetes too?
 
 Yes — and early use may delay progression. Studies show consistent intake of alpha-glucosidase–inhibiting foods reduces 3-year risk of converting from prediabetes to type 2 diabetes by up to 28% (Diabetologia, 2020).

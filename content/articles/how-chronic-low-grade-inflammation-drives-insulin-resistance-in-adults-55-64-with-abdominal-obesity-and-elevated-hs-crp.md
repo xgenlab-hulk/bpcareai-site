@@ -70,22 +70,22 @@ In short, understanding *inflammation insulin resistance abdominal obesity* isn�
 
 ### FAQ
 
-#### #### What causes insulin resistance in people with abdominal obesity and high inflammation?
+#### What causes insulin resistance in people with abdominal obesity and high inflammation?
 
 Abdominal (visceral) fat releases inflammatory cytokines like TNF-α and IL-6, which interfere with insulin receptor signaling in muscle and liver cells. This impairs glucose uptake and forces the pancreas to overproduce insulin—leading to progressive beta-cell stress.
 
-#### #### How does chronic low-grade inflammation lead to type 2 diabetes?
+#### How does chronic low-grade inflammation lead to type 2 diabetes?
 
 Persistent inflammation contributes to both insulin resistance *and* gradual beta-cell dysfunction. Over time, the pancreas can’t keep up with demand—causing blood glucose to rise. Elevated hs-CRP (>3.0 mg/L) in adults with abdominal obesity is strongly associated with faster progression to type 2 diabetes.
 
-#### #### Can reducing inflammation improve insulin resistance in adults 55–64?
+#### Can reducing inflammation improve insulin resistance in adults 55–64?
 
 Yes—clinical trials show that lowering hs-CRP through diet, movement, and sleep improvements correlates with better HOMA-IR scores and reduced fasting insulin—even without major weight loss. It’s one of the most modifiable drivers of metabolic health in this age group.
 
-#### #### Is abdominal obesity the same as general overweight?
+#### Is abdominal obesity the same as general overweight?
 
 No. Abdominal obesity specifically refers to excess visceral fat—deep fat surrounding internal organs—which is far more metabolically active and inflammatory than subcutaneous fat (just under the skin). Waist circumference is a simple, reliable proxy for visceral fat burden.
 
-#### #### What’s a healthy hs-CRP level for someone over 55?
+#### What’s a healthy hs-CRP level for someone over 55?
 
 For optimal metabolic health, aim for hs-CRP <1.0 mg/L. Levels between 1.0–3.0 mg/L are considered moderate risk, and >3.0 mg/L indicate high systemic inflammation—especially concerning when paired with abdominal obesity or rising blood sugar.

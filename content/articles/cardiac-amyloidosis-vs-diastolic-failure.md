@@ -72,22 +72,22 @@ Cardiac amyloidosis vs diastolic failure isn’t about choosing between two vagu
 
 ### FAQ
 
-#### #### What are the key differences between cardiac amyloidosis vs diastolic failure?
+#### What are the key differences between cardiac amyloidosis vs diastolic failure?
 
 Cardiac amyloidosis is an *infiltrative disease*: misfolded proteins build up in the heart, causing stiffness *despite* preserved pumping strength (EF >50%). Diastolic failure usually stems from long-term high blood pressure or metabolic issues and shows more gradual, reversible stiffness. Key differentiators include carpal tunnel syndrome, unexplained weight loss, and abnormal bone scan uptake—none typical of standard diastolic dysfunction.
 
-#### #### Can cardiac amyloidosis vs diastolic failure be mistaken for each other on an echocardiogram?
+#### Can cardiac amyloidosis vs diastolic failure be mistaken for each other on an echocardiogram?
 
 Yes—frequently. Both show thickened heart walls and preserved EF. But amyloidosis often reveals “speckled” myocardium, abnormal strain patterns (especially reduced global longitudinal strain <15%), and disproportionate wall thickness for blood pressure level. Echo alone can’t distinguish them—hence the need for biomarkers and imaging correlation.
 
-#### #### Is carpal tunnel syndrome really linked to cardiac amyloidosis?
+#### Is carpal tunnel syndrome really linked to cardiac amyloidosis?
 
 Absolutely. Bilateral carpal tunnel syndrome—especially if it appears *before* heart symptoms—is present in up to 70% of ATTR amyloidosis patients and may precede diagnosis by years. It’s not coincidence; amyloid deposits form in tendons and nerves too.
 
-#### #### Does a normal ECG rule out cardiac amyloidosis?
+#### Does a normal ECG rule out cardiac amyloidosis?
 
 No—and this is why relying on ECG alone is dangerous. Up to 30% of patients have low-voltage QRS complexes, but many others show only nonspecific ST/T-wave changes or even “normal” tracings. Always pair ECG with clinical suspicion and confirmatory tests.
 
-#### #### What blood tests help tell cardiac amyloidosis vs diastolic failure apart?
+#### What blood tests help tell cardiac amyloidosis vs diastolic failure apart?
 
 Critical labs include NT-proBNP (often very high >3,000 pg/mL), high-sensitivity troponin (chronically elevated), serum free light chains (to screen for AL), and serum protein electrophoresis. A markedly elevated NT-proBNP *plus* abnormal sFLC ratio strongly favors amyloid over routine diastolic failure.

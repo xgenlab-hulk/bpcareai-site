@@ -82,17 +82,17 @@ Understanding *ecg changes sudden cardiac death diabetes* isn’t about generati
 
 ### FAQ
 
-#### #### What are the earliest ECG signs of sudden cardiac death risk in people with type 2 diabetes and mild kidney disease?  
+#### What are the earliest ECG signs of sudden cardiac death risk in people with type 2 diabetes and mild kidney disease?  
 The earliest reproducible ECG changes include increased QTc dispersion (≥80 ms), microvolt-level T-wave alternans (≥1.9 µV), and abnormal signal-averaged ECG findings—such as prolonged filtered QRS duration (>114 ms) or low RMS voltage (<20 µV). These often appear before structural heart changes or symptoms in adults with eGFR 55–70 mL/min/1.73m².
 
-#### #### Can routine ECGs detect ecg changes sudden cardiac death diabetes?  
+#### Can routine ECGs detect ecg changes sudden cardiac death diabetes?  
 Standard 12-lead ECGs *can* capture these changes—but only when analyzed with specialized methods (manual QT measurement, spectral TWA analysis, or signal-averaging). Routine automated interpretations rarely assess them, so ask whether your ECG was reviewed for dispersion, alternans, or late potentials if you’re in a high-risk group.
 
-#### #### How often should someone with diabetes and eGFR 60 get advanced ECG testing?  
+#### How often should someone with diabetes and eGFR 60 get advanced ECG testing?  
 For adults aged 55+ with type 2 diabetes and eGFR 55–70, current evidence supports baseline assessment with signal-averaged ECG and QTc dispersion analysis. Repeat testing every 2–3 years—or sooner if new symptoms, rising NT-proBNP, or worsening autonomic function emerge—is reasonable in shared decision-making with your cardiologist or nephrologist.
 
-#### #### Do blood pressure medications affect these ECG markers?  
+#### Do blood pressure medications affect these ECG markers?  
 Yes—certain antihypertensives influence electrical stability. Beta-blockers (e.g., metoprolol, carvedilol) consistently reduce QT dispersion and suppress T-wave alternans. Conversely, some diuretics (e.g., hydrochlorothiazide) may prolong QT interval if potassium drops below 3.8 mmol/L. Always discuss medication effects on heart rhythm with your prescribing clinician.
 
-#### #### Is sudden cardiac death preventable in people with well-controlled diabetes?  
+#### Is sudden cardiac death preventable in people with well-controlled diabetes?  
 Prevention is possible—and increasingly effective—when risk is identified early. Lifestyle optimization, judicious use of cardioprotective medications, and targeted monitoring (including assessment of *ecg changes sudden cardiac death diabetes*) form the cornerstone of modern preventive cardiology for this population.

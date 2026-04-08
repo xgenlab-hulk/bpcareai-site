@@ -76,17 +76,17 @@ Returning to physical activity after retinal laser treatment isn’t about choos
 
 ### FAQ
 
-#### #### Can I lift weights after laser eye surgery for diabetes?
+#### Can I lift weights after laser eye surgery for diabetes?
 Yes—with important caveats. Laser treatment for diabetic retinopathy (photocoagulation) is different from refractive procedures like LASIK. Weight training after retinal laser treatment seniors is possible, but requires modified technique, slower tempos, and avoidance of breath-holding. Clearance from your retinal specialist is essential before beginning.
 
-#### #### How soon can I start weight training after retinal laser treatment seniors?
+#### How soon can I start weight training after retinal laser treatment seniors?
 Most ophthalmologists recommend waiting 4 weeks minimum before initiating structured resistance training. During Weeks 1–4, only gentle, seated range-of-motion and isometric activities are advised. Full progressive loading is typically permitted after Week 6—if fundus exams show regression of neovascularization and no complications.
 
-#### #### Does weight training after retinal laser treatment seniors raise eye pressure?
+#### Does weight training after retinal laser treatment seniors raise eye pressure?
 It can—especially if you perform the Valsalva maneuver (holding your breath while straining). Studies show IOP can rise from baseline ~15 mm Hg to over 40 mm Hg during uncontrolled lifting. However, using diaphragmatic breathing and controlled tempos keeps IOP increases modest (<8 mm Hg), well within safe thresholds.
 
-#### #### Are resistance bands safer than weights after retinal laser?
+#### Are resistance bands safer than weights after retinal laser?
 Generally, yes—particularly in early recovery. Resistance bands allow smooth, continuous tension without the deceleration “jerk” common in free-weight lifts, and they’re easier to manage with proper breathing. They also eliminate spinal compression forces seen in barbell squats or deadlifts, further reducing systemic and ocular pressure spikes.
 
-#### #### What blood pressure level is unsafe for lifting after diabetic retinopathy laser?
+#### What blood pressure level is unsafe for lifting after diabetic retinopathy laser?
 Systolic blood pressure ≥160 mm Hg *during* or immediately after lifting is considered high-risk for retinal vascular stress in adults with proliferative diabetic retinopathy. Resting BP should be consistently <140/90 mm Hg before starting resistance training—and monitored before every session.

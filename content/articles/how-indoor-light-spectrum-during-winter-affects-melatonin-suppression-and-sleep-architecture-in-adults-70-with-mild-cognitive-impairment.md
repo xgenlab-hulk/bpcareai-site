@@ -79,22 +79,22 @@ None of this is about perfection—or adding stress to your routine. It’s abou
 
 ### FAQ
 
-#### #### Does indoor light spectrum melatonin sleep architecture seniors change with age?
+#### Does indoor light spectrum melatonin sleep architecture seniors change with age?
 
 Yes—significantly. Starting around age 60, lens yellowing reduces blue-light transmission by ~40%, while retinal sensitivity to circadian light drops another 25–30%. This means older adults need *brighter*, *bluer* morning light to stimulate melatonin suppression—but are *more sensitive* to evening blue light because their melatonin system takes longer to ramp up and shut down. The result? A narrower “safe window” for light exposure—making indoor light spectrum melatonin sleep architecture seniors especially vulnerable to disruption.
 
-#### #### Can changing my home lighting really improve REM sleep in seniors with MCI?
+#### Can changing my home lighting really improve REM sleep in seniors with MCI?
 
 Research says yes. A 2023 randomized trial in *Sleep Medicine Reviews* found that seniors 70+ with MCI who switched to 2700K evening lighting + morning bright-light therapy increased REM sleep duration by 18% and improved overnight memory recall by 23% over 8 weeks—compared to controls using standard LEDs. Improvements were most pronounced in those with the lowest baseline REM.
 
-#### #### What’s the best color temperature for indoor light spectrum melatonin support in winter?
+#### What’s the best color temperature for indoor light spectrum melatonin support in winter?
 
 For daytime (before 5 p.m.): 4000K–5000K is ideal—it mimics natural midday light and supports alertness without over-suppressing melatonin too early. For evening (after 5 p.m., especially post-7 p.m.): stick to 2200K–2700K (amber to warm white). Avoid anything above 3500K after sunset—this includes many “soft white” bulbs marketed as “cozy.”
 
-#### #### Is seasonal depression in older adults linked to indoor lighting choices?
+#### Is seasonal depression in older adults linked to indoor lighting choices?
 
 Absolutely. While seasonal affective disorder (SAD) is less commonly diagnosed in adults over 65, symptoms like low energy, social withdrawal, and sleep disruption are frequently underrecognized—and often tied to reduced photoperiod *and* poor indoor light quality. Older adults get, on average, 40% less outdoor light exposure in winter than younger adults—and rely more heavily on artificial sources. Using high-blue, low-lux indoor lighting worsens circadian misalignment, which amplifies mood vulnerability. Bright morning light (2500+ lux) is a first-line non-pharmacologic intervention for seasonal depression in older adults.
 
-#### #### How does indoor light spectrum melatonin sleep architecture seniors relate to blood pressure?
+#### How does indoor light spectrum melatonin sleep architecture seniors relate to blood pressure?
 
 Circadian disruption directly affects autonomic nervous system balance—leading to elevated nighttime systolic BP, blunted nocturnal dipping (a healthy 10–20% BP drop during sleep), and increased arterial stiffness. In seniors with MCI, poor sleep architecture—especially fragmented slow-wave and REM sleep—is associated with a 1.8x higher risk of developing hypertension over 5 years. Optimizing light exposure supports both restorative sleep *and* healthier 24-hour BP patterns.

@@ -85,22 +85,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What are the earliest echocardiographic signs of right heart strain in older adults with COPD?
+#### What are the earliest echocardiographic signs of right heart strain in older adults with COPD?
 
 The earliest reliable signs include reduced RV free wall longitudinal strain (<−17%) and abnormal hepatic vein flow patterns—particularly systolic flow reversal—seen on subcostal echocardiography. These often appear before changes in neck veins, liver size, or peripheral edema.
 
-#### #### Can right heart strain early echocardiographic signs be reversed with treatment?
+#### Can right heart strain early echocardiographic signs be reversed with treatment?
 
 In many cases—yes. With optimized COPD management (including bronchodilators, pulmonary rehab, and oxygen therapy), along with addressing contributing factors like sleep apnea or left heart dysfunction, early right heart strain may stabilize or improve. Ongoing monitoring helps guide whether adjustments are needed.
 
-#### #### How is right heart strain early echocardiographic signs different from cor pulmonale?
+#### How is right heart strain early echocardiographic signs different from cor pulmonale?
 
 Right heart strain early echocardiographic signs refer to *subclinical*, imaging-based changes indicating early RV adaptation. Cor pulmonale is a broader clinical syndrome involving right heart enlargement *and* failure—typically with symptoms like edema, ascites, or overt jugular venous distension. Early signs may precede cor pulmonale by months or years.
 
-#### #### Do I need an echocardiogram if I have COPD but feel fine?
+#### Do I need an echocardiogram if I have COPD but feel fine?
 
 Not necessarily—but it’s reasonable to discuss with your provider if you’re 75+, have known low oxygen levels, or have had prior heart or lung testing showing mild pulmonary hypertension. Early detection supports personalized, preventive care.
 
-#### #### What does “subcostal view” mean in echocardiography?
+#### What does “subcostal view” mean in echocardiography?
 
 The subcostal view is an ultrasound angle obtained just below the ribcage, offering a clear look at the right heart chambers, inferior vena cava, and hepatic veins. It’s especially useful in older adults and those with COPD because it avoids interference from air-filled lungs—making it ideal for spotting early right heart strain.

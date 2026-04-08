@@ -75,22 +75,22 @@ Falls are never “just part of aging” — and neither is assuming blood press
 
 ### FAQ
 
-#### #### What is orthostatic-hypertension-falls-elderly?
+#### What is orthostatic-hypertension-falls-elderly?
 
 Orthostatic-hypertension-falls-elderly refers to a pattern where blood pressure rises significantly upon standing — rather than falling — in adults aged 77 and older, contributing to recurrent falls. It’s often missed because clinicians expect drops, not surges, with posture change.
 
-#### #### Is orthostatic-hypertension-falls-elderly common in seniors?
+#### Is orthostatic-hypertension-falls-elderly common in seniors?
 
 Yes — research estimates 15–20% of older adults with recurrent falls show orthostatic hypertension. It’s especially prevalent among those with arterial stiffness, diabetes, or Parkinson’s disease.
 
-#### #### Can orthostatic-hypertension-falls-elderly be treated without stopping blood pressure meds?
+#### Can orthostatic-hypertension-falls-elderly be treated without stopping blood pressure meds?
 
 Often, yes. Treatment focuses on adjusting timing/dosing of existing medications, adding agents that smooth BP variability (like low-dose clonidine in select cases), and non-pharmacologic strategies — not necessarily eliminating antihypertensives.
 
-#### #### Why does my blood pressure go up when I stand up?
+#### Why does my blood pressure go up when I stand up?
 
 In older adults, stiff arteries and delayed nervous system feedback can cause a delayed or overshooting compensatory response. Instead of stabilizing, the body “overcorrects,” pushing systolic pressure higher — sometimes into risky ranges — within 1–3 minutes of standing.
 
-#### #### Does orthostatic-hypertension-falls-elderly increase stroke risk?
+#### Does orthostatic-hypertension-falls-elderly increase stroke risk?
 
 A sustained standing SBP >180 mm Hg may raise short-term stroke risk, particularly in those with preexisting cerebrovascular disease. That’s why identifying and managing orthostatic-hypertension-falls-elderly isn’t just about falls — it’s about brain health, too.

@@ -58,22 +58,22 @@ In short, gastric reflux hiatal hernia women seniors is manageable—and often s
 
 ### FAQ
 
-#### #### Can ginger and chamomile really help gastric reflux hiatal hernia women seniors?
+#### Can ginger and chamomile really help gastric reflux hiatal hernia women seniors?
 
 Yes—when used thoughtfully. Ginger stimulates gastric emptying and has anti-inflammatory properties; chamomile eases smooth muscle spasm and supports mucosal integrity. Together, they’re well-tolerated by most women seniors and avoid the risks associated with long-term antacid or PPI use.
 
-#### #### What’s the safest way to eat dessert with a hiatal hernia?
+#### What’s the safest way to eat dessert with a hiatal hernia?
 
 Recline at a 22° angle—not flat—for 15–20 minutes *only during dessert consumption*. This position uses gravity to keep stomach contents downward while avoiding the increased pressure of lying supine. Pair it with mindful chewing and sipping ginger-chamomile tea beforehand.
 
-#### #### Is gastric reflux hiatal hernia common in women over 60?
+#### Is gastric reflux hiatal hernia common in women over 60?
 
 Very common. Studies estimate 30–40% of adults over 60 have a hiatal hernia, and women are diagnosed more frequently—likely due to both anatomical differences and greater healthcare engagement. Symptoms often become more noticeable in the 60s and 70s, especially during dietary or lifestyle shifts like holidays.
 
-#### #### Does diaphragmatic breathing help with hiatal hernia-related reflux?
+#### Does diaphragmatic breathing help with hiatal hernia-related reflux?
 
 Yes—it’s one of the most underused, research-supported tools. Regular diaphragmatic breathing improves coordination between the diaphragm and lower esophageal sphincter, reduces intra-abdominal pressure, and enhances vagal tone—all of which support reflux resilience.
 
-#### #### Are there foods I should avoid completely during family gatherings?
+#### Are there foods I should avoid completely during family gatherings?
 
 Not necessarily “avoid completely,” but consider timing and pairing. Rich desserts, carbonated drinks, and large portions of fatty meats are best enjoyed earlier in the day—not late at night—and paired with movement (a short walk after dinner) and upright posture. Moderation, not elimination, is the kindest and most sustainable approach.

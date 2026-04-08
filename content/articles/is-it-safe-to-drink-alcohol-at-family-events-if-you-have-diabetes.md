@@ -68,17 +68,17 @@ Living well with diabetes means honoring both your health and your humanity. Fam
 
 ### FAQ
 
-#### #### Can I drink alcohol if I have type 2 diabetes and high blood pressure?
+#### Can I drink alcohol if I have type 2 diabetes and high blood pressure?
 Yes—but with extra caution. Alcohol can interfere with antihypertensive medications and cause unpredictable swings in both blood pressure and blood sugar. Limit intake to no more than one standard drink per day, avoid drinking on days when you’ve skipped meals or exercised intensely, and monitor both BP and glucose closely. Discuss your specific regimen with your doctor to evaluate alcohol and diabetes safety for your unique situation.
 
-#### #### How does alcohol affect blood sugar the next morning in people with diabetes?
+#### How does alcohol affect blood sugar the next morning in people with diabetes?
 Alcohol can suppress the liver’s glucose production for up to 12–16 hours, leading to delayed hypoglycemia—especially if you drank without eating enough or took insulin/sulfonylureas. Morning readings may be unexpectedly low (below 70 mg/dL), accompanied by fatigue, headache, or confusion. This is why checking blood sugar before bed *and* upon waking is critical for alcohol and diabetes safety.
 
-#### #### Is there a safe amount of alcohol for seniors with diabetes?
+#### Is there a safe amount of alcohol for seniors with diabetes?
 For adults over 50, “safe” depends more on individual health than age alone. General guidance is no more than one standard drink per day for women and two for men—but many clinicians recommend capping it at one drink *per occasion*, especially for those on insulin, with kidney or liver concerns, or with a history of falls or memory changes. Always prioritize consistency in meals, medication timing, and monitoring over social expectations.
 
-#### #### Does alcohol interact with metformin?
+#### Does alcohol interact with metformin?
 Occasional, moderate alcohol use is usually acceptable with metformin—but heavy or binge drinking increases the rare risk of lactic acidosis, particularly in people with reduced kidney function (eGFR <60). Since kidney filtration naturally declines with age, discuss your alcohol habits and lab results with your provider to ensure continued alcohol and diabetes safety.
 
-#### #### What are the best non-alcoholic alternatives for family events?
+#### What are the best non-alcoholic alternatives for family events?
 Try sparkling water with fresh herbs and citrus, unsweetened iced tea with mint and lemon, or low-sugar kombucha (check labels—some contain added fruit juice). Herbal infusions like ginger-turmeric or chamomile blends offer warmth and ritual without affecting glucose. Many grocery stores now carry sophisticated non-alcoholic wines and spirits formulated to mimic flavor profiles—just verify they’re low in carbs and free of artificial sweeteners that may trigger digestive discomfort.

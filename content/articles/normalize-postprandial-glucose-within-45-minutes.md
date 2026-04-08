@@ -88,22 +88,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### How quickly can I normalize postprandial glucose within 45 minutes using lifestyle changes?
+#### How quickly can I normalize postprandial glucose within 45 minutes using lifestyle changes?
 
 Most adults 60–68 see measurable improvement in their 45-minute glucose response within 3–5 days of consistently applying protein-first eating, gentle isometric handgrip, and nasal breathing. In clinical trials, average reductions of 20–30 mg/dL were observed by Day 4—especially with meals containing 30+ grams of carbs.
 
-#### #### Does normalize postprandial glucose within 45 minutes help prevent type 2 diabetes?
+#### Does normalize postprandial glucose within 45 minutes help prevent type 2 diabetes?
 
 Yes—when done consistently over time. Repeatedly lowering post-meal glucose excursions reduces pancreatic stress and improves insulin sensitivity. Observational data suggests that maintaining postprandial glucose under 140 mg/dL at 45 minutes is associated with a 37% lower 10-year risk of progressing from prediabetes to type 2 diabetes.
 
-#### #### Can I normalize postprandial glucose within 45 minutes if I have mild arthritis?
+#### Can I normalize postprandial glucose within 45 minutes if I have mild arthritis?
 
 Absolutely—and this protocol was designed with that in mind. The isometric handgrip uses very low resistance (no squeezing to fatigue), and protein-first eating requires no extra movement or prep. Nasal breathing adds zero physical demand. All three strategies are explicitly validated in cohorts including participants with osteoarthritis of the hands and knees.
 
-#### #### Do I need a CGM to normalize postprandial glucose within 45 minutes?
+#### Do I need a CGM to normalize postprandial glucose within 45 minutes?
 
 No. While CGMs offer rich detail, fingerstick testing at 45 and 90 minutes post-meal provides enough information to guide adjustments. Focus on trends over time—not single numbers. Even checking once or twice per week gives valuable feedback.
 
-#### #### Is this approach safe if I’m already on metformin or insulin?
+#### Is this approach safe if I’m already on metformin or insulin?
 
 Yes—these strategies are complementary, not contradictory. However, if you’re on insulin or sulfonylureas (like glipizide), work with your care team before making consistent changes—especially around timing of doses and meals—to avoid unexpected lows. Always prioritize safety and collaboration.

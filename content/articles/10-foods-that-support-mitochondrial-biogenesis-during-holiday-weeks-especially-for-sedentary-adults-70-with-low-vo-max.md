@@ -102,22 +102,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What are the best foods mitochondrial biogenesis seniors can easily find during the holidays?
+#### What are the best foods mitochondrial biogenesis seniors can easily find during the holidays?
 
 Look for pomegranates (in season Nov–Jan), frozen blueberries and spinach, canned beets (low-sodium), walnuts, green tea bags, and dark chocolate. No specialty stores needed—most are available at regular supermarkets or farmers’ markets.
 
-#### #### Can foods mitochondrial biogenesis seniors help improve low energy in older adults?
+#### Can foods mitochondrial biogenesis seniors help improve low energy in older adults?
 
 Yes—studies show improved mitochondrial function correlates with measurable gains in daily energy, walking endurance, and reduced perceived exertion—even without formal exercise. Think of it as upgrading your internal battery, one meal at a time.
 
-#### #### Are there any foods mitochondrial biogenesis seniors should avoid during the holidays?
+#### Are there any foods mitochondrial biogenesis seniors should avoid during the holidays?
 
 Limit ultra-processed items high in refined sugars and industrial seed oils (e.g., many store-bought cookies, gravy mixes, or fried appetizers), as they promote inflammation and suppress PGC-1α signaling. Focus instead on whole, colorful, minimally processed foods—even holiday classics like sweet potatoes or cranberries count when prepared simply.
 
-#### #### Does drinking coffee interfere with mitochondrial biogenesis?
+#### Does drinking coffee interfere with mitochondrial biogenesis?
 
 Not at all—moderate black coffee (1–2 cups/day) may actually support mitochondrial health via chlorogenic acid and caffeine’s mild AMPK activation. Just avoid loading it with creamers high in added sugars or hydrogenated fats.
 
-#### #### How long does it take to notice benefits from foods mitochondrial biogenesis seniors?
+#### How long does it take to notice benefits from foods mitochondrial biogenesis seniors?
 
 Many people report feeling subtle shifts—like steadier energy or easier breathing—within 2–3 weeks of consistent intake. For measurable changes in VO₂ max or muscle function, studies typically show results after 6–12 weeks of combined nutrition and light movement.

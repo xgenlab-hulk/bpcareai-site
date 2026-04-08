@@ -74,22 +74,22 @@ Winter doesn’t have to mean compromising your heart health—especially when s
 
 ### FAQ
 
-#### #### Can poor indoor air quality raise blood pressure in seniors?
+#### Can poor indoor air quality raise blood pressure in seniors?
 
 Yes—especially during winter. Reduced ventilation, dry air, and accumulated pollutants like PM2.5 and VOCs can trigger mild inflammation and autonomic nervous system shifts, leading to measurable increases in systolic and diastolic pressure. Studies suggest vulnerable older adults may see rises of 5–10 mm Hg during prolonged exposure to suboptimal indoor air.
 
-#### #### How does indoor air quality heart health relate to heart disease risk?
+#### How does indoor air quality heart health relate to heart disease risk?
 
 Long-term exposure to poor indoor air quality heart health is linked to increased arterial stiffness, endothelial dysfunction, and oxidative stress—all contributors to atherosclerosis and cardiovascular events. While not a sole cause, it’s considered a modifiable environmental risk factor, particularly for adults over 50 with existing hypertension or metabolic conditions.
 
-#### #### What’s the best humidity level for senior blood pressure control in winter?
+#### What’s the best humidity level for senior blood pressure control in winter?
 
 Aim for 35–45% relative humidity. This range helps keep mucous membranes moist (supporting immune defense), reduces airborne particle suspension, and minimizes static electricity and dry-skin irritation—all of which support stable autonomic function and smoother BP regulation.
 
-#### #### Does using an air purifier improve indoor air quality heart health?
+#### Does using an air purifier improve indoor air quality heart health?
 
 Yes—especially models with true HEPA filtration and activated carbon. They effectively remove fine particles (PM2.5), allergens, and some gaseous pollutants. In clinical settings, HEPA filtration has been associated with modest but significant improvements in endothelial function and 24-hour ambulatory BP in older adults with hypertension.
 
-#### #### Are wood-burning stoves safe for indoor air quality heart health?
+#### Are wood-burning stoves safe for indoor air quality heart health?
 
 Not without precautions. Even EPA-certified stoves emit fine particles and carbon monoxide. For optimal indoor air quality heart health, ensure proper chimney maintenance, use only dry, seasoned wood, and never use a stove as a primary heat source in tightly sealed homes. Supplement with mechanical ventilation or air purification.

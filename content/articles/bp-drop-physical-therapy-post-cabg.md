@@ -76,22 +76,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Is a bp drop physical therapy post-cabg normal?
+#### Is a bp drop physical therapy post-cabg normal?
 
 Yes—especially in the first 6–12 weeks—but only if it’s mild (≤20 mm Hg systolic), brief, and fully resolves within 2–3 minutes of sitting. Persistent or symptomatic drops warrant evaluation.
 
-#### #### Can bp drop physical therapy post-cabg be a sign of heart failure?
+#### Can bp drop physical therapy post-cabg be a sign of heart failure?
 
 Not directly—but it can co-occur with decompensated heart failure, particularly if accompanied by fatigue, orthopnea, or elevated jugular veins. A new or worsening BP drop during PT should prompt a broader cardiovascular review.
 
-#### #### What’s the difference between orthostatic hypotension and cardiac tamponade in older adults post-CABG?
+#### What’s the difference between orthostatic hypotension and cardiac tamponade in older adults post-CABG?
 
 Orthostatic hypotension causes BP to fall *only* with standing, improves with rest, and preserves JVP and heart sounds. Cardiac tamponade causes BP to fall *regardless of position*, often with muffled heart sounds, absent JVP rise, pulsus paradoxus, and signs of low cardiac output—even while lying flat.
 
-#### #### How soon after CABG does orthostatic hypotension usually appear?
+#### How soon after CABG does orthostatic hypotension usually appear?
 
 Most commonly in the first 2–4 weeks, peaking around week 3. It often improves as mobility, hydration, and medication regimens stabilize—but can persist longer in frail or polypharmacy patients.
 
-#### #### Should I stop physical therapy if I notice a bp drop physical therapy post-cabg?
+#### Should I stop physical therapy if I notice a bp drop physical therapy post-cabg?
 
 Not necessarily—but do pause, sit, and notify your therapist. They’ll assess symptoms, retake vitals, and decide whether to modify intensity, add support strategies, or consult your physician. Never ignore recurrent or worsening drops.

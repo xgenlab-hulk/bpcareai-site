@@ -46,22 +46,22 @@ In closing, managing blood pressure doesn’t always mean pushing harder—it ca
 
 ### FAQ
 
-#### #### Does isometric handgrip training lower central aortic pressure in women over 60?
+#### Does isometric handgrip training lower central aortic pressure in women over 60?
 
 Yes—multiple RCTs demonstrate clinically meaningful reductions (8–12 mm Hg) in central aortic systolic pressure among women aged 61–75 with isolated systolic hypertension, especially when performed daily for 4–8 weeks.
 
-#### #### How does isometric handgrip central aortic pressure women 60s training compare to walking?
+#### How does isometric handgrip central aortic pressure women 60s training compare to walking?
 
 In head-to-head trials, isometric handgrip produced greater systolic reductions than moderate-intensity walking (e.g., 30 minutes/day, 5 days/week) in women 60–75—likely due to its targeted effect on baroreflex sensitivity and arterial stiffness, rather than general cardiovascular conditioning.
 
-#### #### Can I do isometric handgrip training if I have heart disease?
+#### Can I do isometric handgrip training if I have heart disease?
 
 Most people with stable heart disease—including coronary artery disease or prior heart failure—can safely perform low-intensity isometric handgrip under medical supervision. However, avoid it if you have unstable angina, uncontrolled arrhythmias, or severe aortic stenosis. Always consult your cardiologist first.
 
-#### #### How long before I see results from handgrip training?
+#### How long before I see results from handgrip training?
 
 Many participants notice small BP shifts within 2 weeks, but significant and sustained reductions in central aortic pressure typically emerge after 4–6 weeks of consistent daily practice.
 
-#### #### Do I need special equipment for isometric handgrip central aortic pressure women 60s training?
+#### Do I need special equipment for isometric handgrip central aortic pressure women 60s training?
 
 A basic, calibrated hand dynamometer (often available at physical therapy clinics or online) helps ensure proper intensity (~30% of max grip). Spring-based grippers with resistance levels can also work—but avoid overly stiff models that encourage straining.

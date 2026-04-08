@@ -66,17 +66,17 @@ Dinner-lunch gap hypoglycemia is manageable—and often reversible—with though
 
 ### FAQ
 
-#### #### What is dinner-lunch gap hypoglycemia—and is it the same as dawn phenomenon?  
+#### What is dinner-lunch gap hypoglycemia—and is it the same as dawn phenomenon?  
 No. Dawn phenomenon refers to early-morning glucose *rises* due to hormonal surges around 4–6 a.m. **Dinner-lunch gap hypoglycemia** is a *drop* occurring later—typically 9 a.m. to noon—caused by prolonged fasting and digestive slowing, not circadian hormone spikes.
 
-#### #### Can dinner-lunch gap hypoglycemia happen even if my A1C is normal?  
+#### Can dinner-lunch gap hypoglycemia happen even if my A1C is normal?  
 Yes. A1C reflects average glucose over ~3 months but masks significant daily fluctuations. Someone with an A1C of 6.8% can still experience frequent pre-lunch lows—especially with erratic meal timing or gastroparesis.
 
-#### #### Does gastroparesis directly cause dinner-lunch gap hypoglycemia?  
+#### Does gastroparesis directly cause dinner-lunch gap hypoglycemia?  
 Not alone—but it strongly contributes. Delayed gastric emptying means insulin peaks *before* nutrients arrive, increasing mismatch risk. Combined with longer fasting windows and age-related hormonal shifts, it creates ideal conditions for **dinner-lunch gap hypoglycemia**.
 
-#### #### Are bedtime snacks safe for people with kidney disease and diabetes?  
+#### Are bedtime snacks safe for people with kidney disease and diabetes?  
 Yes—if protein and potassium are adjusted per nephrology guidance. Focus on lower-potassium options (e.g., egg whites, rice milk) and consult your dietitian to tailor amounts to your eGFR and dietary restrictions.
 
-#### #### How soon can I expect improvement after trying bedtime resistant starch?  
+#### How soon can I expect improvement after trying bedtime resistant starch?  
 Most notice stabilization in morning/late-morning glucose within 3–5 days. Full adaptation—including improved satiety signaling and fewer reactive lows—may take 2–3 weeks as gut microbiota adjust.

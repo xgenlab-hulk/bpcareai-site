@@ -1,0 +1,158 @@
+{
+  "batch_info": {
+    "batch_name": "batch-81-100",
+    "article_indices": "80-99",
+    "article_count": 20,
+    "processed_count": 20
+  },
+  "summary": {
+    "total_processed": 20,
+    "metadata_optimized": 0,
+    "metadata_optimization_failed": 0,
+    "content_needs_phase2": 0,
+    "errors": 20,
+    "articles_needing_phase2": []
+  },
+  "results": [
+    {
+      "slug": "the-truth-about-senior-friendly-holiday-meal-kits-why-92-fail-to-meet-ada-recommended-sodium-fiber-targets-for-hypertensive-adults-75",
+      "phase1_metadata": {},
+      "phase1_content_audit": {},
+      "needs_phase2": false,
+      "error": "API call failed: 401"
+    },
+    {
+      "slug": "the-truth-about-low-sodium-frozen-dinners-marketed-to-seniors-why-78-still-exceed-ada-sodium-targets-for-stage-1-hypertension",
+      "phase1_metadata": {},
+      "phase1_content_audit": {},
+      "needs_phase2": false,
+      "error": "API call failed: 401"
+    },
+    {
+      "slug": "tai-chi-vs-walking-for-hfpef-seniors",
+      "phase1_metadata": {},
+      "phase1_content_audit": {},
+      "needs_phase2": false,
+      "error": "API call failed: 401"
+    },
+    {
+      "slug": "statin-side-effects-heart-health-seniors",
+      "phase1_metadata": {},
+      "phase1_content_audit": {},
+      "needs_phase2": false,
+      "error": "API call failed: 401"
+    },
+    {
+      "slug": "simple-steps-to-modify-grandma-s-pie-recipe-for-diabetic-retinopathy-risk-reduction-without-sacrificing-flavor-or-texture",
+      "phase1_metadata": {},
+      "phase1_content_audit": {},
+      "needs_phase2": false,
+      "error": "API call failed: 401"
+    },
+    {
+      "slug": "seniors-living-alone-holiday-party-preparedness",
+      "phase1_metadata": {},
+      "phase1_content_audit": {},
+      "needs_phase2": false,
+      "error": "API call failed: 401"
+    },
+    {
+      "slug": "preserve-muscle-mass-holiday-meals",
+      "phase1_metadata": {},
+      "phase1_content_audit": {},
+      "needs_phase2": false,
+      "error": "API call failed: 401"
+    },
+    {
+      "slug": "natural-support-for-coronary-microvascular-disease",
+      "phase1_metadata": {},
+      "phase1_content_audit": {},
+      "needs_phase2": false,
+      "error": "API call failed: 401"
+    },
+    {
+      "slug": "low-dose-lithium-beta-cell-function",
+      "phase1_metadata": {},
+      "phase1_content_audit": {},
+      "needs_phase2": false,
+      "error": "API call failed: 401"
+    },
+    {
+      "slug": "intermittent-fasting-before-cardiac-catheterization",
+      "phase1_metadata": {},
+      "phase1_content_audit": {},
+      "needs_phase2": false,
+      "error": "API call failed: 401"
+    },
+    {
+      "slug": "how-seasonal-air-pollution-peaks-alter-st-segment-variability-and-why-that-increases-acute-coronary-syndrome-risk-in-adults-59-with-stable-angina",
+      "phase1_metadata": {},
+      "phase1_content_audit": {},
+      "needs_phase2": false,
+      "error": "API call failed: 401"
+    },
+    {
+      "slug": "how-chronic-constipation-elevates-24-hour-mean-arterial-pressure-via-gut-derived-trimethylamine-n-oxide-especially-in-adults-70-with-low-fiber-diets",
+      "phase1_metadata": {},
+      "phase1_content_audit": {},
+      "needs_phase2": false,
+      "error": "API call failed: 401"
+    },
+    {
+      "slug": "home-ecg-patch-interpretation-for-seniors",
+      "phase1_metadata": {},
+      "phase1_content_audit": {},
+      "needs_phase2": false,
+      "error": "API call failed: 401"
+    },
+    {
+      "slug": "home-bp-cuff-with-ecg-for-afib-seniors",
+      "phase1_metadata": {},
+      "phase1_content_audit": {},
+      "needs_phase2": false,
+      "error": "API call failed: 401"
+    },
+    {
+      "slug": "hidden-sodium-holiday-side-dishes",
+      "phase1_metadata": {},
+      "phase1_content_audit": {},
+      "needs_phase2": false,
+      "error": "API call failed: 401"
+    },
+    {
+      "slug": "heavy-legs-sitting-heart-strain-seniors",
+      "phase1_metadata": {},
+      "phase1_content_audit": {},
+      "needs_phase2": false,
+      "error": "API call failed: 401"
+    },
+    {
+      "slug": "heart-healthy-granola-bars-truth-for-seniors",
+      "phase1_metadata": {},
+      "phase1_content_audit": {},
+      "needs_phase2": false,
+      "error": "API call failed: 401"
+    },
+    {
+      "slug": "cold-face-immersion-baroreflex-seniors",
+      "phase1_metadata": {},
+      "phase1_content_audit": {},
+      "needs_phase2": false,
+      "error": "API call failed: 401"
+    },
+    {
+      "slug": "aromatase-inhibitors-diabetes-interaction-seniors",
+      "phase1_metadata": {},
+      "phase1_content_audit": {},
+      "needs_phase2": false,
+      "error": "API call failed: 401"
+    },
+    {
+      "slug": "ankle-circles-vs-calf-squeezes-pulse-pressure",
+      "phase1_metadata": {},
+      "phase1_content_audit": {},
+      "needs_phase2": false,
+      "error": "API call failed: 401"
+    }
+  ]
+}

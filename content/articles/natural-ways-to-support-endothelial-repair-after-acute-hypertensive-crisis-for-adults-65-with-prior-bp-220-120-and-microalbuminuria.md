@@ -59,17 +59,17 @@ In time—and with consistent, thoughtful support—the endothelium *can* regain
 
 ### FAQ  
 
-#### #### How long does endothelial repair take after a hypertensive crisis?  
+#### How long does endothelial repair take after a hypertensive crisis?  
 Recovery varies, but measurable improvements in endothelial function often begin within 2–4 weeks of consistent lifestyle support. Full functional restoration may take 3–6 months, especially with concurrent microalbuminuria.
 
-#### #### Can diet really help with endothelial repair hypertensive crisis microalbuminuria?  
+#### Can diet really help with endothelial repair hypertensive crisis microalbuminuria?  
 Yes—evidence supports targeted nutrition (e.g., nitrates, sulforaphane, citrulline) as safe, effective adjuncts to medical care. These nutrients help reduce oxidative stress and boost nitric oxide, both central to endothelial repair hypertensive crisis microalbuminuria.
 
-#### #### What supplements support endothelial repair after high BP?  
+#### What supplements support endothelial repair after high BP?  
 L-citrulline (1–2 g/day), aged garlic extract (600–1,200 mg/day), and omega-3s (EPA/DHA 1 g/day) have supportive data—but always consult your provider first, especially with kidney involvement or anticoagulant use.
 
-#### #### Is microalbuminuria reversible after a hypertensive crisis?  
+#### Is microalbuminuria reversible after a hypertensive crisis?  
 Often yes—especially with BP control below 130/80 mm Hg and lifestyle strategies that reduce vascular stress. Persistent microalbuminuria warrants further evaluation but doesn’t mean permanent damage.
 
-#### #### Why avoid NSAIDs after a hypertensive crisis?  
+#### Why avoid NSAIDs after a hypertensive crisis?  
 NSAIDs interfere with prostacyclin and nitric oxide pathways, reduce renal blood flow, and suppress endothelial progenitor cell release—slowing natural repair. Acetaminophen (in moderation) is generally preferred for pain relief during recovery.

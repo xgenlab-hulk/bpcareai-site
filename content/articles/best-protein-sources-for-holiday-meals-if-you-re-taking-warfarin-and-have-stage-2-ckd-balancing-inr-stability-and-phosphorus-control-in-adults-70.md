@@ -80,17 +80,17 @@ Holiday meals don’t have to be a source of worry — especially when you’re 
 
 ### FAQ
 
-#### #### Can I eat turkey if I’m on warfarin and have stage 2 CKD?  
+#### Can I eat turkey if I’m on warfarin and have stage 2 CKD?  
 Yes — skinless, roasted turkey breast is one of the most balanced options for **warfarin ck2 protein sources seniors**. It’s naturally low in vitamin K (2–3 mcg per 3-oz serving), moderate in phosphorus (~180 mg), and easy to digest. Just avoid gravy made with giblets (higher vitamin K) or processed turkey products with phosphate additives.
 
-#### #### What are the safest plant-based protein sources for seniors on warfarin and CKD?  
+#### What are the safest plant-based protein sources for seniors on warfarin and CKD?  
 Tofu (especially magnesium-set), lentils, and unsalted edamame are excellent. They offer steady, low-vitamin-K protein with lower phosphorus bioavailability than animal sources. Avoid soy isolates or protein powders unless approved by your dietitian — many contain added phosphates or inconsistent vitamin K levels.
 
-#### #### How does egg white compare to whole eggs for someone managing warfarin and stage 2 CKD?  
+#### How does egg white compare to whole eggs for someone managing warfarin and stage 2 CKD?  
 Egg whites are significantly gentler: zero vitamin K, almost no phosphorus (<5 mg per large white), and no cholesterol concerns. Whole eggs contain ~25 mcg vitamin K in the yolk — not dangerous, but less consistent for INR stability. For holiday baking or breakfasts, swapping in extra egg whites keeps texture and protein intact without risk.
 
-#### #### Do I need to avoid all high-potassium foods during the holidays?  
+#### Do I need to avoid all high-potassium foods during the holidays?  
 Not necessarily — stage 2 CKD rarely requires potassium restriction (serum K⁺ typically stays within normal range: 3.5–5.0 mmol/L). Focus first on phosphorus and vitamin K consistency. Save potassium awareness for later stages — unless your doctor has specifically advised limits based on your labs.
 
-#### #### Is there a risk of muscle loss if I limit protein too much with stage 2 CKD and warfarin?  
+#### Is there a risk of muscle loss if I limit protein too much with stage 2 CKD and warfarin?  
 Yes — and it’s important to guard against it. Older adults need *adequate*, not excessive, protein: ~0.8 g/kg/day (e.g., 55–65 g/day for a 140-lb person). Under-eating protein raises sarcopenia risk, which affects mobility, healing, and even INR stability indirectly via inflammation. Prioritize quality and consistency — not reduction.

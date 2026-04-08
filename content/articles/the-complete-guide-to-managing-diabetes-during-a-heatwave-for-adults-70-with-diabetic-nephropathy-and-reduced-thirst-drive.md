@@ -97,22 +97,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### How can older adults with diabetes stay safe in extreme heat?
+#### How can older adults with diabetes stay safe in extreme heat?
 
 Older adults with diabetes—especially those 70+—need extra attention to hydration, insulin storage, and symptom awareness during heatwaves. Prioritize cool indoor spaces, use electrolyte-balanced fluids (not just plain water), check glucose and weight daily, and never leave insulin unrefrigerated in hot environments. Because thirst diminishes with age and kidney function may be reduced, waiting for thirst is not reliable—scheduled sips every 1–2 hours help prevent dehydration-related glucose spikes and HHS.
 
-#### #### What are the best electrolyte drinks for seniors with diabetes and kidney disease?
+#### What are the best electrolyte drinks for seniors with diabetes and kidney disease?
 
 Avoid sugary sports drinks and high-potassium beverages like coconut water (which contains ~600 mg potassium per cup). Instead, make your own low-sugar, kidney-friendly blend: 500 mL water + 1.5 g salt (≈390 mg sodium) + 1.2 g potassium chloride (≈300 mg potassium). This provides balanced replacement without overloading the kidneys. Always discuss electrolyte plans with your nephrologist—especially if your eGFR is <45 mL/min/1.73m² or potassium is already elevated (>4.5 mmol/L).
 
-#### #### Why does heat cause blood sugar to rise in people with diabetes?
+#### Why does heat cause blood sugar to rise in people with diabetes?
 
 Heat triggers a mild stress response—releasing cortisol and epinephrine—which temporarily reduces insulin sensitivity and prompts the liver to release more glucose. Dehydration compounds this by concentrating blood volume, raising glucose readings *and* making insulin delivery less efficient. In older adults with diabetic nephropathy, reduced kidney clearance of stress hormones and slower fluid regulation make this effect more pronounced—and longer-lasting.
 
-#### #### How can low-income seniors afford cooling during a heatwave?
+#### How can low-income seniors afford cooling during a heatwave?
 
 No-cost and low-cost options include: using fans with bowls of ice, closing blinds during peak sun, opening windows for nighttime cross-ventilation, wearing damp cotton cloths around the neck or wrists, and visiting local senior centers or libraries with air conditioning. Many communities offer utility assistance (LIHEAP) or weatherization programs—contact your Area Agency on Aging for support.
 
-#### #### Is it safe to use SGLT2 inhibitors during a heatwave if you have diabetes?
+#### Is it safe to use SGLT2 inhibitors during a heatwave if you have diabetes?
 
 SGLT2 inhibitors (like empagliflozin or dapagliflozin) increase urinary glucose excretion—and with it, fluid loss. During heatwaves, this raises the risk of dehydration, acute kidney injury, and HHS—especially in adults 70+ with preexisting nephropathy. Talk with your provider *before* hot weather arrives: they may suggest temporary dose reduction or pause during extreme heat, along with closer monitoring of weight, urine output, and creatinine. Never stop medication without medical guidance.

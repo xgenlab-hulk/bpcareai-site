@@ -1,0 +1,480 @@
+{
+  "metadata": {
+    "created_date": "2026-03-23 20:26:24",
+    "last_updated": "2026-03-24",
+    "total_articles": 2209,
+    "completed_articles": 460,
+    "remaining_articles": 1749,
+    "completion_percentage": "20.83",
+    "total_remaining_batches": 37,
+    "batch_size": "50 articles per batch (except partial batches)",
+    "optimization_standard": "MASTER-METADATA-OPTIMIZATION-STANDARD-v2.1.md",
+    "workflow_standard": "BATCH-OPTIMIZATION-STANDARD-WORKFLOW.md"
+  },
+  "completed_batches": [
+    {
+      "batch": "batch-001",
+      "range": "11-20",
+      "articles": 10,
+      "status": "completed",
+      "result_file": "data/llm-two-phase-batch-11-20.json"
+    },
+    {
+      "batch": "batch-002",
+      "range": "21-40",
+      "articles": 20,
+      "status": "completed",
+      "result_file": "data/llm-two-phase-batch-21-40.json"
+    },
+    {
+      "batch": "batch-003",
+      "range": "46-95",
+      "articles": 50,
+      "status": "completed",
+      "result_file": "data/llm-two-phase-batch-46-95.json"
+    },
+    {
+      "batch": "batch-004",
+      "range": "96-145",
+      "articles": 50,
+      "status": "completed",
+      "result_file": "data/llm-two-phase-batch-96-145.json"
+    },
+    {
+      "batch": "batch-005",
+      "range": "146-195",
+      "articles": 50,
+      "status": "completed",
+      "result_file": "data/llm-two-phase-batch-146-195.json"
+    },
+    {
+      "batch": "batch-006",
+      "range": "196-245",
+      "articles": 50,
+      "status": "completed",
+      "result_file": "data/llm-two-phase-batch-196-245.json"
+    },
+    {
+      "batch": "batch-007",
+      "range": "246-295",
+      "articles": 50,
+      "status": "completed",
+      "result_file": "data/llm-two-phase-batch-246-295.json"
+    },
+    {
+      "batch": "batch-008",
+      "range": "296-345",
+      "articles": 50,
+      "status": "completed",
+      "result_file": "data/llm-two-phase-batch-296-345.json"
+    },
+    {
+      "batch": "batch-009",
+      "range": "346-395",
+      "articles": 50,
+      "status": "completed",
+      "result_file": "data/llm-two-phase-batch-346-395.json"
+    },
+    {
+      "batch": "batch-010",
+      "range": "396-475",
+      "articles": 80,
+      "status": "completed",
+      "result_file": "data/llm-two-phase-batch-396-475.json"
+    }
+  ],
+  "remaining_batches": [
+    {
+      "batch_id": "batch-011",
+      "batch_number": 11,
+      "article_range": "1-10",
+      "start_index": 0,
+      "end_index": 9,
+      "total_articles": 10,
+      "priority": "high",
+      "note": "补齐开头缺口",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-012",
+      "batch_number": 12,
+      "article_range": "41-45",
+      "start_index": 40,
+      "end_index": 44,
+      "total_articles": 5,
+      "priority": "high",
+      "note": "补齐中间缺口",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-013",
+      "batch_number": 13,
+      "article_range": "476-525",
+      "start_index": 475,
+      "end_index": 524,
+      "total_articles": 50,
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-014",
+      "batch_number": 14,
+      "article_range": "526-575",
+      "start_index": 525,
+      "end_index": 574,
+      "total_articles": 50,
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-015",
+      "batch_number": 15,
+      "article_range": "576-625",
+      "start_index": 575,
+      "end_index": 624,
+      "total_articles": 50,
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-016",
+      "batch_number": 16,
+      "article_range": "626-675",
+      "start_index": 625,
+      "end_index": 674,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-017",
+      "batch_number": 17,
+      "article_range": "676-725",
+      "start_index": 675,
+      "end_index": 724,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-018",
+      "batch_number": 18,
+      "article_range": "726-775",
+      "start_index": 725,
+      "end_index": 774,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-019",
+      "batch_number": 19,
+      "article_range": "776-825",
+      "start_index": 775,
+      "end_index": 824,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-020",
+      "batch_number": 20,
+      "article_range": "826-875",
+      "start_index": 825,
+      "end_index": 874,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-021",
+      "batch_number": 21,
+      "article_range": "876-925",
+      "start_index": 875,
+      "end_index": 924,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-022",
+      "batch_number": 22,
+      "article_range": "926-975",
+      "start_index": 925,
+      "end_index": 974,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-023",
+      "batch_number": 23,
+      "article_range": "976-1025",
+      "start_index": 975,
+      "end_index": 1024,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-024",
+      "batch_number": 24,
+      "article_range": "1026-1075",
+      "start_index": 1025,
+      "end_index": 1074,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-025",
+      "batch_number": 25,
+      "article_range": "1076-1125",
+      "start_index": 1075,
+      "end_index": 1124,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-026",
+      "batch_number": 26,
+      "article_range": "1126-1175",
+      "start_index": 1125,
+      "end_index": 1174,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-027",
+      "batch_number": 27,
+      "article_range": "1176-1225",
+      "start_index": 1175,
+      "end_index": 1224,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-028",
+      "batch_number": 28,
+      "article_range": "1226-1275",
+      "start_index": 1225,
+      "end_index": 1274,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-029",
+      "batch_number": 29,
+      "article_range": "1276-1325",
+      "start_index": 1275,
+      "end_index": 1324,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-030",
+      "batch_number": 30,
+      "article_range": "1326-1375",
+      "start_index": 1325,
+      "end_index": 1374,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-031",
+      "batch_number": 31,
+      "article_range": "1376-1425",
+      "start_index": 1375,
+      "end_index": 1424,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-032",
+      "batch_number": 32,
+      "article_range": "1426-1475",
+      "start_index": 1425,
+      "end_index": 1474,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-033",
+      "batch_number": 33,
+      "article_range": "1476-1525",
+      "start_index": 1475,
+      "end_index": 1524,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-034",
+      "batch_number": 34,
+      "article_range": "1526-1575",
+      "start_index": 1525,
+      "end_index": 1574,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-035",
+      "batch_number": 35,
+      "article_range": "1576-1625",
+      "start_index": 1575,
+      "end_index": 1624,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-036",
+      "batch_number": 36,
+      "article_range": "1626-1675",
+      "start_index": 1625,
+      "end_index": 1674,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-037",
+      "batch_number": 37,
+      "article_range": "1676-1725",
+      "start_index": 1675,
+      "end_index": 1724,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-038",
+      "batch_number": 38,
+      "article_range": "1726-1775",
+      "start_index": 1725,
+      "end_index": 1774,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-039",
+      "batch_number": 39,
+      "article_range": "1776-1825",
+      "start_index": 1775,
+      "end_index": 1824,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-040",
+      "batch_number": 40,
+      "article_range": "1826-1875",
+      "start_index": 1825,
+      "end_index": 1874,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-041",
+      "batch_number": 41,
+      "article_range": "1876-1925",
+      "start_index": 1875,
+      "end_index": 1924,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-042",
+      "batch_number": 42,
+      "article_range": "1926-1975",
+      "start_index": 1925,
+      "end_index": 1974,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-043",
+      "batch_number": 43,
+      "article_range": "1976-2025",
+      "start_index": 1975,
+      "end_index": 2024,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-044",
+      "batch_number": 44,
+      "article_range": "2026-2075",
+      "start_index": 2025,
+      "end_index": 2074,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-045",
+      "batch_number": 45,
+      "article_range": "2076-2125",
+      "start_index": 2075,
+      "end_index": 2124,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-046",
+      "batch_number": 46,
+      "article_range": "2126-2175",
+      "start_index": 2125,
+      "end_index": 2174,
+      "total_articles": 50,
+      "priority": "normal",
+      "status": "pending"
+    },
+    {
+      "batch_id": "batch-047",
+      "batch_number": 47,
+      "article_range": "2176-2209",
+      "start_index": 2175,
+      "end_index": 2208,
+      "total_articles": 34,
+      "priority": "normal",
+      "status": "pending"
+    }
+  ],
+  "parallel_execution_guide": {
+    "recommended_sessions": 5,
+    "session_1": "Execute batches: batch-011 (1-10), batch-012 (41-45), batch-013 (476-525), batch-014 (526-575)",
+    "session_2": "Execute batches: batch-015 (576-625), batch-016 (626-675), batch-017 (676-725), batch-018 (726-775)",
+    "session_3": "Execute batches: batch-019 (776-825), batch-020 (826-875), batch-021 (876-925), batch-022 (926-975)",
+    "session_4": "Execute batches: batch-023 (976-1025), batch-024 (1026-1075), batch-025 (1076-1125), batch-026 (1126-1175)",
+    "session_5": "Execute batches: batch-027 ~ batch-030 (1176-1375)",
+    "note": "每个session执行4个批次（约200篇文章），避免token超限"
+  },
+  "execution_command_template": {
+    "command": "优化 {batch_id}",
+    "example": "优化 batch-011",
+    "alternative": "按照BATCH-OPTIMIZATION-STANDARD-WORKFLOW.md执行batch-011 (文章1-10)"
+  },
+  "data_integrity_check": {
+    "completed_total": "10+20+50+50+50+50+50+50+50+80 = 460",
+    "remaining_total": "10+5+1734 = 1749",
+    "grand_total": "460+1749 = 2209 ✅",
+    "last_verified": "2026-03-24"
+  }
+}

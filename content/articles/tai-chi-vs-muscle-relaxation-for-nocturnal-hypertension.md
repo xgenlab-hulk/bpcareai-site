@@ -57,17 +57,17 @@ Both seated tai chi and guided progressive muscle relaxation are grounded in phy
 
 ### FAQ
 
-#### #### Is seated tai chi as effective as standing tai chi for lowering nighttime blood pressure?
+#### Is seated tai chi as effective as standing tai chi for lowering nighttime blood pressure?
 Yes—especially for older adults with balance or joint concerns. A 2022 RCT in *Hypertension* found seated tai chi reduced mean nocturnal systolic BP by 6.2 mm Hg over 8 weeks, comparable to standing protocols, likely due to preserved respiratory-coupled vagal activation.
 
-#### #### What’s the difference between progressive muscle relaxation and mindfulness meditation for nocturnal hypertension?
+#### What’s the difference between progressive muscle relaxation and mindfulness meditation for nocturnal hypertension?
 PMR directly reduces somatic tension and lowers catecholamine release, while mindfulness primarily modulates attentional reactivity. For women 63–75 with insomnia, PMR often yields faster improvements in sleep onset and systolic dipping—though combining both may offer additive benefits.
 
-#### #### Can tai chi vs muscle relaxation for nocturnal hypertension replace my blood pressure medication?
+#### Can tai chi vs muscle relaxation for nocturnal hypertension replace my blood pressure medication?
 Not without medical supervision. These practices are complementary—not substitutes—for prescribed therapy. Many participants in clinical trials maintained stable medication doses while gaining improved nocturnal dipping, suggesting synergy rather than replacement.
 
-#### #### How long before I see changes in my nighttime BP readings?
+#### How long before I see changes in my nighttime BP readings?
 Most studies show measurable improvements in nocturnal systolic dipping within 4–6 weeks of consistent practice (5x/week, 10 minutes/session). ABPM is recommended at baseline and again at 8 weeks to objectively assess change.
 
-#### #### Do I need special equipment or training to start tai chi vs muscle relaxation for nocturnal hypertension?
+#### Do I need special equipment or training to start tai chi vs muscle relaxation for nocturnal hypertension?
 No. All you need is a sturdy chair, quiet space, and a free audio guide (many libraries and health systems offer them). No certification or prior experience is required—and both methods are safe for those with pacemakers, osteoarthritis, or mild cognitive changes.

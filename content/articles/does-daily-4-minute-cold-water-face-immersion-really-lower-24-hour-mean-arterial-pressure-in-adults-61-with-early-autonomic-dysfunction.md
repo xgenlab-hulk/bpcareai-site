@@ -57,17 +57,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does cold-face immersion lower mean arterial pressure in seniors with autonomic issues?
+#### Does cold-face immersion lower mean arterial pressure in seniors with autonomic issues?
 Yes—clinical trials in adults 61+ with early autonomic dysfunction show that daily 4-minute cold-face immersion can modestly reduce 24-hour mean arterial pressure, likely by enhancing vagal tone. Average reductions were around 4 mm Hg after eight weeks.
 
-#### #### Is cold-face-immersion-mean-arterial-pressure safe for people with atrial fibrillation?
+#### Is cold-face-immersion-mean-arterial-pressure safe for people with atrial fibrillation?
 Not without medical guidance. While the RCT protocols excluded high-risk AFib cases (e.g., uncontrolled ventricular rate or recent stroke), cold-induced vagal surges can affect rhythm control. Always discuss with your cardiologist first.
 
-#### #### How does cold-face-immersion-mean-arterial-pressure compare to other vagal-toning methods?
+#### How does cold-face-immersion-mean-arterial-pressure compare to other vagal-toning methods?
 Compared to slow breathing or humming, cold-face immersion produces a stronger, more immediate vagal response—making it especially useful for those with measurable autonomic blunting. However, consistency matters more than intensity: even 2–3 sessions weekly show benefit in real-world settings.
 
-#### #### Can I do cold-face immersion if I have carotid sinus sensitivity?
+#### Can I do cold-face immersion if I have carotid sinus sensitivity?
 Proceed only under supervision. Carotid sinus hypersensitivity increases risk of bradycardia or hypotension with vagal stimulation. Your doctor may recommend a carotid sinus massage test first.
 
-#### #### What’s the ideal water temperature for cold-face immersion in older adults?
+#### What’s the ideal water temperature for cold-face immersion in older adults?
 Studies used 10–15°C (50–59°F)—chilly but not painful. Avoid ice-cold water (<5°C), which may trigger excessive sympathetic response. A refrigerator-cooled bottle of water (not frozen) is a safe, accessible option.

@@ -89,17 +89,17 @@ Navigating food choices with type 2 diabetes and aging digestion doesn’t requi
 
 ### FAQ
 
-#### #### Are diabetic protein bars bad for gut health?
+#### Are diabetic protein bars bad for gut health?
 Not inherently—but many contain maltodextrin and emulsifiers like propylene glycol esters that, in older adults with age-related mucosal thinning or prior SIBO, may increase intestinal permeability and promote endotoxin translocation. Individual tolerance varies, so symptom tracking is key.
 
-#### #### What are the safest protein bars for seniors with diabetes and gut concerns?
+#### What are the safest protein bars for seniors with diabetes and gut concerns?
 Look for bars sweetened with whole fruits (e.g., dates), bound with nuts or seeds, and free of maltodextrin, PGEs, and artificial sweeteners exceeding 3 g/serving. Brands emphasizing “no emulsifiers” or “clean-label fermentation” tend to score better—but always verify the ingredient list.
 
-#### #### Do diabetic protein bars gut barrier risk apply to all older adults—or only those with existing gut issues?
+#### Do diabetic protein bars gut barrier risk apply to all older adults—or only those with existing gut issues?
 While risk is highest in those with known SIBO, T2D, or chronic low-grade inflammation, age-related declines in gastric acid, enzyme output, and mucosal repair mean *all* adults over 65 should approach highly processed protein bars with informed caution—not fear.
 
-#### #### Can gut barrier damage from protein bars be reversed?
+#### Can gut barrier damage from protein bars be reversed?
 Yes—intestinal epithelium renews every 3–5 days. Removing disruptive ingredients, supporting digestion (e.g., with bitters or apple cider vinegar before meals), and adding gut-supportive nutrients (zinc carnosine, glutamine, polyphenol-rich foods) can restore barrier function over 4–12 weeks in most cases.
 
-#### #### How do I know if my protein bar is causing gut inflammation?
+#### How do I know if my protein bar is causing gut inflammation?
 Track symptoms: bloating within 30–90 minutes, brain fog, joint aches, or fatigue after eating. Lab markers like elevated serum LPS, zonulin, or hs-CRP—when interpreted alongside clinical context—can offer objective insight. A registered dietitian or functional medicine provider can help guide testing.

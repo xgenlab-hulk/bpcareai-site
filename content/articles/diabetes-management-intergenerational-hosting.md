@@ -85,25 +85,25 @@ If you're unsure, talking to your doctor is always a good idea. With thoughtful 
 
 ### FAQ
 
-#### #### How can I manage diabetes during intergenerational holiday hosting without feeling overwhelmed?
+#### How can I manage diabetes during intergenerational holiday hosting without feeling overwhelmed?
 
 Start small: pick *one* high-impact habit—like checking glucose before your main meal each day—and pair it with a supportive cue (e.g., “After I pour my tea, I’ll test”). Involve family in low-effort, high-meaning tasks: ask grandchildren to help wash berries for a fruit platter, or invite teens to set timers for oven checks. Reducing cognitive load means designing environments where healthy choices are the easiest ones—not relying on willpower alone.
 
-#### #### What are realistic blood sugar targets for adults 61–74 during holiday hosting?
+#### What are realistic blood sugar targets for adults 61–74 during holiday hosting?
 
 For most adults in this age group, individualized targets are recommended—but general guidance from the American Diabetes Association suggests:  
 - Fasting/pre-meal: 90–150 mg/dL  
 - 2 hours after meals: <180 mg/dL  
 - Avoid targets below 80 mg/dL unless closely supervised, due to increased hypoglycemia risk and reduced symptom awareness with age.
 
-#### #### How does caregiver fatigue affect blood glucose control during diabetes management intergenerational hosting?
+#### How does caregiver fatigue affect blood glucose control during diabetes management intergenerational hosting?
 
 Caregiver fatigue elevates cortisol and sympathetic nervous system activity—both of which increase hepatic glucose production and reduce insulin sensitivity. One study found that primary caregivers over 60 experienced an average 12% higher HbA1c than non-caregivers with similar diabetes duration and BMI. Prioritizing rest, delegation, and predictable routines directly supports metabolic stability.
 
-#### #### Is it safe to use over-the-counter cold medicine while managing diabetes during the holidays?
+#### Is it safe to use over-the-counter cold medicine while managing diabetes during the holidays?
 
 Many OTC cold and flu remedies contain sugars (e.g., syrups) or decongestants like pseudoephedrine, which can raise blood glucose and BP. Always check labels for “sugar-free” formulations and avoid products with phenylephrine or pseudoephedrine if you have hypertension or cardiovascular disease. When in doubt, consult your pharmacist or prescriber before use.
 
-#### #### Can mild cognitive changes make diabetes management intergenerational hosting harder—and what helps?
+#### Can mild cognitive changes make diabetes management intergenerational hosting harder—and what helps?
 
 Yes. Mild slowing in working memory or attention can make tracking carb counts, remembering insulin doses, or noticing early hypoglycemia symptoms more difficult. Helpful supports include: large-print medication organizers, automated pill dispensers with alarms, voice-activated glucose logging, and assigning a “glucose buddy”—a trusted family member who checks in once daily to review numbers and flag concerns.

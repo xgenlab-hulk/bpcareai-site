@@ -58,22 +58,22 @@ You don’t need dramatic changes to support your heart’s flexibility. Small, 
 
 ### FAQ
 
-#### #### Can breathing patterns for diastolic blood pressure really lower my bottom number?
+#### Can breathing patterns for diastolic blood pressure really lower my bottom number?
 
 Yes — especially when practiced consistently. Clinical trials show reductions of 5–7 mm Hg in diastolic BP over 8–12 weeks using paced expiration or resonance breathing. Benefits are most pronounced in adults with early diastolic stiffness and elevated E/e’.
 
-#### #### What’s the best breathing pattern for diastolic blood pressure for someone over 50?
+#### What’s the best breathing pattern for diastolic blood pressure for someone over 50?
 
 For adults 53–65, paced expiration (e.g., 4-second inhale / 6–8-second exhale) has the strongest evidence for improving both diastolic BP *and* echo markers like E/e’ and e’ velocity. Resonance frequency breathing (~5.2 breaths/minute) is also highly effective — particularly when guided by HRV feedback.
 
-#### #### How long until I see results from breathing patterns for diastolic blood pressure?
+#### How long until I see results from breathing patterns for diastolic blood pressure?
 
 Most people notice subtle shifts in calmness and morning BP within 1–2 weeks. Echo-measurable improvements (e.g., improved e’ or reduced E/e’) typically emerge after 6–8 weeks of daily 5–10 minute practice.
 
-#### #### Do I need special equipment to use these breathing patterns?
+#### Do I need special equipment to use these breathing patterns?
 
 No — you can start with just a timer and comfortable posture. However, wearable HRV devices (like chest straps or validated wrist-based PPG monitors) help identify your personal resonance frequency and track progress objectively.
 
-#### #### Is it safe to try these breathing patterns if I’m on blood pressure medication?
+#### Is it safe to try these breathing patterns if I’m on blood pressure medication?
 
 Yes — these techniques are complementary, not replacements. Always continue prescribed medications unless directed otherwise by your doctor. Let them know you’re incorporating breathwork; they may adjust dosing as your BP stabilizes.

@@ -44,22 +44,22 @@ In summary, while high-altitude living offers many benefits for retirees, unders
 
 ### FAQ
 
-#### #### Does living at high altitude increase heart disease risk for seniors?
+#### Does living at high altitude increase heart disease risk for seniors?
 
 Yes—reduced oxygen availability increases cardiac output and systemic vascular resistance, which can accelerate atherosclerosis and worsen underlying conditions like hypertension or heart failure. Studies suggest a 15–20% higher incidence of acute coronary events among long-term high-altitude residents over age 65 compared to matched sea-level controls.
 
-#### #### What is the safest altitude for seniors with heart disease?
+#### What is the safest altitude for seniors with heart disease?
 
 For most adults with stable cardiovascular health, elevations below 5,000 feet pose minimal additional risk. Those with moderate-to-severe heart failure, pulmonary hypertension, or recent cardiac events are generally advised to avoid sustained residence above 4,500 feet unless cleared by a cardiologist.
 
-#### #### How does high altitude affect blood pressure in older adults?
+#### How does high altitude affect blood pressure in older adults?
 
 High altitude typically causes an acute 5–12 mm Hg rise in systolic BP during the first week, driven by sympathetic activation and renin-angiotensin system upregulation. In seniors with preexisting hypertension, BP may remain elevated for weeks and require medication adjustment.
 
-#### #### Can altitude trigger atrial fibrillation in retirees?
+#### Can altitude trigger atrial fibrillation in retirees?
 
 Yes—hypoxia-induced autonomic imbalance and atrial stretch from increased pulmonary pressures can precipitate AFib, especially in those with prior episodes or structural heart disease. Incidence rises notably above 6,000 feet.
 
-#### #### Is it safe to start hiking or skiing after moving to a high-altitude retirement community?
+#### Is it safe to start hiking or skiing after moving to a high-altitude retirement community?
 
 It’s safe *with caution*. Begin with short, low-elevation walks and allow 10–14 days for initial acclimatization. Avoid vigorous activity during the first week, and stop immediately if you experience dizziness, palpitations, or chest discomfort. Always carry supplemental oxygen if prescribed.

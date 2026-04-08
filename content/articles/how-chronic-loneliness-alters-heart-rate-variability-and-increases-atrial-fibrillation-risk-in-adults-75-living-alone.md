@@ -55,22 +55,22 @@ In closing, remember that your heart thrives on both physical care and emotional
 
 ### FAQ
 
-#### #### Can loneliness really increase my risk of atrial fibrillation?
+#### Can loneliness really increase my risk of atrial fibrillation?
 
 Yes—research shows that chronic loneliness is associated with physiological changes (like reduced heart rate variability and heightened inflammation) that can contribute to atrial fibrillation development over time. The link is strongest in adults 75+, particularly when combined with other heart health factors.
 
-#### #### Does loneliness and atrial fibrillation risk apply to people who live with others?
+#### Does loneliness and atrial fibrillation risk apply to people who live with others?
 
 It can—loneliness is about perceived isolation, not just physical solitude. Someone living with family may still experience emotional disconnection, which can similarly affect autonomic balance and rhythm stability.
 
-#### #### How does loneliness and atrial fibrillation risk compare to other known risk factors?
+#### How does loneliness and atrial fibrillation risk compare to other known risk factors?
 
 Loneliness appears to carry risk comparable to moderate hypertension or obesity—about a 20–30% increased likelihood of developing AFib over 10 years—based on population-level studies like Framingham and NHANES.
 
-#### #### Is atrial fibrillation dangerous if I feel fine?
+#### Is atrial fibrillation dangerous if I feel fine?
 
 Even without symptoms, untreated AFib can raise stroke risk due to blood pooling in the heart’s upper chambers. That’s why regular check-ins—and listening to your body—are so important.
 
-#### #### What’s the first step if I’m concerned about loneliness and atrial fibrillation risk?
+#### What’s the first step if I’m concerned about loneliness and atrial fibrillation risk?
 
 Start with a compassionate conversation—with yourself, a trusted friend, or your primary care provider. Small steps toward connection and consistent rhythm checks support both emotional peace and heart health.

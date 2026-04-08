@@ -89,22 +89,22 @@ Noticing palpitations during meditation doesn’t mean your practice is harmful�
 
 ### FAQ
 
-#### #### Can meditation cause dangerous heart rhythms in people with aortic stenosis?
+#### Can meditation cause dangerous heart rhythms in people with aortic stenosis?
 
 Meditation itself doesn’t *cause* dangerous rhythms—but the parasympathetic dominance it promotes can unmask or trigger arrhythmias in people with structural heart disease like aortic stenosis and LVOT obstruction. This is especially true if there’s underlying fibrosis or dynamic outflow gradients. It’s not the meditation, but the interaction between your physiology and the practice.
 
-#### #### What does “palpitations meditation aortic stenosis” mean clinically?
+#### What does “palpitations meditation aortic stenosis” mean clinically?
 
 This phrase describes the clinical scenario where adults with known aortic stenosis report new or increased awareness of heartbeat (palpitations) specifically during or immediately after meditation. It signals the need to distinguish benign vagal ectopy from potentially arrhythmogenic responses tied to altered ventricular mechanics or autonomic imbalance.
 
-#### #### Is it safe to continue mindfulness if I have palpitations meditation aortic stenosis?
+#### Is it safe to continue mindfulness if I have palpitations meditation aortic stenosis?
 
 Yes—in most cases, with modifications. Switching from deep-breathing–focused practices to gentler, movement-integrated mindfulness (like mindful walking or breath awareness without extended exhales) is often well-tolerated. Always discuss changes with your cardiologist, especially if you’ve had prior arrhythmias or syncope.
 
-#### #### How long should I wait before seeking evaluation for new palpitations during meditation?
+#### How long should I wait before seeking evaluation for new palpitations during meditation?
 
 Don’t wait. New-onset palpitations in adults 66–79 with known aortic stenosis should be discussed at your next scheduled cardiology visit—or sooner if they occur more than once weekly, last longer than a minute, or are associated with lightheadedness, chest pressure, or shortness of breath.
 
-#### #### Can blood pressure drops during meditation worsen aortic stenosis symptoms?
+#### Can blood pressure drops during meditation worsen aortic stenosis symptoms?
 
 A modest drop in BP (e.g., 10–15 mm Hg systolic) during meditation is normal and usually well-tolerated. However, in severe aortic stenosis, *excessive* vasodilation or bradycardia can reduce coronary perfusion pressure—potentially contributing to subendocardial ischemia and palpitations. That’s why monitoring both HR and BP before/after practice is helpful.

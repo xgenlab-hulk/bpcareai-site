@@ -64,22 +64,22 @@ In closing: small, intentional pauses before meals — especially ones that gent
 
 ### FAQ
 
-#### #### Does guided breathing before dinner really lower blood sugar in older adults?
+#### Does guided breathing before dinner really lower blood sugar in older adults?
 
 Yes — pilot studies show modest but consistent reductions in post-meal glucose among adults 60–72, especially when anxiety or stress is a known contributor. Effects build gradually over 1–2 weeks of daily practice.
 
-#### #### How long should I breathe before dinner for glucose benefits?
+#### How long should I breathe before dinner for glucose benefits?
 
 Ten minutes is optimal based on current data — enough to activate the vagus nerve without feeling burdensome. Shorter sessions (3–5 minutes) may still offer some benefit, but 10 minutes aligns best with observed cortisol and motility shifts.
 
-#### #### Is guided breathing before dinner glucose seniors safe if I have GERD?
+#### Is guided breathing before dinner glucose seniors safe if I have GERD?
 
 Yes — and often helpful. Slow breathing supports gastric motility and reduces esophageal pressure. Avoid lying down immediately after, and pair breathing with upright posture and smaller evening portions.
 
-#### #### Can breathing exercises replace my diabetes medication?
+#### Can breathing exercises replace my diabetes medication?
 
 No. Guided breathing is a supportive, non-pharmacologic strategy — not a substitute for prescribed treatment. Always discuss complementary practices with your care team.
 
-#### #### What’s the best time to do guided breathing before dinner?
+#### What’s the best time to do guided breathing before dinner?
 
 Ideally 10–15 minutes before your first bite — giving your nervous system time to shift into “rest-and-digest” mode before food arrives.

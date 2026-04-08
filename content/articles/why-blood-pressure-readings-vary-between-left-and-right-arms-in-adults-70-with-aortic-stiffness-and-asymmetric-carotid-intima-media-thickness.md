@@ -90,22 +90,22 @@ Vascular aging is part of life—not a flaw to fix, but a process to understand 
 
 ### FAQ
 
-#### #### What is a normal inter-arm blood pressure difference in elderly adults?
+#### What is a normal inter-arm blood pressure difference in elderly adults?
 
 A difference of 10 mm Hg or less in systolic pressure between arms is considered typical and usually reflects normal physiological variation. Differences between 11–14 mm Hg warrant observation over time, while ≥15 mm Hg consistently suggests further evaluation—especially in adults over 70.
 
-#### #### Is an inter-arm blood pressure difference elderly a sign of stroke risk?
+#### Is an inter-arm blood pressure difference elderly a sign of stroke risk?
 
 Not by itself—but when combined with other markers like asymmetric carotid intima-media thickness or aortic stiffness, a persistent inter-arm blood pressure difference elderly of ≥15 mm Hg is associated with modestly increased stroke risk. It’s one piece of a broader vascular assessment—not a standalone predictor.
 
-#### #### Why does blood pressure differ between arms in older adults?
+#### Why does blood pressure differ between arms in older adults?
 
 Differences arise from natural asymmetries in arterial anatomy and age-related changes—especially aortic stiffness and uneven carotid artery wall thickening. These affect how pressure waves travel and dissipate, leading to measurable but often benign variations in readings.
 
-#### #### Can stress or anxiety cause a temporary inter-arm blood pressure difference?
+#### Can stress or anxiety cause a temporary inter-arm blood pressure difference?
 
 Yes—acute stress or white-coat effect can elevate BP in one arm more than another, especially if you're tensing your shoulder or gripping the armrest. That’s why guidelines recommend resting, repeating measurements, and averaging—rather than acting on a single reading.
 
-#### #### Should I always use the arm with the higher reading for monitoring?
+#### Should I always use the arm with the higher reading for monitoring?
 
 Not necessarily. Clinicians often recommend using the arm that gives the *higher* reading for ongoing monitoring—because it offers a more conservative estimate—but only after confirming the difference is consistent across multiple visits. Always discuss your preferred arm with your care team.

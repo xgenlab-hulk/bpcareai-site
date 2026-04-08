@@ -44,17 +44,17 @@ In short, silent celiac symptoms in older women are real, treatable, and often r
 
 ### FAQ
 
-#### #### What are the most common silent celiac symptoms in older women?  
+#### What are the most common silent celiac symptoms in older women?  
 The most common silent celiac symptoms in older women include unexplained fatigue, iron-deficiency anemia (with low ferritin), rapid bone density loss, peripheral neuropathy, and dermatitis herpetiformis (an itchy, blistering rash). Digestive symptoms like diarrhea or bloating may be absent—or very mild.
 
-#### #### Can silent celiac symptoms in older women appear for the first time after age 60?  
+#### Can silent celiac symptoms in older women appear for the first time after age 60?  
 Yes—celiac disease is commonly diagnosed for the first time in women over 60. Studies estimate 20–25% of all celiac diagnoses occur after age 60, often triggered by age-related immune shifts, gut microbiome changes, or cumulative gluten exposure.
 
-#### #### Why does celiac blood testing fail in older women?  
+#### Why does celiac blood testing fail in older women?  
 Serologic tests (like tTG-IgA) become less sensitive after age 60 due to declining IgA production, atypical immune responses, and patchy intestinal damage that doesn’t trigger strong antibody signals. Biopsy remains essential for confirmation in this age group.
 
-#### #### Is there a link between silent celiac disease and heart health in older women?  
+#### Is there a link between silent celiac disease and heart health in older women?  
 Emerging research suggests untreated celiac disease may contribute to chronic inflammation and nutrient deficiencies (e.g., folate, B12, iron) that affect endothelial function and arterial pressure regulation—but direct links to hypertension or heart disease remain observational.
 
-#### #### How long does it take to feel better after starting a gluten-free diet?  
+#### How long does it take to feel better after starting a gluten-free diet?  
 Most women over 64 begin noticing improved energy and digestion within 2–4 weeks. Markers like ferritin and bone turnover may take 6–12 months to normalize—and consistent follow-up with a registered dietitian improves long-term outcomes.

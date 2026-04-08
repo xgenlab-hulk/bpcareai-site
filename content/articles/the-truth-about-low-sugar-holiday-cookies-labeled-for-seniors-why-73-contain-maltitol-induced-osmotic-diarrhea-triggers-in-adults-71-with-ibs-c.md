@@ -91,22 +91,22 @@ Holiday eating doesn’t have to mean choosing between joy and well-being. Under
 
 ### FAQ
 
-#### #### Are low-sugar cookies maltitol seniors ibs safe for people with IBS-C over 70?
+#### Are low-sugar cookies maltitol seniors ibs safe for people with IBS-C over 70?
 
 Not reliably. As noted in clinical studies, 73% of adults aged 71+ with IBS-C develop osmotic diarrhea after consuming ≥5 g of maltitol—common in many commercially labeled “senior” cookies. Maltitol’s incomplete absorption creates water influx in the colon, worsening constipation–diarrhea cycling. Certified low-FODMAP alternatives are safer and better studied in this population.
 
-#### #### What sugar alcohols are safest for seniors with IBS-C during holiday baking?
+#### What sugar alcohols are safest for seniors with IBS-C during holiday baking?
 
 Erythritol is the best-studied low-osmotic sugar alcohol for older adults with IBS-C: >90% is absorbed in the small intestine and excreted unchanged in urine, leaving minimal colonic load. Unlike maltitol or sorbitol, it rarely triggers diarrhea—even at doses up to 10 g per serving. Always pair with low-FODMAP flours and avoid combining with high-fructan or high-lactose ingredients.
 
-#### #### Do “low-sugar cookies maltitol seniors ibs” products ever meet FDA safety standards for older adults?
+#### Do “low-sugar cookies maltitol seniors ibs” products ever meet FDA safety standards for older adults?
 
 No—there are no FDA requirements for age-specific GI safety testing on food labels. “Low-sugar,” “senior-friendly,” or “diabetic-approved” are marketing terms, not regulatory certifications. The FDA does not evaluate or approve these claims for digestive tolerance, especially in aging populations with IBS-C or reduced motilin activity.
 
-#### #### Can maltitol affect blood pressure in seniors?
+#### Can maltitol affect blood pressure in seniors?
 
 Indirectly, yes. Severe osmotic diarrhea can cause acute volume depletion, leading to orthostatic hypotension—especially in those already managing hypertension with medications like ACE inhibitors or diuretics. Chronic electrolyte shifts (e.g., low potassium or magnesium) may also influence arterial pressure regulation over time.
 
-#### #### Are there non-alcohol sweeteners I can use in homemade holiday cookies that won’t trigger IBS-C?
+#### Are there non-alcohol sweeteners I can use in homemade holiday cookies that won’t trigger IBS-C?
 
 Yes. Glucose syrup, pure maple syrup (in strict 1-tsp portions per cookie), and small amounts of Sucralose (when paired with low-FODMAP flours) are generally well-tolerated. Avoid agave nectar (very high in fructose), honey (contains fructose + glucose imbalance), and coconut sugar (contains inulin). Always verify total FODMAP load using the Monash University FODMAP Diet App or consult a registered dietitian specializing in geriatric GI health.

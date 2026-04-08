@@ -78,22 +78,22 @@ Normalizing nocturnal blood pressure dipping is not about chasing perfection—i
 
 ### FAQ
 
-#### #### What does it mean to normalize nocturnal blood pressure dipping—and why is it important for seniors?
+#### What does it mean to normalize nocturnal blood pressure dipping—and why is it important for seniors?
 
 Normalize nocturnal blood pressure dipping means supporting your body’s natural 10–20% drop in blood pressure during sleep—a protective circadian pattern linked to lower stroke and heart failure risk. In adults 70+, non-dipping (a <10% drop) is common but not inevitable. Restoring this rhythm helps reduce long-term strain on arteries, kidneys, and the brain.
 
-#### #### Can changing my pillow height really help normalize nocturnal blood pressure dipping?
+#### Can changing my pillow height really help normalize nocturnal blood pressure dipping?
 
 Yes—modest head elevation (7–10 cm / 3–4 inches) has been shown in clinical studies to improve vagal tone, reduce upper airway resistance, and increase average nocturnal systolic dip by 12–15%. It’s especially helpful for those with mild sleep-disordered breathing or nighttime reflux.
 
-#### #### What bedroom temperature best supports normalizing nocturnal blood pressure dipping?
+#### What bedroom temperature best supports normalizing nocturnal blood pressure dipping?
 
 Research points to **18–19°C (64–66°F)** as optimal. This range supports natural nocturnal core cooling, promotes vasodilation, and avoids sympathetic activation from overheating or shivering. Temperatures above 22°C (72°F) or below 16°C (61°F) are associated with blunted dipping in older adults.
 
-#### #### Is slow breathing before bed actually effective for lowering nighttime blood pressure?
+#### Is slow breathing before bed actually effective for lowering nighttime blood pressure?
 
 Yes—supine diaphragmatic breathing (e.g., 4-7-8 technique) performed nightly for 5–10 minutes has demonstrated measurable effects in ABPM studies: reductions in nocturnal heart rate, lower mean systolic BP, and improved dipping magnitude—likely via enhanced parasympathetic signaling.
 
-#### #### How often should I get ambulatory blood pressure monitoring to check my dipping pattern?
+#### How often should I get ambulatory blood pressure monitoring to check my dipping pattern?
 
 For adults 70+, guidelines suggest ABPM every 2–3 years—even if clinic BP appears well-controlled. It’s especially recommended after diagnosis of hypertension, diabetes, kidney disease, or if you experience symptoms like morning headaches, fatigue, or snoring with pauses in breathing.

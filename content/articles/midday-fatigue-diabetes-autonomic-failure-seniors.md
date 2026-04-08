@@ -94,17 +94,17 @@ Fatigue in later life with diabetes is common, but it’s rarely “just part of
 
 ### FAQ
 
-#### #### What causes sudden midday fatigue in seniors with diabetes?
+#### What causes sudden midday fatigue in seniors with diabetes?
 Sudden midday fatigue in seniors with diabetes can stem from several overlapping factors—including hypoglycemia-associated autonomic failure (where your body stops giving early warnings of low blood sugar), postprandial glucose dips, mild dehydration, medication timing, or early changes in muscle energy metabolism. It’s rarely one single cause, which is why a holistic review—including timing, meals, medications, and activity—is so helpful.
 
-#### #### Is midday fatigue diabetes autonomic failure seniors linked to heart problems?
+#### Is midday fatigue diabetes autonomic failure seniors linked to heart problems?
 Not directly—but autonomic changes that contribute to *midday fatigue diabetes autonomic failure seniors* can affect heart rate regulation and blood pressure stability. That’s why checking for orthostatic BP changes or reduced HRV deceleration capacity matters. These are signs of nervous system adaptation, not heart disease—and often improve with hydration, movement, and medication review.
 
-#### #### Can lifestyle changes really help with midday fatigue in older adults with diabetes?
+#### Can lifestyle changes really help with midday fatigue in older adults with diabetes?
 Yes—often significantly. Studies show that consistent meal timing, moderate morning movement, mindful hydration, and strategic rest periods can improve afternoon energy by 25–40% in adults over 60 with long-standing diabetes. It’s not about doing more—it’s about aligning habits with your body’s natural rhythms.
 
-#### #### What blood tests might help explain midday fatigue in diabetes?
+#### What blood tests might help explain midday fatigue in diabetes?
 While routine labs (A1c, electrolytes, thyroid) are important, your provider may consider checking fasting lactate/pyruvate, vitamin B12, ferritin, and cortisol rhythm—if fatigue is persistent and unexplained. These help rule out contributing nutritional or endocrine factors alongside autonomic or mitochondrial considerations.
 
-#### #### Does metformin cause midday fatigue in seniors?
+#### Does metformin cause midday fatigue in seniors?
 Metformin itself doesn’t typically cause fatigue—but it can contribute to low B12 levels over time (especially in older adults), and B12 deficiency may present as afternoon brain fog or weakness. If you’ve been on metformin for years, asking about B12 status is a simple, worthwhile step.

@@ -95,17 +95,17 @@ Managing both mood and blood pressure as we age is deeply personal work — and 
 
 ### FAQ
 
-#### #### Can antidepressants raise blood pressure when taken with calcium channel blockers?
+#### Can antidepressants raise blood pressure when taken with calcium channel blockers?
 Yes — though not in everyone. Certain antidepressants (especially SNRIs like venlafaxine or duloxetine) may blunt baroreflex sensitivity or amplify orthostatic responses when combined with calcium channel blockers like amlodipine or nifedipine. This can lead to modest but noticeable increases in systolic pressure, particularly during activity or posture changes.
 
-#### #### What are the signs of antidepressant calcium channel blocker interaction?
+#### What are the signs of antidepressant calcium channel blocker interaction?
 Common signs include unexpected rises in home systolic readings (e.g., repeated values ≥145 mm Hg), lightheadedness upon standing, fatigue without clear cause, or increased heart rate variability. Importantly, many people experience *no symptoms at all* — which is why regular home monitoring and annual medication reviews are helpful.
 
-#### #### Are there safer antidepressant options if I’m on a calcium channel blocker?
+#### Are there safer antidepressant options if I’m on a calcium channel blocker?
 Often yes. SSRIs like sertraline and citalopram tend to have lower interaction potential with calcium channel blockers than SNRIs or TCAs. Mirtazapine and bupropion are also considered lower-risk for BP-related synergy — though individual response varies. Your prescriber can weigh benefits, side effects, and your unique health profile.
 
-#### #### Does age increase risk of antidepressant calcium channel blocker interaction?
+#### Does age increase risk of antidepressant calcium channel blocker interaction?
 Yes — adults 72+ face higher risk due to slower drug metabolism, reduced autonomic reserve, and greater likelihood of polypharmacy. However, careful dosing, monitoring, and communication greatly reduce real-world impact.
 
-#### #### Can lifestyle changes reduce the risk of blood pressure spikes from medication interactions?
+#### Can lifestyle changes reduce the risk of blood pressure spikes from medication interactions?
 Absolutely. Consistent hydration, mindful movement, balanced meals, and avoiding abrupt stimulants (like large amounts of caffeine on an empty stomach) support stable autonomic function — helping your body better handle the combined effects of these medications.

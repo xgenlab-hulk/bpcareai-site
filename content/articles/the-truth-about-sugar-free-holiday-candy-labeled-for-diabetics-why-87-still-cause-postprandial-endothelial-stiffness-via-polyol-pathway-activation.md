@@ -83,22 +83,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does sugar-free candy cause high blood pressure in diabetics?
+#### Does sugar-free candy cause high blood pressure in diabetics?
 
 Not directly—but sugar-free candy endothelial stiffness can contribute to *transient increases in arterial pressure*, especially in those with long-standing diabetes. This isn’t sustained hypertension, but repeated episodes may affect long-term vascular health. Monitoring postprandial BP helps identify personal sensitivity.
 
-#### #### Can sugar-free candy endothelial stiffness be reversed?
+#### Can sugar-free candy endothelial stiffness be reversed?
 
 Yes—endothelial function is highly responsive to lifestyle changes. Studies show improvements in FMD within 4–8 weeks of reducing sugar alcohol intake, increasing flavonoid-rich foods (like berries and leafy greens), and maintaining consistent physical activity—even gentle movement counts.
 
-#### #### Is all sugar-free candy bad for people with diabetes?
+#### Is all sugar-free candy bad for people with diabetes?
 
 No—not all. Sugar-free candy endothelial stiffness depends heavily on *which* sweetener is used. Erythritol, allulose, and stevia generally show minimal polyol pathway activation. Maltitol, sorbitol, and xylitol carry higher risk—especially in larger doses (>10 g per serving) or when consumed frequently.
 
-#### #### Why do sugar alcohols affect blood vessels but not blood sugar?
+#### Why do sugar alcohols affect blood vessels but not blood sugar?
 
 Sugar alcohols are only partially absorbed in the small intestine and metabolized slowly—so they cause little glucose rise. But their metabolism *does* activate the polyol pathway, consuming antioxidants and generating oxidative byproducts that directly impair nitric oxide signaling in the endothelium. It’s a separate mechanism from glycemic impact.
 
-#### #### Are children with type 1 diabetes affected the same way?
+#### Are children with type 1 diabetes affected the same way?
 
 Generally, no—children and adolescents typically show less sugar-free candy endothelial stiffness, likely due to greater endothelial reserve and shorter disease duration. However, individual responses vary, and pediatric endocrinologists often recommend limiting sugar alcohols for digestive comfort regardless.

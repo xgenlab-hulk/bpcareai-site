@@ -72,16 +72,16 @@ See your doctor if:
 
 ### FAQ
 
-#### #### Is it realistic to “exercise more after holidays” if I’m over 65 with diabetes?
+#### Is it realistic to “exercise more after holidays” if I’m over 65 with diabetes?
 No — and here’s why: the **exercise more after holidays myth** overlooks how aging muscles respond to sudden activity increases. Without proper protein support and resistance training, added activity often leads to fatigue or injury instead of improved glucose control.
 
-#### #### Does the “exercise more after holidays myth” apply to people with sarcopenic obesity?
+#### Does the “exercise more after holidays myth” apply to people with sarcopenic obesity?
 Yes — especially so. Sarcopenic obesity reduces muscle’s ability to absorb glucose, meaning extra cardio alone rarely improves HbA1c. Resistance-based movement paired with protein timing is far more effective than simply “doing more.”
 
-#### #### What’s the best way to manage diabetes during the holidays without falling for the “exercise more after holidays myth”?
+#### What’s the best way to manage diabetes during the holidays without falling for the “exercise more after holidays myth”?
 Focus on *stability*: maintain baseline movement (even 10-minute sessions), prioritize protein at each meal, and check glucose before and after festive meals. Small, consistent habits protect metabolic health far better than post-holiday “catch-up” efforts.
 
-#### #### Can holiday weight gain reverse on its own in older adults with type 2 diabetes?
+#### Can holiday weight gain reverse on its own in older adults with type 2 diabetes?
 Rarely — and not quickly. Research shows it takes 6–12 weeks of coordinated nutrition and resistance training to regain pre-holiday insulin sensitivity in adults 65+. Waiting until January often extends the metabolic setback.
 
 If you're unsure, talking to your doctor is always a good idea. The **exercise more after holidays myth** may sound harmless — but with the right knowledge and small, steady adjustments, you can enjoy the season *and* protect your long-term health.

@@ -79,22 +79,22 @@ Improving nocturnal BP dipping isn’t about quick fixes — it’s about honori
 
 ### FAQ
 
-#### #### Is magnesium threonate better than glycinate for lowering nighttime blood pressure?
+#### Is magnesium threonate better than glycinate for lowering nighttime blood pressure?
 
 Research suggests magnesium threonate has superior penetration into the brain and cerebrospinal fluid — key for influencing central circadian control of BP. In studies focused on non-dipping patterns, threonate taken at bedtime showed greater improvement in nocturnal systolic reduction than glycinate taken in the morning. However, glycinate taken *at bedtime* still supports parasympathetic tone and may improve dipping indirectly via better sleep onset.
 
-#### #### Can magnesium threonate vs glycinate nocturnal bp dipping affect my sleep quality?
+#### Can magnesium threonate vs glycinate nocturnal bp dipping affect my sleep quality?
 
 Yes — and in different ways. Magnesium glycinate promotes relaxation and sleep initiation via glycine’s action on GABA receptors. Magnesium threonate supports deeper, more restorative slow-wave sleep due to its effects on synaptic plasticity and SCN regulation. Both may improve nocturnal BP dipping, but through complementary pathways — glycinate for early-night stability, threonate for sustained overnight autonomic balance.
 
-#### #### Does timing matter more than the type of magnesium for nocturnal BP dipping?
+#### Does timing matter more than the type of magnesium for nocturnal BP dipping?
 
 Timing and type interact significantly. Taking magnesium glycinate in the morning offers little benefit for nocturnal dipping and may blunt healthy cortisol dynamics. Similarly, threonate taken in the morning misses its optimal window for CSF accumulation and sleep-phase support. For improving nocturnal BP dipping, bedtime dosing is strongly supported — regardless of form — but the *form* determines *how deeply* it influences central regulatory systems.
 
-#### #### Are there risks to taking magnesium for BP in older women?
+#### Are there risks to taking magnesium for BP in older women?
 
 At appropriate doses (≤350 mg elemental Mg/day for glycinate; ≤1,440 mg for threonate), risks are low in healthy kidneys. However, women with stage 3+ chronic kidney disease (eGFR <60 mL/min/1.73m²), heart block, or on certain antibiotics or muscle relaxants should consult a clinician first. Diarrhea is the most common side effect — often dose-dependent and resolved by splitting doses or switching forms.
 
-#### #### How long does it take to see changes in nocturnal BP dipping with magnesium?
+#### How long does it take to see changes in nocturnal BP dipping with magnesium?
 
 Most clinical studies show measurable improvements in nocturnal systolic dipping after 4–8 weeks of consistent, correctly timed supplementation. Because BP dipping reflects integrated autonomic, hormonal, and vascular adaptation, patience and consistency matter more than rapid change. Pairing magnesium with sleep hygiene and regular physical activity typically yields the most sustainable results.

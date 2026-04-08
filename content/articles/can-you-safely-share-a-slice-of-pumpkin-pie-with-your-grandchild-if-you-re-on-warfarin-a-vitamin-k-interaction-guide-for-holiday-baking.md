@@ -61,17 +61,17 @@ In short: pumpkin pie isn’t off-limits. With mindful choices and a little prep
 
 ### FAQ
 
-#### #### Does pumpkin pie interfere with warfarin?
+#### Does pumpkin pie interfere with warfarin?
 Yes—but usually only if portions or ingredients vary significantly from your usual intake. Plain pumpkin pie is low in vitamin K, so moderate, consistent servings typically pose minimal risk to INR stability.
 
-#### #### Is pumpkin pie safe for someone on warfarin?
+#### Is pumpkin pie safe for someone on warfarin?
 Yes, with awareness. *Pumpkin pie warfarin vitamin k safety* depends less on the pie itself and more on ingredient consistency, portion size, and overall weekly vitamin K pattern. Most people can safely enjoy 1–2 modest slices per week.
 
-#### #### Can I eat pumpkin pie while taking warfarin if I skip the crust?
+#### Can I eat pumpkin pie while taking warfarin if I skip the crust?
 Skipping the crust reduces calories and carbs—but won’t meaningfully lower vitamin K, since the filling contributes very little to begin with. Focus instead on avoiding unexpected high-K additions (like spinach purée or wheat germ).
 
-#### #### What desserts are safest on warfarin?
+#### What desserts are safest on warfarin?
 Low-vitamin-K options include angel food cake, plain rice pudding, fruit crisp (without kale or spinach), and sorbet. Always check labels for hidden greens or fortified flours.
 
-#### #### Does canned pumpkin have more vitamin K than fresh?
+#### Does canned pumpkin have more vitamin K than fresh?
 No—both contain similarly low levels (~1–2 mcg per ½ cup). Canned pumpkin puree (100% pumpkin, no fillers) is actually a reliable, consistent choice for warfarin users.

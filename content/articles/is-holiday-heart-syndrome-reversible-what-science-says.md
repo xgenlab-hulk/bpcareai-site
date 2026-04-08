@@ -89,17 +89,17 @@ Holiday heart syndrome is overwhelmingly a temporary, reversible response—not 
 
 ### FAQ
 
-#### #### Is holiday heart syndrome reversible in older adults?
+#### Is holiday heart syndrome reversible in older adults?
 Yes—studies confirm that in adults aged 50–75 with no structural heart disease, holiday heart syndrome is typically reversible within 24–48 hours. Recovery rates remain high (over 90%) even in this age group, especially when alcohol intake is limited and hydration is maintained.
 
-#### #### Can holiday heart syndrome become permanent?
+#### Can holiday heart syndrome become permanent?
 In rare cases—particularly with repeated, unaddressed episodes or underlying conditions like untreated hypertension or chronic AFib—it may contribute to atrial remodeling over time. However, for the vast majority of healthy adults, it does not lead to permanent arrhythmia or heart damage. Early prevention makes *holiday heart syndrome reversible* the expected outcome.
 
-#### #### How long does holiday heart syndrome last?
+#### How long does holiday heart syndrome last?
 Most episodes resolve spontaneously within 12–24 hours. Clinical guidelines define “transient” as lasting under 48 hours. If symptoms persist beyond two days—or recur frequently—it’s wise to consult a cardiologist to rule out other causes.
 
-#### #### Does drinking red wine protect against holiday heart syndrome?
+#### Does drinking red wine protect against holiday heart syndrome?
 No. While resveratrol in red wine has been studied for antioxidant effects, alcohol itself remains the primary trigger. All types of alcohol—including red wine, beer, and spirits—carry similar arrhythmia risk when consumed in excess. Moderation, not beverage choice, is key.
 
-#### #### What’s the link between holiday heart syndrome and blood pressure?
+#### What’s the link between holiday heart syndrome and blood pressure?
 Elevated blood pressure (especially systolic >140 mm Hg) increases strain on the atria and promotes electrical instability. Sodium overload, dehydration, and stress—all common during holidays—can raise BP acutely, compounding arrhythmia risk. Managing arterial pressure supports rhythm stability.

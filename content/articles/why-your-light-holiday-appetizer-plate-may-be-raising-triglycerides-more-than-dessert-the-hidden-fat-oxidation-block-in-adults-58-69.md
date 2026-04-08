@@ -63,17 +63,17 @@ In short: You *can* enjoy the flavors and connections of the season while honori
 
 ### FAQ
 
-#### #### Do holiday appetizers triglycerides seniors rise more than desserts?
+#### Do holiday appetizers triglycerides seniors rise more than desserts?
 Yes—for many adults aged 58–69, high-refined-fat, low-protein appetizers (like cheese boards or oil-heavy dips) cause larger and longer-lasting triglyceride spikes than moderate-sugar desserts with protein/fiber (e.g., baked apples with walnuts and Greek yogurt). Post-meal triglycerides can stay elevated 4+ hours after appetizers vs. ~2.5 hours after balanced desserts.
 
-#### #### What are the safest holiday appetizers triglycerides seniors can enjoy?
+#### What are the safest holiday appetizers triglycerides seniors can enjoy?
 Look for options with <7g saturated fat and ≥5g protein per serving: marinated white beans, smoked salmon on cucumber rounds, roasted beet & goat cheese bites (with modest portions), or spiced edamame. Avoid anything fried, heavily processed, or served with refined carbs alone.
 
-#### #### Can holiday appetizers triglycerides seniors affect blood pressure?
+#### Can holiday appetizers triglycerides seniors affect blood pressure?
 Indirectly—yes. Chronically elevated triglycerides contribute to arterial stiffness and endothelial inflammation, which can raise systolic BP over time. While one appetizer won’t shift your reading, repeated postprandial spikes may compound long-term vascular changes.
 
-#### #### How soon after eating do triglycerides peak in seniors?
+#### How soon after eating do triglycerides peak in seniors?
 Typically between 2–4 hours post-meal—later than in younger adults. Peak levels often occur around the 3-hour mark, and clearance may take up to 6 hours in those with reduced mitochondrial efficiency.
 
-#### #### Is fasting before a holiday party helpful for managing triglycerides?
+#### Is fasting before a holiday party helpful for managing triglycerides?
 Not usually—and it may backfire. Going too long without food can trigger insulin resistance and increase post-meal triglyceride production. A light, protein-fiber snack (e.g., a small handful of almonds + half an apple) 60–90 minutes before arriving helps prime fat-burning pathways.

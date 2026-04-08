@@ -89,22 +89,22 @@ Feeling your pulse quicken and your shoulders tighten during the morning commute
 
 ### FAQ
 
-#### #### Why does my blood pressure spike only during my morning commute—but not at home or work?
+#### Why does my blood pressure spike only during my morning commute—but not at home or work?
 
 This is called *contextual or situational hypertension*. It reflects how strongly your autonomic nervous system responds to specific stressors—like unpredictability, time pressure, or sensory overload—rather than overall vascular health. Home readings reflect rest; commute readings reflect reactivity. Both matter.
 
-#### #### Is a morning commute blood pressure spike dangerous?
+#### Is a morning commute blood pressure spike dangerous?
 
 Occasional spikes aren’t harmful—but frequent, large surges (e.g., >150/95 mm Hg) lasting longer than 15–20 minutes may contribute to arterial remodeling over time. Think of it like repeatedly revving a car engine: the engine works, but wear accumulates. Monitoring helps determine whether it’s occasional or habitual.
 
-#### #### Can anxiety cause a morning commute blood pressure spike even if I don’t feel “anxious”?
+#### Can anxiety cause a morning commute blood pressure spike even if I don’t feel “anxious”?
 
 Yes. Many adults describe feeling “just rushed” or “a little annoyed”—not full-blown anxious—but their physiology tells a different story. Subclinical stress (what we call “low-grade vigilance”) activates the same pathways as overt anxiety. Heart rate variability (HRV) studies confirm this: even mild mental load during commuting correlates with reduced HRV and elevated BP.
 
-#### #### Does caffeine make my morning commute blood pressure spike worse?
+#### Does caffeine make my morning commute blood pressure spike worse?
 
 It can—especially if consumed within 30–60 minutes of a stressful commute. Caffeine temporarily increases both heart rate and vascular resistance. For sensitive individuals, even one cup of coffee may add 5–10 mm Hg to an already elevated reading. Try delaying caffeine until *after* you’ve settled in—or switching to half-caff for a week to test the difference.
 
-#### #### Will deep breathing really lower my blood pressure during my commute?
+#### Will deep breathing really lower my blood pressure during my commute?
 
 Yes—when practiced consistently. Controlled breathing stimulates the vagus nerve, which directly slows heart rate and encourages vasodilation. In clinical trials, 5 minutes of paced breathing before a stressor reduced peak systolic BP by an average of 7–9 mm Hg. It’s not magic—it’s physiology, working in your favor.

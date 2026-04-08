@@ -85,22 +85,22 @@ Understanding *frozen dinners sodium left ventricular hypertrophy* isn’t about
 
 ### FAQ
 
-#### #### Are all frozen dinners bad for heart health?
+#### Are all frozen dinners bad for heart health?
 
 Not at all. Many frozen meals—especially those labeled “low sodium” (≤140 mg per serving) or carrying the AHA Heart-Check mark—can fit comfortably into a heart-healthy eating pattern. The key is reading labels carefully and prioritizing meals with whole-food ingredients and minimal additives.
 
-#### #### Can frozen dinners sodium left ventricular hypertrophy be reversed with diet changes?
+#### Can frozen dinners sodium left ventricular hypertrophy be reversed with diet changes?
 
 Yes—especially when caught early. Reducing sodium intake, combined with regular physical activity and optimal blood pressure control, has been shown in clinical studies to reduce left ventricular mass over 6–12 months. Even modest reductions (e.g., cutting daily sodium by 500–800 mg) can support positive structural changes.
 
-#### #### How much sodium is safe if I have left ventricular hypertrophy?
+#### How much sodium is safe if I have left ventricular hypertrophy?
 
 The American Heart Association recommends no more than 1,500 mg of sodium per day for adults with diagnosed LVH or high cardiovascular risk. Some individuals may benefit from even lower targets (e.g., 1,200 mg), depending on kidney function and overall health—so personalization with your healthcare team is ideal.
 
-#### #### Do frozen dinners labeled “for seniors” meet heart health guidelines?
+#### Do frozen dinners labeled “for seniors” meet heart health guidelines?
 
 Often, no. While these products may be lower in fat or higher in calcium, most still contain 1,600–2,200 mg sodium per package—well above current AHA recommendations. Marketing terms like “senior-friendly” don’t guarantee alignment with updated cardiac guidelines.
 
-#### #### What are early signs of sodium-related heart strain in older adults?
+#### What are early signs of sodium-related heart strain in older adults?
 
 Subtle signs may include increased daytime fatigue, mild ankle swelling that improves overnight, needing to sleep propped up on extra pillows, or feeling unusually winded during routine activities like walking or grocery shopping. None of these alone confirm a problem—but together, they invite gentle follow-up with your provider.

@@ -70,17 +70,17 @@ In short, *silent electrical heart deterioration signs* are real, measurable, an
 
 ### FAQ
 
-#### #### What are the earliest silent electrical heart deterioration signs in older adults?  
+#### What are the earliest silent electrical heart deterioration signs in older adults?  
 The earliest signs include subtle T-wave alternans, prolonged and variable QT intervals during slow heart rates, and increased P-wave dispersion on resting ECG—all detectable before symptoms like palpitations or dizziness appear.
 
-#### #### Can silent electrical heart deterioration signs show up even with normal blood pressure?  
+#### Can silent electrical heart deterioration signs show up even with normal blood pressure?  
 Yes. While hypertension increases risk, these signs stem from structural changes in conduction tissue—not just arterial pressure. Many adults with well-controlled BP (e.g., 128/76 mm Hg) still show early ECG variability patterns linked to fibrosis.
 
-#### #### Are silent electrical heart deterioration signs the same as heart disease?  
+#### Are silent electrical heart deterioration signs the same as heart disease?  
 Not exactly. They’re *preclinical markers*—early warning signals of declining electrical integrity that *increase the risk* of heart disease (especially arrhythmias and conduction block), but aren’t heart disease themselves. Think of them like “wear and tear” on the heart’s wiring.
 
-#### #### How often should someone 75+ get an ECG focused on variability?  
+#### How often should someone 75+ get an ECG focused on variability?  
 There’s no universal guideline yet—but if you have two or more risk factors (e.g., diabetes + family history), discussing a 5-minute resting ECG analysis with variability assessment every 12–24 months is increasingly supported by electrophysiology experts.
 
-#### #### Do home ECG devices pick up silent electrical heart deterioration signs?  
+#### Do home ECG devices pick up silent electrical heart deterioration signs?  
 Most consumer-grade single-lead devices (like smartwatch ECGs) aren’t designed to detect T-wave alternans or QT hysteresis reliably. Clinical-grade multi-lead recordings and specialized software are currently needed for accurate interpretation.

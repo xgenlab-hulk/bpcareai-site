@@ -48,17 +48,17 @@ Blood pressure management 80 plus orthostatic isn’t about hitting arbitrary ta
 
 ### FAQ  
 
-#### #### What is the safest blood pressure target for someone over 80 with orthostatic hypotension?  
+#### What is the safest blood pressure target for someone over 80 with orthostatic hypotension?  
 For adults 80+, guidelines (like the 2023 ACC/AHA update) emphasize individualized goals. Rather than a universal number, focus shifts to maintaining *upright* SBP ≥110 mm Hg (if tolerated) and avoiding symptomatic drops. Supine targets above 150/90 mm Hg may be acceptable if upright stability is preserved.
 
-#### #### How does blood pressure management 80 plus orthostatic differ from standard hypertension treatment?  
+#### How does blood pressure management 80 plus orthostatic differ from standard hypertension treatment?  
 Standard treatment often prioritizes lowering seated BP — but in orthostatic cases, that can worsen dizziness and falls. Blood pressure management 80 plus orthostatic emphasizes upright tolerance, cerebral perfusion, and cautious medication review — not just reducing numbers.
 
-#### #### Can orthostatic hypotension cause memory problems in adults over 80?  
+#### Can orthostatic hypotension cause memory problems in adults over 80?  
 Yes — repeated brief reductions in cerebral perfusion pressure may contribute to cognitive fluctuations or accelerate vascular cognitive impairment. While not the sole cause, optimizing upright BP stability supports long-term brain health.
 
-#### #### Are beta-blockers safe for older adults with orthostatic hypotension and syncope?  
+#### Are beta-blockers safe for older adults with orthostatic hypotension and syncope?  
 Generally, no — beta-blockers (especially non-selective ones) can blunt compensatory tachycardia and worsen orthostasis. They require careful reassessment and often dose reduction or discontinuation in this population.
 
-#### #### What lifestyle changes help most with blood pressure management 80 plus orthostatic?  
+#### What lifestyle changes help most with blood pressure management 80 plus orthostatic?  
 Prioritize slow positional changes, daytime compression garments, consistent fluid/sodium intake, and physical counter-maneuvers. Avoid alcohol, large meals, and overheating — all of which amplify orthostatic stress.

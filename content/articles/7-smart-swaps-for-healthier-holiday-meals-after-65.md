@@ -78,17 +78,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What are the best healthy holiday swaps for seniors with high blood pressure?
+#### What are the best healthy holiday swaps for seniors with high blood pressure?
 For seniors managing hypertension, focus on reducing sodium (aim for <1,500 mg/day), increasing potassium-rich foods (like sweet potatoes, spinach, bananas), and choosing unsaturated fats over saturated ones. Swap canned soups for homemade broths, use lemon juice and herbs instead of salt, and opt for baked or roasted dishes over fried. These changes support healthier arterial pressure and overall cardiovascular resilience.
 
-#### #### Can healthy holiday swaps for seniors really improve digestion?
+#### Can healthy holiday swaps for seniors really improve digestion?
 Yes—especially when they increase fiber and reduce processed ingredients. Swapping refined grains for whole grains, adding cooked or lightly steamed vegetables, and including fermented foods like plain yogurt or sauerkraut (in moderation) can promote gentler digestion. Staying well-hydrated and chewing mindfully also play key roles—particularly important as digestive enzyme production may shift with age.
 
-#### #### Are there healthy holiday swaps for seniors with diabetes?
+#### Are there healthy holiday swaps for seniors with diabetes?
 Absolutely. Prioritize lower-glycemic carbohydrates (like roasted squash or barley instead of white rice), pair sweets with protein or healthy fat (e.g., a small piece of dark chocolate with almonds), and use natural sweeteners like cinnamon or mashed banana in baking. Monitoring portion sizes and spreading carbohydrate intake across meals helps maintain steadier blood sugar—and supports sustained energy through the holidays.
 
-#### #### How much sodium is too much for seniors during the holidays?
+#### How much sodium is too much for seniors during the holidays?
 For most adults over 65—especially those with hypertension, heart failure, or kidney concerns—the American Heart Association recommends no more than 1,500 mg of sodium per day. That’s less than one teaspoon of salt. Keep in mind that just one serving of traditional stuffing or gravy can contain 500–900 mg—so small swaps (like low-sodium broth or herb-based seasoning) add up quickly.
 
-#### #### Do healthy holiday swaps for seniors mean giving up favorite dishes?
+#### Do healthy holiday swaps for seniors mean giving up favorite dishes?
 Not at all. It means reimagining them—with care and creativity. Think of swaps as upgrades, not removals: richer flavor from spices instead of salt, natural sweetness from fruit instead of sugar, satisfying texture from nuts or beans instead of heavy cream. Your favorite dishes can still shine—they’ll just carry a little more nourishment, and a little more love.

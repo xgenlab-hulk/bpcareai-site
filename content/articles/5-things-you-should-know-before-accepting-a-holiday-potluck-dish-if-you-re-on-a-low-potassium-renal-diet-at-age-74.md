@@ -55,17 +55,17 @@ In short: You’re not being difficult—you’re being thoughtful. With gentle 
 
 ### FAQ  
 
-#### #### Can I bring my own dish to a holiday potluck if I’m on a low-potassium renal diet?  
+#### Can I bring my own dish to a holiday potluck if I’m on a low-potassium renal diet?  
 Yes—and it’s encouraged! Bringing a kidney-friendly dish (like baked cod with lemon-dill quinoa or roasted zucchini rounds) gives you a safe option and often sparks friendly conversation. Just label it simply: “Kidney-friendly—happy to share!”
 
-#### #### What are the top hidden potassium sources in holiday dishes for low-potassium holiday potluck seniors?  
+#### What are the top hidden potassium sources in holiday dishes for low-potassium holiday potluck seniors?  
 Tomato paste/sauce, dried fruits (cranberries, apricots, raisins), molasses, chocolate, nuts, potatoes (especially skins), and salt substitutes containing potassium chloride. Even “healthy” additions like spinach in a quiche or avocado in a dip add up quickly.
 
-#### #### How can low-potassium holiday potluck seniors handle offers of food without seeming ungrateful?  
+#### How can low-potassium holiday potluck seniors handle offers of food without seeming ungrateful?  
 A sincere “This looks wonderful—I’ll take just a small taste” or “I’m focusing on kidney-friendly choices this season, but thank you so much for thinking of me!” works beautifully. Most hosts appreciate honesty far more than perfection.
 
-#### #### Is it safe to eat mashed potatoes at a holiday meal if I have CKD?  
+#### Is it safe to eat mashed potatoes at a holiday meal if I have CKD?  
 Plain mashed potatoes are high in potassium (~500 mg per cup), but you can reduce it by peeling, cutting into small pieces, soaking in warm water for 2+ hours, then boiling. Even then, stick to a ¼-cup portion—and skip the skin and milk/butter blends high in phosphorus.
 
-#### #### Do blood pressure medications affect potassium levels during the holidays?  
+#### Do blood pressure medications affect potassium levels during the holidays?  
 Yes—ACE inhibitors (e.g., lisinopril), ARBs (e.g., losartan), and certain diuretics (like spironolactone) can raise potassium. If you’re on any of these, extra vigilance around holiday foods is wise—especially when combined with dehydration or reduced activity.

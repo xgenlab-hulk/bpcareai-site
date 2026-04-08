@@ -87,22 +87,22 @@ The key is never rushing, never assuming, and always partnering with your care t
 
 ### FAQ
 
-#### #### Can magnesium threonate interact with beta-blockers like metoprolol or carvedilol?
+#### Can magnesium threonate interact with beta-blockers like metoprolol or carvedilol?
 
 Yes—though clinically significant interactions are uncommon. Magnesium threonate doesn’t directly block beta-receptors or alter beta-blocker metabolism, but it may mildly enhance heart-rate slowing or QT interval effects in sensitive individuals. No major adverse events were reported in pilot studies using standard doses (≤1,500 mg elemental Mg/day) in adults 71+ on stable beta-blocker therapy.
 
-#### #### Is magnesium threonate beta blocker safety a real concern for seniors with mild heart failure?
+#### Is magnesium threonate beta blocker safety a real concern for seniors with mild heart failure?
 
 It *can be*, but mostly in specific contexts—like reduced kidney function, polypharmacy with other QT-prolonging drugs, or very high supplemental doses. For most older adults with preserved renal function and no arrhythmia history, magnesium threonate beta blocker safety is well-supported by current evidence—provided baseline and follow-up labs and ECGs are done.
 
-#### #### Does magnesium threonate raise blood pressure? Or lower it?
+#### Does magnesium threonate raise blood pressure? Or lower it?
 
 Magnesium threonate does *not* raise blood pressure—in fact, magnesium generally supports healthy vascular relaxation. Studies show modest BP reductions (average −2.0 to −3.5 mm Hg systolic) with consistent magnesium supplementation in older adults, especially those with existing hypertension. This effect is complementary—not conflicting—with beta-blockers.
 
-#### #### How much magnesium threonate is safe to take daily with a beta-blocker?
+#### How much magnesium threonate is safe to take daily with a beta-blocker?
 
 Most clinical pilots in adults 71+ used 1,000–1,500 mg of *elemental* magnesium daily (roughly 7,000–11,000 mg of magnesium threonate salt), split into two doses. Always confirm dosage with your provider—and never exceed 2,000 mg elemental Mg/day without medical supervision.
 
-#### #### Can magnesium threonate improve memory in people over 70 who are on heart medications?
+#### Can magnesium threonate improve memory in people over 70 who are on heart medications?
 
 Early pilot data suggests yes. A 12-week trial in adults aged 71–84 with mild cognitive complaints showed statistically significant improvements in verbal recall and executive function tests among those taking magnesium threonate vs. placebo—*and* no increase in cardiac adverse events, even among those on beta-blockers or ACE inhibitors.

@@ -89,21 +89,21 @@ Understanding what your glucose numbers truly represent—not just whether they 
 
 ### FAQ
 
-#### #### Is 95 mg/dL fasting glucose normal for someone over 70?
+#### Is 95 mg/dL fasting glucose normal for someone over 70?
 Yes, 95 mg/dL falls within the commonly used *fasting glucose normal range over 70*, but it warrants attention in context. If accompanied by other risk factors—such as abdominal weight gain, high triglycerides, or rising HbA1c—it may indicate early beta-cell strain. It’s not inherently dangerous, but it’s a prompt to assess overall metabolic health.
 
-#### #### What is the fasting glucose normal range over 70 according to current guidelines?
+#### What is the fasting glucose normal range over 70 according to current guidelines?
 Major guidelines (ADA, IDF, WHO) do not define a separate fasting glucose normal range over 70. They retain the standard adult range of 70–99 mg/dL. However, population data show median fasting glucose rises gradually with age—so while 95–105 mg/dL is increasingly common in older adults, it’s not synonymous with optimal beta-cell health.
 
-#### #### Can fasting glucose be “normal” but still indicate early diabetes risk in older adults?
+#### Can fasting glucose be “normal” but still indicate early diabetes risk in older adults?
 Absolutely. Up to 30% of adults over 70 with fasting glucose in the 90–99 mg/dL range have isolated impaired glucose tolerance or reduced first-phase insulin response. These individuals often progress to diabetes faster than younger counterparts with identical glucose values—highlighting why functional assessment matters more than static thresholds.
 
-#### #### What tests best evaluate beta-cell function in older adults?
+#### What tests best evaluate beta-cell function in older adults?
 The most accessible and clinically useful tests include:  
 - Oral Glucose Tolerance Test (OGTT) with 2-hour glucose and insulin/C-peptide  
 - HOMA-B calculation (requires fasting insulin or C-peptide + glucose)  
 - Fasting proinsulin-to-insulin ratio (elevated ratio suggests beta-cell stress)  
 Advanced testing (e.g., hyperglycemic clamps) is reserved for research settings.
 
-#### #### Does high-normal fasting glucose in older adults always lead to diabetes?
+#### Does high-normal fasting glucose in older adults always lead to diabetes?
 No—not inevitably. Many individuals stabilize or even improve with lifestyle intervention, especially when changes begin early. Longitudinal data suggest that about 40–50% of older adults with fasting glucose 100–109 mg/dL avoid diabetes over 10 years with consistent physical activity, dietary pattern shifts, and weight management—if started before significant beta-cell loss occurs.

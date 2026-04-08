@@ -60,17 +60,17 @@ Heart health isn’t about waiting for alarms—it’s about tending with awaren
 
 ### FAQ
 
-#### #### Can asymptomatic heart disease subclinical atherosclerosis cause a heart attack?
+#### Can asymptomatic heart disease subclinical atherosclerosis cause a heart attack?
 Yes. Because plaque rupture—not just narrowing—triggers most heart attacks, people with **asymptomatic heart disease subclinical atherosclerosis** can experience a first event without warning. Vulnerable features like large necrotic cores or thin caps are often invisible on routine tests.
 
-#### #### What’s the difference between asymptomatic heart disease subclinical atherosclerosis and stable angina?
+#### What’s the difference between asymptomatic heart disease subclinical atherosclerosis and stable angina?
 Stable angina causes predictable chest discomfort with exertion due to significant stenosis (usually >70%). **Asymptomatic heart disease subclinical atherosclerosis**, by contrast, involves plaque buildup too mild to limit flow—but potentially unstable at the microscopic level.
 
-#### #### Does a normal stress echo rule out asymptomatic heart disease subclinical atherosclerosis?
+#### Does a normal stress echo rule out asymptomatic heart disease subclinical atherosclerosis?
 No. Stress echo evaluates heart muscle response to increased demand but cannot detect non-obstructive or vulnerable plaque. It’s an excellent test for certain concerns—but not for early, silent atherosclerosis.
 
-#### #### At what age should I start screening for asymptomatic heart disease subclinical atherosclerosis?
+#### At what age should I start screening for asymptomatic heart disease subclinical atherosclerosis?
 Guidelines suggest discussing CAC scoring starting at age 40–45 for those with multiple risk factors—and routinely by age 50–55, especially if family history or elevated BP/LDL is present.
 
-#### #### Is there a blood test for asymptomatic heart disease subclinical atherosclerosis?
+#### Is there a blood test for asymptomatic heart disease subclinical atherosclerosis?
 No single blood test diagnoses it, but markers like high-sensitivity CRP, Lp(a), and apoB offer clues about inflammation and atherogenic particle burden—helping refine risk beyond standard cholesterol panels.

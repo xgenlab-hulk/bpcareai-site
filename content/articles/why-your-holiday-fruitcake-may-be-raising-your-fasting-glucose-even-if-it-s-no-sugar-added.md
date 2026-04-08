@@ -44,17 +44,17 @@ In short, enjoying holiday traditions doesn’t require eliminating fruitcake—
 
 ### FAQ
 
-#### #### Does fruitcake raise fasting glucose in seniors even without added sugar?
+#### Does fruitcake raise fasting glucose in seniors even without added sugar?
 Yes—dried fruits alone contain high concentrations of natural glucose and fructose, and aging triggers enzymatic breakdown of resistant starches into absorbable sugars. Studies confirm that *fruitcake fasting glucose seniors* often rises 15–25 mg/dL after consuming just 1 oz, regardless of added sugar.
 
-#### #### Can fruitcake fasting glucose seniors be managed with diet alone?
+#### Can fruitcake fasting glucose seniors be managed with diet alone?
 Often, yes—especially in early prediabetes. Replacing half the dried fruit with low-glycemic alternatives (e.g., stewed plums, chia gel) and pairing with protein (e.g., a small portion of cheese) can reduce the glycemic load by up to 35%, per clinical nutrition trials.
 
-#### #### Is fruitcake worse for fasting glucose than other holiday desserts like pie or cookies?
+#### Is fruitcake worse for fasting glucose than other holiday desserts like pie or cookies?
 Compared to apple pie (GI ~45) or shortbread (GI ~55), traditional fruitcake has a GI of ~62–68 due to its density, low water content, and high fructose ratio—making it more likely to sustain elevated overnight glucose. However, portion size remains the strongest modifiable factor.
 
-#### #### How long does fruitcake affect blood sugar?
+#### How long does fruitcake affect blood sugar?
 Peak glucose impact occurs 4–6 hours post-consumption, and residual effects on fasting glucose can persist up to 12–14 hours—meaning evening servings commonly elevate next-morning readings.
 
-#### #### What lab tests best reflect fruitcake fasting glucose seniors impact?
+#### What lab tests best reflect fruitcake fasting glucose seniors impact?
 Fasting plasma glucose (FPG), HbA1c (for 3-month trends), and oral glucose tolerance tests (OGTT) with 2-hour post-load measures provide complementary insights. For real-time feedback, paired CGM data (glucose area-under-curve overnight) is increasingly used in geriatric metabolic research.

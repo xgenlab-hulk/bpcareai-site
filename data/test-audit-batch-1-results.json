@@ -1,0 +1,382 @@
+{
+  "batch_id": 1,
+  "total_checked": 20,
+  "articles": [
+    {
+      "slug": "the-truth-about-normal-bp-variability-why-24-hour-sd-15-mmhg-predicts-microinfarct-burden-in-adults-69-with-white-matter-hyperintensities",
+      "primaryKeyword": "blood pressure variability and brain health",
+      "score": 65,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 15,
+        "natural": 10,
+        "intent": 5,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": [
+        "missing_audience_identifier",
+        "unclear_search_intent"
+      ]
+    },
+    {
+      "slug": "natural-ways-to-support-pancreatic-beta-cell-resilience-without-stimulating-insulin-secretion-using-sulforaphane-timing-low-dose-lithium-in-adults-56-64-with-early-beta-cell-decline",
+      "primaryKeyword": "health management seniors",
+      "score": 50,
+      "breakdown": {
+        "medical_topic": 0,
+        "audience": 20,
+        "length": 10,
+        "natural": 10,
+        "intent": 5,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": [
+        "generic_medical_topic",
+        "borderline_length",
+        "unclear_search_intent"
+      ]
+    },
+    {
+      "slug": "myths-vs-facts-about-salt-sensitivity-after-60-why-3-000-mg-sodium-can-be-safe-or-harmful-depending-on-your-enac-genotype-and-gut-microbiome-profile",
+      "primaryKeyword": "salt sensitivity genetics microbiome aging",
+      "score": 60,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 10,
+        "length": 15,
+        "natural": 5,
+        "intent": 5,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": [
+        "somewhat_generic_medical_topic",
+        "vague_audience",
+        "awkward_phrasing",
+        "unclear_search_intent"
+      ]
+    },
+    {
+      "slug": "best-seated-breathing-patterns-with-real-time-hrv-feedback-for-adults-79-with-frailty-orthostatic-intolerance-and-mild-pulmonary-hypertension",
+      "primaryKeyword": "hypertension management adults 79+",
+      "score": 90,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 20,
+        "length": 10,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": false,
+      "issues": []
+    },
+    {
+      "slug": "7-hidden-medication-interactions-that-raise-blood-pressure-after-age-60-including-common-antidepressants-antihistamines-and-topical-nsaids",
+      "primaryKeyword": "medication-induced hypertension over 60",
+      "score": 85,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 20,
+        "length": 15,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": false,
+      "issues": []
+    },
+    {
+      "slug": "why-does-blood-pressure-spike-during-morning-commutes-not-just-stress-in-adults-58-67-with-subclinical-carotid-plaque",
+      "primaryKeyword": "morning blood pressure spike traffic exposure",
+      "score": 65,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 15,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": [
+        "missing_audience_identifier"
+      ]
+    },
+    {
+      "slug": "when-to-skip-the-family-dessert-table-entirely-5-clinical-indicators-that-signal-high-risk-carbohydrate-load-for-adults-69-with-diabetic-gastroparesis",
+      "primaryKeyword": "skip dessert diabetic gastroparesis seniors",
+      "score": 80,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 20,
+        "length": 15,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": [
+        "borderline_score"
+      ]
+    },
+    {
+      "slug": "what-research-says-about-late-night-protein-timing-effects-on-overnight-glucose-stability-and-growth-hormone-pulses-in-adults-63-with-prediabetes",
+      "primaryKeyword": "late-night protein and blood sugar",
+      "score": 75,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 10,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": [
+        "missing_audience_identifier",
+        "borderline_length"
+      ]
+    },
+    {
+      "slug": "myths-vs-facts-you-can-reverse-type-2-diabetes-with-diet-alone-what-15-year-remission-data-shows-for-adults-diagnosed-after-age-55",
+      "primaryKeyword": "type 2 diabetes reversal after 55",
+      "score": 90,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 20,
+        "length": 10,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": false,
+      "issues": []
+    },
+    {
+      "slug": "5-things-every-man-over-65-taking-testosterone-replacement-should-know-about-its-effect-on-insulin-receptor-tyrosine-kinase-activity-and-glucose-uptake-efficiency",
+      "primaryKeyword": "testosterone therapy and insulin resistance",
+      "score": 60,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 15,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": [
+        "missing_audience_identifier"
+      ]
+    },
+    {
+      "slug": "warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-not-just-bloating-in-adults-70-with-long-term-ppi-use",
+      "primaryKeyword": "holiday leftovers gut dysbiosis ppi seniors",
+      "score": 75,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 20,
+        "length": 15,
+        "natural": 5,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": [
+        "somewhat_generic_medical_topic",
+        "awkward_phrasing"
+      ]
+    },
+    {
+      "slug": "the-complete-guide-to-managing-blood-pressure-while-caring-for-a-spouse-with-dementia-stress-resilience-sleep-fragmentation-and-medication-adherence-trade-offs-in-adults-65-79",
+      "primaryKeyword": "blood pressure management dementia caregiver",
+      "score": 70,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 10,
+        "length": 15,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": [
+        "vague_audience"
+      ]
+    },
+    {
+      "slug": "5-things-every-woman-over-64-taking-low-dose-hrt-should-know-about-holiday-alcohol-interactions-and-hepatic-cyp2c9-saturation",
+      "primaryKeyword": "hrt alcohol metabolism seniors women",
+      "score": 75,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 20,
+        "length": 10,
+        "natural": 5,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": [
+        "somewhat_generic_medical_topic",
+        "awkward_phrasing",
+        "borderline_length"
+      ]
+    },
+    {
+      "slug": "12-foods-that-stabilize-postprandial-cholinergic-tone-not-just-digestive-aids-including-slow-roasted-fennel-lacto-fermented-beets-and-toasted-caraway-seeds-for-adults-60-74",
+      "primaryKeyword": "cholinergic-stabilizing foods seniors",
+      "score": 30,
+      "breakdown": {
+        "medical_topic": 0,
+        "audience": 20,
+        "length": 10,
+        "natural": 0,
+        "intent": 0,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": [
+        "technical_jargon",
+        "generic_medical_topic",
+        "unnatural_phrasing",
+        "unclear_search_intent",
+        "borderline_length"
+      ]
+    },
+    {
+      "slug": "12-foods-that-delay-endothelial-senescence-not-just-lower-bp-including-black-garlic-extract-germinated-brown-rice-and-low-age-roasted-chickpeas-for-adults-60",
+      "primaryKeyword": "foods that delay endothelial aging",
+      "score": 45,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 0,
+        "length": 10,
+        "natural": 5,
+        "intent": 5,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": [
+        "technical_jargon",
+        "missing_audience_identifier",
+        "awkward_phrasing",
+        "unclear_search_intent",
+        "borderline_length"
+      ]
+    },
+    {
+      "slug": "why-your-holiday-heart-palpitations-might-be-caused-by-cold-induced-coronary-vasoconstriction-not-alcohol-in-adults-59-with-raynaud-s-phenomenon",
+      "primaryKeyword": "cold-induced palpitations raynaud holiday heart",
+      "score": 70,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 15,
+        "natural": 5,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": [
+        "missing_audience_identifier",
+        "awkward_phrasing"
+      ]
+    },
+    {
+      "slug": "why-your-holiday-energy-crash-may-be-postprandial-hypoglycemia-not-just-fatigue-in-adults-50-59-with-reactive-hypoglycemia-history",
+      "primaryKeyword": "holiday energy crash postprandial hypoglycemia",
+      "score": 45,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 0,
+        "length": 15,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": [
+        "technical_jargon",
+        "missing_audience_identifier",
+        "somewhat_generic_medical_topic"
+      ]
+    },
+    {
+      "slug": "why-your-blood-pressure-dips-too-much-after-walking-not-just-normal-recovery-in-adults-74-with-early-cardiac-amyloidosis",
+      "primaryKeyword": "post-walk hypotension in cardiac amyloidosis",
+      "score": 65,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 0,
+        "length": 15,
+        "natural": 5,
+        "intent": 10,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": [
+        "technical_jargon",
+        "missing_audience_identifier",
+        "awkward_phrasing"
+      ]
+    },
+    {
+      "slug": "when-to-worry-about-just-one-more-glass-early-qtc-prolongation-signs-after-holiday-wine-consumption-in-women-62-on-ssris",
+      "primaryKeyword": "holiday wine qt prolongation ssri women",
+      "score": 65,
+      "breakdown": {
+        "medical_topic": 20,
+        "audience": 10,
+        "length": 15,
+        "natural": 5,
+        "intent": 10,
+        "no_jargon": 0
+      },
+      "needs_optimization": true,
+      "issues": [
+        "technical_jargon",
+        "vague_audience",
+        "awkward_phrasing",
+        "somewhat_generic_medical_topic"
+      ]
+    },
+    {
+      "slug": "when-should-you-skip-the-holiday-buffet-entirely-4-clinical-red-flags-that-signal-high-risk-eating-for-adults-76-with-stage-4-ckd",
+      "primaryKeyword": "skip holiday buffet stage 4 ckd seniors",
+      "score": 80,
+      "breakdown": {
+        "medical_topic": 40,
+        "audience": 20,
+        "length": 15,
+        "natural": 10,
+        "intent": 10,
+        "no_jargon": 5
+      },
+      "needs_optimization": true,
+      "issues": [
+        "borderline_score"
+      ]
+    }
+  ],
+  "summary": {
+    "total": 20,
+    "excellent_85plus": 3,
+    "good_70to84": 5,
+    "fair_50to69": 9,
+    "poor_below50": 3,
+    "needs_optimization": 17,
+    "common_issues": {
+      "missing_audience_identifier": 10,
+      "technical_jargon": 6,
+      "awkward_phrasing": 7,
+      "generic_medical_topic": 5,
+      "borderline_length": 6,
+      "unclear_search_intent": 4
+    }
+  }
+}

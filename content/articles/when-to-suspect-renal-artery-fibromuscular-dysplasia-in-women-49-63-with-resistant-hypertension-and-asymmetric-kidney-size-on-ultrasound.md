@@ -76,22 +76,22 @@ Fibromuscular dysplasia hypertension women is uncommon—but it’s not invisibl
 
 ### FAQ
 
-#### #### Could fibromuscular dysplasia hypertension women be mistaken for menopause-related BP changes?
+#### Could fibromuscular dysplasia hypertension women be mistaken for menopause-related BP changes?
 
 Yes—many women assume rising BP in their early 50s is simply “part of menopause.” But unlike hormonal fluctuations, FMD causes *persistent*, medication-resistant elevation. If your BP climbs steadily despite lifestyle changes and standard treatment, it’s worth exploring structural causes.
 
-#### #### Is fibromuscular dysplasia hypertension women more common in women than men?
+#### Is fibromuscular dysplasia hypertension women more common in women than men?
 
 Absolutely. FMD affects women about 9 times more often than men—and the peak diagnosis window aligns closely with perimenopause (ages 49–63). It’s one of the few forms of secondary hypertension with such strong female predominance.
 
-#### #### What imaging findings suggest fibromuscular dysplasia hypertension women beyond the “string-of-beads”?
+#### What imaging findings suggest fibromuscular dysplasia hypertension women beyond the “string-of-beads”?
 
 Beyond the classic appearance, look for: asymmetric kidney size on ultrasound (≥1.5 cm difference), renal vein narrowing on Doppler, or focal arterial narrowing without calcification on CT/MR. Smooth, tubular stenoses in the mid-renal artery are also highly suggestive.
 
-#### #### Can fibromuscular dysplasia cause kidney damage even if BP is controlled?
+#### Can fibromuscular dysplasia cause kidney damage even if BP is controlled?
 
 Yes—long-standing, untreated FMD can lead to chronic ischemia and gradual loss of kidney function, even without extreme BP spikes. That’s why early detection matters for both heart *and* kidney longevity.
 
-#### #### Does fibromuscular dysplasia run in families?
+#### Does fibromuscular dysplasia run in families?
 
 There’s emerging evidence of a genetic component—about 10–15% of people with FMD report a first-degree relative with the condition or related vascular disorders (e.g., carotid dissection, aneurysms). Family history is a useful clue worth sharing with your care team.

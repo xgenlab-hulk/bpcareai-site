@@ -62,22 +62,22 @@ We all deserve mornings that feel steady—not startling. Recognizing **morning-
 
 ### FAQ
 
-#### #### Does morning-hygiene-blood-pressure-variability happen to everyone over 65?
+#### Does morning-hygiene-blood-pressure-variability happen to everyone over 65?
 
 No—it’s more common in people with underlying autonomic sensitivity (like white-coat amplification or carotid sinus hypersensitivity), but not universal. Roughly 12–15% of adults 67+ report noticeable fluctuations linked specifically to shaving or brushing.
 
-#### #### Can morning-hygiene-blood-pressure-variability affect my long-term heart health?
+#### Can morning-hygiene-blood-pressure-variability affect my long-term heart health?
 
 Occasional short-lived surges aren’t harmful—but repeated, unmonitored variability *may* contribute to arterial wear over time, especially if paired with existing hypertension. The goal isn’t perfection—it’s predictability and reduced strain.
 
-#### #### What’s the difference between morning-hygiene-blood-pressure-variability and white-coat hypertension?
+#### What’s the difference between morning-hygiene-blood-pressure-variability and white-coat hypertension?
 
 White-coat hypertension refers to elevated readings *only* in clinical settings. **Morning-hygiene-blood-pressure-variability** occurs *at home*, triggered by routine sensory inputs—not anxiety about being measured. They can coexist, but they stem from different mechanisms.
 
-#### #### Is carotid sinus hypersensitivity dangerous during shaving?
+#### Is carotid sinus hypersensitivity dangerous during shaving?
 
 It can be—if aggressive neck movements (like tilting your head back sharply while shaving) trigger a reflexive pause in heart rate or BP drop. Gentle, neutral-neck positioning helps avoid this—no need to stop shaving, just adjust how you hold your head.
 
-#### #### Should I stop using electric razors if I have morning-hygiene-blood-pressure-variability?
+#### Should I stop using electric razors if I have morning-hygiene-blood-pressure-variability?
 
 Not necessarily—but some users report less vibration-induced facial nerve stimulation with manual razors or gentler electric models. Try both and compare your BP logs. Focus on what *you* notice—not general recommendations.

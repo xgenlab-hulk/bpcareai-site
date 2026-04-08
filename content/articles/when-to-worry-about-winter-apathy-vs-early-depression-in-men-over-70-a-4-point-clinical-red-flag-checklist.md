@@ -76,22 +76,22 @@ Feeling quieter or slower in winter doesn’t mean something is broken—it may 
 
 ### FAQ
 
-#### #### Is winter apathy vs depression in men over 70 just normal aging?
+#### Is winter apathy vs depression in men over 70 just normal aging?
 
 No—it’s not *inevitable*, though it’s more common than many realize. Mild apathy can accompany aging, but persistent loss of interest, motivation, or self-care is not a required part of growing older. Both apathy and depression are treatable, and distinguishing between them helps guide supportive, personalized care.
 
-#### #### How is seasonal depression in older adults different from depression in younger people?
+#### How is seasonal depression in older adults different from depression in younger people?
 
 Older adults—including men over 70—are more likely to experience depression with physical symptoms (fatigue, pain, slowed movement) and less likely to report classic “sadness.” They may also show more irritability, memory concerns, or withdrawal than tearfulness. Importantly, seasonal depression in older adults responds well to light therapy, social engagement, and behavioral activation—often without medication.
 
-#### #### Can low blood pressure or high blood pressure cause apathy or depression-like symptoms in older men?
+#### Can low blood pressure or high blood pressure cause apathy or depression-like symptoms in older men?
 
 Yes—both extremes can influence mood and energy. For example, consistently low BP (e.g., below 110/65 mm Hg) may contribute to fatigue and mental fogginess; untreated hypertension (especially above 140/90 mm Hg) is linked to small-vessel brain changes that increase risk for apathy and late-life depression. That’s why regular BP checks—and discussing trends with your doctor—are part of holistic emotional wellness.
 
-#### #### What’s the best way to talk to my dad or husband about these changes without making him defensive?
+#### What’s the best way to talk to my dad or husband about these changes without making him defensive?
 
 Start with observation, not interpretation: *“I’ve noticed you haven’t gone to the senior center lately—how’s that been going?”* Focus on shared activities (“Want to sit outside for a few minutes tomorrow?”) rather than diagnoses. Emphasize teamwork: *“I’m here to help figure things out—not fix you.”* Patience, repetition, and modeling warmth go further than persuasion.
 
-#### #### Does vitamin D really help with winter apathy vs depression in men over 70?
+#### Does vitamin D really help with winter apathy vs depression in men over 70?
 
 Evidence suggests it can—especially if levels are low. Up to 60% of adults over 70 have suboptimal vitamin D, which plays a role in brain health and serotonin regulation. A simple blood test can determine whether supplementation (under medical guidance) might help restore energy and emotional balance.

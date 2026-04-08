@@ -65,17 +65,17 @@ Heart health doesn’t take holidays—and neither should your commitment to con
 
 ### FAQ
 
-#### #### Is “diuretic holiday heart failure seniors” a real medical concern—or just an old wives’ tale?  
+#### Is “diuretic holiday heart failure seniors” a real medical concern—or just an old wives’ tale?  
 It’s very real. Research published in *JACC: Heart Failure* (2022) linked intentional diuretic omission during holidays to a 31% higher risk of ADHF admission in adults 65+. It’s not folklore—it’s pathophysiology amplified by sodium load.
 
-#### #### What exactly happens during a “diuretic holiday heart failure seniors” episode?  
+#### What exactly happens during a “diuretic holiday heart failure seniors” episode?  
 Without the diuretic, sodium reabsorption increases in the kidneys. Combined with high dietary salt, this causes rapid fluid retention, elevated filling pressures, and pulmonary congestion—often within 24–48 hours. The heart can’t compensate quickly enough.
 
-#### #### Can healthy holiday eating for seniors prevent diuretic holiday heart failure seniors?  
+#### Can healthy holiday eating for seniors prevent diuretic holiday heart failure seniors?  
 Yes—when paired with consistent medication use. Healthy holiday eating for seniors means choosing lower-sodium options (e.g., fresh herbs instead of gravy, unsalted nuts), controlling portions, and avoiding “cheat days” that skip meds. Food and medicine work together.
 
-#### #### My mom takes furosemide daily. She skipped it after Christmas dinner and felt fine for two days—then got short of breath. Why the delay?  
+#### My mom takes furosemide daily. She skipped it after Christmas dinner and felt fine for two days—then got short of breath. Why the delay?  
 Fluid accumulation builds silently. Symptoms often lag behind physiological changes by 36–72 hours. By the time breathlessness appears, pulmonary congestion may already be significant—making early recognition and action essential.
 
-#### #### Are there alternatives to diuretics for seniors who struggle with adherence during holidays?  
+#### Are there alternatives to diuretics for seniors who struggle with adherence during holidays?  
 No replacement exists for prescribed diuretics in stable HF management. However, simplifying regimens (e.g., once-daily extended-release formulations), using visual pill boxes, or enlisting family support improves adherence far more reliably than skipping doses.

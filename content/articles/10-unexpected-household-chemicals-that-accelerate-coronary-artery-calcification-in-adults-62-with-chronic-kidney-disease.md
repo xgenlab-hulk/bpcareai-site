@@ -87,11 +87,11 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can household chemicals really affect coronary artery calcification in seniors with kidney disease?
+#### Can household chemicals really affect coronary artery calcification in seniors with kidney disease?
 
 Yes—research shows that certain chemicals commonly found in cleaning products, air fresheners, and flame-retardant materials may contribute to oxidative stress and lower Klotho expression, both of which are associated with accelerated coronary artery calcification in older adults with chronic kidney disease. The effect is cumulative and interacts with other health factors—not immediate or inevitable.
 
-#### #### What household chemicals coronary artery calcification seniors should avoid most?
+#### What household chemicals coronary artery calcification seniors should avoid most?
 
 The top three categories supported by current evidence are:  
 1. Phthalates (in synthetic fragrances—air fresheners, scented laundry detergents, and personal care products)  
@@ -100,14 +100,14 @@ The top three categories supported by current evidence are:
 
 Avoiding them entirely isn’t necessary, but reducing frequency and choosing alternatives helps support long-term vascular resilience.
 
-#### #### Are natural cleaning products always safer for seniors with heart disease and CKD?
+#### Are natural cleaning products always safer for seniors with heart disease and CKD?
 
 Not necessarily—“natural” isn’t a regulated term. Some essential oil diffusers release volatile organic compounds (VOCs) that can irritate airways or trigger inflammation. Vinegar, baking soda, and castile soap (without added fragrance) are well-studied, low-risk options. Always check labels for “no added fragrance” and “low-VOC” rather than relying on marketing terms alone.
 
-#### #### How does chronic kidney disease make seniors more vulnerable to household chemical effects?
+#### How does chronic kidney disease make seniors more vulnerable to household chemical effects?
 
 CKD reduces the kidneys’ ability to filter and excrete environmental toxins. This means substances like phthalates or flame retardant metabolites may linger longer in the bloodstream—potentially amplifying their impact on vascular cells and mineral-regulating hormones like Klotho and FGF23. It’s not about sensitivity—it’s about clearance.
 
-#### #### Is coronary artery calcification reversible—or can lifestyle changes slow it down?
+#### Is coronary artery calcification reversible—or can lifestyle changes slow it down?
 
 CAC itself isn’t reversible, but its progression can slow significantly with consistent heart-healthy habits—including managing BP, staying physically active, eating a kidney-friendly diet rich in fruits and vegetables, and reducing avoidable environmental stressors. Studies show adults who adopt multiple protective behaviors see up to a 30% slower annual increase in CAC scores—even with existing CKD.

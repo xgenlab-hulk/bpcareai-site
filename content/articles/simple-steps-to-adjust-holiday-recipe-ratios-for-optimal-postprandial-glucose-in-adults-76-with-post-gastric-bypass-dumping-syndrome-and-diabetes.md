@@ -47,17 +47,17 @@ In all things, kindness to yourself is part of the plan. Holidays are about pres
 
 ### FAQ
 
-#### #### How do I adjust holiday recipes dumping syndrome diabetes for my elderly parent?  
+#### How do I adjust holiday recipes dumping syndrome diabetes for my elderly parent?  
 Start by reducing simple carbohydrates (like white sugar and refined flour) by 30–40%, replacing them with fiber-rich alternatives (e.g., ground flaxseed, psyllium husk, or cooked lentils in baked goods). Serve smaller portions across 3–4 mini-courses instead of one large plate—and always include a source of protein and healthy fat with each course.
 
-#### #### Are there safe holiday desserts for someone with dumping syndrome and diabetes?  
+#### Are there safe holiday desserts for someone with dumping syndrome and diabetes?  
 Yes—focus on texture and timing. Baked apples with cinnamon and chopped walnuts, chia seed pudding sweetened with a touch of stevia and topped with berries, or ricotta-stuffed dates (one at a time) are gentle options. Avoid liquid sugars (syrups, juice concentrates) and high-fructose corn syrup, which strongly trigger dumping.
 
-#### #### Can holiday recipes dumping syndrome diabetes affect blood pressure?  
+#### Can holiday recipes dumping syndrome diabetes affect blood pressure?  
 Indirectly—yes. Reactive hypoglycemia can activate the sympathetic nervous system, causing transient spikes in heart rate and systolic BP (often 10–20 mm Hg higher than baseline). Orthostatic drops may also occur if dehydration or autonomic changes are present. Monitoring both glucose *and* BP before and 60–90 minutes after meals offers helpful insight.
 
-#### #### What’s the safest way to enjoy gravy with dumping syndrome and diabetes?  
+#### What’s the safest way to enjoy gravy with dumping syndrome and diabetes?  
 Use a roux made with almond flour or gluten-free brown rice flour instead of wheat flour, thicken with a splash of unsweetened almond milk, and stir in 1 tsp flaxseed gel (1 tsp ground flax + 3 tbsp water, rested 5 min). This adds soluble fiber and slows digestion without sacrificing richness.
 
-#### #### Do I need to avoid all fruit during the holidays if I have dumping syndrome and diabetes?  
+#### Do I need to avoid all fruit during the holidays if I have dumping syndrome and diabetes?  
 Not all fruit—but choose whole, lower-glycemic options like pears, apples (with skin), or berries, and limit servings to ½ cup at a time. Pair with 1 tbsp nut butter or cottage cheese to balance absorption. Avoid fruit juices, dried fruits, and canned fruit in syrup—they’re concentrated sources of rapidly absorbed sugars.

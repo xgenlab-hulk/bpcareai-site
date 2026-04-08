@@ -53,22 +53,22 @@ Meals are about more than nutrients—they’re moments of connection, comfort, 
 
 ### FAQ
 
-#### #### What are some high-fiber low-sodium soft side dishes seniors can eat at Thanksgiving?
+#### What are some high-fiber low-sodium soft side dishes seniors can eat at Thanksgiving?
 
 Great question! Try whipped parsnip-potato purée (no butter, seasoned with rosemary and black pepper), soft-cooked barley pilaf with finely diced mushrooms and thyme, or a silken cauliflower-miso mash. All are naturally low in sodium, rich in fiber, and require no chewing.
 
-#### #### Are there high-fiber low-sodium soft side dishes seniors can make ahead and freeze?
+#### Are there high-fiber low-sodium soft side dishes seniors can make ahead and freeze?
 
 Yes! Lentil purée, roasted squash purée, and oat-based stuffing all freeze well for up to 3 months. Portion into small containers or freezer-safe bags, thaw overnight in the fridge, and gently reheat on the stove with a splash of water or unsalted broth to restore creaminess.
 
-#### #### Can high-fiber low-sodium soft side dishes seniors eat help with constipation?
+#### Can high-fiber low-sodium soft side dishes seniors eat help with constipation?
 
 Absolutely. Soluble fiber absorbs water and forms a gentle gel in the gut—supporting regular, comfortable bowel movements. Aim for 20–25 g of fiber daily from foods like cooked oats, peeled pears (puréed), and well-rinsed lentils. Just increase slowly and drink plenty of fluids.
 
-#### #### Is canned pumpkin okay for seniors with diabetes and chewing issues?
+#### Is canned pumpkin okay for seniors with diabetes and chewing issues?
 
 Yes—if it’s 100% pure pumpkin (not pie filling, which contains added sugar and sodium). It’s naturally soft, low-glycemic, and rich in fiber and vitamin A. Stir into oatmeal, blend into soups, or mix with a little cinnamon and unsweetened almond milk for a creamy side.
 
-#### #### How do I lower sodium without losing flavor in soft side dishes?
+#### How do I lower sodium without losing flavor in soft side dishes?
 
 Use herbs (dill, oregano, basil), spices (cumin, smoked paprika, ginger), citrus zest, vinegars (apple cider or rice), and umami boosters like nutritional yeast or a tiny bit of low-sodium tamari. Roasting vegetables deepens natural sweetness and savoriness—no salt required.

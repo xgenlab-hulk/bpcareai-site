@@ -57,17 +57,17 @@ In short, adding just 90 seconds of intentional breathing before your visit is a
 
 ### FAQ
 
-#### #### Can breathing techniques lower systolic pressure enough to avoid a hypertension diagnosis?  
+#### Can breathing techniques lower systolic pressure enough to avoid a hypertension diagnosis?  
 They can help prevent “white-coat” overdiagnosis—but true hypertension requires consistent elevated readings over time. These techniques support accuracy, not avoidance. Always follow up with your provider for full evaluation.
 
-#### #### How fast do breathing techniques lower systolic pressure—and is it safe for seniors?  
+#### How fast do breathing techniques lower systolic pressure—and is it safe for seniors?  
 Most adults 50–85 see a systolic drop of 7–12 mm Hg within 90 seconds. Studies confirm safety and tolerability in older populations, including those with stable heart disease.
 
-#### #### Do breathing techniques lower systolic pressure more than diastolic?  
+#### Do breathing techniques lower systolic pressure more than diastolic?  
 Yes—research shows systolic responds more quickly and robustly to paced breathing. Diastolic may drop modestly (2–5 mm Hg), but the primary benefit is in reducing peak arterial stress.
 
-#### #### What’s the best time of day to practice breathing techniques for heart health?  
+#### What’s the best time of day to practice breathing techniques for heart health?  
 Twice daily works best: once in the morning (to set nervous system tone) and once before medical visits or stressful moments. Consistency matters more than timing.
 
-#### #### Are there any side effects to these breathing techniques?  
+#### Are there any side effects to these breathing techniques?  
 Rarely—some report mild lightheadedness if breathing too deeply too quickly. Start slowly, keep breaths gentle, and stop if you feel dizzy. Never hold your breath forcefully.

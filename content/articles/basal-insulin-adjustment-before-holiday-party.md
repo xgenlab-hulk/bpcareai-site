@@ -87,22 +87,22 @@ The holiday season doesn’t have to mean trading control for celebration. With 
 
 ### FAQ
 
-#### #### How early should I adjust my basal insulin before a holiday party?
+#### How early should I adjust my basal insulin before a holiday party?
 
 Ideally, begin reviewing your CGM and lifestyle logs 72 hours before the event—and make any dose change at least 48 hours prior. This allows time to observe how your body responds before the party begins. Adjustments made less than 24 hours beforehand rarely reflect true basal needs and may increase hypoglycemia risk.
 
-#### #### Is basal insulin adjustment before holiday party safe for older adults with kidney disease?
+#### Is basal insulin adjustment before holiday party safe for older adults with kidney disease?
 
 Yes—when guided by trends and done conservatively (e.g., 5–10% reductions). In fact, it’s *safer* than waiting, because reduced eGFR prolongs insulin exposure. Work closely with your provider to align adjustments with your latest eGFR and avoid doses that accumulate.
 
-#### #### Can I use my CGM alerts alone to decide on basal insulin adjustment before holiday party?
+#### Can I use my CGM alerts alone to decide on basal insulin adjustment before holiday party?
 
 No. CGM alerts (e.g., “high in 30 minutes”) are reactive. For *basal insulin adjustment before holiday party*, rely instead on multi-day trend analysis—specifically overnight patterns, fasting values, and post-meal decays across at least three similar days. Alerts help manage *during*; trends guide *before*.
 
-#### #### What if I don’t wear a CGM—can I still do basal insulin adjustment before holiday party?
+#### What if I don’t wear a CGM—can I still do basal insulin adjustment before holiday party?
 
 Yes—you can use fasting fingerstick glucose readings across three mornings, paired with consistent meal logging and activity notes. While less granular than CGM, this still reveals patterns. Add pre- and 2-hour post-dinner checks to assess meal impact.
 
-#### #### Does alcohol affect basal insulin needs before a holiday party?
+#### Does alcohol affect basal insulin needs before a holiday party?
 
 Yes—especially when consumed without food or with high-fat appetizers. Alcohol inhibits gluconeogenesis and can blunt counter-regulation, raising hypoglycemia risk *hours later*, particularly overnight. If drinking, consider a 10–15% basal reduction the evening before—and always eat something containing protein and fat beforehand.

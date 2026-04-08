@@ -55,22 +55,22 @@ Holiday light therapy fasting glucose benefits aren’t about dramatic fixes—t
 
 ### FAQ
 
-#### #### Can holiday light therapy fasting glucose improvements happen without changing diet or medication?
+#### Can holiday light therapy fasting glucose improvements happen without changing diet or medication?
 
 Yes—studies show modest but meaningful reductions (average 12–18 mg/dL) in fasting glucose over 3–4 weeks with properly timed light alone, especially in those with DSPS. It works by improving circadian alignment, which enhances insulin signaling and reduces overnight hepatic glucose output—not by replacing other therapies.
 
-#### #### Is holiday light therapy fasting glucose safe for people with glaucoma or macular degeneration?
+#### Is holiday light therapy fasting glucose safe for people with glaucoma or macular degeneration?
 
 Not without ophthalmologist clearance. Because blue-enriched light increases retinal metabolic demand, those with advanced age-related macular degeneration (AMD) or untreated glaucoma should consult an eye specialist before starting—and consider using amber-tinted lenses during sessions if approved.
 
-#### #### How does holiday light therapy fasting glucose relate to blood pressure in older adults?
+#### How does holiday light therapy fasting glucose relate to blood pressure in older adults?
 
 There’s emerging evidence that better circadian alignment lowers nocturnal systolic BP by ~5–7 mm Hg and improves morning BP surge patterns—both critical for adults over 60. Since hypertension and diabetes often coexist, supporting rhythm health benefits multiple systems at once.
 
-#### #### Do colored holiday lights (red, green, warm white) work for this protocol?
+#### Do colored holiday lights (red, green, warm white) work for this protocol?
 
 No—not effectively. Red and warm-white lights lack sufficient short-wavelength (blue) photons to suppress melatonin. For circadian resetting, you need light peaking around 460–480 nm—found in cool-white or daylight-balanced LEDs (5000K–6500K). Decorative strings rarely meet intensity or spectral requirements.
 
-#### #### Can I use my smartphone or tablet instead of a light box?
+#### Can I use my smartphone or tablet instead of a light box?
 
 Not recommended. Even “blue light mode” settings emit far too little intensity (< 100 lux at typical viewing distance) and encourage screen use near bedtime—counteracting the goal. Stick to purpose-built light boxes or carefully calibrated fixtures.

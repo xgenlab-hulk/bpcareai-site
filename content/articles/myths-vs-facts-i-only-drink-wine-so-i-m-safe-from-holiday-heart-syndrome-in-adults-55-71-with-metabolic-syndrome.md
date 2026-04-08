@@ -91,17 +91,17 @@ You don’t have to choose between celebration and care. With a little knowledge
 
 ### FAQ
 
-#### #### Does red wine really protect against holiday heart syndrome?
+#### Does red wine really protect against holiday heart syndrome?
 No — this is one of the most widespread *wine holiday heart syndrome myths*. While resveratrol (a compound in red wine skins) shows antioxidant effects in lab studies, human trials haven’t demonstrated meaningful protection against alcohol-induced AFib — especially in adults with metabolic syndrome. Ethanol remains the dominant driver.
 
-#### #### Are “low-alcohol” or “dealcoholized” wines safe for people worried about wine holiday heart syndrome myths?
+#### Are “low-alcohol” or “dealcoholized” wines safe for people worried about wine holiday heart syndrome myths?
 Most “low-alcohol” wines still contain 0.5–7% ABV — and people often consume larger portions, offsetting any theoretical benefit. True dealcoholized wines (<0.5% ABV) pose negligible AFib risk, but check labels carefully: some retain trace alcohol or add sugars that may worsen metabolic load.
 
-#### #### Can I drink wine safely if I have metabolic syndrome and take blood pressure medication?
+#### Can I drink wine safely if I have metabolic syndrome and take blood pressure medication?
 It depends — but caution is strongly advised. Alcohol can interfere with medications like ACE inhibitors and diuretics, cause BP fluctuations, and increase AFib susceptibility. Discuss your drinking habits openly with your prescriber; many find that limiting wine to ≤1 glass *once weekly*, with food and early in the day, offers the best balance.
 
-#### #### Is holiday heart syndrome reversible?
+#### Is holiday heart syndrome reversible?
 Yes — in most cases, AFib triggered by acute alcohol exposure resolves within 24–48 hours of stopping alcohol, especially with adequate hydration and rest. However, repeated episodes increase the likelihood of persistent AFib and long-term structural changes — making prevention far more effective than treatment.
 
-#### #### What’s the safest alcoholic beverage for someone with metabolic syndrome during the holidays?
+#### What’s the safest alcoholic beverage for someone with metabolic syndrome during the holidays?
 There is no “safest” alcoholic beverage — only safer *patterns*. If you choose to drink, prioritize consistency (same small amount, same day of week), avoid binge patterns (≥3 drinks in 2 hours), and pair with movement and whole foods. For many with metabolic syndrome, choosing sparkling water with citrus or herbal tea brings more sustained joy — and zero cardiac risk.

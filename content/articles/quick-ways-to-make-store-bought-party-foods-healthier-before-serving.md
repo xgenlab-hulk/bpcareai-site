@@ -58,22 +58,22 @@ Making *healthier store-bought party food* part of your routine isn’t about pe
 
 ### FAQ
 
-#### #### How can I make store-bought party food healthier without cooking?
+#### How can I make store-bought party food healthier without cooking?
 
 You can rinse canned beans and veggies to cut sodium, mix in raw vegetables to dips, swap high-sodium crackers for whole-grain or legume-based options, and choose plain proteins (like rotisserie chicken breast) over heavily seasoned or glazed versions. Most of these take less than 2 minutes—and zero heat.
 
-#### #### What are the easiest swaps for healthier store-bought party food?
+#### What are the easiest swaps for healthier store-bought party food?
 
 Top quick wins include: using low-sodium soy sauce or tamari instead of regular in marinades; choosing plain Greek yogurt over sour cream for dips; adding lemon zest or herbs to store-bought guacamole to brighten flavor without extra salt; and serving nut-and-fruit trail mix instead of candy bowls (just watch for added oils and sugars).
 
-#### #### Can healthier store-bought party food help manage blood pressure?
+#### Can healthier store-bought party food help manage blood pressure?
 
 Yes—especially when focused on lowering sodium, increasing potassium-rich produce (like tomatoes, spinach, and bananas), and limiting processed meats and cheeses. Consistently choosing lower-sodium versions of common party staples can support healthy arterial pressure over time, particularly when combined with other heart-healthy habits like staying hydrated and moving regularly.
 
-#### #### Is it okay to serve deli meat at parties if I’m watching my heart health?
+#### Is it okay to serve deli meat at parties if I’m watching my heart health?
 
 Yes—with mindful choices. Opt for lean, low-sodium turkey or chicken breast (under 350 mg sodium per 2 oz), skip the processed sausages and salamis, and serve it rolled around cucumber sticks or apple slices instead of crackers. Pairing protein with fiber and water-rich produce helps moderate its impact on BP and blood sugar.
 
-#### #### How do I handle pushback from family who prefer “traditional” party foods?
+#### How do I handle pushback from family who prefer “traditional” party foods?
 
 Gentle framing helps: “I love these flavors too—let’s keep them front and center, and just add a few fresh, colorful sides that everyone can enjoy.” People rarely notice subtle upgrades (like rinsed beans in chili or herbs stirred into mayo)—but they *do* notice how good they feel afterward. And over time, those small shifts often become the new tradition.

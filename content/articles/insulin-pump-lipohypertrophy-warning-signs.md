@@ -50,22 +50,22 @@ Lipohypertrophy is common, manageable, and rarely serious when caught early. Wit
 
 ### FAQ
 
-#### #### What are the earliest insulin pump lipohypertrophy warning signs in older adults?
+#### What are the earliest insulin pump lipohypertrophy warning signs in older adults?
 
 The earliest signs are often subtle: delayed post-meal insulin action (e.g., BG rising higher or later than usual), mild skin coolness or asymmetry upon gentle palpation, and tiny red/purple specks under tape—especially if they recur in the same spot. Visible lumps may not appear until later stages.
 
-#### #### Can insulin pump lipohypertrophy warning signs occur even with perfect rotation?
+#### Can insulin pump lipohypertrophy warning signs occur even with perfect rotation?
 
 Yes—especially after many years of use and with age-related skin changes. Rotation helps, but factors like injection angle, needle depth, insulin type (e.g., rapid-acting analogs), and individual tissue response also influence risk. Ultrasound mapping can reveal hidden changes missed by rotation alone.
 
-#### #### How do I know if my insulin absorption is delayed due to lipohypertrophy?
+#### How do I know if my insulin absorption is delayed due to lipohypertrophy?
 
 A practical clue: compare your typical postprandial glucose curve across different sites. If BG consistently rises higher or peaks 60–90 minutes later when using one specific abdominal quadrant versus another, that may indicate altered absorption—worth discussing with your care team.
 
-#### #### Does lipohypertrophy affect A1C levels?
+#### Does lipohypertrophy affect A1C levels?
 
 It can—especially if undetected. Studies show inconsistent absorption contributes to increased glycemic variability, which may raise A1C by 0.3–0.7 percentage points over time, even with otherwise diligent self-management.
 
-#### #### Is ultrasound for lipohypertrophy detection widely available?
+#### Is ultrasound for lipohypertrophy detection widely available?
 
 Ultrasound-guided assessment is growing in diabetes specialty practices and academic centers. It’s non-invasive, quick, and increasingly covered by insurance when ordered for clinical evaluation—ask your endocrinologist whether it’s appropriate for your care plan.

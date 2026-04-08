@@ -52,17 +52,17 @@ In summary, the relationship between blood pressure and hearing loss elderly is 
 
 ### FAQ
 
-#### #### Can high blood pressure cause hearing loss in older adults?  
+#### Can high blood pressure cause hearing loss in older adults?  
 Yes—chronic elevated blood pressure contributes to microvascular damage in the cochlea, particularly affecting high-frequency hearing first. This is especially relevant in adults over 70, where arterial stiffness and reduced vascular repair capacity amplify risk.
 
-#### #### Is there a specific blood pressure range linked to hearing loss in the elderly?  
+#### Is there a specific blood pressure range linked to hearing loss in the elderly?  
 Research suggests sustained systolic BP ≥140 mm Hg—or pulse pressure (difference between systolic and diastolic) >60 mm Hg—is associated with increased risk of age-related hearing decline. Even “prehypertensive” levels (130–139/80–89 mm Hg) may accelerate cochlear aging in susceptible individuals.
 
-#### #### How does blood pressure and hearing loss elderly relate to dementia risk?  
+#### How does blood pressure and hearing loss elderly relate to dementia risk?  
 Both hypertension and hearing loss are independent, modifiable risk factors for cognitive decline. When co-occurring, they may synergistically increase dementia risk—possibly due to shared pathways like neuroinflammation, reduced cerebral perfusion, and social isolation.
 
-#### #### Can lowering blood pressure improve hearing?  
+#### Can lowering blood pressure improve hearing?  
 While existing sensorineural damage is typically irreversible, controlling BP may slow further progression. Some studies report stabilization—or even modest improvement—in hearing thresholds after 6–12 months of effective antihypertensive treatment, especially with ACE inhibitors or ARBs that support endothelial function.
 
-#### #### Should I get my hearing tested if I have high blood pressure?  
+#### Should I get my hearing tested if I have high blood pressure?  
 Yes. Annual audiometry is recommended for adults 70+, and especially advisable if you have confirmed hypertension. It’s a noninvasive way to assess microvascular health and may prompt earlier cardiovascular intervention.

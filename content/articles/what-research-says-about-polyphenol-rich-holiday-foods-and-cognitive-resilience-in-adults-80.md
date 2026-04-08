@@ -71,11 +71,11 @@ The holidays are not about perfection—they’re about presence. For adults 80 
 
 ### FAQ
 
-#### #### Can polyphenol holiday foods cognitive health really help with memory during the holidays?
+#### Can polyphenol holiday foods cognitive health really help with memory during the holidays?
 
 Yes—gently and gradually. Clinical studies suggest that regularly including foods like cranberries, dark chocolate, and walnuts may help stabilize short-term memory and mental clarity during high-stress periods. Think of them as supportive companions—not quick fixes—but part of a broader pattern of nourishing habits that include rest, connection, and movement.
 
-#### #### Are there specific polyphenol holiday foods cognitive health recommendations for adults over 80?
+#### Are there specific polyphenol holiday foods cognitive health recommendations for adults over 80?
 
 Research points to three especially well-studied options:  
 - **Cranberries** (¼ cup whole-berry sauce or unsweetened dried): Rich in anthocyanins, linked to reduced neuroinflammation.  
@@ -83,14 +83,14 @@ Research points to three especially well-studied options:
 - **Walnuts** (2 halves daily): Provide polyphenols plus plant-based omega-3s and vitamin E.  
 All are safe for most older adults—just check with your doctor if you’re on blood thinners (walnuts contain vitamin K) or managing blood sugar closely.
 
-#### #### How much dark chocolate is safe for seniors concerned about blood pressure?
+#### How much dark chocolate is safe for seniors concerned about blood pressure?
 
 For most adults over 80, 10–15 grams (about one small square) of dark chocolate (70% cocoa or higher) daily is both safe and potentially beneficial—especially because cocoa flavanols may support healthy endothelial function and modest BP stability. Just avoid milk chocolate or varieties with added caramel or marshmallow, which add sodium and sugar that may counteract benefits.
 
-#### #### Do cranberry supplements work as well as whole cranberries for cognitive health?
+#### Do cranberry supplements work as well as whole cranberries for cognitive health?
 
 Whole cranberries appear more effective than isolated extracts in current studies—likely because fiber, vitamin C, and other co-factors enhance polyphenol absorption and gut-brain signaling. A 2023 pilot study found that participants consuming whole-berry powder outperformed those taking equivalent doses of proanthocyanidin capsules on memory tasks. If using supplements, discuss dosing with your pharmacist first.
 
-#### #### Is it too late to start focusing on polyphenol holiday foods cognitive health at age 85?
+#### Is it too late to start focusing on polyphenol holiday foods cognitive health at age 85?
 
 Not at all. The brain retains responsiveness well into the ninth decade—and many clinical trials showing benefits included participants aged 85–92. What matters most is consistency over time, not how early you begin. Starting now—mindfully, joyfully, and without pressure—is a beautiful act of self-care.

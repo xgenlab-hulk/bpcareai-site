@@ -63,17 +63,17 @@ Thermal therapy won’t reverse years of metabolic or muscular change overnight�
 
 ### FAQ
 
-#### #### Does far-infrared sauna improve glucose uptake in older adults with sarcopenia and diabetes?  
+#### Does far-infrared sauna improve glucose uptake in older adults with sarcopenia and diabetes?  
 Yes—modest improvements were seen in a 12-week RCT using gold-standard clamp testing. Average glucose disposal increased ~14%, linked to better GLUT4 movement and capillary growth. Benefits were real but small, and required strict hydration and BP monitoring.
 
-#### #### Is far-infrared sauna glucose uptake seniors sarcopenia safe for someone with low blood pressure?  
+#### Is far-infrared sauna glucose uptake seniors sarcopenia safe for someone with low blood pressure?  
 Not without precautions. Orthostatic hypotension is a known risk. If your systolic BP drops more than 20 mm Hg when standing—or if you often feel dizzy upon rising—a supervised trial (with BP checks before/during/after) is essential. Many clinicians recommend avoiding sauna use entirely if baseline systolic is <110 mm Hg.
 
-#### #### How does far-infrared sauna compare to exercise for glucose uptake in seniors with sarcopenia?  
+#### How does far-infrared sauna compare to exercise for glucose uptake in seniors with sarcopenia?  
 Exercise remains far more effective: resistance training can boost glucose uptake by 30–50% in similar populations. Far-infrared sauna appears complementary—not competitive—with movement. Think of it as “metabolic maintenance,” not rehabilitation.
 
-#### #### Can far-infrared sauna replace medication for type 2 diabetes?  
+#### Can far-infrared sauna replace medication for type 2 diabetes?  
 No. The study did not reduce or discontinue any diabetes medications. Sauna use should be viewed as adjunctive support—not a substitute for prescribed treatment, diet, or activity.
 
-#### #### What’s the ideal temperature and duration for far-infrared sauna use in seniors with diabetes?  
+#### What’s the ideal temperature and duration for far-infrared sauna use in seniors with diabetes?  
 In the RCT, participants used 45–50°C (113–122°F) for 25–30 minutes, 3x/week. Most clinicians suggest starting lower (45°C, 15 min, 2x/week) and adjusting only after confirming stable BP and no adverse symptoms.

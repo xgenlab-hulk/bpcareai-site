@@ -88,22 +88,22 @@ In closing, know this: supporting mitochondrial health isn’t about “fixing�
 
 ### FAQ
 
-#### #### Can mitochondrial biogenesis diabetes copd be improved without exercise in older adults?
+#### Can mitochondrial biogenesis diabetes copd be improved without exercise in older adults?
 
 Yes—research confirms that dietary polyphenols (like urolithin A), mild cold exposure, and circadian-aligned habits can enhance mitochondrial biogenesis even in sedentary adults aged 70+. These approaches work by activating PGC-1α and supporting mitophagy—processes that don’t depend on mechanical muscle contraction.
 
-#### #### What foods naturally support mitochondrial biogenesis in people with type 2 diabetes and COPD?
+#### What foods naturally support mitochondrial biogenesis in people with type 2 diabetes and COPD?
 
 Pomegranates, walnuts, raspberries, green tea (EGCG), and extra-virgin olive oil contain polyphenols shown to support mitochondrial health. Crucially, they’re low-glycemic and anti-inflammatory—ideal for managing both diabetes and COPD-related oxidative stress. Pair them with soluble fiber (like oats or peeled apples) to support gut bacteria that convert precursors into active compounds like urolithin A.
 
-#### #### How does mitochondrial biogenesis diabetes copd affect daily energy levels?
+#### How does mitochondrial biogenesis diabetes copd affect daily energy levels?
 
 Reduced mitochondrial biogenesis contributes directly to fatigue, post-meal sluggishness, and slower recovery from daily tasks—because muscles can’t efficiently convert fuel (glucose/fatty acids) into usable energy (ATP). Improving biogenesis doesn’t eliminate COPD or diabetes, but it helps muscles use oxygen and fuel more effectively—often leading to noticeable improvements in stamina and mental clarity within 6–10 weeks.
 
-#### #### Is cold exposure safe for someone with severe COPD or heart concerns?
+#### Is cold exposure safe for someone with severe COPD or heart concerns?
 
 Yes—if kept very mild and localized. Full-body immersion or ice baths are not recommended. Instead, brief (1–3 minute), cool-water exposure on forearms or calves is generally well-tolerated and avoids triggering bronchospasm or cardiac stress. Always consult your pulmonologist or cardiologist before beginning—and discontinue if you experience wheezing, chest tightness, or dizziness.
 
-#### #### Does improving mitochondrial biogenesis help with blood sugar control in type 2 diabetes?
+#### Does improving mitochondrial biogenesis help with blood sugar control in type 2 diabetes?
 
 Absolutely. Healthy mitochondria in skeletal muscle improve insulin sensitivity and glucose uptake—reducing intramyocellular lipid buildup and lowering post-meal blood sugar spikes. Clinical trials show that interventions supporting mitochondrial biogenesis (e.g., urolithin A, timed eating) correlate with average HbA1c reductions of 0.3–0.5% over 3–4 months—even without weight loss or increased activity.

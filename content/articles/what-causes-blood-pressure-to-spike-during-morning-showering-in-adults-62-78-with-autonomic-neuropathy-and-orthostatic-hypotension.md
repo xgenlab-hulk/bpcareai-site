@@ -93,22 +93,22 @@ In closing, remember that your body is communicating—not failing. A *morning s
 
 ### FAQ
 
-#### #### Why does my blood pressure go up in the shower if I have autonomic neuropathy?
+#### Why does my blood pressure go up in the shower if I have autonomic neuropathy?
 
 In autonomic neuropathy, your nervous system can’t properly regulate blood vessel tone and heart rate in response to heat. Hot water causes skin vessels to widen (vasodilation), but without effective baroreflex control, your body overcompensates with a surge of stress hormones like norepinephrine—leading to increased heart rate and constriction in deeper vessels. This results in a paradoxical rise—not fall—in blood pressure.
 
-#### #### Is morning shower blood pressure spike autonomic neuropathy dangerous?
+#### Is morning shower blood pressure spike autonomic neuropathy dangerous?
 
 It can be, especially over time. Repeated spikes place added strain on arteries and the heart, increasing long-term risk for left ventricular hypertrophy, microvascular damage, and stroke. While a single episode rarely causes immediate harm, consistent unmonitored spikes warrant evaluation—particularly in adults 62–78 who may already have underlying vascular stiffness or comorbidities.
 
-#### #### Can orthostatic hypotension and high blood pressure happen together in the same person?
+#### Can orthostatic hypotension and high blood pressure happen together in the same person?
 
 Yes—this is called *supine hypertension with orthostatic hypotension*, and it’s common in autonomic neuropathy. You may feel dizzy upon standing (low BP), yet register high BP when lying down or during certain stimuli like hot showers. This “J-curve” pattern reflects the nervous system’s inability to maintain stable pressure across positions and conditions.
 
-#### #### What temperature shower is safest for someone with autonomic neuropathy?
+#### What temperature shower is safest for someone with autonomic neuropathy?
 
 Lukewarm water—ideally between 34°C and 37°C (93–99°F)—is safest. Avoid water above 38°C (100°F), as heat beyond this threshold strongly activates thermoregulatory sympathetic pathways. Using a bath thermometer (even a simple kitchen one) for the first few weeks can help calibrate your perception.
 
-#### #### Does morning shower blood pressure spike autonomic neuropathy happen with cold showers too?
+#### Does morning shower blood pressure spike autonomic neuropathy happen with cold showers too?
 
 Cold exposure typically triggers *vasoconstriction*, which may raise BP acutely—but it usually doesn’t produce the same magnitude of unpredictable surge as hot water in autonomic failure. However, cold shock can provoke arrhythmias or breath-holding reflexes in vulnerable individuals, so abrupt cold immersion isn’t recommended either. Consistency and moderation—neither extreme heat nor cold—are the guiding principles.

@@ -66,22 +66,22 @@ Improving blood pressure variability isn’t about chasing perfection—it’s a
 
 ### FAQ
 
-#### #### Does exercise timing really affect blood pressure variability—or is it just about how much I move?
+#### Does exercise timing really affect blood pressure variability—or is it just about how much I move?
 
 Yes—timing does matter. Research shows that the same amount of moderate exercise performed in the evening (vs. morning) leads to measurably lower 24-hour systolic BP variability in adults 60–73 with isolated systolic hypertension—likely due to enhanced parasympathetic recovery and improved baroreflex sensitivity.
 
-#### #### What’s the best time of day to exercise for reducing blood pressure variability?
+#### What’s the best time of day to exercise for reducing blood pressure variability?
 
 There’s no universal “best” time—but evidence suggests evening aerobic activity (like seated cycling) may offer stronger benefits for stabilizing 24-hour BP patterns in older adults with ISH. That said, consistency matters more than clock time. If you’re more likely to stick with a morning routine, it’s still highly valuable—especially when paired with mindful breathing and hydration.
 
-#### #### How does exercise timing blood pressure variability relate to stroke risk?
+#### How does exercise timing blood pressure variability relate to stroke risk?
 
 Greater BP variability—particularly wide swings between day and night or exaggerated morning surges—is linked to increased risk of stroke, even when average BP is controlled. Studies suggest that regular, well-timed movement helps normalize these patterns, supporting long-term cerebrovascular health.
 
-#### #### Can resistance bands lower blood pressure as effectively as cycling?
+#### Can resistance bands lower blood pressure as effectively as cycling?
 
 Not necessarily *as effectively* for reducing 24-hour BP variability—but they contribute differently and importantly. Resistance band work improves muscular and vascular efficiency, helping to buffer sudden BP changes during daily tasks (like standing or carrying groceries). When combined with aerobic activity—even intermittently—it creates a more complete protective effect.
 
-#### #### Do I need a prescription for ambulatory BP monitoring—or can I request it myself?
+#### Do I need a prescription for ambulatory BP monitoring—or can I request it myself?
 
 You’ll need a clinician’s order for formal ambulatory BP monitoring (ABPM), but many primary care providers will recommend it if you have ISH and symptoms like dizziness, inconsistent home readings, or concerns about medication side effects. It’s a simple, noninvasive test—and increasingly covered by Medicare and most insurance plans for appropriate indications.

@@ -67,22 +67,22 @@ Living well with long-term type 2 diabetes isn’t about chasing perfection—it
 
 ### FAQ
 
-#### #### Can mitochondrial biogenesis beta cells diabetes be supported without supplements in older adults?
+#### Can mitochondrial biogenesis beta cells diabetes be supported without supplements in older adults?
 
 Yes—robustly. Human studies show adults aged 60+ retain significant capacity for mitochondrial biogenesis in beta cells when exposed to hormetic stimuli like timed cold exposure, rhythmic breathing, and circadian nutrition. These approaches work through shared signaling pathways (e.g., AMPK, SIRT1, PGC-1α) without requiring exogenous compounds.
 
-#### #### How does mitochondrial biogenesis beta cells diabetes relate to insulin production?
+#### How does mitochondrial biogenesis beta cells diabetes relate to insulin production?
 
 Healthy mitochondria provide the ATP needed for glucose-stimulated insulin secretion (GSIS). When mitochondrial biogenesis is supported, beta cells produce insulin more efficiently and with less oxidative stress—helping sustain function even in the presence of mild hyperglycemia.
 
-#### #### What’s the safest way to start cold exposure for mitochondrial biogenesis beta cells diabetes?
+#### What’s the safest way to start cold exposure for mitochondrial biogenesis beta cells diabetes?
 
 Begin with cool (not cold) showers—15–20°C (59–68°F)—for 60–90 seconds, 2–3 times weekly, in the morning. Gradually decrease temperature or increase duration only if comfortable. Never initiate cold exposure if you have unstable angina, recent MI, or uncontrolled arrhythmia.
 
-#### #### Does walking help mitochondrial biogenesis in beta cells?
+#### Does walking help mitochondrial biogenesis in beta cells?
 
 While walking primarily benefits muscle and liver mitochondria, regular moderate activity (e.g., 30 minutes most days) improves systemic insulin sensitivity and reduces glucolipotoxicity—indirectly protecting beta-cell mitochondria from chronic stress.
 
-#### #### Is fasting helpful for mitochondrial biogenesis in beta cells?
+#### Is fasting helpful for mitochondrial biogenesis in beta cells?
 
 Intermittent fasting *may* support autophagy and mitochondrial quality control—but for adults 59+ with long-standing diabetes, extended fasting carries risks of hypoglycemia or muscle loss. Time-restricted eating (e.g., 12-hour overnight fast) is gentler and better studied in this population.

@@ -78,22 +78,22 @@ Holiday seasons are rich with meaning—not just food and music, but connection,
 
 ### FAQ
 
-#### #### Does holiday music really affect satiety hormones in older adults?
+#### Does holiday music really affect satiety hormones in older adults?
 
 Yes—research suggests ambient sound, especially tempo and volume, influences vagal tone and downstream release of satiety hormones like GLP-1 and peptide YY. In adults 65+, whose autonomic regulation may be more sensitive to environmental cues, this effect is both measurable and meaningful for post-meal comfort and fullness.
 
-#### #### Can holiday music satiety hormones seniors impact blood pressure?
+#### Can holiday music satiety hormones seniors impact blood pressure?
 
 Indirectly, yes. Loud or fast-paced music can temporarily elevate sympathetic activity—raising heart rate and arterial pressure. For seniors with hypertension (e.g., readings consistently ≥140/90 mm Hg), pairing festive music with calming volume and tempo helps maintain steadier BP responses during meals and social time.
 
-#### #### How does mild cognitive impairment change the holiday music satiety hormones seniors relationship?
+#### How does mild cognitive impairment change the holiday music satiety hormones seniors relationship?
 
 MCI can dampen interoceptive awareness—the ability to sense internal cues like fullness or heart rate. When combined with sound-induced vagal shifts, this may delay or blur satiety signals. Supporting the vagus through gentler auditory input helps compensate for these subtle perceptual changes.
 
-#### #### What’s the ideal holiday music volume for healthy holiday eating for seniors?
+#### What’s the ideal holiday music volume for healthy holiday eating for seniors?
 
 Aim for 55–65 decibels during meals—similar to quiet conversation or rustling leaves. Use your voice as a guide: if you don’t need to raise it to speak comfortably across the table, the level is likely supportive. Avoid sustained exposure above 70 dB, especially for more than 30 minutes at a time.
 
-#### #### Are there specific holiday songs shown to support satiety in seniors?
+#### Are there specific holiday songs shown to support satiety in seniors?
 
 While no song is “prescribed,” slower-tempo, familiar, low-complexity arrangements tend to work best. Examples include instrumental “Silent Night” (~64 BPM), Nat King Cole’s “The Christmas Song” (68 BPM), or Eva Cassidy’s “O Come, O Come Emmanuel” (62 BPM). Familiarity appears to enhance parasympathetic engagement—making the music feel like a gentle cue, not a stimulus.

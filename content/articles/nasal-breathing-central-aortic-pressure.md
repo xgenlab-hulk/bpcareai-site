@@ -54,22 +54,22 @@ In summary, while no single breathing protocol replaces comprehensive cardiovasc
 
 ### FAQ
 
-#### #### Does nasal breathing lower central aortic pressure in older women?
+#### Does nasal breathing lower central aortic pressure in older women?
 
 Yes—studies in women aged 58–71 show modest but consistent reductions (≈4–6 mm Hg) in central aortic systolic pressure after 4 weeks of daily nasal breathing sequencing, particularly when combined with breath-hold phases that enhance CO₂ retention and NO bioavailability.
 
-#### #### Can nasal breathing central aortic pressure be improved without medication?
+#### Can nasal breathing central aortic pressure be improved without medication?
 
 For many women with elevated but not severely uncontrolled BP, yes—nasal breathing central aortic pressure can improve alongside dietary sodium reduction, aerobic activity, and stress management. It’s most effective as part of an integrated approach—not a standalone fix.
 
-#### #### How does box breathing compare to Buteyko for central aortic pressure?
+#### How does box breathing compare to Buteyko for central aortic pressure?
 
 Box breathing emphasizes rhythm and vagal activation; Buteyko adds controlled CO₂ elevation, which improves arterial compliance and reduces wave reflection magnitude. Combined, they address both neural and biomechanical drivers of *nasal breathing central aortic pressure*.
 
-#### #### Is pulse wave velocity related to central aortic pressure?
+#### Is pulse wave velocity related to central aortic pressure?
 
 Absolutely. PWV is the gold-standard non-invasive marker of arterial stiffness—and higher PWV (>10 m/s) strongly predicts elevated central aortic systolic pressure, earlier wave reflection, and increased cardiac workload.
 
-#### #### Do I need special equipment to practice this breathing method?
+#### Do I need special equipment to practice this breathing method?
 
 No. The 4-minute nasal breathing sequence requires no devices, apps, or wearables—just awareness, consistency, and proper posture. However, confirming effects on central hemodynamics does require clinical tonometry.

@@ -82,22 +82,22 @@ Managing diabetes during the holidays isn’t about perfection—it’s about pr
 
 ### FAQ
 
-#### #### How do I adjust bolus timing for holiday buffet meals seniors with gastroparesis?
+#### How do I adjust bolus timing for holiday buffet meals seniors with gastroparesis?
 
 For seniors with mild gastroparesis, consider splitting your rapid-acting insulin dose—50% before eating and 50% 60–90 minutes later—and avoid bolusing more than 15 minutes before a high-fat meal. Adding a small pre-meal snack (like almonds or yogurt) can also support smoother digestion. Always discuss adjustments with your care team first.
 
-#### #### What’s the best bolus timing for holiday buffet meals seniors using insulin pens?
+#### What’s the best bolus timing for holiday buffet meals seniors using insulin pens?
 
 With insulin pens, the same principles apply—but timing becomes even more intentional. Since pen delivery is manual (no pump auto-correction), use the “split-and-delay” method: inject half your dose right before your first bite, then set a gentle reminder on your watch or phone for the second half. Keep your pen at room temperature before use—cold insulin absorbs more slowly.
 
-#### #### Why does my blood sugar spike 3 hours after holiday meals—even with correct bolus timing?
+#### Why does my blood sugar spike 3 hours after holiday meals—even with correct bolus timing?
 
 That 3-hour “lag spike” is very common in older adults, especially after high-fat meals. It reflects delayed gastric emptying and slower glucose appearance—not necessarily a dosing error. Fat slows digestion, so glucose enters the bloodstream later than expected. Adjusting *when* you deliver insulin (rather than how much) often resolves this more safely than increasing dose.
 
-#### #### Can cold weather really affect my insulin absorption during holiday gatherings?
+#### Can cold weather really affect my insulin absorption during holiday gatherings?
 
 Yes—studies confirm that skin temperatures below 70°F (21°C) reduce subcutaneous blood flow and delay insulin absorption by up to 30%. If your home or venue is cool, warming your injection site for 30–60 seconds before dosing helps restore more predictable onset—no special tools needed.
 
-#### #### Is it safe to skip my bolus before a holiday buffet if I’m nervous about lows?
+#### Is it safe to skip my bolus before a holiday buffet if I’m nervous about lows?
 
 Skipping entirely isn’t recommended—it may increase late spikes and stress on your system. Instead, try reducing your pre-meal bolus by 25–50% *and* plan to give the remainder later (Step 1 above). This keeps insulin working with your body’s natural rhythm—not against it.

@@ -79,22 +79,22 @@ Heart health isn’t about perfection—it’s about awareness, consistency, and
 
 ### FAQ
 
-#### #### What are the most common silent heart disease signs in winter women over 60?
+#### What are the most common silent heart disease signs in winter women over 60?
 
 The most common include unexplained fatigue, increased joint stiffness without swelling (especially in knees or hands), shortness of breath during light indoor activity, subtle jaw or upper back discomfort, and trouble sleeping—particularly when these symptoms appear or worsen during cold months and improve with warmth or rest.
 
-#### #### Can osteoarthritis mask silent heart disease signs in winter women over 60?
+#### Can osteoarthritis mask silent heart disease signs in winter women over 60?
 
 Yes—absolutely. Early osteoarthritis shares overlapping symptoms with cardiac strain, such as fatigue, morning stiffness, and reduced exercise tolerance. Cold-induced vasoconstriction and systemic inflammation can amplify both conditions simultaneously, making it harder to distinguish whether discomfort originates in joints or myocardium. That’s why symptom *context*, *timing*, and *response to warmth* matter greatly.
 
-#### #### Are silent heart disease signs in winter women over 60 different from those in men?
+#### Are silent heart disease signs in winter women over 60 different from those in men?
 
 Yes. Women are significantly more likely to report atypical presentations—like nausea, indigestion-like discomfort, profound exhaustion, or anxiety—rather than central chest pressure. This difference is partly hormonal (estrogen’s role in microvascular regulation) and partly anatomical (smaller coronary arteries, greater reliance on microcirculation). Men more commonly report classic angina; women often describe “a heavy weight I can’t shake.”
 
-#### #### How does cold weather affect blood pressure in older women?
+#### How does cold weather affect blood pressure in older women?
 
 Cold exposure causes peripheral vasoconstriction, increasing systemic vascular resistance and raising systolic blood pressure by an average of 5–10 mm Hg. In women over 60—especially those with arterial stiffness or postmenopausal hormonal changes—this rise may be more pronounced and slower to resolve, contributing to sustained strain on the left ventricle.
 
-#### #### What tests can detect silent heart disease before symptoms appear?
+#### What tests can detect silent heart disease before symptoms appear?
 
 While no single test catches all cases, clinically useful options include resting ECG, echocardiogram with strain imaging, coronary artery calcium (CAC) scoring via CT scan, and stress testing with perfusion imaging (e.g., nuclear or cardiac MRI). For women with suspected microvascular dysfunction, newer techniques like coronary flow reserve (CFR) assessment may be considered. Discuss individualized screening with your cardiologist based on risk factors and symptoms.

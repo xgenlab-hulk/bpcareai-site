@@ -96,22 +96,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### How can seniors prevent post-meal blood sugar spikes during holiday meals?
+#### How can seniors prevent post-meal blood sugar spikes during holiday meals?
 
 Seniors can prevent post-meal blood sugar spikes during holiday meals by starting with vinegar or protein-rich foods, eating slowly, choosing high-fiber swaps (like roasted sweet potatoes instead of mashed white potatoes), and doing light movement—like seated stretches or short walks—within 30 minutes after eating. These strategies are especially helpful for those with insulin resistance or prediabetes.
 
-#### #### What are the best foods to eat to prevent post-meal blood sugar spikes seniors?
+#### What are the best foods to eat to prevent post-meal blood sugar spikes seniors?
 
 The best foods include non-starchy vegetables (broccoli, spinach, peppers), lean proteins (turkey, eggs, tofu), legumes (lentils, chickpeas), and whole intact grains (oats, barley, farro). Pairing carbs with healthy fats (avocado, olive oil, nuts) or protein further slows digestion and glucose absorption—making meals more balanced and sustainable for seniors.
 
-#### #### Can walking after meals really help prevent post-meal blood sugar spikes seniors?
+#### Can walking after meals really help prevent post-meal blood sugar spikes seniors?
 
 Yes—absolutely. Just 5–10 minutes of light walking (or seated movement for those with limited mobility) within 30 minutes of finishing a meal can lower blood glucose by 20–30 mg/dL. This effect is especially pronounced in adults over 60 and has been confirmed in multiple randomized trials.
 
-#### #### Is apple cider vinegar safe for older adults with kidney disease?
+#### Is apple cider vinegar safe for older adults with kidney disease?
 
 Most healthy older adults can safely use 1 tablespoon of apple cider vinegar diluted in water before meals. However, if you have advanced chronic kidney disease (eGFR <30 mL/min), talk to your nephrologist first—vinegar contains potassium and acetic acid, which may require adjustment in some cases.
 
-#### #### Do blood sugar spikes after meals affect blood pressure in seniors?
+#### Do blood sugar spikes after meals affect blood pressure in seniors?
 
 Yes—they can. Acute glucose spikes trigger sympathetic nervous system activation and temporary arterial stiffness, leading to short-term BP elevation (often 5–10 mm Hg systolic). Over time, repeated spikes contribute to endothelial dysfunction—a known precursor to hypertension. So supporting stable glucose also supports healthy blood pressure trends.

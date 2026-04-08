@@ -93,22 +93,22 @@ Managing diabetes during the holidays isn’t about flawless execution—it’s 
 
 ### FAQ
 
-#### #### How do I adjust rapid-acting insulin holiday dinner dosing for a high-fat meal like turkey with gravy and stuffing?
+#### How do I adjust rapid-acting insulin holiday dinner dosing for a high-fat meal like turkey with gravy and stuffing?
 
 For meals with >20 g fat and >20 g protein (e.g., turkey + gravy + stuffing), use a dual-wave bolus: deliver 50–60% of your total calculated dose 15–20 minutes before eating, and extend the remainder over 2–3 hours. Add 0.5–1.0 unit per 10 g fat and per 15 g protein beyond your standard carb count—then apply your personal insulin-to-carb ratio.
 
-#### #### What is the best rapid-acting insulin holiday dinner dosing strategy for older adults with kidney disease?
+#### What is the best rapid-acting insulin holiday dinner dosing strategy for older adults with kidney disease?
 
 Adults with eGFR <60 mL/min/1.73m² often require 20–30% lower total rapid-acting insulin doses due to reduced renal insulin clearance. Prioritize conservative dosing (start with 70% of calculated dose), avoid extended boluses >2 hours, and monitor closely for delayed hypoglycemia—especially overnight. Consult your endocrinologist to review basal rates and correction factors.
 
-#### #### Can alcohol change my rapid-acting insulin holiday dinner dosing needs?
+#### Can alcohol change my rapid-acting insulin holiday dinner dosing needs?
 
 Yes—alcohol increases hypoglycemia risk 3–6 hours post-consumption by suppressing gluconeogenesis. If drinking wine or other alcohol with your holiday meal, reduce your extended bolus portion by 30–50%, avoid fasting before drinking, and check BG before bed—even if you feel fine. Never skip a meal to “save carbs” for alcohol.
 
-#### #### Do I need to count protein and fat for rapid-acting insulin holiday dinner dosing?
+#### Do I need to count protein and fat for rapid-acting insulin holiday dinner dosing?
 
 Yes—especially for adults over 60. Protein and fat significantly delay gastric emptying and contribute to late-phase glucose elevation. While not converted directly to glucose like carbs, 25–30 g protein + 25 g fat can raise BG by 30–50 mg/dL between 2–5 hours post-meal. Incorporate them into your dosing logic using the Fat-Protein Adjustment Factor (FPAF) or clinical guidelines.
 
-#### #### How does aging affect rapid-acting insulin holiday dinner dosing?
+#### How does aging affect rapid-acting insulin holiday dinner dosing?
 
 Aging reduces insulin clearance (by ~1% per year after age 50), slows gastric motility, and blunts glucagon response—making both hyper- and hypoglycemia more likely with standard dosing. Older adults often need lower total doses, longer bolus durations, and greater emphasis on pre-meal BG and recent activity level—not just carb count.

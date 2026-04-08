@@ -83,22 +83,22 @@ Understanding **heart disease progression after menopause** isn’t about adding
 
 ### FAQ
 
-#### #### Does heart disease progression after menopause affect everyone equally?
+#### Does heart disease progression after menopause affect everyone equally?
 
 No — genetics, lifestyle, reproductive history (e.g., early or surgical menopause), and underlying conditions all influence pace and pattern. For example, women who enter menopause before age 45 have up to a 50% higher risk of coronary heart disease later in life compared to those who transition after age 50.
 
-#### #### What role does hormone therapy play in heart disease progression after menopause?
+#### What role does hormone therapy play in heart disease progression after menopause?
 
 Timing matters most. Starting systemic estrogen *within 10 years of menopause onset* and before age 60 appears neutral or possibly protective for the heart in healthy women — especially when delivered transdermally (patch/gel). Starting later — particularly after age 65 — does not prevent heart disease progression after menopause and may increase risk in some individuals. Always discuss personal risks and benefits with a clinician trained in menopause care.
 
-#### #### Can heart disease progression after menopause be reversed?
+#### Can heart disease progression after menopause be reversed?
 
 Yes — especially in earlier stages. Endothelial function improves with exercise, Mediterranean-style eating, smoking cessation, and BP control. Plaque stabilization (and even modest regression) has been documented with intensive lifestyle change and lipid-lowering therapy. Microvascular function also responds well to consistent aerobic activity and stress reduction.
 
-#### #### Why do women often get misdiagnosed when heart disease progresses after menopause?
+#### Why do women often get misdiagnosed when heart disease progresses after menopause?
 
 Because symptoms differ: only about 30% of women report classic chest pressure during a cardiac event. More common are nausea, profound fatigue, cold sweats, or upper back pain — which can be mistaken for anxiety, GI issues, or musculoskeletal strain. Diagnostic tools like standard treadmill stress tests are also less sensitive in women, partly due to differences in heart size, hormonal effects on ECG patterns, and microvascular involvement.
 
-#### #### Is high blood pressure normal after menopause?
+#### Is high blood pressure normal after menopause?
 
 Not “normal” — but it’s common. Roughly 65% of women aged 60–74 have hypertension (BP ≥140/90 mm Hg). However, it’s modifiable. Even a 5-mm Hg drop in systolic BP across a population lowers stroke risk by ~14% and heart disease risk by ~9%. So while prevalence rises, it’s not inevitable — and treatment works just as well in women as in men.

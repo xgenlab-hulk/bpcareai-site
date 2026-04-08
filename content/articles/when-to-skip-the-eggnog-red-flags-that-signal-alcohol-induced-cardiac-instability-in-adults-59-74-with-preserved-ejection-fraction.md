@@ -71,17 +71,17 @@ Many of these signs are reversible with timely behavioral adjustments—and reco
 
 ### FAQ
 
-#### #### What are the red flags eggnog cardiac instability holiday warning signs?
+#### What are the red flags eggnog cardiac instability holiday warning signs?
 The most telling early signs include transient voice changes (hoarseness without infection), a sensation of neck fullness or pressure within 1–2 hours of drinking eggnog, and delayed heart rate recovery (HR >100 bpm at 2 minutes) after climbing stairs. These often precede holiday AF by 1–3 days.
 
-#### #### Can red flags eggnog cardiac instability holiday happen even with normal heart scans?
+#### Can red flags eggnog cardiac instability holiday happen even with normal heart scans?
 Yes. Structural imaging (like echo or MRI) may show preserved ejection fraction and no wall motion abnormalities—but electrical vulnerability arises from age-related atrial fibrosis, autonomic shifts, and metabolic factors not visible on standard imaging.
 
-#### #### Is “holiday heart syndrome prevention” possible for someone over 60?
+#### Is “holiday heart syndrome prevention” possible for someone over 60?
 Absolutely. Prevention centers on alcohol moderation, sodium awareness, hydration, and recognizing personal red flags. Clinical trials show a 42% lower incidence of holiday-onset AF in adults 60+ who abstained from alcohol during December versus controls.
 
-#### #### Does eggnog itself cause heart problems—or is it the alcohol?
+#### Does eggnog itself cause heart problems—or is it the alcohol?
 It’s primarily the alcohol—though full-fat, sugar-laden eggnog contributes to volume load and insulin spikes, which amplify alcohol’s electrophysiological effects. Non-alcoholic versions pose minimal cardiac risk for most.
 
-#### #### How soon after drinking eggnog do red flags eggnog cardiac instability holiday typically appear?
+#### How soon after drinking eggnog do red flags eggnog cardiac instability holiday typically appear?
 Most commonly within 30–120 minutes post-consumption, though delayed HR recovery may surface the next morning. Symptoms rarely persist beyond 4 hours unless additional triggers (e.g., sleep loss, high sodium) are present.

@@ -53,22 +53,22 @@ In short, enjoying the season doesn’t mean compromising gut health. With mindf
 
 ### FAQ
 
-#### #### Can holiday foods silent reflux seniors affect blood pressure?
+#### Can holiday foods silent reflux seniors affect blood pressure?
 
 Not directly—but reflux-triggered stress responses, nighttime awakenings, and certain reflux medications (e.g., some antacids high in sodium) may influence BP control. Chronic inflammation from untreated silent reflux is also linked to endothelial dysfunction, a contributor to arterial stiffness.
 
-#### #### What are the top 3 holiday foods silent reflux seniors should avoid?
+#### What are the top 3 holiday foods silent reflux seniors should avoid?
 
 The highest-risk trio includes: (1) gravy and cream-based sauces (high saturated fat), (2) chocolate-covered candies or desserts (theobromine + fat), and (3) fried appetizers like latkes or mozzarella sticks (fat + heat-induced mucosal irritation).
 
-#### #### How is silent reflux diagnosed in older adults without heartburn?
+#### How is silent reflux diagnosed in older adults without heartburn?
 
 Clinicians often begin with a detailed history and RSI scoring, then may recommend ambulatory pH-impedance testing—especially if laryngeal or respiratory symptoms dominate. Endoscopy is reserved for those with alarm features (e.g., dysphagia, bleeding, weight loss).
 
-#### #### Is herbal tea safe for seniors with holiday foods silent reflux seniors concerns?
+#### Is herbal tea safe for seniors with holiday foods silent reflux seniors concerns?
 
 Most caffeine-free herbal teas (e.g., ginger, chamomile) are low-risk—but avoid peppermint, spearmint, and licorice root, which relax the LES. Also steer clear of very hot infusions (>65°C), as thermal injury can mimic or worsen reflux symptoms.
 
-#### #### Does fiber intake help prevent silent reflux during the holidays?
+#### Does fiber intake help prevent silent reflux during the holidays?
 
 Yes—moderate soluble fiber (e.g., oats, cooked apples, psyllium) supports gastric motility and reduces constipation-related intra-abdominal pressure. But avoid excessive raw cruciferous vegetables (e.g., raw broccoli salad) late in the day, as they may cause bloating and transient LES relaxation.

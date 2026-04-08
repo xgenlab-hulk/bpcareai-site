@@ -82,17 +82,17 @@ Understanding the *salt sensitivity myth older adults sodium* doesn’t mean ass
 
 ### FAQ
 
-#### #### Is salt sensitivity real in older adults—or just a myth?
+#### Is salt sensitivity real in older adults—or just a myth?
 Yes, salt sensitivity is very real in older adults—but it’s often misunderstood. It’s not just about rare genetic variants. Age-related declines in renal sodium excretion, aldosterone resistance, and vascular compliance mean many people over 60 experience clinically meaningful blood pressure rises with even modest sodium intake—challenging the *salt sensitivity myth older adults sodium*.
 
-#### #### Why does my blood pressure go up with only 2g sodium if I tested “not salt-sensitive”?
+#### Why does my blood pressure go up with only 2g sodium if I tested “not salt-sensitive”?
 Because standard salt-sensitivity testing uses extreme dietary shifts (e.g., 500 mg → 4,500 mg/day) over short periods—and misses the cumulative, low-threshold sodium retention common with aging. Your kidneys may retain extra fluid quietly on 2g/day, raising BP gradually without triggering classic test criteria.
 
-#### #### Can I reverse salt sensitivity as an older adult?
+#### Can I reverse salt sensitivity as an older adult?
 You can’t reverse aging physiology, but you *can* improve sodium handling. Regular aerobic activity (150 min/week), potassium-rich eating, weight management, and treating sleep apnea all enhance natriuresis and vascular resilience—reducing the BP impact of any given sodium load.
 
-#### #### Does salt sensitivity affect only blood pressure—or other health risks too?
+#### Does salt sensitivity affect only blood pressure—or other health risks too?
 Elevated sodium intake in older adults is linked not just to hypertension, but also to accelerated arterial stiffness, left ventricular hypertrophy, cognitive decline, and worsening kidney function—even in those with initially normal eGFR. Volume overload contributes to these pathways independently of BP spikes.
 
-#### #### Are there lab tests to confirm salt sensitivity in seniors?
+#### Are there lab tests to confirm salt sensitivity in seniors?
 No single definitive test exists. However, serial ambulatory BP monitoring, spot urine sodium:creatinine ratios, and clinical volume assessment (JVP, weight trends, nocturnal dipping) together offer stronger real-world insight than the traditional salt-loading test—especially for older adults navigating the *salt sensitivity myth older adults sodium*.

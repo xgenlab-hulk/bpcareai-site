@@ -58,22 +58,22 @@ The holidays are about connection, comfort, and joy—not perfection or restrict
 
 ### FAQ
 
-#### #### Can alcohol and GLP-1 agonists holiday use increase my risk of low blood sugar?
+#### Can alcohol and GLP-1 agonists holiday use increase my risk of low blood sugar?
 
 Yes—especially several hours after drinking, due to delayed gastric emptying and reduced food intake. Hypoglycemia may occur 3–6 hours post-consumption, sometimes overnight, even with just one drink.
 
-#### #### Is it safe to have wine while on Ozempic during the holidays?
+#### Is it safe to have wine while on Ozempic during the holidays?
 
 It *can* be safe—if you pair it with food, limit to one serving, monitor glucose before bed, and avoid drinking late. But because Ozempic slows stomach emptying, wine’s effects may be delayed and prolonged compared to when you weren’t on the medication.
 
-#### #### How does alcohol affect blood pressure when you’re on a GLP-1 agonist?
+#### How does alcohol affect blood pressure when you’re on a GLP-1 agonist?
 
 Alcohol can cause an initial BP rise (up to 20 mm Hg systolic), followed by a drop—especially overnight. When combined with GLP-1-induced autonomic modulation and potential dehydration, this increases orthostatic risk. Those with hypertension should monitor BP before and the morning after drinking.
 
-#### #### Do GLP-1 agonists make you more sensitive to alcohol?
+#### Do GLP-1 agonists make you more sensitive to alcohol?
 
 Not in terms of intoxication *per se*, but yes in terms of metabolic impact: slower absorption means unpredictable peaks, longer exposure, and greater risk of delayed hypoglycemia or GI upset—even at lower doses than you’d normally tolerate.
 
-#### #### Should I skip my GLP-1 injection the day I plan to drink?
+#### Should I skip my GLP-1 injection the day I plan to drink?
 
 No—do not skip or alter your prescribed dose without consulting your provider. Dose adjustments require medical guidance and depend on your overall regimen, kidney function, and recent glucose patterns.

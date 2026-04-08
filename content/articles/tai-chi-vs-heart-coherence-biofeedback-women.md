@@ -56,22 +56,22 @@ Heart health at this stage of life isn’t about perfection or pushing harder. I
 
 ### FAQ
 
-#### #### Is tai chi vs heart coherence biofeedback women equally effective for lowering blood pressure?
+#### Is tai chi vs heart coherence biofeedback women equally effective for lowering blood pressure?
 
 Research suggests both approaches modestly reduce systolic BP—by about 4–6 mm Hg on average after 12 weeks—but their greatest benefit lies in improving *autonomic balance*, not just numbers on a cuff. For women with hypertension *and* hot flashes, tai chi may offer added benefits for sleep quality and joint comfort, while biofeedback tends to show faster HRV gains. Neither replaces prescribed BP medication, but both support its effectiveness.
 
-#### #### Can I do tai chi vs heart coherence biofeedback women if I have arthritis or balance concerns?
+#### Can I do tai chi vs heart coherence biofeedback women if I have arthritis or balance concerns?
 
 Yes—with modifications. Tai chi can be practiced seated or with chair support (many programs offer “chair tai chi” versions). Biofeedback requires no movement at all—just comfortable sitting and focused breathing. Always inform your instructor or clinician about mobility limitations so they can tailor cues safely.
 
-#### #### How long before I notice changes from tai chi vs heart coherence biofeedback women?
+#### How long before I notice changes from tai chi vs heart coherence biofeedback women?
 
 Most women report subtle shifts—like easier mornings, steadier moods, or less reactive heartbeats—within 2–4 weeks. Objective improvements in 24-hour HRV typically appear after 6–8 weeks of consistent practice. Think of it like watering a plant: results aren’t instant, but steady care makes a measurable difference.
 
-#### #### Do I need special equipment for heart coherence biofeedback?
+#### Do I need special equipment for heart coherence biofeedback?
 
 Some consumer-grade devices (finger sensors, chest straps) pair with apps and work well for home use—but look for FDA-cleared or CE-marked tools validated for HRV measurement. Alternatively, many hospitals and cardiac rehab centers offer supervised biofeedback sessions—sometimes covered by Medicare Part B with a referral.
 
-#### #### Can tai chi help with hot flashes and night sweats too?
+#### Can tai chi help with hot flashes and night sweats too?
 
 Emerging evidence says yes. A 2022 RCT in *Menopause* found that women doing tai chi 3x/week for 12 weeks reported 32% fewer moderate-to-severe vasomotor symptoms—likely due to reduced sympathetic arousal and improved thermoregulation via vagal modulation. It’s one of the few non-hormonal strategies showing dual benefit for both heart health *and* menopausal comfort.

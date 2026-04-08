@@ -83,22 +83,22 @@ And remember: *intergenerational cooking blood sugar spikes* aren’t something 
 
 ### FAQ
 
-#### #### Does intergenerational cooking blood sugar impact gastroparesis symptoms?
+#### Does intergenerational cooking blood sugar impact gastroparesis symptoms?
 
 Yes—often positively. Light physical involvement (e.g., stirring, measuring, plating) supports vagal tone and promotes slower, more mindful eating. This gives the stomach more time to process food, potentially reducing bloating, early satiety, and delayed glucose spikes. Just avoid standing for long stretches if fatigue or orthostatic dizziness is present.
 
-#### #### Can intergenerational cooking blood sugar spikes be reduced without changing the menu?
+#### Can intergenerational cooking blood sugar spikes be reduced without changing the menu?
 
 Absolutely. Research shows that simply shifting *how* and *when* you eat—guided by shared prep—can lower post-meal glucose by 10–20%, even with traditional holiday foods. Slower pacing, starting with fiber/protein, and adding brief movement before or during the meal all contribute—no recipe overhaul required.
 
-#### #### How does intergenerational cooking affect blood sugar compared to cooking alone?
+#### How does intergenerational cooking affect blood sugar compared to cooking alone?
 
 Studies comparing matched meals show that adults who cooked with at least one other person had, on average, 12% lower 2-hour glucose peaks—and reported greater meal satisfaction and less post-meal fatigue. The social engagement appears to modulate stress hormones (like cortisol), which otherwise raise glucose, and encourages natural pacing.
 
-#### #### Is it safe to cook if I’m on metformin or a GLP-1 medication?
+#### Is it safe to cook if I’m on metformin or a GLP-1 medication?
 
 Generally yes—but timing matters. Metformin rarely causes hypoglycemia, but GLP-1 drugs (e.g., semaglutide) *do* slow gastric emptying further. If you’re experiencing increased nausea or unpredictable glucose dips, talk with your provider about adjusting dose timing or coordinating meals with activity. Never skip doses without medical guidance.
 
-#### #### What’s the best way to involve grandchildren without overwhelming them—or me?
+#### What’s the best way to involve grandchildren without overwhelming them—or me?
 
 Keep tasks age-appropriate and low-pressure: “Can you count out 8 cherry tomatoes?” or “Would you like to sprinkle the cheese?” Even 5–10 minutes of shared focus builds connection and supports metabolic rhythm. Rest is part of the process—step back, sip tea, and enjoy the hum of the kitchen. That counts, too.

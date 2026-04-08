@@ -63,22 +63,22 @@ Managing type 2 diabetes and IBS-D at this stage of life isn’t about perfectio
 
 ### FAQ
 
-#### #### What are the best foods that reduce serotonin glucose spike for older men with diabetes?
+#### What are the best foods that reduce serotonin glucose spike for older men with diabetes?
 
 The most supportive options include fermented legumes (like tempeh and properly aged dosa batter), cooked-and-cooled resistant starches (white rice, potatoes), and low-FODMAP polyphenol sources like strained, cooked blackberries. These help normalize gut serotonin signaling without triggering vagally mediated glucose surges.
 
-#### #### Do foods that reduce serotonin glucose spike also help with IBS-D symptoms?
+#### Do foods that reduce serotonin glucose spike also help with IBS-D symptoms?
 
 Yes—many do double duty. Fermented legumes and gentle prebiotics improve stool consistency *and* lower postprandial glucose variability by reducing excessive colonic serotonin release, which contributes to both diarrhea and hepatic glucose output.
 
-#### #### Can I use supplements instead of foods that reduce serotonin glucose spike?
+#### Can I use supplements instead of foods that reduce serotonin glucose spike?
 
 While some supplements (like berberine or specific probiotic strains) show promise in early research, whole foods offer synergistic compounds—fiber, polyphenols, organic acids—that work together more reliably in real-world digestion. Always discuss supplements with your care team first.
 
-#### #### How long does it take to see changes after adding foods that reduce serotonin glucose spike?
+#### How long does it take to see changes after adding foods that reduce serotonin glucose spike?
 
 Most men in studies saw measurable improvements in postprandial glucose stability within 2–3 weeks—especially when combining these foods with consistent meal timing and mindful chewing. Patience and pattern-tracking matter more than speed.
 
-#### #### Is serotonin in the gut linked to blood pressure?
+#### Is serotonin in the gut linked to blood pressure?
 
 Indirectly, yes. Excess gut serotonin can influence autonomic tone—including vagal and sympathetic balance—which plays a role in arterial pressure regulation. That’s why stabilizing gut 5-HT may support both glucose *and* cardiovascular wellness over time.

@@ -75,17 +75,17 @@ Holiday traditions are rooted in connection, care, and shared warmth—not perfe
 
 ### FAQ
 
-#### #### Can holiday leftovers worsen gastroparesis symptoms in seniors over 75?
+#### Can holiday leftovers worsen gastroparesis symptoms in seniors over 75?
 Yes—particularly high-fat, cold, or unevenly reheated foods. These delay gastric emptying by suppressing antral contractions and increasing gastric retention time. Seniors with mild gastroparesis may notice increased bloating, nausea, or glucose fluctuations 3–5 hours after eating leftovers.
 
-#### #### What are safe holiday leftovers for seniors with gastroparesis?
+#### What are safe holiday leftovers for seniors with gastroparesis?
 Opt for low-fat, soft-textured, room-temperature options: shredded lean turkey breast (skinless), well-mashed sweet potatoes (no added butter or marshmallows), clear broths, and baked apples with cinnamon. Avoid fried items, heavy gravies, raw vegetables, and chilled gelatin-based desserts.
 
-#### #### How does healthy holiday eating for seniors differ from general advice for younger adults?
+#### How does healthy holiday eating for seniors differ from general advice for younger adults?
 Healthy holiday eating for seniors emphasizes *gastric tolerance* over calorie counting. It prioritizes fat moderation (≤10g/meal), gentle thermal handling (avoiding <10°C or >60°C), and mechanical softness—because aging reduces gastric grinding power, vagal responsiveness, and gastric compliance.
 
-#### #### Is gastroparesis common in older adults—and can it be managed without medication?
+#### Is gastroparesis common in older adults—and can it be managed without medication?
 Up to 12% of adults over 75 show signs of mild gastroparesis, often linked to autonomic aging or diabetes. Yes—it can frequently be managed non-pharmacologically through dietary pacing, positional strategies (upright posture post-meal), and targeted food modifications, especially during high-risk periods like the holidays.
 
-#### #### Do cold holiday leftovers affect blood sugar differently in seniors with gastroparesis?
+#### Do cold holiday leftovers affect blood sugar differently in seniors with gastroparesis?
 Yes. Cold foods slow gastric motility, delaying carbohydrate delivery to the small intestine. This can cause *delayed hyperglycemia* (peaking 3–4 hours post-meal) or reactive hypoglycemia later, complicating diabetes management. Warming leftovers to room temperature helps normalize gastric transit and glucose absorption timing.

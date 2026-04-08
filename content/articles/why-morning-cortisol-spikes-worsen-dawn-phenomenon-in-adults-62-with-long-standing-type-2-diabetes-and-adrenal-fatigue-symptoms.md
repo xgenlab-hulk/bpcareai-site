@@ -85,17 +85,17 @@ Understanding the cortisol dawn phenomenon type 2 diabetes doesn’t mean accept
 
 ### FAQ
 
-#### #### What is the cortisol dawn phenomenon type 2 diabetes—and how is it different from regular dawn phenomenon?
+#### What is the cortisol dawn phenomenon type 2 diabetes—and how is it different from regular dawn phenomenon?
 The cortisol dawn phenomenon type 2 diabetes refers specifically to the early-morning blood sugar rise driven by an exaggerated or mistimed cortisol surge, commonly seen in older adults with long-standing type 2 diabetes and signs of HPA axis dysregulation. Unlike the classic “dawn phenomenon” (a general term for pre-breakfast hyperglycemia), this variant emphasizes the hormonal mechanism—making it more responsive to circadian and stress-modulating strategies than insulin-only adjustments.
 
-#### #### Can cortisol dawn phenomenon type 2 diabetes cause high blood pressure in the morning?
+#### Can cortisol dawn phenomenon type 2 diabetes cause high blood pressure in the morning?
 Yes. Cortisol increases cardiac output and peripheral vascular resistance. In adults over 60 with type 2 diabetes, a heightened morning cortisol spike often coincides with a 10–20 mm Hg rise in systolic BP between 5–9 a.m.—a pattern known as “morning hypertension.” This contributes to higher stroke and myocardial infarction risk during those hours.
 
-#### #### How do I know if my morning high blood sugar is due to cortisol—or something else?
+#### How do I know if my morning high blood sugar is due to cortisol—or something else?
 Key clues include: fasting glucose rising *despite* stable or increasing basal insulin doses; morning fatigue that improves by noon; unexplained salt cravings; and poor recovery from minor stressors. Confirming requires salivary cortisol testing—not just glucose checks. Other contributors (like bedtime snacking, nocturnal hypoglycemia rebound, or sleep apnea) should also be ruled out.
 
-#### #### Does melatonin help with cortisol dawn phenomenon type 2 diabetes?
+#### Does melatonin help with cortisol dawn phenomenon type 2 diabetes?
 Low-dose (0.5–1.0 mg) timed melatonin (30–60 minutes before target bedtime) may help *if* delayed sleep phase or low endogenous melatonin contributes to circadian misalignment. However, melatonin does not directly lower cortisol—and high doses (>3 mg) may impair insulin secretion in some individuals. Always discuss with your provider first.
 
-#### #### Is there a connection between cortisol dawn phenomenon type 2 diabetes and diabetic neuropathy?
+#### Is there a connection between cortisol dawn phenomenon type 2 diabetes and diabetic neuropathy?
 Indirectly, yes. Chronic HPA axis dysregulation contributes to systemic inflammation and oxidative stress—both drivers of nerve damage. Additionally, repeated morning hyperglycemia worsens glycation of nerve proteins. Managing the cortisol-glucose loop may therefore support peripheral nerve health over time—though it’s one piece of a broader neuropathy prevention plan.

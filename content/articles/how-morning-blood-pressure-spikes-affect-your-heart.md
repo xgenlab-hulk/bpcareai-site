@@ -93,17 +93,17 @@ A morning blood pressure spike is not a diagnosis — it’s information. It ref
 
 ### FAQ
 
-#### #### What causes a morning blood pressure spike in older adults?
+#### What causes a morning blood pressure spike in older adults?
 The most common *morning blood pressure spike causes* in adults over 50 include natural circadian surges in cortisol and adrenaline, reduced nighttime nitric oxide production, stiffer arteries with age, and timing of blood pressure medications. Sleep disorders like obstructive sleep apnea also play a significant role — affecting up to 50% of older adults with resistant hypertension.
 
-#### #### Is a morning blood pressure spike dangerous?
+#### Is a morning blood pressure spike dangerous?
 A mild, consistent rise (e.g., 10–15 mm Hg) is normal and healthy. However, repeated spikes above 155/95 mm Hg or surges greater than 25 mm Hg in systolic pressure may increase cardiovascular risk — especially for stroke and heart attack between 6 a.m. and noon. That’s why identifying the underlying *morning blood pressure spike causes* matters more than the number alone.
 
-#### #### How can I lower my morning blood pressure naturally?
+#### How can I lower my morning blood pressure naturally?
 Focus on consistency: aim for 7–8 hours of restorative sleep, limit evening sodium and alcohol, rise slowly in the morning, and consider shifting certain medications to bedtime (with your doctor’s guidance). Gentle movement like walking after breakfast — rather than intense exercise on an empty stomach — also supports steadier BP patterns.
 
-#### #### What time of day is blood pressure lowest?
+#### What time of day is blood pressure lowest?
 For most people, blood pressure reaches its lowest point during deep sleep — typically between 2 a.m. and 4 a.m. This nocturnal dip is protective; those who don’t experience it (“non-dippers”) often have higher cardiovascular risk. Monitoring both nighttime lows and morning highs gives the full picture.
 
-#### #### Can stress cause a morning blood pressure spike?
+#### Can stress cause a morning blood pressure spike?
 Yes — but not always the kind we think of. Anticipatory stress (e.g., worrying about the day ahead while still in bed) activates the sympathetic nervous system early, amplifying the natural morning rise. Practicing mindful breathing or gratitude journaling upon waking has been shown in studies to blunt this effect by up to 8–10 mm Hg in some individuals.

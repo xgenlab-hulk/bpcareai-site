@@ -89,17 +89,17 @@ Holiday meals don’t have to be a trade-off between tradition and tolerance. Wi
 
 ### FAQ  
 
-#### #### What are the best low FODMAP holiday sides for seniors with IBS who also have high blood pressure?  
+#### What are the best low FODMAP holiday sides for seniors with IBS who also have high blood pressure?  
 Great question! Many low-FODMAP sides naturally align with heart-healthy goals: roasted carrots, mashed parsnips, and green beans are all low-sodium, high-potassium, and rich in nitrates that support arterial flexibility. Just skip added salt—use herbs, lemon zest, or vinegar for brightness. Also, limit cured meats or high-sodium gravies, which can raise BP. Focus on whole, unprocessed ingredients—and remember, fiber itself supports healthy vascular function by improving insulin sensitivity and reducing systemic inflammation.
 
-#### #### Can low FODMAP holiday sides for seniors with IBS help with postmenopausal constipation?  
+#### Can low FODMAP holiday sides for seniors with IBS help with postmenopausal constipation?  
 Yes—when chosen wisely. Soluble, low-fermentation fibers (like those in chia, peeled pears, and cooked carrots) increase stool bulk *and* water retention in the colon—counteracting the drier, slower transit common after menopause. Clinical reviews suggest combining 25g of total daily fiber (with at least 10g soluble) + 1.5L of fluids improves constipation in 68% of women over 65 within 3 weeks. The key is consistency—not volume.
 
-#### #### Are there low FODMAP holiday sides for seniors with IBS that are also soft or easy to chew?  
+#### Are there low FODMAP holiday sides for seniors with IBS that are also soft or easy to chew?  
 Absolutely. Mashed parsnips & sweet potatoes, chia-poached pears, and well-roasted carrots all have naturally soft textures. You can also blend roasted squash with a splash of broth for a velvety purée—or cook green beans until very tender (12–15 min) and toss with tahini instead of crunchier toppings. Texture modification doesn’t mean sacrificing nutrition—or flavor.
 
-#### #### Do I need to follow the full low-FODMAP diet year-round if I have IBS-C?  
+#### Do I need to follow the full low-FODMAP diet year-round if I have IBS-C?  
 Not necessarily. Most people with IBS-C benefit most from the *reintroduction phase*—systematically testing small amounts of higher-FODMAP foods to identify personal tolerances. For holidays, a targeted, short-term approach (e.g., choosing only low-FODMAP sides for 3–4 days) is often enough to prevent flares—without long-term restriction.
 
-#### #### How much fiber should a woman over 65 eat daily if she has IBS-C?  
+#### How much fiber should a woman over 65 eat daily if she has IBS-C?  
 Current guidelines recommend 22g of total fiber per day for women over 50—but with IBS-C, it’s smarter to aim for *gradual* increases: start at 15g/day, add 2g weekly, and prioritize *soluble* sources (oats, chia, peeled fruit, carrots). Too much too fast—even low-FODMAP fiber—can worsen bloating. Listen to your body, not just the number.

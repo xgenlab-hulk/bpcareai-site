@@ -63,17 +63,17 @@ Holiday travel should bring joy—not worry. But paying gentle, informed attenti
 
 ### FAQ
 
-#### #### What does sudden thirst during holiday travel mean if I’m prediabetic?
+#### What does sudden thirst during holiday travel mean if I’m prediabetic?
 Sudden thirst during holiday travel—especially when paired with frequent urination—can signal rising blood glucose levels. In prediabetes, the body’s insulin response is already less efficient, and travel stressors (missed meds, irregular meals, dehydration) can push glucose into the danger zone. It’s rarely an emergency on its own—but it *is* your body’s nudge to pause and check in.
 
-#### #### Can sudden thirst holiday travel prediabetes lead to hospitalization?
+#### Can sudden thirst holiday travel prediabetes lead to hospitalization?
 It *can*, but usually only if ignored for 24–48 hours while other risk factors pile up—like untreated dehydration, missed diabetes meds, or concurrent illness. Early recognition and action reduce that risk dramatically. Most people recover fully with prompt care.
 
-#### #### Is frequent urination during travel normal for older adults?
+#### Is frequent urination during travel normal for older adults?
 Some increase is common—but *new*, *sudden*, or *excessive* urination (e.g., waking 3+ times nightly or needing to go hourly during the day) isn’t typical aging. It’s worth investigating, especially alongside thirst, fatigue, or blurry vision.
 
-#### #### How do I tell the difference between travel-related dehydration and early HHS?
+#### How do I tell the difference between travel-related dehydration and early HHS?
 Dehydration usually improves within a few hours of steady fluid intake. HHS-related thirst and urination persist *despite* drinking—and often worsen. Other clues: dry mouth that doesn’t improve, mental fogginess, or blood sugar >250 mg/dL on two checks 2 hours apart.
 
-#### #### Should I carry glucose test strips when traveling if I’m prediabetic?
+#### Should I carry glucose test strips when traveling if I’m prediabetic?
 Yes—if you’ve been advised to monitor, or if you’ve had borderline readings before. Even without a diagnosis, knowing your numbers during travel gives you valuable insight—and peace of mind.

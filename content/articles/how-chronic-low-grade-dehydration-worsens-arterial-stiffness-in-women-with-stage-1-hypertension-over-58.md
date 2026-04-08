@@ -92,17 +92,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ  
 
-#### #### Does dehydration cause arterial stiffness in women over 60?  
+#### Does dehydration cause arterial stiffness in women over 60?  
 Yes — especially chronic, low-grade dehydration. In women over 60, hormonal shifts, reduced thirst sensitivity, and age-related kidney changes make it easier to fall into a mild deficit. That deficit activates stress pathways (like RAAS) and reduces nitric oxide availability, both of which directly increase arterial stiffness. It’s not about one missed glass — it’s about consistent, gentle hydration support over time.
 
-#### #### How does dehydration and arterial stiffness hypertension affect blood pressure readings?  
+#### How does dehydration and arterial stiffness hypertension affect blood pressure readings?  
 Chronic dehydration contributes to *increased peripheral resistance* and *reduced arterial compliance*, both of which raise systolic pressure and widen pulse pressure. You may see higher morning readings, more variability across the day, or a pattern where BP stays elevated despite medication — all clues that fluid balance is playing a role alongside other factors.
 
-#### #### Can drinking more water lower arterial stiffness in stage 1 hypertension?  
+#### Can drinking more water lower arterial stiffness in stage 1 hypertension?  
 Evidence suggests yes — but with nuance. Randomized trials show that structured, individualized hydration plans (not just “drink more”) improve endothelial function and reduce PWV in adults with early hypertension. The benefit appears strongest when hydration is paired with electrolyte balance and timed to match daily activity patterns — not forced in large amounts.
 
-#### #### Is coconut water good for lowering blood pressure and arterial stiffness?  
+#### Is coconut water good for lowering blood pressure and arterial stiffness?  
 Coconut water contains potassium and magnesium — nutrients linked to vascular relaxation — but it’s also relatively high in sodium (varies by brand) and natural sugars. For most women over 58, plain water with a pinch of mineral-rich salt or whole-food sources of electrolytes (like tomato juice or roasted squash seeds) offers more predictable support without added sugar load.
 
-#### #### What’s the best time of day to drink water for blood pressure control?  
+#### What’s the best time of day to drink water for blood pressure control?  
 Morning and midday are ideal — that’s when your body’s natural cortisol rhythm supports fluid distribution, and when BP tends to rise. Avoid large volumes within 2 hours of bedtime to prevent sleep disruption and overnight BP surges. Sipping steadily — rather than chugging — helps maintain steady intravascular volume and supports stable endothelial signaling all day long.

@@ -63,17 +63,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Could perimenopause itself cause resistant hypertension—even without sleep apnea?  
+#### Could perimenopause itself cause resistant hypertension—even without sleep apnea?  
 Yes—estrogen decline contributes to increased vascular stiffness and sympathetic tone. But when combined with untreated OSA, the effect multiplies. That’s why *sleep apnea resistant hypertension perimenopause* requires looking at both hormonal and respiratory factors together.
 
-#### #### What’s the link between insulin resistance and sleep apnea resistant hypertension perimenopause?  
+#### What’s the link between insulin resistance and sleep apnea resistant hypertension perimenopause?  
 Insulin resistance promotes inflammation and oxidative stress, worsening endothelial function—and OSA independently does the same. Together, they accelerate arterial damage and blunt medication response. In fact, women with both conditions are 3x more likely to have non-dipping BP patterns.
 
-#### #### How do I know if my high blood pressure is due to sleep apnea resistant hypertension perimenopause?  
+#### How do I know if my high blood pressure is due to sleep apnea resistant hypertension perimenopause?  
 Key clues include: BP that’s hardest to control at night or first thing in the morning, symptoms like fatigue or brain fog despite 7+ hours of sleep, and metabolic signs (e.g., rising fasting glucose or waist gain). A sleep study and 24-hour BP monitoring provide the clearest answers.
 
-#### #### Are CPAP machines effective for women with sleep apnea resistant hypertension perimenopause?  
+#### Are CPAP machines effective for women with sleep apnea resistant hypertension perimenopause?  
 Yes—studies show CPAP use for ≥4 hours/night reduces systolic BP by an average of 5–7 mm Hg in women with OSA and resistant hypertension, especially when started early in perimenopause.
 
-#### #### Can lifestyle changes alone reverse sleep apnea resistant hypertension perimenopause?  
+#### Can lifestyle changes alone reverse sleep apnea resistant hypertension perimenopause?  
 They’re powerful allies—weight management, aerobic activity, and sleep hygiene improve both OSA severity and insulin sensitivity—but most women benefit most from combining lifestyle shifts with targeted therapy (like CPAP or medication adjustment).

@@ -51,17 +51,17 @@ The *silent signs salt-induced fluid retention seniors* experience are quiet, ye
 
 ### FAQ
 
-#### #### What are the earliest silent signs salt-induced fluid retention seniors might notice?
+#### What are the earliest silent signs salt-induced fluid retention seniors might notice?
 The earliest signs often include subtle changes like shoes or rings feeling tighter, a new sensation of abdominal fullness (not bloating), reduced ability to turn the head comfortably, and fatigue that doesn’t improve with rest—even before visible swelling or shortness of breath appears.
 
-#### #### Can silent signs salt-induced fluid retention seniors occur without heart failure or CKD?
+#### Can silent signs salt-induced fluid retention seniors occur without heart failure or CKD?
 Yes. Age-related declines in kidney function, arterial elasticity, and hormone regulation mean many older adults experience mild fluid retention after high-sodium meals—even without diagnosed heart failure or chronic kidney disease. It’s a sign of reduced physiological reserve, not necessarily disease.
 
-#### #### How much salt is too much for seniors during holiday gatherings?
+#### How much salt is too much for seniors during holiday gatherings?
 For most adults over 50—especially those with hypertension, heart disease, or CKD—the American Heart Association recommends no more than 1,500 mg of sodium per day. A single serving of canned soup or deli meat can contain 800–1,200 mg, so portion awareness and homemade alternatives really help.
 
-#### #### Is sudden weight gain always due to salt-induced fluid retention?
+#### Is sudden weight gain always due to salt-induced fluid retention?
 Not always—but it’s the most common cause in older adults during periods of higher sodium intake and reduced activity (e.g., travel or holidays). Other possibilities include medication changes or mild infection, but rapid weight gain (3+ lbs in 3 days) should prompt a review of diet, activity, and hydration patterns.
 
-#### #### Does drinking more water help reduce salt-induced fluid retention in seniors?
+#### Does drinking more water help reduce salt-induced fluid retention in seniors?
 Not necessarily—and sometimes it can worsen things. In older adults with reduced kidney or heart reserve, excess water intake without sodium reduction may increase fluid volume further. Focus first on lowering sodium, then maintain consistent, moderate hydration (about 6–8 cups of fluids daily, unless otherwise advised).

@@ -58,22 +58,22 @@ In closing: Your heart has remarkable capacity to respond to gentle, consistent 
 
 ### FAQ
 
-#### #### What are the best foods for cardiac fibroblast quiescence in older adults?
+#### What are the best foods for cardiac fibroblast quiescence in older adults?
 
 The most supportive foods include celery (luteolin), green tea (EGCG), wild salmon (taurine), parsley, and tart cherries—all chosen for their ability to gently modulate fibroblast activity without disrupting healthy collagen turnover.
 
-#### #### Can foods for cardiac fibroblast quiescence help with diastolic dysfunction?
+#### Can foods for cardiac fibroblast quiescence help with diastolic dysfunction?
 
 Yes—especially in early stages. Research suggests that nutrients like luteolin and EGCG may help preserve ventricular compliance by supporting balanced extracellular matrix remodeling—complementing lifestyle and medical management.
 
-#### #### Are there any foods to avoid when focusing on cardiac fibroblast quiescence?
+#### Are there any foods to avoid when focusing on cardiac fibroblast quiescence?
 
 Limit highly processed meats (e.g., sausages, deli meats) and excessive added sugars, as both can promote low-grade inflammation and oxidative stress—factors that may nudge fibroblasts toward activation over time.
 
-#### #### Does taurine supplementation help—or is food-sourced taurine enough?
+#### Does taurine supplementation help—or is food-sourced taurine enough?
 
 For most adults 70+, food-sourced taurine (from seafood, poultry, and dairy) is sufficient and preferred. High-dose supplements aren’t routinely recommended without clinical guidance, as balance—not excess—is the goal.
 
-#### #### How long does it take to see benefits from foods for cardiac fibroblast quiescence?
+#### How long does it take to see benefits from foods for cardiac fibroblast quiescence?
 
 Because this supports cellular-level balance—not acute symptom relief—changes are gradual. Consistent intake over 3–6 months aligns with collagen turnover cycles and is when many people report improved stamina and easier breathing during daily activities.

@@ -74,22 +74,22 @@ It’s completely normal—and very common—for older adults to notice fluctuat
 
 ### FAQ
 
-#### #### Does taking a hot bath affect glucose monitor accuracy?
+#### Does taking a hot bath affect glucose monitor accuracy?
 
 Yes—heat from a hot bath causes temporary changes in skin blood flow and fluid distribution, which can elevate fingerstick glucose readings by 15–25%, even when your actual blood sugar hasn’t changed. This effect is more noticeable in adults over 65, especially those with neuropathy or slower capillary refill.
 
-#### #### Why does my glucose meter read high after a shower or hot bath?
+#### Why does my glucose meter read high after a shower or hot bath?
 
 Hot water triggers vasodilation and shifts in interstitial fluid, leading to diluted blood samples at the fingertip. Many meters interpret this as higher glucose concentration. Waiting 45 minutes after bathing before testing usually restores accuracy—no recalibration needed.
 
-#### #### Can hot bath affects glucose monitor accuracy lead to wrong treatment decisions?
+#### Can hot bath affects glucose monitor accuracy lead to wrong treatment decisions?
 
 Potentially—yes. Acting on an elevated post-bath reading (e.g., taking extra insulin or skipping a meal) could lead to low blood sugar later. That’s why timing matters: waiting ensures your reading reflects your true glucose level—not a thermal artifact.
 
-#### #### Is it safe to bathe if I have diabetes and neuropathy?
+#### Is it safe to bathe if I have diabetes and neuropathy?
 
 Absolutely—bathing is safe and beneficial for relaxation and circulation. Just keep water comfortably warm (not hot), check skin temperature with your elbow or forearm first, and avoid soaking longer than 20 minutes. Always dry feet thoroughly and inspect for redness or irritation afterward.
 
-#### #### Do CGMs (continuous glucose monitors) show the same post-bath spikes?
+#### Do CGMs (continuous glucose monitors) show the same post-bath spikes?
 
 Generally, no. CGMs measure glucose in interstitial fluid—not capillary blood—so they’re less affected by short-term thermal shifts in fingertip perfusion. However, interstitial glucose lags behind blood glucose by ~5–15 minutes during rapid changes, so CGMs aren’t ideal for detecting immediate post-meal or post-bath shifts either. They excel at trend detection—not moment-to-moment snapshots.

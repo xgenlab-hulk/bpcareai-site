@@ -61,22 +61,22 @@ In short: iron overload holiday red meat seniors is a nuanced, manageable part o
 
 ### FAQ
 
-#### #### Can eating too much red meat during the holidays cause iron overload in seniors?
+#### Can eating too much red meat during the holidays cause iron overload in seniors?
 
 Yes—especially for men over 69 with an *HFE* gene variant. Because their bodies absorb more dietary iron, repeated holiday servings (like prime rib or lamb) can gradually raise ferritin stores over time—even without obvious symptoms.
 
-#### #### What are early warning signs of iron overload holiday red meat seniors might miss?
+#### What are early warning signs of iron overload holiday red meat seniors might miss?
 
 Subtle signs include unexplained fatigue *after* red meat meals (not just general tiredness), brief joint warmth or stiffness (without swelling), and worsening restless legs that improves when red meat is reduced. These aren’t dramatic—but they’re valuable clues.
 
-#### #### Is it safe for seniors with high ferritin to eat red meat at all?
+#### Is it safe for seniors with high ferritin to eat red meat at all?
 
 It’s usually safe in moderation—think 3–4 ounces once weekly—but best discussed with your doctor. If ferritin is persistently >300 ng/mL and you carry an *HFE* variant, reducing frequency and portion size is a gentle, evidence-informed step.
 
-#### #### Does donating blood help lower iron in seniors with HFE variants?
+#### Does donating blood help lower iron in seniors with HFE variants?
 
 Therapeutic phlebotomy (under medical supervision) is the gold standard for confirmed iron overload. For eligible seniors, regular blood donation may help maintain healthy iron levels—but only if hemoglobin and overall health support it. Your doctor can help determine safety and frequency.
 
-#### #### Can iron overload affect blood pressure or heart rhythm in older adults?
+#### Can iron overload affect blood pressure or heart rhythm in older adults?
 
 Yes—chronic excess iron can deposit in heart tissue over time, potentially contributing to arrhythmias or left ventricular stiffness. While rare, unexplained palpitations or BP fluctuations (especially diastolic elevation) alongside high ferritin deserve evaluation.

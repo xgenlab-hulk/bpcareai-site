@@ -58,17 +58,17 @@ Whether it’s AFib vs holiday heart syndrome—or something else entirely—you
 
 ### FAQ
 
-#### #### What’s the main difference between AFib vs holiday heart syndrome?
+#### What’s the main difference between AFib vs holiday heart syndrome?
 AFib is a persistent, often progressive arrhythmia tied to structural heart changes and long-term risks like stroke. Holiday heart syndrome is usually a temporary, alcohol-triggered rhythm disturbance that resolves within 1–2 days of stopping drinking—and doesn’t necessarily indicate underlying heart disease.
 
-#### #### Can holiday heart syndrome turn into real AFib?
+#### Can holiday heart syndrome turn into real AFib?
 Yes—repeated episodes increase the chance of developing persistent AFib over time. Studies suggest people with recurrent holiday heart have up to a 3x higher risk of progressing to chronic AFib within 5 years.
 
-#### #### How much alcohol triggers holiday heart syndrome?
+#### How much alcohol triggers holiday heart syndrome?
 It varies, but research shows episodes commonly occur after ≥4 standard drinks in one sitting—even in otherwise healthy adults over 50. Some sensitive individuals report symptoms after just 2 drinks.
 
-#### #### Is holiday heart syndrome prevention possible—and how?
+#### Is holiday heart syndrome prevention possible—and how?
 Absolutely. Prevention centers on consistent, modest alcohol intake (or abstinence), staying hydrated, managing blood pressure, and avoiding late-night drinking. Prioritizing sleep and reducing overall stress also support stable heart rhythm.
 
-#### #### Does holiday heart syndrome show up on an ECG?
+#### Does holiday heart syndrome show up on an ECG?
 Yes—it often shows sinus tachycardia, premature atrial contractions, or brief runs of AFib. But because it’s transient, capturing it on ECG requires timing: ideally during active symptoms or with extended monitoring.

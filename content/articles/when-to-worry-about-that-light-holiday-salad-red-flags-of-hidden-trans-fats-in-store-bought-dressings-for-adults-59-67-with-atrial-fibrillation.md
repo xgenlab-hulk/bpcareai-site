@@ -100,22 +100,22 @@ Living well with atrial fibrillation doesn’t mean giving up joy, flavor, or co
 
 ### FAQ
 
-#### #### Can hidden trans fats holiday salad dressing really trigger AFib episodes?
+#### Can hidden trans fats holiday salad dressing really trigger AFib episodes?
 
 Yes — research suggests that even small amounts of industrially produced trans fats (from partially hydrogenated oils) may increase atrial ectopy and inflammation, raising the likelihood of AFib triggers in susceptible individuals. Because these fats can be present despite “0g trans fat” labeling, awareness of ingredient lists is key.
 
-#### #### What’s the safest store-bought holiday salad dressing if I can’t make my own?
+#### What’s the safest store-bought holiday salad dressing if I can’t make my own?
 
 Look for refrigerated dressings with short, recognizable ingredient lists — ideally featuring cold-pressed olive oil, vinegar, mustard, and herbs — and *no* “partially hydrogenated oil” or vague terms like “vegetable oil blend.” Brands labeled “certified PHO-free” (not just “trans fat-free”) offer greater assurance.
 
-#### #### Are creamy holiday salad dressings more likely to contain hidden trans fats holiday salad dressing?
+#### Are creamy holiday salad dressings more likely to contain hidden trans fats holiday salad dressing?
 
 Often, yes. Creamy dressings like ranch, blue cheese, and Caesar frequently rely on hydrogenated oils for texture and shelf stability — especially in shelf-stable versions. Refrigerated, minimally processed options are generally safer, but always verify the ingredient list.
 
-#### #### Does olive oil-based dressing help lower blood pressure?
+#### Does olive oil-based dressing help lower blood pressure?
 
 Extra-virgin olive oil contains oleic acid and polyphenols shown in multiple studies to support healthy arterial pressure — especially when used as part of a balanced, low-sodium, whole-food pattern. While not a replacement for medication, it’s a supportive choice for cardiovascular wellness.
 
-#### #### How soon after eating a trans fat–containing dressing might I notice AFib symptoms?
+#### How soon after eating a trans fat–containing dressing might I notice AFib symptoms?
 
 For sensitive individuals, changes in rhythm — such as increased PACs or brief AFib episodes — may occur within 30–90 minutes after consumption. This timing aligns with peak postprandial inflammation and triglyceride responses. Keeping a simple food-and-symptom log for a week can help clarify personal patterns.

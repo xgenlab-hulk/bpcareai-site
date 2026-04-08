@@ -64,22 +64,22 @@ Holiday meals are meant to nourish more than just the body—they’re moments o
 
 ### FAQ
 
-#### #### Is appetite suppression at holiday dinner common in seniors?
+#### Is appetite suppression at holiday dinner common in seniors?
 
 Yes—it’s *reported* by up to 30% of adults over 70, but it’s not inevitable or harmless. When it’s new, persistent, or paired with fatigue or weight loss, it’s worth exploring further—not dismissing as “normal.”
 
-#### #### Could appetite suppression holiday dinner seniors be linked to thyroid issues?
+#### Could appetite suppression holiday dinner seniors be linked to thyroid issues?
 
 Absolutely. Subclinical hypothyroidism affects ~12–15% of women 65–79. Mild TSH elevation (4.5–10 mIU/L) with normal T4 can still reduce metabolism and appetite—especially when combined with chronic low-grade inflammation.
 
-#### #### What’s the difference between normal aging and early sarcopenia-related appetite loss?
+#### What’s the difference between normal aging and early sarcopenia-related appetite loss?
 
 Normal aging may slow digestion or reduce portion size slightly—but doesn’t erase pleasure in food. Early sarcopenia often brings *unexplained* fullness, reduced protein intake, and subtle strength loss—even before visible muscle change.
 
-#### #### Can stress during family gatherings cause appetite suppression holiday dinner seniors?
+#### Can stress during family gatherings cause appetite suppression holiday dinner seniors?
 
 Short-term stress *can*, but true concern arises when appetite loss continues beyond the event—especially if it repeats across multiple meals or settings. Stress-related loss tends to resolve quickly; metabolic or hormonal causes linger.
 
-#### #### Does blood pressure relate to appetite changes in older adults?
+#### Does blood pressure relate to appetite changes in older adults?
 
 Indirectly, yes. Chronic high BP (≥140/90 mm Hg) is linked to systemic inflammation and endothelial dysfunction—which can influence gut-brain signaling and nutrient sensing. That’s why holistic tracking—including BP—supports fuller insight.

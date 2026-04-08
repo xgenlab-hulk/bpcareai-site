@@ -57,22 +57,22 @@ In short, neither home nor clinic BP is inherently “better”—they’re comp
 
 ### FAQ
 
-#### #### Does home vs clinic blood pressure accuracy obesity affect stroke risk differently in seniors?
+#### Does home vs clinic blood pressure accuracy obesity affect stroke risk differently in seniors?
 
 Yes—studies like SPRINT and NHANES show that for adults over 60 with BMI ≥35, clinic-based auscultatory readings correlate more strongly with 5-year stroke incidence than home oscillometric averages—largely due to technical challenges with cuff fit and signal detection in larger arms.
 
-#### #### Why might my home BP be lower than my clinic reading—even though I’m overweight?
+#### Why might my home BP be lower than my clinic reading—even though I’m overweight?
 
 This could reflect “white-coat effect” (elevated BP in medical settings), but in obesity, it’s more often due to improper home technique: arm positioned too low (raising readings), cuff too large (lowering them), or insufficient rest before measuring. Always verify your device’s cuff size matches your arm circumference.
 
-#### #### Is home vs clinic blood pressure accuracy obesity something my doctor should know about?
+#### Is home vs clinic blood pressure accuracy obesity something my doctor should know about?
 
 Absolutely. Sharing both your home logs *and* clinic readings gives your care team the full context—especially if values differ by >10 mm Hg systolic. This helps distinguish true hypertension from measurement artifact.
 
-#### #### Can losing even a small amount of weight improve BP measurement accuracy?
+#### Can losing even a small amount of weight improve BP measurement accuracy?
 
 Yes—modest weight loss (just 5–10% of body weight) can reduce upper-arm adiposity enough to improve oscillometric signal detection and cuff fit, making home readings more reliable over time.
 
-#### #### What’s the ideal BP target for someone over 60 with obesity?
+#### What’s the ideal BP target for someone over 60 with obesity?
 
 Current guidelines (ACC/AHA, ESC) suggest individualized targets—often <130/80 mm Hg for those at high cardiovascular risk, but <140/90 mm Hg remains appropriate for many frail or very elderly adults. Your doctor will weigh benefits against fall or dizziness risk.

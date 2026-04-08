@@ -80,22 +80,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### How can I manage post-meal glucose at family dinners without feeling isolated or “different”?
+#### How can I manage post-meal glucose at family dinners without feeling isolated or “different”?
 
 Start by sharing *one* small intention with someone you trust—“I’m trying to keep my energy steady this holiday, so I might grab extra veggies first!” Most loved ones respond with warmth and curiosity. You can even invite others to join you in a post-dinner walk—it becomes a shared ritual, not a solo health task.
 
-#### #### What are the best foods to eat before a big family dinner to help manage post-meal glucose at family dinners?
+#### What are the best foods to eat before a big family dinner to help manage post-meal glucose at family dinners?
 
 A light, fiber-and-protein-rich snack 60–90 minutes before dinner helps stabilize your baseline. Think: a small apple with 1 tablespoon of natural peanut butter, or ½ cup of plain cottage cheese with cucumber slices. This “pre-load” primes your insulin response and reduces the likelihood of a sharp glucose climb later.
 
-#### #### Can stress during family gatherings affect my post-meal glucose—and how do I manage that?
+#### Can stress during family gatherings affect my post-meal glucose—and how do I manage that?
 
 Yes—absolutely. Emotional stress triggers cortisol and adrenaline, which can raise blood glucose by 20–50 mg/dL, even if your meal is perfectly balanced. Try grounding techniques: take three slow breaths before sitting down, sip warm herbal tea (chamomile or ginger), or step outside for 2 minutes of quiet. These small pauses signal safety to your nervous system—and support steadier glucose.
 
-#### #### Is it okay to drink alcohol during Thanksgiving if I’m managing prediabetes?
+#### Is it okay to drink alcohol during Thanksgiving if I’m managing prediabetes?
 
 In moderation, yes—but be intentional. One 5-ounce glass of dry red wine (under 5 g sugar) with food is generally well-tolerated. Avoid sugary cocktails, sweet wines, or drinking on an empty stomach. Alcohol can mask low blood sugar symptoms, so check your glucose if you feel unusually tired or lightheaded—even if you think it’s just “the wine.”
 
-#### #### Do I need a continuous glucose monitor (CGM) to manage post-meal glucose at family dinners?
+#### Do I need a continuous glucose monitor (CGM) to manage post-meal glucose at family dinners?
 
 Not necessarily. For most people with prediabetes, occasional fingerstick checks (before and 90 minutes after meals) provide enough insight—especially when paired with food and activity notes. CGMs are typically recommended for those with diabetes on insulin, or for specific diagnostic purposes. Talk with your provider about what’s right for *your* goals and lifestyle.

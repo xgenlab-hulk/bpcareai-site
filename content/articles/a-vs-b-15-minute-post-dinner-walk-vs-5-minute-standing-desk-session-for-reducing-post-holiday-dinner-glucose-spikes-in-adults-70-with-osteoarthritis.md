@@ -86,22 +86,22 @@ Managing blood sugar during the holidays doesn’t require drastic changes—jus
 
 ### FAQ
 
-#### #### Is a post-dinner walk better than standing for seniors with diabetes?
+#### Is a post-dinner walk better than standing for seniors with diabetes?
 
 Yes—based on CGM-confirmed data, a 15-minute walk initiated 25–30 minutes after dinner reduces 2-hour postprandial glucose by roughly twice as much as a 5-minute standing session in adults 70+. This advantage stems from greater muscle engagement and improved capillary perfusion, especially important in aging muscle with reduced insulin sensitivity.
 
-#### #### What’s the safest post-dinner activity for seniors with knee osteoarthritis and diabetes?
+#### What’s the safest post-dinner activity for seniors with knee osteoarthritis and diabetes?
 
 A slow, supported walk—on level ground, with proper footwear—is safe for most adults with mild-to-moderate knee osteoarthritis. Research shows that controlled weight-bearing actually supports joint health by stimulating synovial fluid circulation. If walking causes pain >3/10, begin with seated leg lifts or stationary cycling and gradually reintroduce walking as strength and comfort improve.
 
-#### #### How does post-dinner walk vs standing seniors diabetes impact long-term heart health?
+#### How does post-dinner walk vs standing seniors diabetes impact long-term heart health?
 
 Both activities support vascular function, but walking delivers stronger benefits: it lowers systolic BP by ~5–7 mm Hg acutely and improves endothelial function more robustly than standing alone. Since adults with diabetes and osteoarthritis face elevated cardiovascular risk, choosing the intervention with greater hemodynamic impact—like walking—offers dual protection for glucose *and* arterial pressure.
 
-#### #### Can I combine walking and standing for better results?
+#### Can I combine walking and standing for better results?
 
 Yes—but timing matters. A brief 2–3 minute stand *while preparing dinner* helps interrupt sedentary time, and a 15-minute walk *after* dinner targets the glucose peak. Avoid back-to-back standing and walking if knee fatigue sets in; prioritize the walk, as it provides the largest glucose-lowering effect per minute invested.
 
-#### #### Does meal timing affect whether post-dinner walk vs standing seniors diabetes works?
+#### Does meal timing affect whether post-dinner walk vs standing seniors diabetes works?
 
 Absolutely. Late dinners (after 7:30 p.m.) coincide with natural circadian dips in insulin secretion and slower gastric motility. In this context, even a 15-minute walk may yield smaller glucose reductions—so aim to finish dinner by 7:00 p.m. when possible, and walk no later than 7:30 p.m. to maximize benefit.

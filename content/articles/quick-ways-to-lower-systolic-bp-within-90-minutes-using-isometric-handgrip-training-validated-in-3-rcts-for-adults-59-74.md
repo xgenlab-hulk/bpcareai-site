@@ -52,22 +52,22 @@ In closing, knowing how to lower systolic bp isometric handgrip 90 minutes gives
 
 ### FAQ
 
-#### #### Can isometric handgrip really lower systolic BP isometric handgrip 90 minutes in real life—not just in studies?
+#### Can isometric handgrip really lower systolic BP isometric handgrip 90 minutes in real life—not just in studies?
 
 Yes. All three RCTs were conducted in real-world outpatient and community settings with adults aged 59–74. Participants used simple, commercially available devices—and achieved consistent systolic drops of 10–12 mm Hg within 90 minutes, confirmed by automated oscillometric monitors.
 
-#### #### How does lower systolic bp isometric handgrip 90 minutes compare to taking a fast-acting BP pill?
+#### How does lower systolic bp isometric handgrip 90 minutes compare to taking a fast-acting BP pill?
 
 It’s similar in magnitude (10–12 mm Hg reduction) but slower to peak—meds like nifedipine act in ~30–60 minutes; handgrip peaks at ~60–90 minutes. Crucially, handgrip avoids medication side effects and supports long-term neural adaptation with repeated use.
 
-#### #### Is this safe if I’m already on blood pressure medication?
+#### Is this safe if I’m already on blood pressure medication?
 
 Generally yes—but timing matters. Avoid doing handgrip within 2 hours of taking short-acting antihypertensives (e.g., clonidine, labetalol), as additive effects could lead to overcorrection. Discuss timing with your prescriber.
 
-#### #### Do I need special equipment to lower systolic BP isometric handgrip 90 minutes?
+#### Do I need special equipment to lower systolic BP isometric handgrip 90 minutes?
 
 A calibrated handgrip dynamometer is ideal for accuracy, but spring-based trainers with adjustable resistance (marked in kg or lbs) work well if you establish your MVC first—even once, with help from a clinic or therapist.
 
-#### #### Will this help my diastolic pressure too?
+#### Will this help my diastolic pressure too?
 
 Yes—though the effect is smaller. RCTs show average diastolic reductions of 4–6 mm Hg within 90 minutes, likely due to improved arterial compliance and reduced peripheral resistance following sympathetic modulation.

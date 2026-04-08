@@ -90,17 +90,17 @@ It’s completely normal — and wise — to pay closer attention to your blood 
 
 ### FAQ
 
-#### #### What are the most common masking-secondary-hypertension-symptoms in people over 55?
+#### What are the most common masking-secondary-hypertension-symptoms in people over 55?
 The most common masking-secondary-hypertension-symptoms in adults 55+ include persistent diastolic elevation (≥88 mm Hg), unexplained weight gain (especially around the abdomen), frequent nighttime urination (nocturnal polyuria), morning fatigue or palpitations, and fragmented sleep — particularly when these occur together without obvious lifestyle causes.
 
-#### #### Can masking-secondary-hypertension-symptoms be mistaken for normal aging?
+#### Can masking-secondary-hypertension-symptoms be mistaken for normal aging?
 Yes — that’s part of why they’re “masking.” Many assume rising BP, subtle weight gain, or occasional sleep disruptions are just part of getting older. But when these appear alongside resistance to usual treatments or unusual BP patterns (like non-dipping at night), they may point to an identifiable, treatable cause — not inevitable aging.
 
-#### #### How is masking-secondary-hypertension-symptoms different from essential hypertension?
+#### How is masking-secondary-hypertension-symptoms different from essential hypertension?
 Essential (or primary) hypertension develops gradually, usually without a single identifiable cause, and often responds well to standard lifestyle and medication approaches. Masking-secondary-hypertension-symptoms, by contrast, arise from specific underlying conditions — such as sleep apnea, primary aldosteronism, renal artery stenosis, or pheochromocytoma — and may require tailored evaluation and treatment beyond typical BP management.
 
-#### #### Does sleep apnea cause secondary hypertension?
+#### Does sleep apnea cause secondary hypertension?
 Yes — obstructive sleep apnea is one of the most common and treatable causes of secondary hypertension, especially in adults 55–64. Repeated oxygen drops and arousals trigger surges in sympathetic nervous system activity and inflammation, leading to sustained increases in arterial pressure — often with prominent morning spikes and non-dipping patterns.
 
-#### #### Is weight gain always related to diet and exercise in midlife, or could it signal something else?
+#### Is weight gain always related to diet and exercise in midlife, or could it signal something else?
 While lifestyle plays a role, unexplained weight gain — especially when accompanied by fatigue, skin changes, or new-onset hypertension — can reflect hormonal shifts (e.g., cortisol excess, thyroid slowdown) or fluid retention from kidney or heart changes. It’s worth exploring with your doctor when it occurs alongside other masking-secondary-hypertension-symptoms.

@@ -104,22 +104,22 @@ This isn’t about perfection. It’s about awareness, partnership with your car
 
 ### FAQ
 
-#### #### Does gum disease directly cause heart attacks in adults over 60?
+#### Does gum disease directly cause heart attacks in adults over 60?
 
 Not alone—but severe, untreated periodontitis contributes to chronic inflammation that destabilizes coronary plaques. Studies show it’s associated with a 1.3–1.6x increased risk of acute coronary events in adults aged 60–74, *independent* of traditional risk factors like BP or cholesterol.
 
-#### #### How does gum disease affect coronary plaque stability in adults 60s?
+#### How does gum disease affect coronary plaque stability in adults 60s?
 
 Through three key pathways: elevated CRP and IL-6 drive systemic inflammation and clotting activity, while MMP-9 degrades the fibrous cap of plaques—making them more prone to rupture. Even with controlled BP and LDL, this triad can tip the balance toward vulnerability.
 
-#### #### Is there a link between gum disease and coronary plaque stability adults 60s even with normal cholesterol?
+#### Is there a link between gum disease and coronary plaque stability adults 60s even with normal cholesterol?
 
 Yes. Research confirms that adults in their 60s with periodontitis often show increased plaque vulnerability on imaging—regardless of LDL levels. Inflammation—not just cholesterol—is a major driver of plaque behavior.
 
-#### #### Can treating gum disease improve heart health markers?
+#### Can treating gum disease improve heart health markers?
 
 Yes. Clinical trials show that comprehensive periodontal therapy reduces hs-CRP by 25–35%, lowers IL-6, and decreases arterial stiffness within 3–6 months—especially in adults with hypertension or prediabetes.
 
-#### #### Should I ask my cardiologist about my gum health?
+#### Should I ask my cardiologist about my gum health?
 
 Absolutely—if you have known periodontitis, recurrent gum issues, or elevated hs-CRP without clear cause, mention it. Many preventive cardiologists now screen for oral inflammation as part of a full vascular risk profile.

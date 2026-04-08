@@ -69,17 +69,17 @@ Holidays don’t need to be stressful to be meaningful. With just a little fores
 
 ### FAQ  
 
-#### #### How do I safely pack diabetic-friendly meals for an elderly parent traveling by car?  
+#### How do I safely pack diabetic-friendly meals for an elderly parent traveling by car?  
 Use an insulated thermal bag with two cold packs (frozen overnight) for cold items, or a heat-retention bag with a pre-heated heat pack for warm meals. Keep food at <40°F or >140°F, and avoid leaving the bag in direct sun or a hot car trunk. Always reheat to 165°F before serving—and never reuse single-use heat/cold packs.
 
-#### #### What’s the best way to carb-count quickly when packing meals for seniors with diabetes?  
+#### What’s the best way to carb-count quickly when packing meals for seniors with diabetes?  
 Stick to consistent, measured portions: 1/2 cup cooked quinoa = ~20g carbs; 3 oz grilled salmon = 0g carbs; 1 cup raw spinach = ~1g carb. Pre-portion snacks and label them with carb totals. Apps aren’t required—simple sticky notes work beautifully.
 
-#### #### Can caregiver diabetic meal packing seniors help prevent hypoglycemia during holiday events?  
+#### Can caregiver diabetic meal packing seniors help prevent hypoglycemia during holiday events?  
 Yes—especially when meals match insulin action times, include balanced macros (carbs + protein + fat), and avoid long gaps between eating. Packing familiar, easy-to-chew foods also reduces the chance of skipped meals due to fatigue or difficulty chewing.
 
-#### #### Are frozen diabetic meals safe for seniors over 80?  
+#### Are frozen diabetic meals safe for seniors over 80?  
 Some are—*if* they meet sodium (<600mg), fiber (>3g), and carb (<45g) targets *and* are fully reheated to 165°F. Avoid meals with added sugars listed early in ingredients (e.g., “cane sugar,” “brown rice syrup”) or excessive saturated fat (>5g/serving).
 
-#### #### How can I talk to relatives about my parent’s dietary needs without causing tension?  
+#### How can I talk to relatives about my parent’s dietary needs without causing tension?  
 Lead with appreciation: “We’re so grateful you’re hosting—Mom loves your cranberry sauce! To keep her feeling her best, we’ll bring a few side dishes she’s used to.” Offer to share recipes or prep tips—it invites collaboration, not correction.

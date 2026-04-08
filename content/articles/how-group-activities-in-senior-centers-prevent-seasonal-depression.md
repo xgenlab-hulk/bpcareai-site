@@ -41,17 +41,17 @@ Seasonal depression in older adults is treatable, manageable, and far less isola
 
 ### FAQ
 
-#### #### Can senior center activities and depression be linked to blood pressure changes?  
+#### Can senior center activities and depression be linked to blood pressure changes?  
 Yes—studies show that regular participation in group programs correlates with modest but meaningful reductions in both systolic and diastolic BP, likely due to lowered stress hormones and improved sleep quality. Conversely, untreated seasonal depression in older adults can contribute to elevated arterial pressure over time.
 
-#### #### What types of senior center activities and depression prevention strategies work best?  
+#### What types of senior center activities and depression prevention strategies work best?  
 Evidence points to programs combining light exposure, gentle movement, and social interaction—such as morning tai chi groups, intergenerational storytelling projects, or seasonal cooking clubs. Consistency (2–3 times per week) matters more than duration.
 
-#### #### Do senior center activities and depression support differ from general mental health counseling?  
+#### Do senior center activities and depression support differ from general mental health counseling?  
 They complement each other. Senior center activities provide low-barrier, preventive social stimulation, while counseling offers targeted therapeutic support. Many centers partner with licensed clinicians for on-site wellness check-ins or referrals—making it easier to access both kinds of care.
 
-#### #### How do I find a senior center near me that offers seasonal depression support?  
+#### How do I find a senior center near me that offers seasonal depression support?  
 Start with Eldercare Locator (eldercare.acl.gov) or call your local Area Agency on Aging. Ask specifically about winter programming—many centers expand offerings November through February with light therapy rooms, holiday-themed events, and buddy systems for transportation.
 
-#### #### Is seasonal depression in older adults the same as clinical depression?  
+#### Is seasonal depression in older adults the same as clinical depression?  
 Not always—but it can be a precursor or co-occurring condition. Seasonal depression in older adults often presents with more physical symptoms (fatigue, slowed movement, appetite shifts) and fewer overt feelings of sadness. That’s why ongoing engagement and self-monitoring are so valuable.

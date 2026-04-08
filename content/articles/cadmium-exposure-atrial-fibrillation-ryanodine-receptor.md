@@ -51,17 +51,17 @@ In summary, cadmium exposure atrial fibrillation ryanodine receptor interactions
 
 ### FAQ
 
-#### #### Does cadmium exposure cause atrial fibrillation directly?  
+#### Does cadmium exposure cause atrial fibrillation directly?  
 Cadmium doesn’t *initiate* AF in most people—but chronic low-dose exposure (especially >1 µg/g creatinine in urine) is associated with increased AF recurrence and burden, likely through RyR2-mediated calcium leak. It’s considered a contributing factor, not a sole cause.
 
-#### #### How does cadmium affect the ryanodine receptor in the heart?  
+#### How does cadmium affect the ryanodine receptor in the heart?  
 Cadmium binds near regulatory domains of RyR2, promoting abnormal phosphorylation and reducing calstabin2 binding. This destabilizes the channel, causing diastolic calcium leakage—triggering arrhythmogenic atrial activity even when EF is normal.
 
-#### #### Can cadmium exposure atrial fibrillation ryanodine receptor issues be reversed?  
+#### Can cadmium exposure atrial fibrillation ryanodine receptor issues be reversed?  
 Reducing exposure (e.g., modifying rice intake, quitting smoking) may slow progression. Some animal studies show partial RyR2 stabilization after cadmium withdrawal, but human data on reversibility is limited. Early intervention offers the best potential for rhythm stability.
 
-#### #### Is brown rice safer than white rice for cadmium exposure?  
+#### Is brown rice safer than white rice for cadmium exposure?  
 No—brown rice typically contains 1.5–2× more cadmium than white rice because cadmium accumulates in the outer bran layer. However, white rice is often eaten in larger amounts, so total exposure depends on both concentration *and* quantity.
 
-#### #### What blood tests check for cadmium-related heart risks?  
+#### What blood tests check for cadmium-related heart risks?  
 There’s no direct “RyR2 function test” for clinical use. Urinary cadmium (creatinine-adjusted) is the best available biomarker of body burden. ECG, Holter monitoring, and echocardiography assess functional impact—but interpreting them alongside exposure history improves insight into cadmium exposure atrial fibrillation ryanodine receptor dynamics.

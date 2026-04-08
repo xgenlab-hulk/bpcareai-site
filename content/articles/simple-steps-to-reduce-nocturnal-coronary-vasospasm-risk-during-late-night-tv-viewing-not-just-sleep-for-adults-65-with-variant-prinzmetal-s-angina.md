@@ -86,22 +86,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can nocturnal coronary vasospasm tv viewing happen even if I don’t have chest pain?
+#### Can nocturnal coronary vasospasm tv viewing happen even if I don’t have chest pain?
 
 Yes. Some people experience subtle signs like unexplained fatigue, mild shortness of breath, jaw tightness, or a feeling of “heaviness” in the chest during late-night TV viewing — especially if they’re reclining in a cool room. These can be early indicators of microvascular spasm, particularly in older adults whose symptom perception changes with age.
 
-#### #### Is nocturnal coronary vasospasm tv viewing the same as sleep-related angina?
+#### Is nocturnal coronary vasospasm tv viewing the same as sleep-related angina?
 
 Not exactly. Sleep-related angina typically refers to events occurring *during* deeper stages of sleep — often linked to sleep apnea or autonomic shifts. Nocturnal coronary vasospasm tv viewing happens *before* sleep, during wakeful relaxation, and is strongly tied to behavioral triggers like screen light, posture, and ambient temperature — making it more modifiable with lifestyle tweaks.
 
-#### #### How does room temperature affect nocturnal coronary vasospasm tv viewing?
+#### How does room temperature affect nocturnal coronary vasospasm tv viewing?
 
 Even modest cooling — say, dropping from 72°F to 66°F (22°C to 19°C) — can activate cold-sensitive TRPM8 receptors in coronary smooth muscle, leading to transient spasm in susceptible individuals. Older adults often underestimate how cool a room feels because skin temperature sensation declines with age. Keeping indoor temps at or above 68°F (20°C) in the evening is a simple, evidence-informed step.
 
-#### #### Does watching TV in bed increase my risk compared to sitting on the couch?
+#### Does watching TV in bed increase my risk compared to sitting on the couch?
 
 It can — especially if you’re lying flat. Recumbent posture redistributes blood volume and may prompt subtle increases in coronary vascular resistance. Sitting upright — even in a recliner with back support — tends to promote steadier hemodynamics. Also, beds are often cooler than living-room furniture, compounding thermal effects.
 
-#### #### Are calcium channel blockers still effective for nocturnal coronary vasospasm tv viewing?
+#### Are calcium channel blockers still effective for nocturnal coronary vasospasm tv viewing?
 
 Yes — they remain first-line therapy for variant angina. However, timing matters: extended-release formulations taken in the early evening (e.g., around 6–7 p.m.) may offer better coverage during the 10 p.m.–2 a.m. window when spasm risk peaks. Always consult your cardiologist before adjusting timing or dosage.

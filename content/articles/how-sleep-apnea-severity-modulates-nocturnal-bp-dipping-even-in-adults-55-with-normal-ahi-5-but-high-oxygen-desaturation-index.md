@@ -100,17 +100,17 @@ If you're unsure, talking to your doctor is always a good idea. And remember: *o
 
 ### FAQ
 
-#### #### What is oxygen desaturation index nocturnal bp — and why does it matter?
+#### What is oxygen desaturation index nocturnal bp — and why does it matter?
 The oxygen desaturation index (ODI) counts how often your blood oxygen drops ≥3% or ≥4% per hour during sleep. When paired with nocturnal blood pressure (BP) patterns — especially loss of the normal nighttime dip — it reveals how oxygen stress affects your cardiovascular system. Even with mild or absent apnea (AHI <5), high ODI can drive nondipping BP, increasing long-term heart and stroke risk.
 
-#### #### Can oxygen desaturation index nocturnal bp be normal even with sleep apnea?
+#### Can oxygen desaturation index nocturnal bp be normal even with sleep apnea?
 Yes — but it depends on *how much* and *how deeply* oxygen drops. Someone with AHI 15 but minimal desaturation (ODI <5) may still show normal dipping. Conversely, someone with AHI 4 but ODI 20+ may show pronounced nondipping. So ODI and nocturnal BP together give richer insight than AHI alone.
 
-#### #### How is oxygen desaturation index nocturnal bp measured?
+#### How is oxygen desaturation index nocturnal bp measured?
 ODI is calculated automatically during a sleep study (polysomnography) using pulse oximetry. Nocturnal BP is best assessed via 24-hour ambulatory BP monitoring (ABPM), which records readings every 15–30 minutes while you sleep and go about your day. Together, they map how oxygen dips and BP rhythms interact overnight.
 
-#### #### Does age affect oxygen desaturation index nocturnal bp patterns?
+#### Does age affect oxygen desaturation index nocturnal bp patterns?
 Yes — significantly. After age 55, natural declines in respiratory drive, chemoreceptor responsiveness, and vascular elasticity mean that even modest oxygen dips trigger stronger sympathetic and hormonal responses. This makes older adults more vulnerable to nondipping patterns — even at lower ODI thresholds.
 
-#### #### Is oxygen desaturation index nocturnal bp linked to heart disease?
+#### Is oxygen desaturation index nocturnal bp linked to heart disease?
 Strongly. Multiple longitudinal studies associate high ODI + nondipping BP with increased left ventricular hypertrophy, arterial stiffness, and incident cardiovascular events — independent of AHI. It’s increasingly viewed as a marker of “hypoxic burden” that contributes to end-organ damage over time.

@@ -70,22 +70,22 @@ Recovering from AFib ablation doesn’t mean waiting passively for healing. It m
 
 ### FAQ
 
-#### #### Can I start chair tai chi after afib ablation safety right away—or do I need to wait?
+#### Can I start chair tai chi after afib ablation safety right away—or do I need to wait?
 
 Most electrophysiologists recommend waiting until your post-procedure follow-up visit (typically 7–10 days), confirming no complications like pericarditis or tamponade. Light seated breathing and wrist mobility can begin Day 3–5 if cleared. Full chair tai chi sequences—including rotation—should be delayed until Week 3, and only after reviewing your echocardiogram and procedural notes with your care team.
 
-#### #### Is chair tai chi after afib ablation safety different for people over 70?
+#### Is chair tai chi after afib ablation safety different for people over 70?
 
 Yes—age-related declines in thoracic spine mobility, diaphragmatic excursion, and baroreflex sensitivity mean older adults often require even more conservative thresholds. For example, the safe exhalation duration rises to ≥5.6 seconds for those 70+, and rotation should be capped at ≤22° until Week 6. Always individualize based on pre-ablation functional status—not chronological age alone.
 
-#### #### How does chair tai chi after afib ablation safety compare to walking or yoga?
+#### How does chair tai chi after afib ablation safety compare to walking or yoga?
 
 Walking (at <3 mph, flat terrain) poses minimal atrial stretch risk and is encouraged early. Yoga involving supine twists, deep backbends, or breath retention (e.g., kumbhaka) carries higher theoretical risk due to abrupt intrathoracic pressure changes—making modified chair tai chi a safer, more controllable alternative for early rehab. Unlike yoga, tai chi’s emphasis on continuous, rhythmic exhalation better supports vagal tone.
 
-#### #### Does blood pressure medication affect chair tai chi after afib ablation safety?
+#### Does blood pressure medication affect chair tai chi after afib ablation safety?
 
 Indirectly—yes. Beta-blockers and ACE inhibitors improve atrial compliance and may widen your safe movement window. However, diuretics can cause volume depletion, making even mild exertion trigger orthostatic drops or compensatory tachycardia. Always review med timing with your clinician—e.g., avoid practicing within 90 minutes of taking a diuretic.
 
-#### #### Can chair tai chi after afib ablation safety help prevent future AFib episodes?
+#### Can chair tai chi after afib ablation safety help prevent future AFib episodes?
 
 Not directly—but robust data link regular, low-intensity mindful movement to reduced systemic inflammation (lower CRP and IL-6), improved autonomic balance (higher HRV), and better sleep—all independent predictors of long-term rhythm stability. In the 2023 REHAB-AF trial, participants doing guided chair tai chi 3x/week for 12 weeks showed a 31% lower 1-year recurrence rate vs. controls, even after adjusting for ablation type and LA size.

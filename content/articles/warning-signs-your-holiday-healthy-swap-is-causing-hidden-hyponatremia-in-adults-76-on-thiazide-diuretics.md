@@ -76,17 +76,17 @@ The goal of *healthy swap hyponatremia thiazide diuretics* awareness isn’t to 
 
 ### FAQ
 
-#### #### Can healthy swap hyponatremia thiazide diuretics happen even if I feel fine?
+#### Can healthy swap hyponatremia thiazide diuretics happen even if I feel fine?
 Yes. Early hyponatremia is often symptom-free or causes only subtle changes—like slightly slower reaction time or increased afternoon sleepiness. Routine lab work remains the most reliable check.
 
-#### #### What foods should I avoid during the holidays if I’m on thiazide diuretics?
+#### What foods should I avoid during the holidays if I’m on thiazide diuretics?
 Avoid *exclusively* low-sodium, high-water choices across multiple meals—like drinking only herbal tea + eating only watermelon, lettuce, and steamed zucchini all day. Balance is key: include modest sodium sources (e.g., olives, tomato sauce, grilled fish) alongside hydrating foods.
 
-#### #### Is healthy swap hyponatremia thiazide more dangerous in winter?
+#### Is healthy swap hyponatremia thiazide more dangerous in winter?
 Yes—cold weather increases ADH release, reduces thirst, and often leads to higher fluid intake (think hot teas and broths), all while thiazides continue promoting sodium loss. This seasonal combination raises risk.
 
-#### #### Does drinking more water lower my sodium level?
+#### Does drinking more water lower my sodium level?
 Not directly—but if your kidneys are excreting sodium *faster than you’re replacing it*, extra water dilutes what’s left in your bloodstream. So it’s not the water itself, but the *sodium-to-water ratio* that matters.
 
-#### #### Are there alternatives to thiazide diuretics for older adults concerned about hyponatremia?
+#### Are there alternatives to thiazide diuretics for older adults concerned about hyponatremia?
 Some people benefit from switching to calcium channel blockers (e.g., amlodipine) or ARBs, depending on overall health. Never adjust medications on your own—talk with your provider about options tailored to your needs.

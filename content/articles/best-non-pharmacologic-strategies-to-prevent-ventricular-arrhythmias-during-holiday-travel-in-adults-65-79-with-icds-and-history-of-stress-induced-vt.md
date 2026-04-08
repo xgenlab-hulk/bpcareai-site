@@ -86,17 +86,17 @@ Traveling with an ICD and a history of stress-induced VT doesn’t mean choosing
 
 ### FAQ
 
-#### #### Can flying trigger VT in someone with an ICD and stress-induced VT history?
+#### Can flying trigger VT in someone with an ICD and stress-induced VT history?
 No — flying itself doesn’t cause VT. However, the combination of cabin pressure changes, sleep loss, dehydration, and emotional load *can* temporarily shift autonomic balance in susceptible individuals. That’s why preparing your nervous system ahead of time — through HRV priming and vagal support — makes such a meaningful difference.
 
-#### #### What are the best ways to prevent VT during travel with an ICD for elderly adults?
+#### What are the best ways to prevent VT during travel with an ICD for elderly adults?
 The most effective approaches include starting paced breathing 7–10 days before travel, staying consistently hydrated (1.5–2 L/day), using portable vagal stimulation *prophylactically*, prioritizing rhythm-friendly rest (even short naps with an eye mask), and practicing grounding techniques before emotionally charged moments. These strategies collectively strengthen your body’s natural ability to maintain rhythm stability — helping you *prevent vt during travel icd elderly* without medication.
 
-#### #### Does cabin pressure really affect heart rhythm in older adults with ICDs?
+#### Does cabin pressure really affect heart rhythm in older adults with ICDs?
 Mild cabin hypoxia (oxygen levels equivalent to ~6,000–8,000 ft altitude) can slightly increase heart rate and sympathetic tone — especially if combined with fatigue or dehydration. But for most adults 65–79 with well-managed heart disease, this poses no direct danger. The bigger influence is *how prepared your nervous system is* — which is why pre-travel HRV priming is so helpful.
 
-#### #### Should I carry extra medications or wearables when traveling to prevent VT?
+#### Should I carry extra medications or wearables when traveling to prevent VT?
 Unless prescribed by your electrophysiologist, no additional medications are needed solely for travel. As for wearables: while some track HRV or rhythm, they’re not required — and occasional false alarms can add unnecessary stress. Focus instead on consistent habits (breathing, hydration, rest) and trust your ICD’s continuous monitoring. Always carry your device ID card and a list of your medications.
 
-#### #### How soon before travel should I start preparing to prevent VT episodes with my ICD?
+#### How soon before travel should I start preparing to prevent VT episodes with my ICD?
 Begin gentle HRV priming (paced breathing + morning light) 7–10 days before departure. This window allows measurable improvements in vagal tone and HRV — giving your nervous system time to adapt before travel stressors begin. Even starting 3–4 days ahead offers benefit, so don’t worry if timing is tight.

@@ -75,17 +75,17 @@ In most cases, small adjustments—like spacing out water-rich foods across the 
 
 ### FAQ
 
-#### #### Can holiday appetizers really cause hyponatremia in seniors?
+#### Can holiday appetizers really cause hyponatremia in seniors?
 Yes—especially when combined with diuretic use. High-water, low-sodium holiday appetizers (e.g., watermelon, cucumber, jellied salads) can overwhelm the aging kidney’s ability to excrete free water, particularly in those on thiazides or loop diuretics. This is a recognized contributor to *holiday appetizers hyponatremia warning signs seniors*.
 
-#### #### What are the earliest warning signs of hyponatremia in older adults?
+#### What are the earliest warning signs of hyponatremia in older adults?
 Subtle but important signs include mild confusion, slowed thinking, unexplained fatigue, slight gait instability (e.g., wider stance or holding onto furniture), and increased irritability—often dismissed as “just tired” or “a little off.” These are key *holiday appetizers hyponatremia warning signs seniors* should recognize.
 
-#### #### How can seniors enjoy holiday parties safely while on diuretics?
+#### How can seniors enjoy holiday parties safely while on diuretics?
 Focus on balance: limit consecutive servings of water-dense foods, pair them with modest sodium sources (e.g., olives, low-sodium cheese, roasted chickpeas), and avoid drinking large volumes of plain water or herbal teas in one sitting. Staying hydrated is important—but *how* you hydrate matters more than how much.
 
-#### #### Is low-sodium holiday food always safer for seniors with high BP?
+#### Is low-sodium holiday food always safer for seniors with high BP?
 Not necessarily. While reducing excess sodium supports healthy arterial pressure, excessively low-sodium, high-fluid diets—especially alongside diuretics—can promote sodium dilution. The goal is *balanced* electrolyte intake, not minimal sodium.
 
-#### #### Should I stop my diuretic during the holidays?
+#### Should I stop my diuretic during the holidays?
 Never stop or adjust diuretic dosing without consulting your healthcare provider. Instead, discuss your holiday eating patterns and any observed changes in energy, balance, or clarity—they’ll help tailor your plan safely.

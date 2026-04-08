@@ -74,17 +74,17 @@ In short, a persistent nighttime cough in older adults with diabetes deserves th
 
 ### FAQ
 
-#### #### What does nighttime cough diabetic autonomic neuropathy feel like?
+#### What does nighttime cough diabetic autonomic neuropathy feel like?
 It’s often a dry, tickling, or “irritable” cough that starts soon after lying down—without wheezing, fever, or mucus. People describe it as “my throat just won’t settle,” even when allergy and reflux treatments haven’t helped.
 
-#### #### Can nighttime cough diabetic autonomic neuropathy happen with well-controlled diabetes?
+#### Can nighttime cough diabetic autonomic neuropathy happen with well-controlled diabetes?
 Yes. Even with A1c levels around 6.5–7.0%, cumulative nerve exposure to glucose fluctuations over 10–15 years can lead to early autonomic changes. Duration matters as much as current control.
 
-#### #### Is nighttime cough diabetic autonomic neuropathy reversible?
+#### Is nighttime cough diabetic autonomic neuropathy reversible?
 Not fully reversible, but progression can be slowed significantly with tighter glycemic targets, lifestyle support (like regular movement and sleep hygiene), and sometimes medications like alpha-lipoic acid (under guidance). Early detection makes the biggest difference.
 
-#### #### How is this different from cardiac cough?
+#### How is this different from cardiac cough?
 Cardiac cough typically occurs with exertion or when lying flat *and* is linked to shortness of breath, swollen ankles, or fatigue. Nighttime cough diabetic autonomic neuropathy usually lacks those signs—and persists even when echocardiogram and BNP levels are normal.
 
-#### #### Does asthma make nighttime cough diabetic autonomic neuropathy worse?
+#### Does asthma make nighttime cough diabetic autonomic neuropathy worse?
 It can—because both conditions affect airway sensitivity and neural signaling. However, treating asthma alone won’t resolve the cough if vagal afferent blunting is the primary driver. A combined neuro-respiratory approach works best.

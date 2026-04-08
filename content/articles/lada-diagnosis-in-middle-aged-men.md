@@ -89,17 +89,17 @@ If you're unsure, talking to your doctor is always a good idea. And if you've al
 
 ### FAQ
 
-#### #### What are the early signs of LADA in men over 50?  
+#### What are the early signs of LADA in men over 50?  
 Early signs include gradual loss of blood sugar control on sulfonylureas (often within 6–12 months), low or declining C-peptide, presence of GAD65 antibodies, and coexisting autoimmune conditions like Hashimoto’s. Unlike type 2, weight gain isn’t typical—and some men notice mild weight loss or increased thirst without obvious triggers.
 
-#### #### How is LADA diagnosis in middle-aged men different from type 2 diabetes?  
+#### How is LADA diagnosis in middle-aged men different from type 2 diabetes?  
 LADA involves autoimmune destruction of beta cells (like type 1), while type 2 stems mainly from insulin resistance and progressive beta-cell exhaustion *without* autoimmunity. LADA patients tend to be leaner, lack strong metabolic syndrome features, respond poorly to sulfonylureas over time, and benefit earlier from insulin therapy to preserve function.
 
-#### #### Can Hashimoto’s thyroiditis increase my risk of LADA diagnosis in middle-aged men?  
+#### Can Hashimoto’s thyroiditis increase my risk of LADA diagnosis in middle-aged men?  
 Yes—absolutely. Having Hashimoto’s signals underlying immune dysregulation, raising the odds of developing other organ-specific autoimmune conditions. Studies estimate that up to 15–20% of adults with Hashimoto’s may test positive for diabetes-related autoantibodies, particularly GADA.
 
-#### #### Do I need insulin right away if LADA is suspected?  
+#### Do I need insulin right away if LADA is suspected?  
 Not necessarily—but early consideration of basal insulin (e.g., glargine or detemir) is often recommended once diagnosis is confirmed, especially if C-peptide is low and A1c is rising. Insulin isn’t a “failure”—it’s protective. Many men start with once-daily long-acting insulin and maintain excellent control for years.
 
-#### #### Is LADA reversible or curable?  
+#### Is LADA reversible or curable?  
 No—like other autoimmune conditions, LADA isn’t reversible. However, its progression *can* be slowed. Preserving residual beta-cell function through timely insulin, reduced glucose toxicity, and overall metabolic health helps sustain better glycemic control and lowers long-term complication risk.

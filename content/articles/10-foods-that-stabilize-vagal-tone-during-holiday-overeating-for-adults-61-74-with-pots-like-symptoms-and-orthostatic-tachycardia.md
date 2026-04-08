@@ -96,22 +96,22 @@ Supporting vagal tone during the holidays isn’t about restriction—it’s abo
 
 ### FAQ
 
-#### #### What are the best foods to stabilize vagal tone during the holidays for seniors?
+#### What are the best foods to stabilize vagal tone during the holidays for seniors?
 
 The most effective foods combine electrolyte balance, fermentation, and nitrate content—such as slow-roasted beets, fermented sauerkraut, dulse flakes, and soaked chia seeds. These support vagal signaling, baroreflex sensitivity, and gut-brain communication—especially important for seniors 61–74 managing orthostatic tachycardia.
 
-#### #### Can foods stabilize vagal tone holiday seniors help with post-meal dizziness?
+#### Can foods stabilize vagal tone holiday seniors help with post-meal dizziness?
 
 Yes. Postprandial dizziness often stems from splanchnic blood pooling and reduced cerebral perfusion—both modulated by vagal tone. Foods rich in nitrates (beets), electrolytes (seaweed), and SCFA precursors (sauerkraut) help maintain vascular tone and autonomic responsiveness, reducing lightheadedness in clinical observation and small trials.
 
-#### #### Are there any holiday foods seniors with POTS should avoid to prevent vagal tone drops?
+#### Are there any holiday foods seniors with POTS should avoid to prevent vagal tone drops?
 
 Yes—especially highly refined carbohydrates (white rolls, sugary desserts), alcohol (even moderate red wine), and large volumes of low-electrolyte fluids (e.g., plain sparkling water or herbal teas without minerals). These can blunt vagal output, accelerate gastric emptying, or dilute serum sodium—worsening orthostatic tachycardia.
 
-#### #### How long does it take for foods that stabilize vagal tone to show effects in seniors?
+#### How long does it take for foods that stabilize vagal tone to show effects in seniors?
 
 Most people notice subtle improvements—like steadier heart rate after meals or less lightheadedness on standing—within 3–7 days of consistent intake. For measurable HRV changes, 2–4 weeks of daily inclusion is typical in intervention studies. Patience and regular tracking yield the clearest results.
 
-#### #### Do these foods interact with common medications for seniors, like beta-blockers or diuretics?
+#### Do these foods interact with common medications for seniors, like beta-blockers or diuretics?
 
 Some do: high-potassium foods (coconut water, mushrooms, bok choy) may require monitoring if you’re on ACE inhibitors or potassium-sparing diuretics. Always review new dietary additions with your prescribing clinician—especially if you’re taking digoxin or anticholinergic medications, which affect vagal pathways directly.

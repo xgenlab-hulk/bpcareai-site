@@ -86,22 +86,22 @@ It’s easy to feel overwhelmed when learning about non-dipping patterns and aut
 
 ### FAQ
 
-#### #### Is morning stretching vs breath-hold nocturnal bp effective for people over 70?
+#### Is morning stretching vs breath-hold nocturnal bp effective for people over 70?
 
 Yes — but effectiveness depends on consistency, proper technique, and individual autonomic responsiveness. In a 2023 pilot study of adults aged 69–78, 68% of participants who did 10-minute morning dynamic stretching 5x/week for 4 weeks lowered their mean nocturnal systolic BP by ≥5 mm Hg. Breath-hold sequencing showed similar results *only* when performed ≥2 hours pre-sleep and paired with relaxation cues — and benefits were slightly less consistent in those over 75.
 
-#### #### Can breath-hold sequencing raise my blood pressure at night?
+#### Can breath-hold sequencing raise my blood pressure at night?
 
 Potentially — yes. Unsupervised or mistimed breath-hold (e.g., holding too long, doing it within 90 minutes of bedtime, or pairing it with screen use) may trigger mild sympathetic activation in older adults. This can blunt the natural nighttime dip — or, rarely, cause transient spikes. Always start low and slow, and stop if you feel tension or increased heart rate.
 
-#### #### What’s the best time of day to check nocturnal BP — and how does morning stretching vs breath-hold affect those numbers?
+#### What’s the best time of day to check nocturnal BP — and how does morning stretching vs breath-hold affect those numbers?
 
 Nocturnal BP isn’t “checked” — it’s *measured* via ABPM, which captures readings automatically while you sleep. But the *impact* of morning stretching vs breath-hold nocturnal bp shows up in those overnight averages. Morning stretching tends to improve 24-hour patterns gradually — with effects visible by week 2–3. Breath-hold sequencing may show faster HRV changes, but nocturnal systolic reductions often take longer to stabilize — usually by week 4.
 
-#### #### Do I need special equipment for either practice?
+#### Do I need special equipment for either practice?
 
 No. Morning dynamic stretching requires only comfortable clothing and space to move safely. Breath-hold sequencing needs no gear — though many find a quiet, seated position with hands resting on knees helpful. If using audio guidance, choose calm, slow-paced recordings (avoid ones with rapid instructions or background music that speeds up your breathing).
 
-#### #### Can I combine both morning stretching and evening breath-hold?
+#### Can I combine both morning stretching and evening breath-hold?
 
 Some people do — and tolerate it well. However, in clinical observation, those who combined both *without adjusting timing or intensity* reported higher rates of evening fatigue or light-headedness. If you’d like to try both, consider starting with just one for 4 weeks, tracking nocturnal BP response, then introducing the second — with at least a 2-hour gap between practices and your bedtime.

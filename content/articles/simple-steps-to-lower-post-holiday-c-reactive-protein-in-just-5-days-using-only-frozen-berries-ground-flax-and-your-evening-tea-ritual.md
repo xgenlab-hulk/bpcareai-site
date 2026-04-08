@@ -49,19 +49,19 @@ Tracking your blood pressure trends can help you and your doctor make better dec
 
 ### FAQ
 
-#### #### Can lowering CRP post-holiday seniors really happen in just 5 days?
+#### Can lowering CRP post-holiday seniors really happen in just 5 days?
 Yes—studies using similar polyphenol + ALA timing protocols report average hs-CRP reductions of 1.0–1.8 mg/L within 5 days in adults 55–75. Results vary, but consistency matters more than perfection.
 
-#### #### Is frozen berry intake safe for seniors on blood thinners?
+#### Is frozen berry intake safe for seniors on blood thinners?
 Generally yes—frozen berries are low in vitamin K (unlike leafy greens), so they don’t interfere with warfarin. Still, talk to your doctor before making dietary changes, especially if you take anticoagulants or have kidney concerns.
 
-#### #### What’s the best time of day to eat flaxseed to help lower CRP post-holiday seniors?
+#### What’s the best time of day to eat flaxseed to help lower CRP post-holiday seniors?
 Take ground flax 30 minutes before your largest meal—ideally dinner. This timing supports optimal ALA conversion and pairs well with evening polyphenol absorption, creating a synergistic anti-inflammatory effect.
 
-#### #### Do I need to buy organic frozen berries to lower CRP post-holiday seniors?
+#### Do I need to buy organic frozen berries to lower CRP post-holiday seniors?
 Not necessarily. Frozen berries—organic or conventional—are equally effective for CRP reduction. What matters most is minimal added sugar (check labels!) and no syrup or juice concentrates.
 
-#### #### Can this 5-day plan also help with blood pressure?
+#### Can this 5-day plan also help with blood pressure?
 Indirectly, yes. Lowering systemic inflammation supports healthier endothelial function and arterial flexibility—both linked to more stable BP. While not a substitute for hypertension management, many seniors report feeling calmer and noticing slightly softer readings by Day 4–5.
 
 Lowering CRP post-holiday seniors doesn’t require drastic change—just mindful, rhythmic choices that honor how your body heals best. If you're unsure, talking to your doctor is always a good idea.

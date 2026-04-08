@@ -56,17 +56,17 @@ In short, holiday side dishes blood sugar spikes don’t have to derail your hea
 
 ### FAQ
 
-#### #### Can sweet potato casserole cause blood sugar spikes even without added sugar?
+#### Can sweet potato casserole cause blood sugar spikes even without added sugar?
 Yes—sweet potatoes themselves contain ~20 g of digestible carbs per ½-cup serving. When baked or mashed (which increases starch gelatinization), their glycemic index rises from ~44 (raw) to ~70–80. Add butter, milk, or baking, and the effect compounds—even without added sweeteners.
 
-#### #### What holiday side dishes blood sugar spikes should people with type 2 diabetes avoid?
+#### What holiday side dishes blood sugar spikes should people with type 2 diabetes avoid?
 Avoid dishes where multiple high-GI ingredients converge: candied yams with marshmallows, jellied cranberry sauce (often 25 g sugar per ¼ cup), stuffing made with white bread and dried fruit, and creamy potato gratin thickened with flour and heavy cream.
 
-#### #### How do “low-sugar” holiday side dishes affect blood sugar in older adults?
+#### How do “low-sugar” holiday side dishes affect blood sugar in older adults?
 Many “low-sugar” versions substitute sugar alcohols (e.g., maltitol) or fructose syrups, which still raise glucose—particularly in adults over 60 with reduced insulin sensitivity. Studies show maltitol raises postprandial glucose by ~15% compared to placebo in this demographic.
 
-#### #### Is cranberry relish safe for someone managing holiday diabetes management?
+#### Is cranberry relish safe for someone managing holiday diabetes management?
 Whole-berry relish (unsweetened, cooked with citrus and spices) is generally safe—containing only ~8 g net carbs per ¼ cup. But juice-sweetened versions add up to 30 g of simple sugars, triggering rapid spikes inconsistent with effective holiday diabetes management.
 
-#### #### Does pairing sides with protein really reduce holiday side dishes blood sugar spikes?
+#### Does pairing sides with protein really reduce holiday side dishes blood sugar spikes?
 Yes—clinical trials show adding 15–20 g of protein (e.g., lean turkey, eggs, or legumes) to a carbohydrate-containing meal lowers 2-hour postprandial glucose by 25–35 mg/dL in adults 60+, likely due to delayed gastric emptying and enhanced incretin response.

@@ -77,17 +77,17 @@ Supporting mitochondrial biogenesis heart aging isn’t about chasing youth—it
 
 ### FAQ
 
-#### #### Can mitochondrial biogenesis heart aging be reversed after age 65?
+#### Can mitochondrial biogenesis heart aging be reversed after age 65?
 Yes—reversal isn’t quite the right word, but *significant improvement* is possible. Clinical data shows measurable increases in mitochondrial DNA copy number and PGC-1α activity in adults aged 65–80 after 3–6 months of combined lifestyle support (FMD + flavonoids + movement). It’s not about restoring a 30-year-old heart—but optimizing function *for your current age*.
 
-#### #### What are the best natural ways to support mitochondrial biogenesis heart aging?
+#### What are the best natural ways to support mitochondrial biogenesis heart aging?
 The most evidence-backed triad includes: (1) periodic fasting-mimicking diets (3–5 cycles/year), (2) daily, brief cold exposure (e.g., cool shower finish), and (3) consistent, food-sourced flavonoids—especially quercetin, epicatechin, and anthocyanins. All work synergistically to activate AMPK and boost PGC-1α signaling.
 
-#### #### Does mitochondrial biogenesis heart aging affect blood pressure?
+#### Does mitochondrial biogenesis heart aging affect blood pressure?
 Indirectly—but meaningfully. As mitochondrial efficiency declines, cardiac myocytes rely more on anaerobic metabolism, increasing oxidative stress and impairing nitric oxide availability—both contributors to arterial stiffness and elevated systolic BP. Supporting biogenesis helps maintain vascular elasticity and endothelial function, supporting healthier BP patterns over time.
 
-#### #### Is cold-water immersion safe for seniors with high blood pressure?
+#### Is cold-water immersion safe for seniors with high blood pressure?
 It *can* be—with careful adaptation. Short, mild cold exposure (e.g., 30–60 seconds of cool water at ~16°C) typically causes only transient BP elevation (<10 mm Hg rise). However, prolonged or very cold immersion (below 10°C) may trigger unsafe spikes—especially in those with uncontrolled hypertension (>140/90 mm Hg). Always check with your doctor first—and never skip warm-up or cooldown phases.
 
-#### #### How long before I notice benefits from supporting mitochondrial biogenesis heart aging?
+#### How long before I notice benefits from supporting mitochondrial biogenesis heart aging?
 Most people report improved daily stamina and easier recovery within 4–8 weeks. Objective improvements—like better HRV or lower NT-proBNP—often appear after 3 months of consistent practice. Patience and consistency are your greatest allies.

@@ -89,22 +89,22 @@ Living well with INOCA doesn’t mean resigning yourself to diminished quality o
 
 ### FAQ
 
-#### #### Can natural support for coronary microvascular disease help if I’ve already tried standard heart medications?
+#### Can natural support for coronary microvascular disease help if I’ve already tried standard heart medications?
 
 Yes—many people with INOCA continue to experience symptoms despite beta-blockers, calcium channel blockers, or nitrates. These drugs primarily affect larger vessels or myocardial contractility, not microvascular endothelial mitochondria. Approaches focused on mitochondrial support (e.g., urolithin-enhancing polyphenols) work via complementary pathways and have demonstrated symptom improvement in clinical cohorts where conventional therapy plateaued.
 
-#### #### What’s the difference between natural support for coronary microvascular disease and general “heart-healthy” supplements?
+#### What’s the difference between natural support for coronary microvascular disease and general “heart-healthy” supplements?
 
 General heart supplements often emphasize broad antioxidant effects (e.g., vitamin C, CoQ10) or NO precursors (e.g., beetroot powder). Natural support for coronary microvascular disease is more precise: it prioritizes compounds shown to enter endothelial cells, localize to mitochondria, and modulate specific pathways like PGC-1α, TFAM, and mitophagy receptors—without increasing oxidative burden. It’s mechanism-driven, not marketing-driven.
 
-#### #### Is pomegranate safe to take with blood pressure medications?
+#### Is pomegranate safe to take with blood pressure medications?
 
 Pomegranate juice or extract is generally well tolerated alongside antihypertensives—but because it may modestly enhance endothelial-dependent vasodilation, it’s wise to monitor BP closely during the first 2 weeks of consistent use. No clinically significant interactions have been reported with ACE inhibitors, ARBs, or calcium channel blockers in adults 60–67, but always inform your prescriber.
 
-#### #### Does L-citrulline raise blood pressure?
+#### Does L-citrulline raise blood pressure?
 
 No—L-citrulline typically supports healthy arterial pressure by improving endothelial function. In clinical studies involving adults over 60, doses up to 3 g/day were associated with average reductions in systolic BP of 4–7 mm Hg. However, *timing matters*: taking it only before activity (rather than multiple times daily) avoids sustained arginine elevation that could theoretically promote uncoupling in high-oxidative-stress states.
 
-#### #### How long before I notice changes with this approach?
+#### How long before I notice changes with this approach?
 
 Most adults report subtle improvements—such as quicker recovery after walking uphill or reduced midday fatigue—within 3–4 weeks. Objective markers like improved CFR or HRV often shift measurably by week 8–12 of consistent adherence. Patience and consistency are key: mitochondrial turnover takes time, but the benefits are durable.

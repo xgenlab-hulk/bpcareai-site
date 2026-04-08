@@ -48,22 +48,22 @@ In summary, cranberry sauce UTI prevention seniors choose *can* support urinary 
 
 ### FAQ
 
-#### #### Does homemade cranberry sauce help prevent UTIs in seniors?
+#### Does homemade cranberry sauce help prevent UTIs in seniors?
 
 Yes—if made without added sugars and using whole berries. Studies show PAC-A retention is highest in minimally processed preparations (e.g., lightly cooked whole cranberries). Avoid boiling for >10 minutes, as heat degrades PACs.
 
-#### #### Is cranberry sauce UTI prevention effective for older women with diabetes?
+#### Is cranberry sauce UTI prevention effective for older women with diabetes?
 
 Cautiously—yes, but sugar content must be tightly controlled. Unmanaged blood glucose promotes *E. coli* growth and impairs immune response. Opt for no-added-sugar versions and monitor post-meal glucose closely.
 
-#### #### Can cranberry sauce UTI prevention seniors use replace antibiotics for active infections?
+#### Can cranberry sauce UTI prevention seniors use replace antibiotics for active infections?
 
 No. Cranberry products are *not* treatment for active UTIs. They may reduce recurrence risk when used preventively—but antibiotics remain first-line therapy for confirmed infection.
 
-#### #### How much cranberry do seniors need daily for UTI prevention?
+#### How much cranberry do seniors need daily for UTI prevention?
 
 Clinical trials use 36–72 mg of PAC-A per day—equivalent to ~1 cup of fresh, unsweetened whole cranberries or a standardized supplement. Jellied or canned sauces rarely meet this threshold.
 
-#### #### Does cranberry interact with blood thinners like warfarin?
+#### Does cranberry interact with blood thinners like warfarin?
 
 Evidence is mixed, but high-dose cranberry *juice* (not sauce) has shown potential interaction in some case reports. Speak with your pharmacist before adding large amounts—especially if taking anticoagulants.

@@ -56,17 +56,17 @@ Hot showers remain a comforting, therapeutic part of daily life for most older a
 
 ### FAQ  
 
-#### #### Can hot showers cause high blood pressure in seniors?  
+#### Can hot showers cause high blood pressure in seniors?  
 No—hot showers typically cause a *drop* in blood pressure due to vasodilation. However, the heart may work harder (increasing heart rate), which can feel unsettling. True spikes in BP are uncommon unless combined with stress, pain, or sudden movement.
 
-#### #### Do hot showers lower blood pressure in elderly people?  
+#### Do hot showers lower blood pressure in elderly people?  
 Yes—temporarily. Warm water relaxes arteries and lowers peripheral resistance, often reducing systolic BP by 10–20 mm Hg. This effect is usually short-lived (15–30 minutes) and harmless for most—but can contribute to dizziness in those prone to low BP.
 
-#### #### Are hot showers safe for people with heart failure?  
+#### Are hot showers safe for people with heart failure?  
 They can be—with caution. Excessive heat may increase fluid loss and cardiac workload. Many cardiologists recommend warm (not hot) showers, shorter durations, and seated bathing for added safety. Always follow your care team’s personalized guidance.
 
-#### #### Can hot showers trigger arrhythmias?  
+#### Can hot showers trigger arrhythmias?  
 Rarely—and usually only in individuals with pre-existing, uncontrolled arrhythmias (e.g., atrial fibrillation) or severe autonomic dysfunction. If you notice irregular pulses or skipped beats after hot water exposure, mention it to your doctor.
 
-#### #### What’s the safest water temperature for elderly adults with hypertension?  
+#### What’s the safest water temperature for elderly adults with hypertension?  
 A comfortable 98–102°F (37–39°C) is ideal. Avoid exceeding 104°F (40°C), especially if you’re on BP-lowering medications or have a history of dizziness on standing.

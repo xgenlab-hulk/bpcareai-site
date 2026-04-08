@@ -53,17 +53,17 @@ In short, holiday joy doesn’t require compromise—it calls for kindness, both
 
 ### FAQ  
 
-#### #### Are there really safe low-sugar desserts for diabetics over 70?  
+#### Are there really safe low-sugar desserts for diabetics over 70?  
 Yes—especially when they focus on whole foods, natural sweetness (like ripe fruit or cinnamon), and fiber. Avoid highly processed “diabetic” candies, which often contain sugar alcohols that may upset digestion or still affect blood sugar.
 
-#### #### What are the best low-sugar desserts for diabetics over 70 during Christmas or Hanukkah?  
+#### What are the best low-sugar desserts for diabetics over 70 during Christmas or Hanukkah?  
 Think warm, comforting, and easy-to-chew: baked apples with walnut crumble, spiced pear compote, or dark chocolate–dipped orange segments (70%+ cocoa, 1–2 squares max). All are naturally low in added sugar and rich in antioxidants.
 
-#### #### Can low-sugar desserts for diabetics over 70 still be satisfying?  
+#### Can low-sugar desserts for diabetics over 70 still be satisfying?  
 Absolutely. Satisfaction comes from flavor, texture, and ritual—not just sweetness. Cinnamon, vanilla, toasted nuts, creamy yogurt, and ripe fruit deliver deep, warming flavors that feel indulgent without the sugar load.
 
-#### #### Do sugar substitutes like stevia or monk fruit affect older adults differently?  
+#### Do sugar substitutes like stevia or monk fruit affect older adults differently?  
 Most research shows stevia and monk fruit are safe for older adults—but some people report aftertastes or mild GI sensitivity. Start with small amounts and pair them with fiber-rich foods to support steady glucose response.
 
-#### #### How often can someone over 70 with diabetes enjoy a low-sugar dessert?  
+#### How often can someone over 70 with diabetes enjoy a low-sugar dessert?  
 Most registered dietitians recommend 2–3 times per week, as part of a balanced meal plan. Consistency matters more than frequency—so choose reliably low-sugar options and track how your body responds.

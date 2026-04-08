@@ -71,22 +71,22 @@ Choosing a blood pressure monitor when you live with severe arthritis and tremor
 
 ### FAQ
 
-#### #### What is the best bp cuff severe arthritis tremor device for someone who can’t use both hands?
+#### What is the best bp cuff severe arthritis tremor device for someone who can’t use both hands?
 
 The most supportive options are upper-arm monitors with one-handed cuff application (e.g., magnetic or wide-loop Velcro closures), large tactile buttons, and fully automatic inflation/deflation. Models validated in elderly cohorts with dexterity challenges—and FDA-cleared for tremor compensation—are top-tier choices. Always pair the device with proper arm support and consistent positioning.
 
-#### #### Are wrist BP cuffs better for people with severe arthritis and tremor?
+#### Are wrist BP cuffs better for people with severe arthritis and tremor?
 
 Not necessarily—and often, they’re less reliable. While wrist cuffs require less arm movement, they demand precise positioning at heart level and minimal motion during measurement—both difficult with tremor. Upper-arm cuffs remain the gold standard for accuracy *when designed accessibly*, especially with tremor-compensating algorithms.
 
-#### #### How do I know if a bp cuff severe arthritis tremor monitor is truly validated for older adults?
+#### How do I know if a bp cuff severe arthritis tremor monitor is truly validated for older adults?
 
 Look for independent clinical validation reports citing testing in adults aged 65+, including subgroups with arthritis, tremor, or reduced grip strength. Reputable certifications include ESH-IP, AAMI/ISO 81060-2:2018, or BHS (British Hypertension Society) Grade A. Manufacturer websites often link to full study summaries—don’t hesitate to ask your pharmacist or clinician for help reviewing them.
 
-#### #### Can tremor really affect my blood pressure reading?
+#### Can tremor really affect my blood pressure reading?
 
 Yes—tremor introduces motion artifact that interferes with oscillometric detection (how most digital cuffs measure pressure). This can inflate systolic readings by 5–20 mm Hg or create false “error” messages. FDA-cleared tremor compensation algorithms improve reliability by filtering out this noise, making readings more reflective of true arterial pressure.
 
-#### #### Do I need a special cuff size if I have severe arthritis?
+#### Do I need a special cuff size if I have severe arthritis?
 
 Cuff size depends on arm circumference—not arthritis itself—but swelling, muscle loss, or joint deformity can change that measurement over time. Measure your upper arm at the midpoint between shoulder and elbow, then choose a cuff labeled for that range. Adjustable cuffs (often labeled “universal” or “large adult”) are safest for changing needs—and softer, wider fabrics help prevent discomfort on sensitive skin.

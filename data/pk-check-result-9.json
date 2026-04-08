@@ -1,0 +1,786 @@
+{
+  "batch_id": 9,
+  "total_articles": 245,
+  "quality_distribution": {
+    "excellent": 119,
+    "good": 64,
+    "needs_improvement": 38,
+    "poor": 24
+  },
+  "needs_optimization": [
+    {
+      "slug": "why-emotional-eating-at-family-gatherings-is-common-and-how-to-manage-it",
+      "title": "Why Emotional Eating at Family Gatherings Is Common—And How to Manage It",
+      "current_keyword": "emotional eating at family events",
+      "score": 30,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords",
+        "no_search_intent"
+      ],
+      "suggested_keyword": "eating habits management family gatherings seniors",
+      "rationale": "Adjusted from 33 to 50 chars, added medical topic, clarified intent"
+    },
+    {
+      "slug": "5-common-medication-adjustments-seniors-need-in-winter",
+      "title": "5 Common Medication Adjustments Seniors Need in Winter",
+      "current_keyword": "winter medication adjustments seniors",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "medication management winter seniors",
+      "rationale": "Adjusted from 37 to 36 chars, added medical topic"
+    },
+    {
+      "slug": "the-truth-about-healthy-store-bought-holiday-meals-for-older-adults",
+      "title": "The Truth About 'Healthy' Store-Bought Holiday Meals for Older Adults",
+      "current_keyword": "healthy store-bought holiday meals seniors",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "diet management holiday seniors",
+      "rationale": "Adjusted from 42 to 31 chars, added medical topic"
+    },
+    {
+      "slug": "the-hidden-role-of-vitamin-d-deficiency-in-winter-depression-among-nursing-home-residents",
+      "title": "The Hidden Role of Vitamin D Deficiency in Winter Depression Among Nursing Home Residents",
+      "current_keyword": "vitamin d deficiency in nursing homes",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "mental health winter older adults",
+      "rationale": "Adjusted from 37 to 33 chars, added medical topic"
+    },
+    {
+      "slug": "how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60",
+      "title": "How Sleep Disruption Fuels Seasonal Mood Disorders in Adults Over 60",
+      "current_keyword": "sleep disruption and seasonal depression",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "sleep quality seasonal adults over 60",
+      "rationale": "Adjusted from 40 to 37 chars, added medical topic"
+    },
+    {
+      "slug": "how-group-activities-in-senior-centers-prevent-seasonal-depression",
+      "title": "How Group Activities in Senior Centers Prevent Seasonal Depression",
+      "current_keyword": "senior center activities and depression",
+      "score": 37,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords",
+        "unclear_search_intent"
+      ],
+      "suggested_keyword": "mental health prevention seasonal older adults",
+      "rationale": "Adjusted from 39 to 46 chars, added medical topic, clarified intent"
+    },
+    {
+      "slug": "can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors",
+      "title": "Can Vitamin B12 Deficiency Worsen Seasonal Depression in Seniors?",
+      "current_keyword": "vitamin b12 and seasonal depression",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "mental health seasonal seniors",
+      "rationale": "Adjusted from 35 to 30 chars, added medical topic"
+    },
+    {
+      "slug": "seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know",
+      "title": "Seasonal Depression vs. Normal Winter Sadness: What Families Need to Know",
+      "current_keyword": "seasonal depression vs winter sadness",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "mental health winter older adults",
+      "rationale": "Adjusted from 37 to 33 chars, added medical topic"
+    },
+    {
+      "slug": "easy-make-ahead-freezer-meals-to-reduce-holiday-cooking-stress-for-seniors",
+      "title": "Easy Make-Ahead Freezer Meals to Reduce Holiday Cooking Stress for Seniors",
+      "current_keyword": "make-ahead freezer meals for seniors holidays",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "diet management reducing holiday seniors",
+      "rationale": "Adjusted from 45 to 40 chars, added medical topic"
+    },
+    {
+      "slug": "best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70",
+      "title": "Best Indoor Exercises to Boost Mood During Winter for Seniors Over 70",
+      "current_keyword": "indoor exercises for seasonal depression",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "mood management winter adults over 70",
+      "rationale": "Adjusted from 40 to 37 chars, added medical topic"
+    },
+    {
+      "slug": "4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts",
+      "title": "4 Natural Appetite Suppressants That Work for Older Adults During Holiday Feasts",
+      "current_keyword": "natural appetite suppressants for seniors holidays",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "health management holiday seniors",
+      "rationale": "Adjusted from 50 to 33 chars, added medical topic"
+    },
+    {
+      "slug": "why-older-men-often-hide-their-seasonal-depression-symptoms",
+      "title": "Why Older Men Often Hide Their Seasonal Depression Symptoms",
+      "current_keyword": "men and hidden seasonal depression",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "mental health seasonal older adults",
+      "rationale": "Adjusted from 34 to 35 chars, added medical topic"
+    },
+    {
+      "slug": "what-to-do-when-your-family-doesn-t-support-your-healthy-eating-choices",
+      "title": "What to Do When Your Family Doesn’t Support Your Healthy Eating Choices",
+      "current_keyword": "family resistance to healthy eating",
+      "score": 30,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords",
+        "no_search_intent"
+      ],
+      "suggested_keyword": "eating habits management older adults",
+      "rationale": "Adjusted from 35 to 37 chars, added medical topic, clarified intent"
+    },
+    {
+      "slug": "can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors",
+      "title": "Can Sauna Use Help Regulate Blood Pressure in Winter? Pros and Cons for Seniors",
+      "current_keyword": "sauna and blood pressure",
+      "score": 50,
+      "issues": [
+        "too_short",
+        "lacks_audience_or_scenario",
+        "no_search_intent"
+      ],
+      "suggested_keyword": "blood pressure management winter seniors",
+      "rationale": "Expanded from 24 to 40 chars, added audience and scenario, clarified intent"
+    },
+    {
+      "slug": "best-low-carb-desserts-for-diabetics-over-60-this-holiday-season",
+      "title": "Best Low-Carb Desserts for Diabetics Over 60 This Holiday Season",
+      "current_keyword": "low-carb desserts for seniors",
+      "score": 32,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords",
+        "unclear_search_intent"
+      ],
+      "suggested_keyword": "diabetes holiday adults over 60",
+      "rationale": "Expanded from 29 to 31 chars, added medical topic"
+    },
+    {
+      "slug": "the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season",
+      "title": "The Science Behind Mindful Eating and Its Benefits for Seniors This Holiday Season",
+      "current_keyword": "science of mindful eating seniors holidays",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "eating habits management holiday seniors",
+      "rationale": "Adjusted from 42 to 40 chars, added medical topic"
+    },
+    {
+      "slug": "low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure",
+      "title": "Low-Sodium Holiday Turkey Brine Recipe for Seniors with High Blood Pressure",
+      "current_keyword": "low-sodium turkey brine for seniors",
+      "score": 37,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords",
+        "unclear_search_intent"
+      ],
+      "suggested_keyword": "blood pressure holiday seniors",
+      "rationale": "Adjusted from 35 to 30 chars, added medical topic"
+    },
+    {
+      "slug": "low-sodium-alternatives-for-classic-family-recipes-that-still-taste-great",
+      "title": "Low-Sodium Alternatives for Classic Family Recipes That Still Taste Great",
+      "current_keyword": "low-sodium family meal ideas",
+      "score": 25,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords",
+        "no_search_intent"
+      ],
+      "suggested_keyword": "diet management guide older adults",
+      "rationale": "Expanded from 28 to 34 chars, added medical topic, clarified intent"
+    },
+    {
+      "slug": "how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals",
+      "title": "How to Navigate the Holiday Buffet Without Sabotaging Your Health Goals",
+      "current_keyword": "holiday buffet healthy eating tips",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "diet management holiday older adults",
+      "rationale": "Adjusted from 34 to 36 chars, added medical topic"
+    },
+    {
+      "slug": "can-high-cholesterol-cause-heart-disease-even-with-normal-blood-pressure",
+      "title": "Can High Cholesterol Cause Heart Disease Even with Normal Blood Pressure?",
+      "current_keyword": "high cholesterol and heart disease with normal blood pressure",
+      "score": 30,
+      "issues": [
+        "too_long",
+        "lacks_audience_or_scenario",
+        "too_many_medical_keywords",
+        "no_search_intent",
+        "may_be_stuffed"
+      ],
+      "suggested_keyword": "blood pressure management older adults",
+      "rationale": "Shortened from 61 to 38 chars, added audience, clarified intent"
+    },
+    {
+      "slug": "10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor",
+      "title": "10 Smart Swaps to Make Your Family Recipes Healthier Without Losing Flavor",
+      "current_keyword": "healthy recipe swaps for families",
+      "score": 30,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords",
+        "no_search_intent"
+      ],
+      "suggested_keyword": "health management older adults",
+      "rationale": "Adjusted from 33 to 30 chars, added medical topic, clarified intent"
+    },
+    {
+      "slug": "7-common-mistakes-that-make-seasonal-depression-worse-in-seniors",
+      "title": "7 Common Mistakes That Make Seasonal Depression Worse in Seniors",
+      "current_keyword": "mistakes worsening seasonal depression",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "mental health seasonal seniors",
+      "rationale": "Adjusted from 38 to 30 chars, added medical topic"
+    },
+    {
+      "slug": "when-to-worry-about-weight-gain-after-a-family-gathering",
+      "title": "When to Worry About Weight Gain After a Family Gathering",
+      "current_keyword": "post-holiday weight gain concerns",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "weight management family gatherings older adults",
+      "rationale": "Adjusted from 33 to 48 chars, added medical topic"
+    },
+    {
+      "slug": "what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60",
+      "title": "What to Eat After a Holiday Meal If You Have Acid Reflux Over 60",
+      "current_keyword": "post-holiday meal foods for acid reflux seniors",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "diet management holiday adults over 60",
+      "rationale": "Adjusted from 47 to 38 chars, added medical topic"
+    },
+    {
+      "slug": "what-research-says-about-protein-needs-during-the-holidays-for-frail-seniors",
+      "title": "What Research Says About Protein Needs During the Holidays for Frail Seniors",
+      "current_keyword": "holiday protein needs for frail seniors",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "health management holiday seniors",
+      "rationale": "Adjusted from 39 to 33 chars, added medical topic"
+    },
+    {
+      "slug": "warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties",
+      "title": "Warning Signs of Dehydration in Older Adults During Winter Holiday Parties",
+      "current_keyword": "dehydration warning signs in seniors winter",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "health management holiday seniors",
+      "rationale": "Adjusted from 43 to 33 chars, added medical topic"
+    },
+    {
+      "slug": "top-6-nutrient-dense-side-dishes-to-add-to-your-senior-friendly-holiday-table",
+      "title": "Top 6 Nutrient-Dense Side Dishes to Add to Your Senior-Friendly Holiday Table",
+      "current_keyword": "nutrient-dense holiday side dishes seniors",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "health management holiday seniors",
+      "rationale": "Adjusted from 42 to 33 chars, added medical topic"
+    },
+    {
+      "slug": "the-best-indoor-exercises-for-blood-pressure-control-in-winter",
+      "title": "The Best Indoor Exercises for Blood Pressure Control in Winter",
+      "current_keyword": "indoor exercises for seniors",
+      "score": 32,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords",
+        "unclear_search_intent"
+      ],
+      "suggested_keyword": "blood pressure control winter seniors",
+      "rationale": "Expanded from 28 to 37 chars, added medical topic, clarified intent"
+    },
+    {
+      "slug": "simple-steps-to-balance-comfort-foods-and-nutrition-during-holiday-meals",
+      "title": "Simple Steps to Balance Comfort Foods and Nutrition During Holiday Meals",
+      "current_keyword": "balancing comfort food and health",
+      "score": 30,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords",
+        "no_search_intent"
+      ],
+      "suggested_keyword": "diet management holiday older adults",
+      "rationale": "Adjusted from 33 to 36 chars, added medical topic, clarified intent"
+    },
+    {
+      "slug": "quick-ways-to-make-store-bought-party-foods-healthier-before-serving",
+      "title": "Quick Ways to Make Store-Bought Party Foods Healthier Before Serving",
+      "current_keyword": "healthier store-bought party food",
+      "score": 30,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords",
+        "no_search_intent"
+      ],
+      "suggested_keyword": "diet management guide older adults",
+      "rationale": "Adjusted from 33 to 34 chars, added medical topic, clarified intent"
+    },
+    {
+      "slug": "how-to-support-a-parent-with-seasonal-depression-while-living-far-away",
+      "title": "How to Support a Parent with Seasonal Depression While Living Far Away",
+      "current_keyword": "supporting parent with seasonal depression",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "mental health seasonal older adults",
+      "rationale": "Adjusted from 42 to 35 chars, added medical topic"
+    },
+    {
+      "slug": "a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease",
+      "title": "A Plate-by-Plate Guide to Building a Balanced Holiday Meal for Seniors with Kidney Disease",
+      "current_keyword": "holiday meal guide for seniors with kidney disease",
+      "score": 40,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords",
+        "may_be_stuffed"
+      ],
+      "suggested_keyword": "diet management holiday seniors",
+      "rationale": "Adjusted from 50 to 31 chars, added medical topic"
+    },
+    {
+      "slug": "7-smart-swaps-for-healthier-holiday-meals-after-65",
+      "title": "7 Smart Swaps for Healthier Holiday Meals After 65",
+      "current_keyword": "healthy holiday swaps for seniors",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "diet management holiday seniors",
+      "rationale": "Adjusted from 33 to 31 chars, added medical topic"
+    },
+    {
+      "slug": "top-10-diabetes-friendly-snacks-for-people-over-60",
+      "title": "Top 10 Diabetes-Friendly Snacks for People Over 60",
+      "current_keyword": "healthy diabetic snacks for seniors",
+      "score": 37,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords",
+        "unclear_search_intent"
+      ],
+      "suggested_keyword": "diabetes management adults over 60",
+      "rationale": "Adjusted from 35 to 34 chars, added medical topic, clarified intent"
+    },
+    {
+      "slug": "the-truth-about-cheating-on-your-diet-during-family-celebrations",
+      "title": "The Truth About 'Cheating' on Your Diet During Family Celebrations",
+      "current_keyword": "cheating on diet occasional basis",
+      "score": 30,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords",
+        "no_search_intent"
+      ],
+      "suggested_keyword": "diet management guide older adults",
+      "rationale": "Adjusted from 33 to 34 chars, added medical topic, clarified intent"
+    },
+    {
+      "slug": "foot-care-basics-every-senior-with-diabetes-should-know",
+      "title": "Foot Care Basics Every Senior with Diabetes Should Know",
+      "current_keyword": "diabetic foot care for seniors",
+      "score": 37,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords",
+        "unclear_search_intent"
+      ],
+      "suggested_keyword": "diabetes management older adults",
+      "rationale": "Adjusted from 30 to 32 chars, added medical topic, clarified intent"
+    },
+    {
+      "slug": "5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners",
+      "title": "5 Mindful Eating Techniques to Prevent Overeating at Family Dinners",
+      "current_keyword": "mindful eating at gatherings",
+      "score": 25,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords",
+        "no_search_intent"
+      ],
+      "suggested_keyword": "eating habits prevention meals older adults",
+      "rationale": "Expanded from 28 to 43 chars, added medical topic, clarified intent"
+    },
+    {
+      "slug": "10-high-fiber-holiday-foods-that-support-digestion-after-50",
+      "title": "10 High-Fiber Holiday Foods That Support Digestion After 50",
+      "current_keyword": "high-fiber holiday foods for seniors",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "diet management holiday seniors",
+      "rationale": "Adjusted from 36 to 31 chars, added medical topic"
+    },
+    {
+      "slug": "when-to-worry-about-chest-discomfort-after-a-big-holiday-meal",
+      "title": "When to Worry About Chest Discomfort After a Big Holiday Meal",
+      "current_keyword": "chest pain after eating seniors warning signs",
+      "score": 37,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords",
+        "unclear_search_intent"
+      ],
+      "suggested_keyword": "diet management holiday seniors",
+      "rationale": "Adjusted from 45 to 31 chars, added medical topic, clarified intent"
+    },
+    {
+      "slug": "when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75",
+      "title": "When to Worry About a Loved One’s Winter Mood Changes After 75",
+      "current_keyword": "when to worry about seasonal depression",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "mood management winter older adults",
+      "rationale": "Adjusted from 39 to 35 chars, added medical topic"
+    },
+    {
+      "slug": "the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50",
+      "title": "The Hidden Danger of Combining Alcohol and Cold Medicines Over 50",
+      "current_keyword": "alcohol and cold medicine risks",
+      "score": 37,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords",
+        "unclear_search_intent"
+      ],
+      "suggested_keyword": "health management older adults",
+      "rationale": "Adjusted from 31 to 30 chars, added medical topic, clarified intent"
+    },
+    {
+      "slug": "how-light-therapy-can-help-older-adults-beat-winter-blues-after-65",
+      "title": "How Light Therapy Can Help Older Adults Beat Winter Blues After 65",
+      "current_keyword": "light therapy for seasonal depression",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "health management winter older adults",
+      "rationale": "Added medical topic"
+    },
+    {
+      "slug": "how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults",
+      "title": "How Chronic Pain Conditions Exacerbate Seasonal Depression in Older Adults",
+      "current_keyword": "chronic pain and seasonal depression",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "mental health seasonal older adults",
+      "rationale": "Adjusted from 36 to 35 chars, added medical topic"
+    },
+    {
+      "slug": "the-link-between-family-food-traditions-and-chronic-disease-risk",
+      "title": "The Link Between Family Food Traditions and Chronic Disease Risk",
+      "current_keyword": "food traditions and disease risk",
+      "score": 37,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords",
+        "unclear_search_intent"
+      ],
+      "suggested_keyword": "diet management risks older adults",
+      "rationale": "Adjusted from 32 to 34 chars, added medical topic, clarified intent"
+    },
+    {
+      "slug": "how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60",
+      "title": "How to Manage Portion Control at Holiday Gatherings When You're Over 60",
+      "current_keyword": "portion control for seniors at holidays",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "health management holiday adults over 60",
+      "rationale": "Adjusted from 39 to 40 chars, added medical topic"
+    },
+    {
+      "slug": "how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out",
+      "title": "How Grandparents Can Model Healthy Eating for Families Without Feeling Left Out",
+      "current_keyword": "diabetic grandparents holiday eating",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "eating habits management older adults",
+      "rationale": "Adjusted from 36 to 37 chars, added medical topic"
+    },
+    {
+      "slug": "how-cold-weather-impacts-appetite-and-food-choices-in-seniors-during-the-holidays",
+      "title": "How Cold Weather Impacts Appetite and Food Choices in Seniors During the Holidays",
+      "current_keyword": "cold weather appetite changes seniors",
+      "score": 37,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords",
+        "unclear_search_intent"
+      ],
+      "suggested_keyword": "diet management holiday seniors",
+      "rationale": "Adjusted from 37 to 31 chars, added medical topic, clarified intent"
+    },
+    {
+      "slug": "holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues",
+      "title": "Holiday Eating on a Soft Food Diet: Ideas for Seniors with Dental Issues",
+      "current_keyword": "soft food diet holiday meals seniors",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "diet management holiday seniors",
+      "rationale": "Adjusted from 36 to 31 chars, added medical topic"
+    },
+    {
+      "slug": "5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid",
+      "title": "5 Hidden Sources of Sodium in Holiday Foods Seniors Should Avoid",
+      "current_keyword": "hidden sodium in holiday foods seniors",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "diet management avoiding holiday seniors",
+      "rationale": "Adjusted from 38 to 40 chars, added medical topic"
+    },
+    {
+      "slug": "the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults",
+      "title": "The Link Between Holiday Loneliness and Emotional Eating in Older Adults",
+      "current_keyword": "holiday loneliness and emotional eating seniors",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "eating habits management holiday seniors",
+      "rationale": "Adjusted from 47 to 40 chars, added medical topic"
+    },
+    {
+      "slug": "how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors",
+      "title": "How to Host a Holiday Gathering That Accommodates All Dietary Restrictions for Seniors",
+      "current_keyword": "hosting holiday meals for seniors with dietary restrictions",
+      "score": 35,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords",
+        "may_be_stuffed"
+      ],
+      "suggested_keyword": "diet management holiday seniors",
+      "rationale": "Shortened from 59 to 31 chars, added medical topic"
+    },
+    {
+      "slug": "why-older-women-gain-weight-faster-during-the-holidays-after-menopause",
+      "title": "Why Older Women Gain Weight Faster During the Holidays After Menopause",
+      "current_keyword": "menopause holiday weight gain women",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "weight management holiday older adults",
+      "rationale": "Adjusted from 35 to 38 chars, added medical topic"
+    },
+    {
+      "slug": "how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar",
+      "title": "How to Eat Mindfully at Buffets Without Spiking Blood Sugar",
+      "current_keyword": "mindful eating at holiday buffets",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "blood sugar management older adults",
+      "rationale": "Adjusted from 33 to 35 chars, added medical topic"
+    },
+    {
+      "slug": "can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults",
+      "title": "Can Binge Drinking During Festive Seasons Cause Atrial Fibrillation in Older Adults?",
+      "current_keyword": "binge drinking atrial fibrillation",
+      "score": 30,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords",
+        "no_search_intent"
+      ],
+      "suggested_keyword": "health management holiday older adults",
+      "rationale": "Adjusted from 34 to 38 chars, added medical topic, clarified intent"
+    },
+    {
+      "slug": "blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70",
+      "title": "Blood Sugar-Friendly Holiday Gift Ideas for Diabetics Over 70",
+      "current_keyword": "holiday gifts for diabetics over 70",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "diabetes holiday adults over 70",
+      "rationale": "Adjusted from 35 to 31 chars, added medical topic"
+    },
+    {
+      "slug": "best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat",
+      "title": "Best High-Fiber Sides for Family Dinners That Everyone Will Actually Eat",
+      "current_keyword": "high-fiber family side dishes",
+      "score": 25,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords",
+        "no_search_intent"
+      ],
+      "suggested_keyword": "health management meals older adults",
+      "rationale": "Expanded from 29 to 36 chars, added medical topic, clarified intent"
+    },
+    {
+      "slug": "best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65",
+      "title": "Best Blood Sugar-Friendly Holiday Drinks for Diabetics Over 65",
+      "current_keyword": "diabetic-friendly holiday drinks over 65",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "diabetes holiday adults over 65",
+      "rationale": "Adjusted from 40 to 31 chars, added medical topic"
+    },
+    {
+      "slug": "simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70",
+      "title": "Simple Steps to Stay Hydrated During Winter Holidays When You’re Over 70",
+      "current_keyword": "staying hydrated in winter for seniors",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "health management holiday adults over 70",
+      "rationale": "Adjusted from 38 to 40 chars, added medical topic"
+    },
+    {
+      "slug": "quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food",
+      "title": "Quick 15-Minute Post-Meal Walks: How They Help Seniors Digest Holiday Food",
+      "current_keyword": "post-meal walks for seniors holiday",
+      "score": 45,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords"
+      ],
+      "suggested_keyword": "diet management holiday seniors",
+      "rationale": "Adjusted from 35 to 31 chars, added medical topic"
+    },
+    {
+      "slug": "a-guide-to-allergen-friendly-family-meals-for-mixed-diet-households",
+      "title": "A Guide to Allergen-Friendly Family Meals for Mixed-Diet Households",
+      "current_keyword": "allergen-friendly family gatherings",
+      "score": 30,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords",
+        "no_search_intent"
+      ],
+      "suggested_keyword": "diet management meals older adults",
+      "rationale": "Adjusted from 35 to 34 chars, added medical topic, clarified intent"
+    },
+    {
+      "slug": "how-menopause-affects-blood-sugar-control-in-women-with-diabetes",
+      "title": "How Menopause Affects Blood Sugar Control in Women with Diabetes",
+      "current_keyword": "menopause and blood sugar fluctuations in women with diabetes",
+      "score": 45,
+      "issues": [
+        "too_long",
+        "lacks_audience_or_scenario",
+        "no_search_intent",
+        "may_be_stuffed"
+      ],
+      "suggested_keyword": "diabetes management guide older adults",
+      "rationale": "Shortened from 61 to 27 chars, added audience, clarified intent"
+    },
+    {
+      "slug": "best-fruits-for-diabetics-over-50-and-which-to-limit",
+      "title": "Best Fruits for Diabetics Over 50 (And Which to Limit)",
+      "current_keyword": "best fruits for diabetics over 50",
+      "score": 30,
+      "issues": [
+        "lacks_core_medical_topic",
+        "no_medical_keywords",
+        "no_search_intent"
+      ],
+      "suggested_keyword": "diabetes management older adults",
+      "rationale": "Adjusted from 33 to 32 chars, added medical topic, clarified intent"
+    }
+  ]
+}

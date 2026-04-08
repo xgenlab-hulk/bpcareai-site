@@ -82,22 +82,22 @@ Holiday heart syndrome isn’t a sign of weakness or poor choices—it’s a phy
 
 ### FAQ
 
-#### #### What are the most common holiday heart syndrome symptoms women notice first?
+#### What are the most common holiday heart syndrome symptoms women notice first?
 
 The earliest and most frequently reported signs in women include unexplained fatigue, shortness of breath during light activity (like carrying groceries), subtle palpitations described as “fluttering” or “skipping,” and morning lightheadedness. Because these overlap with menopausal or stress-related symptoms, they’re often overlooked—but appearing within 1–3 days after alcohol exposure is a key clue.
 
-#### #### Can holiday heart syndrome happen without drinking alcohol?
+#### Can holiday heart syndrome happen without drinking alcohol?
 
 True holiday heart syndrome is defined by alcohol-triggered arrhythmia—so by definition, alcohol is required. However, similar symptoms (fatigue, palpitations, breathlessness) can arise from other holiday-related stressors like extreme sodium intake, sleep loss, or anxiety. These may mimic—but aren’t classified as—holiday heart syndrome.
 
-#### #### Are holiday heart syndrome symptoms women experience different from men’s?
+#### Are holiday heart syndrome symptoms women experience different from men’s?
 
 Yes. Women are more likely to report fatigue, shortness of breath, and dizziness as primary symptoms—while men more often cite pronounced palpitations or chest discomfort. This gender difference reflects variations in autonomic tone, pain perception, and hormonal influences on cardiac electrophysiology.
 
-#### #### How long do holiday heart syndrome symptoms last in women?
+#### How long do holiday heart syndrome symptoms last in women?
 
 In most cases—especially with prompt alcohol cessation and rehydration—symptoms resolve within 24–48 hours. Persistent irregular rhythms beyond 48 hours, or recurrence after abstinence, suggest underlying susceptibility and warrant cardiology evaluation.
 
-#### #### Is holiday heart syndrome dangerous for women over 50?
+#### Is holiday heart syndrome dangerous for women over 50?
 
 While often reversible, untreated or recurrent episodes increase long-term risk of stroke (due to blood stasis in the atria) and heart failure. In women over 50 with hypertension or diabetes, even one episode signals heightened cardiovascular vulnerability—and serves as an important cue to review lifestyle and preventive strategies with a healthcare provider.

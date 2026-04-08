@@ -82,22 +82,22 @@ Blood pressure is not a fixed number—it’s a dynamic conversation between you
 
 ### FAQ
 
-#### #### Does guided imagery pre-dose systolic surge really affect how well my blood pressure medication works?
+#### Does guided imagery pre-dose systolic surge really affect how well my blood pressure medication works?
 
 Yes—research suggests that elevated sympathetic tone *just before* dosing can slightly delay absorption or blunt the initial hemodynamic response of certain antihypertensives (especially ACE inhibitors and calcium channel blockers). By calming the nervous system first, guided imagery may help your body receive the medication in a more receptive physiological state—supporting steadier, more predictable effects.
 
-#### #### How long does it take to see results from guided imagery pre-dose systolic surge reduction?
+#### How long does it take to see results from guided imagery pre-dose systolic surge reduction?
 
 Most adults aged 59–65 notice small but consistent shifts—typically a 5–10 mm Hg average reduction in pre-dose systolic—within 10–14 days of daily 8-minute practice. Benefits often deepen over 4–6 weeks as neural pathways for calm anticipation strengthen.
 
-#### #### Is guided imagery pre-dose systolic surge the same as white-coat hypertension?
+#### Is guided imagery pre-dose systolic surge the same as white-coat hypertension?
 
 Not quite. White-coat hypertension refers specifically to elevated readings *only* in clinical settings. A guided imagery pre-dose systolic surge occurs in familiar, non-clinical settings—but is triggered by health-related anticipation (e.g., “It’s time to check and take my pill”). It’s part of a broader pattern called *contextual BP amplification*, which includes white-coat *and* home-based triggers.
 
-#### #### Can I use guided imagery even if I’ve never tried meditation before?
+#### Can I use guided imagery even if I’ve never tried meditation before?
 
 Absolutely. No prior experience is needed. Think of it less as “meditation” and more as a brief, kind pause—a way to gently signal safety to your nervous system before a routine health task. Many find audio-guided versions (using neutral, unhurried narration) especially supportive when beginning.
 
-#### #### Are there other cognitive-timing-interventions besides guided imagery that help with morning surges?
+#### Are there other cognitive-timing-interventions besides guided imagery that help with morning surges?
 
 Yes—progressive muscle relaxation, paced breathing (4-7-8 technique), and even mindful toothbrushing have shown promise in early-morning autonomic regulation. The key is consistency, timing (always *before* dosing), and personal resonance—not perfection. What matters most is finding one gentle practice that feels doable and kind to you.

@@ -93,17 +93,17 @@ Choosing wisely around low-sugar protein bars kidney disease diabetes doesn’t 
 
 ### FAQ
 
-#### #### Are low-sugar protein bars kidney disease diabetes safe for seniors with stage 3 CKD?
+#### Are low-sugar protein bars kidney disease diabetes safe for seniors with stage 3 CKD?
 Not automatically. Many contain high-bioavailability phosphorus additives and generate significant acid load—both of which can accelerate kidney decline. Always check the ingredient list for phosphate salts and consult your nephrologist or renal dietitian before adding them regularly.
 
-#### #### What are the safest low-sugar protein bars kidney disease diabetes options?
+#### What are the safest low-sugar protein bars kidney disease diabetes options?
 There’s no universal “safe” brand, but look for bars with <150 mg phosphorus (verified via label *or* manufacturer info), no phosphate additives, and at least 150 mg potassium. Homemade versions using mashed banana, oats, almond butter, and a scoop of low-phos pea protein offer more control—and far less acid load.
 
-#### #### Can low-sugar protein bars worsen metabolic acidosis in older adults with diabetes and CKD?
+#### Can low-sugar protein bars worsen metabolic acidosis in older adults with diabetes and CKD?
 Yes—especially those high in sulfur-containing amino acids (e.g., whey isolates) and low in potassium/magnesium. This combination increases net endogenous acid production. Chronic low-grade acidosis is linked to muscle catabolism, bone demineralization, and faster eGFR loss—making it especially relevant for adults 65+ with dual diagnoses.
 
-#### #### Do “natural” or plant-based protein bars avoid the phosphorus problem?
+#### Do “natural” or plant-based protein bars avoid the phosphorus problem?
 Not necessarily. Many plant-based bars use calcium phosphate or sodium acid pyrophosphate as stabilizers or leavening agents—just like their dairy-based counterparts. “Natural” refers to origin, not absorption—and phosphate additives remain highly absorbable regardless of source.
 
-#### #### How much phosphorus is too much for someone with stage 3 CKD and diabetes?
+#### How much phosphorus is too much for someone with stage 3 CKD and diabetes?
 The general target is **800–1000 mg per day**, but individual tolerance varies. If your serum phosphorus is >3.8 mg/dL or rising, your dietitian may recommend aiming closer to 700–800 mg. Remember: it’s not just total phosphorus—it’s *how much gets absorbed* that matters most.

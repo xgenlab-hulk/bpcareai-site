@@ -63,22 +63,22 @@ In short, preventing post-holiday weight gain diabetes isn’t about perfection�
 
 ### FAQ
 
-#### #### How can I prevent post-holiday weight gain diabetes without cutting out all my favorite foods?
+#### How can I prevent post-holiday weight gain diabetes without cutting out all my favorite foods?
 
 You don’t need to eliminate favorites—focus instead on portion awareness, pairing treats with protein/fiber, and adding movement afterward. Small shifts (like walking after dessert) have strong data behind them for adults with long-standing diabetes.
 
-#### #### What’s the best way to prevent post-holiday weight gain diabetes if I take insulin?
+#### What’s the best way to prevent post-holiday weight gain diabetes if I take insulin?
 
 Prioritize protein pacing and post-meal movement—they help smooth glucose curves *without* increasing hypoglycemia risk. Work with your provider to review basal rates or timing if you notice consistent patterns of overnight highs or lows.
 
-#### #### Does holiday weight gain really affect my long-term diabetes outcomes?
+#### Does holiday weight gain really affect my long-term diabetes outcomes?
 
 Yes—studies show that repeated cycles of holiday-related weight gain (even 2–4 lbs/year) correlate with faster progression of complications over 10+ years, especially when combined with declining physical activity. The good news? Each year offers a fresh opportunity to reinforce metabolic resilience.
 
-#### #### Can stress really cause post-holiday weight gain in people with type 2 diabetes?
+#### Can stress really cause post-holiday weight gain in people with type 2 diabetes?
 
 Absolutely. Chronic stress elevates cortisol, which promotes abdominal fat storage and reduces insulin sensitivity—particularly impactful in long-standing diabetes. Vagal tone practices (like slow breathing) directly counteract this.
 
-#### #### Is it safe to start walking after meals if I have neuropathy or joint pain?
+#### Is it safe to start walking after meals if I have neuropathy or joint pain?
 
 Yes—with modifications. Short, slow walks on level surfaces, supportive footwear, or seated movement (arm circles, heel lifts) still activate glucose uptake in muscle. Always check with your care team before beginning a new routine.

@@ -3,7 +3,7 @@ title: >-
   Can Stress at Work Cause Blood Sugar Spikes After 35?
 slug: stress-blood-sugar-spikes-after-35
 description: >-
-  Yes — chronic work stress raises fasting glucose by 12–18 mg/dL in adults 35–55 (AHA 2023). Cortisol (stress hormone) reduces insulin sensitivity. Learn what
+  Yes — chronic work stress raises fasting glucose by 12–18 mg/dL in adults 35–55 (AHA 2023). Cortisol (stress hormone) reduces insulin sensitivity.
 date: '2026-04-02'
 updated: '2026-04-02'
 primaryKeyword: >-

@@ -87,22 +87,22 @@ If you're unsure, talking to your doctor is always a good idea. And if you’re 
 
 ### FAQ
 
-#### #### Can mid-meal pausing vagal tone rheumatoid arthritis help reduce joint stiffness after holiday meals?
+#### Can mid-meal pausing vagal tone rheumatoid arthritis help reduce joint stiffness after holiday meals?
 
 Yes—especially when timed to RSA peaks. The 2024 RCT found participants reported 37% less perceived joint stiffness 2 hours post-dinner when practicing the 22-second pauses, likely linked to lowered IL-6 and improved vagal modulation of peripheral inflammation.
 
-#### #### Is mid-meal pausing vagal tone rheumatoid arthritis safe for people with high blood pressure?
+#### Is mid-meal pausing vagal tone rheumatoid arthritis safe for people with high blood pressure?
 
 Generally yes—but with nuance. The 22-second *inhalation hold* (not hyperventilation or straining) was well-tolerated in the study’s cohort, including those with controlled hypertension (BP <140/90 mm Hg). If your BP runs consistently above 150/90 or you’ve had recent cardiovascular events, consult your doctor before beginning—and consider shorter holds (12–15 seconds) initially.
 
-#### #### How does mid-meal pausing vagal tone rheumatoid arthritis differ from regular mindful eating?
+#### How does mid-meal pausing vagal tone rheumatoid arthritis differ from regular mindful eating?
 
 Mindful eating focuses on awareness of taste, texture, and satiety. **Mid-meal pausing vagal tone rheumatoid arthritis**, by contrast, uses *precisely timed respiratory holds* aligned with autonomic rhythms to trigger measurable neuroimmune shifts—specifically targeting vagally mediated anti-inflammatory pathways. It’s mindful eating *with a physiological lever*.
 
-#### #### Do I need special training to practice this?
+#### Do I need special training to practice this?
 
 No. The RCT used no prior breathwork instruction—just clear, illustrated cue cards placed at each diner’s setting. What matters most is gentleness: no straining, no air hunger, no forcing. If you feel tension, ease out of the hold and resume normal breathing.
 
-#### #### Can children or younger adults benefit from mid-meal pausing vagal tone rheumatoid arthritis?
+#### Can children or younger adults benefit from mid-meal pausing vagal tone rheumatoid arthritis?
 
 While the RCT focused on adults 65+, the underlying mechanism—vagal activation via RSA-aligned breath holds—is universal. Younger adults with autoimmune conditions, anxiety, or digestive sensitivities may also find benefit—but the *22-second timing* and *12-point structure* were optimized specifically for age-related vagal decline and RA-related inflammation patterns.

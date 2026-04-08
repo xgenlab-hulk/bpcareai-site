@@ -71,22 +71,22 @@ If you're unsure, talking to your doctor is always a good idea. And if you’ve 
 
 ### FAQ
 
-#### #### Are winter fruits heart health benefits backed by science—or just folklore?
+#### Are winter fruits heart health benefits backed by science—or just folklore?
 
 Yes—there’s growing evidence. Large population studies, like the Nurses’ Health Study and the Framingham Offspring Cohort, consistently associate higher intakes of citrus, apples, and pomegranate with lower rates of coronary artery disease and stroke—particularly among adults over 50. Clinical trials show that pomegranate juice (daily, unsweetened) may modestly improve endothelial function and reduce systolic BP by 3–7 mm Hg over 4–8 weeks. These effects are gentle but meaningful when sustained over time.
 
-#### #### Which winter fruits heart health support is strongest for seniors with high blood pressure?
+#### Which winter fruits heart health support is strongest for seniors with high blood pressure?
 
 Citrus (especially oranges and tangerines) and apples lead for daily, practical support—thanks to their potassium, flavonoid, and fiber profile. Pomegranate offers concentrated polyphenols and shows promise in smaller trials, but consistency matters more than intensity. For most seniors, aiming for 2–3 servings of these fruits daily (e.g., one orange + half an apple + ¼ cup pomegranate arils) fits comfortably into heart-healthy eating patterns like the DASH or Mediterranean diets.
 
-#### #### Can eating winter fruits heart health help reduce arterial stiffness?
+#### Can eating winter fruits heart health help reduce arterial stiffness?
 
 Yes—indirectly but significantly. Arterial stiffness is influenced by oxidative stress and inflammation. Flavonoids in citrus (hesperidin), apples (quercetin), and pomegranate (punicalagins) help protect the endothelium and support nitric oxide availability—both key to maintaining arterial flexibility. In a 2021 randomized trial, older adults who consumed pomegranate juice daily for 6 weeks showed a measurable improvement in pulse wave velocity—a gold-standard measure of arterial stiffness.
 
-#### #### Do frozen or canned winter fruits still support heart health?
+#### Do frozen or canned winter fruits still support heart health?
 
 Frozen citrus segments, unsweetened apple sauce, and frozen pomegranate arils retain most of their fiber and polyphenols—yes. Avoid canned fruits packed in heavy syrup; instead, choose those labeled “in juice” or “no added sugar.” Dried apples or citrus peel (in moderation) also offer concentrated quercetin and hesperidin—but watch portion size, as natural sugars become more concentrated.
 
-#### #### How many servings of winter fruits should seniors aim for each day for optimal heart and immune support?
+#### How many servings of winter fruits should seniors aim for each day for optimal heart and immune support?
 
 Most guidelines—including the American Heart Association and Academy of Nutrition and Dietetics—recommend 2–2.5 cups of fruit per day for adults over 50. One medium apple = 1 cup; one large orange = 1 cup; ½ cup pomegranate arils = 1 cup. Spreading servings across meals helps stabilize energy and supports steady nutrient absorption—no need to “front-load” or force it. Listen to your body—and enjoy the process.

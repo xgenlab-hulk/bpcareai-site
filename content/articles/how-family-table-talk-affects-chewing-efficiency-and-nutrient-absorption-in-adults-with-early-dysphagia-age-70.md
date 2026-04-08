@@ -44,22 +44,22 @@ In closing, nurturing both connection and health during family meals is entirely
 
 ### FAQ
 
-#### #### Does talking while eating really affect chewing in older adults?
+#### Does talking while eating really affect chewing in older adults?
 
 Yes—studies confirm that dual-tasking (talking + chewing) reduces chewing frequency and duration in adults over 70, especially those with early dysphagia. Cognitive load slows oral processing speed, increasing risk of incomplete mastication and aspiration.
 
-#### #### How does family conversation chewing efficiency dysphagia seniors relate to malnutrition?
+#### How does family conversation chewing efficiency dysphagia seniors relate to malnutrition?
 
 Poor chewing efficiency leads to reduced surface area for digestive enzymes, impairing breakdown of proteins, fats, and plant-based micronutrients. Over time, this contributes to deficiencies in vitamin B12, iron, calcium, and antioxidants—particularly concerning during seasonal shifts when fresh produce intake may already decline.
 
-#### #### What’s the link between distracted eating and aspiration risk in seniors?
+#### What’s the link between distracted eating and aspiration risk in seniors?
 
 Distracted eating delays the swallow trigger and reduces airway protection reflexes. In seniors with early dysphagia, even minor delays increase the chance of material entering the trachea—especially with thin liquids or crumbly foods consumed mid-sentence.
 
-#### #### Can speech therapy help improve chewing efficiency during family meals?
+#### Can speech therapy help improve chewing efficiency during family meals?
 
 Absolutely. SLPs use evidence-based strategies like sensory cueing (e.g., tapping the cheek to prompt chewing), pacing techniques, and education on conversational timing—all tailored to real-life settings like holiday dinners.
 
-#### #### Is there a connection between blood pressure and swallowing safety?
+#### Is there a connection between blood pressure and swallowing safety?
 
 While not direct, orthostatic hypotension (a BP drop upon standing) can cause dizziness and delayed swallow initiation. Also, some antihypertensives reduce salivary flow, indirectly affecting lubrication and bolus formation—making hydration and medication review important parts of a swallowing-safe plan.

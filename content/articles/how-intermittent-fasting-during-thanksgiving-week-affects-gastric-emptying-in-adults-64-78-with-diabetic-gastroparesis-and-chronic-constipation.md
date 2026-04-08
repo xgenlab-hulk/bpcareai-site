@@ -68,22 +68,22 @@ Managing digestive health during holidays doesn’t require perfection—it call
 
 ### FAQ
 
-#### #### Can intermittent fasting gastroparesis holiday meals worsen nausea and bloating?
+#### Can intermittent fasting gastroparesis holiday meals worsen nausea and bloating?
 
 Yes—especially if fasting windows exceed 12–14 hours or are paired with large, high-fat holiday meals. In the 2023 pilot, 68% of participants reported increased nausea during the fasting week, correlating with delayed gastric emptying seen on scintigraphy. Gentle, consistent eating tends to be better tolerated.
 
-#### #### Is it safe to try intermittent fasting gastroparesis holiday if I’m on metformin or insulin?
+#### Is it safe to try intermittent fasting gastroparesis holiday if I’m on metformin or insulin?
 
 Not without guidance. Fasting can affect glucose control and increase hypoglycemia risk—particularly with insulin or sulfonylureas. Metformin may also cause more GI upset on an empty stomach. Always discuss timing changes with your endocrinologist or primary care provider before adjusting medication or eating patterns.
 
-#### #### How does intermittent fasting gastroparesis holiday compare to regular meal skipping?
+#### How does intermittent fasting gastroparesis holiday compare to regular meal skipping?
 
 Meal skipping is often unplanned and reactive (e.g., “I wasn’t hungry”), while intermittent fasting is intentional and structured. But for gastroparesis, predictability matters more than duration. Skipping breakfast *sometimes* may be fine; skipping it daily during a high-stress, high-food week can disrupt motilin rhythms and amplify symptoms.
 
-#### #### Does walking after Thanksgiving dinner really help gastric emptying?
+#### Does walking after Thanksgiving dinner really help gastric emptying?
 
 Yes—moderate ambulation increases parasympathetic tone and improves splanchnic perfusion. In older adults, even 10 minutes of slow walking starting 30 minutes post-meal was associated with a 12–15% improvement in 2-hour gastric retention in pilot data.
 
-#### #### Are there foods I should avoid entirely during Thanksgiving week with gastroparesis?
+#### Are there foods I should avoid entirely during Thanksgiving week with gastroparesis?
 
 No food needs to be “off-limits,” but portion and preparation matter. Very fibrous raw vegetables (like broccoli or kale salads), tough cuts of meat, fried items, and carbonated drinks tend to linger longer. Steaming, mashing, or slow-cooking foods—and chewing thoroughly—can make them gentler on digestion.

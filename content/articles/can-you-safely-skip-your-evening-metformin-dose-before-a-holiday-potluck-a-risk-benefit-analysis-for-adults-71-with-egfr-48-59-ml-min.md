@@ -61,17 +61,17 @@ Holiday joy shouldn’t come with medication anxiety. With eGFR 48–59 mL/min, 
 
 ### FAQ  
 
-#### #### Can I skip metformin for Thanksgiving dinner if my eGFR is 52?  
+#### Can I skip metformin for Thanksgiving dinner if my eGFR is 52?  
 Yes—many people with eGFR 48–59 mL/min safely skip one evening dose before large meals, especially if they’re not on insulin or other hypoglycemia-causing meds. Just stay hydrated and monitor glucose.
 
-#### #### Is it safe to skip metformin before a holiday potluck with eGFR 55?  
+#### Is it safe to skip metformin before a holiday potluck with eGFR 55?  
 Absolutely—this falls well within the range where short-term interruption carries very low lactic acidosis risk, provided you’re otherwise healthy and well-hydrated. Discuss timing with your provider if you take ER metformin.
 
-#### #### What’s the safest way to handle metformin during holiday parties if my kidney function is borderline?  
+#### What’s the safest way to handle metformin during holiday parties if my kidney function is borderline?  
 Focus on consistency first: avoid skipping doses regularly. For single events, consider skipping *only* the evening dose (not morning), drink water, limit alcohol, and check glucose. Your care team can help tailor this.
 
-#### #### Does skipping metformin raise blood pressure?  
+#### Does skipping metformin raise blood pressure?  
 No—metformin doesn’t directly affect BP. However, better long-term glucose control supports vascular health, so sustained gaps aren’t ideal. One missed dose won’t impact arterial pressure.
 
-#### #### Should I stop metformin before eating high-carb foods at a holiday gathering?  
+#### Should I stop metformin before eating high-carb foods at a holiday gathering?  
 Not necessarily—and stopping altogether isn’t advised. Instead, think about portion mindfulness and activity (like a walk after the meal). Skipping one dose may be reasonable, but it’s not required just because food is rich.

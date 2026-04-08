@@ -99,17 +99,17 @@ Managing two complex conditions takes tremendous strength—and showing up each 
 
 ### FAQ  
 
-#### #### Are frozen dinners heart failure ckid ever safe for seniors with both conditions?  
+#### Are frozen dinners heart failure ckid ever safe for seniors with both conditions?  
 Yes—when carefully selected. Look for meals with ≤600 mg sodium, no phosphate additives, and potassium between 200–400 mg per serving. Brands like Magic Kitchen and Mom’s Meals offer clinically reviewed options designed specifically for dual-disease needs.
 
-#### #### What’s the biggest hidden risk in frozen dinners heart failure ckid?  
+#### What’s the biggest hidden risk in frozen dinners heart failure ckid?  
 Phosphate additives—like sodium tripolyphosphate—are the top concern. They’re not always listed in the nutrition facts panel (only in the ingredient list), yet they raise serum phosphorus quickly, contributing to arterial stiffness and worsening heart failure outcomes in CKD.
 
-#### #### Can I eat frozen dinners if I’m on dialysis or have advanced CKD?  
+#### Can I eat frozen dinners if I’m on dialysis or have advanced CKD?  
 This article focuses on stage 3 CKD (eGFR 30–59). If you’ve progressed to stage 4/5 or started dialysis, nutritional needs change significantly—especially for potassium and protein. Always consult your renal dietitian before choosing frozen meals.
 
-#### #### Do “low-sodium” frozen dinners automatically meet heart failure guidelines?  
+#### Do “low-sodium” frozen dinners automatically meet heart failure guidelines?  
 Not necessarily. Some “low-sodium” meals compensate with high potassium (risky if you’re on spironolactone or have borderline labs) or added phosphates. Always check *both* the Nutrition Facts *and* the full ingredient list.
 
-#### #### How often can I eat frozen dinners heart failure ckid safely?  
+#### How often can I eat frozen dinners heart failure ckid safely?  
 There’s no universal limit—but research suggests limiting highly processed meals to ≤3–4 times weekly supports better long-term outcomes. Prioritize variety, hydration, and consistent monitoring of BP and lab trends.

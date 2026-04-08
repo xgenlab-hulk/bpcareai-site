@@ -71,17 +71,17 @@ In closing, enjoying nourishing, satisfying meals at family gatherings shouldn�
 
 ### FAQ
 
-#### #### Does chewing turkey improve satiety in gastroparesis?
+#### Does chewing turkey improve satiety in gastroparesis?
 Yes—deliberate chewing enhances oral-phase stimulation, which strengthens vagal signaling and boosts early CCK and GLP-1 release. In adults with mild gastroparesis, this helps compensate for weakened gastric distension cues and supports longer-lasting fullness, especially compared to softer, pre-processed formats like ground turkey patties.
 
-#### #### How does chewing turkey satiety gastroparesis affect blood sugar control?
+#### How does chewing turkey satiety gastroparesis affect blood sugar control?
 Chewing turkey thoroughly supports more stable post-meal glucose by promoting appropriate GLP-1 release—which enhances insulin secretion, suppresses glucagon, and slows gastric emptying. In early sarcopenia, this also helps preserve muscle’s ability to take up glucose. Poor chewing or rapid eating may blunt this response, contributing to sharper glucose spikes and dips.
 
-#### #### Can ground turkey cause worse symptoms than roast turkey in gastroparesis?
+#### Can ground turkey cause worse symptoms than roast turkey in gastroparesis?
 Often, yes. Ground turkey patties deliver nutrients in a denser, lower-resistance form that generates less gastric wall stretch—leading to weaker distension signals and flatter satiety hormone curves. Combined with faster initial gastric emptying (due to lack of chewing-triggered inhibition), this may increase risk of bloating, reflux, or rebound hunger in sensitive individuals.
 
-#### #### Is there a recommended amount of turkey protein for adults 55–69 with early sarcopenia?
+#### Is there a recommended amount of turkey protein for adults 55–69 with early sarcopenia?
 Current guidelines recommend 25–30 g of high-quality protein per meal to maximally stimulate muscle protein synthesis. For most adults, this equals ~3 oz (85 g) of roasted turkey breast—about the size of a deck of cards. Distributing this across 3 meals/day is more effective than consuming most protein at dinner.
 
-#### #### Does chewing turkey satiety gastroparesis impact blood pressure?
+#### Does chewing turkey satiety gastroparesis impact blood pressure?
 Indirectly, yes. GLP-1 and CCK influence endothelial function, sympathetic nervous system activity, and sodium handling—all factors in arterial pressure regulation. Emerging evidence suggests that meals supporting robust satiety hormone release (like well-chewed whole-muscle turkey) correlate with more stable postprandial BP patterns—particularly important for adults managing hypertension alongside digestive changes.

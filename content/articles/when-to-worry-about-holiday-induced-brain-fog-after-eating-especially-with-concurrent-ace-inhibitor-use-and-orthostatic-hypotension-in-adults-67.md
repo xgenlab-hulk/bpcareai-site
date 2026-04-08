@@ -85,22 +85,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What causes holiday brain fog orthostatic hypotension seniors?
+#### What causes holiday brain fog orthostatic hypotension seniors?
 
 Holiday brain fog orthostatic hypotension seniors often results from a combination of postprandial (after-meal) blood pressure drops and orthostatic (upon-standing) drops—both more common with age. Large, carb-heavy meals, dehydration, ACE inhibitor timing, and reduced autonomic responsiveness can all contribute. It’s rarely dangerous, but worth monitoring for patterns.
 
-#### #### Is holiday brain fog orthostatic hypotension seniors a sign of dementia?
+#### Is holiday brain fog orthostatic hypotension seniors a sign of dementia?
 
 No—temporary, meal-related brain fog linked to blood pressure changes is *not* a sign of dementia or Alzheimer’s disease. Dementia-related cognitive changes are progressive, occur across settings (not just after meals), and don’t improve with rest or rehydration. If you’re concerned about memory, talk with your doctor about a full cognitive assessment.
 
-#### #### Can ACE inhibitors cause brain fog in older adults?
+#### Can ACE inhibitors cause brain fog in older adults?
 
 Yes—indirectly. ACE inhibitors lower systemic vascular resistance, which can amplify normal postprandial or orthostatic BP drops. When cerebral blood flow dips even briefly, some people notice slowed thinking or mental fogginess. Adjusting dose timing (e.g., switching from morning to evening) often helps—always consult your provider before making changes.
 
-#### #### How can seniors eat healthily during the holidays without triggering dizziness or brain fog?
+#### How can seniors eat healthily during the holidays without triggering dizziness or brain fog?
 
 Focus on balance, not restriction: include protein and fiber with every meal, stay well-hydrated, avoid skipping meals (which can worsen BP swings), and rise slowly after eating. Healthy holiday eating for seniors means honoring tradition *and* physiology—think roasted sweet potatoes instead of candied yams, herb-roasted turkey instead of fried, and fruit-based desserts.
 
-#### #### Does orthostatic hypotension get worse in winter or during holidays?
+#### Does orthostatic hypotension get worse in winter or during holidays?
 
 It can—cold weather causes peripheral vasoconstriction, which may alter central BP regulation, and holiday routines (less routine, more alcohol, irregular sleep, richer foods) can compound susceptibility. Staying warm, maintaining hydration, and sticking to familiar movement and meal patterns help buffer seasonal shifts.

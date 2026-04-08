@@ -61,17 +61,17 @@ In short: Your blood pressure is a dynamic conversation between your body and yo
 
 ### FAQ  
 
-#### #### Why does my blood pressure go up at night if I work nights?  
+#### Why does my blood pressure go up at night if I work nights?  
 Night-shift work confuses your internal clock—so your body may release stress hormones like cortisol and adrenaline during *your* sleep time instead of during wakefulness. This leads to nocturnal surges, even if your **normal clinic blood pressure shift workers** reading looks perfect.
 
-#### #### Can normal clinic blood pressure shift workers still have heart risks?  
+#### Can normal clinic blood pressure shift workers still have heart risks?  
 Yes. Studies show that non-dipping patterns—especially in shift workers—are linked to a 20–40% higher risk of left ventricular hypertrophy and silent cerebrovascular changes, independent of clinic BP. That’s why 24-hour monitoring adds critical insight.
 
-#### #### Is “white coat syndrome” the same as non-dipping in shift workers?  
+#### Is “white coat syndrome” the same as non-dipping in shift workers?  
 No. White coat hypertension means BP spikes *only* in medical settings. Non-dipping is the opposite: BP stays high—or rises—at night, while staying normal in the clinic. It’s often invisible without ABPM.
 
-#### #### How often should shift workers check their blood pressure?  
+#### How often should shift workers check their blood pressure?  
 At minimum, once yearly with ABPM—especially if you’re over 50 or have family history of early heart disease. Home monitoring 2–3 times weekly (at consistent times aligned with your schedule) adds helpful trend data.
 
-#### #### Does melatonin help lower nighttime BP in shift workers?  
+#### Does melatonin help lower nighttime BP in shift workers?  
 Some small studies suggest low-dose melatonin (0.5–1 mg) taken 1 hour before intended sleep may modestly improve nocturnal dipping—but talk to your doctor first, especially if you take blood thinners or have autoimmune conditions.

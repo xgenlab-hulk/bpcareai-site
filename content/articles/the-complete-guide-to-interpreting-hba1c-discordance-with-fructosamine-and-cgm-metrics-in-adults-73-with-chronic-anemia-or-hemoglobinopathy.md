@@ -73,22 +73,22 @@ Understanding and responding to HbA1c discordance fructosamine seniors isn’t a
 
 ### FAQ
 
-#### #### Why does HbA1c not match my glucose monitor in older age?
+#### Why does HbA1c not match my glucose monitor in older age?
 
 HbA1c relies on stable red blood cell turnover over ~3 months. In adults 73+, anemia, chronic inflammation, kidney disease, or hemoglobin variants can shorten red cell lifespan or interfere with glycation—making HbA1c falsely low or high. Fructosamine, reflecting 2–3 weeks of glucose exposure via albumin, often aligns better with real-time glucose data in these cases.
 
-#### #### What is HbA1c discordance fructosamine seniors—and how common is it?
+#### What is HbA1c discordance fructosamine seniors—and how common is it?
 
 HbA1c discordance fructosamine seniors refers to clinically meaningful disagreement between HbA1c and fructosamine values in older adults due to altered hemoglobin metabolism. It occurs in an estimated 15–25% of adults over 70 with diabetes and comorbid anemia or hemoglobinopathy—and is underrecognized in routine care.
 
-#### #### Can fructosamine replace HbA1c for seniors with anemia?
+#### Can fructosamine replace HbA1c for seniors with anemia?
 
 In many cases, yes—especially when anemia is confirmed (e.g., low hemoglobin + abnormal MCV or reticulocyte count). Fructosamine is not affected by RBC lifespan or most hemoglobin variants, making it a more reliable short-term glycemic marker. However, it should be interpreted alongside CGM data and clinical symptoms—not in isolation.
 
-#### #### Does low albumin affect fructosamine results?
+#### Does low albumin affect fructosamine results?
 
 Yes. Since fructosamine measures glycated albumin, low serum albumin (e.g., <3.5 g/dL, seen in malnutrition, liver disease, or nephrotic syndrome) will lower fructosamine—even with normal glucose. Always review albumin levels when interpreting fructosamine in older adults.
 
-#### #### How often should I check fructosamine if I have anemia and diabetes?
+#### How often should I check fructosamine if I have anemia and diabetes?
 
 For initial evaluation, check fructosamine every 2–4 weeks until trends stabilize. Once consistent, testing every 3–6 months is reasonable—especially if HbA1c remains discordant or if clinical status changes (e.g., new diagnosis of CKD, iron supplementation, or hospitalization).

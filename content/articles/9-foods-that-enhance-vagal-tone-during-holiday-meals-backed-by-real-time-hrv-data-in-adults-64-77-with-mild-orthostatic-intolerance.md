@@ -59,22 +59,22 @@ Whether you're hosting or attending, choosing foods that support *vagal tone hol
 
 ### FAQ
 
-#### #### Can certain holiday foods really improve vagal tone in older adults?
+#### Can certain holiday foods really improve vagal tone in older adults?
 
 Yes—especially fermented foods (like kimchi or kefir), omega-3-rich nuts and seeds, and deeply colored fruits like blueberries and pomegranates. Clinical HRV data from adults 64–77 shows measurable improvements in vagal activity within 30–45 minutes of eating them as part of balanced holiday meals.
 
-#### #### What are the best vagal tone holiday meals seniors can enjoy without cooking everything from scratch?
+#### What are the best vagal tone holiday meals seniors can enjoy without cooking everything from scratch?
 
 Focus on simple additions: add sauerkraut to turkey sandwiches, stir ground flax into mashed sweet potatoes, top yogurt with frozen-thawed berries, or serve spiced walnuts as a pre-dinner nibble. Even small, consistent choices add up.
 
-#### #### How does vagal tone holiday meals seniors relate to blood pressure stability?
+#### How does vagal tone holiday meals seniors relate to blood pressure stability?
 
 Stronger vagal tone supports healthier baroreflex sensitivity—the body’s natural BP regulator. In seniors with mild orthostatic intolerance, meals that boost HRV often correspond with smaller systolic drops (<15 mm Hg) when standing—helping prevent dizziness.
 
-#### #### Are there foods I should avoid to protect vagal tone during holidays?
+#### Are there foods I should avoid to protect vagal tone during holidays?
 
 Highly processed sugars, excessive alcohol, and ultra-salty snacks may blunt HRV responses in sensitive individuals. That said, occasional enjoyment is fine—balance and timing matter more than perfection.
 
-#### #### Do herbal teas count as vagus-supportive holiday foods?
+#### Do herbal teas count as vagus-supportive holiday foods?
 
 Yes—especially those rich in polyphenols and gentle adaptogens, like ginger, rosemary, or chamomile tea. Warm liquids also stimulate gastric vagal afferents, supporting digestion and calm. Just keep caffeine low if you’re prone to nighttime wakefulness.

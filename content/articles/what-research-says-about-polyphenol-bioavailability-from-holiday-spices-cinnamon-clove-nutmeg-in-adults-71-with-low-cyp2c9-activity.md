@@ -66,22 +66,22 @@ You don’t need to overhaul your traditions to support your health—you just n
 
 ### FAQ
 
-#### #### Does holiday spice bioavailability seniors cyp2c9 affect blood pressure?
+#### Does holiday spice bioavailability seniors cyp2c9 affect blood pressure?
 
 Yes—indirectly. Polyphenols from cinnamon and clove may support healthy endothelial function and nitric oxide availability, both linked to balanced arterial pressure. However, effects are subtle and cumulative—not immediate or dramatic. No research shows spices replace BP-lowering medications, but consistent, gentle use may complement lifestyle efforts—especially when bioavailability is optimized for your age and metabolism.
 
-#### #### How can I improve holiday spice bioavailability seniors cyp2c9 naturally?
+#### How can I improve holiday spice bioavailability seniors cyp2c9 naturally?
 
 Focus on food pairing (healthy fats + acidity), fine grinding, and consistency over intensity. Avoid taking large doses on an empty stomach. Cooking spices into dishes—rather than consuming them raw—also enhances solubility and reduces GI irritation. Steaming or simmering cloves or cinnamon sticks in liquids helps release active compounds gradually.
 
-#### #### Are there safe holiday spice alternatives for seniors with low CYP2C9 activity?
+#### Are there safe holiday spice alternatives for seniors with low CYP2C9 activity?
 
 Absolutely. Ginger and cardamom offer similar warming, anti-inflammatory benefits with different metabolic pathways—less reliant on CYP2C9. Turmeric (paired with black pepper) is another excellent option, though its curcumin bioavailability depends more on piperine than CYP enzymes. All remain gentle options when used in culinary amounts.
 
-#### #### Can holiday spice bioavailability seniors cyp2c9 influence medication effectiveness?
+#### Can holiday spice bioavailability seniors cyp2c9 influence medication effectiveness?
 
 Potentially—yes, though clinically significant interactions are rare at typical food-level intakes. Because CYP2C9 metabolizes some anticoagulants and antihypertensives, high-dose or supplemental spice extracts *could* theoretically compete for enzyme capacity. Stick to whole-spice culinary use, and discuss patterns with your pharmacist if you’re on warfarin, phenytoin, or certain ARBs.
 
-#### #### What’s the safest daily amount of cinnamon for seniors with known CYP2C9 variants?
+#### What’s the safest daily amount of cinnamon for seniors with known CYP2C9 variants?
 
 Research suggests 0.5–1.0 g (½–1 tsp) of Ceylon cinnamon daily is well-tolerated and effective for most adults 71+. Cassia cinnamon contains higher coumarin levels, so Ceylon is preferred for long-term use. If using Cassia, limit to ≤½ tsp daily—and always choose food-grade, not supplement-grade, forms unless guided by a clinician.

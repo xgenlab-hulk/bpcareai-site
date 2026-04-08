@@ -82,22 +82,22 @@ Managing blood pressure as we age isn’t about chasing numbers—it’s about n
 
 ### FAQ
 
-#### #### Is chair yoga vs breath hold bp really effective for seniors over 70?
+#### Is chair yoga vs breath hold bp really effective for seniors over 70?
 
 Yes—clinical observations and small-scale studies suggest both approaches reliably lower systolic BP by 5–7 mm Hg within 3 minutes in adults 71+. Their safety and accessibility make them especially suitable for frail or mobility-limited seniors. Effects are modest but meaningful, particularly when practiced regularly alongside medical care.
 
-#### #### Can I combine chair yoga vs breath hold bp in one session?
+#### Can I combine chair yoga vs breath hold bp in one session?
 
 Absolutely—and many people find this supportive. Try 1.5 minutes of gentle chair yoga (e.g., seated cat-cow and neck rolls), followed by 1.5 minutes of 4-7-8 breathing. Just ensure transitions are slow and seated. Avoid adding breath holds *during* movement—keep breath patterns simple and consistent.
 
-#### #### Does chair yoga vs breath hold bp replace my blood pressure medication?
+#### Does chair yoga vs breath hold bp replace my blood pressure medication?
 
 No. These practices are complementary tools—not substitutes—for prescribed treatment. They support your body’s natural regulatory systems and may enhance the effectiveness of medication, but never stop or adjust medications without consulting your healthcare provider.
 
-#### #### How soon can I expect to see changes in my blood pressure?
+#### How soon can I expect to see changes in my blood pressure?
 
 Some people notice a difference after the very first session—typically a 3–8 mm Hg systolic shift. For lasting impact, aim for daily practice over 2–4 weeks. Consistency matters more than intensity, and improvements often extend beyond BP, including better sleep and reduced anxiety.
 
-#### #### Are there any risks to trying breath hold techniques at my age?
+#### Are there any risks to trying breath hold techniques at my age?
 
 When practiced gently and guided—as in the 4-7-8 method—breath holds pose minimal risk for healthy older adults. However, avoid if you have uncontrolled arrhythmias, recent heart attack or stroke (within 3 months), or severe COPD without prior clinician approval. Always listen to your body: pause if you feel discomfort, dizziness, or pressure in your head or chest.

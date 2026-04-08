@@ -2,7 +2,7 @@
 title: Calcium-Rich Foods Without Dairy for Seniors (75+)
 slug: calcium-rich-foods-without-dairy-seniors
 description: >-
-  Seniors 75+ need 1,200 mg calcium daily — get it from collards (266 mg/½ cup),
+  Seniors 75+ need 1,200 mg calcium daily — get it from collards (266 mg/½ cup), sardines (325 mg/3 oz), and fortified OJ.
   sardines (325 mg/3 oz), and fortified OJ. Absorption drops 30% with age
 date: '2026-04-03'
 updated: '2026-04-03'

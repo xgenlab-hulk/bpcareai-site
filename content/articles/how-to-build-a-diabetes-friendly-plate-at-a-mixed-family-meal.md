@@ -58,17 +58,17 @@ Creating a *diabetes-friendly plate strategy* isn’t about perfection—it’s 
 
 ### FAQ
 
-#### #### What does a diabetes-friendly plate strategy look like for Thanksgiving dinner?
+#### What does a diabetes-friendly plate strategy look like for Thanksgiving dinner?
 A *diabetes-friendly plate strategy* for Thanksgiving keeps things simple: fill half your plate with green beans, roasted carrots, or a big salad; choose a palm-sized portion of turkey (skinless); and limit stuffing and mashed potatoes to about ½ cup total. Skip sugary cranberry sauce—or use just a teaspoon—and save room for a small slice of pie (ideally with berries and a modest crust).
 
-#### #### Can I use the diabetes-friendly plate strategy at potlucks or buffet-style meals?
+#### Can I use the diabetes-friendly plate strategy at potlucks or buffet-style meals?
 Absolutely! The *diabetes-friendly plate strategy* works beautifully at buffets. Scout the spread first, then build your plate in order: veggies → protein → smart carbs. Use a smaller plate if available—it naturally helps with portion control.
 
-#### #### How do I explain my diabetes-friendly plate strategy to curious relatives without sounding defensive?
+#### How do I explain my diabetes-friendly plate strategy to curious relatives without sounding defensive?
 Try warm, simple language: *“I’ve found this way of filling my plate helps me feel great all evening—and honestly, it tastes just as good!”* Most people admire consistency and self-care. If someone offers seconds, a cheerful “I’m all set—I’ll save room for that amazing apple crisp later!” usually does the trick.
 
-#### #### Is it okay to have dessert if I follow a diabetes-friendly plate strategy?
+#### Is it okay to have dessert if I follow a diabetes-friendly plate strategy?
 Yes—dessert can fit! Just plan for it: swap out another carb (like bread or potatoes) to keep your total carb count steady, and consider sharing a slice. Pairing dessert with a bit of protein (e.g., a few nuts or a dollop of plain Greek yogurt) helps blunt the glucose response.
 
-#### #### Does alcohol affect my diabetes-friendly plate strategy?
+#### Does alcohol affect my diabetes-friendly plate strategy?
 It can—especially mixed drinks and wine, which contain carbs and may lower blood sugar unpredictably. If you choose to drink, stick to one serving (5 oz wine, 12 oz light beer, or 1.5 oz spirits), sip slowly with food, and monitor closely. Avoid sugary mixers like soda or juice.

@@ -77,22 +77,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can eating bitter foods before meals really support gastric acid secretion family meals?
+#### Can eating bitter foods before meals really support gastric acid secretion family meals?
 
 Yes — research shows bitter tastants (like those in arugula, dandelion, or citrus peel) activate T2R receptors on the tongue, triggering vagal signaling that increases gastrin and gastric acid output. For older adults, even small pre-meal servings (1–2 tsp) can enhance digestion — especially when paired with mindful chewing.
 
-#### #### What’s the best way to support gastric acid secretion family meals without supplements?
+#### What’s the best way to support gastric acid secretion family meals without supplements?
 
 Focus on timing, temperature, and texture: start meals with warm, bitter, or sour elements; chew thoroughly; prioritize protein early; avoid icy drinks; and build pauses into longer meals. These cues work *with* your nervous system — not against it — and are especially effective in relaxed, social settings.
 
-#### #### Does chewing slowly help support gastric acid secretion family meals?
+#### Does chewing slowly help support gastric acid secretion family meals?
 
 Absolutely. Chewing stimulates salivary amylase *and* sends neural signals via the vagus nerve to prepare the stomach for acid and pepsin release. For adults over 65, slowing to ~20–25 chews per bite improves gastric readiness and reduces post-meal bloating — and makes family conversations richer, too.
 
-#### #### Is low stomach acid common after age 65?
+#### Is low stomach acid common after age 65?
 
 Yes — studies estimate 20–40% of adults over 65 experience hypochlorhydria, often without classic reflux symptoms. It’s linked to natural aging of parietal cells, reduced H. pylori exposure (which paradoxically *stimulates* acid in some), and cumulative effects of medications like PPIs or NSAIDs.
 
-#### #### Can bloating after family meals be a sign of low stomach acid?
+#### Can bloating after family meals be a sign of low stomach acid?
 
 Often, yes — especially when it occurs consistently within 30 minutes of eating protein, improves with lemon/vinegar, or coincides with nutrient deficiencies (B12, iron, magnesium). Unlike gas from fiber fermentation (which peaks later), hypochlorhydria-related bloating tends to feel “upper abdominal” and “tight,” not crampy or gurgling.

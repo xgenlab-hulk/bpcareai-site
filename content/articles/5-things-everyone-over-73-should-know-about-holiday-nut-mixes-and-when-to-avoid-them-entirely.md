@@ -77,17 +77,17 @@ Enjoying the holidays doesn’t mean compromising safety—it means choosing wit
 
 ### FAQ  
 
-#### #### Are holiday nut mixes seniors 73+ safe for people with Parkinson’s disease?  
+#### Are holiday nut mixes seniors 73+ safe for people with Parkinson’s disease?  
 Yes—with important caveats. Whole or high-protein nut mixes may interfere with carbidopa-levodopa absorption, potentially worsening motor fluctuations. Finely ground nut butters consumed *between* doses (e.g., 2 hours after morning dose) are generally better tolerated—but always coordinate timing with your neurologist.
 
-#### #### What are the safest nut options in holiday nut mixes seniors 73+?  
+#### What are the safest nut options in holiday nut mixes seniors 73+?  
 For most seniors over 73, the safest choices are unsalted, freshly ground almond or walnut butter, or nuts finely chopped and stirred into soft foods like mashed sweet potatoes or applesauce. Avoid whole, roasted, salted, or candied varieties—especially peanuts and pistachios, which carry higher aflatoxin and tyramine risk.
 
-#### #### Can holiday nut mixes seniors 73+ raise blood pressure?  
+#### Can holiday nut mixes seniors 73+ raise blood pressure?  
 They *can*, but not directly from sodium alone. Tyramine-rich nuts (e.g., aged peanuts, fermented cashews) may trigger hypertensive episodes in people taking MAO inhibitors—causing sudden, dangerous BP spikes. Even without medication, large portions of salted mixes can contribute to fluid retention and elevated arterial pressure in salt-sensitive individuals.
 
-#### #### Do all nut mixes contain aflatoxin?  
+#### Do all nut mixes contain aflatoxin?  
 No—but risk increases with age, improper storage (warm/humid conditions), and sourcing. Commercially packaged, refrigerated, and recently dated mixes have the lowest measurable levels. Bulk or holiday-tin nuts stored at room temperature for months pose higher concern—especially for those with hepatic impairment.
 
-#### #### Is choking the biggest risk of holiday nut mixes for seniors?  
+#### Is choking the biggest risk of holiday nut mixes for seniors?  
 Choking is a serious and common risk—but not the *only* one. Silent aspiration (inhaling small particles without coughing), drug–nutrient interactions, and cumulative aflatoxin exposure are equally important, especially for adults over 73 with multiple health conditions. A comprehensive approach includes texture modification, freshness checks, and medication timing—not just size reduction.

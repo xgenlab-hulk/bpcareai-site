@@ -59,17 +59,17 @@ You don’t need to give up celebration to protect your heart. Awareness—not a
 
 ### FAQ  
 
-#### #### Is it safe to drink wine while on beta-blockers during the holidays?  
+#### Is it safe to drink wine while on beta-blockers during the holidays?  
 It *can* be—but safety depends on your dose, overall health, and how consistently you monitor. For many seniors, even moderate intake increases arrhythmia or BP volatility risk. Discuss your specific plan with your cardiologist or pharmacist before the first toast.
 
-#### #### Do “heart-healthy” holiday wine labels beta-blocker risks actually apply to me?  
+#### Do “heart-healthy” holiday wine labels beta-blocker risks actually apply to me?  
 Yes—if you’re over 50 and taking a beta-blocker, those labels *don’t account for your medication’s interaction with alcohol*. Resveratrol content doesn’t neutralize pharmacokinetic effects. So yes, *holiday wine labels beta-blocker risks* are relevant and worth reviewing with your care team.
 
-#### #### Can red wine lower blood pressure in people on beta-blockers?  
+#### Can red wine lower blood pressure in people on beta-blockers?  
 Not reliably—and sometimes the opposite occurs. Alcohol can blunt beta-blocker effectiveness and cause reactive hypertension later in the evening or overnight. Don’t rely on wine to manage BP; stick to proven strategies like sodium awareness, movement, and consistent medication timing.
 
-#### #### What’s the link between holiday heart syndrome prevention and beta-blockers?  
+#### What’s the link between holiday heart syndrome prevention and beta-blockers?  
 Holiday heart syndrome refers to acute arrhythmias (often AFib) triggered by binge or even moderate alcohol use. Beta-blockers help control rate *during* an episode but don’t prevent onset—and alcohol can reduce their protective margin. Prevention means limiting alcohol, staying hydrated, and avoiding late-night indulgence.
 
-#### #### Are non-alcoholic wines safer for seniors on beta-blockers?  
+#### Are non-alcoholic wines safer for seniors on beta-blockers?  
 Generally, yes—since they contain little to no ethanol. Just double-check labels for added sugars or sodium, which can affect BP. Always confirm with your pharmacist if a specific brand contains compounds that might interact with your regimen.

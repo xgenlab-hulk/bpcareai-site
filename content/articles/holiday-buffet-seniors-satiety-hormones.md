@@ -42,22 +42,22 @@ In short, healthy holiday eating for seniors isn’t about restriction—it’s 
 
 ### FAQ
 
-#### #### How do holiday buffet seniors satiety hormones affect my ability to stop eating?
+#### How do holiday buffet seniors satiety hormones affect my ability to stop eating?
 
 Age-related declines in leptin sensitivity and delayed ghrelin suppression mean your brain receives “full” signals later—and less strongly—than in younger years. This isn’t a lack of discipline; it’s a normal shift requiring updated meal structure (e.g., protein-first sequencing) and visual portion cues.
 
-#### #### Can holiday buffet seniors satiety hormones cause weight gain even if I’m eating “healthy” foods?
+#### Can holiday buffet seniors satiety hormones cause weight gain even if I’m eating “healthy” foods?
 
 Yes. Even nutrient-dense foods like roasted nuts, cheese platters, or whole-grain rolls can contribute to excess calorie intake when hormonal satiety signals are muted. The issue isn’t food quality alone—it’s *quantity timing and sequence*, especially in open-access settings like buffets.
 
-#### #### What’s the best plate size for seniors navigating holiday buffets?
+#### What’s the best plate size for seniors navigating holiday buffets?
 
 A 9-inch plate is ideal. Research shows it reduces average calorie intake by 18–22% compared to larger plates—without altering perceived satisfaction—because it leverages visual portion norms and supports mindful serving habits.
 
-#### #### Does drinking alcohol at holiday events worsen satiety hormone function in older adults?
+#### Does drinking alcohol at holiday events worsen satiety hormone function in older adults?
 
 Yes. Alcohol acutely suppresses leptin and amplifies ghrelin, and its effects are more pronounced in adults over 65 due to slower metabolism and reduced liver clearance. Limit to one standard drink (e.g., 5 oz wine) and always consume with food.
 
-#### #### Are there specific blood pressure concerns tied to holiday buffet eating for seniors?
+#### Are there specific blood pressure concerns tied to holiday buffet eating for seniors?
 
 Absolutely. High-sodium dishes (gravies, cured meats, stuffing) can raise systolic BP by 5–15 mm Hg in salt-sensitive individuals—nearly 60% of adults over 65. Pairing sodium-rich foods with potassium-rich vegetables (spinach, sweet potatoes, tomatoes) helps buffer this effect.

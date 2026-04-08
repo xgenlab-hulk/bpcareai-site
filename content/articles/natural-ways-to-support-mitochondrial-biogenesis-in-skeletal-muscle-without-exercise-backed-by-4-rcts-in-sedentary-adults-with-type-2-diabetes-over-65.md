@@ -3,7 +3,7 @@ title: >-
   Improve Mitochondria Without Exercise: Diabetes Over 65
 slug: natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
 description: >-
-  PQQ boosted energy factories (mitochondrial biogenesis) 32% in sedentary adults 65+ with type 2 diabetes. Plus urolithin A and nicotinamide riboside from 4 RCTs
+  PQQ boosted energy factories (mitochondrial biogenesis) 32% in sedentary adults 65+ with type 2 diabetes.
 date: '2025-12-30'
 updated: '2026-03-29'
 primaryKeyword: how to improve mitochondria without exercise diabetes
@@ -85,22 +85,22 @@ It’s completely understandable to feel uncertain about what’s possible when 
 
 ### FAQ
 
-#### #### Can mitochondrial biogenesis happen without exercise in people with type 2 diabetes?
+#### Can mitochondrial biogenesis happen without exercise in people with type 2 diabetes?
 
 Yes—four randomized controlled trials in adults over 65 with type 2 diabetes confirm that mitochondrial biogenesis *can* be supported without structured exercise. Interventions like PQQ, urolithin A, nicotinamide riboside, and mild cold exposure have all increased PGC-1α expression and mitochondrial markers in sedentary participants.
 
-#### #### What are the best natural ways to support mitochondrial biogenesis diabetes no exercise?
+#### What are the best natural ways to support mitochondrial biogenesis diabetes no exercise?
 
 The most evidence-backed natural approaches include daily supplementation with PQQ (20 mg), urolithin A (500 mg), or nicotinamide riboside (1,000 mg)—all tested in RCTs with sedentary older adults with type 2 diabetes—as well as gentle cold exposure (15 minutes daily at ~15°C / 59°F). These work by activating cellular pathways—including AMPK and SIRT1—that turn on PGC-1α.
 
-#### #### Does mitochondrial biogenesis diabetes no exercise improve blood sugar control?
+#### Does mitochondrial biogenesis diabetes no exercise improve blood sugar control?
 
 In clinical trials, these non-exercise approaches have shown modest but meaningful improvements: average HbA1c reductions of 0.3–0.5 percentage points and fasting glucose decreases of 10–15 mg/dL over 3–4 months. These changes reflect improved muscle glucose uptake—not from movement, but from healthier, more numerous mitochondria.
 
-#### #### Are there side effects to PQQ or urolithin A for older adults?
+#### Are there side effects to PQQ or urolithin A for older adults?
 
 Both compounds have excellent safety profiles in clinical studies. PQQ (20 mg/day) caused no serious adverse events in a 12-week trial. Urolithin A (500 mg/day) showed no difference in gastrointestinal symptoms versus placebo. As always, discuss new supplements with your healthcare provider—especially if you have kidney disease or take multiple medications.
 
-#### #### How long does it take to see benefits from supporting mitochondrial biogenesis without exercise?
+#### How long does it take to see benefits from supporting mitochondrial biogenesis without exercise?
 
 Most RCTs observed measurable changes in gene expression within 4–6 weeks, with functional improvements (e.g., better stamina, steadier glucose readings) becoming noticeable after 8–12 weeks of consistent use. Patience and consistency are key—this is cellular renewal, not rapid reversal.

@@ -74,22 +74,22 @@ Discovering *cardiac amyloidosis early signs lv thickness* doesn’t mean the st
 
 ### FAQ
 
-#### #### What are the earliest signs of cardiac amyloidosis in seniors with thick heart walls?
+#### What are the earliest signs of cardiac amyloidosis in seniors with thick heart walls?
 
 The earliest signs include low-voltage ECG despite increased LV thickness, an “apical sparing” pattern on strain echo, elevated NT-proBNP, and sometimes carpal tunnel or spinal stenosis—often appearing before noticeable heart failure symptoms.
 
-#### #### Can cardiac amyloidosis early signs lv thickness be detected without a biopsy?
+#### Can cardiac amyloidosis early signs lv thickness be detected without a biopsy?
 
 Yes—in many cases, especially for ATTR-type, a combination of echocardiography (with strain), ECG, blood tests (NT-proBNP, troponin), and bone scintigraphy can provide a confident diagnosis without biopsy. Biopsy remains gold standard for AL-type confirmation.
 
-#### #### Is left ventricular thickness always due to high blood pressure—or could it signal cardiac amyloidosis early signs?
+#### Is left ventricular thickness always due to high blood pressure—or could it signal cardiac amyloidosis early signs?
 
 Not always. While hypertension is a common cause, unexplained LV thickness in adults 74+—especially with preserved EF and low-voltage ECG—should prompt evaluation for infiltrative conditions like cardiac amyloidosis early signs lv thickness.
 
-#### #### What’s the difference between AL and ATTR cardiac amyloidosis?
+#### What’s the difference between AL and ATTR cardiac amyloidosis?
 
 AL (light-chain) is linked to plasma cell disorders and requires hematologic treatment. ATTR (transthyretin) includes hereditary and age-related (“wild-type”) forms—more common in older men and increasingly treatable with stabilizers (e.g., tafamidis) or gene-silencing therapies.
 
-#### #### How common is cardiac amyloidosis in adults over 75 with thickened heart walls?
+#### How common is cardiac amyloidosis in adults over 75 with thickened heart walls?
 
 Studies suggest up to 15–20% of individuals over 75 with unexplained LV thickness ≥13 mm and preserved EF have wild-type ATTR amyloidosis—making it far more prevalent than previously recognized.

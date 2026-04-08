@@ -54,17 +54,17 @@ Heart health isn’t about eliminating foods—it’s about honoring how your un
 
 ### FAQ  
 
-#### #### Is low-fat yogurt bad for heart health in women with hypothyroidism?  
+#### Is low-fat yogurt bad for heart health in women with hypothyroidism?  
 Not inherently—but many commercial low-fat yogurts contain added sugars and dairy isolates that may worsen endothelial function and diastolic stiffness in estrogen-deficient, thyroid-treated women. Plain, unsweetened, minimally processed options are gentler on the heart.
 
-#### #### What are the low-fat yogurt heart risks hypothyroid women should watch for?  
+#### What are the low-fat yogurt heart risks hypothyroid women should watch for?  
 Key concerns include blood sugar spikes from hidden sugars (raising oxidative stress), rapid protein absorption affecting vascular tone, and thickeners that may influence gut-heart signaling. These don’t cause immediate danger but can subtly amplify existing diastolic vulnerability over time.
 
-#### #### Can eating low-fat yogurt increase blood pressure in women over 58 with hypothyroidism?  
+#### Can eating low-fat yogurt increase blood pressure in women over 58 with hypothyroidism?  
 Potentially—yes. Studies suggest high-sugar, low-fat dairy products correlate with modest but measurable increases in diastolic pressure (2–4 mm Hg on average) in postmenopausal women, particularly when combined with subclinical thyroid or cardiac changes.
 
-#### #### Are Greek yogurts safer than regular low-fat yogurts for heart health?  
+#### Are Greek yogurts safer than regular low-fat yogurts for heart health?  
 Greek yogurt is higher in protein and lower in lactose—but many flavored or “light” versions add extra sugar or thickeners. Always read the label: plain, nonfat or 2% Greek yogurt with no added sugar is a better choice than sweetened low-fat varieties.
 
-#### #### How much yogurt is safe for women with mild diastolic dysfunction?  
+#### How much yogurt is safe for women with mild diastolic dysfunction?  
 Most women do well with 3–4 oz of plain, unsweetened yogurt 3–4 times weekly. Pairing it with fiber-rich foods (like berries or oats) helps blunt glucose response and supports vascular health.

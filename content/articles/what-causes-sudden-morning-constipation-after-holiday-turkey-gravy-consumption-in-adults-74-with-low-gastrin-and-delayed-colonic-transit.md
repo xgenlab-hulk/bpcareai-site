@@ -92,22 +92,22 @@ Digestive changes with age aren’t failures—they’re adaptations. Your body 
 
 ### FAQ
 
-#### #### Why do I get constipated the morning after eating turkey gravy?
+#### Why do I get constipated the morning after eating turkey gravy?
 
 Gravy is high in fat, which naturally slows stomach emptying. In adults over 74—especially those with low gastrin and age-related nerve changes in the gut—this delay can extend colonic transit time significantly. The result? Stool becomes drier overnight, often leading to constipation by morning. It’s not just the gravy—it’s how your unique digestive system responds to it.
 
-#### #### Is holiday gravy constipation seniors a sign of something serious?
+#### Is holiday gravy constipation seniors a sign of something serious?
 
 Usually not—especially if it happens only after rich holiday meals and resolves within a day or two. However, if it occurs frequently (more than once a month), lasts longer than three days, or comes with new symptoms like pain or weight loss, it’s worth discussing with your doctor to rule out underlying contributors like medication effects or slow-transit constipation.
 
-#### #### Can low stomach acid cause constipation in seniors?
+#### Can low stomach acid cause constipation in seniors?
 
 Yes—indirectly. Low stomach acid (often linked to low gastrin) impairs protein and fat digestion, leading to altered gut hormone signaling—including reduced motilin release. Motilin helps trigger colonic contractions, so lower levels can contribute to delayed transit and constipation, especially after fatty meals like holiday gravy.
 
-#### #### What foods make constipation worse for older adults during the holidays?
+#### What foods make constipation worse for older adults during the holidays?
 
 Beyond gravy, watch for large servings of cheese, creamy desserts, white bread stuffing, and alcohol—all of which can slow motility or dehydrate. Conversely, foods like prunes, pears, kiwi, flaxseed, and warm oatmeal tend to support regularity without overwhelming the system.
 
-#### #### Does drinking more water help holiday gravy constipation seniors?
+#### Does drinking more water help holiday gravy constipation seniors?
 
 Hydration helps—but only if timed well. Drinking plenty *throughout the day* supports softer stool. However, chugging large amounts right before or after gravy won’t “flush” the issue, since fat digestion and neural signaling take hours. Steady sipping, paired with movement and mindful portions, works better than last-minute fixes.

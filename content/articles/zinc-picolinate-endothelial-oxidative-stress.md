@@ -61,22 +61,22 @@ In short, *zinc picolinate endothelial oxidative stress* is a nuanced, modifiabl
 
 ### FAQ
 
-#### #### Can zinc picolinate cause endothelial oxidative stress in older adults?
+#### Can zinc picolinate cause endothelial oxidative stress in older adults?
 
 Yes—especially at doses above 25 mg elemental zinc daily and over several months. By lowering copper availability, it may reduce activity of copper-dependent superoxide dismutase, increasing oxidative stress in the endothelium. This effect is more relevant for adults 63+ with existing cardiovascular risk factors.
 
-#### #### Does zinc picolinate endothelial oxidative stress raise blood pressure?
+#### Does zinc picolinate endothelial oxidative stress raise blood pressure?
 
 Not directly—but impaired endothelial function from oxidative stress can reduce nitric oxide bioavailability, contributing to arterial stiffness and blunted vasodilation. Over time, this may support trends toward higher systolic BP (e.g., rising from 130 to 145 mm Hg), though individual responses vary widely.
 
-#### #### How much zinc picolinate is safe for heart health after age 60?
+#### How much zinc picolinate is safe for heart health after age 60?
 
 For most healthy adults over 60, 8–15 mg of elemental zinc per day (often found in multivitamins) is sufficient and unlikely to disrupt copper balance. Doses exceeding 25 mg daily—especially long term—warrant periodic copper monitoring and clinical context.
 
-#### #### What are early signs of coronary microvascular dysfunction?
+#### What are early signs of coronary microvascular dysfunction?
 
 Subtle signs include fatigue with minimal exertion, shortness of breath while walking uphill or carrying groceries, or pressure-like chest discomfort that doesn’t respond to rest alone. These symptoms often occur without ECG changes or blockages on angiography.
 
-#### #### Can diet correct copper deficiency caused by zinc picolinate?
+#### Can diet correct copper deficiency caused by zinc picolinate?
 
 Yes—adding 1–2 servings weekly of copper-rich foods (e.g., ¼ cup cashews = ~0.6 mg copper; ½ cup lentils = ~0.4 mg) helps. But if serum copper is below 70 µg/dL, a low-dose copper supplement under medical supervision may be appropriate alongside zinc reduction.

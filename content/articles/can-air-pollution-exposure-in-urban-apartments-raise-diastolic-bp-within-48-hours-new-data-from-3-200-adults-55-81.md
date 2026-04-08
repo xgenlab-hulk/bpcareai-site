@@ -85,22 +85,22 @@ If you're unsure, talking to your doctor is always a good idea. And remember —
 
 ### FAQ
 
-#### #### Does air pollution raise diastolic blood pressure in urban seniors?
+#### Does air pollution raise diastolic blood pressure in urban seniors?
 
 Yes — recent research shows that elevated indoor PM2.5 exposure (especially above 15 µg/m³ over 48 hours) is associated with measurable, short-term increases in diastolic blood pressure among adults aged 55–81 living in urban apartments. The effect is modest on average (1–3 mm Hg), but clinically meaningful when repeated over time.
 
-#### #### Can air pollution diastolic blood pressure urban seniors be reversed with better ventilation?
+#### Can air pollution diastolic blood pressure urban seniors be reversed with better ventilation?
 
 Often, yes. In the study, participants who improved mechanical ventilation (e.g., upgraded HVAC filters or added HEPA purifiers) saw diastolic BP reductions of 1.2–2.1 mm Hg within 3–5 days — particularly noticeable in those with APOE ε4 or pre-hypertension. Consistent air cleaning appears to support vascular recovery.
 
-#### #### Is diastolic blood pressure more sensitive to air pollution than systolic in older adults?
+#### Is diastolic blood pressure more sensitive to air pollution than systolic in older adults?
 
 Yes — this study and several others suggest diastolic BP responds more quickly and consistently to short-term PM2.5 exposure in adults over 55. That’s likely because diastolic pressure reflects peripheral resistance and small-vessel tone — systems especially vulnerable to inflammation and autonomic shifts triggered by fine particles.
 
-#### #### How long does it take for air pollution to affect blood pressure?
+#### How long does it take for air pollution to affect blood pressure?
 
 Changes can begin within *hours*, but the strongest association in this research was with the *48-hour average* PM2.5 exposure — meaning sustained exposure over two days was the clearest predictor of diastolic elevation. Single high-exposure events (e.g., a smoggy afternoon) mattered less than consistent background levels.
 
-#### #### Do face masks help reduce air pollution effects on blood pressure indoors?
+#### Do face masks help reduce air pollution effects on blood pressure indoors?
 
 Not typically — masks are designed for personal protection *outdoors* or in clinical settings. Indoors, source control (e.g., avoiding frying, using exhaust fans) and air cleaning are far more effective for reducing PM2.5 exposure — and therefore more relevant for protecting blood pressure in urban seniors.

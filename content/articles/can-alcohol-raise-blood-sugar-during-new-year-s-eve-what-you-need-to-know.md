@@ -67,17 +67,17 @@ The holidays are about connection, comfort, and kindness—including kindness to
 
 ### FAQ
 
-#### #### Does alcohol raise blood sugar during Christmas and New Year?
+#### Does alcohol raise blood sugar during Christmas and New Year?
 Not directly—but it can indirectly lead to higher readings when mixed with sugary drinks or rich foods. More commonly, alcohol lowers blood sugar by interfering with liver glucose release—especially in people using insulin or certain diabetes medications. The net effect depends on what you drink, how much, and whether you’ve eaten.
 
-#### #### How does alcohol affect blood sugar in older adults during the holidays?
+#### How does alcohol affect blood sugar in older adults during the holidays?
 Older adults metabolize alcohol more slowly and may have reduced liver and kidney function, making them more sensitive to its effects on glucose regulation. Combined with irregular meals, less physical activity, and possible medication changes during travel or gatherings, this increases the risk of both hypoglycemia and hyperglycemia—making careful monitoring especially important during *alcohol and blood sugar holidays*.
 
-#### #### Can I drink alcohol safely if I’m managing blood sugar during Christmas and New Year?
+#### Can I drink alcohol safely if I’m managing blood sugar during Christmas and New Year?
 Yes—many people with diabetes do so safely by choosing low-sugar options, eating before and while drinking, limiting portions, and checking blood sugar regularly. It helps to discuss your plans with your doctor ahead of time, especially if you take insulin or other glucose-lowering medications.
 
-#### #### What are the best low-sugar holiday drinks for people watching their blood sugar?
+#### What are the best low-sugar holiday drinks for people watching their blood sugar?
 Great choices include dry red or white wine (4–5 g carbs per 5 oz), light beer (5–10 g carbs per 12 oz), or spirits (vodka, gin, rum) mixed with unsweetened sparkling water and fresh citrus. Avoid eggnog, cider, margaritas, and most premade cocktails—they often contain 20–40 g of added sugar per serving.
 
-#### #### Does alcohol raise blood pressure during New Year’s Eve?
+#### Does alcohol raise blood pressure during New Year’s Eve?
 Yes—alcohol can cause a short-term increase in blood pressure, especially with binge drinking (defined as 4+ drinks for women or 5+ for men in about 2 hours). Even moderate amounts may elevate BP temporarily. For adults over 50 managing both hypertension and diabetes, pairing alcohol with salty snacks or late-night stress can amplify this effect—so pacing and hydration matter.

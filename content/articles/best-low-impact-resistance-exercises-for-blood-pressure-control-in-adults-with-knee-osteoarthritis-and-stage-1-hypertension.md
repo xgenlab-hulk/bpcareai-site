@@ -76,11 +76,11 @@ Building strength gently—without punishing your knees—isn’t just possible,
 
 ### FAQ
 
-#### #### Can low-impact resistance exercise knee osteoarthritis help lower blood pressure even if I can’t walk or stand for long?
+#### Can low-impact resistance exercise knee osteoarthritis help lower blood pressure even if I can’t walk or stand for long?
 
 Yes—absolutely. Isometric protocols like seated quad sets and supported glute bridges require no standing or weight-bearing. A 2023 pilot study in *Osteoarthritis and Cartilage* showed participants with severe knee OA (Kellgren-Lawrence grade 3–4) reduced average systolic BP by 5.8 mm Hg after six weeks of seated isometrics—no walking required.
 
-#### #### What’s the safest low-impact resistance exercise knee osteoarthritis routine for someone newly diagnosed with stage 1 hypertension?
+#### What’s the safest low-impact resistance exercise knee osteoarthritis routine for someone newly diagnosed with stage 1 hypertension?
 
 Start with two days per week:  
 - Quad sets (3 × 45 sec per leg)  
@@ -88,14 +88,14 @@ Start with two days per week:
 - Seated calf raises (2 × 15 reps)  
 Hold off on adding resistance bands or weights until you’ve completed 3–4 weeks with zero pain flares or prolonged swelling. Always pair with daily BP tracking.
 
-#### #### Are resistance bands safe for low-impact resistance exercise knee osteoarthritis?
+#### Are resistance bands safe for low-impact resistance exercise knee osteoarthritis?
 
 Yes—if used correctly. Avoid bands that pull the knee into hyperextension or deep flexion. Safe options: seated leg extensions (with band anchored low, knee bent only to 45°), or side-lying clamshells (minimal knee load). Skip terminal knee extension (TKE) or resisted squats unless cleared by a physical therapist trained in OA and hypertension co-management.
 
-#### #### Does stretching count as low-impact resistance exercise knee osteoarthritis?
+#### Does stretching count as low-impact resistance exercise knee osteoarthritis?
 
 Not quite. Stretching improves flexibility and joint range, but it doesn’t generate the sustained muscle tension needed to lower central aortic pressure. However, pairing gentle dynamic stretches (like seated knee marches) *before* isometrics can improve neuromuscular readiness—and adding static holds *after* (e.g., supported hamstring stretch) aids recovery.
 
-#### #### How soon can I expect to see blood pressure changes from low-impact resistance exercise knee osteoarthritis?
+#### How soon can I expect to see blood pressure changes from low-impact resistance exercise knee osteoarthritis?
 
 Most people notice subtle shifts in morning BP within 2–3 weeks. Clinically meaningful reductions (≥5 mm Hg systolic) are typically seen by week 6–8 with consistent, correct technique. Remember: consistency matters more than intensity. Even 5 minutes a day, done mindfully, adds up.

@@ -41,17 +41,17 @@ In short, winter blood pressure changes are common—not catastrophic. With mind
 
 ### FAQ
 
-#### #### What are the warning signs of dangerous blood pressure levels in winter?  
+#### What are the warning signs of dangerous blood pressure levels in winter?  
 Warning signs include severe headache, blurred vision, chest pain, shortness of breath, confusion, or nosebleeds—especially if your reading is above 180/120 mm Hg. These may indicate a hypertensive crisis and require urgent medical attention.
 
-#### #### Can cold weather cause dangerous blood pressure levels in healthy seniors?  
+#### Can cold weather cause dangerous blood pressure levels in healthy seniors?  
 Yes—even seniors without diagnosed hypertension can see temporary but meaningful BP increases in cold weather. While not always harmful, sustained elevations (e.g., repeated readings over 140/90 mm Hg) should be evaluated, especially with risk factors like family history or obesity.
 
-#### #### How often should I check my blood pressure in winter if I’m over 60?  
+#### How often should I check my blood pressure in winter if I’m over 60?  
 Most experts recommend checking at least twice weekly if your BP has been stable, and daily if you’ve had recent changes, new symptoms, or adjustments to medication. Consistency matters more than frequency—same time, same conditions.
 
-#### #### Is dizziness in winter always related to blood pressure?  
+#### Is dizziness in winter always related to blood pressure?  
 Not always—but it’s a common red flag. Dizziness can stem from low BP (especially when standing up quickly), high BP, dehydration, or inner ear changes. If it happens with chest discomfort or slurred speech, seek care immediately.
 
-#### #### Does indoor heating affect blood pressure?  
+#### Does indoor heating affect blood pressure?  
 Yes—dry, overheated air can lead to mild dehydration and increased heart rate, both of which influence BP. Keeping humidity between 30–50% and drinking water throughout the day helps maintain stability.

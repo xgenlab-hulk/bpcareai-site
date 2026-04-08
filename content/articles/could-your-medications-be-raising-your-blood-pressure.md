@@ -105,17 +105,17 @@ Remember: protecting your heart doesn't mean avoiding medicine—it means unders
 
 ### FAQ
 
-#### #### Which over-the-counter medications can raise blood pressure in older adults?
+#### Which over-the-counter medications can raise blood pressure in older adults?
 Common OTC drugs that may increase blood pressure include NSAIDs like ibuprofen and naproxen, decongestants containing pseudoephedrine or phenylephrine, and certain herbal supplements like bitter orange or ginseng. Even some antihistamines and weight-loss aids can have an effect, especially with regular use.
 
-#### #### Are there specific medications that raise blood pressure in seniors I should avoid?
+#### Are there specific medications that raise blood pressure in seniors I should avoid?
 Seniors should be cautious with NSAIDs, oral decongestants, corticosteroids, certain antidepressants (like tricyclics), and stimulant-based medications. Always review your full medication list with your doctor, especially if you already have hypertension or heart disease.
 
-#### #### Can supplements really affect my blood pressure?
+#### Can supplements really affect my blood pressure?
 Yes. Some natural products—despite being labeled “herbal” or “safe”—can significantly impact blood pressure. Examples include St. John’s Wort, licorice root, ephedra (banned but still available), and bitter orange. These can stimulate the nervous system or cause fluid retention, both of which raise arterial pressure.
 
-#### #### How quickly can a medication raise blood pressure?
+#### How quickly can a medication raise blood pressure?
 Some medications can cause a noticeable increase within hours (like decongestants), while others—such as NSAIDs or steroids—may gradually elevate blood pressure over days or weeks of regular use. Regular monitoring helps detect these slow changes early.
 
-#### #### What should I do if I think my medication is raising my blood pressure?
+#### What should I do if I think my medication is raising my blood pressure?
 Don’t stop taking any prescribed drug without consulting your doctor. Instead, record your blood pressure readings, note when you take medications, and share this information during your next visit. Your provider may adjust your treatment or suggest alternatives that are safer for your cardiovascular health.

@@ -74,22 +74,22 @@ In nearly all cases, heart palpitations when standing up tea reflect your body�
 
 ### FAQ
 
-#### #### Why do I get heart palpitations only when standing up to make tea?
+#### Why do I get heart palpitations only when standing up to make tea?
 
 It’s likely due to a combination of upright posture triggering a mild catecholamine surge and subtle left atrial stretch—both very common and usually harmless in adults over 65. The predictability (only during tea-making) points to a reproducible, non-dangerous reflex.
 
-#### #### Are heart palpitations when standing up tea a sign of AFib?
+#### Are heart palpitations when standing up tea a sign of AFib?
 
 Not typically. Atrial fibrillation usually causes irregular palpitations *at rest* or with variable triggers—not one highly specific, upright-only pattern. Brief, isolated flutters during standing are far more often premature atrial contractions (PACs), especially in structurally normal hearts.
 
-#### #### Can dehydration cause heart palpitations when standing up tea?
+#### Can dehydration cause heart palpitations when standing up tea?
 
 Yes—mild dehydration (common overnight) reduces plasma volume, making your body rely more heavily on catecholamines to sustain BP upon standing. That can intensify the perception of palpitations.
 
-#### #### Is this related to orthostatic hypotension?
+#### Is this related to orthostatic hypotension?
 
 Not necessarily. Many people with heart palpitations when standing up tea have *stable* blood pressure—no significant drop. The sensation comes from neural and atrial sensitivity, not low BP itself.
 
-#### #### Should I stop drinking tea if I get palpitations?
+#### Should I stop drinking tea if I get palpitations?
 
 No—unless your doctor advises otherwise based on your full health picture. Switching to decaf or adding a splash of milk won’t hurt, but the act of standing—not the tea—is the key trigger. Focus on rising slowly and staying hydrated instead.

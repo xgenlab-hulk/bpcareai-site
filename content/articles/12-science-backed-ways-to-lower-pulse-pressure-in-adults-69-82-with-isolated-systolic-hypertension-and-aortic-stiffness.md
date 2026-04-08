@@ -67,17 +67,17 @@ In short, lowering pulse pressure in elderly adults is both possible and meaning
 
 ### FAQ
 
-#### #### What does a high pulse pressure mean in older adults?  
+#### What does a high pulse pressure mean in older adults?  
 A high pulse pressure (typically >70 mm Hg) in adults 69–82 often reflects aortic stiffening and is strongly associated with isolated systolic hypertension. It’s not just “normal aging”—it’s a modifiable sign of vascular aging.
 
-#### #### How can I lower pulse pressure in elderly adults naturally?  
+#### How can I lower pulse pressure in elderly adults naturally?  
 Focus on potassium-rich foods, timed nitrate intake (e.g., beets before walks), daily paced breathing, consistent low-to-moderate activity, and optimizing sleep and hydration. These approaches target elastin support, sodium-potassium balance, and nitric oxide availability.
 
-#### #### Does lowering pulse pressure in elderly reduce stroke risk?  
+#### Does lowering pulse pressure in elderly reduce stroke risk?  
 Yes—research shows that reducing pulse pressure by even 10 mm Hg is associated with a 15–20% lower risk of stroke in adults over 65, independent of systolic BP changes.
 
-#### #### Can supplements help lower pulse pressure in elderly?  
+#### Can supplements help lower pulse pressure in elderly?  
 Some evidence supports magnesium, vitamin C, and omega-3s from food sources—but always discuss with your provider first. Supplements work best alongside lifestyle habits, not in isolation.
 
-#### #### Is pulse pressure more important than systolic BP in older adults?  
+#### Is pulse pressure more important than systolic BP in older adults?  
 Not more important—but equally informative. While guidelines still prioritize systolic BP control, pulse pressure gives added insight into arterial health and long-term cardiovascular risk, especially in those with ISH and aortic stiffness.

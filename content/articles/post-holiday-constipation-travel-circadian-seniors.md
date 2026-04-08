@@ -90,22 +90,22 @@ In short: This isn’t about “failing” at digestion. It’s about honoring h
 
 ### FAQ
 
-#### #### What is post-holiday constipation travel circadian seniors—and is it normal?
+#### What is post-holiday constipation travel circadian seniors—and is it normal?
 
 Post-holiday constipation travel circadian seniors refers to temporary, travel-related constipation in adults 71+, driven mainly by disruptions to the body’s internal clock, diet changes, and environmental shifts—not disease. Yes, it’s very normal: studies suggest up to 45% of adults over 70 experience some form of transient constipation during short-term stays away from home.
 
-#### #### Can post-holiday constipation travel circadian seniors affect my blood pressure?
+#### Can post-holiday constipation travel circadian seniors affect my blood pressure?
 
 Indirectly, yes. Straining during bowel movements (called the Valsalva maneuver) can cause brief spikes in systolic blood pressure—sometimes rising 20–40 mm Hg. For seniors with existing hypertension (e.g., readings consistently above 140/90 mm Hg), repeated straining may add stress to the cardiovascular system. That’s why gentle, non-straining strategies matter for both gut and heart health.
 
-#### #### How long does post-holiday constipation travel circadian seniors usually last?
+#### How long does post-holiday constipation travel circadian seniors usually last?
 
 Most cases resolve within 3–5 days after returning home—or within 2–3 days of re-establishing familiar routines *while still visiting*, such as consistent mealtimes, morning light exposure, and daily walking. If constipation persists beyond seven days despite lifestyle support, it’s wise to consult your healthcare provider.
 
-#### #### Does drinking more water alone fix post-holiday constipation travel circadian seniors?
+#### Does drinking more water alone fix post-holiday constipation travel circadian seniors?
 
 Not usually. While hydration is essential—especially for seniors, whose thirst sensation declines with age—studies show water intake alone improves constipation in only ~15% of older adults. It works best *with* fiber variety, movement, and circadian alignment. Think of water as the “oil” in the engine—not the fuel.
 
-#### #### Are laxatives safe for seniors experiencing post-holiday constipation travel circadian seniors?
+#### Are laxatives safe for seniors experiencing post-holiday constipation travel circadian seniors?
 
 Occasional use of osmotic laxatives (like polyethylene glycol) is generally safe for short-term relief under medical guidance. However, stimulant laxatives (e.g., senna) are best avoided regularly in seniors due to potential electrolyte shifts and dependency risk. Always discuss options with your doctor or pharmacist—especially if you take medications for heart conditions, diabetes, or kidney health.

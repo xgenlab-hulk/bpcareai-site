@@ -1,0 +1,93 @@
+{
+  "batch_info": {
+    "range": "21-25 (test batch)",
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "slug": "warning-signs-your-normal-blood-pressure-reading-is-actually-masked-hypertension-especially-during-routine-dental-visits-in-adults-62",
+      "title": "Warning Signs Your 'Normal' Blood Pressure Reading Is Actually Masked Hypertension — Especially During Routine Dental Visits in Adults 62+",
+      "description": "Identifies contextual BP elevation triggers (e.g., supine position, local anesthetic vasoconstrictors, dental anxiety) that unmask hypertension missed by standard office readings.",
+      "date": "2026-02-27",
+      "updated": "2026-02-27",
+      "primaryKeyword": "masked hypertension during dental procedures",
+      "topicCluster": "hypertension-management",
+      "image": "",
+      "relatedSlugs": [
+        "what-causes-normal-blood-pressure-readings-to-mask-left-ventricular-hypertrophy-in-adults-68-with-long-standing-hypertension-and-preserved-ejection-fraction",
+        "why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68",
+        "myths-vs-facts-my-blood-pressure-is-fine-because-it-s-normal-at-the-doctor-s-office-what-ambulatory-monitoring-reveals-about-masked-hypertension-in-adults-55-64-with-high-job-stress",
+        "warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather",
+        "7-silent-signs-your-blood-pressure-is-spiking-during-morning-commute-even-with-normal-clinic-readings-in-adults-58-66-with-white-coat-normotension"
+      ]
+    },
+    {
+      "slug": "warning-signs-your-holiday-weight-gain-is-accelerating-diabetic-kidney-hyperfiltration-even-before-egfr-drops",
+      "title": "Warning Signs Your Holiday Weight Gain Is Accelerating Diabetic Kidney Hyperfiltration — Even Before eGFR Drops",
+      "description": "Identifies early clinical red flags (e.g., postprandial microalbuminuria spikes, reduced renal resistive index on Doppler ultrasound, nocturnal sodium retention) signaling glomerular stress before standard labs change.",
+      "date": "2026-02-27",
+      "updated": "2026-02-27",
+      "primaryKeyword": "holiday weight gain diabetic kidney signs",
+      "topicCluster": "renal-health",
+      "image": "",
+      "relatedSlugs": [
+        "warning-signs-your-holiday-weight-gain-is-masking-early-diabetic-kidney-disease-progression-especially-if-you-re-64-with-egfr-60-89",
+        "7-silent-signs-your-holiday-eggnog-is-triggering-postprandial-endothelial-dysfunction-in-adults-67-with-preexisting-microalbuminuria",
+        "warning-signs-your-holiday-weight-gain-is-triggering-silent-beta-cell-exhaustion-even-with-normal-a1c-in-adults-55-64-with-family-history-of-early-onset-t2d",
+        "warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks",
+        "7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68"
+      ]
+    },
+    {
+      "slug": "type-1-diabetes-holiday-potluck-guide",
+      "title": "The Complete Guide to Navigating Holiday Potlucks With Type 1 Diabetes — From Pre-Meal Bolus Timing to Carb-Counting 'Secret Sauces' and Emergency Hypo Kits for Multi-Hour Events",
+      "description": "A step-by-step tactical manual for T1D adults covering insulin-on-board calculations, hidden-carb reconnaissance, real-time CGM interpretation during social events, and discreet low-glucose rescue protocols.",
+      "date": "2026-02-27",
+      "updated": "2026-02-27",
+      "primaryKeyword": "type 1 diabetes holiday potluck guide",
+      "topicCluster": "diabetes-management",
+      "image": "",
+      "relatedSlugs": [
+        "5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck",
+        "5-things-every-adult-70-with-insulin-dependent-diabetes-should-know-before-attending-a-potluck-holiday-party",
+        "5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy",
+        "managing-type-2-diabetes-while-attending-back-to-back-holiday-parties",
+        "12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry"
+      ]
+    },
+    {
+      "slug": "taurine-vitamin-b6-atrial-calcium-handling",
+      "title": "Natural Ways to Support Atrial Myocyte Calcium Handling *Without* Increasing SERCA2a Oxidation — Using Taurine + Vitamin B6 Timing in Adults 63+ With Early Diastolic Stiffness",
+      "description": "Presents a targeted, antioxidant-sparing nutritional protocol to improve calcium reuptake in aging atrial cells—reducing ectopy risk without promoting oxidative stress.",
+      "date": "2026-02-27",
+      "updated": "2026-02-27",
+      "primaryKeyword": "taurine vitamin b6 atrial calcium handling",
+      "topicCluster": "nutrition-diet-management",
+      "image": "",
+      "relatedSlugs": [
+        "12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib",
+        "12-science-backed-ways-to-reduce-left-atrial-stiffness-within-6-weeks-for-adults-61-76-with-paroxysmal-afib-and-elevated-la-strain-index",
+        "best-seated-tai-chi-sequences-for-adults-82-with-atrial-fibrillation-on-direct-oral-anticoagulants-prioritizing-rhythm-stability-fall-prevention-and-minimal-valsalva-risk",
+        "natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling",
+        "12-science-backed-ways-to-reverse-early-left-ventricular-hypertrophy-without-medication-focused-on-diastolic-filling-time-sodium-timing-and-evening-magnesium-glycinate-dosing"
+      ]
+    },
+    {
+      "slug": "stabilize-morning-glucose-without-insulin",
+      "title": "12 Natural Ways to Stabilize Morning Fasting Glucose *Without* Adjusting Insulin — Using Circadian-Optimized Sleep Hygiene & Late-Night Protein Timing in Adults 55–63",
+      "description": "Presents evidence-based non-pharmacologic strategies including bedtime casein dosing, blue-light restriction, and core body temperature modulation to blunt dawn phenomenon during holidays.",
+      "date": "2026-02-27",
+      "updated": "2026-02-27",
+      "primaryKeyword": "stabilize morning glucose without insulin",
+      "topicCluster": "circadian-sleep-health",
+      "image": "",
+      "relatedSlugs": [
+        "natural-ways-to-stabilize-overnight-glucose-without-adjusting-basal-insulin-using-bedtime-protein-timing-foot-warming-and-diaphragmatic-breathing-in-adults-59-66-with-nocturnal-hypoglycemia",
+        "5-science-backed-ways-to-stabilize-blood-glucose-during-christmas-morning-using-timing-temperature-and-texture-adjustments-for-adults-60-69-with-insulin-treated-diabetes",
+        "why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks",
+        "quick-ways-to-normalize-fasting-glucose-without-medication-in-adults-50-61-with-prediabetes-and-shift-work-history",
+        "simple-steps-to-normalize-fasting-glucose-without-skipping-dinner-using-sequential-pre-bed-protein-fat-snacking-and-nasal-breathing-during-sleep-in-adults-60-73"
+      ]
+    }
+  ]
+}

@@ -87,22 +87,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### How does holiday hydration affect blood sugar in seniors on multiple medications?
+#### How does holiday hydration affect blood sugar in seniors on multiple medications?
 
 Holiday hydration directly influences glucose homeostasis because dehydration concentrates blood, raises cortisol, impairs insulin receptor sensitivity, and reduces kidney clearance of both glucose *and* medications like metformin or SGLT2 inhibitors. In adults 69+ on polypharmacy, even mild volume shifts can amplify these effects—making **holiday hydration glucose homeostasis polypharmacy** a key but often overlooked factor in stable blood sugar.
 
-#### #### What’s the best drink for holiday hydration glucose homeostasis in older adults with diabetes?
+#### What’s the best drink for holiday hydration glucose homeostasis in older adults with diabetes?
 
 The best option isn’t one-size-fits-all—but research supports small, frequent sips of room-temperature fluids containing *balanced electrolytes*: ~130–150 mg sodium and 40–60 mg potassium per 100 mL, plus a touch of glucose (2–3 g) to enhance sodium absorption. Avoid high-sugar sodas, alcohol, and large volumes of plain water—especially within 2 hours of diuretic doses.
 
-#### #### Can medications like metformin or insulin interact with holiday hydration patterns?
+#### Can medications like metformin or insulin interact with holiday hydration patterns?
 
 Yes—especially if hydration status changes rapidly. Dehydration can raise lactate levels, increasing metformin-associated lactic acidosis risk (rare but serious). It can also concentrate insulin in the bloodstream, leading to unexpected hypoglycemia—particularly with long-acting analogs. Conversely, overhydration may dilute insulin action and blunt glucose-lowering effects. That’s why **holiday hydration glucose homeostasis polypharmacy** requires coordination—not just with diet, but with dosing timing and symptom awareness.
 
-#### #### Why do I feel fine but my glucose readings are higher after holiday parties?
+#### Why do I feel fine but my glucose readings are higher after holiday parties?
 
 You may feel fine because reduced thirst perception and blunted symptom awareness (from aging + anticholinergics) mask early dehydration. Yet even 2–3% body water loss can reduce skeletal muscle perfusion by ~15%, slowing glucose uptake—and raise epinephrine, which stimulates hepatic glucose production. Your glucose meter notices before your body does.
 
-#### #### Is sparkling water safe for holiday hydration in seniors with heart failure or high BP?
+#### Is sparkling water safe for holiday hydration in seniors with heart failure or high BP?
 
 Yes—*if* it’s sodium-free and consumed in small sips (not chugged). Carbonation mildly stimulates gastric stretch receptors, supporting vagal tone and glucose regulation. However, avoid sodium-added seltzers if you’re on strict fluid or sodium restrictions. Always discuss carbonated beverage tolerance with your cardiologist if you have NYHA Class II+ heart failure or resistant hypertension.

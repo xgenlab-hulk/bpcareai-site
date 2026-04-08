@@ -1,0 +1,372 @@
+{
+  "audit_version": "v4-flexible",
+  "audit_date": "2026-03-11",
+  "batch_id": 5,
+  "total_checked": 20,
+  "articles": [
+    {
+      "slug": "the-truth-about-senior-friendly-holiday-meal-kits-why-92-fail-to-meet-ada-recommended-sodium-fiber-targets-for-hypertensive-adults-75",
+      "primaryKeyword": "senior-friendly meal kits sodium fiber analysis",
+      "score": 88,
+      "grade": "Very Good",
+      "needs_optimization": false,
+      "reasoning": "Strong searchable keyword combining clear audience (senior-friendly), specific product (meal kits), and specific health metrics (sodium fiber). Users researching meal kit options for seniors would naturally search this way. Natural phrasing with 'analysis' providing clear intent. Slightly technical with 'analysis' but still user-friendly.",
+      "strengths": [
+        "Clear audience identifier (senior-friendly)",
+        "Specific product category (meal kits)",
+        "Specific health metrics (sodium fiber)",
+        "Natural search phrasing"
+      ],
+      "weaknesses": [
+        "Could be slightly more natural without 'analysis'"
+      ]
+    },
+    {
+      "slug": "the-truth-about-low-sodium-frozen-dinners-marketed-to-seniors-why-78-still-exceed-ada-sodium-targets-for-stage-1-hypertension",
+      "primaryKeyword": "low-sodium frozen dinner sodium trap",
+      "score": 82,
+      "grade": "Good",
+      "needs_optimization": false,
+      "reasoning": "Good searchable keyword with clear product (frozen dinner) and health concern (sodium trap). 'Sodium trap' is clever and user-friendly language. However, could be more specific - the article is about seniors but keyword doesn't reflect this. Still works well as a general search term since people researching low-sodium options would find this relevant.",
+      "strengths": [
+        "Specific product (frozen dinner)",
+        "User-friendly term (sodium trap)",
+        "Clear health concern",
+        "Natural phrasing"
+      ],
+      "weaknesses": [
+        "Missing audience identifier that article targets"
+      ]
+    },
+    {
+      "slug": "tai-chi-vs-walking-for-hfpef-seniors",
+      "primaryKeyword": "tai chi vs walking for HFpEF seniors",
+      "score": 90,
+      "grade": "Excellent",
+      "needs_optimization": false,
+      "reasoning": "Excellent keyword with clear comparison (tai chi vs walking), specific condition (HFpEF), and audience (seniors). Natural search phrasing that people would actually use. 'HFpEF' is a medical abbreviation but commonly used by patients diagnosed with heart failure with preserved ejection fraction. Clear intent and highly specific.",
+      "strengths": [
+        "Clear comparison format",
+        "Specific cardiac condition",
+        "Appropriate audience identifier",
+        "Natural search phrasing",
+        "Clear user intent"
+      ],
+      "weaknesses": []
+    },
+    {
+      "slug": "statin-side-effects-heart-health-seniors",
+      "primaryKeyword": "statin side effects heart health seniors",
+      "score": 92,
+      "grade": "Excellent",
+      "needs_optimization": false,
+      "reasoning": "Outstanding keyword. Combines specific medication class (statin), clear concern (side effects), health context (heart health), and audience (seniors). This is exactly how real patients and caregivers search. Natural phrasing, appropriate length, highly specific and actionable. Perfect balance of medical specificity and user-friendly language.",
+      "strengths": [
+        "Specific medication class",
+        "Clear patient concern (side effects)",
+        "Health context provided",
+        "Appropriate audience identifier",
+        "Exactly how users search"
+      ],
+      "weaknesses": []
+    },
+    {
+      "slug": "simple-steps-to-modify-grandma-s-pie-recipe-for-diabetic-retinopathy-risk-reduction-without-sacrificing-flavor-or-texture",
+      "primaryKeyword": "grandma pie recipe diabetic retinopathy",
+      "score": 75,
+      "grade": "Good",
+      "needs_optimization": false,
+      "reasoning": "Interesting keyword with unique search angle (grandma pie recipe) combined with specific condition (diabetic retinopathy). However, the combination feels somewhat disconnected - users searching for pie recipes might not add 'diabetic retinopathy' specifically. More likely searches would be 'diabetic-friendly pie recipe' or 'pie recipe for diabetics'. Still works as it's specific and memorable, just not the most natural phrasing.",
+      "strengths": [
+        "Unique memorable angle (grandma pie)",
+        "Specific diabetic complication",
+        "Clear topic (recipe)"
+      ],
+      "weaknesses": [
+        "Somewhat unnatural combination",
+        "Users more likely to search 'diabetic-friendly' not specific complication"
+      ]
+    },
+    {
+      "slug": "seniors-living-alone-holiday-party-preparedness",
+      "primaryKeyword": "seniors living alone holiday party preparedness",
+      "score": 78,
+      "grade": "Good",
+      "needs_optimization": false,
+      "reasoning": "Good keyword with clear audience (seniors living alone) and specific context (holiday party preparedness). Natural phrasing that caregivers and seniors would use. However, 'preparedness' is slightly formal - users might more naturally search 'tips' or 'guide'. Still works well overall as the specificity (living alone + holiday) makes it valuable.",
+      "strengths": [
+        "Specific audience (seniors living alone)",
+        "Clear context (holiday party)",
+        "Natural phrasing overall",
+        "Addresses real concern"
+      ],
+      "weaknesses": [
+        "'Preparedness' slightly formal, 'tips' or 'guide' more natural"
+      ]
+    },
+    {
+      "slug": "preserve-muscle-mass-holiday-meals",
+      "primaryKeyword": "preserve muscle mass holiday meals",
+      "score": 83,
+      "grade": "Good",
+      "needs_optimization": false,
+      "reasoning": "Good keyword combining specific health goal (preserve muscle mass) with seasonal context (holiday meals). Natural phrasing that fitness-conscious older adults would search. Missing explicit audience identifier but the topic (muscle preservation) is inherently relevant to older adults. Clear intent and specific enough to be useful.",
+      "strengths": [
+        "Specific health goal (muscle preservation)",
+        "Relevant context (holiday meals)",
+        "Natural search phrasing",
+        "Clear user intent"
+      ],
+      "weaknesses": [
+        "Could benefit from age/audience identifier but not required"
+      ]
+    },
+    {
+      "slug": "natural-support-for-coronary-microvascular-disease",
+      "primaryKeyword": "natural support for coronary microvascular disease",
+      "score": 80,
+      "grade": "Good",
+      "needs_optimization": false,
+      "reasoning": "Good keyword with specific cardiac condition (coronary microvascular disease) and clear approach (natural support). 'Microvascular' is somewhat technical but patients diagnosed with this condition would know the term. 'Natural support' is user-friendly language indicating interest in non-pharmaceutical options. Clear intent and specific condition. Could be stronger with audience but works well as-is.",
+      "strengths": [
+        "Specific cardiac condition",
+        "User-friendly approach (natural support)",
+        "Clear patient intent",
+        "Natural phrasing"
+      ],
+      "weaknesses": [
+        "'Microvascular' is technical but acceptable for diagnosed patients"
+      ]
+    },
+    {
+      "slug": "low-dose-lithium-beta-cell-function",
+      "primaryKeyword": "diabetes management seniors",
+      "score": 70,
+      "grade": "Good",
+      "needs_optimization": false,
+      "reasoning": "Solid general keyword combining condition (diabetes), action (management), and audience (seniors). This is a natural search term that many users would type. However, the article is about a very specific topic (low-dose lithium and beta cells) and the keyword doesn't reflect this specificity at all. Works as a broad entry point but misses opportunity to capture more targeted searches. Not bad, just generic for the content.",
+      "strengths": [
+        "Clear medical condition",
+        "Natural search term",
+        "Appropriate audience",
+        "Good broad keyword"
+      ],
+      "weaknesses": [
+        "Too generic for specific article content",
+        "Misses unique angle (lithium/beta cells)"
+      ]
+    },
+    {
+      "slug": "intermittent-fasting-before-cardiac-catheterization",
+      "primaryKeyword": "intermittent fasting before cardiac catheterization",
+      "score": 87,
+      "grade": "Very Good",
+      "needs_optimization": false,
+      "reasoning": "Strong keyword combining popular dietary approach (intermittent fasting) with specific medical procedure (cardiac catheterization). Natural search phrasing that patients scheduled for this procedure would actually use. Clear intent and highly specific. 'Catheterization' is medical terminology but widely understood by patients undergoing cardiac procedures. No audience specified but not necessary as procedure itself indicates adult population.",
+      "strengths": [
+        "Specific medical procedure",
+        "Popular health approach (intermittent fasting)",
+        "Natural patient search query",
+        "Clear timing/context (before procedure)",
+        "Highly specific intent"
+      ],
+      "weaknesses": []
+    },
+    {
+      "slug": "how-seasonal-air-pollution-peaks-alter-st-segment-variability-and-why-that-increases-acute-coronary-syndrome-risk-in-adults-59-with-stable-angina",
+      "primaryKeyword": "air pollution and angina stability seasonal",
+      "score": 76,
+      "grade": "Good",
+      "needs_optimization": false,
+      "reasoning": "Good keyword combining environmental factor (air pollution), cardiac condition (angina), and temporal context (seasonal). Natural phrasing overall. 'Stability' is slightly clinical - users might more naturally search 'angina symptoms' or 'angina triggers'. The connection between air pollution and angina is clear and searchable. Could be stronger but works well for patients managing stable angina concerned about environmental triggers.",
+      "strengths": [
+        "Clear environmental factor",
+        "Specific cardiac condition",
+        "Temporal context (seasonal)",
+        "Relevant patient concern"
+      ],
+      "weaknesses": [
+        "'Stability' is clinical, 'symptoms' or 'triggers' more natural"
+      ]
+    },
+    {
+      "slug": "how-chronic-constipation-elevates-24-hour-mean-arterial-pressure-via-gut-derived-trimethylamine-n-oxide-especially-in-adults-70-with-low-fiber-diets",
+      "primaryKeyword": "constipation tmao mean arterial pressure",
+      "score": 45,
+      "grade": "Poor",
+      "needs_optimization": true,
+      "reasoning": "Problematic keyword with major issues. 'TMAO' (trimethylamine-n-oxide) is highly technical medical jargon that general users would never search. 'Mean arterial pressure' is also clinical terminology - users search 'blood pressure' not MAP. While constipation is user-friendly, the overall keyword is too technical and unnatural. Users would more likely search 'constipation and high blood pressure' or 'constipation blood pressure connection'. Needs significant simplification to match actual search behavior.",
+      "strengths": [
+        "Identifies connection between conditions",
+        "Constipation is user-friendly term"
+      ],
+      "weaknesses": [
+        "TMAO is medical jargon users won't search",
+        "Mean arterial pressure too clinical",
+        "Unnatural phrasing overall",
+        "Users would never search this way"
+      ]
+    },
+    {
+      "slug": "home-ecg-patch-interpretation-for-seniors",
+      "primaryKeyword": "home ecg patch interpretation for seniors",
+      "score": 89,
+      "grade": "Very Good",
+      "needs_optimization": false,
+      "reasoning": "Excellent keyword combining specific device (home ECG patch), clear need (interpretation), and audience (seniors). Natural search phrasing that seniors or caregivers would use when trying to understand ECG patch results. Clear intent and highly specific. Medical terminology (ECG) is widely understood by patients using these devices. Strong practical keyword.",
+      "strengths": [
+        "Specific monitoring device",
+        "Clear patient need (interpretation)",
+        "Appropriate audience identifier",
+        "Natural search phrasing",
+        "Practical actionable intent"
+      ],
+      "weaknesses": []
+    },
+    {
+      "slug": "home-bp-cuff-with-ecg-for-afib-seniors",
+      "primaryKeyword": "home bp cuff with ecg for afib seniors",
+      "score": 91,
+      "grade": "Excellent",
+      "needs_optimization": false,
+      "reasoning": "Excellent keyword combining specific device features (BP cuff with ECG), condition (afib), and audience (seniors). Natural search phrasing for seniors shopping for home monitoring devices. Clear intent - users looking for dual-function device for atrial fibrillation monitoring. Medical abbreviations (BP, ECG, afib) are all widely understood by target audience. Highly specific and actionable.",
+      "strengths": [
+        "Specific device with features",
+        "Clear medical condition (afib)",
+        "Appropriate audience",
+        "Natural shopping/research query",
+        "User-friendly abbreviations"
+      ],
+      "weaknesses": []
+    },
+    {
+      "slug": "hidden-sodium-holiday-side-dishes",
+      "primaryKeyword": "hidden sodium holiday side dishes",
+      "score": 86,
+      "grade": "Very Good",
+      "needs_optimization": false,
+      "reasoning": "Strong keyword combining health concern (hidden sodium), food category (side dishes), and seasonal context (holiday). Natural search phrasing that people managing blood pressure or on low-sodium diets would use, especially around holidays. Clear intent and specific enough to be useful. No audience specified but not necessary as sodium concern is universal across adults managing hypertension.",
+      "strengths": [
+        "Clear health concern (hidden sodium)",
+        "Specific food category",
+        "Relevant seasonal context",
+        "Natural search phrasing",
+        "Practical actionable topic"
+      ],
+      "weaknesses": []
+    },
+    {
+      "slug": "heavy-legs-sitting-heart-strain-seniors",
+      "primaryKeyword": "heavy legs sitting heart strain seniors",
+      "score": 84,
+      "grade": "Good",
+      "needs_optimization": false,
+      "reasoning": "Good keyword combining symptom (heavy legs), activity context (sitting), health concern (heart strain), and audience (seniors). Natural phrasing that seniors experiencing this symptom would search. Connects symptom to underlying concern effectively. Clear intent - users trying to understand if their leg heaviness indicates cardiac issues. Specific and relevant to senior health concerns.",
+      "strengths": [
+        "Specific symptom (heavy legs)",
+        "Context provided (sitting)",
+        "Clear health concern (heart strain)",
+        "Appropriate audience",
+        "Natural symptom-based search"
+      ],
+      "weaknesses": []
+    },
+    {
+      "slug": "heart-healthy-granola-bars-truth-for-seniors",
+      "primaryKeyword": "heart-healthy granola bars truth for seniors",
+      "score": 85,
+      "grade": "Very Good",
+      "needs_optimization": false,
+      "reasoning": "Strong keyword combining product type (granola bars), health claim (heart-healthy), skeptical intent (truth), and audience (seniors). Natural search phrasing for seniors or caregivers researching whether marketed claims are accurate. 'Truth' indicates investigative intent which matches article content. Specific product category and clear audience. Slightly long but all elements contribute value.",
+      "strengths": [
+        "Specific product category",
+        "Health context (heart-healthy)",
+        "Skeptical intent (truth)",
+        "Appropriate audience",
+        "Natural consumer research query"
+      ],
+      "weaknesses": []
+    },
+    {
+      "slug": "cold-face-immersion-baroreflex-seniors",
+      "primaryKeyword": "cold face immersion baroreflex seniors",
+      "score": 68,
+      "grade": "Fair",
+      "needs_optimization": true,
+      "reasoning": "Problematic keyword with technical terminology. 'Baroreflex' is medical jargon that general users would not search - they might search 'blood pressure regulation' or 'blood pressure response' instead. 'Cold face immersion' is specific and descriptive which is good. Has audience (seniors) which helps. Users would more naturally search 'cold face immersion blood pressure seniors' or 'cold water face dunk blood pressure'. Needs simplification of technical terms.",
+      "strengths": [
+        "Specific technique (cold face immersion)",
+        "Has audience identifier"
+      ],
+      "weaknesses": [
+        "Baroreflex is technical medical term",
+        "Users don't search for 'baroreflex'",
+        "Would search 'blood pressure' instead"
+      ]
+    },
+    {
+      "slug": "aromatase-inhibitors-diabetes-interaction-seniors",
+      "primaryKeyword": "aromatase-inhibitors diabetes interaction seniors",
+      "score": 87,
+      "grade": "Very Good",
+      "needs_optimization": false,
+      "reasoning": "Strong keyword combining specific medication class (aromatase inhibitors), condition (diabetes), relationship (interaction), and audience (seniors). Natural search for breast cancer patients on these medications who also have diabetes. Medical terminology (aromatase inhibitors) is appropriate as patients on these medications know the term. Clear intent and highly specific to relevant patient population. Well-structured and searchable.",
+      "strengths": [
+        "Specific medication class",
+        "Clear condition (diabetes)",
+        "Appropriate audience",
+        "Natural patient concern (interaction)",
+        "Patients on these meds know the terminology"
+      ],
+      "weaknesses": []
+    },
+    {
+      "slug": "ankle-circles-vs-calf-squeezes-pulse-pressure",
+      "primaryKeyword": "ankle circles vs calf squeezes pulse pressure",
+      "score": 79,
+      "grade": "Good",
+      "needs_optimization": false,
+      "reasoning": "Good keyword with clear comparison (ankle circles vs calf squeezes) and specific metric (pulse pressure). Natural format for users comparing exercises. 'Pulse pressure' is somewhat clinical but understood by patients monitoring blood pressure with widening pulse pressure concerns. Missing audience identifier but exercises suggest older adult/senior focus. Specific and actionable though slightly technical with pulse pressure terminology.",
+      "strengths": [
+        "Clear exercise comparison",
+        "Specific exercises named",
+        "Specific health metric",
+        "Natural comparison format"
+      ],
+      "weaknesses": [
+        "Pulse pressure somewhat technical",
+        "Missing audience identifier"
+      ]
+    }
+  ],
+  "summary": {
+    "total": 20,
+    "excellent_90plus": 3,
+    "very_good_85to89": 6,
+    "good_70to84": 9,
+    "fair_60to69": 1,
+    "poor_40to59": 1,
+    "very_poor_below40": 0,
+    "needs_optimization": 2,
+    "average_score": 81.25,
+    "optimization_rate": "10%"
+  },
+  "key_findings": [
+    "Using v4 flexible standard, 90% of keywords (18/20) do NOT need optimization",
+    "Only 2 keywords scored below 85: 'constipation tmao mean arterial pressure' (45) and 'cold face immersion baroreflex seniors' (68)",
+    "Main issue: technical medical jargon (TMAO, baroreflex) that users wouldn't naturally search",
+    "Audience identifiers were appropriately judged - not penalized when absent if content is universal",
+    "Many keywords scored well (85+) without audience identifiers because they were naturally specific enough",
+    "Top performers (90+): tai chi vs walking, statin side effects, home bp cuff with ecg - all have clear intent, specific topics, and natural phrasing"
+  ],
+  "comparison_to_mechanical_scoring": {
+    "note": "V4 flexible judgment is more forgiving than mechanical v3 rules",
+    "key_differences": [
+      "Keywords without audience identifiers not automatically penalized",
+      "Natural phrasing valued over template adherence",
+      "Context considered - what works for one article may not work for another",
+      "Technical terms judged based on whether target audience would know them",
+      "Holistic scoring rather than mechanical point deduction"
+    ]
+  }
+}

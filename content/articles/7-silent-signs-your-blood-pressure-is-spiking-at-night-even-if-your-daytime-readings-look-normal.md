@@ -81,22 +81,22 @@ If you're unsure, talking to your doctor is always a good idea. Recognizing *noc
 
 ### FAQ
 
-#### #### What are the most common nocturnal hypertension symptoms adults 55+ experience?
+#### What are the most common nocturnal hypertension symptoms adults 55+ experience?
 
 The most frequently reported signs include unrefreshing sleep, waking 2+ times nightly to urinate (nocturia), morning headaches, dry mouth or loud snoring, and persistent fatigue despite adequate rest. These reflect disrupted circadian BP regulation—not just “normal aging.”
 
-#### #### Can nocturnal hypertension symptoms adults 55+ occur even with normal daytime blood pressure?
+#### Can nocturnal hypertension symptoms adults 55+ occur even with normal daytime blood pressure?
 
 Yes—up to one-third of adults 55+ with normal clinic or home daytime readings have undiagnosed nocturnal hypertension. This is why 24-hour ambulatory monitoring is essential for accurate assessment.
 
-#### #### How is nocturnal hypertension diagnosed in older adults?
+#### How is nocturnal hypertension diagnosed in older adults?
 
 It’s confirmed via 24-hour ambulatory blood pressure monitoring (ABPM), which measures BP at regular intervals overnight. Diagnosis requires average nighttime systolic ≥120 mm Hg or diastolic ≥70 mm Hg—or a night/day ratio >0.9 (indicating insufficient dipping).
 
-#### #### Is nocturia a reliable sign of nocturnal hypertension?
+#### Is nocturia a reliable sign of nocturnal hypertension?
 
 While nocturia has many causes (e.g., prostate enlargement, medication side effects), waking ≥2 times nightly *plus* other clues like morning headache or fatigue raises suspicion for nocturnal hypertension—especially in adults 55+ with cardiovascular risk factors.
 
-#### #### Does sleep apnea cause nocturnal hypertension?
+#### Does sleep apnea cause nocturnal hypertension?
 
 Yes—obstructive sleep apnea triggers repeated oxygen drops and surges in sympathetic nervous system activity, leading to sharp nighttime BP spikes. Treating apnea (e.g., with CPAP) often significantly improves nocturnal BP control.

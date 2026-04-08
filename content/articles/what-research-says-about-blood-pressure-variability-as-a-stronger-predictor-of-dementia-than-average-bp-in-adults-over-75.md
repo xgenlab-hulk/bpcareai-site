@@ -65,22 +65,22 @@ Understanding blood pressure variability dementia prediction over 75 doesn’t m
 
 ### FAQ
 
-#### #### Does high blood pressure variability dementia prediction over 75 apply to people with normal average BP?
+#### Does high blood pressure variability dementia prediction over 75 apply to people with normal average BP?
 
 Yes. Research shows that even with average systolic BP under 130 mm Hg, visit-to-visit systolic SD >15 mm Hg doubles Alzheimer’s risk in adults over 75—highlighting that stability matters as much as level.
 
-#### #### How is blood pressure variability dementia prediction over 75 different from orthostatic hypotension?
+#### How is blood pressure variability dementia prediction over 75 different from orthostatic hypotension?
 
 Orthostatic hypotension is a *single-event drop* in BP upon standing. Blood pressure variability dementia prediction over 75 refers to *repeated fluctuations across clinical visits*, reflecting broader vascular instability—not just posture-related changes.
 
-#### #### Can lifestyle changes reduce blood pressure variability dementia risk?
+#### Can lifestyle changes reduce blood pressure variability dementia risk?
 
 Yes—studies link regular physical activity, balanced hydration, consistent sleep, and mindful medication use with lower BP variability. These habits support healthier small-vessel function and autonomic balance.
 
-#### #### Is blood pressure variability measured at home as reliable as in-clinic readings?
+#### Is blood pressure variability measured at home as reliable as in-clinic readings?
 
 Home monitoring adds helpful context—but variability should be assessed using standardized, repeated clinic visits for diagnosis. Home logs are excellent for spotting patterns *between* visits and guiding shared decision-making.
 
-#### #### What’s the best way to start tracking my blood pressure variability?
+#### What’s the best way to start tracking my blood pressure variability?
 
 Begin with twice-daily readings (morning and evening) for two weeks using a validated upper-arm device. Note conditions before each reading. Share the log with your clinician—they’ll help determine whether further evaluation is right for you.

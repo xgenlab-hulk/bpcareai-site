@@ -89,22 +89,22 @@ In short, *social isolation cortisol nighttime bp over 70* is a real, measurable
 
 ### FAQ
 
-#### #### Does social isolation cortisol nighttime bp over 70 affect men and women differently?
+#### Does social isolation cortisol nighttime bp over 70 affect men and women differently?
 
 Yes—studies suggest women over 70 may experience a stronger link between objective isolation and flattened cortisol rhythms, possibly due to hormonal shifts after menopause and differences in HPA-axis regulation. However, both genders show clinically meaningful increases in nighttime systolic pressure with low social contact.
 
-#### #### Can social isolation cortisol nighttime bp over 70 happen even if I’m not depressed or anxious?
+#### Can social isolation cortisol nighttime bp over 70 happen even if I’m not depressed or anxious?
 
 Absolutely. Research clearly separates objective isolation (measurable lack of contact) from subjective distress. You can feel emotionally fulfilled and still show altered cortisol curves and non-dipping BP—confirming this is a neuroendocrine response to environmental input, not a mental health symptom.
 
-#### #### How is social isolation cortisol nighttime bp over 70 different from “white coat hypertension”?
+#### How is social isolation cortisol nighttime bp over 70 different from “white coat hypertension”?
 
 White coat hypertension means BP spikes only in clinical settings due to anxiety—and normalizes elsewhere. In contrast, *social isolation cortisol nighttime bp over 70* reflects sustained, measurable elevation *during sleep*, confirmed by 24-hour monitoring. It’s a chronic physiological adaptation—not a situational reaction.
 
-#### #### What’s a healthy nighttime blood pressure for someone over 70?
+#### What’s a healthy nighttime blood pressure for someone over 70?
 
 For most adults over 70, a normal nocturnal systolic BP dips to 100–115 mm Hg—about 10–20% below the daytime average. Consistently reading ≥120 mm Hg at night warrants discussion with your care team, especially if paired with a blunted cortisol awakening response.
 
-#### #### Can improving social contact lower nighttime BP quickly?
+#### Can improving social contact lower nighttime BP quickly?
 
 Not overnight—but studies show measurable improvements in cortisol rhythm within 4–6 weeks of adding regular, low-pressure social engagement (e.g., weekly walks, shared hobbies). Nighttime BP often follows within 8–12 weeks, especially when combined with light exposure and consistent sleep timing.

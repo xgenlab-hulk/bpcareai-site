@@ -84,22 +84,22 @@ There’s no “winner” in *apple with cinnamon vs chair yoga glucose*—only 
 
 ### FAQ
 
-#### #### Does apple with cinnamon vs chair yoga glucose work for men too?
+#### Does apple with cinnamon vs chair yoga glucose work for men too?
 
 Yes—though most direct comparative data comes from women (due to higher prevalence of abdominal obesity and postmenopausal metabolic shifts), the physiological mechanisms apply broadly. Men aged 63–77 with waist ≥102 cm show similar glucose-lowering responses in smaller pilot studies.
 
-#### #### How much cinnamon is safe for seniors in the apple with cinnamon vs chair yoga glucose comparison?
+#### How much cinnamon is safe for seniors in the apple with cinnamon vs chair yoga glucose comparison?
 
 For adults over 60, ¼–½ tsp of ground cinnamon per day is well-tolerated and effective. Avoid cassia cinnamon capsules or oils, and skip daily use if you have advanced liver disease or take warfarin. Ceylon cinnamon is lower in coumarin and may be preferred for long-term use.
 
-#### #### Can I do chair yoga *before* my meal instead of after—and still get the apple with cinnamon vs chair yoga glucose benefit?
+#### Can I do chair yoga *before* my meal instead of after—and still get the apple with cinnamon vs chair yoga glucose benefit?
 
 Not optimally. Chair yoga’s glucose-lowering effect relies partly on increased blood flow to muscles *during* the postprandial period—so doing it after eating aligns with natural physiology. Pre-meal yoga may support relaxation and mindful eating, but it doesn’t replicate the postprandial muscle glucose uptake seen in trials.
 
-#### #### Is the apple with cinnamon vs chair yoga glucose effect stronger with certain types of meals?
+#### Is the apple with cinnamon vs chair yoga glucose effect stronger with certain types of meals?
 
 Yes. Both interventions show greatest impact after high-carbohydrate meals (e.g., mashed potatoes, stuffing, pie)—where glucose excursions are largest. Effects are milder after protein/fat-dominant meals (e.g., grilled fish + salad), but still measurable.
 
-#### #### Do I need a prescription or referral to start either strategy?
+#### Do I need a prescription or referral to start either strategy?
 
 No. Both apple with cinnamon and chair yoga are self-managed, non-prescription strategies. That said, discuss them with your care team—especially if you take insulin, sulfonylureas, or have neuropathy (to ensure chair yoga poses are safe for your balance and joint health).

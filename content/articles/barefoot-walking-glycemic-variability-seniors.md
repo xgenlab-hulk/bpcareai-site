@@ -82,17 +82,17 @@ There’s quiet value in slowing down, feeling the earth, and reconnecting with 
 
 ### FAQ
 
-#### #### Does barefoot walking on grass lower blood sugar in seniors with diabetes?
+#### Does barefoot walking on grass lower blood sugar in seniors with diabetes?
 No high-quality evidence shows barefoot walking directly lowers fasting or postprandial glucose in older adults with diabetes. Any observed effects are likely due to associated factors—like light exposure, gentle physical activity, or stress reduction—not electrical grounding.
 
-#### #### Can barefoot walking glycemic variability seniors improve with daily 10-minute sessions?
+#### Can barefoot walking glycemic variability seniors improve with daily 10-minute sessions?
 While daily movement supports insulin sensitivity, 10 minutes of barefoot walking alone is unlikely to produce clinically meaningful reductions in glycemic variability—particularly in sedentary seniors with neuropathy. Structured, progressive activity (e.g., 150 min/week moderate walking) shows stronger GV benefits.
 
-#### #### Is barefoot walking safe for seniors with peripheral neuropathy?
+#### Is barefoot walking safe for seniors with peripheral neuropathy?
 It carries meaningful risk. Loss of protective sensation increases chances of undetected injury. If you choose to try it, do so only on known-safe surfaces, inspect feet thoroughly before and after, and stop immediately if you notice redness, swelling, or warmth—even without pain.
 
-#### #### Does grounding reduce inflammation in older adults?
+#### Does grounding reduce inflammation in older adults?
 Some small studies report modest reductions in markers like IL-6 or CRP after prolonged grounding protocols (≥1 hour/day for 4+ weeks). However, these findings haven’t been replicated in rigorous RCTs involving adults 65+, and effect sizes are smaller than those achieved through diet, sleep, or aerobic exercise.
 
-#### #### How does glycemic variability differ from A1c in older adults?
+#### How does glycemic variability differ from A1c in older adults?
 A1c reflects average glucose over ~3 months but masks dangerous highs and lows. Glycemic variability measures those fluctuations—critical for seniors, as rapid glucose swings increase oxidative stress, fall risk, and cardiovascular strain independent of A1c level.

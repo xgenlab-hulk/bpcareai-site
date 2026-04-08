@@ -74,17 +74,17 @@ Preventing post-holiday HbA1c creep is absolutely achievable with small, science
 
 ### FAQ
 
-#### #### How can I prevent post-holiday HbA1c creep without giving up all holiday foods?  
+#### How can I prevent post-holiday HbA1c creep without giving up all holiday foods?  
 You don’t need to eliminate favorites—focus instead on *timing*, *order*, and *portion pacing*. Eating protein/fiber first, serving treats on smaller plates, and savoring one well-chosen item slowly preserves joy *and* glycemic stability.
 
-#### #### What’s the best way to prevent post-holiday HbA1c creep for someone with 15 years of type 2 diabetes?  
+#### What’s the best way to prevent post-holiday HbA1c creep for someone with 15 years of type 2 diabetes?  
 Prioritize consistency over intensity: aim for regular sleep timing, 3-minute movement breaks every 90 minutes, and early dinners. These align with age-related circadian and metabolic shifts—and studies show they reduce HbA1c drift by up to 0.25% seasonally.
 
-#### #### Does alcohol really contribute to post-holiday HbA1c creep?  
+#### Does alcohol really contribute to post-holiday HbA1c creep?  
 Yes—but context matters. Spirits mixed with sugary drinks spike glucose sharply; dry wine (≤5 oz) or light beer (12 oz), consumed *with food*, has milder impact. Avoid drinking on an empty stomach—this impairs liver glucose regulation.
 
-#### #### Can stress alone raise my HbA1c after the holidays?  
+#### Can stress alone raise my HbA1c after the holidays?  
 Chronic stress elevates cortisol, which increases hepatic glucose output and reduces insulin sensitivity. In adults 55+, even moderate perceived stress correlates with ~0.15% higher HbA1c—making mindfulness and routine especially valuable.
 
-#### #### Is post-holiday HbA1c creep reversible—or does it cause lasting damage?  
+#### Is post-holiday HbA1c creep reversible—or does it cause lasting damage?  
 The good news: yes, it’s largely reversible with timely intervention. Because HbA1c reflects only the prior ~3 months, stabilizing glucose for 8–10 weeks typically brings levels back down—no permanent change occurs from short-term drift.

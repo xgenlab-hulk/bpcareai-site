@@ -53,17 +53,17 @@ In short, supporting your social rhythm isn’t about adding more to your plate�
 
 ### FAQ
 
-#### #### What is social rhythm therapy for isolated older adults—and does it really help with seasonal depression in older adults?  
+#### What is social rhythm therapy for isolated older adults—and does it really help with seasonal depression in older adults?  
 Yes. Social rhythm therapy for isolated older adults is a structured, non-pharmacological approach that stabilizes daily routines to support circadian health and emotional resilience. Clinical trials show it reduces symptoms of seasonal depression in older adults by up to 40% when practiced consistently over eight weeks.
 
-#### #### Can social rhythm therapy for isolated older adults be done without technology or internet access?  
+#### Can social rhythm therapy for isolated older adults be done without technology or internet access?  
 Absolutely. The core principles—regular timing of meals, light exposure, movement, and brief interpersonal contact—require no devices. Many effective strategies (e.g., window-sitting, walking routes, tactile timers) are intentionally low-tech and accessible.
 
-#### #### How does social rhythm therapy for isolated older adults affect blood pressure and heart health?  
+#### How does social rhythm therapy for isolated older adults affect blood pressure and heart health?  
 Stable social rhythms support autonomic balance—particularly vagal tone—which helps regulate heart rate and arterial pressure. Observational studies link consistent daily routines with 7–10 mm Hg lower average systolic BP and reduced BP variability, both key markers of cardiovascular risk.
 
-#### #### Is it too late to start social rhythm therapy if I’ve felt down all through November?  
+#### Is it too late to start social rhythm therapy if I’ve felt down all through November?  
 No. Circadian systems remain responsive throughout life. Even initiating one anchor behavior—like consistent morning light exposure—can begin shifting rhythms within 3–5 days. Most people report improved energy and mood within two weeks.
 
-#### #### Do I need a mental health professional to practice social rhythm therapy for isolated older adults?  
+#### Do I need a mental health professional to practice social rhythm therapy for isolated older adults?  
 Not necessarily. While clinicians trained in interpersonal and social rhythm therapy (IPSRT) can offer personalized plans, many evidence-based strategies are self-guided and appropriate for independent use—especially with support from primary care providers or community health workers.

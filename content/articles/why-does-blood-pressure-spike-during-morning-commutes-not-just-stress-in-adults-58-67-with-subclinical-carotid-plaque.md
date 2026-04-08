@@ -61,17 +61,17 @@ In short, your morning commute isn’t just a logistical challenge — it’s a 
 
 ### FAQ
 
-#### #### Does traffic really cause morning blood pressure spike traffic exposure — or is it just anxiety?
+#### Does traffic really cause morning blood pressure spike traffic exposure — or is it just anxiety?
 Yes — multiple ABPM studies confirm that *morning blood pressure spike traffic exposure* occurs independently of self-reported anxiety. Objective markers like elevated salivary cortisol, heart rate variability shifts, and carotid-femoral pulse wave velocity rise within minutes of entering traffic, even in participants who report low subjective stress.
 
-#### #### Can morning blood pressure spike traffic exposure increase stroke risk?
+#### Can morning blood pressure spike traffic exposure increase stroke risk?
 Potentially — yes. Repeated systolic surges ≥150 mm Hg during peak cerebral perfusion hours (6–10 a.m.) correlate with increased microbleed burden on MRI in adults with carotid plaque. While causality isn’t proven, guidelines now classify pronounced morning surges as a “modifiable risk enhancer” for cerebrovascular events.
 
-#### #### Is morning blood pressure spike traffic exposure more dangerous for older adults?
+#### Is morning blood pressure spike traffic exposure more dangerous for older adults?
 It is — particularly for those aged 58–67 with subclinical atherosclerosis. Age-related arterial stiffening + early plaque reduces vascular buffering capacity, making systolic surges both larger (often >25 mm Hg) and slower to resolve — extending the window of hemodynamic strain.
 
-#### #### What’s the difference between normal morning BP rise and abnormal morning blood pressure spike traffic exposure?
+#### What’s the difference between normal morning BP rise and abnormal morning blood pressure spike traffic exposure?
 A healthy circadian rise is gradual: ~5–10 mm Hg systolic increase from lowest nocturnal value, peaking around 8–9 a.m. *Morning blood pressure spike traffic exposure* is abrupt, situational, and disproportionate — typically ≥20 mm Hg above baseline within <10 minutes of traffic onset — and absent during non-commute mornings.
 
-#### #### Can medication timing affect morning blood pressure spike traffic exposure?
+#### Can medication timing affect morning blood pressure spike traffic exposure?
 Possibly. Some long-acting antihypertensives (e.g., certain calcium channel blockers or ARBs) dosed at bedtime may better blunt the early-morning surge — though individual response varies. Always consult your prescriber before adjusting timing or dose.

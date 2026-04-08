@@ -68,17 +68,17 @@ Holiday seasons bring joy—and sometimes added pressure to “do it all.” But
 
 ### FAQ
 
-#### #### Does walking after dinner lower blood sugar more than standing for seniors with neuropathy?  
+#### Does walking after dinner lower blood sugar more than standing for seniors with neuropathy?  
 Yes—studies using CGM data show walking lowers 2-hour postprandial glucose significantly more than standing in adults 72+ with peripheral neuropathy, largely due to greater muscle fiber recruitment and improved microcirculation in the feet.
 
-#### #### What’s the best time to walk after dinner for glucose control?  
+#### What’s the best time to walk after dinner for glucose control?  
 Starting 30 minutes after finishing your meal is ideal—it aligns with peak glucose rise and gives your digestive system time to begin processing food.
 
-#### #### Is walking vs standing post-dinner glucose affected by holiday meals?  
+#### Is walking vs standing post-dinner glucose affected by holiday meals?  
 Absolutely. Higher-carb, higher-fat holiday meals tend to cause larger and longer-lasting glucose spikes—making post-meal movement even more valuable. Even modest walking helps blunt those peaks safely.
 
-#### #### Can standing while wrapping gifts count as exercise for blood sugar?  
+#### Can standing while wrapping gifts count as exercise for blood sugar?  
 It contributes minimally—standing burns only about 1.3 METs (metabolic equivalents) versus ~2.5–3.0 METs for slow mall walking. For meaningful glucose impact, aim for rhythmic, weight-bearing movement.
 
-#### #### Should I check my blood sugar after walking or standing?  
+#### Should I check my blood sugar after walking or standing?  
 Yes—measuring at 2 hours post-dinner gives the clearest picture of how that specific activity influenced your glucose response. Pair it with notes on how your feet felt for a fuller understanding.

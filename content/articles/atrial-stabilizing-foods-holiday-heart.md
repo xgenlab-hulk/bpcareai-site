@@ -57,17 +57,17 @@ Supporting your atria doesn’t mean perfection—it means kindness, consistency
 
 ### FAQ
 
-#### #### Can atrial-stabilizing foods holiday heart really reduce AFib episodes?
+#### Can atrial-stabilizing foods holiday heart really reduce AFib episodes?
 Yes—though not as standalone treatment. Clinical nutrition studies (including the 2022 PEARL-AF cohort) found adults 60+ who regularly included ≥3 atrial-stabilizing foods weekly had a 22% lower rate of documented paroxysmal AFib episodes over 6 months—likely due to improved connexin-40 coupling and reduced atrial fibrosis markers.
 
-#### #### What are the best atrial-stabilizing foods holiday heart options for someone avoiding alcohol *and* dairy?
+#### What are the best atrial-stabilizing foods holiday heart options for someone avoiding alcohol *and* dairy?
 Excellent question. Focus on low-histamine, non-fermented-dairy options: steamed bok choy (rich in magnesium and apigenin), soaked and roasted almonds (not walnuts, if nut-sensitive), and stewed apples with ginger—plus the pear compote mentioned earlier. All support potassium channel function and mast-cell calm.
 
-#### #### Do I need genetic testing to know if atrial-stabilizing foods holiday heart will work for me?
+#### Do I need genetic testing to know if atrial-stabilizing foods holiday heart will work for me?
 No. While variants in genes like *KCNJ2* (affects IK1) or *GJA5* (encodes connexin-40) influence individual response, food-based support remains broadly beneficial across genotypes. Start with whole-food patterns first—testing is rarely needed for initial dietary strategy.
 
-#### #### Are canned or jarred kimchi effective for atrial stabilization?
+#### Are canned or jarred kimchi effective for atrial stabilization?
 Only if unpasteurized and refrigerated. Shelf-stable, vinegar-preserved “kimchi-style” products lack live cultures and polyphenol integrity needed for gut–heart signaling. Look for “naturally fermented,” “refrigerated section,” and ingredient lists with cabbage, sea salt, garlic, ginger—no preservatives.
 
-#### #### How soon might I notice rhythm differences after adding atrial-stabilizing foods?
+#### How soon might I notice rhythm differences after adding atrial-stabilizing foods?
 Most people report subtle improvements—like fewer morning PACs or steadier pulse upon waking—within 2–4 weeks of consistent intake. Electrophysiological changes (e.g., improved P-wave dispersion on ECG) may take 8–12 weeks to reflect in clinical measures. Patience and pattern-tracking are key.

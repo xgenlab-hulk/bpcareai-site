@@ -38,17 +38,17 @@ In short, New Year’s heart risk is real—but it’s also highly manageable wi
 
 ### FAQ
 
-#### #### What is New Year’s heart risk—and who’s most affected?
+#### What is New Year’s heart risk—and who’s most affected?
 New Year’s heart risk refers to the seasonal increase in cardiac events like atrial fibrillation and hypertension spikes between late December and early January. Adults aged 55+ are most vulnerable due to age-related declines in vascular compliance and autonomic regulation—especially those with existing high BP, diabetes, or prior heart conditions.
 
-#### #### Can New Year’s heart risk happen even if I don’t drink much?
+#### Can New Year’s heart risk happen even if I don’t drink much?
 Yes. While alcohol is a major contributor, other factors—including sleep loss, emotional stress, sodium overload, and medication disruptions—can independently raise cardiac strain. Studies confirm cases of holiday heart syndrome in non-drinkers, particularly among those with uncontrolled hypertension or obstructive sleep apnea.
 
-#### #### How does New Year’s heart risk differ from regular high blood pressure?
+#### How does New Year’s heart risk differ from regular high blood pressure?
 Unlike chronic hypertension—which develops over years—New Year’s heart risk involves *acute, reversible* elevations often tied to transient behaviors. Systolic BP may jump 20–30 mm Hg above baseline during festivities, increasing short-term stroke and arrhythmia risk—even in previously well-controlled individuals.
 
-#### #### Is holiday heart syndrome only about arrhythmias?
+#### Is holiday heart syndrome only about arrhythmias?
 No. Though atrial fibrillation is the most studied manifestation, New Year’s heart risk also includes acute hypertensive episodes, angina exacerbations, and decompensated heart failure—especially in those with preexisting cardiovascular disease.
 
-#### #### What’s the safest way to enjoy New Year’s Eve without triggering heart issues?
+#### What’s the safest way to enjoy New Year’s Eve without triggering heart issues?
 Plan ahead: eat a balanced meal before attending events, alternate alcoholic drinks with water, step outside for quiet moments to reset your nervous system, and commit to at least 6.5 hours of sleep—even if it means leaving the party early. Listen to your body, not just the countdown.

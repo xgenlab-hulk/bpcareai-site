@@ -72,22 +72,22 @@ We know navigating changes in medication can feel unsettling—but remember, car
 
 ### FAQ
 
-#### #### Can blood pressure medication tapering elderly cause a stroke?
+#### Can blood pressure medication tapering elderly cause a stroke?
 
 Not directly—but rapid or poorly monitored tapering *can* lead to rebound hypertension or orthostatic drops, both of which increase stroke risk. Slow, guided adjustments with regular monitoring significantly reduce this risk.
 
-#### #### Is blood pressure medication tapering elderly safe if my eGFR is 38?
+#### Is blood pressure medication tapering elderly safe if my eGFR is 38?
 
 Yes—it can be both safe and advisable. An eGFR under 45 mL/min/1.73m² increases vulnerability to RAS blocker side effects. Tapering—often starting with discontinuing one agent—may protect kidney function and improve symptoms like fatigue or dizziness.
 
-#### #### How long does it take for the body to adjust after blood pressure medication tapering elderly?
+#### How long does it take for the body to adjust after blood pressure medication tapering elderly?
 
 RAAS system adaptation typically takes 4–6 weeks. However, clinical stability—measured by consistent BP readings, stable creatinine/potassium, and absence of symptoms—is usually assessed over 2–4 weeks before further changes.
 
-#### #### What’s the difference between deprescribing and stopping medication abruptly?
+#### What’s the difference between deprescribing and stopping medication abruptly?
 
 Deprescribing is a planned, evidence-informed process involving shared decision-making, gradual dose reductions, and close follow-up. Stopping abruptly—especially with RAS blockers or beta-blockers—can trigger dangerous rebounds or withdrawal effects.
 
-#### #### Do I need to change my diet during blood pressure medication tapering elderly?
+#### Do I need to change my diet during blood pressure medication tapering elderly?
 
 You may need to adjust potassium or sodium intake depending on your labs and symptoms. For example, if potassium runs high while on an ACE inhibitor, your provider may suggest moderating high-potassium foods (like bananas, oranges, spinach). Always consult your care team before making dietary changes.

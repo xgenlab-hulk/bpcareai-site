@@ -82,22 +82,22 @@ Supporting your baroreflex doesn’t require drastic changes—it asks only for 
 
 ### FAQ
 
-#### #### What is natural baroreflex sensitivity enhancement—and is it safe for seniors?
+#### What is natural baroreflex sensitivity enhancement—and is it safe for seniors?
 
 Natural baroreflex sensitivity enhancement refers to non-pharmacologic, non-supplemental strategies—such as controlled temperature exposure and intentional posture—that support the body’s innate ability to regulate blood pressure via the baroreflex arc. For adults 66+, studies confirm safety and feasibility when applied as described (e.g., brief forehead cooling, 30° recline). No adverse events were reported in trials involving participants up to age 82.
 
-#### #### Can natural baroreflex sensitivity enhancement replace my blood pressure medication?
+#### Can natural baroreflex sensitivity enhancement replace my blood pressure medication?
 
 No. These strategies are supportive—not substitutive—for diagnosed hypertension requiring medication. However, in confirmed white-coat hypertension (normal ambulatory BP), they may help reduce unnecessary treatment escalation and support long-term autonomic resilience. Always discuss adjustments to your care plan with your prescribing clinician.
 
-#### #### How soon can I expect to see changes in my blood pressure or HRV with these methods?
+#### How soon can I expect to see changes in my blood pressure or HRV with these methods?
 
 Most participants in clinical studies observed measurable HRV shifts (e.g., +15–35% rMSSD) within 3–5 days of consistent twice-daily practice. Blood pressure stabilization—particularly reduced clinic-office variability—typically becomes apparent after 2–3 weeks. Individual responses vary based on baseline autonomic function and adherence.
 
-#### #### Does deep breathing count as natural baroreflex sensitivity enhancement?
+#### Does deep breathing count as natural baroreflex sensitivity enhancement?
 
 While slow, diaphragmatic breathing *does* enhance vagal tone and is beneficial, it’s mechanistically distinct from the specific trigeminal and postural stimuli discussed here. The cool-forehead and 30° recline protocols target baroreceptor *input fidelity* more directly—and have been validated in HRV-BP coupling studies specifically for white-coat patterns. Breathing remains an excellent complementary practice.
 
-#### #### Are there any conditions where I should avoid these strategies?
+#### Are there any conditions where I should avoid these strategies?
 
 Yes. Avoid forehead cooling if you have cold-aggravated migraines, severe trigeminal neuralgia, or active facial skin infection. Avoid the 30° recline if you have uncontrolled GERD, severe orthopnea, or recent spinal fusion (within 6 months). When in doubt, consult your physician or a certified cardiac rehab specialist.

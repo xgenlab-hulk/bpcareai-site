@@ -70,17 +70,17 @@ In summary, seasonal shifts in social connection carry real physiological conseq
 
 ### FAQ
 
-#### #### Does social isolation winter atherosclerosis affect people without prior heart disease?  
+#### Does social isolation winter atherosclerosis affect people without prior heart disease?  
 While the strongest evidence links *social isolation winter atherosclerosis* to plaque instability in post-MI patients, emerging data suggest similar IL-6 surges occur in older adults with hypertension or diabetes — increasing subclinical arterial inflammation. Risk is lower without established heart disease, but not absent.
 
-#### #### How long does it take for social isolation winter atherosclerosis effects to appear?  
+#### How long does it take for social isolation winter atherosclerosis effects to appear?  
 Biological changes — including IL-6 elevation and EMP release — begin within 7–10 days of sustained social withdrawal. Peak inflammatory markers typically occur after 3–4 weeks of reduced interaction, especially when combined with shorter daylight and colder temperatures.
 
-#### #### Can light therapy help reduce social isolation winter atherosclerosis risk?  
+#### Can light therapy help reduce social isolation winter atherosclerosis risk?  
 Light therapy (10,000 lux for 30 minutes daily) improves circadian regulation and mood — indirectly supporting social engagement. In WINTER-HEART, participants using light therapy were 2.3× more likely to maintain scheduled social contact, correlating with 17% lower IL-6 levels.
 
-#### #### What’s the difference between loneliness and social isolation winter atherosclerosis?  
+#### What’s the difference between loneliness and social isolation winter atherosclerosis?  
 Loneliness is subjective (feeling disconnected despite contact); social isolation is objective (measurable lack of interaction). *Social isolation winter atherosclerosis* refers specifically to the objective, seasonal reduction in contact that drives measurable vascular inflammation — not just the emotional state.
 
-#### #### Are there medications that counteract IL-6 increases from social isolation winter atherosclerosis?  
+#### Are there medications that counteract IL-6 increases from social isolation winter atherosclerosis?  
 No approved drugs target IL-6 solely for this purpose. However, statins and low-dose colchicine (in select patients) show secondary anti-IL-6 effects. Lifestyle and social rhythm interventions remain first-line and evidence-supported.

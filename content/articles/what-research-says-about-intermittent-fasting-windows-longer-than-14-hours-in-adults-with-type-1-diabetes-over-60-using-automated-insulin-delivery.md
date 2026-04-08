@@ -67,22 +67,22 @@ The goal isn’t rigid adherence to a fasting schedule—it’s sustainable, ind
 
 ### FAQ
 
-#### #### Is intermittent fasting safe for seniors with type 1 diabetes?
+#### Is intermittent fasting safe for seniors with type 1 diabetes?
 
 Yes—*with careful planning and supervision*. Studies show safety hinges on AID system familiarity, baseline glycemic stability, and absence of high-risk comorbidities. Unsupervised fasting remains strongly discouraged.
 
-#### #### Can intermittent fasting type 1 diabetes seniors improve time-in-range?
+#### Can intermittent fasting type 1 diabetes seniors improve time-in-range?
 
 Not consistently. In fact, fasting windows >14 hours were linked to *reduced* time-in-range in recent cohorts—especially without tailored AID settings and evening nutrition.
 
-#### #### Does age affect ketosis risk during intermittent fasting in type 1 diabetes?
+#### Does age affect ketosis risk during intermittent fasting in type 1 diabetes?
 
 Yes. Older adults exhibit slower ketone clearance and altered fat metabolism. One cohort found ketosis lasted 2.7× longer in participants over 65 versus those aged 40–55—even with similar insulin doses and glucose levels.
 
-#### #### Do automated insulin delivery systems eliminate fasting risks in type 1 diabetes?
+#### Do automated insulin delivery systems eliminate fasting risks in type 1 diabetes?
 
 No. While AID systems reduce hypoglycemia frequency, they don’t prevent ketosis, counterregulatory failure, or post-fasting glucose surges—particularly in aging physiology where glucagon and epinephrine responses are blunted.
 
-#### #### What’s the safest fasting window for older adults with type 1 diabetes?
+#### What’s the safest fasting window for older adults with type 1 diabetes?
 
 Evidence supports starting with 12–13 hour overnight fasts (e.g., dinner at 7 p.m., breakfast at 7–8 a.m.). Extending beyond 14 hours should only occur after reviewing ≥14 days of CGM data with your care team.

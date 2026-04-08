@@ -40,22 +40,22 @@ Holiday traditions needn’t be traded for health—they can be gently updated. 
 
 ### FAQ
 
-#### #### Is unsweetened apple cider really better for artery health than diet eggnog in seniors?
+#### Is unsweetened apple cider really better for artery health than diet eggnog in seniors?
 
 Yes—especially for those aged 66–80 with early atherosclerosis. Clinical data show that the polyphenols in simmered apple cider improve postprandial endothelial function, whereas sucralose in diet eggnog may suppress nitric oxide. This makes *apple cider vs eggnog endothelial function seniors* a meaningful comparison for vascular wellness.
 
-#### #### Can I still enjoy eggnog if I have high blood pressure?
+#### Can I still enjoy eggnog if I have high blood pressure?
 
 You can—especially if you choose a homemade version sweetened lightly with maple syrup or monk fruit and made with low-fat milk and no added sodium. Store-bought “diet” versions often contain emulsifiers and artificial sweeteners linked to variable endothelial responses in older adults. Prioritize ingredient transparency and avoid products with more than five unrecognizable ingredients.
 
-#### #### #### Does apple cider vs eggnog endothelial function seniors apply to people with diabetes?
+#### #### Does apple cider vs eggnog endothelial function seniors apply to people with diabetes?
 
 Yes—particularly because postprandial endothelial dysfunction is heightened in insulin resistance. Polyphenols in apple cider may improve glucose-mediated NO signaling, while sucralose has shown mixed effects on glycemic variability in older adults with type 2 diabetes.
 
-#### #### What’s the best way to prepare heart-healthy apple cider at home?
+#### What’s the best way to prepare heart-healthy apple cider at home?
 
 Simmer 4 cups unsweetened apple juice (no added sugars), 1 cinnamon stick, 3 cloves, and 1 star anise over low heat for 15 minutes—do not boil vigorously. Strain and serve warm. Avoid caramel or brown sugar additions; spices alone enhance polyphenol extraction without spiking glucose.
 
-#### #### How soon after drinking can I expect to see changes in my blood flow or BP?
+#### How soon after drinking can I expect to see changes in my blood flow or BP?
 
 Most measurable vascular changes occur between 60–120 minutes post-consumption. Pulse amplitude tonometry detects shifts within 90 minutes, while home BP may reflect subtle systolic reductions (~5–8 mm Hg) in responsive individuals—especially when paired with light movement like walking post-meal.

@@ -63,22 +63,22 @@ Managing blood pressure in the context of low testosterone and elevated hematocr
 
 ### FAQ
 
-#### #### Does low testosterone cause high hematocrit and high blood pressure?
+#### Does low testosterone cause high hematocrit and high blood pressure?
 
 Yes—testosterone stimulates erythropoiesis and can raise hematocrit, especially in older men or those on TRT. While not all men with low testosterone develop hypertension, the combination of increased viscosity and endothelial dysfunction can elevate systolic blood pressure and complicate management.
 
-#### #### What is a safe hematocrit level for men with low testosterone and high BP?
+#### What is a safe hematocrit level for men with low testosterone and high BP?
 
 For men over 70 with low testosterone, hematocrit above 49% warrants closer review. Levels ≥50% increase thrombotic risk and may require intervention (e.g., therapeutic phlebotomy or TRT dose adjustment), especially if systolic BP is also elevated.
 
-#### #### How do low testosterone hematocrit bp targets differ from standard guidelines?
+#### How do low testosterone hematocrit bp targets differ from standard guidelines?
 
 Standard guidelines (e.g., ACC/AHA) recommend SBP <130 mm Hg for most adults—but in men with low testosterone and hematocrit >48%, evidence supports SBP targets of 135–145 mm Hg to maintain cerebral and coronary perfusion while minimizing orthostatic risk.
 
-#### #### Can high hematocrit lower blood pressure?
+#### Can high hematocrit lower blood pressure?
 
 Not directly—but very high hematocrit (>55%) can impair microcirculation and cardiac output, leading to compensatory tachycardia and *labile* BP—including episodes of hypotension—especially when combined with antihypertensive medications.
 
-#### #### Should I stop testosterone therapy if my hematocrit is high?
+#### Should I stop testosterone therapy if my hematocrit is high?
 
 Not necessarily—but hematocrit should be monitored every 3–6 months on TRT. If it rises above 50%, your provider may pause treatment temporarily, adjust dose, or investigate contributing factors like undiagnosed sleep apnea or iron status.

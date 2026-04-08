@@ -89,22 +89,22 @@ Nocturnal blood pressure spikes signs don’t mean something is inevitably “wr
 
 ### FAQ
 
-#### #### What are the most common nocturnal blood pressure spikes signs in older adults?
+#### What are the most common nocturnal blood pressure spikes signs in older adults?
 
 The most frequently reported **nocturnal blood pressure spikes signs** in adults over 65 include waking with a dry mouth or sore throat, frequent nighttime urination (nocturia), morning headaches, unexplained fatigue upon waking, and palpitations or a racing heartbeat first thing in the morning. These reflect underlying physiological shifts—not necessarily emergencies—but meaningful patterns worth exploring.
 
-#### #### Can beta-blockers cause nighttime blood pressure spikes?
+#### Can beta-blockers cause nighttime blood pressure spikes?
 
 Beta-blockers themselves don’t *cause* spikes—but some (especially shorter-acting ones like atenolol) may wear off overnight, leaving less protection during natural early-morning BP surges. In addition, beta-blockers don’t treat sleep apnea or autonomic imbalances, which are common drivers of nocturnal hypertension in older adults.
 
-#### #### How do I know if my blood pressure is spiking at night?
+#### How do I know if my blood pressure is spiking at night?
 
 Since symptoms are often subtle, the most reliable way is ambulatory blood pressure monitoring (ABPM)—a 24-hour test that records readings during sleep. At home, consistent pre-bed and wake-up readings (taken while lying down, after resting 5 minutes) can reveal trends. Look for nighttime systolic values consistently above 120 mm Hg or loss of the normal 10–20% dip.
 
-#### #### Is nocturnal hypertension the same as white coat hypertension?
+#### Is nocturnal hypertension the same as white coat hypertension?
 
 No—they’re very different. White coat hypertension means BP rises *only* in clinical settings due to anxiety. Nocturnal hypertension means BP stays elevated—or even rises—*during sleep*, often without symptoms. It’s associated with higher cardiovascular risk and requires different evaluation and management.
 
-#### #### What time of night does blood pressure usually spike?
+#### What time of night does blood pressure usually spike?
 
 Blood pressure typically begins rising in the early morning hours—between 3 a.m. and 6 a.m.—as part of the body’s natural circadian rhythm. This “morning surge” is normal, but in people with nocturnal hypertension, the rise starts earlier (sometimes after midnight) and may be steeper—often exceeding a 20 mm Hg increase in systolic pressure.

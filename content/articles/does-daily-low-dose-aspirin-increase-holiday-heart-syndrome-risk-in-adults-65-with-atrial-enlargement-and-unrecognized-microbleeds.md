@@ -44,17 +44,17 @@ In summary, while daily low-dose aspirin remains appropriate for many older adul
 
 ### FAQ
 
-#### #### Does aspirin cause holiday heart syndrome in people with atrial enlargement?
+#### Does aspirin cause holiday heart syndrome in people with atrial enlargement?
 No—low-dose aspirin does not directly cause holiday heart syndrome. However, in adults 65+ with atrial enlargement *and* cerebral microbleeds, chronic aspirin use may subtly impair autonomic buffering, potentially increasing vulnerability to alcohol-triggered arrhythmias. It’s about context, not causation.
 
-#### #### Can aspirin holiday heart syndrome atrial enlargement be prevented?
+#### Can aspirin holiday heart syndrome atrial enlargement be prevented?
 Yes—through targeted prevention: limiting alcohol intake, optimizing blood pressure control (<130/80 mm Hg for most 65+ adults), reviewing aspirin necessity with your provider, and addressing modifiable contributors like sleep apnea or electrolyte imbalances.
 
-#### #### Is it safe to take aspirin during the holidays if I have an enlarged left atrium?
+#### Is it safe to take aspirin during the holidays if I have an enlarged left atrium?
 It depends on your overall risk-benefit profile. If aspirin was prescribed for secondary prevention (e.g., after a heart attack or stroke), continue as directed. If it’s for primary prevention—and you have atrial enlargement plus other vascular risk factors—discuss timing, dose, or alternatives with your cardiologist or geriatrician.
 
-#### #### What are early signs of holiday heart syndrome?
+#### What are early signs of holiday heart syndrome?
 Palpitations, a racing or irregular pulse, shortness of breath with minimal activity, lightheadedness, or unusual fatigue within 12–36 hours after alcohol consumption—even if you’ve never had heart issues before.
 
-#### #### Does aspirin increase bleeding risk in the brain during holiday drinking?
+#### Does aspirin increase bleeding risk in the brain during holiday drinking?
 Alcohol itself raises intracranial hemorrhage risk, especially in those with microbleeds or amyloid angiopathy. Aspirin adds a modest additional antiplatelet effect, but the bigger concern is the *combination* of alcohol-induced BP surges, impaired baroreflex, and reduced clotting reserve—not aspirin alone.

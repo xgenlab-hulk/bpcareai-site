@@ -57,22 +57,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does age-adjusted troponin I mean my “normal” level is higher?
+#### Does age-adjusted troponin I mean my “normal” level is higher?
 
 Not necessarily. While the 99th percentile does rise modestly with age (e.g., ~0.042 ng/mL for ages 76+ vs. ~0.032 for ages 50–64), this small shift shouldn’t be used to dismiss elevations that trend upward or appear alongside symptoms. The *age-adjusted troponin i myths* often exaggerate how much “normal” changes—leading to missed opportunities for early intervention.
 
-#### #### Are age-adjusted troponin I myths dangerous for older adults?
+#### Are age-adjusted troponin I myths dangerous for older adults?
 
 Yes—when they lead clinicians to overlook subthreshold troponin I rises in people with acute heart failure or other cardiac stressors. Studies show these “borderline” elevations predict worse outcomes, including higher 30-day mortality. Recognizing and addressing *age-adjusted troponin i myths* helps ensure timely, personalized care.
 
-#### #### What’s the difference between troponin I and troponin T?
+#### What’s the difference between troponin I and troponin T?
 
 Both are heart-specific proteins released during injury, but troponin I (cTnI) is more cardiac-specific and less affected by kidney function than troponin T (cTnT). High-sensitivity troponin I (hs-cTnI) is now preferred in many centers for older adults due to its precision and reliability—even in mild renal impairment.
 
-#### #### Can medications affect troponin I levels?
+#### Can medications affect troponin I levels?
 
 Most routine medications (like statins or blood pressure drugs) don’t directly raise troponin I. However, conditions these meds treat—such as uncontrolled hypertension or severe anemia—can increase cardiac strain and troponin release. Always share your full medication list with your care team.
 
-#### #### Is troponin I testing useful for routine checkups in healthy older adults?
+#### Is troponin I testing useful for routine checkups in healthy older adults?
 
 Not routinely. Troponin I is a diagnostic tool—not a screening test. It’s most helpful when evaluating possible heart injury (e.g., chest pain, shortness of breath, ECG changes). For prevention, focus on managing blood pressure, staying active, eating heart-healthy foods, and attending regular check-ins with your provider.

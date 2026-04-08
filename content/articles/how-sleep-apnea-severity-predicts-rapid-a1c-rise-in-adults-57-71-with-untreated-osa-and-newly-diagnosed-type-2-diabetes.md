@@ -66,22 +66,22 @@ You’re not alone in navigating both sleep and blood sugar changes—and the go
 
 ### FAQ
 
-#### #### Does untreated sleep apnea cause faster A1C rise in older adults with type 2 diabetes?
+#### Does untreated sleep apnea cause faster A1C rise in older adults with type 2 diabetes?
 
 Yes—especially in adults 57–71. Studies show untreated OSA correlates with a 0.5–1.0% annual A1C increase, nearly double the typical rate, due to hypoxia-driven insulin resistance.
 
-#### #### What AHI level signals high risk for sleep apnea A1C rise untreated OSA?
+#### What AHI level signals high risk for sleep apnea A1C rise untreated OSA?
 
 An AHI greater than 15 events per hour is considered a critical threshold. That’s when the hypoxia–HIF-1α–IRS-1 pathway becomes significantly activated, accelerating glycemic deterioration.
 
-#### #### Can treating sleep apnea lower A1C in people with newly diagnosed type 2 diabetes?
+#### Can treating sleep apnea lower A1C in people with newly diagnosed type 2 diabetes?
 
 Yes—clinical trials report modest but meaningful A1C reductions (average 0.3–0.5%) within 3–6 months of consistent CPAP use, particularly when started early after diabetes diagnosis.
 
-#### #### Is snoring alone enough to predict sleep apnea A1C rise untreated OSA?
+#### Is snoring alone enough to predict sleep apnea A1C rise untreated OSA?
 
 Not necessarily—but loud, habitual snoring *plus* daytime fatigue, observed pauses in breathing, or hypertension should prompt evaluation. Snoring is a marker—not a diagnosis—but it’s a valuable clue.
 
-#### #### How does low oxygen from sleep apnea affect insulin resistance?
+#### How does low oxygen from sleep apnea affect insulin resistance?
 
 Repeated oxygen drops trigger HIF-1α, which modifies IRS-1 through serine phosphorylation. This disrupts insulin signaling in muscle and fat tissue—making it harder for glucose to enter cells, raising fasting and post-meal glucose, and elevating A1C over time.

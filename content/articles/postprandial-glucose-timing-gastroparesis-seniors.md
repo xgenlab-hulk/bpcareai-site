@@ -88,17 +88,17 @@ Living well with changing digestion and glucose patterns isn’t about fixing so
 
 ### FAQ
 
-#### #### What’s the best postprandial glucose timing for seniors with gastroparesis?
+#### What’s the best postprandial glucose timing for seniors with gastroparesis?
 The most reliable approach is personalized: start with checks at 2.5, 3, and 4 hours after dinner, then adjust based on symptoms and patterns. Avoid rigid 2-hour-only rules — research confirms they miss true peaks in over 60% of older adults with delayed gastric emptying.
 
-#### #### How does gastroparesis affect postprandial glucose timing in seniors?
+#### How does gastroparesis affect postprandial glucose timing in seniors?
 Gastroparesis slows how quickly food leaves the stomach, delaying glucose absorption into the bloodstream. This pushes peak blood sugar readings later — often between 3–5 hours instead of 1–2 — making standard timing inaccurate and potentially masking hyperglycemic stress.
 
-#### #### Is postprandial glucose timing gastroparesis seniors different from general diabetes monitoring?
+#### Is postprandial glucose timing gastroparesis seniors different from general diabetes monitoring?
 Yes. Standard diabetes guidelines assume typical gastric emptying. For seniors with gastroparesis-like symptoms, glucose appears later, rises more gradually, and may be followed by reactive lows — requiring longer monitoring windows and symptom-integrated interpretation.
 
-#### #### Can breath acetone help predict when my glucose will peak?
+#### Can breath acetone help predict when my glucose will peak?
 Emerging evidence suggests yes. Elevated breath acetone (detectable as a faint fruity or metallic taste) correlates with fat metabolism dominance and delayed carbohydrate processing. When noted alongside digestive symptoms, it’s a useful cue to check glucose at 3.5–4.5 hours.
 
-#### #### Do I need a gastric emptying scan to know if I have gastroparesis?
+#### Do I need a gastric emptying scan to know if I have gastroparesis?
 Not necessarily. Many older adults manage well using symptom diaries and extended glucose sampling. Scans (like scintigraphy or breath tests) are helpful when symptoms are severe or unclear — but they’re not required to begin smarter, individualized timing.

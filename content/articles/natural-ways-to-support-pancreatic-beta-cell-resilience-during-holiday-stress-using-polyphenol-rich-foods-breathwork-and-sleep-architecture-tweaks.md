@@ -44,22 +44,22 @@ In closing, supporting your body’s natural capacity for beta-cell resilience h
 
 ### FAQ
 
-#### #### Can holiday stress really affect my pancreas—even if I don’t have diabetes?
+#### Can holiday stress really affect my pancreas—even if I don’t have diabetes?
 
 Yes. Research shows that acute psychosocial stress alters ER stress markers and insulin granule trafficking in healthy adults, reducing first-phase insulin response by up to 20%. This is part of normal physiology—not pathology—but repeated exposure without recovery may accelerate beta-cell decline over time.
 
-#### #### What foods best support beta-cell resilience holiday stress?
+#### What foods best support beta-cell resilience holiday stress?
 
 Focus on diversity and color: pomegranate (ellagic acid), red onions (quercetin), green tea (EGCG), and dark berries (anthocyanins). These compounds modulate unfolded protein response pathways and reduce oxidative burden on beta cells—especially when consumed with meals containing complex carbs.
 
-#### #### How does poor sleep impact beta-cell resilience holiday stress?
+#### How does poor sleep impact beta-cell resilience holiday stress?
 
 Slow-wave sleep (SWS) drives nocturnal autophagy—the process that clears misfolded proteins from beta cells. Holiday-related sleep fragmentation reduces SWS by ~25%, increasing ER stress biomarkers like GRP78 within 48 hours. Prioritizing sleep consistency matters more than total duration alone.
 
-#### #### Does deep breathing help beta-cell function—or is it just for relaxation?
+#### Does deep breathing help beta-cell function—or is it just for relaxation?
 
 It helps both. Controlled diaphragmatic breathing increases vagal tone, which stimulates acetylcholine release—directly enhancing beta-cell insulin synthesis and suppressing pro-inflammatory NF-κB signaling. Clinical trials report improved HOMA-B (beta-cell function index) after 4 weeks of daily breathwork.
 
-#### #### Are there warning signs that my beta-cell resilience holiday stress is declining?
+#### Are there warning signs that my beta-cell resilience holiday stress is declining?
 
 Yes—look for subtle but persistent shifts: rising morning glucose (>110 mg/dL), increased thirst or fatigue after carbohydrate-rich meals, or needing longer recovery after social events. These may reflect early functional adaptation—not failure—and are often reversible with lifestyle support.

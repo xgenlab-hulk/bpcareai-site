@@ -79,17 +79,17 @@ Understanding how *grandparenting sleep cortisol fasting glucose* interconnects 
 
 ### FAQ  
 
-#### #### How does grandparenting sleep cortisol fasting glucose affect my diabetes management?  
+#### How does grandparenting sleep cortisol fasting glucose affect my diabetes management?  
 Grandparenting-related sleep fragmentation disrupts your body’s natural cortisol rhythm—leading to higher-than-expected morning glucose levels (often called the “dawn phenomenon”). This isn’t just about less sleep; it’s about *how* sleep is interrupted, which affects hormonal signaling directly. Over time, repeated disruptions may contribute to A1c creep—even if meals and medications stay unchanged.
 
-#### #### Can improving my sleep really lower my fasting glucose, even at age 70+?  
+#### Can improving my sleep really lower my fasting glucose, even at age 70+?  
 Yes. Research shows older adults with type 2 diabetes who improve sleep continuity (e.g., reducing nighttime awakenings by ≥30%) see average fasting glucose reductions of 12–22 mg/dL within 4 weeks. The body’s capacity to regulate cortisol and glucose remains responsive well into the 70s and beyond—especially with consistent, gentle behavioral support.
 
-#### #### Is grandparenting sleep cortisol fasting glucose different from general stress-related high blood sugar?  
+#### Is grandparenting sleep cortisol fasting glucose different from general stress-related high blood sugar?  
 Yes. General psychological stress tends to raise glucose *acutely* via epinephrine and transient insulin resistance. *Grandparenting sleep cortisol fasting glucose*, however, reflects chronic, rhythm-specific HPA dysregulation—characterized by elevated *nocturnal* and *early-morning* cortisol, distinct from daytime stress responses. This makes timing of interventions (e.g., morning light, pre-bed protein) especially important.
 
-#### #### What’s the link between high fasting glucose and blood pressure in grandparents with diabetes?  
+#### What’s the link between high fasting glucose and blood pressure in grandparents with diabetes?  
 Elevated fasting glucose and disrupted cortisol both contribute to endothelial dysfunction and increased sympathetic nervous system activity—factors that raise arterial pressure. Studies show adults 66+ with type 2 diabetes and abnormal cortisol rhythms are 2.3× more likely to have systolic BP ≥140 mm Hg—highlighting why integrated sleep-metabolic-cardiovascular care is essential.
 
-#### #### Do I need blood tests to know if grandparenting sleep cortisol fasting glucose is affecting me?  
+#### Do I need blood tests to know if grandparenting sleep cortisol fasting glucose is affecting me?  
 Not necessarily. You can start with self-monitoring: track fasting glucose for 10 days alongside notes on sleep quality, awakenings, and morning energy. Consistent pre-breakfast readings >130 mg/dL—especially when paired with fatigue or difficulty falling back asleep—suggest this pathway is active. Salivary cortisol testing is helpful but optional for initial assessment.

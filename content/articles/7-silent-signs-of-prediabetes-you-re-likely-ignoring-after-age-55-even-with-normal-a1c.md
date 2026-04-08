@@ -66,22 +66,22 @@ In short, noticing these quiet signals isn’t a cause for alarm—it’s an opp
 
 ### FAQ
 
-#### #### What are the silent signs of prediabetes after 55 that doctors often miss?
+#### What are the silent signs of prediabetes after 55 that doctors often miss?
 
 Commonly overlooked signs include nocturnal leg cramps, transient blurred vision upon standing, new or multiplying skin tags, post-meal fatigue, subtle increases in waist size despite stable weight, and mild neuropathic sensations (tingling, numbness). These reflect early metabolic and vascular changes—not just “aging.”
 
-#### #### Are silent signs of prediabetes after 55 different for men and women?
+#### Are silent signs of prediabetes after 55 different for men and women?
 
 Yes—women may notice more skin tags, recurrent yeast infections, or irregular periods linked to insulin-driven hormonal shifts. Men may experience earlier declines in energy, libido, or muscle tone. Both genders share risks related to abdominal fat accumulation and arterial stiffness.
 
-#### #### Can you have silent signs of prediabetes after 55 even with normal blood pressure?
+#### Can you have silent signs of prediabetes after 55 even with normal blood pressure?
 
 Absolutely. While high BP (≥130/80 mm Hg) often coexists with insulin resistance, many people develop early metabolic changes *before* BP rises. That’s why looking beyond BP—and checking glucose dynamics—is essential.
 
-#### #### Does a normal A1c rule out prediabetes after age 55?
+#### Does a normal A1c rule out prediabetes after age 55?
 
 Not necessarily. A1c reflects average glucose over ~3 months and can be falsely low in people with anemia, kidney disease, or rapid red blood cell turnover—conditions more common after 55. An OGTT or fasting insulin may reveal insulin resistance even with A1c <5.7%.
 
-#### #### How often should adults over 55 get tested for prediabetes?
+#### How often should adults over 55 get tested for prediabetes?
 
 The American Diabetes Association recommends screening every 3 years starting at age 45—but if you have risk factors (family history, high-normal BP, obesity, sedentary lifestyle) or notice any **silent signs of prediabetes after 55**, annual testing—or more frequent evaluation with advanced markers—is reasonable.

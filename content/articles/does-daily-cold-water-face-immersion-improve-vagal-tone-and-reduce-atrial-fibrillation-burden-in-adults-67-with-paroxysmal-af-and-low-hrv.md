@@ -78,17 +78,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does cold water face immersion help with AFib in older adults?
+#### Does cold water face immersion help with AFib in older adults?
 Yes—early evidence suggests it may modestly reduce AFib burden in adults 67+ with paroxysmal AFib and low HRV. In one randomized study, daily 30-second immersions led to a 14% drop in 30-day AFib burden—likely through improved vagal tone and HRV metrics like RMSSD and HF power.
 
-#### #### How does cold water face immersion affect vagal tone in people with AFib?
+#### How does cold water face immersion affect vagal tone in people with AFib?
 It activates the diving reflex, which stimulates the vagus nerve and increases parasympathetic output. This shows up as higher RMSSD (typically +20–25%) and elevated HF power (+15–20%) within 2–4 weeks of consistent practice—both signs of improved vagal tone.
 
-#### #### Is cold water face immersion afib vagal tone safe for seniors with heart disease?
+#### Is cold water face immersion afib vagal tone safe for seniors with heart disease?
 Generally yes—for stable, paroxysmal AFib without contraindications (e.g., severe bradycardia, recent heart surgery, or carotid sinus sensitivity). But always discuss with your cardiologist first—especially if you have heart disease, hypertension, or are on rate-controlling medications.
 
-#### #### How long should I do cold water face immersion for AFib?
+#### How long should I do cold water face immersion for AFib?
 Most studies used **30 seconds, once daily**, with water at 12–16°C (54–61°F). Longer durations or more frequent sessions haven’t shown added benefit—and may increase discomfort or vagal overstimulation in sensitive individuals.
 
-#### #### Can cold water face immersion replace my AFib medication?
+#### Can cold water face immersion replace my AFib medication?
 No. It is *not* a substitute for guideline-directed therapy—including anticoagulants, rate or rhythm control medications, or procedures like ablation. Think of it as complementary support—not standalone treatment.

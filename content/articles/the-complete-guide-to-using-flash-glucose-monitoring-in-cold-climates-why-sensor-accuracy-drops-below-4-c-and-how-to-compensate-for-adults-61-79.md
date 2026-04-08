@@ -54,22 +54,22 @@ Winter doesn’t have to mean guesswork. With thoughtful habits and a little pre
 
 ### FAQ
 
-#### #### Does cold weather affect Freestyle Libre sensors for older adults?
+#### Does cold weather affect Freestyle Libre sensors for older adults?
 
 Yes—especially below 4°C. Enzyme activity slows, potentially delaying detection of rapid glucose changes. Seniors may experience greater lag due to reduced peripheral circulation. Warming the reader before scanning and confirming outliers with fingersticks helps maintain reliability.
 
-#### #### How do I protect my flash glucose monitor in sub-zero temperatures?
+#### How do I protect my flash glucose monitor in sub-zero temperatures?
 
 Avoid exposing your sensor or reader to temperatures below –10°C (14°F) for extended periods. Keep your reader close to body heat (inner pocket), store spare sensors indoors at room temperature, and avoid scanning outdoors in extreme cold. Let the reader acclimate for 10–15 minutes after coming inside before use.
 
-#### #### Is flash glucose monitoring in cold climates seniors safe for people with neuropathy?
+#### Is flash glucose monitoring in cold climates seniors safe for people with neuropathy?
 
 It’s safe—but requires extra caution. Neuropathy can blunt cold-sensation and hypoglycemia awareness. Since cold also delays sensor response, pairing flash readings with regular fingersticks—especially before driving or physical activity—is strongly advised.
 
-#### #### Why does my Libre sensor fall off more often in winter?
+#### Why does my Libre sensor fall off more often in winter?
 
 Cold, dry air reduces adhesive effectiveness, and indoor heating further dries skin. Prep skin with alcohol-free wipes (not rubbing alcohol), apply gentle pressure for 60 seconds after placement, and consider using approved overpatches designed for active or cold-weather use.
 
-#### #### Do I need to recalibrate my flash glucose monitor in winter?
+#### Do I need to recalibrate my flash glucose monitor in winter?
 
 No—flash systems like Libre are factory-calibrated and don’t require user recalibration. However, you *should* verify unusual or symptomatic readings with a fingerstick test, particularly in cold conditions where signal lag is more likely.

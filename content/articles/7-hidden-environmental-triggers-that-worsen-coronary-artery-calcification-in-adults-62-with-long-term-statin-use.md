@@ -54,17 +54,17 @@ In summary, coronary artery calcification triggers seniors face are real, measur
 
 ### FAQ
 
-#### #### Can indoor air pollution really affect coronary artery calcification in older adults?  
+#### Can indoor air pollution really affect coronary artery calcification in older adults?  
 Yes. Studies show long-term exposure to indoor PM₂.₅ — especially above 12 µg/m³ — is associated with accelerated coronary artery calcification in seniors, even among those on statins. Sources include gas stoves, wood-burning fireplaces, and poor ventilation.
 
-#### #### What are the most common coronary artery calcification triggers seniors should watch for?  
+#### What are the most common coronary artery calcification triggers seniors should watch for?  
 The top three evidence-backed coronary artery calcification triggers seniors encounter regularly are: (1) chronic low-frequency noise (>45 dB at night), (2) indoor air particulates (PM₂.₅), and (3) prolonged low humidity (<30% RH). All promote systemic inflammation and endothelial dysfunction.
 
-#### #### Does humidity affect heart disease risk in older adults?  
+#### Does humidity affect heart disease risk in older adults?  
 Absolutely. Low humidity dries airway and vascular linings, raising inflammatory cytokines linked to plaque instability and calcification. Maintaining 40–60% relative humidity supports nitric oxide bioavailability and healthy arterial tone — key factors in preventing heart disease progression.
 
-#### #### Can statins stop coronary artery calcification entirely?  
+#### Can statins stop coronary artery calcification entirely?  
 No. Statins reduce plaque inflammation and slow progression, but they do not halt or reverse calcification. In fact, some studies suggest statins may shift plaque composition toward more stable, calcified forms — making environmental and lifestyle strategies even more essential for long-term protection.
 
-#### #### Are noise-canceling headphones helpful for reducing cardiovascular stress?  
+#### Are noise-canceling headphones helpful for reducing cardiovascular stress?  
 While helpful for focus or hearing protection, they don’t address whole-body physiological stress from low-frequency environmental noise (e.g., traffic rumble). Structural solutions — like sealing windows or adding mass-loaded vinyl — are more effective for lowering nocturnal sympathetic activation tied to heart disease risk.

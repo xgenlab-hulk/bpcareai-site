@@ -69,22 +69,22 @@ Managing diabetes well into your 70s and beyond is absolutely possible—and inc
 
 ### FAQ
 
-#### #### Is sulfonylurea use over 70 cyp2c9 decline dangerous?
+#### Is sulfonylurea use over 70 cyp2c9 decline dangerous?
 
 Not inherently—but it does increase the risk of prolonged or unnoticed low blood sugar. The risk becomes clinically meaningful when combined with reduced kidney function or irregular eating patterns. Fortunately, simple adjustments—like dose reduction or switching to a shorter-acting agent—can restore safety.
 
-#### #### What are safer alternatives to gliclazide for seniors with CYP2C9 decline?
+#### What are safer alternatives to gliclazide for seniors with CYP2C9 decline?
 
 Glimepiride is often preferred due to lower CYP2C9 dependence and more linear pharmacokinetics. DPP-4 inhibitors (like sitagliptin) and basal insulin analogs (like glargine U100) are also frequently used in older adults—especially when hypoglycemia risk is a concern.
 
-#### #### Does sulfonylurea use over 70 cyp2c9 decline affect blood pressure?
+#### Does sulfonylurea use over 70 cyp2c9 decline affect blood pressure?
 
 Sulfonylureas themselves don’t directly raise or lower BP—but frequent hypoglycemia can trigger stress responses (like increased heart rate or transient hypertension) and contribute to falls or anxiety. Stable glucose supports overall cardiovascular resilience.
 
-#### #### Can I still use sulfonylureas after age 70 if my kidney function is normal?
+#### Can I still use sulfonylureas after age 70 if my kidney function is normal?
 
 Yes—many people do safely. However, CYP2C9 activity declines independently of kidney health, so even with normal eGFR, a gentler approach (e.g., lower dose, once-daily timing, CGM support) is often recommended.
 
-#### #### How often should older adults on sulfonylureas check blood sugar?
+#### How often should older adults on sulfonylureas check blood sugar?
 
 For those on gliclazide or similar agents, checking fasting and pre-bed glucose daily is helpful. Adding periodic post-meal checks (1–2 hours after eating) can reveal hidden patterns. If using CGM, reviewing weekly reports with your clinician offers the richest insight.

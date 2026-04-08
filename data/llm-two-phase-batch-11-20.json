@@ -1,0 +1,1139 @@
+{
+  "batch_range": "11-20",
+  "total_processed": 10,
+  "processing_date": "2026-03-15",
+  "phase1_metadata": {
+    "audit_results": [
+      {
+        "slug": "warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-not-just-bloating-in-adults-70-with-long-term-ppi-use",
+        "overall_score": 39,
+        "overall_assessment": "Needs optimization",
+        "needs_optimization": true,
+        "element_scores": {
+          "slug": {
+            "score": 20,
+            "length": 128
+          },
+          "title": {
+            "score": 27,
+            "length": 133
+          },
+          "description": {
+            "score": 40,
+            "length": 220
+          },
+          "primaryKeyword": {
+            "score": 70,
+            "length": 43
+          }
+        }
+      },
+      {
+        "slug": "the-complete-guide-to-managing-blood-pressure-while-caring-for-a-spouse-with-dementia-stress-resilience-sleep-fragmentation-and-medication-adherence-trade-offs-in-adults-65-79",
+        "overall_score": 38,
+        "overall_assessment": "Needs optimization",
+        "needs_optimization": true,
+        "element_scores": {
+          "slug": {
+            "score": 20,
+            "length": 175
+          },
+          "title": {
+            "score": 25,
+            "length": 181
+          },
+          "description": {
+            "score": 40,
+            "length": 165
+          },
+          "primaryKeyword": {
+            "score": 70,
+            "length": 44
+          }
+        }
+      },
+      {
+        "slug": "5-things-every-woman-over-64-taking-low-dose-hrt-should-know-about-holiday-alcohol-interactions-and-hepatic-cyp2c9-saturation",
+        "overall_score": 41,
+        "overall_assessment": "Needs optimization",
+        "needs_optimization": true,
+        "element_scores": {
+          "slug": {
+            "score": 20,
+            "length": 125
+          },
+          "title": {
+            "score": 35,
+            "length": 125
+          },
+          "description": {
+            "score": 40,
+            "length": 223
+          },
+          "primaryKeyword": {
+            "score": 70,
+            "length": 36
+          }
+        }
+      },
+      {
+        "slug": "12-foods-that-stabilize-postprandial-cholinergic-tone-not-just-digestive-aids-including-slow-roasted-fennel-lacto-fermented-beets-and-toasted-caraway-seeds-for-adults-60-74",
+        "overall_score": 38,
+        "overall_assessment": "Needs optimization",
+        "needs_optimization": true,
+        "element_scores": {
+          "slug": {
+            "score": 20,
+            "length": 172
+          },
+          "title": {
+            "score": 25,
+            "length": 180
+          },
+          "description": {
+            "score": 40,
+            "length": 215
+          },
+          "primaryKeyword": {
+            "score": 70,
+            "length": 37
+          }
+        }
+      },
+      {
+        "slug": "12-foods-that-delay-endothelial-senescence-not-just-lower-bp-including-black-garlic-extract-germinated-brown-rice-and-low-age-roasted-chickpeas-for-adults-60",
+        "overall_score": 38,
+        "overall_assessment": "Needs optimization",
+        "needs_optimization": true,
+        "element_scores": {
+          "slug": {
+            "score": 20,
+            "length": 157
+          },
+          "title": {
+            "score": 25,
+            "length": 168
+          },
+          "description": {
+            "score": 40,
+            "length": 162
+          },
+          "primaryKeyword": {
+            "score": 70,
+            "length": 34
+          }
+        }
+      },
+      {
+        "slug": "why-your-holiday-heart-palpitations-might-be-caused-by-cold-induced-coronary-vasoconstriction-not-alcohol-in-adults-59-with-raynaud-s-phenomenon",
+        "overall_score": 38,
+        "overall_assessment": "Needs optimization",
+        "needs_optimization": true,
+        "element_scores": {
+          "slug": {
+            "score": 20,
+            "length": 144
+          },
+          "title": {
+            "score": 25,
+            "length": 151
+          },
+          "description": {
+            "score": 40,
+            "length": 195
+          },
+          "primaryKeyword": {
+            "score": 70,
+            "length": 47
+          }
+        }
+      },
+      {
+        "slug": "why-your-holiday-energy-crash-may-be-postprandial-hypoglycemia-not-just-fatigue-in-adults-50-59-with-reactive-hypoglycemia-history",
+        "overall_score": 38,
+        "overall_assessment": "Needs optimization",
+        "needs_optimization": true,
+        "element_scores": {
+          "slug": {
+            "score": 20,
+            "length": 130
+          },
+          "title": {
+            "score": 25,
+            "length": 136
+          },
+          "description": {
+            "score": 40,
+            "length": 181
+          },
+          "primaryKeyword": {
+            "score": 70,
+            "length": 46
+          }
+        }
+      },
+      {
+        "slug": "why-your-blood-pressure-dips-too-much-after-walking-not-just-normal-recovery-in-adults-74-with-early-cardiac-amyloidosis",
+        "overall_score": 40,
+        "overall_assessment": "Needs optimization",
+        "needs_optimization": true,
+        "element_scores": {
+          "slug": {
+            "score": 20,
+            "length": 120
+          },
+          "title": {
+            "score": 31,
+            "length": 129
+          },
+          "description": {
+            "score": 40,
+            "length": 157
+          },
+          "primaryKeyword": {
+            "score": 70,
+            "length": 44
+          }
+        }
+      },
+      {
+        "slug": "when-to-worry-about-just-one-more-glass-early-qtc-prolongation-signs-after-holiday-wine-consumption-in-women-62-on-ssris",
+        "overall_score": 41,
+        "overall_assessment": "Needs optimization",
+        "needs_optimization": true,
+        "element_scores": {
+          "slug": {
+            "score": 20,
+            "length": 120
+          },
+          "title": {
+            "score": 35,
+            "length": 125
+          },
+          "description": {
+            "score": 40,
+            "length": 205
+          },
+          "primaryKeyword": {
+            "score": 70,
+            "length": 39
+          }
+        }
+      },
+      {
+        "slug": "when-should-you-skip-the-holiday-buffet-entirely-4-clinical-red-flags-that-signal-high-risk-eating-for-adults-76-with-stage-4-ckd",
+        "overall_score": 39,
+        "overall_assessment": "Needs optimization",
+        "needs_optimization": true,
+        "element_scores": {
+          "slug": {
+            "score": 20,
+            "length": 129
+          },
+          "title": {
+            "score": 27,
+            "length": 133
+          },
+          "description": {
+            "score": 40,
+            "length": 160
+          },
+          "primaryKeyword": {
+            "score": 70,
+            "length": 39
+          }
+        }
+      }
+    ],
+    "optimization_results": [
+      {
+        "slug": "warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-not-just-bloating-in-adults-70-with-long-term-ppi-use",
+        "optimization_successful": true,
+        "quality_scores": {
+          "overall": 74,
+          "slug": 60,
+          "title": 67,
+          "description": 65,
+          "primaryKeyword": 95
+        },
+        "optimizations": {
+          "primaryKeyword": {
+            "original": "holiday leftovers gut dysbiosis ppi seniors",
+            "optimized": "digestive problems holiday food ppi seniors",
+            "changed": true
+          },
+          "slug": {
+            "original": "warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-not-just-bloating-in-adults-70-with-long-term-ppi-use",
+            "optimized": "digestive-problems-holiday-food-ppi-seniors",
+            "changed": true,
+            "character_count": 43
+          },
+          "title": {
+            "original": "Warning Signs Your Holiday Leftovers Are Causing Subclinical Gut Dysbiosis — Not Just Bloating — In Adults 70+ With Long-Term PPI Use",
+            "optimized": "Digestive Problems After Holiday Food (If You Take PPIs)",
+            "changed": true,
+            "character_count": 56
+          },
+          "description": {
+            "original": "Links delayed satiety, mid-afternoon brain fog, and subtle stool texture changes to fermented carbohydrate intolerance and hydrogen sulfide overproduction — with simple at-home testing and targeted prebiotic adjustments.",
+            "optimized": "Learn why holiday meals cause digestive issues if you take acid reflux medication. Includes simple at-home tests and gentle diet adjustments for seniors.",
+            "changed": true,
+            "character_count": 153
+          }
+        },
+        "key_issues": [
+          "Slug 128 characters (should be <60)",
+          "Title 133 characters (should be <70)",
+          "Technical term 'subclinical gut dysbiosis' not user-friendly",
+          "Description 220 characters (too long)"
+        ],
+        "improvements": [
+          "Reduced slug from 128 to 43 characters",
+          "Replaced 'dysbiosis' with 'digestive problems'",
+          "Made title more accessible and clickable",
+          "Simplified description while keeping value"
+        ]
+      },
+      {
+        "slug": "the-complete-guide-to-managing-blood-pressure-while-caring-for-a-spouse-with-dementia-stress-resilience-sleep-fragmentation-and-medication-adherence-trade-offs-in-adults-65-79",
+        "optimization_successful": true,
+        "quality_scores": {
+          "overall": 73,
+          "slug": 60,
+          "title": 65,
+          "description": 65,
+          "primaryKeyword": 95
+        },
+        "optimizations": {
+          "primaryKeyword": {
+            "original": "blood pressure management dementia caregiver",
+            "optimized": "blood pressure management dementia caregivers",
+            "changed": true
+          },
+          "slug": {
+            "original": "the-complete-guide-to-managing-blood-pressure-while-caring-for-a-spouse-with-dementia-stress-resilience-sleep-fragmentation-and-medication-adherence-trade-offs-in-adults-65-79",
+            "optimized": "blood-pressure-management-dementia-caregivers",
+            "changed": true,
+            "character_count": 45
+          },
+          "title": {
+            "original": "The Complete Guide to Managing Blood Pressure *While* Caring for a Spouse With Dementia — Stress Resilience, Sleep Fragmentation, and Medication Adherence Trade-Offs in Adults 65–79",
+            "optimized": "Blood Pressure Management for Dementia Caregivers (65-79)",
+            "changed": true,
+            "character_count": 57
+          },
+          "description": {
+            "original": "Addresses the unique hypertensive burden of spousal caregivers, including cortisol–renin dysrhythmia, missed dosing windows, and adaptive home BP tracking protocols.",
+            "optimized": "Learn how to manage blood pressure while caring for a spouse with dementia. Covers stress, sleep issues, and medication adherence for caregivers 65-79.",
+            "changed": true,
+            "character_count": 151
+          }
+        },
+        "key_issues": [
+          "Slug 175 characters (should be <60)",
+          "Title 181 characters (should be <70)",
+          "Too many sub-topics in title",
+          "Technical term 'cortisol-renin dysrhythmia'"
+        ],
+        "improvements": [
+          "Reduced slug from 175 to 47 characters",
+          "Simplified title to core topic",
+          "Made description user-friendly",
+          "Kept essential medical topic clear"
+        ]
+      },
+      {
+        "slug": "5-things-every-woman-over-64-taking-low-dose-hrt-should-know-about-holiday-alcohol-interactions-and-hepatic-cyp2c9-saturation",
+        "optimization_successful": true,
+        "quality_scores": {
+          "overall": 76,
+          "slug": 60,
+          "title": 75,
+          "description": 65,
+          "primaryKeyword": 95
+        },
+        "optimizations": {
+          "primaryKeyword": {
+            "original": "hrt alcohol metabolism seniors women",
+            "optimized": "hrt alcohol interactions women over 64",
+            "changed": true
+          },
+          "slug": {
+            "original": "5-things-every-woman-over-64-taking-low-dose-hrt-should-know-about-holiday-alcohol-interactions-and-hepatic-cyp2c9-saturation",
+            "optimized": "hrt-holiday-alcohol-interactions-women-over-64",
+            "changed": true,
+            "character_count": 46
+          },
+          "title": {
+            "original": "5 Things Every Woman Over 64 Taking Low-Dose HRT Should Know About Holiday Alcohol Interactions and Hepatic CYP2C9 Saturation",
+            "optimized": "5 Things Women on HRT Need to Know About Holiday Alcohol",
+            "changed": true,
+            "character_count": 56
+          },
+          "description": {
+            "original": "Explains how estrogen replacement alters first-pass metabolism of ethanol and holiday cocktails — increasing acetaldehyde accumulation, oxidative stress markers, and late-night orthostatic risk in this specific demographic.",
+            "optimized": "Learn how hormone replacement therapy affects alcohol processing in women 64+. Includes safety tips for holiday drinking and what to watch for.",
+            "changed": true,
+            "character_count": 143
+          }
+        },
+        "key_issues": [
+          "Slug 125 characters (should be <60)",
+          "Technical term 'hepatic CYP2C9 saturation'",
+          "Description uses jargon: 'acetaldehyde', 'first-pass metabolism'"
+        ],
+        "improvements": [
+          "Reduced slug from 125 to 46 characters",
+          "Removed technical enzyme terminology",
+          "Made description accessible",
+          "Kept numbered format (performs well)"
+        ]
+      },
+      {
+        "slug": "12-foods-that-stabilize-postprandial-cholinergic-tone-not-just-digestive-aids-including-slow-roasted-fennel-lacto-fermented-beets-and-toasted-caraway-seeds-for-adults-60-74",
+        "optimization_successful": true,
+        "quality_scores": {
+          "overall": 73,
+          "slug": 60,
+          "title": 65,
+          "description": 65,
+          "primaryKeyword": 95
+        },
+        "optimizations": {
+          "primaryKeyword": {
+            "original": "cholinergic-stabilizing foods seniors",
+            "optimized": "foods improve digestion after meals seniors",
+            "changed": true
+          },
+          "slug": {
+            "original": "12-foods-that-stabilize-postprandial-cholinergic-tone-not-just-digestive-aids-including-slow-roasted-fennel-lacto-fermented-beets-and-toasted-caraway-seeds-for-adults-60-74",
+            "optimized": "foods-improve-digestion-after-meals-seniors",
+            "changed": true,
+            "character_count": 43
+          },
+          "title": {
+            "original": "12 Foods That Stabilize Postprandial Cholinergic Tone — Not Just 'Digestive Aids' — Including Slow-Roasted Fennel, Lacto-Fermented Beets, and Toasted Caraway Seeds for Adults 60–74",
+            "optimized": "12 Foods That Improve Digestion After Meals (Ages 60-74)",
+            "changed": true,
+            "character_count": 56
+          },
+          "description": {
+            "original": "Highlights foods that directly modulate vagal efferent signaling to the gut and heart — reducing tachycardia, nausea, and reflux after meals — validated via heart rate variability (HRV) and gastric motility mapping.",
+            "optimized": "Discover 12 foods that help with digestion after meals for adults 60-74. Reduces nausea, reflux, and discomfort naturally with evidence-based choices.",
+            "changed": true,
+            "character_count": 150
+          }
+        },
+        "key_issues": [
+          "Slug 172 characters (should be <60)",
+          "Title 180 characters (should be <70)",
+          "Technical terms: 'postprandial cholinergic tone', 'vagal efferent signaling'",
+          "Too many food examples in slug/title"
+        ],
+        "improvements": [
+          "Reduced slug from 172 to 45 characters",
+          "Replaced jargon with 'improve digestion'",
+          "Simplified while keeping numbered format",
+          "Made description user-friendly"
+        ]
+      },
+      {
+        "slug": "12-foods-that-delay-endothelial-senescence-not-just-lower-bp-including-black-garlic-extract-germinated-brown-rice-and-low-age-roasted-chickpeas-for-adults-60",
+        "optimization_successful": true,
+        "quality_scores": {
+          "overall": 73,
+          "slug": 60,
+          "title": 65,
+          "description": 65,
+          "primaryKeyword": 95
+        },
+        "optimizations": {
+          "primaryKeyword": {
+            "original": "foods that delay endothelial aging",
+            "optimized": "foods blood vessel health aging adults",
+            "changed": true
+          },
+          "slug": {
+            "original": "12-foods-that-delay-endothelial-senescence-not-just-lower-bp-including-black-garlic-extract-germinated-brown-rice-and-low-age-roasted-chickpeas-for-adults-60",
+            "optimized": "foods-blood-vessel-health-aging-60-plus",
+            "changed": true,
+            "character_count": 39
+          },
+          "title": {
+            "original": "12 Foods That *Delay* Endothelial Senescence — Not Just 'Lower BP' — Including Black Garlic Extract, Germinated Brown Rice, and Low-AGE Roasted Chickpeas for Adults 60+",
+            "optimized": "12 Foods That Support Blood Vessel Health as You Age (60+)",
+            "changed": true,
+            "character_count": 58
+          },
+          "description": {
+            "original": "Moves beyond vasodilation to target telomerase activity, p16INK4a suppression, and mitochondrial biogenesis in vascular aging — with food matrix synergy insights.",
+            "optimized": "Discover 12 foods that support healthy blood vessels as you age. Goes beyond lowering blood pressure to protect vascular health naturally for adults 60+.",
+            "changed": true,
+            "character_count": 153
+          }
+        },
+        "key_issues": [
+          "Slug 157 characters (should be <60)",
+          "Title 168 characters (should be <70)",
+          "Technical terms: 'endothelial senescence', 'telomerase activity', 'p16INK4a'",
+          "Description extremely technical"
+        ],
+        "improvements": [
+          "Reduced slug from 157 to 41 characters",
+          "Replaced 'endothelial senescence' with 'blood vessel health'",
+          "Removed molecular biology jargon",
+          "Made accessible while keeping value"
+        ]
+      },
+      {
+        "slug": "why-your-holiday-heart-palpitations-might-be-caused-by-cold-induced-coronary-vasoconstriction-not-alcohol-in-adults-59-with-raynaud-s-phenomenon",
+        "optimization_successful": true,
+        "quality_scores": {
+          "overall": 73,
+          "slug": 60,
+          "title": 65,
+          "description": 65,
+          "primaryKeyword": 95
+        },
+        "optimizations": {
+          "primaryKeyword": {
+            "original": "cold-induced palpitations raynaud holiday heart",
+            "optimized": "holiday palpitations cold weather raynauds",
+            "changed": true
+          },
+          "slug": {
+            "original": "why-your-holiday-heart-palpitations-might-be-caused-by-cold-induced-coronary-vasoconstriction-not-alcohol-in-adults-59-with-raynaud-s-phenomenon",
+            "optimized": "holiday-palpitations-cold-weather-raynauds",
+            "changed": true,
+            "character_count": 42
+          },
+          "title": {
+            "original": "Why Your Holiday 'Heart Palpitations' Might Be Caused by Cold-Induced Coronary Vasoconstriction — Not Alcohol — In Adults 59+ With Raynaud's Phenomenon",
+            "optimized": "Holiday Heart Palpitations: Could It Be the Cold? (Raynaud's)",
+            "changed": true,
+            "character_count": 61
+          },
+          "description": {
+            "original": "Explains how outdoor festivities, unheated porches, or even cold beverages trigger coronary artery spasm in temperature-sensitive individuals—mimicking or compounding alcohol-related arrhythmias.",
+            "optimized": "Learn why cold weather may cause heart palpitations during holidays if you have Raynaud's. Covers temperature triggers and when to worry about symptoms.",
+            "changed": true,
+            "character_count": 152
+          }
+        },
+        "key_issues": [
+          "Slug 144 characters (should be <60)",
+          "Title 151 characters (should be <70)",
+          "Technical term 'coronary vasoconstriction'"
+        ],
+        "improvements": [
+          "Reduced slug from 144 to 42 characters",
+          "Simplified 'coronary vasoconstriction' to 'cold weather'",
+          "Made title more compelling/clickable",
+          "Kept Raynaud's (commonly known term)"
+        ]
+      },
+      {
+        "slug": "why-your-holiday-energy-crash-may-be-postprandial-hypoglycemia-not-just-fatigue-in-adults-50-59-with-reactive-hypoglycemia-history",
+        "optimization_successful": true,
+        "quality_scores": {
+          "overall": 73,
+          "slug": 60,
+          "title": 65,
+          "description": 65,
+          "primaryKeyword": 95
+        },
+        "optimizations": {
+          "primaryKeyword": {
+            "original": "holiday energy crash postprandial hypoglycemia",
+            "optimized": "holiday energy crash low blood sugar adults",
+            "changed": true
+          },
+          "slug": {
+            "original": "why-your-holiday-energy-crash-may-be-postprandial-hypoglycemia-not-just-fatigue-in-adults-50-59-with-reactive-hypoglycemia-history",
+            "optimized": "holiday-energy-crash-low-blood-sugar-50-59",
+            "changed": true,
+            "character_count": 42
+          },
+          "title": {
+            "original": "Why Your Holiday 'Energy Crash' May Be Postprandial Hypoglycemia — Not Just Fatigue — In Adults 50–59 With Reactive Hypoglycemia History",
+            "optimized": "Holiday Energy Crash: Could It Be Low Blood Sugar? (Ages 50-59)",
+            "changed": true,
+            "character_count": 63
+          },
+          "description": {
+            "original": "Helps newly diagnosed or early-stage diabetics differentiate between normal tiredness and pathologic glucose dips using symptom clusters, timing windows, and self-testing protocols.",
+            "optimized": "Learn why you crash after holiday meals and how to tell if it's low blood sugar. Includes symptom checklist and testing tips for adults 50-59.",
+            "changed": true,
+            "character_count": 142
+          }
+        },
+        "key_issues": [
+          "Slug 130 characters (should be <60)",
+          "Title 136 characters (should be <70)",
+          "Technical term 'postprandial hypoglycemia'"
+        ],
+        "improvements": [
+          "Reduced slug from 130 to 44 characters",
+          "Replaced 'postprandial hypoglycemia' with 'low blood sugar'",
+          "Made more relatable and searchable",
+          "Kept age range for targeting"
+        ]
+      },
+      {
+        "slug": "why-your-blood-pressure-dips-too-much-after-walking-not-just-normal-recovery-in-adults-74-with-early-cardiac-amyloidosis",
+        "optimization_successful": true,
+        "quality_scores": {
+          "overall": 75,
+          "slug": 60,
+          "title": 71,
+          "description": 65,
+          "primaryKeyword": 95
+        },
+        "optimizations": {
+          "primaryKeyword": {
+            "original": "post-walk hypotension in cardiac amyloidosis",
+            "optimized": "blood pressure drops after walking cardiac amyloidosis",
+            "changed": true
+          },
+          "slug": {
+            "original": "why-your-blood-pressure-dips-too-much-after-walking-not-just-normal-recovery-in-adults-74-with-early-cardiac-amyloidosis",
+            "optimized": "blood-pressure-drops-after-walking-cardiac-amyloidosis",
+            "changed": true,
+            "character_count": 54
+          },
+          "title": {
+            "original": "Why Your Blood Pressure Dips *Too Much* After Walking — Not Just 'Normal Recovery' — In Adults 74+ With Early Cardiac Amyloidosis",
+            "optimized": "Blood Pressure Drops After Walking (Cardiac Amyloidosis 74+)",
+            "changed": true,
+            "character_count": 60
+          },
+          "description": {
+            "original": "Distinguishes pathological post-exercise hypotension due to impaired myocardial compliance and autonomic neuropathy from benign vasodilation in aging hearts.",
+            "optimized": "Learn when post-walk blood pressure drops are concerning for adults 74+ with cardiac amyloidosis. Covers symptoms, causes, and when to see your doctor.",
+            "changed": true,
+            "character_count": 151
+          }
+        },
+        "key_issues": [
+          "Slug 120 characters (should be <60)",
+          "Title 129 characters (should be <70)",
+          "Technical terms: 'myocardial compliance', 'autonomic neuropathy'"
+        ],
+        "improvements": [
+          "Reduced slug from 120 to 53 characters",
+          "Simplified medical terminology",
+          "Made more user-friendly",
+          "Kept 'cardiac amyloidosis' (specific condition)"
+        ]
+      },
+      {
+        "slug": "when-to-worry-about-just-one-more-glass-early-qtc-prolongation-signs-after-holiday-wine-consumption-in-women-62-on-ssris",
+        "optimization_successful": true,
+        "quality_scores": {
+          "overall": 76,
+          "slug": 60,
+          "title": 75,
+          "description": 65,
+          "primaryKeyword": 95
+        },
+        "optimizations": {
+          "primaryKeyword": {
+            "original": "holiday wine qt prolongation ssri women",
+            "optimized": "holiday wine heart rhythm ssri women",
+            "changed": true
+          },
+          "slug": {
+            "original": "when-to-worry-about-just-one-more-glass-early-qtc-prolongation-signs-after-holiday-wine-consumption-in-women-62-on-ssris",
+            "optimized": "holiday-wine-heart-rhythm-women-ssris",
+            "changed": true,
+            "character_count": 37
+          },
+          "title": {
+            "original": "When to Worry About 'Just One More Glass' — Early QTc Prolongation Signs After Holiday Wine Consumption in Women 62+ on SSRIs",
+            "optimized": "Holiday Wine and Heart Rhythm: What Women on SSRIs Should Know",
+            "changed": true,
+            "character_count": 62
+          },
+          "description": {
+            "original": "Identifies subtle symptoms like morning lightheadedness, delayed sinus recovery after standing, and nocturnal PVC clustering as red flags for drug-alcohol QT prolongation in older women on antidepressants.",
+            "optimized": "Learn how holiday wine affects heart rhythm if you take SSRIs. Covers warning signs, safety tips, and when to be concerned for women 62+.",
+            "changed": true,
+            "character_count": 137
+          }
+        },
+        "key_issues": [
+          "Slug 120 characters (should be <60)",
+          "Title 125 characters (should be <70)",
+          "Technical term 'QTc prolongation'",
+          "Description uses medical jargon"
+        ],
+        "improvements": [
+          "Reduced slug from 120 to 38 characters",
+          "Replaced 'QTc prolongation' with 'heart rhythm'",
+          "Made more accessible to general audience",
+          "Kept SSRI (commonly understood term)"
+        ]
+      },
+      {
+        "slug": "when-should-you-skip-the-holiday-buffet-entirely-4-clinical-red-flags-that-signal-high-risk-eating-for-adults-76-with-stage-4-ckd",
+        "optimization_successful": true,
+        "quality_scores": {
+          "overall": 74,
+          "slug": 60,
+          "title": 67,
+          "description": 65,
+          "primaryKeyword": 95
+        },
+        "optimizations": {
+          "primaryKeyword": {
+            "original": "skip holiday buffet stage 4 ckd seniors",
+            "optimized": "skip holiday buffet stage 4 kidney disease",
+            "changed": true
+          },
+          "slug": {
+            "original": "when-should-you-skip-the-holiday-buffet-entirely-4-clinical-red-flags-that-signal-high-risk-eating-for-adults-76-with-stage-4-ckd",
+            "optimized": "skip-holiday-buffet-stage-4-ckd-seniors",
+            "changed": true,
+            "character_count": 39
+          },
+          "title": {
+            "original": "When Should You Skip the Holiday Buffet Entirely? — 4 Clinical Red Flags That Signal High-Risk Eating for Adults 76+ With Stage 4 CKD",
+            "optimized": "Should You Skip the Holiday Buffet? (Stage 4 CKD Guide)",
+            "changed": true,
+            "character_count": 55
+          },
+          "description": {
+            "original": "Defines objective thresholds (eGFR <25, serum phosphorus >5.0, potassium >4.8, albumin <3.2) and provides actionable alternatives for safe social participation.",
+            "optimized": "Learn when to skip holiday buffets if you have stage 4 kidney disease. Includes safety thresholds and alternative options for adults 76+.",
+            "changed": true,
+            "character_count": 137
+          }
+        },
+        "key_issues": [
+          "Slug 129 characters (should be <60)",
+          "Title 133 characters (should be <70)",
+          "Description overly technical with lab values"
+        ],
+        "improvements": [
+          "Reduced slug from 129 to 45 characters",
+          "Simplified title while keeping question format",
+          "Made description less clinical",
+          "Replaced 'CKD' with 'kidney disease' (more searchable)"
+        ]
+      }
+    ]
+  },
+  "phase1_content_audit": {
+    "total_audited": 10,
+    "needs_content_optimization": 10,
+    "content_audit_results": [
+      {
+        "slug": "warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-not-just-bloating-in-adults-70-with-long-term-ppi-use",
+        "content_quality_score": 77,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 85
+          },
+          "structure": {
+            "score": 71,
+            "h2_count": 4
+          },
+          "faq": {
+            "score": 90,
+            "question_count": 10
+          },
+          "technical_language": {
+            "score": 55
+          },
+          "fact_density": {
+            "score": 80
+          },
+          "user_value": {
+            "score": 85
+          }
+        },
+        "optimization_priority": "medium",
+        "key_content_issues": [
+          "H1 uses technical term 'subclinical gut dysbiosis'",
+          "Several unexplained technical terms: 'hydrogen sulfide', 'FODMAPs', 'fermentable carbohydrates'",
+          "FAQ formatting has double hash marks: '#### ####'"
+        ],
+        "recommended_improvements": [
+          "Simplify H1 to 'Holiday Food and Gut Health for Seniors on PPIs'",
+          "Add brief explanations when introducing technical terms",
+          "Fix FAQ formatting (remove duplicate ####)",
+          "Consider adding a simple visual guide or checklist"
+        ]
+      },
+      {
+        "slug": "the-complete-guide-to-managing-blood-pressure-while-caring-for-a-spouse-with-dementia-stress-resilience-sleep-fragmentation-and-medication-adherence-trade-offs-in-adults-65-79",
+        "content_quality_score": 78,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 85
+          },
+          "structure": {
+            "score": 75,
+            "h2_count": 4
+          },
+          "faq": {
+            "score": 90,
+            "question_count": 10
+          },
+          "technical_language": {
+            "score": 55
+          },
+          "fact_density": {
+            "score": 80
+          },
+          "user_value": {
+            "score": 85
+          }
+        },
+        "optimization_priority": "medium",
+        "key_content_issues": [
+          "H1 is very long (27 words)",
+          "Technical terms: 'cortisol-renin dysrhythmia', 'BP circadian patterns'",
+          "Could benefit from more actionable bullet lists"
+        ],
+        "recommended_improvements": [
+          "Shorten H1 to 'Blood Pressure Management for Dementia Caregivers'",
+          "Explain technical terms or use simpler alternatives",
+          "Add practical daily routine checklist",
+          "Include stress management quick-tips section"
+        ]
+      },
+      {
+        "slug": "5-things-every-woman-over-64-taking-low-dose-hrt-should-know-about-holiday-alcohol-interactions-and-hepatic-cyp2c9-saturation",
+        "content_quality_score": 77,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 85
+          },
+          "structure": {
+            "score": 70,
+            "h2_count": 4
+          },
+          "faq": {
+            "score": 90,
+            "question_count": 10
+          },
+          "technical_language": {
+            "score": 55
+          },
+          "fact_density": {
+            "score": 80
+          },
+          "user_value": {
+            "score": 85
+          }
+        },
+        "optimization_priority": "medium",
+        "key_content_issues": [
+          "Technical terms: 'hepatic CYP2C9', 'acetaldehyde accumulation', 'first-pass metabolism'",
+          "H1 could be more user-friendly",
+          "Good FAQ but could include more practical examples"
+        ],
+        "recommended_improvements": [
+          "Simplify H1 to 'HRT and Holiday Alcohol: What Women 64+ Need to Know'",
+          "Replace or explain technical liver metabolism terms",
+          "Add specific drink equivalents and timing recommendations",
+          "Include red-flag symptom checklist"
+        ]
+      },
+      {
+        "slug": "12-foods-that-stabilize-postprandial-cholinergic-tone-not-just-digestive-aids-including-slow-roasted-fennel-lacto-fermented-beets-and-toasted-caraway-seeds-for-adults-60-74",
+        "content_quality_score": 77,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 85
+          },
+          "structure": {
+            "score": 70,
+            "h2_count": 4
+          },
+          "faq": {
+            "score": 90,
+            "question_count": 10
+          },
+          "technical_language": {
+            "score": 55
+          },
+          "fact_density": {
+            "score": 80
+          },
+          "user_value": {
+            "score": 85
+          }
+        },
+        "optimization_priority": "medium",
+        "key_content_issues": [
+          "H1 uses highly technical term 'postprandial cholinergic tone'",
+          "Technical terms throughout: 'vagal efferent signaling', 'HRV', 'gastric motility'",
+          "Food list format could be clearer"
+        ],
+        "recommended_improvements": [
+          "Simplify H1 to '12 Foods for Better Digestion After Meals (60-74)'",
+          "Explain or replace 'cholinergic tone' with 'digestive nervous system'",
+          "Format food list with clear subsections",
+          "Add preparation tips for each food"
+        ]
+      },
+      {
+        "slug": "12-foods-that-delay-endothelial-senescence-not-just-lower-bp-including-black-garlic-extract-germinated-brown-rice-and-low-age-roasted-chickpeas-for-adults-60",
+        "content_quality_score": 77,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 85
+          },
+          "structure": {
+            "score": 70,
+            "h2_count": 3
+          },
+          "faq": {
+            "score": 90,
+            "question_count": 10
+          },
+          "technical_language": {
+            "score": 55
+          },
+          "fact_density": {
+            "score": 80
+          },
+          "user_value": {
+            "score": 85
+          }
+        },
+        "optimization_priority": "medium",
+        "key_content_issues": [
+          "H1 uses extremely technical term 'endothelial senescence'",
+          "Very technical language: 'telomerase activity', 'p16INK4a', 'mitochondrial biogenesis'",
+          "Molecular biology focus may overwhelm target audience"
+        ],
+        "recommended_improvements": [
+          "Simplify H1 to '12 Foods for Healthy Blood Vessels as You Age (60+)'",
+          "Replace molecular terms with benefit-focused language",
+          "Lead with practical health benefits, not mechanisms",
+          "Add simple 'why it works' summaries for each food"
+        ]
+      },
+      {
+        "slug": "why-your-holiday-heart-palpitations-might-be-caused-by-cold-induced-coronary-vasoconstriction-not-alcohol-in-adults-59-with-raynaud-s-phenomenon",
+        "content_quality_score": 77,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 85
+          },
+          "structure": {
+            "score": 71,
+            "h2_count": 4
+          },
+          "faq": {
+            "score": 90,
+            "question_count": 10
+          },
+          "technical_language": {
+            "score": 55
+          },
+          "fact_density": {
+            "score": 80
+          },
+          "user_value": {
+            "score": 85
+          }
+        },
+        "optimization_priority": "medium",
+        "key_content_issues": [
+          "Technical term 'coronary vasoconstriction' in H1",
+          "Complex medical explanations of arrhythmia mechanisms",
+          "Could benefit from clearer symptom recognition guide"
+        ],
+        "recommended_improvements": [
+          "Simplify H1 to 'Holiday Palpitations and Cold Weather (Raynaud's Guide)'",
+          "Explain 'vasoconstriction' as 'blood vessel narrowing from cold'",
+          "Add temperature threshold warnings",
+          "Include practical prevention checklist"
+        ]
+      },
+      {
+        "slug": "why-your-holiday-energy-crash-may-be-postprandial-hypoglycemia-not-just-fatigue-in-adults-50-59-with-reactive-hypoglycemia-history",
+        "content_quality_score": 78,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 85
+          },
+          "structure": {
+            "score": 75,
+            "h2_count": 5
+          },
+          "faq": {
+            "score": 90,
+            "question_count": 10
+          },
+          "technical_language": {
+            "score": 55
+          },
+          "fact_density": {
+            "score": 80
+          },
+          "user_value": {
+            "score": 85
+          }
+        },
+        "optimization_priority": "medium",
+        "key_content_issues": [
+          "H1 uses medical term 'postprandial hypoglycemia'",
+          "Good structure but could add more self-testing guidance",
+          "Symptom timing windows need clearer explanation"
+        ],
+        "recommended_improvements": [
+          "Simplify H1 to 'Holiday Energy Crashes: Low Blood Sugar Guide (50-59)'",
+          "Replace 'postprandial hypoglycemia' with 'low blood sugar after meals'",
+          "Add step-by-step symptom tracking template",
+          "Include meal timing and portion guidance"
+        ]
+      },
+      {
+        "slug": "why-your-blood-pressure-dips-too-much-after-walking-not-just-normal-recovery-in-adults-74-with-early-cardiac-amyloidosis",
+        "content_quality_score": 78,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 85
+          },
+          "structure": {
+            "score": 77,
+            "h2_count": 5
+          },
+          "faq": {
+            "score": 90,
+            "question_count": 10
+          },
+          "technical_language": {
+            "score": 55
+          },
+          "fact_density": {
+            "score": 80
+          },
+          "user_value": {
+            "score": 85
+          }
+        },
+        "optimization_priority": "medium",
+        "key_content_issues": [
+          "Technical terms: 'post-exercise hypotension', 'myocardial compliance', 'autonomic neuropathy'",
+          "Cardiac amyloidosis explanation could be clearer",
+          "Good FAQ but needs more on daily management"
+        ],
+        "recommended_improvements": [
+          "Simplify H1 to 'Blood Pressure Drops After Walking: Cardiac Amyloidosis Guide (74+)'",
+          "Explain 'myocardial compliance' as 'heart muscle stiffness'",
+          "Add simple blood pressure tracking log template",
+          "Include safe exercise guidelines"
+        ]
+      },
+      {
+        "slug": "when-to-worry-about-just-one-more-glass-early-qtc-prolongation-signs-after-holiday-wine-consumption-in-women-62-on-ssris",
+        "content_quality_score": 77,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 85
+          },
+          "structure": {
+            "score": 71,
+            "h2_count": 4
+          },
+          "faq": {
+            "score": 90,
+            "question_count": 10
+          },
+          "technical_language": {
+            "score": 55
+          },
+          "fact_density": {
+            "score": 80
+          },
+          "user_value": {
+            "score": 85
+          }
+        },
+        "optimization_priority": "medium",
+        "key_content_issues": [
+          "Technical term 'QTc prolongation' in H1 and throughout",
+          "Complex cardiac electrophysiology explanations",
+          "Good warnings but could add simpler symptom checklist"
+        ],
+        "recommended_improvements": [
+          "Simplify H1 to 'Holiday Wine and Heart Rhythm: Guide for Women on SSRIs (62+)'",
+          "Replace 'QTc prolongation' with 'heart rhythm changes'",
+          "Add simple drink-tracking card",
+          "Include 'call your doctor if...' clear criteria"
+        ]
+      },
+      {
+        "slug": "when-should-you-skip-the-holiday-buffet-entirely-4-clinical-red-flags-that-signal-high-risk-eating-for-adults-76-with-stage-4-ckd",
+        "content_quality_score": 77,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 85
+          },
+          "structure": {
+            "score": 71,
+            "h2_count": 4
+          },
+          "faq": {
+            "score": 90,
+            "question_count": 10
+          },
+          "technical_language": {
+            "score": 55
+          },
+          "fact_density": {
+            "score": 80
+          },
+          "user_value": {
+            "score": 85
+          }
+        },
+        "optimization_priority": "medium",
+        "key_content_issues": [
+          "Lab value thresholds may be too technical for some readers",
+          "Good specific guidance but could add more social strategies",
+          "FAQ is helpful but could include more emotional support"
+        ],
+        "recommended_improvements": [
+          "Add lay explanation for each lab threshold",
+          "Include conversation starters for family discussions",
+          "Add section on maintaining social connections while managing diet",
+          "Provide alternative celebration ideas"
+        ]
+      }
+    ]
+  },
+  "summary": {
+    "metadata_avg_original_score": 39.0,
+    "metadata_avg_optimized_score": 74.0,
+    "content_avg_score": 77.3,
+    "articles_needing_content_optimization": [
+      "warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-not-just-bloating-in-adults-70-with-long-term-ppi-use",
+      "the-complete-guide-to-managing-blood-pressure-while-caring-for-a-spouse-with-dementia-stress-resilience-sleep-fragmentation-and-medication-adherence-trade-offs-in-adults-65-79",
+      "5-things-every-woman-over-64-taking-low-dose-hrt-should-know-about-holiday-alcohol-interactions-and-hepatic-cyp2c9-saturation",
+      "12-foods-that-stabilize-postprandial-cholinergic-tone-not-just-digestive-aids-including-slow-roasted-fennel-lacto-fermented-beets-and-toasted-caraway-seeds-for-adults-60-74",
+      "12-foods-that-delay-endothelial-senescence-not-just-lower-bp-including-black-garlic-extract-germinated-brown-rice-and-low-age-roasted-chickpeas-for-adults-60",
+      "why-your-holiday-heart-palpitations-might-be-caused-by-cold-induced-coronary-vasoconstriction-not-alcohol-in-adults-59-with-raynaud-s-phenomenon",
+      "why-your-holiday-energy-crash-may-be-postprandial-hypoglycemia-not-just-fatigue-in-adults-50-59-with-reactive-hypoglycemia-history",
+      "why-your-blood-pressure-dips-too-much-after-walking-not-just-normal-recovery-in-adults-74-with-early-cardiac-amyloidosis",
+      "when-to-worry-about-just-one-more-glass-early-qtc-prolongation-signs-after-holiday-wine-consumption-in-women-62-on-ssris",
+      "when-should-you-skip-the-holiday-buffet-entirely-4-clinical-red-flags-that-signal-high-risk-eating-for-adults-76-with-stage-4-ckd"
+    ]
+  }
+}

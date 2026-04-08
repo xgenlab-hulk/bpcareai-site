@@ -49,22 +49,22 @@ In short: your mouth isn’t separate from your metabolism. Small, consistent or
 
 ### FAQ
 
-#### #### Does gum inflammation insulin clearance diabetes affect A1c levels?
+#### Does gum inflammation insulin clearance diabetes affect A1c levels?
 
 Not directly—at least not at first. Chronic gum inflammation insulin clearance diabetes primarily influences *postprandial insulin dynamics*, not average glucose. So A1c may remain stable while insulin levels rise after meals. Over time, however, persistent hyperinsulinemia can contribute to beta-cell stress and eventual A1c drift.
 
-#### #### Can treating gum disease improve insulin clearance in older adults with diabetes?
+#### Can treating gum disease improve insulin clearance in older adults with diabetes?
 
 Yes—clinical trials show that non-surgical periodontal therapy (like scaling and root planing) improves hepatic insulin clearance by 12–18% within 3 months in adults 55–70 with type 2 diabetes—even without changes in diet or medication.
 
-#### #### Is gum inflammation insulin clearance diabetes linked to heart health?
+#### Is gum inflammation insulin clearance diabetes linked to heart health?
 
 Absolutely. The same inflammatory signals that impair insulin clearance also promote endothelial dysfunction and arterial stiffness. Adults with both periodontitis and diabetes have a 2.3× higher risk of cardiovascular events than those with well-maintained oral health.
 
-#### #### How often should someone with diabetes get their gums checked?
+#### How often should someone with diabetes get their gums checked?
 
 At minimum, every 4 months—more frequently if bleeding, recession, or dry mouth is present. Routine exams catch inflammation before it becomes irreversible bone loss.
 
-#### #### Does flossing really change insulin metabolism?
+#### Does flossing really change insulin metabolism?
 
 Indirectly, yes. Daily interdental cleaning reduces gingival inflammation by ~60%, lowering circulating IL-6. Since IL-6 suppresses IDE activity in the liver, less inflammation means more efficient insulin breakdown—especially important for adults over 55 whose natural clearance capacity declines with age.

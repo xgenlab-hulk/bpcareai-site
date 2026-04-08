@@ -45,17 +45,17 @@ In short, winter weight gain heart effects are real but manageable. With awarene
 
 ### FAQ
 
-#### #### Does winter weight gain heart strain happen even without high blood pressure?
+#### Does winter weight gain heart strain happen even without high blood pressure?
 Yes. Even with normal BP, added weight increases cardiac output and ventricular filling pressures. Cold-induced vasoconstriction further raises afterload—meaning the heart works harder with each beat, regardless of whether BP crosses diagnostic thresholds.
 
-#### #### How much winter weight gain heart risk is too much for seniors?
+#### How much winter weight gain heart risk is too much for seniors?
 For adults over 60, gaining more than 5 pounds between October and March is associated with measurable increases in systolic BP (3–7 mm Hg), arterial stiffness, and NT-proBNP (a biomarker of heart stress). Gaining 10+ pounds significantly raises 1-year risk of hospitalization for heart failure exacerbation.
 
-#### #### Can winter weight gain heart issues be reversed?
+#### Can winter weight gain heart issues be reversed?
 Yes—studies show that intentional, gradual weight loss (1–2 pounds per week) in older adults reduces left ventricular mass, improves endothelial function, and lowers resting heart rate within 12 weeks. Muscle-preserving approaches (protein + resistance training) yield the best cardiac outcomes.
 
-#### #### Is it safe to exercise outdoors in cold weather if I’m concerned about winter weight gain heart effects?
+#### Is it safe to exercise outdoors in cold weather if I’m concerned about winter weight gain heart effects?
 Generally yes—if you’re medically cleared. Dress in layers, warm up indoors first, and avoid extreme cold (<15°F / -9°C) or windy conditions. Monitor for chest tightness or dizziness—these warrant immediate cessation and medical evaluation.
 
-#### #### Why does my blood pressure go up in winter—even if I haven’t gained weight?
+#### Why does my blood pressure go up in winter—even if I haven’t gained weight?
 Cold exposure alone causes peripheral vasoconstriction and activates the sympathetic nervous system, raising systolic BP by 5–10 mm Hg on average. Combined with reduced physical activity and higher sodium intake common in winter diets, this contributes to seasonal BP elevation—even without weight change.

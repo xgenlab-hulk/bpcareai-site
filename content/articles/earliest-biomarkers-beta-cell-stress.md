@@ -87,17 +87,17 @@ If you’re reading this, you’re already ahead—because you’re paying atten
 
 ### FAQ
 
-#### #### What are the earliest biomarkers beta cell stress—and can my regular doctor test them?
+#### What are the earliest biomarkers beta cell stress—and can my regular doctor test them?
 The most validated emerging markers include the proinsulin/C-peptide ratio, unmethylated *INS* DNA in plasma, and refined GAD65 epitope profiling. Most primary care offices don’t routinely order these—but many academic centers and specialized endocrinology practices do. Ask whether your provider partners with a lab offering metabolic phenotyping (e.g., Mayo Clinic Laboratories, Quest Diagnostics’ specialty panels, or LabCorp’s advanced diabetes testing).
 
-#### #### How early can earliest biomarkers beta cell stress appear before prediabetes?
+#### How early can earliest biomarkers beta cell stress appear before prediabetes?
 Studies show detectable changes in proinsulin/C-peptide ratio and unmethylated *INS* DNA up to 5–7 years before fasting glucose crosses 100 mg/dL—and as early as 3 years before HbA1c reaches 5.7%. In high-genetic-risk adults, these shifts often begin in the late 40s.
 
-#### #### Are earliest biomarkers beta cell stress useful if I’m not overweight?
+#### Are earliest biomarkers beta cell stress useful if I’m not overweight?
 Yes—especially then. Normal-weight adults with family history often develop “lean diabetes,” where beta-cell dysfunction—not insulin resistance—is the dominant early driver. These biomarkers help identify that subtype earlier than glucose-based tests.
 
-#### #### Do these markers predict type 1 diabetes too?
+#### Do these markers predict type 1 diabetes too?
 Some overlap exists—especially GAD65 epitope reactivity—but the context differs. In type 2-predisposed adults, proinsulin/C-peptide elevation reflects *functional exhaustion*, not autoimmune destruction. Unmethylated *INS* DNA appears in both, but levels tend to be lower and more gradual in type 2 progression.
 
-#### #### Can diet alone improve these biomarkers?
+#### Can diet alone improve these biomarkers?
 Yes—consistently. In the PREDIMED-Plus trial, adults aged 55–75 with metabolic risk who followed a Mediterranean diet + exercise saw proinsulin/C-peptide ratios drop by ~22% over 12 months—*without weight loss*. The key was reducing ultra-processed carbs and prioritizing whole-food fats and plant proteins.

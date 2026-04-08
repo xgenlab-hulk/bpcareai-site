@@ -90,22 +90,22 @@ Metabolic health is dynamic—not fixed. What’s happening in your gut today ca
 
 ### FAQ
 
-#### #### Do PPIs like omeprazole count as pills that raise blood sugar silently?
+#### Do PPIs like omeprazole count as pills that raise blood sugar silently?
 
 Yes. Multiple observational and mechanistic studies confirm that chronic PPI use—particularly beyond 1 year—is associated with increased risk of new-onset type 2 diabetes and worsened postprandial glucose control, even without noticeable symptoms. This occurs via gut-microbiome-mediated reductions in GLP-1 and FXR signaling—not direct drug toxicity.
 
-#### #### Are there other pills that raise blood sugar silently besides PPIs?
+#### Are there other pills that raise blood sugar silently besides PPIs?
 
 Yes. Other examples include certain antidepressants (e.g., paroxetine, mirtazapine), corticosteroids (even low-dose inhaled forms), thiazide diuretics (e.g., hydrochlorothiazide), and some antipsychotics. Unlike insulin or sulfonylureas—which cause rapid, symptomatic highs—these act indirectly on metabolism, often going unnoticed until HbA1c creeps upward.
 
-#### #### Can stopping PPIs improve my blood sugar control?
+#### Can stopping PPIs improve my blood sugar control?
 
 Evidence suggests yes—especially in adults with prediabetes. In clinical trials, discontinuation over 6–12 weeks was associated with improved GLP-1 response, reduced postprandial glucose excursions (by ~25–35%), and modest HbA1c reduction (0.2–0.4%). Always taper under medical guidance.
 
-#### #### Does apple cider vinegar help with postprandial glucose spikes caused by PPIs?
+#### Does apple cider vinegar help with postprandial glucose spikes caused by PPIs?
 
 While apple cider vinegar may modestly blunt post-meal glucose in some people (likely via delayed gastric emptying), it does *not* address the underlying bile acid–FXR–GLP-1 disruption caused by PPIs. It may offer short-term relief but isn’t a substitute for microbiome and signaling support.
 
-#### #### Is this effect seen with all acid-reducing medications—or just PPIs?
+#### Is this effect seen with all acid-reducing medications—or just PPIs?
 
 Most pronounced with PPIs due to their profound and sustained acid suppression. H2-receptor antagonists (e.g., famotidine) have weaker and shorter-lasting effects on gastric pH and show minimal impact on bile acid metabolism or glucose variability in current studies. Antacids have negligible systemic or microbiome effects.

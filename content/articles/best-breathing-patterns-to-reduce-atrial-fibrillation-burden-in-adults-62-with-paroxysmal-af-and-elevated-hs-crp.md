@@ -72,22 +72,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can breathing techniques for atrial fibrillation seniors really reduce AF episodes?
+#### Can breathing techniques for atrial fibrillation seniors really reduce AF episodes?
 
 Yes—especially when practiced consistently. Clinical studies in adults 60+ show up to a 30% reduction in paroxysmal AF burden over 8–12 weeks with guided slow breathing (5–6 breaths/min). Benefits appear strongest when combined with anti-inflammatory lifestyle habits.
 
-#### #### Are breathing techniques for atrial fibrillation seniors safe for people with high blood pressure?
+#### Are breathing techniques for atrial fibrillation seniors safe for people with high blood pressure?
 
 Absolutely—and often beneficial. Slow, deep breathing has been shown to modestly lower systolic BP by 3–6 mm Hg on average. It supports arterial pressure regulation by improving autonomic balance. Always pair with your prescribed BP management plan.
 
-#### #### How long does it take to see results from breathing techniques for atrial fibrillation seniors?
+#### How long does it take to see results from breathing techniques for atrial fibrillation seniors?
 
 Most people notice improved calmness and sleep within days. Objective markers—like higher HRV or fewer AF episodes—typically emerge after 4–6 weeks of daily practice (5–15 minutes). Sustained hs-CRP reductions usually require 8–12 weeks.
 
-#### #### Do I need a special app or device to use these breathing techniques?
+#### Do I need a special app or device to use these breathing techniques?
 
 No. You can start with a timer and count silently—or use free audio guides online. Devices can help with timing accuracy early on, but aren’t required for long-term success.
 
-#### #### Can slow breathing replace my AF medications?
+#### Can slow breathing replace my AF medications?
 
 No. Breathing techniques are a complementary strategy—not a substitute—for prescribed treatments like beta-blockers, anticoagulants, or rhythm-control drugs. Always discuss lifestyle changes with your cardiologist or primary care provider.

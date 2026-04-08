@@ -64,17 +64,17 @@ Choosing olive oil isn’t about perfection—it’s about consistency, awarenes
 
 ### FAQ
 
-#### #### Does olive oil polyphenols endothelial repair seniors apply to people with high blood pressure?
+#### Does olive oil polyphenols endothelial repair seniors apply to people with high blood pressure?
 Yes—especially so. Adults with elevated BP often show early signs of endothelial dysfunction. Clinical trials suggest that high-polyphenol olive oil (≥500 mg/kg) may modestly improve both endothelial function and systolic BP over 8–12 weeks, particularly when combined with other heart-healthy habits like regular movement and sodium moderation.
 
-#### #### How do I know if my olive oil has enough polyphenols for endothelial repair in seniors?
+#### How do I know if my olive oil has enough polyphenols for endothelial repair in seniors?
 Look for third-party lab reports listing “total phenols” (ideally ≥500 mg/kg) or specific compounds like oleocanthal (≥100 ppm) and oleacein (≥50 ppm). These values are rarely on retail labels—but many reputable producers publish them online by batch. When in doubt, choose early-harvest, single-estate oils with a clear harvest date and store them properly.
 
-#### #### Can olive oil polyphenols endothelial repair seniors help after a heart event?
+#### Can olive oil polyphenols endothelial repair seniors help after a heart event?
 While olive oil polyphenols aren’t a treatment for acute conditions, long-term inclusion of high-polyphenol olive oil is part of Mediterranean-style eating patterns shown to support recovery and reduce recurrent events in older adults. Always follow your care team’s guidance first—and consider olive oil as gentle, daily nutritional reinforcement—not replacement—for prescribed therapies.
 
-#### #### Is there a difference between “extra virgin” and “polyphenol-rich” olive oil?
+#### Is there a difference between “extra virgin” and “polyphenol-rich” olive oil?
 Yes. “Extra virgin” refers to acidity (<0.8%) and sensory quality (no defects), but says nothing about polyphenol levels. A low-acid oil can still be low in polyphenols—if it’s made from overripe fruit, milled slowly, or stored poorly. “Polyphenol-rich” reflects a separate, biologically active trait tied directly to endothelial support.
 
-#### #### Do cooking methods affect olive oil polyphenols’ benefits for vascular health?
+#### Do cooking methods affect olive oil polyphenols’ benefits for vascular health?
 Gentle heating (e.g., sautéing below 300°F / 150°C) preserves most polyphenols. However, prolonged high-heat frying (>350°F / 175°C) degrades sensitive compounds like oleocanthal. For maximum endothelial benefit, reserve your highest-polyphenol oil for finishing—drizzling over cooked vegetables, soups, or whole grains—where its full antioxidant and NO-boosting potential shines.

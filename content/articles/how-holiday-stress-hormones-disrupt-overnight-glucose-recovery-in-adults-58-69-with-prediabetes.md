@@ -93,22 +93,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does holiday stress and overnight glucose recovery affect everyone with prediabetes?
+#### Does holiday stress and overnight glucose recovery affect everyone with prediabetes?
 
 Not equally — but research suggests up to 60% of adults aged 55–70 with prediabetes notice measurable changes in fasting glucose during high-stress holiday periods. Individual sensitivity varies based on genetics, sleep quality, activity level, and baseline cortisol regulation.
 
-#### #### Can holiday stress and overnight glucose recovery lead to type 2 diabetes faster?
+#### Can holiday stress and overnight glucose recovery lead to type 2 diabetes faster?
 
 No — not directly or inevitably. However, repeated overnight disruptions *without adjustment* may contribute to sustained insulin resistance over months or years. The good news? These patterns are reversible with lifestyle support, and many people restore steady overnight recovery within 2–4 weeks of returning to consistent routines.
 
-#### #### How does cortisol specifically interfere with overnight glucose recovery?
+#### How does cortisol specifically interfere with overnight glucose recovery?
 
 Cortisol stimulates gluconeogenesis — the liver’s production of new glucose — especially in the early-morning hours (the “dawn phenomenon”). When elevated due to stress, it can override insulin’s signal, resulting in higher-than-expected fasting glucose — even if dinner was light and carb-controlled.
 
-#### #### Is nocturnal hypoglycemia common in prediabetes during the holidays?
+#### Is nocturnal hypoglycemia common in prediabetes during the holidays?
 
 Very rare. True low blood sugar (<70 mg/dL) while sleeping is uncommon in prediabetes without medication use. What’s more frequent is *glucose variability* — wide swings from high to low — which can mimic hypoglycemia symptoms (like shakiness or anxiety upon waking) but reflect hormonal flux rather than actual low sugar.
 
-#### #### What’s the best time to check blood sugar to assess holiday stress and overnight glucose recovery?
+#### What’s the best time to check blood sugar to assess holiday stress and overnight glucose recovery?
 
 The most informative pair is **bedtime (within 2 hours of your last meal)** and **upon waking (before food, drink, or activity)**. If you wake overnight, a 3 a.m. check adds valuable context — revealing whether glucose is rising (cortisol-driven) or falling (possible reactive dip).

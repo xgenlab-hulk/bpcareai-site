@@ -50,17 +50,17 @@ In short, *kidney-friendly potluck food for seniors* isn’t about standing apar
 
 ### FAQ  
 
-#### #### What are the best kidney-friendly potluck food for seniors options at Thanksgiving?  
+#### What are the best kidney-friendly potluck food for seniors options at Thanksgiving?  
 Roasted turkey breast (no skin, no gravy), herb-seasoned green beans, steamed cabbage slaw, and unsalted crackers with a small portion of low-phosphorus cheese like brie or mozzarella. Skip stuffing (high in sodium/phosphorus) and candied yams (very high in potassium and sugar).
 
-#### #### How do I find kidney-friendly potluck food for seniors that fits my cultural background?  
+#### How do I find kidney-friendly potluck food for seniors that fits my cultural background?  
 Work with a renal dietitian familiar with your cuisine—many now specialize in culturally tailored plans. For example: use rice noodles instead of wheat-based ones in Asian dishes, swap black-eyed peas for lower-potassium lentils in Southern cooking, or choose corn tortillas over flour for Mexican meals.
 
-#### #### Can I eat mashed potatoes if I’m on dialysis and over 70?  
+#### Can I eat mashed potatoes if I’m on dialysis and over 70?  
 Traditional mashed potatoes are high in potassium (about 600 mg per cup). Try a 50/50 blend of cauliflower and potato (steamed, not boiled), or use instant mashed potatoes made with low-potassium milk alternatives—just check labels for hidden sodium and phosphates.
 
-#### #### Is it okay to skip meals before dialysis to “save room” for potluck food?  
+#### Is it okay to skip meals before dialysis to “save room” for potluck food?  
 No—skipping meals can lead to low blood sugar, muscle loss, and poor albumin levels. Instead, eat regular, balanced mini-meals throughout the day and plan your potluck portion intentionally.
 
-#### #### Does high sodium at a family gathering really affect my BP if I’m on dialysis?  
+#### Does high sodium at a family gathering really affect my BP if I’m on dialysis?  
 Yes—excess sodium raises fluid retention and arterial pressure, increasing strain on your heart. Just one teaspoon of salt (2,300 mg) can raise systolic BP by 5–10 mm Hg in sensitive individuals—especially impactful for seniors with existing hypertension or heart disease.

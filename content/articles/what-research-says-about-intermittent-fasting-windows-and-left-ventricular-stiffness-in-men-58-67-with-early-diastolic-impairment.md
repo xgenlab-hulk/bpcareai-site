@@ -76,23 +76,23 @@ See your doctor if you notice:
 
 ### FAQ
 
-#### #### Does intermittent fasting help diastolic stiffness in older men?
+#### Does intermittent fasting help diastolic stiffness in older men?
 
 Some clinical evidence suggests yes—particularly with consistent 12–16 hour overnight fasting windows. Studies in men 58–67 show modest improvements in E/e′ ratios and markers of myocardial fibrosis after 3–6 months, but results depend heavily on overall diet quality and medical stability.
 
-#### #### Is intermittent fasting and diastolic stiffness men a risk factor for heart failure?
+#### Is intermittent fasting and diastolic stiffness men a risk factor for heart failure?
 
 Not directly—but untreated early diastolic impairment *can* progress to heart failure with preserved ejection fraction (HFpEF), especially in men with hypertension or diabetes. Intermittent fasting isn’t a cure, but it may be one supportive tool among many—including BP control and exercise—to slow progression.
 
-#### #### Can intermittent fasting and diastolic stiffness men be reversed?
+#### Can intermittent fasting and diastolic stiffness men be reversed?
 
 Complete reversal isn’t typical, but improvement is possible. Research shows collagen turnover can shift toward healthier balance, and E/e′ ratios can normalize or improve with combined lifestyle changes—including well-timed fasting, aerobic activity, and sodium moderation.
 
-#### #### What’s the safest fasting window for men over 60 with early diastolic dysfunction?
+#### What’s the safest fasting window for men over 60 with early diastolic dysfunction?
 
 Most evidence supports 12–14 hours—long enough to trigger metabolic benefits without increasing nocturnal BP variability or cortisol spikes. Avoid skipping breakfast or fasting past noon, as that may disrupt circadian glucose regulation.
 
-#### #### Does intermittent fasting lower blood pressure enough to help diastolic function?
+#### Does intermittent fasting lower blood pressure enough to help diastolic function?
 
 Yes—modestly. Meta-analyses report average reductions of 4–6 mm Hg systolic and 2–3 mm Hg diastolic in adults over 50 who follow structured fasting. Since arterial stiffness and ventricular stiffness are closely linked, even small BP improvements can ease diastolic workload over time.
 

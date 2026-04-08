@@ -83,22 +83,22 @@ Holiday time is meant to be warm, connected, and nourishing—not stressful or r
 
 ### FAQ
 
-#### #### Does eating holiday leftovers increase fall risk in elderly adults with low vitamin D?
+#### Does eating holiday leftovers increase fall risk in elderly adults with low vitamin D?
 
 Yes—indirectly. Vitamin D deficiency contributes to muscle weakness and slower reaction times. When combined with high-sodium, high-carb holiday meals, the body’s ability to regulate blood pressure upon standing may be further delayed. But this effect is reversible with balanced meals, adequate hydration, and safe sun exposure or supplementation as advised by your provider.
 
-#### #### How do holiday leftovers and fall risk in elderly relate to blood pressure changes?
+#### How do holiday leftovers and fall risk in elderly relate to blood pressure changes?
 
 Holiday leftovers often contain elevated sodium and refined carbs, both of which can trigger transient dips in orthostatic blood pressure—especially in adults over 77 whose vascular responsiveness naturally slows with age. A drop of 20 mm Hg systolic or more within 3 minutes of standing (orthostatic hypotension) is common after such meals—and increases fall likelihood by up to 30% in observational studies.
 
-#### #### Can reheated turkey or gravy really affect balance in seniors?
+#### Can reheated turkey or gravy really affect balance in seniors?
 
 Reheated proteins themselves aren’t the issue—but traditional preparation methods often add significant sodium (via brining, seasoning, or canned gravies). One cup of canned gravy may contain 800–1,000 mg sodium—nearly two-thirds of a day’s recommended limit for older adults. Paired with mashed potatoes (often made with butter, milk, and salt), this combo can shift fluid balance and blunt baroreceptor response, making posture transitions less stable.
 
-#### #### Is it safer to skip leftovers entirely—or just adjust how I eat them?
+#### Is it safer to skip leftovers entirely—or just adjust how I eat them?
 
 Skipping leftovers isn’t necessary or advisable. Social meals support emotional well-being and nutritional intake. Instead, focus on *how*: serve smaller portions alongside potassium-rich vegetables, drink water before and after eating, and allow 1–2 minutes to sit upright before standing. These small shifts honor both tradition and safety.
 
-#### #### What’s the best time of day to eat holiday leftovers if I’m concerned about falls?
+#### What’s the best time of day to eat holiday leftovers if I’m concerned about falls?
 
 Early afternoon—between 12:00–2:30 p.m.—is often ideal. Core body temperature and alertness peak midday, supporting better autonomic response. Avoid large leftover meals within 2 hours of bedtime or after long naps, as postprandial hypotension risk rises when the parasympathetic nervous system is dominant.

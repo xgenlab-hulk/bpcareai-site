@@ -1,0 +1,20 @@
+{
+  "date": "2026-03-29",
+  "period": "3-day",
+  "impressionsChange": 157.66871165644173,
+  "clicksChange": -100,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "how pets improve heart health and lower blood pressure",
+      "reason": "排名跃升 10.0 位（60.0 → 50.0）",
+      "score": 30,
+      "recentImpressions": 1,
+      "baselineImpressions": 5,
+      "recentPosition": 50,
+      "baselinePosition": 60
+    }
+  ]
+}

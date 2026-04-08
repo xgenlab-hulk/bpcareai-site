@@ -74,22 +74,22 @@ Muscle health isn’t about perfection—it’s about consistency, compassion, a
 
 ### FAQ
 
-#### #### Does eating late really affect growth hormone in seniors?
+#### Does eating late really affect growth hormone in seniors?
 
 Yes—studies confirm that meals or snacks consumed within 2–3 hours of bedtime significantly reduce the amplitude of nocturnal growth hormone pulses in adults over 55. This effect is more pronounced in those with existing sarcopenia or insulin resistance, but it’s reversible with consistent timing adjustments.
 
-#### #### How does family meal timing growth hormone sarcopenia connect to holiday weight gain?
+#### How does family meal timing growth hormone sarcopenia connect to holiday weight gain?
 
 Holiday weight gain in this age group is less about calorie surplus and more about *timing-driven metabolic shifts*. Late eating blunts GH, reduces fat oxidation overnight, and may promote mild insulin resistance—creating conditions where even modest calories are stored more readily. Prioritizing earlier, protein-rich dinners helps maintain metabolic flexibility.
 
-#### #### Can changing family meal timing growth hormone sarcopenia improve strength without exercise?
+#### Can changing family meal timing growth hormone sarcopenia improve strength without exercise?
 
 Dietary timing alone won’t replace movement—but it creates the hormonal environment where exercise *works better*. When GH pulses are robust, resistance training yields stronger muscle protein synthesis responses. Think of timing as the “fertilizer” that helps your strength-building efforts take deeper root.
 
-#### #### What’s the best time to eat dinner if I go to bed at 10:30 p.m.?
+#### What’s the best time to eat dinner if I go to bed at 10:30 p.m.?
 
 For most adults aged 59–66, finishing dinner by 7:30 p.m. allows a comfortable 3-hour buffer before sleep—supporting digestion, insulin normalization, and GH readiness. If your schedule requires later dining, focus on keeping the meal moderate in size and lower in refined carbs—then skip evening snacks entirely.
 
-#### #### Is intermittent fasting recommended for adults with sarcopenia?
+#### Is intermittent fasting recommended for adults with sarcopenia?
 
 Time-restricted eating (e.g., 12-hour windows) can be helpful *if* protein intake remains sufficient and well-distributed. However, aggressive fasting (e.g., 16:8) may backfire for some seniors by reducing total daily protein or triggering muscle catabolism. Always prioritize protein adequacy (1.2–1.5 g/kg body weight/day) and discuss plans with your care team.

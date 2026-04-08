@@ -69,22 +69,22 @@ Holiday traditions are rooted in connection, comfort, and shared sweetness—not
 
 ### FAQ
 
-#### #### Does eating pie late cause nighttime acid reflux in seniors?
+#### Does eating pie late cause nighttime acid reflux in seniors?
 
 Yes—especially after age 65. Slower gastric emptying, reduced esophageal motility, and weaker sphincter pressure make late-evening pie a common trigger for *prevent nighttime acid reflux after pie*. Aim to finish dessert by 7 p.m. if bedtime is 10 p.m.
 
-#### #### What’s the best pie for someone with GERD who wants to prevent nighttime acid reflux after pie?
+#### What’s the best pie for someone with GERD who wants to prevent nighttime acid reflux after pie?
 
 Lighter-textured, lower-fat options work best: baked apple (with minimal butter/sugar), cranberry-orange, or poached pear. Avoid custard, pecan, and cream-based pies—and skip heavy whipped cream or ice cream.
 
-#### #### Can sitting upright after pie really prevent nighttime acid reflux after pie?
+#### Can sitting upright after pie really prevent nighttime acid reflux after pie?
 
 Absolutely. Staying upright at ≥45° for 45–60 minutes post-meal uses gravity to keep stomach contents where they belong—and research shows it reduces nocturnal reflux episodes by up to 40% in older adults.
 
-#### #### Is it safe to take antacids after holiday pie?
+#### Is it safe to take antacids after holiday pie?
 
 Occasional use is generally safe, but long-term reliance may mask underlying issues. If you need antacids more than twice a week, talk with your doctor—especially if you’re also managing hypertension or taking heart medications.
 
-#### #### Does blood pressure affect nighttime reflux?
+#### Does blood pressure affect nighttime reflux?
 
 Not directly—but some BP medications (like calcium channel blockers) can relax the lower esophageal sphincter, potentially worsening reflux. Always review your full medication list with your provider when managing GERD.

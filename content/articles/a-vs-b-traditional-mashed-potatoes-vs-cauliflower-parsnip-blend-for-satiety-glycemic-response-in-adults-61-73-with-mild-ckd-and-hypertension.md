@@ -70,22 +70,22 @@ If you're unsure, talking to your doctor is always a good idea. And remember—t
 
 ### FAQ
 
-#### #### Is cauliflower-parsnip mash safer than mashed potatoes for someone with stage 3 CKD?
+#### Is cauliflower-parsnip mash safer than mashed potatoes for someone with stage 3 CKD?
 
 Yes—in most cases. It’s naturally lower in potassium and phosphorus, and higher in soluble fiber, which supports healthy blood pressure and gut-kidney axis balance. However, portion size and overall daily intake matter more than any single food. A ½-cup serving of either option fits well within a kidney-friendly pattern.
 
-#### #### Can I mix mashed potatoes and cauliflower for CKD—and still keep it heart-healthy?
+#### Can I mix mashed potatoes and cauliflower for CKD—and still keep it heart-healthy?
 
 Absolutely. A 50/50 blend cuts potassium by ~30%, boosts fiber, and retains creaminess. Just skip added salt, use skin-on potatoes, and cool the blend slightly before serving to encourage resistant starch formation—especially helpful if you’re also watching blood sugar.
 
-#### #### How does cooling mashed potatoes affect potassium and BP in CKD patients?
+#### How does cooling mashed potatoes affect potassium and BP in CKD patients?
 
 Cooling doesn’t change potassium content—but it *does* increase resistant starch, which improves insulin sensitivity and reduces post-meal glucose spikes. Since high glucose stresses blood vessels and kidneys alike, this indirect effect supports both BP and renal health. No need to refrigerate overnight—just let it sit covered for 20–30 minutes before serving.
 
-#### #### What’s the best way to lower sodium in mashed potatoes without losing flavor?
+#### What’s the best way to lower sodium in mashed potatoes without losing flavor?
 
 Rinse boiled potatoes well, use unsalted plant-based milk or low-sodium broth, and rely on umami-rich seasonings: nutritional yeast (check phosphorus label), white miso paste (¼ tsp max—contains sodium but also beneficial peptides), or sautéed shallots and mushrooms. Fresh herbs and citrus zest work wonders, too.
 
-#### #### Does parsnip have too much potassium for CKD?
+#### Does parsnip have too much potassium for CKD?
 
 Not in typical serving sizes. One ½-cup serving of cooked parsnip contains ~190 mg potassium—well within safe limits for most with mild CKD. Its potassium is also balanced by high magnesium and calcium, which support vascular relaxation and counter sodium effects. As always, consistency across the day matters more than one food.

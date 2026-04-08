@@ -105,17 +105,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Is coconut water safe for people with HFpEF and kidney disease?  
+#### Is coconut water safe for people with HFpEF and kidney disease?  
 For many with HFpEF and eGFR 45–59, plain coconut water poses a *coconut water hfpef kidney function risk*, especially with certain medications or during hot weather. Its high potassium and low sodium can disrupt electrolyte balance. Occasional small servings may be fine if labs are stable — but always check with your care team first.
 
-#### #### Can coconut water raise blood pressure in HFpEF?  
+#### Can coconut water raise blood pressure in HFpEF?  
 Coconut water itself doesn’t typically raise BP directly — but its low sodium and high potassium may interfere with RAAS-regulating meds, indirectly affecting arterial pressure control. More commonly, rapid fluid shifts from hypotonic drinks can increase filling pressures, contributing to symptoms like breathlessness — not necessarily elevated BP readings, but increased cardiac strain.
 
-#### #### What are safer electrolyte drinks for HFpEF and reduced kidney function?  
+#### What are safer electrolyte drinks for HFpEF and reduced kidney function?  
 Look for low-sugar, sodium-containing options with moderate potassium (e.g., 20–40 mEq/L). Some people do well with diluted pediatric oral rehydration solutions (ORS) or custom-mixed drinks (e.g., 1 cup water + pinch of salt + ½ tsp honey). Always avoid “potassium boost” formulas unless specifically recommended by your nephrologist or cardiologist.
 
-#### #### Does coconut water hfpef kidney function risk apply year-round?  
+#### Does coconut water hfpef kidney function risk apply year-round?  
 The risk is highest during summer heat, prolonged outdoor activity, or illness with vomiting/diarrhea — times when fluid, sodium, and potassium losses shift rapidly. In cooler months with stable routines and normal kidney function, occasional small amounts are less likely to cause issues — but consistency matters more than season.
 
-#### #### Can I still eat coconut or use coconut milk if I have HFpEF and eGFR 45–59?  
+#### Can I still eat coconut or use coconut milk if I have HFpEF and eGFR 45–59?  
 Yes — whole coconut flesh and unsweetened coconut milk (in typical culinary amounts) contain far less potassium per serving than liquid coconut water and are generally safe. Focus on overall dietary patterns, not single foods. As always, personalization with your dietitian or care team brings the most confidence.

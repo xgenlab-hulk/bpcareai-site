@@ -84,22 +84,22 @@ Holiday seasons—even complicated ones—don’t have to be all-or-nothing when
 
 ### FAQ
 
-#### #### Can intermittent fasting multigenerational holidays mci be safe for someone with early memory changes?
+#### Can intermittent fasting multigenerational holidays mci be safe for someone with early memory changes?
 
 Yes—with careful planning and individualization. Studies suggest that structured, shorter fasting windows (e.g., 12:12) may be better tolerated than 16:8 in adults with MCI, especially during unpredictable times. Safety hinges on hydration, protein intake, medication timing, and monitoring for dizziness or mental fog—not on the fasting itself.
 
-#### #### Does intermittent fasting multigenerational holidays mci increase fall risk?
+#### Does intermittent fasting multigenerational holidays mci increase fall risk?
 
 Potentially—yes, especially if fasting leads to orthostatic hypotension (a BP drop when standing), low sodium, or delayed gastric emptying. One 2022 cohort study found that adults with MCI who skipped breakfast during high-schedule-variability weeks had a 2.3× higher incidence of near-falls compared to those who ate a light morning meal.
 
-#### #### Is it okay to skip meals during family gatherings if I have MCI?
+#### Is it okay to skip meals during family gatherings if I have MCI?
 
 Occasional skipping is usually fine—but habitual or unplanned skipping increases risks of low blood sugar, dehydration, and reduced attention span. Instead of skipping, consider modifying portions, choosing nutrient-dense options first, or pausing between servings. Your brain thrives on predictability, not deprivation.
 
-#### #### How does holiday stress affect cognition in people with MCI?
+#### How does holiday stress affect cognition in people with MCI?
 
 Holiday-related stress—especially from scheduling uncertainty, caregiving demands, or social expectations—can temporarily reduce working memory capacity and slow processing speed. Cortisol fluctuations may interfere with hippocampal function, making it harder to recall names or follow conversations. Prioritizing rest, familiar routines, and saying “no” without guilt are powerful cognitive supports.
 
-#### #### What’s the best way to enjoy holiday foods while protecting brain health?
+#### What’s the best way to enjoy holiday foods while protecting brain health?
 
 Focus on balance, not restriction: include colorful vegetables, lean proteins, healthy fats (like nuts or olive oil), and whole grains—even in small servings. Savor flavors slowly. Stay hydrated. And remember: joy, laughter, and meaningful connection are themselves neuroprotective. Your presence matters more than your plate.

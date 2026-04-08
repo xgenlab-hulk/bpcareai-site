@@ -100,22 +100,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can lymphedema cause falsely low blood pressure readings?
+#### Can lymphedema cause falsely low blood pressure readings?
 
 Yes—lymphedema increases tissue density and dampens the oscillometric signal used by automatic monitors. This often leads to *false low blood pressure readings lymphedema*, particularly in the affected arm. The effect is more pronounced with moderate-to-severe swelling or improper cuff fit.
 
-#### #### Why do my BP readings seem lower on my swollen arm?
+#### Why do my BP readings seem lower on my swollen arm?
 
 Swelling alters how pressure transmits through tissue and can displace the cuff away from the brachial artery. Combined with reduced arterial pulsation amplitude, this causes the device to underestimate true systolic and diastolic pressure—resulting in *false low blood pressure readings lymphedema*. Using the unaffected arm (if appropriate) usually yields more reliable data.
 
-#### #### What’s the best blood pressure cuff for someone with lymphedema?
+#### What’s the best blood pressure cuff for someone with lymphedema?
 
 There’s no single “best” brand, but optimal cuffs have: (1) a contoured, wide-bladder design that conforms to irregular contours; (2) clear alignment markers; and (3) sizing validated for arms with circumferences ≥34 cm. Always pair the right cuff with proper technique—no device compensates for misplacement.
 
-#### #### Can post-mastectomy swelling affect home blood pressure accuracy?
+#### Can post-mastectomy swelling affect home blood pressure accuracy?
 
 Absolutely. Axillary lymph node removal or radiation commonly triggers upper-limb lymphedema, which interferes with oscillometric detection. This is a leading cause of *false low blood pressure readings lymphedema* in breast cancer survivors—and underscores why routine validation (e.g., manual sphygmomanometer checks) is recommended.
 
-#### #### Is a wrist BP monitor safe to use with lymphedema?
+#### Is a wrist BP monitor safe to use with lymphedema?
 
 No. Wrist monitors are highly sensitive to positioning, temperature, and tissue changes—and upper-limb lymphedema significantly impacts radial artery signal quality. Upper-arm cuffs remain the preferred method, ideally used on the unaffected side when feasible.

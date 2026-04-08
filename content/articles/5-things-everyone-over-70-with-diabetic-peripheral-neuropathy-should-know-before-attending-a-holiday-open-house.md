@@ -77,22 +77,22 @@ Living well with diabetic peripheral neuropathy doesn’t mean withdrawing from 
 
 ### FAQ
 
-#### #### How can I improve diabetic neuropathy holiday open house safety at home when hosting?
+#### How can I improve diabetic neuropathy holiday open house safety at home when hosting?
 
 When hosting, prioritize accessible pathways (remove throw rugs, ensure clear 36-inch-wide walkways), install nightlights in hallways and bathrooms, maintain consistent room temperatures, and offer seating options at varied heights. Label thresholds with contrasting tape and keep food/drink stations at waist height to reduce bending and reaching.
 
-#### #### What are the biggest risks of diabetic neuropathy holiday open house safety for seniors?
+#### What are the biggest risks of diabetic neuropathy holiday open house safety for seniors?
 
 The top three evidence-based risks are falls due to impaired balance and poor contrast detection, unrecognized foot injury from ill-fitting footwear or friction, and delayed response to hypoglycemia or temperature extremes—all amplified by environmental unpredictability and social distraction.
 
-#### #### Does diabetic neuropathy holiday open house safety apply to virtual gatherings too?
+#### Does diabetic neuropathy holiday open house safety apply to virtual gatherings too?
 
 While physical risks don’t apply, virtual open houses still matter for emotional and cognitive wellness. For those with neuropathy-related fatigue or concentration challenges, shorter, scheduled video calls with clear audio and large-text invitations support engagement without overexertion.
 
-#### #### Are heated floors or space heaters safe for people with diabetic neuropathy during holiday events?
+#### Are heated floors or space heaters safe for people with diabetic neuropathy during holiday events?
 
 Use caution: heated floors above 86°F (30°C) can cause thermal injury without warning due to reduced heat sensation. Space heaters should be placed at least 3 feet from seating and never directed at bare feet or legs. Always test floor temperature with your elbow—not your foot—before prolonged contact.
 
-#### #### Can neuropathy symptoms improve enough to attend open houses more confidently?
+#### Can neuropathy symptoms improve enough to attend open houses more confidently?
 
 While nerve regeneration is limited, symptom progression can slow significantly with optimized glucose control (A1C <7.0%), regular physical activity (e.g., seated tai chi or balance-focused strength training), and proper foot care. Many people report improved confidence and reduced fall frequency within 3–6 months of consistent lifestyle and clinical support.

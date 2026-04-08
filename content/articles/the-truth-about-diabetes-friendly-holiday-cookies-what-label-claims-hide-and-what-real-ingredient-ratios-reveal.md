@@ -68,17 +68,17 @@ The *diabetes-friendly holiday cookies truth* isn’t meant to dim the warmth of
 
 ### FAQ
 
-#### #### Are “diabetes-friendly holiday cookies truth” claims regulated by the FDA?
+#### Are “diabetes-friendly holiday cookies truth” claims regulated by the FDA?
 No—terms like “diabetes-friendly,” “low glycemic,” and “keto-approved” are not defined or enforced by the U.S. Food and Drug Administration. Manufacturers may use them without third-party verification, clinical testing, or standardized methodology.
 
-#### #### What should I look for instead of “diabetes-friendly holiday cookies truth” labels?
+#### What should I look for instead of “diabetes-friendly holiday cookies truth” labels?
 Focus on concrete, measurable indicators: total carbohydrate (under 15g per serving), dietary fiber (at least 3g), minimal added sugars (<5g), and whole-food ingredients listed first. When in doubt, pair the cookie with protein or fat—and monitor your own response.
 
-#### #### Do sugar alcohols in “diabetes-friendly holiday cookies truth” products always lower net carbs safely?
+#### Do sugar alcohols in “diabetes-friendly holiday cookies truth” products always lower net carbs safely?
 Not always. Erythritol has negligible impact on blood glucose, but maltitol, sorbitol, and xylitol are partially absorbed and can raise blood sugar—especially in larger amounts (≥5g per serving). Always check the type and quantity of sugar alcohols listed.
 
-#### #### Can holiday cookies affect my blood pressure?
+#### Can holiday cookies affect my blood pressure?
 Yes—indirectly. Large carbohydrate loads followed by rapid glucose spikes may trigger sympathetic nervous system activation and transient increases in arterial pressure. For adults with existing hypertension, pairing cookies with mindful movement and hydration helps support steady BP.
 
-#### #### Is it okay to enjoy holiday cookies if I have prediabetes?
+#### Is it okay to enjoy holiday cookies if I have prediabetes?
 Absolutely—with awareness. Prediabetes is a powerful opportunity to tune in to how different foods affect your body. Start with smaller portions, pair thoughtfully, and consider checking glucose before and 1–2 hours after to learn your personal patterns.

@@ -58,17 +58,17 @@ In short, holiday feasting and atrial fibrillation are linked through lifestyle 
 
 ### FAQ
 
-#### #### Can holiday feasting and atrial fibrillation happen even without alcohol?
+#### Can holiday feasting and atrial fibrillation happen even without alcohol?
 Yes. While alcohol is a well-known trigger, large high-sodium meals, caffeine surges, dehydration, and emotional stress can all contribute independently—or together—to arrhythmia risk, especially in older adults with underlying heart conditions.
 
-#### #### Is holiday feasting and atrial fibrillation reversible?
+#### Is holiday feasting and atrial fibrillation reversible?
 Often, yes. When Afib occurs in the context of acute triggers like overeating or drinking (sometimes called “holiday heart syndrome”), it frequently resolves on its own within 24–48 hours once the trigger passes. However, recurrent episodes warrant evaluation to rule out persistent Afib or other contributing factors.
 
-#### #### How much sodium is too much during holiday feasting?
+#### How much sodium is too much during holiday feasting?
 For adults over 55—especially those with hypertension or heart disease—the American Heart Association recommends no more than 1,500 mg of sodium per day. A single serving of canned soup or holiday ham can contain 800–1,200 mg, so reading labels and choosing fresh, whole foods helps keep totals in check.
 
-#### #### Does caffeine really affect atrial fibrillation risk during the holidays?
+#### Does caffeine really affect atrial fibrillation risk during the holidays?
 For most people, moderate caffeine (up to 200–300 mg/day, about 2–3 cups of coffee) doesn’t increase Afib risk. But pairing it with alcohol, lack of sleep, or dehydration—common during holiday travel or parties—may amplify sensitivity in some individuals.
 
-#### #### What’s the difference between “holiday heart syndrome” and chronic atrial fibrillation?
+#### What’s the difference between “holiday heart syndrome” and chronic atrial fibrillation?
 Holiday heart syndrome refers to temporary, often alcohol-triggered arrhythmias that resolve spontaneously. Chronic or persistent atrial fibrillation lasts longer than seven days or requires treatment to restore normal rhythm—and usually reflects underlying structural or electrical changes in the heart.

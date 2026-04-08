@@ -63,22 +63,22 @@ You’re not alone in feeling quieter, slower, or more reflective as the seasons
 
 ### FAQ
 
-#### #### Can mindfulness for seasonal depression seniors really make a difference—or is it just relaxation?
+#### Can mindfulness for seasonal depression seniors really make a difference—or is it just relaxation?
 
 Yes—mindfulness goes beyond relaxation. Clinical trials, including a 2022 randomized controlled study in *JAMA Internal Medicine*, showed that older adults (65+) practicing guided mindfulness for 10 minutes daily over eight weeks reported a 32% greater improvement in mood scores compared to control groups. Unlike passive relaxation, mindfulness trains attention regulation and emotional responsiveness—key skills for managing seasonal low mood.
 
-#### #### What’s the best type of mindfulness for seasonal depression seniors with limited mobility?
+#### What’s the best type of mindfulness for seasonal depression seniors with limited mobility?
 
 Seated or lying-down practices work beautifully. Guided body scans (focusing gently on sensations from head to toe), mindful breathing, and sensory awareness (noticing sounds, smells, or warmth) require no movement and are highly adaptable. Many community centers and senior wellness programs offer chair-based mindfulness classes—and some libraries provide free audio resources.
 
-#### #### How long before I notice benefits from mindfulness for seasonal depression seniors?
+#### How long before I notice benefits from mindfulness for seasonal depression seniors?
 
 Most people begin to notice subtle shifts—like slightly easier mornings or less reactivity to stress—within 2–4 weeks of consistent, gentle practice (5–10 minutes, 3–5 days/week). Deeper benefits—improved sleep continuity, greater emotional steadiness, and renewed interest in activities—often emerge after 6–8 weeks. Patience and self-compassion are part of the practice itself.
 
-#### #### Is seasonal depression in older adults the same as clinical depression?
+#### Is seasonal depression in older adults the same as clinical depression?
 
 Not always—but it can be. Seasonal depression in older adults is considered a subtype of Major Depressive Disorder (MDD) when it meets diagnostic criteria: depressed mood or loss of interest nearly every day for at least two weeks, plus at least four additional symptoms (e.g., fatigue, insomnia, poor concentration). Because symptoms can be masked by medical conditions, professional evaluation is essential for accurate understanding and support.
 
-#### #### Can mindfulness replace antidepressants for seasonal depression in older adults?
+#### Can mindfulness replace antidepressants for seasonal depression in older adults?
 
 Mindfulness is a powerful *complement* to treatment—not a substitute. For mild seasonal depression, it may be recommended as a first-line approach alongside lifestyle adjustments. However, for moderate to severe symptoms—or if symptoms interfere with daily functioning—medication, therapy, or light therapy may be needed. Always discuss changes to treatment plans with your prescribing clinician.

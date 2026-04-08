@@ -46,17 +46,17 @@ In short, holiday meals are meant for connection, comfort, and joy—not stress.
 
 ### FAQ  
 
-#### #### Can holiday stuffing really affect my warfarin dose?  
+#### Can holiday stuffing really affect my warfarin dose?  
 Yes—especially if portion sizes or ingredient amounts (like spinach or sage) vary from your usual intake. Inconsistent vitamin K intake is one of the top dietary reasons for INR fluctuations in seniors on warfarin.
 
-#### #### Is holiday stuffing warfarin vitamin k seniors something I need to avoid entirely?  
+#### Is holiday stuffing warfarin vitamin k seniors something I need to avoid entirely?  
 No. You don’t need to avoid it—but aim for consistency. Eating the same moderate portion regularly helps your care team adjust your dose confidently. Sudden increases *or* decreases in vitamin K are what pose the real risk.
 
-#### #### How much vitamin K is in typical holiday stuffing?  
+#### How much vitamin K is in typical holiday stuffing?  
 It varies widely: homemade versions with ½ cup chopped spinach and 2 tbsp fresh parsley may contain 50–90 mcg per ½-cup serving—nearly half the daily Adequate Intake (120 mcg) for men over 50. Store-bought or poultry-based stuffings tend to be lower (10–30 mcg), but always check labels if possible.
 
-#### #### Does eating spinach-sage loaf daily make holiday stuffing safer—or riskier?  
+#### Does eating spinach-sage loaf daily make holiday stuffing safer—or riskier?  
 Eating it daily *helps*, as long as you keep portions steady. Consistency allows your body—and your warfarin dose—to adapt. The risk comes when holiday meals introduce *new* or *larger* servings on top of your routine.
 
-#### #### Can other holiday foods interact with warfarin besides stuffing?  
+#### Can other holiday foods interact with warfarin besides stuffing?  
 Yes—cranberry sauce (in large amounts), grapefruit juice, alcohol (especially in excess), and certain herbal teas (like green tea or ginkgo) may also affect warfarin metabolism. Stick to moderate, familiar amounts—and always share dietary updates with your pharmacist or anticoagulation clinic.

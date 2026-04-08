@@ -68,22 +68,22 @@ Your heart has remarkable resilience—even as we age. Small, intentional habits
 
 ### FAQ
 
-#### #### What does quick atrial electrophysiology normalization actually mean for seniors?
+#### What does quick atrial electrophysiology normalization actually mean for seniors?
 
 It refers to safe, gentle techniques—like controlled breathing, positioning, and mild cooling—that help restore balanced electrical signaling in the heart’s upper chambers, especially after common triggers like holiday meals. It’s not about speed, but about supporting the body’s natural rhythm regulation.
 
-#### #### Can quick atrial electrophysiology normalization replace my AFib medication?
+#### Can quick atrial electrophysiology normalization replace my AFib medication?
 
 No—this approach is designed to complement your prescribed treatment plan, not substitute for it. Always continue medications as directed and discuss any new strategies with your cardiologist or primary care provider.
 
-#### #### Is the 90-second protocol safe for people with neck arthritis or osteoporosis?
+#### Is the 90-second protocol safe for people with neck arthritis or osteoporosis?
 
 Yes—with modifications. Skip the cervical extension if it causes discomfort; instead, rest comfortably supine and focus on slow breathing and occipital cooling. Let comfort guide you—you can still benefit from vagal support without strain.
 
-#### #### How often can I use this technique?
+#### How often can I use this technique?
 
 As needed—but ideally no more than 2–3 times per week unless advised otherwise by your care team. Frequent use may suggest underlying triggers (e.g., dietary patterns or sleep disruption) worth exploring together with your doctor.
 
-#### #### Does holiday heart syndrome only happen during December?
+#### Does holiday heart syndrome only happen during December?
 
 Not at all. “Holiday heart syndrome” is a colloquial term for rhythm disturbances triggered by overindulgence—whether at Thanksgiving, summer barbecues, or family celebrations year-round. The principles of **quick atrial electrophysiology normalization** apply anytime.

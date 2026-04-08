@@ -67,22 +67,22 @@ In closing: *nsaid diastolic hypertension aging kidneys* is a real, measurable, 
 
 ### FAQ
 
-#### #### Can long-term ibuprofen use cause high diastolic blood pressure in seniors?
+#### Can long-term ibuprofen use cause high diastolic blood pressure in seniors?
 
 Yes — especially with daily or near-daily use after age 65. Ibuprofen interferes with kidney prostaglandins and RAAS signaling, leading to sodium retention and increased peripheral resistance. This commonly elevates the diastolic number first, contributing to *nsaid diastolic hypertension aging kidneys*.
 
-#### #### What’s the difference between NSAID-related diastolic hypertension and regular high blood pressure?
+#### What’s the difference between NSAID-related diastolic hypertension and regular high blood pressure?
 
 NSAID-related diastolic hypertension tends to be “masked”: it may not show up on clinic readings but appears clearly in home or ambulatory monitoring — particularly in the afternoon or after activity. It’s also more closely tied to kidney function changes and often reverses partially when NSAIDs are reduced.
 
-#### #### Does naproxen affect blood pressure differently than ibuprofen in older adults?
+#### Does naproxen affect blood pressure differently than ibuprofen in older adults?
 
 Naproxen has a longer half-life (12–17 hours vs. ibuprofen’s 2–4 hours), so its impact on renal prostaglandins lasts longer — potentially causing more sustained diastolic elevation in aging kidneys. Both contribute to *nsaid diastolic hypertension aging kidneys*, but naproxen may pose slightly higher risk for persistent pressure shifts.
 
-#### #### Can I still take NSAIDs if I have early-stage kidney disease?
+#### Can I still take NSAIDs if I have early-stage kidney disease?
 
 It depends on your eGFR, current BP control, and overall cardiovascular risk. Many clinicians recommend avoiding routine NSAID use if eGFR is <60 mL/min/1.73m² — and exercising caution even above that. Safer alternatives should be explored first.
 
-#### #### Is diastolic hypertension more dangerous than systolic as we age?
+#### Is diastolic hypertension more dangerous than systolic as we age?
 
 Historically, systolic pressure received more attention — but growing evidence shows that elevated diastolic pressure (≥80–85 mm Hg) in adults over 60 independently predicts heart failure, stroke, and microvascular kidney damage — especially when driven by medication-related mechanisms like *nsaid diastolic hypertension aging kidneys*.

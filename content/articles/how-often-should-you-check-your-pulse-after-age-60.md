@@ -98,22 +98,22 @@ Caring for your heart after 60 isn’t about perfection—it’s about presence.
 
 ### FAQ
 
-#### #### How often should seniors check their pulse for heart health?
+#### How often should seniors check their pulse for heart health?
 
 Most healthy adults over 60 benefit from checking their pulse once or twice a week—ideally at rest and at the same time of day. If you have known heart conditions, high blood pressure, or experience symptoms like dizziness or palpitations, your doctor may recommend daily checks. Consistency matters more than frequency.
 
-#### #### Is checking pulse frequency for seniors heart health really necessary if I feel fine?
+#### Is checking pulse frequency for seniors heart health really necessary if I feel fine?
 
 Yes—even if you feel perfectly fine. Conditions like atrial fibrillation often begin silently, with no obvious symptoms. Regular pulse checks help detect irregular rhythms early, giving your care team time to intervene before complications like stroke or heart failure develop.
 
-#### #### What’s the best time of day to check pulse for seniors?
+#### What’s the best time of day to check pulse for seniors?
 
 Morning (after waking and sitting quietly for 2–3 minutes) and evening (before bed, after relaxing) are ideal. Avoid checking right after meals, exercise, caffeine, or emotional stress—these can temporarily elevate or distort your reading.
 
-#### #### Can checking my pulse tell me if I have high blood pressure?
+#### Can checking my pulse tell me if I have high blood pressure?
 
 Not directly—pulse rate and blood pressure measure different things. However, a persistently high resting pulse (over 90–100 bpm) *can* sometimes signal underlying issues like untreated hypertension, anemia, or thyroid imbalance. Always confirm BP with a validated monitor—and discuss patterns with your doctor.
 
-#### #### What’s a normal pulse rate for someone over 65?
+#### What’s a normal pulse rate for someone over 65?
 
 A typical resting pulse for adults over 65 ranges from **60 to 100 beats per minute**, though many healthy seniors land comfortably between 65–85 bpm. More important than the exact number is rhythm: steady, strong, and consistent beats are a reassuring sign—even if the rate leans toward the lower or higher end of normal.

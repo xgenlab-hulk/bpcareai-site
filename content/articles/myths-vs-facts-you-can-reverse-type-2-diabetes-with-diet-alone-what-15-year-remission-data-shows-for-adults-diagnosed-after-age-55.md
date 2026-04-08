@@ -68,17 +68,17 @@ While true *type 2 diabetes reversal after 55* is possible for some, it’s neit
 
 ### FAQ
 
-#### #### Can type 2 diabetes reversal after 55 really happen without medication?
+#### Can type 2 diabetes reversal after 55 really happen without medication?
 Yes—some adults do achieve remission without drugs, but it typically requires significant, sustained weight loss (often ≥10%) *soon after diagnosis*, plus ongoing lifestyle commitment. Long-term data shows durability remains challenging, especially beyond 5 years.
 
-#### #### Is type 2 diabetes reversal after 55 the same as for younger adults?
+#### Is type 2 diabetes reversal after 55 the same as for younger adults?
 No. Adults diagnosed after 55 generally have less beta-cell reserve and slower metabolic adaptation. Remission rates are lower, and relapse risk is higher—even with similar weight loss—due to age-related changes in fat metabolism and mitochondrial function.
 
-#### #### Does remission mean I no longer need to monitor my blood sugar?
+#### Does remission mean I no longer need to monitor my blood sugar?
 No. Even in remission, annual HbA1c testing and periodic fasting glucose checks are essential. Remission can reverse silently—especially with weight regain or aging-related decline in insulin secretion.
 
-#### #### What’s the difference between remission and reversal?
+#### What’s the difference between remission and reversal?
 “Reversal” is a non-medical term often used interchangeably with remission—but clinicians prefer “remission” because it acknowledges that underlying susceptibility remains. True biological reversal (i.e., full restoration of pre-diabetes physiology) is rare, particularly after age 55.
 
-#### #### Can prediabetes be reversed after 55?
+#### Can prediabetes be reversed after 55?
 Yes—prediabetes reversal after 55 is more common and durable than type 2 diabetes remission. Lifestyle changes like modest weight loss, increased activity, and Mediterranean-style eating reduce progression to diabetes by up to 71% in adults over 60 (per the DPPOS follow-up).

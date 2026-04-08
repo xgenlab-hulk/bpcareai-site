@@ -70,17 +70,17 @@ Subclinical retinal remodeling diabetes beta-blockers is a window—not a verdic
 
 ### FAQ
 
-#### #### What exactly is subclinical retinal remodeling diabetes beta-blockers?  
+#### What exactly is subclinical retinal remodeling diabetes beta-blockers?  
 It’s a pre-symptomatic phase where retinal blood vessels undergo structural and functional changes due to long-standing diabetes, aging, and the vascular effects of beta-blocker medications—before any vision loss or standard eye exam abnormalities appear.
 
-#### #### Can subclinical retinal remodeling diabetes beta-blockers increase stroke risk?  
+#### Can subclinical retinal remodeling diabetes beta-blockers increase stroke risk?  
 Yes. Because retinal and cerebral small vessels share physiology, biomarkers like OCTA vessel density loss or flicker ERG delay correlate with increased risk of silent brain infarcts and future ischemic stroke—studies show up to a 2.1-fold higher 5-year risk in affected individuals.
 
-#### #### Are beta-blockers bad for people with diabetes and eye concerns?  
+#### Are beta-blockers bad for people with diabetes and eye concerns?  
 Not inherently—but some types may reduce retinal perfusion reserve, especially in older adults with existing microvascular vulnerability. Medication choice should be individualized; discuss alternatives like vasodilating beta-blockers with your care team.
 
-#### #### How often should someone over 71 with diabetes get advanced retinal imaging?  
+#### How often should someone over 71 with diabetes get advanced retinal imaging?  
 If on beta-blockers and with diabetes duration >10 years, consider baseline OCTA + flicker ERG—and repeat every 12–18 months if initial results show early remodeling signs. Annual comprehensive dilated exams remain essential regardless.
 
-#### #### Does good blood sugar control prevent subclinical retinal remodeling diabetes beta-blockers?  
+#### Does good blood sugar control prevent subclinical retinal remodeling diabetes beta-blockers?  
 It significantly reduces risk—but doesn’t eliminate it, especially with advancing age and concurrent cardiovascular medications. Comprehensive management—including BP, lipids, and lifestyle—offers the best protection.

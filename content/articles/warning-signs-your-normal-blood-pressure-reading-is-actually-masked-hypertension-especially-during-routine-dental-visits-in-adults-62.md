@@ -70,17 +70,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What is masked hypertension during dental procedures—and why does it happen?
+#### What is masked hypertension during dental procedures—and why does it happen?
 Masked hypertension during dental procedures refers to elevated blood pressure that goes undetected during routine office checks but appears during dental visits due to factors like lying flat, epinephrine-containing anesthetics, or situational anxiety. It happens because standard BP measurement doesn’t account for these real-world physiological shifts—especially in adults over 60, whose vascular responsiveness changes with age.
 
-#### #### Can masked hypertension during dental procedures lead to long-term health problems?
+#### Can masked hypertension during dental procedures lead to long-term health problems?
 Not on its own—but if left unrecognized over time, it may signal underlying hypertension that increases risk for heart disease, stroke, or kidney damage. The good news? Early detection allows for lifestyle adjustments or timely intervention, often before medication is needed.
 
-#### #### How is masked hypertension during dental procedures different from white coat hypertension?
+#### How is masked hypertension during dental procedures different from white coat hypertension?
 White coat hypertension means BP is *higher* in medical settings (like the dentist’s office) but normal elsewhere. Masked hypertension is the opposite: BP appears normal in the office but rises in other contexts—including during dental procedures—making it harder to catch without intentional, varied monitoring.
 
-#### #### Should I tell my dentist if I have high blood pressure?
+#### Should I tell my dentist if I have high blood pressure?
 Yes—especially if you’ve ever had elevated readings at home, during past dental visits, or with symptoms like dizziness. Your dentist can adjust anesthetic choices (e.g., epinephrine-free options), allow extra rest time, or coordinate with your physician if follow-up is needed.
 
-#### #### Is it safe to get dental work done if I have masked hypertension during dental procedures?
+#### Is it safe to get dental work done if I have masked hypertension during dental procedures?
 Absolutely—most dental care remains safe and appropriate. Awareness simply helps your care team personalize your experience: choosing gentler anesthetics, scheduling shorter appointments, or incorporating relaxation techniques. It’s about thoughtful, individualized care—not restriction.

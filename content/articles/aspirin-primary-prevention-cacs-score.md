@@ -63,17 +63,17 @@ Heart disease remains a leading concern for adults over 50—but today’s scien
 
 ### FAQ
 
-#### #### Should I start aspirin at 55 if my CAC score is 0?
+#### Should I start aspirin at 55 if my CAC score is 0?
 Yes—*only if* other risk factors (like high BP, smoking, or family history) suggest elevated 10-year MACE risk (≥10%). A CAC of 0 is reassuring, but doesn’t eliminate all risk. Shared decision-making with your clinician is essential.
 
-#### #### Is aspirin primary prevention cacs score still recommended for women over 60?
+#### Is aspirin primary prevention cacs score still recommended for women over 60?
 For most women over 60—even with CAC <100—the net benefit of aspirin is neutral to slightly negative, per the 2024 USPSTF. Bleeding risk rises more steeply with age in women, and MACE reduction is smaller. Discuss alternatives like statins or BP management instead.
 
-#### #### Does aspirin primary prevention cacs score apply if I have diabetes?
+#### Does aspirin primary prevention cacs score apply if I have diabetes?
 Not typically—diabetes increases bleeding risk and reduces aspirin’s relative benefit, even with low CAC scores. Current guidelines prioritize tighter glucose control, BP management, and statin therapy first.
 
-#### #### Can lifestyle changes lower my CAC score?
+#### Can lifestyle changes lower my CAC score?
 CAC reflects accumulated plaque and generally doesn’t regress significantly with lifestyle alone—but healthy habits *do* slow progression, reduce inflammation, stabilize existing plaque, and lower future MACE risk substantially.
 
-#### #### What BP level should I aim for to support aspirin decisions?
+#### What BP level should I aim for to support aspirin decisions?
 For adults 50+, a target systolic BP <130 mm Hg (per ACC/AHA guidelines) helps maximize cardiovascular protection—whether or not you’re considering aspirin. Consistently elevated BP (>140/90 mm Hg) warrants evaluation and often treatment before adding aspirin.

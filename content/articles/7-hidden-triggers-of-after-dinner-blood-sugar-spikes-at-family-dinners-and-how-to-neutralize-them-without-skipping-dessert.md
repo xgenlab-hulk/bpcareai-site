@@ -63,22 +63,22 @@ Managing blood sugar doesn’t mean withdrawing from connection. In fact, shared
 
 ### FAQ
 
-#### #### What causes after-dinner blood sugar spikes at family dinners?
+#### What causes after-dinner blood sugar spikes at family dinners?
 
 After-dinner blood sugar spikes at family dinners often stem from a combination of delayed gastric emptying (from high-fat meals), elevated evening cortisol, alcohol consumed with carbohydrates, and eating sequence — not just dessert or portion size.
 
-#### #### How do I prevent after-dinner blood sugar spikes during holiday meals?
+#### How do I prevent after-dinner blood sugar spikes during holiday meals?
 
 Prioritize fiber-first eating, limit wine to one serving *after* the main course (not with it), take a short walk post-meal, and choose whole-food desserts with protein or healthy fat (e.g., Greek yogurt with berries).
 
-#### #### Are after-dinner blood sugar spikes family dinner moments dangerous for seniors?
+#### Are after-dinner blood sugar spikes family dinner moments dangerous for seniors?
 
 Yes — repeated spikes above 180 mg/dL two hours after eating correlate with increased arterial stiffness and endothelial dysfunction in adults over 60. Consistent monitoring helps guide timely lifestyle or medication adjustments.
 
-#### #### Can stress really raise blood sugar after dinner?
+#### Can stress really raise blood sugar after dinner?
 
 Absolutely. Emotional or social stress triggers cortisol release, which signals the liver to produce extra glucose — even without food intake. This effect is amplified in older adults with reduced cortisol clearance.
 
-#### #### Does drinking water help lower after-dinner blood sugar?
+#### Does drinking water help lower after-dinner blood sugar?
 
 Hydration supports kidney function and mild glucose dilution, but it does not significantly lower postprandial glucose on its own. However, replacing sugary drinks with water avoids an added 15–20 g of fast-absorbing carbs per serving.

@@ -80,22 +80,22 @@ Holidays shouldn’t come with a side of stomach upset or heartburn. With smart,
 
 ### FAQ
 
-#### #### What are the best low-FODMAP holiday sides seniors can make without aggravating GERD?
+#### What are the best low-FODMAP holiday sides seniors can make without aggravating GERD?
 
 The top options include roasted parsnips, ginger-sweet potato purée, quinoa-cranberry pilaf (using fresh cranberries), carrot-fennel ribbons, and spinach-walnut sauté. All avoid high-FODMAP ingredients *and* common reflux triggers like heavy fats, garlic, onion, and excess acidity—making them ideal *low-fodmap holiday sides seniors* can rely on.
 
-#### #### Where can I find easy low-FODMAP holiday sides seniors can prepare with minimal chopping or standing?
+#### Where can I find easy low-FODMAP holiday sides seniors can prepare with minimal chopping or standing?
 
 Look for recipes that emphasize roasting (one-pan, hands-off), blending (like the sweet potato purée), or quick sautés (spinach + walnuts takes under 8 minutes). Many of these dishes can be partially prepped 1–2 days ahead—chopping veggies, cooking grains, or grating ginger in advance saves energy and reduces fatigue.
 
-#### #### Are there store-bought low-FODMAP holiday sides seniors can trust?
+#### Are there store-bought low-FODMAP holiday sides seniors can trust?
 
 Very few—most pre-made sides contain onion/garlic powder, high-fructose corn syrup, or wheat. Always read labels carefully. Safe shortcuts include plain frozen quinoa (rinsed), canned lentils (in water, drained—*only* green or brown, ½ cup max), and frozen chopped spinach (thawed and squeezed). When in doubt, homemade is safest and often simpler than label-scanning.
 
-#### #### Can low-FODMAP holiday sides seniors eat still include fiber?
+#### Can low-FODMAP holiday sides seniors eat still include fiber?
 
 Yes—and they should! Soluble fiber from safe sources (like peeled sweet potato, carrots, spinach, and small portions of oats or quinoa) supports regularity and gut barrier health. Aim for 20–25 g of total fiber daily, increasing slowly to avoid gas. Hydration is key: sip water consistently throughout the day.
 
-#### #### Do low-FODMAP holiday sides seniors enjoy need to be completely bland or boring?
+#### Do low-FODMAP holiday sides seniors enjoy need to be completely bland or boring?
 
 Not at all. Flavor comes from herbs (thyme, rosemary, dill), spices (ginger, turmeric, nutmeg), citrus *zest*, toasted seeds, and quality oils—not garlic, onion, or heavy cream. Many seniors report that once they adjust, these clean, vibrant flavors feel *more* satisfying—not less.

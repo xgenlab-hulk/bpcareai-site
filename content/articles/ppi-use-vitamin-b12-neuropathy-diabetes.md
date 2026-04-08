@@ -71,22 +71,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does long-term PPI use cause B12 deficiency in people with diabetes and neuropathy?
+#### Does long-term PPI use cause B12 deficiency in people with diabetes and neuropathy?
 
 Yes—particularly after 1–2 years of daily use. PPIs reduce gastric acid and intrinsic factor, both needed for B12 absorption. When combined with diabetes-related gastric changes and existing neuropathy, the risk rises. Functional testing (MMA, homocysteine) gives clearer insight than B12 alone.
 
-#### #### Can PPI use vitamin B12 neuropathy diabetes be reversed with diet alone?
+#### Can PPI use vitamin B12 neuropathy diabetes be reversed with diet alone?
 
 Dietary changes—especially adding bioavailable B12 sources and supporting nutrients—can help maintain healthy levels and slow progression. But if deficiency is established, targeted repletion (e.g., oral high-dose or sublingual B12) is often recommended alongside food-first habits.
 
-#### #### What’s the safest way to stop PPIs if I’m concerned about B12 and neuropathy?
+#### What’s the safest way to stop PPIs if I’m concerned about B12 and neuropathy?
 
 Don’t stop abruptly. Work with your provider to taper gradually while monitoring symptoms—and consider assessing B12 status before and after. Some people transition successfully to H2 blockers (e.g., famotidine) or lifestyle-based reflux management.
 
-#### #### Are there natural alternatives to PPIs for managing heartburn in older adults with diabetes?
+#### Are there natural alternatives to PPIs for managing heartburn in older adults with diabetes?
 
 Yes—many find relief through meal timing (no eating 3 hours before bed), elevating the head of the bed, reducing portion sizes, and limiting common triggers like caffeine, alcohol, and spicy foods. Probiotic-rich foods (e.g., unsweetened kefir) may also support gut balance.
 
-#### #### Does high homocysteine always mean B12 is low?
+#### Does high homocysteine always mean B12 is low?
 
 Not always—but it’s a strong signal, especially when paired with low-normal B12 or elevated MMA. Other contributors include low folate, low vitamin B6, kidney function changes, or genetic variations (e.g., MTHFR). Context matters, and your care team can help interpret what’s most relevant for you.

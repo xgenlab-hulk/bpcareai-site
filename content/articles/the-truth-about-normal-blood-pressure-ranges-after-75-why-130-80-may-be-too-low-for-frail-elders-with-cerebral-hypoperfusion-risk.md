@@ -62,22 +62,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What’s a safe blood pressure target for a frail 80-year-old?
+#### What’s a safe blood pressure target for a frail 80-year-old?
 
 For frail elders over 75, many experts now recommend a systolic target between 135–145 mm Hg—especially if orthostatic hypotension, gait slowing, or white matter disease is present. Aggressive lowering to <130 mm Hg may increase fall and cognitive risks in this group.
 
-#### #### Are blood pressure targets after 75 frail elders different from general guidelines?
+#### Are blood pressure targets after 75 frail elders different from general guidelines?
 
 Yes. Major guidelines (like ACC/AHA) focus on average-risk adults and often recommend <130/80 mm Hg. But subanalyses from SPRINT-SEP and HYVET show that frail elders benefit more from less intensive control—prioritizing cerebral perfusion and functional stability over rigid thresholds.
 
-#### #### Can low blood pressure cause confusion in older adults?
+#### Can low blood pressure cause confusion in older adults?
 
 Yes—especially in those with preexisting white matter hyperintensities or small vessel disease. Reduced cerebral blood flow (cerebral hypoperfusion) can lead to “brain fog,” slowed thinking, or transient confusion—often worsened by BP drops upon standing or overly aggressive medication regimens.
 
-#### #### Does walking speed really affect blood pressure goals?
+#### Does walking speed really affect blood pressure goals?
 
 Absolutely. Gait speed is a powerful predictor of physiological reserve. Slower walking (<0.8 m/sec) correlates strongly with increased sensitivity to BP-lowering meds and higher risk of hypoperfusion-related symptoms—making it a key factor in setting individualized blood pressure targets after 75 frail elders.
 
-#### #### Should I stop my blood pressure meds if I feel dizzy?
+#### Should I stop my blood pressure meds if I feel dizzy?
 
 No—don’t stop or adjust medications on your own. Dizziness may signal that your current regimen needs fine-tuning, not discontinuation. Talk with your clinician, share your home BP logs and symptoms, and ask whether timing, dose, or drug choice might be optimized for your stability and brain health.

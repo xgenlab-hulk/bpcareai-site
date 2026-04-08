@@ -100,17 +100,17 @@ Navigating food labels with heart failure can feel overwhelming—especially whe
 
 ### FAQ
 
-#### #### Is “low-sodium soup heart failure seniors” actually safe—or just marketing?
+#### Is “low-sodium soup heart failure seniors” actually safe—or just marketing?
 It *can* be safe—if you check the full label and match it to your labs and meds. But “low-sodium” only addresses one piece. For seniors with HFpEF, potassium content, thickeners, and portion size matter just as much. Always verify sodium *per full can*, and avoid products listing potassium chloride near the top of ingredients.
 
-#### #### Can low-sodium soup heart failure seniors eat still raise blood pressure?
+#### Can low-sodium soup heart failure seniors eat still raise blood pressure?
 Yes—indirectly. Even with low sodium, ingredients like MSG or high-carb thickeners may promote fluid retention or insulin-driven vasoconstriction. Plus, if potassium builds up, it can disrupt heart rhythm and impair normal BP regulation—leading to wider 24-hour fluctuations.
 
-#### #### What’s a better alternative to canned low-sodium soup for heart failure?
+#### What’s a better alternative to canned low-sodium soup for heart failure?
 Homemade vegetable or lentil soup—simmered with garlic, turmeric, and fresh herbs—is ideal. Or look for frozen soups labeled “<100 mg sodium per serving” *and* “no potassium chloride.” Brands certified by the American Heart Association (AHA Heart-Check mark) undergo stricter review—but still double-check the label.
 
-#### #### How much sodium is safe per day for seniors with heart failure?
+#### How much sodium is safe per day for seniors with heart failure?
 Most guidelines recommend **1,200–1,500 mg/day**, but individual targets depend on kidney function, medications, and symptom burden. Your care team can help personalize this—especially if you’re experiencing swelling or shortness of breath.
 
-#### #### Does blood pressure variability really matter for heart failure outcomes?
+#### Does blood pressure variability really matter for heart failure outcomes?
 Absolutely. Research shows that high 24-hour BP variability predicts worse outcomes—including hospitalization and functional decline—in HFpEF patients over 65, independent of average BP. It reflects underlying vascular stress and autonomic imbalance—both treatable with diet, movement, and careful med management.

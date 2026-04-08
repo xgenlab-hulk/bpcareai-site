@@ -40,22 +40,22 @@ In summary, both 12-minute seated resistance band routines and 25-minute brisk w
 
 ### FAQ
 
-#### #### Can resistance bands really lower arterial stiffness as effectively as walking?
+#### Can resistance bands really lower arterial stiffness as effectively as walking?
 
 Yes — recent clinical trials show that daily 12-minute seated resistance band routines produce PWV reductions comparable to 25-minute brisk walking in adults 65+ with baseline PWV >10 m/s. The resistance band vs walking arterial stiffness comparison reveals similar effect sizes (~0.8–0.9 m/s reduction) when programs are matched for frequency and duration (e.g., 5 days/week for 12 weeks).
 
-#### #### Which is safer for seniors with knee or hip arthritis: resistance band vs walking arterial stiffness training?
+#### Which is safer for seniors with knee or hip arthritis: resistance band vs walking arterial stiffness training?
 
 Seated resistance band training is generally safer for those with significant lower-limb osteoarthritis or instability, as it eliminates weight-bearing impact while still generating beneficial hemodynamic stimuli. Brisk walking remains appropriate for many — but pain, limping, or frequent joint swelling warrants modification or substitution with seated alternatives.
 
-#### #### Does resistance band vs walking arterial stiffness improvement depend on blood pressure control?
+#### Does resistance band vs walking arterial stiffness improvement depend on blood pressure control?
 
 Absolutely. Both interventions are most effective when systolic BP is below 140 mm Hg. Uncontrolled hypertension accelerates arterial stiffening and may blunt PWV improvements. Combining either modality with antihypertensive therapy (if prescribed) and lifestyle measures — like sodium reduction and stress management — optimizes outcomes.
 
-#### #### How long before I see changes in pulse wave velocity?
+#### How long before I see changes in pulse wave velocity?
 
 Clinically meaningful PWV reductions typically appear after 8–12 weeks of consistent training (≥4 days/week). Smaller improvements may be detectable via home pulse palpation (e.g., stronger radial pulse, less “bounding” character) or improved exercise tolerance earlier.
 
-#### #### Do I need special equipment to start a resistance band routine?
+#### Do I need special equipment to start a resistance band routine?
 
 No — basic loop or tube-style resistance bands (light to medium resistance) suffice. Chairs with armrests and back support are recommended for safety and proper posture. Always begin without resistance to master form before adding bands.

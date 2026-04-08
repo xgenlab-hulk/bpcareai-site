@@ -65,22 +65,22 @@ We understand how unsettling it can be to learn that something as invisible as a
 
 ### FAQ
 
-#### #### Does seasonal air pollution really worsen angina in older adults?
+#### Does seasonal air pollution really worsen angina in older adults?
 
 Yes—studies show adults 59+ with stable angina experience modest but clinically relevant increases in symptom frequency and ST-segment variability during seasonal PM2.5 peaks, particularly in spring and fall. This reflects heightened vascular reactivity—not inevitable progression.
 
-#### #### How does *air pollution and angina stability seasonal* impact blood pressure?
+#### How does *air pollution and angina stability seasonal* impact blood pressure?
 
 Short-term PM2.5 exposure is linked to transient rises in systolic BP (averaging 2–4 mm Hg) and increased BP variability—both of which strain the coronary circulation in people with existing narrowing. These effects are reversible with reduced exposure.
 
-#### #### Can wearing a mask help with *air pollution and angina stability seasonal* concerns?
+#### Can wearing a mask help with *air pollution and angina stability seasonal* concerns?
 
 Well-fitted N95 or KN95 masks significantly reduce inhaled PM2.5 during high-exposure activities (e.g., commuting, outdoor errands), and some small studies report improved exercise tolerance in masked participants with angina during poor-air-quality days.
 
-#### #### Is there a specific PM2.5 level I should avoid?
+#### Is there a specific PM2.5 level I should avoid?
 
 The WHO recommends limiting long-term average exposure to ≤5 µg/m³. For sensitive individuals, staying indoors when daily averages exceed 12 µg/m³—especially for >3 days—is a reasonable precaution.
 
-#### #### Do air purifiers make a measurable difference for heart health?
+#### Do air purifiers make a measurable difference for heart health?
 
 Yes. Clinical trials show HEPA filtration lowers indoor PM2.5 by 50–70%, correlating with reduced hs-CRP and improved endothelial function in adults with cardiovascular disease—supporting the role of clean air as part of holistic heart care.

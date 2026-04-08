@@ -72,17 +72,17 @@ In short, managing high blood pressure after age 60—especially following a str
 
 ### FAQ
 
-#### #### What is a morning blood pressure surge in stroke survivors?
+#### What is a morning blood pressure surge in stroke survivors?
 A morning blood pressure surge in stroke survivors refers to an exaggerated rise in systolic and/or diastolic pressure within 2–3 hours of waking—often larger and earlier than in people without prior stroke. It reflects impaired neurovascular autoregulation and increases re-stroke risk.
 
-#### #### How is morning blood pressure surge different after a stroke vs. before?
+#### How is morning blood pressure surge different after a stroke vs. before?
 Post-stroke, the surge tends to be earlier (peaking around 5:30–7:00 a.m.), steeper (often >40 mm Hg systolic), and less buffered by cerebral autoregulation. Primary prevention patients typically see a milder, later surge (7:30–9:00 a.m.) with better vascular compensation.
 
-#### #### Can morning blood pressure surge stroke survivors be managed with timing alone?
+#### Can morning blood pressure surge stroke survivors be managed with timing alone?
 Timing helps—but rarely works alone. Combining strategic dosing (e.g., bedtime antihypertensives), lifestyle habits, and ABPM-guided adjustments gives the best protection. Always personalize based on your pattern and medical history.
 
-#### #### What’s the best time to check blood pressure after a stroke?
+#### What’s the best time to check blood pressure after a stroke?
 Check within 1 hour of waking—before medications, caffeine, or major activity—and again before bed. For the clearest picture, aim for 5–7 days of consistent logging.
 
-#### #### Does a normal clinic BP mean my morning surge is under control?
+#### Does a normal clinic BP mean my morning surge is under control?
 No. Up to 40% of stroke survivors have “masked hypertension”—normal office readings but dangerous home or ABPM surges. Home or ambulatory monitoring is essential to detect the *morning blood pressure surge stroke survivors* pattern accurately.

@@ -49,22 +49,22 @@ Every step you take—literally and figuratively—adds up. Whether you’re red
 
 ### FAQ
 
-#### #### Is low-impact exercise for diabetes over 60 safe if I have neuropathy?
+#### Is low-impact exercise for diabetes over 60 safe if I have neuropathy?
 
 Yes—with guidance. Neuropathy affects sensation, so choose activities that minimize foot trauma (like swimming or recumbent cycling) and always wear well-fitting, cushioned shoes. Inspect your feet daily and discuss footwear and activity choices with your podiatrist or diabetes care team.
 
-#### #### What are the best low-impact exercise for diabetes over 60 for beginners?
+#### What are the best low-impact exercise for diabetes over 60 for beginners?
 
 Walking at a comfortable pace, chair-based strength routines, tai chi, and gentle water exercise top the list. All improve blood flow, support glucose metabolism, and carry minimal injury risk—making them ideal starting points.
 
-#### #### Can low-impact exercise for diabetes over 60 help lower A1c?
+#### Can low-impact exercise for diabetes over 60 help lower A1c?
 
 Yes. Studies show that regular, moderate low-impact activity—like brisk walking 30 minutes five days a week—can reduce A1c by an average of 0.5–0.8%, especially when paired with healthy eating.
 
-#### #### How often should someone over 60 with diabetes exercise?
+#### How often should someone over 60 with diabetes exercise?
 
 The American College of Sports Medicine recommends at least 150 minutes per week of moderate aerobic activity (e.g., 30 minutes, 5 days), plus two days of muscle-strengthening activity. But even shorter, frequent bouts—like three 10-minute walks—offer real benefits.
 
-#### #### Does swimming count as low-impact exercise for diabetes over 60?
+#### Does swimming count as low-impact exercise for diabetes over 60?
 
 Absolutely. Swimming engages major muscle groups, supports cardiovascular fitness, and places zero stress on joints—making it one of the most effective and accessible options for older adults with diabetes.

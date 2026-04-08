@@ -69,17 +69,17 @@ In all this, remember: safety and joy aren’t opposites. They’re companions�
 
 ### FAQ
 
-#### #### What are the best low-sodium holiday desserts for someone with orthostatic hypotension?  
+#### What are the best low-sodium holiday desserts for someone with orthostatic hypotension?  
 Low-sodium options (<80 mg per serving) that also support BP stability include baked apples or pears with cinnamon and a sprinkle of chopped nuts, plain vanilla custard made with low-sodium milk, and small portions of unsalted dark chocolate (70% cacao or higher). Avoid pre-made items like fruitcake, gingerbread, or store-bought cookies—they often contain 150–300 mg sodium per serving, which can worsen nocturnal polyuria and impair upright BP recovery.
 
-#### #### Can I still have pumpkin pie if I have orthostatic hypotension and wake up to pee at night?  
+#### Can I still have pumpkin pie if I have orthostatic hypotension and wake up to pee at night?  
 Traditional pumpkin pie is high in both glycemic load (≈18) and sodium (≈210 mg per slice), making it a higher-risk choice. But you *can* enjoy a modified version: use a graham cracker crust (lower sodium than pastry), skip the whipped cream topping (high in sodium and sugar), and serve just ⅓ of a slice with a small portion of plain Greek yogurt. Better yet, try a baked pumpkin custard—lower in carbs, naturally lower in sodium, and easier on overnight fluid balance.
 
-#### #### How do holiday dessert swaps orthostatic hypotension help prevent nighttime falls?  
+#### How do holiday dessert swaps orthostatic hypotension help prevent nighttime falls?  
 Falls at night are often tied to two linked events: a sudden BP drop when standing up *plus* the urgency to urinate. Certain desserts worsen both—high-sugar items cause insulin-driven sodium loss and vasodilation, while alcohol or high-fluid desserts increase urine production. Smart **holiday dessert swaps orthostatic hypotension** reduce these dual triggers, helping maintain steadier nighttime BP and fewer bathroom trips—lowering fall risk significantly.
 
-#### #### Are sugar-free desserts safe for seniors with orthostatic hypotension?  
+#### Are sugar-free desserts safe for seniors with orthostatic hypotension?  
 Not always. Many sugar-free desserts rely on sugar alcohols (e.g., sorbitol, maltitol), which draw water into the intestines and may contribute to dehydration or electrolyte shifts—both risky for BP regulation. Others contain high sodium as a flavor enhancer. Always check labels, and when in doubt, choose whole-food options like stewed fruit or plain ricotta with berries instead.
 
-#### #### What’s the safest holiday drink to pair with dessert if I have orthostatic hypotension?  
+#### What’s the safest holiday drink to pair with dessert if I have orthostatic hypotension?  
 Warm, unsweetened chamomile or ginger tea (caffeine-free, low-sodium) is ideal—it’s soothing, non-diuretic, and doesn’t interfere with BP regulation. Avoid eggnog, hot cocoa with added sugar/salt, and mulled wine. If you prefer something creamy, try a small cup of warmed low-sodium almond milk with a pinch of cinnamon—no added sweeteners, no alcohol, and gentle on the system.

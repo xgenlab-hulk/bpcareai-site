@@ -81,22 +81,22 @@ Holiday travel with long-term type 1 diabetes doesn’t need to mean constant vi
 
 ### FAQ
 
-#### #### Does air travel insulin absorption elderly change significantly for people over 70?
+#### Does air travel insulin absorption elderly change significantly for people over 70?
 
 Yes—studies indicate that adults over 70 experience an average 22% reduction in subcutaneous insulin absorption velocity during flight, largely due to age-related adipose atrophy, decreased capillary density, and heightened sensitivity to cabin hypobaric conditions. This effect is amplified in those with long-standing T1D (>25 years).
 
-#### #### How does cabin pressure affect insulin absorption in older adults with diabetes?
+#### How does cabin pressure affect insulin absorption in older adults with diabetes?
 
 Cabin pressure (equivalent to 6,000–8,000 ft altitude) reduces tissue oxygen tension and peripheral perfusion. In older adults—whose microvascular function is already attenuated by aging and glycation—this leads to measurable delays in insulin diffusion, particularly in fibrotic or atrophic tissue. Peak insulin action may be delayed by up to 90 minutes.
 
-#### #### What are signs that air travel insulin absorption elderly issues are affecting my glucose control?
+#### What are signs that air travel insulin absorption elderly issues are affecting my glucose control?
 
 Look for consistent patterns: post-meal glucose rising steadily past 2 hours (instead of peaking and falling), unexpected lows 4+ hours after bolusing, or wide glucose swings (>100 mg/dL) without clear dietary or activity triggers. These suggest altered absorption—not necessarily incorrect dosing.
 
-#### #### Should I adjust my basal insulin dose when flying internationally?
+#### Should I adjust my basal insulin dose when flying internationally?
 
 Not automatically—but many clinicians recommend a 10–15% reduction in long-acting insulin on the day of departure and arrival, especially for multi-leg trips crossing ≥3 time zones. This accounts for both slowed absorption *and* circadian disruption. Always discuss individualized plans with your endocrinology team before travel.
 
-#### #### Can cold airplane cabins cause insulin resistance?
+#### Can cold airplane cabins cause insulin resistance?
 
 No—cold exposure does not induce systemic insulin resistance. However, localized skin cooling causes vasoconstriction in subcutaneous tissue, which *slows insulin absorption*. This mimics resistance clinically (e.g., higher glucose despite appropriate dosing) but resolves once tissue temperature normalizes.

@@ -82,19 +82,19 @@ Living with brittle diabetes autonomic neuropathy doesn’t mean resigning yours
 
 ### FAQ
 
-#### #### What does “brittle diabetes autonomic neuropathy” really mean—and is it reversible?
+#### What does “brittle diabetes autonomic neuropathy” really mean—and is it reversible?
 
 “Brittle diabetes autonomic neuropathy” describes highly variable blood glucose patterns occurring alongside damage to the autonomic nerves that regulate automatic functions (like heart rate, digestion, and hypoglycemia awareness). While nerve damage itself isn’t fully reversible, its *impact* on glucose control often is—through targeted strategies like vagal tone training, microdose glucagon, and CGM-guided adjustments. Many adults see significant improvement in stability within 3–6 months of a coordinated plan.
 
-#### #### How is a brittle diabetes autonomic neuropathy guide different from general type 1 management advice?
+#### How is a brittle diabetes autonomic neuropathy guide different from general type 1 management advice?
 
 A brittle diabetes autonomic neuropathy guide focuses specifically on the *intersection* of nerve dysfunction, hormonal blunting, and age-related metabolic shifts—not just insulin dosing. It emphasizes non-insulin tools (like timed glucagon analogs and vagal training), interprets autonomic test results clinically, and prioritizes safety over tight control. General type 1 advice often assumes intact counterregulation and symptom awareness—assumptions that don’t hold for many adults over 55 with neuropathy.
 
-#### #### Can autonomic neuropathy cause low blood sugar even when my insulin dose hasn’t changed?
+#### Can autonomic neuropathy cause low blood sugar even when my insulin dose hasn’t changed?
 
 Yes—absolutely. Autonomic neuropathy impairs the body’s natural “low-sugar alarm” (epinephrine/norepinephrine release) and can blunt glucagon secretion from the pancreas. So even with stable insulin, your body may fail to mount a proper counterregulatory response—leading to unexplained, prolonged, or asymptomatic hypoglycemia. This is why pattern recognition and proactive support—not just reactive correction—are key.
 
-#### #### What CGM metrics matter most for someone with brittle patterns and autonomic neuropathy?
+#### What CGM metrics matter most for someone with brittle patterns and autonomic neuropathy?
 
 Look beyond A1c and average glucose. Focus on:  
 - Coefficient of variation (CV) — aim for <36%  
@@ -104,6 +104,6 @@ Look beyond A1c and average glucose. Focus on:
 
 These reveal what “average” numbers hide—and guide truly personalized care.
 
-#### #### Is orthostatic hypotension related to brittle diabetes autonomic neuropathy?
+#### Is orthostatic hypotension related to brittle diabetes autonomic neuropathy?
 
 Yes—orthostatic hypotension (a drop in systolic BP ≥20 mm Hg or diastolic ≥10 mm Hg upon standing) is a hallmark sign of cardiovascular autonomic neuropathy (CAN), which commonly coexists with brittle glucose patterns. It reflects impaired baroreflex function—and often parallels diminished hypoglycemia awareness. Monitoring BP changes with position is a simple, powerful way to assess autonomic health alongside glucose data.

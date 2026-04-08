@@ -87,22 +87,22 @@ Managing heart failure and hyponatremia doesn’t mean giving up convenience or 
 
 ### FAQ
 
-#### #### Are granola bars safe for men with heart failure and low sodium?
+#### Are granola bars safe for men with heart failure and low sodium?
 
 Not universally. Many commercial granola bars contain hidden sodium, high-carbohydrate loads, or potassium additives that can worsen hyponatremia or activate neurohormonal pathways in men with stage 2 heart failure. Always check labels for sodium <100 mg/serving, avoid sugar alcohols, and consult your cardiologist or dietitian before adding them regularly.
 
-#### #### What granola bars heart failure hyponatremia men over 65 should avoid?
+#### What granola bars heart failure hyponatremia men over 65 should avoid?
 
 Avoid any bar with >120 mg sodium/serving, >20 g total carbs, added potassium salts (e.g., potassium chloride), or sugar alcohols like sorbitol or xylitol. Also skip bars listing multiple sweeteners (e.g., honey + cane sugar + brown rice syrup) or “natural flavors” without transparency—these often mask sodium or osmotic contributors.
 
-#### #### Can “no salt added” granola bars still raise blood pressure in heart failure?
+#### Can “no salt added” granola bars still raise blood pressure in heart failure?
 
 Yes—indirectly. “No salt added” doesn’t mean “no sodium”: baking soda, sodium caseinate, or MSG may still be present. More importantly, high-carb or high-fructose bars can stimulate insulin and ADH, leading to sodium retention and volume expansion—even without BP spikes on a cuff. This contributes to long-term arterial pressure strain and ventricular remodeling.
 
-#### #### Do granola bars affect NT-proBNP levels in older men with heart failure?
+#### Do granola bars affect NT-proBNP levels in older men with heart failure?
 
 Emerging evidence suggests that repeated osmotic or sodium challenges—such as daily consumption of high-carb, high-potassium granola bars—may contribute to chronic neurohormonal activation, reflected in modest but sustained elevations in NT-proBNP. While a single bar won’t spike levels, habitual intake in vulnerable individuals may hinder optimal biomarker control.
 
-#### #### What are safer snack alternatives for men over 65 with hyponatremia and heart failure?
+#### What are safer snack alternatives for men over 65 with hyponatremia and heart failure?
 
 Focus on whole, minimally processed options: unsalted raw nuts (e.g., walnuts, almonds), plain air-popped popcorn (<100 mg sodium per cup), sliced pear with cinnamon, or a hard-boiled egg with a few cucumber rounds. All are low in sodium, osmotically neutral, and provide satiety without triggering ADH or RAAS.

@@ -88,22 +88,22 @@ Holiday moments—raising a glass with loved ones, sharing laughter, pausing to 
 
 ### FAQ
 
-#### #### Does champagne raise or lower diastolic blood pressure in seniors?
+#### Does champagne raise or lower diastolic blood pressure in seniors?
 
 Champagne (and alcohol generally) has a *biphasic effect*: it often lowers diastolic pressure initially (within 1 hour) due to vasodilation, then may raise it 2–6 hours later due to rebound vasoconstriction. In seniors with isolated systolic hypertension, this rebound can be more pronounced—and may interfere with healthy nocturnal dipping.
 
-#### #### Can one glass of champagne affect diastolic blood pressure in seniors over 65?
+#### Can one glass of champagne affect diastolic blood pressure in seniors over 65?
 
 Yes—even a single 4-ounce glass can temporarily alter diastolic readings in adults over 65, particularly those with stiffened arteries or existing blood pressure management plans. The effect varies by individual, but studies show measurable changes in diastolic pressure and heart rate variability in up to 60% of seniors with ISH after modest alcohol intake.
 
-#### #### What is champagne diastolic blood pressure seniors—and should I worry?
+#### What is champagne diastolic blood pressure seniors—and should I worry?
 
 *Champagne diastolic blood pressure seniors* refers to how the diastolic (bottom) number in your blood pressure reading responds to champagne consumption as you age. You don’t need to worry—but you *do* benefit from awareness. It’s not about fear; it’s about understanding how your unique physiology interacts with everyday pleasures so you can choose what feels best for your well-being.
 
-#### #### Is sparkling wine safer than regular wine for blood pressure in older adults?
+#### Is sparkling wine safer than regular wine for blood pressure in older adults?
 
 Not necessarily. The alcohol content—not the bubbles—is the primary driver of vascular effects. Brut champagne (~12% alcohol) delivers similar ethanol exposure as dry white wine. What *does* help is lower-sugar options (to avoid glucose spikes) and mindful portion control—regardless of beverage type.
 
-#### #### How can seniors enjoy holiday drinks without spiking their blood pressure?
+#### How can seniors enjoy holiday drinks without spiking their blood pressure?
 
 Focus on pacing, hydration, and pairing: sip slowly, drink water between servings, enjoy with food (especially protein or healthy fats), and prioritize restful sleep afterward. Small, intentional choices support stable arterial pressure—without dimming the joy of the season.

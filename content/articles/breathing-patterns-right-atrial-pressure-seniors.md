@@ -82,22 +82,22 @@ Improving how you breathe during functional tasks isn’t about perfection—it�
 
 ### FAQ
 
-#### #### Can breathing patterns really lower right atrial pressure in seniors with tricuspid regurgitation?
+#### Can breathing patterns really lower right atrial pressure in seniors with tricuspid regurgitation?
 
 Yes—when applied intentionally. Studies using invasive hemodynamic monitoring show that slow, diaphragmatic breathing with prolonged exhalation reduces right atrial pressure by an average of 2.5–3.8 mm Hg during low-to-moderate exertion in adults over 65 with valvular heart disease. The mechanism involves decreased intrathoracic pressure swings and enhanced vagal tone, both of which support right-heart filling dynamics.
 
-#### #### What’s the best breathing pattern right atrial pressure seniors should use before climbing stairs?
+#### What’s the best breathing pattern right atrial pressure seniors should use before climbing stairs?
 
 A recommended sequence is: inhale deeply through the nose for 4 seconds (letting the belly expand), hold gently for 1 second, then exhale slowly through pursed lips for 6–8 seconds. Repeat this cycle 2–3 times *before* starting the stairs. This primes the respiratory-cardiac coupling system and helps prevent abrupt RAP elevation at the onset of exertion.
 
-#### #### Are there breathing patterns right atrial pressure seniors should avoid?
+#### Are there breathing patterns right atrial pressure seniors should avoid?
 
 Yes—avoid breath-holding *during* stair ascent (the “grunting” or “straining” pattern), rapid shallow breathing (often <10 breaths/minute but with minimal tidal volume), and forced exhalation against closed glottis (like bearing down). These all increase intrathoracic pressure and may elevate RAP by 5–10 mm Hg acutely—potentially triggering symptoms or arrhythmias in vulnerable individuals.
 
-#### #### How does pursed-lip breathing help with jugular venous pressure?
+#### How does pursed-lip breathing help with jugular venous pressure?
 
 Pursed-lip breathing creates mild expiratory resistance, which helps keep small airways open longer and reduces dynamic hyperinflation. More importantly for right-heart health, it lowers peak intrathoracic pressure during exhalation—decreasing the backward transmission of pressure to the superior vena cava and right atrium. Clinically, this often results in visible JVP reduction within 3–5 breaths.
 
-#### #### Is it safe to practice these breathing patterns if I also have high blood pressure or heart failure?
+#### Is it safe to practice these breathing patterns if I also have high blood pressure or heart failure?
 
 Generally, yes—these techniques are low-risk and widely used in cardiac rehabilitation programs for adults with comorbid hypertension, systolic heart failure, and pulmonary hypertension. However, if you have unstable angina, recent myocardial infarction (<6 weeks), or uncontrolled arrhythmias (e.g., frequent VT), discuss your breathing plan with your cardiologist first. Always stop if you experience dizziness, chest tightness, or palpitations.

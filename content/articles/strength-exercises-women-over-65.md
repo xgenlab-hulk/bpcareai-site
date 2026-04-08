@@ -3,7 +3,7 @@ title: >-
   Best Strength Exercises for Women Over 65 — Safe & Effective
 slug: strength-exercises-women-over-65
 description: >-
-  Best strength exercises for women over 65: 2x/week cuts fall risk by 31% (CDC). Joint-friendly, resistance-band–based, and proven to build muscle—even with
+  Best strength exercises for women over 65: 2x/week cuts fall risk by 31% (CDC).
 date: '2026-04-05'
 updated: '2026-04-05'
 primaryKeyword: >-

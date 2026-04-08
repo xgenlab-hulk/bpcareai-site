@@ -55,22 +55,22 @@ In summary, baroreflex sensitivity improvement methods are safe, accessible, and
 
 ### FAQ
 
-#### #### Can baroreflex sensitivity improvement methods lower systolic blood pressure in older adults?
+#### Can baroreflex sensitivity improvement methods lower systolic blood pressure in older adults?
 
 Yes—multiple RCTs show that combining 2–3 of these methods (e.g., slow breathing + cold face immersion + sauna) reduces daytime systolic BP by an average of 6–9 mm Hg in adults 60–75 with isolated systolic hypertension.
 
-#### #### What are the safest baroreflex sensitivity improvement methods for someone with carotid stenosis?
+#### What are the safest baroreflex sensitivity improvement methods for someone with carotid stenosis?
 
 Avoid carotid sinus massage or vigorous neck rotation. Focus instead on auditory (humming, singing), thermal (sauna, warm foot soaks), and respiratory methods (6-breaths-per-minute pacing), all shown to be safe and effective in vascular screening-negative older adults.
 
-#### #### Do baroreflex sensitivity improvement methods work for people already on antihypertensive medication?
+#### Do baroreflex sensitivity improvement methods work for people already on antihypertensive medication?
 
 Yes—these approaches act synergistically with medications. One RCT found participants on ACE inhibitors who added daily slow breathing achieved greater BRS gains (+33%) than those on meds alone (+12%).
 
-#### #### How long does it take to see measurable changes in baroreflex sensitivity?
+#### How long does it take to see measurable changes in baroreflex sensitivity?
 
 Most RCTs report statistically significant BRS improvements after 4 weeks of consistent daily practice (≥5 days/week), with peak effects typically seen at 8–12 weeks.
 
-#### #### Is low HRV reversible in adults over 65?
+#### Is low HRV reversible in adults over 65?
 
 Yes—studies confirm HRV (a key marker of vagal tone and BRS) improves significantly with targeted interventions, even in adults up to age 82. Gains are most robust when methods engage multiple sensory pathways (e.g., sound + breath + temperature).

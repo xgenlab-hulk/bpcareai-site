@@ -59,17 +59,17 @@ In short, holiday joy doesn’t have to come at the cost of cardiovascular quiet
 
 ### FAQ  
 
-#### #### What are hidden hypertension signs after family meals—and how are they different from regular high blood pressure?  
+#### What are hidden hypertension signs after family meals—and how are they different from regular high blood pressure?  
 Hidden hypertension signs after family meals refer to subtle, non-reading-based cues—like facial flushing, morning fatigue, or post-meal brain fog—that suggest temporary but repeated vascular stress following shared meals. Unlike classic hypertension (defined as ≥140/90 mm Hg), these signs occur even when BP appears normal on routine checks, reflecting *episodic* or *masked* elevations tied to dietary triggers.
 
-#### #### Can hidden hypertension signs after family meals happen even if my blood pressure is usually normal?  
+#### Can hidden hypertension signs after family meals happen even if my blood pressure is usually normal?  
 Yes. Up to 15% of adults over 60 with clinic BP <120/80 mm Hg show elevated readings at home or during daily activities—especially after sodium- or alcohol-rich meals. This is called *white-coat–normotensive hypertension* or *postprandial hypertension*, and it's increasingly recognized as a risk factor for stroke and heart failure.
 
-#### #### Are there specific foods that commonly trigger hidden hypertension signs after family meals in older adults?  
+#### Are there specific foods that commonly trigger hidden hypertension signs after family meals in older adults?  
 Yes—common culprits include cured meats (ham, salami), canned soups or gravies, cheese platters, breads with hidden sodium, and mixed cocktails (which combine alcohol + high-sodium mixers). Even seemingly healthy items like bottled salad dressings or roasted nuts can contain 300–600 mg sodium per serving.
 
-#### #### How soon after a meal might I notice hidden hypertension signs after family meals?  
+#### How soon after a meal might I notice hidden hypertension signs after family meals?  
 Most signs appear within 30 minutes to 2 hours post-meal—though some, like morning fatigue or nocturia, reflect overnight physiological ripple effects. Consistency matters more than timing: noticing the same pattern across 2–3 gatherings strengthens the link.
 
-#### #### Is brain fog after holiday dinner a sign of something serious—or just overeating?  
+#### Is brain fog after holiday dinner a sign of something serious—or just overeating?  
 While occasional fullness-related sluggishness is normal, *recurring* post-meal brain fog—especially paired with fatigue, dizziness, or flushing—may signal sodium-induced cerebral vasoconstriction or impaired cerebral blood flow regulation. It’s worth tracking and discussing with your clinician.

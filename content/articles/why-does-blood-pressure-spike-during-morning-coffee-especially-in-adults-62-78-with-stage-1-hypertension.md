@@ -70,22 +70,22 @@ In short, a *morning blood pressure spike coffee* response isn’t inevitable—
 
 ### FAQ
 
-#### #### Does morning blood pressure spike coffee happen to everyone?
+#### Does morning blood pressure spike coffee happen to everyone?
 
 No—about 15–20% of adults over 60 show a clinically meaningful rise (>10 mm Hg systolic) after morning coffee. Sensitivity varies widely based on age, genetics (like COMT status), baseline BP, and habitual caffeine intake.
 
-#### #### Is morning blood pressure spike coffee dangerous?
+#### Is morning blood pressure spike coffee dangerous?
 
 Occasional spikes aren’t harmful for most people—but repeated, large surges (e.g., >150/90 mm Hg) in someone with Stage 1 hypertension may increase long-term stroke risk. That’s why context and consistency matter more than any single reading.
 
-#### #### How long does the morning blood pressure spike coffee effect last?
+#### How long does the morning blood pressure spike coffee effect last?
 
 Peak effect usually occurs 30–60 minutes after consumption and gradually declines over 2–4 hours. In older adults with slower caffeine metabolism, elevated BP may persist longer—especially with stronger brews or on an empty stomach.
 
-#### #### Can decaf cause a morning blood pressure spike?
+#### Can decaf cause a morning blood pressure spike?
 
 Rarely. Studies show decaf produces <2 mm Hg average change in systolic BP—essentially no different from placebo. Any noticeable rise after decaf is likely due to other factors (stress, white-coat effect, or timing).
 
-#### #### What time of day is blood pressure naturally highest?
+#### What time of day is blood pressure naturally highest?
 
 Blood pressure follows a circadian pattern: lowest during sleep (nadir around 2–4 a.m.), then rising rapidly upon waking—peaking between 8 a.m. and 12 p.m. This natural “morning surge” is why timing matters so much with caffeine.

@@ -97,22 +97,22 @@ In summary, supporting heart health in later life means attending to both medica
 
 ### FAQ
 
-#### #### What are the most common nighttime heart rate variability environmental triggers for seniors with COPD?
+#### What are the most common nighttime heart rate variability environmental triggers for seniors with COPD?
 
 The most frequently observed nighttime heart rate variability environmental triggers in older adults with mild COPD include humidifier mineral dust, volatile organic compounds (VOCs) from recent wall painting, synthetic bedding off-gassing, unvented gas heating, high dust mite loads in carpets, ozone from certain air purifiers, and cold radiant surfaces from poorly insulated exterior walls—all documented in geriatric-pulmonary field studies.
 
-#### #### Can bedroom air quality really affect nighttime heart rate variability?
+#### Can bedroom air quality really affect nighttime heart rate variability?
 
 Yes. Multiple crossover trials confirm that bedroom-specific exposures—including VOCs >500 µg/m³, NO₂ >35 ppb, and PM2.5 >12 µg/m³—are associated with clinically meaningful reductions in nocturnal HRV metrics like RMSSD and HF power—particularly in adults 74+ with compromised respiratory reserve.
 
-#### #### How do I know if environmental triggers are affecting my nighttime heart rate variability?
+#### How do I know if environmental triggers are affecting my nighttime heart rate variability?
 
 Look for patterns: Do HRV dips coincide with using a humidifier, sleeping in a newly painted room, or after installing new carpet? Track alongside simple air quality cues—dry throat on waking, lingering chemical odors, or visible dust accumulation. Consistent RMSSD values <20 ms during deep sleep (verified via clinical-grade monitoring) warrant deeper environmental review.
 
-#### #### Does humidity itself raise heart rate at night?
+#### Does humidity itself raise heart rate at night?
 
 Not humidity alone—but *how* it’s delivered matters. Relative humidity between 40–60% is ideal. However, ultrasonic humidifiers using tap water introduce mineral dust, which irritates airways and disrupts autonomic balance. Evaporative humidifiers with distilled water avoid this risk entirely.
 
-#### #### Are there specific blood pressure concerns tied to these environmental triggers?
+#### Are there specific blood pressure concerns tied to these environmental triggers?
 
 Yes. Several of these triggers—especially NO₂ exposure and cold radiant surfaces—are associated with modest but consistent increases in nocturnal systolic BP (5–10 mm Hg) and blunted BP dipping (a known cardiovascular risk factor). This reinforces why nighttime heart rate variability environmental triggers and arterial pressure regulation are closely linked in aging physiology.

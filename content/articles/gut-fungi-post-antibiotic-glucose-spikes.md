@@ -83,17 +83,17 @@ While *gut fungi post-antibiotic glucose spikes* sound complex, they reflect a r
 
 ### FAQ
 
-#### #### What causes gut fungi post-antibiotic glucose spikes in older adults with diabetes?
+#### What causes gut fungi post-antibiotic glucose spikes in older adults with diabetes?
 Gut fungi post-antibiotic glucose spikes arise primarily from *Candida albicans* overgrowth after antibiotic use, leading to D-lactic acid production and TLR2-mediated inflammation—both of which impair insulin signaling and stimulate liver glucose output. In adults with long-term metformin use and recurrent UTIs, this effect is amplified by pre-existing reductions in microbial diversity and mucosal immunity.
 
-#### #### Are gut fungi post-antibiotic glucose spikes dangerous for people with type 2 diabetes?
+#### Are gut fungi post-antibiotic glucose spikes dangerous for people with type 2 diabetes?
 Not inherently dangerous in isolation—but repeated episodes contribute to glycemic variability, which is independently associated with increased risk of microvascular complications. Studies link high glucose variability (measured by CV%) to a 22% higher risk of retinopathy progression over 5 years in adults aged 60+.
 
-#### #### Can stool PCR testing detect gut fungi post-antibiotic glucose spikes?
+#### Can stool PCR testing detect gut fungi post-antibiotic glucose spikes?
 Yes—quantitative stool PCR panels identify *Candida* species abundance and co-occurring bacterial imbalances (e.g., reduced *Faecalibacterium prausnitzii*), helping distinguish functional dysbiosis from infection. When paired with D-lactate and inflammatory markers, results guide personalized, non-antifungal interventions.
 
-#### #### Does metformin worsen Candida overgrowth?
+#### Does metformin worsen Candida overgrowth?
 Metformin doesn’t directly feed *Candida*, but it alters the gut environment—reducing oxygen tension and shifting pH—in ways that favor *Candida* hyphal growth and biofilm formation, particularly after antibiotics deplete competing bacteria. This is why metformin users show higher *Candida* loads post-antibiotics compared to non-users.
 
-#### #### What’s the difference between gut fungi post-antibiotic glucose spikes and regular blood sugar swings?
+#### What’s the difference between gut fungi post-antibiotic glucose spikes and regular blood sugar swings?
 Regular glucose swings typically follow meals, stress, or missed medications—and respond predictably to insulin or lifestyle changes. Gut fungi post-antibiotic glucose spikes occur *without* obvious dietary triggers, persist for 5–14 days after antibiotics end, and feature elevated glucose variability *despite* stable carb intake and medication adherence—pointing to a gut-derived metabolic driver.

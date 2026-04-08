@@ -55,22 +55,22 @@ The holidays are meant for joy—not anxiety. Understanding *low-alcohol cocktai
 
 ### FAQ
 
-#### #### Can low-alcohol cocktails qt dispersion risk affect people not on heart meds?
+#### Can low-alcohol cocktails qt dispersion risk affect people not on heart meds?
 
 Yes—but the risk is significantly lower. Healthy adults under 60 typically tolerate moderate low-alcohol drinks without measurable QT changes. However, if you have undiagnosed long QT syndrome, structural heart disease, or take other QT-prolonging meds (e.g., some antibiotics or antipsychotics), the *low-alcohol cocktails qt dispersion risk* still applies.
 
-#### #### Is non-alcoholic mulled wine completely safe on amiodarone?
+#### Is non-alcoholic mulled wine completely safe on amiodarone?
 
 Most non-alcoholic wines retain trace alcohol (0.5–0.9% ABV), and some contain sulfites or high sugar—both of which may influence autonomic tone. True 0.0% ABV versions (steam-distilled or dealcoholized) are safest, but always check labels and discuss with your pharmacist.
 
-#### #### Does temperature change how low-alcohol cocktails qt dispersion risk works?
+#### Does temperature change how low-alcohol cocktails qt dispersion risk works?
 
 Not directly—but warm drinks (like mulled wine) increase peripheral blood flow and may accelerate alcohol absorption slightly. More importantly, hot environments + alcohol can worsen dehydration, lowering potassium/magnesium and indirectly widening QT dispersion. Staying hydrated matters more than the drink’s temperature.
 
-#### #### Are there heart-rhythm-safe holiday cocktails for seniors on amiodarone?
+#### Are there heart-rhythm-safe holiday cocktails for seniors on amiodarone?
 
 Yes—focus on zero-ABV, low-sugar, electrolyte-supportive options: ginger-turmeric sparkler (fresh ginger, lemon, coconut water, soda), rosemary-cranberry mocktail, or warm cinnamon apple infusion. Avoid tonic water (quinine prolongs QT) and energy drink mixers.
 
-#### #### How often should QT dispersion be checked if I’m on amiodarone and drink occasionally?
+#### How often should QT dispersion be checked if I’m on amiodarone and drink occasionally?
 
 There’s no fixed schedule—but many cardiologists recommend checking QT dispersion (via 12-lead ECG) at least annually, and anytime you notice new rhythm symptoms *or* start a new medication. If you plan occasional festive drinks, consider a follow-up ECG 2–3 hours post-consumption—ideally during a routine visit.

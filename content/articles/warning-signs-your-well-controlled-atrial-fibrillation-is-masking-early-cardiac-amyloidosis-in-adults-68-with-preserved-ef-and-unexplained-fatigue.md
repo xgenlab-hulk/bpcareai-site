@@ -99,22 +99,22 @@ If you're unsure, talking to your doctor is always a good idea. Asking, *“Coul
 
 ### FAQ
 
-#### #### What are the earliest atrial fibrillation cardiac amyloidosis signs in older adults?
+#### What are the earliest atrial fibrillation cardiac amyloidosis signs in older adults?
 
 Early signs often include unexplained fatigue, disproportionate shortness of breath (even with minimal AF burden), low-voltage ECG despite normal or increased LV thickness, and discordant blood markers—such as high NT-proBNP with only mild troponin elevation. These signs are subtle but meaningful, especially in adults over 65.
 
-#### #### Can atrial fibrillation cardiac amyloidosis signs appear even with normal ejection fraction?
+#### Can atrial fibrillation cardiac amyloidosis signs appear even with normal ejection fraction?
 
 Yes—absolutely. Up to 70% of people with early transthyretin cardiac amyloidosis (ATTR-CM) have preserved ejection fraction (≥50%). That’s why symptoms like fatigue and breathlessness, plus imaging or lab inconsistencies, matter more than EF alone.
 
-#### #### Is there a blood test for atrial fibrillation cardiac amyloidosis signs?
+#### Is there a blood test for atrial fibrillation cardiac amyloidosis signs?
 
 No single blood test diagnoses cardiac amyloidosis—but key labs help guide evaluation. Elevated NT-proBNP (>1,000 pg/mL), modest troponin elevation, and normal serum free light chains (to rule out AL type) are important pieces. Confirmatory diagnosis relies on imaging—like bone-avid tracer scans—not bloodwork alone.
 
-#### #### How common is cardiac amyloidosis in people over 65 with atrial fibrillation?
+#### How common is cardiac amyloidosis in people over 65 with atrial fibrillation?
 
 Studies suggest that among adults over 65 with AF and preserved EF, roughly 5–10% may have undiagnosed ATTR-CM—especially if they also have carpal tunnel syndrome, spinal stenosis, or a family history of neuropathy or heart failure. It’s underrecognized, but not rare.
 
-#### #### Does having well-controlled atrial fibrillation mean my heart is healthy?
+#### Does having well-controlled atrial fibrillation mean my heart is healthy?
 
 Not necessarily. Well-controlled AF means your rhythm or rate is managed—but it doesn’t rule out underlying structural changes like amyloid buildup, fibrosis, or diastolic stiffness. That’s why ongoing symptom assessment and periodic advanced testing (like strain echo or biomarkers) remain valuable parts of long-term care.

@@ -91,17 +91,17 @@ If you're unsure, talking to your doctor is always a good idea. And remember: th
 
 ### FAQ
 
-#### #### Can skipping insulin for holiday pie cause permanent beta-cell damage?
+#### Can skipping insulin for holiday pie cause permanent beta-cell damage?
 Yes—repeated episodes increase cumulative stress on beta cells, accelerating functional decline. While one-time omission rarely causes irreversible harm, studies show recurrent omission (even monthly) correlates with faster A1c rise and greater insulin dose escalation over 1–2 years.
 
-#### #### Is “skip insulin holiday pie beta-cell stress” different for people with long-standing vs. newly diagnosed type 2 diabetes?
+#### Is “skip insulin holiday pie beta-cell stress” different for people with long-standing vs. newly diagnosed type 2 diabetes?
 Absolutely. Those with 10+ years of type 2 diabetes typically retain only 30–50% of baseline beta-cell function. Their remaining cells operate near maximum output—so skipping insulin forces them into unsustainable overdrive. Newer diagnoses often have more reserve and better compensatory ability.
 
-#### #### What’s the safest way to enjoy pie without skipping insulin?
+#### What’s the safest way to enjoy pie without skipping insulin?
 Pair a smaller portion (½ slice) with protein (e.g., Greek yogurt topping) and fiber (a side of roasted pears), take your usual rapid-acting insulin dose *on time*, and go for a post-meal walk. This approach keeps glucose peaks gentler and reduces overall beta-cell demand.
 
-#### #### Does skipping insulin affect blood pressure during the holidays?
+#### Does skipping insulin affect blood pressure during the holidays?
 Yes—acute hyperglycemia triggers sympathetic nervous system activation and mild fluid retention, which can raise systolic BP by 5–10 mm Hg temporarily. For people already managing hypertension, this adds avoidable strain on the heart and arteries.
 
-#### #### Are there alternatives to insulin I can discuss with my doctor for holiday flexibility?
+#### Are there alternatives to insulin I can discuss with my doctor for holiday flexibility?
 Possibly—some adults benefit from non-insulin agents like GLP-1 receptor agonists (e.g., semaglutide), which enhance insulin secretion *only* when glucose is high and slow gastric emptying. These offer more built-in “forgiveness” for occasional indulgences—but must be prescribed and monitored carefully.

@@ -83,22 +83,22 @@ Cardiac catheterization is a common and highly valuable tool — especially for 
 
 ### FAQ
 
-#### #### Does intermittent fasting before cardiac catheterization increase my risk of kidney damage?
+#### Does intermittent fasting before cardiac catheterization increase my risk of kidney damage?
 
 No — when properly timed and combined with adequate hydration and alkalization (e.g., oral sodium bicarbonate), intermittent fasting before cardiac catheterization does *not* increase kidney risk. In fact, newer evidence suggests structured fasting windows (6 hours solids, fluids allowed up to 2 hours pre-procedure) may *lower* contrast-induced nephropathy rates compared to traditional 12-hour NPO orders — particularly in adults 71+ with CKD stage 3.
 
-#### #### How long should I fast before cardiac catheterization if I have stage 3 kidney disease?
+#### How long should I fast before cardiac catheterization if I have stage 3 kidney disease?
 
 Current consensus (per 2023 KDIGO and ACC/AHA expert statements) recommends a **6-hour fast from solid foods**, with **clear oral fluids permitted up to 2 hours before** the procedure. This approach supports intravascular volume while maintaining procedural safety. Always confirm timing with your catheterization team — individual factors (e.g., diabetes, gastric motility) may require slight adjustments.
 
-#### #### Can intermittent fasting before cardiac catheterization affect my blood pressure?
+#### Can intermittent fasting before cardiac catheterization affect my blood pressure?
 
 Yes — but in ways you can manage. Prolonged fasting (especially >10 hours) can lead to mild hypotension and reduced renal perfusion, raising CIN risk. However, shorter, hydration-supported fasting windows help maintain stable arterial pressure. Monitoring home BP in the 24–48 hours pre-procedure is wise — aim for consistency rather than chasing a single number (e.g., avoid drops >20 mm Hg systolic from your usual baseline).
 
-#### #### Is sodium bicarbonate safe for older adults with CKD before cardiac catheterization?
+#### Is sodium bicarbonate safe for older adults with CKD before cardiac catheterization?
 
 Oral sodium bicarbonate (1.5 g in 300 mL water), given 2 hours before contrast, has been safely used in multiple trials involving adults 70+ with CKD stage 3. It helps buffer acidic urine and reduce oxidative stress in renal tubules. However, it’s not recommended for patients with severe metabolic alkalosis, heart failure with volume overload, or serum bicarbonate >28 mmol/L — your nephrologist or cardiologist will screen for these.
 
-#### #### What’s the best thing I can do the day before my cardiac catheterization to protect my kidneys?
+#### What’s the best thing I can do the day before my cardiac catheterization to protect my kidneys?
 
 The single most impactful step is starting **oral hydration with a kidney-protective solution** — such as 1 L of water the night before, followed by 300 mL of sodium bicarbonate solution (if prescribed) 2 hours before the procedure. Pair that with your 6-hour solid-food fast, review meds with your team, and get plenty of rest. Small, consistent actions add up to meaningful protection.

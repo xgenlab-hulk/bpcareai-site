@@ -48,17 +48,17 @@ Supporting *bile acid recycling natural constipation elderly* doesn’t require 
 
 ### FAQ
 
-#### #### Can bile acid recycling natural constipation elderly improve without supplements or medications?
+#### Can bile acid recycling natural constipation elderly improve without supplements or medications?
 Yes—especially with timed meal sequencing and circadian-aligned habits like bitter-first eating and morning coffee. Research shows older adults often see meaningful improvement in bowel regularity within 2–4 weeks using these approaches alone.
 
-#### #### What foods best support bile acid recycling natural constipation elderly?
+#### What foods best support bile acid recycling natural constipation elderly?
 Focus on whole-food bitters (dandelion greens, radicchio, arugula), modest healthy fats (olive oil, avocado, fatty fish), and soluble fiber *after* meals—not before. Avoid highly processed “low-fat” packaged foods, which lack the fat needed to trigger bile flow.
 
-#### #### How does healthy eating during family gatherings connect to bile acid recycling?
+#### How does healthy eating during family gatherings connect to bile acid recycling?
 Family meals often include richer flavors and small amounts of fat—ideal moments to practice bitter greens first, then fat, then fiber later. This makes *healthy eating during family gatherings* both joyful and physiologically supportive—not restrictive.
 
-#### #### Is coffee really helpful for constipation in older adults—or just a stimulant?
+#### Is coffee really helpful for constipation in older adults—or just a stimulant?
 When consumed black and timed between 8–10 a.m., coffee stimulates both colonic motilin *and* FXR signaling—supporting bile acid recycling beyond its laxative effect. Just avoid adding dairy or sugar, which may blunt the benefit.
 
-#### #### Does low-fat diet history permanently affect bile acid recycling?
+#### Does low-fat diet history permanently affect bile acid recycling?
 Not permanently—your liver and gut retain remarkable adaptability. Even after decades of low-fat eating, reintroducing small, well-timed fat sources can retrain CCK responsiveness over several weeks. Patience and consistency matter most.

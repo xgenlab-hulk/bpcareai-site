@@ -65,17 +65,17 @@ Early detection and coordinated care significantly improve outcomes. If you're u
 
 ### FAQ
 
-#### #### Can a pulse oximeter detect pulmonary hypertension?  
+#### Can a pulse oximeter detect pulmonary hypertension?  
 No—pulse oximeters measure oxygen saturation (SpO₂), not pulmonary artery pressure. **Pulse oximeter pulmonary hypertension** refers to the *false reassurance* that normal readings provide, even when pulmonary vascular resistance is rising. Diagnosis requires echocardiography, right heart catheterization, or biomarker assessment.
 
-#### #### Why does pulse oximeter pulmonary hypertension happen in older adults with sleep apnea?  
+#### Why does pulse oximeter pulmonary hypertension happen in older adults with sleep apnea?  
 Chronic intermittent hypoxia from untreated OSA triggers inflammation and vasoconstriction in pulmonary vessels. Over time, this remodels the arterial walls—raising pressure without immediately dropping SpO₂. The oximeter misses these subclinical changes because it doesn’t assess hemodynamics or vascular resistance.
 
-#### #### What are better alternatives to pulse oximetry for detecting early pulmonary hypertension?  
+#### What are better alternatives to pulse oximetry for detecting early pulmonary hypertension?  
 Transthoracic echocardiography (with Doppler assessment of tricuspid regurgitation velocity), NT-proBNP blood testing, and formal polysomnography are more sensitive. Home overnight oximetry *with trend analysis* adds value—but only when interpreted alongside clinical context.
 
-#### #### Is fatigue alone enough reason to suspect pulmonary hypertension?  
+#### Is fatigue alone enough reason to suspect pulmonary hypertension?  
 In adults over 65 with known OSA or risk factors, yes—especially if fatigue persists despite adequate sleep, normal hemoglobin, and stable SpO₂. Unexplained fatigue is often the *earliest* symptom of right heart strain and warrants further cardiac evaluation.
 
-#### #### Does high blood pressure (BP) mean I have pulmonary hypertension?  
+#### Does high blood pressure (BP) mean I have pulmonary hypertension?  
 Not necessarily. Systemic hypertension (elevated BP in arteries throughout the body) is different from pulmonary hypertension (elevated pressure specifically in the lung arteries). However, both can coexist—and untreated systemic hypertension increases overall cardiovascular risk.

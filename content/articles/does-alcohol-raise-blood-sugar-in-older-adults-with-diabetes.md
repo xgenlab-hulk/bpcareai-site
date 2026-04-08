@@ -46,17 +46,17 @@ In summary, alcohol doesn’t have a single, predictable effect on blood sugar i
 
 ### FAQ
 
-#### #### Does alcohol raise or lower blood sugar in seniors with diabetes?  
+#### Does alcohol raise or lower blood sugar in seniors with diabetes?  
 Alcohol can do both—often lowering blood sugar (especially when consumed without food or with certain medications), but some drinks (like sweet wines or cocktails) may raise it initially due to added sugars. The biggest concern for seniors is delayed hypoglycemia.
 
-#### #### What are the alcohol effects on blood sugar in seniors with diabetes who take metformin?  
+#### What are the alcohol effects on blood sugar in seniors with diabetes who take metformin?  
 Metformin itself doesn’t typically cause hypoglycemia, so alcohol-related lows are less likely—but heavy or frequent drinking increases the rare but serious risk of lactic acidosis. Always discuss alcohol use with your provider if you’re on metformin.
 
-#### #### Can alcohol effects on blood sugar in seniors with diabetes worsen neuropathy?  
+#### Can alcohol effects on blood sugar in seniors with diabetes worsen neuropathy?  
 Yes. Chronic alcohol use can damage nerves directly, compounding diabetic neuropathy. Even occasional drinking may mask symptoms of low blood sugar (like tingling or numbness), making detection harder.
 
-#### #### Is red wine safe for people with diabetes?  
+#### Is red wine safe for people with diabetes?  
 Dry red wine has minimal carbs (~0.9 g per 5 oz) and may be included occasionally in moderation—but only if your doctor approves and you monitor closely. Avoid sweet dessert wines, which can contain 10+ grams of sugar per serving.
 
-#### #### How long after drinking alcohol should I check my blood sugar?  
+#### How long after drinking alcohol should I check my blood sugar?  
 Check before drinking, every 1–2 hours while drinking, and again before bed. Continue checking upon waking—hypoglycemia can occur up to 24 hours later, especially with bedtime alcohol.

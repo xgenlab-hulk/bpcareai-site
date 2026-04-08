@@ -63,22 +63,22 @@ The heart of the holiday season isn’t found in perfect pies or endless platter
 
 ### FAQ
 
-#### #### What are the best low-carb desserts for seniors with type 2 diabetes?
+#### What are the best low-carb desserts for seniors with type 2 diabetes?
 
 The best options combine minimal net carbs (under 10 g per serving), moderate protein (4–6 g), and healthy fats. Top choices include baked cinnamon apples with walnut crumble (6 g net carbs), no-bake chocolate avocado mousse (5 g net carbs), and coconut-chia pudding with a handful of blueberries (7 g net carbs). Always pair with a source of protein or healthy fat to further stabilize glucose.
 
-#### #### Are low-carb desserts for seniors safe for those on metformin?
+#### Are low-carb desserts for seniors safe for those on metformin?
 
 Yes—most low-carb desserts for seniors are safe with metformin, as this medication doesn’t typically cause hypoglycemia. However, avoid recipes with large amounts of sugar alcohols (e.g., maltitol), which can cause digestive upset—especially in older adults with slower gut motility. Stick to erythritol or monk fruit, and start with small portions to assess tolerance.
 
-#### #### Can low-carb desserts for seniors still raise blood sugar?
+#### Can low-carb desserts for seniors still raise blood sugar?
 
 Yes—but usually much less than traditional desserts. Even low-carb treats contain some carbohydrates and calories, and individual responses vary. A small portion of keto lemon bars (8 g net carbs) may raise one person’s glucose by 20 mg/dL, while another sees little change. That’s why pairing with protein and checking your numbers is so helpful—it turns guesswork into personalized wisdom.
 
-#### #### What sugar substitutes are safest for seniors over 60?
+#### What sugar substitutes are safest for seniors over 60?
 
 Erythritol and monk fruit extract are generally well-tolerated and have virtually zero glycemic impact. Stevia is also safe in moderate amounts. Avoid sucralose in large quantities (more than 2–3 servings daily), as emerging research suggests possible effects on gut microbiota—particularly relevant for older adults managing digestion or immune health.
 
-#### #### How can I enjoy holiday baking without spiking my blood sugar?
+#### How can I enjoy holiday baking without spiking my blood sugar?
 
 Focus on whole-food swaps: almond or coconut flour instead of wheat; unsweetened cocoa instead of chocolate syrup; full-fat Greek yogurt or cottage cheese instead of sour cream or frosting. Bake in mini portions, share generously, and savor slowly. And remember—you don’t need to eat every treat offered. A warm smile and a kind word often taste sweeter than any dessert.

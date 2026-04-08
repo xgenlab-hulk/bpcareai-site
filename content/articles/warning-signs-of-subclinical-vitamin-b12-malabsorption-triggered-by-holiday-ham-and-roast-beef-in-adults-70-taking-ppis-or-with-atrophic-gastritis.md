@@ -86,22 +86,22 @@ Noticing small shifts in how you walk, think, or feel after holiday meals isn’
 
 ### FAQ
 
-#### #### What does b12 malabsorption holiday meat really mean—and is it serious?
+#### What does b12 malabsorption holiday meat really mean—and is it serious?
 
 *b12 malabsorption holiday meat* refers to a temporary, subclinical dip in B12 absorption that can occur 2–4 weeks after eating large portions of B12-rich meats (like ham or roast beef) in people whose stomachs already produce less acid—often due to age, PPI use, or atrophic gastritis. It’s not dangerous or irreversible, but it *can* contribute to subtle neurologic or blood cell changes. With simple support—like appropriate B12 supplementation—it’s easily addressed.
 
-#### #### Can b12 malabsorption holiday meat happen even if I eat meat all year?
+#### Can b12 malabsorption holiday meat happen even if I eat meat all year?
 
 Yes—but holiday meals tend to concentrate intake (e.g., multiple servings of beef or ham in one week), which can highlight absorption limits in people with low acid or intrinsic factor. Year-round moderate meat consumption is usually well-tolerated; the “holiday effect” reflects dose, timing, and individual physiology—not the food itself.
 
-#### #### How soon after eating holiday ham might I notice signs of b12 malabsorption?
+#### How soon after eating holiday ham might I notice signs of b12 malabsorption?
 
 Most people notice subtle changes—like mild gait uncertainty or reduced vibratory sense—starting around 2 weeks post-meal and peaking at 3–4 weeks. These are not sudden or severe, but gradual and reversible with support.
 
-#### #### Does atrophic gastritis always lead to B12 deficiency?
+#### Does atrophic gastritis always lead to B12 deficiency?
 
 Not always—and not immediately. Up to 60% of people with atrophic gastritis maintain adequate B12 for years, especially with regular monitoring and proactive supplementation. It increases risk, but it doesn’t guarantee deficiency—and early awareness makes all the difference.
 
-#### #### Are there foods I can eat during family gatherings that support B12 absorption naturally?
+#### Are there foods I can eat during family gatherings that support B12 absorption naturally?
 
 While no food replaces intrinsic factor or stomach acid, including fermented foods (like unsweetened yogurt or kimchi) and staying well-hydrated may support overall gut environment. More reliably, choosing fortified nutritional yeast (check labels for cyanocobalamin or methylcobalamin) or taking a daily B12 supplement with meals helps ensure consistent intake—without relying solely on meat-based sources.

@@ -72,17 +72,17 @@ Blood pressure management in advanced CKD isn’t just about hitting a number—
 
 ### FAQ
 
-#### #### Why does my blood pressure seem normal on the cuff but I still feel tired or dizzy?
+#### Why does my blood pressure seem normal on the cuff but I still feel tired or dizzy?
 This could reflect **blood pressure underestimation in advanced CKD**, where central pressures are higher than measured—and/or autonomic dysregulation causing postural drops. Symptoms matter as much as numbers.
 
-#### #### Is blood pressure underestimation in advanced CKD common in elderly patients?
+#### Is blood pressure underestimation in advanced CKD common in elderly patients?
 Yes—studies estimate 40–60% of adults ≥75 with Stage 4 CKD exhibit clinically relevant **blood pressure underestimation in advanced CKD**, especially with diabetes or long-standing hypertension.
 
-#### #### Can calcium buildup in arteries affect blood pressure readings?
+#### Can calcium buildup in arteries affect blood pressure readings?
 Absolutely. Arterial calcification reduces vessel compressibility, distorting cuff inflation-deflation curves and causing systematic underestimation—particularly of systolic pressure.
 
-#### #### What’s the best way to monitor blood pressure at home with CKD Stage 4?
+#### What’s the best way to monitor blood pressure at home with CKD Stage 4?
 Use an upper-arm, oscillometric device validated in CKD populations; ensure correct cuff size; take two readings one minute apart after resting; average them. Avoid wrist monitors—they’re unreliable in vascular stiffness.
 
-#### #### Does high creatinine level affect blood pressure measurement?
+#### Does high creatinine level affect blood pressure measurement?
 Creatinine itself doesn’t interfere with cuff readings—but elevated creatinine signals reduced kidney function, which correlates strongly with arterial stiffness and thus increases likelihood of **blood pressure underestimation in advanced CKD**.

@@ -88,22 +88,22 @@ Understanding how ultra-processed snacks endothelial function atherosclerosis in
 
 ### FAQ
 
-#### #### Do ultra-processed snacks endothelial function atherosclerosis concerns apply even if I feel fine?
+#### Do ultra-processed snacks endothelial function atherosclerosis concerns apply even if I feel fine?
 
 Yes. Subclinical atherosclerosis often causes no symptoms until plaque ruptures or severely narrows an artery. ENDOTRACK participants had no angina, claudication, or prior events—yet showed measurable, reversible endothelial impairment after ultra-processed snack consumption. Early detection allows for timely lifestyle adjustment.
 
-#### #### How do ultra-processed snacks endothelial function atherosclerosis relate to blood pressure?
+#### How do ultra-processed snacks endothelial function atherosclerosis relate to blood pressure?
 
 While ultra-processed snacks may not cause immediate BP spikes, they promote chronic endothelial stiffening—which contributes to rising systolic pressure over time, especially after age 60. ENDOTRACK found participants with impaired postprandial FMD were 2.3× more likely to develop stage 1 hypertension within 18 months—even with initially normal readings.
 
-#### #### Can I reverse endothelial dysfunction caused by ultra-processed snacks?
+#### Can I reverse endothelial dysfunction caused by ultra-processed snacks?
 
 Yes—endothelial function is highly dynamic and responsive. Studies show that switching to a whole-food, Mediterranean-style pattern for just 4 weeks improves FMD by 3–4 percentage points in adults with subclinical disease. Consistency matters more than perfection.
 
-#### #### Are all protein bars equally problematic for endothelial health?
+#### Are all protein bars equally problematic for endothelial health?
 
 No. Bars with ≤5 ingredients (e.g., dates, almonds, pea protein, sea salt) and no added sugars, emulsifiers, or artificial flavors show minimal FMD impact in ENDOTRACK. However, most commercial bars contain ≥12 ingredients—including acacia gum, sunflower lecithin, and sucralose—which independently impair NO signaling.
 
-#### #### Does cooking at home eliminate ultra-processed snack risks?
+#### Does cooking at home eliminate ultra-processed snack risks?
 
 Not necessarily. “Homemade” versions can still be ultra-processed if they rely on industrial ingredients—like powdered milk solids, modified food starch, or isolated sweeteners (e.g., erythritol blends). Focus on ingredient *source* and *processing level*, not just preparation method.

@@ -49,17 +49,17 @@ The holidays are a time to gather, reflect, and nourish—not just the body, but
 
 ### FAQ
 
-#### #### What’s included in a holiday meal guide for seniors with kidney disease?  
+#### What’s included in a holiday meal guide for seniors with kidney disease?  
 A *holiday meal guide for seniors with kidney disease* includes portion guidance, low-potassium and low-phosphorus food swaps, cooking tips (like leaching techniques), sample menus, and strategies to enjoy seasonal flavors safely—all tailored to preserve kidney function and reduce cardiovascular risk.
 
-#### #### Can I still eat turkey and stuffing during the holidays if I have kidney disease?  
+#### Can I still eat turkey and stuffing during the holidays if I have kidney disease?  
 Yes—but choose skinless white meat turkey (3 oz) and skip stuffing made with whole grains, dried fruit, or phosphate-laden broth. Make a kidney-friendly version using white bread cubes, sautéed celery and onions, and low-sodium herbs.
 
-#### #### Where can I find a reliable holiday meal guide for seniors with kidney disease?  
+#### Where can I find a reliable holiday meal guide for seniors with kidney disease?  
 Your registered dietitian specializing in renal nutrition is the best resource. Many kidney foundations (e.g., National Kidney Foundation) offer free, evidence-based printables—and your care team can tailor recommendations based on your eGFR, lab values, and medication regimen.
 
-#### #### How does high sodium affect seniors with kidney disease during the holidays?  
+#### How does high sodium affect seniors with kidney disease during the holidays?  
 Excess sodium raises blood pressure and promotes fluid retention—both increase stress on kidneys and the heart. Seniors with CKD are especially sensitive; even a single high-sodium meal (e.g., ham, canned soups, or gravy) can elevate systolic BP by 5–10 mm Hg temporarily.
 
-#### #### Are there kidney-safe dessert options for holiday meals?  
+#### Are there kidney-safe dessert options for holiday meals?  
 Absolutely. Try baked apples with cinnamon, rice pudding made with unenriched almond milk, or angel food cake (naturally low in phosphorus and potassium). Always check ingredient lists—many “healthy” alternatives contain hidden phosphates or potassium chloride.

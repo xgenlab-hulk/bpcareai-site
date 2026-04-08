@@ -78,22 +78,22 @@ Night muscle cramps diabetes diuretics don’t have to mean decline—they’re 
 
 ### FAQ
 
-#### #### Are night muscle cramps diabetes diuretics a sign of something serious?
+#### Are night muscle cramps diabetes diuretics a sign of something serious?
 
 Yes—they can signal subclinical magnesium loss, especially in women over 68 on thiazide diuretics. While not always urgent, they’re a useful early cue to assess nerve health, fall risk, and electrolyte balance before complications arise.
 
-#### #### Can night muscle cramps diabetes diuretics be prevented?
+#### Can night muscle cramps diabetes diuretics be prevented?
 
 Often, yes—with dietary magnesium support, medication review, and blood sugar optimization. Prevention focuses on addressing the root causes—not just masking symptoms with stretching or heat.
 
-#### #### What’s the link between night muscle cramps diabetes diuretics and neuropathy?
+#### What’s the link between night muscle cramps diabetes diuretics and neuropathy?
 
 Chronic low magnesium contributes to nerve hyperexcitability and impairs nerve repair. In people with long-standing diabetes, this combo accelerates silent neuropathic progression—sometimes months before classic symptoms like numbness appear.
 
-#### #### Do all diuretics cause night muscle cramps in people with diabetes?
+#### Do all diuretics cause night muscle cramps in people with diabetes?
 
 Thiazide-type diuretics (e.g., hydrochlorothiazide) are most associated with magnesium loss and cramping. Loop diuretics (like furosemide) also pose risk—but potassium-sparing diuretics (e.g., amiloride) do not increase magnesium excretion.
 
-#### #### Should I stop my diuretic if I get night muscle cramps diabetes diuretics?
+#### Should I stop my diuretic if I get night muscle cramps diabetes diuretics?
 
 No—never stop prescribed medication without consulting your doctor. Instead, ask about adjusting dosage, switching types, or adding targeted support like magnesium supplementation under supervision.

@@ -80,17 +80,17 @@ Understanding *late eating diabetes myths chronobiology seniors* helps replace f
 
 ### FAQ
 
-#### #### Does eating late cause diabetes in seniors?
+#### Does eating late cause diabetes in seniors?
 No—eating late does *not* directly cause diabetes. Large-scale studies (including the Nurses’ Health Study II and the UK Biobank) show no independent association between typical evening meal timing and new-onset type 2 diabetes in adults over 55. However, *habitual late eating combined with poor sleep, high-calorie snacks, or circadian disruption* may contribute to insulin resistance over time—especially in genetically predisposed individuals.
 
-#### #### Are late eating diabetes myths chronobiology seniors based on real science?
+#### Are late eating diabetes myths chronobiology seniors based on real science?
 Yes—but often misinterpreted. Chronobiology research *does* show that melatonin inhibits insulin secretion, *PER2* methylation shifts with age, and circadian misalignment worsens glucose control. Yet these findings are frequently oversimplified into “don’t eat late” advice. The science actually supports *personalized timing*, not universal restriction.
 
-#### #### Can seniors safely eat dinner at 8 p.m. or later?
+#### Can seniors safely eat dinner at 8 p.m. or later?
 Yes—safely and healthfully. A 2024 analysis in *The Journals of Gerontology* found that adults 60–65 who ate dinner between 7:30–9:00 p.m. had similar 2-hour postprandial glucose levels to early eaters—*provided* they maintained consistent sleep timing, avoided high-glycemic snacks, and consumed adequate protein and fiber.
 
-#### #### What’s the best late-evening snack for blood sugar stability?
+#### What’s the best late-evening snack for blood sugar stability?
 A combination of 15–20 g slow-release protein (e.g., cottage cheese, Greek yogurt, or casein powder) and 8–12 g resistant starch (e.g., cooled sweet potato, lentils, or green banana flour) supports overnight glucose stability better than carb-only or fat-heavy options. Avoid added sugars and ultra-processed snacks.
 
-#### #### Does late eating affect blood pressure in seniors?
+#### Does late eating affect blood pressure in seniors?
 Indirectly, yes. Circadian misalignment—including late eating—has been associated with elevated nocturnal systolic BP and reduced dipping (a healthy 10–20% BP drop during sleep). In one cohort, adults who ate >2 hours before bedtime showed 7 mm Hg higher average nocturnal systolic pressure than matched controls—highlighting why timing intersects with cardiovascular health.

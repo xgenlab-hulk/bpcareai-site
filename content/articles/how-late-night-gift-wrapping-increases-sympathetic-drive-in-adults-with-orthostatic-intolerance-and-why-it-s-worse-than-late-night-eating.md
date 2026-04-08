@@ -66,22 +66,22 @@ In short, your holiday rhythm matters as much as your holiday menu. Prioritizing
 
 ### FAQ
 
-#### #### Does gift-wrapping and sympathetic drive in elderly worsen blood pressure at night?
+#### Does gift-wrapping and sympathetic drive in elderly worsen blood pressure at night?
 
 Yes—especially in adults with orthostatic intolerance. Late-night wrapping correlates with elevated nocturnal norepinephrine, reduced HRV, and higher morning systolic BP (often 10–15 mm Hg above baseline). This isn’t just “stress”—it’s measurable autonomic dysregulation.
 
-#### #### Can gift-wrapping and sympathetic drive in elderly trigger atrial fibrillation?
+#### Can gift-wrapping and sympathetic drive in elderly trigger atrial fibrillation?
 
 Not directly—but prolonged sympathetic surges (particularly in those with underlying structural heart disease or hypertension) can lower the threshold for arrhythmias. Studies link repeated nighttime sympathetic activation with increased AFib episodes in adults over 65, especially during December–January.
 
-#### #### Is gift-wrapping and sympathetic drive in elderly reversible with lifestyle changes?
+#### Is gift-wrapping and sympathetic drive in elderly reversible with lifestyle changes?
 
 Absolutely. In clinical observation, shifting wrapping to earlier in the day + adding brief movement breaks improves HRV recovery by 30–50% within 2 weeks—and reduces orthostatic symptoms in ~70% of adults aged 55–75.
 
-#### #### Why does wrapping feel harder than walking or cooking?
+#### Why does wrapping feel harder than walking or cooking?
 
 Because it combines mental load, static posture, and time pressure—three factors that synergistically activate the sympathetic nervous system *without* the counterbalancing effects of physical exertion (which normally boosts vagal tone post-activity).
 
-#### #### Should I avoid all holiday prep after 6 p.m.?
+#### Should I avoid all holiday prep after 6 p.m.?
 
 Not necessarily—but prioritize tasks that involve movement (e.g., baking, assembling decorations) over highly focused sedentary ones (wrapping, addressing cards) later in the day. Your nervous system will thank you.

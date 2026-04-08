@@ -85,17 +85,17 @@ It’s okay to honor tradition *and* protect your well-being. You don’t need t
 
 ### FAQ  
 
-#### #### Are gluten-free rolls safe for seniors with atrophic gastritis?  
+#### Are gluten-free rolls safe for seniors with atrophic gastritis?  
 Not automatically. While gluten-free rolls eliminate gluten exposure, many commercially prepared or home-baked versions lack nutrients critical for older adults with atrophic gastritis—especially bioavailable iron and B12—and may still carry cross-contamination risks. Their low-acid digestion also makes them more vulnerable to residual gluten peptides, even in “safe” amounts.
 
-#### #### What makes gluten-free rolls celiac atrophic gastritis especially risky for adults over 75?  
+#### What makes gluten-free rolls celiac atrophic gastritis especially risky for adults over 75?  
 Three key factors converge: reduced stomach acid impairs gluten breakdown *and* iron/B12 solubilization; chronic low-level gluten exposure (even from cross-contamination) fuels silent intestinal damage; and common GF flours often contain absorption inhibitors (e.g., calcium carbonate, phytates) that compound existing malabsorption from gastric atrophy.
 
-#### #### Can gluten-free rolls cause anemia in older adults with undiagnosed celiac disease?  
+#### Can gluten-free rolls cause anemia in older adults with undiagnosed celiac disease?  
 Yes—indirectly. Repeated gluten exposure (even tiny amounts) damages the small intestine’s villi, reducing surface area for iron, folate, and B12 absorption. When combined with atrophic gastritis—which lowers acid and intrinsic factor—this creates a perfect storm for iron-deficiency and/or megaloblastic anemia. Blood tests (ferritin, B12, MMA, homocysteine) help distinguish the cause.
 
-#### #### Do gluten-free rolls raise blood pressure?  
+#### Do gluten-free rolls raise blood pressure?  
 No—gluten-free rolls themselves don’t directly raise BP. However, chronic inflammation from untreated celiac disease *is* linked to endothelial dysfunction and a 20% higher risk of hypertension in older adults. Likewise, severe B12 or iron deficiency can contribute to compensatory tachycardia or orthostatic changes—so managing underlying causes supports overall cardiovascular resilience.
 
-#### #### How can I enjoy holiday meals without risking gluten exposure if I have atrophic gastritis?  
+#### How can I enjoy holiday meals without risking gluten exposure if I have atrophic gastritis?  
 Bring your own small batch of certified gluten-free rolls (baked in a dedicated oven), request a separate baking sheet and cooling rack, and pair them with iron- and B12-friendly foods (like turkey liver paté, salmon, or spinach sautéed in lemon). Most importantly—eat slowly, chew thoroughly, and give your digestive system time to respond. Small, intentional choices add up to big comfort—and safety.

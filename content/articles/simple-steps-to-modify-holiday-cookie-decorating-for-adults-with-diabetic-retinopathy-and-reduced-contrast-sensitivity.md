@@ -88,22 +88,22 @@ If you're unsure, talking to your doctor is always a good idea—and mentioning 
 
 ### FAQ
 
-#### #### Can cookie decorating diabetic retinopathy contrast sensitivity be managed without giving up baking entirely?
+#### Can cookie decorating diabetic retinopathy contrast sensitivity be managed without giving up baking entirely?
 
 Yes—absolutely. With intentional adaptations like high-contrast surfaces, tactile nozzles, and voice-guided timers, most adults maintain full, safe participation in holiday baking. The goal isn’t perfection—it’s pleasure, connection, and autonomy.
 
-#### #### What are the best color combinations for cookie decorating diabetic retinopathy contrast sensitivity?
+#### What are the best color combinations for cookie decorating diabetic retinopathy contrast sensitivity?
 
 Stick to high-luminance contrast: black/dark navy bowls for light icings (white, pastel), and white/yellow bowls for dark icings (chocolate, espresso). Avoid red/green, blue/purple, or tan/beige pairings—they blend under typical indoor lighting and strain contrast perception.
 
-#### #### How does holiday diabetes management relate to vision-safe cookie decorating?
+#### How does holiday diabetes management relate to vision-safe cookie decorating?
 
 They’re deeply connected. Stable blood glucose supports retinal health and contrast sensitivity over time—and engaging in joyful, low-stress activities like adapted baking supports emotional well-being, which in turn helps with consistent self-care. It’s holistic, not separate.
 
-#### #### Are there specific tools recommended for adults with reduced contrast sensitivity?
+#### Are there specific tools recommended for adults with reduced contrast sensitivity?
 
 Look for tools with strong tactile feedback (ridged nozzles, rubberized grips), bold color blocking (not just “bright” but high-luminance contrast), and compatibility with voice assistants. No single product fits all—but consistency in how you organize, label, and time tasks matters more than any one gadget.
 
-#### #### Can contrast sensitivity improve with better blood sugar control during the holidays?
+#### Can contrast sensitivity improve with better blood sugar control during the holidays?
 
 Yes—research shows improvements in contrast thresholds within 3–6 months of sustained A1C reduction (e.g., from 8.5% to 7.0%). Even small, consistent efforts—like choosing lower-glycemic snacks while decorating or pairing treats with protein—support both your eyes and your energy through the season.

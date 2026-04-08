@@ -93,22 +93,22 @@ Making dietary changes later in life is one of the kindest things you can do for
 
 ### FAQ
 
-#### #### Why does my blood pressure go up every morning after starting a low-carb diet?
+#### Why does my blood pressure go up every morning after starting a low-carb diet?
 
 This morning rise — especially noticeable in adults over 65 — often reflects increased aldosterone activity, reduced atrial natriuretic peptide (ANP), and stiffer heart muscle relaxation (diastolic dysfunction). These changes are more pronounced during the early-morning hormonal surge and can elevate systolic BP by 20–30 mm Hg — even if daytime numbers look fine.
 
-#### #### Is a low carb diet morning bp spike elderly dangerous?
+#### Is a low carb diet morning bp spike elderly dangerous?
 
 Not necessarily — but it *is* meaningful. Consistent morning spikes above 150/90 mm Hg may indicate added strain on arteries and the heart over time, especially with pre-existing diastolic dysfunction. It’s a signal to adjust timing, hydration, electrolytes, or medication — not a reason to panic.
 
-#### #### Can mild diastolic dysfunction cause morning blood pressure spikes?
+#### Can mild diastolic dysfunction cause morning blood pressure spikes?
 
 Yes — especially when combined with dietary changes like low-carb eating. Diastolic dysfunction means the left ventricle doesn’t relax as easily, making it harder to accommodate shifts in fluid volume. When aldosterone rises (as it does in ketosis), even small sodium/water retention can raise pressure — most visibly in the morning.
 
-#### #### How long does the low carb diet morning bp spike elderly last?
+#### How long does the low carb diet morning bp spike elderly last?
 
 For many, it improves within 2–4 weeks as the body adapts — *if* hydration, electrolytes, and gradual carb reduction are supported. But if spikes persist beyond 30 days or worsen, it’s wise to revisit your plan with your clinician.
 
-#### #### Should I stop my blood pressure medication when starting a low-carb diet?
+#### Should I stop my blood pressure medication when starting a low-carb diet?
 
 No — never stop or adjust prescribed BP meds without consulting your doctor. Some medications (like diuretics or ARBs) interact closely with aldosterone and sodium balance. Stopping them abruptly could lead to rebound spikes or other complications.

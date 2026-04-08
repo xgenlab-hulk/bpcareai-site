@@ -74,22 +74,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can loneliness really raise blood pressure in retirees—even if they’re otherwise healthy?
+#### Can loneliness really raise blood pressure in retirees—even if they’re otherwise healthy?
 
 Yes. Multiple studies—including a 2022 analysis in *JAMA Internal Medicine*—show that retirees reporting high loneliness have, on average, 4–6 mm Hg higher 24-hour systolic BP and significantly flatter nocturnal dipping curves, independent of weight, activity level, or medication use. This effect is strongest in those with preserved ejection fraction and appears tied to autonomic dysregulation rather than structural heart disease.
 
-#### #### How does loneliness and blood pressure in retirees differ from general hypertension in older adults?
+#### How does loneliness and blood pressure in retirees differ from general hypertension in older adults?
 
 Loneliness-related BP changes tend to manifest most clearly at night (nocturnal hypertension) and during early-morning hours, rather than in sustained daytime elevation. They’re also closely linked to increased arterial stiffness and reduced heart rate variability—signs of nervous system inflexibility—not just fluid volume or renal factors. This makes them more responsive to behavioral interventions like social re-engagement and paced breathing.
 
-#### #### What’s the best way to check for non-dipping blood pressure as a retiree?
+#### What’s the best way to check for non-dipping blood pressure as a retiree?
 
 Ambulatory blood pressure monitoring (ABPM) is the gold standard. It’s typically covered by Medicare Part B when ordered for suspected white-coat hypertension, masked hypertension, or evaluation of treatment resistance—and increasingly for those with documented psychosocial risk factors like social isolation. Ask your primary care provider or cardiologist about a referral.
 
-#### #### Does volunteering or joining a senior center actually lower blood pressure?
+#### Does volunteering or joining a senior center actually lower blood pressure?
 
 Evidence suggests yes—especially when participation is regular (at least once weekly) and involves reciprocal interaction (not just observation). A 12-month trial published in *Psychosomatic Medicine* found retirees in structured community programs showed a 7.2 mm Hg greater nocturnal dip and 15% improvement in pulse wave velocity compared to controls—effects comparable to starting low-dose antihypertensive therapy.
 
-#### #### Are there medications that specifically target loneliness-related blood pressure changes?
+#### Are there medications that specifically target loneliness-related blood pressure changes?
 
 No medication targets loneliness itself—but certain antihypertensives (like ACE inhibitors or low-dose beta-blockers) may be preferred in cases of confirmed non-dipping or high sympathetic tone, especially when paired with lifestyle support. Treatment is always individualized; your provider will consider your full clinical picture, including sleep, mood, and daily rhythm—not just BP numbers.

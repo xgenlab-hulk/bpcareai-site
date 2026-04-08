@@ -63,22 +63,22 @@ In closing: Your heart’s small vessels deserve attention—even when the big a
 
 ### FAQ
 
-#### #### Does cold hand immersion coronary flow reserve work for everyone with angina?
+#### Does cold hand immersion coronary flow reserve work for everyone with angina?
 
 Not universally—research so far shows the clearest benefits in adults 57–64 with INOCA and preserved left ventricular function. It’s less likely to help those with obstructive CAD, advanced heart failure, or significant autonomic dysfunction.
 
-#### #### How often should I do cold hand immersion to support coronary flow reserve?
+#### How often should I do cold hand immersion to support coronary flow reserve?
 
 Current evidence supports once-daily sessions: three 30-second immersions with 2-minute rests in between. Consistency matters more than intensity—studies observed improvements after 4–6 weeks of regular practice.
 
-#### #### Can cold hand immersion coronary flow reserve replace my heart medications?
+#### Can cold hand immersion coronary flow reserve replace my heart medications?
 
 No. It’s designed as a complementary strategy—not a substitute for beta-blockers, nitrates, or other prescribed therapies. Always discuss adjustments with your cardiologist.
 
-#### #### Is cold hand immersion safe if I have high blood pressure?
+#### Is cold hand immersion safe if I have high blood pressure?
 
 Yes—for most. A brief, mild BP rise is typical and harmless. But if your resting BP regularly exceeds 140/90 mm Hg—or you’ve had recent hypertensive urgency—check with your provider before starting.
 
-#### #### What’s the difference between coronary flow reserve and ejection fraction?
+#### What’s the difference between coronary flow reserve and ejection fraction?
 
 Coronary flow reserve measures how well small heart vessels dilate to increase blood supply under demand; ejection fraction reflects how forcefully your left ventricle pumps blood out. They assess different things—one microvascular, one structural—and both can be normal in INOCA.

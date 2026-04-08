@@ -89,17 +89,17 @@ It’s never too late to support healthier metabolic function—and small, susta
 
 ### FAQ
 
-#### #### Does drinking diet soda cause insulin resistance in older adults?
+#### Does drinking diet soda cause insulin resistance in older adults?
 Yes—especially in adults over 60 with existing visceral adiposity. Research links frequent diet soda consumption to altered gut microbiota, reduced GLP-1 response, and heightened cephalic-phase insulin release—all of which contribute to insulin resistance over time. The effect appears stronger in older populations due to age-related declines in metabolic flexibility and adipose tissue health.
 
-#### #### Can diet soda insulin resistance visceral adiposity be reversed?
+#### Can diet soda insulin resistance visceral adiposity be reversed?
 Often, yes—particularly when addressed early. Reducing artificial sweetener intake, increasing dietary fiber, engaging in regular movement, and improving sleep quality have all been shown to improve insulin sensitivity and reduce visceral fat volume. In clinical trials, older adults who adopted these changes saw average reductions in waist circumference of 1.2–2.5 inches over 12 weeks.
 
-#### #### Is there a safe amount of diet soda for someone with prediabetes over 60?
+#### Is there a safe amount of diet soda for someone with prediabetes over 60?
 There’s no established “safe threshold,” but evidence suggests dose-dependence: consuming ≥1 serving per day is associated with higher odds of progressing from prediabetes to type 2 diabetes. For most adults over 60 with prediabetes or visceral adiposity, health professionals recommend limiting to ≤1 serving per week—or eliminating entirely while focusing on hydration with water, herbal teas, or diluted fruit juice (¼ cup juice + ¾ cup water).
 
-#### #### Does sparkling water with natural flavors affect insulin resistance?
+#### Does sparkling water with natural flavors affect insulin resistance?
 Most plain or naturally flavored sparkling waters (with no added sugars or artificial sweeteners) do not appear to impact insulin resistance. Always check labels—some “naturally flavored” beverages include stevia, monk fruit extract, or other non-nutritive sweeteners that may trigger cephalic-phase responses. When in doubt, choose unsweetened options.
 
-#### #### How does visceral adiposity worsen the effects of diet soda on metabolism?
+#### How does visceral adiposity worsen the effects of diet soda on metabolism?
 Visceral fat is highly metabolically active—it releases pro-inflammatory molecules and free fatty acids that interfere with insulin receptor signaling in liver and muscle. When combined with artificial sweetener–induced gut dysbiosis and impaired incretin function, this creates a “triple hit” on glucose regulation—making insulin resistance more likely to develop and harder to reverse.

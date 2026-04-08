@@ -96,22 +96,22 @@ Living well with diabetes means learning new rhythms—and sometimes unlearning 
 
 ### FAQ
 
-#### #### Does feeling pain in my feet mean I don’t have diabetic neuropathy?
+#### Does feeling pain in my feet mean I don’t have diabetic neuropathy?
 
 Not necessarily. Many people with early or mild neuropathy still feel sharp or burning pain—but lose the ability to sense light touch or vibration first. Pain sensation alone doesn’t rule out nerve changes. That’s why the **diabetic foot care pain sensation myth** can be misleading: preserved pain ≠ preserved protection.
 
-#### #### What is the diabetic foot care pain sensation myth—and why is it dangerous?
+#### What is the diabetic foot care pain sensation myth—and why is it dangerous?
 
 The **diabetic foot care pain sensation myth** is the belief that “if I can still feel pain, my feet are safe.” It’s dangerous because protective sensation (like detecting pressure or temperature) often fades *before* pain sensation does—leaving you vulnerable to unnoticed injuries. Up to 30% of people who still feel pain have already lost critical protective nerve function.
 
-#### #### Can I test for neuropathy at home without going to the doctor?
+#### Can I test for neuropathy at home without going to the doctor?
 
 Yes—using validated, low-cost tools like the 10-gram monofilament and 128-Hz tuning fork. These assess light touch and vibration sensation—the two most predictive indicators of protective nerve health. While they don’t replace clinical exams, they’re excellent for regular self-monitoring and spotting early changes.
 
-#### #### How often should I check my feet if I have diabetes?
+#### How often should I check my feet if I have diabetes?
 
 Daily. Even if your feet feel fine, daily visual and tactile checks help catch small issues before they grow. Think of it like checking your car’s oil—not because something’s wrong, but because prevention is easier, safer, and more comfortable than repair.
 
-#### #### Does high blood pressure affect my feet if I have diabetes?
+#### Does high blood pressure affect my feet if I have diabetes?
 
 Yes. High blood pressure (especially ≥140/90 mm Hg) contributes to arterial stiffness and reduced blood flow—making it harder for your feet to heal and increasing neuropathy risk. Managing both blood pressure *and* blood glucose supports healthier nerves and circulation.

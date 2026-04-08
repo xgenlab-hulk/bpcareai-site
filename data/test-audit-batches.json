@@ -1,0 +1,548 @@
+{
+  "test_phase": true,
+  "total_articles": 100,
+  "batch_size": 20,
+  "num_batches": 5,
+  "batches": [
+    {
+      "batch_id": 1,
+      "start_index": 0,
+      "end_index": 19,
+      "count": 20,
+      "articles": [
+        {
+          "slug": "the-truth-about-normal-bp-variability-why-24-hour-sd-15-mmhg-predicts-microinfarct-burden-in-adults-69-with-white-matter-hyperintensities",
+          "primaryKeyword": "blood pressure variability and brain health",
+          "topicCluster": "hypertension-management"
+        },
+        {
+          "slug": "natural-ways-to-support-pancreatic-beta-cell-resilience-without-stimulating-insulin-secretion-using-sulforaphane-timing-low-dose-lithium-in-adults-56-64-with-early-beta-cell-decline",
+          "primaryKeyword": "health management seniors",
+          "topicCluster": "natural-remedies"
+        },
+        {
+          "slug": "myths-vs-facts-about-salt-sensitivity-after-60-why-3-000-mg-sodium-can-be-safe-or-harmful-depending-on-your-enac-genotype-and-gut-microbiome-profile",
+          "primaryKeyword": "salt sensitivity genetics microbiome aging",
+          "topicCluster": "gastrointestinal-health"
+        },
+        {
+          "slug": "best-seated-breathing-patterns-with-real-time-hrv-feedback-for-adults-79-with-frailty-orthostatic-intolerance-and-mild-pulmonary-hypertension",
+          "primaryKeyword": "hypertension management adults 79+",
+          "topicCluster": "hypertension-management"
+        },
+        {
+          "slug": "7-hidden-medication-interactions-that-raise-blood-pressure-after-age-60-including-common-antidepressants-antihistamines-and-topical-nsaids",
+          "primaryKeyword": "medication-induced hypertension over 60",
+          "topicCluster": "hypertension-management"
+        },
+        {
+          "slug": "why-does-blood-pressure-spike-during-morning-commutes-not-just-stress-in-adults-58-67-with-subclinical-carotid-plaque",
+          "primaryKeyword": "morning blood pressure spike traffic exposure",
+          "topicCluster": "hypertension-management"
+        },
+        {
+          "slug": "when-to-skip-the-family-dessert-table-entirely-5-clinical-indicators-that-signal-high-risk-carbohydrate-load-for-adults-69-with-diabetic-gastroparesis",
+          "primaryKeyword": "skip dessert diabetic gastroparesis seniors",
+          "topicCluster": "diabetes-management"
+        },
+        {
+          "slug": "what-research-says-about-late-night-protein-timing-effects-on-overnight-glucose-stability-and-growth-hormone-pulses-in-adults-63-with-prediabetes",
+          "primaryKeyword": "late-night protein and blood sugar",
+          "topicCluster": "diabetes-management"
+        },
+        {
+          "slug": "myths-vs-facts-you-can-reverse-type-2-diabetes-with-diet-alone-what-15-year-remission-data-shows-for-adults-diagnosed-after-age-55",
+          "primaryKeyword": "type 2 diabetes reversal after 55",
+          "topicCluster": "diabetes-management"
+        },
+        {
+          "slug": "5-things-every-man-over-65-taking-testosterone-replacement-should-know-about-its-effect-on-insulin-receptor-tyrosine-kinase-activity-and-glucose-uptake-efficiency",
+          "primaryKeyword": "testosterone therapy and insulin resistance",
+          "topicCluster": "glucose-diabetes-management"
+        },
+        {
+          "slug": "warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-not-just-bloating-in-adults-70-with-long-term-ppi-use",
+          "primaryKeyword": "holiday leftovers gut dysbiosis ppi seniors",
+          "topicCluster": "gastrointestinal-health"
+        },
+        {
+          "slug": "the-complete-guide-to-managing-blood-pressure-while-caring-for-a-spouse-with-dementia-stress-resilience-sleep-fragmentation-and-medication-adherence-trade-offs-in-adults-65-79",
+          "primaryKeyword": "blood pressure management dementia caregiver",
+          "topicCluster": "hypertension-management"
+        },
+        {
+          "slug": "5-things-every-woman-over-64-taking-low-dose-hrt-should-know-about-holiday-alcohol-interactions-and-hepatic-cyp2c9-saturation",
+          "primaryKeyword": "hrt alcohol metabolism seniors women",
+          "topicCluster": "special-populations"
+        },
+        {
+          "slug": "12-foods-that-stabilize-postprandial-cholinergic-tone-not-just-digestive-aids-including-slow-roasted-fennel-lacto-fermented-beets-and-toasted-caraway-seeds-for-adults-60-74",
+          "primaryKeyword": "cholinergic-stabilizing foods seniors",
+          "topicCluster": "nutrition-diet-management"
+        },
+        {
+          "slug": "12-foods-that-delay-endothelial-senescence-not-just-lower-bp-including-black-garlic-extract-germinated-brown-rice-and-low-age-roasted-chickpeas-for-adults-60",
+          "primaryKeyword": "foods that delay endothelial aging",
+          "topicCluster": "nutrition-diet-management"
+        },
+        {
+          "slug": "why-your-holiday-heart-palpitations-might-be-caused-by-cold-induced-coronary-vasoconstriction-not-alcohol-in-adults-59-with-raynaud-s-phenomenon",
+          "primaryKeyword": "cold-induced palpitations raynaud holiday heart",
+          "topicCluster": "cardiac-disease-management"
+        },
+        {
+          "slug": "why-your-holiday-energy-crash-may-be-postprandial-hypoglycemia-not-just-fatigue-in-adults-50-59-with-reactive-hypoglycemia-history",
+          "primaryKeyword": "holiday energy crash postprandial hypoglycemia",
+          "topicCluster": "diabetes-management"
+        },
+        {
+          "slug": "why-your-blood-pressure-dips-too-much-after-walking-not-just-normal-recovery-in-adults-74-with-early-cardiac-amyloidosis",
+          "primaryKeyword": "post-walk hypotension in cardiac amyloidosis",
+          "topicCluster": "hypertension-management"
+        },
+        {
+          "slug": "when-to-worry-about-just-one-more-glass-early-qtc-prolongation-signs-after-holiday-wine-consumption-in-women-62-on-ssris",
+          "primaryKeyword": "holiday wine qt prolongation ssri women",
+          "topicCluster": "special-populations"
+        },
+        {
+          "slug": "when-should-you-skip-the-holiday-buffet-entirely-4-clinical-red-flags-that-signal-high-risk-eating-for-adults-76-with-stage-4-ckd",
+          "primaryKeyword": "skip holiday buffet stage 4 ckd seniors",
+          "topicCluster": "special-populations"
+        }
+      ]
+    },
+    {
+      "batch_id": 2,
+      "start_index": 20,
+      "end_index": 39,
+      "count": 20,
+      "articles": [
+        {
+          "slug": "warning-signs-your-normal-blood-pressure-reading-is-actually-masked-hypertension-especially-during-routine-dental-visits-in-adults-62",
+          "primaryKeyword": "masked hypertension during dental procedures",
+          "topicCluster": "hypertension-management"
+        },
+        {
+          "slug": "warning-signs-your-holiday-weight-gain-is-accelerating-diabetic-kidney-hyperfiltration-even-before-egfr-drops",
+          "primaryKeyword": "holiday weight gain diabetic kidney signs",
+          "topicCluster": "renal-health"
+        },
+        {
+          "slug": "type-1-diabetes-holiday-potluck-guide",
+          "primaryKeyword": "type 1 diabetes holiday potluck guide",
+          "topicCluster": "diabetes-management"
+        },
+        {
+          "slug": "taurine-vitamin-b6-atrial-calcium-handling",
+          "primaryKeyword": "taurine vitamin b6 atrial calcium handling",
+          "topicCluster": "nutrition-diet-management"
+        },
+        {
+          "slug": "stabilize-morning-glucose-without-insulin",
+          "primaryKeyword": "stabilize morning glucose without insulin",
+          "topicCluster": "circadian-sleep-health"
+        },
+        {
+          "slug": "quick-fix-for-postprandial-hypotension-seniors",
+          "primaryKeyword": "quick fix for postprandial hypotension seniors",
+          "topicCluster": "hypertension-management"
+        },
+        {
+          "slug": "quercetin-and-hypertensive-retinopathy-microvascular",
+          "primaryKeyword": "quercetin and hypertensive retinopathy microvascular",
+          "topicCluster": "special-populations"
+        },
+        {
+          "slug": "post-dinner-brain-fog-diabetes-65",
+          "primaryKeyword": "post-dinner brain fog diabetes 65+",
+          "topicCluster": "diabetes-management"
+        },
+        {
+          "slug": "natural-cardiac-fibroblast-stabilization-post-mi",
+          "primaryKeyword": "natural cardiac fibroblast stabilization post-mi",
+          "topicCluster": "nutrition-diet-management"
+        },
+        {
+          "slug": "nasal-decongestants-and-pulse-pressure-in-asthma",
+          "primaryKeyword": "nasal decongestants and pulse pressure in asthma",
+          "topicCluster": "lifestyle-interventions"
+        },
+        {
+          "slug": "how-late-night-holiday-movie-marathons-elevate-sympathetic-tone-and-why-that-increases-afib-burden-in-adults-65-with-nocturnal-hypertension",
+          "primaryKeyword": "late-night movies sympathetic tone afib",
+          "topicCluster": "hypertension-management"
+        },
+        {
+          "slug": "how-holiday-stress-hormones-disrupt-overnight-glucose-recovery-in-adults-58-69-with-prediabetes",
+          "primaryKeyword": "holiday stress and overnight glucose recovery",
+          "topicCluster": "diabetes-management"
+        },
+        {
+          "slug": "how-alcohol-metabolism-changes-after-age-55-and-why-that-raises-holiday-heart-syndrome-risk-in-adults-55-69-with-mild-liver-steatosis",
+          "primaryKeyword": "alcohol metabolism age 55 holiday heart",
+          "topicCluster": "special-populations"
+        },
+        {
+          "slug": "healthy-holiday-buffet-glycemic-traps",
+          "primaryKeyword": "healthy holiday buffet glycemic traps",
+          "topicCluster": "glucose-diabetes-management"
+        },
+        {
+          "slug": "gut-kidney-axis-modulation-for-bp-control",
+          "primaryKeyword": "gut-kidney axis modulation for bp control",
+          "topicCluster": "renal-health"
+        },
+        {
+          "slug": "gratitude-walks-post-holiday-dinner",
+          "primaryKeyword": "gratitude walks post-holiday dinner",
+          "topicCluster": "glucose-diabetes-management"
+        },
+        {
+          "slug": "fruitcake-vs-almond-flour-loaf-diabetes",
+          "primaryKeyword": "fruitcake vs almond flour loaf diabetes",
+          "topicCluster": "diabetes-management"
+        },
+        {
+          "slug": "does-intermittent-fasting-during-holidays-actually-lower-hba1c-what-12-week-rct-data-shows-for-adults-54-68-with-hba1c-7-2-8-6",
+          "primaryKeyword": "intermittent fasting holidays HbA1c study",
+          "topicCluster": "glucose-diabetes-management"
+        },
+        {
+          "slug": "coq10-and-ejection-fraction-ischemic-cardiomyopathy",
+          "primaryKeyword": "coq10 and ejection fraction ischemic cardiomyopathy",
+          "topicCluster": "cardiac-disease-management"
+        },
+        {
+          "slug": "blood-pressure-underestimation-in-advanced-ckid",
+          "primaryKeyword": "blood pressure underestimation in advanced ckid",
+          "topicCluster": "hypertension-management"
+        }
+      ]
+    },
+    {
+      "batch_id": 3,
+      "start_index": 40,
+      "end_index": 59,
+      "count": 20,
+      "articles": [
+        {
+          "slug": "best-seated-resistance-band-exercises-with-real-time-bp-feedback-for-adults-80-with-orthostatic-intolerance-and-severe-knee-osteoarthritis",
+          "primaryKeyword": "seated resistance band exercises with bp feedback",
+          "topicCluster": "lifestyle-interventions"
+        },
+        {
+          "slug": "atrial-stabilizing-foods-holiday-heart",
+          "primaryKeyword": "atrial-stabilizing foods holiday heart",
+          "topicCluster": "nutrition-diet-management"
+        },
+        {
+          "slug": "9-simple-steps-to-adjust-your-cpap-humidifier-settings-without-raising-overnight-systolic-pressure-for-adults-67-with-osa-and-nocturnal-hypertension",
+          "primaryKeyword": "cpap humidifier settings and nocturnal bp",
+          "topicCluster": "hypertension-management"
+        },
+        {
+          "slug": "5-things-every-woman-over-65-taking-oral-estradiol-should-know-about-its-effect-on-renin-angiotensin-aldosterone-system-activation-and-systolic-drift",
+          "primaryKeyword": "oral estradiol and systolic blood pressure drift",
+          "topicCluster": "hypertension-management"
+        },
+        {
+          "slug": "10-ways-to-reduce-holiday-glucose-variability-without-changing-what-you-eat-using-chewing-pace-seating-position-and-ambient-sound-cues",
+          "primaryKeyword": "reduce glucose variability without diet change",
+          "topicCluster": "nutrition-diet-management"
+        },
+        {
+          "slug": "what-are-the-earliest-signs-your-holiday-weight-gain-is-actually-fluid-retention-not-fat-in-women-over-65-with-atrial-fibrillation",
+          "primaryKeyword": "holiday weight gain fluid retention afib seniors",
+          "topicCluster": "special-populations"
+        },
+        {
+          "slug": "travel-glucose-monitor-seniors-offline-sync",
+          "primaryKeyword": "travel glucose monitor seniors offline sync",
+          "topicCluster": "special-populations"
+        },
+        {
+          "slug": "the-truth-about-sugar-free-holiday-candy-labeled-for-diabetics-why-87-still-cause-postprandial-endothelial-stiffness-via-polyol-pathway-activation",
+          "primaryKeyword": "sugar-free candy endothelial stiffness",
+          "topicCluster": "diabetes-management"
+        },
+        {
+          "slug": "sunlight-exposure-and-circadian-blood-pressure",
+          "primaryKeyword": "sunlight exposure and circadian blood pressure",
+          "topicCluster": "hypertension-management"
+        },
+        {
+          "slug": "prehypertension-progression-predictors-midlife",
+          "primaryKeyword": "prehypertension progression predictors midlife",
+          "topicCluster": "hypertension-management"
+        },
+        {
+          "slug": "plate-mapping-macular-degeneration-seniors",
+          "primaryKeyword": "plate mapping macular degeneration seniors",
+          "topicCluster": "special-populations"
+        },
+        {
+          "slug": "normal-resting-heart-rate-sinus-node-dysfunction",
+          "primaryKeyword": "normal resting heart rate sinus node dysfunction",
+          "topicCluster": "symptoms-diagnosis"
+        },
+        {
+          "slug": "non-alcoholic-drinks-holiday-heart-syndrome",
+          "primaryKeyword": "non-alcoholic drinks holiday heart syndrome",
+          "topicCluster": "cardiac-disease-management"
+        },
+        {
+          "slug": "nasal-rinse-breath-hold-for-endothelial-function",
+          "primaryKeyword": "nasal rinse breath-hold for endothelial function",
+          "topicCluster": "hypertension-management"
+        },
+        {
+          "slug": "microwave-leakage-and-blood-pressure-variability",
+          "primaryKeyword": "microwave leakage and blood pressure variability",
+          "topicCluster": "hypertension-management"
+        },
+        {
+          "slug": "low-carb-vs-magnesium-holiday-heart-prevention",
+          "primaryKeyword": "low-carb vs magnesium holiday heart prevention",
+          "topicCluster": "cardiovascular-health"
+        },
+        {
+          "slug": "late-night-snacking-hepatic-gluconeogenesis",
+          "primaryKeyword": "late-night snacking hepatic gluconeogenesis",
+          "topicCluster": "metabolic-syndrome-management"
+        },
+        {
+          "slug": "kefir-endotoxemia-diabetes-seniors",
+          "primaryKeyword": "kefir endotoxemia diabetes seniors",
+          "topicCluster": "diabetes-management"
+        },
+        {
+          "slug": "intermittent-socializing-postprandial-glucose",
+          "primaryKeyword": "intermittent socializing postprandial glucose",
+          "topicCluster": "diabetes-management"
+        },
+        {
+          "slug": "how-holiday-family-conflict-elevates-cortisol-driven-hepatic-glucose-output-especially-in-women-57-65-with-perimenopausal-insulin-resistance",
+          "primaryKeyword": "family conflict cortisol glucose output",
+          "topicCluster": "special-populations"
+        }
+      ]
+    },
+    {
+      "batch_id": 4,
+      "start_index": 60,
+      "end_index": 79,
+      "count": 20,
+      "articles": [
+        {
+          "slug": "how-cold-weather-indoor-heating-dries-nasal-mucosa-and-why-that-worsens-postprandial-glucose-spikes-in-adults-70-with-autonomic-neuropathy",
+          "primaryKeyword": "indoor heating nasal glucose spikes",
+          "topicCluster": "gastrointestinal-health"
+        },
+        {
+          "slug": "how-chronic-loneliness-after-retirement-alters-autonomic-tone-and-elevates-nocturnal-systolic-pressure-in-adults-68-with-preserved-ejection-fraction",
+          "primaryKeyword": "loneliness and nocturnal blood pressure in seniors",
+          "topicCluster": "hypertension-management"
+        },
+        {
+          "slug": "hosting-holiday-guests-atrial-protection",
+          "primaryKeyword": "hosting holiday guests atrial protection",
+          "topicCluster": "mental-health-stress"
+        },
+        {
+          "slug": "home-bp-cuff-calibration-in-high-humidity",
+          "primaryKeyword": "home bp cuff calibration in high humidity",
+          "topicCluster": "hypertension-management"
+        },
+        {
+          "slug": "holiday-medication-holiday-myths-facts",
+          "primaryKeyword": "holiday medication holiday myths facts",
+          "topicCluster": "nutrition-diet-management"
+        },
+        {
+          "slug": "holiday-cookie-swap-glucose-management",
+          "primaryKeyword": "holiday cookie swap glucose management",
+          "topicCluster": "diabetes-management"
+        },
+        {
+          "slug": "herbal-teas-and-diastolic-stiffness-in-women",
+          "primaryKeyword": "herbal teas and diastolic stiffness in women",
+          "topicCluster": "hypertension-management"
+        },
+        {
+          "slug": "foods-for-central-bp-and-cognitive-blood-flow",
+          "primaryKeyword": "foods for central bp and cognitive blood flow",
+          "topicCluster": "hypertension-management"
+        },
+        {
+          "slug": "foods-for-aortic-stiffness-without-orthostasis",
+          "primaryKeyword": "foods for aortic stiffness without orthostasis",
+          "topicCluster": "hypertension-management"
+        },
+        {
+          "slug": "cgms-for-seniors-without-smartphones",
+          "primaryKeyword": "cgms for seniors without smartphones",
+          "topicCluster": "glucose-diabetes-management"
+        },
+        {
+          "slug": "ambulatory-arterial-stiffness-index-interpretation",
+          "primaryKeyword": "ambulatory arterial stiffness index interpretation",
+          "topicCluster": "hypertension-management"
+        },
+        {
+          "slug": "9-foods-that-support-pancreatic-beta-cell-resilience-during-high-carb-holidays-based-on-human-islet-transcriptomics-and-nrf2-activation-studies",
+          "primaryKeyword": "beta-cell resilience holiday foods",
+          "topicCluster": "nutrition-diet-management"
+        },
+        {
+          "slug": "7-hidden-ways-your-hearing-aid-s-bluetooth-streaming-affects-baroreceptor-sensitivity-especially-during-morning-blood-pressure-spikes-in-adults-73",
+          "primaryKeyword": "hearing aids and morning blood pressure spikes",
+          "topicCluster": "hypertension-management"
+        },
+        {
+          "slug": "7-hidden-electrolyte-shifts-that-happen-during-holiday-cooking-and-how-they-trigger-atrial-fibrillation-in-adults-60-with-mild-hypokalemia",
+          "primaryKeyword": "holiday cooking electrolyte shifts atrial fibrillation",
+          "topicCluster": "cardiac-disease-management"
+        },
+        {
+          "slug": "5-things-your-endocrinologist-won-t-tell-you-about-holiday-alcohol-choices-especially-if-you-re-on-glp-1-agonists",
+          "primaryKeyword": "alcohol and GLP-1 agonists holiday",
+          "topicCluster": "diabetes-management"
+        },
+        {
+          "slug": "whole-grain-cereal-endothelial-dysfunction",
+          "primaryKeyword": "whole grain cereal endothelial dysfunction",
+          "topicCluster": "special-populations"
+        },
+        {
+          "slug": "what-are-the-earliest-signs-of-right-sided-heart-failure-in-adults-64-with-untreated-sleep-apnea-before-jugular-venous-distention-appears",
+          "primaryKeyword": "early right-sided heart failure signs sleep apnea",
+          "topicCluster": "cardiac-disease-management"
+        },
+        {
+          "slug": "weekly-hiit-once-sarcopenia-diabetes",
+          "primaryKeyword": "weekly-hiit once sarcopenia diabetes",
+          "topicCluster": "diabetes-management"
+        },
+        {
+          "slug": "warning-signs-your-holiday-energy-crash-is-actually-orthostatic-hypotension-not-just-overeating-in-adults-76-with-age-related-baroreflex-blunting",
+          "primaryKeyword": "holiday energy crash orthostatic hypotension",
+          "topicCluster": "nutrition-diet-management"
+        },
+        {
+          "slug": "turkey-preparation-postprandial-systolic-pressure",
+          "primaryKeyword": "turkey preparation postprandial systolic pressure",
+          "topicCluster": "hypertension-management"
+        }
+      ]
+    },
+    {
+      "batch_id": 5,
+      "start_index": 80,
+      "end_index": 99,
+      "count": 20,
+      "articles": [
+        {
+          "slug": "the-truth-about-senior-friendly-holiday-meal-kits-why-92-fail-to-meet-ada-recommended-sodium-fiber-targets-for-hypertensive-adults-75",
+          "primaryKeyword": "senior-friendly meal kits sodium fiber analysis",
+          "topicCluster": "special-populations"
+        },
+        {
+          "slug": "the-truth-about-low-sodium-frozen-dinners-marketed-to-seniors-why-78-still-exceed-ada-sodium-targets-for-stage-1-hypertension",
+          "primaryKeyword": "low-sodium frozen dinner sodium trap",
+          "topicCluster": "hypertension-management"
+        },
+        {
+          "slug": "tai-chi-vs-walking-for-hfpef-seniors",
+          "primaryKeyword": "tai chi vs walking for HFpEF seniors",
+          "topicCluster": "cardiac-disease-management"
+        },
+        {
+          "slug": "statin-side-effects-heart-health-seniors",
+          "primaryKeyword": "statin side effects heart health seniors",
+          "topicCluster": "cardiovascular-health"
+        },
+        {
+          "slug": "simple-steps-to-modify-grandma-s-pie-recipe-for-diabetic-retinopathy-risk-reduction-without-sacrificing-flavor-or-texture",
+          "primaryKeyword": "grandma pie recipe diabetic retinopathy",
+          "topicCluster": "diabetes-management"
+        },
+        {
+          "slug": "seniors-living-alone-holiday-party-preparedness",
+          "primaryKeyword": "seniors living alone holiday party preparedness",
+          "topicCluster": "nutrition-diet-management"
+        },
+        {
+          "slug": "preserve-muscle-mass-holiday-meals",
+          "primaryKeyword": "preserve muscle mass holiday meals",
+          "topicCluster": "nutrition-diet-management"
+        },
+        {
+          "slug": "natural-support-for-coronary-microvascular-disease",
+          "primaryKeyword": "natural support for coronary microvascular disease",
+          "topicCluster": "natural-remedies"
+        },
+        {
+          "slug": "low-dose-lithium-beta-cell-function",
+          "primaryKeyword": "diabetes management seniors",
+          "topicCluster": "diabetes-management"
+        },
+        {
+          "slug": "intermittent-fasting-before-cardiac-catheterization",
+          "primaryKeyword": "intermittent fasting before cardiac catheterization",
+          "topicCluster": "renal-health"
+        },
+        {
+          "slug": "how-seasonal-air-pollution-peaks-alter-st-segment-variability-and-why-that-increases-acute-coronary-syndrome-risk-in-adults-59-with-stable-angina",
+          "primaryKeyword": "air pollution and angina stability seasonal",
+          "topicCluster": "environmental-factors"
+        },
+        {
+          "slug": "how-chronic-constipation-elevates-24-hour-mean-arterial-pressure-via-gut-derived-trimethylamine-n-oxide-especially-in-adults-70-with-low-fiber-diets",
+          "primaryKeyword": "constipation tmao mean arterial pressure",
+          "topicCluster": "nutrition-diet-management"
+        },
+        {
+          "slug": "home-ecg-patch-interpretation-for-seniors",
+          "primaryKeyword": "home ecg patch interpretation for seniors",
+          "topicCluster": "monitoring-technology"
+        },
+        {
+          "slug": "home-bp-cuff-with-ecg-for-afib-seniors",
+          "primaryKeyword": "home bp cuff with ecg for afib seniors",
+          "topicCluster": "hypertension-management"
+        },
+        {
+          "slug": "hidden-sodium-holiday-side-dishes",
+          "primaryKeyword": "hidden sodium holiday side dishes",
+          "topicCluster": "hypertension-management"
+        },
+        {
+          "slug": "heavy-legs-sitting-heart-strain-seniors",
+          "primaryKeyword": "heavy legs sitting heart strain seniors",
+          "topicCluster": "lifestyle-interventions"
+        },
+        {
+          "slug": "heart-healthy-granola-bars-truth-for-seniors",
+          "primaryKeyword": "heart-healthy granola bars truth for seniors",
+          "topicCluster": "hypertension-management"
+        },
+        {
+          "slug": "cold-face-immersion-baroreflex-seniors",
+          "primaryKeyword": "cold face immersion baroreflex seniors",
+          "topicCluster": "hypertension-management"
+        },
+        {
+          "slug": "aromatase-inhibitors-diabetes-interaction-seniors",
+          "primaryKeyword": "aromatase-inhibitors diabetes interaction seniors",
+          "topicCluster": "special-populations"
+        },
+        {
+          "slug": "ankle-circles-vs-calf-squeezes-pulse-pressure",
+          "primaryKeyword": "ankle circles vs calf squeezes pulse pressure",
+          "topicCluster": "hypertension-management"
+        }
+      ]
+    }
+  ]
+}

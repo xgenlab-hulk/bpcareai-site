@@ -71,22 +71,22 @@ Holiday travel doesn’t have to mean compromising your diabetes care. With thou
 
 ### FAQ
 
-#### #### What’s the best portable glucose monitor for holiday travel in cold climates?
+#### What’s the best portable glucose monitor for holiday travel in cold climates?
 
 The best portable glucose monitor for holiday travel in cold climates balances wide operating temperature range (ideally –5°C to 45°C), lithium battery stability, and TSA-compliant size. Devices with active temperature compensation—where firmware adjusts readings based on real-time sensor temperature—are increasingly available in 2024 models. Always verify cold-weather validation data in the manufacturer’s clinical reports, not just marketing materials.
 
-#### #### Are CGMs or traditional blood glucose meters more reliable for holiday travel?
+#### Are CGMs or traditional blood glucose meters more reliable for holiday travel?
 
 For most adults over 50 traveling in winter, a hybrid approach works best: use a CGM for trend awareness and overnight safety, but confirm critical decisions (e.g., correcting high glucose or treating lows) with a BGM using temperature-stable strips. Some newer BGMs now include built-in temperature sensors that auto-adjust results—making them more trustworthy than older models in variable conditions.
 
-#### #### Can I pack my glucose monitor in checked luggage?
+#### Can I pack my glucose monitor in checked luggage?
 
 While TSA permits it, manufacturers strongly advise against packing CGM sensors, transmitters, or test strips in checked luggage due to extreme cold exposure (as low as –30°C) and pressure changes. Batteries may leak, sensors may delaminate, and calibration can drift. Always carry all active and backup devices—and at least a 7-day supply of supplies—in your carry-on.
 
-#### #### How do I keep my glucose monitor accurate on a long flight?
+#### How do I keep my glucose monitor accurate on a long flight?
 
 Pre-warm your device in your lap or inner pocket before takeoff. Avoid placing it near chilled air vents or windows. If using a CGM, enable airplane mode *only* on the receiver (not the transmitter)—most modern transmitters continue sensing even without Bluetooth. Test your BGM upon landing, after your hands have warmed up, and compare with your CGM reading to spot discrepancies early.
 
-#### #### Do portable glucose monitors need recalibration during holiday travel?
+#### Do portable glucose monitors need recalibration during holiday travel?
 
 Most FDA-cleared CGMs sold in 2024 are factory-calibrated and do not require user recalibration. However, temperature swings and dehydration can temporarily shift interstitial fluid dynamics, causing brief lag (up to 10–15 minutes) between CGM and blood glucose. That’s why confirmatory fingersticks remain essential during illness, rapid glucose changes, or when readings conflict with symptoms.

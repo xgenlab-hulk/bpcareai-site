@@ -42,17 +42,17 @@ Heart health at this stage is less about intensity and more about consistency, r
 
 ### FAQ
 
-#### #### Can urolithin A really support mitochondrial biogenesis in people with diabetic cardiomyopathy?
+#### Can urolithin A really support mitochondrial biogenesis in people with diabetic cardiomyopathy?
 Yes—clinical trials (including the 2022 MITO-AGE study) observed improved mitochondrial gene expression and enhanced mitophagy in older adults with type 2 diabetes who supplemented with urolithin A for 12 weeks. While not a cure, it appears to support the heart’s natural renewal processes—particularly when combined with lifestyle anchors like time-restricted feeding.
 
-#### #### How does urolithin a mitochondrial biogenesis help with heart disease symptoms?
+#### How does urolithin a mitochondrial biogenesis help with heart disease symptoms?
 By improving energy production in cardiomyocytes, urolithin A may contribute to better heart muscle coordination—seen in improved global longitudinal strain—and greater exercise tolerance, as reflected in 6MWT gains. It doesn’t replace standard heart disease care, but it complements it by targeting underlying cellular vitality.
 
-#### #### Is time-restricted feeding safe for adults over 65 with diabetic cardiomyopathy?
+#### Is time-restricted feeding safe for adults over 65 with diabetic cardiomyopathy?
 For most, yes—especially when guided by a clinician. A 10-hour window (e.g., 7 a.m.–5 p.m.) is often well-tolerated and avoids overnight hypoglycemia risk. Avoid extreme fasting (<6 hours) or skipping breakfast if you use insulin or sulfonylureas.
 
-#### #### Do I need a supplement to get urolithin A—or can food alone help?
+#### Do I need a supplement to get urolithin A—or can food alone help?
 Some people produce urolithin A efficiently from pomegranate, walnuts, or berries; others don’t, due to differences in gut bacteria. If you enjoy these foods regularly, that’s a wonderful foundation. Supplements provide consistent dosing and may be helpful if your care team identifies low microbial conversion capacity.
 
-#### #### What’s the link between urolithin a mitochondrial biogenesis diabetic cardiomyopathy and blood pressure?
+#### What’s the link between urolithin a mitochondrial biogenesis diabetic cardiomyopathy and blood pressure?
 While urolithin A doesn’t directly lower BP, improved mitochondrial function in vascular smooth muscle and cardiomyocytes supports healthier endothelial function and arterial elasticity—indirectly helping maintain balanced arterial pressure over time.

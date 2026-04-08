@@ -112,17 +112,17 @@ Experiencing a holiday energy crash postprandial hypoglycemia doesn’t mean you
 
 ### FAQ
 
-#### #### What is holiday energy crash postprandial hypoglycemia—and how is it different from regular tiredness?
+#### What is holiday energy crash postprandial hypoglycemia—and how is it different from regular tiredness?
 Holiday energy crash postprandial hypoglycemia refers to symptomatic low blood glucose occurring 1–3 hours after eating festive, carb-rich meals—common in adults 50–59 with reactive hypoglycemia or early insulin dysregulation. Unlike general fatigue, it features neurogenic (shaking, sweating) *and* neuroglycopenic (brain fog, irritability) symptoms that improve rapidly with sugar—and follow a reproducible timing pattern.
 
-#### #### Can holiday energy crash postprandial hypoglycemia happen even if my A1c is normal?
+#### Can holiday energy crash postprandial hypoglycemia happen even if my A1c is normal?
 Yes. A1c reflects *average* glucose over ~3 months and may remain normal (e.g., 5.4%) even with significant postprandial spikes and crashes. Reactive hypoglycemia often occurs in people with normal fasting glucose and A1c—but abnormal 2-hour oral glucose tolerance test (OGTT) curves or symptomatic dips after meals.
 
-#### #### Is postprandial hypoglycemia the same as reactive hypoglycemia?
+#### Is postprandial hypoglycemia the same as reactive hypoglycemia?
 Essentially, yes—in clinical practice, “reactive hypoglycemia” is the historical term for *symptomatic postprandial hypoglycemia* in people without diabetes medications or critical illness. The American Diabetes Association now prefers “postprandial hypoglycemia” to emphasize mechanism over label—but both refer to glucose drops triggered by food-induced insulin responses.
 
-#### #### How soon after eating do symptoms of postprandial hypoglycemia usually appear?
+#### How soon after eating do symptoms of postprandial hypoglycemia usually appear?
 Most commonly between 60 and 180 minutes after starting a meal—peaking around 90–120 minutes. Earlier onset (<30 min) may suggest dumping syndrome (especially after gastric surgery); later onset (>4 hours) is more consistent with fasting physiology.
 
-#### #### Does drinking alcohol during holidays worsen holiday energy crash postprandial hypoglycemia?
+#### Does drinking alcohol during holidays worsen holiday energy crash postprandial hypoglycemia?
 Yes—alcohol impairs the liver’s ability to release glucose via gluconeogenesis, especially when consumed on an empty stomach or with high-carb foods. Even moderate intake (1–2 drinks) can double the risk of symptomatic postprandial dips in susceptible adults aged 50–59.

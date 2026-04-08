@@ -67,7 +67,7 @@ export default function Header() {
               href="https://apps.apple.com/us/app/bpcare-ai-heart-rate-monitor/id6748299186"
               target="_blank"
               rel="noopener noreferrer"
-              className="bg-gradient-to-r from-brand-blue to-brand-purple text-white text-sm px-5 py-2.5 rounded-full font-semibold hover:shadow-lg transition-all duration-200"
+              className="bg-gray-900 text-white text-sm px-5 py-2.5 rounded-full font-semibold hover:bg-gray-800 hover:shadow-lg transition-all duration-200"
             >
               Download App
             </a>

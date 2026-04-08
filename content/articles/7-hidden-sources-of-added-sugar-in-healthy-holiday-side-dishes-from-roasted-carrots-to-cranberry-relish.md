@@ -50,17 +50,17 @@ If you're unsure, talking to your doctor is always a good idea—especially when
 
 ### FAQ
 
-#### #### Are mashed sweet potatoes a hidden sugar holiday side dish?  
+#### Are mashed sweet potatoes a hidden sugar holiday side dish?  
 Yes—many recipes call for brown sugar, marshmallows, or maple syrup, adding 12–18 g of added sugar per cup. Opt for plain roasted or mashed sweet potatoes seasoned with cinnamon and a small amount of plain Greek yogurt for creaminess.
 
-#### #### What are the top 3 hidden sugar holiday side dishes I should watch for?  
+#### What are the top 3 hidden sugar holiday side dishes I should watch for?  
 The most frequent culprits are: (1) cranberry relish or sauce (often 15–22 g added sugar per ½ cup), (2) candied yams or sweet potato casserole (18–25 g per serving), and (3) glazed roasted root vegetables (carrots, parsnips, beets) with sweeteners like honey or agave (8–14 g per serving).
 
-#### #### Can hidden sugar holiday side dishes affect my blood pressure?  
+#### Can hidden sugar holiday side dishes affect my blood pressure?  
 Indirectly, yes. Chronically elevated blood sugar contributes to endothelial dysfunction, arterial stiffness, and inflammation—all linked to higher systolic and diastolic pressures over time. Reducing added sugar supports both glycemic and BP stability.
 
-#### #### Is “no added sugar” on the label the same as low glycemic?  
+#### Is “no added sugar” on the label the same as low glycemic?  
 Not necessarily. A dish may contain naturally occurring sugars (e.g., from dried fruit or fruit juice) that still raise blood glucose quickly. Always check total carbs and fiber content—and when possible, review the full ingredient list.
 
-#### #### How much added sugar is safe for someone over 60 managing blood sugar during Christmas and New Year?  
+#### How much added sugar is safe for someone over 60 managing blood sugar during Christmas and New Year?  
 The American Heart Association recommends no more than 25 g (6 tsp) of added sugar per day for women and 36 g (9 tsp) for men—and many experts suggest aiming lower (15–20 g/day) for adults 60+ with metabolic concerns.

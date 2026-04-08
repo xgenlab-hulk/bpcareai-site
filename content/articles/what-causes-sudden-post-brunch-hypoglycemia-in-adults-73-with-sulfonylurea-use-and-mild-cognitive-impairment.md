@@ -63,17 +63,17 @@ Holiday meals should be joyful, not stressful. With a little planning and awaren
 
 ### FAQ  
 
-#### #### What are the most common signs of sulfonylurea hypoglycemia during holiday brunch in older adults?  
+#### What are the most common signs of sulfonylurea hypoglycemia during holiday brunch in older adults?  
 Early signs are often subtle: sudden fatigue, mild confusion, irritability, or difficulty concentrating—especially 2–3 hours after eating. Because mild cognitive impairment can mask typical symptoms (like sweating or hunger), watch for behavioral shifts instead of physical ones.
 
-#### #### How can I prevent sulfonylurea hypoglycemia holiday brunch elderly episodes at family gatherings?  
+#### How can I prevent sulfonylurea hypoglycemia holiday brunch elderly episodes at family gatherings?  
 Coordinate with the person’s doctor *before* the holidays to review dosing timing and consider a temporary reduction for high-risk days. Serve balanced meals with protein/fiber, avoid alcohol, and use clear, visual medication cues. Assign one trusted person to gently check in every 45 minutes during the meal.
 
-#### #### Is it safe to skip a sulfonylurea dose before holiday brunch?  
+#### Is it safe to skip a sulfonylurea dose before holiday brunch?  
 Only under guidance from the prescribing clinician. Skipping without adjustment can cause rebound hyperglycemia—but taking it too early or without enough food raises hypoglycemia risk. Never adjust alone; a brief call to the doctor’s office ahead of time can clarify safe timing.
 
-#### #### Why does alcohol make sulfonylurea hypoglycemia worse during brunch?  
+#### Why does alcohol make sulfonylurea hypoglycemia worse during brunch?  
 Alcohol inhibits gluconeogenesis—the liver’s ability to make new glucose—especially when fasting or between meals. Combined with sulfonylurea-induced insulin release, this double effect significantly increases the chance of delayed, asymptomatic lows.
 
-#### #### Can mild cognitive impairment increase the risk of sulfonylurea-related low blood sugar?  
+#### Can mild cognitive impairment increase the risk of sulfonylurea-related low blood sugar?  
 Yes—studies show adults with mild cognitive impairment are 2.3× more likely to experience unrecognized hypoglycemia. Memory challenges affect medication adherence, meal recognition, and symptom reporting, making caregiver support essential.

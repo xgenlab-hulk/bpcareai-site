@@ -99,17 +99,17 @@ If you're unsure, talking to your doctor is always a good idea. And if the phras
 
 ### FAQ
 
-#### #### Are sweet potatoes and yams the same thing on a CKD diet?
+#### Are sweet potatoes and yams the same thing on a CKD diet?
 No—they’re botanically different plants with distinct nutrient profiles. Most “yams” sold in U.S. supermarkets are actually orange-fleshed sweet potatoes. True yams (like white or purple *Dioscorea*) are lower in potassium and oxalate, making them a slightly gentler choice for early-stage CKD—especially when comparing *sweet potato vs yam ckddiet* options.
 
-#### #### Which is better for blood sugar control: sweet potato or yam for someone with CKD and prediabetes?
+#### Which is better for blood sugar control: sweet potato or yam for someone with CKD and prediabetes?
 Based on 2024 NKF-Nutrition Task Force data, true yams cause smaller and slower postprandial glucose rises than sweet potatoes—making them the preferred choice for adults with early-stage CKD *and* prediabetes. However, portion size and preparation (e.g., boiling vs. roasting) influence outcomes more than the vegetable alone.
 
-#### #### Can I eat sweet potatoes if I have stage 2 CKD?
+#### Can I eat sweet potatoes if I have stage 2 CKD?
 Yes—moderately. Stick to a ⅓-cup (50 g) portion of boiled or steamed sweet potato, avoid added sugars like maple syrup, and pair it with lean protein. Monitoring your post-meal glucose and potassium levels helps personalize what works best for *your* body in the context of *sweet potato vs yam ckddiet* planning.
 
-#### #### Does cinnamon lower potassium in yams or sweet potatoes?
+#### Does cinnamon lower potassium in yams or sweet potatoes?
 No—cinnamon doesn’t reduce potassium content. But it may improve insulin sensitivity, helping your body manage glucose more smoothly after eating. It’s a safe, flavorful addition for most people with CKD—just choose unsweetened, pure ground cinnamon (not pre-mixed “cinnamon sugar” blends).
 
-#### #### How do I tell if a recipe uses real yam or just labeled “yam”?
+#### How do I tell if a recipe uses real yam or just labeled “yam”?
 Check the ingredient list or ask your grocer. True yams have rough, bark-like brown skin and white, purple, or reddish flesh. They’re denser and drier when cooked. If the label says “soft,” “moist,” or “orange-fleshed,” it’s almost certainly a sweet potato—even if it says “yam” on the bag.

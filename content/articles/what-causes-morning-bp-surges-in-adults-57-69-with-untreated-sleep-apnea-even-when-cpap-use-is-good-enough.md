@@ -79,17 +79,17 @@ Morning BP surges in adults with long-standing or incompletely treated sleep apn
 
 ### FAQ
 
-#### #### What does “morning bp surge residual sleep apnea” mean in simple terms?  
+#### What does “morning bp surge residual sleep apnea” mean in simple terms?  
 It means your blood pressure rises sharply each morning *even though* you’re using CPAP regularly. The “residual” part points to ongoing, subtle breathing disruptions—like partial airway narrowing or frequent micro-wakings—that aren’t fully controlled by current therapy, yet still activate your stress response and raise BP.
 
-#### #### Can morning bp surge residual sleep apnea happen even with a low AHI (e.g., under 5)?  
+#### Can morning bp surge residual sleep apnea happen even with a low AHI (e.g., under 5)?  
 Yes—absolutely. An AHI <5 indicates few full apneas/hypopneas, but doesn’t rule out upper airway resistance, swallowing-related events, or microarousals. These can still trigger sympathetic surges and morning BP elevation. In fact, up to 40% of adults with AHI <5 and persistent hypertension show evidence of *morning bp surge residual sleep apnea*.
 
-#### #### How is morning bp surge residual sleep apnea different from normal circadian BP variation?  
+#### How is morning bp surge residual sleep apnea different from normal circadian BP variation?  
 Normal circadian rise is gradual—about 10–15 mm Hg systolic over 2–3 hours. A pathological *morning bp surge residual sleep apnea* pattern involves a rapid, steep rise (>20 mm Hg systolic within 60 min) that peaks earlier (often 6–7 a.m.) and correlates with nocturnal autonomic spikes—not just wakefulness.
 
-#### #### Does sleeping position affect morning bp surge residual sleep apnea?  
+#### Does sleeping position affect morning bp surge residual sleep apnea?  
 Yes. Supine (back) sleeping increases pharyngeal collapse and UAR, especially in REM—raising the likelihood of microarousals and norepinephrine surges. Lateral (side) sleeping reduces this risk by ~50% in adults 57–69, particularly when combined with optimized CPAP pressure.
 
-#### #### Are there non-CPAP options if I still get morning BP surges despite good CPAP use?  
+#### Are there non-CPAP options if I still get morning BP surges despite good CPAP use?  
 Yes—options include mandibular advancement devices (for mild-moderate OSA), positional therapy (vibrating vests or tennis-ball shirts), and targeted upper airway muscle training. In select cases, hypoglossal nerve stimulation or surgical evaluation (e.g., expansion sphincter pharyngoplasty) may be considered—but only after thorough reassessment of residual physiology, including PTT and esophageal pressure data.

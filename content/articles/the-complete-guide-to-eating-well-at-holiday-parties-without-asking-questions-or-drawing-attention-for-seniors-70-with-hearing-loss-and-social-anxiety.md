@@ -81,22 +81,22 @@ Holiday joy isn’t measured in how much you eat, how long you stay, or how effo
 
 ### FAQ
 
-#### #### How can I eat well at holiday parties with hearing loss without drawing attention?
+#### How can I eat well at holiday parties with hearing loss without drawing attention?
 
 You absolutely can—and it starts with simple visual strategies: scanning the buffet for colorful, whole-food options; using a smaller plate; and pausing before each bite to tune into fullness cues. No announcements needed. Your calm presence speaks volumes.
 
-#### #### What are some low-effort ways for seniors with hearing loss to enjoy holiday meals safely?
+#### What are some low-effort ways for seniors with hearing loss to enjoy holiday meals safely?
 
 Focus on predictability and pacing: eat a light, protein-rich snack beforehand; sit in a quieter corner with good lighting (helps with lip-reading and reduces auditory fatigue); and prioritize foods that support stable blood pressure—like potassium-rich sweet potatoes, magnesium-rich spinach, and unsalted nuts. Hydration is key—sip water consistently, not just when thirsty.
 
-#### #### Is healthy holiday eating for seniors different if you have hearing loss or anxiety?
+#### Is healthy holiday eating for seniors different if you have hearing loss or anxiety?
 
 Yes—but not in ways that require extra work. In fact, many “healthy holiday eating for seniors” principles—like mindful pacing, visual meal planning, and honoring energy limits—align beautifully with the needs of those managing hearing loss or social anxiety. It’s less about doing *more*, and more about trusting your instincts and designing moments that feel steady and sustaining.
 
-#### #### Can eating well at holiday parties hearing loss help manage blood pressure?
+#### Can eating well at holiday parties hearing loss help manage blood pressure?
 
 Absolutely. Research shows that reducing sodium intake by just 1,000 mg per day (about ½ tsp of salt) can lower systolic BP by 5–6 mm Hg in adults over 60. Pair that with consistent hydration, mindful eating, and reduced social stress—and you’re supporting your cardiovascular health in deeply practical, everyday ways.
 
-#### #### What should I do if I feel overwhelmed at a holiday gathering?
+#### What should I do if I feel overwhelmed at a holiday gathering?
 
 Pause. Step outside for 60 seconds of fresh air—even if it’s just the porch. Breathe in slowly through your nose for four counts, hold for four, exhale for six. Then re-enter with one gentle goal: *“I’ll sip water and smile at one person.”* That’s enough. That’s more than enough.

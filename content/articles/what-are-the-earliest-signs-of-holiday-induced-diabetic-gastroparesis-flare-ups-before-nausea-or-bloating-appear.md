@@ -90,17 +90,17 @@ The holidays don’t have to mean guessing—or gritting your teeth through disc
 
 ### FAQ  
 
-#### #### What are the earliest signs of gastroparesis before nausea starts—especially during holidays?  
+#### What are the earliest signs of gastroparesis before nausea starts—especially during holidays?  
 The very first clues often include subtle changes like delayed salivary amylase response (feeling unusually dry-mouthed *while* eating), abnormal motilin spikes seen on specialized breath testing, and flattened heart rate variability after meals—sometimes appearing 1–2 days before classic GI symptoms. These reflect early autonomic and hormonal shifts—not yet visible on standard imaging.
 
-#### #### Can early gastroparesis flare holiday symptoms happen even if my blood sugar is stable?  
+#### Can early gastroparesis flare holiday symptoms happen even if my blood sugar is stable?  
 Yes. Because gastroparesis stems from nerve damage (often from long-standing diabetes), motility disruptions can occur independently of glucose levels. You might see early flare signs even with A1c <7.0%—especially during holiday stress, rich meals, or disrupted sleep.
 
-#### #### How do I tell early gastroparesis flare holiday symptoms apart from normal holiday indigestion?  
+#### How do I tell early gastroparesis flare holiday symptoms apart from normal holiday indigestion?  
 Normal indigestion tends to be situational (“I ate too much pie”) and resolves within hours. Early gastroparesis flares follow a *pattern*: recurring dry mouth *during* meals, consistent post-meal fatigue (not just fullness), and blood sugar fluctuations *hours* after eating—even with modest portions. Timing and repetition matter more than intensity.
 
-#### #### Is heart rate variability really useful for spotting early gastroparesis?  
+#### Is heart rate variability really useful for spotting early gastroparesis?  
 Yes—studies link reduced HRV to vagal neuropathy, a key driver of gastroparesis. A flattened HRV response after meals reflects diminished parasympathetic “digestive drive.” While not diagnostic alone, it’s a practical, accessible clue—especially when paired with other observations.
 
-#### #### Can early gastroparesis flare holiday symptoms improve with lifestyle changes?  
+#### Can early gastroparesis flare holiday symptoms improve with lifestyle changes?  
 Absolutely. Research shows that consistent meal timing, mindful chewing, gentle movement after eating (like a 5-minute walk), and stress-reduction practices (e.g., paced breathing) can improve gastric motility signaling—even in early stages. It’s not about fixing everything overnight, but supporting your body’s natural rhythms, one small step at a time.

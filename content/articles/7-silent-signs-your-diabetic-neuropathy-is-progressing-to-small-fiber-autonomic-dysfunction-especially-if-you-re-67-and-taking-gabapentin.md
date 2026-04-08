@@ -65,17 +65,17 @@ While autonomic changes can feel unsettling, many are manageable with timely int
 
 ### FAQ
 
-#### #### What are the earliest silent signs autonomic neuropathy older adults should watch for?
+#### What are the earliest silent signs autonomic neuropathy older adults should watch for?
 The earliest indicators are often non-painful and functional: unexplained constipation or early satiety (gastroparesis), abnormal sweating patterns (e.g., facial-only sweating upon standing), delayed pupillary response, or dizziness that improves when sitting—but no chest pain or headache. These reflect small-fiber autonomic involvement before major organ systems are compromised.
 
-#### #### Can silent signs autonomic neuropathy older adults be reversed?
+#### Can silent signs autonomic neuropathy older adults be reversed?
 Complete reversal is uncommon once structural nerve damage occurs, but progression can often be slowed significantly with optimized glucose control (A1C <7.5% for most adults 65+), blood pressure management, and lifestyle support. Some symptoms—like gastroparesis or orthostatic intolerance—respond well to targeted interventions.
 
-#### #### Is orthostatic hypotension always a sign of silent signs autonomic neuropathy older adults?
+#### Is orthostatic hypotension always a sign of silent signs autonomic neuropathy older adults?
 Not always—but in someone with long-standing diabetes, it’s a strong clue. Orthostatic hypotension has many causes (dehydration, medications, Parkinson’s), yet in older adults with diabetes, it’s among the most common *silent signs autonomic neuropathy older adults* experience—and warrants formal autonomic screening.
 
-#### #### Does gabapentin worsen autonomic neuropathy?
+#### Does gabapentin worsen autonomic neuropathy?
 No—gabapentin does not cause or accelerate autonomic nerve damage. However, because it treats painful peripheral neuropathy, its long-term use often coincides with advanced neuropathy, increasing the likelihood that autonomic involvement is already present but undetected.
 
-#### #### How often should older adults with diabetes be screened for autonomic neuropathy?
+#### How often should older adults with diabetes be screened for autonomic neuropathy?
 Current guidelines (ADA, AAN) recommend *symptom-based* screening annually starting 5 years after type 2 diabetes diagnosis—or at age 60, whichever comes first. Formal testing isn’t needed for everyone, but discussing subtle changes with your clinician during routine visits is essential.

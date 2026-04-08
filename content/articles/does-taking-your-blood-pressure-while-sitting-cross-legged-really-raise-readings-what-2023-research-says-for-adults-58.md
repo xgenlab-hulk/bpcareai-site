@@ -90,22 +90,22 @@ Blood pressure is a dynamic, responsive number — influenced by everything from
 
 ### FAQ
 
-#### #### Does crossing your legs really raise blood pressure — or is that just an old wives’ tale?
+#### Does crossing your legs really raise blood pressure — or is that just an old wives’ tale?
 
 No, it’s not folklore. Multiple 2023 studies using validated oscillometric and Doppler methods confirmed that crossing your legs at the knee can raise systolic blood pressure by 5–15 mm Hg in adults over 58 — primarily due to femoral artery compression and venous pooling. It’s a real, measurable effect — not just perception.
 
-#### #### Is cross-legged blood pressure measurement safe for people with high blood pressure?
+#### Is cross-legged blood pressure measurement safe for people with high blood pressure?
 
 It’s *safe*, but not *accurate*. While sitting cross-legged won’t harm you, relying on those numbers for treatment decisions could lead to overestimation of risk. For anyone managing hypertension, standardized positioning is strongly recommended — especially before adjusting medications.
 
-#### #### Can cross-legged blood pressure measurement cause false diagnosis of hypertension?
+#### Can cross-legged blood pressure measurement cause false diagnosis of hypertension?
 
 Yes — potentially. A single elevated reading from poor positioning could trigger unnecessary concern or testing. That’s why guidelines now emphasize taking at least two properly performed readings, spaced 1–2 minutes apart, with feet flat and back supported — particularly for adults 58+.
 
-#### #### Should I avoid crossing my legs altogether if I have high blood pressure?
+#### Should I avoid crossing my legs altogether if I have high blood pressure?
 
 Not necessarily — daily sitting posture doesn’t impact long-term cardiovascular risk. But for *measurement moments*, yes: uncross before checking BP. Outside of readings, leg crossing is fine unless it causes numbness, swelling, or discomfort — which would signal a different issue worth discussing with your provider.
 
-#### #### How long should I sit still before taking my blood pressure?
+#### How long should I sit still before taking my blood pressure?
 
 At least 5 minutes — and longer if you’ve just walked upstairs, eaten, or felt stressed. The 2023 AHA/ESH guidelines specifically advise 5 minutes of quiet seated rest *with feet flat and legs uncrossed* before cuff inflation. Rushing this step is one of the most common sources of error in home monitoring.

@@ -78,22 +78,22 @@ Enjoying holiday turkey doesn’t mean choosing between tradition and wellness. 
 
 ### FAQ
 
-#### #### Can reheating turkey in the microwave really reduce heterocyclic amines for someone with Barrett’s esophagus?
+#### Can reheating turkey in the microwave really reduce heterocyclic amines for someone with Barrett’s esophagus?
 
 Yes. Microwaving uses lower peak surface temperatures and retains moisture far better than oven or stovetop reheating. A controlled trial found microwave-reheated turkey had up to 65% less PhIP (a common HCA) than oven-reheated samples—making it one of the safest options for adults with Barrett’s esophagus concerned about *reheat turkey heterocyclic amines barrett*.
 
-#### #### What’s the safest temperature to reheat turkey to avoid both bacteria and heterocyclic amines?
+#### What’s the safest temperature to reheat turkey to avoid both bacteria and heterocyclic amines?
 
 Aim for an internal temperature of **74°C (165°F)**—this kills pathogens while staying well below the 140°C threshold where HCA formation accelerates. Use a food thermometer, and avoid overheating or drying out the meat. This balance is central to reducing *reheat turkey heterocyclic amines barrett* risk.
 
-#### #### Does marinating turkey before reheating help lower heterocyclic amines?
+#### Does marinating turkey before reheating help lower heterocyclic amines?
 
 Yes—especially with antioxidant-rich marinades. Rosemary, thyme, garlic, olive oil, lemon juice, and green tea extract all contain compounds (e.g., rosmarinic acid, allicin, EGCG) shown in laboratory models to suppress HCA formation by 30–70%. Marinate cold, cooked turkey for 15–30 minutes before gentle reheating—not before initial cooking, as that step is complete.
 
-#### #### Are there specific foods I should eat with reheated turkey to protect my esophagus?
+#### Are there specific foods I should eat with reheated turkey to protect my esophagus?
 
 Absolutely. Pair reheated turkey with foods that support mucosal integrity and detoxification: steamed broccoli (sulforaphane), baked sweet potato (beta-carotene), and plain Greek yogurt (probiotics + zinc). These don’t neutralize HCAs directly but strengthen the body’s natural defense systems—especially important in the context of *reheat turkey heterocyclic amines barrett*.
 
-#### #### Is it safe to eat cold leftover turkey if I have Barrett’s esophagus?
+#### Is it safe to eat cold leftover turkey if I have Barrett’s esophagus?
 
 Cold turkey is safe from an HCA perspective—since no reheating occurs—and may even be gentler on the esophagus than hot, dry preparations. Just ensure it was refrigerated within 2 hours of cooking and consumed within 3–4 days. Always discard if aroma, color, or texture seems off—even small bacterial loads can irritate a sensitive esophageal lining.

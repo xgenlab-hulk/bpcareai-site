@@ -68,17 +68,17 @@ The holidays are about warmth, connection, and shared joy—not perfection. Choo
 
 ### FAQ
 
-#### #### Are gluten-free cookies safe for seniors with high blood pressure?
+#### Are gluten-free cookies safe for seniors with high blood pressure?
 Not automatically. While removing gluten benefits those with celiac disease or gluten sensitivity, many gluten-free cookies contain high sodium, refined starches, and added sugars—all of which can negatively impact blood pressure in seniors. Always check nutrition labels and prioritize low-sodium, whole-food-based options.
 
-#### #### Can gluten-free cookies raise blood pressure in older adults?
+#### Can gluten-free cookies raise blood pressure in older adults?
 Yes—they can, especially if they’re high in sodium (often >200 mg per serving) or made with rapidly digested flours that cause blood sugar spikes. These factors may contribute to temporary increases in arterial pressure, particularly in seniors whose bodies are less efficient at regulating fluid and electrolytes.
 
-#### #### What are the best gluten-free cookies for seniors with hypertension?
+#### What are the best gluten-free cookies for seniors with hypertension?
 Look for cookies made with almond or oat flour, minimal added sugar (<5 g per serving), and ≤140 mg sodium per serving. Homemade versions using heart-healthy fats (like olive oil or avocado oil) and natural sweeteners (mashed banana, unsweetened applesauce) are often the safest choice.
 
-#### #### Do gluten-free cookies contain less sodium than regular cookies?
+#### Do gluten-free cookies contain less sodium than regular cookies?
 Not necessarily—in fact, many contain *more* sodium. Manufacturers often add extra salt to enhance flavor and texture when gluten is removed. Always compare labels: a typical regular chocolate chip cookie averages ~120 mg sodium, while some gluten-free versions exceed 220 mg.
 
-#### #### How can I enjoy holiday cookies without affecting my blood pressure?
+#### How can I enjoy holiday cookies without affecting my blood pressure?
 Enjoy mindfully: limit to one small cookie per day, pair with potassium-rich foods (like kiwi or spinach salad), avoid combining with other high-sodium foods, and monitor your BP before and after holiday meals. Baking your own with low-sodium, whole-food ingredients gives you full control—and adds a meaningful personal touch to your celebrations.

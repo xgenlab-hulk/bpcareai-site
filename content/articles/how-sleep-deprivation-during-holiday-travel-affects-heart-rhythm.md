@@ -61,22 +61,22 @@ Holiday travel heart rhythm challenges aren’t a sign of weakness — they’re
 
 ### FAQ
 
-#### #### Does holiday travel heart rhythm go away on its own?
+#### Does holiday travel heart rhythm go away on its own?
 
 Yes — in most cases, mild rhythm changes related to travel resolve within 24–72 hours once sleep, hydration, and routine return to normal. But recurring episodes warrant evaluation, especially after age 50.
 
-#### #### Can holiday travel heart rhythm cause long-term damage?
+#### Can holiday travel heart rhythm cause long-term damage?
 
 Occasional, brief disruptions rarely cause lasting harm. However, repeated, unaddressed episodes — particularly in those with underlying heart disease — may increase long-term risk for persistent arrhythmias like atrial fibrillation.
 
-#### #### What’s the difference between holiday heart syndrome and holiday travel heart rhythm?
+#### What’s the difference between holiday heart syndrome and holiday travel heart rhythm?
 
 Holiday heart syndrome traditionally refers to arrhythmias triggered by acute alcohol excess (often binge drinking), while holiday travel heart rhythm includes broader triggers — jet lag, sleep loss, dehydration, and circadian disruption — even without heavy drinking.
 
-#### #### Is it safe to fly with a known arrhythmia?
+#### Is it safe to fly with a known arrhythmia?
 
 Most people with well-controlled arrhythmias fly safely. But consult your cardiologist beforehand — especially if you use a pacemaker or have recently had an ablation or cardioversion.
 
-#### #### How does dehydration affect heart rhythm during holiday travel?
+#### How does dehydration affect heart rhythm during holiday travel?
 
 Dehydration thickens blood, raises sympathetic nervous system activity, and lowers potassium/magnesium — all of which can irritate heart tissue and trigger premature beats or tachycardia. Aim for pale-yellow urine as a simple hydration check.

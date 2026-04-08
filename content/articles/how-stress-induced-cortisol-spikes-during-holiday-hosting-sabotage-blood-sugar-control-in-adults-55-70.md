@@ -57,17 +57,17 @@ If you're unsure, talking to your doctor is always a good idea. Understanding **
 
 ### FAQ
 
-#### #### Does cortisol really affect blood sugar during holiday season?
+#### Does cortisol really affect blood sugar during holiday season?
 Yes—especially for adults over 55. Elevated cortisol from emotional labor (like hosting) reduces insulin sensitivity, leading to higher-than-usual post-meal glucose—even with healthy food choices. This is a well-documented physiological response, not just “in your head.”
 
-#### #### How does cortisol and blood sugar during holidays differ for people over 60?
+#### How does cortisol and blood sugar during holidays differ for people over 60?
 Older adults often experience a slower return to baseline cortisol after stress, plus age-related declines in insulin secretion and glucose uptake. Combined, this means smaller stressors can produce larger, longer-lasting blood sugar effects—making awareness and gentle adjustments especially helpful.
 
-#### #### Can lowering holiday stress improve my A1c?
+#### Can lowering holiday stress improve my A1c?
 Potentially, yes. While one season won’t reverse long-standing trends, consistent stress reduction (e.g., daily mindfulness, realistic expectations, delegation) supports more stable glucose metabolism. Studies suggest sustained lower cortisol exposure over 8–12 weeks correlates with modest A1c reductions (0.1–0.3%) in adults with prediabetes.
 
-#### #### Is high blood sugar during holidays a sign of diabetes?
+#### Is high blood sugar during holidays a sign of diabetes?
 Not necessarily—but it *is* a signal worth exploring. Occasional spikes are normal. Repeated elevations—especially fasting >100 mg/dL or post-meal >180 mg/dL—warrant discussion with your provider to assess risk and support early intervention.
 
-#### #### What’s the best time to check blood sugar during holiday meals?
+#### What’s the best time to check blood sugar during holiday meals?
 Check just before eating (fasting or pre-meal), then again 1 hour and 2 hours after your first bite. The 2-hour mark gives the clearest picture of how your body handled the meal—and helps distinguish food effects from stress-related cortisol impacts.

@@ -82,22 +82,22 @@ It’s easy to underestimate the quiet power of passing down memories—not as h
 
 ### FAQ
 
-#### #### Can storytelling really lower blood pressure—or is that just wishful thinking?
+#### Can storytelling really lower blood pressure—or is that just wishful thinking?
 
 Research shows that emotionally positive, socially engaged storytelling—especially across generations—can support modest but meaningful improvements in diastolic pressure and autonomic balance over time. It’s not a replacement for medical care, but a complementary practice shown to enhance vagal tone and reduce sympathetic reactivity. Think of it as “relational wellness”: gentle, repeatable, and rooted in everyday connection.
 
-#### #### How does storytelling-blood-pressure-sympathetic-balance work in the body?
+#### How does storytelling-blood-pressure-sympathetic-balance work in the body?
 
 When you tell a warm, personal story in a relaxed setting, your brain activates regions associated with safety and social bonding (like the prefrontal cortex and oxytocin pathways). This dampens sympathetic output and boosts vagal signaling—slowing heart rate, relaxing blood vessels, and improving HRV. The vocal effort itself, when paced and unhurried, further stimulates the vagus nerve via the laryngeal branch. Over time, repeated positive experiences like this can shift long-term autonomic patterns—supporting steadier blood pressure, especially diastolic readings.
 
-#### #### Does storytelling-blood-pressure-sympathetic-balance help if I already have hypertension?
+#### Does storytelling-blood-pressure-sympathetic-balance help if I already have hypertension?
 
 Yes—though it’s most studied in prehypertension, the same mechanisms apply. Many adults with stage 1 hypertension (130–139/80–89 mm Hg) report greater ease managing their BP when combining lifestyle strategies—including intentional storytelling—with clinical guidance. Always continue prescribed treatment, but know that nurturing connection *is* part of heart-healthy living.
 
-#### #### What’s the best time of day to share stories for blood pressure benefits?
+#### What’s the best time of day to share stories for blood pressure benefits?
 
 Early evening—around 4–6 p.m.—often aligns well with natural circadian dips in sympathetic tone and tends to be a relaxed, unhurried time for families. Avoid right after meals (digestion competes for vagal resources) or late at night (when fatigue may blunt the calming effect). Consistency matters more than timing—choose a slot that feels sustainable and joyful for everyone involved.
 
-#### #### My voice gets tired quickly. Can I still benefit from storytelling-blood-pressure-sympathetic-balance?
+#### My voice gets tired quickly. Can I still benefit from storytelling-blood-pressure-sympathetic-balance?
 
 Absolutely. Vocal effort is just *one* pathway—emotional resonance, eye contact, shared laughter, and even quiet listening activate similar neural circuits. Try alternating speaking with handing over a photo album, playing a song from your youth, or writing a short note together. The goal isn’t volume or duration—it’s presence. Your nervous system notices kindness, warmth, and safety, regardless of how many words you use.

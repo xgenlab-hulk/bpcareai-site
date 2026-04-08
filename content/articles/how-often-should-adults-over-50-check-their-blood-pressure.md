@@ -86,17 +86,17 @@ Deciding *how often to check blood pressure after 50* doesn’t need to feel ove
 
 ### FAQ
 
-#### #### How often should I check my blood pressure after 50 if it’s normal?
+#### How often should I check my blood pressure after 50 if it’s normal?
 If your blood pressure has consistently measured below 120/80 mm Hg and you have no risk factors (like diabetes, smoking, or family history), current ACC/AHA guidelines recommend checking **at least once every year**—ideally during your routine physical. However, many clinicians suggest adding a home check every 3–6 months starting at age 50, just to catch subtle upward trends early.
 
-#### #### How often to check blood pressure after 50 if I have hypertension?
+#### How often to check blood pressure after 50 if I have hypertension?
 For adults over 50 with diagnosed hypertension, the standard recommendation is **twice daily (morning and evening) for at least 7 days before each healthcare visit**, then weekly once your BP is stable and well-controlled. Always follow your provider’s personalized plan—some may ask for more frequent tracking if adjusting medications or managing complications.
 
-#### #### Is it okay to check blood pressure every day after 50?
+#### Is it okay to check blood pressure every day after 50?
 Yes—daily home monitoring is safe and often beneficial, especially if you’re newly diagnosed, adjusting treatment, or noticing symptoms. Just avoid obsessing over single readings. Focus instead on patterns over time (e.g., average morning systolic over 5 days), and share those trends with your doctor.
 
-#### #### What’s the best time of day to check blood pressure after 50?
+#### What’s the best time of day to check blood pressure after 50?
 The most informative times are **in the morning (within 1 hour of waking, before coffee or medications)** and **in the evening (before dinner)**. These windows capture natural circadian variations and help identify patterns like morning surges—which are linked to higher cardiovascular risk.
 
-#### #### Can stress cause temporary high blood pressure after 50?
+#### Can stress cause temporary high blood pressure after 50?
 Yes—acute emotional stress can raise systolic BP by 10–30 mm Hg temporarily. While this doesn’t mean you have chronic hypertension, repeated stress responses may contribute to long-term vascular wear. If stress-related spikes happen often, consider relaxation techniques and discuss with your provider whether further evaluation is needed.

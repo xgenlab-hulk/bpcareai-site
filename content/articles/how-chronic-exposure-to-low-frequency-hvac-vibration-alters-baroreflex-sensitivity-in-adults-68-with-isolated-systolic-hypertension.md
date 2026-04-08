@@ -76,17 +76,17 @@ While the idea that everyday building systems might influence heart health sound
 
 ### FAQ
 
-#### #### Can hvac vibration baroreflex sensitivity hypertension affect my blood pressure even if I don’t feel the vibrations?
+#### Can hvac vibration baroreflex sensitivity hypertension affect my blood pressure even if I don’t feel the vibrations?
 Yes. Low-frequency vibrations (4–12 Hz) often fall below human perceptual thresholds—meaning you may not hear humming or feel shaking, yet your carotid sinus mechanoreceptors still detect and adapt to them. This silent exposure can contribute to gradual BRS decline over months or years.
 
-#### #### How does hvac vibration baroreflex sensitivity relate to orthostatic hypotension in seniors?
+#### How does hvac vibration baroreflex sensitivity relate to orthostatic hypotension in seniors?
 Reduced BRS impairs the rapid heart rate and vasoconstrictor response needed when standing. In older adults with ISH, chronic vibration exposure may compound age-related autonomic decline—increasing the likelihood and severity of orthostatic BP drops, especially in the morning or after naps.
 
-#### #### Are newer HVAC systems safer for heart health than older ones?
+#### Are newer HVAC systems safer for heart health than older ones?
 Not necessarily. While modern variable-speed drives reduce audible noise, they can introduce complex harmonic frequencies that overlap with biologically active ranges (e.g., 6.3 Hz or 9.5 Hz). System design, installation quality (e.g., proper isolation mounts), and building structure matter more than age alone.
 
-#### #### What’s the difference between baroreflex sensitivity and blood pressure variability?
+#### What’s the difference between baroreflex sensitivity and blood pressure variability?
 Baroreflex sensitivity (BRS) measures *how well your nervous system buffers* BP changes—it’s a functional metric of autonomic control. Blood pressure variability (BPV) is the observed fluctuation in readings over time. High BPV often reflects *low* BRS, especially in older adults, but other factors (e.g., arrhythmias, white-coat effect) can also elevate BPV.
 
-#### #### Does treating hypertension with medication reverse vibration-related BRS decline?
+#### Does treating hypertension with medication reverse vibration-related BRS decline?
 Medications like ACE inhibitors or ARBs may modestly improve BRS over time (by ~1–2 ms/mm Hg in 6 months), but they don’t address the mechanical desensitization caused by ongoing vibration exposure. Combining pharmacologic treatment with environmental modifications yields the strongest evidence for sustained improvement.

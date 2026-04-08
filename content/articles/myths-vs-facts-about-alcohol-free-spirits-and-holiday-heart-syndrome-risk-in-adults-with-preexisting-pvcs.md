@@ -71,17 +71,17 @@ You don’t need to sacrifice joy—or social connection—to protect your heart
 
 ### FAQ
 
-#### #### Are alcohol-free spirits safe for seniors with PVCs?
+#### Are alcohol-free spirits safe for seniors with PVCs?
 Not automatically. While free of ethanol, many contain quinine, glycyrrhizin, or caffeine analogs that can provoke arrhythmias—especially in those over 60 with preexisting PVCs. Safety depends on ingredients and individual physiology, not just the absence of alcohol.
 
-#### #### Can alcohol-free spirits and PVC risk in elderly be reduced with diet changes?
+#### Can alcohol-free spirits and PVC risk in elderly be reduced with diet changes?
 Yes. Reducing dietary sodium (to <1,500 mg/day), maintaining potassium between 4.0–4.5 mmol/L, and avoiding glycyrrhizin-rich foods (e.g., black licorice candy, certain alcohol-free rums) can significantly lower PVC frequency and holiday heart syndrome risk.
 
-#### #### What are the best non-alcoholic drinks for heart health during holidays?
+#### What are the best non-alcoholic drinks for heart health during holidays?
 Top choices include plain seltzer with lemon/lime, diluted tart cherry juice (no added sugar), unsweetened hibiscus tea (naturally low in sodium and stimulants), and warm cinnamon-infused apple cider (unsweetened). Always check labels for hidden quinine or licorice root.
 
-#### #### Does holiday heart syndrome only happen with alcohol?
+#### Does holiday heart syndrome only happen with alcohol?
 No. Though ethanol is the most common trigger, holiday heart syndrome refers broadly to acute-onset arrhythmias linked to holiday stressors—including sleep disruption, sodium surges, caffeine overload, and botanical stimulants—even in alcohol-free contexts.
 
-#### #### How does alcohol-free spirits and PVC risk in elderly compare to regular spirits?
+#### How does alcohol-free spirits and PVC risk in elderly compare to regular spirits?
 Alcohol-free options eliminate ethanol-induced myocardial depression and direct ion channel effects—but introduce other pharmacologically active compounds. For many older adults with PVCs, the net risk may be similar or even higher depending on formulation and individual sensitivity.

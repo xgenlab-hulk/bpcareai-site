@@ -54,17 +54,17 @@ Understanding *resting heart rate elderly frailty* doesn’t mean alarm—it mea
 
 ### FAQ
 
-#### #### What is a normal resting heart rate for an 85-year-old with frailty?  
+#### What is a normal resting heart rate for an 85-year-old with frailty?  
 There is no universal “normal.” While 60–100 bpm is cited for adults generally, many frail elders safely sustain rates between 50–65 bpm—*if* they remain alert, active, and symptom-free. Rates below 50 bpm warrant evaluation, especially with fatigue, falls, or lightheadedness.
 
-#### #### Can a low resting heart rate elderly frailty indicate heart disease?  
+#### Can a low resting heart rate elderly frailty indicate heart disease?  
 Yes—particularly when accompanied by reduced exercise tolerance, shortness of breath, or fluid retention. Bradycardia in this population may reflect sick sinus syndrome, conduction disease, or advanced heart failure—not just medication effect.
 
-#### #### Is resting heart rate elderly frailty affected by blood pressure medications?  
+#### Is resting heart rate elderly frailty affected by blood pressure medications?  
 Absolutely. Beta-blockers, calcium channel blockers, and alpha-2 agonists (e.g., clonidine) commonly lower HR—and their effects are amplified in frailty due to reduced metabolic clearance and autonomic reserve.
 
-#### #### How often should I check my resting heart rate if I’m over 80 and frail?  
+#### How often should I check my resting heart rate if I’m over 80 and frail?  
 Once daily is reasonable for trend tracking—ideally at the same time and posture. More frequent checks aren’t needed unless advised by your clinician for specific concerns like syncope or new medication initiation.
 
-#### #### Does a high resting heart rate elderly frailty also pose risks?  
+#### Does a high resting heart rate elderly frailty also pose risks?  
 Yes. Sustained rates >85 bpm in frail elders correlate with increased all-cause mortality and heart disease progression—often reflecting inflammation, anemia, or undiagnosed infection.

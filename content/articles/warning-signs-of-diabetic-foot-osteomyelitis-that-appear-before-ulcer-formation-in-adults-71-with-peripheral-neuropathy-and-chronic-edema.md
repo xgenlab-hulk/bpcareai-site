@@ -100,22 +100,22 @@ Living with diabetes doesn’t mean waiting for complications to arrive. It mean
 
 ### FAQ
 
-#### #### What are the earliest diabetic foot osteomyelitis warning signs before an ulcer forms?
+#### What are the earliest diabetic foot osteomyelitis warning signs before an ulcer forms?
 
 The earliest signs are often subtle and asymmetrical: localized warmth (without fever), unexplained toe stiffness, sudden nail thickening or discoloration, and a persistent deep ache or pressure sensation—particularly in one foot only. These may appear weeks before any skin breakdown.
 
-#### #### Can diabetic foot osteomyelitis warning signs occur without pain in older adults?
+#### Can diabetic foot osteomyelitis warning signs occur without pain in older adults?
 
 Yes—very commonly. Due to peripheral neuropathy, up to 70% of adults over 70 with early osteomyelitis report little to no pain. That’s why warmth, stiffness, and visual changes become even more important to monitor.
 
-#### #### How soon after noticing diabetic foot osteomyelitis warning signs should I see a specialist?
+#### How soon after noticing diabetic foot osteomyelitis warning signs should I see a specialist?
 
 Ideally within 3–5 days—if you notice two or more signs (e.g., warmth + stiffness, or nail change + swelling shift). Early MRI or lab work (like ESR/CRP) can confirm or rule out bone involvement before treatment delays.
 
-#### #### Is swelling alone enough to suggest osteomyelitis?
+#### Is swelling alone enough to suggest osteomyelitis?
 
 Not usually—but *changing* or *asymmetrical* edema—especially when paired with warmth, stiffness, or nail changes—warrants evaluation. Chronic edema is common, but new patterns may reflect underlying inflammation.
 
-#### #### Can good blood sugar control prevent diabetic foot osteomyelitis?
+#### Can good blood sugar control prevent diabetic foot osteomyelitis?
 
 Consistent glucose management (HbA1c <7.5%) significantly lowers risk—not just by protecting nerves and vessels, but by supporting healthy immune surveillance in tissues. However, it doesn’t eliminate risk entirely, especially with long-standing diabetes and existing neuropathy.

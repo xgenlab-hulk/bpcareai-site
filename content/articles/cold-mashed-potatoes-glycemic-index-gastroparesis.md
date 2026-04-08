@@ -59,17 +59,17 @@ You don’t need to overhaul your holiday traditions to eat well. Small, science
 
 ### FAQ
 
-#### #### Is it safe to eat cold mashed potatoes if I have gastroparesis?
+#### Is it safe to eat cold mashed potatoes if I have gastroparesis?
 Yes—many adults with gastroparesis-like symptoms actually find chilled mashed potatoes easier to digest and gentler on blood sugar than hot versions, thanks to increased resistant starch. Just introduce them gradually and monitor how you feel.
 
-#### #### What is the cold mashed potatoes glycemic index gastroparesis connection?
+#### What is the cold mashed potatoes glycemic index gastroparesis connection?
 The *cold mashed potatoes glycemic index gastroparesis* link lies in starch retrogradation: cooling transforms some digestible starch into resistant starch, lowering the effective glycemic load. While the official GI value of potatoes remains ~78 (high), the *functional* impact on glucose may be lower—especially with slower gastric emptying.
 
-#### #### Do cold mashed potatoes glycemic index gastroparesis benefits apply to reheated leftovers too?
+#### Do cold mashed potatoes glycemic index gastroparesis benefits apply to reheated leftovers too?
 Yes—studies show that potatoes chilled *then* reheated retain much of their resistant starch (about 60–75% of the chilled amount), so reheated leftovers still offer measurable glycemic advantages over freshly cooked versions.
 
-#### #### Can cold mashed potatoes raise blood pressure?
+#### Can cold mashed potatoes raise blood pressure?
 Not directly. Cold mashed potatoes themselves aren’t high in sodium or stimulants. However, if served with salty gravies or processed meats, BP could rise indirectly. Focus on whole-food pairings and portion awareness.
 
-#### #### Are instant mashed potatoes okay for gastroparesis?
+#### Are instant mashed potatoes okay for gastroparesis?
 They’re often higher in sodium and lower in fiber/resistant starch than homemade versions. If using them, choose low-sodium options and consider chilling before eating to boost resistant starch formation—even if modestly.

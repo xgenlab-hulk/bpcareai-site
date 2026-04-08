@@ -92,22 +92,22 @@ Understanding how light, melatonin, and coronary microvessels interact reminds u
 
 ### FAQ
 
-#### #### Do amber glasses help with nighttime heart blood flow?
+#### Do amber glasses help with nighttime heart blood flow?
 
 Yes—when worn consistently in the evening, amber lenses help preserve natural melatonin release, which supports relaxation of coronary microvessels. This contributes to improved *amber glasses nocturnal coronary perfusion*, especially in adults over 70 with microvascular angina or non-dipping blood pressure patterns.
 
-#### #### How long before bed should I wear amber glasses for heart benefits?
+#### How long before bed should I wear amber glasses for heart benefits?
 
 For optimal circadian alignment, start wearing them 2–3 hours before your usual bedtime—so if you go to sleep at 10 p.m., begin at 7:30–8 p.m. Benefits typically build over 10–14 days of consistent use.
 
-#### #### Are amber glasses safe for people with heart disease?
+#### Are amber glasses safe for people with heart disease?
 
 Yes—amber lenses are non-invasive and pose no known cardiovascular risk. They’re commonly used alongside standard heart medications (like beta-blockers or calcium channel blockers) and may even enhance their nighttime effects by supporting endogenous vasorelaxation pathways.
 
-#### #### Can amber glasses replace my angina medication?
+#### Can amber glasses replace my angina medication?
 
 No. Amber glasses are not a substitute for prescribed treatments for heart disease. They’re best viewed as a supportive lifestyle strategy that works *with* your care plan—not instead of it.
 
-#### #### What’s the difference between amber glasses and blue-light filters on phones?
+#### What’s the difference between amber glasses and blue-light filters on phones?
 
 Phone filters reduce some blue light, but they rarely block enough of the biologically active spectrum (especially 460–480 nm) to significantly support melatonin onset. Amber lenses—worn over the eyes—provide broader, more consistent filtration and are far more effective for circadian-vascular signaling.

@@ -53,22 +53,22 @@ Advances in cardiac rehab aren’t just about machines and treadmills—they’r
 
 ### FAQ
 
-#### #### Is cardiac rehab safe for people over 79 who’ve had a recent heart attack?
+#### Is cardiac rehab safe for people over 79 who’ve had a recent heart attack?
 
 Yes—studies like EXCITE show that medically supervised, individualized cardiac rehab is not only safe but significantly reduces mortality and improves function in adults 79+. Safety is assessed through personalized evaluation—not age alone.
 
-#### #### Do cardiac rehab myths seniors 79+ recent mi affect insurance coverage?
+#### Do cardiac rehab myths seniors 79+ recent mi affect insurance coverage?
 
 Unfortunately, yes—some insurers still use outdated age cutoffs or deny referrals based on misconceptions. But Medicare and most private plans cover cardiac rehab for eligible patients regardless of age—if prescribed after a qualifying event (e.g., MI, coronary artery bypass graft, stent). Ask your provider for documentation supporting medical necessity.
 
-#### #### Can I do cardiac rehab at home if I’m 79+ and recently had a heart procedure?
+#### Can I do cardiac rehab at home if I’m 79+ and recently had a heart procedure?
 
 Absolutely. Telehealth-enabled programs—like those tested in RENEW—offer guided exercise, nutrition coaching, and emotional support remotely. Many include simple equipment (resistance bands, step stools) and adapt to mobility levels, including use of walkers or wheelchairs.
 
-#### #### What’s the biggest benefit of cardiac rehab for seniors over 79?
+#### What’s the biggest benefit of cardiac rehab for seniors over 79?
 
 Beyond lowering risk of another cardiac event, the greatest benefits are often functional and emotional: improved walking ability, greater independence, reduced anxiety, and stronger social connection—all shown consistently across trials.
 
-#### #### Does having high blood pressure mean I can’t join cardiac rehab?
+#### Does having high blood pressure mean I can’t join cardiac rehab?
 
 No. In fact, cardiac rehab helps improve BP control. Most programs include BP monitoring, education on sodium and stress management, and guidance on medication timing—all tailored to your current health status.

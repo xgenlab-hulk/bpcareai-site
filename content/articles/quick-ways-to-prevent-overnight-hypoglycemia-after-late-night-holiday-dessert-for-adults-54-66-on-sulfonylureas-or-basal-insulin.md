@@ -95,22 +95,22 @@ Managing diabetes during the holidays doesn’t mean missing out—it means plan
 
 ### FAQ
 
-#### #### How can I prevent overnight hypoglycemia holiday dessert if I’m on glimepiride?
+#### How can I prevent overnight hypoglycemia holiday dessert if I’m on glimepiride?
 
 Glimepiride has a long duration in older adults—up to 18 hours. To prevent overnight hypoglycemia holiday dessert, avoid taking your evening dose within 12 hours of dessert. If you usually take it at 7 p.m., consider shifting to 5 p.m. (with provider approval) and aim for bedtime glucose between 110–150 mg/dL. Always pair dessert with protein/fat, and check glucose at 1 a.m. and 3 a.m. for two nights after any late treat.
 
-#### #### What’s the safest bedtime glucose level to prevent overnight hypoglycemia holiday dessert?
+#### What’s the safest bedtime glucose level to prevent overnight hypoglycemia holiday dessert?
 
 For adults 54–66 on sulfonylureas or basal insulin, the safest *target range* at bedtime is **110–150 mg/dL**, per ADA-endorsed overnight safety trials. Going lower—even to “normal” 80–100 mg/dL—increases risk significantly because of delayed glucose appearance from fat-rich desserts and waning counterregulation overnight.
 
-#### #### Can I still eat holiday desserts if I have diabetes and use basal insulin?
+#### Can I still eat holiday desserts if I have diabetes and use basal insulin?
 
 Yes—you absolutely can. The key is *timing*, *pairing*, and *monitoring*. Eat dessert no later than 9 p.m., always combine it with protein and fat (e.g., pear crisp + cottage cheese), and set CGM alerts for 12:30 a.m. and 3 a.m. Basal insulin doses rarely need reduction for single desserts—but if you’re consistently seeing lows, discuss a modest 10–20% dose adjustment with your provider.
 
-#### #### Does alcohol with dessert raise or lower overnight hypoglycemia risk?
+#### Does alcohol with dessert raise or lower overnight hypoglycemia risk?
 
 Alcohol *increases* overnight hypoglycemia risk—especially with sulfonylureas or insulin—because it inhibits gluconeogenesis in the liver. One glass of wine *with* dessert is generally safe if bedtime glucose is >120 mg/dL—but avoid cocktails with added sugar (e.g., eggnog with syrup) and never skip your usual snack if drinking after 8 p.m.
 
-#### #### Are there natural supplements that help prevent overnight hypoglycemia holiday dessert?
+#### Are there natural supplements that help prevent overnight hypoglycemia holiday dessert?
 
 No supplement is FDA-approved or clinically proven to prevent overnight hypoglycemia. While cinnamon or alpha-lipoic acid are sometimes discussed online, robust trials show no meaningful impact on nocturnal glucose stability in adults over 55. Focus instead on proven strategies: protein/fat pairing, CGM alarms, and appropriate medication timing—all supported by ADA and Endocrine Society guidance.

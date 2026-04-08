@@ -85,22 +85,22 @@ Remember: Your experience matters, your safety matters, and your happiness matte
 
 ### FAQ
 
-#### #### What are the best traveling with diabetes tips for seniors going on a cruise?
+#### What are the best traveling with diabetes tips for seniors going on a cruise?
 
 Cruises offer great amenities but require extra planning. Bring enough supplies for the entire trip *plus* three extra days, store insulin in a cool pack (not the stateroom fridge, which may be too cold), and notify the cruise line in advance about dietary needs—they often provide low-carb or diabetic-friendly options. Also, wear your medical ID at all times, and know where the ship’s infirmary is located.
 
-#### #### How do I adjust insulin when traveling across time zones?  
+#### How do I adjust insulin when traveling across time zones?  
 
 Time zone changes affect meal timing and insulin action. For eastward travel (e.g., U.S. to Europe), you’ll “lose” hours—so you may need a smaller dose of rapid-acting insulin with your last meal before departure and possibly skip your usual evening dose. For westward travel (e.g., California to Hawaii), you “gain” time—so you may need an extra small dose midday. Work with your doctor to create a personalized plan based on your insulin type and schedule.
 
-#### #### Are there specific traveling with diabetes tips for seniors flying domestically?
+#### Are there specific traveling with diabetes tips for seniors flying domestically?
 
 Yes! Keep all diabetes supplies—including insulin, syringes, CGM devices, and glucose tabs—in your carry-on (never checked luggage). Notify TSA agents *before* screening that you’re carrying medical supplies. Arrive at the airport early to allow time for questions or extra checks. Stay hydrated, walk every 60–90 minutes during long flights, and set phone reminders for meal and testing times—especially if your internal clock feels off.
 
-#### #### Should seniors with diabetes avoid international travel?
+#### Should seniors with diabetes avoid international travel?
 
 Not at all. Millions of older adults with diabetes travel safely abroad every year. The key is preparation: research local healthcare options, carry translation cards for medical terms (many are available free online), and confirm your health insurance covers care overseas—or consider supplemental travel insurance with medical evacuation. Many countries also have English-speaking clinics in major cities.
 
-#### #### How can I prevent foot problems while traveling with diabetes?
+#### How can I prevent foot problems while traveling with diabetes?
 
 Foot care is vital—especially for seniors with neuropathy or circulation concerns. Wear well-fitting, supportive shoes *from day one* (no breaking in new shoes on vacation!), inspect feet daily for redness, blisters, or cuts, and avoid walking barefoot—even on beaches or in hotel rooms. Pack antifungal powder and moisturizer (but not between toes), and consider bringing a small first-aid kit with sterile gauze and antibiotic ointment.

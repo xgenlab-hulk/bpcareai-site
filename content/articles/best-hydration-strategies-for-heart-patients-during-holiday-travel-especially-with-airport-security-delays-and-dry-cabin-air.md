@@ -85,22 +85,22 @@ If you're unsure, talking to your doctor is always a good idea—and a great way
 
 ### FAQ
 
-#### #### What are the best hydration strategies heart patients holiday travel for someone on diuretics?
+#### What are the best hydration strategies heart patients holiday travel for someone on diuretics?
 
 If you’re on diuretics like furosemide or bumetanide, timing matters most: take your dose at least 2–3 hours before airport arrival (or before boarding), not right before sitting for long stretches. Carry low-sodium oral rehydration salts—not sports drinks—to replenish electrolytes without excess sodium. Always weigh yourself daily before and after travel to catch subtle fluid shifts.
 
-#### #### How can I stay hydrated during holiday travel with heart failure and airport security delays?
+#### How can I stay hydrated during holiday travel with heart failure and airport security delays?
 
 Plan ahead: arrive earlier to avoid rushing, bring an empty reusable bottle to fill post-TSA, and pack portable, low-sodium hydration aids like dissolvable electrolyte tablets. If delays push meals or meds off-schedule, keep a light snack (e.g., banana or unsalted almonds) and sip water steadily—not all at once. Remember: consistency beats volume.
 
-#### #### Are there TSA-compliant hydration options safe for heart patients?
+#### Are there TSA-compliant hydration options safe for heart patients?
 
 Yes! TSA allows empty bottles (under 3.4 oz/100 mL if in quart-sized bag pre-security—but larger ones are fine *after* screening). Look for single-serve, low-sodium oral rehydration packets (check labels for ≤20 mEq sodium) and sugar-free, xylitol-based lozenges for dry mouth. Avoid pre-mixed electrolyte drinks with high sodium (>400 mg per serving) or added sugars.
 
-#### #### Does dry airplane air really affect blood pressure in older adults?
+#### Does dry airplane air really affect blood pressure in older adults?
 
 Yes—studies show cabin humidity levels (often 10–20%) increase insensible water loss by up to 30% compared to normal indoor environments. In adults over 60, this can contribute to a transient 5–10 mm Hg rise in systolic BP—especially when combined with immobility and stress. Staying gently hydrated helps buffer this effect.
 
-#### #### Can dehydration trigger holiday heart syndrome?
+#### Can dehydration trigger holiday heart syndrome?
 
 “Holiday heart syndrome” typically refers to acute atrial fibrillation linked to binge alcohol use—but dehydration *can* be a contributing factor. Low-volume states increase sympathetic tone and can provoke arrhythmias, especially in those with underlying structural heart disease. Consistent, modest hydration—paired with alcohol moderation—is among the most effective prevention steps.

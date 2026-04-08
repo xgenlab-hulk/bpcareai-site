@@ -85,22 +85,22 @@ Managing medications as we age is not about avoiding treatment—it’s about al
 
 ### FAQ
 
-#### #### Can over-the-counter cold medicines really raise blood pressure in seniors?
+#### Can over-the-counter cold medicines really raise blood pressure in seniors?
 
 Yes—especially decongestants like pseudoephedrine and phenylephrine. In adults over 65, these can increase systolic BP by 10–25 mm Hg, particularly when combined with antidepressants or blood pressure medications. They’re best avoided unless approved by your clinician.
 
-#### #### What medications interact with blood pressure pills and raise blood pressure unexpectedly?
+#### What medications interact with blood pressure pills and raise blood pressure unexpectedly?
 
 Common culprits include NSAIDs (ibuprofen, naproxen), oral and topical decongestants, corticosteroids (even low-dose inhaled forms), certain antidepressants (tricyclics, SNRIs), and herbal products like licorice root and St. John’s wort. These can blunt the effectiveness of ACE inhibitors, ARBs, and diuretics—or worsen fluid retention and vascular tone.
 
-#### #### Do testosterone gels raise blood pressure on their own—or only when combined with other drugs?
+#### Do testosterone gels raise blood pressure on their own—or only when combined with other drugs?
 
 Topical testosterone alone rarely causes large BP increases in most men—but it *can* contribute to elevated BP when combined with finasteride, anticholinergics, or NSAIDs. Studies suggest men over 65 using testosterone plus finasteride have a ~1.4-fold higher risk of incident hypertension compared to those using testosterone alone.
 
-#### #### How often should older adults check blood pressure if taking multiple medications?
+#### How often should older adults check blood pressure if taking multiple medications?
 
 At least twice weekly if stable—and daily for 5–7 days whenever starting, stopping, or adjusting any medication (including OTCs or supplements). Consistent home monitoring detects trends far better than occasional office visits.
 
-#### #### Is there a safe alternative to decongestants for older adults with high blood pressure?
+#### Is there a safe alternative to decongestants for older adults with high blood pressure?
 
 Yes. Saline nasal irrigation (neti pot or squeeze bottle), steam inhalation, and intranasal corticosteroids (e.g., fluticasone) are generally BP-safe options for managing congestion. Always discuss choices with your pharmacist or physician—especially if you have heart failure or arrhythmias.

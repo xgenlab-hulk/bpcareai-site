@@ -60,17 +60,17 @@ Traveling doesn’t mean compromising safety—or joy. With thoughtful preparati
 
 ### FAQ  
 
-#### #### Will TSA body scanners damage my CGM or give false readings?  
+#### Will TSA body scanners damage my CGM or give false readings?  
 Most modern CGMs are safe near millimeter-wave scanners—but about 1 in 5 seniors in real-world travel reported transient false hypo alerts immediately after scanning. It’s likely electromagnetic “noise,” not damage. Always carry backup testing supplies and verify with a fingerstick before acting on an alert.
 
-#### #### Can cabin pressure during flights throw off my CGM accuracy?  
+#### Can cabin pressure during flights throw off my CGM accuracy?  
 Yes—especially during rapid ascent/descent. Minor calibration drift (typically <20 mg/dL) can occur due to interstitial fluid shifts. This usually resolves within 30–60 minutes. Staying well-hydrated pre-flight and avoiding caffeine/alcohol helps stabilize readings.
 
-#### #### What’s the best way to secure my CGM sensor for holiday travel?  
+#### What’s the best way to secure my CGM sensor for holiday travel?  
 Reinforce with medical-grade, breathable tape *around* (not over) the sensor pad. Avoid lotions or oils before application. Consider placing the sensor on upper arm or abdomen—areas less prone to friction during seatbelt use or baggage handling.
 
-#### #### Do I need to tell airline staff I’m wearing a CGM?  
+#### Do I need to tell airline staff I’m wearing a CGM?  
 Not required—but telling gate agents or flight attendants helps them accommodate needs (e.g., discreet battery checks or seating near outlets). Also mention it at TSA; they’ll often provide a private screening option.
 
-#### #### Is cgm travel holiday airport seniors harder in winter?  
+#### Is cgm travel holiday airport seniors harder in winter?  
 Cold, dry air both on the ground and in planes increases skin dryness and adhesive failure risk. Keep your sensor site covered with light clothing when outdoors, and avoid applying hand sanitizer directly over the sensor area.

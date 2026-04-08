@@ -51,17 +51,17 @@ Statins remain one of the most well-researched, life-extending tools we have for
 
 ### FAQ
 
-#### #### Do statins cause memory loss in seniors over 65?  
+#### Do statins cause memory loss in seniors over 65?  
 Current evidence—including analyses from the FDA and large cohort studies—does not support a strong causal link between statins and permanent memory loss or dementia. Some older adults report mild, reversible “brain fog,” often improving with dose adjustment. If memory changes concern you, discuss timing, dosage, and other possible contributors (e.g., sleep, vitamin B12, thyroid function) with your provider.
 
-#### #### What are the most common statin side effects after age 65?  
+#### What are the most common statin side effects after age 65?  
 The most frequently reported statin side effects after age 65 include mild muscle discomfort (not severe myopathy), slower recovery after physical activity, subtle fatigue, and occasionally slightly elevated blood sugar—particularly in those with existing insulin resistance. Importantly, serious side effects like rhabdomyolysis remain extremely rare (<0.1%).
 
-#### #### Can statins raise blood pressure in older adults?  
+#### Can statins raise blood pressure in older adults?  
 No—statins do not directly raise BP (blood pressure) or arterial pressure. In fact, some studies suggest modest BP-lowering effects over time due to improved arterial elasticity. If your BP has changed recently, look to other factors: sodium intake, sleep quality, medication adjustments, or underlying conditions like sleep apnea.
 
-#### #### Are there natural alternatives to statins for heart disease prevention after 65?  
+#### Are there natural alternatives to statins for heart disease prevention after 65?  
 While lifestyle remains foundational—regular movement, heart-healthy eating (Mediterranean-style), not smoking, and managing stress—no natural supplement matches the proven cardiovascular protection of statins for high-risk individuals. Red yeast rice contains a natural statin (monacolin K), but its potency and safety profile are inconsistent and unregulated. Always consult your cardiologist before making changes.
 
-#### #### How often should I get liver enzymes checked while on a statin after age 65?  
+#### How often should I get liver enzymes checked while on a statin after age 65?  
 Guidelines recommend checking liver enzymes (ALT/AST) before starting a statin and again 4–12 weeks later. After that, routine monitoring isn’t needed unless you develop symptoms (e.g., abdominal discomfort, yellowing skin, dark urine) or start interacting medications. For most stable patients over 65, annual checks during routine labs are reasonable—and often sufficient.

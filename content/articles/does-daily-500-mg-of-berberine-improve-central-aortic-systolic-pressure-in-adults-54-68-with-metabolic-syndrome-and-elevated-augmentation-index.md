@@ -44,22 +44,22 @@ In summary, berberine shows promise as part of a broader strategy to support hea
 
 ### FAQ
 
-#### #### Does berberine lower central aortic blood pressure in older adults?
+#### Does berberine lower central aortic blood pressure in older adults?
 
 Yes—clinical trials in adults aged 54–68 with metabolic syndrome show that berberine (typically 1,000–1,500 mg/day) can modestly reduce central aortic systolic pressure by ~5–8 mm Hg and improve augmentation index over 8–12 weeks. Effects are more pronounced when combined with lifestyle changes.
 
-#### #### How does berberine affect arterial stiffness and wave reflection?
+#### How does berberine affect arterial stiffness and wave reflection?
 
 Berberine supports arterial elasticity partly by promoting a healthier gut microbiome, which enhances nitric oxide bioavailability and reduces systemic inflammation. This contributes to lower augmentation index—a marker of excessive wave reflection caused by stiff arteries.
 
-#### #### Is berberine and central aortic blood pressure interaction safe with statins?
+#### Is berberine and central aortic blood pressure interaction safe with statins?
 
 Not always. Berberine may increase blood levels of certain statins (e.g., simvastatin), raising the risk of myopathy. If you’re on a statin, consult your doctor before starting berberine—and consider alternatives like pravastatin or rosuvastatin, which have lower interaction potential.
 
-#### #### Can I measure central aortic blood pressure at home?
+#### Can I measure central aortic blood pressure at home?
 
 Currently, reliable central aortic blood pressure measurement requires clinical-grade tonometry equipment and trained personnel. Home devices only estimate central pressure indirectly—and their accuracy varies. For now, consistent brachial BP tracking remains the most practical self-monitoring tool.
 
-#### #### How long does it take for berberine to affect blood pressure?
+#### How long does it take for berberine to affect blood pressure?
 
 Most studies report measurable improvements in arterial function—including reductions in central aortic blood pressure and AIx—after 8–12 weeks of consistent dosing. Patience and consistency matter, especially when supporting underlying metabolic health.

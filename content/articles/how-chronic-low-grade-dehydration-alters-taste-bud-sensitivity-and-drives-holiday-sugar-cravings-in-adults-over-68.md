@@ -87,22 +87,22 @@ It’s completely normal to enjoy festive flavors—and equally okay to want to 
 
 ### FAQ
 
-#### #### Does dehydration really cause sugar cravings in seniors?
+#### Does dehydration really cause sugar cravings in seniors?
 
 Yes—research shows chronic low-grade dehydration can dull sensitivity to bitter, sour, and savory tastes while leaving sweet receptors relatively unaffected. This imbalance makes sweet foods stand out more strongly, leading many seniors to reach for them more often—especially during high-stimulus times like the holidays. It’s not about lack of discipline; it’s about how taste perception shifts with hydration status.
 
-#### #### How does dehydration sugar cravings seniors relate to blood pressure?
+#### How does dehydration sugar cravings seniors relate to blood pressure?
 
 Dehydration can temporarily raise arterial pressure by reducing blood volume and triggering compensatory mechanisms like increased heart rate and vasoconstriction. In turn, some BP medications (especially diuretics) increase fluid loss—potentially deepening the cycle. That’s why staying gently hydrated supports both stable BP *and* balanced taste perception. Monitoring both is part of holistic care.
 
-#### #### Can drinking more water really reduce sugar cravings in older adults?
+#### Can drinking more water really reduce sugar cravings in older adults?
 
 Evidence suggests yes—particularly when hydration improves oral moisture and restores baseline taste sensitivity. One small 2022 pilot study found that adults over 65 who increased daily fluid intake by just 500 mL (about 2 cups) over four weeks reported a 20–30% reduction in unplanned sweet-snacking—without changing diet or activity levels.
 
-#### #### Is dry mouth the same as dehydration?
+#### Is dry mouth the same as dehydration?
 
 Not exactly—but they’re closely connected. Dry mouth (xerostomia) can stem from medication side effects, autoimmune conditions, or aging-related salivary gland changes. However, even mild dehydration worsens dry mouth—and vice versa. So addressing hydration often eases oral dryness, which in turn helps normalize flavor signals—including those related to sugar.
 
-#### #### What’s the best time of day to hydrate to prevent holiday sugar cravings?
+#### What’s the best time of day to hydrate to prevent holiday sugar cravings?
 
 Consistency matters more than timing—but morning and mid-afternoon are especially helpful windows. After overnight fasting, rehydrating supports morning taste clarity. Mid-afternoon is when energy dips—and dryness—often peak, making hydration a gentle alternative to reaching for cookies or candy. A warm cup of chamomile or ginger tea fits beautifully into both moments.

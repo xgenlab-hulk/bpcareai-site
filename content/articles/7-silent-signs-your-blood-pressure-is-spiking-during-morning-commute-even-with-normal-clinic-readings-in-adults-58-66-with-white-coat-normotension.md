@@ -72,23 +72,23 @@ See your provider if you notice:
 
 ### FAQ
 
-#### #### Why does my blood pressure go up *only* during my morning commute—even though my doctor says it’s fine?
+#### Why does my blood pressure go up *only* during my morning commute—even though my doctor says it’s fine?
 
 That’s likely situational or “masked” hypertension. Clinical readings miss real-world triggers like traffic stress, vibration, or caffeine timing. A **morning commute blood pressure spike** reflects how your body responds to routine demands—not just resting physiology.
 
-#### #### Can a morning commute blood pressure spike lead to long-term heart problems?
+#### Can a morning commute blood pressure spike lead to long-term heart problems?
 
 Yes—if repeated frequently over months or years. Even brief, recurrent spikes raise average 24-hour arterial pressure, increasing risk for left ventricular remodeling, microvascular damage, and stroke—especially in adults over 55.
 
-#### #### What’s the best time to check blood pressure for a morning commute blood pressure spike?
+#### What’s the best time to check blood pressure for a morning commute blood pressure spike?
 
 Measure once *before* you leave home (after resting), then again *immediately after parking*—within 90 seconds, before walking into the building. Keep timing, position, and conditions as consistent as possible.
 
-#### #### Is white-coat normotension the same as masked hypertension?
+#### Is white-coat normotension the same as masked hypertension?
 
 Not quite. White-coat *normotension* means your BP is normal in clinic *and* elevated elsewhere. Masked hypertension is broader—it includes any scenario where BP is normal clinically but high in daily life (e.g., at work or during commute). Both require out-of-office confirmation.
 
-#### #### Do I need a special monitor to detect a morning commute blood pressure spike?
+#### Do I need a special monitor to detect a morning commute blood pressure spike?
 
 No—but use an upper-arm, FDA-cleared, oscillometric device validated for home use (look for ESH or AHA validation marks). Wrist cuffs are less reliable for detecting small, situational changes.
 

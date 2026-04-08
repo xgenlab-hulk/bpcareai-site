@@ -50,17 +50,17 @@ In short, enjoying the holidays doesn’t mean compromising comfort or nutrition
 
 ### FAQ  
 
-#### #### What are the best holiday appetizers denture instability seniors can eat at parties?  
+#### What are the best holiday appetizers denture instability seniors can eat at parties?  
 Look for moist, cohesive, protein-rich options served at neutral temperatures—like herbed cottage cheese balls, blended black bean crostini (on soft whole-grain toast), or flaked salmon mousse on rice crackers. Avoid anything sticky (caramelized nuts), tough (grilled shrimp skewers), or highly textured (coarse pâtés).
 
-#### #### Are there high-protein holiday appetizers denture instability seniors should avoid?  
+#### Are there high-protein holiday appetizers denture instability seniors should avoid?  
 Yes—some high-protein choices are risky despite their nutrition profile. Steer clear of jerky, roasted chickpeas, seared scallops, or hard cheeses like aged cheddar. These require significant biting force or create friction against gums. Instead, opt for soft-cooked lentils, silken tofu spreads, or minced turkey loaf bites.
 
-#### #### Can denture instability affect blood pressure during holiday meals?  
+#### Can denture instability affect blood pressure during holiday meals?  
 Indirectly—yes. Discomfort while eating may lead to rushed meals, skipped portions, or over-reliance on sodium-heavy convenience foods, all of which can influence arterial pressure. Plus, stress from struggling with food can temporarily raise BP. Prioritizing relaxed, well-textured eating supports both oral and cardiovascular comfort.
 
-#### #### How do I know if my dentures need adjusting before the holidays?  
+#### How do I know if my dentures need adjusting before the holidays?  
 Signs include frequent slipping, sore spots after eating, clicking sounds while speaking, or needing adhesive more than once a day. A dental check-up 3–4 weeks before major gatherings gives time for minor relines or cushioning adjustments.
 
-#### #### What’s a quick, no-cook holiday appetizer denture instability seniors can prepare in under 10 minutes?  
+#### What’s a quick, no-cook holiday appetizer denture instability seniors can prepare in under 10 minutes?  
 Try “Avocado-Yogurt Bites”: Mash 1 ripe avocado with ¼ cup plain Greek yogurt, lemon zest (no juice), and a pinch of dill. Roll into 1-inch balls and chill for 15 minutes. Serve at room temperature—they’re creamy, cool, protein-fortified, and require zero chewing.

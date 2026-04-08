@@ -89,17 +89,17 @@ Understanding salt sensitivity hypertension urinary sodium genotyping isn’t ab
 
 ### FAQ
 
-#### #### What does salt sensitivity hypertension urinary sodium genotyping actually measure?
+#### What does salt sensitivity hypertension urinary sodium genotyping actually measure?
 Salt sensitivity hypertension urinary sodium genotyping combines three real-world assessments: how much sodium your kidneys excrete in 24 hours (urinary sodium), your genetic variation in the ACE gene (I/D polymorphism), and how those interact with lifestyle—especially potassium intake. It doesn’t diagnose disease; it reveals patterns that help tailor dietary and lifestyle support for healthier blood pressure.
 
-#### #### Is salt sensitivity hypertension urinary sodium genotyping necessary for everyone with Stage 1 hypertension?
+#### Is salt sensitivity hypertension urinary sodium genotyping necessary for everyone with Stage 1 hypertension?
 No—especially not for those whose BP responds well to standard lifestyle changes (like walking more or reducing processed foods). It’s most helpful for adults 59–72 whose BP remains elevated despite reasonable sodium awareness, or who notice strong day-to-day fluctuations tied to meals or hydration.
 
-#### #### Can salt sensitivity hypertension urinary sodium genotyping change over time?
+#### Can salt sensitivity hypertension urinary sodium genotyping change over time?
 Yes—absolutely. Kidney function, medication use, dietary habits, and even sleep quality influence sodium handling. Someone with normal urinary sodium excretion at 62 may show reduced excretion by 68 due to gradual eGFR decline—making potassium support even more valuable. This is why reassessment every 2–3 years (or with major health shifts) can be wise.
 
-#### #### Does having the ACE DD genotype mean I’ll definitely develop high blood pressure?
+#### Does having the ACE DD genotype mean I’ll definitely develop high blood pressure?
 Not at all. The DD variant is associated with *increased likelihood* of salt sensitivity—not certainty. Studies show its effect becomes clinically meaningful mainly when paired with low potassium intake (<2,500 mg/day) or reduced kidney clearance. With mindful nutrition and movement, many DD individuals maintain healthy blood pressure well into their 70s.
 
-#### #### How accurate is a spot urine sodium:creatinine ratio compared to 24-hour collection?
+#### How accurate is a spot urine sodium:creatinine ratio compared to 24-hour collection?
 Very accurate for screening purposes—especially when done on a first-morning sample. Research shows correlation coefficients of r = 0.82–0.89 with full 24-hour collections in adults over 60. It’s not perfect, but it’s practical, repeatable, and clinically informative when interpreted alongside diet and kidney markers.

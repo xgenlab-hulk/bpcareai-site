@@ -1,0 +1,1185 @@
+{
+  "batch_info": {
+    "batch_name": "batch-101-120",
+    "article_range": "101-120 (indices 100-119)",
+    "total_articles": 20,
+    "processing_date": "2026-03-16",
+    "processor_version": "two-phase-v1"
+  },
+  "articles": [
+    {
+      "index": 101,
+      "slug": "9-hidden-sources-of-holiday-related-magnesium-depletion-in-adults-65-with-chronic-migraines-and-how-to-replenish-without-diarrhea",
+      "phase1_metadata": {
+        "audit_results": {
+          "overall_score": 70.0,
+          "needs_optimization": true,
+          "element_scores": {
+            "slug": 60,
+            "title": 60,
+            "description": 75,
+            "primaryKeyword": 85
+          },
+          "key_issues": []
+        },
+        "optimization_results": {
+          "optimization_successful": true,
+          "optimized_score": 87,
+          "optimizations": {
+            "primaryKeyword": {
+              "original": "holiday magnesium depletion migraine seniors",
+              "optimized": "holiday magnesium depletion migraine seniors",
+              "changed": false
+            }
+          }
+        }
+      },
+      "phase1_content_audit": {
+        "content_quality_score": 78,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 75
+          },
+          "structure": {
+            "score": 80
+          },
+          "faq": {
+            "score": 85
+          },
+          "technical_language": {
+            "score": 70
+          },
+          "fact_density": {
+            "score": 85
+          },
+          "user_value": {
+            "score": 80
+          }
+        }
+      },
+      "needs_phase2": true
+    },
+    {
+      "index": 102,
+      "slug": "7-hidden-medication-interactions-that-raise-systolic-pressure-in-adults-72-taking-antidepressants-and-calcium-channel-blockers",
+      "phase1_metadata": {
+        "audit_results": {
+          "overall_score": 67.5,
+          "needs_optimization": true,
+          "element_scores": {
+            "slug": 60,
+            "title": 60,
+            "description": 65,
+            "primaryKeyword": 85
+          },
+          "key_issues": []
+        },
+        "optimization_results": {
+          "optimization_successful": true,
+          "optimized_score": 87,
+          "optimizations": {
+            "primaryKeyword": {
+              "original": "antidepressant calcium channel blocker interaction",
+              "optimized": "antidepressant calcium channel blocker interaction",
+              "changed": false
+            }
+          }
+        }
+      },
+      "phase1_content_audit": {
+        "content_quality_score": 78,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 75
+          },
+          "structure": {
+            "score": 80
+          },
+          "faq": {
+            "score": 85
+          },
+          "technical_language": {
+            "score": 70
+          },
+          "fact_density": {
+            "score": 85
+          },
+          "user_value": {
+            "score": 80
+          }
+        }
+      },
+      "needs_phase2": true
+    },
+    {
+      "index": 103,
+      "slug": "12-holiday-safe-herbs-and-spices-that-boost-endothelial-no-production-without-interfering-with-warfarin-for-adults-74-on-anticoagulation-therapy",
+      "phase1_metadata": {
+        "audit_results": {
+          "overall_score": 67.5,
+          "needs_optimization": true,
+          "element_scores": {
+            "slug": 60,
+            "title": 60,
+            "description": 75,
+            "primaryKeyword": 75
+          },
+          "key_issues": []
+        },
+        "optimization_results": {
+          "optimization_successful": true,
+          "optimized_score": 87,
+          "optimizations": {
+            "primaryKeyword": {
+              "original": "holiday herbs endothelial no warfarin safe",
+              "optimized": "holiday herbs blood vessel health warfarin safe",
+              "changed": true
+            }
+          }
+        }
+      },
+      "phase1_content_audit": {
+        "content_quality_score": 78,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 75
+          },
+          "structure": {
+            "score": 80
+          },
+          "faq": {
+            "score": 85
+          },
+          "technical_language": {
+            "score": 70
+          },
+          "fact_density": {
+            "score": 85
+          },
+          "user_value": {
+            "score": 80
+          }
+        }
+      },
+      "needs_phase2": true
+    },
+    {
+      "index": 104,
+      "slug": "12-foods-that-enhance-myocardial-mitochondrial-biogenesis-without-increasing-oxidative-stress-for-adults-55-63-with-early-diastolic-dysfunction",
+      "phase1_metadata": {
+        "audit_results": {
+          "overall_score": 65.0,
+          "needs_optimization": true,
+          "element_scores": {
+            "slug": 60,
+            "title": 60,
+            "description": 75,
+            "primaryKeyword": 65
+          },
+          "key_issues": []
+        },
+        "optimization_results": {
+          "optimization_successful": true,
+          "optimized_score": 87,
+          "optimizations": {
+            "primaryKeyword": {
+              "original": "foods for heart mitochondrial health diastolic dysfunction",
+              "optimized": "foods for heart cellular energy health diastolic dysfunction",
+              "changed": true
+            }
+          }
+        }
+      },
+      "phase1_content_audit": {
+        "content_quality_score": 78,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 75
+          },
+          "structure": {
+            "score": 80
+          },
+          "faq": {
+            "score": 85
+          },
+          "technical_language": {
+            "score": 70
+          },
+          "fact_density": {
+            "score": 85
+          },
+          "user_value": {
+            "score": 80
+          }
+        }
+      },
+      "needs_phase2": true
+    },
+    {
+      "index": 105,
+      "slug": "10-silent-signs-your-heart-is-struggling-during-summer-heat-even-with-normal-baseline-bp-and-pulse-in-adults-65",
+      "phase1_metadata": {
+        "audit_results": {
+          "overall_score": 70.0,
+          "needs_optimization": true,
+          "element_scores": {
+            "slug": 60,
+            "title": 60,
+            "description": 75,
+            "primaryKeyword": 85
+          },
+          "key_issues": []
+        },
+        "optimization_results": {
+          "optimization_successful": true,
+          "optimized_score": 87,
+          "optimizations": {
+            "primaryKeyword": {
+              "original": "heart strain signs during summer heat seniors",
+              "optimized": "heart strain signs during summer heat seniors",
+              "changed": false
+            }
+          }
+        }
+      },
+      "phase1_content_audit": {
+        "content_quality_score": 78,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 75
+          },
+          "structure": {
+            "score": 80
+          },
+          "faq": {
+            "score": 85
+          },
+          "technical_language": {
+            "score": 70
+          },
+          "fact_density": {
+            "score": 85
+          },
+          "user_value": {
+            "score": 80
+          }
+        }
+      },
+      "needs_phase2": true
+    },
+    {
+      "index": 106,
+      "slug": "when-to-worry-about-unexplained-fatigue-after-age-68-distinguishing-early-heart-failure-from-anemia-thyroid-dysfunction-and-medication-side-effects",
+      "phase1_metadata": {
+        "audit_results": {
+          "overall_score": 70.0,
+          "needs_optimization": true,
+          "element_scores": {
+            "slug": 60,
+            "title": 60,
+            "description": 75,
+            "primaryKeyword": 85
+          },
+          "key_issues": []
+        },
+        "optimization_results": {
+          "optimization_successful": true,
+          "optimized_score": 87,
+          "optimizations": {
+            "primaryKeyword": {
+              "original": "unexplained fatigue heart failure over 68",
+              "optimized": "unexplained fatigue heart failure over 68",
+              "changed": false
+            }
+          }
+        }
+      },
+      "phase1_content_audit": {
+        "content_quality_score": 78,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 75
+          },
+          "structure": {
+            "score": 80
+          },
+          "faq": {
+            "score": 85
+          },
+          "technical_language": {
+            "score": 70
+          },
+          "fact_density": {
+            "score": 85
+          },
+          "user_value": {
+            "score": 80
+          }
+        }
+      },
+      "needs_phase2": true
+    },
+    {
+      "index": 107,
+      "slug": "when-to-worry-about-post-dinner-fatigue-after-holiday-gatherings-distinguishing-normal-aging-from-early-mitochondrial-decline-in-men-68",
+      "phase1_metadata": {
+        "audit_results": {
+          "overall_score": 67.5,
+          "needs_optimization": true,
+          "element_scores": {
+            "slug": 60,
+            "title": 60,
+            "description": 75,
+            "primaryKeyword": 75
+          },
+          "key_issues": []
+        },
+        "optimization_results": {
+          "optimization_successful": true,
+          "optimized_score": 87,
+          "optimizations": {
+            "primaryKeyword": {
+              "original": "post-dinner fatigue mitochondrial decline seniors",
+              "optimized": "post-dinner fatigue cellular energy decline seniors",
+              "changed": true
+            }
+          }
+        }
+      },
+      "phase1_content_audit": {
+        "content_quality_score": 78,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 75
+          },
+          "structure": {
+            "score": 80
+          },
+          "faq": {
+            "score": 85
+          },
+          "technical_language": {
+            "score": 70
+          },
+          "fact_density": {
+            "score": 85
+          },
+          "user_value": {
+            "score": 80
+          }
+        }
+      },
+      "needs_phase2": true
+    },
+    {
+      "index": 108,
+      "slug": "when-should-you-get-a-coronary-cta-instead-of-stress-testing-for-adults-58-64-with-atypical-chest-pain-and-low-to-intermediate-pre-test-probability",
+      "phase1_metadata": {
+        "audit_results": {
+          "overall_score": 70.0,
+          "needs_optimization": true,
+          "element_scores": {
+            "slug": 60,
+            "title": 60,
+            "description": 75,
+            "primaryKeyword": 85
+          },
+          "key_issues": []
+        },
+        "optimization_results": {
+          "optimization_successful": true,
+          "optimized_score": 87,
+          "optimizations": {
+            "primaryKeyword": {
+              "original": "coronary cta vs stress test atypical chest pain",
+              "optimized": "coronary cta vs stress test atypical chest pain",
+              "changed": false
+            }
+          }
+        }
+      },
+      "phase1_content_audit": {
+        "content_quality_score": 78,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 75
+          },
+          "structure": {
+            "score": 80
+          },
+          "faq": {
+            "score": 85
+          },
+          "technical_language": {
+            "score": 70
+          },
+          "fact_density": {
+            "score": 85
+          },
+          "user_value": {
+            "score": 80
+          }
+        }
+      },
+      "needs_phase2": true
+    },
+    {
+      "index": 109,
+      "slug": "warning-signs-your-stable-atrial-fibrillation-is-progressing-to-tachycardia-induced-cardiomyopathy-even-with-controlled-ventricular-rate-in-adults-61",
+      "phase1_metadata": {
+        "audit_results": {
+          "overall_score": 67.5,
+          "needs_optimization": true,
+          "element_scores": {
+            "slug": 60,
+            "title": 60,
+            "description": 75,
+            "primaryKeyword": 75
+          },
+          "key_issues": []
+        },
+        "optimization_results": {
+          "optimization_successful": true,
+          "optimized_score": 87,
+          "optimizations": {
+            "primaryKeyword": {
+              "original": "health management adults 61+",
+              "optimized": "health management adults 61+",
+              "changed": false
+            }
+          }
+        }
+      },
+      "phase1_content_audit": {
+        "content_quality_score": 78,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 75
+          },
+          "structure": {
+            "score": 80
+          },
+          "faq": {
+            "score": 85
+          },
+          "technical_language": {
+            "score": 70
+          },
+          "fact_density": {
+            "score": 85
+          },
+          "user_value": {
+            "score": 80
+          }
+        }
+      },
+      "needs_phase2": true
+    },
+    {
+      "index": 110,
+      "slug": "warning-signs-your-holiday-energy-drink-is-accelerating-arterial-stiffness-even-if-it-s-labeled-sugar-free-and-for-seniors",
+      "phase1_metadata": {
+        "audit_results": {
+          "overall_score": 67.5,
+          "needs_optimization": true,
+          "element_scores": {
+            "slug": 60,
+            "title": 60,
+            "description": 75,
+            "primaryKeyword": 75
+          },
+          "key_issues": []
+        },
+        "optimization_results": {
+          "optimization_successful": true,
+          "optimized_score": 87,
+          "optimizations": {
+            "primaryKeyword": {
+              "original": "sugar-free energy drinks arterial stiffness seniors",
+              "optimized": "sugar-free energy drinks arterial stiffness seniors",
+              "changed": false
+            }
+          }
+        }
+      },
+      "phase1_content_audit": {
+        "content_quality_score": 78,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 75
+          },
+          "structure": {
+            "score": 80
+          },
+          "faq": {
+            "score": 85
+          },
+          "technical_language": {
+            "score": 70
+          },
+          "fact_density": {
+            "score": 85
+          },
+          "user_value": {
+            "score": 80
+          }
+        }
+      },
+      "needs_phase2": true
+    },
+    {
+      "index": 111,
+      "slug": "vitamin-d-left-atrial-strain-seniors",
+      "phase1_metadata": {
+        "audit_results": {
+          "overall_score": 77.5,
+          "needs_optimization": true,
+          "element_scores": {
+            "slug": 90,
+            "title": 60,
+            "description": 75,
+            "primaryKeyword": 85
+          },
+          "key_issues": []
+        },
+        "optimization_results": {
+          "optimization_successful": true,
+          "optimized_score": 87,
+          "optimizations": {
+            "primaryKeyword": {
+              "original": "vitamin d left atrial strain seniors",
+              "optimized": "vitamin d left atrial strain seniors",
+              "changed": false
+            }
+          }
+        }
+      },
+      "phase1_content_audit": {
+        "content_quality_score": 78,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 75
+          },
+          "structure": {
+            "score": 80
+          },
+          "faq": {
+            "score": 85
+          },
+          "technical_language": {
+            "score": 70
+          },
+          "fact_density": {
+            "score": 85
+          },
+          "user_value": {
+            "score": 80
+          }
+        }
+      },
+      "needs_phase2": true
+    },
+    {
+      "index": 112,
+      "slug": "turkey-cooking-method-endothelial-health",
+      "phase1_metadata": {
+        "audit_results": {
+          "overall_score": 77.5,
+          "needs_optimization": true,
+          "element_scores": {
+            "slug": 90,
+            "title": 60,
+            "description": 85,
+            "primaryKeyword": 75
+          },
+          "key_issues": []
+        },
+        "optimization_results": {
+          "optimization_successful": true,
+          "optimized_score": 87,
+          "optimizations": {
+            "primaryKeyword": {
+              "original": "turkey cooking method endothelial health",
+              "optimized": "turkey cooking method endothelial health",
+              "changed": false
+            }
+          }
+        }
+      },
+      "phase1_content_audit": {
+        "content_quality_score": 78,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 75
+          },
+          "structure": {
+            "score": 80
+          },
+          "faq": {
+            "score": 85
+          },
+          "technical_language": {
+            "score": 70
+          },
+          "fact_density": {
+            "score": 85
+          },
+          "user_value": {
+            "score": 80
+          }
+        }
+      },
+      "needs_phase2": true
+    },
+    {
+      "index": 113,
+      "slug": "trf-window-timing-nafld-prediabetes",
+      "phase1_metadata": {
+        "audit_results": {
+          "overall_score": 75.0,
+          "needs_optimization": true,
+          "element_scores": {
+            "slug": 90,
+            "title": 60,
+            "description": 65,
+            "primaryKeyword": 85
+          },
+          "key_issues": []
+        },
+        "optimization_results": {
+          "optimization_successful": true,
+          "optimized_score": 87,
+          "optimizations": {
+            "primaryKeyword": {
+              "original": "trf window timing nafld prediabetes",
+              "optimized": "trf window timing nafld prediabetes",
+              "changed": false
+            }
+          }
+        }
+      },
+      "phase1_content_audit": {
+        "content_quality_score": 78,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 75
+          },
+          "structure": {
+            "score": 80
+          },
+          "faq": {
+            "score": 85
+          },
+          "technical_language": {
+            "score": 70
+          },
+          "fact_density": {
+            "score": 85
+          },
+          "user_value": {
+            "score": 80
+          }
+        }
+      },
+      "needs_phase2": true
+    },
+    {
+      "index": 114,
+      "slug": "skipping-breakfast-holiday-hyperglycemia-seniors",
+      "phase1_metadata": {
+        "audit_results": {
+          "overall_score": 77.5,
+          "needs_optimization": true,
+          "element_scores": {
+            "slug": 90,
+            "title": 60,
+            "description": 75,
+            "primaryKeyword": 85
+          },
+          "key_issues": []
+        },
+        "optimization_results": {
+          "optimization_successful": true,
+          "optimized_score": 87,
+          "optimizations": {
+            "primaryKeyword": {
+              "original": "skipping breakfast holiday hyperglycemia seniors",
+              "optimized": "skipping breakfast holiday hyperglycemia seniors",
+              "changed": false
+            }
+          }
+        }
+      },
+      "phase1_content_audit": {
+        "content_quality_score": 78,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 75
+          },
+          "structure": {
+            "score": 80
+          },
+          "faq": {
+            "score": 85
+          },
+          "technical_language": {
+            "score": 70
+          },
+          "fact_density": {
+            "score": 85
+          },
+          "user_value": {
+            "score": 80
+          }
+        }
+      },
+      "needs_phase2": true
+    },
+    {
+      "index": 115,
+      "slug": "restore-insulin-rhythm-without-melatonin",
+      "phase1_metadata": {
+        "audit_results": {
+          "overall_score": 75.0,
+          "needs_optimization": true,
+          "element_scores": {
+            "slug": 90,
+            "title": 60,
+            "description": 65,
+            "primaryKeyword": 85
+          },
+          "key_issues": []
+        },
+        "optimization_results": {
+          "optimization_successful": true,
+          "optimized_score": 87,
+          "optimizations": {
+            "primaryKeyword": {
+              "original": "restore insulin rhythm without melatonin",
+              "optimized": "restore insulin rhythm without melatonin",
+              "changed": false
+            }
+          }
+        }
+      },
+      "phase1_content_audit": {
+        "content_quality_score": 78,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 75
+          },
+          "structure": {
+            "score": 80
+          },
+          "faq": {
+            "score": 85
+          },
+          "technical_language": {
+            "score": 70
+          },
+          "fact_density": {
+            "score": 85
+          },
+          "user_value": {
+            "score": 80
+          }
+        }
+      },
+      "needs_phase2": true
+    },
+    {
+      "index": 116,
+      "slug": "neutralize-holiday-sodium-quickly-seniors-ck",
+      "phase1_metadata": {
+        "audit_results": {
+          "overall_score": 80.0,
+          "needs_optimization": true,
+          "element_scores": {
+            "slug": 90,
+            "title": 60,
+            "description": 85,
+            "primaryKeyword": 85
+          },
+          "key_issues": []
+        },
+        "optimization_results": {
+          "optimization_successful": true,
+          "optimized_score": 87,
+          "optimizations": {
+            "primaryKeyword": {
+              "original": "neutralize holiday sodium quickly seniors ck",
+              "optimized": "neutralize holiday sodium quickly seniors ck",
+              "changed": false
+            }
+          }
+        }
+      },
+      "phase1_content_audit": {
+        "content_quality_score": 78,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 75
+          },
+          "structure": {
+            "score": 80
+          },
+          "faq": {
+            "score": 85
+          },
+          "technical_language": {
+            "score": 70
+          },
+          "fact_density": {
+            "score": 85
+          },
+          "user_value": {
+            "score": 80
+          }
+        }
+      },
+      "needs_phase2": true
+    },
+    {
+      "index": 117,
+      "slug": "myths-vs-facts-heart-age-calculators-for-black-adults-over-55-what-framingham-ascvd-and-newer-race-neutral-models-actually-predict",
+      "phase1_metadata": {
+        "audit_results": {
+          "overall_score": 70.0,
+          "needs_optimization": true,
+          "element_scores": {
+            "slug": 60,
+            "title": 60,
+            "description": 75,
+            "primaryKeyword": 85
+          },
+          "key_issues": []
+        },
+        "optimization_results": {
+          "optimization_successful": true,
+          "optimized_score": 87,
+          "optimizations": {
+            "primaryKeyword": {
+              "original": "heart age calculator myths black adults over 55",
+              "optimized": "heart age calculator myths black adults over 55",
+              "changed": false
+            }
+          }
+        }
+      },
+      "phase1_content_audit": {
+        "content_quality_score": 78,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 75
+          },
+          "structure": {
+            "score": 80
+          },
+          "faq": {
+            "score": 85
+          },
+          "technical_language": {
+            "score": 70
+          },
+          "fact_density": {
+            "score": 85
+          },
+          "user_value": {
+            "score": 80
+          }
+        }
+      },
+      "needs_phase2": true
+    },
+    {
+      "index": 118,
+      "slug": "mouth-breathing-diastolic-dysfunction-seniors",
+      "phase1_metadata": {
+        "audit_results": {
+          "overall_score": 75.0,
+          "needs_optimization": true,
+          "element_scores": {
+            "slug": 90,
+            "title": 60,
+            "description": 65,
+            "primaryKeyword": 85
+          },
+          "key_issues": []
+        },
+        "optimization_results": {
+          "optimization_successful": true,
+          "optimized_score": 87,
+          "optimizations": {
+            "primaryKeyword": {
+              "original": "mouth breathing diastolic dysfunction seniors",
+              "optimized": "mouth breathing diastolic dysfunction seniors",
+              "changed": false
+            }
+          }
+        }
+      },
+      "phase1_content_audit": {
+        "content_quality_score": 78,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 75
+          },
+          "structure": {
+            "score": 80
+          },
+          "faq": {
+            "score": 85
+          },
+          "technical_language": {
+            "score": 70
+          },
+          "fact_density": {
+            "score": 85
+          },
+          "user_value": {
+            "score": 80
+          }
+        }
+      },
+      "needs_phase2": true
+    },
+    {
+      "index": 119,
+      "slug": "lower-albuminuria-quickly-seniors",
+      "phase1_metadata": {
+        "audit_results": {
+          "overall_score": 75.0,
+          "needs_optimization": true,
+          "element_scores": {
+            "slug": 90,
+            "title": 60,
+            "description": 65,
+            "primaryKeyword": 85
+          },
+          "key_issues": []
+        },
+        "optimization_results": {
+          "optimization_successful": true,
+          "optimized_score": 87,
+          "optimizations": {
+            "primaryKeyword": {
+              "original": "lower albuminuria quickly seniors",
+              "optimized": "lower albuminuria quickly seniors",
+              "changed": false
+            }
+          }
+        }
+      },
+      "phase1_content_audit": {
+        "content_quality_score": 78,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 75
+          },
+          "structure": {
+            "score": 80
+          },
+          "faq": {
+            "score": 85
+          },
+          "technical_language": {
+            "score": 70
+          },
+          "fact_density": {
+            "score": 85
+          },
+          "user_value": {
+            "score": 80
+          }
+        }
+      },
+      "needs_phase2": true
+    },
+    {
+      "index": 120,
+      "slug": "how-late-night-snacking-during-hanukkah-or-christmas-eve-affects-overnight-glucose-stability-in-women-over-70",
+      "phase1_metadata": {
+        "audit_results": {
+          "overall_score": 70.0,
+          "needs_optimization": true,
+          "element_scores": {
+            "slug": 60,
+            "title": 60,
+            "description": 85,
+            "primaryKeyword": 75
+          },
+          "key_issues": []
+        },
+        "optimization_results": {
+          "optimization_successful": true,
+          "optimized_score": 87,
+          "optimizations": {
+            "primaryKeyword": {
+              "original": "late-night snacking overnight glucose stability seniors",
+              "optimized": "late-night snacking overnight glucose stability seniors",
+              "changed": false
+            }
+          }
+        }
+      },
+      "phase1_content_audit": {
+        "content_quality_score": 78,
+        "needs_content_optimization": true,
+        "content_audit": {
+          "h1_title": {
+            "score": 75
+          },
+          "structure": {
+            "score": 80
+          },
+          "faq": {
+            "score": 85
+          },
+          "technical_language": {
+            "score": 70
+          },
+          "fact_density": {
+            "score": 85
+          },
+          "user_value": {
+            "score": 80
+          }
+        }
+      },
+      "needs_phase2": true
+    }
+  ],
+  "summary": {
+    "total_processed": 20,
+    "metadata_optimizations": 20,
+    "metadata_scores": {
+      "before_avg": 71.8,
+      "after_avg": 87.0
+    },
+    "content_scores": {
+      "avg": 78.0,
+      "below_85_count": 20
+    },
+    "articles_needing_phase2": [
+      {
+        "index": 101,
+        "slug": "9-hidden-sources-of-holiday-related-magnesium-depletion-in-adults-65-with-chronic-migraines-and-how-to-replenish-without-diarrhea",
+        "content_score": 78
+      },
+      {
+        "index": 102,
+        "slug": "7-hidden-medication-interactions-that-raise-systolic-pressure-in-adults-72-taking-antidepressants-and-calcium-channel-blockers",
+        "content_score": 78
+      },
+      {
+        "index": 103,
+        "slug": "12-holiday-safe-herbs-and-spices-that-boost-endothelial-no-production-without-interfering-with-warfarin-for-adults-74-on-anticoagulation-therapy",
+        "content_score": 78
+      },
+      {
+        "index": 104,
+        "slug": "12-foods-that-enhance-myocardial-mitochondrial-biogenesis-without-increasing-oxidative-stress-for-adults-55-63-with-early-diastolic-dysfunction",
+        "content_score": 78
+      },
+      {
+        "index": 105,
+        "slug": "10-silent-signs-your-heart-is-struggling-during-summer-heat-even-with-normal-baseline-bp-and-pulse-in-adults-65",
+        "content_score": 78
+      },
+      {
+        "index": 106,
+        "slug": "when-to-worry-about-unexplained-fatigue-after-age-68-distinguishing-early-heart-failure-from-anemia-thyroid-dysfunction-and-medication-side-effects",
+        "content_score": 78
+      },
+      {
+        "index": 107,
+        "slug": "when-to-worry-about-post-dinner-fatigue-after-holiday-gatherings-distinguishing-normal-aging-from-early-mitochondrial-decline-in-men-68",
+        "content_score": 78
+      },
+      {
+        "index": 108,
+        "slug": "when-should-you-get-a-coronary-cta-instead-of-stress-testing-for-adults-58-64-with-atypical-chest-pain-and-low-to-intermediate-pre-test-probability",
+        "content_score": 78
+      },
+      {
+        "index": 109,
+        "slug": "warning-signs-your-stable-atrial-fibrillation-is-progressing-to-tachycardia-induced-cardiomyopathy-even-with-controlled-ventricular-rate-in-adults-61",
+        "content_score": 78
+      },
+      {
+        "index": 110,
+        "slug": "warning-signs-your-holiday-energy-drink-is-accelerating-arterial-stiffness-even-if-it-s-labeled-sugar-free-and-for-seniors",
+        "content_score": 78
+      },
+      {
+        "index": 111,
+        "slug": "vitamin-d-left-atrial-strain-seniors",
+        "content_score": 78
+      },
+      {
+        "index": 112,
+        "slug": "turkey-cooking-method-endothelial-health",
+        "content_score": 78
+      },
+      {
+        "index": 113,
+        "slug": "trf-window-timing-nafld-prediabetes",
+        "content_score": 78
+      },
+      {
+        "index": 114,
+        "slug": "skipping-breakfast-holiday-hyperglycemia-seniors",
+        "content_score": 78
+      },
+      {
+        "index": 115,
+        "slug": "restore-insulin-rhythm-without-melatonin",
+        "content_score": 78
+      },
+      {
+        "index": 116,
+        "slug": "neutralize-holiday-sodium-quickly-seniors-ck",
+        "content_score": 78
+      },
+      {
+        "index": 117,
+        "slug": "myths-vs-facts-heart-age-calculators-for-black-adults-over-55-what-framingham-ascvd-and-newer-race-neutral-models-actually-predict",
+        "content_score": 78
+      },
+      {
+        "index": 118,
+        "slug": "mouth-breathing-diastolic-dysfunction-seniors",
+        "content_score": 78
+      },
+      {
+        "index": 119,
+        "slug": "lower-albuminuria-quickly-seniors",
+        "content_score": 78
+      },
+      {
+        "index": 120,
+        "slug": "how-late-night-snacking-during-hanukkah-or-christmas-eve-affects-overnight-glucose-stability-in-women-over-70",
+        "content_score": 78
+      }
+    ]
+  }
+}

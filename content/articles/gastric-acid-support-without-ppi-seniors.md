@@ -42,17 +42,17 @@ In summary, supporting natural gastric acid physiology during the holidays doesn
 
 ### FAQ  
 
-#### #### Can Betaine HCl be used safely by seniors with atrophic gastritis?  
+#### Can Betaine HCl be used safely by seniors with atrophic gastritis?  
 Yes—when used correctly. Clinical studies (e.g., *Journal of Clinical Gastroenterology*, 2021) show Betaine HCl improves protein digestion and reduces bloating in older adults with hypochlorhydria, *provided* there’s no active ulceration or stricture. Always begin under supervision and discontinue if warmth, burning, or reflux worsens.
 
-#### #### What are safe, natural alternatives to PPIs for gastric acid support without PPIs seniors?  
+#### What are safe, natural alternatives to PPIs for gastric acid support without PPIs seniors?  
 Beyond Betaine HCl and zinc-carnosine, evidence-backed options include digestive bitters (gentian, dandelion root), adequate dietary zinc (oysters, pumpkin seeds), and optimizing vitamin B12 status (sublingual methylcobalamin if deficient). Avoid apple cider vinegar if you have erosive esophagitis.
 
-#### #### Does low stomach acid cause high blood pressure?  
+#### Does low stomach acid cause high blood pressure?  
 No direct causal link exists between gastric acid levels and blood pressure. However, chronic B12 or magnesium deficiency—both associated with poor acid-mediated absorption—may indirectly influence vascular health. That’s why holistic nutritional support remains essential.
 
-#### #### How long does it take to see improvement with zinc-carnosine in atrophic gastritis?  
+#### How long does it take to see improvement with zinc-carnosine in atrophic gastritis?  
 In clinical trials, measurable improvements in gastric mucosal histology and symptom scores typically appear after 8–12 weeks of consistent 150 mg/day dosing. Effects are cumulative and depend on concurrent inflammation control.
 
-#### #### Are there drug interactions I should know about with Betaine HCl?  
+#### Are there drug interactions I should know about with Betaine HCl?  
 Yes. Avoid combining Betaine HCl with NSAIDs (ibuprofen, naproxen), corticosteroids, or anticoagulants without physician review—these can increase gastric irritation risk. Also avoid with other acid-stimulating supplements like high-dose vitamin C on an empty stomach.

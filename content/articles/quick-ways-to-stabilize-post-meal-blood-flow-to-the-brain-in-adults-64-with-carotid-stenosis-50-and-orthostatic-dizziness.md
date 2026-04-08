@@ -73,22 +73,22 @@ Caring for your brain’s blood flow doesn’t mean constant vigilance—it mean
 
 ### FAQ
 
-#### #### What are safe, natural ways to stabilize brain blood flow after meals seniors can do at home?
+#### What are safe, natural ways to stabilize brain blood flow after meals seniors can do at home?
 
 Three evidence-supported, no-equipment methods include seated leg elevation for 60 seconds, a 4-4-6 breathing pattern for 45 seconds, and placing a tiny amount of sodium on the tongue right after eating. All work within 90 seconds, require no medication, and avoid raising systolic pressure.
 
-#### #### Can healthy holiday eating for seniors really help stabilize brain blood flow after meals seniors experience?
+#### Can healthy holiday eating for seniors really help stabilize brain blood flow after meals seniors experience?
 
 Yes—especially when paired with timing and positioning. Smaller, balanced holiday meals (e.g., lean protein + vegetables + modest complex carbs) reduce splanchnic pooling. Eating slowly, staying seated for 10–15 minutes post-meal, and avoiding large amounts of alcohol or high-sugar desserts all support steadier cerebral perfusion—making *healthy holiday eating for seniors* a meaningful part of vascular wellness.
 
-#### #### Why do I get dizzy after eating if my blood pressure is normal?
+#### Why do I get dizzy after eating if my blood pressure is normal?
 
 “Normal” BP readings don’t tell the whole story. With carotid stenosis and age-related autonomic changes, blood *distribution* and *response speed* matter more than static numbers. Dizziness after meals often reflects a temporary mismatch between demand (digestion) and supply (brain perfusion)—not necessarily low BP overall. That’s why strategies focused on timing, breathing, and gentle physiological cues are especially effective.
 
-#### #### Does walking after dinner help or hurt stabilize brain blood flow after meals seniors?
+#### Does walking after dinner help or hurt stabilize brain blood flow after meals seniors?
 
 It depends on timing and intensity. Light walking *20–30 minutes after* a meal may aid digestion and circulation—but walking *immediately* after eating—especially if you stand up quickly—can worsen orthostatic dizziness in those with carotid stenosis. For best results, sit or recline for the first 15 minutes, then move gently.
 
-#### #### Are there foods seniors should avoid to prevent dizziness after meals?
+#### Are there foods seniors should avoid to prevent dizziness after meals?
 
 Yes—particularly large portions of refined carbohydrates (white potatoes, pasta, pastries), which trigger rapid insulin release and vasodilation, and very hot soups or beverages, which can compound postprandial BP drops. Instead, favor balanced plates with protein, fiber, and healthy fats—another way *healthy holiday eating for seniors* supports brain blood flow stability.

@@ -102,22 +102,22 @@ You don’t need dramatic changes to care well for yourself. Small, consistent c
 
 ### FAQ
 
-#### #### What does “stabilize fasting glucose without lowering” really mean for seniors?
+#### What does “stabilize fasting glucose without lowering” really mean for seniors?
 
 It means choosing foods and habits that keep your overnight and morning glucose in a safe, comfortable range—typically 70–99 mg/dL—without pushing it down toward or below 65 mg/dL, where falls, confusion, or loss of awareness become more likely. It’s about balance, not reduction.
 
-#### #### Can I stabilize fasting glucose without lowering while still enjoying holiday meals?
+#### Can I stabilize fasting glucose without lowering while still enjoying holiday meals?
 
 Yes—with thoughtful tweaks. Focus on protein and healthy fat at each meal (e.g., roasted turkey instead of sugary glazes, olive oil instead of cranberry sauce), and include a gentle pre-bed snack. You don’t have to skip traditions—you can savor them more safely.
 
-#### #### Are there foods that stabilize fasting glucose without lowering *and* support balance in older adults?
+#### Are there foods that stabilize fasting glucose without lowering *and* support balance in older adults?
 
 Absolutely. Eggs, full-fat dairy, fatty fish, nuts, and bone broth all contribute to both metabolic stability *and* neuromuscular support—helping maintain strength, coordination, and autonomic resilience.
 
-#### #### What’s the safest time to check fasting glucose in older adults?
+#### What’s the safest time to check fasting glucose in older adults?
 
 First thing in the morning, before any food, drink (even water or coffee), or getting out of bed—ideally after 10–12 hours of fasting. Sit quietly for 2 minutes before testing to avoid orthostatic effects skewing results.
 
-#### #### Does stabilizing fasting glucose without lowering help prevent falls?
+#### Does stabilizing fasting glucose without lowering help prevent falls?
 
 Indirectly, yes. By reducing episodes of asymptomatic or symptomatic hypoglycemia—and supporting steady cerebral energy supply—you lower one important contributor to falls. Paired with strength and balance work, it’s part of a holistic safety strategy.

@@ -88,22 +88,22 @@ Holiday meals are about connection, tradition, and joy—not perfection. Feeling
 
 ### FAQ
 
-#### #### What are the most serious bloating after holiday meal warning signs I shouldn’t ignore?
+#### What are the most serious bloating after holiday meal warning signs I shouldn’t ignore?
 
 The most important warning signs include bloating that lasts more than 72 hours *alongside* shortness of breath, sudden weight gain (4+ pounds in 3 days), swelling in legs or abdomen, reduced urine output, or chest discomfort. These could point to fluid overload related to heart or kidney changes—and deserve prompt medical attention.
 
-#### #### Is bloating after holiday meal warning signs common in people over 60?
+#### Is bloating after holiday meal warning signs common in people over 60?
 
 Yes—more common than many realize. Age-related declines in gastric motility, kidney filtration efficiency, and heart reserve mean that a rich, salty meal can unmask early issues. That said, most post-holiday bloating in older adults *is* benign and resolves within a day or two. The key is recognizing when it’s paired with other red-flag symptoms.
 
-#### #### Can high blood pressure cause bloating after a holiday meal?
+#### Can high blood pressure cause bloating after a holiday meal?
 
 Not directly—but elevated blood pressure (especially if longstanding or poorly controlled) increases strain on the heart and kidneys. When combined with high-sodium holiday foods, this can lead to fluid retention, which may show up as abdominal bloating, ankle swelling, or puffiness. So while BP itself doesn’t cause bloating, it can be part of the bigger picture.
 
-#### #### Why do I feel bloated *only* after big holiday meals—but fine the rest of the year?
+#### Why do I feel bloated *only* after big holiday meals—but fine the rest of the year?
 
 This is very common! Holiday meals often contain higher amounts of sodium, fat, and refined carbs—all of which can slow digestion and promote temporary fluid retention. If your baseline diet is balanced and lower in sodium, your body may simply need more time to reset after a festive exception. As long as bloating resolves within 1–2 days and isn’t paired with other symptoms, it’s likely just your system catching its breath.
 
-#### #### Does bloating after holiday meal warning signs mean I have heart failure?
+#### Does bloating after holiday meal warning signs mean I have heart failure?
 
 Not necessarily. Bloating alone is *not* diagnostic of heart failure—and many people experience it without any cardiac issues. However, when bloating appears *with* fatigue, breathlessness, rapid weight gain, or swelling, it may be an early clue that your heart is struggling to manage fluid balance. That’s why context matters—and why checking in with your provider helps clarify what’s going on.

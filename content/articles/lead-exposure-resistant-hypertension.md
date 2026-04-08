@@ -62,17 +62,17 @@ Understanding how environmental factors like lead exposure resistant hypertensio
 
 ### FAQ
 
-#### #### Can lead exposure cause resistant hypertension even if my blood lead level is “normal”?  
+#### Can lead exposure cause resistant hypertension even if my blood lead level is “normal”?  
 Yes. Blood lead reflects recent exposure, not total body burden. Adults with resistant hypertension may have elevated bone lead stores—even with BLLs under 3.5 µg/dL—that contribute to impaired nitric oxide signaling and vascular stiffness.
 
-#### #### What is lead exposure resistant hypertension—and how is it different from regular high blood pressure?  
+#### What is lead exposure resistant hypertension—and how is it different from regular high blood pressure?  
 Lead exposure resistant hypertension refers to persistently elevated blood pressure (≥140/90 mm Hg) that doesn’t respond adequately to three or more antihypertensive drugs, where chronic low-dose lead exposure plays a measurable role—often through ALAD inhibition and reduced NO bioavailability.
 
-#### #### Does chelation therapy help with lead exposure resistant hypertension?  
+#### Does chelation therapy help with lead exposure resistant hypertension?  
 Evidence is limited for routine use in adults with mild-to-moderate lead burden. Chelation may be considered in cases with BLL >45 µg/dL or confirmed high bone lead *plus* clinical symptoms—but lifestyle, nutrition, and BP management remain first-line.
 
-#### #### How can I test for lead exposure at home?  
+#### How can I test for lead exposure at home?  
 There are no reliable at-home blood or urine lead tests approved for clinical decision-making. Accurate assessment requires lab-based BLL testing (via venous draw) and, when indicated, specialized bone lead evaluation through a healthcare provider.
 
-#### #### Are older adults more vulnerable to lead’s effects on blood pressure?  
+#### Are older adults more vulnerable to lead’s effects on blood pressure?  
 Yes—due to cumulative bone lead storage, age-related declines in renal clearance, and reduced antioxidant capacity, adults 57–74 are especially susceptible to lead’s impact on heme synthesis and endothelial function.

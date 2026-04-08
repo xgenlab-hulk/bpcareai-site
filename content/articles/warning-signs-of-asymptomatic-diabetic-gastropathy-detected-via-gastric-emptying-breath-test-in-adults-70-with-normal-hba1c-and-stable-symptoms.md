@@ -89,22 +89,22 @@ Discovering subtle signs of gastric slowing doesn’t mean decline is inevitable
 
 ### FAQ
 
-#### #### What are the earliest asymptomatic diabetic gastropathy warning signs in older adults?
+#### What are the earliest asymptomatic diabetic gastropathy warning signs in older adults?
 
 The earliest signs are often silent or nonspecific — including unpredictable post-meal glucose spikes, feeling overly full for hours after a normal-sized meal (despite normal weight), or waking with a sour taste without daytime heartburn. These may occur even when HbA1c is <6.5% and no nausea or vomiting is present.
 
-#### #### Can you have asymptomatic diabetic gastropathy warning signs with normal blood sugar tests?
+#### Can you have asymptomatic diabetic gastropathy warning signs with normal blood sugar tests?
 
 Yes — absolutely. HbA1c and fasting glucose reflect overall glycemic control, not gastric motility. Many older adults with normal lab values show delayed gastric emptying on breath testing due to autonomic nerve changes that precede noticeable symptoms by years.
 
-#### #### How accurate is the gastric emptying breath test for detecting asymptomatic diabetic gastropathy warning signs in seniors?
+#### How accurate is the gastric emptying breath test for detecting asymptomatic diabetic gastropathy warning signs in seniors?
 
 The gastric emptying breath test (GEBT) is highly reliable in older adults: studies report >85% sensitivity and >90% specificity compared to scintigraphy. It’s particularly well-suited for those over 70 because it avoids radiation exposure and requires minimal physical effort — making it safer and more accessible than traditional imaging.
 
-#### #### Is gastroparesis the same as diabetic gastropathy?
+#### Is gastroparesis the same as diabetic gastropathy?
 
 Not exactly. *Gastroparesis* is a clinical diagnosis defined by confirmed delayed gastric emptying *plus* symptoms like nausea, vomiting, or early satiety. *Diabetic gastropathy* is broader — it includes both symptomatic and *asymptomatic* forms. So all gastroparesis in diabetes falls under gastropathy, but not all gastropathy meets criteria for gastroparesis.
 
-#### #### Does metformin cause or worsen asymptomatic diabetic gastropathy warning signs?
+#### Does metformin cause or worsen asymptomatic diabetic gastropathy warning signs?
 
 Metformin doesn’t directly damage nerves, but it *can slow gastric emptying*, especially at higher doses (≥1500 mg/day). In someone with preexisting subclinical gastropathy, metformin may amplify subtle signs like prolonged fullness or erratic glucose readings — making it important to interpret symptoms in context rather than assume causality.

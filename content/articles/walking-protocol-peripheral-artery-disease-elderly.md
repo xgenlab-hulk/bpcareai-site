@@ -56,17 +56,17 @@ If you're unsure, talking to your doctor is always a good idea. A well-designed 
 
 ### FAQ
 
-#### #### What’s the safest walking protocol peripheral artery disease elderly for someone with diabetes and claudication?
+#### What’s the safest walking protocol peripheral artery disease elderly for someone with diabetes and claudication?
 The safest approach uses intermittent walking guided by RPE (not heart rate), starting at 80–95 steps/minute on flat ground, stopping *before* claudication peaks (RPE 3–4), and resting standing until symptoms fully resolve — typically 1.5–2 minutes. Rest-interval ratios of 1:1.5 to 1:2 are most sustainable for beginners.
 
-#### #### Can walking worsen peripheral artery disease in older adults with diabetes?
+#### Can walking worsen peripheral artery disease in older adults with diabetes?
 No — when done correctly, walking *improves* PAD outcomes. Supervised treadmill walking is actually a first-line treatment endorsed by the American Heart Association. The key is avoiding prolonged ischemia (oxygen deprivation), which is why rest-interval pacing is essential — it allows recovery *between* bouts of demand.
 
-#### #### How do I know if my walking protocol peripheral artery disease elderly is working?
+#### How do I know if my walking protocol peripheral artery disease elderly is working?
 Look for gradual improvements over 4–6 weeks: longer walking intervals before needing rest, faster symptom resolution during rest, less overall fatigue, and improved daily mobility (e.g., climbing stairs without stopping). Stable or improving HbA1c and ABI readings also signal benefit.
 
-#### #### Should I use a heart rate monitor for my walking routine with PAD?
+#### Should I use a heart rate monitor for my walking routine with PAD?
 Not as your primary guide. Autonomic neuropathy (common in long-standing diabetes) and medications like beta-blockers can suppress or distort heart rate response. RPE is more reliable and validated in PAD-specific gait research for adults 70+.
 
-#### #### Is barefoot walking ever safe for seniors with diabetes and mild PAD?
+#### Is barefoot walking ever safe for seniors with diabetes and mild PAD?
 No. Barefoot or minimalist footwear increases risk of undetected trauma, blistering, and ulceration — especially with reduced sensation (neuropathy) and impaired healing. Always wear supportive, well-fitted shoes with cushioned soles.

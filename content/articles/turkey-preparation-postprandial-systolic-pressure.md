@@ -54,17 +54,17 @@ In conclusion, small adjustments in turkey preparation can meaningfully influenc
 
 ### FAQ
 
-#### #### Does roasted turkey raise blood pressure more than baked turkey breast?
+#### Does roasted turkey raise blood pressure more than baked turkey breast?
 Yes—especially when roasted at high heat with skin and added salt. High-temperature roasting increases AGEs, and skin contributes saturated fat. Baked or slow-roasted lean turkey breast (without added sodium) tends to produce smaller postprandial systolic increases—typically 5–12 mm Hg versus 15–25 mm Hg for traditional preparations.
 
-#### #### How does turkey preparation postprandial systolic pressure differ in seniors with ISH vs. younger adults?
+#### How does turkey preparation postprandial systolic pressure differ in seniors with ISH vs. younger adults?
 Older adults with ISH show blunted baroreflex sensitivity and slower vascular recovery. Where a healthy 40-year-old may see a 5–8 mm Hg systolic rise that resolves in 45 minutes, adults 62+ with ISH often experience a 12–22 mm Hg rise lasting 90–120 minutes—due to age-related declines in endothelial function and arterial elasticity.
 
-#### #### Can mushroom reduction lower post-meal blood pressure compared to traditional gravy?
+#### Can mushroom reduction lower post-meal blood pressure compared to traditional gravy?
 Emerging evidence suggests yes—particularly in older adults. Mushroom reductions contribute potassium (~300 mg per ½ cup), ergothioneine, and beta-glucans, all associated with improved endothelial function. In small pilot studies, participants with ISH saw average postprandial systolic reductions of 7–10 mm Hg when substituting mushroom reduction for traditional flour-thickened gravy.
 
-#### #### Is turkey inherently bad for high blood pressure?
+#### Is turkey inherently bad for high blood pressure?
 No—turkey itself is naturally low in sodium and rich in potassium and B vitamins. The concern lies not in the meat, but in *how it’s prepared*: brining, curing, frying, or pairing with high-sodium, high-AGE accompaniments. Unprocessed, skinless turkey breast is among the most heart-friendly holiday proteins available.
 
-#### #### What’s the best way to test my personal turkey preparation postprandial systolic pressure response?
+#### What’s the best way to test my personal turkey preparation postprandial systolic pressure response?
 Conduct a controlled self-test: measure baseline BP after 5 minutes of rest, eat a standardized portion (e.g., 4 oz herb-roasted turkey breast + ½ cup mushroom reduction + ½ cup steamed green beans), then record BP at 30, 60, and 90 minutes. Repeat with traditional preparation one week later—keeping all other variables identical.

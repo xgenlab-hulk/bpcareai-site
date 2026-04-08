@@ -81,22 +81,22 @@ Improving insulin sensitivity doesn’t always mean pushing harder—it can mean
 
 ### FAQ
 
-#### #### Can insulin sensitivity improve without exercise in older adults?
+#### Can insulin sensitivity improve without exercise in older adults?
 
 Yes—multiple RCTs confirm it. In adults aged 70+, mild cold exposure, post-meal standing, and morning blue-light exposure each led to measurable improvements in glucose disposal and insulin signaling—without any structured physical activity. These approaches work by activating AMPK and GLUT4 in skeletal muscle through non-mechanical triggers.
 
-#### #### What are the best natural ways to improve insulin sensitivity without exercise elderly?
+#### What are the best natural ways to improve insulin sensitivity without exercise elderly?
 
 The three best-evidence strategies are: (1) 10–15 minutes of cool-air exposure (~15–16°C) after dinner; (2) standing for 12–15 minutes within 30 minutes of finishing a meal; and (3) 20–30 minutes of natural or blue-enriched light within 60 minutes of waking. All were tested in adults 70+ and shown to improve markers like HbA1c, postprandial glucose, and fasting insulin.
 
-#### #### Does standing after eating really help insulin sensitivity without exercise elderly?
+#### Does standing after eating really help insulin sensitivity without exercise elderly?
 
 Absolutely—and it’s one of the most practical. A 2022 RCT found that sedentary adults aged 74±3 who stood for 15 minutes after each main meal lowered their 2-hour postprandial glucose by an average of 28 mg/dL compared to seated controls. The effect is thought to come from subtle muscle engagement and improved splanchnic blood flow—not calorie burning.
 
-#### #### Is cold exposure safe for seniors with high blood pressure?
+#### Is cold exposure safe for seniors with high blood pressure?
 
 Mild cold exposure (15–16°C / 59–61°F) is generally safe for most older adults—including those with stable hypertension—but should be avoided during acute illness, heart failure exacerbation, or uncontrolled arrhythmias. Always start gradually, keep extremities warm, and stop if you feel chest tightness or dizziness. Discuss with your doctor first if you have cardiovascular concerns.
 
-#### #### How long does it take to see changes in insulin sensitivity without exercise?
+#### How long does it take to see changes in insulin sensitivity without exercise?
 
 Most RCTs observed measurable improvements in glucose control and insulin markers within 4–8 weeks of consistent practice. However, benefits begin at the cellular level much sooner—AMPK activation occurs within minutes of cold or posture change. Consistency matters more than intensity: doing these habits 5–6 days/week delivers better results than occasional “perfect” efforts.

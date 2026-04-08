@@ -76,22 +76,22 @@ Recognizing blood sugar variability gastroparesis signs doesn’t mean things ar
 
 ### FAQ
 
-#### #### What are the earliest blood sugar variability gastroparesis signs?
+#### What are the earliest blood sugar variability gastroparesis signs?
 
 Early signs include prolonged glucose nadirs (>3 hrs post-meal), inverted dawn phenomenon (overnight lows instead of rises), and meal-to-meal glucose coefficient of variation consistently above 42%—especially when paired with subtle symptoms like early fullness or bloating.
 
-#### #### Can blood sugar variability gastroparesis signs appear even without nausea or vomiting?
+#### Can blood sugar variability gastroparesis signs appear even without nausea or vomiting?
 
 Yes—absolutely. Up to 40% of people with confirmed gastroparesis on gastric emptying studies report *no* classic GI symptoms. That’s why CGM pattern analysis is so important, particularly in older adults with long-standing diabetes.
 
-#### #### How does holiday diabetes management affect blood sugar variability gastroparesis signs?
+#### How does holiday diabetes management affect blood sugar variability gastroparesis signs?
 
 Holiday routines—larger meals, higher-fat foods, irregular timing, and added stress—can amplify underlying gastric motility delays. This makes blood sugar variability gastroparesis signs more visible on CGM, even if symptoms remain mild.
 
-#### #### Is gastroparesis reversible in people with long-term T1D?
+#### Is gastroparesis reversible in people with long-term T1D?
 
 While nerve damage isn’t fully reversible, gastric motility *can* improve significantly with optimized glucose control, dietary adjustments (like lower-fat, smaller meals), and sometimes medications. Early detection gives you the best chance to slow progression.
 
-#### #### Does blood pressure play a role in gastroparesis detection?
+#### Does blood pressure play a role in gastroparesis detection?
 
 Indirectly—yes. Autonomic neuropathy often affects both gastric motility *and* cardiovascular regulation. Orthostatic hypotension or abnormal heart rate variability may signal broader autonomic involvement—and warrant closer GI evaluation.

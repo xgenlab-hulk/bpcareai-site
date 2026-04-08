@@ -68,17 +68,17 @@ In summary, magnesium balance is a quiet cornerstone of heart rhythm health—es
 
 ### FAQ
 
-#### #### Can holiday eating really trigger atrial fibrillation in seniors on PPIs?  
+#### Can holiday eating really trigger atrial fibrillation in seniors on PPIs?  
 Yes—particularly through magnesium depletion. High-carbohydrate meals and alcohol increase urinary magnesium loss, while long-term PPIs impair intestinal absorption. This combination raises AFib recurrence risk, especially in those already diagnosed.
 
-#### #### What is hypomagnesemia holiday atrial fibrillation seniors—and how common is it?  
+#### What is hypomagnesemia holiday atrial fibrillation seniors—and how common is it?  
 *Hypomagnesemia holiday atrial fibrillation seniors* refers to low magnesium levels triggered by seasonal lifestyle changes in older adults with AFib and chronic PPI use. While exact prevalence isn’t tracked nationally, studies suggest up to 25% of seniors on long-term PPIs have suboptimal magnesium—and holiday-related exacerbations are underrecognized but clinically meaningful.
 
-#### #### Does magnesium supplementation help prevent AFib during the holidays?  
+#### Does magnesium supplementation help prevent AFib during the holidays?  
 Not as a standalone “preventive pill”—but correcting documented deficiency *does* improve rhythm stability and supports antiarrhythmic therapy. Always consult your provider before starting supplements, especially if you have kidney disease or take digoxin.
 
-#### #### Why doesn’t my ECG show problems even though I feel off during the holidays?  
+#### Why doesn’t my ECG show problems even though I feel off during the holidays?  
 Because QTc prolongation—the classic ECG sign of severe hypomagnesemia—usually appears only when serum magnesium falls below 1.4 mg/dL. Subtle symptoms like fatigue, anxiety, or skipped beats may precede visible changes by days or weeks.
 
-#### #### Is hypomagnesemia holiday atrial fibrillation seniors linked to blood pressure spikes?  
+#### Is hypomagnesemia holiday atrial fibrillation seniors linked to blood pressure spikes?  
 Indirectly, yes. Magnesium helps regulate vascular tone and endothelial function. Deficiency is associated with higher systolic BP variability—another reason consistent intake of magnesium-rich foods supports *healthy holiday eating for seniors*.

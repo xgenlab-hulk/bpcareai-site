@@ -59,22 +59,22 @@ In short, gut metabolites myocardial fibrosis reflects a dynamic, modifiable con
 
 ### FAQ
 
-#### #### Can gut metabolites myocardial fibrosis be reversed with diet?
+#### Can gut metabolites myocardial fibrosis be reversed with diet?
 
 Yes—studies suggest dietary shifts (like increasing fiber and reducing red meat) can lower TMAO and raise protective metabolites like IPA within 10 days. While existing fibrosis may not fully reverse, progression often slows or stabilizes with consistent lifestyle support.
 
-#### #### What are the best tests for gut metabolites myocardial fibrosis?
+#### What are the best tests for gut metabolites myocardial fibrosis?
 
 Cardiac MRI with T1 mapping is the most accurate way to detect subclinical fibrosis. For gut metabolites, blood TMAO testing is clinically available; stool metabolite panels (including IPA) are offered by select specialty labs and research centers.
 
-#### #### How does metabolic syndrome increase risk for gut metabolites myocardial fibrosis?
+#### How does metabolic syndrome increase risk for gut metabolites myocardial fibrosis?
 
 Metabolic syndrome creates a pro-inflammatory, insulin-resistant environment that reshapes the gut microbiome—often reducing beneficial bacteria that make IPA and increasing microbes that generate TMAO. This double effect may accelerate early heart tissue changes.
 
-#### #### Is TMAO the only harmful gut metabolite linked to heart health?
+#### Is TMAO the only harmful gut metabolite linked to heart health?
 
 No—others include phenylacetylglutamine (PAGln) and certain secondary bile acids. But TMAO remains the most extensively studied in relation to myocardial fibrosis and cardiovascular outcomes.
 
-#### #### At what age should I start thinking about the gut-heart axis?
+#### At what age should I start thinking about the gut-heart axis?
 
 It’s never too early—or too late—to support this connection. For adults over 50, especially those with metabolic syndrome, focusing on gut-friendly eating and regular movement offers meaningful, evidence-backed benefits for long-term heart resilience. If you're unsure, talking to your doctor is always a good idea.

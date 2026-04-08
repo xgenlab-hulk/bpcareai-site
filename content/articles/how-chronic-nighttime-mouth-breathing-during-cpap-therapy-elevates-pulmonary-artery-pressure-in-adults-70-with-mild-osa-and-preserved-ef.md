@@ -71,22 +71,22 @@ In summary, mouth breathing cpap pulmonary artery pressure is a quiet but meanin
 
 ### FAQ
 
-#### #### Does mouth breathing during CPAP cause pulmonary hypertension?
+#### Does mouth breathing during CPAP cause pulmonary hypertension?
 
 Yes — chronic mouth breathing can contribute to *early-stage* pulmonary vascular changes, especially in older adults. It doesn’t always meet formal diagnostic criteria for pulmonary arterial hypertension (PAH), but it *can* elevate pulmonary artery pressure above normal ranges (e.g., mPAP >20 mm Hg) over time due to repeated nocturnal hypoxemia and increased right ventricular afterload.
 
-#### #### How does mouth breathing CPAP pulmonary artery pressure differ from regular high blood pressure?
+#### How does mouth breathing CPAP pulmonary artery pressure differ from regular high blood pressure?
 
 They’re entirely different systems: systemic blood pressure reflects force against arteries *throughout the body*, while pulmonary artery pressure measures resistance in the vessels *between the heart and lungs*. Mouth breathing CPAP pulmonary artery pressure specifically affects the right ventricle — and unlike systemic hypertension, it won’t show up on your arm cuff.
 
-#### #### Can mouth breathing CPAP pulmonary artery pressure improve with treatment?
+#### Can mouth breathing CPAP pulmonary artery pressure improve with treatment?
 
 Yes — many people see measurable improvements in estimated pulmonary pressures (via echo) and symptom relief within 3–6 months of switching to nasal-only delivery (e.g., chin strap + humidification), especially when combined with supervised breathing retraining.
 
-#### #### Is mouth breathing during CPAP dangerous for someone with mild sleep apnea?
+#### Is mouth breathing during CPAP dangerous for someone with mild sleep apnea?
 
 It’s not immediately dangerous, but it *is* physiologically consequential — particularly for adults 70+. Mild OSA doesn’t mean low risk when layered with age-related vascular changes and chronic upper airway resistance.
 
-#### #### What’s the best way to know if mouth breathing is affecting my heart?
+#### What’s the best way to know if mouth breathing is affecting my heart?
 
 Start with a conversation with your sleep or cardiology provider about adding a focused echocardiogram — specifically asking for TRV measurement and right ventricular size assessment. Pair that with reviewing your CPAP leak data and overnight oximetry trends.

@@ -92,17 +92,17 @@ The goal isn’t to eliminate every trace of sodium. It’s to recognize **hidde
 
 ### FAQ  
 
-#### #### What are the top hidden sodium holiday meals insulin resistance sources for people with diabetes?  
+#### What are the top hidden sodium holiday meals insulin resistance sources for people with diabetes?  
 The biggest stealth contributors include pre-brined turkey (even after rinsing), canned broths with flavor enhancers like disodium inosinate, baking powder in gluten-free desserts, smoked cheese rinds, and cured olives in appetizer platters. Each adds hundreds of milligrams per serving—without tasting overtly salty.
 
-#### #### How does hidden sodium holiday meals insulin resistance affect blood sugar control?  
+#### How does hidden sodium holiday meals insulin resistance affect blood sugar control?  
 Excess sodium promotes fluid retention and low-grade inflammation, both of which interfere with insulin signaling in skeletal muscle and adipose tissue. NHANES subanalysis shows adults 55–64 with stage 1 hypertension saw a 27% greater decline in HOMA-IR scores over 12 months when sodium exceeded 3,000 mg/day—even with stable weight and activity.
 
-#### #### Can reducing hidden sodium holiday meals insulin resistance lower my blood pressure *and* improve insulin sensitivity?  
+#### Can reducing hidden sodium holiday meals insulin resistance lower my blood pressure *and* improve insulin sensitivity?  
 Yes—consistently. The DASH-Sodium trial demonstrated that cutting sodium from 3,300 mg to 1,500 mg/day lowered systolic BP by 5–7 mm Hg *and* improved fasting insulin levels by 11% in adults with metabolic syndrome. Benefits were strongest in those aged 50+.
 
-#### #### Is homemade gravy always safer than store-bought?  
+#### Is homemade gravy always safer than store-bought?  
 Not automatically—if you use canned broth or bouillon cubes. Homemade is safer *only* when built from scratch with low-sodium stock (simmered bones/veggies), natural thickeners (arrowroot, pureed cauliflower), and no added salt or preservatives.
 
-#### #### Do “low-sodium” labels guarantee safety for someone with both hypertension and diabetes?  
+#### Do “low-sodium” labels guarantee safety for someone with both hypertension and diabetes?  
 Not always. “Low sodium” means ≤140 mg per serving—but many products still contain sodium-based preservatives or flavor enhancers that impact insulin signaling independently. Always scan the full ingredient list, not just the front-of-package claim.

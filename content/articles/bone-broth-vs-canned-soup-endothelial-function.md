@@ -69,22 +69,22 @@ Choosing what to eat shouldn’t feel like navigating a minefield—especially w
 
 ### FAQ
 
-#### #### Does bone broth really improve endothelial function in older adults?
+#### Does bone broth really improve endothelial function in older adults?
 
 Yes—according to the 2022 Endothelial Health Trial substudy, adults aged 71+ with mild hypertension who consumed 24-hour bone broth daily for 12 weeks showed statistically significant improvements in flow-mediated dilation (+3.1 percentage points) compared to those eating low-sodium canned soup. Benefits were linked to improved nitric oxide bioavailability and lower dietary AGE load—provided the broth was prepared at gentle, consistent heat.
 
-#### #### Is bone broth vs canned soup endothelial function relevant for people with normal blood pressure?
+#### Is bone broth vs canned soup endothelial function relevant for people with normal blood pressure?
 
 Absolutely. Endothelial health declines gradually with age—even in the absence of hypertension. Early support through diet can help maintain vascular elasticity and microcirculation, reducing future risk of cognitive decline, frailty, and silent organ damage. The *bone broth vs canned soup endothelial function* comparison offers insight into how everyday choices influence long-term vascular resilience.
 
-#### #### Can I get similar benefits from store-bought bone broth?
+#### Can I get similar benefits from store-bought bone broth?
 
 Most commercial bone broths are pressure-cooked at high temperatures (often >120°C) for speed, increasing AGE content significantly—sometimes exceeding that of canned soups. Look for refrigerated, certified organic brands that specify “slow-simmered” and list minimal ingredients (bones, water, vinegar, vegetables). Even better: make your own using a slow cooker set to “low” (not “high”) for 24–48 hours.
 
-#### #### How much sodium is too much for someone with mild hypertension?
+#### How much sodium is too much for someone with mild hypertension?
 
 For adults 71+, current guidelines (ACC/AHA 2017) recommend limiting sodium to <1,500 mg/day for optimal BP control—though <2,300 mg/day remains the general upper limit. Importantly, potassium intake (aim for ≥3,500 mg/day from foods like sweet potatoes, spinach, and white beans) helps counterbalance sodium’s effects on endothelial function.
 
-#### #### Are there risks to drinking bone broth daily?
+#### Are there risks to drinking bone broth daily?
 
 For most healthy older adults, daily bone broth is safe. However, those with stage 3+ chronic kidney disease (eGFR <60) should consult a nephrologist first—bone broth is naturally high in phosphorus and potassium. Also, avoid broths made with roasted bones or added monosodium glutamate (MSG), as both elevate AGEs and may trigger migraines or palpitations in sensitive individuals.

@@ -81,17 +81,17 @@ Lowering diastolic blood pressure doesn’t always require medication—and it c
 
 ### FAQ
 
-#### #### What is the best breathing for diastolic blood pressure in older adults?
+#### What is the best breathing for diastolic blood pressure in older adults?
 Research in adults aged 59–74 identifies resonant breathing (5.5 breaths per minute) as the most consistently effective for lowering diastolic BP—averaging a 6.3 mm Hg drop within 4 minutes. Paced exhalation (1:2 ratio) offers the fastest onset, while cyclic sighing excels during acute stress. All are safe and evidence-based.
 
-#### #### Can breathing exercises lower diastolic blood pressure immediately?
+#### Can breathing exercises lower diastolic blood pressure immediately?
 Yes—real-time PPG studies confirm that properly paced breathing can reduce diastolic BP by 4–8 mm Hg within 90–300 seconds. These effects are mediated by enhanced baroreflex sensitivity and increased parasympathetic (vagal) activity, not just temporary relaxation.
 
-#### #### Is there a specific breathing pattern recommended for high diastolic blood pressure?
+#### Is there a specific breathing pattern recommended for high diastolic blood pressure?
 For isolated or elevated diastolic hypertension (e.g., ≥85 mm Hg), paced exhalation (inhale 4 sec, exhale 8 sec) and resonant breathing (inhale/exhale 5.5 sec each) show the strongest evidence. Both improve vagal tone and reduce peripheral vascular resistance—key drivers of diastolic pressure.
 
-#### #### How often should I practice breathing to see lasting effects on my blood pressure?
+#### How often should I practice breathing to see lasting effects on my blood pressure?
 Daily practice yields the clearest benefits. Studies show measurable improvements in resting diastolic BP after 2–4 weeks of consistent 4-minute sessions. Longer-term adherence (3+ months) is associated with improved HRV and greater baroreflex resilience.
 
-#### #### Do I need special equipment to use the best breathing for diastolic blood pressure?
+#### Do I need special equipment to use the best breathing for diastolic blood pressure?
 No. All four evidence-based protocols require no devices—just a quiet space and a timer. For tracking impact, a validated upper-arm blood pressure monitor is helpful, but not essential. Finger PPG devices used in research are not needed for home practice.

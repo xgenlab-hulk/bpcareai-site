@@ -89,17 +89,17 @@ Unexplained weight gain in women over 55 with type 2 diabetes is rarely about wi
 
 ### FAQ
 
-#### #### Why am I gaining weight even though I’m eating the same amount and haven’t changed my diabetes meds?  
+#### Why am I gaining weight even though I’m eating the same amount and haven’t changed my diabetes meds?  
 This is a very common experience—and not a sign that you’re doing anything wrong. After menopause, shifts in estrogen, thyroid function, cortisol patterns, and even how fat tissue behaves can all influence weight—even with stable food intake. It’s your body adjusting, not failing.
 
-#### #### Is unexplained weight gain diabetes women 55+ a sign of heart problems?  
+#### Is unexplained weight gain diabetes women 55+ a sign of heart problems?  
 Not directly—but it *can* be one piece of a larger picture. For example, weight gain centered around the abdomen, especially with rising blood pressure or swelling, may reflect changes in fluid balance or vascular health. That’s why checking BP regularly and discussing trends with your provider matters.
 
-#### #### Could unexplained weight gain diabetes women 55+ be linked to my blood pressure medication?  
+#### Could unexplained weight gain diabetes women 55+ be linked to my blood pressure medication?  
 Some medications—including certain beta-blockers and thiazolidinediones (less commonly used now)—can contribute to modest weight gain. But since you mentioned no new medications, this is unlikely to be the main driver. Still, reviewing *all* prescriptions (including over-the-counter and supplements) with your clinician is always wise.
 
-#### #### What’s the difference between normal aging weight gain and something that needs evaluation?  
+#### What’s the difference between normal aging weight gain and something that needs evaluation?  
 Normal, age-related gain tends to be gradual—about 0.5–1 pound per year—and often centers around the midsection. Concern arises when gain is faster (e.g., 4–5 pounds in 6–8 weeks), accompanied by swelling, fatigue, or breathing changes—or when it feels disconnected from your daily habits.
 
-#### #### Does unexplained weight gain diabetes women 55+ mean my diabetes is getting worse?  
+#### Does unexplained weight gain diabetes women 55+ mean my diabetes is getting worse?  
 Not necessarily. Weight and blood sugar are related, but not perfectly linked. Some people see improved A1c with weight gain (e.g., if inflammation decreases), while others notice more variability. What matters most is your overall pattern—glucose trends, energy, and how you feel—not just the number on the scale.

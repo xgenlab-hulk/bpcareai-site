@@ -41,22 +41,22 @@ In all of this, remember: honoring your health doesn’t diminish your love for 
 
 ### FAQ
 
-#### #### How do I explain my low-sodium diet to older relatives without sounding critical?
+#### How do I explain my low-sodium diet to older relatives without sounding critical?
 
 Frame it as teamwork: “My doctor recommended cutting back on salt to keep my heart strong—and I’d love your help making it delicious!” Share a simple fact: “Just 1 teaspoon of salt has 2,300 mg of sodium—the max most of us need in a day.” Bring a low-sodium seasoning blend to cook with them—it turns education into shared activity.
 
-#### #### What’s the best way to handle discussing dietary limits with family at holiday dinners?
+#### What’s the best way to handle discussing dietary limits with family at holiday dinners?
 
 Prepare ahead: bring a dish you love and can eat freely, offer to help with prep (so you can suggest swaps like olive oil instead of butter), and rehearse a calm, positive phrase—e.g., “I’m celebrating *with* everyone, just eating a little differently this year.”
 
-#### #### My mom insists ‘food is medicine’—how do I gently correct her while respecting her beliefs?
+#### My mom insists ‘food is medicine’—how do I gently correct her while respecting her beliefs?
 
 Acknowledge her wisdom first: “You’re absolutely right—food *is* powerful medicine.” Then bridge: “That’s why my doctor and I are choosing foods that help lower my blood pressure, like beans and leafy greens. Could we try roasting sweet potatoes together this year?”
 
-#### #### Is it okay to decline food offered by elders without offending them?
+#### Is it okay to decline food offered by elders without offending them?
 
 Yes—when done with warmth and ritual. A light touch on the arm, eye contact, and saying, “This means so much—I’ll take just a tiny piece to honor your care,” preserves dignity on both sides. In many cultures, the *offer* itself is the gift—not the consumption.
 
-#### #### How can discussing dietary limits with family improve long-term heart health?
+#### How can discussing dietary limits with family improve long-term heart health?
 
 When conversations are grounded in shared goals—not rules—family members often become allies. Studies show adults with supportive home environments are 20% more likely to sustain heart-healthy eating patterns for 12+ months. That consistency directly supports arterial elasticity, stable BP, and reduced strain on the left ventricle.

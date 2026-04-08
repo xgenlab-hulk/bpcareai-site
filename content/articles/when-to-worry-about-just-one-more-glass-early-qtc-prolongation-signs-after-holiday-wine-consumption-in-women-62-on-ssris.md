@@ -65,17 +65,17 @@ In most cases, thoughtful moderation and collaboration with your care team make 
 
 ### FAQ
 
-#### #### Can one glass of wine really cause QT prolongation in women on SSRIs?
+#### Can one glass of wine really cause QT prolongation in women on SSRIs?
 Yes — especially in women over 60. Even a single 5-oz glass can elevate acetaldehyde and alter potassium channel activity, compounding the QT-prolonging effect of SSRIs like citalopram. Risk rises with age, lower body mass, and concurrent medications.
 
-#### #### What are the first signs of holiday wine qt prolongation ssri women?
+#### What are the first signs of holiday wine qt prolongation ssri women?
 Early signs include morning lightheadedness, delayed heart rate recovery after standing, and clusters of premature ventricular contractions (PVCs) overnight — not just racing heart or fainting.
 
-#### #### Is holiday wine qt prolongation ssri women reversible?
+#### Is holiday wine qt prolongation ssri women reversible?
 Typically yes — QTc usually normalizes within 3–7 days after stopping alcohol and optimizing electrolytes (especially potassium and magnesium). However, repeated exposure may lead to cumulative autonomic dysregulation.
 
-#### #### Does “holiday heart syndrome” include QT prolongation?
+#### Does “holiday heart syndrome” include QT prolongation?
 Yes — while traditionally associated with atrial fibrillation after binge drinking, emerging evidence shows *holiday heart syndrome* encompasses broader electrophysiological disruptions, including subclinical QTc prolongation — especially in older women on SSRIs.
 
-#### #### Are all SSRIs equally risky with wine?
+#### Are all SSRIs equally risky with wine?
 No. Citalopram and escitalopram carry the strongest FDA warnings for QT prolongation. Sertraline and fluoxetine pose lower — but not zero — risk, especially at higher doses or with alcohol. Always review your specific medication’s safety profile with your provider.

@@ -79,22 +79,22 @@ And remember: *plant-based vs mediterranean diet for diabetic neuropathy* isn’
 
 ### FAQ
 
-#### #### Is a plant-based diet better than Mediterranean for nerve pain in older men with diabetes?
+#### Is a plant-based diet better than Mediterranean for nerve pain in older men with diabetes?
 
 Research doesn’t declare a clear “winner”—but highlights different strengths. A plant-based low-glycemic plan often leads to greater short-term improvements in glucose control and symptom burden, especially for men with higher baseline HbA1c (>8.0%). The Mediterranean diet tends to show stronger benefits for small-fiber preservation and vascular health—key for men with coexisting hypertension or heart disease. Personal preference and sustainability matter most.
 
-#### #### Can switching to either diet reverse diabetic neuropathy?
+#### Can switching to either diet reverse diabetic neuropathy?
 
 No diet reverses established nerve damage—but both patterns have been shown in clinical studies to *slow progression*, improve nerve conduction velocity, and reduce symptom severity. Some men report meaningful relief in pain and tingling within 8–12 weeks, particularly when combined with optimized glucose management (HbA1c <7.0%) and daily foot care.
 
-#### #### What’s the best way to start a plant-based vs mediterranean diet for diabetic neuropathy without feeling overwhelmed?
+#### What’s the best way to start a plant-based vs mediterranean diet for diabetic neuropathy without feeling overwhelmed?
 
 Begin with “swap-not-stop”: replace one refined grain daily with a whole grain (brown rice instead of white), add one serving of non-starchy vegetables to lunch and dinner, and choose unsweetened plant milk or plain Greek yogurt instead of sugary dairy alternatives. Work with a registered dietitian familiar with diabetes and aging—they can personalize portions, adjust for kidney health or medication interactions (like metformin and B12), and keep it practical.
 
-#### #### Do I need supplements if I follow one of these diets?
+#### Do I need supplements if I follow one of these diets?
 
 Possibly—but not automatically. Both patterns provide abundant B1, B6, B12, folate, and vitamin D *if well-planned*. However, men over 65 often absorb B12 less efficiently, and metformin use increases deficiency risk. A simple blood test can guide whether a B12 supplement (1,000 mcg sublingual or oral daily) is right for you. Alpha-lipoic acid (600 mg/day) has solid evidence for symptom relief—but talk to your doctor first, especially if you take thyroid meds or chemotherapy.
 
-#### #### How long before I notice changes in my neuropathy symptoms?
+#### How long before I notice changes in my neuropathy symptoms?
 
 Most men in clinical trials begin reporting reduced burning or tingling around week 6–8, with more consistent improvements in balance and daily function by month 3. Objective measures—like nerve conduction velocity—typically show change after 4–6 months. Patience and consistency are key: nerves regenerate slowly, at about 1–2 mm per day.

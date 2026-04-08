@@ -54,22 +54,22 @@ The holidays are meant to be joyful—not stressful for your heart. Small adjust
 
 ### FAQ
 
-#### #### Does late-night gift wrapping and afib stability really matter—or is it just stress?
+#### Does late-night gift wrapping and afib stability really matter—or is it just stress?
 
 Yes—it’s more than stress. Studies in adults 60+ show that even one night of delayed sleep combined with sustained seated activity increases nocturnal heart rate variability disruption, which independently correlates with higher AFib burden. It’s the *combination*, not just the emotion.
 
-#### #### Can late-night gift wrapping and afib stability affect my blood pressure too?
+#### Can late-night gift wrapping and afib stability affect my blood pressure too?
 
 Absolutely. Evening BP tends to dip naturally (the “nocturnal dip”). Disrupted sleep and blue light blunt that dip—leading to non-dipping patterns (BP staying ≥120/70 mm Hg overnight), which raises stroke risk in AFib patients by nearly 2-fold.
 
-#### #### Is there a safe time window for gift wrapping if I have AFib?
+#### Is there a safe time window for gift wrapping if I have AFib?
 
 For most adults 60–80 with AFib, wrapping between 4 p.m. and 8 p.m. aligns best with natural circadian rhythms, melatonin onset, and vagal dominance—making it the safest window for both heart rhythm and rest.
 
-#### #### What’s the link between “holiday heart syndrome” and AFib?
+#### What’s the link between “holiday heart syndrome” and AFib?
 
 Holiday heart syndrome traditionally refers to alcohol-induced arrhythmias—but clinicians now use the term more broadly to describe *any* acute rhythm disturbance triggered by seasonal factors: sleep loss, sodium spikes (think gravy and ham), emotional stress, *and* circadian disruption—including late-night gift wrapping and afib stability concerns.
 
-#### #### Do I need special equipment to monitor this?
+#### Do I need special equipment to monitor this?
 
 No. A basic wrist pulse check (60 seconds), a notebook, and awareness of how you feel before/during/after wrapping are often enough to spot patterns. If irregular pulses persist, your care team may recommend a 7-day event monitor for deeper insight.

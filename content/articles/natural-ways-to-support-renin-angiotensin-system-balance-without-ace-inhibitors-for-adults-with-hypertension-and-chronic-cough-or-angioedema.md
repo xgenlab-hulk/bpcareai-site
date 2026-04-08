@@ -82,22 +82,22 @@ Supporting your body’s innate capacity for *renin angiotensin balance natural 
 
 ### FAQ
 
-#### #### Can renin angiotensin balance natural alternatives really lower blood pressure without medication?
+#### Can renin angiotensin balance natural alternatives really lower blood pressure without medication?
 
 Yes—when applied consistently and appropriately. Clinical trials show that combined dietary, fasting, and vagal-enhancing strategies can reduce systolic BP by 5–12 mm Hg over 8–12 weeks in adults with stage 1 hypertension. These effects are most pronounced in those with elevated renin activity or sympathetic dominance—and they work best alongside regular monitoring and medical guidance.
 
-#### #### What foods best support renin angiotensin balance natural alternatives?
+#### What foods best support renin angiotensin balance natural alternatives?
 
 Top choices include potassium- and magnesium-rich whole plant foods: leafy greens (spinach, chard), bananas, white beans, avocados, almonds, and pumpkin seeds. Pair them with low-sodium preparation and avoid ultra-processed items high in hidden sodium and phosphates, which stimulate renin release. Cooking methods matter too—steaming or sautéing preserves mineral bioavailability better than boiling.
 
-#### #### Are there risks to trying renin angiotensin balance natural alternatives if I have kidney disease?
+#### Are there risks to trying renin angiotensin balance natural alternatives if I have kidney disease?
 
 Caution is essential. While potassium- and magnesium-rich foods are beneficial for most, adults with moderate-to-severe CKD (eGFR <45 mL/min/1.73m²) may need individualized guidance to avoid hyperkalemia or hypermagnesemia. Always discuss dietary changes with your nephrologist or primary care provider—and get baseline electrolyte and renal function labs before beginning major shifts.
 
-#### #### How long does it take to see results from renin angiotensin balance natural alternatives?
+#### How long does it take to see results from renin angiotensin balance natural alternatives?
 
 Most people begin noticing improvements in energy, sleep, or reduced dizziness within 2–4 weeks. Measurable BP changes typically emerge after 6–8 weeks of consistent practice. Because RAS modulation involves gene expression, nervous system retraining, and cellular adaptation, patience and repetition are key—not signs of ineffectiveness.
 
-#### #### Can timed fasting help with ACE inhibitor–related cough or angioedema?
+#### Can timed fasting help with ACE inhibitor–related cough or angioedema?
 
 Timed fasting itself doesn’t reverse prior ACE inhibitor reactions—but it *does* support healthier RAS tone without affecting bradykinin metabolism. Since cough and angioedema stem from bradykinin accumulation (not angiotensin II), shifting to non-ACE pathways—like vagally mediated renin suppression or AT1R downregulation—offers a parallel route to BP control without triggering those side effects.

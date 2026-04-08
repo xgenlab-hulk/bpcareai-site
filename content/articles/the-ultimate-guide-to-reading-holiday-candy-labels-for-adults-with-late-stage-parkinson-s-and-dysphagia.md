@@ -58,17 +58,17 @@ In the spirit of the season, know that safety and sweetness aren’t opposites. 
 
 ### FAQ
 
-#### #### What are the safest holiday candies for someone with Parkinson’s and dysphagia?  
+#### What are the safest holiday candies for someone with Parkinson’s and dysphagia?  
 Look for smooth, low-viscosity options that melt predictably—like pureed fruit leather (without added pectin), softened marshmallow fluff swirled into warm oat milk, or finely ground nut butter stirred into warm banana “nice cream.” Avoid anything chewy, sticky, or coated in wax or confectioner’s glaze.
 
-#### #### How does holiday candy dysphagia parkinsons differ from general swallowing difficulty?  
+#### How does holiday candy dysphagia parkinsons differ from general swallowing difficulty?  
 In Parkinson’s, dysphagia involves both motor delay (slowed initiation of the swallow reflex) and sensory decline (reduced ability to detect residue or temperature changes). This makes certain holiday candies—especially those with cooling agents or variable melt points—more hazardous than in other causes of dysphagia.
 
-#### #### Can sugar-free holiday candy be safe for people with holiday candy dysphagia parkinsons?  
+#### Can sugar-free holiday candy be safe for people with holiday candy dysphagia parkinsons?  
 Often, no—many sugar-free candies contain sugar alcohols that trigger a cooling sensation, masking oral awareness and delaying the swallow trigger. They may also cause gas or bloating, increasing reflux risk, which further complicates swallowing safety.
 
-#### #### Are there certified dysphagia-friendly holiday treats available?  
+#### Are there certified dysphagia-friendly holiday treats available?  
 Yes—some dietitians and SLPs recommend IDDSI Level 3 (liquidized) or Level 4 (pureed) holiday recipes, and several university medical centers publish free, evidence-based holiday menus aligned with the International Dysphagia Diet Standardisation Initiative (IDDSI) framework.
 
-#### #### Does dysphagia get worse during the holidays?  
+#### Does dysphagia get worse during the holidays?  
 Not inherently—but increased social eating, rushed meals, drier indoor air, and unfamiliar foods can compound challenges. Planning ahead—like pre-portioning safe treats or bringing your own modified option to gatherings—supports consistency and confidence.

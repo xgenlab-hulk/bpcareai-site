@@ -60,17 +60,17 @@ In short, movement is wonderful—and essential—for heart, kidney, and metabol
 
 ### FAQ
 
-#### #### Are energy gels safe for people with diabetes and stage 2 CKD?
+#### Are energy gels safe for people with diabetes and stage 2 CKD?
 Not typically. Most commercial energy gels carry high maltodextrin, hidden phosphate, and variable potassium—all of which challenge kidney and glucose regulation. The *energy gels diabetes stage 2 ckd* combination requires careful review with your nephrologist or endocrinologist before use.
 
-#### #### What’s the best alternative to energy gels diabetes stage 2 ckd?
+#### What’s the best alternative to energy gels diabetes stage 2 ckd?
 Whole-food options like a small banana with nut butter or unsalted oats offer steady glucose release, minimal phosphate load, and no added potassium. These align with guidelines from both ADA and NKF for stage 2 CKD and diabetes.
 
-#### #### Can I use electrolyte gels if I have diabetes and CKD stage 2?
+#### Can I use electrolyte gels if I have diabetes and CKD stage 2?
 Caution is strongly advised. Many “electrolyte” gels contain potassium, phosphate buffers, and high-glycemic carbs. Unless prescribed and dosed specifically for your labs (e.g., confirmed hypokalemia), they’re not recommended. Always confirm with your care team.
 
-#### #### Do energy gels raise blood pressure in people with CKD and diabetes?
+#### Do energy gels raise blood pressure in people with CKD and diabetes?
 Indirectly—yes. Phosphate load promotes vascular calcification and arterial stiffness, while glucose spikes increase sympathetic nervous system activity. Both contribute to higher BP over time—especially relevant in *energy gels diabetes stage 2 ckd* scenarios.
 
-#### #### How often should I check my potassium and phosphate if I’m active and managing diabetes + CKD?
+#### How often should I check my potassium and phosphate if I’m active and managing diabetes + CKD?
 At minimum, every 6 months—but more frequently (every 3 months) if you’re regularly using supplements, gels, or processed foods. Your care team may adjust based on eGFR trends or medication changes.

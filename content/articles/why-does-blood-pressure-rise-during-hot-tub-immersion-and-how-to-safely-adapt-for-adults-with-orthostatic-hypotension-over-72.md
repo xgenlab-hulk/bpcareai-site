@@ -59,22 +59,22 @@ In short, hot-tub immersion blood pressure orthostatic hypotension is a real, we
 
 ### FAQ
 
-#### #### Does hot-tub immersion blood pressure orthostatic hypotension affect everyone over 70?
+#### Does hot-tub immersion blood pressure orthostatic hypotension affect everyone over 70?
 
 No—not everyone experiences clinically significant drops, but physiological vulnerability increases with age. Roughly 30% of adults over 70 have some degree of orthostatic hypotension, and hot-tub immersion blood pressure orthostatic hypotension becomes more likely when combined with heat exposure and upright posture.
 
-#### #### Can hot-tub immersion blood pressure orthostatic hypotension cause fainting?
+#### Can hot-tub immersion blood pressure orthostatic hypotension cause fainting?
 
 Yes—especially during the transition from sitting to standing right after exiting. Fainting (syncope) occurs when cerebral perfusion drops sharply due to delayed autonomic compensation. This is why seated recovery time is critical.
 
-#### #### Is it safer to use a sauna instead of a hot tub if I have orthostatic hypotension?
+#### Is it safer to use a sauna instead of a hot tub if I have orthostatic hypotension?
 
 Not necessarily. Both saunas and hot tubs trigger vasodilation, but hot tubs add hydrostatic pressure—which *can* temporarily support venous return. Still, the thermal stress remains. Saunas may pose greater dehydration risk, while hot tubs carry higher orthostatic challenge upon exit. Individual tolerance varies—so testing with BP monitoring is key.
 
-#### #### What’s the safest water temperature for someone with orthostatic hypotension?
+#### What’s the safest water temperature for someone with orthostatic hypotension?
 
 Evidence supports keeping hot tub water at or below 100°F (37.8°C). Every 1°F above that increases cutaneous vasodilation and cardiovascular demand. At 102°F, average BP drop post-immersion doubles compared to 98°F.
 
-#### #### Can medications worsen hot-tub immersion blood pressure orthostatic hypotension?
+#### Can medications worsen hot-tub immersion blood pressure orthostatic hypotension?
 
 Yes—especially alpha-blockers (e.g., doxazosin), nitrates, certain antidepressants (e.g., trazodone), and diuretics. Always review your medication list with your prescriber before beginning regular hydrotherapy.

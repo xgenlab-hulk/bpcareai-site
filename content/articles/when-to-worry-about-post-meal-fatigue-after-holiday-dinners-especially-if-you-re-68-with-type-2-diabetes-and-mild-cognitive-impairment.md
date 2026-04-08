@@ -77,17 +77,17 @@ Feeling tired after a festive meal doesn’t mean your health is slipping—it m
 
 ### FAQ
 
-#### #### What causes post-meal fatigue in elderly people with diabetes?  
+#### What causes post-meal fatigue in elderly people with diabetes?  
 Post-meal fatigue in elderly people with diabetes often results from rapid glucose spikes after eating, reduced brain glucose uptake due to aging or mild cognitive impairment, and subtle inflammation. It’s not just “low energy”—it’s a sign your metabolic and neurological systems are interacting in ways worth noticing.
 
-#### #### Is post-meal fatigue diabetes elderly a sign of dementia progression?  
+#### Is post-meal fatigue diabetes elderly a sign of dementia progression?  
 Not necessarily. While persistent, unexplained fatigue *can* accompany cognitive changes, post-meal fatigue diabetes elderly is more commonly linked to glucose patterns—and often improves with dietary or timing adjustments. It’s best discussed with your care team as part of your overall picture.
 
-#### #### How can I tell if my post-meal fatigue is related to blood sugar?  
+#### How can I tell if my post-meal fatigue is related to blood sugar?  
 Try checking glucose 1 and 2 hours after eating for 3–5 meals. If fatigue consistently coincides with readings above 180 mg/dL (or below 70 mg/dL), there’s likely a connection. Pairing logs of symptoms and numbers makes patterns easier to spot.
 
-#### #### Can blood pressure affect post-meal fatigue in older adults with diabetes?  
+#### Can blood pressure affect post-meal fatigue in older adults with diabetes?  
 Yes—especially if BP drops slightly after eating (a phenomenon called postprandial hypotension, seen in up to 30% of adults over 70). This can compound fatigue and dizziness. Monitoring both glucose *and* BP after meals offers a fuller view.
 
-#### #### Are there foods I should avoid to reduce post-meal fatigue diabetes elderly?  
+#### Are there foods I should avoid to reduce post-meal fatigue diabetes elderly?  
 Focus less on strict avoidance and more on balance: limit large servings of white bread, mashed potatoes, sugary sauces, and desserts eaten alone. Instead, pair carbs with protein and fiber—for example, turkey with roasted Brussels sprouts and a small portion of whole-grain roll.

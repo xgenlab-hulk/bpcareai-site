@@ -52,17 +52,17 @@ In short, supporting stable glucose overnight doesn’t mean sacrificing comfort
 
 ### FAQ  
 
-#### #### What are the best low-glycemic snacks gastroparesis nighttime hypoglycemia options that won’t worsen reflux?  
+#### What are the best low-glycemic snacks gastroparesis nighttime hypoglycemia options that won’t worsen reflux?  
 The top three—backed by gastric retention and pH studies—are cooled potato starch gels, green banana flour crackers with digestive enzymes, and fermented lentil hummus. All are low-acid, high-resistant-starch, and timed for 90-minute pre-bed consumption.
 
-#### #### Can low-glycemic snacks gastroparesis nighttime help prevent waking up shaky or sweaty?  
+#### Can low-glycemic snacks gastroparesis nighttime help prevent waking up shaky or sweaty?  
 Yes—when properly timed and composed. These snacks provide slow, sustained glucose release without triggering rapid gastric dumping or reflux. In a 12-week pilot (n=42 women 65+), 78% reported fewer nocturnal hypoglycemia symptoms after adopting this approach.
 
-#### #### Are there low-glycemic snacks gastroparesis nighttime options safe for people with GERD?  
+#### Are there low-glycemic snacks gastroparesis nighttime options safe for people with GERD?  
 Absolutely. The key is avoiding acidity, fat overload, and fermentable fibers that produce gas. Cooled RS gels and fermented lentil hummus maintain near-neutral pH (5.9–6.8), making them far gentler than tomato-based salsas or raw onions.
 
-#### #### Why does cooling matter for potato starch snacks?  
+#### Why does cooling matter for potato starch snacks?  
 Cooling transforms digestible starch into resistant starch type 3 (RS3)—which resists breakdown in the small intestine, feeds beneficial gut bacteria, and releases glucose gradually. Reheating destroys most of this benefit.
 
-#### #### Can I use regular banana flour instead of green banana flour?  
+#### Can I use regular banana flour instead of green banana flour?  
 No—ripe banana flour has very little resistant starch (under 2g per ¼ cup) and higher sugar content. Green banana flour contains 4–5x more RS and significantly less free glucose—making it far more effective for *low-glycemic snacks gastroparesis nighttime hypoglycemia*.

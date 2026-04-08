@@ -90,22 +90,22 @@ Holiday traditions are meaningful—and your health doesn’t require perfection
 
 ### FAQ
 
-#### #### Does late-night gift wrapping hepatic insulin clearance affect people without NAFLD?
+#### Does late-night gift wrapping hepatic insulin clearance affect people without NAFLD?
 
 Generally, no—studies show minimal impact on fasting glucose in age-matched adults with healthy livers and normal insulin clearance capacity. The effect appears amplified specifically in the context of existing hepatic steatosis and age-related decline in cytochrome P450 activity.
 
-#### #### Can blue-light blocking glasses help reduce the impact of late-night gift wrapping hepatic insulin clearance?
+#### Can blue-light blocking glasses help reduce the impact of late-night gift wrapping hepatic insulin clearance?
 
 Yes—worn 90 minutes before planned bedtime, amber-tinted (not clear) blue-light blockers reduce melatonin suppression by up to 58%, helping restore nocturnal insulin receptor cycling in hepatocytes. Best used consistently—not just on wrapping nights.
 
-#### #### Is late-night gift wrapping hepatic insulin clearance linked to high blood pressure?
+#### Is late-night gift wrapping hepatic insulin clearance linked to high blood pressure?
 
 Indirectly, yes. Impaired hepatic insulin clearance elevates circulating insulin, which stimulates renal sodium reabsorption and sympathetic nervous system activity—both contributors to early-morning BP elevation. This connection is especially relevant for adults managing both NAFLD and hypertension.
 
-#### #### How long does it take for fasting glucose to return to baseline after stopping late-night wrapping?
+#### How long does it take for fasting glucose to return to baseline after stopping late-night wrapping?
 
 In most adults 62+ with NAFLD, fasting glucose normalizes within 2–3 days of shifting wrapping to before 9 p.m. and minimizing evening light exposure—assuming no other acute stressors (illness, medication changes, or significant sleep loss).
 
-#### #### Does caffeine consumed while wrapping gifts worsen late-night gift wrapping hepatic insulin clearance?
+#### Does caffeine consumed while wrapping gifts worsen late-night gift wrapping hepatic insulin clearance?
 
 Moderate caffeine (≤200 mg, e.g., one 12-oz cup of coffee) has negligible effect on hepatic insulin clearance in this context. However, caffeine *after* 4 p.m. may delay sleep onset, indirectly prolonging the window of suboptimal clearance—so timing matters more than dose.

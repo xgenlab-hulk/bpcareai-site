@@ -62,17 +62,17 @@ You don’t need drastic measures to support healthier blood pressure rhythms. W
 
 ### FAQ
 
-#### #### Can cold water on the face really lower systolic pressure within 90 minutes?  
+#### Can cold water on the face really lower systolic pressure within 90 minutes?  
 Yes—studies in adults 60–66 show cold-face immersion (12–15°C, 3 minutes) reliably contributes to a 7–12 mm Hg systolic reduction by 60–90 minutes, primarily via vagal activation. It’s most effective when paired with isometric handgrip.
 
-#### #### What’s the fastest way to lower systolic pressure within 90 minutes without pills?  
+#### What’s the fastest way to lower systolic pressure within 90 minutes without pills?  
 The dual protocol—cold-face immersion + isometric handgrip—is currently the best-evidenced non-pharmacologic method for lowering systolic pressure within 90 minutes in this age group, with ER validation and minimal side effects.
 
-#### #### Does isometric handgrip lower systolic pressure within 90 minutes for seniors?  
+#### Does isometric handgrip lower systolic pressure within 90 minutes for seniors?  
 Absolutely—when done correctly (30% MVC, 2 min squeeze/1 min rest × 2), it supports sustained systolic reductions of 8–14 mm Hg by the 90-minute mark, especially when timed after cold exposure.
 
-#### #### Is this safe if I have atrial fibrillation or pacemaker?  
+#### Is this safe if I have atrial fibrillation or pacemaker?  
 Not without medical clearance. While generally low-risk, cold-face immersion can affect heart rhythm regulation. Always consult your cardiologist first if you have arrhythmias, recent MI, or implanted devices.
 
-#### #### How often can I use this protocol?  
+#### How often can I use this protocol?  
 Once per day is recommended. Frequent repetition may blunt autonomic responsiveness. Focus instead on longer-term habits like morning sunlight exposure, consistent sodium moderation, and evening wind-down routines.

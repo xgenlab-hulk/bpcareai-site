@@ -49,22 +49,22 @@ Supporting the right ventricle isn’t about fixing a broken system—it’s abo
 
 ### FAQ
 
-#### #### Can natural methods really improve right ventricular adaptation copd seniors?
+#### Can natural methods really improve right ventricular adaptation copd seniors?
 
 Yes—studies show that targeted lifestyle interventions like inspiratory muscle training and dietary nitrates improve TAPSE and reduce pulmonary vascular resistance in older adults with mild COPD, even without pharmacologic therapy.
 
-#### #### What’s the best way to monitor right ventricular adaptation copd seniors at home?
+#### What’s the best way to monitor right ventricular adaptation copd seniors at home?
 
 You can’t directly measure TAPSE at home, but tracking functional indicators—like six-minute walk distance, perceived exertion (Borg scale), and resting oxygen saturation—provides valuable clues. Pair these with regular clinical echocardiograms every 12–24 months.
 
-#### #### Does right ventricular adaptation copd seniors affect blood pressure readings?
+#### Does right ventricular adaptation copd seniors affect blood pressure readings?
 
 Not directly—systemic BP reflects left-sided pressures. However, elevated pulmonary artery pressure may coexist with normal or even low systemic BP. That’s why isolated BP checks don’t tell the full story; RV-specific assessment requires echocardiography.
 
-#### #### Is beetroot juice safe for seniors with kidney concerns?
+#### Is beetroot juice safe for seniors with kidney concerns?
 
 Most older adults tolerate moderate beetroot intake well, but those with stage 3+ chronic kidney disease should consult their nephrologist first—due to potassium and nitrate load considerations.
 
-#### #### How does posture impact right ventricular adaptation in COPD?
+#### How does posture impact right ventricular adaptation in COPD?
 
 Slouched or kyphotic sitting increases intrapleural pressure and impedes RV filling. Upright, supported posture improves venous return and reduces RV afterload—making it a simple yet powerful daily habit for heart health.

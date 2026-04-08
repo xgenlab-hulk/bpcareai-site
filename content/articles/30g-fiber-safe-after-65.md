@@ -2,7 +2,7 @@
 title: Is 30g Fiber Safe After 65? Yes — If You Build Up Slowly
 slug: 30g-fiber-safe-after-65
 description: >-
-  Is 30g fiber safe after 65? Yes — when added gradually (just 2–3g/week).
+  Is 30g fiber safe after 65? Yes — when added gradually (just 2–3g/week). Seniors adding fiber this way saw 42% less constipation (JAMA, 2022).
   Seniors adding fiber this way saw 42% less constipation (JAMA, 2022). Start
   safely
 date: '2026-04-02'

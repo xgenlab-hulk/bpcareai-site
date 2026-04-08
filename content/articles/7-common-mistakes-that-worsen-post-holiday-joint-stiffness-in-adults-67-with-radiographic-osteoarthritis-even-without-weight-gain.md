@@ -49,22 +49,22 @@ If you're unsure, talking to your doctor is always a good idea. Small, consisten
 
 ### FAQ
 
-#### #### What are the most common holiday joint stiffness mistakes seniors make?
+#### What are the most common holiday joint stiffness mistakes seniors make?
 
 The top three include prolonged static sitting (especially during gift-wrapping or long car rides), consuming multiple high-oxalate foods in one day (like spinach salad + beetroot + almonds), and sleeping in rooms where temperature drops below 65°F overnight—each independently increasing joint resistance without causing weight gain.
 
-#### #### How can healthy holiday eating for seniors help reduce joint stiffness?
+#### How can healthy holiday eating for seniors help reduce joint stiffness?
 
 By prioritizing hydration, pairing oxalate-containing foods with calcium sources, and choosing warming, anti-inflammatory herbs (like turmeric in golden milk or ginger in oatmeal), seniors can support joint lubrication and reduce low-grade irritation—without eliminating favorite dishes.
 
-#### #### Do holiday joint stiffness mistakes seniors make affect blood pressure too?
+#### Do holiday joint stiffness mistakes seniors make affect blood pressure too?
 
 Yes—prolonged sitting and cold ambient temperatures both raise peripheral vascular resistance, which can temporarily elevate systolic BP by 5–10 mm Hg. That’s why staying gently active and keeping indoor temps stable supports both joint comfort *and* cardiovascular wellness.
 
-#### #### Is morning stiffness after the holidays normal for seniors with osteoarthritis?
+#### Is morning stiffness after the holidays normal for seniors with osteoarthritis?
 
 Some increase is common—but stiffness lasting over 30 minutes daily for more than 10 days warrants discussion with your care team. It may reflect modifiable triggers (like sleep temperature or hydration) rather than disease progression.
 
-#### #### Can I still enjoy holiday treats if I have osteoarthritis?
+#### Can I still enjoy holiday treats if I have osteoarthritis?
 
 Absolutely. Focus on portion mindfulness, savoring slowly, and pairing sweets with protein or fiber (like a small slice of pie with Greek yogurt) to avoid blood sugar spikes—which can indirectly influence inflammation and joint comfort.

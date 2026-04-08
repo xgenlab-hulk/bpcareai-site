@@ -63,22 +63,22 @@ Living well with type 2 diabetes and age-related metabolic shifts is absolutely 
 
 ### FAQ
 
-#### #### Which foods are proven AMPK activating foods for adipose inflammation in older adults?
+#### Which foods are proven AMPK activating foods for adipose inflammation in older adults?
 
 Based on human subcutaneous fat biopsy data from adults aged 57–73, the most consistently supported AMPK activating foods for adipose inflammation include crushed raw garlic, cold-pressed black cumin oil, green tea (especially matcha), and berberine-containing botanicals like goldenseal root — when prepared and dosed appropriately.
 
-#### #### Can AMPK activating foods for adipose inflammation help lower blood pressure?
+#### Can AMPK activating foods for adipose inflammation help lower blood pressure?
 
 Yes — indirectly but meaningfully. By reducing inflammatory adipokine release (e.g., leptin and resistin), these foods support healthier vascular tone and endothelial function. In clinical trials, participants following AMPK-supportive diets saw modest but consistent reductions in systolic blood pressure — averaging 5–8 mm Hg over 12 weeks — alongside improved insulin sensitivity.
 
-#### #### Are there any risks in using AMPK activating foods for adipose inflammation alongside diabetes medications?
+#### Are there any risks in using AMPK activating foods for adipose inflammation alongside diabetes medications?
 
 Most whole-food AMPK activators are safe when consumed in culinary amounts. However, concentrated forms — like high-dose berberine or black cumin oil — may enhance the effects of glucose-lowering medications (e.g., sulfonylureas or insulin), increasing hypoglycemia risk. Always discuss additions with your prescribing clinician, especially if you’re managing type 2 diabetes.
 
-#### #### Do I need a fat biopsy to know if AMPK activating foods for adipose inflammation are working?
+#### Do I need a fat biopsy to know if AMPK activating foods for adipose inflammation are working?
 
 No. While biopsies provide direct evidence in research settings, practical indicators include gradual improvements in fasting glucose, reduced waist circumference, more stable energy levels, and lower resting blood pressure over 8–12 weeks. Consistent home BP tracking and routine lab work (HbA1c, CRP) offer reliable, non-invasive feedback.
 
-#### #### Is AMPK activation only relevant for people with obesity or type 2 diabetes?
+#### Is AMPK activation only relevant for people with obesity or type 2 diabetes?
 
 Not at all. AMPK plays a foundational role in cellular energy balance across the lifespan. Even adults without metabolic diagnoses may benefit from AMPK-supportive foods — particularly as prevention against age-related decline in mitochondrial health and subtle increases in visceral fat. Think of it as long-term metabolic stewardship.

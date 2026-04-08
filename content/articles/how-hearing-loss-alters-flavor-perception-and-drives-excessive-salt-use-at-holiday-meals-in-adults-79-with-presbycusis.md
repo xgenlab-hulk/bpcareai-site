@@ -81,22 +81,22 @@ Flavor doesn’t disappear with age—it transforms. And when hearing changes, i
 
 ### FAQ
 
-#### #### Does hearing loss really make food taste different during holiday meals?
+#### Does hearing loss really make food taste different during holiday meals?
 
 Yes—especially for older adults. Reduced auditory input lowers the brain’s ability to integrate sound with taste and smell, making savory and sweet notes seem less pronounced. This often leads people to add more salt to compensate, particularly during lively, multi-sensory holiday meals. It’s not about damaged taste buds—it’s about how the brain processes flavor holistically.
 
-#### #### How does hearing loss salt use holiday meals impact blood pressure in seniors?
+#### How does hearing loss salt use holiday meals impact blood pressure in seniors?
 
 Excess sodium increases fluid retention and arterial pressure. For adults 79+, even modest increases—like adding ½ teaspoon of salt per meal—can raise systolic BP by 3–5 mm Hg over time. Since many seniors already manage hypertension, this cumulative effect matters most during holiday seasons, when repeated high-sodium meals occur in quick succession.
 
-#### #### Can reducing salt improve hearing or prevent further hearing loss?
+#### Can reducing salt improve hearing or prevent further hearing loss?
 
 No—lowering salt intake won’t reverse presbycusis. However, it *does* support overall vascular health, including blood flow to the inner ear. Good circulation helps preserve remaining hearing function, and managing BP reduces strain on delicate auditory structures. So while salt reduction doesn’t “fix” hearing loss, it’s part of a holistic strategy that honors both ears and heart.
 
-#### #### Are there low-sodium alternatives that still deliver big flavor for holiday meals?
+#### Are there low-sodium alternatives that still deliver big flavor for holiday meals?
 
 Absolutely. Try roasted garlic paste, smoked paprika (sweet or hot), toasted sesame oil (used sparingly), lemon zest, or a drizzle of balsamic glaze. These ingredients activate multiple sensory pathways—aroma, texture, acidity, warmth—making meals feel vibrant and satisfying without relying on sodium.
 
-#### #### Should I get my hearing checked before the holidays if I’m over 75?
+#### Should I get my hearing checked before the holidays if I’m over 75?
 
 Yes—if it’s been more than two years since your last evaluation, or if you’ve noticed difficulty following conversations at gatherings, asking people to repeat themselves, or turning up the TV volume. Early support—whether through hearing aids, communication strategies, or environmental tweaks—can meaningfully improve your holiday experience, from conversation to cuisine.

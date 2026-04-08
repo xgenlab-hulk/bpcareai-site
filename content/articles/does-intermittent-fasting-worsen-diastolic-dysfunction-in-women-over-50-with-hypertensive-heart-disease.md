@@ -95,22 +95,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can intermittent fasting worsen diastolic dysfunction in older women?
+#### Can intermittent fasting worsen diastolic dysfunction in older women?
 
 Not typically—but it *can* cause short-term, reversible increases in left ventricular filling pressure, especially in women over 50 with existing hypertensive heart disease. Studies show these changes are modest (E/e′ increases ~1–2 points) and resolve quickly after eating. Long-term worsening hasn’t been observed in clinical trials when BP remains controlled.
 
-#### #### Is intermittent fasting safe for someone with diastolic dysfunction?
+#### Is intermittent fasting safe for someone with diastolic dysfunction?
 
 Yes—for most women with *mild, stable* diastolic dysfunction and well-managed blood pressure. Safety depends less on the diagnosis itself and more on overall cardiovascular stability: resting BP, symptom presence, medication regimen, and hydration habits. If you have Grade II+ diastolic dysfunction or symptoms like exertional dyspnea, discuss timing and duration with your cardiologist first.
 
-#### #### Does intermittent fasting affect heart filling pressure?
+#### Does intermittent fasting affect heart filling pressure?
 
 Yes—briefly. Fasting activates the RAAS system, which can raise left ventricular filling pressure for a few hours. Echocardiographic markers like E/e′ may increase modestly (by ~10–15%) during extended fasts (>14 hours), particularly in postmenopausal women. This effect normalizes rapidly after refeeding and doesn’t indicate lasting harm.
 
-#### #### What’s the best eating schedule for heart health after 50?
+#### What’s the best eating schedule for heart health after 50?
 
 There’s no universal “best,” but research supports consistency and rhythm: aim for meals spaced evenly across daylight hours (e.g., breakfast by 8 a.m., dinner by 7 p.m.), avoid late-night eating, and prioritize plant-forward, low-sodium patterns like the DASH or Mediterranean diets. For many, a 12–14 hour overnight fast feels sustainable and heart-supportive.
 
-#### #### Should I stop intermittent fasting if I have high blood pressure?
+#### Should I stop intermittent fasting if I have high blood pressure?
 
 Not necessarily—but do reassess if your BP readings rise consistently during fasting windows, or if you develop new symptoms like fatigue, lightheadedness, or breathlessness. Some people find that shifting to a longer eating window (e.g., 10 hours instead of 8) better supports stable arterial pressure and diastolic relaxation.

@@ -62,17 +62,17 @@ Using a portable oxygen concentrator during cardiac rehab can be safe and benefi
 
 ### FAQ
 
-#### #### Can I use my personal oxygen concentrator during cardiac rehab?
+#### Can I use my personal oxygen concentrator during cardiac rehab?
 Yes—*if* it’s been evaluated and approved by your cardiac rehab team. Not all devices meet medical-grade flow accuracy or alarm standards required for monitored exercise. Your provider will verify flow calibration, battery life, and compatibility with telemetry systems before clearance.
 
-#### #### Is oxygen concentrator during cardiac rehab covered by Medicare for HFpEF patients?
+#### Is oxygen concentrator during cardiac rehab covered by Medicare for HFpEF patients?
 Medicare Part B may cover portable oxygen concentrators for qualifying patients with documented chronic hypoxemia (SpO₂ ≤88% at rest or ≤89% with exertion), but HFpEF alone does not automatically qualify. Coverage requires a physician-certified home oxygen assessment and repeat testing—especially important since many HFpEF patients don’t meet traditional hypoxemia criteria.
 
-#### #### Does using an oxygen concentrator during cardiac rehab improve long-term outcomes in older adults?
+#### Does using an oxygen concentrator during cardiac rehab improve long-term outcomes in older adults?
 Current evidence shows modest short-term improvements in exercise time and symptom scores—but no robust data yet confirms mortality or hospitalization benefits in HFpEF. Ongoing trials like O₂-HEART (NCT05124838) aim to clarify this by tracking 12-month functional capacity and NT-proBNP trends.
 
-#### #### What’s the safest oxygen flow rate for someone aged 71+ with HFpEF?
+#### What’s the safest oxygen flow rate for someone aged 71+ with HFpEF?
 There’s no universal “safe” flow rate. Titration starts at 1 L/min and increases in 0.5 L/min increments *only* if SpO₂ remains <90% *and* symptoms improve. Most HFpEF patients who benefit require ≤3 L/min—even during peak effort.
 
-#### #### Can supplemental oxygen worsen heart failure in older adults?
+#### Can supplemental oxygen worsen heart failure in older adults?
 Rarely—but yes, under specific circumstances: excessive O₂ (especially >4 L/min without indication) may cause vasoconstriction, increase afterload, or suppress hypoxic pulmonary vasoconstriction—potentially elevating pulmonary artery pressures. This underscores why personalized titration and continuous monitoring are essential.

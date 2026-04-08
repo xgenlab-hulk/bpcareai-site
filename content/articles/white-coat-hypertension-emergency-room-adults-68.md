@@ -77,17 +77,17 @@ Blood pressure changes with age—and with context. What matters most is whether
 
 ### FAQ  
 
-#### #### What is white-coat hypertension emergency room adults 68+—and is it dangerous?  
+#### What is white-coat hypertension emergency room adults 68+—and is it dangerous?  
 White-coat hypertension emergency room adults 68+ describes elevated blood pressure readings observed during emergency department visits in older adults, typically driven by situational stress rather than chronic hypertension. While often benign, repeated occurrences—especially with supporting signs like retinal changes or elevated urine NGAL—warrant further evaluation to rule out underlying end-organ stress or masked hypertension.
 
-#### #### Can white-coat hypertension in the ER lead to stroke in adults over 68?  
+#### Can white-coat hypertension in the ER lead to stroke in adults over 68?  
 Standalone white-coat hypertension does not directly cause stroke. However, persistent ER elevations *may* reflect undiagnosed sustained hypertension or autonomic dysregulation—both independent stroke risk factors in adults 68+. Research shows untreated systolic BP >150 mm Hg increases 5-year stroke risk by ~60% in this age group. That’s why follow-up BP assessment (e.g., 24-hour ambulatory monitoring) is recommended after an elevated ER reading.
 
-#### #### How is white-coat hypertension different from hypertensive urgency in older adults?  
+#### How is white-coat hypertension different from hypertensive urgency in older adults?  
 White-coat hypertension involves transient, stress-induced BP elevation *without* acute end-organ damage. Hypertensive urgency refers to significantly elevated BP (e.g., ≥180/120 mm Hg) *with* evidence of impending or ongoing organ stress—such as worsening renal function, LVH on ECG, or retinal tortuosity—but *without* imminent life threat (unlike hypertensive emergency, which includes encephalopathy or aortic dissection).
 
-#### #### What tests might the ER run to tell if my high BP is 'real' or just stress?  
+#### What tests might the ER run to tell if my high BP is 'real' or just stress?  
 While routine ER workups focus on ruling out immediate threats, targeted assessments may include point-of-care fundoscopy (for retinal changes), urinalysis with NGAL testing (if available), serial BP measurements over 30–60 minutes, and ECG. Serum creatinine, troponin, and brain natriuretic peptide (BNP) may also be checked depending on symptoms. Ambulatory BP monitoring is generally scheduled *after* discharge—not performed in the ER.
 
-#### #### Does anxiety raise blood pressure enough to mimic a hypertensive emergency in older adults?  
+#### Does anxiety raise blood pressure enough to mimic a hypertensive emergency in older adults?  
 Yes—acute anxiety can elevate systolic BP by 20–40 mm Hg and diastolic by 10–20 mm Hg in adults 68+, particularly due to age-related blunting of parasympathetic buffering. However, anxiety alone rarely causes diastolic pressures >115 mm Hg or sustained systolic >180 mm Hg *without* other contributors (e.g., pain, hypoxia, medication nonadherence). Clinical judgment, serial readings, and objective biomarkers help separate the two.

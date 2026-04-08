@@ -89,17 +89,17 @@ SGLT2 inhibitors remain among the most impactful cardiovascular and kidney-prote
 
 ### FAQ
 
-#### #### What does an SGLT2 inhibitor blood pressure drop feel like?
+#### What does an SGLT2 inhibitor blood pressure drop feel like?
 An SGLT2 inhibitor blood pressure drop may cause lightheadedness when standing, mild fatigue, or a sensation of “fogginess” in the morning. It’s usually subtle—not severe dizziness or collapse—and often improves after a few weeks as your body adapts. If symptoms interfere with daily activities or worsen over time, discuss them with your care team.
 
-#### #### Is SGLT2 inhibitor blood pressure drop dangerous for seniors with kidney disease?
+#### Is SGLT2 inhibitor blood pressure drop dangerous for seniors with kidney disease?
 Not inherently—but it requires thoughtful monitoring. In adults 63–75 with mild CKD, the risk of symptomatic hypotension is modestly higher due to age-related and kidney-related changes in volume regulation. However, clinical trials show SGLT2 inhibitors are safe and beneficial in this group when initiated carefully and followed closely.
 
-#### #### How long does SGLT2 inhibitor blood pressure drop last?
+#### How long does SGLT2 inhibitor blood pressure drop last?
 Most people experience the largest BP reduction within the first 2–6 weeks. After that, values often stabilize or even rebound slightly as the body adjusts its fluid balance and sympathetic tone. Long-term BP remains lower than baseline—which is generally favorable—but acute drops beyond Week 6 should prompt review for new contributors (e.g., dehydration, new medications, or worsening CKD).
 
-#### #### Can I stop my other blood pressure meds when starting an SGLT2 inhibitor?
+#### Can I stop my other blood pressure meds when starting an SGLT2 inhibitor?
 No—not without guidance. While SGLT2 inhibitors do lower BP, they’re not replacements for proven antihypertensives. Your provider may adjust doses gradually based on home readings and symptoms—but abrupt discontinuation could lead to rebound hypertension or instability.
 
-#### #### Does SGLT2 inhibitor blood pressure drop mean my kidneys are getting worse?
+#### Does SGLT2 inhibitor blood pressure drop mean my kidneys are getting worse?
 Not necessarily—in fact, the opposite is often true. SGLT2 inhibitors reduce intraglomerular pressure, which protects kidney function over time. A mild, asymptomatic BP drop is consistent with that protective mechanism. Only sustained, symptomatic drops—especially with rising creatinine or falling eGFR—warrant deeper investigation.

@@ -60,22 +60,22 @@ The bottom line? You don’t need perfection to support your health—especially
 
 ### FAQ
 
-#### #### Is weekday intermittent fasting holidays safe for seniors with high blood pressure?
+#### Is weekday intermittent fasting holidays safe for seniors with high blood pressure?
 
 Yes—when done thoughtfully. In the study, participants with controlled hypertension (average BP ~136/82 mm Hg) saw no adverse BP changes. However, those on diuretics or ACE inhibitors should monitor closely and discuss timing of medications with their provider.
 
-#### #### How does weekday intermittent fasting holidays compare to weekend-only fasting for blood sugar?
+#### How does weekday intermittent fasting holidays compare to weekend-only fasting for blood sugar?
 
 Weekday-only patterns led to significantly better HOMA-IR improvements than weekend-only approaches in pilot data—likely because weekday consistency aligns with circadian rhythms and routine meal timing, both critical for glucose regulation after age 65.
 
-#### #### Can weekday intermittent fasting holidays help prevent muscle loss during holiday weight gain?
+#### Can weekday intermittent fasting holidays help prevent muscle loss during holiday weight gain?
 
 Yes—particularly when paired with daily protein (1.2–1.5 g/kg body weight) and light resistance activity. The trial showed minimal lean mass decline (<2%) over six weeks, even amid typical holiday calorie increases.
 
-#### #### Does weekday intermittent fasting holidays affect medication timing for diabetes?
+#### Does weekday intermittent fasting holidays affect medication timing for diabetes?
 
 It can—especially for short-acting insulins or sulfonylureas. Always review dosing schedules with your endocrinologist or pharmacist before beginning. Never adjust meds without clinical guidance.
 
-#### #### What’s the best way to start weekday intermittent fasting holidays without feeling overwhelmed?
+#### What’s the best way to start weekday intermittent fasting holidays without feeling overwhelmed?
 
 Begin with a 12-hour overnight fast Mon–Fri for two weeks. Focus on hydration and protein-rich meals. Once comfortable, try shifting dinner earlier or delaying breakfast by 30 minutes. Small, repeatable steps build lasting habits.

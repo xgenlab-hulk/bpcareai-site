@@ -109,17 +109,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What does postprandial hypoxemia copd seniors feel like?
+#### What does postprandial hypoxemia copd seniors feel like?
 It often feels like a “heavy chest” or mild breathlessness that creeps in 30–60 minutes after eating—not during activity. You might sigh more, feel unusually quiet, or notice your fingers feel cooler than usual. Unlike acute shortness of breath, it’s subtle, gradual, and often improves after resting upright for an hour.
 
-#### #### Can postprandial hypoxemia copd seniors happen even if my SpO₂ is normal at rest?
+#### Can postprandial hypoxemia copd seniors happen even if my SpO₂ is normal at rest?
 Yes—absolutely. Many adults with mild COPD have normal resting SpO₂ (95–98%) but experience significant desaturation *only* after meals. That’s why checking *after eating*—not just in the clinic—is so important for accurate assessment.
 
-#### #### Is postprandial hypoxemia copd seniors linked to high blood pressure?
+#### Is postprandial hypoxemia copd seniors linked to high blood pressure?
 Not directly—but they share underlying contributors. Both can be affected by inflammation, autonomic imbalance, and vascular stiffness common in aging and COPD. Some studies show adults with postprandial hypoxemia are 1.4× more likely to have masked hypertension (elevated BP only during daily activity), reinforcing why holistic monitoring matters.
 
-#### #### Does eating slowly help prevent postprandial hypoxemia?
+#### Does eating slowly help prevent postprandial hypoxemia?
 Yes. Slower eating reduces gastric distension and gives your respiratory system time to adapt. Chewing thoroughly (aim for 20–30 chews per bite) also lowers sympathetic nervous system activation, helping maintain steadier breathing patterns.
 
-#### #### Are there foods I should avoid entirely during family meals?
+#### Are there foods I should avoid entirely during family meals?
 No need to eliminate anything—but be mindful of *combinations*. For example: a large portion of mashed potatoes *plus* gravy *plus* wine *plus* dessert can compound effects. Instead, choose one “rich” element (e.g., dessert *or* wine) and balance the rest with lighter, easier-to-digest options like roasted vegetables, lean protein, and whole grains.

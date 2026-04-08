@@ -69,22 +69,22 @@ Managing glucose during the holidays doesn’t mean sacrificing joy—or your fa
 
 ### FAQ
 
-#### #### Is post-dinner walking vs breathing glucose effective for seniors with sleep apnea?
+#### Is post-dinner walking vs breathing glucose effective for seniors with sleep apnea?
 
 Yes—especially walking. In adults 66+ with OSA, 10-minute walks consistently lowered 2-hour glucose more than breathing alone, likely due to improved muscle glucose uptake despite insulin resistance.
 
-#### #### What’s the best time to do post-dinner walking vs breathing glucose?
+#### What’s the best time to do post-dinner walking vs breathing glucose?
 
 Start within 30 minutes of finishing your meal. Waiting too long (e.g., 90+ minutes) reduces the glucose-lowering effect—your body has already begun storing excess sugar as fat.
 
-#### #### Can deep breathing replace walking for post-dinner glucose control?
+#### Can deep breathing replace walking for post-dinner glucose control?
 
 Not for immediate glucose reduction. Breathing supports long-term metabolic health and sleep quality, but walking provides direct, insulin-independent glucose clearance—making *post-dinner walking vs breathing glucose* a clear win for 2-hour targets.
 
-#### #### Does walking after dinner help with blood pressure too?
+#### Does walking after dinner help with blood pressure too?
 
 Yes—gentle post-meal walking can modestly lower systolic BP by 5–10 mm Hg in adults over 60, especially when done daily. It complements breathing’s calming effect on the nervous system.
 
-#### #### How does obesity affect post-dinner glucose responses?
+#### How does obesity affect post-dinner glucose responses?
 
 Extra abdominal fat increases inflammatory markers and free fatty acids, both of which interfere with insulin signaling. That’s why even modest activity—like a 10-minute walk—can have an outsized benefit in this group.

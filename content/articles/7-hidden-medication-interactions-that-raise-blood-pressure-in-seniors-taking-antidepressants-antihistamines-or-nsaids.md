@@ -102,22 +102,22 @@ If you're unsure, talking to your doctor is always a good idea. Bring your full 
 
 ### FAQ
 
-#### #### Can over-the-counter allergy medicine raise blood pressure?
+#### Can over-the-counter allergy medicine raise blood pressure?
 
 Yes — especially first-generation antihistamines like diphenhydramine (Benadryl®) and decongestants like pseudoephedrine (Sudafed®). They can increase heart rate and narrow blood vessels. Safer options include loratadine (Claritin®) or fexofenadine (Allegra®), which have little to no effect on blood pressure.
 
-#### #### What are the most common blood pressure raising medication interactions in seniors?
+#### What are the most common blood pressure raising medication interactions in seniors?
 
 The top three involve: (1) NSAIDs (ibuprofen, naproxen) combined with ACE inhibitors or ARBs — reducing kidney protection and causing fluid buildup; (2) SNRIs like venlafaxine added to existing hypertension treatment — increasing norepinephrine-driven vasoconstriction; and (3) TCAs like amitriptyline paired with beta-blockers — leading to unpredictable heart rate and BP responses. These are classic examples of blood pressure raising medication interactions.
 
-#### #### Does ibuprofen interact with blood pressure medication?
+#### Does ibuprofen interact with blood pressure medication?
 
 Yes — ibuprofen can blunt the effect of several common blood pressure medications, including ACE inhibitors (e.g., lisinopril), ARBs (e.g., losartan), and diuretics (e.g., hydrochlorothiazide). It may raise systolic BP by 3–6 mm Hg on average — and more in sensitive individuals. Occasional use is usually fine; regular or long-term use warrants discussion with your provider.
 
-#### #### Are there antidepressants that don’t raise blood pressure?
+#### Are there antidepressants that don’t raise blood pressure?
 
 Most SSRIs (sertraline, escitalopram) and bupropion are considered BP-neutral in typical doses. However, SNRIs (venlafaxine, duloxetine) and TCAs (amitriptyline, nortriptyline) carry higher risk — especially at higher doses or when combined with other vasoactive drugs. Always review your psychiatric meds during BP check-ups.
 
-#### #### How long does it take for medication-induced high blood pressure to go away?
+#### How long does it take for medication-induced high blood pressure to go away?
 
 Once the interacting drug is stopped or adjusted, BP often begins improving within 3–5 days — especially if fluid retention was involved. Full normalization may take 1–3 weeks. If BP remains elevated beyond that, further evaluation (e.g., kidney function, hormone levels) may be needed.

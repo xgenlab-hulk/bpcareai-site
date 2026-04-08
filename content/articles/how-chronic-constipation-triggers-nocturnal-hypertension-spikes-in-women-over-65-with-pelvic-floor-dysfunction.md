@@ -99,22 +99,22 @@ In closing: Your body is communicating with you—not in alarm, but in rhythm. C
 
 ### FAQ
 
-#### #### Can constipation cause high blood pressure at night?
+#### Can constipation cause high blood pressure at night?
 
 Yes—especially in older adults. Chronic constipation increases intra-abdominal pressure and can activate the vagal-pressor reflex, leading to nocturnal systolic spikes (sometimes >160 mmHg). This is well-documented in 24-hour ABPM studies among women over 65 with pelvic floor issues.
 
-#### #### What is constipation and nighttime high blood pressure—and is it dangerous?
+#### What is constipation and nighttime high blood pressure—and is it dangerous?
 
 Constipation and nighttime high blood pressure refers to the observed link between prolonged stool retention and elevated systolic blood pressure during sleep hours. While not immediately life-threatening, repeated nocturnal spikes (>120 mmHg average) are associated with increased risk of stroke, left ventricular hypertrophy, and cognitive decline—making early recognition important.
 
-#### #### Does straining during bowel movements raise blood pressure?
+#### Does straining during bowel movements raise blood pressure?
 
 Absolutely. Straining (known medically as the Valsalva maneuver) causes a sharp, transient rise in both systolic and diastolic pressure—often by 30–60 mmHg. In people with autonomic dysregulation or stiffened arteries, these surges may linger longer and contribute to sustained nocturnal hypertension.
 
-#### #### How do I know if my pelvic floor is contributing to constipation and nighttime high blood pressure?
+#### How do I know if my pelvic floor is contributing to constipation and nighttime high blood pressure?
 
 Signs include: feeling like you can’t fully empty, a bulge or pressure in the vagina, urinary urgency or leakage, or needing to press on the perineum or thighs to pass stool. A pelvic floor physical therapist can assess muscle tone, coordination, and responsiveness—key factors in this cycle.
 
-#### #### Are there medications that worsen both constipation and nighttime high blood pressure?
+#### Are there medications that worsen both constipation and nighttime high blood pressure?
 
 Yes. Certain anticholinergics (e.g., oxybutynin), tricyclic antidepressants (e.g., amitriptyline), and some calcium channel blockers can slow colonic transit *and* impair vasodilation or baroreflex function—potentially amplifying both issues. Always review your full medication list with your prescriber.

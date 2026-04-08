@@ -39,22 +39,22 @@ In short, celebrating the season with joy and safety is entirely possible. You d
 
 ### FAQ
 
-#### #### Can seniors with mild hyponatremia eat fruitcake safely?
+#### Can seniors with mild hyponatremia eat fruitcake safely?
 
 Not typically—especially if it’s soaked in brandy. The combination of alcohol (which disrupts ADH regulation) and high sugar concentration raises osmolality sharply, increasing risk of sodium dilution. Even small portions may trigger subtle symptoms like morning grogginess or unsteadiness in sensitive individuals.
 
-#### #### What are the safest holiday desserts hyponatremia seniors can enjoy?
+#### What are the safest holiday desserts hyponatremia seniors can enjoy?
 
 Look for naturally low-alcohol, low-osmolality options: baked apples with cinnamon and walnuts, oat-based cranberry bars (no added spirits), or the pear & walnut loaf described here—made with unsweetened apple sauce, whole wheat flour, and no alcohol. Always check labels for hidden sodium and avoid sugar alcohols like maltitol or xylitol.
 
-#### #### How does osmolality affect seniors with hyponatremia during the holidays?
+#### How does osmolality affect seniors with hyponatremia during the holidays?
 
 High-osmolality foods draw water into the gut and bloodstream, which—when kidney clearance slows with age—can dilute serum sodium further. This may worsen neurological symptoms before labs show dramatic change. Keeping festive foods under ~500 mOsm/kg supports gentler fluid handling.
 
-#### #### Is baked pear and walnut loaf really lower in osmolality than fruitcake?
+#### Is baked pear and walnut loaf really lower in osmolality than fruitcake?
 
 Yes—conservatively, by 70–80%. A typical brandy-soaked fruitcake exceeds 2,000 mOsm/kg due to ethanol + concentrated sugars; a well-formulated baked pear loaf (using whole fruit, minimal sweetener, no alcohol) generally measures 350–450 mOsm/kg—closer to everyday foods like oatmeal or mashed banana.
 
-#### #### Do holiday desserts hyponatremia seniors eat affect blood pressure too?
+#### Do holiday desserts hyponatremia seniors eat affect blood pressure too?
 
 Indirectly—yes. Severe or rapid sodium shifts can influence vascular tone and autonomic regulation. While BP isn’t the primary concern in hyponatremia, sudden dips in sodium may contribute to orthostatic hypotension (lightheadedness on standing), especially in those already managing hypertension or taking BP medications.

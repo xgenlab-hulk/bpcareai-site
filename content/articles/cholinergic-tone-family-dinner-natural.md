@@ -86,22 +86,22 @@ Supporting your nervous system during family meals isn’t about perfection. It�
 
 ### FAQ
 
-#### #### How can I improve cholinergic tone family dinner natural without supplements?
+#### How can I improve cholinergic tone family dinner natural without supplements?
 
 You can strengthen cholinergic tone naturally by focusing on chewing rhythm (15–20 chews per bite), lowering sensory load (soft background sound, one conversational thread at a time), pacing bites with intentional pauses, and choosing fresh, low-histamine, choline-rich foods like eggs, steamed broccoli, and baked white fish. These actions directly stimulate vagal pathways—no pills required.
 
-#### #### Does cholinergic tone family dinner natural affect blood pressure?
+#### Does cholinergic tone family dinner natural affect blood pressure?
 
 Yes—especially postprandially. Strong cholinergic (vagal) tone helps stabilize heart rate and arterial pressure after eating. A dip in tone may contribute to postprandial hypotension (a >20 mm Hg systolic drop within 60 minutes), which is common in adults 65+ and linked to dizziness or fatigue. Supporting tone through mindful eating habits helps buffer those fluctuations.
 
-#### #### What foods support cholinergic tone family dinner natural for older adults with MCI?
+#### What foods support cholinergic tone family dinner natural for older adults with MCI?
 
 Prioritize fresh, minimally processed sources of choline that are also low in histamine: pastured eggs (soft-boiled or poached), baked cod or haddock, steamed asparagus or broccoli, cooked pears or apples, and plain Greek yogurt (if dairy-tolerated). Avoid aged, fermented, smoked, or leftover foods—histamine accumulates over time and may counteract cholinergic benefits.
 
-#### #### Can chewing slowly really help my thinking during family dinners?
+#### Can chewing slowly really help my thinking during family dinners?
 
 Absolutely. Slow, rhythmic chewing activates pressure receptors in the jaw and temporomandibular joint that send direct signals to the brainstem’s vagal nuclei. This boosts acetylcholine release, improves cerebral blood flow, and reduces the “cognitive bandwidth” needed for digestion—freeing up mental energy for conversation and connection.
 
-#### #### Is post-dinner brain fog normal after age 65—or a sign of something else?
+#### Is post-dinner brain fog normal after age 65—or a sign of something else?
 
 Some mental slowing after meals is common with age due to natural shifts in digestion, circulation, and neurotransmitter metabolism. But persistent, predictable fog—especially paired with lightheadedness, word-finding difficulty, or needing to withdraw—suggests your cholinergic-vagal system could benefit from gentle, natural tuning. It’s rarely urgent, but always worth exploring with compassion and curiosity.

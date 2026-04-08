@@ -93,17 +93,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Why do my glucose levels spike *only* during family photos—even when I haven’t eaten?
+#### Why do my glucose levels spike *only* during family photos—even when I haven’t eaten?
 This is likely due to acute sympathetic activation from posed smiling, social evaluation, or muscle tension—not food. Studies show catecholamine-driven hepatic glucose output can raise levels 30–65 mg/dL within minutes, independent of carbohydrate intake.
 
-#### #### Are glucose spikes family photos social stress dangerous in the long term?
+#### Are glucose spikes family photos social stress dangerous in the long term?
 Occasional spikes aren’t harmful—but repeated, unaddressed surges contribute to glycemic variability, which is associated with higher risk of complications like neuropathy and retinopathy over time. Awareness and gentle adjustment help reduce cumulative impact.
 
-#### #### Can stress from family photos affect my blood pressure too?
+#### Can stress from family photos affect my blood pressure too?
 Yes—acute social stress commonly raises both glucose *and* systolic BP by 10–25 mm Hg. If you have hypertension, this dual response may explain why your readings sometimes climb during holiday events, even without physical exertion.
 
-#### #### Is this more common in older adults with long-term type 2 diabetes?
+#### Is this more common in older adults with long-term type 2 diabetes?
 Research suggests yes. Adults aged 57–64 with ≥10 years’ diabetes duration show heightened autonomic reactivity to psychosocial triggers—likely due to age-related changes in vagal tone and cumulative insulin resistance.
 
-#### #### Will practicing mindfulness or breathing help with glucose spikes family photos social stress?
+#### Will practicing mindfulness or breathing help with glucose spikes family photos social stress?
 Evidence says yes. Diaphragmatic breathing before and during photo sessions has been shown to lower salivary alpha-amylase by ~28% and blunt glucose spikes by ~35% in pilot trials—making it one of the simplest, most accessible tools available.

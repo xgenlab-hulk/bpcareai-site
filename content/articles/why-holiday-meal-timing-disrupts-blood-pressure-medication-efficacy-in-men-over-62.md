@@ -50,22 +50,22 @@ In closing, remember that small, consistent habits go a long way. Holiday joy do
 
 ### FAQ
 
-#### #### Does eating late at night affect blood pressure medication for seniors?
+#### Does eating late at night affect blood pressure medication for seniors?
 
 Yes—especially for ACE inhibitors and some beta-blockers. Late meals or desserts can delay absorption or interfere with peak drug action. For optimal results, aim to take these medications on a consistent schedule relative to meals, ideally as directed by your prescriber.
 
-#### #### How does meal timing blood pressure meds seniors impact morning hypertension?
+#### How does meal timing blood pressure meds seniors impact morning hypertension?
 
 Morning BP surges are common—and critical to manage. If your medication is taken too late or with food, its protective effect may wane before this natural rise. Aligning dosing with your body’s rhythm helps maintain coverage when you need it most.
 
-#### #### Can skipping breakfast affect blood pressure meds in older adults?
+#### Can skipping breakfast affect blood pressure meds in older adults?
 
 Yes. Skipping meals can disrupt absorption patterns and lead to erratic BP control—particularly for medications sensitive to gastric pH or food interactions. A light, consistent breakfast supports steadier drug metabolism and vascular tone.
 
-#### #### Is it safe to adjust my blood pressure medication timing on my own during the holidays?
+#### Is it safe to adjust my blood pressure medication timing on my own during the holidays?
 
 No. Always consult your doctor or pharmacist before changing *when* or *how* you take your medication—even if it seems minor. They can help tailor timing to your lifestyle while keeping safety and efficacy top of mind.
 
-#### #### Do calcium channel blockers interact with food the same way ACE inhibitors do?
+#### Do calcium channel blockers interact with food the same way ACE inhibitors do?
 
 Generally, no. Most calcium channel blockers (e.g., amlodipine, nifedipine ER) can be taken with or without food—but consistency remains key. Irregular timing—even without food interference—can reduce 24-hour BP control, especially in older adults.

@@ -88,22 +88,22 @@ Joint discomfort after holiday meals doesn’t mean you have to choose between j
 
 ### FAQ
 
-#### #### Why does gravy cause joint swelling only in seniors?
+#### Why does gravy cause joint swelling only in seniors?
 
 Gravy itself isn’t inherently “bad,” but traditional recipes often include histamine-rich elements (aged stock, wine, browned fats) that become harder to process as DAO enzyme activity declines with age—especially after 55. Combined with age-related mast cell sensitivity, this can trigger temporary joint inflammation that younger adults typically tolerate without symptoms.
 
-#### #### Is post-holiday joint swelling gravy histamine seniors linked to high blood pressure?
+#### Is post-holiday joint swelling gravy histamine seniors linked to high blood pressure?
 
 Not directly—but there’s an important connection. Histamine can cause short-term vasodilation *or* constriction depending on receptor activity, and chronic low-grade inflammation (like that seen in histamine intolerance) is associated with higher arterial stiffness over time. While gravy won’t spike your BP acutely, supporting vascular and joint health together—through low-inflammatory eating and consistent monitoring—is wise for seniors.
 
-#### #### Can I still eat gravy during the holidays if I’m over 60 and get joint swelling?
+#### Can I still eat gravy during the holidays if I’m over 60 and get joint swelling?
 
 Yes—you absolutely can. Focus on freshness (use drippings within hours), skip fermented boosters (soy, wine, vinegar), and pair it with DAO-supportive foods like fresh pineapple or local honey. Many people find that even small tweaks reduce or eliminate swelling entirely.
 
-#### #### What are the best low-histamine holiday side dishes for seniors?
+#### What are the best low-histamine holiday side dishes for seniors?
 
 Steamed carrots and parsnips, baked sweet potatoes with cinnamon (no marshmallows), sautéed green beans with garlic and olive oil, and fresh apple-cranberry compote (no added vinegar or aging) are all naturally low-histamine and nutrient-dense. Bonus: they complement gravy beautifully.
 
-#### #### Does post-holiday joint swelling gravy histamine seniors go away on its own?
+#### Does post-holiday joint swelling gravy histamine seniors go away on its own?
 
 Often, yes—especially once histamine clears (usually within 24–48 hours) and dietary habits return to baseline. However, repeated flares can reinforce mast cell sensitization. That’s why identifying and gently adjusting triggers *now* helps prevent future discomfort—and keeps holiday joy front and center.

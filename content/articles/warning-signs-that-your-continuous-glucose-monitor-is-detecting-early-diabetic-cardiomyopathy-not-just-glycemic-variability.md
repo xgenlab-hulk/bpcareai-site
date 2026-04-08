@@ -82,22 +82,22 @@ Learning that your CGM might offer clues about heart health isn’t meant to rai
 
 ### FAQ
 
-#### #### Can CGM signs diabetic cardiomyopathy be reversed?
+#### Can CGM signs diabetic cardiomyopathy be reversed?
 
 Yes — especially when detected early. Studies show that improving glycemic stability (reducing standard deviation below 20 mg/dL), lowering systolic BP by just 5–10 mm Hg, and increasing aerobic activity can lead to measurable improvements in diastolic function within 3–6 months. Reversibility is highest in the subclinical stage, before structural remodeling occurs.
 
-#### #### What CGM signs diabetic cardiomyopathy should I watch for if I’m over 55?
+#### What CGM signs diabetic cardiomyopathy should I watch for if I’m over 55?
 
 Focus on three patterns across 10+ days: (1) Overnight glucose SD >25 mg/dL, (2) Dawn phenomenon amplitude >50 mg/dL on ≥3 mornings, and (3) Postprandial glucose taking longer than 120 minutes to return within 30 mg/dL of pre-meal baseline. Pair these with home BP logs — sustained readings above 135/85 mm Hg strengthen the relevance.
 
-#### #### Is diabetic cardiomyopathy the same as heart failure?
+#### Is diabetic cardiomyopathy the same as heart failure?
 
 No. Diabetic cardiomyopathy describes early, often asymptomatic changes in heart muscle structure and function due to diabetes-related metabolic stress. Heart failure is a clinical syndrome that may develop *later*, if cardiomyopathy progresses untreated. Most people with early-stage diabetic cardiomyopathy never develop heart failure — especially with proactive care.
 
-#### #### Do CGM signs diabetic cardiomyopathy appear in prediabetes?
+#### Do CGM signs diabetic cardiomyopathy appear in prediabetes?
 
 Emerging evidence suggests yes. Adults with prediabetes and high glycemic variability (CV >15%) show early diastolic abnormalities on advanced echocardiography at rates 1.5× higher than those with stable glucose patterns — reinforcing that metabolic heart health begins well before a diabetes diagnosis.
 
-#### #### Does metformin help with CGM signs diabetic cardiomyopathy?
+#### Does metformin help with CGM signs diabetic cardiomyopathy?
 
 Metformin may support cardiac metabolism indirectly — by improving insulin sensitivity, reducing hepatic glucose output, and modestly lowering oxidative stress. While not prescribed solely for cardiomyopathy, its effects on glucose stability and mitochondrial function align well with goals for preserving diastolic function. Always discuss medication impacts with your prescribing clinician.

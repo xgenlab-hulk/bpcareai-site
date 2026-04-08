@@ -40,17 +40,17 @@ In closing, understanding *late-night protein and blood sugar* doesn’t require
 
 ### FAQ
 
-#### #### Does late-night protein raise blood sugar in older adults with prediabetes?  
+#### Does late-night protein raise blood sugar in older adults with prediabetes?  
 Not necessarily — and often, it doesn’t. In controlled trials, slow-digesting casein taken 30–60 minutes before bed was associated with *more stable* overnight glucose levels in adults 63+ with prediabetes. Fast-absorbing proteins like whey may cause modest, transient rises, but overall, protein has minimal impact on blood sugar compared to carbohydrates.
 
-#### #### Is late-night protein and blood sugar a concern for people with high blood pressure?  
+#### Is late-night protein and blood sugar a concern for people with high blood pressure?  
 Late-night protein itself doesn’t directly affect blood pressure. However, pairing it with high-sodium foods (e.g., processed cheeses or cured meats) could influence BP. Focus on low-sodium, whole-food protein sources — and remember that stable overnight glucose supports overall cardiovascular health, including arterial pressure regulation.
 
-#### #### Can late-night protein improve growth hormone release in adults over 65?  
+#### Can late-night protein improve growth hormone release in adults over 65?  
 Yes — but differently than in younger adults. Studies confirm that protein before bed enhances the natural nocturnal growth hormone pulse, which supports lean mass maintenance and liver detoxification rhythms. In older adults, this effect is more about metabolic repair than rapid muscle growth.
 
-#### #### What’s the best time to eat protein before bed for blood sugar control?  
+#### What’s the best time to eat protein before bed for blood sugar control?  
 The optimal window appears to be 30–60 minutes before sleep — allowing digestion to begin without interfering with rest. Eating too early (e.g., right after dinner) or too late (e.g., immediately before lights-out) may reduce benefits.
 
-#### #### Are there risks to consuming protein before bed if I have kidney concerns?  
+#### Are there risks to consuming protein before bed if I have kidney concerns?  
 If you have known reduced kidney function (eGFR <60 mL/min/1.73m²), consult your nephrologist first. For most healthy older adults with prediabetes, moderate pre-sleep protein is safe and well-tolerated — and may even reduce metabolic strain on the kidneys by stabilizing glucose swings.

@@ -56,22 +56,22 @@ Holidays are about connection, not perfection. Managing **portion distortion hyp
 
 ### FAQ
 
-#### #### Does portion distortion hypertension seniors affect memory or cognition?
+#### Does portion distortion hypertension seniors affect memory or cognition?
 
 Yes—repeated BP spikes, especially in older adults, are linked to subtle declines in executive function and processing speed over time. Chronic high arterial pressure accelerates small-vessel damage in the brain, increasing risk for vascular cognitive impairment. Consistent control helps protect both heart *and* mind.
 
-#### #### Can portion distortion hypertension seniors happen even if I’m not overweight?
+#### Can portion distortion hypertension seniors happen even if I’m not overweight?
 
 Absolutely. Body weight is only one factor. Age-related changes in salt sensitivity, autonomic nervous system regulation, and medication metabolism mean BP can surge regardless of BMI—especially after high-sodium, high-volume meals.
 
-#### #### How much sodium is too much for seniors during holiday meals?
+#### How much sodium is too much for seniors during holiday meals?
 
 The American Heart Association recommends no more than 1,500 mg/day for adults over 50—yet a single serving of store-bought gravy can pack 500 mg, and canned cranberry sauce often contains 200+ mg per ¼ cup. Aim to keep total meal sodium under 600 mg when possible.
 
-#### #### Is alcohol worse for BP during Thanksgiving meals?
+#### Is alcohol worse for BP during Thanksgiving meals?
 
 Yes—especially in combination with salty foods. Just two 5-oz glasses of wine can raise systolic BP by 5–10 mm Hg in older adults. Limit to one drink, sip slowly, and alternate with water.
 
-#### #### What’s the best way to politely decline seconds at a family gathering?
+#### What’s the best way to politely decline seconds at a family gathering?
 
 Try warm, simple phrases like, “This is delicious—I’m savoring every bite,” or “My plate’s perfectly balanced—I’ll save room for dessert later!” Most hosts appreciate honesty over hesitation—and your health comes first.

@@ -94,17 +94,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What is a normal morning blood pressure spike?
+#### What is a normal morning blood pressure spike?
 A typical morning surge is a rise of 10–20 mm Hg in systolic pressure between the lowest nighttime reading and the first morning reading. A surge greater than 25 mm Hg is considered exaggerated—and associated with higher **morning blood pressure spike stroke risk**, especially in older adults.
 
-#### #### Does morning blood pressure spike increase stroke risk in women over 70?
+#### Does morning blood pressure spike increase stroke risk in women over 70?
 Yes—multiple studies confirm it does. Women over 70 with hypertension and a pronounced morning surge (≥30 mm Hg) have been shown to face up to twice the stroke risk compared to peers without that pattern—likely due to combined effects of arterial stiffness, hormonal shifts, and circadian-driven clotting activity.
 
-#### #### How can I lower my morning blood pressure spike stroke risk naturally?
+#### How can I lower my morning blood pressure spike stroke risk naturally?
 Prioritize consistent sleep, gentle morning movement, delayed caffeine/salt intake, and home monitoring to identify patterns. These strategies support your body’s natural rhythms—and research shows they can reduce the magnitude of the morning surge by 5–12 mm Hg over time.
 
-#### #### Is morning blood pressure spike the same as white coat hypertension?
+#### Is morning blood pressure spike the same as white coat hypertension?
 No. White coat hypertension occurs only in clinical settings due to anxiety—and disappears with home monitoring. A true morning surge appears *at home*, follows a predictable circadian pattern, and reflects underlying physiological changes—not just stress.
 
-#### #### What time should I take my blood pressure to catch the morning spike?
+#### What time should I take my blood pressure to catch the morning spike?
 Ideally, within 60 minutes of waking—before eating, drinking caffeine, taking medications, or getting out of bed. Sit quietly for 5 minutes first, then take two readings one minute apart. Consistency across days matters more than perfection on any single morning.

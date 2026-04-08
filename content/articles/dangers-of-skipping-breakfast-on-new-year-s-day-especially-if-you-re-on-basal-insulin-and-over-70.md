@@ -42,17 +42,17 @@ In closing, celebrating safely doesn’t mean giving up joy—it means making sm
 
 ### FAQ
 
-#### #### What happens if I skip breakfast on New Year’s Day while taking basal insulin?
+#### What happens if I skip breakfast on New Year’s Day while taking basal insulin?
 Skipping breakfast after a night of basal insulin activity can lead to prolonged low blood sugar (hypoglycemia), especially in adults over 70 whose hormonal responses are slower. This may trigger rebound high blood sugar (hyperglycemia) later, increasing risk of falls, confusion, or acute glucose instability.
 
-#### #### Is skipping breakfast new year basal insulin dangerous for seniors over 75?
+#### Is skipping breakfast new year basal insulin dangerous for seniors over 75?
 Yes—particularly for those with reduced kidney function, cognitive changes, or a history of hypoglycemia. Older adults are more likely to experience *asymptomatic* lows, meaning they may not feel warning signs until glucose drops dangerously low (<54 mg/dL). The risk is amplified by holiday-related factors like alcohol, dehydration, or disrupted sleep.
 
-#### #### Can skipping breakfast on New Year’s Day affect my blood pressure too?
+#### Can skipping breakfast on New Year’s Day affect my blood pressure too?
 Indirectly, yes. Severe hypoglycemia activates the sympathetic nervous system, causing transient spikes in heart rate and arterial pressure—sometimes raising systolic BP by 20–30 mm Hg. For those with existing hypertension or cardiovascular disease, this adds strain during a high-stress, high-celebration period.
 
-#### #### Should I adjust my basal insulin dose on New Year’s Eve or Day?
+#### Should I adjust my basal insulin dose on New Year’s Eve or Day?
 Only under guidance from your healthcare provider. Some stable patients over 70 benefit from a small, temporary dose reduction (e.g., 10–15%) on known late-breakfast days—but this requires individualized assessment of renal function, recent glucose trends, and overall stability.
 
-#### #### What’s a safe, quick breakfast option if I’m not hungry on New Year’s morning?
+#### What’s a safe, quick breakfast option if I’m not hungry on New Year’s morning?
 Even a small portion helps: ½ cup cottage cheese + ¼ cup pineapple, a protein shake (unsweetened), or 1 slice of whole-grain toast with 1 tsp almond butter. The goal isn’t volume—it’s providing ~15 g of carbohydrate plus protein to gently signal your liver to pause glucose production and support insulin’s action.

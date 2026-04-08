@@ -86,22 +86,22 @@ If you're unsure, talking to your doctor is always a good idea. And if you've be
 
 ### FAQ
 
-#### #### What causes post-holiday brain fog reverse t3 seniors—and is it serious?
+#### What causes post-holiday brain fog reverse t3 seniors—and is it serious?
 
 It’s usually not serious—but it *is* significant. Elevated reverse T3 reflects a temporary slowdown in thyroid hormone activation, often triggered by high saturated fat intake, stress, or mild inflammation. In seniors, slower liver clearance and age-related metabolic shifts make this more likely. It’s reversible with dietary adjustment and typically resolves within 2–3 weeks of returning to balanced eating.
 
-#### #### Can post-holiday brain fog reverse t3 seniors happen even with normal TSH and free T3?
+#### Can post-holiday brain fog reverse t3 seniors happen even with normal TSH and free T3?
 
 Yes—absolutely. Standard thyroid panels don’t measure reverse T3 or assess conversion efficiency. You can have perfect TSH and free T3 numbers *and* still have elevated rT3 blocking cellular T3 action—especially in brain tissue. That’s why symptoms don’t always match lab values.
 
-#### #### How does holiday fat intake specifically raise reverse T3 in older adults?
+#### How does holiday fat intake specifically raise reverse T3 in older adults?
 
 Saturated fats (like those in gravy, cheese platters, and pastry crusts) inhibit the deiodinase enzymes—particularly D1—in the liver. This reduces T4-to-T3 conversion and redirects T4 toward rT3 production. In adults over 70, this effect is amplified by age-related declines in mitochondrial function and subtle reductions in hepatic blood flow—making the system more sensitive to dietary triggers.
 
-#### #### Is reverse T3 testing covered by insurance for seniors?
+#### Is reverse T3 testing covered by insurance for seniors?
 
 Coverage varies, but many Medicare Advantage plans and commercial insurers will cover rT3 testing if ordered with appropriate clinical justification (e.g., persistent symptoms despite normal TSH/free T4). Ask your provider to document “evaluation of thyroid hormone conversion dysfunction” rather than just “routine thyroid panel.”
 
-#### #### Does exercise help lower reverse T3 after the holidays?
+#### Does exercise help lower reverse T3 after the holidays?
 
 Gentle, consistent movement—like brisk walking for 30 minutes most days—supports healthy liver metabolism and insulin sensitivity, both of which aid T4-to-T3 conversion. However, intense or prolonged fasting-style workouts *during* recovery may increase rT3 temporarily due to cortisol elevation. Focus on joyful, sustainable movement—not calorie burn.

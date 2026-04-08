@@ -67,22 +67,22 @@ Using a CGM with a pacemaker or ICD after age 75 is not only possible—it’s i
 
 ### FAQ
 
-#### #### Can a CGM interfere with my pacemaker if I’m over 75?
+#### Can a CGM interfere with my pacemaker if I’m over 75?
 
 Most modern, FDA-cleared CGMs pose minimal risk of interference when used as directed—especially with proper sensor placement (at least 6 inches from your device). Studies show less than 1% incidence of clinically relevant EMI in real-world use among adults over 75.
 
-#### #### Is cgm pacemaker safety over 75 different from younger adults?
+#### Is cgm pacemaker safety over 75 different from younger adults?
 
 Yes—older adults may have thinner skin, slower healing, or more complex medication regimens, which makes site selection and consistent monitoring extra important. However, the *electromagnetic safety profile* of CGMs remains the same across ages.
 
-#### #### Which CGMs are safest for people with ICDs over 75?
+#### Which CGMs are safest for people with ICDs over 75?
 
 Several CGMs—including those using 2.4 GHz Bluetooth® LE and meeting IEC 60601-1-2 EMC standards—have published FDA-cleared compatibility reports for both pacemakers and ICDs. Ask your care team for the specific model number and its latest compatibility documentation.
 
-#### #### Do I need to remove my CGM before a cardiac stress test or MRI?
+#### Do I need to remove my CGM before a cardiac stress test or MRI?
 
 Yes—always follow your cardiologist’s instructions. Most CGMs must be removed before MRI scans (due to strong magnetic fields), and some stress tests involve equipment that may temporarily affect wireless transmission. Your care team will guide timing and alternatives.
 
-#### #### Can CGMs help me avoid low blood sugar episodes after age 75?
+#### Can CGMs help me avoid low blood sugar episodes after age 75?
 
 Absolutely. Hypoglycemia unawareness becomes more common with age—and CGMs provide early warnings (alerts for falling glucose) that fingersticks alone cannot. Studies show CGM use reduces severe hypoglycemia by up to 40% in adults over 70.

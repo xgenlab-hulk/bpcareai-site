@@ -87,17 +87,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does emotional stress raise blood sugar in people without diabetes?  
+#### Does emotional stress raise blood sugar in people without diabetes?  
 Yes—but usually only temporarily. In people without diabetes, insulin quickly clears the extra glucose released by stress hormones. In those with insulin resistance or beta-cell decline (common in type 2 diabetes, especially after age 50), that clearance slows, leading to sustained higher levels.
 
-#### #### How does emotional stress blood sugar diabetes interact with blood pressure?  
+#### How does emotional stress blood sugar diabetes interact with blood pressure?  
 Stress activates the sympathetic nervous system, raising both glucose *and* arterial pressure simultaneously. Cortisol increases vascular resistance, while epinephrine boosts heart rate and cardiac output. This dual rise means emotional stress blood sugar diabetes management often overlaps with hypertension care—especially important since nearly 70% of adults with diabetes also have high BP.
 
-#### #### Can meditation lower blood sugar caused by emotional stress?  
+#### Can meditation lower blood sugar caused by emotional stress?  
 Research suggests yes—modestly but meaningfully. A 2023 meta-analysis found that adults with type 2 diabetes practicing mindfulness-based stress reduction (MBSR) for 8 weeks saw average HbA1c reductions of 0.4–0.6%, largely attributed to decreased cortisol and improved insulin sensitivity. Even 5 minutes of guided breathing daily helps build resilience over time.
 
-#### #### Why do I feel shaky or anxious when my blood sugar is high—not low?  
+#### Why do I feel shaky or anxious when my blood sugar is high—not low?  
 That’s more common than many realize. Elevated glucose can trigger adrenaline release (as the body tries to “fix” the imbalance), mimicking low-blood-sugar symptoms. Pairing glucose checks with symptom notes helps clarify whether it’s hyperglycemia or hypoglycemia—or even anxiety masquerading as either.
 
-#### #### Is it normal for blood sugar to spike after arguing with a family member—even if I didn’t eat anything?  
+#### Is it normal for blood sugar to spike after arguing with a family member—even if I didn’t eat anything?  
 Absolutely. Emotional conflict reliably triggers catecholamine release, prompting the liver to dump glucose regardless of recent food intake. This is why checking *before* and *15–30 minutes after* emotionally intense interactions can reveal surprising insights—especially during holiday gatherings.

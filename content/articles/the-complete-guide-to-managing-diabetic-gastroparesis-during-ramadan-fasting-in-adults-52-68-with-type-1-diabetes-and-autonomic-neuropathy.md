@@ -86,17 +86,17 @@ Ramadan is a time of reflection, discipline, and compassion—including compassi
 
 ### FAQ
 
-#### #### Can people with diabetic gastroparesis safely fast during Ramadan?
+#### Can people with diabetic gastroparesis safely fast during Ramadan?
 Yes—many do—but only with individualized medical supervision, insulin re-timing, symptom-awareness training, and willingness to break the fast when physiologically indicated. Safety-first planning reduces hospitalization risk by up to 65% in observational studies.
 
-#### #### How does autonomic neuropathy affect diabetic gastroparesis ramadan fasting?
+#### How does autonomic neuropathy affect diabetic gastroparesis ramadan fasting?
 Autonomic neuropathy impairs gastric motilin and nitric oxide signaling, worsening delayed emptying. It also masks hypoglycemia symptoms and blunts cardiovascular compensation during fluid shifts—increasing risk of both hypoglycemia and orthostatic hypotension during prolonged fasting.
 
-#### #### What are the safest insulin types for diabetic gastroparesis ramadan fasting?
+#### What are the safest insulin types for diabetic gastroparesis ramadan fasting?
 Long-acting insulins with flat pharmacokinetic profiles (e.g., insulin degludec or glargine U300) are preferred over NPH or premixed insulins. Rapid-acting analogues (aspart, lispro, glulisine) remain first-line for bolus dosing—but must be timed *after* food intake, not before.
 
-#### #### Is gastric scintigraphy required before Ramadan if I have type 1 diabetes?
+#### Is gastric scintigraphy required before Ramadan if I have type 1 diabetes?
 Not universally—but strongly recommended if you have ≥15 years’ diabetes duration, documented autonomic neuropathy, or recurrent unexplained nausea/vomiting/hypoglycemia. Alternatives like breath tests (¹³C-octanoic acid) or wireless motility capsules may be available depending on local resources.
 
-#### #### How often should I check blood glucose during diabetic gastroparesis ramadan fasting?
+#### How often should I check blood glucose during diabetic gastroparesis ramadan fasting?
 Minimum of 4x daily: pre-Suhoor, mid-day (~1 PM), pre-Iftar, and 2–3 hours post-Iftar. Add checks if symptomatic (nausea, dizziness, sweating) or if using correction doses. Continuous glucose monitoring (CGM) is ideal for detecting delayed postprandial rises and nocturnal lows.

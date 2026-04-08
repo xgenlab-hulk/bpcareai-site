@@ -60,19 +60,19 @@ In short, thoughtful choices during the holidays support long-term metabolic hea
 
 ### FAQ
 
-#### #### Does late-night eggnog and insulin secretion affect blood pressure too?  
+#### Does late-night eggnog and insulin secretion affect blood pressure too?  
 Yes—nocturnal hyperglycemia activates the sympathetic nervous system and promotes sodium retention, contributing to elevated morning systolic pressure. Studies report a 5–8 mm Hg average rise in SBP the morning after late-night high-sugar/fat intake in adults 65+ with diabetes.
 
-#### #### Can I reverse the effects of late-night eggnog and insulin secretion with exercise?  
+#### Can I reverse the effects of late-night eggnog and insulin secretion with exercise?  
 Moderate evening walking (20–30 min within 90 minutes of consumption) improves nocturnal glucose disposal by ~15%, but it does not fully restore beta-cell pulsatility suppressed by melatonin. Consistency matters more than intensity.
 
-#### #### Is non-alcoholic eggnog safer for insulin secretion than the alcoholic version?  
+#### Is non-alcoholic eggnog safer for insulin secretion than the alcoholic version?  
 Alcohol adds complexity (inhibits gluconeogenesis, increasing hypoglycemia risk), but the primary driver of disrupted *late-night eggnog and insulin secretion* is the macronutrient load—not ethanol. Both versions pose similar risks to circadian glucose regulation when consumed post-9 p.m.
 
-#### #### How long does it take for insulin secretion patterns to normalize after stopping late-night eggnog?  
+#### How long does it take for insulin secretion patterns to normalize after stopping late-night eggnog?  
 In most adults 67+, circadian insulin rhythm recovery begins within 3–4 days of consistent pre-8:30 p.m. carbohydrate cutoff—and stabilizes fully by day 10–14, assuming no other major sleep or dietary disruptions.
 
-#### #### Does melatonin supplement use worsen late-night eggnog and insulin secretion?  
+#### Does melatonin supplement use worsen late-night eggnog and insulin secretion?  
 Potentially. Exogenous melatonin (≥0.5 mg) taken within 2 hours of eggnog may amplify insulin suppression. If using melatonin for sleep, discuss timing and dose with your provider—lower doses (0.3 mg) taken earlier (e.g., 9 p.m.) carry less metabolic risk.
 
 If you're unsure, talking to your doctor is always a good idea.

@@ -63,22 +63,22 @@ Your body has an incredible capacity to adapt — even later in life. Supporting
 
 ### FAQ
 
-#### #### Can flavonoid timing really affect arterial stiffness in older adults?
+#### Can flavonoid timing really affect arterial stiffness in older adults?
 
 Yes — multiple randomized trials in adults 65+ show that timed intake of cocoa flavanols (especially midday, without dairy or caffeine interference) improves flow-mediated dilation and reduces PWV by ~0.5–0.8 m/sec over 12 weeks. The key is consistency and pairing with nitrate-rich foods.
 
-#### #### What is the best PWV target for someone aged 70?
+#### What is the best PWV target for someone aged 70?
 
 For adults aged 70–79, a PWV under 9.5 m/sec is considered low-to-moderate risk. Values above 10.0 m/sec suggest increased arterial stiffness and warrant discussion with your clinician — especially if rising over time.
 
-#### #### How does arterial stiffness reduction flavonoid timing pwv differ from general blood pressure management?
+#### How does arterial stiffness reduction flavonoid timing pwv differ from general blood pressure management?
 
 Standard BP management often focuses on lowering numbers via medication or salt reduction. Arterial stiffness reduction flavonoid timing pwv targets *vascular structure and function* — improving aortic elasticity, which in turn supports healthier BP patterns *long-term*, particularly systolic and pulse pressure.
 
-#### #### Do I need special equipment to try this protocol?
+#### Do I need special equipment to try this protocol?
 
 No. While clinical PWV devices are ideal for tracking progress, many people begin with validated upper-arm BP monitors that estimate central aortic pressure or AIx. Focus first on consistency with diet, timing, and mindful movement — then add objective metrics as accessible.
 
-#### #### Is this safe if I’m already on blood pressure medication?
+#### Is this safe if I’m already on blood pressure medication?
 
 Generally yes — but always discuss dietary changes with your prescribing provider. Cocoa flavanols and dietary nitrates are well-tolerated, but may enhance the effects of certain antihypertensives (e.g., ACE inhibitors or nitrates), so BP monitoring becomes especially important.

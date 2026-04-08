@@ -81,17 +81,17 @@ Gentle, thoughtful care goes a long way—especially for your gut. You don’t n
 
 ### FAQ
 
-#### #### How long does it take to reset gut microbiome after holiday feasting?
+#### How long does it take to reset gut microbiome after holiday feasting?
 Most adults 60+ notice improved digestion and energy within 3–5 days of gentle, targeted support—like adding prebiotic-rich vegetables, spacing fermented foods, and prioritizing polyphenol variety. Full microbial diversity recovery may take 2–4 weeks, especially if antibiotics were part of your history. Patience and rhythm matter more than speed.
 
-#### #### Can I reset gut microbiome after holiday feasting without taking probiotic supplements?
+#### Can I reset gut microbiome after holiday feasting without taking probiotic supplements?
 Yes—and often, it’s preferable. For older adults, especially those with sensitive digestion or prior antibiotic exposure, food-first strategies (fermented foods, prebiotic fibers, polyphenol-rich plants) tend to be better tolerated and more sustainable than high-dose probiotic capsules. Supplements aren’t regulated like medications, and strains may not colonize effectively without the right “soil” (i.e., dietary fiber and diversity).
 
-#### #### What are the safest fermented foods to help reset gut microbiome after holiday feasting for seniors?
+#### What are the safest fermented foods to help reset gut microbiome after holiday feasting for seniors?
 Look for refrigerated, unpasteurized, low-sodium options: plain kefir (¼–½ cup), raw sauerkraut (1–2 tsp), or white miso paste (½ tsp in warm broth). Avoid kombucha with high sugar or carbonation if you’re prone to bloating—and skip fermented soy sauces or vinegars, which lack live cultures. Always introduce one at a time and monitor for tolerance.
 
-#### #### Does drinking more water really help reset gut microbiome after holiday feasting?
+#### Does drinking more water really help reset gut microbiome after holiday feasting?
 Absolutely—especially for adults over 60, whose thirst cues often diminish. Aim for ~6–8 cups (48–64 oz) daily, sipped consistently—not chugged. Hydration supports mucosal lining repair in the gut, aids fiber movement, and helps flush metabolic byproducts from feast-related metabolism. Add a slice of lemon or cucumber for gentle polyphenol support.
 
-#### #### Is it okay to eat yogurt every day while trying to reset gut microbiome after holiday feasting?
+#### Is it okay to eat yogurt every day while trying to reset gut microbiome after holiday feasting?
 Yes—if it’s plain, unsweetened, and contains live active cultures (check the label). However, limit to ½ cup daily, and rotate with other fermented foods (like kefir or sauerkraut) for broader strain exposure. Avoid yogurts with added sugars, artificial sweeteners, or thickeners like carrageenan, which may irritate sensitive guts.

@@ -61,22 +61,22 @@ Hearing loss diabetes women over 64 is more common than many realize—but it’
 
 ### FAQ
 
-#### #### Does diabetes cause hearing loss in older women?
+#### Does diabetes cause hearing loss in older women?
 
 Yes—especially in women over 64. Diabetes increases risk for sensorineural hearing loss due to microvascular damage and nerve changes in the inner ear. Hormonal shifts after menopause may amplify this effect.
 
-#### #### Is hearing loss diabetes women over 64 reversible?
+#### Is hearing loss diabetes women over 64 reversible?
 
 While advanced damage isn’t fully reversible, early-stage diabetic hearing loss often stabilizes—or improves slightly—with tighter glycemic control, reduced inflammation, and vascular support. Audiologic rehabilitation (like properly fitted hearing aids) remains highly effective.
 
-#### #### What HbA1c level is safest for hearing health in women over 64?
+#### What HbA1c level is safest for hearing health in women over 64?
 
 Evidence suggests aiming for an HbA1c between 6.5% and 7.2%, *with low variability* (standard deviation <1.0%). Avoid frequent highs (>180 mg/dL) and lows (<70 mg/dL), as both stress cochlear tissue.
 
-#### #### Can metformin or other diabetes meds affect hearing?
+#### Can metformin or other diabetes meds affect hearing?
 
 No strong evidence links metformin to hearing loss—and some studies suggest it may offer protective antioxidant effects. However, certain diuretics (e.g., furosemide) and high-dose aspirin *can* impact hearing; always review medications with your pharmacist or doctor.
 
-#### #### Should I get a hearing test every year if I have diabetes and am over 64?
+#### Should I get a hearing test every year if I have diabetes and am over 64?
 
 Yes—annual baseline audiograms are recommended for adults over 64 with diabetes. More frequent testing (every 6 months) may be advised if your HbA1c has been unstable or if you notice subtle changes in listening effort.

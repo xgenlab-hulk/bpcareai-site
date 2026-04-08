@@ -58,22 +58,22 @@ Remember: You’re not failing if your BP rises—you’re responding. What matt
 
 ### FAQ
 
-#### #### How does caring for a spouse with Parkinson’s affect my blood pressure?
+#### How does caring for a spouse with Parkinson’s affect my blood pressure?
 
 Caregiving—especially around meal timing, overnight support, and medication coordination—triggers repeated stress responses that raise heart rate and arterial pressure over time. In mid-stage Parkinson’s, frequent postprandial lapses and nocturnal disruptions compound this, making consistent BP control more challenging than in non-caregiver peers.
 
-#### #### What is blood-pressure-caregiver-parkinsons-spouse, and why is it different from regular hypertension?
+#### What is blood-pressure-caregiver-parkinsons-spouse, and why is it different from regular hypertension?
 
 *Blood-pressure-caregiver-parkinsons-spouse* refers to the unique pattern of BP volatility seen in spouses caring for someone with mid-stage Parkinson’s—characterized by postprandial dips, evening surges, and stress-related spikes—not typical of essential hypertension. It’s driven by circadian misalignment, autonomic demand, and lifestyle compression rather than just aging or genetics.
 
-#### #### Can blood-pressure-caregiver-parkinsons-spouse improve without medication?
+#### Can blood-pressure-caregiver-parkinsons-spouse improve without medication?
 
 Yes—many caregivers see meaningful improvement through micro-habit stacking (e.g., timed breathing, movement pairing, strategic hydration) and environmental tweaks (like adjusting meal sequencing). Lifestyle-first approaches are especially effective when started early and practiced consistently—even 5 minutes daily adds up.
 
-#### #### Should I check my blood pressure more often if my spouse has Parkinson’s?
+#### Should I check my blood pressure more often if my spouse has Parkinson’s?
 
 Yes—especially if you’re over 60 and notice fatigue, brain fog after meals, or trouble sleeping. Twice-daily checks (morning and evening) for 7–10 days give your doctor a clearer picture than occasional clinic readings. Consistency matters more than frequency.
 
-#### #### Does postprandial hypotension in my spouse mean I’m at risk too?
+#### Does postprandial hypotension in my spouse mean I’m at risk too?
 
 Not directly—but shared meals, similar timing, and overlapping stressors mean *you* may experience similar postprandial BP patterns, especially if you delay eating or eat high-carb meals under time pressure. Monitoring *your own* response after meals is wise and often revealing.

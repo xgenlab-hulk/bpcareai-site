@@ -43,17 +43,17 @@ In closing: Supporting your vision is a quiet, steady act of self-care—not a r
 
 ### FAQ
 
-#### #### What foods worsen diabetic retinopathy the most?
+#### What foods worsen diabetic retinopathy the most?
 The top culprits include heavily grilled or fried meats (high in AGEs), repeatedly heated seed oils (soybean, corn, sunflower), ultra-processed starches (white bread, crackers, sugary cereals), sugar-sweetened beverages, and highly salted or smoked deli meats. These contribute to retinal endothelial stress through oxidative damage and inflammation—even when blood sugar and BP are well managed.
 
-#### #### Are there foods that worsen diabetic retinopathy even if my A1c is normal?
+#### Are there foods that worsen diabetic retinopathy even if my A1c is normal?
 Yes. Some *foods that worsen diabetic retinopathy* act through pathways independent of blood sugar—like AGE-induced receptor activation or oxidized fat accumulation in retinal capillaries. So even with A1c <5.7% or <7.0%, dietary patterns matter for long-term microvascular resilience.
 
-#### #### Do high-AGE foods worsen diabetic retinopathy more in older adults?
+#### Do high-AGE foods worsen diabetic retinopathy more in older adults?
 Yes—aging reduces natural antioxidant capacity and impairs AGE clearance. Adults over 60 may experience greater retinal endothelial sensitivity to dietary AGEs, making food preparation methods (e.g., avoiding charring) especially meaningful.
 
-#### #### Can lowering dietary AGEs improve retinopathy?
+#### Can lowering dietary AGEs improve retinopathy?
 Clinical trials show reduced dietary AGE intake correlates with lower serum inflammatory markers (like IL-6 and TNF-alpha) and improved retinal vascular stability over 6–12 months—particularly in early-stage disease.
 
-#### #### Does blood pressure medication protect against dietary retinopathy risks?
+#### Does blood pressure medication protect against dietary retinopathy risks?
 BP medications help manage arterial pressure and reduce mechanical strain on retinal vessels—but they don’t block the biochemical effects of oxidized fats or AGEs. That’s why dietary strategy remains essential *alongside*, not instead of, medical treatment.

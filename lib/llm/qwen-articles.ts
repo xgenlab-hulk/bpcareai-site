@@ -166,9 +166,18 @@ function validateAndFixMetadata(metadata: OptimizedMetadata): { fixed: Optimized
     // 确保不含换行符（YAML >- 格式中也要避免）
     fixed.description = fixed.description.replace(/\n/g, ' ').replace(/\s+/g, ' ');
     if (fixed.description.length > 160) {
+      // 优先在句号处截断，确保描述以完整句子结尾
       const truncated = fixed.description.substring(0, 160);
-      const lastSpace = truncated.lastIndexOf(' ');
-      fixed.description = lastSpace > 100 ? truncated.substring(0, lastSpace) : truncated;
+      const lastPeriod = truncated.lastIndexOf('.');
+      const lastQuestion = truncated.lastIndexOf('?');
+      const lastExclaim = truncated.lastIndexOf('!');
+      const lastSentEnd = Math.max(lastPeriod, lastQuestion, lastExclaim);
+      if (lastSentEnd > 80) {
+        fixed.description = truncated.substring(0, lastSentEnd + 1);
+      } else {
+        const lastSpace = truncated.lastIndexOf(' ');
+        fixed.description = (lastSpace > 100 ? truncated.substring(0, lastSpace) : truncated) + '.';
+      }
       warnings.push(`Description truncated to ${fixed.description.length} chars`);
     }
     if (fixed.description.length < 80) {

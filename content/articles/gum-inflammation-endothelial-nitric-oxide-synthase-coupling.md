@@ -85,22 +85,22 @@ Understanding how gum inflammation endothelial nitric oxide synthase coupling fi
 
 ### FAQ
 
-#### #### Does gum inflammation directly cause high blood pressure?
+#### Does gum inflammation directly cause high blood pressure?
 
 Not exactly—but chronic low-grade gum inflammation contributes to systemic oxidative stress, which can impair nitric oxide production and reduce vascular flexibility over time. This may make it harder for your body to maintain optimal blood pressure, especially alongside other risk factors like age or sedentary habits.
 
-#### #### How does gum inflammation endothelial nitric oxide synthase coupling affect older adults?
+#### How does gum inflammation endothelial nitric oxide synthase coupling affect older adults?
 
 In adults 64–80, age-related declines in BH4 synthesis and increased baseline oxidative stress mean gum inflammation endothelial nitric oxide synthase coupling is more easily disrupted. This can subtly reduce endothelial function—contributing to stiffer arteries and less responsive BP regulation. Fortunately, interventions like improved oral hygiene and regular physical activity help restore balance.
 
-#### #### Can improving my gum health lower my blood pressure?
+#### Can improving my gum health lower my blood pressure?
 
 Research suggests yes—modestly and gradually. A 2023 meta-analysis found that non-surgical periodontal therapy led to an average systolic BP reduction of 3.5 mm Hg and diastolic reduction of 2.1 mm Hg in adults with hypertension and periodontitis. While not a replacement for medical management, it’s a meaningful complementary strategy.
 
-#### #### What’s the difference between gum inflammation and periodontitis?
+#### What’s the difference between gum inflammation and periodontitis?
 
 Gum inflammation (gingivitis) is reversible swelling and redness caused by plaque buildup. Periodontitis involves deeper infection and bone loss around teeth—it’s more advanced and chronic. Mild periodontitis may not cause pain, but it *does* sustain low-level immune activation that influences systemic health.
 
-#### #### Are there natural ways to support eNOS coupling?
+#### Are there natural ways to support eNOS coupling?
 
 Yes. Eating nitrate-rich vegetables (beets, spinach), getting regular movement, managing stress, and maintaining gum health all support BH4 stability and reduce oxidative stress—key ingredients for healthy eNOS coupling. Some studies also suggest folate and vitamin C play supportive roles in BH4 recycling.

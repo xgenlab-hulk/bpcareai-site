@@ -97,17 +97,17 @@ Holiday joy shouldn’t come with hidden physical cost—and your heart is far m
 
 ### FAQ  
 
-#### #### What are the silent signs sodium diastolic stiffness seniors should watch for during holidays?  
+#### What are the silent signs sodium diastolic stiffness seniors should watch for during holidays?  
 The most common quiet clues include morning ankle tightness (not full swelling), midday brain fog, unexplained fatigue after light activity, waking up thirsty or coughing at night, increased nighttime urination, and a gradual rise in diastolic blood pressure—even if systolic stays stable. These reflect subtle increases in heart filling pressure due to sodium-driven fluid shifts.
 
-#### #### Can silent signs sodium diastolic stiffness seniors be reversed with diet changes?  
+#### Can silent signs sodium diastolic stiffness seniors be reversed with diet changes?  
 Yes—in many cases. Research shows that reducing sodium intake by 500–1,200 mg/day for 4–8 weeks can improve diastolic function markers (like E/A ratio and e’ velocity) in older adults with HFpEF. Paired with potassium-rich foods and consistent hydration, these changes support better ventricular relaxation.
 
-#### #### Are women over 65 more likely to experience silent signs sodium diastolic stiffness seniors?  
+#### Are women over 65 more likely to experience silent signs sodium diastolic stiffness seniors?  
 Yes. Postmenopausal women have lower estrogen-driven nitric oxide production, increased arterial stiffness, and greater salt sensitivity—making them more vulnerable to sodium-induced diastolic impairment. Up to 70% of HFpEF patients are women, and symptoms often present more subtly than in men.
 
-#### #### Does high sodium affect diastolic blood pressure more than systolic in seniors?  
+#### Does high sodium affect diastolic blood pressure more than systolic in seniors?  
 Often, yes—especially in those with HFpEF or isolated diastolic hypertension. Sodium loading tends to elevate central venous and left ventricular filling pressures first, raising diastolic BP (e.g., from 76 to 85 mm Hg) while systolic may remain unchanged or even dip slightly due to compensatory mechanisms.
 
-#### #### What’s the safest daily sodium target for seniors with preserved ejection fraction?  
+#### What’s the safest daily sodium target for seniors with preserved ejection fraction?  
 Major guidelines—including the American Heart Association and Heart Failure Society of America—recommend ≤1,500 mg/day for adults with HFpEF or hypertension. For most healthy seniors, 2,000–2,300 mg is reasonable—but those with known diastolic dysfunction benefit from the lower target, especially during high-risk periods like the holidays.

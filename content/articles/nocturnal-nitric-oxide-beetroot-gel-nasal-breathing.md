@@ -54,22 +54,22 @@ Supporting healthy nocturnal nitric oxide beetroot gel nasal breathing doesn’t
 
 ### FAQ
 
-#### #### Can topical beetroot gel really raise nitric oxide without dietary nitrates?
+#### Can topical beetroot gel really raise nitric oxide without dietary nitrates?
 
 Yes—unlike oral beetroot, which relies on gut bacteria to convert nitrate to nitrite, topical formulations deliver antioxidant-rich betalains and phenolic compounds that stabilize eNOS and reduce oxidative uncoupling. Human pilot studies (n=32, mean age 69) showed a 22% increase in salivary nitrite after 4 weeks of nightly application—without changes in dietary nitrate intake.
 
-#### #### Is nocturnal nitric oxide beetroot gel nasal breathing safe for people with kidney disease?
+#### Is nocturnal nitric oxide beetroot gel nasal breathing safe for people with kidney disease?
 
 Generally yes—because transdermal delivery avoids systemic nitrate load and bypasses renal excretion pathways. However, consult your nephrologist before starting, especially if eGFR is <30 mL/min/1.73m² or if you’re on dialysis.
 
-#### #### How long does it take to see changes in nighttime BP using nocturnal nitric oxide beetroot gel nasal breathing?
+#### How long does it take to see changes in nighttime BP using nocturnal nitric oxide beetroot gel nasal breathing?
 
 Most participants in clinical observation reports noted modest improvements (2–4 mm Hg systolic dip) within 2–3 weeks; sustained dipping patterns (>10%) typically emerged after 6–8 weeks of consistent use alongside good sleep hygiene.
 
-#### #### Does mouth breathing cancel out the benefits of nasal breathing for NO support?
+#### Does mouth breathing cancel out the benefits of nasal breathing for NO support?
 
 Yes—nasal breathing contributes ~25% of total NO production via sinus epithelial cells. Mouth breathing eliminates this source and may elevate sympathetic tone. If chronic nasal obstruction is present, consider evaluation for structural causes (e.g., septal deviation) or allergic rhinitis.
 
-#### #### Can I use nocturnal nitric oxide beetroot gel nasal breathing if I’m on blood pressure medication?
+#### Can I use nocturnal nitric oxide beetroot gel nasal breathing if I’m on blood pressure medication?
 
 In most cases, yes—this protocol is complementary, not competitive. However, because it supports vasodilation, discuss timing with your provider, especially if you take alpha-blockers, nitrates, or strong CCBs, to avoid additive hypotension.

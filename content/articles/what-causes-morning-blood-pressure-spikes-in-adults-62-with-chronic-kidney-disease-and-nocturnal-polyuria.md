@@ -73,17 +73,17 @@ Morning blood pressure spikes in the context of chronic kidney disease are compl
 
 ### FAQ
 
-#### #### What causes morning blood pressure spikes chronic kidney disease in older adults?  
+#### What causes morning blood pressure spikes chronic kidney disease in older adults?  
 These spikes arise from overlapping factors: impaired nocturnal sodium excretion by damaged kidneys, heightened sympathetic nervous system activity before waking, and circadian peaks in renin and angiotensin II—all amplified by age-related declines in vascular elasticity and baroreflex function.
 
-#### #### Are morning blood pressure spikes chronic kidney disease linked to stroke risk?  
+#### Are morning blood pressure spikes chronic kidney disease linked to stroke risk?  
 Yes. Research shows that non-dipping or reverse-dipping patterns increase stroke risk by 2–3 times in adults with CKD—particularly when morning systolic BP exceeds 155 mm Hg. This is why identifying and managing the surge matters.
 
-#### #### Can nocturnal polyuria worsen morning blood pressure spikes chronic kidney disease?  
+#### Can nocturnal polyuria worsen morning blood pressure spikes chronic kidney disease?  
 Absolutely. Frequent nighttime urination often reflects poor sodium clearance overnight. This leads to compensatory fluid retention and RAAS activation—both contributing directly to elevated arterial pressure at dawn.
 
-#### #### Is home blood pressure monitoring enough to detect morning spikes?  
+#### Is home blood pressure monitoring enough to detect morning spikes?  
 It can be—if done correctly. Use validated devices, measure within 1 hour of waking (before meds or coffee), and track for at least 5 days. However, ABPM remains the most accurate way to confirm patterns like nocturnal non-dipping.
 
-#### #### Does sleep apnea contribute to morning blood pressure spikes in CKD?  
+#### Does sleep apnea contribute to morning blood pressure spikes in CKD?  
 Yes. Obstructive sleep apnea triggers intermittent hypoxia and sympathetic surges, which amplify morning BP rises—especially in CKD patients, where baseline autonomic dysfunction is already present. Screening for sleep apnea is recommended in those with unexplained surges.

@@ -63,17 +63,17 @@ Understanding **blood glucose monitor iron supplement interference** doesn’t m
 
 ### FAQ
 
-#### #### Does iron cause false high blood sugar readings on CGMs?  
+#### Does iron cause false high blood sugar readings on CGMs?  
 Yes—specifically certain intravenous or oral iron formulations like ferric pyrophosphate can cause transient false-high glucose readings on newer CGM sensors (e.g., Dexcom G7, Libre 3). This occurs due to electrochemical interference, not actual hyperglycemia. Fingerstick meters are generally unaffected.
 
-#### #### Can blood glucose monitor iron supplement interference happen with over-the-counter iron pills?  
+#### Can blood glucose monitor iron supplement interference happen with over-the-counter iron pills?  
 It’s unlikely with standard OTC ferrous sulfate or ferrous fumarate at typical doses (325 mg tablet = ~65 mg elemental iron). Interference is primarily documented with highly soluble, non-ferrous iron compounds used in clinical settings—though high-dose or sustained-release ferrous bisglycinate *may* pose low risk in sensitive individuals.
 
-#### #### How long does blood glucose monitor iron supplement interference last?  
+#### How long does blood glucose monitor iron supplement interference last?  
 Most observed interference peaks within 24–48 hours after iron administration and resolves within 3–5 days as iron redistributes and clears. However, with chronic daily dosing, low-level background interference may persist—making trend analysis more valuable than isolated readings.
 
-#### #### Does metformin itself interfere with blood glucose monitors?  
+#### Does metformin itself interfere with blood glucose monitors?  
 No—metformin does not directly interfere with glucose meter or CGM function. However, it enhances iron absorption, indirectly increasing the potential for iron-related interference when both are used together.
 
-#### #### Should I stop my iron supplement if my CGM readings seem off?  
+#### Should I stop my iron supplement if my CGM readings seem off?  
 No—do not discontinue prescribed iron without medical guidance. Instead, confirm readings with a fingerstick meter, document timing of iron intake, and share patterns with your care team. They may adjust dosing schedule, switch formulations, or recommend temporary meter-only monitoring.

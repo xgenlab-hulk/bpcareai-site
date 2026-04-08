@@ -79,22 +79,22 @@ In closing: Experiencing a *blood pressure dip reading prescription labels* is a
 
 ### FAQ
 
-#### #### Why do I get dizzy only when reading my pill bottles—but not books or phones?
+#### Why do I get dizzy only when reading my pill bottles—but not books or phones?
 
 Reading prescription labels often involves higher visual demand: small font size (sometimes under 6 pt), low contrast (white-on-clear or pale yellow), and awkward positioning (bottles held at odd angles). Phones and books offer better contrast, adjustable fonts, and ergonomic viewing—reducing accommodative strain and vagal activation.
 
-#### #### Is a blood pressure dip reading prescription labels dangerous?
+#### Is a blood pressure dip reading prescription labels dangerous?
 
 For most healthy adults over 50, no—it’s a brief, self-limiting response. Research shows these dips rarely drop below safe thresholds (e.g., >85 mm Hg systolic) and resolve quickly. However, if you have known heart rhythm issues, severe autonomic dysfunction, or experience falls, discuss it with your provider.
 
-#### #### Can glasses or contact lenses prevent a blood pressure dip reading prescription labels?
+#### Can glasses or contact lenses prevent a blood pressure dip reading prescription labels?
 
 Not directly—but properly prescribed *reading-specific* correction (e.g., dedicated +2.50 add lenses, not general progressives) reduces the need for excessive squinting and head tilting, thereby lowering trigeminal-vagal stimulation. An annual eye exam helps ensure your prescription still matches your current visual needs.
 
-#### #### What’s the link between carotid stenosis and blood pressure changes while reading?
+#### What’s the link between carotid stenosis and blood pressure changes while reading?
 
 Mild carotid narrowing (<50%) doesn’t usually restrict flow—but it *can* reduce the brain’s “reserve capacity” to compensate for sudden BP shifts. When combined with a vagally mediated dip, even a modest drop may temporarily lower cerebral perfusion enough to trigger subtle symptoms like lightheadedness. It’s not about blockage—it’s about buffering capacity.
 
-#### #### Does anxiety cause a blood pressure dip reading prescription labels?
+#### Does anxiety cause a blood pressure dip reading prescription labels?
 
 Anxiety more commonly *raises* BP via sympathetic activation. What you’re feeling is likely the opposite: a parasympathetic (vagal) response triggered by visual effort—not stress. That said, if anxiety makes you hold your breath or tense up while reading, that can indirectly influence BP—so gentle breathing techniques help both scenarios.

@@ -40,22 +40,22 @@ In closing, the holidays don’t need to feel limiting — they can be deeply co
 
 ### FAQ
 
-#### #### What are the best dysphagia-friendly holiday foods seniors can prepare at home?
+#### What are the best dysphagia-friendly holiday foods seniors can prepare at home?
 
 Great question! Top choices include velvety butternut squash bisque (IDDSI Level 4 puree), moist herb-roasted chicken cut into tiny, tender cubes, soft-scrambled eggs with finely grated cheese, mashed parsnips with a touch of maple syrup, and gelatin-set apple-pear compote. All are nutrient-dense, easy to modify, and festive — no special equipment needed beyond a blender or fine grater.
 
-#### #### Where can I find reliable recipes for dysphagia-friendly holiday foods seniors?
+#### Where can I find reliable recipes for dysphagia-friendly holiday foods seniors?
 
 Reputable sources include the American Speech-Language-Hearing Association (ASHA) website, the IDDSI official site (iddsi.org), and registered dietitian blogs specializing in senior nutrition. Look for recipes labeled “IDDSI Level 4” or “soft and bite-sized.” Many university medical centers also offer free downloadable holiday handouts designed specifically for older adults with mild dysphagia.
 
-#### #### Are mashed potatoes safe for seniors with mild dysphagia?
+#### Are mashed potatoes safe for seniors with mild dysphagia?
 
 Yes — when properly prepared. IDDSI Level 4 mashed potatoes should be smooth but hold shape on a spoon (not runny or sticky), with added moisture from warm milk or broth rather than excessive butter. Avoid lumps, skins, or herbs with tough stems. For extra nutrition, stir in mashed cauliflower or white beans for added protein and fiber.
 
-#### #### Can I still serve gravy with dysphagia-friendly holiday foods seniors?
+#### Can I still serve gravy with dysphagia-friendly holiday foods seniors?
 
 Absolutely — just adjust the consistency. Thin gravies fall under IDDSI Level 2 (nectar-thick) or Level 3 (honey-thick), depending on individual tolerance. Use cornstarch, xanthan gum, or commercial thickeners approved for IDDSI standards, and test thickness with the fork drip test or spoon tilt test. Always serve separately so guests can add only what suits their needs.
 
-#### #### How do I know if a dish meets IDDSI Level 4 guidelines?
+#### How do I know if a dish meets IDDSI Level 4 guidelines?
 
 IDDSI Level 4 (“soft and bite-sized”) means food is soft, moist, and easily deformed with gentle pressure — like ripe banana or well-cooked pasta. Pieces must be ≤1.5 cm in all dimensions and require minimal chewing. You can assess using IDDSI’s free testing tools: the fork pressure test (fork tines sink in easily), the spoon tilt test (food holds shape but yields gently), and visual inspection for uniform size. When in doubt, consult your SLP — they’re happy to help!

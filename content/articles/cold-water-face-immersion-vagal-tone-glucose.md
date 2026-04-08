@@ -92,22 +92,22 @@ None of this is about adding one more “must-do” to an already full plate. Co
 
 ### FAQ
 
-#### #### Does cold water face immersion vagal tone glucose work for people over 75 with type 2 diabetes?
+#### Does cold water face immersion vagal tone glucose work for people over 75 with type 2 diabetes?
 
 Yes—evidence from controlled trials suggests modest but real improvements in vagal tone and postprandial glucose stability in adults 75–89 with type 2 diabetes, *provided orthostatic risk is assessed first and technique is followed precisely*. Benefits are most consistent in those with lower baseline HRV.
 
-#### #### Is cold water face immersion safe if I have orthostatic hypotension?
+#### Is cold water face immersion safe if I have orthostatic hypotension?
 
 It *can* be—when done correctly and under guidance. Key safeguards include using tepid-cool (not icy) water, performing it seated *after* meals—not before—and avoiding it if your systolic BP drops >30 mm Hg on standing or if you experience dizziness during trials. Never do it alone the first few times.
 
-#### #### How often should I do cold water face immersion for best glucose effects?
+#### How often should I do cold water face immersion for best glucose effects?
 
 In research settings, once daily—ideally 30–45 minutes after the largest meal—was used. For older adults, starting with *every other day* for 1–2 weeks allows time to observe tolerance. If well-tolerated and beneficial, you may move to daily. Consistency matters more than frequency.
 
-#### #### Can I use a cold compress instead of face immersion?
+#### Can I use a cold compress instead of face immersion?
 
 A cold compress applied to the forehead and eyes *may* elicit a milder diving response, but studies show significantly lower HRV changes compared to actual water contact. For meaningful vagal activation, surface temperature + trigeminal nerve stimulation via water immersion appears necessary.
 
-#### #### Does this replace my diabetes medications?
+#### Does this replace my diabetes medications?
 
 Absolutely not. Cold water face immersion vagal tone glucose strategies are complementary—not alternative—approaches. They should be layered *alongside*, not instead of, your prescribed treatment plan, diet, and physical activity. Always discuss changes with your endocrinologist or primary care provider.

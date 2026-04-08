@@ -63,17 +63,17 @@ Most palpitations during yoga RVOT VT are not dangerous—and many turn out to b
 
 ### FAQ
 
-#### #### Can yoga trigger RVOT VT in older adults with mild pulmonary hypertension?
+#### Can yoga trigger RVOT VT in older adults with mild pulmonary hypertension?
 Yes—though rarely *cause* it. Yoga can unmask latent RVOT VT by altering autonomic balance, particularly in those with mild PH where the right ventricle is already mildly stressed. This doesn’t mean yoga is unsafe; it means mindful awareness supports heart health.
 
-#### #### What does “palpitations during yoga RVOT VT” actually feel like compared to normal PVCs?
+#### What does “palpitations during yoga RVOT VT” actually feel like compared to normal PVCs?
 People often describe RVOT VT as a sudden, steady “racing” sensation—like your heart locks into a fast, regular beat for several seconds—whereas benign PVCs feel like a single “thump,” “flip,” or pause followed by a stronger beat. Timing and consistency matter more than intensity.
 
-#### #### Are palpitations during yoga RVOT VT more common in men or women over 60?
+#### Are palpitations during yoga RVOT VT more common in men or women over 60?
 RVOT VT is slightly more prevalent in women over 60, especially with mild PH—possibly due to hormonal influences on ion channels and right ventricular remodeling. However, both genders respond well to early recognition and lifestyle-aware care.
 
-#### #### Does having mild pulmonary hypertension increase my risk of developing RVOT VT?
+#### Does having mild pulmonary hypertension increase my risk of developing RVOT VT?
 Mild PH alone doesn’t *cause* RVOT VT, but it can lower the threshold for ventricular ectopy to organize into sustained rhythms—particularly under autonomic shifts like those in yoga. That’s why context matters more than diagnosis alone.
 
-#### #### Can I still do yoga if I’ve been told I have occasional PVCs?
+#### Can I still do yoga if I’ve been told I have occasional PVCs?
 Absolutely—most people with benign PVCs thrive with yoga. Focus on smooth transitions, avoid forceful breath-holds, and listen to your body. If palpitations change in frequency, duration, or quality, revisit your care team.

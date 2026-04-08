@@ -77,22 +77,22 @@ Making cranberry sauce—whether from your mother’s stained index card or a ne
 
 ### FAQ
 
-#### #### Is homemade cranberry sauce sugar content really higher than store-bought?
+#### Is homemade cranberry sauce sugar content really higher than store-bought?
 
 Yes—in our audit of 47 real recipes used by adults 60–82, the average homemade version contained 18–22g of added sugar per ¼-cup serving, versus 12–15g in popular store-bought brands. This was especially true when honey, maple syrup, or juice concentrates were used.
 
-#### #### How can I lower the homemade cranberry sauce sugar content without losing flavor?
+#### How can I lower the homemade cranberry sauce sugar content without losing flavor?
 
 Try reducing sweetener by 25%, then balancing with citrus zest, warm spices (cinnamon, clove), or a splash of unsweetened pomegranate juice. Adding cooked apple or pear also boosts natural thickness and mild sweetness—letting you use less added sugar overall.
 
-#### #### Does homemade cranberry sauce sugar content affect blood pressure?
+#### Does homemade cranberry sauce sugar content affect blood pressure?
 
 Not directly—but consistently high added sugar intake contributes to insulin resistance and arterial stiffness over time, both of which influence how your body regulates blood pressure. For adults over 60, this effect may be more pronounced due to age-related metabolic changes.
 
-#### #### Can I use artificial sweeteners in homemade cranberry sauce?
+#### Can I use artificial sweeteners in homemade cranberry sauce?
 
 Some work—erythritol and monk fruit blends hold up well to heat and don’t leave bitterness. But avoid saccharin or aspartame in simmered sauces (they can break down or taste metallic). Always check with your doctor if you’re on medications that interact with sweeteners.
 
-#### #### Why does “unsweetened” homemade cranberry sauce still have sugar?
+#### Why does “unsweetened” homemade cranberry sauce still have sugar?
 
 Because recipes labeled “unsweetened” often rely on fruit juices (like apple or white grape), dried fruits (dates, raisins), or honey—*all* of which contain significant amounts of naturally occurring *or* concentrated sugars. “Unsweetened” refers only to absence of *refined* table sugar—not total sugar load.

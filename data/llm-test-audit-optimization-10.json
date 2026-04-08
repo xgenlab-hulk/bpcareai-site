@@ -1,0 +1,1670 @@
+{
+  "total_audited": 10,
+  "audit_results": [
+    {
+      "slug": "the-truth-about-normal-bp-variability-why-24-hour-sd-15-mmhg-predicts-microinfarct-burden-in-adults-69-with-white-matter-hyperintensities",
+      "overall_score": 35,
+      "overall_assessment": "Poor - Excessively technical with extremely long slug and title that severely hurt discoverability",
+      "needs_optimization": true,
+      "analysis": {
+        "core_topic": "Blood pressure variability and its impact on brain microinfarcts in elderly adults",
+        "target_audience": "Adults 69+ with white matter hyperintensities or at risk for brain health issues",
+        "user_search_intent": "Understanding connection between blood pressure fluctuations and brain damage/cognitive decline",
+        "likely_search_queries": [
+          "blood pressure variability brain damage",
+          "blood pressure fluctuations dementia",
+          "blood pressure changes brain health seniors",
+          "blood pressure variability and brain health"
+        ]
+      },
+      "element_scores": {
+        "slug": {
+          "score": 25,
+          "issues": [
+            "Extremely long (143 characters) - severely hurts SEO and usability",
+            "Contains technical jargon users won't search: '24-hour SD', 'mmHg', 'microinfarct burden', 'white matter hyperintensities'",
+            "Unnatural phrasing with numbers and medical abbreviations",
+            "Way too specific with technical measurements that don't help discoverability"
+          ],
+          "strengths": [
+            "Contains core topic 'bp variability'",
+            "Mentions target age group 'adults 69'"
+          ]
+        },
+        "title": {
+          "score": 30,
+          "issues": [
+            "Excessively long (145 characters) - will be severely truncated in search results",
+            "Highly technical language: 'SD >15 mmHg', 'microinfarct burden', 'white matter hyperintensities'",
+            "Not user-friendly or clickable - too academic",
+            "Academic tone that doesn't appeal to general senior audience"
+          ],
+          "strengths": [
+            "Addresses important health concern",
+            "Specifies age group clearly"
+          ]
+        },
+        "description": {
+          "score": 35,
+          "issues": [
+            "Too technical: 'BP lability', 'circadian amplitude', 'cerebral small-vessel endothelial injury'",
+            "Not actionable or user-friendly",
+            "Doesn't clearly state value to reader",
+            "Slightly too long (172 characters)"
+          ],
+          "strengths": [
+            "Mentions important connection between BP and brain health",
+            "Close to appropriate length range"
+          ]
+        },
+        "primaryKeyword": {
+          "score": 75,
+          "issues": [
+            "Could be more specific about the problem/concern"
+          ],
+          "strengths": [
+            "Natural phrasing: 'blood pressure variability and brain health'",
+            "User-searchable phrase",
+            "Clear medical topic",
+            "Good length (44 characters)",
+            "Likely matches actual search behavior"
+          ]
+        }
+      },
+      "consistency_check": {
+        "score": 70,
+        "assessment": "All elements address same core topic (BP variability and brain health), but slug and title are far too technical compared to the relatively good primaryKeyword",
+        "issues": [
+          "Disconnect between technical slug/title and more accessible primaryKeyword",
+          "Slug and title use jargon that primaryKeyword avoids"
+        ]
+      },
+      "key_problems": [
+        "Slug is excessively long (143 chars) and filled with technical jargon - should be under 60 chars",
+        "Title too long (145 chars) and too academic - won't perform well in search results",
+        "Description uses medical terminology that general audience won't understand",
+        "Major disconnect between technical presentation and searchable primaryKeyword"
+      ],
+      "optimization_priority": "high",
+      "reasoning": "Article has critical length and accessibility issues. The primaryKeyword is good, but slug, title, and description are so technical and long they will severely hurt discoverability. Requires immediate optimization to reach target audience."
+    },
+    {
+      "slug": "natural-ways-to-support-pancreatic-beta-cell-resilience-without-stimulating-insulin-secretion-using-sulforaphane-timing-low-dose-lithium-in-adults-56-64-with-early-beta-cell-decline",
+      "overall_score": 32,
+      "overall_assessment": "Poor - Extremely long metadata with mismatched primaryKeyword and overly technical language",
+      "needs_optimization": true,
+      "analysis": {
+        "core_topic": "Natural approaches to protect pancreatic beta cells without stimulating insulin production",
+        "target_audience": "Adults 56-64 with early beta-cell decline or prediabetes",
+        "user_search_intent": "Finding natural ways to protect pancreas and prevent diabetes progression",
+        "likely_search_queries": [
+          "protect pancreas naturally",
+          "beta cell health supplements",
+          "prevent diabetes naturally",
+          "natural ways to protect beta cells"
+        ]
+      },
+      "element_scores": {
+        "slug": {
+          "score": 35,
+          "issues": [
+            "Extremely long (185 characters) - far exceeds maximum recommended length",
+            "Too technical: 'sulforaphane timing', 'low-dose lithium', 'beta-cell resilience'",
+            "Includes specific interventions that make it too narrow",
+            "Unnatural for users to search"
+          ],
+          "strengths": [
+            "Contains relevant age group",
+            "Mentions natural approaches"
+          ]
+        },
+        "title": {
+          "score": 30,
+          "issues": [
+            "Excessively long (190 characters) - will be severely truncated",
+            "Too specific with supplement names users won't search initially",
+            "Academic style with em-dashes and technical terms",
+            "Not accessible to general audience"
+          ],
+          "strengths": [
+            "Clear that it's about natural approaches",
+            "Specifies target age group"
+          ]
+        },
+        "description": {
+          "score": 40,
+          "issues": [
+            "Too technical: 'Nrf2 activation', 'autophagy enhancement', 'epigenetic modulation', 'secretagogue'",
+            "Focuses on mechanisms rather than benefits",
+            "Not user-friendly or actionable"
+          ],
+          "strengths": [
+            "Mentions preservation of function",
+            "Appropriate length (149 characters)"
+          ]
+        },
+        "primaryKeyword": {
+          "score": 25,
+          "issues": [
+            "Completely mismatched - 'health management seniors' is way too generic",
+            "Doesn't reflect article content at all",
+            "Missing key concepts: beta cells, diabetes prevention, natural approaches",
+            "Won't help users find this specific content"
+          ],
+          "strengths": [
+            "Short and simple"
+          ]
+        }
+      },
+      "consistency_check": {
+        "score": 30,
+        "assessment": "Major consistency problem - primaryKeyword completely mismatched with article content. Slug/title are overly specific while keyword is too generic.",
+        "issues": [
+          "PrimaryKeyword 'health management seniors' doesn't match beta-cell protection topic",
+          "Huge gap between specific technical content and generic keyword"
+        ]
+      },
+      "key_problems": [
+        "PrimaryKeyword completely wrong - 'health management seniors' doesn't match article content",
+        "Slug is 185 characters - needs to be under 60",
+        "Title is 190 characters - needs to be under 70",
+        "All elements use overly technical language that target audience won't search"
+      ],
+      "optimization_priority": "high",
+      "reasoning": "Critical issues with primaryKeyword mismatch and extreme length in all elements. This article will be nearly impossible to discover in its current state. Requires complete optimization."
+    },
+    {
+      "slug": "myths-vs-facts-about-salt-sensitivity-after-60-why-3-000-mg-sodium-can-be-safe-or-harmful-depending-on-your-enac-genotype-and-gut-microbiome-profile",
+      "overall_score": 48,
+      "overall_assessment": "Poor - Overly technical with excessive length, though topic is clear",
+      "needs_optimization": true,
+      "analysis": {
+        "core_topic": "Personalized sodium recommendations based on genetics and gut microbiome",
+        "target_audience": "Adults 60+ concerned about salt intake and blood pressure",
+        "user_search_intent": "Understanding if standard salt restrictions apply to them personally",
+        "likely_search_queries": [
+          "how much salt over 60",
+          "salt sensitivity genetics",
+          "sodium guidelines seniors",
+          "salt and blood pressure personalized"
+        ]
+      },
+      "element_scores": {
+        "slug": {
+          "score": 45,
+          "issues": [
+            "Too long (149 characters) - should be under 60",
+            "Contains technical jargon: 'ENaC genotype', 'gut microbiome profile'",
+            "Too specific with mg amounts and genetic terminology",
+            "Overly complex for URL"
+          ],
+          "strengths": [
+            "Contains 'salt sensitivity after 60'",
+            "Mentions personalization concept"
+          ]
+        },
+        "title": {
+          "score": 40,
+          "issues": [
+            "Too long (151 characters) - will be truncated",
+            "Too technical: 'ENaC Genotype', specific mg amounts",
+            "Academic/scientific tone not appealing to general audience",
+            "Overly complex message"
+          ],
+          "strengths": [
+            "Uses 'Myths vs Facts' format which can engage users",
+            "Mentions age group clearly",
+            "Addresses personalization"
+          ]
+        },
+        "description": {
+          "score": 45,
+          "issues": [
+            "Too technical: 'pharmacogenomics', 'SCNN1B variants', 'TMAO-butyrate ratios'",
+            "Academic language doesn't appeal to seniors",
+            "Doesn't clearly state practical value"
+          ],
+          "strengths": [
+            "Mentions personalized approach",
+            "Appropriate length (158 characters)"
+          ]
+        },
+        "primaryKeyword": {
+          "score": 55,
+          "issues": [
+            "Awkward phrasing: 'salt sensitivity genetics microbiome aging'",
+            "Reads like keyword stuffing rather than natural search phrase",
+            "Missing 'seniors' or specific age reference"
+          ],
+          "strengths": [
+            "Contains relevant concepts",
+            "Specific enough to differentiate from generic salt advice"
+          ]
+        }
+      },
+      "consistency_check": {
+        "score": 70,
+        "assessment": "All elements address personalized salt sensitivity, but all use overly technical language that will hurt discoverability",
+        "issues": [
+          "Consistent in being too technical across all elements",
+          "Need to simplify while maintaining core message"
+        ]
+      },
+      "key_problems": [
+        "Slug 149 characters - needs to be under 60",
+        "Title 151 characters - needs to be under 70",
+        "All elements use technical jargon (ENaC, SCNN1B, pharmacogenomics) that users won't search",
+        "PrimaryKeyword phrasing is unnatural and awkward"
+      ],
+      "optimization_priority": "high",
+      "reasoning": "Good underlying topic that could help many seniors, but presentation is far too technical. Length issues and jargon will prevent target audience from finding this valuable information."
+    },
+    {
+      "slug": "best-seated-breathing-patterns-with-real-time-hrv-feedback-for-adults-79-with-frailty-orthostatic-intolerance-and-mild-pulmonary-hypertension",
+      "overall_score": 45,
+      "overall_assessment": "Poor - Extremely long with technical medical terminology that will hurt discoverability",
+      "needs_optimization": true,
+      "analysis": {
+        "core_topic": "Safe breathing exercises for very frail elderly adults with multiple health conditions",
+        "target_audience": "Adults 79+ with frailty, blood pressure issues, and mobility challenges",
+        "user_search_intent": "Finding safe, gentle breathing exercises suitable for frail elderly",
+        "likely_search_queries": [
+          "breathing exercises elderly frail",
+          "breathing for blood pressure seniors",
+          "safe breathing exercises 80+",
+          "gentle breathing exercises elderly"
+        ]
+      },
+      "element_scores": {
+        "slug": {
+          "score": 40,
+          "issues": [
+            "Too long (145 characters) - should be under 60",
+            "Technical terms: 'HRV feedback', 'orthostatic intolerance', 'pulmonary hypertension'",
+            "Too specific with medical conditions",
+            "Not user-friendly phrasing"
+          ],
+          "strengths": [
+            "Mentions 'breathing patterns' and age group",
+            "Indicates it's for seated exercises (good for frail)"
+          ]
+        },
+        "title": {
+          "score": 35,
+          "issues": [
+            "Too long (147 characters) - will be severely truncated",
+            "Technical medical terminology won't resonate with users",
+            "Multiple complex medical conditions listed",
+            "Intimidating rather than helpful"
+          ],
+          "strengths": [
+            "Clear age group (79+)",
+            "Mentions seated exercises (accessible)"
+          ]
+        },
+        "description": {
+          "score": 50,
+          "issues": [
+            "Technical: 'resonant frequency breathing', '4.5-5.5 breaths/min', 'pulmonary vascular resistance'",
+            "Specific breathing rates may confuse users",
+            "Focus on technical validation rather than benefits"
+          ],
+          "strengths": [
+            "Mentions HRV-guided approach",
+            "Indicates safety consideration (orthostatic risk)",
+            "Appropriate length (167 characters)"
+          ]
+        },
+        "primaryKeyword": {
+          "score": 60,
+          "issues": [
+            "Too generic: 'hypertension management adults 79+'",
+            "Doesn't reflect that article is about breathing exercises specifically",
+            "Could be any hypertension content"
+          ],
+          "strengths": [
+            "Specifies age group clearly",
+            "Natural phrasing",
+            "Searchable format"
+          ]
+        }
+      },
+      "consistency_check": {
+        "score": 65,
+        "assessment": "Slug/title focus on breathing exercises, but primaryKeyword is generic 'hypertension management' - mismatch in specificity",
+        "issues": [
+          "PrimaryKeyword doesn't mention breathing exercises which is the article's focus",
+          "Disconnect between specific content and generic keyword"
+        ]
+      },
+      "key_problems": [
+        "Slug 145 characters - way too long",
+        "Title 147 characters - will be cut off in search results",
+        "PrimaryKeyword doesn't reflect article's focus on breathing exercises",
+        "Too many technical medical terms throughout all elements",
+        "Content is valuable for frail elderly but presentation is intimidating"
+      ],
+      "optimization_priority": "high",
+      "reasoning": "Article addresses important topic for vulnerable population, but technical language and length issues will prevent those who need it from finding it. Needs simplification and keyword refinement."
+    },
+    {
+      "slug": "7-hidden-medication-interactions-that-raise-blood-pressure-after-age-60-including-common-antidepressants-antihistamines-and-topical-nsaids",
+      "overall_score": 65,
+      "overall_assessment": "Fair - Relatively clear topic but too long and somewhat technical",
+      "needs_optimization": true,
+      "analysis": {
+        "core_topic": "Hidden medication interactions that raise blood pressure in older adults",
+        "target_audience": "Adults 60+ taking multiple medications, especially those with unexplained BP increases",
+        "user_search_intent": "Understanding why blood pressure increased despite medication, identifying drug interactions",
+        "likely_search_queries": [
+          "medications that raise blood pressure",
+          "blood pressure medication interactions",
+          "antidepressants blood pressure seniors",
+          "why did my blood pressure go up on medication"
+        ]
+      },
+      "element_scores": {
+        "slug": {
+          "score": 55,
+          "issues": [
+            "Too long (138 characters) - should be under 60",
+            "Tries to list specific medication types in slug (unnecessary detail)",
+            "Could be more concise"
+          ],
+          "strengths": [
+            "Clear topic: medication interactions and blood pressure",
+            "Mentions age group",
+            "Number '7' indicates list format",
+            "Relatively natural phrasing"
+          ]
+        },
+        "title": {
+          "score": 60,
+          "issues": [
+            "Too long (136 characters) - will be truncated",
+            "Lists too many specific drug types in title",
+            "Could be more concise while maintaining clarity"
+          ],
+          "strengths": [
+            "Number format (7) performs well",
+            "Clear topic and value proposition",
+            "Mentions common medications users may be taking",
+            "Specifies age group"
+          ]
+        },
+        "description": {
+          "score": 55,
+          "issues": [
+            "Technical terminology: 'secondary hypertension', 'receptor-level mechanisms', 'H1-antagonist–induced α1-adrenergic potentiation'",
+            "Too academic for general audience",
+            "Focuses on mechanisms rather than practical implications"
+          ],
+          "strengths": [
+            "Mentions older adults specifically",
+            "Indicates content is underrecognized (valuable)",
+            "Appropriate length (182 characters, though a bit long)"
+          ]
+        },
+        "primaryKeyword": {
+          "score": 75,
+          "issues": [
+            "Slightly awkward with hyphen: 'medication-induced hypertension'",
+            "Could be more natural search phrasing"
+          ],
+          "strengths": [
+            "Clear and searchable concept",
+            "Specifies age group 'over 60'",
+            "Natural enough for search queries",
+            "Good length (40 characters)"
+          ]
+        }
+      },
+      "consistency_check": {
+        "score": 80,
+        "assessment": "All elements aligned on medication interactions and blood pressure in older adults. Good thematic consistency.",
+        "issues": [
+          "Description more technical than other elements"
+        ]
+      },
+      "key_problems": [
+        "Slug and title both too long (138 and 136 chars respectively)",
+        "Description uses technical medical terminology users won't understand",
+        "Could simplify while maintaining valuable information",
+        "PrimaryKeyword could use more natural phrasing"
+      ],
+      "optimization_priority": "medium",
+      "reasoning": "Article has solid foundation and clear value proposition. Main issues are length and technical description. With optimization, could perform significantly better while maintaining expertise."
+    },
+    {
+      "slug": "why-does-blood-pressure-spike-during-morning-commutes-not-just-stress-in-adults-58-67-with-subclinical-carotid-plaque",
+      "overall_score": 62,
+      "overall_assessment": "Fair - Clear topic and question format but too long and somewhat technical",
+      "needs_optimization": true,
+      "analysis": {
+        "core_topic": "Why blood pressure rises during morning commute beyond just stress factors",
+        "target_audience": "Adults 58-67 who commute and have blood pressure concerns",
+        "user_search_intent": "Understanding morning blood pressure spikes, especially during commute",
+        "likely_search_queries": [
+          "blood pressure spike morning",
+          "morning blood pressure high",
+          "blood pressure rise commute",
+          "why blood pressure high in morning"
+        ]
+      },
+      "element_scores": {
+        "slug": {
+          "score": 50,
+          "issues": [
+            "Too long (121 characters) - should be under 60",
+            "Technical term: 'subclinical carotid plaque'",
+            "Too specific with age range in slug"
+          ],
+          "strengths": [
+            "Clear topic: blood pressure and morning commute",
+            "Uses question format (natural for search)",
+            "Mentions it's beyond just stress (interesting angle)"
+          ]
+        },
+        "title": {
+          "score": 55,
+          "issues": [
+            "Too long (121 characters) - will be truncated",
+            "Technical medical term: 'subclinical carotid plaque'",
+            "Em-dash formatting may not display well everywhere"
+          ],
+          "strengths": [
+            "Question format engages users",
+            "Clear topic that users can relate to",
+            "Promises explanation beyond obvious (stress)",
+            "Age range helps targeting"
+          ]
+        },
+        "description": {
+          "score": 60,
+          "issues": [
+            "Technical terms: 'endothelial shear stress', 'transient systolic surges', 'early-atherosclerotic'",
+            "Focus on mechanisms rather than practical implications",
+            "Too academic tone"
+          ],
+          "strengths": [
+            "Mentions real-world factor (traffic exposure)",
+            "Indicates evidence-based (ambulatory BP data)",
+            "Appropriate length (185 characters, though a bit long)"
+          ]
+        },
+        "primaryKeyword": {
+          "score": 70,
+          "issues": [
+            "Slightly long (46 characters)",
+            "Could be more concise"
+          ],
+          "strengths": [
+            "Natural search phrase",
+            "Specific and relevant",
+            "Combines key concepts: morning + BP spike + traffic"
+          ]
+        }
+      },
+      "consistency_check": {
+        "score": 75,
+        "assessment": "All elements aligned on morning BP spike during commute. Good consistency in topic, though varying in technical level.",
+        "issues": [
+          "Varying levels of technicality across elements"
+        ]
+      },
+      "key_problems": [
+        "Slug and title both 121 characters - need to be shorter",
+        "Technical terms like 'subclinical carotid plaque' and 'endothelial shear stress' hurt accessibility",
+        "Description too academic for general audience",
+        "Could simplify while maintaining the interesting 'beyond stress' angle"
+      ],
+      "optimization_priority": "medium",
+      "reasoning": "Interesting topic with good question format that engages users. Main issues are length and technical terminology. With simplification, could perform well as it addresses common concern."
+    },
+    {
+      "slug": "when-to-skip-the-family-dessert-table-entirely-5-clinical-indicators-that-signal-high-risk-carbohydrate-load-for-adults-69-with-diabetic-gastroparesis",
+      "overall_score": 57,
+      "overall_assessment": "Fair - Specific topic but excessively long and technical phrasing",
+      "needs_optimization": true,
+      "analysis": {
+        "core_topic": "When to avoid desserts with diabetic gastroparesis",
+        "target_audience": "Adults 69+ with diabetic gastroparesis making meal decisions",
+        "user_search_intent": "Knowing when dessert is unsafe with gastroparesis, managing holiday/family meals",
+        "likely_search_queries": [
+          "diabetic gastroparesis dessert",
+          "eating dessert with gastroparesis",
+          "diabetes dessert gastroparesis",
+          "gastroparesis when to skip dessert"
+        ]
+      },
+      "element_scores": {
+        "slug": {
+          "score": 45,
+          "issues": [
+            "Too long (152 characters) - way over recommended maximum",
+            "Awkward phrasing: 'skip the family dessert table entirely'",
+            "Technical: 'clinical indicators', 'high-risk carbohydrate load'",
+            "Too specific with number (5) in slug"
+          ],
+          "strengths": [
+            "Contains key concepts: dessert and diabetic gastroparesis",
+            "Mentions age group"
+          ]
+        },
+        "title": {
+          "score": 50,
+          "issues": [
+            "Too long (148 characters) - will be truncated",
+            "Awkward phrasing in first half",
+            "Em-dash formatting",
+            "Too clinical tone: 'clinical indicators', 'high-risk carbohydrate load'"
+          ],
+          "strengths": [
+            "Number format (5) can perform well",
+            "Specific condition mentioned",
+            "Age group specified"
+          ]
+        },
+        "description": {
+          "score": 55,
+          "issues": [
+            "Technical terms: 'delayed gastric emptying', 'glucose volatility'",
+            "Lists symptoms rather than stating clear value",
+            "Somewhat clinical tone"
+          ],
+          "strengths": [
+            "Mentions specific warning signs",
+            "Appropriate length (187 characters, though a bit long)",
+            "Addresses important safety concern"
+          ]
+        },
+        "primaryKeyword": {
+          "score": 65,
+          "issues": [
+            "Awkward phrasing: 'skip dessert diabetic gastroparesis seniors'",
+            "Lacks natural connecting words",
+            "Reads like keyword stuffing"
+          ],
+          "strengths": [
+            "Contains key concepts",
+            "Specific to the condition",
+            "Includes audience (seniors)"
+          ]
+        }
+      },
+      "consistency_check": {
+        "score": 70,
+        "assessment": "All elements address diabetic gastroparesis and dessert decisions, but phrasing is awkward across all elements",
+        "issues": [
+          "Consistent in being awkwardly phrased",
+          "Need more natural language throughout"
+        ]
+      },
+      "key_problems": [
+        "Slug 152 characters - needs to be under 60",
+        "Title 148 characters - needs to be under 70",
+        "PrimaryKeyword awkward phrasing lacks natural connecting words",
+        "Clinical terminology throughout reduces accessibility",
+        "Valuable safety information hidden behind technical language"
+      ],
+      "optimization_priority": "medium",
+      "reasoning": "Important safety topic for specific audience, but presentation is too long and technical. Needs simplification to help target audience actually find and use this critical information."
+    },
+    {
+      "slug": "what-research-says-about-late-night-protein-timing-effects-on-overnight-glucose-stability-and-growth-hormone-pulses-in-adults-63-with-prediabetes",
+      "overall_score": 63,
+      "overall_assessment": "Fair - Clear topic but too long and somewhat academic in presentation",
+      "needs_optimization": true,
+      "analysis": {
+        "core_topic": "Effects of late-night protein consumption on blood sugar in older adults with prediabetes",
+        "target_audience": "Adults 63+ with prediabetes concerned about bedtime eating",
+        "user_search_intent": "Understanding whether eating protein before bed helps or hurts blood sugar control",
+        "likely_search_queries": [
+          "late night protein blood sugar",
+          "protein before bed diabetes",
+          "bedtime snack prediabetes",
+          "eating protein at night blood sugar"
+        ]
+      },
+      "element_scores": {
+        "slug": {
+          "score": 50,
+          "issues": [
+            "Too long (149 characters) - should be under 60",
+            "Academic phrasing: 'what research says about'",
+            "Technical: 'growth hormone pulses'",
+            "Too many concepts packed into slug"
+          ],
+          "strengths": [
+            "Contains key concepts: late-night protein and glucose",
+            "Mentions target age group",
+            "Specific condition (prediabetes)"
+          ]
+        },
+        "title": {
+          "score": 55,
+          "issues": [
+            "Too long (139 characters) - will be truncated",
+            "Academic format: 'What Research Says About...'",
+            "Technical term: 'growth hormone pulses'",
+            "Em-dash formatting"
+          ],
+          "strengths": [
+            "Clear topic: late-night protein timing",
+            "Relevant outcome: glucose stability",
+            "Evidence-based framing may appeal to some users",
+            "Age and condition specified"
+          ]
+        },
+        "description": {
+          "score": 60,
+          "issues": [
+            "Technical: 'casein vs. whey', 'nocturnal insulin sensitivity windows', 'hepatic gluconeogenesis rhythms'",
+            "Focus on study details rather than practical value",
+            "Academic tone"
+          ],
+          "strengths": [
+            "Mentions recent research (2023-2024)",
+            "Specific protein types",
+            "Appropriate length (169 characters)"
+          ]
+        },
+        "primaryKeyword": {
+          "score": 75,
+          "issues": [
+            "Could be slightly more specific or natural"
+          ],
+          "strengths": [
+            "Natural search phrase: 'late-night protein and blood sugar'",
+            "Clear and searchable",
+            "Good length (34 characters)",
+            "Likely matches user searches"
+          ]
+        }
+      },
+      "consistency_check": {
+        "score": 75,
+        "assessment": "All elements aligned on late-night protein and blood sugar topic. Good thematic consistency, though varying in technicality.",
+        "issues": [
+          "Description more technical than primaryKeyword"
+        ]
+      },
+      "key_problems": [
+        "Slug 149 characters - too long",
+        "Title 139 characters - too long",
+        "Academic 'What Research Says About' format may not be most clickable",
+        "Description too technical with protein types and metabolic processes",
+        "PrimaryKeyword is good but other elements need simplification"
+      ],
+      "optimization_priority": "medium",
+      "reasoning": "Relevant topic for growing prediabetes population. Good primaryKeyword foundation, but slug and title length plus academic tone hurt accessibility. With optimization, could perform better."
+    },
+    {
+      "slug": "myths-vs-facts-you-can-reverse-type-2-diabetes-with-diet-alone-what-15-year-remission-data-shows-for-adults-diagnosed-after-age-55",
+      "overall_score": 65,
+      "overall_assessment": "Fair - Important topic with clear value but too long and slightly academic",
+      "needs_optimization": true,
+      "analysis": {
+        "core_topic": "Reality of reversing type 2 diabetes with diet in older adults",
+        "target_audience": "Adults diagnosed with type 2 diabetes after age 55",
+        "user_search_intent": "Understanding whether they can reverse diabetes through diet alone, realistic expectations",
+        "likely_search_queries": [
+          "reverse diabetes after 55",
+          "cure diabetes diet",
+          "diabetes reversal older adults",
+          "can you reverse type 2 diabetes with diet"
+        ]
+      },
+      "element_scores": {
+        "slug": {
+          "score": 50,
+          "issues": [
+            "Too long (131 characters) - should be under 60",
+            "Too many concepts in slug",
+            "Specific data point (15-year) may not be necessary in slug"
+          ],
+          "strengths": [
+            "'Myths vs Facts' format addresses common misconception",
+            "Clear topic: diabetes reversal with diet",
+            "Mentions target age group (after 55)"
+          ]
+        },
+        "title": {
+          "score": 55,
+          "issues": [
+            "Too long (133 characters) - will be truncated",
+            "Tries to pack in too much information",
+            "Specific time frame (15-year) may not be most important element for title"
+          ],
+          "strengths": [
+            "'Myths vs Facts' format engages users",
+            "Directly states the myth being addressed",
+            "Evidence-based angle with remission data",
+            "Target age specified"
+          ]
+        },
+        "description": {
+          "score": 60,
+          "issues": [
+            "Technical terms: 'beta-cell recovery windows', 'metabolic inflexibility'",
+            "Academic tone",
+            "Focuses on why myth is wrong rather than what readers will learn"
+          ],
+          "strengths": [
+            "Addresses long-term durability (important concern)",
+            "Mentions age-specific factors",
+            "Appropriate length (183 characters)"
+          ]
+        },
+        "primaryKeyword": {
+          "score": 80,
+          "issues": [
+            "Could include 'diet' for completeness"
+          ],
+          "strengths": [
+            "Excellent search phrase: 'type 2 diabetes reversal after 55'",
+            "Natural and specific",
+            "Age-specific",
+            "Good length (33 characters)",
+            "Highly searchable"
+          ]
+        }
+      },
+      "consistency_check": {
+        "score": 80,
+        "assessment": "All elements aligned on diabetes reversal in older adults. Good consistency with 'Myths vs Facts' theme in slug and title.",
+        "issues": [
+          "Description could better match the myth-busting angle"
+        ]
+      },
+      "key_problems": [
+        "Slug 131 characters - too long",
+        "Title 133 characters - too long",
+        "Description uses technical terms that may not resonate with audience",
+        "Could be more compelling while maintaining accuracy",
+        "PrimaryKeyword is strong but other elements need tightening"
+      ],
+      "optimization_priority": "medium",
+      "reasoning": "Important topic with good primaryKeyword and strong 'Myths vs Facts' angle. Main issues are length and somewhat academic tone. With optimization, could perform well given high search interest in diabetes reversal."
+    },
+    {
+      "slug": "5-things-every-man-over-65-taking-testosterone-replacement-should-know-about-its-effect-on-insulin-receptor-tyrosine-kinase-activity-and-glucose-uptake-efficiency",
+      "overall_score": 45,
+      "overall_assessment": "Poor - Extremely technical with excessive length that severely hurts discoverability",
+      "needs_optimization": true,
+      "analysis": {
+        "core_topic": "How testosterone replacement therapy affects blood sugar and insulin sensitivity in older men",
+        "target_audience": "Men 65+ on testosterone replacement therapy, especially those with diabetes concerns",
+        "user_search_intent": "Understanding testosterone therapy's effects on blood sugar and diabetes risk",
+        "likely_search_queries": [
+          "testosterone and diabetes",
+          "testosterone blood sugar men",
+          "testosterone replacement glucose",
+          "testosterone therapy and insulin"
+        ]
+      },
+      "element_scores": {
+        "slug": {
+          "score": 35,
+          "issues": [
+            "Extremely long (168 characters) - far exceeds maximum",
+            "Highly technical: 'insulin receptor tyrosine kinase activity', 'glucose uptake efficiency'",
+            "Way too specific with molecular mechanisms",
+            "Unnatural and unsearchable"
+          ],
+          "strengths": [
+            "Mentions testosterone replacement",
+            "Specifies age group (over 65)",
+            "Number format (5 things)"
+          ]
+        },
+        "title": {
+          "score": 30,
+          "issues": [
+            "Extremely long (165 characters) - will be severely truncated",
+            "Highly technical molecular terminology",
+            "Not accessible to general audience",
+            "Too academic for practical health advice"
+          ],
+          "strengths": [
+            "Number format (5 things) can perform well",
+            "Clear target audience (men over 65 on testosterone)",
+            "Addresses specific concern"
+          ]
+        },
+        "description": {
+          "score": 45,
+          "issues": [
+            "Technical: 'androgen therapy', 'skeletal muscle insulin signaling', 'paradoxical hyperglycemia'",
+            "Academic focus on molecular mechanisms",
+            "Not user-friendly or actionable"
+          ],
+          "strengths": [
+            "Mentions monitoring beyond A1c (practical tip)",
+            "Appropriate length (172 characters)",
+            "Addresses important safety concern"
+          ]
+        },
+        "primaryKeyword": {
+          "score": 70,
+          "issues": [
+            "Could be more specific to target audience (men, age)",
+            "Slightly clinical term 'insulin resistance'"
+          ],
+          "strengths": [
+            "Natural search phrase: 'testosterone therapy and insulin resistance'",
+            "Clear connection between topics",
+            "Searchable",
+            "Good length (44 characters)"
+          ]
+        }
+      },
+      "consistency_check": {
+        "score": 65,
+        "assessment": "All elements address testosterone and glucose/insulin effects, but slug/title are far more technical than primaryKeyword",
+        "issues": [
+          "Major disconnect in technicality level between primaryKeyword and slug/title",
+          "Slug/title use molecular terminology while keyword is more accessible"
+        ]
+      },
+      "key_problems": [
+        "Slug 168 characters - extremely long, needs to be under 60",
+        "Title 165 characters - severely over limit",
+        "Molecular-level technical terms throughout (tyrosine kinase, skeletal muscle insulin signaling)",
+        "PrimaryKeyword is decent but could be more specific to men over 65",
+        "Critical health information hidden behind impenetrable jargon"
+      ],
+      "optimization_priority": "high",
+      "reasoning": "Important safety topic for growing population of older men on testosterone therapy. However, extreme length and highly technical presentation will prevent target audience from finding this valuable information. Requires major simplification."
+    }
+  ],
+  "optimization_results": [
+    {
+      "slug": "the-truth-about-normal-bp-variability-why-24-hour-sd-15-mmhg-predicts-microinfarct-burden-in-adults-69-with-white-matter-hyperintensities",
+      "optimization_attempted": true,
+      "optimization_successful": true,
+      "analysis": {
+        "core_topic": "Blood pressure variability and its impact on brain health in elderly adults",
+        "target_audience": "Seniors 69+ with blood pressure concerns or at risk for cognitive decline",
+        "user_search_intent": "Understanding connection between BP fluctuations and brain damage",
+        "primary_search_queries": [
+          "blood pressure variability brain health",
+          "blood pressure fluctuations dementia",
+          "blood pressure changes brain damage seniors"
+        ]
+      },
+      "optimizations": {
+        "primaryKeyword": {
+          "original": "blood pressure variability and brain health",
+          "optimized": "blood pressure variability and brain health",
+          "changed": false,
+          "rationale": "Already optimal - natural phrasing that users would search, clear topic, appropriate length (44 chars), highly searchable. No changes needed.",
+          "character_count": 44
+        },
+        "slug": {
+          "original": "the-truth-about-normal-bp-variability-why-24-hour-sd-15-mmhg-predicts-microinfarct-burden-in-adults-69-with-white-matter-hyperintensities",
+          "optimized": "blood-pressure-variability-brain-damage-seniors",
+          "changed": true,
+          "rationale": "Original 143 chars with heavy technical jargon (24-hour SD, mmHg, microinfarct burden, white matter hyperintensities). New version 48 chars, removes all jargon, uses 'brain damage' instead of technical terms, clear audience identifier. Much better for SEO and user understanding.",
+          "character_count": 48
+        },
+        "title": {
+          "original": "The Truth About 'Normal' BP Variability: Why 24-Hour SD >15 mmHg Predicts Microinfarct Burden in Adults 69+ With White Matter Hyperintensities",
+          "optimized": "Blood Pressure Variability and Brain Health: What Seniors Need to Know",
+          "changed": true,
+          "rationale": "Original 145 chars, highly technical. New version 71 chars (just over ideal but acceptable), removes medical jargon, uses clear value proposition 'What Seniors Need to Know', natural and clickable. Maintains the truth-seeking angle through 'Need to Know'.",
+          "character_count": 71
+        },
+        "description": {
+          "original": "Debunks the myth of benign BP lability in aging brains, linking excessive circadian amplitude to cerebral small-vessel endothelial injury and silent infarct progression.",
+          "optimized": "Learn how blood pressure fluctuations can affect brain health in seniors. Understand the risks, warning signs, and what your doctor should monitor.",
+          "changed": true,
+          "rationale": "Original 172 chars with technical terms (BP lability, circadian amplitude, cerebral small-vessel endothelial injury). New version 147 chars, user-friendly language, actionable value (learn about risks and monitoring), includes keyword naturally, clear benefits.",
+          "character_count": 147
+        }
+      },
+      "quality_scores": {
+        "primaryKeyword": {
+          "score": 90,
+          "assessment": "Excellent - natural search phrase, clear topic, appropriate length, highly searchable"
+        },
+        "slug": {
+          "score": 92,
+          "assessment": "Excellent - concise (48 chars), clear topic, natural phrasing, user-friendly"
+        },
+        "title": {
+          "score": 88,
+          "assessment": "Very good - slightly over ideal length but clear value proposition, natural language, compelling"
+        },
+        "description": {
+          "score": 90,
+          "assessment": "Excellent - actionable, user-friendly, good length, natural keyword inclusion"
+        },
+        "consistency": {
+          "score": 93,
+          "assessment": "All elements perfectly aligned on BP variability and brain health theme with user-friendly language"
+        },
+        "overall": 91
+      },
+      "validation": {
+        "all_elements_meet_standards": true,
+        "all_scores_above_85": true,
+        "consistency_maintained": true,
+        "ready_to_publish": true
+      },
+      "optimization_summary": "Successfully transformed overly technical, excessively long metadata into user-friendly, searchable content. Removed medical jargon while maintaining accuracy. All elements now aligned on clear theme: blood pressure variability affects brain health in seniors. Expect significantly better search visibility and click-through rates."
+    },
+    {
+      "slug": "natural-ways-to-support-pancreatic-beta-cell-resilience-without-stimulating-insulin-secretion-using-sulforaphane-timing-low-dose-lithium-in-adults-56-64-with-early-beta-cell-decline",
+      "optimization_attempted": true,
+      "optimization_successful": true,
+      "analysis": {
+        "core_topic": "Natural approaches to protect pancreatic beta cells and prevent diabetes progression",
+        "target_audience": "Adults 56-64 with prediabetes or early beta-cell decline",
+        "user_search_intent": "Finding natural ways to protect pancreas and prevent diabetes without medication",
+        "primary_search_queries": [
+          "natural ways to protect beta cells",
+          "protect pancreas naturally",
+          "beta cell health supplements",
+          "prevent diabetes naturally"
+        ]
+      },
+      "optimizations": {
+        "primaryKeyword": {
+          "original": "health management seniors",
+          "optimized": "natural ways to protect beta cells diabetes",
+          "changed": true,
+          "rationale": "Original was completely mismatched - 'health management seniors' is too generic and doesn't reflect article content at all. New version clearly states the topic (protect beta cells), approach (natural), and condition (diabetes). Highly searchable and specific. 44 characters.",
+          "character_count": 44
+        },
+        "slug": {
+          "original": "natural-ways-to-support-pancreatic-beta-cell-resilience-without-stimulating-insulin-secretion-using-sulforaphane-timing-low-dose-lithium-in-adults-56-64-with-early-beta-cell-decline",
+          "optimized": "natural-ways-protect-beta-cells-prediabetes",
+          "changed": true,
+          "rationale": "Original 185 chars with excessive detail and technical terms. New version 44 chars, clear topic (protect beta cells), approach (natural), condition (prediabetes which users understand better than 'beta-cell decline'). Concise and searchable.",
+          "character_count": 44
+        },
+        "title": {
+          "original": "Natural Ways to Support Pancreatic Beta-Cell Resilience *Without* Stimulating Insulin Secretion — Using Sulforaphane Timing + Low-Dose Lithium in Adults 56–64 With Early Beta-Cell Decline",
+          "optimized": "Natural Ways to Protect Beta Cells and Prevent Diabetes After 55",
+          "changed": true,
+          "rationale": "Original 190 chars, overly specific with supplement names. New version 64 chars, focuses on benefit (prevent diabetes), clear approach (natural), appropriate age marker (after 55). More appealing and searchable than listing specific supplements.",
+          "character_count": 64
+        },
+        "description": {
+          "original": "Focuses on cytoprotective, not secretagogue, approaches — Nrf2 activation, autophagy enhancement, and epigenetic modulation to preserve residual function.",
+          "optimized": "Learn natural approaches to protect pancreatic beta cells with nutrition, supplements, and lifestyle changes. Science-backed strategies for adults over 55.",
+          "changed": true,
+          "rationale": "Original 155 chars with highly technical terms (cytoprotective, secretagogue, Nrf2, autophagy, epigenetic). New version 149 chars, user-friendly language, actionable categories (nutrition, supplements, lifestyle), evidence-based angle, clear audience.",
+          "character_count": 149
+        }
+      },
+      "quality_scores": {
+        "primaryKeyword": {
+          "score": 90,
+          "assessment": "Excellent - natural search phrase, specific topic, clear approach and condition"
+        },
+        "slug": {
+          "score": 92,
+          "assessment": "Excellent - concise (44 chars), clear topic, uses 'prediabetes' which is more searchable than technical terms"
+        },
+        "title": {
+          "score": 91,
+          "assessment": "Excellent - ideal length, clear benefit (prevent diabetes), natural approach, age-appropriate"
+        },
+        "description": {
+          "score": 89,
+          "assessment": "Excellent - actionable categories, user-friendly, science-backed angle adds credibility, clear audience"
+        },
+        "consistency": {
+          "score": 92,
+          "assessment": "All elements perfectly aligned on natural beta cell protection and diabetes prevention theme"
+        },
+        "overall": 91
+      },
+      "validation": {
+        "all_elements_meet_standards": true,
+        "all_scores_above_85": true,
+        "consistency_maintained": true,
+        "ready_to_publish": true
+      },
+      "optimization_summary": "Completely transformed from technical, overly specific metadata with mismatched primaryKeyword to clear, user-friendly content. Focused on benefits (prevent diabetes) rather than mechanisms. All elements now work together to help target audience find this valuable natural health information."
+    },
+    {
+      "slug": "myths-vs-facts-about-salt-sensitivity-after-60-why-3-000-mg-sodium-can-be-safe-or-harmful-depending-on-your-enac-genotype-and-gut-microbiome-profile",
+      "optimization_attempted": true,
+      "optimization_successful": true,
+      "analysis": {
+        "core_topic": "Personalized sodium recommendations based on genetics and gut microbiome",
+        "target_audience": "Adults 60+ concerned about salt intake and blood pressure",
+        "user_search_intent": "Understanding if standard salt restrictions apply to them personally",
+        "primary_search_queries": [
+          "salt sensitivity after 60",
+          "how much salt seniors",
+          "salt and blood pressure personalized",
+          "sodium guidelines over 60"
+        ]
+      },
+      "optimizations": {
+        "primaryKeyword": {
+          "original": "salt sensitivity genetics microbiome aging",
+          "optimized": "salt sensitivity after 60 personalized guidelines",
+          "changed": true,
+          "rationale": "Original was awkward keyword stuffing. New version is natural search phrase, includes age marker 'after 60', and key concept 'personalized guidelines' which captures the article's unique angle. 49 characters, searchable and natural.",
+          "character_count": 49
+        },
+        "slug": {
+          "original": "myths-vs-facts-about-salt-sensitivity-after-60-why-3-000-mg-sodium-can-be-safe-or-harmful-depending-on-your-enac-genotype-and-gut-microbiome-profile",
+          "optimized": "salt-sensitivity-personalized-guidelines-seniors",
+          "changed": true,
+          "rationale": "Original 149 chars with technical jargon (ENaC genotype, microbiome profile). New version 48 chars, clear topic (salt sensitivity), key angle (personalized), audience (seniors). Removes unnecessary technical details from URL.",
+          "character_count": 48
+        },
+        "title": {
+          "original": "Myths vs Facts About 'Salt Sensitivity' After 60 — Why 3,000 mg Sodium *Can* Be Safe (or Harmful) Depending on Your ENaC Genotype and Gut Microbiome Profile",
+          "optimized": "Salt Sensitivity After 60: Why Sodium Needs Are Different for Everyone",
+          "changed": true,
+          "rationale": "Original 151 chars with technical terms. New version 70 chars (ideal length), maintains personalization angle ('Different for Everyone'), removes jargon, clear age marker, more engaging and accessible. Still conveys the myth-busting concept through individualization.",
+          "character_count": 70
+        },
+        "description": {
+          "original": "Deconstructs monolithic sodium advice using pharmacogenomics (SCNN1B variants) and microbial TMAO–butyrate ratios to define personalized sodium thresholds.",
+          "optimized": "Learn why salt affects people differently after 60. Discover how genetics and gut health determine your personal sodium limits.",
+          "changed": true,
+          "rationale": "Original 158 chars with highly technical terms (pharmacogenomics, SCNN1B, TMAO-butyrate). New version 129 chars, user-friendly language, clear benefits (understand personal limits), mentions key factors (genetics, gut health) without jargon, actionable.",
+          "character_count": 129
+        }
+      },
+      "quality_scores": {
+        "primaryKeyword": {
+          "score": 88,
+          "assessment": "Excellent - natural phrase, age-specific, captures personalization angle"
+        },
+        "slug": {
+          "score": 90,
+          "assessment": "Excellent - concise, clear topic and unique angle, audience-appropriate"
+        },
+        "title": {
+          "score": 89,
+          "assessment": "Excellent - ideal length, engaging personalization angle, clear age marker"
+        },
+        "description": {
+          "score": 87,
+          "assessment": "Very good - user-friendly, actionable, mentions key factors without jargon"
+        },
+        "consistency": {
+          "score": 90,
+          "assessment": "All elements aligned on personalized salt sensitivity for seniors theme"
+        },
+        "overall": 89
+      },
+      "validation": {
+        "all_elements_meet_standards": true,
+        "all_scores_above_85": true,
+        "consistency_maintained": true,
+        "ready_to_publish": true
+      },
+      "optimization_summary": "Transformed highly technical, overly long metadata into accessible content that maintains the important personalization angle. Removed jargon (ENaC, SCNN1B, pharmacogenomics) while keeping core message that salt needs are individual. Much more discoverable for seniors seeking personalized sodium guidance."
+    },
+    {
+      "slug": "best-seated-breathing-patterns-with-real-time-hrv-feedback-for-adults-79-with-frailty-orthostatic-intolerance-and-mild-pulmonary-hypertension",
+      "optimization_attempted": true,
+      "optimization_successful": true,
+      "analysis": {
+        "core_topic": "Safe breathing exercises for very frail elderly adults with blood pressure and mobility issues",
+        "target_audience": "Adults 79+ with frailty, blood pressure concerns, limited mobility",
+        "user_search_intent": "Finding safe, gentle breathing exercises suitable for frail elderly",
+        "primary_search_queries": [
+          "breathing exercises elderly frail",
+          "breathing exercises blood pressure seniors 80+",
+          "safe breathing exercises elderly",
+          "gentle breathing exercises frail seniors"
+        ]
+      },
+      "optimizations": {
+        "primaryKeyword": {
+          "original": "hypertension management adults 79+",
+          "optimized": "breathing exercises for blood pressure seniors 80+",
+          "changed": true,
+          "rationale": "Original was too generic (could be any hypertension content). New version specifically states the method (breathing exercises), the benefit (blood pressure), and audience (seniors 80+). Much more specific and searchable. 50 characters.",
+          "character_count": 50
+        },
+        "slug": {
+          "original": "best-seated-breathing-patterns-with-real-time-hrv-feedback-for-adults-79-with-frailty-orthostatic-intolerance-and-mild-pulmonary-hypertension",
+          "optimized": "breathing-exercises-blood-pressure-seniors-80-plus",
+          "changed": true,
+          "rationale": "Original 145 chars with technical medical terms (HRV feedback, orthostatic intolerance, pulmonary hypertension). New version 50 chars, clear method (breathing exercises), benefit (blood pressure), audience (seniors 80+). Much more accessible.",
+          "character_count": 50
+        },
+        "title": {
+          "original": "Best Seated Breathing Patterns *With Real-Time HRV Feedback* for Adults 79+ With Frailty, Orthostatic Intolerance, and Mild Pulmonary Hypertension",
+          "optimized": "Safe Breathing Exercises for Blood Pressure Control in Seniors 80+",
+          "changed": true,
+          "rationale": "Original 147 chars with intimidating medical terminology. New version 66 chars, emphasizes safety (critical for frail elderly), clear benefit (BP control), welcoming tone. 'Safe' is key word for this vulnerable population.",
+          "character_count": 66
+        },
+        "description": {
+          "original": "Validates resonant frequency breathing protocols (4.5–5.5 breaths/min) coupled with HRV-guided pacing to lower pulmonary vascular resistance without orthostatic risk.",
+          "optimized": "Learn gentle breathing techniques to help manage blood pressure safely if you're 80 or older. Includes step-by-step guidance for frail seniors.",
+          "changed": true,
+          "rationale": "Original 167 chars with technical terms (resonant frequency, HRV-guided, pulmonary vascular resistance). New version 147 chars, emphasizes gentleness and safety, promises practical guidance (step-by-step), acknowledges frailty without listing medical conditions.",
+          "character_count": 147
+        }
+      },
+      "quality_scores": {
+        "primaryKeyword": {
+          "score": 89,
+          "assessment": "Excellent - specific method and benefit, clear age marker, highly searchable"
+        },
+        "slug": {
+          "score": 91,
+          "assessment": "Excellent - concise, clear, accessible, age-appropriate"
+        },
+        "title": {
+          "score": 90,
+          "assessment": "Excellent - emphasizes safety (critical for audience), clear benefit, welcoming length"
+        },
+        "description": {
+          "score": 88,
+          "assessment": "Excellent - gentle tone appropriate for frail elderly, practical promise (step-by-step), safe and accessible"
+        },
+        "consistency": {
+          "score": 91,
+          "assessment": "All elements perfectly aligned on safe breathing exercises for very elderly population"
+        },
+        "overall": 90
+      },
+      "validation": {
+        "all_elements_meet_standards": true,
+        "all_scores_above_85": true,
+        "consistency_maintained": true,
+        "ready_to_publish": true
+      },
+      "optimization_summary": "Transformed intimidating medical terminology into welcoming, safe-focused content appropriate for very frail elderly population. Emphasized safety and gentleness throughout. Removed technical terms that could discourage target audience. This valuable exercise guidance is now much more accessible to those who need it most."
+    },
+    {
+      "slug": "7-hidden-medication-interactions-that-raise-blood-pressure-after-age-60-including-common-antidepressants-antihistamines-and-topical-nsaids",
+      "optimization_attempted": true,
+      "optimization_successful": true,
+      "analysis": {
+        "core_topic": "Hidden medication interactions that raise blood pressure in older adults",
+        "target_audience": "Adults 60+ taking multiple medications, especially those with unexplained BP increases",
+        "user_search_intent": "Understanding why blood pressure increased despite medication, identifying drug interactions",
+        "primary_search_queries": [
+          "medications that raise blood pressure",
+          "blood pressure medication interactions seniors",
+          "why did my blood pressure go up",
+          "medications that increase blood pressure over 60"
+        ]
+      },
+      "optimizations": {
+        "primaryKeyword": {
+          "original": "medication-induced hypertension over 60",
+          "optimized": "medications that raise blood pressure over 60",
+          "changed": true,
+          "rationale": "Original used clinical term 'medication-induced hypertension'. New version uses natural search language 'medications that raise blood pressure' which is how users actually search. Maintains age marker. 45 characters, highly searchable.",
+          "character_count": 45
+        },
+        "slug": {
+          "original": "7-hidden-medication-interactions-that-raise-blood-pressure-after-age-60-including-common-antidepressants-antihistamines-and-topical-nsaids",
+          "optimized": "medications-that-raise-blood-pressure-seniors",
+          "changed": true,
+          "rationale": "Original 138 chars, tries to list specific drug types. New version 45 chars, clear topic, uses 'seniors' instead of 'after age 60' for brevity. Number and specific drugs can be in title/description, don't need to be in slug.",
+          "character_count": 45
+        },
+        "title": {
+          "original": "7 Hidden Medication Interactions That Raise Blood Pressure *After* Age 60 — Including Common Antidepressants, Antihistamines, and Topical NSAIDs",
+          "optimized": "7 Medications That Raise Blood Pressure in Seniors (Hidden Interactions)",
+          "changed": true,
+          "rationale": "Original 136 chars. New version 71 chars, keeps number format (performs well), simplifies to 'in Seniors', adds '(Hidden Interactions)' for intrigue without listing specific drugs (they can click to learn). More concise and clickable.",
+          "character_count": 71
+        },
+        "description": {
+          "original": "Identifies clinically underrecognized pharmacologic culprits of secondary hypertension in older adults, with emphasis on receptor-level mechanisms (e.g., H1-antagonist–induced α1-adrenergic potentiation).",
+          "optimized": "Common medications like antidepressants and antihistamines can raise blood pressure after 60. Learn which combinations to watch for.",
+          "changed": true,
+          "rationale": "Original 206 chars with highly technical terms (pharmacologic culprits, receptor-level mechanisms, H1-antagonist α1-adrenergic potentiation). New version 140 chars, mentions specific relatable drug types, clear age marker, actionable (what to watch for).",
+          "character_count": 140
+        }
+      },
+      "quality_scores": {
+        "primaryKeyword": {
+          "score": 90,
+          "assessment": "Excellent - natural search phrase, specific age group, how users actually search"
+        },
+        "slug": {
+          "score": 92,
+          "assessment": "Excellent - concise, clear topic, audience-appropriate"
+        },
+        "title": {
+          "score": 91,
+          "assessment": "Excellent - number format (works well), concise, clear value, adds intrigue with 'Hidden'"
+        },
+        "description": {
+          "score": 89,
+          "assessment": "Excellent - mentions specific relatable drugs, actionable, user-friendly, good length"
+        },
+        "consistency": {
+          "score": 92,
+          "assessment": "All elements aligned on medications raising BP in seniors with practical focus"
+        },
+        "overall": 91
+      },
+      "validation": {
+        "all_elements_meet_standards": true,
+        "all_scores_above_85": true,
+        "consistency_maintained": true,
+        "ready_to_publish": true
+      },
+      "optimization_summary": "Refined good foundation by shortening length and removing technical pharmacology terminology. Maintained the valuable 'hidden interactions' angle while making content more accessible. Now uses natural search language seniors would actually type into Google."
+    },
+    {
+      "slug": "why-does-blood-pressure-spike-during-morning-commutes-not-just-stress-in-adults-58-67-with-subclinical-carotid-plaque",
+      "optimization_attempted": true,
+      "optimization_successful": true,
+      "analysis": {
+        "core_topic": "Why blood pressure rises during morning commute beyond just stress factors",
+        "target_audience": "Adults 58-67 who commute and have blood pressure concerns",
+        "user_search_intent": "Understanding morning blood pressure spikes, especially during commute",
+        "primary_search_queries": [
+          "blood pressure spike morning",
+          "morning blood pressure high",
+          "blood pressure rise commute",
+          "why blood pressure spikes in morning"
+        ]
+      },
+      "optimizations": {
+        "primaryKeyword": {
+          "original": "morning blood pressure spike traffic exposure",
+          "optimized": "morning blood pressure spike causes",
+          "changed": true,
+          "rationale": "Original was specific but slightly awkward with 'traffic exposure'. New version is more general and natural search phrase 'causes', which allows article to be found for various morning spike causes (not just traffic). 38 characters, highly searchable.",
+          "character_count": 38
+        },
+        "slug": {
+          "original": "why-does-blood-pressure-spike-during-morning-commutes-not-just-stress-in-adults-58-67-with-subclinical-carotid-plaque",
+          "optimized": "why-blood-pressure-spikes-morning-commute",
+          "changed": true,
+          "rationale": "Original 121 chars with technical term (subclinical carotid plaque). New version 41 chars, keeps question format (natural for search), clear topic, removes medical terminology and age range (not needed in slug).",
+          "character_count": 41
+        },
+        "title": {
+          "original": "Why Does Blood Pressure Spike During Morning Commutes — Not Just 'Stress' — In Adults 58–67 With Subclinical Carotid Plaque?",
+          "optimized": "Why Does Blood Pressure Spike During Morning Commute? (Beyond Stress)",
+          "changed": true,
+          "rationale": "Original 121 chars with technical term. New version 69 chars, keeps engaging question format, maintains 'beyond stress' angle (the unique value) in parenthetical, removes medical jargon and specific age range. More universal appeal.",
+          "character_count": 69
+        },
+        "description": {
+          "original": "Explores the mechanistic link between urban traffic exposure, endothelial shear stress, and transient systolic surges in early-atherosclerotic adults, with real-time ambulatory BP data correlations.",
+          "optimized": "Discover the real reasons blood pressure rises during your morning commute - not just stress. Learn what research shows about traffic and heart health.",
+          "changed": true,
+          "rationale": "Original 198 chars with highly technical terms (mechanistic link, endothelial shear stress, transient systolic surges). New version 151 chars, conversational ('your morning commute'), promises insights beyond obvious, mentions traffic and heart health without jargon.",
+          "character_count": 151
+        }
+      },
+      "quality_scores": {
+        "primaryKeyword": {
+          "score": 88,
+          "assessment": "Excellent - natural search phrase, specific yet broad enough, highly searchable"
+        },
+        "slug": {
+          "score": 90,
+          "assessment": "Excellent - concise, question format works well, clear topic"
+        },
+        "title": {
+          "score": 89,
+          "assessment": "Excellent - ideal length, engaging question format, maintains unique 'beyond stress' angle"
+        },
+        "description": {
+          "score": 87,
+          "assessment": "Very good - conversational tone, promises insights, accessible language"
+        },
+        "consistency": {
+          "score": 90,
+          "assessment": "All elements aligned on morning commute BP spike theme with accessible language"
+        },
+        "overall": 89
+      },
+      "validation": {
+        "all_elements_meet_standards": true,
+        "all_scores_above_85": true,
+        "consistency_maintained": true,
+        "ready_to_publish": true
+      },
+      "optimization_summary": "Preserved the engaging question format and unique 'beyond stress' angle while removing technical medical terminology. Made content more broadly appealing by removing specific age range and medical conditions. Now more accessible while maintaining the interesting insight that differentiates this from generic stress articles."
+    },
+    {
+      "slug": "when-to-skip-the-family-dessert-table-entirely-5-clinical-indicators-that-signal-high-risk-carbohydrate-load-for-adults-69-with-diabetic-gastroparesis",
+      "optimization_attempted": true,
+      "optimization_successful": true,
+      "analysis": {
+        "core_topic": "When to avoid desserts with diabetic gastroparesis",
+        "target_audience": "Adults 69+ with diabetic gastroparesis making meal and dessert decisions",
+        "user_search_intent": "Knowing when dessert is unsafe with gastroparesis, managing holiday/family meals safely",
+        "primary_search_queries": [
+          "diabetic gastroparesis dessert",
+          "eating dessert with gastroparesis",
+          "gastroparesis when to skip dessert",
+          "diabetic gastroparesis food guide"
+        ]
+      },
+      "optimizations": {
+        "primaryKeyword": {
+          "original": "skip dessert diabetic gastroparesis seniors",
+          "optimized": "diabetic gastroparesis and desserts seniors",
+          "changed": true,
+          "rationale": "Original awkward phrasing without connecting words. New version adds 'and' for natural flow, reorders to 'diabetic gastroparesis and desserts' which is more searchable. 43 characters, natural search phrase.",
+          "character_count": 43
+        },
+        "slug": {
+          "original": "when-to-skip-the-family-dessert-table-entirely-5-clinical-indicators-that-signal-high-risk-carbohydrate-load-for-adults-69-with-diabetic-gastroparesis",
+          "optimized": "diabetic-gastroparesis-dessert-guide-seniors",
+          "changed": true,
+          "rationale": "Original 152 chars with awkward phrasing and clinical terminology. New version 44 chars, straightforward topic (gastroparesis + dessert), helpful format (guide), audience (seniors). 'Guide' suggests practical help rather than just 'when to skip'.",
+          "character_count": 44
+        },
+        "title": {
+          "original": "When to Skip the Family Dessert Table Entirely — 5 Clinical Indicators That Signal High-Risk Carbohydrate Load for Adults 69+ With Diabetic Gastroparesis",
+          "optimized": "Diabetic Gastroparesis: When to Skip Dessert (Guide for Seniors)",
+          "changed": true,
+          "rationale": "Original 148 chars with clinical tone. New version 64 chars, clear condition (diabetic gastroparesis), practical question (when to skip dessert), audience marker (Seniors). 'Guide' format suggests helpful rather than restrictive content.",
+          "character_count": 64
+        },
+        "description": {
+          "original": "Identifies subtle but critical signs — including pre-meal gastric rumbling, delayed satiety cues, and post-caffeine nausea — that predict severe delayed gastric emptying and glucose volatility after dessert.",
+          "optimized": "Learn the warning signs that dessert could cause problems with diabetic gastroparesis. Includes tips for safer meal planning after 65.",
+          "changed": true,
+          "rationale": "Original 209 chars with detailed symptom list and technical terms (delayed gastric emptying, glucose volatility). New version 140 chars, promises warning signs (practical), acknowledges the problem ('could cause problems' - honest but not scary), adds positive angle (safer meal planning).",
+          "character_count": 140
+        }
+      },
+      "quality_scores": {
+        "primaryKeyword": {
+          "score": 87,
+          "assessment": "Very good - natural phrasing with proper connecting words, specific condition and topic"
+        },
+        "slug": {
+          "score": 89,
+          "assessment": "Excellent - concise, 'guide' format suggests helpful content, clear topic and audience"
+        },
+        "title": {
+          "score": 88,
+          "assessment": "Excellent - ideal length, practical format, clear condition and question, helpful tone"
+        },
+        "description": {
+          "score": 86,
+          "assessment": "Very good - promises practical warning signs, adds positive planning angle, accessible language"
+        },
+        "consistency": {
+          "score": 88,
+          "assessment": "All elements aligned on diabetic gastroparesis dessert guidance theme"
+        },
+        "overall": 88
+      },
+      "validation": {
+        "all_elements_meet_standards": true,
+        "all_scores_above_85": true,
+        "consistency_maintained": true,
+        "ready_to_publish": true
+      },
+      "optimization_summary": "Transformed awkward, overly clinical content into helpful guidance format. Changed tone from restrictive ('skip entirely', 'clinical indicators') to practical and supportive ('guide', 'safer meal planning'). Important safety information now more accessible and less intimidating for seniors managing this challenging condition."
+    },
+    {
+      "slug": "what-research-says-about-late-night-protein-timing-effects-on-overnight-glucose-stability-and-growth-hormone-pulses-in-adults-63-with-prediabetes",
+      "optimization_attempted": true,
+      "optimization_successful": true,
+      "analysis": {
+        "core_topic": "Effects of late-night protein consumption on blood sugar in adults with prediabetes",
+        "target_audience": "Adults 63+ with prediabetes concerned about bedtime eating",
+        "user_search_intent": "Understanding whether eating protein before bed helps or hurts blood sugar control",
+        "primary_search_queries": [
+          "late night protein blood sugar",
+          "protein before bed diabetes",
+          "bedtime snack prediabetes",
+          "eating protein at night prediabetes"
+        ]
+      },
+      "optimizations": {
+        "primaryKeyword": {
+          "original": "late-night protein and blood sugar",
+          "optimized": "late-night protein and blood sugar",
+          "changed": false,
+          "rationale": "Already excellent - natural search phrase, clear relationship between concepts, appropriate length (34 chars), highly searchable. No changes needed.",
+          "character_count": 34
+        },
+        "slug": {
+          "original": "what-research-says-about-late-night-protein-timing-effects-on-overnight-glucose-stability-and-growth-hormone-pulses-in-adults-63-with-prediabetes",
+          "optimized": "late-night-protein-blood-sugar-prediabetes",
+          "changed": true,
+          "rationale": "Original 149 chars with academic phrasing and technical terms (growth hormone pulses, overnight glucose stability). New version 42 chars, straightforward topic, clear condition (prediabetes), drops 'what research says about' (not needed in URL).",
+          "character_count": 42
+        },
+        "title": {
+          "original": "What Research Says About Late-Night Protein Timing — Effects on Overnight Glucose Stability and Growth Hormone Pulses in Adults 63+ With Prediabetes",
+          "optimized": "Late-Night Protein and Blood Sugar: What Research Shows for Seniors",
+          "changed": true,
+          "rationale": "Original 139 chars with technical terms. New version 67 chars, keeps evidence-based angle ('What Research Shows'), simplifies to 'Blood Sugar' instead of 'Overnight Glucose Stability', uses 'Seniors' instead of specific age, removes growth hormone (secondary topic).",
+          "character_count": 67
+        },
+        "description": {
+          "original": "Reviews 2023–2024 trials on casein vs. whey timing, nocturnal insulin sensitivity windows, and how protein intake shifts hepatic gluconeogenesis rhythms in aging livers.",
+          "optimized": "Does eating protein before bed help or hurt blood sugar? Learn what research shows about late-night snacks for adults over 60 with prediabetes.",
+          "changed": true,
+          "rationale": "Original 169 chars with technical terms (casein vs whey, nocturnal insulin sensitivity, hepatic gluconeogenesis rhythms). New version 147 chars, starts with user question, promises answer based on research, relatable phrase 'late-night snacks', clear audience.",
+          "character_count": 147
+        }
+      },
+      "quality_scores": {
+        "primaryKeyword": {
+          "score": 90,
+          "assessment": "Excellent - natural, clear, searchable, appropriate length"
+        },
+        "slug": {
+          "score": 91,
+          "assessment": "Excellent - concise, clear topic and condition, user-friendly"
+        },
+        "title": {
+          "score": 89,
+          "assessment": "Excellent - good length, maintains evidence-based angle, simplified language, broad appeal"
+        },
+        "description": {
+          "score": 88,
+          "assessment": "Excellent - starts with user question, promises research-based answer, accessible language"
+        },
+        "consistency": {
+          "score": 90,
+          "assessment": "All elements aligned on late-night protein and blood sugar theme with evidence-based angle"
+        },
+        "overall": 90
+      },
+      "validation": {
+        "all_elements_meet_standards": true,
+        "all_scores_above_85": true,
+        "consistency_maintained": true,
+        "ready_to_publish": true
+      },
+      "optimization_summary": "Simplified academic presentation while maintaining evidence-based credibility. Removed technical protein types and metabolic processes in favor of user-friendly language. Description now poses the exact question users have, making it highly relatable. PrimaryKeyword was already excellent, required no changes."
+    },
+    {
+      "slug": "myths-vs-facts-you-can-reverse-type-2-diabetes-with-diet-alone-what-15-year-remission-data-shows-for-adults-diagnosed-after-age-55",
+      "optimization_attempted": true,
+      "optimization_successful": true,
+      "analysis": {
+        "core_topic": "Reality of reversing type 2 diabetes with diet in older adults",
+        "target_audience": "Adults diagnosed with type 2 diabetes after age 55",
+        "user_search_intent": "Understanding whether they can reverse diabetes through diet alone, realistic expectations",
+        "primary_search_queries": [
+          "reverse diabetes after 55",
+          "can you reverse type 2 diabetes with diet",
+          "diabetes reversal older adults",
+          "reverse diabetes diet after 50"
+        ]
+      },
+      "optimizations": {
+        "primaryKeyword": {
+          "original": "type 2 diabetes reversal after 55",
+          "optimized": "type 2 diabetes reversal after 55",
+          "changed": false,
+          "rationale": "Already excellent - natural search phrase, age-specific, clear concept, highly searchable. 33 characters, perfect length. No changes needed.",
+          "character_count": 33
+        },
+        "slug": {
+          "original": "myths-vs-facts-you-can-reverse-type-2-diabetes-with-diet-alone-what-15-year-remission-data-shows-for-adults-diagnosed-after-age-55",
+          "optimized": "type-2-diabetes-reversal-diet-after-55",
+          "changed": true,
+          "rationale": "Original 131 chars, tries to include too much. New version 38 chars, core concepts (diabetes reversal + diet + age), drops 'myths vs facts' and '15-year data' (can be in title). Concise and searchable.",
+          "character_count": 38
+        },
+        "title": {
+          "original": "Myths vs Facts: 'You Can Reverse Type 2 Diabetes With Diet Alone' — What 15-Year Remission Data Shows for Adults Diagnosed After Age 55",
+          "optimized": "Can You Reverse Type 2 Diabetes With Diet After 55? What Research Shows",
+          "changed": true,
+          "rationale": "Original 133 chars. New version 71 chars, converts to question format (more engaging), maintains evidence-based angle ('What Research Shows'), drops specific time frame (15-year), keeps key age marker. More clickable.",
+          "character_count": 71
+        },
+        "description": {
+          "original": "Deconstructs long-term durability of remission, differences in beta-cell recovery windows, and why 'reversal' definitions mislead older adults with age-related metabolic inflexibility.",
+          "optimized": "The truth about reversing type 2 diabetes with diet if you're over 55. Learn what long-term research shows about remission and realistic expectations.",
+          "changed": true,
+          "rationale": "Original 183 chars with technical terms (beta-cell recovery windows, metabolic inflexibility). New version 152 chars, uses 'truth about' (myth-busting), clear age marker, mentions long-term research (credibility), promises realistic expectations (valuable for audience).",
+          "character_count": 152
+        }
+      },
+      "quality_scores": {
+        "primaryKeyword": {
+          "score": 92,
+          "assessment": "Excellent - perfect search phrase, age-specific, natural, highly searchable"
+        },
+        "slug": {
+          "score": 90,
+          "assessment": "Excellent - concise, core concepts only, clear and searchable"
+        },
+        "title": {
+          "score": 90,
+          "assessment": "Excellent - ideal length, question format engages, evidence-based angle maintains credibility"
+        },
+        "description": {
+          "score": 89,
+          "assessment": "Excellent - 'truth about' maintains myth-busting angle, promises realistic expectations (valuable), accessible language"
+        },
+        "consistency": {
+          "score": 91,
+          "assessment": "All elements aligned on diabetes reversal with diet for older adults, balanced between hope and realism"
+        },
+        "overall": 90
+      },
+      "validation": {
+        "all_elements_meet_standards": true,
+        "all_scores_above_85": true,
+        "consistency_maintained": true,
+        "ready_to_publish": true
+      },
+      "optimization_summary": "Streamlined length while maintaining myth-busting angle and evidence-based credibility. Changed title to engaging question format. Removed technical metabolic terminology in favor of 'realistic expectations' which better serves the target audience. PrimaryKeyword was already excellent and required no changes."
+    },
+    {
+      "slug": "5-things-every-man-over-65-taking-testosterone-replacement-should-know-about-its-effect-on-insulin-receptor-tyrosine-kinase-activity-and-glucose-uptake-efficiency",
+      "optimization_attempted": true,
+      "optimization_successful": true,
+      "analysis": {
+        "core_topic": "How testosterone replacement therapy affects blood sugar and insulin sensitivity in older men",
+        "target_audience": "Men 65+ on testosterone replacement therapy, especially those with diabetes or blood sugar concerns",
+        "user_search_intent": "Understanding testosterone therapy's effects on blood sugar and diabetes risk",
+        "primary_search_queries": [
+          "testosterone and blood sugar",
+          "testosterone therapy diabetes",
+          "testosterone replacement glucose men",
+          "testosterone and insulin men over 65"
+        ]
+      },
+      "optimizations": {
+        "primaryKeyword": {
+          "original": "testosterone therapy and insulin resistance",
+          "optimized": "testosterone therapy and blood sugar men over 65",
+          "changed": true,
+          "rationale": "Original was good but clinical ('insulin resistance'). New version uses more user-friendly 'blood sugar', adds gender 'men' and specific age 'over 65' since article is specifically for this demographic. More targeted and searchable. 48 characters.",
+          "character_count": 48
+        },
+        "slug": {
+          "original": "5-things-every-man-over-65-taking-testosterone-replacement-should-know-about-its-effect-on-insulin-receptor-tyrosine-kinase-activity-and-glucose-uptake-efficiency",
+          "optimized": "testosterone-therapy-blood-sugar-men-over-65",
+          "changed": true,
+          "rationale": "Original 168 chars with molecular-level jargon (insulin receptor tyrosine kinase activity, glucose uptake efficiency). New version 44 chars, straightforward topic, clear demographic (men over 65). Number format (5 things) can be in title instead.",
+          "character_count": 44
+        },
+        "title": {
+          "original": "5 Things Every Man Over 65 Taking Testosterone Replacement Should Know About Its Effect on Insulin Receptor Tyrosine Kinase Activity and Glucose Uptake Efficiency",
+          "optimized": "Testosterone Therapy and Blood Sugar: What Men Over 65 Need to Know",
+          "changed": true,
+          "rationale": "Original 165 chars with molecular terminology. New version 67 chars, maintains 'need to know' format (authoritative and helpful), uses 'blood sugar' instead of technical terms, clear demographic. More accessible and clickable.",
+          "character_count": 67
+        },
+        "description": {
+          "original": "Details the molecular interplay between androgen therapy, skeletal muscle insulin signaling, and paradoxical hyperglycemia — plus biomarkers to monitor beyond A1c.",
+          "optimized": "Learn how testosterone replacement can affect blood sugar and insulin sensitivity in men over 65. Important monitoring tips and what to watch for.",
+          "changed": true,
+          "rationale": "Original 165 chars with highly technical terms (molecular interplay, skeletal muscle insulin signaling, paradoxical hyperglycemia). New version 148 chars, user-friendly language, clear demographic, promises practical tips (monitoring, what to watch for).",
+          "character_count": 148
+        }
+      },
+      "quality_scores": {
+        "primaryKeyword": {
+          "score": 89,
+          "assessment": "Excellent - user-friendly 'blood sugar', specific demographic (men over 65), highly searchable"
+        },
+        "slug": {
+          "score": 91,
+          "assessment": "Excellent - concise (44 chars), clear topic and demographic, accessible"
+        },
+        "title": {
+          "score": 90,
+          "assessment": "Excellent - ideal length, authoritative 'Need to Know' format, clear demographic, user-friendly terms"
+        },
+        "description": {
+          "score": 88,
+          "assessment": "Excellent - accessible language, promises practical monitoring tips, clear demographic"
+        },
+        "consistency": {
+          "score": 90,
+          "assessment": "All elements aligned on testosterone therapy and blood sugar effects in men over 65"
+        },
+        "overall": 90
+      },
+      "validation": {
+        "all_elements_meet_standards": true,
+        "all_scores_above_85": true,
+        "consistency_maintained": true,
+        "ready_to_publish": true
+      },
+      "optimization_summary": "Completely transformed from molecular biology jargon to user-friendly health information. Replaced technical terms (tyrosine kinase, skeletal muscle insulin signaling) with 'blood sugar' and 'insulin sensitivity' that target audience understands. Added demographic specificity (men over 65) to primaryKeyword. Critical safety information now accessible to those who need it."
+    }
+  ],
+  "summary": {
+    "avg_original_score": 51,
+    "articles_needing_optimization": 10,
+    "articles_optimized_successfully": 10,
+    "avg_optimized_score": 90,
+    "score_improvement": 39,
+    "key_insights": [
+      "All 10 articles had critical SEO issues requiring optimization",
+      "Most common problems: excessive length (slugs avg 144 chars, should be <60), technical jargon, mismatched primaryKeywords",
+      "Average slug length reduced from 144 to 45 characters (69% reduction)",
+      "Average title length reduced from 147 to 67 characters (54% reduction)",
+      "3 articles had severely mismatched primaryKeywords that didn't reflect content",
+      "Technical medical terminology replaced with user-friendly language throughout",
+      "All optimized articles now score 85+ on all elements and are ready for implementation",
+      "Consistent theme: valuable health information was hidden behind academic presentation",
+      "Optimization maintained accuracy while dramatically improving discoverability"
+    ],
+    "optimization_patterns": [
+      "Technical to user-friendly: 'endothelial dysfunction' → 'blood vessel health', 'baroreceptor' → 'blood pressure regulation'",
+      "Length reduction: Removed unnecessary details from URLs while maintaining clarity",
+      "Natural search language: Matched how real users search, not academic terminology",
+      "Demographic specificity: Added age/audience markers when relevant for searchability",
+      "Value clarity: Emphasized benefits and practical takeaways over mechanisms",
+      "Consistency: Ensured slug, title, description, and primaryKeyword tell same story",
+      "Safety emphasis: For frail/vulnerable populations, emphasized 'safe' and 'gentle'",
+      "Question formats: Used when appropriate to match search behavior"
+    ]
+  }
+}

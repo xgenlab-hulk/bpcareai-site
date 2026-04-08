@@ -96,17 +96,17 @@ In closing: Air travel remains safe and joyful for most older adults—including
 
 ### FAQ
 
-#### #### What are the most common heart strain symptoms during air travel seniors experience?
+#### What are the most common heart strain symptoms during air travel seniors experience?
 The most frequently overlooked signs include unexplained fatigue shortly after boarding, delayed capillary refill (>3 seconds), nocturnal dyspnea appearing *after* landing, subtle but persistent dry cough, and new-onset orthostatic lightheadedness. These reflect early cardiac decompensation—not emergency-level events, but important clues your heart is working harder than usual at altitude.
 
-#### #### Can heart strain symptoms during air travel seniors be prevented?
+#### Can heart strain symptoms during air travel seniors be prevented?
 Yes—many can be significantly reduced. Key strategies include pre-travel hydration, avoiding alcohol/caffeine during flight, moving regularly, using prescribed supplemental oxygen if indicated, and reviewing medications with your cardiologist beforehand. Prevention focuses on supporting cardiac reserve, not eliminating risk entirely.
 
-#### #### Are blood pressure changes normal during flights for older adults?
+#### Are blood pressure changes normal during flights for older adults?
 Yes—but *pattern matters*. A modest systolic rise (up to 10–15 mm Hg) is common due to cabin stressors. However, a *new* diastolic rise ≥10 mm Hg *plus* widening pulse pressure (e.g., from 42 to 60 mm Hg) may signal increased afterload and reduced ventricular compliance—especially relevant for seniors with diastolic dysfunction.
 
-#### #### Does mild hypoxemia make air travel unsafe for seniors?
+#### Does mild hypoxemia make air travel unsafe for seniors?
 Not inherently—but it does lower your physiological margin. Mild hypoxemia (SpO₂ 90–94% at sea level) often drops to 85–88% in flight, triggering compensatory increases in heart rate and pulmonary artery pressure. With proper planning—like supplemental oxygen and symptom awareness—it remains very manageable.
 
-#### #### How soon after flying should I worry about heart-related symptoms?
+#### How soon after flying should I worry about heart-related symptoms?
 Pay close attention for 48 hours post-landing. Symptoms like persistent breathlessness when lying flat, rapid weight gain (≥3 lbs in 24 hours), or new swelling in the ankles/feet suggest fluid retention that may need adjustment of diuretic therapy or further cardiac assessment. Don’t wait—early intervention makes all the difference.

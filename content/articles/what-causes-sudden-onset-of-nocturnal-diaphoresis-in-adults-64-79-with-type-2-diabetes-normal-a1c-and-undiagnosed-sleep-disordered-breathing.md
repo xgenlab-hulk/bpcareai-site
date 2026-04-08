@@ -69,17 +69,17 @@ In summary, nocturnal diaphoresis sleep apnea diabetes reflects a treatable inte
 
 ### FAQ
 
-#### #### What does nocturnal diaphoresis mean in people with diabetes and sleep apnea?
+#### What does nocturnal diaphoresis mean in people with diabetes and sleep apnea?
 Nocturnal diaphoresis refers to excessive sweating during sleep. In adults with type 2 diabetes and undiagnosed sleep apnea, it’s often driven by intermittent hypoxia-triggered sympathetic surges—not poor glucose control. It’s a red flag worth investigating—not ignoring.
 
-#### #### Is nocturnal diaphoresis sleep apnea diabetes linked to heart problems?
+#### Is nocturnal diaphoresis sleep apnea diabetes linked to heart problems?
 Yes. Repeated oxygen drops and catecholamine spikes increase cardiac workload and are associated with higher risks of hypertension, arrhythmias, and left ventricular strain—especially in older adults. Treating OSA can reduce these stresses significantly.
 
-#### #### Can normal A1c rule out nocturnal diaphoresis sleep apnea diabetes?
+#### Can normal A1c rule out nocturnal diaphoresis sleep apnea diabetes?
 No. A1c reflects average glucose over ~3 months but says nothing about breathing, oxygenation, or autonomic tone. Many patients with A1c <5.7% and severe OSA experience prominent night sweats.
 
-#### #### Does metformin cause night sweats?
+#### Does metformin cause night sweats?
 Metformin is rarely associated with nocturnal diaphoresis. While gastrointestinal side effects are common, sweating is not a recognized pharmacologic effect—making OSA or other autonomic contributors far more likely in this demographic.
 
-#### #### How is nocturnal diaphoresis different from menopausal hot flashes?
+#### How is nocturnal diaphoresis different from menopausal hot flashes?
 Menopausal flushes typically involve sudden upper-body warmth, facial flushing, and rapid onset/offset (2–4 minutes), often recurring multiple times daily—not just at night. In contrast, OSA-related sweating tends to occur during deeper sleep stages, may soak bedding, and is commonly paired with snoring or choking sensations.

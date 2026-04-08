@@ -103,22 +103,22 @@ If you're unsure, talking to your doctor is always a good idea. And if you’ve 
 
 ### FAQ
 
-#### #### Could orthostatic hypotension and carpal tunnel together really mean something serious in older adults?
+#### Could orthostatic hypotension and carpal tunnel together really mean something serious in older adults?
 
 Yes—especially in adults 76 and older. While each symptom alone may be common, their combination is a recognized “red-flag cluster” for cardiac amyloidosis, particularly the transthyretin (ATTR) type. Studies show up to 40% of ATTR patients report bilateral carpal tunnel before heart symptoms appear.
 
-#### #### What tests should I ask for if I suspect cardiac amyloidosis orthostatic hypotension seniors?
+#### What tests should I ask for if I suspect cardiac amyloidosis orthostatic hypotension seniors?
 
 Start with a serum free light chain (sFLC) test and serum protein electrophoresis (SPEP) to rule out AL amyloidosis. If those are normal, a bone-avid radiotracer scan (like Tc-99m PYP) is the next best step—it’s highly accurate for detecting ATTR without needing a heart biopsy.
 
-#### #### Is cardiac amyloidosis orthostatic hypotension seniors treatable?
+#### Is cardiac amyloidosis orthostatic hypotension seniors treatable?
 
 Yes—especially when caught early. For ATTR, FDA-approved drugs like tafamidis slow disease progression and reduce hospitalizations. For AL, chemotherapy regimens targeting plasma cells can halt or reverse damage. Treatment success improves dramatically with timely diagnosis.
 
-#### #### Can a normal echocardiogram rule out cardiac amyloidosis?
+#### Can a normal echocardiogram rule out cardiac amyloidosis?
 
 No. Up to 30% of people with early-stage cardiac amyloidosis have echocardiograms that appear normal—or show only mild, non-specific changes. Advanced imaging (radiotracer scans) and biomarker testing are needed for accurate detection.
 
-#### #### Are there lifestyle changes that help manage orthostatic hypotension in suspected cardiac amyloidosis?
+#### Are there lifestyle changes that help manage orthostatic hypotension in suspected cardiac amyloidosis?
 
 Yes—gentle measures like slow positional changes, consistent hydration, compression stockings (if appropriate), and medication review can ease symptoms. However, lifestyle alone won’t treat the underlying amyloid deposition, so medical evaluation remains essential.

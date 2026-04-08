@@ -69,22 +69,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Is it safe to switch from insulin to a GLP-1 RA after age 75?
+#### Is it safe to switch from insulin to a GLP-1 RA after age 75?
 
 Yes—when done gradually and with close support, switching from insulin to a GLP-1 RA can be safe and beneficial for many adults over 75, particularly those with recurrent hypoglycemia or difficulty managing insulin regimens. Real-world data show lower rates of emergency visits and improved treatment satisfaction, especially when cognitive or functional challenges are considered upfront.
 
-#### #### What are the biggest risks of an insulin to GLP-1 switch in frail elderly?
+#### What are the biggest risks of an insulin to GLP-1 switch in frail elderly?
 
 The main considerations include gastrointestinal side effects (nausea, early satiety), potential unintended weight loss in those already underweight or sarcopenic, and the need for reliable caregiver support during initiation. Importantly, hypoglycemia risk drops dramatically—making this switch especially valuable for older adults with memory changes or fall history.
 
-#### #### Can GLP-1 RAs be used safely in people with mild dementia or memory problems?
+#### Can GLP-1 RAs be used safely in people with mild dementia or memory problems?
 
 Yes—with adaptations. Because GLP-1 RAs require fewer daily decisions than insulin (e.g., no meal-time dosing or frequent glucose checks), they’re often *more* manageable for people with mild cognitive impairment. Success depends on using simple devices (prefilled pens), clear caregiver involvement, and regular follow-up to adjust pace and expectations.
 
-#### #### Do GLP-1 RAs affect blood pressure?
+#### Do GLP-1 RAs affect blood pressure?
 
 Yes—many GLP-1 RAs are associated with modest reductions in systolic blood pressure (typically 2–5 mm Hg), likely due to weight loss, improved vascular function, and reduced sympathetic nervous system activity. This can be beneficial for adults with hypertension—but also means BP should be monitored regularly, especially if you’re on antihypertensive medications.
 
-#### #### How long does it take to adjust after an insulin to GLP-1 switch in frail elderly?
+#### How long does it take to adjust after an insulin to GLP-1 switch in frail elderly?
 
 Most people settle into a comfortable routine within 8–12 weeks. GI symptoms usually peak in the first 2–4 weeks and improve steadily. Blood glucose patterns stabilize gradually—so patience and consistent communication with your care team are essential. Your clinician may taper insulin slowly over 2–4 weeks while introducing the GLP-1 RA, depending on your baseline control and risk profile.

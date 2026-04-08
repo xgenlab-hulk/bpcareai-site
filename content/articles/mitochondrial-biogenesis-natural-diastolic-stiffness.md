@@ -88,22 +88,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can mitochondrial biogenesis natural diastolic stiffness be reversed with lifestyle alone?
+#### Can mitochondrial biogenesis natural diastolic stiffness be reversed with lifestyle alone?
 
 In early-stage diastolic stiffness (Grade I dysfunction), yes—many adults see measurable improvement in diastolic relaxation with sustained lifestyle support, including time-restricted eating and postprandial thermal modulation. Reversal isn’t guaranteed, but stabilization and functional gains are realistic goals—especially when paired with aerobic activity and blood pressure control.
 
-#### #### What’s the safest way to try cold exposure for mitochondrial biogenesis natural diastolic stiffness over 60?
+#### What’s the safest way to try cold exposure for mitochondrial biogenesis natural diastolic stiffness over 60?
 
 Safety starts with *mildness*: aim for ambient temperatures around 10–14°C (50–57°F), avoid shivering, limit sessions to 10–15 minutes, and never use cold exposure if you feel unwell, dizzy, or have known cardiovascular instability. Always begin under guidance—and stop if you feel chest tightness or irregular heartbeat.
 
-#### #### Does time-restricted eating help mitochondrial biogenesis natural diastolic stiffness in older adults?
+#### Does time-restricted eating help mitochondrial biogenesis natural diastolic stiffness in older adults?
 
 Yes—studies in adults aged 60+ show that aligning food intake within an 8-hour window supports circadian metabolic rhythms, enhances autophagy (cellular cleanup), and increases expression of PGC-1α in skeletal and cardiac muscle. This appears to improve mitochondrial efficiency and reduce oxidative stress linked to diastolic stiffness.
 
-#### #### Is diastolic stiffness the same as heart failure?
+#### Is diastolic stiffness the same as heart failure?
 
 Not exactly. Diastolic stiffness refers to reduced relaxation of the heart muscle—often an early stage. When it progresses and causes symptoms like breathlessness or fluid retention, it may be classified as *heart failure with preserved ejection fraction* (HFpEF). Early intervention can often prevent progression.
 
-#### #### Can walking or light exercise help with diastolic stiffness?
+#### Can walking or light exercise help with diastolic stiffness?
 
 Absolutely. Regular moderate activity—like brisk walking 30 minutes most days—lowers arterial pressure, improves insulin sensitivity, and directly stimulates PGC-1α. In fact, one 12-week walking program in adults 65+ showed a 22% improvement in E/e’ ratio—comparable to some pharmacologic approaches.

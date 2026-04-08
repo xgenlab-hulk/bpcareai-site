@@ -85,17 +85,17 @@ Managing heart rhythm health after 50 is deeply personal — it’s about balanc
 
 ### FAQ
 
-#### #### Is magnesium glycinate better than oxide for QT prolongation on amiodarone?
+#### Is magnesium glycinate better than oxide for QT prolongation on amiodarone?
 Yes — current evidence suggests magnesium glycinate provides more reliable increases in intracellular magnesium and is associated with modest QTc shortening in amiodarone-treated older adults, whereas magnesium oxide shows minimal impact on QTc despite higher elemental content.
 
-#### #### Can magnesium glycinate vs oxide amiodarone qt differences affect my heart rhythm?
+#### Can magnesium glycinate vs oxide amiodarone qt differences affect my heart rhythm?
 Potentially — because QT interval stability depends on adequate magnesium *inside* heart cells, not just in the bloodstream. Glycinate achieves higher intracellular concentrations more consistently than oxide, supporting the ion channels amiodarone affects.
 
-#### #### Does magnesium oxide raise my QT interval?
+#### Does magnesium oxide raise my QT interval?
 No — magnesium oxide itself doesn’t lengthen QT. However, its poor absorption means it’s unlikely to provide meaningful QT-stabilizing benefit in older adults on amiodarone, potentially leaving QT prolongation unmitigated.
 
-#### #### How much magnesium should I take with amiodarone?
+#### How much magnesium should I take with amiodarone?
 There’s no universal dose, but studies supporting QT stability used 200–300 mg of *elemental* magnesium daily as glycinate — typically divided into two doses. Always discuss dosage with your cardiologist or pharmacist first.
 
-#### #### Are there risks to taking magnesium with amiodarone?
+#### Are there risks to taking magnesium with amiodarone?
 For most people with normal kidney function, magnesium glycinate is well tolerated. However, avoid high-dose magnesium if you have stage 3b+ chronic kidney disease (eGFR <45 mL/min), as clearance slows and hypermagnesemia can occur — which itself may depress heart rate or cause confusion.

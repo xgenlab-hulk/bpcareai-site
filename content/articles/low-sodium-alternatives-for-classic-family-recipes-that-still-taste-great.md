@@ -51,22 +51,22 @@ Incorporating low-sodium family meal ideas doesn’t mean giving up what makes m
 
 ### FAQ
 
-#### #### What are some easy low-sodium family meal ideas for busy weeknights?
+#### What are some easy low-sodium family meal ideas for busy weeknights?
 
 Try sheet-pan lemon-herb chicken with roasted sweet potatoes and broccoli (using only olive oil, garlic, rosemary, and lemon juice), or black bean and quinoa bowls topped with avocado, corn, and lime. All require <15 minutes of prep and contain under 400 mg sodium per serving.
 
-#### #### Can low-sodium family meal ideas still be satisfying for picky eaters or kids?
+#### Can low-sodium family meal ideas still be satisfying for picky eaters or kids?
 
 Yes—children’s palates adapt well when introduced gradually. Focus on texture (crispy roasted chickpeas), natural sweetness (roasted carrots or applesauce in oatmeal), and fun presentation (veggie “sushi” rolls with brown rice and cucumber). Avoid labeling foods as “low-sodium”; instead, highlight flavors: “zesty,” “smoky,” or “creamy.”
 
-#### #### Where can I find reliable low-sodium family meal ideas online?
+#### Where can I find reliable low-sodium family meal ideas online?
 
 Look for resources from trusted organizations like the American Heart Association (heart.org/recipes), the National Institute on Aging (nia.nih.gov/health/heart-healthy-eating), or registered dietitian blogs that emphasize evidence-based, whole-food approaches.
 
-#### #### Do salt substitutes work well in all low-sodium family meal ideas?
+#### Do salt substitutes work well in all low-sodium family meal ideas?
 
 Potassium-based salt substitutes can be helpful *if* your kidneys are healthy—but they’re not safe for everyone, especially those taking ACE inhibitors or with chronic kidney disease. Always consult your doctor before switching.
 
-#### #### How do I adjust holiday recipes like stuffing or gravy to be low-sodium?
+#### How do I adjust holiday recipes like stuffing or gravy to be low-sodium?
 
 Use homemade low-sodium broth (simmer turkey or chicken bones with celery, onion, and herbs), skip pre-seasoned bread cubes, and thicken gravy with a roux (equal parts flour and butter) instead of instant gravy mixes. Add umami with sautéed mushrooms or a spoonful of miso paste (choose low-sodium varieties).

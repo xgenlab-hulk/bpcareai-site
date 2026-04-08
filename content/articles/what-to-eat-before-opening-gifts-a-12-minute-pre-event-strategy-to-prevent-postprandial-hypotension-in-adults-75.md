@@ -83,22 +83,22 @@ The holidays are meant to be shared—not strained by preventable physical disco
 
 ### FAQ
 
-#### #### What foods help prevent postprandial hypotension seniors should eat before meals?
+#### What foods help prevent postprandial hypotension seniors should eat before meals?
 
 Seniors can benefit from small, protein-rich, low-glycemic bites 10–15 minutes before eating—like a hard-boiled egg, ½ cup cottage cheese, or a tablespoon of nut butter on whole-grain toast. These support splanchnic vasoconstriction and slower gastric emptying, reducing the magnitude of BP drop. Avoid high-carb, high-sugar snacks beforehand, as they may worsen postprandial vasodilation.
 
-#### #### Can drinking water prevent postprandial hypotension seniors?
+#### Can drinking water prevent postprandial hypotension seniors?
 
 Yes—but timing and composition matter. Drinking 200 mL of water with a small amount of sodium (~150 mg) 5–10 minutes before a meal helps expand plasma volume and supports vascular tone. Plain water alone is less effective, and large volumes (>400 mL) may dilute electrolytes or distend the stomach, triggering vagal responses that lower BP.
 
-#### #### What time of day is postprandial hypotension most common in seniors?
+#### What time of day is postprandial hypotension most common in seniors?
 
 It’s most common after the largest meal of the day—typically lunch or dinner—and peaks between 30–60 minutes post-meal. However, it can occur after any meal, especially those high in carbohydrates or fats. Morning postprandial drops are less frequent but possible—particularly if breakfast is delayed or skipped, leading to exaggerated insulin and vascular responses.
 
-#### #### Is postprandial hypotension the same as orthostatic hypotension?
+#### Is postprandial hypotension the same as orthostatic hypotension?
 
 Not exactly—they often co-occur but reflect different mechanisms. Orthostatic hypotension is a BP drop *upon standing*, primarily due to impaired autonomic reflexes. Postprandial hypotension is a BP drop *after eating*, driven by splanchnic blood pooling and insufficient compensatory vasoconstriction. Many seniors experience both (“orthostatic-postprandial hypotension”), making seated-to-standing transitions after meals especially risky.
 
-#### #### Are there medications that help prevent postprandial hypotension seniors?
+#### Are there medications that help prevent postprandial hypotension seniors?
 
 No FDA-approved drugs specifically target postprandial hypotension—but certain agents may be considered off-label under close supervision: midodrine (an alpha-agonist that promotes vasoconstriction), caffeine (in controlled doses), or acarbose (which slows carbohydrate absorption). However, lifestyle strategies—including the 12-minute pre-meal protocol—are first-line, safer, and often equally effective. Always consult your physician before adjusting medications.

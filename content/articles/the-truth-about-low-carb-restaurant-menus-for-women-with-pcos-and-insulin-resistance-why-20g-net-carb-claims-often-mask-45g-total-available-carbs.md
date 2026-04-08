@@ -80,22 +80,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What does “low-carb restaurant menu truth” really mean?
+#### What does “low-carb restaurant menu truth” really mean?
 
 The *low-carb restaurant menu truth* refers to the gap between advertised “net carb” counts and the actual amount of digestible carbohydrate your body processes—especially important for women with PCOS, insulin resistance, or diabetes. It highlights how fiber, sugar alcohols, and resistant starches are often subtracted from totals even when they impact blood sugar or insulin response.
 
-#### #### Are “net carb” claims on restaurant menus regulated or verified?
+#### Are “net carb” claims on restaurant menus regulated or verified?
 
 No—unlike packaged food labels, restaurant nutrition information is *not* federally regulated in most countries (including the U.S. under FDA guidelines). Restaurants may use internal calculations, third-party software, or estimates—none of which are required to account for individual digestion differences, resistant starch conversion, or sugar alcohol absorption rates.
 
-#### #### How can I spot misleading “low-carb” menu items when dining out?
+#### How can I spot misleading “low-carb” menu items when dining out?
 
 Look for red flags like “cauliflower rice” with added starches (rice flour, potato starch), “keto” desserts sweetened with maltitol or hydrogenated starch hydrolysates, or “high-fiber” wraps containing inulin or soy fiber isolates. When in doubt, choose simpler preparations: grilled protein + non-starchy veggies + olive oil or vinegar.
 
-#### #### Does the low-carb restaurant menu truth apply to people with diabetes too?
+#### Does the low-carb restaurant menu truth apply to people with diabetes too?
 
 Yes—absolutely. For people with diabetes (especially type 2), inaccurate carb counts can lead to unexpected glucose excursions, increased insulin dosing errors, and greater day-to-day variability. Understanding the *low-carb restaurant menu truth* helps improve glycemic predictability and supports safer, more confident dining.
 
-#### #### Can tracking blood sugar help me uncover the real carb impact of restaurant meals?
+#### Can tracking blood sugar help me uncover the real carb impact of restaurant meals?
 
 Yes—postprandial glucose testing (1–2 hours after eating) is one of the most reliable ways to see how a specific dish affects *your* body. Pairing this with notes about ingredients and preparation helps build a personalized “menu map”—far more useful than any generic net carb claim.

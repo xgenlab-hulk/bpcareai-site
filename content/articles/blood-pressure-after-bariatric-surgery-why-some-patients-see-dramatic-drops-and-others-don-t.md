@@ -67,22 +67,22 @@ Blood pressure after bariatric surgery reflects your body’s complex, individua
 
 ### FAQ
 
-#### #### Does blood pressure after bariatric surgery improve immediately?
+#### Does blood pressure after bariatric surgery improve immediately?
 
 Yes—some patients see reductions within days, especially after RYGB. This early change is largely due to gut hormone shifts and RAAS modulation, not weight loss. However, sustained improvement usually unfolds over 3–12 months as weight stabilizes and metabolic health improves.
 
-#### #### Can blood pressure after bariatric surgery go *too low*?
+#### Can blood pressure after bariatric surgery go *too low*?
 
 Yes. Hypotension—particularly orthostatic hypotension—is more common in adults over 55 due to age-related autonomic changes and medication interactions. Symptoms like dizziness or near-fainting warrant evaluation to adjust antihypertensives or assess volume status.
 
-#### #### Why doesn’t my blood pressure after bariatric surgery improve, even with 30% weight loss?
+#### Why doesn’t my blood pressure after bariatric surgery improve, even with 30% weight loss?
 
 Several factors may contribute: long-standing hypertension (>15 years), underlying kidney disease, untreated sleep apnea, or genetic predisposition to salt-sensitive hypertension. Persistent high BP post-surgery doesn’t mean the procedure failed—it signals the need for tailored medical management.
 
-#### #### How soon after bariatric surgery should I stop BP medications?
+#### How soon after bariatric surgery should I stop BP medications?
 
 Never stop medications without consulting your care team. Many providers begin tapering antihypertensives as early as 2–4 weeks post-op—but only after confirming stable, normalized readings and assessing for orthostatic changes.
 
-#### #### Is blood pressure after bariatric surgery monitored differently in older adults?
+#### Is blood pressure after bariatric surgery monitored differently in older adults?
 
 Yes. Older adults benefit from home monitoring plus periodic office visits that include orthostatic BP checks and assessment of fall risk. Providers also watch closely for drug–nutrient interactions (e.g., between diuretics and postoperative vitamin D or magnesium status).

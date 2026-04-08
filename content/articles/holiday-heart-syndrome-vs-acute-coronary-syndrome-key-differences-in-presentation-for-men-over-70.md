@@ -85,22 +85,22 @@ Distinguishing holiday heart vs heart attack men 70+ isn’t about memorizing te
 
 ### FAQ
 
-#### #### What are the main differences between holiday heart syndrome and a heart attack in older men?
+#### What are the main differences between holiday heart syndrome and a heart attack in older men?
 
 Holiday heart syndrome is an alcohol-triggered, usually self-limiting arrhythmia (like atrial fibrillation) without heart muscle damage. A heart attack (myocardial infarction) involves blocked blood flow causing actual cell death—reflected by rising troponin and ECG changes like ST shifts. In men over 70, holiday heart rarely causes chest pain or sweating; a heart attack often presents with fatigue, breathlessness, or upper abdominal discomfort instead of classic pain.
 
-#### #### Is holiday heart vs heart attack men 70+ something I can diagnose at home?
+#### Is holiday heart vs heart attack men 70+ something I can diagnose at home?
 
 No. While checking your pulse for irregularity or tracking symptoms can raise awareness, only an ECG and troponin test can reliably distinguish them. Self-diagnosis risks missing serious ACS—or unnecessarily alarming yourself over a benign arrhythmia. Always consult your clinician for new or worsening symptoms.
 
-#### #### Can holiday heart syndrome lead to a heart attack?
+#### Can holiday heart syndrome lead to a heart attack?
 
 Not directly—but it *can* be a red flag. In men over 70, new-onset atrial fibrillation may uncover underlying coronary artery disease, hypertension, or heart failure. Untreated AFib also increases stroke risk significantly. So while holiday heart itself isn’t a heart attack, it warrants medical evaluation to rule out contributing conditions.
 
-#### #### How long does holiday heart syndrome usually last in seniors?
+#### How long does holiday heart syndrome usually last in seniors?
 
 Most episodes resolve spontaneously within 24 hours—especially with rest, hydration, and stopping alcohol. However, in men over 70, persistence beyond 48 hours, recurrence, or symptoms like dizziness or shortness of breath require prompt assessment. Up to 30% of older adults with first-time AFib will have recurrent episodes within a year without lifestyle or medical intervention.
 
-#### #### Does high blood pressure make holiday heart syndrome more likely?
+#### Does high blood pressure make holiday heart syndrome more likely?
 
 Yes. Hypertension—especially if uncontrolled (BP >140/90 mm Hg)—promotes left atrial enlargement and fibrosis, lowering the threshold for alcohol-induced arrhythmias. In fact, men over 70 with hypertension are nearly twice as likely to develop holiday heart syndrome after binge drinking compared to those with optimal BP control.

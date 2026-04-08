@@ -65,22 +65,22 @@ In summary, holiday travel dehydration salivary amylase is a real, measurable ph
 
 ### FAQ
 
-#### #### Does holiday travel dehydration salivary amylase affect blood sugar in seniors?
+#### Does holiday travel dehydration salivary amylase affect blood sugar in seniors?
 
 Yes. Reduced salivary amylase slows early starch digestion, leading to uneven glucose absorption. In adults 65+, this may contribute to wider postprandial glucose excursions — particularly after high-carb holiday meals — even in those without diabetes.
 
-#### #### Can holiday travel dehydration salivary amylase cause constipation?
+#### Can holiday travel dehydration salivary amylase cause constipation?
 
 Indirectly, yes. Delayed gastric emptying and altered gut motility signals (due to poor initial digestion) can slow intestinal transit. Combined with reduced fluid intake and lower physical activity during travel, this increases constipation risk in older adults.
 
-#### #### How long does it take for salivary amylase to recover after holiday travel?
+#### How long does it take for salivary amylase to recover after holiday travel?
 
 Most healthy adults see return to baseline salivary flow and enzyme activity within 24–48 hours of rehydration and rest. However, in those with underlying salivary gland dysfunction or chronic medication use, recovery may take 3–5 days — making proactive hydration essential.
 
-#### #### Is sparkling water helpful for holiday travel dehydration salivary amylase?
+#### Is sparkling water helpful for holiday travel dehydration salivary amylase?
 
 Plain sparkling water (without citric acid or sweeteners) can support hydration, but avoid flavored or acidic versions — low pH (<5.5) can inhibit salivary amylase activity. Still, still water remains the gold standard for reliable rehydration.
 
-#### #### Are there natural supplements that boost salivary amylase during travel?
+#### Are there natural supplements that boost salivary amylase during travel?
 
 No supplement directly increases salivary amylase production. However, adequate zinc and vitamin C status supports salivary gland function — so maintaining balanced nutrition before travel helps sustain enzyme output. Always consult your doctor before starting new supplements.

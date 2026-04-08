@@ -98,17 +98,17 @@ If you're unsure, talking to your doctor is always a good idea. And remember: *b
 
 ### FAQ
 
-#### #### Does bronchitis raise blood pressure—or lower it?
+#### Does bronchitis raise blood pressure—or lower it?
 Bronchitis itself doesn’t directly raise or lower blood pressure. Instead, the *coughing, inflammation, and stress response* cause rapid, often unpredictable fluctuations. You might see temporary spikes during cough fits and dips afterward—making patterns harder to interpret. In people on ACE inhibitors, this variability can mask rising vascular resistance.
 
-#### #### Why is blood pressure during bronchitis ace inhibitors especially tricky for older adults?
+#### Why is blood pressure during bronchitis ace inhibitors especially tricky for older adults?
 After age 67, arteries stiffen, autonomic reflexes slow, and kidney clearance of medications (including ACE inhibitors) often decreases. This reduces your body’s ability to buffer the hemodynamic chaos of coughing and inflammation—so “normal” BP readings may conceal strain on the heart, brain, and kidneys.
 
-#### #### Can I stop my ACE inhibitor if my blood pressure looks normal during bronchitis?
+#### Can I stop my ACE inhibitor if my blood pressure looks normal during bronchitis?
 No—do not stop or change your ACE inhibitor without speaking to your doctor. These medications protect your heart and kidneys over time, even if BP readings appear stable during illness. Stopping them abruptly can trigger rebound hypertension or worsen underlying conditions.
 
-#### #### What’s the best way to monitor blood pressure during bronchitis at home?
+#### What’s the best way to monitor blood pressure during bronchitis at home?
 Use an upper-arm, oscillometric device validated for older adults. Measure twice daily (morning and evening), always after resting quietly for 5 minutes—and avoid measuring right after coughing. Record both numbers *and* notes about symptoms (e.g., “coughed 3x before reading,” “felt dizzy standing”). Consistency matters more than perfection.
 
-#### #### Is it normal to feel tired and short of breath even with “normal” blood pressure during bronchitis?
+#### Is it normal to feel tired and short of breath even with “normal” blood pressure during bronchitis?
 Yes—and it’s common. Fatigue and breathlessness in bronchitis stem from airway obstruction, oxygen exchange inefficiency, and the extra work your heart and lungs are doing—not necessarily from abnormal BP. However, if those symptoms persist or worsen *despite* seemingly stable readings, it’s worth sharing with your clinician. It could signal that your body is working harder than the cuff reveals.

@@ -54,17 +54,17 @@ Slowing coronary artery calcification progression is achievable through consiste
 
 ### FAQ
 
-#### #### Can vitamin K2 really slow coronary artery calcification progression?  
+#### Can vitamin K2 really slow coronary artery calcification progression?  
 Yes—multiple prospective cohort studies (including MESA and the Heinz Nixdorf Recall Study) show adults taking 180–200 mcg/day of K2-MK7 had significantly slower CAC progression over 3–5 years, especially when combined with adequate vitamin D and low sodium intake.
 
-#### #### What’s the best way to slow coronary artery calcification progression naturally?  
+#### What’s the best way to slow coronary artery calcification progression naturally?  
 Focus on synergistic levers: optimize K2-MK7 and magnesium intake, maintain LDL-C <70 mg/dL, keep systolic BP <120 mm Hg, engage in regular mixed-modality exercise, and minimize ultra-processed foods rich in phosphate additives.
 
-#### #### Does lowering Lp(a) help slow coronary artery calcification progression?  
+#### Does lowering Lp(a) help slow coronary artery calcification progression?  
 Emerging data suggest yes—though large outcome trials are ongoing. Observational studies show individuals with Lp(a) >100 mg/dL and untreated CAC progress ~30% faster annually than those with lower levels. Early intervention matters.
 
-#### #### How often should I repeat a CAC scan to monitor progression?  
+#### How often should I repeat a CAC scan to monitor progression?  
 For adults aged 58–69 with baseline CAC 100–400, repeat non-contrast CT every 2–3 years is reasonable—if lifestyle and lipid goals are met. More frequent scanning isn’t recommended due to radiation exposure and diminishing clinical utility.
 
-#### #### Is coronary artery calcification reversible?  
+#### Is coronary artery calcification reversible?  
 No—existing calcium deposits are stable and not removed by current therapies. However, slowing coronary artery calcification progression remains highly impactful: it reflects reduced biological activity in plaques and lowers long-term cardiovascular event risk.

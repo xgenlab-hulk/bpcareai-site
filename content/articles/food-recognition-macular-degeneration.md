@@ -82,22 +82,22 @@ Holiday meals are about warmth, memory, and being seen—not just fed. When visu
 
 ### FAQ
 
-#### #### How does food recognition macular degeneration affect eating habits in older adults?
+#### How does food recognition macular degeneration affect eating habits in older adults?
 
 Adults with early macular degeneration often experience slower meal initiation, reduced bite frequency, and underestimation of portion sizes—especially in low-contrast or dimly lit settings. Because central vision loss impairs detail detection, foods blend together visually, delaying satiety signaling and sometimes leading to unintentional under-eating across the day.
 
-#### #### Can improving lighting really help with food recognition macular degeneration?
+#### Can improving lighting really help with food recognition macular degeneration?
 
 Yes—significantly. Studies show that increasing ambient light from 100 lux (typical candlelight) to 400 lux (bright indoor lighting) improves food identification speed by up to 40% in adults 75+ with early AMD. Even small upgrades—like adding a shaded floor lamp near the dining table—can make meals safer and more satisfying.
 
-#### #### What are the best plate colors for someone with food recognition macular degeneration?
+#### What are the best plate colors for someone with food recognition macular degeneration?
 
 High-contrast pairings work best: dark plates (charcoal, deep navy) for light-colored foods (mashed potatoes, chicken, rice), and light plates (matte white, soft ivory) for darker foods (beef, lentils, roasted eggplant). Avoid patterned, glossy, or pastel-toned dishes, which scatter light and reduce edge definition.
 
-#### #### Is food recognition macular degeneration the same as general vision loss?
+#### Is food recognition macular degeneration the same as general vision loss?
 
 No. It specifically refers to challenges recognizing food due to reduced contrast sensitivity and central vision blurring—common in early age-related macular degeneration. It’s not about total vision loss, but about how clearly and quickly the brain can interpret food shape, color, and placement on a plate.
 
-#### #### Does diet play a role in slowing macular degeneration progression?
+#### Does diet play a role in slowing macular degeneration progression?
 
 Yes—evidence supports that diets rich in leafy greens (lutein/zeaxanthin), fatty fish (DHA/EPA omega-3s), and colorful fruits (vitamin C, E, zinc) may help slow progression. The AREDS2 formula—a specific blend of vitamins and minerals—has been shown to reduce risk of progression to advanced AMD by about 25% in those with intermediate disease.

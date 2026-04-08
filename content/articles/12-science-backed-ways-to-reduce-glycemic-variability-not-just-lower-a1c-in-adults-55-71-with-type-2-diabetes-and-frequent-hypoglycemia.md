@@ -136,22 +136,22 @@ Reducing glycemic variability without hypoglycemia isn’t about rigid rules or 
 
 ### FAQ
 
-#### #### Can reducing glycemic variability without hypoglycemia help prevent dementia in older adults with type 2 diabetes?
+#### Can reducing glycemic variability without hypoglycemia help prevent dementia in older adults with type 2 diabetes?
 
 Yes—emerging evidence links high glycemic variability (especially frequent lows and large swings) with accelerated cognitive decline. A 2023 longitudinal study in *Diabetes Care* found adults 60+ with high MAGE had a 2.3× greater risk of mild cognitive impairment over 5 years—*independent* of A1c. Stabilizing glucose supports consistent cerebral blood flow and reduces oxidative stress in brain tissue.
 
-#### #### What’s the safest way to reduce glycemic variability without hypoglycemia while taking metformin and glipizide?
+#### What’s the safest way to reduce glycemic variability without hypoglycemia while taking metformin and glipizide?
 
 Start with non-medication strategies first—meal sequencing, vinegar pre-load, and post-meal walking—while working closely with your provider to review glipizide dosing. Sulfonylureas like glipizide carry higher hypoglycemia risk, especially in older adults, so dose reduction or transition may be appropriate. Metformin does not cause lows and pairs well with variability-lowering lifestyle habits.
 
-#### #### Does reducing glycemic variability without hypoglycemia improve heart health in adults over 60?
+#### Does reducing glycemic variability without hypoglycemia improve heart health in adults over 60?
 
 Absolutely. High glycemic variability is associated with endothelial dysfunction, increased arterial stiffness, and greater sympathetic nervous system activation—all contributors to cardiovascular events. In the ACCORD trial subanalysis, participants with lowest CONGA had 31% fewer major cardiac events over 5 years, even after adjusting for A1c and BP.
 
-#### #### Is apple cider vinegar safe for seniors with kidney concerns?
+#### Is apple cider vinegar safe for seniors with kidney concerns?
 
 For most adults with stable kidney function (eGFR >60 mL/min), 1 tbsp daily is safe. However, those with advanced chronic kidney disease (eGFR <30) or on potassium-sparing medications should consult their nephrologist first—vinegar contains small amounts of potassium and may affect acid-base balance.
 
-#### #### How long does it take to see improvements in MAGE or LBGI after starting these strategies?
+#### How long does it take to see improvements in MAGE or LBGI after starting these strategies?
 
 Most people notice measurable changes in TIR and post-meal spikes within 2–3 weeks. Significant reductions in MAGE and LBGI typically emerge after 6–8 weeks of consistent practice—especially when combining meal sequencing, movement, and vagal training. Using your CGM data weekly helps reinforce progress and adjust as needed.

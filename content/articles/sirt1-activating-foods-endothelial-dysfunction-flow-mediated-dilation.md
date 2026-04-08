@@ -68,17 +68,17 @@ Supporting your endothelium isn’t about quick fixes — it’s about honoring 
 
 ### FAQ
 
-#### #### Can sirt1 activating foods endothelial dysfunction flow-mediated dilation help even if my cholesterol is normal?
+#### Can sirt1 activating foods endothelial dysfunction flow-mediated dilation help even if my cholesterol is normal?
 Yes — absolutely. These foods act primarily on the endothelium and nitric oxide pathway, not LDL metabolism. Clinical data shows FMD improvements regardless of baseline cholesterol.
 
-#### #### What are the best sirt1 activating foods endothelial for seniors over 70?
+#### What are the best sirt1 activating foods endothelial for seniors over 70?
 Top evidence-backed options include black garlic, fermented soy (especially natto), raw cocoa, pomegranate ellagitannins, and high-polyphenol extra-virgin olive oil — all well-tolerated and nutrient-dense for aging digestive systems.
 
-#### #### Do I need to take supplements to get enough SIRT1 activation?
+#### Do I need to take supplements to get enough SIRT1 activation?
 Not usually. Whole foods provide synergistic compounds (polyphenols + fiber + postbiotics) that work more effectively than isolated supplements — and with fewer interactions.
 
-#### #### How long before I notice changes from eating sirt1 activating foods endothelial dysfunction flow-mediated dilation?
+#### How long before I notice changes from eating sirt1 activating foods endothelial dysfunction flow-mediated dilation?
 Most studies report measurable FMD improvements after 4–12 weeks of consistent intake. Some people notice subtle shifts — like warmer hands or easier breathing on walks — within 2–3 weeks.
 
-#### #### Is flow-mediated dilation the same as blood pressure?
+#### Is flow-mediated dilation the same as blood pressure?
 No — but they’re closely related. FMD measures *arterial flexibility*, while BP reflects *pressure against artery walls*. Improving FMD often supports healthier BP over time, especially systolic pressure, which tends to rise with age.

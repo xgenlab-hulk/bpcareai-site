@@ -93,22 +93,22 @@ Blood pressure is not a static number—it’s a dynamic conversation between yo
 
 ### FAQ
 
-#### #### What causes post-exercise blood pressure rebound in elderly adults after walking?
+#### What causes post-exercise blood pressure rebound in elderly adults after walking?
 
 Post-exercise blood pressure rebound in elderly adults often stems from age-related slowing of the baroreflex, mild autonomic imbalance (especially if orthostatic hypotension is present), and increased arterial stiffness—all of which can delay the body’s return to baseline pressure after physical activity. It’s not due to heart weakness, but rather how signaling and vessel response evolve with time.
 
-#### #### Is post-exercise blood pressure rebound in elderly dangerous?
+#### Is post-exercise blood pressure rebound in elderly dangerous?
 
 Not inherently. A transient, asymptomatic rise of 25–30 mmHg systolic 45 minutes after walking is commonly observed in healthy older adults and usually reflects normal autonomic recalibration. It becomes clinically relevant only if it’s frequent, exceeds 160 mmHg, or coincides with dizziness, falls, or fatigue.
 
-#### #### Can dehydration cause post-exercise blood pressure rebound?
+#### Can dehydration cause post-exercise blood pressure rebound?
 
 Yes—mild dehydration can amplify both the initial drop *and* the subsequent rebound. When volume is low, vessels constrict more readily during recovery, and baroreflex correction slows further. Staying consistently hydrated—especially before and after activity—helps buffer these fluctuations.
 
-#### #### Does walking worsen high blood pressure in older adults?
+#### Does walking worsen high blood pressure in older adults?
 
 No—moderate walking remains one of the safest, most beneficial activities for heart health at any age. In fact, regular walking improves vascular function and autonomic balance *over time*. The temporary rebound you may notice is not a reason to stop moving; it’s a signal to fine-tune *how* and *when* you move.
 
-#### #### How is post-exercise blood pressure rebound different from exercise-induced hypertension?
+#### How is post-exercise blood pressure rebound different from exercise-induced hypertension?
 
 Exercise-induced hypertension refers to abnormally high BP *during* activity (e.g., systolic >210 mmHg in men or >190 mmHg in women)—which may indicate underlying cardiovascular strain. Post-exercise blood pressure rebound in elderly occurs *after* activity has ended, reflects delayed regulation—not exertion stress—and is far more common in aging without heart disease.

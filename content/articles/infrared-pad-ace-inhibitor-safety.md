@@ -64,17 +64,17 @@ In short: infrared heat *can* be part of your comfort toolkit—but safety hinge
 
 ### FAQ  
 
-#### #### Can infrared heating pads raise blood pressure in people on ACE inhibitors?  
+#### Can infrared heating pads raise blood pressure in people on ACE inhibitors?  
 No—they typically cause *mild, transient drops* in systolic BP (often 5–15 mm Hg) due to additive vasodilation. ACE inhibitors don’t block heat-induced relaxation of small vessels; instead, they reduce the body’s ability to compensate. This makes BP dips more noticeable—not dangerous in most cases, but worth monitoring.
 
-#### #### Is infrared-pad-ace-inhibitor-safety different for someone with mild CKD?  
+#### Is infrared-pad-ace-inhibitor-safety different for someone with mild CKD?  
 Yes. Mild CKD (Stage 3a) means reduced renal reserve and blunted autoregulation. Combined with ACE inhibitors, even modest heat-induced BP shifts may temporarily lower glomerular filtration pressure. That’s why duration and temperature limits are stricter—40°C/15 min is the current evidence-based ceiling.
 
-#### #### What’s the safest infrared pad temperature for a 75-year-old on lisinopril?  
+#### What’s the safest infrared pad temperature for a 75-year-old on lisinopril?  
 Based on geriatric thermal tolerance studies, 38–40°C (100–104°F) is the recommended range. Temperatures above 42°C increase risk of both BP instability and superficial burns—especially since thermal sensation declines with age.
 
-#### #### Do all heating pads interact with ACE inhibitors?  
+#### Do all heating pads interact with ACE inhibitors?  
 Not equally. Traditional electric pads (conductive heat) mainly warm the skin surface. Infrared pads deliver radiant energy that penetrates 2–3 cm into muscle—triggering deeper vasodilation and greater systemic effects. So yes, **infrared-pad-ace-inhibitor-safety** considerations are specific to infrared technology, not all thermal devices.
 
-#### #### Can I use an infrared pad if my blood pressure is well-controlled on ACE inhibitors?  
+#### Can I use an infrared pad if my blood pressure is well-controlled on ACE inhibitors?  
 Yes—if you follow the guidelines above *and* monitor closely. Well-controlled BP doesn’t eliminate interaction risk—it just lowers baseline vulnerability. Safety still depends on dose timing, temperature, duration, and individual renal function. If you're unsure, talking to your doctor is always a good idea.

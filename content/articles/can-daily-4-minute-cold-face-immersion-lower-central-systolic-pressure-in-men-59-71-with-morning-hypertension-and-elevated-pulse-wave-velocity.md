@@ -47,22 +47,22 @@ In short, cold face immersion central systolic pressure morning hypertension isn
 
 ### FAQ
 
-#### #### Does cold face immersion lower central systolic pressure in older adults with morning hypertension?
+#### Does cold face immersion lower central systolic pressure in older adults with morning hypertension?
 
 Yes—small but rigorous studies in men aged 59–71 show a statistically significant drop in central systolic pressure (average −7 mm Hg) after daily 4-minute cold face immersion, especially when done upon waking. Effects appear most pronounced in those with elevated pulse wave velocity and confirmed morning hypertension.
 
-#### #### How does cold face immersion central systolic pressure morning hypertension compare to medication?
+#### How does cold face immersion central systolic pressure morning hypertension compare to medication?
 
 It’s complementary—not competitive. Cold face immersion targets neural tone and wave reflection, while medications like ACE inhibitors or calcium channel blockers affect vascular resistance or cardiac output. Think of it as “training” your nervous system to respond more calmly to morning surges—potentially reducing reliance on higher doses over time, under medical supervision.
 
-#### #### Can women benefit from cold face immersion for central systolic pressure and morning hypertension?
+#### Can women benefit from cold face immersion for central systolic pressure and morning hypertension?
 
 Research so far has focused primarily on men—but the diving reflex is universal. Early anecdotal reports and smaller mixed-gender trials suggest similar physiological responses. Larger sex-stratified studies are underway.
 
-#### #### What water temperature is safest for cold face immersion?
+#### What water temperature is safest for cold face immersion?
 
 Aim for 10–15°C (50–59°F). Too cold (<8°C) may trigger excessive vasoconstriction or discomfort; too warm (>18°C) won’t reliably activate the trigeminal-vagal pathway. A fridge-chilled bottle of water poured into a bowl works well.
 
-#### #### Is cold face immersion safe if I have high blood pressure but no diagnosed morning hypertension?
+#### Is cold face immersion safe if I have high blood pressure but no diagnosed morning hypertension?
 
 Generally yes—if you’re otherwise healthy and avoid breath-holding. But since morning hypertension often goes undetected (arm cuffs taken later in the day miss it), consider checking your BP within 30 minutes of waking for five days first. That context helps determine whether cold face immersion central systolic pressure morning hypertension is relevant for *your* pattern.

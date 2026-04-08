@@ -58,22 +58,22 @@ We know it sounds like a lot — but choosing the right olive oil is one of the 
 
 ### FAQ
 
-#### #### Does olive oil really help carotid artery health in seniors?
+#### Does olive oil really help carotid artery health in seniors?
 
 Yes — but only when it’s fresh, high-polyphenol, and low-oxidation. Research links regular intake of high-quality EVOO (≥500 ppm oleocanthal) with slower carotid intima-media thickness (CIMT) progression in adults over 65.
 
-#### #### What’s the best olive oil for heart disease and carotid plaque in seniors?
+#### What’s the best olive oil for heart disease and carotid plaque in seniors?
 
 The best choice is certified extra virgin olive oil with documented oleocanthal ≥500 ppm, peroxide value <12, and a harvest date within the last 6 months. Look for brands that publish third-party lab reports.
 
-#### #### Can olive oil heart health carotid plaque seniors be improved with diet alone?
+#### Can olive oil heart health carotid plaque seniors be improved with diet alone?
 
 Diet is foundational — but not sufficient on its own. Olive oil heart health carotid plaque seniors works best alongside BP management, smoking cessation, physical activity, and prescribed therapies. It’s a powerful *support*, not a replacement.
 
-#### #### How do I know if my olive oil is still fresh enough for heart benefits?
+#### How do I know if my olive oil is still fresh enough for heart benefits?
 
 Check for bitterness and peppery warmth on the throat — if it’s bland or smells waxy or musty, it’s likely degraded. Also verify the harvest date and store it in a cool, dark place.
 
-#### #### Is there a difference between “light” olive oil and extra virgin for heart health?
+#### Is there a difference between “light” olive oil and extra virgin for heart health?
 
 Yes — “light” refers to flavor and processing, not calories. It’s highly refined, stripped of polyphenols, and offers virtually no vascular benefit compared to true extra virgin olive oil.

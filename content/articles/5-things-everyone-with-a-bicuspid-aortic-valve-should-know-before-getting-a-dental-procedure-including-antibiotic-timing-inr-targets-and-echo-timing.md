@@ -36,17 +36,17 @@ It’s completely understandable to feel cautious—but with clear communication
 
 ### FAQ  
 
-#### #### Do I need antibiotics before every dental procedure if I have a bicuspid aortic valve?  
+#### Do I need antibiotics before every dental procedure if I have a bicuspid aortic valve?  
 No—not anymore. Current AHA/ACC guidelines reserve antibiotic prophylaxis only for people with highest-risk BAV features (e.g., severe stenosis/regurgitation, prior endocarditis, or prosthetic valves). Most routine cleanings, fillings, or X-rays don’t require it.
 
-#### #### How soon before a dental procedure should I get an echo if I have a bicuspid aortic valve?  
+#### How soon before a dental procedure should I get an echo if I have a bicuspid aortic valve?  
 Ideally within the past 12–18 months—if your valve function hasn’t changed and you’re asymptomatic. But if you’ve developed new symptoms (shortness of breath, dizziness, chest discomfort) or your last echo was older, schedule one before any invasive dental work.
 
-#### #### What’s the safest INR range for someone with a bicuspid aortic valve dental procedure while on warfarin?  
+#### What’s the safest INR range for someone with a bicuspid aortic valve dental procedure while on warfarin?  
 For most dental procedures, an INR of **2.0–2.5** balances bleeding safety and clot prevention. Your cardiologist will help determine whether and when to adjust dosing—never self-adjust.
 
-#### #### Can I use aspirin instead of warfarin before a dental procedure with a bicuspid aortic valve?  
+#### Can I use aspirin instead of warfarin before a dental procedure with a bicuspid aortic valve?  
 No—aspirin does not replace warfarin for stroke prevention in conditions like atrial fibrillation or mechanical valves. Switching without medical oversight could significantly increase stroke risk.
 
-#### #### Does having a bicuspid aortic valve raise my blood pressure?  
+#### Does having a bicuspid aortic valve raise my blood pressure?  
 BAV itself doesn’t directly cause high BP, but it’s commonly associated with coexisting hypertension—especially as people age. About 60% of adults with BAV also have elevated arterial pressure, making consistent BP monitoring especially important.

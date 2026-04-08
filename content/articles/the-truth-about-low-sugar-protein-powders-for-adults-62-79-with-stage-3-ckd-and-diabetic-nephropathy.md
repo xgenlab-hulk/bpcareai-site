@@ -48,17 +48,17 @@ In summary, managing nutrition with CKD and diabetic nephropathy doesn’t mean 
 
 ### FAQ
 
-#### #### Is there a safe low-sugar protein powder ckddiabetic nephropathy option for stage 3 CKD?  
+#### Is there a safe low-sugar protein powder ckddiabetic nephropathy option for stage 3 CKD?  
 Yes—look for phosphate-free, maltodextrin-free formulas with <100 mg phosphorus per serving and protein sourced from egg white, rice, or hydrolyzed collagen. Always verify with your nephrology dietitian before starting.
 
-#### #### Can low-sugar protein powder ckddiabetic worsen my blood sugar control?  
+#### Can low-sugar protein powder ckddiabetic worsen my blood sugar control?  
 Potentially—yes. Maltodextrin and other high-GI fillers aren’t counted as “sugar” but can raise blood glucose rapidly. Pairing any protein powder with fiber (e.g., ground flax or chia) may help blunt this effect.
 
-#### #### What amino acids should I avoid with diabetic nephropathy and CKD stage 3?  
+#### What amino acids should I avoid with diabetic nephropathy and CKD stage 3?  
 Limit excessive intake of aromatic amino acids (phenylalanine, tyrosine, tryptophan) and sulfur-containing amino acids (methionine, cysteine), as they contribute to uremic toxin formation. Whole-food protein sources offer better balance than isolated amino acid supplements.
 
-#### #### Does “low-sugar” always mean low-phosphorus in protein powders?  
+#### Does “low-sugar” always mean low-phosphorus in protein powders?  
 No—“low-sugar” says nothing about phosphorus. In fact, many low-sugar formulas contain added phosphates to improve texture or stability. Always check the full ingredient list and mineral panel.
 
-#### #### How much protein do I really need with CKD stage 3 and diabetes?  
+#### How much protein do I really need with CKD stage 3 and diabetes?  
 Most guidelines recommend 0.6–0.8 grams of high-quality protein per kilogram of body weight per day—for example, 42–56 g daily for a 70 kg (154 lb) adult. Individual needs vary, so consult your care team for personalization.

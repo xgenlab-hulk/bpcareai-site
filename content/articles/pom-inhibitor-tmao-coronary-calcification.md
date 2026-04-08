@@ -66,22 +66,22 @@ Heart disease is deeply personal — and so is your gut. The connection between 
 
 ### FAQ
 
-#### #### Does long-term PPI use really increase heart disease risk through TMAO?
+#### Does long-term PPI use really increase heart disease risk through TMAO?
 
 Yes — multiple longitudinal studies (including the 2022 JAMA Cardiology cohort) show that prolonged PPI use correlates with elevated TMAO and accelerated coronary artery calcification, especially in adults over 70 with existing CAD. It’s one pathway among many — not the sole cause — but an important piece of the puzzle.
 
-#### #### What is pom inhibitor tmao coronary calcification — and should I be worried?
+#### What is pom inhibitor tmao coronary calcification — and should I be worried?
 
 *Pom inhibitor tmao coronary calcification* refers to the chain of effects where chronic PPI use alters gut bacteria, raising TMAO, which in turn promotes calcium buildup in coronary arteries. If you’re on long-term PPIs and have known heart disease, it’s worth discussing with your doctor — but it’s manageable with smart lifestyle and medication adjustments.
 
-#### #### Can stopping PPIs reverse TMAO-related heart risks?
+#### Can stopping PPIs reverse TMAO-related heart risks?
 
 Not instantly — but studies suggest TMAO levels begin declining within 4–6 weeks of PPI discontinuation or dose reduction, especially when combined with dietary changes. CAC progression, however, reflects long-term accumulation and won’t “reverse,” but slowing it is very achievable.
 
-#### #### Are there natural alternatives to PPIs for seniors with GERD?
+#### Are there natural alternatives to PPIs for seniors with GERD?
 
 Some people find relief with timed meals, head-of-bed elevation, and targeted antacids or H2 blockers (like famotidine) for occasional use. But never swap prescriptions without consulting your gastroenterologist — especially if you have Barrett’s esophagus or a history of GI bleeding.
 
-#### #### Does oatmeal or garlic lower TMAO?
+#### Does oatmeal or garlic lower TMAO?
 
 Oatmeal (especially steel-cut, unsweetened) provides beta-glucan fiber shown in small trials to modestly lower TMAO. Garlic contains allicin, which has inhibited TMA-producing enzymes in lab studies — though human data is still limited. Think of them as supportive players, not standalone solutions.

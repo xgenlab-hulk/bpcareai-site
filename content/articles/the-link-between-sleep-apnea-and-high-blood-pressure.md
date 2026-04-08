@@ -116,17 +116,17 @@ Understanding the **sleep apnea and high blood pressure connection** empowers yo
 
 ### FAQ
 
-#### #### Does sleep apnea cause high blood pressure?
+#### Does sleep apnea cause high blood pressure?
 Yes, untreated obstructive sleep apnea can contribute to the development and worsening of high blood pressure. Each time breathing stops during sleep, oxygen levels drop, triggering the release of stress hormones that raise heart rate and constrict blood vessels. Over time, this leads to sustained increases in blood pressure, particularly at night.
 
-#### #### Can treating sleep apnea lower blood pressure?
+#### Can treating sleep apnea lower blood pressure?
 Yes, treating sleep apnea—especially with CPAP therapy—has been shown to reduce both daytime and nighttime blood pressure. Regular use of CPAP can lower systolic blood pressure by an average of 2–5 mm Hg, with greater benefits seen in those with more severe apnea or resistant hypertension.
 
-#### #### What is the sleep apnea and high blood pressure connection?
+#### What is the sleep apnea and high blood pressure connection?
 The sleep apnea and high blood pressure connection lies in how repeated breathing interruptions during sleep activate the body's stress systems, increase inflammation, and impair blood vessel function. This leads to higher baseline blood pressure and disrupts the normal nighttime dip in arterial pressure, increasing long-term cardiovascular risk.
 
-#### #### How do I know if I should be tested for sleep apnea?
+#### How do I know if I should be tested for sleep apnea?
 You should consider getting tested if you snore loudly, wake up gasping, have high blood pressure that’s hard to control, or feel excessively tired during the day despite sleeping enough hours. A sleep study, either at home or in a lab, can confirm whether you have sleep apnea.
 
-#### #### Is high blood pressure worse at night due to sleep apnea?
+#### Is high blood pressure worse at night due to sleep apnea?
 Yes, many people with sleep apnea experience elevated or rising blood pressure at night—a reversal of the normal pattern where BP dips during sleep. This "non-dipping" pattern is linked to a higher risk of heart disease, stroke, and kidney damage, making diagnosis and treatment important.

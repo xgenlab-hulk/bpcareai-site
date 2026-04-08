@@ -83,22 +83,22 @@ The physiology behind *sitting and blood pressure remote work* is real—but it�
 
 ### FAQ
 
-#### #### Does sitting all day raise blood pressure for remote workers?
+#### Does sitting all day raise blood pressure for remote workers?
 
 Yes—especially in adults over 50. Prolonged sitting reduces splanchnic vein compliance and blunts endothelial shear stress, contributing to both higher average BP and greater daytime variability. Research shows remote workers who sit >6 hours/day have a 27% higher odds of elevated BP variability compared to those who break sitting every 30–45 minutes.
 
-#### #### How does sitting and blood pressure remote work affect heart health long-term?
+#### How does sitting and blood pressure remote work affect heart health long-term?
 
 Chronic elevation in daytime BP variability—driven by sedentary behavior—is associated with accelerated arterial stiffening and left ventricular remodeling. Over 5–10 years, unaddressed patterns may increase risk for isolated systolic hypertension and incident heart failure—particularly in adults aged 52–64 with other cardiovascular risk factors.
 
-#### #### Can standing desks solve the sitting and blood pressure remote work problem?
+#### Can standing desks solve the sitting and blood pressure remote work problem?
 
 Standing desks alone aren’t sufficient. Without movement, static standing can reduce venous return and *increase* BP in some individuals. What matters most is *intermittent dynamic transitions*: standing + gentle movement (e.g., stepping in place, stretching) every 25–30 minutes. Trials show this approach reduces postprandial BP spikes more effectively than standing-only setups.
 
-#### #### Is post-lunch fatigue related to blood pressure changes?
+#### Is post-lunch fatigue related to blood pressure changes?
 
 Often, yes. A postprandial BP dip followed by a sympathetic rebound—common during prolonged sitting—can cause fatigue, brain fog, or mild dizziness around 1–2 p.m. This reflects autonomic imbalance rather than simple “low energy,” and responds well to movement-based counter-maneuvers.
 
-#### #### What’s the ideal blood pressure range for someone working remotely over age 50?
+#### What’s the ideal blood pressure range for someone working remotely over age 50?
 
 For adults 50–64, current guidelines (ACC/AHA 2023) recommend an average home BP target of <130/80 mm Hg. However, *consistency* matters too: aim for <10 mm Hg variation in systolic readings across morning and afternoon sessions—and avoid sustained rises >10 mm Hg after meals.

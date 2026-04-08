@@ -59,22 +59,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What are the earliest retinal signs uncontrolled bp diabetes in older adults?
+#### What are the earliest retinal signs uncontrolled bp diabetes in older adults?
 
 The earliest signs include progressive narrowing of retinal venules (not arteries), increased density of microaneurysms in the posterior pole, and subtle enlargement of the foveal avascular zone — often visible on OCTA before clinical retinopathy develops.
 
-#### #### Can retinal signs uncontrolled bp diabetes appear even with normal blood pressure readings?
+#### Can retinal signs uncontrolled bp diabetes appear even with normal blood pressure readings?
 
 Yes — especially in older adults with diabetes. Clinic readings reflect just one moment; retinal vessels respond to cumulative exposure, including nighttime spikes and post-meal surges. This is why home monitoring and annual AI-assisted retinal imaging add critical context.
 
-#### #### How often should someone with Type 2 diabetes over 60 get retinal imaging to catch retinal signs uncontrolled bp diabetes?
+#### How often should someone with Type 2 diabetes over 60 get retinal imaging to catch retinal signs uncontrolled bp diabetes?
 
 Annual ultra-widefield or OCTA imaging is recommended — more frequently (every 6 months) if prior scans show progression, HbA1c remains above 7.5%, or BP has been difficult to stabilize.
 
-#### #### Do blood pressure medications prevent retinal signs uncontrolled bp diabetes?
+#### Do blood pressure medications prevent retinal signs uncontrolled bp diabetes?
 
 They help significantly — especially ACE inhibitors and ARBs, which have protective effects on small vessels beyond lowering BP. However, effectiveness depends on consistent use, timing, and individual response — which is why retinal imaging helps confirm whether treatment is truly protecting your microvasculature.
 
-#### #### Is there a link between retinal signs uncontrolled bp diabetes and stroke risk?
+#### Is there a link between retinal signs uncontrolled bp diabetes and stroke risk?
 
 Yes. Research shows that retinal venular narrowing and FAZ expansion correlate with cerebral small vessel disease — increasing stroke risk by up to 30% over 5 years in adults over 60 with diabetes. That’s why your retina is sometimes called “the brain’s window.”

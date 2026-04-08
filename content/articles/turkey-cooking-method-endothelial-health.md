@@ -71,22 +71,22 @@ Choosing how to prepare your turkey isn’t about adding worry to your holiday t
 
 ### FAQ
 
-#### #### Does cooking turkey at lower temperatures improve endothelial function in seniors?
+#### Does cooking turkey at lower temperatures improve endothelial function in seniors?
 
 Yes — lower-temperature, moist-heat methods (like covered roasting at 275°F or poaching) reduce dietary AGE formation, which is associated with less post-meal inflammation and better preservation of flow-mediated dilation in adults over 65. One small pilot study showed a 6% average improvement in FMD response two hours after low-heat turkey versus standard roasting.
 
-#### #### What’s the best turkey cooking method for endothelial health during family gatherings?
+#### What’s the best turkey cooking method for endothelial health during family gatherings?
 
 The most accessible and evidence-supported option is *covered, low-temperature oven roasting* (275–300°F) with added broth and periodic basting. It delivers familiar flavor and texture while significantly lowering AGEs — making it ideal for holiday meals where comfort, tradition, and health all matter.
 
-#### #### How does turkey cooking method endothelial health relate to blood pressure?
+#### How does turkey cooking method endothelial health relate to blood pressure?
 
 While turkey itself is naturally low in sodium and rich in potassium-supportive nutrients, high-heat cooking increases AGEs, which may contribute to oxidative stress in blood vessel walls — potentially affecting arterial elasticity and short-term BP variability. Supporting endothelial health through gentler cooking complements other BP-friendly habits like reducing processed salt and staying hydrated.
 
-#### #### Is sous-vide worth it for heart health if I’m over 65?
+#### Is sous-vide worth it for heart health if I’m over 65?
 
 Sous-vide is excellent for minimizing AGEs, but it’s not essential. Many home cooks achieve similar benefits using low-temp oven roasting or poaching — methods that require no special equipment and pose less learning curve or safety concern. Focus on consistency and enjoyment over novelty.
 
-#### #### Can herbs and spices reduce AGE formation when cooking turkey?
+#### Can herbs and spices reduce AGE formation when cooking turkey?
 
 Certain antioxidants — like rosemary, thyme, garlic, and ginger — have shown AGE-inhibiting effects in lab studies when applied before cooking. While human data is limited, adding generous amounts of these herbs to marinades or rubs is safe, flavorful, and aligns with heart-healthy eating patterns.

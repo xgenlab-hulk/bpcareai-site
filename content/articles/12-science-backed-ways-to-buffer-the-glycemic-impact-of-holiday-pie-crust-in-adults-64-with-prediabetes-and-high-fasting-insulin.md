@@ -64,17 +64,17 @@ In short, enjoying holiday pie doesn’t require choosing between tradition and 
 
 ### FAQ
 
-#### #### Can vinegar really buffer pie crust glycemic impact seniors?  
+#### Can vinegar really buffer pie crust glycemic impact seniors?  
 Yes—multiple CGM studies in adults 60–75 show that 1 tbsp apple cider vinegar taken 5 minutes before dessert lowers 60-minute glucose peaks by 15–22 mg/dL, likely via delayed gastric emptying and amylase inhibition.
 
-#### #### What’s the best crust alternative to buffer pie crust glycemic impact seniors?  
+#### What’s the best crust alternative to buffer pie crust glycemic impact seniors?  
 Almond-oat flour blends (½ almond, ½ oat) reduce net carbs by ~25%, add magnesium and soluble fiber, and maintain texture—validated in a 2023 geriatric nutrition trial.
 
-#### #### Do blood pressure meds affect how I should buffer pie crust glycemic impact seniors?  
+#### Do blood pressure meds affect how I should buffer pie crust glycemic impact seniors?  
 Some medications (e.g., ACE inhibitors, SGLT2 inhibitors) improve insulin sensitivity and may enhance buffering effects—but always discuss dietary changes with your prescriber.
 
-#### #### Is it safe to eat pie crust if my fasting insulin is high?  
+#### Is it safe to eat pie crust if my fasting insulin is high?  
 Yes—with strategy. Elevated fasting insulin signals insulin resistance, not prohibition. Prioritizing fiber, acidity, and protein with crust helps restore metabolic rhythm.
 
-#### #### How does aging change how my body handles pie crust?  
+#### How does aging change how my body handles pie crust?  
 After age 60, insulin secretion slows by ~0.5% per year, and muscle glucose uptake declines ~1% annually—making glycemic buffering more impactful, not less.

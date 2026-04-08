@@ -62,22 +62,22 @@ Managing diabetes during the holidays doesn’t mean stepping away from celebrat
 
 ### FAQ
 
-#### #### How can I avoid overeating holiday diabetes without feeling deprived?
+#### How can I avoid overeating holiday diabetes without feeling deprived?
 
 Focus on “adding in” rather than cutting out: begin each meal with a generous portion of colorful, fiber-rich vegetables (roasted carrots, sautéed spinach, raw crudités), which increase volume and satisfaction with minimal glucose impact. Prioritize protein and healthy fats—like turkey skin, avocado slices, or a small handful of walnuts—to promote satiety. Deprivation rarely lasts; nourishment does.
 
-#### #### What are the best behavioral strategies to avoid overeating holiday diabetes?
+#### What are the best behavioral strategies to avoid overeating holiday diabetes?
 
 Evidence-backed techniques include pre-portioning desserts before sitting down, using smaller plates (7–9 inches), eating slowly with intentional pauses, and engaging in conversation between bites. One study found that adults who paused for 30 seconds between bites reduced total intake by 15%—without reporting less enjoyment.
 
-#### #### Can avoiding overeating holiday diabetes help my blood pressure too?
+#### Can avoiding overeating holiday diabetes help my blood pressure too?
 
 Yes—indirectly but meaningfully. Large meals high in sodium, saturated fat, and refined carbs can cause transient increases in both glucose and systolic blood pressure (often 10–25 mm Hg). Consistently avoiding overeating helps maintain healthier postprandial vascular responses, supporting long-term arterial elasticity and reducing strain on the heart.
 
-#### #### Is it okay to skip breakfast to “save calories” for holiday dinner?
+#### Is it okay to skip breakfast to “save calories” for holiday dinner?
 
 No—skipping meals often leads to sharper glucose spikes later, increased cortisol, and poorer food choices due to heightened hunger. Instead, eat a balanced breakfast with protein, fiber, and healthy fat (e.g., Greek yogurt with berries and chia seeds) to stabilize morning glucose and support steady energy all day.
 
-#### #### How soon after a holiday meal should I check my blood sugar?
+#### How soon after a holiday meal should I check my blood sugar?
 
 Check at 1 hour and 2 hours after your *first bite*. The 1-hour reading shows peak glucose response; the 2-hour value tells you whether your body cleared the meal effectively (target: ≤140 mg/dL for most adults over 50). Always follow your care team’s personalized goals—some may recommend slightly different targets based on health status or medication use.

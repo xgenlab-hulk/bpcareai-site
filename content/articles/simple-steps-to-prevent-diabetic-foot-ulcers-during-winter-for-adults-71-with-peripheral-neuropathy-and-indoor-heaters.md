@@ -103,22 +103,22 @@ If you're unsure, talking to your doctor is always a good idea. Diabetic foot ul
 
 ### FAQ
 
-#### #### Can diabetic foot ulcers winter prevention really make a difference for someone my age?
+#### Can diabetic foot ulcers winter prevention really make a difference for someone my age?
 
 Yes—absolutely. While healing may take longer after age 70, studies show that consistent preventive care reduces ulcer incidence by up to 52% in adults over 75 with diabetes and neuropathy. Prevention focuses on what *is* within your control: moisture, temperature, inspection, and safe movement.
 
-#### #### What’s the best moisturizer for diabetic foot ulcers winter prevention?
+#### What’s the best moisturizer for diabetic foot ulcers winter prevention?
 
 Look for a fragrance-free, non-occlusive cream containing **10–20% urea**, along with ceramides and hyaluronic acid. Avoid petroleum jelly on open areas (it traps moisture but doesn’t hydrate), and never use corn-removing acids (like salicylic acid) without podiatric guidance—these can damage thin, aging skin.
 
-#### #### How often should I check my feet during diabetic foot ulcers winter prevention?
+#### How often should I check my feet during diabetic foot ulcers winter prevention?
 
 Daily is ideal—but if mobility or vision makes that hard, aim for *at least every other day*, paired with a weekly thorough check (with help or mirror). Even brief checks—taking just 60 seconds—cut risk significantly. Consistency matters more than duration.
 
-#### #### Is it safe to use an electric blanket if I have diabetic neuropathy?
+#### Is it safe to use an electric blanket if I have diabetic neuropathy?
 
 Not safely, without safeguards. Because neuropathy impairs temperature sensation, electric blankets carry a real risk of thermal injury—even on low settings. Safer alternatives include warmed bedding layers, flannel sheets, and moisture-wicking thermal socks used *before* getting into bed—not while sleeping.
 
-#### #### Does indoor heating really affect my feet more than outdoor cold?
+#### Does indoor heating really affect my feet more than outdoor cold?
 
 Yes—in different ways. Outdoor cold mainly causes vasoconstriction (narrowing of blood vessels), which reduces circulation. Indoor heating causes *dryness*, which leads to cracking and micro-tears—especially in skin already vulnerable from aging, diabetes, and neuropathy. Both matter, but dryness is the more common silent trigger for early ulcer formation in winter.

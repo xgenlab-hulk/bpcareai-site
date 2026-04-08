@@ -46,17 +46,17 @@ In short, enjoying the holidays doesn’t mean sacrificing comfort—or your hea
 
 ### FAQ
 
-#### #### Is sugar-free eggnog safe for seniors with gastroparesis?  
+#### Is sugar-free eggnog safe for seniors with gastroparesis?  
 Not necessarily. Many sugar-free eggnog products contain maltitol, which poses a clear sugar-free eggnog gastroparesis risk—especially for adults over 68. Always check labels and consider homemade or low-osmotic alternatives.
 
-#### #### What makes sugar-free eggnog gastroparesis risk higher during the holidays?  
+#### What makes sugar-free eggnog gastroparesis risk higher during the holidays?  
 Holiday timing coincides with increased consumption of rich, fatty, and sugar-alcohol-sweetened foods—each of which slows gastric emptying. Combined with seasonal stress and possible medication changes, this raises the sugar-free eggnog gastroparesis risk for vulnerable seniors.
 
-#### #### Can I still enjoy eggnog if I have gastroparesis?  
+#### Can I still enjoy eggnog if I have gastroparesis?  
 Yes—with modifications. Choose versions sweetened with erythritol, stevia, or monk fruit instead of maltitol; limit portions; and pair with light, easily digested foods. Homemade eggnog gives you full control over ingredients.
 
-#### #### Does “keto” on the label mean it’s easier on the stomach?  
+#### Does “keto” on the label mean it’s easier on the stomach?  
 No. “Keto” refers only to carbohydrate content—not digestive tolerance. Many keto-labeled eggnogs rely heavily on maltitol, increasing sugar-free eggnog gastroparesis risk rather than reducing it.
 
-#### #### Are there blood pressure concerns linked to sugar-free eggnog?  
+#### Are there blood pressure concerns linked to sugar-free eggnog?  
 While sugar-free eggnog itself doesn’t directly raise BP, the discomfort and stress from gastric distress can temporarily elevate arterial pressure—especially in adults with existing hypertension. Staying hydrated and avoiding large, heavy servings helps support both digestive and cardiovascular wellness.

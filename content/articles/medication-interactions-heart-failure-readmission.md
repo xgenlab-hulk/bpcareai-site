@@ -88,17 +88,17 @@ While the statistics around heart failure readmission can feel overwhelming, the
 
 ### FAQ
 
-#### #### What are the most dangerous medication interactions heart failure readmission risks for seniors?
+#### What are the most dangerous medication interactions heart failure readmission risks for seniors?
 The highest-risk combinations involve drugs that collectively impair kidney perfusion and sodium excretion—especially NSAIDs + loop diuretics + SGLT2 inhibitors, or ACE/ARBs + NSAIDs + potassium-sparing diuretics. These raise 30-day readmission odds by 30–35% in adults 75+ with baseline eGFR <60.
 
-#### #### Can over-the-counter pain relievers cause medication interactions heart failure readmission?
+#### Can over-the-counter pain relievers cause medication interactions heart failure readmission?
 Yes—common NSAIDs like ibuprofen and naproxen reduce renal blood flow and blunt diuretic effectiveness. Even occasional use (e.g., for arthritis or headache) has been linked to increased 30-day heart failure readmission rates. Acetaminophen is usually preferred—but always discuss with your care team first.
 
-#### #### How soon after hospital discharge should I review my medications to avoid heart failure readmission?
+#### How soon after hospital discharge should I review my medications to avoid heart failure readmission?
 Ideally within **72 hours** of discharge. A structured pharmacist-led review during this window catches 85% of high-risk interactions before symptoms develop. Many hospitals now offer telehealth follow-up visits or home-based medication therapy management (MTM) services—ask your discharge planner.
 
-#### #### Does taking multiple heart medications automatically increase my risk of heart failure readmission?
+#### Does taking multiple heart medications automatically increase my risk of heart failure readmission?
 Not automatically—but polypharmacy (5+ medications) *does* raise risk, especially when combinations affect kidney function, electrolytes, or heart rhythm. What matters most is *which* medications and *how* they interact in *your* body—not just the number.
 
-#### #### Are SGLT2 inhibitors safe for older adults with heart failure?
+#### Are SGLT2 inhibitors safe for older adults with heart failure?
 Yes—SGLT2 inhibitors like dapagliflozin and empagliflozin have strong evidence for reducing heart failure hospitalizations and mortality. However, their benefit depends on stable kidney perfusion and volume status. When combined with NSAIDs or under-dosed diuretics, their protective effect may vanish—and risk may rise. Always monitor weight, creatinine, and symptoms closely after starting.

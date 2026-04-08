@@ -80,17 +80,17 @@ The holidays are about presence—not perfection. A safer seat, a gentler pace, 
 
 ### FAQ
 
-#### #### How does holiday seating affect swallowing in seniors with Parkinson’s?
+#### How does holiday seating affect swallowing in seniors with Parkinson’s?
 Holiday seating impacts swallowing safety by altering posture, visual input, and cognitive load—all of which influence the timing and coordination of the pharyngeal swallow. For seniors with mild Parkinsonian tremor, even small changes—like sitting too low or straining to reach the table—can delay airway closure by fractions of a second, increasing aspiration risk during festive, fast-paced meals.
 
-#### #### What’s the best chair height for holiday seating swallowing safety parkinsonian seniors?
+#### What’s the best chair height for holiday seating swallowing safety parkinsonian seniors?
 The ideal chair height lets feet rest flat on the floor *with knees level with or slightly below hips*. This maintains neutral pelvic tilt and optimal head-neck alignment. For most adults over 80, that’s typically 17–18 inches from floor to seat. Avoid chairs that cause knee flexion greater than 90° or require foot dangling.
 
-#### #### Can lighting really change swallowing safety during holiday meals?
+#### Can lighting really change swallowing safety during holiday meals?
 Yes—absolutely. Low or uneven lighting reduces visual contrast, making it harder to assess food texture and portion size. This leads to less controlled bites and delayed recognition of residue. Warm-white, focused lighting (≥400 lumens) aimed at the plate—not the face—improves visual guidance and supports safer oral preparation.
 
-#### #### Is it safe for seniors with mild tremor to eat turkey or stuffing during holidays?
+#### Is it safe for seniors with mild tremor to eat turkey or stuffing during holidays?
 Yes—with mindful preparation. Cut turkey into thin, uniform strips (not cubes), and serve stuffing moistened with broth—not dry or crumbly. Avoid mixed textures on one fork (e.g., cranberry + turkey + stuffing) unless thoroughly combined. Prioritize one consistent texture per bite to reduce pharyngeal decision load.
 
-#### #### Do blood pressure changes affect swallowing in older adults?
+#### Do blood pressure changes affect swallowing in older adults?
 While BP itself doesn’t directly control swallowing, fluctuations matter indirectly: sudden drops (e.g., orthostatic hypotension) can cause dizziness or fatigue, reducing alertness during meals. Likewise, chronic hypertension may contribute to vascular changes in brainstem swallowing centers over time. Monitoring BP trends supports overall neurological resilience—especially during physically and emotionally demanding seasons like the holidays.

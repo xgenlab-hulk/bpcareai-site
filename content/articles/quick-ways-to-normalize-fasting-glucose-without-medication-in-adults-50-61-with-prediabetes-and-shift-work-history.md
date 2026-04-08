@@ -59,17 +59,17 @@ The good news? Your body hasn’t “forgotten” how to regulate glucose—it�
 
 ### FAQ
 
-#### #### Can shift work really cause prediabetes—even if I eat well and exercise?
+#### Can shift work really cause prediabetes—even if I eat well and exercise?
 Yes—absolutely. Research shows circadian misalignment alone reduces insulin sensitivity by up to 27%, independent of diet or activity. That’s why resetting timing is essential *alongside* healthy habits—not instead of them.
 
-#### #### How long does it take to normalize fasting glucose shift work prediabetes naturally?
+#### How long does it take to normalize fasting glucose shift work prediabetes naturally?
 Most people see measurable changes in 2–4 weeks with consistent light, meal, and sleep timing. Sustained normalization (e.g., fasting glucose <99 mg/dL for 3+ months) typically takes 3–6 months—but benefits like better energy and deeper sleep often begin in week one.
 
-#### #### What’s the best time to test fasting glucose if I work nights?
+#### What’s the best time to test fasting glucose if I work nights?
 Test *after your longest natural sleep period*, following an 8-hour fast. So if you sleep from 8 a.m. to 4 p.m., test around 4–5 p.m. Don’t test right after waking from a nap—wait until you’ve had full, consolidated rest.
 
-#### #### Does melatonin help normalize fasting glucose shift work prediabetes?
+#### Does melatonin help normalize fasting glucose shift work prediabetes?
 Yes—when timed correctly. Low-dose (0.3–0.5 mg) melatonin taken 1 hour before intended bedtime improves sleep efficiency and has been linked to 5–8% better overnight glucose control in shift-worker trials.
 
-#### #### Are there foods that specifically help circadian glucose regulation?
+#### Are there foods that specifically help circadian glucose regulation?
 Not “magic” foods—but consistency does. Prioritize protein and fiber at your first meal of the day (e.g., eggs + spinach, Greek yogurt + berries), and avoid large carbohydrate loads late in your active phase. Timing matters more than any single food.

@@ -3,7 +3,7 @@ title: >-
   Best Breakfast Foods to Stop Morning Blood Sugar Spikes After 35
 slug: breakfast-blood-sugar-spikes-after-35
 description: >-
-  Breakfast foods to stop morning blood sugar spikes after 35 can lower post-meal glucose by up to 42% (ADA, 2023). High-fiber + protein combos blunt the dawn
+  Breakfast foods to stop morning blood sugar spikes after 35 can lower post-meal glucose by up to 42% (ADA, 2023).
 date: '2026-04-06'
 updated: '2026-04-06'
 primaryKeyword: >-

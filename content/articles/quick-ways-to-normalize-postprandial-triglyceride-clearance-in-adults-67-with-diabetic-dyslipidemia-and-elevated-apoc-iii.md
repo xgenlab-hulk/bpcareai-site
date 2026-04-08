@@ -59,22 +59,22 @@ Supporting postprandial triglyceride clearance diabetes isn’t about perfection
 
 ### FAQ
 
-#### #### What is postprandial triglyceride clearance diabetes — and why does it matter more after 65?
+#### What is postprandial triglyceride clearance diabetes — and why does it matter more after 65?
 
 Postprandial triglyceride clearance diabetes describes how effectively your body removes triglyceride-rich particles from circulation *after eating*. After age 65, muscle LPL activity declines, insulin resistance often increases, and ApoC-III rises — all slowing this cleanup. Poor clearance contributes to silent vascular changes, making it a quiet but meaningful part of heart health in diabetes.
 
-#### #### Can diet alone improve postprandial triglyceride clearance diabetes?
+#### Can diet alone improve postprandial triglyceride clearance diabetes?
 
 Yes — when timed intentionally. Prioritizing soluble fiber (≥10 g/meal), pairing omega-3s with meals, and adding brief resistance activity *after* eating have all shown measurable improvements in postprandial triglyceride clearance diabetes — especially in older adults with type 2 diabetes.
 
-#### #### How is postprandial triglyceride clearance diabetes different from fasting triglycerides?
+#### How is postprandial triglyceride clearance diabetes different from fasting triglycerides?
 
 Fasting triglycerides reflect baseline liver output and overnight metabolism. Postprandial triglyceride clearance diabetes reflects how well your body handles *dietary fat* — a dynamic process involving LPL, ApoC-III, and muscle activity. Two people can have identical fasting levels but vastly different post-meal responses.
 
-#### #### Are chair squats safe for someone with knee or balance concerns?
+#### Are chair squats safe for someone with knee or balance concerns?
 
 Absolutely — when adapted. Use arm support, reduce depth, or hold the squat for 3 seconds instead of going full range. Even seated leg extensions (lifting one foot at a time) provide LPL-stimulating muscle contraction. Always consult your physical therapist or doctor before starting, especially if you have joint replacements or neuropathy.
 
-#### #### Does metformin help with postprandial triglyceride clearance diabetes?
+#### Does metformin help with postprandial triglyceride clearance diabetes?
 
 Metformin improves insulin sensitivity and may modestly lower fasting triglycerides, but evidence for direct impact on *postprandial* clearance or ApoC-III is limited. Its greatest benefit here is indirect — by supporting better overall glucose control, it helps create conditions where lifestyle strategies (like timed movement and fiber) work more effectively.

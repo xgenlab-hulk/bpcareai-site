@@ -3,7 +3,7 @@ title: >-
   Best Cholesterol Meds for Women After Menopause — What's Safe &
 slug: best-cholesterol-meds-women-menopause
 description: >-
-  Best cholesterol meds for women after menopause: High-intensity statins lower LDL by ≥50% and cut heart attack risk by 27%. Learn what’s safe, effective, and
+  Best cholesterol meds for women after menopause: High-intensity statins lower LDL by ≥50% and cut heart attack risk by 27%.
 date: '2026-04-07'
 updated: '2026-04-07'
 primaryKeyword: >-

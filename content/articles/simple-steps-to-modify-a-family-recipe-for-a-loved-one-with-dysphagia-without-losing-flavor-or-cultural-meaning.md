@@ -54,17 +54,17 @@ In every generation, feeding each other is how we say, *“You belong here.”* 
 
 ### FAQ
 
-#### #### Can I modify family recipe dysphagia for someone with mild swallowing difficulty—or is it only for advanced cases?  
+#### Can I modify family recipe dysphagia for someone with mild swallowing difficulty—or is it only for advanced cases?  
 Yes—you can adapt recipes at any dysphagia severity. Even mild cases benefit from consistent viscosity and reduced choking hazards (e.g., softened dried fruit in compotes, finely ground nuts in stuffing). Always begin with an SLP’s assessment to determine the safest IDDSI level.
 
-#### #### How do I modify family recipe dysphagia without using artificial thickeners?  
+#### How do I modify family recipe dysphagia without using artificial thickeners?  
 Natural alternatives include chia or flaxseed gels (soaked 1:9 ratio in liquid, refrigerated 15 min), cooked potato or cauliflower purée (for gravies), or blended oats (for creaminess in fruit dishes). Note: These vary in thermal stability—test reheating behavior first.
 
-#### #### What’s the safest way to reheat modified family recipe dysphagia dishes?  
+#### What’s the safest way to reheat modified family recipe dysphagia dishes?  
 Reheat gently to ≤140°F (60°C) and stir frequently to prevent hot spots and texture breakdown. Avoid boiling or microwaving on high—both degrade thickener integrity and aroma. Use a food thermometer to verify even heating.
 
-#### #### Does modifying family recipe dysphagia affect nutrient absorption?  
+#### Does modifying family recipe dysphagia affect nutrient absorption?  
 Not inherently—but some modifications (e.g., excessive dilution or overcooking) may reduce heat-sensitive vitamins (B1, C) or fiber content. Work with a registered dietitian to ensure meals meet caloric, protein, and micronutrient needs—especially important for older adults at risk of sarcopenia or vitamin D deficiency.
 
-#### #### Can children with dysphagia follow the same modified family recipe dysphagia guidelines?  
+#### Can children with dysphagia follow the same modified family recipe dysphagia guidelines?  
 No—pediatric dysphagia requires different developmental, anatomical, and nutritional considerations. Always follow guidance from a pediatric SLP and dietitian; adult IDDSI levels don’t directly translate to children under age 5.

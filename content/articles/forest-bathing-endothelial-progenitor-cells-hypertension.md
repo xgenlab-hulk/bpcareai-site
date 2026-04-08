@@ -40,22 +40,22 @@ In summary, while forest bathing isn’t a replacement for evidence-based hypert
 
 ### FAQ
 
-#### #### Does forest bathing endothelial progenitor cells hypertension improve blood pressure control?
+#### Does forest bathing endothelial progenitor cells hypertension improve blood pressure control?
 
 Yes—modestly. Clinical trials report average systolic reductions of 3–5 mm Hg after 4 weeks of daily forest bathing in adults with stage 1 hypertension. More significantly, it enhances endothelial function (measured by RHI and FMD), which underlies long-term BP stability and reduces arterial stiffness.
 
-#### #### Can forest bathing endothelial progenitor cells hypertension benefit women or younger adults?
+#### Can forest bathing endothelial progenitor cells hypertension benefit women or younger adults?
 
 Most current EPC-focused studies enroll men 60–75 due to higher baseline hypertension prevalence and clearer age-related EPC decline. However, mechanistic pathways (NO upregulation, inflammation reduction, autonomic modulation) apply across genders and ages—and pilot data in women show similar RHI improvements.
 
-#### #### How long does it take to see changes in endothelial progenitor cell counts with forest bathing?
+#### How long does it take to see changes in endothelial progenitor cell counts with forest bathing?
 
 In controlled trials, significant increases in CD34+/VEGFR2+ EPCs were observed after 7–14 days of consistent 20-minute daily exposure. Peak effects typically occur around week 3–4, with sustained gains seen at 8 weeks when combined with healthy sleep and nutrition.
 
-#### #### Is forest bathing safe for people taking antihypertensive medications?
+#### Is forest bathing safe for people taking antihypertensive medications?
 
 Yes—forest bathing has no known interactions with common BP medications (e.g., ACE inhibitors, calcium channel blockers). However, because it may modestly lower BP, monitor for lightheadedness—especially when standing up after sitting on the ground—and discuss findings with your clinician during routine visits.
 
-#### #### Do urban parks provide the same forest bathing endothelial progenitor cells hypertension benefits as rural forests?
+#### Do urban parks provide the same forest bathing endothelial progenitor cells hypertension benefits as rural forests?
 
 Moderately. Parks with mature trees (especially conifers), minimal traffic noise, and high canopy cover offer measurable phytoncide and negative ion exposure—though concentrations are ~30–50% lower than in dense, old-growth forests. Consistency matters more than perfection: daily 20-minute sessions in accessible green space still yield clinically relevant vascular benefits.

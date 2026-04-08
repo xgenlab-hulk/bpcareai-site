@@ -84,17 +84,17 @@ The idea that our bodies “just wear out” with age is outdated. What often de
 
 ### FAQ
 
-#### #### Can I restore insulin rhythm without melatonin if I’m already on metformin?  
+#### Can I restore insulin rhythm without melatonin if I’m already on metformin?  
 Yes—metformin works primarily in the liver and doesn’t interfere with beta-cell clock genes. In fact, the 2023 RCT included participants on stable metformin doses, and they experienced the same 42% improvement in first-phase insulin release. Just keep your timing consistent: take metformin as prescribed, and add zinc-carnosine 30 minutes *before* dinner separately.
 
-#### #### Does restoring insulin rhythm without melatonin also help with blood pressure?  
+#### Does restoring insulin rhythm without melatonin also help with blood pressure?  
 Indirectly, yes. Circadian misalignment is linked to nocturnal BP non-dipping (when BP doesn’t drop 10–20% overnight)—a known risk factor for stroke and heart disease. By supporting central and peripheral clock synchronization, this approach may help normalize 24-hour BP patterns over time, especially in adults with evening hyperglycemia and mild hypertension.
 
-#### #### What’s the difference between restoring insulin rhythm without melatonin and just taking more diabetes medication?  
+#### What’s the difference between restoring insulin rhythm without melatonin and just taking more diabetes medication?  
 Medications like glipizide or insulin boost insulin *quantity*—but they don’t fix *timing*. They can also increase hypoglycemia risk, especially in older adults. Restoring insulin rhythm without melatonin supports your body’s innate ability to secrete insulin *when it’s needed most*, reducing glucose variability and long-term beta-cell stress—without adding pharmacologic burden.
 
-#### #### Are blue-light-filtering lenses safe for people with macular degeneration or glaucoma?  
+#### Are blue-light-filtering lenses safe for people with macular degeneration or glaucoma?  
 Generally yes—amber lenses don’t reduce overall brightness or contrast, and studies show no worsening of retinal health markers. However, if you have advanced glaucoma or severe vision loss, consult your ophthalmologist first. For most adults over 64, these lenses are well tolerated and pose no known ocular risks.
 
-#### #### How long before I notice changes in my evening glucose levels?  
+#### How long before I notice changes in my evening glucose levels?  
 Most people see modest improvements in 2–3 weeks—like smaller glucose spikes or faster return to baseline. Full stabilization of first-phase insulin release typically takes 6–8 weeks of consistent practice. Patience and regular tracking are your best allies.

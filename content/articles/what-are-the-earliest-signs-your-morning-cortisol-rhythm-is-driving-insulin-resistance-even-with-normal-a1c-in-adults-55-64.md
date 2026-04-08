@@ -86,22 +86,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can morning cortisol insulin resistance A1C discordance happen even with perfect lab results?
+#### Can morning cortisol insulin resistance A1C discordance happen even with perfect lab results?
 
 Yes. A normal A1C (e.g., 5.3–5.6%) reflects *average* glycemia over ~3 months but doesn’t capture early-morning insulin resistance driven by cortisol spikes. Fasting glucose, post-breakfast glucose, and salivary cortisol rhythm provide complementary insights—especially in adults 55–64, where circadian shifts begin subtly but significantly.
 
-#### #### What’s the link between morning cortisol insulin resistance A1C and high blood pressure?
+#### What’s the link between morning cortisol insulin resistance A1C and high blood pressure?
 
 Cortisol excess promotes sodium retention, arterial stiffness, and sympathetic nervous system activation—all contributors to elevated morning blood pressure (often called “morning surge”). Studies show adults with blunted cortisol awakening responses are 2.3× more likely to have systolic BP >135 mm Hg upon waking, independent of BMI or A1C.
 
-#### #### Does high morning cortisol cause diabetes—or just worsen it?
+#### Does high morning cortisol cause diabetes—or just worsen it?
 
 Elevated or mistimed morning cortisol doesn’t *cause* type 1 diabetes, but it accelerates progression from prediabetes to type 2 diabetes by impairing insulin-mediated glucose uptake in muscle and promoting gluconeogenesis in the liver. In longitudinal studies, adults 55–64 with abnormal CAR were 3.1× more likely to develop diabetes within 5 years—even with baseline A1C <5.7%.
 
-#### #### Is salivary cortisol testing covered by insurance?
+#### Is salivary cortisol testing covered by insurance?
 
 Most commercial insurers do not routinely cover functional salivary cortisol panels—but some Medicare Advantage plans and employer-sponsored plans may reimburse with prior authorization, especially when ordered alongside fasting glucose, HbA1c, and lipid panels for metabolic evaluation. Always check with your plan and ask your provider to document clinical rationale (e.g., “evaluation of suspected circadian HPA dysregulation contributing to metabolic syndrome features”).
 
-#### #### Can intermittent fasting worsen morning cortisol insulin resistance?
+#### Can intermittent fasting worsen morning cortisol insulin resistance?
 
 Potentially—yes. Skipping breakfast or delaying first meal beyond 2 hours after waking may amplify cortisol-driven hepatic glucose output and blunt insulin sensitivity in older adults. Research suggests time-restricted eating is safest for this age group when aligned with natural cortisol rhythm: e.g., eating window from 7 a.m. to 5 p.m., with first meal within 60 minutes of waking.

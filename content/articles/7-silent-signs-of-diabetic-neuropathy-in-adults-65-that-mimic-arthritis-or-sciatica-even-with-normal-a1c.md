@@ -50,22 +50,22 @@ In short, *diabetic neuropathy silent signs older adults* experience are real—
 
 ### FAQ
 
-#### #### Can diabetic neuropathy occur even with a normal A1c in older adults?
+#### Can diabetic neuropathy occur even with a normal A1c in older adults?
 
 Yes. A1c reflects average blood sugar over ~3 months—but doesn’t capture glucose spikes, hypoglycemia, or long-term metabolic stressors like high blood pressure or inflammation. Studies show up to 15% of adults over 65 with A1c <5.7% still show early neuropathic changes on nerve conduction studies.
 
-#### #### What are the most common diabetic neuropathy silent signs older adults overlook?
+#### What are the most common diabetic neuropathy silent signs older adults overlook?
 
 The top three often-missed signs include: (1) unexplained dry or cracked skin on the feet (due to autonomic nerve loss), (2) intermittent “pins-and-needles” that comes and goes without clear trigger, and (3) mild, persistent fatigue that doesn’t improve with rest—especially when paired with subtle gait changes.
 
-#### #### How is diabetic neuropathy different from sciatica in older adults?
+#### How is diabetic neuropathy different from sciatica in older adults?
 
 Sciatica typically follows the sciatic nerve path (buttock → back of thigh → calf) and worsens with certain movements (like bending or sitting). Diabetic neuropathy tends to be symmetrical (both feet/hands), starts distally (“stocking-glove” pattern), and may include loss of sensation—not just pain. It also doesn’t usually improve with positional changes.
 
-#### #### Are there blood tests that help distinguish diabetic neuropathy from arthritis?
+#### Are there blood tests that help distinguish diabetic neuropathy from arthritis?
 
 While no single test confirms neuropathy, elevated HbA1c, low vitamin B12, high homocysteine, or abnormal thyroid panels support a metabolic nerve cause. In contrast, elevated rheumatoid factor (RF) or anti-CCP antibodies point toward inflammatory arthritis. Imaging (like MRI) helps differentiate structural spine issues from nerve involvement.
 
-#### #### Can high blood pressure contribute to diabetic neuropathy silent signs older adults experience?
+#### Can high blood pressure contribute to diabetic neuropathy silent signs older adults experience?
 
 Absolutely. Hypertension accelerates microvascular damage—reducing blood flow to peripheral nerves. When combined with diabetes, even borderline-high BP (e.g., 135/85 mm Hg consistently) increases risk by up to 30%. Managing both glucose *and* arterial pressure is key to protecting nerve health.

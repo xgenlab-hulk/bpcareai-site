@@ -62,22 +62,22 @@ In all things, kindness to yourself matters most. The goal isn’t perfection �
 
 ### FAQ
 
-#### #### What are the earliest warning signs of holiday hypercoagulability afib seniors?
+#### What are the earliest warning signs of holiday hypercoagulability afib seniors?
 
 Early signs include one-sided calf tightness or warmth, worsening varicose vein discomfort (especially throbbing or itching), and persistent morning finger or hand swelling. These reflect subtle venous stasis — not yet dangerous, but worth discussing with your care team.
 
-#### #### Can healthy holiday eating for seniors reduce holiday hypercoagulability afib seniors?
+#### Can healthy holiday eating for seniors reduce holiday hypercoagulability afib seniors?
 
 Yes — prioritizing hydration, limiting excess sodium and added sugars, and including fiber-rich vegetables and lean proteins helps maintain vascular health and supports steady blood flow. It’s not about strict diets, but sustainable, heart-smart choices.
 
-#### #### Is holiday hypercoagulability afib seniors more common in winter?
+#### Is holiday hypercoagulability afib seniors more common in winter?
 
 Yes — colder temperatures, indoor heating (which dries mucous membranes and reduces thirst cues), and reduced daylight leading to less movement all contribute. Data shows DVT incidence rises 12–18% in December–February among adults 70+, especially those with AFib.
 
-#### #### Does walking help prevent holiday hypercoagulability afib seniors?
+#### Does walking help prevent holiday hypercoagulability afib seniors?
 
 Absolutely. Just 10–15 minutes of brisk walking twice daily improves venous return and reduces stasis. Seated leg lifts and ankle pumps are excellent alternatives on snowy days.
 
-#### #### Are blood thinners adjusted during the holidays for holiday hypercoagulability afib seniors?
+#### Are blood thinners adjusted during the holidays for holiday hypercoagulability afib seniors?
 
 Medication adjustments are *never* done without medical supervision. Your doctor may review INR (if on warfarin) or assess bleeding/clotting risk before the holidays — but never change doses on your own.

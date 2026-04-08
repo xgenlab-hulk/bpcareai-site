@@ -93,22 +93,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What are the earliest signs of dehydration in seniors during the holidays?
+#### What are the earliest signs of dehydration in seniors during the holidays?
 
 The earliest signs go beyond thirst or dry mouth and include delayed capillary refill (>2.5 seconds in nail beds), increased skin tenting on the back of the hand (≥2 seconds), orthostatic pulse rise of ≥20 bpm after standing, and worsening constipation despite usual intake. These often appear before fatigue or confusion—and are especially relevant in the context of holiday meals rich in sodium and low in fiber.
 
-#### #### How can I spot early signs dehydration seniors holiday at home?
+#### How can I spot early signs dehydration seniors holiday at home?
 
 Use simple, repeatable checks: time nail-bed color return after pressing, gently pinch the skin on the back of the hand and observe rebound speed, and check pulse while seated vs. standing at 1 and 3 minutes. Pair these with noting stool frequency/type and energy levels before/after meals. Consistency matters more than single readings.
 
-#### #### Are there specific holiday foods that worsen early signs dehydration seniors holiday?
+#### Are there specific holiday foods that worsen early signs dehydration seniors holiday?
 
 Yes—gravy, cured meats, stuffing with dried bread, and salty cheeses increase sodium load, promoting fluid shifts and potential intravascular depletion. Simultaneously, reduced intake of fruits, vegetables, and whole grains lowers fiber and water-rich food intake—exacerbating constipation and colonic fluid retention. Balancing these with broths, stewed fruits, and moist whole grains helps maintain equilibrium.
 
-#### #### Can medications affect early signs dehydration seniors holiday?
+#### Can medications affect early signs dehydration seniors holiday?
 
 Absolutely. Diuretics, anticholinergics (e.g., oxybutynin), opioids, and certain antidepressants reduce saliva production, slow gut motility, or blunt thirst signaling—making dehydration harder to detect and easier to develop. Review all medications with your pharmacist or prescriber before the holidays, especially if travel or routine changes are expected.
 
-#### #### Is dark urine always a reliable sign of dehydration in older adults?
+#### Is dark urine always a reliable sign of dehydration in older adults?
 
 No—dark urine can result from B vitamins, beets, certain antibiotics, or concentrated morning samples unrelated to hydration status. More reliable indicators in seniors include orthostatic vital signs, skin elasticity, capillary refill, and functional changes (e.g., increased constipation, mental fogginess, or gait instability). Relying solely on urine color misses up to 60% of mild-to-moderate cases in older adults.

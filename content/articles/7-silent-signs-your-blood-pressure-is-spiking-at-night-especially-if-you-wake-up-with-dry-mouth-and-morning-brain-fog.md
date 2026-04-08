@@ -115,22 +115,22 @@ Nocturnal hypertension signs in seniors aren’t a life sentence—they’re inf
 
 ### FAQ
 
-#### #### What are the most common nocturnal hypertension signs in seniors?
+#### What are the most common nocturnal hypertension signs in seniors?
 
 The most frequently reported signs include waking up with dry mouth, frequent nighttime urination (nocturia), unrefreshing sleep, morning brain fog or mental sluggishness, loud snoring with gasping, nighttime heart palpitations, and early-morning headaches—especially when occurring together or regularly.
 
-#### #### Can nocturnal hypertension signs in seniors appear even with normal daytime blood pressure?
+#### Can nocturnal hypertension signs in seniors appear even with normal daytime blood pressure?
 
 Yes—absolutely. This is called “isolated nocturnal hypertension,” and it affects up to 15–20% of older adults with otherwise controlled office or daytime BP. It’s why home monitoring—including bedtime and waking readings—is so valuable.
 
-#### #### How is nocturnal hypertension different from regular high blood pressure?
+#### How is nocturnal hypertension different from regular high blood pressure?
 
 Regular (diurnal) hypertension refers to elevated BP during waking hours. Nocturnal hypertension specifically means BP fails to dip by at least 10% overnight—or actually rises. Healthy adults typically see a 10–20% dip; those with nocturnal hypertension may show a “non-dipper,” “riser,” or “extreme-dipper” pattern—all linked to higher cardiovascular risk.
 
-#### #### Is dry mouth at night a sign of high blood pressure?
+#### Is dry mouth at night a sign of high blood pressure?
 
 Dry mouth alone isn’t diagnostic—but when paired with other clues (e.g., nocturia, snoring, morning fatigue), it’s a recognized *associated sign* of nocturnal hypertension. It may reflect dehydration from nighttime BP-driven diuresis, mouth breathing due to sleep-disordered breathing, or autonomic changes affecting salivary glands.
 
-#### #### What’s the best time to check blood pressure for nocturnal hypertension?
+#### What’s the best time to check blood pressure for nocturnal hypertension?
 
 For practical home assessment, take one reading *within 5 minutes of waking* (before sitting up or drinking coffee) and another *just before going to bed*. Consistency matters more than perfection—aim for 5–7 days of paired readings to spot patterns.

@@ -64,22 +64,22 @@ We’re not asking you to give up technology—we’re inviting you to use it mo
 
 ### FAQ
 
-#### #### Does blue light really affect insulin in older adults with prediabetes?
+#### Does blue light really affect insulin in older adults with prediabetes?
 
 Yes. Multiple studies—including the 2023 geriatric cohort—confirm that evening blue light exposure suppresses melatonin and impairs first-phase insulin secretion in adults 65+, especially those with prediabetes. This leads to higher post-meal glucose levels and faster progression toward type 2 diabetes.
 
-#### #### Can blue light insulin secretion prediabetes seniors be reversed with lifestyle changes?
+#### Can blue light insulin secretion prediabetes seniors be reversed with lifestyle changes?
 
 While beta-cell function declines with age, studies suggest that reducing evening blue light exposure—combined with morning light and consistent sleep timing—can restore up to 15–20% of first-phase insulin response within 4–6 weeks, as measured by CGM and insulin assays.
 
-#### #### Is blue light insulin secretion prediabetes seniors linked to high blood pressure?
+#### Is blue light insulin secretion prediabetes seniors linked to high blood pressure?
 
 Indirectly, yes. Circadian disruption from blue light contributes to sympathetic nervous system activation and reduced nocturnal BP dipping—both associated with insulin resistance and increased cardiovascular risk in older adults with prediabetes.
 
-#### #### Do blue-light blocking glasses help with insulin secretion in seniors?
+#### Do blue-light blocking glasses help with insulin secretion in seniors?
 
 In controlled trials, amber-tinted lenses worn 2 hours before bedtime improved melatonin onset and led to modest but statistically significant improvements in postprandial insulin response—particularly in adults over 65 with prediabetes.
 
-#### #### What’s the safest time to use a tablet if I have prediabetes and am over 65?
+#### What’s the safest time to use a tablet if I have prediabetes and am over 65?
 
 Ideally, finish tablet use by 8 p.m. If that’s not realistic, limit sessions to under 30 minutes after 8 p.m., use maximum filter settings, and keep the device at arm’s length (reducing retinal irradiance). Morning or early-afternoon use carries no known metabolic risk.

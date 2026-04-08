@@ -100,17 +100,17 @@ Noticing subtle shifts in your body — and wanting to understand them — is a 
 
 ### FAQ
 
-#### #### What are the earliest signs of arterial stiffness in women over 50?
+#### What are the earliest signs of arterial stiffness in women over 50?
 Early signs often appear before blood pressure rises — including delayed fingertip rewarming after cold exposure (taking >5 minutes), altered toe-brachial index (<0.65), and subtle voice tremor shifts. These reflect microvascular and endothelial changes, not just large-artery pressure.
 
-#### #### Are early arterial stiffness signs women notice different from men’s?
+#### Are early arterial stiffness signs women notice different from men’s?
 Yes — and increasingly well-documented. Women tend to show earlier microvascular dysfunction (e.g., digital rewarming delays), while men often present with larger-artery stiffness first. Hormonal shifts post-menopause drive much of this difference.
 
-#### #### Can early arterial stiffness signs women experience be reversed?
+#### Can early arterial stiffness signs women experience be reversed?
 In many cases, yes — especially in the pre-hypertensive stage. Studies show improvements in arterial elasticity with consistent aerobic activity, dietary nitrates, and quality sleep — even without medication. Reversibility is highest when addressed early.
 
-#### #### Is there a blood test for arterial stiffness?
+#### Is there a blood test for arterial stiffness?
 No single blood test measures stiffness directly. However, biomarkers like asymmetric dimethylarginine (ADMA), galectin-3, or high-sensitivity CRP may support clinical suspicion — though they’re used mainly in research or specialized clinics, not routine screening.
 
-#### #### How often should women 55–67 check for early arterial stiffness signs?
+#### How often should women 55–67 check for early arterial stiffness signs?
 There’s no universal schedule — but annual discussions with your provider about vascular health, plus home BP tracking twice weekly, provide strong context. If you notice consistent non-BP clues (e.g., persistent cold toes, voice fatigue), bring them up sooner rather than later.

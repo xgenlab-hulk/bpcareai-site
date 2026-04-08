@@ -79,22 +79,22 @@ If you're unsure, talking to your doctor is always a good idea. Mentioning “ho
 
 ### FAQ
 
-#### #### Could holiday heart syndrome actually be Fabry disease?
+#### Could holiday heart syndrome actually be Fabry disease?
 
 Yes—especially when “holiday heart” keeps returning, doesn’t fully resolve, or appears alongside other clues like angiokeratomas, unexplained LVH, or burning sensations in the hands and feet after alcohol. Holiday heart syndrome fabry disease signs are often subtle at first, but recognizing them early allows for timely evaluation and care.
 
-#### #### What are the most common holiday heart syndrome fabry disease signs in people over 60?
+#### What are the most common holiday heart syndrome fabry disease signs in people over 60?
 
 The most telling combinations include: (1) recurrent palpitations or atrial arrhythmias triggered by alcohol, (2) angiokeratomas (especially around the lower abdomen or thighs), (3) unexplained left ventricular hypertrophy on echo, and (4) acroparesthesias or GI symptoms after drinking—even small amounts. Corneal verticillata, while invisible to you, is highly specific and often detected during routine eye exams.
 
-#### #### Is holiday heart syndrome prevention different for someone with undiagnosed Fabry?
+#### Is holiday heart syndrome prevention different for someone with undiagnosed Fabry?
 
 Yes—while general holiday heart syndrome prevention (like moderating alcohol and staying hydrated) still applies, people with Fabry benefit from additional strategies: consistent electrolyte support, avoiding extreme temperatures, and regular cardiac screening (e.g., ECG, echo, and possibly cardiac MRI). Prevention becomes more personalized—and more effective—once the underlying cause is known.
 
-#### #### Can Fabry disease cause high blood pressure?
+#### Can Fabry disease cause high blood pressure?
 
 Not directly. Fabry disease does not typically cause systemic hypertension (elevated BP). In fact, many adults with Fabry have *normal* or even low arterial pressure—yet still develop LVH due to Gb3 buildup in heart muscle. This is why unexplained LVH in someone with normal BP is such an important red flag.
 
-#### #### Are angiokeratomas always a sign of Fabry disease?
+#### Are angiokeratomas always a sign of Fabry disease?
 
 No—they can occur with aging, radiation, or other conditions—but when clustered in the “bathing trunk” area (lower abdomen, groin, upper thighs), persisting for years, and appearing alongside neuropathic or cardiac symptoms, they raise strong suspicion for Fabry. A dermatologist or genetic counselor can help determine next steps.

@@ -89,17 +89,17 @@ The holidays are meant to be joyful — not stressful about blood sugar surprise
 
 ### FAQ
 
-#### #### What are the most common holiday hypoglycemia warning signs seniors should never ignore?
+#### What are the most common holiday hypoglycemia warning signs seniors should never ignore?
 The top signs include waking up sweaty without shaking, feeling unusually fatigued 2–3 hours after dinner, unexplained morning high blood sugar (>180 mg/dL), sudden irritability before breakfast, and increased nighttime bathroom trips without thirst. These may point to overnight lows — especially when daily steps drop significantly.
 
-#### #### Can holiday hypoglycemia warning signs seniors experience lead to falls or confusion?
+#### Can holiday hypoglycemia warning signs seniors experience lead to falls or confusion?
 Yes — absolutely. Low blood sugar impairs balance, reaction time, and judgment. In older adults, even mild lows (60–70 mg/dL) can cause dizziness, blurred vision, or momentary disorientation — raising fall risk. Studies link unrecognized nocturnal hypoglycemia to a **2.3x higher risk of falls** in adults over 65.
 
-#### #### Is morning high blood sugar during the holidays a sign of too much insulin?
+#### Is morning high blood sugar during the holidays a sign of too much insulin?
 It can be — and often is. When basal insulin is too high overnight, glucose drops, triggering a surge of stress hormones that raise blood sugar by morning (the Somogyi effect). So yes — a high AM reading *can* be a *holiday hypoglycemia warning sign seniors* miss, especially if paired with night sweats or fatigue.
 
-#### #### How does reduced walking affect insulin needs during the holidays?
+#### How does reduced walking affect insulin needs during the holidays?
 A 40% step reduction (e.g., from 8,000 to under 5,000 steps/day) typically lowers insulin requirements by 10–20%. Muscle glucose uptake drops without movement — so unchanged basal doses become relatively excessive. That’s why adjusting *before* lows happen — not after — is key.
 
-#### #### Should I check my blood sugar more often during holiday travel or family visits?
+#### Should I check my blood sugar more often during holiday travel or family visits?
 Yes — especially if your routine changes: different meal times, new foods, less walking, or disrupted sleep. Adding a 2 a.m. check for three nights, or using a CGM’s trend arrows, helps catch silent lows early. Consistency matters more than frequency — aim for at least one check before bed *and* one overnight if possible.

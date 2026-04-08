@@ -54,22 +54,22 @@ In summary, supporting aortic pulse wave velocity reduction is both achievable a
 
 ### FAQ
 
-#### #### Can I really measure aortic pulse wave velocity reduction at home without special equipment?
+#### Can I really measure aortic pulse wave velocity reduction at home without special equipment?
 
 Yes—using your smartphone’s microphone to capture pulse sounds (phonocardiography) and an oscillometric BP cuff to time pulse arrival, you can estimate changes in PWV over time. While not identical to clinical tonometry, studies confirm this method reliably tracks *trends*, especially when repeated under consistent conditions.
 
-#### #### How much aortic pulse wave velocity reduction is realistic in 14 days?
+#### How much aortic pulse wave velocity reduction is realistic in 14 days?
 
 Clinical trials report average reductions of 0.4–0.9 m/s over 2 weeks in older adults with ISH who combine daily walking, sodium moderation, and breathing exercises. Even 0.3 m/s improvement correlates with ~7% lower 10-year cardiovascular risk.
 
-#### #### Does aortic pulse wave velocity reduction lower my risk of heart disease?
+#### Does aortic pulse wave velocity reduction lower my risk of heart disease?
 
 Yes. Aortic PWV is an independent predictor of heart disease, stroke, and all-cause mortality. Each 1 m/s increase in PWV is associated with a 15% higher risk of cardiovascular events; conversely, sustained aortic pulse wave velocity reduction supports long-term vascular resilience.
 
-#### #### What’s the best time of day to check for aortic pulse wave velocity reduction?
+#### What’s the best time of day to check for aortic pulse wave velocity reduction?
 
 Evening is ideal—arterial stiffness tends to peak midday and decline in the late afternoon/early evening. Performing your walk and measurement protocol at the same time daily (e.g., 6:30–7:30 p.m.) improves consistency and reduces confounding variables like circadian variation or meal-related blood flow shifts.
 
-#### #### Is this safe if I have atrial fibrillation or other arrhythmias?
+#### Is this safe if I have atrial fibrillation or other arrhythmias?
 
 If you have an irregular heartbeat, phonocardiographic timing may be less reliable due to variable pulse wave generation. In such cases, focus on BP trends and walking tolerance—and discuss PWV tracking options with your cardiologist.

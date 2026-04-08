@@ -73,22 +73,22 @@ Understanding *when to check resting heart rate seniors* is one of the kindest t
 
 ### FAQ
 
-#### #### How often should seniors check resting heart rate at home?
+#### How often should seniors check resting heart rate at home?
 
 Most adults 58+ benefit from checking 2–3 times weekly—ideally at the same time and using the same method. Focus on consistency over frequency. For those with anxiety-related palpitations, tracking during the 12 science-backed windows (even just 2–3 per week) yields richer data than daily random checks.
 
-#### #### What’s the best time to check resting heart rate seniors with anxiety?
+#### What’s the best time to check resting heart rate seniors with anxiety?
 
 The most revealing moments are usually **first thing in the morning (pre-coffee)** and **15 minutes after slow breathing practice**, since both assess baseline autonomic balance. Also consider checking **90 minutes after meals**, as digestive stress can unmask vagal withdrawal that worsens perceived palpitations.
 
-#### #### Can resting heart rate predict AFib in older adults?
+#### Can resting heart rate predict AFib in older adults?
 
 Not alone—but persistent RHR variability (>20 bpm swing across the day), especially with delayed post-activity recovery or lack of nocturnal dip, correlates with increased risk of incident AFib over 3–5 years in cohort studies. It’s a supportive clue, not a diagnosis.
 
-#### #### Is a resting heart rate of 85 normal for a 62-year-old?
+#### Is a resting heart rate of 85 normal for a 62-year-old?
 
 Yes—many healthy seniors have RHR between 60–90 bpm. What matters more is *trend*: a steady rise from 70 to 85 over 6 months, or sudden jumps tied to specific triggers (like meals or stress), may deserve closer look.
 
-#### #### Does high blood pressure affect resting heart rate readings?
+#### Does high blood pressure affect resting heart rate readings?
 
 Yes—chronic elevated BP (especially systolic ≥140 mm Hg) can lead to higher RHR over time due to increased cardiac workload and reduced vagal modulation. That’s why tracking both *when to check resting heart rate seniors* and BP together gives a fuller picture of arterial and autonomic health.

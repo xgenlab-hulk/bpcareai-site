@@ -78,17 +78,17 @@ Extreme heat doesn’t have to derail your health goals. With thoughtful prepara
 
 ### FAQ
 
-#### #### What are the top signs of dehydration in seniors with diabetes during a heatwave?
+#### What are the top signs of dehydration in seniors with diabetes during a heatwave?
 Dehydration in older adults often presents subtly: dry mouth *without* thirst, decreased urine output (fewer than 4 voids/day), sudden confusion or irritability, dizziness on standing, or a rapid pulse. Because diabetes can blunt thirst signals and impair kidney concentrating ability, relying solely on thirst is unreliable—use urine color and daily weight as more objective markers.
 
-#### #### How does a heatwave affect diabetes management during heatwave over 66 specifically?
+#### How does a heatwave affect diabetes management during heatwave over 66 specifically?
 Heatwaves challenge older adults’ thermoregulation, kidney reserve, and medication metabolism simultaneously. For those over 66, this means faster fluid loss, delayed recognition of low blood pressure or high ketones, and greater susceptibility to complications like euglycemic DKA—especially while taking SGLT2 inhibitors. Proactive planning (e.g., temporary medication adjustment, indoor cooling plans) significantly lowers risk.
 
-#### #### Can SGLT2 inhibitors cause problems during hot weather for people over 66?
+#### Can SGLT2 inhibitors cause problems during hot weather for people over 66?
 Yes—SGLT2 inhibitors increase urinary glucose and water loss, compounding heat-induced dehydration. In older adults, this raises the risk of acute kidney injury, hypotension, falls, and euglycemic DKA. Clinical guidelines (e.g., ADA 2023 Standards of Care) recommend reviewing SGLT2 inhibitor use during heat advisories and considering temporary interruption in consultation with your provider.
 
-#### #### Do I need to store insulin differently during summer?
+#### Do I need to store insulin differently during summer?
 Yes. Never leave insulin in a parked car—even for 10 minutes. At 95°F, insulin can begin to degrade within 30 minutes. Use insulated bags with cool packs when transporting, and keep home supplies in the main compartment of the refrigerator (not the door, where temps fluctuate). Discard any insulin exposed to temperatures >86°F for extended periods or showing visible changes.
 
-#### #### What’s the safest way to stay cool if I have diabetes and live alone?
+#### What’s the safest way to stay cool if I have diabetes and live alone?
 Prioritize passive cooling: close blinds during peak sun, use fans *with* evaporative cooling (a bowl of ice in front of a fan), and take cool (not cold) showers. Avoid alcohol and caffeine, which worsen dehydration. Set up a daily wellness check-in—whether via phone, video call, or neighbor visit—and keep emergency contact info visible. Many local Area Agencies on Aging offer heat-alert programs for older adults living independently.

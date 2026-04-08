@@ -58,22 +58,22 @@ Holiday time is about warmth, tradition, and being together—not stress or rest
 
 ### FAQ
 
-#### #### What holiday foods cause blood pressure spikes in seniors?
+#### What holiday foods cause blood pressure spikes in seniors?
 
 Common culprits include glazed ham (high sodium + sugar), spiced cider (added sugars + cinnamon compounds), stuffing (sodium + refined carbs), and eggnog (saturated fat + sugar). These can disrupt nocturnal dipping—especially in adults 70+ with non-dipping patterns.
 
-#### #### Are there healthy holiday eating for seniors tips that really work?
+#### Are there healthy holiday eating for seniors tips that really work?
 
 Yes—focus on whole foods, limit added salt and sugar, prioritize potassium-rich vegetables (like spinach and sweet potatoes), and space meals earlier in the day. Even small changes—like swapping canned soups for homemade broth-based versions—can support steadier nighttime BP.
 
-#### #### Can holiday foods blood pressure spikes seniors even if they’re on medication?
+#### Can holiday foods blood pressure spikes seniors even if they’re on medication?
 
 Yes. Some medications (like NSAIDs or decongestants sometimes used for colds during travel season) can blunt BP-lowering effects—or interact with antihypertensives. Also, dietary triggers may override medication benefits temporarily, especially overnight. Consistent monitoring helps spot these patterns.
 
-#### #### Why does blood pressure rise at night during the holidays?
+#### Why does blood pressure rise at night during the holidays?
 
 Nighttime rises often reflect delayed digestion, fluid retention from salty/sugary meals, alcohol-induced sympathetic activation, or disrupted sleep architecture—all more common in aging physiology. The combination is what makes holiday foods blood pressure spikes seniors especially relevant.
 
-#### #### Is non-dipping hypertension dangerous?
+#### Is non-dipping hypertension dangerous?
 
 It’s associated with increased cardiovascular risk—studies link it to up to 2× higher odds of stroke and heart failure over 5–10 years. But it’s manageable with lifestyle support and, when needed, tailored treatment. Early awareness is your greatest advantage.

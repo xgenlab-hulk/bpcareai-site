@@ -65,17 +65,17 @@ In short, choosing sweets thoughtfully isn’t about perfection—it’s about h
 
 ### FAQ
 
-#### #### Are sugar-free desserts safe for seniors with high blood pressure?  
+#### Are sugar-free desserts safe for seniors with high blood pressure?  
 Yes—*if* they avoid high-fermentable sweeteners like maltitol or large doses of erythritol. Some sugar-free desserts gut health seniors benefit from contain monk fruit and acacia fiber, which support stable blood pressure indirectly via reduced inflammation and improved endothelial function.
 
-#### #### Do sugar-free desserts gut health seniors affect digestion differently than in younger adults?  
+#### Do sugar-free desserts gut health seniors affect digestion differently than in younger adults?  
 Yes. Starting around age 60, gut transit slows, microbial diversity declines, and the mucosal barrier becomes more sensitive. This makes seniors more likely to experience subtle shifts in butyrate and immune signaling—even without classic GI symptoms—after consuming erythritol-heavy products.
 
-#### #### What’s the best sugar substitute for seniors with metabolic syndrome?  
+#### What’s the best sugar substitute for seniors with metabolic syndrome?  
 Monk fruit extract combined with acacia fiber is currently the best-studied low-fermentable option. Unlike erythritol, it doesn’t disrupt butyrate production and may even enhance microbial resilience over time.
 
-#### #### Can sugar-free desserts cause high blood pressure?  
+#### Can sugar-free desserts cause high blood pressure?  
 Not directly—but repeated disruptions to gut-derived butyrate and chronic low-grade inflammation *are* associated with stiffer arteries and harder-to-control BP. Think of it as cumulative support, not a single-cause trigger.
 
-#### #### Is stevia safe for seniors with digestive issues?  
+#### Is stevia safe for seniors with digestive issues?  
 Pure stevia leaf extract (rebaudioside A) is generally well-tolerated, though some commercial blends include erythritol or inulin. Always check the ingredient list—look for “erythritol-free” and “inulin-free” labels when gut sensitivity is a concern.

@@ -58,17 +58,17 @@ In short, winter doesn’t have to mean higher numbers or heavier moods. With sm
 
 ### FAQ
 
-#### #### Can winter depression and hypertension happen together in older adults?
+#### Can winter depression and hypertension happen together in older adults?
 Yes—they often do. Reduced sunlight affects neurotransmitters and hormones involved in both mood regulation and blood vessel tone, making co-occurrence common, especially in adults over 60.
 
-#### #### Does seasonal depression cause high blood pressure?
+#### Does seasonal depression cause high blood pressure?
 Seasonal depression itself doesn’t directly “cause” hypertension, but it can contribute to physiological changes—like increased stress hormones and reduced physical activity—that raise arterial pressure over time.
 
-#### #### How can seniors manage winter depression and hypertension naturally?
+#### How can seniors manage winter depression and hypertension naturally?
 Prioritize light exposure, regular gentle movement, balanced nutrition (low sodium, high potassium), consistent sleep, and social connection. These lifestyle habits support both emotional wellness and cardiovascular stability.
 
-#### #### Is blood pressure usually higher in winter for seniors?
+#### Is blood pressure usually higher in winter for seniors?
 Yes—studies show average systolic BP rises by 2–5 mm Hg in winter compared to summer among older adults, with larger increases in those experiencing low mood or limited activity.
 
-#### #### What’s a healthy blood pressure target for adults over 65?
+#### What’s a healthy blood pressure target for adults over 65?
 For most older adults, a target of under 135/85 mm Hg at home (or 140/90 mm Hg in clinical settings) is recommended—but goals should be personalized based on overall health and mobility.

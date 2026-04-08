@@ -53,17 +53,17 @@ Your body is still responsive—even as it changes with age. Small, intentional 
 
 ### FAQ  
 
-#### #### What’s a normal pulse pressure for seniors over 70?  
+#### What’s a normal pulse pressure for seniors over 70?  
 A healthy pulse pressure for adults 70+ typically ranges from 40–60 mm Hg. Consistently >70 mm Hg—especially in the morning—warrants discussion with your care team, particularly if paired with dizziness or known aortic stiffness.
 
-#### #### Can lowering morning pulse pressure elderly adults reduce heart disease risk?  
+#### Can lowering morning pulse pressure elderly adults reduce heart disease risk?  
 Yes—studies link sustained reductions in pulse pressure to slower progression of left ventricular hypertrophy and lower incidence of heart failure. Even modest decreases (5–10 mm Hg) over time contribute meaningfully to cardiovascular resilience.
 
-#### #### Are there natural ways to lower morning pulse pressure elderly people can try without meds?  
+#### Are there natural ways to lower morning pulse pressure elderly people can try without meds?  
 Absolutely. As shown in geriatric trials, pre-awakening isometrics, timed hydration, and mindful posture transitions are safe, accessible tactics proven to lower morning pulse pressure elderly adults can integrate without adding medication.
 
-#### #### Why does pulse pressure widen in the morning?  
+#### Why does pulse pressure widen in the morning?  
 Circadian-driven surges in cortisol and norepinephrine increase arterial stiffness and cardiac output upon waking—especially in those with pre-existing aortic rigidity. This naturally elevates systolic pressure while diastolic may remain low, widening the gap.
 
-#### #### Does coffee raise morning pulse pressure?  
+#### Does coffee raise morning pulse pressure?  
 It can—especially if consumed within 30 minutes of rising. Caffeine may blunt baroreflex sensitivity temporarily, worsening orthostatic responses. Try delaying your first cup until 90 minutes after waking, and monitor how your readings respond.

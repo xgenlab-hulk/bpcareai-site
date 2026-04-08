@@ -84,22 +84,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Can resistance training left ventricular hypertrophy be reversed without aerobic exercise?
+#### Can resistance training left ventricular hypertrophy be reversed without aerobic exercise?
 
 Yes—evidence from six RCTs shows that progressive, low-load resistance training alone (without aerobic conditioning) led to modest but statistically significant reductions in left ventricular mass index (average −4.2%) in sedentary men aged 60–72 with controlled hypertension. Improvements were comparable to those seen in aerobic-only groups, suggesting resistance training left ventricular hypertrophy protocols can be effective independently.
 
-#### #### Is resistance training left ventricular hypertrophy safe for people with high blood pressure?
+#### Is resistance training left ventricular hypertrophy safe for people with high blood pressure?
 
 When properly prescribed—using low loads (30–50% 1-RM), slow tempos, and breath-aware technique—resistance training is safe and beneficial for most adults with controlled hypertension. Studies reported no serious adverse cardiac events. However, those with uncontrolled BP (>160/100 mm Hg), recent heart attack, or unstable angina should consult a cardiologist before starting.
 
-#### #### How much resistance training is needed to see changes in LVH?
+#### How much resistance training is needed to see changes in LVH?
 
 In clinical trials, participants trained 2–3 times per week for 12–24 weeks. Each session lasted ~45 minutes and included 8–10 exercises targeting major muscle groups. Significant LVMI reductions emerged after ~16 weeks of consistent training—highlighting the importance of patience and continuity.
 
-#### #### Does lifting weights make LVH worse?
+#### Does lifting weights make LVH worse?
 
 No—not when using evidence-based, low-load protocols. Heavy lifting (≥80% 1-RM) or improper breathing *can* cause acute BP spikes, but the resistance training left ventricular hypertrophy interventions studied used controlled, moderate efforts that reduced afterload over time—supporting rather than straining the heart.
 
-#### #### What’s the difference between LVH caused by exercise vs. hypertension?
+#### What’s the difference between LVH caused by exercise vs. hypertension?
 
 Athlete’s heart (physiological LVH) features balanced growth—increased chamber volume *and* wall thickness—with normal diastolic function and regression upon detraining. Hypertensive LVH is *concentric*: walls thicken without chamber enlargement, impairing relaxation and filling. Imaging helps distinguish the two—and guides appropriate management.

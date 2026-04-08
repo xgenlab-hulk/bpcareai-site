@@ -45,22 +45,22 @@ In short, the diabetic-friendly candy truth isn’t meant to discourage — it�
 
 ### FAQ
 
-#### #### Are all “diabetic-friendly” candies unsafe for seniors?
+#### Are all “diabetic-friendly” candies unsafe for seniors?
 
 Not inherently — but many rely on ingredients (like maltitol or high-fructose syrups) that behave unpredictably in older adults, especially those on basal insulin. Always check labels and monitor your own response.
 
-#### #### What does the diabetic-friendly candy truth say about sugar-free gum?
+#### What does the diabetic-friendly candy truth say about sugar-free gum?
 
 Most sugar-free gums use xylitol or sorbitol — which have minimal impact on glucose and rarely cause reactive lows. Still, very large amounts (more than 10 pieces/day) may cause digestive discomfort.
 
-#### #### Where can I find reliable info about the diabetic-friendly candy truth?
+#### Where can I find reliable info about the diabetic-friendly candy truth?
 
 Start with your certified diabetes care and education specialist (CDCES) or endocrinologist. Reputable sources include the American Diabetes Association (diabetes.org) and National Institute on Aging (nia.nih.gov).
 
-#### #### Do “low-glycemic” holiday candies prevent hypoglycemia?
+#### Do “low-glycemic” holiday candies prevent hypoglycemia?
 
 Not necessarily. Glycemic index measures *how fast* glucose rises — not whether a delayed drop follows. Reactive hypoglycemia depends more on insulin kinetics and individual metabolism than GI alone.
 
-#### #### Is reactive hypoglycemia dangerous for older adults?
+#### Is reactive hypoglycemia dangerous for older adults?
 
 It can be — especially if it leads to falls, confusion, or driving impairment. Repeated episodes may also affect quality of life and confidence in managing food choices. Early recognition and simple pattern-tracking make a meaningful difference.

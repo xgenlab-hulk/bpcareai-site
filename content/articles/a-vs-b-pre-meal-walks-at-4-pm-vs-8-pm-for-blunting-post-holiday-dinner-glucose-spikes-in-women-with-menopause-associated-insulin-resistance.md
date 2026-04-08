@@ -68,22 +68,22 @@ If you’re unsure, talking to your doctor is always a good idea. And remember: 
 
 ### FAQ
 
-#### #### Does walking before dinner really lower blood sugar for women over 50?
+#### Does walking before dinner really lower blood sugar for women over 50?
 
 Yes—especially when timed intentionally. Studies show that a 20-minute moderate walk 90–120 minutes before a meal reduces postprandial glucose spikes by up to 22% in postmenopausal women, largely by improving muscle glucose uptake and supporting healthier adiponectin levels.
 
-#### #### What’s the best time to walk before dinner to manage postprandial glucose?
+#### What’s the best time to walk before dinner to manage postprandial glucose?
 
 For most women after menopause, walking between 3:30 and 4:30 PM—roughly 90 minutes before a typical 6 PM dinner—is associated with the greatest blunting of postprandial glucose spikes. This window allows enough time for metabolic priming without interfering with evening wind-down.
 
-#### #### How does pre-meal walk timing postprandial glucose women affect insulin resistance?
+#### How does pre-meal walk timing postprandial glucose women affect insulin resistance?
 
 Earlier pre-dinner walks (e.g., at 4 PM vs. 8 PM) enhance insulin sensitivity more effectively by increasing adiponectin, reducing hepatic glucose output, and improving skeletal muscle glucose disposal. These effects are especially valuable during menopause, when natural estrogen-related insulin support declines.
 
-#### #### Can I still benefit from a pre-meal walk if I eat dinner late—like at 8 or 9 PM?
+#### Can I still benefit from a pre-meal walk if I eat dinner late—like at 8 or 9 PM?
 
 Absolutely. Even with a later dinner, aim to walk 90 minutes beforehand—so at 6:30 or 7 PM. The principle remains the same: give your body time to activate glucose-clearing pathways *before* food arrives. Consistency matters more than perfection.
 
-#### #### Is postprandial glucose monitoring necessary for holiday diabetes management?
+#### Is postprandial glucose monitoring necessary for holiday diabetes management?
 
 Not for everyone—but it’s highly informative if you have prediabetes, a family history of type 2 diabetes, or symptoms like fatigue or brain fog after meals. Pairing simple checks with mindful timing of activity makes holiday diabetes management more proactive and less reactive.

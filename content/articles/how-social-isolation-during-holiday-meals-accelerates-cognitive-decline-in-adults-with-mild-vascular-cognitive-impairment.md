@@ -66,22 +66,22 @@ In short, holiday meals are more than nourishment—they’re neurovascular even
 
 ### FAQ
 
-#### #### Does holiday isolation vascular cognitive decline affect people without dementia?
+#### Does holiday isolation vascular cognitive decline affect people without dementia?
 
 Yes. Research shows adults with *mild* vascular cognitive impairment—often undiagnosed—experience measurable white matter changes during socially isolated holidays, even without full dementia. Early detection and support make a meaningful difference.
 
-#### #### Can healthy holiday eating for seniors really offset the effects of holiday isolation vascular cognitive decline?
+#### Can healthy holiday eating for seniors really offset the effects of holiday isolation vascular cognitive decline?
 
 Healthy holiday eating for seniors supports vascular health—but alone, it cannot fully compensate for the loss of social-cognitive stimulation. Combining nutrient-dense meals *with* consistent social interaction yields the strongest protective effect on white matter integrity.
 
-#### #### What blood pressure numbers should I watch closely during the holidays to prevent holiday isolation vascular cognitive decline?
+#### What blood pressure numbers should I watch closely during the holidays to prevent holiday isolation vascular cognitive decline?
 
 Pay attention to post-meal BP spikes: readings above 140/90 mm Hg within 60 minutes of eating—especially during solitary meals—signal heightened cerebrovascular stress. Consistent morning BP >135/85 mm Hg also warrants discussion with your clinician.
 
-#### #### How does chewing food relate to brain health in older adults?
+#### How does chewing food relate to brain health in older adults?
 
 Chewing stimulates the trigeminal nerve, increasing cerebral blood flow to memory-related areas. In adults with vascular risk factors, reduced chewing frequency is linked to faster progression of white matter hyperintensities—visible on MRI.
 
-#### #### Are video calls during meals as beneficial as in-person ones for brain health?
+#### Are video calls during meals as beneficial as in-person ones for brain health?
 
 Yes—studies using fNIRS confirm that synchronous video meals produce nearly 90% of the prefrontal activation seen in face-to-face settings. The key is shared timing and mutual engagement—not physical proximity.

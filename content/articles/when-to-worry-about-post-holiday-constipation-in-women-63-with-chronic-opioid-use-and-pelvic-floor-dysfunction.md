@@ -87,22 +87,22 @@ Constipation after the holidays isn’t a sign that your body is failing—it’
 
 ### FAQ
 
-#### #### What are the red-flag symptoms of post-holiday constipation seniors opioids?
+#### What are the red-flag symptoms of post-holiday constipation seniors opioids?
 
 Red flags include new urinary retention (inability to urinate or feeling full afterward), dizziness or lightheadedness with standing, sudden high blood pressure (especially if accompanied by sweating or headache), rectal bleeding, or abdominal pain that worsens over 24 hours. These warrant same-day contact with your provider—not because danger is certain, but because gentle intervention helps prevent escalation.
 
-#### #### How long is too long to wait for a bowel movement after the holidays if I’m on opioids?
+#### How long is too long to wait for a bowel movement after the holidays if I’m on opioids?
 
 For most women over 63 on chronic opioids, going more than 5 days without a bowel movement—especially with bloating, pressure, or urinary changes—is a cue to adjust support or consult your care team. Remember: it’s less about the calendar and more about how you *feel* compared to your usual rhythm.
 
-#### #### Can healthy holiday eating for seniors help prevent post-holiday constipation seniors opioids?
+#### Can healthy holiday eating for seniors help prevent post-holiday constipation seniors opioids?
 
 Yes—absolutely. Prioritizing warm, fiber-rich foods (like roasted squash, lentil soup, or oatmeal with berries), staying hydrated between festive meals, and including light movement (even stretching while watching TV) supports smoother transitions. Healthy holiday eating for seniors isn’t about restriction—it’s about choosing foods and habits that honor your body’s current needs.
 
-#### #### Is pelvic floor physical therapy helpful for constipation linked to opioid use?
+#### Is pelvic floor physical therapy helpful for constipation linked to opioid use?
 
 Very much so. A trained pelvic floor therapist can teach coordinated breathing, manual techniques to relax hypertonic muscles, and biofeedback to improve bowel evacuation timing—often reducing reliance on medications. Many insurance plans cover this service with a referral.
 
-#### #### Why does constipation sometimes raise blood pressure in older adults?
+#### Why does constipation sometimes raise blood pressure in older adults?
 
 A large, impacted stool can trigger the autonomic nervous system—leading to reflexive vasoconstriction and heart rate changes. This is called *autonomic dysreflexia* and may show as a sudden BP spike (e.g., +25 mm Hg systolic) with flushing or sweating. It’s uncommon but worth recognizing—especially if you notice it happening alongside rectal fullness or urinary symptoms.

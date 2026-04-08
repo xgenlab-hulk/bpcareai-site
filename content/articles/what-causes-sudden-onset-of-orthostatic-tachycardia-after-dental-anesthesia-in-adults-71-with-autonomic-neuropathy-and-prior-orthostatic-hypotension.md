@@ -102,22 +102,22 @@ Experiencing orthostatic tachycardia after dental anesthesia seniors is more com
 
 ### FAQ
 
-#### #### What causes orthostatic tachycardia after dental anesthesia in seniors?
+#### What causes orthostatic tachycardia after dental anesthesia in seniors?
 
 Orthostatic tachycardia after dental anesthesia in seniors typically stems from a combination of epinephrine in local anesthetics, age-related decline in baroreflex sensitivity, and underlying autonomic neuropathy. These factors disrupt the body’s ability to regulate heart rate and blood pressure smoothly during position changes—especially when standing after lying down in the dental chair.
 
-#### #### Is orthostatic tachycardia after dental anesthesia seniors dangerous?
+#### Is orthostatic tachycardia after dental anesthesia seniors dangerous?
 
 In most cases, it’s not immediately life-threatening—but it *is* a red flag. Frequent or severe episodes suggest autonomic dysregulation that may also affect other systems (like digestion or bladder control). Over time, untreated orthostatic tachycardia can contribute to falls, reduced activity tolerance, and increased cardiovascular strain. Early recognition helps guide safer care planning.
 
-#### #### Can orthostatic tachycardia after dental anesthesia seniors be prevented?
+#### Can orthostatic tachycardia after dental anesthesia seniors be prevented?
 
 Yes—often effectively. Prevention includes using epinephrine-free anesthetics when appropriate, optimizing hydration and electrolyte balance before the visit, allowing ample time for post-procedure recovery in a seated position, and coordinating care between your dentist and physician—especially if you have known autonomic neuropathy or orthostatic hypotension.
 
-#### #### How is orthostatic tachycardia different from orthostatic hypotension?
+#### How is orthostatic tachycardia different from orthostatic hypotension?
 
 Orthostatic hypotension refers to a *drop* in blood pressure upon standing (typically ≥20 mm Hg systolic or ≥10 mm Hg diastolic), often accompanied by dizziness. Orthostatic tachycardia refers to an *excessive rise* in heart rate (≥30 bpm in adults, or ≥20 bpm in those 70+) without a proportional BP rise—and sometimes despite stable or even elevated BP. They can occur separately or together, particularly in autonomic disorders.
 
-#### #### Does anxiety cause orthostatic tachycardia after dental procedures?
+#### Does anxiety cause orthostatic tachycardia after dental procedures?
 
 Anxiety can elevate heart rate—but true orthostatic tachycardia is *posturally triggered* and persists even after calming techniques are applied. If your heart races only when standing (not while sitting or lying), and especially if it’s reproducible across multiple visits, it’s more likely related to autonomic physiology than anxiety alone. Still, stress management remains an important supportive strategy.

@@ -63,22 +63,22 @@ In summary, the gut microbiome isn’t just about digestion—it’s a dynamic r
 
 ### FAQ
 
-#### #### Can gut microbiome testing predict heart failure before symptoms appear?
+#### Can gut microbiome testing predict heart failure before symptoms appear?
 
 Yes—studies show that low alpha diversity and specific microbial signatures (e.g., low *Akkermansia*, high TMA-lyase potential) at age 60 predict incident heart failure within 10 years with ~72% accuracy, independent of traditional risk scores like the AHA’s Life’s Essential 8.
 
-#### #### How does gut microbiome and heart failure prediction compare to standard cardiac risk tools?
+#### How does gut microbiome and heart failure prediction compare to standard cardiac risk tools?
 
 Gut-based biomarkers add *incremental predictive value*: When combined with clinical models (e.g., HFA-PEFF score), they improve risk reclassification by 18–22%, particularly for intermediate-risk individuals where standard tools fall short.
 
-#### #### Is there a connection between gut microbiome and heart disease in older adults?
+#### Is there a connection between gut microbiome and heart disease in older adults?
 
 Absolutely. At age 60+, declining microbial diversity correlates strongly with arterial stiffness, diastolic dysfunction, and NT-proBNP elevation—early signs of heart disease progression. This makes the gut microbiome and heart disease relationship especially relevant for prevention in the 50+ population.
 
-#### #### Do probiotics help reduce heart failure risk?
+#### Do probiotics help reduce heart failure risk?
 
 Most general probiotics show minimal impact on *Akkermansia* or butyrate. However, next-generation formulations containing *A. muciniphila* (pasteurized) and butyrate-producing consortia are under active investigation in Phase II trials for heart failure prevention.
 
-#### #### What blood tests complement gut microbiome analysis for heart health?
+#### What blood tests complement gut microbiome analysis for heart health?
 
 NT-proBNP, high-sensitivity CRP, fasting TMAO, and HbA1c provide complementary insights. Pairing these with stool-based functional metagenomics offers the most complete picture of gut-heart axis status.

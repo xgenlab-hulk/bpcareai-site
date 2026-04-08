@@ -81,17 +81,17 @@ Monitoring your heart health during the holidays isn’t about perfection. It’
 
 ### FAQ
 
-#### #### How can I monitor heart health holidays without buying new equipment?  
+#### How can I monitor heart health holidays without buying new equipment?  
 You can start with free, no-cost methods: checking your radial pulse with two fingers, tracking symptoms in a notebook or phone notes app, and using free BP kiosks at many pharmacies (just avoid checking within 30 minutes of caffeine, exercise, or a large meal). Many community centers and senior clinics also offer free blood pressure checks during December.
 
-#### #### What are the best signs to watch for when I monitor heart health holidays?  
+#### What are the best signs to watch for when I monitor heart health holidays?  
 Look for subtle but consistent changes—not just dramatic symptoms. Key signs include: unexplained fatigue after light activity, needing to stop and catch your breath while doing familiar tasks (like carrying dishes), a fluttering or racing feeling in your chest that lasts more than 20–30 seconds, or swelling in your ankles that doesn’t go down by morning. These are gentle cues—not emergencies—but worth sharing with your care team.
 
-#### #### Can holiday heart syndrome happen even if I don’t drink alcohol?  
+#### Can holiday heart syndrome happen even if I don’t drink alcohol?  
 Yes. While alcohol is a common trigger, “holiday heart syndrome” can also result from high sodium intake, sleep deprivation, dehydration, intense emotional stress, or sudden changes in physical activity. People who abstain from alcohol but eat heavily salted appetizers, skip medications due to travel, or lose sleep hosting guests are still at risk.
 
-#### #### Is it normal for my blood pressure to go up during the holidays?  
+#### Is it normal for my blood pressure to go up during the holidays?  
 A small, temporary rise (5–10 mm Hg) is common—and usually harmless—due to excitement, rich food, or less movement. However, if your systolic BP rises *consistently* above 140 mm Hg (or 130 mm Hg with other risk factors), or your diastolic stays above 90 mm Hg, it’s worth discussing with your provider. These patterns are often very responsive to simple lifestyle adjustments.
 
-#### #### How often should I check my pulse during the holidays?  
+#### How often should I check my pulse during the holidays?  
 Once daily is plenty—ideally at the same time each day (e.g., first thing in the morning, before coffee). If you’re noticing symptoms like palpitations or dizziness, check again during or right after the episode. No need to obsess over every beat—focus instead on consistency, rhythm, and how you feel alongside the number.

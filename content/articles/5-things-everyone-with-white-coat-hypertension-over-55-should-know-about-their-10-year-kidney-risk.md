@@ -86,22 +86,22 @@ Understanding white coat hypertension kidney risk over 55 isn’t about adding w
 
 ### FAQ
 
-#### #### Does white coat hypertension kidney risk over 55 mean I’ll definitely get kidney disease?
+#### Does white coat hypertension kidney risk over 55 mean I’ll definitely get kidney disease?
 
 No—it means your risk is *elevated compared to peers with consistently normal BP*, not inevitable. Studies estimate 10-year CKD incidence in this group ranges from 8–15%, depending on other risk factors. Early detection and management can significantly lower that trajectory.
 
-#### #### Is white coat hypertension kidney risk over 55 different from regular high blood pressure?
+#### Is white coat hypertension kidney risk over 55 different from regular high blood pressure?
 
 Yes—in origin and pattern. Regular (sustained) hypertension involves elevated BP both in and out of the clinic. White coat hypertension shows elevation only in clinical settings—but often hides nocturnal or early-morning BP abnormalities that affect the kidneys differently. The key distinction is *timing and context*, not severity alone.
 
-#### #### Can lifestyle changes really lower my white coat hypertension kidney risk over 55?
+#### Can lifestyle changes really lower my white coat hypertension kidney risk over 55?
 
 Yes—strong evidence supports this. A 2023 meta-analysis in *Nephrology Dialysis Transplantation* found that combining salt restriction, aerobic activity, and improved sleep reduced progression to albuminuria by 37% over 5 years in adults over 55 with white coat hypertension.
 
-#### #### What’s the best blood pressure monitor for detecting nocturnal patterns?
+#### What’s the best blood pressure monitor for detecting nocturnal patterns?
 
 Clinically validated upper-arm oscillometric devices with memory storage (≥100 readings) and optional nighttime mode are recommended. Wrist monitors are generally *not* reliable for nocturnal tracking due to positioning artifacts. Ask your provider for a list of models approved by the American Medical Association (AMA) or European Society of Hypertension (ESH).
 
-#### #### Do ACE inhibitors protect kidneys even if my daytime BP is normal?
+#### Do ACE inhibitors protect kidneys even if my daytime BP is normal?
 
 They *can*, but only if there’s evidence of ongoing kidney stress—like persistent albuminuria or non-dipping BP. These medications reduce intraglomerular pressure regardless of systemic BP levels. However, they’re not used preventively in absence of biomarker changes. Your doctor will weigh benefits against risks (e.g., hyperkalemia, dizziness) based on your full profile.

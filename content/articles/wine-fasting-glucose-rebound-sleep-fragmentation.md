@@ -75,22 +75,22 @@ It’s easy to feel overwhelmed by all the ways aging, metabolism, and sleep int
 
 ### FAQ
 
-#### #### Does red wine cause fasting glucose rebound even in people without diabetes?
+#### Does red wine cause fasting glucose rebound even in people without diabetes?
 
 Yes—especially in adults over 59 with prediabetes. Alcohol interferes with normal hepatic glucose regulation regardless of diabetes status, but the rebound effect is more pronounced when insulin sensitivity is already reduced. Studies show measurable increases in fasting glucose (often 15–25 mg/dL) after 1–2 glasses, even in those with HbA1c under 5.7%.
 
-#### #### Can wine fasting glucose rebound sleep fragmentation happen with just one glass?
+#### Can wine fasting glucose rebound sleep fragmentation happen with just one glass?
 
 It can—particularly in adults aged 59–73. Due to age-related declines in alcohol metabolism and liver resilience, even a single 5-oz glass of red wine consumed within 3 hours of bedtime has been linked in polysomnography-CGM studies to reduced REM cycling and elevated next-morning glucose in about 60% of participants with prediabetes and baseline sleep fragmentation.
 
-#### #### How long does wine fasting glucose rebound sleep fragmentation last?
+#### How long does wine fasting glucose rebound sleep fragmentation last?
 
 The acute effects—elevated fasting glucose and disrupted REM—are typically limited to the night of consumption and the following morning. However, repeated weekly occurrences may contribute to longer-term insulin resistance and cumulative sleep debt. Most people return to baseline glucose and sleep architecture within 48 hours of abstaining.
 
-#### #### Is non-alcoholic red wine a safe alternative for managing wine fasting glucose rebound sleep fragmentation?
+#### Is non-alcoholic red wine a safe alternative for managing wine fasting glucose rebound sleep fragmentation?
 
 Generally, yes—provided it’s truly <0.5% alcohol and low in added sugars. Non-alcoholic versions avoid the hepatic and neurochemical disruptions caused by ethanol, making them a supportive option for those wishing to preserve ritual without metabolic or sleep trade-offs.
 
-#### #### Does timing matter more than quantity for wine fasting glucose rebound?
+#### Does timing matter more than quantity for wine fasting glucose rebound?
 
 Yes—timing is often the stronger predictor. Consuming wine earlier in the evening (before 7 p.m.) allows more time for alcohol clearance before the liver’s natural glucose surge begins around 3–4 a.m. Quantity still matters, but shifting *when* you drink can reduce rebound risk more than cutting from two glasses to one—especially for adults over 60.

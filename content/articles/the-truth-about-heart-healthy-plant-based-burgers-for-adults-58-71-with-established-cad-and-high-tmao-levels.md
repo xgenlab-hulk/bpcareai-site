@@ -50,22 +50,22 @@ In short, plant-based burgers aren’t off-limits—but they’re not neutral ei
 
 ### FAQ
 
-#### #### Do plant-based burgers raise TMAO levels in people with heart disease?
+#### Do plant-based burgers raise TMAO levels in people with heart disease?
 
 Yes—some do, especially those containing added choline (e.g., yeast extract, soy lecithin) or cooked at high temperatures. In adults with established CAD and baseline TMAO >4.5 µmol/L, certain plant-based burgers may elevate TMAO by 15–30% within 24 hours—similar to a modest portion of lean beef.
 
-#### #### Are plant-based burgers tmao heart disease safe for seniors on statins?
+#### Are plant-based burgers tmao heart disease safe for seniors on statins?
 
 They *can be*, but only if low in choline additives and sodium, and prepared gently (steamed or baked). Statins don’t block TMAO production—so dietary triggers still matter. Always pair with high-fiber sides (e.g., steamed broccoli, barley) to support healthy gut flora.
 
-#### #### What’s the best alternative to plant-based burgers for someone with high TMAO?
+#### What’s the best alternative to plant-based burgers for someone with high TMAO?
 
 Whole legume patties made from soaked, cooked beans or lentils (no extracts or isolates), seasoned with herbs and spices, and cooked at low-to-medium heat. One study found daily ½-cup servings of whole legumes reduced TMAO by 18% over 12 weeks in adults 60+ with CAD.
 
-#### #### Can I eat plant-based burgers if my doctor says my endothelial function is impaired?
+#### Can I eat plant-based burgers if my doctor says my endothelial function is impaired?
 
 Proceed with caution—and testing. Start with a small portion (½ patty), paired with leafy greens and olive oil. Monitor symptoms and BP. If FMD improves or stays stable over 3–4 weeks, it may be tolerable. If not, switch to whole-food alternatives.
 
-#### #### Does cooking method affect TMAO production from plant-based burgers?
+#### Does cooking method affect TMAO production from plant-based burgers?
 
 Yes. Grilling or frying above 375°F increases AGEs and oxidized lipids, which amplify postprandial inflammation and indirectly stimulate TMAO-generating microbes. Baking, steaming, or air-frying at ≤325°F is significantly gentler on vascular function.

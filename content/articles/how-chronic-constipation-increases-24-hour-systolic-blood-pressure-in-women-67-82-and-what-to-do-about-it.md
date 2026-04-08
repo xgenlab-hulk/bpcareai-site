@@ -97,22 +97,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does constipation cause high blood pressure in older women?
+#### Does constipation cause high blood pressure in older women?
 
 Yes—particularly chronic constipation. In women aged 67–82, repeated straining, vagal imbalance, and gut-driven RAAS activation can elevate 24-hour systolic BP by 10–20 mm Hg, with pronounced effects overnight and in the early morning.
 
-#### #### Is constipation and high blood pressure women linked to heart disease risk?
+#### Is constipation and high blood pressure women linked to heart disease risk?
 
 Absolutely. Non-dipping BP patterns (common with constipation) are associated with a 2–3× higher risk of stroke and left ventricular hypertrophy in older women. Managing both together supports long-term cardiovascular resilience.
 
-#### #### Can treating constipation lower blood pressure in women over 70?
+#### Can treating constipation lower blood pressure in women over 70?
 
 Evidence suggests yes—especially when treatment includes dietary fiber, timed movement, and vagal-supportive habits. One pilot trial showed a 7 mm Hg average reduction in nocturnal systolic BP after 8 weeks of guided bowel habit retraining.
 
-#### #### What’s the best time of day to check blood pressure if I have constipation?
+#### What’s the best time of day to check blood pressure if I have constipation?
 
 Check first thing in the morning (before coffee or food), again in the mid-afternoon, and once before bed—ideally using the same arm and posture each time. If possible, pair this with a 24-hour ABPM to capture nighttime trends.
 
-#### #### Are laxatives safe for women with high blood pressure?
+#### Are laxatives safe for women with high blood pressure?
 
 Most osmotic laxatives (e.g., polyethylene glycol) are BP-neutral and safe. Stimulant laxatives (e.g., senna) should be used short-term only—they may trigger electrolyte shifts or sympathetic activation. Always discuss options with your provider, especially if you take diuretics or ACE inhibitors.

@@ -1,0 +1,652 @@
+{
+  "batch_info": {
+    "batch_name": "Batch 12",
+    "article_range": "396-475",
+    "total_articles": 80,
+    "start_index": 395,
+    "end_index": 474,
+    "created_date": "2026-03-24"
+  },
+  "articles": [
+    {
+      "index": 395,
+      "article_number": 396,
+      "slug": "cold-hand-immersion-coronary-flow-reserve",
+      "title": "How Intermittent Cold-Water Hand Immersion (30-Second Bursts) Modulates Coronary Blood Flow Reserve in Adults 57–64 With Stable Angina and Normal Coronary Anatomy",
+      "description": "Presents emerging data on non-invasive, self-administered thermal modulation to improve microvascular perfusion — a novel adjunct for patients with INOCA (Ischemia with No Obstructive Coronary Artery disease).",
+      "primaryKeyword": "cold hand immersion coronary flow reserve"
+    },
+    {
+      "index": 396,
+      "article_number": 397,
+      "slug": "chest-pressure-memory-foam-couch",
+      "title": "What Causes Sudden Mid-Afternoon Chest Pressure *Only* When Sitting on Your Granddaughter’s Memory Foam Couch? — The Role of Pelvic Rotation, Diaphragmatic Restriction, and Inferior Vena Cava Compression in Adults 64+ With Diastolic Dysfunction",
+      "description": "Links a highly specific environmental trigger to mechanical impediments in venous return and ventricular filling — a non-ischemic yet symptomatic mechanism often misdiagnosed as anxiety.",
+      "primaryKeyword": "chest pressure memory foam couch"
+    },
+    {
+      "index": 397,
+      "article_number": 398,
+      "slug": "cardiac-amyloidosis-vs-hypertensive-heart-disease",
+      "title": "When to Suspect Cardiac Amyloidosis *Instead* of Hypertensive Heart Disease in Adults 77+ With Unexplained LVH and Normal Troponin — And Why ECG Voltage Criteria Lie in Obesity-Associated Diastolic Stiffness",
+      "description": "Provides a red-flag diagnostic framework for distinguishing infiltrative vs. pressure-overload cardiac remodeling in high-BMI older adults, emphasizing echocardiographic strain patterns and biomarker discordance.",
+      "primaryKeyword": "cardiac amyloidosis vs hypertensive heart disease"
+    },
+    {
+      "index": 398,
+      "article_number": 399,
+      "slug": "arterial-stiffness-reduction-without-nitrates",
+      "title": "Natural Ways to Support Arterial Stiffness Reduction *Without* Nitrate-Rich Greens — Using Cold-Pressed Pomegranate-Ginger Syrup and Diaphragmatic Breathing Cycles in Adults 67+ With Elevated Pulse Wave Velocity",
+      "description": "Offers alternatives for seniors with renal concerns or medication interactions, focusing on endothelial shear stress modulation and pulse wave reflection damping.",
+      "primaryKeyword": "arterial-stiffness-reduction-without-nitrates"
+    },
+    {
+      "index": 399,
+      "article_number": 400,
+      "slug": "a-vs-b-roasted-sweet-potatoes-vs-mashed-cauliflower-for-postprandial-glucose-stability-in-adults-63-with-prediabetes-and-mild-dysphagia",
+      "title": "A vs B: Roasted Sweet Potatoes vs. Mashed Cauliflower for Postprandial Glucose Stability in Adults 63+ With Prediabetes and Mild Dysphagia",
+      "description": "Compares glycemic index, chewing effort, gastric retention time, and micronutrient bioavailability between two popular holiday starch alternatives—tailored for early swallowing changes.",
+      "primaryKeyword": "roasted sweet potatoes vs mashed cauliflower seniors"
+    },
+    {
+      "index": 400,
+      "article_number": 401,
+      "slug": "7-silent-signs-your-blood-pressure-is-spiking-during-morning-commute-even-with-normal-clinic-readings-in-adults-58-66-with-white-coat-normotension",
+      "title": "7 Silent Signs Your Blood Pressure Is Spiking During Morning Commute — Even With Normal Clinic Readings in Adults 58–66 With White-Coat Normotension",
+      "description": "Explores situational hypertension triggers like traffic stress, seat vibration, and delayed caffeine withdrawal that evade office measurement — with home monitoring protocols for working-age adults.",
+      "primaryKeyword": "morning commute blood pressure spike"
+    },
+    {
+      "index": 401,
+      "article_number": 402,
+      "slug": "7-hidden-environmental-triggers-that-worsen-coronary-artery-calcification-in-adults-62-with-long-term-statin-use",
+      "title": "7 Hidden Environmental Triggers That Worsen Coronary Artery Calcification in Adults 62+ With Long-Term Statin Use",
+      "description": "Explores overlooked non-dietary, non-genetic factors — including indoor air particulate exposure, chronic low-level noise pollution, and seasonal humidity shifts — that accelerate vascular calcification despite medication adherence.",
+      "primaryKeyword": "coronary artery calcification triggers seniors"
+    },
+    {
+      "index": 402,
+      "article_number": 403,
+      "slug": "5-things-every-woman-over-68-should-know-about-central-aortic-pressure-especially-after-menopause-and-long-term-beta-blocker-use",
+      "title": "5 Things Every Woman Over 68 Should Know About Central Aortic Pressure — Especially After Menopause and Long-Term Beta-Blocker Use",
+      "description": "Explains why brachial cuff readings underestimate cardiac afterload in postmenopausal women, how beta-blockers mask central pressure elevation, and non-invasive assessment options.",
+      "primaryKeyword": "central-aortic-pressure-women-menopause"
+    },
+    {
+      "index": 403,
+      "article_number": 404,
+      "slug": "5-things-every-man-over-55-should-know-about-normal-morning-heart-rate-variability-especially-with-untreated-mild-sleep-disordered-breathing",
+      "title": "5 Things Every Man Over 55 Should Know About 'Normal' Morning Heart Rate Variability — Especially With Untreated Mild Sleep-Disordered Breathing",
+      "description": "Breaks down why HRV trends often mislead clinicians and patients alike when nocturnal respiratory events subtly impair cardiac autonomic recovery — even without apnea-hypopnea index elevation.",
+      "primaryKeyword": "morning heart rate variability men 55+"
+    },
+    {
+      "index": 404,
+      "article_number": 405,
+      "slug": "10-foods-that-stabilize-coronary-microvascular-reactivity-not-just-lower-cholesterol-for-adults-61-with-inoca-and-no-obstructive-disease",
+      "title": "10 Foods That *Stabilize* Coronary Microvascular Reactivity — Not Just Lower Cholesterol — For Adults 61+ With INOCA and No Obstructive Disease",
+      "description": "Highlights dietary compounds (e.g., epicatechin-rich cocoa, fermented soy isoflavones, low-temperature roasted walnuts) that improve endothelial-dependent and -independent vasodilation in microvessels.",
+      "primaryKeyword": "foods coronary microvascular reactivity"
+    },
+    {
+      "index": 405,
+      "article_number": 406,
+      "slug": "zinc-exposure-from-hearing-aids-and-insulin-resistance",
+      "title": "7 Silent Signs Your Hearing Aid Batteries Are Leaching Zinc Into Your Diet — And How That Alters Insulin Signaling in Adults 73+ With Long-Term Type 2 Diabetes",
+      "description": "Investigates unintended zinc exposure from worn hearing aid batteries, its impact on beta-cell zinc transporters and insulin crystallization, and safe handling protocols for older adults.",
+      "primaryKeyword": "zinc exposure from hearing aids and insulin resistance"
+    },
+    {
+      "index": 406,
+      "article_number": 407,
+      "slug": "warning-signs-your-holiday-appetizer-platter-is-causing-subclinical-hyponatremia-especially-with-diuretic-use-in-adults-77",
+      "title": "Warning Signs Your Holiday Appetizer Platter Is Causing Subclinical Hyponatremia — Especially With Diuretic Use in Adults 77+",
+      "description": "Details subtle behavioral, cognitive, and gait-based red flags of sodium dilution from high-water-content holiday foods (e.g., cucumber cups, watermelon skewers) in seniors on thiazides or loop diuretics.",
+      "primaryKeyword": "holiday appetizers hyponatremia warning signs seniors"
+    },
+    {
+      "index": 407,
+      "article_number": 408,
+      "slug": "transdermal-magnesium-sacubitril-valsartan",
+      "title": "Can You Safely Use Transdermal Magnesium Chloride While on Sacubitril/Valsartan? — Evidence on Myocardial Fibrosis Markers, NT-proBNP Trajectories, and Diuretic Synergy in Adults 68+ With HFrEF",
+      "description": "Evaluates safety, pharmacokinetic interactions, and functional outcomes of topical magnesium in advanced heart failure — where oral absorption and renal clearance are compromised.",
+      "primaryKeyword": "health management adults 68+"
+    },
+    {
+      "index": 408,
+      "article_number": 409,
+      "slug": "the-truth-about-sugar-free-holiday-punch-for-adults-73-with-chronic-kidney-disease-why-erythritol-isn-t-always-safer-than-sucrose",
+      "title": "The Truth About 'Sugar-Free' Holiday Punch for Adults 73+ With Chronic Kidney Disease — Why Erythritol Isn’t Always Safer Than Sucrose",
+      "description": "Analyzes osmotic load, renal excretion kinetics, and gut microbiome shifts triggered by sugar alcohols in kidney-compromised adults — plus 3 kidney-safe, electrolyte-balanced beverage formulas validated in dialysis-adjacent nutrition studies.",
+      "primaryKeyword": "sugar free holiday punch kidney disease"
+    },
+    {
+      "index": 409,
+      "article_number": 410,
+      "slug": "the-truth-about-senior-friendly-holiday-protein-bars-why-91-contain-hidden-maltitol-that-delays-gastric-emptying-in-adults-68-with-gastroparesis",
+      "title": "The Truth About 'Senior-Friendly' Holiday Protein Bars — Why 91% Contain Hidden Maltitol That Delays Gastric Emptying in Adults 68+ With Gastroparesis",
+      "description": "Investigates how sugar alcohols in commercially marketed holiday protein bars worsen postprandial fullness, nausea, and glucose volatility in older adults with delayed gastric motility.",
+      "primaryKeyword": "senior-friendly protein bars gastroparesis maltitol"
+    },
+    {
+      "index": 410,
+      "article_number": 411,
+      "slug": "testosterone-therapy-hepatic-glucose-production-seniors",
+      "title": "5 Things Every Man Over 72 Should Know About Testosterone Replacement Therapy and Its Effect on Hepatic Glucose Production — Especially With Concomitant NAFLD",
+      "description": "Clarifies testosterone’s dual role in suppressing gluconeogenic enzymes while exacerbating hepatic fat accumulation, with liver enzyme–guided dosing thresholds.",
+      "primaryKeyword": "testosterone therapy hepatic glucose production seniors"
+    },
+    {
+      "index": 411,
+      "article_number": 412,
+      "slug": "simple-steps-to-reduce-post-meal-blood-pressure-drops-during-holiday-socializing-not-just-after-for-adults-74-with-autonomic-neuropathy",
+      "title": "Simple Steps to Reduce Post-Meal Blood Pressure Drops *During* Holiday Socializing — Not Just After — for Adults 74+ With Autonomic Neuropathy",
+      "description": "Introduces real-time, non-pharmacologic interventions (breathing pattern, posture sequencing, ambient temperature) that blunt orthostatic and postprandial hypotension *while* conversing and moving.",
+      "primaryKeyword": "post-meal blood pressure drops socializing seniors"
+    },
+    {
+      "index": 412,
+      "article_number": 413,
+      "slug": "simple-steps-to-reduce-nocturnal-coronary-vasospasm-risk-during-late-night-tv-viewing-not-just-sleep-for-adults-65-with-variant-prinzmetal-s-angina",
+      "title": "Simple Steps to Reduce Nocturnal Coronary Vasospasm Risk *During* Late-Night TV Viewing — Not Just Sleep — for Adults 65+ With Variant (Prinzmetal’s) Angina",
+      "description": "Targets a high-risk behavioral window (screen light, recumbent posture, cold ambient air, delayed caffeine metabolism) that triggers microvascular spasm — distinct from exertional triggers.",
+      "primaryKeyword": "nocturnal coronary vasospasm tv viewing"
+    },
+    {
+      "index": 413,
+      "article_number": 414,
+      "slug": "seated-tai-chi-atrial-fibrillation-seniors",
+      "title": "Best Seated Tai Chi Sequences for Adults 82+ With Atrial Fibrillation on Direct Oral Anticoagulants — Prioritizing Rhythm Stability, Fall Prevention, and Minimal Valsalva Risk",
+      "description": "Provides evidence-informed, anticoagulant-safe movement protocols designed to improve vagal tone and HRV without triggering arrhythmia exacerbation or intracranial bleed risk.",
+      "primaryKeyword": "seated tai chi atrial fibrillation seniors"
+    },
+    {
+      "index": 414,
+      "article_number": 415,
+      "slug": "quick-ways-to-restore-post-holiday-gut-motility-in-adults-73-with-chronic-constipation-and-polypharmacy",
+      "title": "Quick Ways to Restore Post-Holiday Gut Motility in Adults 73+ With Chronic Constipation and Polypharmacy",
+      "description": "Offers 3-minute, no-equipment interventions—supine diaphragmatic breathing, seated abdominal self-massage, and timed warm herbal sips—that bypass medication interactions and stimulate intrinsic neural pathways.",
+      "primaryKeyword": "restore gut motility post-holiday seniors"
+    },
+    {
+      "index": 415,
+      "article_number": 416,
+      "slug": "pulse-wave-velocity-after-shower-seniors",
+      "title": "12 Science-Backed Times to Measure Pulse Wave Velocity *After* a Shower — Not Just in Fasting State — for Adults 70+ With Sarcopenic Obesity and Suspected Arterial Stiffness",
+      "description": "Explains how thermal vasodilation, postural shifts, and hydration dynamics during/after bathing create optimal windows for detecting early arterial aging — missed by clinic-only assessments.",
+      "primaryKeyword": "pulse wave velocity after shower seniors"
+    },
+    {
+      "index": 416,
+      "article_number": 417,
+      "slug": "pulse-timing-during-walking-silent-ischemia",
+      "title": "12 Science-Backed Times to Check Your Pulse *During* a 10-Minute Walk — Not Just Before or After — for Adults 63+ With Intermittent Claudication and Silent Ischemia",
+      "description": "Details dynamic pulse waveform analysis windows (e.g., 22 seconds post-turn, 47 seconds after pavement texture change) that reveal transient ischemia missed by static HR monitoring or stress testing.",
+      "primaryKeyword": "pulse timing during walking silent ischemia"
+    },
+    {
+      "index": 417,
+      "article_number": 418,
+      "slug": "prevent-post-holiday-constipation-naturally",
+      "title": "Simple Steps to Prevent Post-Holiday Constipation *Without* Laxatives — Using Only a Digital Scale, Your Kitchen Timer, and 3 Common Herbs (Age 66+, Sedentary Lifestyle)",
+      "description": "Teaches timed fiber-to-fluid ratio tracking, herb-infused broth sipping intervals, and abdominal massage timing synchronized with circadian motilin pulses — all validated in a 2023 geriatric GI pilot study.",
+      "primaryKeyword": "prevent post holiday constipation naturally"
+    },
+    {
+      "index": 418,
+      "article_number": 419,
+      "slug": "postprandial-glucose-timing-gastroparesis-seniors",
+      "title": "12 Science-Backed Times to Measure Postprandial Glucose *After* Dinner — Not Just at 2 Hours — for Adults 67+ With Gastroparesis-Like Symptoms and Variable Gastric Emptying",
+      "description": "Introduces gastric emptying–adjusted glucose sampling windows using symptom diaries and breath acetone correlations to capture true peak excursions in delayed digestion.",
+      "primaryKeyword": "postprandial glucose timing gastroparesis seniors"
+    },
+    {
+      "index": 419,
+      "article_number": 420,
+      "slug": "post-bariatric-holiday-weight-regain-prevention",
+      "title": "12 Science-Backed Strategies to Prevent Post-Holiday Weight Regain in Adults 58–65 With Recent Bariatric Surgery — Focused on Social Eating Triggers and Adaptive Portion Cues",
+      "description": "Presents behaviorally grounded, surgery-specific techniques to maintain weight loss during high-social-pressure seasons—emphasizing environmental cue modification over willpower.",
+      "primaryKeyword": "post-bariatric holiday weight regain prevention"
+    },
+    {
+      "index": 420,
+      "article_number": 421,
+      "slug": "nighttime-heart-rate-variability-environmental-triggers",
+      "title": "7 Overlooked Environmental Triggers That Elevate Nighttime Heart Rate Variability in Adults 74+ With Mild COPD — From Humidifier Mineral Dust to Bedroom Wall Paint VOCs",
+      "description": "Identifies non-clinical, home-environmental factors that dysregulate autonomic cardiac output overnight in aging lungs, with actionable mitigation strategies validated in pulmonology-geriatric crossover studies.",
+      "primaryKeyword": "nighttime heart rate variability environmental triggers"
+    },
+    {
+      "index": 421,
+      "article_number": 422,
+      "slug": "natural-ways-to-support-gastric-emptying-during-thanksgiving-dinner-not-just-after-for-adults-70-with-early-gastroparesis-and-type-2-diabetes",
+      "title": "Natural Ways to Support Gastric Emptying *During* Thanksgiving Dinner — Not Just After — for Adults 70+ With Early Gastroparesis and Type 2 Diabetes",
+      "description": "Presents pre-plate, in-meal, and post-bite strategies — including timed ginger-chamomile infusion sips, strategic protein-first sequencing, and seated diaphragmatic breathing cues — validated in geriatric gastroparesis trials.",
+      "primaryKeyword": "support gastric emptying during meal"
+    },
+    {
+      "index": 422,
+      "article_number": 423,
+      "slug": "myths-vs-facts-salt-sensitivity-in-adults-74-with-long-standing-hypertension-why-82-of-salt-sensitive-diagnoses-are-based-on-outdated-protocols",
+      "title": "Myths vs Facts: 'Salt Sensitivity' in Adults 74+ With Long-Standing Hypertension — Why 82% of 'Salt-Sensitive' Diagnoses Are Based on Outdated Protocols",
+      "description": "Debunks outdated dietary sodium challenge methods, highlights renal sodium handling decline, and presents modern fractional excretion of sodium (FeNa) interpretation for geriatrics.",
+      "primaryKeyword": "salt-sensitivity-myths-elderly-hypertension"
+    },
+    {
+      "index": 423,
+      "article_number": 424,
+      "slug": "myths-vs-facts-eating-light-at-holiday-dinners-prevents-glucose-spikes-in-adults-62-with-insulin-resistance",
+      "title": "Myths vs Facts: 'Eating Light' at Holiday Dinners Prevents Glucose Spikes in Adults 62+ With Insulin Resistance",
+      "description": "Debunks five pervasive assumptions—including 'no dessert = safe' and 'vegetables first = automatic control'—with data on macronutrient sequencing, gastric emptying kinetics, and incretin timing.",
+      "primaryKeyword": "holiday eating light glucose myths facts seniors"
+    },
+    {
+      "index": 424,
+      "article_number": 425,
+      "slug": "holiday-leftovers-sibo-early-signs-seniors",
+      "title": "What Are the Earliest Signs Your Holiday Leftovers Are Causing Subclinical Small Intestinal Bacterial Overgrowth (SIBO) in Adults 69+ With Chronic Bloating?",
+      "description": "Highlights subtle, often-missed indicators—including gas timing, stool odor shifts, and post-meal fatigue—that precede diagnostic breath testing and respond to simple food rotation protocols.",
+      "primaryKeyword": "holiday leftovers sibo early signs seniors"
+    },
+    {
+      "index": 425,
+      "article_number": 426,
+      "slug": "heart-disease-cataract-surgery-seniors",
+      "title": "The Complete Guide to Managing Heart Disease While Recovering From Cataract Surgery — Practical Protocols for Adults 73+ on Beta-Blockers With Preoperative Resting HR <58 bpm",
+      "description": "Addresses under-discussed perioperative cardiac risks — including intraoperative bradycardia exacerbation, postoperative analgesic interactions, and light-sensitivity–induced sympathetic surges.",
+      "primaryKeyword": "heart disease cataract surgery seniors"
+    },
+    {
+      "index": 426,
+      "article_number": 427,
+      "slug": "endothelial-glycocalyx-repair-seniors",
+      "title": "Natural Ways to Support Endothelial Glycocalyx Repair *Without* Increasing Nitric Oxide — Using Low-Dose Hyaluronic Acid, Citrus Flavonoid Synergy, and Postprandial Walking in Adults 67+ With Metabolic Syndrome",
+      "description": "Offers a glycocalyx-targeted strategy for vascular protection that avoids NO-mediated hypotension risks — critical for those with orthostatic vulnerability or preserved systolic pressure.",
+      "primaryKeyword": "endothelial glycocalyx repair seniors"
+    },
+    {
+      "index": 427,
+      "article_number": 428,
+      "slug": "does-daily-5-minute-diaphragmatic-breathing-before-morning-coffee-lower-post-caffeine-glucose-spikes-in-adults-60-65-with-adrenal-hyperreactivity",
+      "title": "Does Daily 5-Minute Diaphragmatic Breathing *Before* Morning Coffee Lower Post-Caffeine Glucose Spikes in Adults 60–65 With Adrenal Hyperreactivity?",
+      "description": "Evaluates pre-caffeine vagal priming on catecholamine buffering and hepatic glucose output — with HRV-guided breathing protocols and caffeine timing thresholds.",
+      "primaryKeyword": "diaphragmatic breathing before coffee glucose spikes"
+    },
+    {
+      "index": 428,
+      "article_number": 429,
+      "slug": "chair-tai-chi-after-afib-ablation-safety",
+      "title": "Can You Safely Practice Chair Tai Chi While Recovering From Atrial Fibrillation Ablation? — Evidence-Based Movement Thresholds for Atrial Stretch Reduction and Pulmonary Vein Reconnection Risk in Adults 61+",
+      "description": "Defines precise biomechanical limits (e.g., thoracic rotation angle <28°, exhalation duration >5.2 sec) to avoid atrial wall strain during rehab—based on post-ablation atrial strain mapping and recurrence registry data.",
+      "primaryKeyword": "chair tai chi after afib ablation safety"
+    },
+    {
+      "index": 429,
+      "article_number": 430,
+      "slug": "cardiac-amyloidosis-vs-diastolic-failure",
+      "title": "When to Suspect Cardiac Amyloidosis *Instead* of Diastolic Heart Failure in Adults 79+ With Preserved EF, Unexplained Weight Loss, and Carpal Tunnel Syndrome — And Why ECG Alone Is Dangerously Misleading",
+      "description": "Guides clinicians and caregivers through red-flag symptom triads and underused diagnostic windows (e.g., bone scan uptake patterns, serum free light chains) for early identification of infiltrative heart disease.",
+      "primaryKeyword": "cardiac amyloidosis vs diastolic failure"
+    },
+    {
+      "index": 430,
+      "article_number": 431,
+      "slug": "atypical-angina-jaw-tightness-classical-music",
+      "title": "What Causes Sudden Left-Sided Jaw Tightness *Only* While Listening to Classical Music Through Bone-Conduction Headphones? — The Role of Temporalis Muscle Activation, Vagal Modulation, and Coronary Microvascular Dysfunction in Adults 59–65 With Atypical Angina",
+      "description": "Investigates an unusual, context-specific symptom pattern linked to subtle autonomic and microvascular cardiac dysfunction — not captured by standard stress testing — in mid-life adults with normal angiograms.",
+      "primaryKeyword": "atypical angina jaw tightness classical music"
+    },
+    {
+      "index": 431,
+      "article_number": 432,
+      "slug": "amber-glasses-nocturnal-coronary-perfusion",
+      "title": "How Chronic Nighttime Use of 'Blue-Blocking' Amber Glasses Alters Melatonin-Dependent BKCa Channel Expression — And Why That Improves Nocturnal Coronary Perfusion in Adults 71+ With Nocturnal Angina",
+      "description": "Explains a photobiomodulation pathway where non-visual retinal signaling enhances coronary smooth muscle relaxation — reducing microvascular spasm during sleep.",
+      "primaryKeyword": "amber glasses nocturnal coronary perfusion"
+    },
+    {
+      "index": 432,
+      "article_number": 433,
+      "slug": "7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-adults-72-with-isolated-systolic-hypertension-and-what-to-serve-instead",
+      "title": "7 Holiday Foods That Trigger Silent Blood Pressure Spikes in Adults 72+ With Isolated Systolic Hypertension — And What to Serve Instead",
+      "description": "Identifies commonly served holiday foods that cause delayed, asymptomatic systolic surges in older adults with stiffened arteries—and offers clinically appropriate swaps that maintain flavor and tradition.",
+      "primaryKeyword": "holiday foods blood pressure spikes seniors"
+    },
+    {
+      "index": 433,
+      "article_number": 434,
+      "slug": "5-things-every-woman-over-64-should-know-about-holiday-cheese-boards-and-bone-turnover-markers-especially-with-long-term-calcium-supplementation",
+      "title": "5 Things Every Woman Over 64 Should Know About Holiday Cheese Boards and Bone Turnover Markers — Especially With Long-Term Calcium Supplementation",
+      "description": "Examines how high-phosphorus, low-magnesium holiday cheeses interact with calcium metabolism, PTH, and bone resorption biomarkers in postmenopausal women with osteopenia.",
+      "primaryKeyword": "holiday cheese boards bone turnover markers women"
+    },
+    {
+      "index": 434,
+      "article_number": 435,
+      "slug": "12-science-backed-ways-to-reduce-postprandial-oxidative-burst-during-the-main-course-for-adults-57-65-with-early-macular-degeneration",
+      "title": "12 Science-Backed Ways to Reduce Postprandial Oxidative Burst *During* the Main Course — For Adults 57–65 With Early Macular Degeneration",
+      "description": "Details real-time antioxidant co-ingestion timing (e.g., lutein + saffron + cold-pressed olive oil), chewing pace targets, and plate-color contrast techniques shown to lower retinal oxidative markers within 90 minutes of meal onset.",
+      "primaryKeyword": "reduce oxidative burst during meal"
+    },
+    {
+      "index": 435,
+      "article_number": 436,
+      "slug": "why-your-afternoon-napping-habit-might-be-raising-fasting-glucose-even-with-normal-bedtime-snacks-in-adults-65-with-dawn-phenomenon",
+      "title": "Why Your Afternoon Napping Habit Might Be Raising Fasting Glucose — Even With Normal Bedtime Snacks in Adults 65+ With Dawn Phenomenon",
+      "description": "Explores how circadian misalignment from habitual afternoon naps disrupts hepatic glucose output and cortisol-glucagon crosstalk, with evidence-based timing adjustments for older adults.",
+      "primaryKeyword": "afternoon naps and fasting glucose in seniors"
+    },
+    {
+      "index": 436,
+      "article_number": 437,
+      "slug": "when-to-suspect-orthostatic-hypertension-instead-of-hypotension-in-adults-77-with-recurrent-falls-and-why-your-bp-cuff-may-be-lying-to-you",
+      "title": "When to Suspect Orthostatic Hypertension *Instead* of Hypotension in Adults 77+ With Recurrent Falls — And Why Your BP Cuff May Be Lying to You",
+      "description": "Details diagnostic red flags (e.g., supine SBP >150 + standing SBP >170), cuff placement errors, and validated seated-to-standing protocols for detecting paradoxical BP surges in frail elders.",
+      "primaryKeyword": "orthostatic-hypertension-falls-elderly"
+    },
+    {
+      "index": 437,
+      "article_number": 438,
+      "slug": "weight-training-after-retinal-laser-treatment-seniors",
+      "title": "Can You Safely Resume Weight Training After a Recent Retinal Photocoagulation Procedure? — Evidence-Based Load Thresholds and Valsalva Avoidance Protocols for Adults 62+ With Proliferative Diabetic Retinopathy",
+      "description": "Provides ophthalmology-guided resistance training parameters post-laser, including intraocular pressure limits, rep tempo, and breathing biofeedback techniques to prevent neovascular rupture.",
+      "primaryKeyword": "weight training after retinal laser treatment seniors"
+    },
+    {
+      "index": 438,
+      "article_number": 439,
+      "slug": "video-call-blood-pressure-spike-family",
+      "title": "What Causes Blood Pressure to Rise *Only* During Video Calls With Adult Children? — The Role of Subvocal Tension, Zoom Posture, and Anticipatory Sympathetic Priming in Adults 62–71",
+      "description": "Analyzes biometric data from telehealth studies showing BP spikes during family video calls — with real-time biofeedback breathing strategies calibrated for intergenerational communication stress.",
+      "primaryKeyword": "video-call-blood-pressure-spike-family"
+    },
+    {
+      "index": 439,
+      "article_number": 440,
+      "slug": "titanium-dioxide-cookware-glucose-uptake",
+      "title": "What Are the Hidden Risks of 'Non-Stick' Ceramic Cookware Coated With Titanium Dioxide Nanoparticles — And How That Alters Glucose Uptake in Skeletal Muscle in Adults 59–67 With Insulin Resistance?",
+      "description": "Examines nanoparticle translocation during high-heat cooking, mitochondrial uncoupling in myocytes, and safer cookware validation standards for metabolic health.",
+      "primaryKeyword": "titanium dioxide cookware glucose uptake"
+    },
+    {
+      "index": 440,
+      "article_number": 441,
+      "slug": "sugar-free-kombucha-cgms-interference-seniors",
+      "title": "The Truth About 'Sugar-Free' Kombucha Labeled for Seniors — Why 82% Contain Unlabeled Gluconic Acid That Mimics Glucose on CGM Sensors in Adults 66+ Using Real-Time Monitoring",
+      "description": "Debunks marketing claims around kombucha, revealing gluconic acid interference with continuous glucose monitor electrochemistry and offering verified low-interference alternatives.",
+      "primaryKeyword": "sugar-free kombucha cgms interference seniors"
+    },
+    {
+      "index": 441,
+      "article_number": 442,
+      "slug": "storytelling-blood-pressure-sympathetic-balance",
+      "title": "How Intergenerational Storytelling (Grandparent → Grandchild → Teen) Alters Sympathetic-Vagal Balance and Diastolic Pressure Trajectories in Adults 64+ With Prehypertension",
+      "description": "Investigates vocal effort, emotional recall intensity, and post-activity HRV recovery patterns — with micro-interventions to preserve BP stability during family bonding.",
+      "primaryKeyword": "storytelling-blood-pressure-sympathetic-balance"
+    },
+    {
+      "index": 442,
+      "article_number": 443,
+      "slug": "smart-nightlight-nocturnal-sbp-elevation",
+      "title": "How Chronic Nighttime Ambient Light Exposure From Smart Nightlights Disrupts Melatonin-Mediated NO Synthase Activity — And Elevates Nocturnal SBP in Adults 60+ With Sleep-Onset Insomnia",
+      "description": "Links blue-enriched light exposure to reduced nitric oxide bioavailability and impaired nocturnal vasodilation — with validated spectrally-tuned lighting protocols.",
+      "primaryKeyword": "smart-nightlight-nocturnal-sbp-elevation"
+    },
+    {
+      "index": 443,
+      "article_number": 444,
+      "slug": "senior-labeled-canned-soup-sodium-trap",
+      "title": "The Truth About 'Heart-Healthy' Canned Soups Labeled for Seniors — Why 68% Contain Hidden Sodium Loaders That Bypass Label Claims in Adults 69+ With Salt-Sensitive Hypertension",
+      "description": "Investigates labeling loopholes (e.g., 'per serving' vs. 'per can', potassium chloride masking), sodium-equivalent additives, and real-world BP impact data from 3-week dietary trials.",
+      "primaryKeyword": "senior-labeled-canned-soup-sodium-trap"
+    },
+    {
+      "index": 444,
+      "article_number": 445,
+      "slug": "seated-resistance-band-hypertension-elderly",
+      "title": "Best Seated Resistance Band Exercises for Adults 75+ With Orthostatic Intolerance and Stage 1 Hypertension — Balancing Muscle Activation, BP Stability, and Fall Risk",
+      "description": "Features low-threshold, isometric-isotonic hybrid movements validated in cardiac rehab trials — with real-time BP response charts and chair stabilization cues.",
+      "primaryKeyword": "seated-resistance-band-hypertension-elderly"
+    },
+    {
+      "index": 445,
+      "article_number": 446,
+      "slug": "post-dinner-fatigue-holiday-indoor-air",
+      "title": "What Causes Sudden Post-Dinner Fatigue *Only* When Eating at Your Daughter’s House? — The Role of Ambient VOCs, Carpet Off-Gassing, and Mitochondrial Stress in Adults 64+ With Fibromyalgia",
+      "description": "Links holiday-specific indoor air pollutants (from new rugs, scented candles, and synthetic wreaths) to postprandial mitochondrial dysfunction — with low-cost air quality mitigation and meal-timing buffers to preserve energy homeostasis.",
+      "primaryKeyword": "post dinner fatigue holiday indoor air"
+    },
+    {
+      "index": 446,
+      "article_number": 447,
+      "slug": "post-dinner-blood-pressure-timing-elderly",
+      "title": "12 Science-Backed Times to Measure Blood Pressure *After* Dinner — Not Just Before or Upon Waking — for Adults 65+ With Nocturnal Non-Dipping and Mild Cognitive Impairment",
+      "description": "Presents circadian timing windows tied to vagal rebound, postprandial sodium kinetics, and amyloid clearance cycles — with visual cue-based home monitoring templates.",
+      "primaryKeyword": "post-dinner-blood-pressure-timing-elderly"
+    },
+    {
+      "index": 447,
+      "article_number": 448,
+      "slug": "pillow-modifications-diabetic-cervical-myelopathy",
+      "title": "Best Pillow Modifications for Adults 64+ With Diabetic Cervical Myelopathy and Orthopnea — Balancing Cervical Alignment, Airway Patency, and Brachial Plexus Decompression",
+      "description": "Details ergonomic pillow layering, density gradients, and cervical lordosis-preserving angles proven to reduce nocturnal glucose spikes linked to intermittent hypoxia and sympathetic surges.",
+      "primaryKeyword": "pillow modifications diabetic cervical myelopathy"
+    },
+    {
+      "index": 448,
+      "article_number": 449,
+      "slug": "morning-hygiene-blood-pressure-variability",
+      "title": "Simple Steps to Reduce Morning Blood Pressure Variability *During* Shaving or Tooth Brushing — Not Just After — for Adults 67+ With White-Coat Amplification and Carotid Sinus Hypersensitivity",
+      "description": "Addresses micro-stressors (mirror glare, cold water, facial nerve stimulation) that trigger sympathetic surges in daily hygiene — with sensory-modulated routine redesign.",
+      "primaryKeyword": "morning-hygiene-blood-pressure-variability"
+    },
+    {
+      "index": 449,
+      "article_number": 450,
+      "slug": "mitochondrial-biogenesis-without-hiit-seniors",
+      "title": "Natural Ways to Support Mitochondrial Biogenesis in Skeletal Muscle *Without* High-Intensity Interval Training — Using Cold-Adapted Green Tea Polyphenols and Seated Resistance Band Cycles in Adults 71+ With Sarcopenia and Prediabetes",
+      "description": "Presents low-impact, temperature-modulated mitochondrial activation protocols validated in frail older adults with insulin resistance and low lean mass.",
+      "primaryKeyword": "mitochondrial biogenesis without hiit seniors"
+    },
+    {
+      "index": 450,
+      "article_number": 451,
+      "slug": "menthol-gels-insulin-sensitivity-lipodystrophy",
+      "title": "How Chronic Use of 'Cooling' Topical Gels With Menthol Alters TRPM8-Dependent Insulin Sensitivity in Subcutaneous Adipose Tissue — And Why That Masks Early Lipodystrophy in Adults 66+ With Long-Standing Insulin Therapy",
+      "description": "Uncovers menthol-induced adipocyte TRPM8 activation suppressing lipolysis and masking regional fat loss — with clinical assessment pearls and thermal imaging alternatives.",
+      "primaryKeyword": "menthol gels insulin sensitivity lipodystrophy"
+    },
+    {
+      "index": 451,
+      "article_number": 452,
+      "slug": "masking-secondary-hypertension-symptoms",
+      "title": "Warning Signs Your 'Mild' Blood Pressure Elevation Is Actually Masking Secondary Hypertension — Especially With Concurrent Sleep Fragmentation and Unexplained Weight Gain in Adults 55–64",
+      "description": "Highlights underrecognized red flags (e.g., resistant diastolic elevation, nocturnal polyuria, morning cortisol surge patterns) pointing to endocrine or renal causes in midlife adults.",
+      "primaryKeyword": "masking-secondary-hypertension-symptoms"
+    },
+    {
+      "index": 452,
+      "article_number": 453,
+      "slug": "magnesium-glycinate-blood-pressure-instability",
+      "title": "What Are the Earliest Signs Your Evening Magnesium Glycinate Dose Is Causing *Subclinical* BP Instability — Even With Normal Serum Levels in Adults 66+ With Mild Diastolic Dysfunction?",
+      "description": "Identifies subtle indicators (e.g., morning fatigue despite normal BP, nocturnal heart rate variability loss, post-void SBP overshoot) linked to magnesium’s calcium-channel modulation.",
+      "primaryKeyword": "magnesium-glycinate-blood-pressure-instability"
+    },
+    {
+      "index": 453,
+      "article_number": 454,
+      "slug": "led-nightlights-nocturnal-glucose-seniors",
+      "title": "How Chronic Exposure to LED Nightlights in Hallways Disrupts Retinal Melanopsin Signaling — And Elevates Nocturnal Glucose in Adults 70+ With Nocturia and Poor Sleep Efficiency",
+      "description": "Examines melanopsin-driven suppression of nocturnal melatonin, subsequent loss of insulin pulsatility, and real-world light-spectrum mitigation strategies for bedroom-adjacent spaces.",
+      "primaryKeyword": "led nightlights nocturnal glucose seniors"
+    },
+    {
+      "index": 454,
+      "article_number": 455,
+      "slug": "how-holiday-tablecloth-fibers-interact-with-anticoagulant-medications-a-real-world-risk-for-adults-79-on-apixaban-with-mild-thrombocytopenia",
+      "title": "How Holiday Tablecloth Fibers Interact With Anticoagulant Medications — A Real-World Risk for Adults 79+ on Apixaban With Mild Thrombocytopenia",
+      "description": "Examines textile dye leaching, microfiber ingestion via hand-to-mouth contact, and plate-surface friction-induced platelet activation — with evidence-based table setting modifications to reduce bleeding risk during festive meals.",
+      "primaryKeyword": "holiday tablecloth anticoagulant interaction"
+    },
+    {
+      "index": 455,
+      "article_number": 456,
+      "slug": "home-cuff-vs-ambulatory-nocturnal-hypertension",
+      "title": "A vs B: Home Oscillometric Cuffs vs. Ambulatory Monitoring for Detecting Nocturnal Hypertension in Adults 71+ With Mild Sleep Apnea and Mild Cognitive Impairment",
+      "description": "Compares accuracy, adherence barriers, artifact susceptibility, and clinical utility — with decision trees for choosing based on cognitive load, dexterity, and apnea severity.",
+      "primaryKeyword": "home-cuff-vs-ambulatory-nocturnal-hypertension"
+    },
+    {
+      "index": 456,
+      "article_number": 457,
+      "slug": "glucose-drops-folding-laundry-autonomic-dysfunction",
+      "title": "What Causes Sudden Glucose Drops *Only* While Folding Laundry? — The Role of Repetitive Shoulder Girdle Compression, Vagal Tone Shifts, and Hepatic Glycogen Release in Adults 58–63 With Early Autonomic Dysfunction",
+      "description": "Links sustained postural compression of the celiac plexus during common household tasks to transient insulin sensitization and glycogenolysis dysregulation.",
+      "primaryKeyword": "glucose drops folding laundry autonomic dysfunction"
+    },
+    {
+      "index": 457,
+      "article_number": 458,
+      "slug": "glp-1-secretion-without-probiotics-seniors",
+      "title": "Natural Ways to Enhance Glucagon-Like Peptide-1 (GLP-1) Secretion *Without* Probiotics — Using Low-Temperature Fermented Plum Vinegar and Supine Tongue Pressure Training in Adults 61+ With Diminished Gut Hormone Reserve",
+      "description": "Introduces non-microbial, mechanosensory–driven GLP-1 release via lingual taste receptor stimulation and organic acid–mediated L-cell activation.",
+      "primaryKeyword": "glp-1 secretion without probiotics seniors"
+    },
+    {
+      "index": 458,
+      "article_number": 459,
+      "slug": "diabetes-hip-fracture-surgery-recovery-seniors",
+      "title": "The Complete Guide to Managing Diabetes While Recovering From Hip Fracture Surgery — Practical Strategies for Adults 79+ With Preoperative HbA1c 7.8–8.9% and Limited Mobility",
+      "description": "Covers perioperative glucose targets, insulin titration during acute immobilization, pressure ulcer–prevention nutrition, and tele-rehab coordination for fracture recovery.",
+      "primaryKeyword": "diabetes hip fracture surgery recovery seniors"
+    },
+    {
+      "index": 459,
+      "article_number": 460,
+      "slug": "blood-pressure-caregiver-parkinsons-spouse",
+      "title": "The Complete Guide to Managing Blood Pressure While Caring for a Spouse With Mid-Stage Parkinson’s — Age 63–70, No Orthostasis Yet, But Frequent Postprandial Lapses",
+      "description": "Covers caregiver-specific stressors (e.g., meal timing conflicts, medication sync challenges, nocturnal caregiving BP surges) and micro-habit stacking for sustainable control.",
+      "primaryKeyword": "blood-pressure-caregiver-parkinsons-spouse"
+    },
+    {
+      "index": 460,
+      "article_number": 461,
+      "slug": "best-low-residue-high-fiber-side-dishes-for-adults-75-with-diverticular-disease-and-mild-cognitive-impairment-no-chopping-required",
+      "title": "Best Low-Residue, High-Fiber Side Dishes for Adults 75+ With Diverticular Disease *and* Mild Cognitive Impairment — No Chopping Required",
+      "description": "Features 5 fully prepped, no-cook or single-pot side dishes (including chia-pear compote and roasted beet hummus) designed to avoid mechanical irritation while supporting gut-brain axis integrity and satiety signaling.",
+      "primaryKeyword": "low residue high fiber holiday sides"
+    },
+    {
+      "index": 461,
+      "article_number": 462,
+      "slug": "air-purifier-ozone-pancreatic-islet-oxygenation",
+      "title": "Warning Signs Your Home Air Purifier’s Ionizer Is Generating Ozone That Impairs Pancreatic Islet Oxygenation — Even With Normal SpO2 in Adults 70+ With Type 1 Diabetes",
+      "description": "Highlights subclinical ozone-induced mitochondrial ROS in beta cells, altered insulin secretory kinetics, and validated ozone-free air purification alternatives.",
+      "primaryKeyword": "air purifier ozone pancreatic islet oxygenation"
+    },
+    {
+      "index": 462,
+      "article_number": 463,
+      "slug": "air-conditioning-baroreflex-sensitivity-elderly",
+      "title": "How Chronic Low-Volume Air Conditioning Use Alters Baroreflex Sensitivity in Adults 73+ With Isolated Systolic Hypertension — And Why 'Just Turning It Up' Makes It Worse",
+      "description": "Examines how constant low-grade thermal stress from aging HVAC systems impairs autonomic BP regulation — with evidence-based HVAC recalibration thresholds for frail seniors.",
+      "primaryKeyword": "air conditioning baroreflex sensitivity elderly"
+    },
+    {
+      "index": 463,
+      "article_number": 464,
+      "slug": "5-things-every-woman-over-62-should-know-about-calcium-fortified-eggnog-and-bone-mineral-density-especially-with-long-term-ppi-use",
+      "title": "5 Things Every Woman Over 62 Should Know About Calcium-Fortified Eggnog and Bone Mineral Density — Especially With Long-Term PPI Use",
+      "description": "Breaks down calcium bioavailability interference from gastric acid suppression, vitamin D co-absorption timing, and casein-phosphopeptide interactions — with precise pairing strategies to maximize bone-sparing benefits during holiday meals.",
+      "primaryKeyword": "calcium fortified eggnog bone health"
+    },
+    {
+      "index": 464,
+      "article_number": 465,
+      "slug": "10-foods-that-stabilize-systolic-diastolic-gap-without-lowering-overall-bp-for-adults-69-with-wide-pulse-pressure-and-preserved-cognitive-function",
+      "title": "10 Foods That *Stabilize* Systolic-Diastolic Gap *Without* Lowering Overall BP — For Adults 69+ With Wide Pulse Pressure and Preserved Cognitive Function",
+      "description": "Focuses on arterial compliance support (e.g., collagen peptides, anthocyanin-rich berries, fermented soy) — avoiding hypotensive foods for seniors needing hemodynamic buffering.",
+      "primaryKeyword": "stabilize-pulse-pressure-without-lowering-bp"
+    },
+    {
+      "index": 465,
+      "article_number": 466,
+      "slug": "when-to-suspect-holiday-induced-glycemic-amnesia-in-adults-74-with-mild-cognitive-impairment-and-why-it-s-not-just-forgetfulness",
+      "title": "When to Suspect Holiday-Induced Glycemic Amnesia in Adults 74+ With Mild Cognitive Impairment — And Why It’s Not Just 'Forgetfulness'",
+      "description": "Defines glycemic amnesia as transient hippocampal hypometabolism caused by acute glucose spikes, outlining 5 behavioral red flags (e.g., misplaced insulin pens, repeated carb-counting errors) distinct from dementia progression.",
+      "primaryKeyword": "holiday glycemic amnesia mild cognitive impairment"
+    },
+    {
+      "index": 466,
+      "article_number": 467,
+      "slug": "when-to-pause-mid-dessert-for-vagal-reset-not-just-portion-control-in-adults-69-with-postprandial-hypotension-and-orthostatic-dizziness",
+      "title": "When to Pause Mid-Dessert for Vagal Reset — Not Just Portion Control — in Adults 69+ With Postprandial Hypotension and Orthostatic Dizziness",
+      "description": "Details evidence-based timing cues (e.g., after first bite of pie, before coffee) to activate vagal tone and stabilize blood pressure—not just reduce sugar intake.",
+      "primaryKeyword": "vagal reset dessert postprandial hypotension"
+    },
+    {
+      "index": 467,
+      "article_number": 468,
+      "slug": "what-are-the-hidden-risks-of-gluten-free-holiday-rolls-for-adults-77-with-undiagnosed-celiac-disease-and-atrophic-gastritis",
+      "title": "What Are the Hidden Risks of 'Gluten-Free' Holiday Rolls for Adults 77+ With Undiagnosed Celiac Disease and Atrophic Gastritis?",
+      "description": "Uncovers cross-contamination risks in shared ovens, gluten-degrading enzyme deficiencies in aging stomachs, and iron/B12 absorption interference from GF flours.",
+      "primaryKeyword": "health management holiday adults 77+"
+    },
+    {
+      "index": 468,
+      "article_number": 469,
+      "slug": "what-are-the-earliest-signs-your-morning-cortisol-rhythm-is-driving-insulin-resistance-even-with-normal-a1c-in-adults-55-64",
+      "title": "What Are the Earliest Signs Your Morning Cortisol Rhythm Is Driving Insulin Resistance — Even With Normal A1C in Adults 55–64?",
+      "description": "Discusses circadian cortisol dysregulation, salivary diurnal testing protocols, and behavioral interventions (light exposure timing, breakfast macronutrient sequencing) to restore HPA-glucose axis harmony.",
+      "primaryKeyword": "morning cortisol insulin resistance A1C"
+    },
+    {
+      "index": 469,
+      "article_number": 470,
+      "slug": "warning-signs-your-winter-indoor-humidity-30-is-accelerating-corneal-nerve-damage-even-with-stable-hba1c-in-adults-77-with-diabetic-neuropathy",
+      "title": "Warning Signs Your Winter Indoor Humidity <30% Is Accelerating Corneal Nerve Damage — Even With Stable HbA1c in Adults 77+ With Diabetic Neuropathy",
+      "description": "Connects dry air-induced ocular surface stress, corneal confocal microscopy findings, tear osmolarity changes, and humidifier-based neuroprotection strategies for frail older adults.",
+      "primaryKeyword": "indoor humidity corneal nerve damage"
+    },
+    {
+      "index": 470,
+      "article_number": 471,
+      "slug": "the-truth-about-low-sugar-holiday-cookies-labeled-for-seniors-why-73-contain-maltitol-induced-osmotic-diarrhea-triggers-in-adults-71-with-ibs-c",
+      "title": "The Truth About 'Low-Sugar' Holiday Cookies Labeled for Seniors — Why 73% Contain Maltitol-Induced Osmotic Diarrhea Triggers in Adults 71+ With IBS-C",
+      "description": "Debunks marketing claims around sugar alcohols, explains osmotic mechanisms in aging gut motility, and provides a certified low-FODMAP cookie swap list.",
+      "primaryKeyword": "low-sugar cookies maltitol seniors ibs"
+    },
+    {
+      "index": 471,
+      "article_number": 472,
+      "slug": "the-complete-guide-to-navigating-a-potluck-when-you-re-the-only-one-with-newly-diagnosed-heart-failure-age-58-65-ejection-fraction-45-no-edema-yet",
+      "title": "The Complete Guide to Navigating a Potluck When You’re the Only One with Newly Diagnosed Heart Failure — Age 58–65, Ejection Fraction 45%, No Edema Yet",
+      "description": "Covers RSVP language, dish-label negotiation tactics, sodium-aware substitutions, and how to tactfully decline ‘just one bite’ without social friction.",
+      "primaryKeyword": "potluck heart failure newly diagnosed guide"
+    },
+    {
+      "index": 472,
+      "article_number": 473,
+      "slug": "stabilize-fasting-glucose-without-lowering",
+      "title": "10 Foods That Stabilize Post-Holiday Fasting Glucose *Without* Lowering It — For Adults 64+ With History of Falls and Hypoglycemia-Associated Autonomic Failure",
+      "description": "Highlights low-glycemic, high-protein/fat foods that blunt glucose excursions while preserving counterregulatory hormone reserve — avoiding overcorrection in frail older adults.",
+      "primaryKeyword": "stabilize fasting glucose without lowering"
+    },
+    {
+      "index": 473,
+      "article_number": 474,
+      "slug": "simple-steps-to-reduce-glucose-variability-during-air-travel-not-just-before-or-after-for-adults-61-with-insulin-dependent-diabetes",
+      "title": "Simple Steps to Reduce Glucose Variability *During* Air Travel — Not Just Before or After — for Adults 61+ With Insulin-Dependent Diabetes",
+      "description": "Provides in-flight insulin adjustment algorithms, cabin pressure–glucose interaction data, hydration-electrolyte pairing strategies, and TSA-compliant device carrying solutions.",
+      "primaryKeyword": "air travel glucose variability insulin"
+    },
+    {
+      "index": 474,
+      "article_number": 475,
+      "slug": "simple-steps-to-improve-endothelial-dependent-vasodilation-in-just-10-days-using-only-a-digital-thermometer-a-kitchen-timer-and-your-evening-shower",
+      "title": "Simple Steps to Improve Endothelial-Dependent Vasodilation in Just 10 Days — Using Only a Digital Thermometer, a Kitchen Timer, and Your Evening Shower",
+      "description": "Details evidence-based thermal sequencing (warm-cold-warm contrast) and timing windows that boost nitric oxide bioavailability in aging endothelium—no devices or supplements.",
+      "primaryKeyword": "improve endothelial function in 10 days"
+    }
+  ]
+}

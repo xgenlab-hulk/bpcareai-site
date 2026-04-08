@@ -87,22 +87,22 @@ Using home pulse oximetry thoughtfully — looking beyond SpO₂ to PI, PVI, and
 
 ### FAQ
 
-#### #### Can home pulse oximetry detect heart failure worsening before symptoms appear?
+#### Can home pulse oximetry detect heart failure worsening before symptoms appear?
 
 Yes — especially when tracking PI and PVI trends. Research shows that a 30–50% decline in PI or rise in PVI often precedes symptomatic decompensation by 48–72 hours in older adults with chronic heart failure. Waveform changes may appear even earlier, reflecting subtle shifts in stroke volume or vascular tone.
 
-#### #### Is home pulse oximetry heart failure anemia seniors reliable if I have cold hands or Raynaud’s?
+#### Is home pulse oximetry heart failure anemia seniors reliable if I have cold hands or Raynaud’s?
 
 Cold extremities can lower PI and distort waveforms — but *trends still matter*. If your baseline PI is typically low due to peripheral vasoconstriction, focus on *relative change*: e.g., a further 30% drop from your usual 0.4% to 0.28% may be meaningful. Warming hands for 2–3 minutes before measurement improves reliability. Avoid measuring immediately after coming in from cold weather.
 
-#### #### How does anemia affect pulse oximetry readings in heart failure?
+#### How does anemia affect pulse oximetry readings in heart failure?
 
 Anemia doesn’t alter SpO₂ (which measures *saturation*, not total oxygen content), but it reduces oxygen-carrying capacity — meaning even 97% saturation may deliver insufficient O₂ to tissues. This makes PI and waveform analysis *more* important: low PI in anemic patients often reflects poor perfusion *and* inadequate oxygen delivery, not just low flow.
 
-#### #### What’s the difference between PI and PVI — and which matters more for heart failure?
+#### What’s the difference between PI and PVI — and which matters more for heart failure?
 
 PI measures *absolute* peripheral perfusion strength; PVI measures *relative variability* linked to fluid status and respiratory effort. Neither is “more important” — they’re complementary. PI declines with low cardiac output; PVI rises with hypervolemia. In practice, a simultaneous PI drop *and* PVI rise is a high-specificity sign of impending decompensation.
 
-#### #### Do I need a special pulse oximeter to track PI and PVI?
+#### Do I need a special pulse oximeter to track PI and PVI?
 
 Yes — standard FDA-cleared fingertip oximeters used for SpO₂ only do *not* calculate PI or PVI. You’ll need a device explicitly labeled as providing “perfusion index,” “pleth variability index,” and waveform display. Check manufacturer specifications and look for clinical-grade models validated in older adult populations.

@@ -56,22 +56,22 @@ Muscle health isn’t about perfection at holiday meals—it’s about thoughtfu
 
 ### FAQ
 
-#### #### Does eating more protein at Thanksgiving prevent muscle loss in seniors?
+#### Does eating more protein at Thanksgiving prevent muscle loss in seniors?
 
 Not automatically. While protein is essential, seniors 70+ face anabolic resistance—meaning muscle response depends more on leucine content, timing with movement, and overall distribution across meals than sheer quantity. Simply adding another slice of turkey won’t compensate for inactivity or poor nutrient pairing.
 
-#### #### What are the top holiday protein muscle loss myths seniors should ignore?
+#### What are the top holiday protein muscle loss myths seniors should ignore?
 
 Three big ones: (1) “More protein = more muscle,” regardless of activity; (2) “Protein shakes are always better than food”; and (3) “It’s too late to build muscle after 70.” All are outdated—science confirms meaningful muscle support is possible at any age with the right strategy.
 
-#### #### How much protein do seniors really need at holiday meals?
+#### How much protein do seniors really need at holiday meals?
 
 Aim for 25–30 g of high-quality protein per meal—with at least ~2.8 g of leucine. That’s roughly achieved with 4 oz roasted turkey + 1 oz pumpkin seeds, or ¾ cup Greek yogurt + ¼ cup almonds. Avoid exceeding 40 g in one sitting—excess isn’t used for muscle and may strain kidneys in vulnerable individuals.
 
-#### #### Can low physical activity make holiday protein less effective?
+#### Can low physical activity make holiday protein less effective?
 
 Yes—significantly. Without some form of resistance stimulus (even light effort), muscle tissue remains less receptive to protein’s benefits. Movement “opens the door” for amino acids to enter and repair muscle. Think of protein as the bricks—and movement as the builder.
 
-#### #### Is there a link between holiday protein intake and blood pressure in seniors?
+#### Is there a link between holiday protein intake and blood pressure in seniors?
 
 Indirectly, yes. Very high intakes of processed meats (e.g., cured hams, sausages) can contribute to sodium overload, which may elevate arterial pressure. Focus instead on lean, minimally processed proteins paired with potassium-rich vegetables (sweet potatoes, spinach, squash) to support both muscle and cardiovascular health.

@@ -47,22 +47,22 @@ In short, potluck contributions orthostatic hypotension don’t have to be a sou
 
 ### FAQ
 
-#### #### How can I bring a dish to a potluck without worsening my orthostatic hypotension?
+#### How can I bring a dish to a potluck without worsening my orthostatic hypotension?
 
 Choose low-sodium, low-caffeine, room-temperature or mildly warm dishes—like baked oatmeal cups or quinoa-stuffed bell peppers—that require minimal standing during prep and transport. Avoid last-minute cooking or carrying heavy containers; enlist help with loading/unloading.
 
-#### #### What are the safest potluck contributions orthostatic hypotension patients can prepare at home?
+#### What are the safest potluck contributions orthostatic hypotension patients can prepare at home?
 
 Ideal options include oven-roasted vegetable trays (seasoned with lemon, garlic, rosemary—not salt), unsalted nut mixes, or low-sugar chia pudding made with almond milk. All are stable at room temperature, low in sodium (<100 mg per serving), and caffeine-free.
 
-#### #### Can I still participate in potlucks if I have both orthostatic hypotension and nocturnal polyuria?
+#### Can I still participate in potlucks if I have both orthostatic hypotension and nocturnal polyuria?
 
 Yes—with adjustments. Prioritize dishes with balanced electrolytes (e.g., potassium-rich roasted squash) and avoid high-water fruits (watermelon, cucumber) after 4 p.m. Time your contribution drop-off earlier in the day, and hydrate steadily between noon and 4 p.m. instead of all at once.
 
-#### #### Is it safe to add extra salt to my potluck dish to help with orthostatic hypotension?
+#### Is it safe to add extra salt to my potluck dish to help with orthostatic hypotension?
 
 Not without medical guidance. While some individuals benefit from modest sodium increases (e.g., 1,500–2,000 mg/day), excess salt can worsen nocturnal polyuria and strain kidney function—especially with age-related decline. Always discuss dietary sodium changes with your care team.
 
-#### #### How does meal timing affect orthostatic hypotension during family gatherings?
+#### How does meal timing affect orthostatic hypotension during family gatherings?
 
 Large meals—especially high-carbohydrate or high-fat ones—can divert blood flow to the gut, lowering BP for up to 90 minutes post-eating. Eat a small, protein-rich snack 30 minutes before arriving, and space your contribution drop-off so you’re seated and relaxed before the main meal begins.

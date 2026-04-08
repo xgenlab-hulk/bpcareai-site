@@ -75,22 +75,22 @@ Metabolic health at 66+ isn’t about perfection—it’s about thoughtful consi
 
 ### FAQ
 
-#### #### Do candlelight dinners really affect blood sugar in seniors?
+#### Do candlelight dinners really affect blood sugar in seniors?
 
 Yes—particularly when held after 7:30 p.m. Dim light delays melatonin, which indirectly reduces skeletal muscle glucose uptake. In adults over 65, studies show post-meal glucose AUC increases by 15–25% under candlelight versus brighter, earlier meals—even with identical food.
 
-#### #### How does candlelight dinners insulin sensitivity seniors differ from younger adults?
+#### How does candlelight dinners insulin sensitivity seniors differ from younger adults?
 
 Older adults have reduced circadian amplitude, slower insulin clearance, and less muscle mass—making them more vulnerable to timing-related glucose excursions. A 2022 *Diabetes Care* study found that 65+ participants experienced 2.3× greater glucose variability after late, low-light meals than adults aged 40–55.
 
-#### #### What are the best low-GI, soft-texture carbs for seniors who enjoy candlelight dinners insulin sensitivity seniors?
+#### What are the best low-GI, soft-texture carbs for seniors who enjoy candlelight dinners insulin sensitivity seniors?
 
 Top options include cooked pear halves (GI ≈ 38), mashed parsnips (GI ≈ 52), and quinoa porridge with ground flax (GI ≈ 53). All are easy to chew, rich in soluble fiber, and promote slower glucose absorption—ideal for supporting insulin sensitivity without compromising comfort.
 
-#### #### Can I still have wine with a candlelight dinner if I’m insulin resistant?
+#### Can I still have wine with a candlelight dinner if I’m insulin resistant?
 
 Moderation is key. One 5-oz glass of dry red wine (≈12 g alcohol) taken *with* food may modestly improve insulin sensitivity acutely—but avoid drinking on an empty stomach or after 8 p.m., as alcohol disrupts nocturnal glucose regulation and amplifies circadian misalignment.
 
-#### #### Does room temperature affect candlelight dinners insulin sensitivity seniors?
+#### Does room temperature affect candlelight dinners insulin sensitivity seniors?
 
 Indirectly—yes. Cooler ambient temperatures (62–68°F / 17–20°C) mildly activate brown adipose tissue and improve insulin signaling. Warmer rooms (>72°F) may promote drowsiness and reduce post-meal activity, compounding glucose effects. Keep dining areas comfortably cool—not chilly.

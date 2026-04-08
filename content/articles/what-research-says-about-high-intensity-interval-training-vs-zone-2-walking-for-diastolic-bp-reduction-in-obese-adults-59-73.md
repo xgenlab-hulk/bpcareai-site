@@ -85,22 +85,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Is HIIT or Zone 2 walking better for lowering diastolic BP in older adults?
+#### Is HIIT or Zone 2 walking better for lowering diastolic BP in older adults?
 
 Research suggests both are effective—but in complementary ways. HIIT often yields slightly faster diastolic BP reductions (averaging ~5 mm Hg in 12 weeks), while Zone 2 walking offers comparable long-term benefits (~4 mm Hg in 16 weeks) with higher adherence rates among adults 59–73. The best choice depends on your joint health, energy patterns, and personal preferences—not a universal “better.”
 
-#### #### Can *hiit vs zone 2 walking diastolic bp* results differ for obese adults over 60?
+#### Can *hiit vs zone 2 walking diastolic bp* results differ for obese adults over 60?
 
 Yes—body composition and age interact meaningfully with exercise response. Obese adults over 60 often see robust diastolic BP improvements from Zone 2 walking due to its low barrier to entry and strong anti-inflammatory effects. Meanwhile, HIIT’s benefits may be slightly blunted if mobility or orthopedic limitations restrict intensity—but modified, low-impact HIIT still delivers measurable gains.
 
-#### #### How long before I see changes in diastolic BP from *hiit vs zone 2 walking diastolic bp* routines?
+#### How long before I see changes in diastolic BP from *hiit vs zone 2 walking diastolic bp* routines?
 
 Most well-designed studies report noticeable diastolic BP shifts after 8–12 weeks of consistent practice (3–5 sessions/week). However, some individuals notice subtle improvements—like easier breathing or steadier energy—as early as 3–4 weeks. Patience and consistency matter more than speed.
 
-#### #### Does Zone 2 walking really lower diastolic BP—or is HIIT the only effective option?
+#### Does Zone 2 walking really lower diastolic BP—or is HIIT the only effective option?
 
 Zone 2 walking absolutely lowers diastolic BP—and for many adults aged 59–73, it’s the most effective *sustainable* option. A 2023 meta-analysis in *British Journal of Sports Medicine* confirmed that moderate-intensity continuous training (like Zone 2 walking) reduced diastolic BP by 3.9–4.5 mm Hg in obese older adults—comparable to HIIT, with significantly fewer dropouts.
 
-#### #### Can I combine HIIT and Zone 2 walking for better *hiit vs zone 2 walking diastolic bp* outcomes?
+#### Can I combine HIIT and Zone 2 walking for better *hiit vs zone 2 walking diastolic bp* outcomes?
 
 Yes—and many people find this hybrid approach ideal. For example: 3 days of Zone 2 walking (45 min) + 1 day of low-impact HIIT (20 min) balances vascular stimulation with recovery. Just ensure at least one full rest day per week, and listen closely to your body’s feedback on energy, joint comfort, and sleep quality.

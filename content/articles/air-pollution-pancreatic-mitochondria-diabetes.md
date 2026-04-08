@@ -80,17 +80,17 @@ Understanding the link between environment and metabolism doesn’t mean adding 
 
 ### FAQ
 
-#### #### How does air pollution affect pancreatic mitochondria in people with diabetes?  
+#### How does air pollution affect pancreatic mitochondria in people with diabetes?  
 Air pollution—especially PM2.5 and NO₂—triggers oxidative stress inside pancreatic beta-cells, damaging mitochondrial structure and reducing ATP production. This impairs insulin secretion dynamics, leading to greater glucose variability and increased risk of hypoglycemia, particularly in adults with long-standing type 2 diabetes and urban residency.
 
-#### #### Can indoor air pollution worsen diabetes complications through mitochondrial damage?  
+#### Can indoor air pollution worsen diabetes complications through mitochondrial damage?  
 Yes. Chronic indoor exposure to PM2.5 and NO₂ is associated with reduced mitochondrial respiratory capacity in human islets, contributing to beta-cell dysfunction. Over time, this may accelerate microvascular complications—including retinopathy and neuropathy—by compounding metabolic and oxidative stress. Studies report a 1.4× higher risk of rapid eGFR decline in diabetic adults with sustained indoor NO₂ >20 ppb.
 
-#### #### What is air pollution pancreatic mitochondria diabetes—and is it reversible?  
+#### What is air pollution pancreatic mitochondria diabetes—and is it reversible?  
 *Air pollution pancreatic mitochondria diabetes* refers to the mechanistic pathway where ambient pollutants impair mitochondrial function in insulin-producing cells, worsening glycemic control in type 2 diabetes. While mitochondrial damage can accumulate with age and chronic exposure, interventions like improved air filtration, antioxidant-rich diets, and regular aerobic activity have demonstrated partial restoration of respiratory function in preclinical and small human studies.
 
-#### #### Does living near traffic increase my risk of glucose instability if I have diabetes?  
+#### Does living near traffic increase my risk of glucose instability if I have diabetes?  
 Yes. Adults aged 60–74 with type 2 diabetes living within 100–300 meters of major roads show, on average, a 19% higher coefficient of variation (CV%) in glucose readings compared to those living farther away—after adjusting for BMI, medication use, and physical activity. This association remains significant even after accounting for socioeconomic factors.
 
-#### #### Are older adults more vulnerable to air pollution–induced mitochondrial dysfunction?  
+#### Are older adults more vulnerable to air pollution–induced mitochondrial dysfunction?  
 Absolutely. Aging is associated with decreased expression of mitochondrial biogenesis regulators (e.g., PGC-1α), diminished autophagy (mitophagy), and lower baseline antioxidant reserves. These changes make pancreatic beta-cells in adults over 60 significantly more susceptible to ROS-mediated injury from PM2.5 and NO₂—explaining why glucose variability tends to rise more steeply with pollution exposure in this age group.

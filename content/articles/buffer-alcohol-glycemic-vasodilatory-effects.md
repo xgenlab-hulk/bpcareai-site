@@ -88,22 +88,22 @@ Family gatherings are meant to nourish connection—not compromise well-being. U
 
 ### FAQ
 
-#### #### How can I buffer alcohol glycemic vasodilatory effects without stopping drinking altogether?
+#### How can I buffer alcohol glycemic vasodilatory effects without stopping drinking altogether?
 
 You can buffer alcohol glycemic vasodilatory effects by timing alcohol with protein-rich, magnesium-containing foods; staying seated and hydrated; and moving gently 45–60 minutes after your last drink. These non-pharmacologic approaches support your body’s natural regulatory systems rather than suppressing them.
 
-#### #### What foods best buffer alcohol glycemic vasodilatory effects for older adults with prediabetes?
+#### What foods best buffer alcohol glycemic vasodilatory effects for older adults with prediabetes?
 
 Top evidence-backed pairings include: roasted pumpkin seeds + hard-boiled egg (magnesium + protein), plain Greek yogurt + cinnamon (slow-digesting protein + insulin-sensitizing polyphenols), and avocado slices + sea salt (monounsaturated fats + electrolyte balance). Avoid high-sugar snacks, which worsen glucose volatility.
 
-#### #### Does alcohol affect orthostatic hypotension more in people over 60?
+#### Does alcohol affect orthostatic hypotension more in people over 60?
 
 Yes. After age 60, baroreflex sensitivity declines by ~0.5% per year, and vascular compliance decreases—making BP recovery after alcohol-induced vasodilation slower and less complete. Studies show adults 60+ with orthostatic hypotension experience twice the incidence of post-alcohol syncope versus younger adults with the same diagnosis.
 
-#### #### Can walking after a drink really help stabilize blood sugar and BP?
+#### Can walking after a drink really help stabilize blood sugar and BP?
 
 Yes—moderate walking (2.5–3 mph) for 15–20 minutes beginning 45 minutes after alcohol increases skeletal muscle glucose uptake independent of insulin and promotes venous return, which helps offset vasodilation-induced pooling. A 2020 RCT in *JAMA Internal Medicine* confirmed this reduced post-drink glucose swings by 33% and systolic BP drops by 22% in adults 58–70.
 
-#### #### Is there a safe amount of alcohol for someone with prediabetes and orthostatic hypotension?
+#### Is there a safe amount of alcohol for someone with prediabetes and orthostatic hypotension?
 
 There is no universal “safe” amount—but consensus guidelines (ADA, AHA) suggest limiting to ≤1 standard drink (14 g ethanol) *no more than 3x/week*, always with food, and only if you’ve tested your individual response via home monitoring. Many find that skipping alcohol at high-risk events (e.g., multi-hour gatherings with standing, heat, or dehydration) yields the greatest stability.

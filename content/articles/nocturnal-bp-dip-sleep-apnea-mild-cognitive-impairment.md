@@ -64,22 +64,22 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### What does an abnormal nocturnal BP dip mean for someone with sleep apnea and mild cognitive impairment?
+#### What does an abnormal nocturnal BP dip mean for someone with sleep apnea and mild cognitive impairment?
 
 An abnormal dip—either too deep (>20%) or absent—often reflects autonomic imbalance, especially in adults with both OSA and MCI. It’s linked to higher risks for falls, silent brain changes, and heart disease—not lower ones.
 
-#### #### Is a 25% nocturnal BP dip dangerous in sleep apnea and mild cognitive impairment?
+#### Is a 25% nocturnal BP dip dangerous in sleep apnea and mild cognitive impairment?
 
 Yes—it may indicate baroreflex exhaustion. Research shows that in adults with OSA + MCI, excessive dipping correlates with reduced heart rate variability and increased white matter hyperintensities on MRI—both markers of vascular brain injury.
 
-#### #### How is nocturnal BP dip sleep apnea mild cognitive impairment different from regular high blood pressure?
+#### How is nocturnal BP dip sleep apnea mild cognitive impairment different from regular high blood pressure?
 
 It’s less about peak pressure and more about *instability*. Traditional hypertension focuses on sustained elevation, but this pattern highlights erratic regulation—where the nervous system struggles to maintain balance across sleep-wake cycles.
 
-#### #### Can CPAP therapy fix the nocturnal BP dip issue in people with sleep apnea and MCI?
+#### Can CPAP therapy fix the nocturnal BP dip issue in people with sleep apnea and MCI?
 
 CPAP helps—but not always enough. While it reduces apnea events and lowers average BP, ~30–40% of users still show abnormal dipping patterns, especially if MCI or long-standing autonomic decline is present. Combining CPAP with HRV-supportive habits yields the best results.
 
-#### #### What tests should I ask my doctor about for nocturnal BP dip sleep apnea mild cognitive impairment?
+#### What tests should I ask my doctor about for nocturnal BP dip sleep apnea mild cognitive impairment?
 
 Ask about 24-hour ambulatory BP monitoring (ABPM), overnight pulse oximetry, and—if available—short-term HRV analysis. Cognitive screening tools like MoCA (Montreal Cognitive Assessment) paired with autonomic testing (e.g., tilt-table or deep breathing tests) offer a fuller picture.

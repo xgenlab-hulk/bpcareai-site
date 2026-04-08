@@ -44,22 +44,22 @@ In summary, protecting your heart health means recognizing air as part of your e
 
 ### FAQ
 
-#### #### Does air pollution worsen endothelial function specifically in people with prediabetes?
+#### Does air pollution worsen endothelial function specifically in people with prediabetes?
 
 Yes—prediabetes creates a state of heightened oxidative stress and reduced antioxidant capacity, making the endothelium more sensitive to PM2.5 and ozone. Studies confirm that adults with prediabetes show greater FMD suppression per unit of pollution exposure than metabolically healthy peers.
 
-#### #### How does air pollution endothelial function prediabetes relate to heart attack risk?
+#### How does air pollution endothelial function prediabetes relate to heart attack risk?
 
 Impaired endothelial function is a key precursor to atherosclerosis and plaque instability. Over time, chronic pollution-induced endothelial dysfunction contributes to increased arterial stiffness, hypertension progression, and higher 10-year cardiovascular event risk—especially in adults over 55 with prediabetes.
 
-#### #### Can improving air quality reverse endothelial damage in prediabetes?
+#### Can improving air quality reverse endothelial damage in prediabetes?
 
 Evidence suggests yes. Controlled interventions reducing PM2.5 exposure (e.g., indoor air filtration for 3 months) have demonstrated measurable FMD improvement (up to 2.1 percentage points) in adults with metabolic risk—highlighting the reversibility of early vascular changes.
 
-#### #### What’s the safest time of day to walk if I have prediabetes and live in a city?
+#### What’s the safest time of day to walk if I have prediabetes and live in a city?
 
 Early morning (6–9 a.m.) is generally optimal: ozone is lowest, traffic-related PM2.5 peaks later (midday to early evening), and temperature inversions that trap pollutants are less likely.
 
-#### #### Is indoor walking as beneficial for heart health as outdoor walking?
+#### Is indoor walking as beneficial for heart health as outdoor walking?
 
 Yes—when paired with intentional movement (brisk pace, arm swings, varied terrain like stairs), indoor walking maintains cardiovascular conditioning and avoids pollutant exposure entirely. Consistency matters more than setting.

@@ -82,22 +82,22 @@ Mitochondrial myopathy insulin resistance fatigue may sound complex, but it refl
 
 ### FAQ
 
-#### #### What are the earliest signs of mitochondrial myopathy in older adults?
+#### What are the earliest signs of mitochondrial myopathy in older adults?
 
 The earliest signs often appear *outside* the muscles—things like unexplained fatigue that doesn’t lift with rest, new-onset insulin resistance (especially without weight gain), brain fog, or slow recovery after mild activity. Muscle cramps, weakness, or exercise intolerance typically come later—if at all.
 
-#### #### Can mitochondrial myopathy insulin resistance fatigue be reversed?
+#### Can mitochondrial myopathy insulin resistance fatigue be reversed?
 
 While inherited forms may not be fully reversible, *acquired* mitochondrial dysfunction—especially in older adults—is often responsive to targeted support: optimizing nutrients (B1, B2, CoQ10, magnesium), managing inflammation, improving sleep, and adjusting medications when appropriate. Many patients report improved stamina and more stable blood sugar within 3–6 months of consistent lifestyle support.
 
-#### #### Is mitochondrial myopathy insulin resistance fatigue linked to type 2 diabetes?
+#### Is mitochondrial myopathy insulin resistance fatigue linked to type 2 diabetes?
 
 Yes—strongly. Studies show that up to 40% of adults with long-standing type 2 diabetes have measurable mitochondrial deficits in muscle tissue. But importantly, mitochondrial stress can *precede* diabetes diagnosis by months or years—making it both a contributor to and an early marker of metabolic disease.
 
-#### #### How is mitochondrial myopathy different from regular muscle fatigue?
+#### How is mitochondrial myopathy different from regular muscle fatigue?
 
 Regular fatigue tends to improve with rest, hydration, or sleep. Mitochondrial-related fatigue often persists despite those, worsens with repeated small efforts (like climbing stairs multiple times), and may be accompanied by other systemic signs—such as temperature sensitivity, digestive irregularities, or inconsistent blood pressure readings.
 
-#### #### Do standard diabetes tests detect mitochondrial myopathy?
+#### Do standard diabetes tests detect mitochondrial myopathy?
 
 No—routine glucose or HbA1c tests do not assess mitochondrial function. They reflect blood sugar control, not *how* your cells use that fuel. Specialized tests—like lactate/pyruvate ratios, urinary organic acids, or plasma acylcarnitines—are needed to evaluate mitochondrial health directly.

@@ -88,22 +88,22 @@ Holiday diabetes management isn’t about perfection. It’s about noticing what
 
 ### FAQ
 
-#### #### Does late-night eating and fasting glucose affect blood pressure too?
+#### Does late-night eating and fasting glucose affect blood pressure too?
 
 Yes — indirectly but meaningfully. Disrupted overnight glucose metabolism activates the sympathetic nervous system and can elevate nighttime arterial pressure. Studies show adults with unstable fasting glucose often have flatter nocturnal BP dips (a risk factor for stroke and heart disease), especially when combined with late carbohydrate intake.
 
-#### #### How late is *too late* for eating if I want stable fasting glucose?
+#### How late is *too late* for eating if I want stable fasting glucose?
 
 For most adults aged 58–66 with prediabetes, finishing food by 8 p.m. aligns best with natural circadian enzyme rhythms. Eating after 9 p.m. — especially carbs — increases the odds of nocturnal glucose surges by over 3-fold, based on December CGM data.
 
-#### #### Can I still enjoy holiday treats without harming my fasting glucose?
+#### Can I still enjoy holiday treats without harming my fasting glucose?
 
 Absolutely — timing and pairing matter most. Enjoy cookies *earlier in the day*, ideally with protein or fiber (e.g., with a slice of cheese or a handful of berries). Save evenings for lighter, lower-glycemic options — and always prioritize sleep afterward.
 
-#### #### Is fasting glucose the only number I should watch during holiday diabetes management?
+#### Is fasting glucose the only number I should watch during holiday diabetes management?
 
 No. Post-meal glucose (especially 2 hours after dinner), overnight variability (measured via CGM), and HbA1c remain important — but *fasting glucose stability* is a powerful window into your liver’s circadian health. It reflects how well your body rests, recovers, and resets — not just how well you ate at noon.
 
-#### #### What’s the link between late-night eating and fasting glucose and insulin resistance?
+#### What’s the link between late-night eating and fasting glucose and insulin resistance?
 
 Late-night carbs trigger an insulin surge when your body expects low insulin — leading to reactive hypoglycemia, then rebound hyperglycemia. Over time, this repeated mismatch contributes to hepatic insulin resistance, where the liver stops “hearing” insulin’s signal to stop making glucose — a key step toward type 2 diabetes.

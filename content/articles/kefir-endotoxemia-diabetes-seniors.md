@@ -90,17 +90,17 @@ If you're unsure, talking to your doctor is always a good idea.
 
 ### FAQ
 
-#### #### Does kefir help endotoxemia in seniors with diabetes?
+#### Does kefir help endotoxemia in seniors with diabetes?
 Yes—but selectively. Clinical evidence shows certain strains (especially *Lactobacillus kefiranofaciens*) in traditionally fermented, low-sugar kefir can reduce LPS translocation and improve gut barrier markers in adults 70+. However, high-fructose commercial versions may worsen postprandial endotoxin release. Strain identity and sugar content are key.
 
-#### #### Is kefir safe for older adults with type 2 diabetes and recurrent UTIs?
+#### Is kefir safe for older adults with type 2 diabetes and recurrent UTIs?
 Generally yes—if chosen carefully. Plain, low-fructose kefir with documented beneficial strains may support urinary and gut health by reducing systemic inflammation and improving immune regulation. But if your UTIs flare shortly after consumption, fructose intolerance or strain mismatch could be contributing—and it’s worth pausing and reassessing with your provider.
 
-#### #### Can kefir endotoxemia diabetes seniors be measured at home?
+#### Can kefir endotoxemia diabetes seniors be measured at home?
 Not directly—but you can track meaningful proxies. Monitor patterns in UTI frequency, stool consistency (using the Bristol Stool Scale), daily energy levels, and even fasting glucose trends. For objective data, ask your doctor about serum LPS-binding protein (LBP) or zonulin testing—though these require a lab draw and aren’t routinely ordered.
 
-#### #### How much kefir should a 75-year-old with diabetes drink daily?
+#### How much kefir should a 75-year-old with diabetes drink daily?
 Start with 60 mL (¼ cup) once daily for 7 days. If tolerated, gradually increase to 120 mL (½ cup), preferably with food. Avoid exceeding 180 mL/day unless guided by a registered dietitian familiar with geriatric gut health. Longer fermentation (36+ hours) further lowers residual sugars—ideal for sensitive systems.
 
-#### #### Does homemade kefir reduce endotoxemia more than store-bought?
+#### Does homemade kefir reduce endotoxemia more than store-bought?
 Evidence suggests yes—when prepared correctly. Traditional kefir grains harbor greater microbial diversity and higher concentrations of kefiran-producing strains like *L. kefiranofaciens*. In contrast, many commercial products use simplified starter cultures and add sugars to offset sourness. A 2022 comparative analysis found home-fermented kefir had 3.2× more kefiran and 40% less free fructose than top-selling brands.

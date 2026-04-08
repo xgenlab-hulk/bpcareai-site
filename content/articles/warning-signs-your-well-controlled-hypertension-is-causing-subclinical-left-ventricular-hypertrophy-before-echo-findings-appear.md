@@ -79,17 +79,17 @@ Early detection of subclinical left ventricular hypertrophy signs offers real op
 
 ### FAQ
 
-#### #### What are the earliest signs of subclinical left ventricular hypertrophy?
+#### What are the earliest signs of subclinical left ventricular hypertrophy?
 The earliest signs of subclinical left ventricular hypertrophy include subtle ECG changes (like increased R-wave voltage or strain pattern), unexplained exertional dyspnea, early-onset fatigue, and nocturnal cough that begins within 2–3 hours of lying flat. These may appear before echocardiography shows measurable wall thickening.
 
-#### #### Can subclinical left ventricular hypertrophy signs be reversed?
+#### Can subclinical left ventricular hypertrophy signs be reversed?
 Yes—especially when identified early. Consistent BP control (<130/80 mm Hg), sodium reduction, aerobic exercise, and treatment of comorbidities like sleep apnea can lead to partial or full regression of LVH over 6–24 months.
 
-#### #### Are there blood pressure numbers that increase risk for subclinical left ventricular hypertrophy signs?
+#### Are there blood pressure numbers that increase risk for subclinical left ventricular hypertrophy signs?
 Yes. Even sustained BP in the “elevated” range (120–129/<80 mm Hg) or stage 1 hypertension (130–139/80–89 mm Hg) raises risk—particularly if present for 5+ years or accompanied by non-dipping nighttime BP.
 
-#### #### Does a normal ECG rule out subclinical left ventricular hypertrophy?
+#### Does a normal ECG rule out subclinical left ventricular hypertrophy?
 No. Standard ECG has only ~50% sensitivity for detecting LVH. A normal ECG doesn’t exclude subclinical left ventricular hypertrophy signs—especially in early stages. Clinical context and functional assessment remain essential.
 
-#### #### What tests besides echo detect subclinical left ventricular hypertrophy?
+#### What tests besides echo detect subclinical left ventricular hypertrophy?
 Cardiac MRI is the most sensitive imaging tool, but it’s not routine. Advanced echocardiographic techniques—like speckle-tracking strain imaging—can detect subtle contractile abnormalities before wall thickness increases. Biomarkers like NT-proBNP may also rise early, though they’re nonspecific.

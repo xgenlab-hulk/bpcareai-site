@@ -68,22 +68,22 @@ If you're unsure, talking to your doctor is always a good idea. And if you've no
 
 ### FAQ
 
-#### #### Does social eating pressure HbA1c deterioration happen only during holidays?
+#### Does social eating pressure HbA1c deterioration happen only during holidays?
 
 No—it can occur anytime food is tied to emotion or expectation (e.g., birthdays, family reunions, cultural celebrations). Holidays tend to concentrate these dynamics, making them easier to observe and address.
 
-#### #### Can social eating pressure HbA1c deterioration be reversed?
+#### Can social eating pressure HbA1c deterioration be reversed?
 
 Yes. Research shows that even modest behavioral shifts—like setting boundaries with compassion or practicing mindful eating—can stabilize or improve HbA1c within 3–6 months, especially when paired with clinical support.
 
-#### #### How does social eating pressure HbA1c relate to blood pressure?
+#### How does social eating pressure HbA1c relate to blood pressure?
 
 Chronic stress from repeated social pressure activates the sympathetic nervous system, which can elevate both glucose and arterial pressure over time. While they’re distinct measures, they often move in tandem—making holistic self-monitoring especially valuable.
 
-#### #### What’s a healthy HbA1c target for someone newly diagnosed at age 55?
+#### What’s a healthy HbA1c target for someone newly diagnosed at age 55?
 
 For most adults aged 53–64 without advanced complications, a target HbA1c of 6.0–6.9% is common—but your individual goal depends on lifestyle, medication, and overall health. Always discuss targets with your provider.
 
-#### #### Is “just one bite” really harmful for someone with prediabetes?
+#### Is “just one bite” really harmful for someone with prediabetes?
 
 Not inherently—but for many newly diagnosed adults, “just one bite” can spark cycles of guilt, compensatory restriction, or further pressure. What matters most is consistency in your values—not occasional exceptions.

@@ -48,17 +48,17 @@ In short, holiday baking doesn’t have to mean sacrificing joy or control. With
 
 ### FAQ  
 
-#### #### Why do I get blood sugar spikes from almond flour when it’s low-carb?  
+#### Why do I get blood sugar spikes from almond flour when it’s low-carb?  
 Almond flour is low in digestible carbs but high in fat—up to 50% by weight. In women 60+, slowed gastric motility delays digestion, causing prolonged glucose release from co-consumed carbohydrates (like bananas or applesauce in recipes). CGM studies show peak glucose often occurs at 120–150 minutes—not 60—with high-fat, low-carb baked goods.
 
-#### #### What are the worst holiday baking blood sugar spikes women 60+ should avoid?  
+#### What are the worst holiday baking blood sugar spikes women 60+ should avoid?  
 The top three triggers: 1) Date or fig paste (high fructose, low fiber integrity after heating), 2) “Sugar-free” chocolate chips containing maltodextrin or dextrose fillers, and 3) Granola-based crusts—even unsweetened—due to toasted oats’ increased starch gelatinization and GI (up to 70 when baked).
 
-#### #### Can holiday baking blood sugar spikes women 60+ affect blood pressure?  
+#### Can holiday baking blood sugar spikes women 60+ affect blood pressure?  
 Yes—repeated postprandial hyperglycemia (>160 mg/dL) contributes to endothelial dysfunction and oxidative stress, which may elevate systolic BP by 5–10 mm Hg acutely. Over time, this increases arterial stiffness—especially relevant for women managing both diabetes and hypertension.
 
-#### #### Is erythritol safe for holiday baking with diabetes?  
+#### Is erythritol safe for holiday baking with diabetes?  
 Pure erythritol is generally well-tolerated and has negligible glycemic impact (GI ≈ 0). However, most store-bought “erythritol blends” contain 30–50% maltodextrin (GI ≈ 85–105). Always read the full ingredient list—not just the front label.
 
-#### #### How can I test if a holiday recipe affects my blood sugar?  
+#### How can I test if a holiday recipe affects my blood sugar?  
 Use a standardized test: Eat a fixed portion (e.g., 1 cookie or ½ muffin) after an overnight fast, then measure glucose at 0, 60, and 120 minutes. Repeat with the same recipe 2–3 times across different days to identify consistent patterns—not single outliers.

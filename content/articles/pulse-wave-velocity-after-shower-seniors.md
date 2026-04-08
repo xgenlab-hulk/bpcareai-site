@@ -71,22 +71,22 @@ In short, arterial aging isn’t a fixed number—it’s a dynamic process. And 
 
 ### FAQ
 
-#### #### Is pulse wave velocity after shower seniors more accurate than clinic measurements?
+#### Is pulse wave velocity after shower seniors more accurate than clinic measurements?
 
 Yes—for detecting *early* arterial stiffness in adults 70+, especially with sarcopenic obesity. Clinic readings often occur in suboptimal conditions (fasting, cold rooms, anxiety), while post-shower states reveal how arteries behave under mild physiological stress. Studies report up to 20% greater sensitivity in detecting preclinical stiffness using timed post-bath assessments.
 
-#### #### What’s the ideal time to measure pulse wave velocity after shower seniors?
+#### What’s the ideal time to measure pulse wave velocity after shower seniors?
 
 The most revealing windows fall between minutes 2–12 post-shower—when thermal vasodilation peaks and postural circulation responses are most pronounced. For consistency, aim for the same window (e.g., minute 6) across weekly checks.
 
-#### #### Can I use a home BP cuff to measure pulse wave velocity after shower seniors?
+#### Can I use a home BP cuff to measure pulse wave velocity after shower seniors?
 
 Most standard upper-arm cuffs *cannot* calculate PWV. You’ll need a device specifically validated for PWV (e.g., some multi-site oscillometric monitors or tonometry-enabled wearables). Ask your clinician or cardiovascular nurse for guidance on accessible options.
 
-#### #### Does shower temperature affect pulse wave velocity after shower seniors?
+#### Does shower temperature affect pulse wave velocity after shower seniors?
 
 Yes—moderately warm water (98–102°F / 37–39°C) optimizes vasodilation without triggering excessive sympathetic response. Very hot showers (>104°F) may cause transient BP drops followed by rebound stiffness, skewing readings.
 
-#### #### How often should seniors measure pulse wave velocity after shower?
+#### How often should seniors measure pulse wave velocity after shower?
 
 Once weekly is sufficient for trend-spotting. Focus on consistency—not frequency. Pair it with other markers like morning BP, step count, and subjective energy levels to build a fuller picture of vascular resilience.

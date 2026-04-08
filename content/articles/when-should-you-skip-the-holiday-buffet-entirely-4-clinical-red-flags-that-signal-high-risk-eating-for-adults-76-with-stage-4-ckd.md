@@ -72,17 +72,17 @@ Choosing to *skip holiday buffet stage 4 ckd seniors* isn’t about isolation �
 
 ### FAQ
 
-#### #### When should seniors with stage 4 CKD skip the holiday buffet?
+#### When should seniors with stage 4 CKD skip the holiday buffet?
 Seniors with stage 4 CKD should consider skipping the holiday buffet if their latest labs show eGFR <25 mL/min/1.73m², phosphorus >5.0 mg/dL, potassium >4.8 mmol/L, or albumin <3.2 g/dL — especially if two or more values are outside range. These are objective red flags that signal higher risk from typical buffet foods.
 
-#### #### Is it really necessary to skip holiday buffet stage 4 ckd seniors?
+#### Is it really necessary to skip holiday buffet stage 4 ckd seniors?
 For some, yes — especially when lab values are elevated or symptoms like swelling, fatigue, or shortness of breath are present. But “skipping” doesn’t mean missing out. It means choosing safer, intentional ways to celebrate that protect your kidneys and heart.
 
-#### #### What are safer alternatives to traditional holiday foods for seniors with advanced CKD?
+#### What are safer alternatives to traditional holiday foods for seniors with advanced CKD?
 Try mashed cauliflower instead of potatoes, fresh apple slices instead of banana or orange, grilled white fish instead of ham or roast beef, and unsalted crackers with low-phosphorus cheese. Work with a renal dietitian to personalize options that align with your labs and preferences.
 
-#### #### Can I still attend holiday gatherings if I skip the buffet?
+#### Can I still attend holiday gatherings if I skip the buffet?
 Absolutely. Bring your own meal, focus on conversation and music, volunteer to pour drinks or help set the table — your presence brings meaning far beyond the plate. Many families deeply value your participation, no matter how you choose to eat.
 
-#### #### How often should seniors with stage 4 CKD check their labs before the holidays?
+#### How often should seniors with stage 4 CKD check their labs before the holidays?
 Ideally, labs should be reviewed within 2–4 weeks before major holiday events — especially eGFR, phosphorus, potassium, albumin, and hemoglobin. This helps guide food choices and gives your care team time to adjust recommendations if needed.

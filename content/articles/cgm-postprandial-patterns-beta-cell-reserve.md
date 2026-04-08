@@ -62,22 +62,22 @@ Recognizing your *cgm postprandial patterns beta cell reserve* doesn’t mean yo
 
 ### FAQ
 
-#### #### What do CGM postprandial patterns beta cell reserve actually tell me?
+#### What do CGM postprandial patterns beta cell reserve actually tell me?
 
 They reflect how efficiently your pancreas secretes insulin in response to food—and how that capacity changes over time. Unlike isolated glucose values, the *shape* of the curve reveals functional beta-cell health, including first-phase response, amplitude, and recovery speed.
 
-#### #### How often should I check for cgm postprandial patterns beta cell reserve changes?
+#### How often should I check for cgm postprandial patterns beta cell reserve changes?
 
 Review patterns weekly for trends—not daily noise. Look for consistent shifts over 4–6 weeks. Significant changes (e.g., delayed peaks becoming more frequent, or loss of early glucose suppression) warrant discussion with your care team.
 
-#### #### Can cgm postprandial patterns beta cell reserve improve with lifestyle changes?
+#### Can cgm postprandial patterns beta cell reserve improve with lifestyle changes?
 
 Yes—studies show that modest weight loss (5–7%), resistance training 2x/week, and Mediterranean-style eating can restore partial first-phase insulin secretion even in adults with prediabetes. Improvement often appears as earlier, sharper glucose declines post-meal.
 
-#### #### Is a flatline on my CGM always a sign of healthy beta-cell reserve?
+#### Is a flatline on my CGM always a sign of healthy beta-cell reserve?
 
 Not necessarily. In older adults, it may reflect reduced meal-related insulin demand due to lower muscle mass or slower gastric emptying—or even early beta-cell exhaustion masked by low-carb intake. Context (diet, activity, meds) matters more than the shape alone.
 
-#### #### At what age should I start paying close attention to cgm postprandial patterns beta cell reserve?
+#### At what age should I start paying close attention to cgm postprandial patterns beta cell reserve?
 
 Around age 50 is a practical starting point—especially if you have risk factors like family history, hypertension, or abdominal weight gain. Beta-cell decline accelerates subtly after 45, and CGM offers a sensitive, noninvasive way to track it years before HbA1c rises.

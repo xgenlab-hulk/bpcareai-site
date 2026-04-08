@@ -83,22 +83,22 @@ Science continues to reveal how beautifully interconnected our bodies are—how 
 
 ### FAQ
 
-#### #### Does gum disease directly cause coronary artery disease?
+#### Does gum disease directly cause coronary artery disease?
 
 No—gum disease does not *directly cause* coronary artery disease (CAD), but research shows it contributes to chronic inflammation that can worsen endothelial function and accelerate atherosclerosis. Think of it as one supportive factor among many—not a sole trigger.
 
-#### #### Can treating gum disease improve coronary artery function?
+#### Can treating gum disease improve coronary artery function?
 
 Yes—studies including PERIODONT-HEART suggest that intensive periodontal therapy (deep cleaning, antibiotics if needed, and maintenance) is associated with improved flow-mediated dilation and reduced systemic inflammation within 3–6 months. While it won’t reverse established blockages, it supports healthier microvascular responses.
 
-#### #### How is gum disease and coronary artery function measured in clinical practice?
+#### How is gum disease and coronary artery function measured in clinical practice?
 
 Clinically, gum disease is assessed via periodontal probing and X-rays, while coronary artery function is inferred through tests like flow-mediated dilation (FMD), high-sensitivity CRP, and sometimes stress echocardiography. Cardiac MRI—used in research—is not yet routine but highlights the biological plausibility of the link.
 
-#### #### Is there a link between gum disease and high blood pressure?
+#### Is there a link between gum disease and high blood pressure?
 
 Yes. Multiple studies report associations between periodontitis and elevated systolic and diastolic BP, likely due to shared inflammatory pathways. Adults with severe gum disease are about 20% more likely to have stage 1 hypertension (≥130/80 mm Hg) compared to those with healthy gums—even after accounting for age and weight.
 
-#### #### Should I see a cardiologist if I have advanced gum disease?
+#### Should I see a cardiologist if I have advanced gum disease?
 
 Not automatically—but it’s wise to mention it during your next cardiology or primary care visit, especially if you also have risk factors like diabetes, high cholesterol, or stable angina. Your care team can decide whether additional vascular screening (like FMD or hs-CRP) would be helpful for your personal picture.

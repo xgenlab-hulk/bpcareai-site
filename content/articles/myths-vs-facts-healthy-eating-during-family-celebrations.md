@@ -55,17 +55,17 @@ In short, celebrating with loved ones shouldn’t mean choosing between connecti
 
 ### FAQ
 
-#### #### Does fasting before a holiday meal help control blood pressure?
+#### Does fasting before a holiday meal help control blood pressure?
 No—fasting can actually cause blood pressure to drop too low, then rebound sharply after eating. It also increases the risk of overeating and blood sugar swings. Instead, eat a balanced, protein-rich breakfast (like Greek yogurt with berries or scrambled eggs with spinach) to support steady energy and arterial pressure.
 
-#### #### Are holiday diet myths vs facts relevant for people with high blood pressure?
+#### Are holiday diet myths vs facts relevant for people with high blood pressure?
 Yes—absolutely. Common myths like “skip dessert to stay healthy” or “just one salty dish won’t matter” overlook how sodium and refined carbs affect vascular tone and fluid balance—especially in adults over 50. Knowing the *holiday diet myths vs facts* helps you make choices aligned with your heart health goals.
 
-#### #### How can I enjoy holiday treats without raising my blood pressure?
+#### How can I enjoy holiday treats without raising my blood pressure?
 Focus on portions and pairing: one small slice of pie *with* a cup of herbal tea and a walk afterward supports digestion and circulation. Limit added salt (not just at the table—check labels on canned soups or deli meats), and aim for <1,500 mg sodium per day if you have hypertension.
 
-#### #### Is it true that one bad meal ruins weeks of healthy eating?
+#### Is it true that one bad meal ruins weeks of healthy eating?
 No. Your body adapts continuously. While a very high-sodium or high-sugar meal may cause a temporary BP increase (typically resolving within 24–48 hours), it doesn’t erase prior progress. Consistency over time—not perfection in a single moment—is what truly supports long-term heart health.
 
-#### #### What’s the biggest holiday diet myth vs fact everyone should know?
+#### What’s the biggest holiday diet myth vs fact everyone should know?
 That “healthy eating during family gatherings” means restriction or sacrifice. Truth? It means intention—not elimination. Choosing roasted carrots over candied ones, sharing appetizers instead of clearing the plate, or stepping outside for fresh air after dinner are all powerful, joyful acts of self-care.

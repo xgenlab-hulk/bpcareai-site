@@ -46,22 +46,22 @@ Seasonal shifts in blood pressure are incredibly common—and completely managea
 
 ### FAQ
 
-#### #### Does cold weather really affect how well my blood pressure medication works?
+#### Does cold weather really affect how well my blood pressure medication works?
 
 Yes—cold temperatures cause blood vessels to narrow, raising arterial pressure. This doesn’t mean your medication has stopped working, but it may mean your current dose needs fine-tuning to maintain safe, consistent control.
 
-#### #### Should I adjust my blood pressure medication in winter on my own?
+#### Should I adjust my blood pressure medication in winter on my own?
 
 No—never change your dose or stop taking prescribed medication without consulting your doctor. Self-adjusting can lead to dangerous drops or spikes in BP. Instead, share your home readings and concerns at your next visit.
 
-#### #### Are certain blood pressure medications more affected by winter than others?
+#### Are certain blood pressure medications more affected by winter than others?
 
 Diuretics may be less effective in colder months due to reduced sweating and fluid loss, while vasodilators like calcium channel blockers may need closer monitoring as vasoconstriction intensifies. However, individual response varies widely—so personalized assessment matters more than general rules.
 
-#### #### Why does my blood pressure go up in winter even though I’m taking my medication regularly?
+#### Why does my blood pressure go up in winter even though I’m taking my medication regularly?
 
 Several factors combine: vasoconstriction, lower physical activity, increased indoor salt intake, and sometimes even holiday-related stress or sleep disruption. These don’t override your medication—they simply add physiological demands your current regimen may need to accommodate.
 
-#### #### How often should I check my blood pressure in winter?
+#### How often should I check my blood pressure in winter?
 
 For most seniors managing hypertension, checking twice daily (morning and evening) for 5–7 days per month—and sharing those trends with your provider—is a helpful, evidence-informed habit.
