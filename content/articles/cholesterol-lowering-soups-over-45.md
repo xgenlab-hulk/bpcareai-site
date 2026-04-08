@@ -1,22 +1,19 @@
 ---
-title: >-
-  5 Cholesterol-Lowering Soups You Can Make Over 45
+title: 5 Cholesterol-Lowering Soups You Can Make Over 45
 slug: cholesterol-lowering-soups-over-45
 description: >-
-  Cholesterol lowering soups you can make over 45 — proven to lower LDL by 14.3 mg/dL in 8 weeks (JAHA, 2022). Warm, easy, pantry-friendly. Try one today.
+  Cholesterol lowering soups you can make over 45 — proven to lower LDL by 14.3
+  mg/dL in 8 weeks (JAHA, 2022). Warm, easy, pantry-friendly. Try one today.
 date: '2026-04-05'
 updated: '2026-04-05'
-primaryKeyword: >-
-  cholesterol lowering soups you can make over 45
+primaryKeyword: cholesterol lowering soups you can make over 45
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
-  - >-
-    best-warm-heart-healthy-soups-for-seniors-with-high-cholesterol
-  - >-
-    soups-lower-blood-pressure-naturally
-  - >-
-    does-stress-raise-cholesterol-after-35
+  - best-warm-heart-healthy-soups-for-seniors-with-high-cholesterol
+  - soups-lower-blood-pressure-naturally
+  - does-stress-raise-cholesterol-after-35
+  - cholesterol-lowering-soups-seniors
 ---
 
 # 5 Cholesterol-Lowering Soups You Can Make Over 45

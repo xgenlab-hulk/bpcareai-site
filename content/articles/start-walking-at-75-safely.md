@@ -15,6 +15,7 @@ relatedSlugs:
   - 30g-fiber-safe-after-65
   - walking-minutes-per-day-seniors-over-65
   - exercise-at-65-weekly-plan
+  - walk-cold-weather-after-70
 ---
 
 # How to Start Walking at 75 — Safe, Doctor-Approved Steps

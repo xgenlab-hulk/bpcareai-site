@@ -1,5 +1,86 @@
 [
   {
+    "slug": "walk-cold-weather-after-70",
+    "title": "How to Walk Safely in Cold Weather After 70",
+    "description": "How to walk in cold weather after 70: Stay warm & reduce heart attack risk (7% increase per 10°F drop) with smart layering and pacing. Start walking safely",
+    "date": "2026-04-08",
+    "updated": "2026-04-08",
+    "primaryKeyword": "how to walk in cold weather after 70",
+    "topicCluster": "lifestyle-interventions",
+    "image": "",
+    "relatedSlugs": [
+      "is-it-safe-to-walk-outside-in-freezing-temperatures-with-heart-disease",
+      "start-walking-at-75-safely",
+      "why-winter-increases-heart-attack-risk-in-seniors-over-70",
+      "5-things-you-should-know-before-starting-a-heart-smart-walking-group-especially-if-you-re-78-with-spinal-stenosis-and-mild-aortic-stenosis",
+      "10-winter-safe-exercises-for-heart-health-after-65"
+    ]
+  },
+  {
+    "slug": "soft-foods-seniors-no-teeth",
+    "title": "Soft Foods for Seniors With No Teeth That Fill You Up",
+    "description": "Soft foods for seniors with no teeth that deliver 1.0–1.2g protein/kg daily (muscle support) and 25–30g fiber—no dentures needed. Eat well, stay strong.",
+    "date": "2026-04-08",
+    "updated": "2026-04-08",
+    "primaryKeyword": "soft foods for seniors with no teeth",
+    "topicCluster": "nutrition-diet-management",
+    "image": "",
+    "relatedSlugs": [
+      "nutrient-dense-foods-low-appetite-seniors",
+      "best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods",
+      "holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues",
+      "best-holiday-appetizers-for-adults-70-with-denture-instability-soft-high-protein-low-residue-options-that-don-t-require-chewing-force",
+      "calcium-rich-foods-without-dairy-seniors"
+    ]
+  },
+  {
+    "slug": "safe-a1c-level-at-70",
+    "title": "What’s a Safe A1C Level at 70? (7.0–7.5% Recommended)",
+    "description": "Safe A1C level at 70 is typically 7.0–7.5% — not <7.0% — to avoid hypoglycemia (low blood sugar). Learn your personalized target and when to call your doctor.",
+    "date": "2026-04-08",
+    "updated": "2026-04-08",
+    "primaryKeyword": "safe A1C level at 70",
+    "topicCluster": "diabetes-management",
+    "image": "",
+    "relatedSlugs": [
+      "what-a1c-too-high-50-year-old"
+    ]
+  },
+  {
+    "slug": "cholesterol-lowering-soups-seniors",
+    "title": "5 Cholesterol-Lowering Soups for Seniors (Ready in 20 Min)",
+    "description": "Cholesterol lowering soups for seniors: One bowl delivers 6.2g soluble fiber (LDL-lowering 'good' fiber) — proven to lower LDL by 9.3 mg/dL. Make heart-healthy",
+    "date": "2026-04-08",
+    "updated": "2026-04-08",
+    "primaryKeyword": "cholesterol lowering soups for seniors",
+    "topicCluster": "nutrition-diet-management",
+    "image": "",
+    "relatedSlugs": [
+      "cholesterol-lowering-soups-over-45",
+      "best-warm-heart-healthy-soups-for-seniors-with-high-cholesterol",
+      "10-foods-that-lower-post-dinner-glucose-variability-without-raising-ldl-for-adults-66-79-with-type-2-diabetes-and-familial-hypercholesterolemia",
+      "how-fiber-rich-diets-support-heart-health-in-people-over-60",
+      "soups-lower-blood-pressure-naturally"
+    ]
+  },
+  {
+    "slug": "check-blood-pressure-at-home-correctly",
+    "title": "How to Check Blood Pressure at Home Correctly — Easy Steps",
+    "description": "Learn how to check blood pressure at home correctly: 30% of readings are inaccurate due to errors. Use an upper-arm cuff, rest 5 min (lowers systolic by 6.2",
+    "date": "2026-04-08",
+    "updated": "2026-04-08",
+    "primaryKeyword": "how to check blood pressure at home correctly",
+    "topicCluster": "hypertension-management",
+    "image": "",
+    "relatedSlugs": [
+      "home-bp-cuff-calibration-arthritis-mobility",
+      "check-blood-pressure-at-night-after-35",
+      "warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation",
+      "a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor",
+      "false-low-blood-pressure-readings-lymphedema"
+    ]
+  },
+  {
     "slug": "ldl-target-55-year-old-woman",
     "title": "What Should LDL Be for a 55-Year-Old Woman? (Guideline Targets)",
     "description": "What should LDL be for a 55 year old woman? Most healthy women aim for <100 mg/dL; postmenopause, LDL often rises 10–15 mg/dL. Learn your target & when to act.",
@@ -209,7 +290,8 @@
     "relatedSlugs": [
       "best-warm-heart-healthy-soups-for-seniors-with-high-cholesterol",
       "soups-lower-blood-pressure-naturally",
-      "does-stress-raise-cholesterol-after-35"
+      "does-stress-raise-cholesterol-after-35",
+      "cholesterol-lowering-soups-seniors"
     ]
   },
   {
@@ -323,7 +405,8 @@
       "5-things-you-should-know-before-starting-a-heart-smart-walking-group-especially-if-you-re-78-with-spinal-stenosis-and-mild-aortic-stenosis",
       "30g-fiber-safe-after-65",
       "walking-minutes-per-day-seniors-over-65",
-      "exercise-at-65-weekly-plan"
+      "exercise-at-65-weekly-plan",
+      "walk-cold-weather-after-70"
     ]
   },
   {
@@ -35851,11 +35934,11 @@
   },
   {
     "slug": "the-hidden-dangers-of-indoor-heating-on-blood-pressure",
-    "title": "How Overheated Rooms Quietly Raise Blood Pressure in Winter",
-    "description": "Dry heated air above 72F causes dehydration that raises systolic BP 5-10 mmHg. Seniors with high blood pressure (hypertension) face added winter risk.",
+    "title": "Does Heat Raise or Lower Blood Pressure? Indoor Risks",
+    "description": "Indoor heating can spike systolic BP by 12 mmHg in adults 55+. How temperature and humidity affect your readings, with cardiologist-backed tips.",
     "date": "2025-12-02",
     "updated": "2026-03-29",
-    "primaryKeyword": "can indoor heating raise blood pressure in winter",
+    "primaryKeyword": "does heat raise or lower blood pressure",
     "topicCluster": "hypertension-management",
     "image": "",
     "relatedSlugs": [
@@ -36186,11 +36269,11 @@
   },
   {
     "slug": "holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues",
-    "title": "Soft Food Holiday Meals for Seniors: Festive Ideas for Dental Issues",
-    "description": "Dry mouth (xerostomia) affects 30% of medicated older adults. 12 easy-to-chew holiday recipes that protect protein and vitamin intake for seniors with dentures.",
+    "title": "Soft Foods for Elderly with No Teeth: Heart-Healthy Holiday Meals",
+    "description": "Soft meals for seniors with no teeth — low-sodium turkey, pureed soups, high-protein mashed recipes that support BP and cholesterol.",
     "date": "2025-12-01",
     "updated": "2026-03-28",
-    "primaryKeyword": "soft food holiday meals for seniors with dental issues",
+    "primaryKeyword": "soft food for elderly with no teeth",
     "topicCluster": "nutrition-diet-management",
     "image": "",
     "relatedSlugs": [
@@ -36829,11 +36912,11 @@
   },
   {
     "slug": "understanding-a1c-goals-for-seniors-with-diabetes",
-    "title": "A1C Goals by Age: Safe Targets for 65, 70, 75, 80+ (2026 ADA)",
-    "description": "What A1C should a 70-year-old aim for? ADA says 7.0-7.5% if healthy, 8.0-8.5% with complications. See the age-by-age target chart and when to adjust meds.",
+    "title": "HbA1c Target for Elderly Diabetics: ADA & AHA Guidelines (2024)",
+    "description": "Ideal HbA1c target for adults 65+? Evidence-based A1C goals for frailty, hypoglycemia risk, and polypharmacy — cardiologist reviewed.",
     "date": "2025-11-28",
     "updated": "2026-03-31",
-    "primaryKeyword": "a1c goals by age 70 elderly diabetics",
+    "primaryKeyword": "hba1c target for elderly diabetics",
     "topicCluster": "diabetes-management",
     "image": "",
     "relatedSlugs": [
@@ -37151,11 +37234,11 @@
   },
   {
     "slug": "the-impact-of-long-term-nsaid-use-on-heart-disease-risk",
-    "title": "Can You Take Ibuprofen With Heart Disease? AHA Safety Guide",
-    "description": "NSAIDs like ibuprofen raise BP 3-5 mmHg and increase heart attack risk 20-40% for adults 55+. See the AHA safety chart: which painkillers are safe with heart disease.",
+    "title": "Do Ibuprofen & Naproxen Raise Blood Pressure? AHA Guidelines Explained",
+    "description": "AHA confirms NSAIDs like ibuprofen can raise BP. What adults 35+ need to know about heart risks, safer alternatives, and when to see your doctor.",
     "date": "2025-11-27",
     "updated": "2026-03-31",
-    "primaryKeyword": "nsaids raise blood pressure ibuprofen heart disease risk seniors",
+    "primaryKeyword": "ibuprofen raise blood pressure american heart association",
     "topicCluster": "cardiac-disease-management",
     "image": "",
     "relatedSlugs": [
