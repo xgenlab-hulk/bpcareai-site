@@ -1,0 +1,20 @@
+{
+  "date": "2026-04-06",
+  "period": "3-day",
+  "impressionsChange": -47.663551401869164,
+  "clicksChange": -100,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "soup to lower cholesterol",
+      "reason": "排名跃升 18.0 位（77.0 → 59.0）",
+      "score": 54,
+      "recentImpressions": 1,
+      "baselineImpressions": 5,
+      "recentPosition": 59,
+      "baselinePosition": 77
+    }
+  ]
+}
