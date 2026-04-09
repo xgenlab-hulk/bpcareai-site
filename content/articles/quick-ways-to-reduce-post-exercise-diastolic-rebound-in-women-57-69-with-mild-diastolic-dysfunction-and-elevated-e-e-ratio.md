@@ -9,9 +9,9 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
-    best-breathing-patterns-for-lowering-diastolic-bp-in-under-5-minutes-backed-by-real-time-hrv-and-baroreflex-sensitivity-testing-in-adults-59-74
+    resonant-breathing-diastolic-pressure-reduction
   - >-
-    quick-ways-to-normalize-diastolic-bp-within-48-hours-using-breathing-biofeedback-validated-in-2-rcts-for-adults-with-isolated-diastolic-hypertension
+    resonant-breathing-diastolic-pressure-reduction
   - >-
     can-daily-5-minute-isometric-handgrip-training-lower-ambulatory-diastolic-bp-in-sedentary-women-63-71-within-10-days
   - >-

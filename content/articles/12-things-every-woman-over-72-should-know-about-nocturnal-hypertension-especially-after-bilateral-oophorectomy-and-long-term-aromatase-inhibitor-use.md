@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     what-causes-sudden-morning-hypotension-in-adults-77-with-parkinson-s-disease-early-orthostatic-hypotension-and-nocturnal-polyuria
   - >-
-    5-things-every-woman-over-65-with-menopause-related-vasomotor-symptoms-and-nighttime-bp-surge-should-know
+    what-causes-nocturnal-hypertension-in-women-52-65-with-perimenopausal-hot-flashes-and-elevated-nighttime-norepinephrine
 ---
 
 # Why Won't My Blood Pressure Dip at Night After Cancer Treatment—And What Can I Do About It?

@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
   - >-
-    how-chronic-low-grade-gum-inflammation-alters-endothelial-nitric-oxide-synthase-coupling-in-adults-64-80-with-stage-1-hypertension-and-mild-periodontitis
+    gum-inflammation-endothelial-nitric-oxide-synthase-coupling
   - >-
     how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65
   - >-
-    natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling
+    boost-nitric-oxide-naturally-seniors
   - >-
-    how-low-dose-naltrexone-ldn-affects-endothelial-inflammation-and-bp-variability-in-adults-56-70-with-long-standing-rheumatoid-arthritis-and-stage-1-hypertension
+    low-dose-naltrexone-and-blood-pressure-arthritis
 ---
 
 # How Lead Exposure Resistant Hypertension May Be Tied to Older Homes—and What You Can Do About It

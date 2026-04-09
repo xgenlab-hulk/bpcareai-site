@@ -9,13 +9,13 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    why-your-blood-pressure-spikes-during-video-calls-and-how-to-stabilize-it-with-micro-breathing-anchors-for-adults-60-73-with-social-anxiety
+    video-call-blood-pressure-spike-family
   - >-
-    how-intergenerational-storytelling-grandparent-grandchild-teen-alters-sympathetic-vagal-balance-and-diastolic-pressure-trajectories-in-adults-64-with-prehypertension
+    storytelling-blood-pressure-sympathetic-balance
   - >-
     does-taking-your-blood-pressure-while-sitting-cross-legged-really-raise-readings-what-2023-research-says-for-adults-58
   - >-
-    can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns
+    cold-face-immersion-baroreflex-seniors
   - >-
     how-prolonged-sitting-during-remote-work-alters-splanchnic-vein-compliance-and-daytime-bp-variability-in-adults-52-64
 ---

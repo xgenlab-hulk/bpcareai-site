@@ -18,7 +18,7 @@ relatedSlugs:
   - >-
     the-truth-about-heart-healthy-frozen-dinners-labeled-for-seniors-why-81-exceed-2023-aha-sodium-limits-for-left-ventricular-hypertrophy
   - >-
-    the-truth-about-heart-healthy-canned-soups-labeled-for-seniors-why-68-contain-hidden-sodium-loaders-that-bypass-label-claims-in-adults-69-with-salt-sensitive-hypertension
+    senior-labeled-canned-soup-sodium-trap
 ---
 
 # What the Data Reveals: A Senior-Friendly Meal Kits Sodium Fiber Analysis for Heart-Healthy Holiday Eating

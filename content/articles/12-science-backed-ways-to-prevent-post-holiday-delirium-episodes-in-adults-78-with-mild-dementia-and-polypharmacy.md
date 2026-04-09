@@ -9,7 +9,7 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
+    12-science-backed-ways-to-prevent-post-holiday-hyponatremia-in-adults-78-living-alone-and-taking-ssris-or-thiazides
   - >-
     5-things-every-caregiver-should-know-before-taking-an-aging-parent-to-a-new-year-s-eve-party
   - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes

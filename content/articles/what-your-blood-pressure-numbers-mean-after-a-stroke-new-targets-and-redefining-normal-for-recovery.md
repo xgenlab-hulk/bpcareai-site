@@ -11,7 +11,7 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    blood-pressure-vs-pulse-pressure-why-the-gap-between-your-two-numbers-matters-more-than-you-think
+    foods-stabilize-pulse-pressure-seniors-orthostasis
   - >-
     blood-pressure-after-bariatric-surgery-why-some-patients-see-dramatic-drops-and-others-don-t
   - >-

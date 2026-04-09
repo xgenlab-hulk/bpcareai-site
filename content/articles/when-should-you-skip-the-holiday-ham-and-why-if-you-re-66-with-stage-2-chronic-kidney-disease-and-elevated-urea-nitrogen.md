@@ -9,7 +9,7 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    5-things-everyone-over-65-should-know-before-eating-a-traditional-holiday-ham-including-nitrate-sensitivity-sulfite-reactions-and-renal-clearance-rates
+    holiday-ham-safety-over-65
   - >-
     what-to-eat-and-skip-at-a-family-potluck-if-you-re-on-dialysis-and-over-70-a-kidney-safe-strategy-that-respects-cultural-traditions
   - >-

@@ -9,7 +9,7 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
-    the-ultimate-guide-to-holiday-eating-for-adults-with-late-stage-macular-degeneration-focusing-on-meal-visibility-texture-cues-and-nutrient-dense-low-vision-adaptations
+    holiday-eating-macular-degeneration
   - >-
     simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
   - >-

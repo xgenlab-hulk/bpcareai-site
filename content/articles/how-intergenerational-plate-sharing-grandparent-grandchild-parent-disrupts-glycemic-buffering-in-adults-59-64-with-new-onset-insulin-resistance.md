@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     12-science-backed-ways-to-buffer-the-glycemic-impact-of-holiday-pie-crust-in-adults-64-with-prediabetes-and-high-fasting-insulin
   - >-
-    natural-ways-to-support-glycemic-resilience-during-holiday-social-events-without-supplements-or-diet-pills-for-adults-55-64-newly-diagnosed-with-type-2-diabetes
+    glycemic-resilience-holiday-social-events
   - >-
     how-intergenerational-food-prep-affects-post-meal-glucose-spikes-in-adults-58-72-with-prediabetes-and-slow-gastric-emptying
   - >-
-    7-hidden-portion-distortions-that-sabotage-blood-sugar-control-at-family-dinners-especially-for-adults-58-74-with-prediabetes-and-slow-gastric-emptying
+    portion-distortion-family-dinner-prediabetes
 ---
 
 # How Intergenerational Plate-Sharing Undermines Glycemic Buffering in Adults 59–64 With Early Insulin Resistance

@@ -12,11 +12,11 @@ relatedSlugs:
   - >-
     how-chronic-low-grade-dehydration-alters-taste-bud-sensitivity-and-drives-holiday-sugar-cravings-in-adults-over-68
   - >-
-    when-to-worry-about-stable-a1c-and-rising-fasting-glucose-especially-in-adults-68-84-with-type-2-diabetes-chronic-kidney-disease-stage-3-and-declining-albumin
+    a1c-reliability-with-low-albumin
   - >-
     what-causes-sudden-drop-in-egfr-after-starting-sglt2-inhibitors-in-adults-69-with-borderline-hydration-status-and-low-albumin
   - >-
-    myths-vs-facts-normal-fasting-glucose-readings-in-adults-with-diabetes-and-chronic-kidney-disease-stage-3a-why-your-lab-may-be-missing-early-glycemic-dysregulation
+    fasting-glucose-ckd-stage-3a-diabetes
 ---
 
 # Why Glycated Albumin Can Mislead in Older Adults With CKD and Chronic Dehydration

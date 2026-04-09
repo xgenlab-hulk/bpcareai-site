@@ -9,7 +9,7 @@ topicCluster: metabolic-health
 image: ''
 relatedSlugs:
   - >-
-    5-things-every-woman-over-60-with-type-2-diabetes-and-polycystic-ovarian-syndrome-history-should-know-about-androgen-decline-and-metabolic-acceleration
+    pcos-diabetes-menopause-androgen-decline
   - >-
     when-to-worry-about-unexplained-weight-gain-in-women-over-55-with-type-2-diabetes-even-with-stable-calorie-intake-and-no-new-medications
   - >-

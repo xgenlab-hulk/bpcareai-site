@@ -11,13 +11,12 @@ relatedSlugs:
   - >-
     natural-ways-to-support-pancreatic-enzyme-output-during-large-holiday-meals-without-ppis-or-supplements-backed-by-4-rcts-in-adults-60-78
   - >-
-    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
+    how-holiday-stress-cortisol-spikes-impair-glp-1-secretion-in-adults-64-with-obesity-and-prediabetes-and-why-mindful-breathing-beats-just-relax-advice
   - >-
-    12-science-backed-ways-to-reduce-postprandial-glucose-spikes-without-medication-focused-on-meal-sequencing-chewing-pace-and-gastric-emptying-modulation
+    reduce-postprandial-glucose-without-medication
   - >-
     when-to-eat-before-a-family-gathering-if-you-re-on-glp-1-agonists-and-over-65
-  - >-
-    natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia
+
 ---
 
 # Natural GLP-1 Support for Holiday Meals in Seniors — Simple, Science-Backed Habits That Work

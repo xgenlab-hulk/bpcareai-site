@@ -19,7 +19,7 @@ relatedSlugs:
   - >-
     natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
   - >-
-    why-sudden-cold-exposure-at-holiday-open-houses-can-trigger-paroxysmal-afib-in-adults-with-subclinical-aortic-stiffness-and-what-to-do-within-90-seconds
+    cold-exposure-and-paroxysmal-afib-in-elderly
 ---
 
 # How to Improve Baroreflex Sensitivity Naturally—Science-Backed Strategies for Adults 55–74

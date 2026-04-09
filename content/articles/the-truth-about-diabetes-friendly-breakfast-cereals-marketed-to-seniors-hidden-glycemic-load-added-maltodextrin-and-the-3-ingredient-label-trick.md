@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
   - >-
-    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging
+    the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
 ---
 
 # What Seniors Need to Know About ‘Diabetes-Friendly’ Cereal Labels — Unmasking Hidden Sugars and Glycemic Traps

@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     is-it-safe-to-use-saunas-after-a-recent-myocardial-infarction-guidelines-for-men-62-71-based-on-2024-aha-consensus
   - >-
-    can-you-safely-use-infrared-heating-pads-for-chronic-back-pain-while-taking-ace-inhibitors-evidence-based-thermal-thresholds-for-adults-72-with-stage-2-hypertension-and-mild-ckd
+    infrared-pad-ace-inhibitor-safety
   - >-
     can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
   - >-
-    can-you-safely-use-sauna-therapy-after-a-recent-diabetic-foot-ulcer-closure-evidence-based-temperature-duration-and-hydration-thresholds-for-adults-68-with-peripheral-neuropathy
+    sauna-therapy-diabetic-foot-ulcer-recovery
   - >-
-    can-you-safely-resume-resistance-training-after-aortic-valve-replacement-evidence-based-thresholds-for-systolic-pressure-response-and-lvot-velocity-in-adults-67-with-mechanical-valves
+    resistance-training-after-aortic-valve-replacement
 ---
 
 # Sauna Use with ACE Inhibitors in Seniors: A Gentle, Evidence-Informed Guide for Heart Health

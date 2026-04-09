@@ -9,10 +9,10 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55
+    7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - >-
-    7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
   - holiday-heart-syndrome-in-men-over-60-unique-risks-and-prevention-tips
 ---

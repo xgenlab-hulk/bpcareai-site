@@ -19,7 +19,7 @@ relatedSlugs:
   - >-
     quick-ways-to-reset-gut-microbiome-after-rich-holiday-meals-without-probiotics-for-adults-65-80-with-type-2-diabetes-and-constipation-predominant-ibs
   - >-
-    natural-ways-to-maintain-gastric-acid-secretion-without-ppis-during-holiday-feasting-using-betaine-hcl-timing-zinc-carnosine-in-adults-64-with-atrophic-gastritis
+    gastric-acid-support-without-ppi-seniors
 ---
 
 # Gentle Gut Guarding During Holiday Feasting — A Smart, Science-Supported Approach for Adults 62+

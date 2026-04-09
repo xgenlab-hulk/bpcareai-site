@@ -9,13 +9,13 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-improve-microvascular-coronary-reactivity-without-nitroglycerin-backed-by-5-rcts-in-women-52-68-with-inoca-ischemia-with-no-obstructive-cad
+    microvascular-coronary-reactivity-natural
   - >-
-    5-natural-ways-to-improve-coronary-microvascular-function-without-medication-especially-for-women-with-inoca-and-normal-coronary-angiograms
+    microvascular-coronary-reactivity-natural
   - >-
-    does-daily-20-minute-forest-bathing-shinrin-yoku-improve-endothelial-progenitor-cell-mobilization-in-men-60-75-with-stage-1-hypertension-and-low-cd34-vegfr2-counts
+    forest-bathing-endothelial-progenitor-cells-hypertension
   - >-
-    natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling
+    boost-nitric-oxide-naturally-seniors
   - >-
     natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
 ---

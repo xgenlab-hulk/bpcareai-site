@@ -11,11 +11,11 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
-    how-cold-weather-indoor-air-dryness-alters-nasal-mucosal-glucose-absorption-and-why-that-affects-fasting-glucose-readings-in-adults-74-with-type-1-diabetes
+    dry-air-fasting-glucose-accuracy
   - >-
-    does-daily-5-minute-nasal-breathing-practice-improve-baroreflex-sensitivity-and-reduce-postprandial-blood-pressure-lability-in-adults-63-77-with-type-2-diabetes-and-orthostatic-hypotension
+    nasal-breathing-baroreflex-diabetes
   - >-
-    does-daily-5-minute-cold-water-face-immersion-really-improve-postprandial-insulin-sensitivity-in-adults-66-with-diastolic-dysfunction-and-mild-hypoglycemia-awareness-loss
+    cold-water-face-immersion-insulin-sensitivity
   - >-
     simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature
   - >-

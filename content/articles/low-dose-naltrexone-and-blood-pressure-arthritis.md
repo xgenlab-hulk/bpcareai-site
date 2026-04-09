@@ -11,11 +11,11 @@ relatedSlugs:
   - >-
     how-chronic-low-dose-naltrexone-ldn-modulates-il-17-and-treg-activity-in-adults-58-73-with-type-1-diabetes-and-hashimoto-s-thyroiditis
   - >-
-    how-chronic-low-dose-lead-exposure-from-vintage-home-renovation-dust-alters-heme-synthesis-and-nitric-oxide-bioavailability-in-adults-57-74-with-resistant-hypertension
+    lead-exposure-resistant-hypertension
   - >-
     how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
   - >-
-    natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling
+    boost-nitric-oxide-naturally-seniors
   - >-
     best-low-impact-resistance-exercises-for-blood-pressure-control-in-adults-with-knee-osteoarthritis-and-stage-1-hypertension
 ---

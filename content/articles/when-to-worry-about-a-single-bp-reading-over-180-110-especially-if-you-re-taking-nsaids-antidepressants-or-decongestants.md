@@ -11,7 +11,7 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    7-hidden-medication-interactions-that-elevate-heart-failure-readmission-risk-within-30-days-of-hospital-discharge-especially-in-adults-75-with-polypharmacy
+    medication-interactions-heart-failure-readmission
   - >-
     does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
   - >-

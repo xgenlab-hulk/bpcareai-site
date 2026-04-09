@@ -12,11 +12,10 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    cholesterol-lowering-soups-over-45
+    cholesterol-lowering-soups-seniors
   - >-
     best-warm-heart-healthy-soups-for-seniors-with-high-cholesterol
-  - >-
-    10-foods-that-lower-post-dinner-glucose-variability-without-raising-ldl-for-adults-66-79-with-type-2-diabetes-and-familial-hypercholesterolemia
+
   - >-
     how-fiber-rich-diets-support-heart-health-in-people-over-60
   - >-

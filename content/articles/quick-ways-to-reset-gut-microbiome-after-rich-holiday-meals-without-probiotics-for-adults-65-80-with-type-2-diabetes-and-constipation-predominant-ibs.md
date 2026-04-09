@@ -16,8 +16,7 @@ relatedSlugs:
     quick-ways-to-counteract-dinner-lunch-gap-hypoglycemia-in-adults-72-with-type-2-diabetes-gastroparesis-like-symptoms-and-long-overnight-fasts
   - >-
     12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis
-  - >-
-    10-foods-that-disrupt-gut-microbiota-diversity-and-worsen-insulin-resistance-in-adults-54-66-with-type-2-diabetes-and-chronic-constipation
+
 ---
 
 # Gentle, Food-First Ways to Reset Gut Microbiome After Holiday Meals No Probiotics — Especially for Adults 65–80 With Type 2 Diabetes and Constipation-Predominant IBS

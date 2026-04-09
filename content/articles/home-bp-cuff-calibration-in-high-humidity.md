@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor
   - >-
-    quick-ways-to-calibrate-your-home-blood-pressure-cuff-using-the-triple-reading-posture-reset-validated-in-adults-with-arthritis-and-limited-shoulder-mobility
+    home-bp-cuff-calibration-arthritis-mobility
   - >-
     a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
   - >-
-    best-home-blood-pressure-cuffs-with-integrated-ecg-for-adults-78-with-atrial-fibrillation-and-severe-arthritis-accuracy-fit-and-rhythm-detection-compared
+    home-bp-cuff-with-ecg-for-afib-seniors
   - >-
     5-things-everyone-over-76-should-know-about-using-blood-pressure-cuffs-with-smartwatches-especially-with-atrial-fibrillation-and-wrist-edema
 ---

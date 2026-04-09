@@ -12,11 +12,11 @@ image: ''
 relatedSlugs:
   - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
   - >-
-    how-social-dancing-twice-weekly-alters-cardiac-autonomic-tone-and-reduces-glycemic-variability-in-adults-with-diabetes-and-mild-orthostatic-hypotension
+    social-dancing-glycemic-variability-orthostatic-hypotension
   - how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes
   - why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope
   - >-
-    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
+    how-holiday-stress-cortisol-spikes-impair-glp-1-secretion-in-adults-64-with-obesity-and-prediabetes-and-why-mindful-breathing-beats-just-relax-advice
 ---
 
 # How Caregiver Stress and Glycemic Variability in Seniors Interact—And What You Can Gently Do About It

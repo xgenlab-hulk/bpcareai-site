@@ -9,11 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-indoor-fireplace-smoke-alters-endothelial-nitric-oxide-synthase-activity-and-worsens-post-meal-glucose-uptake-in-adults-71-with-type-2-diabetes-and-copd
+    fireplace-smoke-glucose-uptake-seniors-copd
+
   - >-
-    12-foods-that-support-mitochondrial-biogenesis-in-skeletal-muscle-without-increasing-oxidative-stress-for-adults-63-with-t2d-and-low-vo2-max
-  - >-
-    best-low-heat-cooking-methods-for-preserving-polyphenol-bioavailability-in-berries-and-onions-for-adults-64-with-type-2-diabetes-and-mild-cerebral-hypoperfusion
+    low-heat-cooking-polyphenols-diabetes
   - >-
     how-intergenerational-cooking-stress-alters-postprandial-insulin-sensitivity-in-women-61-76-with-abdominal-obesity-and-cortisol-dysregulation
   - >-

@@ -12,7 +12,7 @@ image: ''
 relatedSlugs:
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
   - >-
-    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
   - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat

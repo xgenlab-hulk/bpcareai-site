@@ -14,7 +14,7 @@ relatedSlugs:
     10-foods-that-support-glycemic-resilience-during-heat-waves-especially-for-adults-70-with-diabetes-and-medication-induced-hyponatremia-risk
   - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
   - >-
-    holiday-travel-with-diabetes-after-75-5-critical-prep-steps-you-re-missing-especially-for-air-travel-long-car-rides
+    how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
   - >-
     5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
 ---

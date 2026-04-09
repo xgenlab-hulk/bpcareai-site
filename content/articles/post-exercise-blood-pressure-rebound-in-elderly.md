@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     what-causes-postprandial-hypertension-a-sudden-30-mmhg-systolic-rise-within-90-minutes-of-eating-in-adults-69-85
   - >-
-    when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67
+    blood-pressure-drops-walking-diabetes-neuropathy
   - >-
     how-chronic-constipation-triggers-nocturnal-hypertension-spikes-in-women-over-65-with-pelvic-floor-dysfunction
   - >-
-    why-sudden-cold-exposure-at-holiday-open-houses-can-trigger-paroxysmal-afib-in-adults-with-subclinical-aortic-stiffness-and-what-to-do-within-90-seconds
+    cold-exposure-and-paroxysmal-afib-in-elderly
 ---
 
 # Understanding Post-Exercise Blood Pressure Rebound in Elderly Adults: Why BP May Rise After a Gentle Walk

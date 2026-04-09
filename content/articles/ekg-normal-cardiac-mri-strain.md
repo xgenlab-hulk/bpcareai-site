@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     myths-vs-facts-my-a1c-is-fine-so-my-heart-is-safe-what-myocardial-strain-imaging-reveals-in-adults-57-74-with-normal-a1c-but-elevated-troponin-t
   - >-
-    warning-signs-your-well-controlled-diabetes-is-masking-early-diabetic-cardiomyopathy-especially-if-you-re-63-and-have-normal-ejection-fraction
+    warning-signs-your-stable-diabetes-is-masking-early-diabetic-cardiomyopathy-even-with-normal-ejection-fraction-and-no-symptoms-in-adults-59-68
 ---
 
 # When Your EKG Is Normal But Your Heart Still Feels Off: What Cardiac MRI Strain Mapping Reveals in Adults 56–68 With Palpitations

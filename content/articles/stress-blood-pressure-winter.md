@@ -12,11 +12,11 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
-    can-cold-weather-raise-your-blood-pressure
+    does-layering-clothes-help-regulate-blood-pressure-in-cold-climates
   - >-
-    why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
+    does-layering-clothes-help-regulate-blood-pressure-in-cold-climates
   - >-
-    how-does-cold-weather-affect-blood-pressure-in-older-adults
+    does-layering-clothes-help-regulate-blood-pressure-in-cold-climates
   - >-
     the-link-between-winter-depression-and-high-blood-pressure-in-older-adults
   - >-

@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-70-taking-ssris-ppis-and-anticholinergics
+    could-your-medications-be-raising-your-blood-pressure
   - >-
     what-causes-sudden-onset-of-palpitations-after-starting-a-new-antidepressant-in-adults-66-with-long-standing-hypothyroidism
   - >-
-    7-hidden-medication-interactions-that-raise-blood-pressure-in-seniors-taking-antidepressants-antihistamines-or-nsaids
+    could-your-medications-be-raising-your-blood-pressure
   - >-
-    10-medication-interactions-that-raise-bp-without-warning-from-otc-decongestants-to-topical-testosterone-in-men-over-68
+    could-your-medications-be-raising-your-blood-pressure
   - >-
-    7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-over-70-taking-nsaids-antidepressants-or-decongestants
+    could-your-medications-be-raising-your-blood-pressure
 ---
 
 # What You Should Know About Antidepressant Calcium Channel Blocker Interaction and Blood Pressure in Older Adults

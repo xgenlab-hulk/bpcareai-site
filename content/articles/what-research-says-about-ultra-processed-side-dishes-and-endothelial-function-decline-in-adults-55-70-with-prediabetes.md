@@ -18,8 +18,7 @@ relatedSlugs:
     what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
   - >-
     the-truth-about-heart-healthy-plant-based-burgers-do-they-lower-ldl-or-worsen-endothelial-function-in-adults-with-prediabetes-over-58
-  - >-
-    10-foods-that-increase-pulse-wave-velocity-within-2-hours-and-what-to-eat-instead-if-you-re-61-with-elevated-cac-score
+
 ---
 
 # What Science Tells Us About Ultra-Processed Foods, Endothelial Function, and Prediabetes in Adults 55–70

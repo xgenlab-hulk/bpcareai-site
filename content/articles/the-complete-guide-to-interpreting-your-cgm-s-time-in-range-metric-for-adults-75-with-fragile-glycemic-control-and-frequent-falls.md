@@ -11,9 +11,9 @@ relatedSlugs:
   - >-
     when-should-you-switch-from-fasting-glucose-to-cgm-derived-time-in-range-metrics-for-holiday-decision-making-a-threshold-framework-for-adults-55-69
   - >-
-    the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
+    cgm-interpretation-early-dementia-diabetes
   - >-
-    myths-vs-facts-my-blood-sugar-is-fine-because-my-cgm-shows-flat-lines-especially-for-adults-over-65-with-sluggish-interstitial-fluid-turnover-and-delayed-glucose-signal
+    cgm-flat-line-myth-elderly
   - >-
     warning-signs-your-holiday-medication-routine-is-failing-even-if-your-a1c-looks-fine
   - >-

@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries
   - >-
-    7-overlooked-environmental-triggers-that-elevate-nighttime-heart-rate-variability-in-adults-74-with-mild-copd-from-humidifier-mineral-dust-to-bedroom-wall-paint-vocs
+    nighttime-heart-rate-variability-environmental-triggers
 ---
 
 # Environmental Factors That Accelerate Coronary Artery Calcification in Seniors on Long-Term Statins

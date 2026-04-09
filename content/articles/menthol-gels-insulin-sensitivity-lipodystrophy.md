@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     does-daily-4-minute-cold-shower-exposure-improve-insulin-signaling-in-adults-with-abdominal-obesity-and-prediabetes-aged-55-67
   - >-
-    does-daily-5-minute-cold-water-face-immersion-really-improve-postprandial-insulin-sensitivity-in-adults-66-with-diastolic-dysfunction-and-mild-hypoglycemia-awareness-loss
+    cold-water-face-immersion-insulin-sensitivity
 ---
 
 # How Menthol Gels Affect Insulin Sensitivity and Mask Lipodystrophy in Older Adults on Long-Term Insulin Therapy

@@ -11,7 +11,7 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-vitamin-d3-supplementation-for-seasonal-mood-support-in-adults-with-stage-3-ckd-over-65
+    the-truth-about-vitamin-d-supplementation-for-seasonal-depression-in-men-over-72-with-chronic-kidney-disease-stage-3
   - >-
     the-hidden-role-of-vitamin-d-deficiency-in-winter-depression-among-nursing-home-residents
   - how-vitamin-d-deficiency-impacts-heart-health-in-winter

@@ -12,8 +12,7 @@ relatedSlugs:
     10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
   - >-
     what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
-  - >-
-    12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib
+
   - >-
     11-foods-that-support-mitochondrial-resilience-during-holiday-feasting-backed-by-skeletal-muscle-biopsy-data-in-adults-63-79
   - >-

@@ -18,7 +18,7 @@ relatedSlugs:
   - >-
     the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70
   - >-
-    how-chronic-loneliness-after-retirement-accelerates-arterial-stiffness-and-raises-systolic-bp-in-adults-58-74
+    how-chronic-loneliness-after-retirement-alters-autonomic-tone-and-elevates-nocturnal-systolic-pressure-in-adults-68-with-preserved-ejection-fraction
 ---
 
 # How Hearing Aid Use May Influence Your Systolic Blood Pressure Over Time — Especially With Age-Related Hearing Loss

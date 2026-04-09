@@ -11,7 +11,7 @@ relatedSlugs:
   - blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ
   - how-to-monitor-blood-pressure-at-home-during-winter-a-senior-s-guide
   - >-
-    blood-pressure-vs-pulse-pressure-why-the-gap-between-your-two-numbers-matters-more-than-you-think
+    foods-stabilize-pulse-pressure-seniors-orthostasis
   - >-
     when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
   - >-

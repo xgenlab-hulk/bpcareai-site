@@ -10,15 +10,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    can-daily-4-minute-cold-face-immersion-lower-central-systolic-pressure-in-men-59-71-with-morning-hypertension-and-elevated-pulse-wave-velocity
+    cold-face-immersion-baroreflex-seniors
   - >-
     can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
   - >-
-    can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns
+    cold-face-immersion-baroreflex-seniors
   - >-
     can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension
   - >-
-    can-daily-3-minute-cold-face-immersion-diving-reflex-protocol-reduce-central-aortic-systolic-pressure-in-men-62-78-with-elevated-augmentation-index
+    cold-face-immersion-baroreflex-seniors
 ---
 
 # Can Cold Water Face Immersion Really Support Vagal Tone and Glucose Stability in Older Adults With Diabetes and Orthostatic Hypotension?

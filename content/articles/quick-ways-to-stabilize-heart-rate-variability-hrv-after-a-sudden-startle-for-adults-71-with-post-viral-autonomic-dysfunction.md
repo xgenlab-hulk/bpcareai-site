@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     quick-ways-to-restore-postprandial-parasympathetic-tone-within-20-minutes-for-adults-61-75-with-type-2-diabetes-and-vagal-withdrawal-measured-by-rmssd
   - >-
-    natural-ways-to-stabilize-baroreflex-sensitivity-after-stroke-in-adults-65-with-impaired-bp-response-to-standing-and-reduced-hrv
+    natural-baroreflex-sensitivity-enhancement
   - >-
-    quick-ways-to-normalize-heart-rate-variability-within-90-minutes-of-alcohol-consumption-for-adults-56-67-with-low-baseline-hrv-and-social-drinking-habit
+    normalize-heart-rate-variability-after-alcohol
   - >-
     best-pre-dinner-stress-reduction-protocols-for-adults-57-69-with-high-functioning-anxiety-and-alcohol-triggered-pvcs
   - >-
-    12-science-backed-ways-to-improve-baroreflex-sensitivity-without-medication-for-adults-67-80-with-orthostatic-hypotension-and-recurrent-falls
+    natural-baroreflex-sensitivity-enhancement
 ---
 
 # Gentle, Evidence-Informed Ways to Stabilize HRV After Startle in Adults 71+ With Post-Viral Autonomic Dysfunction

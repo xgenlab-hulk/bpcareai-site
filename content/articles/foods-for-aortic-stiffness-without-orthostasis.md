@@ -11,15 +11,14 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    10-foods-that-stabilize-postprandial-systolic-diastolic-gap-without-reducing-overall-blood-pressure-for-adults-76-with-wide-pulse-pressure-and-mild-orthostasis
+    foods-stabilize-pulse-pressure-seniors-orthostasis
   - >-
-    10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers
+    foods-stabilize-pulse-pressure-seniors-orthostasis
   - >-
-    12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness
+    foods-stabilize-pulse-pressure-seniors-orthostasis
   - >-
-    10-foods-that-stabilize-systolic-diastolic-gap-without-lowering-overall-bp-for-adults-69-with-wide-pulse-pressure-and-preserved-cognitive-function
-  - >-
-    5-foods-that-lower-central-aortic-systolic-pressure-without-reducing-brachial-diastolic-for-adults-70-with-wide-pulse-pressure-and-mild-cognitive-impairment
+    foods-stabilize-pulse-pressure-seniors-orthostasis
+
 ---
 
 # Foods for Aortic Stiffness Without Orthostasis: Nutrient-Smart Choices for Adults 64+ With Isolated Systolic Hypertension

@@ -11,7 +11,7 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-10-minute-morning-sunlight-exposure-vs-6-minute-evening-blue-blocking-glasses-impact-on-circadian-bp-dip-in-adults-61-78-with-non-dipping-pattern
+    sunlight-vs-blue-blocking-glasses-blood-pressure-dip
   - >-
     can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
   - >-

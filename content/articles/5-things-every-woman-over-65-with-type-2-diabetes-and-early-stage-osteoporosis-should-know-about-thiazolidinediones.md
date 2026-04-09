@@ -16,7 +16,7 @@ relatedSlugs:
     when-to-worry-about-unexplained-muscle-cramps-at-night-in-women-over-68-with-diabetes-and-diuretic-use
   - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
   - >-
-    a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
+    walking-vs-standing-post-dinner-glucose
 ---
 
 # TZDs Weakening Your Bones? What Women 65+ With Diabetes Need to Know

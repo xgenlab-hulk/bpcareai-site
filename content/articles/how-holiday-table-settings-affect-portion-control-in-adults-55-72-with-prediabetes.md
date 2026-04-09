@@ -11,8 +11,7 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
-  - >-
-    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
+
   - >-
     how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
   - >-

@@ -13,9 +13,9 @@ relatedSlugs:
   - >-
     natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
   - >-
-    why-sudden-cold-exposure-at-holiday-open-houses-can-trigger-paroxysmal-afib-in-adults-with-subclinical-aortic-stiffness-and-what-to-do-within-90-seconds
+    cold-exposure-and-paroxysmal-afib-in-elderly
   - >-
-    quick-ways-to-normalize-diastolic-bp-within-48-hours-using-breathing-biofeedback-validated-in-2-rcts-for-adults-with-isolated-diastolic-hypertension
+    resonant-breathing-diastolic-pressure-reduction
   - >-
     can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
 ---

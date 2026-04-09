@@ -9,8 +9,7 @@ primaryKeyword: holiday foods blood sugar blood pressure seniors 70
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
-  - >-
-    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
+
   - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
   - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes

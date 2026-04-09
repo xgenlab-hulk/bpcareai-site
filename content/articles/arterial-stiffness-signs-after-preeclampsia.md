@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     warning-signs-of-hypertensive-retinopathy-progression-that-appear-before-vision-changes-detected-via-smartphone-fundus-imaging-in-adults-71
   - >-
-    12-science-backed-times-to-measure-pulse-wave-velocity-after-a-shower-not-just-in-fasting-state-for-adults-70-with-sarcopenic-obesity-and-suspected-arterial-stiffness
+    pulse-wave-velocity-after-shower-seniors
 ---
 
 # Early Arterial Stiffness Signs After Preeclampsia — What Women Over 63 on Aromatase Inhibitors Should Know

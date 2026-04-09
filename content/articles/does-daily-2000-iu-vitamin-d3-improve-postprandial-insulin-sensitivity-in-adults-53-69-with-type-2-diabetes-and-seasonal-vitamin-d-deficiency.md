@@ -11,7 +11,7 @@ relatedSlugs:
   - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
   - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
   - >-
-    the-truth-about-vitamin-d3-supplementation-for-seasonal-mood-support-in-adults-with-stage-3-ckd-over-65
+    the-truth-about-vitamin-d-supplementation-for-seasonal-depression-in-men-over-72-with-chronic-kidney-disease-stage-3
   - >-
     a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
   - >-

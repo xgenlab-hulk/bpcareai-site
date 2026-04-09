@@ -19,7 +19,7 @@ relatedSlugs:
   - >-
     simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
   - >-
-    the-ultimate-guide-to-holiday-eating-for-adults-with-late-stage-macular-degeneration-focusing-on-meal-visibility-texture-cues-and-nutrient-dense-low-vision-adaptations
+    holiday-eating-macular-degeneration
 ---
 
 # Smart Holiday Eating for Macular Health: Boosting Lutein Bioavailability the Gentle, Science-Supported Way

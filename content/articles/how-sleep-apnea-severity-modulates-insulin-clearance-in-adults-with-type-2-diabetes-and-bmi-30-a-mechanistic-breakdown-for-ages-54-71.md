@@ -18,7 +18,7 @@ relatedSlugs:
   - >-
     when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension
   - >-
-    how-chronic-low-grade-inflammation-from-periodontitis-drives-postprandial-hyperglycemia-in-adults-with-long-standing-diabetes-and-why-scaling-alone-isn-t-enough
+    periodontitis-postprandial-hyperglycemia
 ---
 
 # How Sleep Apnea Affects Insulin Clearance in Adults With Type 2 Diabetes—What Happens When Breathing Stops at Night

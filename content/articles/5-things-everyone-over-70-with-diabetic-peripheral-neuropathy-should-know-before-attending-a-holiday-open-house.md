@@ -15,7 +15,7 @@ relatedSlugs:
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
   - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
   - >-
-    best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60
+    strength-training-peripheral-neuropathy-seniors
 ---
 
 # What Everyone Over 70 with Diabetic Peripheral Neuropathy Needs to Know About Diabetic Neuropathy Holiday Open House Safety

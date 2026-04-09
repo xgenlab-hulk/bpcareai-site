@@ -9,8 +9,7 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
-  - >-
-    10-foods-seniors-80-can-share-with-grandkids-at-holiday-meals-without-triggering-hypoglycemia-or-gi-distress
+
   - best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
   - >-
     best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation

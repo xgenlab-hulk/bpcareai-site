@@ -11,13 +11,13 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-slow-cooked-sweet-potatoes-with-brown-sugar-butter-vs-roasted-with-cinnamon-pecans-impact-on-postprandial-endothelial-function-in-adults-58-69-with-metabolic-syndrome
+    sweet-potatoes-roasted-vs-slow-cooked-endothelial-function
   - >-
-    a-vs-b-traditional-roast-turkey-skin-on-herb-rubbed-vs-slow-braised-turkey-leg-bone-in-low-sodium-broth-impact-on-postprandial-uric-acid-in-men-62-79-with-gout-and-mild-ckd
+    turkey-preparation-gout-uric-acid-comparison
   - >-
-    a-vs-b-slow-cooked-herb-roasted-turkey-breast-vs-deep-fried-turkey-leg-which-preserves-more-bioavailable-zinc-and-supports-immune-resilience-in-seniors-with-low-serum-zinc
+    turkey-preparation-zinc-bioavailability-seniors
   - >-
-    a-vs-b-homemade-bone-broth-soup-simmered-24-hours-vs-low-sodium-canned-vegetable-soup-impact-on-endothelial-function-in-adults-71-with-mild-hypertension
+    bone-broth-vs-canned-soup-endothelial-function
   - >-
     10-ways-to-reduce-advanced-glycation-end-products-ages-in-holiday-roasts-without-eliminating-meat-for-adults-67-with-diabetic-nephropathy
 ---

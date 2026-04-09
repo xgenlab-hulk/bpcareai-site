@@ -11,7 +11,7 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-daily-low-dose-aspirin-initiation-at-age-55-vs-age-65-for-primary-prevention-what-the-2024-uspstf-reanalysis-says-about-net-benefit-in-adults-with-cac-score-100
+    aspirin-primary-prevention-cacs-score
   - >-
     what-are-the-earliest-retinal-microvascular-changes-that-predict-coronary-artery-calcification-in-men-52-64-with-non-alcoholic-fatty-liver-disease
   - >-
@@ -19,7 +19,7 @@ relatedSlugs:
   - >-
     warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
   - >-
-    how-chronic-low-dose-aspirin-use-alters-prostacyclin-thromboxane-balance-and-worsens-peripheral-vasoconstriction-in-adults-68-83-with-hypertension-and-claudication
+    low-dose-aspirin-prostacyclin-thromboxane-vasoconstriction
 ---
 
 # What the Evidence Shows: Aspirin, Diabetic Retinopathy, and Men Aged 68–80 With Early-Stage Disease

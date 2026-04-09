@@ -18,7 +18,7 @@ relatedSlugs:
     best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options
   - can-strength-training-lower-heart-disease-risk-after-60
   - >-
-    what-research-says-about-high-intensity-interval-training-hiit-vs-continuous-moderate-exercise-for-pulse-pressure-widening-in-adults-52-66-with-prehypertension
+    hiit-vs-walking-pulse-pressure-prehypertension
 ---
 
 # Can Resistance Training Left Ventricular Hypertrophy Be Reversed in Older Adults With Controlled Hypertension?

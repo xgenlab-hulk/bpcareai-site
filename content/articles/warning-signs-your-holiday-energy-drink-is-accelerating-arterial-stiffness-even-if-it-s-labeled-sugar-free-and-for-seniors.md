@@ -10,10 +10,9 @@ primaryKeyword: sugar-free energy drinks and arterial stiffness
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+
   - >-
-    10-foods-that-reduce-arterial-stiffness-within-2-hours-for-adults-60-75-with-hypertension-and-high-pulse-wave-velocity
-  - >-
-    natural-ways-to-support-arterial-stiffness-reduction-without-nitrate-rich-greens-using-cold-pressed-pomegranate-ginger-syrup-and-diaphragmatic-breathing-cycles-in-adults-67-with-elevated-pulse-wave-velocity
+    arterial-stiffness-reduction-without-nitrates
   - >-
     warning-signs-your-holiday-dessert-plate-is-accelerating-arterial-stiffness-especially-if-you-re-on-beta-blockers-and-over-73
   - >-

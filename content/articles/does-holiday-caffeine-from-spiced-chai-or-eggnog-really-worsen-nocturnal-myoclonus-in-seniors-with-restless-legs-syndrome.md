@@ -10,7 +10,7 @@ image: ''
 relatedSlugs:
   - can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors
   - >-
-    how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns
+    how-late-night-eggnog-consumption-alters-cardiac-repolarization-reserve-in-adults-58-65-with-subclinical-qt-prolongation
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
   - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50

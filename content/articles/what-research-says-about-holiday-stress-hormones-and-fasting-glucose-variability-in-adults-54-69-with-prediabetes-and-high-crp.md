@@ -9,12 +9,12 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    5-signs-your-holiday-stress-is-spiking-cortisol-and-raising-fasting-glucose-without-you-noticing
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
   - >-
-    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
+    how-holiday-stress-cortisol-spikes-impair-glp-1-secretion-in-adults-64-with-obesity-and-prediabetes-and-why-mindful-breathing-beats-just-relax-advice
   - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
   - >-
-    how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
   - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
 ---
 

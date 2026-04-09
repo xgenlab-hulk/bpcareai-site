@@ -15,11 +15,11 @@ relatedSlugs:
   - >-
     the-complete-guide-to-reading-holiday-food-labels-for-hidden-carbs-especially-for-adults-with-chronic-kidney-disease-and-diabetes
   - >-
-    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
+    are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - >-
     the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76
   - >-
-    the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose
+    are-sugar-free-treats-actually-safe-for-diabetics-over-65
 ---
 
 # Sugar-Free Holiday Punch and Kidney Disease: What Adults 73+ Should Know This Season

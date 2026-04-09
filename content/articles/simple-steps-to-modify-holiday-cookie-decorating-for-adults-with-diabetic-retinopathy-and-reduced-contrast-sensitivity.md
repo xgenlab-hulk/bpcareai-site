@@ -19,7 +19,7 @@ relatedSlugs:
   - >-
     can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
   - >-
-    the-ultimate-guide-to-holiday-eating-for-adults-with-late-stage-macular-degeneration-focusing-on-meal-visibility-texture-cues-and-nutrient-dense-low-vision-adaptations
+    holiday-eating-macular-degeneration
 ---
 
 # Adapting Holiday Cookie Decorating for Adults With Diabetic Retinopathy and Reduced Contrast Sensitivity

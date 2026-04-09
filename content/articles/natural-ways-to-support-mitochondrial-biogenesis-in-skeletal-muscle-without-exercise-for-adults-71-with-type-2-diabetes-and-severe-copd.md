@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-cardiac-myocytes-after-age-65-using-fasting-mimicking-diets-cold-water-immersion-timing-and-specific-flavonoid-dosing
+    mitochondrial-biogenesis-heart-aging
 ---
 
 # Supporting Mitochondrial Biogenesis in Skeletal Muscle—Gentle, Science-Backed Strategies for Adults 71+ With Type 2 Diabetes and Severe COPD

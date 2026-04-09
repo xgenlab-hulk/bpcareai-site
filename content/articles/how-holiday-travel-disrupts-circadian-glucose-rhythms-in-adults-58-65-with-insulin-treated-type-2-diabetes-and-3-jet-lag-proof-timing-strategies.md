@@ -13,10 +13,9 @@ relatedSlugs:
   - >-
     how-does-holiday-travel-disrupt-basal-insulin-requirements-in-adults-62-75-with-type-1-diabetes
   - >-
-    how-to-adjust-insulin-dosing-during-holiday-travel-across-time-zones-for-adults-55-72-with-type-1-diabetes-and-frequent-hypoglycemia
+    how-holiday-travel-disrupts-circadian-glucose-rhythms-in-adults-58-65-with-insulin-treated-type-2-diabetes-and-3-jet-lag-proof-timing-strategies
   - the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
-  - >-
-    simple-steps-to-adjust-your-holiday-meal-timing-for-optimal-circadian-glucose-rhythms-in-adults-73-with-advanced-sleep-phase-syndrome
+
 ---
 
 # Protecting Your Glucose Rhythms During Holiday Travel: Smart Timing Strategies for Adults 58–65 on Insulin

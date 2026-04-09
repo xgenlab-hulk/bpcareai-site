@@ -13,11 +13,10 @@ relatedSlugs:
   - >-
     top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season
   - >-
-    a-vs-b-continuous-glucose-monitoring-with-real-time-alerts-vs-intermittent-flash-glucose-monitoring-for-preventing-nocturnal-hypoglycemia-in-adults-75-with-nocturnal-hypoglycemia-associated-autonomic-failure
+    cgms-vs-flash-glucose-monitoring-seniors-hypoglycemia
   - >-
     best-portable-glucose-monitors-for-holiday-travel-in-2024-ranked-by-accuracy-in-cold-weather-battery-life-and-tsa-friendly-design
-  - >-
-    5-things-everyone-over-68-should-know-about-using-continuous-glucose-monitors-during-holiday-travel-especially-with-airport-body-scanners-and-cabin-pressure-changes
+
   - >-
     5-things-you-should-know-before-starting-a-continuous-glucose-monitor-cgm-if-you-re-67-with-low-vision-tremor-or-dexterity-loss
 ---

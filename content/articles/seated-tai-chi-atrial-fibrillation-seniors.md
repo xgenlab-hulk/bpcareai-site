@@ -11,15 +11,15 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
-    can-you-safely-practice-chair-tai-chi-while-recovering-from-atrial-fibrillation-ablation-evidence-based-movement-thresholds-for-atrial-stretch-reduction-and-pulmonary-vein-reconnection-risk-in-adults-61
+    chair-tai-chi-after-afib-ablation-safety
   - >-
     best-low-impact-resistance-exercises-for-adults-82-with-severe-osteoporosis-and-atrial-fibrillation-on-apixaban
   - >-
     best-breathing-patterns-to-reduce-atrial-fibrillation-burden-in-adults-62-with-paroxysmal-af-and-elevated-hs-crp
   - >-
-    does-daily-20-minute-tai-chi-reduce-central-aortic-pressure-in-adults-63-75-with-isolated-systolic-hypertension-and-gait-instability
+    can-daily-12-minute-seated-tai-chi-lower-24-hour-systolic-load-in-adults-71-with-isolated-systolic-hypertension-and-mild-gait-instability
   - >-
-    quick-ways-to-normalize-left-atrial-appendage-flow-velocity-using-diaphragmatic-breathing-and-postural-sequencing-especially-in-adults-65-with-cha-ds-vasc-3
+    left-atrial-appendage-flow-velocity-breathing
 ---
 
 # Safe Seated Tai Chi for Atrial Fibrillation Seniors: Gentle Movement That Supports Heart Rhythm and Stability

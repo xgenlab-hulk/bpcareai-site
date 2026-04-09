@@ -11,7 +11,7 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
+    cgm-interpretation-early-dementia-diabetes
   - how-kidney-function-declines-faster-in-older-adults-with-diabetes
   - >-
     10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63

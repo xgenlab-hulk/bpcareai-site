@@ -19,7 +19,7 @@ relatedSlugs:
   - >-
     what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
   - >-
-    warning-signs-of-right-heart-strain-that-appear-before-neck-vein-distension-detected-via-subcostal-echocardiographic-view-in-adults-77-with-copd-and-mild-pulmonary-hypertension
+    right-heart-strain-early-echocardiographic-signs
 ---
 
 # Early Right-Sided Heart Failure Signs in Adults 64+ With Untreated Sleep Apnea — Before the Obvious Ones Show Up

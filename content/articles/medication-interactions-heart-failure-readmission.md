@@ -19,7 +19,7 @@ relatedSlugs:
   - >-
     the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
   - >-
-    a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-greens-with-liquid-aminos-which-is-safer-for-heart-failure-patients-on-diuretics
+    collard-greens-heart-failure-diuretics-comparison
 ---
 
 # 7 Hidden Medication Interactions That Raise Heart Failure Readmission Risk—Especially for Adults 75+ on Multiple Medications

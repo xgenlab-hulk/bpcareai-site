@@ -15,8 +15,7 @@ relatedSlugs:
   - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
   - >-
     5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
-  - >-
-    warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history
+
 ---
 
 # Safe and Smart Diabetes Heatwave Management Elderly: A Practical Guide for Seniors 72+

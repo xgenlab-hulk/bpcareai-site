@@ -15,9 +15,9 @@ relatedSlugs:
   - >-
     natural-ways-to-support-post-meal-insulin-sensitivity-without-medication-3-evidence-based-strategies-validated-in-adults-61-74-with-prediabetes
   - >-
-    12-science-backed-ways-to-anchor-your-glycemic-response-before-entering-a-relative-s-kitchen-for-adults-54-68-with-insulin-resistance-and-high-postprandial-triglycerides
+    pre-kitchen-glycemic-anchoring-insulin-resistance
   - >-
-    12-holiday-foods-that-stabilize-blood-glucose-during-the-meal-not-just-after-with-glycemic-index-modifiers-fiber-synergy-and-timing-rules-for-adults-65
+    holiday-foods-stabilize-blood-glucose-during-meal
 ---
 
 # Can Vinegar in Holiday Gravy Help Manage Postprandial Glucose in Older Adults with Insulin Resistance and Hypertension?

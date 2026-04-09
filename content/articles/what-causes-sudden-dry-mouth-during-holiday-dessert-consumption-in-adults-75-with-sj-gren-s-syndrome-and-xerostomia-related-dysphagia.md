@@ -8,16 +8,15 @@ primaryKeyword: "dry mouth eating holiday desserts with Sjogren's"
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
-  - >-
-    natural-ways-to-support-salivary-amylase-production-during-holiday-meals-without-supplements-for-adults-75-with-age-related-xerostomia-and-early-dysphagia
+
   - >-
     how-chronic-low-grade-dehydration-alters-taste-bud-sensitivity-and-drives-holiday-sugar-cravings-in-adults-over-68
   - >-
-    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
+    are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - >-
     the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia
   - >-
-    the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose
+    are-sugar-free-treats-actually-safe-for-diabetics-over-65
 ---
 
 # Why Dry Mouth Holiday Dessert Sjögrens Syndrome Hits Harder — And What You Can Do

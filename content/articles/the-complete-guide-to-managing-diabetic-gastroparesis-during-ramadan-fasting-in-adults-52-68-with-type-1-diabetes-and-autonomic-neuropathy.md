@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
   - >-
-    the-complete-guide-to-managing-brittle-glucose-patterns-in-adults-55-69-with-type-1-diabetes-autonomic-neuropathy-and-frequent-unexplained-hypoglycemia
+    brittle-diabetes-autonomic-neuropathy-guide
 ---
 
 # Managing Diabetic Gastroparesis During Ramadan Fasting: A Practical Guide for Adults 52–68 With Type 1 Diabetes and Autonomic Neuropathy

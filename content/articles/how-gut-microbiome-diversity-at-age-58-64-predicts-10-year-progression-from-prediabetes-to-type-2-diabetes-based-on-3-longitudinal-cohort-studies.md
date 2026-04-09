@@ -15,7 +15,7 @@ relatedSlugs:
   - how-sleep-apnea-impacts-type-2-diabetes-control-after-50
   - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
   - >-
-    does-intermittent-fasting-improve-beta-cell-function-in-adults-with-recent-onset-type-2-diabetes-diagnosed-2-years-ago-a-16-week-rct-analysis
+    how-intermittent-fasting-affects-beta-cell-rest-and-regeneration-in-adults-54-68-with-new-onset-type-2-diabetes-what-12-week-clinical-trials-show
   - how-kidney-function-declines-faster-in-older-adults-with-diabetes
 ---
 

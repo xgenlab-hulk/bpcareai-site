@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     myths-vs-facts-my-bp-is-fine-because-my-pulse-is-steady-why-heart-rate-normalcy-doesn-t-rule-out-non-dipping-or-morning-surge
   - >-
-    the-ultimate-guide-to-interpreting-ambulatory-blood-pressure-reports-what-nocturnal-dipping-really-means-for-your-stroke-risk-after-72
+    ambulatory-blood-pressure-report-interpretation
   - >-
     how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
   - >-
-    quick-ways-to-normalize-nocturnal-bp-dipping-using-bedroom-temperature-pillow-height-and-supine-breathing-rhythm-for-adults-70-with-non-dipping-patterns
+    normalize-nocturnal-blood-pressure-dipping
 ---
 
 # Why a “Normal” Late-Night Blood Pressure Drop Might Be a Red Flag in Sleep Apnea and Mild Cognitive Impairment

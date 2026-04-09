@@ -11,7 +11,7 @@ relatedSlugs:
   - >-
     does-daily-2000-iu-vitamin-d3-improve-postprandial-insulin-sensitivity-in-adults-53-69-with-type-2-diabetes-and-seasonal-vitamin-d-deficiency
   - >-
-    the-truth-about-vitamin-d3-supplementation-for-seasonal-mood-support-in-adults-with-stage-3-ckd-over-65
+    the-truth-about-vitamin-d-supplementation-for-seasonal-depression-in-men-over-72-with-chronic-kidney-disease-stage-3
   - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
   - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
   - >-

@@ -9,10 +9,10 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-mulled-wine-vs-warm-spiced-apple-cider-for-blood-sugar-stability-in-women-over-60-with-insulin-resistance
+    a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome
   - the-truth-about-alcohol-and-blood-sugar-during-holiday-parties
   - >-
-    the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose
+    are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
   - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
 ---

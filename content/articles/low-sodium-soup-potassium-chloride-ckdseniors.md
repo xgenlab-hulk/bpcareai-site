@@ -17,9 +17,9 @@ relatedSlugs:
   - >-
     the-truth-about-low-sodium-canned-soups-for-adults-with-heart-failure-and-preserved-ejection-fraction-over-65
   - >-
-    the-truth-about-low-sodium-holiday-soups-sold-in-senior-grocery-aisles-why-83-contain-unlabeled-potassium-binding-excipients-that-impair-cardiac-conduction-in-adults-71-on-spironolactone
+    low-sodium-soup-potassium-excipients
   - >-
-    the-truth-about-heart-healthy-canned-soups-labeled-for-seniors-why-68-contain-hidden-sodium-loaders-that-bypass-label-claims-in-adults-69-with-salt-sensitive-hypertension
+    senior-labeled-canned-soup-sodium-trap
 ---
 
 # Hidden Electrolyte Risks in Low-Sodium Soup for Seniors with CKD — What You Need to Know About Potassium Chloride

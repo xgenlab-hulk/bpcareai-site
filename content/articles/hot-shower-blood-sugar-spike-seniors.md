@@ -11,11 +11,11 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    why-your-blood-glucose-monitor-readings-jump-after-a-15-minute-hot-bath-and-what-to-do-instead-for-accurate-tracking-in-adults-67-83-with-peripheral-neuropathy-and-poor-capillary-flow
+    hot-bath-affects-glucose-monitor-accuracy
   - >-
     why-does-blood-sugar-spike-after-a-10-minute-walk-in-adults-62-78-with-type-2-diabetes-and-diabetic-retinopathy
   - >-
-    12-science-backed-times-to-measure-pulse-wave-velocity-after-a-shower-not-just-in-fasting-state-for-adults-70-with-sarcopenic-obesity-and-suspected-arterial-stiffness
+    pulse-wave-velocity-after-shower-seniors
   - >-
     what-causes-blood-pressure-to-spike-during-morning-showering-in-adults-62-78-with-autonomic-neuropathy-and-orthostatic-hypotension
   - the-impact-of-hot-showers-on-blood-pressure-and-heart-rate

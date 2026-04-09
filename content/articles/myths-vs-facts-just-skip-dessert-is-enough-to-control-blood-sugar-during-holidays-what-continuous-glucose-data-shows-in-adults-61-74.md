@@ -13,7 +13,7 @@ relatedSlugs:
   - 7-dangerous-blood-sugar-mistakes-people-make-during-the-holidays
   - myths-vs-facts-holiday-eating-with-diabetes-after-50
   - >-
-    myths-vs-facts-i-ll-just-skip-my-insulin-today-so-i-can-enjoy-pie-what-actually-happens-to-beta-cell-stress-in-adults-with-long-standing-type-2-diabetes
+    skip-insulin-holiday-pie-beta-cell-stress
   - >-
     quick-ways-to-prevent-overnight-hypoglycemia-after-late-night-holiday-dessert-for-adults-54-66-on-sulfonylureas-or-basal-insulin
 ---

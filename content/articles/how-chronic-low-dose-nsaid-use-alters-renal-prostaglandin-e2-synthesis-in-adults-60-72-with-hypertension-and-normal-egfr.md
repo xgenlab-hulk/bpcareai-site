@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     how-long-term-nsaid-use-even-occasional-elevates-pulse-pressure-in-adults-64-with-aortic-root-dilation-3-8-cm-on-echo
   - >-
-    how-chronic-low-dose-aspirin-use-alters-prostacyclin-thromboxane-balance-and-worsens-peripheral-vasoconstriction-in-adults-68-83-with-hypertension-and-claudication
+    low-dose-aspirin-prostacyclin-thromboxane-vasoconstriction
   - >-
     does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
   - >-
     what-causes-morning-blood-pressure-spikes-in-adults-62-with-chronic-kidney-disease-and-nocturnal-polyuria
   - >-
-    7-hidden-medication-interactions-that-raise-blood-pressure-in-seniors-taking-antidepressants-antihistamines-or-nsaids
+    could-your-medications-be-raising-your-blood-pressure
 ---
 
 # How NSAID Use Affects Prostaglandin E2, Blood Pressure, and Kidney Health in Adults 60–72 With Hypertension

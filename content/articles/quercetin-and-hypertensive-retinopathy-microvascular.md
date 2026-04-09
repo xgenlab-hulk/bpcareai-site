@@ -11,7 +11,7 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    science-backed-ways-to-reverse-early-diabetic-retinopathy-without-laser-or-anti-vegf-using-targeted-flavonoid-bioavailability-and-retinal-capillary-pericyte-protection-in-adults-58-67
+    reverse-early-diabetic-retinopathy-naturally
   - >-
     does-daily-tart-cherry-juice-really-reduce-endothelial-microparticle-release-in-adults-70-with-stage-1-hypertension-and-mild-hyperuricemia
   - >-

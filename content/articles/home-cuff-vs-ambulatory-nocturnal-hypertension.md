@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
   - >-
-    the-ultimate-guide-to-interpreting-late-night-home-blood-pressure-dips-in-adults-with-sleep-apnea-and-mild-cognitive-impairment-including-when-normal-dipping-is-actually-harmful
+    nocturnal-bp-dip-sleep-apnea-mild-cognitive-impairment
 ---
 
 # Home Cuff vs. Ambulatory Monitoring for Nocturnal Hypertension in Older Adults: What’s Right for You?

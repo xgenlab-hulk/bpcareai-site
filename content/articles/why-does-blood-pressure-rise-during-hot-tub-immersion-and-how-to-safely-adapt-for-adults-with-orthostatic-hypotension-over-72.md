@@ -11,7 +11,7 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    does-daily-10-minute-cold-water-immersion-lower-morning-systolic-bp-in-sedentary-adults-60-72-a-12-week-rct-breakdown
+    does-daily-8-minute-cold-water-hand-immersion-really-lower-24-hour-mean-arterial-pressure-in-adults-68-with-mild-hypertension-and-raynaud-s-phenomenon
   - >-
     why-blood-pressure-medication-doses-often-need-adjustment-during-summer-and-how-to-do-it-safely
   - the-science-backed-benefits-of-warm-baths-for-heart-circulation-in-seniors

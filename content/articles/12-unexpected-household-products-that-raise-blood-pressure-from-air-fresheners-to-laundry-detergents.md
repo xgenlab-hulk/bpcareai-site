@@ -8,12 +8,11 @@ primaryKeyword: 'household products that raise blood pressure'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
-  - >-
-    12-foods-that-raise-blood-pressure-even-if-they-re-low-sodium-or-heart-healthy-on-the-label
+
   - 5-foods-that-raise-blood-pressure-even-if-they-re-low-sodium
   - 10-simple-home-adjustments-to-support-blood-pressure-stability-in-winter
   - >-
-    does-air-pollution-raise-blood-pressure-what-real-time-data-shows-for-urban-seniors
+    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
   - hidden-salt-surprising-foods-that-raise-blood-pressure
 ---
 

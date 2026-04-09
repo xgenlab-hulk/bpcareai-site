@@ -19,7 +19,7 @@ relatedSlugs:
   - >-
     why-do-adults-72-with-atrial-fibrillation-often-develop-orthostatic-hypotension-and-what-that-reveals-about-autonomic-cardiac-reserve
   - >-
-    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
 ---
 
 # Why You Might Feel Heart Palpitations When Standing Up to Pour Tea — And What It Really Means for Your Heart Health

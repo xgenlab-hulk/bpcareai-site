@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
   - >-
-    best-seated-resistance-exercises-for-bp-control-in-adults-77-with-severe-osteoarthritis-and-stage-2-hypertension
+    seated-resistance-band-hypertension-elderly
   - >-
     best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options
   - >-
-    best-seated-resistance-protocols-for-adults-74-with-severe-knee-osteoarthritis-and-isolated-systolic-hypertension
+    seated-resistance-band-hypertension-elderly
 ---
 
 # Gentle Strength: Safe Low-Impact Resistance Exercises for Seniors 82+ With Osteoporosis and Atrial Fibrillation

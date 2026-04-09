@@ -20,7 +20,7 @@ relatedSlugs:
   - >-
     when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
   - >-
-    a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
+    walking-vs-standing-post-dinner-glucose
 ---
 
 # Walking Minutes Per Day for Seniors Over 65: What’s Right for You?

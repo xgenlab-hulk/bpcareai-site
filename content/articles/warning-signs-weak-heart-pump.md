@@ -18,7 +18,7 @@ relatedSlugs:
   - >-
     7-silent-signs-of-diastolic-dysfunction-you-might-miss-at-home-especially-if-you-re-65-with-normal-ejection-fraction
   - >-
-    what-are-the-first-signs-of-holiday-heart-syndrome-in-women
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - >-
     7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
 ---

@@ -19,7 +19,7 @@ relatedSlugs:
   - >-
     what-research-says-about-ultra-processed-side-dishes-and-endothelial-function-decline-in-adults-55-70-with-prediabetes
   - >-
-    how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
+    how-chronic-low-grade-inflammation-from-periodontitis-elevates-nighttime-blood-pressure-in-adults-61-76-with-hypertension-and-poor-dental-access
 ---
 
 # How Gut-Derived TMAO Worsens Blood Vessel Health in Older Adults With Hypertension and Mild CKD Stage 2  

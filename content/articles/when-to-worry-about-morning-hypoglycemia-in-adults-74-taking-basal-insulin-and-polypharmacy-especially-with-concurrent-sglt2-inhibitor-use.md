@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
   - >-
-    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
+    why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
 ---
 
 # Recognizing Morning Hypoglycemia in Older Adults on Basal Insulin — Especially with SGLT2 Inhibitors and Multiple Medications

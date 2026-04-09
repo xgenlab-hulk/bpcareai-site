@@ -16,7 +16,7 @@ relatedSlugs:
   - >-
     5-things-everyone-over-73-should-know-about-holiday-nuts-including-which-varieties-worsen-atrial-fibrillation-triggers-in-winter
   - >-
-    how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns
+    how-late-night-eggnog-consumption-alters-cardiac-repolarization-reserve-in-adults-58-65-with-subclinical-qt-prolongation
 ---
 
 # Recognizing Holiday-Induced Hypomagnesemia in Seniors with Atrial Fibrillation and Long-Term PPI Use

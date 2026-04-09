@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     when-to-suspect-mitochondrial-myopathy-before-muscle-cramps-appear-red-flags-in-adults-65-with-rapid-onset-insulin-resistance-and-unexplained-fatigue
   - >-
-    what-are-the-earliest-lab-clues-of-mitochondrial-dysfunction-in-skeletal-muscle-in-adults-54-65-with-type-2-diabetes-and-persistent-exercise-intolerance
+    mitochondrial-dysfunction-lab-clues-diabetes
   - >-
     when-to-worry-about-sudden-drowsiness-after-christmas-dinner-linking-postprandial-hypoglycemia-autonomic-blunting-and-late-night-falls-in-adults-75
   - >-
     what-are-the-earliest-cognitive-red-flags-linked-to-hypoglycemia-associated-autonomic-failure-in-adults-70-with-20-years-of-type-1-diabetes
   - >-
-    when-to-worry-about-sudden-nighttime-hunger-that-wakes-you-up-differentiating-reactive-hypoglycemia-nocturnal-somogyi-effect-and-early-autonomic-failure-in-adults-70
+    sudden-nighttime-hunger-diabetes-diagnosis
 ---
 
 # When Midday Fatigue in Seniors with Diabetes Might Signal Something More — A Gentle Guide for You and Your Care Team

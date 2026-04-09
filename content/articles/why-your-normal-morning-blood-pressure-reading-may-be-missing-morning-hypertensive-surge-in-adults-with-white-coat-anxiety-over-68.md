@@ -18,7 +18,7 @@ relatedSlugs:
   - >-
     7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
   - >-
-    the-ultimate-guide-to-interpreting-ambulatory-blood-pressure-reports-what-nocturnal-dipping-really-means-for-your-stroke-risk-after-72
+    ambulatory-blood-pressure-report-interpretation
 ---
 
 # Understanding Morning Blood Pressure Surge and White-Coat Anxiety in Adults Over 68

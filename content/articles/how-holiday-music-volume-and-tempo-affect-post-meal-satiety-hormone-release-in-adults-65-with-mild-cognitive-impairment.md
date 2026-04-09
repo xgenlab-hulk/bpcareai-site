@@ -11,15 +11,14 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    the-ultimate-guide-to-navigating-holiday-buffets-with-age-related-satiety-hormone-decline-including-visual-cues-plate-size-and-protein-first-sequencing
+    holiday-buffet-seniors-satiety-hormones
   - >-
     does-daily-2-minute-cold-exposure-face-immersion-improve-post-holiday-meal-satiety-signaling-in-adults-70-with-leptin-resistance
-  - >-
-    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
+
   - >-
     the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
   - >-
-    9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance
+    10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
 ---
 
 # How Holiday Music Volume and Tempo Influence Satiety Hormones in Seniors — A Gentle Guide to Healthy Holiday Eating for Seniors

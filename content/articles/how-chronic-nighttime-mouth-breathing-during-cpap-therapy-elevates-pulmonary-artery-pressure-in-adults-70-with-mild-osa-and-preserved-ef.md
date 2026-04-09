@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     best-breathing-patterns-for-reducing-left-atrial-pressure-during-sleep-in-adults-67-79-with-hfpef-and-central-sleep-apnea
   - >-
-    quick-ways-to-lower-pulmonary-capillary-wedge-pressure-using-posture-diaphragmatic-positioning-and-expiratory-resistance-for-adults-68-with-orthopnea-and-preserved-ef
+    lower-pulmonary-capillary-wedge-pressure-orthopnea
 ---
 
 # How Mouth Breathing During CPAP Therapy Can Raise Pulmonary Artery Pressure in Older Adults With Mild Sleep Apnea

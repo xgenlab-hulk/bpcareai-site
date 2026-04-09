@@ -15,7 +15,7 @@ relatedSlugs:
   - >-
     the-truth-about-heart-healthy-olive-oil-labels-why-extra-virgin-isn-t-enough-for-adults-72-with-advanced-carotid-plaque
   - >-
-    the-truth-about-heart-healthy-instant-oatmeal-packets-labeled-for-seniors-why-91-contain-hidden-beta-glucan-antagonists-that-impair-endothelial-no-release-in-adults-65-with-subclinical-atherosclerosis
+    instant-oatmeal-endothelial-function-seniors
   - the-role-of-omega-3-fatty-acids-in-preventing-heart-disease
 ---
 

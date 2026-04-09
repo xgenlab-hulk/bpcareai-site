@@ -15,7 +15,7 @@ relatedSlugs:
   - holiday-heart-syndrome-in-men-over-60-unique-risks-and-prevention-tips
   - why-older-women-are-more-vulnerable-to-winter-heart-events
   - >-
-    7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55
+    7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
   - >-
     why-heart-disease-risk-skyrockets-in-women-58-67-within-3-years-after-menopause-even-with-normal-cholesterol
 ---

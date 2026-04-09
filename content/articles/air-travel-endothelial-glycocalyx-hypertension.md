@@ -14,10 +14,9 @@ relatedSlugs:
     12-science-backed-ways-to-reduce-left-atrial-strain-variability-during-air-travel-for-adults-with-paroxysmal-afib-and-mild-copd
   - >-
     best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
+
   - >-
-    5-things-everyone-over-68-should-know-about-using-continuous-glucose-monitors-during-holiday-travel-especially-with-airport-body-scanners-and-cabin-pressure-changes
-  - >-
-    5-things-everyone-over-72-should-know-about-using-chest-worn-ecg-devices-during-air-travel-especially-with-pacemaker-dependent-bradycardia-and-frequent-cabin-pressure-changes
+    chest-ecg-devices-air-travel-pacemaker-dependent
 ---
 
 # How Air Travel Affects Your Endothelial Glycocalyx—Especially With Hypertension and Past DVT

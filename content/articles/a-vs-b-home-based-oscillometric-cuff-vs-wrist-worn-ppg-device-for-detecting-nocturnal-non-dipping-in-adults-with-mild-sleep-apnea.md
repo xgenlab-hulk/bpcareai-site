@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
   - >-
-    the-truth-about-normal-home-bp-readings-when-you-have-atrial-fibrillation-why-your-cuff-might-be-lying-to-you
+    home-blood-pressure-cuff-afib-algorithm-errors
 ---
 
 # Oscillometric Cuff vs PPG for Nocturnal Non-Dipping: What’s Best for Adults With Mild Sleep Apnea?

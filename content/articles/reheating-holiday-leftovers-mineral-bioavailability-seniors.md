@@ -11,7 +11,7 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-slow-cooked-herb-roasted-turkey-breast-vs-deep-fried-turkey-leg-which-preserves-more-bioavailable-zinc-and-supports-immune-resilience-in-seniors-with-low-serum-zinc
+    turkey-preparation-zinc-bioavailability-seniors
   - >-
     the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis
   - >-
@@ -19,7 +19,7 @@ relatedSlugs:
   - >-
     how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70
   - >-
-    quick-ways-to-adjust-your-holiday-plate-for-early-stage-macular-degeneration-focusing-on-lutein-bioavailability-fat-pairing-and-light-induced-oxidation-risks
+    holiday-eating-macular-degeneration-lutein-bioavailability
 ---
 
 # Reheating Holiday Leftovers Mineral Bioavailability Seniors: What Really Happens to Zinc and Magnesium?

@@ -11,15 +11,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-heart-healthy-instant-oatmeal-packets-marketed-to-seniors-why-91-contain-unlabeled-beta-glucan-degradation-byproducts-that-blunt-cholesterol-lowering-efficacy-in-adults-68-with-familial-hypercholesterolemia
+    instant-oatmeal-beta-glucan-degradation
   - >-
-    the-truth-about-heart-healthy-oat-milk-creamers-why-86-of-brands-contain-emulsifiers-that-impair-endothelial-nitric-oxide-synthase-activity-in-adults-63-with-subclinical-atherosclerosis
+    oat-milk-creamer-endothelial-dysfunction
   - >-
     the-truth-about-heart-healthy-oat-milk-does-fortified-beta-glucan-delivery-differ-in-adults-66-with-stage-3-ckd-vs-those-with-normal-egfr
   - >-
     what-research-says-about-ultra-processed-holiday-snacks-and-endothelial-dysfunction-in-adults-61-75-with-subclinical-atherosclerosis
   - >-
-    the-truth-about-heart-healthy-olive-oil-labels-why-polyphenol-content-varies-300-between-bottles-and-what-that-means-for-endothelial-repair-in-adults-60
+    olive-oil-polyphenols-endothelial-repair-seniors
 ---
 
 # What You Should Know About Instant Oatmeal and Endothelial Function in Seniors

@@ -13,7 +13,7 @@ relatedSlugs:
   - >-
     how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
   - >-
-    how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
+    how-late-afternoon-snacking-at-family-gatherings-disrupts-nocturnal-melatonin-and-elevates-fasting-glucose-in-adults-59-66-with-shift-work-history
   - the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-

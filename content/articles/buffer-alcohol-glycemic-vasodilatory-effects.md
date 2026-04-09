@@ -13,9 +13,9 @@ relatedSlugs:
   - can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
   - the-truth-about-alcohol-and-blood-sugar-during-holiday-parties
   - >-
-    12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-59-72-with-well-controlled-diabetes-and-high-holiday-social-engagement
+    3-simple-steps-to-prevent-post-holiday-hba1c-drift-even-if-you-did-fine-during-the-festivities-in-adults-57-66-with-stable-prediabetes
   - >-
-    what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
+    can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
 ---
 
 # 12 Evidence-Based Strategies to Buffer Alcohol’s Glycemic & Vasodilatory Effects at Family Gatherings — For Adults 57–71 With Prediabetes and Orthostatic Hypotension

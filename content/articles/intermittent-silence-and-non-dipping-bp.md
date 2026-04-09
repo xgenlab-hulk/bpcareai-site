@@ -10,10 +10,9 @@ primaryKeyword: daily silence to lower nighttime blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+
   - >-
-    12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults
-  - >-
-    quick-ways-to-normalize-diastolic-bp-within-48-hours-using-breathing-biofeedback-validated-in-2-rcts-for-adults-with-isolated-diastolic-hypertension
+    resonant-breathing-diastolic-pressure-reduction
   - >-
     can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension
   - >-

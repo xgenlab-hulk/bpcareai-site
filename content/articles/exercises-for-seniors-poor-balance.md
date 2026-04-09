@@ -14,7 +14,7 @@ relatedSlugs:
   - >-
     the-best-indoor-exercises-for-blood-pressure-control-in-winter
   - >-
-    best-seated-resistance-exercises-for-bp-control-in-adults-77-with-severe-osteoarthritis-and-stage-2-hypertension
+    seated-resistance-band-hypertension-elderly
   - >-
     safe-stretching-exercises-stiff-joints-after-65
   - >-

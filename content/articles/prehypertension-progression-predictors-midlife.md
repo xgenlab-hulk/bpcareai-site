@@ -11,11 +11,10 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-mild-blood-pressure-elevation-is-actually-masking-secondary-hypertension-especially-with-concurrent-sleep-fragmentation-and-unexplained-weight-gain-in-adults-55-64
+    masking-secondary-hypertension-symptoms
+
   - >-
-    quick-ways-to-normalize-morning-bp-surge-using-pre-rise-hydration-timing-foot-warming-and-cervical-pillow-angle-for-adults-67-with-sleep-apnea-and-elevated-morning-sbp
-  - >-
-    the-ultimate-guide-to-interpreting-ambulatory-blood-pressure-reports-what-nocturnal-dipping-really-means-for-your-stroke-risk-after-72
+    ambulatory-blood-pressure-report-interpretation
   - >-
     7-silent-signs-your-blood-pressure-is-spiking-during-hot-summer-mornings-even-with-normal-home-readings
   - >-

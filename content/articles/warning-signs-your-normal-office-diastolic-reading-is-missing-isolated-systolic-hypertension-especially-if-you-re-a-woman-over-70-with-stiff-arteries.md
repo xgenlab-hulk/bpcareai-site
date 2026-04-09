@@ -19,7 +19,7 @@ relatedSlugs:
   - >-
     5-things-every-adult-74-with-aortic-stenosis-and-controlled-hypertension-should-know-before-starting-home-bp-monitoring
   - >-
-    12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
+    foods-stabilize-pulse-pressure-seniors-orthostasis
 ---
 
 # Is Your “Normal” Blood Pressure Hiding Missed Isolated Systolic Hypertension in Women Over 70?

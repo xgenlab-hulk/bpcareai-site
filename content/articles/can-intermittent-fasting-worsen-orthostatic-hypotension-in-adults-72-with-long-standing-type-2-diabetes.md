@@ -12,11 +12,11 @@ relatedSlugs:
     dangers-of-intermittent-fasting-for-adults-with-severe-hypertension-and-autonomic-neuropathy-confirmed-by-ewing-battery
   - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
   - >-
-    how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort
+    intermittent-fasting-diastolic-dysfunction-hr
   - >-
     what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
   - >-
-    when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67
+    blood-pressure-drops-walking-diabetes-neuropathy
 ---
 
 # Intermittent Fasting and Orthostatic Hypotension in Seniors With Long-Standing Type 2 Diabetes

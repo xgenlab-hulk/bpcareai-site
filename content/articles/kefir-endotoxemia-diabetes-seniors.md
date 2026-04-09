@@ -11,15 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-diabetic-friendly-protein-bars-marketed-to-seniors-why-68-contain-hidden-maltodextrin-propylene-glycol-esters-that-disrupt-gut-barrier-integrity
+    diabetic-protein-bars-gut-barrier-risk
   - >-
-    does-cranberry-juice-really-worsen-blood-glucose-control-in-adults-71-with-diabetes-and-recurrent-utis-separating-proanthocyanidin-benefits-from-fructose-driven-endotoxin-translocation
+    cranberry-juice-blood-glucose-control
   - >-
-    natural-ways-to-support-pancreatic-beta-cell-resilience-using-polyphenol-rich-fermented-foods-for-adults-56-72-with-recent-onset-type-2-diabetes-and-high-hs-crp
+    fermented-foods-beta-cell-resilience-type-2-diabetes
   - >-
-    the-truth-about-sugar-free-desserts-labeled-for-seniors-why-erythritol-only-formulations-still-disrupt-gut-microbiota-derived-butyrate-in-adults-69-with-metabolic-syndrome
+    sugar-free-desserts-gut-health-seniors
   - >-
-    the-truth-about-sugar-free-kombucha-labeled-for-seniors-why-82-contain-unlabeled-gluconic-acid-that-mimics-glucose-on-cgm-sensors-in-adults-66-using-real-time-monitoring
+    sugar-free-kombucha-cgms-interference-seniors
 ---
 
 # Can Kefir Really Help *Kefir Endotoxemia Diabetes Seniors*? What the Science Says — and What to Watch For

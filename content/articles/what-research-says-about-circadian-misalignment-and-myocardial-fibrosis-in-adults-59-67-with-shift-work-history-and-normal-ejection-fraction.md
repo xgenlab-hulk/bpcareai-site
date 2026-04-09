@@ -11,7 +11,7 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    how-intermittent-nighttime-light-exposure-disrupts-cardiac-clock-gene-expression-bmal1-per2-in-adults-59-73-with-shift-work-history-and-elevated-nt-probnp
+    nighttime-light-exposure-cardiac-clock-genes-elders
   - >-
     how-night-shift-work-after-age-50-rewires-circadian-genes-linked-to-coronary-artery-calcification
   - can-late-night-holiday-parties-disrupt-heart-rhythm-after-60

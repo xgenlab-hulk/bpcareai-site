@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
   - >-
-    how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation
+    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
   - >-
-    how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it
+    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
   - >-
     how-indoor-light-spectrum-during-winter-affects-melatonin-suppression-and-sleep-architecture-in-adults-70-with-mild-cognitive-impairment
   - >-
-    how-nighttime-light-exposure-from-smart-clocks-disrupts-melatonin-mediated-glp-1-secretion-and-elevates-fasting-glucose-in-adults-59-with-shift-work-history
+    nighttime-light-glp-1-secretion-fasting-glucose
 ---
 
 # How LED Nightlights in Hallways May Affect Nocturnal Glucose in Seniors — And What You Can Do

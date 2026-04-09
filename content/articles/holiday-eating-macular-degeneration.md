@@ -13,7 +13,7 @@ relatedSlugs:
   - >-
     simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
   - >-
-    quick-ways-to-adjust-your-holiday-plate-for-early-stage-macular-degeneration-focusing-on-lutein-bioavailability-fat-pairing-and-light-induced-oxidation-risks
+    holiday-eating-macular-degeneration-lutein-bioavailability
   - >-
     warning-signs-your-holiday-diet-is-accelerating-macular-degeneration-in-adults-over-68
   - >-

@@ -11,8 +11,7 @@ relatedSlugs:
   - >-
     the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
   - is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues
-  - >-
-    the-truth-about-heart-healthy-holiday-wine-labels-what-the-2024-fda-draft-guidance-says-about-alcohol-dose-thresholds-for-atrial-fibrillation-risk
+
   - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
 ---

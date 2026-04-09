@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
   - >-
-    what-to-eat-before-opening-gifts-a-12-minute-pre-event-strategy-to-prevent-postprandial-hypotension-in-adults-75
+    quick-fix-for-postprandial-hypotension-seniors
 ---
 
 # Gentle, Effective Ways to Stabilize Brain Blood Flow After Meals for Seniors With Carotid Stenosis

@@ -15,9 +15,9 @@ relatedSlugs:
   - >-
     what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
   - >-
-    warning-signs-your-stable-heart-failure-is-masking-early-right-ventricular-fibrosis-especially-with-elevated-serum-galectin-3-and-reduced-rv-strain-rate
+    right-ventricular-fibrosis-galectin-3-warning-signs
   - >-
-    warning-signs-of-subclinical-right-ventricular-dysfunction-in-women-58-67-with-obesity-gerd-and-nocturnal-cough-that-mimic-asthma-or-chronic-bronchitis
+    right-ventricular-dysfunction-nocturnal-cough-women
 ---
 
 # Early Echocardiographic Signs of Right Heart Strain in Older Adults With COPD — What to Watch For *Before* Neck Vein Changes Appear

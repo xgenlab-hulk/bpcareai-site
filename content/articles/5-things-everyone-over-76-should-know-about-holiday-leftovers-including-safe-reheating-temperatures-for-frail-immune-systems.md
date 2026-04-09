@@ -13,10 +13,10 @@ relatedSlugs:
   - >-
     how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - >-
-    a-vs-b-slow-cooked-holiday-leftovers-vs-reheated-microwave-portions-which-preserves-more-bioavailable-zinc-and-magnesium-for-seniors-with-atrophic-gastritis
+    reheating-holiday-leftovers-mineral-bioavailability-seniors
   - easy-make-ahead-freezer-meals-to-reduce-holiday-cooking-stress-for-seniors
   - >-
-    5-things-everyone-over-65-should-know-before-eating-a-traditional-holiday-ham-including-nitrate-sensitivity-sulfite-reactions-and-renal-clearance-rates
+    holiday-ham-safety-over-65
 ---
 
 # Holiday Leftovers Food Safety for Seniors: 5 Essential Tips Everyone Over 76 Needs to Know

@@ -11,14 +11,13 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
-  - >-
-    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
+
   - >-
     why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
   - >-
     12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
   - >-
-    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
+    are-sugar-free-treats-actually-safe-for-diabetics-over-65
 ---
 
 # Gentle, Science-Informed Ways to Support Gastric Emptying Diabetic Gastroparesis Seniors After Holiday Meals

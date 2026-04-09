@@ -19,7 +19,7 @@ relatedSlugs:
   - >-
     natural-ways-to-support-post-holiday-bile-acid-recycling-without-supplements-for-adults-65-81-with-chronic-constipation-and-low-fat-diet-history
   - >-
-    natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms
+    how-holiday-stress-slows-gastric-emptying-in-adults-72-with-mild-gastroparesis-and-what-to-eat-instead
 ---
 
 # How to Prevent Post-Holiday Constipation Naturally — Gentle, Evidence-Informed Strategies for Adults 66+

@@ -13,12 +13,9 @@ image: ''
 relatedSlugs:
   - >-
     soups-lower-blood-pressure-naturally
+
   - >-
-    10-foods-that-lower-central-aortic-systolic-pressure-within-90-minutes-backed-by-radial-artery-tonometry-data
-  - >-
-    10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60
-  - >-
-    10-foods-that-stabilize-systolic-diastolic-gap-without-lowering-overall-bp-for-adults-69-with-wide-pulse-pressure-and-preserved-cognitive-function
+    foods-stabilize-pulse-pressure-seniors-orthostasis
   - >-
     top-5-winter-superfoods-that-naturally-lower-blood-pressure
 ---

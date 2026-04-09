@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     why-your-morning-walk-may-raise-blood-glucose-instead-of-lowering-it-especially-if-you-re-on-basal-only-insulin-and-over-66
   - >-
-    7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes
+    why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
 ---
 
 # How Morning Cortisol Spikes Fuel the Cortisol Dawn Phenomenon in Older Adults With Type 2 Diabetes and Adrenal Symptoms

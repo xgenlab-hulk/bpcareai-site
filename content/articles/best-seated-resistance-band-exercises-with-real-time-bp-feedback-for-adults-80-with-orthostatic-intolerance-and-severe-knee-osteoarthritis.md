@@ -9,11 +9,11 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
-    best-seated-resistance-band-exercises-for-adults-75-with-orthostatic-intolerance-and-stage-1-hypertension-balancing-muscle-activation-bp-stability-and-fall-risk
+    seated-resistance-band-hypertension-elderly
   - >-
-    best-seated-resistance-exercises-for-bp-control-in-adults-77-with-severe-osteoarthritis-and-stage-2-hypertension
+    seated-resistance-band-hypertension-elderly
   - >-
-    best-seated-resistance-protocols-for-adults-74-with-severe-knee-osteoarthritis-and-isolated-systolic-hypertension
+    seated-resistance-band-hypertension-elderly
   - >-
     best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
   - >-

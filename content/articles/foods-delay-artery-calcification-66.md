@@ -11,13 +11,10 @@ relatedSlugs:
   - >-
     12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-in-adults-58-69-with-agatston-score-100-400-and-elevated-lp-a
   - >-
-    10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers
+    foods-stabilize-pulse-pressure-seniors-orthostasis
   - >-
     12-science-backed-ways-to-reduce-coronary-artery-calcium-cac-progression-without-statins-in-adults-55-64-with-cac-score-100-300
-  - >-
-    12-science-backed-ways-to-lower-coronary-artery-calcium-score-progression-without-statins-for-adults-57-69-with-cac-100-and-statin-intolerance
-  - >-
-    10-foods-that-increase-pulse-wave-velocity-within-2-hours-and-what-to-eat-instead-if-you-re-61-with-elevated-cac-score
+
 ---
 
 # Artery Calcification Worsening? Foods That Slow Progression in Adults 66+ with Metabolic Syndrome

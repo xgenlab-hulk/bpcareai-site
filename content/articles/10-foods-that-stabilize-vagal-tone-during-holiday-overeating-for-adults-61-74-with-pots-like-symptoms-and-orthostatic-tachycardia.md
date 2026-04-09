@@ -9,15 +9,14 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance
+    10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
   - >-
     best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
   - >-
-    what-to-eat-before-opening-gifts-a-12-minute-pre-event-strategy-to-prevent-postprandial-hypotension-in-adults-75
+    quick-fix-for-postprandial-hypotension-seniors
   - >-
     can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history
-  - >-
-    12-holiday-foods-that-increase-cardiac-afterload-within-90-minutes-and-what-to-eat-instead-if-you-re-66-with-mild-lvh
+
 ---
 
 # 10 Foods That Help Stabilize Vagal Tone During the Holidays — A Practical Guide for Seniors 61–74 With POTS-Like Symptoms

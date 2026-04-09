@@ -10,16 +10,14 @@ primaryKeyword: natural heart repair support after heart attack
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+
   - >-
-    12-foods-that-support-cardiac-fibroblast-quiescence-without-inhibiting-wound-healing-for-adults-69-with-prior-myocardial-infarction-and-stable-scar
+    foods-cardiac-fibroblast-quiescence-seniors
+
   - >-
-    12-foods-that-support-cardiac-fibroblast-quiescence-without-activating-tgf-signaling-for-adults-59-68-with-early-diastolic-stiffness-and-normal-ejection-fraction
+    mitochondrial-quality-control-in-cardiomyocytes
   - >-
-    5-foods-that-support-cardiac-fibroblast-quiescence-without-suppressing-collagen-turnover-for-adults-70-with-early-diastolic-dysfunction-and-normal-troponin
-  - >-
-    natural-ways-to-support-mitochondrial-quality-control-in-cardiomyocytes-without-activating-mtor-using-fasting-mimicking-diets-and-urolithin-a-in-adults-66-with-preserved-ef-and-low-vo-peak
-  - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-without-supplements-for-adults-63-80-with-long-standing-hypertension-and-low-vo-peak
+    mitochondrial-biogenesis-heart-natural
 ---
 
 # Gentle, Natural Support for Cardiac Fibroblast Stability After a Heart Attack — A Thoughtful Approach for Adults 67+

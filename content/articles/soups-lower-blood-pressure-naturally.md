@@ -10,8 +10,7 @@ primaryKeyword: soups that lower blood pressure naturally
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
-  - >-
-    10-foods-that-lower-central-aortic-systolic-pressure-within-90-minutes-backed-by-radial-artery-tonometry-data
+
   - can-meditation-lower-blood-pressure-naturally
   - top-5-winter-superfoods-that-naturally-lower-blood-pressure
   - cholesterol-lowering-soups-over-45

@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-for-adults-71-with-type-2-diabetes-and-severe-copd
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-after-holiday-overeating-without-supplements-for-adults-59-70-with-sedentary-lifestyle-and-low-vo2-max
+    mitochondrial-biogenesis-after-overeating-seniors
   - >-
     natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-without-supplements-for-adults-63-80-with-long-standing-hypertension-and-low-vo-peak
+    mitochondrial-biogenesis-heart-natural
 ---
 
 # Natural Strategies to Boost Mitochondrial Biogenesis Insulin Resistance in Skeletal Muscle — For Adults 56–70 With Sedentary Lifestyles

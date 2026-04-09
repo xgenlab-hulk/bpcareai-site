@@ -11,9 +11,9 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - >-
-    how-excessive-alcohol-consumption-during-holiday-parties-triggers-atrial-fibrillation-in-adults-55-72-with-pre-existing-hypertension
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
   - >-
     how-alcohol-timing-affects-atrial-fibrillation-risk-during-holiday-gatherings-in-adults-55-68-with-occult-af-and-high-functioning-lifestyle

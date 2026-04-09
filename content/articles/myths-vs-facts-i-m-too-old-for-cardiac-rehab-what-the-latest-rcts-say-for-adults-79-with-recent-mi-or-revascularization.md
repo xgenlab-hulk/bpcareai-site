@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     myths-vs-facts-i-only-drink-red-wine-it-s-heart-healthy-in-adults-65-with-high-frequency-pacs-and-left-atrial-fibrosis
   - >-
-    simple-steps-to-adjust-your-cardiac-rehab-routine-for-post-covid-myocardial-fatigue-especially-if-you-re-over-70-and-experienced-subclinical-troponin-elevation
+    cardiac-rehab-post-covid-myocardial-fatigue
 ---
 
 # “I’m Too Old for Cardiac Rehab” — Debunking cardiac rehab myths seniors 79+ recent mi with Real Evidence

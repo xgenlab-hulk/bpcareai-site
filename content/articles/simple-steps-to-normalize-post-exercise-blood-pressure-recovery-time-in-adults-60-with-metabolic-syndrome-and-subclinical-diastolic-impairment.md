@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     quick-ways-to-reduce-post-exercise-diastolic-rebound-in-women-57-69-with-mild-diastolic-dysfunction-and-elevated-e-e-ratio
   - >-
-    what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension
+    post-exercise-blood-pressure-rebound-in-elderly
   - >-
     quick-ways-to-restore-post-exercise-vascular-reactivity-after-cold-exposure-for-adults-68-with-raynaud-s-phenomenon-and-elevated-pulse-wave-velocity
   - >-
-    a-vs-b-evening-60-minute-seated-cycling-vs-morning-20-minute-resistance-band-routine-for-improving-24-hour-bp-variability-in-adults-60-73-with-isolated-systolic-hypertension
+    exercise-timing-blood-pressure-variability
   - >-
     quick-ways-to-restore-postprandial-parasympathetic-tone-within-20-minutes-for-adults-61-75-with-type-2-diabetes-and-vagal-withdrawal-measured-by-rmssd
 ---

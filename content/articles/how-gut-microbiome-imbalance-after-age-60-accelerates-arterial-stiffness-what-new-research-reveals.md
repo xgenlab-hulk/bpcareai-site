@@ -13,7 +13,7 @@ relatedSlugs:
   - >-
     how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now
   - >-
-    how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
+    how-chronic-low-grade-inflammation-from-periodontitis-elevates-nighttime-blood-pressure-in-adults-61-76-with-hypertension-and-poor-dental-access
   - >-
     what-research-says-about-hearing-loss-as-an-early-biomarker-of-vascular-aging-in-men-over-75
   - >-

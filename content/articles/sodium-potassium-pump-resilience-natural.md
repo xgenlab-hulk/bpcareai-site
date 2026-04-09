@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     10-foods-that-stabilize-cardiac-ion-channels-during-alcohol-exposure-for-adults-62-75-with-lqt2-variant-and-holiday-related-syncope
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-without-supplements-for-adults-63-80-with-long-standing-hypertension-and-low-vo-peak
+    mitochondrial-biogenesis-heart-natural
   - >-
-    12-science-backed-ways-to-reduce-left-ventricular-stiffness-without-medication-focusing-on-titin-phosphorylation-sodium-intake-timing-and-deep-exhalation-duration
+    reduce-left-ventricular-stiffness-without-medication
   - >-
     natural-ways-to-support-renal-sodium-excretion-via-trpv4-channel-activation-for-adults-59-73-with-salt-sensitive-hypertension-and-low-urinary-citrate
   - >-
-    12-science-backed-ways-to-reverse-early-left-ventricular-hypertrophy-without-medication-focused-on-diastolic-filling-time-sodium-timing-and-evening-magnesium-glycinate-dosing
+    reverse-left-ventricular-hypertrophy-without-medication
 ---
 
 # Natural Ways to Strengthen Sodium-Potassium Pump Resilience — Especially After Diuretics & Holiday Indulgences

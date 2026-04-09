@@ -19,7 +19,7 @@ relatedSlugs:
   - >-
     blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short
   - >-
-    what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises
+    warning-signs-your-stable-diabetes-is-masking-early-diabetic-cardiomyopathy-even-with-normal-ejection-fraction-and-no-symptoms-in-adults-59-68
 ---
 
 # When Fibromuscular Dysplasia Resistant Hypertension Women Might Be Overlooked—Especially With “Just” Headaches

@@ -17,9 +17,9 @@ relatedSlugs:
   - >-
     what-are-the-earliest-signs-of-arterial-stiffness-in-women-54-67-before-bp-readings-cross-130-80
   - >-
-    natural-ways-to-support-arterial-stiffness-reduction-without-nitrate-rich-greens-using-cold-pressed-pomegranate-ginger-syrup-and-diaphragmatic-breathing-cycles-in-adults-67-with-elevated-pulse-wave-velocity
+    arterial-stiffness-reduction-without-nitrates
   - >-
-    what-are-the-earliest-signs-of-arterial-stiffness-before-bp-rises-especially-in-women-over-63-with-a-history-of-preeclampsia-and-now-on-aromatase-inhibitors
+    arterial-stiffness-signs-after-preeclampsia
 ---
 
 # Herbal Teas and Diastolic Stiffness in Women: What Science Reveals About Popular “Heart-Healthy” Blends

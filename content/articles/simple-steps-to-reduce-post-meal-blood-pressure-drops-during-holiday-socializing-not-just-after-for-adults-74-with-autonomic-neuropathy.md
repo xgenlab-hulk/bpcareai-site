@@ -11,11 +11,11 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    what-to-eat-before-opening-gifts-a-12-minute-pre-event-strategy-to-prevent-postprandial-hypotension-in-adults-75
+    quick-fix-for-postprandial-hypotension-seniors
   - >-
     natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings
   - >-
-    12-science-backed-ways-to-improve-baroreflex-sensitivity-without-medication-for-adults-67-80-with-orthostatic-hypotension-and-recurrent-falls
+    natural-baroreflex-sensitivity-enhancement
   - >-
     quick-ways-to-stabilize-post-meal-blood-flow-to-the-brain-in-adults-64-with-carotid-stenosis-50-and-orthostatic-dizziness
   - >-

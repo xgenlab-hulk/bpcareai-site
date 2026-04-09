@@ -14,7 +14,7 @@ relatedSlugs:
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
   - >-
-    7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
+    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 ---
 
 # Can You Still Go to Holiday Parties After a High Blood Pressure Diagnosis? (Essential Guide Ages 53-64)

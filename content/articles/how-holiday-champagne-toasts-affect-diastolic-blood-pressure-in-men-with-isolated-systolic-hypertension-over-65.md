@@ -18,7 +18,7 @@ relatedSlugs:
   - >-
     5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics
   - >-
-    what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
+    can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
 ---
 
 # How Champagne Affects Diastolic Blood Pressure in Seniors with Isolated Systolic Hypertension

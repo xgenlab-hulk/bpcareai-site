@@ -8,16 +8,15 @@ primaryKeyword: 'foods that boost nitric oxide for stiff arteries'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
-  - >-
-    12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension
+
   - >-
     10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina
   - >-
-    natural-ways-to-support-endothelial-nitric-oxide-synthase-activity-in-8-12-weeks-using-beetroot-timing-sunlight-exposure-and-arginine-citrulline-cycling
+    boost-nitric-oxide-naturally-seniors
   - >-
     natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
   - >-
-    12-science-backed-ways-to-improve-endothelial-function-within-14-days-without-exercise-or-dietary-restriction-in-sedentary-adults-67-81-with-normal-bmi-but-elevated-hs-crp
+    improve-endothelial-function-without-exercise
 ---
 
 # Sirt1-Activating Foods for Endothelial Health: Boosting Flow-Mediated Dilation Naturally in Adults 65–80

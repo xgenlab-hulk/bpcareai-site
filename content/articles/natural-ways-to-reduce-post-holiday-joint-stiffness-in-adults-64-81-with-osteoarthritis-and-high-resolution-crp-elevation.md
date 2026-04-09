@@ -15,7 +15,7 @@ relatedSlugs:
   - >-
     12-science-backed-ways-to-reduce-post-holiday-inflammation-in-just-5-days-targeting-crp-il-6-and-endothelial-function-in-adults-55-72
   - >-
-    a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis
+    walking-vs-standing-post-dinner-glucose
   - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
 ---
 

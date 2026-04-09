@@ -10,8 +10,7 @@ image: ''
 relatedSlugs:
   - >-
     the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies
-  - >-
-    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
+
   - >-
     how-holiday-table-settings-affect-portion-control-in-adults-55-72-with-prediabetes
   - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals

@@ -9,11 +9,11 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-indoor-air-pollutants-pm2-5-no2-disrupt-pancreatic-islet-mitochondrial-respiration-and-exacerbate-glucose-variability-in-adults-60-74-with-type-2-diabetes-and-urban-residency
+    air-pollution-pancreatic-mitochondria-diabetes
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-pancreatic-beta-cells-without-supplements-for-adults-59-with-long-term-type-2-diabetes-and-mild-fasting-hyperglycemia
+    mitochondrial-biogenesis-beta-cells-diabetes
   - >-
-    natural-ways-to-support-beta-cell-resilience-during-spring-allergy-season-without-antihistamines-or-corticosteroids-in-adults-55-65-with-recent-onset-type-1-diabetes
+    beta-cell-resilience-spring-allergies-type-1
 ---
 
 # Could Your Air Purifier’s Ionizer Be Affecting Pancreatic Islet Oxygenation? Understanding Air Purifier Ozone and Diabetes Health in Adults 70+

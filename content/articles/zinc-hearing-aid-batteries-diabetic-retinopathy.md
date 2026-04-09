@@ -14,9 +14,9 @@ relatedSlugs:
   - >-
     12-science-backed-ways-to-protect-retinal-pericytes-and-reduce-early-diabetic-retinopathy-risk-without-medication
   - >-
-    7-silent-signs-your-hearing-aid-batteries-are-leaching-zinc-into-your-diet-and-how-that-alters-insulin-signaling-in-adults-73-with-long-term-type-2-diabetes
+    zinc-exposure-from-hearing-aids-and-insulin-resistance
   - >-
-    what-are-the-earliest-signs-your-denture-adhesive-is-causing-subclinical-cobalamin-deficiency-and-why-that-accelerates-autonomic-neuropathy-progression-in-adults-75-with-type-2-diabetes
+    denture-adhesive-cobalamin-deficiency-autonomic-neuropathy
 ---
 
 # Zinc Hearing Aid Batteries and Diabetic Retinopathy: What Older Adults Should Know — Gently and Clearly

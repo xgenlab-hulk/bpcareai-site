@@ -11,13 +11,13 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
-    what-are-the-earliest-signs-your-holiday-leftovers-are-causing-subclinical-small-intestinal-bacterial-overgrowth-sibo-in-adults-69-with-chronic-bloating
+    holiday-leftovers-sibo-early-signs-seniors
   - >-
     warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-detected-via-morning-stool-ph-and-bloating-pattern-shifts-in-adults-71
   - >-
     when-to-suspect-early-gut-microbiome-shifts-after-holiday-pie-consumption-even-without-diarrhea-or-bloating-in-adults-65-with-stable-ibs-d
   - >-
-    when-to-worry-about-bloating-after-a-holiday-meal-red-flags-for-gi-kidney-and-cardiac-issues-in-older-adults
+    when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70
   - >-
     when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70
 ---

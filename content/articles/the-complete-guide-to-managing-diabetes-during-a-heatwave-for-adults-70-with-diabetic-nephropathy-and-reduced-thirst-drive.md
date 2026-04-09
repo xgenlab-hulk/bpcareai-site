@@ -15,8 +15,7 @@ relatedSlugs:
   - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
   - >-
     10-foods-that-support-glycemic-resilience-during-heat-waves-especially-for-adults-70-with-diabetes-and-medication-induced-hyponatremia-risk
-  - >-
-    warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history
+
 ---
 
 # Staying Safe and Steady: Diabetes Heatwave Management Elderly Edition — A Gentle Guide for Seniors 70+

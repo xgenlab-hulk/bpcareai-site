@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     a-vs-b-homemade-bone-broth-vs-store-bought-low-sodium-broth-for-seniors-with-heart-failure-and-nyha-class-ii-symptoms
   - >-
-    a-vs-b-traditional-roast-turkey-skin-on-herb-rubbed-vs-slow-braised-turkey-leg-bone-in-low-sodium-broth-impact-on-postprandial-uric-acid-in-men-62-79-with-gout-and-mild-ckd
+    turkey-preparation-gout-uric-acid-comparison
 ---
 
 # Collard Greens Heart Failure Diuretics Comparison: Which Cooking Method Is Better for Your Heart?

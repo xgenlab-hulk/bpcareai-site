@@ -15,7 +15,7 @@ relatedSlugs:
   - >-
     red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
   - >-
-    myths-vs-facts-my-heart-is-fine-because-my-ekg-is-normal-what-cardiac-mri-strain-mapping-reveals-in-adults-56-68-with-recurrent-palpitations-and-no-structural-disease
+    ekg-normal-cardiac-mri-strain
 ---
 
 # Understanding Cardiac MRI T1 Mapping Interpretation: A Clear Guide for Adults 63–77 With Unexplained Shortness of Breath

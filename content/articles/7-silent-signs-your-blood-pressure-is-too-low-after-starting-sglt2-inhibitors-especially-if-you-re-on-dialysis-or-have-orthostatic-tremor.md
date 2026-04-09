@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
   - >-
-    when-to-worry-about-blood-pressure-dropping-only-during-walking-a-red-flag-pattern-for-autonomic-neuropathy-in-adults-with-long-standing-diabetes-over-67
+    blood-pressure-drops-walking-diabetes-neuropathy
 ---
 
 # Recognizing Low Blood Pressure on SGLT2 Inhibitors: 7 Subtle Clues You Shouldn’t Ignore—Especially With Advanced CKD or Orthostatic Tremor

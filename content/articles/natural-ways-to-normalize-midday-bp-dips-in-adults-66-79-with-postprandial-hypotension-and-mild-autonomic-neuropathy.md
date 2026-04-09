@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     quick-ways-to-normalize-morning-cortisol-bp-coupling-within-7-days-using-dawn-simulation-protein-first-breakfast-in-adults-with-morning-hypertension
   - >-
-    quick-ways-to-normalize-nocturnal-bp-dipping-using-bedroom-temperature-pillow-height-and-supine-breathing-rhythm-for-adults-70-with-non-dipping-patterns
+    normalize-nocturnal-blood-pressure-dipping
 ---
 
 # Natural Strategies to Address Midday BP Dip Postprandial Hypotension in Adults 66–79 With Mild Autonomic Neuropathy

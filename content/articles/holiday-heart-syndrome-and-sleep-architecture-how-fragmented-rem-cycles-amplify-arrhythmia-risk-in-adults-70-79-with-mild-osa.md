@@ -14,9 +14,9 @@ relatedSlugs:
   - >-
     warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
   - >-
-    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - >-
-    how-excessive-alcohol-consumption-during-holiday-parties-triggers-atrial-fibrillation-in-adults-55-72-with-pre-existing-hypertension
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
 ---
 
 # How Sleep Architecture, Holiday Heart Syndrome, and Mild OSA Interact in Adults 70–79

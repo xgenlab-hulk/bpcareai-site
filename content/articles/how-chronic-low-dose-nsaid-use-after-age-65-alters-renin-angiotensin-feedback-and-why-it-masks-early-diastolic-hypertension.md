@@ -15,11 +15,11 @@ relatedSlugs:
   - >-
     does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
   - >-
-    how-intermittent-use-of-over-the-counter-nsaids-for-back-pain-disrupts-renal-prostaglandin-balance-and-why-that-raises-risk-of-acute-kidney-injury-in-adults-62-with-stage-2-diabetic-nephropathy
+    nsaids-and-kidney-injury-diabetes
   - >-
     how-long-term-nsaid-use-even-occasional-elevates-pulse-pressure-in-adults-64-with-aortic-root-dilation-3-8-cm-on-echo
   - >-
-    how-chronic-low-dose-nsaid-use-alters-renal-prostaglandin-mediated-glucose-reabsorption-and-accelerates-egfr-decline-in-adults-70-with-stage-3-ckd-and-diabetes
+    nsaid-renal-glucose-reabsorption-ckd
 ---
 
 # How Daily NSAIDs After 65 Can Quietly Raise Diastolic Pressure — And Why Your Kidneys Might Not Tell You

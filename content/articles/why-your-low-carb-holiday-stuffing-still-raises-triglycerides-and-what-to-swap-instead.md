@@ -11,7 +11,7 @@ relatedSlugs:
   - >-
     the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
   - >-
-    warning-signs-your-holiday-healthy-swap-e-g-coconut-flour-cookies-is-accelerating-postprandial-triglyceride-rich-lipoprotein-production-in-adults-with-diabetic-dyslipidemia
+    holiday-healthy-swap-triglyceride-lipoprotein
   - low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
   - >-
     7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control

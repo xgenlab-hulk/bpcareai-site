@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
   - >-
-    12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75
+    foods-stabilize-pulse-pressure-seniors-orthostasis
 ---
 
 # Gentle, Evidence-Based Ways to Lower Pulmonary Capillary Wedge Pressure in Orthopnea—Especially for Adults 68+

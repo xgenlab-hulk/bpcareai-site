@@ -15,9 +15,9 @@ relatedSlugs:
   - >-
     can-daily-5-minute-guided-visualization-lower-post-holiday-stress-induced-hyperglycemia-in-women-58-73-with-type-2-diabetes
   - >-
-    quick-ways-to-normalize-diastolic-bp-within-48-hours-using-breathing-biofeedback-validated-in-2-rcts-for-adults-with-isolated-diastolic-hypertension
+    resonant-breathing-diastolic-pressure-reduction
   - >-
-    does-daily-5-minute-nasal-breathing-practice-improve-baroreflex-sensitivity-and-reduce-postprandial-blood-pressure-lability-in-adults-63-77-with-type-2-diabetes-and-orthostatic-hypotension
+    nasal-breathing-baroreflex-diabetes
 ---
 
 # Can Daily Diaphragmatic Breathing Fasting Glucose Improve Blood Sugar in Adults 59–69 with Stress-Related High Blood Sugar?

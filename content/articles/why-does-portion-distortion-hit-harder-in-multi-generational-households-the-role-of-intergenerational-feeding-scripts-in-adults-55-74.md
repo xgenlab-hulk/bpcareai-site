@@ -13,8 +13,7 @@ relatedSlugs:
   - >-
     how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65
   - portion-control-strategies-for-large-family-meals-that-work
-  - >-
-    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
+
   - >-
     how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
   - what-to-do-when-your-family-doesn-t-support-your-healthy-eating-choices

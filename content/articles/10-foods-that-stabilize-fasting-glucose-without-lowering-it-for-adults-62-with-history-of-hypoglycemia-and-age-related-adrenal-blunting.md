@@ -10,14 +10,12 @@ image: ''
 relatedSlugs:
   - >-
     10-foods-that-stabilize-postprandial-glucose-variability-in-adults-64-with-gastroparesis-and-type-2-diabetes
+
   - >-
-    10-foods-that-lower-post-dinner-glucose-variability-without-raising-ldl-for-adults-66-79-with-type-2-diabetes-and-familial-hypercholesterolemia
-  - >-
-    12-holiday-foods-that-stabilize-blood-glucose-during-the-meal-not-just-after-with-glycemic-index-modifiers-fiber-synergy-and-timing-rules-for-adults-65
+    holiday-foods-stabilize-blood-glucose-during-meal
   - >-
     9-foods-that-stabilize-blood-sugar-without-adding-protein-powders-or-supplements-for-adults-57-managing-type-2-diabetes-at-holiday-dinners
-  - >-
-    12-holiday-foods-seniors-70-can-eat-without-spiking-blood-sugar-or-blood-pressure
+
 ---
 
 # Foods That Support Fasting Glucose Stabilization Hypoglycemia Seniors — Safely Nourishing Metabolic Resilience After 62

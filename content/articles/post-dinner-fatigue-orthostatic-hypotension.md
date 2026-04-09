@@ -19,7 +19,7 @@ relatedSlugs:
   - >-
     when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension
   - >-
-    when-to-worry-about-sudden-fatigue-after-holiday-meals-distinguishing-normal-fullness-from-early-cardiac-diastolic-dysfunction-in-women-65-with-obesity-and-sleep-apnea
+    sudden-fatigue-after-holiday-meals-cardiac-diastolic-dysfunction
 ---
 
 # When Post Dinner Fatigue Orthostatic Hypotension Might Be More Than Just “Feeling Tired” After Family Dinners

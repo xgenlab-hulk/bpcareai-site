@@ -15,7 +15,7 @@ relatedSlugs:
   - >-
     natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
   - >-
-    7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55
+    7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
   - quick-ways-to-calm-a-racing-heart-during-a-holiday-event
 ---
 

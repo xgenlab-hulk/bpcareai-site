@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     what-causes-sudden-after-dinner-fatigue-in-adults-71-with-mild-anemia-and-low-vitamin-b12-and-how-to-prevent-it-at-holiday-gatherings
   - >-
-    how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it
+    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
   - >-
-    when-to-worry-about-sudden-fatigue-after-holiday-meals-distinguishing-normal-fullness-from-early-cardiac-diastolic-dysfunction-in-women-65-with-obesity-and-sleep-apnea
+    sudden-fatigue-after-holiday-meals-cardiac-diastolic-dysfunction
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-after-holiday-overeating-without-supplements-for-adults-59-70-with-sedentary-lifestyle-and-low-vo2-max
+    mitochondrial-biogenesis-after-overeating-seniors
 ---
 
 # Why You Feel Drained After Dinner Only at Your Daughter’s House — Understanding Post-Dinner Fatigue, Holiday Indoor Air, and Gentle Mitigation Strategies

@@ -9,7 +9,7 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    simple-steps-to-adjust-your-cardiac-rehab-routine-for-post-covid-myocardial-fatigue-especially-if-you-re-over-70-and-experienced-subclinical-troponin-elevation
+    cardiac-rehab-post-covid-myocardial-fatigue
   - >-
     myths-vs-facts-carb-counting-works-for-everyone-why-it-fails-in-adults-73-with-mild-cognitive-impairment-and-late-stage-diabetic-retinopathy
   - >-

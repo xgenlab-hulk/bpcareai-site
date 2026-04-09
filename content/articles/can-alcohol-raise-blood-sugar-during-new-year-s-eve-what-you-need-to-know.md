@@ -10,7 +10,7 @@ image: ''
 relatedSlugs:
   - the-truth-about-alcohol-and-blood-sugar-during-holiday-parties
   - >-
-    what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
+    can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
   - does-alcohol-raise-blood-sugar-in-older-adults-with-diabetes
   - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes

@@ -11,11 +11,11 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    10-foods-that-stabilize-coronary-microvascular-reactivity-not-just-lower-cholesterol-for-adults-61-with-inoca-and-no-obstructive-disease
+    coronary-microvascular-reactivity-natural-support
   - >-
-    natural-ways-to-support-coronary-microvascular-reactivity-without-nitrate-therapy-using-low-dose-pomegranate-ellagitannin-cycling-and-supine-diaphragmatic-breath-holds-in-adults-66-with-inoca
+    coronary-microvascular-reactivity-natural-support
   - >-
-    5-things-every-woman-over-65-with-early-stage-breast-cancer-should-know-before-starting-aromatase-inhibitor-therapy-especially-if-she-has-pre-existing-microvascular-coronary-dysfunction
+    aromatase-inhibitors-heart-microvascular-dysfunction
   - >-
     10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina
   - >-

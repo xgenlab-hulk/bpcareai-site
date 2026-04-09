@@ -8,10 +8,9 @@ primaryKeyword: blood pressure spikes while shaving or brushing teeth
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+
   - >-
-    quick-ways-to-normalize-morning-bp-surge-using-pre-rise-hydration-timing-foot-warming-and-cervical-pillow-angle-for-adults-67-with-sleep-apnea-and-elevated-morning-sbp
-  - >-
-    can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns
+    cold-face-immersion-baroreflex-seniors
   - >-
     why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
   - >-

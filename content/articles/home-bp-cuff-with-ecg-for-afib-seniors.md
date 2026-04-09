@@ -11,11 +11,11 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    7-red-flags-that-your-bp-monitor-is-giving-false-readings-especially-if-you-re-74-with-atrial-fibrillation-and-arm-edema
+    warning-signs-your-blood-pressure-monitor-is-giving-false-readings-especially-if-you-re-71-with-atrial-fibrillation-and-irregular-pulse
   - >-
     best-home-blood-pressure-cuffs-for-adults-75-with-severe-arthritis-and-tremor-accuracy-fit-and-one-handed-operation-compared
   - >-
-    a-vs-b-home-finger-cuff-photoplethysmography-vs-wrist-worn-ecg-for-detecting-paroxysmal-atrial-fibrillation-in-adults-79-with-severe-osteoarthritis-and-limited-dexterity
+    finger-cuff-vs-wrist-ecg-afib-detection
   - >-
     a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor
   - >-

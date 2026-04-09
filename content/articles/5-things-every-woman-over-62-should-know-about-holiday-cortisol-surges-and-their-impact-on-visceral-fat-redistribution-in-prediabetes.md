@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp
   - >-
-    how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
   - >-
     how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance
   - >-
-    how-intergenerational-cooking-stress-elevates-cortisol-driven-dawn-phenomenon-in-men-62-with-long-term-type-2-diabetes-and-untreated-sleep-disordered-breathing
+    intergenerational-cooking-cortisol-dawn-phenomenon
   - >-
-    5-signs-your-holiday-stress-is-spiking-cortisol-and-raising-fasting-glucose-without-you-noticing
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
 ---
 
 # Holiday Stress Raising Your Blood Sugar? 5 Things Every Woman 62+ with Prediabetes Must Know About Cortisol Surges

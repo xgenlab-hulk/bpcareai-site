@@ -17,9 +17,9 @@ relatedSlugs:
   - >-
     can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76
   - >-
-    how-indoor-barometric-pressure-drops-below-1005-hpa-increase-ambulatory-systolic-load-in-adults-63-82-with-hypertensive-heart-disease-and-left-atrial-enlargement
+    barometric-pressure-drop-systolic-load-hypertensive-heart-disease
   - >-
-    when-to-worry-about-white-coat-readings-that-persist-in-the-er-differentiating-acute-hypertensive-urgency-from-masked-stress-induced-surges-in-adults-68
+    white-coat-hypertension-emergency-room-adults-68
 ---
 
 # What Your “Normal” Blood Pressure Really Means During Bronchitis—Especially on ACE Inhibitors After Age 67

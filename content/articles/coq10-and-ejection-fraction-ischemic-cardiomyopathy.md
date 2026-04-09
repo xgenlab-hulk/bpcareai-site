@@ -11,7 +11,7 @@ relatedSlugs:
   - >-
     can-long-term-statin-use-worsen-myocardial-energetics-in-adults-72-with-pre-existing-mitochondrial-myopathy-and-fatigue-dominant-heart-failure
   - >-
-    what-research-says-about-the-impact-of-long-term-metformin-use-on-mitochondrial-dna-copy-number-in-skeletal-muscle-of-adults-62-78-with-type-2-diabetes-and-low-vo-max
+    metformin-mitochondrial-dna-copy-number
   - metformin-mitochondrial-dna-copy-number
   - foods-cardiac-fibroblast-quiescence-seniors
   - mitochondrial-quality-control-in-cardiomyocytes

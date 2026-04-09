@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
   - >-
-    when-to-worry-about-white-coat-readings-that-persist-in-the-er-differentiating-acute-hypertensive-urgency-from-masked-stress-induced-surges-in-adults-68
+    white-coat-hypertension-emergency-room-adults-68
 ---
 
 # Recognizing Masking-Secondary-Hypertension-Symptoms in Midlife: What ‘Mild’ Blood Pressure Elevation Might Really Be Telling You

@@ -15,9 +15,9 @@ relatedSlugs:
   - >-
     12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
   - >-
-    natural-remedies-for-high-blood-pressure-in-adults-with-chronic-kidney-disease-stage-3-focusing-on-uremic-toxin-clearance-klotho-enhancement-and-gut-microbiome-derived-tmao-modulation
+    natural-remedies-high-blood-pressure-chronic-kidney-disease
   - >-
-    12-science-backed-ways-to-reverse-early-left-ventricular-hypertrophy-without-medication-focused-on-diastolic-filling-time-sodium-timing-and-evening-magnesium-glycinate-dosing
+    reverse-left-ventricular-hypertrophy-without-medication
 ---
 
 # Supporting Renal Sodium Excretion TRPV4 Activation in Adults 59–73: Gentle, Evidence-Informed Strategies for Salt-Sensitive Blood Pressure

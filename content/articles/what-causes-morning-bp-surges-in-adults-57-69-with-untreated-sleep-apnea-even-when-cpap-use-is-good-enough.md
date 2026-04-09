@@ -8,8 +8,7 @@ primaryKeyword: why does blood pressure spike every morning with CPAP
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
-  - >-
-    quick-ways-to-normalize-morning-bp-surge-using-pre-rise-hydration-timing-foot-warming-and-cervical-pillow-angle-for-adults-67-with-sleep-apnea-and-elevated-morning-sbp
+
   - >-
     how-sleep-disordered-breathing-severity-ahi-15-alters-nocturnal-bp-recovery-in-adults-66-82-with-normal-looking-daytime-readings
   - >-
@@ -17,7 +16,7 @@ relatedSlugs:
   - >-
     7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
   - >-
-    the-complete-guide-to-interpreting-ambulatory-blood-pressure-reports-especially-for-adults-64-with-nocturnal-non-dipping-sleep-apnea-and-fragmented-rem-cycles
+    interpreting-ambulatory-blood-pressure-reports-sleep-apnea
 ---
 
 # Understanding Morning BP Surge Residual Sleep Apnea in Adults 57–69

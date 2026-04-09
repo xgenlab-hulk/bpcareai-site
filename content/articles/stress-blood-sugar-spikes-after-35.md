@@ -12,15 +12,15 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
-    the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
   - >-
     how-stress-affects-blood-sugar-in-people-with-diabetes-over-50
   - >-
-    how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
   - >-
-    holiday-stress-blood-sugar-control
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
   - >-
-    5-signs-your-holiday-stress-is-spiking-cortisol-and-raising-fasting-glucose-without-you-noticing
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
 ---
 
 # Can Stress at Work Cause Blood Sugar Spikes After 35? What Every Adult Needs to Know  

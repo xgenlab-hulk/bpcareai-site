@@ -13,7 +13,7 @@ relatedSlugs:
   - why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
   - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
   - >-
-    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
 ---
 
 # Understanding Morning Blood Pressure Spikes Over 65—Even With Well-Timed Medication

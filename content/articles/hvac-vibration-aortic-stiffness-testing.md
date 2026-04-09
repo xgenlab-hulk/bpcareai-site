@@ -19,7 +19,7 @@ relatedSlugs:
   - >-
     warning-signs-your-blood-pressure-monitor-is-giving-false-readings-especially-if-you-re-71-with-atrial-fibrillation-and-irregular-pulse
   - >-
-    12-science-backed-times-to-measure-pulse-wave-velocity-after-a-shower-not-just-in-fasting-state-for-adults-70-with-sarcopenic-obesity-and-suspected-arterial-stiffness
+    pulse-wave-velocity-after-shower-seniors
 ---
 
 # How HVAC Vibration Interferes with Aortic Stiffness Testing — And Why It Matters for Adults 76+

@@ -19,7 +19,7 @@ relatedSlugs:
   - >-
     how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises
   - >-
-    12-science-backed-ways-to-improve-baroreflex-sensitivity-without-drugs-for-adults-59-76-with-isolated-systolic-hypertension-and-low-hrv
+    natural-baroreflex-sensitivity-enhancement
 ---
 
 # How Hearing Aids, Baroreflex Sensitivity, and Diastolic Dysfunction Are Connected in Older Adults

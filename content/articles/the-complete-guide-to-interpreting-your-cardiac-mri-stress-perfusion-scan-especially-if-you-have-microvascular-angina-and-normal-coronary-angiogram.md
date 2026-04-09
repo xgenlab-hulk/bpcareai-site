@@ -9,7 +9,7 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    5-natural-ways-to-improve-coronary-microvascular-function-without-medication-especially-for-women-with-inoca-and-normal-coronary-angiograms
+    microvascular-coronary-reactivity-natural
   - >-
     the-ultimate-guide-to-interpreting-your-coronary-artery-calcium-score-including-age-and-sex-specific-percentile-benchmarks-and-when-to-repeat-scanning
   - >-

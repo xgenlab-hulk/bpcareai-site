@@ -14,9 +14,9 @@ relatedSlugs:
     why-does-heart-failure-progress-despite-stable-nt-probnp-in-adults-66-with-iron-deficiency-anemia-and-elevated-hepcidin
   - the-truth-about-winter-weight-gain-and-heart-strain-after-60
   - >-
-    when-to-suspect-cardiac-amyloidosis-in-women-66-81-with-bilateral-carpal-tunnel-syndrome-unexplained-weight-loss-and-normal-echo-findings
+    when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss
   - >-
-    why-heart-failure-with-preserved-ejection-fraction-hfpef-often-masquerades-as-just-aging-in-women-70-and-how-a-3-minute-sitting-to-standing-test-can-reveal-it
+    hfpref-misdiagnosed-as-aging-women
 ---
 
 # Why Unintentional Weight Loss in Older Adults With Heart Failure Is a Powerful Clue for Prognosis — And What It Means for Heart Health

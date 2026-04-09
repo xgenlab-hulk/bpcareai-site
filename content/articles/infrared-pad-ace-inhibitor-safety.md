@@ -19,7 +19,7 @@ relatedSlugs:
   - >-
     how-cold-weather-triggers-morning-hypertensive-crises-in-adults-72-with-white-coat-hypertension-and-peripheral-artery-disease
   - >-
-    can-you-safely-use-sauna-therapy-after-a-recent-diabetic-foot-ulcer-closure-evidence-based-temperature-duration-and-hydration-thresholds-for-adults-68-with-peripheral-neuropathy
+    sauna-therapy-diabetic-foot-ulcer-recovery
 ---
 
 # Is It Safe to Use Infrared Heating Pads While Taking ACE Inhibitors? A Practical Guide for Adults 72+ With Stage 2 Hypertension and Mild CKD  

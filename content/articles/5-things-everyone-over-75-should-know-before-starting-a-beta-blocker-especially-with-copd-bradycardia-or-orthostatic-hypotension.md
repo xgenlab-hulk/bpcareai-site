@@ -9,7 +9,7 @@ topicCluster: natural-remedies
 image: ''
 relatedSlugs:
   - >-
-    the-complete-guide-to-managing-heart-disease-while-recovering-from-cataract-surgery-practical-protocols-for-adults-73-on-beta-blockers-with-preoperative-resting-hr-58-bpm
+    heart-disease-cataract-surgery-seniors
   - >-
     can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
   - >-

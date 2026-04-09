@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     warning-signs-of-masked-nocturnal-hypertension-in-adults-62-who-sleep-with-white-noise-machines
   - >-
-    how-intermittent-exposure-to-urban-traffic-noise-elevates-morning-systolic-pressure-by-8-12-mmhg-even-with-bedroom-windows-closed-in-adults-63-living-near-freeways
+    traffic-noise-morning-systolic-blood-pressure
   - >-
     what-research-says-about-hearing-loss-as-an-early-biomarker-of-vascular-aging-in-men-over-75
 ---

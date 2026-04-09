@@ -10,8 +10,7 @@ image: ''
 relatedSlugs:
   - >-
     how-night-shift-work-after-age-50-rewires-circadian-genes-linked-to-coronary-artery-calcification
-  - >-
-    12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults
+
   - >-
     myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
   - top-7-heart-protective-vitamins-to-take-in-winter

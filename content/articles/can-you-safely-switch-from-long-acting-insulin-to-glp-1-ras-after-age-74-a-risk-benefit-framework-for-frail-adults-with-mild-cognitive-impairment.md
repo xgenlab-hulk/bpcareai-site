@@ -16,7 +16,7 @@ relatedSlugs:
     7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
   - is-metformin-still-safe-for-diabetics-over-70
   - >-
-    the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors
+    are-sugar-free-treats-actually-safe-for-diabetics-over-65
 ---
 
 # Navigating the Insulin to GLP-1 Switch in Frail Elderly Adults: A Gentle, Evidence-Informed Guide

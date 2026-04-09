@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
   - >-
-    the-truth-about-one-bite-dessert-sharing-how-micro-dosing-added-sugars-disrupts-circadian-glucose-rhythms-in-adults-63-80-with-shifted-melatonin-onset-and-evening-hyperglycemia
+    one-bite-dessert-circadian-glucose-rhythm
   - >-
-    the-truth-about-low-sugar-store-bought-pumpkin-pie-fillings-why-91-still-contain-high-fructose-corn-syrup-derivatives-that-bypass-first-pass-metabolism-in-adults-70-with-nafld
+    low-sugar-pumpkin-pie-fructose-metabolism-nafld
   - >-
     how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
   - >-
-    a-vs-b-evening-8-p-m-tart-cherry-juice-montmorency-vs-nighttime-10-p-m-low-dose-melatonin-0-5-mg-for-improving-nocturnal-glucose-stability-in-women-61-75-with-sleep-fragmentation-and-type-2-diabetes
+    tart-cherry-vs-melatonin-for-nighttime-glucose
 ---
 
 # Pumpkin Pie, Melatonin, and Sleep-Onset Insomnia in Adults 66+: Separating Holiday Myths from Sleep Science

@@ -11,13 +11,13 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-traditional-roast-turkey-skin-on-herb-rubbed-vs-slow-braised-turkey-leg-bone-in-low-sodium-broth-impact-on-postprandial-uric-acid-in-men-62-79-with-gout-and-mild-ckd
+    turkey-preparation-gout-uric-acid-comparison
   - >-
-    a-vs-b-slow-cooked-herb-roasted-turkey-breast-vs-deep-fried-turkey-leg-which-preserves-more-bioavailable-zinc-and-supports-immune-resilience-in-seniors-with-low-serum-zinc
+    turkey-preparation-zinc-bioavailability-seniors
   - >-
     a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease
   - >-
-    a-vs-b-traditional-slow-cooked-turkey-breast-vs-sous-vide-turkey-breast-impact-on-advanced-glycation-end-products-ages-postprandial-inflammation-and-endothelial-function-in-adults-66-with-early-atherosclerosis
+    turkey-cooking-method-endothelial-health
   - >-
     7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-adults-72-with-isolated-systolic-hypertension-and-what-to-serve-instead
 ---

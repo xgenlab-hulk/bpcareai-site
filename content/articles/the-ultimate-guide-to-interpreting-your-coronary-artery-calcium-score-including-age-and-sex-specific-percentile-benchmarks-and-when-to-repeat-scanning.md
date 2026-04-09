@@ -11,7 +11,7 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-daily-low-dose-aspirin-initiation-at-age-55-vs-age-65-for-primary-prevention-what-the-2024-uspstf-reanalysis-says-about-net-benefit-in-adults-with-cac-score-100
+    aspirin-primary-prevention-cacs-score
   - >-
     12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
   - >-
@@ -19,7 +19,7 @@ relatedSlugs:
   - >-
     the-complete-guide-to-interpreting-your-cardiac-ct-calcium-score-if-you-re-60-and-have-no-symptoms-but-a-family-history-of-early-heart-attacks
   - >-
-    the-complete-guide-to-interpreting-your-coronary-artery-calcium-score-with-ct-lung-screening-avoiding-misattribution-of-calcified-nodules-in-adults-63-with-emphysema
+    coronary-calcium-score-ct-lung-screening
 ---
 
 # A Practical Coronary Calcium Score Interpretation Guide for Adults 50 and Older

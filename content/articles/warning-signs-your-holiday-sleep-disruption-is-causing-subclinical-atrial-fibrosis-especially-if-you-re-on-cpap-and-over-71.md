@@ -19,7 +19,7 @@ relatedSlugs:
   - >-
     the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
   - >-
-    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
 ---
 
 # Subtle Sleep Disruption and Atrial Fibrosis Warning Signs You Might Miss This Holiday Season—Especially If You’re Over 71 and Use CPAP

@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     can-you-safely-eat-leftover-turkey-salad-on-day-3-if-you-re-on-metformin-and-have-egfr-62-a-food-safety-renal-glucose-guide
   - >-
-    a-vs-b-slow-cooked-holiday-leftovers-vs-reheated-microwave-portions-which-preserves-more-bioavailable-zinc-and-magnesium-for-seniors-with-atrophic-gastritis
+    reheating-holiday-leftovers-mineral-bioavailability-seniors
 ---
 
 # Leftover Gravy Safety Stage 3 CKD: A Practical Guide for Adults 74+ with Chronic Kidney Disease

@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     natural-ways-to-support-post-meal-insulin-sensitivity-without-supplements-for-adults-57-69-with-abdominal-obesity-and-mild-nafld
   - >-
-    natural-ways-to-counteract-holiday-nighttime-glucose-spikes-without-medication-focused-on-evening-walking-timing-foot-temperature-and-cinnamon-bioavailability
+    natural-glucose-control-holiday-seniors
 ---
 
 # Natural Ways to Stabilize Overnight Glucose Without Insulin Adjustment — Especially After 59

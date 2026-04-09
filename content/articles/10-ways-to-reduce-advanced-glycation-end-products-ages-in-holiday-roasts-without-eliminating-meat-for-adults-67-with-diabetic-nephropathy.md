@@ -9,7 +9,7 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-slow-cooked-sweet-potatoes-with-brown-sugar-butter-vs-roasted-with-cinnamon-pecans-impact-on-postprandial-endothelial-function-in-adults-58-69-with-metabolic-syndrome
+    sweet-potatoes-roasted-vs-slow-cooked-endothelial-function
   - >-
     quick-ways-to-neutralize-holiday-meal-induced-oxidative-stress-in-adults-67-with-low-serum-vitamin-e-and-high-hs-crp
   - >-

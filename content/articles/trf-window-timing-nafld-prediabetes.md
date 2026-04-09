@@ -13,13 +13,12 @@ relatedSlugs:
   - >-
     how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin
   - >-
-    natural-ways-to-improve-hepatic-insulin-sensitivity-using-time-restricted-eating-with-early-evening-protein-for-adults-61-75-with-nafld-and-elevated-alt
+    time-restricted-eating-hepatic-insulin-sensitivity
   - >-
-    what-research-says-about-time-restricted-eating-starting-at-4-p-m-for-adults-67-with-type-2-diabetes-and-early-diastolic-dysfunction-impact-on-cardiac-strain-and-nt-probnp-trajectories
+    time-restricted-eating-4pm-type-2-diabetes-seniors
+
   - >-
-    a-vs-b-morning-7-a-m-walking-on-an-empty-stomach-vs-30-minute-post-dinner-walk-for-reducing-nocturnal-glucose-spikes-in-men-59-68-with-prediabetes-and-visceral-adiposity
-  - >-
-    12-science-backed-times-to-serve-a-protein-first-bite-not-just-eat-slowly-to-reduce-post-holiday-triglyceride-spikes-in-adults-68-with-metabolic-syndrome
+    protein-first-timing-triglycerides-metabolic-syndrome
 ---
 
 # How TRF Window Timing in NAFLD and Prediabetes Affects Liver Health and Gut Hormones

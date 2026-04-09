@@ -13,7 +13,7 @@ relatedSlugs:
   - natural-ways-to-support-blood-sugar-balance-during-holiday-stress
   - best-supplements-for-blood-sugar-support-after-50
   - >-
-    a-vs-b-mulled-wine-vs-warm-spiced-apple-cider-for-blood-sugar-stability-in-women-over-60-with-insulin-resistance
+    a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome
   - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
   - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
 ---

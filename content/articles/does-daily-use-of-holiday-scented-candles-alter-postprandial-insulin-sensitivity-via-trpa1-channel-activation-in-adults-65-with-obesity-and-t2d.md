@@ -9,15 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-holiday-candlelight-dinners-alter-circadian-driven-insulin-sensitivity-in-adults-66-with-mild-insulin-resistance-and-what-to-serve-instead-of-rolls
+    candlelight-dinners-insulin-sensitivity-seniors
   - >-
-    10-hidden-sources-of-endocrine-disrupting-chemicals-in-senior-living-communities-and-how-they-may-amplify-insulin-resistance-in-adults-77-with-long-term-t2d
+    endocrine-disruptors-senior-living-insulin-resistance
   - >-
-    how-chronic-use-of-cooling-topical-gels-with-menthol-alters-trpm8-dependent-insulin-sensitivity-in-subcutaneous-adipose-tissue-and-why-that-masks-early-lipodystrophy-in-adults-66-with-long-standing-insulin-therapy
+    menthol-gels-insulin-sensitivity-lipodystrophy
   - >-
-    why-your-holiday-glucose-readings-are-higher-only-when-visiting-your-son-s-house-the-role-of-pet-dander-induced-systemic-inflammation-in-adults-66-with-subclinical-asthma-and-t2d
+    pet-dander-holiday-glucose-spikes
   - >-
-    what-causes-sudden-post-dinner-fatigue-only-when-eating-at-your-daughter-s-house-the-role-of-ambient-vocs-carpet-off-gassing-and-mitochondrial-stress-in-adults-64-with-fibromyalgia
+    post-dinner-fatigue-holiday-indoor-air
 ---
 
 # Could Holiday-Scented Candles Affect Insulin Sensitivity in Older Adults with Diabetes? What the Science Suggests

@@ -8,16 +8,13 @@ primaryKeyword: 'is it safe to skip a water pill after holiday meals'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
-  - >-
-    warning-signs-your-holiday-hydration-plan-e-g-herbal-teas-broth-infused-water-is-diluting-sodium-especially-if-you-re-on-diuretics-or-have-hyponatremia-history
-  - >-
-    12-holiday-foods-seniors-with-heart-failure-should-avoid-and-what-to-eat-instead
+
   - >-
     5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
   - >-
     7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
   - >-
-    warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68
+    12-science-backed-ways-to-prevent-post-holiday-hyponatremia-in-adults-78-living-alone-and-taking-ssris-or-thiazides
 ---
 
 # Diuretic Holiday Heart Failure in Seniors: Why Skipping Just One Dose After Thanksgiving Can Trigger Acute Decompensated Heart Failure

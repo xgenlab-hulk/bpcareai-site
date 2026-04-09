@@ -11,13 +11,12 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    5-foods-that-support-pancreatic-acinar-cell-repair-without-stimulating-exocrine-hypersecretion-for-adults-58-67-with-type-2-diabetes-and-chronic-pancreatitis-history
+    pancreatic-acinar-repair-foods-type-2-diabetes
   - >-
-    natural-ways-to-support-pancreatic-acinar-cell-function-and-reduce-postprandial-lipase-deficiency-in-adults-65-with-long-standing-type-2-diabetes-and-fatty-pancreas-imaging
+    pancreatic-acinar-support-for-diabetics
+
   - >-
-    natural-ways-to-support-pancreatic-beta-cell-resilience-during-festive-eating-using-post-meal-fenugreek-seed-infusion-cold-pressed-flax-oil-timing-in-adults-61-with-long-standing-type-2-diabetes
-  - >-
-    natural-ways-to-support-pancreatic-beta-cell-rest-during-holiday-meals-using-cold-pressed-apple-cinnamon-chutney-and-pre-meal-seated-breathing-in-adults-63
+    beta-cell-rest-holiday-meals-natural-support
   - >-
     natural-ways-to-support-pancreatic-beta-cell-resilience-after-age-59-using-time-restricted-eating-zinc-rich-foods-and-berberine-timing
 ---

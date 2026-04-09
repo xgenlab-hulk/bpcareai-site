@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease
   - >-
-    a-vs-b-slow-cooked-herb-roasted-turkey-breast-vs-deep-fried-turkey-leg-which-preserves-more-bioavailable-zinc-and-supports-immune-resilience-in-seniors-with-low-serum-zinc
+    turkey-preparation-zinc-bioavailability-seniors
   - >-
-    a-vs-b-slow-chewed-roast-turkey-vs-ground-turkey-patties-impact-on-satiety-hormone-release-and-post-meal-fullness-in-adults-55-69-with-mild-gastroparesis-and-early-sarcopenia
+    chewing-turkey-satiety-gastroparesis
   - >-
-    a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-greens-with-liquid-aminos-which-is-safer-for-heart-failure-patients-on-diuretics
+    collard-greens-heart-failure-diuretics-comparison
 ---
 
 # Turkey Preparation Gout Uric Acid Comparison: What Men 62–79 With Gout and Mild CKD Should Know at Holiday Gatherings

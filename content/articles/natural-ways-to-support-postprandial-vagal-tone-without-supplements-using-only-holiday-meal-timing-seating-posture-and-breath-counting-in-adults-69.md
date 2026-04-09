@@ -11,9 +11,9 @@ relatedSlugs:
   - >-
     natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
   - >-
-    9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance
+    10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
   - >-
-    natural-ways-to-support-baroreflex-sensitivity-without-supplements-using-only-ambient-temperature-shifts-and-postprandial-posture-in-adults-66-with-white-coat-hypertension
+    natural-baroreflex-sensitivity-enhancement
   - >-
     quick-ways-to-restore-postprandial-parasympathetic-tone-within-20-minutes-for-adults-61-75-with-type-2-diabetes-and-vagal-withdrawal-measured-by-rmssd
   - >-

@@ -9,7 +9,7 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    quick-ways-to-lower-pulmonary-capillary-wedge-pressure-using-posture-diaphragmatic-positioning-and-expiratory-resistance-for-adults-68-with-orthopnea-and-preserved-ef
+    lower-pulmonary-capillary-wedge-pressure-orthopnea
   - >-
     what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
   - >-

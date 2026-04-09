@@ -19,7 +19,7 @@ relatedSlugs:
   - >-
     does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis
   - >-
-    a-vs-b-traditional-roast-turkey-skin-on-herb-rubbed-vs-slow-braised-turkey-leg-bone-in-low-sodium-broth-impact-on-postprandial-uric-acid-in-men-62-79-with-gout-and-mild-ckd
+    turkey-preparation-gout-uric-acid-comparison
 ---
 
 # Understanding Leftover Turkey, Uric Acid, and Silent Gout Risk in Men Over 68

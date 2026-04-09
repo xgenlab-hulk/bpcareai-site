@@ -19,7 +19,7 @@ relatedSlugs:
   - >-
     when-to-worry-about-just-tired-after-stair-climbing-in-men-60-67-with-untreated-mild-obstructive-sleep-apnea-and-normal-ejection-fraction
   - >-
-    myths-vs-facts-stable-heart-disease-means-no-progression-what-2024-imaging-studies-reveal-about-silent-plaque-erosion-in-adults-58-66-with-controlled-bp-and-ldl
+    stable-heart-disease-plaque-erosion
 ---
 
 # “I Climb Stairs Easily—My Heart Must Be Fine!”: Why Stairs Fitness and Subclinical Ischemia Don’t Always Go Hand in Hand

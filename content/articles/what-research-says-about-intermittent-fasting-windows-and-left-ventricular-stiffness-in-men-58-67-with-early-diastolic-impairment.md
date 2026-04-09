@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease
   - >-
-    how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort
+    intermittent-fasting-diastolic-dysfunction-hr
   - >-
     how-intermittent-fasting-alters-cardiac-autophagy-flux-in-men-58-67-with-left-ventricular-diastolic-dysfunction-and-elevated-galectin-3
   - >-
-    12-science-backed-ways-to-reduce-left-ventricular-stiffness-without-medication-focusing-on-titin-phosphorylation-sodium-intake-timing-and-deep-exhalation-duration
+    reduce-left-ventricular-stiffness-without-medication
 ---
 
 # What Science Says About Intermittent Fasting and Diastolic Stiffness in Men 58–67 With Early Diastolic Impairment

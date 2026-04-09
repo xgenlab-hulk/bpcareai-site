@@ -18,7 +18,7 @@ relatedSlugs:
   - >-
     myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
   - >-
-    how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it
+    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
 ---
 
 # Holiday Eating Light Glucose Myths vs. Facts: What Adults 62+ With Insulin Resistance *Really* Need to Know

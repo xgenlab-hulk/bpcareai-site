@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     7-hidden-risks-of-over-the-counter-nasal-decongestants-for-adults-62-with-atrial-fibrillation-and-controlled-hypertension
   - >-
-    how-long-term-use-of-over-the-counter-nasal-decongestants-alters-carotid-sinus-sensitivity-in-adults-64-with-early-autonomic-neuropathy-and-mild-orthostasis
+    nasal-decongestants-and-carotid-sinus-sensitivity
   - >-
     how-long-term-nsaid-use-even-occasional-elevates-pulse-pressure-in-adults-64-with-aortic-root-dilation-3-8-cm-on-echo
   - >-
-    what-research-says-about-daily-12-second-breath-hold-intervals-after-nasal-saline-rinse-effects-on-endothelial-dependent-vasodilation-in-adults-58-65-with-prehypertension
+    nasal-rinse-breath-hold-for-endothelial-function
   - >-
-    does-daily-5-minute-nasal-breathing-practice-improve-baroreflex-sensitivity-and-reduce-postprandial-blood-pressure-lability-in-adults-63-77-with-type-2-diabetes-and-orthostatic-hypotension
+    nasal-breathing-baroreflex-diabetes
 ---
 
 # How Nasal Decongestants and Pulse Pressure in Asthma Interact in Adults 55–64

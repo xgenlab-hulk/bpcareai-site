@@ -19,7 +19,7 @@ relatedSlugs:
   - >-
     how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
   - >-
-    how-living-near-high-traffic-urban-corridors-alters-autonomic-modulation-of-ventricular-repolarization-in-adults-57-65-with-borderline-qtc-prolongation
+    traffic-pollution-and-ventricular-repolarization
 ---
 
 # How Seasonal Air Pollution Affects Angina Stability — What Adults 59+ Should Know

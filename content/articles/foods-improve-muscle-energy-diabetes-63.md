@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-high-intensity-interval-training-using-cold-adapted-green-tea-polyphenols-and-seated-resistance-band-cycles-in-adults-71-with-sarcopenia-and-prediabetes
+    mitochondrial-biogenesis-without-hiit-seniors
 ---
 
 # Low Energy With Diabetes? 12 Foods That Safely Rebuild Muscle Strength for Adults 63+

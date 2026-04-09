@@ -19,7 +19,7 @@ relatedSlugs:
   - >-
     what-causes-sudden-onset-of-orthostatic-tachycardia-after-dental-anesthesia-in-adults-71-with-autonomic-neuropathy-and-prior-orthostatic-hypotension
   - >-
-    how-chronic-use-of-prescription-hearing-aids-alters-baroreflex-sensitivity-via-auditory-vagal-coupling-and-why-that-masks-early-diastolic-dysfunction-in-adults-72-with-normal-echo-findings
+    hearing-aids-baroreflex-sensitivity-diastolic-dysfunction
 ---
 
 # How Nasal Decongestants and Carotid Sinus Sensitivity Interact in Older Adults With Early Autonomic Changes

@@ -9,7 +9,7 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    quick-ways-to-normalize-postprandial-triglyceride-clearance-using-meal-order-and-chewing-duration-especially-in-adults-56-69-with-diabetic-dyslipidemia-and-pancreatic-steatosis
+    meal-order-triglyceride-clearance-diabetes
   - >-
     why-your-light-holiday-appetizer-plate-may-be-raising-triglycerides-more-than-dessert-the-hidden-fat-oxidation-block-in-adults-58-69
   - >-

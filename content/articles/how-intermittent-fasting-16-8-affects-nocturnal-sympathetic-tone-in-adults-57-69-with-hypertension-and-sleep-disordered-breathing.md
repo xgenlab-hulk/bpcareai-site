@@ -9,13 +9,13 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort
+    intermittent-fasting-diastolic-dysfunction-hr
   - >-
     what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension
   - >-
     dangers-of-intermittent-fasting-for-adults-with-severe-hypertension-and-autonomic-neuropathy-confirmed-by-ewing-battery
   - >-
-    natural-ways-to-modulate-the-sympathetic-parasympathetic-switch-point-in-adults-with-heart-failure-and-preserved-ejection-fraction-focusing-on-expiratory-time-foot-temperature-and-evening-light-exposure
+    sympathetic-parasympathetic-switch-point-heart-failure
   - >-
     what-causes-sudden-onset-of-nocturnal-diaphoresis-in-adults-64-79-with-type-2-diabetes-normal-a1c-and-undiagnosed-sleep-disordered-breathing
 ---

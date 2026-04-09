@@ -13,7 +13,7 @@ relatedSlugs:
   - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - how-menopause-affects-blood-sugar-control-in-women-with-diabetes
   - >-
-    blood-pressure-vs-pulse-pressure-why-the-gap-between-your-two-numbers-matters-more-than-you-think
+    foods-stabilize-pulse-pressure-seniors-orthostasis
 ---
 
 # Understanding pcos blood pressure after 45 women: Why Your Heart Health Journey Is Unique

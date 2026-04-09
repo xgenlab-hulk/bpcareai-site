@@ -15,9 +15,9 @@ relatedSlugs:
   - >-
     can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show
   - >-
-    how-intermittent-fasting-before-a-family-gathering-affects-cardiac-autonomic-tone-in-adults-with-diastolic-dysfunction-new-data-from-a-2024-pilot-cohort
+    intermittent-fasting-diastolic-dysfunction-hr
   - >-
-    12-science-backed-ways-to-restore-normal-bp-variability-not-just-lower-average-bp-in-adults-58-74-with-diabetes-and-elevated-sdnn-on-24-hour-holter-monitoring
+    restore-blood-pressure-variability-diabetes-sdnn
 ---
 
 # How Intermittent Fasting Blood Pressure Variability in Adults 55–67 Is Shaped by Daily Eating Windows—What the Latest Research Shows

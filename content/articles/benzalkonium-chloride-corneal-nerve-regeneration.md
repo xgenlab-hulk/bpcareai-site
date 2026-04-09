@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     warning-signs-your-winter-indoor-humidity-30-is-accelerating-corneal-nerve-damage-even-with-stable-hba1c-in-adults-77-with-diabetic-neuropathy
   - >-
-    how-long-term-use-of-over-the-counter-nasal-decongestants-alters-carotid-sinus-sensitivity-in-adults-64-with-early-autonomic-neuropathy-and-mild-orthostasis
+    nasal-decongestants-and-carotid-sinus-sensitivity
   - >-
-    how-chronic-nighttime-use-of-blue-blocking-amber-glasses-alters-melatonin-dependent-bkca-channel-expression-and-why-that-improves-nocturnal-coronary-perfusion-in-adults-71-with-nocturnal-angina
+    amber-glasses-nocturnal-coronary-perfusion
   - >-
-    how-chronic-low-grade-dehydration-from-nocturnal-polyuria-elevates-plasma-endothelin-1-and-accelerates-microvascular-damage-in-adults-66-with-retinopathy-and-normal-bp
+    nocturnal-polyuria-endothelin-1-microvascular-damage
   - >-
-    how-daily-use-of-fabric-softener-sheets-alters-skin-microbiome-diversity-and-why-that-worsens-diabetic-foot-ulcer-healing-in-adults-68-with-peripheral-neuropathy
+    fabric-softener-and-diabetic-foot-ulcer-healing
 ---
 
 # How Benzalkonium Chloride Affects Corneal Nerve Regeneration in Older Adults With Diabetic Keratopathy

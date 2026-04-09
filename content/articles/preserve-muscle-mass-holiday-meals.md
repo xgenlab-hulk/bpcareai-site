@@ -13,7 +13,7 @@ relatedSlugs:
   - >-
     5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily
   - >-
-    myths-vs-facts-eating-more-protein-at-holiday-meals-prevents-muscle-loss-in-adults-70-with-anabolic-resistance-and-low-physical-activity
+    preserve-muscle-mass-holiday-meals
   - >-
     warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
   - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60

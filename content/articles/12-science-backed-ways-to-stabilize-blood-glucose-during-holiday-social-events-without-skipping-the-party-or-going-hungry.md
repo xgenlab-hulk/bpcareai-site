@@ -13,7 +13,7 @@ relatedSlugs:
   - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
   - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
   - >-
-    12-science-backed-ways-to-anchor-your-glycemic-response-before-entering-a-relative-s-kitchen-for-adults-54-68-with-insulin-resistance-and-high-postprandial-triglycerides
+    pre-kitchen-glycemic-anchoring-insulin-resistance
 ---
 
 # Blood Sugar Swinging at Holiday Parties? What Adults 50-74 Must Know (No Fasting Required)

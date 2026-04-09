@@ -15,11 +15,11 @@ relatedSlugs:
   - >-
     quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
   - >-
-    12-science-backed-ways-to-reduce-postprandial-glucose-spikes-without-medication-focused-on-meal-sequencing-chewing-pace-and-gastric-emptying-modulation
+    reduce-postprandial-glucose-without-medication
   - >-
-    natural-ways-to-support-postprandial-glucose-clearance-without-increasing-insulin-dose-using-post-meal-walking-intensity-gradients-and-diaphragmatic-breath-timing-in-adults-64-with-mild-ckd
+    natural-postprandial-glucose-control-kidney-disease
   - >-
-    quick-ways-to-normalize-post-holiday-glucose-variability-within-72-hours-using-targeted-magnesium-glycinate-and-alpha-lipoic-acid-validated-in-adults-67-81
+    normalize-glucose-variability-72-hours-magnesium
 ---
 
 # How to Normalize Postprandial Glucose Within 45 Minutes — A Gentle, Evidence-Inspired Protocol for Adults 60–68

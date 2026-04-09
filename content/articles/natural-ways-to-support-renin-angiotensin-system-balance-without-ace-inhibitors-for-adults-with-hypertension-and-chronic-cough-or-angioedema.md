@@ -10,8 +10,7 @@ primaryKeyword: lower blood pressure naturally without ACE inhibitors
 topicCluster: medication-safety
 image: ''
 relatedSlugs:
-  - >-
-    10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60
+
   - >-
     natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
   - >-

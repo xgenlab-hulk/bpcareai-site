@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     the-truth-about-diabetes-friendly-holiday-cookies-what-label-claims-hide-and-what-real-ingredient-ratios-reveal
   - >-
-    the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-ingredients-panel-reveals-about-polyol-malabsorption-and-postprandial-fatigue
+    sugar-free-cookies-polyol-malabsorption-fatigue
 ---
 
 # Gluten-Free Cookies vs Oat Bars Diabetes: What CGM Data Reveals for Older Adults with Celiac-Associated Diabetes

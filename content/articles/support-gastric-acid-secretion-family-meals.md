@@ -9,9 +9,9 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-support-gastric-acid-production-during-holiday-feasts-without-ppis-or-supplements-for-adults-63-78-with-age-related-hypochlorhydria
+    gastric-acid-support-without-ppi-seniors
   - >-
-    natural-ways-to-support-gastric-acid-resilience-during-multi-course-holiday-meals-for-adults-67-on-long-term-ppi-therapy-and-low-pepsinogen-i-ii-ratios
+    gastric-acid-resilience-ppi-therapy-holiday-meals
   - >-
     how-family-mealtime-laughter-affects-gastric-acid-secretion-and-why-that-matters-for-adults-with-gerd-over-65
   - >-

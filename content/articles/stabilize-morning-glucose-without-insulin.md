@@ -11,15 +11,15 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-stabilize-overnight-glucose-without-adjusting-basal-insulin-using-bedtime-protein-timing-foot-warming-and-diaphragmatic-breathing-in-adults-59-66-with-nocturnal-hypoglycemia
+    stabilize-overnight-glucose-without-insulin-adjustment
   - >-
-    5-science-backed-ways-to-stabilize-blood-glucose-during-christmas-morning-using-timing-temperature-and-texture-adjustments-for-adults-60-69-with-insulin-treated-diabetes
+    stabilize-blood-glucose-christmas-morning
   - >-
     why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - >-
     quick-ways-to-normalize-fasting-glucose-without-medication-in-adults-50-61-with-prediabetes-and-shift-work-history
   - >-
-    simple-steps-to-normalize-fasting-glucose-without-skipping-dinner-using-sequential-pre-bed-protein-fat-snacking-and-nasal-breathing-during-sleep-in-adults-60-73
+    normalize-fasting-glucose-without-skipping-dinner
 ---
 
 # 12 Science-Backed Ways to Stabilize Morning Glucose Without Insulin — Especially During the Holidays

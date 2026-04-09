@@ -12,12 +12,11 @@ relatedSlugs:
     the-truth-about-low-glycemic-breakfast-cereals-for-adults-55-with-prediabetes-and-gastric-bypass-history
   - >-
     7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68
-  - >-
-    10-foods-seniors-80-can-share-with-grandkids-at-holiday-meals-without-triggering-hypoglycemia-or-gi-distress
+
   - >-
     why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - >-
-    12-holiday-foods-that-stabilize-blood-glucose-during-the-meal-not-just-after-with-glycemic-index-modifiers-fiber-synergy-and-timing-rules-for-adults-65
+    holiday-foods-stabilize-blood-glucose-during-meal
 ---
 
 # Low-GI Holiday Breakfasts for Morning Hyperglycemia and GERD in Adults 60–75

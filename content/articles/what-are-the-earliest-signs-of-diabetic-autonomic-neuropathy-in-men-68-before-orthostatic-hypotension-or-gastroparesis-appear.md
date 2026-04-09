@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     what-are-the-earliest-signs-of-holiday-induced-diabetic-gastroparesis-flare-ups-before-nausea-or-bloating-appear
   - >-
-    7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy
+    7-silent-signs-your-feet-are-sending-early-warnings-of-diabetic-neuropathy-especially-if-you-ve-had-t2d-for-12-years
 ---
 
 # Early Diabetic Autonomic Neuropathy Signs in Men Over 68 — What to Notice Before Major Symptoms Appear

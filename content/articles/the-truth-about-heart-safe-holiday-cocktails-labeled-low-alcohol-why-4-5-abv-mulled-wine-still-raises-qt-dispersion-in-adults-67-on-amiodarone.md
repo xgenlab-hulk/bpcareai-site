@@ -19,7 +19,7 @@ relatedSlugs:
   - >-
     the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
   - >-
-    a-vs-b-mulled-wine-simmered-45-min-no-added-sugar-vs-sparkling-cider-unfiltered-no-sulfites-impact-on-post-prandial-cardiac-rhythm-stability-in-adults-64-76-with-ibs-and-af
+    mulled-wine-vs-sparkling-cider-arrhythmia
 ---
 
 # What You *Really* Need to Know About Low-Alcohol Cocktails, QT Dispersion Risk, and Holiday Heart Safety

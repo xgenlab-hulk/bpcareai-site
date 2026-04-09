@@ -11,9 +11,9 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-improve-insulin-receptor-tyrosine-kinase-activity-without-increasing-oxidative-burden-using-low-dose-lithium-orotate-alpha-lipoic-acid-in-adults-65-with-long-standing-diabetes-and-elevated-8-ohdg
+    insulin-receptor-kinase-natural-activation-seniors
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-pancreatic-beta-cells-without-supplements-for-adults-59-with-long-term-type-2-diabetes-and-mild-fasting-hyperglycemia
+    mitochondrial-biogenesis-beta-cells-diabetes
   - >-
     how-chronic-low-dose-naltrexone-ldn-modulates-il-17-and-treg-activity-in-adults-58-73-with-type-1-diabetes-and-hashimoto-s-thyroiditis
   - >-

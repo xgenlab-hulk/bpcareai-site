@@ -17,9 +17,9 @@ relatedSlugs:
   - >-
     warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather
   - >-
-    when-to-worry-about-unexplained-fatigue-after-holiday-dinners-distinguishing-postprandial-hypotension-from-early-autonomic-neuropathy-in-adults-70-with-diabetes
+    fatigue-after-meals-diabetes-elderly
   - >-
-    what-to-eat-before-opening-gifts-a-12-minute-pre-event-strategy-to-prevent-postprandial-hypotension-in-adults-75
+    quick-fix-for-postprandial-hypotension-seniors
 ---
 
 # Is Your Holiday Energy Crash Orthostatic Hypotension? Recognizing the Real Cause in Adults 76+  

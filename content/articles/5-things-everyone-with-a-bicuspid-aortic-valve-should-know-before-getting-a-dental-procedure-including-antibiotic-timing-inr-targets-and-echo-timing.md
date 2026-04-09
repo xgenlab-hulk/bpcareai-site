@@ -11,7 +11,7 @@ relatedSlugs:
   - >-
     is-it-safe-to-use-saunas-after-a-recent-myocardial-infarction-guidelines-for-men-62-71-based-on-2024-aha-consensus
   - >-
-    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense
+    gum-disease-and-coronary-artery-calcification
   - >-
     12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
 ---

@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     5-things-every-man-over-68-with-low-testosterone-and-type-2-diabetes-should-know-about-muscle-protein-synthesis-and-glucose-uptake
   - >-
-    natural-ways-to-improve-insulin-sensitivity-in-skeletal-muscle-without-exercise-using-cold-exposure-postprandial-standing-and-diurnal-blue-light-timing-in-sedentary-adults-70
+    insulin-sensitivity-without-exercise-elderly
 ---
 
 # Can Daily Resistance Band Training Lower Fasting Glucose in Older Adults with Sarcopenic Obesity?

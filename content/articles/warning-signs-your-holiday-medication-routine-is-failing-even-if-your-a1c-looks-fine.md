@@ -13,7 +13,7 @@ relatedSlugs:
   - >-
     when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
   - >-
-    the-ultimate-guide-to-interpreting-continuous-glucose-monitoring-cgm-reports-for-adults-with-diabetes-and-early-dementia-what-time-in-range-alone-doesn-t-tell-you
+    cgm-interpretation-early-dementia-diabetes
   - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
   - best-blood-sugar-monitoring-practices-during-the-holiday-season
 ---

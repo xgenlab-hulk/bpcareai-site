@@ -11,7 +11,7 @@ topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:
   - >-
-    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues

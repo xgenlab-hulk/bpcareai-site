@@ -14,8 +14,7 @@ relatedSlugs:
   - best-fruits-for-diabetics-over-50-and-which-to-limit
   - >-
     a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd
-  - >-
-    10-foods-that-lower-postprandial-triglycerides-and-glucose-simultaneously-in-adults-58-73-with-metabolic-syndrome
+
 ---
 
 # 10 Heat Wave Glycemic Resilience Foods for Older Adults With Diabetes—and Why Sodium Balance Matters More Than Ever

@@ -13,7 +13,7 @@ relatedSlugs:
   - >-
     how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
   - >-
-    how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72
+    how-late-afternoon-snacking-at-family-gatherings-disrupts-nocturnal-melatonin-and-elevates-fasting-glucose-in-adults-59-66-with-shift-work-history
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-
     how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia

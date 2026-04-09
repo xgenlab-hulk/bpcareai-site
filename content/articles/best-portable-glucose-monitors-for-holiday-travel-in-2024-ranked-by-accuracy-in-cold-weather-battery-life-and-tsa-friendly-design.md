@@ -8,8 +8,7 @@ primaryKeyword: best portable glucose monitor for travel in cold weather
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
-  - >-
-    5-things-everyone-over-68-should-know-about-using-continuous-glucose-monitors-during-holiday-travel-especially-with-airport-body-scanners-and-cabin-pressure-changes
+
   - >-
     top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season
   - >-

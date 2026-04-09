@@ -8,10 +8,9 @@ primaryKeyword: 'best walking surface for blood sugar with diabetes'
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
+
   - >-
-    best-footwear-modifications-for-adults-with-diabetes-and-charcot-arthropathy-based-on-dynamic-pressure-mapping-and-3d-gait-analysis-in-92-patients-over-65
-  - >-
-    best-strength-training-modifications-for-adults-with-diabetes-and-peripheral-neuropathy-based-on-pressure-mapping-and-gait-analysis-in-187-patients-over-60
+    strength-training-peripheral-neuropathy-seniors
   - >-
     can-you-reverse-arterial-stiffness-with-just-12-weeks-of-barefoot-walking-on-grass-or-sand-evidence-from-a-pilot-trial-in-sedentary-women-63-71
   - >-

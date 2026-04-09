@@ -11,11 +11,11 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    quick-ways-to-normalize-postprandial-glucose-spikes-within-45-minutes-using-sequential-protein-first-eating-isometric-handgrip-and-nasal-breathing-in-adults-60-68
+    normalize-postprandial-glucose-within-45-minutes
   - >-
     quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
   - >-
-    natural-ways-to-stabilize-overnight-glucose-without-adjusting-basal-insulin-using-bedtime-protein-timing-foot-warming-and-diaphragmatic-breathing-in-adults-59-66-with-nocturnal-hypoglycemia
+    stabilize-overnight-glucose-without-insulin-adjustment
   - >-
     does-daily-10-minute-guided-breathing-before-dinner-lower-postprandial-glucose-in-adults-60-72-with-anxiety-related-hyperglycemia-and-gerd
   - >-

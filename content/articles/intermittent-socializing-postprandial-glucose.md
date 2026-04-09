@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     how-intergenerational-food-prep-affects-post-meal-glucose-spikes-in-adults-58-72-with-prediabetes-and-slow-gastric-emptying
   - >-
-    how-intergenerational-storytelling-during-dinner-slows-gastric-emptying-and-why-that-helps-postprandial-glucose-in-adults-78-with-mild-cognitive-impairment
+    storytelling-gastric-emptying-postprandial-glucose
   - >-
     how-holiday-social-isolation-worsens-postprandial-glucose-variability-in-adults-78-living-alone-and-using-insulin
   - >-
     how-intergenerational-plate-sharing-during-thanksgiving-dinner-elevates-postprandial-glucose-spikes-in-adults-62-with-prediabetes
   - >-
-    how-intergenerational-dining-stress-activates-the-amygdala-hypothalamic-axis-and-what-to-eat-before-the-gathering-to-stabilize-cortisol-and-glucose-in-adults-60
+    intergenerational-dining-stress-cortisol-glucose
 ---
 
 # How Intermittent Socializing Affects Postprandial Glucose — What Your Grandkids’ Dinner Table Talks Really Do for Your Blood Sugar

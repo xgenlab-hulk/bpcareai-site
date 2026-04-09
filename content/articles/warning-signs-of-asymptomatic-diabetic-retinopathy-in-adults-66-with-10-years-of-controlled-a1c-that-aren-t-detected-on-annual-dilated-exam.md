@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     warning-signs-your-stable-diabetes-is-masking-early-cognitive-decline-especially-if-you-re-a-man-over-69-with-hba1c-6-8-7-4
   - >-
-    7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy
+    7-silent-signs-your-feet-are-sending-early-warnings-of-diabetic-neuropathy-especially-if-you-ve-had-t2d-for-12-years
 ---
 
 # Subtle Asymptomatic Diabetic Retinopathy Warning Signs You Might Miss — Even With Good A1c and Annual Eye Exams

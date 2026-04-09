@@ -15,8 +15,7 @@ relatedSlugs:
   - >-
     quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
   - the-role-of-omega-3-fatty-acids-in-preventing-heart-disease
-  - >-
-    the-truth-about-heart-healthy-holiday-wine-labels-what-the-2024-fda-draft-guidance-says-about-alcohol-dose-thresholds-for-atrial-fibrillation-risk
+
 ---
 
 # Heart Rhythm Problems? 12 Foods That Support AFib Relief in Adults 64+

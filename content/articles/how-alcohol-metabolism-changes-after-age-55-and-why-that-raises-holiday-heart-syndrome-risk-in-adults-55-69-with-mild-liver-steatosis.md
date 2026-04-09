@@ -14,7 +14,7 @@ relatedSlugs:
   - >-
     how-holiday-alcohol-consumption-triggers-atrial-fibrillation-in-adults-55-with-subclinical-left-atrial-enlargement-even-without-binge-drinking
   - >-
-    7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55
+    7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
 ---

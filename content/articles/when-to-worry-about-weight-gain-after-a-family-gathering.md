@@ -15,7 +15,7 @@ relatedSlugs:
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
   - why-sudden-weight-gain-could-be-a-red-flag-for-your-heart
   - >-
-    7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
 ---
 
 # Understanding Post-Holiday Weight Gain Concerns After Family Gatherings

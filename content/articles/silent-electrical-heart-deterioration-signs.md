@@ -9,7 +9,7 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    5-things-everyone-over-75-should-know-about-silent-myocardial-infarction-detection-using-continuous-ecg-patch-monitoring-and-ai-derived-st-t-morphology-clustering
+    silent-myocardial-infarction-ecg-patch-monitoring
   - >-
     what-are-the-earliest-ecg-changes-that-predict-sudden-cardiac-death-in-adults-with-well-controlled-type-2-diabetes-and-egfr-55-70
   - >-

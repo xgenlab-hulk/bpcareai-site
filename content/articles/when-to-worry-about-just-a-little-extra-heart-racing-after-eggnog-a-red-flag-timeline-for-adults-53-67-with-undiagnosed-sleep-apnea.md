@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
   - >-
-    7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
 ---
 
 # When Holiday Heart Racing Sleep Apnea Red Flags Demand Your Attention — A Timely Guide for Adults 53–67

@@ -9,7 +9,7 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
-    best-breathing-patterns-for-lowering-diastolic-bp-in-under-5-minutes-backed-by-real-time-hrv-and-baroreflex-sensitivity-testing-in-adults-59-74
+    resonant-breathing-diastolic-pressure-reduction
   - >-
     quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
   - >-

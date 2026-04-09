@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity
   - >-
-    7-silent-signs-of-left-ventricular-hypertrophy-in-adults-65-with-well-controlled-hypertension-missed-on-routine-ekg
+    left-ventricular-hypertrophy-masked-hypertension
 ---
 
 # 7 Quiet Clues Your Left Ventricular Diastolic Function May Be Slowing Down — Even With Normal EKGs and Daily Activity

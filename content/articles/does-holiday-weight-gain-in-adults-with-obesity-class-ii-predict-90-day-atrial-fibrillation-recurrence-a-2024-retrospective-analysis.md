@@ -14,7 +14,7 @@ relatedSlugs:
   - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
   - when-to-worry-about-weight-gain-after-a-family-gathering
   - >-
-    can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
 ---
 
 # Does Holiday Weight Gain Predict Atrial Fibrillation Recurrence? What Adults With Obesity Class II Should Know

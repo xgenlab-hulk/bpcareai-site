@@ -9,7 +9,7 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
-    how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns
+    how-late-night-eggnog-consumption-alters-cardiac-repolarization-reserve-in-adults-58-65-with-subclinical-qt-prolongation
   - >-
     the-hidden-role-of-vitamin-d-deficiency-in-winter-depression-among-nursing-home-residents
   - >-

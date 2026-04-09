@@ -15,7 +15,7 @@ relatedSlugs:
   - >-
     7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control
   - >-
-    how-to-navigate-grandma-s-thanksgiving-dinner-without-spiking-your-post-meal-glucose-especially-if-you-re-newly-diagnosed-with-prediabetes-at-58
+    how-intergenerational-plate-sharing-during-thanksgiving-dinner-elevates-postprandial-glucose-spikes-in-adults-62-with-prediabetes
   - >-
     how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65
 ---

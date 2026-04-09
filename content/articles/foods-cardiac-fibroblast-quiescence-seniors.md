@@ -10,16 +10,12 @@ primaryKeyword: foods to keep heart tissue flexible after 59
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+
   - >-
-    5-foods-that-support-cardiac-fibroblast-quiescence-without-suppressing-collagen-turnover-for-adults-70-with-early-diastolic-dysfunction-and-normal-troponin
+    foods-stabilize-pulse-pressure-seniors-orthostasis
+
   - >-
-    12-foods-that-support-cardiac-fibroblast-quiescence-without-inhibiting-wound-healing-for-adults-69-with-prior-myocardial-infarction-and-stable-scar
-  - >-
-    10-foods-that-stabilize-postprandial-systolic-diastolic-gap-without-reducing-overall-blood-pressure-for-adults-76-with-wide-pulse-pressure-and-mild-orthostasis
-  - >-
-    12-foods-that-support-atrial-myocyte-resilience-not-just-rhythm-control-for-adults-over-64-with-paroxysmal-afib
-  - >-
-    10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers
+    foods-stabilize-pulse-pressure-seniors-orthostasis
 ---
 
 # 12 Heart-Supportive Foods That Help Maintain Cardiac Fibroblast Quiescence—Especially for Adults 59–68

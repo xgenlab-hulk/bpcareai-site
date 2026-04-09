@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
   - >-
-    12-science-backed-ways-to-protect-mitochondrial-cardiomyocyte-function-using-meal-timing-nutrient-synergy-and-circadian-light-exposure-for-adults-55-69-with-subclinical-lv-hypertrophy
+    mitochondrial-heart-health-meal-timing-seniors
 ---
 
 # Natural Ways to Support Mitochondrial Biogenesis After Overeating Seniors — Gentle, Science-Backed Steps for Ages 59–70

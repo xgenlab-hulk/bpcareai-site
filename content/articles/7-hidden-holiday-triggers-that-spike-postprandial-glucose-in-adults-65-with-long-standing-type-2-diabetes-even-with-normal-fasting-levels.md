@@ -13,7 +13,7 @@ relatedSlugs:
   - >-
     how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
   - >-
-    7-holiday-specific-blood-sugar-spikes-you-might-not-notice-and-what-to-do-about-them
+    7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
   - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
 ---
 

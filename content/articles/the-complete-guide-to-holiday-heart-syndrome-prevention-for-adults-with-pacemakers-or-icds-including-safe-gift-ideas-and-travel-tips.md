@@ -12,7 +12,7 @@ image: ''
 relatedSlugs:
   - 12-simple-ways-to-prevent-holiday-heart-syndrome-naturally
   - >-
-    7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
   - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - >-

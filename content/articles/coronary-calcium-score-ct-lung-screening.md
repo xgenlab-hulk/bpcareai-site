@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-in-adults-58-69-with-agatston-score-100-400-and-elevated-lp-a
   - >-
-    when-to-suspect-cardiac-amyloidosis-in-men-76-with-unexplained-low-voltage-ecg-bilateral-carpal-tunnel-and-progressive-fatigue-even-with-normal-echocardiogram
+    cardiac-amyloidosis-diagnosis-low-voltage-ecg-older-men
 ---
 
 # Understanding Your Coronary Calcium Score CT Lung Screening — Especially With Emphysema

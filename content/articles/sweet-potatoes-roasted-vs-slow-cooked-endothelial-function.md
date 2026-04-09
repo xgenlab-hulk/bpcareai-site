@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     a-vs-b-traditional-green-bean-casserole-vs-air-fried-crispy-green-beans-with-shallot-garlic-oil-for-adults-with-early-diabetic-retinopathy
   - >-
-    a-vs-b-warm-spiced-apple-cider-unsweetened-stovetop-simmered-vs-store-bought-diet-eggnog-low-fat-sucralose-sweetened-impact-on-postprandial-endothelial-function-in-adults-66-80-with-early-atherosclerosis
+    apple-cider-vs-eggnog-endothelial-function-seniors
   - >-
-    a-vs-b-maple-glazed-sweet-potatoes-roasted-skin-on-vs-candied-yams-canned-marshmallow-topped-impact-on-2-hour-postprandial-glucose-in-adults-61-79-with-long-standing-t2d
+    maple-glazed-sweet-potatoes-vs-candied-yams-blood-sugar
   - >-
-    a-vs-b-grandma-s-slow-cooked-collards-with-ham-hock-vs-modern-low-sodium-saut-ed-version-impact-on-endothelial-function-in-adults-61-75-with-stage-2-hypertension
+    collard-greens-endothelial-function-comparison
 ---
 
 # Sweet Potatoes Roasted vs Slow-Cooked Endothelial Function: What Holiday Cooking Really Does to Your Arteries

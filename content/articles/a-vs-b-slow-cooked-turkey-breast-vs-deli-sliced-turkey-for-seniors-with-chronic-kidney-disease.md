@@ -15,9 +15,9 @@ relatedSlugs:
   - >-
     the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
   - >-
-    a-vs-b-slow-cooked-collard-greens-with-smoked-turkey-leg-vs-instant-pot-greens-with-liquid-aminos-which-is-safer-for-heart-failure-patients-on-diuretics
+    collard-greens-heart-failure-diuretics-comparison
   - >-
-    the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension
+    the-truth-about-heart-healthy-plant-based-burgers-for-adults-over-70-with-stage-2-ckd-hidden-potassium-load-and-phosphate-additives
 ---
 
 # Slow-Cooked Turkey Breast vs. Deli Sliced Turkey: What Matters Most in Turkey Preparation Chronic Kidney Disease

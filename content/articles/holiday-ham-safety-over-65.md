@@ -15,8 +15,7 @@ relatedSlugs:
   - >-
     when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70
   - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
-  - >-
-    how-holiday-portion-sizes-affect-digestion-and-blood-pressure-in-adults-over-75
+
   - >-
     the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
 ---

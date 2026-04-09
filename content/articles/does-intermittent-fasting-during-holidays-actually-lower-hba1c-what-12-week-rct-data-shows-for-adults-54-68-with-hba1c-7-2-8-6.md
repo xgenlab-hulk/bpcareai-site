@@ -9,15 +9,15 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    what-research-says-about-intermittent-fasting-only-on-weekdays-during-the-holidays-glycemic-outcomes-muscle-preservation-and-appetite-hormone-shifts-in-adults-68-with-sarcopenic-obesity
+    weekday-intermittent-fasting-holidays
   - >-
     what-research-says-about-intermittent-fasting-from-christmas-eve-to-new-year-s-day-for-adults-with-stable-type-2-diabetes-over-62
   - >-
     3-simple-steps-to-prevent-post-holiday-hba1c-drift-even-if-you-did-fine-during-the-festivities-in-adults-57-66-with-stable-prediabetes
   - >-
-    12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-59-72-with-well-controlled-diabetes-and-high-holiday-social-engagement
+    3-simple-steps-to-prevent-post-holiday-hba1c-drift-even-if-you-did-fine-during-the-festivities-in-adults-57-66-with-stable-prediabetes
   - >-
-    quick-ways-to-reduce-post-holiday-hba1c-without-weight-loss-using-3-day-postprandial-glucose-reset-protocols-in-adults-60-71-with-stable-bmi-and-elevated-a1c
+    reduce-hba1c-without-weight-loss
 ---
 
 # Does Intermittent Fasting During the Holidays Help Lower HbA1c? Insights From a Recent intermittent fasting holidays HbA1c study

@@ -11,15 +11,15 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-home-based-ecg-patch-monitoring-zio-xt-vs-ambulatory-holter-for-detecting-asymptomatic-atrial-fibrillation-burden-in-adults-60-79-with-controlled-hypertension
+    ecg-patch-vs-holter-asymptomatic-afib
   - >-
-    5-things-everyone-over-75-should-know-about-silent-myocardial-infarction-detection-using-continuous-ecg-patch-monitoring-and-ai-derived-st-t-morphology-clustering
+    silent-myocardial-infarction-ecg-patch-monitoring
   - >-
-    5-things-everyone-over-72-should-know-about-using-home-ecg-devices-with-pacemakers-and-atrial-flutter-especially-if-you-re-taking-apixaban-or-rivaroxaban
+    home-ecg-devices-with-pacemakers-and-anticoagulants
   - >-
-    best-home-blood-pressure-cuffs-with-integrated-ecg-for-adults-78-with-atrial-fibrillation-and-severe-arthritis-accuracy-fit-and-rhythm-detection-compared
+    home-bp-cuff-with-ecg-for-afib-seniors
   - >-
-    7-silent-signs-your-heart-s-electrical-system-is-deteriorating-detected-via-resting-ecg-variability-not-just-arrhythmia-in-adults-75-with-no-prior-cardiac-diagnosis
+    silent-electrical-heart-deterioration-signs
 ---
 
 # A Friendly, Practical Guide to Home ECG Patch Interpretation for Seniors

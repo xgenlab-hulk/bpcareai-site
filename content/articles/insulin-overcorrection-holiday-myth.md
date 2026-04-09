@@ -15,7 +15,7 @@ relatedSlugs:
   - >-
     warning-signs-your-holiday-medication-routine-is-failing-even-if-your-a1c-looks-fine
   - >-
-    myths-vs-facts-i-ll-just-skip-my-insulin-today-so-i-can-enjoy-pie-what-actually-happens-to-beta-cell-stress-in-adults-with-long-standing-type-2-diabetes
+    skip-insulin-holiday-pie-beta-cell-stress
   - >-
     myths-vs-facts-just-skip-dessert-is-enough-to-control-blood-sugar-during-holidays-what-continuous-glucose-data-shows-in-adults-61-74
   - >-

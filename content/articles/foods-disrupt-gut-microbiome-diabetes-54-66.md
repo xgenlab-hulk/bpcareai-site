@@ -15,7 +15,7 @@ relatedSlugs:
   - >-
     quick-ways-to-reset-gut-microbiome-after-rich-holiday-meals-without-probiotics-for-adults-65-80-with-type-2-diabetes-and-constipation-predominant-ibs
   - >-
-    how-long-term-metformin-use-alters-gut-microbiome-diversity-and-butyrate-production-in-adults-67-81-with-type-2-diabetes-and-constipation-predominant-ibs
+    metformin-gut-microbiome-butyrate-constipation
 ---
 
 # Gut Bacteria Dying? Hidden Foods That Worsen Diabetes and Constipation (Adults 54-66)

@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     when-to-worry-about-blood-pressure-drops-during-hot-showers-especially-in-adults-75-with-carotid-sinus-hypersensitivity-and-prior-falls
   - >-
-    what-causes-post-exercise-blood-pressure-rebound-a-sudden-25-mmhg-systolic-rise-45-minutes-after-moderate-walking-in-adults-71-84-with-orthostatic-hypotension
+    post-exercise-blood-pressure-rebound-in-elderly
 ---
 
 # Recognizing Cerebral Autoregulation Failure Warning Signs in Adults 58–70 With Migraine With Aura and Labile BP

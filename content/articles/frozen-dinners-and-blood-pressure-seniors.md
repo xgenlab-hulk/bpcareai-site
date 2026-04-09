@@ -19,7 +19,7 @@ relatedSlugs:
   - >-
     the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims
   - >-
-    the-truth-about-low-sodium-canned-soups-marketed-to-seniors-why-83-contain-unlabeled-potassium-chloride-blends-that-trigger-hyperkalemic-bradycardia-in-adults-76-with-ckd-stage-3
+    low-sodium-soup-potassium-chloride-ckdseniors
 ---
 
 # What You Should Know About Frozen Dinners and Blood Pressure Seniors — Especially If You're in Your 70s or 80s

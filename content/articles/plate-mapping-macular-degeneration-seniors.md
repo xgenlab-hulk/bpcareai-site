@@ -11,15 +11,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    how-holiday-tablecloth-patterns-and-low-light-centerpieces-impair-food-recognition-in-adults-78-with-early-macular-degeneration-and-what-to-serve-instead
+    food-recognition-macular-degeneration
   - >-
-    the-ultimate-guide-to-holiday-eating-for-adults-with-late-stage-macular-degeneration-focusing-on-meal-visibility-texture-cues-and-nutrient-dense-low-vision-adaptations
+    holiday-eating-macular-degeneration
   - >-
     simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
   - >-
     the-complete-guide-to-navigating-holiday-buffets-with-visual-impairment-and-age-related-macular-degeneration
   - >-
-    simple-steps-to-adjust-your-holiday-dessert-portion-before-the-first-bite-using-visual-cues-that-work-for-adults-83-with-age-related-visual-processing-decline
+    dessert-portion-control-visual-decline
 ---
 
 # Plate Mapping for Seniors With Macular Degeneration: Simple, Science-Backed Ways to Enjoy Holiday Meals Without Overeating

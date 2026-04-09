@@ -11,7 +11,7 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
-    what-causes-sudden-post-holiday-constipation-only-when-visiting-your-son-s-house-the-role-of-travel-induced-circadian-misalignment-reduced-fiber-variety-and-toilet-posture-shifts-in-adults-71
+    post-holiday-constipation-travel-circadian-seniors
   - >-
     how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80
   - >-

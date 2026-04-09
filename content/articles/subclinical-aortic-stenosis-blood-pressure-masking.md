@@ -17,9 +17,9 @@ relatedSlugs:
   - >-
     warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity
   - >-
-    what-causes-normal-blood-pressure-readings-to-mask-left-ventricular-hypertrophy-in-adults-68-with-long-standing-hypertension-and-preserved-ejection-fraction
+    left-ventricular-hypertrophy-masked-hypertension
   - >-
-    warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear
+    left-ventricular-hypertrophy-masked-hypertension
 ---
 
 # When “Stable” Blood Pressure May Be Hiding Early Aortic Valve Changes — Especially After Age 75

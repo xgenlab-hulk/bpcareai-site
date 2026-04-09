@@ -19,7 +19,7 @@ relatedSlugs:
   - >-
     warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
   - >-
-    warning-signs-your-stable-blood-pressure-readings-are-masking-subclinical-aortic-valve-stenosis-progression-especially-with-concurrent-elevated-nt-probnp-and-normal-echocardiographic-gradient-in-adults-75
+    subclinical-aortic-stenosis-blood-pressure-masking
 ---
 
 # What “Stable” Heart Disease Really Means: Understanding Silent Plaque Erosion in Adults 58–66

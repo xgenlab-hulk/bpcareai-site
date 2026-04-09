@@ -13,8 +13,7 @@ image: ''
 relatedSlugs:
   - >-
     best-supplements-for-blood-sugar-support-after-50
-  - >-
-    10-foods-that-lower-post-dinner-glucose-variability-without-raising-ldl-for-adults-66-79-with-type-2-diabetes-and-familial-hypercholesterolemia
+
   - >-
     10-foods-that-stabilize-fasting-glucose-without-lowering-it-for-adults-62-with-history-of-hypoglycemia-and-age-related-adrenal-blunting
   - >-

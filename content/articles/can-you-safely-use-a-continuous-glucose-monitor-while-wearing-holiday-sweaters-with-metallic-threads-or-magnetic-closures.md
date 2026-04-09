@@ -9,7 +9,7 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    does-your-blood-glucose-monitor-interact-with-common-iron-supplements-differently-after-age-66-a-safety-guide-for-ferritin-replete-seniors-on-metformin
+    blood-glucose-monitor-iron-supplement-interference
   - >-
     top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season
   - best-blood-sugar-monitoring-practices-during-the-holiday-season

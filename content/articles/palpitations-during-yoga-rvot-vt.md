@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
   - >-
-    when-to-suspect-holiday-heart-syndrome-before-the-first-palpitation-early-hrv-dips-during-family-video-calls-in-adults-55-60-with-prehypertensive-nighttime-bp-non-dipping
+    hrv-dip-before-holiday-palpitations
   - >-
     best-non-pharmacologic-strategies-to-prevent-ventricular-arrhythmias-during-holiday-travel-in-adults-65-79-with-icds-and-history-of-stress-induced-vt
 ---

@@ -8,8 +8,7 @@ primaryKeyword: 'foods that help blood sugar and IBS-D in men over 60'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
-  - >-
-    10-foods-that-lower-postprandial-triglycerides-and-glucose-simultaneously-in-adults-58-73-with-metabolic-syndrome
+
   - >-
     best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
   - >-

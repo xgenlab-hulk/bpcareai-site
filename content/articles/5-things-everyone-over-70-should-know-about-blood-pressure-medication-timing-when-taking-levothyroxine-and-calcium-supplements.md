@@ -15,8 +15,7 @@ relatedSlugs:
   - 7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
   - >-
     7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
-  - >-
-    10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60
+
 ---
 
 # BP Medications, Thyroid Pills, and Calcium: What 70+ Adults Need to Know About Timing

@@ -12,7 +12,7 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
-    best-seated-resistance-exercises-for-bp-control-in-adults-77-with-severe-osteoarthritis-and-stage-2-hypertension
+    seated-resistance-band-hypertension-elderly
   - >-
     the-best-indoor-exercises-for-blood-pressure-control-in-winter
   - >-

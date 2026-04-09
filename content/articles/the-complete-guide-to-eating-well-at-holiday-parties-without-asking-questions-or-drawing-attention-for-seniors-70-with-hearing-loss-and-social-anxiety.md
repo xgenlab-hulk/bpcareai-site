@@ -13,7 +13,7 @@ relatedSlugs:
   - 5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
   - >-
-    the-ultimate-guide-to-navigating-holiday-buffets-with-age-related-satiety-hormone-decline-including-visual-cues-plate-size-and-protein-first-sequencing
+    holiday-buffet-seniors-satiety-hormones
   - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
 ---
 

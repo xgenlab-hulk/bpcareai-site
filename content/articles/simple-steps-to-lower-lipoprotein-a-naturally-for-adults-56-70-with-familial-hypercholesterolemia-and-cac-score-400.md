@@ -8,8 +8,7 @@ primaryKeyword: can you lower lipoprotein a without medication
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
-  - >-
-    12-science-backed-ways-to-lower-coronary-artery-calcium-score-progression-without-statins-for-adults-57-69-with-cac-100-and-statin-intolerance
+
   - >-
     myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio
   - >-

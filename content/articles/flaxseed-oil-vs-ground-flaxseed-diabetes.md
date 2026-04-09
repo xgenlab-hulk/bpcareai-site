@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     does-adding-3-grams-of-ground-flaxseed-daily-reduce-central-aortic-systolic-pressure-in-adults-60-72-with-metabolic-syndrome
   - >-
-    quick-ways-to-normalize-postprandial-triglyceride-clearance-using-meal-order-and-chewing-duration-especially-in-adults-56-69-with-diabetic-dyslipidemia-and-pancreatic-steatosis
+    meal-order-triglyceride-clearance-diabetes
   - >-
     the-truth-about-heart-healthy-omega-6-rich-vegetable-oils-in-adults-55-70-with-elevated-oxidized-ldl-and-low-hdl2-subfraction
   - >-
-    warning-signs-your-holiday-healthy-swap-e-g-coconut-flour-cookies-is-accelerating-postprandial-triglyceride-rich-lipoprotein-production-in-adults-with-diabetic-dyslipidemia
+    holiday-healthy-swap-triglyceride-lipoprotein
 ---
 
 # Flaxseed Oil vs Ground Flaxseed for Diabetes: What’s Best for Triglyceride Control After Meals?

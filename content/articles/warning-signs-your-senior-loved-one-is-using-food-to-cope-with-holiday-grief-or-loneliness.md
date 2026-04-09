@@ -14,7 +14,7 @@ relatedSlugs:
   - >-
     the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
   - >-
-    is-your-senior-loved-one-withdrawn-this-winter-it-might-be-seasonal-depression
+    when-to-worry-about-social-withdrawal-in-winter-differentiating-normal-retiring-behavior-from-prodromal-seasonal-depression-in-adults-80
   - >-
     how-cold-weather-impacts-appetite-and-food-choices-in-seniors-during-the-holidays
   - >-

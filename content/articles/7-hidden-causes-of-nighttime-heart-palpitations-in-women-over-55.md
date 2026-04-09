@@ -10,7 +10,7 @@ image: ''
 relatedSlugs:
   - should-you-worry-about-heart-palpitations-when-lying-down
   - >-
-    7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55
+    7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
   - heart-disease-symptoms-in-women-over-50-what-s-often-missed
   - >-
     when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60

@@ -8,10 +8,9 @@ primaryKeyword: 'CGM accuracy during holiday travel seniors'
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
+
   - >-
-    5-things-everyone-over-68-should-know-about-using-continuous-glucose-monitors-during-holiday-travel-especially-with-airport-body-scanners-and-cabin-pressure-changes
-  - >-
-    how-holiday-travel-disrupts-continuous-glucose-monitor-calibration-and-what-to-do-at-35-000-feet-or-in-a-rental-car
+    cgm-accuracy-holiday-travel
   - >-
     best-portable-glucose-monitors-for-holiday-travel-in-2024-ranked-by-accuracy-in-cold-weather-battery-life-and-tsa-friendly-design
   - >-

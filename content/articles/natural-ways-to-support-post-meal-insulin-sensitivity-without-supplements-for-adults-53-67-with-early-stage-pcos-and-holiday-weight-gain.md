@@ -13,9 +13,9 @@ relatedSlugs:
   - >-
     natural-ways-to-support-post-meal-insulin-sensitivity-without-medication-3-evidence-based-strategies-validated-in-adults-61-74-with-prediabetes
   - >-
-    natural-ways-to-counteract-holiday-nighttime-glucose-spikes-without-medication-focused-on-evening-walking-timing-foot-temperature-and-cinnamon-bioavailability
+    natural-glucose-control-holiday-seniors
   - >-
-    12-science-backed-ways-to-anchor-your-glycemic-response-before-entering-a-relative-s-kitchen-for-adults-54-68-with-insulin-resistance-and-high-postprandial-triglycerides
+    pre-kitchen-glycemic-anchoring-insulin-resistance
   - 5-science-backed-ways-to-reduce-holiday-related-insulin-resistance
 ---
 

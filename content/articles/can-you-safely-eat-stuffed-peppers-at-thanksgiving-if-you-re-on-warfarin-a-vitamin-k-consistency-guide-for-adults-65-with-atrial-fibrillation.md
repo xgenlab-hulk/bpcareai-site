@@ -9,15 +9,14 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead
-  - >-
-    5-things-everyone-over-67-should-know-about-sharing-a-single-serving-of-holiday-stuffing-especially-if-taking-warfarin-or-eating-spinach-sage-loaf-daily
+    can-you-safely-eat-stuffed-peppers-at-thanksgiving-if-you-re-on-warfarin-a-vitamin-k-consistency-guide-for-adults-65-with-atrial-fibrillation
+
   - >-
     the-truth-about-heart-healthy-holiday-salads-why-kale-cranberries-and-walnuts-may-backfire-for-adults-67-on-warfarin-or-apixaban
   - >-
     can-you-safely-share-a-slice-of-pumpkin-pie-with-your-grandchild-if-you-re-on-warfarin-a-vitamin-k-interaction-guide-for-holiday-baking
   - >-
-    the-complete-guide-to-managing-holiday-eating-while-recovering-from-a-recent-percutaneous-coronary-intervention-practical-strategies-for-adults-66-70-with-dual-antiplatelet-therapy
+    holiday-eating-post-pci-dual-antiplatelet-therapy
 ---
 
 # Warfarin-Safe Holiday Foods Vitamin K: A Gentle Guide for Stuffed Peppers & More at Thanksgiving

@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
   - >-
-    12-science-backed-ways-to-reduce-postprandial-glucose-spikes-without-medication-focused-on-meal-sequencing-chewing-pace-and-gastric-emptying-modulation
+    reduce-postprandial-glucose-without-medication
 ---
 
 # 12 Science-Backed Ways to Practice Pre-Kitchen Glycemic Anchoring Insulin Resistance — Especially If You’re 54–68

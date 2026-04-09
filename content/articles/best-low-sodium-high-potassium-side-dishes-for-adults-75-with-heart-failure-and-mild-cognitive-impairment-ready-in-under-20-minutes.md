@@ -15,7 +15,7 @@ relatedSlugs:
   - >-
     the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70
   - >-
-    10-quick-ways-to-reduce-sodium-load-in-traditional-holiday-side-dishes-without-losing-flavor-or-family-approval
+    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - >-
     5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
 ---

@@ -14,7 +14,7 @@ relatedSlugs:
   - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - >-
-    what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays
+    can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
   - why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
 ---
 

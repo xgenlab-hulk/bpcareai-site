@@ -16,7 +16,7 @@ relatedSlugs:
     why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
   - >-
-    7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68
+    how-holiday-stress-cortisol-spikes-impair-glp-1-secretion-in-adults-64-with-obesity-and-prediabetes-and-why-mindful-breathing-beats-just-relax-advice
 ---
 
 # How Holiday Sleep Disruption Affects Fasting Glucose in Men Over 70—and What You Can Do About It

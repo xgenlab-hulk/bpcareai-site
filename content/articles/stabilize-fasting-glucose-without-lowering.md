@@ -15,9 +15,8 @@ relatedSlugs:
   - >-
     can-you-safely-skip-dessert-after-a-high-protein-holiday-dinner-without-triggering-reactive-hypoglycemia-in-adults-62-with-adrenal-insufficiency
   - >-
-    what-to-eat-after-the-main-course-a-90-second-post-dinner-strategy-to-prevent-late-night-glucose-spikes-in-men-65-with-type-2-diabetes-and-nocturnal-hypoglycemia-history
-  - >-
-    10-foods-seniors-80-can-share-with-grandkids-at-holiday-meals-without-triggering-hypoglycemia-or-gi-distress
+    post-dinner-snack-glucose-spike-prevention
+
 ---
 
 # 10 Gentle, Nourishing Foods to Stabilize Fasting Glucose Without Lowering — Safe Choices for Older Adults with Fall Risk and Hypoglycemia-Associated Autonomic Failure

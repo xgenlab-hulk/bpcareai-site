@@ -12,8 +12,7 @@ image: ''
 relatedSlugs:
   - >-
     quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
-  - >-
-    12-minute-breathing-protocol-to-lower-systolic-bp-a-science-backed-technique-for-anxiety-prone-adults
+
   - can-deep-breathing-exercises-reduce-high-blood-pressure
   - can-deep-breathing-exercises-lower-heart-disease-risk
   - >-
