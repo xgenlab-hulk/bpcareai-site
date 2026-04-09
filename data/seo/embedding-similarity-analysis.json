@@ -1,0 +1,56 @@
+{
+  "totalArticles": 2249,
+  "totalPairsChecked": 2527876,
+  "breakdown": {
+    "sim_95_plus": 0,
+    "sim_90_94": 2,
+    "sim_85_89": 2
+  },
+  "involvedArticles": 8,
+  "pairs": [
+    {
+      "similarity": 0.929,
+      "slug1": "blood-pressure-fluctuations-during-menopause-what-women-should-know",
+      "slug2": "blood-pressure-changes-during-menopause-what-women-should-know",
+      "title1": "Blood Pressure Fluctuations During Menopause: What Women Should Know",
+      "title2": "Blood Pressure Changes During Menopause: What Women Should Know",
+      "pk1": "menopause and blood pressure changes in women",
+      "pk2": "menopause and blood pressure changes",
+      "cluster1": "hypertension-lifestyle",
+      "cluster2": "hypertension-lifestyle"
+    },
+    {
+      "similarity": 0.9073,
+      "slug1": "the-truth-about-alcohol-and-blood-sugar-during-holiday-parties",
+      "slug2": "can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know",
+      "title1": "The Truth About Alcohol and Blood Sugar During Holiday Parties",
+      "title2": "Can Alcohol Raise Blood Sugar During New Year\u2019s Eve? What You Need to Know",
+      "pk1": "alcohol effect on blood sugar holidays",
+      "pk2": "alcohol and blood sugar holidays",
+      "cluster1": "lifestyle-diet-interactions",
+      "cluster2": "diet-nutrition"
+    },
+    {
+      "similarity": 0.8548,
+      "slug1": "how-air-pollution-impacts-heart-health-in-older-adults",
+      "slug2": "the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults",
+      "title1": "How Air Pollution Impacts Heart Health in Older Adults",
+      "title2": "The Impact of Air Pollution on Heart Disease Risk in Older Adults",
+      "pk1": "air pollution effects on heart health elderly",
+      "pk2": "air pollution and heart disease in seniors",
+      "cluster1": "cardiovascular-risk",
+      "cluster2": "cardiovascular-risk"
+    },
+    {
+      "similarity": 0.8503,
+      "slug1": "the-truth-about-alcohol-and-heart-health-after-55",
+      "slug2": "the-truth-about-alcohol-and-heart-disease-is-one-drink-a-day-safe",
+      "title1": "The Truth About Alcohol and Heart Health After 55",
+      "title2": "The Truth About Alcohol and Heart Disease: Is One Drink a Day Safe?",
+      "pk1": "alcohol effects on heart health after 55",
+      "pk2": "alcohol consumption and heart disease after 50",
+      "cluster1": "heart-health",
+      "cluster2": "hypertension-lifestyle"
+    }
+  ]
+}

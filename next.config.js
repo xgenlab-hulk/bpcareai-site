@@ -2727,7 +2727,1142 @@ const nextConfig = {
             "destination": "/articles/collard-greens-heart-failure-diuretics-comparison",
             "permanent": true
         },
-    ];
+            {
+            "source": "/articles/how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes",
+            "destination": "/articles/how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes",
+            "permanent": true
+        },
+        {
+            "source": "/articles/holiday-stress-blood-sugar-control",
+            "destination": "/articles/how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-holiday-stress-hormones-disrupt-blood-sugar-control-in-adults-65-with-long-standing-type-2-diabetes",
+            "destination": "/articles/how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes",
+            "permanent": true
+        },
+        {
+            "source": "/articles/7-hidden-holiday-stress-triggers-that-spike-postprandial-glucose-in-adults-58-65-with-early-insulin-resistance",
+            "destination": "/articles/how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes",
+            "permanent": true
+        },
+        {
+            "source": "/articles/5-signs-your-holiday-stress-is-spiking-cortisol-and-raising-fasting-glucose-without-you-noticing",
+            "destination": "/articles/how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70",
+            "destination": "/articles/how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65",
+            "destination": "/articles/how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes",
+            "permanent": true
+        },
+        {
+            "source": "/articles/when-to-worry-about-blood-sugar-swings-after-new-year-s-eve",
+            "destination": "/articles/how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes",
+            "permanent": true
+        },
+        {
+            "source": "/articles/managing-type-2-diabetes-while-attending-back-to-back-holiday-parties",
+            "destination": "/articles/how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes",
+            "permanent": true
+        },
+        {
+            "source": "/articles/7-dangerous-blood-sugar-mistakes-people-make-during-the-holidays",
+            "destination": "/articles/how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes",
+            "permanent": true
+        },
+        {
+            "source": "/articles/why-emotional-eating-during-christmas-raises-blood-sugar-after-50",
+            "destination": "/articles/how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes",
+            "permanent": true
+        },
+        {
+            "source": "/articles/the-link-between-holiday-stress-and-blood-sugar-spikes-after-50",
+            "destination": "/articles/how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes",
+            "permanent": true
+        },
+        {
+            "source": "/articles/why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope",
+            "destination": "/articles/how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes",
+            "permanent": true
+        },
+        {
+            "source": "/articles/7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes",
+            "destination": "/articles/how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-cold-weather-affects-blood-pressure-medication-effectiveness",
+            "destination": "/articles/does-layering-clothes-help-regulate-blood-pressure-in-cold-climates",
+            "permanent": true
+        },
+        {
+            "source": "/articles/why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know",
+            "destination": "/articles/does-layering-clothes-help-regulate-blood-pressure-in-cold-climates",
+            "permanent": true
+        },
+        {
+            "source": "/articles/winter-vs-summer-blood-pressure-what-seniors-need-to-know",
+            "destination": "/articles/does-layering-clothes-help-regulate-blood-pressure-in-cold-climates",
+            "permanent": true
+        },
+        {
+            "source": "/articles/7-hidden-winter-habits-that-worsen-hypertension-after-60",
+            "destination": "/articles/does-layering-clothes-help-regulate-blood-pressure-in-cold-climates",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-to-monitor-blood-pressure-at-home-during-winter-a-senior-s-guide",
+            "destination": "/articles/does-layering-clothes-help-regulate-blood-pressure-in-cold-climates",
+            "permanent": true
+        },
+        {
+            "source": "/articles/5-common-medication-adjustments-seniors-need-in-winter",
+            "destination": "/articles/does-layering-clothes-help-regulate-blood-pressure-in-cold-climates",
+            "permanent": true
+        },
+        {
+            "source": "/articles/when-to-worry-about-blood-pressure-changes-during-winter",
+            "destination": "/articles/does-layering-clothes-help-regulate-blood-pressure-in-cold-climates",
+            "permanent": true
+        },
+        {
+            "source": "/articles/blood-pressure-management-for-sedentary-seniors-in-winter-months",
+            "destination": "/articles/does-layering-clothes-help-regulate-blood-pressure-in-cold-climates",
+            "permanent": true
+        },
+        {
+            "source": "/articles/can-cold-weather-raise-your-blood-pressure",
+            "destination": "/articles/does-layering-clothes-help-regulate-blood-pressure-in-cold-climates",
+            "permanent": true
+        },
+        {
+            "source": "/articles/should-you-adjust-your-blood-pressure-goals-in-winter",
+            "destination": "/articles/does-layering-clothes-help-regulate-blood-pressure-in-cold-climates",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-does-cold-weather-affect-blood-pressure-in-older-adults",
+            "destination": "/articles/does-layering-clothes-help-regulate-blood-pressure-in-cold-climates",
+            "permanent": true
+        },
+        {
+            "source": "/articles/what-are-the-first-signs-of-holiday-heart-syndrome-in-women",
+            "destination": "/articles/the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues",
+            "destination": "/articles/the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-excessive-alcohol-consumption-during-holiday-parties-triggers-atrial-fibrillation-in-adults-55-72-with-pre-existing-hypertension",
+            "destination": "/articles/the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50",
+            "permanent": true
+        },
+        {
+            "source": "/articles/7-hidden-triggers-of-holiday-heart-syndrome-in-adults-with-controlled-hypertension-and-how-to-neutralize-them-before-christmas-eve",
+            "destination": "/articles/the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50",
+            "permanent": true
+        },
+        {
+            "source": "/articles/holiday-heart-syndrome-in-men-over-60-unique-risks-and-prevention-tips",
+            "destination": "/articles/the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50",
+            "permanent": true
+        },
+        {
+            "source": "/articles/what-research-says-about-holiday-heart-syndrome-and-aging-hearts",
+            "destination": "/articles/the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50",
+            "permanent": true
+        },
+        {
+            "source": "/articles/7-holiday-triggers-that-can-spark-holiday-heart-syndrome-and-how-to-avoid-them",
+            "destination": "/articles/the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50",
+            "permanent": true
+        },
+        {
+            "source": "/articles/12-simple-ways-to-prevent-holiday-heart-syndrome-naturally",
+            "destination": "/articles/the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50",
+            "permanent": true
+        },
+        {
+            "source": "/articles/can-binge-drinking-during-festive-seasons-cause-atrial-fibrillation-in-older-adults",
+            "destination": "/articles/the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50",
+            "permanent": true
+        },
+        {
+            "source": "/articles/hidden-sodium-holiday-side-dishes",
+            "destination": "/articles/5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid",
+            "permanent": true
+        },
+        {
+            "source": "/articles/warning-signs-your-holiday-plate-is-hiding-excess-sodium-even-if-you-skipped-the-gravy",
+            "destination": "/articles/5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid",
+            "permanent": true
+        },
+        {
+            "source": "/articles/10-quick-ways-to-reduce-sodium-load-in-traditional-holiday-side-dishes-without-losing-flavor-or-family-approval",
+            "destination": "/articles/5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid",
+            "permanent": true
+        },
+        {
+            "source": "/articles/13-science-backed-ways-to-reduce-holiday-sodium-load-without-losing-flavor-focused-on-umami-layering-herb-infusion-timing-and-potassium-rich-swaps",
+            "destination": "/articles/5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid",
+            "permanent": true
+        },
+        {
+            "source": "/articles/7-hidden-sodium-traps-in-healthy-holiday-side-dishes-that-raise-systolic-bp-in-adults-62-76-with-stage-1-hypertension",
+            "destination": "/articles/5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid",
+            "permanent": true
+        },
+        {
+            "source": "/articles/7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62",
+            "destination": "/articles/5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid",
+            "permanent": true
+        },
+        {
+            "source": "/articles/10-heart-healthy-swaps-for-traditional-holiday-dishes-after-50",
+            "destination": "/articles/5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid",
+            "permanent": true
+        },
+        {
+            "source": "/articles/7-smart-swaps-for-healthier-holiday-meals-after-65",
+            "destination": "/articles/5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid",
+            "permanent": true
+        },
+        {
+            "source": "/articles/holiday-lights-melatonin-glucose",
+            "destination": "/articles/does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-late-night-gift-wrapping-affects-overnight-insulin-sensitivity-in-women-58-72-with-perimenopausal-insulin-resistance",
+            "destination": "/articles/does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-holiday-light-therapy-affects-melatonin-timing-and-fasting-glucose-in-adults-61-76-with-type-2-diabetes-and-delayed-sleep-phase",
+            "destination": "/articles/does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-late-night-gift-wrapping-disrupts-nocturnal-insulin-sensitivity-in-adults-65-with-type-2-diabetes-and-sleep-fragmentation",
+            "destination": "/articles/does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-indoor-holiday-lighting-especially-blue-rich-led-strings-disrupts-melatonin-modulated-glucose-uptake-and-what-to-eat-at-dinner-to-counteract-it",
+            "destination": "/articles/does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control",
+            "permanent": true
+        },
+        {
+            "source": "/articles/does-holiday-light-therapy-for-seasonal-affective-disorder-improve-fasting-glucose-stability-in-adults-with-type-2-diabetes-and-comorbid-depression",
+            "destination": "/articles/does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control",
+            "permanent": true
+        },
+        {
+            "source": "/articles/the-connection-between-holiday-light-exposure-and-blood-sugar-regulation",
+            "destination": "/articles/does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control",
+            "permanent": true
+        },
+        {
+            "source": "/articles/salivary-amylase-support-dry-mouth-elderly",
+            "destination": "/articles/5-foods-that-support-salivary-amylase-activity-without-increasing-carbohydrate-load-for-adults-77-with-xerostomia-and-mild-dysphagia",
+            "permanent": true
+        },
+        {
+            "source": "/articles/natural-ways-to-support-salivary-amylase-activity-during-family-gatherings-without-supplements-for-adults-72-with-xerostomia-and-early-dysphagia",
+            "destination": "/articles/5-foods-that-support-salivary-amylase-activity-without-increasing-carbohydrate-load-for-adults-77-with-xerostomia-and-mild-dysphagia",
+            "permanent": true
+        },
+        {
+            "source": "/articles/natural-ways-to-enhance-salivary-amylase-activity-before-holiday-starches-without-medication-for-adults-65-84-with-xerostomia-and-gerd",
+            "destination": "/articles/5-foods-that-support-salivary-amylase-activity-without-increasing-carbohydrate-load-for-adults-77-with-xerostomia-and-mild-dysphagia",
+            "permanent": true
+        },
+        {
+            "source": "/articles/natural-ways-to-support-salivary-amylase-activity-during-holiday-meals-for-adults-75-with-sj-gren-s-like-xerostomia-and-denture-wear",
+            "destination": "/articles/5-foods-that-support-salivary-amylase-activity-without-increasing-carbohydrate-load-for-adults-77-with-xerostomia-and-mild-dysphagia",
+            "permanent": true
+        },
+        {
+            "source": "/articles/salivary-amylase-holiday-seniors",
+            "destination": "/articles/5-foods-that-support-salivary-amylase-activity-without-increasing-carbohydrate-load-for-adults-77-with-xerostomia-and-mild-dysphagia",
+            "permanent": true
+        },
+        {
+            "source": "/articles/salivary-amylase-holiday-meals-xerostomia-seniors",
+            "destination": "/articles/5-foods-that-support-salivary-amylase-activity-without-increasing-carbohydrate-load-for-adults-77-with-xerostomia-and-mild-dysphagia",
+            "permanent": true
+        },
+        {
+            "source": "/articles/a-vs-b-4-minute-daily-isometric-handgrip-vs-12-minute-weekly-hiit-impact-on-central-aortic-pressure-in-adults-69-with-white-coat-hypertension",
+            "destination": "/articles/can-daily-12-minute-seated-tai-chi-lower-24-hour-systolic-load-in-adults-71-with-isolated-systolic-hypertension-and-mild-gait-instability",
+            "permanent": true
+        },
+        {
+            "source": "/articles/does-daily-20-minute-tai-chi-reduce-central-aortic-pressure-in-adults-63-75-with-isolated-systolic-hypertension-and-gait-instability",
+            "destination": "/articles/can-daily-12-minute-seated-tai-chi-lower-24-hour-systolic-load-in-adults-71-with-isolated-systolic-hypertension-and-mild-gait-instability",
+            "permanent": true
+        },
+        {
+            "source": "/articles/isometric-handgrip-vs-cycling-systolic-hypertension",
+            "destination": "/articles/can-daily-12-minute-seated-tai-chi-lower-24-hour-systolic-load-in-adults-71-with-isolated-systolic-hypertension-and-mild-gait-instability",
+            "permanent": true
+        },
+        {
+            "source": "/articles/isometric-handgrip-tai-chi-central-aortic-pressure",
+            "destination": "/articles/can-daily-12-minute-seated-tai-chi-lower-24-hour-systolic-load-in-adults-71-with-isolated-systolic-hypertension-and-mild-gait-instability",
+            "permanent": true
+        },
+        {
+            "source": "/articles/can-daily-3-minute-isometric-handgrip-training-lower-central-aortic-pressure-in-women-61-75-with-isolated-systolic-hypertension",
+            "destination": "/articles/can-daily-12-minute-seated-tai-chi-lower-24-hour-systolic-load-in-adults-71-with-isolated-systolic-hypertension-and-mild-gait-instability",
+            "permanent": true
+        },
+        {
+            "source": "/articles/quick-ways-to-lower-systolic-bp-within-90-minutes-using-isometric-handgrip-training-validated-in-3-rcts-for-adults-59-74",
+            "destination": "/articles/can-daily-12-minute-seated-tai-chi-lower-24-hour-systolic-load-in-adults-71-with-isolated-systolic-hypertension-and-mild-gait-instability",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-to-adjust-your-parent-s-daily-routine-to-combat-winter-depression",
+            "destination": "/articles/can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression",
+            "permanent": true
+        },
+        {
+            "source": "/articles/why-older-women-are-more-vulnerable-to-seasonal-depression-in-winter",
+            "destination": "/articles/can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression",
+            "permanent": true
+        },
+        {
+            "source": "/articles/the-complete-guide-to-managing-seasonal-depression-in-older-adults-at-home",
+            "destination": "/articles/can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression",
+            "permanent": true
+        },
+        {
+            "source": "/articles/the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees",
+            "destination": "/articles/can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression",
+            "permanent": true
+        },
+        {
+            "source": "/articles/seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know",
+            "destination": "/articles/can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-light-therapy-can-help-older-adults-beat-winter-blues-after-65",
+            "destination": "/articles/can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression",
+            "permanent": true
+        },
+        {
+            "source": "/articles/10-foods-that-stabilize-systolic-diastolic-gap-without-lowering-overall-bp-for-adults-69-with-wide-pulse-pressure-and-preserved-cognitive-function",
+            "destination": "/articles/foods-stabilize-pulse-pressure-seniors-orthostasis",
+            "permanent": true
+        },
+        {
+            "source": "/articles/10-foods-that-stabilize-pulse-pressure-variability-in-adults-67-with-aortic-stiffness-even-if-they-don-t-lower-systolic-numbers",
+            "destination": "/articles/foods-stabilize-pulse-pressure-seniors-orthostasis",
+            "permanent": true
+        },
+        {
+            "source": "/articles/12-science-backed-ways-to-lower-pulse-pressure-in-adults-69-82-with-isolated-systolic-hypertension-and-aortic-stiffness",
+            "destination": "/articles/foods-stabilize-pulse-pressure-seniors-orthostasis",
+            "permanent": true
+        },
+        {
+            "source": "/articles/12-science-backed-ways-to-lower-pulse-pressure-without-increasing-medication-dose-in-adults-with-isolated-systolic-hypertension-over-75",
+            "destination": "/articles/foods-stabilize-pulse-pressure-seniors-orthostasis",
+            "permanent": true
+        },
+        {
+            "source": "/articles/blood-pressure-vs-pulse-pressure-why-the-gap-between-your-two-numbers-matters-more-than-you-think",
+            "destination": "/articles/foods-stabilize-pulse-pressure-seniors-orthostasis",
+            "permanent": true
+        },
+        {
+            "source": "/articles/7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-70-taking-ssris-ppis-and-anticholinergics",
+            "destination": "/articles/could-your-medications-be-raising-your-blood-pressure",
+            "permanent": true
+        },
+        {
+            "source": "/articles/7-hidden-medication-interactions-that-raise-blood-pressure-in-seniors-taking-antidepressants-antihistamines-or-nsaids",
+            "destination": "/articles/could-your-medications-be-raising-your-blood-pressure",
+            "permanent": true
+        },
+        {
+            "source": "/articles/7-hidden-medication-interactions-that-raise-blood-pressure-in-adults-over-70-taking-nsaids-antidepressants-or-decongestants",
+            "destination": "/articles/could-your-medications-be-raising-your-blood-pressure",
+            "permanent": true
+        },
+        {
+            "source": "/articles/10-medication-interactions-that-raise-bp-without-warning-from-otc-decongestants-to-topical-testosterone-in-men-over-68",
+            "destination": "/articles/could-your-medications-be-raising-your-blood-pressure",
+            "permanent": true
+        },
+        {
+            "source": "/articles/is-your-medication-causing-high-blood-pressure",
+            "destination": "/articles/could-your-medications-be-raising-your-blood-pressure",
+            "permanent": true
+        },
+        {
+            "source": "/articles/the-truth-about-alcohol-and-blood-sugar-during-holiday-parties",
+            "destination": "/articles/can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know",
+            "permanent": true
+        },
+        {
+            "source": "/articles/does-alcohol-raise-blood-sugar-in-older-adults-with-diabetes",
+            "destination": "/articles/can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know",
+            "permanent": true
+        },
+        {
+            "source": "/articles/is-it-safe-to-drink-alcohol-at-family-events-if-you-have-diabetes",
+            "destination": "/articles/can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know",
+            "permanent": true
+        },
+        {
+            "source": "/articles/what-research-says-about-alcohol-and-blood-glucose-in-older-adults-during-holidays",
+            "destination": "/articles/can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know",
+            "permanent": true
+        },
+        {
+            "source": "/articles/when-to-suspect-early-diabetic-cardiomyopathy-before-echocardiogram-changes-in-women-64-with-normal-ejection-fraction-and-unexplained-fatigue",
+            "destination": "/articles/warning-signs-your-stable-diabetes-is-masking-early-diabetic-cardiomyopathy-even-with-normal-ejection-fraction-and-no-symptoms-in-adults-59-68",
+            "permanent": true
+        },
+        {
+            "source": "/articles/warning-signs-your-well-controlled-diabetes-is-masking-early-diabetic-cardiomyopathy-especially-if-you-re-63-and-have-normal-ejection-fraction",
+            "destination": "/articles/warning-signs-your-stable-diabetes-is-masking-early-diabetic-cardiomyopathy-even-with-normal-ejection-fraction-and-no-symptoms-in-adults-59-68",
+            "permanent": true
+        },
+        {
+            "source": "/articles/what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-55-69-before-ejection-fraction-drops-or-nt-probnp-rises",
+            "destination": "/articles/warning-signs-your-stable-diabetes-is-masking-early-diabetic-cardiomyopathy-even-with-normal-ejection-fraction-and-no-symptoms-in-adults-59-68",
+            "permanent": true
+        },
+        {
+            "source": "/articles/what-are-the-earliest-signs-of-diabetic-cardiomyopathy-in-women-over-65-before-echocardiogram-changes-appear",
+            "destination": "/articles/warning-signs-your-stable-diabetes-is-masking-early-diabetic-cardiomyopathy-even-with-normal-ejection-fraction-and-no-symptoms-in-adults-59-68",
+            "permanent": true
+        },
+        {
+            "source": "/articles/holiday-travel-with-diabetes-after-75-5-critical-prep-steps-you-re-missing-especially-for-air-travel-long-car-rides",
+            "destination": "/articles/how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes",
+            "destination": "/articles/how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-to-monitor-blood-sugar-more-effectively-during-festive-travel",
+            "destination": "/articles/how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide",
+            "permanent": true
+        },
+        {
+            "source": "/articles/managing-diabetes-while-traveling-tips-for-seniors",
+            "destination": "/articles/how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide",
+            "permanent": true
+        },
+        {
+            "source": "/articles/the-complete-guide-to-interpreting-home-bp-logs-for-adults-61-with-white-coat-effect-and-intermittent-elevated-readings",
+            "destination": "/articles/the-complete-guide-to-interpreting-home-bp-log-patterns-spotting-masked-hypertension-white-coat-effect-and-circadian-shifts-in-adults-59-71",
+            "permanent": true
+        },
+        {
+            "source": "/articles/the-complete-guide-to-interpreting-home-bp-logs-for-adults-58-72-with-white-coat-hypertension-and-high-work-stress",
+            "destination": "/articles/the-complete-guide-to-interpreting-home-bp-log-patterns-spotting-masked-hypertension-white-coat-effect-and-circadian-shifts-in-adults-59-71",
+            "permanent": true
+        },
+        {
+            "source": "/articles/the-complete-guide-to-interpreting-your-home-bp-log-for-patterns-especially-if-you-re-60-and-tracking-after-antihypertensive-dose-changes",
+            "destination": "/articles/the-complete-guide-to-interpreting-home-bp-log-patterns-spotting-masked-hypertension-white-coat-effect-and-circadian-shifts-in-adults-59-71",
+            "permanent": true
+        },
+        {
+            "source": "/articles/the-ultimate-guide-to-interpreting-home-bp-log-patterns-spotting-masked-morning-surge-evening-dip-loss-and-white-coat-residual-without-a-specialist",
+            "destination": "/articles/the-complete-guide-to-interpreting-home-bp-log-patterns-spotting-masked-hypertension-white-coat-effect-and-circadian-shifts-in-adults-59-71",
+            "permanent": true
+        },
+        {
+            "source": "/articles/diabetes-management-dementia-caregiver-seniors",
+            "destination": "/articles/diabetes-management-dementia-caregiver",
+            "permanent": true
+        },
+        {
+            "source": "/articles/diabetes-management-dementia-caregiver-support",
+            "destination": "/articles/diabetes-management-dementia-caregiver",
+            "permanent": true
+        },
+        {
+            "source": "/articles/the-complete-guide-to-managing-diabetes-while-caring-for-a-spouse-with-advanced-dementia-for-adults-74-with-type-2-diabetes-and-caregiver-burnout",
+            "destination": "/articles/diabetes-management-dementia-caregiver",
+            "permanent": true
+        },
+        {
+            "source": "/articles/diabetes-management-dementia-caregiver-20260104",
+            "destination": "/articles/diabetes-management-dementia-caregiver",
+            "permanent": true
+        },
+        {
+            "source": "/articles/does-sugar-free-chocolate-really-help-diabetics-over-60-enjoy-holidays-safely",
+            "destination": "/articles/are-sugar-free-treats-actually-safe-for-diabetics-over-65",
+            "permanent": true
+        },
+        {
+            "source": "/articles/the-truth-about-sugar-free-holiday-candy-labels-what-the-fine-print-on-maltitol-erythritol-and-allulose-really-means-for-your-glucose",
+            "destination": "/articles/are-sugar-free-treats-actually-safe-for-diabetics-over-65",
+            "permanent": true
+        },
+        {
+            "source": "/articles/the-truth-about-sugar-free-holiday-candy-labels-what-fda-compliance-doesn-t-tell-you-about-sugar-alcohols-and-gi-distress-in-seniors",
+            "destination": "/articles/are-sugar-free-treats-actually-safe-for-diabetics-over-65",
+            "permanent": true
+        },
+        {
+            "source": "/articles/the-truth-about-sugar-free-holiday-treats-and-your-glucose-levels",
+            "destination": "/articles/are-sugar-free-treats-actually-safe-for-diabetics-over-65",
+            "permanent": true
+        },
+        {
+            "source": "/articles/natural-ways-to-stabilize-baroreflex-sensitivity-after-stroke-in-adults-65-with-impaired-bp-response-to-standing-and-reduced-hrv",
+            "destination": "/articles/natural-baroreflex-sensitivity-enhancement",
+            "permanent": true
+        },
+        {
+            "source": "/articles/quick-ways-to-normalize-baroreflex-sensitivity-within-45-minutes-of-standing-for-adults-64-79-with-hypertension-and-presyncope",
+            "destination": "/articles/natural-baroreflex-sensitivity-enhancement",
+            "permanent": true
+        },
+        {
+            "source": "/articles/12-science-backed-ways-to-improve-baroreflex-sensitivity-without-medication-for-adults-67-80-with-orthostatic-hypotension-and-recurrent-falls",
+            "destination": "/articles/natural-baroreflex-sensitivity-enhancement",
+            "permanent": true
+        },
+        {
+            "source": "/articles/12-science-backed-ways-to-improve-baroreflex-sensitivity-without-drugs-for-adults-59-76-with-isolated-systolic-hypertension-and-low-hrv",
+            "destination": "/articles/natural-baroreflex-sensitivity-enhancement",
+            "permanent": true
+        },
+        {
+            "source": "/articles/when-to-suspect-cardiac-amyloidosis-in-adults-74-88-with-unexplained-fatigue-bilateral-carpal-tunnel-release-history-and-normal-ejection-fraction",
+            "destination": "/articles/when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss",
+            "permanent": true
+        },
+        {
+            "source": "/articles/when-to-suspect-cardiac-amyloidosis-in-women-66-81-with-bilateral-carpal-tunnel-syndrome-unexplained-weight-loss-and-normal-echo-findings",
+            "destination": "/articles/when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss",
+            "permanent": true
+        },
+        {
+            "source": "/articles/when-to-suspect-cardiac-amyloidosis-in-women-over-73-with-unexplained-fatigue-bilateral-carpal-tunnel-and-preserved-ejection-fraction",
+            "destination": "/articles/when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss",
+            "permanent": true
+        },
+        {
+            "source": "/articles/can-daily-3-minute-cold-face-immersion-diving-reflex-protocol-reduce-central-aortic-systolic-pressure-in-men-62-78-with-elevated-augmentation-index",
+            "destination": "/articles/cold-face-immersion-baroreflex-seniors",
+            "permanent": true
+        },
+        {
+            "source": "/articles/can-daily-4-minute-cold-face-immersion-lower-central-systolic-pressure-in-men-59-71-with-morning-hypertension-and-elevated-pulse-wave-velocity",
+            "destination": "/articles/cold-face-immersion-baroreflex-seniors",
+            "permanent": true
+        },
+        {
+            "source": "/articles/can-daily-10-minute-cold-water-face-immersion-lower-morning-systolic-bp-in-adults-66-81-with-non-dipping-patterns",
+            "destination": "/articles/cold-face-immersion-baroreflex-seniors",
+            "permanent": true
+        },
+        {
+            "source": "/articles/best-breathing-patterns-for-lowering-diastolic-bp-in-adults-53-65-with-early-lv-diastolic-stiffness-and-elevated-e-e-ratio",
+            "destination": "/articles/resonant-breathing-diastolic-pressure-reduction",
+            "permanent": true
+        },
+        {
+            "source": "/articles/best-breathing-patterns-for-lowering-diastolic-bp-in-under-5-minutes-backed-by-real-time-hrv-and-baroreflex-sensitivity-testing-in-adults-59-74",
+            "destination": "/articles/resonant-breathing-diastolic-pressure-reduction",
+            "permanent": true
+        },
+        {
+            "source": "/articles/quick-ways-to-normalize-diastolic-bp-within-48-hours-using-breathing-biofeedback-validated-in-2-rcts-for-adults-with-isolated-diastolic-hypertension",
+            "destination": "/articles/resonant-breathing-diastolic-pressure-reduction",
+            "permanent": true
+        },
+        {
+            "source": "/articles/warning-signs-your-well-controlled-atrial-fibrillation-is-masking-early-cardiac-amyloidosis-in-adults-68-with-preserved-ef-and-unexplained-fatigue",
+            "destination": "/articles/cardiac-amyloidosis-vs-hypertensive-heart-disease",
+            "permanent": true
+        },
+        {
+            "source": "/articles/what-are-the-earliest-signs-of-cardiac-amyloidosis-in-adults-74-with-unexplained-left-ventricular-wall-thickness-and-preserved-ef",
+            "destination": "/articles/cardiac-amyloidosis-vs-hypertensive-heart-disease",
+            "permanent": true
+        },
+        {
+            "source": "/articles/cardiac-amyloidosis-diagnosis-in-elderly",
+            "destination": "/articles/cardiac-amyloidosis-vs-hypertensive-heart-disease",
+            "permanent": true
+        },
+        {
+            "source": "/articles/5-foods-that-raise-blood-pressure-even-if-they-re-low-sodium",
+            "destination": "/articles/hidden-salt-10-surprising-foods-that-spike-blood-pressure",
+            "permanent": true
+        },
+        {
+            "source": "/articles/hidden-salt-surprising-foods-that-raise-blood-pressure",
+            "destination": "/articles/hidden-salt-10-surprising-foods-that-spike-blood-pressure",
+            "permanent": true
+        },
+        {
+            "source": "/articles/7-silent-signs-of-diabetic-neuropathy-in-adults-68-that-are-often-blamed-on-just-getting-older",
+            "destination": "/articles/7-silent-signs-your-feet-are-sending-early-warnings-of-diabetic-neuropathy-especially-if-you-ve-had-t2d-for-12-years",
+            "permanent": true
+        },
+        {
+            "source": "/articles/7-silent-signs-your-nerve-health-is-declining-especially-if-you-re-over-65-with-type-2-diabetes-and-no-painful-neuropathy",
+            "destination": "/articles/7-silent-signs-your-feet-are-sending-early-warnings-of-diabetic-neuropathy-especially-if-you-ve-had-t2d-for-12-years",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-holiday-travel-disrupts-continuous-glucose-monitor-calibration-and-what-to-do-at-35-000-feet-or-in-a-rental-car",
+            "destination": "/articles/cgm-accuracy-holiday-travel",
+            "permanent": true
+        },
+        {
+            "source": "/articles/cgm-travel-holiday-airport-seniors",
+            "destination": "/articles/cgm-accuracy-holiday-travel",
+            "permanent": true
+        },
+        {
+            "source": "/articles/pom-inhibitor-tmao-coronary-calcification",
+            "destination": "/articles/how-long-term-use-of-proton-pump-inhibitors-alters-gut-microbiome-derived-tmao-production-and-coronary-plaque-burden-in-adults-65-with-stable-angina",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-long-term-ppi-use-alters-gut-microbiome-derived-tmao-production-and-its-link-to-plaque-instability-in-adults-67-with-stable-cad",
+            "destination": "/articles/how-long-term-use-of-proton-pump-inhibitors-alters-gut-microbiome-derived-tmao-production-and-coronary-plaque-burden-in-adults-65-with-stable-angina",
+            "permanent": true
+        },
+        {
+            "source": "/articles/12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-59-72-with-well-controlled-diabetes-and-high-holiday-social-engagement",
+            "destination": "/articles/3-simple-steps-to-prevent-post-holiday-hba1c-drift-even-if-you-did-fine-during-the-festivities-in-adults-57-66-with-stable-prediabetes",
+            "permanent": true
+        },
+        {
+            "source": "/articles/12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-55-72-with-long-standing-type-2-diabetes",
+            "destination": "/articles/3-simple-steps-to-prevent-post-holiday-hba1c-drift-even-if-you-did-fine-during-the-festivities-in-adults-57-66-with-stable-prediabetes",
+            "permanent": true
+        },
+        {
+            "source": "/articles/why-blood-pressure-readings-jump-after-morning-coffee-especially-in-adults-58-72-with-slow-cyp1a2-metabolism-and-high-sodium-breakfasts",
+            "destination": "/articles/7-hidden-blood-pressure-spikes-you-re-causing-with-your-morning-coffee-routine-and-how-to-fix-them-without-quitting-caffeine",
+            "permanent": true
+        },
+        {
+            "source": "/articles/why-does-blood-pressure-spike-during-morning-coffee-especially-in-adults-62-78-with-stage-1-hypertension",
+            "destination": "/articles/7-hidden-blood-pressure-spikes-you-re-causing-with-your-morning-coffee-routine-and-how-to-fix-them-without-quitting-caffeine",
+            "permanent": true
+        },
+        {
+            "source": "/articles/intermittent-fasting-beta-cell-regeneration",
+            "destination": "/articles/how-intermittent-fasting-affects-beta-cell-rest-and-regeneration-in-adults-54-68-with-new-onset-type-2-diabetes-what-12-week-clinical-trials-show",
+            "permanent": true
+        },
+        {
+            "source": "/articles/does-intermittent-fasting-improve-beta-cell-function-in-adults-with-recent-onset-type-2-diabetes-diagnosed-2-years-ago-a-16-week-rct-analysis",
+            "destination": "/articles/how-intermittent-fasting-affects-beta-cell-rest-and-regeneration-in-adults-54-68-with-new-onset-type-2-diabetes-what-12-week-clinical-trials-show",
+            "permanent": true
+        },
+        {
+            "source": "/articles/holiday-stuffing-warfarin-vitamin-k-seniors",
+            "destination": "/articles/can-you-safely-eat-stuffed-peppers-at-thanksgiving-if-you-re-on-warfarin-a-vitamin-k-consistency-guide-for-adults-65-with-atrial-fibrillation",
+            "permanent": true
+        },
+        {
+            "source": "/articles/when-to-skip-the-holiday-buffet-line-if-you-re-on-warfarin-and-over-70-and-what-to-eat-instead",
+            "destination": "/articles/can-you-safely-eat-stuffed-peppers-at-thanksgiving-if-you-re-on-warfarin-a-vitamin-k-consistency-guide-for-adults-65-with-atrial-fibrillation",
+            "permanent": true
+        },
+        {
+            "source": "/articles/when-to-suspect-autoimmune-diabetes-lada-in-adults-45-60-with-rapidly-worsening-control-on-oral-medications-and-unexplained-weight-loss",
+            "destination": "/articles/when-to-suspect-latent-autoimmune-diabetes-in-adults-lada-in-patients-52-65-with-rapidly-worsening-glycemic-control-on-metformin-alone",
+            "permanent": true
+        },
+        {
+            "source": "/articles/lada-diagnosis-in-middle-aged-men",
+            "destination": "/articles/when-to-suspect-latent-autoimmune-diabetes-in-adults-lada-in-patients-52-65-with-rapidly-worsening-glycemic-control-on-metformin-alone",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-chronic-loneliness-after-retirement-affects-24-hour-blood-pressure-patterns-in-adults-62-78-with-preserved-ejection-fraction",
+            "destination": "/articles/how-chronic-loneliness-after-retirement-alters-autonomic-tone-and-elevates-nocturnal-systolic-pressure-in-adults-68-with-preserved-ejection-fraction",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-chronic-loneliness-after-retirement-accelerates-arterial-stiffness-and-raises-systolic-bp-in-adults-58-74",
+            "destination": "/articles/how-chronic-loneliness-after-retirement-alters-autonomic-tone-and-elevates-nocturnal-systolic-pressure-in-adults-68-with-preserved-ejection-fraction",
+            "permanent": true
+        },
+        {
+            "source": "/articles/pancreatic-beta-cell-resilience-festive-eating",
+            "destination": "/articles/beta-cell-resilience-holiday-eating",
+            "permanent": true
+        },
+        {
+            "source": "/articles/natural-ways-to-support-pancreatic-beta-cell-resilience-during-holiday-stress-using-polyphenol-rich-foods-breathwork-and-sleep-architecture-tweaks",
+            "destination": "/articles/beta-cell-resilience-holiday-eating",
+            "permanent": true
+        },
+        {
+            "source": "/articles/can-one-night-of-heavy-drinking-cause-heart-problems-in-people-over-55",
+            "destination": "/articles/the-truth-about-alcohol-and-heart-disease-is-one-drink-a-day-safe",
+            "permanent": true
+        },
+        {
+            "source": "/articles/the-truth-about-alcohol-and-heart-health-after-55",
+            "destination": "/articles/the-truth-about-alcohol-and-heart-disease-is-one-drink-a-day-safe",
+            "permanent": true
+        },
+        {
+            "source": "/articles/the-truth-about-sugar-free-holiday-cookies-for-adults-62-with-gastroparesis-and-type-1-diabetes",
+            "destination": "/articles/the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment",
+            "permanent": true
+        },
+        {
+            "source": "/articles/the-truth-about-sugar-free-holiday-cookies-labeled-for-diabetics-what-the-fda-doesn-t-require-on-packaging",
+            "destination": "/articles/the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment",
+            "permanent": true
+        },
+        {
+            "source": "/articles/best-seated-resistance-protocols-for-adults-74-with-severe-knee-osteoarthritis-and-isolated-systolic-hypertension",
+            "destination": "/articles/seated-resistance-band-hypertension-elderly",
+            "permanent": true
+        },
+        {
+            "source": "/articles/best-seated-resistance-exercises-for-bp-control-in-adults-77-with-severe-osteoarthritis-and-stage-2-hypertension",
+            "destination": "/articles/seated-resistance-band-hypertension-elderly",
+            "permanent": true
+        },
+        {
+            "source": "/articles/can-air-pollution-exposure-in-urban-apartments-raise-diastolic-bp-within-48-hours-new-data-from-3-200-adults-55-81",
+            "destination": "/articles/how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments",
+            "permanent": true
+        },
+        {
+            "source": "/articles/does-air-pollution-raise-blood-pressure-what-real-time-data-shows-for-urban-seniors",
+            "destination": "/articles/how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments",
+            "permanent": true
+        },
+        {
+            "source": "/articles/morning-blood-pressure-surge-reduction",
+            "destination": "/articles/best-breathing-exercises-for-reducing-morning-blood-pressure-spikes-in-adults-57-62-with-mild-obstructive-sleep-apnea-and-high-morning-cortisol",
+            "permanent": true
+        },
+        {
+            "source": "/articles/12-science-backed-ways-to-stabilize-morning-blood-pressure-spikes-without-increasing-beta-blocker-dose-in-adults-66-79",
+            "destination": "/articles/best-breathing-exercises-for-reducing-morning-blood-pressure-spikes-in-adults-57-62-with-mild-obstructive-sleep-apnea-and-high-morning-cortisol",
+            "permanent": true
+        },
+        {
+            "source": "/articles/7-silent-signs-of-left-ventricular-hypertrophy-in-adults-65-with-well-controlled-hypertension-missed-on-routine-ekg",
+            "destination": "/articles/left-ventricular-hypertrophy-masked-hypertension",
+            "permanent": true
+        },
+        {
+            "source": "/articles/warning-signs-your-well-controlled-hypertension-is-causing-subclinical-left-ventricular-hypertrophy-before-echo-findings-appear",
+            "destination": "/articles/left-ventricular-hypertrophy-masked-hypertension",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-dehydration-impacts-blood-pressure-levels",
+            "destination": "/articles/can-drinking-more-water-help-lower-blood-pressure-naturally",
+            "permanent": true
+        },
+        {
+            "source": "/articles/can-hydration-prevent-winter-blood-pressure-spikes-after-age-70",
+            "destination": "/articles/can-drinking-more-water-help-lower-blood-pressure-naturally",
+            "permanent": true
+        },
+        {
+            "source": "/articles/blood-pressure-changes-during-menopause-what-women-should-know",
+            "destination": "/articles/blood-pressure-fluctuations-during-menopause-what-women-should-know",
+            "permanent": true
+        },
+        {
+            "source": "/articles/the-link-between-sleep-apnea-and-high-blood-pressure",
+            "destination": "/articles/the-link-between-sleep-apnea-and-high-blood-pressure-after-50",
+            "permanent": true
+        },
+        {
+            "source": "/articles/7-red-flags-that-your-bp-monitor-is-giving-false-readings-especially-if-you-re-74-with-atrial-fibrillation-and-arm-edema",
+            "destination": "/articles/warning-signs-your-blood-pressure-monitor-is-giving-false-readings-especially-if-you-re-71-with-atrial-fibrillation-and-irregular-pulse",
+            "permanent": true
+        },
+        {
+            "source": "/articles/cholesterol-lowering-soups-over-45",
+            "destination": "/articles/cholesterol-lowering-soups-seniors",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-late-night-eggnog-consumption-alters-qt-interval-duration-in-men-over-62-a-cardiologist-s-interpretation-of-holiday-ecg-patterns",
+            "destination": "/articles/how-late-night-eggnog-consumption-alters-cardiac-repolarization-reserve-in-adults-58-65-with-subclinical-qt-prolongation",
+            "permanent": true
+        },
+        {
+            "source": "/articles/what-research-says-about-cranberry-sauce-and-uti-risk-in-women-over-70-during-holiday-travel",
+            "destination": "/articles/does-cranberry-sauce-really-help-uti-prevention-in-women-over-65-separating-proanthocyanidin-efficacy-from-sugar-driven-biofilm-risk",
+            "permanent": true
+        },
+        {
+            "source": "/articles/myths-vs-facts-salt-sensitivity-in-older-adults-why-your-bp-may-rise-with-2g-sodium-even-if-you-re-not-salt-sensitive-by-classic-definitions",
+            "destination": "/articles/myths-vs-facts-salt-sensitivity-in-adults-74-with-long-standing-hypertension-why-82-of-salt-sensitive-diagnoses-are-based-on-outdated-protocols",
+            "permanent": true
+        },
+        {
+            "source": "/articles/warning-signs-your-blood-pressure-monitor-is-giving-false-low-readings-especially-if-you-have-large-arm-circumference-or-atrial-fibrillation",
+            "destination": "/articles/false-low-blood-pressure-reading-causes",
+            "permanent": true
+        },
+        {
+            "source": "/articles/the-truth-about-normal-home-bp-readings-when-you-have-atrial-fibrillation-why-your-cuff-might-be-lying-to-you",
+            "destination": "/articles/home-blood-pressure-cuff-afib-algorithm-errors",
+            "permanent": true
+        },
+        {
+            "source": "/articles/salt-sensitivity-myths-older-adults-gut-microbiome",
+            "destination": "/articles/myths-vs-facts-about-salt-sensitivity-after-60-why-3-000-mg-sodium-can-be-safe-or-harmful-depending-on-your-enac-genotype-and-gut-microbiome-profile",
+            "permanent": true
+        },
+        {
+            "source": "/articles/when-to-suspect-renal-artery-fibromuscular-dysplasia-in-women-49-63-with-resistant-hypertension-and-asymmetric-kidney-size-on-ultrasound",
+            "destination": "/articles/fibromuscular-dysplasia-resistant-hypertension-diagnosis",
+            "permanent": true
+        },
+        {
+            "source": "/articles/the-truth-about-vitamin-d3-supplementation-for-seasonal-mood-support-in-adults-with-stage-3-ckd-over-65",
+            "destination": "/articles/the-truth-about-vitamin-d-supplementation-for-seasonal-depression-in-men-over-72-with-chronic-kidney-disease-stage-3",
+            "permanent": true
+        },
+        {
+            "source": "/articles/cgm-vs-flash-glucose-monitoring-older-adults",
+            "destination": "/articles/cgms-vs-flash-glucose-monitoring-seniors-hypoglycemia",
+            "permanent": true
+        },
+        {
+            "source": "/articles/when-to-worry-about-bloating-after-a-holiday-meal-red-flags-for-gi-kidney-and-cardiac-issues-in-older-adults",
+            "destination": "/articles/when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-frequent-urination-at-night-could-signal-heart-problems",
+            "destination": "/articles/the-connection-between-frequent-urination-at-night-and-heart-health",
+            "permanent": true
+        },
+        {
+            "source": "/articles/breathing-patterns-left-atrial-pressure-af",
+            "destination": "/articles/breathing-techniques-for-left-atrial-pressure",
+            "permanent": true
+        },
+        {
+            "source": "/articles/7-hidden-causes-of-overnight-blood-sugar-spikes-in-adults-over-65-with-type-2-diabetes",
+            "destination": "/articles/why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner",
+            "permanent": true
+        },
+        {
+            "source": "/articles/7-silent-signs-your-blood-pressure-is-spiking-during-morning-commute-even-with-normal-clinic-readings-in-adults-58-66-with-white-coat-normotension",
+            "destination": "/articles/why-does-blood-pressure-spike-during-morning-commute-stress-even-with-normal-readings-at-home-in-adults-58-67",
+            "permanent": true
+        },
+        {
+            "source": "/articles/a-vs-b-15-minute-post-dinner-walk-vs-5-minute-standing-desk-session-for-reducing-post-holiday-dinner-glucose-spikes-in-adults-70-with-osteoarthritis",
+            "destination": "/articles/walking-vs-standing-post-dinner-glucose",
+            "permanent": true
+        },
+        {
+            "source": "/articles/when-to-suspect-cardiac-amyloidosis-in-adults-76-with-unexplained-orthostatic-hypotension-and-bilateral-carpal-tunnel-even-with-normal-echocardiogram",
+            "destination": "/articles/cardiac-amyloidosis-early-detection-orthostasis",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-air-pollution-impacts-heart-health-in-older-adults",
+            "destination": "/articles/the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults",
+            "permanent": true
+        },
+        {
+            "source": "/articles/the-truth-about-heart-healthy-plant-based-burgers-for-seniors-with-stage-3-ckd-and-hypertension",
+            "destination": "/articles/the-truth-about-heart-healthy-plant-based-burgers-for-adults-over-70-with-stage-2-ckd-hidden-potassium-load-and-phosphate-additives",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-late-afternoon-sunlight-exposure-regulates-hepatic-glucose-production-via-melanopsin-scn-arc-signaling-in-adults-59-66-with-insulin-resistance",
+            "destination": "/articles/afternoon-sunlight-gluconeogenesis-type-2-diabetes",
+            "permanent": true
+        },
+        {
+            "source": "/articles/foods-for-cardiac-fibroblast-quiescence",
+            "destination": "/articles/foods-cardiac-fibroblast-quiescence-seniors",
+            "permanent": true
+        },
+        {
+            "source": "/articles/diabetes-friendly-protein-bars-hidden-ingredients",
+            "destination": "/articles/the-truth-about-diabetes-friendly-protein-bars-marketed-to-seniors-70-why-82-contain-hidden-maltitol-that-spikes-postprandial-glucose",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-social-isolation-increases-heart-disease-risk-after-60",
+            "destination": "/articles/how-social-isolation-impacts-heart-disease-risk-in-older-adults",
+            "permanent": true
+        },
+        {
+            "source": "/articles/holiday-hydration-hyponatremia-seniors-diuretics",
+            "destination": "/articles/the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use",
+            "permanent": true
+        },
+        {
+            "source": "/articles/why-your-blood-pressure-spikes-during-video-calls-and-how-to-stabilize-it-with-micro-breathing-anchors-for-adults-60-73-with-social-anxiety",
+            "destination": "/articles/video-call-blood-pressure-spike-family",
+            "permanent": true
+        },
+        {
+            "source": "/articles/5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose",
+            "destination": "/articles/12-smart-swaps-to-manage-blood-sugar-during-holiday-meals",
+            "permanent": true
+        },
+        {
+            "source": "/articles/when-test-glucose-seniors-dawn",
+            "destination": "/articles/12-science-backed-times-to-measure-fasting-glucose-before-breakfast-not-just-upon-waking-for-adults-65-with-dawn-phenomenon-and-shift-work-history",
+            "permanent": true
+        },
+        {
+            "source": "/articles/warning-signs-your-holiday-fluid-intake-is-masking-early-hyponatremia-especially-if-you-re-on-ssris-or-thiazide-diuretics-over-age-68",
+            "destination": "/articles/12-science-backed-ways-to-prevent-post-holiday-hyponatremia-in-adults-78-living-alone-and-taking-ssris-or-thiazides",
+            "permanent": true
+        },
+        {
+            "source": "/articles/12-science-backed-ways-to-reduce-holiday-meal-related-oxidative-stress-in-adults-57-74-with-elevated-hs-crp-and-subclinical-atherosclerosis",
+            "destination": "/articles/quick-ways-to-neutralize-holiday-meal-induced-oxidative-stress-in-adults-67-with-low-serum-vitamin-e-and-high-hs-crp",
+            "permanent": true
+        },
+        {
+            "source": "/articles/natural-ways-to-support-gastric-acid-production-during-holiday-feasts-without-ppis-or-supplements-for-adults-63-78-with-age-related-hypochlorhydria",
+            "destination": "/articles/gastric-acid-support-without-ppi-seniors",
+            "permanent": true
+        },
+        {
+            "source": "/articles/5-natural-ways-to-improve-coronary-microvascular-function-without-medication-especially-for-women-with-inoca-and-normal-coronary-angiograms",
+            "destination": "/articles/microvascular-coronary-reactivity-natural",
+            "permanent": true
+        },
+        {
+            "source": "/articles/12-science-backed-ways-to-lower-central-aortic-pressure-without-medication-for-adults-57-71-with-high-pulse-wave-velocity-and-normal-brachial-readings",
+            "destination": "/articles/simple-steps-to-lower-central-aortic-pressure-in-just-7-days-using-only-a-kitchen-scale-a-stopwatch-and-your-morning-tea-ritual",
+            "permanent": true
+        },
+        {
+            "source": "/articles/natural-ways-to-improve-nitric-oxide-bioavailability-without-supplements-especially-after-age-60",
+            "destination": "/articles/boost-nitric-oxide-naturally-seniors",
+            "permanent": true
+        },
+        {
+            "source": "/articles/is-your-senior-loved-one-withdrawn-this-winter-it-might-be-seasonal-depression",
+            "destination": "/articles/when-to-worry-about-social-withdrawal-in-winter-differentiating-normal-retiring-behavior-from-prodromal-seasonal-depression-in-adults-80",
+            "permanent": true
+        },
+        {
+            "source": "/articles/simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension",
+            "destination": "/articles/7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-late-night-snacking-after-age-58-alters-hepatic-glucose-production-and-why-just-one-cookie-triggers-dawn-phenomenon",
+            "destination": "/articles/how-late-night-cookie-binges-alter-hepatic-gluconeogenesis-rhythms-in-adults-58-66-with-prediabetes-and-why-it-matters-for-fasting-glucose-stability",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-gut-microbial-tmao-production-modulates-vascular-smooth-muscle-calcium-sensitivity-in-adults-65-81-with-hypertension-and-high-fat-diet-history",
+            "destination": "/articles/how-gut-derived-trimethylamine-n-oxide-tmao-alters-vascular-smooth-muscle-phenotype-transition-in-adults-68-82-with-hypertension-and-low-fiber-diets",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-late-night-eggnog-consumption-affects-fasting-glucose-in-adults-55-68-with-metabolic-syndrome-and-shift-work-history",
+            "destination": "/articles/how-late-night-eggnog-consumption-alters-circadian-insulin-secretion-patterns-in-adults-67-with-long-standing-type-2-diabetes",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-late-night-leftovers-affect-circadian-glucose-rhythms-in-adults-with-shift-work-history-age-58-72",
+            "destination": "/articles/how-late-afternoon-snacking-at-family-gatherings-disrupts-nocturnal-melatonin-and-elevates-fasting-glucose-in-adults-59-66-with-shift-work-history",
+            "permanent": true
+        },
+        {
+            "source": "/articles/charcot-arthropathy-footwear-modifications",
+            "destination": "/articles/charcot-neuroarthropathy-footwear-seniors",
+            "permanent": true
+        },
+        {
+            "source": "/articles/warning-signs-your-holiday-weight-gain-is-masking-early-diabetic-kidney-disease-progression-especially-if-you-re-64-with-egfr-60-89",
+            "destination": "/articles/warning-signs-your-holiday-weight-gain-is-accelerating-diabetic-kidney-hyperfiltration-even-before-egfr-drops",
+            "permanent": true
+        },
+        {
+            "source": "/articles/a-vs-b-mulled-wine-vs-warm-spiced-apple-cider-for-blood-sugar-stability-in-women-over-60-with-insulin-resistance",
+            "destination": "/articles/a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome",
+            "permanent": true
+        },
+        {
+            "source": "/articles/7-hidden-triggers-of-holiday-heart-syndrome-you-re-experiencing-right-now-especially-after-age-55",
+            "destination": "/articles/7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62",
+            "permanent": true
+        },
+        {
+            "source": "/articles/5-things-everyone-over-70-should-know-about-using-wrist-based-blood-pressure-monitors-with-atrial-fibrillation-and-radial-artery-calcification",
+            "destination": "/articles/a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor",
+            "permanent": true
+        },
+        {
+            "source": "/articles/when-to-worry-about-normal-blood-pressure-readings-after-starting-sglt2-inhibitors-in-adults-65-with-heart-failure-and-preserved-ejection-fraction",
+            "destination": "/articles/when-to-worry-about-sudden-bp-drop-after-starting-sglt2-inhibitors-especially-in-adults-63-75-with-mild-ckd-and-orthostatic-symptoms",
+            "permanent": true
+        },
+        {
+            "source": "/articles/a-vs-b-morning-walk-after-fasting-vs-post-dinner-walk-impact-on-24-hour-ambulatory-bp-patterns-in-adults-63-76-with-white-coat-hypertension",
+            "destination": "/articles/morning-vs-evening-exercise-nocturnal-hypertension",
+            "permanent": true
+        },
+        {
+            "source": "/articles/central-aortic-pressure-foods-wide-pulse-pressure",
+            "destination": "/articles/central-aortic-pressure-foods-74-pulse",
+            "permanent": true
+        },
+        {
+            "source": "/articles/5-things-every-woman-over-65-with-menopause-related-vasomotor-symptoms-and-nighttime-bp-surge-should-know",
+            "destination": "/articles/what-causes-nocturnal-hypertension-in-women-52-65-with-perimenopausal-hot-flashes-and-elevated-nighttime-norepinephrine",
+            "permanent": true
+        },
+        {
+            "source": "/articles/quick-ways-to-counteract-bp-elevation-from-airline-cabin-pressure-for-adults-65-with-copd-pulmonary-hypertension-and-frequent-in-flight-dizziness",
+            "destination": "/articles/check-bp-after-flying-copd-60",
+            "permanent": true
+        },
+        {
+            "source": "/articles/what-are-the-earliest-signs-of-hypertensive-retinopathy-on-home-fundus-photos-and-when-to-see-a-retinal-specialist-if-you-re-68-with-uncontrolled-bp",
+            "destination": "/articles/warning-signs-of-hypertensive-retinopathy-progression-that-appear-before-vision-changes-detected-via-smartphone-fundus-imaging-in-adults-71",
+            "permanent": true
+        },
+        {
+            "source": "/articles/7-silent-signs-your-holiday-stress-is-raising-postprandial-glucose-especially-if-you-re-on-glp-1-ras-and-over-68",
+            "destination": "/articles/how-holiday-stress-cortisol-spikes-impair-glp-1-secretion-in-adults-64-with-obesity-and-prediabetes-and-why-mindful-breathing-beats-just-relax-advice",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-to-navigate-grandma-s-thanksgiving-dinner-without-spiking-your-post-meal-glucose-especially-if-you-re-newly-diagnosed-with-prediabetes-at-58",
+            "destination": "/articles/how-intergenerational-plate-sharing-during-thanksgiving-dinner-elevates-postprandial-glucose-spikes-in-adults-62-with-prediabetes",
+            "permanent": true
+        },
+        {
+            "source": "/articles/7-holiday-specific-blood-sugar-spikes-you-might-not-notice-and-what-to-do-about-them",
+            "destination": "/articles/7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels",
+            "permanent": true
+        },
+        {
+            "source": "/articles/the-truth-about-normal-home-bp-readings-in-adults-70-with-orthostatic-hypotension-and-white-coat-resistance",
+            "destination": "/articles/the-truth-about-normal-home-blood-pressure-readings-in-adults-80-with-orthostatic-hypotension-and-white-coat-avoidance",
+            "permanent": true
+        },
+        {
+            "source": "/articles/what-causes-sudden-post-brunch-hypoglycemia-in-adults-73-with-sulfonylurea-use-and-mild-cognitive-impairment",
+            "destination": "/articles/holiday-medication-holiday-myths-facts",
+            "permanent": true
+        },
+        {
+            "source": "/articles/10-foods-that-stabilize-coronary-microvascular-reactivity-not-just-lower-cholesterol-for-adults-61-with-inoca-and-no-obstructive-disease",
+            "destination": "/articles/coronary-microvascular-reactivity-natural-support",
+            "permanent": true
+        },
+        {
+            "source": "/articles/what-to-eat-before-opening-gifts-a-12-minute-pre-event-strategy-to-prevent-postprandial-hypotension-in-adults-75",
+            "destination": "/articles/quick-fix-for-postprandial-hypotension-seniors",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-to-adjust-insulin-dosing-during-holiday-travel-across-time-zones-for-adults-55-72-with-type-1-diabetes-and-frequent-hypoglycemia",
+            "destination": "/articles/how-holiday-travel-disrupts-circadian-glucose-rhythms-in-adults-58-65-with-insulin-treated-type-2-diabetes-and-3-jet-lag-proof-timing-strategies",
+            "permanent": true
+        },
+        {
+            "source": "/articles/natural-ways-to-support-gastric-emptying-after-a-heavy-holiday-meal-without-medication-for-adults-66-81-with-gastroparesis-like-symptoms",
+            "destination": "/articles/how-holiday-stress-slows-gastric-emptying-in-adults-72-with-mild-gastroparesis-and-what-to-eat-instead",
+            "permanent": true
+        },
+        {
+            "source": "/articles/the-ultimate-guide-to-interpreting-ambulatory-blood-pressure-reports-what-nocturnal-dipping-really-means-for-your-stroke-risk-after-72",
+            "destination": "/articles/ambulatory-blood-pressure-report-interpretation",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50",
+            "destination": "/articles/holiday-sleep-fragmentation-fasting-glucose-men",
+            "permanent": true
+        },
+        {
+            "source": "/articles/7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-seniors-70-with-nocturnal-hypertension",
+            "destination": "/articles/7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-adults-72-with-isolated-systolic-hypertension-and-what-to-serve-instead",
+            "permanent": true
+        },
+        {
+            "source": "/articles/what-research-says-about-blood-pressure-variability-as-a-predictor-of-cognitive-decline-in-women-60-74-with-normal-mean-bp-but-high-visit-to-visit-sd",
+            "destination": "/articles/the-truth-about-normal-bp-variability-why-24-hour-sd-15-mmhg-predicts-microinfarct-burden-in-adults-69-with-white-matter-hyperintensities",
+            "permanent": true
+        },
+        {
+            "source": "/articles/9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance",
+            "destination": "/articles/10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp",
+            "destination": "/articles/how-chronic-low-grade-inflammation-from-periodontitis-elevates-nighttime-blood-pressure-in-adults-61-76-with-hypertension-and-poor-dental-access",
+            "permanent": true
+        },
+        {
+            "source": "/articles/isolated-systolic-hypertension-what-it-means-for-older-adults",
+            "destination": "/articles/warning-signs-your-normal-office-diastolic-reading-is-missing-isolated-systolic-hypertension-especially-if-you-re-a-woman-over-70-with-stiff-arteries",
+            "permanent": true
+        },
+        {
+            "source": "/articles/myths-vs-facts-eating-more-protein-at-holiday-meals-prevents-muscle-loss-in-adults-70-with-anabolic-resistance-and-low-physical-activity",
+            "destination": "/articles/preserve-muscle-mass-holiday-meals",
+            "permanent": true
+        },
+        {
+            "source": "/articles/how-late-morning-sunlight-exposure-10-11-am-lowers-midday-systolic-bp-in-adults-with-seasonal-affective-disorder-and-mild-hypertension",
+            "destination": "/articles/sunlight-exposure-and-circadian-blood-pressure",
+            "permanent": true
+        },
+        {
+            "source": "/articles/why-morning-blood-pressure-surges-are-more-dangerous-in-winter",
+            "destination": "/articles/how-cold-weather-triggers-morning-hypertensive-crises-in-adults-72-with-white-coat-hypertension-and-peripheral-artery-disease",
+            "permanent": true
+        },
+        {
+            "source": "/articles/does-daily-10-minute-cold-water-immersion-lower-morning-systolic-bp-in-sedentary-adults-60-72-a-12-week-rct-breakdown",
+            "destination": "/articles/does-daily-8-minute-cold-water-hand-immersion-really-lower-24-hour-mean-arterial-pressure-in-adults-68-with-mild-hypertension-and-raynaud-s-phenomenon",
+            "permanent": true
+        },
+        {
+            "source": "/articles/morning-vs-evening-walk-prediabetes",
+            "destination": "/articles/a-vs-b-morning-walk-before-breakfast-vs-30-minutes-after-dinner-impact-on-24-hour-glucose-variability-in-adults-60-76-with-postprandial-hyperglycemia",
+            "permanent": true
+        },
+];
     return slugRedirects;
   },
 };
