@@ -3,7 +3,7 @@
   "stages": [
     { "dayRange": [1, 20], "articlesPerDay": 15, "description": "Initial growth phase" },
     { "dayRange": [21, 40], "articlesPerDay": 20, "description": "Acceleration phase" },
-    { "dayRange": [41, 9999], "articlesPerDay": 5, "description": "Mature phase - ONGOING UNLIMITED" }
+    { "dayRange": [41, 9999], "articlesPerDay": 3, "description": "Mature phase - quality focus" }
   ],
   "topicManagement": {
     "coreTopics": [

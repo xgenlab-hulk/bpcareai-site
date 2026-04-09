@@ -21,10 +21,16 @@ import {
   loadArticleEmbeddings,
 } from '../lib/embeddings/internal-linking';
 import { slugify } from '../lib/utils/slugify';
+import {
+  checkContentDuplicate,
+  loadContentEmbeddings,
+  appendContentEmbedding,
+  type ContentEmbedding,
+} from '../lib/embeddings/content-dedup';
 import type { ArticleFrontmatter } from '../lib/llm/qwen-articles';
 import type { ArticleEmbedding } from '../lib/embeddings/types';
 
-/** 去重相似度阈值 — 超过此值的文章被丢弃 */
+/** Metadata 去重相似度阈值 */
 const DEDUP_SIMILARITY_THRESHOLD = 0.80;
 
 /**
@@ -365,14 +371,24 @@ async function generateArticles(
   });
   console.log('\n' + '─'.repeat(60) + '\n');
 
-  // 预加载已有文章的embedding（用于去重检查）
+  // 预加载已有文章的embedding（用于metadata去重）
   let existingEmbeddings: ArticleEmbedding[] = [];
   try {
     existingEmbeddings = loadArticleEmbeddings();
-    console.log(`📊 Loaded ${existingEmbeddings.length} existing embeddings for dedup check\n`);
+    console.log(`📊 Loaded ${existingEmbeddings.length} metadata embeddings for dedup check`);
   } catch (err) {
     console.warn(`⚠️  Could not load embeddings for dedup: ${err instanceof Error ? err.message : String(err)}`);
     console.warn(`   Dedup check will be skipped\n`);
+  }
+
+  // 预加载正文embedding（用于content去重）
+  let contentEmbeddings: ContentEmbedding[] = [];
+  try {
+    contentEmbeddings = loadContentEmbeddings();
+    console.log(`📊 Loaded ${contentEmbeddings.length} content embeddings for body dedup check\n`);
+  } catch (err) {
+    console.warn(`⚠️  Could not load content embeddings: ${err instanceof Error ? err.message : String(err)}`);
+    console.warn(`   Content dedup check will be skipped\n`);
   }
 
   // 生成文章（逐篇生成，去重失败则从备选池取下一个）
@@ -464,7 +480,77 @@ async function generateArticles(
             embedding: articleEmbedding,
           });
         }
-        console.log(`   ✅ Dedup passed`);
+        console.log(`   ✅ Metadata dedup passed`);
+      }
+
+      // Step 2.5: 正文内容查重（Layer 2）
+      if (contentEmbeddings.length > 0) {
+        console.log(`   🔍 Content dedup check...`);
+        const contentResult = await checkContentDuplicate(
+          article.body,
+          article.slug,
+          contentEmbeddings,
+        );
+
+        console.log(`   📊 Content similarity: ${contentResult.maxSimilarity.toFixed(3)} → ${contentResult.verdict}`);
+
+        if (!contentResult.passed) {
+          console.log(`   ⚠️  Content too similar to "${contentResult.mostSimilarSlug}"`);
+          console.log(`   🔄 Regenerating with different angle (content-level)...`);
+
+          // 读取相似文章的标题和摘要，传给LLM避开
+          const similarPath = path.join(process.cwd(), 'content', 'articles', `${contentResult.mostSimilarSlug}.md`);
+          let avoidContext = '';
+          if (fs.existsSync(similarPath)) {
+            const simContent = fs.readFileSync(similarPath, 'utf8');
+            const simFmEnd = simContent.indexOf('---', 4);
+            const simBody = simFmEnd > 0 ? simContent.substring(simFmEnd + 3) : simContent;
+            const simTitle = simContent.match(/^title: >-\n  (.+)/m)?.[1] || '';
+            avoidContext = `\nAVOID OVERLAP with existing article "${simTitle}": ${simBody.split(/\s+/).slice(0, 200).join(' ')}`;
+          }
+
+          const retryTopic = {
+            ...topic,
+            description: `Write a COMPLETELY DIFFERENT angle. ${avoidContext}\n\n${topic.description}`,
+          };
+
+          try {
+            const retryArticle = await generateArticleMarkdown(retryTopic);
+            const retryContentResult = await checkContentDuplicate(
+              retryArticle.body,
+              retryArticle.slug,
+              contentEmbeddings,
+            );
+
+            if (!retryContentResult.passed) {
+              console.log(`   🚫 Content retry still similar (${retryContentResult.maxSimilarity.toFixed(3)}), skipping topic\n`);
+              dedupDiscarded++;
+              generatedSlugs.add(slugify(topic.title));
+              continue;
+            }
+
+            console.log(`   ✅ Content retry passed (${retryContentResult.maxSimilarity.toFixed(3)})`);
+            Object.assign(article, retryArticle);
+
+            // 追加到正文对比池
+            contentEmbeddings.push({
+              slug: article.slug,
+              embedding: retryContentResult.embedding,
+            });
+          } catch (retryErr: any) {
+            console.log(`   ❌ Content retry failed: ${retryErr.message}, skipping\n`);
+            dedupDiscarded++;
+            generatedSlugs.add(slugify(topic.title));
+            continue;
+          }
+        } else {
+          // 正文查重通过，追加到对比池
+          contentEmbeddings.push({
+            slug: article.slug,
+            embedding: contentResult.embedding,
+          });
+        }
+        console.log(`   ✅ Content dedup passed`);
       }
 
       // Step 3: 智能内链 — 使用优化后的metadata
@@ -534,7 +620,18 @@ async function generateArticles(
           topicCluster: article.frontmatter.topicCluster,
         });
       } catch (embeddingError) {
-        console.warn(`   ⚠️  Failed to save embedding: ${embeddingError instanceof Error ? embeddingError.message : String(embeddingError)}`);
+        console.warn(`   ⚠️  Failed to save metadata embedding: ${embeddingError instanceof Error ? embeddingError.message : String(embeddingError)}`);
+      }
+
+      // Step 6: 持久化正文 embedding
+      try {
+        // 从内存对比池中找到这篇文章的 content embedding
+        const contentEmb = contentEmbeddings.find(e => e.slug === article.slug);
+        if (contentEmb) {
+          appendContentEmbedding(article.slug, contentEmb.embedding);
+        }
+      } catch (ceErr) {
+        console.warn(`   ⚠️  Failed to save content embedding: ${ceErr instanceof Error ? ceErr.message : String(ceErr)}`);
       }
 
       generatedSlugs.add(slugify(topic.title));
