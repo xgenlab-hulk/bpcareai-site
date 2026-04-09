@@ -9,15 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    does-adding-vinegar-to-holiday-gravy-lower-postprandial-glucose-in-adults-64-77-with-insulin-resistance-and-hypertension
+    how-to-navigate-grandmother-s-famous-apple-pie-without-spiking-post-meal-glucose-practical-portion-pairing-tactics-for-adults-58-72-with-prediabetes
   - >-
-    how-intergenerational-cookie-baking-affects-postprandial-glucose-variability-in-adults-52-64-with-prediabetes-and-slow-gastric-emptying
+    myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
   - >-
-    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
+    holiday-cookie-swap-glucose-management
   - >-
-    pre-kitchen-glycemic-anchoring-insulin-resistance
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
   - >-
-    holiday-foods-stabilize-blood-glucose-during-meal
+    how-intergenerational-plate-sharing-grandparent-grandchild-parent-disrupts-glycemic-buffering-in-adults-59-64-with-new-onset-insulin-resistance
 ---
 
 # 12 Science-Backed Strategies to Buffer Pie Crust Glycemic Impact in Seniors With Prediabetes

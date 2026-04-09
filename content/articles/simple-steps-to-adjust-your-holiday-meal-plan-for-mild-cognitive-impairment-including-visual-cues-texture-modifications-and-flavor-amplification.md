@@ -11,15 +11,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
+    heart-healthy-holiday-dinner-mci-hosting
   - >-
-    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
+    how-social-eating-rituals-like-passing-the-mashed-potatoes-or-toasting-at-midnight-disrupt-glycemic-awareness-in-adults-with-mild-cognitive-impairment
   - >-
-    how-social-isolation-during-holiday-meals-accelerates-cognitive-decline-in-adults-with-mild-vascular-cognitive-impairment
+    5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment
   - >-
-    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
+    myths-vs-facts-eating-slowly-fixes-everything-during-holiday-meals-for-adults-with-mild-dementia-and-sundowning
   - >-
-    simple-steps-to-adjust-your-holiday-meal-plan-for-early-stage-parkinson-s-disease
+    what-research-says-about-intermittent-fasting-during-multigenerational-holidays-for-adults-58-74-with-mild-cognitive-impairment
 ---
 
 # Adapting Your Holiday Meal Plan for Mild Cognitive Impairment: A Sensory-Smart Approach for Older Adults

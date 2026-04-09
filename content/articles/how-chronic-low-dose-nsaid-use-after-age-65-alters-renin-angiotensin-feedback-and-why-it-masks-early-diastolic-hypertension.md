@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     how-chronic-low-dose-nsaid-use-alters-renal-prostaglandin-e2-synthesis-in-adults-60-72-with-hypertension-and-normal-egfr
   - >-
-    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
-  - >-
-    nsaids-and-kidney-injury-diabetes
-  - >-
     how-long-term-nsaid-use-even-occasional-elevates-pulse-pressure-in-adults-64-with-aortic-root-dilation-3-8-cm-on-echo
+  - >-
+    when-to-worry-about-a-single-bp-reading-over-180-110-especially-if-you-re-taking-nsaids-antidepressants-or-decongestants
+  - >-
+    the-impact-of-long-term-nsaid-use-on-heart-disease-risk
   - >-
     nsaid-renal-glucose-reabsorption-ckd
 ---

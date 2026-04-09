@@ -8,6 +8,16 @@ primaryKeyword: 'are pharmacy blood pressure readings accurate after 55'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ
+  - >-
+    how-often-should-adults-over-50-check-their-blood-pressure
+  - >-
+    white-coat-hypertension-emergency-room-adults-68
+  - >-
+    check-blood-pressure-at-home-correctly
+  - >-
+    warning-signs-your-blood-pressure-monitor-is-giving-false-readings-especially-if-you-re-71-with-atrial-fibrillation-and-irregular-pulse
   - blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ
   - how-to-monitor-blood-pressure-at-home-during-winter-a-senior-s-guide
   - >-

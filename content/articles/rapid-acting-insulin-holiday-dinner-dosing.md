@@ -11,7 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
+    quick-ways-to-adjust-bolus-timing-for-holiday-buffet-meals-a-3-step-strategy-for-men-63-77-on-rapid-acting-analogues
+  - >-
+    type-1-diabetes-holiday-potluck-guide
+  - >-
+    myths-vs-facts-eating-light-at-holiday-dinners-prevents-glucose-spikes-in-adults-62-with-insulin-resistance
+  - >-
+    simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
+  - >-
+    7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
   - should-you-adjust-your-diabetes-medication-during-the-holidays
   - >-
     myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75

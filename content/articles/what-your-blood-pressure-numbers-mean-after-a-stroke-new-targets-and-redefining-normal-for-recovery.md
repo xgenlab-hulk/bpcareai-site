@@ -11,15 +11,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
+    how-morning-blood-pressure-surges-differ-in-stroke-survivors-vs-primary-prevention-patients-over-60
   - >-
-    blood-pressure-after-bariatric-surgery-why-some-patients-see-dramatic-drops-and-others-don-t
+    the-truth-about-normal-blood-pressure-ranges-after-75-why-130-80-may-be-too-low-for-frail-elders-with-cerebral-hypoperfusion-risk
+  - >-
+    myths-vs-facts-high-normal-blood-pressure-in-adults-54-62-why-prehypertension-is-obsolete-and-what-the-new-acc-aha-staging-really-means-for-your-heart
+  - >-
+    what-is-bp-ai-blood-pressure
   - >-
     why-your-morning-blood-pressure-spike-may-not-be-white-coat-and-how-it-predicts-stroke-risk-in-hypertensive-women-over-70
-  - >-
-    what-research-says-about-standing-desks-and-blood-pressure-in-office-workers-over-60
-  - >-
-    how-morning-blood-pressure-surges-differ-in-stroke-survivors-vs-primary-prevention-patients-over-60
 ---
 
 # Understanding Your Blood Pressure After Stroke: Updated Recovery Targets and What “Normal” Really Means

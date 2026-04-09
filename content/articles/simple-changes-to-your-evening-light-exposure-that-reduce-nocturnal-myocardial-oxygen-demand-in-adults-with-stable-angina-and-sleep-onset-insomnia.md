@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
   - >-
-    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
+    nighttime-light-exposure-cardiac-clock-genes-elders
   - >-
-    a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension
+    blue-light-nocturnal-blood-pressure-dipping
   - >-
-    sunlight-exposure-and-circadian-blood-pressure
+    smart-nightlight-nocturnal-sbp-elevation
   - >-
-    how-indoor-light-spectrum-during-winter-affects-melatonin-suppression-and-sleep-architecture-in-adults-70-with-mild-cognitive-impairment
+    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
 ---
 
 # How Evening Light Exposure Affects Angina Oxygen Demand — Simple, Science-Backed Adjustments for Better Nighttime Heart Health

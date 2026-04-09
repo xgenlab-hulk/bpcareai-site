@@ -10,6 +10,16 @@ primaryKeyword: winter social withdrawal vs depression seniors 80
 topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
+  - >-
+    when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
+  - >-
+    10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore
+  - >-
+    7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
+  - >-
+    can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
+  - >-
+    does-relocating-to-a-sunnier-climate-improve-seasonal-depression-after-70
   - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
   - >-
     7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging

@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    can-intermittent-fasting-worsen-autonomic-neuropathy-in-adults-71-with-long-term-type-2-diabetes-and-orthostatic-tachycardia
+  - >-
+    can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes
+  - >-
+    fatigue-after-meals-diabetes-elderly
+  - >-
     intermittent-fasting-diastolic-dysfunction-hr
   - >-
-    does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease
-  - >-
-    blood-pressure-drops-walking-diabetes-neuropathy
-  - >-
-    what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension
-  - >-
-    fasting-glucose-myth-postprandial-risk
+    how-intermittent-fasting-16-8-affects-nocturnal-sympathetic-tone-in-adults-57-69-with-hypertension-and-sleep-disordered-breathing
 ---
 
 # Why Intermittent Fasting Autonomic Neuropathy Severe Hypertension Requires Extra Caution

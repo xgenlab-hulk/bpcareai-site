@@ -8,6 +8,16 @@ primaryKeyword: do smoothie bowls raise triglycerides in older men
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
+  - >-
+    why-your-light-holiday-appetizer-plate-may-be-raising-triglycerides-more-than-dessert-the-hidden-fat-oxidation-block-in-adults-58-69
+  - >-
+    one-slice-pie-triglycerides-seniors-myth
+  - >-
+    holiday-healthy-swap-triglyceride-lipoprotein
+  - >-
+    how-intergenerational-gift-giving-stress-elevates-postprandial-triglycerides-in-adults-61-with-familial-hypertriglyceridemia
 - myths-vs-facts-just-one-slice-of-holiday-pie-won-t-raise-my-triglycerides-what-fasting-chylomicron-clearance-testing-reveals-in-adults-61-75-with-hypertriglyceridemia
 - the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
 - how-intergenerational-gift-giving-stress-elevates-postprandial-triglycerides-in-adults-61-with-familial-hypertriglyceridemia

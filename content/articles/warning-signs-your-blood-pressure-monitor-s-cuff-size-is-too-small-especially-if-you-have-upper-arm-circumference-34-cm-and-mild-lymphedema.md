@@ -11,15 +11,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    false-low-blood-pressure-readings-lymphedema
+  - >-
     false-low-blood-pressure-reading-causes
   - >-
-    a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
-  - >-
-    home-bp-cuff-calibration-arthritis-mobility
-  - >-
-    dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands
+    a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor
   - >-
     pseudohypertension-peripheral-artery-disease
+  - >-
+    best-home-blood-pressure-cuffs-for-adults-75-with-severe-arthritis-and-tremor-accuracy-fit-and-one-handed-operation-compared
 ---
 
 # When Your Blood Pressure Cuff Is Too Small—Especially With Lymphedema and a Larger Upper Arm

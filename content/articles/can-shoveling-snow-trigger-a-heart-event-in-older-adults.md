@@ -8,6 +8,16 @@ primaryKeyword: 'can shoveling snow trigger a heart attack in older adults'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - >-
+    how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
+  - >-
+    10-winter-safe-exercises-for-heart-health-after-65
+  - >-
+    is-it-safe-to-walk-outside-in-freezing-temperatures-with-heart-disease
+  - >-
+    5-silent-signs-your-heart-is-struggling-in-cold-weather
   - 10-winter-safe-exercises-for-heart-health-after-65
   - why-winter-increases-heart-attack-risk-in-seniors-over-70
   - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease

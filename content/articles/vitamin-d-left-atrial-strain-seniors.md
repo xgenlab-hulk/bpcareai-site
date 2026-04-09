@@ -10,6 +10,16 @@ primaryKeyword: vitamin D and heart strain in seniors
 topicCluster: special-populations
 image: ''
 relatedSlugs:
+  - >-
+    does-daily-2000-iu-vitamin-d3-actually-reduce-myocardial-fibrosis-in-adults-59-73-with-type-2-diabetes-and-elevated-galectin-3
+  - >-
+    how-vitamin-d-deficiency-impacts-heart-health-in-winter
+  - >-
+    can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
+  - >-
+    top-7-heart-protective-vitamins-to-take-in-winter
+  - >-
+    taurine-vitamin-b6-atrial-calcium-handling
   - how-vitamin-d-deficiency-impacts-heart-health-in-winter
   - >-
     does-daily-2000-iu-vitamin-d3-actually-reduce-myocardial-fibrosis-in-adults-59-73-with-type-2-diabetes-and-elevated-galectin-3

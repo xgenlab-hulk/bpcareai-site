@@ -11,11 +11,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    normalize-glucose-variability-72-hours-magnesium
+    the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
   - >-
     5-things-you-should-know-before-starting-a-daily-magnesium-glycinate-protocol-especially-if-you-re-taking-amiodarone-or-digoxin-and-are-over-75
   - >-
-    10-silent-signs-your-holiday-meal-timing-is-disrupting-hepatic-glucose-production-especially-with-concurrent-melatonin-agonist-use-in-adults-72
+    9-hidden-sources-of-holiday-related-magnesium-depletion-in-adults-65-with-chronic-migraines-and-how-to-replenish-without-diarrhea
+  - >-
+    hawthorn-vs-magnesium-holiday-heart
+  - >-
+    low-carb-vs-magnesium-holiday-heart-prevention
   - the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
   - >-
     5-things-every-woman-over-62-should-know-about-calcium-fortified-eggnog-and-bone-mineral-density-especially-with-long-term-ppi-use

@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     a-vs-b-warm-herbal-chai-caffeine-free-vs-sparkling-pomegranate-mocktail-for-preventing-post-meal-atrial-ectopy-in-women-over-70
   - >-
-    how-late-night-eggnog-consumption-alters-cardiac-repolarization-reserve-in-adults-58-65-with-subclinical-qt-prolongation
+    apple-cider-vs-chai-for-afib
   - >-
-    how-late-night-gift-wrapping-under-blue-light-led-lamps-disrupts-cardiac-repolarization-reserve-in-adults-57-69-with-subclinical-qt-prolongation
+    what-causes-sudden-orthostatic-hypotension-after-morning-tea-in-adults-68-with-mild-parkinsonism-even-without-caffeine
   - >-
-    magnesium-threonate-vs-glycinate-nocturnal-bp-dipping
+    heart-palpitations-when-standing-up-tea
   - >-
-    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
+    myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs
 ---
 
 # Green Tea vs Black Tea for PVCs in Men 60s: What Timing and Caffeine Really Do to Your Heart Rhythm

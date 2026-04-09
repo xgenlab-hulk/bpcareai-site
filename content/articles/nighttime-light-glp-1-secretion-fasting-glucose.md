@@ -9,15 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+    led-nightlights-nocturnal-glucose-seniors
   - >-
-    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
+    how-chronic-exposure-to-blue-light-from-nighttime-tablet-use-disrupts-melatonin-mediated-insulin-secretion-in-adults-65-with-prediabetes
   - >-
-    glucose-variability-shift-workers
+    quick-ways-to-normalize-fasting-glucose-without-medication-in-adults-50-61-with-prediabetes-and-shift-work-history
   - >-
-    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+    how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms
   - >-
-    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+    how-late-afternoon-snacking-at-family-gatherings-disrupts-nocturnal-melatonin-and-elevates-fasting-glucose-in-adults-59-66-with-shift-work-history
 ---
 
 # How Nighttime Light Exposure Affects GLP-1, Fasting Glucose, and Metabolic Health in Adults 59+ With Shift Work History

@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     post-dinner-fatigue-orthostatic-hypotension
   - >-
-    sudden-fatigue-after-holiday-meals-cardiac-diastolic-dysfunction
+    when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment
   - >-
-    midday-fatigue-diabetes-autonomic-failure-seniors
+    holiday-ham-dizziness-autonomic-neuropathy
   - >-
-    when-to-worry-about-sudden-drowsiness-after-christmas-dinner-linking-postprandial-hypoglycemia-autonomic-blunting-and-late-night-falls-in-adults-75
+    can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes
 ---
 
 # Fatigue After Meals Diabetes Elderly: What Holiday Dinners Might Reveal About Your Autonomic Health

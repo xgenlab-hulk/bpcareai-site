@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     natural-ways-to-improve-endothelial-nitric-oxide-synthase-enos-activity-at-night-for-women-63-with-non-dipping-bp-and-shift-work-history
   - >-
+    boost-nitric-oxide-naturally-seniors
+  - >-
     normalize-nocturnal-blood-pressure-dipping
   - >-
-    boost-nitric-oxide-naturally-seniors
-  - >-
-    boost-nitric-oxide-naturally-seniors
-  - >-
     a-vs-b-evening-walk-after-dinner-vs-15-minute-seated-breathing-4-7-8-method-impact-on-nocturnal-systolic-bp-dip-in-adults-68-with-non-dipping-pattern
+  - >-
+    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
 ---
 
 # Supporting Nocturnal Nitric Oxide Beetroot Gel Nasal Breathing for Healthy BP Dipping in Older Adults

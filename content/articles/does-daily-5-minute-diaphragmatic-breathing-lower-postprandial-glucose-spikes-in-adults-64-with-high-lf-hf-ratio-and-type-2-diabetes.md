@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     diaphragmatic-breathing-fasting-glucose
   - >-
-    quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
+    does-daily-5-minute-diaphragmatic-breathing-before-morning-coffee-lower-post-caffeine-glucose-spikes-in-adults-60-65-with-adrenal-hyperreactivity
+  - >-
+    nasal-breathing-baroreflex-diabetes
   - >-
     does-daily-10-minute-guided-breathing-before-dinner-lower-postprandial-glucose-in-adults-60-72-with-anxiety-related-hyperglycemia-and-gerd
   - >-
-    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
-  - >-
-    nasal-breathing-baroreflex-diabetes
+    quick-ways-to-restore-postprandial-parasympathetic-tone-within-20-minutes-for-adults-61-75-with-type-2-diabetes-and-vagal-withdrawal-measured-by-rmssd
 ---
 
 # Can Diaphragmatic Breathing Postprandial Glucose Responses in Adults 64+ With Type 2 Diabetes and Autonomic Imbalance?

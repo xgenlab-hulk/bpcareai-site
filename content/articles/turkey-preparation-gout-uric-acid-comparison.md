@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease
   - >-
+    turkey-preparation-postprandial-systolic-pressure
+  - >-
+    turkey-cooking-method-endothelial-health
+  - >-
     turkey-preparation-zinc-bioavailability-seniors
-  - >-
-    chewing-turkey-satiety-gastroparesis
-  - >-
-    collard-greens-heart-failure-diuretics-comparison
 ---
 
 # Turkey Preparation Gout Uric Acid Comparison: What Men 62–79 With Gout and Mild CKD Should Know at Holiday Gatherings

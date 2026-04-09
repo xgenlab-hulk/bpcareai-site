@@ -11,9 +11,13 @@ relatedSlugs:
   - >-
     how-alcohol-metabolism-changes-after-age-55-and-why-that-raises-holiday-heart-syndrome-risk-in-adults-55-69-with-mild-liver-steatosis
   - >-
-    holiday-heart-syndrome-in-women-55-66-why-estrogen-withdrawal-and-late-afternoon-cortisol-peaks-create-a-perfect-storm-for-af
+    can-seniors-drink-alcohol-safely-during-the-holidays-what-your-medications-say
   - >-
-    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
+    5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics
+  - >-
+    the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50
+  - >-
+    how-intermittent-fasting-alters-hepatic-cyp2e1-expression-and-why-that-changes-alcohol-metabolism-in-adults-69-with-well-controlled-type-2-diabetes
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - women-holiday-heart-syndrome-menopause
 ---

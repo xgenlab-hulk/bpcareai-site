@@ -8,6 +8,16 @@ primaryKeyword: 'how does meditation lower blood pressure naturally'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    can-meditation-reduce-heart-disease-risk-after-50
+  - >-
+    can-mindfulness-meditation-reduce-heart-disease-risk-after-50
+  - >-
+    can-deep-breathing-exercises-reduce-high-blood-pressure
+  - >-
+    foods-lower-blood-pressure-naturally-53-68
+  - >-
+    foods-lower-blood-pressure-naturally-after-50
   - can-meditation-reduce-heart-disease-risk-after-50
   - the-role-of-potassium-in-managing-blood-pressure-after-50
   - blood-pressure-changes-during-menopause-what-women-should-know

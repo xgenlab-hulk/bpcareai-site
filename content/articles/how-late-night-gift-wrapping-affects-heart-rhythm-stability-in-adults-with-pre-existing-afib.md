@@ -10,6 +10,16 @@ primaryKeyword: late night activity and atrial fibrillation triggers
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
+  - >-
+    how-late-night-gift-wrapping-under-blue-light-led-lamps-disrupts-cardiac-repolarization-reserve-in-adults-57-69-with-subclinical-qt-prolongation
+  - >-
+    holiday-travel-circadian-rhythm-af-trigger
+  - >-
+    how-late-night-gift-wrapping-increases-sympathetic-drive-in-adults-with-orthostatic-intolerance-and-why-it-s-worse-than-late-night-eating
+  - >-
+    how-late-night-holiday-movie-marathons-elevate-sympathetic-tone-and-why-that-increases-afib-burden-in-adults-65-with-nocturnal-hypertension
+  - >-
+    holiday-stress-and-atrial-ectopy
   - can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - the-connection-between-holiday-light-exposure-and-blood-sugar-regulation

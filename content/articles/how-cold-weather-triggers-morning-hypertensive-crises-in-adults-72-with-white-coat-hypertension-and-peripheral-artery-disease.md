@@ -8,6 +8,16 @@ primaryKeyword: why cold mornings cause BP emergencies in seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    cold-water-hand-immersion-bp-accuracy
+  - >-
+    how-cold-weather-vasoconstriction-amplifies-post-holiday-sodium-sensitivity-in-men-over-72-with-peripheral-artery-disease
+  - >-
+    how-cold-weather-induced-vasoconstriction-alters-renal-sympathetic-nerve-activity-in-adults-70-with-hypertension-and-mild-diastolic-dysfunction
+  - >-
+    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
+  - >-
+    why-winter-increases-heart-attack-risk-in-seniors-over-70
   - why-morning-blood-pressure-surges-are-more-dangerous-in-winter
   - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
   - >-

@@ -11,11 +11,13 @@ relatedSlugs:
   - >-
     the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
   - >-
-    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+    how-holiday-alcohol-consumption-triggers-atrial-fibrillation-in-adults-55-with-subclinical-left-atrial-enlargement-even-without-binge-drinking
   - >-
-    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+    how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
   - >-
-    how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
+    atrial-fibrillation-vs-holiday-heart-syndrome-key-differences-everyone-should-know
+  - >-
+    holiday-heart-syndrome-in-women-55-66-why-estrogen-withdrawal-and-late-afternoon-cortisol-peaks-create-a-perfect-storm-for-af
   - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
 ---
 

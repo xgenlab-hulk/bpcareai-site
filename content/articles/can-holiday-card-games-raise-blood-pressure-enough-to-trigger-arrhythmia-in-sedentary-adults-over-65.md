@@ -8,6 +8,16 @@ primaryKeyword: 'can card games raise blood pressure in sedentary seniors'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
+  - >-
+    top-6-stress-reduction-techniques-to-protect-your-heart-this-holiday
+  - >-
+    why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
+  - >-
+    5-things-your-cardiologist-isn-t-asking-about-holiday-heart-syndrome-but-should-be-especially-if-you-re-on-beta-blockers-or-digoxin
+  - >-
+    quick-ways-to-calm-a-racing-heart-during-a-holiday-event
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
   - why-emotional-stress-at-family-gatherings-raises-heart-arrhythmia-risk
   - blood-pressure-management-for-sedentary-seniors-in-winter-months

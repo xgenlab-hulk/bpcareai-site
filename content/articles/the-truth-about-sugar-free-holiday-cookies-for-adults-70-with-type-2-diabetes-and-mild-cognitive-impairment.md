@@ -9,9 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
+    sugar-free-cookies-polyol-malabsorption-fatigue
   - >-
-    the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
+    are-sugar-free-treats-actually-safe-for-diabetics-over-65
+  - >-
+    the-truth-about-sugar-free-cough-drops-for-adults-with-type-1-diabetes-over-60-do-sugar-alcohols-like-isomalt-raise-blood-glucose
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
+  - >-
+    the-truth-about-sugar-free-holiday-baking-mixes-why-many-still-raise-a1c-in-adults-59-75-with-long-standing-diabetes
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - >-
     the-truth-about-sugar-free-holiday-cookies-for-adults-with-stage-2-ckd-and-preserved-egfr

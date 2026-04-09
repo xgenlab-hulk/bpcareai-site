@@ -11,9 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    barefoot-walking-glycemic-variability-seniors
+  - >-
+    5-things-every-caregiver-should-know-before-hosting-a-holiday-gathering-for-someone-with-advanced-diabetic-neuropathy-and-foot-ulcers
+  - >-
     diabetes-medication-walking-group-seniors-ckda
   - >-
-    the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
+    5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house
+  - >-
+    diabetes-management-dementia-caregiver
   - diabetes-medication-walking-group-seniors-ckda
   - medication-interactions-heart-failure-readmission
   - diabetes-management-dementia-caregiver

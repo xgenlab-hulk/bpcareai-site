@@ -9,15 +9,15 @@ topicCluster: complications-management
 image: ''
 relatedSlugs:
   - >-
+    myths-vs-facts-diabetic-shoes-do-they-actually-prevent-ulcers-in-adults-77-with-mild-charcot-foot-and-no-current-deformity
+  - >-
     best-footwear-materials-for-reducing-shear-stress-in-adults-68-82-with-diabetic-neuropathy-hallux-rigidus-and-history-of-recurrent-toe-ulcers
   - >-
-    strength-training-peripheral-neuropathy-seniors
-  - >-
-    best-walking-surface-for-diabetic-glucose
-  - >-
-    can-daily-2-minute-toe-tap-sequencing-improve-capillary-refill-time-and-postprandial-glucose-clearance-in-women-63-79-with-diabetic-foot-ulcer-history
-  - >-
     simple-steps-to-prevent-diabetic-foot-ulcers-during-winter-for-adults-71-with-peripheral-neuropathy-and-indoor-heaters
+  - >-
+    7-silent-signs-of-diabetic-neuropathy-in-adults-65-that-mimic-arthritis-or-sciatica-even-with-normal-a1c
+  - >-
+    charcot-neuroarthropathy-footwear-seniors
 ---
 
 # Best Diabetic Socks for Venous Insufficiency in Elderly Men: A Practical Guide for Men 74+ With Neuropathy and Edema

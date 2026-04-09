@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
   - >-
+    best-home-blood-pressure-cuffs-for-adults-75-with-severe-arthritis-and-tremor-accuracy-fit-and-one-handed-operation-compared
+  - >-
+    a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor
+  - >-
+    home-bp-cuff-calibration-in-high-humidity
+  - >-
     dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands
-  - >-
-    false-low-blood-pressure-reading-causes
-  - >-
-    a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
-  - >-
-    home-blood-pressure-cuff-afib-algorithm-errors
 ---
 
 # A Gentle, Joint-Friendly Way to Calibrate Your Home BP Cuff—Especially When Arthritis or Limited Mobility Makes It Tough

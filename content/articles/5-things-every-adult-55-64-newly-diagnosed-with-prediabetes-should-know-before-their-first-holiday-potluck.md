@@ -9,15 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes
+    the-complete-guide-to-holiday-eating-for-adults-58-63-with-new-onset-prediabetes-and-high-functioning-careers
   - >-
-    how-intergenerational-plate-sharing-during-thanksgiving-dinner-elevates-postprandial-glucose-spikes-in-adults-62-with-prediabetes
+    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
   - >-
-    how-to-navigate-potluck-dinners-with-type-2-diabetes-and-mild-kidney-disease-a-step-by-step-strategy-for-adults-65-82
+    postprandial-glucose-family-gatherings-prediabetes
   - >-
-    12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry
+    12-smart-swaps-to-manage-blood-sugar-during-holiday-meals
   - >-
-    portion-distortion-family-dinner-prediabetes
+    how-to-navigate-a-potluck-without-spiking-your-a1c-blood-sugar-smart-strategies-for-seniors-with-type-2-diabetes
 ---
 
 # Can You Enjoy Holiday Potlucks With Prediabetes? (Blood Sugar Survival Guide Ages 55-64)

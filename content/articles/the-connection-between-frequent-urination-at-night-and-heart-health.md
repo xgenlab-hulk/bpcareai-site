@@ -10,6 +10,16 @@ primaryKeyword: nighttime urination and heart failure signs
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    how-frequent-nighttime-awakenings-for-urination-nocturia-predicts-3-year-risk-of-new-onset-atrial-fibrillation-in-men-over-68-with-hypertension
+  - >-
+    how-chronic-sleep-fragmentation-from-nocturia-affects-left-ventricular-stiffness-in-adults-70-84-with-hypertension-and-mild-ckd
+  - >-
+    best-non-pharmacologic-strategies-for-nighttime-hypertension-in-men-57-68-with-high-volume-nocturnal-urination-and-low-testosterone
+  - >-
+    7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-wake-up-with-dry-mouth-and-morning-brain-fog
+  - >-
+    7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80
   - how-frequent-urination-at-night-could-signal-heart-problems
   - how-sleep-affects-heart-health-after-50
   - is-your-posture-affecting-your-heart-what-older-adults-should-know

@@ -9,15 +9,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims
+    instant-oatmeal-beta-glucan-degradation
   - >-
-    fasting-glucose-ckd-stage-3a-diabetes
+    instant-oatmeal-endothelial-function-seniors
+  - >-
+    oat-milk-creamer-endothelial-dysfunction
+  - >-
+    gut-kidney-axis-modulation-for-bp-control
   - >-
     collard-greens-vs-creamed-spinach-kidney-disease
-  - >-
-    how-chronic-low-grade-dehydration-alters-glycated-albumin-ga-interpretation-in-adults-74-with-ckd-stage-2-and-poor-thirst-sensation
-  - >-
-    a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd
 ---
 
 # Oat Milk, Heart Health, and Kidney Disease: What Adults 66+ with Stage 3 CKD Should Know

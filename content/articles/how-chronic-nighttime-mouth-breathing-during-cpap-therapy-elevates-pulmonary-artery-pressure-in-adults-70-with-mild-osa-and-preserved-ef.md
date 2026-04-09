@@ -11,11 +11,11 @@ relatedSlugs:
   - >-
     what-causes-morning-bp-surges-in-adults-57-69-with-untreated-sleep-apnea-even-when-cpap-use-is-good-enough
   - >-
-    7-hidden-sleep-position-risks-that-worsen-pulmonary-congestion-in-adults-73-with-hfpef-and-mild-obstructive-sleep-apnea
+    mouth-breathing-diastolic-dysfunction-seniors
   - >-
     best-breathing-patterns-for-reducing-right-ventricular-afterload-in-adults-67-80-with-pulmonary-hypertension-and-sarcopenia
   - >-
-    best-breathing-patterns-for-reducing-left-atrial-pressure-during-sleep-in-adults-67-79-with-hfpef-and-central-sleep-apnea
+    breathing-techniques-for-left-atrial-pressure
   - >-
     lower-pulmonary-capillary-wedge-pressure-orthopnea
 ---

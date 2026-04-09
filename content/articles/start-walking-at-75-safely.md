@@ -11,6 +11,14 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
+    walking-minutes-per-day-seniors-over-65
+  - >-
+    walk-cold-weather-after-70
+  - >-
+    exercise-at-65-weekly-plan
+  - >-
+    how-walking-speed-can-reflect-heart-health-and-blood-pressure
+  - >-
     5-things-you-should-know-before-starting-a-heart-smart-walking-group-especially-if-you-re-78-with-spinal-stenosis-and-mild-aortic-stenosis
   - 30g-fiber-safe-after-65
   - walking-minutes-per-day-seniors-over-65

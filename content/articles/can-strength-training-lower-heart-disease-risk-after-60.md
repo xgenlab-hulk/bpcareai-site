@@ -8,6 +8,16 @@ primaryKeyword: 'does strength training lower heart disease risk after 60'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    how-strength-training-protects-your-heart-as-you-age
+  - >-
+    strength-exercises-women-over-65
+  - >-
+    resistance-training-left-ventricular-hypertrophy
+  - >-
+    how-much-exercise-do-you-need-to-reduce-heart-disease-risk-after-65
+  - >-
+    can-heart-disease-be-reversed-with-lifestyle-changes-after-50
   - can-meditation-reduce-heart-disease-risk-after-50
   - can-deep-breathing-exercises-lower-heart-disease-risk
   - is-sitting-too-much-harming-your-heart-after-60

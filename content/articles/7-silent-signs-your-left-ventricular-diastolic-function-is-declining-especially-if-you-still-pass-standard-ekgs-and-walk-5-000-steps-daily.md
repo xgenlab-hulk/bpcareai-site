@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     7-overlooked-signs-your-heart-is-straining-during-routine-chores-especially-if-you-re-58-65-physically-active-and-dismiss-just-getting-older
   - >-
-    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
+    when-to-worry-about-asymptomatic-diastolic-dysfunction-on-echo-especially-if-you-re-67-with-normal-lvef-hypertension-and-elevated-nt-probnp
   - >-
     warning-signs-your-stable-beta-blocker-regimen-is-masking-early-diastolic-dysfunction-progression-in-women-66-79-with-obesity
   - >-
-    left-ventricular-hypertrophy-masked-hypertension
+    silent-electrical-heart-deterioration-signs
 ---
 
 # 7 Quiet Clues Your Left Ventricular Diastolic Function May Be Slowing Down — Even With Normal EKGs and Daily Activity

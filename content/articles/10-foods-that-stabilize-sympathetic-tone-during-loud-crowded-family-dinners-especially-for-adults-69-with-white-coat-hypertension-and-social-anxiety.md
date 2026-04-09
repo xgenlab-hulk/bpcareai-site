@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    cholinergic-tone-family-dinner-natural
-  - >-
     10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
   - >-
-    10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
+    simple-steps-to-reduce-post-meal-blood-pressure-drops-during-holiday-socializing-not-just-after-for-adults-74-with-autonomic-neuropathy
   - >-
-    10-foods-that-stabilize-post-holiday-cortisol-rhythm-without-medication-for-adults-59-71-with-type-2-diabetes-and-chronic-stress
+    foods-stabilize-bp-during-meals-57-69
   - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
+    vagal-tone-foods-post-meal-60-74
+  - >-
+    best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
 ---
 
 # Foods That Support Sympathetic Tone During Family Gatherings — A Calming Nutrition Guide for Adults 69+ With Social Anxiety and White-Coat Hypertension

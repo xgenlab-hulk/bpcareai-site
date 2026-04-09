@@ -11,15 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-raises-a1c-in-adults-58-74-with-type-2-diabetes-and-poor-dental-access
+  - >-
+    how-chronic-low-grade-inflammation-from-untreated-gum-disease-accelerates-insulin-resistance-in-adults-58-72-with-prediabetes
+  - >-
+    how-chronic-low-grade-gum-inflammation-alters-insulin-clearance-in-adults-57-69-with-well-controlled-type-2-diabetes
+  - >-
     how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
   - >-
-    how-chronic-low-grade-inflammation-from-periodontitis-elevates-nighttime-blood-pressure-in-adults-61-76-with-hypertension-and-poor-dental-access
-  - >-
-    12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
-  - >-
-    gum-disease-and-coronary-artery-calcification
-  - >-
-    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
+    why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals
 ---
 
 # How Periodontitis Fuels Postprandial Hyperglycemia in Adults With Long-Standing Diabetes—And Why Dental Cleaning Alone Falls Short

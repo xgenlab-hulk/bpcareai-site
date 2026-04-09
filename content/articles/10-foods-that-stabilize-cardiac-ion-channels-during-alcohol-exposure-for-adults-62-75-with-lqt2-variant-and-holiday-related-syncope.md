@@ -8,6 +8,16 @@ primaryKeyword: 'what foods are safe with long QT syndrome and alcohol'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
+  - >-
+    atrial-stabilizing-foods-holiday-heart
+  - >-
+    how-late-night-eggnog-consumption-alters-cardiac-repolarization-reserve-in-adults-58-65-with-subclinical-qt-prolongation
+  - >-
+    12-evidence-based-hydration-strategies-to-prevent-holiday-heart-syndrome-in-adults-62-with-mild-dehydration-induced-qt-prolongation
+  - >-
+    when-to-worry-about-just-one-more-glass-early-qtc-prolongation-signs-after-holiday-wine-consumption-in-women-62-on-ssris
   - the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
   - >-
     how-late-night-eggnog-consumption-alters-cardiac-repolarization-reserve-in-adults-58-65-with-subclinical-qt-prolongation

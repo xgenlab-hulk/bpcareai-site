@@ -11,15 +11,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    pheochromocytoma-suspicion-adults-57-70-normal-urinary-metanephrines
+  - >-
     when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
   - >-
-    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
+    heart-palpitations-when-standing-up-tea
   - >-
-    how-morning-blood-pressure-surges-differ-in-stroke-survivors-vs-primary-prevention-patients-over-60
+    what-are-the-earliest-signs-of-autonomic-failure-masquerading-as-labile-hypertension-in-adults-70-with-parkinson-s-disease-and-orthostatic-intolerance
   - >-
-    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
-  - >-
-    7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-re-on-beta-blockers-and-over-65
+    what-causes-white-coat-normotension-when-clinic-readings-are-normal-but-ambulatory-monitoring-shows-stage-1-hypertension-in-adults-61-75
 ---
 
 # Recognizing Pheochromocytoma Hypertension Fluctuations Episodic Palpitations in Adults 58–74

@@ -10,6 +10,16 @@ primaryKeyword: blood sugar emergency kit for holiday travel
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
+  - >-
+    best-blood-sugar-monitoring-practices-during-the-holiday-season
+  - >-
+    holiday-medication-management-what-to-do-when-schedules-get-disrupted
+  - >-
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - >-
+    12-smart-swaps-to-manage-blood-sugar-during-holiday-meals
   - best-blood-sugar-monitoring-practices-during-the-holiday-season
   - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes

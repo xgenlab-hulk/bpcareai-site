@@ -10,6 +10,16 @@ primaryKeyword: prolonged sitting and blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    how-prolonged-sitting-during-remote-work-alters-splanchnic-vein-compliance-and-daytime-bp-variability-in-adults-52-64
+  - >-
+    is-sitting-too-much-harming-your-heart-after-60
+  - >-
+    how-chronic-stress-contributes-to-high-blood-pressure-over-time
+  - >-
+    how-belly-fat-increases-blood-pressure-risk-after-middle-age
+  - >-
+    why-blood-pressure-matters-even-if-you-feel-fine
   - is-sitting-too-much-harming-your-heart-after-60
   - how-chronic-stress-contributes-to-high-blood-pressure-over-time
   - blood-pressure-changes-during-menopause-what-women-should-know

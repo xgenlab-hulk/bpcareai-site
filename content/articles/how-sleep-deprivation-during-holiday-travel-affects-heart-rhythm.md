@@ -10,6 +10,16 @@ primaryKeyword: holiday travel and heart rhythm disruption
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
+  - >-
+    the-hidden-link-between-holiday-stress-and-irregular-heartbeat
+  - >-
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - >-
+    holiday-travel-circadian-rhythm-af-trigger
+  - >-
+    quick-ways-to-calm-a-racing-heart-during-a-holiday-event
+  - >-
+    the-truth-about-benign-holiday-palpitations-are-they-really-harmless
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
   - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
   - what-research-says-about-holiday-heart-syndrome-and-aging-hearts

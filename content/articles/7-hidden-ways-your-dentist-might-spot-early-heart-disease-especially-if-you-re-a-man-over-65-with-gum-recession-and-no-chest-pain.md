@@ -9,9 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    the-hidden-link-between-gum-disease-and-heart-problems
+  - >-
     gum-disease-and-coronary-artery-calcification
   - >-
-    how-chronic-low-grade-inflammation-from-periodontitis-elevates-nighttime-blood-pressure-in-adults-61-76-with-hypertension-and-poor-dental-access
+    how-chronic-low-grade-dental-inflammation-alters-plaque-stability-in-adults-68-with-stable-cad-evidence-from-serial-ivus-oct-imaging
+  - >-
+    dental-inflammation-coronary-microvascular-flow
+  - >-
+    how-poor-dental-hygiene-may-lead-to-heart-disease
   - the-hidden-link-between-gum-disease-and-heart-problems
   - >-
     how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension

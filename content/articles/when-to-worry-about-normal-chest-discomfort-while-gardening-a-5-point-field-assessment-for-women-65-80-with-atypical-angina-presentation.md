@@ -11,7 +11,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
+    heart-disease-symptoms-in-women-over-50-what-s-often-missed
+  - >-
+    why-arm-pain-shouldn-t-be-ignored-in-women-over-50
+  - >-
+    7-silent-signs-your-heart-s-struggling-during-winter-especially-if-you-re-a-woman-over-62-with-early-osteoarthritis
+  - >-
+    why-women-s-heart-attack-symptoms-differ-after-menopause
+  - >-
+    atypical-angina-jaw-tightness-classical-music
   - what-are-the-first-signs-of-holiday-heart-syndrome-in-women
   - when-to-worry-about-chest-tightness-in-cold-weather
   - >-

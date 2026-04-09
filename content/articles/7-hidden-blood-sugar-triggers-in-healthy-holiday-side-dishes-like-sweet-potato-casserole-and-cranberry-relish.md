@@ -11,9 +11,13 @@ relatedSlugs:
   - >-
     7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish
   - >-
-    7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control
+    7-holiday-foods-that-spike-postprandial-glucose-without-tasting-sweet-especially-for-adults-63-with-long-standing-type-2-diabetes
   - >-
-    7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
+    low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
+  - >-
+    healthy-holiday-buffet-glycemic-traps
+  - >-
+    7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
   - low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
   - 7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
 ---

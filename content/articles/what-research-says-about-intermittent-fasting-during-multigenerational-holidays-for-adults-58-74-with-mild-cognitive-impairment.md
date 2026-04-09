@@ -10,6 +10,16 @@ primaryKeyword: intermittent fasting with mild cognitive impairment
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    how-social-eating-rituals-like-passing-the-mashed-potatoes-or-toasting-at-midnight-disrupt-glycemic-awareness-in-adults-with-mild-cognitive-impairment
+  - >-
+    when-to-suspect-holiday-induced-glycemic-amnesia-in-adults-74-with-mild-cognitive-impairment-and-why-it-s-not-just-forgetfulness
+  - >-
+    can-intermittent-fasting-help-balance-holiday-eating-for-active-retirees
+  - >-
+    skipping-breakfast-holiday-hyperglycemia-seniors
+  - >-
+    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
   - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
   - >-
     simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification

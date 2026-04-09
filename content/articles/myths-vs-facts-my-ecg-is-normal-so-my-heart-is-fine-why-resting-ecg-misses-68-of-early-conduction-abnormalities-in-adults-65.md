@@ -11,15 +11,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    silent-electrical-heart-deterioration-signs
+  - >-
     warning-signs-your-normal-ecg-may-miss-early-arrhythmogenic-cardiomyopathy-in-adults-55-66-with-unexplained-syncope-and-family-history-of-scd
   - >-
-    ecg-patch-vs-holter-asymptomatic-afib
+    ekg-normal-cardiac-mri-strain
   - >-
-    what-are-the-earliest-ecg-changes-that-predict-sudden-cardiac-death-in-adults-with-well-controlled-type-2-diabetes-and-egfr-55-70
+    when-to-worry-about-normal-resting-heart-rate-in-adults-75-with-high-grade-av-block-and-compensatory-ventricular-escape-rhythms
   - >-
-    red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
-  - >-
-    warning-signs-your-stable-diabetes-is-masking-early-diabetic-cardiomyopathy-even-with-normal-ejection-fraction-and-no-symptoms-in-adults-59-68
+    home-ecg-patch-interpretation-for-seniors
 ---
 
 # “My ECG Is Normal—So My Heart Is Fine”: Why ECG Normalcy and Conduction Disease Don’t Always Go Hand in Hand

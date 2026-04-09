@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     can-daily-5-minute-isometric-handgrip-training-lower-ambulatory-diastolic-bp-in-sedentary-women-63-71-within-10-days
   - >-
-    can-daily-12-minute-seated-tai-chi-lower-24-hour-systolic-load-in-adults-71-with-isolated-systolic-hypertension-and-mild-gait-instability
-  - >-
     resonant-breathing-diastolic-pressure-reduction
   - >-
-    resonant-breathing-diastolic-pressure-reduction
+    quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
   - >-
-    natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension
+    quick-ways-to-lower-bp-within-90-minutes-using-guided-breathing-postural-sequencing-validated-in-emergency-department-triage-for-stage-1-hypertension
+  - >-
+    tai-chi-vs-breathing-central-aortic-pressure
 ---
 
 # Isometric Handgrip vs Breathing App for Diastolic BP: What Works Best for Older Men?

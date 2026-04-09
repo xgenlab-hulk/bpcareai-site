@@ -15,11 +15,11 @@ relatedSlugs:
   - >-
     how-chronic-low-grade-dental-inflammation-alters-plaque-stability-in-adults-68-with-stable-cad-evidence-from-serial-ivus-oct-imaging
   - >-
-    how-chronic-low-grade-inflammation-drives-resistant-hypertension-in-adults-60-74-with-elevated-hs-crp-and-gum-recession
-  - >-
     gum-disease-and-coronary-artery-calcification
   - >-
-    dental-inflammation-coronary-microvascular-flow
+    gum-disease-and-coronary-artery-function
+  - >-
+    the-hidden-link-between-gum-disease-and-heart-problems
 ---
 
 # How Gum Disease and Coronary Plaque Instability Are Connected — And Why Deep Cleaning Isn’t the Whole Answer for Adults 62+

@@ -10,6 +10,16 @@ primaryKeyword: winter stroke risk for seniors with atrial fibrillation
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:
+  - >-
+    what-are-the-earliest-signs-of-holiday-induced-hypercoagulability-in-adults-71-with-atrial-fibrillation-and-sedentary-winter-habits
+  - >-
+    how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
+  - >-
+    cold-exposure-and-paroxysmal-afib-in-elderly
+  - >-
+    how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
+  - >-
+    why-winter-increases-heart-attack-risk-in-seniors-over-70
   - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
   - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
   - why-winter-increases-heart-attack-risk-in-seniors-over-70

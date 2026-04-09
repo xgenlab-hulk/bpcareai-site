@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     myths-vs-facts-i-have-no-symptoms-so-my-heart-is-fine-in-adults-53-68-with-subclinical-atherosclerosis-and-normal-stress-echo
   - >-
+    7-hidden-heart-disease-risks-in-adults-55-64-who-still-feel-too-young-for-cardiac-screening
+  - >-
     7-overlooked-signs-your-heart-is-straining-during-routine-chores-especially-if-you-re-58-65-physically-active-and-dismiss-just-getting-older
   - >-
     7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
   - >-
-    when-to-worry-about-just-tired-after-stair-climbing-in-men-60-67-with-untreated-mild-obstructive-sleep-apnea-and-normal-ejection-fraction
-  - >-
-    stable-heart-disease-plaque-erosion
+    pulse-timing-during-walking-silent-ischemia
 ---
 
 # “I Climb Stairs Easily—My Heart Must Be Fine!”: Why Stairs Fitness and Subclinical Ischemia Don’t Always Go Hand in Hand

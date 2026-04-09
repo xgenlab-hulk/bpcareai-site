@@ -9,9 +9,15 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
+    the-complete-guide-to-managing-diabetes-during-a-heatwave-for-adults-70-with-diabetic-nephropathy-and-reduced-thirst-drive
+  - >-
     5-things-everyone-over-66-should-know-about-managing-diabetes-during-a-heatwave-especially-if-on-sglt2-inhibitors
   - >-
     10-foods-that-support-glycemic-resilience-during-heat-waves-especially-for-adults-70-with-diabetes-and-medication-induced-hyponatremia-risk
+  - >-
+    7-silent-signs-your-diabetes-medication-is-causing-subclinical-hyponatremia-especially-after-hot-tub-soaking-in-adults-72
+  - >-
+    holiday-hydration-glucose-homeostasis-polypharmacy
   - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
   - >-
     5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications

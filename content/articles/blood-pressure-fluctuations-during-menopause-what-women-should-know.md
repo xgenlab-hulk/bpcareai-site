@@ -8,6 +8,16 @@ primaryKeyword: 'blood pressure fluctuations during perimenopause in women'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    how-menopause-affects-heart-disease-risk-in-women
+  - >-
+    5-things-every-woman-over-62-with-early-menopause-before-age-45-should-know-about-estrogen-loss-and-nighttime-bp-surge
+  - >-
+    what-causes-nocturnal-hypertension-in-women-52-65-with-perimenopausal-hot-flashes-and-elevated-nighttime-norepinephrine
+  - >-
+    5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension
+  - >-
+    blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short
   - blood-pressure-changes-during-menopause-what-women-should-know
   - how-menopause-affects-heart-disease-risk-in-women
   - how-menopause-affects-blood-sugar-control-in-women-with-diabetes

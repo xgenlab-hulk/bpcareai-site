@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     natural-ways-to-support-bile-acid-recycling-after-rich-holiday-meals-without-supplements-for-adults-66-79-with-post-cholecystectomy-fat-malabsorption
   - >-
+    prevent-post-holiday-constipation-naturally
+  - >-
+    post-holiday-constipation-travel-circadian-seniors
+  - >-
+    feeling-full-without-gallbladder-pain-73
+  - >-
     natural-ways-to-support-digestive-resilience-during-3-day-holiday-travel-for-seniors-58-74-with-chronic-constipation-and-polypharmacy
-  - >-
-    natural-ways-to-reduce-holiday-constipation-in-seniors-taking-opioids-or-anticholinergics
-  - >-
-    quick-ways-to-reset-gut-microbiome-after-rich-holiday-meals-without-probiotics-for-adults-65-80-with-type-2-diabetes-and-constipation-predominant-ibs
-  - >-
-    what-are-the-earliest-digestive-signs-that-your-holiday-fiber-intake-is-too-low-especially-if-you-re-taking-a-daily-calcium-supplement-after-age-65
 ---
 
 # Gentle, Natural Ways to Support Bile Acid Recycling in Older Adults with Constipation

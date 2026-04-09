@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     a-vs-b-warm-herbal-chai-caffeine-free-vs-sparkling-pomegranate-mocktail-for-preventing-post-meal-atrial-ectopy-in-women-over-70
   - >-
+    mulled-wine-vs-sparkling-cider-arrhythmia
+  - >-
     apple-cider-vs-eggnog-endothelial-function-seniors
   - >-
     a-vs-b-warm-spiced-apple-cider-with-cinnamon-stick-vs-mulled-wine-impact-on-evening-endothelial-function-in-adults-59-71-with-metabolic-syndrome
   - >-
-    mulled-wine-vs-sparkling-cider-arrhythmia
-  - >-
-    a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome
+    the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement
 ---
 
 # Apple Cider vs Chai for AFib: Comparing Warm Spiced Apple Cider and Decaf Chai Latte for Heart Health in Adults 64+

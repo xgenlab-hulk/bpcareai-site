@@ -17,9 +17,9 @@ relatedSlugs:
   - >-
     how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises
   - >-
-    hearing-aids-baroreflex-sensitivity-diastolic-dysfunction
+    natural-baroreflex-sensitivity-enhancement
   - >-
-    how-intermittent-use-of-magnetic-mattress-pads-alters-baroreflex-gain-in-adults-63-with-mild-orthostatic-intolerance-and-early-autonomic-neuropathy
+    carotid-baroreceptor-sensitivity-cooling
 ---
 
 # How Low-Frequency Vibration Affects Baroreflex Sensitivity in Older Adults With Neuropathy

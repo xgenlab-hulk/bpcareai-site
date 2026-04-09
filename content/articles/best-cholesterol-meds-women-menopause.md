@@ -12,15 +12,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    best-blood-pressure-meds-women-over-70
-  - >-
     ldl-target-55-year-old-woman
   - >-
-    myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old
-  - >-
-    myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
-  - >-
     why-heart-disease-risk-skyrockets-in-women-58-67-within-3-years-after-menopause-even-with-normal-cholesterol
+  - >-
+    read-cholesterol-test-after-60
+  - >-
+    how-menopause-affects-heart-disease-risk-in-women
+  - >-
+    why-women-s-heart-attack-symptoms-differ-after-menopause
 ---
 
 # Best Cholesterol Meds for Women After Menopause — What's Safe &

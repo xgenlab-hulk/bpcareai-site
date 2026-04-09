@@ -9,7 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    low-sugar-pumpkin-pie-fructose-metabolism-nafld
+  - >-
+    the-truth-about-sugar-free-holiday-desserts-for-men-70-with-fructose-malabsorption-and-early-nafld
+  - >-
+    the-truth-about-light-holiday-cocktails-for-men-over-67-with-mild-fatty-liver-disease-do-zero-calorie-mixers-actually-protect-your-liver
+  - >-
     the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
+  - >-
+    a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome
   - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
   - best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
   - can-eggnog-and-desserts-be-part-of-a-diabetic-holiday-diet-after-60

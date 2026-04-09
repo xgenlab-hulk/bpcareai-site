@@ -11,15 +11,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    when-to-worry-about-a-single-bp-reading-over-180-110-especially-if-you-re-taking-nsaids-antidepressants-or-decongestants
-  - >-
-    when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
+    the-connection-between-winter-infections-and-blood-pressure-fluctuations
   - >-
     can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76
   - >-
-    barometric-pressure-drop-systolic-load-hypertensive-heart-disease
+    5-things-every-adult-60-69-with-stage-1-hypertension-and-mild-cognitive-complaints-should-know-before-starting-an-ace-inhibitor
   - >-
-    white-coat-hypertension-emergency-room-adults-68
+    5-things-every-woman-over-68-should-know-about-central-aortic-pressure-especially-after-menopause-and-long-term-beta-blocker-use
+  - >-
+    check-bp-after-flying-copd-60
 ---
 
 # What Your “Normal” Blood Pressure Really Means During Bronchitis—Especially on ACE Inhibitors After Age 67

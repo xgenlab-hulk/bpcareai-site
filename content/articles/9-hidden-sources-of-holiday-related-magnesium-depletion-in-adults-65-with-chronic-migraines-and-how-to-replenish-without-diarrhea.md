@@ -11,7 +11,13 @@ relatedSlugs:
   - >-
     magnesium-glycinate-holiday-dessert-timing
   - >-
+    the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
+  - >-
     when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use
+  - >-
+    low-carb-vs-magnesium-holiday-heart-prevention
+  - >-
+    natural-ways-to-support-blood-sugar-balance-during-holiday-stress
   - the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
   - >-
     the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use

@@ -10,6 +10,16 @@ primaryKeyword: vitamin D deficiency and winter blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    the-link-between-winter-depression-and-high-blood-pressure-in-older-adults
+  - >-
+    how-vitamin-d-deficiency-impacts-heart-health-in-winter
+  - >-
+    top-7-heart-protective-vitamins-to-take-in-winter
+  - >-
+    natural-ways-to-lower-blood-pressure-this-winter-without-medication
+  - >-
+    the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
   - how-vitamin-d-deficiency-impacts-heart-health-in-winter
   - the-link-between-winter-depression-and-high-blood-pressure-in-older-adults
   - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease

@@ -8,6 +8,16 @@ primaryKeyword: helping seniors with macular degeneration see food
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    plate-mapping-macular-degeneration-seniors
+  - >-
+    holiday-eating-macular-degeneration
+  - >-
+    simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
+  - >-
+    warning-signs-your-holiday-diet-is-accelerating-macular-degeneration-in-adults-over-68
+  - >-
+    dessert-portion-control-visual-decline
 - the-ultimate-guide-to-holiday-eating-for-adults-with-late-stage-macular-degeneration-focusing-on-meal-visibility-texture-cues-and-nutrient-dense-low-vision-adaptations
 - simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
 - quick-ways-to-adjust-your-holiday-plate-for-early-stage-macular-degeneration-focusing-on-lutein-bioavailability-fat-pairing-and-light-induced-oxidation-risks

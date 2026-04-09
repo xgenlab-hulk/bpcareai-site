@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
   - >-
-    gum-inflammation-endothelial-nitric-oxide-synthase-coupling
+    how-chronic-low-grade-inflammation-drives-resistant-hypertension-in-adults-60-74-with-elevated-hs-crp-and-gum-recession
   - >-
-    how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65
+    the-truth-about-white-coat-resistance-why-some-adults-55-show-higher-bp-at-home-than-in-clinics-and-what-it-reveals-about-vascular-aging
   - >-
-    boost-nitric-oxide-naturally-seniors
+    blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - >-
-    low-dose-naltrexone-and-blood-pressure-arthritis
+    how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises
 ---
 
 # How Lead Exposure Resistant Hypertension May Be Tied to Older Homes—and What You Can Do About It

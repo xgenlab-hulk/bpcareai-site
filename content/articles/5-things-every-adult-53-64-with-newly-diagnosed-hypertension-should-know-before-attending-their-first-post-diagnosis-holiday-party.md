@@ -8,6 +8,16 @@ primaryKeyword: 'newly diagnosed high blood pressure holiday tips'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    5-things-every-adult-55-63-with-newly-diagnosed-hypertension-should-know-before-hosting-their-first-holiday-dinner
+  - >-
+    myths-vs-facts-healthy-eating-during-family-celebrations
+  - >-
+    7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-adults-72-with-isolated-systolic-hypertension-and-what-to-serve-instead
+  - >-
+    5-things-every-caregiver-should-know-before-taking-an-aging-parent-to-a-new-year-s-eve-party
+  - >-
+    how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
   - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
   - >-
     the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension

@@ -11,6 +11,16 @@ primaryKeyword: is 30g fiber safe after 65
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    how-fiber-rich-diets-support-heart-health-in-people-over-60
+  - >-
+    best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation
+  - >-
+    cholesterol-lowering-soups-seniors
+  - >-
+    blood-sugar-friendly-foods-seniors
+  - >-
+    the-role-of-fiber-in-controlling-blood-sugar-after-50
   - safe-stretching-exercises-stiff-joints-after-65
   - 10-high-fiber-holiday-foods-that-support-digestion-after-50
   - >-

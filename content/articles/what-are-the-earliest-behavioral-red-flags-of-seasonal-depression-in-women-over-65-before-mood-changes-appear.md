@@ -10,6 +10,16 @@ primaryKeyword: early behavioral signs of seasonal depression in older women
 topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
+  - >-
+    10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore
+  - >-
+    7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
+  - >-
+    how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60
+  - >-
+    when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
+  - >-
+    what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter
   - 10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore
   - why-older-women-are-more-vulnerable-to-seasonal-depression-in-winter
   - >-

@@ -9,15 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    nighttime-light-glp-1-secretion-fasting-glucose
+  - >-
+    how-chronic-exposure-to-blue-light-from-nighttime-tablet-use-disrupts-melatonin-mediated-insulin-secretion-in-adults-65-with-prediabetes
+  - >-
     how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
   - >-
-    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+    how-late-night-snacking-during-hanukkah-or-christmas-eve-affects-overnight-glucose-stability-in-women-over-70
   - >-
     does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
-  - >-
-    how-indoor-light-spectrum-during-winter-affects-melatonin-suppression-and-sleep-architecture-in-adults-70-with-mild-cognitive-impairment
-  - >-
-    nighttime-light-glp-1-secretion-fasting-glucose
 ---
 
 # How LED Nightlights in Hallways May Affect Nocturnal Glucose in Seniors — And What You Can Do

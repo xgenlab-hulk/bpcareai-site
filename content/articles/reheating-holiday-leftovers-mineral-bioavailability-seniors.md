@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     turkey-preparation-zinc-bioavailability-seniors
   - >-
-    the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - >-
-    a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease
+    5-things-everyone-over-76-should-know-about-holiday-leftovers-including-safe-reheating-temperatures-for-frail-immune-systems
   - >-
-    how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70
+    warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-detected-via-morning-stool-ph-and-bloating-pattern-shifts-in-adults-71
   - >-
-    holiday-eating-macular-degeneration-lutein-bioavailability
+    what-are-the-safest-ways-to-reheat-leftover-holiday-turkey-without-forming-heterocyclic-amines-for-adults-72-with-barrett-s-esophagus
 ---
 
 # Reheating Holiday Leftovers Mineral Bioavailability Seniors: What Really Happens to Zinc and Magnesium?

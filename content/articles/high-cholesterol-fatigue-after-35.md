@@ -10,6 +10,16 @@ primaryKeyword: can high cholesterol cause fatigue after 35
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    does-stress-raise-cholesterol-after-35
+  - >-
+    read-cholesterol-test-after-60
+  - >-
+    why-men-over-50-should-monitor-cholesterol-even-without-symptoms
+  - >-
+    ldl-target-55-year-old-woman
+  - >-
+    can-high-cholesterol-cause-heart-disease-even-with-normal-blood-pressure
   - does-stress-raise-cholesterol-after-35
   - read-cholesterol-test-after-60
   - cholesterol-lowering-soups-over-45

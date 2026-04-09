@@ -9,15 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    beta-cell-resilience-holiday-eating
+    9-foods-that-support-pancreatic-beta-cell-resilience-during-high-carb-holidays-based-on-human-islet-transcriptomics-and-nrf2-activation-studies
   - >-
     beta-cell-rest-holiday-meals-natural-support
   - >-
-    beta-cell-resilience-spring-allergies-type-1
+    glycemic-resilience-holiday-social-events
   - >-
-    mitochondrial-biogenesis-beta-cells-diabetes
+    skip-insulin-holiday-pie-beta-cell-stress
   - >-
-    natural-ways-to-support-pancreatic-beta-cell-resilience-after-age-59-using-time-restricted-eating-zinc-rich-foods-and-berberine-timing
+    holiday-weight-gain-beta-cell-exhaustion
 ---
 
 # Supporting Beta-Cell Resilience During Holiday Eating — Gentle, Science-Informed Strategies for Adults 57–65 With New-Onset Type 2 Diabetes

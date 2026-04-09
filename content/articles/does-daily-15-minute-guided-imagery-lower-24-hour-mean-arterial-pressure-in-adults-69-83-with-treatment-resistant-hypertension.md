@@ -9,7 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    guided-imagery-left-atrial-volume-afib-hypertension
+  - >-
+    guided-imagery-pre-dose-systolic-surge
+  - >-
     quick-ways-to-lower-bp-within-90-minutes-using-guided-breathing-postural-sequencing-validated-in-emergency-department-triage-for-stage-1-hypertension
+  - >-
+    does-daily-4-minute-cold-water-face-immersion-really-lower-24-hour-mean-arterial-pressure-in-adults-61-with-early-autonomic-dysfunction
+  - >-
+    vagal-breathing-central-systolic-pressure
 
   - >-
     quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety

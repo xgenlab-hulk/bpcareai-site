@@ -8,6 +8,16 @@ primaryKeyword: 'morning routine to lower blood sugar after overeating'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
+  - >-
+    skipping-breakfast-holiday-hyperglycemia-seniors
+  - >-
+    can-intermittent-fasting-help-reset-blood-sugar-after-christmas
+  - >-
+    quick-10-minute-workouts-to-lower-blood-sugar-after-christmas-dinner
+  - >-
+    the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
   - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
   - best-blood-sugar-monitoring-practices-during-the-holiday-season

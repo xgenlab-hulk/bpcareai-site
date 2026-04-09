@@ -8,6 +8,16 @@ primaryKeyword: 'leg swelling heart trouble signs after 50'
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
+  - >-
+    heart-disease-warning-signs-that-appear-years-in-advance
+  - >-
+    heavy-legs-sitting-heart-strain-seniors
+  - >-
+    when-to-worry-about-sudden-swelling-after-thanksgiving-dinner-in-adults-70-with-heart-failure-and-diuretic-resistant-edema
+  - >-
+    7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80
+  - >-
+    when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70
   - heart-disease-warning-signs-that-appear-years-in-advance
   - why-sudden-weight-gain-could-be-a-red-flag-for-your-heart
   - why-arm-pain-shouldn-t-be-ignored-in-women-over-50

@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72
+    simple-steps-to-normalize-post-exercise-blood-pressure-recovery-time-in-adults-60-with-metabolic-syndrome-and-subclinical-diastolic-impairment
+  - >-
+    exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous
   - >-
     what-causes-postprandial-hypertension-a-sudden-30-mmhg-systolic-rise-within-90-minutes-of-eating-in-adults-69-85
   - >-
-    blood-pressure-drops-walking-diabetes-neuropathy
+    why-your-blood-pressure-dips-too-much-after-walking-not-just-normal-recovery-in-adults-74-with-early-cardiac-amyloidosis
   - >-
-    how-chronic-constipation-triggers-nocturnal-hypertension-spikes-in-women-over-65-with-pelvic-floor-dysfunction
-  - >-
-    cold-exposure-and-paroxysmal-afib-in-elderly
+    quick-ways-to-reduce-post-exercise-diastolic-rebound-in-women-57-69-with-mild-diastolic-dysfunction-and-elevated-e-e-ratio
 ---
 
 # Understanding Post-Exercise Blood Pressure Rebound in Elderly Adults: Why BP May Rise After a Gentle Walk

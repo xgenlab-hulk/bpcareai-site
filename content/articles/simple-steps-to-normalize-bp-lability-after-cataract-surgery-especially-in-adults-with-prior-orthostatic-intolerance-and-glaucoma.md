@@ -11,11 +11,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    blood-pressure-after-bariatric-surgery-why-some-patients-see-dramatic-drops-and-others-don-t
+    blood-pressure-after-cataract-surgery-seniors
   - >-
-    why-your-blood-pressure-readings-drop-during-telehealth-visits-and-what-that-means-for-treatment-decisions-in-adults-70
+    heart-disease-cataract-surgery-seniors
   - >-
-    simple-steps-to-rebuild-morning-light-exposure-habits-after-cataract-surgery-especially-for-adults-over-68-with-prior-seasonal-mood-swings
+    blood-pressure-dip-reading-prescription-labels
+  - >-
+    warning-signs-of-cerebral-autoregulation-failure-masquerading-as-just-stress-in-adults-58-70-with-migraine-with-aura-and-labile-bp
+  - >-
+    simple-steps-to-lower-central-aortic-pressure-in-just-7-days-using-only-a-kitchen-scale-a-stopwatch-and-your-morning-tea-ritual
 
   - >-
     a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79

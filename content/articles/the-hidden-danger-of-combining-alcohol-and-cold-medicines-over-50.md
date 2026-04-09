@@ -10,6 +10,16 @@ primaryKeyword: mixing alcohol and cold medicine risks after 50
 topicCluster: special-populations
 image: ''
 relatedSlugs:
+  - >-
+    can-seniors-drink-alcohol-safely-during-the-holidays-what-your-medications-say
+  - >-
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - >-
+    7-hidden-blood-pressure-triggers-in-over-the-counter-cold-medicines-for-adults-65-with-stage-1-hypertension-and-mild-orthostatic-hypotension
+  - >-
+    why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
+  - >-
+    best-non-alcoholic-holiday-drinks-for-heart-health-after-50
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
   - >-
     the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50

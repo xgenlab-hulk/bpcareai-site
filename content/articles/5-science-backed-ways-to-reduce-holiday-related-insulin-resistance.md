@@ -9,7 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
+    can-you-reverse-insulin-resistance-with-just-3-strategic-holiday-meals-a-14-day-pilot-study-breakdown
+  - >-
+    myths-vs-facts-eating-light-at-holiday-dinners-prevents-glucose-spikes-in-adults-62-with-insulin-resistance
+  - >-
+    natural-ways-to-support-post-meal-insulin-sensitivity-without-supplements-for-adults-53-67-with-early-stage-pcos-and-holiday-weight-gain
+  - >-
+    5-easy-morning-routines-to-stabilize-blood-sugar-after-a-holiday-feast
+  - >-
+    how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance
   - should-you-adjust-your-diabetes-medication-during-the-holidays
   - 7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
   - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50

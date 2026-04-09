@@ -8,6 +8,16 @@ primaryKeyword: is bone broth or canned soup better for blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    a-vs-b-homemade-bone-broth-vs-store-bought-low-sodium-broth-for-seniors-with-heart-failure-and-nyha-class-ii-symptoms
+  - >-
+    collard-greens-endothelial-function-comparison
+  - >-
+    turkey-cooking-method-endothelial-health
+  - >-
+    sweet-potatoes-roasted-vs-slow-cooked-endothelial-function
+  - >-
+    soups-lower-blood-pressure-naturally
 - a-vs-b-homemade-bone-broth-vs-store-bought-low-sodium-broth-for-seniors-with-heart-failure-and-nyha-class-ii-symptoms
 - a-vs-b-slow-cooked-sweet-potatoes-with-brown-sugar-butter-vs-roasted-with-cinnamon-pecans-impact-on-postprandial-endothelial-function-in-adults-58-69-with-metabolic-syndrome
 - a-vs-b-grandma-s-slow-cooked-collards-with-ham-hock-vs-modern-low-sodium-saut-ed-version-impact-on-endothelial-function-in-adults-61-75-with-stage-2-hypertension

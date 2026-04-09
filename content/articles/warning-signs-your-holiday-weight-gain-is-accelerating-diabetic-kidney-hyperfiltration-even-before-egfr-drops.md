@@ -11,15 +11,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-holiday-weight-gain-is-accelerating-diabetic-kidney-hyperfiltration-even-before-egfr-drops
+    warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks
   - >-
-    7-silent-signs-your-holiday-eggnog-is-triggering-postprandial-endothelial-dysfunction-in-adults-67-with-preexisting-microalbuminuria
+    how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
   - >-
     holiday-weight-gain-beta-cell-exhaustion
   - >-
-    warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks
+    how-holiday-leftovers-affect-postprandial-glucose-in-adults-72-with-early-stage-diabetic-nephropathy
   - >-
-    how-holiday-stress-cortisol-spikes-impair-glp-1-secretion-in-adults-64-with-obesity-and-prediabetes-and-why-mindful-breathing-beats-just-relax-advice
+    how-kidney-function-declines-faster-in-older-adults-with-diabetes
 ---
 
 # Early Holiday Weight Gain Diabetic Kidney Signs: What to Watch For Before Lab Values Shift

@@ -11,9 +11,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    coronary-calcium-score-ct-lung-screening
+    the-ultimate-guide-to-interpreting-your-coronary-artery-calcium-score-including-age-and-sex-specific-percentile-benchmarks-and-when-to-repeat-scanning
+  - >-
+    myths-vs-facts-i-have-no-symptoms-so-my-heart-is-fine-in-adults-53-68-with-subclinical-atherosclerosis-and-normal-stress-echo
   - >-
     5-things-everyone-over-70-should-know-about-coronary-artery-calcium-cac-scoring-especially-if-you-re-taking-statins-but-have-zero-symptoms
+  - >-
+    the-complete-guide-to-interpreting-your-cardiac-ct-calcium-score-if-you-re-60-and-have-no-symptoms-but-a-family-history-of-early-heart-attacks
+  - >-
+    coronary-calcium-score-ct-lung-screening
   - coronary-calcium-score-ct-lung-screening
   - >-
     7-silent-signs-of-coronary-microvascular-dysfunction-in-women-55-72-with-normal-coronary-angiograms-and-persistent-chest-discomfort

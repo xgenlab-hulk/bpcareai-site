@@ -10,6 +10,16 @@ primaryKeyword: does sleep apnea make diabetes worse after 50
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    how-sleep-apnea-severity-predicts-rapid-a1c-rise-in-adults-57-71-with-untreated-osa-and-newly-diagnosed-type-2-diabetes
+  - >-
+    how-sleep-apnea-severity-modulates-insulin-clearance-in-adults-with-type-2-diabetes-and-bmi-30-a-mechanistic-breakdown-for-ages-54-71
+  - >-
+    when-to-worry-about-just-tired-after-christmas-dinner-especially-if-you-re-69-with-type-2-diabetes-and-untreated-sleep-apnea
+  - >-
+    what-causes-sudden-onset-of-nocturnal-diaphoresis-in-adults-64-79-with-type-2-diabetes-normal-a1c-and-undiagnosed-sleep-disordered-breathing
+  - >-
+    5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin
   - how-type-2-diabetes-increases-heart-disease-risk-after-50
   - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
   - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50

@@ -9,7 +9,15 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    best-breathing-exercises-for-reducing-morning-blood-pressure-spikes-in-adults-57-62-with-mild-obstructive-sleep-apnea-and-high-morning-cortisol
+    foods-stabilize-pulse-pressure-seniors-orthostasis
+  - >-
+    aortic-pulse-wave-velocity-reduction
+  - >-
+    simple-steps-to-lower-central-aortic-pressure-in-just-7-days-using-only-a-kitchen-scale-a-stopwatch-and-your-morning-tea-ritual
+  - >-
+    central-aortic-pressure-foods-74-pulse
+  - >-
+    quick-ways-to-stabilize-pulse-pressure-fluctuations-during-grocery-shopping-for-adults-70-with-orthostatic-intolerance-and-postprandial-hypotension
 
   - >-
     quick-ways-to-stabilize-pulse-pressure-fluctuations-during-grocery-shopping-for-adults-70-with-orthostatic-intolerance-and-postprandial-hypotension

@@ -8,6 +8,16 @@ primaryKeyword: can you lower lipoprotein a without medication
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
+  - >-
+    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-in-adults-58-69-with-agatston-score-100-400-and-elevated-lp-a
+  - >-
+    5-things-every-woman-over-67-should-know-about-lipoprotein-a-testing-especially-after-a-family-history-of-premature-aortic-valve-stenosis
+  - >-
+    what-research-says-about-fasting-mimicking-diet-cycles-and-coronary-plaque-stabilization-in-adults-with-high-risk-lipid-profiles-lp-a-50-mg-dl
+  - >-
+    seed-oils-and-endothelial-oxidative-stress
+  - >-
+    can-intermittent-fasting-lower-ldl-particle-count-in-men-with-familial-hypercholesterolemia-over-50
 
   - >-
     myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio

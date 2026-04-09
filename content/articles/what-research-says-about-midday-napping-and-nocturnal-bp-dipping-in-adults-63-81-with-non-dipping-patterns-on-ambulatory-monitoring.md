@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     normalize-nocturnal-blood-pressure-dipping
   - >-
-    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
+    why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh
   - >-
-    what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history
+    a-vs-b-evening-walk-after-dinner-vs-15-minute-seated-breathing-4-7-8-method-impact-on-nocturnal-systolic-bp-dip-in-adults-68-with-non-dipping-pattern
   - >-
-    simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction
+    morning-vs-evening-exercise-nocturnal-hypertension
   - >-
-    nocturnal-bp-dip-sleep-apnea-mild-cognitive-impairment
+    morning-stretching-vs-breath-hold-nocturnal-bp
 ---
 
 # How Midday Napping Might Help Restore Healthy Nocturnal Blood Pressure Dipping in Older Adults

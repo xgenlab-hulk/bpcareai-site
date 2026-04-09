@@ -9,9 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    when-to-worry-about-holiday-weight-gain-if-you-re-75-with-heart-failure-and-preserved-ejection-fraction
+    when-to-worry-about-unexplained-fatigue-after-age-68-distinguishing-early-heart-failure-from-anemia-thyroid-dysfunction-and-medication-side-effects
+  - >-
+    the-truth-about-winter-weight-gain-and-heart-strain-after-60
+  - >-
+    why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
   - >-
     why-does-heart-failure-progress-despite-stable-nt-probnp-in-adults-66-with-iron-deficiency-anemia-and-elevated-hepcidin
+  - >-
+    heart-rate-recovery-and-hfpef-mortality
   - the-truth-about-winter-weight-gain-and-heart-strain-after-60
   - >-
     when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss

@@ -10,6 +10,16 @@ primaryKeyword: holiday buffet blood sugar management seniors
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
+  - >-
+    how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
+  - >-
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
+  - >-
+    12-smart-swaps-to-manage-blood-sugar-during-holiday-meals
+  - >-
+    12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry
   - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
   - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar

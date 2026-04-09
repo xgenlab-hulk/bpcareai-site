@@ -8,6 +8,16 @@ primaryKeyword: foods muscle glucose uptake adults 61-76
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    ampk-activating-foods-for-adipose-inflammation
+  - >-
+    natural-ways-to-improve-glucose-uptake-in-skeletal-muscle-without-exercise-for-adults-79-with-severe-osteoarthritis-bedrest-or-post-hip-replacement
+  - >-
+    insulin-sensitivity-without-exercise-elderly
+  - >-
+    5-things-every-man-over-68-with-low-testosterone-and-type-2-diabetes-should-know-about-muscle-protein-synthesis-and-glucose-uptake
+  - >-
+    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
   - natural-ways-to-improve-insulin-sensitivity-in-skeletal-muscle-without-exercise-using-cold-exposure-postprandial-standing-and-diurnal-blue-light-timing-in-sedentary-adults-70
   - 10-foods-that-lower-postprandial-triglycerides-and-glucose-simultaneously-in-adults-58-73-with-metabolic-syndrome
   - 12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension

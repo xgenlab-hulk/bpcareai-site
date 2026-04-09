@@ -12,7 +12,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    foods-lower-blood-pressure-naturally-53-68
+  - >-
     soups-lower-blood-pressure-naturally
+  - >-
+    central-aortic-pressure-foods-90-min
+  - >-
+    foods-stabilize-bp-during-meals-57-69
+  - >-
+    can-meditation-lower-blood-pressure-naturally
 
   - >-
     foods-stabilize-pulse-pressure-seniors-orthostasis

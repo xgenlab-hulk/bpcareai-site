@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history
   - >-
-    natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
+    post-dinner-palpitations-holiday-heart-syndrome
   - >-
-    does-daily-10-minute-guided-breathing-before-dinner-lower-postprandial-glucose-in-adults-60-72-with-anxiety-related-hyperglycemia-and-gerd
+    top-6-stress-reduction-techniques-to-protect-your-heart-this-holiday
   - >-
-    vagal-breathing-central-systolic-pressure
+    why-emotional-stress-at-family-gatherings-raises-heart-arrhythmia-risk
   - >-
-    quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
+    can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes
 ---
 
 # Gentle Pre-Dinner Stress Reduction for Holiday Heart Syndrome Prevention

@@ -8,6 +8,16 @@ primaryKeyword: 'does vitamin D deficiency increase heart disease risk'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    how-vitamin-d-deficiency-impacts-heart-health-in-winter
+  - >-
+    top-7-heart-protective-vitamins-to-take-in-winter
+  - >-
+    the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
+  - >-
+    can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
+  - >-
+    what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
   - the-hidden-link-between-gum-disease-and-heart-problems
   - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
   - heart-disease-and-chronic-kidney-disease-the-dangerous-connection

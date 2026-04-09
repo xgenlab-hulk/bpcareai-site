@@ -8,6 +8,16 @@ primaryKeyword: 'skip insulin at late night holiday parties safety'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    dangers-of-skipping-breakfast-on-new-year-s-day-especially-if-you-re-on-basal-insulin-and-over-70
+  - >-
+    is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
+  - >-
+    basal-insulin-adjustment-before-holiday-party
+  - >-
+    rapid-acting-insulin-holiday-dinner-dosing
+  - >-
+    the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - should-you-adjust-your-diabetes-medication-during-the-holidays
   - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays

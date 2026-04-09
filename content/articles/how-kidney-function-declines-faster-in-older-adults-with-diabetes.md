@@ -10,6 +10,16 @@ primaryKeyword: why diabetes speeds kidney decline after 60
 topicCluster: renal-health
 image: ''
 relatedSlugs:
+  - >-
+    7-common-mistakes-that-accelerate-diabetic-nephropathy-progression-even-with-ace-inhibitors-and-egfr-60-in-adults-67-with-microalbuminuria
+  - >-
+    blood-pressure-and-kidney-health-what-seniors-need-to-know
+  - >-
+    nsaids-and-kidney-injury-diabetes
+  - >-
+    how-dehydration-affects-blood-sugar-readings-in-older-diabetics
+  - >-
+    how-chronic-low-grade-dehydration-alters-glycated-albumin-ga-interpretation-in-adults-74-with-ckd-stage-2-and-poor-thirst-sensation
   - blood-pressure-and-kidney-health-what-seniors-need-to-know
   - diabetes-and-vision-changes-what-seniors-need-to-know
   - heart-disease-and-chronic-kidney-disease-the-dangerous-connection

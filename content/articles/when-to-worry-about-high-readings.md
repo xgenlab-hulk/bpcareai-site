@@ -10,6 +10,16 @@ primaryKeyword: when to worry about high blood pressure reading
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    understanding-blood-pressure-numbers
+  - >-
+    best-times-measure-bp-daily
+  - >-
+    blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ
+  - >-
+    when-to-worry-about-a-single-bp-reading-over-180-110-especially-if-you-re-taking-nsaids-antidepressants-or-decongestants
+  - >-
+    white-coat-hypertension-emergency-room-adults-68
   - understanding-blood-pressure-numbers
   - heart-rate-variability-explained
   - blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ

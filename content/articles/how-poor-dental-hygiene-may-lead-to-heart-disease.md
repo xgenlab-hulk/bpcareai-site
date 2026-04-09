@@ -10,6 +10,16 @@ primaryKeyword: does poor dental hygiene cause heart disease
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    the-hidden-link-between-gum-disease-and-heart-problems
+  - >-
+    how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension
+  - >-
+    gum-disease-and-coronary-artery-calcification
+  - >-
+    how-chronic-low-grade-gum-inflammation-drives-coronary-plaque-instability-and-why-scaling-alone-isn-t-enough-for-adults-62-with-periodontitis-and-cad
+  - >-
+    gum-disease-and-coronary-artery-function
   - the-hidden-link-between-gum-disease-and-heart-problems
   - are-morning-stiff-joints-a-sign-of-inflammation-that-hurts-your-heart
   - can-hearing-loss-be-an-early-sign-of-heart-disease

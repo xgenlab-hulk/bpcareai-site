@@ -11,13 +11,13 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    post-exercise-blood-pressure-rebound-in-elderly
-  - >-
     blood-pressure-drops-walking-diabetes-neuropathy
+  - >-
+    post-exercise-blood-pressure-rebound-in-elderly
   - >-
     cardiac-amyloidosis-early-detection-orthostasis
   - >-
-    when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss
+    simple-steps-to-reduce-post-meal-blood-pressure-drops-during-holiday-socializing-not-just-after-for-adults-74-with-autonomic-neuropathy
   - >-
     when-to-suspect-cardiac-amyloidosis-in-men-73-with-unexplained-left-ventricular-hypertrophy-bilateral-carpal-tunnel-syndrome-and-orthostatic-dizziness
 ---

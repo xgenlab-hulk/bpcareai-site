@@ -8,6 +8,16 @@ primaryKeyword: 'why does BP spike every morning even with medication'
 topicCluster: medication-safety
 image: ''
 relatedSlugs:
+  - >-
+    how-morning-blood-pressure-spikes-affect-your-heart
+  - >-
+    7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
+  - >-
+    7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-re-on-beta-blockers-and-over-65
+  - >-
+    what-causes-morning-blood-pressure-spikes-in-adults-62-with-chronic-kidney-disease-and-nocturnal-polyuria
+  - >-
+    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
   - 7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
   - how-morning-blood-pressure-spikes-affect-your-heart
   - why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes

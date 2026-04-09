@@ -9,13 +9,15 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
+    does-cranberry-sauce-really-help-uti-prevention-in-women-over-65-separating-proanthocyanidin-efficacy-from-sugar-driven-biofilm-risk
+  - >-
+    7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish
+  - >-
+    does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis
+  - >-
     7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control
   - >-
     7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
-  - >-
-    does-cranberry-sauce-really-help-uti-prevention-in-women-over-65-separating-proanthocyanidin-efficacy-from-sugar-driven-biofilm-risk
-  - >-
-    does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis
 ---
 
 # Does Homemade Cranberry Sauce Really Have Less Sugar? A Closer Look at 47 Real Recipes Used by Adults 60–82

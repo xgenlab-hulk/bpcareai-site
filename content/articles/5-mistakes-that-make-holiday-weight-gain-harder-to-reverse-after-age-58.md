@@ -8,6 +8,16 @@ primaryKeyword: 'why holiday weight won''t come off after 58'
 topicCluster: special-populations
 image: ''
 relatedSlugs:
+  - >-
+    5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
+  - >-
+    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
+  - >-
+    5-science-backed-ways-to-reduce-holiday-related-insulin-resistance
+  - >-
+    why-older-women-gain-weight-faster-during-the-holidays-after-menopause
+  - >-
+    when-to-worry-about-weight-gain-after-a-family-gathering
   - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
   - how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
   - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease

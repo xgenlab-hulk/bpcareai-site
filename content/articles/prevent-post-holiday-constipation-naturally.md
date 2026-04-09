@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     quick-ways-to-restore-post-holiday-gut-motility-in-adults-73-with-chronic-constipation-and-polypharmacy
   - >-
+    post-holiday-constipation-travel-circadian-seniors
+  - >-
     natural-ways-to-support-digestive-resilience-during-3-day-holiday-travel-for-seniors-58-74-with-chronic-constipation-and-polypharmacy
   - >-
+    when-to-worry-about-post-holiday-constipation-in-adults-72-with-chronic-opioid-use-and-low-fiber-diet-history
+  - >-
     natural-ways-to-reduce-holiday-constipation-in-seniors-taking-opioids-or-anticholinergics
-  - >-
-    natural-ways-to-support-post-holiday-bile-acid-recycling-without-supplements-for-adults-65-81-with-chronic-constipation-and-low-fat-diet-history
-  - >-
-    how-holiday-stress-slows-gastric-emptying-in-adults-72-with-mild-gastroparesis-and-what-to-eat-instead
 ---
 
 # How to Prevent Post-Holiday Constipation Naturally — Gentle, Evidence-Informed Strategies for Adults 66+

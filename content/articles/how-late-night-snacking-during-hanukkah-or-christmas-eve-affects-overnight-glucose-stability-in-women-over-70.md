@@ -10,6 +10,16 @@ primaryKeyword: holiday snacking and overnight glucose in women over 70
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - >-
+    how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms
+  - >-
+    how-late-night-cookie-binges-alter-hepatic-gluconeogenesis-rhythms-in-adults-58-66-with-prediabetes-and-why-it-matters-for-fasting-glucose-stability
+  - >-
+    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
+  - >-
+    how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-
     does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control

@@ -10,6 +10,16 @@ primaryKeyword: alcohol and heart disease risk after 50
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    blood-pressure-and-alcohol-how-much-is-too-much
+  - >-
+    best-non-alcoholic-holiday-drinks-for-heart-health-after-50
+  - >-
+    how-alcohol-metabolism-changes-after-age-55-and-why-that-raises-holiday-heart-syndrome-risk-in-adults-55-69-with-mild-liver-steatosis
+  - >-
+    why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
+  - >-
+    the-truth-about-benign-holiday-palpitations-are-they-really-harmless
   - the-truth-about-alcohol-and-heart-health-after-55
   - can-one-night-of-heavy-drinking-cause-heart-problems-in-people-over-55
   - is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues

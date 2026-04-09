@@ -8,6 +8,16 @@ primaryKeyword: 'blood pressure kidney health seniors over 65'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    heart-disease-and-chronic-kidney-disease-the-dangerous-connection
+  - >-
+    how-chronic-stress-contributes-to-high-blood-pressure-over-time
+  - >-
+    why-blood-pressure-matters-even-if-you-feel-fine
+  - >-
+    how-kidney-function-declines-faster-in-older-adults-with-diabetes
+  - >-
+    the-role-of-potassium-in-managing-blood-pressure-after-50
   - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
   - winter-vs-summer-blood-pressure-what-seniors-need-to-know
   - diabetes-and-vision-changes-what-seniors-need-to-know

@@ -8,6 +8,16 @@ primaryKeyword: central aortic pressure foods fast acting
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    simple-steps-to-lower-central-aortic-pressure-in-just-7-days-using-only-a-kitchen-scale-a-stopwatch-and-your-morning-tea-ritual
+  - >-
+    central-aortic-pressure-foods-74-pulse
+  - >-
+    arterial-stiffness-foods-seniors-bp
+  - >-
+    foods-for-central-bp-and-cognitive-blood-flow
+  - >-
+    does-daily-500-mg-of-berberine-improve-central-aortic-systolic-pressure-in-adults-54-68-with-metabolic-syndrome-and-elevated-augmentation-index
   - 10-foods-that-reduce-arterial-stiffness-within-2-hours-for-adults-60-75-with-hypertension-and-high-pulse-wave-velocity
   - 12-science-backed-ways-to-lower-central-aortic-pressure-without-medication-for-adults-57-71-with-high-pulse-wave-velocity-and-normal-brachial-readings
   - 12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension

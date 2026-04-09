@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
   - >-
+    mitochondrial-biogenesis-beta-cells-diabetes
+  - >-
+    mitochondrial-biogenesis-without-hiit-seniors
+  - >-
     natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-using-pomegranate-derived-urolithin-a-and-time-restricted-feeding-for-adults-63-79-with-diabetic-cardiomyopathy
-  - >-
-    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
-  - >-
-    mitochondrial-biogenesis-heart-aging
+    mitochondrial-biogenesis-insulin-resistance
 ---
 
 # Supporting Mitochondrial Biogenesis in Skeletal Muscle—Gentle, Science-Backed Strategies for Adults 71+ With Type 2 Diabetes and Severe COPD

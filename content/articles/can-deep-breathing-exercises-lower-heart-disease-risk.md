@@ -8,6 +8,16 @@ primaryKeyword: 'deep breathing exercises to reduce heart disease risk'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    can-deep-breathing-exercises-reduce-high-blood-pressure
+  - >-
+    why-does-heart-rate-variability-decline-after-65-and-what-simple-breathing-protocols-can-restore-it-without-medication
+  - >-
+    vagal-breathing-central-systolic-pressure
+  - >-
+    quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
+  - >-
+    resonant-breathing-diastolic-pressure-reduction
   - can-strength-training-lower-heart-disease-risk-after-60
   - heart-rate-variability-explained
   - can-meditation-reduce-heart-disease-risk-after-50

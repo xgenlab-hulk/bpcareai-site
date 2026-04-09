@@ -11,15 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    12-science-backed-ways-to-reduce-postprandial-endothelial-dysfunction-within-45-minutes-for-adults-60-76-with-type-2-diabetes-and-elevated-adma
+  - >-
     sugar-free-candies-and-gastroparesis
   - >-
-    are-sugar-free-treats-actually-safe-for-diabetics-over-65
+    the-truth-about-diabetic-friendly-holiday-candy-labels-why-92-of-these-products-still-trigger-reactive-hypoglycemia-in-adults-67-on-basal-insulin
   - >-
-    sugar-free-cookies-polyol-malabsorption-fatigue
+    the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76
   - >-
-    are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - >-
-    the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
+    apple-cider-vs-eggnog-endothelial-function-seniors
 ---
 
 # What You Need to Know About Sugar-Free Candy Endothelial Stiffness This Holiday Season

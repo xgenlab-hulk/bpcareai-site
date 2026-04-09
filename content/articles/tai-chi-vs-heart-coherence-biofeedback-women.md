@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    tai-chi-vs-breathing-central-aortic-pressure
+  - >-
     tai-chi-vs-muscle-relaxation-for-nocturnal-hypertension
   - >-
-    a-vs-b-home-based-isometric-handgrip-training-vs-guided-breathing-apps-for-lowering-diastolic-bp-in-sedentary-men-64-76
+    tai-chi-vs-treadmill-microvascular-angina
   - >-
-    quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety
+    tai-chi-vs-walking-for-hfpef-seniors
   - >-
-    can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension
-  - >-
-    can-daily-12-minute-seated-tai-chi-lower-24-hour-systolic-load-in-adults-71-with-isolated-systolic-hypertension-and-mild-gait-instability
+    cold-face-immersion-vs-vagus-humming-hrvar
 ---
 
 # Tai Chi vs Heart Coherence Biofeedback for Women: Which Supports Heart Health Better During Hormonal Change?

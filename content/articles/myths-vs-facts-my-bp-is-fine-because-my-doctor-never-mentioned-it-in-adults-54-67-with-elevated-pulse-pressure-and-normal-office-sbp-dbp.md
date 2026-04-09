@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
   - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
-  - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
-  - >-
     the-complete-guide-to-interpreting-pulse-pressure-widening-in-adults-76-with-aortic-valve-sclerosis-not-just-aortic-stenosis
   - >-
-    myths-vs-facts-my-bp-is-fine-because-my-pulse-is-steady-why-heart-rate-normalcy-doesn-t-rule-out-non-dipping-or-morning-surge
+    myths-vs-facts-high-normal-blood-pressure-in-adults-54-62-why-prehypertension-is-obsolete-and-what-the-new-acc-aha-staging-really-means-for-your-heart
+  - >-
+    central-aortic-pressure-foods-74-pulse
+  - >-
+    warning-signs-your-normal-office-diastolic-reading-is-missing-isolated-systolic-hypertension-especially-if-you-re-a-woman-over-70-with-stiff-arteries
 ---
 
 # “My BP Is Fine Because My Doctor Never Mentioned It” — Understanding the Pulse Pressure Myth Doctor Not Mentioning

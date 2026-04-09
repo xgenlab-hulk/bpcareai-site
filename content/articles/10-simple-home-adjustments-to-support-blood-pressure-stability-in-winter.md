@@ -8,6 +8,16 @@ primaryKeyword: 'home adjustments to help blood pressure in winter'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    the-hidden-dangers-of-indoor-heating-on-blood-pressure
+  - >-
+    stress-blood-pressure-winter
+  - >-
+    how-cold-weather-induced-vasoconstriction-alters-renal-sympathetic-nerve-activity-in-adults-70-with-hypertension-and-mild-diastolic-dysfunction
+  - >-
+    natural-ways-to-lower-blood-pressure-this-winter-without-medication
+  - >-
+    how-indoor-air-quality-affects-heart-health-in-winter
   - the-best-indoor-exercises-for-blood-pressure-control-in-winter
   - how-indoor-air-quality-affects-heart-health-in-winter
   - the-hidden-dangers-of-indoor-heating-on-blood-pressure

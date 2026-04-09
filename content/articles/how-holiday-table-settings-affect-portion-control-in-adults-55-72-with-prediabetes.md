@@ -10,6 +10,16 @@ primaryKeyword: holiday table settings and portion control prediabetes
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
+  - >-
+    how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
+  - >-
+    portion-distortion-family-dinner-prediabetes
+  - >-
+    the-complete-guide-to-holiday-eating-for-adults-58-63-with-new-onset-prediabetes-and-high-functioning-careers
+  - >-
+    5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
 
   - >-

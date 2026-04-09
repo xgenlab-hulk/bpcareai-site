@@ -9,15 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    mitochondrial-biogenesis-insulin-resistance
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak
+  - >-
+    mitochondrial-biogenesis-after-overeating-seniors
   - >-
     natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak
+    mitochondrial-biogenesis-heart-aging
   - >-
     natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-for-adults-71-with-type-2-diabetes-and-severe-copd
-  - >-
-    mitochondrial-biogenesis-after-overeating-seniors
 ---
 
 # Gentle Ways to Support Mitochondrial Biogenesis Without HIIT in Seniors — Especially for Those 71+ With Sarcopenia and Prediabetes

@@ -11,7 +11,15 @@ topicCluster: natural-remedies
 image: ''
 relatedSlugs:
   - >-
-    can-you-reverse-arterial-stiffness-with-just-12-weeks-of-barefoot-walking-on-grass-or-sand-evidence-from-a-pilot-trial-in-sedentary-women-63-71
+    aortic-pulse-wave-velocity-reduction
+  - >-
+    arterial-stiffness-foods-seniors-bp
+  - >-
+    arterial-stiffness-reduction-without-nitrates
+  - >-
+    pulse-wave-velocity-foods-avoid-61-cac
+  - >-
+    hvac-vibration-aortic-stiffness-testing
 
   - >-
     12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55

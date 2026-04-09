@@ -18,9 +18,9 @@ relatedSlugs:
   - >-
     why-winter-increases-heart-attack-risk-in-seniors-over-70
   - >-
-    5-things-you-should-know-before-starting-a-heart-smart-walking-group-especially-if-you-re-78-with-spinal-stenosis-and-mild-aortic-stenosis
-  - >-
     10-winter-safe-exercises-for-heart-health-after-65
+  - >-
+    walking-minutes-per-day-seniors-over-65
 ---
 
 # How to Walk Safely in Cold Weather After 70

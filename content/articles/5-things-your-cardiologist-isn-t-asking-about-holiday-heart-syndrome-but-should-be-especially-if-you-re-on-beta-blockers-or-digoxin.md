@@ -9,7 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - >-
+    how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
+  - >-
     7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
+  - >-
+    the-hidden-link-between-holiday-stress-and-irregular-heartbeat
+  - >-
+    is-holiday-heart-syndrome-reversible-what-science-says
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - >-
     the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50

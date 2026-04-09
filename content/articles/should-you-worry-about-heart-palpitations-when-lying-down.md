@@ -10,6 +10,16 @@ primaryKeyword: heart palpitations lying down after 50
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    7-hidden-causes-of-nighttime-heart-palpitations-in-women-over-55
+  - >-
+    heart-palpitations-when-standing-up-tea
+  - >-
+    how-sleep-affects-heart-health-after-50
+  - >-
+    could-your-heartbeats-per-minute-predict-longevity
+  - >-
+    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
   - how-frequent-urination-at-night-could-signal-heart-problems
   - the-connection-between-frequent-urination-at-night-and-heart-health
   - could-your-heartbeats-per-minute-predict-longevity

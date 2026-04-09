@@ -9,15 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
-  - >-
-    reduce-postprandial-glucose-without-medication
-  - >-
-    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
-  - >-
     warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68
   - >-
-    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
+    post-dinner-snack-glucose-spike-prevention
+  - >-
+    postprandial-glucose-timing-gastroparesis-seniors
+  - >-
+    what-causes-persistent-morning-hypoglycemia-in-adults-75-on-basal-bolus-regimens-when-cgm-shows-no-nighttime-lows
+  - >-
+    why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
 ---
 
 # Managing Dinner-Lunch Gap Hypoglycemia in Older Adults With Type 2 Diabetes and Digestive Slowing

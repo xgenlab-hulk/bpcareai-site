@@ -9,7 +9,13 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    quick-ways-to-reduce-bp-variability-during-air-travel-in-adults-70-with-history-of-hypertensive-urgency
+    how-holiday-air-travel-disrupts-subcutaneous-insulin-absorption-kinetics-in-adults-73-with-subcutaneous-adipose-atrophy-and-long-term-t1d
+  - >-
+    how-holiday-travel-disrupts-circadian-glucose-rhythms-in-adults-58-65-with-insulin-treated-type-2-diabetes-and-3-jet-lag-proof-timing-strategies
+  - >-
+    12-science-backed-ways-to-reduce-glucose-variability-during-winter-months-for-adults-60-with-seasonal-affective-disorder-and-type-2-diabetes
+  - >-
+    cgm-accuracy-holiday-travel
   - >-
     how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
 

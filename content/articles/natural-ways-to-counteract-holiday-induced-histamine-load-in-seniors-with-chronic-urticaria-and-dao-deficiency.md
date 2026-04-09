@@ -11,9 +11,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker
+    post-holiday-joint-swelling-gravy-histamine-seniors
   - >-
-    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
+    holiday-ham-safety-over-65
+  - >-
+    what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
+  - >-
+    safe-holiday-foods-seniors-80-grandkids
+  - >-
+    natural-ways-to-reduce-post-holiday-joint-stiffness-in-adults-64-81-with-osteoarthritis-and-high-resolution-crp-elevation
   - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
   - 7-smart-swaps-for-healthier-holiday-meals-after-65
   - >-

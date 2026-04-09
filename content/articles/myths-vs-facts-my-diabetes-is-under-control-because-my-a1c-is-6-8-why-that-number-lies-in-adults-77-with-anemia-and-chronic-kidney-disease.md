@@ -9,11 +9,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    the-complete-guide-to-interpreting-hba1c-discordance-with-fructosamine-and-cgm-metrics-in-adults-73-with-chronic-anemia-or-hemoglobinopathy
+  - >-
     a1c-reliability-with-low-albumin
+  - >-
+    how-chronic-low-grade-dehydration-alters-glycated-albumin-ga-interpretation-in-adults-74-with-ckd-stage-2-and-poor-thirst-sensation
   - >-
     why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals
   - >-
-    how-chronic-low-grade-dehydration-alters-glycated-albumin-ga-interpretation-in-adults-74-with-ckd-stage-2-and-poor-thirst-sensation
+    understanding-a1c-goals-for-seniors-with-diabetes
   - understanding-a1c-goals-for-seniors-with-diabetes
   - >-
     blood-glucose-monitor-iron-supplement-interference

@@ -8,6 +8,16 @@ primaryKeyword: can fasting-mimicking diets restore insulin production
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    fermented-foods-beta-cell-resilience-type-2-diabetes
+  - >-
+    how-intermittent-fasting-affects-beta-cell-rest-and-regeneration-in-adults-54-68-with-new-onset-type-2-diabetes-what-12-week-clinical-trials-show
+  - >-
+    mitochondrial-biogenesis-beta-cells-diabetes
+  - >-
+    the-truth-about-normal-fasting-glucose-in-adults-over-70-why-95-105-mg-dl-may-already-signal-beta-cell-exhaustion-and-early-dysglycemia
+  - >-
+    natural-ways-to-support-pancreatic-beta-cell-resilience-after-age-59-using-time-restricted-eating-zinc-rich-foods-and-berberine-timing
 
   - >-
     how-intermittent-fasting-affects-beta-cell-rest-and-regeneration-in-adults-54-68-with-new-onset-type-2-diabetes-what-12-week-clinical-trials-show

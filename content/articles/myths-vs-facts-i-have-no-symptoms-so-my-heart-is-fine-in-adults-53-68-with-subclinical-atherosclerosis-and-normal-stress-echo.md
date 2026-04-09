@@ -9,11 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
+    stable-heart-disease-plaque-erosion
   - >-
-    myths-vs-facts-my-bp-is-fine-because-my-doctor-never-mentioned-it-in-adults-54-67-with-elevated-pulse-pressure-and-normal-office-sbp-dbp
+    stairs-fitness-and-subclinical-ischemia
   - >-
-    myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio
+    7-hidden-heart-disease-risks-in-adults-55-64-who-still-feel-too-young-for-cardiac-screening
+  - >-
+    why-men-over-50-should-monitor-cholesterol-even-without-symptoms
+  - >-
+    subclinical-aortic-stenosis-blood-pressure-masking
   - why-men-over-50-should-monitor-cholesterol-even-without-symptoms
   - >-
     what-are-the-earliest-retinal-microvascular-changes-that-predict-coronary-artery-calcification-in-men-52-64-with-non-alcoholic-fatty-liver-disease

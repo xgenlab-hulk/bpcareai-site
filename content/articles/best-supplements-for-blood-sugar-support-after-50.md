@@ -8,6 +8,16 @@ primaryKeyword: 'best supplements for blood sugar control after 50'
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    the-role-of-fiber-in-controlling-blood-sugar-after-50
+  - >-
+    natural-ways-to-support-blood-sugar-balance-during-holiday-stress
+  - >-
+    can-prediabetes-be-reversed-after-age-50
+  - >-
+    natural-ways-to-support-post-holiday-glucose-recovery-using-fenugreek-ceylon-cinnamon-and-tart-cherry-juice-dosed-for-adults-54-79
+  - >-
+    meal-timing-strategies-for-better-blood-sugar-control-after-50
   - best-fruits-for-diabetics-over-50-and-which-to-limit
   - meal-timing-strategies-for-better-blood-sugar-control-after-50
   - the-role-of-fiber-in-controlling-blood-sugar-after-50

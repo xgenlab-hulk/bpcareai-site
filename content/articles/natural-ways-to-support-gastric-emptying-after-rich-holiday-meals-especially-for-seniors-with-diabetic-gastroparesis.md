@@ -10,6 +10,16 @@ primaryKeyword: gastroparesis diet tips for seniors with diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    natural-ways-to-support-gastric-emptying-during-thanksgiving-dinner-not-just-after-for-adults-70-with-early-gastroparesis-and-type-2-diabetes
+  - >-
+    how-holiday-stress-slows-gastric-emptying-in-adults-72-with-mild-gastroparesis-and-what-to-eat-instead
+  - >-
+    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
+  - >-
+    how-intermittent-fasting-during-thanksgiving-week-affects-gastric-emptying-in-adults-64-78-with-diabetic-gastroparesis-and-chronic-constipation
+  - >-
+    when-to-skip-the-family-dessert-table-entirely-5-clinical-indicators-that-signal-high-risk-carbohydrate-load-for-adults-69-with-diabetic-gastroparesis
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
 
   - >-

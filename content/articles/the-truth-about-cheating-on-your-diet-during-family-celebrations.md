@@ -11,7 +11,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
+    myths-vs-facts-healthy-eating-during-family-celebrations
+  - >-
+    how-to-talk-to-relatives-about-your-dietary-restrictions-without-offending-anyone
+  - >-
+    simple-steps-to-balance-comfort-foods-and-nutrition-during-holiday-meals
+  - >-
+    how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
+  - >-
+    why-emotional-eating-at-family-gatherings-is-common-and-how-to-manage-it
   - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
   - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
   - >-

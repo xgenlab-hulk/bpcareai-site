@@ -8,6 +8,16 @@ primaryKeyword: 'practical holiday gifts for diabetics over 70'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
+  - >-
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
+  - >-
+    best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
+  - >-
+    can-eggnog-and-desserts-be-part-of-a-diabetic-holiday-diet-after-60
+  - >-
+    diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65

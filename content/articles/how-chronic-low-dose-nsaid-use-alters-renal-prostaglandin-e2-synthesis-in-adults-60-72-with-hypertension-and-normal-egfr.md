@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    how-long-term-nsaid-use-even-occasional-elevates-pulse-pressure-in-adults-64-with-aortic-root-dilation-3-8-cm-on-echo
+    how-chronic-low-dose-nsaid-use-after-age-65-alters-renin-angiotensin-feedback-and-why-it-masks-early-diastolic-hypertension
   - >-
-    low-dose-aspirin-prostacyclin-thromboxane-vasoconstriction
+    the-impact-of-long-term-nsaid-use-on-heart-disease-risk
   - >-
-    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
+    nsaid-renal-glucose-reabsorption-ckd
   - >-
-    what-causes-morning-blood-pressure-spikes-in-adults-62-with-chronic-kidney-disease-and-nocturnal-polyuria
+    nsaids-and-kidney-injury-diabetes
   - >-
-    could-your-medications-be-raising-your-blood-pressure
+    when-to-worry-about-a-single-bp-reading-over-180-110-especially-if-you-re-taking-nsaids-antidepressants-or-decongestants
 ---
 
 # How NSAID Use Affects Prostaglandin E2, Blood Pressure, and Kidney Health in Adults 60–72 With Hypertension

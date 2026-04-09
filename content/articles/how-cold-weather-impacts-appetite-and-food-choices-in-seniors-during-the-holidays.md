@@ -12,6 +12,14 @@ image: ''
 relatedSlugs:
   - >-
     how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
+  - >-
+    the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
+  - >-
+    4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts
+  - >-
+    does-daily-2-minute-cold-exposure-face-immersion-improve-post-holiday-meal-satiety-signaling-in-adults-70-with-leptin-resistance
+  - >-
+    warning-signs-your-senior-loved-one-is-using-food-to-cope-with-holiday-grief-or-loneliness
   - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - why-winter-increases-heart-attack-risk-in-seniors-over-70

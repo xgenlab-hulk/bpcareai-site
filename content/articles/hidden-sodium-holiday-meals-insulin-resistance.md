@@ -13,7 +13,13 @@ relatedSlugs:
   - >-
     5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - >-
-    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+    7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
+  - >-
+    7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker
+  - >-
+    the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
+  - >-
+    7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - >-
     5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid

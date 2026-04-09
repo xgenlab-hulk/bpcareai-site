@@ -10,6 +10,16 @@ primaryKeyword: does holiday heart syndrome go away
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
+  - >-
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - >-
+    atrial-fibrillation-vs-holiday-heart-syndrome-key-differences-everyone-should-know
+  - >-
+    the-truth-about-benign-holiday-palpitations-are-they-really-harmless
+  - >-
+    7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
+  - >-
+    how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - what-research-says-about-holiday-heart-syndrome-and-aging-hearts
   - the-truth-about-benign-holiday-palpitations-are-they-really-harmless
   - >-

@@ -9,15 +9,15 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+    enhance-hepatic-insulin-clearance-natural
   - >-
     how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms
   - >-
-    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+    late-night-snacking-hepatic-gluconeogenesis
+  - >-
+    10-silent-signs-your-holiday-meal-timing-is-disrupting-hepatic-glucose-production-especially-with-concurrent-melatonin-agonist-use-in-adults-72
   - >-
     how-late-night-cookie-binges-alter-hepatic-gluconeogenesis-rhythms-in-adults-58-66-with-prediabetes-and-why-it-matters-for-fasting-glucose-stability
-  - >-
-    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
 ---
 
 # How Late-Night Gift Wrapping Affects Hepatic Insulin Clearance — And What It Means for Fasting Glucose in Older Adults with NAFLD

@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     instant-oatmeal-beta-glucan-degradation
   - >-
-    oat-milk-creamer-endothelial-dysfunction
-  - >-
-    the-truth-about-heart-healthy-oat-milk-does-fortified-beta-glucan-delivery-differ-in-adults-66-with-stage-3-ckd-vs-those-with-normal-egfr
+    whole-grain-cereal-endothelial-dysfunction
   - >-
     what-research-says-about-ultra-processed-holiday-snacks-and-endothelial-dysfunction-in-adults-61-75-with-subclinical-atherosclerosis
   - >-
-    olive-oil-polyphenols-endothelial-repair-seniors
+    oat-milk-creamer-endothelial-dysfunction
+  - >-
+    12-foods-that-delay-endothelial-senescence-not-just-lower-bp-including-black-garlic-extract-germinated-brown-rice-and-low-age-roasted-chickpeas-for-adults-60
 ---
 
 # What You Should Know About Instant Oatmeal and Endothelial Function in Seniors

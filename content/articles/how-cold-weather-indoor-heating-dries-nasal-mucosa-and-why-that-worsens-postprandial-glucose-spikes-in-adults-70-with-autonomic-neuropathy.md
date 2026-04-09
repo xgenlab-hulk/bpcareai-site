@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     dry-air-fasting-glucose-accuracy
   - >-
-    nasal-breathing-baroreflex-diabetes
+    how-indoor-air-quality-changes-during-winter-affect-fasting-glucose-in-adults-65-with-type-2-diabetes
   - >-
-    cold-water-face-immersion-insulin-sensitivity
+    the-hidden-dangers-of-indoor-heating-on-blood-pressure
+  - >-
+    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
   - >-
     simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature
-  - >-
-    how-daily-use-of-hearing-aids-alters-parasympathetic-tone-and-postprandial-glucose-variability-in-adults-76-with-mild-hearing-loss-and-t2d
 ---
 
 # How Indoor Heating Nasal Glucose Spikes Affect Older Adults — And What You Can Do About It

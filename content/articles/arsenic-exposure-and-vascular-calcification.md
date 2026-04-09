@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     7-hidden-environmental-triggers-that-worsen-coronary-artery-calcification-in-adults-62-with-long-term-statin-use
   - >-
-    10-unexpected-household-chemicals-that-accelerate-coronary-artery-calcification-in-adults-62-with-chronic-kidney-disease
+    warning-signs-your-holiday-energy-drink-is-accelerating-arterial-stiffness-even-if-it-s-labeled-sugar-free-and-for-seniors
   - >-
-    how-long-term-exposure-to-indoor-air-pollution-e-g-cooking-fumes-candle-smoke-elevates-coronary-artery-calcification-in-adults-62-with-no-known-cvd
+    how-indoor-humidity-below-30-triggers-endothelial-stiffness-in-adults-55-68-with-early-arterial-calcification
   - >-
-    arterial-stiffness-signs-after-preeclampsia
+    arterial-stiffness-reduction-without-nitrates
   - >-
-    how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries
+    social-isolation-vascular-aging
 ---
 
 # How Arsenic Exposure and Vascular Calcification Affect Heart Health in Older Adults Relying on Well Water

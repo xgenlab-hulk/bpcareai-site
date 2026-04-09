@@ -11,7 +11,13 @@ relatedSlugs:
   - >-
     can-long-term-statin-use-worsen-myocardial-energetics-in-adults-72-with-pre-existing-mitochondrial-myopathy-and-fatigue-dominant-heart-failure
   - >-
-    metformin-mitochondrial-dna-copy-number
+    mitochondrial-quality-control-in-cardiomyocytes
+  - >-
+    right-ventricular-adaptation-copd-seniors
+  - >-
+    cardiac-rehab-post-covid-myocardial-fatigue
+  - >-
+    does-daily-250-mg-of-magnesium-threonate-improve-ventricular-repolarization-homogeneity-in-adults-60-72-with-qtc-prolongation-and-polypharmacy
   - metformin-mitochondrial-dna-copy-number
   - foods-cardiac-fibroblast-quiescence-seniors
   - mitochondrial-quality-control-in-cardiomyocytes

@@ -10,6 +10,16 @@ primaryKeyword: how does holiday loneliness affect diabetes control
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    why-holiday-social-isolation-raises-fasting-glucose-in-adults-75-with-type-2-diabetes-and-mild-depression
+  - >-
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - >-
+    the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
+  - >-
+    best-blood-sugar-monitoring-practices-during-the-holiday-season
+  - >-
+    christmas-vs-new-year-s-which-holiday-is-harder-on-blood-sugar
   - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - >-

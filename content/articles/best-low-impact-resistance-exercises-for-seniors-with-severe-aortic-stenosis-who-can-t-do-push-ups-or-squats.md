@@ -8,6 +8,16 @@ primaryKeyword: 'resistance exercises for seniors with severe aortic stenosis'
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
+  - >-
+    resistance-training-after-aortic-valve-replacement
+  - >-
+    seated-resistance-band-hypertension-elderly
+  - >-
+    best-seated-resistance-band-exercises-with-real-time-bp-feedback-for-adults-80-with-orthostatic-intolerance-and-severe-knee-osteoarthritis
+  - >-
+    5-things-you-should-know-before-starting-a-heart-smart-walking-group-especially-if-you-re-78-with-spinal-stenosis-and-mild-aortic-stenosis
+  - >-
+    best-low-impact-resistance-exercises-for-adults-82-with-severe-osteoporosis-and-atrial-fibrillation-on-apixaban
   - the-best-indoor-exercises-for-blood-pressure-control-in-winter
   - blood-pressure-management-for-sedentary-seniors-in-winter-months
   - >-

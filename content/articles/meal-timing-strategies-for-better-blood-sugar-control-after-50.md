@@ -10,6 +10,16 @@ primaryKeyword: best meal times for blood sugar control after 50
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    can-walking-after-meals-lower-blood-sugar-in-older-adults
+  - >-
+    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
+  - >-
+    can-intermittent-fasting-help-manage-type-2-diabetes-after-60
+  - >-
+    best-supplements-for-blood-sugar-support-after-50
+  - >-
+    the-role-of-fiber-in-controlling-blood-sugar-after-50
   - the-role-of-fiber-in-controlling-blood-sugar-after-50
   - best-supplements-for-blood-sugar-support-after-50
   - can-intermittent-fasting-help-manage-type-2-diabetes-after-60

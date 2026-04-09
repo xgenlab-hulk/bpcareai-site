@@ -10,6 +10,16 @@ primaryKeyword: are alcohol-free spirits safe with heart rhythm issues
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement
+  - >-
+    best-non-alcoholic-holiday-drinks-for-heart-health-after-50
+  - >-
+    the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
+  - >-
+    the-truth-about-heart-safe-holiday-cocktails-labeled-low-alcohol-why-4-5-abv-mulled-wine-still-raises-qt-dispersion-in-adults-67-on-amiodarone
+  - >-
+    non-alcoholic-drinks-holiday-heart-syndrome
   - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors

@@ -8,6 +8,16 @@ primaryKeyword: 'mindfulness meditation for seasonal depression in seniors'
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:
+  - >-
+    10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore
+  - >-
+    natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
+  - >-
+    quick-ways-to-lift-a-senior-s-mood-during-a-winter-blue-day
+  - >-
+    7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
+  - >-
+    what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter
   - natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
   - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
   - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70

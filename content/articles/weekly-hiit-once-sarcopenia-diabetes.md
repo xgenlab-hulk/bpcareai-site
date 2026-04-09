@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     mitochondrial-biogenesis-without-hiit-seniors
   - >-
-    what-research-says-about-high-intensity-interval-training-vs-zone-2-walking-for-diastolic-bp-reduction-in-obese-adults-59-73
+    weekday-intermittent-fasting-holidays
   - >-
-    hiit-vs-walking-pulse-pressure-prehypertension
-  - >-
-    does-daily-20-minute-resistance-band-training-lower-hba1c-in-sedentary-adults-63-77-with-type-2-diabetes-without-weight-loss
+    myths-vs-facts-i-ll-just-exercise-more-after-the-holidays-why-that-strategy-fails-for-adults-65-with-type-2-diabetes-and-sarcopenic-obesity
   - >-
     natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
+  - >-
+    resistance-band-training-fasting-glucose-elderly
 ---
 
 # Can Weekly HIIT—Just Once a Week—Support Muscle, Metabolism, and Blood Sugar in Older Adults with Sarcopenia and Type 2 Diabetes?

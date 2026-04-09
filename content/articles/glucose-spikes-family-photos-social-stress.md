@@ -11,9 +11,13 @@ relatedSlugs:
   - >-
     what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp
   - >-
-    how-holiday-stress-cortisol-spikes-impair-glp-1-secretion-in-adults-64-with-obesity-and-prediabetes-and-why-mindful-breathing-beats-just-relax-advice
+    intermittent-socializing-postprandial-glucose
   - >-
-    intergenerational-dining-stress-cortisol-glucose
+    why-holiday-social-isolation-raises-fasting-glucose-in-adults-75-with-type-2-diabetes-and-mild-depression
+  - >-
+    how-intergenerational-plate-sharing-during-thanksgiving-dinner-elevates-postprandial-glucose-spikes-in-adults-62-with-prediabetes
+  - >-
+    how-family-gatherings-affect-blood-sugar-in-men-over-60-with-diabetes
   - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
   - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
 ---

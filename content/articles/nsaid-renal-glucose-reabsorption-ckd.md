@@ -9,15 +9,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-low-dose-nsaid-use-alters-renal-prostaglandin-e2-synthesis-in-adults-60-72-with-hypertension-and-normal-egfr
-  - >-
     nsaids-and-kidney-injury-diabetes
   - >-
-    fasting-glucose-ckd-stage-3a-diabetes
+    how-chronic-low-dose-nsaid-use-alters-renal-prostaglandin-e2-synthesis-in-adults-60-72-with-hypertension-and-normal-egfr
   - >-
-    what-research-says-about-intermittent-fasting-windows-during-kwanzaa-week-for-adults-56-68-with-diabetic-kidney-disease-egfr-30-45
+    how-chronic-low-grade-dehydration-alters-renal-glucose-reabsorption-in-adults-72-with-stage-2-ckd-and-well-controlled-a1c
   - >-
-    what-causes-sudden-drop-in-egfr-after-starting-sglt2-inhibitors-in-adults-69-with-borderline-hydration-status-and-low-albumin
+    how-chronic-low-dose-nsaid-use-after-age-65-alters-renin-angiotensin-feedback-and-why-it-masks-early-diastolic-hypertension
+  - >-
+    7-common-mistakes-that-accelerate-diabetic-nephropathy-progression-even-with-ace-inhibitors-and-egfr-60-in-adults-67-with-microalbuminuria
 ---
 
 # How NSAID Use Affects Kidney Glucose Handling in Older Adults With CKD and Diabetes

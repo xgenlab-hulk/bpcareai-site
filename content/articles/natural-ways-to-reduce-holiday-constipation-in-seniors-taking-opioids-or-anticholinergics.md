@@ -11,9 +11,15 @@ topicCluster: natural-remedies
 image: ''
 relatedSlugs:
   - >-
-    how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors
+    when-to-worry-about-post-holiday-constipation-in-women-63-with-chronic-opioid-use-and-pelvic-floor-dysfunction
   - >-
-    4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts
+    when-to-worry-about-post-holiday-constipation-in-adults-72-with-chronic-opioid-use-and-low-fiber-diet-history
+  - >-
+    natural-ways-to-support-digestive-resilience-during-3-day-holiday-travel-for-seniors-58-74-with-chronic-constipation-and-polypharmacy
+  - >-
+    prevent-post-holiday-constipation-naturally
+  - >-
+    quick-ways-to-restore-post-holiday-gut-motility-in-adults-73-with-chronic-constipation-and-polypharmacy
   - 10-high-fiber-holiday-foods-that-support-digestion-after-50
   - >-
     what-are-the-earliest-digestive-signs-that-your-holiday-fiber-intake-is-too-low-especially-if-you-re-taking-a-daily-calcium-supplement-after-age-65

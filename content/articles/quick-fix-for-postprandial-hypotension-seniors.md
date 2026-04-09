@@ -11,15 +11,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings
+  - >-
+    what-causes-postprandial-hypertension-a-sudden-30-mmhg-systolic-rise-within-90-minutes-of-eating-in-adults-69-85
+  - >-
+    natural-ways-to-normalize-midday-bp-dips-in-adults-66-79-with-postprandial-hypotension-and-mild-autonomic-neuropathy
+  - >-
     simple-steps-to-reduce-post-meal-blood-pressure-drops-during-holiday-socializing-not-just-after-for-adults-74-with-autonomic-neuropathy
   - >-
-    quick-ways-to-stabilize-post-meal-blood-flow-to-the-brain-in-adults-64-with-carotid-stenosis-50-and-orthostatic-dizziness
-  - >-
-    quick-fix-for-postprandial-hypotension-seniors
-  - >-
-    quick-ways-to-normalize-morning-pulse-pressure-without-increasing-medication-in-adults-70-83-with-aortic-stiffness-and-orthostatic-dizziness
-  - >-
-    natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings
+    post-dinner-fatigue-orthostatic-hypotension
 ---
 
 # A Reliable Quick Fix for Postprandial Hypotension Seniors: Evidence-Based Maneuvers You Can Do in Under a Minute

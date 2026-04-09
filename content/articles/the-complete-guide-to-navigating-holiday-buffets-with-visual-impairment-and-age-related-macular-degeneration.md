@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     holiday-eating-macular-degeneration
   - >-
+    plate-mapping-macular-degeneration-seniors
+  - >-
     simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
   - >-
     the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies
   - >-
-    the-complete-guide-to-eating-well-at-holiday-parties-without-asking-questions-or-drawing-attention-for-seniors-70-with-hearing-loss-and-social-anxiety
-  - >-
-    5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment
+    how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
 ---
 
 # Navigating Holiday Buffets With Visual Impairment: A Practical Guide for Seniors and Caregivers

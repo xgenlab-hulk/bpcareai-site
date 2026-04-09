@@ -11,7 +11,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
+    how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
+  - >-
+    myths-vs-facts-healthy-eating-during-family-celebrations
+  - >-
+    how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
+  - >-
+    can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure
+  - >-
+    the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies
   - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
   - >-
     how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors

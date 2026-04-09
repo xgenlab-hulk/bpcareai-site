@@ -8,6 +8,16 @@ primaryKeyword: 'late night holiday parties disrupt heart rhythm after 60'
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
+  - >-
+    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
+  - >-
+    how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
+  - >-
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - >-
+    quick-ways-to-calm-a-racing-heart-during-a-holiday-event
+  - >-
+    post-dinner-palpitations-holiday-heart-syndrome
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays

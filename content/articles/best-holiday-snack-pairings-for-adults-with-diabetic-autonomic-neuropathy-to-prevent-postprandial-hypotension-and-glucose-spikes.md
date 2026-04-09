@@ -8,6 +8,16 @@ primaryKeyword: 'holiday snacks for autonomic neuropathy low BP after meals'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    when-to-worry-about-post-meal-dizziness-after-christmas-dinner-in-adults-65-with-diabetes-and-orthostatic-hypotension
+  - >-
+    simple-steps-to-reduce-post-meal-blood-pressure-drops-during-holiday-socializing-not-just-after-for-adults-74-with-autonomic-neuropathy
+  - >-
+    holiday-ham-dizziness-autonomic-neuropathy
+  - >-
+    fatigue-after-meals-diabetes-elderly
+  - >-
+    simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature
   - 5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
   - >-
     natural-ways-to-support-post-holiday-glucose-recovery-using-fenugreek-ceylon-cinnamon-and-tart-cherry-juice-dosed-for-adults-54-79

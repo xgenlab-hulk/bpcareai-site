@@ -10,6 +10,16 @@ primaryKeyword: daily silence to lower nighttime blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    intermittent-silence-central-aortic-pressure
+  - >-
+    normalize-nocturnal-blood-pressure-dipping
+  - >-
+    why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh
+  - >-
+    morning-stretching-vs-breath-hold-nocturnal-bp
+  - >-
+    what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring
 
   - >-
     resonant-breathing-diastolic-pressure-reduction

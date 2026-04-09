@@ -8,6 +8,16 @@ primaryKeyword: 'mindfulness meditation and heart disease prevention after 50'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    can-meditation-reduce-heart-disease-risk-after-50
+  - >-
+    can-meditation-lower-blood-pressure-naturally
+  - >-
+    does-laughter-really-protect-your-heart-after-50
+  - >-
+    can-heart-disease-be-reversed-with-lifestyle-changes-after-50
+  - >-
+    the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
   - can-meditation-reduce-heart-disease-risk-after-50
   - can-strength-training-lower-heart-disease-risk-after-60
   - does-laughter-really-protect-your-heart-after-50

@@ -13,7 +13,11 @@ relatedSlugs:
   - >-
     how-does-holiday-travel-disrupt-basal-insulin-requirements-in-adults-62-75-with-type-1-diabetes
   - >-
-    how-holiday-travel-disrupts-circadian-glucose-rhythms-in-adults-58-65-with-insulin-treated-type-2-diabetes-and-3-jet-lag-proof-timing-strategies
+    how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70
+  - >-
+    best-times-check-glucose-holidays-seniors
+  - >-
+    how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
   - the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
 
 ---

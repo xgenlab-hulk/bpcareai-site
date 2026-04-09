@@ -8,6 +8,16 @@ primaryKeyword: when to check blood pressure after dinner for seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    how-grandparenting-during-holidays-alters-meal-timing-and-why-late-evening-carbs-raise-nighttime-bp-in-adults-68-with-nocturnal-hypertension
+  - >-
+    what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring
+  - >-
+    what-causes-postprandial-hypertension-a-sudden-30-mmhg-systolic-rise-within-90-minutes-of-eating-in-adults-69-85
+  - >-
+    postprandial-glucose-timing-gastroparesis-seniors
+  - >-
+    best-times-measure-bp-daily
 
   - >-
     how-grandparenting-during-holidays-alters-meal-timing-and-why-late-evening-carbs-raise-nighttime-bp-in-adults-68-with-nocturnal-hypertension

@@ -8,6 +8,16 @@ primaryKeyword: 'blood pressure drops when walking with diabetes neuropathy'
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
+  - >-
+    simple-steps-to-reduce-post-meal-blood-pressure-drops-during-holiday-socializing-not-just-after-for-adults-74-with-autonomic-neuropathy
+  - >-
+    why-your-blood-pressure-dips-too-much-after-walking-not-just-normal-recovery-in-adults-74-with-early-cardiac-amyloidosis
+  - >-
+    cross-legged-blood-pressure-autonomic-dysregulation
+  - >-
+    7-silent-signs-your-diabetic-neuropathy-is-progressing-to-small-fiber-autonomic-dysfunction-especially-if-you-re-67-and-taking-gabapentin
+  - >-
+    fatigue-after-meals-diabetes-elderly
   - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
   - >-
     when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension

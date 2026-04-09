@@ -10,6 +10,14 @@ image: ''
 relatedSlugs:
   - >-
     best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
+  - >-
+    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
+  - >-
+    the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use
+  - >-
+    holiday-hydration-glucose-homeostasis-polypharmacy
+  - >-
+    why-dehydration-at-holiday-events-may-worsen-heart-palpitations
 
   - >-
     quick-ways-to-stabilize-post-meal-sodium-excretion-in-adults-63-with-ckd-stage-3-and-high-volume-holiday-soups

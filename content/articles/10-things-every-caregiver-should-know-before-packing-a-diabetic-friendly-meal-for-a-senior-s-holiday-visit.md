@@ -8,6 +8,16 @@ primaryKeyword: 'packing diabetic safe meals for elderly parents at holidays'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
+  - >-
+    is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
+  - >-
+    5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy
+  - >-
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
+  - >-
+    the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations
   - managing-diabetes-while-traveling-tips-for-seniors
   - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
   - >-

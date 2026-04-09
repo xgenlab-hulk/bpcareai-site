@@ -8,6 +8,16 @@ primaryKeyword: 'why blood sugar spikes after holiday meals over 65'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
+  - >-
+    myths-vs-facts-eating-light-at-holiday-dinners-prevents-glucose-spikes-in-adults-62-with-insulin-resistance
+  - >-
+    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
+  - >-
+    when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment
+  - >-
+    simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
   - >-

@@ -10,6 +10,16 @@ primaryKeyword: heart disease risk factors for Hispanic adults over 50
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    how-type-2-diabetes-increases-heart-disease-risk-after-50
+  - >-
+    7-hidden-heart-disease-risks-in-adults-55-64-who-still-feel-too-young-for-cardiac-screening
+  - >-
+    how-does-family-history-influence-your-risk-of-heart-disease-after-60
+  - >-
+    heart-disease-symptoms-in-women-over-50-what-s-often-missed
+  - >-
+    the-link-between-family-food-traditions-and-chronic-disease-risk
   - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
   - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
   - recognizing-silent-heart-attacks-in-diabetics-over-60

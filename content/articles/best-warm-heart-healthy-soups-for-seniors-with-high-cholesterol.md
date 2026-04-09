@@ -10,6 +10,16 @@ primaryKeyword: heart healthy winter soups for seniors with high cholesterol
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    cholesterol-lowering-soups-seniors
+  - >-
+    7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
+  - >-
+    soups-lower-blood-pressure-naturally
+  - >-
+    top-5-winter-superfoods-that-naturally-lower-blood-pressure
+  - >-
+    senior-labeled-canned-soup-sodium-trap
   - why-winter-increases-heart-attack-risk-in-seniors-over-70
   - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
   - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65

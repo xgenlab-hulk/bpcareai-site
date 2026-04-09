@@ -9,15 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
-  - >-
-    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
+    12-science-backed-ways-to-reduce-glucose-variability-during-winter-months-for-adults-60-with-seasonal-affective-disorder-and-type-2-diabetes
   - >-
     how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70
   - >-
-    how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood
+    afternoon-sunlight-gluconeogenesis-type-2-diabetes
   - >-
-    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+    why-your-blood-sugar-might-be-higher-in-december-even-with-good-habits
+  - >-
+    simple-steps-to-adjust-your-diabetes-medication-timing-for-winter-circadian-shifts-especially-if-you-live-north-of-the-45th-parallel-and-are-over-69
 ---
 
 # How Winter Light Deprivation Disrupts Glucose Rhythms—and What You Can Do About It

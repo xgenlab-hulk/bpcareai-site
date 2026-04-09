@@ -9,15 +9,15 @@ topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome
-  - >-
     apple-cider-vs-eggnog-endothelial-function-seniors
   - >-
     a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome
   - >-
+    alcohol-free-mulled-wine-blood-sugar
+  - >-
     mulled-wine-vs-sparkling-cider-arrhythmia
   - >-
-    alcohol-free-mulled-wine-blood-sugar
+    apple-cider-vs-chai-for-afib
 ---
 
 # Apple Cider vs Mulled Wine for Seniors: What Your Evening Drink *Really* Does for Your Arteries

@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
+    why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh
   - >-
-    myths-vs-facts-my-bp-is-fine-because-my-pulse-is-steady-why-heart-rate-normalcy-doesn-t-rule-out-non-dipping-or-morning-surge
+    how-sleep-disordered-breathing-severity-ahi-15-alters-nocturnal-bp-recovery-in-adults-66-82-with-normal-looking-daytime-readings
   - >-
-    ambulatory-blood-pressure-report-interpretation
+    does-daily-200-mg-of-magnesium-l-threonate-not-oxide-or-citrate-improve-nocturnal-bp-dipping-in-adults-66-80-with-mild-cognitive-impairment
   - >-
-    how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
+    how-sleep-apnea-severity-modulates-nocturnal-bp-dipping-even-in-adults-55-with-normal-ahi-5-but-high-oxygen-desaturation-index
   - >-
-    normalize-nocturnal-blood-pressure-dipping
+    home-cuff-vs-ambulatory-nocturnal-hypertension
 ---
 
 # Why a “Normal” Late-Night Blood Pressure Drop Might Be a Red Flag in Sleep Apnea and Mild Cognitive Impairment

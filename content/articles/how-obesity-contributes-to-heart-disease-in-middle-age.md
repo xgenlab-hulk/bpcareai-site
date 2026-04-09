@@ -10,6 +10,16 @@ primaryKeyword: how obesity causes heart disease in middle age
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    how-belly-fat-increases-blood-pressure-risk-after-middle-age
+  - >-
+    7-hidden-heart-disease-risks-in-adults-55-64-who-still-feel-too-young-for-cardiac-screening
+  - >-
+    how-type-2-diabetes-increases-heart-disease-risk-after-50
+  - >-
+    how-menopause-affects-heart-disease-risk-in-women
+  - >-
+    the-truth-about-winter-weight-gain-and-heart-strain-after-60
   - how-type-2-diabetes-increases-heart-disease-risk-after-50
   - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
   - the-hidden-link-between-gum-disease-and-heart-problems

@@ -8,6 +8,16 @@ primaryKeyword: 'silent heart warning signs cold weather'
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
+  - >-
+    why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - >-
+    7-silent-signs-your-heart-s-struggling-during-winter-especially-if-you-re-a-woman-over-62-with-early-osteoarthritis
+  - >-
+    how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
+  - >-
+    when-to-worry-about-chest-tightness-in-cold-weather
+  - >-
+    is-it-safe-to-walk-outside-in-freezing-temperatures-with-heart-disease
   - what-are-the-first-signs-of-holiday-heart-syndrome-in-women
   - heart-disease-warning-signs-that-appear-years-in-advance
   - why-winter-increases-heart-attack-risk-in-seniors-over-70

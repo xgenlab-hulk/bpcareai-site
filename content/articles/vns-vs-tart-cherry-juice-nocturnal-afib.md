@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     tart-cherry-juice-vs-melatonin-for-blood-pressure
   - >-
-    tart-cherry-vs-melatonin-for-nighttime-glucose
+    how-late-night-holiday-movie-marathons-elevate-sympathetic-tone-and-why-that-increases-afib-burden-in-adults-65-with-nocturnal-hypertension
   - >-
-    tai-chi-vs-muscle-relaxation-for-nocturnal-hypertension
+    how-frequent-nighttime-awakenings-for-urination-nocturia-predicts-3-year-risk-of-new-onset-atrial-fibrillation-in-men-over-68-with-hypertension
   - >-
-    a-vs-b-evening-walk-after-dinner-vs-15-minute-seated-breathing-4-7-8-method-impact-on-nocturnal-systolic-bp-dip-in-adults-68-with-non-dipping-pattern
+    smartphone-use-nocturnal-af-burden
   - >-
-    does-daily-5-minute-vagus-nerve-stimulation-via-tens-on-the-tragus-lower-morning-systolic-bp-in-men-65-77-with-chronic-kidney-disease-stage-3
+    hawthorn-vs-magnesium-holiday-heart
 ---
 
 # VNS vs Tart Cherry Juice for Nocturnal AFib: Comparing Two Gentle Approaches in Adults 64+ With Nighttime Hypertension  

@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
+    morning-vs-evening-exercise-nocturnal-hypertension
   - >-
-    post-exercise-blood-pressure-rebound-in-elderly
+    morning-stretching-vs-breath-hold-nocturnal-bp
   - >-
-    restore-blood-pressure-variability-diabetes-sdnn
+    a-vs-b-evening-walk-after-dinner-vs-15-minute-seated-breathing-4-7-8-method-impact-on-nocturnal-systolic-bp-dip-in-adults-68-with-non-dipping-pattern
   - >-
-    does-daily-8-minute-cold-water-hand-immersion-really-lower-24-hour-mean-arterial-pressure-in-adults-68-with-mild-hypertension-and-raynaud-s-phenomenon
+    seated-resistance-band-hypertension-elderly
   - >-
-    can-daily-12-minute-seated-tai-chi-lower-24-hour-systolic-load-in-adults-71-with-isolated-systolic-hypertension-and-mild-gait-instability
+    best-breathing-exercises-for-reducing-morning-blood-pressure-spikes-in-adults-57-62-with-mild-obstructive-sleep-apnea-and-high-morning-cortisol
 ---
 
 # Evening Cycling vs. Morning Resistance Bands: How Exercise Timing Affects Blood Pressure Variability in Adults 60–73 With Isolated Systolic Hypertension

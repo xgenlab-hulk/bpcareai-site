@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
   - >-
-    holiday-eating-macular-degeneration-lutein-bioavailability
-  - >-
     warning-signs-your-holiday-diet-is-accelerating-macular-degeneration-in-adults-over-68
   - >-
-    simple-steps-to-modify-holiday-cookie-decorating-for-adults-with-diabetic-retinopathy-and-reduced-contrast-sensitivity
+    the-complete-guide-to-navigating-holiday-buffets-with-visual-impairment-and-age-related-macular-degeneration
   - >-
-    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
+    best-holiday-snacks-for-seniors-with-early-macular-degeneration-ranked-by-lutein-bioavailability-fat-co-ingestion-and-light-induced-oxidative-stress
+  - >-
+    plate-mapping-macular-degeneration-seniors
 ---
 
 # Navigating Holiday Eating With Macular Degeneration: A Low-Vision Nutrition Strategy for Adults 50+

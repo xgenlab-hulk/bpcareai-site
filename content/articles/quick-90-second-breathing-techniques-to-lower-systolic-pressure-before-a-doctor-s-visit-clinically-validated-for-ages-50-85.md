@@ -10,6 +10,16 @@ primaryKeyword: breathing techniques to lower BP before doctor visit
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    quick-ways-to-lower-bp-within-90-minutes-using-guided-breathing-postural-sequencing-validated-in-emergency-department-triage-for-stage-1-hypertension
+  - >-
+    can-deep-breathing-exercises-reduce-high-blood-pressure
+  - >-
+    quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety
+  - >-
+    breathing-lower-systolic-bp-seniors
+  - >-
+    best-breathing-patterns-for-reducing-central-systolic-pressure-in-adults-55-69-with-elevated-augmentation-index-and-high-frequency-hrv-suppression
 
   - can-deep-breathing-exercises-reduce-high-blood-pressure
   - natural-ways-to-lower-blood-pressure-this-winter-without-medication

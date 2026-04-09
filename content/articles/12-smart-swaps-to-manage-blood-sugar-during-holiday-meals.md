@@ -8,6 +8,16 @@ primaryKeyword: 'how to keep blood sugar stable during holiday meals'
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
+  - >-
+    the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies
+  - >-
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - >-
+    myths-vs-facts-holiday-eating-with-diabetes-after-50
+  - >-
+    quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
   - best-blood-sugar-monitoring-practices-during-the-holiday-season
   - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal

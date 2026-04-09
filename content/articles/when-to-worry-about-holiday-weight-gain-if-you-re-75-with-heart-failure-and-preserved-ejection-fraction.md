@@ -9,9 +9,15 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
-    does-holiday-weight-gain-in-adults-with-obesity-class-ii-predict-90-day-atrial-fibrillation-recurrence-a-2024-retrospective-analysis
+    why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
   - >-
-    myths-vs-facts-i-can-skip-my-diuretic-the-day-after-thanksgiving-why-that-risks-acute-decompensated-heart-failure-in-adults-67-81
+    what-are-the-earliest-signs-your-holiday-weight-gain-is-actually-fluid-retention-not-fat-in-women-over-65-with-atrial-fibrillation
+  - >-
+    when-to-worry-about-weight-gain-after-a-family-gathering
+  - >-
+    7-silent-signs-your-holiday-sodium-intake-is-worsening-diastolic-stiffness-in-women-65-with-preserved-ejection-fraction
+  - >-
+    why-sudden-weight-gain-could-be-a-red-flag-for-your-heart
   - when-to-worry-about-weight-gain-after-a-family-gathering
   - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
   - why-sudden-weight-gain-could-be-a-red-flag-for-your-heart

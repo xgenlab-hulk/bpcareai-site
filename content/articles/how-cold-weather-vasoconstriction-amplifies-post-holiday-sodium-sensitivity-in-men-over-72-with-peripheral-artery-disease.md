@@ -13,7 +13,13 @@ relatedSlugs:
   - >-
     how-cold-weather-triggers-morning-hypertensive-crises-in-adults-72-with-white-coat-hypertension-and-peripheral-artery-disease
   - >-
+    the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
+  - >-
     how-cold-weather-induced-vasoconstriction-alters-renal-sympathetic-nerve-activity-in-adults-70-with-hypertension-and-mild-diastolic-dysfunction
+  - >-
+    how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
+  - >-
+    why-winter-increases-heart-attack-risk-in-seniors-over-70
   - the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
   - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
   - >-

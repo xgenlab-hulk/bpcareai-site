@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp
   - >-
-    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+    how-holiday-stress-cortisol-spikes-impair-glp-1-secretion-in-adults-64-with-obesity-and-prediabetes-and-why-mindful-breathing-beats-just-relax-advice
   - >-
     how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance
   - >-
-    intergenerational-cooking-cortisol-dawn-phenomenon
+    how-holiday-stress-hormones-disrupt-overnight-glucose-recovery-in-adults-58-69-with-prediabetes
   - >-
-    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+    how-holiday-family-conflict-elevates-cortisol-driven-hepatic-glucose-output-especially-in-women-57-65-with-perimenopausal-insulin-resistance
 ---
 
 # Holiday Stress Raising Your Blood Sugar? 5 Things Every Woman 62+ with Prediabetes Must Know About Cortisol Surges

@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     mitochondrial-biogenesis-diastolic-dysfunction
   - >-
-    mitochondrial-biogenesis-heart-natural
-  - >-
     mitochondrial-biogenesis-heart-aging
+  - >-
+    mitochondrial-biogenesis-heart-natural
   - >-
     mitochondrial-biogenesis-after-overeating-seniors
   - >-
-    mitochondrial-biogenesis-heart-failure-trf
+    12-foods-that-enhance-myocardial-mitochondrial-biogenesis-without-increasing-oxidative-stress-for-adults-55-63-with-early-diastolic-dysfunction
 ---
 
 # Natural Ways to Support Mitochondrial Biogenesis and Ease Diastolic Stiffness After 60

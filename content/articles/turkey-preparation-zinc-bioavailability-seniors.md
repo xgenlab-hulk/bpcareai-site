@@ -11,7 +11,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    turkey-cooking-method-endothelial-health
+  - >-
     a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease
+  - >-
+    turkey-preparation-gout-uric-acid-comparison
+  - >-
+    turkey-preparation-postprandial-systolic-pressure
+  - >-
+    reheating-holiday-leftovers-mineral-bioavailability-seniors
   - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
   - >-
     the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis

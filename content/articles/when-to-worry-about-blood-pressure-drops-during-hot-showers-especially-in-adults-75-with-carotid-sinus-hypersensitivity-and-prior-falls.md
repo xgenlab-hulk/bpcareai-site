@@ -9,11 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    what-causes-blood-pressure-to-spike-during-morning-showering-in-adults-62-78-with-autonomic-neuropathy-and-orthostatic-hypotension
+    the-impact-of-hot-showers-on-blood-pressure-and-heart-rate
+  - >-
+    why-your-blood-pressure-reading-drops-after-a-10-minute-cold-shower-and-when-that-s-actually-dangerous-for-adults-68
   - >-
     why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72
   - >-
-    warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather
+    what-causes-blood-pressure-to-spike-during-morning-showering-in-adults-62-78-with-autonomic-neuropathy-and-orthostatic-hypotension
+  - >-
+    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
   - the-impact-of-hot-showers-on-blood-pressure-and-heart-rate
   - >-
     can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors

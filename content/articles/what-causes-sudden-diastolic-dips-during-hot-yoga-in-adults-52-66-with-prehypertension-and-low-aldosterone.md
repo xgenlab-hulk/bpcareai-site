@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72
   - >-
-    post-exercise-blood-pressure-rebound-in-elderly
-  - >-
     when-to-worry-about-blood-pressure-drops-during-hot-showers-especially-in-adults-75-with-carotid-sinus-hypersensitivity-and-prior-falls
   - >-
-    antihypertensive-dosing-summer-heatwaves
+    what-causes-sudden-diastolic-drop-after-sitting-up-from-supine-in-adults-69-with-left-ventricular-hypertrophy-and-reduced-early-diastolic-filling
   - >-
-    the-complete-guide-to-managing-diabetes-during-heatwaves-for-adults-72-with-diuretic-use-orthostatic-hypotension-and-reduced-thirst-sensation
+    resonant-breathing-diastolic-pressure-reduction
+  - >-
+    how-chronic-low-dose-nsaid-use-after-age-65-alters-renin-angiotensin-feedback-and-why-it-masks-early-diastolic-hypertension
 ---
 
 # Why diastolic hypotension hot yoga adults 52-66 Happens—and What You Can Do About It

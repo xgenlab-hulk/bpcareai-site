@@ -9,7 +9,15 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    dangers-of-over-the-counter-heart-support-supplements-containing-hawthorn-berberine-in-adults-with-stage-3-ckd-and-atrial-fibrillation
+    hepatic-mitochondrial-biogenesis-berberine-seniors
+  - >-
+    is-metformin-still-safe-for-diabetics-over-70
+  - >-
+    liver-health-foods-diabetes-seniors-alt
+  - >-
+    enhance-hepatic-insulin-clearance-natural
+  - >-
+    does-daily-500-mg-of-berberine-improve-central-aortic-systolic-pressure-in-adults-54-68-with-metabolic-syndrome-and-elevated-augmentation-index
   - is-metformin-still-safe-for-diabetics-over-70
   - >-
     the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications

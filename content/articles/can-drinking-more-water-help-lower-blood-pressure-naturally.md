@@ -8,6 +8,16 @@ primaryKeyword: 'drinking more water to lower blood pressure naturally'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    can-drinking-too-much-water-raise-blood-pressure
+  - >-
+    how-dehydration-affects-heart-function-in-older-adults
+  - >-
+    winter-hydration-blood-pressure-stability-elderly
+  - >-
+    the-role-of-potassium-in-managing-blood-pressure-after-50
+  - >-
+    blood-pressure-and-kidney-health-what-seniors-need-to-know
   - can-drinking-too-much-water-raise-blood-pressure
   - how-dehydration-impacts-blood-pressure-levels
   - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70

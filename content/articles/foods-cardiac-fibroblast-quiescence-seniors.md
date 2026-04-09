@@ -10,6 +10,16 @@ primaryKeyword: foods to keep heart tissue flexible after 59
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    natural-cardiac-fibroblast-stabilization-post-mi
+  - >-
+    12-foods-that-enhance-myocardial-mitochondrial-biogenesis-without-increasing-oxidative-stress-for-adults-55-63-with-early-diastolic-dysfunction
+  - >-
+    mitochondrial-biogenesis-diastolic-dysfunction
+  - >-
+    mitochondrial-biogenesis-natural-diastolic-stiffness
+  - >-
+    mitochondrial-biogenesis-heart-aging
 
   - >-
     foods-stabilize-pulse-pressure-seniors-orthostasis

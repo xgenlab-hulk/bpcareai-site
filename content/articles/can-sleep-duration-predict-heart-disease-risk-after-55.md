@@ -8,6 +8,16 @@ primaryKeyword: 'how does sleep duration affect heart disease risk after 55'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    how-sleep-affects-heart-health-after-50
+  - >-
+    could-your-heartbeats-per-minute-predict-longevity
+  - >-
+    why-does-heart-disease-progress-faster-in-men-over-55-with-untreated-sleep-apnea
+  - >-
+    7-hidden-heart-disease-risks-in-adults-55-64-who-still-feel-too-young-for-cardiac-screening
+  - >-
+    how-much-exercise-do-you-need-to-reduce-heart-disease-risk-after-65
   - how-sleep-affects-heart-health-after-50
   - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
   - the-connection-between-frequent-urination-at-night-and-heart-health

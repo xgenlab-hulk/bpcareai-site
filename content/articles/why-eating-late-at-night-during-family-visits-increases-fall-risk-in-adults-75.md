@@ -10,6 +10,16 @@ primaryKeyword: late night eating and fall risk in seniors over 75
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    when-to-worry-about-sudden-drowsiness-after-christmas-dinner-linking-postprandial-hypoglycemia-autonomic-blunting-and-late-night-falls-in-adults-75
+  - >-
+    how-late-night-snacking-during-hanukkah-or-christmas-eve-affects-overnight-glucose-stability-in-women-over-70
+  - >-
+    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
+  - >-
+    the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - >-
+    how-late-night-pie-eating-disrupts-nocturnal-glucose-rhythms-in-adults-65-with-early-stage-diabetic-neuropathy
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-
     how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65

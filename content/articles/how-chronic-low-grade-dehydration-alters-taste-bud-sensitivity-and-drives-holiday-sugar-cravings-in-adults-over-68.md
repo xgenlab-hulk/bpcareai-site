@@ -8,6 +8,16 @@ primaryKeyword: 'why do I crave more sugar as I get older'
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
+  - >-
+    warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
+  - >-
+    warning-signs-your-holiday-leftovers-are-causing-subclinical-dehydration-in-adults-80-with-diminished-thirst-response-and-mild-hyponatremia-risk
+  - >-
+    what-are-the-earliest-signs-of-holiday-induced-hydration-decline-in-adults-78-with-reduced-thirst-perception-and-chronic-constipation
+  - >-
+    simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
+  - >-
+    the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use
   - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
   - >-
     when-to-worry-about-sudden-thirst-and-dry-mouth-at-christmas-dinner-a-red-flag-timeline-for-adults-60-with-undiagnosed-prediabetes

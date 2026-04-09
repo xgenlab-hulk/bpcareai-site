@@ -10,6 +10,16 @@ primaryKeyword: blood sugar testing timing on New Year's Eve
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    christmas-vs-new-year-s-which-holiday-is-harder-on-blood-sugar
+  - >-
+    can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
+  - >-
+    holiday-medication-holiday-myths-facts
+  - >-
+    should-you-adjust-your-diabetes-medication-during-the-holidays
+  - >-
+    quick-ways-to-prevent-overnight-hypoglycemia-after-late-night-holiday-dessert-for-adults-54-66-on-sulfonylureas-or-basal-insulin
   - can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
   - how-to-monitor-blood-sugar-more-effectively-during-festive-travel
   - best-blood-sugar-monitoring-practices-during-the-holiday-season

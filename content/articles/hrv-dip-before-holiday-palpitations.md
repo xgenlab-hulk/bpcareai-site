@@ -11,15 +11,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    natural-autonomic-stabilization-holiday-heart
+  - >-
+    quick-ways-to-calm-a-racing-heart-during-a-holiday-event
+  - >-
     7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
   - >-
-    best-pre-dinner-stress-reduction-protocols-for-adults-57-69-with-high-functioning-anxiety-and-alcohol-triggered-pvcs
+    5-things-your-cardiologist-isn-t-asking-about-holiday-heart-syndrome-but-should-be-especially-if-you-re-on-beta-blockers-or-digoxin
   - >-
-    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
-  - >-
-    can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history
-  - >-
-    best-non-pharmacologic-strategies-to-prevent-ventricular-arrhythmias-during-holiday-travel-in-adults-65-79-with-icds-and-history-of-stress-induced-vt
+    how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
 ---
 
 # Spotting the HRV Dip Before Holiday Palpitations — A Quiet Early Warning for Adults 55–60

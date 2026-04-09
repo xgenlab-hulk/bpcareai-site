@@ -11,15 +11,15 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
+    warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-not-just-bloating-in-adults-70-with-long-term-ppi-use
+  - >-
     holiday-leftovers-sibo-early-signs-seniors
   - >-
     warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-detected-via-morning-stool-ph-and-bloating-pattern-shifts-in-adults-71
   - >-
+    gastric-acid-resilience-ppi-therapy-holiday-meals
+  - >-
     when-to-suspect-early-gut-microbiome-shifts-after-holiday-pie-consumption-even-without-diarrhea-or-bloating-in-adults-65-with-stable-ibs-d
-  - >-
-    when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70
-  - >-
-    when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70
 ---
 
 # When Sudden Bloating After Holiday Dinner Isn’t Just Overeating — What Adults 63+ on Long-Term PPIs Should Know

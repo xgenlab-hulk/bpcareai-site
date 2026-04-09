@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
   - >-
-    natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension
+    does-daily-4-minute-cold-water-face-immersion-really-lower-24-hour-mean-arterial-pressure-in-adults-61-with-early-autonomic-dysfunction
   - >-
-    quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety
+    cold-face-immersion-baroreflex-seniors
   - >-
-    cold-exposure-and-paroxysmal-afib-in-elderly
+    cold-face-immersion-vs-vagus-humming-hrvar
   - >-
-    resonant-breathing-diastolic-pressure-reduction
+    does-daily-cold-water-face-immersion-improve-vagal-tone-and-reduce-atrial-fibrillation-burden-in-adults-67-with-paroxysmal-af-and-low-hrv
 ---
 
 # Can Cold Face Immersion and Heart Rate Variability Improve Autonomic Balance in Older Men with Stage 2 Hypertension?

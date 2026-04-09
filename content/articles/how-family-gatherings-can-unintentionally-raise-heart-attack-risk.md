@@ -10,6 +10,16 @@ primaryKeyword: can family gatherings trigger a heart attack
 topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:
+  - >-
+    why-emotional-stress-at-family-gatherings-raises-heart-arrhythmia-risk
+  - >-
+    when-to-worry-about-weight-gain-after-a-family-gathering
+  - >-
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - >-
+    why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
+  - >-
+    the-hidden-link-between-holiday-stress-and-irregular-heartbeat
   - why-emotional-eating-at-family-gatherings-is-common-and-how-to-manage-it
   - why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
   - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults

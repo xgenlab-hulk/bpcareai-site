@@ -8,6 +8,16 @@ primaryKeyword: liver health foods diabetes seniors alt
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    hepatic-mitochondrial-biogenesis-berberine-seniors
+  - >-
+    time-restricted-eating-hepatic-insulin-sensitivity
+  - >-
+    can-you-safely-take-berberine-with-metformin-if-you-re-over-74-and-have-mild-liver-fibrosis-what-alt-ast-and-fibroscan-data-reveal
+  - >-
+    enhance-hepatic-insulin-clearance-natural
+  - >-
+    natural-ways-to-support-post-holiday-bile-acid-recycling-without-supplements-for-adults-65-81-with-chronic-constipation-and-low-fat-diet-history
   - natural-ways-to-support-hepatic-mitochondrial-biogenesis-without-activating-mtor-using-berberine-urolithin-a-in-adults-65-with-nafld-and-type-2-diabetes
   - natural-ways-to-support-post-holiday-bile-acid-recycling-without-supplements-for-adults-65-81-with-chronic-constipation-and-low-fat-diet-history
   - 10-foods-that-activate-ampk-in-hepatocytes-without-fasting-backed-by-human-liver-biopsy-transcriptomics-in-adults-60-75-with-nafld-and-prediabetes

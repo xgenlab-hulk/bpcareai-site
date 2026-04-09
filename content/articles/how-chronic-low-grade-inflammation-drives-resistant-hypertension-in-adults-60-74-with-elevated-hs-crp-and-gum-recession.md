@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension
   - >-
-    how-chronic-low-grade-inflammation-from-periodontitis-elevates-nighttime-blood-pressure-in-adults-61-76-with-hypertension-and-poor-dental-access
-  - >-
-    gum-disease-and-coronary-artery-calcification
-  - >-
     gum-inflammation-endothelial-nitric-oxide-synthase-coupling
+  - >-
+    how-chronic-low-grade-gum-inflammation-drives-coronary-plaque-instability-and-why-scaling-alone-isn-t-enough-for-adults-62-with-periodontitis-and-cad
+  - >-
+    dental-inflammation-coronary-microvascular-flow
 ---
 
 # How Chronic Inflammation Fuels Resistant Hypertension in Adults 60–74—And What You Can Do About It

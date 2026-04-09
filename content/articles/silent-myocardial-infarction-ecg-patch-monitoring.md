@@ -9,15 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    how-silent-heart-attacks-differ-in-older-adults
+  - >-
+    home-ecg-patch-interpretation-for-seniors
+  - >-
     ecg-patch-vs-holter-asymptomatic-afib
   - >-
-    7-underrecognized-triggers-of-nocturnal-st-segment-depression-in-adults-with-nonobstructive-cad-identified-via-home-based-ecg-patch-monitoring
+    silent-electrical-heart-deterioration-signs
   - >-
-    warning-signs-your-normal-ecg-may-miss-early-arrhythmogenic-cardiomyopathy-in-adults-55-66-with-unexplained-syncope-and-family-history-of-scd
-  - >-
-    does-your-smartwatch-actually-detect-hypertensive-crisis-accuracy-benchmarks-for-ecg-ppg-devices-in-adults-with-atrial-fibrillation-and-hypertension
-  - >-
-    myths-vs-facts-my-ecg-is-normal-so-my-heart-is-fine-why-resting-ecg-misses-68-of-early-conduction-abnormalities-in-adults-65
+    recognizing-silent-heart-attacks-in-diabetics-over-60
 ---
 
 # What Seniors Over 75 Need to Know About Silent Myocardial Infarction ECG Patch Monitoring

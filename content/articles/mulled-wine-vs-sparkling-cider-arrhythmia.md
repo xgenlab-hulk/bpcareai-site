@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome
   - >-
-    a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome
+    non-alcoholic-drinks-holiday-heart-syndrome
+  - >-
+    apple-cider-vs-chai-for-afib
+  - >-
+    a-vs-b-warm-spiced-apple-cider-with-cinnamon-stick-vs-mulled-wine-impact-on-evening-endothelial-function-in-adults-59-71-with-metabolic-syndrome
   - >-
     alcohol-free-mulled-wine-blood-sugar
-  - >-
-    the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement
-  - >-
-    a-vs-b-warm-herbal-chai-caffeine-free-vs-sparkling-pomegranate-mocktail-for-preventing-post-meal-atrial-ectopy-in-women-over-70
 ---
 
 # Mulled Wine vs Sparkling Cider Arrhythmia: What Holiday Drinks Mean for Heart Rhythm Stability in Adults 64–76 with IBS and Atrial Fibrillation

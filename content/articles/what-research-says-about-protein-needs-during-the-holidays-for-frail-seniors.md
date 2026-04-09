@@ -10,6 +10,16 @@ primaryKeyword: protein needs for frail seniors during holidays
 topicCluster: special-populations
 image: ''
 relatedSlugs:
+  - >-
+    5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily
+  - >-
+    5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
+  - >-
+    preserve-muscle-mass-holiday-meals
+  - >-
+    myths-vs-facts-eating-light-during-holidays-doesn-t-mean-skipping-meals-here-s-why-for-seniors
+  - >-
+    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
   - 10-high-fiber-holiday-foods-that-support-digestion-after-50
   - >-

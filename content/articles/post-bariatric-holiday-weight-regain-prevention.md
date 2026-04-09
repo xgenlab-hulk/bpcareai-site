@@ -11,7 +11,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
+    5-mistakes-that-make-holiday-weight-gain-harder-to-reverse-after-age-58
+  - >-
+    when-to-worry-about-weight-gain-after-a-family-gathering
+  - >-
+    holiday-buffet-seniors-satiety-hormones
+  - >-
+    myths-vs-facts-i-ll-just-exercise-more-after-the-holidays-why-that-strategy-fails-for-adults-65-with-type-2-diabetes-and-sarcopenic-obesity
+  - >-
+    why-older-women-gain-weight-faster-during-the-holidays-after-menopause
   - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
   - >-
     3-simple-steps-to-prevent-post-holiday-hba1c-drift-even-if-you-did-fine-during-the-festivities-in-adults-57-66-with-stable-prediabetes

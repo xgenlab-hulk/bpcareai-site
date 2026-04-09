@@ -8,6 +8,16 @@ primaryKeyword: 'barefoot walking and arterial stiffness in older women'
 topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
+  - >-
+    a-vs-b-daily-12-minute-seated-resistance-band-routine-vs-25-minute-brisk-walking-impact-on-pulse-wave-velocity-in-adults-65-with-arterial-stiffness
+  - >-
+    aortic-pulse-wave-velocity-reduction
+  - >-
+    ankle-circles-vs-calf-squeezes-pulse-pressure
+  - >-
+    natural-ways-to-support-arterial-stiffness-reduction-in-8-12-weeks-using-targeted-flavonoid-timing-and-pulse-wave-velocity-feedback-in-adults-64-80
+  - >-
+    arterial-stiffness-reduction-without-nitrates
 
   - >-
     natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74

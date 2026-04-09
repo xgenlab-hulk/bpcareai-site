@@ -11,11 +11,11 @@ relatedSlugs:
   - >-
     7-silent-signs-of-coronary-microvascular-dysfunction-in-women-55-72-with-normal-coronary-angiograms-and-persistent-chest-discomfort
   - >-
-    warning-signs-your-stable-diabetes-is-masking-early-diabetic-cardiomyopathy-even-with-normal-ejection-fraction-and-no-symptoms-in-adults-59-68
+    microvascular-coronary-reactivity-natural
   - >-
-    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
+    the-complete-guide-to-interpreting-your-cardiac-mri-stress-perfusion-scan-especially-if-you-have-microvascular-angina-and-normal-coronary-angiogram
   - >-
-    7-silent-signs-your-heart-s-struggling-during-winter-especially-if-you-re-a-woman-over-62-with-early-osteoarthritis
+    coronary-microvascular-reactivity-natural-support
   - >-
     aromatase-inhibitors-heart-microvascular-dysfunction
 ---

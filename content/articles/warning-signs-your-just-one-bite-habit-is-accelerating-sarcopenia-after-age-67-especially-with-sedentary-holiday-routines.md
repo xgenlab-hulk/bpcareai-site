@@ -10,6 +10,16 @@ primaryKeyword: holiday snacking sarcopenia risk after 67
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
+  - >-
+    5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
+  - >-
+    5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily
+  - >-
+    myths-vs-facts-i-ll-just-exercise-more-after-the-holidays-why-that-strategy-fails-for-adults-65-with-type-2-diabetes-and-sarcopenic-obesity
+  - >-
+    preserve-muscle-mass-holiday-meals
+  - >-
+    5-mistakes-that-make-holiday-weight-gain-harder-to-reverse-after-age-58
   - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
   - >-
     myths-vs-facts-eating-light-during-holidays-doesn-t-mean-skipping-meals-here-s-why-for-seniors

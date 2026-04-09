@@ -10,6 +10,16 @@ primaryKeyword: how does sleep affect heart health after 50
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    can-sleep-duration-predict-heart-disease-risk-after-55
+  - >-
+    the-link-between-sleep-apnea-and-high-blood-pressure-after-50
+  - >-
+    why-does-heart-disease-progress-faster-in-men-over-55-with-untreated-sleep-apnea
+  - >-
+    should-you-worry-about-heart-palpitations-when-lying-down
+  - >-
+    warning-signs-of-right-sided-heart-strain-in-adults-75-with-untreated-sleep-apnea-and-pulmonary-hypertension-before-edema-appears
   - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
   - does-laughter-really-protect-your-heart-after-50
   - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50

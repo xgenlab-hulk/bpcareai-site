@@ -9,7 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    gastric-acid-support-without-ppi-seniors
+    how-alcohol-metabolism-changes-after-age-55-and-why-that-raises-holiday-heart-syndrome-risk-in-adults-55-69-with-mild-liver-steatosis
+  - >-
+    buffer-alcohol-glycemic-vasodilatory-effects
+  - >-
+    5-things-every-woman-over-64-taking-low-dose-hrt-should-know-about-holiday-alcohol-interactions-and-hepatic-cyp2c9-saturation
+  - >-
+    the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement
+  - >-
+    holiday-foods-stabilize-blood-glucose-during-meal
   - the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
   - >-
     pancreatic-acinar-support-for-diabetics

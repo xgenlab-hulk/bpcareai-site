@@ -11,11 +11,13 @@ relatedSlugs:
   - >-
     10-foods-that-stabilize-fasting-glucose-without-lowering-it-for-adults-62-with-history-of-hypoglycemia-and-age-related-adrenal-blunting
   - >-
-    10-foods-that-stabilize-postprandial-glucose-variability-in-adults-64-with-gastroparesis-and-type-2-diabetes
+    stable-glucose-foods-haaf-adults-77
   - >-
-    can-you-safely-skip-dessert-after-a-high-protein-holiday-dinner-without-triggering-reactive-hypoglycemia-in-adults-62-with-adrenal-insufficiency
+    overcorrecting-fasting-glucose-oldest-old
   - >-
-    post-dinner-snack-glucose-spike-prevention
+    can-intermittent-fasting-worsen-autonomic-neuropathy-in-adults-71-with-long-term-type-2-diabetes-and-orthostatic-tachycardia
+  - >-
+    normalize-fasting-glucose-without-skipping-dinner
 
 ---
 

@@ -9,15 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    fasting-glucose-ckd-stage-3a-diabetes
-  - >-
-    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
-  - >-
-    skip-insulin-holiday-pie-beta-cell-stress
+    natural-ways-to-support-pancreatic-beta-cell-resilience-without-stimulating-insulin-secretion-using-sulforaphane-timing-low-dose-lithium-in-adults-56-64-with-early-beta-cell-decline
   - >-
     how-intermittent-fasting-affects-beta-cell-rest-and-regeneration-in-adults-54-68-with-new-onset-type-2-diabetes-what-12-week-clinical-trials-show
   - >-
-    fasting-glucose-myth-postprandial-risk
+    holiday-weight-gain-beta-cell-exhaustion
+  - >-
+    cgm-postprandial-patterns-beta-cell-reserve
+  - >-
+    myths-vs-facts-i-don-t-need-insulin-because-my-a1c-is-stable-what-beta-cell-mass-imaging-reveals-in-adults-57-70-with-long-standing-type-2-diabetes
 ---
 
 # Rethinking the “Normal” Fasting Glucose in Adults Over 70: What 95–105 mg/dL Really Reveals About Beta-Cell Health

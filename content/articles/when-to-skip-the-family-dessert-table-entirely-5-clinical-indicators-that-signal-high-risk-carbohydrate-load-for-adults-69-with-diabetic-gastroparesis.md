@@ -10,6 +10,16 @@ primaryKeyword: dessert warning signs diabetic gastroparesis
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    early-gastroparesis-signs-men-seniors
+  - >-
+    natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
+  - >-
+    warning-signs-of-asymptomatic-diabetic-gastropathy-detected-via-gastric-emptying-breath-test-in-adults-70-with-normal-hba1c-and-stable-symptoms
+  - >-
+    warning-signs-your-holiday-blood-sugar-variability-is-masking-early-diabetic-gastroparesis-especially-in-women-61-with-long-term-t1d-or-lada
+  - >-
+    what-are-the-earliest-signs-of-holiday-induced-diabetic-gastroparesis-flare-ups-before-nausea-or-bloating-appear
   - early-gastroparesis-signs-men-seniors
   - postprandial-glucose-timing-gastroparesis-seniors
   - >-

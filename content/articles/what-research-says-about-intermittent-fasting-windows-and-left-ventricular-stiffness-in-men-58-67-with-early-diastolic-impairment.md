@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension
   - >-
+    how-intermittent-fasting-alters-cardiac-autophagy-flux-in-men-58-67-with-left-ventricular-diastolic-dysfunction-and-elevated-galectin-3
+  - >-
     does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease
   - >-
     intermittent-fasting-diastolic-dysfunction-hr
   - >-
-    how-intermittent-fasting-alters-cardiac-autophagy-flux-in-men-58-67-with-left-ventricular-diastolic-dysfunction-and-elevated-galectin-3
-  - >-
-    reduce-left-ventricular-stiffness-without-medication
+    mitochondrial-biogenesis-diastolic-dysfunction
 ---
 
 # What Science Says About Intermittent Fasting and Diastolic Stiffness in Men 58–67 With Early Diastolic Impairment

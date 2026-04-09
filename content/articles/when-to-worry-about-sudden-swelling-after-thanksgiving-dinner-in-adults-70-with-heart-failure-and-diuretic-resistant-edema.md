@@ -9,9 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    when-to-worry-about-holiday-weight-gain-if-you-re-75-with-heart-failure-and-preserved-ejection-fraction
+    when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70
   - >-
     myths-vs-facts-i-can-skip-my-diuretic-the-day-after-thanksgiving-why-that-risks-acute-decompensated-heart-failure-in-adults-67-81
+  - >-
+    holiday-foods-heart-failure-seniors
+  - >-
+    12-simple-swaps-to-reduce-post-holiday-edema-in-women-65-with-stage-2-hypertension-and-mild-lymphedema
+  - >-
+    why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
   - why-sudden-weight-gain-could-be-a-red-flag-for-your-heart
   - >-
     when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70

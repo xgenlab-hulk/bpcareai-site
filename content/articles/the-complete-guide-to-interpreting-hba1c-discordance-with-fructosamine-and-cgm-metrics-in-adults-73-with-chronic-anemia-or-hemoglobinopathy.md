@@ -8,6 +8,16 @@ primaryKeyword: why does my A1c not match my glucose monitor readings
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
+  - >-
+    myths-vs-facts-my-diabetes-is-under-control-because-my-a1c-is-6-8-why-that-number-lies-in-adults-77-with-anemia-and-chronic-kidney-disease
+  - >-
+    why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals
+  - >-
+    understanding-a1c-goals-for-seniors-with-diabetes
+  - >-
+    when-should-men-over-75-with-type-2-diabetes-stop-routine-hba1c-screening-a-risk-benefit-framework-for-deprescribing-glycemic-testing
+  - >-
+    a1c-reliability-with-low-albumin
 - myths-vs-facts-my-diabetes-is-under-control-because-my-a1c-is-6-8-why-that-number-lies-in-adults-77-with-anemia-and-chronic-kidney-disease
 - does-your-blood-glucose-monitor-interact-with-common-iron-supplements-differently-after-age-66-a-safety-guide-for-ferritin-replete-seniors-on-metformin
 - myths-vs-facts-my-blood-sugar-is-fine-because-my-cgm-shows-flat-lines-especially-for-adults-over-65-with-sluggish-interstitial-fluid-turnover-and-delayed-glucose-signal

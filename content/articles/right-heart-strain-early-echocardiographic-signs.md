@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
+  - >-
+    right-ventricular-adaptation-copd-seniors
+  - >-
     warning-signs-of-right-sided-heart-strain-in-adults-75-with-untreated-sleep-apnea-and-pulmonary-hypertension-before-edema-appears
   - >-
     what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
   - >-
-    what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
-  - >-
-    right-ventricular-fibrosis-galectin-3-warning-signs
-  - >-
-    right-ventricular-dysfunction-nocturnal-cough-women
+    what-are-the-earliest-ecg-clues-of-right-ventricular-strain-in-adults-58-69-with-obesity-mild-sleep-apnea-and-normal-bnp
 ---
 
 # Early Echocardiographic Signs of Right Heart Strain in Older Adults With COPD — What to Watch For *Before* Neck Vein Changes Appear

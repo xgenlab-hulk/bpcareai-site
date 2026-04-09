@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    ambulatory-blood-pressure-report-interpretation
-  - >-
-    interpreting-ambulatory-blood-pressure-reports-sleep-apnea
-  - >-
-    aortic-pulse-wave-velocity-reduction
-  - >-
     ambulatory-blood-pressure-variability-interpretation
   - >-
     arterial-stiffness-signs-after-preeclampsia
+  - >-
+    5-things-every-adult-74-with-aortic-stenosis-and-controlled-hypertension-should-know-before-starting-home-bp-monitoring
+  - >-
+    aortic-pulse-wave-velocity-reduction
+  - >-
+    the-truth-about-white-coat-resistance-why-some-adults-55-show-higher-bp-at-home-than-in-clinics-and-what-it-reveals-about-vascular-aging
 ---
 
 # Understanding Ambulatory Arterial Stiffness Index Interpretation: What Your Home BP Monitor May Be Telling You About Small-Vessel Health

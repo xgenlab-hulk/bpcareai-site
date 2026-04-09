@@ -8,6 +8,16 @@ primaryKeyword: 'Christmas vs New Year blood sugar comparison diabetes'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
+  - >-
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - >-
+    can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
+  - >-
+    best-blood-sugar-monitoring-practices-during-the-holiday-season
+  - >-
+    why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
   - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
   - why-emotional-eating-during-christmas-raises-blood-sugar-after-50
   - how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes

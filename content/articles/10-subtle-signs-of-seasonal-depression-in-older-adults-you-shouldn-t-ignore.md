@@ -8,6 +8,16 @@ primaryKeyword: 'early signs of seasonal depression in seniors'
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
+  - >-
+    when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
+  - >-
+    7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
+  - >-
+    why-older-men-often-hide-their-seasonal-depression-symptoms
+  - >-
+    can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
+  - >-
+    when-to-worry-about-social-withdrawal-in-winter-differentiating-normal-retiring-behavior-from-prodromal-seasonal-depression-in-adults-80
   - the-complete-guide-to-managing-seasonal-depression-in-older-adults-at-home
   - >-
     when-to-worry-about-social-withdrawal-in-winter-differentiating-normal-retiring-behavior-from-prodromal-seasonal-depression-in-adults-80

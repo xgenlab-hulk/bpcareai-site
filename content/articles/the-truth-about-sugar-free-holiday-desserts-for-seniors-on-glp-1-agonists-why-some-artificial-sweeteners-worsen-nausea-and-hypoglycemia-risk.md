@@ -11,7 +11,13 @@ relatedSlugs:
   - >-
     are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - >-
-    are-sugar-free-treats-actually-safe-for-diabetics-over-65
+    5-things-your-endocrinologist-won-t-tell-you-about-holiday-alcohol-choices-especially-if-you-re-on-glp-1-agonists
+  - >-
+    7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
+  - >-
+    the-truth-about-sugar-free-holiday-desserts-for-men-70-with-fructose-malabsorption-and-early-nafld
+  - >-
+    sugar-free-candies-and-gastroparesis
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - >-
     the-truth-about-sugar-free-cough-drops-for-adults-with-type-1-diabetes-over-60-do-sugar-alcohols-like-isomalt-raise-blood-glucose

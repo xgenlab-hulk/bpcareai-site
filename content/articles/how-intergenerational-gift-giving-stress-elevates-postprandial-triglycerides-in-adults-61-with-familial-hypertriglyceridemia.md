@@ -8,6 +8,16 @@ primaryKeyword: does holiday stress raise triglycerides
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    quick-ways-to-lower-post-holiday-triglycerides-without-fasting-especially-for-sedentary-adults-over-75
+  - >-
+    why-your-light-holiday-appetizer-plate-may-be-raising-triglycerides-more-than-dessert-the-hidden-fat-oxidation-block-in-adults-58-69
+  - >-
+    quick-ways-to-lower-post-holiday-triglyceride-spikes-within-2-hours-using-targeted-omega-3-dosing-validated-in-adults-60-78-with-mixed-dyslipidemia
+  - >-
+    reduce-postprandial-triglycerides-quickly-seniors
+  - >-
+    how-intergenerational-gift-giving-of-homemade-cookies-affects-postprandial-triglycerides-in-adults-68-with-metabolic-syndrome
   - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
   - >-
     how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes

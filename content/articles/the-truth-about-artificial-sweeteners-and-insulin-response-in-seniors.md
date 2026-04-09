@@ -10,6 +10,16 @@ primaryKeyword: artificial sweeteners and insulin response in seniors
 topicCluster: special-populations
 image: ''
 relatedSlugs:
+  - >-
+    are-sugar-free-treats-actually-safe-for-diabetics-over-65
+  - >-
+    red-flags-your-holiday-diet-soda-habit-is-worsening-insulin-resistance-especially-if-you-re-60-with-visceral-adiposity
+  - >-
+    sugar-free-desserts-gut-health-seniors
+  - >-
+    the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76
+  - >-
+    the-truth-about-sugar-free-holiday-desserts-for-seniors-on-glp-1-agonists-why-some-artificial-sweeteners-worsen-nausea-and-hypoglycemia-risk
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s
   - best-supplements-for-blood-sugar-support-after-50

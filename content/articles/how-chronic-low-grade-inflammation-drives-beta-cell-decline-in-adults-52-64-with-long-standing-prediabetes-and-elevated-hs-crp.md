@@ -8,6 +8,16 @@ primaryKeyword: does inflammation make prediabetes worse over time
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    how-chronic-low-grade-inflammation-drives-insulin-resistance-in-adults-55-64-with-abdominal-obesity-and-elevated-hs-crp
+  - >-
+    natural-ways-to-support-pancreatic-beta-cell-resilience-without-stimulating-insulin-secretion-using-sulforaphane-timing-low-dose-lithium-in-adults-56-64-with-early-beta-cell-decline
+  - >-
+    how-chronic-inflammation-worsens-type-2-diabetes-after-50
+  - >-
+    natural-ways-to-support-pancreatic-beta-cell-resilience-after-age-59-using-time-restricted-eating-zinc-rich-foods-and-berberine-timing
+  - >-
+    the-truth-about-normal-fasting-glucose-in-adults-over-70-why-95-105-mg-dl-may-already-signal-beta-cell-exhaustion-and-early-dysglycemia
   - how-chronic-inflammation-worsens-type-2-diabetes-after-50
   - >-
     how-gut-microbiome-diversity-at-age-58-64-predicts-10-year-progression-from-prediabetes-to-type-2-diabetes-based-on-3-longitudinal-cohort-studies

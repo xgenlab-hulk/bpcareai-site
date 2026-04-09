@@ -9,7 +9,15 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
+    best-low-impact-resistance-exercises-for-adults-82-with-severe-osteoporosis-and-atrial-fibrillation-on-apixaban
+  - >-
+    a-vs-b-daily-10-minute-resistance-band-routine-vs-nordic-walking-for-improving-stroke-volume-index-in-adults-73-with-preserved-ejection-fraction
+  - >-
+    strength-exercises-women-over-65
+  - >-
     best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
+  - >-
+    resistance-training-left-ventricular-hypertrophy
   - best-low-impact-exercises-for-managing-diabetes-after-60
   - how-strength-training-protects-your-heart-as-you-age
   - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70

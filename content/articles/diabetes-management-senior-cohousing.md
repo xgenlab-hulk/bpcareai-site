@@ -8,6 +8,16 @@ primaryKeyword: 'diabetes management senior cohousing community'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    5-things-you-should-know-before-starting-a-continuous-glucose-monitor-cgm-if-you-re-67-with-low-vision-tremor-or-dexterity-loss
+  - >-
+    cgms-for-seniors-without-smartphones
+  - >-
+    cgms-vs-flash-glucose-monitoring-seniors-hypoglycemia
+  - >-
+    holiday-cookie-swap-glucose-management
+  - >-
+    diabetes-management-intergenerational-hosting
 
   - >-
     diabetes-management-dementia-caregiver

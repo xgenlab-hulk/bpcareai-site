@@ -15,11 +15,11 @@ relatedSlugs:
   - >-
     cranberry-juice-blood-glucose-control
   - >-
+    gut-fungi-post-antibiotic-glucose-spikes
+  - >-
     fermented-foods-beta-cell-resilience-type-2-diabetes
   - >-
-    sugar-free-desserts-gut-health-seniors
-  - >-
-    sugar-free-kombucha-cgms-interference-seniors
+    12-science-backed-ways-to-protect-your-gut-microbiome-from-antibiotic-induced-dysbiosis-if-you-re-managing-diabetes-and-over-64
 ---
 
 # Can Kefir Really Help *Kefir Endotoxemia Diabetes Seniors*? What the Science Says — and What to Watch For

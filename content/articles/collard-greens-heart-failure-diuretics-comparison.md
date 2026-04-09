@@ -9,13 +9,13 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
+    collard-greens-cooking-method-oxidative-stress-ckd
   - >-
-    best-low-sodium-high-flavor-herbs-and-spices-for-holiday-cooking-clinically-vetted-for-adults-with-heart-failure-and-hyponatremia-risk
+    collard-greens-endothelial-function-comparison
   - >-
-    a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease
+    collard-greens-vs-creamed-spinach-kidney-disease
   - >-
-    a-vs-b-homemade-bone-broth-vs-store-bought-low-sodium-broth-for-seniors-with-heart-failure-and-nyha-class-ii-symptoms
+    7-hidden-sodium-traps-in-healthy-looking-holiday-salads-that-worsen-fluid-retention-in-adults-74-with-mild-heart-failure
   - >-
     turkey-preparation-gout-uric-acid-comparison
 ---

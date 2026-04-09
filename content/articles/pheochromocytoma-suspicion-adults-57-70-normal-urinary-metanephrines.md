@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     when-to-suspect-pheochromocytoma-related-hypertension-fluctuations-in-adults-58-74-with-episodic-palpitations-and-normotensive-intervals
   - >-
-    white-coat-hypertension-emergency-room-adults-68
+    heart-palpitations-when-standing-up-tea
   - >-
-    cardiac-amyloidosis-diagnosis-low-voltage-ecg-older-men
+    7-silent-signs-your-blood-pressure-is-spiking-at-night-even-if-your-daytime-readings-look-normal
   - >-
-    when-to-suspect-latent-autoimmune-diabetes-in-adults-lada-in-patients-52-65-with-rapidly-worsening-glycemic-control-on-metformin-alone
+    what-causes-white-coat-normotension-when-clinic-readings-are-normal-but-ambulatory-monitoring-shows-stage-1-hypertension-in-adults-61-75
   - >-
-    cardiac-amyloidosis-early-detection-orthostasis
+    warning-signs-of-secondary-hypertension-you-might-miss-if-you-re-57-69-and-taking-proton-pump-inhibitors-long-term
 ---
 
 # When to Consider Pheochromocytoma in Adults 57–70 With Episodic Palpitations, Normal Echo, and Normal Urinary Metanephrines—but Elevated Plasma Free Metanephrines

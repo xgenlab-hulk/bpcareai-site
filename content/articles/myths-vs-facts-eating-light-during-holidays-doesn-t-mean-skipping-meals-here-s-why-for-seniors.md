@@ -10,6 +10,16 @@ primaryKeyword: is eating light safe for seniors during holidays
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
+  - >-
+    myths-vs-facts-eating-light-at-holiday-dinners-prevents-glucose-spikes-in-adults-62-with-insulin-resistance
+  - >-
+    5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily
+  - >-
+    how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
+  - >-
+    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
   - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
   - myths-vs-facts-healthy-eating-during-family-celebrations
   - 5-mistakes-that-make-holiday-weight-gain-harder-to-reverse-after-age-58

@@ -11,15 +11,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    intermittent-fasting-diastolic-dysfunction-hr
+    what-research-says-about-intermittent-fasting-windows-and-left-ventricular-stiffness-in-men-58-67-with-early-diastolic-impairment
   - >-
     does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease
   - >-
-    can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show
+    what-research-says-about-intermittent-fasting-windows-and-24-hour-bp-variability-in-adults-55-67-with-metabolic-syndrome-and-elevated-sdnn
   - >-
-    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
+    intermittent-fasting-diastolic-dysfunction-hr
   - >-
-    what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
+    how-intermittent-fasting-alters-cardiac-autophagy-flux-in-men-58-67-with-left-ventricular-diastolic-dysfunction-and-elevated-galectin-3
 ---
 
 # What Science Tells Us About Intermittent Fasting and Diastolic Function in Adults 50–64 With Mild High Blood Pressure

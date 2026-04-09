@@ -9,15 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    cgm-flat-line-myth-elderly
+    hot-shower-blood-sugar-spike-seniors
   - >-
     the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79
   - >-
-    why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72
+    dry-air-fasting-glucose-accuracy
   - >-
-    fasting-glucose-myth-postprandial-risk
+    cgm-flat-line-myth-elderly
   - >-
-    blood-glucose-monitor-iron-supplement-interference
+    warm-baths-sglt2-inhibitors-safety
 ---
 
 # Why a Hot Bath Affects Glucose Monitor Accuracy — And How to Get Reliable Readings After Age 67

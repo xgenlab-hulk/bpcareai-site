@@ -8,6 +8,16 @@ primaryKeyword: 'can diabetics eat eggnog and holiday desserts after 60'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
+  - >-
+    how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
+  - >-
+    simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
+  - >-
+    best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
+  - >-
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
   - best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60

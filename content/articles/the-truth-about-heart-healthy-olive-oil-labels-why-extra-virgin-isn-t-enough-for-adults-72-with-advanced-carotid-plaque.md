@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     the-truth-about-heart-healthy-omega-6-rich-vegetable-oils-in-adults-55-70-with-elevated-oxidized-ldl-and-low-hdl2-subfraction
   - >-
-    quick-ways-to-neutralize-holiday-meal-induced-oxidative-stress-in-adults-67-with-low-serum-vitamin-e-and-high-hs-crp
+    seed-oils-and-endothelial-oxidative-stress
   - >-
-    the-truth-about-heart-healthy-air-fryer-french-fries-for-adults-70-on-dual-anticoagulants-apixaban-aspirin
+    instant-oatmeal-endothelial-function-seniors
   - >-
-    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
+    heart-healthy-granola-bars-truth-for-seniors
 ---
 
 # Olive Oil Heart Health for Seniors With Carotid Plaque: Why “Extra Virgin” Alone Isn’t Enough

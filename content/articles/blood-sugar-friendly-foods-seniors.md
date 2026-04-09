@@ -14,13 +14,13 @@ relatedSlugs:
   - >-
     breakfast-blood-sugar-seniors
   - >-
-    foods-lower-blood-sugar-without-pills
-  - >-
     top-10-diabetes-friendly-snacks-for-people-over-60
   - >-
-    best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
+    foods-lower-blood-sugar-without-pills
   - >-
-    10-high-fiber-holiday-foods-that-support-digestion-after-50
+    10-foods-that-stabilize-fasting-glucose-without-lowering-it-for-adults-62-with-history-of-hypoglycemia-and-age-related-adrenal-blunting
+  - >-
+    the-role-of-fiber-in-controlling-blood-sugar-after-50
 ---
 
 # Blood Sugar Friendly Foods for Seniors: Stay Full & Steady

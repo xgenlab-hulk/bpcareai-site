@@ -8,6 +8,16 @@ primaryKeyword: 'air pollution and AFib risk during outdoor walks women 60'
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
+  - >-
+    the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
+  - >-
+    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
+  - >-
+    what-causes-recurrent-nighttime-palpitations-with-normal-ecgs-in-women-52-68-during-perimenopause-and-when-it-signals-early-atrial-fibrosis
+  - >-
+    how-seasonal-air-pollution-peaks-alter-st-segment-variability-and-why-that-increases-acute-coronary-syndrome-risk-in-adults-59-with-stable-angina
+  - >-
+    how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55
   - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
   - >-
     how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55

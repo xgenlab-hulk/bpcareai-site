@@ -11,6 +11,16 @@ primaryKeyword: >-
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    how-chronic-low-dose-nsaid-use-alters-renal-prostaglandin-e2-synthesis-in-adults-60-72-with-hypertension-and-normal-egfr
+  - >-
+    how-chronic-low-dose-nsaid-use-after-age-65-alters-renin-angiotensin-feedback-and-why-it-masks-early-diastolic-hypertension
+  - >-
+    when-to-worry-about-a-single-bp-reading-over-180-110-especially-if-you-re-taking-nsaids-antidepressants-or-decongestants
+  - >-
+    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
+  - >-
+    could-your-medications-be-raising-your-blood-pressure
   - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
   - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
   - the-hidden-link-between-gum-disease-and-heart-problems

@@ -11,11 +11,13 @@ relatedSlugs:
   - >-
     5-things-everyone-over-75-should-know-about-using-continuous-glucose-monitors-with-pacemakers-or-icds
   - >-
-    5-things-you-should-know-before-starting-a-continuous-glucose-monitor-cgm-if-you-re-67-with-low-vision-tremor-or-dexterity-loss
-  - >-
     can-you-safely-use-a-continuous-glucose-monitor-while-wearing-holiday-sweaters-with-metallic-threads-or-magnetic-closures
   - >-
     5-things-everyone-over-70-should-know-about-using-continuous-glucose-monitors-with-severe-edema-lymphedema-or-recent-lower-limb-surgery
+  - >-
+    cgm-edema-heart-failure-diuretics
+  - >-
+    cgm-accuracy-holiday-travel
 
 ---
 

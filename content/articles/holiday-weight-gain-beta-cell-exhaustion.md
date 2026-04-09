@@ -11,15 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-holiday-medication-routine-is-failing-even-if-your-a1c-looks-fine
-  - >-
     warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks
   - >-
-    the-truth-about-normal-fasting-glucose-in-adults-over-70-why-95-105-mg-dl-may-already-signal-beta-cell-exhaustion-and-early-dysglycemia
+    beta-cell-resilience-holiday-eating
   - >-
-    warning-signs-your-holiday-weight-gain-is-accelerating-diabetic-kidney-hyperfiltration-even-before-egfr-drops
+    skip-insulin-holiday-pie-beta-cell-stress
   - >-
-    when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
+    earliest-biomarkers-beta-cell-stress
+  - >-
+    9-foods-that-support-pancreatic-beta-cell-resilience-during-high-carb-holidays-based-on-human-islet-transcriptomics-and-nrf2-activation-studies
 ---
 
 # When Holiday Weight Gain Beta-Cell Exhaustion Sneaks In — Even With Normal A1c

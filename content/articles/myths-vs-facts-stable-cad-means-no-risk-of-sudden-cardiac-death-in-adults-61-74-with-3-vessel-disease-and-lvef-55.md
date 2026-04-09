@@ -9,13 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    myths-vs-facts-i-have-no-symptoms-so-my-heart-is-fine-in-adults-53-68-with-subclinical-atherosclerosis-and-normal-stress-echo
+    stable-heart-disease-plaque-erosion
+  - >-
+    natural-cardiac-fibroblast-stabilization-post-mi
+  - >-
+    5-things-everyone-over-70-should-know-about-coronary-artery-calcium-cac-scoring-especially-if-you-re-taking-statins-but-have-zero-symptoms
   - >-
     right-ventricular-fibrosis-galectin-3-warning-signs
   - >-
-    myths-vs-facts-my-a1c-is-fine-so-my-heart-is-safe-what-myocardial-strain-imaging-reveals-in-adults-57-74-with-normal-a1c-but-elevated-troponin-t
-  - >-
-    stable-heart-disease-plaque-erosion
+    myths-vs-facts-i-have-no-symptoms-so-my-heart-is-fine-in-adults-53-68-with-subclinical-atherosclerosis-and-normal-stress-echo
 ---
 
 # “Stable CAD” Doesn’t Mean Zero Risk: Understanding Sudden Cardiac Death in Adults 61–74 With 3-Vessel Disease and Preserved LVEF

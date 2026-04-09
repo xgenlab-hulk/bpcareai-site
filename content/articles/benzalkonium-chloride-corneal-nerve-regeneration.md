@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     warning-signs-your-winter-indoor-humidity-30-is-accelerating-corneal-nerve-damage-even-with-stable-hba1c-in-adults-77-with-diabetic-neuropathy
   - >-
-    nasal-decongestants-and-carotid-sinus-sensitivity
+    dry-eyes-blurred-vision-diabetes-seniors
   - >-
-    amber-glasses-nocturnal-coronary-perfusion
-  - >-
-    nocturnal-polyuria-endothelin-1-microvascular-damage
+    zinc-hearing-aid-batteries-diabetic-retinopathy
   - >-
     fabric-softener-and-diabetic-foot-ulcer-healing
+  - >-
+    amber-glasses-nocturnal-coronary-perfusion
 ---
 
 # How Benzalkonium Chloride Affects Corneal Nerve Regeneration in Older Adults With Diabetic Keratopathy

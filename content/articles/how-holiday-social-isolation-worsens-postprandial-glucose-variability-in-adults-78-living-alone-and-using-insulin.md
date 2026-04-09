@@ -8,6 +8,16 @@ primaryKeyword: does eating alone spike blood sugar in seniors
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    why-holiday-social-isolation-raises-fasting-glucose-in-adults-75-with-type-2-diabetes-and-mild-depression
+  - >-
+    how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80
+  - >-
+    intermittent-socializing-postprandial-glucose
+  - >-
+    10-ways-to-reduce-holiday-glucose-variability-without-changing-what-you-eat-using-chewing-pace-seating-position-and-ambient-sound-cues
+  - >-
+    how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70
 - why-holiday-social-isolation-raises-fasting-glucose-in-adults-75-with-type-2-diabetes-and-mild-depression
 - how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70
 - how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80

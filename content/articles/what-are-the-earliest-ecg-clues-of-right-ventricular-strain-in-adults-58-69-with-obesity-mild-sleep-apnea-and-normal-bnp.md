@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     warning-signs-of-right-sided-heart-strain-in-adults-75-with-untreated-sleep-apnea-and-pulmonary-hypertension-before-edema-appears
   - >-
-    right-heart-strain-early-echocardiographic-signs
+    what-are-the-earliest-signs-of-right-sided-heart-failure-in-adults-64-with-untreated-sleep-apnea-before-jugular-venous-distention-appears
   - >-
-    what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
+    right-heart-strain-early-echocardiographic-signs
   - >-
     right-ventricular-dysfunction-nocturnal-cough-women
   - >-
-    warning-signs-your-home-pulse-oximeter-is-masking-early-pulmonary-hypertension-in-adults-68-with-untreated-sleep-apnea-and-unexplained-fatigue
+    when-to-worry-about-just-tired-after-stair-climbing-in-men-60-67-with-untreated-mild-obstructive-sleep-apnea-and-normal-ejection-fraction
 ---
 
 # Spotting Early ECG Clues Right Ventricular Strain in Adults 58–69 With Obesity and Mild Sleep Apnea

@@ -10,6 +10,16 @@ primaryKeyword: winter indoor air quality and heart health seniors
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    the-hidden-dangers-of-indoor-heating-on-blood-pressure
+  - >-
+    how-winter-indoor-air-pollution-pm2-5-from-heaters-candles-elevates-endothelial-microparticle-counts-in-adults-68-with-stable-angina
+  - >-
+    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
+  - >-
+    10-simple-home-adjustments-to-support-blood-pressure-stability-in-winter
+  - >-
+    how-staying-hydrated-in-winter-protects-your-heart-after-70
   - the-hidden-dangers-of-indoor-heating-on-blood-pressure
   - the-best-indoor-exercises-for-blood-pressure-control-in-winter
   - how-vitamin-d-deficiency-impacts-heart-health-in-winter

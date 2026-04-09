@@ -8,6 +8,16 @@ primaryKeyword: 'medications that lower blood pressure indirectly seniors'
 topicCluster: medication-safety
 image: ''
 relatedSlugs:
+  - >-
+    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
+  - >-
+    is-low-blood-pressure-dangerous-for-seniors
+  - >-
+    7-hidden-medication-interactions-that-raise-blood-pressure-after-age-60-including-common-antidepressants-antihistamines-and-topical-nsaids
+  - >-
+    when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension
+  - >-
+    how-standing-up-too-fast-affects-blood-pressure-in-older-adults
   - could-your-medications-be-raising-your-blood-pressure
   - >-
     can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75

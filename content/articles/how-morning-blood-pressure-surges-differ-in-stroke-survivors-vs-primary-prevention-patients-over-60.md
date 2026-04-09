@@ -13,9 +13,13 @@ relatedSlugs:
   - >-
     why-your-morning-blood-pressure-spike-may-not-be-white-coat-and-how-it-predicts-stroke-risk-in-hypertensive-women-over-70
   - >-
+    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
+  - >-
+    what-causes-morning-bp-surges-in-adults-57-69-with-untreated-sleep-apnea-even-when-cpap-use-is-good-enough
+  - >-
     7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
   - >-
-    what-your-blood-pressure-numbers-mean-after-a-stroke-new-targets-and-redefining-normal-for-recovery
+    ambulatory-blood-pressure-report-interpretation
   - why-morning-blood-pressure-surges-are-more-dangerous-in-winter
   - >-
     when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss

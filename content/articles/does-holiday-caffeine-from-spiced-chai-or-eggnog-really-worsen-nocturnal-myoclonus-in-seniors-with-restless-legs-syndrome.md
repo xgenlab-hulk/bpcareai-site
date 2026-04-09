@@ -8,6 +8,16 @@ primaryKeyword: 'caffeine holiday drinks restless legs syndrome seniors'
 topicCluster: special-populations
 image: ''
 relatedSlugs:
+  - >-
+    can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors
+  - >-
+    warning-signs-of-hidden-iron-overload-after-holiday-red-meat-consumption-in-men-69-with-hfe-gene-variant-and-elevated-ferritin
+  - >-
+    best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
+  - >-
+    12-science-backed-ways-to-prevent-post-holiday-delirium-episodes-in-adults-78-with-mild-dementia-and-polypharmacy
+  - >-
+    can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
   - can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors
   - >-
     how-late-night-eggnog-consumption-alters-cardiac-repolarization-reserve-in-adults-58-65-with-subclinical-qt-prolongation

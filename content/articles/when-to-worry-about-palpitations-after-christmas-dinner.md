@@ -10,6 +10,16 @@ primaryKeyword: heart palpitations after holiday dinner
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    post-dinner-palpitations-holiday-heart-syndrome
+  - >-
+    5-surprising-foods-that-may-trigger-holiday-heart-syndrome
+  - >-
+    the-truth-about-benign-holiday-palpitations-are-they-really-harmless
+  - >-
+    quick-ways-to-calm-a-racing-heart-during-a-holiday-event
+  - >-
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - when-to-worry-about-chest-discomfort-after-a-big-holiday-meal
   - when-to-worry-about-weight-gain-after-a-family-gathering
   - quick-ways-to-calm-a-racing-heart-during-a-holiday-event

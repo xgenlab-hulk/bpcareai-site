@@ -11,15 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    aspirin-primary-prevention-cacs-score
+    how-sleep-apnea-severity-predicts-diabetic-retinopathy-progression-rate-in-adults-64-80-with-non-proliferative-dr-and-ahi-15
   - >-
-    what-are-the-earliest-retinal-microvascular-changes-that-predict-coronary-artery-calcification-in-men-52-64-with-non-alcoholic-fatty-liver-disease
+    reverse-early-diabetic-retinopathy-naturally
   - >-
-    a-vs-b-daily-low-dose-aspirin-vs-colchicine-for-secondary-prevention-in-adults-64-79-with-prior-myocardial-infarction-and-elevated-hs-crp
+    10-foods-that-worsen-diabetic-retinopathy-progression-even-with-normal-blood-pressure-and-ldl-in-adults-60-with-early-nonproliferative-changes
   - >-
-    warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
+    12-science-backed-ways-to-protect-retinal-pericytes-and-reduce-early-diabetic-retinopathy-risk-without-medication
   - >-
-    low-dose-aspirin-prostacyclin-thromboxane-vasoconstriction
+    10-silent-signs-your-blood-pressure-is-damaging-your-retina-even-with-controlled-readings-in-adults-63-with-type-2-diabetes
 ---
 
 # What the Evidence Shows: Aspirin, Diabetic Retinopathy, and Men Aged 68–80 With Early-Stage Disease

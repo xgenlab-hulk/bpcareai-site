@@ -10,6 +10,16 @@ primaryKeyword: does sitting too much affect your heart after 60
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    why-sitting-too-long-raises-blood-pressure
+  - >-
+    how-retirement-changes-affect-heart-health
+  - >-
+    how-much-exercise-do-you-need-to-reduce-heart-disease-risk-after-65
+  - >-
+    heavy-legs-sitting-heart-strain-seniors
+  - >-
+    can-sleep-duration-predict-heart-disease-risk-after-55
   - how-social-isolation-increases-heart-disease-risk-after-60
   - can-strength-training-lower-heart-disease-risk-after-60
   - how-retirement-changes-affect-heart-health

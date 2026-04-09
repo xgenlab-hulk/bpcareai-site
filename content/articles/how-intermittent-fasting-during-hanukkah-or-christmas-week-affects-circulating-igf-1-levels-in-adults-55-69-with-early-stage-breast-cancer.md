@@ -10,6 +10,16 @@ primaryKeyword: holiday fasting IGF-1 breast cancer survivors 55-69
 topicCluster: special-populations
 image: ''
 relatedSlugs:
+  - >-
+    can-intermittent-fasting-help-balance-holiday-eating-for-active-retirees
+  - >-
+    what-research-says-about-intermittent-fasting-during-multigenerational-holidays-for-adults-58-74-with-mild-cognitive-impairment
+  - >-
+    weekday-intermittent-fasting-holidays
+  - >-
+    what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
+  - >-
+    can-intermittent-fasting-help-reset-blood-sugar-after-christmas
   - can-intermittent-fasting-help-reset-blood-sugar-after-christmas
   - >-
     what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time

@@ -10,6 +10,16 @@ primaryKeyword: chest discomfort after eating heart warning signs
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    is-chest-pain-always-a-sign-of-heart-disease-in-seniors
+  - >-
+    when-to-worry-about-palpitations-after-christmas-dinner
+  - >-
+    when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70
+  - >-
+    warning-signs-your-senior-loved-one-is-using-food-to-cope-with-holiday-grief-or-loneliness
+  - >-
+    7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72
   - when-to-worry-about-weight-gain-after-a-family-gathering
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
   - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60

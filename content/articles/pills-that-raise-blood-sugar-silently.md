@@ -11,9 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    ppi-use-vitamin-b12-neuropathy-diabetes
+    periodontitis-postprandial-hyperglycemia
   - >-
-    how-chronic-constipation-alters-gut-derived-glp-1-secretion-and-worsens-glycemic-variability-in-adults-60-with-type-2-diabetes
+    how-chronic-constipation-affects-postprandial-glucose-in-adults-67-with-type-2-diabetes-and-pelvic-floor-dysfunction
+  - >-
+    normalize-glucose-variability-72-hours-magnesium
+  - >-
+    7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
+  - >-
+    pom-inhibitors-atherosclerosis-gut-microbiome
 
   - >-
     pom-inhibitors-atherosclerosis-gut-microbiome

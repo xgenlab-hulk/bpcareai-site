@@ -10,6 +10,16 @@ primaryKeyword: sugar free cookies kidney safe for CKD seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    the-truth-about-sugar-free-holiday-punch-for-adults-73-with-chronic-kidney-disease-why-erythritol-isn-t-always-safer-than-sucrose
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
+  - >-
+    are-sugar-free-treats-actually-safe-for-diabetics-over-65
+  - >-
+    the-complete-guide-to-reading-holiday-food-labels-for-hidden-carbs-especially-for-adults-with-chronic-kidney-disease-and-diabetes
+  - >-
+    the-truth-about-low-sugar-protein-powders-for-adults-62-79-with-stage-3-ckd-and-diabetic-nephropathy
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - >-
     the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment

@@ -10,6 +10,16 @@ primaryKeyword: fiber to prevent holiday blood sugar spikes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    the-role-of-fiber-in-controlling-blood-sugar-after-50
+  - >-
+    12-smart-swaps-to-manage-blood-sugar-during-holiday-meals
+  - >-
+    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
+  - >-
+    quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
+  - >-
+    7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
   - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
   - 10-high-fiber-holiday-foods-that-support-digestion-after-50
   - 5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties

@@ -11,11 +11,11 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
-  - >-
     how-holiday-table-salt-substitutes-affect-taste-perception-and-sodium-intake-in-adults-74-with-age-related-hypogeusia-and-hypertension
   - >-
     how-chronic-loneliness-alters-taste-perception-during-holiday-meals-in-adults-69-82-with-reduced-gustatory-bud-density-and-depression
+  - >-
+    the-complete-guide-to-eating-well-at-holiday-parties-without-asking-questions-or-drawing-attention-for-seniors-70-with-hearing-loss-and-social-anxiety
   - >-
     what-are-the-earliest-taste-perception-changes-that-make-holiday-spices-feel-too-strong-after-age-68
   - >-

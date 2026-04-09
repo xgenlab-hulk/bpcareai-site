@@ -8,6 +8,16 @@ primaryKeyword: 'walking after each meal vs one daily walk for prediabetes blood
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    a-vs-b-morning-walk-before-breakfast-vs-30-minutes-after-dinner-impact-on-24-hour-glucose-variability-in-adults-60-76-with-postprandial-hyperglycemia
+  - >-
+    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
+  - >-
+    can-walking-after-meals-lower-blood-sugar-in-older-adults
+  - >-
+    post-dinner-walking-vs-breathing-glucose
+  - >-
+    walking-vs-standing-post-dinner-glucose
   - can-walking-after-meals-lower-blood-sugar-in-older-adults
   - >-
     quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy

@@ -9,15 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    cardiac-amyloidosis-early-detection-orthostasis
-  - >-
-    when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss
-  - >-
-    cardiac-amyloidosis-early-detection-orthostasis
-  - >-
-    when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss
-  - >-
     when-to-suspect-cardiac-amyloidosis-in-men-73-with-unexplained-left-ventricular-hypertrophy-bilateral-carpal-tunnel-syndrome-and-orthostatic-dizziness
+  - >-
+    red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
+  - >-
+    when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss
+  - >-
+    cardiac-amyloidosis-diagnosis-low-voltage-ecg-older-men
+  - >-
+    cardiac-amyloidosis-early-detection-orthostasis
 ---
 
 # When Cardiac Amyloidosis vs Diastolic Failure Should Raise a Red Flag in Older Adults

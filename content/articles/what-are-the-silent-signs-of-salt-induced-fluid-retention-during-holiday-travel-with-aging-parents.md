@@ -10,6 +10,16 @@ primaryKeyword: salt-induced fluid retention signs in seniors during travel
 topicCluster: renal-health
 image: ''
 relatedSlugs:
+  - >-
+    what-are-the-earliest-signs-your-holiday-weight-gain-is-actually-fluid-retention-not-fat-in-women-over-65-with-atrial-fibrillation
+  - >-
+    why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
+  - >-
+    warning-signs-your-holiday-weight-gain-is-actually-fluid-retention-especially-if-you-re-on-amlodipine-and-over-68
+  - >-
+    7-silent-signs-your-sodium-intake-spiked-at-thanksgiving-dinner-especially-if-you-re-on-an-arb-and-over-72
+  - >-
+    when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70
   - heart-disease-warning-signs-that-appear-years-in-advance
   - why-sudden-weight-gain-could-be-a-red-flag-for-your-heart
   - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties

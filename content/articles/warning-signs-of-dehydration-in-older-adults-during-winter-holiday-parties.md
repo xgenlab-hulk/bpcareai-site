@@ -10,6 +10,16 @@ primaryKeyword: dehydration signs in seniors during winter
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
+  - >-
+    simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
+  - >-
+    what-are-the-earliest-signs-of-holiday-induced-hydration-decline-in-adults-78-with-reduced-thirst-perception-and-chronic-constipation
+  - >-
+    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
+  - >-
+    the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use
+  - >-
+    warning-signs-your-holiday-leftovers-are-causing-subclinical-dehydration-in-adults-80-with-diminished-thirst-response-and-mild-hyponatremia-risk
   - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
   - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
   - how-dehydration-affects-blood-sugar-readings-in-older-diabetics

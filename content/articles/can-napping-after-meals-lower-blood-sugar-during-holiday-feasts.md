@@ -8,6 +8,16 @@ primaryKeyword: 'does napping after meals affect blood sugar in older adults'
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - >-
+    can-walking-after-meals-lower-blood-sugar-in-older-adults
+  - >-
+    why-your-afternoon-napping-habit-might-be-raising-fasting-glucose-even-with-normal-bedtime-snacks-in-adults-65-with-dawn-phenomenon
+  - >-
+    quick-10-minute-workouts-to-lower-blood-sugar-after-christmas-dinner
+  - >-
+    5-easy-morning-routines-to-stabilize-blood-sugar-after-a-holiday-feast
   - can-walking-after-meals-lower-blood-sugar-in-older-adults
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes

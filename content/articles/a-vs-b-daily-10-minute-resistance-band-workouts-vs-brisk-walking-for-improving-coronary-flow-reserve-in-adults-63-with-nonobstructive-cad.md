@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     a-vs-b-daily-12-minute-seated-resistance-band-routine-vs-25-minute-brisk-walking-impact-on-pulse-wave-velocity-in-adults-65-with-arterial-stiffness
   - >-
-    tai-chi-vs-treadmill-microvascular-angina
+    a-vs-b-daily-10-minute-resistance-band-routine-vs-nordic-walking-for-improving-stroke-volume-index-in-adults-73-with-preserved-ejection-fraction
   - >-
-    seated-resistance-band-hypertension-elderly
+    coronary-microvascular-reactivity-natural-support
   - >-
-    does-daily-10-minute-post-dinner-walking-really-reduce-holiday-induced-postprandial-endothelial-dysfunction-in-adults-72-with-mild-carotid-plaque
+    microvascular-coronary-reactivity-natural
   - >-
-    best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
+    cold-hand-immersion-coronary-flow-reserve
 ---
 
 # Resistance Band vs Walking for Coronary Flow: What’s Best for Heart Health After 63?

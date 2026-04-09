@@ -9,15 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-holiday-social-isolation-worsens-postprandial-glucose-variability-in-adults-78-living-alone-and-using-insulin
+  - >-
     how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70
   - >-
-    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+    the-link-between-loneliness-during-holidays-and-poor-diabetes-control
   - >-
-    how-social-isolation-after-age-70-alters-circadian-cortisol-rhythms-and-elevates-nighttime-systolic-pressure-independent-of-loneliness
+    7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
   - >-
-    how-social-isolation-accelerates-carotid-intima-media-thickness-progression-and-why-that-predicts-systolic-bp-rise-within-2-years-in-adults-63-79
-  - >-
-    the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
+    how-social-isolation-alters-hippocampal-glucose-metabolism-and-increases-risk-of-hypoglycemia-unawareness-in-adults-73-living-alone-with-t2d
 ---
 
 # How Social Isolation During the Holidays Affects Fasting Glucose in Older Adults with Type 2 Diabetes

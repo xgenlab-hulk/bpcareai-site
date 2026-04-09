@@ -10,6 +10,16 @@ primaryKeyword: mindful eating benefits for seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    warning-signs-your-senior-loved-one-is-using-food-to-cope-with-holiday-grief-or-loneliness
+  - >-
+    how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80
+  - >-
+    natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia
+  - >-
+    the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
+  - >-
+    how-social-eating-rituals-like-passing-the-mashed-potatoes-or-toasting-at-midnight-disrupt-glycemic-awareness-in-adults-with-mild-cognitive-impairment
   - 5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60

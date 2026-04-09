@@ -9,9 +9,15 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    simple-steps-to-lower-central-aortic-pressure-in-just-7-days-using-only-a-kitchen-scale-a-stopwatch-and-your-morning-tea-ritual
+    central-aortic-pressure-foods-74-pulse
+  - >-
+    best-breathing-patterns-for-reducing-central-systolic-pressure-in-adults-55-69-with-elevated-augmentation-index-and-high-frequency-hrv-suppression
   - >-
     nasal-breathing-central-aortic-pressure
+  - >-
+    quick-ways-to-normalize-morning-pulse-pressure-without-increasing-medication-in-adults-70-83-with-aortic-stiffness-and-orthostatic-dizziness
+  - >-
+    central-aortic-pressure-foods-90-min
 
   - >-
     quick-ways-to-normalize-morning-pulse-pressure-without-increasing-medication-in-adults-70-83-with-aortic-stiffness-and-orthostatic-dizziness

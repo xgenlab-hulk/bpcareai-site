@@ -9,13 +9,13 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+    7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker
   - >-
-    warning-signs-your-holiday-turkey-gravy-is-causing-subclinical-hyperkalemia-especially-in-adults-73-with-stage-3-ckd-and-ace-inhibitor-use
+    7-hidden-sodium-traps-in-healthy-looking-holiday-salads-that-worsen-fluid-retention-in-adults-74-with-mild-heart-failure
   - >-
-    the-truth-about-low-sodium-canned-soups-for-adults-with-heart-failure-and-preserved-ejection-fraction-over-65
+    holiday-foods-heart-failure-seniors
   - >-
-    a-vs-b-homemade-bone-broth-vs-store-bought-low-sodium-broth-for-seniors-with-heart-failure-and-nyha-class-ii-symptoms
+    when-to-worry-about-sudden-swelling-after-thanksgiving-dinner-in-adults-70-with-heart-failure-and-diuretic-resistant-edema
   - >-
     5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 ---

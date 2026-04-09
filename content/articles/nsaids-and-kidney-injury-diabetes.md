@@ -10,9 +10,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    nsaid-renal-glucose-reabsorption-ckd
+  - >-
     how-chronic-low-dose-nsaid-use-alters-renal-prostaglandin-e2-synthesis-in-adults-60-72-with-hypertension-and-normal-egfr
   - >-
-    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-diabetic-kidney-disease-in-adults-55-73-with-albuminuria
+    7-common-mistakes-that-accelerate-diabetic-nephropathy-progression-even-with-ace-inhibitors-and-egfr-60-in-adults-67-with-microalbuminuria
+  - >-
+    how-chronic-low-dose-nsaid-use-after-age-65-alters-renin-angiotensin-feedback-and-why-it-masks-early-diastolic-hypertension
+  - >-
+    how-kidney-function-declines-faster-in-older-adults-with-diabetes
   - how-kidney-function-declines-faster-in-older-adults-with-diabetes
   - >-
     the-truth-about-low-sugar-protein-powders-for-adults-62-79-with-stage-3-ckd-and-diabetic-nephropathy

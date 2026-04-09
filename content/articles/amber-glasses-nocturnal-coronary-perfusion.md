@@ -17,7 +17,7 @@ relatedSlugs:
   - >-
     simple-steps-to-reduce-nocturnal-coronary-vasospasm-risk-during-late-night-tv-viewing-not-just-sleep-for-adults-65-with-variant-prinzmetal-s-angina
   - >-
-    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
+    sunlight-vs-blue-blocking-glasses-blood-pressure-dip
 ---
 
 # How Amber Glasses Nocturnal Coronary Perfusion Supports Heart Health in Older Adults

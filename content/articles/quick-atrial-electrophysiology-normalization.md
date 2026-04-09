@@ -9,15 +9,15 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
+    can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history
+  - >-
     quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
   - >-
     simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction
   - >-
-    cold-exposure-and-paroxysmal-afib-in-elderly
+    post-dinner-palpitations-holiday-heart-syndrome
   - >-
-    cold-face-immersion-baroreflex-seniors
-  - >-
-    left-atrial-appendage-flow-velocity-breathing
+    hosting-holiday-guests-atrial-protection
 ---
 
 # Quick Atrial Electrophysiology Normalization After Holiday Meals — Gentle Strategies for Adults 70+

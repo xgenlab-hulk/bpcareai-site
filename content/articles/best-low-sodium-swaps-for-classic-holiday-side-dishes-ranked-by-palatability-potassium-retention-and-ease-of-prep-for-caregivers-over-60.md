@@ -9,7 +9,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    7-hidden-sodium-traps-in-healthy-holiday-side-dishes-and-how-to-swap-them-without-losing-flavor-especially-for-adults-58-with-stage-2-ckd
+  - >-
+    5-things-you-should-know-before-accepting-a-holiday-potluck-dish-if-you-re-on-a-low-potassium-renal-diet-at-age-74
+  - >-
+    best-low-sodium-high-potassium-side-dishes-for-adults-75-with-heart-failure-and-mild-cognitive-impairment-ready-in-under-20-minutes
+  - >-
     7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker
+  - >-
+    heart-healthy-casserole-swaps-seniors
   - 7-smart-swaps-for-healthier-holiday-meals-after-65
   - >-
     does-bringing-your-own-condiment-change-the-game-how-custom-sauces-and-dressings-improve-adherence-to-low-sodium-diets-during-holiday-gatherings

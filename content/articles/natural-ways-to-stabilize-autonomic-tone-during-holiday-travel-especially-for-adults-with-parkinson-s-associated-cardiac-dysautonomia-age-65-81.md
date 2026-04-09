@@ -11,9 +11,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    natural-autonomic-stabilization-holiday-heart
+  - >-
+    how-grandchildren-s-candy-bowls-trigger-autonomic-dysregulation-in-adults-72-with-early-parkinson-s-and-what-to-eat-instead
+  - >-
     natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
   - >-
-    best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
+    what-are-the-earliest-signs-of-autonomic-failure-masquerading-as-labile-hypertension-in-adults-70-with-parkinson-s-disease-and-orthostatic-intolerance
+  - >-
+    10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
   - quick-ways-to-calm-a-racing-heart-during-a-holiday-event
   - 12-simple-ways-to-prevent-holiday-heart-syndrome-naturally
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm

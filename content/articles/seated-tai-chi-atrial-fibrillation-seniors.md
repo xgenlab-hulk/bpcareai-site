@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     chair-tai-chi-after-afib-ablation-safety
   - >-
-    best-low-impact-resistance-exercises-for-adults-82-with-severe-osteoporosis-and-atrial-fibrillation-on-apixaban
-  - >-
     best-breathing-patterns-to-reduce-atrial-fibrillation-burden-in-adults-62-with-paroxysmal-af-and-elevated-hs-crp
   - >-
     can-daily-12-minute-seated-tai-chi-lower-24-hour-systolic-load-in-adults-71-with-isolated-systolic-hypertension-and-mild-gait-instability
+  - >-
+    best-low-impact-resistance-exercises-for-adults-82-with-severe-osteoporosis-and-atrial-fibrillation-on-apixaban
   - >-
     left-atrial-appendage-flow-velocity-breathing
 ---

@@ -8,6 +8,16 @@ primaryKeyword: 'energy drinks and heart risk for seniors at parties'
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:
+  - >-
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - >-
+    best-non-alcoholic-holiday-drinks-for-heart-health-after-50
+  - >-
+    why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
+  - >-
+    how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
+  - >-
+    7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
   - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
   - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
   - the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50

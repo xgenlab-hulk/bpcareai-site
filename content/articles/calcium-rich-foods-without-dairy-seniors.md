@@ -10,6 +10,16 @@ primaryKeyword: calcium rich foods without dairy for seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    nutrient-dense-foods-low-appetite-seniors
+  - >-
+    5-things-every-woman-over-62-should-know-about-calcium-fortified-eggnog-and-bone-mineral-density-especially-with-long-term-ppi-use
+  - >-
+    soft-foods-seniors-no-teeth
+  - >-
+    5-things-every-woman-over-64-should-know-about-holiday-cheese-boards-and-bone-turnover-markers-especially-with-long-term-calcium-supplementation
+  - >-
+    5-things-every-woman-over-65-with-osteoporosis-should-know-before-eating-holiday-roast-beef-and-gravy
   - nutrient-dense-foods-low-appetite-seniors
   - 30g-fiber-safe-after-65
   - >-

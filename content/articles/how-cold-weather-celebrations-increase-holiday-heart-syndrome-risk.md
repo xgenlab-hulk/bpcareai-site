@@ -10,6 +10,16 @@ primaryKeyword: holiday heart syndrome risk in cold weather
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:
+  - >-
+    why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - >-
+    5-silent-signs-your-heart-is-struggling-in-cold-weather
+  - >-
+    why-your-holiday-heart-palpitations-might-be-caused-by-cold-induced-coronary-vasoconstriction-not-alcohol-in-adults-59-with-raynaud-s-phenomenon
+  - >-
+    when-to-worry-about-chest-tightness-in-cold-weather
+  - >-
+    stress-blood-pressure-winter
   - the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - >-

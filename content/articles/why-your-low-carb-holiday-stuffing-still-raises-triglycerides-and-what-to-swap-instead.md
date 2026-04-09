@@ -9,9 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    holiday-healthy-swap-triglyceride-lipoprotein
+  - >-
     the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
   - >-
-    holiday-healthy-swap-triglyceride-lipoprotein
+    best-low-glycemic-high-fiber-stuffing-variations-for-adults-58-74-with-insulin-resistance-and-ibs-c
+  - >-
+    7-holiday-foods-that-spike-postprandial-glucose-without-tasting-sweet-especially-for-adults-63-with-long-standing-type-2-diabetes
+  - >-
+    fruitcake-vs-almond-flour-loaf-diabetes
   - low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
   - >-
     7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control

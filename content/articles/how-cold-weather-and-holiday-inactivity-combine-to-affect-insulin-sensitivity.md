@@ -10,6 +10,16 @@ primaryKeyword: cold weather and insulin resistance in older adults
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:
+  - >-
+    how-cold-weather-affects-blood-sugar-in-people-with-diabetes
+  - >-
+    5-things-everyone-over-60-should-know-about-insulin-titration-during-winter-when-basal-needs-shift-due-to-reduced-cutaneous-blood-flow
+  - >-
+    why-your-blood-sugar-might-be-higher-in-december-even-with-good-habits
+  - >-
+    how-cold-weather-impacts-appetite-and-food-choices-in-seniors-during-the-holidays
+  - >-
+    when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
   - how-cold-weather-affects-blood-sugar-in-people-with-diabetes
   - why-winter-increases-heart-attack-risk-in-seniors-over-70
   - the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors

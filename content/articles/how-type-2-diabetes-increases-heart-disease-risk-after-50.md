@@ -10,6 +10,16 @@ primaryKeyword: why does type 2 diabetes raise heart disease risk after 50
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    how-chronic-inflammation-worsens-type-2-diabetes-after-50
+  - >-
+    how-to-manage-holiday-heart-syndrome-risk-with-type-2-diabetes
+  - >-
+    is-180-after-meals-normal-55-type-2
+  - >-
+    how-sleep-apnea-impacts-type-2-diabetes-control-after-50
+  - >-
+    myths-vs-facts-my-a1c-is-fine-so-my-heart-is-safe-what-myocardial-strain-imaging-reveals-in-adults-57-74-with-normal-a1c-but-elevated-troponin-t
   - how-chronic-inflammation-worsens-type-2-diabetes-after-50
   - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
   - recognizing-silent-heart-attacks-in-diabetics-over-60

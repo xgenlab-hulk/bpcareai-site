@@ -11,15 +11,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    dental-inflammation-coronary-microvascular-flow
+  - >-
+    how-chronic-low-grade-gum-inflammation-drives-coronary-plaque-instability-and-why-scaling-alone-isn-t-enough-for-adults-62-with-periodontitis-and-cad
+  - >-
     how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension
   - >-
     gum-disease-and-coronary-artery-calcification
   - >-
-    how-chronic-low-grade-inflammation-from-periodontitis-elevates-nighttime-blood-pressure-in-adults-61-76-with-hypertension-and-poor-dental-access
-  - >-
-    dental-inflammation-coronary-microvascular-flow
-  - >-
-    how-chronic-low-grade-inflammation-from-gum-disease-raises-a1c-in-adults-58-74-with-type-2-diabetes-and-poor-dental-access
+    gum-disease-and-coronary-artery-function
 ---
 
 # How Dental Inflammation and Coronary Plaque Stability Are Connected in Older Adults With Heart Disease

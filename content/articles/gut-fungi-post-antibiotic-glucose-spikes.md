@@ -9,13 +9,15 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
-    periodontitis-postprandial-hyperglycemia
-  - >-
     12-science-backed-ways-to-protect-your-gut-microbiome-from-antibiotic-induced-dysbiosis-if-you-re-managing-diabetes-and-over-64
   - >-
-    metformin-gut-microbiome-butyrate-constipation
-  - >-
     10-unexpected-medication-interactions-that-spike-blood-glucose-in-adults-62-taking-metformin-and-probiotics
+  - >-
+    what-causes-persistent-postprandial-hyperglycemia-after-low-carb-meals-in-adults-64-with-long-standing-diabetes-and-elevated-gdf-15-levels
+  - >-
+    cranberry-juice-blood-glucose-control
+  - >-
+    pills-that-raise-blood-sugar-silently
 ---
 
 # Understanding Gut Fungi Post-Antibiotic Glucose Spikes in Adults 59–73 With Recurrent UTIs and Long-Term Metformin Use

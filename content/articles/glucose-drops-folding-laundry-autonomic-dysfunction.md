@@ -9,15 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    cold-water-face-immersion-insulin-sensitivity
+    brittle-diabetes-autonomic-neuropathy-guide
   - >-
-    barefoot-walking-glycemic-variability-seniors
+    blood-pressure-drops-walking-diabetes-neuropathy
   - >-
-    social-dancing-glycemic-variability-orthostatic-hypotension
+    cross-legged-blood-pressure-autonomic-dysregulation
   - >-
-    what-causes-persistent-morning-hypoglycemia-in-adults-75-on-basal-bolus-regimens-when-cgm-shows-no-nighttime-lows
+    does-daily-5-minute-diaphragmatic-breathing-lower-postprandial-glucose-spikes-in-adults-64-with-high-lf-hf-ratio-and-type-2-diabetes
   - >-
-    diaphragmatic-breathing-fasting-glucose
+    fatigue-after-meals-diabetes-elderly
 ---
 
 # Why You Might Notice Glucose Drops While Folding Laundry — Understanding Autonomic Changes After Age 58

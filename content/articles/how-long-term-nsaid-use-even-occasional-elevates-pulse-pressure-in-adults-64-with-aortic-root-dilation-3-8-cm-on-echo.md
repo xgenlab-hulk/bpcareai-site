@@ -9,15 +9,15 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
-  - >-
     the-complete-guide-to-interpreting-pulse-pressure-widening-in-adults-76-with-aortic-valve-sclerosis-not-just-aortic-stenosis
   - >-
-    myths-vs-facts-my-bp-is-fine-because-my-doctor-never-mentioned-it-in-adults-54-67-with-elevated-pulse-pressure-and-normal-office-sbp-dbp
+    how-chronic-low-dose-nsaid-use-after-age-65-alters-renin-angiotensin-feedback-and-why-it-masks-early-diastolic-hypertension
+  - >-
+    nasal-decongestants-and-pulse-pressure-in-asthma
+  - >-
+    quick-ways-to-normalize-morning-pulse-pressure-without-increasing-medication-in-adults-70-83-with-aortic-stiffness-and-orthostatic-dizziness
   - >-
     foods-stabilize-pulse-pressure-seniors-orthostasis
-  - >-
-    low-dose-aspirin-prostacyclin-thromboxane-vasoconstriction
 ---
 
 # How NSAID Use Affects Pulse Pressure in Older Adults With Aortic Root Dilation

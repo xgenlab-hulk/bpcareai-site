@@ -10,6 +10,16 @@ primaryKeyword: loneliness and heart thickening in seniors
 topicCluster: special-populations
 image: ''
 relatedSlugs:
+  - >-
+    how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk
+  - >-
+    how-social-isolation-impacts-heart-disease-risk-in-older-adults
+  - >-
+    how-chronic-loneliness-alters-heart-rate-variability-and-increases-atrial-fibrillation-risk-in-adults-75-living-alone
+  - >-
+    how-chronic-loneliness-alters-heart-rate-variability-in-adults-65-and-why-that-predicts-5-year-cardiovascular-mortality-risk
+  - >-
+    how-chronic-holiday-social-isolation-alters-ventricular-repolarization-reserve-evidence-from-24-hour-qtc-monitoring-in-adults-69-living-alone
   - how-social-isolation-impacts-heart-disease-risk-in-older-adults
   - how-social-isolation-increases-heart-disease-risk-after-60
   - >-

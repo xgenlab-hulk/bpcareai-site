@@ -11,15 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-low-grade-inflammation-from-untreated-gum-disease-accelerates-insulin-resistance-in-adults-58-72-with-prediabetes
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-raises-a1c-in-adults-58-74-with-type-2-diabetes-and-poor-dental-access
+  - >-
+    how-gum-disease-is-linked-to-diabetes-complications-in-older-adults
+  - >-
+    how-chronic-low-grade-gum-inflammation-accelerates-beta-cell-dysfunction-in-adults-62-with-long-standing-type-2-diabetes
+  - >-
     how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
-  - >-
-    gum-disease-and-coronary-artery-calcification
-  - >-
-    how-chronic-low-grade-inflammation-from-periodontitis-elevates-nighttime-blood-pressure-in-adults-61-76-with-hypertension-and-poor-dental-access
-  - >-
-    periodontitis-postprandial-hyperglycemia
-  - >-
-    gum-disease-and-coronary-artery-function
 ---
 
 # How Gum Disease Fuels Diabetic Kidney Disease Progression in Adults 55–73 With Albuminuria

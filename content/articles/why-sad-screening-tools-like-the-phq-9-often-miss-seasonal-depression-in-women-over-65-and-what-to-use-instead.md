@@ -10,6 +10,16 @@ primaryKeyword: PHQ-9 seasonal depression screening older women
 topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
+  - >-
+    10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore
+  - >-
+    7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
+  - >-
+    why-older-men-often-hide-their-seasonal-depression-symptoms
+  - >-
+    what-are-the-earliest-behavioral-red-flags-of-seasonal-depression-in-women-over-65-before-mood-changes-appear
+  - >-
+    can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
   - why-older-women-are-more-vulnerable-to-seasonal-depression-in-winter
   - >-
     7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging

@@ -11,9 +11,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-loneliness-alters-heart-rate-variability-in-adults-65-and-why-that-predicts-5-year-cardiovascular-mortality-risk
+  - >-
     how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk
   - >-
     the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
+  - >-
+    how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone
+  - >-
+    how-social-isolation-impacts-heart-disease-risk-in-older-adults
   - how-social-isolation-impacts-heart-disease-risk-in-older-adults
   - how-social-isolation-increases-heart-disease-risk-after-60
   - >-

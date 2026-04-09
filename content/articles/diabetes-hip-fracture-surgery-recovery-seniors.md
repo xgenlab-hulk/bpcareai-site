@@ -8,6 +8,16 @@ primaryKeyword: managing diabetes after hip fracture surgery over 79
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    the-link-between-diabetes-and-slow-healing-in-older-adults
+  - >-
+    the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
+  - >-
+    how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
+  - >-
+    the-complete-guide-to-managing-diabetes-during-heatwaves-for-adults-72-with-diuretic-use-orthostatic-hypotension-and-reduced-thirst-sensation
+  - >-
+    natural-ways-to-improve-glucose-uptake-in-skeletal-muscle-without-exercise-for-adults-79-with-severe-osteoarthritis-bedrest-or-post-hip-replacement
   - managing-diabetes-while-traveling-tips-for-seniors
   - >-
     walking-vs-standing-post-dinner-glucose

@@ -10,15 +10,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
+    smart-nightlight-nocturnal-sbp-elevation
   - >-
     sunlight-vs-blue-blocking-glasses-blood-pressure-dip
   - >-
     simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
   - >-
-    simple-changes-to-your-evening-light-exposure-that-reduce-nocturnal-myocardial-oxygen-demand-in-adults-with-stable-angina-and-sleep-onset-insomnia
+    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
   - >-
-    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
+    low-blue-light-lamps-renin-morning-systolic-pressure
 ---
 
 # How Evening Blue Light Affects Nocturnal Blood Pressure Dipping in Older Adults With Mild Cognitive Impairment

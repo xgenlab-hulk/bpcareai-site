@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     could-your-medications-be-raising-your-blood-pressure
   - >-
-    could-your-medications-be-raising-your-blood-pressure
-  - >-
-    could-your-medications-be-raising-your-blood-pressure
+    when-to-worry-about-a-single-bp-reading-over-180-110-especially-if-you-re-taking-nsaids-antidepressants-or-decongestants
   - >-
     14-medications-that-lower-blood-pressure-indirectly-from-antidepressants-to-antipsychotics-and-why-that-matters-for-frail-seniors
   - >-
-    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
+    7-hidden-blood-pressure-triggers-in-over-the-counter-cold-medicines-for-adults-65-with-stage-1-hypertension-and-mild-orthostatic-hypotension
+  - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
 ---
 
 # 7 Surprising Medications That Can Raise Blood Pressure After Age 60 — And What You Can Do About It

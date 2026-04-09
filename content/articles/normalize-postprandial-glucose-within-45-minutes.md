@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
   - >-
-    quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
-  - >-
     reduce-postprandial-glucose-without-medication
   - >-
-    natural-postprandial-glucose-control-kidney-disease
+    fasting-glucose-myth-postprandial-risk
   - >-
-    normalize-glucose-variability-72-hours-magnesium
+    quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
+  - >-
+    natural-postprandial-glucose-control-kidney-disease
 ---
 
 # How to Normalize Postprandial Glucose Within 45 Minutes — A Gentle, Evidence-Inspired Protocol for Adults 60–68

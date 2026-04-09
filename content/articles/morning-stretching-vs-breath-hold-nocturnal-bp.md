@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     a-vs-b-evening-walk-after-dinner-vs-15-minute-seated-breathing-4-7-8-method-impact-on-nocturnal-systolic-bp-dip-in-adults-68-with-non-dipping-pattern
   - >-
-    tai-chi-vs-muscle-relaxation-for-nocturnal-hypertension
-  - >-
     morning-vs-evening-exercise-nocturnal-hypertension
   - >-
-    morning-sunlight-vs-blue-light-blocking-seniors
+    what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring
   - >-
     normalize-nocturnal-blood-pressure-dipping
+  - >-
+    best-breathing-patterns-for-immediate-bp-reduction-in-adults-60-with-high-lf-hf-ratio-on-hrv-and-morning-anxiety
 ---
 
 # Morning Stretching vs Breath-Hold for Nocturnal BP: Which Works Better for Adults 69+ With Non-Dipping Patterns?

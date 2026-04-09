@@ -8,6 +8,16 @@ primaryKeyword: 'sunnier climate seasonal depression improvement after 70'
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:
+  - >-
+    what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter
+  - >-
+    when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
+  - >-
+    can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
+  - >-
+    7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
+  - >-
+    natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
   - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
   - natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
   - how-winter-depression-affects-heart-health-in-retired-adults

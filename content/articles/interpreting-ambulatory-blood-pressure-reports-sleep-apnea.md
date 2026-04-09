@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     ambulatory-blood-pressure-report-interpretation
   - >-
-    nocturnal-bp-dip-sleep-apnea-mild-cognitive-impairment
+    how-sleep-disordered-breathing-severity-ahi-15-alters-nocturnal-bp-recovery-in-adults-66-82-with-normal-looking-daytime-readings
   - >-
-    the-complete-guide-to-interpreting-home-bp-log-patterns-spotting-masked-hypertension-white-coat-effect-and-circadian-shifts-in-adults-59-71
-  - >-
-    myths-vs-facts-my-bp-is-fine-because-it-s-normal-at-the-doctor-s-office-why-that-misses-24-hour-non-dipping-patterns-in-shift-workers
+    why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh
   - >-
     how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
+  - >-
+    nocturnal-bp-dip-sleep-apnea-mild-cognitive-impairment
 ---
 
 # A Practical Guide to Interpreting Ambulatory Blood Pressure Reports in Older Adults With Sleep Apnea

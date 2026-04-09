@@ -9,11 +9,15 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
+    gluten-free-stuffing-glycemic-impact
+  - >-
+    7-holiday-foods-that-spike-postprandial-glucose-without-tasting-sweet-especially-for-adults-63-with-long-standing-type-2-diabetes
+  - >-
     best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
   - >-
-    the-ultimate-guide-to-stealth-fiber-additions-for-holiday-mashed-potatoes-stuffing-and-gravy-without-changing-taste-or-texture
-  - >-
     best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
+  - >-
+    why-your-low-carb-holiday-stuffing-still-raises-triglycerides-and-what-to-swap-instead
   - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
   - >-
     why-your-low-carb-holiday-stuffing-still-raises-triglycerides-and-what-to-swap-instead

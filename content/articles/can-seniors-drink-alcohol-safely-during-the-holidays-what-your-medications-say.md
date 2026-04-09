@@ -8,6 +8,16 @@ primaryKeyword: 'is it safe for seniors to drink alcohol with medications'
 topicCluster: medication-safety
 image: ''
 relatedSlugs:
+  - >-
+    can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
+  - >-
+    the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50
+  - >-
+    5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics
+  - >-
+    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
+  - >-
+    why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50
   - does-alcohol-raise-blood-sugar-in-older-adults-with-diabetes
   - >-

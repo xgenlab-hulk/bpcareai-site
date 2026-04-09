@@ -10,6 +10,16 @@ primaryKeyword: can gum disease cause heart problems
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    how-poor-dental-hygiene-may-lead-to-heart-disease
+  - >-
+    gum-disease-and-coronary-artery-calcification
+  - >-
+    7-hidden-ways-your-dentist-might-spot-early-heart-disease-especially-if-you-re-a-man-over-65-with-gum-recession-and-no-chest-pain
+  - >-
+    how-chronic-low-grade-gum-inflammation-drives-coronary-plaque-instability-and-why-scaling-alone-isn-t-enough-for-adults-62-with-periodontitis-and-cad
+  - >-
+    how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension
   - how-poor-dental-hygiene-may-lead-to-heart-disease
   - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
   - how-social-isolation-increases-heart-disease-risk-after-60

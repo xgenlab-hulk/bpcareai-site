@@ -11,15 +11,15 @@ topicCluster: autonomic-nervous-regulation
 image: ''
 relatedSlugs:
   - >-
+    low-frequency-vibration-and-baroreflex-seniors
+  - >-
+    carotid-baroreceptor-sensitivity-cooling
+  - >-
+    nasal-breathing-baroreflex-diabetes
+  - >-
     natural-baroreflex-sensitivity-enhancement
   - >-
     traffic-vibration-baroreceptor-sensitivity-hypertension
-  - >-
-    how-chronic-exposure-to-low-frequency-hvac-vibration-alters-baroreflex-sensitivity-in-adults-68-with-isolated-systolic-hypertension
-  - >-
-    post-exercise-blood-pressure-rebound-in-elderly
-  - >-
-    natural-baroreflex-sensitivity-enhancement
 ---
 
 # How Magnetic Mattress Pad Use May Influence Baroreflex Function in Older Adults With Autonomic Neuropathy

@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals
-  - >-
     warning-signs-your-stable-diabetes-is-masking-early-diabetic-cardiomyopathy-even-with-normal-ejection-fraction-and-no-symptoms-in-adults-59-68
   - >-
-    warning-signs-your-stable-diabetes-is-masking-early-diabetic-cardiomyopathy-even-with-normal-ejection-fraction-and-no-symptoms-in-adults-59-68
+    recognizing-silent-heart-attacks-in-diabetics-over-60
   - >-
-    myths-vs-facts-stable-cad-means-no-risk-of-sudden-cardiac-death-in-adults-61-74-with-3-vessel-disease-and-lvef-55
+    what-a1c-too-high-50-year-old
   - >-
-    myths-vs-facts-i-have-no-symptoms-so-my-heart-is-fine-in-adults-53-68-with-subclinical-atherosclerosis-and-normal-stress-echo
+    how-type-2-diabetes-increases-heart-disease-risk-after-50
+  - >-
+    how-to-manage-holiday-heart-syndrome-risk-with-type-2-diabetes
 ---
 
 # “My A1c Is Fine, So My Heart Is Safe” — Why That’s a Dangerous Myth for Adults 57–74 with Diabetes

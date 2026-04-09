@@ -11,15 +11,15 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
+    silent-myocardial-infarction-ecg-patch-monitoring
+  - >-
     ecg-patch-vs-holter-asymptomatic-afib
   - >-
-    silent-myocardial-infarction-ecg-patch-monitoring
+    silent-electrical-heart-deterioration-signs
   - >-
     home-ecg-devices-with-pacemakers-and-anticoagulants
   - >-
     home-bp-cuff-with-ecg-for-afib-seniors
-  - >-
-    silent-electrical-heart-deterioration-signs
 ---
 
 # A Friendly, Practical Guide to Home ECG Patch Interpretation for Seniors

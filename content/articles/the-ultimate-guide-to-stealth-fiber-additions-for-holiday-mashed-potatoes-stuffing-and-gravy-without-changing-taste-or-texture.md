@@ -11,7 +11,13 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
+    best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat
+  - >-
+    10-high-fiber-holiday-foods-that-support-digestion-after-50
+  - >-
+    low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
+  - >-
+    7-hidden-blood-sugar-triggers-in-healthy-holiday-side-dishes-like-sweet-potato-casserole-and-cranberry-relish
   - >-
     best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
   - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd

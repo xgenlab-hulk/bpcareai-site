@@ -10,6 +10,16 @@ primaryKeyword: store-bought holiday meals seniors diabetes
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
+  - >-
+    7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
+  - >-
+    holiday-foods-blood-sugar-bp-seniors-70
+  - >-
+    the-truth-about-senior-friendly-holiday-meal-kits-why-92-fail-to-meet-ada-recommended-sodium-fiber-targets-for-hypertensive-adults-75
+  - >-
+    easy-make-ahead-freezer-meals-to-reduce-holiday-cooking-stress-for-seniors
   - easy-make-ahead-freezer-meals-to-reduce-holiday-cooking-stress-for-seniors
   - >-
     how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out

@@ -9,15 +9,15 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
-    warning-signs-your-blood-pressure-monitor-is-giving-false-readings-especially-if-you-re-71-with-atrial-fibrillation-and-irregular-pulse
-  - >-
-    false-low-blood-pressure-reading-causes
-  - >-
-    false-low-blood-pressure-reading-causes
-  - >-
-    5-things-everyone-over-76-should-know-about-using-blood-pressure-cuffs-with-smartwatches-especially-with-atrial-fibrillation-and-wrist-edema
-  - >-
     home-blood-pressure-cuff-afib-algorithm-errors
+  - >-
+    false-low-blood-pressure-reading-causes
+  - >-
+    home-bp-cuff-with-ecg-for-afib-seniors
+  - >-
+    a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor
+  - >-
+    the-ultimate-guide-to-interpreting-home-blood-pressure-logs-for-adults-65-with-intermittent-atrial-fibrillation-and-variable-readings
 ---
 
 # When Your Blood Pressure Monitor Gives False Readings With Atrial Fibrillation — What to Know After 71

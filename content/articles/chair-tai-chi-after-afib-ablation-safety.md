@@ -9,15 +9,15 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
-    resistance-training-after-aortic-valve-replacement
+    seated-tai-chi-atrial-fibrillation-seniors
   - >-
     12-science-backed-ways-to-reduce-left-atrial-stiffness-within-6-weeks-for-adults-61-76-with-paroxysmal-afib-and-elevated-la-strain-index
   - >-
-    can-you-safely-resume-gardening-after-an-icd-implant-a-safety-first-guide-for-adults-73-with-reduced-ejection-fraction
+    resistance-training-after-aortic-valve-replacement
   - >-
     left-atrial-appendage-flow-velocity-breathing
   - >-
-    guided-imagery-left-atrial-volume-afib-hypertension
+    breathing-techniques-for-left-atrial-pressure
 ---
 
 # Chair Tai Chi After Atrial Fibrillation Ablation: What’s Safe, What’s Not — Evidence-Based Guidance for Adults 61+

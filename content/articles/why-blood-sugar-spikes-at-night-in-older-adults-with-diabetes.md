@@ -10,6 +10,16 @@ primaryKeyword: nighttime blood sugar spikes older adults
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
+  - >-
+    what-causes-rebound-hyperglycemia-after-nocturnal-hypoglycemia-in-adults-over-68-and-why-it-s-often-mistaken-for-insulin-resistance
+  - >-
+    what-causes-persistent-morning-hypoglycemia-in-adults-75-on-basal-bolus-regimens-when-cgm-shows-no-nighttime-lows
+  - >-
+    a-vs-b-continuous-glucose-monitoring-cgm-vs-fingertip-glucose-testing-for-detecting-nocturnal-hypoglycemia-in-adults-75-on-basal-insulin
+  - >-
+    the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
   - meal-timing-strategies-for-better-blood-sugar-control-after-50

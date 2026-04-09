@@ -10,6 +10,16 @@ primaryKeyword: silent heart attack signs in older adults with diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    how-silent-heart-attacks-differ-in-older-adults
+  - >-
+    7-silent-signs-your-diabetic-neuropathy-is-progressing-to-small-fiber-autonomic-dysfunction-especially-if-you-re-67-and-taking-gabapentin
+  - >-
+    silent-myocardial-infarction-ecg-patch-monitoring
+  - >-
+    7-silent-signs-of-diabetic-neuropathy-in-adults-65-that-mimic-arthritis-or-sciatica-even-with-normal-a1c
+  - >-
+    myths-vs-facts-my-a1c-is-fine-so-my-heart-is-safe-what-myocardial-strain-imaging-reveals-in-adults-57-74-with-normal-a1c-but-elevated-troponin-t
   - the-link-between-diabetes-and-slow-healing-in-older-adults
   - heart-disease-in-hispanic-adults-over-50-unique-risk-factors
   - why-blood-pressure-matters-even-if-you-feel-fine

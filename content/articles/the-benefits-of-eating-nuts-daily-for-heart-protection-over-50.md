@@ -10,6 +10,16 @@ primaryKeyword: are nuts good for your heart after age 50
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    can-meditation-reduce-heart-disease-risk-after-50
+  - >-
+    can-mindfulness-meditation-reduce-heart-disease-risk-after-50
+  - >-
+    foods-lower-blood-pressure-naturally-53-68
+  - >-
+    how-fiber-rich-diets-support-heart-health-in-people-over-60
+  - >-
+    can-heart-disease-be-reversed-with-lifestyle-changes-after-50
   - how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors
   - how-fiber-rich-diets-support-heart-health-in-people-over-60
   - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50

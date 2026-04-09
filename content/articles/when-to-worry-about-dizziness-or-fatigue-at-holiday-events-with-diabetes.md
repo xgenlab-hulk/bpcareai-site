@@ -10,6 +10,16 @@ primaryKeyword: diabetes dizziness at holiday events warning signs
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
+  - >-
+    warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know
+  - >-
+    when-to-worry-about-post-meal-dizziness-after-christmas-dinner-in-adults-65-with-diabetes-and-orthostatic-hypotension
+  - >-
+    what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners
+  - >-
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
   - best-blood-sugar-monitoring-practices-during-the-holiday-season

@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+    5-things-you-should-know-before-bringing-a-heart-smart-casserole-to-a-family-gathering-especially-if-you-re-74-with-stage-3-ckd
+  - >-
+    5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
   - >-
     the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
   - >-
-    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+    7-silent-signs-your-holiday-gravy-contains-hidden-phosphate-additives-and-why-that-matters-for-adults-74-with-stage-3-ckd
   - >-
-    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
-  - >-
-    5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
+    7-hidden-sodium-traps-in-healthy-holiday-side-dishes-and-how-to-swap-them-without-losing-flavor-especially-for-adults-58-with-stage-2-ckd
 ---
 
 # What Your “Heart-Healthy” Casserole *Really* Contains — Hidden Sodium, Phosphates, and the Whole Grain Trap

@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     weekday-intermittent-fasting-holidays
   - >-
+    3-simple-steps-to-prevent-post-holiday-hba1c-drift-even-if-you-did-fine-during-the-festivities-in-adults-57-66-with-stable-prediabetes
+  - >-
     what-research-says-about-intermittent-fasting-from-christmas-eve-to-new-year-s-day-for-adults-with-stable-type-2-diabetes-over-62
   - >-
-    3-simple-steps-to-prevent-post-holiday-hba1c-drift-even-if-you-did-fine-during-the-festivities-in-adults-57-66-with-stable-prediabetes
-  - >-
-    3-simple-steps-to-prevent-post-holiday-hba1c-drift-even-if-you-did-fine-during-the-festivities-in-adults-57-66-with-stable-prediabetes
-  - >-
     reduce-hba1c-without-weight-loss
+  - >-
+    can-intermittent-fasting-help-reset-blood-sugar-after-christmas
 ---
 
 # Does Intermittent Fasting During the Holidays Help Lower HbA1c? Insights From a Recent intermittent fasting holidays HbA1c study

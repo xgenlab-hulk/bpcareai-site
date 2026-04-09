@@ -10,6 +10,14 @@ image: ''
 relatedSlugs:
   - >-
     the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
+  - >-
+    can-seniors-drink-alcohol-safely-during-the-holidays-what-your-medications-say
+  - >-
+    beta-blocker-mulled-wine-timing
+  - >-
+    buffer-alcohol-glycemic-vasodilatory-effects
+  - >-
+    the-truth-about-alcohol-and-heart-disease-is-one-drink-a-day-safe
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - does-alcohol-raise-blood-sugar-in-older-adults-with-diabetes
   - >-

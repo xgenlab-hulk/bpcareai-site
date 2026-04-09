@@ -10,15 +10,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    grandparenting-sleep-cortisol-fasting-glucose
-  - >-
-    how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance
-  - >-
-    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
-  - >-
     why-morning-cortisol-spikes-worsen-dawn-phenomenon-in-adults-62-with-long-standing-type-2-diabetes-and-adrenal-fatigue-symptoms
   - >-
-    intergenerational-dining-stress-cortisol-glucose
+    grandparenting-sleep-cortisol-fasting-glucose
+  - >-
+    what-causes-sudden-morning-hyperglycemia-on-christmas-day-even-with-perfect-nighttime-glucose-dawn-phenomenon-vs-somogyi-rebound-in-adults-57-71
+  - >-
+    stabilize-morning-glucose-without-insulin
+  - >-
+    skipping-breakfast-holiday-hyperglycemia-seniors
 ---
 
 # How Intergenerational Cooking Stress Fuels the Cortisol-Driven Dawn Phenomenon in Older Men With Long-Standing Type 2 Diabetes

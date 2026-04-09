@@ -13,6 +13,12 @@ relatedSlugs:
   - >-
     what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80
   - >-
+    what-are-the-earliest-retinal-microvascular-changes-predicting-incident-heart-failure-in-hypertensive-women-over-65
+  - >-
+    how-vision-changes-might-be-linked-to-heart-disease
+  - >-
+    10-silent-signs-your-blood-pressure-is-damaging-your-retina-even-with-controlled-readings-in-adults-63-with-type-2-diabetes
+  - >-
     warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
   - how-vision-changes-might-be-linked-to-heart-disease
   - >-

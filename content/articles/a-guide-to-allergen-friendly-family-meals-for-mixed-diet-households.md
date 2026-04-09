@@ -8,6 +8,16 @@ primaryKeyword: 'how to plan allergen-friendly meals for family gatherings'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
+  - >-
+    5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners
+  - >-
+    why-emotional-eating-at-family-gatherings-is-common-and-how-to-manage-it
+  - >-
+    how-to-talk-to-relatives-about-your-dietary-restrictions-without-offending-anyone
+  - >-
+    best-low-allergen-holiday-side-dishes-for-adults-75-with-late-onset-tree-nut-allergy-and-eosinophilic-esophagitis
   - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
   - best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food

@@ -9,7 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    the-truth-about-senior-friendly-holiday-meal-kits-why-92-fail-to-meet-ada-recommended-sodium-fiber-targets-for-hypertensive-adults-75
+  - >-
+    the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
+  - >-
     the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
+  - >-
+    10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia
+  - >-
+    holiday-foods-blood-sugar-bp-seniors-70
   - the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
   - >-
     10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia

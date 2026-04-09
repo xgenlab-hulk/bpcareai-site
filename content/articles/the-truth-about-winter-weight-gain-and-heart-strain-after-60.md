@@ -10,6 +10,16 @@ primaryKeyword: winter weight gain heart strain after 60
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:
+  - >-
+    why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
+  - >-
+    10-winter-safe-exercises-for-heart-health-after-65
+  - >-
+    does-holiday-weight-gain-predict-1-year-cardiovascular-risk-in-adults-with-metabolic-syndrome-over-58
+  - >-
+    why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - >-
+    how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
   - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
   - the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
   - why-winter-increases-heart-attack-risk-in-seniors-over-70

@@ -11,15 +11,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    quick-ways-to-adjust-your-insulin-to-carb-ratio-when-traveling-across-3-time-zones-without-guessing-or-skipping-doses
+  - >-
+    can-walking-after-meals-lower-blood-sugar-in-older-adults
+  - >-
+    quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+  - >-
     when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
   - >-
-    can-you-safely-switch-from-long-acting-insulin-to-glp-1-ras-after-age-74-a-risk-benefit-framework-for-frail-adults-with-mild-cognitive-impairment
-  - >-
-    simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone
-  - >-
-    rapid-acting-insulin-holiday-dinner-dosing
-  - >-
-    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
+    why-your-morning-walk-may-raise-blood-glucose-instead-of-lowering-it-especially-if-you-re-on-basal-only-insulin-and-over-66
 ---
 
 # Gentle, Safe Insulin-to-Carb Ratio Adjustment for Walking Seniors Over 70

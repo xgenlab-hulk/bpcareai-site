@@ -10,6 +10,16 @@ primaryKeyword: does walking speed predict heart health after 50
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    start-walking-at-75-safely
+  - >-
+    hiit-vs-walking-pulse-pressure-prehypertension
+  - >-
+    blood-pressure-drops-walking-diabetes-neuropathy
+  - >-
+    low-impact-exercise-blood-pressure-seniors
+  - >-
+    post-exercise-blood-pressure-rebound-in-elderly
   - can-hearing-loss-be-an-early-sign-of-heart-disease
   - how-retirement-changes-affect-heart-health
   - is-your-posture-affecting-your-heart-what-older-adults-should-know

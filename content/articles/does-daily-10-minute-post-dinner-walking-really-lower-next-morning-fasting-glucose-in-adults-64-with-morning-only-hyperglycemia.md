@@ -9,15 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    walking-vs-standing-post-dinner-glucose
+    a-vs-b-morning-walk-before-breakfast-vs-30-minutes-after-dinner-impact-on-24-hour-glucose-variability-in-adults-60-76-with-postprandial-hyperglycemia
   - >-
     post-dinner-walking-vs-breathing-glucose
   - >-
-    when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
-  - >-
     best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
   - >-
-    does-daily-10-minute-post-dinner-walking-really-reduce-holiday-induced-postprandial-endothelial-dysfunction-in-adults-72-with-mild-carotid-plaque
+    walking-vs-standing-post-dinner-glucose
+  - >-
+    natural-glucose-control-holiday-seniors
 ---
 
 # Does Post-Dinner Walking Lower Fasting Glucose in Seniors? What the Evidence Says for Adults 64+ With Morning Hyperglycemia

@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     cold-water-face-immersion-vagal-tone-glucose
   - >-
-    can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
+    does-daily-4-minute-cold-shower-exposure-improve-insulin-signaling-in-adults-with-abdominal-obesity-and-prediabetes-aged-55-67
   - >-
-    cold-face-immersion-baroreflex-seniors
+    natural-ways-to-support-post-meal-insulin-sensitivity-without-medication-3-evidence-based-strategies-validated-in-adults-61-74-with-prediabetes
   - >-
-    cold-face-immersion-baroreflex-seniors
+    does-daily-4-minute-cold-water-face-immersion-really-lower-24-hour-mean-arterial-pressure-in-adults-61-with-early-autonomic-dysfunction
 ---
 
 # Can Cold Water Face Immersion Improve Insulin Secretion in Adults 58–65 With Prediabetes?

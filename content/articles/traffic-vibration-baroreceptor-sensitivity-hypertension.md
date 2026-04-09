@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     how-chronic-exposure-to-low-frequency-hvac-vibration-alters-baroreflex-sensitivity-in-adults-68-with-isolated-systolic-hypertension
   - >-
+    low-frequency-vibration-and-baroreflex-seniors
+  - >-
+    natural-baroreflex-sensitivity-enhancement
+  - >-
     how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises
   - >-
-    air-conditioning-baroreflex-sensitivity-elderly
-  - >-
-    natural-baroreflex-sensitivity-enhancement
-  - >-
-    natural-baroreflex-sensitivity-enhancement
+    natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension
 ---
 
 # How Traffic Vibration Baroreceptor Sensitivity Hypertension Interacts in Older Adults With Early High Blood Pressure

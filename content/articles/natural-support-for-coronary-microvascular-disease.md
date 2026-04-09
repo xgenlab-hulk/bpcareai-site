@@ -17,9 +17,9 @@ relatedSlugs:
   - >-
     nitric-oxide-coupling-without-l-arginine
   - >-
-    microvascular-coronary-reactivity-natural
+    7-silent-signs-of-coronary-microvascular-dysfunction-in-women-55-72-with-normal-coronary-angiograms-and-persistent-chest-discomfort
   - >-
-    boost-nitric-oxide-naturally-seniors
+    nrf2-activating-foods-microvascular-angina-elders
 ---
 
 # Natural Support for Coronary Microvascular Disease: A Targeted, Mitochondria-Focused Approach for Adults 60–67 With INOCA

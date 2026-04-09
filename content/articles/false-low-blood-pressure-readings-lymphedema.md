@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     false-low-blood-pressure-reading-causes
   - >-
-    false-low-blood-pressure-reading-causes
-  - >-
     warning-signs-your-blood-pressure-monitor-s-cuff-size-is-too-small-especially-if-you-have-upper-arm-circumference-34-cm-and-mild-lymphedema
   - >-
     warning-signs-your-blood-pressure-monitor-is-giving-false-readings-especially-if-you-re-71-with-atrial-fibrillation-and-irregular-pulse
   - >-
-    warning-signs-your-blood-pressure-monitor-is-giving-false-readings-especially-if-you-re-71-with-atrial-fibrillation-and-irregular-pulse
+    a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor
+  - >-
+    pseudohypertension-peripheral-artery-disease
 ---
 
 # Why You Might Be Getting False Low Blood Pressure Readings With Lymphedema — And How to Fix It

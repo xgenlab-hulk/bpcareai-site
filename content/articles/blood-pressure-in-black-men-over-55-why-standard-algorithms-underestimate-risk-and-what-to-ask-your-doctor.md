@@ -8,6 +8,16 @@ primaryKeyword: 'high blood pressure risk in Black men over 55'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    myths-vs-facts-heart-age-calculators-for-black-adults-over-55-what-framingham-ascvd-and-newer-race-neutral-models-actually-predict
+  - >-
+    5-things-every-adult-50-59-with-family-history-of-early-hypertension-should-know-before-their-first-home-bp-log
+  - >-
+    how-often-should-adults-over-50-check-their-blood-pressure
+  - >-
+    myths-vs-facts-my-bp-is-fine-because-my-doctor-never-mentioned-it-in-adults-54-67-with-elevated-pulse-pressure-and-normal-office-sbp-dbp
+  - >-
+    myths-vs-facts-high-normal-blood-pressure-in-adults-54-62-why-prehypertension-is-obsolete-and-what-the-new-acc-aha-staging-really-means-for-your-heart
   - heart-disease-in-hispanic-adults-over-50-unique-risk-factors
   - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - how-often-should-adults-over-50-check-their-blood-pressure

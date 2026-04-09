@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    morning-vs-evening-exercise-nocturnal-hypertension
+    morning-stretching-vs-breath-hold-nocturnal-bp
   - >-
     morning-vs-evening-exercise-nocturnal-hypertension
+  - >-
+    what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring
   - >-
     normalize-nocturnal-blood-pressure-dipping
   - >-
-    tai-chi-vs-muscle-relaxation-for-nocturnal-hypertension
-  - >-
-    what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring
+    intermittent-silence-and-non-dipping-bp
 ---
 
 # Evening Walk vs Breathing for Nocturnal BP Dip: What Works Best After Dinner for Heart Health in Adults 68+

@@ -11,13 +11,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-loneliness-after-retirement-alters-autonomic-tone-and-elevates-nocturnal-systolic-pressure-in-adults-68-with-preserved-ejection-fraction
+    warning-signs-your-normal-office-diastolic-reading-is-missing-isolated-systolic-hypertension-especially-if-you-re-a-woman-over-70-with-stiff-arteries
   - >-
-    how-social-isolation-alters-baroreflex-sensitivity-and-elevates-24-hour-sbp-by-7-11-mmhg-in-men-living-alone-over-75
+    myths-vs-facts-my-bp-is-fine-because-my-doctor-never-mentioned-it-in-adults-54-67-with-elevated-pulse-pressure-and-normal-office-sbp-dbp
   - >-
-    7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62
+    12-things-every-man-over-70-should-know-about-isolated-systolic-hypertension-especially-if-he-s-taking-daily-aspirin-and-has-a-history-of-gout
   - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
+    foods-for-aortic-stiffness-without-orthostasis
+  - >-
+    why-blood-pressure-matters-even-if-you-feel-fine
   - why-blood-pressure-matters-even-if-you-feel-fine
 ---
 

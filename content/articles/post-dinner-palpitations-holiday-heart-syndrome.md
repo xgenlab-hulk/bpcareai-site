@@ -10,6 +10,16 @@ primaryKeyword: heart palpitations after holiday dinner when to worry
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    when-to-worry-about-palpitations-after-christmas-dinner
+  - >-
+    the-truth-about-benign-holiday-palpitations-are-they-really-harmless
+  - >-
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - >-
+    5-surprising-foods-that-may-trigger-holiday-heart-syndrome
+  - >-
+    quick-ways-to-calm-a-racing-heart-during-a-holiday-event
   - when-to-worry-about-palpitations-after-christmas-dinner
   - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - >-

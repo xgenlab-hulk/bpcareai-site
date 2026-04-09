@@ -8,6 +8,16 @@ primaryKeyword: 'low dose naltrexone for type 1 diabetes and thyroid'
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
+  - >-
+    when-to-suspect-latent-autoimmune-diabetes-in-adults-lada-in-patients-49-63-presenting-with-atypical-type-2-diabetes-and-rapid-insulin-requirement
+  - >-
+    when-to-suspect-autoimmune-polyglandular-syndrome-in-adults-57-75-with-new-onset-diabetes-and-unexplained-fatigue-or-salt-craving
+  - >-
+    when-to-suspect-latent-autoimmune-diabetes-in-adults-lada-in-patients-52-65-with-rapidly-worsening-glycemic-control-on-metformin-alone
+  - >-
+    beta-cell-resilience-spring-allergies-type-1
+  - >-
+    low-dose-naltrexone-and-blood-pressure-arthritis
 
   - >-
     does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control

@@ -8,6 +8,16 @@ primaryKeyword: 'are sugar-free holiday treats safe for diabetics over 65'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
+  - >-
+    the-truth-about-sugar-free-holiday-desserts-for-men-70-with-fructose-malabsorption-and-early-nafld
+  - >-
+    the-truth-about-sugar-free-cough-drops-for-adults-with-type-1-diabetes-over-60-do-sugar-alcohols-like-isomalt-raise-blood-glucose
+  - >-
+    the-truth-about-sugar-free-holiday-desserts-for-seniors-on-glp-1-agonists-why-some-artificial-sweeteners-worsen-nausea-and-hypoglycemia-risk
+  - >-
+    the-truth-about-sugar-free-holiday-baking-mixes-why-many-still-raise-a1c-in-adults-59-75-with-long-standing-diabetes
   - the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
   - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70

@@ -11,11 +11,13 @@ relatedSlugs:
   - >-
     resistance-training-after-aortic-valve-replacement
   - >-
-    can-bright-light-therapy-be-safely-used-with-age-related-macular-degeneration-a-risk-benefit-framework-for-adults-75
+    why-does-blood-sugar-spike-after-a-10-minute-walk-in-adults-62-78-with-type-2-diabetes-and-diabetic-retinopathy
   - >-
-    seated-resistance-band-hypertension-elderly
+    10-silent-signs-your-blood-pressure-is-damaging-your-retina-even-with-controlled-readings-in-adults-63-with-type-2-diabetes
   - >-
-    simple-steps-to-rebuild-morning-light-exposure-habits-after-cataract-surgery-especially-for-adults-over-68-with-prior-seasonal-mood-swings
+    how-sleep-apnea-severity-predicts-diabetic-retinopathy-progression-rate-in-adults-64-80-with-non-proliferative-dr-and-ahi-15
+  - >-
+    diabetic-retinopathy-oct-angiography-myths
 ---
 
 # Safe Weight Training After Retinal Laser Treatment for Seniors: Evidence-Based Guidance for Adults 62+ With Diabetic Eye Disease

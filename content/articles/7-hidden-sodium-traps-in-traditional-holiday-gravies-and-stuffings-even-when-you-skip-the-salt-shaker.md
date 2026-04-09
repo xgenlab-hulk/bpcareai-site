@@ -8,6 +8,16 @@ primaryKeyword: 'sodium in holiday gravy even without adding salt'
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
+  - >-
+    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - >-
+    does-bringing-your-own-condiment-change-the-game-how-custom-sauces-and-dressings-improve-adherence-to-low-sodium-diets-during-holiday-gatherings
+  - >-
+    7-hidden-sodium-traps-in-healthy-holiday-side-dishes-and-how-to-swap-them-without-losing-flavor-especially-for-adults-58-with-stage-2-ckd
+  - >-
+    what-causes-sudden-sodium-induced-edema-in-adults-74-with-heart-failure-and-low-albumin-and-why-the-holiday-turkey-gravy-is-the-real-culprit
+  - >-
+    can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure
 - 7-hidden-sodium-traps-in-healthy-holiday-side-dishes-and-how-to-swap-them-without-losing-flavor-especially-for-adults-58-with-stage-2-ckd
 - 7-hidden-sources-of-sodium-lurking-in-holiday-gravies-stuffings-and-casseroles-especially-dangerous-for-adults-with-stage-2-hypertension-over-62
 - 7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs

@@ -10,6 +10,16 @@ primaryKeyword: holiday wine beta-blocker interactions seniors
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
+  - >-
+    beta-blocker-mulled-wine-timing
+  - >-
+    5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics
+  - >-
+    is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues
+  - >-
+    myths-vs-facts-i-only-drink-wine-so-i-m-safe-from-holiday-heart-syndrome-in-adults-55-71-with-metabolic-syndrome
+  - >-
+    can-seniors-drink-alcohol-safely-during-the-holidays-what-your-medications-say
   - is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues
   - >-
     the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you

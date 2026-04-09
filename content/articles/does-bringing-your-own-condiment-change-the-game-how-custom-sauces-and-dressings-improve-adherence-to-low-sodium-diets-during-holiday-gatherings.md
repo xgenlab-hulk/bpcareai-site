@@ -10,6 +10,14 @@ image: ''
 relatedSlugs:
   - >-
     7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker
+  - >-
+    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - >-
+    low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
+  - >-
+    best-low-sodium-swaps-for-classic-holiday-side-dishes-ranked-by-palatability-potassium-retention-and-ease-of-prep-for-caregivers-over-60
+  - >-
+    7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
   - 7-smart-swaps-for-healthier-holiday-meals-after-65
   - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
   - >-

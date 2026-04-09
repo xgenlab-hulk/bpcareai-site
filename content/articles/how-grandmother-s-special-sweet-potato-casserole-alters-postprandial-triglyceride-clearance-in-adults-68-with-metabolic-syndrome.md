@@ -12,6 +12,14 @@ image: ''
 relatedSlugs:
   - >-
     how-late-night-dessert-sharing-with-grandchildren-affects-overnight-triglyceride-clearance-in-adults-60-71-with-metabolic-syndrome
+  - >-
+    chicken-preparation-triglyceride-clearance-hypertriglyceridemia
+  - >-
+    how-intergenerational-gift-giving-of-homemade-cookies-affects-postprandial-triglycerides-in-adults-68-with-metabolic-syndrome
+  - >-
+    sweet-potatoes-glucose-variability-seniors
+  - >-
+    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
 
   - >-
     chicken-preparation-triglyceride-clearance-hypertriglyceridemia

@@ -11,15 +11,15 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
-    how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study
+    mitochondrial-biogenesis-insulin-resistance
   - >-
-    natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
+    mitochondrial-biogenesis-beta-cells-diabetes
   - >-
-    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
+    mitochondrial-biogenesis-without-hiit-seniors
   - >-
-    insulin-sensitivity-without-exercise-elderly
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak
   - >-
-    mitochondrial-biogenesis-heart-aging
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-for-adults-71-with-type-2-diabetes-and-severe-copd
 ---
 
 # Natural Ways to Support Mitochondrial Biogenesis in Diabetes Without Exercise—Evidence for Older Adults

@@ -10,6 +10,16 @@ primaryKeyword: monitor heart health during holidays over 50
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
+  - >-
+    can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes
+  - >-
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - >-
+    why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
+  - >-
+    how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
+  - >-
+    the-hidden-link-between-holiday-stress-and-irregular-heartbeat
   - best-blood-sugar-monitoring-practices-during-the-holiday-season
   - >-
     the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50

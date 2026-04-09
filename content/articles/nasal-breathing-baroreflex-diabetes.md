@@ -9,13 +9,13 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    can-daily-12-second-nitric-oxide-nasal-sprays-improve-endothelial-function-in-women-58-69-with-morning-hypertension-and-cold-induced-raynaud-s
-  - >-
-    quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
-  - >-
-    resonant-breathing-diastolic-pressure-reduction
+    does-daily-5-minute-diaphragmatic-breathing-lower-postprandial-glucose-spikes-in-adults-64-with-high-lf-hf-ratio-and-type-2-diabetes
   - >-
     natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension
+  - >-
+    natural-baroreflex-sensitivity-enhancement
+  - >-
+    nasal-rinse-breath-hold-for-endothelial-function
   - >-
     restore-blood-pressure-variability-diabetes-sdnn
 ---

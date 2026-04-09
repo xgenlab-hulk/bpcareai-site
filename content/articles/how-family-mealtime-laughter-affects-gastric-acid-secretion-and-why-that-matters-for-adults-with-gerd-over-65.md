@@ -10,6 +10,16 @@ primaryKeyword: does laughing at meals worsen acid reflux
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    support-gastric-acid-secretion-family-meals
+  - >-
+    how-social-eating-pace-during-family-dinners-slows-gastric-emptying-and-why-that-s-beneficial-or-harmful-for-seniors-with-gastroparesis-vs-gerd
+  - >-
+    12-science-backed-ways-to-reduce-post-family-meal-gastric-reflux-within-20-minutes-for-adults-59-with-silent-gerd-and-mild-hiatal-hernia
+  - >-
+    7-holiday-foods-that-trigger-silent-gastric-reflux-in-adults-65-even-without-heartburn
+  - >-
+    what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
   - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
   - >-
     12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits

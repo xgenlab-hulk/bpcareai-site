@@ -10,6 +10,16 @@ primaryKeyword: dehydration heart strain older adults
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    how-staying-hydrated-in-winter-protects-your-heart-after-70
+  - >-
+    can-drinking-more-water-help-lower-blood-pressure-naturally
+  - >-
+    warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
+  - >-
+    simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
+  - >-
+    how-dehydration-affects-blood-sugar-readings-in-older-diabetics
   - how-dehydration-impacts-blood-pressure-levels
   - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
   - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties

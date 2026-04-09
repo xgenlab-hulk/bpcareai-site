@@ -9,7 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-traditional-sweet-potato-casserole-vs-roasted-sweet-potato-medley-for-adults-with-peripheral-neuropathy-and-early-nerve-pain
+    nerve-oxygenation-foods-neuropathy-69
+  - >-
+    type-1-diabetes-plant-based-diet-over-60
+  - >-
+    7-silent-signs-of-diabetic-neuropathy-in-adults-65-that-mimic-arthritis-or-sciatica-even-with-normal-a1c
+  - >-
+    strength-training-peripheral-neuropathy-seniors
+  - >-
+    low-heat-cooking-polyphenols-diabetes
 
   - >-
     type-1-diabetes-plant-based-diet-over-60

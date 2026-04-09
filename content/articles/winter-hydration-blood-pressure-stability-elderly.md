@@ -8,6 +8,16 @@ primaryKeyword: why winter dehydration raises blood pressure after 76
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    how-staying-hydrated-in-winter-protects-your-heart-after-70
+  - >-
+    simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
+  - >-
+    the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
+  - >-
+    natural-ways-to-lower-blood-pressure-this-winter-without-medication
+  - >-
+    can-drinking-more-water-help-lower-blood-pressure-naturally
   - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
   - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
   - >-

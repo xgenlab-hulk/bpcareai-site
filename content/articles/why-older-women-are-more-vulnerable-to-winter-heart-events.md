@@ -10,6 +10,16 @@ primaryKeyword: winter heart attack risk in older women
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:
+  - >-
+    7-silent-signs-your-heart-s-struggling-during-winter-especially-if-you-re-a-woman-over-62-with-early-osteoarthritis
+  - >-
+    why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - >-
+    women-holiday-heart-syndrome-menopause
+  - >-
+    why-women-s-heart-attack-symptoms-differ-after-menopause
+  - >-
+    heart-disease-symptoms-in-women-over-50-what-s-often-missed
   - why-winter-increases-heart-attack-risk-in-seniors-over-70
   - why-older-women-are-more-vulnerable-to-seasonal-depression-in-winter
   - how-vitamin-d-deficiency-impacts-heart-health-in-winter

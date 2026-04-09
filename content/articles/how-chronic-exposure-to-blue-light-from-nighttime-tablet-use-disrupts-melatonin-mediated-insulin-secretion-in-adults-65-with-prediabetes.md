@@ -9,15 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+    led-nightlights-nocturnal-glucose-seniors
+  - >-
+    nighttime-light-glp-1-secretion-fasting-glucose
   - >-
     how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
   - >-
-    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+    restore-insulin-rhythm-without-melatonin
   - >-
-    blue-light-nocturnal-blood-pressure-dipping
-  - >-
-    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+    how-late-night-snacking-during-hanukkah-or-christmas-eve-affects-overnight-glucose-stability-in-women-over-70
 ---
 
 # How Nighttime Tablet Use Affects Insulin Secretion in Seniors With Prediabetes — Understanding the Blue Light Connection

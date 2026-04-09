@@ -10,6 +10,16 @@ primaryKeyword: hidden salt in everyday foods that raise blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - >-
+    foods-raise-bp-hidden-causes-seniors
+  - >-
+    how-excessive-salt-intake-leads-to-heart-disease-over-time
+  - >-
+    7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker
+  - >-
+    the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
   - the-role-of-potassium-in-managing-blood-pressure-after-50
   - why-blood-pressure-matters-even-if-you-feel-fine
   - does-caffeine-raise-blood-pressure-after-age-60

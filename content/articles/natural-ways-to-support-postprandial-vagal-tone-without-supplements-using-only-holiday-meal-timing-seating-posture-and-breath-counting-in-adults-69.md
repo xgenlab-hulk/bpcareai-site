@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
   - >-
-    natural-baroreflex-sensitivity-enhancement
+    vagal-tone-foods-post-meal-60-74
   - >-
-    quick-ways-to-restore-postprandial-parasympathetic-tone-within-20-minutes-for-adults-61-75-with-type-2-diabetes-and-vagal-withdrawal-measured-by-rmssd
+    natural-autonomic-stabilization-holiday-heart
   - >-
-    can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history
+    when-to-pause-mid-dessert-for-vagal-reset-not-just-portion-control-in-adults-69-with-postprandial-hypotension-and-orthostatic-dizziness
 ---
 
 # Natural Vagal Tone Support for Seniors This Holiday Season — Simple, Science-Backed Habits You Can Start Today

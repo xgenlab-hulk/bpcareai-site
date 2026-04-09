@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    10-simple-home-adjustments-to-support-blood-pressure-stability-in-winter
+  - >-
+    stress-blood-pressure-winter
+  - >-
+    how-cold-weather-triggers-morning-hypertensive-crises-in-adults-72-with-white-coat-hypertension-and-peripheral-artery-disease
+  - >-
     does-daily-8-minute-cold-water-hand-immersion-really-lower-24-hour-mean-arterial-pressure-in-adults-68-with-mild-hypertension-and-raynaud-s-phenomenon
   - >-
-    cold-exposure-and-paroxysmal-afib-in-elderly
-  - >-
-    cold-face-immersion-baroreflex-seniors
-  - >-
-    how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62
-  - >-
-    cold-face-immersion-baroreflex-seniors
+    how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
 ---
 
 # How Cold Weather Triggers Renal Sympathetic Activity — And What You Can Do About It

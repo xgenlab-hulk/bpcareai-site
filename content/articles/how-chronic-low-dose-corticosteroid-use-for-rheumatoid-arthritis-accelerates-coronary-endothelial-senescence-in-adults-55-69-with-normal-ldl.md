@@ -9,13 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    inhaled-steroids-gluconeogenesis-diabetes
+    how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries
+  - >-
+    improve-endothelial-function-without-exercise
   - >-
     low-dose-naltrexone-and-blood-pressure-arthritis
   - >-
-    boost-nitric-oxide-naturally-seniors
+    12-foods-that-delay-endothelial-senescence-not-just-lower-bp-including-black-garlic-extract-germinated-brown-rice-and-low-age-roasted-chickpeas-for-adults-60
   - >-
-    aromatase-inhibitors-heart-microvascular-dysfunction
+    instant-oatmeal-endothelial-function-seniors
 ---
 
 # How Long-Term Low-Dose Corticosteroids for RA Speed Up Blood Vessel Aging—Even With Healthy Cholesterol

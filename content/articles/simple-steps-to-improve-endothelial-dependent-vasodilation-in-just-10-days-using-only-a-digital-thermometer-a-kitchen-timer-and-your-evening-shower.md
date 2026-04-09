@@ -9,15 +9,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    improve-endothelial-function-quickly
-  - >-
-    boost-nitric-oxide-naturally-seniors
-  - >-
-    quick-ways-to-restore-post-exercise-vascular-reactivity-after-cold-exposure-for-adults-68-with-raynaud-s-phenomenon-and-elevated-pulse-wave-velocity
-  - >-
     natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
   - >-
+    improve-endothelial-function-quickly
+  - >-
     improve-endothelial-function-without-exercise
+  - >-
+    endothelial-nitric-oxide-synthase-recoupling
+  - >-
+    sirt1-activating-foods-endothelial-dysfunction-flow-mediated-dilation
 ---
 
 # How to Improve Endothelial Function in 10 Days — With Just Warm Water, a Timer, and Your Thermometer

@@ -15,11 +15,11 @@ relatedSlugs:
   - >-
     how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
   - >-
-    blue-light-nocturnal-blood-pressure-dipping
+    how-frequent-nighttime-awakenings-for-urination-nocturia-predicts-3-year-risk-of-new-onset-atrial-fibrillation-in-men-over-68-with-hypertension
   - >-
-    nighttime-light-exposure-cardiac-clock-genes-elders
+    vns-vs-tart-cherry-juice-nocturnal-afib
   - >-
-    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
+    holiday-travel-nocturnal-afib-warning
 ---
 
 # How Late-Night Movie Marathons Raise Sympathetic Tone—and Why That Matters for AFib Risk in Older Adults

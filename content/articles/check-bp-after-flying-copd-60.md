@@ -10,15 +10,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    check-bp-after-flying-copd-60
-  - >-
     quick-ways-to-reduce-bp-variability-during-air-travel-in-adults-70-with-history-of-hypertensive-urgency
+  - >-
+    12-science-backed-ways-to-reduce-left-atrial-strain-variability-during-air-travel-for-adults-with-paroxysmal-afib-and-mild-copd
+  - >-
+    blood-pressure-on-long-haul-flights-seniors
   - >-
     how-does-long-haul-flight-duration-affect-systolic-blood-pressure-variability-in-adults-68-82-with-white-coat-hypertension
   - >-
-    best-times-measure-bp-daily
-  - >-
-    air-travel-endothelial-glycocalyx-hypertension
+    7-silent-signs-your-heart-is-struggling-during-air-travel-especially-for-adults-70-with-diastolic-dysfunction-and-mild-hypoxemia
 ---
 
 # When to Check Blood Pressure After Flying If You Have COPD: 3 Critical Windows That Matter

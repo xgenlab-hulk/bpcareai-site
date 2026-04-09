@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     mitochondrial-dysfunction-lab-clues-diabetes
   - >-
-    warning-signs-your-stable-diabetes-is-masking-early-diabetic-cardiomyopathy-even-with-normal-ejection-fraction-and-no-symptoms-in-adults-59-68
+    midday-fatigue-diabetes-autonomic-failure-seniors
   - >-
-    warning-signs-your-stable-diabetes-is-masking-early-diabetic-cardiomyopathy-even-with-normal-ejection-fraction-and-no-symptoms-in-adults-59-68
+    how-does-type-2-diabetes-affect-energy-levels-in-seniors
   - >-
-    how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study
+    mitochondrial-biogenesis-without-hiit-seniors
   - >-
-    what-causes-post-exercise-fatigue-that-lasts-48-hours-in-adults-with-diastolic-dysfunction-and-why-it-s-not-just-getting-older
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak
 ---
 
 # Early Clues of Mitochondrial Myopathy in Older Adults: Recognizing Insulin Resistance and Fatigue Before Muscle Cramps Begin

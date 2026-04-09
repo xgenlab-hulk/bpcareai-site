@@ -8,6 +8,16 @@ primaryKeyword: 'is it safe to skip a water pill after holiday meals'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
+  - >-
+    when-to-worry-about-sudden-swelling-after-thanksgiving-dinner-in-adults-70-with-heart-failure-and-diuretic-resistant-edema
+  - >-
+    warning-signs-your-holiday-appetizer-platter-is-causing-subclinical-hyponatremia-especially-with-diuretic-use-in-adults-77
+  - >-
+    why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
+  - >-
+    the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use
 
   - >-
     5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications

@@ -11,7 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+    holiday-weight-gain-beta-cell-exhaustion
+  - >-
+    5-things-every-woman-over-62-should-know-about-holiday-cortisol-surges-and-their-impact-on-visceral-fat-redistribution-in-prediabetes
+  - >-
+    5-science-backed-ways-to-reduce-holiday-related-insulin-resistance
+  - >-
+    what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners
+  - >-
+    how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
   - how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
   - >-
     does-holiday-weight-gain-predict-1-year-cardiovascular-risk-in-adults-with-metabolic-syndrome-over-58

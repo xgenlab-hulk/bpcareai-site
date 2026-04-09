@@ -10,6 +10,16 @@ primaryKeyword: dizziness standing up orthostatic hypotension 65
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    how-standing-up-too-fast-affects-blood-pressure-in-older-adults
+  - >-
+    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
+  - >-
+    when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension
+  - >-
+    warning-signs-your-holiday-energy-crash-is-actually-orthostatic-hypotension-not-just-overeating-in-adults-76-with-age-related-baroreflex-blunting
+  - >-
+    why-do-adults-72-with-atrial-fibrillation-often-develop-orthostatic-hypotension-and-what-that-reveals-about-autonomic-cardiac-reserve
   - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
   - >-
     can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75

@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     pancreatic-acinar-support-for-diabetics
   - >-
+    pancreatic-ductal-health-diabetes
+  - >-
     fermented-foods-beta-cell-resilience-type-2-diabetes
   - >-
-    natural-ways-to-support-pancreatic-beta-cell-resilience-after-age-59-using-time-restricted-eating-zinc-rich-foods-and-berberine-timing
+    natural-ways-to-enhance-pancreatic-beta-cell-autophagy-in-adults-57-68-with-early-stage-type-2-diabetes-without-fasting-or-supplements
   - >-
-    10-foods-that-stabilize-post-holiday-cortisol-rhythm-without-medication-for-adults-59-71-with-type-2-diabetes-and-chronic-stress
-  - >-
-    ampk-activating-foods-for-adipose-inflammation
+    how-intermittent-fasting-affects-beta-cell-rest-and-regeneration-in-adults-54-68-with-new-onset-type-2-diabetes-what-12-week-clinical-trials-show
 ---
 
 # 5 Gentle, Science-Supported Foods for Pancreatic Acinar Repair in Adults with Type 2 Diabetes and Chronic Pancreatitis  

@@ -10,6 +10,16 @@ primaryKeyword: do diabetics over 50 need to quit all sugar
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    myths-vs-facts-holiday-eating-with-diabetes-after-50
+  - >-
+    the-role-of-fiber-in-controlling-blood-sugar-after-50
+  - >-
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - >-
+    best-supplements-for-blood-sugar-support-after-50
+  - >-
+    best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
   - the-role-of-fiber-in-controlling-blood-sugar-after-50
   - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65

@@ -8,6 +8,16 @@ primaryKeyword: 'early signs of dehydration in seniors during holidays'
 topicCluster: medication-safety
 image: ''
 relatedSlugs:
+  - >-
+    warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
+  - >-
+    the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use
+  - >-
+    warning-signs-your-holiday-leftovers-are-causing-subclinical-dehydration-in-adults-80-with-diminished-thirst-response-and-mild-hyponatremia-risk
+  - >-
+    how-chronic-low-grade-dehydration-alters-taste-bud-sensitivity-and-drives-holiday-sugar-cravings-in-adults-over-68
+  - >-
+    simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
   - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
   - >-
     5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications

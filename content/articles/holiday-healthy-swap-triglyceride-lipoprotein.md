@@ -12,6 +12,14 @@ image: ''
 relatedSlugs:
   - >-
     quick-ways-to-lower-post-holiday-triglyceride-spikes-within-2-hours-using-targeted-omega-3-dosing-validated-in-adults-60-78-with-mixed-dyslipidemia
+  - >-
+    fruitcake-vs-almond-flour-loaf-diabetes
+  - >-
+    why-your-low-carb-holiday-stuffing-still-raises-triglycerides-and-what-to-swap-instead
+  - >-
+    why-your-light-holiday-appetizer-plate-may-be-raising-triglycerides-more-than-dessert-the-hidden-fat-oxidation-block-in-adults-58-69
+  - >-
+    one-slice-pie-triglycerides-seniors-myth
   - 10-heart-healthy-swaps-for-traditional-holiday-dishes-after-50
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
   - >-

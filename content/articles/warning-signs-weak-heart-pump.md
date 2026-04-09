@@ -12,13 +12,13 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    could-leg-swelling-be-a-sign-of-heart-trouble-after-50
-  - >-
     heart-disease-warning-signs-that-appear-years-in-advance
   - >-
-    7-silent-signs-of-diastolic-dysfunction-you-might-miss-at-home-especially-if-you-re-65-with-normal-ejection-fraction
+    what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
   - >-
-    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+    right-ventricular-pa-coupling-failure-warning-signs
+  - >-
+    what-are-the-earliest-signs-of-right-sided-heart-failure-in-adults-64-with-untreated-sleep-apnea-before-jugular-venous-distention-appears
   - >-
     7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
 ---

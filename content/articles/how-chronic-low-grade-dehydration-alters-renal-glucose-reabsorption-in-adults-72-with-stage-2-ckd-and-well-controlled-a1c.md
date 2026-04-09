@@ -13,7 +13,13 @@ relatedSlugs:
   - >-
     how-chronic-low-grade-dehydration-alters-glycated-albumin-ga-interpretation-in-adults-74-with-ckd-stage-2-and-poor-thirst-sensation
   - >-
+    how-dehydration-affects-blood-sugar-readings-in-older-diabetics
+  - >-
     nsaid-renal-glucose-reabsorption-ckd
+  - >-
+    fasting-glucose-ckd-stage-3a-diabetes
+  - >-
+    a1c-reliability-with-low-albumin
   - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
   - >-
     how-chronic-low-grade-dehydration-alters-taste-bud-sensitivity-and-drives-holiday-sugar-cravings-in-adults-over-68

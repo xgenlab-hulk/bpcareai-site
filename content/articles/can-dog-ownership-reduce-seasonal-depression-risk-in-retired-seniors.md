@@ -8,6 +8,16 @@ primaryKeyword: 'does owning a dog help seasonal depression in seniors'
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:
+  - >-
+    10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore
+  - >-
+    quick-ways-to-lift-a-senior-s-mood-during-a-winter-blue-day
+  - >-
+    natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
+  - >-
+    can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
+  - >-
+    how-to-support-a-parent-with-seasonal-depression-while-living-far-away
   - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
   - how-winter-depression-affects-heart-health-in-retired-adults
   - >-

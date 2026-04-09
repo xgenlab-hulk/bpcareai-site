@@ -8,6 +8,16 @@ primaryKeyword: foods stabilize blood pressure during meals
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    post-meal-bp-foods-seniors-60
+  - >-
+    5-things-everyone-over-60-should-know-about-family-style-serving-and-its-impact-on-postprandial-blood-pressure-variability
+  - >-
+    foods-lower-blood-pressure-naturally-53-68
+  - >-
+    foods-stabilize-pulse-pressure-seniors-orthostasis
+  - >-
+    foods-lower-blood-pressure-naturally-after-50
   - 10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60
   - can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show
   - quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration

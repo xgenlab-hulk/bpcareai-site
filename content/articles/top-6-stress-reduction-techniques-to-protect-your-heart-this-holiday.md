@@ -10,6 +10,16 @@ primaryKeyword: holiday stress reduction for heart health
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
+  - >-
+    quick-ways-to-calm-a-racing-heart-during-a-holiday-event
+  - >-
+    the-hidden-link-between-holiday-stress-and-irregular-heartbeat
+  - >-
+    can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes
+  - >-
+    how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
+  - >-
+    why-emotional-stress-at-family-gatherings-raises-heart-arrhythmia-risk
   - 12-simple-ways-to-prevent-holiday-heart-syndrome-naturally
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
   - quick-ways-to-calm-a-racing-heart-during-a-holiday-event

@@ -12,6 +12,14 @@ image: ''
 relatedSlugs:
   - >-
     can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
+  - >-
+    the-impact-of-hot-showers-on-blood-pressure-and-heart-rate
+  - >-
+    10-winter-safe-exercises-for-heart-health-after-65
+  - >-
+    the-hidden-dangers-of-indoor-heating-on-blood-pressure
+  - >-
+    does-daily-8-minute-cold-water-hand-immersion-really-lower-24-hour-mean-arterial-pressure-in-adults-68-with-mild-hypertension-and-raynaud-s-phenomenon
   - the-hidden-dangers-of-indoor-heating-on-blood-pressure
   - does-layering-clothes-help-regulate-blood-pressure-in-cold-climates
   - the-best-indoor-exercises-for-blood-pressure-control-in-winter

@@ -12,15 +12,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    soft-foods-seniors-no-teeth
+  - >-
+    meal-planning-seniors-budget
+  - >-
+    nutrient-dense-foods-low-appetite-seniors
+  - >-
+    when-to-eat-before-a-family-gathering-if-you-re-on-glp-1-agonists-and-over-65
+  - >-
     5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily
-  - >-
-    preserve-muscle-mass-holiday-meals
-  - >-
-    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
-  - >-
-    5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
-  - >-
-    how-family-meal-timing-disrupts-nocturnal-growth-hormone-pulses-in-adults-59-66-with-sarcopenia-and-what-to-eat-instead-of-midnight-snacks
 ---
 
 # Eating With Ozempic After 60: What to Eat & Skip

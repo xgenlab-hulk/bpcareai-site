@@ -10,6 +10,14 @@ image: ''
 relatedSlugs:
   - >-
     natural-ways-to-support-cardiac-connexin-43-expression-without-medication-evidence-from-7-clinical-trials-in-adults-60-79
+  - >-
+    mitochondrial-biogenesis-diastolic-dysfunction
+  - >-
+    mitochondrial-biogenesis-heart-failure-trf
+  - >-
+    mitochondrial-biogenesis-heart-natural
+  - >-
+    time-restricted-eating-4pm-type-2-diabetes-seniors
 
   - >-
     mitochondrial-biogenesis-heart-failure-trf

@@ -12,6 +12,12 @@ relatedSlugs:
     12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
   - >-
     12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-in-adults-58-69-with-agatston-score-100-400-and-elevated-lp-a
+  - >-
+    foods-delay-artery-calcification-66
+  - >-
+    5-things-everyone-over-70-should-know-about-coronary-artery-calcium-cac-scoring-especially-if-you-re-taking-statins-but-have-zero-symptoms
+  - >-
+    7-hidden-environmental-triggers-that-worsen-coronary-artery-calcification-in-adults-62-with-long-term-statin-use
 
   - >-
     simple-steps-to-lower-central-aortic-pressure-in-just-7-days-using-only-a-kitchen-scale-a-stopwatch-and-your-morning-tea-ritual

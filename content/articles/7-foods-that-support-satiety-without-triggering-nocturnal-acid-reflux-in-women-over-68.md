@@ -8,6 +8,16 @@ primaryKeyword: 'foods that fill you up without acid reflux at night'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
+  - >-
+    can-you-enjoy-holiday-pie-without-triggering-acid-reflux-at-night-a-3-step-timing-texture-strategy-for-adults-65-with-gerd
+  - >-
+    7-holiday-foods-that-trigger-silent-gastric-reflux-in-adults-65-even-without-heartburn
+  - >-
+    simple-steps-to-reduce-holiday-meal-induced-gastric-reflux-in-women-63-with-hiatal-hernia-without-ppis-or-antacids
+  - >-
+    10-high-fiber-holiday-foods-that-support-digestion-after-50
   - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
   - 10-high-fiber-holiday-foods-that-support-digestion-after-50
   - >-

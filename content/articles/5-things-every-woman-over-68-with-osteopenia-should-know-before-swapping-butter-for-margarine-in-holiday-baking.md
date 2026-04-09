@@ -8,6 +8,16 @@ primaryKeyword: 'is butter or margarine better for bone health after 68'
 topicCluster: special-populations
 image: ''
 relatedSlugs:
+  - >-
+    5-things-every-woman-over-64-should-know-about-holiday-cheese-boards-and-bone-turnover-markers-especially-with-long-term-calcium-supplementation
+  - >-
+    5-things-every-woman-over-65-with-osteoporosis-should-know-before-eating-holiday-roast-beef-and-gravy
+  - >-
+    calcium-rich-foods-without-dairy-seniors
+  - >-
+    5-things-every-woman-over-62-should-know-about-calcium-fortified-eggnog-and-bone-mineral-density-especially-with-long-term-ppi-use
+  - >-
+    7-hidden-heart-risks-in-low-fat-grocery-store-yogurts-for-women-over-58-with-hypothyroidism-and-mild-diastolic-dysfunction
   - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
   - 7-smart-swaps-for-healthier-holiday-meals-after-65
   - >-

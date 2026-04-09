@@ -9,13 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    tai-chi-vs-walking-for-hfpef-seniors
+  - >-
+    the-complete-guide-to-interpreting-your-cardiac-mri-stress-perfusion-scan-especially-if-you-have-microvascular-angina-and-normal-coronary-angiogram
+  - >-
+    coronary-microvascular-reactivity-natural-support
+  - >-
+    a-vs-b-daily-10-minute-resistance-band-workouts-vs-brisk-walking-for-improving-coronary-flow-reserve-in-adults-63-with-nonobstructive-cad
+  - >-
     tai-chi-vs-breathing-central-aortic-pressure
-  - >-
-    tai-chi-vs-heart-coherence-biofeedback-women
-  - >-
-    tai-chi-vs-muscle-relaxation-for-nocturnal-hypertension
-  - >-
-    can-daily-12-minute-seated-tai-chi-lower-24-hour-systolic-load-in-adults-71-with-isolated-systolic-hypertension-and-mild-gait-instability
 
 ---
 

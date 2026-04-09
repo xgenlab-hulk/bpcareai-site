@@ -12,15 +12,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    how-intergenerational-recipe-sharing-affects-nutrient-density-in-holiday-meals-for-adults-54-65-with-early-sarcopenia-and-low-protein-intake
+    soft-foods-seniors-no-teeth
   - >-
-    preserve-muscle-mass-holiday-meals
+    meal-planning-seniors-budget
   - >-
     quick-ways-to-adjust-portion-sizes-for-seniors-with-early-sarcopenia-without-offending-the-cook
   - >-
-    best-holiday-appetizers-for-adults-70-with-denture-instability-soft-high-protein-low-residue-options-that-don-t-require-chewing-force
+    eating-with-ozempic-after-60
   - >-
-    what-research-says-about-protein-needs-during-the-holidays-for-frail-seniors
+    calcium-rich-foods-without-dairy-seniors
 ---
 
 # Nutrient-Dense Foods for Low Appetite Seniors: Eating Well When You’re Not Hungry

@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     best-breathing-patterns-for-reducing-right-ventricular-afterload-in-adults-67-80-with-pulmonary-hypertension-and-sarcopenia
   - >-
-    breathing-patterns-right-atrial-pressure-seniors
+    right-heart-strain-early-echocardiographic-signs
   - >-
-    lower-pulmonary-capillary-wedge-pressure-orthopnea
+    right-ventricular-dysfunction-nocturnal-cough-women
   - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
+    pulse-oximetry-heart-failure-copd-interpretation
   - >-
-    resonant-breathing-diastolic-pressure-reduction
+    right-ventricular-pa-coupling-failure-warning-signs
 ---
 
 # Supporting Right Ventricular Adaptation in COPD Seniors: Natural Strategies for Heart Health

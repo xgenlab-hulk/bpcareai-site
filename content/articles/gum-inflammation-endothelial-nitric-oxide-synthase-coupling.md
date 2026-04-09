@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     how-chronic-low-grade-inflammation-from-periodontitis-elevates-nighttime-blood-pressure-in-adults-61-76-with-hypertension-and-poor-dental-access
   - >-
-    how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension
+    endothelial-nitric-oxide-synthase-recoupling
   - >-
-    gum-disease-and-coronary-artery-calcification
+    how-chronic-low-grade-inflammation-drives-resistant-hypertension-in-adults-60-74-with-elevated-hs-crp-and-gum-recession
   - >-
-    how-chronic-low-grade-inflammation-from-gum-disease-accelerates-diabetic-kidney-disease-in-adults-55-73-with-albuminuria
+    nitric-oxide-coupling-without-l-arginine
   - >-
-    gum-disease-and-coronary-artery-function
+    boost-nitric-oxide-naturally-seniors
 ---
 
 # How Gum Inflammation Affects Nitric Oxide Balance—and Why It Matters for Your Blood Pressure

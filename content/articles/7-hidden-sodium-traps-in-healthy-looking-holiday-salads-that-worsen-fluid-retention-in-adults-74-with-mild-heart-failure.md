@@ -9,15 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
-  - >-
-    7-hidden-sodium-traps-in-healthy-holiday-side-dishes-and-how-to-swap-them-without-losing-flavor-especially-for-adults-58-with-stage-2-ckd
-  - >-
-    7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
+    holiday-foods-heart-failure-seniors
   - >-
     5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - >-
     7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker
+  - >-
+    can-you-eat-traditional-stuffing-safely-with-stage-2-heart-failure-a-sodium-content-breakdown
+  - >-
+    7-hidden-sodium-traps-in-healthy-holiday-side-dishes-and-how-to-swap-them-without-losing-flavor-especially-for-adults-58-with-stage-2-ckd
 ---
 
 # Hidden Sodium Surprises in Holiday Salads: What Adults 74+ With Mild Heart Failure Should Know About High Sodium Holiday Salads Heart Failure

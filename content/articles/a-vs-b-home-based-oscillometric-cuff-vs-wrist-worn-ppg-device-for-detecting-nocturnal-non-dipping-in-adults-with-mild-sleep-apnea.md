@@ -9,15 +9,15 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79
+    home-cuff-vs-ambulatory-nocturnal-hypertension
   - >-
-    a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
+    how-sleep-apnea-severity-modulates-nocturnal-bp-dipping-even-in-adults-55-with-normal-ahi-5-but-high-oxygen-desaturation-index
   - >-
-    dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands
+    a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor
+  - >-
+    nocturnal-bp-dip-sleep-apnea-mild-cognitive-impairment
   - >-
     how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
-  - >-
-    home-blood-pressure-cuff-afib-algorithm-errors
 ---
 
 # Oscillometric Cuff vs PPG for Nocturnal Non-Dipping: What’s Best for Adults With Mild Sleep Apnea?

@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     natural-ways-to-improve-glucose-uptake-in-skeletal-muscle-without-exercise-for-adults-79-with-severe-osteoarthritis-bedrest-or-post-hip-replacement
   - >-
-    resistance-band-training-fasting-glucose-elderly
+    sauna-therapy-diabetic-foot-ulcer-recovery
   - >-
-    does-daily-20-minute-resistance-band-training-lower-hba1c-in-sedentary-adults-63-77-with-type-2-diabetes-without-weight-loss
+    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
   - >-
     insulin-sensitivity-without-exercise-elderly
   - >-
-    can-daily-12-minute-chair-yoga-sessions-improve-insulin-sensitivity-in-sedentary-adults-70-with-type-2-diabetes-and-hip-osteoarthritis
+    resistance-band-training-fasting-glucose-elderly
 ---
 
 # Can Far-Infrared Sauna Use Support Glucose Uptake in Seniors with Type 2 Diabetes and Sarcopenia?

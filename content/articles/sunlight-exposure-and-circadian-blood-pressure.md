@@ -11,15 +11,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    sunlight-exposure-and-circadian-blood-pressure
-  - >-
-    sunlight-vs-blue-blocking-glasses-blood-pressure-dip
+    morning-sunlight-vs-blue-light-blocking-seniors
   - >-
     a-vs-b-5-minute-morning-sunlight-exposure-vs-10-minute-evening-red-light-therapy-for-modulating-circadian-bp-variability-in-women-60-74
   - >-
-    morning-sunlight-vs-blue-light-blocking-seniors
+    sunlight-vs-blue-blocking-glasses-blood-pressure-dip
   - >-
     can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
+  - >-
+    a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension
 ---
 
 # Morning Light Matters: How Sunlight Exposure and Circadian Blood Pressure Are Linked in Adults 70+  

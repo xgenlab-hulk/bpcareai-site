@@ -13,9 +13,13 @@ relatedSlugs:
   - >-
     natural-ways-to-support-digestive-enzyme-production-after-age-60-especially-during-heavy-holiday-meals
   - >-
-    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
+    beta-cell-rest-holiday-meals-natural-support
   - >-
-    natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
+    natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements
+  - >-
+    why-holiday-nut-mixes-can-trigger-subclinical-pancreatic-enzyme-leakage-in-adults-69-with-asymptomatic-chronic-pancreatitis-diagnosed-via-mrcp
+  - >-
+    pancreatic-acinar-support-for-diabetics
 
   - >-
     natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements

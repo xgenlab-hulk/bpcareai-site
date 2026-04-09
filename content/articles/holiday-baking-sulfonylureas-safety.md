@@ -11,15 +11,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    the-complete-guide-to-safe-holiday-baking-with-insulin-resistance-from-low-glycemic-flour-blends-to-oven-temperature-adjustments-for-adults-62
-  - >-
     holiday-medication-holiday-myths-facts
   - >-
     quick-ways-to-prevent-overnight-hypoglycemia-after-late-night-holiday-dessert-for-adults-54-66-on-sulfonylureas-or-basal-insulin
   - >-
-    simple-steps-to-adjust-holiday-recipe-ratios-for-optimal-postprandial-glucose-in-adults-76-with-post-gastric-bypass-dumping-syndrome-and-diabetes
+    5-things-everyone-over-70-should-know-about-sulfonylureas-especially-if-they-live-alone-and-take-them-daily
   - >-
-    when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
+    is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
+  - >-
+    when-to-check-your-blood-sugar-during-new-year-s-eve-and-why-timing-matters-more-than-frequency
 ---
 
 # A Reassuring Guide to Holiday Baking Sulfonylureas Safety — Enjoying Festive Treats Without Hypoglycemia Worries

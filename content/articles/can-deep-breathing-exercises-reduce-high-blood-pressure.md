@@ -8,6 +8,16 @@ primaryKeyword: 'breathing exercises to lower high blood pressure naturally'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    can-deep-breathing-exercises-lower-heart-disease-risk
+  - >-
+    quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
+  - >-
+    quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety
+  - >-
+    can-meditation-lower-blood-pressure-naturally
+  - >-
+    quick-ways-to-lower-bp-within-90-minutes-using-guided-breathing-postural-sequencing-validated-in-emergency-department-triage-for-stage-1-hypertension
   - can-deep-breathing-exercises-lower-heart-disease-risk
   - can-meditation-lower-blood-pressure-naturally
   - natural-ways-to-lower-blood-pressure-this-winter-without-medication

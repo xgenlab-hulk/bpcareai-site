@@ -9,7 +9,15 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
+    holiday-cookie-swap-glucose-management
+  - >-
     myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
+  - >-
+    skipping-breakfast-holiday-hyperglycemia-seniors
+  - >-
+    postprandial-glucose-family-gatherings-prediabetes
+  - >-
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
   - 7-dangerous-blood-sugar-mistakes-people-make-during-the-holidays
   - myths-vs-facts-holiday-eating-with-diabetes-after-50
   - >-

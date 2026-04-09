@@ -8,6 +8,16 @@ primaryKeyword: 'hidden sodium in holiday soups for seniors on ACE inhibitors'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    senior-labeled-canned-soup-sodium-trap
+  - >-
+    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - >-
+    7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker
+  - >-
+    the-truth-about-low-sodium-canned-soups-for-adults-with-heart-failure-and-preserved-ejection-fraction-over-65
+  - >-
+    the-truth-about-low-sodium-canned-soups-labeled-for-seniors-why-63-still-exceed-ada-daily-sodium-limits-for-stage-1-hypertension
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - >-
     the-truth-about-low-sodium-holiday-soups-why-68-still-contain-hidden-msg-derivatives-that-trigger-orthostatic-hypotension-in-seniors-over-72

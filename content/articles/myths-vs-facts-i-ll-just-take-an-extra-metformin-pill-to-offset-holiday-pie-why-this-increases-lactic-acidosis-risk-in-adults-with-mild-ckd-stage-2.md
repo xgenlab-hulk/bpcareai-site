@@ -11,15 +11,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60
+    can-you-safely-skip-your-evening-metformin-dose-before-a-holiday-potluck-a-risk-benefit-analysis-for-adults-71-with-egfr-48-59-ml-min
   - >-
-    what-research-says-about-intermittent-fasting-from-christmas-eve-to-new-year-s-day-for-adults-with-stable-type-2-diabetes-over-62
-  - >-
-    myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
+    holiday-metformin-skipping-risks
   - >-
     can-you-safely-eat-leftover-turkey-salad-on-day-3-if-you-re-on-metformin-and-have-egfr-62-a-food-safety-renal-glucose-guide
   - >-
-    how-late-night-pie-eating-alters-gut-microbiome-derived-tmao-peaks-and-atrial-fibrosis-progression-in-adults-66-78-with-mild-ckd-and-af
+    is-metformin-still-safe-for-diabetics-over-70
+  - >-
+    the-truth-about-diabetes-friendly-holiday-hot-chocolate-why-low-sugar-labels-hide-3-hidden-risks-for-adults-74-with-mild-ckd-and-metformin-use
 ---
 
 # Why “One Extra Metformin Pill” for Holiday Pie Is Risky—Understanding metformin holiday pie lactic acidosis in Adults With Mild CKD Stage 2

@@ -10,15 +10,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    collard-greens-vs-creamed-spinach-kidney-disease
-  - >-
     collard-greens-heart-failure-diuretics-comparison
+  - >-
+    what-are-the-silent-signs-your-holiday-nuts-are-causing-subclinical-oxidative-stress-in-adults-75-with-mild-ckd-stage-2
+  - >-
+    collard-greens-vs-creamed-spinach-kidney-disease
   - >-
     collard-greens-endothelial-function-comparison
   - >-
-    a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd
-  - >-
-    quick-ways-to-reduce-post-meal-oxidative-stress-within-45-minutes-for-adults-68-with-copd-and-long-standing-smoking-history
+    7-hidden-sources-of-oxalates-in-holiday-salads-and-sides-that-may-trigger-nephrocalcinosis-in-adults-with-stage-2-ckd-over-60
 ---
 
 # Collard Greens Cooking Method and Oxidative Stress in CKD: What Matters Most for Healthy Aging

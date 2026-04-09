@@ -10,6 +10,16 @@ primaryKeyword: is metformin safe after 70 with diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    holiday-metformin-skipping-risks
+  - >-
+    can-you-safely-skip-your-evening-metformin-dose-before-a-holiday-potluck-a-risk-benefit-analysis-for-adults-71-with-egfr-48-59-ml-min
+  - >-
+    safe-a1c-level-at-70
+  - >-
+    myths-vs-facts-i-ll-just-take-an-extra-metformin-pill-to-offset-holiday-pie-why-this-increases-lactic-acidosis-risk-in-adults-with-mild-ckd-stage-2
+  - >-
+    best-oral-diabetes-meds-men-over-60
   - managing-diabetes-while-traveling-tips-for-seniors
   - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
   - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes

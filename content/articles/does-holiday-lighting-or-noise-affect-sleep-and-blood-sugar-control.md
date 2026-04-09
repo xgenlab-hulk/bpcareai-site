@@ -8,6 +8,16 @@ primaryKeyword: 'holiday lights noise sleep blood sugar control seniors'
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
+  - >-
+    the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - >-
+    why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
+  - >-
+    holiday-sleep-fragmentation-fasting-glucose-men
+  - >-
+    led-nightlights-nocturnal-glucose-seniors
   - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - the-link-between-loneliness-during-holidays-and-poor-diabetes-control

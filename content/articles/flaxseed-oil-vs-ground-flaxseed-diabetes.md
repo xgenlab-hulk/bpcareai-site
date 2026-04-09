@@ -9,15 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    does-adding-1-gram-of-ground-flaxseed-to-breakfast-lower-central-systolic-pressure-in-adults-56-69-with-hypertension-and-elevated-ldl-p
+  - >-
     the-truth-about-heart-healthy-seed-oils-in-diabetic-dyslipidemia-do-linoleic-acid-rich-blends-actually-reduce-oxidized-ldl-in-adults-60-76
+  - >-
+    fruitcake-vs-almond-flour-loaf-diabetes
   - >-
     does-adding-3-grams-of-ground-flaxseed-daily-reduce-central-aortic-systolic-pressure-in-adults-60-72-with-metabolic-syndrome
   - >-
     meal-order-triglyceride-clearance-diabetes
-  - >-
-    the-truth-about-heart-healthy-omega-6-rich-vegetable-oils-in-adults-55-70-with-elevated-oxidized-ldl-and-low-hdl2-subfraction
-  - >-
-    holiday-healthy-swap-triglyceride-lipoprotein
 ---
 
 # Flaxseed Oil vs Ground Flaxseed for Diabetes: What’s Best for Triglyceride Control After Meals?

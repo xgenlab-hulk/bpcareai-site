@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     hiit-vs-walking-pulse-pressure-prehypertension
   - >-
-    what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension
+    a-vs-b-daily-12-minute-seated-resistance-band-routine-vs-25-minute-brisk-walking-impact-on-pulse-wave-velocity-in-adults-65-with-arterial-stiffness
   - >-
-    resistance-training-left-ventricular-hypertrophy
+    morning-vs-evening-exercise-nocturnal-hypertension
   - >-
-    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
+    a-vs-b-evening-walk-after-dinner-vs-15-minute-seated-breathing-4-7-8-method-impact-on-nocturnal-systolic-bp-dip-in-adults-68-with-non-dipping-pattern
   - >-
-    weekly-hiit-once-sarcopenia-diabetes
+    tai-chi-vs-walking-for-hfpef-seniors
 ---
 
 # How HIIT vs Zone 2 Walking Affects Diastolic BP in Adults 59–73: What the Evidence Gently Suggests

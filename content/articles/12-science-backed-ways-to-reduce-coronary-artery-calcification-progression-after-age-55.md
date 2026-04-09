@@ -9,7 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    how-night-shift-work-after-age-50-rewires-circadian-genes-linked-to-coronary-artery-calcification
+    12-science-backed-ways-to-reduce-coronary-artery-calcium-cac-progression-without-statins-in-adults-55-64-with-cac-score-100-300
+  - >-
+    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-in-adults-58-69-with-agatston-score-100-400-and-elevated-lp-a
+  - >-
+    foods-delay-artery-calcification-66
+  - >-
+    5-things-everyone-over-70-should-know-about-coronary-artery-calcium-cac-scoring-especially-if-you-re-taking-statins-but-have-zero-symptoms
+  - >-
+    7-hidden-environmental-triggers-that-worsen-coronary-artery-calcification-in-adults-62-with-long-term-statin-use
 
   - >-
     myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75

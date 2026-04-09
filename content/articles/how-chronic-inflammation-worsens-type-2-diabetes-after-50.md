@@ -10,6 +10,16 @@ primaryKeyword: chronic inflammation type 2 diabetes after 50
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    how-chronic-low-grade-inflammation-drives-insulin-resistance-in-adults-55-64-with-abdominal-obesity-and-elevated-hs-crp
+  - >-
+    how-type-2-diabetes-increases-heart-disease-risk-after-50
+  - >-
+    the-role-of-inflammation-in-heart-disease-for-older-adults
+  - >-
+    how-chronic-low-grade-gum-inflammation-alters-insulin-clearance-in-adults-57-69-with-well-controlled-type-2-diabetes
+  - >-
+    how-chronic-low-grade-inflammation-drives-beta-cell-decline-in-adults-52-64-with-long-standing-prediabetes-and-elevated-hs-crp
   - how-type-2-diabetes-increases-heart-disease-risk-after-50
   - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
   - the-role-of-fiber-in-controlling-blood-sugar-after-50

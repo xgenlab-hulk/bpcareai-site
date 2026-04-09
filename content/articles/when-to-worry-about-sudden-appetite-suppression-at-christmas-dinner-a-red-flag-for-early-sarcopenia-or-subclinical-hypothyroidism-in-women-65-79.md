@@ -9,6 +9,16 @@ primaryKeyword: sudden loss of appetite at holiday dinner women over 65
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
+  - >-
+    5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
+  - >-
+    4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts
+  - >-
+    warning-signs-your-senior-loved-one-is-using-food-to-cope-with-holiday-grief-or-loneliness
+  - >-
+    how-cold-weather-impacts-appetite-and-food-choices-in-seniors-during-the-holidays
   - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
   - >-
     warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines

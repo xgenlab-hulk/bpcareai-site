@@ -8,6 +8,16 @@ primaryKeyword: 'Christmas cookie swaps that don''t spike blood sugar'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    holiday-cookie-swap-glucose-management
+  - >-
+    the-truth-about-diabetes-friendly-holiday-cookies-what-label-claims-hide-and-what-real-ingredient-ratios-reveal
+  - >-
+    the-complete-guide-to-safe-holiday-baking-with-insulin-resistance-from-low-glycemic-flour-blends-to-oven-temperature-adjustments-for-adults-62
+  - >-
+    12-smart-swaps-to-manage-blood-sugar-during-holiday-meals
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
   - 12-smart-swaps-to-manage-blood-sugar-during-holiday-meals
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
   - >-

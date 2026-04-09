@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     natural-ways-to-lower-bp-without-medication-using-time-restricted-eating-validated-in-217-adults-with-metabolic-syndrome-and-night-eating-patterns
   - >-
-    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
+    how-chronic-low-dose-cortisol-elevation-from-night-shift-work-alters-renin-angiotensin-feedback-loops-in-men-52-64-with-nocturnal-hypertension
   - >-
-    simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
+    what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring
   - >-
-    normalize-nocturnal-blood-pressure-dipping
+    myths-vs-facts-my-bp-is-fine-because-it-s-normal-at-the-doctor-s-office-why-that-misses-24-hour-non-dipping-patterns-in-shift-workers
   - >-
-    how-late-afternoon-snacking-at-family-gatherings-disrupts-nocturnal-melatonin-and-elevates-fasting-glucose-in-adults-59-66-with-shift-work-history
+    natural-ways-to-improve-endothelial-nitric-oxide-synthase-enos-activity-at-night-for-women-63-with-non-dipping-bp-and-shift-work-history
 ---
 
 # How Time-Restricted Eating Nighttime Blood Pressure Patterns Shift in Adults 61–77 With Prior Shift Work

@@ -8,6 +8,16 @@ primaryKeyword: 'BP medication OTC pain reliever interactions seniors'
 topicCluster: renal-health
 image: ''
 relatedSlugs:
+  - >-
+    7-hidden-medication-interactions-that-raise-blood-pressure-after-age-60-including-common-antidepressants-antihistamines-and-topical-nsaids
+  - >-
+    when-to-worry-about-a-single-bp-reading-over-180-110-especially-if-you-re-taking-nsaids-antidepressants-or-decongestants
+  - >-
+    the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
+  - >-
+    could-your-medications-be-raising-your-blood-pressure
+  - >-
+    7-hidden-blood-pressure-triggers-in-over-the-counter-cold-medicines-for-adults-65-with-stage-1-hypertension-and-mild-orthostatic-hypotension
   - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
   - >-
     why-holiday-meal-timing-disrupts-blood-pressure-medication-efficacy-in-men-over-62

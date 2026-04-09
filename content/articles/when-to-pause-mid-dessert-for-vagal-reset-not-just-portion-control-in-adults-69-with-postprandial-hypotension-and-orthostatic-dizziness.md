@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     quick-ways-to-restore-postprandial-parasympathetic-tone-within-20-minutes-for-adults-61-75-with-type-2-diabetes-and-vagal-withdrawal-measured-by-rmssd
   - >-
-    when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension
-  - >-
     quick-fix-for-postprandial-hypotension-seniors
   - >-
     10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
+  - >-
+    simple-steps-to-reduce-post-meal-blood-pressure-drops-during-holiday-socializing-not-just-after-for-adults-74-with-autonomic-neuropathy
 ---
 
 # When to Pause Mid-Dessert for a Vagal Reset: A Practical Guide to Managing Postprandial Hypotension in Adults 69+

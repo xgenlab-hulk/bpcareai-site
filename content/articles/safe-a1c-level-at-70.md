@@ -13,6 +13,14 @@ image: ''
 relatedSlugs:
   - >-
     what-a1c-too-high-50-year-old
+  - >-
+    understanding-a1c-goals-for-seniors-with-diabetes
+  - >-
+    is-metformin-still-safe-for-diabetics-over-70
+  - >-
+    when-should-men-over-75-with-type-2-diabetes-stop-routine-hba1c-screening-a-risk-benefit-framework-for-deprescribing-glycemic-testing
+  - >-
+    12-science-backed-ways-to-reduce-glycemic-variability-not-just-lower-a1c-in-adults-55-71-with-type-2-diabetes-and-frequent-hypoglycemia
 ---
 
 # What’s a Safe A1C Level at 70? (7.0–7.5% Recommended)

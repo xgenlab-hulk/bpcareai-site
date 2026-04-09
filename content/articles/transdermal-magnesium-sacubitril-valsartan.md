@@ -11,15 +11,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
+    magnesium-glycinate-central-aortic-pressure
+  - >-
     5-things-you-should-know-before-starting-a-daily-magnesium-glycinate-protocol-especially-if-you-re-taking-amiodarone-or-digoxin-and-are-over-75
   - >-
-    hawthorn-vs-magnesium-holiday-heart
-  - >-
-    what-research-says-about-magnesium-glycinate-vs-magnesium-oxide-for-qt-interval-stability-in-older-adults-on-amiodarone
-  - >-
-    magnesium-glycinate-blood-pressure-instability
-  - >-
     does-daily-250-mg-of-magnesium-threonate-improve-ventricular-repolarization-homogeneity-in-adults-60-72-with-qtc-prolongation-and-polypharmacy
+  - >-
+    does-daily-2-gram-magnesium-glycinate-lower-24-hour-diastolic-bp-in-adults-63-79-with-chronic-constipation-and-low-rbc-magnesium
+  - >-
+    magnesium-threonate-beta-blocker-safety
 ---
 
 # Is Transdermal Magnesium Chloride Safe with Sacubitril/Valsartan in Older Adults with Heart Failure?

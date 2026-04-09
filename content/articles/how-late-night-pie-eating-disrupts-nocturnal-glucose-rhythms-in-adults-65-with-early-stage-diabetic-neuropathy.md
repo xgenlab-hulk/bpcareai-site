@@ -13,9 +13,13 @@ relatedSlugs:
   - >-
     how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
   - >-
-    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
+    the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-
     how-late-night-cookie-binges-alter-hepatic-gluconeogenesis-rhythms-in-adults-58-66-with-prediabetes-and-why-it-matters-for-fasting-glucose-stability
+  - >-
+    how-late-night-snacking-during-hanukkah-or-christmas-eve-affects-overnight-glucose-stability-in-women-over-70
+  - >-
+    simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-
     does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control

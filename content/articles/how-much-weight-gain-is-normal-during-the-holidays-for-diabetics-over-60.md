@@ -10,6 +10,16 @@ primaryKeyword: holiday weight gain with diabetes after 60
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - >-
+    can-eggnog-and-desserts-be-part-of-a-diabetic-holiday-diet-after-60
+  - >-
+    myths-vs-facts-holiday-eating-with-diabetes-after-50
+  - >-
+    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
+  - >-
+    simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
   - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
   - when-to-worry-about-weight-gain-after-a-family-gathering

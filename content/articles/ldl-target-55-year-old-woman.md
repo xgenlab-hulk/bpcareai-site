@@ -11,6 +11,16 @@ primaryKeyword: what should LDL be for a 55 year old woman
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    best-cholesterol-meds-women-menopause
+  - >-
+    read-cholesterol-test-after-60
+  - >-
+    why-heart-disease-risk-skyrockets-in-women-58-67-within-3-years-after-menopause-even-with-normal-cholesterol
+  - >-
+    high-cholesterol-fatigue-after-35
+  - >-
+    does-stress-raise-cholesterol-after-35
   - read-cholesterol-test-after-60
   - best-cholesterol-meds-women-menopause
 ---

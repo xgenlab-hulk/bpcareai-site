@@ -10,6 +10,16 @@ primaryKeyword: heart disease risk at high altitude for retirees
 topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:
+  - >-
+    7-silent-signs-your-heart-is-struggling-during-air-travel-especially-for-adults-70-with-diastolic-dysfunction-and-mild-hypoxemia
+  - >-
+    how-chronic-lung-conditions-amplify-heart-risks-in-winter
+  - >-
+    how-retirement-changes-affect-heart-health
+  - >-
+    barometric-pressure-drop-systolic-load-hypertensive-heart-disease
+  - >-
+    check-bp-after-flying-copd-60
   - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
   - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
   - blood-pressure-management-for-sedentary-seniors-in-winter-months

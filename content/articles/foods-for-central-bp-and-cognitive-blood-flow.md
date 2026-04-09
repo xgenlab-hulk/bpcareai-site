@@ -10,6 +10,16 @@ primaryKeyword: foods that lower central blood pressure and help brain flow
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    central-aortic-pressure-foods-74-pulse
+  - >-
+    central-aortic-pressure-foods-90-min
+  - >-
+    foods-for-aortic-stiffness-without-orthostasis
+  - >-
+    foods-lower-blood-pressure-naturally-53-68
+  - >-
+    10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63
 
   - >-
     foods-stabilize-pulse-pressure-seniors-orthostasis

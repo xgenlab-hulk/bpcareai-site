@@ -9,6 +9,14 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    can-intermittent-fasting-worsen-autonomic-neuropathy-in-adults-71-with-long-term-type-2-diabetes-and-orthostatic-tachycardia
+  - >-
+    fatigue-after-meals-diabetes-elderly
+  - >-
+    can-intermittent-fasting-help-manage-type-2-diabetes-after-60
+  - >-
+    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
+  - >-
     dangers-of-intermittent-fasting-for-adults-with-severe-hypertension-and-autonomic-neuropathy-confirmed-by-ewing-battery
   - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
   - >-

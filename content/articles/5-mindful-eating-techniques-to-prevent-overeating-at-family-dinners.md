@@ -8,6 +8,16 @@ primaryKeyword: 'how to stop overeating at family dinners after 50'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
+  - >-
+    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
+  - >-
+    5-things-everyone-over-60-should-know-about-family-style-serving-and-its-impact-on-postprandial-blood-pressure-variability
+  - >-
+    why-emotional-eating-at-family-gatherings-is-common-and-how-to-manage-it
+  - >-
+    portion-control-strategies-for-large-family-meals-that-work
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
   - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
   - >-

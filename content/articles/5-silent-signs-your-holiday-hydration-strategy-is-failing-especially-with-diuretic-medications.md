@@ -8,6 +8,16 @@ primaryKeyword: 'dehydration signs while on water pills'
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
+  - >-
+    warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
+  - >-
+    the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use
+  - >-
+    warning-signs-your-holiday-appetizer-platter-is-causing-subclinical-hyponatremia-especially-with-diuretic-use-in-adults-77
+  - >-
+    myths-vs-facts-i-can-skip-my-diuretic-the-day-after-thanksgiving-why-that-risks-acute-decompensated-heart-failure-in-adults-67-81
+  - >-
+    holiday-hydration-glucose-homeostasis-polypharmacy
   - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
   - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
   - how-dehydration-affects-blood-sugar-readings-in-older-diabetics

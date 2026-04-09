@@ -13,11 +13,13 @@ relatedSlugs:
   - >-
     hot-bath-affects-glucose-monitor-accuracy
   - >-
+    how-dehydration-affects-blood-sugar-readings-in-older-diabetics
+  - >-
     why-does-blood-sugar-spike-after-a-10-minute-walk-in-adults-62-78-with-type-2-diabetes-and-diabetic-retinopathy
   - >-
-    pulse-wave-velocity-after-shower-seniors
+    why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
   - >-
-    what-causes-blood-pressure-to-spike-during-morning-showering-in-adults-62-78-with-autonomic-neuropathy-and-orthostatic-hypotension
+    7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
   - the-impact-of-hot-showers-on-blood-pressure-and-heart-rate
 ---
 

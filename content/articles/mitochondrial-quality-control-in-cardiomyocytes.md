@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     mitochondrial-biogenesis-heart-aging
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-using-pomegranate-derived-urolithin-a-and-time-restricted-feeding-for-adults-63-79-with-diabetic-cardiomyopathy
-  - >-
-    mitochondrial-biogenesis-heart-natural
+    urolithin-a-mitochondrial-biogenesis-diabetic-cardiomyopathy
   - >-
     mitochondrial-biogenesis-diastolic-dysfunction
   - >-
-    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
+    mitochondrial-biogenesis-heart-natural
+  - >-
+    mitochondrial-heart-health-meal-timing-seniors
 ---
 
 # Supporting Mitochondrial Quality Control in Cardiomyocytes Naturally — Safe, Evidence-Informed Strategies for Adults 66+

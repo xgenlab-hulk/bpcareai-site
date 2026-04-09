@@ -9,9 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    endothelial-nitric-oxide-synthase-recoupling
+  - >-
+    endothelial-support-without-nitrates-seniors
+  - >-
     boost-nitric-oxide-naturally-seniors
   - >-
-    10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina
+    natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
+  - >-
+    nrf2-activating-foods-microvascular-angina-elders
 
   - >-
     natural-ways-to-support-capillary-perfusion-without-vasodilators-for-adults-67-79-with-hypertension-mild-peripheral-artery-disease-and-cold-hands-feet

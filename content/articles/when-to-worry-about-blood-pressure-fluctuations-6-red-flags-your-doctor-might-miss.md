@@ -10,6 +10,16 @@ primaryKeyword: blood pressure variability red flags over 50
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    myths-vs-facts-my-bp-is-fine-because-my-pulse-is-steady-why-heart-rate-normalcy-doesn-t-rule-out-non-dipping-or-morning-surge
+  - >-
+    what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75
+  - >-
+    the-truth-about-normal-bp-variability-why-24-hour-sd-15-mmhg-predicts-microinfarct-burden-in-adults-69-with-white-matter-hyperintensities
+  - >-
+    ambulatory-blood-pressure-variability-interpretation
+  - >-
+    what-research-says-about-blood-pressure-variability-in-adults-58-67-with-early-parkinson-s-disease-before-motor-symptoms-emerge
   - when-to-worry-about-blood-pressure-changes-during-winter
   - exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous
   - >-

@@ -11,11 +11,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    the-role-of-omega-3-fatty-acids-in-preventing-heart-disease
+  - >-
+    top-7-heart-protective-vitamins-to-take-in-winter
+  - >-
     the-truth-about-heart-healthy-omega-6-rich-vegetable-oils-in-adults-55-70-with-elevated-oxidized-ldl-and-low-hdl2-subfraction
   - >-
-    the-truth-about-heart-healthy-olive-oil-labels-why-extra-virgin-isn-t-enough-for-adults-72-with-advanced-carotid-plaque
+    what-research-says-about-polyphenol-bioavailability-from-holiday-spices-cinnamon-clove-nutmeg-in-adults-71-with-low-cyp2c9-activity
   - >-
-    instant-oatmeal-endothelial-function-seniors
+    the-truth-about-heart-healthy-olive-oil-labels-why-extra-virgin-isn-t-enough-for-adults-72-with-advanced-carotid-plaque
   - the-role-of-omega-3-fatty-acids-in-preventing-heart-disease
 ---
 

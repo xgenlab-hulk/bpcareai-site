@@ -11,15 +11,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    sweet-potatoes-roasted-vs-slow-cooked-endothelial-function
+    turkey-preparation-postprandial-systolic-pressure
+  - >-
+    10-ways-to-reduce-advanced-glycation-end-products-ages-in-holiday-roasts-without-eliminating-meat-for-adults-67-with-diabetic-nephropathy
   - >-
     turkey-preparation-gout-uric-acid-comparison
   - >-
     turkey-preparation-zinc-bioavailability-seniors
   - >-
-    bone-broth-vs-canned-soup-endothelial-function
-  - >-
-    10-ways-to-reduce-advanced-glycation-end-products-ages-in-holiday-roasts-without-eliminating-meat-for-adults-67-with-diabetic-nephropathy
+    sweet-potatoes-roasted-vs-slow-cooked-endothelial-function
 ---
 
 # How Your Turkey Cooking Method Affects Endothelial Health — A Gentle Guide for Adults 65 and Up

@@ -9,7 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    skip-insulin-holiday-pie-beta-cell-stress
+    myths-vs-facts-you-can-reverse-type-2-diabetes-with-diet-alone-what-15-year-remission-data-shows-for-adults-diagnosed-after-age-55
+  - >-
+    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
+  - >-
+    can-prediabetes-be-reversed-after-age-50
+  - >-
+    myths-vs-facts-i-don-t-need-insulin-because-my-a1c-is-stable-what-beta-cell-mass-imaging-reveals-in-adults-57-70-with-long-standing-type-2-diabetes
+  - >-
+    how-intermittent-fasting-affects-beta-cell-rest-and-regeneration-in-adults-54-68-with-new-onset-type-2-diabetes-what-12-week-clinical-trials-show
 
   - >-
     myths-vs-facts-i-ll-just-exercise-more-after-the-holidays-why-that-strategy-fails-for-adults-65-with-type-2-diabetes-and-sarcopenic-obesity

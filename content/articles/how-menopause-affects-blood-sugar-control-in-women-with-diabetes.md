@@ -10,6 +10,16 @@ primaryKeyword: menopause blood sugar changes with diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    7-unexpected-signs-of-nocturnal-hypoglycemia-in-women-58-73-with-insulin-therapy-and-perimenopausal-sleep-fragmentation
+  - >-
+    the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
+  - >-
+    12-science-backed-ways-to-reduce-glucose-variability-during-winter-months-for-adults-60-with-seasonal-affective-disorder-and-type-2-diabetes
+  - >-
+    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
+  - >-
+    why-your-blood-sugar-might-be-higher-in-december-even-with-good-habits
   - blood-pressure-changes-during-menopause-what-women-should-know
   - blood-pressure-fluctuations-during-menopause-what-women-should-know
   - how-cold-weather-affects-blood-sugar-in-people-with-diabetes

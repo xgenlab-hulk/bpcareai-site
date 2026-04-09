@@ -10,6 +10,16 @@ primaryKeyword: erectile dysfunction and heart disease in men over 50
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    heart-disease-warning-signs-that-appear-years-in-advance
+  - >-
+    can-hearing-loss-be-an-early-sign-of-heart-disease
+  - >-
+    heart-disease-symptoms-in-women-over-50-what-s-often-missed
+  - >-
+    how-type-2-diabetes-increases-heart-disease-risk-after-50
+  - >-
+    7-hidden-heart-disease-risks-in-adults-55-64-who-still-feel-too-young-for-cardiac-screening
   - heart-disease-warning-signs-that-appear-years-in-advance
   - can-hearing-loss-be-an-early-sign-of-heart-disease
   - how-strong-are-your-fingernails-what-it-might-say-about-your-heart

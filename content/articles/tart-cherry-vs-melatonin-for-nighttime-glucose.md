@@ -9,15 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    glucose-variability-shift-workers
+    tart-cherry-juice-vs-melatonin-for-blood-pressure
   - >-
     how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
   - >-
-    how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
+    glucose-variability-shift-workers
   - >-
-    how-late-afternoon-snacking-at-family-gatherings-disrupts-nocturnal-melatonin-and-elevates-fasting-glucose-in-adults-59-66-with-shift-work-history
+    stabilize-morning-glucose-without-insulin
   - >-
-    how-late-night-cookie-binges-alter-hepatic-gluconeogenesis-rhythms-in-adults-58-66-with-prediabetes-and-why-it-matters-for-fasting-glucose-stability
+    led-nightlights-nocturnal-glucose-seniors
 ---
 
 # Tart Cherry vs Melatonin for Nighttime Glucose: A Gentle Comparison for Women 61–75 with Type 2 Diabetes and Sleep Fragmentation

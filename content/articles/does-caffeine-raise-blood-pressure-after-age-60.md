@@ -8,6 +8,16 @@ primaryKeyword: 'does caffeine raise blood pressure after 60'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    7-hidden-blood-pressure-spikes-you-re-causing-with-your-morning-coffee-routine-and-how-to-fix-them-without-quitting-caffeine
+  - >-
+    7-hidden-medication-interactions-that-raise-blood-pressure-after-age-60-including-common-antidepressants-antihistamines-and-topical-nsaids
+  - >-
+    how-chronic-stress-contributes-to-high-blood-pressure-over-time
+  - >-
+    7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
+  - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
   - can-drinking-too-much-water-raise-blood-pressure
   - the-role-of-potassium-in-managing-blood-pressure-after-50
   - how-chronic-stress-contributes-to-high-blood-pressure-over-time

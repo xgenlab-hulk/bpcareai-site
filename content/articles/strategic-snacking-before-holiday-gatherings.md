@@ -11,9 +11,15 @@ topicCluster: metabolic-syndrome-management
 image: ''
 relatedSlugs:
   - >-
-    how-late-afternoon-snacking-before-a-family-dinner-alters-ghrelin-leptin-rhythms-in-adults-with-sarcopenic-obesity-over-65
+    can-you-reverse-insulin-resistance-with-just-3-strategic-holiday-meals-a-14-day-pilot-study-breakdown
   - >-
-    when-to-eat-before-a-family-gathering-if-you-re-on-glp-1-agonists-and-over-65
+    myths-vs-facts-eating-light-at-holiday-dinners-prevents-glucose-spikes-in-adults-62-with-insulin-resistance
+  - >-
+    5-science-backed-ways-to-reduce-holiday-related-insulin-resistance
+  - >-
+    12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry
+  - >-
+    5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
   - 5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
   - >-
     protein-first-timing-triglycerides-metabolic-syndrome

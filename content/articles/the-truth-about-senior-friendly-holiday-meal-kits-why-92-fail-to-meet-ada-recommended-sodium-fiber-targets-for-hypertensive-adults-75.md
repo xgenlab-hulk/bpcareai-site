@@ -13,7 +13,13 @@ relatedSlugs:
   - >-
     the-truth-about-senior-friendly-holiday-meal-kits-why-81-fail-sodium-fiber-and-texture-safety-standards-for-adults-75
   - >-
-    the-truth-about-low-sodium-frozen-dinners-marketed-to-seniors-why-78-still-exceed-ada-sodium-targets-for-stage-1-hypertension
+    the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
+  - >-
+    senior-labeled-canned-soup-sodium-trap
+  - >-
+    the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
+  - >-
+    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
   - >-
     the-truth-about-heart-healthy-frozen-dinners-labeled-for-seniors-why-81-exceed-2023-aha-sodium-limits-for-left-ventricular-hypertrophy

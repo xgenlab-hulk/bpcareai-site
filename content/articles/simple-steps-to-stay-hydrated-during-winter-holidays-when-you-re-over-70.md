@@ -10,6 +10,16 @@ primaryKeyword: how to stay hydrated in winter over 70
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:
+  - >-
+    warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
+  - >-
+    how-staying-hydrated-in-winter-protects-your-heart-after-70
+  - >-
+    the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use
+  - >-
+    winter-hydration-blood-pressure-stability-elderly
+  - >-
+    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
   - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
   - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
   - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65

@@ -9,7 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker
+    how-holiday-table-salt-substitutes-affect-taste-perception-and-sodium-intake-in-adults-74-with-age-related-hypogeusia-and-hypertension
+  - >-
+    low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
+  - >-
+    the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
+  - >-
+    myths-vs-facts-salt-sensitivity-in-adults-74-with-long-standing-hypertension-why-82-of-salt-sensitive-diagnoses-are-based-on-outdated-protocols
+  - >-
+    how-hearing-loss-alters-flavor-perception-and-drives-excessive-salt-use-at-holiday-meals-in-adults-79-with-presbycusis
   - the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
   - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
   - 7-smart-swaps-for-healthier-holiday-meals-after-65

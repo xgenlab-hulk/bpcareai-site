@@ -8,6 +8,16 @@ primaryKeyword: 'soft holiday appetizers for seniors with denture instability'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
+  - >-
+    natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia
+  - >-
+    10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia
+  - >-
+    soft-foods-seniors-no-teeth
+  - >-
+    safe-holiday-foods-seniors-80-grandkids
   - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
   - >-
     natural-ways-to-support-chewing-efficiency-during-holiday-meals-without-dentures-or-supplements-for-adults-82-with-sarcopenic-dysphagia

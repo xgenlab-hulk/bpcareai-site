@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     mitochondrial-biogenesis-diastolic-dysfunction
   - >-
-    mitochondrial-heart-health-meal-timing-seniors
-  - >-
-    mitochondrial-biogenesis-after-overeating-seniors
-  - >-
     mitochondrial-biogenesis-heart-aging
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-for-adults-71-with-type-2-diabetes-and-severe-copd
+    mitochondrial-biogenesis-natural-diastolic-stiffness
+  - >-
+    mitochondrial-heart-health-meal-timing-seniors
+  - >-
+    mitochondrial-biogenesis-heart-natural
 ---
 
 # Supporting Heart Health Through Mitochondrial Biogenesis in Heart Failure: How Time-Restricted Eating and Strategic Polyphenol Timing Can Help

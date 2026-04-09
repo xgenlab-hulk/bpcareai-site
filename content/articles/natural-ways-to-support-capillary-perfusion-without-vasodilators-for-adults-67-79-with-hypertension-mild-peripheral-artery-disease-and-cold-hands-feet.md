@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     capillary-rarefaction-reversal-natural
   - >-
-    can-daily-12-second-nitric-oxide-nasal-sprays-improve-endothelial-function-in-women-58-69-with-morning-hypertension-and-cold-induced-raynaud-s
+    blood-pressure-cuff-skin-microtrauma-endothelial-dysfunction
   - >-
-    quick-ways-to-restore-post-exercise-vascular-reactivity-after-cold-exposure-for-adults-68-with-raynaud-s-phenomenon-and-elevated-pulse-wave-velocity
+    coronary-microvascular-reactivity-natural-support
   - >-
-    boost-nitric-oxide-naturally-seniors
+    foods-for-central-bp-and-cognitive-blood-flow
   - >-
-    microvascular-coronary-reactivity-natural
+    how-cold-weather-triggers-morning-hypertensive-crises-in-adults-72-with-white-coat-hypertension-and-peripheral-artery-disease
 ---
 
 # Supporting Capillary Perfusion in Hypertensive Elderly — Gentle, Natural Strategies for Better Microcirculation

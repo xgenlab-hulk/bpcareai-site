@@ -11,7 +11,15 @@ topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
   - >-
-    how-late-night-gift-wrapping-increases-sympathetic-drive-in-adults-with-orthostatic-intolerance-and-why-it-s-worse-than-late-night-eating
+    hosting-holiday-guests-atrial-protection
+  - >-
+    7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
+  - >-
+    top-6-stress-reduction-techniques-to-protect-your-heart-this-holiday
+  - >-
+    natural-autonomic-stabilization-holiday-heart
+  - >-
+    the-hidden-link-between-holiday-stress-and-irregular-heartbeat
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
   - >-
     can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65

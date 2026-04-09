@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood
   - >-
+    morning-sunlight-vs-blue-light-blocking-seniors
+  - >-
     sunlight-exposure-and-circadian-blood-pressure
   - >-
-    5-natural-light-therapy-alternatives-for-seniors-with-macular-degeneration-or-cataracts-who-can-t-use-standard-sad-lamps
-  - >-
-    a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension
+    top-5-light-therapy-lamps-recommended-by-geriatric-therapists-for-seniors
 ---
 
 # Dawn Simulation vs. Light Box for Seniors: What Really Supports Cortisol Rhythm and Daytime Alertness?

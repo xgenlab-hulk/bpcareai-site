@@ -9,7 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    can-daily-12-minute-seated-tai-chi-lower-24-hour-systolic-load-in-adults-71-with-isolated-systolic-hypertension-and-mild-gait-instability
+    tai-chi-vs-breathing-central-aortic-pressure
+  - >-
+    foods-for-aortic-stiffness-without-orthostasis
+  - >-
+    warning-signs-your-normal-office-diastolic-reading-is-missing-isolated-systolic-hypertension-especially-if-you-re-a-woman-over-70-with-stiff-arteries
+  - >-
+    12-things-every-man-over-70-should-know-about-isolated-systolic-hypertension-especially-if-he-s-taking-daily-aspirin-and-has-a-history-of-gout
+  - >-
+    tai-chi-vs-muscle-relaxation-for-nocturnal-hypertension
 
   - >-
     tai-chi-vs-breathing-central-aortic-pressure

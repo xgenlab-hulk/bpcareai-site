@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     what-are-the-earliest-signs-of-arterial-stiffness-in-women-54-67-before-bp-readings-cross-130-80
   - >-
-    what-are-the-earliest-retinal-microvascular-changes-predicting-incident-heart-failure-in-hypertensive-women-over-65
+    how-chronic-low-grade-dehydration-worsens-arterial-stiffness-in-women-with-stage-1-hypertension-over-58
   - >-
-    7-hidden-signs-your-blood-pressure-is-damaging-your-retina-especially-if-you-re-a-woman-over-67-with-no-headaches-or-vision-complaints
+    natural-ways-to-support-arterial-stiffness-reduction-in-8-12-weeks-using-targeted-flavonoid-timing-and-pulse-wave-velocity-feedback-in-adults-64-80
   - >-
-    warning-signs-of-hypertensive-retinopathy-progression-that-appear-before-vision-changes-detected-via-smartphone-fundus-imaging-in-adults-71
+    7-silent-signs-your-holiday-eating-is-accelerating-arterial-stiffness-especially-if-you-re-68-with-normal-office-bp
   - >-
-    pulse-wave-velocity-after-shower-seniors
+    aromatase-inhibitors-heart-microvascular-dysfunction
 ---
 
 # Early Arterial Stiffness Signs After Preeclampsia — What Women Over 63 on Aromatase Inhibitors Should Know

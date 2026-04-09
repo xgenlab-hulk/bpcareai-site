@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-home-based-isometric-handgrip-training-vs-guided-breathing-apps-for-lowering-diastolic-bp-in-sedentary-men-64-76
+    morning-vs-evening-exercise-nocturnal-hypertension
   - >-
-    intermittent-silence-and-non-dipping-bp
+    7-hidden-stressors-that-elevate-nighttime-systolic-pressure-in-women-over-68-even-with-normal-daytime-readings
   - >-
-    a-vs-b-home-based-oscillometric-cuff-vs-wrist-worn-ppg-device-for-detecting-nocturnal-non-dipping-in-adults-with-mild-sleep-apnea
+    can-daily-12-minute-seated-tai-chi-lower-24-hour-systolic-load-in-adults-71-with-isolated-systolic-hypertension-and-mild-gait-instability
   - >-
-    normalize-nocturnal-blood-pressure-dipping
+    tai-chi-vs-breathing-central-aortic-pressure
   - >-
-    a-vs-b-home-cuff-monitoring-vs-ambulatory-24-hour-bp-tracking-for-detecting-white-coat-effect-in-frail-adults-over-79
+    morning-stretching-vs-breath-hold-nocturnal-bp
 ---
 
 # Tai Chi vs Muscle Relaxation for Nocturnal Hypertension: What Works Best for Women 63–75 with Insomnia?

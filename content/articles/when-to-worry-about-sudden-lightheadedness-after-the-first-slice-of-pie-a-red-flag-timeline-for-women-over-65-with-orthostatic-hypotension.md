@@ -11,11 +11,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    when-to-worry-about-post-meal-dizziness-after-christmas-dinner-in-adults-65-with-diabetes-and-orthostatic-hypotension
+  - >-
+    post-dinner-fatigue-orthostatic-hypotension
+  - >-
     when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension
   - >-
-    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
-  - >-
     can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
+  - >-
+    fatigue-after-meals-diabetes-elderly
   - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
   - >-
     why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75

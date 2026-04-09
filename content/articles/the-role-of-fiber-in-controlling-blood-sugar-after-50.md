@@ -10,6 +10,16 @@ primaryKeyword: fiber for blood sugar control after 50
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    the-role-of-fiber-in-preventing-blood-sugar-spikes-at-holiday-dinners
+  - >-
+    best-supplements-for-blood-sugar-support-after-50
+  - >-
+    how-fiber-rich-diets-support-heart-health-in-people-over-60
+  - >-
+    is-sugar-free-living-necessary-for-diabetics-over-50
+  - >-
+    best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat
   - meal-timing-strategies-for-better-blood-sugar-control-after-50
   - best-fruits-for-diabetics-over-50-and-which-to-limit
   - best-supplements-for-blood-sugar-support-after-50

@@ -8,6 +8,16 @@ primaryKeyword: palpitations during meditation with aortic stenosis
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
+  - >-
+    palpitations-during-yoga-rvot-vt
+  - >-
+    heart-palpitations-when-standing-up-tea
+  - >-
+    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
+  - >-
+    should-you-worry-about-heart-palpitations-when-lying-down
+  - >-
+    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
   - can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes
   - >-
     when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction

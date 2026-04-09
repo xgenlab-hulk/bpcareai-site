@@ -12,15 +12,15 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
-    seated-resistance-band-hypertension-elderly
-  - >-
     the-best-indoor-exercises-for-blood-pressure-control-in-winter
+  - >-
+    can-deep-breathing-exercises-reduce-high-blood-pressure
   - >-
     best-low-impact-resistance-exercises-for-blood-pressure-control-in-adults-with-knee-osteoarthritis-and-stage-1-hypertension
   - >-
-    can-daily-12-minute-seated-tai-chi-lower-24-hour-systolic-load-in-adults-71-with-isolated-systolic-hypertension-and-mild-gait-instability
+    post-exercise-blood-pressure-rebound-in-elderly
   - >-
-    best-low-impact-exercises-for-managing-diabetes-after-60
+    walking-minutes-per-day-seniors-over-65
 ---
 
 # Best Low-Impact Exercise That Lowers Blood Pressure for Seniors

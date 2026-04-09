@@ -8,6 +8,16 @@ primaryKeyword: 'hydration strategies for heart patients holiday travel'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    best-hydration-strategies-during-holiday-travel-for-adults-71-with-stage-3-ckd-and-diuretic-use-to-prevent-hypovolemia-induced-arrhythmias
+  - >-
+    the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use
+  - >-
+    why-dehydration-at-holiday-events-may-worsen-heart-palpitations
+  - >-
+    12-evidence-based-hydration-strategies-to-prevent-holiday-heart-syndrome-in-adults-62-with-mild-dehydration-induced-qt-prolongation
+  - >-
+    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
   - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
   - why-dehydration-at-holiday-events-may-worsen-heart-palpitations
   - how-staying-hydrated-in-winter-protects-your-heart-after-70

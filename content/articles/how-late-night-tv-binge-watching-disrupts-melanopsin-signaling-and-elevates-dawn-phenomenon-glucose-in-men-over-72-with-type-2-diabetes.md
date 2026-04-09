@@ -11,9 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
+    led-nightlights-nocturnal-glucose-seniors
   - >-
-    how-late-afternoon-snacking-at-family-gatherings-disrupts-nocturnal-melatonin-and-elevates-fasting-glucose-in-adults-59-66-with-shift-work-history
+    how-chronic-exposure-to-blue-light-from-nighttime-tablet-use-disrupts-melatonin-mediated-insulin-secretion-in-adults-65-with-prediabetes
+  - >-
+    stabilize-morning-glucose-without-insulin
+  - >-
+    why-morning-cortisol-spikes-worsen-dawn-phenomenon-in-adults-62-with-long-standing-type-2-diabetes-and-adrenal-fatigue-symptoms
+  - >-
+    afternoon-sunlight-gluconeogenesis-type-2-diabetes
   - the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-

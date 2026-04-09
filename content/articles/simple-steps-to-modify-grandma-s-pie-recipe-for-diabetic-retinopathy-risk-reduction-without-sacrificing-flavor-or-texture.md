@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     10-foods-that-worsen-diabetic-retinopathy-progression-even-with-normal-blood-pressure-and-ldl-in-adults-60-with-early-nonproliferative-changes
   - >-
+    a-vs-b-traditional-green-bean-casserole-vs-air-fried-crispy-green-beans-with-shallot-garlic-oil-for-adults-with-early-diabetic-retinopathy
+  - >-
+    reverse-early-diabetic-retinopathy-naturally
+  - >-
+    12-science-backed-ways-to-protect-retinal-pericytes-and-reduce-early-diabetic-retinopathy-risk-without-medication
+  - >-
     12-science-backed-ways-to-buffer-the-glycemic-impact-of-holiday-pie-crust-in-adults-64-with-prediabetes-and-high-fasting-insulin
-  - >-
-    the-complete-guide-to-safe-holiday-baking-with-insulin-resistance-from-low-glycemic-flour-blends-to-oven-temperature-adjustments-for-adults-62
-  - >-
-    non-alcoholic-wine-diabetes-macular-degeneration
-  - >-
-    simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
 ---
 
 # A Heart-Warmingly Healthy Grandma Pie Recipe for Diabetic Retinopathy Support — Flavor Intact, Vision in Mind

@@ -17,9 +17,9 @@ relatedSlugs:
   - >-
     how-long-term-nsaid-use-even-occasional-elevates-pulse-pressure-in-adults-64-with-aortic-root-dilation-3-8-cm-on-echo
   - >-
-    nasal-rinse-breath-hold-for-endothelial-function
+    nasal-breathing-central-aortic-pressure
   - >-
-    nasal-breathing-baroreflex-diabetes
+    could-your-medications-be-raising-your-blood-pressure
 ---
 
 # How Nasal Decongestants and Pulse Pressure in Asthma Interact in Adults 55–64

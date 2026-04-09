@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     reverse-left-ventricular-hypertrophy-without-medication
   - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
+    12-science-backed-ways-to-reduce-left-atrial-stiffness-within-6-weeks-for-adults-61-76-with-paroxysmal-afib-and-elevated-la-strain-index
   - >-
-    natural-ways-to-support-arterial-stiffness-reduction-in-8-12-weeks-using-targeted-flavonoid-timing-and-pulse-wave-velocity-feedback-in-adults-64-80
+    7-silent-signs-your-holiday-sodium-intake-is-worsening-diastolic-stiffness-in-women-65-with-preserved-ejection-fraction
   - >-
-    resistance-training-left-ventricular-hypertrophy
+    arterial-stiffness-reduction-without-nitrates
   - >-
-    mitochondrial-biogenesis-heart-aging
+    mitochondrial-biogenesis-natural-diastolic-stiffness
 ---
 
 # 12 Science-Backed Ways to Reduce Left Ventricular Stiffness Without Medication

@@ -9,7 +9,15 @@ topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-inflammation-worsens-type-2-diabetes-after-50
+  - >-
     how-chronic-low-grade-inflammation-drives-beta-cell-decline-in-adults-52-64-with-long-standing-prediabetes-and-elevated-hs-crp
+  - >-
+    warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks
+  - >-
+    when-to-suspect-mitochondrial-myopathy-before-muscle-cramps-appear-red-flags-in-adults-65-with-rapid-onset-insulin-resistance-and-unexplained-fatigue
+  - >-
+    how-belly-fat-increases-blood-pressure-risk-after-middle-age
   - how-chronic-inflammation-worsens-type-2-diabetes-after-50
   - >-
     how-chronic-low-grade-inflammation-from-gum-disease-raises-a1c-in-adults-58-74-with-type-2-diabetes-and-poor-dental-access

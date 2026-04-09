@@ -12,6 +12,14 @@ image: ''
 relatedSlugs:
   - >-
     warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-detected-via-morning-stool-ph-and-bloating-pattern-shifts-in-adults-71
+  - >-
+    sudden-bloating-after-holiday-dinner
+  - >-
+    holiday-leftovers-sibo-early-signs-seniors
+  - >-
+    gastric-acid-resilience-ppi-therapy-holiday-meals
+  - >-
+    when-to-suspect-early-gut-microbiome-shifts-after-holiday-pie-consumption-even-without-diarrhea-or-bloating-in-adults-65-with-stable-ibs-d
   - holiday-leftovers-sibo-early-signs-seniors
   - >-
     when-to-suspect-early-gut-microbiome-shifts-after-holiday-pie-consumption-even-without-diarrhea-or-bloating-in-adults-65-with-stable-ibs-d

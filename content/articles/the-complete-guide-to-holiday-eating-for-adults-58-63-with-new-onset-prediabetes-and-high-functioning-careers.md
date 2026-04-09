@@ -10,6 +10,14 @@ image: ''
 relatedSlugs:
   - >-
     5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck
+  - >-
+    5-science-backed-ways-to-reduce-holiday-related-insulin-resistance
+  - >-
+    postprandial-glucose-family-gatherings-prediabetes
+  - >-
+    how-holiday-stress-hormones-disrupt-overnight-glucose-recovery-in-adults-58-69-with-prediabetes
+  - >-
+    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
   - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
   - >-
     how-holiday-table-settings-affect-portion-control-in-adults-55-72-with-prediabetes

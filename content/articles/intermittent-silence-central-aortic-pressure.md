@@ -12,13 +12,13 @@ relatedSlugs:
   - >-
     intermittent-silence-and-non-dipping-bp
   - >-
-    how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises
-  - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
-  - >-
     nasal-breathing-central-aortic-pressure
   - >-
-    best-breathing-patterns-for-reducing-central-systolic-pressure-in-adults-55-69-with-elevated-augmentation-index-and-high-frequency-hrv-suppression
+    quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
+  - >-
+    warning-signs-of-masked-nocturnal-hypertension-in-adults-62-who-sleep-with-white-noise-machines
+  - >-
+    natural-baroreflex-sensitivity-enhancement
 ---
 
 # How Intermittent Silence—Not Just Quiet—Supports Healthier Central Aortic Pressure in Adults 64+ With White-Coat Hypertension

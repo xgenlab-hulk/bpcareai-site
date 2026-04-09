@@ -11,11 +11,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    how-holiday-social-isolation-worsens-postprandial-glucose-variability-in-adults-78-living-alone-and-using-insulin
+    how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
   - >-
-    the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations
+    how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
   - >-
-    5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy
+    myths-vs-facts-healthy-eating-during-family-celebrations
+  - >-
+    the-complete-guide-to-eating-well-at-holiday-parties-without-asking-questions-or-drawing-attention-for-seniors-70-with-hearing-loss-and-social-anxiety
+  - >-
+    holiday-foods-blood-sugar-bp-seniors-70
   - warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know
   - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
 ---

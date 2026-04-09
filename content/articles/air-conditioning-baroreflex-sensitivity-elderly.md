@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     natural-baroreflex-sensitivity-enhancement
   - >-
-    how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises
+    carotid-baroreceptor-sensitivity-cooling
   - >-
-    why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72
+    cold-face-immersion-baroreflex-seniors
   - >-
-    post-exercise-blood-pressure-rebound-in-elderly
+    natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension
 ---
 
 # How Air Conditioning Baroreflex Sensitivity in Elderly Adults Is Affected by Everyday Cooling — And What You Can Do About It

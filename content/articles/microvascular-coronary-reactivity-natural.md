@@ -11,15 +11,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    microvascular-coronary-reactivity-natural
+    coronary-microvascular-reactivity-natural-support
   - >-
-    natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
+    natural-support-for-coronary-microvascular-disease
   - >-
-    natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension
+    7-silent-signs-of-coronary-microvascular-dysfunction-in-women-55-72-with-normal-coronary-angiograms-and-persistent-chest-discomfort
   - >-
-    boost-nitric-oxide-naturally-seniors
+    a-vs-b-daily-10-minute-resistance-band-workouts-vs-brisk-walking-for-improving-coronary-flow-reserve-in-adults-63-with-nonobstructive-cad
   - >-
-    can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
+    cold-hand-immersion-coronary-flow-reserve
 ---
 
 # Natural Ways to Boost Microvascular Coronary Reactivity—Especially for Women 52–68 With INOCA

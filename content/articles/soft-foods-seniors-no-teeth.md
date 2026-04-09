@@ -14,13 +14,13 @@ relatedSlugs:
   - >-
     nutrient-dense-foods-low-appetite-seniors
   - >-
-    best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods
+    meal-planning-seniors-budget
+  - >-
+    eating-with-ozempic-after-60
   - >-
     holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
   - >-
-    best-holiday-appetizers-for-adults-70-with-denture-instability-soft-high-protein-low-residue-options-that-don-t-require-chewing-force
-  - >-
-    calcium-rich-foods-without-dairy-seniors
+    best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods
 ---
 
 # Soft Foods for Seniors With No Teeth That Fill You Up

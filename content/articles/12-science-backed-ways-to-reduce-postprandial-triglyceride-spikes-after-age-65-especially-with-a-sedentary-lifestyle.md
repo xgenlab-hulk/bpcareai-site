@@ -9,7 +9,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
+    reduce-postprandial-triglycerides-quickly-seniors
+  - >-
+    quick-ways-to-normalize-postprandial-triglyceride-clearance-in-adults-67-with-diabetic-dyslipidemia-and-elevated-apoc-iii
+  - >-
+    quick-ways-to-lower-post-holiday-triglycerides-without-fasting-especially-for-sedentary-adults-over-75
+  - >-
+    quick-ways-to-lower-post-holiday-triglyceride-spikes-within-2-hours-using-targeted-omega-3-dosing-validated-in-adults-60-78-with-mixed-dyslipidemia
+  - >-
+    warning-signs-your-grandchild-s-leftover-mac-and-cheese-is-raising-your-postprandial-triglycerides-especially-after-age-55
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
   - >-

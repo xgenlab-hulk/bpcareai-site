@@ -11,15 +11,15 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
-    the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis
-  - >-
-    a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease
+    turkey-preparation-gout-uric-acid-comparison
   - >-
     can-you-safely-eat-leftover-turkey-salad-on-day-3-if-you-re-on-metformin-and-have-egfr-62-a-food-safety-renal-glucose-guide
   - >-
-    does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis
+    turkey-preparation-postprandial-systolic-pressure
   - >-
-    turkey-preparation-gout-uric-acid-comparison
+    turkey-cooking-method-endothelial-health
+  - >-
+    the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis
 ---
 
 # Understanding Leftover Turkey, Uric Acid, and Silent Gout Risk in Men Over 68

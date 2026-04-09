@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    intermittent-silence-and-non-dipping-bp
+    traffic-noise-morning-systolic-blood-pressure
   - >-
-    how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62
+    roadway-noise-sympathetic-tone-heart-failure
   - >-
-    how-social-isolation-after-age-70-alters-circadian-cortisol-rhythms-and-elevates-nighttime-systolic-pressure-independent-of-loneliness
+    traffic-vibration-baroreceptor-sensitivity-hypertension
   - >-
-    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
+    how-chronic-exposure-to-low-frequency-hvac-vibration-alters-baroreflex-sensitivity-in-adults-68-with-isolated-systolic-hypertension
   - >-
-    how-hearing-aid-use-correlates-with-3-year-systolic-bp-trajectory-in-adults-74-86-with-bilateral-sensorineural-hearing-loss
+    low-frequency-vibration-and-baroreflex-seniors
 ---
 
 # How Low-Frequency Noise Ambulatory Blood Pressure Changes Over Time in Older Adults Living in Urban High-Rises

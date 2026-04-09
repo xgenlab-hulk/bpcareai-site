@@ -10,6 +10,16 @@ primaryKeyword: how does atrial fibrillation affect heart disease in seniors
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    how-silent-heart-attacks-differ-in-older-adults
+  - >-
+    how-often-should-you-check-your-pulse-after-age-60
+  - >-
+    how-chronic-loneliness-alters-heart-rate-variability-and-increases-atrial-fibrillation-risk-in-adults-75-living-alone
+  - >-
+    the-role-of-inflammation-in-heart-disease-for-older-adults
+  - >-
+    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
   - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
   - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
   - the-hidden-link-between-gum-disease-and-heart-problems

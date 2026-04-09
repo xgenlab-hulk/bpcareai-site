@@ -9,15 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    beta-cell-rest-holiday-meals-natural-support
+  - >-
+    natural-ways-to-support-pancreatic-beta-cell-resilience-without-stimulating-insulin-secretion-using-sulforaphane-timing-low-dose-lithium-in-adults-56-64-with-early-beta-cell-decline
+  - >-
+    mitochondrial-biogenesis-beta-cells-diabetes
+  - >-
     natural-ways-to-support-pancreatic-beta-cell-resilience-after-age-59-using-time-restricted-eating-zinc-rich-foods-and-berberine-timing
   - >-
-    fermented-foods-beta-cell-resilience-type-2-diabetes
-  - >-
-    beta-cell-resilience-holiday-eating
-  - >-
-    meal-order-triglyceride-clearance-diabetes
-  - >-
-    time-restricted-eating-hepatic-insulin-sensitivity
+    restore-insulin-rhythm-without-melatonin
 ---
 
 # Supporting Your Pancreas Naturally: Gentle, Everyday Strategies for Beta-Cell Autophagy Natural Activation

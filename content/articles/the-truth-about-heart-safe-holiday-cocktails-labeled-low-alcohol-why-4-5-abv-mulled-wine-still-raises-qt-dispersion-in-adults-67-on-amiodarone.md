@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     how-late-night-eggnog-consumption-alters-cardiac-repolarization-reserve-in-adults-58-65-with-subclinical-qt-prolongation
   - >-
-    the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement
+    when-to-worry-about-just-one-more-glass-early-qtc-prolongation-signs-after-holiday-wine-consumption-in-women-62-on-ssris
+  - >-
+    non-alcoholic-drinks-holiday-heart-syndrome
   - >-
     myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs
   - >-
-    the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
-  - >-
-    mulled-wine-vs-sparkling-cider-arrhythmia
+    best-non-alcoholic-holiday-drinks-for-heart-health-after-50
 ---
 
 # What You *Really* Need to Know About Low-Alcohol Cocktails, QT Dispersion Risk, and Holiday Heart Safety

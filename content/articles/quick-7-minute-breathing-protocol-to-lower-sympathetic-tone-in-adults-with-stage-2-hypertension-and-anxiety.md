@@ -12,6 +12,14 @@ image: ''
 relatedSlugs:
   - >-
     quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
+  - >-
+    best-breathing-patterns-for-immediate-bp-reduction-in-adults-60-with-high-lf-hf-ratio-on-hrv-and-morning-anxiety
+  - >-
+    breathing-lower-systolic-bp-seniors
+  - >-
+    can-deep-breathing-exercises-reduce-high-blood-pressure
+  - >-
+    vagal-breathing-central-systolic-pressure
 
   - can-deep-breathing-exercises-reduce-high-blood-pressure
   - can-deep-breathing-exercises-lower-heart-disease-risk

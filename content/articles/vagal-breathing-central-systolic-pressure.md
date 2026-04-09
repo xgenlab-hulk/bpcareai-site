@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     nasal-breathing-central-aortic-pressure
   - >-
+    quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
+  - >-
     resonant-breathing-diastolic-pressure-reduction
   - >-
-    cold-face-immersion-baroreflex-seniors
-  - >-
-    can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history
+    tai-chi-vs-breathing-central-aortic-pressure
 ---
 
 # Can Daily Vagal Breathing Lower Central Systolic Pressure in Adults 60–73 With High Stress and Stiff Arteries?

@@ -10,6 +10,16 @@ primaryKeyword: home blood pressure monitoring with arthritis
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    best-home-blood-pressure-cuffs-for-adults-75-with-severe-arthritis-and-tremor-accuracy-fit-and-one-handed-operation-compared
+  - >-
+    a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor
+  - >-
+    dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands
+  - >-
+    home-bp-cuff-calibration-arthritis-mobility
+  - >-
+    home-blood-pressure-log-hearing-loss-tremor
   - how-to-monitor-blood-pressure-at-home-during-winter-a-senior-s-guide
   - blood-pressure-management-for-sedentary-seniors-in-winter-months
   - the-best-indoor-exercises-for-blood-pressure-control-in-winter

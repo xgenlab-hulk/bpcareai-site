@@ -11,11 +11,13 @@ relatedSlugs:
   - >-
     7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
   - >-
-    how-chronic-low-dose-cortisol-elevation-from-night-shift-work-alters-renin-angiotensin-feedback-loops-in-men-52-64-with-nocturnal-hypertension
+    does-daily-5-minute-vagus-nerve-stimulation-via-tens-on-the-tragus-lower-morning-systolic-bp-in-men-65-77-with-chronic-kidney-disease-stage-3
   - >-
-    7-hidden-blood-pressure-spikes-you-re-causing-with-your-morning-coffee-routine-and-how-to-fix-them-without-quitting-caffeine
+    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
   - >-
-    why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
+    low-carb-diet-morning-bp-spike-elderly
+  - >-
+    how-morning-blood-pressure-spikes-affect-your-heart
 
 ---
 

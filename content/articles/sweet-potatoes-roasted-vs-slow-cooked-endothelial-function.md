@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     a-vs-b-traditional-sweet-potato-casserole-vs-roasted-sweet-potato-medley-for-adults-with-peripheral-neuropathy-and-early-nerve-pain
   - >-
-    a-vs-b-traditional-green-bean-casserole-vs-air-fried-crispy-green-beans-with-shallot-garlic-oil-for-adults-with-early-diabetic-retinopathy
-  - >-
-    apple-cider-vs-eggnog-endothelial-function-seniors
+    sweet-potatoes-glucose-variability-seniors
   - >-
     maple-glazed-sweet-potatoes-vs-candied-yams-blood-sugar
   - >-
-    collard-greens-endothelial-function-comparison
+    turkey-cooking-method-endothelial-health
+  - >-
+    how-grandmother-s-special-sweet-potato-casserole-alters-postprandial-triglyceride-clearance-in-adults-68-with-metabolic-syndrome
 ---
 
 # Sweet Potatoes Roasted vs Slow-Cooked Endothelial Function: What Holiday Cooking Really Does to Your Arteries

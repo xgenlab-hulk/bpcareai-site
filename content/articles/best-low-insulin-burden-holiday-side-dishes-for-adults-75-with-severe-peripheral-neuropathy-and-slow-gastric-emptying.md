@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
   - >-
-    best-low-glycemic-high-fiber-stuffing-variations-for-adults-58-74-with-insulin-resistance-and-ibs-c
+    low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
   - >-
-    best-low-glycemic-holiday-side-dishes-for-seniors-with-type-2-diabetes-and-osteoarthritis-no-standing-or-chopping-required
+    best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
   - >-
-    best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation
+    7-hidden-blood-sugar-triggers-in-healthy-holiday-side-dishes-like-sweet-potato-casserole-and-cranberry-relish
   - >-
-    5-things-you-should-know-before-bringing-a-diabetes-safe-side-dish-to-thanksgiving-especially-if-you-re-cooking-for-someone-with-gastroparesis
+    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
 ---
 
 # Gentle Holiday Sides for Nerve Health & Digestive Comfort: Low Insulin Burden Holiday Sides Neuropathy Made Simple

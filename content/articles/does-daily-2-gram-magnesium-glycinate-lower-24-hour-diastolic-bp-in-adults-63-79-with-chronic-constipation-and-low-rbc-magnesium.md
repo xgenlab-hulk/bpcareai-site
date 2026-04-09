@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    normalize-glucose-variability-72-hours-magnesium
+    magnesium-glycinate-blood-pressure-instability
   - >-
-    magnesium-threonate-vs-glycinate-nocturnal-bp-dipping
+    magnesium-glycinate-central-aortic-pressure
   - >-
     best-supplements-for-improving-arterial-distensibility-in-men-61-77-with-hypertension-and-low-serum-magnesium-rbc-levels-4-2-mg-dl
   - >-
-    does-daily-200-mg-of-magnesium-l-threonate-not-oxide-or-citrate-improve-nocturnal-bp-dipping-in-adults-66-80-with-mild-cognitive-impairment
+    magnesium-threonate-vs-glycinate-nocturnal-bp-dipping
   - >-
-    what-research-says-about-magnesium-glycinate-vs-magnesium-oxide-for-qt-interval-stability-in-older-adults-on-amiodarone
+    magnesium-glycinate-holiday-dessert-timing
 ---
 
 # Can Magnesium Glycinate Help Lower Diastolic Blood Pressure in Adults 63–79 With Constipation and Low Magnesium?

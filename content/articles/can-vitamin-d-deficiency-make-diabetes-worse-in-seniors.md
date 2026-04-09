@@ -8,6 +8,16 @@ primaryKeyword: 'does low vitamin D worsen type 2 diabetes in seniors'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    does-daily-2000-iu-vitamin-d3-improve-postprandial-insulin-sensitivity-in-adults-53-69-with-type-2-diabetes-and-seasonal-vitamin-d-deficiency
+  - >-
+    what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
+  - >-
+    how-vitamin-d-deficiency-impacts-heart-health-in-winter
+  - >-
+    can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
+  - >-
+    how-gum-disease-is-linked-to-diabetes-complications-in-older-adults
   - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
   - how-vitamin-d-deficiency-impacts-heart-health-in-winter
   - how-gum-disease-is-linked-to-diabetes-complications-in-older-adults

@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     reverse-early-diabetic-retinopathy-naturally
   - >-
-    does-daily-tart-cherry-juice-really-reduce-endothelial-microparticle-release-in-adults-70-with-stage-1-hypertension-and-mild-hyperuricemia
-  - >-
     warning-signs-of-hypertensive-retinopathy-progression-that-appear-before-vision-changes-detected-via-smartphone-fundus-imaging-in-adults-71
   - >-
-    does-adding-3-grams-of-ground-flaxseed-daily-reduce-central-aortic-systolic-pressure-in-adults-60-72-with-metabolic-syndrome
-  - >-
     what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80
+  - >-
+    what-are-the-earliest-retinal-microvascular-changes-predicting-incident-heart-failure-in-hypertensive-women-over-65
+  - >-
+    capillary-rarefaction-reversal-natural
 ---
 
 # Can Quercetin Support Microvascular Health in Adults with Hypertensive Retinopathy? Insights from a New 12-Week Trial

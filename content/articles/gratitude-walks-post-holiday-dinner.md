@@ -11,7 +11,15 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+  - >-
+    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
+  - >-
+    post-dinner-walking-vs-breathing-glucose
+  - >-
     does-daily-10-minute-post-dinner-walking-really-reduce-holiday-induced-postprandial-endothelial-dysfunction-in-adults-72-with-mild-carotid-plaque
+  - >-
+    walking-vs-standing-post-dinner-glucose
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - >-
     post-dinner-walking-vs-breathing-glucose

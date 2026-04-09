@@ -10,15 +10,15 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    best-low-glycemic-high-resistant-starch-snacks-for-women-65-with-nighttime-hypoglycemia-and-gastroparesis-that-don-t-trigger-reflux
-  - >-
-    maple-glazed-sweet-potatoes-vs-candied-yams-blood-sugar
-  - >-
     bloating-mashed-potatoes-seniors
+  - >-
+    best-low-glycemic-high-resistant-starch-snacks-for-women-65-with-nighttime-hypoglycemia-and-gastroparesis-that-don-t-trigger-reflux
   - >-
     how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - >-
-    low-sugar-ketchup-blood-sugar-spike-gastroparesis
+    a-vs-b-roasted-sweet-potatoes-vs-mashed-cauliflower-for-postprandial-glucose-stability-in-adults-63-with-prediabetes-and-mild-dysphagia
+  - >-
+    how-holiday-leftovers-affect-postprandial-glucose-in-adults-72-with-early-stage-diabetic-nephropathy
 ---
 
 # Cold Mashed Potatoes Glycemic Index Gastroparesis: What You Need to Know After 64

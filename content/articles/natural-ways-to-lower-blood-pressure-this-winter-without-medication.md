@@ -10,6 +10,16 @@ primaryKeyword: how to lower blood pressure naturally in winter
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
+  - >-
+    the-connection-between-winter-infections-and-blood-pressure-fluctuations
+  - >-
+    10-simple-home-adjustments-to-support-blood-pressure-stability-in-winter
+  - >-
+    stress-blood-pressure-winter
+  - >-
+    the-link-between-winter-depression-and-high-blood-pressure-in-older-adults
   - can-meditation-lower-blood-pressure-naturally
   - can-deep-breathing-exercises-reduce-high-blood-pressure
   - natural-ways-to-support-blood-sugar-balance-during-holiday-stress

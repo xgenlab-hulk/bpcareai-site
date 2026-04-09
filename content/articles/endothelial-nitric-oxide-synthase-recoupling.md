@@ -9,7 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    improve-endothelial-function-quickly
+  - >-
     boost-nitric-oxide-naturally-seniors
+  - >-
+    nitric-oxide-coupling-without-l-arginine
+  - >-
+    gum-inflammation-endothelial-nitric-oxide-synthase-coupling
+  - >-
+    natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
 
   - >-
     nitric-oxide-coupling-without-l-arginine

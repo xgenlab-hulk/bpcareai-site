@@ -11,15 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
-  - >-
-    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
-  - >-
-    the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia
-  - >-
-    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
-  - >-
     holiday-eating-macular-degeneration
+  - >-
+    warning-signs-of-asymptomatic-diabetic-retinopathy-in-adults-66-with-10-years-of-controlled-a1c-that-aren-t-detected-on-annual-dilated-exam
+  - >-
+    dessert-portion-control-visual-decline
+  - >-
+    cookie-swap-diabetes-neuropathy-seniors
+  - >-
+    can-eggnog-and-desserts-be-part-of-a-diabetic-holiday-diet-after-60
 ---
 
 # Adapting Holiday Cookie Decorating for Adults With Diabetic Retinopathy and Reduced Contrast Sensitivity

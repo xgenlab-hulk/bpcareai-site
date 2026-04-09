@@ -8,6 +8,16 @@ primaryKeyword: 'how to keep blood sugar stable at holiday parties'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies
+  - >-
+    holiday-cookie-swap-glucose-management
+  - >-
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
+  - >-
+    5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
+  - >-
+    simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
   - managing-type-2-diabetes-while-attending-back-to-back-holiday-parties
   - 5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
   - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65

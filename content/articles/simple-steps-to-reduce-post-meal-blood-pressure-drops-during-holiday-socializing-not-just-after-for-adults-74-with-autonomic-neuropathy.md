@@ -11,15 +11,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    quick-fix-for-postprandial-hypotension-seniors
+    holiday-ham-dizziness-autonomic-neuropathy
   - >-
-    natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings
-  - >-
-    natural-baroreflex-sensitivity-enhancement
-  - >-
-    quick-ways-to-stabilize-post-meal-blood-flow-to-the-brain-in-adults-64-with-carotid-stenosis-50-and-orthostatic-dizziness
+    best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
   - >-
     when-to-worry-about-post-meal-dizziness-after-christmas-dinner-in-adults-65-with-diabetes-and-orthostatic-hypotension
+  - >-
+    fatigue-after-meals-diabetes-elderly
+  - >-
+    blood-pressure-drops-walking-diabetes-neuropathy
 ---
 
 # How to Prevent Post-Meal Blood Pressure Drops During Holiday Socializing — Especially for Seniors 74+ With Autonomic Neuropathy

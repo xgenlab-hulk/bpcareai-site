@@ -9,15 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    5-things-everyone-over-67-should-know-about-using-continuous-glucose-monitors-with-pacemakers-especially-if-you-sleep-in-a-magnetic-mattress-pad
+  - >-
+    cgms-for-seniors-without-smartphones
+  - >-
+    5-things-you-should-know-before-starting-a-continuous-glucose-monitor-cgm-if-you-re-67-with-low-vision-tremor-or-dexterity-loss
+  - >-
+    5-things-everyone-over-70-should-know-about-using-continuous-glucose-monitors-with-severe-edema-lymphedema-or-recent-lower-limb-surgery
+  - >-
     can-you-safely-use-a-continuous-glucose-monitor-while-wearing-holiday-sweaters-with-metallic-threads-or-magnetic-closures
-  - >-
-    blood-glucose-monitor-iron-supplement-interference
-  - >-
-    the-complete-guide-to-holiday-heart-syndrome-prevention-for-adults-with-pacemakers-or-icds-including-safe-gift-ideas-and-travel-tips
-  - >-
-    cgm-interpretation-early-dementia-diabetes
-  - >-
-    chest-ecg-devices-air-travel-pacemaker-dependent
 ---
 
 # What Seniors Over 75 Need to Know About CGM Pacemaker Safety

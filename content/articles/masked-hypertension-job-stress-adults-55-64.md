@@ -11,15 +11,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    the-complete-guide-to-interpreting-home-bp-log-patterns-spotting-masked-hypertension-white-coat-effect-and-circadian-shifts-in-adults-59-71
+    left-ventricular-hypertrophy-masked-hypertension
   - >-
-    the-truth-about-white-coat-resistance-why-some-adults-55-show-higher-bp-at-home-than-in-clinics-and-what-it-reveals-about-vascular-aging
+    masking-secondary-hypertension-symptoms
   - >-
-    white-coat-hypertension-emergency-room-adults-68
+    myths-vs-facts-my-bp-is-fine-because-it-s-normal-at-the-doctor-s-office-why-that-misses-24-hour-non-dipping-patterns-in-shift-workers
   - >-
     what-causes-white-coat-normotension-when-clinic-readings-are-normal-but-ambulatory-monitoring-shows-stage-1-hypertension-in-adults-61-75
   - >-
-    warning-signs-of-masked-nocturnal-hypertension-in-adults-62-who-sleep-with-white-noise-machines
+    blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ
 ---
 
 # “My BP Is Normal at the Doctor’s—So I’m Fine,” Right? Why Masked Hypertension Job Stress Adults 55–64 Often Miss the Real Story

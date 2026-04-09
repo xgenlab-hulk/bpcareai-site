@@ -8,6 +8,16 @@ primaryKeyword: 'difference between AFib and holiday heart syndrome'
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
+  - >-
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - >-
+    is-holiday-heart-syndrome-reversible-what-science-says
+  - >-
+    the-truth-about-benign-holiday-palpitations-are-they-really-harmless
+  - >-
+    how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
+  - >-
+    how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - >-
     the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50

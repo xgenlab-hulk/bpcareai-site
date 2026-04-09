@@ -8,6 +8,16 @@ primaryKeyword: 'cardiac amyloidosis vs hypertensive heart disease seniors'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    cardiac-amyloidosis-vs-diastolic-failure
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-men-73-with-unexplained-left-ventricular-hypertrophy-bilateral-carpal-tunnel-syndrome-and-orthostatic-dizziness
+  - >-
+    cardiac-amyloidosis-diagnosis-low-voltage-ecg-older-men
+  - >-
+    red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
+  - >-
+    cardiac-amyloidosis-early-detection-orthostasis
 
   - >-
     cardiac-amyloidosis-vs-diastolic-failure

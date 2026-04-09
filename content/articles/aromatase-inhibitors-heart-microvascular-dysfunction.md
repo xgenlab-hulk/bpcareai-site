@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     microvascular-coronary-reactivity-natural
   - >-
-    how-chronic-low-dose-corticosteroid-use-for-rheumatoid-arthritis-accelerates-coronary-endothelial-senescence-in-adults-55-69-with-normal-ldl
+    arterial-stiffness-signs-after-preeclampsia
+  - >-
+    why-does-heart-disease-progress-faster-in-women-after-menopause-and-what-hormone-modulated-endothelial-pathways-are-involved
   - >-
     7-silent-signs-of-coronary-microvascular-dysfunction-in-women-55-72-with-normal-coronary-angiograms-and-persistent-chest-discomfort
   - >-
-    microvascular-coronary-reactivity-natural
-  - >-
-    how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
+    aromatase-inhibitors-diabetes-interaction-seniors
 ---
 
 # What Women Over 65 with Early-Stage Breast Cancer Should Know About Aromatase Inhibitors, Heart Health, and Microvascular Dysfunction

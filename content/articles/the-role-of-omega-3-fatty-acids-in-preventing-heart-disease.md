@@ -10,6 +10,16 @@ primaryKeyword: omega-3 for heart disease prevention after 50
 topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:
+  - >-
+    can-mindfulness-meditation-reduce-heart-disease-risk-after-50
+  - >-
+    can-meditation-reduce-heart-disease-risk-after-50
+  - >-
+    the-role-of-inflammation-in-heart-disease-for-older-adults
+  - >-
+    can-heart-disease-be-reversed-with-lifestyle-changes-after-50
+  - >-
+    omega-3-supplement-bioavailability-seniors
   - the-role-of-inflammation-in-heart-disease-for-older-adults
   - how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors
   - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50

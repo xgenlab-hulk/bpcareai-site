@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     how-intergenerational-cookie-baking-affects-postprandial-glucose-variability-in-adults-52-64-with-prediabetes-and-slow-gastric-emptying
   - >-
-    how-intergenerational-cooking-stress-alters-postprandial-insulin-sensitivity-in-women-61-76-with-abdominal-obesity-and-cortisol-dysregulation
+    storytelling-gastric-emptying-postprandial-glucose
+  - >-
+    intermittent-socializing-postprandial-glucose
   - >-
     how-intergenerational-plate-sharing-during-thanksgiving-dinner-elevates-postprandial-glucose-spikes-in-adults-62-with-prediabetes
   - >-
-    how-emotional-eating-patterns-shift-during-multigenerational-gatherings-and-why-that-matters-for-adults-with-long-standing-type-2-diabetes
-  - >-
-    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
+    intergenerational-dining-stress-cortisol-glucose
 ---
 
 # How Intergenerational Cooking Affects Blood Sugar Spikes in Adults 58–72 With Prediabetes and Delayed Gastric Emptying

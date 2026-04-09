@@ -10,6 +10,16 @@ primaryKeyword: weight gain after holiday gathering when to worry
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
+  - >-
+    does-holiday-weight-gain-predict-1-year-cardiovascular-risk-in-adults-with-metabolic-syndrome-over-58
+  - >-
+    why-older-women-gain-weight-faster-during-the-holidays-after-menopause
+  - >-
+    how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
+  - >-
+    when-to-worry-about-holiday-weight-gain-if-you-re-75-with-heart-failure-and-preserved-ejection-fraction
   - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
   - when-to-worry-about-chest-discomfort-after-a-big-holiday-meal
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes

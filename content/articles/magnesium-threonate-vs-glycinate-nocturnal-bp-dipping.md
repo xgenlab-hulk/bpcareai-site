@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    tart-cherry-vs-melatonin-for-nighttime-glucose
+    does-daily-200-mg-of-magnesium-l-threonate-not-oxide-or-citrate-improve-nocturnal-bp-dipping-in-adults-66-80-with-mild-cognitive-impairment
   - >-
-    what-research-says-about-magnesium-glycinate-vs-magnesium-oxide-for-qt-interval-stability-in-older-adults-on-amiodarone
+    magnesium-glycinate-blood-pressure-instability
   - >-
-    normalize-glucose-variability-72-hours-magnesium
+    does-daily-2-gram-magnesium-glycinate-lower-24-hour-diastolic-bp-in-adults-63-79-with-chronic-constipation-and-low-rbc-magnesium
   - >-
-    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
+    magnesium-threonate-beta-blocker-safety
   - >-
-    tai-chi-vs-muscle-relaxation-for-nocturnal-hypertension
+    tart-cherry-juice-vs-melatonin-for-blood-pressure
 ---
 
 # Magnesium Threonate vs Glycinate for Nocturnal BP Dipping: What Women 66–79 With Non-Dipping Patterns Should Know

@@ -10,6 +10,16 @@ primaryKeyword: winter salt intake and blood pressure in seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    natural-ways-to-lower-blood-pressure-this-winter-without-medication
+  - >-
+    the-link-between-winter-depression-and-high-blood-pressure-in-older-adults
+  - >-
+    winter-hydration-blood-pressure-stability-elderly
+  - >-
+    the-connection-between-winter-infections-and-blood-pressure-fluctuations
+  - >-
+    10-simple-home-adjustments-to-support-blood-pressure-stability-in-winter
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
   - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors

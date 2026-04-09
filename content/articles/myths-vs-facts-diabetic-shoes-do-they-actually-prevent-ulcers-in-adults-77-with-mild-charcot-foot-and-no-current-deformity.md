@@ -10,7 +10,15 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
+    charcot-neuroarthropathy-footwear-seniors
+  - >-
     best-footwear-materials-for-reducing-shear-stress-in-adults-68-82-with-diabetic-neuropathy-hallux-rigidus-and-history-of-recurrent-toe-ulcers
+  - >-
+    best-walking-surfaces-diabetic-foot-ulcers
+  - >-
+    best-footwear-modifications-for-adults-65-with-charcot-neuroarthropathy-and-mild-copd-balancing-offloading-oxygen-conservation-and-fall-prevention
+  - >-
+    simple-steps-to-prevent-diabetic-foot-ulcers-during-winter-for-adults-71-with-peripheral-neuropathy-and-indoor-heaters
 
   - >-
     best-foot-protective-sock-materials-for-men-74-with-diabetic-neuropathy-edema-and-stage-2-venous-insufficiency

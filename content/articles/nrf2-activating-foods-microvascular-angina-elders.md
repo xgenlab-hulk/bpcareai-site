@@ -8,6 +8,16 @@ primaryKeyword: 'foods that help chest pain with clear arteries in seniors'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    coronary-flow-foods-microvascular-57
+  - >-
+    coronary-microvascular-reactivity-natural-support
+  - >-
+    sirt1-activating-foods-endothelial-dysfunction-flow-mediated-dilation
+  - >-
+    12-foods-that-delay-endothelial-senescence-not-just-lower-bp-including-black-garlic-extract-germinated-brown-rice-and-low-age-roasted-chickpeas-for-adults-60
+  - >-
+    natural-support-for-coronary-microvascular-disease
 
   - >-
     quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration

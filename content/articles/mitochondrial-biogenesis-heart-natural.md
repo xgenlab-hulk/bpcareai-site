@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     mitochondrial-biogenesis-heart-aging
   - >-
-    mitochondrial-biogenesis-diastolic-dysfunction
+    mitochondrial-biogenesis-natural-diastolic-stiffness
   - >-
     mitochondrial-biogenesis-after-overeating-seniors
   - >-
     natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak
   - >-
-    mitochondrial-biogenesis-heart-failure-trf
+    mitochondrial-biogenesis-diastolic-dysfunction
 ---
 
 # Natural Ways to Support Mitochondrial Biogenesis in Heart Cells — For Adults 63–80 With Long-Standing Hypertension and Low VO₂ Peak

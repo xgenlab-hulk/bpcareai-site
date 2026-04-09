@@ -10,6 +10,14 @@ image: ''
 relatedSlugs:
   - >-
     simple-steps-to-normalize-bp-lability-after-cataract-surgery-especially-in-adults-with-prior-orthostatic-intolerance-and-glaucoma
+  - >-
+    heart-disease-cataract-surgery-seniors
+  - >-
+    what-causes-postprandial-hypertension-a-sudden-30-mmhg-systolic-rise-within-90-minutes-of-eating-in-adults-69-85
+  - >-
+    exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous
+  - >-
+    how-does-long-haul-flight-duration-affect-systolic-blood-pressure-variability-in-adults-68-82-with-white-coat-hypertension
 
   - >-
     heart-disease-cataract-surgery-seniors

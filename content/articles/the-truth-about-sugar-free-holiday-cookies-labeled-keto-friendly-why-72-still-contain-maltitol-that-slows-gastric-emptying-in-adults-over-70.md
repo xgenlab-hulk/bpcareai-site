@@ -11,9 +11,15 @@ topicCluster: natural-remedies
 image: ''
 relatedSlugs:
   - >-
-    are-sugar-free-treats-actually-safe-for-diabetics-over-65
+    the-truth-about-sugar-free-eggnog-labeled-keto-why-82-of-these-drinks-contain-maltitol-that-triggers-gastric-distress-in-adults-68-with-gastroparesis
   - >-
-    the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
+    the-truth-about-low-sugar-holiday-cookies-labeled-for-seniors-why-73-contain-maltitol-induced-osmotic-diarrhea-triggers-in-adults-71-with-ibs-c
+  - >-
+    the-truth-about-senior-friendly-holiday-protein-bars-why-91-contain-hidden-maltitol-that-delays-gastric-emptying-in-adults-68-with-gastroparesis
+  - >-
+    sugar-free-cookies-polyol-malabsorption-fatigue
+  - >-
+    sugar-free-candies-and-gastroparesis
 
   - >-
     natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis

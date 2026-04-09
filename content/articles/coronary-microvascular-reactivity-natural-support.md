@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     microvascular-coronary-reactivity-natural
   - >-
-    microvascular-coronary-reactivity-natural
+    natural-support-for-coronary-microvascular-disease
   - >-
-    capillary-rarefaction-reversal-natural
+    nrf2-activating-foods-microvascular-angina-elders
   - >-
-    boost-nitric-oxide-naturally-seniors
+    7-silent-signs-of-coronary-microvascular-dysfunction-in-women-55-72-with-normal-coronary-angiograms-and-persistent-chest-discomfort
   - >-
-    nitric-oxide-coupling-without-l-arginine
+    cold-hand-immersion-coronary-flow-reserve
 ---
 
 # Natural Support for Coronary Microvascular Reactivity in Older Adults — Beyond Medications

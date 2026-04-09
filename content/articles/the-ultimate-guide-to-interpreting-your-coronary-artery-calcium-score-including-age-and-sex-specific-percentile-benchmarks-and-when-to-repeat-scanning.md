@@ -11,15 +11,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    aspirin-primary-prevention-cacs-score
-  - >-
-    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
-  - >-
-    how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone
+    5-things-everyone-over-70-should-know-about-coronary-artery-calcium-cac-scoring-especially-if-you-re-taking-statins-but-have-zero-symptoms
   - >-
     the-complete-guide-to-interpreting-your-cardiac-ct-calcium-score-if-you-re-60-and-have-no-symptoms-but-a-family-history-of-early-heart-attacks
   - >-
-    coronary-calcium-score-ct-lung-screening
+    aspirin-primary-prevention-cacs-score
+  - >-
+    12-science-backed-ways-to-reduce-coronary-artery-calcium-cac-progression-without-statins-in-adults-55-64-with-cac-score-100-300
+  - >-
+    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
 ---
 
 # A Practical Coronary Calcium Score Interpretation Guide for Adults 50 and Older

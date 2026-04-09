@@ -12,7 +12,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    best-supplements-for-blood-sugar-support-after-50
+    blood-sugar-friendly-foods-seniors
+  - >-
+    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
+  - >-
+    white-rice-blood-sugar-asian-adults-62
+  - >-
+    reduce-postprandial-glucose-without-medication
+  - >-
+    breakfast-blood-sugar-spikes-after-35
 
   - >-
     10-foods-that-stabilize-fasting-glucose-without-lowering-it-for-adults-62-with-history-of-hypoglycemia-and-age-related-adrenal-blunting

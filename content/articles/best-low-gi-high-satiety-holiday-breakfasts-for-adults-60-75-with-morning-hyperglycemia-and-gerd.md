@@ -9,9 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-low-glycemic-breakfast-cereals-for-adults-55-with-prediabetes-and-gastric-bypass-history
+    stabilize-blood-glucose-christmas-morning
   - >-
-    7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68
+    skipping-breakfast-holiday-hyperglycemia-seniors
+  - >-
+    5-easy-morning-routines-to-stabilize-blood-sugar-after-a-holiday-feast
+  - >-
+    best-low-glycemic-high-resistant-starch-snacks-for-women-65-with-nighttime-hypoglycemia-and-gastroparesis-that-don-t-trigger-reflux
+  - >-
+    stabilize-morning-glucose-without-insulin
 
   - >-
     why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks

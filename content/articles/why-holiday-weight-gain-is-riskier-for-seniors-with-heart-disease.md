@@ -10,6 +10,16 @@ primaryKeyword: holiday weight gain and heart disease risk in seniors
 topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:
+  - >-
+    when-to-worry-about-weight-gain-after-a-family-gathering
+  - >-
+    does-holiday-weight-gain-predict-1-year-cardiovascular-risk-in-adults-with-metabolic-syndrome-over-58
+  - >-
+    the-truth-about-winter-weight-gain-and-heart-strain-after-60
+  - >-
+    what-are-the-earliest-signs-your-holiday-weight-gain-is-actually-fluid-retention-not-fat-in-women-over-65-with-atrial-fibrillation
+  - >-
+    when-to-worry-about-holiday-weight-gain-if-you-re-75-with-heart-failure-and-preserved-ejection-fraction
   - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
   - when-to-worry-about-weight-gain-after-a-family-gathering
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes

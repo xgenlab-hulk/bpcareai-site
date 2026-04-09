@@ -11,7 +11,15 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
+    sauna-use-with-ace-inhibitors-seniors
+  - >-
+    does-daily-4-minute-sauna-exposure-really-improve-coronary-flow-reserve-in-adults-69-with-endothelial-dysfunction-and-no-structural-heart-disease
+  - >-
+    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
+  - >-
+    resistance-training-after-aortic-valve-replacement
+  - >-
+    sauna-therapy-diabetic-foot-ulcer-recovery
   - can-shoveling-snow-trigger-a-heart-event-in-older-adults
   - is-it-safe-to-walk-outside-in-freezing-temperatures-with-heart-disease
   - >-

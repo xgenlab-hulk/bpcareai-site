@@ -11,9 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
+    best-blood-sugar-monitoring-practices-during-the-holiday-season
   - >-
-    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
+    myths-vs-facts-holiday-eating-with-diabetes-after-50
+  - >-
+    simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
+  - >-
+    the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
+  - >-
+    how-to-manage-holiday-heart-syndrome-risk-with-type-2-diabetes
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
   - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
   - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70

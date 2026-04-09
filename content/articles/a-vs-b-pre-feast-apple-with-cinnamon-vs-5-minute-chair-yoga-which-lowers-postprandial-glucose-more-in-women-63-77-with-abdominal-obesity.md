@@ -9,15 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    a-vs-b-5-minute-dynamic-chair-yoga-vs-5-minute-isometric-wall-sit-impact-on-1-hour-postprandial-glucose-in-adults-76-with-severe-knee-osteoarthritis
+  - >-
     quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
+  - >-
+    a-vs-b-warm-herbal-tea-before-dinner-vs-after-dinner-for-postprandial-glucose-in-adults-61-with-early-beta-cell-decline
   - >-
     a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
   - >-
-    walking-vs-standing-post-dinner-glucose
-  - >-
-    pre-kitchen-glycemic-anchoring-insulin-resistance
-  - >-
-    a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes
+    normalize-postprandial-glucose-within-45-minutes
 ---
 
 # Apple With Cinnamon vs Chair Yoga Glucose: Which Real-World Strategy Works Better for Women 63–77 with Abdominal Obesity?

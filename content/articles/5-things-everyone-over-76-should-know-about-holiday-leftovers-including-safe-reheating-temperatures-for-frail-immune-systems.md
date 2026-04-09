@@ -13,7 +13,11 @@ relatedSlugs:
   - >-
     how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
   - >-
-    reheating-holiday-leftovers-mineral-bioavailability-seniors
+    10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit
+  - >-
+    safe-holiday-foods-seniors-80-grandkids
+  - >-
+    can-holiday-leftovers-increase-fall-risk-in-adults-77-with-vitamin-d-deficiency-and-mild-postural-instability
   - easy-make-ahead-freezer-meals-to-reduce-holiday-cooking-stress-for-seniors
   - >-
     holiday-ham-safety-over-65

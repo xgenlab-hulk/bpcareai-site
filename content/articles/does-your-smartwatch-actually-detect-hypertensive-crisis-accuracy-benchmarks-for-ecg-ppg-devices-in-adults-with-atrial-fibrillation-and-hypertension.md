@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
+    5-things-everyone-over-76-should-know-about-using-blood-pressure-cuffs-with-smartwatches-especially-with-atrial-fibrillation-and-wrist-edema
   - >-
-    home-blood-pressure-cuff-afib-algorithm-errors
+    home-bp-cuff-with-ecg-for-afib-seniors
   - >-
     dangers-of-over-reliance-on-wrist-bp-monitors-for-diagnosing-isolated-systolic-hypertension-in-adults-with-osteoarthritis-of-the-hands
   - >-
-    ecg-patch-vs-holter-asymptomatic-afib
+    best-home-blood-pressure-cuffs-for-adults-75-with-severe-arthritis-and-tremor-accuracy-fit-and-one-handed-operation-compared
   - >-
-    5-things-everyone-over-76-should-know-about-using-blood-pressure-cuffs-with-smartwatches-especially-with-atrial-fibrillation-and-wrist-edema
+    what-is-bp-ai-blood-pressure
 ---
 
 # Can Your Smartwatch Truly Detect a Hypertensive Crisis? Understanding Smartwatch Accuracy Hypertensive Crisis in Real-World Use

@@ -8,6 +8,16 @@ primaryKeyword: 'high cholesterol heart disease normal blood pressure'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio
+  - >-
+    why-men-over-50-should-monitor-cholesterol-even-without-symptoms
+  - >-
+    read-cholesterol-test-after-60
+  - >-
+    myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old
+  - >-
+    high-cholesterol-fatigue-after-35
   - why-men-over-50-should-monitor-cholesterol-even-without-symptoms
   - why-blood-pressure-matters-even-if-you-feel-fine
   - how-morning-blood-pressure-spikes-affect-your-heart

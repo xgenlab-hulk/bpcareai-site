@@ -10,6 +10,16 @@ primaryKeyword: silent heart attack symptoms in older adults
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    recognizing-silent-heart-attacks-in-diabetics-over-60
+  - >-
+    silent-myocardial-infarction-ecg-patch-monitoring
+  - >-
+    heart-disease-symptoms-in-women-over-50-what-s-often-missed
+  - >-
+    heart-disease-warning-signs-that-appear-years-in-advance
+  - >-
+    the-link-between-atrial-fibrillation-and-heart-disease-in-seniors
   - recognizing-silent-heart-attacks-in-diabetics-over-60
   - heart-disease-symptoms-in-women-over-50-what-s-often-missed
   - why-winter-increases-heart-attack-risk-in-seniors-over-70

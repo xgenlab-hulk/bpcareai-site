@@ -10,6 +10,16 @@ primaryKeyword: family style serving blood sugar prediabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    how-intergenerational-plate-sharing-during-thanksgiving-dinner-elevates-postprandial-glucose-spikes-in-adults-62-with-prediabetes
+  - >-
+    portion-distortion-family-dinner-prediabetes
+  - >-
+    postprandial-glucose-family-gatherings-prediabetes
+  - >-
+    5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck
+  - >-
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
   - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
   - >-
     7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control

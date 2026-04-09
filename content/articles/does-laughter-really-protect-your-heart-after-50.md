@@ -8,6 +8,16 @@ primaryKeyword: 'does laughter protect heart health after 50'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    can-gardening-improve-heart-health-after-50
+  - >-
+    can-mindfulness-meditation-reduce-heart-disease-risk-after-50
+  - >-
+    can-meditation-reduce-heart-disease-risk-after-50
+  - >-
+    how-retirement-changes-affect-heart-health
+  - >-
+    how-pets-support-heart-health-in-older-adults
   - can-gardening-improve-heart-health-after-50
   - how-sleep-affects-heart-health-after-50
   - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50

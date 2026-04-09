@@ -13,9 +13,11 @@ relatedSlugs:
   - >-
     cgm-flat-line-myth-elderly
   - >-
-    a-vs-b-continuous-glucose-monitoring-cgm-vs-flash-glucose-monitoring-for-detecting-nocturnal-hypoglycemia-in-adults-with-autonomic-neuropathy
+    warning-signs-that-your-continuous-glucose-monitor-is-detecting-early-diabetic-cardiomyopathy-not-just-glycemic-variability
   - >-
-    hot-bath-affects-glucose-monitor-accuracy
+    cgm-accuracy-holiday-travel
+  - >-
+    5-things-everyone-over-75-should-know-about-using-continuous-glucose-monitors-with-pacemakers-or-icds
 
 ---
 

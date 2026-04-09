@@ -10,6 +10,16 @@ primaryKeyword: dehydration blood sugar readings seniors diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    how-chronic-low-grade-dehydration-alters-glycated-albumin-ga-interpretation-in-adults-74-with-ckd-stage-2-and-poor-thirst-sensation
+  - >-
+    how-chronic-low-grade-dehydration-alters-renal-glucose-reabsorption-in-adults-72-with-stage-2-ckd-and-well-controlled-a1c
+  - >-
+    how-chronic-low-grade-dehydration-alters-taste-bud-sensitivity-and-drives-holiday-sugar-cravings-in-adults-over-68
+  - >-
+    holiday-hydration-glucose-homeostasis-polypharmacy
+  - >-
+    how-dehydration-affects-heart-function-in-older-adults
   - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
   - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
   - understanding-a1c-goals-for-seniors-with-diabetes

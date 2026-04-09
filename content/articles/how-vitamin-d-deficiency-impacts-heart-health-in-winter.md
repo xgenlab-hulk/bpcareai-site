@@ -10,6 +10,16 @@ primaryKeyword: vitamin D deficiency and heart health in winter for seniors
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
+  - >-
+    top-7-heart-protective-vitamins-to-take-in-winter
+  - >-
+    what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
+  - >-
+    why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - >-
+    the-hidden-role-of-vitamin-d-deficiency-in-winter-depression-among-nursing-home-residents
   - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
   - why-winter-increases-heart-attack-risk-in-seniors-over-70
   - how-social-isolation-impacts-heart-disease-risk-in-older-adults

@@ -11,11 +11,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk
+    can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history
   - >-
-    can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
+    how-chronic-loneliness-alters-heart-rate-variability-in-adults-65-and-why-that-predicts-5-year-cardiovascular-mortality-risk
   - >-
-    natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
+    why-does-heart-rate-variability-decline-after-65-and-what-simple-breathing-protocols-can-restore-it-without-medication
+  - >-
+    natural-autonomic-stabilization-holiday-heart
+  - >-
+    low-carb-vs-magnesium-holiday-heart-prevention
   - what-research-says-about-holiday-heart-syndrome-and-aging-hearts
   - >-
     the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone

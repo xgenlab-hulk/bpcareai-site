@@ -9,15 +9,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    does-daily-2-minute-cold-exposure-face-immersion-improve-post-holiday-meal-satiety-signaling-in-adults-70-with-leptin-resistance
+    how-holiday-air-travel-disrupts-subcutaneous-insulin-absorption-kinetics-in-adults-73-with-subcutaneous-adipose-atrophy-and-long-term-t1d
   - >-
-    does-daily-10-minute-cold-water-face-immersion-improve-first-phase-insulin-secretion-in-adults-58-65-with-prediabetes-and-normal-weight
+    insulin-sensitivity-without-exercise-elderly
   - >-
-    does-daily-use-of-holiday-scented-candles-alter-postprandial-insulin-sensitivity-via-trpa1-channel-activation-in-adults-65-with-obesity-and-t2d
+    insulin-pump-lipohypertrophy-warning-signs
   - >-
-    does-daily-4-minute-cold-shower-exposure-improve-insulin-signaling-in-adults-with-abdominal-obesity-and-prediabetes-aged-55-67
+    how-late-night-gift-wrapping-alters-hepatic-insulin-clearance-and-why-that-raises-fasting-glucose-next-morning-in-adults-62-with-nafld-and-normal-bmi
   - >-
-    cold-water-face-immersion-insulin-sensitivity
+    natural-ways-to-support-post-meal-insulin-sensitivity-without-supplements-for-adults-57-69-with-abdominal-obesity-and-mild-nafld
 ---
 
 # How Menthol Gels Affect Insulin Sensitivity and Mask Lipodystrophy in Older Adults on Long-Term Insulin Therapy

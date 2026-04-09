@@ -10,6 +10,16 @@ primaryKeyword: magnesium for heart health after 50
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
+  - >-
+    the-role-of-potassium-in-managing-blood-pressure-after-50
+  - >-
+    can-meditation-reduce-heart-disease-risk-after-50
+  - >-
+    can-mindfulness-meditation-reduce-heart-disease-risk-after-50
+  - >-
+    how-strength-training-protects-your-heart-as-you-age
   - can-gardening-improve-heart-health-after-50
   - how-sleep-affects-heart-health-after-50
   - how-pets-support-heart-health-in-older-adults

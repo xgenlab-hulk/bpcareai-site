@@ -10,6 +10,16 @@ primaryKeyword: soups that lower blood pressure naturally
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    foods-lower-blood-pressure-naturally-after-50
+  - >-
+    foods-lower-blood-pressure-naturally-53-68
+  - >-
+    bone-broth-vs-canned-soup-endothelial-function
+  - >-
+    cholesterol-lowering-soups-seniors
+  - >-
+    top-5-winter-superfoods-that-naturally-lower-blood-pressure
 
   - can-meditation-lower-blood-pressure-naturally
   - top-5-winter-superfoods-that-naturally-lower-blood-pressure

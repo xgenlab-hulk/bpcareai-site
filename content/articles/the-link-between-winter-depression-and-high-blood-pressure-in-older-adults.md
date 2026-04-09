@@ -10,6 +10,16 @@ primaryKeyword: winter depression and high blood pressure seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
+  - >-
+    how-winter-depression-affects-heart-health-in-retired-adults
+  - >-
+    the-connection-between-winter-infections-and-blood-pressure-fluctuations
+  - >-
+    the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
+  - >-
+    natural-ways-to-lower-blood-pressure-this-winter-without-medication
   - winter-vs-summer-blood-pressure-what-seniors-need-to-know
   - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
   - how-winter-depression-affects-heart-health-in-retired-adults

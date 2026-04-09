@@ -10,6 +10,16 @@ primaryKeyword: 3 AM blood sugar drop holiday week prevention
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    quick-ways-to-prevent-overnight-hypoglycemia-after-late-night-holiday-dessert-for-adults-54-66-on-sulfonylureas-or-basal-insulin
+  - >-
+    when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
+  - >-
+    the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
+  - >-
+    the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - >-
+    what-causes-rebound-hyperglycemia-after-nocturnal-hypoglycemia-in-adults-over-68-and-why-it-s-often-mistaken-for-insulin-resistance
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
   - >-

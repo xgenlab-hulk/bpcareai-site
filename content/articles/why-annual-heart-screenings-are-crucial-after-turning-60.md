@@ -10,6 +10,16 @@ primaryKeyword: annual heart screening after 60 why it matters
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    how-often-should-adults-over-50-check-their-blood-pressure
+  - >-
+    read-cholesterol-test-after-60
+  - >-
+    myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old
+  - >-
+    why-men-over-50-should-monitor-cholesterol-even-without-symptoms
+  - >-
+    the-link-between-hearing-loss-and-heart-disease-after-60
   - why-men-over-50-should-monitor-cholesterol-even-without-symptoms
   - how-often-should-you-check-your-pulse-after-age-60
   - heart-disease-warning-signs-that-appear-years-in-advance

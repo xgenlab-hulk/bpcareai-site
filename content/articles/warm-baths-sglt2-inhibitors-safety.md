@@ -11,15 +11,15 @@ topicCluster: treatment-interventions
 image: ''
 relatedSlugs:
   - >-
+    when-to-worry-about-sudden-bp-drop-after-starting-sglt2-inhibitors-especially-in-adults-63-75-with-mild-ckd-and-orthostatic-symptoms
+  - >-
     5-things-everyone-over-66-should-know-about-managing-diabetes-during-a-heatwave-especially-if-on-sglt2-inhibitors
   - >-
-    winter-hydration-blood-pressure-stability-elderly
-  - >-
-    holiday-hydration-glucose-homeostasis-polypharmacy
-  - >-
-    the-complete-guide-to-managing-diabetes-during-heatwaves-for-adults-72-with-diuretic-use-orthostatic-hypotension-and-reduced-thirst-sensation
+    what-causes-sudden-drop-in-egfr-after-starting-sglt2-inhibitors-in-adults-69-with-borderline-hydration-status-and-low-albumin
   - >-
     why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72
+  - >-
+    7-silent-signs-your-blood-pressure-is-too-low-after-starting-sglt2-inhibitors-especially-if-you-re-on-dialysis-or-have-orthostatic-tremor
 ---
 
 # Warm Baths & SGLT2 Inhibitors Safety: A Gentle Guide for Adults 63+ With Mild Orthostasis

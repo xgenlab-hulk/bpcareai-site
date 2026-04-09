@@ -15,9 +15,9 @@ relatedSlugs:
   - >-
     how-family-mealtime-laughter-affects-gastric-acid-secretion-and-why-that-matters-for-adults-with-gerd-over-65
   - >-
-    natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements
+    natural-ways-to-support-digestive-enzyme-production-after-age-60-especially-during-heavy-holiday-meals
   - >-
-    12-science-backed-ways-to-reduce-post-family-meal-gastric-reflux-within-20-minutes-for-adults-59-with-silent-gerd-and-mild-hiatal-hernia
+    magnesium-glycinate-holiday-dessert-timing
 ---
 
 # Gentle, Mealtime Ways to Support Gastric Acid Secretion During Family Meals — Especially After 65

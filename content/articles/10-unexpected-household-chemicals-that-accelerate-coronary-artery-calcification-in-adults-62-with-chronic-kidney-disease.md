@@ -9,11 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    7-hidden-environmental-triggers-that-worsen-coronary-artery-calcification-in-adults-62-with-long-term-statin-use
+  - >-
+    how-long-term-exposure-to-indoor-air-pollution-e-g-cooking-fumes-candle-smoke-elevates-coronary-artery-calcification-in-adults-62-with-no-known-cvd
+  - >-
     7-unexpected-household-chemicals-that-may-interfere-with-ace-inhibitor-efficacy-in-adults-over-75
   - >-
-    12-unexpected-household-products-that-raise-blood-pressure-from-air-fresheners-to-laundry-detergents
+    heart-disease-and-chronic-kidney-disease-the-dangerous-connection
   - >-
-    how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone
+    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
 
   - >-
     7-hidden-sources-of-oxalates-in-holiday-salads-and-sides-that-may-trigger-nephrocalcinosis-in-adults-with-stage-2-ckd-over-60

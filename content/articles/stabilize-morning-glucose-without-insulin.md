@@ -11,15 +11,15 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    stabilize-overnight-glucose-without-insulin-adjustment
-  - >-
     stabilize-blood-glucose-christmas-morning
   - >-
-    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
+    what-causes-sudden-morning-hyperglycemia-on-christmas-day-even-with-perfect-nighttime-glucose-dawn-phenomenon-vs-somogyi-rebound-in-adults-57-71
   - >-
-    quick-ways-to-normalize-fasting-glucose-without-medication-in-adults-50-61-with-prediabetes-and-shift-work-history
+    12-science-backed-times-to-measure-fasting-glucose-before-breakfast-not-just-upon-waking-for-adults-65-with-dawn-phenomenon-and-shift-work-history
   - >-
-    normalize-fasting-glucose-without-skipping-dinner
+    why-morning-cortisol-spikes-worsen-dawn-phenomenon-in-adults-62-with-long-standing-type-2-diabetes-and-adrenal-fatigue-symptoms
+  - >-
+    why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
 ---
 
 # 12 Science-Backed Ways to Stabilize Morning Glucose Without Insulin — Especially During the Holidays

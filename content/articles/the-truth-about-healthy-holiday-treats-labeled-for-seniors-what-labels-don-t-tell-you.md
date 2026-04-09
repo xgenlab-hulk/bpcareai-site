@@ -10,6 +10,16 @@ primaryKeyword: holiday treat labels misleading for seniors
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
+  - >-
+    the-truth-about-senior-friendly-holiday-meal-kits-why-81-fail-sodium-fiber-and-texture-safety-standards-for-adults-75
+  - >-
+    14-hidden-portion-traps-in-mini-holiday-treats-that-sabotage-blood-pressure-control-in-adults-69-with-salt-sensitive-hypertension
+  - >-
+    the-truth-about-diabetes-friendly-holiday-cookies-what-label-claims-hide-and-what-real-ingredient-ratios-reveal
+  - >-
+    holiday-foods-blood-sugar-bp-seniors-70
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
   - the-truth-about-healthy-store-bought-holiday-meals-for-older-adults

@@ -10,6 +10,16 @@ primaryKeyword: how to help aging parent with seasonal depression remotely
 topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:
+  - >-
+    10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore
+  - >-
+    when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
+  - >-
+    can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
+  - >-
+    7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
+  - >-
+    natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
   - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
   - 7-common-mistakes-that-make-seasonal-depression-worse-in-seniors
   - how-light-therapy-can-help-older-adults-beat-winter-blues-after-65

@@ -13,11 +13,13 @@ relatedSlugs:
   - >-
     foods-stabilize-pulse-pressure-seniors-orthostasis
   - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
+    arterial-elasticity-natural-support-isolated-systolic-hypertension
   - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
+    aortic-pulse-wave-velocity-reduction
   - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
+    arterial-stiffness-foods-seniors-bp
+  - >-
+    the-truth-about-normal-home-blood-pressure-readings-in-adults-80-with-orthostatic-hypotension-and-white-coat-avoidance
 
 ---
 

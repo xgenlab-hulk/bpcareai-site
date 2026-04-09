@@ -8,6 +8,16 @@ primaryKeyword: 'best fruits for diabetics over 50 blood sugar'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    the-role-of-fiber-in-controlling-blood-sugar-after-50
+  - >-
+    is-sugar-free-living-necessary-for-diabetics-over-50
+  - >-
+    myths-vs-facts-holiday-eating-with-diabetes-after-50
+  - >-
+    healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s
+  - >-
+    best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
   - healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s
   - best-supplements-for-blood-sugar-support-after-50
   - the-role-of-fiber-in-controlling-blood-sugar-after-50

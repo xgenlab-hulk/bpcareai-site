@@ -10,6 +10,16 @@ primaryKeyword: night shift work and heart calcification after 50
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
+  - >-
+    nighttime-light-exposure-cardiac-clock-genes-elders
+  - >-
+    what-research-says-about-circadian-misalignment-and-myocardial-fibrosis-in-adults-59-67-with-shift-work-history-and-normal-ejection-fraction
+  - >-
+    how-late-night-holiday-snacking-alters-circadian-clock-gene-expression-in-adults-60-69-with-shift-work-history-and-mild-sleep-apnea
+  - >-
+    how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone
+  - >-
+    how-late-night-holiday-leftovers-affect-circadian-rhythm-gene-expression-in-adults-59-70-with-shift-work-history-and-mild-insulin-resistance
   - can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
   - >-
     how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib

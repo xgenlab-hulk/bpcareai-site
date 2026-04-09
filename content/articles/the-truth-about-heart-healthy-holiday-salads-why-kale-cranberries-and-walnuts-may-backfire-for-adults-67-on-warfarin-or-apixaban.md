@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     can-you-safely-share-a-slice-of-pumpkin-pie-with-your-grandchild-if-you-re-on-warfarin-a-vitamin-k-interaction-guide-for-holiday-baking
   - >-
-    10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone
+    how-holiday-tablecloth-fibers-interact-with-anticoagulant-medications-a-real-world-risk-for-adults-79-on-apixaban-with-mild-thrombocytopenia
   - >-
-    5-things-everyone-over-73-should-know-about-holiday-nuts-including-which-varieties-worsen-atrial-fibrillation-triggers-in-winter
+    holiday-eating-post-pci-dual-antiplatelet-therapy
   - >-
-    what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
+    holiday-herbs-warfarin-safe-seniors-74
 ---
 
 # The Real Story Behind Holiday Salad Warfarin Interaction Truth — What Your Kale, Cranberries, and Walnuts *Really* Do on Blood Thinners

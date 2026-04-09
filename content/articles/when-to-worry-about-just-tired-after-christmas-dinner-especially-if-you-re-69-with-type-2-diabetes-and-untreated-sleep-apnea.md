@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension
   - >-
-    when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else
-  - >-
     what-causes-sudden-post-dinner-drowsiness-in-adults-55-69-with-untreated-sleep-apnea-and-high-fat-holiday-meals
+  - >-
+    how-sleep-apnea-impacts-type-2-diabetes-control-after-50
   - >-
     when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment
   - >-
-    5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin
+    fatigue-after-meals-diabetes-elderly
 ---
 
 # When “Just Tired” After Dinner Signals Something More Serious — Especially for Adults 69+ With Type 2 Diabetes and Untreated Sleep Apnea  

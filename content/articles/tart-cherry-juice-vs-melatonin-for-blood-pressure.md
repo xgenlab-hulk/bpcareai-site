@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    melatonin-blood-pressure-at-night
+  - >-
     tart-cherry-vs-melatonin-for-nighttime-glucose
   - >-
-    magnesium-threonate-vs-glycinate-nocturnal-bp-dipping
+    vns-vs-tart-cherry-juice-nocturnal-afib
   - >-
-    hawthorn-vs-magnesium-holiday-heart
+    what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring
   - >-
-    does-daily-200-mg-of-magnesium-l-threonate-not-oxide-or-citrate-improve-nocturnal-bp-dipping-in-adults-66-80-with-mild-cognitive-impairment
-  - >-
-    tai-chi-vs-muscle-relaxation-for-nocturnal-hypertension
+    normalize-nocturnal-blood-pressure-dipping
 ---
 
 # Tart Cherry Juice vs Melatonin for Blood Pressure: What Older Adults With Insomnia and Non-Dipping Should Know

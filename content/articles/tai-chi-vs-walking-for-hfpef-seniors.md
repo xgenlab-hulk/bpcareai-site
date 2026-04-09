@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     tai-chi-vs-treadmill-microvascular-angina
   - >-
-    a-vs-b-daily-10-minute-resistance-band-routine-vs-nordic-walking-for-improving-stroke-volume-index-in-adults-73-with-preserved-ejection-fraction
-  - >-
     tai-chi-vs-breathing-central-aortic-pressure
   - >-
-    tai-chi-vs-muscle-relaxation-for-nocturnal-hypertension
+    can-daily-12-minute-seated-tai-chi-lower-24-hour-systolic-load-in-adults-71-with-isolated-systolic-hypertension-and-mild-gait-instability
+  - >-
+    seated-tai-chi-atrial-fibrillation-seniors
   - >-
     tai-chi-vs-heart-coherence-biofeedback-women
 ---

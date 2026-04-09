@@ -11,15 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    mitochondrial-biogenesis-without-hiit-seniors
-  - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-for-adults-71-with-type-2-diabetes-and-severe-copd
-  - >-
     insulin-sensitivity-without-exercise-elderly
   - >-
-    mitochondrial-biogenesis-insulin-resistance
+    normalize-glucose-variability-72-hours-magnesium
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
+    foods-muscle-glucose-uptake-seniors-61
+  - >-
+    5-things-every-man-over-65-taking-testosterone-replacement-should-know-about-its-effect-on-insulin-receptor-tyrosine-kinase-activity-and-glucose-uptake-efficiency
+  - >-
+    natural-ways-to-improve-glucose-uptake-in-skeletal-muscle-without-exercise-for-adults-79-with-severe-osteoarthritis-bedrest-or-post-hip-replacement
 ---
 
 # Supporting Insulin Receptor Kinase Natural Activation in Seniors: Gentle, Evidence-Informed Strategies

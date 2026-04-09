@@ -11,7 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
+    holiday-medication-holiday-myths-facts
+  - >-
+    skipping-breakfast-holiday-hyperglycemia-seniors
+  - >-
+    should-you-adjust-your-diabetes-medication-during-the-holidays
+  - >-
+    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
+  - >-
+    simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
   - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes

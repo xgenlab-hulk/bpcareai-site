@@ -9,15 +9,15 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
+    cgm-edema-heart-failure-diuretics
+  - >-
     5-things-everyone-over-70-should-know-about-using-continuous-glucose-monitors-with-severe-edema-lymphedema-or-recent-lower-limb-surgery
   - >-
-    blood-glucose-monitor-iron-supplement-interference
+    cgm-accuracy-holiday-travel
   - >-
-    why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals
+    myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
   - >-
-    cgm-interpretation-early-dementia-diabetes
-  - >-
-    the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79
+    cgm-postprandial-patterns-beta-cell-reserve
 ---
 
 # “My CGM Shows Flat Lines — So I Must Be Fine!”: Debunking the CGM Flat Line Myth Elderly Adults Often Believe

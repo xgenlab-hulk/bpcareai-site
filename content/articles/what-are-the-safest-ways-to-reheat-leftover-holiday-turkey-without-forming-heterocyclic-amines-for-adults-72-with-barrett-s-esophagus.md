@@ -8,6 +8,16 @@ primaryKeyword: safest way to reheat turkey without cancer risk after 72
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
+  - >-
+    what-research-says-about-leftover-turkey-consumption-and-uric-acid-spikes-in-men-over-68-with-asymptomatic-hyperuricemia
+  - >-
+    turkey-cooking-method-endothelial-health
+  - >-
+    reheating-holiday-leftovers-mineral-bioavailability-seniors
+  - >-
+    turkey-preparation-zinc-bioavailability-seniors
+  - >-
+    5-things-everyone-over-76-should-know-about-holiday-leftovers-including-safe-reheating-temperatures-for-frail-immune-systems
 - a-vs-b-slow-cooked-holiday-leftovers-vs-reheated-microwave-portions-which-preserves-more-bioavailable-zinc-and-magnesium-for-seniors-with-atrophic-gastritis
 - 5-things-everyone-over-76-should-know-about-holiday-leftovers-including-safe-reheating-temperatures-for-frail-immune-systems
 - 10-ways-to-reduce-advanced-glycation-end-products-ages-in-holiday-roasts-without-eliminating-meat-for-adults-67-with-diabetic-nephropathy

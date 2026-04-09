@@ -8,6 +8,16 @@ primaryKeyword: silent signs of holiday heart syndrome in women over 60
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
+  - >-
+    natural-autonomic-stabilization-holiday-heart
+  - >-
+    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
+  - >-
+    7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
+  - >-
+    women-holiday-heart-syndrome-menopause
+  - >-
+    holiday-stress-and-atrial-ectopy
   - what-are-the-first-signs-of-holiday-heart-syndrome-in-women
   - >-
     7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily

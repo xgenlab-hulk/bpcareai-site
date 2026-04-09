@@ -8,6 +8,16 @@ primaryKeyword: 'diabetes vision changes seniors what to know'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    when-to-worry-about-sudden-vision-fluctuations-in-adults-with-type-2-diabetes-over-70-not-just-retinopathy
+  - >-
+    dry-eyes-blurred-vision-diabetes-seniors
+  - >-
+    how-vision-changes-might-be-linked-to-heart-disease
+  - >-
+    10-silent-signs-your-blood-pressure-is-damaging-your-retina-even-with-controlled-readings-in-adults-63-with-type-2-diabetes
+  - >-
+    the-link-between-diabetes-and-slow-healing-in-older-adults
   - how-vision-changes-might-be-linked-to-heart-disease
   - the-link-between-diabetes-and-slow-healing-in-older-adults
   - how-dehydration-affects-blood-sugar-readings-in-older-diabetics

@@ -10,6 +10,16 @@ primaryKeyword: low-fat desserts and triglycerides after 60
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    why-your-light-holiday-appetizer-plate-may-be-raising-triglycerides-more-than-dessert-the-hidden-fat-oxidation-block-in-adults-58-69
+  - >-
+    one-slice-pie-triglycerides-seniors-myth
+  - >-
+    why-your-low-carb-holiday-stuffing-still-raises-triglycerides-and-what-to-swap-instead
+  - >-
+    holiday-smoothie-bowls-triglycerides
+  - >-
+    quick-ways-to-lower-post-holiday-triglycerides-without-fasting-especially-for-sedentary-adults-over-75
   - best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
   - best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
   - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70

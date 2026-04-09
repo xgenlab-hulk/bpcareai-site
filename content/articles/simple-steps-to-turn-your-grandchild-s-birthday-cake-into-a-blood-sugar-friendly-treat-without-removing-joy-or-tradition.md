@@ -10,6 +10,16 @@ primaryKeyword: birthday cake that won't spike blood sugar for seniors
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
+  - >-
+    the-complete-guide-to-safe-holiday-baking-with-insulin-resistance-from-low-glycemic-flour-blends-to-oven-temperature-adjustments-for-adults-62
+  - >-
+    12-blood-sugar-safe-swaps-for-classic-christmas-cookies-tested-with-continuous-glucose-monitoring-in-adults-55-72
+  - >-
+    blood-sugar-friendly-foods-seniors
+  - >-
+    are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60

@@ -15,11 +15,11 @@ relatedSlugs:
   - >-
     home-bp-cuff-calibration-arthritis-mobility
   - >-
-    a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
+    best-home-blood-pressure-cuffs-for-adults-75-with-severe-arthritis-and-tremor-accuracy-fit-and-one-handed-operation-compared
   - >-
-    home-bp-cuff-with-ecg-for-afib-seniors
+    false-low-blood-pressure-reading-causes
   - >-
-    5-things-everyone-over-76-should-know-about-using-blood-pressure-cuffs-with-smartwatches-especially-with-atrial-fibrillation-and-wrist-edema
+    home-blood-pressure-cuff-afib-algorithm-errors
 ---
 
 # Why Home BP Cuff Calibration in High Humidity Matters — Especially After 69 (and With Salt-Sensitive Hypertension)

@@ -8,6 +8,16 @@ primaryKeyword: does vitamin D3 help blood sugar after meals with diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
+  - >-
+    vitamin-d-binding-protein-winter-insulin
+  - >-
+    does-daily-2000-iu-vitamin-d3-actually-reduce-myocardial-fibrosis-in-adults-59-73-with-type-2-diabetes-and-elevated-galectin-3
+  - >-
+    12-science-backed-ways-to-reduce-glucose-variability-during-winter-months-for-adults-60-with-seasonal-affective-disorder-and-type-2-diabetes
+  - >-
+    why-your-blood-sugar-might-be-higher-in-december-even-with-good-habits
   - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
   - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
   - >-

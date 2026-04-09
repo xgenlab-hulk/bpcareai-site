@@ -10,6 +10,16 @@ primaryKeyword: intermittent fasting type 1 diabetes over 60
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin
+  - >-
+    can-intermittent-fasting-worsen-autonomic-neuropathy-in-adults-71-with-long-term-type-2-diabetes-and-orthostatic-tachycardia
+  - >-
+    can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes
+  - >-
+    can-intermittent-fasting-help-manage-type-2-diabetes-after-60
+  - >-
+    nocturnal-hypoglycemia-masked-a1c
   - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
   - >-
     what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time

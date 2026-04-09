@@ -8,6 +8,16 @@ primaryKeyword: low fodmap holiday desserts that won't cause bloating
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation
+  - >-
+    best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
+  - >-
+    best-low-fodmap-high-protein-holiday-snacks-for-women-58-with-ibs-d-and-post-cholecystectomy-bile-acid-malabsorption
+  - >-
+    10-high-fiber-holiday-foods-that-support-digestion-after-50
+  - >-
+    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
   - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
 
   - best-low-carb-desserts-for-diabetics-over-60-this-holiday-season

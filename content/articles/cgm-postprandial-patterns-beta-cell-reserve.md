@@ -9,15 +9,15 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
-    cgm-interpretation-early-dementia-diabetes
-  - >-
-    skip-insulin-holiday-pie-beta-cell-stress
-  - >-
-    when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists
-  - >-
     myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
   - >-
-    how-intermittent-fasting-affects-beta-cell-rest-and-regeneration-in-adults-54-68-with-new-onset-type-2-diabetes-what-12-week-clinical-trials-show
+    normalize-postprandial-glucose-within-45-minutes
+  - >-
+    cgm-flat-line-myth-elderly
+  - >-
+    12-science-backed-times-to-measure-capillary-glucose-after-a-meal-not-just-fasting-for-adults-58-with-rapid-gastric-emptying-and-reactive-hypoglycemia
+  - >-
+    the-truth-about-normal-fasting-glucose-in-adults-over-70-why-95-105-mg-dl-may-already-signal-beta-cell-exhaustion-and-early-dysglycemia
 ---
 
 # Understanding CGM Postprandial Patterns and Beta-Cell Reserve: A Practical Guide for Adults 50+

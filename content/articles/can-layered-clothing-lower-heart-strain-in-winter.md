@@ -8,6 +8,16 @@ primaryKeyword: 'does layered clothing reduce heart strain in cold weather'
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:
+  - >-
+    does-layering-clothes-help-regulate-blood-pressure-in-cold-climates
+  - >-
+    why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - >-
+    how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
+  - >-
+    10-winter-safe-exercises-for-heart-health-after-65
+  - >-
+    is-it-safe-to-walk-outside-in-freezing-temperatures-with-heart-disease
   - does-layering-clothes-help-regulate-blood-pressure-in-cold-climates
   - how-winter-depression-affects-heart-health-in-retired-adults
   - 10-simple-home-adjustments-to-support-blood-pressure-stability-in-winter

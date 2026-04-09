@@ -12,9 +12,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old
+    ldl-target-55-year-old-woman
+  - >-
+    does-stress-raise-cholesterol-after-35
   - >-
     myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio
+  - >-
+    myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old
+  - >-
+    high-cholesterol-fatigue-after-35
   - does-stress-raise-cholesterol-after-35
   - high-cholesterol-fatigue-after-35
   - ldl-target-55-year-old-woman

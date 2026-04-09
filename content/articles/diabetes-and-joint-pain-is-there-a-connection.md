@@ -8,6 +8,16 @@ primaryKeyword: 'diabetes joint pain connection mechanism seniors'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    7-silent-signs-of-diabetic-neuropathy-in-adults-65-that-mimic-arthritis-or-sciatica-even-with-normal-a1c
+  - >-
+    how-gum-disease-is-linked-to-diabetes-complications-in-older-adults
+  - >-
+    how-stress-affects-blood-sugar-in-people-with-diabetes-over-50
+  - >-
+    how-chronic-inflammation-worsens-type-2-diabetes-after-50
+  - >-
+    nsaids-and-kidney-injury-diabetes
   - how-gum-disease-is-linked-to-diabetes-complications-in-older-adults
   - diabetes-and-vision-changes-what-seniors-need-to-know
   - the-link-between-diabetes-and-slow-healing-in-older-adults

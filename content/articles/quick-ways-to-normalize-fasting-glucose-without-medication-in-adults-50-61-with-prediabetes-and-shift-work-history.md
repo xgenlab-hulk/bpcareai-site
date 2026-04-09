@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     glucose-variability-shift-workers
   - >-
+    12-science-backed-times-to-measure-fasting-glucose-before-breakfast-not-just-upon-waking-for-adults-65-with-dawn-phenomenon-and-shift-work-history
+  - >-
+    nighttime-light-glp-1-secretion-fasting-glucose
+  - >-
+    how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms
+  - >-
     how-late-afternoon-snacking-at-family-gatherings-disrupts-nocturnal-melatonin-and-elevates-fasting-glucose-in-adults-59-66-with-shift-work-history
-  - >-
-    simple-steps-to-adjust-your-diabetes-medication-timing-for-winter-circadian-shifts-especially-if-you-live-north-of-the-45th-parallel-and-are-over-69
-  - >-
-    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
-  - >-
-    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
 ---
 
 # How to Normalize Fasting Glucose Shift Work Prediabetes—Naturally and Effectively

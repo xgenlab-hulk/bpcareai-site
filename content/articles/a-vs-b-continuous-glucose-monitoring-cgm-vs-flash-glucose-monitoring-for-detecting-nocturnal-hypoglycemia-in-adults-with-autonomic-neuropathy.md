@@ -9,15 +9,15 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
-    cgm-interpretation-early-dementia-diabetes
+    cgms-vs-flash-glucose-monitoring-seniors-hypoglycemia
   - >-
-    a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes
+    brittle-diabetes-autonomic-neuropathy-guide
   - >-
-    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
+    a-vs-b-continuous-glucose-monitoring-cgm-vs-fingertip-glucose-testing-for-detecting-nocturnal-hypoglycemia-in-adults-75-on-basal-insulin
   - >-
-    can-you-safely-use-a-continuous-glucose-monitor-while-wearing-holiday-sweaters-with-metallic-threads-or-magnetic-closures
+    5-things-everyone-over-70-should-know-about-using-continuous-glucose-monitors-with-severe-edema-lymphedema-or-recent-lower-limb-surgery
   - >-
-    blood-pressure-drops-walking-diabetes-neuropathy
+    cgm-edema-heart-failure-diuretics
 ---
 
 # CGM vs Flash Glucose Monitoring in Neuropathy: Which Better Catches Nighttime Lows?

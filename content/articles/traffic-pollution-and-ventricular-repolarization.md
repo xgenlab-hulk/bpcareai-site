@@ -11,15 +11,15 @@ topicCluster: autonomic-nervous-regulation
 image: ''
 relatedSlugs:
   - >-
-    traffic-pollution-carotid-thickness-progression
+    how-chronic-holiday-social-isolation-alters-ventricular-repolarization-reserve-evidence-from-24-hour-qtc-monitoring-in-adults-69-living-alone
   - >-
     can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation
   - >-
-    roadway-noise-sympathetic-tone-heart-failure
+    traffic-pollution-carotid-thickness-progression
   - >-
-    traffic-vibration-baroreceptor-sensitivity-hypertension
+    does-daily-250-mg-of-magnesium-threonate-improve-ventricular-repolarization-homogeneity-in-adults-60-72-with-qtc-prolongation-and-polypharmacy
   - >-
-    traffic-noise-morning-systolic-blood-pressure
+    how-seasonal-air-pollution-peaks-alter-st-segment-variability-and-why-that-increases-acute-coronary-syndrome-risk-in-adults-59-with-stable-angina
 ---
 
 # How Traffic Pollution and Ventricular Repolarization Interact in Adults 57–65 With Borderline QTc

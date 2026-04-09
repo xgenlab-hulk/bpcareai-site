@@ -10,6 +10,16 @@ primaryKeyword: chronic inflammation heart disease seniors
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    how-chronic-inflammation-worsens-type-2-diabetes-after-50
+  - >-
+    how-chronic-low-grade-dental-inflammation-alters-plaque-stability-in-adults-68-with-stable-cad-evidence-from-serial-ivus-oct-imaging
+  - >-
+    are-morning-stiff-joints-a-sign-of-inflammation-that-hurts-your-heart
+  - >-
+    how-chronic-low-grade-inflammation-drives-resistant-hypertension-in-adults-60-74-with-elevated-hs-crp-and-gum-recession
+  - >-
+    12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
   - are-morning-stiff-joints-a-sign-of-inflammation-that-hurts-your-heart
   - how-chronic-inflammation-worsens-type-2-diabetes-after-50
   - the-hidden-link-between-gum-disease-and-heart-problems

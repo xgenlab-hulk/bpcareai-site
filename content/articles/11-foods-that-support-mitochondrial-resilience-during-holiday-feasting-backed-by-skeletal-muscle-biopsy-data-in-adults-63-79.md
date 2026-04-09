@@ -9,9 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
+  - >-
     10-foods-that-support-mitochondrial-resilience-during-holiday-stress-in-adults-57-74-with-chronic-fatigue
   - >-
-    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
+    mitochondrial-biogenesis-after-overeating-seniors
+  - >-
+    when-to-worry-about-post-dinner-fatigue-after-holiday-gatherings-distinguishing-normal-aging-from-early-mitochondrial-decline-in-men-68
+  - >-
+    5-foods-that-support-mitochondrial-membrane-integrity-during-high-fat-holiday-meals-for-adults-65-with-statin-associated-myopathy
 
   - >-
     7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68

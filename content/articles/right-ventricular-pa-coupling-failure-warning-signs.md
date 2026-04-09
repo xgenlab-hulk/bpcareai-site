@@ -11,15 +11,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    right-heart-strain-early-echocardiographic-signs
+  - >-
     pulse-oximetry-heart-failure-copd-interpretation
   - >-
-    warning-signs-your-home-pulse-oximeter-is-masking-early-pulmonary-hypertension-in-adults-68-with-untreated-sleep-apnea-and-unexplained-fatigue
+    what-are-the-earliest-signs-of-right-sided-heart-failure-in-seniors-with-copd-before-swelling-or-shortness-of-breath
   - >-
-    right-ventricular-fibrosis-galectin-3-warning-signs
+    7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80
   - >-
     right-ventricular-dysfunction-nocturnal-cough-women
-  - >-
-    what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
 ---
 
 # Recognizing Early right ventricular pa coupling failure warning signs — Especially in Adults 70+ with Stable Heart Failure Class II

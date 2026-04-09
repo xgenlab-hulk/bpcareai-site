@@ -8,6 +8,16 @@ primaryKeyword: 'sleep apnea effect on basal insulin overnight after 62'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    how-sleep-apnea-severity-modulates-insulin-clearance-in-adults-with-type-2-diabetes-and-bmi-30-a-mechanistic-breakdown-for-ages-54-71
+  - >-
+    warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68
+  - >-
+    how-sleep-apnea-impacts-type-2-diabetes-control-after-50
+  - >-
+    how-sleep-apnea-severity-predicts-rapid-a1c-rise-in-adults-57-71-with-untreated-osa-and-newly-diagnosed-type-2-diabetes
+  - >-
+    what-causes-persistent-morning-hypoglycemia-in-adults-75-on-basal-bolus-regimens-when-cgm-shows-no-nighttime-lows
   - how-sleep-apnea-impacts-type-2-diabetes-control-after-50
   - >-
     when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else

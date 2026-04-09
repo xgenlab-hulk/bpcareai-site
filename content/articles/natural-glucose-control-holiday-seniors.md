@@ -9,13 +9,15 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
+    does-daily-10-minute-post-dinner-walking-really-lower-next-morning-fasting-glucose-in-adults-64-with-morning-only-hyperglycemia
   - >-
-    walking-vs-standing-post-dinner-glucose
+    post-dinner-walking-vs-breathing-glucose
   - >-
     best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
   - >-
-    natural-ways-to-support-post-holiday-glucose-recovery-using-fenugreek-ceylon-cinnamon-and-tart-cherry-juice-dosed-for-adults-54-79
+    quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+  - >-
+    quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
 ---
 

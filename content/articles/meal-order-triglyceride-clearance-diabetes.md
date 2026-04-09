@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
   - >-
-    holiday-healthy-swap-triglyceride-lipoprotein
+    quick-ways-to-normalize-postprandial-triglyceride-clearance-in-adults-67-with-diabetic-dyslipidemia-and-elevated-apoc-iii
   - >-
-    pancreatic-acinar-support-for-diabetics
+    quick-ways-to-lower-post-holiday-triglyceride-spikes-within-2-hours-using-targeted-omega-3-dosing-validated-in-adults-60-78-with-mixed-dyslipidemia
   - >-
-    reduce-postprandial-glucose-without-medication
+    reduce-postprandial-triglycerides-quickly-seniors
   - >-
-    periodontitis-postprandial-hyperglycemia
+    chicken-preparation-triglyceride-clearance-hypertriglyceridemia
 ---
 
 # Simple Ways to Support Meal Order Triglyceride Clearance in Diabetes—Especially After 56

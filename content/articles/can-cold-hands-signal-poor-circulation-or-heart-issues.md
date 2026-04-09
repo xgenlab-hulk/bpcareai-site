@@ -8,6 +8,16 @@ primaryKeyword: 'cold hands poor circulation as a heart warning sign'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    why-your-holiday-heart-palpitations-might-be-caused-by-cold-induced-coronary-vasoconstriction-not-alcohol-in-adults-59-with-raynaud-s-phenomenon
+  - >-
+    when-to-worry-about-chest-tightness-in-cold-weather
+  - >-
+    how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
+  - >-
+    why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - >-
+    3-simple-breathing-techniques-to-reduce-heart-stress-in-cold-air
   - can-hearing-loss-be-an-early-sign-of-heart-disease
   - is-your-posture-affecting-your-heart-what-older-adults-should-know
   - the-connection-between-frequent-urination-at-night-and-heart-health

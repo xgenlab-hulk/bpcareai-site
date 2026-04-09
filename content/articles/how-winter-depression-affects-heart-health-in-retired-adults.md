@@ -10,6 +10,16 @@ primaryKeyword: winter depression and heart risk in retired seniors
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    the-link-between-winter-depression-and-high-blood-pressure-in-older-adults
+  - >-
+    why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - >-
+    how-group-activities-in-senior-centers-prevent-seasonal-depression
+  - >-
+    how-vitamin-d-deficiency-impacts-heart-health-in-winter
+  - >-
+    when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
   - how-vitamin-d-deficiency-impacts-heart-health-in-winter
   - why-winter-increases-heart-attack-risk-in-seniors-over-70
   - how-social-isolation-impacts-heart-disease-risk-in-older-adults

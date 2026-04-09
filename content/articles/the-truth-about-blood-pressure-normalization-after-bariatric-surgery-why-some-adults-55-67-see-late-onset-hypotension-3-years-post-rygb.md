@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     post-exercise-blood-pressure-rebound-in-elderly
   - >-
-    when-to-worry-about-sudden-bp-drop-after-starting-sglt2-inhibitors-especially-in-adults-63-75-with-mild-ckd-and-orthostatic-symptoms
+    what-causes-postprandial-hypertension-a-sudden-30-mmhg-systolic-rise-within-90-minutes-of-eating-in-adults-69-85
   - >-
-    the-truth-about-normal-home-blood-pressure-readings-in-adults-80-with-orthostatic-hypotension-and-white-coat-avoidance
+    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
   - >-
-    simple-steps-to-normalize-bp-lability-after-cataract-surgery-especially-in-adults-with-prior-orthostatic-intolerance-and-glaucoma
+    post-dinner-fatigue-orthostatic-hypotension
 ---
 
 # Understanding Post-Bariatric Surgery Low Blood Pressure — What Adults 55–67 Should Know After RYGB

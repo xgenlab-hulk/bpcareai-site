@@ -9,15 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    instant-oatmeal-endothelial-function-seniors
+  - >-
     what-research-says-about-ultra-processed-holiday-snacks-and-endothelial-dysfunction-in-adults-61-75-with-subclinical-atherosclerosis
+  - >-
+    apple-cider-vs-eggnog-endothelial-function-seniors
   - >-
     the-truth-about-heart-healthy-oat-milk-does-fortified-beta-glucan-delivery-differ-in-adults-66-with-stage-3-ckd-vs-those-with-normal-egfr
   - >-
     sirt1-activating-foods-endothelial-dysfunction-flow-mediated-dilation
-  - >-
-    10-foods-that-worsen-endothelial-glycocalyx-thickness-in-adults-57-68-with-prediabetes-and-early-diastolic-dysfunction
-  - >-
-    olive-oil-polyphenols-endothelial-repair-seniors
 ---
 
 # Oat Milk Creamer Endothelial Dysfunction: What Older Adults Need to Know About Non-Dairy Creamers and Vascular Health

@@ -11,7 +11,13 @@ relatedSlugs:
   - >-
     the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use
   - >-
-    winter-hydration-blood-pressure-stability-elderly
+    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
+  - >-
+    the-complete-guide-to-managing-diabetes-during-heatwaves-for-adults-72-with-diuretic-use-orthostatic-hypotension-and-reduced-thirst-sensation
+  - >-
+    sudden-thirst-holiday-travel-prediabetes
+  - >-
+    warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
 
   - >-
     best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air

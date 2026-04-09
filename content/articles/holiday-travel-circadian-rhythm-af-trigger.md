@@ -8,6 +8,16 @@ primaryKeyword: can holiday travel trigger atrial fibrillation
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
+  - >-
+    holiday-travel-nocturnal-afib-warning
+  - >-
+    how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
+  - >-
+    how-alcohol-timing-affects-atrial-fibrillation-risk-during-holiday-gatherings-in-adults-55-68-with-occult-af-and-high-functioning-lifestyle
+  - >-
+    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - >-
     how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes

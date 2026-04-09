@@ -12,15 +12,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals
+    safe-a1c-level-at-70
   - >-
     understanding-a1c-goals-for-seniors-with-diabetes
   - >-
-    the-truth-about-normal-fasting-glucose-in-adults-over-70-why-95-105-mg-dl-may-already-signal-beta-cell-exhaustion-and-early-dysglycemia
+    is-180-after-meals-normal-55-type-2
   - >-
-    myths-vs-facts-normal-postprandial-glucose-in-adults-75-why-140-mg-dl-after-meals-predicts-3-2x-higher-dementia-risk-even-with-perfect-a1c
+    can-prediabetes-be-reversed-after-age-50
   - >-
-    myths-vs-facts-my-diabetes-is-under-control-because-my-a1c-is-6-8-why-that-number-lies-in-adults-77-with-anemia-and-chronic-kidney-disease
+    is-sugar-free-living-necessary-for-diabetics-over-50
 ---
 
 # What A1C Level Is Too High for a 50-Year-Old? (And What to Do Next)

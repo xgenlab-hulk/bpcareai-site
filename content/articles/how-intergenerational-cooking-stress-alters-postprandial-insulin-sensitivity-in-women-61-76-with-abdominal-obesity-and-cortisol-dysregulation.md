@@ -9,9 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+    how-holiday-family-conflict-elevates-cortisol-driven-hepatic-glucose-output-especially-in-women-57-65-with-perimenopausal-insulin-resistance
   - >-
-    how-emotional-eating-patterns-shift-during-multigenerational-gatherings-and-why-that-matters-for-adults-with-long-standing-type-2-diabetes
+    intergenerational-dining-stress-cortisol-glucose
+  - >-
+    natural-ways-to-support-post-meal-insulin-sensitivity-without-supplements-for-adults-53-67-with-early-stage-pcos-and-holiday-weight-gain
+  - >-
+    how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance
+  - >-
+    intergenerational-cooking-cortisol-dawn-phenomenon
   - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
   - >-
     what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp

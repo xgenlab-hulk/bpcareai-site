@@ -10,6 +10,16 @@ primaryKeyword: family gatherings blood sugar spikes men 60
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    holiday-dinner-blood-sugar-emotional-triggers
+  - >-
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - >-
+    how-intergenerational-plate-sharing-during-thanksgiving-dinner-elevates-postprandial-glucose-spikes-in-adults-62-with-prediabetes
+  - >-
+    intergenerational-dining-stress-cortisol-glucose
+  - >-
+    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
   - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
   - why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope
   - how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes

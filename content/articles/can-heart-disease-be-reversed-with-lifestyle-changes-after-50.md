@@ -8,6 +8,16 @@ primaryKeyword: 'can heart disease be reversed after 50'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    can-mindfulness-meditation-reduce-heart-disease-risk-after-50
+  - >-
+    can-meditation-reduce-heart-disease-risk-after-50
+  - >-
+    how-strength-training-protects-your-heart-as-you-age
+  - >-
+    how-much-exercise-do-you-need-to-reduce-heart-disease-risk-after-65
+  - >-
+    can-prediabetes-be-reversed-after-age-50
   - can-prediabetes-be-reversed-after-age-50
   - how-sleep-affects-heart-health-after-50
   - can-meditation-reduce-heart-disease-risk-after-50

@@ -10,6 +10,16 @@ primaryKeyword: holiday travel insulin needs type 1 diabetes seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    how-holiday-travel-disrupts-circadian-glucose-rhythms-in-adults-58-65-with-insulin-treated-type-2-diabetes-and-3-jet-lag-proof-timing-strategies
+  - >-
+    basal-insulin-adjustment-before-holiday-party
+  - >-
+    quick-ways-to-adjust-your-insulin-to-carb-ratio-when-traveling-across-3-time-zones-without-guessing-or-skipping-doses
+  - >-
+    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
+  - >-
+    how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
   - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
   - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
   - >-

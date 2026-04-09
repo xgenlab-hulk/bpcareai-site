@@ -12,6 +12,14 @@ image: ''
 relatedSlugs:
   - >-
     the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70
+  - >-
+    the-link-between-hearing-loss-and-heart-disease-after-60
+  - >-
+    blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
+  - >-
+    can-hearing-loss-be-an-early-sign-of-heart-disease
+  - >-
+    how-hearing-aid-use-correlates-with-3-year-systolic-bp-trajectory-in-adults-74-86-with-bilateral-sensorineural-hearing-loss
   - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - the-link-between-hearing-loss-and-heart-disease-after-60
   - >-

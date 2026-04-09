@@ -11,9 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    are-sugar-free-treats-actually-safe-for-diabetics-over-65
+    the-truth-about-diabetic-friendly-holiday-candy-labels-why-92-of-these-products-still-trigger-reactive-hypoglycemia-in-adults-67-on-basal-insulin
+  - >-
+    sugar-free-candies-and-gastroparesis
+  - >-
+    sugar-free-desserts-gut-health-seniors
   - >-
     the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
+  - >-
+    are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors
   - >-

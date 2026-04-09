@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     12-unexpected-household-products-that-raise-blood-pressure-from-air-fresheners-to-laundry-detergents
   - >-
-    the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
+    10-unexpected-household-chemicals-that-accelerate-coronary-artery-calcification-in-adults-62-with-chronic-kidney-disease
+  - >-
+    5-things-every-adult-60-69-with-stage-1-hypertension-and-mild-cognitive-complaints-should-know-before-starting-an-ace-inhibitor
   - >-
     the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors
   - >-
-    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
-  - >-
-    14-medications-that-lower-blood-pressure-indirectly-from-antidepressants-to-antipsychotics-and-why-that-matters-for-frail-seniors
+    when-to-worry-about-normal-bp-readings-during-acute-bronchitis-especially-if-you-re-on-ace-inhibitors-and-over-67
 ---
 
 # 7 Common Household Chemicals That May Affect ACE Inhibitor Effectiveness in Older Adults

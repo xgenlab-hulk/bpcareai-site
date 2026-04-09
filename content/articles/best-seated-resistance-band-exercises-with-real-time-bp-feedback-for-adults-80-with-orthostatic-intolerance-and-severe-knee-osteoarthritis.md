@@ -11,9 +11,9 @@ relatedSlugs:
   - >-
     seated-resistance-band-hypertension-elderly
   - >-
-    seated-resistance-band-hypertension-elderly
+    best-seated-breathing-patterns-with-real-time-hrv-feedback-for-adults-79-with-frailty-orthostatic-intolerance-and-mild-pulmonary-hypertension
   - >-
-    seated-resistance-band-hypertension-elderly
+    a-vs-b-daily-12-minute-seated-resistance-band-routine-vs-25-minute-brisk-walking-impact-on-pulse-wave-velocity-in-adults-65-with-arterial-stiffness
   - >-
     best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
   - >-

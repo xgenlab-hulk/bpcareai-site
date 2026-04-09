@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     can-daily-12-second-nitric-oxide-nasal-sprays-improve-endothelial-function-in-women-58-69-with-morning-hypertension-and-cold-induced-raynaud-s
   - >-
-    nasal-breathing-baroreflex-diabetes
-  - >-
     nasal-breathing-central-aortic-pressure
   - >-
-    improve-endothelial-function-without-exercise
+    nasal-breathing-baroreflex-diabetes
+  - >-
+    improve-endothelial-function-quickly
   - >-
     boost-nitric-oxide-naturally-seniors
 ---

@@ -11,7 +11,13 @@ relatedSlugs:
   - >-
     5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house
   - >-
+    simple-steps-to-prevent-diabetic-foot-ulcers-during-winter-for-adults-71-with-peripheral-neuropathy-and-indoor-heaters
+  - >-
     how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
+  - >-
+    the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations
+  - >-
+    foot-care-basics-every-senior-with-diabetes-should-know
   - foot-care-basics-every-senior-with-diabetes-should-know
   - >-
     simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature

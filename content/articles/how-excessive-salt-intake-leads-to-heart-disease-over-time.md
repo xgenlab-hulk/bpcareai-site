@@ -10,6 +10,16 @@ primaryKeyword: how does salt cause heart disease over time
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    hidden-salt-10-surprising-foods-that-spike-blood-pressure
+  - >-
+    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - >-
+    the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
+  - >-
+    myths-vs-facts-salt-sensitivity-in-adults-74-with-long-standing-hypertension-why-82-of-salt-sensitive-diagnoses-are-based-on-outdated-protocols
+  - >-
+    low-sodium-alternatives-for-classic-family-recipes-that-still-taste-great
   - how-obesity-contributes-to-heart-disease-in-middle-age
   - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
   - the-impact-of-long-term-nsaid-use-on-heart-disease-risk

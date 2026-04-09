@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    normalize-nocturnal-blood-pressure-dipping
+  - >-
+    what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring
+  - >-
     nocturnal-bp-dip-sleep-apnea-mild-cognitive-impairment
   - >-
     myths-vs-facts-my-bp-is-fine-because-my-pulse-is-steady-why-heart-rate-normalcy-doesn-t-rule-out-non-dipping-or-morning-surge
   - >-
     interpreting-ambulatory-blood-pressure-reports-sleep-apnea
-  - >-
-    how-chronic-loneliness-after-retirement-alters-autonomic-tone-and-elevates-nocturnal-systolic-pressure-in-adults-68-with-preserved-ejection-fraction
-  - >-
-    how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
 ---
 
 # Why Non-Dipping Blood Pressure Aging Is a Clue — Not Just a Quirk — After 67

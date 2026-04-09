@@ -10,6 +10,16 @@ primaryKeyword: COPD and heart risk in cold weather for seniors
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:
+  - >-
+    why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - >-
+    is-it-safe-to-walk-outside-in-freezing-temperatures-with-heart-disease
+  - >-
+    10-winter-safe-exercises-for-heart-health-after-65
+  - >-
+    the-truth-about-winter-weight-gain-and-heart-strain-after-60
+  - >-
+    stress-blood-pressure-winter
   - why-winter-increases-heart-attack-risk-in-seniors-over-70
   - how-indoor-air-quality-affects-heart-health-in-winter
   - how-vitamin-d-deficiency-impacts-heart-health-in-winter

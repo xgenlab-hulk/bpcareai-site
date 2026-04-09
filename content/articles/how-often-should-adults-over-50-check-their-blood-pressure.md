@@ -10,6 +10,16 @@ primaryKeyword: how often should I check blood pressure after 50
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    5-things-every-adult-50-59-with-family-history-of-early-hypertension-should-know-before-their-first-home-bp-log
+  - >-
+    blood-pressure-in-black-men-over-55-why-standard-algorithms-underestimate-risk-and-what-to-ask-your-doctor
+  - >-
+    blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ
+  - >-
+    the-link-between-sleep-apnea-and-high-blood-pressure-after-50
+  - >-
+    best-times-measure-bp-daily
   - why-blood-pressure-matters-even-if-you-feel-fine
   - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
   - the-role-of-potassium-in-managing-blood-pressure-after-50

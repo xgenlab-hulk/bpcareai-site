@@ -9,7 +9,15 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
-    5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house
+    7-silent-signs-your-feet-are-sending-early-warnings-of-diabetic-neuropathy-especially-if-you-ve-had-t2d-for-12-years
+  - >-
+    myths-vs-facts-i-don-t-need-to-check-my-feet-daily-because-i-still-feel-pain
+  - >-
+    foot-care-basics-every-senior-with-diabetes-should-know
+  - >-
+    simple-steps-to-prevent-diabetic-foot-ulcers-during-winter-for-adults-71-with-peripheral-neuropathy-and-indoor-heaters
+  - >-
+    7-silent-signs-of-diabetic-neuropathy-in-adults-65-that-mimic-arthritis-or-sciatica-even-with-normal-a1c
   - myths-vs-facts-i-don-t-need-to-check-my-feet-daily-because-i-still-feel-pain
   - >-
     the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors

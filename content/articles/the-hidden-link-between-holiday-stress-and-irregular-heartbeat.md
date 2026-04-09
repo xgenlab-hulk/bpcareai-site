@@ -11,7 +11,15 @@ topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:
   - >-
+    why-emotional-stress-at-family-gatherings-raises-heart-arrhythmia-risk
+  - >-
     the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - >-
+    how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
+  - >-
+    7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
+  - >-
+    can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes
   - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues

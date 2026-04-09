@@ -11,15 +11,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    left-ventricular-hypertrophy-masked-hypertension
-  - >-
-    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
+    what-causes-sudden-onset-of-orthostatic-tachycardia-after-dental-anesthesia-in-adults-71-with-autonomic-neuropathy-and-prior-orthostatic-hypotension
   - >-
     masked-hypertension-job-stress-adults-55-64
   - >-
     warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather
   - >-
-    why-does-blood-pressure-spike-during-morning-commute-stress-even-with-normal-readings-at-home-in-adults-58-67
+    left-ventricular-hypertrophy-masked-hypertension
+  - >-
+    what-causes-white-coat-normotension-when-clinic-readings-are-normal-but-ambulatory-monitoring-shows-stage-1-hypertension-in-adults-61-75
 ---
 
 # When “Normal” Blood Pressure at the Dentist Might Be a Hidden Red Flag: Recognizing Masked Hypertension During Dental Procedures

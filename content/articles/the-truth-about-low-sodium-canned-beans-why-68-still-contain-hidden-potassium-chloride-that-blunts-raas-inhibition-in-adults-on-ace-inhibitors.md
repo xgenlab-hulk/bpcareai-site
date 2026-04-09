@@ -10,6 +10,16 @@ primaryKeyword: low-sodium beans and ACE inhibitor safety
 topicCluster: medication-safety
 image: ''
 relatedSlugs:
+  - >-
+    the-truth-about-low-sodium-canned-beans-for-adults-64-with-heart-failure-and-preserved-ejection-fraction
+  - >-
+    low-sodium-soup-potassium-chloride-ckdseniors
+  - >-
+    5-things-everyone-over-70-should-know-about-alcohol-free-holiday-punch-especially-if-taking-ace-inhibitors-or-arbs
+  - >-
+    foods-raise-bp-hidden-causes-seniors
+  - >-
+    frozen-dinners-and-blood-pressure-seniors
 
   - >-
     natural-ways-to-support-renin-angiotensin-system-balance-without-ace-inhibitors-for-adults-with-hypertension-and-chronic-cough-or-angioedema

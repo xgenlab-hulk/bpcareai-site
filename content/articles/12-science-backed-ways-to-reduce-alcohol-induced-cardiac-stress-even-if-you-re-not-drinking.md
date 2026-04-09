@@ -8,6 +8,16 @@ primaryKeyword: 'heart racing after parties without drinking over 50'
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
+  - >-
+    the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement
+  - >-
+    7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
+  - >-
+    best-non-alcoholic-holiday-drinks-for-heart-health-after-50
+  - >-
+    myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs
+  - >-
+    the-truth-about-benign-holiday-palpitations-are-they-really-harmless
   - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
   - can-one-night-of-heavy-drinking-cause-heart-problems-in-people-over-55

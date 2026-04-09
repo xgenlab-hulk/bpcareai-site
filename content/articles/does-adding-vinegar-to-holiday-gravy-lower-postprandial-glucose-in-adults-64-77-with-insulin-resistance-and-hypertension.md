@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    apple-cider-vinegar-postprandial-glucose
+  - >-
     quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
   - >-
     quick-ways-to-reduce-postprandial-bp-surge-after-high-glycemic-breakfasts-for-adults-55-71-with-insulin-resistance-and-elevated-post-meal-nefa
   - >-
-    natural-ways-to-support-post-meal-insulin-sensitivity-without-medication-3-evidence-based-strategies-validated-in-adults-61-74-with-prediabetes
+    holiday-foods-stabilize-blood-glucose-during-meal
   - >-
     pre-kitchen-glycemic-anchoring-insulin-resistance
-  - >-
-    holiday-foods-stabilize-blood-glucose-during-meal
 ---
 
 # Can Vinegar in Holiday Gravy Help Manage Postprandial Glucose in Older Adults with Insulin Resistance and Hypertension?

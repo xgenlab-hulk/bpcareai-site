@@ -10,6 +10,16 @@ primaryKeyword: emotional stress and heart arrhythmia risk at holidays
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
+  - >-
+    the-hidden-link-between-holiday-stress-and-irregular-heartbeat
+  - >-
+    can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes
+  - >-
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - >-
+    how-family-gatherings-can-unintentionally-raise-heart-attack-risk
+  - >-
+    how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
   - how-family-gatherings-can-unintentionally-raise-heart-attack-risk
   - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50

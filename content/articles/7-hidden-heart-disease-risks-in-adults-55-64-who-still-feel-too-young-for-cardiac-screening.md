@@ -9,7 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
+    7-hidden-heart-disease-risk-factors-your-primary-care-doctor-might-miss-especially-if-you-re-a-woman-over-65-with-migraines
+  - >-
+    heart-disease-symptoms-in-women-over-50-what-s-often-missed
+  - >-
+    why-heart-disease-risk-skyrockets-in-women-58-67-within-3-years-after-menopause-even-with-normal-cholesterol
+  - >-
+    masked-hypertension-job-stress-adults-55-64
+  - >-
+    myths-vs-facts-i-have-no-symptoms-so-my-heart-is-fine-in-adults-53-68-with-subclinical-atherosclerosis-and-normal-stress-echo
   - why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
   - can-one-night-of-heavy-drinking-cause-heart-problems-in-people-over-55
   - why-men-over-50-should-monitor-cholesterol-even-without-symptoms

@@ -9,6 +9,16 @@ primaryKeyword: post-meal blood pressure foods seniors 60
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    foods-stabilize-bp-during-meals-57-69
+  - >-
+    5-things-everyone-over-60-should-know-about-family-style-serving-and-its-impact-on-postprandial-blood-pressure-variability
+  - >-
+    what-causes-postprandial-hypertension-a-sudden-30-mmhg-systolic-rise-within-90-minutes-of-eating-in-adults-69-85
+  - >-
+    quick-fix-for-postprandial-hypotension-seniors
+  - >-
+    when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
   - top-5-winter-superfoods-that-naturally-lower-blood-pressure
   - the-role-of-potassium-in-managing-blood-pressure-after-50
   - 5-foods-that-raise-blood-pressure-even-if-they-re-low-sodium

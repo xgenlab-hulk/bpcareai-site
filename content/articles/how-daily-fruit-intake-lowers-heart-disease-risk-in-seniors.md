@@ -10,6 +10,16 @@ primaryKeyword: does eating fruit daily lower heart disease risk after 60
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    heart-friendly-winter-fruits-that-boost-immunity-and-arterial-health
+  - >-
+    how-fiber-rich-diets-support-heart-health-in-people-over-60
+  - >-
+    best-fruits-for-diabetics-over-50-and-which-to-limit
+  - >-
+    blood-sugar-friendly-foods-seniors
+  - >-
+    the-benefits-of-eating-nuts-daily-for-heart-protection-over-50
   - best-fruits-for-diabetics-over-50-and-which-to-limit
   - can-meditation-reduce-heart-disease-risk-after-50
   - the-hidden-link-between-gum-disease-and-heart-problems

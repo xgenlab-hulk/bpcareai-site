@@ -8,6 +8,16 @@ primaryKeyword: does intermittent fasting help new type 2 diabetes
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
+  - >-
+    beta-cell-responsiveness-fasting-mimicking-foods
+  - >-
+    mitochondrial-biogenesis-beta-cells-diabetes
+  - >-
+    the-truth-about-normal-fasting-glucose-in-adults-over-70-why-95-105-mg-dl-may-already-signal-beta-cell-exhaustion-and-early-dysglycemia
+  - >-
+    can-intermittent-fasting-reverse-prediabetes-in-adults-50-59-with-non-alcoholic-fatty-liver-disease-what-the-2024-rcts-say
+  - >-
+    natural-ways-to-support-pancreatic-beta-cell-resilience-after-age-59-using-time-restricted-eating-zinc-rich-foods-and-berberine-timing
 
   - >-
     how-intermittent-fasting-affects-beta-cell-rest-and-regeneration-in-adults-54-68-with-new-onset-type-2-diabetes-what-12-week-clinical-trials-show

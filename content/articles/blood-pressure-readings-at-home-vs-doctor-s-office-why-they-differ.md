@@ -8,6 +8,16 @@ primaryKeyword: 'why blood pressure is higher at doctor than at home'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    the-truth-about-white-coat-resistance-why-some-adults-55-show-higher-bp-at-home-than-in-clinics-and-what-it-reveals-about-vascular-aging
+  - >-
+    5-things-every-adult-50-59-with-family-history-of-early-hypertension-should-know-before-their-first-home-bp-log
+  - >-
+    what-causes-white-coat-normotension-when-clinic-readings-are-normal-but-ambulatory-monitoring-shows-stage-1-hypertension-in-adults-61-75
+  - >-
+    5-things-your-cardiologist-isn-t-telling-you-about-blood-pressure-readings-at-the-pharmacy
+  - >-
+    how-often-should-adults-over-50-check-their-blood-pressure
   - when-to-worry-about-high-readings
   - is-your-medication-causing-high-blood-pressure
   - understanding-blood-pressure-numbers

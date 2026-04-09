@@ -11,11 +11,13 @@ relatedSlugs:
   - >-
     when-to-worry-about-sudden-vision-fluctuations-in-adults-with-type-2-diabetes-over-70-not-just-retinopathy
   - >-
-    warning-signs-of-asymptomatic-diabetic-retinopathy-in-adults-66-with-10-years-of-controlled-a1c-that-aren-t-detected-on-annual-dilated-exam
+    diabetes-and-vision-changes-what-seniors-need-to-know
+  - >-
+    diabetic-retinopathy-oct-angiography-myths
   - >-
     warning-signs-your-winter-indoor-humidity-30-is-accelerating-corneal-nerve-damage-even-with-stable-hba1c-in-adults-77-with-diabetic-neuropathy
   - >-
-    diabetic-retinopathy-oct-angiography-myths
+    warning-signs-of-asymptomatic-diabetic-retinopathy-in-adults-66-with-10-years-of-controlled-a1c-that-aren-t-detected-on-annual-dilated-exam
   - diabetes-and-vision-changes-what-seniors-need-to-know
 ---
 

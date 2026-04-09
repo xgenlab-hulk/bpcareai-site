@@ -9,15 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations
+    how-cold-weather-affects-blood-sugar-in-people-with-diabetes
   - >-
-    the-complete-guide-to-managing-diabetes-during-heatwaves-for-adults-72-with-diuretic-use-orthostatic-hypotension-and-reduced-thirst-sensation
+    12-science-backed-ways-to-reduce-glucose-variability-during-winter-months-for-adults-60-with-seasonal-affective-disorder-and-type-2-diabetes
   - >-
-    diabetes-management-intergenerational-hosting
+    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
   - >-
-    the-complete-guide-to-managing-diabetes-during-a-heatwave-for-adults-70-with-diabetic-nephropathy-and-reduced-thirst-drive
+    the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79
   - >-
-    5-things-everyone-over-66-should-know-about-managing-diabetes-during-a-heatwave-especially-if-on-sglt2-inhibitors
+    why-your-blood-sugar-might-be-higher-in-december-even-with-good-habits
 ---
 
 # Staying Safe and Steady: Practical Diabetes Management During Winter Power Outages for Older Adults in Rural Communities

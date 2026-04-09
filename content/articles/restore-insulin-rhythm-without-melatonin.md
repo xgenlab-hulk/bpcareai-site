@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     how-chronic-exposure-to-blue-light-from-nighttime-tablet-use-disrupts-melatonin-mediated-insulin-secretion-in-adults-65-with-prediabetes
   - >-
-    nighttime-light-glp-1-secretion-fasting-glucose
+    one-bite-dessert-circadian-glucose-rhythm
+  - >-
+    stabilize-morning-glucose-without-insulin
   - >-
     how-late-night-eggnog-consumption-alters-circadian-insulin-secretion-patterns-in-adults-67-with-long-standing-type-2-diabetes
   - >-
-    restore-anp-secretion-circadian-rhythm-older-adults
-  - >-
-    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+    candlelight-dinners-insulin-sensitivity-seniors
 ---
 
 # How to Restore Insulin Rhythm Without Melatonin — A Gentle, Time-Smart Approach for Adults 64+

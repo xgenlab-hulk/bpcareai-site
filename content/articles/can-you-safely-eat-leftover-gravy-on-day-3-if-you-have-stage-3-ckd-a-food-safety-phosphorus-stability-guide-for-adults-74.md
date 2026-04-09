@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     7-silent-signs-your-holiday-gravy-contains-hidden-phosphate-additives-and-why-that-matters-for-adults-74-with-stage-3-ckd
   - >-
-    5-things-everyone-over-76-should-know-about-holiday-leftovers-including-safe-reheating-temperatures-for-frail-immune-systems
+    5-things-you-should-know-before-bringing-a-heart-smart-casserole-to-a-family-gathering-especially-if-you-re-74-with-stage-3-ckd
   - >-
-    how-holiday-leftovers-affect-postprandial-glucose-in-adults-72-with-early-stage-diabetic-nephropathy
+    warning-signs-your-holiday-turkey-gravy-is-causing-subclinical-hyperkalemia-especially-in-adults-73-with-stage-3-ckd-and-ace-inhibitor-use
   - >-
     can-you-safely-eat-leftover-turkey-salad-on-day-3-if-you-re-on-metformin-and-have-egfr-62-a-food-safety-renal-glucose-guide
   - >-
-    reheating-holiday-leftovers-mineral-bioavailability-seniors
+    collard-greens-vs-creamed-spinach-kidney-disease
 ---
 
 # Leftover Gravy Safety Stage 3 CKD: A Practical Guide for Adults 74+ with Chronic Kidney Disease

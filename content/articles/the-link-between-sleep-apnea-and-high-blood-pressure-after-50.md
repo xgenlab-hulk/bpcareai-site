@@ -10,6 +10,16 @@ primaryKeyword: does sleep apnea cause high blood pressure after 50
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
+  - >-
+    how-sleep-affects-heart-health-after-50
+  - >-
+    how-untreated-obstructive-sleep-apnea-worsens-resistant-hypertension-in-women-58-71-with-perimenopausal-insulin-resistance
+  - >-
+    why-does-heart-disease-progress-faster-in-men-over-55-with-untreated-sleep-apnea
+  - >-
+    how-sleep-disordered-breathing-severity-ahi-15-alters-nocturnal-bp-recovery-in-adults-66-82-with-normal-looking-daytime-readings
   - how-sleep-affects-heart-health-after-50
   - the-link-between-sleep-apnea-and-high-blood-pressure
   - why-blood-pressure-matters-even-if-you-feel-fine

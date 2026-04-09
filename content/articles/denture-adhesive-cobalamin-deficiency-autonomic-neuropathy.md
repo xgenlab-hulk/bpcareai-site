@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     ppi-use-vitamin-b12-neuropathy-diabetes
   - >-
-    what-causes-sudden-onset-of-orthostatic-tachycardia-after-dental-anesthesia-in-adults-71-with-autonomic-neuropathy-and-prior-orthostatic-hypotension
-  - >-
     what-causes-sudden-loss-of-sweet-taste-perception-in-adults-69-with-well-controlled-diabetes-and-why-it-predicts-early-diabetic-autonomic-neuropathy
   - >-
     zinc-exposure-from-hearing-aids-and-insulin-resistance
   - >-
-    zinc-hearing-aid-batteries-diabetic-retinopathy
+    holiday-ham-dizziness-autonomic-neuropathy
+  - >-
+    what-causes-sudden-onset-of-orthostatic-tachycardia-after-dental-anesthesia-in-adults-71-with-autonomic-neuropathy-and-prior-orthostatic-hypotension
 ---
 
 # Early Warning Signs of Denture Adhesive–Related Cobalamin Deficiency and Its Impact on Autonomic Neuropathy in Older Adults with Type 2 Diabetes

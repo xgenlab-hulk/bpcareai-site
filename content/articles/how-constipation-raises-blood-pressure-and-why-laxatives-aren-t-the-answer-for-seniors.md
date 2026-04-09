@@ -10,6 +10,16 @@ primaryKeyword: constipation and high blood pressure in seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    how-chronic-constipation-increases-24-hour-systolic-blood-pressure-in-women-67-82-and-what-to-do-about-it
+  - >-
+    how-chronic-constipation-triggers-nocturnal-hypertension-spikes-in-women-over-65-with-pelvic-floor-dysfunction
+  - >-
+    how-chronic-constipation-alters-vagal-tone-and-elevates-nighttime-systolic-pressure-in-adults-60-75-with-mild-orthostatic-intolerance
+  - >-
+    how-chronic-constipation-alters-vagal-tone-and-triggers-nocturnal-st-segment-variability-in-adults-61-with-known-vasovagal-syncope-history
+  - >-
+    how-chronic-constipation-elevates-24-hour-mean-arterial-pressure-via-gut-derived-trimethylamine-n-oxide-especially-in-adults-70-with-low-fiber-diets
   - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
   - blood-pressure-management-for-sedentary-seniors-in-winter-months
   - 10-high-fiber-holiday-foods-that-support-digestion-after-50

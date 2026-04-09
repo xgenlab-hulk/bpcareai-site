@@ -11,15 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    intermittent-fasting-diastolic-dysfunction-hr
+    restore-blood-pressure-variability-diabetes-sdnn
   - >-
-    how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study
+    10-ways-to-reduce-holiday-glucose-variability-without-changing-what-you-eat-using-chewing-pace-seating-position-and-ambient-sound-cues
   - >-
-    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
+    does-daily-5-minute-diaphragmatic-breathing-lower-postprandial-glucose-spikes-in-adults-64-with-high-lf-hf-ratio-and-type-2-diabetes
   - >-
-    blood-pressure-drops-walking-diabetes-neuropathy
+    intermittent-socializing-postprandial-glucose
   - >-
-    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
+    barefoot-walking-glycemic-variability-seniors
 ---
 
 # How Social Dancing Twice Weekly Supports Heart Rhythm, Blood Sugar Stability, and Postural Blood Pressure in Older Adults With Diabetes

@@ -8,6 +8,16 @@ primaryKeyword: nut-free holiday sides safe for seniors with EoE
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
+  - >-
+    best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
+  - >-
+    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
+  - >-
+    top-6-nutrient-dense-side-dishes-to-add-to-your-senior-friendly-holiday-table
+  - >-
+    best-low-insulin-burden-holiday-side-dishes-for-adults-75-with-severe-peripheral-neuropathy-and-slow-gastric-emptying
+  - >-
+    what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
 - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
 - best-high-fiber-low-fodmap-holiday-desserts-for-adults-63-76-with-ibs-d-and-fructose-malabsorption
 - best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation

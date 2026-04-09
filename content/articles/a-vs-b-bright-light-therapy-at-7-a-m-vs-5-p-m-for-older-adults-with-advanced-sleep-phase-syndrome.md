@@ -9,7 +9,15 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
+    a-vs-b-dawn-simulation-vs-midday-10-000-lux-light-box-for-sustained-alertness-and-cortisol-rhythm-stabilization-in-adults-63-77
+  - >-
+    top-5-light-therapy-lamps-recommended-by-geriatric-therapists-for-seniors
+  - >-
+    morning-sunlight-vs-blue-light-blocking-seniors
+  - >-
+    sunlight-exposure-and-circadian-blood-pressure
+  - >-
+    what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter
   - top-5-light-therapy-lamps-recommended-by-geriatric-therapists-for-seniors
   - >-
     how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood

@@ -8,6 +8,16 @@ primaryKeyword: 'layering clothes blood pressure cold weather seniors'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    can-layered-clothing-lower-heart-strain-in-winter
+  - >-
+    natural-ways-to-lower-blood-pressure-this-winter-without-medication
+  - >-
+    the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
+  - >-
+    10-simple-home-adjustments-to-support-blood-pressure-stability-in-winter
+  - >-
+    why-winter-increases-heart-attack-risk-in-seniors-over-70
   - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
   - the-hidden-dangers-of-indoor-heating-on-blood-pressure
   - how-does-cold-weather-affect-blood-pressure-in-older-adults

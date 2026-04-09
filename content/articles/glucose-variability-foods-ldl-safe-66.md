@@ -8,6 +8,16 @@ primaryKeyword: glucose variability foods LDL safe diabetes
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    post-dinner-snack-glucose-spike-prevention
+  - >-
+    a-vs-b-morning-walk-before-breakfast-vs-30-minutes-after-dinner-impact-on-24-hour-glucose-variability-in-adults-60-76-with-postprandial-hyperglycemia
+  - >-
+    postprandial-glucose-family-gatherings-prediabetes
+  - >-
+    how-intergenerational-plate-sharing-during-thanksgiving-dinner-elevates-postprandial-glucose-spikes-in-adults-62-with-prediabetes
+  - >-
+    foods-lower-triglycerides-glucose-seniors
   - 10-foods-that-lower-postprandial-triglycerides-and-glucose-simultaneously-in-adults-58-73-with-metabolic-syndrome
   - what-to-eat-after-the-main-course-a-90-second-post-dinner-strategy-to-prevent-late-night-glucose-spikes-in-men-65-with-type-2-diabetes-and-nocturnal-hypoglycemia-history
   - 12-foods-that-modulate-gut-derived-serotonin-5-ht-to-reduce-postprandial-glucose-variability-in-men-60-76-with-type-2-diabetes-and-ibs-d

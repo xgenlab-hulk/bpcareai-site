@@ -8,6 +8,16 @@ primaryKeyword: why loneliness changes how food tastes for seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    what-are-the-earliest-taste-perception-changes-that-make-holiday-spices-feel-too-strong-after-age-68
+  - >-
+    how-hearing-loss-alters-flavor-perception-and-drives-excessive-salt-use-at-holiday-meals-in-adults-79-with-presbycusis
+  - >-
+    the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
+  - >-
+    how-holiday-table-salt-substitutes-affect-taste-perception-and-sodium-intake-in-adults-74-with-age-related-hypogeusia-and-hypertension
+  - >-
+    how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80
   - the-link-between-loneliness-during-holidays-and-poor-diabetes-control
   - >-
     simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification

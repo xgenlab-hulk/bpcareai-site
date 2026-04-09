@@ -8,6 +8,16 @@ primaryKeyword: are non-alcoholic holiday drinks safe for blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    best-non-alcoholic-holiday-drinks-for-heart-health-after-50
+  - >-
+    the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement
+  - >-
+    5-things-every-adult-53-64-with-newly-diagnosed-hypertension-should-know-before-attending-their-first-post-diagnosis-holiday-party
+  - >-
+    why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
+  - >-
+    can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors
   - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
   - >-
     myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs

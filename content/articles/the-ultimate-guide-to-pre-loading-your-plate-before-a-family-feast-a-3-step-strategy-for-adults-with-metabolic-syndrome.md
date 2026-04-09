@@ -11,7 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    protein-first-timing-triglycerides-metabolic-syndrome
+  - >-
     how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
+  - >-
+    pre-kitchen-glycemic-anchoring-insulin-resistance
+  - >-
+    myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-thanksgiving-dinner-why-this-backfires-for-adults-with-metabolic-syndrome
+  - >-
+    foods-lower-triglycerides-glucose-seniors
   - the-role-of-fiber-in-preventing-blood-sugar-spikes-at-holiday-dinners
   - >-
     12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle

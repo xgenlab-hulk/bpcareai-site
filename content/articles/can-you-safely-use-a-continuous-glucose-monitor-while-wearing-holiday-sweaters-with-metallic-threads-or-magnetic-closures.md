@@ -9,9 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    blood-glucose-monitor-iron-supplement-interference
+    cgm-accuracy-holiday-travel
   - >-
-    top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season
+    5-things-everyone-over-67-should-know-about-using-continuous-glucose-monitors-with-pacemakers-especially-if-you-sleep-in-a-magnetic-mattress-pad
+  - >-
+    5-things-everyone-over-75-should-know-about-using-continuous-glucose-monitors-with-pacemakers-or-icds
+  - >-
+    when-should-you-switch-from-fasting-glucose-to-cgm-derived-time-in-range-metrics-for-holiday-decision-making-a-threshold-framework-for-adults-55-69
+  - >-
+    cgm-flat-line-myth-elderly
   - best-blood-sugar-monitoring-practices-during-the-holiday-season
   - >-
     a-vs-b-continuous-glucose-monitoring-cgm-vs-flash-glucose-monitoring-for-detecting-nocturnal-hypoglycemia-in-adults-with-autonomic-neuropathy

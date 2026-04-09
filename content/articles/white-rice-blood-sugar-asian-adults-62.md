@@ -8,6 +8,16 @@ primaryKeyword: white rice blood sugar control adults 62
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    foods-lower-blood-sugar-without-pills
+  - >-
+    foods-lower-triglycerides-glucose-seniors
+  - >-
+    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
+  - >-
+    can-walking-after-meals-lower-blood-sugar-in-older-adults
+  - >-
+    does-adding-vinegar-to-holiday-gravy-lower-postprandial-glucose-in-adults-64-77-with-insulin-resistance-and-hypertension
   - 10-foods-that-lower-postprandial-triglycerides-and-glucose-simultaneously-in-adults-58-73-with-metabolic-syndrome
   - 12-holiday-foods-that-stabilize-blood-glucose-during-the-meal-not-just-after-with-glycemic-index-modifiers-fiber-synergy-and-timing-rules-for-adults-65
   - 12-science-backed-ways-to-anchor-your-glycemic-response-before-entering-a-relative-s-kitchen-for-adults-54-68-with-insulin-resistance-and-high-postprandial-triglycerides

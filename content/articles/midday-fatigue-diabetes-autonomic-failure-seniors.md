@@ -11,13 +11,13 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    how-does-type-2-diabetes-affect-energy-levels-in-seniors
+  - >-
+    fatigue-after-meals-diabetes-elderly
+  - >-
     when-to-suspect-mitochondrial-myopathy-before-muscle-cramps-appear-red-flags-in-adults-65-with-rapid-onset-insulin-resistance-and-unexplained-fatigue
   - >-
     mitochondrial-dysfunction-lab-clues-diabetes
-  - >-
-    when-to-worry-about-sudden-drowsiness-after-christmas-dinner-linking-postprandial-hypoglycemia-autonomic-blunting-and-late-night-falls-in-adults-75
-  - >-
-    what-are-the-earliest-cognitive-red-flags-linked-to-hypoglycemia-associated-autonomic-failure-in-adults-70-with-20-years-of-type-1-diabetes
   - >-
     sudden-nighttime-hunger-diabetes-diagnosis
 ---

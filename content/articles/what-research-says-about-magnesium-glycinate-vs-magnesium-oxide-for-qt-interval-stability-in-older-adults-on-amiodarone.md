@@ -10,6 +10,16 @@ primaryKeyword: magnesium glycinate vs oxide for QT interval
 topicCluster: special-populations
 image: ''
 relatedSlugs:
+  - >-
+    5-things-you-should-know-before-starting-a-daily-magnesium-glycinate-protocol-especially-if-you-re-taking-amiodarone-or-digoxin-and-are-over-75
+  - >-
+    does-daily-250-mg-of-magnesium-threonate-improve-ventricular-repolarization-homogeneity-in-adults-60-72-with-qtc-prolongation-and-polypharmacy
+  - >-
+    magnesium-glycinate-holiday-dessert-timing
+  - >-
+    does-daily-2-gram-magnesium-glycinate-lower-24-hour-diastolic-bp-in-adults-63-79-with-chronic-constipation-and-low-rbc-magnesium
+  - >-
+    when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use
   - the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
   - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
   - >-

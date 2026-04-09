@@ -10,6 +10,16 @@ primaryKeyword: sudden vision changes diabetes after 70
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    diabetes-and-vision-changes-what-seniors-need-to-know
+  - >-
+    dry-eyes-blurred-vision-diabetes-seniors
+  - >-
+    what-are-the-earliest-signs-of-diabetic-retinopathy-in-adults-55-64-with-well-controlled-a1c-but-fluctuating-postprandial-glucose
+  - >-
+    warning-signs-of-asymptomatic-diabetic-retinopathy-in-adults-66-with-10-years-of-controlled-a1c-that-aren-t-detected-on-annual-dilated-exam
+  - >-
+    how-sleep-apnea-severity-predicts-diabetic-retinopathy-progression-rate-in-adults-64-80-with-non-proliferative-dr-and-ahi-15
   - diabetes-and-vision-changes-what-seniors-need-to-know
   - >-
     warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71

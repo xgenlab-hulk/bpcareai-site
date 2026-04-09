@@ -14,6 +14,12 @@ relatedSlugs:
     myths-vs-facts-normal-postprandial-glucose-in-adults-75-why-140-mg-dl-after-meals-predicts-3-2x-higher-dementia-risk-even-with-perfect-a1c
   - >-
     stabilize-fasting-glucose-without-lowering
+  - >-
+    the-complete-guide-to-interpreting-your-cgm-s-time-in-range-metric-for-adults-75-with-fragile-glycemic-control-and-frequent-falls
+  - >-
+    10-foods-that-stabilize-fasting-glucose-without-lowering-it-for-adults-62-with-history-of-hypoglycemia-and-age-related-adrenal-blunting
+  - >-
+    the-truth-about-normal-fasting-glucose-in-adults-over-70-why-95-105-mg-dl-may-already-signal-beta-cell-exhaustion-and-early-dysglycemia
 
   - >-
     5-things-everyone-over-70-should-know-about-sulfonylureas-especially-if-they-live-alone-and-take-them-daily

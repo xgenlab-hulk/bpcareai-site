@@ -11,7 +11,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
+    how-to-talk-to-relatives-about-your-dietary-restrictions-without-offending-anyone
+  - >-
+    low-sodium-alternatives-for-classic-family-recipes-that-still-taste-great
+  - >-
+    portion-control-strategies-for-large-family-meals-that-work
+  - >-
+    myths-vs-facts-healthy-eating-during-family-celebrations
+  - >-
+    10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor
   - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
   - the-link-between-family-food-traditions-and-chronic-disease-risk
   - best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat

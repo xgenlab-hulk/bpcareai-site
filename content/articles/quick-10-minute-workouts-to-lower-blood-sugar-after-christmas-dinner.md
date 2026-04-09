@@ -10,6 +10,16 @@ primaryKeyword: quick workouts to lower blood sugar after holiday meals
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
+  - >-
+    quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+  - >-
+    5-easy-morning-routines-to-stabilize-blood-sugar-after-a-holiday-feast
+  - >-
+    can-walking-after-meals-lower-blood-sugar-in-older-adults
+  - >-
+    can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
   - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - 5-easy-morning-routines-to-stabilize-blood-sugar-after-a-holiday-feast

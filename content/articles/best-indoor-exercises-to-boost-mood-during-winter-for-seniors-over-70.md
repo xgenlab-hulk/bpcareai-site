@@ -8,6 +8,16 @@ primaryKeyword: 'indoor exercises for seasonal depression seniors over 70'
 topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:
+  - >-
+    quick-ways-to-lift-a-senior-s-mood-during-a-winter-blue-day
+  - >-
+    can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
+  - >-
+    natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
+  - >-
+    how-group-activities-in-senior-centers-prevent-seasonal-depression
+  - >-
+    7-common-mistakes-that-make-seasonal-depression-worse-in-seniors
   - the-best-indoor-exercises-for-blood-pressure-control-in-winter
   - how-light-therapy-can-help-older-adults-beat-winter-blues-after-65
   - blood-pressure-management-for-sedentary-seniors-in-winter-months

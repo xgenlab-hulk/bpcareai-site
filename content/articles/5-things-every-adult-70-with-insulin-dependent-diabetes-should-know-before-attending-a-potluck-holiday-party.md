@@ -9,15 +9,15 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes
-  - >-
-    10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit
+    type-1-diabetes-holiday-potluck-guide
   - >-
     how-to-navigate-a-potluck-without-spiking-your-a1c-blood-sugar-smart-strategies-for-seniors-with-type-2-diabetes
   - >-
-    5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy
+    5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck
   - >-
-    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
+    7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
+  - >-
+    rapid-acting-insulin-holiday-dinner-dosing
 ---
 
 # How Can Insulin Users 70+ Navigate Potluck Parties Without Blood Sugar Chaos or Hypoglycemia?

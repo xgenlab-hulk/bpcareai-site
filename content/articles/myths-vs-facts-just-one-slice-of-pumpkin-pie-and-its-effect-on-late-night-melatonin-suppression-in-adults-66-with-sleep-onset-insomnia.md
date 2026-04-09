@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     one-bite-dessert-circadian-glucose-rhythm
   - >-
-    low-sugar-pumpkin-pie-fructose-metabolism-nafld
+    how-late-night-holiday-snacking-alters-circadian-clock-gene-expression-in-adults-60-69-with-shift-work-history-and-mild-sleep-apnea
   - >-
-    how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
+    10-silent-signs-your-holiday-meal-timing-is-disrupting-hepatic-glucose-production-especially-with-concurrent-melatonin-agonist-use-in-adults-72
   - >-
-    tart-cherry-vs-melatonin-for-nighttime-glucose
+    how-late-night-pie-eating-disrupts-nocturnal-glucose-rhythms-in-adults-65-with-early-stage-diabetic-neuropathy
 ---
 
 # Pumpkin Pie, Melatonin, and Sleep-Onset Insomnia in Adults 66+: Separating Holiday Myths from Sleep Science

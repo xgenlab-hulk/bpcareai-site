@@ -9,7 +9,15 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
+    what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners
+  - >-
     7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
+  - >-
+    7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
+  - >-
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
+  - >-
+    when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
   - >-
     7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels

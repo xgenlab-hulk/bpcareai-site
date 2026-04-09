@@ -10,6 +10,16 @@ primaryKeyword: sudden weight gain and heart failure signs
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    what-are-the-earliest-signs-your-holiday-weight-gain-is-actually-fluid-retention-not-fat-in-women-over-65-with-atrial-fibrillation
+  - >-
+    when-to-worry-about-holiday-weight-gain-if-you-re-75-with-heart-failure-and-preserved-ejection-fraction
+  - >-
+    when-to-worry-about-sudden-swelling-after-thanksgiving-dinner-in-adults-70-with-heart-failure-and-diuretic-resistant-edema
+  - >-
+    why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
+  - >-
+    warning-signs-your-holiday-weight-gain-is-actually-fluid-retention-especially-if-you-re-on-amlodipine-and-over-68
   - how-frequent-urination-at-night-could-signal-heart-problems
   - heart-disease-warning-signs-that-appear-years-in-advance
   - how-walking-speed-can-reflect-heart-health-and-blood-pressure

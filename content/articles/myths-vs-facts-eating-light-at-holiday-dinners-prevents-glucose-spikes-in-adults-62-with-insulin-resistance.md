@@ -11,9 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    myths-vs-facts-eating-light-during-holidays-doesn-t-mean-skipping-meals-here-s-why-for-seniors
+    7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
   - >-
-    myths-vs-facts-just-skip-dessert-is-enough-to-control-blood-sugar-during-holidays-what-continuous-glucose-data-shows-in-adults-61-74
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
+  - >-
+    5-science-backed-ways-to-reduce-holiday-related-insulin-resistance
+  - >-
+    simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
+  - >-
+    skipping-breakfast-holiday-hyperglycemia-seniors
   - myths-vs-facts-holiday-eating-with-diabetes-after-50
   - >-
     myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75

@@ -10,6 +10,16 @@ primaryKeyword: can pets improve heart health for older adults
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    how-social-isolation-impacts-heart-disease-risk-in-older-adults
+  - >-
+    does-laughter-really-protect-your-heart-after-50
+  - >-
+    how-chronic-loneliness-alters-heart-rate-variability-in-adults-65-and-why-that-predicts-5-year-cardiovascular-mortality-risk
+  - >-
+    how-chronic-loneliness-after-retirement-alters-autonomic-tone-and-elevates-nocturnal-systolic-pressure-in-adults-68-with-preserved-ejection-fraction
+  - >-
+    can-dog-ownership-reduce-seasonal-depression-risk-in-retired-seniors
   - how-social-isolation-impacts-heart-disease-risk-in-older-adults
   - is-your-posture-affecting-your-heart-what-older-adults-should-know
   - can-gardening-improve-heart-health-after-50

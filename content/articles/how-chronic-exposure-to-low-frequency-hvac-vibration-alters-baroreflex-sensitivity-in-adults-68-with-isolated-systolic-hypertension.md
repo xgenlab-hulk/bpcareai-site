@@ -8,6 +8,16 @@ primaryKeyword: does HVAC vibration affect blood pressure in seniors
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:
+  - >-
+    traffic-vibration-baroreceptor-sensitivity-hypertension
+  - >-
+    low-frequency-vibration-and-baroreflex-seniors
+  - >-
+    air-conditioning-baroreflex-sensitivity-elderly
+  - >-
+    how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises
+  - >-
+    natural-baroreflex-sensitivity-enhancement
 - how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises
 - how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62
 - 12-science-backed-ways-to-improve-baroreflex-sensitivity-without-drugs-for-adults-59-76-with-isolated-systolic-hypertension-and-low-hrv

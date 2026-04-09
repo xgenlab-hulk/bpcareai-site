@@ -10,6 +10,16 @@ primaryKeyword: how often check fasting blood sugar at 40
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    can-prediabetes-be-reversed-after-age-50
+  - >-
+    stress-blood-sugar-spikes-after-35
+  - >-
+    fasting-glucose-myth-postprandial-risk
+  - >-
+    how-often-should-adults-over-55-monitor-blood-sugar-at-home
+  - >-
+    what-a1c-too-high-50-year-old
   - how-often-should-adults-over-50-check-their-blood-pressure
   - how-often-should-adults-over-55-monitor-blood-sugar-at-home
   - what-a1c-too-high-50-year-old

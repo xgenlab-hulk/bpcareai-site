@@ -10,6 +10,16 @@ primaryKeyword: cold weather heart attack risk in seniors
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:
+  - >-
+    10-winter-safe-exercises-for-heart-health-after-65
+  - >-
+    5-silent-signs-your-heart-is-struggling-in-cold-weather
+  - >-
+    how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
+  - >-
+    why-older-women-are-more-vulnerable-to-winter-heart-events
+  - >-
+    when-to-worry-about-chest-tightness-in-cold-weather
   - how-does-cold-weather-affect-blood-pressure-in-older-adults
   - winter-vs-summer-blood-pressure-what-seniors-need-to-know
   - how-social-isolation-impacts-heart-disease-risk-in-older-adults

@@ -15,11 +15,11 @@ relatedSlugs:
   - >-
     5-things-everyone-over-60-should-know-about-insulin-titration-during-winter-when-basal-needs-shift-due-to-reduced-cutaneous-blood-flow
   - >-
-    how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
+    how-does-holiday-travel-disrupt-basal-insulin-requirements-in-adults-62-75-with-type-1-diabetes
   - >-
     how-holiday-travel-disrupts-circadian-glucose-rhythms-in-adults-58-65-with-insulin-treated-type-2-diabetes-and-3-jet-lag-proof-timing-strategies
   - >-
-    how-does-holiday-travel-disrupt-basal-insulin-requirements-in-adults-62-75-with-type-1-diabetes
+    cgm-accuracy-holiday-travel
 ---
 
 # How Air Travel Insulin Absorption in Elderly Adults with Long-Term Type 1 Diabetes Requires Special Consideration

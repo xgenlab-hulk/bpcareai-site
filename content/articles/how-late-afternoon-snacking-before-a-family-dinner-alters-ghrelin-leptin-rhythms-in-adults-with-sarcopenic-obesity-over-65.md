@@ -13,11 +13,13 @@ relatedSlugs:
   - >-
     how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
   - >-
+    how-late-night-holiday-snacking-alters-circadian-clock-gene-expression-in-adults-60-69-with-shift-work-history-and-mild-sleep-apnea
+  - >-
+    how-family-meal-timing-disrupts-nocturnal-growth-hormone-pulses-in-adults-59-66-with-sarcopenia-and-what-to-eat-instead-of-midnight-snacks
+  - >-
+    late-eating-diabetes-myths-chronobiology-seniors
+  - >-
     how-late-afternoon-snacking-at-family-gatherings-disrupts-nocturnal-melatonin-and-elevates-fasting-glucose-in-adults-59-66-with-shift-work-history
-  - >-
-    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
-  - >-
-    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
 ---
 

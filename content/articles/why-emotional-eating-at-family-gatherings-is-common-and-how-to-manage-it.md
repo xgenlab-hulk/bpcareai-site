@@ -10,6 +10,16 @@ primaryKeyword: emotional eating at family gatherings after 50
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    how-emotional-eating-patterns-shift-during-multigenerational-gatherings-and-why-that-matters-for-adults-with-long-standing-type-2-diabetes
+  - >-
+    the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
+  - >-
+    warning-signs-your-senior-loved-one-is-using-food-to-cope-with-holiday-grief-or-loneliness
+  - >-
+    5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners
+  - >-
+    holiday-dinner-blood-sugar-emotional-triggers
   - 5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners
   - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
   - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar

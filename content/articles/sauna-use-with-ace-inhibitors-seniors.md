@@ -11,15 +11,15 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
+    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
+  - >-
     is-it-safe-to-use-saunas-after-a-recent-myocardial-infarction-guidelines-for-men-62-71-based-on-2024-aha-consensus
   - >-
     infrared-pad-ace-inhibitor-safety
   - >-
-    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
+    does-daily-4-minute-sauna-exposure-really-improve-coronary-flow-reserve-in-adults-69-with-endothelial-dysfunction-and-no-structural-heart-disease
   - >-
-    sauna-therapy-diabetic-foot-ulcer-recovery
-  - >-
-    resistance-training-after-aortic-valve-replacement
+    can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76
 ---
 
 # Sauna Use with ACE Inhibitors in Seniors: A Gentle, Evidence-Informed Guide for Heart Health

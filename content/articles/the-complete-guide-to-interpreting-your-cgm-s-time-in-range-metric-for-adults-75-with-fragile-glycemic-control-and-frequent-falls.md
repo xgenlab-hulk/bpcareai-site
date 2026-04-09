@@ -15,9 +15,9 @@ relatedSlugs:
   - >-
     cgm-flat-line-myth-elderly
   - >-
-    warning-signs-your-holiday-medication-routine-is-failing-even-if-your-a1c-looks-fine
+    a-vs-b-continuous-glucose-monitoring-cgm-vs-fingertip-glucose-testing-for-detecting-nocturnal-hypoglycemia-in-adults-75-on-basal-insulin
   - >-
-    can-you-safely-switch-from-long-acting-insulin-to-glp-1-ras-after-age-74-a-risk-benefit-framework-for-frail-adults-with-mild-cognitive-impairment
+    cgms-vs-flash-glucose-monitoring-seniors-hypoglycemia
 ---
 
 # Understanding CGM Time in Range for Frail Older Adults: A Safer, Person-Centered Approach to Diabetes Management

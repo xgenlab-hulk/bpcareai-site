@@ -10,6 +10,16 @@ primaryKeyword: holiday travel blood sugar spikes prediabetes seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    how-holiday-travel-disrupts-circadian-glucose-rhythms-in-adults-58-65-with-insulin-treated-type-2-diabetes-and-3-jet-lag-proof-timing-strategies
+  - >-
+    7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
+  - >-
+    how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70
+  - >-
+    skipping-breakfast-holiday-hyperglycemia-seniors
+  - >-
+    best-times-check-glucose-holidays-seniors
   - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
   - >-
     how-does-holiday-travel-disrupt-basal-insulin-requirements-in-adults-62-75-with-type-1-diabetes

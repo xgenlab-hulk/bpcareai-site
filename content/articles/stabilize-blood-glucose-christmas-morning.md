@@ -11,15 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry
+    stabilize-morning-glucose-without-insulin
   - >-
-    holiday-foods-stabilize-blood-glucose-during-meal
+    what-causes-sudden-morning-hyperglycemia-on-christmas-day-even-with-perfect-nighttime-glucose-dawn-phenomenon-vs-somogyi-rebound-in-adults-57-71
   - >-
     best-low-gi-high-satiety-holiday-breakfasts-for-adults-60-75-with-morning-hyperglycemia-and-gerd
   - >-
-    reduce-postprandial-glucose-without-medication
+    5-easy-morning-routines-to-stabilize-blood-sugar-after-a-holiday-feast
   - >-
-    why-does-blood-sugar-spike-after-morning-coffee-even-without-sugar-or-cream-in-adults-58-with-early-stage-type-2-diabetes
+    skipping-breakfast-holiday-hyperglycemia-seniors
 ---
 
 # 5 Science-Backed Strategies to Stabilize Blood Glucose Christmas Morning for Adults 60–69 With Insulin-Treated Diabetes

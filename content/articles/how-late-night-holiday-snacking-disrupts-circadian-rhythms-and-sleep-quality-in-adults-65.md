@@ -10,6 +10,16 @@ primaryKeyword: how does late-night snacking affect sleep after 65
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
+  - >-
+    how-late-night-holiday-snacking-alters-circadian-clock-gene-expression-in-adults-60-69-with-shift-work-history-and-mild-sleep-apnea
+  - >-
+    how-late-night-snacking-during-hanukkah-or-christmas-eve-affects-overnight-glucose-stability-in-women-over-70
+  - >-
+    the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - >-
+    late-eating-diabetes-myths-chronobiology-seniors
+  - >-
+    how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
   - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50

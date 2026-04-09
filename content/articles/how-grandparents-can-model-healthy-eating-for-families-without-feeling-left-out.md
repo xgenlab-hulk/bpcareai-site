@@ -10,6 +10,16 @@ primaryKeyword: grandparents with diabetes modeling healthy holiday eating
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    how-to-build-a-diabetes-friendly-plate-at-a-mixed-family-meal
+  - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
+  - >-
+    simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
+  - >-
+    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
+  - >-
+    the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
   - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes

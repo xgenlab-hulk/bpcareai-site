@@ -10,6 +10,16 @@ primaryKeyword: foods that stabilize blood sugar during holiday meals
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    9-foods-that-stabilize-blood-sugar-without-adding-protein-powders-or-supplements-for-adults-57-managing-type-2-diabetes-at-holiday-dinners
+  - >-
+    the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies
+  - >-
+    7-holiday-foods-that-spike-postprandial-glucose-without-tasting-sweet-especially-for-adults-63-with-long-standing-type-2-diabetes
+  - >-
+    myths-vs-facts-eating-light-at-holiday-dinners-prevents-glucose-spikes-in-adults-62-with-insulin-resistance
+  - >-
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
   - the-role-of-fiber-in-preventing-blood-sugar-spikes-at-holiday-dinners
   - 5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
   - >-

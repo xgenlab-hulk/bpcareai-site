@@ -10,6 +10,16 @@ primaryKeyword: can a cold or flu raise your blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    the-link-between-winter-depression-and-high-blood-pressure-in-older-adults
+  - >-
+    natural-ways-to-lower-blood-pressure-this-winter-without-medication
+  - >-
+    the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
+  - >-
+    stress-blood-pressure-winter
+  - >-
+    what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
   - the-link-between-winter-depression-and-high-blood-pressure-in-older-adults
   - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
   - winter-vs-summer-blood-pressure-what-seniors-need-to-know

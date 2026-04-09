@@ -9,13 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-support-pancreatic-enzyme-output-during-large-holiday-meals-without-ppis-or-supplements-backed-by-4-rcts-in-adults-60-78
+    glp-1-secretion-without-probiotics-seniors
   - >-
     how-holiday-stress-cortisol-spikes-impair-glp-1-secretion-in-adults-64-with-obesity-and-prediabetes-and-why-mindful-breathing-beats-just-relax-advice
   - >-
-    reduce-postprandial-glucose-without-medication
+    7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
   - >-
-    when-to-eat-before-a-family-gathering-if-you-re-on-glp-1-agonists-and-over-65
+    natural-ways-to-support-blood-sugar-balance-during-holiday-stress
+  - >-
+    beta-cell-rest-holiday-meals-natural-support
 
 ---
 

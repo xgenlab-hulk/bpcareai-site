@@ -11,7 +11,13 @@ relatedSlugs:
   - >-
     does-daily-2000-iu-vitamin-d3-improve-postprandial-insulin-sensitivity-in-adults-53-69-with-type-2-diabetes-and-seasonal-vitamin-d-deficiency
   - >-
-    the-truth-about-vitamin-d-supplementation-for-seasonal-depression-in-men-over-72-with-chronic-kidney-disease-stage-3
+    vitamin-d-left-atrial-strain-seniors
+  - >-
+    can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
+  - >-
+    right-ventricular-fibrosis-galectin-3-warning-signs
+  - >-
+    what-research-says-about-circadian-misalignment-and-myocardial-fibrosis-in-adults-59-67-with-shift-work-history-and-normal-ejection-fraction
   - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
   - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
   - >-

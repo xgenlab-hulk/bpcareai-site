@@ -12,15 +12,15 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
+    walking-minutes-per-day-seniors-over-65
+  - >-
     how-much-exercise-do-you-need-to-reduce-heart-disease-risk-after-65
   - >-
     start-walking-at-75-safely
   - >-
-    walking-minutes-per-day-seniors-over-65
-  - >-
     strength-exercises-women-over-65
   - >-
-    10-winter-safe-exercises-for-heart-health-after-65
+    exercises-for-seniors-poor-balance
 ---
 
 # How Much Exercise Do I Need at 65? Realistic Weekly Plan

@@ -11,15 +11,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    turkey-preparation-gout-uric-acid-comparison
-  - >-
-    turkey-preparation-zinc-bioavailability-seniors
-  - >-
-    a-vs-b-slow-cooked-turkey-breast-vs-deli-sliced-turkey-for-seniors-with-chronic-kidney-disease
-  - >-
     turkey-cooking-method-endothelial-health
   - >-
     7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-adults-72-with-isolated-systolic-hypertension-and-what-to-serve-instead
+  - >-
+    turkey-preparation-gout-uric-acid-comparison
+  - >-
+    low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
+  - >-
+    the-truth-about-healthy-holiday-stuffing-why-even-whole-grain-versions-can-worsen-postprandial-hypotension-in-adults-68-with-carotid-stenosis
 ---
 
 # How Turkey Preparation Affects Postprandial Systolic Pressure in Adults 62+ With Isolated Systolic Hypertension

@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     diaphragmatic-breathing-fasting-glucose
   - >-
+    why-does-blood-sugar-spike-after-morning-coffee-even-without-sugar-or-cream-in-adults-58-with-early-stage-type-2-diabetes
+  - >-
     does-daily-10-minute-guided-breathing-before-dinner-lower-postprandial-glucose-in-adults-60-72-with-anxiety-related-hyperglycemia-and-gerd
   - >-
     quick-ways-to-normalize-post-exercise-glucose-spikes-in-adults-with-type-1-diabetes-using-pre-workout-caffeine-timing-and-carb-buffered-protein-snacks
-  - >-
-    can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history
 ---
 
 # Can Diaphragmatic Breathing Before Coffee Help Reduce Glucose Spikes in Adults 60–65?

@@ -9,7 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    myths-vs-facts-diabetic-shoes-do-they-actually-prevent-ulcers-in-adults-77-with-mild-charcot-foot-and-no-current-deformity
+  - >-
+    best-walking-surfaces-diabetic-foot-ulcers
+  - >-
+    charcot-neuroarthropathy-footwear-seniors
+  - >-
     best-walking-surface-for-diabetic-glucose
+  - >-
+    simple-steps-to-prevent-diabetic-foot-ulcers-during-winter-for-adults-71-with-peripheral-neuropathy-and-indoor-heaters
 
   - >-
     strength-training-peripheral-neuropathy-seniors

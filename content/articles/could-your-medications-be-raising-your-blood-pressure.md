@@ -8,6 +8,16 @@ primaryKeyword: 'medications that raise blood pressure unexpectedly'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    7-hidden-medication-interactions-that-raise-blood-pressure-after-age-60-including-common-antidepressants-antihistamines-and-topical-nsaids
+  - >-
+    7-hidden-blood-pressure-triggers-in-over-the-counter-cold-medicines-for-adults-65-with-stage-1-hypertension-and-mild-orthostatic-hypotension
+  - >-
+    when-to-worry-about-a-single-bp-reading-over-180-110-especially-if-you-re-taking-nsaids-antidepressants-or-decongestants
+  - >-
+    14-medications-that-lower-blood-pressure-indirectly-from-antidepressants-to-antipsychotics-and-why-that-matters-for-frail-seniors
+  - >-
+    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
   - is-your-medication-causing-high-blood-pressure
   - how-does-cold-weather-affect-blood-pressure-in-older-adults
   - does-caffeine-raise-blood-pressure-after-age-60

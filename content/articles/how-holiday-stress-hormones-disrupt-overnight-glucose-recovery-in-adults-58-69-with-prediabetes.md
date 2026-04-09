@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp
   - >-
-    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+    how-holiday-stress-cortisol-spikes-impair-glp-1-secretion-in-adults-64-with-obesity-and-prediabetes-and-why-mindful-breathing-beats-just-relax-advice
   - >-
-    how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance
+    why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
   - >-
     holiday-sleep-fragmentation-fasting-glucose-men
   - >-
-    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+    how-late-night-cookie-binges-alter-hepatic-gluconeogenesis-rhythms-in-adults-58-66-with-prediabetes-and-why-it-matters-for-fasting-glucose-stability
 ---
 
 # How Holiday Stress and Overnight Glucose Recovery Affect Prediabetes in Adults 58–69

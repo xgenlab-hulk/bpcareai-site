@@ -9,15 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    quick-ways-to-restore-postprandial-parasympathetic-tone-within-20-minutes-for-adults-61-75-with-type-2-diabetes-and-vagal-withdrawal-measured-by-rmssd
-  - >-
-    natural-baroreflex-sensitivity-enhancement
+    natural-autonomic-stabilization-holiday-heart
   - >-
     normalize-heart-rate-variability-after-alcohol
   - >-
-    best-pre-dinner-stress-reduction-protocols-for-adults-57-69-with-high-functioning-anxiety-and-alcohol-triggered-pvcs
+    why-does-heart-rate-variability-decline-after-65-and-what-simple-breathing-protocols-can-restore-it-without-medication
   - >-
-    natural-baroreflex-sensitivity-enhancement
+    cold-face-immersion-vs-vagus-humming-hrvar
+  - >-
+    natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
 ---
 
 # Gentle, Evidence-Informed Ways to Stabilize HRV After Startle in Adults 71+ With Post-Viral Autonomic Dysfunction

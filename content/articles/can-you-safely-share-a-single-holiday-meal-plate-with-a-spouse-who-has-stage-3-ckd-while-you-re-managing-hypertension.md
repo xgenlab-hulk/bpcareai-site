@@ -9,11 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    simple-steps-to-protect-your-kidneys-during-holiday-feasting-if-you-re-67-with-stage-3-ckd-and-mild-hyperkalemia
+  - >-
+    neutralize-holiday-sodium-quickly-seniors-ck
+  - >-
     a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
   - >-
-    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+    when-should-you-skip-the-holiday-buffet-entirely-4-clinical-red-flags-that-signal-high-risk-eating-for-adults-76-with-stage-4-ckd
   - >-
-    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
+    quick-ways-to-stabilize-post-meal-sodium-excretion-in-adults-63-with-ckd-stage-3-and-high-volume-holiday-soups
   - can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure
   - >-
     the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease

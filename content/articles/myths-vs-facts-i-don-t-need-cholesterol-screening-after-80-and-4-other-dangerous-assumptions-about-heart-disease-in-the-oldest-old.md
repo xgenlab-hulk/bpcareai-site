@@ -11,7 +11,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    read-cholesterol-test-after-60
+  - >-
     myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
+  - >-
+    myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio
+  - >-
+    why-men-over-50-should-monitor-cholesterol-even-without-symptoms
+  - >-
+    why-annual-heart-screenings-are-crucial-after-turning-60
   - why-men-over-50-should-monitor-cholesterol-even-without-symptoms
   - >-
     5-things-your-cardiologist-isn-t-telling-you-about-statin-side-effects-after-age-65

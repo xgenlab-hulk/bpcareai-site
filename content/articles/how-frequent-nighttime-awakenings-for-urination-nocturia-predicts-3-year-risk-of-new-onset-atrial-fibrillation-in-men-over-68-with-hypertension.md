@@ -10,6 +10,16 @@ primaryKeyword: nighttime urination and atrial fibrillation risk in men 68+
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    how-chronic-sleep-fragmentation-from-nocturia-affects-left-ventricular-stiffness-in-adults-70-84-with-hypertension-and-mild-ckd
+  - >-
+    the-connection-between-frequent-urination-at-night-and-heart-health
+  - >-
+    7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-wake-up-with-dry-mouth-and-morning-brain-fog
+  - >-
+    how-late-night-holiday-movie-marathons-elevate-sympathetic-tone-and-why-that-increases-afib-burden-in-adults-65-with-nocturnal-hypertension
+  - >-
+    holiday-travel-nocturnal-afib-warning
   - the-connection-between-frequent-urination-at-night-and-heart-health
   - how-frequent-urination-at-night-could-signal-heart-problems
   - >-

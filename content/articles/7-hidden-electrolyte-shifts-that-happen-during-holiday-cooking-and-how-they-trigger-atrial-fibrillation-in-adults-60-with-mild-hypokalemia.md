@@ -9,13 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
+  - >-
+    5-surprising-foods-that-may-trigger-holiday-heart-syndrome
+  - >-
     quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
   - >-
-    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
-  - >-
-    when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use
-  - >-
     5-things-everyone-over-73-should-know-about-holiday-nuts-including-which-varieties-worsen-atrial-fibrillation-triggers-in-winter
+  - >-
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
 ---
 

@@ -8,6 +8,16 @@ primaryKeyword: "dry mouth eating holiday desserts with Sjogren's"
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    how-chronic-low-grade-dehydration-alters-taste-bud-sensitivity-and-drives-holiday-sugar-cravings-in-adults-over-68
+  - >-
+    how-chronic-low-grade-dehydration-from-holiday-travel-disrupts-salivary-amylase-activity-and-why-that-slows-carb-digestion-in-adults-65
+  - >-
+    does-sugar-free-holiday-candy-really-protect-your-teeth-in-adults-70-with-reduced-salivary-flow-and-early-root-caries
+  - >-
+    5-foods-that-support-salivary-amylase-activity-without-increasing-carbohydrate-load-for-adults-77-with-xerostomia-and-mild-dysphagia
+  - >-
+    the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia
 
   - >-
     how-chronic-low-grade-dehydration-alters-taste-bud-sensitivity-and-drives-holiday-sugar-cravings-in-adults-over-68

@@ -8,6 +8,16 @@ primaryKeyword: 'surprising morning habits that spike blood pressure over 55'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    how-morning-blood-pressure-spikes-affect-your-heart
+  - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
+  - >-
+    7-hidden-blood-pressure-spikes-you-re-causing-with-your-morning-coffee-routine-and-how-to-fix-them-without-quitting-caffeine
+  - >-
+    7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-wake-up-with-dry-mouth-and-morning-brain-fog
+  - >-
+    7-silent-signs-your-blood-pressure-is-spiking-during-hot-summer-mornings-even-with-normal-home-readings
   - how-morning-blood-pressure-spikes-affect-your-heart
   - why-morning-blood-pressure-surges-are-more-dangerous-in-winter
   - hidden-salt-10-surprising-foods-that-spike-blood-pressure

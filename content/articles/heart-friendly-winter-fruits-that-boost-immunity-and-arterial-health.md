@@ -10,6 +10,16 @@ primaryKeyword: winter fruits that support heart health after 50
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:
+  - >-
+    top-7-heart-protective-vitamins-to-take-in-winter
+  - >-
+    how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors
+  - >-
+    top-5-winter-superfoods-that-naturally-lower-blood-pressure
+  - >-
+    10-winter-safe-exercises-for-heart-health-after-65
+  - >-
+    why-older-women-are-more-vulnerable-to-winter-heart-events
   - how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors
   - top-7-heart-protective-vitamins-to-take-in-winter
   - top-5-winter-superfoods-that-naturally-lower-blood-pressure

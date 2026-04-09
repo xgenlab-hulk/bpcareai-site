@@ -13,7 +13,11 @@ relatedSlugs:
   - >-
     boost-nitric-oxide-naturally-seniors
   - >-
-    microvascular-coronary-reactivity-natural
+    endothelial-nitric-oxide-synthase-recoupling
+  - >-
+    natural-ways-to-improve-endothelial-nitric-oxide-synthase-enos-activity-at-night-for-women-63-with-non-dipping-bp-and-shift-work-history
+  - >-
+    endothelial-support-without-nitrates-seniors
   - >-
     natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
 

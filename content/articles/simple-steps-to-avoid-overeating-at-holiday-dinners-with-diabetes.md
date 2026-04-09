@@ -11,7 +11,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - >-
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
+  - >-
+    7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
+  - >-
+    myths-vs-facts-holiday-eating-with-diabetes-after-50
+  - >-
+    myths-vs-facts-eating-light-at-holiday-dinners-prevents-glucose-spikes-in-adults-62-with-insulin-resistance
   - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
   - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60

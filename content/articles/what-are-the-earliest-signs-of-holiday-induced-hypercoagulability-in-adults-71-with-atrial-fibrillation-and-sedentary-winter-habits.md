@@ -11,7 +11,13 @@ relatedSlugs:
   - >-
     how-cold-weather-and-holiday-feasting-jointly-elevate-stroke-risk-in-seniors-with-atrial-fibrillation
   - >-
-    natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings
+    what-are-the-earliest-signs-your-holiday-weight-gain-is-actually-fluid-retention-not-fat-in-women-over-65-with-atrial-fibrillation
+  - >-
+    holiday-travel-nocturnal-afib-warning
+  - >-
+    how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
+  - >-
+    atrial-fibrillation-vs-holiday-heart-syndrome-key-differences-everyone-should-know
   - blood-pressure-management-for-sedentary-seniors-in-winter-months
   - >-
     quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76

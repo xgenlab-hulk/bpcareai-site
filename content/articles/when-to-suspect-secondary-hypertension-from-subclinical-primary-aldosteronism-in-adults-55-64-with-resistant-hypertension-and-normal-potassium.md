@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    masking-secondary-hypertension-symptoms
+  - >-
     warning-signs-of-secondary-hypertension-you-might-miss-if-you-re-57-69-and-taking-proton-pump-inhibitors-long-term
+  - >-
+    subclinical-aortic-stenosis-blood-pressure-masking
   - >-
     low-carb-diet-morning-bp-spike-elderly
   - >-
     left-ventricular-hypertrophy-masked-hypertension
-  - >-
-    left-ventricular-hypertrophy-masked-hypertension
-  - >-
-    when-to-worry-about-asymptomatic-diastolic-dysfunction-on-echo-especially-if-you-re-67-with-normal-lvef-hypertension-and-elevated-nt-probnp
 ---
 
 # When Secondary Hypertension Subclinical Aldosteronism Might Be Hiding Behind “Normal” Blood Pressure Readings

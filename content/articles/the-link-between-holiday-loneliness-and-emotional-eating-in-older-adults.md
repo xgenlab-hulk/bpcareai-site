@@ -10,6 +10,16 @@ primaryKeyword: why holiday loneliness causes emotional eating in seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    warning-signs-your-senior-loved-one-is-using-food-to-cope-with-holiday-grief-or-loneliness
+  - >-
+    how-chronic-loneliness-alters-taste-perception-during-holiday-meals-in-adults-69-82-with-reduced-gustatory-bud-density-and-depression
+  - >-
+    the-link-between-loneliness-during-holidays-and-poor-diabetes-control
+  - >-
+    how-cold-weather-impacts-appetite-and-food-choices-in-seniors-during-the-holidays
+  - >-
+    why-emotional-eating-at-family-gatherings-is-common-and-how-to-manage-it
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - how-social-isolation-impacts-heart-disease-risk-in-older-adults
   - >-

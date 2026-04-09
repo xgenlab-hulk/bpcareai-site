@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     zinc-hearing-aid-batteries-diabetic-retinopathy
   - >-
-    red-flags-your-holiday-diet-soda-habit-is-worsening-insulin-resistance-especially-if-you-re-60-with-visceral-adiposity
+    how-daily-use-of-hearing-aids-alters-parasympathetic-tone-and-postprandial-glucose-variability-in-adults-76-with-mild-hearing-loss-and-t2d
   - >-
-    how-sudden-hearing-loss-triggers-acute-hyperglycemia-in-adults-63-with-prediabetes-and-why-it-s-not-just-stress
+    hearing-loss-diabetes-cognitive-decline
   - >-
     7-silent-signs-your-hearing-loss-may-be-linked-to-poor-glycemic-control-especially-if-you-re-a-woman-over-64
   - >-
-    natural-ways-to-support-pancreatic-beta-cell-resilience-after-age-59-using-time-restricted-eating-zinc-rich-foods-and-berberine-timing
+    denture-adhesive-cobalamin-deficiency-autonomic-neuropathy
 ---
 
 # Could Zinc Exposure from Hearing Aids and Insulin Resistance Be a Concern for Older Adults with Diabetes?

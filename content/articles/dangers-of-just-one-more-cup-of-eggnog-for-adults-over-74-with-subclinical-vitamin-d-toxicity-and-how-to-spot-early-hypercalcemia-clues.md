@@ -9,9 +9,13 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
+    7-silent-signs-your-holiday-eggnog-is-triggering-postprandial-endothelial-dysfunction-in-adults-67-with-preexisting-microalbuminuria
+  - >-
     how-late-night-eggnog-consumption-alters-cardiac-repolarization-reserve-in-adults-58-65-with-subclinical-qt-prolongation
   - >-
-    the-hidden-role-of-vitamin-d-deficiency-in-winter-depression-among-nursing-home-residents
+    5-things-every-woman-over-62-should-know-about-calcium-fortified-eggnog-and-bone-mineral-density-especially-with-long-term-ppi-use
+  - >-
+    how-late-night-eggnog-consumption-disrupts-fasting-glucose-patterns-in-men-over-65-with-prediabetes
   - >-
     why-your-one-glass-of-eggnog-habit-may-be-raising-triglycerides-faster-than-expected-especially-if-you-re-postmenopausal-and-sedentary
   - how-vitamin-d-deficiency-impacts-heart-health-in-winter

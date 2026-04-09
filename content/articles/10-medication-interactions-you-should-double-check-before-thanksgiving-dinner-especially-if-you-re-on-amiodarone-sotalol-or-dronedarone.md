@@ -9,7 +9,15 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
+    how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
+  - >-
+    the-truth-about-heart-healthy-holiday-cookies-for-men-77-with-atrial-fibrillation-and-polypharmacy
+  - >-
+    7-hidden-electrolyte-shifts-that-happen-during-holiday-cooking-and-how-they-trigger-atrial-fibrillation-in-adults-60-with-mild-hypokalemia
+  - >-
+    5-things-everyone-over-73-should-know-about-holiday-nuts-including-which-varieties-worsen-atrial-fibrillation-triggers-in-winter
+  - >-
+    when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use
   - can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors
   - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
   - >-

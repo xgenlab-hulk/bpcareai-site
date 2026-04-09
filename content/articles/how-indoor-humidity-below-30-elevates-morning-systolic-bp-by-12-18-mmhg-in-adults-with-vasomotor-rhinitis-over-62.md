@@ -10,6 +10,16 @@ primaryKeyword: low humidity morning blood pressure spikes over 62
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    how-indoor-humidity-below-30-triggers-endothelial-stiffness-in-adults-55-68-with-early-arterial-calcification
+  - >-
+    the-hidden-dangers-of-indoor-heating-on-blood-pressure
+  - >-
+    10-simple-home-adjustments-to-support-blood-pressure-stability-in-winter
+  - >-
+    9-simple-steps-to-adjust-your-cpap-humidifier-settings-without-raising-overnight-systolic-pressure-for-adults-67-with-osa-and-nocturnal-hypertension
+  - >-
+    how-indoor-humidity-levels-below-30-during-heated-winters-increase-coronary-vasospasm-risk-in-women-over-64-with-migraine-history
   - how-indoor-air-quality-affects-heart-health-in-winter
   - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
   - the-hidden-dangers-of-indoor-heating-on-blood-pressure

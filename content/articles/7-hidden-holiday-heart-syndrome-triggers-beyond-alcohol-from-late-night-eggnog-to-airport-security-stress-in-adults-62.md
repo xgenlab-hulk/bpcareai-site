@@ -11,7 +11,13 @@ relatedSlugs:
   - >-
     the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - >-
-    7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
+    the-hidden-link-between-holiday-stress-and-irregular-heartbeat
+  - >-
+    how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
+  - >-
+    is-holiday-heart-syndrome-reversible-what-science-says
+  - >-
+    the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
   - >-
     holiday-stress-and-atrial-ectopy

@@ -9,13 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    nighttime-light-exposure-cardiac-clock-genes-elders
+    mitochondrial-biogenesis-heart-failure-trf
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak
-  - >-
-    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
+    mitochondrial-biogenesis-diastolic-dysfunction
   - >-
     mitochondrial-biogenesis-heart-aging
+  - >-
+    12-foods-that-enhance-myocardial-mitochondrial-biogenesis-without-increasing-oxidative-stress-for-adults-55-63-with-early-diastolic-dysfunction
+  - >-
+    mitochondrial-biogenesis-heart-natural
 
 ---
 

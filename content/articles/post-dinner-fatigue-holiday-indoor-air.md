@@ -9,15 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    what-causes-sudden-post-dinner-drowsiness-in-adults-55-69-with-untreated-sleep-apnea-and-high-fat-holiday-meals
+    when-to-worry-about-post-dinner-fatigue-after-holiday-gatherings-distinguishing-normal-aging-from-early-mitochondrial-decline-in-men-68
+  - >-
+    10-foods-that-support-mitochondrial-resilience-during-holiday-stress-in-adults-57-74-with-chronic-fatigue
   - >-
     what-causes-sudden-after-dinner-fatigue-in-adults-71-with-mild-anemia-and-low-vitamin-b12-and-how-to-prevent-it-at-holiday-gatherings
   - >-
-    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
-  - >-
-    sudden-fatigue-after-holiday-meals-cardiac-diastolic-dysfunction
-  - >-
     mitochondrial-biogenesis-after-overeating-seniors
+  - >-
+    what-causes-sudden-post-dinner-drowsiness-in-adults-55-69-with-untreated-sleep-apnea-and-high-fat-holiday-meals
 ---
 
 # Why You Feel Drained After Dinner Only at Your Daughter’s House — Understanding Post-Dinner Fatigue, Holiday Indoor Air, and Gentle Mitigation Strategies

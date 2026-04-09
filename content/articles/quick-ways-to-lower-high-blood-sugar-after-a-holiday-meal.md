@@ -10,6 +10,16 @@ primaryKeyword: how to lower blood sugar after a holiday meal
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    quick-10-minute-workouts-to-lower-blood-sugar-after-christmas-dinner
+  - >-
+    quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+  - >-
+    can-walking-after-meals-lower-blood-sugar-in-older-adults
+  - >-
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
+  - >-
+    5-easy-morning-routines-to-stabilize-blood-sugar-after-a-holiday-feast
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
   - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food

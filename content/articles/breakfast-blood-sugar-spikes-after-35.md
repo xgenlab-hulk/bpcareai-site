@@ -12,15 +12,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    the-role-of-fiber-in-preventing-blood-sugar-spikes-at-holiday-dinners
+    breakfast-blood-sugar-seniors
   - >-
-    post-dinner-snack-glucose-spike-prevention
+    stabilize-morning-glucose-without-insulin
   - >-
-    quick-ways-to-reduce-postprandial-bp-surge-after-high-glycemic-breakfasts-for-adults-55-71-with-insulin-resistance-and-elevated-post-meal-nefa
-  - >-
-    why-does-blood-sugar-spike-after-morning-coffee-even-without-sugar-or-cream-in-adults-58-with-early-stage-type-2-diabetes
+    best-low-gi-high-satiety-holiday-breakfasts-for-adults-60-75-with-morning-hyperglycemia-and-gerd
   - >-
     skipping-breakfast-holiday-hyperglycemia-seniors
+  - >-
+    stabilize-blood-glucose-christmas-morning
 ---
 
 # Best Breakfast Foods to Stop Morning Blood Sugar Spikes After 35

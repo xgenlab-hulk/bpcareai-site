@@ -8,6 +8,16 @@ primaryKeyword: 'hormone therapy and blood pressure after 62'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    5-things-every-woman-over-65-taking-oral-estradiol-should-know-about-its-effect-on-renin-angiotensin-aldosterone-system-activation-and-systolic-drift
+  - >-
+    5-things-every-woman-over-62-with-early-menopause-before-age-45-should-know-about-estrogen-loss-and-nighttime-bp-surge
+  - >-
+    blood-pressure-fluctuations-during-menopause-what-women-should-know
+  - >-
+    warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather
+  - >-
+    left-ventricular-hypertrophy-masked-hypertension
   - blood-pressure-changes-during-menopause-what-women-should-know
   - blood-pressure-fluctuations-during-menopause-what-women-should-know
   - >-

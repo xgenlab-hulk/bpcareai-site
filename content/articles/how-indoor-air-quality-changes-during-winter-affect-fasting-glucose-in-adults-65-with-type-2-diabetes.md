@@ -8,6 +8,16 @@ primaryKeyword: 'can poor indoor air raise fasting blood sugar in winter'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    fireplace-smoke-glucose-uptake-seniors-copd
+  - >-
+    air-pollution-pancreatic-mitochondria-diabetes
+  - >-
+    how-indoor-air-quality-affects-heart-health-in-winter
+  - >-
+    12-science-backed-ways-to-reduce-glucose-variability-during-winter-months-for-adults-60-with-seasonal-affective-disorder-and-type-2-diabetes
+  - >-
+    dry-air-fasting-glucose-accuracy
   - how-indoor-air-quality-affects-heart-health-in-winter
   - >-
     how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments

@@ -8,6 +8,16 @@ primaryKeyword: 'how much alcohol is safe with high blood pressure over 50'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    the-truth-about-alcohol-and-heart-disease-is-one-drink-a-day-safe
+  - >-
+    why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
+  - >-
+    7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62
+  - >-
+    how-often-should-adults-over-50-check-their-blood-pressure
+  - >-
+    blood-pressure-in-black-men-over-55-why-standard-algorithms-underestimate-risk-and-what-to-ask-your-doctor
   - can-drinking-too-much-water-raise-blood-pressure
   - does-caffeine-raise-blood-pressure-after-age-60
   - blood-pressure-and-kidney-health-what-seniors-need-to-know

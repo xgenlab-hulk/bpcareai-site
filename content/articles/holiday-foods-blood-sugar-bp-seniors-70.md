@@ -9,6 +9,16 @@ primaryKeyword: holiday foods blood sugar blood pressure seniors 70
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    safe-holiday-foods-seniors-80-grandkids
+  - >-
+    7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-adults-72-with-isolated-systolic-hypertension-and-what-to-serve-instead
+  - >-
+    the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
+  - >-
+    7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
+  - >-
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
 
   - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
   - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes

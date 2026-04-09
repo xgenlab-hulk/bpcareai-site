@@ -8,6 +8,16 @@ primaryKeyword: 'walking after meals to lower blood sugar in seniors'
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+  - >-
+    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
+  - >-
+    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
+  - >-
+    a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes
+  - >-
+    quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - meal-timing-strategies-for-better-blood-sugar-control-after-50
   - the-role-of-fiber-in-controlling-blood-sugar-after-50

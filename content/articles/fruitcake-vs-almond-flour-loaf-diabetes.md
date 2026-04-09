@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     holiday-healthy-swap-triglyceride-lipoprotein
   - >-
-    flaxseed-oil-vs-ground-flaxseed-diabetes
+    why-your-low-carb-holiday-stuffing-still-raises-triglycerides-and-what-to-swap-instead
   - >-
     one-slice-pie-triglycerides-seniors-myth
   - >-
-    how-intergenerational-gift-giving-of-homemade-cookies-affects-postprandial-triglycerides-in-adults-68-with-metabolic-syndrome
+    why-your-holiday-fruitcake-may-be-raising-your-fasting-glucose-even-if-it-s-no-sugar-added
   - >-
     chicken-preparation-triglyceride-clearance-hypertriglyceridemia
 ---

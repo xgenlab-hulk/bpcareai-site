@@ -8,6 +8,16 @@ primaryKeyword: 'heart healthy holiday appetizers under 150 calories seniors'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    7-hidden-sodium-traps-in-healthy-looking-holiday-salads-that-worsen-fluid-retention-in-adults-74-with-mild-heart-failure
+  - >-
+    14-hidden-portion-traps-in-mini-holiday-treats-that-sabotage-blood-pressure-control-in-adults-69-with-salt-sensitive-hypertension
+  - >-
+    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - >-
+    how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
+  - >-
+    best-low-sodium-swaps-for-classic-holiday-side-dishes-ranked-by-palatability-potassium-retention-and-ease-of-prep-for-caregivers-over-60
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - 7-smart-swaps-for-healthier-holiday-meals-after-65
   - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure

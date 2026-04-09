@@ -11,11 +11,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
+    reverse-left-ventricular-hypertrophy-without-medication
   - >-
-    natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension
+    can-strength-training-lower-heart-disease-risk-after-60
   - >-
-    best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options
+    post-exercise-systolic-surge-quick-fix
+  - >-
+    the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
+  - >-
+    resistance-training-after-aortic-valve-replacement
   - can-strength-training-lower-heart-disease-risk-after-60
   - >-
     hiit-vs-walking-pulse-pressure-prehypertension

@@ -10,6 +10,16 @@ primaryKeyword: holiday sleep loss raises fasting glucose in men
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
+  - >-
+    how-holiday-stress-hormones-disrupt-overnight-glucose-recovery-in-adults-58-69-with-prediabetes
+  - >-
+    the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
+  - >-
+    skipping-breakfast-holiday-hyperglycemia-seniors
+  - >-
+    5-easy-morning-routines-to-stabilize-blood-sugar-after-a-holiday-feast
   - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-

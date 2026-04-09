@@ -9,15 +9,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
+    turkey-preparation-gout-uric-acid-comparison
+  - >-
+    turkey-preparation-zinc-bioavailability-seniors
+  - >-
+    when-should-you-skip-the-holiday-ham-and-why-if-you-re-66-with-stage-2-chronic-kidney-disease-and-elevated-urea-nitrogen
+  - >-
+    best-protein-sources-for-holiday-meals-if-you-re-taking-warfarin-and-have-stage-2-ckd-balancing-inr-stability-and-phosphorus-control-in-adults-70
   - >-
     a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
-  - >-
-    the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
-  - >-
-    collard-greens-heart-failure-diuretics-comparison
-  - >-
-    the-truth-about-heart-healthy-plant-based-burgers-for-adults-over-70-with-stage-2-ckd-hidden-potassium-load-and-phosphate-additives
 ---
 
 # Slow-Cooked Turkey Breast vs. Deli Sliced Turkey: What Matters Most in Turkey Preparation Chronic Kidney Disease

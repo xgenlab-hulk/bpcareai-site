@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     does-long-term-use-of-ppis-increase-risk-of-atrial-fibrillation-in-seniors-with-gerd
   - >-
-    when-to-worry-about-unexplained-muscle-cramps-at-night-in-women-over-68-with-diabetes-and-diuretic-use
-  - >-
-    ppi-use-vitamin-b12-neuropathy-diabetes
-  - >-
     when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use
   - >-
+    pom-inhibitors-atherosclerosis-gut-microbiome
+  - >-
     when-to-suspect-secondary-hypertension-from-subclinical-primary-aldosteronism-in-adults-55-64-with-resistant-hypertension-and-normal-potassium
+  - >-
+    ppi-use-vitamin-b12-neuropathy-diabetes
 ---
 
 # Secondary Hypertension PPI Warning Signs: What Adults 57–69 Should Know

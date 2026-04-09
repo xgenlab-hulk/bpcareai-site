@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     food-recognition-macular-degeneration
   - >-
+    the-complete-guide-to-navigating-holiday-buffets-with-visual-impairment-and-age-related-macular-degeneration
+  - >-
     holiday-eating-macular-degeneration
   - >-
     simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
-  - >-
-    the-complete-guide-to-navigating-holiday-buffets-with-visual-impairment-and-age-related-macular-degeneration
   - >-
     dessert-portion-control-visual-decline
 ---

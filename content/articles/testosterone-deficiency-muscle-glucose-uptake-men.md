@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     5-things-every-man-over-68-with-low-testosterone-and-type-2-diabetes-should-know-about-muscle-protein-synthesis-and-glucose-uptake
   - >-
+    5-things-every-man-over-65-taking-testosterone-replacement-should-know-about-its-effect-on-insulin-receptor-tyrosine-kinase-activity-and-glucose-uptake-efficiency
+  - >-
     testosterone-therapy-hepatic-glucose-production-seniors
   - >-
-    5-things-your-cardiologist-isn-t-telling-you-about-statin-side-effects-after-age-65
+    statin-side-effects-heart-health-seniors
   - >-
     natural-ways-to-improve-glucose-uptake-in-skeletal-muscle-without-exercise-for-adults-79-with-severe-osteoarthritis-bedrest-or-post-hip-replacement
-  - >-
-    pcos-diabetes-menopause-androgen-decline
 ---
 
 # What Every Man Over 74 Should Know About Testosterone Deficiency, Muscle Glucose Uptake, and Statin Use

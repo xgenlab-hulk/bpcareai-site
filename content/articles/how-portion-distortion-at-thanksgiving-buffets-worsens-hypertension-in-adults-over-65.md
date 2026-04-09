@@ -10,6 +10,16 @@ primaryKeyword: can holiday buffet portions raise blood pressure in seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
+  - >-
+    7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-adults-72-with-isolated-systolic-hypertension-and-what-to-serve-instead
+  - >-
+    how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
+  - >-
+    can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure
+  - >-
+    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
   - can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure

@@ -8,6 +8,16 @@ primaryKeyword: 'best walking surface for blood sugar with diabetes'
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
+  - >-
+    best-walking-surfaces-diabetic-foot-ulcers
+  - >-
+    barefoot-walking-glycemic-variability-seniors
+  - >-
+    charcot-neuroarthropathy-footwear-seniors
+  - >-
+    does-daily-10-minute-post-dinner-walking-really-lower-next-morning-fasting-glucose-in-adults-64-with-morning-only-hyperglycemia
+  - >-
+    best-footwear-materials-for-reducing-shear-stress-in-adults-68-82-with-diabetic-neuropathy-hallux-rigidus-and-history-of-recurrent-toe-ulcers
 
   - >-
     strength-training-peripheral-neuropathy-seniors

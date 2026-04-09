@@ -9,7 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    7-hidden-blood-pressure-spikes-you-re-causing-with-your-morning-coffee-routine-and-how-to-fix-them-without-quitting-caffeine
+    does-caffeine-raise-blood-pressure-after-age-60
+  - >-
+    why-does-blood-sugar-spike-after-morning-coffee-even-without-sugar-or-cream-in-adults-58-with-early-stage-type-2-diabetes
+  - >-
+    7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
+  - >-
+    how-morning-blood-pressure-spikes-affect-your-heart
+  - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
   - 7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
   - >-
     7-hidden-blood-pressure-spikes-you-re-causing-with-your-morning-coffee-routine-and-how-to-fix-them-without-quitting-caffeine

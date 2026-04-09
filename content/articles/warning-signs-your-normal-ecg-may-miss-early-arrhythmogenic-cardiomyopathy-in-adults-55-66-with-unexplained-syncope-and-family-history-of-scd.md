@@ -9,15 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    cardiac-amyloidosis-diagnosis-low-voltage-ecg-older-men
+  - >-
     myths-vs-facts-my-ecg-is-normal-so-my-heart-is-fine-why-resting-ecg-misses-68-of-early-conduction-abnormalities-in-adults-65
   - >-
-    red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
+    cardiac-sarcoidosis-early-signs-av-block
   - >-
-    warning-signs-your-stable-diabetes-is-masking-early-diabetic-cardiomyopathy-even-with-normal-ejection-fraction-and-no-symptoms-in-adults-59-68
+    ekg-normal-cardiac-mri-strain
   - >-
-    when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss
-  - >-
-    home-ecg-devices-with-pacemakers-and-anticoagulants
+    warning-signs-your-stable-atrial-fibrillation-is-progressing-to-tachycardia-induced-cardiomyopathy-even-with-controlled-ventricular-rate-in-adults-61
 ---
 
 # When a “Normal” ECG Isn’t Enough: Recognizing Early Arrhythmogenic Cardiomyopathy in Adults 55–66 With Unexplained Syncope

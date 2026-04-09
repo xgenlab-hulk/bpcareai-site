@@ -8,6 +8,16 @@ primaryKeyword: 'intermittent fasting for type 2 diabetes after 60'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes
+  - >-
+    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
+  - >-
+    what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
+  - >-
+    what-research-says-about-intermittent-fasting-from-christmas-eve-to-new-year-s-day-for-adults-with-stable-type-2-diabetes-over-62
+  - >-
+    can-intermittent-fasting-worsen-autonomic-neuropathy-in-adults-71-with-long-term-type-2-diabetes-and-orthostatic-tachycardia
   - meal-timing-strategies-for-better-blood-sugar-control-after-50
   - how-chronic-inflammation-worsens-type-2-diabetes-after-50
   - the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors

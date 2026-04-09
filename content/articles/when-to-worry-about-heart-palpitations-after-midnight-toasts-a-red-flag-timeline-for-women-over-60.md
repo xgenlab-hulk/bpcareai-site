@@ -10,6 +10,16 @@ primaryKeyword: heart palpitations after alcohol women over 60
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
+  - >-
+    the-truth-about-benign-holiday-palpitations-are-they-really-harmless
+  - >-
+    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
+  - >-
+    post-dinner-palpitations-holiday-heart-syndrome
+  - >-
+    7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
   - when-to-worry-about-palpitations-after-christmas-dinner
   - can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
   - >-

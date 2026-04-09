@@ -9,13 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    low-impact-exercise-blood-pressure-seniors
+  - >-
+    best-seated-resistance-band-exercises-with-real-time-bp-feedback-for-adults-80-with-orthostatic-intolerance-and-severe-knee-osteoarthritis
+  - >-
+    how-chronic-knee-osteoarthritis-pain-alters-ambulatory-blood-pressure-patterns-in-adults-72-with-stage-2-hypertension
+  - >-
     best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
   - >-
-    resistance-training-left-ventricular-hypertrophy
-  - >-
-    best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options
-  - >-
-    can-daily-12-minute-seated-tai-chi-lower-24-hour-systolic-load-in-adults-71-with-isolated-systolic-hypertension-and-mild-gait-instability
+    seated-resistance-band-hypertension-elderly
   - best-low-impact-exercises-for-managing-diabetes-after-60
 ---
 

@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     interpreting-ambulatory-blood-pressure-reports-sleep-apnea
   - >-
-    ambulatory-blood-pressure-report-interpretation
-  - >-
     ambulatory-blood-pressure-variability-interpretation
+  - >-
+    why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh
   - >-
     the-complete-guide-to-interpreting-home-bp-log-patterns-spotting-masked-hypertension-white-coat-effect-and-circadian-shifts-in-adults-59-71
   - >-
-    myths-vs-facts-my-bp-is-fine-because-it-s-normal-at-the-doctor-s-office-why-that-misses-24-hour-non-dipping-patterns-in-shift-workers
+    what-causes-white-coat-normotension-when-clinic-readings-are-normal-but-ambulatory-monitoring-shows-stage-1-hypertension-in-adults-61-75
 ---
 
 # Understanding Your Ambulatory Blood Pressure Report Interpretation — What the Numbers *Really* Say After Age 65

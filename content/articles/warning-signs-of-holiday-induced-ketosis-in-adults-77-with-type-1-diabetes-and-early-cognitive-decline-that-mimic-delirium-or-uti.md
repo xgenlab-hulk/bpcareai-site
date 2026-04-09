@@ -8,6 +8,16 @@ primaryKeyword: can holiday ketosis mimic dementia in type 1 diabetes
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
+  - >-
+    when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
+  - >-
+    when-to-suspect-holiday-induced-glycemic-amnesia-in-adults-74-with-mild-cognitive-impairment-and-why-it-s-not-just-forgetfulness
+  - >-
+    5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy
+  - >-
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - >-
+    type-1-diabetes-holiday-potluck-guide
 - what-are-the-earliest-cognitive-red-flags-linked-to-hypoglycemia-associated-autonomic-failure-in-adults-70-with-20-years-of-type-1-diabetes
 - 12-science-backed-ways-to-prevent-post-holiday-delirium-episodes-in-adults-78-with-mild-dementia-and-polypharmacy
 - when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction

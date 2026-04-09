@@ -11,7 +11,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
+    top-7-heart-protective-vitamins-to-take-in-winter
+  - >-
+    the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
+  - >-
+    natural-ways-to-lower-blood-pressure-this-winter-without-medication
+  - >-
+    what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
+  - >-
+    the-role-of-potassium-in-managing-blood-pressure-after-50
   - the-link-between-winter-depression-and-high-blood-pressure-in-older-adults
   - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
   - winter-vs-summer-blood-pressure-what-seniors-need-to-know

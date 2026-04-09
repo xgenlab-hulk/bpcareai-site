@@ -8,6 +8,16 @@ primaryKeyword: 'why do I have heart palpitations at night after 55'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    what-causes-recurrent-nighttime-palpitations-with-normal-ecgs-in-women-52-68-during-perimenopause-and-when-it-signals-early-atrial-fibrosis
+  - >-
+    should-you-worry-about-heart-palpitations-when-lying-down
+  - >-
+    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
+  - >-
+    what-causes-nocturnal-hypertension-in-women-52-65-with-perimenopausal-hot-flashes-and-elevated-nighttime-norepinephrine
+  - >-
+    how-untreated-obstructive-sleep-apnea-worsens-resistant-hypertension-in-women-58-71-with-perimenopausal-insulin-resistance
   - should-you-worry-about-heart-palpitations-when-lying-down
   - >-
     7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62

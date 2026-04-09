@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     5-things-everyone-over-73-should-know-about-holiday-nut-mixes-and-when-to-avoid-them-entirely
   - >-
-    natural-ways-to-support-digestive-enzyme-production-after-age-60-especially-during-heavy-holiday-meals
-  - >-
     natural-ways-to-support-pancreatic-enzyme-output-during-large-holiday-meals-without-ppis-or-supplements-backed-by-4-rcts-in-adults-60-78
+  - >-
+    what-are-the-silent-signs-your-holiday-nuts-are-causing-subclinical-oxidative-stress-in-adults-75-with-mild-ckd-stage-2
   - >-
     pancreatic-acinar-support-for-diabetics
   - >-
-    why-your-light-holiday-appetizer-plate-may-be-raising-triglycerides-more-than-dessert-the-hidden-fat-oxidation-block-in-adults-58-69
+    pancreatic-acinar-repair-foods-type-2-diabetes
 ---
 
 # Why Holiday Nut Mixes Chronic Pancreatitis Seniors Need Thoughtful Preparation During the Festive Season

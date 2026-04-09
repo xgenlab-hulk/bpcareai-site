@@ -8,6 +8,16 @@ primaryKeyword: 'safe light therapy with macular degeneration over 65'
 topicCluster: natural-remedies
 image: ''
 relatedSlugs:
+  - >-
+    top-5-light-therapy-lamps-recommended-by-geriatric-therapists-for-seniors
+  - >-
+    can-bright-light-therapy-be-safely-used-with-age-related-macular-degeneration-a-risk-benefit-framework-for-adults-75
+  - >-
+    simple-steps-to-rebuild-morning-light-exposure-habits-after-cataract-surgery-especially-for-adults-over-68-with-prior-seasonal-mood-swings
+  - >-
+    natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
+  - >-
+    sunlight-exposure-and-circadian-blood-pressure
   - top-5-light-therapy-lamps-recommended-by-geriatric-therapists-for-seniors
   - >-
     simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension

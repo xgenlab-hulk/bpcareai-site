@@ -11,7 +11,13 @@ relatedSlugs:
   - >-
     the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations
   - >-
-    diabetes-management-dementia-caregiver
+    the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
+  - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
+  - >-
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - >-
+    the-link-between-loneliness-during-holidays-and-poor-diabetes-control
 
   - the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
 ---

@@ -9,7 +9,15 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
-    resonant-breathing-diastolic-pressure-reduction
+    nasal-breathing-baroreflex-diabetes
+  - >-
+    the-truth-about-normal-bp-variability-why-24-hour-sd-15-mmhg-predicts-microinfarct-burden-in-adults-69-with-white-matter-hyperintensities
+  - >-
+    best-breathing-patterns-for-immediate-bp-reduction-in-adults-60-with-high-lf-hf-ratio-on-hrv-and-morning-anxiety
+  - >-
+    social-dancing-glycemic-variability-orthostatic-hypotension
+  - >-
+    ambulatory-blood-pressure-variability-interpretation
 
   - >-
     social-dancing-glycemic-variability-orthostatic-hypotension

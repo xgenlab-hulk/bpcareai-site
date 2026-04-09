@@ -9,15 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    does-daily-20-minute-resistance-band-training-lower-hba1c-in-sedentary-adults-63-77-with-type-2-diabetes-without-weight-loss
+    testosterone-deficiency-muscle-glucose-uptake-men
   - >-
-    insulin-sensitivity-without-exercise-elderly
-  - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak
-  - >-
-    resistance-band-training-fasting-glucose-elderly
+    5-things-every-man-over-65-taking-testosterone-replacement-should-know-about-its-effect-on-insulin-receptor-tyrosine-kinase-activity-and-glucose-uptake-efficiency
   - >-
     testosterone-therapy-hepatic-glucose-production-seniors
+  - >-
+    natural-ways-to-improve-glucose-uptake-in-skeletal-muscle-without-exercise-for-adults-79-with-severe-osteoarthritis-bedrest-or-post-hip-replacement
+  - >-
+    foods-muscle-glucose-uptake-seniors-61
 ---
 
 # Low Testosterone + Diabetes Making Muscle Weak? 5 Strategies to Boost Glucose Uptake in Men 68+

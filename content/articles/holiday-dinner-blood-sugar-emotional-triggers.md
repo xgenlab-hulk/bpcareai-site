@@ -10,6 +10,16 @@ primaryKeyword: holiday dinner stress and blood sugar spikes
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    intergenerational-dining-stress-cortisol-glucose
+  - >-
+    the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - >-
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
+  - >-
+    what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners
+  - >-
+    how-family-gatherings-affect-blood-sugar-in-men-over-60-with-diabetes
 
   - >-
     how-emotional-eating-patterns-shift-during-multigenerational-gatherings-and-why-that-matters-for-adults-with-long-standing-type-2-diabetes

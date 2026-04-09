@@ -10,6 +10,14 @@ image: ''
 relatedSlugs:
   - >-
     a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome
+  - >-
+    a-vs-b-warm-spiced-apple-cider-with-cinnamon-stick-vs-mulled-wine-impact-on-evening-endothelial-function-in-adults-59-71-with-metabolic-syndrome
+  - >-
+    mulled-wine-vs-sparkling-cider-arrhythmia
+  - >-
+    non-alcoholic-drinks-holiday-heart-syndrome
+  - >-
+    non-alcoholic-wine-diabetes-macular-degeneration
   - the-truth-about-alcohol-and-blood-sugar-during-holiday-parties
   - >-
     are-sugar-free-treats-actually-safe-for-diabetics-over-65

@@ -10,6 +10,16 @@ primaryKeyword: senior center activities prevent winter depression
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:
+  - >-
+    best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70
+  - >-
+    10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore
+  - >-
+    can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
+  - >-
+    when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
+  - >-
+    quick-ways-to-lift-a-senior-s-mood-during-a-winter-blue-day
   - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70
   - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
   - >-

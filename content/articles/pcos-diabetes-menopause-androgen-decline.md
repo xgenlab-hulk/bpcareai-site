@@ -8,6 +8,16 @@ primaryKeyword: PCOS diabetes and menopause hormone changes after 60
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    natural-ways-to-support-post-meal-insulin-sensitivity-without-supplements-for-adults-53-67-with-early-stage-pcos-and-holiday-weight-gain
+  - >-
+    how-menopause-affects-blood-sugar-control-in-women-with-diabetes
+  - >-
+    blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short
+  - >-
+    7-hidden-sources-of-insulin-resistance-in-women-58-72-with-pcos-history-and-recent-weight-gain
+  - >-
+    when-to-worry-about-unexplained-weight-gain-in-women-over-55-with-type-2-diabetes-even-with-stable-calorie-intake-and-no-new-medications
   - how-menopause-affects-blood-sugar-control-in-women-with-diabetes
   - >-
     blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short

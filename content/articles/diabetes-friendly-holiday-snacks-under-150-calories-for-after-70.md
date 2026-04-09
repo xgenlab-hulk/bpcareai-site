@@ -8,6 +8,16 @@ primaryKeyword: 'diabetes friendly holiday snacks under 150 calories seniors'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    top-10-diabetes-friendly-snacks-for-people-over-60
+  - >-
+    best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
+  - >-
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
+  - >-
+    can-eggnog-and-desserts-be-part-of-a-diabetic-holiday-diet-after-60
+  - >-
+    simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
   - best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
   - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
   - top-10-diabetes-friendly-snacks-for-people-over-60

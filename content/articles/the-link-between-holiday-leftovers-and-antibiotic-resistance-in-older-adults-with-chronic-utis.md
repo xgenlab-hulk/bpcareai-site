@@ -10,6 +10,16 @@ primaryKeyword: do holiday leftovers worsen UTI resistance in seniors
 topicCluster: special-populations
 image: ''
 relatedSlugs:
+  - >-
+    5-things-everyone-over-76-should-know-about-holiday-leftovers-including-safe-reheating-temperatures-for-frail-immune-systems
+  - >-
+    what-research-says-about-leftover-turkey-consumption-and-uric-acid-spikes-in-men-over-68-with-asymptomatic-hyperuricemia
+  - >-
+    does-cranberry-sauce-really-help-uti-prevention-in-women-over-65-separating-proanthocyanidin-efficacy-from-sugar-driven-biofilm-risk
+  - >-
+    warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-detected-via-morning-stool-ph-and-bloating-pattern-shifts-in-adults-71
+  - >-
+    can-you-safely-eat-leftover-turkey-salad-on-day-3-if-you-re-on-metformin-and-have-egfr-62-a-food-safety-renal-glucose-guide
   - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
   - easy-make-ahead-freezer-meals-to-reduce-holiday-cooking-stress-for-seniors
   - the-truth-about-healthy-store-bought-holiday-meals-for-older-adults

@@ -10,6 +10,16 @@ primaryKeyword: how to adjust portions with muscle loss after 65
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
+  - >-
+    how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
+  - >-
+    portion-control-strategies-for-large-family-meals-that-work
+  - >-
+    how-intergenerational-recipe-sharing-affects-nutrient-density-in-holiday-meals-for-adults-54-65-with-early-sarcopenia-and-low-protein-intake
+  - >-
+    nutrient-dense-foods-low-appetite-seniors
+  - >-
+    preserve-muscle-mass-holiday-meals
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
   - portion-control-strategies-for-large-family-meals-that-work
   - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60

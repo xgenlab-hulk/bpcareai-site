@@ -9,13 +9,15 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
+    what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
+  - >-
+    7-holiday-foods-that-trigger-silent-gastric-reflux-in-adults-65-even-without-heartburn
+  - >-
     12-science-backed-ways-to-reduce-post-family-meal-gastric-reflux-within-20-minutes-for-adults-59-with-silent-gerd-and-mild-hiatal-hernia
   - >-
-    how-holiday-stress-slows-gastric-emptying-in-adults-72-with-mild-gastroparesis-and-what-to-eat-instead
+    7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68
   - >-
     can-you-enjoy-holiday-pie-without-triggering-acid-reflux-at-night-a-3-step-timing-texture-strategy-for-adults-65-with-gerd
-  - >-
-    7-often-overlooked-signs-your-holiday-meal-is-triggering-silent-reflux-especially-if-you-re-65-and-take-calcium-channel-blockers
   - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
 ---
 

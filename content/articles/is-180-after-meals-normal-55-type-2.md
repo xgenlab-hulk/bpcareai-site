@@ -12,15 +12,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    myths-vs-facts-normal-postprandial-glucose-in-adults-75-why-140-mg-dl-after-meals-predicts-3-2x-higher-dementia-risk-even-with-perfect-a1c
-  - >-
     can-walking-after-meals-lower-blood-sugar-in-older-adults
   - >-
     fasting-glucose-myth-postprandial-risk
   - >-
-    how-type-2-diabetes-increases-heart-disease-risk-after-50
-  - >-
     7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
+  - >-
+    normalize-postprandial-glucose-within-45-minutes
+  - >-
+    myths-vs-facts-normal-postprandial-glucose-in-adults-75-why-140-mg-dl-after-meals-predicts-3-2x-higher-dementia-risk-even-with-perfect-a1c
 ---
 
 # Is 180 After Meals Normal for Someone 55 With Type 2?

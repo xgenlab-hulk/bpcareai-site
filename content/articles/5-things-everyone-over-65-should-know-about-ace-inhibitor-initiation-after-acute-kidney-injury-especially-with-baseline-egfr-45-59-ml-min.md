@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76
   - >-
-    infrared-pad-ace-inhibitor-safety
+    the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors
   - >-
-    sauna-use-with-ace-inhibitors-seniors
+    infrared-pad-ace-inhibitor-safety
   - >-
     what-causes-sudden-drop-in-egfr-after-starting-sglt2-inhibitors-in-adults-69-with-borderline-hydration-status-and-low-albumin
   - >-
-    the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors
+    5-things-everyone-over-65-should-know-about-blood-pressure-medication-tapering-especially-if-you-re-on-dual-ras-blockade-and-have-declining-egfr
 ---
 
 # Can You Safely Restart ACE Inhibitors After Acute Kidney Injury With eGFR 45-59? (Timing + Monitoring Guide)

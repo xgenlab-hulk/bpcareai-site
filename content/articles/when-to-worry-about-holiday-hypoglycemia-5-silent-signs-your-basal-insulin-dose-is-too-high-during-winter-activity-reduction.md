@@ -9,7 +9,15 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
+    when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
+  - >-
+    warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know
+  - >-
     why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
+  - >-
+    when-to-worry-about-sudden-drowsiness-after-christmas-dinner-linking-postprandial-hypoglycemia-autonomic-blunting-and-late-night-falls-in-adults-75
+  - >-
+    what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
   - warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know
   - >-

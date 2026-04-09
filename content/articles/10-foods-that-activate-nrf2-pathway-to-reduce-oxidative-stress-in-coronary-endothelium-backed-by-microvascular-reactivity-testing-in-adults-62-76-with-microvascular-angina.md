@@ -9,7 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    sirt1-activating-foods-endothelial-dysfunction-flow-mediated-dilation
+    boost-nitric-oxide-naturally-seniors
+  - >-
+    foods-lower-blood-pressure-naturally-53-68
+  - >-
+    arterial-stiffness-foods-seniors-bp
+  - >-
+    endothelial-nitric-oxide-synthase-recoupling
+  - >-
+    endothelial-support-without-nitrates-seniors
 
   - >-
     boost-nitric-oxide-naturally-seniors

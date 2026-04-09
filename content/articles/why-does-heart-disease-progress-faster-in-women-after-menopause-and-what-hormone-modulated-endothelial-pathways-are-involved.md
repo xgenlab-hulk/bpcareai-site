@@ -13,7 +13,13 @@ relatedSlugs:
   - >-
     why-heart-disease-risk-skyrockets-in-women-58-67-within-3-years-after-menopause-even-with-normal-cholesterol
   - >-
-    women-holiday-heart-syndrome-menopause
+    how-menopause-affects-heart-disease-risk-in-women
+  - >-
+    why-women-s-heart-attack-symptoms-differ-after-menopause
+  - >-
+    heart-disease-symptoms-in-women-over-50-what-s-often-missed
+  - >-
+    why-older-women-are-more-vulnerable-to-winter-heart-events
   - how-menopause-affects-heart-disease-risk-in-women
   - >-
     aromatase-inhibitors-heart-microvascular-dysfunction

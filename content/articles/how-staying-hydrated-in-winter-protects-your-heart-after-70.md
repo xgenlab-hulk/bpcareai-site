@@ -10,6 +10,16 @@ primaryKeyword: winter dehydration and heart health after 70
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:
+  - >-
+    winter-hydration-blood-pressure-stability-elderly
+  - >-
+    simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
+  - >-
+    how-dehydration-affects-heart-function-in-older-adults
+  - >-
+    why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - >-
+    warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
   - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
   - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
   - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties

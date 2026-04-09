@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension
   - >-
-    how-intermittent-fasting-16-8-affects-nocturnal-sympathetic-tone-in-adults-57-69-with-hypertension-and-sleep-disordered-breathing
-  - >-
     can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show
   - >-
-    intermittent-fasting-diastolic-dysfunction-hr
+    how-intermittent-fasting-16-8-affects-nocturnal-sympathetic-tone-in-adults-57-69-with-hypertension-and-sleep-disordered-breathing
   - >-
-    restore-blood-pressure-variability-diabetes-sdnn
+    intermittent-fasting-and-adrenal-blood-pressure
+  - >-
+    natural-ways-to-lower-bp-without-medication-using-time-restricted-eating-validated-in-217-adults-with-metabolic-syndrome-and-night-eating-patterns
 ---
 
 # How Intermittent Fasting Blood Pressure Variability in Adults 55–67 Is Shaped by Daily Eating Windows—What the Latest Research Shows

@@ -8,6 +8,16 @@ primaryKeyword: foods lower triglycerides glucose seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    reduce-postprandial-triglycerides-quickly-seniors
+  - >-
+    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
+  - >-
+    glucose-variability-foods-ldl-safe-66
+  - >-
+    pre-kitchen-glycemic-anchoring-insulin-resistance
+  - >-
+    foods-lower-blood-sugar-without-pills
   - the-ultimate-guide-to-pre-loading-your-plate-before-a-family-feast-a-3-step-strategy-for-adults-with-metabolic-syndrome
   - 12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
   - quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy

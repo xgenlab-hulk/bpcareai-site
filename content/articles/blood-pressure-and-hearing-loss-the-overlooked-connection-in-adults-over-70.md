@@ -8,6 +8,16 @@ primaryKeyword: 'can high blood pressure cause hearing loss in the elderly'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    what-research-says-about-hearing-loss-as-an-early-biomarker-of-vascular-aging-in-men-over-75
+  - >-
+    the-link-between-hearing-loss-and-heart-disease-after-60
+  - >-
+    how-hearing-aid-use-correlates-with-3-year-systolic-bp-trajectory-in-adults-74-86-with-bilateral-sensorineural-hearing-loss
+  - >-
+    the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70
+  - >-
+    7-hidden-ways-your-hearing-aid-s-bluetooth-streaming-affects-baroreceptor-sensitivity-especially-during-morning-blood-pressure-spikes-in-adults-73
   - blood-pressure-and-kidney-health-what-seniors-need-to-know
   - the-link-between-hearing-loss-and-heart-disease-after-60
   - can-hearing-loss-be-an-early-sign-of-heart-disease

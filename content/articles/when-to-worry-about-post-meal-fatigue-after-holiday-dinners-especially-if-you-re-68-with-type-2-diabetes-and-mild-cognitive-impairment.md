@@ -9,7 +9,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    fasting-glucose-myth-postprandial-risk
+    post-dinner-brain-fog-diabetes-65
+  - >-
+    7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
+  - >-
+    fatigue-after-meals-diabetes-elderly
+  - >-
+    when-to-worry-about-just-tired-after-christmas-dinner-especially-if-you-re-69-with-type-2-diabetes-and-untreated-sleep-apnea
+  - >-
+    why-your-holiday-energy-crash-may-be-postprandial-hypoglycemia-not-just-fatigue-in-adults-50-59-with-reactive-hypoglycemia-history
   - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
   - >-
     when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else

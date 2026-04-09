@@ -9,15 +9,15 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
-    date-paste-desserts-glycemic-load-nafld-seniors
-  - >-
     5-things-your-dietitian-isn-t-telling-you-about-low-sugar-holiday-beverages-and-why-they-may-still-worsen-fatty-liver-in-men-over-60
   - >-
+    date-paste-desserts-glycemic-load-nafld-seniors
+  - >-
+    the-truth-about-sugar-free-holiday-desserts-for-men-70-with-fructose-malabsorption-and-early-nafld
+  - >-
+    myths-vs-facts-just-one-slice-of-pumpkin-pie-and-its-effect-on-late-night-melatonin-suppression-in-adults-66-with-sleep-onset-insomnia
+  - >-
     the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
-  - >-
-    one-slice-pie-triglycerides-seniors-myth
-  - >-
-    low-sugar-ketchup-blood-sugar-spike-gastroparesis
 ---
 
 # What “Low-Sugar” Pumpkin Pie Fillings *Really* Do to Your Liver — Especially If You’re 70+ and Managing NAFLD

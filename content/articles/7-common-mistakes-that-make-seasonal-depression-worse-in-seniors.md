@@ -8,6 +8,16 @@ primaryKeyword: 'mistakes that make winter depression worse in seniors'
 topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:
+  - >-
+    when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
+  - >-
+    10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore
+  - >-
+    natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
+  - >-
+    can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
+  - >-
+    7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
   - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
   - why-older-men-often-hide-their-seasonal-depression-symptoms
   - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults

@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     collard-greens-heart-failure-diuretics-comparison
   - >-
-    collard-greens-vs-creamed-spinach-kidney-disease
+    bone-broth-vs-canned-soup-endothelial-function
   - >-
     salad-dressing-sodium-endothelial-stiffness
   - >-
-    what-research-says-about-ultra-processed-side-dishes-and-endothelial-function-decline-in-adults-55-70-with-prediabetes
+    enos-foods-mthfr-polymorphism-hypertension
   - >-
-    a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension
+    instant-oatmeal-endothelial-function-seniors
 ---
 
 # Collard Greens Endothelial Function Comparison: Traditional Ham Hock vs. Low-Sodium Sautéed — What Matters Most for Heart Health After 60

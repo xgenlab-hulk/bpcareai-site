@@ -11,9 +11,15 @@ topicCluster: autonomic-nervous-regulation
 image: ''
 relatedSlugs:
   - >-
-    cold-exposure-and-paroxysmal-afib-in-elderly
+    is-holiday-heart-syndrome-reversible-what-science-says
   - >-
-    does-holiday-weight-gain-in-adults-with-obesity-class-ii-predict-90-day-atrial-fibrillation-recurrence-a-2024-retrospective-analysis
+    how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
+  - >-
+    7-hidden-electrolyte-shifts-that-happen-during-holiday-cooking-and-how-they-trigger-atrial-fibrillation-in-adults-60-with-mild-hypokalemia
+  - >-
+    quick-atrial-electrophysiology-normalization
+  - >-
+    how-alcohol-timing-affects-atrial-fibrillation-risk-during-holiday-gatherings-in-adults-55-68-with-occult-af-and-high-functioning-lifestyle
   - top-6-stress-reduction-techniques-to-protect-your-heart-this-holiday
   - can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes
   - quick-ways-to-calm-a-racing-heart-during-a-holiday-event

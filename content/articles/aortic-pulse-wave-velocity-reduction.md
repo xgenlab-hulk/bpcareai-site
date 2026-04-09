@@ -9,11 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
-  - >-
     natural-ways-to-support-arterial-stiffness-reduction-in-8-12-weeks-using-targeted-flavonoid-timing-and-pulse-wave-velocity-feedback-in-adults-64-80
   - >-
-    simple-steps-to-lower-central-aortic-pressure-in-just-7-days-using-only-a-kitchen-scale-a-stopwatch-and-your-morning-tea-ritual
+    pulse-wave-velocity-after-shower-seniors
+  - >-
+    hvac-vibration-aortic-stiffness-testing
+  - >-
+    arterial-stiffness-foods-seniors-bp
+  - >-
+    the-complete-guide-to-interpreting-pulse-pressure-widening-in-adults-76-with-aortic-valve-sclerosis-not-just-aortic-stenosis
 
   - >-
     foods-stabilize-pulse-pressure-seniors-orthostasis

@@ -10,6 +10,16 @@ primaryKeyword: walking in cold weather with heart disease safety
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:
+  - >-
+    walk-cold-weather-after-70
+  - >-
+    10-winter-safe-exercises-for-heart-health-after-65
+  - >-
+    why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - >-
+    how-chronic-lung-conditions-amplify-heart-risks-in-winter
+  - >-
+    how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
   - 10-winter-safe-exercises-for-heart-health-after-65
   - why-winter-increases-heart-attack-risk-in-seniors-over-70
   - can-shoveling-snow-trigger-a-heart-event-in-older-adults

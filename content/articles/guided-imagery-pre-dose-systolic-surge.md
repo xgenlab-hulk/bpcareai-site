@@ -11,7 +11,15 @@ topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
   - >-
+    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
+  - >-
     does-daily-15-minute-guided-imagery-lower-24-hour-mean-arterial-pressure-in-adults-69-83-with-treatment-resistant-hypertension
+  - >-
+    best-breathing-exercises-for-reducing-morning-blood-pressure-spikes-in-adults-57-62-with-mild-obstructive-sleep-apnea-and-high-morning-cortisol
+  - >-
+    quick-ways-to-lower-systolic-pressure-within-90-minutes-using-guided-cold-face-immersion-isometric-handgrip-in-adults-60-66-with-acute-morning-surges
+  - >-
+    morning-hygiene-blood-pressure-variability
 
   - >-
     guided-imagery-left-atrial-volume-afib-hypertension

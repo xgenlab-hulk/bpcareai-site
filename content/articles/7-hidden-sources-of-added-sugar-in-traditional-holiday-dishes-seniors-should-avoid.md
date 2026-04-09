@@ -8,6 +8,16 @@ primaryKeyword: 'traditional holiday dishes hiding added sugar in seniors'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish
+  - >-
+    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - >-
+    7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control
+  - >-
+    the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
+  - >-
+    7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-adults-72-with-isolated-systolic-hypertension-and-what-to-serve-instead
   - 7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid

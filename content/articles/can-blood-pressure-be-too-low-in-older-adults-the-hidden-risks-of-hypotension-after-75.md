@@ -8,6 +8,16 @@ primaryKeyword: 'dangers of low blood pressure in elderly over 75'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    is-low-blood-pressure-dangerous-for-seniors
+  - >-
+    how-standing-up-too-fast-affects-blood-pressure-in-older-adults
+  - >-
+    when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension
+  - >-
+    when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension
+  - >-
+    the-truth-about-normal-blood-pressure-ranges-after-75-why-130-80-may-be-too-low-for-frail-elders-with-cerebral-hypoperfusion-risk
   - is-low-blood-pressure-dangerous-for-seniors
   - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
   - blood-pressure-management-for-sedentary-seniors-in-winter-months

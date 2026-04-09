@@ -8,6 +8,16 @@ primaryKeyword: 'soft high-fiber low-sodium sides for diabetic seniors'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    best-6-low-sodium-high-fiber-side-dishes-that-hold-up-under-3-hour-buffet-conditions-for-adults-76-with-hypertension-and-constipation
+  - >-
+    holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
+  - >-
+    best-low-sodium-swaps-for-classic-holiday-side-dishes-ranked-by-palatability-potassium-retention-and-ease-of-prep-for-caregivers-over-60
+  - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
+  - >-
+    best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat
   - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
   - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
   - low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar

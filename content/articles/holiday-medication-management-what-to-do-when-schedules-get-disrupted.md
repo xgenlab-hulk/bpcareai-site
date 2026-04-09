@@ -10,6 +10,16 @@ primaryKeyword: managing diabetes medications during holidays
 topicCluster: medication-safety
 image: ''
 relatedSlugs:
+  - >-
+    should-you-adjust-your-diabetes-medication-during-the-holidays
+  - >-
+    warning-signs-your-holiday-medication-routine-is-failing-even-if-your-a1c-looks-fine
+  - >-
+    is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
+  - >-
+    the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
+  - >-
+    how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
   - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
   - should-you-adjust-your-diabetes-medication-during-the-holidays
   - best-blood-sugar-monitoring-practices-during-the-holiday-season

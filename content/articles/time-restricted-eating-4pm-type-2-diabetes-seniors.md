@@ -11,11 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
+    mitochondrial-biogenesis-diastolic-dysfunction
+  - >-
+    natural-ways-to-lower-bp-without-medication-using-time-restricted-eating-validated-in-217-adults-with-metabolic-syndrome-and-night-eating-patterns
+  - >-
+    mitochondrial-biogenesis-heart-failure-trf
   - >-
     what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history
   - >-
-    mitochondrial-biogenesis-heart-failure-trf
+    mitochondrial-heart-health-meal-timing-seniors
 
   - >-
     mitochondrial-biogenesis-diastolic-dysfunction

@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     maple-glazed-sweet-potatoes-vs-candied-yams-blood-sugar
   - >-
+    a-vs-b-roasted-sweet-potatoes-vs-mashed-cauliflower-for-postprandial-glucose-stability-in-adults-63-with-prediabetes-and-mild-dysphagia
+  - >-
     sweet-potatoes-roasted-vs-slow-cooked-endothelial-function
   - >-
-    12-science-backed-ways-to-buffer-the-glycemic-impact-of-holiday-pie-crust-in-adults-64-with-prediabetes-and-high-fasting-insulin
+    7-holiday-foods-that-spike-postprandial-glucose-without-tasting-sweet-especially-for-adults-63-with-long-standing-type-2-diabetes
   - >-
-    a-vs-b-traditional-sweet-potato-casserole-vs-roasted-sweet-potato-medley-for-adults-with-peripheral-neuropathy-and-early-nerve-pain
-  - >-
-    how-intergenerational-cookie-baking-affects-postprandial-glucose-variability-in-adults-52-64-with-prediabetes-and-slow-gastric-emptying
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
 ---
 
 # Sweet Potatoes Glucose Variability in Seniors: How Cooking Method and Added Sugar Affect Blood Sugar After Meals

@@ -9,15 +9,15 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
+    holiday-metformin-skipping-risks
+  - >-
+    is-metformin-still-safe-for-diabetics-over-70
+  - >-
+    when-to-worry-about-sudden-post-dinner-confusion-in-adults-73-with-undiagnosed-b12-deficiency-and-high-fat-holiday-meals
+  - >-
+    can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
+  - >-
     ppi-use-vitamin-b12-neuropathy-diabetes
-  - >-
-    metformin-mitochondrial-dna-copy-number
-  - >-
-    warning-signs-your-well-controlled-diabetes-is-accelerating-cognitive-decline-even-with-a1c-7-0-in-adults-62-78
-  - >-
-    warning-signs-your-stable-diabetes-is-masking-early-cognitive-decline-especially-if-you-re-a-man-over-69-with-hba1c-6-8-7-4
-  - >-
-    what-research-says-about-intermittent-fasting-during-multigenerational-holidays-for-adults-58-74-with-mild-cognitive-impairment
 ---
 
 # Understanding Metformin, B12 Deficiency, and Cognitive Changes in Older Adults

@@ -10,6 +10,16 @@ primaryKeyword: fiber benefits for heart health after 60
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    30g-fiber-safe-after-65
+  - >-
+    the-role-of-fiber-in-controlling-blood-sugar-after-50
+  - >-
+    best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat
+  - >-
+    the-ultimate-guide-to-stealth-fiber-additions-for-holiday-mashed-potatoes-stuffing-and-gravy-without-changing-taste-or-texture
+  - >-
+    cholesterol-lowering-soups-seniors
   - the-role-of-fiber-in-controlling-blood-sugar-after-50
   - how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors
   - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50

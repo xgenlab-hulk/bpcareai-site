@@ -12,15 +12,15 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
-    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
-  - >-
     how-stress-affects-blood-sugar-in-people-with-diabetes-over-50
   - >-
-    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+    what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp
   - >-
-    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+    what-causes-sudden-post-exercise-hyperglycemia-in-adults-55-67-with-newly-diagnosed-type-2-diabetes-and-elevated-cortisol-awakening-response
   - >-
-    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+    how-holiday-family-conflict-elevates-cortisol-driven-hepatic-glucose-output-especially-in-women-57-65-with-perimenopausal-insulin-resistance
+  - >-
+    the-complete-guide-to-holiday-eating-for-adults-58-63-with-new-onset-prediabetes-and-high-functioning-careers
 ---
 
 # Can Stress at Work Cause Blood Sugar Spikes After 35? What Every Adult Needs to Know  

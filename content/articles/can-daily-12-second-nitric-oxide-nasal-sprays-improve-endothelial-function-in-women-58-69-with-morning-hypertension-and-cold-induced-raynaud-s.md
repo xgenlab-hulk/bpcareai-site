@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension
+    nasal-rinse-breath-hold-for-endothelial-function
   - >-
     boost-nitric-oxide-naturally-seniors
   - >-
     how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
   - >-
-    microvascular-coronary-reactivity-natural
+    natural-ways-to-improve-endothelial-nitric-oxide-synthase-enos-activity-at-night-for-women-63-with-non-dipping-bp-and-shift-work-history
   - >-
-    microvascular-coronary-reactivity-natural
+    endothelial-nitric-oxide-synthase-recoupling
 ---
 
 # Can a Nitric Oxide Nasal Spray for Morning Hypertension Support Microvascular Health in Women 58–69?

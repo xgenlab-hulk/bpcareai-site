@@ -10,6 +10,16 @@ primaryKeyword: why does cold weather raise blood sugar in diabetics
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
+  - >-
+    why-your-blood-sugar-might-be-higher-in-december-even-with-good-habits
+  - >-
+    12-science-backed-ways-to-reduce-glucose-variability-during-winter-months-for-adults-60-with-seasonal-affective-disorder-and-type-2-diabetes
+  - >-
+    the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79
+  - >-
+    5-things-everyone-over-60-should-know-about-insulin-titration-during-winter-when-basal-needs-shift-due-to-reduced-cutaneous-blood-flow
   - how-menopause-affects-blood-sugar-control-in-women-with-diabetes
   - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
   - can-cold-weather-raise-your-blood-pressure

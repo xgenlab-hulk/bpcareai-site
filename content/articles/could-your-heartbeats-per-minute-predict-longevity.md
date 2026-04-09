@@ -8,6 +8,16 @@ primaryKeyword: 'resting heart rate longevity prediction adults'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    12-science-backed-times-to-check-your-resting-heart-rate-not-just-during-clinic-visits-in-adults-58-with-anxiety-related-palpitations
+  - >-
+    how-strength-training-protects-your-heart-as-you-age
+  - >-
+    why-does-heart-rate-variability-decline-after-65-and-what-simple-breathing-protocols-can-restore-it-without-medication
+  - >-
+    should-you-worry-about-heart-palpitations-when-lying-down
+  - >-
+    can-sleep-duration-predict-heart-disease-risk-after-55
   - is-sitting-too-much-harming-your-heart-after-60
   - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
   - how-sleep-affects-heart-health-after-50

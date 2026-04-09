@@ -8,6 +8,16 @@ primaryKeyword: 'reset blood sugar after holiday overeating with fasting'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    5-easy-morning-routines-to-stabilize-blood-sugar-after-a-holiday-feast
+  - >-
+    5-science-backed-ways-to-reduce-holiday-related-insulin-resistance
+  - >-
+    christmas-vs-new-year-s-which-holiday-is-harder-on-blood-sugar
+  - >-
+    why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
+  - >-
+    the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
   - can-intermittent-fasting-help-balance-holiday-eating-for-active-retirees
   - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes

@@ -9,15 +9,15 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
+    cgm-edema-heart-failure-diuretics
+  - >-
+    cgm-flat-line-myth-elderly
+  - >-
+    5-things-you-should-know-before-starting-a-continuous-glucose-monitor-cgm-if-you-re-67-with-low-vision-tremor-or-dexterity-loss
+  - >-
     5-things-everyone-over-75-should-know-about-using-continuous-glucose-monitors-with-pacemakers-or-icds
   - >-
-    the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79
-  - >-
-    a-vs-b-continuous-glucose-monitoring-cgm-vs-flash-glucose-monitoring-for-detecting-nocturnal-hypoglycemia-in-adults-with-autonomic-neuropathy
-  - >-
-    cgm-interpretation-early-dementia-diabetes
-  - >-
-    can-you-safely-use-a-continuous-glucose-monitor-while-wearing-holiday-sweaters-with-metallic-threads-or-magnetic-closures
+    cgms-vs-flash-glucose-monitoring-seniors-hypoglycemia
 ---
 
 # Can You Use a CGM With Severe Leg Swelling or After Surgery? What Seniors Over 70 Need to Know

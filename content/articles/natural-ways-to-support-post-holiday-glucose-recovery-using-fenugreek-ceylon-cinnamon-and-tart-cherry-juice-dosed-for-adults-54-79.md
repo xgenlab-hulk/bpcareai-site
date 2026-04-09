@@ -10,6 +10,16 @@ primaryKeyword: natural ways to lower blood sugar after holidays
 topicCluster: renal-health
 image: ''
 relatedSlugs:
+  - >-
+    natural-ways-to-support-blood-sugar-balance-during-holiday-stress
+  - >-
+    natural-glucose-control-holiday-seniors
+  - >-
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
+  - >-
+    5-easy-morning-routines-to-stabilize-blood-sugar-after-a-holiday-feast
+  - >-
+    best-supplements-for-blood-sugar-support-after-50
   - natural-ways-to-support-blood-sugar-balance-during-holiday-stress
   - best-supplements-for-blood-sugar-support-after-50
   - >-

@@ -11,6 +11,12 @@ relatedSlugs:
   - >-
     why-holiday-meal-timing-disrupts-blood-pressure-medication-efficacy-in-men-over-62
   - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
+  - >-
+    best-blood-pressure-meds-women-over-70
+  - >-
+    what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring
+  - >-
     5-things-everyone-over-70-should-know-about-blood-pressure-medication-timing-when-taking-levothyroxine-and-calcium-supplements
 
   - >-

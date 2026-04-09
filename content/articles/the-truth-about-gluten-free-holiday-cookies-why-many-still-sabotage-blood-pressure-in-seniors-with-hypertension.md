@@ -10,6 +10,16 @@ primaryKeyword: gluten-free cookies blood pressure seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - >-
+    gluten-free-stuffing-glycemic-impact
+  - >-
+    7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
+  - >-
+    the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
+  - >-
+    the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - >-
     the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment

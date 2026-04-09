@@ -10,6 +10,16 @@ primaryKeyword: post-meal walks for seniors to digest holiday food
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    can-walking-after-meals-lower-blood-sugar-in-older-adults
+  - >-
+    when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
+  - >-
+    post-dinner-walking-vs-breathing-glucose
+  - >-
+    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
+  - >-
+    quick-10-minute-workouts-to-lower-blood-sugar-after-christmas-dinner
   - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
   - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
   - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70

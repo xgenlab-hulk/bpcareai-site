@@ -10,6 +10,16 @@ primaryKeyword: blood sugar higher in December seasonal causes
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    12-science-backed-ways-to-reduce-glucose-variability-during-winter-months-for-adults-60-with-seasonal-affective-disorder-and-type-2-diabetes
+  - >-
+    the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
+  - >-
+    best-blood-sugar-monitoring-practices-during-the-holiday-season
+  - >-
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - >-
+    christmas-vs-new-year-s-which-holiday-is-harder-on-blood-sugar
   - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - how-cold-weather-affects-blood-sugar-in-people-with-diabetes

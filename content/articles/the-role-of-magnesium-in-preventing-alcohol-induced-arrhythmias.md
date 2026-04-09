@@ -10,6 +10,16 @@ primaryKeyword: magnesium and alcohol-induced arrhythmias
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
+  - >-
+    when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use
+  - >-
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - >-
+    is-holiday-heart-syndrome-reversible-what-science-says
+  - >-
+    hawthorn-vs-magnesium-holiday-heart
+  - >-
+    magnesium-glycinate-holiday-dessert-timing
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
   - 12-simple-ways-to-prevent-holiday-heart-syndrome-naturally

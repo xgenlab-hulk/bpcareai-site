@@ -12,15 +12,15 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
-    does-layering-clothes-help-regulate-blood-pressure-in-cold-climates
+    10-simple-home-adjustments-to-support-blood-pressure-stability-in-winter
   - >-
-    does-layering-clothes-help-regulate-blood-pressure-in-cold-climates
+    how-cold-weather-induced-vasoconstriction-alters-renal-sympathetic-nerve-activity-in-adults-70-with-hypertension-and-mild-diastolic-dysfunction
   - >-
-    does-layering-clothes-help-regulate-blood-pressure-in-cold-climates
+    natural-ways-to-lower-blood-pressure-this-winter-without-medication
+  - >-
+    how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
   - >-
     the-link-between-winter-depression-and-high-blood-pressure-in-older-adults
-  - >-
-    what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
 ---
 
 # Does Winter Stress Really Raise Your Blood Pressure? What You Need to Know—and How to Stay Protected

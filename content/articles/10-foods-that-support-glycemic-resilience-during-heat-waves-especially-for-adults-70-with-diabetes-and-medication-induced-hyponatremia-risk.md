@@ -9,7 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    5-natural-potassium-rich-foods-that-don-t-interact-with-spironolactone-safe-for-adults-60-82-with-resistant-hypertension
+    the-complete-guide-to-managing-diabetes-during-a-heatwave-for-adults-70-with-diabetic-nephropathy-and-reduced-thirst-drive
+  - >-
+    the-complete-guide-to-managing-diabetes-during-heatwaves-for-adults-72-with-diuretic-use-orthostatic-hypotension-and-reduced-thirst-sensation
+  - >-
+    5-things-everyone-over-66-should-know-about-managing-diabetes-during-a-heatwave-especially-if-on-sglt2-inhibitors
+  - >-
+    7-silent-signs-your-diabetes-medication-is-causing-subclinical-hyponatremia-especially-after-hot-tub-soaking-in-adults-72
+  - >-
+    no-sugar-added-soup-sodium-diabetes
   - 5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
   - best-fruits-for-diabetics-over-50-and-which-to-limit
   - >-

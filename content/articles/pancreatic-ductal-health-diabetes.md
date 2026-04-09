@@ -11,9 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    pancreatic-acinar-support-for-diabetics
+  - >-
     pancreatic-acinar-repair-foods-type-2-diabetes
   - >-
-    pancreatic-acinar-support-for-diabetics
+    mitochondrial-biogenesis-beta-cells-diabetes
+  - >-
+    natural-ways-to-support-pancreatic-beta-cell-resilience-without-stimulating-insulin-secretion-using-sulforaphane-timing-low-dose-lithium-in-adults-56-64-with-early-beta-cell-decline
+  - >-
+    natural-ways-to-enhance-pancreatic-beta-cell-autophagy-in-adults-57-68-with-early-stage-type-2-diabetes-without-fasting-or-supplements
 
   - >-
     beta-cell-rest-holiday-meals-natural-support

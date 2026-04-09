@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     mitochondrial-biogenesis-natural-diastolic-stiffness
   - >-
-    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
+    mitochondrial-biogenesis-heart-aging
   - >-
-    mitochondrial-biogenesis-heart-natural
+    mitochondrial-biogenesis-heart-failure-trf
   - >-
-    sirt1-activating-foods-endothelial-dysfunction-flow-mediated-dilation
+    mitochondrial-heart-health-meal-timing-seniors
 ---
 
 # 12 Science-Supported Foods for Heart Mitochondrial Health in Diastolic Dysfunction (Ages 55–63)

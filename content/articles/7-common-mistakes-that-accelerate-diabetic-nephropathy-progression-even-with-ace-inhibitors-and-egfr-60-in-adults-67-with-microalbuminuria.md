@@ -8,6 +8,16 @@ primaryKeyword: 'kidney getting worse on ACE inhibitors with diabetes'
 topicCluster: medication-safety
 image: ''
 relatedSlugs:
+  - >-
+    how-kidney-function-declines-faster-in-older-adults-with-diabetes
+  - >-
+    nsaids-and-kidney-injury-diabetes
+  - >-
+    mean-arterial-pressure-microalbuminuria-elderly
+  - >-
+    7-common-mistakes-that-accelerate-cognitive-decline-in-adults-63-with-type-2-diabetes-and-mild-white-matter-hyperintensities
+  - >-
+    what-causes-morning-blood-pressure-spikes-in-adults-62-with-chronic-kidney-disease-and-nocturnal-polyuria
 - 7-common-mistakes-that-accelerate-cognitive-decline-in-adults-63-with-type-2-diabetes-and-mild-white-matter-hyperintensities
 - what-causes-morning-blood-pressure-spikes-in-adults-62-with-chronic-kidney-disease-and-nocturnal-polyuria
 - how-intermittent-use-of-over-the-counter-nsaids-for-back-pain-disrupts-renal-prostaglandin-balance-and-why-that-raises-risk-of-acute-kidney-injury-in-adults-62-with-stage-2-diabetic-nephropathy

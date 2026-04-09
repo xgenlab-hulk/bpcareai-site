@@ -10,6 +10,16 @@ primaryKeyword: potassium for blood pressure after 50
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
+  - >-
+    top-5-winter-superfoods-that-naturally-lower-blood-pressure
+  - >-
+    blood-pressure-and-kidney-health-what-seniors-need-to-know
+  - >-
+    foods-raise-bp-hidden-causes-seniors
+  - >-
+    can-drinking-more-water-help-lower-blood-pressure-naturally
   - hidden-salt-10-surprising-foods-that-spike-blood-pressure
   - does-caffeine-raise-blood-pressure-after-age-60
   - blood-pressure-changes-during-menopause-what-women-should-know

@@ -11,15 +11,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    frozen-dinners-and-blood-pressure-seniors
+    the-truth-about-heart-healthy-frozen-dinners-labeled-for-seniors-why-81-exceed-2023-aha-sodium-limits-for-left-ventricular-hypertrophy
+  - >-
+    senior-labeled-canned-soup-sodium-trap
   - >-
     the-truth-about-low-sodium-canned-soups-labeled-for-seniors-why-63-still-exceed-ada-daily-sodium-limits-for-stage-1-hypertension
   - >-
-    the-truth-about-heart-healthy-frozen-dinners-labeled-for-seniors-why-81-exceed-2023-aha-sodium-limits-for-left-ventricular-hypertrophy
+    frozen-dinners-and-blood-pressure-seniors
   - >-
-    the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
-  - >-
-    senior-labeled-canned-soup-sodium-trap
+    the-truth-about-heart-healthy-frozen-dinners-for-adults-73-with-stage-3-ckd-and-systolic-heart-failure
 ---
 
 # Breaking Free from the Low-Sodium Frozen Dinner Sodium Trap — What Seniors *Really* Need to Know

@@ -10,6 +10,14 @@ image: ''
 relatedSlugs:
   - >-
     how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62
+  - >-
+    how-indoor-humidity-below-30-triggers-endothelial-stiffness-in-adults-55-68-with-early-arterial-calcification
+  - >-
+    how-indoor-air-quality-affects-heart-health-in-winter
+  - >-
+    how-staying-hydrated-in-winter-protects-your-heart-after-70
+  - >-
+    the-hidden-dangers-of-indoor-heating-on-blood-pressure
   - how-indoor-air-quality-affects-heart-health-in-winter
   - how-staying-hydrated-in-winter-protects-your-heart-after-70
   - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors

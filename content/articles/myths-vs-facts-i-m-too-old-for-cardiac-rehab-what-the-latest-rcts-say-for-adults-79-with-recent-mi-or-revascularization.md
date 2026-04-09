@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     5-things-every-adult-75-with-mild-cognitive-impairment-should-know-before-starting-a-home-based-cardiac-rehab-program
   - >-
+    cardiac-rehab-post-covid-myocardial-fatigue
+  - >-
     myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
   - >-
-    myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old
+    natural-cardiac-fibroblast-stabilization-post-mi
   - >-
-    myths-vs-facts-i-only-drink-red-wine-it-s-heart-healthy-in-adults-65-with-high-frequency-pacs-and-left-atrial-fibrosis
-  - >-
-    cardiac-rehab-post-covid-myocardial-fatigue
+    exercise-at-65-weekly-plan
 ---
 
 # “I’m Too Old for Cardiac Rehab” — Debunking cardiac rehab myths seniors 79+ recent mi with Real Evidence

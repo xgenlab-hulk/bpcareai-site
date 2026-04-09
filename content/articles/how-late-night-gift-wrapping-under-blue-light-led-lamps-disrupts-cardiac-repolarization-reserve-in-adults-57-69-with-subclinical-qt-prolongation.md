@@ -15,7 +15,9 @@ relatedSlugs:
   - >-
     nighttime-light-exposure-cardiac-clock-genes-elders
   - >-
-    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+    how-chronic-holiday-social-isolation-alters-ventricular-repolarization-reserve-evidence-from-24-hour-qtc-monitoring-in-adults-69-living-alone
+  - >-
+    simple-changes-to-your-evening-light-exposure-that-reduce-nocturnal-myocardial-oxygen-demand-in-adults-with-stable-angina-and-sleep-onset-insomnia
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
 ---
 

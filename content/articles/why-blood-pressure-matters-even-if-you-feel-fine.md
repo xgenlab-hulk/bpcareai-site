@@ -10,6 +10,16 @@ primaryKeyword: high blood pressure no symptoms why it matters
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    blood-pressure-and-kidney-health-what-seniors-need-to-know
+  - >-
+    myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
+  - >-
+    myths-vs-facts-my-bp-is-fine-because-i-feel-fine-why-asymptomatic-hypertension-is-especially-dangerous-in-adults-75-with-silent-white-matter-lesions
+  - >-
+    how-chronic-stress-contributes-to-high-blood-pressure-over-time
+  - >-
+    myths-vs-facts-my-bp-is-fine-because-my-doctor-never-mentioned-it-in-adults-54-67-with-elevated-pulse-pressure-and-normal-office-sbp-dbp
   - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
   - hidden-salt-10-surprising-foods-that-spike-blood-pressure
   - recognizing-silent-heart-attacks-in-diabetics-over-60

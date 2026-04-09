@@ -8,6 +8,16 @@ primaryKeyword: 'what holiday drinks are safe for blood sugar in diabetics over 
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
+  - >-
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - >-
+    blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
+  - >-
+    can-eggnog-and-desserts-be-part-of-a-diabetic-holiday-diet-after-60
+  - >-
+    myths-vs-facts-holiday-eating-with-diabetes-after-50
   - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65

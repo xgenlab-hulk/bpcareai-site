@@ -12,15 +12,15 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
-    stress-blood-sugar-spikes-after-35
+    high-cholesterol-fatigue-after-35
   - >-
     read-cholesterol-test-after-60
   - >-
-    myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old
+    alcohol-cholesterol-middle-age
+  - >-
+    stress-blood-sugar-spikes-after-35
   - >-
     how-chronic-stress-contributes-to-high-blood-pressure-over-time
-  - >-
-    how-intergenerational-gift-giving-stress-elevates-postprandial-triglycerides-in-adults-61-with-familial-hypertriglyceridemia
 ---
 
 # Does Stress Raise Cholesterol After 35? Yes — Here’s Why

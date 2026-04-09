@@ -9,11 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    5-things-every-adult-55-63-with-newly-diagnosed-hypertension-should-know-before-hosting-their-first-holiday-dinner
+    how-often-should-adults-over-50-check-their-blood-pressure
   - >-
-    the-complete-guide-to-interpreting-home-bp-log-patterns-spotting-masked-hypertension-white-coat-effect-and-circadian-shifts-in-adults-59-71
+    prehypertension-progression-predictors-midlife
   - >-
-    5-things-everyone-with-white-coat-hypertension-over-55-should-know-about-their-10-year-kidney-risk
+    blood-pressure-in-black-men-over-55-why-standard-algorithms-underestimate-risk-and-what-to-ask-your-doctor
+  - >-
+    blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ
+  - >-
+    the-truth-about-white-coat-resistance-why-some-adults-55-show-higher-bp-at-home-than-in-clinics-and-what-it-reveals-about-vascular-aging
   - how-does-family-history-influence-your-risk-of-heart-disease-after-60
   - >-
     5-things-every-adult-53-64-with-newly-diagnosed-hypertension-should-know-before-attending-their-first-post-diagnosis-holiday-party

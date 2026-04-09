@@ -11,11 +11,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    salad-dressing-sodium-endothelial-stiffness
+    how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
+  - >-
+    7-hidden-sodium-traps-in-healthy-looking-holiday-salads-that-worsen-fluid-retention-in-adults-74-with-mild-heart-failure
+  - >-
+    5-surprising-foods-that-may-trigger-holiday-heart-syndrome
   - >-
     the-truth-about-heart-healthy-holiday-cookies-for-men-77-with-atrial-fibrillation-and-polypharmacy
   - >-
-    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
+    7-hidden-electrolyte-shifts-that-happen-during-holiday-cooking-and-how-they-trigger-atrial-fibrillation-in-adults-60-with-mild-hypokalemia
 ---
 
 # When That ‘Light’ Holiday Salad Might Surprise You: Spotting Hidden Trans Fats in Holiday Salad Dressing for Adults Living With Atrial Fibrillation

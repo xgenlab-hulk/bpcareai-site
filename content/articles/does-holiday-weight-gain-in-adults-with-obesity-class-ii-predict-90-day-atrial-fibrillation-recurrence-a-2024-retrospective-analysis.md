@@ -9,6 +9,14 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    what-are-the-earliest-signs-your-holiday-weight-gain-is-actually-fluid-retention-not-fat-in-women-over-65-with-atrial-fibrillation
+  - >-
+    is-holiday-heart-syndrome-reversible-what-science-says
+  - >-
+    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
+  - >-
+    why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
+  - >-
     does-holiday-weight-gain-predict-1-year-cardiovascular-risk-in-adults-with-metabolic-syndrome-over-58
   - how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
   - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults

@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     insulin-sensitivity-without-exercise-elderly
   - >-
-    best-low-impact-resistance-exercises-for-blood-pressure-control-in-adults-with-knee-osteoarthritis-and-stage-1-hypertension
+    resistance-band-training-fasting-glucose-elderly
   - >-
-    best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
+    natural-ways-to-support-post-meal-insulin-sensitivity-without-medication-3-evidence-based-strategies-validated-in-adults-61-74-with-prediabetes
   - >-
-    best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options
+    strength-exercises-women-over-65
 ---
 
 # Which Strength Routine Supports Better Insulin Sensitivity? A Gentle Comparison for Adults 59–71 Starting Resistance Training

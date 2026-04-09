@@ -11,9 +11,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history
+  - >-
     can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show
   - >-
-    why-holiday-meal-timing-disrupts-blood-pressure-medication-efficacy-in-men-over-62
+    what-research-says-about-intermittent-fasting-windows-and-24-hour-bp-variability-in-adults-55-67-with-metabolic-syndrome-and-elevated-sdnn
+  - >-
+    time-restricted-eating-4pm-type-2-diabetes-seniors
+  - >-
+    intermittent-fasting-and-adrenal-blood-pressure
 
   - >-
     what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time

@@ -9,15 +9,15 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
-    boost-nitric-oxide-naturally-seniors
+    10-foods-that-worsen-endothelial-glycocalyx-thickness-in-adults-57-68-with-prediabetes-and-early-diastolic-dysfunction
+  - >-
+    endothelial-support-without-nitrates-seniors
+  - >-
+    air-travel-endothelial-glycocalyx-hypertension
   - >-
     improve-endothelial-function-without-exercise
   - >-
-    boost-nitric-oxide-naturally-seniors
-  - >-
     natural-ways-to-support-endothelial-repair-after-acute-hypertensive-crisis-for-adults-65-with-prior-bp-220-120-and-microalbuminuria
-  - >-
-    natural-ways-to-support-capillary-perfusion-without-vasodilators-for-adults-67-79-with-hypertension-mild-peripheral-artery-disease-and-cold-hands-feet
 ---
 
 # A Gentle, Targeted Approach to Endothelial Glycocalyx Repair in Seniors — Especially When Blood Pressure Is Fragile

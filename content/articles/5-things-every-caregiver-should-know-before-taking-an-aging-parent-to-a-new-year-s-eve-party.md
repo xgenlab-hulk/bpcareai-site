@@ -8,6 +8,16 @@ primaryKeyword: 'is a new years eve party safe for my aging parent'
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
+  - >-
+    why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
+  - >-
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - >-
+    7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
+  - >-
+    5-things-every-adult-53-64-with-newly-diagnosed-hypertension-should-know-before-attending-their-first-post-diagnosis-holiday-party
+  - >-
+    seniors-living-alone-holiday-party-preparedness
   - why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
   - warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know
   - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties

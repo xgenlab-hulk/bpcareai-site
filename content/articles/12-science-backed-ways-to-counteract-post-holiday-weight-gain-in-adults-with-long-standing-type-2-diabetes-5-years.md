@@ -8,6 +8,16 @@ primaryKeyword: 'reversing holiday weight gain with type 2 diabetes'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    myths-vs-facts-i-ll-just-exercise-more-after-the-holidays-why-that-strategy-fails-for-adults-65-with-type-2-diabetes-and-sarcopenic-obesity
+  - >-
+    how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
+  - >-
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - >-
+    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
+  - >-
+    reduce-hba1c-without-weight-loss
   - how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
   - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
   - managing-type-2-diabetes-while-attending-back-to-back-holiday-parties

@@ -9,15 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    mitochondrial-biogenesis-natural-diastolic-stiffness
+  - >-
     mitochondrial-biogenesis-heart-aging
   - >-
-    mitochondrial-biogenesis-after-overeating-seniors
+    mitochondrial-biogenesis-heart-failure-trf
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-using-pomegranate-derived-urolithin-a-and-time-restricted-feeding-for-adults-63-79-with-diabetic-cardiomyopathy
+    12-foods-that-enhance-myocardial-mitochondrial-biogenesis-without-increasing-oxidative-stress-for-adults-55-63-with-early-diastolic-dysfunction
   - >-
-    mitochondrial-heart-health-meal-timing-seniors
-  - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak
+    mitochondrial-biogenesis-heart-natural
 ---
 
 # Supporting Mitochondrial Biogenesis in Diastolic Dysfunction: Time-Restricted Feeding and Gentle Movement for Heart Health

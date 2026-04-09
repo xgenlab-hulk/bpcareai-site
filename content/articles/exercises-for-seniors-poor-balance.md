@@ -12,15 +12,15 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
-    the-best-indoor-exercises-for-blood-pressure-control-in-winter
+    exercise-at-65-weekly-plan
   - >-
-    seated-resistance-band-hypertension-elderly
+    walking-minutes-per-day-seniors-over-65
   - >-
-    safe-stretching-exercises-stiff-joints-after-65
+    strength-exercises-women-over-65
+  - >-
+    low-impact-exercise-blood-pressure-seniors
   - >-
     best-low-impact-resistance-exercises-for-adults-82-with-severe-osteoporosis-and-atrial-fibrillation-on-apixaban
-  - >-
-    best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
 ---
 
 # Safe & Steady: The Best Exercises for Seniors with Poor Balance to Regain Confidence and Independence

@@ -11,7 +11,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
+    portion-control-strategies-for-large-family-meals-that-work
+  - >-
+    seniors-living-alone-holiday-party-preparedness
+  - >-
+    the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies
+  - >-
+    quick-ways-to-adjust-portion-sizes-for-seniors-with-early-sarcopenia-without-offending-the-cook
+  - >-
+    how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65
   - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
   - >-
     how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors

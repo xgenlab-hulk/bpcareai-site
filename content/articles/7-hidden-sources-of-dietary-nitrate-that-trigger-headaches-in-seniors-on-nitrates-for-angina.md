@@ -9,11 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone
+    endothelial-support-without-nitrates-seniors
   - >-
-    boost-nitric-oxide-naturally-seniors
+    holiday-ham-dizziness-autonomic-neuropathy
   - >-
-    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+    nitric-oxide-coupling-without-l-arginine
+  - >-
+    5-things-every-caregiver-should-know-before-administering-nitroglycerin-to-someone-78-with-known-cad-and-mild-cognitive-impairment
+  - >-
+    when-to-worry-about-holiday-induced-brain-fog-after-eating-especially-with-concurrent-ace-inhibitor-use-and-orthostatic-hypotension-in-adults-67
   - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 ---

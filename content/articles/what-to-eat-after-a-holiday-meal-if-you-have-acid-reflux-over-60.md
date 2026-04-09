@@ -10,6 +10,16 @@ primaryKeyword: acid reflux food choices after holiday meals over 60
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    7-holiday-foods-that-trigger-silent-gastric-reflux-in-adults-65-even-without-heartburn
+  - >-
+    7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68
+  - >-
+    can-you-enjoy-holiday-pie-without-triggering-acid-reflux-at-night-a-3-step-timing-texture-strategy-for-adults-65-with-gerd
+  - >-
+    simple-steps-to-reduce-holiday-meal-induced-gastric-reflux-in-women-63-with-hiatal-hernia-without-ppis-or-antacids
+  - >-
+    best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
   - 10-high-fiber-holiday-foods-that-support-digestion-after-50
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60

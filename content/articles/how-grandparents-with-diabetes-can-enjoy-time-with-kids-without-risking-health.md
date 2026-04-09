@@ -11,7 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    best-blood-sugar-monitoring-practices-during-the-holiday-season
+  - >-
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - >-
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
+  - >-
     how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
+  - >-
+    7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
   - managing-diabetes-while-traveling-tips-for-seniors
   - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes

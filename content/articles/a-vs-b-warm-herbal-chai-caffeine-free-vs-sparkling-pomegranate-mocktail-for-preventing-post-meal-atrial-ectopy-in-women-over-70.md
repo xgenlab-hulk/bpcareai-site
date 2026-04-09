@@ -8,6 +8,16 @@ primaryKeyword: 'caffeine-free herbal chai vs pomegranate mocktail for heart rhy
 topicCluster: natural-remedies
 image: ''
 relatedSlugs:
+  - >-
+    apple-cider-vs-chai-for-afib
+  - >-
+    mulled-wine-vs-sparkling-cider-arrhythmia
+  - >-
+    quick-atrial-electrophysiology-normalization
+  - >-
+    atrial-stabilizing-foods-holiday-heart
+  - >-
+    hawthorn-vs-magnesium-holiday-heart
 
   - >-
     a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome

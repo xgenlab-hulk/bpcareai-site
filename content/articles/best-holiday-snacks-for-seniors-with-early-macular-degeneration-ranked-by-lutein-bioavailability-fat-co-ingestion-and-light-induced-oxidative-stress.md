@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     holiday-eating-macular-degeneration-lutein-bioavailability
   - >-
-    holiday-eating-macular-degeneration
-  - >-
     simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
+  - >-
+    holiday-eating-macular-degeneration
   - >-
     warning-signs-your-holiday-diet-is-accelerating-macular-degeneration-in-adults-over-68
   - >-
-    quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
+    12-science-backed-ways-to-reduce-postprandial-oxidative-burst-during-the-main-course-for-adults-57-65-with-early-macular-degeneration
 ---
 
 # Best Holiday Snacks for Seniors With Early Macular Degeneration — Nutrient-Smart Choices for Eye Health

@@ -11,15 +11,15 @@ topicCluster: natural-remedies
 image: ''
 relatedSlugs:
   - >-
-    gastric-acid-support-without-ppi-seniors
-  - >-
     support-gastric-acid-secretion-family-meals
   - >-
     gastric-acid-resilience-ppi-therapy-holiday-meals
   - >-
-    natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements
+    natural-ways-to-support-digestive-enzyme-production-after-age-60-especially-during-heavy-holiday-meals
   - >-
-    how-holiday-stress-slows-gastric-emptying-in-adults-72-with-mild-gastroparesis-and-what-to-eat-instead
+    7-holiday-foods-that-trigger-silent-gastric-reflux-in-adults-65-even-without-heartburn
+  - >-
+    what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
 ---
 
 # Natural Gastric Acid Support Without PPIs for Seniors During the Holidays  

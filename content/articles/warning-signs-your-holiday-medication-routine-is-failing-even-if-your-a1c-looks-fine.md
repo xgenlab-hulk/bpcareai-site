@@ -9,11 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    when-should-you-switch-from-fasting-glucose-to-cgm-derived-time-in-range-metrics-for-holiday-decision-making-a-threshold-framework-for-adults-55-69
+    holiday-medication-management-what-to-do-when-schedules-get-disrupted
   - >-
-    when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
+    should-you-adjust-your-diabetes-medication-during-the-holidays
   - >-
-    cgm-interpretation-early-dementia-diabetes
+    holiday-medication-holiday-myths-facts
+  - >-
+    3-simple-steps-to-prevent-post-holiday-hba1c-drift-even-if-you-did-fine-during-the-festivities-in-adults-57-66-with-stable-prediabetes
+  - >-
+    the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
   - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
   - best-blood-sugar-monitoring-practices-during-the-holiday-season
 ---

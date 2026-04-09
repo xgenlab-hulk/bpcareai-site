@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     the-ultimate-guide-to-interpreting-your-coronary-artery-calcium-score-including-age-and-sex-specific-percentile-benchmarks-and-when-to-repeat-scanning
   - >-
-    12-science-backed-ways-to-reduce-coronary-artery-calcium-cac-progression-without-statins-in-adults-55-64-with-cac-score-100-300
+    5-things-everyone-over-70-should-know-about-coronary-artery-calcium-cac-scoring-especially-if-you-re-taking-statins-but-have-zero-symptoms
   - >-
-    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-in-adults-58-69-with-agatston-score-100-400-and-elevated-lp-a
+    when-should-you-get-a-coronary-cta-instead-of-stress-testing-for-adults-58-64-with-atypical-chest-pain-and-low-to-intermediate-pre-test-probability
   - >-
-    cardiac-amyloidosis-diagnosis-low-voltage-ecg-older-men
+    7-hidden-environmental-triggers-that-worsen-coronary-artery-calcification-in-adults-62-with-long-term-statin-use
 ---
 
 # Understanding Your Coronary Calcium Score CT Lung Screening — Especially With Emphysema

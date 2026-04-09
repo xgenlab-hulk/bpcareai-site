@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     sweet-potatoes-glucose-variability-seniors
   - >-
-    cold-mashed-potatoes-glycemic-index-gastroparesis
-  - >-
     maple-glazed-sweet-potatoes-vs-candied-yams-blood-sugar
   - >-
-    a-vs-b-traditional-sweet-potato-casserole-vs-roasted-sweet-potato-medley-for-adults-with-peripheral-neuropathy-and-early-nerve-pain
+    low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
   - >-
-    sweet-potatoes-roasted-vs-slow-cooked-endothelial-function
+    7-holiday-foods-that-spike-postprandial-glucose-without-tasting-sweet-especially-for-adults-63-with-long-standing-type-2-diabetes
+  - >-
+    healthy-holiday-buffet-glycemic-traps
 ---
 
 # Roasted Sweet Potatoes vs Mashed Cauliflower for Seniors: A Gentle Guide to Healthy Holiday Eating

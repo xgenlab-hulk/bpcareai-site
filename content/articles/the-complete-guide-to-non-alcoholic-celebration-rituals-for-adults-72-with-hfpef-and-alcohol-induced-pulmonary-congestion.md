@@ -8,6 +8,16 @@ primaryKeyword: non-alcoholic ways to celebrate with heart failure
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
+  - >-
+    best-non-alcoholic-holiday-drinks-for-heart-health-after-50
+  - >-
+    the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
+  - >-
+    the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement
+  - >-
+    why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
+  - >-
+    7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
   - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
   - >-
     the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement

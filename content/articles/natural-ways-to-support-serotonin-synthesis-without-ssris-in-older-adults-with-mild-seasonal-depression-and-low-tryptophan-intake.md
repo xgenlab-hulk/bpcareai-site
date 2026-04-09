@@ -11,13 +11,15 @@ topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-reduce-holiday-constipation-in-seniors-taking-opioids-or-anticholinergics
+    natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
   - >-
-    boost-nitric-oxide-naturally-seniors
+    quick-ways-to-lift-a-senior-s-mood-during-a-winter-blue-day
   - >-
-    quick-ways-to-boost-dopamine-responsiveness-during-shorter-days-without-stimulants-or-antidepressants-evidence-from-8-trials-in-adults-60-82
+    can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
   - >-
-    best-snack-pairings-to-stabilize-energy-and-mood-between-holiday-meals-for-men-60-72-with-late-onset-depression-and-low-testosterone
+    what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter
+  - >-
+    7-common-mistakes-that-make-seasonal-depression-worse-in-seniors
 ---
 
 # Natural Ways to Support Serotonin Synthesis in Seniors: Optimizing Tryptophan Intake and Co-Factors for Mild Seasonal Depression

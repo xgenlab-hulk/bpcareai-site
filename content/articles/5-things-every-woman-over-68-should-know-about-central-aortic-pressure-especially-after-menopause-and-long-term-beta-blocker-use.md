@@ -9,15 +9,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    can-daily-12-minute-seated-tai-chi-lower-24-hour-systolic-load-in-adults-71-with-isolated-systolic-hypertension-and-mild-gait-instability
-  - >-
-    5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension
-  - >-
-    5-things-every-woman-over-62-with-early-menopause-before-age-45-should-know-about-estrogen-loss-and-nighttime-bp-surge
-  - >-
     simple-steps-to-lower-central-aortic-pressure-in-just-7-days-using-only-a-kitchen-scale-a-stopwatch-and-your-morning-tea-ritual
   - >-
-    nasal-breathing-central-aortic-pressure
+    central-aortic-pressure-foods-74-pulse
+  - >-
+    best-breathing-patterns-for-reducing-central-systolic-pressure-in-adults-55-69-with-elevated-augmentation-index-and-high-frequency-hrv-suppression
+  - >-
+    5-things-every-adult-74-with-aortic-stenosis-and-controlled-hypertension-should-know-before-starting-home-bp-monitoring
+  - >-
+    pseudohypertension-peripheral-artery-disease
 ---
 
 # Why Does Your Arm BP Look Normal But Your Heart Still Struggles After Menopause and Beta-Blockers?

@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    natural-baroreflex-sensitivity-enhancement
-  - >-
-    natural-baroreflex-sensitivity-enhancement
-  - >-
     natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension
   - >-
-    natural-baroreflex-sensitivity-enhancement
+    carotid-baroreceptor-sensitivity-cooling
   - >-
-    natural-baroreflex-sensitivity-enhancement
+    air-conditioning-baroreflex-sensitivity-elderly
+  - >-
+    cold-face-immersion-baroreflex-seniors
+  - >-
+    nasal-breathing-baroreflex-diabetes
 ---
 
 # Natural Baroreflex Sensitivity Enhancement for Older Adults: Safe, Zero-Cost Strategies for White-Coat Hypertension

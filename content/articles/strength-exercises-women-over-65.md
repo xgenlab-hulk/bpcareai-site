@@ -12,15 +12,15 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
-    exercises-for-seniors-poor-balance
+    exercise-at-65-weekly-plan
+  - >-
+    can-strength-training-lower-heart-disease-risk-after-60
+  - >-
+    walking-minutes-per-day-seniors-over-65
   - >-
     safe-stretching-exercises-stiff-joints-after-65
   - >-
-    how-strength-training-protects-your-heart-as-you-age
-  - >-
-    best-low-impact-exercises-for-managing-diabetes-after-60
-  - >-
-    seated-resistance-band-hypertension-elderly
+    best-low-impact-resistance-exercises-for-adults-82-with-severe-osteoporosis-and-atrial-fibrillation-on-apixaban
 ---
 
 # Best Strength Exercises for Women Over 65 — Safe & Effective

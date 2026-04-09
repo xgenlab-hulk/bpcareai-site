@@ -9,15 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    silent-myocardial-infarction-ecg-patch-monitoring
-  - >-
-    what-are-the-earliest-ecg-changes-that-predict-sudden-cardiac-death-in-adults-with-well-controlled-type-2-diabetes-and-egfr-55-70
-  - >-
-    warning-signs-your-normal-ecg-may-miss-early-arrhythmogenic-cardiomyopathy-in-adults-55-66-with-unexplained-syncope-and-family-history-of-scd
-  - >-
     myths-vs-facts-my-ecg-is-normal-so-my-heart-is-fine-why-resting-ecg-misses-68-of-early-conduction-abnormalities-in-adults-65
   - >-
-    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
+    7-silent-signs-your-left-ventricular-diastolic-function-is-declining-especially-if-you-still-pass-standard-ekgs-and-walk-5-000-steps-daily
+  - >-
+    silent-myocardial-infarction-ecg-patch-monitoring
+  - >-
+    how-silent-heart-attacks-differ-in-older-adults
+  - >-
+    home-ecg-patch-interpretation-for-seniors
 ---
 
 # 7 Subtle Signs Your Heart’s Electrical System May Be Slowing Down — Even Without Obvious Symptoms

@@ -10,6 +10,14 @@ image: ''
 relatedSlugs:
   - >-
     12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
+  - >-
+    12-science-backed-ways-to-reduce-coronary-artery-calcium-cac-progression-without-statins-in-adults-55-64-with-cac-score-100-300
+  - >-
+    foods-delay-artery-calcification-66
+  - >-
+    simple-steps-to-lower-lipoprotein-a-naturally-for-adults-56-70-with-familial-hypercholesterolemia-and-cac-score-400
+  - >-
+    7-hidden-environmental-triggers-that-worsen-coronary-artery-calcification-in-adults-62-with-long-term-statin-use
 
   - >-
     how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone

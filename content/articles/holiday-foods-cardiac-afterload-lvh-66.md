@@ -9,6 +9,16 @@ primaryKeyword: holiday foods cardiac afterload heart 66
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-adults-72-with-isolated-systolic-hypertension-and-what-to-serve-instead
+  - >-
+    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - >-
+    holiday-foods-heart-failure-seniors
+  - >-
+    5-surprising-foods-that-may-trigger-holiday-heart-syndrome
+  - >-
+    can-holiday-leftovers-increase-fall-risk-in-adults-77-with-vitamin-d-deficiency-and-mild-postural-instability
   - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
 
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol

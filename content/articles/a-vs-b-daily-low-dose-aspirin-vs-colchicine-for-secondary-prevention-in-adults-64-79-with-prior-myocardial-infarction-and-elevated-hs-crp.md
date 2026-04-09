@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     aspirin-primary-prevention-cacs-score
   - >-
-    what-research-says-about-low-dose-aspirin-and-diabetic-retinopathy-progression-in-men-68-80-with-nonproliferative-disease
+    how-chronic-low-grade-inflammation-drives-resistant-hypertension-in-adults-60-74-with-elevated-hs-crp-and-gum-recession
   - >-
-    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
+    the-role-of-inflammation-in-heart-disease-for-older-adults
   - >-
-    top-4-non-statin-cholesterol-modulators-for-adults-with-statin-intolerant-myopathy-over-60
+    does-daily-low-dose-aspirin-increase-holiday-heart-syndrome-risk-in-adults-65-with-atrial-enlargement-and-unrecognized-microbleeds
   - >-
-    myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
+    simple-steps-to-lower-post-holiday-c-reactive-protein-in-just-5-days-using-only-frozen-berries-ground-flax-and-your-evening-tea-ritual
 ---
 
 # Aspirin vs Colchicine for Secondary Prevention: What’s Right After a Heart Attack?

@@ -10,6 +10,16 @@ primaryKeyword: how to host holiday meals for seniors with dietary needs
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    seniors-living-alone-holiday-party-preparedness
+  - >-
+    the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations
+  - >-
+    holiday-foods-blood-sugar-bp-seniors-70
+  - >-
+    how-to-talk-to-relatives-about-your-dietary-restrictions-without-offending-anyone
+  - >-
+    simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - a-guide-to-allergen-friendly-family-meals-for-mixed-diet-households

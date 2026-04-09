@@ -8,6 +8,16 @@ primaryKeyword: 'silent blood sugar spikes on GLP-1 drugs during holidays'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    7-silent-signs-your-blood-sugar-is-spiking-after-holiday-parties-especially-if-you-re-62-with-prediabetes-and-sedentary-habits
+  - >-
+    what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners
+  - >-
+    7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
+  - >-
+    the-truth-about-sugar-free-holiday-desserts-for-seniors-on-glp-1-agonists-why-some-artificial-sweeteners-worsen-nausea-and-hypoglycemia-risk
+  - >-
+    natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements
   - what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes

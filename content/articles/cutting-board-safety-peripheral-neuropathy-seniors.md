@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house
   - >-
-    the-complete-guide-to-navigating-holiday-buffets-with-visual-impairment-and-age-related-macular-degeneration
-  - >-
     5-things-every-caregiver-should-know-before-hosting-a-holiday-gathering-for-someone-with-advanced-diabetic-neuropathy-and-foot-ulcers
   - >-
-    cookie-swap-diabetes-neuropathy-seniors
+    safe-holiday-foods-seniors-80-grandkids
   - >-
-    5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy
+    holiday-foods-blood-sugar-bp-seniors-70
+  - >-
+    the-complete-guide-to-navigating-holiday-buffets-with-visual-impairment-and-age-related-macular-degeneration
 ---
 
 # Cutting Board Safety for Seniors with Peripheral Neuropathy: A Practical, Stress-Free Guide to Holiday Food Prep

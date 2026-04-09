@@ -8,6 +8,16 @@ primaryKeyword: 'hidden sodium in holiday foods and blood pressure'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker
+  - >-
+    7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-adults-72-with-isolated-systolic-hypertension-and-what-to-serve-instead
+  - >-
+    can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure
+  - >-
+    hidden-salt-10-surprising-foods-that-spike-blood-pressure
+  - >-
+    7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
   - hidden-salt-10-surprising-foods-that-spike-blood-pressure
   - can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes

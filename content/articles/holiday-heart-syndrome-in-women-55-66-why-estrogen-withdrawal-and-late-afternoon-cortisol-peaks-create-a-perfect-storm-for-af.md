@@ -9,9 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    how-alcohol-timing-affects-atrial-fibrillation-risk-during-holiday-gatherings-in-adults-55-68-with-occult-af-and-high-functioning-lifestyle
+    women-holiday-heart-syndrome-menopause
   - >-
-    7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - >-
+    is-holiday-heart-syndrome-reversible-what-science-says
+  - >-
+    atrial-fibrillation-vs-holiday-heart-syndrome-key-differences-everyone-should-know
+  - >-
+    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
   - >-

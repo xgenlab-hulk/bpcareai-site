@@ -10,6 +10,16 @@ primaryKeyword: why type 2 diabetes causes fatigue in seniors
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    midday-fatigue-diabetes-autonomic-failure-seniors
+  - >-
+    fatigue-after-meals-diabetes-elderly
+  - >-
+    when-to-worry-about-just-tired-after-christmas-dinner-especially-if-you-re-69-with-type-2-diabetes-and-untreated-sleep-apnea
+  - >-
+    when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment
+  - >-
+    how-sleep-apnea-impacts-type-2-diabetes-control-after-50
   - managing-diabetes-while-traveling-tips-for-seniors
   - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
   - the-link-between-diabetes-and-slow-healing-in-older-adults

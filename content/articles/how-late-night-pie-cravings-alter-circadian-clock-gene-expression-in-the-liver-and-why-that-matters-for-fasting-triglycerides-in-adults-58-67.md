@@ -11,15 +11,15 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    how-late-night-holiday-snacking-alters-circadian-clock-gene-expression-in-adults-60-69-with-shift-work-history-and-mild-sleep-apnea
-  - >-
-    10-silent-signs-your-holiday-meal-timing-is-disrupting-hepatic-glucose-production-especially-with-concurrent-melatonin-agonist-use-in-adults-72
-  - >-
-    time-restricted-eating-hepatic-insulin-sensitivity
-  - >-
     how-late-night-dessert-sharing-with-grandchildren-affects-overnight-triglyceride-clearance-in-adults-60-71-with-metabolic-syndrome
   - >-
+    late-night-snacking-hepatic-gluconeogenesis
+  - >-
     how-late-night-cookie-binges-alter-hepatic-gluconeogenesis-rhythms-in-adults-58-66-with-prediabetes-and-why-it-matters-for-fasting-glucose-stability
+  - >-
+    one-slice-pie-triglycerides-seniors-myth
+  - >-
+    how-late-night-pie-eating-disrupts-nocturnal-glucose-rhythms-in-adults-65-with-early-stage-diabetic-neuropathy
 ---
 
 # How Late-Night Pie Cravings Disrupt Liver Clocks—and Raise Fasting Triglycerides in Adults 58–67

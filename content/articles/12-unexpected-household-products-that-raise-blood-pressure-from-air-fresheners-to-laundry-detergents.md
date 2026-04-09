@@ -8,6 +8,16 @@ primaryKeyword: 'household products that raise blood pressure'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    7-unexpected-household-chemicals-that-may-interfere-with-ace-inhibitor-efficacy-in-adults-over-75
+  - >-
+    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
+  - >-
+    could-your-medications-be-raising-your-blood-pressure
+  - >-
+    10-unexpected-household-chemicals-that-accelerate-coronary-artery-calcification-in-adults-62-with-chronic-kidney-disease
+  - >-
+    morning-hygiene-blood-pressure-variability
 
   - 5-foods-that-raise-blood-pressure-even-if-they-re-low-sodium
   - 10-simple-home-adjustments-to-support-blood-pressure-stability-in-winter

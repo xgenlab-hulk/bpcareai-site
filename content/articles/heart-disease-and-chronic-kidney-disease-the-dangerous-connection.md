@@ -10,6 +10,16 @@ primaryKeyword: kidney disease and heart disease risk after 50
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    blood-pressure-and-kidney-health-what-seniors-need-to-know
+  - >-
+    how-kidney-function-declines-faster-in-older-adults-with-diabetes
+  - >-
+    heart-disease-warning-signs-that-appear-years-in-advance
+  - >-
+    the-connection-between-rheumatoid-arthritis-and-heart-disease
+  - >-
+    how-excessive-salt-intake-leads-to-heart-disease-over-time
   - how-type-2-diabetes-increases-heart-disease-risk-after-50
   - heart-disease-in-hispanic-adults-over-50-unique-risk-factors
   - the-impact-of-long-term-nsaid-use-on-heart-disease-risk

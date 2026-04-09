@@ -8,6 +8,16 @@ primaryKeyword: 'can drinking too much water raise blood pressure'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    can-drinking-more-water-help-lower-blood-pressure-naturally
+  - >-
+    winter-hydration-blood-pressure-stability-elderly
+  - >-
+    how-dehydration-affects-heart-function-in-older-adults
+  - >-
+    blood-pressure-and-alcohol-how-much-is-too-much
+  - >-
+    blood-pressure-and-kidney-health-what-seniors-need-to-know
   - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
   - does-caffeine-raise-blood-pressure-after-age-60
   - hidden-salt-10-surprising-foods-that-spike-blood-pressure

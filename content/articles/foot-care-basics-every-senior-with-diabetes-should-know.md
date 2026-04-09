@@ -10,6 +10,16 @@ primaryKeyword: daily diabetic foot care tips for seniors over 60
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    myths-vs-facts-i-don-t-need-to-check-my-feet-daily-because-i-still-feel-pain
+  - >-
+    simple-steps-to-prevent-diabetic-foot-ulcers-during-winter-for-adults-71-with-peripheral-neuropathy-and-indoor-heaters
+  - >-
+    the-link-between-diabetes-and-slow-healing-in-older-adults
+  - >-
+    5-things-every-caregiver-should-know-before-hosting-a-holiday-gathering-for-someone-with-advanced-diabetic-neuropathy-and-foot-ulcers
+  - >-
+    best-portable-foot-thermometers-for-early-neuropathy-detection-in-adults-70-with-limited-dexterity-and-poor-vision
   - the-link-between-diabetes-and-slow-healing-in-older-adults
   - diabetes-and-vision-changes-what-seniors-need-to-know
   - recognizing-silent-heart-attacks-in-diabetics-over-60

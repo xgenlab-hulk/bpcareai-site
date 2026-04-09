@@ -9,9 +9,15 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
+    7-common-mistakes-that-make-seasonal-depression-worse-in-seniors
+  - >-
+    when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
+  - >-
     7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
   - >-
-    medication-interactions-heart-failure-readmission
+    how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60
+  - >-
+    10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore
   - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
   - how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60
   - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults

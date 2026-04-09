@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     why-morning-cortisol-spikes-worsen-dawn-phenomenon-in-adults-62-with-long-standing-type-2-diabetes-and-adrenal-fatigue-symptoms
   - >-
+    stabilize-morning-glucose-without-insulin
+  - >-
     grandparenting-sleep-cortisol-fasting-glucose
   - >-
-    quick-ways-to-normalize-morning-cortisol-bp-coupling-within-7-days-using-dawn-simulation-protein-first-breakfast-in-adults-with-morning-hypertension
-  - >-
-    intergenerational-cooking-cortisol-dawn-phenomenon
-  - >-
     how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance
+  - >-
+    quick-ways-to-normalize-morning-cortisol-bp-coupling-within-7-days-using-dawn-simulation-protein-first-breakfast-in-adults-with-morning-hypertension
 ---
 
 # When Morning Cortisol Disrupts Blood Sugar Control — Even With a Normal A1C in Adults 55–64

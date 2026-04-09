@@ -12,6 +12,14 @@ image: ''
 relatedSlugs:
   - >-
     myths-vs-facts-eating-less-sugar-alone-will-reverse-type-2-diabetes-in-adults-58-73-with-12-years-duration
+  - >-
+    can-prediabetes-be-reversed-after-age-50
+  - >-
+    how-intermittent-fasting-affects-beta-cell-rest-and-regeneration-in-adults-54-68-with-new-onset-type-2-diabetes-what-12-week-clinical-trials-show
+  - >-
+    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
+  - >-
+    is-180-after-meals-normal-55-type-2
   - can-prediabetes-be-reversed-after-age-50
   - intermittent-fasting-beta-cell-regeneration
   - >-

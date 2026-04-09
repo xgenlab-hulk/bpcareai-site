@@ -10,6 +10,16 @@ primaryKeyword: how to manage diabetes while traveling during holidays
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    how-holiday-travel-disrupts-circadian-glucose-rhythms-in-adults-58-65-with-insulin-treated-type-2-diabetes-and-3-jet-lag-proof-timing-strategies
+  - >-
+    how-to-create-a-blood-sugar-emergency-kit-for-holiday-travel
+  - >-
+    10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit
+  - >-
+    best-blood-sugar-monitoring-practices-during-the-holiday-season
+  - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
   - managing-diabetes-while-traveling-tips-for-seniors
   - best-blood-sugar-monitoring-practices-during-the-holiday-season
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes

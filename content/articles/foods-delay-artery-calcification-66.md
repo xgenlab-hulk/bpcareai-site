@@ -9,11 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-in-adults-58-69-with-agatston-score-100-400-and-elevated-lp-a
-  - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
+    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
   - >-
     12-science-backed-ways-to-reduce-coronary-artery-calcium-cac-progression-without-statins-in-adults-55-64-with-cac-score-100-300
+  - >-
+    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-in-adults-58-69-with-agatston-score-100-400-and-elevated-lp-a
+  - >-
+    pulse-wave-velocity-foods-avoid-61-cac
+  - >-
+    arterial-stiffness-foods-seniors-bp
 
 ---
 

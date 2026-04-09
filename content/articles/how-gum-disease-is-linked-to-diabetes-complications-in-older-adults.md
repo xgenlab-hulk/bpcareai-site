@@ -10,6 +10,16 @@ primaryKeyword: gum disease worsens diabetes in older adults
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-raises-a1c-in-adults-58-74-with-type-2-diabetes-and-poor-dental-access
+  - >-
+    how-chronic-low-grade-inflammation-from-untreated-gum-disease-accelerates-insulin-resistance-in-adults-58-72-with-prediabetes
+  - >-
+    how-chronic-low-grade-gum-inflammation-alters-insulin-clearance-in-adults-57-69-with-well-controlled-type-2-diabetes
+  - >-
+    how-chronic-low-grade-gum-inflammation-accelerates-beta-cell-dysfunction-in-adults-62-with-long-standing-type-2-diabetes
   - the-hidden-link-between-gum-disease-and-heart-problems
   - diabetes-and-vision-changes-what-seniors-need-to-know
   - the-link-between-diabetes-and-slow-healing-in-older-adults

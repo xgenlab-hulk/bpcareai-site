@@ -11,15 +11,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    5-things-every-adult-75-with-mild-cognitive-impairment-should-know-before-starting-a-home-based-cardiac-rehab-program
+    heart-rate-recovery-and-hfpef-mortality
+  - >-
+    the-complete-guide-to-interpreting-home-pulse-oximetry-trends-not-just-spo2-for-adults-64-with-heart-failure-and-anemia
   - >-
     cardiac-rehab-post-covid-myocardial-fatigue
   - >-
-    myths-vs-facts-i-m-too-old-for-cardiac-rehab-what-the-latest-rcts-say-for-adults-79-with-recent-mi-or-revascularization
+    best-breathing-patterns-for-reducing-left-atrial-pressure-during-sleep-in-adults-67-79-with-hfpef-and-central-sleep-apnea
   - >-
-    sauna-use-with-ace-inhibitors-seniors
-  - >-
-    seated-resistance-band-hypertension-elderly
+    7-hidden-sleep-position-risks-that-worsen-pulmonary-congestion-in-adults-73-with-hfpef-and-mild-obstructive-sleep-apnea
 ---
 
 # Using a Portable Oxygen Concentrator During Cardiac Rehab: What Older Adults With HFpEF Need to Know

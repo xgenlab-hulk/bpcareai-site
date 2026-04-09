@@ -8,6 +8,16 @@ primaryKeyword: 'fasting glucose targets CKD stage 3a diabetes management'
 topicCluster: renal-health
 image: ''
 relatedSlugs:
+  - >-
+    a1c-reliability-with-low-albumin
+  - >-
+    how-chronic-low-grade-dehydration-alters-renal-glucose-reabsorption-in-adults-72-with-stage-2-ckd-and-well-controlled-a1c
+  - >-
+    myths-vs-facts-my-diabetes-is-under-control-because-my-a1c-is-6-8-why-that-number-lies-in-adults-77-with-anemia-and-chronic-kidney-disease
+  - >-
+    what-research-says-about-intermittent-fasting-windows-during-kwanzaa-week-for-adults-56-68-with-diabetic-kidney-disease-egfr-30-45
+  - >-
+    how-chronic-low-grade-dehydration-alters-glycated-albumin-ga-interpretation-in-adults-74-with-ckd-stage-2-and-poor-thirst-sensation
   - how-kidney-function-declines-faster-in-older-adults-with-diabetes
   - >-
     what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery

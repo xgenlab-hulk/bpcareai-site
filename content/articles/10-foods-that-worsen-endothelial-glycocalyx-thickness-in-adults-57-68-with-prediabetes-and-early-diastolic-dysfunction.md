@@ -9,9 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    endothelial-glycocalyx-repair-seniors
+  - >-
     what-research-says-about-ultra-processed-side-dishes-and-endothelial-function-decline-in-adults-55-70-with-prediabetes
   - >-
-    fasting-glucose-myth-postprandial-risk
+    air-travel-endothelial-glycocalyx-hypertension
+  - >-
+    12-science-backed-ways-to-reduce-postprandial-endothelial-dysfunction-within-45-minutes-for-adults-60-76-with-type-2-diabetes-and-elevated-adma
+  - >-
+    dental-inflammation-coronary-microvascular-flow
 
   - >-
     the-truth-about-heart-healthy-plant-based-burgers-do-they-lower-ldl-or-worsen-endothelial-function-in-adults-with-prediabetes-over-58

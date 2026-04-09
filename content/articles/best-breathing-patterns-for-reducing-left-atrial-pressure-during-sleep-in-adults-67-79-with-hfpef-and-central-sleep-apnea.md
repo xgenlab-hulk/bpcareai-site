@@ -9,15 +9,15 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    resonant-breathing-diastolic-pressure-reduction
-  - >-
-    breathing-patterns-right-atrial-pressure-seniors
-  - >-
-    best-breathing-patterns-for-reducing-central-systolic-pressure-in-adults-55-69-with-elevated-augmentation-index-and-high-frequency-hrv-suppression
+    breathing-techniques-for-left-atrial-pressure
   - >-
     best-breathing-patterns-for-reducing-right-ventricular-afterload-in-adults-67-80-with-pulmonary-hypertension-and-sarcopenia
   - >-
-    resonant-breathing-diastolic-pressure-reduction
+    best-breathing-patterns-for-reducing-central-systolic-pressure-in-adults-55-69-with-elevated-augmentation-index-and-high-frequency-hrv-suppression
+  - >-
+    breathing-patterns-right-atrial-pressure-seniors
+  - >-
+    best-breathing-patterns-to-reduce-atrial-fibrillation-burden-in-adults-62-with-paroxysmal-af-and-elevated-hs-crp
 ---
 
 # Gentle Breathing Patterns to Support Heart Health and Ease Left Atrial Pressure in HFpEF With Central Sleep Apnea

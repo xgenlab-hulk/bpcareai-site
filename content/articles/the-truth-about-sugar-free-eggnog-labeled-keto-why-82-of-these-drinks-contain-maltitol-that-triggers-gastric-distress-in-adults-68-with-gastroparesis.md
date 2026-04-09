@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
   - >-
-    the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
-  - >-
     sugar-free-candies-and-gastroparesis
   - >-
-    are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - >-
     the-truth-about-senior-friendly-holiday-protein-bars-why-91-contain-hidden-maltitol-that-delays-gastric-emptying-in-adults-68-with-gastroparesis
+  - >-
+    the-truth-about-low-sugar-holiday-cookies-labeled-for-seniors-why-73-contain-maltitol-induced-osmotic-diarrhea-triggers-in-adults-71-with-ibs-c
+  - >-
+    the-truth-about-no-sugar-added-protein-bars-for-men-69-with-diabetic-gastroparesis-and-early-autonomic-neuropathy
 ---
 
 # Understanding Sugar-Free Eggnog Gastroparesis Risk — What Seniors Should Know This Holiday Season

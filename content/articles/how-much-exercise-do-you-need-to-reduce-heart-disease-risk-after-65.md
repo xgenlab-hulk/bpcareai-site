@@ -10,6 +10,16 @@ primaryKeyword: how much exercise to prevent heart disease after 65
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
+  - >-
+    exercise-at-65-weekly-plan
+  - >-
+    can-meditation-reduce-heart-disease-risk-after-50
+  - >-
+    walking-minutes-per-day-seniors-over-65
+  - >-
+    can-heart-disease-be-reversed-with-lifestyle-changes-after-50
+  - >-
+    can-gardening-improve-heart-health-after-50
   - can-meditation-reduce-heart-disease-risk-after-50
   - can-gardening-improve-heart-health-after-50
   - is-sitting-too-much-harming-your-heart-after-60

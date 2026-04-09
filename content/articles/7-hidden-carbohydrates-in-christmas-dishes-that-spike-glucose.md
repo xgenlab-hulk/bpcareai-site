@@ -8,6 +8,16 @@ primaryKeyword: 'hidden carbs in Christmas food that spike blood sugar'
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    7-holiday-foods-that-spike-postprandial-glucose-without-tasting-sweet-especially-for-adults-63-with-long-standing-type-2-diabetes
+  - >-
+    7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish
+  - >-
+    7-hidden-blood-sugar-triggers-in-healthy-holiday-side-dishes-like-sweet-potato-casserole-and-cranberry-relish
+  - >-
+    simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
+  - >-
+    7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - best-low-carb-desserts-for-diabetics-over-60-this-holiday-season

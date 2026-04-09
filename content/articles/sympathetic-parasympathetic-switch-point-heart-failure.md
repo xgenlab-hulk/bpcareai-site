@@ -9,15 +9,15 @@ topicCluster: autonomic-nervous-regulation
 image: ''
 relatedSlugs:
   - >-
+    natural-autonomic-stabilization-holiday-heart
+  - >-
+    best-breathing-patterns-for-immediate-bp-reduction-in-adults-60-with-high-lf-hf-ratio-on-hrv-and-morning-anxiety
+  - >-
+    best-breathing-patterns-for-reducing-left-atrial-pressure-during-sleep-in-adults-67-79-with-hfpef-and-central-sleep-apnea
+  - >-
     natural-ways-to-stabilize-autonomic-tone-during-holiday-travel-especially-for-adults-with-parkinson-s-associated-cardiac-dysautonomia-age-65-81
   - >-
-    natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
-  - >-
-    cold-exposure-and-paroxysmal-afib-in-elderly
-  - >-
-    resonant-breathing-diastolic-pressure-reduction
-  - >-
-    can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
+    heart-rate-recovery-and-hfpef-mortality
 ---
 
 # Optimizing the Sympathetic-Parasympathetic Switch Point in Heart Failure With Preserved Ejection Fraction

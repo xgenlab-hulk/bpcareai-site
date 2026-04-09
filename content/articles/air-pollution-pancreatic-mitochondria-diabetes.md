@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     how-indoor-air-quality-changes-during-winter-affect-fasting-glucose-in-adults-65-with-type-2-diabetes
   - >-
-    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
+    air-purifier-ozone-pancreatic-islet-oxygenation
   - >-
-    fireplace-smoke-glucose-uptake-seniors-copd
+    mitochondrial-biogenesis-beta-cells-diabetes
   - >-
     how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55
   - >-
-    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
+    fireplace-smoke-glucose-uptake-seniors-copd
 ---
 
 # How Air Pollution Damages Pancreatic Mitochondria in Adults With Diabetes—And What You Can Do About It

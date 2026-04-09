@@ -9,11 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    what-causes-rebound-hyperglycemia-after-nocturnal-hypoglycemia-in-adults-over-68-and-why-it-s-often-mistaken-for-insulin-resistance
+    stabilize-morning-glucose-without-insulin
   - >-
-    why-your-morning-walk-may-raise-blood-glucose-instead-of-lowering-it-especially-if-you-re-on-basal-only-insulin-and-over-66
+    stabilize-blood-glucose-christmas-morning
   - >-
-    holiday-sleep-fragmentation-fasting-glucose-men
+    why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
+  - >-
+    why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
+  - >-
+    intergenerational-cooking-cortisol-dawn-phenomenon
   - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
   - >-
     when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction

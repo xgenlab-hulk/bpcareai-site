@@ -9,15 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    what-research-says-about-intermittent-fasting-for-women-over-65-with-postmenopausal-insulin-resistance-not-just-weight-loss
+  - >-
     how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin
+  - >-
+    can-intermittent-fasting-reverse-prediabetes-in-adults-50-59-with-non-alcoholic-fatty-liver-disease-what-the-2024-rcts-say
   - >-
     intermittent-fasting-during-family-events
   - >-
     a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
-  - >-
-    what-research-says-about-intermittent-fasting-windows-and-left-ventricular-stiffness-in-men-58-67-with-early-diastolic-impairment
-  - >-
-    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
 ---
 
 # How Intermittent Fasting Affects Liver Glycogen Rebuilding Differently in Women 58–66 vs. Men 60–68 With Prediabetes — Understanding Hormone-Sensitive Timing

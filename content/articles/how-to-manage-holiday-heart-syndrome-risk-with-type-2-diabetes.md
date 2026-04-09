@@ -10,6 +10,16 @@ primaryKeyword: holiday heart syndrome risk with type 2 diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - >-
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
+  - >-
+    simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
+  - >-
+    best-blood-sugar-monitoring-practices-during-the-holiday-season
   - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
   - >-

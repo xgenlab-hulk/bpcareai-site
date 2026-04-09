@@ -9,9 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd
+    low-sodium-soup-potassium-excipients
   - >-
-    a-vs-b-roasted-sweet-potatoes-vs-mashed-white-potatoes-for-seniors-with-stage-3-ckd
+    foods-raise-bp-hidden-causes-seniors
+  - >-
+    low-sodium-soup-potassium-chloride-ckdseniors
+  - >-
+    5-things-you-should-know-before-accepting-a-holiday-potluck-dish-if-you-re-on-a-low-potassium-renal-diet-at-age-74
+  - >-
+    best-low-sodium-high-potassium-side-dishes-for-adults-75-with-heart-failure-and-mild-cognitive-impairment-ready-in-under-20-minutes
 
   - >-
     the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors

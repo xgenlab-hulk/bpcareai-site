@@ -9,7 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    7-silent-signs-your-heart-s-struggling-during-winter-especially-if-you-re-a-woman-over-62-with-early-osteoarthritis
+    microvascular-coronary-reactivity-natural
+  - >-
+    what-are-the-earliest-ecg-clues-of-microvascular-angina-in-women-58-71-with-normal-coronary-angiograms-and-recurrent-chest-tightness
+  - >-
+    the-complete-guide-to-interpreting-your-cardiac-mri-stress-perfusion-scan-especially-if-you-have-microvascular-angina-and-normal-coronary-angiogram
+  - >-
+    coronary-microvascular-reactivity-natural-support
+  - >-
+    natural-support-for-coronary-microvascular-disease
   - heart-disease-symptoms-in-women-over-50-what-s-often-missed
   - >-
     7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily

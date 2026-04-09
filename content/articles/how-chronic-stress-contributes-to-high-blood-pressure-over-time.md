@@ -10,6 +10,16 @@ primaryKeyword: chronic stress and blood pressure in older adults
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    blood-pressure-and-kidney-health-what-seniors-need-to-know
+  - >-
+    why-blood-pressure-matters-even-if-you-feel-fine
+  - >-
+    how-stress-affects-blood-sugar-in-people-with-diabetes-over-50
+  - >-
+    why-sitting-too-long-raises-blood-pressure
+  - >-
+    the-link-between-sleep-apnea-and-high-blood-pressure-after-50
   - does-caffeine-raise-blood-pressure-after-age-60
   - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
   - heart-disease-and-chronic-kidney-disease-the-dangerous-connection

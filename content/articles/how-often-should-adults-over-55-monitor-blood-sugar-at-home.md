@@ -10,6 +10,16 @@ primaryKeyword: how often should seniors check blood sugar at home
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    best-blood-sugar-monitoring-practices-during-the-holiday-season
+  - >-
+    why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
+  - >-
+    a-vs-b-continuous-glucose-monitoring-cgm-vs-fingertip-glucose-testing-for-detecting-nocturnal-hypoglycemia-in-adults-75-on-basal-insulin
+  - >-
+    why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals
+  - >-
+    understanding-a1c-goals-for-seniors-with-diabetes
   - how-often-should-adults-over-50-check-their-blood-pressure
   - managing-diabetes-while-traveling-tips-for-seniors
   - can-intermittent-fasting-help-manage-type-2-diabetes-after-60

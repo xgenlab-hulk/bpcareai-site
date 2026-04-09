@@ -9,15 +9,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    how-cold-weather-induced-vasoconstriction-alters-renal-sympathetic-nerve-activity-in-adults-70-with-hypertension-and-mild-diastolic-dysfunction
-  - >-
     myths-vs-facts-salt-sensitivity-is-just-a-label-what-24-hour-urinary-sodium-excretion-and-genotyping-reveal-in-adults-59-72-with-stage-1-hypertension
   - >-
-    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
+    natural-sodium-excretion-without-diuretics
   - >-
-    natural-remedies-high-blood-pressure-chronic-kidney-disease
+    myths-vs-facts-salt-sensitivity-in-adults-74-with-long-standing-hypertension-why-82-of-salt-sensitive-diagnoses-are-based-on-outdated-protocols
   - >-
-    reverse-left-ventricular-hypertrophy-without-medication
+    myths-vs-facts-about-salt-sensitivity-after-60-why-3-000-mg-sodium-can-be-safe-or-harmful-depending-on-your-enac-genotype-and-gut-microbiome-profile
+  - >-
+    salt-sensitivity-myths-in-black-adults
 ---
 
 # Supporting Renal Sodium Excretion TRPV4 Activation in Adults 59–73: Gentle, Evidence-Informed Strategies for Salt-Sensitive Blood Pressure

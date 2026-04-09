@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     what-research-says-about-cranberry-sauce-fermentation-time-and-its-impact-on-postprandial-endothelial-function-in-adults-73-with-stage-1-hypertension
   - >-
-    the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement
-  - >-
-    how-alcohol-free-mocktails-can-lower-blood-pressure-in-women-over-55-during-new-year-s-gatherings
-  - >-
     the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
+  - >-
+    warning-signs-your-holiday-energy-drink-is-accelerating-arterial-stiffness-even-if-it-s-labeled-sugar-free-and-for-seniors
+  - >-
+    a-vs-b-warm-spiced-apple-cider-with-cinnamon-stick-vs-mulled-wine-impact-on-evening-endothelial-function-in-adults-59-71-with-metabolic-syndrome
 ---
 
 # Festive Drinks, Endothelial Function, and Hypertension: What Your Holiday Sip Really Does for Your Arteries

@@ -10,6 +10,16 @@ primaryKeyword: can bad posture affect your heart after 60
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    chest-pressure-memory-foam-couch
+  - >-
+    is-sitting-too-much-harming-your-heart-after-60
+  - >-
+    7-hidden-sleep-position-risks-that-worsen-pulmonary-congestion-in-adults-73-with-hfpef-and-mild-obstructive-sleep-apnea
+  - >-
+    heavy-legs-sitting-heart-strain-seniors
+  - >-
+    how-pets-support-heart-health-in-older-adults
   - how-retirement-changes-affect-heart-health
   - how-pets-support-heart-health-in-older-adults
   - how-sleep-affects-heart-health-after-50

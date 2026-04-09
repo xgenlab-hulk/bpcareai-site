@@ -10,6 +10,16 @@ primaryKeyword: low fiber constipation with calcium supplements seniors
 topicCluster: natural-remedies
 image: ''
 relatedSlugs:
+  - >-
+    when-to-worry-about-post-holiday-constipation-in-adults-72-with-chronic-opioid-use-and-low-fiber-diet-history
+  - >-
+    post-holiday-constipation-travel-circadian-seniors
+  - >-
+    what-causes-sudden-morning-constipation-after-holiday-turkey-gravy-consumption-in-adults-74-with-low-gastrin-and-delayed-colonic-transit
+  - >-
+    prevent-post-holiday-constipation-naturally
+  - >-
+    quick-ways-to-restore-post-holiday-gut-motility-in-adults-73-with-chronic-constipation-and-polypharmacy
   - 10-high-fiber-holiday-foods-that-support-digestion-after-50
   - >-
     how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors

@@ -9,6 +9,16 @@ primaryKeyword: holiday foods heart failure seniors avoid
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    7-hidden-sodium-traps-in-healthy-looking-holiday-salads-that-worsen-fluid-retention-in-adults-74-with-mild-heart-failure
+  - >-
+    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - >-
+    can-you-eat-traditional-stuffing-safely-with-stage-2-heart-failure-a-sodium-content-breakdown
+  - >-
+    holiday-foods-blood-sugar-bp-seniors-70
+  - >-
+    when-to-worry-about-sudden-swelling-after-thanksgiving-dinner-in-adults-70-with-heart-failure-and-diuretic-resistant-edema
   - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
   - >-

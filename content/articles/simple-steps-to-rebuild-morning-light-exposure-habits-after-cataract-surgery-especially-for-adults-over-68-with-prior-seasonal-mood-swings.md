@@ -15,11 +15,11 @@ relatedSlugs:
   - >-
     how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood
   - >-
-    a-vs-b-bright-light-therapy-at-7-a-m-vs-5-p-m-for-older-adults-with-advanced-sleep-phase-syndrome
-  - >-
     sunlight-exposure-and-circadian-blood-pressure
   - >-
-    simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
+    top-5-light-therapy-lamps-recommended-by-geriatric-therapists-for-seniors
+  - >-
+    a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension
 ---
 
 # Gentle Ways to Restore Morning Light Exposure After Cataract Surgery—Especially for Adults Over 68 With Seasonal Mood Swings

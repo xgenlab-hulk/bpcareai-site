@@ -12,6 +12,14 @@ image: ''
 relatedSlugs:
   - >-
     how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
+  - >-
+    the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies
+  - >-
+    how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
+  - >-
+    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
+  - >-
+    12-smart-swaps-to-manage-blood-sugar-during-holiday-meals
   - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
   - >-
     how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health

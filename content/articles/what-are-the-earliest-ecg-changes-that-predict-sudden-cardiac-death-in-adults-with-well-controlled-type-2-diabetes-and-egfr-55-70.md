@@ -13,7 +13,13 @@ relatedSlugs:
   - >-
     warning-signs-your-stable-diabetes-is-masking-early-diabetic-cardiomyopathy-even-with-normal-ejection-fraction-and-no-symptoms-in-adults-59-68
   - >-
-    what-are-the-earliest-biomarkers-of-holiday-induced-cardiac-strain-in-adults-with-stage-3a-ckd-a-nephrocardiology-perspective
+    warning-signs-that-your-continuous-glucose-monitor-is-detecting-early-diabetic-cardiomyopathy-not-just-glycemic-variability
+  - >-
+    silent-electrical-heart-deterioration-signs
+  - >-
+    warning-signs-your-holiday-weight-gain-is-accelerating-diabetic-kidney-hyperfiltration-even-before-egfr-drops
+  - >-
+    what-are-the-earliest-ecg-signs-of-left-atrial-myopathy-before-afib-or-elevated-nt-probnp-in-adults-59-with-long-standing-hypertension-and-normal-echo
   - how-to-manage-holiday-heart-syndrome-risk-with-type-2-diabetes
   - >-
     warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71

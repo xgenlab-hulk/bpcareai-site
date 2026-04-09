@@ -9,15 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    why-does-heart-rate-variability-decline-after-65-and-what-simple-breathing-protocols-can-restore-it-without-medication
+  - >-
+    normalize-heart-rate-variability-after-alcohol
+  - >-
     nighttime-heart-rate-variability-environmental-triggers
   - >-
     a-deep-dive-into-sleep-apnea-screening-gaps-why-your-normal-oxygen-saturation-doesn-t-rule-out-cardiac-strain-in-women-over-60
   - >-
-    how-sleep-disordered-breathing-severity-ahi-15-alters-nocturnal-bp-recovery-in-adults-66-82-with-normal-looking-daytime-readings
-  - >-
     nocturnal-bp-dip-sleep-apnea-mild-cognitive-impairment
-  - >-
-    what-causes-morning-bp-surges-in-adults-57-69-with-untreated-sleep-apnea-even-when-cpap-use-is-good-enough
 ---
 
 # Why Does Your Morning Heart Rate Variability Look Normal When You Feel Exhausted Every Day After 55?

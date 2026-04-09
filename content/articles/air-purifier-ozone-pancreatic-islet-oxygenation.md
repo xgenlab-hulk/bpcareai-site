@@ -14,6 +14,10 @@ relatedSlugs:
     mitochondrial-biogenesis-beta-cells-diabetes
   - >-
     beta-cell-resilience-spring-allergies-type-1
+  - >-
+    how-indoor-air-quality-changes-during-winter-affect-fasting-glucose-in-adults-65-with-type-2-diabetes
+  - >-
+    how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55
 ---
 
 # Could Your Air Purifier’s Ionizer Be Affecting Pancreatic Islet Oxygenation? Understanding Air Purifier Ozone and Diabetes Health in Adults 70+

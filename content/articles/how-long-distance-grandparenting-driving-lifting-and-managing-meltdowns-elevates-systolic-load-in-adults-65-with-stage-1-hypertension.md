@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    video-call-blood-pressure-spike-family
+  - >-
+    the-complete-guide-to-managing-blood-pressure-while-caring-for-a-spouse-with-dementia-stress-resilience-sleep-fragmentation-and-medication-adherence-trade-offs-in-adults-65-79
+  - >-
+    storytelling-blood-pressure-sympathetic-balance
+  - >-
+    blood-pressure-caregiver-parkinsons-spouse
+  - >-
     how-does-long-haul-flight-duration-affect-systolic-blood-pressure-variability-in-adults-68-82-with-white-coat-hypertension
-  - >-
-    how-hearing-aid-use-correlates-with-3-year-systolic-bp-trajectory-in-adults-74-86-with-bilateral-sensorineural-hearing-loss
-  - >-
-    can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
-  - >-
-    post-exercise-blood-pressure-rebound-in-elderly
-  - >-
-    how-holiday-stress-triggers-nighttime-blood-pressure-spikes-in-adults-65-with-sleep-apnea-and-mild-cognitive-decline
 ---
 
 # How Long-Distance Grandparenting Impacts Systolic Blood Pressure in Adults 65+ With Stage 1 Hypertension

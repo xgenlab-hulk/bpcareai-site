@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    insulin-sensitivity-without-exercise-elderly
+    does-daily-10-minute-cold-water-face-immersion-improve-first-phase-insulin-secretion-in-adults-58-65-with-prediabetes-and-normal-weight
   - >-
-    does-daily-8-minute-cold-water-hand-immersion-really-lower-24-hour-mean-arterial-pressure-in-adults-68-with-mild-hypertension-and-raynaud-s-phenomenon
+    cold-water-face-immersion-insulin-sensitivity
+  - >-
+    insulin-sensitivity-without-exercise-elderly
   - >-
     how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
   - >-
-    cold-exposure-and-paroxysmal-afib-in-elderly
-  - >-
-    can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension
+    cold-water-face-immersion-vagal-tone-glucose
 ---
 
 # Can a Daily 4-Minute Cold Shower Boost Insulin Signaling in Adults Aged 55–67 With Abdominal Obesity and Prediabetes?

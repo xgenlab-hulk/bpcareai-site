@@ -10,6 +10,16 @@ primaryKeyword: taurine and B6 for heart rhythm stiffness
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    12-science-backed-ways-to-reduce-left-atrial-stiffness-within-6-weeks-for-adults-61-76-with-paroxysmal-afib-and-elevated-la-strain-index
+  - >-
+    foods-heart-rhythm-afib-64
+  - >-
+    natural-ways-to-support-arterial-stiffness-reduction-in-8-12-weeks-using-targeted-flavonoid-timing-and-pulse-wave-velocity-feedback-in-adults-64-80
+  - >-
+    best-supplements-for-improving-arterial-distensibility-in-men-61-77-with-hypertension-and-low-serum-magnesium-rbc-levels-4-2-mg-dl
+  - >-
+    reduce-left-ventricular-stiffness-without-medication
 
   - >-
     12-science-backed-ways-to-reduce-left-atrial-stiffness-within-6-weeks-for-adults-61-76-with-paroxysmal-afib-and-elevated-la-strain-index

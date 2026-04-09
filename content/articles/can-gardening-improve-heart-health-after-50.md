@@ -8,6 +8,16 @@ primaryKeyword: 'gardening and heart health benefits after age 50'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    does-laughter-really-protect-your-heart-after-50
+  - >-
+    how-much-exercise-do-you-need-to-reduce-heart-disease-risk-after-65
+  - >-
+    can-mindfulness-meditation-reduce-heart-disease-risk-after-50
+  - >-
+    can-meditation-reduce-heart-disease-risk-after-50
+  - >-
+    can-you-safely-resume-gardening-after-an-icd-implant-a-safety-first-guide-for-adults-73-with-reduced-ejection-fraction
   - can-meditation-reduce-heart-disease-risk-after-50
   - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
   - how-retirement-changes-affect-heart-health

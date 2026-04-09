@@ -8,6 +8,16 @@ primaryKeyword: can high blood pressure damage my brain silently
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
+  - >-
+    10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63
+  - >-
+    why-blood-pressure-matters-even-if-you-feel-fine
+  - >-
+    foods-for-central-bp-and-cognitive-blood-flow
+  - >-
+    myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
+  - >-
+    what-are-the-earliest-signs-of-cerebral-autoregulation-failure-in-adults-68-with-long-standing-hypertension-and-white-matter-hyperintensities
   - why-blood-pressure-matters-even-if-you-feel-fine
   - >-
     myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65

@@ -10,6 +10,16 @@ primaryKeyword: A1c limitations for seniors with diabetes
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    myths-vs-facts-normal-postprandial-glucose-in-adults-75-why-140-mg-dl-after-meals-predicts-3-2x-higher-dementia-risk-even-with-perfect-a1c
+  - >-
+    7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
+  - >-
+    fasting-glucose-myth-postprandial-risk
+  - >-
+    postprandial-glucose-timing-gastroparesis-seniors
+  - >-
+    normalize-postprandial-glucose-within-45-minutes
   - understanding-a1c-goals-for-seniors-with-diabetes
   - >-
     cgm-interpretation-early-dementia-diabetes

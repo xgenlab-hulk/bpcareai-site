@@ -11,15 +11,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    10-foods-that-stabilize-cardiac-ion-channels-during-alcohol-exposure-for-adults-62-75-with-lqt2-variant-and-holiday-related-syncope
+    low-sodium-soup-potassium-excipients
   - >-
-    mitochondrial-biogenesis-heart-natural
+    7-hidden-electrolyte-shifts-that-happen-during-holiday-cooking-and-how-they-trigger-atrial-fibrillation-in-adults-60-with-mild-hypokalemia
   - >-
-    reduce-left-ventricular-stiffness-without-medication
+    best-low-sodium-high-potassium-side-dishes-for-adults-75-with-heart-failure-and-mild-cognitive-impairment-ready-in-under-20-minutes
   - >-
-    natural-ways-to-support-renal-sodium-excretion-via-trpv4-channel-activation-for-adults-59-73-with-salt-sensitive-hypertension-and-low-urinary-citrate
+    natural-sodium-excretion-without-diuretics
   - >-
-    reverse-left-ventricular-hypertrophy-without-medication
+    5-things-everyone-over-70-should-know-about-alcohol-free-holiday-punch-especially-if-taking-ace-inhibitors-or-arbs
 ---
 
 # Natural Ways to Strengthen Sodium-Potassium Pump Resilience — Especially After Diuretics & Holiday Indulgences

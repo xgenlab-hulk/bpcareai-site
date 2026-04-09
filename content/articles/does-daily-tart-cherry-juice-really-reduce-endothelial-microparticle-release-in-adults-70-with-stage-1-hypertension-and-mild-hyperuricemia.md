@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    festive-drinks-endothelial-function-hypertension
-  - >-
-    what-research-says-about-cranberry-sauce-fermentation-time-and-its-impact-on-postprandial-endothelial-function-in-adults-73-with-stage-1-hypertension
+    natural-ways-to-support-endothelial-repair-after-acute-hypertensive-crisis-for-adults-65-with-prior-bp-220-120-and-microalbuminuria
   - >-
     tart-cherry-juice-vs-melatonin-for-blood-pressure
   - >-
-    natural-ways-to-support-endothelial-repair-after-acute-hypertensive-crisis-for-adults-65-with-prior-bp-220-120-and-microalbuminuria
+    quercetin-and-hypertensive-retinopathy-microvascular
   - >-
-    natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
+    how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65
+  - >-
+    natural-sodium-excretion-without-diuretics
 ---
 
 # Can Tart Cherry Juice Endothelial Microparticles Help Support Vascular Health in Adults 70+ With Mild High Blood Pressure and Elevated Uric Acid?

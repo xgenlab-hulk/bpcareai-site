@@ -17,7 +17,9 @@ relatedSlugs:
   - >-
     how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
   - >-
-    how-gut-derived-trimethylamine-n-oxide-tmao-alters-vascular-smooth-muscle-phenotype-transition-in-adults-68-82-with-hypertension-and-low-fiber-diets
+    how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors
+  - >-
+    how-chronic-constipation-increases-24-hour-systolic-blood-pressure-in-women-67-82-and-what-to-do-about-it
 
 ---
 

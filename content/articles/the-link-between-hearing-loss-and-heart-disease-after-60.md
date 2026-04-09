@@ -10,6 +10,16 @@ primaryKeyword: is hearing loss connected to heart disease after 60
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    can-hearing-loss-be-an-early-sign-of-heart-disease
+  - >-
+    what-research-says-about-hearing-loss-as-an-early-biomarker-of-vascular-aging-in-men-over-75
+  - >-
+    the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70
+  - >-
+    blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
+  - >-
+    how-hearing-aid-use-correlates-with-3-year-systolic-bp-trajectory-in-adults-74-86-with-bilateral-sensorineural-hearing-loss
   - can-hearing-loss-be-an-early-sign-of-heart-disease
   - how-social-isolation-increases-heart-disease-risk-after-60
   - heart-disease-and-chronic-kidney-disease-the-dangerous-connection

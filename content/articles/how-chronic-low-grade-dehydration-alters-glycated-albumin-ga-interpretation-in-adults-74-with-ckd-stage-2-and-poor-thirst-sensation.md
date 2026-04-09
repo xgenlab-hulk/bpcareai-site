@@ -8,6 +8,16 @@ primaryKeyword: why is my glycated albumin high if blood sugar is okay
 topicCluster: renal-health
 image: ''
 relatedSlugs:
+  - >-
+    how-chronic-low-grade-dehydration-alters-renal-glucose-reabsorption-in-adults-72-with-stage-2-ckd-and-well-controlled-a1c
+  - >-
+    how-dehydration-affects-blood-sugar-readings-in-older-diabetics
+  - >-
+    a1c-reliability-with-low-albumin
+  - >-
+    myths-vs-facts-my-diabetes-is-under-control-because-my-a1c-is-6-8-why-that-number-lies-in-adults-77-with-anemia-and-chronic-kidney-disease
+  - >-
+    fasting-glucose-ckd-stage-3a-diabetes
   - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
   - >-
     how-chronic-low-grade-dehydration-alters-taste-bud-sensitivity-and-drives-holiday-sugar-cravings-in-adults-over-68

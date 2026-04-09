@@ -8,6 +8,16 @@ primaryKeyword: 'how does meditation reduce heart disease risk after 50'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    can-mindfulness-meditation-reduce-heart-disease-risk-after-50
+  - >-
+    can-meditation-lower-blood-pressure-naturally
+  - >-
+    how-much-exercise-do-you-need-to-reduce-heart-disease-risk-after-65
+  - >-
+    the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
+  - >-
+    can-heart-disease-be-reversed-with-lifestyle-changes-after-50
   - can-gardening-improve-heart-health-after-50
   - can-strength-training-lower-heart-disease-risk-after-60
   - can-meditation-lower-blood-pressure-naturally

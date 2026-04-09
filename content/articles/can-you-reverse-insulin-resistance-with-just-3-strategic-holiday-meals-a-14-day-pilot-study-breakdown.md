@@ -8,6 +8,16 @@ primaryKeyword: 'can strategic holiday meals improve insulin resistance'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    5-science-backed-ways-to-reduce-holiday-related-insulin-resistance
+  - >-
+    myths-vs-facts-eating-light-at-holiday-dinners-prevents-glucose-spikes-in-adults-62-with-insulin-resistance
+  - >-
+    strategic-snacking-before-holiday-gatherings
+  - >-
+    natural-ways-to-support-post-meal-insulin-sensitivity-without-supplements-for-adults-53-67-with-early-stage-pcos-and-holiday-weight-gain
+  - >-
+    weekday-intermittent-fasting-holidays
   - 5-science-backed-ways-to-reduce-holiday-related-insulin-resistance
   - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food

@@ -8,6 +8,16 @@ primaryKeyword: 'foods that boost nitric oxide for stiff arteries'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    12-foods-that-delay-endothelial-senescence-not-just-lower-bp-including-black-garlic-extract-germinated-brown-rice-and-low-age-roasted-chickpeas-for-adults-60
+  - >-
+    natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
+  - >-
+    improve-endothelial-function-without-exercise
+  - >-
+    improve-endothelial-function-quickly
+  - >-
+    nrf2-activating-foods-microvascular-angina-elders
 
   - >-
     10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina

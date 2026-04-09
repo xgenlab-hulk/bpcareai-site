@@ -10,6 +10,16 @@ primaryKeyword: holiday eating myths for adults over 50
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
+  - >-
+    myths-vs-facts-holiday-eating-with-diabetes-after-50
+  - >-
+    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - >-
+    simple-steps-to-balance-comfort-foods-and-nutrition-during-holiday-meals
+  - >-
+    seniors-living-alone-holiday-party-preparedness
   - myths-vs-facts-holiday-eating-with-diabetes-after-50
   - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
   - the-truth-about-cheating-on-your-diet-during-family-celebrations

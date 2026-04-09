@@ -8,6 +8,16 @@ primaryKeyword: 'snacks to prevent blood sugar crash after parties'
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry
+  - >-
+    diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
+  - >-
+    why-your-holiday-energy-crash-may-be-postprandial-hypoglycemia-not-just-fatigue-in-adults-50-59-with-reactive-hypoglycemia-history
+  - >-
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
+  - >-
+    the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
   - top-10-diabetes-friendly-snacks-for-people-over-60
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose

@@ -10,6 +10,14 @@ image: ''
 relatedSlugs:
   - >-
     7-silent-signs-your-feet-are-sending-early-warnings-of-diabetic-neuropathy-especially-if-you-ve-had-t2d-for-12-years
+  - >-
+    7-silent-signs-your-diabetic-neuropathy-is-progressing-to-small-fiber-autonomic-dysfunction-especially-if-you-re-67-and-taking-gabapentin
+  - >-
+    recognizing-silent-heart-attacks-in-diabetics-over-60
+  - >-
+    myths-vs-facts-i-don-t-need-to-check-my-feet-daily-because-i-still-feel-pain
+  - >-
+    diabetes-and-joint-pain-is-there-a-connection
   - recognizing-silent-heart-attacks-in-diabetics-over-60
   - >-
     7-silent-signs-your-feet-are-sending-early-warnings-of-diabetic-neuropathy-especially-if-you-ve-had-t2d-for-12-years

@@ -11,15 +11,15 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    blue-light-nocturnal-blood-pressure-dipping
-  - >-
     simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
   - >-
     smart-nightlight-nocturnal-sbp-elevation
   - >-
-    sunlight-vs-blue-blocking-glasses-blood-pressure-dip
+    morning-sunlight-vs-blue-light-blocking-seniors
   - >-
-    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
+    blue-light-nocturnal-blood-pressure-dipping
+  - >-
+    sunlight-exposure-and-circadian-blood-pressure
 ---
 
 # How Low-Blue-Light Lamps May Influence Renin, Melatonin, and Morning Systolic Pressure in Older Adults

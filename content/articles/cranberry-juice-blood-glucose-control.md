@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis
   - >-
-    does-cranberry-sauce-really-help-uti-prevention-in-women-over-65-separating-proanthocyanidin-efficacy-from-sugar-driven-biofilm-risk
+    does-your-family-s-homemade-cranberry-sauce-really-contain-less-sugar-than-store-bought-a-label-audit-of-47-recipes-used-by-adults-60-82
   - >-
-    what-research-says-about-cranberry-sauce-fermentation-time-and-its-impact-on-postprandial-endothelial-function-in-adults-73-with-stage-1-hypertension
+    gut-fungi-post-antibiotic-glucose-spikes
   - >-
-    cranberry-relish-vs-canned-sauce-gastroparesis
+    natural-ways-to-support-post-holiday-glucose-recovery-using-fenugreek-ceylon-cinnamon-and-tart-cherry-juice-dosed-for-adults-54-79
 ---
 
 # Does Cranberry Juice Affect Blood Glucose Control in Adults 71+ With Diabetes and Recurrent UTIs?

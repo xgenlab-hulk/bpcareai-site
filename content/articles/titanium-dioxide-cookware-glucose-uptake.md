@@ -9,7 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    air-pollution-pancreatic-mitochondria-diabetes
+  - >-
     fireplace-smoke-glucose-uptake-seniors-copd
+  - >-
+    foods-muscle-glucose-uptake-seniors-61
+  - >-
+    does-daily-45-minute-tai-chi-improve-postprandial-glucose-clearance-in-adults-65-80-with-type-2-diabetes-and-mild-knee-osteoarthritis
+  - >-
+    how-indoor-air-quality-changes-during-winter-affect-fasting-glucose-in-adults-65-with-type-2-diabetes
 
   - >-
     low-heat-cooking-polyphenols-diabetes

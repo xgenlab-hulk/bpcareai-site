@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     the-truth-about-heart-healthy-seed-oils-in-diabetic-dyslipidemia-do-linoleic-acid-rich-blends-actually-reduce-oxidized-ldl-in-adults-60-76
   - >-
+    seed-oils-and-endothelial-oxidative-stress
+  - >-
     myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio
   - >-
-    olive-oil-polyphenols-endothelial-repair-seniors
+    read-cholesterol-test-after-60
   - >-
-    flaxseed-oil-vs-ground-flaxseed-diabetes
-  - >-
-    does-adding-1-gram-of-ground-flaxseed-to-breakfast-lower-central-systolic-pressure-in-adults-56-69-with-hypertension-and-elevated-ldl-p
+    the-truth-about-heart-healthy-olive-oil-labels-why-extra-virgin-isn-t-enough-for-adults-72-with-advanced-carotid-plaque
 ---
 
 # What You Need to Know About Omega-6 Vegetable Oils, Oxidized LDL, and Heart Health in Adults 55–70

@@ -8,6 +8,16 @@ primaryKeyword: 'low glycemic holiday sides for prediabetes and constipation'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    10-high-fiber-holiday-foods-that-support-digestion-after-50
+  - >-
+    low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
+  - >-
+    best-low-insulin-burden-holiday-side-dishes-for-adults-75-with-severe-peripheral-neuropathy-and-slow-gastric-emptying
+  - >-
+    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
+  - >-
+    best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation
   - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
   - >-
     best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs

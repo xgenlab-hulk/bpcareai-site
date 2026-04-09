@@ -8,6 +8,16 @@ primaryKeyword: why heart disease spikes after menopause with normal LDL
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    why-does-heart-disease-progress-faster-in-women-after-menopause-and-what-hormone-modulated-endothelial-pathways-are-involved
+  - >-
+    how-menopause-affects-heart-disease-risk-in-women
+  - >-
+    why-women-s-heart-attack-symptoms-differ-after-menopause
+  - >-
+    heart-disease-symptoms-in-women-over-50-what-s-often-missed
+  - >-
+    why-older-women-are-more-vulnerable-to-winter-heart-events
   - how-menopause-affects-heart-disease-risk-in-women
   - why-older-women-are-more-vulnerable-to-winter-heart-events
   - why-women-s-heart-attack-symptoms-differ-after-menopause

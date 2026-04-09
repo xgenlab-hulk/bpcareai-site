@@ -9,15 +9,15 @@ topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
   - >-
-    what-causes-sudden-diastolic-drop-after-sitting-up-from-supine-in-adults-69-with-left-ventricular-hypertrophy-and-reduced-early-diastolic-filling
-  - >-
-    how-prolonged-sitting-during-remote-work-alters-splanchnic-vein-compliance-and-daytime-bp-variability-in-adults-52-64
-  - >-
-    how-chronic-constipation-triggers-nocturnal-hypertension-spikes-in-women-over-65-with-pelvic-floor-dysfunction
+    is-your-posture-affecting-your-heart-what-older-adults-should-know
   - >-
     lower-pulmonary-capillary-wedge-pressure-orthopnea
   - >-
-    does-taking-your-blood-pressure-while-sitting-cross-legged-really-raise-readings-what-2023-research-says-for-adults-58
+    how-prolonged-sitting-during-remote-work-alters-splanchnic-vein-compliance-and-daytime-bp-variability-in-adults-52-64
+  - >-
+    what-causes-sudden-diastolic-drop-after-sitting-up-from-supine-in-adults-69-with-left-ventricular-hypertrophy-and-reduced-early-diastolic-filling
+  - >-
+    heavy-legs-sitting-heart-strain-seniors
 ---
 
 # Why You Might Feel Chest Pressure on a Memory Foam Couch — Especially After 64

@@ -10,6 +10,16 @@ primaryKeyword: silent high blood sugar symptoms at holiday meals
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    7-silent-signs-your-blood-sugar-is-spiking-after-holiday-parties-especially-if-you-re-62-with-prediabetes-and-sedentary-habits
+  - >-
+    why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
+  - >-
+    7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
+  - >-
+    warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know
+  - >-
+    when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
   - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
   - 5-silent-signs-your-heart-is-struggling-in-cold-weather

@@ -10,6 +10,16 @@ primaryKeyword: sugar-free energy drinks and arterial stiffness
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors
+  - >-
+    7-silent-signs-your-holiday-eating-is-accelerating-arterial-stiffness-especially-if-you-re-68-with-normal-office-bp
+  - >-
+    the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
+  - >-
+    arterial-stiffness-foods-seniors-bp
+  - >-
+    warning-signs-your-holiday-dessert-plate-is-accelerating-arterial-stiffness-especially-if-you-re-on-beta-blockers-and-over-73
 
   - >-
     arterial-stiffness-reduction-without-nitrates

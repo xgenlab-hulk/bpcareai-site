@@ -10,6 +10,16 @@ primaryKeyword: belly fat and high blood pressure after 50
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    how-obesity-contributes-to-heart-disease-in-middle-age
+  - >-
+    the-link-between-sleep-apnea-and-high-blood-pressure-after-50
+  - >-
+    how-often-should-adults-over-50-check-their-blood-pressure
+  - >-
+    how-chronic-stress-contributes-to-high-blood-pressure-over-time
+  - >-
+    why-blood-pressure-matters-even-if-you-feel-fine
   - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
   - how-obesity-contributes-to-heart-disease-in-middle-age
   - the-link-between-sleep-apnea-and-high-blood-pressure

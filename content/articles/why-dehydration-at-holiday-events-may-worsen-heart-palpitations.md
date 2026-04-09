@@ -10,6 +10,16 @@ primaryKeyword: dehydration and heart palpitations holidays
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
+  - >-
+    12-evidence-based-hydration-strategies-to-prevent-holiday-heart-syndrome-in-adults-62-with-mild-dehydration-induced-qt-prolongation
+  - >-
+    quick-ways-to-calm-a-racing-heart-during-a-holiday-event
+  - >-
+    the-truth-about-benign-holiday-palpitations-are-they-really-harmless
+  - >-
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - >-
+    warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
   - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties

@@ -10,6 +10,16 @@ primaryKeyword: fasting blood sugar rises during holidays
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    5-easy-morning-routines-to-stabilize-blood-sugar-after-a-holiday-feast
+  - >-
+    skipping-breakfast-holiday-hyperglycemia-seniors
+  - >-
+    what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners
+  - >-
+    how-holiday-stress-hormones-disrupt-overnight-glucose-recovery-in-adults-58-69-with-prediabetes
+  - >-
+    holiday-sleep-fragmentation-fasting-glucose-men
   - how-cold-weather-affects-blood-sugar-in-people-with-diabetes
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
   - how-menopause-affects-blood-sugar-control-in-women-with-diabetes

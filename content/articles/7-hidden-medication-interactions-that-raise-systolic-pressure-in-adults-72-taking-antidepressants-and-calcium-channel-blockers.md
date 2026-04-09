@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    could-your-medications-be-raising-your-blood-pressure
+    14-medications-that-lower-blood-pressure-indirectly-from-antidepressants-to-antipsychotics-and-why-that-matters-for-frail-seniors
+  - >-
+    5-things-everyone-over-75-should-know-about-blood-pressure-medication-timing-especially-if-you-take-a-diuretic-and-a-calcium-channel-blocker
+  - >-
+    7-hidden-medication-interactions-that-raise-blood-pressure-after-age-60-including-common-antidepressants-antihistamines-and-topical-nsaids
   - >-
     what-causes-sudden-onset-of-palpitations-after-starting-a-new-antidepressant-in-adults-66-with-long-standing-hypothyroidism
   - >-
-    could-your-medications-be-raising-your-blood-pressure
-  - >-
-    could-your-medications-be-raising-your-blood-pressure
-  - >-
-    could-your-medications-be-raising-your-blood-pressure
+    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
 ---
 
 # What You Should Know About Antidepressant Calcium Channel Blocker Interaction and Blood Pressure in Older Adults

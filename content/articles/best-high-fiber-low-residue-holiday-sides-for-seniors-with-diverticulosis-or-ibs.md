@@ -8,6 +8,16 @@ primaryKeyword: 'high-fiber low-residue holiday sides for seniors'
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
+  - >-
+    best-low-residue-high-fiber-side-dishes-for-adults-75-with-diverticular-disease-and-mild-cognitive-impairment-no-chopping-required
+  - >-
+    best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
+  - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
+  - >-
+    best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation
+  - >-
+    10-high-fiber-holiday-foods-that-support-digestion-after-50
   - 10-high-fiber-holiday-foods-that-support-digestion-after-50
   - >-
     best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods

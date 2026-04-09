@@ -10,15 +10,15 @@ topicCluster: complications-management
 image: ''
 relatedSlugs:
   - >-
+    how-alcohol-metabolism-changes-after-age-55-and-why-that-raises-holiday-heart-syndrome-risk-in-adults-55-69-with-mild-liver-steatosis
+  - >-
     how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin
   - >-
-    what-research-says-about-intermittent-fasting-from-christmas-eve-to-new-year-s-day-for-adults-with-stable-type-2-diabetes-over-62
+    can-intermittent-fasting-help-manage-type-2-diabetes-after-60
   - >-
-    time-restricted-eating-hepatic-insulin-sensitivity
+    enhance-hepatic-insulin-clearance-natural
   - >-
-    can-intermittent-fasting-worsen-orthostatic-hypotension-in-adults-72-with-long-standing-type-2-diabetes
-  - >-
-    how-late-night-cookie-binges-alter-hepatic-gluconeogenesis-rhythms-in-adults-58-66-with-prediabetes-and-why-it-matters-for-fasting-glucose-stability
+    can-intermittent-fasting-reverse-prediabetes-in-adults-50-59-with-non-alcoholic-fatty-liver-disease-what-the-2024-rcts-say
 ---
 
 # How Intermittent Fasting Alcohol Metabolism Changes in Older Adults With Diabetes — And What It Means for Your Liver

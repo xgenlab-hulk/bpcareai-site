@@ -10,6 +10,16 @@ primaryKeyword: heart attack symptoms in women after menopause
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
+  - >-
+    heart-disease-symptoms-in-women-over-50-what-s-often-missed
+  - >-
+    why-older-women-are-more-vulnerable-to-winter-heart-events
+  - >-
+    why-heart-disease-risk-skyrockets-in-women-58-67-within-3-years-after-menopause-even-with-normal-cholesterol
+  - >-
+    why-arm-pain-shouldn-t-be-ignored-in-women-over-50
+  - >-
+    how-menopause-affects-heart-disease-risk-in-women
   - heart-disease-symptoms-in-women-over-50-what-s-often-missed
   - why-arm-pain-shouldn-t-be-ignored-in-women-over-50
   - what-are-the-first-signs-of-holiday-heart-syndrome-in-women

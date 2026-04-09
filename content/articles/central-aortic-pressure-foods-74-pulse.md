@@ -8,6 +8,16 @@ primaryKeyword: central aortic pressure foods 74 pulse
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    foods-for-central-bp-and-cognitive-blood-flow
+  - >-
+    foods-stabilize-pulse-pressure-seniors-orthostasis
+  - >-
+    simple-steps-to-lower-central-aortic-pressure-in-just-7-days-using-only-a-kitchen-scale-a-stopwatch-and-your-morning-tea-ritual
+  - >-
+    central-aortic-pressure-foods-90-min
+  - >-
+    quick-ways-to-normalize-morning-pulse-pressure-without-increasing-medication-in-adults-70-83-with-aortic-stiffness-and-orthostatic-dizziness
   - 5-foods-that-lower-central-aortic-systolic-pressure-without-reducing-brachial-diastolic-for-adults-70-with-wide-pulse-pressure-and-mild-cognitive-impairment
   - 10-foods-that-stabilize-systolic-diastolic-gap-without-lowering-overall-bp-for-adults-69-with-wide-pulse-pressure-and-preserved-cognitive-function
   - 10-foods-that-lower-central-aortic-systolic-pressure-within-90-minutes-backed-by-radial-artery-tonometry-data

@@ -9,9 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    cardiac-sarcoidosis-early-signs-av-block
+  - >-
     7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
   - >-
-    when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - >-
+    holiday-palpitations-cardiac-amyloidosis-red-flags
+  - >-
+    orthostatic-tachycardia-cardiac-sarcoidosis
   - what-are-the-first-signs-of-holiday-heart-syndrome-in-women
   - >-
     holiday-heart-syndrome-vs-acute-coronary-syndrome-key-differences-in-presentation-for-men-over-70

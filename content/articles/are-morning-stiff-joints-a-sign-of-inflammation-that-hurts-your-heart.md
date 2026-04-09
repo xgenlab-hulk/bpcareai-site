@@ -8,6 +8,16 @@ primaryKeyword: 'can morning joint stiffness be a sign of heart inflammation'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    the-connection-between-rheumatoid-arthritis-and-heart-disease
+  - >-
+    the-role-of-inflammation-in-heart-disease-for-older-adults
+  - >-
+    natural-ways-to-reduce-post-holiday-joint-stiffness-in-adults-64-81-with-osteoarthritis-and-high-resolution-crp-elevation
+  - >-
+    how-chronic-low-grade-inflammation-drives-resistant-hypertension-in-adults-60-74-with-elevated-hs-crp-and-gum-recession
+  - >-
+    the-hidden-link-between-gum-disease-and-heart-problems
   - how-poor-dental-hygiene-may-lead-to-heart-disease
   - the-hidden-link-between-gum-disease-and-heart-problems
   - the-impact-of-long-term-nsaid-use-on-heart-disease-risk

@@ -9,7 +9,15 @@ topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
   - >-
+    4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts
+  - >-
     the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies
+  - >-
+    how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
+  - >-
+    does-daily-2-minute-cold-exposure-face-immersion-improve-post-holiday-meal-satiety-signaling-in-adults-70-with-leptin-resistance
+  - >-
+    seniors-living-alone-holiday-party-preparedness
 
   - >-
     how-holiday-table-settings-affect-portion-control-in-adults-55-72-with-prediabetes

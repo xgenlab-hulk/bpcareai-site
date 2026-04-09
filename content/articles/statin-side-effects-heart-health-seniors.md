@@ -18,6 +18,8 @@ relatedSlugs:
     5-foods-that-support-mitochondrial-membrane-integrity-during-high-fat-holiday-meals-for-adults-65-with-statin-associated-myopathy
   - >-
     myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
+  - >-
+    testosterone-deficiency-muscle-glucose-uptake-men
   - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
 ---
 

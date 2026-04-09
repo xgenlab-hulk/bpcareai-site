@@ -8,6 +8,16 @@ primaryKeyword: 'high-fiber family dinner sides adults over 50'
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
+  - >-
+    the-ultimate-guide-to-stealth-fiber-additions-for-holiday-mashed-potatoes-stuffing-and-gravy-without-changing-taste-or-texture
+  - >-
+    the-role-of-fiber-in-controlling-blood-sugar-after-50
+  - >-
+    10-high-fiber-holiday-foods-that-support-digestion-after-50
+  - >-
+    best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods
+  - >-
+    how-fiber-rich-diets-support-heart-health-in-people-over-60
   - the-role-of-fiber-in-controlling-blood-sugar-after-50
   - a-guide-to-allergen-friendly-family-meals-for-mixed-diet-households
   - best-fruits-for-diabetics-over-50-and-which-to-limit

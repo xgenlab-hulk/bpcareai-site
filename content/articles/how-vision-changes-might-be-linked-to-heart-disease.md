@@ -10,6 +10,16 @@ primaryKeyword: can eye changes signal heart disease in older adults
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    what-are-the-earliest-retinal-microvascular-changes-predicting-incident-heart-failure-in-hypertensive-women-over-65
+  - >-
+    what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80
+  - >-
+    7-hidden-signs-your-blood-pressure-is-damaging-your-retina-especially-if-you-re-a-woman-over-67-with-no-headaches-or-vision-complaints
+  - >-
+    warning-signs-of-hypertensive-retinopathy-progression-that-appear-before-vision-changes-detected-via-smartphone-fundus-imaging-in-adults-71
+  - >-
+    10-silent-signs-your-blood-pressure-is-damaging-your-retina-even-with-controlled-readings-in-adults-63-with-type-2-diabetes
   - diabetes-and-vision-changes-what-seniors-need-to-know
   - can-hearing-loss-be-an-early-sign-of-heart-disease
   - how-frequent-urination-at-night-could-signal-heart-problems

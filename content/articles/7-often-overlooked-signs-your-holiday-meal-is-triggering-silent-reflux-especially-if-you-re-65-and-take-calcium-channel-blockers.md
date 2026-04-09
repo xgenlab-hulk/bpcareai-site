@@ -8,6 +8,16 @@ primaryKeyword: 'silent reflux after holiday meals on BP medication'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    7-holiday-foods-that-trigger-silent-gastric-reflux-in-adults-65-even-without-heartburn
+  - >-
+    what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
+  - >-
+    12-science-backed-ways-to-reduce-post-family-meal-gastric-reflux-within-20-minutes-for-adults-59-with-silent-gerd-and-mild-hiatal-hernia
+  - >-
+    simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd
+  - >-
+    7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
   - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
   - >-
     7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62

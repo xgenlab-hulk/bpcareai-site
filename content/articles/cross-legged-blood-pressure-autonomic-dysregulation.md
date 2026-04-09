@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     does-taking-your-blood-pressure-while-sitting-cross-legged-really-raise-readings-what-2023-research-says-for-adults-58
   - >-
-    what-are-the-earliest-signs-of-autonomic-failure-masquerading-as-labile-hypertension-in-adults-70-with-parkinson-s-disease-and-orthostatic-intolerance
-  - >-
-    post-exercise-blood-pressure-rebound-in-elderly
-  - >-
-    when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
-  - >-
     blood-pressure-drops-walking-diabetes-neuropathy
+  - >-
+    what-are-the-earliest-signs-of-diabetic-autonomic-neuropathy-in-men-68-before-orthostatic-hypotension-or-gastroparesis-appear
+  - >-
+    fatigue-after-meals-diabetes-elderly
+  - >-
+    what-are-the-earliest-signs-of-autonomic-failure-masquerading-as-labile-hypertension-in-adults-70-with-parkinson-s-disease-and-orthostatic-intolerance
 ---
 
 # When Cross-Legged Blood Pressure Readings Hide Autonomic Dysregulation in Adults 61+ With Early Diabetes

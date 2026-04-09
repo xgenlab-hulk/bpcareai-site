@@ -10,6 +10,16 @@ primaryKeyword: mocktails that lower blood pressure for women 55+
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    best-non-alcoholic-holiday-drinks-for-heart-health-after-50
+  - >-
+    the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
+  - >-
+    blood-pressure-and-alcohol-how-much-is-too-much
+  - >-
+    foods-lower-blood-pressure-naturally-53-68
+  - >-
+    5-things-every-adult-53-64-with-newly-diagnosed-hypertension-should-know-before-attending-their-first-post-diagnosis-holiday-party
   - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
   - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
   - >-

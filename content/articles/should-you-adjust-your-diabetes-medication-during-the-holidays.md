@@ -10,6 +10,16 @@ primaryKeyword: adjusting diabetes medication during holidays
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    myths-vs-facts-holiday-eating-with-diabetes-after-50
+  - >-
+    holiday-medication-management-what-to-do-when-schedules-get-disrupted
+  - >-
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - >-
+    is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
+  - >-
+    the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
   - best-blood-sugar-monitoring-practices-during-the-holiday-season
   - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
   - >-

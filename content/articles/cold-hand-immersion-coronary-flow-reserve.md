@@ -9,15 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    microvascular-coronary-reactivity-natural
-  - >-
     coronary-microvascular-reactivity-natural-support
   - >-
     microvascular-coronary-reactivity-natural
   - >-
+    a-vs-b-daily-10-minute-resistance-band-workouts-vs-brisk-walking-for-improving-coronary-flow-reserve-in-adults-63-with-nonobstructive-cad
+  - >-
     does-daily-8-minute-cold-water-hand-immersion-really-lower-24-hour-mean-arterial-pressure-in-adults-68-with-mild-hypertension-and-raynaud-s-phenomenon
   - >-
-    can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
+    coronary-flow-foods-microvascular-57
 ---
 
 # Can Cold Hand Immersion Coronary Flow Reserve Help Adults With Stable Angina and No Blocked Arteries?

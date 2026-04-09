@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    masked-hypertension-job-stress-adults-55-64
+  - >-
     when-to-suspect-secondary-hypertension-from-subclinical-primary-aldosteronism-in-adults-55-64-with-resistant-hypertension-and-normal-potassium
   - >-
     7-silent-signs-your-blood-pressure-is-spiking-at-night-even-if-your-daytime-readings-look-normal
   - >-
-    7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-re-on-beta-blockers-and-over-65
+    how-morning-blood-pressure-spikes-affect-your-heart
   - >-
     7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
-  - >-
-    white-coat-hypertension-emergency-room-adults-68
 ---
 
 # Recognizing Masking-Secondary-Hypertension-Symptoms in Midlife: What ‘Mild’ Blood Pressure Elevation Might Really Be Telling You

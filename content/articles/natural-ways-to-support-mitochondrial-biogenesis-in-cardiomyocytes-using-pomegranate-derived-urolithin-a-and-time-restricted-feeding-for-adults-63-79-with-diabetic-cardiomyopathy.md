@@ -8,6 +8,16 @@ primaryKeyword: foods heart healing after heart attack 69
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    natural-cardiac-fibroblast-stabilization-post-mi
+  - >-
+    foods-cardiac-fibroblast-quiescence-seniors
+  - >-
+    foods-heart-rhythm-afib-64
+  - >-
+    atrial-stabilizing-foods-holiday-heart
+  - >-
+    heart-rate-recovery-foods-seniors-bp
 
   - >-
     natural-ways-to-support-cardiac-connexin-43-expression-without-medication-evidence-from-7-clinical-trials-in-adults-60-79

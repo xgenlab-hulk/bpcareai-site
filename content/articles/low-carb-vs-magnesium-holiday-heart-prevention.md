@@ -11,15 +11,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    hawthorn-vs-magnesium-holiday-heart
-  - >-
-    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
-  - >-
-    can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history
+    natural-autonomic-stabilization-holiday-heart
   - >-
     10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
   - >-
-    intermittent-fasting-diastolic-dysfunction-hr
+    natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
+  - >-
+    hawthorn-vs-magnesium-holiday-heart
+  - >-
+    top-6-stress-reduction-techniques-to-protect-your-heart-this-holiday
 ---
 
 # Low-Carb vs Magnesium Holiday Heart Prevention: Which 3-Day Strategy Supports Your Heart Best Before Festivities?

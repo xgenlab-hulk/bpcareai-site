@@ -8,6 +8,16 @@ primaryKeyword: 'PPI use atrial fibrillation risk seniors GERD'
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
+  - >-
+    when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use
+  - >-
+    warning-signs-of-secondary-hypertension-you-might-miss-if-you-re-57-69-and-taking-proton-pump-inhibitors-long-term
+  - >-
+    pom-inhibitors-atherosclerosis-gut-microbiome
+  - >-
+    how-chronic-nighttime-cough-from-untreated-gerd-triggers-nocturnal-atrial-fibrillation-in-men-70-with-mild-copd
+  - >-
+    the-link-between-atrial-fibrillation-and-heart-disease-in-seniors
   - the-link-between-atrial-fibrillation-and-heart-disease-in-seniors
   - is-metformin-still-safe-for-diabetics-over-70
   - the-impact-of-long-term-nsaid-use-on-heart-disease-risk

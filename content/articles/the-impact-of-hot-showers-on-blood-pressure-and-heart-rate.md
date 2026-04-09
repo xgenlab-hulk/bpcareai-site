@@ -10,6 +10,16 @@ primaryKeyword: do hot showers affect blood pressure in older adults
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    when-to-worry-about-blood-pressure-drops-during-hot-showers-especially-in-adults-75-with-carotid-sinus-hypersensitivity-and-prior-falls
+  - >-
+    why-your-blood-pressure-reading-drops-after-a-10-minute-cold-shower-and-when-that-s-actually-dangerous-for-adults-68
+  - >-
+    what-causes-blood-pressure-to-spike-during-morning-showering-in-adults-62-78-with-autonomic-neuropathy-and-orthostatic-hypotension
+  - >-
+    why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72
+  - >-
+    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
   - the-science-backed-benefits-of-warm-baths-for-heart-circulation-in-seniors
   - the-hidden-dangers-of-indoor-heating-on-blood-pressure
   - >-

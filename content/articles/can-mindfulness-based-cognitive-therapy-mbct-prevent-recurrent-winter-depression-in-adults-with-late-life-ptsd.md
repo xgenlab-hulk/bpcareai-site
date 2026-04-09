@@ -10,6 +10,14 @@ image: ''
 relatedSlugs:
   - >-
     can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
+  - >-
+    what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter
+  - >-
+    does-relocating-to-a-sunnier-climate-improve-seasonal-depression-after-70
+  - >-
+    quick-ways-to-lift-a-senior-s-mood-during-a-winter-blue-day
+  - >-
+    how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
   - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
   - does-relocating-to-a-sunnier-climate-improve-seasonal-depression-after-70
 ---

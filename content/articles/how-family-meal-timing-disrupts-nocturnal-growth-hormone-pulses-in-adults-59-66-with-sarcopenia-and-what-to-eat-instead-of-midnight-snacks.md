@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     how-late-afternoon-snacking-before-a-family-dinner-alters-ghrelin-leptin-rhythms-in-adults-with-sarcopenic-obesity-over-65
   - >-
-    holiday-sleep-fragmentation-fasting-glucose-men
+    5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
   - >-
-    5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily
+    preserve-muscle-mass-holiday-meals
   - >-
-    how-late-night-holiday-snacking-alters-circadian-clock-gene-expression-in-adults-60-69-with-shift-work-history-and-mild-sleep-apnea
+    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
   - >-
-    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
+    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
 ---
 
 # How Family Meal Timing Affects Growth Hormone, Muscle Health, and Sarcopenia in Adults 59–66

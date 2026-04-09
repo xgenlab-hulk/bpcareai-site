@@ -11,15 +11,15 @@ topicCluster: mental-health-stress
 image: ''
 relatedSlugs:
   - >-
-    intermittent-silence-central-aortic-pressure
-  - >-
-    when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
-  - >-
     aortic-pulse-wave-velocity-reduction
   - >-
-    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
+    walking-protocol-peripheral-artery-disease-elderly
   - >-
-    natural-ways-to-support-arterial-stiffness-reduction-in-8-12-weeks-using-targeted-flavonoid-timing-and-pulse-wave-velocity-feedback-in-adults-64-80
+    5-things-you-should-know-before-starting-a-heart-smart-walking-group-especially-if-you-re-78-with-spinal-stenosis-and-mild-aortic-stenosis
+  - >-
+    how-walking-speed-can-reflect-heart-health-and-blood-pressure
+  - >-
+    stairs-fitness-and-subclinical-ischemia
 ---
 
 # When to Check Your Pulse During a Walk: A Science-Guided Approach to Detecting Silent Ischemia in Adults 63+ with Intermittent Claudication — and Why Pulse Timing During Walking Silent Ischemia Matters

@@ -10,6 +10,16 @@ primaryKeyword: how to make store bought party food healthier
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
+  - >-
+    10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor
+  - >-
+    low-sodium-alternatives-for-classic-family-recipes-that-still-taste-great
+  - >-
+    best-low-sodium-swaps-for-classic-holiday-side-dishes-ranked-by-palatability-potassium-retention-and-ease-of-prep-for-caregivers-over-60
+  - >-
+    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - simple-steps-to-balance-comfort-foods-and-nutrition-during-holiday-meals
   - >-
     top-6-nutrient-dense-side-dishes-to-add-to-your-senior-friendly-holiday-table

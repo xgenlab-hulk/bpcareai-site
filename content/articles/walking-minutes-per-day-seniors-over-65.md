@@ -14,13 +14,13 @@ relatedSlugs:
   - >-
     start-walking-at-75-safely
   - >-
-    does-daily-10-minute-post-dinner-walking-really-lower-next-morning-fasting-glucose-in-adults-64-with-morning-only-hyperglycemia
+    exercise-at-65-weekly-plan
   - >-
-    simple-steps-to-adjust-your-insulin-to-carb-ratio-when-starting-a-new-walking-routine-if-you-re-70-and-on-rapid-acting-analogues
+    walk-cold-weather-after-70
   - >-
-    when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension
+    how-much-exercise-do-you-need-to-reduce-heart-disease-risk-after-65
   - >-
-    walking-vs-standing-post-dinner-glucose
+    strength-exercises-women-over-65
 ---
 
 # Walking Minutes Per Day for Seniors Over 65: What’s Right for You?

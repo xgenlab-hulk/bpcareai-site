@@ -8,6 +8,16 @@ primaryKeyword: CGM vs finger prick for nighttime low blood sugar
 topicCluster: medication-safety
 image: ''
 relatedSlugs:
+  - >-
+    cgms-vs-flash-glucose-monitoring-seniors-hypoglycemia
+  - >-
+    what-causes-persistent-morning-hypoglycemia-in-adults-75-on-basal-bolus-regimens-when-cgm-shows-no-nighttime-lows
+  - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
+  - >-
+    warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68
+  - >-
+    why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
 
   - >-
     a-vs-b-continuous-glucose-monitoring-cgm-vs-flash-glucose-monitoring-for-detecting-nocturnal-hypoglycemia-in-adults-with-autonomic-neuropathy

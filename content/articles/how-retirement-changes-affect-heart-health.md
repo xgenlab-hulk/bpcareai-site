@@ -10,6 +10,16 @@ primaryKeyword: how does retirement affect heart health
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    is-sitting-too-much-harming-your-heart-after-60
+  - >-
+    how-winter-depression-affects-heart-health-in-retired-adults
+  - >-
+    how-social-isolation-impacts-heart-disease-risk-in-older-adults
+  - >-
+    can-mindfulness-meditation-reduce-heart-disease-risk-after-50
+  - >-
+    can-meditation-reduce-heart-disease-risk-after-50
   - can-gardening-improve-heart-health-after-50
   - is-your-posture-affecting-your-heart-what-older-adults-should-know
   - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50

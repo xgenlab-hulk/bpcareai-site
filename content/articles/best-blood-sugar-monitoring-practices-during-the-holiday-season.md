@@ -8,6 +8,16 @@ primaryKeyword: 'blood sugar monitoring tips for diabetics during the holidays'
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - >-
+    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
+  - >-
+    the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
+  - >-
+    why-your-blood-sugar-might-be-higher-in-december-even-with-good-habits
+  - >-
+    should-you-adjust-your-diabetes-medication-during-the-holidays
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
   - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do

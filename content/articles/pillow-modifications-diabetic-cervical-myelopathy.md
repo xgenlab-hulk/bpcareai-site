@@ -9,15 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    7-hidden-sleep-position-risks-that-worsen-pulmonary-congestion-in-adults-73-with-hfpef-and-mild-obstructive-sleep-apnea
-  - >-
     lower-pulmonary-capillary-wedge-pressure-orthopnea
   - >-
-    normalize-nocturnal-blood-pressure-dipping
-  - >-
-    how-sleep-apnea-severity-modulates-insulin-clearance-in-adults-with-type-2-diabetes-and-bmi-30-a-mechanistic-breakdown-for-ages-54-71
-  - >-
     stabilize-overnight-glucose-without-insulin-adjustment
+  - >-
+    7-hidden-sleep-position-risks-that-worsen-pulmonary-congestion-in-adults-73-with-hfpef-and-mild-obstructive-sleep-apnea
+  - >-
+    nasal-breathing-baroreflex-diabetes
+  - >-
+    does-daily-5-minute-diaphragmatic-breathing-lower-postprandial-glucose-spikes-in-adults-64-with-high-lf-hf-ratio-and-type-2-diabetes
 ---
 
 # Smart Pillow Modifications for Adults 64+ With Diabetic Cervical Myelopathy and Orthopnea  

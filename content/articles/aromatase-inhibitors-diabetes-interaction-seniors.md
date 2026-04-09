@@ -9,11 +9,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    what-research-says-about-intermittent-fasting-for-women-over-65-with-postmenopausal-insulin-resistance-not-just-weight-loss
-  - >-
     aromatase-inhibitors-heart-microvascular-dysfunction
   - >-
-    pcos-diabetes-menopause-androgen-decline
+    how-menopause-affects-blood-sugar-control-in-women-with-diabetes
+  - >-
+    why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
+  - >-
+    inhaled-steroids-gluconeogenesis-diabetes
+  - >-
+    the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors
 
 ---
 

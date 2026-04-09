@@ -8,6 +8,16 @@ primaryKeyword: 'diabetes dementia caregiver management guide'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    diabetes-management-intergenerational-hosting
+  - >-
+    the-complete-guide-to-managing-blood-pressure-while-caring-for-a-spouse-with-dementia-stress-resilience-sleep-fragmentation-and-medication-adherence-trade-offs-in-adults-65-79
+  - >-
+    cgm-interpretation-early-dementia-diabetes
+  - >-
+    10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit
+  - >-
+    how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
 
   - >-
     diabetes-management-dementia-caregiver

@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     5-things-every-adult-53-64-with-newly-diagnosed-hypertension-should-know-before-attending-their-first-post-diagnosis-holiday-party
   - >-
-    quick-fix-for-postprandial-hypotension-seniors
+    myths-vs-facts-healthy-eating-during-family-celebrations
+  - >-
+    7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-adults-72-with-isolated-systolic-hypertension-and-what-to-serve-instead
   - >-
     7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62
   - >-
-    when-to-worry-about-post-meal-dizziness-after-christmas-dinner-in-adults-65-with-diabetes-and-orthostatic-hypotension
-  - >-
-    12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry
+    how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65
 ---
 
 # Can You Host Holiday Dinner with New High Blood Pressure? (Stress-Free Guide for Ages 55-63)

@@ -9,7 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    10-foods-that-stabilize-postprandial-glucose-variability-in-adults-64-with-gastroparesis-and-type-2-diabetes
+    stabilize-fasting-glucose-without-lowering
+  - >-
+    why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
+  - >-
+    normalize-fasting-glucose-without-skipping-dinner
+  - >-
+    stabilize-morning-glucose-without-insulin
+  - >-
+    skipping-breakfast-holiday-hyperglycemia-seniors
 
   - >-
     holiday-foods-stabilize-blood-glucose-during-meal

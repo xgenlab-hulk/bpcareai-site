@@ -10,6 +10,16 @@ primaryKeyword: holiday eating myths for diabetics over 50
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - >-
+    should-you-adjust-your-diabetes-medication-during-the-holidays
+  - >-
+    simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
+  - >-
+    how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
+  - >-
+    myths-vs-facts-healthy-eating-during-family-celebrations
   - the-truth-about-cheating-on-your-diet-during-family-celebrations
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
   - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes

@@ -8,6 +8,16 @@ primaryKeyword: 'healthy ingredient swaps for family recipes'
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
+  - >-
+    low-sodium-alternatives-for-classic-family-recipes-that-still-taste-great
+  - >-
+    5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
+  - >-
+    heart-healthy-casserole-swaps-seniors
+  - >-
+    quick-ways-to-make-store-bought-party-foods-healthier-before-serving
+  - >-
+    what-to-do-when-your-family-doesn-t-support-your-healthy-eating-choices
   - 7-smart-swaps-for-healthier-holiday-meals-after-65
   - 12-smart-swaps-to-manage-blood-sugar-during-holiday-meals
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose

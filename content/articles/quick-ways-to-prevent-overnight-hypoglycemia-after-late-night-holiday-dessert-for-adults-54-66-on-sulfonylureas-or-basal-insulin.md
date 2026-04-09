@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - >-
-    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
+    holiday-medication-holiday-myths-facts
   - >-
-    quick-ways-to-counteract-dinner-lunch-gap-hypoglycemia-in-adults-72-with-type-2-diabetes-gastroparesis-like-symptoms-and-long-overnight-fasts
+    holiday-baking-sulfonylureas-safety
   - >-
-    post-dinner-snack-glucose-spike-prevention
+    5-things-everyone-over-70-should-know-about-sulfonylureas-especially-if-they-live-alone-and-take-them-daily
   - >-
-    simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone
+    when-to-worry-about-morning-hypoglycemia-in-adults-74-taking-basal-insulin-and-polypharmacy-especially-with-concurrent-sglt2-inhibitor-use
 ---
 
 # Smart Strategies to Prevent Overnight Hypoglycemia After Holiday Dessert — For Adults 54–66 on Sulfonylureas or Basal Insulin

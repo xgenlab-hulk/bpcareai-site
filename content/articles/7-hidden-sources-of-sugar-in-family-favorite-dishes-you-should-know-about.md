@@ -8,6 +8,16 @@ primaryKeyword: 'hidden sugar in family favorite dishes after 50'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control
+  - >-
+    7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
+  - >-
+    7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish
+  - >-
+    the-link-between-family-food-traditions-and-chronic-disease-risk
+  - >-
+    hidden-salt-10-surprising-foods-that-spike-blood-pressure
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
   - hidden-salt-10-surprising-foods-that-spike-blood-pressure
   - best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat

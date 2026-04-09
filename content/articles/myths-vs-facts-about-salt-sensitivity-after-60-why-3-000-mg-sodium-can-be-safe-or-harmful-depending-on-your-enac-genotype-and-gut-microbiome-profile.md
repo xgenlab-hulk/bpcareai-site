@@ -10,6 +10,16 @@ primaryKeyword: is salt sensitivity genetic or gut related after 60
 topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
+  - >-
+    how-gut-microbiome-diversity-at-baseline-predicts-6-month-bp-response-to-dietary-sodium-restriction-in-adults-59-77-with-salt-sensitive-hypertension
+  - >-
+    what-research-says-about-gut-microbiome-diversity-and-salt-sensitivity-in-adults-67-with-normal-bmi-but-persistent-nighttime-hypertension
+  - >-
+    myths-vs-facts-salt-sensitivity-in-black-adults-over-55-what-genetics-renal-sodium-handling-and-social-determinants-really-explain
+  - >-
+    salt-sensitivity-myths-in-black-adults
+  - >-
+    myths-vs-facts-salt-sensitivity-in-adults-74-with-long-standing-hypertension-why-82-of-salt-sensitive-diagnoses-are-based-on-outdated-protocols
   - salt-sensitivity-myths-older-adults-gut-microbiome
   - salt-sensitivity-myths-in-black-adults
   - >-

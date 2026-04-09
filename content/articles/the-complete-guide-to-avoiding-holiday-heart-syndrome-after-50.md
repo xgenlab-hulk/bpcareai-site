@@ -10,6 +10,16 @@ primaryKeyword: how to prevent holiday heart syndrome after 50
 topicCluster: special-populations
 image: ''
 relatedSlugs:
+  - >-
+    the-hidden-link-between-holiday-stress-and-irregular-heartbeat
+  - >-
+    is-holiday-heart-syndrome-reversible-what-science-says
+  - >-
+    7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
+  - >-
+    atrial-fibrillation-vs-holiday-heart-syndrome-key-differences-everyone-should-know
+  - >-
+    the-truth-about-benign-holiday-palpitations-are-they-really-harmless
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
   - can-meditation-reduce-heart-disease-risk-after-50

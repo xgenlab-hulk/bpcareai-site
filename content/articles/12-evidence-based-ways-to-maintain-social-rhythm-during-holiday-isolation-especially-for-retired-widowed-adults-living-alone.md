@@ -8,6 +8,16 @@ primaryKeyword: 'staying connected during holiday isolation for seniors'
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
+  - >-
+    how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70
+  - >-
+    what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter
+  - >-
+    quick-ways-to-lift-a-senior-s-mood-during-a-winter-blue-day
+  - >-
+    how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60
+  - >-
+    natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
   - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
   - >-
     the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone

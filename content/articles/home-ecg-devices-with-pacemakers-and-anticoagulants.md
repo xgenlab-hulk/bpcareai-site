@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     chest-ecg-devices-air-travel-pacemaker-dependent
   - >-
-    5-things-everyone-over-75-should-know-about-using-continuous-glucose-monitors-with-pacemakers-or-icds
+    home-bp-cuff-with-ecg-for-afib-seniors
   - >-
-    warning-signs-your-normal-ecg-may-miss-early-arrhythmogenic-cardiomyopathy-in-adults-55-66-with-unexplained-syncope-and-family-history-of-scd
+    home-ecg-patch-interpretation-for-seniors
   - >-
-    the-ultimate-guide-to-interpreting-home-blood-pressure-logs-for-adults-65-with-intermittent-atrial-fibrillation-and-variable-readings
+    home-blood-pressure-cuff-afib-algorithm-errors
   - >-
-    ecg-patch-vs-holter-asymptomatic-afib
+    warning-signs-your-blood-pressure-monitor-is-giving-false-readings-especially-if-you-re-71-with-atrial-fibrillation-and-irregular-pulse
 ---
 
 # What Everyone Over 72 Needs to Know About Home ECG Devices With Pacemakers and Anticoagulants

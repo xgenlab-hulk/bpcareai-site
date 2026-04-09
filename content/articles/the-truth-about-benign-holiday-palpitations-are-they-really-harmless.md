@@ -10,6 +10,16 @@ primaryKeyword: holiday heart palpitations after drinking
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
+  - >-
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - >-
+    quick-ways-to-calm-a-racing-heart-during-a-holiday-event
+  - >-
+    is-holiday-heart-syndrome-reversible-what-science-says
+  - >-
+    atrial-fibrillation-vs-holiday-heart-syndrome-key-differences-everyone-should-know
+  - >-
+    post-dinner-palpitations-holiday-heart-syndrome
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
   - when-to-worry-about-palpitations-after-christmas-dinner
   - can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes

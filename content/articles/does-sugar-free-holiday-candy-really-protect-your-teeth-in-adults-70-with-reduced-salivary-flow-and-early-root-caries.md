@@ -10,6 +10,14 @@ image: ''
 relatedSlugs:
   - >-
     are-sugar-free-treats-actually-safe-for-diabetics-over-65
+  - >-
+    what-causes-sudden-dry-mouth-during-holiday-dessert-consumption-in-adults-75-with-sj-gren-s-syndrome-and-xerostomia-related-dysphagia
+  - >-
+    the-truth-about-sugar-free-cough-drops-for-adults-with-type-1-diabetes-over-60-do-sugar-alcohols-like-isomalt-raise-blood-glucose
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
+  - >-
+    the-truth-about-sugar-free-holiday-cookies-for-adults-with-stage-2-ckd-and-preserved-egfr
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - >-
     are-sugar-free-treats-actually-safe-for-diabetics-over-65

@@ -10,6 +10,16 @@ primaryKeyword: low glycemic holiday side dishes for diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    7-hidden-blood-sugar-triggers-in-healthy-holiday-side-dishes-like-sweet-potato-casserole-and-cranberry-relish
+  - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
+  - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-type-2-diabetes-and-osteoarthritis-no-standing-or-chopping-required
+  - >-
+    7-holiday-foods-that-spike-postprandial-glucose-without-tasting-sweet-especially-for-adults-63-with-long-standing-type-2-diabetes
+  - >-
+    7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
   - 12-smart-swaps-to-manage-blood-sugar-during-holiday-meals
   - 10-heart-healthy-swaps-for-traditional-holiday-dishes-after-50

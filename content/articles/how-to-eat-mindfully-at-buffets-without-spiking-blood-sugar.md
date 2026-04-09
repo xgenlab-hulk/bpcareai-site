@@ -10,6 +10,16 @@ primaryKeyword: mindful eating buffet blood sugar control
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies
+  - >-
+    how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
+  - >-
+    simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
+  - >-
+    12-smart-swaps-to-manage-blood-sugar-during-holiday-meals
+  - >-
+    healthy-holiday-buffet-glycemic-traps
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
   - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose

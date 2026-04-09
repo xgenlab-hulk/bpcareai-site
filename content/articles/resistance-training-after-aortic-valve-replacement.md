@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    resistance-training-left-ventricular-hypertrophy
-  - >-
-    is-it-safe-to-use-saunas-after-a-recent-myocardial-infarction-guidelines-for-men-62-71-based-on-2024-aha-consensus
-  - >-
-    seated-resistance-band-hypertension-elderly
-  - >-
     best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
   - >-
-    cold-face-immersion-baroreflex-seniors
+    resistance-training-left-ventricular-hypertrophy
+  - >-
+    post-exercise-systolic-surge-quick-fix
+  - >-
+    weight-training-after-retinal-laser-treatment-seniors
+  - >-
+    is-it-safe-to-use-saunas-after-a-recent-myocardial-infarction-guidelines-for-men-62-71-based-on-2024-aha-consensus
 ---
 
 # Safe Resistance Training After Aortic Valve Replacement: Evidence-Based Guidance for Adults 67+

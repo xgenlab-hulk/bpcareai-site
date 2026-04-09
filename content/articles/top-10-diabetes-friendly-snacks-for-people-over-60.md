@@ -10,6 +10,16 @@ primaryKeyword: diabetes-friendly snacks for adults over 60
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
+  - >-
+    blood-sugar-friendly-foods-seniors
+  - >-
+    healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s
+  - >-
+    best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
+  - >-
+    best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
   - healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s
   - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65

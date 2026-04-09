@@ -11,7 +11,15 @@ topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
   - >-
+    portion-distortion-family-dinner-prediabetes
+  - >-
+    portion-control-strategies-for-large-family-meals-that-work
+  - >-
     how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65
+  - >-
+    how-intergenerational-plate-sharing-during-thanksgiving-dinner-elevates-postprandial-glucose-spikes-in-adults-62-with-prediabetes
+  - >-
+    how-intergenerational-plate-sharing-grandparent-grandchild-parent-disrupts-glycemic-buffering-in-adults-59-64-with-new-onset-insulin-resistance
   - portion-control-strategies-for-large-family-meals-that-work
 
   - >-

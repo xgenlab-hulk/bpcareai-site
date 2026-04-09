@@ -10,6 +10,16 @@ primaryKeyword: sudden thirst dry mouth prediabetes signs over 60
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    sudden-thirst-holiday-travel-prediabetes
+  - >-
+    what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners
+  - >-
+    7-silent-signs-your-blood-sugar-is-spiking-after-holiday-parties-especially-if-you-re-62-with-prediabetes-and-sedentary-habits
+  - >-
+    when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
+  - >-
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
   - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
   - >-
     7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60

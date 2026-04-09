@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     a-vs-b-daily-10-minute-resistance-band-routine-vs-twice-weekly-bodyweight-circuit-for-improving-insulin-sensitivity-in-sedentary-adults-59-71
   - >-
-    does-daily-45-minute-tai-chi-improve-postprandial-glucose-clearance-in-adults-65-80-with-type-2-diabetes-and-mild-knee-osteoarthritis
+    natural-ways-to-improve-glucose-uptake-in-skeletal-muscle-without-exercise-for-adults-79-with-severe-osteoarthritis-bedrest-or-post-hip-replacement
   - >-
-    5-things-every-man-over-68-with-low-testosterone-and-type-2-diabetes-should-know-about-muscle-protein-synthesis-and-glucose-uptake
+    weekday-intermittent-fasting-holidays
   - >-
-    insulin-sensitivity-without-exercise-elderly
+    exercise-timing-fasting-glucose-variability
 ---
 
 # Can Daily Resistance Band Training Lower Fasting Glucose in Older Adults with Sarcopenic Obesity?

@@ -10,6 +10,16 @@ primaryKeyword: what does heart rate variability tell you
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    how-chronic-loneliness-alters-heart-rate-variability-in-adults-65-and-why-that-predicts-5-year-cardiovascular-mortality-risk
+  - >-
+    why-does-heart-rate-variability-decline-after-65-and-what-simple-breathing-protocols-can-restore-it-without-medication
+  - >-
+    5-things-every-man-over-55-should-know-about-normal-morning-heart-rate-variability-especially-with-untreated-mild-sleep-disordered-breathing
+  - >-
+    cold-face-immersion-vs-vagus-humming-hrvar
+  - >-
+    could-your-heartbeats-per-minute-predict-longevity
   - understanding-blood-pressure-numbers
   - when-to-worry-about-high-readings
   - can-deep-breathing-exercises-lower-heart-disease-risk

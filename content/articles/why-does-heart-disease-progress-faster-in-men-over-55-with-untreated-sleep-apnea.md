@@ -10,6 +10,16 @@ primaryKeyword: sleep apnea heart disease risk men over 55
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
+  - >-
+    the-link-between-sleep-apnea-and-high-blood-pressure-after-50
+  - >-
+    how-sleep-affects-heart-health-after-50
+  - >-
+    can-sleep-duration-predict-heart-disease-risk-after-55
+  - >-
+    how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
+  - >-
+    when-to-worry-about-just-tired-after-stair-climbing-in-men-60-67-with-untreated-mild-obstructive-sleep-apnea-and-normal-ejection-fraction
   - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
   - how-obesity-contributes-to-heart-disease-in-middle-age
   - the-link-between-sleep-apnea-and-high-blood-pressure

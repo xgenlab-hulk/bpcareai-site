@@ -9,15 +9,15 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
+    resistance-band-training-fasting-glucose-elderly
+  - >-
+    a-vs-b-daily-10-minute-resistance-band-routine-vs-twice-weekly-bodyweight-circuit-for-improving-insulin-sensitivity-in-sedentary-adults-59-71
+  - >-
+    natural-ways-to-improve-glucose-uptake-in-skeletal-muscle-without-exercise-for-adults-79-with-severe-osteoarthritis-bedrest-or-post-hip-replacement
+  - >-
     insulin-sensitivity-without-exercise-elderly
   - >-
-    how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
-  - >-
-    social-dancing-glycemic-variability-orthostatic-hypotension
-  - >-
-    best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
-  - >-
-    strength-training-peripheral-neuropathy-seniors
+    reduce-hba1c-without-weight-loss
 ---
 
 # Can Resistance Band Training and Hba1c in Seniors Improve Blood Sugar—Even Without Weight Loss?

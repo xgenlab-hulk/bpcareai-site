@@ -10,6 +10,16 @@ primaryKeyword: why alcohol hits harder after 55 holiday heart risk
 topicCluster: special-populations
 image: ''
 relatedSlugs:
+  - >-
+    how-holiday-alcohol-consumption-triggers-atrial-fibrillation-in-adults-55-with-subclinical-left-atrial-enlargement-even-without-binge-drinking
+  - >-
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - >-
+    why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
+  - >-
+    the-truth-about-alcohol-and-heart-disease-is-one-drink-a-day-safe
+  - >-
+    holiday-heart-syndrome-and-sleep-architecture-how-fragmented-rem-cycles-amplify-arrhythmia-risk-in-adults-70-79-with-mild-osa
   - what-research-says-about-holiday-heart-syndrome-and-aging-hearts
   - >-
     how-holiday-alcohol-consumption-triggers-atrial-fibrillation-in-adults-55-with-subclinical-left-atrial-enlargement-even-without-binge-drinking

@@ -10,6 +10,16 @@ primaryKeyword: arm pain heart attack warning signs women over 50
 topicCluster: special-populations
 image: ''
 relatedSlugs:
+  - >-
+    heart-disease-symptoms-in-women-over-50-what-s-often-missed
+  - >-
+    why-women-s-heart-attack-symptoms-differ-after-menopause
+  - >-
+    why-older-women-are-more-vulnerable-to-winter-heart-events
+  - >-
+    7-silent-signs-your-heart-s-struggling-during-winter-especially-if-you-re-a-woman-over-62-with-early-osteoarthritis
+  - >-
+    why-heart-disease-risk-skyrockets-in-women-58-67-within-3-years-after-menopause-even-with-normal-cholesterol
   - heart-disease-symptoms-in-women-over-50-what-s-often-missed
   - how-silent-heart-attacks-differ-in-older-adults
   - recognizing-silent-heart-attacks-in-diabetics-over-60

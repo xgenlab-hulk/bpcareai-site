@@ -10,6 +10,16 @@ primaryKeyword: family history heart disease risk after 60
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    5-things-every-adult-50-59-with-family-history-of-early-hypertension-should-know-before-their-first-home-bp-log
+  - >-
+    how-type-2-diabetes-increases-heart-disease-risk-after-50
+  - >-
+    is-sitting-too-much-harming-your-heart-after-60
+  - >-
+    why-annual-heart-screenings-are-crucial-after-turning-60
+  - >-
+    the-complete-guide-to-interpreting-your-cardiac-ct-calcium-score-if-you-re-60-and-have-no-symptoms-but-a-family-history-of-early-heart-attacks
   - is-sitting-too-much-harming-your-heart-after-60
   - how-social-isolation-increases-heart-disease-risk-after-60
   - why-annual-heart-screenings-are-crucial-after-turning-60

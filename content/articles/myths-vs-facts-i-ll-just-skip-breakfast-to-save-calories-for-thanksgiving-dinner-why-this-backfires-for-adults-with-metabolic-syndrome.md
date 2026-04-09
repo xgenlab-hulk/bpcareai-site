@@ -10,6 +10,16 @@ primaryKeyword: skip breakfast before Thanksgiving metabolic syndrome
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    skipping-breakfast-holiday-hyperglycemia-seniors
+  - >-
+    quick-ways-to-reduce-postprandial-bp-surge-after-high-glycemic-breakfasts-for-adults-55-71-with-insulin-resistance-and-elevated-post-meal-nefa
+  - >-
+    7-hidden-blood-sugar-spikes-you-re-unknowingly-causing-at-thanksgiving-dinner-and-how-to-prevent-them-without-skipping-pie
+  - >-
+    dangers-of-skipping-breakfast-on-new-year-s-day-especially-if-you-re-on-basal-insulin-and-over-70
+  - >-
+    skip-breakfast-holiday-calories-myth
   - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
   - >-
     the-ultimate-guide-to-pre-loading-your-plate-before-a-family-feast-a-3-step-strategy-for-adults-with-metabolic-syndrome

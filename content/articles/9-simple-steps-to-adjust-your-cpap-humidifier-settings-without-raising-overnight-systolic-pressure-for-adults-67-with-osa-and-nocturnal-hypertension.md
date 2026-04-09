@@ -10,6 +10,14 @@ image: ''
 relatedSlugs:
   - >-
     how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62
+  - >-
+    what-causes-morning-bp-surges-in-adults-57-69-with-untreated-sleep-apnea-even-when-cpap-use-is-good-enough
+  - >-
+    home-cuff-vs-ambulatory-nocturnal-hypertension
+  - >-
+    how-sleep-disordered-breathing-severity-ahi-15-alters-nocturnal-bp-recovery-in-adults-66-82-with-normal-looking-daytime-readings
+  - >-
+    how-chronic-nighttime-mouth-breathing-during-cpap-therapy-elevates-pulmonary-artery-pressure-in-adults-70-with-mild-osa-and-preserved-ef
 
   - >-
     home-bp-cuff-calibration-in-high-humidity

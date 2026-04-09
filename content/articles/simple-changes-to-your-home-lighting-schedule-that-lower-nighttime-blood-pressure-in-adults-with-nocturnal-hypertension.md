@@ -10,6 +10,16 @@ primaryKeyword: home lighting to lower nighttime blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    smart-nightlight-nocturnal-sbp-elevation
+  - >-
+    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
+  - >-
+    low-blue-light-lamps-renin-morning-systolic-pressure
+  - >-
+    blue-light-nocturnal-blood-pressure-dipping
+  - >-
+    sunlight-vs-blue-blocking-glasses-blood-pressure-dip
   - the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
   - >-
     a-vs-b-bright-light-therapy-at-7-a-m-vs-5-p-m-for-older-adults-with-advanced-sleep-phase-syndrome

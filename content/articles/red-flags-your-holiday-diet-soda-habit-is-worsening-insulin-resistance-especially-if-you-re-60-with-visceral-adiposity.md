@@ -8,6 +8,16 @@ primaryKeyword: does diet soda worsen insulin resistance after 60
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors
+  - >-
+    warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks
+  - >-
+    5-science-backed-ways-to-reduce-holiday-related-insulin-resistance
+  - >-
+    sugar-free-desserts-gut-health-seniors
+  - >-
+    can-you-reverse-insulin-resistance-with-just-3-strategic-holiday-meals-a-14-day-pilot-study-breakdown
   - the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors
   - >-
     warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks

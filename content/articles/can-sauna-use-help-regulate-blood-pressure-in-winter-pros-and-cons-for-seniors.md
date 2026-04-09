@@ -8,6 +8,16 @@ primaryKeyword: 'is sauna safe for blood pressure in seniors in winter'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    sauna-use-with-ace-inhibitors-seniors
+  - >-
+    does-daily-4-minute-sauna-exposure-really-improve-coronary-flow-reserve-in-adults-69-with-endothelial-dysfunction-and-no-structural-heart-disease
+  - >-
+    the-impact-of-hot-showers-on-blood-pressure-and-heart-rate
+  - >-
+    when-to-worry-about-blood-pressure-drops-during-hot-showers-especially-in-adults-75-with-carotid-sinus-hypersensitivity-and-prior-falls
+  - >-
+    the-hidden-dangers-of-indoor-heating-on-blood-pressure
   - blood-pressure-management-for-sedentary-seniors-in-winter-months
   - the-best-indoor-exercises-for-blood-pressure-control-in-winter
   - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know

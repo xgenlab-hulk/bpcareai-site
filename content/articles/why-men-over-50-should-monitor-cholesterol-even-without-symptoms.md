@@ -10,6 +10,16 @@ primaryKeyword: cholesterol screening for men over 50 without symptoms
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
+  - >-
+    read-cholesterol-test-after-60
+  - >-
+    myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old
+  - >-
+    can-high-cholesterol-cause-heart-disease-even-with-normal-blood-pressure
+  - >-
+    high-cholesterol-fatigue-after-35
+  - >-
+    why-annual-heart-screenings-are-crucial-after-turning-60
   - why-blood-pressure-matters-even-if-you-feel-fine
   - how-silent-heart-attacks-differ-in-older-adults
   - why-arm-pain-shouldn-t-be-ignored-in-women-over-50

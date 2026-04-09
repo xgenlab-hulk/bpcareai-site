@@ -10,6 +10,16 @@ primaryKeyword: do hearing aids help lower blood pressure in seniors
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    7-hidden-ways-your-hearing-aid-s-bluetooth-streaming-affects-baroreceptor-sensitivity-especially-during-morning-blood-pressure-spikes-in-adults-73
+  - >-
+    blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
+  - >-
+    hearing-aids-baroreflex-sensitivity-diastolic-dysfunction
+  - >-
+    the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70
+  - >-
+    what-research-says-about-hearing-loss-as-an-early-biomarker-of-vascular-aging-in-men-over-75
   - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - >-
     how-social-isolation-alters-baroreflex-sensitivity-and-elevates-24-hour-sbp-by-7-11-mmhg-in-men-living-alone-over-75

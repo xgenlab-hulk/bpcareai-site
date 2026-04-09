@@ -8,6 +8,16 @@ primaryKeyword: 'silent signs of heart trouble in women during winter'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    why-older-women-are-more-vulnerable-to-winter-heart-events
+  - >-
+    5-silent-signs-your-heart-is-struggling-in-cold-weather
+  - >-
+    why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - >-
+    7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
+  - >-
+    heart-disease-symptoms-in-women-over-50-what-s-often-missed
   - 5-silent-signs-your-heart-is-struggling-in-cold-weather
   - why-older-women-are-more-vulnerable-to-winter-heart-events
   - what-are-the-first-signs-of-holiday-heart-syndrome-in-women

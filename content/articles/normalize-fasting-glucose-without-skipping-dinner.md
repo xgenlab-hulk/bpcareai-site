@@ -11,15 +11,15 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    normalize-postprandial-glucose-within-45-minutes
+    why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
   - >-
-    quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
+    stabilize-morning-glucose-without-insulin
   - >-
-    stabilize-overnight-glucose-without-insulin-adjustment
+    how-late-night-cookie-binges-alter-hepatic-gluconeogenesis-rhythms-in-adults-58-66-with-prediabetes-and-why-it-matters-for-fasting-glucose-stability
   - >-
-    does-daily-10-minute-guided-breathing-before-dinner-lower-postprandial-glucose-in-adults-60-72-with-anxiety-related-hyperglycemia-and-gerd
+    post-dinner-snack-glucose-spike-prevention
   - >-
-    quick-ways-to-normalize-fasting-glucose-without-medication-in-adults-50-61-with-prediabetes-and-shift-work-history
+    skipping-breakfast-holiday-hyperglycemia-seniors
 ---
 
 # How to Normalize Fasting Glucose Without Skipping Dinner — A Gentle, Nighttime Strategy for Adults 60–73

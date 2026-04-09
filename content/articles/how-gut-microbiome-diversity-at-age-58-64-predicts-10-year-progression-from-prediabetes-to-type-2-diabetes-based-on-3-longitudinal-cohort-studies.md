@@ -11,7 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    can-prediabetes-be-reversed-after-age-50
+  - >-
     how-gut-microbiome-diversity-at-age-60-predicts-10-year-heart-failure-incidence-and-what-you-can-change-now
+  - >-
+    12-science-backed-ways-to-protect-your-gut-microbiome-from-antibiotic-induced-dysbiosis-if-you-re-managing-diabetes-and-over-64
+  - >-
+    how-gut-microbiota-diversity-predicts-24-hour-systolic-variability-in-adults-55-70-and-what-to-eat-to-stabilize-it
+  - >-
+    7-silent-signs-of-prediabetes-you-re-likely-ignoring-after-age-55-even-with-normal-a1c
   - how-sleep-apnea-impacts-type-2-diabetes-control-after-50
   - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
   - >-

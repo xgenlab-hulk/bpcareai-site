@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     reduce-left-ventricular-stiffness-without-medication
   - >-
-    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
-  - >-
-    reverse-left-ventricular-hypertrophy-without-medication
-  - >-
     guided-imagery-left-atrial-volume-afib-hypertension
   - >-
-    natural-ways-to-support-arterial-stiffness-reduction-in-8-12-weeks-using-targeted-flavonoid-timing-and-pulse-wave-velocity-feedback-in-adults-64-80
+    best-breathing-patterns-to-reduce-atrial-fibrillation-burden-in-adults-62-with-paroxysmal-af-and-elevated-hs-crp
+  - >-
+    post-meal-walking-atrial-stretch
+  - >-
+    left-atrial-appendage-flow-velocity-breathing
 ---
 
 # Heart Flutters or AFib Episodes Getting Worse? Why Atrial Stiffness Matters for Adults 61-76

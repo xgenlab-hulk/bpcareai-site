@@ -9,7 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
+    seniors-living-alone-holiday-party-preparedness
+  - >-
+    how-hearing-loss-alters-flavor-perception-and-drives-excessive-salt-use-at-holiday-meals-in-adults-79-with-presbycusis
+  - >-
+    how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
+  - >-
+    holiday-foods-blood-sugar-bp-seniors-70
+  - >-
+    how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
   - 5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
   - >-

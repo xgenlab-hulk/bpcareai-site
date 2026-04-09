@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     when-to-worry-about-holiday-induced-brain-fog-after-eating-especially-with-concurrent-ace-inhibitor-use-and-orthostatic-hypotension-in-adults-67
   - >-
-    when-to-suspect-orthostatic-hypertension-instead-of-hypotension-in-adults-77-with-recurrent-falls-and-why-your-bp-cuff-may-be-lying-to-you
+    when-to-worry-about-post-meal-dizziness-after-christmas-dinner-in-adults-65-with-diabetes-and-orthostatic-hypotension
   - >-
-    warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather
+    when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension
   - >-
-    fatigue-after-meals-diabetes-elderly
+    post-dinner-fatigue-orthostatic-hypotension
   - >-
-    quick-fix-for-postprandial-hypotension-seniors
+    what-are-the-safest-holiday-dessert-swaps-for-adults-80-with-severe-orthostatic-hypotension-and-nocturnal-polyuria
 ---
 
 # Is Your Holiday Energy Crash Orthostatic Hypotension? Recognizing the Real Cause in Adults 76+  

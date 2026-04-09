@@ -9,9 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+    how-holiday-stress-hormones-disrupt-overnight-glucose-recovery-in-adults-58-69-with-prediabetes
+  - >-
+    5-things-every-woman-over-62-should-know-about-holiday-cortisol-surges-and-their-impact-on-visceral-fat-redistribution-in-prediabetes
   - >-
     how-holiday-stress-cortisol-spikes-impair-glp-1-secretion-in-adults-64-with-obesity-and-prediabetes-and-why-mindful-breathing-beats-just-relax-advice
+  - >-
+    the-complete-guide-to-holiday-eating-for-adults-58-63-with-new-onset-prediabetes-and-high-functioning-careers
+  - >-
+    why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
   - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
   - >-
     how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes

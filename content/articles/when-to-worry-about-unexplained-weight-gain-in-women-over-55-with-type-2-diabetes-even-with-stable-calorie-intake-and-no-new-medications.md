@@ -10,6 +10,16 @@ primaryKeyword: unexplained weight gain women over 55 with diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    when-to-worry-about-unexplained-weight-gain-despite-calorie-restriction-in-adults-53-69-with-new-onset-type-2-diabetes-and-subclinical-hypothyroidism
+  - >-
+    7-hidden-sources-of-insulin-resistance-in-women-58-72-with-pcos-history-and-recent-weight-gain
+  - >-
+    why-older-women-gain-weight-faster-during-the-holidays-after-menopause
+  - >-
+    how-chronic-inflammation-worsens-type-2-diabetes-after-50
+  - >-
+    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
   - how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
   - >-
     why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner

@@ -11,9 +11,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    how-night-shift-work-after-age-50-rewires-circadian-genes-linked-to-coronary-artery-calcification
+  - >-
     nighttime-light-exposure-cardiac-clock-genes-elders
   - >-
-    how-night-shift-work-after-age-50-rewires-circadian-genes-linked-to-coronary-artery-calcification
+    natural-cardiac-fibroblast-stabilization-post-mi
+  - >-
+    how-gut-microbial-metabolites-e-g-tmao-indole-3-propionic-acid-predict-subclinical-myocardial-fibrosis-in-adults-59-75-with-metabolic-syndrome
+  - >-
+    what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history
   - can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
   - >-
     what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history

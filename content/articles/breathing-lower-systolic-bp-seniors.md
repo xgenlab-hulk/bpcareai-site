@@ -8,6 +8,16 @@ primaryKeyword: breathing technique lower systolic bp
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
+  - >-
+    quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety
+  - >-
+    quick-ways-to-lower-bp-within-90-minutes-using-guided-breathing-postural-sequencing-validated-in-emergency-department-triage-for-stage-1-hypertension
+  - >-
+    a-vs-b-3-minute-chair-yoga-vs-3-minute-guided-breath-hold-4-7-8-for-immediate-systolic-reduction-in-adults-71-with-anxiety-driven-hypertension
+  - >-
+    can-deep-breathing-exercises-reduce-high-blood-pressure
   - can-deep-breathing-exercises-reduce-high-blood-pressure
   - natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
   - quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85

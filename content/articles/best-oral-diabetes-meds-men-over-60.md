@@ -12,15 +12,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    best-fruits-for-diabetics-over-50-and-which-to-limit
-  - >-
-    best-low-impact-exercises-for-managing-diabetes-after-60
-  - >-
     is-metformin-still-safe-for-diabetics-over-70
+  - >-
+    can-intermittent-fasting-help-manage-type-2-diabetes-after-60
+  - >-
+    sulfonylurea-use-over-70-cyp2c9-decline
   - >-
     simple-steps-to-adjust-your-evening-insulin-regimen-after-starting-sglt2-inhibitors-especially-if-you-re-over-67-and-live-alone
   - >-
-    warning-signs-your-stable-diabetes-is-masking-early-cognitive-decline-especially-if-you-re-a-man-over-69-with-hba1c-6-8-7-4
+    safe-a1c-level-at-70
 ---
 
 # Best Oral Diabetes Meds for Men Over 60 — Safe & Effective

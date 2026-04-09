@@ -11,13 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season
+    how-cold-weather-affects-blood-sugar-in-people-with-diabetes
+  - >-
+    best-portable-glucose-monitors-for-holiday-travel-in-2024-ranked-by-accuracy-in-cold-weather-battery-life-and-tsa-friendly-design
   - >-
     how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
   - >-
-    a-vs-b-continuous-glucose-monitoring-cgm-vs-flash-glucose-monitoring-for-detecting-nocturnal-hypoglycemia-in-adults-with-autonomic-neuropathy
+    5-things-everyone-over-60-should-know-about-insulin-titration-during-winter-when-basal-needs-shift-due-to-reduced-cutaneous-blood-flow
   - >-
-    can-you-safely-use-a-continuous-glucose-monitor-while-wearing-holiday-sweaters-with-metallic-threads-or-magnetic-closures
+    top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season
   - how-cold-weather-affects-blood-sugar-in-people-with-diabetes
 ---
 

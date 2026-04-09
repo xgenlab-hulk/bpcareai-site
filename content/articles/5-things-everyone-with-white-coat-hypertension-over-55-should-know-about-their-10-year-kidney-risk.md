@@ -8,6 +8,16 @@ primaryKeyword: 'white coat hypertension kidney risk after 55'
 topicCluster: renal-health
 image: ''
 relatedSlugs:
+  - >-
+    the-truth-about-white-coat-resistance-why-some-adults-55-show-higher-bp-at-home-than-in-clinics-and-what-it-reveals-about-vascular-aging
+  - >-
+    white-coat-hypertension-emergency-room-adults-68
+  - >-
+    what-causes-white-coat-normotension-when-clinic-readings-are-normal-but-ambulatory-monitoring-shows-stage-1-hypertension-in-adults-61-75
+  - >-
+    masked-hypertension-job-stress-adults-55-64
+  - >-
+    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
   - why-blood-pressure-matters-even-if-you-feel-fine
   - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - blood-pressure-and-kidney-health-what-seniors-need-to-know

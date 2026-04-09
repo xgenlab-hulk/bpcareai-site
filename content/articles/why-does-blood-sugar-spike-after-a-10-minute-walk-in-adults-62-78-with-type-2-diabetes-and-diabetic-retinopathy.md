@@ -8,6 +8,16 @@ primaryKeyword: blood sugar goes up after walking with diabetes
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
+  - >-
+    what-causes-sudden-post-exercise-hyperglycemia-in-adults-55-67-with-newly-diagnosed-type-2-diabetes-and-elevated-cortisol-awakening-response
+  - >-
+    can-walking-after-meals-lower-blood-sugar-in-older-adults
+  - >-
+    quick-ways-to-normalize-post-exercise-glucose-spikes-in-adults-with-type-1-diabetes-using-pre-workout-caffeine-timing-and-carb-buffered-protein-snacks
+  - >-
+    a-vs-b-morning-walk-before-breakfast-vs-30-minutes-after-dinner-impact-on-24-hour-glucose-variability-in-adults-60-76-with-postprandial-hyperglycemia
+  - >-
+    post-exercise-blood-pressure-rebound-in-elderly
   - can-walking-after-meals-lower-blood-sugar-in-older-adults
   - >-
     why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner

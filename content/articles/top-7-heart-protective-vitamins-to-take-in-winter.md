@@ -10,6 +10,16 @@ primaryKeyword: heart-protective vitamins and supplements for winter
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:
+  - >-
+    how-vitamin-d-deficiency-impacts-heart-health-in-winter
+  - >-
+    what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
+  - >-
+    top-5-winter-superfoods-that-naturally-lower-blood-pressure
+  - >-
+    heart-friendly-winter-fruits-that-boost-immunity-and-arterial-health
+  - >-
+    10-winter-safe-exercises-for-heart-health-after-65
   - heart-friendly-winter-fruits-that-boost-immunity-and-arterial-health
   - how-vitamin-d-deficiency-impacts-heart-health-in-winter
   - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors

@@ -9,15 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    cardiac-amyloidosis-vs-hypertensive-heart-disease
-  - >-
     7-silent-signs-your-holiday-heart-syndrome-is-actually-early-stage-cardiac-sarcoidosis-especially-if-you-re-63-and-taking-methotrexate
   - >-
-    when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss
+    orthostatic-tachycardia-cardiac-sarcoidosis
   - >-
-    cardiac-amyloidosis-vs-hypertensive-heart-disease
+    cardiac-amyloidosis-diagnosis-low-voltage-ecg-older-men
   - >-
-    warning-signs-your-stable-diabetes-is-masking-early-diabetic-cardiomyopathy-even-with-normal-ejection-fraction-and-no-symptoms-in-adults-59-68
+    warning-signs-your-normal-ecg-may-miss-early-arrhythmogenic-cardiomyopathy-in-adults-55-66-with-unexplained-syncope-and-family-history-of-scd
+  - >-
+    cardiac-amyloidosis-early-detection-orthostasis
 ---
 
 # Early Clues of Cardiac Sarcoidosis in Adults 59+ With Unexplained AV Block — Before Imaging Shows Widespread Inflammation

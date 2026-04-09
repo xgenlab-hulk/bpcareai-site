@@ -10,6 +10,16 @@ primaryKeyword: wine safety after heart problems during holidays
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    myths-vs-facts-i-only-drink-wine-so-i-m-safe-from-holiday-heart-syndrome-in-adults-55-71-with-metabolic-syndrome
+  - >-
+    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
+  - >-
+    is-holiday-heart-syndrome-reversible-what-science-says
+  - >-
+    atrial-fibrillation-vs-holiday-heart-syndrome-key-differences-everyone-should-know
+  - >-
+    the-truth-about-benign-holiday-palpitations-are-they-really-harmless
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
   - the-truth-about-alcohol-and-heart-health-after-55
   - best-non-alcoholic-holiday-drinks-for-heart-health-after-50

@@ -12,9 +12,13 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    soft-foods-seniors-no-teeth
+  - >-
     nutrient-dense-foods-low-appetite-seniors
   - >-
-    soft-foods-seniors-no-teeth
+    eating-with-ozempic-after-60
+  - >-
+    blood-sugar-friendly-foods-seniors
   - >-
     quick-ways-to-adjust-portion-sizes-for-seniors-with-early-sarcopenia-without-offending-the-cook
 ---

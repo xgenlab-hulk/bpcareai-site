@@ -9,15 +9,15 @@ topicCluster: environmental-factors
 image: ''
 relatedSlugs:
   - >-
+    traffic-noise-morning-systolic-blood-pressure
+  - >-
     how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises
   - >-
-    how-chronic-exposure-to-low-frequency-hvac-vibration-alters-baroreflex-sensitivity-in-adults-68-with-isolated-systolic-hypertension
+    traffic-vibration-baroreceptor-sensitivity-hypertension
   - >-
     warning-signs-of-masked-nocturnal-hypertension-in-adults-62-who-sleep-with-white-noise-machines
   - >-
-    intermittent-silence-and-non-dipping-bp
-  - >-
-    how-chronic-sleep-fragmentation-from-nocturia-affects-left-ventricular-stiffness-in-adults-70-84-with-hypertension-and-mild-ckd
+    white-noise-machines-atherosclerosis-seniors
 ---
 
 # How Urban Roadway Noise Elevates Nighttime Sympathetic Tone — And Raises Heart Failure Risk in Older Adults With Borderline Hypertension

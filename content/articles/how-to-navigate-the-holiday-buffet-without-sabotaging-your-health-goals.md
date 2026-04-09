@@ -10,6 +10,16 @@ primaryKeyword: holiday buffet tips for seniors with high blood pressure
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    seniors-living-alone-holiday-party-preparedness
+  - >-
+    the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies
+  - >-
+    myths-vs-facts-healthy-eating-during-family-celebrations
+  - >-
+    how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
+  - >-
+    simple-steps-to-balance-comfort-foods-and-nutrition-during-holiday-meals
   - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
   - >-

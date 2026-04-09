@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss
-  - >-
-    when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss
-  - >-
     cardiac-amyloidosis-early-detection-orthostasis
   - >-
-    cardiac-amyloidosis-early-detection-orthostasis
+    when-to-suspect-cardiac-amyloidosis-in-women-75-with-unexplained-fatigue-bilateral-carpal-tunnel-surgery-history-and-preserved-ef-on-echo
   - >-
-    when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss
+    cardiac-amyloidosis-vs-diastolic-failure
+  - >-
+    when-to-suspect-cardiac-amyloidosis-in-men-73-with-unexplained-left-ventricular-hypertrophy-bilateral-carpal-tunnel-syndrome-and-orthostatic-dizziness
+  - >-
+    holiday-palpitations-cardiac-amyloidosis-red-flags
 ---
 
 # When Cardiac Amyloidosis Early Signs Appear — Before Diastolic Dysfunction: What to Notice in Adults 79+ With Carpal Tunnel and Unexplained Weight Loss

@@ -8,6 +8,16 @@ primaryKeyword: 'foods that trigger holiday heart syndrome'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
+  - >-
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - >-
+    post-dinner-palpitations-holiday-heart-syndrome
+  - >-
+    the-hidden-link-between-holiday-stress-and-irregular-heartbeat
+  - >-
+    can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
   - >-
     the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50

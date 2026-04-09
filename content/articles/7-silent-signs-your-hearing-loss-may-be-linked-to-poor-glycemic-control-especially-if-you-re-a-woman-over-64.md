@@ -8,6 +8,16 @@ primaryKeyword: 'hearing loss linked to blood sugar control in women 64'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    how-sudden-hearing-loss-triggers-acute-hyperglycemia-in-adults-63-with-prediabetes-and-why-it-s-not-just-stress
+  - >-
+    hearing-loss-diabetes-cognitive-decline
+  - >-
+    the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70
+  - >-
+    how-daily-use-of-hearing-aids-alters-parasympathetic-tone-and-postprandial-glucose-variability-in-adults-76-with-mild-hearing-loss-and-t2d
+  - >-
+    blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - >-
     the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70

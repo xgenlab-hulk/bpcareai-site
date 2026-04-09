@@ -10,6 +10,16 @@ primaryKeyword: safe strength training with numb feet diabetes 60+
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    barefoot-walking-glycemic-variability-seniors
+  - >-
+    best-walking-surfaces-diabetic-foot-ulcers
+  - >-
+    charcot-neuroarthropathy-footwear-seniors
+  - >-
+    best-walking-surface-for-diabetic-glucose
+  - >-
+    walking-vs-standing-post-dinner-glucose
   - best-low-impact-exercises-for-managing-diabetes-after-60
   - >-
     can-you-reverse-arterial-stiffness-with-just-12-weeks-of-barefoot-walking-on-grass-or-sand-evidence-from-a-pilot-trial-in-sedentary-women-63-71

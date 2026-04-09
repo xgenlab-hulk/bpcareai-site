@@ -11,7 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
+    5-things-every-man-over-65-taking-testosterone-replacement-should-know-about-its-effect-on-insulin-receptor-tyrosine-kinase-activity-and-glucose-uptake-efficiency
+  - >-
     5-things-every-man-over-68-with-low-testosterone-and-type-2-diabetes-should-know-about-muscle-protein-synthesis-and-glucose-uptake
+  - >-
+    testosterone-deficiency-muscle-glucose-uptake-men
+  - >-
+    enhance-hepatic-insulin-clearance-natural
+  - >-
+    time-restricted-eating-hepatic-insulin-sensitivity
 
   - >-
     does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control

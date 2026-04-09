@@ -8,6 +8,16 @@ primaryKeyword: 'make-ahead freezer meals reduce holiday stress seniors'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
+  - >-
+    how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
+  - >-
+    seniors-living-alone-holiday-party-preparedness
+  - >-
+    holiday-foods-blood-sugar-bp-seniors-70
+  - >-
+    how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
   - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
   - 7-smart-swaps-for-healthier-holiday-meals-after-65

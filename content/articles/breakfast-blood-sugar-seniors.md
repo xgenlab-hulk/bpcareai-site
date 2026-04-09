@@ -14,11 +14,11 @@ relatedSlugs:
   - >-
     breakfast-blood-sugar-spikes-after-35
   - >-
+    blood-sugar-friendly-foods-seniors
+  - >-
     skipping-breakfast-holiday-hyperglycemia-seniors
   - >-
     best-low-gi-high-satiety-holiday-breakfasts-for-adults-60-75-with-morning-hyperglycemia-and-gerd
-  - >-
-    10-foods-that-stabilize-fasting-glucose-without-lowering-it-for-adults-62-with-history-of-hypoglycemia-and-age-related-adrenal-blunting
   - >-
     12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
 ---

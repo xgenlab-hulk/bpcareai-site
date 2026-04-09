@@ -11,13 +11,13 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-low-grade-dehydration-worsens-arterial-stiffness-in-women-with-stage-1-hypertension-over-58
+  - >-
     warning-signs-your-holiday-energy-drink-is-accelerating-arterial-stiffness-even-if-it-s-labeled-sugar-free-and-for-seniors
   - >-
-    a-vs-b-warm-herbal-chai-caffeine-free-vs-sparkling-pomegranate-mocktail-for-preventing-post-meal-atrial-ectopy-in-women-over-70
+    foods-for-aortic-stiffness-without-orthostasis
   - >-
-    what-are-the-earliest-signs-of-arterial-stiffness-in-women-54-67-before-bp-readings-cross-130-80
-  - >-
-    arterial-stiffness-reduction-without-nitrates
+    7-silent-signs-your-holiday-sodium-intake-is-worsening-diastolic-stiffness-in-women-65-with-preserved-ejection-fraction
   - >-
     arterial-stiffness-signs-after-preeclampsia
 ---

@@ -9,15 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-support-pancreatic-enzyme-output-during-large-holiday-meals-without-ppis-or-supplements-backed-by-4-rcts-in-adults-60-78
+    natural-ways-to-support-post-holiday-bile-acid-recycling-without-supplements-for-adults-65-81-with-chronic-constipation-and-low-fat-diet-history
+  - >-
+    feeling-full-without-gallbladder-pain-73
+  - >-
+    best-low-fodmap-high-protein-holiday-snacks-for-women-58-with-ibs-d-and-post-cholecystectomy-bile-acid-malabsorption
+  - >-
+    liver-health-foods-diabetes-seniors-alt
   - >-
     natural-ways-to-support-digestive-enzyme-production-after-age-60-especially-during-heavy-holiday-meals
-  - >-
-    gastric-acid-support-without-ppi-seniors
-  - >-
-    natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements
-  - >-
-    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
 ---
 
 # Supporting Bile Acid Recycling After Gallbladder Removal — Naturally and Gently for Adults 66–79

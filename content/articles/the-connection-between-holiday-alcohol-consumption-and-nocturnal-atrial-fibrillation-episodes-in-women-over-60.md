@@ -11,9 +11,15 @@ topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
   - >-
-    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+    how-alcohol-timing-affects-atrial-fibrillation-risk-during-holiday-gatherings-in-adults-55-68-with-occult-af-and-high-functioning-lifestyle
   - >-
-    can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation
+    how-holiday-alcohol-consumption-triggers-atrial-fibrillation-in-adults-55-with-subclinical-left-atrial-enlargement-even-without-binge-drinking
+  - >-
+    holiday-travel-nocturnal-afib-warning
+  - >-
+    atrial-fibrillation-vs-holiday-heart-syndrome-key-differences-everyone-should-know
+  - >-
+    holiday-heart-syndrome-and-sleep-architecture-how-fragmented-rem-cycles-amplify-arrhythmia-risk-in-adults-70-79-with-mild-osa
   - what-research-says-about-holiday-heart-syndrome-and-aging-hearts
   - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults

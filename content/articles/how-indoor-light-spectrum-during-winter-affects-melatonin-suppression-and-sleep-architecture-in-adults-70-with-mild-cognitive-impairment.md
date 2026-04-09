@@ -11,13 +11,15 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    simple-changes-to-your-home-lighting-schedule-that-lower-nighttime-blood-pressure-in-adults-with-nocturnal-hypertension
+    led-nightlights-nocturnal-glucose-seniors
+  - >-
+    blue-light-nocturnal-blood-pressure-dipping
   - >-
     how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood
   - >-
-    a-vs-b-bright-light-therapy-at-7-a-m-vs-5-p-m-for-older-adults-with-advanced-sleep-phase-syndrome
+    how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60
   - >-
-    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
+    what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter
   - how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60
 ---
 

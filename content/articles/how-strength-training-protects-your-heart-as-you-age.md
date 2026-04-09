@@ -10,6 +10,16 @@ primaryKeyword: strength training heart health after 50
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    can-strength-training-lower-heart-disease-risk-after-60
+  - >-
+    can-heart-disease-be-reversed-with-lifestyle-changes-after-50
+  - >-
+    the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
+  - >-
+    could-your-heartbeats-per-minute-predict-longevity
+  - >-
+    resistance-training-left-ventricular-hypertrophy
   - can-strength-training-lower-heart-disease-risk-after-60
   - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
   - can-gardening-improve-heart-health-after-50

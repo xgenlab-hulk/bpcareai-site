@@ -8,6 +8,16 @@ primaryKeyword: 'how to enjoy Thanksgiving dinner with high blood pressure'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - >-
+    how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
+  - >-
+    7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker
+  - >-
+    myths-vs-facts-healthy-eating-during-family-celebrations
+  - >-
+    how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65
   - hidden-salt-10-surprising-foods-that-spike-blood-pressure
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose

@@ -10,6 +10,14 @@ image: ''
 relatedSlugs:
   - >-
     5-natural-light-therapy-alternatives-for-seniors-with-macular-degeneration-or-cataracts-who-can-t-use-standard-sad-lamps
+  - >-
+    top-5-light-therapy-lamps-recommended-by-geriatric-therapists-for-seniors
+  - >-
+    simple-steps-to-rebuild-morning-light-exposure-habits-after-cataract-surgery-especially-for-adults-over-68-with-prior-seasonal-mood-swings
+  - >-
+    a-vs-b-bright-light-therapy-at-7-a-m-vs-5-p-m-for-older-adults-with-advanced-sleep-phase-syndrome
+  - >-
+    how-indoor-light-spectrum-during-winter-affects-melatonin-suppression-and-sleep-architecture-in-adults-70-with-mild-cognitive-impairment
   - top-5-light-therapy-lamps-recommended-by-geriatric-therapists-for-seniors
   - >-
     simple-steps-to-rebuild-morning-light-exposure-habits-after-cataract-surgery-especially-for-adults-over-68-with-prior-seasonal-mood-swings

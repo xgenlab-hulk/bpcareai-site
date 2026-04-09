@@ -8,6 +8,16 @@ primaryKeyword: 'do mini holiday treats raise blood pressure'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - >-
+    the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
+  - >-
+    holiday-foods-blood-sugar-bp-seniors-70
+  - >-
+    does-bringing-your-own-condiment-change-the-game-how-custom-sauces-and-dressings-improve-adherence-to-low-sodium-diets-during-holiday-gatherings
+  - >-
+    7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-adults-72-with-isolated-systolic-hypertension-and-what-to-serve-instead
   - the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
   - >-
     12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension

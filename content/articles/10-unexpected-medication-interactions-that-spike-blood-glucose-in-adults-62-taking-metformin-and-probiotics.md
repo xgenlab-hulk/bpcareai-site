@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     12-science-backed-ways-to-protect-your-gut-microbiome-from-antibiotic-induced-dysbiosis-if-you-re-managing-diabetes-and-over-64
   - >-
+    gut-fungi-post-antibiotic-glucose-spikes
+  - >-
     blood-glucose-monitor-iron-supplement-interference
   - >-
-    can-you-safely-take-berberine-with-metformin-if-you-re-over-74-and-have-mild-liver-fibrosis-what-alt-ast-and-fibroscan-data-reveal
+    pills-that-raise-blood-sugar-silently
   - >-
-    why-does-blood-sugar-spike-after-a-10-minute-walk-in-adults-62-78-with-type-2-diabetes-and-diabetic-retinopathy
-  - >-
-    gut-fungi-post-antibiotic-glucose-spikes
+    metformin-gut-microbiome-butyrate-constipation
 ---
 
 # Understanding Metformin, Probiotics, and Blood Glucose: 10 Surprising Interactions in Adults 62+

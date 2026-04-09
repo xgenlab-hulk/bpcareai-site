@@ -10,6 +10,16 @@ primaryKeyword: fingernail changes heart disease signs over 50
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    can-cold-hands-signal-poor-circulation-or-heart-issues
+  - >-
+    heart-disease-warning-signs-that-appear-years-in-advance
+  - >-
+    can-hearing-loss-be-an-early-sign-of-heart-disease
+  - >-
+    heart-disease-and-erectile-dysfunction-what-men-should-know
+  - >-
+    how-vision-changes-might-be-linked-to-heart-disease
   - the-hidden-link-between-gum-disease-and-heart-problems
   - the-connection-between-frequent-urination-at-night-and-heart-health
   - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease

@@ -10,6 +10,16 @@ primaryKeyword: does late night eating raise blood sugar in seniors
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    how-late-night-snacking-during-hanukkah-or-christmas-eve-affects-overnight-glucose-stability-in-women-over-70
+  - >-
+    how-late-night-cookie-binges-alter-hepatic-gluconeogenesis-rhythms-in-adults-58-66-with-prediabetes-and-why-it-matters-for-fasting-glucose-stability
+  - >-
+    the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
+  - >-
+    how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms
+  - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
   - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes

@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     magnesium-threonate-vs-glycinate-nocturnal-bp-dipping
   - >-
-    hawthorn-vs-magnesium-holiday-heart
-  - >-
     nocturnal-bp-dip-sleep-apnea-mild-cognitive-impairment
   - >-
-    best-supplements-for-improving-arterial-distensibility-in-men-61-77-with-hypertension-and-low-serum-magnesium-rbc-levels-4-2-mg-dl
+    magnesium-glycinate-blood-pressure-instability
   - >-
-    normalize-glucose-variability-72-hours-magnesium
+    blue-light-nocturnal-blood-pressure-dipping
+  - >-
+    what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring
 ---
 
 # Can Magnesium L-Threonate Support Healthier Nocturnal Blood Pressure in Older Adults With Mild Cognitive Impairment?

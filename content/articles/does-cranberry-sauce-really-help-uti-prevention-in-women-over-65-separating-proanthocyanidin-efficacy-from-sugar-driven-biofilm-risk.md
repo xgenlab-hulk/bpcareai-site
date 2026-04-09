@@ -9,15 +9,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    does-cranberry-sauce-really-help-uti-prevention-in-women-over-65-separating-proanthocyanidin-efficacy-from-sugar-driven-biofilm-risk
-  - >-
     does-leftover-cranberry-sauce-really-lower-post-meal-urinary-ph-in-men-over-70-with-recurrent-utis
+  - >-
+    cranberry-juice-blood-glucose-control
+  - >-
+    does-your-family-s-homemade-cranberry-sauce-really-contain-less-sugar-than-store-bought-a-label-audit-of-47-recipes-used-by-adults-60-82
   - >-
     what-research-says-about-cranberry-sauce-fermentation-time-and-its-impact-on-postprandial-endothelial-function-in-adults-73-with-stage-1-hypertension
   - >-
     why-cranberry-sauce-triggers-reflux-induced-nocturnal-hypertension-in-adults-68-with-hiatal-hernia-and-mild-sleep-apnea
-  - >-
-    cranberry-relish-vs-canned-sauce-gastroparesis
 ---
 
 # Cranberry Sauce UTI Prevention Seniors: What Science Says About Holiday Favorites and Bladder Health

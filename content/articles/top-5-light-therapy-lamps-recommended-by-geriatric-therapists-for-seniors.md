@@ -10,6 +10,16 @@ primaryKeyword: light therapy lamps for seniors
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
+  - >-
+    5-natural-light-therapy-alternatives-for-seniors-with-macular-degeneration-or-cataracts-who-can-t-use-standard-sad-lamps
+  - >-
+    can-bright-light-therapy-be-safely-used-with-age-related-macular-degeneration-a-risk-benefit-framework-for-adults-75
+  - >-
+    natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
+  - >-
+    a-vs-b-bright-light-therapy-at-7-a-m-vs-5-p-m-for-older-adults-with-advanced-sleep-phase-syndrome
+  - >-
+    simple-steps-to-rebuild-morning-light-exposure-habits-after-cataract-surgery-especially-for-adults-over-68-with-prior-seasonal-mood-swings
   - how-light-therapy-can-help-older-adults-beat-winter-blues-after-65
   - >-
     top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season

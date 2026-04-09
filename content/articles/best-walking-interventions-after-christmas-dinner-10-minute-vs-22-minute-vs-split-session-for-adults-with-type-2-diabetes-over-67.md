@@ -9,7 +9,15 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes
+    walking-vs-standing-post-dinner-glucose
+  - >-
+    post-dinner-walking-vs-breathing-glucose
+  - >-
+    can-walking-after-meals-lower-blood-sugar-in-older-adults
+  - >-
+    quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
+  - >-
+    does-daily-10-minute-post-dinner-walking-really-lower-next-morning-fasting-glucose-in-adults-64-with-morning-only-hyperglycemia
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - can-walking-after-meals-lower-blood-sugar-in-older-adults
   - >-

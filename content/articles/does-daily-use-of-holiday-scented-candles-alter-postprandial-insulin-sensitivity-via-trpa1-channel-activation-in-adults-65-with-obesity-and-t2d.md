@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     candlelight-dinners-insulin-sensitivity-seniors
   - >-
-    endocrine-disruptors-senior-living-insulin-resistance
+    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
   - >-
-    menthol-gels-insulin-sensitivity-lipodystrophy
-  - >-
-    pet-dander-holiday-glucose-spikes
+    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
   - >-
     post-dinner-fatigue-holiday-indoor-air
+  - >-
+    endocrine-disruptors-senior-living-insulin-resistance
 ---
 
 # Could Holiday-Scented Candles Affect Insulin Sensitivity in Older Adults with Diabetes? What the Science Suggests

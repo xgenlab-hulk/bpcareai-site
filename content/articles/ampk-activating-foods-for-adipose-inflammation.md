@@ -8,6 +8,16 @@ primaryKeyword: 'foods that reduce fat tissue inflammation with diabetes'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    foods-muscle-glucose-uptake-seniors-61
+  - >-
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
+  - >-
+    how-chronic-inflammation-worsens-type-2-diabetes-after-50
+  - >-
+    11-foods-that-support-mitochondrial-resilience-during-holiday-feasting-backed-by-skeletal-muscle-biopsy-data-in-adults-63-79
+  - >-
+    mitochondrial-biogenesis-beta-cells-diabetes
 
   - >-
     10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina

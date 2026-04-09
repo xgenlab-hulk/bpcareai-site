@@ -11,6 +11,16 @@ primaryKeyword: >-
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    10-simple-home-adjustments-to-support-blood-pressure-stability-in-winter
+  - >-
+    how-indoor-air-quality-affects-heart-health-in-winter
+  - >-
+    the-best-indoor-exercises-for-blood-pressure-control-in-winter
+  - >-
+    the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
+  - >-
+    how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62
   - how-does-cold-weather-affect-blood-pressure-in-older-adults
   - winter-vs-summer-blood-pressure-what-seniors-need-to-know
   - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70

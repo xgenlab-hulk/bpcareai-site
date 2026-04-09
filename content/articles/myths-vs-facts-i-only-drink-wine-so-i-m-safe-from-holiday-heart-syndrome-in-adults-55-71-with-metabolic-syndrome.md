@@ -9,6 +9,14 @@ topicCluster: metabolic-syndrome-management
 image: ''
 relatedSlugs:
   - >-
+    is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues
+  - >-
+    myths-vs-facts-i-only-drink-red-wine-it-s-heart-healthy-in-adults-65-with-high-frequency-pacs-and-left-atrial-fibrosis
+  - >-
+    7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
+  - >-
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - >-
     the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
   - is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues
 

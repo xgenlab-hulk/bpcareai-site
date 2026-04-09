@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics
   - >-
-    a-vs-b-warm-spiced-apple-cider-with-cinnamon-stick-vs-mulled-wine-impact-on-evening-endothelial-function-in-adults-59-71-with-metabolic-syndrome
+    the-truth-about-heart-safe-holiday-cocktails-labeled-low-alcohol-why-4-5-abv-mulled-wine-still-raises-qt-dispersion-in-adults-67-on-amiodarone
+  - >-
+    is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues
   - >-
     mulled-wine-vs-sparkling-cider-arrhythmia
-  - >-
-    myths-vs-facts-i-only-drink-wine-so-i-m-safe-from-holiday-heart-syndrome-in-adults-55-71-with-metabolic-syndrome
 ---
 
 # Can You Safely Enjoy Mulled Wine After Your Evening Beta-Blocker? Understanding Safe beta-blocker mulled wine timing for Adults 59+  

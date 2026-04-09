@@ -10,6 +10,16 @@ primaryKeyword: natural ways to manage seasonal depression after 65
 topicCluster: medication-safety
 image: ''
 relatedSlugs:
+  - >-
+    can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
+  - >-
+    quick-ways-to-lift-a-senior-s-mood-during-a-winter-blue-day
+  - >-
+    10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore
+  - >-
+    what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter
+  - >-
+    7-common-mistakes-that-make-seasonal-depression-worse-in-seniors
   - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70
   - natural-ways-to-lower-blood-pressure-this-winter-without-medication
   - 7-common-mistakes-that-make-seasonal-depression-worse-in-seniors

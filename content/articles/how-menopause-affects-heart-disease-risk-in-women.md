@@ -10,6 +10,16 @@ primaryKeyword: why heart disease risk rises after menopause
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    why-heart-disease-risk-skyrockets-in-women-58-67-within-3-years-after-menopause-even-with-normal-cholesterol
+  - >-
+    why-does-heart-disease-progress-faster-in-women-after-menopause-and-what-hormone-modulated-endothelial-pathways-are-involved
+  - >-
+    blood-pressure-fluctuations-during-menopause-what-women-should-know
+  - >-
+    why-women-s-heart-attack-symptoms-differ-after-menopause
+  - >-
+    why-older-women-are-more-vulnerable-to-winter-heart-events
   - blood-pressure-changes-during-menopause-what-women-should-know
   - blood-pressure-fluctuations-during-menopause-what-women-should-know
   - how-social-isolation-increases-heart-disease-risk-after-60

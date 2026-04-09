@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     natural-ways-to-support-renin-angiotensin-system-balance-without-ace-inhibitors-for-adults-with-hypertension-and-chronic-cough-or-angioedema
   - >-
-    the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors
-  - >-
     natural-remedies-high-blood-pressure-chronic-kidney-disease
   - >-
-    arterial-elasticity-natural-support-isolated-systolic-hypertension
+    the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors
   - >-
-    the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims
+    neutralize-holiday-sodium-quickly-seniors-ck
+  - >-
+    natural-sodium-excretion-without-diuretics
 ---
 
 # Natural Support for Renin-Angiotensin Balance — Gentle, Evidence-Inspired Strategies for Adults 61–73 with Early CKD and Stage 1 Hypertension

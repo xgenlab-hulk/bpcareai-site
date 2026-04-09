@@ -8,6 +8,16 @@ primaryKeyword: 'foods that protect pancreatic beta cells during high-carb holid
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    beta-cell-resilience-holiday-eating
+  - >-
+    beta-cell-rest-holiday-meals-natural-support
+  - >-
+    holiday-weight-gain-beta-cell-exhaustion
+  - >-
+    skip-insulin-holiday-pie-beta-cell-stress
+  - >-
+    natural-ways-to-support-pancreatic-beta-cell-resilience-without-stimulating-insulin-secretion-using-sulforaphane-timing-low-dose-lithium-in-adults-56-64-with-early-beta-cell-decline
 
   - >-
     beta-cell-resilience-holiday-eating

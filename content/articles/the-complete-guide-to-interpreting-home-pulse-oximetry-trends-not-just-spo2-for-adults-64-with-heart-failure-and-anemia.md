@@ -14,11 +14,11 @@ relatedSlugs:
   - >-
     warning-signs-your-home-pulse-oximeter-is-masking-early-pulmonary-hypertension-in-adults-68-with-untreated-sleep-apnea-and-unexplained-fatigue
   - >-
-    what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
+    oxygen-concentrator-during-cardiac-rehab
   - >-
-    the-complete-guide-to-interpreting-home-bp-log-patterns-spotting-masked-hypertension-white-coat-effect-and-circadian-shifts-in-adults-59-71
+    right-ventricular-pa-coupling-failure-warning-signs
   - >-
-    warning-signs-of-right-sided-heart-strain-in-adults-75-with-untreated-sleep-apnea-and-pulmonary-hypertension-before-edema-appears
+    pulse-wave-velocity-after-shower-seniors
 ---
 
 # Understanding Home Pulse Oximetry Beyond SpO₂: A Practical Guide for Seniors with Heart Failure and Anemia

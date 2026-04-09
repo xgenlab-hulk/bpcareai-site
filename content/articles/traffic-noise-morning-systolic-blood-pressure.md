@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     roadway-noise-sympathetic-tone-heart-failure
   - >-
+    why-does-blood-pressure-spike-during-morning-commutes-not-just-stress-in-adults-58-67-with-subclinical-carotid-plaque
+  - >-
     how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises
   - >-
-    warning-signs-of-masked-nocturnal-hypertension-in-adults-62-who-sleep-with-white-noise-machines
+    white-noise-machines-atherosclerosis-seniors
   - >-
-    intermittent-silence-central-aortic-pressure
-  - >-
-    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
+    traffic-vibration-baroreceptor-sensitivity-hypertension
 ---
 
 # How Traffic Noise Morning Systolic Blood Pressure Rises — Even With Windows Closed — in Adults 63+

@@ -10,6 +10,16 @@ primaryKeyword: portion control tips for older adults at family meals
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
+  - >-
+    quick-ways-to-adjust-portion-sizes-for-seniors-with-early-sarcopenia-without-offending-the-cook
+  - >-
+    portion-distortion-family-dinner-prediabetes
+  - >-
+    why-does-portion-distortion-hit-harder-in-multi-generational-households-the-role-of-intergenerational-feeding-scripts-in-adults-55-74
+  - >-
+    how-to-build-a-diabetes-friendly-plate-at-a-mixed-family-meal
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
   - 5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners
   - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals

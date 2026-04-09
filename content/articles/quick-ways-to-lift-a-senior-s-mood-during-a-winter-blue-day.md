@@ -10,6 +10,16 @@ primaryKeyword: quick mood boosters for seniors in winter
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:
+  - >-
+    can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
+  - >-
+    best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70
+  - >-
+    natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
+  - >-
+    10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore
+  - >-
+    7-common-mistakes-that-make-seasonal-depression-worse-in-seniors
   - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70
   - natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
   - how-group-activities-in-senior-centers-prevent-seasonal-depression

@@ -10,6 +10,16 @@ primaryKeyword: holiday fasting safety with type 2 diabetes
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    does-intermittent-fasting-during-holidays-actually-lower-hba1c-what-12-week-rct-data-shows-for-adults-54-68-with-hba1c-7-2-8-6
+  - >-
+    can-intermittent-fasting-help-reset-blood-sugar-after-christmas
+  - >-
+    christmas-vs-new-year-s-which-holiday-is-harder-on-blood-sugar
+  - >-
+    can-intermittent-fasting-help-manage-type-2-diabetes-after-60
+  - >-
+    is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
   - can-intermittent-fasting-help-reset-blood-sugar-after-christmas
   - >-
     what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery

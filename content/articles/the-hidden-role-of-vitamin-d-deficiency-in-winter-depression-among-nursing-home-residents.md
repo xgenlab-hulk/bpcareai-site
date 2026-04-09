@@ -10,6 +10,16 @@ primaryKeyword: vitamin D and winter depression in nursing home seniors
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:
+  - >-
+    how-vitamin-d-deficiency-impacts-heart-health-in-winter
+  - >-
+    can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
+  - >-
+    what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
+  - >-
+    quick-ways-to-lift-a-senior-s-mood-during-a-winter-blue-day
+  - >-
+    the-truth-about-vitamin-d-supplementation-for-seasonal-depression-in-men-over-72-with-chronic-kidney-disease-stage-3
   - how-vitamin-d-deficiency-impacts-heart-health-in-winter
   - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
   - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors

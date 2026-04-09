@@ -9,15 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    red-flags-your-holiday-diet-soda-habit-is-worsening-insulin-resistance-especially-if-you-re-60-with-visceral-adiposity
-  - >-
-    zinc-exposure-from-hearing-aids-and-insulin-resistance
-  - >-
-    10-unexpected-household-chemicals-that-accelerate-coronary-artery-calcification-in-adults-62-with-chronic-kidney-disease
-  - >-
-    7-hidden-sources-of-insulin-resistance-in-women-58-72-with-pcos-history-and-recent-weight-gain
-  - >-
     how-indoor-air-quality-changes-during-winter-affect-fasting-glucose-in-adults-65-with-type-2-diabetes
+  - >-
+    the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors
+  - >-
+    air-pollution-pancreatic-mitochondria-diabetes
+  - >-
+    does-daily-use-of-holiday-scented-candles-alter-postprandial-insulin-sensitivity-via-trpa1-channel-activation-in-adults-65-with-obesity-and-t2d
+  - >-
+    how-chronic-inflammation-worsens-type-2-diabetes-after-50
 ---
 
 # Hidden Environmental Risks in Senior Living: How Endocrine Disruptors May Worsen Insulin Resistance in Older Adults With Long-Term Type 2 Diabetes

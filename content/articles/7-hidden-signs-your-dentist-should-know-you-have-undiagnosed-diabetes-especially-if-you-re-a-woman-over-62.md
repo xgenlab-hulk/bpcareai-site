@@ -8,6 +8,16 @@ primaryKeyword: 'oral signs of undiagnosed diabetes in women over 62'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    how-gum-disease-is-linked-to-diabetes-complications-in-older-adults
+  - >-
+    7-hidden-ways-your-dentist-might-spot-early-heart-disease-especially-if-you-re-a-man-over-65-with-gum-recession-and-no-chest-pain
+  - >-
+    how-chronic-low-grade-inflammation-from-untreated-gum-disease-accelerates-insulin-resistance-in-adults-58-72-with-prediabetes
+  - >-
+    how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
+  - >-
+    how-chronic-low-grade-gum-inflammation-alters-insulin-clearance-in-adults-57-69-with-well-controlled-type-2-diabetes
   - how-gum-disease-is-linked-to-diabetes-complications-in-older-adults
   - >-
     when-to-worry-about-sudden-thirst-and-dry-mouth-at-christmas-dinner-a-red-flag-timeline-for-adults-60-with-undiagnosed-prediabetes

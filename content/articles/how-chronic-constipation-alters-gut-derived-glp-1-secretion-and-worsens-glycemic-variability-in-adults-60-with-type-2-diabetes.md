@@ -9,15 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
-  - >-
-    when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists
-  - >-
-    12-science-backed-ways-to-protect-your-gut-microbiome-from-antibiotic-induced-dysbiosis-if-you-re-managing-diabetes-and-over-64
-  - >-
-    inulin-fos-for-glp-1-in-prediabetes
-  - >-
     how-chronic-constipation-affects-postprandial-glucose-in-adults-67-with-type-2-diabetes-and-pelvic-floor-dysfunction
+  - >-
+    10-foods-that-stabilize-postprandial-glucose-variability-in-adults-64-with-gastroparesis-and-type-2-diabetes
+  - >-
+    foods-disrupt-gut-microbiome-diabetes-54-66
+  - >-
+    metformin-gut-microbiome-butyrate-constipation
+  - >-
+    glp-1-secretion-without-probiotics-seniors
 ---
 
 # How Chronic Constipation Disrupts GLP-1 Secretion and Impacts Blood Sugar Control in Older Adults With Type 2 Diabetes

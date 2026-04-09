@@ -9,15 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    afternoon-sunlight-gluconeogenesis-type-2-diabetes
-  - >-
     winter-light-deprivation-glucose-rhythm
+  - >-
+    why-your-afternoon-napping-habit-might-be-raising-fasting-glucose-even-with-normal-bedtime-snacks-in-adults-65-with-dawn-phenomenon
   - >-
     how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
   - >-
-    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+    10-silent-signs-your-holiday-meal-timing-is-disrupting-hepatic-glucose-production-especially-with-concurrent-melatonin-agonist-use-in-adults-72
   - >-
-    led-nightlights-nocturnal-glucose-seniors
+    nighttime-light-glp-1-secretion-fasting-glucose
 ---
 
 # How Afternoon Sunlight Gluconeogenesis Type 2 Diabetes Connection Works — And Why Timing Matters

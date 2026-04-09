@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     7-hidden-sources-of-oxalates-in-holiday-salads-and-sides-that-may-trigger-nephrocalcinosis-in-adults-with-stage-2-ckd-over-60
   - >-
-    collard-greens-cooking-method-oxidative-stress-ckd
-  - >-
-    5-things-everyone-over-73-should-know-about-holiday-nut-mixes-and-when-to-avoid-them-entirely
-  - >-
     quick-ways-to-neutralize-holiday-meal-induced-oxidative-stress-in-adults-67-with-low-serum-vitamin-e-and-high-hs-crp
   - >-
+    collard-greens-cooking-method-oxidative-stress-ckd
+  - >-
     10-ways-to-reduce-advanced-glycation-end-products-ages-in-holiday-roasts-without-eliminating-meat-for-adults-67-with-diabetic-nephropathy
+  - >-
+    5-things-everyone-over-73-should-know-about-holiday-nut-mixes-and-when-to-avoid-them-entirely
 ---
 
 # What Holiday Nuts Oxidative Stress in Seniors With CKD Really Means — And How to Enjoy Them Safely

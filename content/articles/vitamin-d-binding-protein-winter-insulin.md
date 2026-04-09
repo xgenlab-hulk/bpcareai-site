@@ -12,6 +12,14 @@ image: ''
 relatedSlugs:
   - >-
     does-daily-2000-iu-vitamin-d3-improve-postprandial-insulin-sensitivity-in-adults-53-69-with-type-2-diabetes-and-seasonal-vitamin-d-deficiency
+  - >-
+    what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
+  - >-
+    12-science-backed-ways-to-reduce-glucose-variability-during-winter-months-for-adults-60-with-seasonal-affective-disorder-and-type-2-diabetes
+  - >-
+    simple-steps-to-adjust-your-diabetes-medication-timing-for-winter-circadian-shifts-especially-if-you-live-north-of-the-45th-parallel-and-are-over-69
+  - >-
+    why-your-blood-sugar-might-be-higher-in-december-even-with-good-habits
   - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
   - >-
     winter-light-deprivation-glucose-rhythm

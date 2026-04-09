@@ -9,11 +9,15 @@ topicCluster: natural-remedies
 image: ''
 relatedSlugs:
   - >-
-    magnesium-threonate-vs-glycinate-nocturnal-bp-dipping
+    the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
   - >-
-    a-vs-b-warm-herbal-chai-caffeine-free-vs-sparkling-pomegranate-mocktail-for-preventing-post-meal-atrial-ectopy-in-women-over-70
+    low-carb-vs-magnesium-holiday-heart-prevention
   - >-
-    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
+    magnesium-glycinate-holiday-dessert-timing
+  - >-
+    is-holiday-heart-syndrome-reversible-what-science-says
+  - >-
+    simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction
   - the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
   - >-
     normalize-glucose-variability-72-hours-magnesium

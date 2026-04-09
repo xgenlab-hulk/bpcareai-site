@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     simple-steps-to-prevent-diabetic-foot-ulcers-during-winter-for-adults-71-with-peripheral-neuropathy-and-indoor-heaters
   - >-
-    strength-training-peripheral-neuropathy-seniors
+    far-infrared-sauna-glucose-uptake-seniors-sarcopenia
   - >-
-    5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house
+    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
+  - >-
+    the-link-between-diabetes-and-slow-healing-in-older-adults
   - >-
     5-things-every-caregiver-should-know-before-hosting-a-holiday-gathering-for-someone-with-advanced-diabetic-neuropathy-and-foot-ulcers
-  - >-
-    can-daily-2-minute-toe-tap-sequencing-improve-capillary-refill-time-and-postprandial-glucose-clearance-in-women-63-79-with-diabetic-foot-ulcer-history
 ---
 
 # Sauna Therapy and Diabetic Foot Ulcer Recovery: A Gentle, Evidence-Informed Guide for Adults 68+

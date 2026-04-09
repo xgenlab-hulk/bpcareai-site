@@ -10,6 +10,16 @@ primaryKeyword: how to boost digestive enzymes naturally after 60
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    natural-ways-to-support-pancreatic-enzyme-output-during-large-holiday-meals-without-ppis-or-supplements-backed-by-4-rcts-in-adults-60-78
+  - >-
+    gastric-acid-support-without-ppi-seniors
+  - >-
+    what-causes-sudden-morning-constipation-after-holiday-turkey-gravy-consumption-in-adults-74-with-low-gastrin-and-delayed-colonic-transit
+  - >-
+    natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements
+  - >-
+    beta-cell-rest-holiday-meals-natural-support
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
   - 10-high-fiber-holiday-foods-that-support-digestion-after-50

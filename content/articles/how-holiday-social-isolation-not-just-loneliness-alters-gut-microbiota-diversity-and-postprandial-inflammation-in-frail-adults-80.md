@@ -11,7 +11,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    how-holiday-social-isolation-worsens-postprandial-glucose-variability-in-adults-78-living-alone-and-using-insulin
+  - >-
+    why-holiday-social-isolation-raises-fasting-glucose-in-adults-75-with-type-2-diabetes-and-mild-depression
+  - >-
+    gut-barrier-holiday-feasting
+  - >-
     12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
+  - >-
+    seniors-living-alone-holiday-party-preparedness
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - >-
     how-social-isolation-during-holiday-meals-accelerates-cognitive-decline-in-adults-with-mild-vascular-cognitive-impairment

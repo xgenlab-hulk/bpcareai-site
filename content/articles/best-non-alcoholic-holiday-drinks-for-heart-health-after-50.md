@@ -8,6 +8,16 @@ primaryKeyword: 'non-alcoholic holiday drinks for heart health after 50'
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
+  - >-
+    the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement
+  - >-
+    7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
+  - >-
+    non-alcoholic-drinks-holiday-heart-syndrome
+  - >-
+    can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors
   - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
   - the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50

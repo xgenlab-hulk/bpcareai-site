@@ -10,6 +10,16 @@ primaryKeyword: New Year's Eve heart risk for seniors
 topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:
+  - >-
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - >-
+    5-things-every-caregiver-should-know-before-taking-an-aging-parent-to-a-new-year-s-eve-party
+  - >-
+    7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
+  - >-
+    how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
+  - >-
+    atrial-fibrillation-vs-holiday-heart-syndrome-key-differences-everyone-should-know
   - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
   - the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50
   - >-

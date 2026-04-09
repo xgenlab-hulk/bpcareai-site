@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
   - >-
-    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
+    how-late-night-holiday-leftovers-affect-circadian-rhythm-gene-expression-in-adults-59-70-with-shift-work-history-and-mild-insulin-resistance
+  - >-
+    the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-
     how-late-afternoon-snacking-at-family-gatherings-disrupts-nocturnal-melatonin-and-elevates-fasting-glucose-in-adults-59-66-with-shift-work-history
   - >-
-    how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
-  - >-
-    how-late-night-cookie-binges-alter-hepatic-gluconeogenesis-rhythms-in-adults-58-66-with-prediabetes-and-why-it-matters-for-fasting-glucose-stability
+    late-eating-diabetes-myths-chronobiology-seniors
 ---
 
 # How Late-Night Holiday Snacking Affects Circadian Rhythm in Seniors—And What You Can Do About It

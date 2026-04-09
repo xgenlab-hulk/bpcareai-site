@@ -10,6 +10,16 @@ primaryKeyword: how to manage blood sugar at potlucks with diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    how-to-navigate-potluck-dinners-with-type-2-diabetes-and-mild-kidney-disease-a-step-by-step-strategy-for-adults-65-82
+  - >-
+    5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck
+  - >-
+    5-things-every-adult-70-with-insulin-dependent-diabetes-should-know-before-attending-a-potluck-holiday-party
+  - >-
+    type-1-diabetes-holiday-potluck-guide
+  - >-
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
   - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
   - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60

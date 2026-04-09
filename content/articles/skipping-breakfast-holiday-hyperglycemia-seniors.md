@@ -11,15 +11,15 @@ topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    dangers-of-skipping-breakfast-on-new-year-s-day-especially-if-you-re-on-basal-insulin-and-over-70
+    is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
   - >-
-    why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
+    5-easy-morning-routines-to-stabilize-blood-sugar-after-a-holiday-feast
   - >-
-    myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-thanksgiving-dinner-why-this-backfires-for-adults-with-metabolic-syndrome
+    7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
   - >-
-    skip-breakfast-holiday-calories-myth
+    why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
   - >-
-    intergenerational-cooking-cortisol-dawn-phenomenon
+    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
 ---
 
 # Why Skipping Breakfast Holiday Hyperglycemia Seniors Is a Common—and Risky—Holiday Habit

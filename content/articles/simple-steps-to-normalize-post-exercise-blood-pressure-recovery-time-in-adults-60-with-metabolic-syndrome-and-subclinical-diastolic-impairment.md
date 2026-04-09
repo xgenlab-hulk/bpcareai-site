@@ -11,15 +11,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    quick-ways-to-reduce-post-exercise-diastolic-rebound-in-women-57-69-with-mild-diastolic-dysfunction-and-elevated-e-e-ratio
-  - >-
     post-exercise-blood-pressure-rebound-in-elderly
   - >-
-    quick-ways-to-restore-post-exercise-vascular-reactivity-after-cold-exposure-for-adults-68-with-raynaud-s-phenomenon-and-elevated-pulse-wave-velocity
+    quick-ways-to-reduce-post-exercise-diastolic-rebound-in-women-57-69-with-mild-diastolic-dysfunction-and-elevated-e-e-ratio
   - >-
-    exercise-timing-blood-pressure-variability
+    post-exercise-systolic-surge-quick-fix
   - >-
-    quick-ways-to-restore-postprandial-parasympathetic-tone-within-20-minutes-for-adults-61-75-with-type-2-diabetes-and-vagal-withdrawal-measured-by-rmssd
+    exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous
+  - >-
+    why-does-blood-sugar-spike-after-a-10-minute-walk-in-adults-62-78-with-type-2-diabetes-and-diabetic-retinopathy
 ---
 
 # Supporting Healthy Post-Exercise Blood Pressure Recovery in Adults 60+ With Metabolic Syndrome

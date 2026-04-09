@@ -15,11 +15,11 @@ relatedSlugs:
   - >-
     resonant-breathing-diastolic-pressure-reduction
   - >-
-    what-causes-sudden-diastolic-drop-after-sitting-up-from-supine-in-adults-69-with-left-ventricular-hypertrophy-and-reduced-early-diastolic-filling
-  - >-
-    breathing-patterns-right-atrial-pressure-seniors
+    7-silent-signs-of-diastolic-dysfunction-you-might-miss-at-home-especially-if-you-re-65-with-normal-ejection-fraction
   - >-
     7-silent-signs-your-left-ventricular-diastolic-function-is-declining-especially-if-you-still-pass-standard-ekgs-and-walk-5-000-steps-daily
+  - >-
+    what-causes-sudden-diastolic-drop-after-sitting-up-from-supine-in-adults-69-with-left-ventricular-hypertrophy-and-reduced-early-diastolic-filling
 ---
 
 # How Nighttime Mouth Breathing May Affect Diastolic Function in Seniors — What Cardiac MRI Reveals

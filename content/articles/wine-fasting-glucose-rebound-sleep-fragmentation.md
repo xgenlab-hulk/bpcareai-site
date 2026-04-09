@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     7-hidden-sleep-disrupting-habits-that-elevate-fasting-glucose-in-adults-50-65-even-with-normal-bmi-and-no-osa-diagnosis
   - >-
-    holiday-sleep-fragmentation-fasting-glucose-men
-  - >-
     how-late-night-eggnog-consumption-disrupts-fasting-glucose-patterns-in-men-over-65-with-prediabetes
   - >-
     how-late-night-cookie-binges-alter-hepatic-gluconeogenesis-rhythms-in-adults-58-66-with-prediabetes-and-why-it-matters-for-fasting-glucose-stability
   - >-
-    tart-cherry-vs-melatonin-for-nighttime-glucose
+    holiday-sleep-fragmentation-fasting-glucose-men
+  - >-
+    how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms
 ---
 
 # When “Just a Little Wine” Affects Your Night: Understanding Wine Fasting Glucose Rebound and Sleep Fragmentation After 59

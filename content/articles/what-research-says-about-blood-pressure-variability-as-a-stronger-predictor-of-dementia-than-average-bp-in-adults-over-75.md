@@ -10,6 +10,16 @@ primaryKeyword: blood pressure variability and dementia risk after 75
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    the-truth-about-normal-bp-variability-why-24-hour-sd-15-mmhg-predicts-microinfarct-burden-in-adults-69-with-white-matter-hyperintensities
+  - >-
+    ambulatory-blood-pressure-variability-interpretation
+  - >-
+    when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
+  - >-
+    what-research-says-about-blood-pressure-variability-in-adults-58-67-with-early-parkinson-s-disease-before-motor-symptoms-emerge
+  - >-
+    the-complete-guide-to-managing-blood-pressure-while-caring-for-a-spouse-with-dementia-stress-resilience-sleep-fragmentation-and-medication-adherence-trade-offs-in-adults-65-79
   - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - >-
     when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss

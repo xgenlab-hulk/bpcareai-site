@@ -15,7 +15,9 @@ relatedSlugs:
   - >-
     myths-vs-facts-diabetic-shoes-do-they-actually-prevent-ulcers-in-adults-77-with-mild-charcot-foot-and-no-current-deformity
   - >-
-    strength-training-peripheral-neuropathy-seniors
+    charcot-neuroarthropathy-footwear-seniors
+  - >-
+    barefoot-walking-glycemic-variability-seniors
 
 ---
 

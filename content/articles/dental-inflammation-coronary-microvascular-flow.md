@@ -9,15 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-low-grade-dental-inflammation-alters-plaque-stability-in-adults-68-with-stable-cad-evidence-from-serial-ivus-oct-imaging
+  - >-
     gum-disease-and-coronary-artery-function
   - >-
     gum-disease-and-coronary-artery-calcification
   - >-
-    gum-inflammation-endothelial-nitric-oxide-synthase-coupling
+    how-chronic-low-grade-gum-inflammation-drives-coronary-plaque-instability-and-why-scaling-alone-isn-t-enough-for-adults-62-with-periodontitis-and-cad
   - >-
     how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension
-  - >-
-    how-chronic-low-grade-inflammation-drives-resistant-hypertension-in-adults-60-74-with-elevated-hs-crp-and-gum-recession
 ---
 
 # How Dental Inflammation Coronary Microvascular Flow Connects Your Gums to Heart Health

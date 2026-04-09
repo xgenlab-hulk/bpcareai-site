@@ -11,9 +11,13 @@ relatedSlugs:
   - >-
     the-ultimate-guide-to-interpreting-your-coronary-artery-calcium-score-including-age-and-sex-specific-percentile-benchmarks-and-when-to-repeat-scanning
   - >-
-    myths-vs-facts-stable-cad-means-no-risk-of-sudden-cardiac-death-in-adults-61-74-with-3-vessel-disease-and-lvef-55
+    5-things-everyone-over-70-should-know-about-coronary-artery-calcium-cac-scoring-especially-if-you-re-taking-statins-but-have-zero-symptoms
   - >-
-    myths-vs-facts-i-have-no-symptoms-so-my-heart-is-fine-in-adults-53-68-with-subclinical-atherosclerosis-and-normal-stress-echo
+    coronary-calcium-score-ct-lung-screening
+  - >-
+    how-does-family-history-influence-your-risk-of-heart-disease-after-60
+  - >-
+    aspirin-primary-prevention-cacs-score
 
   - >-
     aspirin-primary-prevention-cacs-score

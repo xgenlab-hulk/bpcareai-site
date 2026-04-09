@@ -11,15 +11,15 @@ topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
-    medication-interactions-heart-failure-readmission
+    could-your-medications-be-raising-your-blood-pressure
+  - >-
+    7-hidden-medication-interactions-that-raise-blood-pressure-after-age-60-including-common-antidepressants-antihistamines-and-topical-nsaids
+  - >-
+    how-chronic-low-dose-nsaid-use-after-age-65-alters-renin-angiotensin-feedback-and-why-it-masks-early-diastolic-hypertension
   - >-
     does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
   - >-
-    when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
-  - >-
-    when-to-worry-about-normal-bp-readings-during-acute-bronchitis-especially-if-you-re-on-ace-inhibitors-and-over-67
-  - >-
-    7-hidden-blood-pressure-triggers-in-over-the-counter-cold-medicines-for-adults-65-with-stage-1-hypertension-and-mild-orthostatic-hypotension
+    the-impact-of-long-term-nsaid-use-on-heart-disease-risk
 ---
 
 # When a Single High Blood Pressure Reading NSAIDs Might Signal More Than Stress—A Practical Guide for Adults 55–79

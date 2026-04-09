@@ -8,6 +8,16 @@ primaryKeyword: do late night carbs raise blood pressure
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - >-
+    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
+  - >-
+    how-late-night-holiday-snacking-alters-circadian-clock-gene-expression-in-adults-60-69-with-shift-work-history-and-mild-sleep-apnea
+  - >-
+    how-late-night-cookie-binges-alter-hepatic-gluconeogenesis-rhythms-in-adults-58-66-with-prediabetes-and-why-it-matters-for-fasting-glucose-stability
+  - >-
+    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-
     how-late-night-holiday-snacking-alters-circadian-clock-gene-expression-in-adults-60-69-with-shift-work-history-and-mild-sleep-apnea

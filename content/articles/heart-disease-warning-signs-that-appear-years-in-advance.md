@@ -10,6 +10,16 @@ primaryKeyword: early signs of heart disease before symptoms appear
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    could-leg-swelling-be-a-sign-of-heart-trouble-after-50
+  - >-
+    heart-disease-symptoms-in-women-over-50-what-s-often-missed
+  - >-
+    heart-disease-and-erectile-dysfunction-what-men-should-know
+  - >-
+    how-silent-heart-attacks-differ-in-older-adults
+  - >-
+    can-hearing-loss-be-an-early-sign-of-heart-disease
   - why-sudden-weight-gain-could-be-a-red-flag-for-your-heart
   - can-hearing-loss-be-an-early-sign-of-heart-disease
   - how-frequent-urination-at-night-could-signal-heart-problems

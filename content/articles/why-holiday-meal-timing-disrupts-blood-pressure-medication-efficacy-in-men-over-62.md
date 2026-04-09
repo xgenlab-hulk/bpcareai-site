@@ -10,6 +10,16 @@ primaryKeyword: holiday meal timing and blood pressure medication
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    5-things-everyone-over-75-should-know-about-blood-pressure-medication-timing-especially-if-you-take-a-diuretic-and-a-calcium-channel-blocker
+  - >-
+    when-to-worry-about-holiday-induced-brain-fog-after-eating-especially-with-concurrent-ace-inhibitor-use-and-orthostatic-hypotension-in-adults-67
+  - >-
+    5-things-every-adult-55-63-with-newly-diagnosed-hypertension-should-know-before-hosting-their-first-holiday-dinner
+  - >-
+    5-things-everyone-over-70-should-know-about-blood-pressure-medication-timing-when-taking-levothyroxine-and-calcium-supplements
+  - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
   - 7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
   - >-
     how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia

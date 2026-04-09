@@ -10,6 +10,16 @@ primaryKeyword: how to manage blood sugar during holiday shift work
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    christmas-vs-new-year-s-which-holiday-is-harder-on-blood-sugar
+  - >-
+    the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
+  - >-
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - >-
+    best-blood-sugar-monitoring-practices-during-the-holiday-season
+  - >-
+    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
   - how-to-manage-holiday-heart-syndrome-risk-with-type-2-diabetes
   - best-blood-sugar-monitoring-practices-during-the-holiday-season

@@ -9,11 +9,15 @@ topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:
   - >-
-    is-it-safe-to-use-saunas-after-a-recent-myocardial-infarction-guidelines-for-men-62-71-based-on-2024-aha-consensus
+    how-chronic-low-grade-dental-inflammation-alters-plaque-stability-in-adults-68-with-stable-cad-evidence-from-serial-ivus-oct-imaging
   - >-
-    gum-disease-and-coronary-artery-calcification
+    dental-inflammation-coronary-microvascular-flow
   - >-
-    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
+    warning-signs-your-normal-blood-pressure-reading-is-actually-masked-hypertension-especially-during-routine-dental-visits-in-adults-62
+  - >-
+    7-hidden-ways-your-dentist-might-spot-early-heart-disease-especially-if-you-re-a-man-over-65-with-gum-recession-and-no-chest-pain
+  - >-
+    how-poor-dental-hygiene-may-lead-to-heart-disease
 ---
 
 # What Everyone With a Bicuspid Aortic Valve Needs to Know Before a Dental Procedure  

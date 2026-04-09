@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     7-hidden-risks-of-over-the-counter-nasal-decongestants-for-adults-62-with-atrial-fibrillation-and-controlled-hypertension
   - >-
+    nasal-decongestants-and-pulse-pressure-in-asthma
+  - >-
+    carotid-baroreceptor-sensitivity-cooling
+  - >-
     7-hidden-blood-pressure-triggers-in-over-the-counter-cold-medicines-for-adults-65-with-stage-1-hypertension-and-mild-orthostatic-hypotension
   - >-
-    how-intermittent-use-of-magnetic-mattress-pads-alters-baroreflex-gain-in-adults-63-with-mild-orthostatic-intolerance-and-early-autonomic-neuropathy
-  - >-
-    what-causes-sudden-onset-of-orthostatic-tachycardia-after-dental-anesthesia-in-adults-71-with-autonomic-neuropathy-and-prior-orthostatic-hypotension
-  - >-
-    hearing-aids-baroreflex-sensitivity-diastolic-dysfunction
+    nasal-breathing-baroreflex-diabetes
 ---
 
 # How Nasal Decongestants and Carotid Sinus Sensitivity Interact in Older Adults With Early Autonomic Changes

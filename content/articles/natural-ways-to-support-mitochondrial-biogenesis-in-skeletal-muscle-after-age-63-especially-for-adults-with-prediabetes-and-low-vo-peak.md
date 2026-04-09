@@ -9,15 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
+    mitochondrial-biogenesis-without-hiit-seniors
+  - >-
+    mitochondrial-biogenesis-insulin-resistance
+  - >-
     natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
   - >-
-    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
+    mitochondrial-biogenesis-heart-natural
   - >-
-    mitochondrial-biogenesis-heart-aging
-  - >-
-    how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study
-  - >-
-    insulin-sensitivity-without-exercise-elderly
+    mitochondrial-biogenesis-after-overeating-seniors
 ---
 
 # Supporting Mitochondrial Biogenesis in Skeletal Muscle After 63 — Especially With Prediabetes and Low VO₂ Peak

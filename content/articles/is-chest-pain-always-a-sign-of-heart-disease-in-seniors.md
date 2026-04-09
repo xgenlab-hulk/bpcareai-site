@@ -10,6 +10,16 @@ primaryKeyword: chest pain causes besides heart disease seniors
 topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
+  - >-
+    when-to-worry-about-chest-discomfort-after-a-big-holiday-meal
+  - >-
+    how-silent-heart-attacks-differ-in-older-adults
+  - >-
+    the-link-between-atrial-fibrillation-and-heart-disease-in-seniors
+  - >-
+    the-role-of-inflammation-in-heart-disease-for-older-adults
+  - >-
+    why-arm-pain-shouldn-t-be-ignored-in-women-over-50
   - when-to-worry-about-chest-discomfort-after-a-big-holiday-meal
   - how-silent-heart-attacks-differ-in-older-adults
   - the-role-of-inflammation-in-heart-disease-for-older-adults

@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
   - >-
-    microvascular-coronary-reactivity-natural
+    improve-endothelial-function-quickly
   - >-
-    microvascular-coronary-reactivity-natural
+    simple-steps-to-improve-endothelial-dependent-vasodilation-in-just-10-days-using-only-a-digital-thermometer-a-kitchen-timer-and-your-evening-shower
   - >-
-    natural-ways-to-improve-baroreflex-sensitivity-without-drugs-backed-by-8-rcts-in-adults-55-74-with-labile-hypertension
+    sirt1-activating-foods-endothelial-dysfunction-flow-mediated-dilation
   - >-
-    quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
+    does-daily-10-minute-post-dinner-walking-really-reduce-holiday-induced-postprandial-endothelial-dysfunction-in-adults-72-with-mild-carotid-plaque
 ---
 
 # 12 Gentle, Science-Backed Ways to Improve Endothelial Function Without Exercise—Especially for Adults 67–81

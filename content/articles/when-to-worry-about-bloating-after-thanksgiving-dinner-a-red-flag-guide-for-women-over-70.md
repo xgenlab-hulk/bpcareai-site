@@ -11,7 +11,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70
+    when-to-worry-about-sudden-swelling-after-thanksgiving-dinner-in-adults-70-with-heart-failure-and-diuretic-resistant-edema
+  - >-
+    why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
+  - >-
+    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
+  - >-
+    12-simple-swaps-to-reduce-post-holiday-edema-in-women-65-with-stage-2-hypertension-and-mild-lymphedema
+  - >-
+    what-are-the-earliest-signs-your-holiday-weight-gain-is-actually-fluid-retention-not-fat-in-women-over-65-with-atrial-fibrillation
   - when-to-worry-about-chest-discomfort-after-a-big-holiday-meal
   - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
   - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60

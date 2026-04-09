@@ -15,9 +15,9 @@ relatedSlugs:
   - >-
     quick-ways-to-stabilize-post-meal-sodium-excretion-in-adults-63-with-ckd-stage-3-and-high-volume-holiday-soups
   - >-
-    natural-remedies-high-blood-pressure-chronic-kidney-disease
+    7-silent-signs-your-sodium-intake-spiked-at-thanksgiving-dinner-especially-if-you-re-on-an-arb-and-over-72
   - >-
-    sodium-potassium-pump-resilience-natural
+    neutralize-holiday-sodium-quickly-seniors-ck
   - >-
     myths-vs-facts-salt-sensitivity-in-adults-74-with-long-standing-hypertension-why-82-of-salt-sensitive-diagnoses-are-based-on-outdated-protocols
 ---

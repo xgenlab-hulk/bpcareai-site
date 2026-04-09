@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     does-daily-8-minute-cold-water-hand-immersion-really-lower-24-hour-mean-arterial-pressure-in-adults-68-with-mild-hypertension-and-raynaud-s-phenomenon
   - >-
-    microvascular-coronary-reactivity-natural
+    cold-exposure-and-paroxysmal-afib-in-elderly
   - >-
-    cold-face-immersion-baroreflex-seniors
+    why-your-holiday-heart-palpitations-might-be-caused-by-cold-induced-coronary-vasoconstriction-not-alcohol-in-adults-59-with-raynaud-s-phenomenon
   - >-
     how-cold-weather-induced-vasoconstriction-alters-renal-sympathetic-nerve-activity-in-adults-70-with-hypertension-and-mild-diastolic-dysfunction
   - >-
-    cold-exposure-and-paroxysmal-afib-in-elderly
+    how-cold-weather-triggers-morning-hypertensive-crises-in-adults-72-with-white-coat-hypertension-and-peripheral-artery-disease
 ---
 
 # Gentle, Evidence-Based Cold Exposure Vascular Reactivity Recovery for Seniors With Raynaud’s and Stiff Arteries

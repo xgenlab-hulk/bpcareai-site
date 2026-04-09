@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     the-truth-about-sugar-free-holiday-cookies-for-adults-with-stage-2-ckd-and-preserved-egfr
   - >-
-    the-complete-guide-to-reading-holiday-food-labels-for-hidden-carbs-especially-for-adults-with-chronic-kidney-disease-and-diabetes
-  - >-
-    are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - >-
     the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76
   - >-
+    sugar-free-desserts-gut-health-seniors
+  - >-
     are-sugar-free-treats-actually-safe-for-diabetics-over-65
+  - >-
+    5-things-everyone-over-70-should-know-about-alcohol-free-holiday-punch-especially-if-taking-ace-inhibitors-or-arbs
 ---
 
 # Sugar-Free Holiday Punch and Kidney Disease: What Adults 73+ Should Know This Season

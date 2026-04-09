@@ -9,15 +9,15 @@ topicCluster: environmental-factors
 image: ''
 relatedSlugs:
   - >-
-    how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises
+    white-noise-machines-atherosclerosis-seniors
   - >-
     intermittent-silence-and-non-dipping-bp
   - >-
-    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
-  - >-
-    the-truth-about-white-coat-resistance-why-some-adults-55-show-higher-bp-at-home-than-in-clinics-and-what-it-reveals-about-vascular-aging
-  - >-
     7-silent-signs-your-blood-pressure-is-spiking-at-night-even-if-your-daytime-readings-look-normal
+  - >-
+    how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises
+  - >-
+    normalize-nocturnal-blood-pressure-dipping
 ---
 
 # What Is White Noise Masked Nocturnal Hypertension — and Why It Matters After 62

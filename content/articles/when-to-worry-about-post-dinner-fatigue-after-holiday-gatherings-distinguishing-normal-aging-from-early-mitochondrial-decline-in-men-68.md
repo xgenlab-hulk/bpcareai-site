@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     what-causes-sudden-after-dinner-fatigue-in-adults-71-with-mild-anemia-and-low-vitamin-b12-and-how-to-prevent-it-at-holiday-gatherings
   - >-
-    sudden-fatigue-after-holiday-meals-cardiac-diastolic-dysfunction
-  - >-
-    when-to-worry-about-just-tired-after-christmas-dinner-especially-if-you-re-69-with-type-2-diabetes-and-untreated-sleep-apnea
-  - >-
-    when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else
+    10-foods-that-support-mitochondrial-resilience-during-holiday-stress-in-adults-57-74-with-chronic-fatigue
   - >-
     post-dinner-fatigue-holiday-indoor-air
+  - >-
+    when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment
+  - >-
+    mitochondrial-biogenesis-after-overeating-seniors
 ---
 
 # When Post-Dinner Fatigue in Seniors Might Signal Mitochondrial Changes — And When It’s Just Holiday Warmth  

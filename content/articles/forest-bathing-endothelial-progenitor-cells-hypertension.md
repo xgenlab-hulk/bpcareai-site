@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    boost-nitric-oxide-naturally-seniors
+    nasal-rinse-breath-hold-for-endothelial-function
   - >-
     improve-endothelial-function-without-exercise
   - >-
-    a-vs-b-2-minute-morning-sunlight-exposure-vs-5-minute-evening-blue-light-blocking-for-endothelial-function-in-adults-62-74-with-mild-hypertension
+    boost-nitric-oxide-naturally-seniors
   - >-
-    can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension
+    natural-ways-to-support-endothelial-repair-after-acute-hypertensive-crisis-for-adults-65-with-prior-bp-220-120-and-microalbuminuria
   - >-
-    natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
+    simple-steps-to-improve-endothelial-dependent-vasodilation-in-just-10-days-using-only-a-digital-thermometer-a-kitchen-timer-and-your-evening-shower
 ---
 
 # Can Daily Forest Bathing Boost Endothelial Progenitor Cells in Older Men with Stage 1 Hypertension?

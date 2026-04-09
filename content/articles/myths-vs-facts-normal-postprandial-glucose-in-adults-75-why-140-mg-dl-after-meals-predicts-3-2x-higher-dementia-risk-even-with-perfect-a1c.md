@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals
   - >-
+    normalize-postprandial-glucose-within-45-minutes
+  - >-
+    fasting-glucose-myth-postprandial-risk
+  - >-
     when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment
   - >-
-    how-intergenerational-plate-sharing-during-thanksgiving-dinner-elevates-postprandial-glucose-spikes-in-adults-62-with-prediabetes
-  - >-
-    post-dinner-walking-vs-breathing-glucose
-  - >-
-    how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
+    overcorrecting-fasting-glucose-oldest-old
 ---
 
 # Postprandial Glucose and Dementia Risk in Older Adults: Why “Normal” After-Meal Blood Sugar Isn’t So Normal After 75

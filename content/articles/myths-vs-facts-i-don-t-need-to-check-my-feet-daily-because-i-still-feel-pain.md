@@ -10,6 +10,16 @@ primaryKeyword: why check diabetic feet daily if I feel pain
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    foot-care-basics-every-senior-with-diabetes-should-know
+  - >-
+    7-silent-signs-your-feet-are-sending-early-warnings-of-diabetic-neuropathy-especially-if-you-ve-had-t2d-for-12-years
+  - >-
+    7-silent-signs-of-diabetic-neuropathy-in-adults-65-that-mimic-arthritis-or-sciatica-even-with-normal-a1c
+  - >-
+    best-portable-foot-thermometers-for-early-neuropathy-detection-in-adults-70-with-limited-dexterity-and-poor-vision
+  - >-
+    5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house
   - foot-care-basics-every-senior-with-diabetes-should-know
   - >-
     5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house

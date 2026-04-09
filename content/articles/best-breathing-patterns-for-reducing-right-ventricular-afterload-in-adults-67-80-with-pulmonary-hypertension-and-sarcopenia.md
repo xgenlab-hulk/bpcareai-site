@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    resonant-breathing-diastolic-pressure-reduction
+    breathing-techniques-for-left-atrial-pressure
   - >-
-    quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety
+    best-breathing-patterns-for-reducing-left-atrial-pressure-during-sleep-in-adults-67-79-with-hfpef-and-central-sleep-apnea
   - >-
-    quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
+    breathing-patterns-right-atrial-pressure-seniors
   - >-
-    resonant-breathing-diastolic-pressure-reduction
+    right-ventricular-adaptation-copd-seniors
   - >-
-    quick-ways-to-lower-bp-within-90-minutes-using-guided-breathing-postural-sequencing-validated-in-emergency-department-triage-for-stage-1-hypertension
+    how-chronic-nighttime-mouth-breathing-during-cpap-therapy-elevates-pulmonary-artery-pressure-in-adults-70-with-mild-osa-and-preserved-ef
 ---
 
 # How Breathing Patterns Right Ventricular Afterload PH Can Gently Support Heart and Lung Health in Later Years

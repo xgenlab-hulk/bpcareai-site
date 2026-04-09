@@ -11,6 +11,16 @@ primaryKeyword: >-
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    post-exercise-blood-pressure-rebound-in-elderly
+  - >-
+    simple-steps-to-normalize-post-exercise-blood-pressure-recovery-time-in-adults-60-with-metabolic-syndrome-and-subclinical-diastolic-impairment
+  - >-
+    video-call-blood-pressure-spike-family
+  - >-
+    post-exercise-systolic-surge-quick-fix
+  - >-
+    the-best-indoor-exercises-for-blood-pressure-control-in-winter
   - when-to-worry-about-high-readings
   - how-walking-speed-can-reflect-heart-health-and-blood-pressure
   - the-best-indoor-exercises-for-blood-pressure-control-in-winter

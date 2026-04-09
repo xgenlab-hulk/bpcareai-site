@@ -11,11 +11,11 @@ relatedSlugs:
   - >-
     does-daily-2-gram-magnesium-glycinate-lower-24-hour-diastolic-bp-in-adults-63-79-with-chronic-constipation-and-low-rbc-magnesium
   - >-
+    magnesium-glycinate-central-aortic-pressure
+  - >-
     magnesium-threonate-vs-glycinate-nocturnal-bp-dipping
   - >-
     does-daily-200-mg-of-magnesium-l-threonate-not-oxide-or-citrate-improve-nocturnal-bp-dipping-in-adults-66-80-with-mild-cognitive-impairment
-  - >-
-    normalize-glucose-variability-72-hours-magnesium
   - >-
     5-things-you-should-know-before-starting-a-daily-magnesium-glycinate-protocol-especially-if-you-re-taking-amiodarone-or-digoxin-and-are-over-75
 ---

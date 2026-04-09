@@ -11,7 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    can-you-safely-switch-from-long-acting-insulin-to-glp-1-ras-after-age-74-a-risk-benefit-framework-for-frail-adults-with-mild-cognitive-impairment
+    understanding-a1c-goals-for-seniors-with-diabetes
+  - >-
+    the-complete-guide-to-interpreting-hba1c-discordance-with-fructosamine-and-cgm-metrics-in-adults-73-with-chronic-anemia-or-hemoglobinopathy
+  - >-
+    safe-a1c-level-at-70
+  - >-
+    myths-vs-facts-my-diabetes-is-under-control-because-my-a1c-is-6-8-why-that-number-lies-in-adults-77-with-anemia-and-chronic-kidney-disease
+  - >-
+    what-a1c-too-high-50-year-old
   - understanding-a1c-goals-for-seniors-with-diabetes
   - >-
     can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76

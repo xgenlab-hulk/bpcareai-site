@@ -9,15 +9,15 @@ topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements
-  - >-
-    mitochondrial-biogenesis-after-overeating-seniors
-  - >-
-    can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
-  - >-
     holiday-buffet-seniors-satiety-hormones
   - >-
-    insulin-sensitivity-without-exercise-elderly
+    natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements
+  - >-
+    how-cold-weather-impacts-appetite-and-food-choices-in-seniors-during-the-holidays
+  - >-
+    how-holiday-music-volume-and-tempo-affect-post-meal-satiety-hormone-release-in-adults-65-with-mild-cognitive-impairment
+  - >-
+    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
 ---
 
 # Can Cold Exposure Satiety Signaling Seniors Support Comfortable Holiday Eating After 70?

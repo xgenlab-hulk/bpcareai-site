@@ -10,6 +10,16 @@ primaryKeyword: emotional eating grieving seniors holidays
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
+  - >-
+    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
+  - >-
+    5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
+  - >-
+    myths-vs-facts-eating-light-during-holidays-doesn-t-mean-skipping-meals-here-s-why-for-seniors
+  - >-
+    why-emotional-eating-at-family-gatherings-is-common-and-how-to-manage-it
   - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
   - >-
     the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season

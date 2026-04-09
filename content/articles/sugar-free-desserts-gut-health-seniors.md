@@ -11,15 +11,15 @@ topicCluster: gastrointestinal-health
 image: ''
 relatedSlugs:
   - >-
-    the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
+    are-sugar-free-treats-actually-safe-for-diabetics-over-65
+  - >-
+    the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76
+  - >-
+    sugar-free-cookies-polyol-malabsorption-fatigue
   - >-
     the-truth-about-sugar-free-holiday-desserts-for-men-70-with-fructose-malabsorption-and-early-nafld
   - >-
-    are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - >-
-    are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - >-
-    the-truth-about-low-sugar-holiday-cookies-labeled-for-seniors-why-73-contain-maltitol-induced-osmotic-diarrhea-triggers-in-adults-71-with-ibs-c
+    the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors
 ---
 
 # Sugar-Free Desserts, Gut Health, and Seniors: What You Really Need to Know

@@ -8,6 +8,16 @@ primaryKeyword: 'CGM accuracy during holiday travel seniors'
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
+  - >-
+    best-portable-glucose-monitors-for-holiday-travel-in-2024-ranked-by-accuracy-in-cold-weather-battery-life-and-tsa-friendly-design
+  - >-
+    dry-air-fasting-glucose-accuracy
+  - >-
+    can-you-safely-use-a-continuous-glucose-monitor-while-wearing-holiday-sweaters-with-metallic-threads-or-magnetic-closures
+  - >-
+    cgm-flat-line-myth-elderly
+  - >-
+    simple-steps-to-reduce-glucose-variability-during-air-travel-not-just-before-or-after-for-adults-61-with-insulin-dependent-diabetes
 
   - >-
     cgm-accuracy-holiday-travel

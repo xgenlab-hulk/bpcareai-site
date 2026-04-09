@@ -8,6 +8,16 @@ primaryKeyword: 'hearing loss as early warning sign of heart disease'
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    the-link-between-hearing-loss-and-heart-disease-after-60
+  - >-
+    the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70
+  - >-
+    what-research-says-about-hearing-loss-as-an-early-biomarker-of-vascular-aging-in-men-over-75
+  - >-
+    blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
+  - >-
+    heart-disease-warning-signs-that-appear-years-in-advance
   - is-your-posture-affecting-your-heart-what-older-adults-should-know
   - how-vision-changes-might-be-linked-to-heart-disease
   - the-connection-between-frequent-urination-at-night-and-heart-health

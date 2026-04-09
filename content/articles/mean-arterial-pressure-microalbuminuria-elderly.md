@@ -10,6 +10,14 @@ image: ''
 relatedSlugs:
   - >-
     5-things-everyone-with-white-coat-hypertension-over-55-should-know-about-their-10-year-kidney-risk
+  - >-
+    blood-pressure-and-kidney-health-what-seniors-need-to-know
+  - >-
+    how-kidney-function-declines-faster-in-older-adults-with-diabetes
+  - >-
+    what-causes-white-coat-normotension-when-clinic-readings-are-normal-but-ambulatory-monitoring-shows-stage-1-hypertension-in-adults-61-75
+  - >-
+    lower-albuminuria-quickly-seniors
   - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - >-
     what-are-the-earliest-retinal-microvascular-changes-that-predict-hypertensive-end-organ-damage-before-bp-crosses-130-80

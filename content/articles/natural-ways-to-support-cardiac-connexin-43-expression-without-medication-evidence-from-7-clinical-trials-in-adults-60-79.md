@@ -11,9 +11,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
+    connexin-43-phosphorylation-natural-modulation
   - >-
-    boost-nitric-oxide-naturally-seniors
+    atrial-stabilizing-foods-holiday-heart
+  - >-
+    foods-heart-rhythm-afib-64
+  - >-
+    how-chronic-loneliness-alters-heart-rate-variability-and-increases-atrial-fibrillation-risk-in-adults-75-living-alone
+  - >-
+    hosting-holiday-guests-atrial-protection
 
   - >-
     microvascular-coronary-reactivity-natural

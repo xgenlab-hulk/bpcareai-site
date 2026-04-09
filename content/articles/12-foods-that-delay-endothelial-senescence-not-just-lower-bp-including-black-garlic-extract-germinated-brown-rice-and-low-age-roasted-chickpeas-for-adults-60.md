@@ -8,6 +8,16 @@ primaryKeyword: 'foods that slow blood vessel aging after 60'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    sirt1-activating-foods-endothelial-dysfunction-flow-mediated-dilation
+  - >-
+    endothelial-support-without-nitrates-seniors
+  - >-
+    nrf2-activating-foods-microvascular-angina-elders
+  - >-
+    arterial-stiffness-foods-seniors-bp
+  - >-
+    foods-lower-blood-pressure-naturally-53-68
 
   - sirt1-activating-foods-endothelial-dysfunction-flow-mediated-dilation
   - >-

@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone
   - >-
-    the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
+    how-social-isolation-impacts-heart-disease-risk-in-older-adults
+  - >-
+    how-chronic-holiday-social-isolation-alters-ventricular-repolarization-reserve-evidence-from-24-hour-qtc-monitoring-in-adults-69-living-alone
   - >-
     how-social-isolation-accelerates-carotid-intima-media-thickness-progression-and-why-that-predicts-systolic-bp-rise-within-2-years-in-adults-63-79
   - >-
-    why-holiday-social-isolation-raises-fasting-glucose-in-adults-75-with-type-2-diabetes-and-mild-depression
-  - >-
-    how-chronic-loneliness-alters-heart-rate-variability-and-increases-atrial-fibrillation-risk-in-adults-75-living-alone
+    why-winter-increases-heart-attack-risk-in-seniors-over-70
 ---
 
 # How Seasonal Social Isolation Worsens Atherosclerosis in Older Adults After a Heart Attack

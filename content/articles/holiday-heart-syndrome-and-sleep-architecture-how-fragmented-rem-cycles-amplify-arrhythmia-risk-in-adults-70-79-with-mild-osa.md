@@ -10,6 +10,14 @@ image: ''
 relatedSlugs:
   - >-
     when-to-worry-about-just-a-little-extra-heart-racing-after-eggnog-a-red-flag-timeline-for-adults-53-67-with-undiagnosed-sleep-apnea
+  - >-
+    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
+  - >-
+    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
+  - >-
+    holiday-travel-nocturnal-afib-warning
+  - >-
+    is-holiday-heart-syndrome-reversible-what-science-says
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - >-
     warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71

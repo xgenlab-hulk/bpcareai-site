@@ -8,6 +8,16 @@ primaryKeyword: 'natural appetite control holiday meals older adults'
 topicCluster: natural-remedies
 image: ''
 relatedSlugs:
+  - >-
+    holiday-buffet-seniors-satiety-hormones
+  - >-
+    how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
+  - >-
+    5-mistakes-that-make-holiday-weight-gain-harder-to-reverse-after-age-58
+  - >-
+    how-cold-weather-impacts-appetite-and-food-choices-in-seniors-during-the-holidays
+  - >-
+    when-to-worry-about-sudden-appetite-suppression-at-christmas-dinner-a-red-flag-for-early-sarcopenia-or-subclinical-hypothyroidism-in-women-65-79
   - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
   - >-
     the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season

@@ -10,6 +10,16 @@ primaryKeyword: why do wounds heal slowly with diabetes after 60
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    foot-care-basics-every-senior-with-diabetes-should-know
+  - >-
+    how-gum-disease-is-linked-to-diabetes-complications-in-older-adults
+  - >-
+    skin-elasticity-changes-in-elderly-diabetic-women
+  - >-
+    diabetes-hip-fracture-surgery-recovery-seniors
+  - >-
+    diabetes-and-vision-changes-what-seniors-need-to-know
   - diabetes-and-vision-changes-what-seniors-need-to-know
   - recognizing-silent-heart-attacks-in-diabetics-over-60
   - understanding-a1c-goals-for-seniors-with-diabetes

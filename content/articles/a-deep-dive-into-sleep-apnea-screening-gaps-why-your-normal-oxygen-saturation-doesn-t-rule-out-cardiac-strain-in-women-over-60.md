@@ -8,6 +8,16 @@ primaryKeyword: 'why normal sleep oxygen saturation misses heart strain in women
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
+  - >-
+    how-untreated-obstructive-sleep-apnea-worsens-resistant-hypertension-in-women-58-71-with-perimenopausal-insulin-resistance
+  - >-
+    5-things-every-man-over-55-should-know-about-normal-morning-heart-rate-variability-especially-with-untreated-mild-sleep-disordered-breathing
+  - >-
+    warning-signs-your-home-pulse-oximeter-is-masking-early-pulmonary-hypertension-in-adults-68-with-untreated-sleep-apnea-and-unexplained-fatigue
+  - >-
+    warning-signs-of-right-sided-heart-strain-in-adults-75-with-untreated-sleep-apnea-and-pulmonary-hypertension-before-edema-appears
+  - >-
+    when-to-worry-about-just-tired-after-stair-climbing-in-men-60-67-with-untreated-mild-obstructive-sleep-apnea-and-normal-ejection-fraction
   - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
   - >-
     how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night

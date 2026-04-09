@@ -9,15 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-for-adults-71-with-type-2-diabetes-and-severe-copd
-  - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak
-  - >-
     10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
   - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-without-exercise-backed-by-4-rcts-in-sedentary-adults-with-type-2-diabetes-over-65
+    mitochondrial-biogenesis-without-hiit-seniors
   - >-
-    mitochondrial-heart-health-meal-timing-seniors
+    mitochondrial-biogenesis-heart-natural
+  - >-
+    mitochondrial-biogenesis-natural-diastolic-stiffness
+  - >-
+    mitochondrial-biogenesis-heart-aging
 ---
 
 # Natural Ways to Support Mitochondrial Biogenesis After Overeating Seniors — Gentle, Science-Backed Steps for Ages 59–70

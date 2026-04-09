@@ -9,15 +9,15 @@ topicCluster: symptoms-diagnosis
 image: ''
 relatedSlugs:
   - >-
-    cgm-interpretation-early-dementia-diabetes
-  - >-
     warning-signs-your-stable-diabetes-is-masking-early-diabetic-cardiomyopathy-even-with-normal-ejection-fraction-and-no-symptoms-in-adults-59-68
+  - >-
+    cgm-interpretation-early-dementia-diabetes
   - >-
     cgm-edema-heart-failure-diuretics
   - >-
-    warning-signs-your-stable-diabetes-is-masking-early-diabetic-cardiomyopathy-even-with-normal-ejection-fraction-and-no-symptoms-in-adults-59-68
+    cgm-vs-smb-g-dawn-phenomenon-detection
   - >-
-    warning-signs-your-stable-diabetes-is-masking-early-diabetic-cardiomyopathy-even-with-normal-ejection-fraction-and-no-symptoms-in-adults-59-68
+    what-are-the-earliest-ecg-changes-that-predict-sudden-cardiac-death-in-adults-with-well-controlled-type-2-diabetes-and-egfr-55-70
 ---
 
 # What Your CGM Might Be Telling You About Early Diabetic Cardiomyopathy — Beyond Blood Sugar Swings

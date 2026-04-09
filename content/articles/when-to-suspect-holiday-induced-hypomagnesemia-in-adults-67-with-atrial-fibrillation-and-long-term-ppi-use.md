@@ -8,6 +8,16 @@ primaryKeyword: low magnesium from holiday meals with AFib and PPIs
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    does-long-term-use-of-ppis-increase-risk-of-atrial-fibrillation-in-seniors-with-gerd
+  - >-
+    the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
+  - >-
+    7-hidden-electrolyte-shifts-that-happen-during-holiday-cooking-and-how-they-trigger-atrial-fibrillation-in-adults-60-with-mild-hypokalemia
+  - >-
+    warning-signs-of-secondary-hypertension-you-might-miss-if-you-re-57-69-and-taking-proton-pump-inhibitors-long-term
+  - >-
+    9-hidden-sources-of-holiday-related-magnesium-depletion-in-adults-65-with-chronic-migraines-and-how-to-replenish-without-diarrhea
   - the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
   - >-
     does-long-term-use-of-ppis-increase-risk-of-atrial-fibrillation-in-seniors-with-gerd

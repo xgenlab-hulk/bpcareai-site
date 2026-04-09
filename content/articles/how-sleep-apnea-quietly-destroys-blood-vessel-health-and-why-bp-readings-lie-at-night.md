@@ -10,6 +10,16 @@ primaryKeyword: sleep apnea and nighttime blood pressure spikes
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    how-sleep-disordered-breathing-severity-ahi-15-alters-nocturnal-bp-recovery-in-adults-66-82-with-normal-looking-daytime-readings
+  - >-
+    the-link-between-sleep-apnea-and-high-blood-pressure-after-50
+  - >-
+    interpreting-ambulatory-blood-pressure-reports-sleep-apnea
+  - >-
+    what-causes-morning-bp-surges-in-adults-57-69-with-untreated-sleep-apnea-even-when-cpap-use-is-good-enough
+  - >-
+    why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh
   - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
   - the-link-between-sleep-apnea-and-high-blood-pressure
   - how-morning-blood-pressure-spikes-affect-your-heart

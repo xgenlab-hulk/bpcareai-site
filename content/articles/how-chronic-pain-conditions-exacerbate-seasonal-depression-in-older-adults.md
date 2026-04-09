@@ -10,6 +10,16 @@ primaryKeyword: chronic pain and winter depression in older adults
 topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:
+  - >-
+    can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
+  - >-
+    when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
+  - >-
+    how-group-activities-in-senior-centers-prevent-seasonal-depression
+  - >-
+    how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60
+  - >-
+    7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
   - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
   - how-winter-depression-affects-heart-health-in-retired-adults
   - why-older-men-often-hide-their-seasonal-depression-symptoms

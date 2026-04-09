@@ -9,11 +9,15 @@ topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
   - >-
-    boost-nitric-oxide-naturally-seniors
-  - >-
     nitric-oxide-coupling-without-l-arginine
   - >-
-    natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
+    10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina
+  - >-
+    endothelial-nitric-oxide-synthase-recoupling
+  - >-
+    endothelial-support-without-nitrates-seniors
+  - >-
+    natural-ways-to-improve-endothelial-nitric-oxide-synthase-enos-activity-at-night-for-women-63-with-non-dipping-bp-and-shift-work-history
 
   - >-
     microvascular-coronary-reactivity-natural

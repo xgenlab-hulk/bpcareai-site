@@ -8,6 +8,16 @@ primaryKeyword: 'alcohol and blood sugar on New Year with diabetes'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    christmas-vs-new-year-s-which-holiday-is-harder-on-blood-sugar
+  - >-
+    warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know
+  - >-
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - >-
+    best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
+  - >-
+    the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
   - the-truth-about-alcohol-and-blood-sugar-during-holiday-parties
   - >-
     can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know

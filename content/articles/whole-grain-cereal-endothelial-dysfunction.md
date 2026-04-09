@@ -13,13 +13,13 @@ relatedSlugs:
   - >-
     instant-oatmeal-endothelial-function-seniors
   - >-
-    heart-healthy-granola-bars-truth-for-seniors
-  - >-
     the-truth-about-diabetes-friendly-breakfast-cereals-marketed-to-seniors-hidden-glycemic-load-added-maltodextrin-and-the-3-ingredient-label-trick
   - >-
-    7-silent-signs-your-holiday-eggnog-is-triggering-postprandial-endothelial-dysfunction-in-adults-67-with-preexisting-microalbuminuria
+    apple-cider-vs-eggnog-endothelial-function-seniors
   - >-
-    fasting-glucose-myth-postprandial-risk
+    12-science-backed-ways-to-reduce-postprandial-endothelial-dysfunction-within-45-minutes-for-adults-60-76-with-type-2-diabetes-and-elevated-adma
+  - >-
+    12-foods-that-delay-endothelial-senescence-not-just-lower-bp-including-black-garlic-extract-germinated-brown-rice-and-low-age-roasted-chickpeas-for-adults-60
 ---
 
 # What Whole-Grain Cereal *Really* Does to Your Arteries After 60 — Unpacking Whole Grain Cereal Endothelial Dysfunction

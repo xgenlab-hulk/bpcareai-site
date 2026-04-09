@@ -8,6 +8,16 @@ primaryKeyword: coronary flow reserve foods adults 57-69
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    nrf2-activating-foods-microvascular-angina-elders
+  - >-
+    cold-hand-immersion-coronary-flow-reserve
+  - >-
+    coronary-microvascular-reactivity-natural-support
+  - >-
+    microvascular-coronary-reactivity-natural
+  - >-
+    natural-support-for-coronary-microvascular-disease
   - 5-natural-ways-to-improve-coronary-microvascular-function-without-medication-especially-for-women-with-inoca-and-normal-coronary-angiograms
   - 10-foods-that-reduce-arterial-stiffness-within-2-hours-for-adults-60-75-with-hypertension-and-high-pulse-wave-velocity
   - 10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina

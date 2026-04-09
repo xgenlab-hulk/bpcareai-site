@@ -8,6 +8,16 @@ primaryKeyword: 'breathing exercises to lower morning blood pressure spike with 
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    what-causes-morning-bp-surges-in-adults-57-69-with-untreated-sleep-apnea-even-when-cpap-use-is-good-enough
+  - >-
+    how-morning-blood-pressure-spikes-affect-your-heart
+  - >-
+    best-breathing-patterns-for-immediate-bp-reduction-in-adults-60-with-high-lf-hf-ratio-on-hrv-and-morning-anxiety
+  - >-
+    quick-ways-to-normalize-morning-cortisol-bp-coupling-within-7-days-using-dawn-simulation-protein-first-breakfast-in-adults-with-morning-hypertension
+  - >-
+    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
 
   - >-
     resonant-breathing-diastolic-pressure-reduction

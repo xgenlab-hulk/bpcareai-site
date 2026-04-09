@@ -10,6 +10,16 @@ primaryKeyword: emotional eating family gatherings diabetes seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    why-emotional-eating-at-family-gatherings-is-common-and-how-to-manage-it
+  - >-
+    how-intergenerational-plate-sharing-during-thanksgiving-dinner-elevates-postprandial-glucose-spikes-in-adults-62-with-prediabetes
+  - >-
+    diabetes-management-intergenerational-hosting
+  - >-
+    intergenerational-dining-stress-cortisol-glucose
+  - >-
+    how-family-gatherings-affect-blood-sugar-in-men-over-60-with-diabetes
   - why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope
   - why-emotional-eating-during-christmas-raises-blood-sugar-after-50
   - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65

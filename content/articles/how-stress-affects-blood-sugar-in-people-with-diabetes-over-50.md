@@ -10,6 +10,16 @@ primaryKeyword: how stress raises blood sugar after 50 with diabetes
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    stress-blood-sugar-spikes-after-35
+  - >-
+    the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
+  - >-
+    why-holiday-social-isolation-raises-fasting-glucose-in-adults-75-with-type-2-diabetes-and-mild-depression
+  - >-
+    why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
+  - >-
+    how-emotional-exhaustion-from-caregiving-worsens-glycemic-variability-in-adults-with-type-2-diabetes-over-66-and-what-hrv-biofeedback-can-do
   - why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope
   - how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes
   - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes

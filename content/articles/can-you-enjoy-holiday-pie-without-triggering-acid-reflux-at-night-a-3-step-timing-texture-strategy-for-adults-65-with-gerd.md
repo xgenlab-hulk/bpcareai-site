@@ -9,11 +9,15 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    how-holiday-stress-slows-gastric-emptying-in-adults-72-with-mild-gastroparesis-and-what-to-eat-instead
+    what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
   - >-
-    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
+    7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68
   - >-
-    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
+    7-holiday-foods-that-trigger-silent-gastric-reflux-in-adults-65-even-without-heartburn
+  - >-
+    best-low-gi-high-satiety-holiday-breakfasts-for-adults-60-75-with-morning-hyperglycemia-and-gerd
+  - >-
+    how-late-night-pie-eating-disrupts-nocturnal-glucose-rhythms-in-adults-65-with-early-stage-diabetic-neuropathy
   - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
   - >-
     7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68

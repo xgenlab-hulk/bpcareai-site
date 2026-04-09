@@ -11,6 +11,16 @@ primaryKeyword: >-
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    safe-a1c-level-at-70
+  - >-
+    when-should-men-over-75-with-type-2-diabetes-stop-routine-hba1c-screening-a-risk-benefit-framework-for-deprescribing-glycemic-testing
+  - >-
+    myths-vs-facts-my-diabetes-is-under-control-because-my-a1c-is-6-8-why-that-number-lies-in-adults-77-with-anemia-and-chronic-kidney-disease
+  - >-
+    what-a1c-too-high-50-year-old
+  - >-
+    why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals
   - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
   - healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s
   - diabetes-and-vision-changes-what-seniors-need-to-know

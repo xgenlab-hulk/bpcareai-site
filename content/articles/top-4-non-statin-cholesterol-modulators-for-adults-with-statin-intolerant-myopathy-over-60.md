@@ -11,13 +11,15 @@ topicCluster: renal-health
 image: ''
 relatedSlugs:
   - >-
-    myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
+    best-cholesterol-meds-women-menopause
   - >-
     5-things-your-cardiologist-isn-t-telling-you-about-statin-side-effects-after-age-65
   - >-
+    myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
+  - >-
     myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old
   - >-
-    simple-steps-to-lower-lipoprotein-a-naturally-for-adults-56-70-with-familial-hypercholesterolemia-and-cac-score-400
+    can-long-term-statin-use-worsen-myocardial-energetics-in-adults-72-with-pre-existing-mitochondrial-myopathy-and-fatigue-dominant-heart-failure
 ---
 
 # Non-Statin Cholesterol Modulators for Myopathy: Safe Alternatives After Age 60

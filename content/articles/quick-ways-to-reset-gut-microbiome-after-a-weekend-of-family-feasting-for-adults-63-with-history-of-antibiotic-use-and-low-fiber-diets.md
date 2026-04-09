@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     12-science-backed-ways-to-protect-your-gut-microbiome-from-antibiotic-induced-dysbiosis-if-you-re-managing-diabetes-and-over-64
   - >-
-    natural-ways-to-support-digestive-resilience-during-3-day-holiday-travel-for-seniors-58-74-with-chronic-constipation-and-polypharmacy
+    gut-barrier-holiday-feasting
   - >-
-    best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation
+    when-to-suspect-early-gut-microbiome-shifts-after-holiday-pie-consumption-even-without-diarrhea-or-bloating-in-adults-65-with-stable-ibs-d
   - >-
-    how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80
+    holiday-travel-gut-microbiome-ibs-seniors
 ---
 
 # Gentle, Smart Ways to Reset Gut Microbiome After Holiday Feasting — Especially If You’re 63+ and Have Taken Antibiotics

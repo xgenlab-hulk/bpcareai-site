@@ -8,6 +8,16 @@ primaryKeyword: low intensity movement bdnf seniors mood
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
+  - >-
+    best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70
+  - >-
+    quick-ways-to-lift-a-senior-s-mood-during-a-winter-blue-day
+  - >-
+    the-best-indoor-exercises-for-blood-pressure-control-in-winter
+  - >-
+    low-impact-exercise-blood-pressure-seniors
+  - >-
+    quick-ways-to-boost-dopamine-responsiveness-during-shorter-days-without-stimulants-or-antidepressants-evidence-from-8-trials-in-adults-60-82
   - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70
   - can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
   - quick-ways-to-lift-a-senior-s-mood-during-a-winter-blue-day

@@ -8,6 +8,16 @@ primaryKeyword: 'holiday weight gain cardiovascular risk after 58'
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:
+  - >-
+    why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
+  - >-
+    when-to-worry-about-weight-gain-after-a-family-gathering
+  - >-
+    the-truth-about-winter-weight-gain-and-heart-strain-after-60
+  - >-
+    why-older-women-gain-weight-faster-during-the-holidays-after-menopause
+  - >-
+    warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks
   - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
   - how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
   - when-to-worry-about-weight-gain-after-a-family-gathering

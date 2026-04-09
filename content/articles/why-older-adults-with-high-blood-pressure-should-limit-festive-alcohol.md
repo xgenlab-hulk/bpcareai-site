@@ -11,7 +11,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+    why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
+  - >-
+    7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
+  - >-
+    5-things-every-caregiver-should-know-before-taking-an-aging-parent-to-a-new-year-s-eve-party
+  - >-
+    5-things-every-adult-53-64-with-newly-diagnosed-hypertension-should-know-before-attending-their-first-post-diagnosis-holiday-party
+  - >-
+    best-non-alcoholic-holiday-drinks-for-heart-health-after-50
   - the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
   - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome

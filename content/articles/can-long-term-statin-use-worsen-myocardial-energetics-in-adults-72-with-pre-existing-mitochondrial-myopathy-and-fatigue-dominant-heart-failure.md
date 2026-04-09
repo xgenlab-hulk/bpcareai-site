@@ -9,15 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
-    5-things-your-cardiologist-isn-t-telling-you-about-statin-side-effects-after-age-65
+    statin-side-effects-heart-health-seniors
   - >-
-    metformin-mitochondrial-dna-copy-number
+    5-foods-that-support-mitochondrial-membrane-integrity-during-high-fat-holiday-meals-for-adults-65-with-statin-associated-myopathy
+  - >-
+    5-things-your-cardiologist-isn-t-telling-you-about-statin-side-effects-after-age-65
   - >-
     mitochondrial-biogenesis-heart-aging
   - >-
-    mitochondrial-heart-health-meal-timing-seniors
-  - >-
-    what-causes-post-exercise-fatigue-that-lasts-48-hours-in-adults-with-diastolic-dysfunction-and-why-it-s-not-just-getting-older
+    mitochondrial-quality-control-in-cardiomyocytes
 ---
 
 # Can Statins Worsen Heart Energy in Older Adults With Mitochondrial Myopathy and Fatigue-Dominant Heart Failure?

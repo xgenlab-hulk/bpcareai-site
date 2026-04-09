@@ -13,9 +13,13 @@ relatedSlugs:
   - >-
     top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season
   - >-
-    cgms-vs-flash-glucose-monitoring-seniors-hypoglycemia
+    cgms-for-seniors-without-smartphones
   - >-
     best-portable-glucose-monitors-for-holiday-travel-in-2024-ranked-by-accuracy-in-cold-weather-battery-life-and-tsa-friendly-design
+  - >-
+    cgm-accuracy-holiday-travel
+  - >-
+    the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79
 
   - >-
     5-things-you-should-know-before-starting-a-continuous-glucose-monitor-cgm-if-you-re-67-with-low-vision-tremor-or-dexterity-loss

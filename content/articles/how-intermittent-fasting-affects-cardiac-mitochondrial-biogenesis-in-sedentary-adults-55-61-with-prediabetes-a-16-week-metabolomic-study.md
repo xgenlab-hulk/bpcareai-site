@@ -11,15 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    intermittent-fasting-diastolic-dysfunction-hr
+    natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak
   - >-
-    what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension
+    mitochondrial-biogenesis-diastolic-dysfunction
   - >-
-    does-intermittent-fasting-worsen-diastolic-dysfunction-in-women-over-50-with-hypertensive-heart-disease
+    mitochondrial-biogenesis-heart-aging
   - >-
-    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
+    mitochondrial-biogenesis-without-hiit-seniors
   - >-
-    myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-thanksgiving-dinner-why-this-backfires-for-adults-with-metabolic-syndrome
+    mitochondrial-biogenesis-heart-failure-trf
 ---
 
 # How Intermittent Fasting Supports Mitochondrial Biogenesis in Adults With Prediabetes—What a 16-Week Study Reveals for Heart Health

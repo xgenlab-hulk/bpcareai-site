@@ -11,7 +11,15 @@ topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:
   - >-
+    how-chronic-loneliness-alters-heart-rate-variability-and-increases-atrial-fibrillation-risk-in-adults-75-living-alone
+  - >-
+    how-chronic-loneliness-alters-heart-rate-variability-in-adults-65-and-why-that-predicts-5-year-cardiovascular-mortality-risk
+  - >-
     the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
+  - >-
+    how-social-isolation-impacts-heart-disease-risk-in-older-adults
+  - >-
+    how-chronic-loneliness-after-retirement-alters-autonomic-tone-and-elevates-nocturnal-systolic-pressure-in-adults-68-with-preserved-ejection-fraction
   - how-social-isolation-increases-heart-disease-risk-after-60
   - how-social-isolation-impacts-heart-disease-risk-in-older-adults
   - >-

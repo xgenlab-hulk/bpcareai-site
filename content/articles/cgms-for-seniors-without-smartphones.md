@@ -11,11 +11,13 @@ relatedSlugs:
   - >-
     5-things-you-should-know-before-starting-a-continuous-glucose-monitor-cgm-if-you-re-67-with-low-vision-tremor-or-dexterity-loss
   - >-
-    travel-glucose-monitor-seniors-offline-sync
+    cgms-vs-flash-glucose-monitoring-seniors-hypoglycemia
+  - >-
+    5-things-everyone-over-75-should-know-about-using-continuous-glucose-monitors-with-pacemakers-or-icds
   - >-
     a-vs-b-continuous-glucose-monitoring-cgm-vs-fingertip-glucose-testing-for-detecting-nocturnal-hypoglycemia-in-adults-75-on-basal-insulin
   - >-
-    cgms-vs-flash-glucose-monitoring-seniors-hypoglycemia
+    travel-glucose-monitor-seniors-offline-sync
 
 ---
 

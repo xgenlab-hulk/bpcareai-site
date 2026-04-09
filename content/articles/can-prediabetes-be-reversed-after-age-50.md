@@ -8,6 +8,16 @@ primaryKeyword: 'can prediabetes be reversed after 50 with lifestyle'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    7-silent-signs-of-prediabetes-you-re-likely-ignoring-after-age-55-even-with-normal-a1c
+  - >-
+    best-supplements-for-blood-sugar-support-after-50
+  - >-
+    how-gut-microbiome-diversity-at-age-58-64-predicts-10-year-progression-from-prediabetes-to-type-2-diabetes-based-on-3-longitudinal-cohort-studies
+  - >-
+    myths-vs-facts-you-can-reverse-type-2-diabetes-with-diet-alone-what-15-year-remission-data-shows-for-adults-diagnosed-after-age-55
+  - >-
+    natural-ways-to-support-post-meal-insulin-sensitivity-without-medication-3-evidence-based-strategies-validated-in-adults-61-74-with-prediabetes
   - best-supplements-for-blood-sugar-support-after-50
   - the-role-of-fiber-in-controlling-blood-sugar-after-50
   - can-walking-after-meals-lower-blood-sugar-in-older-adults

@@ -10,6 +10,16 @@ primaryKeyword: one bite of pie blood sugar spike over 60
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    holiday-cookie-swap-glucose-management
+  - >-
+    myths-vs-facts-just-skip-dessert-is-enough-to-control-blood-sugar-during-holidays-what-continuous-glucose-data-shows-in-adults-61-74
+  - >-
+    how-to-navigate-grandmother-s-famous-apple-pie-without-spiking-post-meal-glucose-practical-portion-pairing-tactics-for-adults-58-72-with-prediabetes
+  - >-
+    when-should-you-switch-from-fasting-glucose-to-cgm-derived-time-in-range-metrics-for-holiday-decision-making-a-threshold-framework-for-adults-55-69
+  - >-
+    12-science-backed-ways-to-buffer-the-glycemic-impact-of-holiday-pie-crust-in-adults-64-with-prediabetes-and-high-fasting-insulin
   - myths-vs-facts-holiday-eating-with-diabetes-after-50
   - >-
     myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-thanksgiving-dinner-why-this-backfires-for-adults-with-metabolic-syndrome

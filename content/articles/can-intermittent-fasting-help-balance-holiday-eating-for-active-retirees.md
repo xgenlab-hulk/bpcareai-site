@@ -8,6 +8,16 @@ primaryKeyword: 'intermittent fasting for active seniors during holidays'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
+  - >-
+    can-intermittent-fasting-help-reset-blood-sugar-after-christmas
+  - >-
+    what-research-says-about-intermittent-fasting-during-multigenerational-holidays-for-adults-58-74-with-mild-cognitive-impairment
+  - >-
+    weekday-intermittent-fasting-holidays
+  - >-
+    myths-vs-facts-eating-light-at-holiday-dinners-prevents-glucose-spikes-in-adults-62-with-insulin-resistance
   - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
   - >-
     the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season

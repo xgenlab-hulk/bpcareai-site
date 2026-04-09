@@ -10,6 +10,16 @@ primaryKeyword: seasonal depression in older men
 topicCluster: behavioral-mental-health
 image: ''
 relatedSlugs:
+  - >-
+    10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore
+  - >-
+    7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
+  - >-
+    when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
+  - >-
+    can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
+  - >-
+    7-common-mistakes-that-make-seasonal-depression-worse-in-seniors
   - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
   - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
   - 7-common-mistakes-that-make-seasonal-depression-worse-in-seniors

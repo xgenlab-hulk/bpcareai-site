@@ -12,15 +12,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    home-bp-cuff-calibration-arthritis-mobility
-  - >-
     check-blood-pressure-at-night-after-35
   - >-
-    false-low-blood-pressure-reading-causes
+    the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
+  - >-
+    blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ
   - >-
     a-vs-b-home-oscillometric-cuff-upper-arm-vs-wrist-based-monitor-accuracy-in-adults-65-with-severe-arterial-calcification-and-tremor
   - >-
-    false-low-blood-pressure-readings-lymphedema
+    5-things-every-adult-50-59-with-family-history-of-early-hypertension-should-know-before-their-first-home-bp-log
 ---
 
 # How to Check Blood Pressure at Home Correctly — Easy Steps

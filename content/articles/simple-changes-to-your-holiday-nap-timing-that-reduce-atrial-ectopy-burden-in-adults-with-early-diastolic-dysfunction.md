@@ -11,13 +11,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
+    quick-atrial-electrophysiology-normalization
   - >-
-    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
+    holiday-stress-and-atrial-ectopy
   - >-
-    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
+    can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history
   - >-
-    how-late-night-eggnog-consumption-alters-cardiac-repolarization-reserve-in-adults-58-65-with-subclinical-qt-prolongation
+    how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
+  - >-
+    is-holiday-heart-syndrome-reversible-what-science-says
   - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
 ---
 

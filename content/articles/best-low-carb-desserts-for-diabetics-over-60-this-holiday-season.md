@@ -8,6 +8,16 @@ primaryKeyword: 'low-carb holiday desserts for diabetics over 60'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
+  - >-
+    healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s
+  - >-
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
+  - >-
+    can-eggnog-and-desserts-be-part-of-a-diabetic-holiday-diet-after-60
+  - >-
+    diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
   - top-10-diabetes-friendly-snacks-for-people-over-60
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65

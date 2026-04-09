@@ -8,6 +8,16 @@ primaryKeyword: 'how to reduce swelling after holidays without diuretics'
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    when-to-worry-about-sudden-swelling-after-thanksgiving-dinner-in-adults-70-with-heart-failure-and-diuretic-resistant-edema
+  - >-
+    when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70
+  - >-
+    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
+  - >-
+    warning-signs-your-holiday-weight-gain-is-actually-fluid-retention-especially-if-you-re-on-amlodipine-and-over-68
+  - >-
+    post-holiday-joint-swelling-gravy-histamine-seniors
   - 7-smart-swaps-for-healthier-holiday-meals-after-65
   - >-
     7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker

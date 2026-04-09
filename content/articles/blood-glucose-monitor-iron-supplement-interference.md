@@ -9,13 +9,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    cgm-interpretation-early-dementia-diabetes
+    cgm-flat-line-myth-elderly
   - >-
-    top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season
+    sugar-free-kombucha-cgms-interference-seniors
   - >-
-    why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
+    why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals
   - >-
-    7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
+    myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
+  - >-
+    cgm-accuracy-holiday-travel
   - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
 ---
 

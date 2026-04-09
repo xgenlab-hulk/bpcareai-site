@@ -11,11 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome
-  - >-
-    festive-drinks-endothelial-function-hypertension
-  - >-
     alcohol-free-mulled-wine-blood-sugar
+  - >-
+    best-holiday-snacks-for-seniors-with-early-macular-degeneration-ranked-by-lutein-bioavailability-fat-co-ingestion-and-light-induced-oxidative-stress
+  - >-
+    simple-steps-to-modify-grandma-s-pie-recipe-for-diabetic-retinopathy-risk-reduction-without-sacrificing-flavor-or-texture
+  - >-
+    non-alcoholic-drinks-holiday-heart-syndrome
+  - >-
+    holiday-eating-macular-degeneration
   - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
   - >-
     a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome

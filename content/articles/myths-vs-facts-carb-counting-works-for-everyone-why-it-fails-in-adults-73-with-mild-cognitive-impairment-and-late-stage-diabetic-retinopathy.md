@@ -9,15 +9,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
-    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
+    healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s
   - >-
     warning-signs-your-well-controlled-diabetes-is-accelerating-cognitive-decline-even-with-a1c-7-0-in-adults-62-78
   - >-
     warning-signs-your-stable-diabetes-is-masking-early-cognitive-decline-especially-if-you-re-a-man-over-69-with-hba1c-6-8-7-4
   - >-
-    simple-steps-to-adjust-your-insulin-to-carb-ratio-when-starting-a-new-walking-routine-if-you-re-70-and-on-rapid-acting-analogues
+    dessert-portion-control-visual-decline
   - >-
-    what-research-says-about-intermittent-fasting-during-multigenerational-holidays-for-adults-58-74-with-mild-cognitive-impairment
+    overcorrecting-fasting-glucose-oldest-old
 ---
 
 # Why Carb Counting Isn’t Always the Right Fit for Older Adults with Cognitive Changes and Vision Loss — A Gentle, Real-World Guide for the 70+ Diabetes Community

@@ -9,15 +9,15 @@ topicCluster: special-populations
 image: ''
 relatedSlugs:
   - >-
+    myths-vs-facts-i-m-too-old-for-cardiac-rehab-what-the-latest-rcts-say-for-adults-79-with-recent-mi-or-revascularization
+  - >-
+    heart-healthy-holiday-dinner-mci-hosting
+  - >-
     cardiac-rehab-post-covid-myocardial-fatigue
   - >-
-    myths-vs-facts-carb-counting-works-for-everyone-why-it-fails-in-adults-73-with-mild-cognitive-impairment-and-late-stage-diabetic-retinopathy
+    exercise-at-65-weekly-plan
   - >-
-    simple-steps-to-adjust-your-insulin-to-carb-ratio-when-starting-a-new-walking-routine-if-you-re-70-and-on-rapid-acting-analogues
-  - >-
-    5-things-every-caregiver-should-know-before-taking-an-aging-parent-to-a-new-year-s-eve-party
-  - >-
-    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
+    start-walking-at-75-safely
 ---
 
 # Can Adults 75+ With Memory Issues Safely Do Home Cardiac Rehab Without Fall or Medication Errors?

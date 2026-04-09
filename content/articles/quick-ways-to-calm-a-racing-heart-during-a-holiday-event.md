@@ -10,6 +10,16 @@ primaryKeyword: how to calm a racing heart at a holiday party
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    the-truth-about-benign-holiday-palpitations-are-they-really-harmless
+  - >-
+    top-6-stress-reduction-techniques-to-protect-your-heart-this-holiday
+  - >-
+    can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes
+  - >-
+    how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
+  - >-
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - simple-steps-to-monitor-your-heart-health-during-the-holiday-season
   - 12-simple-ways-to-prevent-holiday-heart-syndrome-naturally
   - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50

@@ -14,7 +14,13 @@ relatedSlugs:
   - >-
     does-stress-raise-cholesterol-after-35
   - >-
+    read-cholesterol-test-after-60
+  - >-
     blood-pressure-and-alcohol-how-much-is-too-much
+  - >-
+    high-cholesterol-fatigue-after-35
+  - >-
+    how-alcohol-metabolism-changes-after-age-55-and-why-that-raises-holiday-heart-syndrome-risk-in-adults-55-69-with-mild-liver-steatosis
 ---
 
 # How Does Alcohol Raise Cholesterol in Middle Age?

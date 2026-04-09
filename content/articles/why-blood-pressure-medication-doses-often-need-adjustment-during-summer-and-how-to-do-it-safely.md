@@ -10,6 +10,16 @@ primaryKeyword: blood pressure medication adjustment summer heat
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    antihypertensive-dosing-summer-heatwaves
+  - >-
+    10-silent-signs-your-heart-is-struggling-during-summer-heat-even-with-normal-baseline-bp-and-pulse-in-adults-65
+  - >-
+    7-silent-signs-your-blood-pressure-is-spiking-during-hot-summer-mornings-even-with-normal-home-readings
+  - >-
+    the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
+  - >-
+    warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather
   - 5-common-medication-adjustments-seniors-need-in-winter
   - how-cold-weather-affects-blood-pressure-medication-effectiveness
   - should-you-adjust-your-blood-pressure-goals-in-winter

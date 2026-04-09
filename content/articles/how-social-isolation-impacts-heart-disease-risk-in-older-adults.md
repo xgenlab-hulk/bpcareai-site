@@ -10,6 +10,16 @@ primaryKeyword: social isolation and heart disease risk in seniors
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone
+  - >-
+    how-chronic-loneliness-after-70-rewires-the-autonomic-nervous-system-and-raises-heart-failure-risk
+  - >-
+    the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
+  - >-
+    how-chronic-loneliness-alters-heart-rate-variability-and-increases-atrial-fibrillation-risk-in-adults-75-living-alone
+  - >-
+    how-chronic-loneliness-alters-heart-rate-variability-in-adults-65-and-why-that-predicts-5-year-cardiovascular-mortality-risk
   - how-social-isolation-increases-heart-disease-risk-after-60
   - how-pets-support-heart-health-in-older-adults
   - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease

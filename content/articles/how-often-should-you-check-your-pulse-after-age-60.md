@@ -10,6 +10,16 @@ primaryKeyword: how often should seniors check their pulse
 topicCluster: special-populations
 image: ''
 relatedSlugs:
+  - >-
+    simple-steps-to-monitor-your-heart-health-during-the-holiday-season
+  - >-
+    12-science-backed-times-to-check-your-resting-heart-rate-not-just-during-clinic-visits-in-adults-58-with-anxiety-related-palpitations
+  - >-
+    the-link-between-atrial-fibrillation-and-heart-disease-in-seniors
+  - >-
+    how-often-should-adults-over-50-check-their-blood-pressure
+  - >-
+    home-ecg-patch-interpretation-for-seniors
   - how-often-should-adults-over-50-check-their-blood-pressure
   - could-your-heartbeats-per-minute-predict-longevity
   - why-annual-heart-screenings-are-crucial-after-turning-60

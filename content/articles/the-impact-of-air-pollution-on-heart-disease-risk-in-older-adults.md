@@ -10,6 +10,16 @@ primaryKeyword: how does air pollution affect heart health after 60
 topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:
+  - >-
+    how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries
+  - >-
+    how-indoor-air-quality-affects-heart-health-in-winter
+  - >-
+    how-winter-indoor-air-pollution-pm2-5-from-heaters-candles-elevates-endothelial-microparticle-counts-in-adults-68-with-stable-angina
+  - >-
+    can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation
+  - >-
+    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
   - how-air-pollution-impacts-heart-health-in-older-adults
   - how-indoor-air-quality-affects-heart-health-in-winter
   - how-social-isolation-impacts-heart-disease-risk-in-older-adults

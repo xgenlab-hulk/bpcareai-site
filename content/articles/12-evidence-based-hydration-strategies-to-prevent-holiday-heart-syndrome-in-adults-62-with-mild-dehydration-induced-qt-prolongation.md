@@ -9,7 +9,15 @@ topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
   - >-
+    why-dehydration-at-holiday-events-may-worsen-heart-palpitations
+  - >-
+    how-late-night-eggnog-consumption-alters-cardiac-repolarization-reserve-in-adults-58-65-with-subclinical-qt-prolongation
+  - >-
     best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
+  - >-
+    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
+  - >-
+    quick-ways-to-calm-a-racing-heart-during-a-holiday-event
   - why-dehydration-at-holiday-events-may-worsen-heart-palpitations
   - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
   - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50

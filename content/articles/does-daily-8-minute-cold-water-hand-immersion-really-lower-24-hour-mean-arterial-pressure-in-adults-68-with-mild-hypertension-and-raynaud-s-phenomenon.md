@@ -10,15 +10,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    does-daily-8-minute-cold-water-hand-immersion-really-lower-24-hour-mean-arterial-pressure-in-adults-68-with-mild-hypertension-and-raynaud-s-phenomenon
+    does-daily-4-minute-cold-water-face-immersion-really-lower-24-hour-mean-arterial-pressure-in-adults-61-with-early-autonomic-dysfunction
+  - >-
+    can-daily-cold-water-face-immersion-lower-resting-heart-rate-in-men-58-69-with-mild-hypertension-evidence-from-a-12-week-rct
+  - >-
+    cold-water-hand-immersion-bp-accuracy
   - >-
     cold-face-immersion-baroreflex-seniors
   - >-
-    cold-face-immersion-baroreflex-seniors
-  - >-
-    cold-face-immersion-baroreflex-seniors
-  - >-
-    does-daily-10-minute-cold-water-immersion-12-c-improve-hrv-and-reduce-nt-probnp-in-adults-59-70-with-stage-b-heart-failure
+    quick-ways-to-restore-post-exercise-vascular-reactivity-after-cold-exposure-for-adults-68-with-raynaud-s-phenomenon-and-elevated-pulse-wave-velocity
 ---
 
 # Can Cold Water Immersion Blood Pressure Raynauds Help Older Adults With Mild High Blood Pressure?

@@ -10,6 +10,16 @@ primaryKeyword: cold weather heart palpitations Raynaud's
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
+  - >-
+    quick-ways-to-calm-a-racing-heart-during-a-holiday-event
+  - >-
+    cold-exposure-and-paroxysmal-afib-in-elderly
+  - >-
+    quick-ways-to-restore-post-exercise-vascular-reactivity-after-cold-exposure-for-adults-68-with-raynaud-s-phenomenon-and-elevated-pulse-wave-velocity
+  - >-
+    the-truth-about-benign-holiday-palpitations-are-they-really-harmless
   - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
   - why-dehydration-at-holiday-events-may-worsen-heart-palpitations
   - >-

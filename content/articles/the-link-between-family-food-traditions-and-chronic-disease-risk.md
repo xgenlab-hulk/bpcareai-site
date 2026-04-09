@@ -10,6 +10,16 @@ primaryKeyword: can family food traditions raise chronic disease risk
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about
+  - >-
+    myths-vs-facts-healthy-eating-during-family-celebrations
+  - >-
+    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
+  - >-
+    10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor
+  - >-
+    how-family-gatherings-can-unintentionally-raise-heart-attack-risk
   - 10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor
   - 7-smart-swaps-for-healthier-holiday-meals-after-65
   - 7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about

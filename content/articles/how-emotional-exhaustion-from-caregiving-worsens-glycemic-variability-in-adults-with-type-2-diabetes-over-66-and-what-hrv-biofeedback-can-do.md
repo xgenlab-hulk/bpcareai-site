@@ -10,6 +10,16 @@ primaryKeyword: caregiver stress blood sugar swings seniors
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    10-ways-to-reduce-holiday-glucose-variability-without-changing-what-you-eat-using-chewing-pace-seating-position-and-ambient-sound-cues
+  - >-
+    12-science-backed-ways-to-reduce-glucose-variability-during-winter-months-for-adults-60-with-seasonal-affective-disorder-and-type-2-diabetes
+  - >-
+    normalize-glucose-variability-72-hours-magnesium
+  - >-
+    how-stress-affects-blood-sugar-in-people-with-diabetes-over-50
+  - >-
+    why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals
   - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
   - >-
     social-dancing-glycemic-variability-orthostatic-hypotension

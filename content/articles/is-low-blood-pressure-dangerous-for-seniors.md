@@ -10,6 +10,16 @@ primaryKeyword: is low blood pressure dangerous after 65
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
+  - >-
+    how-standing-up-too-fast-affects-blood-pressure-in-older-adults
+  - >-
+    14-medications-that-lower-blood-pressure-indirectly-from-antidepressants-to-antipsychotics-and-why-that-matters-for-frail-seniors
+  - >-
+    when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension
+  - >-
+    the-truth-about-normal-home-blood-pressure-readings-in-adults-80-with-orthostatic-hypotension-and-white-coat-avoidance
   - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
   - how-does-cold-weather-affect-blood-pressure-in-older-adults
   - winter-vs-summer-blood-pressure-what-seniors-need-to-know

@@ -10,6 +10,16 @@ primaryKeyword: what do blood pressure numbers mean
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    when-to-worry-about-high-readings
+  - >-
+    best-times-measure-bp-daily
+  - >-
+    blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ
+  - >-
+    exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous
+  - >-
+    check-blood-pressure-at-home-correctly
   - when-to-worry-about-high-readings
   - heart-rate-variability-explained
   - blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ

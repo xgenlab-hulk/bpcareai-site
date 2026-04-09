@@ -10,6 +10,16 @@ primaryKeyword: enjoy holiday sweets without blood sugar spikes after 60
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
+  - >-
+    can-eggnog-and-desserts-be-part-of-a-diabetic-holiday-diet-after-60
+  - >-
+    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - >-
+    simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
+  - >-
+    myths-vs-facts-eating-light-at-holiday-dinners-prevents-glucose-spikes-in-adults-62-with-insulin-resistance
   - are-sugar-free-treats-actually-safe-for-diabetics-over-65
   - >-
     how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health

@@ -8,6 +8,16 @@ primaryKeyword: why do I get palpitations at night during perimenopause
 topicCluster: monitoring-technology
 image: ''
 relatedSlugs:
+  - >-
+    7-hidden-causes-of-nighttime-heart-palpitations-in-women-over-55
+  - >-
+    should-you-worry-about-heart-palpitations-when-lying-down
+  - >-
+    what-causes-nocturnal-hypertension-in-women-52-65-with-perimenopausal-hot-flashes-and-elevated-nighttime-norepinephrine
+  - >-
+    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
+  - >-
+    can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation
   - 7-hidden-causes-of-nighttime-heart-palpitations-in-women-over-55
   - >-
     warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71

@@ -9,15 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
-    check-bp-after-flying-copd-60
-  - >-
-    air-travel-endothelial-glycocalyx-hypertension
-  - >-
-    12-science-backed-ways-to-reduce-left-atrial-strain-variability-during-air-travel-for-adults-with-paroxysmal-afib-and-mild-copd
-  - >-
     how-does-long-haul-flight-duration-affect-systolic-blood-pressure-variability-in-adults-68-82-with-white-coat-hypertension
   - >-
-    best-non-pharmacologic-strategies-to-prevent-ventricular-arrhythmias-during-holiday-travel-in-adults-65-79-with-icds-and-history-of-stress-induced-vt
+    blood-pressure-on-long-haul-flights-seniors
+  - >-
+    check-bp-after-flying-copd-60
+  - >-
+    simple-steps-to-reduce-glucose-variability-during-air-travel-not-just-before-or-after-for-adults-61-with-insulin-dependent-diabetes
+  - >-
+    when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
 ---
 
 # Managing Air Travel Blood Pressure Variability After Age 70—Especially With a History of Hypertensive Urgency

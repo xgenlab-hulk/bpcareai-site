@@ -10,6 +10,16 @@ primaryKeyword: heart disease symptoms women miss after 50
 topicCluster: cardiac-disease-management
 image: ''
 relatedSlugs:
+  - >-
+    why-women-s-heart-attack-symptoms-differ-after-menopause
+  - >-
+    why-arm-pain-shouldn-t-be-ignored-in-women-over-50
+  - >-
+    why-older-women-are-more-vulnerable-to-winter-heart-events
+  - >-
+    7-hidden-heart-disease-risk-factors-your-primary-care-doctor-might-miss-especially-if-you-re-a-woman-over-65-with-migraines
+  - >-
+    heart-disease-warning-signs-that-appear-years-in-advance
   - recognizing-silent-heart-attacks-in-diabetics-over-60
   - heart-disease-warning-signs-that-appear-years-in-advance
   - how-strong-are-your-fingernails-what-it-might-say-about-your-heart

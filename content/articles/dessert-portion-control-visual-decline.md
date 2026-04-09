@@ -8,6 +8,16 @@ primaryKeyword: how to control dessert portions with poor eyesight
 topicCluster: comprehensive-health-topics
 image: ''
 relatedSlugs:
+  - >-
+    portion-control-strategies-for-large-family-meals-that-work
+  - >-
+    plate-mapping-macular-degeneration-seniors
+  - >-
+    how-holiday-table-settings-affect-portion-control-in-adults-55-72-with-prediabetes
+  - >-
+    portion-distortion-family-dinner-prediabetes
+  - >-
+    how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
 - simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
 - how-holiday-table-settings-affect-portion-control-in-adults-55-72-with-prediabetes
 - simple-steps-to-modify-holiday-cookie-decorating-for-adults-with-diabetic-retinopathy-and-reduced-contrast-sensitivity

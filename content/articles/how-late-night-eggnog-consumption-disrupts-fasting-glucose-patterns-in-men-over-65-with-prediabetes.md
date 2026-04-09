@@ -10,6 +10,16 @@ primaryKeyword: does eggnog raise fasting blood sugar in older men
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    how-late-night-eggnog-consumption-alters-circadian-insulin-secretion-patterns-in-adults-67-with-long-standing-type-2-diabetes
+  - >-
+    how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms
+  - >-
+    how-late-night-cookie-binges-alter-hepatic-gluconeogenesis-rhythms-in-adults-58-66-with-prediabetes-and-why-it-matters-for-fasting-glucose-stability
+  - >-
+    how-late-night-snacking-during-hanukkah-or-christmas-eve-affects-overnight-glucose-stability-in-women-over-70
+  - >-
+    wine-fasting-glucose-rebound-sleep-fragmentation
   - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-
     holiday-sleep-fragmentation-fasting-glucose-men

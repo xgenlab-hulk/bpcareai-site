@@ -11,13 +11,13 @@ relatedSlugs:
   - >-
     heart-disease-cataract-surgery-seniors
   - >-
-    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
-  - >-
-    when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
-  - >-
     5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics
   - >-
-    5-things-your-pharmacist-won-t-tell-you-about-blood-pressure-meds-and-driving-safety-in-adults-73
+    what-causes-sudden-loss-of-taste-during-stable-beta-blocker-therapy-in-adults-71-with-preserved-ejection-fraction-and-zinc-deficiency
+  - >-
+    the-truth-about-normal-resting-heart-rate-in-adults-80-with-frailty-and-polypharmacy-why-60-bpm-may-signal-dangerous-autonomic-failure
+  - >-
+    beta-blocker-mulled-wine-timing
 ---
 
 # What to Know Before Starting a Beta-Blocker After Age 75 — Especially With COPD, Slow Heart Rate, or Dizziness on Standing

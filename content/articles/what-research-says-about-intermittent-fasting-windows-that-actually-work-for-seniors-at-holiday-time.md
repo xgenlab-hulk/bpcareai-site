@@ -10,6 +10,16 @@ primaryKeyword: time-restricted eating for seniors holidays
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
+  - >-
+    can-intermittent-fasting-help-balance-holiday-eating-for-active-retirees
+  - >-
+    best-times-check-glucose-holidays-seniors
+  - >-
+    can-intermittent-fasting-help-manage-type-2-diabetes-after-60
+  - >-
+    weekday-intermittent-fasting-holidays
+  - >-
+    does-intermittent-fasting-during-holidays-actually-lower-hba1c-what-12-week-rct-data-shows-for-adults-54-68-with-hba1c-7-2-8-6
   - can-intermittent-fasting-help-balance-holiday-eating-for-active-retirees
   - >-
     how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65

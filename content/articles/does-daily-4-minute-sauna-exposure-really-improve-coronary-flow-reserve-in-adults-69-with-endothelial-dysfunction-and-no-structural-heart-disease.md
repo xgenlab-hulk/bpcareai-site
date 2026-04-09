@@ -13,11 +13,11 @@ relatedSlugs:
   - >-
     is-it-safe-to-use-saunas-after-a-recent-myocardial-infarction-guidelines-for-men-62-71-based-on-2024-aha-consensus
   - >-
+    sauna-use-with-ace-inhibitors-seniors
+  - >-
+    simple-steps-to-improve-endothelial-dependent-vasodilation-in-just-10-days-using-only-a-digital-thermometer-a-kitchen-timer-and-your-evening-shower
+  - >-
     improve-endothelial-function-without-exercise
-  - >-
-    forest-bathing-endothelial-progenitor-cells-hypertension
-  - >-
-    what-research-says-about-cranberry-sauce-fermentation-time-and-its-impact-on-postprandial-endothelial-function-in-adults-73-with-stage-1-hypertension
 ---
 
 # Can Short Sauna Sessions Gently Support Coronary Flow Reserve in Older Adults With Endothelial Dysfunction?

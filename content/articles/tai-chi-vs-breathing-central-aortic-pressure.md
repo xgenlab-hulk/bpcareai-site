@@ -8,6 +8,16 @@ primaryKeyword: tai chi vs breathing exercises for stiff arteries
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    can-daily-12-minute-seated-tai-chi-lower-24-hour-systolic-load-in-adults-71-with-isolated-systolic-hypertension-and-mild-gait-instability
+  - >-
+    nasal-breathing-central-aortic-pressure
+  - >-
+    best-breathing-patterns-for-reducing-central-systolic-pressure-in-adults-55-69-with-elevated-augmentation-index-and-high-frequency-hrv-suppression
+  - >-
+    vagal-breathing-central-systolic-pressure
+  - >-
+    quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
 
   - >-
     can-daily-12-minute-seated-tai-chi-lower-24-hour-systolic-load-in-adults-71-with-isolated-systolic-hypertension-and-mild-gait-instability

@@ -8,6 +8,16 @@ primaryKeyword: 'low-glycemic holiday sides for diabetes and osteoarthritis'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
+  - >-
+    7-hidden-blood-sugar-triggers-in-healthy-holiday-side-dishes-like-sweet-potato-casserole-and-cranberry-relish
+  - >-
+    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
+  - >-
+    7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish
+  - >-
+    7-holiday-foods-that-spike-postprandial-glucose-without-tasting-sweet-especially-for-adults-63-with-long-standing-type-2-diabetes
   - low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
   - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
   - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose

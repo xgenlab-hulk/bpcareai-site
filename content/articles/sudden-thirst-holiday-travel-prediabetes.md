@@ -8,6 +8,16 @@ primaryKeyword: sudden thirst and frequent urination during holiday travel
 topicCluster: glucose-diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    when-to-worry-about-sudden-thirst-and-dry-mouth-at-christmas-dinner-a-red-flag-timeline-for-adults-60-with-undiagnosed-prediabetes
+  - >-
+    holiday-hydration-glucose-homeostasis-polypharmacy
+  - >-
+    7-silent-signs-your-blood-sugar-is-spiking-after-holiday-parties-especially-if-you-re-62-with-prediabetes-and-sedentary-habits
+  - >-
+    when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
+  - >-
+    how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
 - when-to-worry-about-sudden-thirst-and-dry-mouth-at-christmas-dinner-a-red-flag-timeline-for-adults-60-with-undiagnosed-prediabetes
 - 7-silent-signs-your-blood-sugar-is-spiking-after-holiday-parties-especially-if-you-re-62-with-prediabetes-and-sedentary-habits
 - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes

@@ -10,6 +10,16 @@ primaryKeyword: chest tightness in cold weather heart risk
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:
+  - >-
+    3-simple-breathing-techniques-to-reduce-heart-stress-in-cold-air
+  - >-
+    why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - >-
+    how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
+  - >-
+    5-silent-signs-your-heart-is-struggling-in-cold-weather
+  - >-
+    why-older-women-are-more-vulnerable-to-winter-heart-events
   - 5-silent-signs-your-heart-is-struggling-in-cold-weather
   - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
   - when-to-worry-about-blood-pressure-changes-during-winter

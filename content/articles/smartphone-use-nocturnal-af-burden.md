@@ -9,15 +9,15 @@ topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
   - >-
-    blue-light-nocturnal-blood-pressure-dipping
+    how-late-night-holiday-movie-marathons-elevate-sympathetic-tone-and-why-that-increases-afib-burden-in-adults-65-with-nocturnal-hypertension
   - >-
     how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
   - >-
-    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
+    vns-vs-tart-cherry-juice-nocturnal-afib
   - >-
     nighttime-light-exposure-cardiac-clock-genes-elders
   - >-
-    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
+    how-frequent-nighttime-awakenings-for-urination-nocturia-predicts-3-year-risk-of-new-onset-atrial-fibrillation-in-men-over-68-with-hypertension
 ---
 
 # How Late-Night Smartphone Use Worsens Nocturnal Atrial Fibrillation Burden in Older Adults With Paroxysmal AF and Mild Sleep Apnea

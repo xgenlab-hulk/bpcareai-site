@@ -9,7 +9,15 @@ topicCluster: hypertension-management
 image: ''
 relatedSlugs:
   - >-
+    can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
+  - >-
     5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics
+  - >-
+    warning-signs-your-holiday-energy-crash-is-actually-orthostatic-hypotension-not-just-overeating-in-adults-76-with-age-related-baroreflex-blunting
+  - >-
+    wine-fasting-glucose-rebound-sleep-fragmentation
+  - >-
+    12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry
   - can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
   - the-truth-about-alcohol-and-blood-sugar-during-holiday-parties
   - >-

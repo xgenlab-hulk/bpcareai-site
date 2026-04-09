@@ -8,6 +8,16 @@ primaryKeyword: best shoes for Charcot foot when you also have COPD
 topicCluster: prevention-risk-assessment
 image: ''
 relatedSlugs:
+  - >-
+    charcot-neuroarthropathy-footwear-seniors
+  - >-
+    myths-vs-facts-diabetic-shoes-do-they-actually-prevent-ulcers-in-adults-77-with-mild-charcot-foot-and-no-current-deformity
+  - >-
+    best-footwear-materials-for-reducing-shear-stress-in-adults-68-82-with-diabetic-neuropathy-hallux-rigidus-and-history-of-recurrent-toe-ulcers
+  - >-
+    best-walking-surface-for-diabetic-glucose
+  - >-
+    best-walking-surfaces-diabetic-foot-ulcers
 
   - >-
     myths-vs-facts-diabetic-shoes-do-they-actually-prevent-ulcers-in-adults-77-with-mild-charcot-foot-and-no-current-deformity

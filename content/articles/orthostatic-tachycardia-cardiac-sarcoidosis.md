@@ -19,7 +19,7 @@ relatedSlugs:
   - >-
     when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss
   - >-
-    cardiac-amyloidosis-early-detection-orthostasis
+    when-to-suspect-cardiac-amyloidosis-in-men-73-with-unexplained-left-ventricular-hypertrophy-bilateral-carpal-tunnel-syndrome-and-orthostatic-dizziness
 ---
 
 # When “Just a Little Dizzy” Might Be Orthostatic Tachycardia Cardiac Sarcoidosis — Especially With Eye or Skin Clues in Your 50s

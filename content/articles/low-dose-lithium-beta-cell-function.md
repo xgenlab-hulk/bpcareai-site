@@ -11,13 +11,15 @@ topicCluster: diabetes-management
 image: ''
 relatedSlugs:
   - >-
-    insulin-receptor-kinase-natural-activation-seniors
-  - >-
     mitochondrial-biogenesis-beta-cells-diabetes
   - >-
-    how-chronic-low-dose-naltrexone-ldn-modulates-il-17-and-treg-activity-in-adults-58-73-with-type-1-diabetes-and-hashimoto-s-thyroiditis
-  - >-
     natural-ways-to-enhance-pancreatic-beta-cell-autophagy-in-adults-57-68-with-early-stage-type-2-diabetes-without-fasting-or-supplements
+  - >-
+    natural-ways-to-support-pancreatic-beta-cell-resilience-without-stimulating-insulin-secretion-using-sulforaphane-timing-low-dose-lithium-in-adults-56-64-with-early-beta-cell-decline
+  - >-
+    insulin-receptor-kinase-natural-activation-seniors
+  - >-
+    beta-cell-resilience-holiday-eating
 ---
 
 # How Ultra-Low-Dose Lithium (0.3 mg/day) May Support Low-Dose Lithium Beta-Cell Function in Adults 59–67 With Long-Standing Type 2 Diabetes

@@ -9,11 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
+    post-holiday-constipation-travel-circadian-seniors
+  - >-
+    quick-ways-to-restore-post-holiday-gut-motility-in-adults-73-with-chronic-constipation-and-polypharmacy
+  - >-
+    prevent-post-holiday-constipation-naturally
+  - >-
     natural-ways-to-reduce-holiday-constipation-in-seniors-taking-opioids-or-anticholinergics
   - >-
-    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
-  - >-
-    how-holiday-stress-slows-gastric-emptying-in-adults-72-with-mild-gastroparesis-and-what-to-eat-instead
+    holiday-travel-gut-microbiome-ibs-seniors
   - 10-high-fiber-holiday-foods-that-support-digestion-after-50
   - >-
     gastric-acid-resilience-ppi-therapy-holiday-meals

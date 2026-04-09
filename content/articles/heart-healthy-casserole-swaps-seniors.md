@@ -8,6 +8,16 @@ primaryKeyword: heart healthy holiday casserole swaps
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - >-
+    5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
+  - >-
+    best-low-sodium-swaps-for-classic-holiday-side-dishes-ranked-by-palatability-potassium-retention-and-ease-of-prep-for-caregivers-over-60
+  - >-
+    7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-adults-72-with-isolated-systolic-hypertension-and-what-to-serve-instead
+  - >-
+    10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor
+  - >-
+    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
   - 5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
   - 10-heart-healthy-swaps-for-traditional-holiday-dishes-after-50
   - simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension

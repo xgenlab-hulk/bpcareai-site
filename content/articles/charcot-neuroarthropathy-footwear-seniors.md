@@ -8,6 +8,16 @@ primaryKeyword: 'Charcot neuroarthropathy footwear older adults'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    myths-vs-facts-diabetic-shoes-do-they-actually-prevent-ulcers-in-adults-77-with-mild-charcot-foot-and-no-current-deformity
+  - >-
+    best-footwear-modifications-for-adults-65-with-charcot-neuroarthropathy-and-mild-copd-balancing-offloading-oxygen-conservation-and-fall-prevention
+  - >-
+    best-footwear-materials-for-reducing-shear-stress-in-adults-68-82-with-diabetic-neuropathy-hallux-rigidus-and-history-of-recurrent-toe-ulcers
+  - >-
+    best-walking-surfaces-diabetic-foot-ulcers
+  - >-
+    best-walking-surface-for-diabetic-glucose
 
   - >-
     best-footwear-modifications-for-adults-65-with-charcot-neuroarthropathy-and-mild-copd-balancing-offloading-oxygen-conservation-and-fall-prevention

@@ -8,6 +8,16 @@ primaryKeyword: 'holiday eating muscle loss signs over 60'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily
+  - >-
+    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
+  - >-
+    preserve-muscle-mass-holiday-meals
+  - >-
+    myths-vs-facts-eating-light-during-holidays-doesn-t-mean-skipping-meals-here-s-why-for-seniors
+  - >-
+    5-mistakes-that-make-holiday-weight-gain-harder-to-reverse-after-age-58
   - what-research-says-about-protein-needs-during-the-holidays-for-frail-seniors
   - 5-mistakes-that-make-holiday-weight-gain-harder-to-reverse-after-age-58
   - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults

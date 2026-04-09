@@ -15,9 +15,9 @@ relatedSlugs:
   - >-
     best-footwear-materials-for-reducing-shear-stress-in-adults-68-82-with-diabetic-neuropathy-hallux-rigidus-and-history-of-recurrent-toe-ulcers
   - >-
-    best-foot-protective-sock-materials-for-men-74-with-diabetic-neuropathy-edema-and-stage-2-venous-insufficiency
+    the-link-between-diabetes-and-slow-healing-in-older-adults
   - >-
-    myths-vs-facts-diabetic-shoes-do-they-actually-prevent-ulcers-in-adults-77-with-mild-charcot-foot-and-no-current-deformity
+    best-walking-surfaces-diabetic-foot-ulcers
 ---
 
 # How Fabric Softener Sheets May Slow Diabetic Foot Ulcer Healing — Especially After Age 68

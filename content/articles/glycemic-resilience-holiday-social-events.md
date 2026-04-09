@@ -8,6 +8,16 @@ primaryKeyword: how to keep blood sugar steady at holiday parties
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    beta-cell-resilience-holiday-eating
+  - >-
+    10-ways-to-reduce-holiday-glucose-variability-without-changing-what-you-eat-using-chewing-pace-seating-position-and-ambient-sound-cues
+  - >-
+    12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry
+  - >-
+    7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
+  - >-
+    postprandial-glucose-family-gatherings-prediabetes
 - 12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry
 - 12-science-backed-ways-to-prevent-post-holiday-hba1c-creep-in-adults-59-72-with-well-controlled-diabetes-and-high-holiday-social-engagement
 - managing-type-2-diabetes-while-attending-back-to-back-holiday-parties

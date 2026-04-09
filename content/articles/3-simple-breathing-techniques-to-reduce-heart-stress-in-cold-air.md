@@ -8,6 +8,16 @@ primaryKeyword: 'breathing techniques for heart health in cold weather'
 topicCluster: environmental-factors
 image: ''
 relatedSlugs:
+  - >-
+    when-to-worry-about-chest-tightness-in-cold-weather
+  - >-
+    how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
+  - >-
+    quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
+  - >-
+    why-winter-increases-heart-attack-risk-in-seniors-over-70
+  - >-
+    natural-ways-to-lower-blood-pressure-this-winter-without-medication
   - can-deep-breathing-exercises-lower-heart-disease-risk
   - can-deep-breathing-exercises-reduce-high-blood-pressure
   - top-6-stress-reduction-techniques-to-protect-your-heart-this-holiday

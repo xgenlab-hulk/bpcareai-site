@@ -13,9 +13,9 @@ relatedSlugs:
   - >-
     flaxseed-oil-vs-ground-flaxseed-diabetes
   - >-
-    the-truth-about-heart-healthy-seed-oils-in-diabetic-dyslipidemia-do-linoleic-acid-rich-blends-actually-reduce-oxidized-ldl-in-adults-60-76
+    seed-oils-and-endothelial-oxidative-stress
   - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
+    the-truth-about-heart-healthy-seed-oils-in-diabetic-dyslipidemia-do-linoleic-acid-rich-blends-actually-reduce-oxidized-ldl-in-adults-60-76
   - >-
     the-truth-about-heart-healthy-omega-6-rich-vegetable-oils-in-adults-55-70-with-elevated-oxidized-ldl-and-low-hdl2-subfraction
 ---

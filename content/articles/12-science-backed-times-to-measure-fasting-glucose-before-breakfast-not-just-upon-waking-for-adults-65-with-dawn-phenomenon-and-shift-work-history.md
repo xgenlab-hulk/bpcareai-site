@@ -8,6 +8,16 @@ primaryKeyword: 'best time to check fasting glucose with dawn effect at 65'
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    stabilize-morning-glucose-without-insulin
+  - >-
+    why-your-afternoon-napping-habit-might-be-raising-fasting-glucose-even-with-normal-bedtime-snacks-in-adults-65-with-dawn-phenomenon
+  - >-
+    quick-ways-to-normalize-fasting-glucose-without-medication-in-adults-50-61-with-prediabetes-and-shift-work-history
+  - >-
+    why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
+  - >-
+    why-morning-cortisol-spikes-worsen-dawn-phenomenon-in-adults-62-with-long-standing-type-2-diabetes-and-adrenal-fatigue-symptoms
 
   - >-
     best-times-check-glucose-holidays-seniors

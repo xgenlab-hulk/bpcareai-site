@@ -8,6 +8,16 @@ primaryKeyword: blood pressure spikes while shaving or brushing teeth
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
+  - >-
+    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
+  - >-
+    7-silent-signs-your-blood-pressure-is-spiking-during-hot-summer-mornings-even-with-normal-home-readings
+  - >-
+    natural-baroreflex-sensitivity-enhancement
+  - >-
+    7-hidden-ways-your-hearing-aid-s-bluetooth-streaming-affects-baroreceptor-sensitivity-especially-during-morning-blood-pressure-spikes-in-adults-73
+  - >-
+    7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
 
   - >-
     cold-face-immersion-baroreflex-seniors

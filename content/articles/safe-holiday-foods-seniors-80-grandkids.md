@@ -9,6 +9,16 @@ primaryKeyword: safe holiday foods seniors 80 grandkids
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    holiday-foods-blood-sugar-bp-seniors-70
+  - >-
+    12-smart-swaps-to-manage-blood-sugar-during-holiday-meals
+  - >-
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
+  - >-
+    7-holiday-foods-that-spike-postprandial-glucose-without-tasting-sweet-especially-for-adults-63-with-long-standing-type-2-diabetes
+  - >-
+    myths-vs-facts-eating-light-at-holiday-dinners-prevents-glucose-spikes-in-adults-62-with-insulin-resistance
 
   - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
   - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd

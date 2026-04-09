@@ -9,15 +9,15 @@ topicCluster: natural-remedies
 image: ''
 relatedSlugs:
   - >-
-    dangers-of-just-one-more-cup-of-eggnog-for-adults-over-74-with-subclinical-vitamin-d-toxicity-and-how-to-spot-early-hypercalcemia-clues
+    calcium-rich-foods-without-dairy-seniors
+  - >-
+    5-things-every-woman-over-64-should-know-about-holiday-cheese-boards-and-bone-turnover-markers-especially-with-long-term-calcium-supplementation
   - >-
     gastric-acid-resilience-ppi-therapy-holiday-meals
   - >-
-    5-things-every-woman-over-68-with-osteopenia-should-know-before-swapping-butter-for-margarine-in-holiday-baking
+    dangers-of-just-one-more-cup-of-eggnog-for-adults-over-74-with-subclinical-vitamin-d-toxicity-and-how-to-spot-early-hypercalcemia-clues
   - >-
-    5-things-every-woman-over-65-with-osteoporosis-should-know-before-eating-holiday-roast-beef-and-gravy
-  - >-
-    ppi-use-vitamin-b12-neuropathy-diabetes
+    warning-signs-of-subclinical-vitamin-b12-malabsorption-triggered-by-holiday-ham-and-roast-beef-in-adults-70-taking-ppis-or-with-atrophic-gastritis
 ---
 
 # Calcium-Fortified Eggnog Not Helping Bones? 5 PPI Absorption Strategies for Women 62+

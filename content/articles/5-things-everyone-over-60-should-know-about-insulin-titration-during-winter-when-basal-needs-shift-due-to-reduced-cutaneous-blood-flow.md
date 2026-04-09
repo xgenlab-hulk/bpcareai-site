@@ -11,7 +11,13 @@ relatedSlugs:
   - >-
     how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
   - >-
+    how-cold-weather-affects-blood-sugar-in-people-with-diabetes
+  - >-
+    the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79
+  - >-
     simple-steps-to-adjust-your-diabetes-medication-timing-for-winter-circadian-shifts-especially-if-you-live-north-of-the-45th-parallel-and-are-over-69
+  - >-
+    how-holiday-air-travel-disrupts-subcutaneous-insulin-absorption-kinetics-in-adults-73-with-subcutaneous-adipose-atrophy-and-long-term-t1d
   - does-layering-clothes-help-regulate-blood-pressure-in-cold-climates
   - winter-vs-summer-blood-pressure-what-seniors-need-to-know
   - 5-common-medication-adjustments-seniors-need-in-winter

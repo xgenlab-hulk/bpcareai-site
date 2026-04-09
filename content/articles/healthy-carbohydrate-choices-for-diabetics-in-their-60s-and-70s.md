@@ -10,6 +10,16 @@ primaryKeyword: best carbs for managing diabetes after 60
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
+  - >-
+    best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
+  - >-
+    top-10-diabetes-friendly-snacks-for-people-over-60
+  - >-
+    diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
+  - >-
+    myths-vs-facts-carb-counting-works-for-everyone-why-it-fails-in-adults-73-with-mild-cognitive-impairment-and-late-stage-diabetic-retinopathy
+  - >-
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
   - best-fruits-for-diabetics-over-50-and-which-to-limit
   - the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors
   - understanding-a1c-goals-for-seniors-with-diabetes

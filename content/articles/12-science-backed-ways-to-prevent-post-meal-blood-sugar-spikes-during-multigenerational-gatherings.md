@@ -8,6 +8,16 @@ primaryKeyword: 'how to prevent blood sugar spikes after meals over 60'
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - >-
+    7-hidden-triggers-of-after-dinner-blood-sugar-spikes-at-family-dinners-and-how-to-neutralize-them-without-skipping-dessert
+  - >-
+    how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
+  - >-
+    how-intergenerational-plate-sharing-during-thanksgiving-dinner-elevates-postprandial-glucose-spikes-in-adults-62-with-prediabetes
+  - >-
+    7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
+  - >-
+    myths-vs-facts-eating-light-at-holiday-dinners-prevents-glucose-spikes-in-adults-62-with-insulin-resistance
   - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
   - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
   - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food

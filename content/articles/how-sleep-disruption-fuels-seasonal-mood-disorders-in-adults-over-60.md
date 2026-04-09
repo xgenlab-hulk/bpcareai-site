@@ -10,6 +10,16 @@ primaryKeyword: sleep disruption and seasonal depression after 60
 topicCluster: circadian-sleep-health
 image: ''
 relatedSlugs:
+  - >-
+    what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter
+  - >-
+    how-reduced-sunlight-exposure-after-age-60-alters-melatonin-cortisol-rhythms-and-why-that-worsens-winter-mood
+  - >-
+    what-are-the-earliest-behavioral-red-flags-of-seasonal-depression-in-women-over-65-before-mood-changes-appear
+  - >-
+    can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
+  - >-
+    10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore
   - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
   - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
   - seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know

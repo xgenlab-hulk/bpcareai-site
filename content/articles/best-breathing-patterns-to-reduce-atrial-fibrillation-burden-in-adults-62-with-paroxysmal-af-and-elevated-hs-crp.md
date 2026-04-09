@@ -9,15 +9,15 @@ topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
   - >-
-    breathing-patterns-right-atrial-pressure-seniors
+    breathing-techniques-for-left-atrial-pressure
   - >-
-    best-breathing-patterns-for-reducing-central-systolic-pressure-in-adults-55-69-with-elevated-augmentation-index-and-high-frequency-hrv-suppression
+    why-does-heart-rate-variability-decline-after-65-and-what-simple-breathing-protocols-can-restore-it-without-medication
   - >-
-    resonant-breathing-diastolic-pressure-reduction
+    seated-tai-chi-atrial-fibrillation-seniors
   - >-
-    resonant-breathing-diastolic-pressure-reduction
+    left-atrial-appendage-flow-velocity-breathing
   - >-
-    quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
+    vagal-breathing-central-systolic-pressure
 ---
 
 # Gentle Breathing Techniques for Atrial Fibrillation Seniors: Calming the Heart, Reducing Inflammation
