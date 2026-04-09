@@ -18,10 +18,6 @@ relatedSlugs:
     is-holiday-heart-syndrome-reversible-what-science-says
   - >-
     the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement
-  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
-  - >-
-    holiday-stress-and-atrial-ectopy
-  - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
 ---
 
 # Beyond the Bottle: Understanding Non-Alcoholic Holiday Heart Syndrome Triggers in Adults 62+

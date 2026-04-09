@@ -20,13 +20,6 @@ relatedSlugs:
     enhance-hepatic-insulin-clearance-natural
   - >-
     time-restricted-eating-hepatic-insulin-sensitivity
-
-  - >-
-    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
-  - >-
-    time-restricted-eating-hepatic-insulin-sensitivity
-  - >-
-    how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin
 ---
 
 # What Every Man Over 72 Should Know About Testosterone Therapy, Hepatic Glucose Production, and Liver Health

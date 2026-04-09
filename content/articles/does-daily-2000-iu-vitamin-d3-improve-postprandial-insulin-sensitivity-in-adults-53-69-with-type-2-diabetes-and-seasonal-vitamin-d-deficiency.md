@@ -18,14 +18,6 @@ relatedSlugs:
     12-science-backed-ways-to-reduce-glucose-variability-during-winter-months-for-adults-60-with-seasonal-affective-disorder-and-type-2-diabetes
   - >-
     why-your-blood-sugar-might-be-higher-in-december-even-with-good-habits
-  - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
-  - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
-  - >-
-    the-truth-about-vitamin-d-supplementation-for-seasonal-depression-in-men-over-72-with-chronic-kidney-disease-stage-3
-  - >-
-    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
-  - >-
-    natural-ways-to-support-post-meal-insulin-sensitivity-without-medication-3-evidence-based-strategies-validated-in-adults-61-74-with-prediabetes
 ---
 
 # Can Daily 2000 IU Vitamin D3 Support vitamin d3 postprandial insulin sensitivity in Adults 53–69 With Type 2 Diabetes and Seasonal Deficiency?

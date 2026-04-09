@@ -18,9 +18,6 @@ relatedSlugs:
     does-adding-1-gram-of-ground-flaxseed-to-breakfast-lower-central-systolic-pressure-in-adults-56-69-with-hypertension-and-elevated-ldl-p
   - >-
     how-intermittent-fasting-alters-cardiac-autophagy-flux-in-men-58-67-with-left-ventricular-diastolic-dysfunction-and-elevated-galectin-3
-  - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
-  - >-
-    what-research-says-about-fasting-mimicking-diet-cycles-and-coronary-plaque-stabilization-in-adults-with-high-risk-lipid-profiles-lp-a-50-mg-dl
 ---
 
 # Can Intermittent Fasting Lower LDL Particle Count in Men Over 50 With Familial Hypercholesterolemia?

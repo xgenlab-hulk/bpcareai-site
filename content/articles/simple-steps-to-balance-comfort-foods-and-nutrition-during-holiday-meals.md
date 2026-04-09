@@ -20,11 +20,6 @@ relatedSlugs:
     can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure
   - >-
     the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies
-  - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
-  - >-
-    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
-  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
-  - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
 ---
 
 # Gentle Ways to Practice Balancing Comfort Food and Health During the Holidays

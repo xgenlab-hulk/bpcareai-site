@@ -18,11 +18,6 @@ relatedSlugs:
     holiday-foods-blood-sugar-bp-seniors-70
   - >-
     how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
-  - 5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners
-  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
-  - >-
-    holiday-buffet-seniors-satiety-hormones
-  - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
 ---
 
 # Eating Well at Holiday Parties With Hearing Loss: A Quiet, Confident Guide for Seniors 70+

@@ -18,7 +18,6 @@ relatedSlugs:
     natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
   - >-
     can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history
-
 ---
 
 # 10 Foods That Help Stabilize Vagal Tone During the Holidays — A Practical Guide for Seniors 61–74 With POTS-Like Symptoms

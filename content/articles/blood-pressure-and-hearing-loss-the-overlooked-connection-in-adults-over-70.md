@@ -18,11 +18,6 @@ relatedSlugs:
     the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70
   - >-
     7-hidden-ways-your-hearing-aid-s-bluetooth-streaming-affects-baroreceptor-sensitivity-especially-during-morning-blood-pressure-spikes-in-adults-73
-  - blood-pressure-and-kidney-health-what-seniors-need-to-know
-  - the-link-between-hearing-loss-and-heart-disease-after-60
-  - can-hearing-loss-be-an-early-sign-of-heart-disease
-  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
-  - the-hidden-dangers-of-indoor-heating-on-blood-pressure
 ---
 
 # Blood Pressure and Hearing Loss in Older Adults: Understanding the Silent Link

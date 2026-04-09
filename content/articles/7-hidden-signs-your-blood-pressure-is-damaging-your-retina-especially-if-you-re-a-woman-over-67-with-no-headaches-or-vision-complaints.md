@@ -18,9 +18,6 @@ relatedSlugs:
     10-silent-signs-your-blood-pressure-is-damaging-your-retina-even-with-controlled-readings-in-adults-63-with-type-2-diabetes
   - >-
     10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63
-  - how-vision-changes-might-be-linked-to-heart-disease
-  - >-
-    10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63
 ---
 
 # What Your Eyes Reveal About Blood Pressure—Especially for Women Over 67 (Even Without Headaches or Blurry Vision)

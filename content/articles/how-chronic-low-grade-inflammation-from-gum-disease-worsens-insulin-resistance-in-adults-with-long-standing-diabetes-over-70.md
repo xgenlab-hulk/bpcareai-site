@@ -20,12 +20,6 @@ relatedSlugs:
     how-chronic-low-grade-gum-inflammation-accelerates-beta-cell-dysfunction-in-adults-62-with-long-standing-type-2-diabetes
   - >-
     how-chronic-low-grade-gum-inflammation-alters-insulin-clearance-in-adults-57-69-with-well-controlled-type-2-diabetes
-  - how-gum-disease-is-linked-to-diabetes-complications-in-older-adults
-  - >-
-    how-chronic-low-grade-inflammation-from-periodontitis-elevates-nighttime-blood-pressure-in-adults-61-76-with-hypertension-and-poor-dental-access
-  - how-chronic-inflammation-worsens-type-2-diabetes-after-50
-  - the-hidden-link-between-gum-disease-and-heart-problems
-  - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
 ---
 
 # How Gum Disease and Insulin Resistance in Seniors Are Linked—And What You Can Do About It

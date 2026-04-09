@@ -18,9 +18,6 @@ relatedSlugs:
     natural-ways-to-support-post-holiday-glucose-recovery-using-fenugreek-ceylon-cinnamon-and-tart-cherry-juice-dosed-for-adults-54-79
   - >-
     7-hidden-blood-sugar-triggers-in-healthy-holiday-side-dishes-like-sweet-potato-casserole-and-cranberry-relish
-  - 5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
-  - >-
-    7-hidden-blood-sugar-triggers-in-healthy-holiday-side-dishes-like-sweet-potato-casserole-and-cranberry-relish
 ---
 
 # 9 Blood Sugar Stabilizing Holiday Foods That Work Naturally — For Adults 57+ Managing Type 2 Diabetes

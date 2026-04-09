@@ -18,10 +18,6 @@ relatedSlugs:
     7-hidden-blood-sugar-triggers-in-holiday-baking-ingredients-especially-for-women-58-72-with-long-standing-type-2-diabetes
   - >-
     how-late-night-gift-wrapping-alters-hepatic-insulin-clearance-and-why-that-raises-fasting-glucose-next-morning-in-adults-62-with-nafld-and-normal-bmi
-  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
-  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
-  - >-
-    the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76
 ---
 
 # Do Date Paste Desserts Really Lower Glycemic Load for Seniors with NAFLD? Understanding Fructose, Liver Health, and Holiday Choices

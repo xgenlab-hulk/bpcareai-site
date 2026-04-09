@@ -18,11 +18,6 @@ relatedSlugs:
     natural-ways-to-lower-blood-pressure-this-winter-without-medication
   - >-
     how-indoor-air-quality-affects-heart-health-in-winter
-  - the-best-indoor-exercises-for-blood-pressure-control-in-winter
-  - how-indoor-air-quality-affects-heart-health-in-winter
-  - the-hidden-dangers-of-indoor-heating-on-blood-pressure
-  - blood-pressure-management-for-sedentary-seniors-in-winter-months
-  - natural-ways-to-lower-blood-pressure-this-winter-without-medication
 ---
 
 # How Your Home Environment and Blood Pressure Interact—Especially in Winter

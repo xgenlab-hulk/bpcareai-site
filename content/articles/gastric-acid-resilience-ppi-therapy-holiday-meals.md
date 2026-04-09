@@ -18,9 +18,6 @@ relatedSlugs:
     sudden-bloating-after-holiday-dinner
   - >-
     how-holiday-stress-slows-gastric-emptying-in-adults-72-with-mild-gastroparesis-and-what-to-eat-instead
-  - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
-  - >-
-    can-you-enjoy-holiday-pie-without-triggering-acid-reflux-at-night-a-3-step-timing-texture-strategy-for-adults-65-with-gerd
 ---
 
 # Gentle Strategies for Gastric Acid Resilience During Holiday Meals — Especially for Adults 67+ on Long-Term PPI Therapy

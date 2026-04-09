@@ -18,11 +18,6 @@ relatedSlugs:
     7-hidden-heart-disease-risks-in-adults-55-64-who-still-feel-too-young-for-cardiac-screening
   - >-
     how-much-exercise-do-you-need-to-reduce-heart-disease-risk-after-65
-  - how-sleep-affects-heart-health-after-50
-  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
-  - the-connection-between-frequent-urination-at-night-and-heart-health
-  - is-sitting-too-much-harming-your-heart-after-60
-  - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
 ---
 
 # How Sleep Duration After 55 Relates to Heart Disease Risk — What the Evidence Shows

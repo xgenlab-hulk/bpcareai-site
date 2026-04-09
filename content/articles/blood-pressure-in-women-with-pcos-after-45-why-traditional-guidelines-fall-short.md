@@ -18,12 +18,6 @@ relatedSlugs:
     how-untreated-obstructive-sleep-apnea-worsens-resistant-hypertension-in-women-58-71-with-perimenopausal-insulin-resistance
   - >-
     pcos-diabetes-menopause-androgen-decline
-  - blood-pressure-changes-during-menopause-what-women-should-know
-  - blood-pressure-fluctuations-during-menopause-what-women-should-know
-  - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
-  - how-menopause-affects-blood-sugar-control-in-women-with-diabetes
-  - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
 ---
 
 # Understanding pcos blood pressure after 45 women: Why Your Heart Health Journey Is Unique

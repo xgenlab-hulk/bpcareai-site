@@ -20,11 +20,6 @@ relatedSlugs:
     how-holiday-stress-hormones-disrupt-overnight-glucose-recovery-in-adults-58-69-with-prediabetes
   - >-
     holiday-sleep-fragmentation-fasting-glucose-men
-  - how-cold-weather-affects-blood-sugar-in-people-with-diabetes
-  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
-  - how-menopause-affects-blood-sugar-control-in-women-with-diabetes
-  - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
-  - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
 ---
 
 # Why High Fasting Blood Sugar Happens During the Holidays (And How to Manage It)

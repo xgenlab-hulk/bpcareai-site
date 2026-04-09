@@ -18,10 +18,6 @@ relatedSlugs:
     cgm-accuracy-holiday-travel
   - >-
     how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
-
-  - >-
-    how-holiday-travel-disrupts-circadian-glucose-rhythms-in-adults-58-65-with-insulin-treated-type-2-diabetes-and-3-jet-lag-proof-timing-strategies
-  - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
 ---
 
 # Keeping Your Glucose Steady *During* the Flight: Practical Strategies for Air Travel Glucose Variability Insulin Management After 61

@@ -18,11 +18,6 @@ relatedSlugs:
     the-truth-about-low-sodium-canned-soups-for-seniors-with-stage-2-ckd-why-hidden-phosphates-and-potassium-binders-may-raise-bp-despite-label-claims
   - >-
     the-truth-about-low-sodium-canned-beans-why-68-still-contain-hidden-potassium-chloride-that-blunts-raas-inhibition-in-adults-on-ace-inhibitors
-  - 5-foods-that-raise-blood-pressure-even-if-they-re-low-sodium
-  - hidden-salt-surprising-foods-that-raise-blood-pressure
-  - hidden-salt-10-surprising-foods-that-spike-blood-pressure
-  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
-  - 10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60
 ---
 
 # Hidden Foods That Raise Blood Pressure—Even on Low-Sodium Diets (Adults 50+)

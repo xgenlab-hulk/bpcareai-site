@@ -21,9 +21,6 @@ relatedSlugs:
     myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old
   - >-
     high-cholesterol-fatigue-after-35
-  - does-stress-raise-cholesterol-after-35
-  - high-cholesterol-fatigue-after-35
-  - ldl-target-55-year-old-woman
 ---
 
 # How to Read Your Cholesterol Test After 60 — A Clear, Calm Guide for Healthier Aging

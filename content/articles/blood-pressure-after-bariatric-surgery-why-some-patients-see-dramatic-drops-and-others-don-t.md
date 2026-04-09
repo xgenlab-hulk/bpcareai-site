@@ -18,14 +18,6 @@ relatedSlugs:
     how-gut-microbiota-diversity-predicts-24-hour-systolic-variability-in-adults-55-70-and-what-to-eat-to-stabilize-it
   - >-
     how-gut-microbiome-diversity-at-baseline-predicts-6-month-bp-response-to-dietary-sodium-restriction-in-adults-59-77-with-salt-sensitive-hypertension
-  - how-belly-fat-increases-blood-pressure-risk-after-middle-age
-  - >-
-    what-your-blood-pressure-numbers-mean-after-a-stroke-new-targets-and-redefining-normal-for-recovery
-  - >-
-    can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show
-  - >-
-    blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short
-  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
 ---
 
 # Blood Pressure After Bariatric Surgery: What to Expect and Why Responses Vary

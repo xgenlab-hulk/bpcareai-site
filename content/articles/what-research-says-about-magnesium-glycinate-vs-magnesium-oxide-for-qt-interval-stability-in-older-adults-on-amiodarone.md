@@ -20,14 +20,6 @@ relatedSlugs:
     does-daily-2-gram-magnesium-glycinate-lower-24-hour-diastolic-bp-in-adults-63-79-with-chronic-constipation-and-low-rbc-magnesium
   - >-
     when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use
-  - the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
-  - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
-  - >-
-    does-long-term-use-of-ppis-increase-risk-of-atrial-fibrillation-in-seniors-with-gerd
-  - >-
-    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
-  - >-
-    normalize-glucose-variability-72-hours-magnesium
 ---
 
 # Magnesium Glycinate vs Oxide for QT Stability in Older Adults on Amiodarone: What the Evidence Really Shows

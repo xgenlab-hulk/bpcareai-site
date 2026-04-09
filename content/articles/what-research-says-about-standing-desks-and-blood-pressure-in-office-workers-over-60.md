@@ -20,14 +20,6 @@ relatedSlugs:
     exercise-timing-blood-pressure-variability
   - >-
     does-taking-your-blood-pressure-while-sitting-cross-legged-really-raise-readings-what-2023-research-says-for-adults-58
-  - blood-pressure-management-for-sedentary-seniors-in-winter-months
-  - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
-  - >-
-    can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
-  - >-
-    what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75
-  - >-
-    how-prolonged-sitting-during-remote-work-alters-splanchnic-vein-compliance-and-daytime-bp-variability-in-adults-52-64
 ---
 
 # What the Latest Standing Desk Blood Pressure Research 60+ Reveals for Older Office Workers

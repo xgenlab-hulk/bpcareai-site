@@ -20,11 +20,6 @@ relatedSlugs:
     quick-ways-to-calm-a-racing-heart-during-a-holiday-event
   - >-
     the-truth-about-benign-holiday-palpitations-are-they-really-harmless
-  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
-  - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
-  - what-research-says-about-holiday-heart-syndrome-and-aging-hearts
-  - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
-  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
 ---
 
 # How Holiday Travel Disrupts Heart Rhythm — And What You Can Do About It

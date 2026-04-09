@@ -20,10 +20,6 @@ relatedSlugs:
     12-simple-swaps-to-reduce-post-holiday-edema-in-women-65-with-stage-2-hypertension-and-mild-lymphedema
   - >-
     what-are-the-earliest-signs-your-holiday-weight-gain-is-actually-fluid-retention-not-fat-in-women-over-65-with-atrial-fibrillation
-  - when-to-worry-about-chest-discomfort-after-a-big-holiday-meal
-  - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
-  - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
-  - when-to-worry-about-palpitations-after-christmas-dinner
 ---
 
 # When Bloating After Holiday Meals Seniors Should Raise a Gentle Red Flag

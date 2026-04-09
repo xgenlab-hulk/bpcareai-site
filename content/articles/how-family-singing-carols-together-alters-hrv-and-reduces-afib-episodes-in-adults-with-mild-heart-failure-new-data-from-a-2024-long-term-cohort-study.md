@@ -20,9 +20,6 @@ relatedSlugs:
     natural-autonomic-stabilization-holiday-heart
   - >-
     low-carb-vs-magnesium-holiday-heart-prevention
-  - what-research-says-about-holiday-heart-syndrome-and-aging-hearts
-  - >-
-    the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
 ---
 
 # How Caroling and Heart Rate Variability in Elderly Adults Supports Cardiac Resilience—Insights From a 2024 Long-Term Cohort Study

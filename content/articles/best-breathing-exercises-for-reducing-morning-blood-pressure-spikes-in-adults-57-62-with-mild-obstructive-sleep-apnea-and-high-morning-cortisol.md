@@ -18,15 +18,6 @@ relatedSlugs:
     quick-ways-to-normalize-morning-cortisol-bp-coupling-within-7-days-using-dawn-simulation-protein-first-breakfast-in-adults-with-morning-hypertension
   - >-
     7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
-
-  - >-
-    resonant-breathing-diastolic-pressure-reduction
-  - >-
-    best-breathing-exercises-for-reducing-morning-blood-pressure-spikes-in-adults-57-62-with-mild-obstructive-sleep-apnea-and-high-morning-cortisol
-  - >-
-    best-breathing-patterns-for-reducing-central-systolic-pressure-in-adults-55-69-with-elevated-augmentation-index-and-high-frequency-hrv-suppression
-  - >-
-    best-breathing-patterns-for-immediate-bp-reduction-in-adults-60-with-high-lf-hf-ratio-on-hrv-and-morning-anxiety
 ---
 
 # Breathing Exercises for Morning Blood Pressure Spikes in Adults 57–62 With Mild Obstructive Sleep Apnea and Elevated Cortisol

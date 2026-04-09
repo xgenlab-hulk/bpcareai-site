@@ -18,14 +18,6 @@ relatedSlugs:
     the-complete-guide-to-managing-diabetes-during-heatwaves-for-adults-72-with-diuretic-use-orthostatic-hypotension-and-reduced-thirst-sensation
   - >-
     natural-ways-to-improve-glucose-uptake-in-skeletal-muscle-without-exercise-for-adults-79-with-severe-osteoarthritis-bedrest-or-post-hip-replacement
-  - managing-diabetes-while-traveling-tips-for-seniors
-  - >-
-    walking-vs-standing-post-dinner-glucose
-  - >-
-    the-complete-guide-to-managing-diabetes-during-heatwaves-for-adults-72-with-diuretic-use-orthostatic-hypotension-and-reduced-thirst-sensation
-  - >-
-    the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations
-  - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
 ---
 
 # Managing Diabetes During Hip Fracture Surgery Recovery in Seniors: A Practical Guide for Adults 79+

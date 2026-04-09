@@ -20,11 +20,6 @@ relatedSlugs:
     can-mindfulness-meditation-reduce-heart-disease-risk-after-50
   - >-
     how-strength-training-protects-your-heart-as-you-age
-  - can-gardening-improve-heart-health-after-50
-  - how-sleep-affects-heart-health-after-50
-  - how-pets-support-heart-health-in-older-adults
-  - does-laughter-really-protect-your-heart-after-50
-  - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
 ---
 
 # How Magnesium Benefits for Heart Health Over 50 Support a Stronger Cardiovascular System

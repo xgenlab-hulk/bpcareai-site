@@ -20,7 +20,6 @@ relatedSlugs:
     simple-steps-to-modify-grandma-s-pie-recipe-for-diabetic-retinopathy-risk-reduction-without-sacrificing-flavor-or-texture
   - >-
     what-research-says-about-low-dose-aspirin-and-diabetic-retinopathy-progression-in-men-68-80-with-nonproliferative-disease
-
 ---
 
 # Can You Reverse Early Diabetic Retinopathy Naturally? Science-Backed Strategies for Retinal Microvascular Protection

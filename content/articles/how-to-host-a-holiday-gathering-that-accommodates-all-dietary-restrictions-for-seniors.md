@@ -20,11 +20,6 @@ relatedSlugs:
     how-to-talk-to-relatives-about-your-dietary-restrictions-without-offending-anyone
   - >-
     simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
-  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - a-guide-to-allergen-friendly-family-meals-for-mixed-diet-households
-  - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
-  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
 ---
 
 # How to Host Holiday Meals for Seniors with Dietary Restrictions Without Losing the Festive Spirit

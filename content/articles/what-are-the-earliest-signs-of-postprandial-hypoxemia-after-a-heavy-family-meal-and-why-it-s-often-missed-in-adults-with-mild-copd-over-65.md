@@ -20,7 +20,6 @@ relatedSlugs:
     when-to-worry-about-just-tired-after-christmas-dinner-especially-if-you-re-69-with-type-2-diabetes-and-untreated-sleep-apnea
   - >-
     natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings
-  - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
 ---
 
 # What to Watch For: Early Signs of Postprandial Hypoxemia in Seniors With Mild COPD After Big Family Meals

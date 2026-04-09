@@ -20,11 +20,6 @@ relatedSlugs:
     blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - >-
     7-silent-signs-your-hearing-loss-may-be-linked-to-poor-glycemic-control-especially-if-you-re-a-woman-over-64
-  - the-link-between-hearing-loss-and-heart-disease-after-60
-  - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
-  - can-hearing-loss-be-an-early-sign-of-heart-disease
-  - the-link-between-atrial-fibrillation-and-heart-disease-in-seniors
-  - the-connection-between-frequent-urination-at-night-and-heart-health
 ---
 
 # How Hearing Loss and Heart Failure Hospitalization Are Linked in Women Over 70

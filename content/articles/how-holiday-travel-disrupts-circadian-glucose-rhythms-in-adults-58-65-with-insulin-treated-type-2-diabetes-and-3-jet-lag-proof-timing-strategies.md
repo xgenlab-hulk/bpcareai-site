@@ -18,8 +18,6 @@ relatedSlugs:
     best-times-check-glucose-holidays-seniors
   - >-
     how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
-  - the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
-
 ---
 
 # Protecting Your Glucose Rhythms During Holiday Travel: Smart Timing Strategies for Adults 58–65 on Insulin

@@ -18,9 +18,6 @@ relatedSlugs:
     best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation
   - >-
     best-high-fiber-low-fodmap-holiday-desserts-for-adults-63-76-with-ibs-d-and-fructose-malabsorption
-  - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
-  - >-
-    best-6-low-sodium-high-fiber-side-dishes-that-hold-up-under-3-hour-buffet-conditions-for-adults-76-with-hypertension-and-constipation
 ---
 
 # Low-Residue, High-Fiber Holiday Sides for Older Adults With Diverticular Disease and Mild Cognitive Impairment

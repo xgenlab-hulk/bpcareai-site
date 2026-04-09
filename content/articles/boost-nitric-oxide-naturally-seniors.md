@@ -18,9 +18,6 @@ relatedSlugs:
     endothelial-support-without-nitrates-seniors
   - >-
     natural-ways-to-improve-endothelial-nitric-oxide-synthase-enos-activity-at-night-for-women-63-with-non-dipping-bp-and-shift-work-history
-
-  - >-
-    microvascular-coronary-reactivity-natural
 ---
 
 # How to Boost Nitric Oxide Naturally in Seniors: A 12-Week Science-Backed Plan for Healthier Blood Vessels

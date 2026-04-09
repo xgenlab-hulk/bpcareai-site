@@ -18,7 +18,6 @@ relatedSlugs:
     quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - >-
     quick-ways-to-normalize-post-dinner-glucose-within-90-minutes-using-breathwork-and-foot-soaking-validated-in-a-pilot-trial-for-adults-63-76
-  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
 ---
 
 # Natural Glucose Control During the Holidays for Seniors: A Gentle, Evidence-Based Approach

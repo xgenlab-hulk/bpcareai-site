@@ -18,9 +18,6 @@ relatedSlugs:
     safe-holiday-foods-seniors-80-grandkids
   - >-
     can-holiday-leftovers-increase-fall-risk-in-adults-77-with-vitamin-d-deficiency-and-mild-postural-instability
-  - easy-make-ahead-freezer-meals-to-reduce-holiday-cooking-stress-for-seniors
-  - >-
-    holiday-ham-safety-over-65
 ---
 
 # Holiday Leftovers Food Safety for Seniors: 5 Essential Tips Everyone Over 76 Needs to Know

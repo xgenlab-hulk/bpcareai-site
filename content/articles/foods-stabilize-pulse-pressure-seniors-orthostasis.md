@@ -20,13 +20,6 @@ relatedSlugs:
     quick-ways-to-stabilize-pulse-pressure-fluctuations-during-grocery-shopping-for-adults-70-with-orthostatic-intolerance-and-postprandial-hypotension
   - >-
     the-complete-guide-to-interpreting-pulse-pressure-widening-in-adults-76-with-aortic-valve-sclerosis-not-just-aortic-stenosis
-
-  - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
-  - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
-  - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
 ---
 
 # Foods That Help Stabilize Pulse Pressure in Seniors with Orthostasis — A Gentle, Evidence-Informed Guide

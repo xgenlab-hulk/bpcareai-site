@@ -20,11 +20,6 @@ relatedSlugs:
     how-chronic-loneliness-after-retirement-alters-autonomic-tone-and-elevates-nocturnal-systolic-pressure-in-adults-68-with-preserved-ejection-fraction
   - >-
     can-dog-ownership-reduce-seasonal-depression-risk-in-retired-seniors
-  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
-  - is-your-posture-affecting-your-heart-what-older-adults-should-know
-  - can-gardening-improve-heart-health-after-50
-  - the-role-of-inflammation-in-heart-disease-for-older-adults
-  - how-air-pollution-impacts-heart-health-in-older-adults
 ---
 
 # How Pets and Heart Health in Seniors Are Connected

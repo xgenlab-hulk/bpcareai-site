@@ -20,11 +20,6 @@ relatedSlugs:
     warning-signs-your-senior-loved-one-is-using-food-to-cope-with-holiday-grief-or-loneliness
   - >-
     7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72
-  - when-to-worry-about-weight-gain-after-a-family-gathering
-  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
-  - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
-  - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
-  - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
 ---
 
 # When to Worry About Chest Discomfort After Eating: Key Warning Signs for Seniors

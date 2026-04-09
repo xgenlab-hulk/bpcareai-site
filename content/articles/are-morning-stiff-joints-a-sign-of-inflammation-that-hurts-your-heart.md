@@ -18,11 +18,6 @@ relatedSlugs:
     how-chronic-low-grade-inflammation-drives-resistant-hypertension-in-adults-60-74-with-elevated-hs-crp-and-gum-recession
   - >-
     the-hidden-link-between-gum-disease-and-heart-problems
-  - how-poor-dental-hygiene-may-lead-to-heart-disease
-  - the-hidden-link-between-gum-disease-and-heart-problems
-  - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
-  - how-vision-changes-might-be-linked-to-heart-disease
-  - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
 ---
 
 # Morning Joint Stiffness and Heart Inflammation Link: What You Should Know

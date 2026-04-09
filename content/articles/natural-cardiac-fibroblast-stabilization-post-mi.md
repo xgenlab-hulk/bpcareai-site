@@ -20,14 +20,6 @@ relatedSlugs:
     how-gut-microbial-metabolites-e-g-tmao-indole-3-propionic-acid-predict-subclinical-myocardial-fibrosis-in-adults-59-75-with-metabolic-syndrome
   - >-
     mitochondrial-biogenesis-heart-aging
-
-  - >-
-    foods-cardiac-fibroblast-quiescence-seniors
-
-  - >-
-    mitochondrial-quality-control-in-cardiomyocytes
-  - >-
-    mitochondrial-biogenesis-heart-natural
 ---
 
 # Gentle, Natural Support for Cardiac Fibroblast Stability After a Heart Attack — A Thoughtful Approach for Adults 67+

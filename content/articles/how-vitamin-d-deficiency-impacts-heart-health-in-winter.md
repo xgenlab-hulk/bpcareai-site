@@ -20,11 +20,6 @@ relatedSlugs:
     why-winter-increases-heart-attack-risk-in-seniors-over-70
   - >-
     the-hidden-role-of-vitamin-d-deficiency-in-winter-depression-among-nursing-home-residents
-  - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
-  - why-winter-increases-heart-attack-risk-in-seniors-over-70
-  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
-  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
-  - is-your-posture-affecting-your-heart-what-older-adults-should-know
 ---
 
 # How Vitamin D Deficiency Affects Heart Health in Winter: What Seniors Need to Know

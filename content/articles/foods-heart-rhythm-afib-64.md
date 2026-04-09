@@ -18,8 +18,6 @@ relatedSlugs:
     taurine-vitamin-b6-atrial-calcium-handling
   - >-
     12-science-backed-ways-to-reduce-left-atrial-stiffness-within-6-weeks-for-adults-61-76-with-paroxysmal-afib-and-elevated-la-strain-index
-  - the-role-of-omega-3-fatty-acids-in-preventing-heart-disease
-
 ---
 
 # Heart Rhythm Problems? 12 Foods That Support AFib Relief in Adults 64+

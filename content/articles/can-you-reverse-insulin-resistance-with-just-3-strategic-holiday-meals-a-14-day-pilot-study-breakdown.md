@@ -18,12 +18,6 @@ relatedSlugs:
     natural-ways-to-support-post-meal-insulin-sensitivity-without-supplements-for-adults-53-67-with-early-stage-pcos-and-holiday-weight-gain
   - >-
     weekday-intermittent-fasting-holidays
-  - 5-science-backed-ways-to-reduce-holiday-related-insulin-resistance
-  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
-  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
-  - >-
-    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
-  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
 ---
 
 # Can Strategic Holiday Meals Help Reverse Insulin Resistance? Insights from a 14-Day Geriatric Study

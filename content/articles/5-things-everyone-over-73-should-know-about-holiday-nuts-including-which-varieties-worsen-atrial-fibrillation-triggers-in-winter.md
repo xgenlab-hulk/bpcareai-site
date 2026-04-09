@@ -18,11 +18,6 @@ relatedSlugs:
     when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use
   - >-
     how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
-  - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
-  - >-
-    best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
-  - >-
-    10-medication-interactions-you-should-double-check-before-thanksgiving-dinner-especially-if-you-re-on-amiodarone-sotalol-or-dronedarone
 ---
 
 # What Seniors Over 73 Should Know About Holiday Nuts and Atrial Fibrillation Risk

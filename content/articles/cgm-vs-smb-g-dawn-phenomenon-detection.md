@@ -18,11 +18,6 @@ relatedSlugs:
     12-science-backed-times-to-measure-fasting-glucose-before-breakfast-not-just-upon-waking-for-adults-65-with-dawn-phenomenon-and-shift-work-history
   - >-
     warning-signs-that-your-continuous-glucose-monitor-is-detecting-early-diabetic-cardiomyopathy-not-just-glycemic-variability
-
-  - >-
-    cgm-interpretation-early-dementia-diabetes
-  - >-
-    what-causes-sudden-morning-hyperglycemia-on-christmas-day-even-with-perfect-nighttime-glucose-dawn-phenomenon-vs-somogyi-rebound-in-adults-57-71
 ---
 
 # CGM vs SMBG for Dawn Phenomenon Detection: What’s Best for Adults 57–64 With Early Beta-Cell Decline?

@@ -20,7 +20,6 @@ relatedSlugs:
     how-grandchildren-s-candy-bowls-trigger-autonomic-dysregulation-in-adults-72-with-early-parkinson-s-and-what-to-eat-instead
   - >-
     what-causes-recurrent-orthostatic-hypotension-after-meals-in-adults-71-with-parkinson-s-disease-and-newly-diagnosed-hfpef
-  - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
 ---
 
 # Early Gait Changes Linked to Orthostatic Hypotension in Parkinson’s Disease Stage 2: What to Watch For

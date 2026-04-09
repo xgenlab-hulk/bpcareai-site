@@ -20,13 +20,6 @@ relatedSlugs:
     what-causes-blood-pressure-to-spike-during-morning-showering-in-adults-62-78-with-autonomic-neuropathy-and-orthostatic-hypotension
   - >-
     7-hidden-ways-your-hearing-aid-s-bluetooth-streaming-affects-baroreceptor-sensitivity-especially-during-morning-blood-pressure-spikes-in-adults-73
-
-  - >-
-    best-breathing-exercises-for-reducing-morning-blood-pressure-spikes-in-adults-57-62-with-mild-obstructive-sleep-apnea-and-high-morning-cortisol
-  - >-
-    cold-face-immersion-baroreflex-seniors
-  - >-
-    does-daily-4-minute-cold-water-face-immersion-really-lower-24-hour-mean-arterial-pressure-in-adults-61-with-early-autonomic-dysfunction
 ---
 
 # Can a Heated Massage Pillow Help Manage Morning Blood Pressure in Adults 59–65 With Tension Headaches and Mild Anxiety?

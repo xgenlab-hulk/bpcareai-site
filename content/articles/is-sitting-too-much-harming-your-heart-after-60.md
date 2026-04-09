@@ -20,11 +20,6 @@ relatedSlugs:
     heavy-legs-sitting-heart-strain-seniors
   - >-
     can-sleep-duration-predict-heart-disease-risk-after-55
-  - how-social-isolation-increases-heart-disease-risk-after-60
-  - can-strength-training-lower-heart-disease-risk-after-60
-  - how-retirement-changes-affect-heart-health
-  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
-  - how-menopause-affects-heart-disease-risk-in-women
 ---
 
 # How a Sedentary Lifestyle and Heart Health After 60 Are Connected

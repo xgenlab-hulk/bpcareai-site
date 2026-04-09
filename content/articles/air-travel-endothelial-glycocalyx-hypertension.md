@@ -18,9 +18,6 @@ relatedSlugs:
     quick-ways-to-reduce-bp-variability-during-air-travel-in-adults-70-with-history-of-hypertensive-urgency
   - >-
     blood-pressure-on-long-haul-flights-seniors
-
-  - >-
-    chest-ecg-devices-air-travel-pacemaker-dependent
 ---
 
 # How Air Travel Affects Your Endothelial Glycocalyx—Especially With Hypertension and Past DVT

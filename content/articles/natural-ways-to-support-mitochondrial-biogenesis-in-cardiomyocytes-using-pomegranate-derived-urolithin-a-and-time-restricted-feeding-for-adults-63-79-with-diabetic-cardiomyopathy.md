@@ -18,14 +18,6 @@ relatedSlugs:
     atrial-stabilizing-foods-holiday-heart
   - >-
     heart-rate-recovery-foods-seniors-bp
-
-  - >-
-    natural-ways-to-support-cardiac-connexin-43-expression-without-medication-evidence-from-7-clinical-trials-in-adults-60-79
-  - >-
-    natural-ways-to-support-mitochondrial-biogenesis-in-cardiomyocytes-using-pomegranate-derived-urolithin-a-and-time-restricted-feeding-for-adults-63-79-with-diabetic-cardiomyopathy
-
-  - >-
-    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
 ---
 
 # Heart Attack Recovery? 12 Foods That Support Gentle Heart Healing for Adults 69+

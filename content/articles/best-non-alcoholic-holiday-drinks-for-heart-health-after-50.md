@@ -18,11 +18,6 @@ relatedSlugs:
     non-alcoholic-drinks-holiday-heart-syndrome
   - >-
     can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors
-  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
-  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
-  - the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50
-  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
-  - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
 ---
 
 # Heart-Safe Holiday Sips: Best Non-Alcoholic Drinks for Heart Health After 50

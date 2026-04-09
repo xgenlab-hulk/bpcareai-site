@@ -20,14 +20,6 @@ relatedSlugs:
     7-holiday-foods-that-trigger-silent-gastric-reflux-in-adults-65-even-without-heartburn
   - >-
     what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
-  - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
-  - >-
-    12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
-  - >-
-    how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80
-
-  - >-
-    how-family-table-talk-affects-chewing-efficiency-and-nutrient-absorption-in-adults-with-early-dysphagia-age-70
 ---
 
 # How Laughter During Family Meals Affects Gastric Acid—and What It Means for Older Adults with GERD

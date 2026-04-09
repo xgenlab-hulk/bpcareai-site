@@ -18,7 +18,6 @@ relatedSlugs:
     warning-signs-your-winter-indoor-humidity-30-is-accelerating-corneal-nerve-damage-even-with-stable-hba1c-in-adults-77-with-diabetic-neuropathy
   - >-
     warning-signs-of-asymptomatic-diabetic-retinopathy-in-adults-66-with-10-years-of-controlled-a1c-that-aren-t-detected-on-annual-dilated-exam
-  - diabetes-and-vision-changes-what-seniors-need-to-know
 ---
 
 # When Dry Eyes and Blurred Vision Appear Suddenly After 63 — What It Could Mean for Seniors with Diabetes

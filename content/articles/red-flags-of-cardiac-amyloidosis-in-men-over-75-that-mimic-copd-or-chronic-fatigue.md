@@ -20,7 +20,6 @@ relatedSlugs:
     holiday-palpitations-cardiac-amyloidosis-red-flags
   - >-
     when-to-suspect-cardiac-amyloidosis-in-women-75-with-unexplained-fatigue-bilateral-carpal-tunnel-surgery-history-and-preserved-ef-on-echo
-  - heart-disease-risks-for-retirees-living-in-high-altitude-areas
 ---
 
 # Recognizing Cardiac Amyloidosis Red Flags in Elderly Men: When Heart Symptoms Masquerade as COPD or Chronic Fatigue

@@ -18,11 +18,6 @@ relatedSlugs:
     how-much-exercise-do-you-need-to-reduce-heart-disease-risk-after-65
   - >-
     can-heart-disease-be-reversed-with-lifestyle-changes-after-50
-  - can-meditation-reduce-heart-disease-risk-after-50
-  - can-deep-breathing-exercises-lower-heart-disease-risk
-  - is-sitting-too-much-harming-your-heart-after-60
-  - can-mindfulness-meditation-reduce-heart-disease-risk-after-50
-  - how-fiber-rich-diets-support-heart-health-in-people-over-60
 ---
 
 # Can Strength Training Reduce Heart Disease Risk After 60?

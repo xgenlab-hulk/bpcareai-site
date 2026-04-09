@@ -18,15 +18,6 @@ relatedSlugs:
     gluten-free-stuffing-glycemic-impact
   - >-
     the-truth-about-diabetes-friendly-holiday-cookies-what-label-claims-hide-and-what-real-ingredient-ratios-reveal
-
-  - >-
-    the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
-  - >-
-    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
-  - >-
-    are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - >-
-    the-truth-about-heart-healthy-granola-bars-for-men-over-69-with-stage-2-heart-failure-and-hyponatremia
 ---
 
 # Choosing Safer Gluten-Free Granola Bars for Adults With Type 1 Diabetes and Celiac Disease Over 60

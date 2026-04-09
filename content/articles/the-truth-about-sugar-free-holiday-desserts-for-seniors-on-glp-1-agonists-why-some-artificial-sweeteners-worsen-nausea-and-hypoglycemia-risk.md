@@ -18,11 +18,6 @@ relatedSlugs:
     the-truth-about-sugar-free-holiday-desserts-for-men-70-with-fructose-malabsorption-and-early-nafld
   - >-
     sugar-free-candies-and-gastroparesis
-  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - >-
-    the-truth-about-sugar-free-cough-drops-for-adults-with-type-1-diabetes-over-60-do-sugar-alcohols-like-isomalt-raise-blood-glucose
-  - >-
-    the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76
 ---
 
 # What You Should Know About Sugar-Free Desserts, GLP-1 Medications, and Holiday Eating for Seniors

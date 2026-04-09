@@ -18,7 +18,6 @@ relatedSlugs:
     what-are-the-earliest-digestive-signs-that-your-holiday-fiber-intake-is-too-low-especially-if-you-re-taking-a-daily-calcium-supplement-after-age-65
   - >-
     quick-ways-to-restore-post-holiday-gut-motility-in-adults-73-with-chronic-constipation-and-polypharmacy
-
 ---
 
 # Why Holiday Gravy Constipation Seniors Happens — And What You Can Gently Do About It

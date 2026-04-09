@@ -18,15 +18,6 @@ relatedSlugs:
     reduce-postprandial-triglycerides-quickly-seniors
   - >-
     how-intergenerational-gift-giving-of-homemade-cookies-affects-postprandial-triglycerides-in-adults-68-with-metabolic-syndrome
-  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
-  - >-
-    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
-  - >-
-    how-holiday-stress-cortisol-spikes-impair-glp-1-secretion-in-adults-64-with-obesity-and-prediabetes-and-why-mindful-breathing-beats-just-relax-advice
-  - >-
-    intergenerational-dining-stress-cortisol-glucose
-  - >-
-    how-emotional-eating-patterns-shift-during-multigenerational-gatherings-and-why-that-matters-for-adults-with-long-standing-type-2-diabetes
 ---
 
 # How Holiday Gift-Giving Stress Impacts Triglyceride Levels in Seniors With Familial Hypertriglyceridemia  

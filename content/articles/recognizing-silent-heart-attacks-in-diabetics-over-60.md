@@ -20,11 +20,6 @@ relatedSlugs:
     7-silent-signs-of-diabetic-neuropathy-in-adults-65-that-mimic-arthritis-or-sciatica-even-with-normal-a1c
   - >-
     myths-vs-facts-my-a1c-is-fine-so-my-heart-is-safe-what-myocardial-strain-imaging-reveals-in-adults-57-74-with-normal-a1c-but-elevated-troponin-t
-  - the-link-between-diabetes-and-slow-healing-in-older-adults
-  - heart-disease-in-hispanic-adults-over-50-unique-risk-factors
-  - why-blood-pressure-matters-even-if-you-feel-fine
-  - how-type-2-diabetes-increases-heart-disease-risk-after-50
-  - diabetes-and-vision-changes-what-seniors-need-to-know
 ---
 
 # Understanding Silent Heart Attack Symptoms in Elderly Diabetics

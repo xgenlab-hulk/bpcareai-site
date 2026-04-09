@@ -18,8 +18,6 @@ relatedSlugs:
     best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
   - >-
     best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
-  - low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
-  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
 ---
 
 # 5 Gentle, Gut-Friendly Holiday Side Dishes for Seniors With IBS and GERD — Low-FODMAP Holiday Sides Seniors Can Enjoy Confidently

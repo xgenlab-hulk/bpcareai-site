@@ -20,10 +20,6 @@ relatedSlugs:
     myths-vs-facts-my-diabetes-is-under-control-because-my-a1c-is-6-8-why-that-number-lies-in-adults-77-with-anemia-and-chronic-kidney-disease
   - >-
     what-a1c-too-high-50-year-old
-  - understanding-a1c-goals-for-seniors-with-diabetes
-  - >-
-    can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76
-  - is-metformin-still-safe-for-diabetics-over-70
 ---
 
 # When to Stop HbA1c Screening in Elderly Men With Type 2 Diabetes: A Thoughtful, Individualized Approach

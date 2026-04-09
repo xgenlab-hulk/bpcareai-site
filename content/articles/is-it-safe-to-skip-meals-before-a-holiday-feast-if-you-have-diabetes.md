@@ -20,10 +20,6 @@ relatedSlugs:
     can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
   - >-
     simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
-  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
-  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
 ---
 
 # Is Skipping Meals Before a Holiday Feast Safe for People with Diabetes?

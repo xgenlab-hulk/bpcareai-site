@@ -20,11 +20,6 @@ relatedSlugs:
     the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
   - >-
     how-social-eating-rituals-like-passing-the-mashed-potatoes-or-toasting-at-midnight-disrupt-glycemic-awareness-in-adults-with-mild-cognitive-impairment
-  - 5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners
-  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
-  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
-  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
-  - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
 ---
 
 # The Science of Mindful Eating for Seniors This Holiday Season: What Research Tells Us

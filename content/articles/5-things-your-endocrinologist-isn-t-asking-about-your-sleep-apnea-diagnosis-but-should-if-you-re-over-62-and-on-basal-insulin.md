@@ -18,14 +18,6 @@ relatedSlugs:
     how-sleep-apnea-severity-predicts-rapid-a1c-rise-in-adults-57-71-with-untreated-osa-and-newly-diagnosed-type-2-diabetes
   - >-
     what-causes-persistent-morning-hypoglycemia-in-adults-75-on-basal-bolus-regimens-when-cgm-shows-no-nighttime-lows
-  - how-sleep-apnea-impacts-type-2-diabetes-control-after-50
-  - >-
-    when-to-worry-about-post-meal-drowsiness-after-age-70-sleep-apnea-hypotension-or-something-else
-  - >-
-    how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
-  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
-  - >-
-    a-deep-dive-into-sleep-apnea-screening-gaps-why-your-normal-oxygen-saturation-doesn-t-rule-out-cardiac-strain-in-women-over-60
 ---
 
 # What Your Endocrinologist *Should* Be Asking About Sleep Apnea and Basal Insulin in Seniors—But Often Isn’t

@@ -18,7 +18,6 @@ relatedSlugs:
     how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
   - >-
     why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh
-  - why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
 ---
 
 # What to Watch For: 7 Quiet Nocturnal Blood Pressure Spikes Signs—Especially After 65 and on Beta-Blockers

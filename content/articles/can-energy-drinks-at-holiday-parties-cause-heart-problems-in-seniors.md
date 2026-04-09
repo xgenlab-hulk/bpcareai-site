@@ -18,11 +18,6 @@ relatedSlugs:
     how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - >-
     7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
-  - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
-  - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
-  - the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50
-  - why-dehydration-at-holiday-events-may-worsen-heart-palpitations
-  - why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
 ---
 
 # Can Energy Drinks at Holiday Parties Trigger Heart Concerns in Older Adults? Understanding Energy Drinks Holiday Heart

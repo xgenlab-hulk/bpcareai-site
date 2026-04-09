@@ -20,12 +20,6 @@ relatedSlugs:
     5-things-every-caregiver-should-know-before-hosting-a-holiday-gathering-for-someone-with-advanced-diabetic-neuropathy-and-foot-ulcers
   - >-
     best-portable-foot-thermometers-for-early-neuropathy-detection-in-adults-70-with-limited-dexterity-and-poor-vision
-  - the-link-between-diabetes-and-slow-healing-in-older-adults
-  - diabetes-and-vision-changes-what-seniors-need-to-know
-  - recognizing-silent-heart-attacks-in-diabetics-over-60
-  - how-kidney-function-declines-faster-in-older-adults-with-diabetes
-  - >-
-    strength-training-peripheral-neuropathy-seniors
 ---
 
 # Essential Diabetic Foot Care for Seniors: Simple Daily Habits That Protect Your Steps

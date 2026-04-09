@@ -18,10 +18,6 @@ relatedSlugs:
     7-silent-signs-your-diabetes-medication-is-causing-subclinical-hyponatremia-especially-after-hot-tub-soaking-in-adults-72
   - >-
     holiday-hydration-glucose-homeostasis-polypharmacy
-  - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
-  - >-
-    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
-
 ---
 
 # Safe and Smart Diabetes Heatwave Management Elderly: A Practical Guide for Seniors 72+

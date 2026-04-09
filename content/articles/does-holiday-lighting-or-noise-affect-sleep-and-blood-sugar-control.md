@@ -18,11 +18,6 @@ relatedSlugs:
     holiday-sleep-fragmentation-fasting-glucose-men
   - >-
     led-nightlights-nocturnal-glucose-seniors
-  - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - the-link-between-loneliness-during-holidays-and-poor-diabetes-control
-  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
-  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
 ---
 
 # How Holiday Environment Sleep Blood Sugar Are Connected: A Guide for Adults Over 50

@@ -18,13 +18,6 @@ relatedSlugs:
     12-evidence-based-hydration-strategies-to-prevent-holiday-heart-syndrome-in-adults-62-with-mild-dehydration-induced-qt-prolongation
   - >-
     when-to-worry-about-just-one-more-glass-early-qtc-prolongation-signs-after-holiday-wine-consumption-in-women-62-on-ssris
-  - the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
-  - >-
-    how-late-night-eggnog-consumption-alters-cardiac-repolarization-reserve-in-adults-58-65-with-subclinical-qt-prolongation
-
-  - >-
-    10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
-
 ---
 
 # Foods That Help Stabilize Cardiac Ion Channels During Alcohol Exposure — A Gentle Guide for Adults 62–75 With LQT2 and Holiday-Related Syncope

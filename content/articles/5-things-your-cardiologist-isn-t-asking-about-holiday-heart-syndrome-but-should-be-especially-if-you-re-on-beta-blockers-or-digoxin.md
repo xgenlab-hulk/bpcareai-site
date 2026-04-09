@@ -18,11 +18,6 @@ relatedSlugs:
     the-hidden-link-between-holiday-stress-and-irregular-heartbeat
   - >-
     is-holiday-heart-syndrome-reversible-what-science-says
-  - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
-  - >-
-    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
-  - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
-  - holiday-heart-syndrome-in-men-over-60-unique-risks-and-prevention-tips
 ---
 
 # What Your Cardiologist *Should* Be Asking: 5 Key Cardiologist Questions for Holiday Heart Prevention

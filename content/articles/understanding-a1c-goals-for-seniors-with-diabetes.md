@@ -21,11 +21,6 @@ relatedSlugs:
     what-a1c-too-high-50-year-old
   - >-
     why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals
-  - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
-  - healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s
-  - diabetes-and-vision-changes-what-seniors-need-to-know
-  - the-link-between-diabetes-and-slow-healing-in-older-adults
-  - should-you-adjust-your-blood-pressure-goals-in-winter
 ---
 
 # HbA1c Target for Elderly Diabetics: ADA & AHA Guidelines (2024)

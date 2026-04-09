@@ -18,12 +18,6 @@ relatedSlugs:
     does-sugar-free-holiday-candy-really-protect-your-teeth-in-adults-70-with-reduced-salivary-flow-and-early-root-caries
   - >-
     natural-ways-to-support-digestive-enzyme-production-after-age-60-especially-during-heavy-holiday-meals
-
-  - >-
-    5-foods-that-support-salivary-amylase-activity-without-increasing-carbohydrate-load-for-adults-77-with-xerostomia-and-mild-dysphagia
-
-  - >-
-    5-foods-that-support-salivary-amylase-activity-without-increasing-carbohydrate-load-for-adults-77-with-xerostomia-and-mild-dysphagia
 ---
 
 # Why Is Your Dry Mouth Making Swallowing Harder—And What Foods Can Help at Age 77+?

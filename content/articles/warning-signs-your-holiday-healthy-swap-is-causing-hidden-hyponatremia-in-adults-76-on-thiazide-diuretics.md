@@ -18,15 +18,6 @@ relatedSlugs:
     12-science-backed-ways-to-prevent-post-holiday-hyponatremia-in-adults-78-living-alone-and-taking-ssris-or-thiazides
   - >-
     when-to-suspect-holiday-induced-hyponatremia-in-adults-79-with-mild-cognitive-impairment-before-confusion-or-gait-instability-appears
-
-  - >-
-    12-science-backed-ways-to-prevent-post-holiday-hyponatremia-in-adults-78-living-alone-and-taking-ssris-or-thiazides
-  - >-
-    the-truth-about-low-sodium-canned-soups-for-adults-74-with-stage-2-hypertension-and-chronic-hyponatremia-risk
-  - >-
-    best-low-sodium-high-flavor-herbs-and-spices-for-holiday-cooking-clinically-vetted-for-adults-with-heart-failure-and-hyponatremia-risk
-  - >-
-    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 ---
 
 # When “Healthy Swaps” Backfire: Recognizing Hidden Hyponatremia in Seniors on Thiazide Diuretics

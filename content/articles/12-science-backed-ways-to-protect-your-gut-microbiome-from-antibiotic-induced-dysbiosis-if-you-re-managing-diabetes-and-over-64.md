@@ -18,7 +18,6 @@ relatedSlugs:
     how-gut-microbiome-diversity-at-age-58-64-predicts-10-year-progression-from-prediabetes-to-type-2-diabetes-based-on-3-longitudinal-cohort-studies
   - >-
     10-unexpected-medication-interactions-that-spike-blood-glucose-in-adults-62-taking-metformin-and-probiotics
-
 ---
 
 # 12 Science-Backed Ways to Support Your Gut Microbiome During Antibiotics—Especially If You’re Over 64 and Living with Diabetes  

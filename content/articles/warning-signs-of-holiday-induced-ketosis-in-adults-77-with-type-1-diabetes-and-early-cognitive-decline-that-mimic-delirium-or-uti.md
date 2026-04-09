@@ -18,11 +18,6 @@ relatedSlugs:
     how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
   - >-
     type-1-diabetes-holiday-potluck-guide
-- what-are-the-earliest-cognitive-red-flags-linked-to-hypoglycemia-associated-autonomic-failure-in-adults-70-with-20-years-of-type-1-diabetes
-- 12-science-backed-ways-to-prevent-post-holiday-delirium-episodes-in-adults-78-with-mild-dementia-and-polypharmacy
-- when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
-- when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
-- warning-signs-your-holiday-weight-gain-is-masking-early-diabetic-kidney-disease-progression-especially-if-you-re-64-with-egfr-60-89
 ---
 
 # Holiday Ketosis in Older Adults With Type 1 Diabetes: When Ketosis Mimics Dementia or UTI

@@ -20,9 +20,6 @@ relatedSlugs:
     heart-disease-risks-for-retirees-living-in-high-altitude-areas
   - >-
     5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics
-  - is-it-safe-to-walk-outside-in-freezing-temperatures-with-heart-disease
-  - >-
-    5-things-your-cardiologist-isn-t-asking-about-holiday-heart-syndrome-but-should-be-especially-if-you-re-on-beta-blockers-or-digoxin
 ---
 
 # Managing Heart Disease During Cataract Surgery Recovery: A Gentle, Practical Guide for Seniors 73+

@@ -18,8 +18,6 @@ relatedSlugs:
     is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
   - >-
     when-to-worry-about-morning-hypoglycemia-in-adults-74-taking-basal-insulin-and-polypharmacy-especially-with-concurrent-sglt2-inhibitor-use
-  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
-  - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
 ---
 
 # Why Skipping Breakfast on New Year’s Day Is Risky—Especially With Basal Insulin After Age 70

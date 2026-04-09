@@ -20,10 +20,6 @@ relatedSlugs:
     what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
   - >-
     the-role-of-potassium-in-managing-blood-pressure-after-50
-  - the-link-between-winter-depression-and-high-blood-pressure-in-older-adults
-  - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
-  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
-  - the-role-of-potassium-in-managing-blood-pressure-after-50
 ---
 
 # Top Winter Superfoods for Blood Pressure That Support Senior Heart Health

@@ -18,7 +18,6 @@ relatedSlugs:
     cgm-edema-heart-failure-diuretics
   - >-
     cgm-accuracy-holiday-travel
-
 ---
 
 # Can Your CGM and Pacemaker Safely Coexist If You Sleep on a Magnetic Mattress Pad?

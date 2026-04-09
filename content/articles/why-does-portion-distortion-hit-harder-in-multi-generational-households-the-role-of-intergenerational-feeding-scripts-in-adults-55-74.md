@@ -20,11 +20,6 @@ relatedSlugs:
     how-intergenerational-plate-sharing-during-thanksgiving-dinner-elevates-postprandial-glucose-spikes-in-adults-62-with-prediabetes
   - >-
     how-intergenerational-plate-sharing-grandparent-grandchild-parent-disrupts-glycemic-buffering-in-adults-59-64-with-new-onset-insulin-resistance
-  - portion-control-strategies-for-large-family-meals-that-work
-
-  - >-
-    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
-  - what-to-do-when-your-family-doesn-t-support-your-healthy-eating-choices
 ---
 
 # Why Portion Distortion Intergenerational Feeding Scripts Make Family Meals Trickier After 55

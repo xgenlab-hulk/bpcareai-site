@@ -18,8 +18,6 @@ relatedSlugs:
     3-simple-steps-to-prevent-post-holiday-hba1c-drift-even-if-you-did-fine-during-the-festivities-in-adults-57-66-with-stable-prediabetes
   - >-
     the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
-  - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
-  - best-blood-sugar-monitoring-practices-during-the-holiday-season
 ---
 
 # Early Warning Signs Your Holiday Medication Routine Is Failing — Even With a ‘Good’ A1C

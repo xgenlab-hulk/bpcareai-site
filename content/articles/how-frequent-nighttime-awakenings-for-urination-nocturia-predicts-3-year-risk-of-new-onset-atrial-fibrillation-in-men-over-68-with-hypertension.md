@@ -20,14 +20,6 @@ relatedSlugs:
     how-late-night-holiday-movie-marathons-elevate-sympathetic-tone-and-why-that-increases-afib-burden-in-adults-65-with-nocturnal-hypertension
   - >-
     holiday-travel-nocturnal-afib-warning
-  - the-connection-between-frequent-urination-at-night-and-heart-health
-  - how-frequent-urination-at-night-could-signal-heart-problems
-  - >-
-    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
-  - >-
-    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
-  - >-
-    what-causes-recurrent-nighttime-palpitations-with-normal-ecgs-in-women-52-68-during-perimenopause-and-when-it-signals-early-atrial-fibrosis
 ---
 
 # How Nighttime Urination May Be a Quiet Warning Sign for Atrial Fibrillation in Older Men With High Blood Pressure

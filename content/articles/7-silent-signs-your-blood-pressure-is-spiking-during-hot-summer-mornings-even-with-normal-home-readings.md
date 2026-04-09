@@ -19,9 +19,6 @@ relatedSlugs:
     10-silent-signs-your-heart-is-struggling-during-summer-heat-even-with-normal-baseline-bp-and-pulse-in-adults-65
   - >-
     7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-wake-up-with-dry-mouth-and-morning-brain-fog
-
-  - >-
-    what-causes-blood-pressure-to-spike-during-morning-showering-in-adults-62-78-with-autonomic-neuropathy-and-orthostatic-hypotension
 ---
 
 # 7 Quiet Clues Your Blood Pressure Is Rising on Hot Summer Mornings — Even When Home Readings Look Fine  

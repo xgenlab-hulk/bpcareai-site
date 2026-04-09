@@ -20,11 +20,6 @@ relatedSlugs:
     a-vs-b-continuous-glucose-monitoring-cgm-vs-fingertip-glucose-testing-for-detecting-nocturnal-hypoglycemia-in-adults-75-on-basal-insulin
   - >-
     the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
-  - meal-timing-strategies-for-better-blood-sugar-control-after-50
-  - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
-  - managing-diabetes-while-traveling-tips-for-seniors
 ---
 
 # Understanding Nighttime Blood Sugar Spikes in Elderly Diabetics

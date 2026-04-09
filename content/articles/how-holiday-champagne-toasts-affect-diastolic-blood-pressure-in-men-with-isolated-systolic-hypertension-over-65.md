@@ -20,15 +20,6 @@ relatedSlugs:
     warning-signs-your-normal-office-diastolic-reading-is-missing-isolated-systolic-hypertension-especially-if-you-re-a-woman-over-70-with-stiff-arteries
   - >-
     what-causes-postprandial-hypertension-a-sudden-30-mmhg-systolic-rise-within-90-minutes-of-eating-in-adults-69-85
-  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
-  - >-
-    how-alcohol-free-mocktails-can-lower-blood-pressure-in-women-over-55-during-new-year-s-gatherings
-  - >-
-    how-portion-distortion-at-thanksgiving-buffets-worsens-hypertension-in-adults-over-65
-  - >-
-    5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics
-  - >-
-    can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
 ---
 
 # How Champagne Affects Diastolic Blood Pressure in Seniors with Isolated Systolic Hypertension

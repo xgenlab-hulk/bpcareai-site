@@ -20,9 +20,6 @@ relatedSlugs:
     how-intergenerational-recipe-sharing-affects-nutrient-density-in-holiday-meals-for-adults-54-65-with-early-sarcopenia-and-low-protein-intake
   - >-
     myths-vs-facts-eating-light-during-holidays-doesn-t-mean-skipping-meals-here-s-why-for-seniors
-  - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
-  - >-
-    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
 ---
 
 # 5 Science-Backed Ways to Preserve Muscle Mass During Holiday Meals — Gentle Strategies for Adults 74+ at Sarcopenia Risk

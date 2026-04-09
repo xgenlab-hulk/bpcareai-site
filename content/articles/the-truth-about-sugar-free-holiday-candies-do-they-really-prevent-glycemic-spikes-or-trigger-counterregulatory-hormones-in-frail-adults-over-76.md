@@ -20,10 +20,6 @@ relatedSlugs:
     the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
   - >-
     are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors
-  - >-
-    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
 ---
 
 # What Really Happens When Frail Older Adults Eat Sugar-Free Holiday Candies? Understanding the Glycemic Response in the Frail Elderly

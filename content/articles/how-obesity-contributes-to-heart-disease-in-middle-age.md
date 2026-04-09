@@ -20,11 +20,6 @@ relatedSlugs:
     how-menopause-affects-heart-disease-risk-in-women
   - >-
     the-truth-about-winter-weight-gain-and-heart-strain-after-60
-  - how-type-2-diabetes-increases-heart-disease-risk-after-50
-  - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
-  - the-hidden-link-between-gum-disease-and-heart-problems
-  - can-meditation-reduce-heart-disease-risk-after-50
-  - can-gardening-improve-heart-health-after-50
 ---
 
 # How Obesity and Heart Disease in Middle Age Are Connected

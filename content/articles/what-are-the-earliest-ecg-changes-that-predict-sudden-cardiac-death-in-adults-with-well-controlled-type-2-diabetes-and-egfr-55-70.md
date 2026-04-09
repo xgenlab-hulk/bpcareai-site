@@ -20,10 +20,6 @@ relatedSlugs:
     warning-signs-your-holiday-weight-gain-is-accelerating-diabetic-kidney-hyperfiltration-even-before-egfr-drops
   - >-
     what-are-the-earliest-ecg-signs-of-left-atrial-myopathy-before-afib-or-elevated-nt-probnp-in-adults-59-with-long-standing-hypertension-and-normal-echo
-  - how-to-manage-holiday-heart-syndrome-risk-with-type-2-diabetes
-  - >-
-    warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
-  - recognizing-silent-heart-attacks-in-diabetics-over-60
 ---
 
 # Early ECG Changes That Signal Sudden Cardiac Death Risk in Adults With Well-Controlled Type 2 Diabetes and Mild Kidney Impairment

@@ -20,11 +20,6 @@ relatedSlugs:
     how-chronic-loneliness-alters-heart-rate-variability-and-increases-atrial-fibrillation-risk-in-adults-75-living-alone
   - >-
     how-chronic-loneliness-alters-heart-rate-variability-in-adults-65-and-why-that-predicts-5-year-cardiovascular-mortality-risk
-  - how-social-isolation-increases-heart-disease-risk-after-60
-  - how-pets-support-heart-health-in-older-adults
-  - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
-  - how-chronic-stress-contributes-to-high-blood-pressure-over-time
-  - the-hidden-link-between-gum-disease-and-heart-problems
 ---
 
 # How Social Isolation and Heart Disease in Seniors Are Connected

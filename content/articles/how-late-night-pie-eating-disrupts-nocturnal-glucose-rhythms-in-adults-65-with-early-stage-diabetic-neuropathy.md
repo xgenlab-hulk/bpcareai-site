@@ -20,9 +20,6 @@ relatedSlugs:
     how-late-night-snacking-during-hanukkah-or-christmas-eve-affects-overnight-glucose-stability-in-women-over-70
   - >-
     simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature
-  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
-  - >-
-    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
 ---
 
 # How Late-Night Pie Eating Disrupts Glucose Rhythms in Seniors With Early Diabetic Neuropathy  

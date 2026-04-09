@@ -20,11 +20,6 @@ relatedSlugs:
     best-holiday-snack-pairings-for-adults-with-diabetic-autonomic-neuropathy-to-prevent-postprandial-hypotension-and-glucose-spikes
   - >-
     when-to-skip-the-family-dessert-table-entirely-5-clinical-indicators-that-signal-high-risk-carbohydrate-load-for-adults-69-with-diabetic-gastroparesis
-  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
-  - >-
-    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
-  - >-
-    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
 ---
 
 # Smarter Holiday Snacking with Early-Stage Diabetic Neuropathy: Timing, Texture, and Temperature Make All the Difference

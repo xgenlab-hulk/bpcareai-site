@@ -20,11 +20,6 @@ relatedSlugs:
     how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
   - >-
     why-emotional-eating-at-family-gatherings-is-common-and-how-to-manage-it
-  - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
-  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
-  - >-
-    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
-  - best-blood-sugar-monitoring-practices-during-the-holiday-season
 ---
 
 # The Reality of Cheating on Your Diet on an Occasional Basis

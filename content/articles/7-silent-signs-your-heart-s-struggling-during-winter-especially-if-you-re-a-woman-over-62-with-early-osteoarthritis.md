@@ -18,12 +18,6 @@ relatedSlugs:
     7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
   - >-
     heart-disease-symptoms-in-women-over-50-what-s-often-missed
-  - 5-silent-signs-your-heart-is-struggling-in-cold-weather
-  - why-older-women-are-more-vulnerable-to-winter-heart-events
-  - what-are-the-first-signs-of-holiday-heart-syndrome-in-women
-  - why-arm-pain-shouldn-t-be-ignored-in-women-over-50
-  - >-
-    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
 ---
 
 # Silent Heart Disease Signs in Winter: What Women Over 60 Need to Know—Especially With Osteoarthritis

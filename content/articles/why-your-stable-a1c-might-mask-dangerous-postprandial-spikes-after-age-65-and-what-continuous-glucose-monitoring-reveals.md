@@ -20,15 +20,6 @@ relatedSlugs:
     postprandial-glucose-timing-gastroparesis-seniors
   - >-
     normalize-postprandial-glucose-within-45-minutes
-  - understanding-a1c-goals-for-seniors-with-diabetes
-  - >-
-    cgm-interpretation-early-dementia-diabetes
-  - >-
-    why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
-  - >-
-    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
-  - >-
-    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
 ---
 
 # Why A1c Alone Isn’t Enough: Understanding a1c Limitations and Postprandial Glucose in Seniors

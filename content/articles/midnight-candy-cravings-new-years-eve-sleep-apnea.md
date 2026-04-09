@@ -18,9 +18,6 @@ relatedSlugs:
     what-causes-sudden-post-dinner-drowsiness-in-adults-55-69-with-untreated-sleep-apnea-and-high-fat-holiday-meals
   - >-
     why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
-  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
-  - >-
-    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
 ---
 
 # Why Midnight Candy Cravings on New Year’s Eve Are Especially Strong in Adults 55+ With Untreated Sleep Apnea

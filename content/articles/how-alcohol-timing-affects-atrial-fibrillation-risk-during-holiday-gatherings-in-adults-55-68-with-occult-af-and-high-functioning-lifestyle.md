@@ -18,7 +18,6 @@ relatedSlugs:
     atrial-fibrillation-vs-holiday-heart-syndrome-key-differences-everyone-should-know
   - >-
     holiday-heart-syndrome-in-women-55-66-why-estrogen-withdrawal-and-late-afternoon-cortisol-peaks-create-a-perfect-storm-for-af
-  - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
 ---
 
 # How Alcohol Timing Atrial Fibrillation Holiday Risk Shifts for Active Adults Over 55

@@ -20,11 +20,6 @@ relatedSlugs:
     why-annual-heart-screenings-are-crucial-after-turning-60
   - >-
     the-complete-guide-to-interpreting-your-cardiac-ct-calcium-score-if-you-re-60-and-have-no-symptoms-but-a-family-history-of-early-heart-attacks
-  - is-sitting-too-much-harming-your-heart-after-60
-  - how-social-isolation-increases-heart-disease-risk-after-60
-  - why-annual-heart-screenings-are-crucial-after-turning-60
-  - how-type-2-diabetes-increases-heart-disease-risk-after-50
-  - how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors
 ---
 
 # How Family History and Heart Disease Risk After 60 Are Connected

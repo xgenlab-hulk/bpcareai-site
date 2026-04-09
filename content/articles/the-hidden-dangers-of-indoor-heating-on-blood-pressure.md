@@ -21,11 +21,6 @@ relatedSlugs:
     the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
   - >-
     how-indoor-humidity-below-30-elevates-morning-systolic-bp-by-12-18-mmhg-in-adults-with-vasomotor-rhinitis-over-62
-  - how-does-cold-weather-affect-blood-pressure-in-older-adults
-  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
-  - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
-  - can-cold-weather-raise-your-blood-pressure
-  - why-winter-increases-heart-attack-risk-in-seniors-over-70
 ---
 
 # Does Heat Raise or Lower Blood Pressure? Indoor Risks

@@ -18,11 +18,6 @@ relatedSlugs:
     non-alcoholic-drinks-holiday-heart-syndrome
   - >-
     non-alcoholic-wine-diabetes-macular-degeneration
-  - the-truth-about-alcohol-and-blood-sugar-during-holiday-parties
-  - >-
-    are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
-  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
 ---
 
 # What You Need to Know About Alcohol-Free Mulled Wine and Blood Sugar—A Gentle Guide for the Holiday Season

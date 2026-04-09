@@ -18,13 +18,6 @@ relatedSlugs:
     best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
   - >-
     best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat
-  - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
-  - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
-  - low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
-  - >-
-    7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker
-  - >-
-    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
 ---
 
 # High-Fiber, Low-Sodium Soft Side Dishes for Seniors: Gentle, Tasty, and Blood-Sugar Friendly

@@ -20,14 +20,6 @@ relatedSlugs:
     ambulatory-blood-pressure-variability-interpretation
   - >-
     what-research-says-about-blood-pressure-variability-in-adults-58-67-with-early-parkinson-s-disease-before-motor-symptoms-emerge
-  - when-to-worry-about-blood-pressure-changes-during-winter
-  - exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous
-  - >-
-    when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension
-  - >-
-    what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75
-  - >-
-    blood-pressure-drops-walking-diabetes-neuropathy
 ---
 
 # When Blood Pressure Fluctuations Warning Signs Signal Something More Serious

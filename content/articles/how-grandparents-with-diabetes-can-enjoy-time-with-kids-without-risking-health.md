@@ -20,10 +20,6 @@ relatedSlugs:
     how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
   - >-
     7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
-  - managing-diabetes-while-traveling-tips-for-seniors
-  - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
-  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
-  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
 ---
 
 # Keeping Joy & Health in Balance: Grandparents Diabetes Holiday Safety Made Simple

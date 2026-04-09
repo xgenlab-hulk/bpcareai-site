@@ -20,13 +20,6 @@ relatedSlugs:
     sweet-potatoes-glucose-variability-seniors
   - >-
     12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
-
-  - >-
-    chicken-preparation-triglyceride-clearance-hypertriglyceridemia
-  - >-
-    cold-mashed-potatoes-glycemic-index-gastroparesis
-  - >-
-    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
 ---
 
 # How a Classic Sweet Potato Casserole Affects Triglyceride Clearance in Adults 68+ With Metabolic Syndrome  

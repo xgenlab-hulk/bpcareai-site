@@ -20,13 +20,6 @@ relatedSlugs:
     does-daily-10-minute-post-dinner-walking-really-reduce-holiday-induced-postprandial-endothelial-dysfunction-in-adults-72-with-mild-carotid-plaque
   - >-
     walking-vs-standing-post-dinner-glucose
-  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
-  - >-
-    post-dinner-walking-vs-breathing-glucose
-  - >-
-    walking-vs-standing-post-dinner-glucose
-  - >-
-    best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
 ---
 
 # How Gratitude Walks Post-Holiday Dinner Support Heart and Metabolic Health in Adults 64+

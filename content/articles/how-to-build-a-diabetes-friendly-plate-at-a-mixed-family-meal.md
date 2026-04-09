@@ -20,11 +20,6 @@ relatedSlugs:
     how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
   - >-
     12-smart-swaps-to-manage-blood-sugar-during-holiday-meals
-  - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
-  - >-
-    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
-  - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
-  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
 ---
 
 # How to Create a Diabetes-Friendly Plate Strategy for Family Gatherings

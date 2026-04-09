@@ -20,11 +20,6 @@ relatedSlugs:
     7-hidden-sodium-traps-in-healthy-looking-holiday-salads-that-worsen-fluid-retention-in-adults-74-with-mild-heart-failure
   - >-
     the-complete-guide-to-navigating-potluck-contributions-when-you-re-79-with-severe-orthostatic-hypotension-and-nocturnal-polyuria
-  - 7-smart-swaps-for-healthier-holiday-meals-after-65
-  - >-
-    7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker
-  - >-
-    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
 ---
 
 # Heart-Healthy Potluck Contributions for Seniors Managing Heart Failure: A Compassionate, Practical Guide

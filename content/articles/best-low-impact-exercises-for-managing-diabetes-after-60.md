@@ -18,11 +18,6 @@ relatedSlugs:
     why-does-blood-sugar-spike-after-a-10-minute-walk-in-adults-62-78-with-type-2-diabetes-and-diabetic-retinopathy
   - >-
     quick-10-minute-workouts-to-lower-blood-sugar-after-christmas-dinner
-  - can-walking-after-meals-lower-blood-sugar-in-older-adults
-  - best-fruits-for-diabetics-over-50-and-which-to-limit
-  - healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s
-  - managing-diabetes-while-traveling-tips-for-seniors
-  - the-link-between-diabetes-and-slow-healing-in-older-adults
 ---
 
 # Gentle Movement, Stronger Health: The Best Low-Impact Exercise for Diabetes Over 60

@@ -20,11 +20,6 @@ relatedSlugs:
     why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
   - >-
     why-does-blood-pressure-spike-during-morning-commute-stress-even-with-normal-readings-at-home-in-adults-58-67
-  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
-  - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
-  - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
-  - does-caffeine-raise-blood-pressure-after-age-60
-  - hidden-salt-10-surprising-foods-that-spike-blood-pressure
 ---
 
 # Understanding Morning Blood Pressure Spike Causes and What They Mean for Your Heart

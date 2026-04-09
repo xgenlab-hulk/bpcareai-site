@@ -20,13 +20,6 @@ relatedSlugs:
     myths-vs-facts-i-ll-just-exercise-more-after-the-holidays-why-that-strategy-fails-for-adults-65-with-type-2-diabetes-and-sarcopenic-obesity
   - >-
     why-older-women-gain-weight-faster-during-the-holidays-after-menopause
-  - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
-  - >-
-    3-simple-steps-to-prevent-post-holiday-hba1c-drift-even-if-you-did-fine-during-the-festivities-in-adults-57-66-with-stable-prediabetes
-  - >-
-    glycemic-resilience-holiday-social-events
-  - >-
-    how-social-eating-norms-at-holiday-gatherings-like-just-one-bite-pressure-predict-3-month-hba1c-deterioration-in-newly-diagnosed-adults-53-64
 ---
 
 # Science-Backed Strategies for Post-Bariatric Holiday Weight Regain Prevention in Adults 58–65

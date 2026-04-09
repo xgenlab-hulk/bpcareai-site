@@ -21,13 +21,6 @@ relatedSlugs:
     reduce-postprandial-glucose-without-medication
   - >-
     breakfast-blood-sugar-spikes-after-35
-
-  - >-
-    10-foods-that-stabilize-fasting-glucose-without-lowering-it-for-adults-62-with-history-of-hypoglycemia-and-age-related-adrenal-blunting
-  - >-
-    stabilize-fasting-glucose-without-lowering
-  - >-
-    9-foods-that-stabilize-blood-sugar-without-adding-protein-powders-or-supplements-for-adults-57-managing-type-2-diabetes-at-holiday-dinners
 ---
 
 # Foods That Lower Blood Sugar Without Pills — Science-Backed

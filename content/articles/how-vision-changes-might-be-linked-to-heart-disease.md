@@ -20,12 +20,6 @@ relatedSlugs:
     warning-signs-of-hypertensive-retinopathy-progression-that-appear-before-vision-changes-detected-via-smartphone-fundus-imaging-in-adults-71
   - >-
     10-silent-signs-your-blood-pressure-is-damaging-your-retina-even-with-controlled-readings-in-adults-63-with-type-2-diabetes
-  - diabetes-and-vision-changes-what-seniors-need-to-know
-  - can-hearing-loss-be-an-early-sign-of-heart-disease
-  - how-frequent-urination-at-night-could-signal-heart-problems
-  - the-link-between-hearing-loss-and-heart-disease-after-60
-  - >-
-    warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
 ---
 
 # How Vision Changes Might Signal Heart Disease: Understanding the Connection

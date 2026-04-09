@@ -20,7 +20,6 @@ relatedSlugs:
     late-eating-diabetes-myths-chronobiology-seniors
   - >-
     how-late-afternoon-snacking-at-family-gatherings-disrupts-nocturnal-melatonin-and-elevates-fasting-glucose-in-adults-59-66-with-shift-work-history
-  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
 ---
 
 # How Late-Afternoon Snacking Ghrelin Dynamics Affect Sarcopenic Obesity in Adults Over 65

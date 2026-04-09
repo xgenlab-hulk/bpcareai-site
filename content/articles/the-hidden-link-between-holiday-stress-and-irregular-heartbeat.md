@@ -20,10 +20,6 @@ relatedSlugs:
     7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
   - >-
     can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes
-  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
-  - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
 ---
 
 # The Connection Between Holiday Stress and Irregular Heartbeat: What You Should Know

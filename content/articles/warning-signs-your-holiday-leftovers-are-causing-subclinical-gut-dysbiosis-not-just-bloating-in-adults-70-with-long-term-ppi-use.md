@@ -20,12 +20,6 @@ relatedSlugs:
     gastric-acid-resilience-ppi-therapy-holiday-meals
   - >-
     when-to-suspect-early-gut-microbiome-shifts-after-holiday-pie-consumption-even-without-diarrhea-or-bloating-in-adults-65-with-stable-ibs-d
-  - holiday-leftovers-sibo-early-signs-seniors
-  - >-
-    when-to-suspect-early-gut-microbiome-shifts-after-holiday-pie-consumption-even-without-diarrhea-or-bloating-in-adults-65-with-stable-ibs-d
-  - sudden-bloating-after-holiday-dinner
-  - >-
-    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
 ---
 
 # When Holiday Leftovers and Long-Term PPI Use Quietly Shift Your Gut Balance — A Gentle Guide for Seniors 70+

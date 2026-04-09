@@ -20,11 +20,6 @@ relatedSlugs:
     12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry
   - >-
     5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
-  - 5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
-  - >-
-    protein-first-timing-triglycerides-metabolic-syndrome
-  - >-
-    myths-vs-facts-eating-light-at-holiday-dinners-prevents-glucose-spikes-in-adults-62-with-insulin-resistance
 ---
 
 # Strategic Snacking Before Holiday Gatherings: What Science Says for Adults 57–64 with Insulin Resistance

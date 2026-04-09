@@ -20,8 +20,6 @@ relatedSlugs:
     the-complete-guide-to-eating-well-at-holiday-parties-without-asking-questions-or-drawing-attention-for-seniors-70-with-hearing-loss-and-social-anxiety
   - >-
     holiday-foods-blood-sugar-bp-seniors-70
-  - warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know
-  - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
 ---
 
 # What Every Senior Living Alone Needs to Know Before Their First Post-Pandemic Holiday Party — Practical, Safety-First Preparedness for Healthy Holiday Eating

@@ -20,12 +20,6 @@ relatedSlugs:
     natural-ways-to-lower-blood-pressure-this-winter-without-medication
   - >-
     the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
-  - how-vitamin-d-deficiency-impacts-heart-health-in-winter
-  - the-link-between-winter-depression-and-high-blood-pressure-in-older-adults
-  - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
-  - >-
-    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
-  - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
 ---
 
 # What Science Tells Us About Vitamin D and Winter Hypertension in Older Adults

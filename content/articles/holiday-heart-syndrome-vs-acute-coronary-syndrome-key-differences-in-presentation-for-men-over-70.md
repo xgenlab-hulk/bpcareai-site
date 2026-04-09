@@ -20,13 +20,6 @@ relatedSlugs:
     how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - >-
     women-holiday-heart-syndrome-menopause
-  - holiday-heart-syndrome-in-men-over-60-unique-risks-and-prevention-tips
-  - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
-  - >-
-    atrial-fibrillation-vs-holiday-heart-syndrome-key-differences-everyone-should-know
-  - >-
-    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
-  - recognizing-silent-heart-attacks-in-diabetics-over-60
 ---
 
 # Holiday Heart vs Heart Attack in Men 70+: Understanding the Critical Differences

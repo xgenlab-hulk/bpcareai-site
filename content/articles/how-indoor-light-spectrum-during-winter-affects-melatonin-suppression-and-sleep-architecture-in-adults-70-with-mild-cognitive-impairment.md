@@ -20,7 +20,6 @@ relatedSlugs:
     how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60
   - >-
     what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter
-  - how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60
 ---
 
 # How Indoor Light Spectrum Affects Melatonin, Sleep Architecture, and Brain Health in Seniors 70+ With Mild Cognitive Impairment

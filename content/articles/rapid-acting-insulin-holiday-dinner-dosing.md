@@ -20,13 +20,6 @@ relatedSlugs:
     simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
   - >-
     7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
-  - should-you-adjust-your-diabetes-medication-during-the-holidays
-  - >-
-    myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
-  - >-
-    when-should-you-switch-from-fasting-glucose-to-cgm-derived-time-in-range-metrics-for-holiday-decision-making-a-threshold-framework-for-adults-55-69
-  - >-
-    how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes
 ---
 
 # Mastering Rapid-Acting Insulin Holiday Dinner Dosing for Adults 58–72

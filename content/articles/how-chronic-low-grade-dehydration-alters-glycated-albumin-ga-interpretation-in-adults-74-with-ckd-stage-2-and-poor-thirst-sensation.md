@@ -18,15 +18,6 @@ relatedSlugs:
     myths-vs-facts-my-diabetes-is-under-control-because-my-a1c-is-6-8-why-that-number-lies-in-adults-77-with-anemia-and-chronic-kidney-disease
   - >-
     fasting-glucose-ckd-stage-3a-diabetes
-  - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
-  - >-
-    how-chronic-low-grade-dehydration-alters-taste-bud-sensitivity-and-drives-holiday-sugar-cravings-in-adults-over-68
-  - >-
-    a1c-reliability-with-low-albumin
-  - >-
-    what-causes-sudden-drop-in-egfr-after-starting-sglt2-inhibitors-in-adults-69-with-borderline-hydration-status-and-low-albumin
-  - >-
-    fasting-glucose-ckd-stage-3a-diabetes
 ---
 
 # Why Glycated Albumin Can Mislead in Older Adults With CKD and Chronic Dehydration

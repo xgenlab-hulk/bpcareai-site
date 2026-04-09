@@ -18,13 +18,6 @@ relatedSlugs:
     how-daily-use-of-hearing-aids-alters-parasympathetic-tone-and-postprandial-glucose-variability-in-adults-76-with-mild-hearing-loss-and-t2d
   - >-
     blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
-  - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
-  - >-
-    the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70
-  - >-
-    7-hidden-signs-your-dentist-should-know-you-have-undiagnosed-diabetes-especially-if-you-re-a-woman-over-62
-  - diabetes-and-vision-changes-what-seniors-need-to-know
-  - how-gum-disease-is-linked-to-diabetes-complications-in-older-adults
 ---
 
 # What Your Ears Might Be Telling You About Your Blood Sugar—Especially If You’re a Woman Over 64 with Hearing Loss and Diabetes

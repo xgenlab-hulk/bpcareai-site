@@ -20,11 +20,6 @@ relatedSlugs:
     how-holiday-social-isolation-worsens-postprandial-glucose-variability-in-adults-78-living-alone-and-using-insulin
   - >-
     12-science-backed-ways-to-reduce-glucose-variability-during-winter-months-for-adults-60-with-seasonal-affective-disorder-and-type-2-diabetes
-  - natural-ways-to-support-blood-sugar-balance-during-holiday-stress
-  - >-
-    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
-  - >-
-    social-dancing-glycemic-variability-orthostatic-hypotension
 ---
 
 # How to Normalize Glucose Variability in 72 Hours Using Magnesium-Glycinate and Alpha-Lipoic Acid—Evidence from Older Adults

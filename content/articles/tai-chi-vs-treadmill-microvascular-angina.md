@@ -18,7 +18,6 @@ relatedSlugs:
     a-vs-b-daily-10-minute-resistance-band-workouts-vs-brisk-walking-for-improving-coronary-flow-reserve-in-adults-63-with-nonobstructive-cad
   - >-
     tai-chi-vs-breathing-central-aortic-pressure
-
 ---
 
 # Tai Chi vs Treadmill for Microvascular Angina: What the Latest Cardiac MRI Data Shows in Adults 67+

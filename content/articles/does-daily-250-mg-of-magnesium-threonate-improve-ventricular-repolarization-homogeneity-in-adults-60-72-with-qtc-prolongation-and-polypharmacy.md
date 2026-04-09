@@ -18,7 +18,6 @@ relatedSlugs:
     does-daily-200-mg-of-magnesium-l-threonate-not-oxide-or-citrate-improve-nocturnal-bp-dipping-in-adults-66-80-with-mild-cognitive-impairment
   - >-
     magnesium-threonate-vs-glycinate-nocturnal-bp-dipping
-
 ---
 
 # Can Magnesium Threonate Support Safer Heart Rhythms in Older Adults with QTc Prolongation?

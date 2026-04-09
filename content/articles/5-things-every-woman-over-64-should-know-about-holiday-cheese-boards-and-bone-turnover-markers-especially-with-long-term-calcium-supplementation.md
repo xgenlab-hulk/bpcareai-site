@@ -18,7 +18,6 @@ relatedSlugs:
     5-things-every-woman-over-68-with-osteopenia-should-know-before-swapping-butter-for-margarine-in-holiday-baking
   - >-
     calcium-rich-foods-without-dairy-seniors
-  - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
 ---
 
 # Is Your Holiday Cheese Board Secretly Weakening Bones Despite Calcium Supplements?

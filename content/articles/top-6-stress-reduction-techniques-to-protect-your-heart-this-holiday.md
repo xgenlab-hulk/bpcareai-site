@@ -20,11 +20,6 @@ relatedSlugs:
     how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - >-
     why-emotional-stress-at-family-gatherings-raises-heart-arrhythmia-risk
-  - 12-simple-ways-to-prevent-holiday-heart-syndrome-naturally
-  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
-  - quick-ways-to-calm-a-racing-heart-during-a-holiday-event
-  - can-mindfulness-meditation-reduce-heart-disease-risk-after-50
-  - simple-steps-to-monitor-your-heart-health-during-the-holiday-season
 ---
 
 # Stress Reduction for Holiday Heart Health: 6 Gentle, Science-Backed Ways to Stay Steady

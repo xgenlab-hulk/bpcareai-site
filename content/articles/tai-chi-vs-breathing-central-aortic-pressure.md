@@ -18,15 +18,6 @@ relatedSlugs:
     vagal-breathing-central-systolic-pressure
   - >-
     quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
-
-  - >-
-    can-daily-12-minute-seated-tai-chi-lower-24-hour-systolic-load-in-adults-71-with-isolated-systolic-hypertension-and-mild-gait-instability
-  - >-
-    tai-chi-vs-heart-coherence-biofeedback-women
-  - >-
-    nasal-breathing-central-aortic-pressure
-  - >-
-    tai-chi-vs-muscle-relaxation-for-nocturnal-hypertension
 ---
 
 # Tai Chi vs Breathing for Central Aortic Pressure: What Works Best for Women 69+ With Isolated Systolic Hypertension?

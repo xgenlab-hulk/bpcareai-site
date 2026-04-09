@@ -18,13 +18,6 @@ relatedSlugs:
     strength-training-peripheral-neuropathy-seniors
   - >-
     low-heat-cooking-polyphenols-diabetes
-
-  - >-
-    type-1-diabetes-plant-based-diet-over-60
-  - >-
-    strength-training-peripheral-neuropathy-seniors
-  - >-
-    a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd
 ---
 
 # Plant-Based vs Mediterranean Diet for Diabetic Neuropathy: Which Supports Nerve Health Best in Men 67–79?

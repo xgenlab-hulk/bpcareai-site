@@ -18,11 +18,6 @@ relatedSlugs:
     arterial-stiffness-foods-seniors-bp
   - >-
     foods-lower-blood-pressure-naturally-53-68
-
-  - sirt1-activating-foods-endothelial-dysfunction-flow-mediated-dilation
-  - >-
-    coronary-microvascular-reactivity-natural-support
-
 ---
 
 # 12 Science-Backed Foods That Delay Endothelial Aging — Supporting Vascular Resilience After 60

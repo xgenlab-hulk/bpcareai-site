@@ -18,11 +18,6 @@ relatedSlugs:
     the-truth-about-low-sodium-canned-soups-for-adults-with-heart-failure-and-preserved-ejection-fraction-over-65
   - >-
     best-low-sodium-swaps-for-classic-holiday-side-dishes-ranked-by-palatability-potassium-retention-and-ease-of-prep-for-caregivers-over-60
-  - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
-  - >-
-    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
-  - low-sodium-alternatives-for-classic-family-recipes-that-still-taste-great
-  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 ---
 
 # Best Low-Sodium Herbs and Spices for Heart Health During the Holidays—Clinically Supported for Adults With Heart Failure and Hyponatremia Risk  

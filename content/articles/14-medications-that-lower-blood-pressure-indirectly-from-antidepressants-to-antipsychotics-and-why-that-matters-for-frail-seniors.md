@@ -18,14 +18,6 @@ relatedSlugs:
     when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension
   - >-
     how-standing-up-too-fast-affects-blood-pressure-in-older-adults
-  - could-your-medications-be-raising-your-blood-pressure
-  - >-
-    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
-  - >-
-    when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
-  - >-
-    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
-  - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
 ---
 
 # Could Your Antidepressant Be Lowering Your Blood Pressure Too Much—And Raising Your Fall Risk?

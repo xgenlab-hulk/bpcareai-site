@@ -18,15 +18,6 @@ relatedSlugs:
     warning-signs-your-mild-diabetic-gastroparesis-is-causing-nocturnal-hypoglycemia-especially-if-you-re-on-basal-insulin-over-68
   - >-
     why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
-
-  - >-
-    a-vs-b-continuous-glucose-monitoring-cgm-vs-flash-glucose-monitoring-for-detecting-nocturnal-hypoglycemia-in-adults-with-autonomic-neuropathy
-  - >-
-    cgm-interpretation-early-dementia-diabetes
-  - >-
-    cgm-flat-line-myth-elderly
-  - >-
-    what-causes-rebound-hyperglycemia-after-nocturnal-hypoglycemia-in-adults-over-68-and-why-it-s-often-mistaken-for-insulin-resistance
 ---
 
 # CGM vs Fingerstick Nocturnal Hypoglycemia Elderly: What’s Really Better for Adults 75+ on Basal Insulin?

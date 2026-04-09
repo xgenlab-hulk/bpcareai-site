@@ -18,7 +18,6 @@ relatedSlugs:
     how-prolonged-sitting-during-remote-work-alters-splanchnic-vein-compliance-and-daytime-bp-variability-in-adults-52-64
   - >-
     vagal-breathing-central-systolic-pressure
-
 ---
 
 # 12 Science-Backed Ways to Lower Systolic Blood Pressure Without Medication (Especially for Busy Adults 55–66)

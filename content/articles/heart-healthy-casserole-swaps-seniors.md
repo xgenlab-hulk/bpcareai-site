@@ -18,11 +18,6 @@ relatedSlugs:
     10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor
   - >-
     5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
-  - 5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
-  - 10-heart-healthy-swaps-for-traditional-holiday-dishes-after-50
-  - simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
-  - 7-smart-swaps-for-healthier-holiday-meals-after-65
-  - best-low-sodium-swaps-for-classic-holiday-side-dishes-ranked-by-palatability-potassium-retention-and-ease-of-prep-for-caregivers-over-60
 ---
 
 # Holiday Casseroles Raising Your Blood Pressure? 12 Heart-Safe Swaps That Lowered BP 7.3 mm Hg in 28 Days—Tested by Cardiac Dietitians for Adults 64+

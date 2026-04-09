@@ -20,7 +20,6 @@ relatedSlugs:
     arterial-stiffness-foods-seniors-bp
   - >-
     the-truth-about-normal-home-blood-pressure-readings-in-adults-80-with-orthostatic-hypotension-and-white-coat-avoidance
-
 ---
 
 # Foods for Aortic Stiffness Without Orthostasis: Nutrient-Smart Choices for Adults 64+ With Isolated Systolic Hypertension

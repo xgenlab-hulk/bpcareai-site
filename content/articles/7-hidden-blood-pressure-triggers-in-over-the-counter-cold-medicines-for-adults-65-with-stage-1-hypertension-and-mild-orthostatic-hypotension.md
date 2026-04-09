@@ -18,13 +18,6 @@ relatedSlugs:
     14-medications-that-lower-blood-pressure-indirectly-from-antidepressants-to-antipsychotics-and-why-that-matters-for-frail-seniors
   - >-
     when-to-worry-about-a-single-bp-reading-over-180-110-especially-if-you-re-taking-nsaids-antidepressants-or-decongestants
-  - could-your-medications-be-raising-your-blood-pressure
-  - >-
-    does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
-  - >-
-    could-your-medications-be-raising-your-blood-pressure
-  - >-
-    when-to-worry-about-a-single-bp-reading-over-180-110-especially-if-you-re-taking-nsaids-antidepressants-or-decongestants
 ---
 
 # Cold Medicine Blood Pressure Elderly: 7 Hidden Triggers in OTC Cold Remedies for Adults 65+ With Stage 1 Hypertension and Mild Orthostatic Hypotension

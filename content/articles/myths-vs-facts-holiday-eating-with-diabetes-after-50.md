@@ -20,11 +20,6 @@ relatedSlugs:
     how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
   - >-
     myths-vs-facts-healthy-eating-during-family-celebrations
-  - the-truth-about-cheating-on-your-diet-during-family-celebrations
-  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
-  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
-  - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
-  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
 ---
 
 # Diabetes Holiday Myths vs Facts: Gentle Guidance for Adults Over 50

@@ -18,8 +18,6 @@ relatedSlugs:
     warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather
   - >-
     how-standing-up-too-fast-affects-blood-pressure-in-older-adults
-  - blood-pressure-management-for-sedentary-seniors-in-winter-months
-  - isolated-systolic-hypertension-what-it-means-for-older-adults
 ---
 
 # Blood Pressure Management 80 Plus Orthostatic: Prioritizing Upright Safety Over Sitting Numbers

@@ -20,10 +20,6 @@ relatedSlugs:
     myths-vs-facts-holiday-eating-with-diabetes-after-50
   - >-
     myths-vs-facts-eating-light-at-holiday-dinners-prevents-glucose-spikes-in-adults-62-with-insulin-resistance
-  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
-  - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
-  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
-  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
 ---
 
 # Practical Ways to Avoid Overeating at Holiday Dinners with Diabetes

@@ -20,13 +20,6 @@ relatedSlugs:
     natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements
   - >-
     beta-cell-rest-holiday-meals-natural-support
-  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
-  - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
-  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
-  - >-
-    4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts
-  - >-
-    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
 ---
 
 # Natural Digestive Enzyme Support for Seniors During Holiday Meals  

@@ -20,9 +20,6 @@ relatedSlugs:
     hawthorn-vs-magnesium-holiday-heart
   - >-
     low-carb-vs-magnesium-holiday-heart-prevention
-  - the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
-  - >-
-    5-things-every-woman-over-62-should-know-about-calcium-fortified-eggnog-and-bone-mineral-density-especially-with-long-term-ppi-use
 ---
 
 # Magnesium Glycinate Holiday Dessert Timing: What Science Says for Heart Health After 65

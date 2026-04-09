@@ -18,14 +18,6 @@ relatedSlugs:
     warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
   - >-
     5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
-
-  - >-
-    warning-signs-your-holiday-leftovers-are-causing-subclinical-dehydration-in-adults-80-with-diminished-thirst-response-and-mild-hyponatremia-risk
-  - >-
-    12-science-backed-ways-to-prevent-post-holiday-hyponatremia-in-adults-78-living-alone-and-taking-ssris-or-thiazides
-  - >-
-    12-science-backed-ways-to-prevent-post-holiday-hyponatremia-in-adults-78-living-alone-and-taking-ssris-or-thiazides
-  - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
 ---
 
 # Holiday Hydration for Seniors with Hyponatremia: A Gentle, Practical Guide

@@ -20,12 +20,6 @@ relatedSlugs:
     7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
   - >-
     5-things-your-pharmacist-won-t-tell-you-about-blood-pressure-meds-and-driving-safety-in-adults-73
-  - 7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
-  - >-
-    the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
-  - could-your-medications-be-raising-your-blood-pressure
-  - >-
-    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
 ---
 
 # When Sudden Fatigue After Starting Blood Pressure Medication Over 65 Deserves Your Attention

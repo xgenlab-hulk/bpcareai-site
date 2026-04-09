@@ -20,9 +20,6 @@ relatedSlugs:
     can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
   - >-
     fatigue-after-meals-diabetes-elderly
-  - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
-  - >-
-    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
 ---
 
 # When Lightheadedness After Pie Orthostatic Hypotension in Women 65+ Signals a Need for Gentle Attention

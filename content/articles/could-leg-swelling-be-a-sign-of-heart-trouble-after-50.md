@@ -18,11 +18,6 @@ relatedSlugs:
     7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80
   - >-
     when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70
-  - heart-disease-warning-signs-that-appear-years-in-advance
-  - why-sudden-weight-gain-could-be-a-red-flag-for-your-heart
-  - why-arm-pain-shouldn-t-be-ignored-in-women-over-50
-  - why-women-s-heart-attack-symptoms-differ-after-menopause
-  - heart-disease-symptoms-in-women-over-50-what-s-often-missed
 ---
 
 # Could Leg Swelling After 50 Be a Sign of Heart Trouble? Understanding Leg Swelling and Heart Failure Symptoms After 50

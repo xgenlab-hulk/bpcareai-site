@@ -20,11 +20,6 @@ relatedSlugs:
     intergenerational-dining-stress-cortisol-glucose
   - >-
     12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
-  - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
-  - why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope
-  - how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes
-  - how-stress-affects-blood-sugar-in-people-with-diabetes-over-50
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
 ---
 
 # Why Family Gatherings Blood Sugar Matters for Men Over 60 with Diabetes

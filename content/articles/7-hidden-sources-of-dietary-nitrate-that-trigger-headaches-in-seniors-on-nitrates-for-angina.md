@@ -18,8 +18,6 @@ relatedSlugs:
     5-things-every-caregiver-should-know-before-administering-nitroglycerin-to-someone-78-with-known-cad-and-mild-cognitive-impairment
   - >-
     when-to-worry-about-holiday-induced-brain-fog-after-eating-especially-with-concurrent-ace-inhibitor-use-and-orthostatic-hypotension-in-adults-67
-  - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
-  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 ---
 
 # Hidden Dietary Nitrate Sources That Can Interact with Angina Medications—What Seniors Need to Know This Holiday Season

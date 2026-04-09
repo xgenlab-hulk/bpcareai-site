@@ -18,9 +18,6 @@ relatedSlugs:
     what-causes-blood-pressure-to-spike-during-morning-showering-in-adults-62-78-with-autonomic-neuropathy-and-orthostatic-hypotension
   - >-
     can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
-  - the-impact-of-hot-showers-on-blood-pressure-and-heart-rate
-  - >-
-    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
 ---
 
 # When a Hot Shower Causes a Blood Pressure Drop During Hot Shower — What Older Adults and Caregivers Should Know

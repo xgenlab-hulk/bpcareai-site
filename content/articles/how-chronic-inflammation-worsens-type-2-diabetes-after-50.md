@@ -20,11 +20,6 @@ relatedSlugs:
     how-chronic-low-grade-gum-inflammation-alters-insulin-clearance-in-adults-57-69-with-well-controlled-type-2-diabetes
   - >-
     how-chronic-low-grade-inflammation-drives-beta-cell-decline-in-adults-52-64-with-long-standing-prediabetes-and-elevated-hs-crp
-  - how-type-2-diabetes-increases-heart-disease-risk-after-50
-  - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
-  - the-role-of-fiber-in-controlling-blood-sugar-after-50
-  - meal-timing-strategies-for-better-blood-sugar-control-after-50
-  - the-link-between-diabetes-and-slow-healing-in-older-adults
 ---
 
 # How Chronic Inflammation and Type 2 Diabetes Over 50 Are Connected

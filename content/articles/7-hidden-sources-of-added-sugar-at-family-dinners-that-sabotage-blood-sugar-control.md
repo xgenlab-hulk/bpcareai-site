@@ -18,10 +18,6 @@ relatedSlugs:
     7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
   - >-
     how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
-  - 7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about
-  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
-  - 7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
-  - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
 ---
 
 # 7 Surprising Sources of Hidden Added Sugar at Family Dinners That Affect Blood Sugar Control

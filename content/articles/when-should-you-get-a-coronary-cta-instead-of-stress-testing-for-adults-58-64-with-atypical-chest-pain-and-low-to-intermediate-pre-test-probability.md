@@ -20,11 +20,6 @@ relatedSlugs:
     the-complete-guide-to-interpreting-your-cardiac-ct-calcium-score-if-you-re-60-and-have-no-symptoms-but-a-family-history-of-early-heart-attacks
   - >-
     coronary-calcium-score-ct-lung-screening
-  - coronary-calcium-score-ct-lung-screening
-  - >-
-    7-silent-signs-of-coronary-microvascular-dysfunction-in-women-55-72-with-normal-coronary-angiograms-and-persistent-chest-discomfort
-  - >-
-    12-science-backed-ways-to-reduce-coronary-artery-calcium-cac-progression-without-statins-in-adults-55-64-with-cac-score-100-300
 ---
 
 # When Coronary CTA Beats Stress Testing for Atypical Chest Pain in Your Late 50s and Early 60s

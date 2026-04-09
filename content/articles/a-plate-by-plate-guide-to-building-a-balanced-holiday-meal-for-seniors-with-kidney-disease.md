@@ -18,10 +18,6 @@ relatedSlugs:
     when-should-you-skip-the-holiday-buffet-entirely-4-clinical-red-flags-that-signal-high-risk-eating-for-adults-76-with-stage-4-ckd
   - >-
     can-you-safely-share-a-single-holiday-meal-plate-with-a-spouse-who-has-stage-3-ckd-while-you-re-managing-hypertension
-  - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
-  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
-  - simple-steps-to-balance-comfort-foods-and-nutrition-during-holiday-meals
-  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
 ---
 
 # A Thoughtful Holiday Meal Guide for Seniors with Kidney Disease

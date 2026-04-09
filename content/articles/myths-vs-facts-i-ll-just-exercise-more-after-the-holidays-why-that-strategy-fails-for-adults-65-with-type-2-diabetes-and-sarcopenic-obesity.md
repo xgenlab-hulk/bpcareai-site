@@ -18,10 +18,6 @@ relatedSlugs:
     how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
   - >-
     5-science-backed-ways-to-reduce-holiday-related-insulin-resistance
-  - how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
-  - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
-  - >-
-    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
 ---
 
 # Why the “Exercise More After Holidays” Myth Backfires for Adults 65+ With Type 2 Diabetes and Sarcopenic Obesity

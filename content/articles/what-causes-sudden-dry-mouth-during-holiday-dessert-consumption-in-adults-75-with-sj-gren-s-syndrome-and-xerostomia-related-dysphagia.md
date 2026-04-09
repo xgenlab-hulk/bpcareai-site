@@ -18,15 +18,6 @@ relatedSlugs:
     5-foods-that-support-salivary-amylase-activity-without-increasing-carbohydrate-load-for-adults-77-with-xerostomia-and-mild-dysphagia
   - >-
     the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia
-
-  - >-
-    how-chronic-low-grade-dehydration-alters-taste-bud-sensitivity-and-drives-holiday-sugar-cravings-in-adults-over-68
-  - >-
-    are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - >-
-    the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia
-  - >-
-    are-sugar-free-treats-actually-safe-for-diabetics-over-65
 ---
 
 # Why Dry Mouth Holiday Dessert Sjögrens Syndrome Hits Harder — And What You Can Do

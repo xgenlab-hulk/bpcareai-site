@@ -18,15 +18,6 @@ relatedSlugs:
     improve-endothelial-function-quickly
   - >-
     nrf2-activating-foods-microvascular-angina-elders
-
-  - >-
-    10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina
-  - >-
-    boost-nitric-oxide-naturally-seniors
-  - >-
-    natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
-  - >-
-    improve-endothelial-function-without-exercise
 ---
 
 # Sirt1-Activating Foods for Endothelial Health: Boosting Flow-Mediated Dilation Naturally in Adults 65–80

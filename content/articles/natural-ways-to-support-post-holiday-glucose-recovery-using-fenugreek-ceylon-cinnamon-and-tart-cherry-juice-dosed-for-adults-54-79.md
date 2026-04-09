@@ -20,12 +20,6 @@ relatedSlugs:
     5-easy-morning-routines-to-stabilize-blood-sugar-after-a-holiday-feast
   - >-
     best-supplements-for-blood-sugar-support-after-50
-  - natural-ways-to-support-blood-sugar-balance-during-holiday-stress
-  - best-supplements-for-blood-sugar-support-after-50
-  - >-
-    a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome
-  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
-  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
 ---
 
 # Gentle, Evidence-Informed Natural Glucose Recovery After Holidays for Adults 54–79

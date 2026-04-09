@@ -20,7 +20,6 @@ relatedSlugs:
     statin-side-effects-heart-health-seniors
   - >-
     top-4-non-statin-cholesterol-modulators-for-adults-with-statin-intolerant-myopathy-over-60
-  - the-truth-about-alcohol-and-heart-disease-is-one-drink-a-day-safe
 ---
 
 # Statins After 75 Myths vs Facts: What the Latest Science Really Says

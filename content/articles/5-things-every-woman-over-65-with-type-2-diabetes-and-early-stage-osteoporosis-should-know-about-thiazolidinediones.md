@@ -18,9 +18,6 @@ relatedSlugs:
     when-to-worry-about-unexplained-weight-gain-in-women-over-55-with-type-2-diabetes-even-with-stable-calorie-intake-and-no-new-medications
   - >-
     best-oral-diabetes-meds-men-over-60
-  - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
-  - >-
-    walking-vs-standing-post-dinner-glucose
 ---
 
 # TZDs Weakening Your Bones? What Women 65+ With Diabetes Need to Know

@@ -18,11 +18,6 @@ relatedSlugs:
     how-kidney-function-declines-faster-in-older-adults-with-diabetes
   - >-
     the-role-of-potassium-in-managing-blood-pressure-after-50
-  - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
-  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
-  - diabetes-and-vision-changes-what-seniors-need-to-know
-  - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
-  - could-your-medications-be-raising-your-blood-pressure
 ---
 
 # Blood Pressure and Kidney Disease in Older Adults: A Vital Connection to Understand

@@ -20,9 +20,6 @@ relatedSlugs:
     5-things-everyone-over-60-should-know-about-insulin-titration-during-winter-when-basal-needs-shift-due-to-reduced-cutaneous-blood-flow
   - >-
     how-social-isolation-during-holiday-months-disrupts-circadian-glucose-rhythms-in-adults-with-type-2-diabetes-over-70
-  - should-you-adjust-your-diabetes-medication-during-the-holidays
-  - >-
-    how-late-night-tv-binge-watching-disrupts-melanopsin-signaling-and-elevates-dawn-phenomenon-glucose-in-men-over-72-with-type-2-diabetes
 ---
 
 # Adjusting Diabetes Medication Timing for Winter Circadian Shifts—A Gentle, Science-Informed Guide

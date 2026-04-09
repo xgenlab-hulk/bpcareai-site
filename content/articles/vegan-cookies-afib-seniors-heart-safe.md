@@ -18,11 +18,6 @@ relatedSlugs:
     foods-heart-rhythm-afib-64
   - >-
     when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use
-  - the-truth-about-heart-healthy-holiday-cookies-for-men-77-with-atrial-fibrillation-and-polypharmacy
-  - the-truth-about-sugar-free-holiday-cookies-for-adults-with-stage-2-ckd-and-preserved-egfr
-  - 12-blood-sugar-safe-swaps-for-classic-christmas-cookies-tested-with-continuous-glucose-monitoring-in-adults-55-72
-  - simple-swaps-for-classic-holiday-recipes-that-lower-sodium-and-preserve-flavor-for-seniors-with-hypertension
-  - 5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
 ---
 
 # Managing AFib and Baking Holiday Cookies for Your Granddaughter? 12 Heart-Safe Vegan Swaps That Keep Your Rhythm Stable—Tested by Cardiac Dietitians for Adults 69+

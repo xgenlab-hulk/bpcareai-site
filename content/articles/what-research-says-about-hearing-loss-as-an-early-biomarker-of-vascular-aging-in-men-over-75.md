@@ -20,12 +20,6 @@ relatedSlugs:
     can-hearing-loss-be-an-early-sign-of-heart-disease
   - >-
     how-hearing-aid-use-correlates-with-3-year-systolic-bp-trajectory-in-adults-74-86-with-bilateral-sensorineural-hearing-loss
-  - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
-  - the-link-between-hearing-loss-and-heart-disease-after-60
-  - >-
-    how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
-  - >-
-    does-holiday-weight-gain-predict-1-year-cardiovascular-risk-in-adults-with-metabolic-syndrome-over-58
 ---
 
 # Hearing Loss as a Window into Vascular Aging in Men Over 75

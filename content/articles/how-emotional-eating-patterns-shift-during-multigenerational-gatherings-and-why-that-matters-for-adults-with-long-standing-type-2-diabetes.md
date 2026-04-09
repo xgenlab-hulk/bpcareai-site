@@ -20,11 +20,6 @@ relatedSlugs:
     intergenerational-dining-stress-cortisol-glucose
   - >-
     how-family-gatherings-affect-blood-sugar-in-men-over-60-with-diabetes
-  - why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope
-  - why-emotional-eating-during-christmas-raises-blood-sugar-after-50
-  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
-  - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
-  - how-family-gatherings-affect-blood-sugar-in-men-over-60-with-diabetes
 ---
 
 # Understanding Emotional Eating Multigenerational Gatherings—and What It Means for Adults With Long-Standing Type 2 Diabetes

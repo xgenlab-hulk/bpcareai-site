@@ -18,12 +18,6 @@ relatedSlugs:
     ogtt-interpretation-reactive-hypoglycemia-adults
   - >-
     insulin-receptor-kinase-natural-activation-seniors
-  - testosterone-deficiency-muscle-glucose-uptake-men
-  - >-
-    5-things-every-man-over-68-with-low-testosterone-and-type-2-diabetes-should-know-about-muscle-protein-synthesis-and-glucose-uptake
-  - testosterone-therapy-hepatic-glucose-production-seniors
-  - pcos-diabetes-menopause-androgen-decline
-  - insulin-receptor-kinase-natural-activation-seniors
 ---
 
 # Testosterone Therapy Causing Blood Sugar Spikes? What Men 65+ Need to Know About Insulin Resistance (5 Keys)

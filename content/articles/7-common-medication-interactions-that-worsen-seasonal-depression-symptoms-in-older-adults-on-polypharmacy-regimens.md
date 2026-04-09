@@ -18,9 +18,6 @@ relatedSlugs:
     how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60
   - >-
     10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore
-  - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
-  - how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60
-  - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
 ---
 
 # How Medication Interactions Can Worsen Seasonal Depression in Older Adults

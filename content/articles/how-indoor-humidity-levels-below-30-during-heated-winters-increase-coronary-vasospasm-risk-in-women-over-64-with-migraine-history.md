@@ -18,10 +18,6 @@ relatedSlugs:
     how-staying-hydrated-in-winter-protects-your-heart-after-70
   - >-
     the-hidden-dangers-of-indoor-heating-on-blood-pressure
-  - how-indoor-air-quality-affects-heart-health-in-winter
-  - how-staying-hydrated-in-winter-protects-your-heart-after-70
-  - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
-  - the-hidden-dangers-of-indoor-heating-on-blood-pressure
 ---
 
 # How Low Indoor Humidity in Winter May Trigger Coronary Vasospasm in Women Over 64 With Migraine History

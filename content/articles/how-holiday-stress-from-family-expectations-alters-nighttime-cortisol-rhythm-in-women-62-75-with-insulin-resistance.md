@@ -18,11 +18,6 @@ relatedSlugs:
     10-foods-that-stabilize-post-holiday-cortisol-rhythm-without-medication-for-adults-59-71-with-type-2-diabetes-and-chronic-stress
   - >-
     natural-ways-to-support-post-meal-insulin-sensitivity-without-supplements-for-adults-53-67-with-early-stage-pcos-and-holiday-weight-gain
-  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
-  - >-
-    how-intergenerational-cooking-stress-alters-postprandial-insulin-sensitivity-in-women-61-76-with-abdominal-obesity-and-cortisol-dysregulation
-  - >-
-    how-holiday-stress-cortisol-spikes-impair-glp-1-secretion-in-adults-64-with-obesity-and-prediabetes-and-why-mindful-breathing-beats-just-relax-advice
 ---
 
 # How Holiday Stress Disrupts Cortisol Rhythm—and What Women 62–75 With Insulin Resistance Can Do About It

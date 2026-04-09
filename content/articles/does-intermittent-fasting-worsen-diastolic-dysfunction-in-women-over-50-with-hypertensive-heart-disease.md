@@ -18,8 +18,6 @@ relatedSlugs:
     how-intermittent-fasting-alters-cardiac-autophagy-flux-in-men-58-67-with-left-ventricular-diastolic-dysfunction-and-elevated-galectin-3
   - >-
     what-research-says-about-intermittent-fasting-windows-and-24-hour-bp-variability-in-adults-55-67-with-metabolic-syndrome-and-elevated-sdnn
-  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
-  - why-emotional-stress-at-family-gatherings-raises-heart-arrhythmia-risk
 ---
 
 # Does Intermittent Fasting Affect Diastolic Function in Women Over 50 with Hypertensive Heart Disease?

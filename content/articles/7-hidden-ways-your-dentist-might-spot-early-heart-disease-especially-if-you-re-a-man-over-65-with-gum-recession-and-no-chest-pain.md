@@ -18,11 +18,6 @@ relatedSlugs:
     dental-inflammation-coronary-microvascular-flow
   - >-
     how-poor-dental-hygiene-may-lead-to-heart-disease
-  - the-hidden-link-between-gum-disease-and-heart-problems
-  - >-
-    how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension
-  - >-
-    7-hidden-signs-your-dentist-should-know-you-have-undiagnosed-diabetes-especially-if-you-re-a-woman-over-62
 ---
 
 # How Your Dentist Might Be the First to Notice Heart Trouble—Especially If You’re a Man Over 65 With Gum Recession

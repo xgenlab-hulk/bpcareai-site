@@ -18,13 +18,6 @@ relatedSlugs:
     best-anti-inflammatory-holiday-snack-swaps-for-men-71-with-psoriatic-arthritis-and-elevated-crp-3-0-mg-l
   - >-
     mid-meal-pausing-vagal-tone-rheumatoid-arthritis
-  - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
-  - >-
-    quick-ways-to-lower-post-holiday-triglyceride-spikes-within-2-hours-using-targeted-omega-3-dosing-validated-in-adults-60-78-with-mixed-dyslipidemia
-  - >-
-    how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80
-  - >-
-    natural-ways-to-counteract-holiday-induced-histamine-load-in-seniors-with-chronic-urticaria-and-dao-deficiency
 ---
 
 # Holiday Inflammation Flaring Your Rheumatoid Arthritis? 12 Food Relief Strategies That Work (Ages 59-76)

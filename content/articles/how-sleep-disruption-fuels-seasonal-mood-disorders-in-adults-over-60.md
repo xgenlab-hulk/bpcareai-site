@@ -20,12 +20,6 @@ relatedSlugs:
     can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
   - >-
     10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore
-  - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
-  - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
-  - seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
-  - how-light-therapy-can-help-older-adults-beat-winter-blues-after-65
-  - >-
-    the-hidden-role-of-vitamin-d-deficiency-in-winter-depression-among-nursing-home-residents
 ---
 
 # How Sleep Disruption and Seasonal Depression Interact in Adults Over 60

@@ -20,11 +20,6 @@ relatedSlugs:
     5-silent-signs-your-heart-is-struggling-in-cold-weather
   - >-
     why-older-women-are-more-vulnerable-to-winter-heart-events
-  - 5-silent-signs-your-heart-is-struggling-in-cold-weather
-  - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
-  - when-to-worry-about-blood-pressure-changes-during-winter
-  - can-cold-hands-signal-poor-circulation-or-heart-issues
-  - can-cold-weather-raise-your-blood-pressure
 ---
 
 # When Chest Tightness in Winter Cold Calls for Your Attention

@@ -20,11 +20,6 @@ relatedSlugs:
     when-to-worry-about-a-single-bp-reading-over-180-110-especially-if-you-re-taking-nsaids-antidepressants-or-decongestants
   - >-
     white-coat-hypertension-emergency-room-adults-68
-  - understanding-blood-pressure-numbers
-  - heart-rate-variability-explained
-  - blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ
-  - is-your-medication-causing-high-blood-pressure
-  - is-low-blood-pressure-dangerous-for-seniors
 ---
 
 # When Should You Worry About a High Reading?

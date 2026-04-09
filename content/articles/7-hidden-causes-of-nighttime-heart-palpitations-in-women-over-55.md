@@ -18,13 +18,6 @@ relatedSlugs:
     what-causes-nocturnal-hypertension-in-women-52-65-with-perimenopausal-hot-flashes-and-elevated-nighttime-norepinephrine
   - >-
     how-untreated-obstructive-sleep-apnea-worsens-resistant-hypertension-in-women-58-71-with-perimenopausal-insulin-resistance
-  - should-you-worry-about-heart-palpitations-when-lying-down
-  - >-
-    7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
-  - heart-disease-symptoms-in-women-over-50-what-s-often-missed
-  - >-
-    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
-  - why-older-women-are-more-vulnerable-to-winter-heart-events
 ---
 
 # Understanding Nighttime Heart Palpitations in Women Over 55: Beyond the Usual Suspects

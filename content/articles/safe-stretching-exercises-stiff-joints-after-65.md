@@ -21,9 +21,6 @@ relatedSlugs:
     7-common-mistakes-that-worsen-post-holiday-joint-stiffness-in-adults-67-with-radiographic-osteoarthritis-even-without-weight-gain
   - >-
     natural-ways-to-reduce-post-holiday-joint-stiffness-in-adults-64-81-with-osteoarthritis-and-high-resolution-crp-elevation
-  - exercises-for-seniors-poor-balance
-  - 30g-fiber-safe-after-65
-  - strength-exercises-women-over-65
 ---
 
 # Gentle & Effective Safe Stretching Exercises for Stiff Joints After 65

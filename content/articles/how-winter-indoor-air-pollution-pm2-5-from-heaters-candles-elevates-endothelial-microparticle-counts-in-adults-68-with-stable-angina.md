@@ -18,7 +18,6 @@ relatedSlugs:
     how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries
   - >-
     how-seasonal-air-pollution-peaks-alter-st-segment-variability-and-why-that-increases-acute-coronary-syndrome-risk-in-adults-59-with-stable-angina
-  - how-indoor-air-quality-affects-heart-health-in-winter
 ---
 
 # How Indoor Air Pollution in Winter Worsens Heart Health for Seniors 68+ With Stable Angina

@@ -18,11 +18,6 @@ relatedSlugs:
     myths-vs-facts-holiday-eating-with-diabetes-after-50
   - >-
     quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
-  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
-  - best-blood-sugar-monitoring-practices-during-the-holiday-season
-  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
 ---
 
 # Blood Sugar Spiking After Holiday Meals? 12 Smart Swaps to Enjoy Favorites Safely

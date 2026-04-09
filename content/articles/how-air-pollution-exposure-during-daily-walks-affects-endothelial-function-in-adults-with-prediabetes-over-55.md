@@ -20,14 +20,6 @@ relatedSlugs:
     the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
   - >-
     air-pollution-pancreatic-mitochondria-diabetes
-  - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
-  - how-air-pollution-impacts-heart-health-in-older-adults
-  - >-
-    can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation
-  - >-
-    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
-  - >-
-    can-you-reverse-arterial-stiffness-with-just-12-weeks-of-barefoot-walking-on-grass-or-sand-evidence-from-a-pilot-trial-in-sedentary-women-63-71
 ---
 
 # How Daily Air Pollution Exposure Impacts Endothelial Function in Adults With Prediabetes Over 55

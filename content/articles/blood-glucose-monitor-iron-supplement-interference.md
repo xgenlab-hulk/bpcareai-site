@@ -18,7 +18,6 @@ relatedSlugs:
     myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
   - >-
     cgm-accuracy-holiday-travel
-  - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
 ---
 
 # Understanding Blood Glucose Monitor Iron Supplement Interference in Older Adults: A Practical Guide for Seniors on Metformin

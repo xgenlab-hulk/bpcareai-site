@@ -18,11 +18,6 @@ relatedSlugs:
     7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
   - >-
     natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
-  - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
-  - natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
-  - how-winter-depression-affects-heart-health-in-retired-adults
-  - why-older-men-often-hide-their-seasonal-depression-symptoms
-  - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
 ---
 
 # Does Moving to a Sunnier Climate Help With Seasonal Depression After Age 70? Weighing Relocating for Seasonal Depression Relief

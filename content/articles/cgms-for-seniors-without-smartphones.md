@@ -18,7 +18,6 @@ relatedSlugs:
     a-vs-b-continuous-glucose-monitoring-cgm-vs-fingertip-glucose-testing-for-detecting-nocturnal-hypoglycemia-in-adults-75-on-basal-insulin
   - >-
     travel-glucose-monitor-seniors-offline-sync
-
 ---
 
 # What Seniors Over 75 Need to Know About CGMs for Seniors Without Smartphones — Simple, Safe, and Supported

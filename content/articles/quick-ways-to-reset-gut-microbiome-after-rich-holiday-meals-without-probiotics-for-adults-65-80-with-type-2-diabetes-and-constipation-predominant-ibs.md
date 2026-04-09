@@ -18,7 +18,6 @@ relatedSlugs:
     gut-barrier-holiday-feasting
   - >-
     foods-disrupt-gut-microbiome-diabetes-54-66
-
 ---
 
 # Gentle, Food-First Ways to Reset Gut Microbiome After Holiday Meals No Probiotics — Especially for Adults 65–80 With Type 2 Diabetes and Constipation-Predominant IBS

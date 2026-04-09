@@ -18,11 +18,6 @@ relatedSlugs:
     natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
   - >-
     nrf2-activating-foods-microvascular-angina-elders
-
-  - >-
-    natural-ways-to-support-capillary-perfusion-without-vasodilators-for-adults-67-79-with-hypertension-mild-peripheral-artery-disease-and-cold-hands-feet
-  - >-
-    12-science-backed-ways-to-reduce-postprandial-endothelial-dysfunction-within-45-minutes-for-adults-60-76-with-type-2-diabetes-and-elevated-adma
 ---
 
 # Supporting Endothelial Repair After Hypertensive Crisis — Especially With Microalbuminuria in Adults 65+

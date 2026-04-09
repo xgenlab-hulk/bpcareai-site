@@ -20,10 +20,6 @@ relatedSlugs:
     exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous
   - >-
     check-blood-pressure-at-home-correctly
-  - when-to-worry-about-high-readings
-  - heart-rate-variability-explained
-  - blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ
-  - how-walking-speed-can-reflect-heart-health-and-blood-pressure
 ---
 
 # Understanding Your Blood Pressure Numbers

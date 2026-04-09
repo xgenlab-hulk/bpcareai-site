@@ -21,13 +21,6 @@ relatedSlugs:
     blood-sugar-friendly-foods-seniors
   - >-
     the-role-of-fiber-in-controlling-blood-sugar-after-50
-  - safe-stretching-exercises-stiff-joints-after-65
-  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
-  - >-
-    what-are-the-earliest-digestive-signs-that-your-holiday-fiber-intake-is-too-low-especially-if-you-re-taking-a-daily-calcium-supplement-after-age-65
-  - >-
-    how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors
-  - start-walking-at-75-safely
 ---
 
 # Is 30g Fiber Safe After 65? Yes — But Only If You Build Up *Slowly* (Here’s How)

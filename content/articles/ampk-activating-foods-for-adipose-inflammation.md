@@ -18,13 +18,6 @@ relatedSlugs:
     11-foods-that-support-mitochondrial-resilience-during-holiday-feasting-backed-by-skeletal-muscle-biopsy-data-in-adults-63-79
   - >-
     mitochondrial-biogenesis-beta-cells-diabetes
-
-  - >-
-    10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina
-
-  - >-
-    pancreatic-acinar-repair-foods-type-2-diabetes
-
 ---
 
 # 10 Foods That Support Healthy Adipose Tissue by Activating AMPK — Evidence from Real Human Fat Biopsies in Adults 57–73 with Obesity and Type 2 Diabetes

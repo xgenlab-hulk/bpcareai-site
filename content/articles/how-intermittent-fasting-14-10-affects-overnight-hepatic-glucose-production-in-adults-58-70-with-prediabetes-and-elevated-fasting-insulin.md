@@ -18,11 +18,6 @@ relatedSlugs:
     how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms
   - >-
     intermittent-fasting-gender-glycogen-resynthesis
-
-  - >-
-    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
-  - >-
-    how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms
 ---
 
 # How Intermittent Fasting (14:10) Influences Overnight Liver Glucose Output in Adults 58–70 With Prediabetes

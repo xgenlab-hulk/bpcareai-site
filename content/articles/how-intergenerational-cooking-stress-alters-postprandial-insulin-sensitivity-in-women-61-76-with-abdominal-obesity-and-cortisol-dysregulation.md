@@ -18,10 +18,6 @@ relatedSlugs:
     how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance
   - >-
     intergenerational-cooking-cortisol-dawn-phenomenon
-  - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
-  - >-
-    what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp
-  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
 ---
 
 # How Cooking Stress During Family Meals Affects Insulin Sensitivity in Women Ages 61–76

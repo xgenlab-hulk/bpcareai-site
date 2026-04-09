@@ -18,11 +18,6 @@ relatedSlugs:
     natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
   - >-
     7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
-  - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
-  - >-
-    best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
-  - >-
-    the-complete-guide-to-holiday-heart-syndrome-prevention-for-adults-with-pacemakers-or-icds-including-safe-gift-ideas-and-travel-tips
 ---
 
 # How to Prevent VT During Travel With an ICD: Gentle, Evidence-Based Strategies for Adults 65–79

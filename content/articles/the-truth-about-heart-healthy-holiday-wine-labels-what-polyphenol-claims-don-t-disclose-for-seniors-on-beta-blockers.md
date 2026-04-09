@@ -20,12 +20,6 @@ relatedSlugs:
     myths-vs-facts-i-only-drink-wine-so-i-m-safe-from-holiday-heart-syndrome-in-adults-55-71-with-metabolic-syndrome
   - >-
     can-seniors-drink-alcohol-safely-during-the-holidays-what-your-medications-say
-  - is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues
-  - >-
-    the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
-  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
-  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
-  - the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50
 ---
 
 # What Holiday Wine Labels *Really* Mean for Seniors on Beta-Blockers—and Why “Heart-Healthy” Can Be Misleading  

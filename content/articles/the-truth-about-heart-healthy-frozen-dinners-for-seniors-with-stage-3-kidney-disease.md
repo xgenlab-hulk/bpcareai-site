@@ -20,9 +20,6 @@ relatedSlugs:
     the-truth-about-heart-healthy-plant-based-burgers-for-adults-over-70-with-stage-2-ckd-hidden-potassium-load-and-phosphate-additives
   - >-
     frozen-dinners-and-blood-pressure-seniors
-  - the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
-  - >-
-    5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
 ---
 
 # Choosing Frozen Dinners That Support Heart Health—Safely—When You Have Stage 3 Kidney Disease

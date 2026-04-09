@@ -18,10 +18,6 @@ relatedSlugs:
     atrial-fibrillation-vs-holiday-heart-syndrome-key-differences-everyone-should-know
   - >-
     the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
-  - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
-  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
-  - >-
-    how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance
 ---
 
 # Why Women Holiday Heart Syndrome Estrogen Withdrawal Is a Real Concern for Midlife Women (55–66)

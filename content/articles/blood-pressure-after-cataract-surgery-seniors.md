@@ -18,13 +18,6 @@ relatedSlugs:
     exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous
   - >-
     how-does-long-haul-flight-duration-affect-systolic-blood-pressure-variability-in-adults-68-82-with-white-coat-hypertension
-
-  - >-
-    heart-disease-cataract-surgery-seniors
-  - >-
-    blood-pressure-dip-reading-prescription-labels
-  - >-
-    morning-hygiene-blood-pressure-variability
 ---
 
 # When Blood Pressure After Cataract Surgery Seniors Rises Briefly — What’s Normal, What’s Not

@@ -20,11 +20,6 @@ relatedSlugs:
     why-women-s-heart-attack-symptoms-differ-after-menopause
   - >-
     heart-disease-symptoms-in-women-over-50-what-s-often-missed
-  - why-winter-increases-heart-attack-risk-in-seniors-over-70
-  - why-older-women-are-more-vulnerable-to-seasonal-depression-in-winter
-  - how-vitamin-d-deficiency-impacts-heart-health-in-winter
-  - how-menopause-affects-heart-disease-risk-in-women
-  - why-women-s-heart-attack-symptoms-differ-after-menopause
 ---
 
 # Why Older Women Face Higher Winter Heart Risk—and What You Can Do

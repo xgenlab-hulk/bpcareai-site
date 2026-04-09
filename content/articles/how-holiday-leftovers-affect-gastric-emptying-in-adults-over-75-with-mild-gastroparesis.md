@@ -20,12 +20,6 @@ relatedSlugs:
     natural-ways-to-support-gastric-emptying-during-thanksgiving-dinner-not-just-after-for-adults-70-with-early-gastroparesis-and-type-2-diabetes
   - >-
     7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72
-
-  - >-
-    natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
-  - >-
-    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
-  - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
 ---
 
 # How Holiday Leftovers Affect Gastric Emptying in Seniors With Mild Gastroparesis

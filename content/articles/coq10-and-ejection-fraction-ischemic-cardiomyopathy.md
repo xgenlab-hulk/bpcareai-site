@@ -18,9 +18,6 @@ relatedSlugs:
     cardiac-rehab-post-covid-myocardial-fatigue
   - >-
     does-daily-250-mg-of-magnesium-threonate-improve-ventricular-repolarization-homogeneity-in-adults-60-72-with-qtc-prolongation-and-polypharmacy
-  - metformin-mitochondrial-dna-copy-number
-  - foods-cardiac-fibroblast-quiescence-seniors
-  - mitochondrial-quality-control-in-cardiomyocytes
 ---
 
 # Does CoQ10 Improve Ejection Fraction in Older Adults with Ischemic Cardiomyopathy? Insights from the Q-CORE Trial

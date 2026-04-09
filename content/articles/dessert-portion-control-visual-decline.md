@@ -18,11 +18,6 @@ relatedSlugs:
     portion-distortion-family-dinner-prediabetes
   - >-
     how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
-- simple-steps-to-modify-your-holiday-appetizer-plate-for-early-macular-degeneration-without-sacrificing-flavor-or-social-connection
-- how-holiday-table-settings-affect-portion-control-in-adults-55-72-with-prediabetes
-- simple-steps-to-modify-holiday-cookie-decorating-for-adults-with-diabetic-retinopathy-and-reduced-contrast-sensitivity
-- the-complete-guide-to-navigating-holiday-buffets-with-visual-impairment-and-age-related-macular-degeneration
-- the-ultimate-guide-to-holiday-eating-for-adults-with-late-stage-macular-degeneration-focusing-on-meal-visibility-texture-cues-and-nutrient-dense-low-vision-adaptations
 ---
 
 # Smart Dessert Portion Control for Older Adults: Using Visual Cues That Respect Age-Related Vision Changes  

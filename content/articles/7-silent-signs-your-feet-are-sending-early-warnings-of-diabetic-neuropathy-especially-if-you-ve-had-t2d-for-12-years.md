@@ -18,7 +18,6 @@ relatedSlugs:
     what-are-the-earliest-signs-of-diabetic-autonomic-neuropathy-in-men-68-before-orthostatic-hypotension-or-gastroparesis-appear
   - >-
     myths-vs-facts-i-don-t-need-to-check-my-feet-daily-because-i-still-feel-pain
-  - recognizing-silent-heart-attacks-in-diabetics-over-60
 ---
 
 # 7 Subtle Early Signs Diabetic Neuropathy Feet May Be Showing You — Especially After 12+ Years with Type 2 Diabetes

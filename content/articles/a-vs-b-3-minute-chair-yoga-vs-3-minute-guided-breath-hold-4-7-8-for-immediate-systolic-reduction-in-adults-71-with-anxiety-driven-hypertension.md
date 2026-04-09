@@ -18,7 +18,6 @@ relatedSlugs:
     quick-ways-to-lower-bp-within-90-minutes-using-guided-breathing-postural-sequencing-validated-in-emergency-department-triage-for-stage-1-hypertension
   - >-
     morning-stretching-vs-breath-hold-nocturnal-bp
-
 ---
 
 # Chair Yoga vs Breath Hold BP: Which 3-Minute Practice Offers Gentle, Immediate Support for Systolic Pressure in Adults 71+ With Anxiety-Driven Hypertension?

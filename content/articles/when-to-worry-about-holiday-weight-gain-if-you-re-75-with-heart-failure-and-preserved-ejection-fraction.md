@@ -18,9 +18,6 @@ relatedSlugs:
     7-silent-signs-your-holiday-sodium-intake-is-worsening-diastolic-stiffness-in-women-65-with-preserved-ejection-fraction
   - >-
     why-sudden-weight-gain-could-be-a-red-flag-for-your-heart
-  - when-to-worry-about-weight-gain-after-a-family-gathering
-  - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
-  - why-sudden-weight-gain-could-be-a-red-flag-for-your-heart
 ---
 
 # When Holiday Weight Gain Heart Failure Preserved Ejection Fraction Becomes a Concern—And What to Do About It

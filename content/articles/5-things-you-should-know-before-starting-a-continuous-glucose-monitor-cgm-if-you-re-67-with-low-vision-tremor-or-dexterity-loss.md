@@ -18,7 +18,6 @@ relatedSlugs:
     a-vs-b-continuous-glucose-monitoring-cgm-vs-fingertip-glucose-testing-for-detecting-nocturnal-hypoglycemia-in-adults-75-on-basal-insulin
   - >-
     cgm-flat-line-myth-elderly
-
 ---
 
 # What Seniors 67+ Need to Know Before Using a CGM for Seniors With Low Vision, Tremor, or Dexterity Challenges

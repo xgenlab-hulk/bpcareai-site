@@ -20,12 +20,6 @@ relatedSlugs:
     why-does-portion-distortion-hit-harder-in-multi-generational-households-the-role-of-intergenerational-feeding-scripts-in-adults-55-74
   - >-
     how-to-build-a-diabetes-friendly-plate-at-a-mixed-family-meal
-  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
-  - 5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners
-  - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
-  - >-
-    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
-  - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
 ---
 
 # Practical Portion Control at Family Meals for Older Adults

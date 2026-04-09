@@ -18,7 +18,6 @@ relatedSlugs:
     best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
   - >-
     seated-resistance-band-hypertension-elderly
-  - best-low-impact-exercises-for-managing-diabetes-after-60
 ---
 
 # Gentle Strength for Steady Blood Pressure: Low-Impact Resistance Exercise Knee Osteoarthritis Solutions

@@ -20,11 +20,6 @@ relatedSlugs:
     how-social-isolation-impacts-heart-disease-risk-in-older-adults
   - >-
     how-chronic-loneliness-after-retirement-alters-autonomic-tone-and-elevates-nocturnal-systolic-pressure-in-adults-68-with-preserved-ejection-fraction
-  - how-social-isolation-increases-heart-disease-risk-after-60
-  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
-  - >-
-    the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70
-  - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
 ---
 
 # How Loneliness After 70 Affects Your Heart—And What You Can Do About It

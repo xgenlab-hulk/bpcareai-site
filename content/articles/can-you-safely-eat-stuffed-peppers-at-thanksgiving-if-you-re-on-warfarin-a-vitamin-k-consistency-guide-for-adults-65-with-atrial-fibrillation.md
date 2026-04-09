@@ -18,13 +18,6 @@ relatedSlugs:
     holiday-herbs-warfarin-safe-seniors-74
   - >-
     holiday-eating-post-pci-dual-antiplatelet-therapy
-
-  - >-
-    the-truth-about-heart-healthy-holiday-salads-why-kale-cranberries-and-walnuts-may-backfire-for-adults-67-on-warfarin-or-apixaban
-  - >-
-    can-you-safely-share-a-slice-of-pumpkin-pie-with-your-grandchild-if-you-re-on-warfarin-a-vitamin-k-interaction-guide-for-holiday-baking
-  - >-
-    holiday-eating-post-pci-dual-antiplatelet-therapy
 ---
 
 # Warfarin-Safe Holiday Foods Vitamin K: A Gentle Guide for Stuffed Peppers & More at Thanksgiving

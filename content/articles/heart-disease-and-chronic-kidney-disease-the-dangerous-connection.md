@@ -20,11 +20,6 @@ relatedSlugs:
     the-connection-between-rheumatoid-arthritis-and-heart-disease
   - >-
     how-excessive-salt-intake-leads-to-heart-disease-over-time
-  - how-type-2-diabetes-increases-heart-disease-risk-after-50
-  - heart-disease-in-hispanic-adults-over-50-unique-risk-factors
-  - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
-  - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
-  - is-sitting-too-much-harming-your-heart-after-60
 ---
 
 # The Hidden Link Between Chronic Kidney Disease and Heart Disease

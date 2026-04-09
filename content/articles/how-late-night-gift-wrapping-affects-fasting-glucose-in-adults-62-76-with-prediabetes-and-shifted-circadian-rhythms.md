@@ -18,11 +18,6 @@ relatedSlugs:
     how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
   - >-
     how-late-night-gift-wrapping-alters-hepatic-insulin-clearance-and-why-that-raises-fasting-glucose-next-morning-in-adults-62-with-nafld-and-normal-bmi
-  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
-  - >-
-    how-late-night-eggnog-consumption-disrupts-fasting-glucose-patterns-in-men-over-65-with-prediabetes
-  - >-
-    how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
 ---
 
 # How Late-Night Activity Affects Fasting Glucose in Older Adults with Prediabetes and Circadian Shifts

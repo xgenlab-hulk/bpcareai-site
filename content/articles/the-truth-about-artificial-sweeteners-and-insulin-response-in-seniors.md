@@ -20,12 +20,6 @@ relatedSlugs:
     the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76
   - >-
     the-truth-about-sugar-free-holiday-desserts-for-seniors-on-glp-1-agonists-why-some-artificial-sweeteners-worsen-nausea-and-hypoglycemia-risk
-  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s
-  - best-supplements-for-blood-sugar-support-after-50
-  - the-role-of-fiber-in-controlling-blood-sugar-after-50
-  - >-
-    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
 ---
 
 # Understanding Artificial Sweeteners and Insulin Response in Elderly Diabetics

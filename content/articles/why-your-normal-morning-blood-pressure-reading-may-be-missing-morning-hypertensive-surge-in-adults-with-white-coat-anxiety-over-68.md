@@ -20,11 +20,6 @@ relatedSlugs:
     how-morning-blood-pressure-spikes-affect-your-heart
   - >-
     7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
-  - why-morning-blood-pressure-surges-are-more-dangerous-in-winter
-  - >-
-    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
-  - >-
-    ambulatory-blood-pressure-report-interpretation
 ---
 
 # Understanding Morning Blood Pressure Surge and White-Coat Anxiety in Adults Over 68

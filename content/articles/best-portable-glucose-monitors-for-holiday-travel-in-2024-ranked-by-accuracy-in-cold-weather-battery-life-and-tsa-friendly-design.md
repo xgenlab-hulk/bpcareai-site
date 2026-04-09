@@ -18,14 +18,6 @@ relatedSlugs:
     travel-glucose-monitor-seniors-offline-sync
   - >-
     dry-air-fasting-glucose-accuracy
-
-  - >-
-    top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season
-  - >-
-    can-you-safely-use-a-continuous-glucose-monitor-while-wearing-holiday-sweaters-with-metallic-threads-or-magnetic-closures
-  - how-to-monitor-blood-sugar-more-effectively-during-festive-travel
-  - >-
-    the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79
 ---
 
 # Best Portable Glucose Monitors for Holiday Travel in 2024: A Practical Guide for Safe, Accurate Monitoring on the Go

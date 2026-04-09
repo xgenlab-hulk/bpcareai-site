@@ -19,15 +19,6 @@ relatedSlugs:
     warning-signs-your-senior-loved-one-is-using-food-to-cope-with-holiday-grief-or-loneliness
   - >-
     how-cold-weather-impacts-appetite-and-food-choices-in-seniors-during-the-holidays
-  - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
-  - >-
-    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
-  - >-
-    5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily
-  - >-
-    4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts
-  - >-
-    warning-signs-your-senior-loved-one-is-using-food-to-cope-with-holiday-grief-or-loneliness
 ---
 
 # When Appetite Suppression at Holiday Dinner Signals Something Deeper in Seniors 65–79

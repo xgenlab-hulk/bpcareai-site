@@ -20,7 +20,6 @@ relatedSlugs:
     warning-signs-your-holiday-energy-crash-is-actually-orthostatic-hypotension-not-just-overeating-in-adults-76-with-age-related-baroreflex-blunting
   - >-
     how-late-night-gift-wrapping-alters-hepatic-insulin-clearance-and-why-that-raises-fasting-glucose-next-morning-in-adults-62-with-nafld-and-normal-bmi
-  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
 ---
 
 # Why Late-Night Gift-Wrapping and Sympathetic Drive in Elderly Adults Deserves More Attention Than Late-Night Snacking

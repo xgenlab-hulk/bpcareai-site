@@ -20,11 +20,6 @@ relatedSlugs:
     when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension
   - >-
     the-truth-about-normal-home-blood-pressure-readings-in-adults-80-with-orthostatic-hypotension-and-white-coat-avoidance
-  - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
-  - how-does-cold-weather-affect-blood-pressure-in-older-adults
-  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
-  - should-you-adjust-your-blood-pressure-goals-in-winter
-  - why-blood-pressure-matters-even-if-you-feel-fine
 ---
 
 # Understanding Low Blood Pressure Risks in Seniors

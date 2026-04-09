@@ -18,11 +18,6 @@ relatedSlugs:
     when-to-suspect-cardiac-amyloidosis-in-women-75-with-unexplained-fatigue-bilateral-carpal-tunnel-surgery-history-and-preserved-ef-on-echo
   - >-
     cardiac-amyloidosis-vs-diastolic-failure
-
-  - >-
-    when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss
-  - >-
-    when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss
 ---
 
 # Spotting Cardiac Amyloidosis Early—Before Diastolic Dysfunction Takes Hold: A Practical Guide for Adults 79+ With Orthostatic Hypotension and Carpal Tunnel

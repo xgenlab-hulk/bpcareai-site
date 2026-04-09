@@ -18,10 +18,6 @@ relatedSlugs:
     5-things-your-pharmacist-won-t-tell-you-about-blood-pressure-meds-and-driving-safety-in-adults-73
   - >-
     14-medications-that-lower-blood-pressure-indirectly-from-antidepressants-to-antipsychotics-and-why-that-matters-for-frail-seniors
-  - 7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
-  - >-
-    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
-
 ---
 
 # BP Medications, Thyroid Pills, and Calcium: What 70+ Adults Need to Know About Timing

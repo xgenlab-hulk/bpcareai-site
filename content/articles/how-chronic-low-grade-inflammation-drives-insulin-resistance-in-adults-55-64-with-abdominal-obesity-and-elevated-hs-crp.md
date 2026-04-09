@@ -18,13 +18,6 @@ relatedSlugs:
     when-to-suspect-mitochondrial-myopathy-before-muscle-cramps-appear-red-flags-in-adults-65-with-rapid-onset-insulin-resistance-and-unexplained-fatigue
   - >-
     how-belly-fat-increases-blood-pressure-risk-after-middle-age
-  - how-chronic-inflammation-worsens-type-2-diabetes-after-50
-  - >-
-    how-chronic-low-grade-inflammation-from-gum-disease-raises-a1c-in-adults-58-74-with-type-2-diabetes-and-poor-dental-access
-  - >-
-    how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
-  - >-
-    how-intergenerational-cooking-stress-alters-postprandial-insulin-sensitivity-in-women-61-76-with-abdominal-obesity-and-cortisol-dysregulation
 ---
 
 # How Inflammation, Insulin Resistance, and Abdominal Obesity Interact in Your 50s and Early 60s

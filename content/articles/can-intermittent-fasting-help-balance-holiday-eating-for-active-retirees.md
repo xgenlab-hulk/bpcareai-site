@@ -18,13 +18,6 @@ relatedSlugs:
     weekday-intermittent-fasting-holidays
   - >-
     myths-vs-facts-eating-light-at-holiday-dinners-prevents-glucose-spikes-in-adults-62-with-insulin-resistance
-  - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
-  - >-
-    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
-  - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
-  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
-  - >-
-    4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts
 ---
 
 # Can Intermittent Fasting Support Healthy Holiday Eating for Seniors?

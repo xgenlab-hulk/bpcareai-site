@@ -18,11 +18,6 @@ relatedSlugs:
     14-medications-that-lower-blood-pressure-indirectly-from-antidepressants-to-antipsychotics-and-why-that-matters-for-frail-seniors
   - >-
     does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
-  - is-your-medication-causing-high-blood-pressure
-  - how-does-cold-weather-affect-blood-pressure-in-older-adults
-  - does-caffeine-raise-blood-pressure-after-age-60
-  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
-  - hidden-salt-10-surprising-foods-that-spike-blood-pressure
 ---
 
 # Could Your Medications Be Raising Your Blood Pressure? What Seniors Need to Know

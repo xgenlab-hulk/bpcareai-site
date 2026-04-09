@@ -18,7 +18,6 @@ relatedSlugs:
     pulse-wave-velocity-foods-avoid-61-cac
   - >-
     arterial-stiffness-foods-seniors-bp
-
 ---
 
 # Artery Calcification Worsening? Foods That Slow Progression in Adults 66+ with Metabolic Syndrome

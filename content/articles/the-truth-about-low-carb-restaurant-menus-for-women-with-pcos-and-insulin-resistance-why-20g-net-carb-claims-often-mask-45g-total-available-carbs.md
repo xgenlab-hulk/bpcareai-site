@@ -20,9 +20,6 @@ relatedSlugs:
     best-low-glycemic-high-fiber-stuffing-variations-for-adults-58-74-with-insulin-resistance-and-ibs-c
   - >-
     the-complete-guide-to-safe-holiday-baking-with-insulin-resistance-from-low-glycemic-flour-blends-to-oven-temperature-adjustments-for-adults-62
-  - 7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
-  - >-
-    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
 ---
 
 # The Real Story Behind ‘Low-Carb’ Restaurant Menus: What Women With PCOS and Insulin Resistance Need to Know About the Low-Carb Restaurant Menu Truth

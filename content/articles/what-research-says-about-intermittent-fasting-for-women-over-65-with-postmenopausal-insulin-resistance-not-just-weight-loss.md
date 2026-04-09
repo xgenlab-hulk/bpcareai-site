@@ -20,7 +20,6 @@ relatedSlugs:
     what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
   - >-
     how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin
-
 ---
 
 # What the Latest Science Says About Intermittent Fasting for Women Over 65 With Insulin Resistance

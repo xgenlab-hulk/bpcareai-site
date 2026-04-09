@@ -20,9 +20,6 @@ relatedSlugs:
     how-late-night-pie-cravings-alter-circadian-clock-gene-expression-in-the-liver-and-why-that-matters-for-fasting-triglycerides-in-adults-58-67
   - >-
     how-late-night-gift-wrapping-alters-hepatic-insulin-clearance-and-why-that-raises-fasting-glucose-next-morning-in-adults-62-with-nafld-and-normal-bmi
-  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
-  - >-
-    how-late-night-pie-cravings-alter-circadian-clock-gene-expression-in-the-liver-and-why-that-matters-for-fasting-triglycerides-in-adults-58-67
 ---
 
 # How Late-Night Snacking Affects Liver Glucose Production — What the Science Says for Adults Over 50

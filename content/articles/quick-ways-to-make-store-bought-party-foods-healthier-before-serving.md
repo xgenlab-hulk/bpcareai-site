@@ -20,10 +20,6 @@ relatedSlugs:
     best-low-sodium-swaps-for-classic-holiday-side-dishes-ranked-by-palatability-potassium-retention-and-ease-of-prep-for-caregivers-over-60
   - >-
     5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
-  - simple-steps-to-balance-comfort-foods-and-nutrition-during-holiday-meals
-  - >-
-    top-6-nutrient-dense-side-dishes-to-add-to-your-senior-friendly-holiday-table
-  - 10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor
 ---
 
 # Simple Swaps for Healthier Store-Bought Party Food—No Cooking Required

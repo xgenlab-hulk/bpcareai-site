@@ -18,11 +18,6 @@ relatedSlugs:
     quick-ways-to-calm-a-racing-heart-during-a-holiday-event
   - >-
     post-dinner-palpitations-holiday-heart-syndrome
-  - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
-  - why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
-  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
-  - the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
-  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
 ---
 
 # Can Late-Night Parties and Heart Rhythm Challenges Be Managed Safely After 60?

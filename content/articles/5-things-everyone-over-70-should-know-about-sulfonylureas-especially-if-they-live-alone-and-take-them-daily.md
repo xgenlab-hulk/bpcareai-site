@@ -18,7 +18,6 @@ relatedSlugs:
     holiday-baking-sulfonylureas-safety
   - >-
     when-to-worry-about-morning-hypoglycemia-in-adults-74-taking-basal-insulin-and-polypharmacy-especially-with-concurrent-sglt2-inhibitor-use
-
 ---
 
 # Are Sulfonylureas Safe If You're Over 70 and Live Alone? What You Need to Know

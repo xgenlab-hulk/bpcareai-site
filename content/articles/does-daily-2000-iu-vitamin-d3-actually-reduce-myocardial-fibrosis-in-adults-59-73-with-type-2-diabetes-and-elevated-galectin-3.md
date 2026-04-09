@@ -18,10 +18,6 @@ relatedSlugs:
     right-ventricular-fibrosis-galectin-3-warning-signs
   - >-
     what-research-says-about-circadian-misalignment-and-myocardial-fibrosis-in-adults-59-67-with-shift-work-history-and-normal-ejection-fraction
-  - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
-  - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
-  - >-
-    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
 ---
 
 # Can Vitamin D3 Supplementation Help Reduce Myocardial Fibrosis in Adults With Type 2 Diabetes?

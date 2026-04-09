@@ -20,11 +20,6 @@ relatedSlugs:
     why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
   - >-
     the-hidden-link-between-holiday-stress-and-irregular-heartbeat
-  - why-emotional-eating-at-family-gatherings-is-common-and-how-to-manage-it
-  - why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
-  - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
-  - when-to-worry-about-weight-gain-after-a-family-gathering
-  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
 ---
 
 # How Family Gatherings Can Quietly Increase Heart Attack Risk—And What You Can Do

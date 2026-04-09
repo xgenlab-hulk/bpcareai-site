@@ -18,9 +18,6 @@ relatedSlugs:
     arterial-stiffness-foods-seniors-bp
   - >-
     the-complete-guide-to-interpreting-pulse-pressure-widening-in-adults-76-with-aortic-valve-sclerosis-not-just-aortic-stenosis
-
-  - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
 ---
 
 # Practical Ways to Support Aortic Pulse Wave Velocity Reduction — Using Tools You Already Have

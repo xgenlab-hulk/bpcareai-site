@@ -20,12 +20,6 @@ relatedSlugs:
     atrial-fibrillation-vs-holiday-heart-syndrome-key-differences-everyone-should-know
   - >-
     the-truth-about-benign-holiday-palpitations-are-they-really-harmless
-  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
-  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
-  - can-meditation-reduce-heart-disease-risk-after-50
-  - >-
-    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
-  - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
 ---
 
 # Your Complete Guide to Holiday Heart Syndrome After 50

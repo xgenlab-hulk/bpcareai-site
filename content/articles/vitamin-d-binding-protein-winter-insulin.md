@@ -20,12 +20,6 @@ relatedSlugs:
     simple-steps-to-adjust-your-diabetes-medication-timing-for-winter-circadian-shifts-especially-if-you-live-north-of-the-45th-parallel-and-are-over-69
   - >-
     why-your-blood-sugar-might-be-higher-in-december-even-with-good-habits
-  - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
-  - >-
-    winter-light-deprivation-glucose-rhythm
-  - >-
-    how-indoor-air-quality-changes-during-winter-affect-fasting-glucose-in-adults-65-with-type-2-diabetes
-  - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
 ---
 
 # How Winter Changes Vitamin D Binding — And Why That Affects Insulin Sensitivity in Adults 57–65

@@ -18,9 +18,6 @@ relatedSlugs:
     quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - >-
     does-daily-10-minute-post-dinner-walking-really-lower-next-morning-fasting-glucose-in-adults-64-with-morning-only-hyperglycemia
-  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
-  - >-
-    post-dinner-walking-vs-breathing-glucose
 ---
 
 # Can Post-Dinner Walking Improve Endothelial Function in Seniors Over 72 with Carotid Plaque? What the Science Says

@@ -20,11 +20,6 @@ relatedSlugs:
     natural-ways-to-lower-blood-pressure-this-winter-without-medication
   - >-
     10-simple-home-adjustments-to-support-blood-pressure-stability-in-winter
-  - blood-pressure-management-for-sedentary-seniors-in-winter-months
-  - the-hidden-dangers-of-indoor-heating-on-blood-pressure
-  - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
-  - how-does-cold-weather-affect-blood-pressure-in-older-adults
-  - best-low-impact-exercises-for-managing-diabetes-after-60
 ---
 
 # Safe and Effective Indoor Exercises for Seniors to Support Blood Pressure Control in Winter

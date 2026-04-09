@@ -20,12 +20,6 @@ relatedSlugs:
     why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
   - >-
     7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
-  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
-  - >-
-    how-late-night-eggnog-consumption-disrupts-fasting-glucose-patterns-in-men-over-65-with-prediabetes
-  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
-  - >-
-    the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76
 ---
 
 # Why Fruitcake May Affect Fasting Glucose in Seniors—Even Without Added Sugar

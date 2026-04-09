@@ -18,11 +18,6 @@ relatedSlugs:
     nighttime-cough-diabetic-autonomic-neuropathy
   - >-
     can-intermittent-fasting-worsen-autonomic-neuropathy-in-adults-71-with-long-term-type-2-diabetes-and-orthostatic-tachycardia
-  - recognizing-silent-heart-attacks-in-diabetics-over-60
-  - >-
-    dangers-of-intermittent-fasting-for-adults-with-severe-hypertension-and-autonomic-neuropathy-confirmed-by-ewing-battery
-  - >-
-    7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
 ---
 
 # Recognizing the Silent Signs Autonomic Neuropathy Older Adults May Overlook — Especially With Long-Standing Diabetes

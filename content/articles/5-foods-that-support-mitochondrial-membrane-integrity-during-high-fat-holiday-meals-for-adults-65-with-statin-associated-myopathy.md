@@ -18,9 +18,6 @@ relatedSlugs:
     10-foods-that-support-mitochondrial-resilience-during-holiday-stress-in-adults-57-74-with-chronic-fatigue
   - >-
     5-things-your-cardiologist-isn-t-telling-you-about-statin-side-effects-after-age-65
-
-  - >-
-    mitochondrial-heart-health-meal-timing-seniors
 ---
 
 # Why Do Your Muscles Ache After Holiday Meals If You Take Statins?

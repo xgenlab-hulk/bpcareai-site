@@ -18,8 +18,6 @@ relatedSlugs:
     the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50
   - >-
     how-intermittent-fasting-alters-hepatic-cyp2e1-expression-and-why-that-changes-alcohol-metabolism-in-adults-69-with-well-controlled-type-2-diabetes
-  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
-  - women-holiday-heart-syndrome-menopause
 ---
 
 # On HRT After 64? What Should You Know About Holiday Alcohol and Liver Enzyme Safety?

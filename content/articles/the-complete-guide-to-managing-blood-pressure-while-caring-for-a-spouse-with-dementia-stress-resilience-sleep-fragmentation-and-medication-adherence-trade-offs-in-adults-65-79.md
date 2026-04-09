@@ -20,12 +20,6 @@ relatedSlugs:
     what-research-says-about-blood-pressure-variability-as-a-stronger-predictor-of-dementia-than-average-bp-in-adults-over-75
   - >-
     how-long-distance-grandparenting-driving-lifting-and-managing-meltdowns-elevates-systolic-load-in-adults-65-with-stage-1-hypertension
-  - blood-pressure-caregiver-parkinsons-spouse
-  - >-
-    diabetes-management-dementia-caregiver
-  - diabetes-management-dementia-caregiver-seniors
-  - diabetes-management-dementia-caregiver
-  - diabetes-management-dementia-caregiver-support
 ---
 
 # Blood Pressure Management for Dementia Caregivers: A Gentle, Practical Guide for Spouses Ages 65–79

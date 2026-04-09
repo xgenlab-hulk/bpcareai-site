@@ -18,7 +18,6 @@ relatedSlugs:
     best-anti-inflammatory-holiday-snack-swaps-for-men-71-with-psoriatic-arthritis-and-elevated-crp-3-0-mg-l
   - >-
     7-silent-signs-your-holiday-eating-is-accelerating-arterial-stiffness-especially-if-you-re-68-with-normal-office-bp
-  - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
 ---
 
 # Gentle, Natural Ways to Reduce Joint Stiffness Post-Holiday Seniors With Osteoarthritis

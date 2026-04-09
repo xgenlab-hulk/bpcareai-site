@@ -20,9 +20,6 @@ relatedSlugs:
     mitochondrial-quality-control-in-cardiomyocytes
   - >-
     mitochondrial-biogenesis-heart-failure-trf
-
-  - >-
-    natural-ways-to-support-cardiac-connexin-43-expression-without-medication-evidence-from-7-clinical-trials-in-adults-60-79
 ---
 
 # Supporting Mitochondrial Biogenesis in the Aging Heart: Gentle, Evidence-Inspired Strategies After 65

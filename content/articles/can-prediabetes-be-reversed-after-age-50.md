@@ -18,11 +18,6 @@ relatedSlugs:
     myths-vs-facts-you-can-reverse-type-2-diabetes-with-diet-alone-what-15-year-remission-data-shows-for-adults-diagnosed-after-age-55
   - >-
     natural-ways-to-support-post-meal-insulin-sensitivity-without-medication-3-evidence-based-strategies-validated-in-adults-61-74-with-prediabetes
-  - best-supplements-for-blood-sugar-support-after-50
-  - the-role-of-fiber-in-controlling-blood-sugar-after-50
-  - can-walking-after-meals-lower-blood-sugar-in-older-adults
-  - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
-  - meal-timing-strategies-for-better-blood-sugar-control-after-50
 ---
 
 # Can You Reverse Prediabetes After 50? Evidence-Based Strategies for Lasting Change

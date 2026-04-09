@@ -20,11 +20,6 @@ relatedSlugs:
     stress-blood-pressure-winter
   - >-
     what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
-  - the-link-between-winter-depression-and-high-blood-pressure-in-older-adults
-  - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
-  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
-  - 7-hidden-winter-habits-that-worsen-hypertension-after-60
-  - how-does-cold-weather-affect-blood-pressure-in-older-adults
 ---
 
 # How Winter Infections and Blood Pressure Interact—Especially for Adults 50+

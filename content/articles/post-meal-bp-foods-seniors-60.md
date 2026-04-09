@@ -19,13 +19,6 @@ relatedSlugs:
     quick-fix-for-postprandial-hypotension-seniors
   - >-
     when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
-  - top-5-winter-superfoods-that-naturally-lower-blood-pressure
-  - the-role-of-potassium-in-managing-blood-pressure-after-50
-  - 5-foods-that-raise-blood-pressure-even-if-they-re-low-sodium
-  - >-
-    how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors
-  - >-
-    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
 ---
 
 # Blood Pressure Jumping 20-30 Points After Meals? 10 Foods That Actually Stabilize It (Seniors 60+)

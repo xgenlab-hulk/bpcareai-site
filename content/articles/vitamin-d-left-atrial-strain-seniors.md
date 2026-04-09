@@ -20,13 +20,6 @@ relatedSlugs:
     top-7-heart-protective-vitamins-to-take-in-winter
   - >-
     taurine-vitamin-b6-atrial-calcium-handling
-  - how-vitamin-d-deficiency-impacts-heart-health-in-winter
-  - >-
-    does-daily-2000-iu-vitamin-d3-actually-reduce-myocardial-fibrosis-in-adults-59-73-with-type-2-diabetes-and-elevated-galectin-3
-  - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
-  - >-
-    does-daily-2000-iu-vitamin-d3-improve-postprandial-insulin-sensitivity-in-adults-53-69-with-type-2-diabetes-and-seasonal-vitamin-d-deficiency
-  - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
 ---
 
 # Can Vitamin D3 Supplementation Support Left Atrial Strain in Seniors? What the D-HEART Trial Tells Us

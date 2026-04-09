@@ -20,11 +20,6 @@ relatedSlugs:
     how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
   - >-
     christmas-vs-new-year-s-which-holiday-is-harder-on-blood-sugar
-  - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - how-cold-weather-affects-blood-sugar-in-people-with-diabetes
-  - best-blood-sugar-monitoring-practices-during-the-holiday-season
-  - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
 ---
 
 # Why Blood Sugar Might Be Higher in December—Even With Good Habits  

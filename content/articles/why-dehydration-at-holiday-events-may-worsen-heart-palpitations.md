@@ -20,11 +20,6 @@ relatedSlugs:
     the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - >-
     warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
-  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
-  - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
-  - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
-  - the-truth-about-benign-holiday-palpitations-are-they-really-harmless
-  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
 ---
 
 # How Dehydration During the Holidays Can Trigger or Worsen Heart Palpitations

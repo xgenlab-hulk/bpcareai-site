@@ -20,13 +20,6 @@ relatedSlugs:
     pulse-wave-velocity-foods-avoid-61-cac
   - >-
     hvac-vibration-aortic-stiffness-testing
-
-  - >-
-    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
-  - >-
-    improve-endothelial-function-without-exercise
-  - >-
-    resonant-breathing-diastolic-pressure-reduction
 ---
 
 # Natural Arterial Stiffness Reduction Flavonoid Timing PWV Protocol for Older Adults

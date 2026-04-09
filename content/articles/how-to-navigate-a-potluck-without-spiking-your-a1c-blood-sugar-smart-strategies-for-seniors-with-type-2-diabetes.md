@@ -20,12 +20,6 @@ relatedSlugs:
     type-1-diabetes-holiday-potluck-guide
   - >-
     how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
-  - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
-  - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
-  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
-  - managing-diabetes-while-traveling-tips-for-seniors
-  - >-
-    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
 ---
 
 # Smart Strategies to Manage Blood Sugar at Potlucks Seniors Can Actually Enjoy

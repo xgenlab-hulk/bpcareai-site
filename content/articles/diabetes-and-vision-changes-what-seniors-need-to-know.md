@@ -18,11 +18,6 @@ relatedSlugs:
     10-silent-signs-your-blood-pressure-is-damaging-your-retina-even-with-controlled-readings-in-adults-63-with-type-2-diabetes
   - >-
     the-link-between-diabetes-and-slow-healing-in-older-adults
-  - how-vision-changes-might-be-linked-to-heart-disease
-  - the-link-between-diabetes-and-slow-healing-in-older-adults
-  - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
-  - understanding-a1c-goals-for-seniors-with-diabetes
-  - foot-care-basics-every-senior-with-diabetes-should-know
 ---
 
 # Understanding Diabetes-Related Vision Changes in Seniors

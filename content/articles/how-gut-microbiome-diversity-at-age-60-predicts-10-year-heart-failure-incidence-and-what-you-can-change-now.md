@@ -20,12 +20,6 @@ relatedSlugs:
     how-gut-microbiome-diversity-at-age-58-64-predicts-10-year-progression-from-prediabetes-to-type-2-diabetes-based-on-3-longitudinal-cohort-studies
   - >-
     how-long-term-use-of-proton-pump-inhibitors-alters-gut-microbiome-derived-tmao-production-and-coronary-plaque-burden-in-adults-65-with-stable-angina
-  - the-role-of-omega-3-fatty-acids-in-preventing-heart-disease
-  - could-your-heartbeats-per-minute-predict-longevity
-  - >-
-    how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
-  - >-
-    how-gut-microbiome-diversity-at-age-58-64-predicts-10-year-progression-from-prediabetes-to-type-2-diabetes-based-on-3-longitudinal-cohort-studies
 ---
 
 # How Gut Microbiome Diversity at Age 60 Helps Predict Heart Failure Risk—and What You Can Do Today

@@ -18,11 +18,6 @@ relatedSlugs:
     foods-for-central-bp-and-cognitive-blood-flow
   - >-
     does-daily-500-mg-of-berberine-improve-central-aortic-systolic-pressure-in-adults-54-68-with-metabolic-syndrome-and-elevated-augmentation-index
-  - 10-foods-that-reduce-arterial-stiffness-within-2-hours-for-adults-60-75-with-hypertension-and-high-pulse-wave-velocity
-  - 12-science-backed-ways-to-lower-central-aortic-pressure-without-medication-for-adults-57-71-with-high-pulse-wave-velocity-and-normal-brachial-readings
-  - 12-foods-that-support-endothelial-nitric-oxide-synthase-activity-backed-by-rcts-in-adults-53-68-with-prehypertension
-  - 10-foods-that-lower-post-exercise-heart-rate-recovery-time-for-adults-59-73-with-hypertension-and-sluggish-hrv
-  - natural-ways-to-support-endothelial-nitric-oxide-synthase-recoupling-within-72-hours-for-adults-64-77-with-hypertension-high-adma-and-frequent-nsaid-use
 ---
 
 # Foods That Lower Central Aortic Pressure Within 90 Minutes — What Tonometry Data Shows

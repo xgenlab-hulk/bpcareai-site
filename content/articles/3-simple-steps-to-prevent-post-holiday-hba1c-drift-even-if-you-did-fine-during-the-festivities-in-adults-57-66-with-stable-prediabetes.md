@@ -18,11 +18,6 @@ relatedSlugs:
     the-complete-guide-to-holiday-eating-for-adults-58-63-with-new-onset-prediabetes-and-high-functioning-careers
   - >-
     7-silent-signs-your-blood-sugar-is-spiking-after-holiday-parties-especially-if-you-re-62-with-prediabetes-and-sedentary-habits
-  - 5-easy-morning-routines-to-stabilize-blood-sugar-after-a-holiday-feast
-  - >-
-    warning-signs-your-holiday-medication-routine-is-failing-even-if-your-a1c-looks-fine
-  - >-
-    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
 ---
 
 # Why Is Your HbA1c Rising After the Holidays—Even When Your Daily Readings Looked Fine?

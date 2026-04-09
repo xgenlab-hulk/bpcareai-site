@@ -18,11 +18,6 @@ relatedSlugs:
     how-intergenerational-gift-giving-stress-elevates-postprandial-triglycerides-in-adults-61-with-familial-hypertriglyceridemia
   - >-
     one-slice-pie-triglycerides-seniors-myth
-  - easy-heart-healthy-holiday-appetizers-under-150-calories
-  - >-
-    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
-  - >-
-    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
 ---
 
 # Why Holiday Appetizers Triglycerides Seniors Deserve a Second Look This Season

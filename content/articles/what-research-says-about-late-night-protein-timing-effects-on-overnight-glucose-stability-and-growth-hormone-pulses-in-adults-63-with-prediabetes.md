@@ -20,10 +20,6 @@ relatedSlugs:
     how-late-night-cookie-binges-alter-hepatic-gluconeogenesis-rhythms-in-adults-58-66-with-prediabetes-and-why-it-matters-for-fasting-glucose-stability
   - >-
     post-dinner-snack-glucose-spike-prevention
-  - stabilize-overnight-glucose-without-insulin-adjustment
-  - >-
-    why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
-  - stabilize-morning-glucose-without-insulin
 ---
 
 # How Late-Night Protein and Blood Sugar Interact in Adults 63+ With Prediabetes

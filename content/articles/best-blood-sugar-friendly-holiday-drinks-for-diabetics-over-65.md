@@ -18,13 +18,6 @@ relatedSlugs:
     can-eggnog-and-desserts-be-part-of-a-diabetic-holiday-diet-after-60
   - >-
     myths-vs-facts-holiday-eating-with-diabetes-after-50
-  - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
-  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
-  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - >-
-    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
-  - >-
-    are-sugar-free-treats-actually-safe-for-diabetics-over-65
 ---
 
 # Best Diabetic-Friendly Holiday Drinks Over 65 for a Healthier Festive Season

@@ -18,14 +18,6 @@ relatedSlugs:
     why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - >-
     7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
-  - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
-  - >-
-    the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement
-  - >-
-    myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs
-  - >-
-    the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
-  - why-dehydration-at-holiday-events-may-worsen-heart-palpitations
 ---
 
 # Joyful, Heart-Safe Celebrations: A Thoughtful Guide to Non-Alcoholic Celebration Rituals for Adults 72+ With HFpEF

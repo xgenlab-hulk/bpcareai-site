@@ -20,11 +20,6 @@ relatedSlugs:
     best-blood-sugar-monitoring-practices-during-the-holiday-season
   - >-
     why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - how-to-manage-holiday-heart-syndrome-risk-with-type-2-diabetes
-  - best-blood-sugar-monitoring-practices-during-the-holiday-season
-  - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
-  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
 ---
 
 # A Practical Guide to Managing Blood Sugar During Holiday Shift Work for Older Adults

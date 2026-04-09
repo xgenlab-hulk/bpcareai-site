@@ -20,11 +20,6 @@ relatedSlugs:
     how-gut-microbial-metabolites-e-g-tmao-indole-3-propionic-acid-predict-subclinical-myocardial-fibrosis-in-adults-59-75-with-metabolic-syndrome
   - >-
     what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history
-  - can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
-  - >-
-    what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history
-  - >-
-    how-chronic-sleep-fragmentation-from-nocturia-affects-left-ventricular-stiffness-in-adults-70-84-with-hypertension-and-mild-ckd
 ---
 
 # How Circadian Misalignment and Myocardial Fibrosis May Quietly Affect Midlife Shift Workers—Even With Healthy Hearts

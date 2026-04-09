@@ -18,11 +18,6 @@ relatedSlugs:
     10-simple-home-adjustments-to-support-blood-pressure-stability-in-winter
   - >-
     why-winter-increases-heart-attack-risk-in-seniors-over-70
-  - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
-  - the-hidden-dangers-of-indoor-heating-on-blood-pressure
-  - how-does-cold-weather-affect-blood-pressure-in-older-adults
-  - blood-pressure-management-for-sedentary-seniors-in-winter-months
-  - can-cold-weather-raise-your-blood-pressure
 ---
 
 # How Layering Clothes and Blood Pressure Interact in Cold Weather—A Gentle Guide for Seniors

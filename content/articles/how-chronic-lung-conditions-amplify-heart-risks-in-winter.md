@@ -20,11 +20,6 @@ relatedSlugs:
     the-truth-about-winter-weight-gain-and-heart-strain-after-60
   - >-
     stress-blood-pressure-winter
-  - why-winter-increases-heart-attack-risk-in-seniors-over-70
-  - how-indoor-air-quality-affects-heart-health-in-winter
-  - how-vitamin-d-deficiency-impacts-heart-health-in-winter
-  - how-winter-depression-affects-heart-health-in-retired-adults
-  - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
 ---
 
 # How Chronic Lung Conditions Increase Heart Risks During Winter — What Seniors Should Know

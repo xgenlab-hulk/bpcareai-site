@@ -18,12 +18,6 @@ relatedSlugs:
     can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
   - >-
     when-to-worry-about-social-withdrawal-in-winter-differentiating-normal-retiring-behavior-from-prodromal-seasonal-depression-in-adults-80
-  - 10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore
-  - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
-  - seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
-  - >-
-    when-to-worry-about-social-withdrawal-in-winter-differentiating-normal-retiring-behavior-from-prodromal-seasonal-depression-in-adults-80
-  - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
 ---
 
 # 7 Subtle Signs of Seasonal Depression in Adults 75+ That Families Often Mistake for “Just Getting Older”

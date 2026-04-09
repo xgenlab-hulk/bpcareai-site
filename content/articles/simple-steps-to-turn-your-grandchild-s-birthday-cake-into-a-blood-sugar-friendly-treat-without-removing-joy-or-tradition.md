@@ -20,11 +20,6 @@ relatedSlugs:
     blood-sugar-friendly-foods-seniors
   - >-
     are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
-  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
-  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
-  - best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
 ---
 
 # How to Make a Blood Sugar Friendly Birthday Cake for Seniors—Without Losing the Celebration

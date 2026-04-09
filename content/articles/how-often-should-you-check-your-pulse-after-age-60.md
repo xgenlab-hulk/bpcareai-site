@@ -20,9 +20,6 @@ relatedSlugs:
     how-often-should-adults-over-50-check-their-blood-pressure
   - >-
     home-ecg-patch-interpretation-for-seniors
-  - how-often-should-adults-over-50-check-their-blood-pressure
-  - could-your-heartbeats-per-minute-predict-longevity
-  - why-annual-heart-screenings-are-crucial-after-turning-60
 ---
 
 # How Often Should Seniors Check Their Pulse? A Gentle Guide to Checking Pulse Frequency for Seniors Heart Health

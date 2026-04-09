@@ -20,12 +20,6 @@ relatedSlugs:
     how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
   - >-
     why-winter-increases-heart-attack-risk-in-seniors-over-70
-  - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
-  - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
-  - why-winter-increases-heart-attack-risk-in-seniors-over-70
-  - >-
-    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
-  - why-morning-blood-pressure-surges-are-more-dangerous-in-winter
 ---
 
 # How Cold Weather and Holiday Feasting Raise Stroke Risk in Seniors With Atrial Fibrillation — And What You Can Do

@@ -18,10 +18,6 @@ relatedSlugs:
     the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - >-
     the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
-  - is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues
-
-  - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
-  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
 ---
 
 # Wine Holiday Heart Syndrome Myths: What Adults 55–71 With Metabolic Syndrome *Really* Need to Know

@@ -20,11 +20,6 @@ relatedSlugs:
     why-men-over-50-should-monitor-cholesterol-even-without-symptoms
   - >-
     the-link-between-hearing-loss-and-heart-disease-after-60
-  - why-men-over-50-should-monitor-cholesterol-even-without-symptoms
-  - how-often-should-you-check-your-pulse-after-age-60
-  - heart-disease-warning-signs-that-appear-years-in-advance
-  - is-sitting-too-much-harming-your-heart-after-60
-  - how-social-isolation-increases-heart-disease-risk-after-60
 ---
 
 # Why Annual Heart Screenings After 60 Are a Gentle, Wise Step Toward Lifelong Heart Health

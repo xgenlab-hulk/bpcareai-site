@@ -20,11 +20,6 @@ relatedSlugs:
     can-you-safely-skip-dessert-after-a-high-protein-holiday-dinner-without-triggering-reactive-hypoglycemia-in-adults-62-with-adrenal-insufficiency
   - >-
     holiday-medication-management-what-to-do-when-schedules-get-disrupted
-  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
-  - >-
-    warning-signs-your-holiday-dessert-plate-is-accelerating-arterial-stiffness-especially-if-you-re-on-beta-blockers-and-over-73
-  - >-
-    the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76
 ---
 
 # Why Candy Stocking Reactive Hypoglycemia Is a Real (But Manageable) Holiday Concern

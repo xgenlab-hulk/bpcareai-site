@@ -20,11 +20,6 @@ relatedSlugs:
     what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners
   - >-
     how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
-  - best-blood-sugar-monitoring-practices-during-the-holiday-season
-  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
-  - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
 ---
 
 # When Holiday Dizziness Diabetes Warning Signs Signal a Need for Action in Adults Over 60

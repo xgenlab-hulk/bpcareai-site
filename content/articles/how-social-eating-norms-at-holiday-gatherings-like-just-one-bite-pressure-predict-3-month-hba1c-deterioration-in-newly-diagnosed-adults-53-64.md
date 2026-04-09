@@ -20,8 +20,6 @@ relatedSlugs:
     what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp
   - >-
     the-complete-guide-to-holiday-eating-for-adults-58-63-with-new-onset-prediabetes-and-high-functioning-careers
-  - managing-type-2-diabetes-while-attending-back-to-back-holiday-parties
-  - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
 ---
 
 # How Social Eating Pressure at Holiday Gatherings Can Affect HbA1c in Adults 53–64

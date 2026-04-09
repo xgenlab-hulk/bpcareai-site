@@ -20,13 +20,6 @@ relatedSlugs:
     enhance-hepatic-insulin-clearance-natural
   - >-
     7-hidden-sleep-disrupting-habits-that-elevate-fasting-glucose-in-adults-50-65-even-with-normal-bmi-and-no-osa-diagnosis
-  - how-sleep-apnea-impacts-type-2-diabetes-control-after-50
-  - >-
-    7-hidden-sleep-disrupting-habits-that-elevate-fasting-glucose-in-adults-50-65-even-with-normal-bmi-and-no-osa-diagnosis
-  - >-
-    when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension
-  - >-
-    periodontitis-postprandial-hyperglycemia
 ---
 
 # How Sleep Apnea Affects Insulin Clearance in Adults With Type 2 Diabetes—What Happens When Breathing Stops at Night

@@ -20,10 +20,6 @@ relatedSlugs:
     warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather
   - >-
     why-your-blood-pressure-reading-drops-after-a-10-minute-cold-shower-and-when-that-s-actually-dangerous-for-adults-68
-  - the-science-backed-benefits-of-warm-baths-for-heart-circulation-in-seniors
-  - >-
-    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
-  - the-impact-of-hot-showers-on-blood-pressure-and-heart-rate
 ---
 
 # Understanding Hot-Tub Immersion Blood Pressure Changes in Adults With Orthostatic Hypotension Over 72

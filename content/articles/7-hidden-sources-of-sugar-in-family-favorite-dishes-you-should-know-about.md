@@ -18,11 +18,6 @@ relatedSlugs:
     the-link-between-family-food-traditions-and-chronic-disease-risk
   - >-
     hidden-salt-10-surprising-foods-that-spike-blood-pressure
-  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
-  - hidden-salt-10-surprising-foods-that-spike-blood-pressure
-  - best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat
-  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
-  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
 ---
 
 # 7 Surprising Sources of Hidden Sugar in Family Foods You May Not Expect

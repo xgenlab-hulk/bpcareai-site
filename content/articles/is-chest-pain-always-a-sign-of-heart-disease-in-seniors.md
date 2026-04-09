@@ -20,11 +20,6 @@ relatedSlugs:
     the-role-of-inflammation-in-heart-disease-for-older-adults
   - >-
     why-arm-pain-shouldn-t-be-ignored-in-women-over-50
-  - when-to-worry-about-chest-discomfort-after-a-big-holiday-meal
-  - how-silent-heart-attacks-differ-in-older-adults
-  - the-role-of-inflammation-in-heart-disease-for-older-adults
-  - heart-disease-risks-for-retirees-living-in-high-altitude-areas
-  - heart-disease-symptoms-in-women-over-50-what-s-often-missed
 ---
 
 # Chest Pain Not Related to Heart Disease in Seniors: What Else Could It Be?

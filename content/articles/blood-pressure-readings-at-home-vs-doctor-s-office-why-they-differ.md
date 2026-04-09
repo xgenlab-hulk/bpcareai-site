@@ -18,13 +18,6 @@ relatedSlugs:
     5-things-your-cardiologist-isn-t-telling-you-about-blood-pressure-readings-at-the-pharmacy
   - >-
     how-often-should-adults-over-50-check-their-blood-pressure
-  - when-to-worry-about-high-readings
-  - is-your-medication-causing-high-blood-pressure
-  - understanding-blood-pressure-numbers
-  - >-
-    5-things-your-cardiologist-isn-t-telling-you-about-blood-pressure-readings-at-the-pharmacy
-  - >-
-    a-vs-b-home-oscillometric-cuffs-vs-clinic-auscultatory-readings-in-adults-with-obesity-class-ii-over-60-which-predicts-stroke-risk-better
 ---
 
 # Understanding Your Home Blood Pressure vs Doctor Office Reading

@@ -18,11 +18,6 @@ relatedSlugs:
     7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-wake-up-with-dry-mouth-and-morning-brain-fog
   - >-
     7-silent-signs-your-blood-pressure-is-spiking-during-hot-summer-mornings-even-with-normal-home-readings
-  - how-morning-blood-pressure-spikes-affect-your-heart
-  - why-morning-blood-pressure-surges-are-more-dangerous-in-winter
-  - hidden-salt-10-surprising-foods-that-spike-blood-pressure
-  - does-caffeine-raise-blood-pressure-after-age-60
-  - could-your-medications-be-raising-your-blood-pressure
 ---
 
 # 7 Morning Blood Pressure Triggers Seniors Often Overlook—And How to Tame Them

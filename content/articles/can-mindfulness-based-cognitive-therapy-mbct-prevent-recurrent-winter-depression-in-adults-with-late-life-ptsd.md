@@ -18,8 +18,6 @@ relatedSlugs:
     quick-ways-to-lift-a-senior-s-mood-during-a-winter-blue-day
   - >-
     how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
-  - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
-  - does-relocating-to-a-sunnier-climate-improve-seasonal-depression-after-70
 ---
 
 # Can MBCT for Seasonal Depression With Late-Life PTSD Help Older Adults Stay Steady Through Winter?

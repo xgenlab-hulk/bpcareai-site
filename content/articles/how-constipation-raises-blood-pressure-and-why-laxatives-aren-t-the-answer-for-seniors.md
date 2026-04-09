@@ -20,11 +20,6 @@ relatedSlugs:
     how-chronic-constipation-alters-vagal-tone-and-triggers-nocturnal-st-segment-variability-in-adults-61-with-known-vasovagal-syncope-history
   - >-
     how-chronic-constipation-elevates-24-hour-mean-arterial-pressure-via-gut-derived-trimethylamine-n-oxide-especially-in-adults-70-with-low-fiber-diets
-  - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
-  - blood-pressure-management-for-sedentary-seniors-in-winter-months
-  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
-  - how-dehydration-impacts-blood-pressure-levels
-
 ---
 
 # How Constipation Affects Blood Pressure in Seniors—and Safer, Evidence-Based Ways to Protect Your Heart

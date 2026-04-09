@@ -20,10 +20,6 @@ relatedSlugs:
     safe-holiday-foods-seniors-80-grandkids
   - >-
     natural-ways-to-reduce-post-holiday-joint-stiffness-in-adults-64-81-with-osteoarthritis-and-high-resolution-crp-elevation
-  - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
-  - 7-smart-swaps-for-healthier-holiday-meals-after-65
-  - >-
-    does-bringing-your-own-condiment-change-the-game-how-custom-sauces-and-dressings-improve-adherence-to-low-sodium-diets-during-holiday-gatherings
 ---
 
 # Gentle Holiday Eating for Seniors: Managing Histamine-Induced Urticaria Naturally

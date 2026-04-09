@@ -18,11 +18,6 @@ relatedSlugs:
     why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
   - >-
     the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
-  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
-  - can-intermittent-fasting-help-balance-holiday-eating-for-active-retirees
-  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
-  - 5-easy-morning-routines-to-stabilize-blood-sugar-after-a-holiday-feast
-  - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
 ---
 
 # Can Intermittent Fasting After Christmas Help Reset Your Blood Sugar?

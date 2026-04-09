@@ -20,11 +20,6 @@ relatedSlugs:
     why-older-women-are-more-vulnerable-to-winter-heart-events
   - >-
     when-to-worry-about-chest-tightness-in-cold-weather
-  - how-does-cold-weather-affect-blood-pressure-in-older-adults
-  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
-  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
-  - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
-  - how-cold-weather-affects-blood-sugar-in-people-with-diabetes
 ---
 
 # Why Winter Heart Attack Risk Is Higher for Seniors Over 70

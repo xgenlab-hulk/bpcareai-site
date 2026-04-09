@@ -20,9 +20,6 @@ relatedSlugs:
     endothelial-support-without-nitrates-seniors
   - >-
     natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
-
-  - >-
-    microvascular-coronary-reactivity-natural
 ---
 
 # Natural Ways to Support Nitric Oxide Coupling Without L-Arginine—Especially After 68

@@ -20,11 +20,6 @@ relatedSlugs:
     the-role-of-inflammation-in-heart-disease-for-older-adults
   - >-
     the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
-  - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
-  - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
-  - the-hidden-link-between-gum-disease-and-heart-problems
-  - how-air-pollution-impacts-heart-health-in-older-adults
-  - the-connection-between-frequent-urination-at-night-and-heart-health
 ---
 
 # Understanding Atrial Fibrillation and Heart Disease in the Elderly: What Every Senior Should Know

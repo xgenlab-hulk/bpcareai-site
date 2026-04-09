@@ -18,11 +18,6 @@ relatedSlugs:
     the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-
     7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
-  - 5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
-  - >-
-    how-late-night-cookie-binges-alter-hepatic-gluconeogenesis-rhythms-in-adults-58-66-with-prediabetes-and-why-it-matters-for-fasting-glucose-stability
-  - the-role-of-fiber-in-preventing-blood-sugar-spikes-at-holiday-dinners
-  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
 ---
 
 # A Smart 90-Second Post-Dinner Strategy for Post-Dinner Snack Glucose Spike Prevention in Men 65+ With Type 2 Diabetes

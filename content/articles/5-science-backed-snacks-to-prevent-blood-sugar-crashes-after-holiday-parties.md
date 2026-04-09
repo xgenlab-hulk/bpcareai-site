@@ -18,11 +18,6 @@ relatedSlugs:
     how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
   - >-
     the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
-  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
-  - top-10-diabetes-friendly-snacks-for-people-over-60
-  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
-  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
-  - 12-smart-swaps-to-manage-blood-sugar-during-holiday-meals
 ---
 
 # Blood Sugar Crashing 1-4 Hours After Holiday Parties? Here Are 5 Science-Backed Snacks That Work

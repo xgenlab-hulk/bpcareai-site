@@ -20,14 +20,6 @@ relatedSlugs:
     quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety
   - >-
     best-breathing-patterns-for-immediate-bp-reduction-in-adults-60-with-high-lf-hf-ratio-on-hrv-and-morning-anxiety
-
-  - >-
-    quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety
-  - >-
-    quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
-  - >-
-    resonant-breathing-diastolic-pressure-reduction
-  - can-deep-breathing-exercises-reduce-high-blood-pressure
 ---
 
 # Quick Blood Pressure Reduction Guided Breathing: A Gentle, Evidence-Informed Approach for Adults 50+

@@ -20,13 +20,6 @@ relatedSlugs:
     the-truth-about-heart-safe-holiday-cocktails-labeled-low-alcohol-why-4-5-abv-mulled-wine-still-raises-qt-dispersion-in-adults-67-on-amiodarone
   - >-
     non-alcoholic-drinks-holiday-heart-syndrome
-  - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
-  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
-  - can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors
-  - >-
-    how-alcohol-free-mocktails-can-lower-blood-pressure-in-women-over-55-during-new-year-s-gatherings
-  - >-
-    12-science-backed-ways-to-reduce-alcohol-induced-cardiac-stress-even-if-you-re-not-drinking
 ---
 
 # Alcohol-Free Spirits and PVC Risk in Elderly Adults: Separating Holiday Heart Myths from Medical Reality

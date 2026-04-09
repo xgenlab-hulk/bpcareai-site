@@ -20,11 +20,6 @@ relatedSlugs:
     7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-wake-up-with-dry-mouth-and-morning-brain-fog
   - >-
     7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80
-  - how-frequent-urination-at-night-could-signal-heart-problems
-  - how-sleep-affects-heart-health-after-50
-  - is-your-posture-affecting-your-heart-what-older-adults-should-know
-  - can-hearing-loss-be-an-early-sign-of-heart-disease
-  - how-retirement-changes-affect-heart-health
 ---
 
 # How Frequent Urination at Night May Signal Heart Problems

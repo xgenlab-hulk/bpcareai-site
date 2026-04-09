@@ -20,11 +20,6 @@ relatedSlugs:
     late-eating-diabetes-myths-chronobiology-seniors
   - >-
     how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
-  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
-  - can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
-  - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
-  - the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
-  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
 ---
 
 # How Late-Night Snacking Disrupts Seniors’ Circadian Rhythm—and What to Do Instead

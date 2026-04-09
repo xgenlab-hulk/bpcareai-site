@@ -18,7 +18,6 @@ relatedSlugs:
     inhaled-steroids-gluconeogenesis-diabetes
   - >-
     the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors
-
 ---
 
 # 7 Surprising Medication Interactions That Can Disrupt Blood Sugar Control in Women Over 65 on Aromatase Inhibitors — What Your Endocrinologist and Oncologist May Not Be Discussing

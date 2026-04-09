@@ -20,11 +20,6 @@ relatedSlugs:
     how-chronic-low-grade-gum-inflammation-alters-insulin-clearance-in-adults-57-69-with-well-controlled-type-2-diabetes
   - >-
     how-chronic-low-grade-gum-inflammation-accelerates-beta-cell-dysfunction-in-adults-62-with-long-standing-type-2-diabetes
-  - the-hidden-link-between-gum-disease-and-heart-problems
-  - diabetes-and-vision-changes-what-seniors-need-to-know
-  - the-link-between-diabetes-and-slow-healing-in-older-adults
-  - the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors
-  - understanding-a1c-goals-for-seniors-with-diabetes
 ---
 
 # How Gum Disease and Diabetes Complications in Seniors Are Connected

@@ -18,13 +18,6 @@ relatedSlugs:
     how-morning-blood-pressure-spikes-affect-your-heart
   - >-
     7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
-  - 7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
-  - >-
-    7-hidden-blood-pressure-spikes-you-re-causing-with-your-morning-coffee-routine-and-how-to-fix-them-without-quitting-caffeine
-  - >-
-    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
-  - >-
-    why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
 ---
 
 # Why Your Morning Coffee Might Be Causing a Blood Pressure Spike — And How to Enjoy It Safely After 55

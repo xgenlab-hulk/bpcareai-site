@@ -18,7 +18,6 @@ relatedSlugs:
     low-carb-diet-morning-bp-spike-elderly
   - >-
     how-morning-blood-pressure-spikes-affect-your-heart
-
 ---
 
 # Understanding Morning Blood Pressure Spikes in Older Adults With Chronic Kidney Disease

@@ -18,11 +18,6 @@ relatedSlugs:
     can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
   - >-
     how-gum-disease-is-linked-to-diabetes-complications-in-older-adults
-  - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
-  - how-vitamin-d-deficiency-impacts-heart-health-in-winter
-  - how-gum-disease-is-linked-to-diabetes-complications-in-older-adults
-  - the-link-between-diabetes-and-slow-healing-in-older-adults
-  - diabetes-and-vision-changes-what-seniors-need-to-know
 ---
 
 # Can Vitamin D Deficiency and Diabetes Progression in Elderly Be Linked?

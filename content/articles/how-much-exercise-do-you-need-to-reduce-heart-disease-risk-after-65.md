@@ -20,11 +20,6 @@ relatedSlugs:
     can-heart-disease-be-reversed-with-lifestyle-changes-after-50
   - >-
     can-gardening-improve-heart-health-after-50
-  - can-meditation-reduce-heart-disease-risk-after-50
-  - can-gardening-improve-heart-health-after-50
-  - is-sitting-too-much-harming-your-heart-after-60
-  - can-mindfulness-meditation-reduce-heart-disease-risk-after-50
-  - can-strength-training-lower-heart-disease-risk-after-60
 ---
 
 # How Much Exercise to Prevent Heart Disease After 65 Is Enough—And It’s Less Than You Think

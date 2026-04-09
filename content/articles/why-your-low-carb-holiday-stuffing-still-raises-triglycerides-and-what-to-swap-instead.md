@@ -18,11 +18,6 @@ relatedSlugs:
     7-holiday-foods-that-spike-postprandial-glucose-without-tasting-sweet-especially-for-adults-63-with-long-standing-type-2-diabetes
   - >-
     fruitcake-vs-almond-flour-loaf-diabetes
-  - low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
-  - >-
-    7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control
-  - >-
-    7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish
 ---
 
 # Why “Low-Carb” Holiday Stuffing Can Still Spike Triglycerides — And What to Choose Instead for Better Diabetes Management

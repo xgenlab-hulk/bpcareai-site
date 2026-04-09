@@ -20,7 +20,6 @@ relatedSlugs:
     is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
   - >-
     holiday-medication-holiday-myths-facts
-  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
 ---
 
 # Holiday Metformin Skipping Risks: What Adults 70+ With Long-Term Use *Really* Need to Know

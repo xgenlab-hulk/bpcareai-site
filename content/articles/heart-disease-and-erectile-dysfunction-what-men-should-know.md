@@ -20,9 +20,6 @@ relatedSlugs:
     how-type-2-diabetes-increases-heart-disease-risk-after-50
   - >-
     7-hidden-heart-disease-risks-in-adults-55-64-who-still-feel-too-young-for-cardiac-screening
-  - heart-disease-warning-signs-that-appear-years-in-advance
-  - can-hearing-loss-be-an-early-sign-of-heart-disease
-  - how-strong-are-your-fingernails-what-it-might-say-about-your-heart
 ---
 
 # Erectile Dysfunction as a Sign of Heart Disease: What Men Over 50 Should Know

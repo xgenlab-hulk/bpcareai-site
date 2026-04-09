@@ -19,13 +19,6 @@ relatedSlugs:
     best-footwear-modifications-for-adults-65-with-charcot-neuroarthropathy-and-mild-copd-balancing-offloading-oxygen-conservation-and-fall-prevention
   - >-
     simple-steps-to-prevent-diabetic-foot-ulcers-during-winter-for-adults-71-with-peripheral-neuropathy-and-indoor-heaters
-
-  - >-
-    best-foot-protective-sock-materials-for-men-74-with-diabetic-neuropathy-edema-and-stage-2-venous-insufficiency
-  - >-
-    best-walking-surface-for-diabetic-glucose
-  - >-
-    strength-training-peripheral-neuropathy-seniors
 ---
 
 # Do Diabetic Shoes Really Prevent Ulcers in Older Adults With Early Charcot Foot? Evidence-Based Insights

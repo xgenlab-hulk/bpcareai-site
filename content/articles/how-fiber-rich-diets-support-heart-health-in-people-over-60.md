@@ -20,11 +20,6 @@ relatedSlugs:
     the-ultimate-guide-to-stealth-fiber-additions-for-holiday-mashed-potatoes-stuffing-and-gravy-without-changing-taste-or-texture
   - >-
     cholesterol-lowering-soups-seniors
-  - the-role-of-fiber-in-controlling-blood-sugar-after-50
-  - how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors
-  - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
-  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
-  - can-strength-training-lower-heart-disease-risk-after-60
 ---
 
 # How a High-Fiber Diet Benefits Heart Health Over 60 — Gently Supporting Your Cardiovascular Well-Being

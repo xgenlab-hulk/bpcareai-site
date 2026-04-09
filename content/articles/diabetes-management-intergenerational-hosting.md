@@ -18,8 +18,6 @@ relatedSlugs:
     how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
   - >-
     the-link-between-loneliness-during-holidays-and-poor-diabetes-control
-
-  - the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
 ---
 
 # A Practical Guide to Diabetes Management Intergenerational Hosting for Older Adults

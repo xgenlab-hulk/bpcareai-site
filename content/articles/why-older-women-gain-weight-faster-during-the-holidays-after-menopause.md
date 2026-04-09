@@ -20,11 +20,6 @@ relatedSlugs:
     does-holiday-weight-gain-predict-1-year-cardiovascular-risk-in-adults-with-metabolic-syndrome-over-58
   - >-
     how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
-  - how-menopause-affects-blood-sugar-control-in-women-with-diabetes
-  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
-  - how-menopause-affects-heart-disease-risk-in-women
-  - when-to-worry-about-weight-gain-after-a-family-gathering
-  - 5-mistakes-that-make-holiday-weight-gain-harder-to-reverse-after-age-58
 ---
 
 # Why Menopause Holiday Weight Gain Affects Women Differently

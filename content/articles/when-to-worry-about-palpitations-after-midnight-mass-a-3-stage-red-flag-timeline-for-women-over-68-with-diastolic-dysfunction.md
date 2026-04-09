@@ -20,10 +20,6 @@ relatedSlugs:
     can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
   - >-
     heart-palpitations-when-standing-up-tea
-  - when-to-worry-about-palpitations-after-christmas-dinner
-  - can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
-  - can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes
-  - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
 ---
 
 # When Palpitations After Midnight Mass in Elderly Women Might Signal Something More—A Gentle, Time-Based Guide

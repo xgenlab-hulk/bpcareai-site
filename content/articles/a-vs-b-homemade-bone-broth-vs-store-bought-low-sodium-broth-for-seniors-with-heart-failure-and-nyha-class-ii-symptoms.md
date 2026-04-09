@@ -18,7 +18,6 @@ relatedSlugs:
     senior-labeled-canned-soup-sodium-trap
   - >-
     the-truth-about-low-sodium-canned-soups-for-adults-74-with-stage-2-hypertension-and-chronic-hyponatremia-risk
-  - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
 ---
 
 # Homemade Bone Broth vs. Store-Bought Low-Sodium Broth for Seniors With Heart Failure: What Matters Most for Cardiac-Fluid Management

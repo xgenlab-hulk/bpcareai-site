@@ -20,7 +20,6 @@ relatedSlugs:
     how-gut-derived-trimethylamine-n-oxide-tmao-alters-vascular-smooth-muscle-phenotype-transition-in-adults-68-82-with-hypertension-and-low-fiber-diets
   - >-
     does-daily-500-mg-of-berberine-improve-central-aortic-systolic-pressure-in-adults-54-68-with-metabolic-syndrome-and-elevated-augmentation-index
-
 ---
 
 # Gentle, Evidence-Informed Gut–Kidney Axis Modulation for BP Control in Adults 63+  

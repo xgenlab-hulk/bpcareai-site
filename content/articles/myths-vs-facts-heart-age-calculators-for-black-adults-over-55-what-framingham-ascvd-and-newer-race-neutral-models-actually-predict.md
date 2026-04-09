@@ -20,7 +20,6 @@ relatedSlugs:
     myths-vs-facts-my-bp-is-fine-because-my-doctor-never-mentioned-it-in-adults-54-67-with-elevated-pulse-pressure-and-normal-office-sbp-dbp
   - >-
     what-is-bp-ai-blood-pressure
-  - aspirin-primary-prevention-cacs-score
 ---
 
 # Debunking Heart Age Calculator Myths for Black Adults Over 55: What the Data Really Shows

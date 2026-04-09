@@ -20,11 +20,6 @@ relatedSlugs:
     heart-disease-symptoms-in-women-over-50-what-s-often-missed
   - >-
     the-link-between-family-food-traditions-and-chronic-disease-risk
-  - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
-  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
-  - recognizing-silent-heart-attacks-in-diabetics-over-60
-  - how-type-2-diabetes-increases-heart-disease-risk-after-50
-  - why-winter-increases-heart-attack-risk-in-seniors-over-70
 ---
 
 # Understanding Heart Disease in Hispanic Adults Over 50

@@ -18,11 +18,6 @@ relatedSlugs:
     when-to-worry-about-chest-tightness-in-cold-weather
   - >-
     is-it-safe-to-walk-outside-in-freezing-temperatures-with-heart-disease
-  - what-are-the-first-signs-of-holiday-heart-syndrome-in-women
-  - heart-disease-warning-signs-that-appear-years-in-advance
-  - why-winter-increases-heart-attack-risk-in-seniors-over-70
-  - how-silent-heart-attacks-differ-in-older-adults
-  - how-indoor-air-quality-affects-heart-health-in-winter
 ---
 
 # Is Your Heart Silently Struggling When Temperatures Drop Below Freezing?

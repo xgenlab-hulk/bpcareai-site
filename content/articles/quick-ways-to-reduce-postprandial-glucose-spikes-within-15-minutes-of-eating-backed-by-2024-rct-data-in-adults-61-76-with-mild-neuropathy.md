@@ -20,10 +20,6 @@ relatedSlugs:
     a-vs-b-3-minute-post-meal-standing-vs-90-second-heel-toe-rocking-impact-on-2-hour-postprandial-glucose-in-adults-74-with-gastroparesis-like-symptoms
   - >-
     does-daily-10-minute-post-dinner-walking-really-lower-next-morning-fasting-glucose-in-adults-64-with-morning-only-hyperglycemia
-  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
-  - quick-10-minute-workouts-to-lower-blood-sugar-after-christmas-dinner
-  - >-
-    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
 ---
 
 # Quick Ways to Reduce Postprandial Glucose Spikes—What Works *Within 15 Minutes* (Especially After 60)

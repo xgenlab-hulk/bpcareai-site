@@ -20,11 +20,6 @@ relatedSlugs:
     how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
   - >-
     warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
-  - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
-  - myths-vs-facts-healthy-eating-during-family-celebrations
-  - 5-mistakes-that-make-holiday-weight-gain-harder-to-reverse-after-age-58
-  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
-  - can-intermittent-fasting-help-balance-holiday-eating-for-active-retirees
 ---
 
 # Eating Light During the Holidays Isn’t About Skipping Meals—Here’s What Seniors Really Need to Know (and Why “Eating Light Holiday Seniors Myths” Can Be Risky)

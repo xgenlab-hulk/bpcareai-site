@@ -18,11 +18,6 @@ relatedSlugs:
     7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
   - >-
     7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
-  - can-drinking-too-much-water-raise-blood-pressure
-  - the-role-of-potassium-in-managing-blood-pressure-after-50
-  - how-chronic-stress-contributes-to-high-blood-pressure-over-time
-  - hidden-salt-10-surprising-foods-that-spike-blood-pressure
-  - could-your-medications-be-raising-your-blood-pressure
 ---
 
 # Understanding the Caffeine Effect on Blood Pressure Over 60

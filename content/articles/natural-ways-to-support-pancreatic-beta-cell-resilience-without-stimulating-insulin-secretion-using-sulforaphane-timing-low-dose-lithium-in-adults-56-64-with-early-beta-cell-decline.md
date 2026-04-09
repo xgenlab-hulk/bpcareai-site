@@ -20,9 +20,6 @@ relatedSlugs:
     beta-cell-rest-holiday-meals-natural-support
   - >-
     beta-cell-resilience-holiday-eating
-  - mitochondrial-biogenesis-beta-cells-diabetes
-  - pancreatic-beta-cell-resilience-festive-eating
-  - beta-cell-rest-holiday-meals-natural-support
 ---
 
 # Natural Strategies for Beta-Cell Protection: Supporting Pancreatic Resilience Without Overstimulation

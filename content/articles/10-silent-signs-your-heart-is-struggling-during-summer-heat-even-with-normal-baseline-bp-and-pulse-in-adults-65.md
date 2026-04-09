@@ -18,7 +18,6 @@ relatedSlugs:
     7-silent-signs-your-heart-is-struggling-during-air-travel-especially-for-adults-70-with-diastolic-dysfunction-and-mild-hypoxemia
   - >-
     why-blood-pressure-medication-doses-often-need-adjustment-during-summer-and-how-to-do-it-safely
-  - 5-silent-signs-your-heart-is-struggling-in-cold-weather
 ---
 
 # 10 Subtle Heart Strain Signs During Summer Heat in Seniors — Even With Normal Blood Pressure and Pulse

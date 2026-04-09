@@ -18,7 +18,6 @@ relatedSlugs:
     simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
   - >-
     7-silent-signs-your-holiday-turkey-was-cooked-in-an-aluminum-pan-and-why-that-matters-for-adults-67-with-early-stage-alzheimer-s-disease
-  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
 ---
 
 # How Can You Prepare Holiday Meals That Calm—Not Trigger—Sundowning in Seniors with Alzheimer's?

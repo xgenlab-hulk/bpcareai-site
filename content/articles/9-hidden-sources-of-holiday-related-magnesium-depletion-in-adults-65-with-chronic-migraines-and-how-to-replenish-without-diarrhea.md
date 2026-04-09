@@ -18,10 +18,6 @@ relatedSlugs:
     low-carb-vs-magnesium-holiday-heart-prevention
   - >-
     natural-ways-to-support-blood-sugar-balance-during-holiday-stress
-  - the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
-  - >-
-    the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use
-
 ---
 
 # Holiday Magnesium Depletion & Migraines in Seniors: Gentle Replenishment Strategies for Healthier Celebrations

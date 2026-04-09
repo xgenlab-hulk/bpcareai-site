@@ -18,9 +18,6 @@ relatedSlugs:
     blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ
   - >-
     the-truth-about-white-coat-resistance-why-some-adults-55-show-higher-bp-at-home-than-in-clinics-and-what-it-reveals-about-vascular-aging
-  - how-does-family-history-influence-your-risk-of-heart-disease-after-60
-  - >-
-    5-things-every-adult-53-64-with-newly-diagnosed-hypertension-should-know-before-attending-their-first-post-diagnosis-holiday-party
 ---
 
 # Does Family History of High Blood Pressure Mean You'll Get It Too? (Essential Guide for Ages 50-59)

@@ -18,13 +18,6 @@ relatedSlugs:
     social-dancing-glycemic-variability-orthostatic-hypotension
   - >-
     ambulatory-blood-pressure-variability-interpretation
-
-  - >-
-    social-dancing-glycemic-variability-orthostatic-hypotension
-  - >-
-    resonant-breathing-diastolic-pressure-reduction
-  - >-
-    reverse-left-ventricular-hypertrophy-without-medication
 ---
 
 # 12 Science-Backed Ways to Restore Blood Pressure Variability in Adults 58–74 With Diabetes and Low SDNN

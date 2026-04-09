@@ -18,13 +18,6 @@ relatedSlugs:
     what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
   - >-
     dangers-of-intermittent-fasting-for-adults-with-severe-hypertension-and-autonomic-neuropathy-confirmed-by-ewing-battery
-  - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
-  - >-
-    intermittent-fasting-diastolic-dysfunction-hr
-  - >-
-    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
-  - >-
-    blood-pressure-drops-walking-diabetes-neuropathy
 ---
 
 # Intermittent Fasting and Orthostatic Hypotension in Seniors With Long-Standing Type 2 Diabetes

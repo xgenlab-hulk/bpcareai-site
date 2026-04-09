@@ -20,11 +20,6 @@ relatedSlugs:
     simple-steps-to-balance-comfort-foods-and-nutrition-during-holiday-meals
   - >-
     seniors-living-alone-holiday-party-preparedness
-  - myths-vs-facts-holiday-eating-with-diabetes-after-50
-  - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
-  - the-truth-about-cheating-on-your-diet-during-family-celebrations
-  - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
-  - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
 ---
 
 # Holiday Diet Myths vs Facts: Navigating Family Celebrations with Confidence

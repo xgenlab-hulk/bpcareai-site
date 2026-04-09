@@ -18,15 +18,6 @@ relatedSlugs:
     diabetic-protein-bars-gut-barrier-risk
   - >-
     the-truth-about-sugar-free-eggnog-labeled-keto-why-82-of-these-drinks-contain-maltitol-that-triggers-gastric-distress-in-adults-68-with-gastroparesis
-
-  - >-
-    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
-  - >-
-    the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
-  - >-
-    are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - >-
-    sugar-free-cookies-polyol-malabsorption-fatigue
 ---
 
 # What You Should Know About “No-Sugar-Added” Protein Bars If You Have Gastroparesis and Diabetes

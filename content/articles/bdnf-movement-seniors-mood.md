@@ -18,11 +18,6 @@ relatedSlugs:
     low-impact-exercise-blood-pressure-seniors
   - >-
     quick-ways-to-boost-dopamine-responsiveness-during-shorter-days-without-stimulants-or-antidepressants-evidence-from-8-trials-in-adults-60-82
-  - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70
-  - can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
-  - quick-ways-to-lift-a-senior-s-mood-during-a-winter-blue-day
-  - blood-pressure-management-for-sedentary-seniors-in-winter-months
-  - natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
 ---
 
 # Feeling Low Energy and Foggy This Winter? 12 Gentle Movements That Naturally Boost Your Brain's BDNF and Lift Mood (No Cardio Required—Ages 60-80)

@@ -20,11 +20,6 @@ relatedSlugs:
     when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment
   - >-
     how-sleep-apnea-impacts-type-2-diabetes-control-after-50
-  - managing-diabetes-while-traveling-tips-for-seniors
-  - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
-  - the-link-between-diabetes-and-slow-healing-in-older-adults
-  - healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s
-  - diabetes-and-vision-changes-what-seniors-need-to-know
 ---
 
 # Understanding Diabetes Fatigue in Seniors: Causes, Clues, and Natural Energy Support

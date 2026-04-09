@@ -20,12 +20,6 @@ relatedSlugs:
     7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
   - >-
     how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
-  - what-research-says-about-holiday-heart-syndrome-and-aging-hearts
-  - the-truth-about-benign-holiday-palpitations-are-they-really-harmless
-  - >-
-    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
-  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
-  - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
 ---
 
 # Is Holiday Heart Syndrome Reversible? What the Evidence Shows

@@ -20,11 +20,6 @@ relatedSlugs:
     the-connection-between-winter-infections-and-blood-pressure-fluctuations
   - >-
     10-simple-home-adjustments-to-support-blood-pressure-stability-in-winter
-  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
-  - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
-  - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
-  - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
-  - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
 ---
 
 # Is Your Salt Intake in Winter Really Higher — and Does It Affect Your Blood Pressure?

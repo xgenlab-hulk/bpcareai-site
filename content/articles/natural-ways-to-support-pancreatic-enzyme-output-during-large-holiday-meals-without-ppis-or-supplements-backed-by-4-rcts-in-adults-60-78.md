@@ -20,9 +20,6 @@ relatedSlugs:
     why-holiday-nut-mixes-can-trigger-subclinical-pancreatic-enzyme-leakage-in-adults-69-with-asymptomatic-chronic-pancreatitis-diagnosed-via-mrcp
   - >-
     pancreatic-acinar-support-for-diabetics
-
-  - >-
-    natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements
 ---
 
 # Natural Ways to Support Pancreatic Enzyme Output During Holiday Meals—Evidence from Older Adults

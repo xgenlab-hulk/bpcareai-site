@@ -20,13 +20,6 @@ relatedSlugs:
     the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
   - >-
     the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
-  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
-  - >-
-    the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
-  - >-
-    the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
-  - best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
-  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
 ---
 
 # Gluten-Free Cookies and Blood Pressure in Seniors: What You Need to Know This Holiday Season

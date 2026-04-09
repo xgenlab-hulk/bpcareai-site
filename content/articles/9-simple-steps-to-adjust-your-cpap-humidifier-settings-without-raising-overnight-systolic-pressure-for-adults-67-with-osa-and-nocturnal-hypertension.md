@@ -18,13 +18,6 @@ relatedSlugs:
     how-sleep-disordered-breathing-severity-ahi-15-alters-nocturnal-bp-recovery-in-adults-66-82-with-normal-looking-daytime-readings
   - >-
     how-chronic-nighttime-mouth-breathing-during-cpap-therapy-elevates-pulmonary-artery-pressure-in-adults-70-with-mild-osa-and-preserved-ef
-
-  - >-
-    home-bp-cuff-calibration-in-high-humidity
-  - >-
-    how-chronic-nighttime-mouth-breathing-during-cpap-therapy-elevates-pulmonary-artery-pressure-in-adults-70-with-mild-osa-and-preserved-ef
-  - >-
-    check-bp-after-flying-copd-60
 ---
 
 # How to Optimize Your CPAP Humidifier Settings and Support Healthy Nocturnal BP — A Gentle Guide for Adults 67+

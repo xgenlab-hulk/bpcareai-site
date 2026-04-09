@@ -20,11 +20,6 @@ relatedSlugs:
     the-truth-about-healthy-holiday-treats-labeled-for-seniors-what-labels-don-t-tell-you
   - >-
     5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
-  - the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
-  - >-
-    the-truth-about-heart-healthy-frozen-dinners-labeled-for-seniors-why-81-exceed-2023-aha-sodium-limits-for-left-ventricular-hypertrophy
-  - >-
-    senior-labeled-canned-soup-sodium-trap
 ---
 
 # What the Data Reveals: A Senior-Friendly Meal Kits Sodium Fiber Analysis for Heart-Healthy Holiday Eating

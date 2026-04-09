@@ -18,10 +18,6 @@ relatedSlugs:
     a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
   - >-
     7-hidden-sodium-traps-in-healthy-holiday-side-dishes-and-how-to-swap-them-without-losing-flavor-especially-for-adults-58-with-stage-2-ckd
-  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
-  - >-
-    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
-  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
 ---
 
 # Holiday Oxalates, CKD, and Nephrocalcinosis: A Gentle Guide for Healthy Holiday Eating for Seniors

@@ -20,11 +20,6 @@ relatedSlugs:
     how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60
   - >-
     7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
-  - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
-  - how-winter-depression-affects-heart-health-in-retired-adults
-  - why-older-men-often-hide-their-seasonal-depression-symptoms
-  - seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
-  - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
 ---
 
 # How Chronic Pain and Seasonal Depression Interact in Older Adults

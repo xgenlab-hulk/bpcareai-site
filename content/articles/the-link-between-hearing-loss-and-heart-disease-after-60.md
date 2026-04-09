@@ -20,11 +20,6 @@ relatedSlugs:
     blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - >-
     how-hearing-aid-use-correlates-with-3-year-systolic-bp-trajectory-in-adults-74-86-with-bilateral-sensorineural-hearing-loss
-  - can-hearing-loss-be-an-early-sign-of-heart-disease
-  - how-social-isolation-increases-heart-disease-risk-after-60
-  - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
-  - how-vision-changes-might-be-linked-to-heart-disease
-  - the-hidden-link-between-gum-disease-and-heart-problems
 ---
 
 # Understanding the Hearing Loss and Heart Disease Connection After 60

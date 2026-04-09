@@ -20,11 +20,6 @@ relatedSlugs:
     how-sleep-apnea-impacts-type-2-diabetes-control-after-50
   - >-
     myths-vs-facts-my-a1c-is-fine-so-my-heart-is-safe-what-myocardial-strain-imaging-reveals-in-adults-57-74-with-normal-a1c-but-elevated-troponin-t
-  - how-chronic-inflammation-worsens-type-2-diabetes-after-50
-  - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
-  - recognizing-silent-heart-attacks-in-diabetics-over-60
-  - the-hidden-link-between-gum-disease-and-heart-problems
-  - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
 ---
 
 # How Type 2 Diabetes and Heart Disease Risk After 50 Are Linked

@@ -18,11 +18,6 @@ relatedSlugs:
     when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
   - >-
     how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
-- when-to-worry-about-sudden-thirst-and-dry-mouth-at-christmas-dinner-a-red-flag-timeline-for-adults-60-with-undiagnosed-prediabetes
-- 7-silent-signs-your-blood-sugar-is-spiking-after-holiday-parties-especially-if-you-re-62-with-prediabetes-and-sedentary-habits
-- how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
-- 7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
-- when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
 ---
 
 # When Sudden Thirst and Frequent Urination on Holiday Travel Could Signal Something Serious — Especially at 69+ With Prediabetes or Mild Heart Failure

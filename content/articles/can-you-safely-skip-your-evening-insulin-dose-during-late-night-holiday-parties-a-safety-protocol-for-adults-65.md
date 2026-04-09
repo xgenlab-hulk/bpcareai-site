@@ -18,11 +18,6 @@ relatedSlugs:
     rapid-acting-insulin-holiday-dinner-dosing
   - >-
     the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
-  - should-you-adjust-your-diabetes-medication-during-the-holidays
-  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
-  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
-  - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
-  - best-blood-sugar-monitoring-practices-during-the-holiday-season
 ---
 
 # Is It Safe to Skip Your Evening Insulin Dose at Late-Night Holiday Parties? A Gentle Guide for Adults 65+

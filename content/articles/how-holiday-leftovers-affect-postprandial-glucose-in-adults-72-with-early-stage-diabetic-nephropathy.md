@@ -18,7 +18,6 @@ relatedSlugs:
     postprandial-glucose-family-gatherings-prediabetes
   - >-
     how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
-  - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
 ---
 
 # How Holiday Leftovers Affect Postprandial Glucose in Seniors 72+ With Early Diabetic Nephropathy  

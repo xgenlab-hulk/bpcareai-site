@@ -21,11 +21,6 @@ relatedSlugs:
     myths-vs-facts-my-bp-is-fine-because-my-doctor-never-mentioned-it-in-adults-54-67-with-elevated-pulse-pressure-and-normal-office-sbp-dbp
   - >-
     myths-vs-facts-high-normal-blood-pressure-in-adults-54-62-why-prehypertension-is-obsolete-and-what-the-new-acc-aha-staging-really-means-for-your-heart
-  - melatonin-blood-pressure-at-night
-  - understanding-blood-pressure-numbers
-  - best-blood-pressure-meds-women-over-70
-  - >-
-    the-complete-guide-to-interpreting-home-bp-log-patterns-spotting-masked-hypertension-white-coat-effect-and-circadian-shifts-in-adults-59-71
 ---
 
 # What Is BP AI? Smart Blood Pressure Tracking After 35

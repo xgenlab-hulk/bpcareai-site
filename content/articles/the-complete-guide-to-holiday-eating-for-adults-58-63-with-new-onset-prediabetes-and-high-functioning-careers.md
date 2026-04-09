@@ -18,11 +18,6 @@ relatedSlugs:
     how-holiday-stress-hormones-disrupt-overnight-glucose-recovery-in-adults-58-69-with-prediabetes
   - >-
     how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
-  - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
-  - >-
-    how-holiday-table-settings-affect-portion-control-in-adults-55-72-with-prediabetes
-  - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
-  - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
 ---
 
 # Smart Holiday Eating for Adults 58–63 with Prediabetes and Demanding Careers  

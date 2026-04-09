@@ -18,15 +18,6 @@ relatedSlugs:
     seed-oils-and-endothelial-oxidative-stress
   - >-
     can-intermittent-fasting-lower-ldl-particle-count-in-men-with-familial-hypercholesterolemia-over-50
-
-  - >-
-    myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio
-  - >-
-    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-in-adults-58-69-with-agatston-score-100-400-and-elevated-lp-a
-  - >-
-    can-intermittent-fasting-lower-ldl-particle-count-in-men-with-familial-hypercholesterolemia-over-50
-  - >-
-    top-4-non-statin-cholesterol-modulators-for-adults-with-statin-intolerant-myopathy-over-60
 ---
 
 # Natural Ways to Lower Lipoprotein(a) in Adults With Familial Hypercholesterolemia — Especially After Age 56

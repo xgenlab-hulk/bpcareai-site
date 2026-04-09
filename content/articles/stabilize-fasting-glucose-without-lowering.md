@@ -18,7 +18,6 @@ relatedSlugs:
     can-intermittent-fasting-worsen-autonomic-neuropathy-in-adults-71-with-long-term-type-2-diabetes-and-orthostatic-tachycardia
   - >-
     normalize-fasting-glucose-without-skipping-dinner
-
 ---
 
 # 10 Gentle, Nourishing Foods to Stabilize Fasting Glucose Without Lowering — Safe Choices for Older Adults with Fall Risk and Hypoglycemia-Associated Autonomic Failure

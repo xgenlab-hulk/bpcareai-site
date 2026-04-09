@@ -20,11 +20,6 @@ relatedSlugs:
     best-blood-sugar-monitoring-practices-during-the-holiday-season
   - >-
     how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
-  - managing-diabetes-while-traveling-tips-for-seniors
-  - best-blood-sugar-monitoring-practices-during-the-holiday-season
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes
-  - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
 ---
 
 # Smart Diabetes Management During Travel: A Calm, Confident Guide for Seniors

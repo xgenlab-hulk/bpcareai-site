@@ -18,10 +18,6 @@ relatedSlugs:
     quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - >-
     post-dinner-walking-vs-breathing-glucose
-  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
-  - >-
-    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
-  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
 ---
 
 # When to Walk Before Dinner: How Pre-Meal Walk Timing Affects Postprandial Glucose in Women Over 50

@@ -20,14 +20,6 @@ relatedSlugs:
     how-intermittent-fasting-during-thanksgiving-week-affects-gastric-emptying-in-adults-64-78-with-diabetic-gastroparesis-and-chronic-constipation
   - >-
     when-to-skip-the-family-dessert-table-entirely-5-clinical-indicators-that-signal-high-risk-carbohydrate-load-for-adults-69-with-diabetic-gastroparesis
-  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
-
-  - >-
-    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
-  - >-
-    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
-  - >-
-    are-sugar-free-treats-actually-safe-for-diabetics-over-65
 ---
 
 # Gentle, Science-Informed Ways to Support Gastric Emptying Diabetic Gastroparesis Seniors After Holiday Meals

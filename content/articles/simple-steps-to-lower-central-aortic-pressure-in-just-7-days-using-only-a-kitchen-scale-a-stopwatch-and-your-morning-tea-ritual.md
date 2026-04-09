@@ -18,9 +18,6 @@ relatedSlugs:
     quick-ways-to-normalize-morning-pulse-pressure-without-increasing-medication-in-adults-70-83-with-aortic-stiffness-and-orthostatic-dizziness
   - >-
     central-aortic-pressure-foods-90-min
-
-  - >-
-    quick-ways-to-normalize-morning-pulse-pressure-without-increasing-medication-in-adults-70-83-with-aortic-stiffness-and-orthostatic-dizziness
 ---
 
 # How to Lower Central Aortic Pressure in 7 Days — A Gentle, Low-Tech Approach for Adults 50+

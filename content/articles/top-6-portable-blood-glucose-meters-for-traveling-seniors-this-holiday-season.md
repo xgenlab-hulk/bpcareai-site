@@ -20,11 +20,6 @@ relatedSlugs:
     cgm-accuracy-holiday-travel
   - >-
     the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79
-  - managing-diabetes-while-traveling-tips-for-seniors
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
-  - best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
-  - how-to-monitor-blood-sugar-more-effectively-during-festive-travel
 ---
 
 # Top Portable Glucose Meters for Seniors Traveling This Holiday Season — Your Guide to the Best Glucose Meters for Seniors Travel

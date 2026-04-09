@@ -18,15 +18,6 @@ relatedSlugs:
     best-walking-surfaces-diabetic-foot-ulcers
   - >-
     best-walking-surface-for-diabetic-glucose
-
-  - >-
-    best-footwear-modifications-for-adults-65-with-charcot-neuroarthropathy-and-mild-copd-balancing-offloading-oxygen-conservation-and-fall-prevention
-  - >-
-    myths-vs-facts-diabetic-shoes-do-they-actually-prevent-ulcers-in-adults-77-with-mild-charcot-foot-and-no-current-deformity
-  - >-
-    best-walking-surfaces-diabetic-foot-ulcers
-  - >-
-    best-walking-surface-for-diabetic-glucose
 ---
 
 # Best Footwear Choices for Seniors 64+ With Type 2 Diabetes and Early Charcot Neuroarthropathy

@@ -18,9 +18,6 @@ relatedSlugs:
     when-to-worry-about-just-tired-after-christmas-dinner-especially-if-you-re-69-with-type-2-diabetes-and-untreated-sleep-apnea
   - >-
     how-sleep-apnea-severity-predicts-diabetic-retinopathy-progression-rate-in-adults-64-80-with-non-proliferative-dr-and-ahi-15
-  - how-sleep-apnea-impacts-type-2-diabetes-control-after-50
-  - >-
-    when-to-worry-about-post-meal-fatigue-after-a-family-gathering-a-3-stage-red-flag-timeline-for-adults-with-undiagnosed-sleep-apnea-and-hypertension
 ---
 
 # How Untreated Sleep Apnea Accelerates A1C Rise in Adults 57–71 With New Type 2 Diabetes

@@ -18,11 +18,6 @@ relatedSlugs:
     can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
   - >-
     what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
-  - the-hidden-link-between-gum-disease-and-heart-problems
-  - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
-  - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
-  - how-social-isolation-increases-heart-disease-risk-after-60
-  - how-type-2-diabetes-increases-heart-disease-risk-after-50
 ---
 
 # Can Vitamin D Deficiency Increase Your Heart Disease Risk?

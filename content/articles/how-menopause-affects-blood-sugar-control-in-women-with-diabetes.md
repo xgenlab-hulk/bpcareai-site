@@ -20,11 +20,6 @@ relatedSlugs:
     a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
   - >-
     why-your-blood-sugar-might-be-higher-in-december-even-with-good-habits
-  - blood-pressure-changes-during-menopause-what-women-should-know
-  - blood-pressure-fluctuations-during-menopause-what-women-should-know
-  - how-cold-weather-affects-blood-sugar-in-people-with-diabetes
-  - how-menopause-affects-heart-disease-risk-in-women
-  - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
 ---
 
 # How Menopause Affects Blood Sugar Fluctuations in Women with Diabetes

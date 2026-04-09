@@ -18,9 +18,6 @@ relatedSlugs:
     5-foods-that-support-mitochondrial-membrane-integrity-during-high-fat-holiday-meals-for-adults-65-with-statin-associated-myopathy
   - >-
     myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old
-  - can-one-night-of-heavy-drinking-cause-heart-problems-in-people-over-55
-  - >-
-    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
 ---
 
 # What Your Cardiologist May Not Emphasize About Statin Side Effects After Age 65

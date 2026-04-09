@@ -18,11 +18,6 @@ relatedSlugs:
     foods-lower-blood-pressure-naturally-53-68
   - >-
     foods-lower-blood-pressure-naturally-after-50
-  - can-meditation-reduce-heart-disease-risk-after-50
-  - the-role-of-potassium-in-managing-blood-pressure-after-50
-  - blood-pressure-changes-during-menopause-what-women-should-know
-  - the-link-between-sleep-apnea-and-high-blood-pressure
-  - can-deep-breathing-exercises-lower-heart-disease-risk
 ---
 
 # Can Meditation to Lower Blood Pressure Naturally Really Work?

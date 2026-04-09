@@ -20,7 +20,6 @@ relatedSlugs:
     quick-ways-to-reduce-postprandial-bp-surge-after-high-glycemic-breakfasts-for-adults-55-71-with-insulin-resistance-and-elevated-post-meal-nefa
   - >-
     post-meal-bp-foods-seniors-60
-
 ---
 
 # Understanding Postprandial Hypertension After Eating in Seniors: Why Blood Pressure Rises After Meals—and What You Can Do

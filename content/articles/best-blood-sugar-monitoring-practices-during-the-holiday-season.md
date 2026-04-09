@@ -18,11 +18,6 @@ relatedSlugs:
     why-your-blood-sugar-might-be-higher-in-december-even-with-good-habits
   - >-
     should-you-adjust-your-diabetes-medication-during-the-holidays
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
-  - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
-  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
-  - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
 ---
 
 # Effective Holiday Blood Sugar Monitoring Tips for Better Diabetes Control

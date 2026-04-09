@@ -20,7 +20,6 @@ relatedSlugs:
     how-late-night-snacking-during-hanukkah-or-christmas-eve-affects-overnight-glucose-stability-in-women-over-70
   - >-
     how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
-
 ---
 
 # How Late-Afternoon Snacking at Family Gatherings Affects Circadian Glucose Patterns in Adults 59–66 With Shift-Work History

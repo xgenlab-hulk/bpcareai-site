@@ -20,14 +20,6 @@ relatedSlugs:
     foods-raise-bp-hidden-causes-seniors
   - >-
     frozen-dinners-and-blood-pressure-seniors
-
-  - >-
-    natural-ways-to-support-renin-angiotensin-system-balance-without-ace-inhibitors-for-adults-with-hypertension-and-chronic-cough-or-angioedema
-  - >-
-    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
-  - 5-foods-that-raise-blood-pressure-even-if-they-re-low-sodium
-  - >-
-    the-truth-about-heart-healthy-plant-based-burgers-for-adults-over-70-with-stage-2-ckd-hidden-potassium-load-and-phosphate-additives
 ---
 
 # What You Need to Know About Low-Sodium Canned Beans and ACE Inhibitors—Especially After Age 60

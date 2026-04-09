@@ -18,13 +18,6 @@ relatedSlugs:
     5-things-every-caregiver-should-know-before-taking-an-aging-parent-to-a-new-year-s-eve-party
   - >-
     how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
-  - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
-  - >-
-    the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
-  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
-  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
-  - >-
-    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 ---
 
 # Can You Still Go to Holiday Parties After a High Blood Pressure Diagnosis? (Essential Guide Ages 53-64)

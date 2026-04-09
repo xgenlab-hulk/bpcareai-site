@@ -18,13 +18,6 @@ relatedSlugs:
     masked-hypertension-job-stress-adults-55-64
   - >-
     why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
-  - why-blood-pressure-matters-even-if-you-feel-fine
-  - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
-  - blood-pressure-and-kidney-health-what-seniors-need-to-know
-  - >-
-    10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63
-  - >-
-    can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76
 ---
 
 # What Everyone Over 55 With White Coat Hypertension Should Know About Their 10-Year Kidney Risk

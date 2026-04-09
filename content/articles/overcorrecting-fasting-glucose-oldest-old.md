@@ -20,11 +20,6 @@ relatedSlugs:
     10-foods-that-stabilize-fasting-glucose-without-lowering-it-for-adults-62-with-history-of-hypoglycemia-and-age-related-adrenal-blunting
   - >-
     the-truth-about-normal-fasting-glucose-in-adults-over-70-why-95-105-mg-dl-may-already-signal-beta-cell-exhaustion-and-early-dysglycemia
-
-  - >-
-    5-things-everyone-over-70-should-know-about-sulfonylureas-especially-if-they-live-alone-and-take-them-daily
-  - >-
-    7-common-mistakes-that-accelerate-cognitive-decline-in-adults-63-with-type-2-diabetes-and-mild-white-matter-hyperintensities
 ---
 
 # Why Overcorrecting Fasting Glucose in the Oldest Old Raises Real Risks — Especially With Mild Cognitive Impairment

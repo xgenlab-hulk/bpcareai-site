@@ -18,12 +18,6 @@ relatedSlugs:
     what-research-says-about-protein-needs-during-the-holidays-for-frail-seniors
   - >-
     5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
-  - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
-  - >-
-    5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily
-  - >-
-    how-intergenerational-food-prep-affects-post-meal-glucose-spikes-in-adults-58-72-with-prediabetes-and-slow-gastric-emptying
-  - the-link-between-family-food-traditions-and-chronic-disease-risk
 ---
 
 # How Intergenerational Recipe Sharing Supports Nutrient Density in Holiday Meals for Adults 54–65 With Early Sarcopenia

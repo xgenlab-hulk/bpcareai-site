@@ -18,11 +18,6 @@ relatedSlugs:
     a-vs-b-walking-10-minutes-after-each-meal-vs-one-30-minute-session-daily-for-postprandial-glucose-control-in-adults-55-69-with-prediabetes
   - >-
     quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
-  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
-  - meal-timing-strategies-for-better-blood-sugar-control-after-50
-  - the-role-of-fiber-in-controlling-blood-sugar-after-50
-  - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
-  - best-supplements-for-blood-sugar-support-after-50
 ---
 
 # Can Walking After Meals Help Control Blood Sugar in Adults Over 50?

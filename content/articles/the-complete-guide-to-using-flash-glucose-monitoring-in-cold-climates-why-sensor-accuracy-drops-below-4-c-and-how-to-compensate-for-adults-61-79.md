@@ -20,7 +20,6 @@ relatedSlugs:
     5-things-everyone-over-60-should-know-about-insulin-titration-during-winter-when-basal-needs-shift-due-to-reduced-cutaneous-blood-flow
   - >-
     top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season
-  - how-cold-weather-affects-blood-sugar-in-people-with-diabetes
 ---
 
 # Navigating Winter with Confidence: A Practical Guide to Flash Glucose Monitoring in Cold Climates for Seniors

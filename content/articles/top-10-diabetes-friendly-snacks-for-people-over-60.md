@@ -20,11 +20,6 @@ relatedSlugs:
     best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
   - >-
     best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
-  - healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s
-  - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
-  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
-  - best-fruits-for-diabetics-over-50-and-which-to-limit
 ---
 
 # Top 10 Healthy Diabetic Snacks for Seniors to Enjoy Every Day

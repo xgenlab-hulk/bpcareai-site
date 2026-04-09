@@ -20,13 +20,6 @@ relatedSlugs:
     the-truth-about-alcohol-and-heart-disease-is-one-drink-a-day-safe
   - >-
     holiday-heart-syndrome-and-sleep-architecture-how-fragmented-rem-cycles-amplify-arrhythmia-risk-in-adults-70-79-with-mild-osa
-  - what-research-says-about-holiday-heart-syndrome-and-aging-hearts
-  - >-
-    how-holiday-alcohol-consumption-triggers-atrial-fibrillation-in-adults-55-with-subclinical-left-atrial-enlargement-even-without-binge-drinking
-  - >-
-    7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
-  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
-  - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
 ---
 
 # How Alcohol Metabolism Changes After Age 55 — And Why It Increases Holiday Heart Syndrome Risk in Adults 55–69 With Mild Liver Steatosis  

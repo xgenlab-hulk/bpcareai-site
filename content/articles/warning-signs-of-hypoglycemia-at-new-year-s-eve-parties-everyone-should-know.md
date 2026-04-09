@@ -20,12 +20,6 @@ relatedSlugs:
     what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners
   - >-
     why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
-  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
-  - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
-  - >-
-    can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners
 ---
 
 # Recognizing Hypoglycemia Signs at Parties Seniors Shouldn’t Overlook This Holiday Season

@@ -18,11 +18,6 @@ relatedSlugs:
     7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
   - >-
     what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter
-  - natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
-  - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
-  - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70
-  - how-group-activities-in-senior-centers-prevent-seasonal-depression
-  - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
 ---
 
 # How Mindfulness for Seasonal Depression Seniors Can Gently Lift Winter Moods

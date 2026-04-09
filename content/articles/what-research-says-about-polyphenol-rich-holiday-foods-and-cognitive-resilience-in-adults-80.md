@@ -20,11 +20,6 @@ relatedSlugs:
     natural-ways-to-support-post-holiday-glucose-recovery-using-fenugreek-ceylon-cinnamon-and-tart-cherry-juice-dosed-for-adults-54-79
   - >-
     what-research-says-about-cranberry-sauce-fermentation-time-and-its-impact-on-postprandial-endothelial-function-in-adults-73-with-stage-1-hypertension
-  - can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors
-  - >-
-    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
-  - >-
-    can-you-reverse-insulin-resistance-with-just-3-strategic-holiday-meals-a-14-day-pilot-study-breakdown
 ---
 
 # How Polyphenol-Rich Holiday Foods Support Cognitive Health in Adults 80 and Older

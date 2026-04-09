@@ -18,11 +18,6 @@ relatedSlugs:
     10-foods-that-support-glycemic-resilience-during-heat-waves-especially-for-adults-70-with-diabetes-and-medication-induced-hyponatremia-risk
   - >-
     warm-baths-sglt2-inhibitors-safety
-  - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
-  - >-
-    how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
-  - >-
-    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
 ---
 
 # What Everyone Over 66 Needs to Know About Diabetes Management During a Heatwave—Especially on SGLT2 Inhibitors

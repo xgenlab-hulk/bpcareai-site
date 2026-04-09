@@ -18,11 +18,6 @@ relatedSlugs:
     sudden-thirst-holiday-travel-prediabetes
   - >-
     warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
-
-  - >-
-    best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
-  - >-
-    12-evidence-based-hydration-strategies-to-prevent-holiday-heart-syndrome-in-adults-62-with-mild-dehydration-induced-qt-prolongation
 ---
 
 # Smart Holiday Hydration for Stable Blood Sugar and Medication Safety — A Precision Plan for Adults 69+ on Multiple Medications

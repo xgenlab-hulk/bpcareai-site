@@ -18,9 +18,6 @@ relatedSlugs:
     7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
   - >-
     7-holiday-foods-that-spike-postprandial-glucose-without-tasting-sweet-especially-for-adults-63-with-long-standing-type-2-diabetes
-  - 7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
-  - 7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about
-  - low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
 ---
 
 # Hidden Sugar in Holiday Side Dishes: What 60+ Adults Should Know About “Healthy” Favorites

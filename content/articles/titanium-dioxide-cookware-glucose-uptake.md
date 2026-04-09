@@ -18,13 +18,6 @@ relatedSlugs:
     does-daily-45-minute-tai-chi-improve-postprandial-glucose-clearance-in-adults-65-80-with-type-2-diabetes-and-mild-knee-osteoarthritis
   - >-
     how-indoor-air-quality-changes-during-winter-affect-fasting-glucose-in-adults-65-with-type-2-diabetes
-
-  - >-
-    low-heat-cooking-polyphenols-diabetes
-  - >-
-    how-intergenerational-cooking-stress-alters-postprandial-insulin-sensitivity-in-women-61-76-with-abdominal-obesity-and-cortisol-dysregulation
-  - >-
-    7-silent-signs-your-holiday-turkey-was-cooked-in-an-aluminum-pan-and-why-that-matters-for-adults-67-with-early-stage-alzheimer-s-disease
 ---
 
 # What You Should Know About Titanium Dioxide Cookware Glucose Uptake — Especially With Insulin Resistance After Age 59

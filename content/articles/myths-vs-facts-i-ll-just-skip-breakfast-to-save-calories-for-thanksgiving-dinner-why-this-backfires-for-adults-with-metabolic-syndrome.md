@@ -20,13 +20,6 @@ relatedSlugs:
     dangers-of-skipping-breakfast-on-new-year-s-day-especially-if-you-re-on-basal-insulin-and-over-70
   - >-
     skip-breakfast-holiday-calories-myth
-  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
-  - >-
-    the-ultimate-guide-to-pre-loading-your-plate-before-a-family-feast-a-3-step-strategy-for-adults-with-metabolic-syndrome
-  - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
-  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
-  - >-
-    can-you-safely-skip-your-evening-insulin-dose-during-late-night-holiday-parties-a-safety-protocol-for-adults-65
 ---
 
 # Why Skipping Breakfast Before Thanksgiving Backfires—Especially If You Have Metabolic Syndrome

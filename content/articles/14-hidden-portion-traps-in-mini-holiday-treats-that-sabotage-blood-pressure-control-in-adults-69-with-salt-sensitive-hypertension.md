@@ -18,14 +18,6 @@ relatedSlugs:
     does-bringing-your-own-condiment-change-the-game-how-custom-sauces-and-dressings-improve-adherence-to-low-sodium-diets-during-holiday-gatherings
   - >-
     7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-adults-72-with-isolated-systolic-hypertension-and-what-to-serve-instead
-  - the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
-  - >-
-    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
-  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
-  - >-
-    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
-  - >-
-    7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker
 ---
 
 # Are "Mini" Holiday Treats Really Safe for Your Blood Pressure—Or Hiding Dangerous Sodium Levels?

@@ -18,15 +18,6 @@ relatedSlugs:
     best-walking-surface-for-diabetic-glucose
   - >-
     best-walking-surfaces-diabetic-foot-ulcers
-
-  - >-
-    myths-vs-facts-diabetic-shoes-do-they-actually-prevent-ulcers-in-adults-77-with-mild-charcot-foot-and-no-current-deformity
-  - >-
-    strength-training-peripheral-neuropathy-seniors
-  - >-
-    best-footwear-materials-for-reducing-shear-stress-in-adults-68-82-with-diabetic-neuropathy-hallux-rigidus-and-history-of-recurrent-toe-ulcers
-  - >-
-    best-walking-surface-for-diabetic-glucose
 ---
 
 # Smart Footwear Choices for Older Adults With Charcot Neuroarthropathy *and* Mild COPD: Prioritizing Offloading, Oxygen Conservation, and Stability

@@ -18,11 +18,6 @@ relatedSlugs:
     10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore
   - >-
     7-common-mistakes-that-make-seasonal-depression-worse-in-seniors
-  - how-vitamin-d-deficiency-impacts-heart-health-in-winter
-  - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
-  - how-light-therapy-can-help-older-adults-beat-winter-blues-after-65
-  - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
-  - seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
 ---
 
 # Could Low Vitamin B12 Be Making Seasonal Depression Harder to Manage in Older Adults?

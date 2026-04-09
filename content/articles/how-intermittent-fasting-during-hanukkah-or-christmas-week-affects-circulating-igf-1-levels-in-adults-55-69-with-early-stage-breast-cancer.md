@@ -20,13 +20,6 @@ relatedSlugs:
     what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
   - >-
     can-intermittent-fasting-help-reset-blood-sugar-after-christmas
-  - can-intermittent-fasting-help-reset-blood-sugar-after-christmas
-  - >-
-    what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
-  - can-intermittent-fasting-help-balance-holiday-eating-for-active-retirees
-  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
-  - >-
-    weekday-intermittent-fasting-holidays
 ---
 
 # How Intermittent Fasting During Holiday Weeks Affects IGF-1 in Older Adults With Early-Stage Breast Cancer  

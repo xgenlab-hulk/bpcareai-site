@@ -18,15 +18,6 @@ relatedSlugs:
     left-atrial-appendage-flow-velocity-breathing
   - >-
     quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
-
-  - >-
-    best-breathing-patterns-for-reducing-left-atrial-pressure-during-sleep-in-adults-67-79-with-hfpef-and-central-sleep-apnea
-  - >-
-    breathing-patterns-right-atrial-pressure-seniors
-  - >-
-    best-breathing-patterns-for-reducing-right-ventricular-afterload-in-adults-67-80-with-pulmonary-hypertension-and-sarcopenia
-  - >-
-    lower-pulmonary-capillary-wedge-pressure-orthopnea
 ---
 
 # Evidence-Based Breathing Techniques for Left Atrial Pressure Reduction in Older Adults With AFib and Mild Pulmonary Hypertension

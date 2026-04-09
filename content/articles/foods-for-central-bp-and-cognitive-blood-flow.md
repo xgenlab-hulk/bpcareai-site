@@ -20,11 +20,6 @@ relatedSlugs:
     foods-lower-blood-pressure-naturally-53-68
   - >-
     10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63
-
-  - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
-  - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
 ---
 
 # 10 Brain-Supportive Foods That Gently Lower Central Systolic Pressure *and* Boost Cognitive Blood Flow — For Adults 66+ With Mild Hypertension & White Matter Changes

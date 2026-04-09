@@ -20,11 +20,6 @@ relatedSlugs:
     12-smart-swaps-to-manage-blood-sugar-during-holiday-meals
   - >-
     healthy-holiday-buffet-glycemic-traps
-  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
-  - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
-  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
-  - can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure
-  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
 ---
 
 # How to Practice Mindful Eating at Holiday Buffets Without Spiking Blood Sugar

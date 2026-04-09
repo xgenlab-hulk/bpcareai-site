@@ -18,12 +18,6 @@ relatedSlugs:
     heart-disease-symptoms-in-women-over-50-what-s-often-missed
   - >-
     why-older-women-are-more-vulnerable-to-winter-heart-events
-  - how-menopause-affects-heart-disease-risk-in-women
-  - why-older-women-are-more-vulnerable-to-winter-heart-events
-  - why-women-s-heart-attack-symptoms-differ-after-menopause
-  - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
-  - >-
-    holiday-heart-syndrome-in-women-55-66-why-estrogen-withdrawal-and-late-afternoon-cortisol-peaks-create-a-perfect-storm-for-af
 ---
 
 # Why Heart Disease After Menopause Rises Sharply for Women 58–67 — Even With Healthy Cholesterol

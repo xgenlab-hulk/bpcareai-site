@@ -20,9 +20,6 @@ relatedSlugs:
     5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house
   - >-
     diabetes-management-dementia-caregiver
-  - diabetes-medication-walking-group-seniors-ckda
-  - medication-interactions-heart-failure-readmission
-  - diabetes-management-dementia-caregiver
 ---
 
 # Gardening with Diabetes: 12 Medication Safety Adjustments to Review Before Planting Your First Community Garden — Especially After Age 60

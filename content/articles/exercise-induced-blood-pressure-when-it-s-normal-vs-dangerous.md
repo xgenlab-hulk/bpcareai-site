@@ -21,11 +21,6 @@ relatedSlugs:
     post-exercise-systolic-surge-quick-fix
   - >-
     the-best-indoor-exercises-for-blood-pressure-control-in-winter
-  - when-to-worry-about-high-readings
-  - how-walking-speed-can-reflect-heart-health-and-blood-pressure
-  - the-best-indoor-exercises-for-blood-pressure-control-in-winter
-  - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
-  - why-blood-pressure-matters-even-if-you-feel-fine
 ---
 
 # When Exercise and Temporary Blood Pressure Increase Are Normal — And When They’re a Red Flag

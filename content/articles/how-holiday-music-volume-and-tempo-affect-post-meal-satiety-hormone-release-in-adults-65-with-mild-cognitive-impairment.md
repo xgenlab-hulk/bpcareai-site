@@ -20,11 +20,6 @@ relatedSlugs:
     holiday-buffet-seniors-satiety-hormones
   - >-
     the-complete-guide-to-eating-well-at-holiday-parties-without-asking-questions-or-drawing-attention-for-seniors-70-with-hearing-loss-and-social-anxiety
-
-  - >-
-    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
-  - >-
-    10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
 ---
 
 # How Holiday Music Volume and Tempo Influence Satiety Hormones in Seniors — A Gentle Guide to Healthy Holiday Eating for Seniors

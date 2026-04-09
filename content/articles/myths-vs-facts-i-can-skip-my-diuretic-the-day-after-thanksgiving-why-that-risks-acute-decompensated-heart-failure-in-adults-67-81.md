@@ -18,13 +18,6 @@ relatedSlugs:
     why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
   - >-
     the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use
-
-  - >-
-    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
-  - >-
-    7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
-  - >-
-    12-science-backed-ways-to-prevent-post-holiday-hyponatremia-in-adults-78-living-alone-and-taking-ssris-or-thiazides
 ---
 
 # Diuretic Holiday Heart Failure in Seniors: Why Skipping Just One Dose After Thanksgiving Can Trigger Acute Decompensated Heart Failure

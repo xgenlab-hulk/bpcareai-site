@@ -18,7 +18,6 @@ relatedSlugs:
     warning-signs-your-holiday-leftovers-are-causing-subclinical-dehydration-in-adults-80-with-diminished-thirst-response-and-mild-hyponatremia-risk
   - >-
     12-science-backed-ways-to-prevent-post-holiday-hyponatremia-in-adults-78-living-alone-and-taking-ssris-or-thiazides
-
 ---
 
 # Recognizing Holiday Hyponatremia Early Signs in Seniors With Mild Cognitive Impairment — Before Confusion Sets In

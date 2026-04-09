@@ -18,14 +18,6 @@ relatedSlugs:
     why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
   - >-
     why-morning-cortisol-spikes-worsen-dawn-phenomenon-in-adults-62-with-long-standing-type-2-diabetes-and-adrenal-fatigue-symptoms
-
-  - >-
-    best-times-check-glucose-holidays-seniors
-  - >-
-    why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
-
-  - >-
-    quick-ways-to-normalize-fasting-glucose-without-medication-in-adults-50-61-with-prediabetes-and-shift-work-history
 ---
 
 # Optimizing Fasting Glucose Measurement Timing for Older Adults With Dawn Phenomenon and Shift Work History

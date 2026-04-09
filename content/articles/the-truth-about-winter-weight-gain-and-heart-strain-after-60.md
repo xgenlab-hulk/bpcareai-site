@@ -20,11 +20,6 @@ relatedSlugs:
     why-winter-increases-heart-attack-risk-in-seniors-over-70
   - >-
     how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
-  - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
-  - the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
-  - why-winter-increases-heart-attack-risk-in-seniors-over-70
-  - how-chronic-lung-conditions-amplify-heart-risks-in-winter
-  - 10-winter-safe-exercises-for-heart-health-after-65
 ---
 
 # How Winter Weight Gain Heart Stress Affects Older Adults—What the Science Really Shows

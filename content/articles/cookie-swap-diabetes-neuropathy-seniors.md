@@ -18,11 +18,6 @@ relatedSlugs:
     warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know
   - >-
     why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
-- 5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy
-- 12-blood-sugar-safe-swaps-for-classic-christmas-cookies-tested-with-continuous-glucose-monitoring-in-adults-55-72
-- the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
-- 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
-- simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature
 ---
 
 # What You Should Know Before Joining a Holiday Cookie Swap — Especially If You’re 81+ With Peripheral Neuropathy and Nocturnal Hypoglycemia (cookie swap diabetes neuropathy seniors)

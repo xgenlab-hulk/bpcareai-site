@@ -20,9 +20,6 @@ relatedSlugs:
     atrial-fibrillation-vs-holiday-heart-syndrome-key-differences-everyone-should-know
   - >-
     holiday-heart-syndrome-and-sleep-architecture-how-fragmented-rem-cycles-amplify-arrhythmia-risk-in-adults-70-79-with-mild-osa
-  - what-research-says-about-holiday-heart-syndrome-and-aging-hearts
-  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
-  - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
 ---
 
 # How Alcohol and Atrial Fibrillation Interact in Seniors — Especially During the Holidays

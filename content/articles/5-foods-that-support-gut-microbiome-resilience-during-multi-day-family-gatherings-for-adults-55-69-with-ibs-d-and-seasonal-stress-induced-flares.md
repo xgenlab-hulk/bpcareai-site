@@ -18,7 +18,6 @@ relatedSlugs:
     best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
   - >-
     when-to-suspect-early-gut-microbiome-shifts-after-holiday-pie-consumption-even-without-diarrhea-or-bloating-in-adults-65-with-stable-ibs-d
-  - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
 ---
 
 # Why Do Holiday Gatherings Always Trigger Your IBS-D Diarrhea—And What Can You Eat to Stop It?

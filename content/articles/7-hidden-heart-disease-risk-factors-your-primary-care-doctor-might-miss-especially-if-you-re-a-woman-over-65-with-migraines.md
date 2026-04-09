@@ -18,14 +18,6 @@ relatedSlugs:
     why-arm-pain-shouldn-t-be-ignored-in-women-over-50
   - >-
     why-heart-disease-risk-skyrockets-in-women-58-67-within-3-years-after-menopause-even-with-normal-cholesterol
-  - heart-disease-symptoms-in-women-over-50-what-s-often-missed
-  - >-
-    7-hidden-heart-disease-risks-in-adults-55-64-who-still-feel-too-young-for-cardiac-screening
-  - >-
-    7-silent-signs-your-heart-s-struggling-during-winter-especially-if-you-re-a-woman-over-62-with-early-osteoarthritis
-  - why-arm-pain-shouldn-t-be-ignored-in-women-over-50
-  - >-
-    why-heart-disease-risk-skyrockets-in-women-58-67-within-3-years-after-menopause-even-with-normal-cholesterol
 ---
 
 # 7 Hidden Heart Disease Risk Factors Women Over 65 Should Know About — Especially With Migraines

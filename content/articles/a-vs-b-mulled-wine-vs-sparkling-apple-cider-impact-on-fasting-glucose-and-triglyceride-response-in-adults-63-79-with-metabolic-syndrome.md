@@ -18,7 +18,6 @@ relatedSlugs:
     7-hidden-blood-sugar-triggers-in-healthy-holiday-side-dishes-like-sweet-potato-casserole-and-cranberry-relish
   - >-
     non-alcoholic-drinks-holiday-heart-syndrome
-
 ---
 
 # Mulled Wine vs Sparkling Cider Diabetes: What Holiday Drinks Really Do to Blood Sugar and Triglycerides in Adults 63–79 With Metabolic Syndrome

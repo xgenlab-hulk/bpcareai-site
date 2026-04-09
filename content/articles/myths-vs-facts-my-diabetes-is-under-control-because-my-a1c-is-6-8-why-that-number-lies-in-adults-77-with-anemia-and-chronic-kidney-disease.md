@@ -18,9 +18,6 @@ relatedSlugs:
     why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals
   - >-
     understanding-a1c-goals-for-seniors-with-diabetes
-  - understanding-a1c-goals-for-seniors-with-diabetes
-  - >-
-    blood-glucose-monitor-iron-supplement-interference
 ---
 
 # Why Your A1c Might Be Lying: Understanding A1c Inaccuracy in Anemia, CKD, and Older Adults

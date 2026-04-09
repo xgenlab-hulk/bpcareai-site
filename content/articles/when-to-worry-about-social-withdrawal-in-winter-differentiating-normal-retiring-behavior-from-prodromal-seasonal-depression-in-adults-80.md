@@ -20,14 +20,6 @@ relatedSlugs:
     can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
   - >-
     does-relocating-to-a-sunnier-climate-improve-seasonal-depression-after-70
-  - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
-  - >-
-    7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
-  - seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
-  - >-
-    when-to-worry-about-social-withdrawal-in-winter-differentiating-normal-retiring-behavior-from-prodromal-seasonal-depression-in-adults-80
-  - >-
-    when-to-worry-about-winter-apathy-vs-early-depression-in-men-over-70-a-4-point-clinical-red-flag-checklist
 ---
 
 # When Social Withdrawal in Winter Signals Seasonal Depression in Adults 80+: A Guide for Caregivers and Primary Care Providers

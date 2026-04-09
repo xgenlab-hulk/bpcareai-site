@@ -20,12 +20,6 @@ relatedSlugs:
     what-causes-sudden-onset-of-nocturnal-diaphoresis-in-adults-64-79-with-type-2-diabetes-normal-a1c-and-undiagnosed-sleep-disordered-breathing
   - >-
     5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin
-  - how-type-2-diabetes-increases-heart-disease-risk-after-50
-  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
-  - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
-  - how-chronic-inflammation-worsens-type-2-diabetes-after-50
-  - >-
-    why-does-heart-disease-progress-faster-in-men-over-55-with-untreated-sleep-apnea
 ---
 
 # How Sleep Apnea and Type 2 Diabetes in Older Adults Affect Each Other After 50

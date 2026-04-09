@@ -20,9 +20,6 @@ relatedSlugs:
     what-research-says-about-time-restricted-eating-windows-and-nighttime-bp-dipping-in-adults-61-77-with-shift-work-history
   - >-
     mitochondrial-heart-health-meal-timing-seniors
-
-  - >-
-    mitochondrial-biogenesis-diastolic-dysfunction
 ---
 
 # How Early Time-Restricted Eating—Starting at 4 p.m.—May Support Heart Health in Older Adults with Type 2 Diabetes and Early Diastolic Dysfunction

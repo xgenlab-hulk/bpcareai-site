@@ -18,12 +18,6 @@ relatedSlugs:
     best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
   - >-
     the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
-  - the-truth-about-alcohol-and-blood-sugar-during-holiday-parties
-  - >-
-    can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
-  - does-alcohol-raise-blood-sugar-in-older-adults-with-diabetes
-  - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
 ---
 
 # How Alcohol and Blood Sugar Holidays Interact—What Older Adults with Diabetes Should Know

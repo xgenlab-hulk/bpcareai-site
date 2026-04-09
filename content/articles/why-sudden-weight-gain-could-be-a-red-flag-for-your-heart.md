@@ -20,11 +20,6 @@ relatedSlugs:
     why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
   - >-
     warning-signs-your-holiday-weight-gain-is-actually-fluid-retention-especially-if-you-re-on-amlodipine-and-over-68
-  - how-frequent-urination-at-night-could-signal-heart-problems
-  - heart-disease-warning-signs-that-appear-years-in-advance
-  - how-walking-speed-can-reflect-heart-health-and-blood-pressure
-  - the-connection-between-frequent-urination-at-night-and-heart-health
-  - could-leg-swelling-be-a-sign-of-heart-trouble-after-50
 ---
 
 # Sudden Weight Gain and Heart Failure Warning Signs: What You Should Know

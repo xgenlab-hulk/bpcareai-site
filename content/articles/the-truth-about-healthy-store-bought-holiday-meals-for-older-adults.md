@@ -20,12 +20,6 @@ relatedSlugs:
     the-truth-about-senior-friendly-holiday-meal-kits-why-92-fail-to-meet-ada-recommended-sodium-fiber-targets-for-hypertensive-adults-75
   - >-
     easy-make-ahead-freezer-meals-to-reduce-holiday-cooking-stress-for-seniors
-  - easy-make-ahead-freezer-meals-to-reduce-holiday-cooking-stress-for-seniors
-  - >-
-    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
-  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
-  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - 7-smart-swaps-for-healthier-holiday-meals-after-65
 ---
 
 # Choosing Healthy Store-Bought Holiday Meals for Seniors: What Really Supports Heart and Blood Sugar Health

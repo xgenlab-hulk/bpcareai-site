@@ -20,11 +20,6 @@ relatedSlugs:
     why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
   - >-
     how-emotional-exhaustion-from-caregiving-worsens-glycemic-variability-in-adults-with-type-2-diabetes-over-66-and-what-hrv-biofeedback-can-do
-  - why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope
-  - how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
-  - managing-diabetes-while-traveling-tips-for-seniors
 ---
 
 # How Stress and Blood Sugar in Older Diabetics Are Connected—and What You Can Do

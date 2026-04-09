@@ -20,11 +20,6 @@ relatedSlugs:
     sugar-free-cookies-polyol-malabsorption-fatigue
   - >-
     sugar-free-candies-and-gastroparesis
-
-  - >-
-    natural-ways-to-support-gastric-emptying-after-rich-holiday-meals-especially-for-seniors-with-diabetic-gastroparesis
-  - >-
-    are-sugar-free-treats-actually-safe-for-diabetics-over-65
 ---
 
 # The Hidden Risk in ‘Keto’ Holiday Cookies: How Sugar-Free Cookies Maltitol Gastroparesis Affects Older Adults

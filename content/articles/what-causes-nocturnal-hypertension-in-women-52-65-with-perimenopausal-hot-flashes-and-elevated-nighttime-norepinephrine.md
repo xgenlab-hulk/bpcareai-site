@@ -18,9 +18,6 @@ relatedSlugs:
     12-things-every-woman-over-72-should-know-about-nocturnal-hypertension-especially-after-bilateral-oophorectomy-and-long-term-aromatase-inhibitor-use
   - >-
     why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh
-  - 7-hidden-causes-of-nighttime-heart-palpitations-in-women-over-55
-  - >-
-    normalize-nocturnal-blood-pressure-dipping
 ---
 
 # Why Nocturnal Hypertension in Perimenopausal Women Happens — And What You Can Do About It

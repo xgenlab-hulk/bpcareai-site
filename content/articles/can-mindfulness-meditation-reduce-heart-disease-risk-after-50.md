@@ -18,11 +18,6 @@ relatedSlugs:
     can-heart-disease-be-reversed-with-lifestyle-changes-after-50
   - >-
     the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
-  - can-meditation-reduce-heart-disease-risk-after-50
-  - can-strength-training-lower-heart-disease-risk-after-60
-  - does-laughter-really-protect-your-heart-after-50
-  - can-deep-breathing-exercises-lower-heart-disease-risk
-  - can-meditation-lower-blood-pressure-naturally
 ---
 
 # Can Mindfulness Meditation and Heart Disease Prevention Work Together After 50?

@@ -18,9 +18,6 @@ relatedSlugs:
     intergenerational-cooking-cortisol-dawn-phenomenon
   - >-
     how-intergenerational-plate-sharing-during-thanksgiving-dinner-elevates-postprandial-glucose-spikes-in-adults-62-with-prediabetes
-  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
-  - >-
-    what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp
 ---
 
 # How Intergenerational Dining Stress Triggers Cortisol and Glucose Swings — And What to Eat Before Family Gatherings (Age 60+)

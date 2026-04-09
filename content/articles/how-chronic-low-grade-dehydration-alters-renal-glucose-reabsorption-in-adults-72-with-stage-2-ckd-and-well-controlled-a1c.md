@@ -20,11 +20,6 @@ relatedSlugs:
     fasting-glucose-ckd-stage-3a-diabetes
   - >-
     a1c-reliability-with-low-albumin
-  - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
-  - >-
-    how-chronic-low-grade-dehydration-alters-taste-bud-sensitivity-and-drives-holiday-sugar-cravings-in-adults-over-68
-  - >-
-    what-causes-sudden-drop-in-egfr-after-starting-sglt2-inhibitors-in-adults-69-with-borderline-hydration-status-and-low-albumin
 ---
 
 # How Subclinical Dehydration Affects Glucose Handling in Older Adults With Stage 2 CKD — Even With Stable Blood Sugar

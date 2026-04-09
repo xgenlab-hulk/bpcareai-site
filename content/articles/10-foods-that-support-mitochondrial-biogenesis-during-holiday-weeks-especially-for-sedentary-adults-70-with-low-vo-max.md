@@ -18,13 +18,6 @@ relatedSlugs:
     mitochondrial-biogenesis-without-hiit-seniors
   - >-
     natural-ways-to-support-mitochondrial-biogenesis-in-skeletal-muscle-after-age-63-especially-for-adults-with-prediabetes-and-low-vo-peak
-
-  - >-
-    boost-nitric-oxide-naturally-seniors
-  - >-
-    how-intermittent-fasting-affects-cardiac-mitochondrial-biogenesis-in-sedentary-adults-55-61-with-prediabetes-a-16-week-metabolomic-study
-  - >-
-    quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
 ---
 
 # 10 Holiday Foods That Spark Mitochondrial Renewal—Especially for Seniors 70+ With Low VO₂ Max (foods mitochondrial biogenesis seniors)

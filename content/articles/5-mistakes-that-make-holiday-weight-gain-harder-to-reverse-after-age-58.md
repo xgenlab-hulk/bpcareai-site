@@ -18,12 +18,6 @@ relatedSlugs:
     why-older-women-gain-weight-faster-during-the-holidays-after-menopause
   - >-
     when-to-worry-about-weight-gain-after-a-family-gathering
-  - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
-  - how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
-  - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
-  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
-  - >-
-    4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts
 ---
 
 # Why Does Holiday Weight Stick After 58—And What Metabolism Mistakes Are Blocking Your Progress?

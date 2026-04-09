@@ -18,12 +18,6 @@ relatedSlugs:
     wine-fasting-glucose-rebound-sleep-fragmentation
   - >-
     12-science-backed-ways-to-stabilize-blood-glucose-during-holiday-social-events-without-skipping-the-party-or-going-hungry
-  - can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
-  - the-truth-about-alcohol-and-blood-sugar-during-holiday-parties
-  - >-
-    3-simple-steps-to-prevent-post-holiday-hba1c-drift-even-if-you-did-fine-during-the-festivities-in-adults-57-66-with-stable-prediabetes
-  - >-
-    can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
 ---
 
 # 12 Evidence-Based Strategies to Buffer Alcohol’s Glycemic & Vasodilatory Effects at Family Gatherings — For Adults 57–71 With Prediabetes and Orthostatic Hypotension

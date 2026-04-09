@@ -20,11 +20,6 @@ relatedSlugs:
     can-walking-after-meals-lower-blood-sugar-in-older-adults
   - >-
     can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
-  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
-  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
-  - 5-easy-morning-routines-to-stabilize-blood-sugar-after-a-holiday-feast
-  - best-low-impact-exercises-for-managing-diabetes-after-60
-  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
 ---
 
 # Quick Workouts After Holiday Meals: Gentle Ways to Support Healthy Blood Sugar

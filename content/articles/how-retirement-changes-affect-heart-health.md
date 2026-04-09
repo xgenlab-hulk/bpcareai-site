@@ -20,11 +20,6 @@ relatedSlugs:
     can-mindfulness-meditation-reduce-heart-disease-risk-after-50
   - >-
     can-meditation-reduce-heart-disease-risk-after-50
-  - can-gardening-improve-heart-health-after-50
-  - is-your-posture-affecting-your-heart-what-older-adults-should-know
-  - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
-  - is-sitting-too-much-harming-your-heart-after-60
-  - does-laughter-really-protect-your-heart-after-50
 ---
 
 # How Retirement Lifestyle Changes Impact Heart Health

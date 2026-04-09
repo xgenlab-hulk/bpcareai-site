@@ -18,12 +18,6 @@ relatedSlugs:
     quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
   - >-
     does-daily-10-minute-post-dinner-walking-really-lower-next-morning-fasting-glucose-in-adults-64-with-morning-only-hyperglycemia
-  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
-  - can-walking-after-meals-lower-blood-sugar-in-older-adults
-  - >-
-    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
-  - >-
-    quick-ways-to-lower-post-holiday-triglycerides-without-fasting-especially-for-sedentary-adults-over-75
 ---
 
 # Best Post-Dinner Walking Strategies for Adults With Type 2 Diabetes Over 67—What the Evidence Says About Walking After Christmas Dinner Diabetes

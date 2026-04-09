@@ -18,11 +18,6 @@ relatedSlugs:
     why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72
   - >-
     7-silent-signs-your-blood-pressure-is-spiking-during-hot-summer-mornings-even-with-normal-home-readings
-  - the-impact-of-hot-showers-on-blood-pressure-and-heart-rate
-  - >-
-    post-exercise-blood-pressure-rebound-in-elderly
-  - >-
-    how-morning-blood-pressure-surges-differ-in-stroke-survivors-vs-primary-prevention-patients-over-60
 ---
 
 # Why Morning Shower Blood Pressure Spikes Occur in Older Adults With Autonomic Neuropathy and Orthostatic Hypotension

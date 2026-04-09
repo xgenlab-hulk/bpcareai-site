@@ -18,9 +18,6 @@ relatedSlugs:
     12-science-backed-ways-to-reduce-post-family-meal-gastric-reflux-within-20-minutes-for-adults-59-with-silent-gerd-and-mild-hiatal-hernia
   - >-
     can-you-enjoy-holiday-pie-without-triggering-acid-reflux-at-night-a-3-step-timing-texture-strategy-for-adults-65-with-gerd
-  - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
-  - >-
-    how-holiday-stress-slows-gastric-emptying-in-adults-72-with-mild-gastroparesis-and-what-to-eat-instead
 ---
 
 # Holiday Foods That Trigger Silent Gastric Reflux in Seniors — What 65+ Adults Should Know About holiday foods silent reflux seniors

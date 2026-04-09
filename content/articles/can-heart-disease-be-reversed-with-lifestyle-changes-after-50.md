@@ -18,11 +18,6 @@ relatedSlugs:
     how-much-exercise-do-you-need-to-reduce-heart-disease-risk-after-65
   - >-
     can-prediabetes-be-reversed-after-age-50
-  - can-prediabetes-be-reversed-after-age-50
-  - how-sleep-affects-heart-health-after-50
-  - can-meditation-reduce-heart-disease-risk-after-50
-  - is-sitting-too-much-harming-your-heart-after-60
-  - can-gardening-improve-heart-health-after-50
 ---
 
 # Can Heart Disease Be Reversed After 50? What the Evidence Says About Reversing Heart Disease After 50

@@ -18,15 +18,6 @@ relatedSlugs:
     7-silent-signs-your-diabetic-neuropathy-is-progressing-to-small-fiber-autonomic-dysfunction-especially-if-you-re-67-and-taking-gabapentin
   - >-
     fatigue-after-meals-diabetes-elderly
-  - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
-  - >-
-    when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension
-  - >-
-    when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension
-  - >-
-    can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
-  - >-
-    when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
 ---
 
 # When Blood Pressure Drops Walking in Diabetes: A Quiet Red Flag for Autonomic Neuropathy After Age 67

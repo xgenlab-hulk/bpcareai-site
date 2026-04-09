@@ -20,11 +20,6 @@ relatedSlugs:
     7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
   - >-
     natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
-  - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
-  - 7-common-mistakes-that-make-seasonal-depression-worse-in-seniors
-  - how-light-therapy-can-help-older-adults-beat-winter-blues-after-65
-  - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
-  - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
 ---
 
 # Practical Ways to Support a Parent with Seasonal Depression from Afar

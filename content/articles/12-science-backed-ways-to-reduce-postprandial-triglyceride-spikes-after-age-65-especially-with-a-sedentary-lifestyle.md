@@ -18,11 +18,6 @@ relatedSlugs:
     quick-ways-to-lower-post-holiday-triglyceride-spikes-within-2-hours-using-targeted-omega-3-dosing-validated-in-adults-60-78-with-mixed-dyslipidemia
   - >-
     warning-signs-your-grandchild-s-leftover-mac-and-cheese-is-raising-your-postprandial-triglycerides-especially-after-age-55
-  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
-  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
-  - >-
-    the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
-  - can-walking-after-meals-lower-blood-sugar-in-older-adults
 ---
 
 # Triglycerides Spiking After Meals? What Less Active Seniors 65+ Must Know

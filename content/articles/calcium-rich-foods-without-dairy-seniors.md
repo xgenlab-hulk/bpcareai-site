@@ -20,13 +20,6 @@ relatedSlugs:
     5-things-every-woman-over-64-should-know-about-holiday-cheese-boards-and-bone-turnover-markers-especially-with-long-term-calcium-supplementation
   - >-
     5-things-every-woman-over-65-with-osteoporosis-should-know-before-eating-holiday-roast-beef-and-gravy
-  - nutrient-dense-foods-low-appetite-seniors
-  - 30g-fiber-safe-after-65
-  - >-
-    quick-ways-to-adjust-portion-sizes-for-seniors-with-early-sarcopenia-without-offending-the-cook
-  - foods-stabilize-pulse-pressure-seniors-orthostasis
-  - >-
-    5-things-every-woman-over-65-with-osteoporosis-should-know-before-eating-holiday-roast-beef-and-gravy
 ---
 
 # Calcium-Rich Foods Without Dairy for Seniors (75+)

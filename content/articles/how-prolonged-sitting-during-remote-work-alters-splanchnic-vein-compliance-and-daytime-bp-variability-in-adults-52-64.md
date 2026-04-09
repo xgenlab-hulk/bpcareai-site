@@ -18,7 +18,6 @@ relatedSlugs:
     does-taking-your-blood-pressure-while-sitting-cross-legged-really-raise-readings-what-2023-research-says-for-adults-58
   - >-
     12-science-backed-ways-to-lower-systolic-blood-pressure-without-medication-in-adults-55-66-with-mild-hypertension-and-high-occupational-stress
-  - why-sitting-too-long-raises-blood-pressure
 ---
 
 # How Sitting and Blood Pressure in Remote Work Affects Adults 52–64

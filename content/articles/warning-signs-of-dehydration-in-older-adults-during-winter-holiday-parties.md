@@ -20,12 +20,6 @@ relatedSlugs:
     the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use
   - >-
     warning-signs-your-holiday-leftovers-are-causing-subclinical-dehydration-in-adults-80-with-diminished-thirst-response-and-mild-hyponatremia-risk
-  - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
-  - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
-  - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
-  - >-
-    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
-  - the-hidden-dangers-of-indoor-heating-on-blood-pressure
 ---
 
 # Recognizing Dehydration Warning Signs in Seniors During Winter—Especially at Holiday Gatherings

@@ -20,11 +20,6 @@ relatedSlugs:
     how-alcohol-metabolism-changes-after-age-55-and-why-that-raises-holiday-heart-syndrome-risk-in-adults-55-69-with-mild-liver-steatosis
   - >-
     how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
-  - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
-  - >-
-    how-alcohol-timing-affects-atrial-fibrillation-risk-during-holiday-gatherings-in-adults-55-68-with-occult-af-and-high-functioning-lifestyle
-  - >-
-    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
 ---
 
 # Understanding Holiday Alcohol Atrial Fibrillation Risk in Adults 55+ With Early Heart Changes

@@ -18,9 +18,6 @@ relatedSlugs:
     why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
   - >-
     intergenerational-cooking-cortisol-dawn-phenomenon
-  - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
-  - >-
-    when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
 ---
 
 # Why You Might Wake Up High on Christmas Morning — Even After a Perfect Night: Unpacking the Real Cause of Morning Hyperglycemia Christmas Day

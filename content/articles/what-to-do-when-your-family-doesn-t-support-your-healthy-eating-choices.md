@@ -20,10 +20,6 @@ relatedSlugs:
     myths-vs-facts-healthy-eating-during-family-celebrations
   - >-
     10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor
-  - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
-  - the-link-between-family-food-traditions-and-chronic-disease-risk
-  - best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat
-  - the-truth-about-cheating-on-your-diet-during-family-celebrations
 ---
 
 # Navigating Family Resistance to Healthy Eating with Confidence and Compassion

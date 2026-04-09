@@ -18,12 +18,6 @@ relatedSlugs:
     10-high-fiber-holiday-foods-that-support-digestion-after-50
   - >-
     best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
-  - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
-
-  - best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
-  - >-
-    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
-  - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
 ---
 
 # Low FODMAP Holiday Desserts for Seniors: Gentle, Fiber-Rich Treats That Support Digestive Calm

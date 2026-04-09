@@ -20,9 +20,6 @@ relatedSlugs:
     can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
   - >-
     how-type-2-diabetes-increases-heart-disease-risk-after-50
-  - are-morning-stiff-joints-a-sign-of-inflammation-that-hurts-your-heart
-  - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
-  - how-menopause-affects-heart-disease-risk-in-women
 ---
 
 # Understanding the Rheumatoid Arthritis and Heart Disease Link

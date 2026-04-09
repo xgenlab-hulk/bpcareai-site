@@ -18,9 +18,6 @@ relatedSlugs:
     when-to-worry-about-morning-hypoglycemia-in-adults-74-taking-basal-insulin-and-polypharmacy-especially-with-concurrent-sglt2-inhibitor-use
   - >-
     how-to-navigate-a-potluck-when-you-re-managing-prediabetes-and-taking-glp-1-agonists-without-triggering-gi-distress-or-blood-sugar-spikes
-  - is-metformin-still-safe-for-diabetics-over-70
-  - >-
-    are-sugar-free-treats-actually-safe-for-diabetics-over-65
 ---
 
 # Navigating the Insulin to GLP-1 Switch in Frail Elderly Adults: A Gentle, Evidence-Informed Guide

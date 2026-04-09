@@ -18,11 +18,6 @@ relatedSlugs:
     low-sodium-alternatives-for-classic-family-recipes-that-still-taste-great
   - >-
     the-truth-about-heart-healthy-casseroles-served-at-family-gatherings-hidden-sodium-load-phosphate-additives-and-the-whole-grain-label-loophole
-  - 7-smart-swaps-for-healthier-holiday-meals-after-65
-  - 10-heart-healthy-swaps-for-traditional-holiday-dishes-after-50
-  - 10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor
-  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
-  - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
 ---
 
 # Can You Keep Grandma's Casserole Recipe Heart-Healthy Without Losing Its Soul?

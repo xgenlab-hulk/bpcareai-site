@@ -18,15 +18,6 @@ relatedSlugs:
     cgm-flat-line-myth-elderly
   - >-
     simple-steps-to-reduce-glucose-variability-during-air-travel-not-just-before-or-after-for-adults-61-with-insulin-dependent-diabetes
-
-  - >-
-    cgm-accuracy-holiday-travel
-  - >-
-    best-portable-glucose-monitors-for-holiday-travel-in-2024-ranked-by-accuracy-in-cold-weather-battery-life-and-tsa-friendly-design
-  - >-
-    the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79
-  - >-
-    warning-signs-your-holiday-medication-routine-is-failing-even-if-your-a1c-looks-fine
 ---
 
 # Why CGM Accuracy Drops During Holiday Travel — What Adults 66+ Need to Know

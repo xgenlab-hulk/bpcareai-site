@@ -18,11 +18,6 @@ relatedSlugs:
     when-to-worry-about-sudden-lightheadedness-after-the-first-slice-of-pie-a-red-flag-timeline-for-women-over-65-with-orthostatic-hypotension
   - >-
     the-truth-about-normal-blood-pressure-ranges-after-75-why-130-80-may-be-too-low-for-frail-elders-with-cerebral-hypoperfusion-risk
-  - is-low-blood-pressure-dangerous-for-seniors
-  - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
-  - blood-pressure-management-for-sedentary-seniors-in-winter-months
-  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
-  - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
 ---
 
 # Understanding Low Blood Pressure Risks in Elderly 75+ Adults—and When It’s More Than Just “Feeling Lightheaded”

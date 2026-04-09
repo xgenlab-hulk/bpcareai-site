@@ -20,11 +20,6 @@ relatedSlugs:
     what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter
   - >-
     7-common-mistakes-that-make-seasonal-depression-worse-in-seniors
-  - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70
-  - natural-ways-to-lower-blood-pressure-this-winter-without-medication
-  - 7-common-mistakes-that-make-seasonal-depression-worse-in-seniors
-  - how-light-therapy-can-help-older-adults-beat-winter-blues-after-65
-  - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
 ---
 
 # Gentle, Evidence-Backed Natural Remedies for Seasonal Depression in Older Adults

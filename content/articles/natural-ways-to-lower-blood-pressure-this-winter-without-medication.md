@@ -20,11 +20,6 @@ relatedSlugs:
     stress-blood-pressure-winter
   - >-
     the-link-between-winter-depression-and-high-blood-pressure-in-older-adults
-  - can-meditation-lower-blood-pressure-naturally
-  - can-deep-breathing-exercises-reduce-high-blood-pressure
-  - natural-ways-to-support-blood-sugar-balance-during-holiday-stress
-  - the-best-indoor-exercises-for-blood-pressure-control-in-winter
-  - blood-pressure-management-for-sedentary-seniors-in-winter-months
 ---
 
 # Natural Blood Pressure Control This Winter: Gentle, Evidence-Based Ways for Adults 50+

@@ -20,12 +20,6 @@ relatedSlugs:
     how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
   - >-
     atrial-fibrillation-vs-holiday-heart-syndrome-key-differences-everyone-should-know
-  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
-  - the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50
-  - >-
-    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
-  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
-  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
 ---
 
 # Understanding New Year’s Heart Risk After Age 55

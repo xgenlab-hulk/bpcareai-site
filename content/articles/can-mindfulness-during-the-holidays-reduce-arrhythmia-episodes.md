@@ -18,11 +18,6 @@ relatedSlugs:
     simple-steps-to-monitor-your-heart-health-during-the-holiday-season
   - >-
     how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
-  - top-6-stress-reduction-techniques-to-protect-your-heart-this-holiday
-  - quick-ways-to-calm-a-racing-heart-during-a-holiday-event
-  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
-  - can-mindfulness-meditation-reduce-heart-disease-risk-after-50
-  - 12-simple-ways-to-prevent-holiday-heart-syndrome-naturally
 ---
 
 # Can Mindfulness During the Holidays Help Reduce Arrhythmia Episodes?

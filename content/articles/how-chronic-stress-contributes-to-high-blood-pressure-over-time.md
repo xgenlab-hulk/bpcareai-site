@@ -20,11 +20,6 @@ relatedSlugs:
     why-sitting-too-long-raises-blood-pressure
   - >-
     the-link-between-sleep-apnea-and-high-blood-pressure-after-50
-  - does-caffeine-raise-blood-pressure-after-age-60
-  - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
-  - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
-  - can-meditation-reduce-heart-disease-risk-after-50
-  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
 ---
 
 # How Chronic Stress and High Blood Pressure Aging Are Connected

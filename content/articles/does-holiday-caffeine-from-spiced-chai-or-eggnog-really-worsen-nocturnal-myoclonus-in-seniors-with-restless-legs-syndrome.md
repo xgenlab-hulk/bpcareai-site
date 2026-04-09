@@ -18,12 +18,6 @@ relatedSlugs:
     12-science-backed-ways-to-prevent-post-holiday-delirium-episodes-in-adults-78-with-mild-dementia-and-polypharmacy
   - >-
     can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
-  - can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors
-  - >-
-    how-late-night-eggnog-consumption-alters-cardiac-repolarization-reserve-in-adults-58-65-with-subclinical-qt-prolongation
-  - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
-  - can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
-  - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
 ---
 
 # Holiday Caffeine, Restless Legs, and Seniors: What You Really Need to Know This Season

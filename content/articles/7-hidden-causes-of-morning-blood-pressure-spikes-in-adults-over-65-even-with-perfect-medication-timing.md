@@ -18,12 +18,6 @@ relatedSlugs:
     what-causes-morning-blood-pressure-spikes-in-adults-62-with-chronic-kidney-disease-and-nocturnal-polyuria
   - >-
     why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
-  - 7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
-  - how-morning-blood-pressure-spikes-affect-your-heart
-  - why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
-  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
-  - >-
-    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
 ---
 
 # Understanding Morning Blood Pressure Spikes Over 65—Even With Well-Timed Medication

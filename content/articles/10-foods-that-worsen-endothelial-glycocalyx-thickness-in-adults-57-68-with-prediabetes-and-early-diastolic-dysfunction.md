@@ -18,11 +18,6 @@ relatedSlugs:
     12-science-backed-ways-to-reduce-postprandial-endothelial-dysfunction-within-45-minutes-for-adults-60-76-with-type-2-diabetes-and-elevated-adma
   - >-
     dental-inflammation-coronary-microvascular-flow
-
-  - >-
-    the-truth-about-heart-healthy-plant-based-burgers-do-they-lower-ldl-or-worsen-endothelial-function-in-adults-with-prediabetes-over-58
-  - >-
-    salad-dressing-sodium-endothelial-stiffness
 ---
 
 # 10 Foods That May Affect Endothelial Glycocalyx Health in Adults With Prediabetes

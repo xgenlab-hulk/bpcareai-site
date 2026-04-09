@@ -18,11 +18,6 @@ relatedSlugs:
     the-truth-about-diabetes-friendly-holiday-cookie-kits-why-92-fail-postprandial-glucose-clamp-testing-in-adults-63-with-gastroparesis-like-symptoms
   - >-
     a-vs-b-3-minute-post-meal-standing-vs-90-second-heel-toe-rocking-impact-on-2-hour-postprandial-glucose-in-adults-74-with-gastroparesis-like-symptoms
-
-  - >-
-    reduce-postprandial-glucose-without-medication
-  - >-
-    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
 ---
 
 # 10 Evidence-Based Foods That Help Stabilize Glucose in Older Adults With Gastroparesis and Type 2 Diabetes

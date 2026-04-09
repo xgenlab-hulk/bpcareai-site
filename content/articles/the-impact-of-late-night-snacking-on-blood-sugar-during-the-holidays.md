@@ -20,12 +20,6 @@ relatedSlugs:
     how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms
   - >-
     why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
-  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
-  - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - >-
-    can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
-  - why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
 ---
 
 # How Late-Night Snacking Affects Blood Sugar—Especially During the Holidays

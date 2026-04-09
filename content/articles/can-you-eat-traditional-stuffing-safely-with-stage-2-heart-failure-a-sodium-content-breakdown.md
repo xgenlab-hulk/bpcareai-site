@@ -18,9 +18,6 @@ relatedSlugs:
     7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker
   - >-
     7-hidden-sodium-traps-in-healthy-holiday-side-dishes-and-how-to-swap-them-without-losing-flavor-especially-for-adults-58-with-stage-2-ckd
-  - 7-smart-swaps-for-healthier-holiday-meals-after-65
-  - >-
-    best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods
 ---
 
 # Can Seniors with Stage 2 Heart Failure Enjoy Stuffing? A Realistic Look at Stuffing Sodium Heart Failure Seniors Should Know

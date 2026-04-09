@@ -20,7 +20,6 @@ relatedSlugs:
     what-causes-sudden-drop-in-egfr-after-starting-sglt2-inhibitors-in-adults-69-with-borderline-hydration-status-and-low-albumin
   - >-
     when-to-worry-about-sudden-bp-drop-after-starting-sglt2-inhibitors-especially-in-adults-63-75-with-mild-ckd-and-orthostatic-symptoms
-  - why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
 ---
 
 # Safe Evening Insulin SGLT2 Inhibitor Adjustment for Older Adults Living Independently

@@ -18,14 +18,6 @@ relatedSlugs:
     5-things-every-woman-over-62-should-know-about-calcium-fortified-eggnog-and-bone-mineral-density-especially-with-long-term-ppi-use
   - >-
     7-hidden-heart-risks-in-low-fat-grocery-store-yogurts-for-women-over-58-with-hypothyroidism-and-mild-diastolic-dysfunction
-  - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
-  - 7-smart-swaps-for-healthier-holiday-meals-after-65
-  - >-
-    why-your-one-glass-of-eggnog-habit-may-be-raising-triglycerides-faster-than-expected-especially-if-you-re-postmenopausal-and-sedentary
-  - >-
-    turkey-preparation-zinc-bioavailability-seniors
-  - >-
-    best-low-sodium-swaps-for-classic-holiday-side-dishes-ranked-by-palatability-potassium-retention-and-ease-of-prep-for-caregivers-over-60
 ---
 
 # Is Swapping Butter for Margarine Weakening Your Bones? (Women 68+ Osteopenia Guide to Holiday Baking)

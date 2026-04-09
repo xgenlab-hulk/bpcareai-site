@@ -18,15 +18,6 @@ relatedSlugs:
     how-chronic-low-grade-dehydration-alters-taste-bud-sensitivity-and-drives-holiday-sugar-cravings-in-adults-over-68
   - >-
     simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
-  - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
-  - >-
-    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
-  - >-
-    how-chronic-low-grade-dehydration-alters-taste-bud-sensitivity-and-drives-holiday-sugar-cravings-in-adults-over-68
-  - >-
-    12-science-backed-ways-to-prevent-post-holiday-hyponatremia-in-adults-78-living-alone-and-taking-ssris-or-thiazides
-  - >-
-    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
 ---
 
 # Early Signs of Dehydration in Seniors During the Holidays: What to Watch For Beyond Dry Mouth

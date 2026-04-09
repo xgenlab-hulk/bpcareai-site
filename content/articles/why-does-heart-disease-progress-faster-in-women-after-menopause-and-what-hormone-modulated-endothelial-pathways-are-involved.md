@@ -20,10 +20,6 @@ relatedSlugs:
     heart-disease-symptoms-in-women-over-50-what-s-often-missed
   - >-
     why-older-women-are-more-vulnerable-to-winter-heart-events
-  - how-menopause-affects-heart-disease-risk-in-women
-  - >-
-    aromatase-inhibitors-heart-microvascular-dysfunction
-  - why-women-s-heart-attack-symptoms-differ-after-menopause
 ---
 
 # Why Heart Disease Progression After Menopause Speeds Up — And What’s Happening Inside Your Blood Vessels

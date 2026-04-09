@@ -18,13 +18,6 @@ relatedSlugs:
     simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
   - >-
     the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use
-  - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
-  - >-
-    when-to-worry-about-sudden-thirst-and-dry-mouth-at-christmas-dinner-a-red-flag-timeline-for-adults-60-with-undiagnosed-prediabetes
-  - >-
-    5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
-  - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
-  - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
 ---
 
 # How Dehydration Sugar Cravings Seniors Interact—and What You Can Gently Do About It This Holiday Season

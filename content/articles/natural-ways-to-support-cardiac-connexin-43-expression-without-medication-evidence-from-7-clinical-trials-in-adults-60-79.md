@@ -20,11 +20,6 @@ relatedSlugs:
     how-chronic-loneliness-alters-heart-rate-variability-and-increases-atrial-fibrillation-risk-in-adults-75-living-alone
   - >-
     hosting-holiday-guests-atrial-protection
-
-  - >-
-    microvascular-coronary-reactivity-natural
-  - >-
-    mitochondrial-biogenesis-heart-aging
 ---
 
 # Natural Ways to Support Connexin-43 Expression in the Aging Heart

@@ -20,11 +20,6 @@ relatedSlugs:
     cold-face-immersion-vs-vagus-humming-hrvar
   - >-
     could-your-heartbeats-per-minute-predict-longevity
-  - understanding-blood-pressure-numbers
-  - when-to-worry-about-high-readings
-  - can-deep-breathing-exercises-lower-heart-disease-risk
-  - how-walking-speed-can-reflect-heart-health-and-blood-pressure
-  - does-laughter-really-protect-your-heart-after-50
 ---
 
 # Heart Rate Variability: What It Tells You

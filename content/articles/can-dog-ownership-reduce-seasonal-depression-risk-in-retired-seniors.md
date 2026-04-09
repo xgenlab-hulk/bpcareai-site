@@ -18,12 +18,6 @@ relatedSlugs:
     can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
   - >-
     how-to-support-a-parent-with-seasonal-depression-while-living-far-away
-  - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
-  - how-winter-depression-affects-heart-health-in-retired-adults
-  - >-
-    can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
-  - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70
-  - how-to-adjust-your-parent-s-daily-routine-to-combat-winter-depression
 ---
 
 # How Pet Ownership and Seasonal Depression Interact in Retired Seniors

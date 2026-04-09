@@ -18,9 +18,6 @@ relatedSlugs:
     why-men-over-50-should-monitor-cholesterol-even-without-symptoms
   - >-
     subclinical-aortic-stenosis-blood-pressure-masking
-  - why-men-over-50-should-monitor-cholesterol-even-without-symptoms
-  - >-
-    what-are-the-earliest-retinal-microvascular-changes-that-predict-coronary-artery-calcification-in-men-52-64-with-non-alcoholic-fatty-liver-disease
 ---
 
 # “I Feel Fine, So My Heart Must Be Okay” — Understanding Asymptomatic Heart Disease Subclinical Atherosclerosis

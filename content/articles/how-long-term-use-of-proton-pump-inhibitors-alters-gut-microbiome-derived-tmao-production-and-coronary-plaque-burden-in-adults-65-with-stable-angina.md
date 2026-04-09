@@ -20,15 +20,6 @@ relatedSlugs:
     how-gut-derived-trimethylamine-n-oxide-tmao-fuels-endothelial-dysfunction-in-adults-with-hypertension-and-mild-ckd-stage-2-over-65
   - >-
     how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
-
-  - >-
-    how-long-term-use-of-proton-pump-inhibitors-alters-gut-microbiome-derived-tmao-production-and-coronary-plaque-burden-in-adults-65-with-stable-angina
-  - >-
-    pom-inhibitors-atherosclerosis-gut-microbiome
-  - >-
-    how-gut-microbiome-imbalance-after-age-60-accelerates-arterial-stiffness-what-new-research-reveals
-  - >-
-    how-chronic-gum-inflammation-alters-coronary-artery-plaque-stability-in-adults-58-74-with-controlled-hypertension
 ---
 
 # How Proton Pump Inhibitors May Influence TMAO Levels and Coronary Plaque in Older Adults With Stable Angina — Understanding the pills and tmao coronary plaque Connection

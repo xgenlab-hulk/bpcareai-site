@@ -18,9 +18,6 @@ relatedSlugs:
     natural-ways-to-reduce-holiday-constipation-in-seniors-taking-opioids-or-anticholinergics
   - >-
     holiday-travel-gut-microbiome-ibs-seniors
-  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
-  - >-
-    gastric-acid-resilience-ppi-therapy-holiday-meals
 ---
 
 # Gentle, Evidence-Informed Ways to Build Digestive Resilience During Holiday Travel for Seniors

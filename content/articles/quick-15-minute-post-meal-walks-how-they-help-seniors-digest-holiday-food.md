@@ -20,11 +20,6 @@ relatedSlugs:
     best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
   - >-
     quick-10-minute-workouts-to-lower-blood-sugar-after-christmas-dinner
-  - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
-  - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
-  - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
-  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
 ---
 
 # How Post-Meal Walks for Seniors Help Digest Holiday Feasts

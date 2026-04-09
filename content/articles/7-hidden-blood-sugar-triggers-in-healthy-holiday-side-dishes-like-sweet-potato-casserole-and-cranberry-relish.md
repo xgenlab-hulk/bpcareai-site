@@ -18,8 +18,6 @@ relatedSlugs:
     healthy-holiday-buffet-glycemic-traps
   - >-
     7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
-  - low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
-  - 7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
 ---
 
 # Hidden Blood Sugar Triggers in Holiday Side Dishes — What Raises Glucose in Adults 60+?

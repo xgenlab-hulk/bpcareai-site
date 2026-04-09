@@ -20,12 +20,6 @@ relatedSlugs:
     is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
   - >-
     the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
-  - best-blood-sugar-monitoring-practices-during-the-holiday-season
-  - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
-  - >-
-    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
-  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
-  - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
 ---
 
 # Should You Adjust Your Diabetes Medication During the Holidays? A Gentle Guide to Safely Manage Blood Sugar

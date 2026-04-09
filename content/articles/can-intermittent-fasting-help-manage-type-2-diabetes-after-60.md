@@ -18,11 +18,6 @@ relatedSlugs:
     what-research-says-about-intermittent-fasting-from-christmas-eve-to-new-year-s-day-for-adults-with-stable-type-2-diabetes-over-62
   - >-
     can-intermittent-fasting-worsen-autonomic-neuropathy-in-adults-71-with-long-term-type-2-diabetes-and-orthostatic-tachycardia
-  - meal-timing-strategies-for-better-blood-sugar-control-after-50
-  - how-chronic-inflammation-worsens-type-2-diabetes-after-50
-  - the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors
-  - can-walking-after-meals-lower-blood-sugar-in-older-adults
-  - managing-diabetes-while-traveling-tips-for-seniors
 ---
 
 # Can Intermittent Fasting for Type 2 Diabetes Over 60 Improve Blood Sugar Control?

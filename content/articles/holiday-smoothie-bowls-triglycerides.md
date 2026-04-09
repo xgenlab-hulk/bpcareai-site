@@ -18,11 +18,6 @@ relatedSlugs:
     holiday-healthy-swap-triglyceride-lipoprotein
   - >-
     how-intergenerational-gift-giving-stress-elevates-postprandial-triglycerides-in-adults-61-with-familial-hypertriglyceridemia
-- myths-vs-facts-just-one-slice-of-holiday-pie-won-t-raise-my-triglycerides-what-fasting-chylomicron-clearance-testing-reveals-in-adults-61-75-with-hypertriglyceridemia
-- the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
-- how-intergenerational-gift-giving-stress-elevates-postprandial-triglycerides-in-adults-61-with-familial-hypertriglyceridemia
-- 7-hidden-blood-sugar-triggers-in-healthy-holiday-side-dishes-like-sweet-potato-casserole-and-cranberry-relish
-- the-truth-about-low-glycemic-holiday-desserts-made-with-date-paste-do-they-really-reduce-glycemic-load-or-just-mask-rapid-fructose-absorption-in-adults-with-nafld
 ---
 
 # Why Holiday Smoothie Bowls Triglycerides Deserve a Second Look — Especially After 68

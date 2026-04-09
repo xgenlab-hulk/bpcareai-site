@@ -20,12 +20,6 @@ relatedSlugs:
     how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - >-
     the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
-  - simple-steps-to-monitor-your-heart-health-during-the-holiday-season
-  - 12-simple-ways-to-prevent-holiday-heart-syndrome-naturally
-  - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
-  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
-  - >-
-    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
 ---
 
 # Quick Ways to Calm a Racing Heart During a Holiday Event — Practical, Non-Medical Strategies for Adults 50+

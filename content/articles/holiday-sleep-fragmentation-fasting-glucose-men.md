@@ -20,13 +20,6 @@ relatedSlugs:
     skipping-breakfast-holiday-hyperglycemia-seniors
   - >-
     5-easy-morning-routines-to-stabilize-blood-sugar-after-a-holiday-feast
-  - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
-  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
-  - >-
-    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
-  - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
-  - >-
-    how-holiday-stress-cortisol-spikes-impair-glp-1-secretion-in-adults-64-with-obesity-and-prediabetes-and-why-mindful-breathing-beats-just-relax-advice
 ---
 
 # How Holiday Sleep Disruption Affects Fasting Glucose in Men Over 70—and What You Can Do About It

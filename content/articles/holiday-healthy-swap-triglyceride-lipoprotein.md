@@ -20,12 +20,6 @@ relatedSlugs:
     why-your-light-holiday-appetizer-plate-may-be-raising-triglycerides-more-than-dessert-the-hidden-fat-oxidation-block-in-adults-58-69
   - >-
     one-slice-pie-triglycerides-seniors-myth
-  - 10-heart-healthy-swaps-for-traditional-holiday-dishes-after-50
-  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
-  - >-
-    the-truth-about-low-fat-holiday-desserts-why-they-often-raise-triglycerides-in-men-over-60
-  - >-
-    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
 ---
 
 # When Your Holiday “Healthy Swap” Might Be Sneaking Up on Your Triglyceride Levels

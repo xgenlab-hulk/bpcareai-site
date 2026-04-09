@@ -18,9 +18,6 @@ relatedSlugs:
     how-sleep-apnea-severity-predicts-rapid-a1c-rise-in-adults-57-71-with-untreated-osa-and-newly-diagnosed-type-2-diabetes
   - >-
     5-things-your-endocrinologist-isn-t-asking-about-your-sleep-apnea-diagnosis-but-should-if-you-re-over-62-and-on-basal-insulin
-  - how-sleep-apnea-impacts-type-2-diabetes-control-after-50
-  - >-
-    what-causes-rebound-hyperglycemia-after-nocturnal-hypoglycemia-in-adults-over-68-and-why-it-s-often-mistaken-for-insulin-resistance
 ---
 
 # Nocturnal Diaphoresis in Older Adults With Diabetes: When Sleep Apnea Mimics Autonomic Neuropathy

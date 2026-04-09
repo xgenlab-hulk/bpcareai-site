@@ -18,15 +18,6 @@ relatedSlugs:
     warning-signs-your-holiday-weight-gain-is-actually-fluid-retention-especially-if-you-re-on-amlodipine-and-over-68
   - >-
     post-holiday-joint-swelling-gravy-histamine-seniors
-  - 7-smart-swaps-for-healthier-holiday-meals-after-65
-  - >-
-    7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker
-  - >-
-    5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
-  - >-
-    natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings
-  - >-
-    warning-signs-your-holiday-healthy-swap-is-causing-hidden-hyponatremia-in-adults-76-on-thiazide-diuretics
 ---
 
 # Ankles Still Swollen After the Holidays? 12 Kitchen Swaps Women 65+ Can Try Today

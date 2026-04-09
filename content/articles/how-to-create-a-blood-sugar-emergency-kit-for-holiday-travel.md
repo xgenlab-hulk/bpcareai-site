@@ -20,10 +20,6 @@ relatedSlugs:
     how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
   - >-
     12-smart-swaps-to-manage-blood-sugar-during-holiday-meals
-  - best-blood-sugar-monitoring-practices-during-the-holiday-season
-  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
 ---
 
 # How to Prepare a Blood Sugar Emergency Kit for Travel During the Holidays

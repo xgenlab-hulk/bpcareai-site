@@ -20,7 +20,6 @@ relatedSlugs:
     how-social-isolation-accelerates-carotid-intima-media-thickness-progression-and-why-that-predicts-systolic-bp-rise-within-2-years-in-adults-63-79
   - >-
     myths-vs-facts-my-blood-pressure-is-fine-because-i-feel-fine-in-adults-with-isolated-systolic-hypertension-over-65
-  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
 ---
 
 # How Social Isolation and Blood Pressure in Elderly Men Are Connected—And What You Can Do About It

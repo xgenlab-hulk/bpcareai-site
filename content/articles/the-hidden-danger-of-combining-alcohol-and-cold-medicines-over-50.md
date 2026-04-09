@@ -20,12 +20,6 @@ relatedSlugs:
     why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
   - >-
     best-non-alcoholic-holiday-drinks-for-heart-health-after-50
-  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
-  - >-
-    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
-  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
-  - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
-  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
 ---
 
 # Understanding the Risks of Alcohol and Cold Medicine Over 50

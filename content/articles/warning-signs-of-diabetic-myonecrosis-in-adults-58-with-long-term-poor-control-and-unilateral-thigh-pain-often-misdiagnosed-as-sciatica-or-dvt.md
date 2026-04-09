@@ -18,9 +18,6 @@ relatedSlugs:
     7-silent-signs-your-feet-are-sending-early-warnings-of-diabetic-neuropathy-especially-if-you-ve-had-t2d-for-12-years
   - >-
     warning-signs-your-stable-diabetes-is-masking-early-diabetic-cardiomyopathy-even-with-normal-ejection-fraction-and-no-symptoms-in-adults-59-68
-  - myths-vs-facts-i-don-t-need-to-check-my-feet-daily-because-i-still-feel-pain
-  - >-
-    7-silent-signs-your-feet-are-sending-early-warnings-of-diabetic-neuropathy-especially-if-you-ve-had-t2d-for-12-years
 ---
 
 # Diabetic Myonecrosis Thigh Pain Warning Signs: What Adults 58+ With Long-Term Diabetes Need to Know

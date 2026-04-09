@@ -18,11 +18,6 @@ relatedSlugs:
     best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
   - >-
     how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
-  - best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
-  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
-  - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
-  - best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
 ---
 
 # Can Diabetic Holiday Desserts Over 60 Fit Joyfully Into Your Season?

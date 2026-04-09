@@ -20,9 +20,6 @@ relatedSlugs:
     how-indoor-humidity-below-30-triggers-endothelial-stiffness-in-adults-55-68-with-early-arterial-calcification
   - >-
     how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55
-  - how-indoor-air-quality-affects-heart-health-in-winter
-  - >-
-    12-unexpected-household-products-that-raise-blood-pressure-from-air-fresheners-to-laundry-detergents
 ---
 
 # How Indoor Air Pollution Affects Blood Pressure Patterns in Urban Seniors Aged 58–74

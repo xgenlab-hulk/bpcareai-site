@@ -20,11 +20,6 @@ relatedSlugs:
     top-5-winter-superfoods-that-naturally-lower-blood-pressure
   - >-
     senior-labeled-canned-soup-sodium-trap
-  - why-winter-increases-heart-attack-risk-in-seniors-over-70
-  - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
-  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
-  - top-7-heart-protective-vitamins-to-take-in-winter
-  - cholesterol-lowering-soups-over-45
 ---
 
 # Warm & Wholesome: The Best Heart-Healthy Winter Soups for Seniors with High Cholesterol

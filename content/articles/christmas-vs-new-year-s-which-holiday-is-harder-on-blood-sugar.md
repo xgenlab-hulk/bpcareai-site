@@ -18,11 +18,6 @@ relatedSlugs:
     best-blood-sugar-monitoring-practices-during-the-holiday-season
   - >-
     why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
-  - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
-  - why-emotional-eating-during-christmas-raises-blood-sugar-after-50
-  - how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes
-  - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
-  - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
 ---
 
 # Christmas vs. New Year’s: Which Holiday Poses Greater Challenges for Blood Sugar Control?

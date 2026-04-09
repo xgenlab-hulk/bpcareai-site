@@ -20,7 +20,6 @@ relatedSlugs:
     what-research-says-about-polyphenol-bioavailability-from-holiday-spices-cinnamon-clove-nutmeg-in-adults-71-with-low-cyp2c9-activity
   - >-
     the-truth-about-heart-healthy-olive-oil-labels-why-extra-virgin-isn-t-enough-for-adults-72-with-advanced-carotid-plaque
-  - the-role-of-omega-3-fatty-acids-in-preventing-heart-disease
 ---
 
 # Why Omega-3 Supplement Bioavailability Seniors Should Be Your Top Concern — Not Just the Label

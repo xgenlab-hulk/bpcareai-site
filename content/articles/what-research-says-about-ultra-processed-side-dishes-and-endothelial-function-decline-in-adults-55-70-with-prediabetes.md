@@ -20,7 +20,6 @@ relatedSlugs:
     instant-oatmeal-endothelial-function-seniors
   - >-
     apple-cider-vs-eggnog-endothelial-function-seniors
-
 ---
 
 # What Science Tells Us About Ultra-Processed Foods, Endothelial Function, and Prediabetes in Adults 55–70

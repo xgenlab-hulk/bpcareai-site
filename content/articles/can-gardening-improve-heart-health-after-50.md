@@ -18,11 +18,6 @@ relatedSlugs:
     can-meditation-reduce-heart-disease-risk-after-50
   - >-
     can-you-safely-resume-gardening-after-an-icd-implant-a-safety-first-guide-for-adults-73-with-reduced-ejection-fraction
-  - can-meditation-reduce-heart-disease-risk-after-50
-  - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
-  - how-retirement-changes-affect-heart-health
-  - does-laughter-really-protect-your-heart-after-50
-  - how-sleep-affects-heart-health-after-50
 ---
 
 # How Gardening and Heart Health After 50 Go Hand in Hand

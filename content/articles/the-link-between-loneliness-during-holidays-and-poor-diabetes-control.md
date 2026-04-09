@@ -20,13 +20,6 @@ relatedSlugs:
     best-blood-sugar-monitoring-practices-during-the-holiday-season
   - >-
     christmas-vs-new-year-s-which-holiday-is-harder-on-blood-sugar
-  - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - >-
-    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
-  - >-
-    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
-  - best-blood-sugar-monitoring-practices-during-the-holiday-season
 ---
 
 # How Holiday Loneliness Affects Diabetes Control in Older Adults

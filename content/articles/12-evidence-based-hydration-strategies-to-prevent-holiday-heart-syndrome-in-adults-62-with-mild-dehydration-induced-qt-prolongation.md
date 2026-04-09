@@ -18,10 +18,6 @@ relatedSlugs:
     the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
   - >-
     quick-ways-to-calm-a-racing-heart-during-a-holiday-event
-  - why-dehydration-at-holiday-events-may-worsen-heart-palpitations
-  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
-  - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
-  - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
 ---
 
 # 12 Evidence-Based Hydration Strategies for Holiday Heart Syndrome Prevention in Adults 62+ With QT Prolongation

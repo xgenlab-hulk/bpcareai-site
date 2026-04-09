@@ -18,13 +18,6 @@ relatedSlugs:
     how-chronic-nighttime-cough-from-untreated-gerd-triggers-nocturnal-atrial-fibrillation-in-men-70-with-mild-copd
   - >-
     the-link-between-atrial-fibrillation-and-heart-disease-in-seniors
-  - the-link-between-atrial-fibrillation-and-heart-disease-in-seniors
-  - is-metformin-still-safe-for-diabetics-over-70
-  - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
-  - >-
-    can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation
-  - >-
-    what-research-says-about-magnesium-glycinate-vs-magnesium-oxide-for-qt-interval-stability-in-older-adults-on-amiodarone
 ---
 
 # Do PPIs Increase Atrial Fibrillation Risk in Seniors With GERD? What the Evidence Shows

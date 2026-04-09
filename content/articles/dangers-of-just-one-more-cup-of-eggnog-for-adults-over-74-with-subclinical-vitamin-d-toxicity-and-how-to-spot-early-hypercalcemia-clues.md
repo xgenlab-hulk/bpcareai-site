@@ -18,8 +18,6 @@ relatedSlugs:
     how-late-night-eggnog-consumption-disrupts-fasting-glucose-patterns-in-men-over-65-with-prediabetes
   - >-
     why-your-one-glass-of-eggnog-habit-may-be-raising-triglycerides-faster-than-expected-especially-if-you-re-postmenopausal-and-sedentary
-  - how-vitamin-d-deficiency-impacts-heart-health-in-winter
-  - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
 ---
 
 # Eggnog Vitamin D Toxicity in Seniors: What Older Adults Over 74 Should Know This Holiday Season

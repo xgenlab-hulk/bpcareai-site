@@ -18,10 +18,6 @@ relatedSlugs:
     masked-hypertension-job-stress-adults-55-64
   - >-
     myths-vs-facts-i-have-no-symptoms-so-my-heart-is-fine-in-adults-53-68-with-subclinical-atherosclerosis-and-normal-stress-echo
-  - why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
-  - can-one-night-of-heavy-drinking-cause-heart-problems-in-people-over-55
-  - why-men-over-50-should-monitor-cholesterol-even-without-symptoms
-  - how-obesity-contributes-to-heart-disease-in-middle-age
 ---
 
 # Hidden Heart Disease Risks Age 55–64: Why “Feeling Fine” Isn’t Enough Anymore

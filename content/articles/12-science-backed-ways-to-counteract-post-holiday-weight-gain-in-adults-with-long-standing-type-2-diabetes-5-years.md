@@ -18,12 +18,6 @@ relatedSlugs:
     best-walking-interventions-after-christmas-dinner-10-minute-vs-22-minute-vs-split-session-for-adults-with-type-2-diabetes-over-67
   - >-
     reduce-hba1c-without-weight-loss
-  - how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
-  - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
-  - managing-type-2-diabetes-while-attending-back-to-back-holiday-parties
-  - >-
-    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
-  - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
 ---
 
 # 12 Science-Backed Ways to Prevent Post-Holiday Weight Gain With Type 2 Diabetes (5+ Years)

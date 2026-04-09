@@ -20,11 +20,6 @@ relatedSlugs:
     the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-
     10-foods-that-stabilize-post-holiday-cortisol-rhythm-without-medication-for-adults-59-71-with-type-2-diabetes-and-chronic-stress
-  - best-blood-sugar-monitoring-practices-during-the-holiday-season
-  - best-supplements-for-blood-sugar-support-after-50
-  - 12-smart-swaps-to-manage-blood-sugar-during-holiday-meals
-  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
-  - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
 ---
 
 # Gentle, Natural Blood Sugar Support During the Holidays  

@@ -18,9 +18,6 @@ relatedSlugs:
     when-to-worry-about-sudden-drowsiness-after-christmas-dinner-linking-postprandial-hypoglycemia-autonomic-blunting-and-late-night-falls-in-adults-75
   - >-
     when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment
-  - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
-  - >-
-    7-hidden-risks-of-long-term-metformin-use-in-adults-67-with-low-b12-elevated-methylmalonic-acid-and-subclinical-cognitive-slowing
 ---
 
 # When Post-Dinner Confusion in Seniors Might Signal an Undiagnosed B12 Deficiency

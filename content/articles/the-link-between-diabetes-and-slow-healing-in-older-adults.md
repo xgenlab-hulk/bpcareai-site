@@ -20,11 +20,6 @@ relatedSlugs:
     diabetes-hip-fracture-surgery-recovery-seniors
   - >-
     diabetes-and-vision-changes-what-seniors-need-to-know
-  - diabetes-and-vision-changes-what-seniors-need-to-know
-  - recognizing-silent-heart-attacks-in-diabetics-over-60
-  - understanding-a1c-goals-for-seniors-with-diabetes
-  - healthy-carbohydrate-choices-for-diabetics-in-their-60s-and-70s
-  - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
 ---
 
 # Understanding Diabetes and Slow Wound Healing in Elderly Adults

@@ -20,9 +20,6 @@ relatedSlugs:
     how-often-should-adults-over-55-monitor-blood-sugar-at-home
   - >-
     what-a1c-too-high-50-year-old
-  - how-often-should-adults-over-50-check-their-blood-pressure
-  - how-often-should-adults-over-55-monitor-blood-sugar-at-home
-  - what-a1c-too-high-50-year-old
 ---
 
 # How Often to Check Fasting Blood Sugar at 40 — ADA Guidelines

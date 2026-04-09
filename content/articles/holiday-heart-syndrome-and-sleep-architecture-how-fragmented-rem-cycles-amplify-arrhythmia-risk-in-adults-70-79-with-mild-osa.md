@@ -18,13 +18,6 @@ relatedSlugs:
     holiday-travel-nocturnal-afib-warning
   - >-
     is-holiday-heart-syndrome-reversible-what-science-says
-  - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
-  - >-
-    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
-  - >-
-    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
-  - >-
-    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
 ---
 
 # How Sleep Architecture, Holiday Heart Syndrome, and Mild OSA Interact in Adults 70–79

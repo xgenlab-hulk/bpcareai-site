@@ -20,9 +20,6 @@ relatedSlugs:
     non-alcoholic-drinks-holiday-heart-syndrome
   - >-
     holiday-eating-macular-degeneration
-  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
-  - >-
-    a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome
 ---
 
 # Best Non-Alcoholic Wine Alternatives for Adults 75+ With Diabetes and Early Macular Degeneration

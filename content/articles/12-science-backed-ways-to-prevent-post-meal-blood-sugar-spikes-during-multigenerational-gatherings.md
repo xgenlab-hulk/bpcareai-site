@@ -18,11 +18,6 @@ relatedSlugs:
     7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
   - >-
     myths-vs-facts-eating-light-at-holiday-dinners-prevents-glucose-spikes-in-adults-62-with-insulin-resistance
-  - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
-  - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
-  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
-  - why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
-  - can-walking-after-meals-lower-blood-sugar-in-older-adults
 ---
 
 # Blood Sugar Soaring After Family Meals? What Seniors 60+ Need to Know—And How to Stay Safe

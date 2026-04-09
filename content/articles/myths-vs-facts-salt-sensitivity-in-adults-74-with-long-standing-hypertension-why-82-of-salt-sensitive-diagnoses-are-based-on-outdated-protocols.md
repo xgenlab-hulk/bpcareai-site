@@ -20,13 +20,6 @@ relatedSlugs:
     myths-vs-facts-salt-sensitivity-is-just-a-label-what-24-hour-urinary-sodium-excretion-and-genotyping-reveal-in-adults-59-72-with-stage-1-hypertension
   - >-
     12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
-  - the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
-  - >-
-    myths-vs-facts-salt-sensitivity-is-just-a-label-what-24-hour-urinary-sodium-excretion-and-genotyping-reveal-in-adults-59-72-with-stage-1-hypertension
-  - >-
-    how-holiday-table-salt-substitutes-affect-taste-perception-and-sodium-intake-in-adults-74-with-age-related-hypogeusia-and-hypertension
-  - >-
-    salt-sensitivity-myths-in-black-adults
 ---
 
 # Salt-Sensitivity Myths in Older Adults: What Really Matters for Blood Pressure After 74

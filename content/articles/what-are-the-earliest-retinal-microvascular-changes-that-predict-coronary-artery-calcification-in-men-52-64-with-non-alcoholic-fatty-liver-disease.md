@@ -20,11 +20,6 @@ relatedSlugs:
     10-silent-signs-your-blood-pressure-is-damaging-your-retina-even-with-controlled-readings-in-adults-63-with-type-2-diabetes
   - >-
     warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
-  - how-vision-changes-might-be-linked-to-heart-disease
-  - >-
-    what-research-says-about-hearing-loss-as-an-early-biomarker-of-vascular-aging-in-men-over-75
-  - >-
-    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
 ---
 
 # Early Retinal Changes Linked to Coronary Calcification in Men with Fatty Liver Disease

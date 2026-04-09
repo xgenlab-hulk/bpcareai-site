@@ -20,11 +20,6 @@ relatedSlugs:
     why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
   - >-
     the-truth-about-benign-holiday-palpitations-are-they-really-harmless
-  - the-truth-about-alcohol-and-heart-health-after-55
-  - can-one-night-of-heavy-drinking-cause-heart-problems-in-people-over-55
-  - is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues
-  - can-heart-disease-be-reversed-with-lifestyle-changes-after-50
-  - the-benefits-of-eating-nuts-daily-for-heart-protection-over-50
 ---
 
 # Is Moderate Drinking Really Safe for Your Heart After 50? What the Evidence Says About Alcohol Consumption and Heart Disease After 50

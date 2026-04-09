@@ -20,9 +20,6 @@ relatedSlugs:
     the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
   - >-
     how-to-manage-holiday-heart-syndrome-risk-with-type-2-diabetes
-  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
-  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
-  - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
 ---
 
 # Smart Diabetes Holiday Party Tips for Adults Over 50

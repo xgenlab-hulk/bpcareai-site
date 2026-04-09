@@ -18,9 +18,6 @@ relatedSlugs:
     7-silent-signs-your-left-ventricular-diastolic-function-is-declining-especially-if-you-still-pass-standard-ekgs-and-walk-5-000-steps-daily
   - >-
     7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
-  - what-are-the-first-signs-of-holiday-heart-syndrome-in-women
-  - >-
-    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
 ---
 
 # 7 Subtle Signs of Subclinical Heart Failure in Women Over 65—Even If You’re Still Walking 10,000 Steps a Day

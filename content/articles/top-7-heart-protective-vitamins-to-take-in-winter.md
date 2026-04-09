@@ -20,11 +20,6 @@ relatedSlugs:
     heart-friendly-winter-fruits-that-boost-immunity-and-arterial-health
   - >-
     10-winter-safe-exercises-for-heart-health-after-65
-  - heart-friendly-winter-fruits-that-boost-immunity-and-arterial-health
-  - how-vitamin-d-deficiency-impacts-heart-health-in-winter
-  - what-research-says-about-vitamin-d-and-winter-hypertension-in-seniors
-  - how-staying-hydrated-in-winter-protects-your-heart-after-70
-  - best-warm-heart-healthy-soups-for-seniors-with-high-cholesterol
 ---
 
 # Top Heart-Protective Vitamins to Consider as Winter Heart Supplements

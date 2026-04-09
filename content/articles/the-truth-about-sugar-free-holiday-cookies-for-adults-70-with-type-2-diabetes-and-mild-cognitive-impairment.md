@@ -18,11 +18,6 @@ relatedSlugs:
     the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
   - >-
     the-truth-about-sugar-free-holiday-baking-mixes-why-many-still-raise-a1c-in-adults-59-75-with-long-standing-diabetes
-  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - >-
-    the-truth-about-sugar-free-holiday-cookies-for-adults-with-stage-2-ckd-and-preserved-egfr
-  - >-
-    sugar-free-cookies-polyol-malabsorption-fatigue
 ---
 
 # What You Need to Know About Sugar-Free Holiday Cookies for Older Adults With Type 2 Diabetes and Mild Cognitive Impairment

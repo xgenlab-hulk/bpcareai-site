@@ -18,9 +18,6 @@ relatedSlugs:
     the-truth-about-diabetic-friendly-holiday-candy-labels-why-92-of-these-products-still-trigger-reactive-hypoglycemia-in-adults-67-on-basal-insulin
   - >-
     sugar-free-cookies-polyol-malabsorption-fatigue
-  - the-truth-about-sugar-free-holiday-treats-and-your-glucose-levels
-  - >-
-    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
 ---
 
 # Unpacking the Diabetes-Friendly Holiday Cookies Truth: What Labels Won’t Tell You

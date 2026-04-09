@@ -20,11 +20,6 @@ relatedSlugs:
     the-complete-guide-to-managing-blood-sugar-during-holiday-shift-work
   - >-
     how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
-  - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
-  - should-you-adjust-your-diabetes-medication-during-the-holidays
-  - best-blood-sugar-monitoring-practices-during-the-holiday-season
-  - how-to-monitor-blood-sugar-more-effectively-during-festive-travel
-  - the-link-between-loneliness-during-holidays-and-poor-diabetes-control
 ---
 
 # Keeping Your Diabetes Medication Schedule Holidays on Track—Without the Stress

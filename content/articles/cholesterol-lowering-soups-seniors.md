@@ -21,11 +21,6 @@ relatedSlugs:
     30g-fiber-safe-after-65
   - >-
     myths-vs-facts-i-don-t-need-cholesterol-screening-after-80-and-4-other-dangerous-assumptions-about-heart-disease-in-the-oldest-old
-
-  - >-
-    how-fiber-rich-diets-support-heart-health-in-people-over-60
-  - >-
-    soups-lower-blood-pressure-naturally
 ---
 
 # 5 Cholesterol-Lowering Soups for Seniors (Ready in 20 Min)

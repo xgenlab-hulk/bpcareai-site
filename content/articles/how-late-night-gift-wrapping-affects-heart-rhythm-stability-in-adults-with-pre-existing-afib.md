@@ -20,12 +20,6 @@ relatedSlugs:
     how-late-night-holiday-movie-marathons-elevate-sympathetic-tone-and-why-that-increases-afib-burden-in-adults-65-with-nocturnal-hypertension
   - >-
     holiday-stress-and-atrial-ectopy
-  - can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
-  - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
-  - the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
-  - >-
-    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
-  - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
 ---
 
 # How Late-Night Gift Wrapping Affects AFib Stability — What Adults 60+ Should Know

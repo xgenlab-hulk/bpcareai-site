@@ -18,11 +18,6 @@ relatedSlugs:
     best-high-fiber-low-fodmap-holiday-desserts-for-adults-63-76-with-ibs-d-and-fructose-malabsorption
   - >-
     best-low-residue-high-fiber-side-dishes-for-adults-75-with-diverticular-disease-and-mild-cognitive-impairment-no-chopping-required
-  - the-role-of-fiber-in-controlling-blood-sugar-after-50
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
-  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
 ---
 
 # 10 High-Fiber Holiday Foods for Seniors to Support Digestive Wellness

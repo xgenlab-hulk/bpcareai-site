@@ -18,11 +18,6 @@ relatedSlugs:
     12-evidence-based-hydration-strategies-to-prevent-holiday-heart-syndrome-in-adults-62-with-mild-dehydration-induced-qt-prolongation
   - >-
     5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
-  - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
-  - why-dehydration-at-holiday-events-may-worsen-heart-palpitations
-  - how-staying-hydrated-in-winter-protects-your-heart-after-70
-  - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
-  - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
 ---
 
 # Smart Hydration Strategies for Heart Patients During Holiday Travel—Especially With Airport Delays and Dry Cabin Air

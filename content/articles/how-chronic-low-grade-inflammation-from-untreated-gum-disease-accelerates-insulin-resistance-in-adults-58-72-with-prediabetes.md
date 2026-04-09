@@ -18,11 +18,6 @@ relatedSlugs:
     how-gum-disease-is-linked-to-diabetes-complications-in-older-adults
   - >-
     periodontitis-postprandial-hyperglycemia
-- how-chronic-low-grade-inflammation-from-gum-disease-worsens-insulin-resistance-in-adults-with-long-standing-diabetes-over-70
-- how-chronic-low-grade-inflammation-from-gum-disease-raises-a1c-in-adults-58-74-with-type-2-diabetes-and-poor-dental-access
-- how-chronic-low-grade-inflammation-from-gum-disease-accelerates-coronary-artery-calcification-in-adults-55-69-with-normal-ldl-and-why-dentists-are-the-first-line-of-defense
-- how-chronic-low-grade-inflammation-drives-resistant-hypertension-in-adults-60-74-with-elevated-hs-crp-and-gum-recession
-- how-chronic-inflammation-from-gum-disease-fuels-hypertension-and-why-dentists-should-check-your-bp
 ---
 
 # How Gum Disease Insulin Resistance Prediabetes Interacts in Adults 58–72—and What You Can Do About It

@@ -20,11 +20,6 @@ relatedSlugs:
     how-cold-weather-impacts-appetite-and-food-choices-in-seniors-during-the-holidays
   - >-
     when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
-  - how-cold-weather-affects-blood-sugar-in-people-with-diabetes
-  - why-winter-increases-heart-attack-risk-in-seniors-over-70
-  - the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors
-  - how-does-cold-weather-affect-blood-pressure-in-older-adults
-  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
 ---
 
 # How Cold Weather Affects Insulin Sensitivity in Seniors: A Guide for Holiday Health

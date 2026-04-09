@@ -18,15 +18,6 @@ relatedSlugs:
     skip-insulin-holiday-pie-beta-cell-stress
   - >-
     natural-ways-to-support-pancreatic-beta-cell-resilience-without-stimulating-insulin-secretion-using-sulforaphane-timing-low-dose-lithium-in-adults-56-64-with-early-beta-cell-decline
-
-  - >-
-    beta-cell-resilience-holiday-eating
-  - >-
-    fermented-foods-beta-cell-resilience-type-2-diabetes
-  - >-
-    beta-cell-resilience-holiday-eating
-  - >-
-    beta-cell-rest-holiday-meals-natural-support
 ---
 
 # 9 Holiday Foods That Gently Support Beta-Cell Resilience — Backed by Human Islet Research

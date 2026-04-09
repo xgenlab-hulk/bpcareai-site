@@ -18,11 +18,6 @@ relatedSlugs:
     quick-10-minute-workouts-to-lower-blood-sugar-after-christmas-dinner
   - >-
     the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
-  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
-  - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
-  - best-blood-sugar-monitoring-practices-during-the-holiday-season
-  - natural-ways-to-support-blood-sugar-balance-during-holiday-stress
-  - 5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
 ---
 
 # Why Is Your Blood Sugar High the Morning After a Holiday Feast—And How Do You Fix It Fast?

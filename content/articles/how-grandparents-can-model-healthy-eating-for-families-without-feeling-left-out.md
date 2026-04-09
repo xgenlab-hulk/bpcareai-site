@@ -20,12 +20,6 @@ relatedSlugs:
     how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
   - >-
     the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations
-  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
-  - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - >-
-    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
-  - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
 ---
 
 # How Diabetic Grandparents Can Enjoy Holiday Eating While Modeling Healthy Habits

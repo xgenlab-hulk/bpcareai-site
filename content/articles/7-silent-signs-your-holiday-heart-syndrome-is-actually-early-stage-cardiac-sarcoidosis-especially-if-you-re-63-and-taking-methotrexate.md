@@ -18,11 +18,6 @@ relatedSlugs:
     holiday-palpitations-cardiac-amyloidosis-red-flags
   - >-
     orthostatic-tachycardia-cardiac-sarcoidosis
-  - what-are-the-first-signs-of-holiday-heart-syndrome-in-women
-  - >-
-    holiday-heart-syndrome-vs-acute-coronary-syndrome-key-differences-in-presentation-for-men-over-70
-  - >-
-    7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
 ---
 
 # When “Holiday Heart” Might Be Something Deeper: Recognizing Holiday Heart Syndrome Cardiac Sarcoidosis Signs in Adults 63+

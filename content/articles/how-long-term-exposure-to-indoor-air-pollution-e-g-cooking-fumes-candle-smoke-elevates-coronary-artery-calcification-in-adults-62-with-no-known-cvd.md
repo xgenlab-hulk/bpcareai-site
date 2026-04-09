@@ -18,7 +18,6 @@ relatedSlugs:
     how-indoor-air-quality-affects-heart-health-in-winter
   - >-
     how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
-  - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
 ---
 
 # How Indoor Air Pollution Coronary Artery Calcification Risk Affects Older Adults — And What You Can Do

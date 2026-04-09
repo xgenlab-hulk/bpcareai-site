@@ -18,11 +18,6 @@ relatedSlugs:
     foods-stabilize-pulse-pressure-seniors-orthostasis
   - >-
     foods-lower-blood-pressure-naturally-after-50
-  - 10-foods-that-actually-stabilize-post-meal-blood-pressure-not-just-lower-it-for-adults-with-labile-hypertension-over-60
-  - can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show
-  - quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
-  - natural-ways-to-lower-bp-without-medication-using-time-restricted-eating-validated-in-217-adults-with-metabolic-syndrome-and-night-eating-patterns
-  - how-gut-microbiota-diversity-predicts-24-hour-systolic-variability-in-adults-55-70-and-what-to-eat-to-stabilize-it
 ---
 
 # 12 Foods That Stabilize Blood Pressure During Meals—Especially at Family Dinners (Ages 57–69)

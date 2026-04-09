@@ -18,7 +18,6 @@ relatedSlugs:
     can-meditation-lower-blood-pressure-naturally
   - >-
     foods-for-central-bp-and-cognitive-blood-flow
-
 ---
 
 # High Blood Pressure? 12 Science-Backed Foods That Lower It Naturally for Ages 53-68

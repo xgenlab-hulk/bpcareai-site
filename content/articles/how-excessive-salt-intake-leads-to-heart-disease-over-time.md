@@ -20,11 +20,6 @@ relatedSlugs:
     myths-vs-facts-salt-sensitivity-in-adults-74-with-long-standing-hypertension-why-82-of-salt-sensitive-diagnoses-are-based-on-outdated-protocols
   - >-
     low-sodium-alternatives-for-classic-family-recipes-that-still-taste-great
-  - how-obesity-contributes-to-heart-disease-in-middle-age
-  - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
-  - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
-  - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
-  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
 ---
 
 # How High Salt Intake Contributes to Heart Disease Over Time

@@ -18,13 +18,6 @@ relatedSlugs:
     12-things-every-man-over-70-should-know-about-isolated-systolic-hypertension-especially-if-he-s-taking-daily-aspirin-and-has-a-history-of-gout
   - >-
     tai-chi-vs-muscle-relaxation-for-nocturnal-hypertension
-
-  - >-
-    tai-chi-vs-breathing-central-aortic-pressure
-  - >-
-    tai-chi-vs-muscle-relaxation-for-nocturnal-hypertension
-  - >-
-    seated-resistance-band-hypertension-elderly
 ---
 
 # Can Seated Tai Chi Help Manage Isolated Systolic Hypertension in Older Adults With Mobility Concerns?

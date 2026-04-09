@@ -18,13 +18,6 @@ relatedSlugs:
     why-emotional-eating-at-family-gatherings-is-common-and-how-to-manage-it
   - >-
     portion-control-strategies-for-large-family-meals-that-work
-  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
-  - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
-  - >-
-    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
-  - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
-  - >-
-    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
 ---
 
 # How Can You Stop Overeating at Family Dinners Without Feeling Restricted or Left Out?

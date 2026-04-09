@@ -18,12 +18,6 @@ relatedSlugs:
     7-holiday-foods-that-spike-postprandial-glucose-without-tasting-sweet-especially-for-adults-63-with-long-standing-type-2-diabetes
   - >-
     how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - 7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
-  - >-
-    myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
-  - >-
-    a-vs-b-gingerbread-house-decorating-with-sugar-free-icing-vs-traditional-royal-icing-impact-on-postprandial-glucose-spikes-in-adults-58-74
 ---
 
 # Hidden Holiday Baking Blood Sugar Triggers for Women 60+ With Type 2 Diabetes  

@@ -20,9 +20,6 @@ relatedSlugs:
     quick-atrial-electrophysiology-normalization
   - >-
     how-alcohol-timing-affects-atrial-fibrillation-risk-during-holiday-gatherings-in-adults-55-68-with-occult-af-and-high-functioning-lifestyle
-  - top-6-stress-reduction-techniques-to-protect-your-heart-this-holiday
-  - can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes
-  - quick-ways-to-calm-a-racing-heart-during-a-holiday-event
 ---
 
 # Quick Ways to Reduce AFib Risk Within 48 Hours After a Holiday Party—Backed by New 2024 Research

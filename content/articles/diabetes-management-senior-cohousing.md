@@ -18,14 +18,6 @@ relatedSlugs:
     holiday-cookie-swap-glucose-management
   - >-
     diabetes-management-intergenerational-hosting
-
-  - >-
-    diabetes-management-dementia-caregiver
-  - >-
-    diabetes-management-intergenerational-hosting
-  - >-
-    the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations
-
 ---
 
 # Collaborative Diabetes Management in Senior Cohousing: A Practical Guide for Adults 73+

@@ -20,11 +20,6 @@ relatedSlugs:
     what-are-the-earliest-signs-your-holiday-weight-gain-is-actually-fluid-retention-not-fat-in-women-over-65-with-atrial-fibrillation
   - >-
     when-to-worry-about-holiday-weight-gain-if-you-re-75-with-heart-failure-and-preserved-ejection-fraction
-  - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
-  - when-to-worry-about-weight-gain-after-a-family-gathering
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - when-to-worry-about-chest-discomfort-after-a-big-holiday-meal
-  - why-winter-increases-heart-attack-risk-in-seniors-over-70
 ---
 
 # Why Holiday Weight Gain Poses a Greater Heart Risk for Seniors

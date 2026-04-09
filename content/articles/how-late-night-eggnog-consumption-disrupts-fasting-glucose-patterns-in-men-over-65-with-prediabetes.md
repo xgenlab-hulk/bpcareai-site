@@ -20,15 +20,6 @@ relatedSlugs:
     how-late-night-snacking-during-hanukkah-or-christmas-eve-affects-overnight-glucose-stability-in-women-over-70
   - >-
     wine-fasting-glucose-rebound-sleep-fragmentation
-  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
-  - >-
-    holiday-sleep-fragmentation-fasting-glucose-men
-  - >-
-    how-late-night-dessert-snacking-disrupts-circadian-glucose-rhythms-in-adults-75-with-early-alzheimer-s
-  - >-
-    how-late-night-eggnog-consumption-alters-cardiac-repolarization-reserve-in-adults-58-65-with-subclinical-qt-prolongation
-  - >-
-    why-your-one-glass-of-eggnog-habit-may-be-raising-triglycerides-faster-than-expected-especially-if-you-re-postmenopausal-and-sedentary
 ---
 
 # How Eggnog Fasting Glucose Prediabetes Interacts—Especially for Men Over 65

@@ -18,11 +18,6 @@ relatedSlugs:
     12-simple-swaps-to-reduce-post-holiday-edema-in-women-65-with-stage-2-hypertension-and-mild-lymphedema
   - >-
     why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
-  - why-sudden-weight-gain-could-be-a-red-flag-for-your-heart
-  - >-
-    when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70
-  - >-
-    what-are-the-silent-signs-of-salt-induced-fluid-retention-during-holiday-travel-with-aging-parents
 ---
 
 # When Sudden Swelling After Holiday Meal Heart Failure Calls for Prompt Attention—Especially After Thanksgiving

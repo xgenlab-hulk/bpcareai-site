@@ -20,11 +20,6 @@ relatedSlugs:
     can-deep-breathing-exercises-reduce-high-blood-pressure
   - >-
     vagal-breathing-central-systolic-pressure
-
-  - can-deep-breathing-exercises-reduce-high-blood-pressure
-  - can-deep-breathing-exercises-lower-heart-disease-risk
-  - >-
-    natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
 ---
 
 # A Science-Backed 7-Minute Breathing Protocol for Hypertension and Anxiety in Adults Over 50

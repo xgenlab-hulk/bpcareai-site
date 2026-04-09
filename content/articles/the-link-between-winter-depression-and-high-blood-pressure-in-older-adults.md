@@ -20,12 +20,6 @@ relatedSlugs:
     the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
   - >-
     natural-ways-to-lower-blood-pressure-this-winter-without-medication
-  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
-  - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
-  - how-winter-depression-affects-heart-health-in-retired-adults
-  - >-
-    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
-  - how-does-cold-weather-affect-blood-pressure-in-older-adults
 ---
 
 # How Winter Depression and Hypertension Are Connected in Older Adults

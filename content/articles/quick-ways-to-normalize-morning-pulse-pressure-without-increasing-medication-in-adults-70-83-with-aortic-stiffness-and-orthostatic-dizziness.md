@@ -18,13 +18,6 @@ relatedSlugs:
     central-aortic-pressure-foods-74-pulse
   - >-
     quick-ways-to-stabilize-pulse-pressure-fluctuations-during-grocery-shopping-for-adults-70-with-orthostatic-intolerance-and-postprandial-hypotension
-
-  - >-
-    quick-ways-to-stabilize-pulse-pressure-fluctuations-during-grocery-shopping-for-adults-70-with-orthostatic-intolerance-and-postprandial-hypotension
-  - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
-  - >-
-    natural-ways-to-maintain-postprandial-circulation-after-a-holiday-meal-without-walking-or-compression-stockings
 ---
 
 # Simple, Safe Ways to Lower Morning Pulse Pressure Elderly Adults Can Try Today

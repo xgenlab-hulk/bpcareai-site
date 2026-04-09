@@ -20,15 +20,6 @@ relatedSlugs:
     prevent-post-holiday-constipation-naturally
   - >-
     quick-ways-to-restore-post-holiday-gut-motility-in-adults-73-with-chronic-constipation-and-polypharmacy
-  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
-  - >-
-    how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors
-  - >-
-    when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70
-  - >-
-    natural-ways-to-reduce-holiday-constipation-in-seniors-taking-opioids-or-anticholinergics
-  - >-
-    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
 ---
 
 # What Your Digestive System Is Trying to Tell You About Low Fiber Holiday Constipation Calcium—and Why Calcium Supplements Make It Trickier After 65

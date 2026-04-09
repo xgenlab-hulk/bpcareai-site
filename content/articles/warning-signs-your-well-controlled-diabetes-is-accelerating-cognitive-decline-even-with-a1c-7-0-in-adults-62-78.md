@@ -20,13 +20,6 @@ relatedSlugs:
     post-dinner-brain-fog-diabetes-65
   - >-
     hearing-loss-diabetes-cognitive-decline
-  - how-kidney-function-declines-faster-in-older-adults-with-diabetes
-  - >-
-    10-warning-signs-your-controlled-hypertension-is-actually-causing-silent-cerebral-small-vessel-disease-especially-if-you-re-a-woman-over-63
-  - >-
-    warning-signs-your-stable-diabetes-is-accelerating-subclinical-retinal-vascular-remodeling-especially-if-you-re-on-beta-blockers-and-over-71
-  - >-
-    warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks
 ---
 
 # Early Diabetes Cognitive Decline Warning Signs—Even With “Good” A1c in Adults 62–78

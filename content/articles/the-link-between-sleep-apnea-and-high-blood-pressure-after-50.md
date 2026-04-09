@@ -20,11 +20,6 @@ relatedSlugs:
     why-does-heart-disease-progress-faster-in-men-over-55-with-untreated-sleep-apnea
   - >-
     how-sleep-disordered-breathing-severity-ahi-15-alters-nocturnal-bp-recovery-in-adults-66-82-with-normal-looking-daytime-readings
-  - how-sleep-affects-heart-health-after-50
-  - the-link-between-sleep-apnea-and-high-blood-pressure
-  - why-blood-pressure-matters-even-if-you-feel-fine
-  - heart-disease-in-hispanic-adults-over-50-unique-risk-factors
-  - heart-disease-and-chronic-kidney-disease-the-dangerous-connection
 ---
 
 # Understanding the Connection Between Sleep Apnea and High Blood Pressure After 50

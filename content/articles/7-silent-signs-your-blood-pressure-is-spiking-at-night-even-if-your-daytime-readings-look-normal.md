@@ -18,7 +18,6 @@ relatedSlugs:
     how-sleep-disordered-breathing-severity-ahi-15-alters-nocturnal-bp-recovery-in-adults-66-82-with-normal-looking-daytime-readings
   - >-
     why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh
-  - why-blood-pressure-matters-even-if-you-feel-fine
 ---
 
 # Recognizing Nocturnal Hypertension Symptoms in Adults 55+: Why Nighttime BP Matters Even When Daytime Readings Seem Fine

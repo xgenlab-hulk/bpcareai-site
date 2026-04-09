@@ -20,11 +20,6 @@ relatedSlugs:
     should-you-adjust-your-diabetes-medication-during-the-holidays
   - >-
     quick-ways-to-prevent-overnight-hypoglycemia-after-late-night-holiday-dessert-for-adults-54-66-on-sulfonylureas-or-basal-insulin
-  - can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
-  - how-to-monitor-blood-sugar-more-effectively-during-festive-travel
-  - best-blood-sugar-monitoring-practices-during-the-holiday-season
-  - when-to-worry-about-blood-sugar-swings-after-new-year-s-eve
-  - warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know
 ---
 
 # When to Check Blood Sugar on New Year’s Eve: Smart Timing for Safer Celebrations

@@ -18,7 +18,6 @@ relatedSlugs:
     a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
   - >-
     can-you-safely-eat-leftover-turkey-salad-on-day-3-if-you-re-on-metformin-and-have-egfr-62-a-food-safety-renal-glucose-guide
-
 ---
 
 # Best Protein Choices for Holiday Meals When You’re on Warfarin *and* Managing Stage 2 CKD — A Gentle Guide for Seniors 70+

@@ -20,10 +20,6 @@ relatedSlugs:
     why-morning-cortisol-spikes-worsen-dawn-phenomenon-in-adults-62-with-long-standing-type-2-diabetes-and-adrenal-fatigue-symptoms
   - >-
     afternoon-sunlight-gluconeogenesis-type-2-diabetes
-  - the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
-  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
-  - >-
-    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
 ---
 
 # How Late-Night TV Watching Worsens the Dawn Phenomenon in Men Over 72 With Type 2 Diabetes

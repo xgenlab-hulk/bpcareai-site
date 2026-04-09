@@ -20,11 +20,6 @@ relatedSlugs:
     7-silent-signs-your-holiday-blood-sugar-is-spiking-especially-if-you-re-taking-glp-1-agonists-after-age-60
   - >-
     pom-inhibitors-atherosclerosis-gut-microbiome
-
-  - >-
-    pom-inhibitors-atherosclerosis-gut-microbiome
-  - >-
-    periodontitis-postprandial-hyperglycemia
 ---
 
 # How Certain Pills That Raise Blood Sugar Silently—Like Long-Term PPIs—Disrupt Gut-Liver Communication and Worsen Glucose Control in Adults With Prediabetes

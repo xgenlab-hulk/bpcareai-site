@@ -20,12 +20,6 @@ relatedSlugs:
     turkey-preparation-postprandial-systolic-pressure
   - >-
     reheating-holiday-leftovers-mineral-bioavailability-seniors
-  - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
-  - >-
-    the-link-between-holiday-leftovers-and-antibiotic-resistance-in-older-adults-with-chronic-utis
-  - the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
-  - >-
-    reheating-holiday-leftovers-mineral-bioavailability-seniors
 ---
 
 # Slow-Cooked Herb-Roasted Turkey Breast vs. Deep-Fried Turkey Leg: What’s Best for Zinc Bioavailability and Immune Support in Seniors?

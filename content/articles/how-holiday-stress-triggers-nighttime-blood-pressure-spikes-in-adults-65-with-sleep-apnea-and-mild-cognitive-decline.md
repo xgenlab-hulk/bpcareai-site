@@ -18,10 +18,6 @@ relatedSlugs:
     how-sleep-disordered-breathing-severity-ahi-15-alters-nocturnal-bp-recovery-in-adults-66-82-with-normal-looking-daytime-readings
   - >-
     how-chronic-loneliness-after-retirement-alters-autonomic-tone-and-elevates-nocturnal-systolic-pressure-in-adults-68-with-preserved-ejection-fraction
-  - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
-  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
-  - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
-  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
 ---
 
 # How Holiday Stress and Nighttime Blood Pressure in Seniors Interact—Especially With Sleep Apnea and Mild Cognitive Changes

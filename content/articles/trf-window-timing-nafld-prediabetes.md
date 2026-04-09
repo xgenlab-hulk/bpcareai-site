@@ -20,9 +20,6 @@ relatedSlugs:
     how-intermittent-fasting-14-10-affects-overnight-hepatic-glucose-production-in-adults-58-70-with-prediabetes-and-elevated-fasting-insulin
   - >-
     12-science-backed-times-to-measure-fasting-glucose-before-breakfast-not-just-upon-waking-for-adults-65-with-dawn-phenomenon-and-shift-work-history
-
-  - >-
-    protein-first-timing-triglycerides-metabolic-syndrome
 ---
 
 # How TRF Window Timing in NAFLD and Prediabetes Affects Liver Health and Gut Hormones

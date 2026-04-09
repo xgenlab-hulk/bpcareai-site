@@ -20,13 +20,6 @@ relatedSlugs:
     the-truth-about-sugar-free-eggnog-labeled-keto-why-82-of-these-drinks-contain-maltitol-that-triggers-gastric-distress-in-adults-68-with-gastroparesis
   - >-
     sugar-free-candies-and-gastroparesis
-
-  - >-
-    the-truth-about-no-sugar-added-protein-bars-for-men-69-with-diabetic-gastroparesis-and-early-autonomic-neuropathy
-  - >-
-    the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
-  - >-
-    the-truth-about-sugar-free-holiday-cookies-labeled-keto-friendly-why-72-still-contain-maltitol-that-slows-gastric-emptying-in-adults-over-70
 ---
 
 # Why “Senior-Friendly” Holiday Protein Bars Might Be Slowing Your Stomach Down — Especially If You Have Gastroparesis and Maltitol Sensitivity

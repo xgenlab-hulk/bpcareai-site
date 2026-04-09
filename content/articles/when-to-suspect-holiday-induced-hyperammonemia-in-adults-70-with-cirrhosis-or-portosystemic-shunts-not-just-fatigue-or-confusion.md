@@ -18,11 +18,6 @@ relatedSlugs:
     what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners
   - >-
     12-science-backed-ways-to-prevent-post-holiday-delirium-episodes-in-adults-78-with-mild-dementia-and-polypharmacy
-  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know
-  - >-
-    holiday-ham-safety-over-65
 ---
 
 # Recognizing Holiday-Related Hyperammonemia in Older Adults with Cirrhosis or Portosystemic Shunts — A Gentle Guide for Caregivers and Families

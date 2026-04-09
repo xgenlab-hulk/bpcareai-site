@@ -20,12 +20,6 @@ relatedSlugs:
     how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
   - >-
     when-to-worry-about-holiday-weight-gain-if-you-re-75-with-heart-failure-and-preserved-ejection-fraction
-  - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
-  - when-to-worry-about-chest-discomfort-after-a-big-holiday-meal
-  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
-  - why-sudden-weight-gain-could-be-a-red-flag-for-your-heart
-  - >-
-    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
 ---
 
 # Understanding Post-Holiday Weight Gain Concerns After Family Gatherings

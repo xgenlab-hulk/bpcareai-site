@@ -20,11 +20,6 @@ relatedSlugs:
     why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals
   - >-
     understanding-a1c-goals-for-seniors-with-diabetes
-  - how-often-should-adults-over-50-check-their-blood-pressure
-  - managing-diabetes-while-traveling-tips-for-seniors
-  - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
-  - meal-timing-strategies-for-better-blood-sugar-control-after-50
-  - can-walking-after-meals-lower-blood-sugar-in-older-adults
 ---
 
 # Understanding Blood Sugar Monitoring Frequency for Seniors with Diabetes

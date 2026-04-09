@@ -18,15 +18,6 @@ relatedSlugs:
     red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
   - >-
     cardiac-amyloidosis-early-detection-orthostasis
-
-  - >-
-    cardiac-amyloidosis-vs-diastolic-failure
-  - >-
-    when-to-suspect-cardiac-amyloidosis-in-men-73-with-unexplained-left-ventricular-hypertrophy-bilateral-carpal-tunnel-syndrome-and-orthostatic-dizziness
-  - >-
-    red-flags-of-cardiac-amyloidosis-in-men-over-75-that-mimic-copd-or-chronic-fatigue
-  - >-
-    cardiac-amyloidosis-early-detection-orthostasis
 ---
 
 # When Cardiac Amyloidosis vs Hypertensive Heart Disease Should Be Considered in Older Adults with Unexplained LVH

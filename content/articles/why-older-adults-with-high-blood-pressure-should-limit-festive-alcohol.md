@@ -20,10 +20,6 @@ relatedSlugs:
     5-things-every-adult-53-64-with-newly-diagnosed-hypertension-should-know-before-attending-their-first-post-diagnosis-holiday-party
   - >-
     best-non-alcoholic-holiday-drinks-for-heart-health-after-50
-  - the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50
-  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
-  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
-  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
 ---
 
 # Why Older Adults with Hypertension Face Greater Festive Alcohol Risk

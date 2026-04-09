@@ -20,12 +20,6 @@ relatedSlugs:
     traffic-pollution-carotid-thickness-progression
   - >-
     how-morning-blood-pressure-spikes-affect-your-heart
-  - traffic-noise-morning-systolic-blood-pressure
-  - >-
-    why-does-blood-pressure-spike-during-morning-commute-stress-even-with-normal-readings-at-home-in-adults-58-67
-  - >-
-    7-silent-signs-your-blood-pressure-is-spiking-during-hot-summer-mornings-even-with-normal-home-readings
-  - traffic-pollution-carotid-thickness-progression
 ---
 
 # Why Morning Blood Pressure Spike Traffic Exposure Happens — And What It Means for Adults with Early Carotid Plaque

@@ -18,11 +18,6 @@ relatedSlugs:
     10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia
   - >-
     how-holiday-table-seating-arrangements-affect-swallowing-safety-in-adults-82-with-unrecognized-presbyphagia-and-what-to-serve-instead-of-rolls
-  - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
-  - >-
-    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
-  - >-
-    simple-steps-to-modify-a-family-recipe-for-a-loved-one-with-dysphagia-without-losing-flavor-or-cultural-meaning
 ---
 
 # Cold-Weather Holiday Hosting and Dysphagia Safety for Seniors 80+: Practical Tips for Safer Swallowing

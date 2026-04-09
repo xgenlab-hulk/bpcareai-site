@@ -18,11 +18,6 @@ relatedSlugs:
     postprandial-glucose-family-gatherings-prediabetes
   - >-
     7-hidden-blood-sugar-triggers-in-holiday-baking-ingredients-especially-for-women-58-72-with-long-standing-type-2-diabetes
-  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
-  - the-truth-about-sugar-free-holiday-treats-and-your-glucose-levels
-  - >-
-    quick-ways-to-reduce-postprandial-glucose-spikes-within-15-minutes-of-eating-backed-by-2024-rct-data-in-adults-61-76-with-mild-neuropathy
-  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
 ---
 
 # Gingerbread House Blood Sugar Comparison: What Real-World Data Reveals for Adults 58–74

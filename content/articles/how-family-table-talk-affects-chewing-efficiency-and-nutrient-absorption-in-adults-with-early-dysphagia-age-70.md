@@ -20,12 +20,6 @@ relatedSlugs:
     how-cold-weather-holiday-hosting-affects-swallowing-safety-in-adults-80-with-mild-dysphagia-and-reduced-laryngeal-sensation
   - >-
     why-eating-standing-up-at-holiday-buffets-raises-aspiration-risk-in-adults-80-with-subclinical-dysphagia
-  - 5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners
-  - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
-  - >-
-    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
-  - >-
-    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
 ---
 
 # How Family Conversation Chewing Efficiency Impacts Swallowing and Nutrition in Seniors with Early Dysphagia

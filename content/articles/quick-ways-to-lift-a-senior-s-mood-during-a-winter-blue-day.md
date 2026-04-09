@@ -20,11 +20,6 @@ relatedSlugs:
     10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore
   - >-
     7-common-mistakes-that-make-seasonal-depression-worse-in-seniors
-  - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70
-  - natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
-  - how-group-activities-in-senior-centers-prevent-seasonal-depression
-  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
-  - simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
 ---
 
 # Simple, Science-Backed Quick Mood Boosters for Seniors During Winter Blues

@@ -20,11 +20,6 @@ relatedSlugs:
     quick-ways-to-lift-a-senior-s-mood-during-a-winter-blue-day
   - >-
     the-truth-about-vitamin-d-supplementation-for-seasonal-depression-in-men-over-72-with-chronic-kidney-disease-stage-3
-  - how-vitamin-d-deficiency-impacts-heart-health-in-winter
-  - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
-  - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
-  - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
-  - how-winter-depression-affects-heart-health-in-retired-adults
 ---
 
 # Understanding Vitamin D Deficiency in Nursing Homes and Its Link to Winter Mood Changes

@@ -18,11 +18,6 @@ relatedSlugs:
     best-low-sodium-swaps-for-classic-holiday-side-dishes-ranked-by-palatability-potassium-retention-and-ease-of-prep-for-caregivers-over-60
   - >-
     7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
-  - 7-smart-swaps-for-healthier-holiday-meals-after-65
-  - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
-  - >-
-    12-science-backed-ways-to-counteract-holiday-salt-cravings-in-seniors-with-hypertension
-  - low-sodium-alternatives-for-classic-family-recipes-that-still-taste-great
 ---
 
 # Low-Sodium Holiday Condiments for Seniors: Small Swaps, Steady Blood Pressure Through the Season

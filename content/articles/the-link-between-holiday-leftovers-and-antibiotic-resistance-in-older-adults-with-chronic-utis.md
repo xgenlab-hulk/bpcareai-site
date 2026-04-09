@@ -20,11 +20,6 @@ relatedSlugs:
     warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-detected-via-morning-stool-ph-and-bloating-pattern-shifts-in-adults-71
   - >-
     can-you-safely-eat-leftover-turkey-salad-on-day-3-if-you-re-on-metformin-and-have-egfr-62-a-food-safety-renal-glucose-guide
-  - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
-  - easy-make-ahead-freezer-meals-to-reduce-holiday-cooking-stress-for-seniors
-  - the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
-  - what-research-says-about-protein-needs-during-the-holidays-for-frail-seniors
-  - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
 ---
 
 # How Holiday Leftovers, Antibiotic Resistance, and UTIs Intersect in Older Adults

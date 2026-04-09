@@ -18,11 +18,6 @@ relatedSlugs:
     should-you-worry-about-heart-palpitations-when-lying-down
   - >-
     can-sleep-duration-predict-heart-disease-risk-after-55
-  - is-sitting-too-much-harming-your-heart-after-60
-  - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
-  - how-sleep-affects-heart-health-after-50
-  - can-meditation-reduce-heart-disease-risk-after-50
-  - how-retirement-changes-affect-heart-health
 ---
 
 # Can Your Resting Heart Rate Help Predict Longevity After 50?

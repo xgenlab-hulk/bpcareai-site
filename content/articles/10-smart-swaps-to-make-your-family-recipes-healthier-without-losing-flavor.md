@@ -18,11 +18,6 @@ relatedSlugs:
     quick-ways-to-make-store-bought-party-foods-healthier-before-serving
   - >-
     what-to-do-when-your-family-doesn-t-support-your-healthy-eating-choices
-  - 7-smart-swaps-for-healthier-holiday-meals-after-65
-  - 12-smart-swaps-to-manage-blood-sugar-during-holiday-meals
-  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
-  - 7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about
-  - the-link-between-family-food-traditions-and-chronic-disease-risk
 ---
 
 # 10 Delicious Healthy Recipe Swaps for Families That Keep Tradition—and Taste—Intact

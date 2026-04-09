@@ -18,14 +18,6 @@ relatedSlugs:
     5-things-you-should-know-before-starting-a-heart-smart-walking-group-especially-if-you-re-78-with-spinal-stenosis-and-mild-aortic-stenosis
   - >-
     best-low-impact-resistance-exercises-for-adults-82-with-severe-osteoporosis-and-atrial-fibrillation-on-apixaban
-  - the-best-indoor-exercises-for-blood-pressure-control-in-winter
-  - blood-pressure-management-for-sedentary-seniors-in-winter-months
-  - >-
-    best-low-impact-resistance-exercises-for-heart-failure-patients-with-limited-mobility-chair-based-bedside-options
-  - >-
-    can-daily-12-minute-seated-tai-chi-lower-24-hour-systolic-load-in-adults-71-with-isolated-systolic-hypertension-and-mild-gait-instability
-  - >-
-    resistance-training-left-ventricular-hypertrophy
 ---
 
 # Safe, Effective Aortic Stenosis Resistance Exercises for Seniors: Gentle Strength Building Without Strain

@@ -20,12 +20,6 @@ relatedSlugs:
     natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
   - >-
     does-relocating-to-a-sunnier-climate-improve-seasonal-depression-after-70
-  - how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60
-  - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
-  - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
-  - how-chronic-pain-conditions-exacerbate-seasonal-depression-in-older-adults
-  - >-
-    the-hidden-role-of-vitamin-d-deficiency-in-winter-depression-among-nursing-home-residents
 ---
 
 # What Science Says About Melatonin and Seasonal Depression Research in Older Adults

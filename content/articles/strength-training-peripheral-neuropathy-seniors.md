@@ -20,14 +20,6 @@ relatedSlugs:
     best-walking-surface-for-diabetic-glucose
   - >-
     walking-vs-standing-post-dinner-glucose
-  - best-low-impact-exercises-for-managing-diabetes-after-60
-  - >-
-    can-you-reverse-arterial-stiffness-with-just-12-weeks-of-barefoot-walking-on-grass-or-sand-evidence-from-a-pilot-trial-in-sedentary-women-63-71
-  - >-
-    blood-pressure-drops-walking-diabetes-neuropathy
-  - foot-care-basics-every-senior-with-diabetes-should-know
-  - >-
-    5-things-everyone-over-70-with-diabetic-peripheral-neuropathy-should-know-before-attending-a-holiday-open-house
 ---
 
 # Strength Training for Seniors With Peripheral Neuropathy: Safe, Smart, and Science-Backed Modifications

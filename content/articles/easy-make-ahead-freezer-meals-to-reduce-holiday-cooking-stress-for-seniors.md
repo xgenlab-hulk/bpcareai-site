@@ -18,12 +18,6 @@ relatedSlugs:
     holiday-foods-blood-sugar-bp-seniors-70
   - >-
     how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
-  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
-  - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
-  - 7-smart-swaps-for-healthier-holiday-meals-after-65
-  - >-
-    how-grandparents-can-model-healthy-eating-for-families-without-feeling-left-out
-  - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
 ---
 
 # Stress-Free Holiday Feasting: Make-Ahead Freezer Meals for Seniors Holidays

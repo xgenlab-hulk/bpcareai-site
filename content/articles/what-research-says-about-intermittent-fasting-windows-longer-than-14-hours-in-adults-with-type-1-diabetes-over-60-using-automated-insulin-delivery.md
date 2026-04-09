@@ -20,14 +20,6 @@ relatedSlugs:
     can-intermittent-fasting-help-manage-type-2-diabetes-after-60
   - >-
     nocturnal-hypoglycemia-masked-a1c
-  - can-intermittent-fasting-help-manage-type-2-diabetes-after-60
-  - >-
-    what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
-  - >-
-    intermittent-fasting-diastolic-dysfunction-hr
-  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
-  - >-
-    why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
 ---
 
 # Intermittent Fasting and Type 1 Diabetes in Seniors: What the Latest Research Shows for Adults Over 60 Using Automated Insulin Delivery

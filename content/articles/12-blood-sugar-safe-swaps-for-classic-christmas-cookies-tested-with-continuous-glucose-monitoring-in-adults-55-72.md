@@ -18,13 +18,6 @@ relatedSlugs:
     12-smart-swaps-to-manage-blood-sugar-during-holiday-meals
   - >-
     the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
-  - 12-smart-swaps-to-manage-blood-sugar-during-holiday-meals
-  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
-  - >-
-    7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish
-  - 7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
-  - >-
-    can-you-safely-enjoy-holiday-baking-with-type-2-diabetes-and-gastroparesis-a-step-by-step-ingredient-substitution-guide
 ---
 
 # 12 Blood Sugar–Friendly Swaps for Classic Christmas Cookies—Backed by Real Data from Adults 55–72

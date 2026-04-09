@@ -20,11 +20,6 @@ relatedSlugs:
     how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
   - >-
     5-easy-morning-routines-to-stabilize-blood-sugar-after-a-holiday-feast
-  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
-  - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
-  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
-  - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
-  - blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70
 ---
 
 # Quick Ways to Lower Blood Sugar After a Holiday Meal

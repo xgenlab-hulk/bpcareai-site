@@ -18,12 +18,6 @@ relatedSlugs:
     best-walking-surface-for-diabetic-glucose
   - >-
     simple-steps-to-prevent-diabetic-foot-ulcers-during-winter-for-adults-71-with-peripheral-neuropathy-and-indoor-heaters
-
-  - >-
-    strength-training-peripheral-neuropathy-seniors
-  - >-
-    can-you-reverse-arterial-stiffness-with-just-12-weeks-of-barefoot-walking-on-grass-or-sand-evidence-from-a-pilot-trial-in-sedentary-women-63-71
-  - myths-vs-facts-i-don-t-need-to-check-my-feet-daily-because-i-still-feel-pain
 ---
 
 # Optimizing Diabetic Footwear Shear Stress Ulcer Prevention Through Advanced Materials

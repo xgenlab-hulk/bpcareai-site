@@ -20,12 +20,6 @@ relatedSlugs:
     12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
   - >-
     seniors-living-alone-holiday-party-preparedness
-  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
-  - >-
-    how-social-isolation-during-holiday-meals-accelerates-cognitive-decline-in-adults-with-mild-vascular-cognitive-impairment
-  - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
-  - >-
-    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
 ---
 
 # How Holiday Isolation Gut Microbiota Inflammation Seniors Interacts With Digestion and Immunity in Adults 80+

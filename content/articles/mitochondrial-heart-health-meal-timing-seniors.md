@@ -18,7 +18,6 @@ relatedSlugs:
     12-foods-that-enhance-myocardial-mitochondrial-biogenesis-without-increasing-oxidative-stress-for-adults-55-63-with-early-diastolic-dysfunction
   - >-
     mitochondrial-biogenesis-heart-natural
-
 ---
 
 # Science-Backed Mitochondrial Heart Health Meal Timing for Seniors with Early Heart Changes

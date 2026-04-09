@@ -20,11 +20,6 @@ relatedSlugs:
     can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation
   - >-
     how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
-  - how-air-pollution-impacts-heart-health-in-older-adults
-  - how-indoor-air-quality-affects-heart-health-in-winter
-  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
-  - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
-  - is-your-posture-affecting-your-heart-what-older-adults-should-know
 ---
 
 # How Air Pollution Affects Heart Health in Older Adults

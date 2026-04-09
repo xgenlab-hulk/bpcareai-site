@@ -18,11 +18,6 @@ relatedSlugs:
     best-low-insulin-burden-holiday-side-dishes-for-adults-75-with-severe-peripheral-neuropathy-and-slow-gastric-emptying
   - >-
     what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
-- best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
-- best-high-fiber-low-fodmap-holiday-desserts-for-adults-63-76-with-ibs-d-and-fructose-malabsorption
-- best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation
-- best-low-fodmap-high-protein-holiday-snacks-for-women-58-with-ibs-d-and-post-cholecystectomy-bile-acid-malabsorption
-- best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
 ---
 
 # Low-Allergen Holiday Sides for Seniors: Safe, Soothing Options for Adults 75+ with Tree Nut Allergy and EoE

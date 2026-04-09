@@ -20,12 +20,6 @@ relatedSlugs:
     foods-lower-blood-pressure-naturally-53-68
   - >-
     5-things-every-adult-53-64-with-newly-diagnosed-hypertension-should-know-before-attending-their-first-post-diagnosis-holiday-party
-  - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
-  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
-  - >-
-    can-intermittent-fasting-lower-blood-pressure-without-weight-loss-what-the-latest-trials-show
-  - top-5-winter-superfoods-that-naturally-lower-blood-pressure
-  - blood-pressure-and-alcohol-how-much-is-too-much
 ---
 
 # How Alcohol-Free Mocktails Can Support Healthy Blood Pressure in Women Over 55 During New Year’s Celebrations  

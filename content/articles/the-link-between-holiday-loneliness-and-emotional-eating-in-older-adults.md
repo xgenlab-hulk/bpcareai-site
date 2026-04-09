@@ -20,12 +20,6 @@ relatedSlugs:
     how-cold-weather-impacts-appetite-and-food-choices-in-seniors-during-the-holidays
   - >-
     why-emotional-eating-at-family-gatherings-is-common-and-how-to-manage-it
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
-  - >-
-    how-cold-weather-and-holiday-inactivity-combine-to-affect-insulin-sensitivity
-  - how-social-isolation-increases-heart-disease-risk-after-60
-  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
 ---
 
 # Understanding Holiday Loneliness and Emotional Eating in Seniors

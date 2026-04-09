@@ -20,9 +20,6 @@ relatedSlugs:
     the-truth-about-diabetes-friendly-holiday-cookies-what-label-claims-hide-and-what-real-ingredient-ratios-reveal
   - >-
     the-truth-about-sugar-free-holiday-baking-mixes-why-many-still-raise-a1c-in-adults-59-75-with-long-standing-diabetes
-  - the-truth-about-sugar-free-holiday-treats-and-your-glucose-levels
-  - >-
-    the-truth-about-diabetes-friendly-holiday-cookie-kits-why-92-fail-postprandial-glucose-clamp-testing-in-adults-63-with-gastroparesis-like-symptoms
 ---
 
 # The Real Story Behind ‘Diabetic-Friendly’ Holiday Candy — Unpacking the diabetic-friendly candy truth

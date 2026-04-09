@@ -20,12 +20,6 @@ relatedSlugs:
     best-supplements-for-blood-sugar-support-after-50
   - >-
     best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
-  - the-role-of-fiber-in-controlling-blood-sugar-after-50
-  - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
-  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - >-
-    are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - best-fruits-for-diabetics-over-50-and-which-to-limit
 ---
 
 # Do Diabetics Need to Avoid All Sugar After 50? Let’s Clear Up the Confusion

@@ -18,11 +18,6 @@ relatedSlugs:
     the-role-of-potassium-in-managing-blood-pressure-after-50
   - >-
     blood-pressure-and-kidney-health-what-seniors-need-to-know
-  - can-drinking-too-much-water-raise-blood-pressure
-  - how-dehydration-impacts-blood-pressure-levels
-  - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
-  - can-meditation-lower-blood-pressure-naturally
-  - can-deep-breathing-exercises-reduce-high-blood-pressure
 ---
 
 # Does Drinking Water and Blood Pressure Reduction Go Hand in Hand? A Gentle Look at Hydration and Heart Health

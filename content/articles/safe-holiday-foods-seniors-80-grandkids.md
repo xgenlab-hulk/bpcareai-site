@@ -19,11 +19,6 @@ relatedSlugs:
     7-holiday-foods-that-spike-postprandial-glucose-without-tasting-sweet-especially-for-adults-63-with-long-standing-type-2-diabetes
   - >-
     myths-vs-facts-eating-light-at-holiday-dinners-prevents-glucose-spikes-in-adults-62-with-insulin-resistance
-
-  - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
-  - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
-  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
-  - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
 ---
 
 # Holiday Meals Worrying You? Safe Foods Seniors 80+ Can Share with Grandkids—No Blood Sugar Spikes, No GI Distress

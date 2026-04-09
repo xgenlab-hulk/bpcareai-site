@@ -18,11 +18,6 @@ relatedSlugs:
     when-to-worry-about-normal-chest-discomfort-while-gardening-a-5-point-field-assessment-for-women-65-80-with-atypical-angina-presentation
   - >-
     5-things-every-adult-75-with-mild-cognitive-impairment-should-know-before-starting-a-home-based-cardiac-rehab-program
-  - can-gardening-improve-heart-health-after-50
-  - >-
-    5-things-every-adult-75-with-mild-cognitive-impairment-should-know-before-starting-a-home-based-cardiac-rehab-program
-  - >-
-    is-it-safe-to-use-saunas-after-a-recent-myocardial-infarction-guidelines-for-men-62-71-based-on-2024-aha-consensus
 ---
 
 # Gardening After ICD Implant: A Calm, Confident Guide for Seniors 73+ With Heart Failure

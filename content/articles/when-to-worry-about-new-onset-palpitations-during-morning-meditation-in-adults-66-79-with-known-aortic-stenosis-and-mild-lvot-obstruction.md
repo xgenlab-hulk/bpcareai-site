@@ -18,14 +18,6 @@ relatedSlugs:
     should-you-worry-about-heart-palpitations-when-lying-down
   - >-
     when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
-  - can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes
-  - >-
-    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
-  - >-
-    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
-  - quick-ways-to-calm-a-racing-heart-during-a-holiday-event
-  - >-
-    cold-face-immersion-baroreflex-seniors
 ---
 
 # When Palpitations During Morning Meditation Signal Something Important in Adults 66–79 With Aortic Stenosis

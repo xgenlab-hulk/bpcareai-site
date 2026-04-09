@@ -18,14 +18,6 @@ relatedSlugs:
     could-your-medications-be-raising-your-blood-pressure
   - >-
     7-hidden-blood-pressure-triggers-in-over-the-counter-cold-medicines-for-adults-65-with-stage-1-hypertension-and-mild-orthostatic-hypotension
-  - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
-  - >-
-    why-holiday-meal-timing-disrupts-blood-pressure-medication-efficacy-in-men-over-62
-  - >-
-    when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
-  - could-your-medications-be-raising-your-blood-pressure
-  - >-
-    7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
 ---
 
 # Understanding bp medication otc pain reliever interactions over 68: A Safety Guide for Older Adults

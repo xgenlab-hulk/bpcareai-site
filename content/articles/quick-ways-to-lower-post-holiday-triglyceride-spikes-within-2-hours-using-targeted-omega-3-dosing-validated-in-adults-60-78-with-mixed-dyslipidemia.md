@@ -20,11 +20,6 @@ relatedSlugs:
     12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
   - >-
     warning-signs-your-grandchild-s-leftover-mac-and-cheese-is-raising-your-postprandial-triglycerides-especially-after-age-55
-  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
-  - >-
-    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
-  - >-
-    can-you-reverse-insulin-resistance-with-just-3-strategic-holiday-meals-a-14-day-pilot-study-breakdown
 ---
 
 # Quick Ways to Lower Triglycerides After Holiday Meal — Evidence-Based Tips for Adults 60–78

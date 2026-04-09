@@ -20,15 +20,6 @@ relatedSlugs:
     morning-stretching-vs-breath-hold-nocturnal-bp
   - >-
     what-research-says-about-midday-napping-and-nocturnal-bp-dipping-in-adults-63-81-with-non-dipping-patterns-on-ambulatory-monitoring
-
-  - >-
-    resonant-breathing-diastolic-pressure-reduction
-  - >-
-    can-daily-10-minute-cold-water-face-immersion-reduce-sympathetic-tone-and-improve-hrv-within-12-days-in-men-67-with-stage-2-hypertension
-  - >-
-    quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety
-  - >-
-    can-morning-light-exposure-before-8-a-m-reduce-nocturnal-systolic-bp-surges-in-adults-with-stage-1-hypertension-and-mild-sleep-apnea
 ---
 
 # How Intermittent Silence and Non-Dipping BP Are Connected — And What You Can Gently Do About It

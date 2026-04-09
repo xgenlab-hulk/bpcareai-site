@@ -20,11 +20,6 @@ relatedSlugs:
     how-chronic-low-grade-gum-inflammation-drives-coronary-plaque-instability-and-why-scaling-alone-isn-t-enough-for-adults-62-with-periodontitis-and-cad
   - >-
     gum-disease-and-coronary-artery-function
-  - the-hidden-link-between-gum-disease-and-heart-problems
-  - are-morning-stiff-joints-a-sign-of-inflammation-that-hurts-your-heart
-  - can-hearing-loss-be-an-early-sign-of-heart-disease
-  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
-  - how-vision-changes-might-be-linked-to-heart-disease
 ---
 
 # The Surprising Link Between Poor Dental Hygiene and Heart Disease

@@ -18,13 +18,6 @@ relatedSlugs:
     enhance-hepatic-insulin-clearance-natural
   - >-
     does-daily-500-mg-of-berberine-improve-central-aortic-systolic-pressure-in-adults-54-68-with-metabolic-syndrome-and-elevated-augmentation-index
-  - is-metformin-still-safe-for-diabetics-over-70
-  - >-
-    the-truth-about-herbal-supplements-and-blood-pressure-which-ones-help-which-harm-and-which-interfere-with-medications
-  - >-
-    does-daily-500-mg-of-berberine-improve-central-aortic-systolic-pressure-in-adults-54-68-with-metabolic-syndrome-and-elevated-augmentation-index
-  - >-
-    10-unexpected-medication-interactions-that-spike-blood-glucose-in-adults-62-taking-metformin-and-probiotics
 ---
 
 # Is It Safe to Take Berberine With Metformin If You’re Over 74 and Have Mild Liver Fibrosis? What Liver Enzymes and FibroScan Tell Us

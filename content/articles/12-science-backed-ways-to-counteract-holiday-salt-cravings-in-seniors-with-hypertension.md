@@ -18,10 +18,6 @@ relatedSlugs:
     myths-vs-facts-salt-sensitivity-in-adults-74-with-long-standing-hypertension-why-82-of-salt-sensitive-diagnoses-are-based-on-outdated-protocols
   - >-
     how-hearing-loss-alters-flavor-perception-and-drives-excessive-salt-use-at-holiday-meals-in-adults-79-with-presbycusis
-  - the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
-  - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
-  - 7-smart-swaps-for-healthier-holiday-meals-after-65
-  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 ---
 
 # 12 Gentle, Science-Supported Ways to Reduce Salt Cravings in Seniors With Hypertension

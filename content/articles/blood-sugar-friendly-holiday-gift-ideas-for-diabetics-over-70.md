@@ -18,11 +18,6 @@ relatedSlugs:
     can-eggnog-and-desserts-be-part-of-a-diabetic-holiday-diet-after-60
   - >-
     diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
-  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
-  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
-  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
 ---
 
 # Thoughtful and Blood Sugar-Friendly Holiday Gifts for Diabetics Over 70

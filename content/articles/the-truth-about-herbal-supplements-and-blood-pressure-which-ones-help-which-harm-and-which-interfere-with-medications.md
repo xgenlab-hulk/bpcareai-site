@@ -20,11 +20,6 @@ relatedSlugs:
     7-hidden-medication-interactions-that-raise-systolic-pressure-in-adults-72-taking-antidepressants-and-calcium-channel-blockers
   - >-
     when-to-worry-about-a-single-bp-reading-over-180-110-especially-if-you-re-taking-nsaids-antidepressants-or-decongestants
-  - best-supplements-for-blood-sugar-support-after-50
-  - >-
-    when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
-  - could-your-medications-be-raising-your-blood-pressure
-  - top-5-winter-superfoods-that-naturally-lower-blood-pressure
 ---
 
 # Herbal Supplements and Blood Pressure: What Really Helps, Harms, or Interferes With Your Medications

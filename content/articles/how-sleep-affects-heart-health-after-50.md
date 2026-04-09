@@ -20,11 +20,6 @@ relatedSlugs:
     should-you-worry-about-heart-palpitations-when-lying-down
   - >-
     warning-signs-of-right-sided-heart-strain-in-adults-75-with-untreated-sleep-apnea-and-pulmonary-hypertension-before-edema-appears
-  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
-  - does-laughter-really-protect-your-heart-after-50
-  - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
-  - can-gardening-improve-heart-health-after-50
-  - is-your-posture-affecting-your-heart-what-older-adults-should-know
 ---
 
 # How Quality Sleep Supports Heart Health After 50

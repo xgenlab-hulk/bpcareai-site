@@ -18,11 +18,6 @@ relatedSlugs:
     the-truth-about-sugar-free-holiday-desserts-for-seniors-on-glp-1-agonists-why-some-artificial-sweeteners-worsen-nausea-and-hypoglycemia-risk
   - >-
     natural-ways-to-support-postprandial-glp-1-secretion-during-holiday-meals-without-medication-or-supplements
-  - what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
-  - why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
-  - recognizing-silent-heart-attacks-in-diabetics-over-60
 ---
 
 # 7 Subtle Clues Your Blood Sugar Is Rising During the Holidays—Especially on GLP-1 Drugs After 60

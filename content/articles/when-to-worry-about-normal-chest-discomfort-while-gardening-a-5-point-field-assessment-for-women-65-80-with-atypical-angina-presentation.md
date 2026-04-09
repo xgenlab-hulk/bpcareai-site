@@ -20,12 +20,6 @@ relatedSlugs:
     why-women-s-heart-attack-symptoms-differ-after-menopause
   - >-
     atypical-angina-jaw-tightness-classical-music
-  - what-are-the-first-signs-of-holiday-heart-syndrome-in-women
-  - when-to-worry-about-chest-tightness-in-cold-weather
-  - >-
-    holiday-heart-syndrome-vs-acute-coronary-syndrome-key-differences-in-presentation-for-men-over-70
-  - >-
-    a-deep-dive-into-sleep-apnea-screening-gaps-why-your-normal-oxygen-saturation-doesn-t-rule-out-cardiac-strain-in-women-over-60
 ---
 
 # When Chest Discomfort While Gardening Isn’t Just “Getting Older”—A Gentle Guide to Spotting Atypical Angina in Women Gardening

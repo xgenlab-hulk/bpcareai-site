@@ -18,11 +18,6 @@ relatedSlugs:
     the-truth-about-winter-weight-gain-and-heart-strain-after-60
   - >-
     how-chronic-lung-conditions-amplify-heart-risks-in-winter
-  - the-best-indoor-exercises-for-blood-pressure-control-in-winter
-  - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70
-  - how-indoor-air-quality-affects-heart-health-in-winter
-  - why-winter-increases-heart-attack-risk-in-seniors-over-70
-  - 5-silent-signs-your-heart-is-struggling-in-cold-weather
 ---
 
 # Safe Winter Exercises for Seniors: 10 Heart-Healthy Activities to Stay Active After 65

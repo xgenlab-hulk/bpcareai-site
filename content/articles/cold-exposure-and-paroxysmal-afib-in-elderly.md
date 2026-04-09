@@ -18,7 +18,6 @@ relatedSlugs:
     how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
   - >-
     how-cold-weather-induced-vasoconstriction-alters-renal-sympathetic-nerve-activity-in-adults-70-with-hypertension-and-mild-diastolic-dysfunction
-  - quick-ways-to-calm-a-racing-heart-during-a-holiday-event
 ---
 
 # Why Cold Exposure and Paroxysmal AFib in Elderly Adults Can Strike at Holiday Gatherings—and How to Respond Fast

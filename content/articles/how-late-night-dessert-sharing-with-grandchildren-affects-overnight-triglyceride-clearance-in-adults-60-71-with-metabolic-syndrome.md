@@ -18,7 +18,6 @@ relatedSlugs:
     how-late-night-gift-wrapping-alters-hepatic-insulin-clearance-and-why-that-raises-fasting-glucose-next-morning-in-adults-62-with-nafld-and-normal-bmi
   - >-
     quick-ways-to-normalize-postprandial-triglyceride-clearance-in-adults-67-with-diabetic-dyslipidemia-and-elevated-apoc-iii
-  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
 ---
 
 # How Late-Night Dessert Sharing Affects Triglyceride Clearance in Adults With Metabolic Syndrome

@@ -20,11 +20,6 @@ relatedSlugs:
     the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
   - >-
     7-silent-signs-your-holiday-meal-is-triggering-hidden-hypertension-fluctuations-especially-after-age-62
-  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
-  - >-
-    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
-  - >-
-    7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker
 ---
 
 # Hidden Sodium in Holiday Meals That Fuel Insulin Resistance — What Adults 55–64 With Stage 1 Hypertension and New Diabetes Diagnosis Need to Know  

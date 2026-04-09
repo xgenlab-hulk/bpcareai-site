@@ -18,15 +18,6 @@ relatedSlugs:
     5-foods-that-support-gut-microbiome-resilience-during-multi-day-family-gatherings-for-adults-55-69-with-ibs-d-and-seasonal-stress-induced-flares
   - >-
     best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
-  - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
-  - >-
-    best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation
-  - >-
-    best-high-fiber-low-fodmap-holiday-desserts-for-adults-63-76-with-ibs-d-and-fructose-malabsorption
-  - >-
-    best-high-fiber-low-residue-holiday-sides-for-seniors-with-diverticulosis-or-ibs
-  - >-
-    best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
 ---
 
 # Low-FODMAP Holiday Snacks for Seniors with IBS: Gentle, Festive & Gut-Friendly Bites

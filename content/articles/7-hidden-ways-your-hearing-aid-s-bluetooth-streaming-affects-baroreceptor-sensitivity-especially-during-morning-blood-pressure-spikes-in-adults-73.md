@@ -18,9 +18,6 @@ relatedSlugs:
     hearing-aids-baroreflex-sensitivity-diastolic-dysfunction
   - >-
     7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
-  - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
-  - >-
-    how-long-term-exposure-to-low-frequency-noise-e-g-hvac-traffic-hum-elevates-24-hour-ambulatory-bp-in-adults-63-living-in-urban-high-rises
 ---
 
 # How Hearing Aids and Morning Blood Pressure Spikes May Interact — What Adults 73+ Should Know

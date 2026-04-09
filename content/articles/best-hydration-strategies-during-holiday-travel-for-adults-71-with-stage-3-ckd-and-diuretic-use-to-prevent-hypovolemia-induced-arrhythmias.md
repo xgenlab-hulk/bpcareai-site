@@ -18,13 +18,6 @@ relatedSlugs:
     holiday-hydration-glucose-homeostasis-polypharmacy
   - >-
     why-dehydration-at-holiday-events-may-worsen-heart-palpitations
-
-  - >-
-    quick-ways-to-stabilize-post-meal-sodium-excretion-in-adults-63-with-ckd-stage-3-and-high-volume-holiday-soups
-  - >-
-    the-complete-guide-to-holiday-hydration-for-adults-76-with-reduced-thirst-sensation-mild-hyponatremia-history-and-diuretic-use
-  - >-
-    12-evidence-based-hydration-strategies-to-prevent-holiday-heart-syndrome-in-adults-62-with-mild-dehydration-induced-qt-prolongation
 ---
 
 # Safe Holiday Travel Hydration for Adults 71+ With Stage 3 CKD and Diuretic Use: A Practical Guide to Holiday Travel Hydration Arrhythmia Prevention

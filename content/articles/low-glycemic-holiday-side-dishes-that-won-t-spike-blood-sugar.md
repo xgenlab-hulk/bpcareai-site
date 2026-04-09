@@ -20,11 +20,6 @@ relatedSlugs:
     7-holiday-foods-that-spike-postprandial-glucose-without-tasting-sweet-especially-for-adults-63-with-long-standing-type-2-diabetes
   - >-
     7-hidden-sources-of-added-sugar-in-healthy-holiday-side-dishes-from-roasted-carrots-to-cranberry-relish
-  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
-  - 12-smart-swaps-to-manage-blood-sugar-during-holiday-meals
-  - 10-heart-healthy-swaps-for-traditional-holiday-dishes-after-50
-  - 7-smart-swaps-for-healthier-holiday-meals-after-65
-  - best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season
 ---
 
 # Low-Glycemic Holiday Side Dishes That Keep Your Blood Sugar Steady

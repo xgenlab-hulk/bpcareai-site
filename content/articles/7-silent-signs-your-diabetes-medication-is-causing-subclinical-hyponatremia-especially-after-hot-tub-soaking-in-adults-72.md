@@ -19,7 +19,6 @@ relatedSlugs:
     10-foods-that-support-glycemic-resilience-during-heat-waves-especially-for-adults-70-with-diabetes-and-medication-induced-hyponatremia-risk
   - >-
     warning-signs-your-holiday-healthy-swap-is-causing-hidden-hyponatremia-in-adults-76-on-thiazide-diuretics
-
 ---
 
 # 7 Quiet Clues Your Diabetes Medication Might Be Lowering Sodium—Especially After Hot-Tub Soaking in Adults 72+

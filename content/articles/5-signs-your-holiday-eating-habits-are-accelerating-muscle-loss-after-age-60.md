@@ -18,12 +18,6 @@ relatedSlugs:
     myths-vs-facts-eating-light-during-holidays-doesn-t-mean-skipping-meals-here-s-why-for-seniors
   - >-
     5-mistakes-that-make-holiday-weight-gain-harder-to-reverse-after-age-58
-  - what-research-says-about-protein-needs-during-the-holidays-for-frail-seniors
-  - 5-mistakes-that-make-holiday-weight-gain-harder-to-reverse-after-age-58
-  - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
-  - >-
-    warning-signs-your-senior-loved-one-is-using-food-to-cope-with-holiday-grief-or-loneliness
-  - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
 ---
 
 # Are Your Holiday Eating Habits Secretly Weakening Your Muscles After Age 60?

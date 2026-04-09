@@ -18,9 +18,6 @@ relatedSlugs:
     best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
   - >-
     10-silent-signs-your-heart-is-struggling-during-summer-heat-even-with-normal-baseline-bp-and-pulse-in-adults-65
-  - heart-disease-risks-for-retirees-living-in-high-altitude-areas
-  - >-
-    12-science-backed-ways-to-reduce-left-atrial-strain-variability-during-air-travel-for-adults-with-paroxysmal-afib-and-mild-copd
 ---
 
 # 7 Subtle Heart Strain Symptoms During Air Travel Seniors Should Watch For — Especially With Diastolic Dysfunction or Mild Hypoxemia

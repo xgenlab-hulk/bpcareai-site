@@ -18,11 +18,6 @@ relatedSlugs:
     myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs
   - >-
     the-truth-about-benign-holiday-palpitations-are-they-really-harmless
-  - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
-  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
-  - can-one-night-of-heavy-drinking-cause-heart-problems-in-people-over-55
-  - can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors
-  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
 ---
 
 # Heart Palpitations After Parties—Even Though You Never Touch Alcohol?  

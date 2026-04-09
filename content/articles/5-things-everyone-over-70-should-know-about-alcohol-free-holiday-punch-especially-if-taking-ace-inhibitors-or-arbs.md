@@ -18,9 +18,6 @@ relatedSlugs:
     warning-signs-your-holiday-turkey-gravy-is-causing-subclinical-hyperkalemia-especially-in-adults-73-with-stage-3-ckd-and-ace-inhibitor-use
   - >-
     7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
-  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
-  - >-
-    5-things-you-should-know-before-accepting-a-holiday-potluck-dish-if-you-re-on-a-low-potassium-renal-diet-at-age-74
 ---
 
 # Can Alcohol-Free Holiday Punch Raise Your Potassium If You Take ACE Inhibitors or ARBs?

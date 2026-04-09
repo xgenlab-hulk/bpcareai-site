@@ -18,12 +18,6 @@ relatedSlugs:
     5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension
   - >-
     blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short
-  - blood-pressure-changes-during-menopause-what-women-should-know
-  - how-menopause-affects-heart-disease-risk-in-women
-  - how-menopause-affects-blood-sugar-control-in-women-with-diabetes
-  - can-cold-weather-raise-your-blood-pressure
-  - >-
-    5-things-every-woman-over-62-should-know-before-starting-menopause-hormone-therapy-especially-if-you-have-masked-hypertension
 ---
 
 # Understanding Blood Pressure Changes During Menopause: What Women Need to Know

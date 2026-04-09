@@ -20,13 +20,6 @@ relatedSlugs:
     myths-vs-facts-i-ll-just-skip-breakfast-to-save-calories-for-thanksgiving-dinner-why-this-backfires-for-adults-with-metabolic-syndrome
   - >-
     foods-lower-triglycerides-glucose-seniors
-  - the-role-of-fiber-in-preventing-blood-sugar-spikes-at-holiday-dinners
-  - >-
-    12-science-backed-ways-to-reduce-postprandial-triglyceride-spikes-after-age-65-especially-with-a-sedentary-lifestyle
-  - >-
-    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
-  - >-
-    12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
 ---
 
 # A Smart Pre-Load Plate Strategy for Adults With Metabolic Syndrome Facing a Family Feast

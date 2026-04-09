@@ -18,9 +18,6 @@ relatedSlugs:
     when-should-you-skip-the-holiday-buffet-entirely-4-clinical-red-flags-that-signal-high-risk-eating-for-adults-76-with-stage-4-ckd
   - >-
     quick-ways-to-stabilize-post-meal-sodium-excretion-in-adults-63-with-ckd-stage-3-and-high-volume-holiday-soups
-  - can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure
-  - >-
-    the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease
 ---
 
 # Shared Holiday Meal Hypertension CK3: Navigating Dual-Diet Needs at Family Gatherings

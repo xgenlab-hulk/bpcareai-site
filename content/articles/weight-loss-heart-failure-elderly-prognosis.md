@@ -18,11 +18,6 @@ relatedSlugs:
     why-does-heart-failure-progress-despite-stable-nt-probnp-in-adults-66-with-iron-deficiency-anemia-and-elevated-hepcidin
   - >-
     heart-rate-recovery-and-hfpef-mortality
-  - the-truth-about-winter-weight-gain-and-heart-strain-after-60
-  - >-
-    when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss
-  - >-
-    hfpref-misdiagnosed-as-aging-women
 ---
 
 # Why Unintentional Weight Loss in Older Adults With Heart Failure Is a Powerful Clue for Prognosis — And What It Means for Heart Health

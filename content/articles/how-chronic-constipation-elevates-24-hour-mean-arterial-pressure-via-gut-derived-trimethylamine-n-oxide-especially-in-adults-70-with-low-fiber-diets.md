@@ -20,7 +20,6 @@ relatedSlugs:
     how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors
   - >-
     how-chronic-constipation-increases-24-hour-systolic-blood-pressure-in-women-67-82-and-what-to-do-about-it
-
 ---
 
 # How Chronic Constipation, TMAO, and Mean Arterial Pressure Interact — Especially in Adults 70+ With Low-Fiber Diets

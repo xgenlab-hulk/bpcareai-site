@@ -20,9 +20,6 @@ relatedSlugs:
     vagal-breathing-central-systolic-pressure
   - >-
     best-breathing-patterns-for-reducing-right-ventricular-afterload-in-adults-67-80-with-pulmonary-hypertension-and-sarcopenia
-  - vagal-breathing-central-systolic-pressure
-  - >-
-    best-seated-resistance-band-exercises-with-real-time-bp-feedback-for-adults-80-with-orthostatic-intolerance-and-severe-knee-osteoarthritis
 ---
 
 # Gentle Seated Breathing with Real-Time HRV Feedback for Older Adults Living with Frailty

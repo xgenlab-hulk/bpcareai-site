@@ -19,12 +19,6 @@ relatedSlugs:
     5-surprising-foods-that-may-trigger-holiday-heart-syndrome
   - >-
     can-holiday-leftovers-increase-fall-risk-in-adults-77-with-vitamin-d-deficiency-and-mild-postural-instability
-  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
-
-  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
-  - >-
-    7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs
-
 ---
 
 # Holiday Foods and Cardiac Afterload — What Adults 66+ With Mild LVH Need to Know

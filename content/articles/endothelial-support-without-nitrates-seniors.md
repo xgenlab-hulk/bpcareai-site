@@ -18,14 +18,6 @@ relatedSlugs:
     12-foods-that-delay-endothelial-senescence-not-just-lower-bp-including-black-garlic-extract-germinated-brown-rice-and-low-age-roasted-chickpeas-for-adults-60
   - >-
     natural-ways-to-support-endothelial-repair-after-acute-hypertensive-crisis-for-adults-65-with-prior-bp-220-120-and-microalbuminuria
-
-  - >-
-    boost-nitric-oxide-naturally-seniors
-  - >-
-    sirt1-activating-foods-endothelial-dysfunction-flow-mediated-dilation
-
-  - >-
-    boost-nitric-oxide-naturally-seniors
 ---
 
 # Endothelial Support Without Nitrates for Seniors: Safe, Effective Foods for Adults 66+ With Gastric Atrophy

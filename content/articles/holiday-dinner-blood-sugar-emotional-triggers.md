@@ -20,13 +20,6 @@ relatedSlugs:
     what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners
   - >-
     how-family-gatherings-affect-blood-sugar-in-men-over-60-with-diabetes
-
-  - >-
-    how-emotional-eating-patterns-shift-during-multigenerational-gatherings-and-why-that-matters-for-adults-with-long-standing-type-2-diabetes
-  - >-
-    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
-  - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
-  - why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope
 ---
 
 # Why Holiday Dinner Blood Sugar Emotional Triggers Hit Harder After 64 — And What You Can Gently Do About It

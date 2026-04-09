@@ -18,12 +18,6 @@ relatedSlugs:
     5-things-everyone-over-73-should-know-about-holiday-nuts-including-which-varieties-worsen-atrial-fibrillation-triggers-in-winter
   - >-
     when-to-suspect-holiday-induced-hypomagnesemia-in-adults-67-with-atrial-fibrillation-and-long-term-ppi-use
-  - can-energy-drinks-at-holiday-parties-cause-heart-problems-in-seniors
-  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
-  - >-
-    the-truth-about-heart-healthy-holiday-wine-labels-what-polyphenol-claims-don-t-disclose-for-seniors-on-beta-blockers
-  - >-
-    7-hidden-sources-of-dietary-nitrate-that-trigger-headaches-in-seniors-on-nitrates-for-angina
 ---
 
 # 10 Holiday Medication Interactions for AFib Drugs You Should Review Before Thanksgiving Dinner

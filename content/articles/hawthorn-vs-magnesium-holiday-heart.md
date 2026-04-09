@@ -18,9 +18,6 @@ relatedSlugs:
     is-holiday-heart-syndrome-reversible-what-science-says
   - >-
     simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction
-  - the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
-  - >-
-    normalize-glucose-variability-72-hours-magnesium
 ---
 
 # Chamomile-Hawthorn Decoction vs. Magnesium Glycinate for Nocturnal AFib in Men with Holiday Heart Syndrome: What the Data Shows

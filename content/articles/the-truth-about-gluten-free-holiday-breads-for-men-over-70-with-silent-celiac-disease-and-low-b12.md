@@ -20,7 +20,6 @@ relatedSlugs:
     myths-vs-facts-gluten-free-holiday-stuffing-for-adults-66-with-celiac-disease-and-latent-autoimmune-thyroiditis
   - >-
     when-to-worry-about-sudden-post-dinner-confusion-in-adults-73-with-undiagnosed-b12-deficiency-and-high-fat-holiday-meals
-  - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
 ---
 
 # Why Gluten-Free Holiday Bread Can Hide a B12 Deficiency Risk for Men Over 70

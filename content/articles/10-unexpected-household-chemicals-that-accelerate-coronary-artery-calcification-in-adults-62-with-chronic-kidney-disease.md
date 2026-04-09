@@ -18,9 +18,6 @@ relatedSlugs:
     heart-disease-and-chronic-kidney-disease-the-dangerous-connection
   - >-
     12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
-
-  - >-
-    7-hidden-sources-of-oxalates-in-holiday-salads-and-sides-that-may-trigger-nephrocalcinosis-in-adults-with-stage-2-ckd-over-60
 ---
 
 # Household Chemicals and Coronary Artery Calcification in Seniors: What Adults 62+ With Chronic Kidney Disease Should Know

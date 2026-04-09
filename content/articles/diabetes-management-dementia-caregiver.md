@@ -18,13 +18,6 @@ relatedSlugs:
     10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit
   - >-
     how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
-
-  - >-
-    diabetes-management-dementia-caregiver
-  - >-
-    5-things-every-caregiver-should-know-before-serving-holiday-meals-to-someone-76-with-type-1-diabetes-and-autonomic-neuropathy
-  - >-
-    10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit
 ---
 
 # Smart Diabetes Management for Caregivers: What Everyone Over 65 Needs to Know When Caring for a Spouse With Dementia

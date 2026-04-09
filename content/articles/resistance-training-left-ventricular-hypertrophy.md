@@ -20,9 +20,6 @@ relatedSlugs:
     the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
   - >-
     resistance-training-after-aortic-valve-replacement
-  - can-strength-training-lower-heart-disease-risk-after-60
-  - >-
-    hiit-vs-walking-pulse-pressure-prehypertension
 ---
 
 # Can Resistance Training Left Ventricular Hypertrophy Be Reversed in Older Adults With Controlled Hypertension?

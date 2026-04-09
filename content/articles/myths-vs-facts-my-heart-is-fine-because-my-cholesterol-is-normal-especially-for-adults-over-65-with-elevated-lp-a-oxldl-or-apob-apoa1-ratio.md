@@ -18,10 +18,6 @@ relatedSlugs:
     the-truth-about-heart-healthy-omega-6-rich-vegetable-oils-in-adults-55-70-with-elevated-oxidized-ldl-and-low-hdl2-subfraction
   - >-
     why-men-over-50-should-monitor-cholesterol-even-without-symptoms
-  - can-high-cholesterol-cause-heart-disease-even-with-normal-blood-pressure
-  - >-
-    can-intermittent-fasting-lower-ldl-particle-count-in-men-with-familial-hypercholesterolemia-over-50
-  - why-men-over-50-should-monitor-cholesterol-even-without-symptoms
 ---
 
 # Cholesterol Normal But Heart Risk High Elders: Why “Fine Numbers” Don’t Always Mean a Healthy Heart

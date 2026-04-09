@@ -20,13 +20,6 @@ relatedSlugs:
     myths-vs-facts-eating-light-during-holidays-doesn-t-mean-skipping-meals-here-s-why-for-seniors
   - >-
     warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
-  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
-  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
-  - >-
-    top-6-nutrient-dense-side-dishes-to-add-to-your-senior-friendly-holiday-table
-  - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
-  - >-
-    5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily
 ---
 
 # Optimizing Protein Intake for Frail Seniors During the Holiday Season  

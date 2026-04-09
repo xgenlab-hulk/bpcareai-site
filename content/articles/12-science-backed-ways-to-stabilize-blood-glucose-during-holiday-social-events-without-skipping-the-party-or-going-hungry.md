@@ -18,12 +18,6 @@ relatedSlugs:
     5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
   - >-
     simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
-  - managing-type-2-diabetes-while-attending-back-to-back-holiday-parties
-  - 5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
-  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
-  - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
-  - >-
-    pre-kitchen-glycemic-anchoring-insulin-resistance
 ---
 
 # Blood Sugar Swinging at Holiday Parties? What Adults 50-74 Must Know (No Fasting Required)

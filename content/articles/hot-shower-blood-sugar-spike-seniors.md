@@ -20,7 +20,6 @@ relatedSlugs:
     why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
   - >-
     7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
-  - the-impact-of-hot-showers-on-blood-pressure-and-heart-rate
 ---
 
 # Why Hot Shower Blood Sugar Spikes Happen in Seniors — And How to Avoid Misreading Your Glucose

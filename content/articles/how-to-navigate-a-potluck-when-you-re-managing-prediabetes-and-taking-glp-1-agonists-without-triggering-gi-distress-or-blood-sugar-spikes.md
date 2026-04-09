@@ -20,9 +20,6 @@ relatedSlugs:
     the-truth-about-sugar-free-holiday-desserts-for-seniors-on-glp-1-agonists-why-some-artificial-sweeteners-worsen-nausea-and-hypoglycemia-risk
   - >-
     when-should-you-switch-from-fasting-glucose-to-2-hour-postprandial-testing-especially-if-you-re-over-72-and-taking-glp-1-agonists
-  - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
-  - >-
-    10-things-every-caregiver-should-know-before-packing-a-diabetic-friendly-meal-for-a-senior-s-holiday-visit
 ---
 
 # How to Enjoy a Potluck Safely When You Have Prediabetes and Use GLP-1 Agonists  

@@ -20,14 +20,6 @@ relatedSlugs:
     how-chronic-inflammation-worsens-type-2-diabetes-after-50
   - >-
     12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
-  - how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
-  - >-
-    why-does-fasting-glucose-rise-overnight-in-adults-65-with-type-2-diabetes-even-when-they-skip-dinner
-  - >-
-    7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
-  - >-
-    warning-signs-your-holiday-weight-gain-is-driving-visceral-fat-accumulation-and-how-that-changes-your-a1c-trajectory-in-3-weeks
-  - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
 ---
 
 # When Unexplained Weight Gain in Women Over 55 With Type 2 Diabetes Deserves Gentle Attention  

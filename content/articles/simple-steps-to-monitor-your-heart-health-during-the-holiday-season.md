@@ -20,12 +20,6 @@ relatedSlugs:
     how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - >-
     the-hidden-link-between-holiday-stress-and-irregular-heartbeat
-  - best-blood-sugar-monitoring-practices-during-the-holiday-season
-  - >-
-    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
-  - 12-simple-ways-to-prevent-holiday-heart-syndrome-naturally
-  - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
-  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
 ---
 
 # How to Safely Monitor Heart Health During the Holidays

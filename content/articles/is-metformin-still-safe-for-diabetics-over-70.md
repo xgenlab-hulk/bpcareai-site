@@ -20,11 +20,6 @@ relatedSlugs:
     myths-vs-facts-i-ll-just-take-an-extra-metformin-pill-to-offset-holiday-pie-why-this-increases-lactic-acidosis-risk-in-adults-with-mild-ckd-stage-2
   - >-
     best-oral-diabetes-meds-men-over-60
-  - managing-diabetes-while-traveling-tips-for-seniors
-  - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
-  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
-  - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
-  - best-low-impact-exercises-for-managing-diabetes-after-60
 ---
 
 # Is Metformin Still Safe for Older Adults with Diabetes? Understanding Metformin Safety for Elderly with Diabetes

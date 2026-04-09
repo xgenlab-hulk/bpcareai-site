@@ -18,15 +18,6 @@ relatedSlugs:
     natural-ways-to-support-arterial-stiffness-reduction-in-8-12-weeks-using-targeted-flavonoid-timing-and-pulse-wave-velocity-feedback-in-adults-64-80
   - >-
     arterial-stiffness-reduction-without-nitrates
-
-  - >-
-    natural-ways-to-improve-endothelial-function-without-medication-evidence-from-12-clinical-trials-in-adults-55-74
-  - >-
-    how-chronic-low-grade-dehydration-worsens-arterial-stiffness-in-women-with-stage-1-hypertension-over-58
-  - >-
-    cold-exposure-and-paroxysmal-afib-in-elderly
-  - >-
-    how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55
 ---
 
 # Can Barefoot Walking on Grass or Sand Gently Support Arterial Health? What a 12-Week Pilot Study in Older Women Suggests

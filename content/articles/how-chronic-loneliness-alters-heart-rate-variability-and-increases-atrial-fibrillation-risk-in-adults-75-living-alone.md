@@ -20,10 +20,6 @@ relatedSlugs:
     how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone
   - >-
     how-social-isolation-impacts-heart-disease-risk-in-older-adults
-  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
-  - how-social-isolation-increases-heart-disease-risk-after-60
-  - >-
-    how-family-singing-carols-together-alters-hrv-and-reduces-afib-episodes-in-adults-with-mild-heart-failure-new-data-from-a-2024-long-term-cohort-study
 ---
 
 # How Loneliness and Atrial Fibrillation Risk Are Connected in Older Adults Living Alone

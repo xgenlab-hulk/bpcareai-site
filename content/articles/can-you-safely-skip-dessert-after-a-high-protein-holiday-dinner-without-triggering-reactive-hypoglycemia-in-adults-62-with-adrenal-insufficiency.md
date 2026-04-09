@@ -18,12 +18,6 @@ relatedSlugs:
     why-your-holiday-energy-crash-may-be-postprandial-hypoglycemia-not-just-fatigue-in-adults-50-59-with-reactive-hypoglycemia-history
   - >-
     7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
-  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
-  - >-
-    myths-vs-facts-just-skip-dessert-is-enough-to-control-blood-sugar-during-holidays-what-continuous-glucose-data-shows-in-adults-61-74
-  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
-  - >-
-    10-foods-that-stabilize-fasting-glucose-without-lowering-it-for-adults-62-with-history-of-hypoglycemia-and-age-related-adrenal-blunting
 ---
 
 # Can Skipping Dessert After a High-Protein Holiday Meal Trigger Reactive Hypoglycemia in Seniors With Adrenal Insufficiency? Understanding skip dessert reactive hypoglycemia seniors

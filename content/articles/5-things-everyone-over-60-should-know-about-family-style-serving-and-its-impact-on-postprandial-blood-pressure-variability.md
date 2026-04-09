@@ -18,8 +18,6 @@ relatedSlugs:
     12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
   - >-
     7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-adults-72-with-isolated-systolic-hypertension-and-what-to-serve-instead
-
-  - how-family-gatherings-affect-blood-sugar-in-men-over-60-with-diabetes
 ---
 
 # Family-Style Meals Raising Your Blood Pressure? What Seniors 60+ Need to Know About Post-Meal Spikes

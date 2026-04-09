@@ -20,11 +20,6 @@ relatedSlugs:
     simple-steps-to-stay-hydrated-during-winter-holidays-when-you-re-over-70
   - >-
     how-dehydration-affects-blood-sugar-readings-in-older-diabetics
-  - how-dehydration-impacts-blood-pressure-levels
-  - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
-  - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
-  - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
-  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
 ---
 
 # How Dehydration Impacts Heart Function in Older Adults: A Gentle Guide to Staying Hydrated and Heart-Healthy

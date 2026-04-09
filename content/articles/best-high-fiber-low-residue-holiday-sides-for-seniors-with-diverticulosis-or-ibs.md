@@ -18,13 +18,6 @@ relatedSlugs:
     best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation
   - >-
     10-high-fiber-holiday-foods-that-support-digestion-after-50
-  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
-  - >-
-    best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods
-  - best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat
-  - low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
-  - >-
-    top-6-nutrient-dense-side-dishes-to-add-to-your-senior-friendly-holiday-table
 ---
 
 # Gentle, Gut-Friendly Holiday Sides: High-Fiber Low-Residue Holiday Sides for Comfort and Confidence

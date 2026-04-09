@@ -20,13 +20,6 @@ relatedSlugs:
     how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
   - >-
     best-non-pharmacologic-strategies-to-prevent-ventricular-arrhythmias-during-holiday-travel-in-adults-65-79-with-icds-and-history-of-stress-induced-vt
-  - 12-simple-ways-to-prevent-holiday-heart-syndrome-naturally
-  - >-
-    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
-  - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
-  - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
-  - >-
-    5-things-your-cardiologist-isn-t-asking-about-holiday-heart-syndrome-but-should-be-especially-if-you-re-on-beta-blockers-or-digoxin
 ---
 
 # A Reassuring Guide to Holiday Heart Prevention for Pacemaker Patients

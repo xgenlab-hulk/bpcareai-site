@@ -20,11 +20,6 @@ relatedSlugs:
     myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
   - >-
     best-blood-sugar-monitoring-practices-during-the-holiday-season
-  - best-blood-sugar-monitoring-practices-during-the-holiday-season
-  - >-
-    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
-  - >-
-    what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
 ---
 
 # When to Shift From Fasting Glucose to CGM Time-in-Range Holiday Decision Making—A Practical Guide for Adults 55–69

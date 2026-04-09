@@ -20,11 +20,6 @@ relatedSlugs:
     5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners
   - >-
     holiday-dinner-blood-sugar-emotional-triggers
-  - 5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners
-  - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
-  - how-to-eat-mindfully-at-buffets-without-spiking-blood-sugar
-  - why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope
-  - how-family-gatherings-can-unintentionally-raise-heart-attack-risk
 ---
 
 # Why Emotional Eating at Family Events Happens—and How to Navigate It with Kindness

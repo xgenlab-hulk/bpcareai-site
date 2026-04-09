@@ -20,11 +20,6 @@ relatedSlugs:
     7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
   - >-
     can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
-  - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
-  - >-
-    7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
-  - seasonal-depression-vs-normal-winter-sadness-what-families-need-to-know
-  - why-older-men-often-hide-their-seasonal-depression-symptoms
 ---
 
 # Understanding Winter Apathy vs Depression in Men Over 70: A Gentle, Practical Guide

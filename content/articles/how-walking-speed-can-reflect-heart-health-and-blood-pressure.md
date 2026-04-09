@@ -20,11 +20,6 @@ relatedSlugs:
     low-impact-exercise-blood-pressure-seniors
   - >-
     post-exercise-blood-pressure-rebound-in-elderly
-  - can-hearing-loss-be-an-early-sign-of-heart-disease
-  - how-retirement-changes-affect-heart-health
-  - is-your-posture-affecting-your-heart-what-older-adults-should-know
-  - heart-rate-variability-explained
-  - how-vision-changes-might-be-linked-to-heart-disease
 ---
 
 # How Your Walking Speed May Reveal Clues About Heart Health and Blood Pressure

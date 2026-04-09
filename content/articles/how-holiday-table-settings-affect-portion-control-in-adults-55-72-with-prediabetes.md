@@ -20,13 +20,6 @@ relatedSlugs:
     the-complete-guide-to-holiday-eating-for-adults-58-63-with-new-onset-prediabetes-and-high-functioning-careers
   - >-
     5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck
-  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
-
-  - >-
-    how-family-style-serving-at-holiday-dinners-worsens-glycemic-variability-in-adults-with-prediabetes-over-55
-  - >-
-    the-ultimate-guide-to-navigating-open-buffered-holiday-buffets-with-visual-portion-tools-sequence-rules-and-stealth-fiber-placement-strategies
-  - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
 ---
 
 # How Holiday Table Settings Shape Portion Control for Adults 55–72 With Prediabetes

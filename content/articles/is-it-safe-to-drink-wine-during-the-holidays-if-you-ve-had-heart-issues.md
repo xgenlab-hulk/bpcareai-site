@@ -20,11 +20,6 @@ relatedSlugs:
     atrial-fibrillation-vs-holiday-heart-syndrome-key-differences-everyone-should-know
   - >-
     the-truth-about-benign-holiday-palpitations-are-they-really-harmless
-  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
-  - the-truth-about-alcohol-and-heart-health-after-55
-  - best-non-alcoholic-holiday-drinks-for-heart-health-after-50
-  - the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50
-  - when-to-worry-about-weight-gain-after-a-family-gathering
 ---
 
 # Is It Safe to Enjoy Wine During the Holidays After Heart Issues? A Practical Guide to *Wine After Heart Issues Holiday* Decisions

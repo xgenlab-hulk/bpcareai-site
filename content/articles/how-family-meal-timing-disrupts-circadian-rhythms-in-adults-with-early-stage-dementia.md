@@ -20,11 +20,6 @@ relatedSlugs:
     how-late-afternoon-snacking-at-family-gatherings-disrupts-nocturnal-melatonin-and-elevates-fasting-glucose-in-adults-59-66-with-shift-work-history
   - >-
     5-things-every-caregiver-should-know-before-preparing-holiday-meals-for-a-senior-with-early-stage-alzheimer-s-and-sundowning
-  - the-connection-between-holiday-light-exposure-and-blood-sugar-regulation
-  - >-
-    can-you-reverse-insulin-resistance-with-just-3-strategic-holiday-meals-a-14-day-pilot-study-breakdown
-  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
-  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
 ---
 
 # How Family Meal Timing and Dementia Affect Circadian Rhythms—Gentle Guidance for Caregivers

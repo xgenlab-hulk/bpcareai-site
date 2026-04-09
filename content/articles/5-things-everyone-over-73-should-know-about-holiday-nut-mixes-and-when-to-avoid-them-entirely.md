@@ -18,7 +18,6 @@ relatedSlugs:
     simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd
   - >-
     best-low-allergen-holiday-side-dishes-for-adults-75-with-late-onset-tree-nut-allergy-and-eosinophilic-esophagitis
-
 ---
 
 # What Every Senior 73+ Should Know About Holiday Nut Mixes—Safety, Risks, and Smarter Swaps  

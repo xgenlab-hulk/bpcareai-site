@@ -18,10 +18,6 @@ relatedSlugs:
     seniors-living-alone-holiday-party-preparedness
   - >-
     when-to-suspect-holiday-induced-glycemic-amnesia-in-adults-74-with-mild-cognitive-impairment-and-why-it-s-not-just-forgetfulness
-  - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
-  - >-
-    5-things-every-caregiver-should-know-before-preparing-holiday-meals-for-a-senior-with-early-stage-alzheimer-s-and-sundowning
-  - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
 ---
 
 # Gentle, Science-Backed Ways to Prevent Delirium After Holiday in Seniors With Mild Dementia

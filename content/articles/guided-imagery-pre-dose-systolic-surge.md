@@ -20,13 +20,6 @@ relatedSlugs:
     quick-ways-to-lower-systolic-pressure-within-90-minutes-using-guided-cold-face-immersion-isometric-handgrip-in-adults-60-66-with-acute-morning-surges
   - >-
     morning-hygiene-blood-pressure-variability
-
-  - >-
-    guided-imagery-left-atrial-volume-afib-hypertension
-  - >-
-    does-daily-10-minute-guided-breathing-before-dinner-lower-postprandial-glucose-in-adults-60-72-with-anxiety-related-hyperglycemia-and-gerd
-  - >-
-    quick-ways-to-lower-bp-within-90-minutes-using-guided-breathing-postural-sequencing-validated-in-emergency-department-triage-for-stage-1-hypertension
 ---
 
 # Can Guided Imagery Before Morning Medication Help Ease Pre-Dose Systolic Surges in Adults 59–65 With White-Coat Amplification and Mild Anxiety?

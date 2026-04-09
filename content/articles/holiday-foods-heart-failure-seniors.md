@@ -19,13 +19,6 @@ relatedSlugs:
     holiday-foods-blood-sugar-bp-seniors-70
   - >-
     when-to-worry-about-sudden-swelling-after-thanksgiving-dinner-in-adults-70-with-heart-failure-and-diuretic-resistant-edema
-  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
-  - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
-  - >-
-    the-complete-guide-to-navigating-potluck-contributions-when-you-re-managing-heart-failure-after-70
-  - >-
-    how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
-  - 7-smart-swaps-for-healthier-holiday-meals-after-65
 ---
 
 # Holiday Foods Heart Failure Seniors Must Avoid — And What to Eat Instead for a Safe, Joyful Season

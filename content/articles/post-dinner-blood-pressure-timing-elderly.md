@@ -18,15 +18,6 @@ relatedSlugs:
     postprandial-glucose-timing-gastroparesis-seniors
   - >-
     best-times-measure-bp-daily
-
-  - >-
-    how-grandparenting-during-holidays-alters-meal-timing-and-why-late-evening-carbs-raise-nighttime-bp-in-adults-68-with-nocturnal-hypertension
-  - >-
-    morning-vs-evening-exercise-nocturnal-hypertension
-  - >-
-    why-holiday-meal-timing-disrupts-blood-pressure-medication-efficacy-in-men-over-62
-  - >-
-    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
 ---
 
 # Optimal post-dinner-blood-pressure-timing-elderly: 12 Science-Backed Moments to Measure for Better Brain & Heart Health

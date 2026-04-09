@@ -18,12 +18,6 @@ relatedSlugs:
     how-often-should-adults-over-50-check-their-blood-pressure
   - >-
     blood-pressure-in-black-men-over-55-why-standard-algorithms-underestimate-risk-and-what-to-ask-your-doctor
-  - can-drinking-too-much-water-raise-blood-pressure
-  - does-caffeine-raise-blood-pressure-after-age-60
-  - blood-pressure-and-kidney-health-what-seniors-need-to-know
-  - how-often-should-adults-over-50-check-their-blood-pressure
-  - >-
-    can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
 ---
 
 # Understanding Alcohol and Blood Pressure Limits: What Middle-Aged and Older Adults Need to Know

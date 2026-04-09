@@ -18,11 +18,6 @@ relatedSlugs:
     is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues
   - >-
     the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
-
-  - >-
-    the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement
-  - >-
-    wine-headache-palpitations-migraine-cortical
 ---
 
 # Red Wine Heart Healthy Myth vs Fact: What Your Atrial Fibrosis and PACs Really Say About That Glass of Cabernet

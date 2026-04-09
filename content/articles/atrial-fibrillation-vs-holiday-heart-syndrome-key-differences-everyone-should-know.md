@@ -18,12 +18,6 @@ relatedSlugs:
     how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
   - >-
     how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
-  - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
-  - >-
-    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
-  - what-research-says-about-holiday-heart-syndrome-and-aging-hearts
-  - >-
-    holiday-heart-syndrome-vs-acute-coronary-syndrome-key-differences-in-presentation-for-men-over-70
 ---
 
 # Understanding AFib vs Holiday Heart Syndrome: What’s Really Going On With Your Heart?

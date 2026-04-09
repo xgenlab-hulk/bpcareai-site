@@ -18,12 +18,6 @@ relatedSlugs:
     myths-vs-facts-my-bp-is-fine-because-my-doctor-never-mentioned-it-in-adults-54-67-with-elevated-pulse-pressure-and-normal-office-sbp-dbp
   - >-
     myths-vs-facts-high-normal-blood-pressure-in-adults-54-62-why-prehypertension-is-obsolete-and-what-the-new-acc-aha-staging-really-means-for-your-heart
-  - heart-disease-in-hispanic-adults-over-50-unique-risk-factors
-  - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
-  - how-often-should-adults-over-50-check-their-blood-pressure
-  - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
-  - 7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
 ---
 
 # Blood Pressure in Black Men Over 55: Why Risk Is Higher—and What You Can Do About It

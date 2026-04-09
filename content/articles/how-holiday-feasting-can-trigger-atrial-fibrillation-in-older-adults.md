@@ -20,10 +20,6 @@ relatedSlugs:
     why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
   - >-
     7-hidden-electrolyte-shifts-that-happen-during-holiday-cooking-and-how-they-trigger-atrial-fibrillation-in-adults-60-with-mild-hypokalemia
-  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
-  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
-  - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
-  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
 ---
 
 # How Holiday Feasting and Atrial Fibrillation Are Linked—And What You Can Do About It

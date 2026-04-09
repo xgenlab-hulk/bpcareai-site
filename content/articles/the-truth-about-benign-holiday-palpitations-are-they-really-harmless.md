@@ -20,11 +20,6 @@ relatedSlugs:
     atrial-fibrillation-vs-holiday-heart-syndrome-key-differences-everyone-should-know
   - >-
     post-dinner-palpitations-holiday-heart-syndrome
-  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
-  - when-to-worry-about-palpitations-after-christmas-dinner
-  - can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes
-  - is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues
-  - quick-ways-to-calm-a-racing-heart-during-a-holiday-event
 ---
 
 # The Real Story Behind “Benign” Holiday Palpitations: What the Evidence Says

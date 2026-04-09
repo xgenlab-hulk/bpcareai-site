@@ -20,11 +20,6 @@ relatedSlugs:
     how-family-gatherings-can-unintentionally-raise-heart-attack-risk
   - >-
     how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
-  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
-  - how-family-gatherings-can-unintentionally-raise-heart-attack-risk
-  - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
-  - why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope
-  - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
 ---
 
 # How Emotional Stress and Heart Arrhythmia Are Linked During Family Gatherings

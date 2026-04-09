@@ -20,12 +20,6 @@ relatedSlugs:
     breathing-lower-systolic-bp-seniors
   - >-
     best-breathing-patterns-for-reducing-central-systolic-pressure-in-adults-55-69-with-elevated-augmentation-index-and-high-frequency-hrv-suppression
-
-  - can-deep-breathing-exercises-reduce-high-blood-pressure
-  - natural-ways-to-lower-blood-pressure-this-winter-without-medication
-  - >-
-    natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
-  - can-deep-breathing-exercises-lower-heart-disease-risk
 ---
 
 # Quick, Science-Backed Breathing Techniques to Lower Systolic Pressure Before Your Doctor’s Visit  

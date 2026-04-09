@@ -18,11 +18,6 @@ relatedSlugs:
     quick-ways-to-restore-postprandial-parasympathetic-tone-within-20-minutes-for-adults-61-75-with-type-2-diabetes-and-vagal-withdrawal-measured-by-rmssd
   - >-
     natural-ways-to-support-vagal-tone-during-holiday-stress-without-supplements-or-devices
-  - 10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
-  - 9-foods-that-enhance-vagal-tone-during-holiday-meals-backed-by-real-time-hrv-data-in-adults-64-77-with-mild-orthostatic-intolerance
-  - 10-foods-that-lower-post-exercise-heart-rate-recovery-time-for-adults-59-73-with-hypertension-and-sluggish-hrv
-  - cholinergic-tone-family-dinner-natural
-  - natural-ways-to-support-postprandial-vagal-tone-without-supplements-using-only-holiday-meal-timing-seating-posture-and-breath-counting-in-adults-69
 ---
 
 # 12 Foods That Support Vagal Tone After Meals—For Digestion and Heart Rhythm (Ages 60–74)

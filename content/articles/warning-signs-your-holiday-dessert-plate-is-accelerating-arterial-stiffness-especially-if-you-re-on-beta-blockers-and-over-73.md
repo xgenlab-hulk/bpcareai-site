@@ -20,10 +20,6 @@ relatedSlugs:
     7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-adults-72-with-isolated-systolic-hypertension-and-what-to-serve-instead
   - >-
     12-science-backed-ways-to-reduce-postprandial-endothelial-dysfunction-within-45-minutes-for-adults-60-76-with-type-2-diabetes-and-elevated-adma
-  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
-  - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
-  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
-  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
 ---
 
 # Holiday Dessert Arterial Stiffness Warning Signs — What Your Sweet Treats Might Be Telling You

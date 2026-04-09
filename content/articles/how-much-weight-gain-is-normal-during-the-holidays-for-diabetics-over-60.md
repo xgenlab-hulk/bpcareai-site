@@ -20,11 +20,6 @@ relatedSlugs:
     12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
   - >-
     simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
-  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
-  - does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
-  - when-to-worry-about-weight-gain-after-a-family-gathering
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
 ---
 
 # Understanding Holiday Weight Gain in Diabetics Over 60: What’s Normal and What to Watch

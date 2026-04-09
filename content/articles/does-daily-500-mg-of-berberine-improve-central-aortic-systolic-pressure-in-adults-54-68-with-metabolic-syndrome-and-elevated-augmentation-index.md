@@ -18,7 +18,6 @@ relatedSlugs:
     central-aortic-pressure-foods-90-min
   - >-
     simple-steps-to-lower-central-aortic-pressure-in-just-7-days-using-only-a-kitchen-scale-a-stopwatch-and-your-morning-tea-ritual
-
 ---
 
 # Can Berberine Support Healthier Central Aortic Blood Pressure in Adults With Metabolic Syndrome?

@@ -18,11 +18,6 @@ relatedSlugs:
     quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
   - >-
     resonant-breathing-diastolic-pressure-reduction
-  - can-strength-training-lower-heart-disease-risk-after-60
-  - heart-rate-variability-explained
-  - can-meditation-reduce-heart-disease-risk-after-50
-  - can-meditation-lower-blood-pressure-naturally
-  - how-walking-speed-can-reflect-heart-health-and-blood-pressure
 ---
 
 # Can Deep Breathing Exercises for Heart Health Make a Real Difference?

@@ -20,11 +20,6 @@ relatedSlugs:
     time-restricted-eating-4pm-type-2-diabetes-seniors
   - >-
     intermittent-fasting-and-adrenal-blood-pressure
-
-  - >-
-    what-research-says-about-intermittent-fasting-windows-that-actually-work-for-seniors-at-holiday-time
-  - >-
-    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
 ---
 
 # How Time-Restricted Eating Lowers Blood Pressure in Adults With Metabolic Syndrome—Evidence From Real-World Research

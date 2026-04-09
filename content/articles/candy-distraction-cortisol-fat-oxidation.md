@@ -18,11 +18,6 @@ relatedSlugs:
     intergenerational-dining-stress-cortisol-glucose
   - >-
     holiday-dinner-blood-sugar-emotional-triggers
-- how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance
-- how-stress-induced-cortisol-spikes-during-holiday-hosting-sabotage-blood-sugar-control-in-adults-55-70
-- how-intergenerational-dining-stress-activates-the-amygdala-hypothalamic-axis-and-what-to-eat-before-the-gathering-to-stabilize-cortisol-and-glucose-in-adults-60
-- 5-signs-your-holiday-stress-is-spiking-cortisol-and-raising-fasting-glucose-without-you-noticing
-- what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp
 ---
 
 # How Candy Distraction, Cortisol Spikes, and Fat Oxidation Interfere With Healthy Eating During Family Gatherings

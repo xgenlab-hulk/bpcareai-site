@@ -20,13 +20,6 @@ relatedSlugs:
     what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners
   - >-
     how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
-  - how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
-  - >-
-    does-holiday-weight-gain-predict-1-year-cardiovascular-risk-in-adults-with-metabolic-syndrome-over-58
-  - >-
-    how-holiday-stress-cortisol-spikes-impair-glp-1-secretion-in-adults-64-with-obesity-and-prediabetes-and-why-mindful-breathing-beats-just-relax-advice
-  - >-
-    warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
 ---
 
 # Holiday Weight Gain Visceral Fat Warning Signs: What Subtle Changes May Signal Early Blood Sugar Shifts

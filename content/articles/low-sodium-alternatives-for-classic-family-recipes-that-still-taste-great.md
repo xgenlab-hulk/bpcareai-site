@@ -20,13 +20,6 @@ relatedSlugs:
     5-simple-swaps-to-make-grandma-s-favorite-casserole-heart-healthy-without-losing-flavor
   - >-
     does-bringing-your-own-condiment-change-the-game-how-custom-sauces-and-dressings-improve-adherence-to-low-sodium-diets-during-holiday-gatherings
-  - 10-smart-swaps-to-make-your-family-recipes-healthier-without-losing-flavor
-  - 7-smart-swaps-for-healthier-holiday-meals-after-65
-  - low-sodium-holiday-turkey-brine-recipe-for-seniors-with-high-blood-pressure
-  - >-
-    best-low-sodium-high-flavor-herbs-and-spices-for-holiday-cooking-clinically-vetted-for-adults-with-heart-failure-and-hyponatremia-risk
-  - >-
-    does-bringing-your-own-condiment-change-the-game-how-custom-sauces-and-dressings-improve-adherence-to-low-sodium-diets-during-holiday-gatherings
 ---
 
 # Delicious Low-Sodium Family Meal Ideas That Keep Flavor—and Heart Health—Front and Center

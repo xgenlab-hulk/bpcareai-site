@@ -21,9 +21,6 @@ relatedSlugs:
     10-foods-that-support-swallowing-safety-during-holiday-meals-for-seniors-with-mild-dysphagia
   - >-
     how-to-host-a-holiday-gathering-that-accommodates-all-dietary-restrictions-for-seniors
-  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
-  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
 ---
 
 # Soft Foods for Elderly with No Teeth: Heart-Healthy Holiday Meals

@@ -20,12 +20,6 @@ relatedSlugs:
     post-dinner-palpitations-holiday-heart-syndrome
   - >-
     7-silent-signs-of-holiday-heart-syndrome-that-aren-t-palpitations-especially-in-women-60-with-autonomic-aging
-  - when-to-worry-about-palpitations-after-christmas-dinner
-  - can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
-  - >-
-    when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension
-  - the-truth-about-benign-holiday-palpitations-are-they-really-harmless
-  - should-you-worry-about-heart-palpitations-when-lying-down
 ---
 
 # When Heart Palpitations After Midnight Toasts Happen in Women 60+: A Calm, Clear Guide to Knowing What’s Normal—and When to Reach Out

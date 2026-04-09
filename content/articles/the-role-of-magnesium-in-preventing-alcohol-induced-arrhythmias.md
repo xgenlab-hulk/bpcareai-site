@@ -20,11 +20,6 @@ relatedSlugs:
     hawthorn-vs-magnesium-holiday-heart
   - >-
     magnesium-glycinate-holiday-dessert-timing
-  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
-  - how-to-enjoy-alcohol-safely-during-holidays-without-triggering-heart-issues
-  - 12-simple-ways-to-prevent-holiday-heart-syndrome-naturally
-  - what-research-says-about-holiday-heart-syndrome-and-aging-hearts
-  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
 ---
 
 # How Magnesium Helps Protect Your Heart During Holiday Celebrations — Understanding Magnesium Alcohol Arrhythmias

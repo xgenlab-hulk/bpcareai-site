@@ -18,11 +18,6 @@ relatedSlugs:
     blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
   - >-
     heart-disease-warning-signs-that-appear-years-in-advance
-  - is-your-posture-affecting-your-heart-what-older-adults-should-know
-  - how-vision-changes-might-be-linked-to-heart-disease
-  - the-connection-between-frequent-urination-at-night-and-heart-health
-  - heart-disease-and-erectile-dysfunction-what-men-should-know
-  - the-link-between-hearing-loss-and-heart-disease-after-60
 ---
 
 # Could Hearing Loss Be an Early Sign of Heart Disease?

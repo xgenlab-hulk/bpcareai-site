@@ -18,11 +18,6 @@ relatedSlugs:
     how-group-activities-in-senior-centers-prevent-seasonal-depression
   - >-
     7-common-mistakes-that-make-seasonal-depression-worse-in-seniors
-  - the-best-indoor-exercises-for-blood-pressure-control-in-winter
-  - how-light-therapy-can-help-older-adults-beat-winter-blues-after-65
-  - blood-pressure-management-for-sedentary-seniors-in-winter-months
-  - how-winter-depression-affects-heart-health-in-retired-adults
-  - best-low-impact-exercises-for-managing-diabetes-after-60
 ---
 
 # Gentle Indoor Exercises for Seasonal Depression: Uplifting Mood Safely at Home for Seniors Over 70

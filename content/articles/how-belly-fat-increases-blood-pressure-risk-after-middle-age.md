@@ -20,9 +20,6 @@ relatedSlugs:
     how-chronic-stress-contributes-to-high-blood-pressure-over-time
   - >-
     why-blood-pressure-matters-even-if-you-feel-fine
-  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
-  - how-obesity-contributes-to-heart-disease-in-middle-age
-  - the-link-between-sleep-apnea-and-high-blood-pressure
 ---
 
 # How Belly Fat and High Blood Pressure Are Linked After 50

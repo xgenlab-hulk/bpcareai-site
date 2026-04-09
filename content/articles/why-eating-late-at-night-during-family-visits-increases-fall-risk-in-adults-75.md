@@ -20,13 +20,6 @@ relatedSlugs:
     the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
   - >-
     how-late-night-pie-eating-disrupts-nocturnal-glucose-rhythms-in-adults-65-with-early-stage-diabetic-neuropathy
-  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
-  - >-
-    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
-  - can-napping-after-meals-lower-blood-sugar-during-holiday-feasts
-  - >-
-    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
-  - why-blood-sugar-spikes-at-night-in-older-adults-with-diabetes
 ---
 
 # How Late Night Eating Fall Risk Seniors Can Be Gently Managed During Family Gatherings

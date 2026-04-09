@@ -20,13 +20,6 @@ relatedSlugs:
     quick-ways-to-restore-post-exercise-vascular-reactivity-after-cold-exposure-for-adults-68-with-raynaud-s-phenomenon-and-elevated-pulse-wave-velocity
   - >-
     the-truth-about-benign-holiday-palpitations-are-they-really-harmless
-  - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
-  - why-dehydration-at-holiday-events-may-worsen-heart-palpitations
-  - >-
-    7-hidden-holiday-heart-syndrome-triggers-beyond-alcohol-from-late-night-eggnog-to-airport-security-stress-in-adults-62
-  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
-  - >-
-    post-dinner-palpitations-holiday-heart-syndrome
 ---
 
 # Cold-Induced Palpitations, Raynaud’s, and Holiday Heart: What You Should Know After 59

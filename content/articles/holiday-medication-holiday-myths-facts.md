@@ -20,11 +20,6 @@ relatedSlugs:
     5-things-everyone-over-70-should-know-about-sulfonylureas-especially-if-they-live-alone-and-take-them-daily
   - >-
     should-you-adjust-your-diabetes-medication-during-the-holidays
-  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
-  - >-
-    skipping-breakfast-holiday-hyperglycemia-seniors
-  - >-
-    holiday-medication-holiday-myths-facts
 ---
 
 # Holiday Medication Holiday Myths Facts: Why Skipping Sulfonylureas During Festive Weeks Puts Adults 66+ at Real Risk

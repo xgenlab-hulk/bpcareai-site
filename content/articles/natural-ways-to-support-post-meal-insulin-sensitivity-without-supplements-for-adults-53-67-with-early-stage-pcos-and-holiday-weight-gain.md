@@ -18,7 +18,6 @@ relatedSlugs:
     natural-ways-to-support-post-meal-insulin-sensitivity-without-supplements-for-adults-57-69-with-abdominal-obesity-and-mild-nafld
   - >-
     why-your-holiday-energy-crash-may-be-postprandial-hypoglycemia-not-just-fatigue-in-adults-50-59-with-reactive-hypoglycemia-history
-  - 5-science-backed-ways-to-reduce-holiday-related-insulin-resistance
 ---
 
 # Natural Ways to Support Insulin Sensitivity During the Holidays—Especially With Early-Stage PCOS (Ages 53–67)

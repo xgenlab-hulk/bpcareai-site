@@ -18,11 +18,6 @@ relatedSlugs:
     why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
   - >-
     does-holiday-weight-gain-predict-1-year-cardiovascular-risk-in-adults-with-metabolic-syndrome-over-58
-  - how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
-  - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
-  - when-to-worry-about-weight-gain-after-a-family-gathering
-  - >-
-    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
 ---
 
 # Does Holiday Weight Gain Predict Atrial Fibrillation Recurrence? What Adults With Obesity Class II Should Know

@@ -18,12 +18,6 @@ relatedSlugs:
     buffer-alcohol-glycemic-vasodilatory-effects
   - >-
     the-truth-about-alcohol-and-heart-disease-is-one-drink-a-day-safe
-  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
-  - does-alcohol-raise-blood-sugar-in-older-adults-with-diabetes
-  - >-
-    myths-vs-facts-about-alcohol-free-spirits-and-holiday-heart-syndrome-risk-in-adults-with-preexisting-pvcs
-  - >-
-    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
 ---
 
 # What Should Seniors Over 62 Know About Alcohol With Beta-Blockers at Family Dinners?

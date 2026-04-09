@@ -20,11 +20,6 @@ relatedSlugs:
     why-arm-pain-shouldn-t-be-ignored-in-women-over-50
   - >-
     how-menopause-affects-heart-disease-risk-in-women
-  - heart-disease-symptoms-in-women-over-50-what-s-often-missed
-  - why-arm-pain-shouldn-t-be-ignored-in-women-over-50
-  - what-are-the-first-signs-of-holiday-heart-syndrome-in-women
-  - how-menopause-affects-heart-disease-risk-in-women
-  - how-silent-heart-attacks-differ-in-older-adults
 ---
 
 # Why Women’s Heart Attack Symptoms Change After Menopause — And What to Watch For

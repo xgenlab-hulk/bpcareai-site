@@ -20,12 +20,6 @@ relatedSlugs:
     when-to-worry-about-chest-tightness-in-cold-weather
   - >-
     stress-blood-pressure-winter
-  - the-hidden-danger-of-combining-alcohol-and-cold-medicines-over-50
-  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
-  - >-
-    the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
-  - why-your-new-year-s-eve-party-could-be-a-heart-risk-after-age-55
-  - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
 ---
 
 # How Cold Weather Holiday Heart Raises Cardiovascular Concerns—and What You Can Do

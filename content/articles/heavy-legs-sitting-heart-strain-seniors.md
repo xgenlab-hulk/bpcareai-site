@@ -20,13 +20,6 @@ relatedSlugs:
     7-overlooked-signs-your-heart-is-straining-during-routine-chores-especially-if-you-re-58-65-physically-active-and-dismiss-just-getting-older
   - >-
     10-silent-signs-your-heart-is-struggling-during-summer-heat-even-with-normal-baseline-bp-and-pulse-in-adults-65
-  - is-sitting-too-much-harming-your-heart-after-60
-  - >-
-    7-overlooked-signs-your-heart-is-straining-during-routine-chores-especially-if-you-re-58-65-physically-active-and-dismiss-just-getting-older
-  - >-
-    7-silent-signs-your-holiday-sodium-intake-is-worsening-diastolic-stiffness-in-women-65-with-preserved-ejection-fraction
-  - >-
-    7-silent-signs-your-heart-is-struggling-during-air-travel-especially-for-adults-70-with-diastolic-dysfunction-and-mild-hypoxemia
 ---
 
 # When “Heavy Legs” After Sitting Might Be a Gentle Nudge from Your Heart — What Seniors 60–74 Should Know  

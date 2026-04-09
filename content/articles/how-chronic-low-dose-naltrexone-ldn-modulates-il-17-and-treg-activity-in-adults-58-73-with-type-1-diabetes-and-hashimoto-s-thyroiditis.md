@@ -18,15 +18,6 @@ relatedSlugs:
     beta-cell-resilience-spring-allergies-type-1
   - >-
     low-dose-naltrexone-and-blood-pressure-arthritis
-
-  - >-
-    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
-  - >-
-    inhaled-steroids-gluconeogenesis-diabetes
-  - >-
-    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
-  - >-
-    winter-light-deprivation-glucose-rhythm
 ---
 
 # How LDN May Support Immune Balance in Adults with Type 1 Diabetes and Hashimoto’s

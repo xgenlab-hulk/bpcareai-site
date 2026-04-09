@@ -20,12 +20,6 @@ relatedSlugs:
     simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
   - >-
     best-blood-sugar-monitoring-practices-during-the-holiday-season
-  - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
-  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
-  - >-
-    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
-  - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
-  - how-type-2-diabetes-increases-heart-disease-risk-after-50
 ---
 
 # Managing Your Diabetes Holiday Heart Risk After Age 50

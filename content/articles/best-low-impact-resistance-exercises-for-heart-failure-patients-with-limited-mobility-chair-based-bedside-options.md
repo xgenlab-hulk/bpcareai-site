@@ -18,10 +18,6 @@ relatedSlugs:
     best-low-impact-resistance-exercises-for-seniors-with-severe-aortic-stenosis-who-can-t-do-push-ups-or-squats
   - >-
     resistance-training-left-ventricular-hypertrophy
-  - best-low-impact-exercises-for-managing-diabetes-after-60
-  - how-strength-training-protects-your-heart-as-you-age
-  - best-indoor-exercises-to-boost-mood-during-winter-for-seniors-over-70
-  - can-strength-training-lower-heart-disease-risk-after-60
 ---
 
 # Gentle Strength, Stronger Heart: Low-Impact Resistance Exercises for Heart Failure Patients With Limited Mobility

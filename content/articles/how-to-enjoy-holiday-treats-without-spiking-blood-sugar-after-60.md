@@ -20,12 +20,6 @@ relatedSlugs:
     simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
   - >-
     myths-vs-facts-eating-light-at-holiday-dinners-prevents-glucose-spikes-in-adults-62-with-insulin-resistance
-  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - >-
-    how-grandparents-with-diabetes-can-enjoy-time-with-kids-without-risking-health
-  - best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
 ---
 
 # How to Enjoy Holiday Treats Without Spiking Blood Sugar After 60

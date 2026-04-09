@@ -18,10 +18,6 @@ relatedSlugs:
     the-complete-guide-to-managing-diabetes-while-hosting-holiday-guests-for-adults-66-82-with-mild-mobility-limitations
   - >-
     foot-care-basics-every-senior-with-diabetes-should-know
-  - foot-care-basics-every-senior-with-diabetes-should-know
-  - >-
-    simple-steps-to-adjust-your-holiday-snacking-pattern-for-early-stage-diabetic-neuropathy-focusing-on-timing-texture-and-temperature
-  - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
 ---
 
 # How Can Caregivers Safely Host Holiday Gatherings with Diabetic Foot Ulcers at Home?

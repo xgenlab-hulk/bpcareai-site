@@ -20,11 +20,6 @@ relatedSlugs:
     simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
   - >-
     skipping-breakfast-holiday-hyperglycemia-seniors
-  - myths-vs-facts-holiday-eating-with-diabetes-after-50
-  - >-
-    myths-vs-facts-one-bite-won-t-hurt-why-micro-portions-of-holiday-pie-still-trigger-significant-glucose-variability-in-adults-57-75
-  - >-
-    does-holiday-lighting-or-noise-affect-sleep-and-blood-sugar-control
 ---
 
 # Holiday Eating Light Glucose Myths vs. Facts: What Adults 62+ With Insulin Resistance *Really* Need to Know

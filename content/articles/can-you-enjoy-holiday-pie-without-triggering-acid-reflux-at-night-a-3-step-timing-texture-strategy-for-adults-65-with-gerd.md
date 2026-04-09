@@ -18,9 +18,6 @@ relatedSlugs:
     best-low-gi-high-satiety-holiday-breakfasts-for-adults-60-75-with-morning-hyperglycemia-and-gerd
   - >-
     how-late-night-pie-eating-disrupts-nocturnal-glucose-rhythms-in-adults-65-with-early-stage-diabetic-neuropathy
-  - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
-  - >-
-    7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68
 ---
 
 # Can You Enjoy Holiday Pie Without Triggering Nighttime Acid Reflux? A Gentle, Science-Backed Strategy for Adults 65+

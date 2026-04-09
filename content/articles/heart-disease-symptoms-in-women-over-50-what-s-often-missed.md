@@ -20,11 +20,6 @@ relatedSlugs:
     7-hidden-heart-disease-risk-factors-your-primary-care-doctor-might-miss-especially-if-you-re-a-woman-over-65-with-migraines
   - >-
     heart-disease-warning-signs-that-appear-years-in-advance
-  - recognizing-silent-heart-attacks-in-diabetics-over-60
-  - heart-disease-warning-signs-that-appear-years-in-advance
-  - how-strong-are-your-fingernails-what-it-might-say-about-your-heart
-  - how-silent-heart-attacks-differ-in-older-adults
-  - why-arm-pain-shouldn-t-be-ignored-in-women-over-50
 ---
 
 # Understanding Heart Disease Symptoms in Women Over 50: The Signs That Often Fly Under the Radar

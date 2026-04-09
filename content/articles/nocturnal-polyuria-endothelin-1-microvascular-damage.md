@@ -18,11 +18,6 @@ relatedSlugs:
     restore-anp-secretion-circadian-rhythm-older-adults
   - >-
     diabetic-retinopathy-oct-angiography-myths
-  - how-frequent-urination-at-night-could-signal-heart-problems
-  - >-
-    restore-anp-secretion-circadian-rhythm-older-adults
-  - >-
-    how-late-night-screen-time-disrupts-nitric-oxide-synthesis-and-elevates-nighttime-bp-in-men-over-70-even-with-no-sleep-complaints
 ---
 
 # How Nocturnal Polyuria Elevates Endothelin-1 and Drives Microvascular Damage in Older Adults With Retinopathy — Even at Normal Blood Pressure

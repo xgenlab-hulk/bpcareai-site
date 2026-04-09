@@ -18,10 +18,6 @@ relatedSlugs:
     7-silent-signs-your-diabetes-medication-is-causing-subclinical-hyponatremia-especially-after-hot-tub-soaking-in-adults-72
   - >-
     how-dehydration-affects-blood-sugar-readings-in-older-diabetics
-  - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
-  - >-
-    10-foods-that-support-glycemic-resilience-during-heat-waves-especially-for-adults-70-with-diabetes-and-medication-induced-hyponatremia-risk
-
 ---
 
 # Staying Safe and Steady: Diabetes Heatwave Management Elderly Edition — A Gentle Guide for Seniors 70+

@@ -20,11 +20,6 @@ relatedSlugs:
     heart-disease-and-erectile-dysfunction-what-men-should-know
   - >-
     how-vision-changes-might-be-linked-to-heart-disease
-  - the-hidden-link-between-gum-disease-and-heart-problems
-  - the-connection-between-frequent-urination-at-night-and-heart-health
-  - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
-  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
-  - how-vitamin-d-deficiency-impacts-heart-health-in-winter
 ---
 
 # What Your Fingernail Health and Heart Disease Signs Can Reveal

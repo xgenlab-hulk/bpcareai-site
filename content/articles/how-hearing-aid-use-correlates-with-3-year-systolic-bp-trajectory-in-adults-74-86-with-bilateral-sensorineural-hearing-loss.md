@@ -20,15 +20,6 @@ relatedSlugs:
     the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70
   - >-
     what-research-says-about-hearing-loss-as-an-early-biomarker-of-vascular-aging-in-men-over-75
-  - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
-  - >-
-    how-social-isolation-alters-baroreflex-sensitivity-and-elevates-24-hour-sbp-by-7-11-mmhg-in-men-living-alone-over-75
-  - >-
-    what-research-says-about-hearing-loss-as-an-early-biomarker-of-vascular-aging-in-men-over-75
-  - >-
-    the-connection-between-late-life-hearing-loss-and-increased-heart-failure-hospitalization-risk-in-women-over-70
-  - >-
-    how-chronic-loneliness-after-retirement-alters-autonomic-tone-and-elevates-nocturnal-systolic-pressure-in-adults-68-with-preserved-ejection-fraction
 ---
 
 # How Hearing Aid Use May Influence Your Systolic Blood Pressure Over Time — Especially With Age-Related Hearing Loss

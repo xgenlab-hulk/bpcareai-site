@@ -20,11 +20,6 @@ relatedSlugs:
     how-fiber-rich-diets-support-heart-health-in-people-over-60
   - >-
     can-heart-disease-be-reversed-with-lifestyle-changes-after-50
-  - how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors
-  - how-fiber-rich-diets-support-heart-health-in-people-over-60
-  - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
-  - can-meditation-reduce-heart-disease-risk-after-50
-  - the-truth-about-alcohol-and-heart-disease-is-one-drink-a-day-safe
 ---
 
 # How Daily Nut Consumption and Heart Protection After 50 Work Hand in Hand

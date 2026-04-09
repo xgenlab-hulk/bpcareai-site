@@ -18,7 +18,6 @@ relatedSlugs:
     does-holiday-caffeine-from-spiced-chai-or-eggnog-really-worsen-nocturnal-myoclonus-in-seniors-with-restless-legs-syndrome
   - >-
     can-holiday-leftovers-increase-fall-risk-in-adults-77-with-vitamin-d-deficiency-and-mild-postural-instability
-  - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
 ---
 
 # Hidden Iron Overload After Holiday Red Meat: What Seniors 69+ with HFE Variants Should Gently Notice

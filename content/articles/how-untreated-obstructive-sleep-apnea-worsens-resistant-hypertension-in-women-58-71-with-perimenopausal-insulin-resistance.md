@@ -18,9 +18,6 @@ relatedSlugs:
     a-deep-dive-into-sleep-apnea-screening-gaps-why-your-normal-oxygen-saturation-doesn-t-rule-out-cardiac-strain-in-women-over-60
   - >-
     what-causes-morning-bp-surges-in-adults-57-69-with-untreated-sleep-apnea-even-when-cpap-use-is-good-enough
-  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
-  - >-
-    how-sleep-apnea-severity-modulates-insulin-clearance-in-adults-with-type-2-diabetes-and-bmi-30-a-mechanistic-breakdown-for-ages-54-71
 ---
 
 # Why Sleep Apnea Resistant Hypertension Perimenopause Is a Hidden Challenge for Women in Their Late 50s and Early 60s

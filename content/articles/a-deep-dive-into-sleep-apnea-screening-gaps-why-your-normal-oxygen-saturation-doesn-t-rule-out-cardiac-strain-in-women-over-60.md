@@ -18,15 +18,6 @@ relatedSlugs:
     warning-signs-of-right-sided-heart-strain-in-adults-75-with-untreated-sleep-apnea-and-pulmonary-hypertension-before-edema-appears
   - >-
     when-to-worry-about-just-tired-after-stair-climbing-in-men-60-67-with-untreated-mild-obstructive-sleep-apnea-and-normal-ejection-fraction
-  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
-  - >-
-    how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
-  - >-
-    why-does-heart-disease-progress-faster-in-men-over-55-with-untreated-sleep-apnea
-  - >-
-    can-air-pollution-exposure-during-daily-walks-trigger-arrhythmias-in-women-over-60-with-atrial-fibrillation
-  - >-
-    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
 ---
 
 # Why Sleep Apnea Screening Women Heart Strain Is Often Missed—Especially After 60

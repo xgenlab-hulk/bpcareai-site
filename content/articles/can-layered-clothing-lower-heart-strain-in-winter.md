@@ -18,11 +18,6 @@ relatedSlugs:
     10-winter-safe-exercises-for-heart-health-after-65
   - >-
     is-it-safe-to-walk-outside-in-freezing-temperatures-with-heart-disease
-  - does-layering-clothes-help-regulate-blood-pressure-in-cold-climates
-  - how-winter-depression-affects-heart-health-in-retired-adults
-  - 10-simple-home-adjustments-to-support-blood-pressure-stability-in-winter
-  - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
-  - how-staying-hydrated-in-winter-protects-your-heart-after-70
 ---
 
 # How Layered Clothing Supports Heart Health in Winter

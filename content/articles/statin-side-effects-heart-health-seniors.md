@@ -20,7 +20,6 @@ relatedSlugs:
     myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
   - >-
     testosterone-deficiency-muscle-glucose-uptake-men
-  - the-impact-of-long-term-nsaid-use-on-heart-disease-risk
 ---
 
 # Understanding Statin Side Effects Heart Health Seniors: What Older Adults on Multiple Medications Should Know

@@ -18,11 +18,6 @@ relatedSlugs:
     how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
   - >-
     the-truth-about-healthy-holiday-stuffing-why-even-whole-grain-versions-can-worsen-postprandial-hypotension-in-adults-68-with-carotid-stenosis
-
-  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
-
-  - >-
-    how-holiday-stress-triggers-nighttime-blood-pressure-spikes-in-adults-65-with-sleep-apnea-and-mild-cognitive-decline
 ---
 
 # Holiday Foods Blood Pressure Spikes Seniors: 7 Common Culprits & Heart-Smart Swaps for Adults 72+

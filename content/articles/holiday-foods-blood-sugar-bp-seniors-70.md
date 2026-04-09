@@ -19,11 +19,6 @@ relatedSlugs:
     7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
   - >-
     how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
-
-  - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
-  - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 ---
 
 # Holiday Foods That Won't Spike Your Blood Sugar or Blood Pressure — A Safe Eating Guide for Seniors 70+

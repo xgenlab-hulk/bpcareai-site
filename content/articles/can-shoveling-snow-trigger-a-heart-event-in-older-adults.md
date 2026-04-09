@@ -18,11 +18,6 @@ relatedSlugs:
     is-it-safe-to-walk-outside-in-freezing-temperatures-with-heart-disease
   - >-
     5-silent-signs-your-heart-is-struggling-in-cold-weather
-  - 10-winter-safe-exercises-for-heart-health-after-65
-  - why-winter-increases-heart-attack-risk-in-seniors-over-70
-  - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
-  - how-vitamin-d-deficiency-impacts-heart-health-in-winter
-  - how-indoor-air-quality-affects-heart-health-in-winter
 ---
 
 # Understanding Shoveling Snow Heart Risk: What Older Adults Need to Know

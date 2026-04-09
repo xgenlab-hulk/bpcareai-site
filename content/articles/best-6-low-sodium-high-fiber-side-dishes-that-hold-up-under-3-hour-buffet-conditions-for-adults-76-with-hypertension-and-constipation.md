@@ -18,7 +18,6 @@ relatedSlugs:
     the-ultimate-guide-to-stealth-fiber-additions-for-holiday-mashed-potatoes-stuffing-and-gravy-without-changing-taste-or-texture
   - >-
     best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
-  - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
 ---
 
 # 6 Low-Sodium, High-Fiber Buffet Sides That Stay Delicious & Safe for Seniors 76+ With Hypertension and Constipation  

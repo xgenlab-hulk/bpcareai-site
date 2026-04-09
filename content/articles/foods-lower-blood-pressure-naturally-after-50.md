@@ -21,11 +21,6 @@ relatedSlugs:
     foods-stabilize-bp-during-meals-57-69
   - >-
     can-meditation-lower-blood-pressure-naturally
-
-  - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
-  - >-
-    top-5-winter-superfoods-that-naturally-lower-blood-pressure
 ---
 
 # 5 Foods That Lower Blood Pressure Naturally After 50

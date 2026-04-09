@@ -18,9 +18,6 @@ relatedSlugs:
     is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
   - >-
     is-metformin-still-safe-for-diabetics-over-70
-  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
-  - >-
-    warning-signs-your-holiday-medication-routine-is-failing-even-if-your-a1c-looks-fine
 ---
 
 # Is It Safe to Skip Metformin Before a Holiday Potluck? Understanding eGFR-Based Safety for Adults 71+  

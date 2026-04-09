@@ -18,13 +18,6 @@ relatedSlugs:
     when-to-worry-about-post-meal-fatigue-after-holiday-dinners-especially-if-you-re-68-with-type-2-diabetes-and-mild-cognitive-impairment
   - >-
     simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - how-holiday-travel-impacts-blood-sugar-in-seniors-with-diabetes
-  - >-
-    how-holiday-travel-disrupts-circadian-rhythms-and-why-that-worsens-postprandial-glucose-spikes-in-adults-65-with-prediabetes
-  - >-
-    7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
-  - how-sleep-disruption-during-the-holidays-affects-blood-sugar-after-50
 ---
 
 # Why Holiday Postprandial Glucose Spikes in Seniors Deserve Gentle Attention — Even With Stable Fasting Numbers

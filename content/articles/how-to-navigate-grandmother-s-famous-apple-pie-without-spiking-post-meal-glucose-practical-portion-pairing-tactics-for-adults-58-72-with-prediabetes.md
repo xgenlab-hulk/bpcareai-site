@@ -20,9 +20,6 @@ relatedSlugs:
     the-complete-guide-to-holiday-eating-for-adults-58-63-with-new-onset-prediabetes-and-high-functioning-careers
   - >-
     how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
-  - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
-  - >-
-    7-hidden-blood-sugar-spikes-you-re-unknowingly-causing-at-thanksgiving-dinner-and-how-to-prevent-them-without-skipping-pie
 ---
 
 # How to Safely Enjoy Apple Pie with Prediabetes: A Practical, Science-Backed Guide for Adults 58–72

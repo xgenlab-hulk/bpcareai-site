@@ -18,14 +18,6 @@ relatedSlugs:
     7-hidden-sources-of-insulin-resistance-in-women-58-72-with-pcos-history-and-recent-weight-gain
   - >-
     when-to-worry-about-unexplained-weight-gain-in-women-over-55-with-type-2-diabetes-even-with-stable-calorie-intake-and-no-new-medications
-  - how-menopause-affects-blood-sugar-control-in-women-with-diabetes
-  - >-
-    blood-pressure-in-women-with-pcos-after-45-why-traditional-guidelines-fall-short
-  - why-older-women-gain-weight-faster-during-the-holidays-after-menopause
-  - >-
-    7-unexpected-signs-of-nocturnal-hypoglycemia-in-women-58-73-with-insulin-therapy-and-perimenopausal-sleep-fragmentation
-  - >-
-    a-vs-b-pre-meal-walks-at-4-pm-vs-8-pm-for-blunting-post-holiday-dinner-glucose-spikes-in-women-with-menopause-associated-insulin-resistance
 ---
 
 # What Women Over 60 with PCOS, Diabetes, and Menopause Should Know About Androgen Decline and Metabolic Shifts

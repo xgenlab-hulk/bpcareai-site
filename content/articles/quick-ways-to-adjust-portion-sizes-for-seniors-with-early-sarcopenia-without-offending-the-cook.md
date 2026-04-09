@@ -20,13 +20,6 @@ relatedSlugs:
     nutrient-dense-foods-low-appetite-seniors
   - >-
     preserve-muscle-mass-holiday-meals
-  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
-  - portion-control-strategies-for-large-family-meals-that-work
-  - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
-  - >-
-    5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily
-  - >-
-    how-holiday-table-settings-affect-portion-control-in-adults-55-72-with-prediabetes
 ---
 
 # Smart Portion Control for Sarcopenia Seniors: Practical, Respectful Strategies That Support Muscle Health

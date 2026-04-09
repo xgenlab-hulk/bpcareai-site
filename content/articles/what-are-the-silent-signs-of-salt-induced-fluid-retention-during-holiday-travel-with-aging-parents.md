@@ -20,11 +20,6 @@ relatedSlugs:
     7-silent-signs-your-sodium-intake-spiked-at-thanksgiving-dinner-especially-if-you-re-on-an-arb-and-over-72
   - >-
     when-to-worry-about-bloating-after-thanksgiving-dinner-a-red-flag-guide-for-women-over-70
-  - heart-disease-warning-signs-that-appear-years-in-advance
-  - why-sudden-weight-gain-could-be-a-red-flag-for-your-heart
-  - warning-signs-of-dehydration-in-older-adults-during-winter-holiday-parties
-  - could-leg-swelling-be-a-sign-of-heart-trouble-after-50
-  - what-are-the-first-signs-of-holiday-heart-syndrome-in-women
 ---
 
 # Recognizing the Silent Signs of Salt-Induced Fluid Retention in Seniors During Holiday Travel

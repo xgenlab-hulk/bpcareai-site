@@ -20,11 +20,6 @@ relatedSlugs:
     quick-ways-to-calm-a-racing-heart-during-a-holiday-event
   - >-
     the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
-  - when-to-worry-about-chest-discomfort-after-a-big-holiday-meal
-  - when-to-worry-about-weight-gain-after-a-family-gathering
-  - quick-ways-to-calm-a-racing-heart-during-a-holiday-event
-  - when-to-worry-about-blood-pressure-changes-during-winter
-  - is-it-safe-to-drink-wine-during-the-holidays-if-you-ve-had-heart-issues
 ---
 
 # When Post-Meal Palpitations Warning Signs Mean It’s Time to Call Your Doctor

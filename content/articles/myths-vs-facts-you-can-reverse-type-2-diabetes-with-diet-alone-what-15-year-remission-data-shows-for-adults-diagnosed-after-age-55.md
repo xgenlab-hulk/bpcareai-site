@@ -20,12 +20,6 @@ relatedSlugs:
     12-science-backed-ways-to-counteract-post-holiday-weight-gain-in-adults-with-long-standing-type-2-diabetes-5-years
   - >-
     is-180-after-meals-normal-55-type-2
-  - can-prediabetes-be-reversed-after-age-50
-  - intermittent-fasting-beta-cell-regeneration
-  - >-
-    what-research-says-about-intermittent-fasting-windows-longer-than-14-hours-in-adults-with-type-1-diabetes-over-60-using-automated-insulin-delivery
-  - >-
-    myths-vs-facts-i-ll-just-exercise-more-after-the-holidays-why-that-strategy-fails-for-adults-65-with-type-2-diabetes-and-sarcopenic-obesity
 ---
 
 # Can Type 2 Diabetes Be Reversed After 55? What 15-Year Data Reveals About Long-Term Remission

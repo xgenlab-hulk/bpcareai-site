@@ -18,7 +18,6 @@ relatedSlugs:
     natural-ways-to-support-blood-sugar-balance-during-holiday-stress
   - >-
     beta-cell-rest-holiday-meals-natural-support
-
 ---
 
 # Natural GLP-1 Support for Holiday Meals in Seniors — Simple, Science-Backed Habits That Work

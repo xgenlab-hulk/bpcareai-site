@@ -20,7 +20,6 @@ relatedSlugs:
     foods-for-aortic-stiffness-without-orthostasis
   - >-
     why-blood-pressure-matters-even-if-you-feel-fine
-  - why-blood-pressure-matters-even-if-you-feel-fine
 ---
 
 # “I Feel Fine, So My Blood Pressure Must Be Okay” — Understanding Isolated Systolic Hypertension Symptom-Blindness After 65

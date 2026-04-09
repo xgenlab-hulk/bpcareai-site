@@ -18,12 +18,6 @@ relatedSlugs:
     postprandial-glucose-family-gatherings-prediabetes
   - >-
     how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
-  - 7-dangerous-blood-sugar-mistakes-people-make-during-the-holidays
-  - myths-vs-facts-holiday-eating-with-diabetes-after-50
-  - >-
-    skip-insulin-holiday-pie-beta-cell-stress
-  - >-
-    quick-ways-to-prevent-overnight-hypoglycemia-after-late-night-holiday-dessert-for-adults-54-66-on-sulfonylureas-or-basal-insulin
 ---
 
 # “Skip Dessert Blood Sugar Control Holiday Myths” — What Real CGM Data Reveals for Adults 61–74

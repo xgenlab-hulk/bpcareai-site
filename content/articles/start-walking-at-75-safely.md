@@ -20,10 +20,6 @@ relatedSlugs:
     how-walking-speed-can-reflect-heart-health-and-blood-pressure
   - >-
     5-things-you-should-know-before-starting-a-heart-smart-walking-group-especially-if-you-re-78-with-spinal-stenosis-and-mild-aortic-stenosis
-  - 30g-fiber-safe-after-65
-  - walking-minutes-per-day-seniors-over-65
-  - exercise-at-65-weekly-plan
-  - walk-cold-weather-after-70
 ---
 
 # How to Start Walking at 75 — Safe, Doctor-Approved Steps

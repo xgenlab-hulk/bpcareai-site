@@ -20,11 +20,6 @@ relatedSlugs:
     simple-steps-to-reduce-holiday-meal-induced-gastric-reflux-in-women-63-with-hiatal-hernia-without-ppis-or-antacids
   - >-
     best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
-  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
-  - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
-  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
-  - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
-  - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
 ---
 
 # Soothing Post-Holiday Meal Foods for Acid Reflux Seniors: Gentle Choices That Support Comfort

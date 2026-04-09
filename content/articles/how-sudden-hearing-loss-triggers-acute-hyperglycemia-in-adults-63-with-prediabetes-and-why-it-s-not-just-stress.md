@@ -18,9 +18,6 @@ relatedSlugs:
     hearing-loss-diabetes-cognitive-decline
   - >-
     what-research-says-about-holiday-stress-hormones-and-fasting-glucose-variability-in-adults-54-69-with-prediabetes-and-high-crp
-  - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
-  - >-
-    why-holiday-social-isolation-raises-fasting-glucose-in-adults-75-with-type-2-diabetes-and-mild-depression
 ---
 
 # Sudden Hearing Loss, Hyperglycemia, and Prediabetes in Adults 63+: What’s Really Happening

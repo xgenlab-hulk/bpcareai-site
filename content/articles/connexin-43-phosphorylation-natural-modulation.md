@@ -18,13 +18,6 @@ relatedSlugs:
     mitochondrial-biogenesis-heart-natural
   - >-
     time-restricted-eating-4pm-type-2-diabetes-seniors
-
-  - >-
-    mitochondrial-biogenesis-heart-failure-trf
-  - >-
-    mitochondrial-biogenesis-diastolic-dysfunction
-  - >-
-    mitochondrial-biogenesis-natural-diastolic-stiffness
 ---
 
 # Natural Strategies for Connexin-43 Phosphorylation Natural Modulation in Older Adults With Intermittent PACs

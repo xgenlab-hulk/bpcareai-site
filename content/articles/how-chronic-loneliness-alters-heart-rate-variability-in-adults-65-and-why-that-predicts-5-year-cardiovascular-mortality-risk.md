@@ -20,11 +20,6 @@ relatedSlugs:
     the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
   - >-
     how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone
-  - how-social-isolation-impacts-heart-disease-risk-in-older-adults
-  - >-
-    the-connection-between-chronic-loneliness-and-left-ventricular-hypertrophy-in-older-adults-living-alone
-  - >-
-    how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone
 ---
 
 # How Loneliness and Heart Rate Variability in Seniors Reflects a Deeper Heart Health Connection

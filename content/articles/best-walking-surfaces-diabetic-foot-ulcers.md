@@ -18,7 +18,6 @@ relatedSlugs:
     charcot-neuroarthropathy-footwear-seniors
   - >-
     barefoot-walking-glycemic-variability-seniors
-
 ---
 
 # Best Walking Surfaces for Diabetic Foot Ulcers: Evidence-Based Guidance for Adults 69+ in Remission

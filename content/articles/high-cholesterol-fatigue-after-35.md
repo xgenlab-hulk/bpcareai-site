@@ -20,9 +20,6 @@ relatedSlugs:
     ldl-target-55-year-old-woman
   - >-
     can-high-cholesterol-cause-heart-disease-even-with-normal-blood-pressure
-  - does-stress-raise-cholesterol-after-35
-  - read-cholesterol-test-after-60
-  - cholesterol-lowering-soups-over-45
 ---
 
 # Can High Cholesterol Cause Fatigue After 35? (40% of 35–44 Yo Have

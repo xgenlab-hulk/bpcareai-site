@@ -20,13 +20,6 @@ relatedSlugs:
     5-surprising-foods-that-may-trigger-holiday-heart-syndrome
   - >-
     quick-ways-to-calm-a-racing-heart-during-a-holiday-event
-  - when-to-worry-about-palpitations-after-christmas-dinner
-  - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
-  - >-
-    holiday-palpitations-cardiac-amyloidosis-red-flags
-  - >-
-    when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction
-  - holiday-heart-syndrome-in-men-over-60-unique-risks-and-prevention-tips
 ---
 
 # When Post-Dinner Palpitations Holiday Heart Syndrome Might Be More Than Just the Latkes or Eggnog

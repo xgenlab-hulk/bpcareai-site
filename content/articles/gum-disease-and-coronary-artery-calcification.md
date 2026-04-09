@@ -20,11 +20,6 @@ relatedSlugs:
     the-hidden-link-between-gum-disease-and-heart-problems
   - >-
     dental-inflammation-coronary-microvascular-flow
-  - the-hidden-link-between-gum-disease-and-heart-problems
-  - >-
-    periodontitis-postprandial-hyperglycemia
-  - >-
-    gum-disease-and-coronary-artery-function
 ---
 
 # How Gum Disease and Coronary Artery Calcification Are Linked—And What You Can Do About It

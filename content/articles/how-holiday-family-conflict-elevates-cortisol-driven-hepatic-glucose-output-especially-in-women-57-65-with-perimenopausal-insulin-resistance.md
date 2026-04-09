@@ -20,12 +20,6 @@ relatedSlugs:
     holiday-dinner-blood-sugar-emotional-triggers
   - >-
     candy-distraction-cortisol-fat-oxidation
-
-  - >-
-    how-intergenerational-cooking-stress-alters-postprandial-insulin-sensitivity-in-women-61-76-with-abdominal-obesity-and-cortisol-dysregulation
-  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
-  - >-
-    5-things-every-woman-over-62-should-know-about-holiday-cortisol-surges-and-their-impact-on-visceral-fat-redistribution-in-prediabetes
 ---
 
 # How Holiday Family Conflict Triggers Cortisol-Driven Glucose Output — Especially for Women 57–65 With Perimenopausal Insulin Resistance

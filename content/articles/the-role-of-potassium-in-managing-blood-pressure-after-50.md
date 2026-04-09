@@ -20,11 +20,6 @@ relatedSlugs:
     foods-raise-bp-hidden-causes-seniors
   - >-
     can-drinking-more-water-help-lower-blood-pressure-naturally
-  - hidden-salt-10-surprising-foods-that-spike-blood-pressure
-  - does-caffeine-raise-blood-pressure-after-age-60
-  - blood-pressure-changes-during-menopause-what-women-should-know
-  - how-often-should-adults-over-50-check-their-blood-pressure
-  - top-5-winter-superfoods-that-naturally-lower-blood-pressure
 ---
 
 # How Potassium and Blood Pressure Management Over 50 Can Work Together

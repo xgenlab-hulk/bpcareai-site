@@ -18,11 +18,6 @@ relatedSlugs:
     foods-heart-rhythm-afib-64
   - >-
     10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
-
-  - >-
-    natural-ways-to-support-cardiac-connexin-43-expression-without-medication-evidence-from-7-clinical-trials-in-adults-60-79
-  - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
 ---
 
 # Atrial-Stabilizing Foods for Holiday Heart Support — Gentle, Evidence-Informed Choices for Adults 57–71

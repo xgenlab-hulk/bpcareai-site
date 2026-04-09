@@ -18,11 +18,6 @@ relatedSlugs:
     5-things-your-cardiologist-isn-t-asking-about-holiday-heart-syndrome-but-should-be-especially-if-you-re-on-beta-blockers-or-digoxin
   - >-
     quick-ways-to-calm-a-racing-heart-during-a-holiday-event
-  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
-  - why-emotional-stress-at-family-gatherings-raises-heart-arrhythmia-risk
-  - blood-pressure-management-for-sedentary-seniors-in-winter-months
-  - why-older-adults-with-high-blood-pressure-should-limit-festive-alcohol
-  - can-mindfulness-during-the-holidays-reduce-arrhythmia-episodes
 ---
 
 # Can Holiday Card Games Affect Blood Pressure and Heart Rhythm in Adults Over 65?

@@ -18,7 +18,6 @@ relatedSlugs:
     how-chronic-holiday-social-isolation-alters-ventricular-repolarization-reserve-evidence-from-24-hour-qtc-monitoring-in-adults-69-living-alone
   - >-
     simple-changes-to-your-evening-light-exposure-that-reduce-nocturnal-myocardial-oxygen-demand-in-adults-with-stable-angina-and-sleep-onset-insomnia
-  - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
 ---
 
 # How Late-Night Gift Wrapping Under Blue-Light LEDs May Worsen QT Prolongation in Adults 57–69

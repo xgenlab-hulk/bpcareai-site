@@ -18,10 +18,6 @@ relatedSlugs:
     how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
   - >-
     7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - the-role-of-fiber-in-preventing-blood-sugar-spikes-at-holiday-dinners
-  - >-
-    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
 ---
 
 # Thanksgiving Blood Sugar Spikes Prevention: 7 Surprising Triggers—and Smart Ways to Stay Steady

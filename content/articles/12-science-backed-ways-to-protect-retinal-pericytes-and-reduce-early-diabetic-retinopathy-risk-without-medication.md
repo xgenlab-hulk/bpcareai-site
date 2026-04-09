@@ -18,13 +18,6 @@ relatedSlugs:
     simple-steps-to-modify-grandma-s-pie-recipe-for-diabetic-retinopathy-risk-reduction-without-sacrificing-flavor-or-texture
   - >-
     what-research-says-about-low-dose-aspirin-and-diabetic-retinopathy-progression-in-men-68-80-with-nonproliferative-disease
-
-  - >-
-    quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
-  - >-
-    best-holiday-snacks-for-seniors-with-early-macular-degeneration-ranked-by-lutein-bioavailability-fat-co-ingestion-and-light-induced-oxidative-stress
-  - >-
-    holiday-eating-macular-degeneration-lutein-bioavailability
 ---
 
 # 12 Science-Supported Ways to Protect Retinal Pericytes and Lower Early Diabetic Retinopathy Risk—Naturally

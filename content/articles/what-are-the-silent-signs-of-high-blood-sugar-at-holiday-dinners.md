@@ -20,11 +20,6 @@ relatedSlugs:
     warning-signs-of-hypoglycemia-at-new-year-s-eve-parties-everyone-should-know
   - >-
     when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
-  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
-  - why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
-  - 5-silent-signs-your-heart-is-struggling-in-cold-weather
-  - heart-disease-warning-signs-that-appear-years-in-advance
-  - quick-ways-to-lower-high-blood-sugar-after-a-holiday-meal
 ---
 
 # Recognizing the Silent Signs of High Blood Sugar During Holiday Gatherings

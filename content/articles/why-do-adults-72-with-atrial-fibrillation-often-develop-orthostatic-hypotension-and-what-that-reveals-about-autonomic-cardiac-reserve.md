@@ -18,13 +18,6 @@ relatedSlugs:
     post-dinner-fatigue-orthostatic-hypotension
   - >-
     when-to-suspect-orthostatic-hypertension-instead-of-hypotension-in-adults-77-with-recurrent-falls-and-why-your-bp-cuff-may-be-lying-to-you
-  - the-link-between-atrial-fibrillation-and-heart-disease-in-seniors
-  - >-
-    why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh
-  - >-
-    can-intermittent-fasting-worsen-autonomic-neuropathy-in-adults-71-with-long-term-type-2-diabetes-and-orthostatic-tachycardia
-  - >-
-    warning-signs-your-blood-pressure-is-being-masked-by-orthostatic-hypotension-especially-after-age-73-and-during-hot-weather
 ---
 
 # Why Atrial Fibrillation Orthostatic Hypotension in Older Adults Signals a Shift — Not a Sentence — in Heart Health

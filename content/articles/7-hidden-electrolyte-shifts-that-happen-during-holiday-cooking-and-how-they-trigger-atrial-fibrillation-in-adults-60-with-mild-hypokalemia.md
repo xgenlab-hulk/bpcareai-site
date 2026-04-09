@@ -18,7 +18,6 @@ relatedSlugs:
     5-things-everyone-over-73-should-know-about-holiday-nuts-including-which-varieties-worsen-atrial-fibrillation-triggers-in-winter
   - >-
     the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
-  - how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
 ---
 
 # How Holiday Cooking Electrolyte Shifts Can Quietly Trigger Atrial Fibrillation in Adults 60+ — And What You Can Do About It

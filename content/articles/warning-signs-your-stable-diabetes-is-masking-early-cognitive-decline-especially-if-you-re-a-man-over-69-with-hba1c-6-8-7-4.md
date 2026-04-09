@@ -18,7 +18,6 @@ relatedSlugs:
     hearing-loss-diabetes-cognitive-decline
   - >-
     how-social-isolation-alters-hippocampal-glucose-metabolism-and-increases-risk-of-hypoglycemia-unawareness-in-adults-73-living-alone-with-t2d
-  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
 ---
 
 # Early Diabetes Cognitive Decline Warning Signs in Men 69+: What Subtle Changes May Signal Brain Health Shifts

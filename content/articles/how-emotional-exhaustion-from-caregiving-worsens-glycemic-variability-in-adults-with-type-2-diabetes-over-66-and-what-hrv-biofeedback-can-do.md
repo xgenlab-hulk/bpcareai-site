@@ -20,13 +20,6 @@ relatedSlugs:
     how-stress-affects-blood-sugar-in-people-with-diabetes-over-50
   - >-
     why-your-stable-a1c-might-mask-dangerous-postprandial-spikes-after-age-65-and-what-continuous-glucose-monitoring-reveals
-  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
-  - >-
-    social-dancing-glycemic-variability-orthostatic-hypotension
-  - how-holiday-stress-affects-blood-sugar-in-seniors-with-type-2-diabetes
-  - why-emotional-stress-at-family-gatherings-raises-blood-sugar-and-how-to-cope
-  - >-
-    how-holiday-stress-cortisol-spikes-impair-glp-1-secretion-in-adults-64-with-obesity-and-prediabetes-and-why-mindful-breathing-beats-just-relax-advice
 ---
 
 # How Caregiver Stress and Glycemic Variability in Seniors Interact—And What You Can Gently Do About It

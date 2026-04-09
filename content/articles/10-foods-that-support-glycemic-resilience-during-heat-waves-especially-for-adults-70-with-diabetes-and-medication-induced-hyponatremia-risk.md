@@ -18,11 +18,6 @@ relatedSlugs:
     7-silent-signs-your-diabetes-medication-is-causing-subclinical-hyponatremia-especially-after-hot-tub-soaking-in-adults-72
   - >-
     no-sugar-added-soup-sodium-diabetes
-  - 5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
-  - best-fruits-for-diabetics-over-50-and-which-to-limit
-  - >-
-    a-vs-b-roasted-sweet-potatoes-with-maple-syrup-vs-baked-yams-with-cinnamon-which-raises-postprandial-glucose-less-in-adults-with-early-stage-ckd
-
 ---
 
 # 10 Heat Wave Glycemic Resilience Foods for Older Adults With Diabetes—and Why Sodium Balance Matters More Than Ever

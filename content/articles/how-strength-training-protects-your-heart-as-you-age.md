@@ -20,11 +20,6 @@ relatedSlugs:
     could-your-heartbeats-per-minute-predict-longevity
   - >-
     resistance-training-left-ventricular-hypertrophy
-  - can-strength-training-lower-heart-disease-risk-after-60
-  - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
-  - can-gardening-improve-heart-health-after-50
-  - could-your-heartbeats-per-minute-predict-longevity
-  - how-fiber-rich-diets-support-heart-health-in-people-over-60
 ---
 
 # How Strength Training Benefits Heart Health Over 50—And Why It’s Never Too Late to Start

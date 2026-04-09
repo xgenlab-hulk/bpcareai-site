@@ -20,7 +20,6 @@ relatedSlugs:
     how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
   - >-
     is-holiday-heart-syndrome-reversible-what-science-says
-  - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
 ---
 
 # How Thoughtful Holiday Nap Timing and Atrial Ectopy Reduction Support Heart Comfort in Later Years

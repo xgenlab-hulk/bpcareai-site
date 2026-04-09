@@ -18,14 +18,6 @@ relatedSlugs:
     check-blood-pressure-at-home-correctly
   - >-
     warning-signs-your-blood-pressure-monitor-is-giving-false-readings-especially-if-you-re-71-with-atrial-fibrillation-and-irregular-pulse
-  - blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ
-  - how-to-monitor-blood-pressure-at-home-during-winter-a-senior-s-guide
-  - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
-  - >-
-    when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
-  - >-
-    the-complete-guide-to-home-blood-pressure-monitoring-for-people-with-arthritis-or-tremors
 ---
 
 # What Your Cardiologist Wishes You Knew About Pharmacy Blood Pressure Reading Accuracy

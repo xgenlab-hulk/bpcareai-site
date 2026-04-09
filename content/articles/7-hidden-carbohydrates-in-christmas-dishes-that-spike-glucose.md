@@ -18,11 +18,6 @@ relatedSlugs:
     simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
   - >-
     7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays
-  - best-low-carb-desserts-for-diabetics-over-60-this-holiday-season
-  - 5-smart-substitutions-for-classic-holiday-dishes-that-won-t-spike-glucose
-  - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 ---
 
 # Hidden Carbs in Christmas Meals That Sabotage Blood Sugar — Especially for Adults Over 50

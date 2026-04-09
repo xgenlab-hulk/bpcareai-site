@@ -18,14 +18,6 @@ relatedSlugs:
     how-seasonal-air-pollution-peaks-alter-st-segment-variability-and-why-that-increases-acute-coronary-syndrome-risk-in-adults-59-with-stable-angina
   - >-
     how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55
-  - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
-  - >-
-    how-air-pollution-exposure-during-daily-walks-affects-endothelial-function-in-adults-with-prediabetes-over-55
-  - how-air-pollution-impacts-heart-health-in-older-adults
-  - >-
-    how-indoor-air-pollution-from-gas-stoves-and-incense-alters-endothelial-function-and-24-hour-bp-patterns-in-adults-58-74-living-in-urban-apartments
-  - >-
-    the-connection-between-holiday-alcohol-consumption-and-nocturnal-atrial-fibrillation-episodes-in-women-over-60
 ---
 
 # Can Air Pollution Trigger AFib Episodes During Daily Walks? What Women Over 60 Need to Know About Air Pollution and AFib  

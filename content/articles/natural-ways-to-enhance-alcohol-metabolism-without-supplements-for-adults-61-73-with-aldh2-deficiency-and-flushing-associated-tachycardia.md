@@ -18,13 +18,6 @@ relatedSlugs:
     the-truth-about-non-alcoholic-holiday-drinks-for-adults-67-with-undiagnosed-alcohol-sensitivity-and-left-atrial-enlargement
   - >-
     holiday-foods-stabilize-blood-glucose-during-meal
-  - the-role-of-magnesium-in-preventing-alcohol-induced-arrhythmias
-  - >-
-    pancreatic-acinar-support-for-diabetics
-  - >-
-    5-things-everyone-over-62-should-know-about-alcohol-pairing-at-family-dinners-especially-with-beta-blockers-or-diuretics
-  - >-
-    natural-ways-to-support-post-meal-insulin-sensitivity-without-supplements-for-adults-57-69-with-abdominal-obesity-and-mild-nafld
 ---
 
 # Natural Alcohol Metabolism Enhancement for ALDH2 Deficiency — Gentle, Evidence-Informed Strategies for Adults 61–73

@@ -18,12 +18,6 @@ relatedSlugs:
     stabilize-morning-glucose-without-insulin
   - >-
     skipping-breakfast-holiday-hyperglycemia-seniors
-
-  - >-
-    holiday-foods-stabilize-blood-glucose-during-meal
-  - >-
-    9-foods-that-stabilize-blood-sugar-without-adding-protein-powders-or-supplements-for-adults-57-managing-type-2-diabetes-at-holiday-dinners
-
 ---
 
 # Foods That Support Fasting Glucose Stabilization Hypoglycemia Seniors — Safely Nourishing Metabolic Resilience After 62

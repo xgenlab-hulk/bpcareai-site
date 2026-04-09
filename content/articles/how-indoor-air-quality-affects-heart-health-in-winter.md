@@ -20,11 +20,6 @@ relatedSlugs:
     10-simple-home-adjustments-to-support-blood-pressure-stability-in-winter
   - >-
     how-staying-hydrated-in-winter-protects-your-heart-after-70
-  - the-hidden-dangers-of-indoor-heating-on-blood-pressure
-  - the-best-indoor-exercises-for-blood-pressure-control-in-winter
-  - how-vitamin-d-deficiency-impacts-heart-health-in-winter
-  - how-air-pollution-impacts-heart-health-in-older-adults
-  - how-winter-depression-affects-heart-health-in-retired-adults
 ---
 
 # How Indoor Air Quality Impacts Heart Health in Winter—Especially After Age 50

@@ -18,7 +18,6 @@ relatedSlugs:
     12-science-backed-ways-to-reduce-post-holiday-inflammation-in-just-5-days-targeting-crp-il-6-and-endothelial-function-in-adults-55-72
   - >-
     12-science-backed-ways-to-counteract-post-meal-inflammation-after-age-58-especially-during-extended-family-visits
-  - 5-science-backed-snacks-to-prevent-blood-sugar-crashes-after-holiday-parties
 ---
 
 # Smart Anti-Inflammatory Holiday Snacks for Men 71+ With Psoriatic Arthritis and Elevated CRP

@@ -20,14 +20,6 @@ relatedSlugs:
     5-things-every-adult-55-64-newly-diagnosed-with-prediabetes-should-know-before-their-first-holiday-potluck
   - >-
     how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
-  - how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
-  - >-
-    7-hidden-sources-of-added-sugar-at-family-dinners-that-sabotage-blood-sugar-control
-  - >-
-    how-to-navigate-a-potluck-without-spiking-your-a1c-blood-sugar-smart-strategies-for-seniors-with-type-2-diabetes
-  - >-
-    12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings
-  - simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
 ---
 
 # How Family-Style Serving Affects Blood Sugar in Seniors with Prediabetes—and Simple Ways to Stay Steady

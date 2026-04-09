@@ -20,11 +20,6 @@ relatedSlugs:
     winter-hydration-blood-pressure-stability-elderly
   - >-
     5-silent-signs-your-holiday-hydration-strategy-is-failing-especially-with-diuretic-medications
-  - can-hydration-prevent-winter-blood-pressure-spikes-after-age-70
-  - how-dehydration-affects-blood-sugar-readings-in-older-diabetics
-  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
-  - why-winter-increases-heart-attack-risk-in-seniors-over-70
-  - can-drinking-too-much-water-raise-blood-pressure
 ---
 
 # Staying Hydrated in Winter for Seniors: Simple, Everyday Tips

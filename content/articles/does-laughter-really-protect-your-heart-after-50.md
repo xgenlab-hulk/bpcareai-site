@@ -18,11 +18,6 @@ relatedSlugs:
     how-retirement-changes-affect-heart-health
   - >-
     how-pets-support-heart-health-in-older-adults
-  - can-gardening-improve-heart-health-after-50
-  - how-sleep-affects-heart-health-after-50
-  - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
-  - how-retirement-changes-affect-heart-health
-  - can-meditation-reduce-heart-disease-risk-after-50
 ---
 
 # Can Laughter Really Improve Heart Health After 50?

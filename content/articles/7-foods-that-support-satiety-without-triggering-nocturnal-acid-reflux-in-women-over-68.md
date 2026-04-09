@@ -18,13 +18,6 @@ relatedSlugs:
     simple-steps-to-reduce-holiday-meal-induced-gastric-reflux-in-women-63-with-hiatal-hernia-without-ppis-or-antacids
   - >-
     10-high-fiber-holiday-foods-that-support-digestion-after-50
-  - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
-  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
-  - >-
-    4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts
-  - >-
-    how-holiday-leftovers-affect-gastric-emptying-in-adults-over-75-with-mild-gastroparesis
-  - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
 ---
 
 # Satiety Foods for Nocturnal Acid Reflux in Seniors: Gentle, Holiday-Friendly Choices After 68

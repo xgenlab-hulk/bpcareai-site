@@ -20,12 +20,6 @@ relatedSlugs:
     natural-autonomic-stabilization-holiday-heart
   - >-
     the-hidden-link-between-holiday-stress-and-irregular-heartbeat
-  - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
-  - >-
-    can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
-  - >-
-    how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
-  - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
 ---
 
 # How Holiday Stress and Atrial Ectopy Interact — Gentle Insights for Adults 62+  

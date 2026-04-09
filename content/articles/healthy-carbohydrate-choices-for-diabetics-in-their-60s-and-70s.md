@@ -20,11 +20,6 @@ relatedSlugs:
     myths-vs-facts-carb-counting-works-for-everyone-why-it-fails-in-adults-73-with-mild-cognitive-impairment-and-late-stage-diabetic-retinopathy
   - >-
     how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
-  - best-fruits-for-diabetics-over-50-and-which-to-limit
-  - the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors
-  - understanding-a1c-goals-for-seniors-with-diabetes
-  - best-supplements-for-blood-sugar-support-after-50
-  - the-role-of-fiber-in-controlling-blood-sugar-after-50
 ---
 
 # Smart Carbohydrate Choices: Healthy Carbs for Older Adults with Diabetes

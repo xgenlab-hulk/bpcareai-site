@@ -18,14 +18,6 @@ relatedSlugs:
     best-hydration-strategies-for-heart-patients-during-holiday-travel-especially-with-airport-security-delays-and-dry-cabin-air
   - >-
     natural-ways-to-support-digestive-enzyme-production-after-age-60-especially-during-heavy-holiday-meals
-
-  - >-
-    5-foods-that-support-salivary-amylase-activity-without-increasing-carbohydrate-load-for-adults-77-with-xerostomia-and-mild-dysphagia
-
-  - >-
-    5-foods-that-support-salivary-amylase-activity-without-increasing-carbohydrate-load-for-adults-77-with-xerostomia-and-mild-dysphagia
-  - >-
-    what-causes-sudden-dry-mouth-during-holiday-dessert-consumption-in-adults-75-with-sj-gren-s-syndrome-and-xerostomia-related-dysphagia
 ---
 
 # How Holiday Travel Dehydration Disrupts Salivary Amylase — And Why It Slows Carb Digestion in Adults 65+

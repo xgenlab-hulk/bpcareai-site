@@ -18,9 +18,6 @@ relatedSlugs:
     how-does-family-history-influence-your-risk-of-heart-disease-after-60
   - >-
     aspirin-primary-prevention-cacs-score
-
-  - >-
-    aspirin-primary-prevention-cacs-score
 ---
 
 # Your Reassuring Cardiac CT Calcium Score Guide for Adults 60+ with Family History — But No Symptoms

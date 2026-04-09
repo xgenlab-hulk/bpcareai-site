@@ -20,14 +20,6 @@ relatedSlugs:
     how-social-isolation-alters-nighttime-heart-rate-variability-and-accelerates-coronary-artery-calcification-in-men-71-84-living-alone
   - >-
     how-late-night-holiday-leftovers-affect-circadian-rhythm-gene-expression-in-adults-59-70-with-shift-work-history-and-mild-insulin-resistance
-  - can-late-night-holiday-parties-disrupt-heart-rhythm-after-60
-  - >-
-    how-late-night-gift-wrapping-affects-heart-rhythm-stability-in-adults-with-pre-existing-afib
-  - >-
-    how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
-  - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
-  - >-
-    12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
 ---
 
 # How Night Shift Work After 50 Affects Circadian Genes and Heart Health—And What You Can Do About It

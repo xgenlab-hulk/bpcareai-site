@@ -18,9 +18,6 @@ relatedSlugs:
     cookie-swap-diabetes-neuropathy-seniors
   - >-
     simple-steps-to-avoid-overeating-at-holiday-dinners-with-diabetes
-  - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
-  - >-
-    7-silent-signs-your-holiday-indigestion-isn-t-just-overeating-it-could-be-early-gastric-neuropathy-in-adults-over-72
 ---
 
 # How Do You Prevent Dangerous Blood Sugar Swings During Holiday Meals for Diabetics 76+ with Nerve Damage?

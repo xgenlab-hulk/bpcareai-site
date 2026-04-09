@@ -18,13 +18,6 @@ relatedSlugs:
     12-foods-that-delay-endothelial-senescence-not-just-lower-bp-including-black-garlic-extract-germinated-brown-rice-and-low-age-roasted-chickpeas-for-adults-60
   - >-
     endothelial-support-without-nitrates-seniors
-
-  - >-
-    endothelial-nitric-oxide-synthase-recoupling
-  - >-
-    sirt1-activating-foods-endothelial-dysfunction-flow-mediated-dilation
-  - >-
-    endothelial-support-without-nitrates-seniors
 ---
 
 # 12 eNOS Foods for MTHFR Polymorphism Hypertension — Gentle, Evidence-Informed Choices for Adults 57–66

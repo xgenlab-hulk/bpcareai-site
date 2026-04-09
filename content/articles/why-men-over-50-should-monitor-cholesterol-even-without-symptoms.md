@@ -20,11 +20,6 @@ relatedSlugs:
     high-cholesterol-fatigue-after-35
   - >-
     why-annual-heart-screenings-are-crucial-after-turning-60
-  - why-blood-pressure-matters-even-if-you-feel-fine
-  - how-silent-heart-attacks-differ-in-older-adults
-  - why-arm-pain-shouldn-t-be-ignored-in-women-over-50
-  - how-often-should-adults-over-50-check-their-blood-pressure
-  - why-annual-heart-screenings-are-crucial-after-turning-60
 ---
 
 # Why Cholesterol Monitoring for Men Over 50 Without Symptoms Is Essential for Heart Health

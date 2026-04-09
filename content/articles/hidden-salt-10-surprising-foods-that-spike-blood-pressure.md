@@ -20,11 +20,6 @@ relatedSlugs:
     7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker
   - >-
     the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
-  - the-role-of-potassium-in-managing-blood-pressure-after-50
-  - why-blood-pressure-matters-even-if-you-feel-fine
-  - does-caffeine-raise-blood-pressure-after-age-60
-  - can-drinking-too-much-water-raise-blood-pressure
-  - can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure
 ---
 
 # The Hidden Salt in Food and Blood Pressure: 10 Surprising Culprits You Might Be Eating

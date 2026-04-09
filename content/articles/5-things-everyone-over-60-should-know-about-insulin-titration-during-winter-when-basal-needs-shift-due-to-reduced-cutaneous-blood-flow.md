@@ -18,9 +18,6 @@ relatedSlugs:
     simple-steps-to-adjust-your-diabetes-medication-timing-for-winter-circadian-shifts-especially-if-you-live-north-of-the-45th-parallel-and-are-over-69
   - >-
     how-holiday-air-travel-disrupts-subcutaneous-insulin-absorption-kinetics-in-adults-73-with-subcutaneous-adipose-atrophy-and-long-term-t1d
-  - does-layering-clothes-help-regulate-blood-pressure-in-cold-climates
-  - winter-vs-summer-blood-pressure-what-seniors-need-to-know
-  - 5-common-medication-adjustments-seniors-need-in-winter
 ---
 
 # How Does Cold Weather Affect Insulin Absorption in Seniors Over 60 During Winter?

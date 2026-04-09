@@ -20,12 +20,6 @@ relatedSlugs:
     a-vs-b-dawn-simulation-vs-midday-10-000-lux-light-box-for-sustained-alertness-and-cortisol-rhythm-stabilization-in-adults-63-77
   - >-
     simple-steps-to-rebuild-morning-light-exposure-habits-after-cataract-surgery-especially-for-adults-over-68-with-prior-seasonal-mood-swings
-  - how-sleep-disruption-fuels-seasonal-mood-disorders-in-adults-over-60
-  - >-
-    what-research-says-about-melatonin-and-mood-regulation-in-older-adults-during-winter
-  - the-link-between-social-isolation-and-seasonal-mood-decline-in-retirees
-  - can-vitamin-b12-deficiency-worsen-seasonal-depression-in-seniors
-  - can-dog-ownership-reduce-seasonal-depression-risk-in-retired-seniors
 ---
 
 # How Less Sunlight After 60 Disrupts Your Melatonin and Cortisol—And What That Means for Winter Mood

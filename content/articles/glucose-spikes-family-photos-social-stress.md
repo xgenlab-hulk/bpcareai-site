@@ -18,8 +18,6 @@ relatedSlugs:
     how-intergenerational-plate-sharing-during-thanksgiving-dinner-elevates-postprandial-glucose-spikes-in-adults-62-with-prediabetes
   - >-
     how-family-gatherings-affect-blood-sugar-in-men-over-60-with-diabetes
-  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
-  - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
 ---
 
 # Why You Might See Glucose Spikes During Family Photos — And How Social Stress Plays a Surprising Role

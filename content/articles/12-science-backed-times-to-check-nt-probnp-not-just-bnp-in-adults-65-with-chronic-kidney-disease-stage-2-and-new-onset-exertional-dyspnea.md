@@ -18,9 +18,6 @@ relatedSlugs:
     how-chronic-sleep-fragmentation-from-nocturia-affects-left-ventricular-stiffness-in-adults-70-84-with-hypertension-and-mild-ckd
   - >-
     why-does-heart-failure-progress-despite-stable-nt-probnp-in-adults-66-with-iron-deficiency-anemia-and-elevated-hepcidin
-
-  - >-
-    simple-changes-to-your-holiday-nap-timing-that-reduce-atrial-ectopy-burden-in-adults-with-early-diastolic-dysfunction
 ---
 
 # When to Check NT-proBNP in Older Adults With Stage 2 CKD and New Shortness of Breath — A Science-Guided Timing Strategy

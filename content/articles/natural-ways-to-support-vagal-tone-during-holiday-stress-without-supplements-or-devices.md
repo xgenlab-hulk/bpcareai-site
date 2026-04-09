@@ -20,11 +20,6 @@ relatedSlugs:
     can-daily-3-minute-guided-vagal-breathing-before-dinner-reduce-afib-episodes-in-adults-59-74-with-holiday-heart-syndrome-history
   - >-
     top-6-stress-reduction-techniques-to-protect-your-heart-this-holiday
-  - quick-ways-to-calm-a-racing-heart-during-a-holiday-event
-  - natural-ways-to-support-blood-sugar-balance-during-holiday-stress
-  - top-6-stress-reduction-techniques-to-protect-your-heart-this-holiday
-
-  - natural-ways-to-lower-blood-pressure-this-winter-without-medication
 ---
 
 # Gentle, Natural Vagal Tone Support During Holiday Stress—No Pills or Gadgets Needed

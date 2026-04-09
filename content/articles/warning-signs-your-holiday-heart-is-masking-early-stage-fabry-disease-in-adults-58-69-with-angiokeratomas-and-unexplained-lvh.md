@@ -18,11 +18,6 @@ relatedSlugs:
     the-truth-about-benign-holiday-palpitations-are-they-really-harmless
   - >-
     how-holiday-alcohol-consumption-triggers-atrial-fibrillation-in-adults-55-with-subclinical-left-atrial-enlargement-even-without-binge-drinking
-  - what-are-the-first-signs-of-holiday-heart-syndrome-in-women
-  - >-
-    when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss
-  - >-
-    myths-vs-facts-i-only-drink-wine-so-i-m-safe-from-holiday-heart-syndrome-in-adults-55-71-with-metabolic-syndrome
 ---
 
 # When “Holiday Heart” Might Be More Than Just Too Much Mulled Wine: Recognizing Early Fabry Disease in Adults 58–69

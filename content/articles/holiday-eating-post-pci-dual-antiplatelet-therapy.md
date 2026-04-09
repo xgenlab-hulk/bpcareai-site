@@ -20,9 +20,6 @@ relatedSlugs:
     seniors-living-alone-holiday-party-preparedness
   - >-
     the-truth-about-heart-healthy-holiday-salads-why-kale-cranberries-and-walnuts-may-backfire-for-adults-67-on-warfarin-or-apixaban
-  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
-  - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
-
 ---
 
 # Navigating Holiday Eating After PCI: A Gentle, Practical Guide for Seniors on Dual Antiplatelet Therapy

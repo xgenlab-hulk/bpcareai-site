@@ -20,11 +20,6 @@ relatedSlugs:
     how-chronic-stress-contributes-to-high-blood-pressure-over-time
   - >-
     myths-vs-facts-my-bp-is-fine-because-my-doctor-never-mentioned-it-in-adults-54-67-with-elevated-pulse-pressure-and-normal-office-sbp-dbp
-  - the-link-between-sleep-apnea-and-high-blood-pressure-after-50
-  - hidden-salt-10-surprising-foods-that-spike-blood-pressure
-  - recognizing-silent-heart-attacks-in-diabetics-over-60
-  - how-standing-up-too-fast-affects-blood-pressure-in-older-adults
-  - the-link-between-sleep-apnea-and-high-blood-pressure
 ---
 
 # Why High Blood Pressure With No Symptoms Is Still Dangerous

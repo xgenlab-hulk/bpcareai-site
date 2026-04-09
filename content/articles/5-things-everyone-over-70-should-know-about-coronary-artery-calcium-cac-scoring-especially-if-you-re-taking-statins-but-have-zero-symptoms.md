@@ -18,9 +18,6 @@ relatedSlugs:
     12-science-backed-ways-to-reduce-coronary-artery-calcification-progression-after-age-55
   - >-
     aspirin-primary-prevention-cacs-score
-
-  - >-
-    myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
 ---
 
 # Coronary Calcium Score Over 70: What Your Number Really Means for Heart Risk

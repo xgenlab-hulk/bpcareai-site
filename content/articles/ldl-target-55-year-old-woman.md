@@ -21,8 +21,6 @@ relatedSlugs:
     high-cholesterol-fatigue-after-35
   - >-
     does-stress-raise-cholesterol-after-35
-  - read-cholesterol-test-after-60
-  - best-cholesterol-meds-women-menopause
 ---
 
 # What Should LDL Be for a 55-Year-Old Woman? (Guideline Targets)

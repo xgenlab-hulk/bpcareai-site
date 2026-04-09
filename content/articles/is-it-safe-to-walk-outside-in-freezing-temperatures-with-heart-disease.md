@@ -20,11 +20,6 @@ relatedSlugs:
     how-chronic-lung-conditions-amplify-heart-risks-in-winter
   - >-
     how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
-  - 10-winter-safe-exercises-for-heart-health-after-65
-  - why-winter-increases-heart-attack-risk-in-seniors-over-70
-  - can-shoveling-snow-trigger-a-heart-event-in-older-adults
-  - how-cold-weather-celebrations-increase-holiday-heart-syndrome-risk
-  - how-chronic-lung-conditions-amplify-heart-risks-in-winter
 ---
 
 # Is It Safe to Walk Outside in Freezing Temperatures If You Have Heart Disease? A Reassuring Guide to Walking in Cold Heart Disease

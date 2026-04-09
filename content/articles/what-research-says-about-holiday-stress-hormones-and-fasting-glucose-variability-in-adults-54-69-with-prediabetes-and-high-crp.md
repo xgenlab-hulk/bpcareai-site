@@ -18,10 +18,6 @@ relatedSlugs:
     the-complete-guide-to-holiday-eating-for-adults-58-63-with-new-onset-prediabetes-and-high-functioning-careers
   - >-
     why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do
-  - how-holiday-stress-hormones-sabotage-blood-sugar-control-in-women-over-65
-  - >-
-    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
-  - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
 ---
 
 # How Holiday Stress Fasting Glucose Variability Affects Prediabetes in Midlife Adults

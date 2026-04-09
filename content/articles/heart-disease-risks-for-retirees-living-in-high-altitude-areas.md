@@ -20,11 +20,6 @@ relatedSlugs:
     barometric-pressure-drop-systolic-load-hypertensive-heart-disease
   - >-
     check-bp-after-flying-copd-60
-  - the-impact-of-air-pollution-on-heart-disease-risk-in-older-adults
-  - can-vitamin-d-deficiency-increase-your-risk-of-heart-disease
-  - blood-pressure-management-for-sedentary-seniors-in-winter-months
-  - why-winter-increases-heart-attack-risk-in-seniors-over-70
-  - how-vitamin-d-deficiency-impacts-heart-health-in-winter
 ---
 
 # Understanding Heart Disease Risk at High Altitude for Seniors

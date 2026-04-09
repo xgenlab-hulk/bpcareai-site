@@ -18,14 +18,6 @@ relatedSlugs:
     why-your-normal-morning-blood-pressure-reading-may-be-missing-morning-hypertensive-surge-in-adults-with-white-coat-anxiety-over-68
   - >-
     why-winter-increases-heart-attack-risk-in-seniors-over-70
-  - why-morning-blood-pressure-surges-are-more-dangerous-in-winter
-  - why-does-blood-pressure-spike-in-cold-weather-what-seniors-need-to-know
-  - >-
-    how-cold-weather-induced-vasoconstriction-alters-renal-sympathetic-nerve-activity-in-adults-70-with-hypertension-and-mild-diastolic-dysfunction
-  - >-
-    what-causes-blood-pressure-to-spike-during-morning-showering-in-adults-62-78-with-autonomic-neuropathy-and-orthostatic-hypotension
-  - >-
-    the-truth-about-white-coat-resistance-why-some-adults-55-show-higher-bp-at-home-than-in-clinics-and-what-it-reveals-about-vascular-aging
 ---
 
 # Why Cold Weather Morning Hypertension Elderly Adults Need Extra Care in Winter

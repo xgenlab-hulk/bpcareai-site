@@ -18,11 +18,6 @@ relatedSlugs:
     hidden-salt-10-surprising-foods-that-spike-blood-pressure
   - >-
     7-hidden-sources-of-added-sugar-in-traditional-holiday-dishes-seniors-should-avoid
-  - hidden-salt-10-surprising-foods-that-spike-blood-pressure
-  - can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - 5-surprising-foods-that-may-trigger-holiday-heart-syndrome
-  - 7-hidden-sources-of-sugar-in-family-favorite-dishes-you-should-know-about
 ---
 
 # Which Holiday Foods Are Secretly Spiking Your Blood Pressure Over 50?

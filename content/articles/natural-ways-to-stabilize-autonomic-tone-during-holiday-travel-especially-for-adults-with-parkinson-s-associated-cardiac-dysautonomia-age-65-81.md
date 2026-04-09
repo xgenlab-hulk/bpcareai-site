@@ -20,9 +20,6 @@ relatedSlugs:
     what-are-the-earliest-signs-of-autonomic-failure-masquerading-as-labile-hypertension-in-adults-70-with-parkinson-s-disease-and-orthostatic-intolerance
   - >-
     10-foods-that-stabilize-vagal-tone-during-holiday-overeating-for-adults-61-74-with-pots-like-symptoms-and-orthostatic-tachycardia
-  - quick-ways-to-calm-a-racing-heart-during-a-holiday-event
-  - 12-simple-ways-to-prevent-holiday-heart-syndrome-naturally
-  - how-sleep-deprivation-during-holiday-travel-affects-heart-rhythm
 ---
 
 # Natural Strategies for Autonomic Tone Stabilization During Holiday Travel—Especially for Older Adults With Parkinson’s-Associated Cardiac Dysautonomia

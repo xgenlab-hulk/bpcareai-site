@@ -20,7 +20,6 @@ relatedSlugs:
     5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment
   - >-
     the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
-  - 5-mindful-eating-techniques-to-prevent-overeating-at-family-dinners
 ---
 
 # Does Eating Slowly Holiday Meals Dementia Really Help? What the Research Says

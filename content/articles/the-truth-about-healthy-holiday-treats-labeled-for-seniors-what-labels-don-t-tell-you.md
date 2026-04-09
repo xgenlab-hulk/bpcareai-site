@@ -20,11 +20,6 @@ relatedSlugs:
     the-truth-about-diabetes-friendly-holiday-cookies-what-label-claims-hide-and-what-real-ingredient-ratios-reveal
   - >-
     holiday-foods-blood-sugar-bp-seniors-70
-  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - diabetes-friendly-holiday-snacks-under-150-calories-for-after-70
-  - the-truth-about-healthy-store-bought-holiday-meals-for-older-adults
-  - 7-smart-swaps-for-healthier-holiday-meals-after-65
-  - myths-vs-facts-holiday-eating-with-diabetes-after-50
 ---
 
 # What “Healthy” Holiday Treats for Seniors Really Mean: A Clear Look at Labels and Truths

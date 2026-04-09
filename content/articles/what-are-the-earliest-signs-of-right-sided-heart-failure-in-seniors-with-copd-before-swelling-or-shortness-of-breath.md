@@ -20,13 +20,6 @@ relatedSlugs:
     7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80
   - >-
     pulse-oximetry-heart-failure-copd-interpretation
-  - heart-disease-warning-signs-that-appear-years-in-advance
-  - >-
-    7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80
-  - >-
-    what-are-the-earliest-signs-of-postprandial-hypoxemia-after-a-heavy-family-meal-and-why-it-s-often-missed-in-adults-with-mild-copd-over-65
-  - >-
-    warning-signs-your-holiday-sleep-disruption-is-causing-subclinical-atrial-fibrosis-especially-if-you-re-on-cpap-and-over-71
 ---
 
 # Subtle Early Signs of Right-Sided Heart Failure in Seniors With COPD—What to Notice Before Swelling or Breathlessness

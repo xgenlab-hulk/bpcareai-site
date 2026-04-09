@@ -18,10 +18,6 @@ relatedSlugs:
     the-connection-between-frequent-urination-at-night-and-heart-health
   - >-
     7-silent-signs-your-blood-pressure-is-spiking-at-night-even-if-your-daytime-readings-look-normal
-  - how-frequent-urination-at-night-could-signal-heart-problems
-  - the-connection-between-frequent-urination-at-night-and-heart-health
-  - >-
-    7-underrecognized-triggers-of-nocturnal-st-segment-depression-in-adults-with-nonobstructive-cad-identified-via-home-based-ecg-patch-monitoring
 ---
 
 # How Nocturia-Related Sleep Fragmentation Contributes to Heart Stiffness in Older Adults With Hypertension and Mild CKD

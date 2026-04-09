@@ -20,10 +20,6 @@ relatedSlugs:
     7-hidden-blood-sugar-triggers-in-healthy-holiday-side-dishes-like-sweet-potato-casserole-and-cranberry-relish
   - >-
     best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
-  - best-5-low-fodmap-holiday-side-dishes-for-seniors-with-ibs-and-gerd
-  - >-
-    best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods
-  - low-glycemic-holiday-side-dishes-that-won-t-spike-blood-sugar
 ---
 
 # Smart, Seamless Ways to Boost Fiber in Holiday Sides—Without Anyone Noticing  

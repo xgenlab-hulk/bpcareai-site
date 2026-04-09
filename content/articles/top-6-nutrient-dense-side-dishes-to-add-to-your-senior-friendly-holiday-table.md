@@ -20,11 +20,6 @@ relatedSlugs:
     holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
   - >-
     the-ultimate-guide-to-stealth-fiber-additions-for-holiday-mashed-potatoes-stuffing-and-gravy-without-changing-taste-or-texture
-  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
-  - 7-smart-swaps-for-healthier-holiday-meals-after-65
-  - what-research-says-about-protein-needs-during-the-holidays-for-frail-seniors
-  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
-  - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
 ---
 
 # 6 Nutrient-Dense Holiday Side Dishes Seniors Will Love (and Their Bodies Will Thank)

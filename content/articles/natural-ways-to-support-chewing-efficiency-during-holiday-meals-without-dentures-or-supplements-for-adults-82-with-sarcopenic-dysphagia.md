@@ -18,11 +18,6 @@ relatedSlugs:
     how-holiday-table-seating-arrangements-affect-swallowing-safety-in-adults-82-with-unrecognized-presbyphagia-and-what-to-serve-instead-of-rolls
   - >-
     5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
-
-  - >-
-    5-things-every-caregiver-should-know-before-serving-a-holiday-meal-to-someone-with-dysphagia-and-mild-cognitive-impairment
-
-  - holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues
 ---
 
 # Supporting Chewing Efficiency During Holiday Meals for Seniors 82+—Gentle, Evidence-Based Strategies Without Dentures or Supplements

@@ -20,13 +20,6 @@ relatedSlugs:
     white-coat-hypertension-emergency-room-adults-68
   - >-
     what-causes-white-coat-normotension-when-clinic-readings-are-normal-but-ambulatory-monitoring-shows-stage-1-hypertension-in-adults-61-75
-  - how-chronic-stress-contributes-to-high-blood-pressure-over-time
-  - >-
-    12-science-backed-ways-to-reduce-left-atrial-strain-variability-during-air-travel-for-adults-with-paroxysmal-afib-and-mild-copd
-  - >-
-    how-social-isolation-alters-baroreflex-sensitivity-and-elevates-24-hour-sbp-by-7-11-mmhg-in-men-living-alone-over-75
-  - >-
-    can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
 ---
 
 # How Flight Duration Affects Systolic Blood Pressure Variability in Older Adults With White-Coat Hypertension

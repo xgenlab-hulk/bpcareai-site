@@ -18,7 +18,6 @@ relatedSlugs:
     7-foods-that-support-satiety-without-triggering-nocturnal-acid-reflux-in-women-over-68
   - >-
     can-you-enjoy-holiday-pie-without-triggering-acid-reflux-at-night-a-3-step-timing-texture-strategy-for-adults-65-with-gerd
-  - what-to-eat-after-a-holiday-meal-if-you-have-acid-reflux-over-60
 ---
 
 # Gentle, Effective Ways to Ease Gastric Reflux Hiatal Hernia in Women Seniors During the Holidays

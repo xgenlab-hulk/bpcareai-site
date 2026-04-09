@@ -18,12 +18,6 @@ relatedSlugs:
     how-to-enjoy-holiday-treats-without-spiking-blood-sugar-after-60
   - >-
     when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
-  - when-to-worry-about-dizziness-or-fatigue-at-holiday-events-with-diabetes
-  - >-
-    7-hidden-holiday-triggers-that-spike-postprandial-glucose-in-adults-65-with-long-standing-type-2-diabetes-even-with-normal-fasting-levels
-  - >-
-    when-to-worry-about-holiday-hypoglycemia-5-silent-signs-your-basal-insulin-dose-is-too-high-during-winter-activity-reduction
-  - what-are-the-silent-signs-of-high-blood-sugar-at-holiday-dinners
 ---
 
 # 7 Subtle Signs Your Blood Sugar Is Spiking After Holiday Parties — Especially If You’re 62+ With Prediabetes and Low Daily Activity  

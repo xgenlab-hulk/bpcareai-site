@@ -20,12 +20,6 @@ relatedSlugs:
     7-hidden-signs-your-blood-pressure-is-damaging-your-retina-especially-if-you-re-a-woman-over-67-with-no-headaches-or-vision-complaints
   - >-
     how-vision-changes-might-be-linked-to-heart-disease
-  - how-vision-changes-might-be-linked-to-heart-disease
-  - blood-pressure-and-hearing-loss-the-overlooked-connection-in-adults-over-70
-  - >-
-    what-are-the-earliest-retinal-microvascular-changes-that-predict-coronary-artery-calcification-in-men-52-64-with-non-alcoholic-fatty-liver-disease
-  - >-
-    what-are-the-earliest-cognitive-red-flags-suggesting-hypertensive-microvascular-encephalopathy-before-mri-shows-white-matter-hyperintensities
 ---
 
 # Early Retinal Changes Before Hypertension Diagnosis: What Your Eyes May Reveal About Heart Health

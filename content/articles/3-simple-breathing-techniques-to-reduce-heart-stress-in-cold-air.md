@@ -18,11 +18,6 @@ relatedSlugs:
     why-winter-increases-heart-attack-risk-in-seniors-over-70
   - >-
     natural-ways-to-lower-blood-pressure-this-winter-without-medication
-  - can-deep-breathing-exercises-lower-heart-disease-risk
-  - can-deep-breathing-exercises-reduce-high-blood-pressure
-  - top-6-stress-reduction-techniques-to-protect-your-heart-this-holiday
-  - natural-ways-to-lower-blood-pressure-this-winter-without-medication
-  - quick-ways-to-calm-a-racing-heart-during-a-holiday-event
 ---
 
 # Why Does Cold Air Make Your Chest Feel Tight—And What Can You Do About It in 60 Seconds?

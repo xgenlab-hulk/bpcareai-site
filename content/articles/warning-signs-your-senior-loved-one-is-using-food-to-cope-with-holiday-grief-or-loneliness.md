@@ -20,15 +20,6 @@ relatedSlugs:
     myths-vs-facts-eating-light-during-holidays-doesn-t-mean-skipping-meals-here-s-why-for-seniors
   - >-
     why-emotional-eating-at-family-gatherings-is-common-and-how-to-manage-it
-  - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
-  - >-
-    the-science-behind-mindful-eating-and-its-benefits-for-seniors-this-holiday-season
-  - >-
-    when-to-worry-about-social-withdrawal-in-winter-differentiating-normal-retiring-behavior-from-prodromal-seasonal-depression-in-adults-80
-  - >-
-    how-cold-weather-impacts-appetite-and-food-choices-in-seniors-during-the-holidays
-  - >-
-    4-natural-appetite-suppressants-that-work-for-older-adults-during-holiday-feasts
 ---
 
 # Recognizing Holiday Grief Emotional Eating in Seniors: A Compassionate Guide for Families

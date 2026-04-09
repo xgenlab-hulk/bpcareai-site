@@ -20,12 +20,6 @@ relatedSlugs:
     mitochondrial-biogenesis-natural-diastolic-stiffness
   - >-
     mitochondrial-biogenesis-heart-aging
-
-  - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
-
-  - >-
-    foods-stabilize-pulse-pressure-seniors-orthostasis
 ---
 
 # 12 Heart-Supportive Foods That Help Maintain Cardiac Fibroblast Quiescence—Especially for Adults 59–68

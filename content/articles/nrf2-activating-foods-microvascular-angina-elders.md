@@ -18,14 +18,6 @@ relatedSlugs:
     12-foods-that-delay-endothelial-senescence-not-just-lower-bp-including-black-garlic-extract-germinated-brown-rice-and-low-age-roasted-chickpeas-for-adults-60
   - >-
     natural-support-for-coronary-microvascular-disease
-
-  - >-
-    quick-ways-to-lower-postprandial-oxidative-stress-within-90-minutes-of-a-rich-family-meal-especially-for-adults-with-early-macular-degeneration
-  - >-
-    microvascular-coronary-reactivity-natural
-
-  - >-
-    10-foods-that-support-mitochondrial-biogenesis-during-holiday-weeks-especially-for-sedentary-adults-70-with-low-vo-max
 ---
 
 # 10 Nrf2-Activating Foods for Microvascular Angina in Elders: Supporting Coronary Endothelial Health Through Nutrition

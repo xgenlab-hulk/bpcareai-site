@@ -18,11 +18,6 @@ relatedSlugs:
     natural-ways-to-support-post-holiday-glucose-recovery-using-fenugreek-ceylon-cinnamon-and-tart-cherry-juice-dosed-for-adults-54-79
   - >-
     meal-timing-strategies-for-better-blood-sugar-control-after-50
-  - best-fruits-for-diabetics-over-50-and-which-to-limit
-  - meal-timing-strategies-for-better-blood-sugar-control-after-50
-  - the-role-of-fiber-in-controlling-blood-sugar-after-50
-  - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
-  - the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors
 ---
 
 # Best Blood Sugar Supplements for Adults Over 50: What Really Works

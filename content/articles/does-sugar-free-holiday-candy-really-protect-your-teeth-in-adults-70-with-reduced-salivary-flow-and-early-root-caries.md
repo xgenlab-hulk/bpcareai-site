@@ -18,13 +18,6 @@ relatedSlugs:
     the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
   - >-
     the-truth-about-sugar-free-holiday-cookies-for-adults-with-stage-2-ckd-and-preserved-egfr
-  - are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - >-
-    are-sugar-free-treats-actually-safe-for-diabetics-over-65
-  - >-
-    the-truth-about-sugar-free-holiday-candies-do-they-really-prevent-glycemic-spikes-or-trigger-counterregulatory-hormones-in-frail-adults-over-76
-  - >-
-    the-truth-about-sugar-free-cough-drops-for-adults-with-type-1-diabetes-over-60-do-sugar-alcohols-like-isomalt-raise-blood-glucose
 ---
 
 # Does Sugar-Free Holiday Candy Really Support Dental Health in Seniors 70+? What You Should Know About Xylitol, Saliva, and Root Caries

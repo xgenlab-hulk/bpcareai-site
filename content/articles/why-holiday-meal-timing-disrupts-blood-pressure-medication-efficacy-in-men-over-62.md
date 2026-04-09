@@ -20,14 +20,6 @@ relatedSlugs:
     5-things-everyone-over-70-should-know-about-blood-pressure-medication-timing-when-taking-levothyroxine-and-calcium-supplements
   - >-
     7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
-  - 7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning
-  - >-
-    how-family-meal-timing-disrupts-circadian-rhythms-in-adults-with-early-stage-dementia
-  - meal-timing-strategies-for-better-blood-sugar-control-after-50
-  - >-
-    why-eating-late-at-night-during-family-visits-increases-fall-risk-in-adults-75
-  - >-
-    when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
 ---
 
 # How Meal Timing Affects Blood Pressure Meds in Seniors—Especially During the Holidays

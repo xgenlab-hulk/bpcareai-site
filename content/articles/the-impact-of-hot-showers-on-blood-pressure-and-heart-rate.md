@@ -20,12 +20,6 @@ relatedSlugs:
     why-does-blood-pressure-rise-during-hot-tub-immersion-and-how-to-safely-adapt-for-adults-with-orthostatic-hypotension-over-72
   - >-
     can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
-  - the-science-backed-benefits-of-warm-baths-for-heart-circulation-in-seniors
-  - the-hidden-dangers-of-indoor-heating-on-blood-pressure
-  - >-
-    can-sauna-use-help-regulate-blood-pressure-in-winter-pros-and-cons-for-seniors
-  - how-does-cold-weather-affect-blood-pressure-in-older-adults
-  - how-morning-blood-pressure-spikes-affect-your-heart
 ---
 
 # How Hot Showers Affect Blood Pressure and Heart Rate in Older Adults  

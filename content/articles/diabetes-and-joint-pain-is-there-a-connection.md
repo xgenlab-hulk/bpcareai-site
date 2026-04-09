@@ -18,11 +18,6 @@ relatedSlugs:
     how-chronic-inflammation-worsens-type-2-diabetes-after-50
   - >-
     nsaids-and-kidney-injury-diabetes
-  - how-gum-disease-is-linked-to-diabetes-complications-in-older-adults
-  - diabetes-and-vision-changes-what-seniors-need-to-know
-  - the-link-between-diabetes-and-slow-healing-in-older-adults
-  - how-stress-affects-blood-sugar-in-people-with-diabetes-over-50
-  - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
 ---
 
 # Understanding Diabetes and Joint Pain in Older Adults: What’s Really Going On?

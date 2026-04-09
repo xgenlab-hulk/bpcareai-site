@@ -18,11 +18,6 @@ relatedSlugs:
     does-daily-2-minute-cold-exposure-face-immersion-improve-post-holiday-meal-satiety-signaling-in-adults-70-with-leptin-resistance
   - >-
     seniors-living-alone-holiday-party-preparedness
-
-  - >-
-    how-holiday-table-settings-affect-portion-control-in-adults-55-72-with-prediabetes
-  - how-to-navigate-the-holiday-buffet-without-sabotaging-your-health-goals
-  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
 ---
 
 # Navigating Holiday Buffets With Age-Related Satiety Hormone Changes: A Practical Guide for Seniors

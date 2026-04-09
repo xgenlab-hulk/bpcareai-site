@@ -20,11 +20,6 @@ relatedSlugs:
     how-gut-microbiota-diversity-predicts-24-hour-systolic-variability-in-adults-55-70-and-what-to-eat-to-stabilize-it
   - >-
     7-silent-signs-of-prediabetes-you-re-likely-ignoring-after-age-55-even-with-normal-a1c
-  - how-sleep-apnea-impacts-type-2-diabetes-control-after-50
-  - can-vitamin-d-deficiency-make-diabetes-worse-in-seniors
-  - >-
-    how-intermittent-fasting-affects-beta-cell-rest-and-regeneration-in-adults-54-68-with-new-onset-type-2-diabetes-what-12-week-clinical-trials-show
-  - how-kidney-function-declines-faster-in-older-adults-with-diabetes
 ---
 
 # How Gut Microbiome Diversity in Your Late 50s Signals Prediabetes Progression Risk—And What You Can Do

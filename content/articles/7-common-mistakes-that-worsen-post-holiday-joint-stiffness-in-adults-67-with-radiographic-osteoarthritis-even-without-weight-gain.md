@@ -18,11 +18,6 @@ relatedSlugs:
     12-science-backed-ways-to-reduce-post-holiday-inflammation-in-adults-59-76-with-rheumatoid-arthritis
   - >-
     quick-ways-to-neutralize-holiday-meal-induced-oxidative-stress-in-adults-67-with-low-serum-vitamin-e-and-high-hs-crp
-  - 5-mistakes-that-make-holiday-weight-gain-harder-to-reverse-after-age-58
-  - >-
-    how-intergenerational-gift-giving-stress-elevates-postprandial-triglycerides-in-adults-61-with-familial-hypertriglyceridemia
-  - 7-hidden-holiday-triggers-that-spike-blood-sugar-in-seniors-with-diabetes
-  - why-holiday-weight-gain-is-riskier-for-seniors-with-heart-disease
 ---
 
 # Common Holiday Joint Stiffness Mistakes Seniors Make — And How to Ease Them Gently

@@ -18,10 +18,6 @@ relatedSlugs:
     7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily
   - >-
     when-to-worry-about-unexplained-fatigue-after-age-68-distinguishing-early-heart-failure-from-anemia-thyroid-dysfunction-and-medication-side-effects
-  - the-connection-between-frequent-urination-at-night-and-heart-health
-  - how-frequent-urination-at-night-could-signal-heart-problems
-  - >-
-    what-are-the-earliest-signs-of-pulmonary-hypertension-in-seniors-with-copd-who-ve-never-had-right-heart-symptoms
 ---
 
 # 7 Subtle Signs of Right-Sided Heart Failure Often Overlooked in Adults 80 and Older

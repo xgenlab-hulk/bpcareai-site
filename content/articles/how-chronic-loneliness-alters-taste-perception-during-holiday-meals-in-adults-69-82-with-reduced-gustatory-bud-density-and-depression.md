@@ -18,14 +18,6 @@ relatedSlugs:
     how-holiday-table-salt-substitutes-affect-taste-perception-and-sodium-intake-in-adults-74-with-age-related-hypogeusia-and-hypertension
   - >-
     how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80
-  - the-link-between-loneliness-during-holidays-and-poor-diabetes-control
-  - >-
-    simple-steps-to-adjust-your-holiday-meal-plan-for-mild-cognitive-impairment-including-visual-cues-texture-modifications-and-flavor-amplification
-  - >-
-    how-holiday-social-isolation-not-just-loneliness-alters-gut-microbiota-diversity-and-postprandial-inflammation-in-frail-adults-80
-  - the-link-between-holiday-loneliness-and-emotional-eating-in-older-adults
-  - >-
-    5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 ---
 
 # How Loneliness Alters Taste Perception During Holiday Meals in Older Adults—and What You Can Do About It

@@ -20,12 +20,6 @@ relatedSlugs:
     a-vs-b-bright-light-therapy-at-7-a-m-vs-5-p-m-for-older-adults-with-advanced-sleep-phase-syndrome
   - >-
     simple-steps-to-rebuild-morning-light-exposure-habits-after-cataract-surgery-especially-for-adults-over-68-with-prior-seasonal-mood-swings
-  - how-light-therapy-can-help-older-adults-beat-winter-blues-after-65
-  - >-
-    top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season
-  - the-complete-guide-to-managing-seasonal-depression-in-older-adults-at-home
-  - natural-ways-to-manage-seasonal-depression-in-seniors-without-medication
-  - the-science-backed-benefits-of-warm-baths-for-heart-circulation-in-seniors
 ---
 
 # Best Light Therapy Lamps for Seniors: A Geriatric Therapist’s Guide to Safe, Effective Use

@@ -18,11 +18,6 @@ relatedSlugs:
     how-holiday-feasting-can-trigger-atrial-fibrillation-in-older-adults
   - >-
     atrial-fibrillation-vs-holiday-heart-syndrome-key-differences-everyone-should-know
-  - blood-pressure-management-for-sedentary-seniors-in-winter-months
-  - >-
-    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
-  - >-
-    7-silent-signs-your-holiday-eating-is-accelerating-arterial-stiffness-especially-if-you-re-68-with-normal-office-bp
 ---
 
 # Recognizing Early Signs of Holiday Hypercoagulability in Seniors with Atrial Fibrillation

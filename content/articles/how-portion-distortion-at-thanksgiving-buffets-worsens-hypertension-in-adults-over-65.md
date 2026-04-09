@@ -20,12 +20,6 @@ relatedSlugs:
     can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure
   - >-
     5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
-
-  - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
-  - can-you-enjoy-thanksgiving-if-you-have-high-blood-pressure
-  - portion-control-strategies-for-large-family-meals-that-work
-  - >-
-    can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
 ---
 
 # How Portion Distortion at Thanksgiving Buffets Fuels Hypertension in Seniors Over 65

@@ -18,15 +18,6 @@ relatedSlugs:
     atrial-stabilizing-foods-holiday-heart
   - >-
     hawthorn-vs-magnesium-holiday-heart
-
-  - >-
-    a-vs-b-mulled-wine-vs-sparkling-apple-cider-impact-on-fasting-glucose-and-triglyceride-response-in-adults-63-79-with-metabolic-syndrome
-  - >-
-    how-late-night-eggnog-consumption-alters-cardiac-repolarization-reserve-in-adults-58-65-with-subclinical-qt-prolongation
-  - >-
-    quick-ways-to-lower-atrial-fibrillation-risk-within-48-hours-of-holiday-party-attendance-backed-by-2024-rct-data-in-adults-58-76
-  - >-
-    when-to-worry-about-heart-palpitations-after-midnight-toasts-a-red-flag-timeline-for-women-over-60
 ---
 
 # Herbal Chai vs Pomegranate Mocktail for Atrial Ectopy: What the Latest Research Suggests for Women Over 70

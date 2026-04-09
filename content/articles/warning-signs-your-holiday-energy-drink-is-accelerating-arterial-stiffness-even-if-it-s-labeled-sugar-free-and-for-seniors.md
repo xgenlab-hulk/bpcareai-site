@@ -20,15 +20,6 @@ relatedSlugs:
     arterial-stiffness-foods-seniors-bp
   - >-
     warning-signs-your-holiday-dessert-plate-is-accelerating-arterial-stiffness-especially-if-you-re-on-beta-blockers-and-over-73
-
-  - >-
-    arterial-stiffness-reduction-without-nitrates
-  - >-
-    warning-signs-your-holiday-dessert-plate-is-accelerating-arterial-stiffness-especially-if-you-re-on-beta-blockers-and-over-73
-  - >-
-    7-silent-signs-your-holiday-eggnog-is-triggering-postprandial-endothelial-dysfunction-in-adults-67-with-preexisting-microalbuminuria
-  - >-
-    the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension
 ---
 
 # Hidden Holiday Risks: What Sugar-Free Energy Drinks May Be Doing to Your Arteries — Especially After Age 65

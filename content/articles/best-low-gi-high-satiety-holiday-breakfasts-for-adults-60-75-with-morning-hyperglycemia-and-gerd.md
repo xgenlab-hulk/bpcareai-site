@@ -18,11 +18,6 @@ relatedSlugs:
     best-low-glycemic-high-resistant-starch-snacks-for-women-65-with-nighttime-hypoglycemia-and-gastroparesis-that-don-t-trigger-reflux
   - >-
     stabilize-morning-glucose-without-insulin
-
-  - >-
-    why-your-blood-sugar-dips-at-3-a-m-during-holiday-week-and-how-to-prevent-nocturnal-hypoglycemia-without-adding-snacks
-  - >-
-    holiday-foods-stabilize-blood-glucose-during-meal
 ---
 
 # Low-GI Holiday Breakfasts for Morning Hyperglycemia and GERD in Adults 60–75

@@ -19,11 +19,6 @@ relatedSlugs:
     how-chronic-low-dose-nsaid-use-after-age-65-alters-renin-angiotensin-feedback-and-why-it-masks-early-diastolic-hypertension
   - >-
     how-kidney-function-declines-faster-in-older-adults-with-diabetes
-  - how-kidney-function-declines-faster-in-older-adults-with-diabetes
-  - >-
-    the-truth-about-low-sugar-protein-powders-for-adults-62-79-with-stage-3-ckd-and-diabetic-nephropathy
-  - >-
-    what-research-says-about-intermittent-fasting-windows-during-kwanzaa-week-for-adults-56-68-with-diabetic-kidney-disease-egfr-30-45
 ---
 
 # How NSAIDs and Kidney Injury in Diabetes Affects Older Adults — And What You Can Safely Do

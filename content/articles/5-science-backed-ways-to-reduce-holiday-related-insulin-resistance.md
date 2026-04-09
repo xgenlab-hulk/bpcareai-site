@@ -18,10 +18,6 @@ relatedSlugs:
     5-easy-morning-routines-to-stabilize-blood-sugar-after-a-holiday-feast
   - >-
     how-holiday-stress-from-family-expectations-alters-nighttime-cortisol-rhythm-in-women-62-75-with-insulin-resistance
-  - should-you-adjust-your-diabetes-medication-during-the-holidays
-  - 7-hidden-carbohydrates-in-christmas-dishes-that-spike-glucose
-  - the-link-between-holiday-stress-and-blood-sugar-spikes-after-50
-  - best-blood-sugar-monitoring-practices-during-the-holiday-season
 ---
 
 # Insulin Resistance Rising After Holiday Meals? What Can You Do to Reverse It Quickly?

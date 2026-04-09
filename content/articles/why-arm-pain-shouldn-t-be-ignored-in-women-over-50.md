@@ -20,11 +20,6 @@ relatedSlugs:
     7-silent-signs-your-heart-s-struggling-during-winter-especially-if-you-re-a-woman-over-62-with-early-osteoarthritis
   - >-
     why-heart-disease-risk-skyrockets-in-women-58-67-within-3-years-after-menopause-even-with-normal-cholesterol
-  - heart-disease-symptoms-in-women-over-50-what-s-often-missed
-  - how-silent-heart-attacks-differ-in-older-adults
-  - recognizing-silent-heart-attacks-in-diabetics-over-60
-  - why-men-over-50-should-monitor-cholesterol-even-without-symptoms
-  - what-are-the-first-signs-of-holiday-heart-syndrome-in-women
 ---
 
 # Arm Pain and Heart Attack Symptoms in Women Over 50: A Gentle Reminder to Listen to Your Body

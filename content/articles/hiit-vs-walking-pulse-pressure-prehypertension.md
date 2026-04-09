@@ -20,11 +20,6 @@ relatedSlugs:
     can-you-reverse-arterial-stiffness-with-just-12-weeks-of-barefoot-walking-on-grass-or-sand-evidence-from-a-pilot-trial-in-sedentary-women-63-71
   - >-
     aortic-pulse-wave-velocity-reduction
-
-  - >-
-    what-research-says-about-intermittent-fasting-windows-and-left-ventricular-diastolic-function-in-overweight-adults-50-64-with-stage-1-hypertension
-  - >-
-    quick-7-minute-breathing-protocol-to-lower-sympathetic-tone-in-adults-with-stage-2-hypertension-and-anxiety
 ---
 
 # What the Latest Research Shows: HIIT vs Walking Pulse Pressure Prehypertension in Adults 52–66

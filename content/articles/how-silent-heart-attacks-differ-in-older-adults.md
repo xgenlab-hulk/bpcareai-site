@@ -20,11 +20,6 @@ relatedSlugs:
     heart-disease-warning-signs-that-appear-years-in-advance
   - >-
     the-link-between-atrial-fibrillation-and-heart-disease-in-seniors
-  - recognizing-silent-heart-attacks-in-diabetics-over-60
-  - heart-disease-symptoms-in-women-over-50-what-s-often-missed
-  - why-winter-increases-heart-attack-risk-in-seniors-over-70
-  - why-arm-pain-shouldn-t-be-ignored-in-women-over-50
-  - why-men-over-50-should-monitor-cholesterol-even-without-symptoms
 ---
 
 # Why Silent Heart Attack Symptoms in Elderly Adults Often Go Unnoticed—and What You Can Do

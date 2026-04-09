@@ -18,7 +18,6 @@ relatedSlugs:
     7-common-mistakes-that-worsen-post-holiday-joint-stiffness-in-adults-67-with-radiographic-osteoarthritis-even-without-weight-gain
   - >-
     quick-ways-to-neutralize-holiday-meal-induced-oxidative-stress-in-adults-67-with-low-serum-vitamin-e-and-high-hs-crp
-  - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
 ---
 
 # Holiday Roast Beef Safe for Your Bones? What Women 65+ With Osteoporosis Should Know

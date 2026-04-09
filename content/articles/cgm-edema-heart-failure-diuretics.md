@@ -18,7 +18,6 @@ relatedSlugs:
     cgm-accuracy-holiday-travel
   - >-
     5-things-everyone-over-75-should-know-about-using-continuous-glucose-monitors-with-pacemakers-or-icds
-
 ---
 
 # When Fluid Shifts Affect Your CGM: Understanding cgm edema heart failure diuretics in Older Adults
