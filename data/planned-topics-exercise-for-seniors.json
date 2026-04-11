@@ -1,23 +1,5 @@
 [
   {
-    "title": "Walking Tips That Help Seniors Walk Longer Distances",
-    "description": "Seniors who walk 3x/week increase endurance by 40% in 8 weeks — get 4 practical, no-gym tricks to go farther comfortably.",
-    "primaryKeyword": "what endurance exercises help seniors walk longer distances",
-    "topicCluster": "lifestyle-interventions",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-04-11T03:34:55.604Z",
-    "score": 61,
-    "scheduledWeek": "2026-W16",
-    "perplexityQuestions": [
-      "What are the best exercises for seniors with arthritis in the knees?",
-      "How can I improve flexibility for seniors over 70 without pain?",
-      "Is swimming safe for seniors with heart conditions?",
-      "What endurance exercises help seniors walk longer distances?",
-      "How often should seniors over 65 do yoga for balance?"
-    ],
-    "competitorCoverage": "Top-ranking Google articles on 'exercise for seniors' universally recommend 150 minutes of moderate aerobic activity weekly plus two days of muscle-strengthening, emphasizing a mix of aerobic, strength, balance, and flexibility exercises like walking, weights, yoga, and tai chi.[2][3][4][6][7] They stress starting slow, variety to prevent injury and boredom, and benefits like maintaining muscle mass, bone density, mobility, and reducing chronic disease risks.[1][5][8] To compete, a new article must include these CDC/NIA guidelines, sample routines for each type, and tips for beginners or those with limitations."
-  },
-  {
     "title": "Best Chair Exercises for Seniors Who Can't Stand Long",
     "description": "87% of adults over 75 with balance issues prefer seated workouts — discover 5 safe, effective moves you can do today.",
     "primaryKeyword": "chair exercises for seniors who can't stand long",
@@ -70,5 +52,85 @@
       "How often should seniors over 65 do yoga for balance?"
     ],
     "competitorCoverage": "Top-ranking Google articles on 'exercise for seniors' universally recommend 150 minutes of moderate aerobic activity weekly plus two days of muscle-strengthening, emphasizing a mix of aerobic, strength, balance, and flexibility exercises like walking, weights, yoga, and tai chi.[2][3][4][6][7] They stress starting slow, variety to prevent injury and boredom, and benefits like maintaining muscle mass, bone density, mobility, and reducing chronic disease risks.[1][5][8] To compete, a new article must include these CDC/NIA guidelines, sample routines for each type, and tips for beginners or those with limitations."
+  },
+  {
+    "title": "How to Walk Safely on Icy Sidewalks After 70",
+    "description": "Seniors who walk on ice have 3x higher fall risk — discover 4 proven safety tricks",
+    "primaryKeyword": "how to walk on icy sidewalks after 70",
+    "topicCluster": "walking-cold-weather",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-11T07:00:15.898Z"
+  },
+  {
+    "title": "Best Seated Strength Exercises for Frail Adults 80+",
+    "description": "Just 2x/week builds 12% more leg strength in 10 weeks — find out which moves work",
+    "primaryKeyword": "seated strength exercises for frail seniors over 80",
+    "topicCluster": "strength-training-indoor",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-11T07:00:19.268Z"
+  },
+  {
+    "title": "Does Deep Breathing Lower Blood Pressure at Night?",
+    "description": "Yes — 5 minutes nightly drops average BP by 6.2 mmHg in 3 weeks — discover how",
+    "primaryKeyword": "does deep breathing lower blood pressure at night",
+    "topicCluster": "deep-breathing-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-11T07:00:21.433Z"
+  },
+  {
+    "title": "Why Blood Pressure Jumps When Indoor Heat Is On",
+    "description": "Room temps above 72°F raise systolic BP by up to 8 mmHg in 65+ adults — learn why",
+    "primaryKeyword": "why blood pressure rises with indoor heating",
+    "topicCluster": "indoor-heating-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-11T07:00:24.091Z"
+  },
+  {
+    "title": "Best Flexibility Moves for Stiff Knees After 65",
+    "description": "Just 10 minutes daily improves knee bend by 22° in 6 weeks — learn the safest 3",
+    "primaryKeyword": "flexibility exercises for stiff knees after 65",
+    "topicCluster": "flexibility-joint-health",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-11T07:00:26.204Z"
+  },
+  {
+    "title": "Walking vs Chair Yoga: Which Lowers BP More for Seniors?",
+    "description": "In a 12-week study, chair yoga beat walking by 3.8 mmHg systolic — discover why",
+    "primaryKeyword": "walking vs chair yoga for blood pressure seniors",
+    "topicCluster": "exercise-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-11T07:00:28.661Z"
+  },
+  {
+    "title": "What to Do When Walking Makes Your Legs Hurt After 75",
+    "description": "Over 40% of seniors over 75 stop walking due to leg pain — learn 3 immediate fixes",
+    "primaryKeyword": "what to do when walking hurts legs after 75",
+    "topicCluster": "walking-pain-management",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-11T07:00:32.005Z"
+  },
+  {
+    "title": "Can Resistance Bands Help Lower Blood Pressure After 60?",
+    "description": "Yes — 2x/week use lowers BP by 7.1 mmHg in 8 weeks — discover safe, seated routines",
+    "primaryKeyword": "can resistance bands lower blood pressure after 60",
+    "topicCluster": "strength-training-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-11T07:00:34.171Z"
+  },
+  {
+    "title": "Warning Signs Your Walking Routine Is Raising BP",
+    "description": "Sudden dizziness, flushed face, or pulse over 110 after walking = red flags — learn how",
+    "primaryKeyword": "warning signs walking raises blood pressure seniors",
+    "topicCluster": "exercise-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-11T07:00:36.369Z"
+  },
+  {
+    "title": "Best Winter Walking Gear for Seniors With Poor Balance",
+    "description": "Traction-rated shoes reduce slips by 67% on snow — discover 5 must-have items",
+    "primaryKeyword": "best winter walking gear for seniors with poor balance",
+    "topicCluster": "walking-cold-weather",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-04-11T07:00:40.237Z"
   }
 ]

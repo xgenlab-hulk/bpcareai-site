@@ -1,24 +1,21 @@
 ---
-title: >-
-  Best Heart-Healthy Foods for Women Over 60
+title: Best Heart-Healthy Foods for Women Over 60
 slug: heart-healthy-foods-women-over-60
 description: >-
-  Heart healthy foods for women over 60 — like salmon, berries, and oats — lower cardiovascular death risk by 27% (AHA, 2022). Supports blood pressure (sodium vs.
+  Heart healthy foods for women over 60 — like salmon, berries, and oats — lower
+  cardiovascular death risk by 27% (AHA, 2022). Supports blood pressure (sodium
+  vs.
 date: '2026-04-09'
 updated: '2026-04-09'
-primaryKeyword: >-
-  heart healthy foods for women over 60
+primaryKeyword: heart healthy foods for women over 60
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
-  - >-
-    how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors
-  - >-
-    how-fiber-rich-diets-support-heart-health-in-people-over-60
-  - >-
-    best-blood-pressure-meds-women-over-70
-  - >-
-    the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
+  - how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors
+  - how-fiber-rich-diets-support-heart-health-in-people-over-60
+  - best-blood-pressure-meds-women-over-70
+  - the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50
+  - pets-heart-health-after-70
 ---
 
 # Best Heart-Healthy Foods for Women Over 60
