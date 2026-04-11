@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "title": "Can Your Dog Help Your Heart Health After 70?",
+    "description": "Seniors with dogs walk 22 more minutes per day on average — discover how pets lower blood pressure and reduce loneliness.",
+    "primaryKeyword": "do pets help heart health after 70",
+    "topicCluster": "cardiovascular-health",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-04-11T03:34:55.604Z",
+    "score": 61.333333333333336,
+    "scheduledWeek": "2026-W16"
+  },
+  {
+    "title": "Swimming for Seniors With Heart Conditions: Is It Safe?",
+    "description": "92% of cardiologists say yes—if your resting heart rate stays under 110 bpm—find out how to swim safely and confidently.",
+    "primaryKeyword": "is swimming safe for seniors with heart conditions",
+    "topicCluster": "cardiovascular-health",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-04-11T03:34:55.604Z",
+    "score": 60.333333333333336,
+    "scheduledWeek": "2026-W16"
+  },
+  {
+    "title": "Does Smoking Lower Good Cholesterol at 40?",
+    "description": "Yes — smoking drops HDL by up to 15% in adults 35–45; just 5 cigarettes/week shows measurable impact. Find out how to recover it.",
+    "primaryKeyword": "does smoking lower good cholesterol at 40",
+    "topicCluster": "nutrition-diet-management",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-04-11T03:34:55.604Z",
+    "score": 51.5,
+    "scheduledWeek": "2026-W16"
+  },
+  {
+    "title": "What to Do When Cholesterol Is Too Low After 65",
+    "description": "Total cholesterol under 160 mg/dL after 65 links to higher frailty risk — find out safe minimums and what to eat. Learn how",
+    "primaryKeyword": "what to do when cholesterol is too low after 65",
+    "topicCluster": "nutrition-diet-management",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-04-11T03:34:55.604Z",
+    "score": 46.5,
+    "scheduledWeek": "2026-W16"
+  },
+  {
+    "title": "Can Coffee Raise Cholesterol After 50?",
+    "description": "New research shows filtered coffee may raise LDL by 5–10 mg/dL in adults over 50 — find out which brewing methods matter most. Learn how",
+    "primaryKeyword": "can coffee raise cholesterol after 50",
+    "topicCluster": "nutrition-diet-management",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-04-11T03:34:55.604Z",
+    "score": 34.5,
+    "scheduledWeek": "2026-W16"
+  },
+  {
+    "title": "Cholesterol and Erectile Dysfunction After 40",
+    "description": "Up to 45% of men 40–64 with high cholesterol report ED before heart symptoms — learn how blood flow links the two. Find out",
+    "primaryKeyword": "cholesterol and erectile dysfunction after 40",
+    "topicCluster": "nutrition-diet-management",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-04-11T03:34:55.604Z",
+    "score": 34.5,
+    "scheduledWeek": "2026-W16"
+  },
+  {
+    "title": "Heart-Healthy Soups That Lower Sodium Without Losing Flavor",
+    "description": "Most canned soups pack 800mg+ sodium per serving — too much for 70% of seniors with high blood pressure. Find 4 low-sodium, ready-in-20 recipes.",
+    "primaryKeyword": "low sodium heart healthy soups",
+    "topicCluster": "nutrition-diet-management",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-04-11T03:34:55.604Z",
+    "score": 34.5,
+    "scheduledWeek": "2026-W16"
+  }
+]

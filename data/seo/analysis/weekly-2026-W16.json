@@ -1,0 +1,217 @@
+{
+  "week": "2026-W16",
+  "generatedAt": "2026-04-11T03:34:55.605Z",
+  "config": {
+    "weeklyTarget": 35,
+    "dailyTarget": 5
+  },
+  "previousWeek": {
+    "remaining": 42,
+    "kept": 0
+  },
+  "newGenerated": 25,
+  "totalWritten": 26,
+  "gscData": {
+    "daysAnalyzed": 7,
+    "totalSearchTerms": 14
+  },
+  "llmAnalysis": {
+    "searchIntentAnalysis": "信息查询主导（占比100%）：所有14个高潜力搜索词均为明确健康知识需求，如'how blood pressure and cholesterol affect heart health'（展示4次，位置9）、'effects of intense exercise on blood pressure'（展示1次，位置8）体现用户寻求机制解释；'high fiber dinner sides'、'soup to lower cholesterol'等为饮食实操类信息查询；'bp ai'、'bp rating ai'（共3次展示，位置20/74）显示早期AI健康工具探索意图，但当前无内容承接；无比较决策（如'Brand A vs B'）或紧急问题（如'chest pain sudden bp spike'）词，说明用户处于教育认知阶段而非临危决策。",
+    "ctrAnomalies": "全量CTR为0%（14个查询中0点击），核心原因为：① 关键词与现有内容严重错配——如'high blood pressure and heat sensitivity'（位置97）、'does heat affect blood pressure'（位置96）等热相关词，虽有文章《the-hidden-dangers-of-indoor-heating-on-blood-pressure》（2次曝光，位置5.5/11），但标题未含'heat sensitivity'/'humidity'等用户语言，且正文未覆盖'heat vs humidity'差异机制；② 长尾词排名过低（位置40–97）导致可见度归零；③ 'articles'首页（208展示，CTR 0.5%）标题泛化，无法触发具体问题点击。",
+    "hiddenOpportunities": "[\"热环境与血压的细分场景：'heat sensitivity'（2次曝光）、'humidity'（2次）、'indoor heating'（已有内容但未覆盖搜索语言）构成气候心血管健康新兴长尾集群，竞品尚未系统布局；\",\"AI+BP工具教育缺口：'bp ai'、'bp rating ai'（共3次曝光，位置20/74）反映用户正尝试用AI理解血压数据，但BPCareAI无任何AI解读指南、验证方法或工具对比内容；\",\"饮食干预精准化需求：'high fiber dinner sides'、'soups for high blood pressure'、'soup to lower cholesterol'（共4次曝光，位置48–63）表明用户需要场景化（晚餐/汤类）、疾病靶向（高血压/高胆固醇）食谱，而非泛泛而谈'healthy foods'；\",\"运动反应临床解读空白：'blood pressure exercise response'（位置40）、'exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous'（189展示但0点击）说明用户急需将运动后血压波动与风险分层挂钩，当前文章标题专业但缺乏'when to worry'等患者语言；\",\"宠物心血管益处未开发：'how pets improve heart health and lower blood pressure'（位置57）是情感化健康需求入口，可结合孤独感（已有文章HRV研究）打造差异化内容。\"]",
+    "topicPriorities": "[{\"priority\":1,\"topic\":\"Heat, Humidity & Blood Pressure Sensitivity\",\"dataBasis\":\"3个独立热相关搜索词（'high blood pressure and heat sensitivity', 'does heat and humidity affect blood pressure', 'does heat affect blood pressure'）累计展示5次，平均位置87.7，CTR 0%，表明强需求+极低满足度；同时《the-hidden-dangers-of-indoor-heating-on-blood-pressure》已有24+14次曝光（位置5.5/11），证明该主题有基础流量，仅缺语义匹配和细分延伸。\",\"whyPriority\":\"高转化潜力：热敏感是夏季就诊高频主诉，内容可嵌入'when to seek help'行动指引，并关联已有的室内供暖文章形成气候健康矩阵。\"},{\"priority\":2,\"topic\":\"AI-Powered Blood Pressure Interp",
+    "articleOptimizations": 5
+  },
+  "perplexityInsights": {
+    "cholesterol": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "Is a total cholesterol of 220 dangerous at age 38 with normal blood pressure?",
+        "How does high cholesterol affect erectile dysfunction in men over 40?",
+        "What cholesterol levels are safe for diabetics over 35?",
+        "Does high cholesterol cause hair loss in women after 40?",
+        "Can cholesterol be too low for adults over 50?",
+        "How does smoking impact HDL levels in 35-45 year olds?",
+        "Is 150 LDL okay at age 55 if I'm active and thin?",
+        "Does coffee raise cholesterol in middle-aged adults?",
+        "What causes high triglycerides but normal LDL after 40?",
+        "How often should a 42-year-old man get a full lipid panel?"
+      ],
+      "competitorCoverage": "Top-ranking Google articles on cholesterol for adults universally explain the basics: what cholesterol is, differences between HDL (good) and LDL (bad), ideal levels (total <200 mg/dL, LDL <100 mg/dL, HDL >40-50 mg/dL), causes like diet and genetics, risks such as artery buildup leading to heart disease and stroke, and management via lifestyle changes like diet and exercise.[2][3][4] They emphasize regular screening every 4-6 years for those 20+ and consulting doctors for personalized targets.[1][2] To compete, a new article must include these fundamentals, updated risk calculators, and non-statin options while differentiating with age-specific scenarios for 35+ adults.",
+      "whyItMatters": "Cholesterol remains a critical concern for adults 35+ due to rising midlife heart disease risks, with recent guidelines shifting from strict LDL targets to overall risk assessment incorporating genetics and lifestyle.[3][4] Seasonal spring upticks in screenings and ongoing post-menopause awareness for women drive searches, amid debates on low-dose statins for borderline cases."
+    },
+    "diabetes": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "Is a fasting blood sugar of 130 mg/dL dangerous for a 40-year-old man?",
+        "What A1C level is too high for someone 50+ with type 2 diabetes?",
+        "Can I drink coffee with diabetes after age 45 without spiking blood sugar?",
+        "How often should a 55-year-old check blood sugar if on metformin?",
+        "Is 180 blood sugar after meals normal for adults over 60?",
+        "What causes sudden weight loss in a 38-year-old newly diagnosed with diabetes?",
+        "Should I worry about neuropathy if I'm 42 and have had diabetes for 5 years?",
+        "Can stress cause high blood sugar in women over 35 with prediabetes?",
+        "What foot care routine is best for diabetics aged 50-65?",
+        "Is it safe to fast intermittently if you have type 2 diabetes at 48?"
+      ],
+      "competitorCoverage": "Top-ranking Google articles on diabetes for adults primarily cover basics like types (type 1 vs. type 2), symptoms (thirst, fatigue, frequent urination), risk factors (age 45+, overweight, family history), diagnosis via A1C and glucose tests, and treatments including lifestyle changes, medications, and insulin[1][6][8]. They emphasize questions to ask doctors about targets (A1C under 7%, glucose 3.9-10 mmol/L), complications (heart disease, neuropathy), and prevention through diet, exercise, and monitoring[2][5][7]. To compete, a new article must include authoritative stats from CDC/American Diabetes Association, personalized adult risk profiles, complication timelines, and tech like CGMs, while avoiding generic advice.",
+      "whyItMatters": "Diabetes affects over 30 million Americans, with higher rates in adults 45+ and certain ethnic groups, driving ongoing searches amid rising prediabetes cases[1]. Recent 2025-2026 CDC updates highlight increased prevalence post-pandemic and new GLP-1 drug guidelines for older adults, boosting interest in management amid spring wellness trends."
+    },
+    "healthy eating for seniors": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "How much protein do seniors over 70 really need daily to prevent muscle loss?",
+        "What are the best sources of vitamin B12 for vegetarians aged 65+?",
+        "Is 2,000 calories a day too much for a sedentary woman over 75?",
+        "How can I increase fiber intake without causing bloating in my 80s?",
+        "What calcium-rich foods are safest for seniors with kidney issues?",
+        "Do GLP-1 meds like Ozempic change healthy eating needs for adults over 60?",
+        "How much water should an 85-year-old drink daily to avoid dehydration?",
+        "Are whole grains like quinoa better than oats for digestion after 70?",
+        "What portion sizes follow MyPlate for older adults with slower metabolism?",
+        "How do I read nutrition labels to spot hidden sodium for heart health at 68?"
+      ],
+      "competitorCoverage": "Top-ranking Google articles on 'healthy eating for seniors' universally emphasize nutrient-dense foods like colorful fruits, vegetables, whole grains, and lean proteins to meet changing needs such as higher calcium, vitamin D, B12, and fiber while reducing calories, sodium, and sugars[1][2][3]. They stress reading nutrition labels, following MyPlate portion guidelines, staying hydrated, and simple meal planning with herbs over processed foods[2][3]. To compete, a new article must cover these basics plus senior-specific quizzes, doctor questions on meds/appetite, and 2026 trends like fiber increases or GLP-1 adjustments[4][5][7].",
+      "whyItMatters": "With 2026 trends like 'fibermaxxing,' GLP-1 meds for weight/diabetes/heart health in aging populations, and rising ultra-processed food debates, adults 35+ seek senior eating guidance to preempt age-related changes[5]. Recent NIH/NCOA updates highlight evolving needs like more B12/potassium amid slower metabolism, driving searches as baby boomers hit 70+ and prioritize preventive nutrition[2][3]."
+    },
+    "exercise for seniors": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "What are the best exercises for seniors with arthritis in the knees?",
+        "How can I improve flexibility for seniors over 70 without pain?",
+        "Is swimming safe for seniors with heart conditions?",
+        "What endurance exercises help seniors walk longer distances?",
+        "How often should seniors over 65 do yoga for balance?",
+        "Are there chair exercises for seniors who can't stand long?",
+        "What is the best exercise to prevent osteoporosis after 70?",
+        "How do I start cycling exercises safely at age 75?",
+        "Is dancing a good aerobic workout for seniors with joint issues?",
+        "What flexibility routines work for stiff hips in seniors 80+?"
+      ],
+      "competitorCoverage": "Top-ranking Google articles on 'exercise for seniors' universally recommend 150 minutes of moderate aerobic activity weekly plus two days of muscle-strengthening, emphasizing a mix of aerobic, strength, balance, and flexibility exercises like walking, weights, yoga, and tai chi.[2][3][4][6][7] They stress starting slow, variety to prevent injury and boredom, and benefits like maintaining muscle mass, bone density, mobility, and reducing chronic disease risks.[1][5][8] To compete, a new article must include these CDC/NIA guidelines, sample routines for each type, and tips for beginners or those with limitations.",
+      "whyItMatters": "Exercise for seniors remains critically important as less than 35% of adults 65+ meet activity guidelines, heightening risks of chronic diseases, muscle loss (accelerating after 60), and falls, per recent data.[5][7] Updated 2023 Physical Activity Guidelines reinforce 150 minutes moderate activity plus strength training to preserve independence amid aging populations."
+    }
+  },
+  "topTopics": [
+    {
+      "title": "Can Your Dog Help Your Heart Health After 70?",
+      "pk": "do pets help heart health after 70",
+      "score": 61.333333333333336,
+      "breakdown": {
+        "clusterNeed": 24.3,
+        "searchDemand": 15,
+        "differentiation": 20,
+        "timeliness": 2
+      },
+      "reasoning": "cardiovascular-health集群覆盖率53%，中等缺口 | GSC方向相关\"how pets improve heart health and lower blood pressure\"(5次展示) | 与已有文章有差异(重叠50%) | 搜索趋势下降"
+    },
+    {
+      "title": "Walking Tips That Help Seniors Walk Longer Distances",
+      "pk": "what endurance exercises help seniors walk longer distances",
+      "score": 61,
+      "breakdown": {
+        "clusterNeed": 22,
+        "searchDemand": 8,
+        "differentiation": 25,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率28%，大缺口 | 近7天已产出5篇，适度减分 | 来自周度分析推荐 | 与已有文章高度差异化(重叠17%)"
+    },
+    {
+      "title": "Swimming for Seniors With Heart Conditions: Is It Safe?",
+      "pk": "is swimming safe for seniors with heart conditions",
+      "score": 60.333333333333336,
+      "breakdown": {
+        "clusterNeed": 24.3,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "cardiovascular-health集群覆盖率53%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    },
+    {
+      "title": "Best Chair Exercises for Seniors Who Can't Stand Long",
+      "pk": "chair exercises for seniors who can't stand long",
+      "score": 58,
+      "breakdown": {
+        "clusterNeed": 22,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率28%，大缺口 | 近7天已产出5篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    },
+    {
+      "title": "How Often Should Seniors Over 65 Do Yoga for Balance?",
+      "pk": "how often should seniors over 65 do yoga for balance",
+      "score": 58,
+      "breakdown": {
+        "clusterNeed": 22,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率28%，大缺口 | 近7天已产出5篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    },
+    {
+      "title": "5 Best Exercises to Prevent Osteoporosis After 70",
+      "pk": "best exercise to prevent osteoporosis after 70",
+      "score": 56,
+      "breakdown": {
+        "clusterNeed": 22,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率28%，大缺口 | 近7天已产出5篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Does Smoking Lower Good Cholesterol at 40?",
+      "pk": "does smoking lower good cholesterol at 40",
+      "score": 51.5,
+      "breakdown": {
+        "clusterNeed": 12.5,
+        "searchDemand": 17,
+        "differentiation": 20,
+        "timeliness": 2
+      },
+      "reasoning": "nutrition-diet-management集群覆盖率73%，中等缺口 | 近7天已产出10篇，适度减分 | GSC精确匹配\"soup to lower cholesterol\"(5次展示) | 与已有文章有差异(重叠50%) | 搜索趋势下降"
+    },
+    {
+      "title": "How to Increase Fiber Without Bloating in Your 80s",
+      "pk": "increase fiber without bloating over 80",
+      "score": 50.5,
+      "breakdown": {
+        "clusterNeed": 12.5,
+        "searchDemand": 8,
+        "differentiation": 24,
+        "timeliness": 6
+      },
+      "reasoning": "nutrition-diet-management集群覆盖率73%，中等缺口 | 近7天已产出10篇，适度减分 | 来自周度分析推荐 | 与已有文章高度差异化(重叠25%)"
+    },
+    {
+      "title": "Is 2,000 Calories Too Much for a Sedentary Woman Over 75?",
+      "pk": "2000 calories a day for woman over 75",
+      "score": 48,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 24,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章高度差异化(重叠25%)"
+    },
+    {
+      "title": "Do Ozempic and Similar Meds Change Healthy Eating Needs After 60?",
+      "pk": "ozempic change healthy eating needs after 60",
+      "score": 47.5,
+      "breakdown": {
+        "clusterNeed": 12.5,
+        "searchDemand": 8,
+        "differentiation": 21,
+        "timeliness": 6
+      },
+      "reasoning": "nutrition-diet-management集群覆盖率73%，中等缺口 | 近7天已产出10篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠40%)"
+    }
+  ]
+}

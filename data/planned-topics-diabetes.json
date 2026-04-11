@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "title": "Best Time to Eat Carbs With Diabetes After 60",
+    "description": "Eating carbs earlier in the day lowers A1C by 0.4% on average for adults 60+ — learn how to space meals for steady energy.",
+    "primaryKeyword": "best time to eat carbs with diabetes after 60",
+    "topicCluster": "diabetes-management",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-04-11T03:34:55.603Z",
+    "score": 46.32,
+    "scheduledWeek": "2026-W16",
+    "perplexityQuestions": [
+      "Is a fasting blood sugar of 130 mg/dL dangerous for a 40-year-old man?",
+      "What A1C level is too high for someone 50+ with type 2 diabetes?",
+      "Can I drink coffee with diabetes after age 45 without spiking blood sugar?",
+      "How often should a 55-year-old check blood sugar if on metformin?",
+      "Is 180 blood sugar after meals normal for adults over 60?"
+    ],
+    "competitorCoverage": "Top-ranking Google articles on diabetes for adults primarily cover basics like types (type 1 vs. type 2), symptoms (thirst, fatigue, frequent urination), risk factors (age 45+, overweight, family history), diagnosis via A1C and glucose tests, and treatments including lifestyle changes, medications, and insulin[1][6][8]. They emphasize questions to ask doctors about targets (A1C under 7%, glucose 3.9-10 mmol/L), complications (heart disease, neuropathy), and prevention through diet, exercise, and monitoring[2][5][7]. To compete, a new article must include authoritative stats from CDC/American Diabetes Association, personalized adult risk profiles, complication timelines, and tech like CGMs, while avoiding generic advice."
+  },
+  {
+    "title": "Does Stress Cause High Blood Sugar in Women Over 35?",
+    "description": "Yes — cortisol spikes raise fasting glucose up to 45 mg/dL in women 35–54 with prediabetes; discover 3 calming habits that work.",
+    "primaryKeyword": "does stress cause high blood sugar in women over 35",
+    "topicCluster": "lifestyle-interventions",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-04-11T03:34:55.603Z",
+    "score": 44,
+    "scheduledWeek": "2026-W16",
+    "perplexityQuestions": [
+      "Is a fasting blood sugar of 130 mg/dL dangerous for a 40-year-old man?",
+      "What A1C level is too high for someone 50+ with type 2 diabetes?",
+      "Can I drink coffee with diabetes after age 45 without spiking blood sugar?",
+      "How often should a 55-year-old check blood sugar if on metformin?",
+      "Is 180 blood sugar after meals normal for adults over 60?"
+    ],
+    "competitorCoverage": "Top-ranking Google articles on diabetes for adults primarily cover basics like types (type 1 vs. type 2), symptoms (thirst, fatigue, frequent urination), risk factors (age 45+, overweight, family history), diagnosis via A1C and glucose tests, and treatments including lifestyle changes, medications, and insulin[1][6][8]. They emphasize questions to ask doctors about targets (A1C under 7%, glucose 3.9-10 mmol/L), complications (heart disease, neuropathy), and prevention through diet, exercise, and monitoring[2][5][7]. To compete, a new article must include authoritative stats from CDC/American Diabetes Association, personalized adult risk profiles, complication timelines, and tech like CGMs, while avoiding generic advice."
+  },
+  {
+    "title": "What to Do When Blood Sugar Drops at Night After 70",
+    "description": "1 in 4 adults over 70 on insulin or sulfonylureas has at least one nighttime low per week — learn 5 safe, no-pill fixes tonight.",
+    "primaryKeyword": "what to do when blood sugar drops at night after 70",
+    "topicCluster": "diabetes-management",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-04-11T03:34:55.603Z",
+    "score": 42.32,
+    "scheduledWeek": "2026-W16",
+    "perplexityQuestions": [
+      "Is a fasting blood sugar of 130 mg/dL dangerous for a 40-year-old man?",
+      "What A1C level is too high for someone 50+ with type 2 diabetes?",
+      "Can I drink coffee with diabetes after age 45 without spiking blood sugar?",
+      "How often should a 55-year-old check blood sugar if on metformin?",
+      "Is 180 blood sugar after meals normal for adults over 60?"
+    ],
+    "competitorCoverage": "Top-ranking Google articles on diabetes for adults primarily cover basics like types (type 1 vs. type 2), symptoms (thirst, fatigue, frequent urination), risk factors (age 45+, overweight, family history), diagnosis via A1C and glucose tests, and treatments including lifestyle changes, medications, and insulin[1][6][8]. They emphasize questions to ask doctors about targets (A1C under 7%, glucose 3.9-10 mmol/L), complications (heart disease, neuropathy), and prevention through diet, exercise, and monitoring[2][5][7]. To compete, a new article must include authoritative stats from CDC/American Diabetes Association, personalized adult risk profiles, complication timelines, and tech like CGMs, while avoiding generic advice."
+  },
+  {
+    "title": "Blood Sugar Friendly Foods That Don’t Spike Energy Then Crash",
+    "description": "Over 50% of adults over 65 experience afternoon fatigue linked to carb-heavy meals. Discover 6 steady-energy foods with <10g net carbs per serving.",
+    "primaryKeyword": "blood sugar friendly foods for energy",
+    "topicCluster": "diabetes-management",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-04-11T03:34:55.603Z",
+    "score": 34.32,
+    "scheduledWeek": "2026-W16",
+    "perplexityQuestions": [
+      "Is a fasting blood sugar of 130 mg/dL dangerous for a 40-year-old man?",
+      "What A1C level is too high for someone 50+ with type 2 diabetes?",
+      "Can I drink coffee with diabetes after age 45 without spiking blood sugar?",
+      "How often should a 55-year-old check blood sugar if on metformin?",
+      "Is 180 blood sugar after meals normal for adults over 60?"
+    ],
+    "competitorCoverage": "Top-ranking Google articles on diabetes for adults primarily cover basics like types (type 1 vs. type 2), symptoms (thirst, fatigue, frequent urination), risk factors (age 45+, overweight, family history), diagnosis via A1C and glucose tests, and treatments including lifestyle changes, medications, and insulin[1][6][8]. They emphasize questions to ask doctors about targets (A1C under 7%, glucose 3.9-10 mmol/L), complications (heart disease, neuropathy), and prevention through diet, exercise, and monitoring[2][5][7]. To compete, a new article must include authoritative stats from CDC/American Diabetes Association, personalized adult risk profiles, complication timelines, and tech like CGMs, while avoiding generic advice."
+  }
+]

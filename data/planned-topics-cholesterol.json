@@ -1,66 +1,92 @@
 [
   {
-    "title": "Does Garlic Really Lower Cholesterol?",
-    "description": "Studies show aged garlic extract lowers LDL by ~7 mg/dL in 12 weeks — discover if it’s right for you.",
-    "primaryKeyword": "does garlic lower cholesterol",
-    "topicCluster": "natural-remedies-cholesterol",
+    "title": "Does Smoking Lower Good Cholesterol at 40?",
+    "description": "Yes — smoking drops HDL by up to 15% in adults 35–45; just 5 cigarettes/week shows measurable impact. Find out how to recover it.",
+    "primaryKeyword": "does smoking lower good cholesterol at 40",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "cholesterol",
-    "createdAt": "2026-04-06T07:28:06.507Z"
+    "createdAt": "2026-04-11T03:34:55.603Z",
+    "score": 51.5,
+    "scheduledWeek": "2026-W16",
+    "perplexityQuestions": [
+      "Is a total cholesterol of 220 dangerous at age 38 with normal blood pressure?",
+      "How does high cholesterol affect erectile dysfunction in men over 40?",
+      "What cholesterol levels are safe for diabetics over 35?",
+      "Does high cholesterol cause hair loss in women after 40?",
+      "Can cholesterol be too low for adults over 50?"
+    ],
+    "competitorCoverage": "Top-ranking Google articles on cholesterol for adults universally explain the basics: what cholesterol is, differences between HDL (good) and LDL (bad), ideal levels (total <200 mg/dL, LDL <100 mg/dL, HDL >40-50 mg/dL), causes like diet and genetics, risks such as artery buildup leading to heart disease and stroke, and management via lifestyle changes like diet and exercise.[2][3][4] They emphasize regular screening every 4-6 years for those 20+ and consulting doctors for personalized targets.[1][2] To compete, a new article must include these fundamentals, updated risk calculators, and non-statin options while differentiating with age-specific scenarios for 35+ adults."
   },
   {
-    "title": "Best Cholesterol Medication for Men Over 65",
-    "description": "Statins cut heart attack risk by 25% in men 65+, but side effects rise after 70 — find the safest option.",
-    "primaryKeyword": "best cholesterol medication for men over 65",
-    "topicCluster": "medication-cholesterol",
+    "title": "What to Do When Cholesterol Is Too Low After 65",
+    "description": "Total cholesterol under 160 mg/dL after 65 links to higher frailty risk — find out safe minimums and what to eat. Learn how",
+    "primaryKeyword": "what to do when cholesterol is too low after 65",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "cholesterol",
-    "createdAt": "2026-04-06T07:28:08.795Z"
+    "createdAt": "2026-04-11T03:34:55.603Z",
+    "score": 46.5,
+    "scheduledWeek": "2026-W16",
+    "perplexityQuestions": [
+      "Is a total cholesterol of 220 dangerous at age 38 with normal blood pressure?",
+      "How does high cholesterol affect erectile dysfunction in men over 40?",
+      "What cholesterol levels are safe for diabetics over 35?",
+      "Does high cholesterol cause hair loss in women after 40?",
+      "Can cholesterol be too low for adults over 50?"
+    ],
+    "competitorCoverage": "Top-ranking Google articles on cholesterol for adults universally explain the basics: what cholesterol is, differences between HDL (good) and LDL (bad), ideal levels (total <200 mg/dL, LDL <100 mg/dL, HDL >40-50 mg/dL), causes like diet and genetics, risks such as artery buildup leading to heart disease and stroke, and management via lifestyle changes like diet and exercise.[2][3][4] They emphasize regular screening every 4-6 years for those 20+ and consulting doctors for personalized targets.[1][2] To compete, a new article must include these fundamentals, updated risk calculators, and non-statin options while differentiating with age-specific scenarios for 35+ adults."
   },
   {
-    "title": "Warning Signs of High Cholesterol You Can’t Feel",
-    "description": "Over 80% of people with high cholesterol have no symptoms — discover 5 silent red flags after age 45.",
-    "primaryKeyword": "warning signs of high cholesterol",
-    "topicCluster": "symptoms-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-04-06T07:28:10.966Z"
-  },
-  {
-    "title": "Cholesterol and Heart Disease: What the Numbers Really Mean",
-    "description": "An LDL above 100 mg/dL raises heart disease risk 40% in women over 55 — learn what your numbers reveal.",
-    "primaryKeyword": "cholesterol and heart disease",
-    "topicCluster": "cholesterol-heart-disease",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-04-06T07:28:13.812Z"
-  },
-  {
-    "title": "5 Cholesterol-Lowering Soups That Warm You Up in Winter",
-    "description": "Oat & lentil soup cuts LDL by 5% in 8 weeks — find 5 cozy, ready-in-30-min recipes for cold-weather health.",
-    "primaryKeyword": "cholesterol lowering soups winter",
-    "topicCluster": "soups-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-04-06T07:28:16.257Z"
-  },
-  {
-    "title": "How to Lower Triglycerides at Night Without Pills",
-    "description": "Cutting late carbs drops triglycerides 20–30% in 4 weeks — discover 3 simple bedtime habits after 50.",
-    "primaryKeyword": "how to lower triglycerides at night",
-    "topicCluster": "diet-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-04-06T07:28:18.373Z"
-  },
-  {
-    "title": "Does Coffee Raise Cholesterol After 60?",
-    "description": "Unfiltered coffee raises LDL by 10 mg/dL in 50% of adults over 60 — find out if your brew is safe.",
-    "primaryKeyword": "does coffee raise cholesterol after 60",
-    "topicCluster": "diet-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-04-06T07:28:20.568Z"
-  },
-  {
-    "title": "Cholesterol Testing at Home: Are Finger-Prick Kits Accurate?",
-    "description": "FDA-cleared home kits match lab results within ±8% for total cholesterol — learn which ones work after 55.",
-    "primaryKeyword": "cholesterol testing at home accurate",
+    "title": "Is 150 LDL Okay at Age 55?",
+    "description": "For active, thin adults 55+, an LDL of 150 mg/dL may signal higher heart risk — especially with family history. Discover your real risk level.",
+    "primaryKeyword": "is 150 ldl okay at age 55",
     "topicCluster": "testing-cholesterol",
     "coreKeyword": "cholesterol",
-    "createdAt": "2026-04-06T07:28:22.683Z"
+    "createdAt": "2026-04-11T03:34:55.603Z",
+    "score": 46,
+    "scheduledWeek": "2026-W16",
+    "perplexityQuestions": [
+      "Is a total cholesterol of 220 dangerous at age 38 with normal blood pressure?",
+      "How does high cholesterol affect erectile dysfunction in men over 40?",
+      "What cholesterol levels are safe for diabetics over 35?",
+      "Does high cholesterol cause hair loss in women after 40?",
+      "Can cholesterol be too low for adults over 50?"
+    ],
+    "competitorCoverage": "Top-ranking Google articles on cholesterol for adults universally explain the basics: what cholesterol is, differences between HDL (good) and LDL (bad), ideal levels (total <200 mg/dL, LDL <100 mg/dL, HDL >40-50 mg/dL), causes like diet and genetics, risks such as artery buildup leading to heart disease and stroke, and management via lifestyle changes like diet and exercise.[2][3][4] They emphasize regular screening every 4-6 years for those 20+ and consulting doctors for personalized targets.[1][2] To compete, a new article must include these fundamentals, updated risk calculators, and non-statin options while differentiating with age-specific scenarios for 35+ adults."
+  },
+  {
+    "title": "Can Coffee Raise Cholesterol After 50?",
+    "description": "New research shows filtered coffee may raise LDL by 5–10 mg/dL in adults over 50 — find out which brewing methods matter most. Learn how",
+    "primaryKeyword": "can coffee raise cholesterol after 50",
+    "topicCluster": "nutrition-diet-management",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-11T03:34:55.603Z",
+    "score": 34.5,
+    "scheduledWeek": "2026-W16",
+    "perplexityQuestions": [
+      "Is a total cholesterol of 220 dangerous at age 38 with normal blood pressure?",
+      "How does high cholesterol affect erectile dysfunction in men over 40?",
+      "What cholesterol levels are safe for diabetics over 35?",
+      "Does high cholesterol cause hair loss in women after 40?",
+      "Can cholesterol be too low for adults over 50?"
+    ],
+    "competitorCoverage": "Top-ranking Google articles on cholesterol for adults universally explain the basics: what cholesterol is, differences between HDL (good) and LDL (bad), ideal levels (total <200 mg/dL, LDL <100 mg/dL, HDL >40-50 mg/dL), causes like diet and genetics, risks such as artery buildup leading to heart disease and stroke, and management via lifestyle changes like diet and exercise.[2][3][4] They emphasize regular screening every 4-6 years for those 20+ and consulting doctors for personalized targets.[1][2] To compete, a new article must include these fundamentals, updated risk calculators, and non-statin options while differentiating with age-specific scenarios for 35+ adults."
+  },
+  {
+    "title": "Cholesterol and Erectile Dysfunction After 40",
+    "description": "Up to 45% of men 40–64 with high cholesterol report ED before heart symptoms — learn how blood flow links the two. Find out",
+    "primaryKeyword": "cholesterol and erectile dysfunction after 40",
+    "topicCluster": "nutrition-diet-management",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-11T03:34:55.603Z",
+    "score": 34.5,
+    "scheduledWeek": "2026-W16",
+    "perplexityQuestions": [
+      "Is a total cholesterol of 220 dangerous at age 38 with normal blood pressure?",
+      "How does high cholesterol affect erectile dysfunction in men over 40?",
+      "What cholesterol levels are safe for diabetics over 35?",
+      "Does high cholesterol cause hair loss in women after 40?",
+      "Can cholesterol be too low for adults over 50?"
+    ],
+    "competitorCoverage": "Top-ranking Google articles on cholesterol for adults universally explain the basics: what cholesterol is, differences between HDL (good) and LDL (bad), ideal levels (total <200 mg/dL, LDL <100 mg/dL, HDL >40-50 mg/dL), causes like diet and genetics, risks such as artery buildup leading to heart disease and stroke, and management via lifestyle changes like diet and exercise.[2][3][4] They emphasize regular screening every 4-6 years for those 20+ and consulting doctors for personalized targets.[1][2] To compete, a new article must include these fundamentals, updated risk calculators, and non-statin options while differentiating with age-specific scenarios for 35+ adults."
   }
 ]

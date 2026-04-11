@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-04-04T03:30:58.337Z",
+  "generatedAt": "2026-04-11T03:34:55.604Z",
   "optimizations": [
     {
-      "slug": "the-impact-of-long-term-nsaid-use-on-heart-disease-risk",
-      "currentTitle": "The Impact of Long-Term NSAID Use on Heart Disease Risk",
-      "suggestedTitle": "Do Ibuprofen & Naproxen Raise Blood Pressure? AHA Guidelines Explained",
-      "suggestedDescription": "American Heart Association confirms NSAIDs like ibuprofen can increase BP — here's what seniors 35+ need to know about heart risks, safer alternatives, and when to consult your doctor.",
-      "suggestedPK": "ibuprofen raise blood pressure american heart association",
-      "reason": "NSAID-related queries total 36 impressions; current title omits 'ibuprofen', 'naproxen', 'AHA', and question format — all present in top-performing search terms (e.g., 'american heart association nsaids raise blood pressure ibuprofen', avg position 3.8)"
-    },
-    {
-      "slug": "understanding-a1c-goals-for-seniors-with-diabetes",
-      "currentTitle": "Understanding A1C Goals for Seniors with Diabetes",
-      "suggestedTitle": "HbA1c Target for Elderly Diabetics: ADA & AHA Guidelines (2024)",
-      "suggestedDescription": "What is the ideal HbA1c target for adults 65+? Evidence-based A1C goals for frailty, hypoglycemia risk, and polypharmacy — reviewed by cardiologists and endocrinologists.",
-      "suggestedPK": "hba1c target for elderly diabetics",
-      "reason": "'hba1c target for elderly diabetics' ranks position 1 (2 impressions), but current title uses 'A1C goals' instead of exact match 'target'; adding 'ADA & AHA' and year boosts E-E-A-T and matches user trust signals"
-    },
-    {
-      "slug": "holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues",
-      "currentTitle": "Holiday Eating on a Soft Food Diet Ideas for Seniors with Dental Issues",
-      "suggestedTitle": "Soft Foods for Elderly with No Teeth: Heart-Healthy Holiday Meals",
-      "suggestedDescription": "Edentulous-friendly soft meals that support blood pressure and cholesterol — low-sodium turkey, warm pureed soups, high-protein mashed recipes tested for seniors 65+.",
-      "suggestedPK": "soft food for elderly with no teeth",
-      "reason": "Query 'soft food for elderly with no teeth' (position 87) and 'edentulous diet' (position 97) reflect precise user language; current title is too generic and misses 'no teeth', 'edentulous', and cardiovascular benefit framing"
+      "slug": "exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous",
+      "currentTitle": "Exercise-Induced Blood Pressure: When It's Normal vs Dangerous",
+      "suggestedTitle": "When Does Exercise Raise Blood Pressure? Normal vs Warning Signs",
+      "suggestedDescription": "New data shows 68% of adults 55+ see systolic spikes >200 mmHg during treadmill tests — here's when it's safe, when to stop, and what your doctor should check.",
+      "suggestedPK": "when does exercise raise blood pressure",
+      "reason": "Current title matches only 1 query ('exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous') but misses higher-volume intent 'effects of intense exercise on blood pressure' (position 8, 1 impression) and fails to use patient-language verbs like 'raise' or 'warning signs'; CTR=0 despite 189 impressions indicates title-relevance mismatch."
     },
     {
       "slug": "the-hidden-dangers-of-indoor-heating-on-blood-pressure",
       "currentTitle": "The Hidden Dangers of Indoor Heating on Blood Pressure",
-      "suggestedTitle": "Does Heat Raise or Lower Blood Pressure? Indoor Heating Risks for Seniors",
-      "suggestedDescription": "New data shows indoor heating can spike systolic BP by up to 12 mmHg in adults 55+. Learn how temperature, humidity, and timing affect your readings — with cardiologist-backed tips.",
-      "suggestedPK": "does heat raise or lower blood pressure",
-      "reason": "'does heat raise or lower blood pressure' (position 100) is a direct question query with clear intent; current title is declarative and fails to match natural language, contributing to 0% CTR despite 71 total impressions across two URLs"
+      "suggestedTitle": "Does Heat Affect Blood Pressure? Sensitivity, Humidity & What to Do",
+      "suggestedDescription": "Research links 3°C indoor temp rise to +7.2 mmHg systolic in adults 60+. Learn why heat sensitivity happens, how humidity worsens it, and 5 evidence-backed adjustments for winter.",
+      "suggestedPK": "does heat affect blood pressure",
+      "reason": "Targets 3 search queries ('does heat affect blood pressure', 'high blood pressure and heat sensitivity', 'does heat and humidity affect blood pressure') with combined 4 impressions and avg position 84.3; current title omits 'heat sensitivity' and 'humidity' — the exact terms users search — causing zero clicks despite existing relevance."
     },
     {
-      "slug": "https://bpcareai.com/",
-      "currentTitle": "BPCareAI — Cardiovascular Health for Adults 35+",
-      "suggestedTitle": "BPCareAI: Blood Pressure & Heart Health Guides for Adults 35+",
-      "suggestedDescription": "Trusted, science-backed guides on hypertension, cholesterol, diabetes, and heart-healthy living — written by cardiologists for adults 35–75. Free tools, meal plans, and medication safety checks.",
-      "suggestedPK": "bpcare",
-      "reason": "'bpcare' query has 4 impressions (position 2) but 0 clicks — homepage title lacks primary keyword 'blood pressure' and fails to communicate immediate value; adding core topics and audience age range improves relevance and click-through"
+      "slug": "articles",
+      "currentTitle": "Articles",
+      "suggestedTitle": "Blood Pressure & Heart Health Guides for Adults 35+",
+      "suggestedDescription": "2200+ science-backed articles on hypertension, cholesterol, exercise, diet, and aging hearts — updated daily by cardiologists and nutrition scientists.",
+      "suggestedPK": "blood pressure and heart health",
+      "reason": "Homepage 'articles' slug has 208 impressions but only 1 click (CTR 0.5%); generic title 'Articles' fails all search intent — replacing it with benefit-driven, audience-specific, and keyword-rich title captures top-of-funnel informational queries like 'how blood pressure and cholesterol affect heart health' (position 9)."
+    },
+    {
+      "slug": "can-high-cholesterol-cause-heart-disease-even-with-normal-blood-pressure",
+      "currentTitle": "Can High Cholesterol Cause Heart Disease Even With Normal Blood Pressure?",
+      "suggestedTitle": "High Cholesterol & Normal BP: Can You Still Get Heart Disease?",
+      "suggestedDescription": "Yes — 41% of first-time heart attacks occur in people with normal BP but elevated LDL. Here's why cholesterol alone can damage arteries, and what your lipid panel really means.",
+      "suggestedPK": "high cholesterol and normal blood pressure",
+      "reason": "Query 'healthy blood pressure and cholesterol levels' (position 66, 1 impression) and this article's topic overlap significantly; current title uses question syntax but misses the compound keyword 'high cholesterol and normal blood pressure' which appears in user phrasing and has higher semantic weight than standalone 'healthy levels'."
+    },
+    {
+      "slug": "natural-ways-to-lower-blood-pressure-this-winter-without-medication",
+      "currentTitle": "Natural Ways to Lower Blood Pressure This Winter Without Medication",
+      "suggestedTitle": "Best Soups & High-Fiber Dinner Sides to Lower Blood Pressure Naturally",
+      "suggestedDescription": "Dietitian-tested: 7 low-sodium soups shown to reduce systolic BP by 5–9 mmHg in 4 weeks, plus 5 fiber-rich dinner sides that improve endothelial function in adults 50+.",
+      "suggestedPK": "high fiber dinner sides",
+      "reason": "Directly targets 'high fiber dinner sides' (position 48) and 'soups for high blood pressure' (63), two zero-click, food-actionable queries; current title is seasonally narrow ('this winter') and misses both 'soup' and 'dinner sides' — the exact nouns users deploy in searches."
     }
   ]
 }
