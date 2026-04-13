@@ -1,18 +1,22 @@
 ---
-title: >-
-  How to Increase Fiber Without Bloating Over 80
+title: How to Increase Fiber Without Bloating Over 80
 slug: increase-fiber-without-bloating-over-80
 description: >-
-  Increase fiber without bloating over 80: Start with just 2g/week, drink 6–7 cups water daily, and choose soluble fiber (like oats). 68% less bloating vs.
+  Increase fiber without bloating over 80: Start with just 2g/week, drink 6–7
+  cups water daily, and choose soluble fiber (like oats). 68% less bloating vs.
 date: '2026-04-12'
 updated: '2026-04-12'
-primaryKeyword: >-
-  increase fiber without bloating over 80
+primaryKeyword: increase fiber without bloating over 80
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
+  - 30g-fiber-safe-after-65
+  - soft-foods-seniors-no-teeth
+  - cholesterol-lowering-soups-seniors
   - >-
-    30g-fiber-safe-after-65
+    what-are-the-earliest-digestive-signs-that-your-holiday-fiber-intake-is-too-low-especially-if-you-re-taking-a-daily-calcium-supplement-after-age-65
+  - >-
+    best-low-glycemic-high-fiber-stuffing-variations-for-adults-58-74-with-insulin-resistance-and-ibs-c
 ---
 
 # How to Increase Fiber Without Bloating Over 80
