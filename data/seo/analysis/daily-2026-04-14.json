@@ -1,0 +1,20 @@
+{
+  "date": "2026-04-14",
+  "period": "3-day",
+  "impressionsChange": 33.33333333333333,
+  "clicksChange": -100,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "does heat affect blood pressure",
+      "reason": "排名跃升 15.3 位（89.3 → 74.0）",
+      "score": 45.999999999999986,
+      "recentImpressions": 1,
+      "baselineImpressions": 3,
+      "recentPosition": 74,
+      "baselinePosition": 89.33333333333333
+    }
+  ]
+}
