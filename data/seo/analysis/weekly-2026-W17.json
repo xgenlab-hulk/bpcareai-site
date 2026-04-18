@@ -1,0 +1,217 @@
+{
+  "week": "2026-W17",
+  "generatedAt": "2026-04-18T03:46:41.198Z",
+  "config": {
+    "weeklyTarget": 35,
+    "dailyTarget": 5
+  },
+  "previousWeek": {
+    "remaining": 47,
+    "kept": 0
+  },
+  "newGenerated": 22,
+  "totalWritten": 25,
+  "gscData": {
+    "daysAnalyzed": 7,
+    "totalSearchTerms": 50
+  },
+  "llmAnalysis": {
+    "searchIntentAnalysis": "信息查询主导（占比92%）：如'how pets improve heart health and lower blood pressure'（3次展示）、'does heat lower blood pressure'（1次展示）等，均属中老年用户对环境/生活方式与心血管健康关系的科普需求；比较决策类极少（仅'\"behavioral nutrition psychology\" certification'含'certification'意图，但CTR=0）；无紧急医疗问题词（无'chest pain', 'stroke symptoms'等）。值得注意的是，大量长尾词含矛盾表述（如'heat lowers vs raises BP'），反映用户存在认知混乱，亟需权威澄清。",
+    "ctrAnomalies": "全量查询CTR=0，核心问题为：① 首页（/）和/articles页虽有高曝光（8/293次展示）但零点击，说明导航结构或首屏价值不清晰；② 《the-hidden-dangers-of-indoor-heating-on-blood-pressure》重复出现（109+18次展示，位置57.9→6），但CTR仍为0，证明标题专业性强但未匹配用户搜索语言（用户搜'does heat raise blood pressure'而非'indoor heating dangers'）；③ 多个高潜力页面如'best-warm-heart-healthy-soups-for-seniors-with-high-cholesterol'（10次展示，位置13）未获点击，暗示标题过长、缺乏关键词前置。",
+    "hiddenOpportunities": "[\"热与血压的双向影响机制（22个相关长尾词，覆盖'heat/humidity/weather/temperature'多维度，但当前内容仅单向强调'danger'，缺失'heat-induced vasodilation lowers BP in some seniors'等平衡视角）\",\"冬季血压管理场景化方案（'how to lower blood pressure naturallyaverage temperature in december'等混杂词频现，揭示用户将'自然降压'与'当季气候'强关联，但现有文章未绑定具体月份/地域/温度数据）\",\"高纤维/低胆固醇饮食的即时可执行方案（'high fiber sides'、'low cholesterol soups'等词共7次展示，用户要的是'今晚能做的菜谱'，非泛泛而谈）\",\"AI赋能血压管理新需求（'bp rating ai'、'bpcareai'品牌词自然搜索出现，但无对应落地页）\",\"老年糖尿病护理实操细节（'insulin injection angle for frail older adult'展示3次、位置6.67，属高信任度临床问题，当前无匹配内容）\"]",
+    "topicPriorities": "[{\"topic\":\"热与血压的科学真相：何时降温有益？何时需警惕？\",\"dataBasis\":\"22个热相关搜索词（占全部查询46%），平均位置82.3，最高印象97，表明用户强烈需求但当前内容完全未满足。\",\"whyPriority\":\"解决最大流量洼地，且可整合现有'indoor heating'旧文，ROI最高\"},{\"topic\":\"十二月血压管理指南：结合平均气温的自然调控法\",\"dataBasis\":\"'how to lower blood pressure naturallsnow forecast this winter'（2次展示，位置7）和'how to lower blood pressure naturallyaverage temperature in december'（2次展示，位置9/12）显示季节性搜索已启动。\",\"whyPriority\":\"抢占冬季健康搜索窗口期，时效性强，易获短期排名提升\"},{\"topic\":\"给59-70岁老人的即食高纤维配菜：全家都爱吃的7道侧菜\",\"dataBasis\":\"'high fiber sides'（2次）、'",
+    "articleOptimizations": 5
+  },
+  "perplexityInsights": {
+    "cholesterol": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "Is a total cholesterol of 220 dangerous at age 38 with normal blood pressure?",
+        "How does menopause affect cholesterol levels in women over 45?",
+        "Can high cholesterol cause erectile dysfunction in men over 35?",
+        "Does red meat really raise LDL cholesterol after 40?",
+        "What are the best exercises to lower cholesterol for adults over 50?",
+        "Is 150 LDL too high for a 55-year-old with diabetes?",
+        "How often should I get my cholesterol checked after turning 35?",
+        "Can statins cause muscle pain in people over 60?",
+        "What supplements actually lower cholesterol safely after 40?",
+        "Is a triglyceride level of 180 concerning at age 42?"
+      ],
+      "competitorCoverage": "Top-ranking Google articles on cholesterol for adults primarily cover the basics: what cholesterol is (waxy substance needed for cell function but harmful in excess), differences between HDL (good) and LDL (bad) cholesterol, healthy level targets (total <200 mg/dL, LDL <100 mg/dL, HDL >40/50 mg/dL), risks like artery plaque leading to heart attack/stroke, and general advice on diet, exercise, and when to see a doctor[1][4][8]. They emphasize getting a lipid panel blood test since high cholesterol is asymptomatic, and discuss risk factors like age over 65, genetics, and lifestyle[2][3][4]. To compete, a new article must include these fundamentals plus updated risk calculators, doctor question lists, and visuals like cholesterol level tables[3][4][8].",
+      "whyItMatters": "Cholesterol remains a critical concern for adults 35+ due to rising cardiovascular risks with age, family history, and post-menopause changes in women, with guidelines urging checks from age 45 (or earlier for high-risk groups)[6]. Recent emphases on overall risk assessment beyond just numbers, including Lp(a) and triglycerides, highlight undetected dangers even in 'normal' ranges[4][7]."
+    },
+    "diabetes": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "Is a fasting blood sugar of 140 dangerous at age 45?",
+        "What should my A1C be at 50 years old with prediabetes?",
+        "How often should I check my blood sugar if I'm 55 and newly diagnosed?",
+        "Can diabetes cause erectile dysfunction in men over 40?",
+        "Is 180 blood sugar after meals okay for a 60-year-old?",
+        "What are the signs of kidney damage from diabetes in adults over 35?",
+        "How does diabetes affect sleep apnea in people over 50?",
+        "Should I take statins with metformin if I'm 42 and diabetic?",
+        "What is normal blood pressure for diabetics aged 35-65?",
+        "Can I drink alcohol if I have type 2 diabetes at 48?"
+      ],
+      "competitorCoverage": "Top-ranking Google articles on diabetes for adults primarily cover basics like types (Type 1 vs Type 2), symptoms (thirst, fatigue, frequent urination), risk factors (age over 45, obesity, family history), diagnosis via A1C or fasting glucose, and management through diet, exercise, medications, and blood sugar monitoring targets[1][2][6][7]. They emphasize questions to ask doctors about targets, complications prevention, testing frequency, and lifestyle changes to compete effectively[3][4][5]. A new article must include authoritative A1C guidelines, complication risks like neuropathy or heart disease, and personalized targets for adults 35+ to rank well.",
+      "whyItMatters": "Diabetes prevalence in adults 35+ continues rising due to aging populations and obesity trends, with recent 2025 ADA guidelines updating A1C targets and GLP-1 drug recommendations for cardiovascular risk reduction in midlife[2][8]. Seasonal spring factors like increased outdoor activity queries and post-winter diagnosis spikes drive current searches."
+    },
+    "healthy eating for seniors": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "What are the best sources of vitamin B12 for seniors over 70 who have absorption issues?",
+        "How much calcium and vitamin D do women over 65 really need daily?",
+        "Is it safe to eat raw fish or undercooked meat if I'm 75 with a weakened immune system?",
+        "What fiber-rich foods help with constipation in adults over 60 without causing bloating?",
+        "How can I increase protein intake at 68 if I have a small appetite and dental problems?",
+        "Are plant-based diets safe for seniors over 80 with osteoporosis risk?",
+        "What portion sizes should I use for healthy eating at age 72 to avoid weight gain?",
+        "How do medications for blood pressure affect nutrient absorption in people over 65?",
+        "What are easy ways to add omega-3s to meals for heart health after 70?",
+        "Is intermittent fasting recommended for healthy eating in seniors aged 67+?"
+      ],
+      "competitorCoverage": "Top-ranking Google articles on 'healthy eating for seniors' universally emphasize nutrient-dense foods from all groups like vegetables, fruits, proteins, and dairy, while stressing reading food labels, meal planning on budgets, and key nutrients such as calcium, vitamin D, B12, and fiber.[1][2][6] They highlight age-related changes like reduced calorie needs, smaller appetites, chewing issues, and medication interactions, promoting habits like home cooking, mindful eating, and doctor consultations.[2][3][4] To compete, a new article must cover these basics plus practical tips on portion control, hydration, protein prioritization for muscle preservation, and avoiding ultra-processed foods, with quizzes or tools for engagement.[5][7][8]",
+      "whyItMatters": "With 2026 ushering in new nutrition trends like fibermaxxing, ultra-processed food scrutiny, and habit-focused eating amid rising grocery costs, adults 35+ seek sustainable healthy eating for seniors to combat age-related nutrient gaps and chronic disease risks.[3][4] Recent expert tips stress long-term behaviors over fads, aligning with ongoing NIH guidelines on vital nutrients like B12 and D for healthy aging.[1][2]"
+    },
+    "exercise for seniors": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "What exercises are safe for seniors with arthritis in their knees?",
+        "How can I improve my grip strength at age 70 without weights?",
+        "Is it safe to exercise with heart palpitations after 65?",
+        "What flexibility exercises help with lower back pain in seniors?",
+        "How often should a 75-year-old do core strengthening to prevent falls?",
+        "Are there exercises for seniors recovering from hip replacement surgery?",
+        "What aerobic exercises are best for overweight seniors over 60?",
+        "How do I start yoga safely at age 68 if I'm inflexible?",
+        "Can seniors over 80 do high-intensity interval training?",
+        "What exercises improve hand-eye coordination for older adults?"
+      ],
+      "competitorCoverage": "Top-ranking Google articles on 'exercise for seniors' universally emphasize the 150 minutes weekly of moderate aerobic activity plus two days of strength training, per updated Physical Activity Guidelines, alongside benefits like fall prevention, muscle preservation, and chronic disease management.[1][3] They highlight low-impact options such as walking, water aerobics, yoga, and Tai Chi, with advice to start slow, consult doctors, and include balance and flexibility work.[2][4] To compete, a new article must cover these guidelines, provide beginner-friendly routines with progressions, and address common fears like injury or age barriers with evidence-based reassurances.[3][7]",
+      "whyItMatters": "Exercise for seniors is critically important as less than 15% of adults 65+ meet activity guidelines, heightening risks for falls, muscle loss, and chronic diseases amid an aging population.[3] Recent 2023 Physical Activity Guidelines reinforce moderate activity's superior risk/benefit ratio, driving searches as awareness grows through doctor recommendations and public health campaigns.[1][3]"
+    }
+  },
+  "topTopics": [
+    {
+      "title": "Can B12 Supplements Help With Low Energy After 70?",
+      "pk": "best sources of vitamin B12 for seniors over 70",
+      "score": 64,
+      "breakdown": {
+        "clusterNeed": 30,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "medication-safety集群覆盖率31%，大缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Best Exercises to Lower Cholesterol for Adults Over 50",
+      "pk": "best exercises to lower cholesterol after 50",
+      "score": 61,
+      "breakdown": {
+        "clusterNeed": 22,
+        "searchDemand": 17,
+        "differentiation": 20,
+        "timeliness": 2
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率30%，大缺口 | 近7天已产出6篇，适度减分 | GSC精确匹配\"soup to lower cholesterol\"(5次展示) | 与已有文章有差异(重叠50%) | 搜索趋势下降"
+    },
+    {
+      "title": "Does Tylenol Raise Blood Pressure After 65?",
+      "pk": "does tylenol raise blood pressure after 65",
+      "score": 58.6,
+      "breakdown": {
+        "clusterNeed": 21.6,
+        "searchDemand": 15,
+        "differentiation": 20,
+        "timeliness": 2
+      },
+      "reasoning": "hypertension-management集群覆盖率67%，中等缺口 | GSC方向相关\"american heart association nsaids raise blood pressure\"(13次展示) | 高展示0点击(标题可能需优化) | 与已有文章有差异(重叠50%) | 搜索趋势下降"
+    },
+    {
+      "title": "Is Walking Safe With Heart Palpitations After 65?",
+      "pk": "is it safe to exercise with heart palpitations after 65",
+      "score": 58,
+      "breakdown": {
+        "clusterNeed": 22,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率30%，大缺口 | 近7天已产出6篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    },
+    {
+      "title": "Best Flexibility Exercises for Lower Back Pain in Seniors",
+      "pk": "what flexibility exercises help with lower back pain in seniors",
+      "score": 58,
+      "breakdown": {
+        "clusterNeed": 22,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率30%，大缺口 | 近7天已产出6篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    },
+    {
+      "title": "Do Blood Pressure Meds Affect Nutrient Absorption After 65?",
+      "pk": "blood pressure meds and nutrient absorption after 65",
+      "score": 57.6,
+      "breakdown": {
+        "clusterNeed": 21.6,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "hypertension-management集群覆盖率67%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    },
+    {
+      "title": "How to Build Grip Strength at 70 Without Weights",
+      "pk": "how to improve grip strength at age 70 without weights",
+      "score": 57,
+      "breakdown": {
+        "clusterNeed": 22,
+        "searchDemand": 8,
+        "differentiation": 21,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率30%，大缺口 | 近7天已产出6篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠40%)"
+    },
+    {
+      "title": "Safe Knee-Friendly Exercises After 70",
+      "pk": "exercises safe for seniors with arthritis in knees",
+      "score": 56,
+      "breakdown": {
+        "clusterNeed": 22,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率30%，大缺口 | 近7天已产出6篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Safe Aerobic Exercises for Overweight Seniors Over 60",
+      "pk": "what aerobic exercises are best for overweight seniors over 60",
+      "score": 56,
+      "breakdown": {
+        "clusterNeed": 22,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率30%，大缺口 | 近7天已产出6篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "What Portion Sizes Prevent Weight Gain at 72?",
+      "pk": "portion sizes for healthy eating at age 72",
+      "score": 56,
+      "breakdown": {
+        "clusterNeed": 22,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率30%，大缺口 | 近7天已产出6篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    }
+  ]
+}

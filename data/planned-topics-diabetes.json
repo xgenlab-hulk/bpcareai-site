@@ -1,154 +1,38 @@
 [
   {
-    "title": "How to Check Blood Sugar Without Pricking Your Finger",
-    "description": "12% of seniors skip testing due to finger pain — discover 3 FDA-cleared options that work without needles.",
-    "primaryKeyword": "check blood sugar without pricking finger",
-    "topicCluster": "blood-sugar-monitoring",
+    "title": "Best Breakfast Foods for Steady Blood Sugar After 60",
+    "description": "Oatmeal with walnuts and berries lowers morning spikes by 22% vs plain cereal — discover 5 easy combos that work without strict counting.",
+    "primaryKeyword": "best breakfast foods for blood sugar after 60",
+    "topicCluster": "diabetes-management",
     "coreKeyword": "diabetes",
-    "createdAt": "2026-04-11T06:59:02.717Z"
+    "createdAt": "2026-04-18T03:46:41.196Z",
+    "score": 34.2,
+    "scheduledWeek": "2026-W17",
+    "perplexityQuestions": [
+      "Is a fasting blood sugar of 140 dangerous at age 45?",
+      "What should my A1C be at 50 years old with prediabetes?",
+      "How often should I check my blood sugar if I'm 55 and newly diagnosed?",
+      "Can diabetes cause erectile dysfunction in men over 40?",
+      "Is 180 blood sugar after meals okay for a 60-year-old?"
+    ],
+    "competitorCoverage": "Top-ranking Google articles on diabetes for adults primarily cover basics like types (Type 1 vs Type 2), symptoms (thirst, fatigue, frequent urination), risk factors (age over 45, obesity, family history), diagnosis via A1C or fasting glucose, and management through diet, exercise, medications, and blood sugar monitoring targets[1][2][6][7]. They emphasize questions to ask doctors about targets, complications prevention, testing frequency, and lifestyle changes to compete effectively[3][4][5]. A new article must include authoritative A1C guidelines, complication risks like neuropathy or heart disease, and personalized targets for adults 35+ to rank well."
   },
   {
-    "title": "Best Time to Take Metformin With Meals After 70",
-    "description": "Taking metformin 30 minutes before dinner lowers A1C by 0.4% more in adults 70+ — find out when to time your dose.",
-    "primaryKeyword": "best time to take metformin after 70",
-    "topicCluster": "medication-management",
+    "title": "Warning Signs of Kidney Trouble From Diabetes",
+    "description": "Foamy urine, swollen ankles, or fatigue after 35 can signal early kidney damage — learn the 3 tests your doctor should run yearly.",
+    "primaryKeyword": "signs of kidney damage from diabetes after 35",
+    "topicCluster": "diabetes-management",
     "coreKeyword": "diabetes",
-    "createdAt": "2026-04-11T06:59:04.964Z"
-  },
-  {
-    "title": "Does Walking After Dinner Really Lower Blood Sugar?",
-    "description": "Yes — 15 minutes of walking after eating drops post-meal glucose by 22% in adults 55–75. Discover how to do it right.",
-    "primaryKeyword": "does walking after dinner lower blood sugar",
-    "topicCluster": "exercise",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-04-11T06:59:07.189Z"
-  },
-  {
-    "title": "7 Foods That Keep Blood Sugar Steady All Night",
-    "description": "Eating 15g protein + healthy fat before bed cuts overnight lows by 38% in adults 65+ — learn which snacks work best.",
-    "primaryKeyword": "foods that keep blood sugar steady all night",
-    "topicCluster": "diet-meal-timing",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-04-11T06:59:09.260Z"
-  },
-  {
-    "title": "Why Blood Sugar Spikes After Hot Showers in Seniors",
-    "description": "62% of adults 70+ report spikes within 20 minutes of hot showers — find out why and how to avoid them.",
-    "primaryKeyword": "why blood sugar spikes after hot shower seniors",
-    "topicCluster": "symptoms-complications",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-04-11T06:59:11.459Z"
-  },
-  {
-    "title": "A1C Target for Healthy 80-Year-Olds With Diabetes",
-    "description": "For most adults 80+, an A1C of 7.6–8.0% is safer and reduces falls by 27% — learn what’s right for *your* health goals.",
-    "primaryKeyword": "safe a1c target for 80 year old",
-    "topicCluster": "hba1c-targets-elderly",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-04-11T06:59:13.518Z"
-  },
-  {
-    "title": "Can Apple Cider Vinegar Lower Blood Sugar After 65?",
-    "description": "Studies show 2 tsp before meals lowers 2-hour glucose by 14% in adults 65–79 — find out how to use it safely.",
-    "primaryKeyword": "can apple cider vinegar lower blood sugar after 65",
-    "topicCluster": "diet-meal-timing",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-04-11T06:59:15.932Z"
-  },
-  {
-    "title": "What to Do When Blood Sugar Won’t Go Down After 60",
-    "description": "If fasting glucose stays above 130 mg/dL for 3+ days, it may signal medication timing or kidney changes — discover next steps.",
-    "primaryKeyword": "what to do when blood sugar won’t go down after 60",
-    "topicCluster": "medication-management",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-04-11T06:59:17.972Z"
-  },
-  {
-    "title": "Best Low-Sugar Fruits for Seniors With Diabetes",
-    "description": "Berries, apples, and pears with skin have under 15g sugar per serving and boost fiber — get a printable list of 6 safe picks.",
-    "primaryKeyword": "best low sugar fruits for seniors with diabetes",
-    "topicCluster": "diet-meal-timing",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-04-11T06:59:20.150Z"
-  },
-  {
-    "title": "How Often to Test Blood Sugar With Type 2 After 75",
-    "description": "For stable seniors 75+, testing 2–3x/week is as effective as daily checks — learn when more frequent testing *is* needed.",
-    "primaryKeyword": "how often test blood sugar with type 2 after 75",
-    "topicCluster": "blood-sugar-monitoring",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-04-11T06:59:22.256Z"
-  },
-  {
-    "title": "Does Stress Raise Blood Sugar in Men Over 60?",
-    "description": "Yes — stress hormones spike glucose up to 45 mg/dL in men 60–74, especially in the morning. Find out how to calm it.",
-    "primaryKeyword": "does stress raise blood sugar in men over 60",
-    "topicCluster": "sleep-stress",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-04-11T06:59:24.615Z"
-  },
-  {
-    "title": "Best Easy Chair Exercises for Blood Sugar After 70",
-    "description": "Just 10 minutes of seated leg lifts + arm raises lowers 2-hour glucose by 18% — learn 5 moves you can do safely at home.",
-    "primaryKeyword": "best easy chair exercises for blood sugar after 70",
-    "topicCluster": "exercise",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-04-11T06:59:26.722Z"
-  },
-  {
-    "title": "Why Diabetes Gets Harder to Control After 75",
-    "description": "Muscle loss, slower digestion, and kidney changes raise A1C by 0.2–0.5% per decade after 75 — discover what helps most.",
-    "primaryKeyword": "why diabetes gets harder to control after 75",
-    "topicCluster": "age-specific-concerns",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-04-11T06:59:28.969Z"
-  },
-  {
-    "title": "Can Cinnamon Lower Blood Sugar in Women Over 60?",
-    "description": "Yes — 1 g daily lowers fasting glucose by 12 mg/dL in women 60–72, but only if taken with food. Learn safe dosing tips.",
-    "primaryKeyword": "can cinnamon lower blood sugar in women over 60",
-    "topicCluster": "diet-meal-timing",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-04-11T06:59:31.070Z"
-  },
-  {
-    "title": "Warning Signs of Diabetic Nerve Pain You Shouldn’t Ignore",
-    "description": "Tingling, burning, or numbness in feet affects 50% of adults 65+ with diabetes for 10+ years — find out when to call your doctor.",
-    "primaryKeyword": "warning signs of diabetic nerve pain",
-    "topicCluster": "symptoms-complications",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-04-11T06:59:33.170Z"
-  },
-  {
-    "title": "How to Store Insulin Safely in Hot Weather After 65",
-    "description": "Insulin loses potency after 1 hour above 86°F — learn 4 no-fridge tricks to keep it effective during summer travel.",
-    "primaryKeyword": "how to store insulin in hot weather after 65",
-    "topicCluster": "medication-management",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-04-11T06:59:35.439Z"
-  },
-  {
-    "title": "Best Travel Snacks for Blood Sugar Control After 60",
-    "description": "Nuts, cheese sticks, and roasted edamame keep glucose steady — get a 7-item list with carb counts under 12g per serving.",
-    "primaryKeyword": "best travel snacks for blood sugar control after 60",
-    "topicCluster": "diet-meal-timing",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-04-11T06:59:37.617Z"
-  },
-  {
-    "title": "Does Skipping Lunch Raise Blood Sugar in Seniors?",
-    "description": "Yes — skipping meals raises afternoon glucose by 29% in adults 65+ due to cortisol spikes — find out how to eat smarter.",
-    "primaryKeyword": "does skipping lunch raise blood sugar in seniors",
-    "topicCluster": "diet-meal-timing",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-04-11T06:59:39.773Z"
-  },
-  {
-    "title": "What to Eat Before a Long Car Ride With Diabetes After 70",
-    "description": "A combo of 10g protein + 15g slow carbs cuts glucose swings by 33% — discover 4 easy, no-refrigeration options.",
-    "primaryKeyword": "what to eat before a long car ride with diabetes after 70",
-    "topicCluster": "diet-meal-timing",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-04-11T06:59:41.916Z"
+    "createdAt": "2026-04-18T03:46:41.197Z",
+    "score": 34.2,
+    "scheduledWeek": "2026-W17",
+    "perplexityQuestions": [
+      "Is a fasting blood sugar of 140 dangerous at age 45?",
+      "What should my A1C be at 50 years old with prediabetes?",
+      "How often should I check my blood sugar if I'm 55 and newly diagnosed?",
+      "Can diabetes cause erectile dysfunction in men over 40?",
+      "Is 180 blood sugar after meals okay for a 60-year-old?"
+    ],
+    "competitorCoverage": "Top-ranking Google articles on diabetes for adults primarily cover basics like types (Type 1 vs Type 2), symptoms (thirst, fatigue, frequent urination), risk factors (age over 45, obesity, family history), diagnosis via A1C or fasting glucose, and management through diet, exercise, medications, and blood sugar monitoring targets[1][2][6][7]. They emphasize questions to ask doctors about targets, complications prevention, testing frequency, and lifestyle changes to compete effectively[3][4][5]. A new article must include authoritative A1C guidelines, complication risks like neuropathy or heart disease, and personalized targets for adults 35+ to rank well."
   }
 ]

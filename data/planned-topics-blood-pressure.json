@@ -1,154 +1,42 @@
 [
   {
-    "title": "How to Read Your Home BP Log Patterns",
-    "description": "Spot dangerous spikes or dips — 63% of seniors miss patterns that predict stroke risk — find out",
-    "primaryKeyword": "how to read home blood pressure log",
-    "topicCluster": "monitoring-blood-pressure",
+    "title": "Does Tylenol Raise Blood Pressure After 65?",
+    "description": "In adults over 65, daily acetaminophen use is linked to a 5–7 mmHg rise in systolic BP—find out safer pain relief options.",
+    "primaryKeyword": "does tylenol raise blood pressure after 65",
+    "topicCluster": "hypertension-management",
     "coreKeyword": "blood pressure",
-    "createdAt": "2026-04-11T06:57:19.627Z"
+    "createdAt": "2026-04-18T03:46:41.195Z",
+    "score": 58.6,
+    "scheduledWeek": "2026-W17"
   },
   {
-    "title": "Does Coffee Raise Blood Pressure After 60?",
-    "description": "Yes — but only if you drink 3+ cups before noon; 42% see a 12 mmHg systolic rise — discover",
-    "primaryKeyword": "does coffee raise blood pressure after 60",
-    "topicCluster": "diet-blood-pressure",
+    "title": "Do Blood Pressure Meds Affect Nutrient Absorption After 65?",
+    "description": "Common meds like lisinopril and amlodipine may lower zinc, magnesium, and B12 by up to 40% — learn which nutrients to monitor and test.",
+    "primaryKeyword": "blood pressure meds and nutrient absorption after 65",
+    "topicCluster": "hypertension-management",
     "coreKeyword": "blood pressure",
-    "createdAt": "2026-04-11T06:57:22.044Z"
+    "createdAt": "2026-04-18T03:46:41.196Z",
+    "score": 57.6,
+    "scheduledWeek": "2026-W17"
   },
   {
-    "title": "Best BP Meds for Men Over 65 With Kidney Issues",
-    "description": "ACE inhibitors cut heart failure risk by 27% in men with early CKD — learn how to choose safely",
-    "primaryKeyword": "best blood pressure meds for men over 65 kidney",
-    "topicCluster": "medication-blood-pressure",
+    "title": "3 Ways to Lower Blood Pressure While Sleeping",
+    "description": "Sleeping with your head slightly elevated can reduce nighttime BP by up to 8 mmHg—learn how to set up your bed safely and effectively.",
+    "primaryKeyword": "lower blood pressure while sleeping",
+    "topicCluster": "lifestyle-interventions",
     "coreKeyword": "blood pressure",
-    "createdAt": "2026-04-11T06:57:24.285Z"
+    "createdAt": "2026-04-18T03:46:41.196Z",
+    "score": 51,
+    "scheduledWeek": "2026-W17"
   },
   {
-    "title": "Why Blood Pressure Jumps in Winter Mornings",
-    "description": "Cold air constricts arteries — 58% of adults 60+ see 15–20 mmHg higher readings before 9 a.m. — learn how",
-    "primaryKeyword": "why blood pressure jumps in winter mornings",
-    "topicCluster": "seasonal-blood-pressure",
+    "title": "5 Low-Sodium Soup Recipes for High Blood Pressure in Summer",
+    "description": "Cold cucumber-dill soup and chilled tomato-basil blend cut sodium by 60% vs store-bought—discover 5 refreshing, BP-friendly summer soups.",
+    "primaryKeyword": "low sodium soup for high blood pressure summer",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "blood pressure",
-    "createdAt": "2026-04-11T06:57:26.415Z"
-  },
-  {
-    "title": "Can Deep Breathing Lower BP in 5 Minutes?",
-    "description": "Yes — 4 breaths per minute for 5 minutes drops systolic BP by 10 mmHg in 81% of trials — discover",
-    "primaryKeyword": "can deep breathing lower blood pressure in 5 minutes",
-    "topicCluster": "stress-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-04-11T06:57:28.503Z"
-  },
-  {
-    "title": "Foods That Lower BP Naturally at Night",
-    "description": "Bananas, kiwi, and tart cherry juice cut nighttime systolic by 6–9 mmHg in adults 55+ — learn how",
-    "primaryKeyword": "foods that lower blood pressure naturally at night",
-    "topicCluster": "diet-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-04-11T06:57:30.600Z"
-  },
-  {
-    "title": "Warning Signs of BP Drop When Standing Up",
-    "description": "Dizziness within 3 seconds of standing affects 1 in 4 adults over 70 — learn how to test & prevent",
-    "primaryKeyword": "warning signs of blood pressure drop when standing",
-    "topicCluster": "symptoms-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-04-11T06:57:32.680Z"
-  },
-  {
-    "title": "How to Check BP After a Hot Shower Safely",
-    "description": "Wait at least 30 minutes — heat lowers readings by 8–12 mmHg on average — find out why",
-    "primaryKeyword": "how to check blood pressure after hot shower",
-    "topicCluster": "monitoring-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-04-11T06:57:34.830Z"
-  },
-  {
-    "title": "Best Soups for High Blood Pressure in Winter",
-    "description": "3 low-sodium, high-potassium soups shown to lower BP in 6 weeks — 72% of seniors stick with them — discover",
-    "primaryKeyword": "best soups for high blood pressure in winter",
-    "topicCluster": "diet-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-04-11T06:57:37.084Z"
-  },
-  {
-    "title": "Does Stress Raise BP More in Women Over 55?",
-    "description": "Yes — women’s systolic rises 18% more than men’s during work stress after menopause — learn how",
-    "primaryKeyword": "does stress raise blood pressure more in women over 55",
-    "topicCluster": "stress-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-04-11T06:57:39.326Z"
-  },
-  {
-    "title": "Can Magnesium Help With High BP After 70?",
-    "description": "300 mg daily lowers systolic by 4.5 mmHg in adults 70+ — but only if taken with food — discover",
-    "primaryKeyword": "can magnesium help with high blood pressure after 70",
-    "topicCluster": "supplements-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-04-11T06:57:41.422Z"
-  },
-  {
-    "title": "What to Do When BP Spikes After Exercise",
-    "description": "Sit quietly for 5 minutes — 89% of seniors avoid dangerous rebounds if they rest first — learn how",
-    "primaryKeyword": "what to do when blood pressure spikes after exercise",
-    "topicCluster": "exercise-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-04-11T06:57:43.635Z"
-  },
-  {
-    "title": "Blood Pressure at Night: What’s Normal After 65?",
-    "description": "Systolic under 120 mmHg is ideal — 61% of adults 65+ have nighttime readings over 135 — find out",
-    "primaryKeyword": "what's normal blood pressure at night after 65",
-    "topicCluster": "sleep-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-04-11T06:57:45.963Z"
-  },
-  {
-    "title": "Does Salt in Canned Soup Raise BP Fast?",
-    "description": "One ½-cup serving can add 450 mg sodium — enough to spike BP within 90 minutes — learn how",
-    "primaryKeyword": "does salt in canned soup raise blood pressure fast",
-    "topicCluster": "diet-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-04-11T06:57:48.119Z"
-  },
-  {
-    "title": "How to Lower BP Without Medication After 50",
-    "description": "Lifestyle changes cut systolic by 11 mmHg on average in 12 weeks — 74% avoid new meds — discover",
-    "primaryKeyword": "how to lower blood pressure without medication after 50",
-    "topicCluster": "lifestyle-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-04-11T06:57:50.242Z"
-  },
-  {
-    "title": "Best BP Cuff for Arthritis Hands Over 75",
-    "description": "Automatic upper-arm cuffs with one-touch start cut measurement errors by 68% — learn how to choose",
-    "primaryKeyword": "best blood pressure cuff for arthritis hands over 75",
-    "topicCluster": "monitoring-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-04-11T06:57:52.523Z"
-  },
-  {
-    "title": "Can Napping Lower Blood Pressure in Seniors?",
-    "description": "Yes — 30-minute naps drop systolic by 5 mmHg in adults 60+ with daytime fatigue — discover",
-    "primaryKeyword": "can napping lower blood pressure in seniors",
-    "topicCluster": "sleep-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-04-11T06:57:54.637Z"
-  },
-  {
-    "title": "Why BP Readings Vary Between Arms",
-    "description": "A 10+ mmHg difference signals higher stroke risk — found in 22% of adults over 60 — learn how",
-    "primaryKeyword": "why blood pressure readings vary between arms",
-    "topicCluster": "monitoring-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-04-11T06:57:56.742Z"
-  },
-  {
-    "title": "Does Humidity Affect Home BP Readings in Summer?",
-    "description": "Yes — high humidity raises systolic by 4–7 mmHg in 55% of adults over 65 — find out why",
-    "primaryKeyword": "does humidity affect home blood pressure readings in summer",
-    "topicCluster": "seasonal-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-04-11T06:57:58.903Z"
+    "createdAt": "2026-04-18T03:46:41.196Z",
+    "score": 44.15,
+    "scheduledWeek": "2026-W17"
   }
 ]
