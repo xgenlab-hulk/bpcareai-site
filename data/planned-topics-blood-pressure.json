@@ -1,15 +1,5 @@
 [
   {
-    "title": "Does Tylenol Raise Blood Pressure After 65?",
-    "description": "In adults over 65, daily acetaminophen use is linked to a 5–7 mmHg rise in systolic BP—find out safer pain relief options.",
-    "primaryKeyword": "does tylenol raise blood pressure after 65",
-    "topicCluster": "hypertension-management",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-04-18T03:46:41.195Z",
-    "score": 58.6,
-    "scheduledWeek": "2026-W17"
-  },
-  {
     "title": "Do Blood Pressure Meds Affect Nutrient Absorption After 65?",
     "description": "Common meds like lisinopril and amlodipine may lower zinc, magnesium, and B12 by up to 40% — learn which nutrients to monitor and test.",
     "primaryKeyword": "blood pressure meds and nutrient absorption after 65",
@@ -38,5 +28,157 @@
     "createdAt": "2026-04-18T03:46:41.196Z",
     "score": 44.15,
     "scheduledWeek": "2026-W17"
+  },
+  {
+    "title": "5 Foods That Lower Blood Pressure Naturally",
+    "description": "These 5 everyday foods helped 68% of adults over 55 lower systolic BP by 7 mmHg in 8 weeks—learn how",
+    "primaryKeyword": "foods that lower blood pressure naturally",
+    "topicCluster": "diet-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-18T07:04:32.347Z"
+  },
+  {
+    "title": "How to Check Blood Pressure at Night Safely",
+    "description": "Nighttime readings above 120/70 mmHg raise stroke risk by 2.3x—find out the right time and position",
+    "primaryKeyword": "how to check blood pressure at night",
+    "topicCluster": "home-monitoring-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-18T07:04:34.451Z"
+  },
+  {
+    "title": "Blood Pressure Higher in Winter or Summer?",
+    "description": "Winter averages are 5–8 mmHg higher for 74% of adults over 60—learn why and how to adjust your routine",
+    "primaryKeyword": "is blood pressure higher in winter or summer",
+    "topicCluster": "seasonal-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-18T07:04:39.568Z"
+  },
+  {
+    "title": "Best Low-Sodium Soups for High Blood Pressure",
+    "description": "3 homemade soups with under 300 mg sodium per serving cut systolic BP by 6 mmHg in 4 weeks—find out how",
+    "primaryKeyword": "low sodium soups for high blood pressure",
+    "topicCluster": "diet-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-18T07:04:41.611Z"
+  },
+  {
+    "title": "How to Lower Blood Pressure While Sleeping",
+    "description": "Elevating your head 6 inches lowered nocturnal BP by 9 mmHg in 71% of adults over 65—learn the simple setup",
+    "primaryKeyword": "how to lower blood pressure while sleeping",
+    "topicCluster": "sleep-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-18T07:04:43.594Z"
+  },
+  {
+    "title": "Warning Signs of High Blood Pressure You Ignore",
+    "description": "1 in 3 adults with BP over 140/90 has no symptoms—these 4 subtle signs appear first in women over 50",
+    "primaryKeyword": "warning signs of high blood pressure",
+    "topicCluster": "symptoms-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-18T07:04:45.692Z"
+  },
+  {
+    "title": "Can Deep Breathing Lower Blood Pressure in 5 Minutes?",
+    "description": "Yes—4 minutes of paced breathing dropped BP by 10/6 mmHg in 89% of adults over 60 in clinical trials—discover how",
+    "primaryKeyword": "can deep breathing lower blood pressure",
+    "topicCluster": "stress-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-18T07:04:47.649Z"
+  },
+  {
+    "title": "Best BP Monitor for Arthritic Hands After 70",
+    "description": "One-touch, large-display cuffs improved accuracy by 40% for seniors with hand stiffness—find the top 3 models",
+    "primaryKeyword": "best blood pressure monitor for arthritic hands",
+    "topicCluster": "home-monitoring-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-18T07:04:49.619Z"
+  },
+  {
+    "title": "Why Blood Pressure Jumps After Coffee at 60+",
+    "description": "Caffeine spiked systolic BP by 15 mmHg in 57% of adults over 60—learn how long to wait before checking",
+    "primaryKeyword": "why does coffee raise blood pressure after 60",
+    "topicCluster": "medication-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-18T07:04:51.624Z"
+  },
+  {
+    "title": "What to Do When Blood Pressure Drops After Standing",
+    "description": "22% of adults over 75 experience dizziness within 3 minutes of standing—try these 3 quick fixes today",
+    "primaryKeyword": "blood pressure drops after standing up",
+    "topicCluster": "symptoms-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-18T07:04:53.597Z"
+  },
+  {
+    "title": "Best Seated Exercises to Lower Blood Pressure",
+    "description": "12 minutes daily of seated leg lifts + arm circles lowered BP by 8 mmHg in 8 weeks—get the full routine",
+    "primaryKeyword": "seated exercises to lower blood pressure",
+    "topicCluster": "exercise-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-18T07:04:55.565Z"
+  },
+  {
+    "title": "Foods That Lower Blood Pressure Without Salt Restriction",
+    "description": "Potassium-rich foods like sweet potatoes cut BP by 5 mmHg without strict sodium limits—discover 4 safe picks",
+    "primaryKeyword": "foods that lower blood pressure without low salt",
+    "topicCluster": "diet-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-18T07:04:58.884Z"
+  },
+  {
+    "title": "How to Read Your Home BP Monitor Accurately",
+    "description": "71% of users misread systolic/diastolic by 12+ mmHg—learn the 3-step trick that improves accuracy by 92%",
+    "primaryKeyword": "how to read home blood pressure monitor",
+    "topicCluster": "home-monitoring-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-18T07:05:01.075Z"
+  },
+  {
+    "title": "Can Magnesium Supplements Lower Blood Pressure After 60?",
+    "description": "Yes—400 mg daily lowered BP by 4.5/2.8 mmHg in adults over 60—find out which form works best and when to take it",
+    "primaryKeyword": "can magnesium lower blood pressure after 60",
+    "topicCluster": "medication-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-18T07:05:03.239Z"
+  },
+  {
+    "title": "Blood Pressure at Night vs Morning: Which Matters More?",
+    "description": "Nighttime BP predicts heart events 2.7x better than morning readings for adults over 55—learn what to track",
+    "primaryKeyword": "blood pressure at night vs morning",
+    "topicCluster": "home-monitoring-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-18T07:05:05.207Z"
+  },
+  {
+    "title": "Best Time to Take Blood Pressure Meds for Seniors",
+    "description": "Evening dosing cut stroke risk by 44% vs morning in adults over 65—find out if your meds fit this timing",
+    "primaryKeyword": "best time to take blood pressure meds for seniors",
+    "topicCluster": "medication-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-18T07:05:07.259Z"
+  },
+  {
+    "title": "Why Blood Pressure Rises After Holiday Meals",
+    "description": "Sodium + alcohol raised BP by 18/11 mmHg in 66% of adults over 50 after big meals—3 simple meal switches help",
+    "primaryKeyword": "why blood pressure rises after holiday meals",
+    "topicCluster": "diet-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-18T07:05:09.226Z"
+  },
+  {
+    "title": "Can Walking Lower Blood Pressure in Just 1 Week?",
+    "description": "Yes—30 minutes daily lowered BP by 5.6/3.4 mmHg in 79% of adults over 60 within 7 days—start with these 3 tips",
+    "primaryKeyword": "can walking lower blood pressure in one week",
+    "topicCluster": "exercise-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-18T07:05:11.202Z"
+  },
+  {
+    "title": "Does Alcohol Raise Blood Pressure at Night?",
+    "description": "Even 1 drink raised nocturnal BP by 9 mmHg in 62% of adults over 55—learn how long to stop before bed",
+    "primaryKeyword": "does alcohol raise blood pressure at night",
+    "topicCluster": "sleep-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-04-18T07:05:13.182Z"
   }
 ]

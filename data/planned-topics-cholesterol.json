@@ -1,23 +1,5 @@
 [
   {
-    "title": "Best Exercises to Lower Cholesterol for Adults Over 50",
-    "description": "Brisk walking 150 mins/week lowers LDL by 10% — more than yoga or stretching alone. Get the 3-move routine that works.",
-    "primaryKeyword": "best exercises to lower cholesterol after 50",
-    "topicCluster": "lifestyle-interventions",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-04-18T03:46:41.196Z",
-    "score": 61,
-    "scheduledWeek": "2026-W17",
-    "perplexityQuestions": [
-      "Is a total cholesterol of 220 dangerous at age 38 with normal blood pressure?",
-      "How does menopause affect cholesterol levels in women over 45?",
-      "Can high cholesterol cause erectile dysfunction in men over 35?",
-      "Does red meat really raise LDL cholesterol after 40?",
-      "What are the best exercises to lower cholesterol for adults over 50?"
-    ],
-    "competitorCoverage": "Top-ranking Google articles on cholesterol for adults primarily cover the basics: what cholesterol is (waxy substance needed for cell function but harmful in excess), differences between HDL (good) and LDL (bad) cholesterol, healthy level targets (total <200 mg/dL, LDL <100 mg/dL, HDL >40/50 mg/dL), risks like artery plaque leading to heart attack/stroke, and general advice on diet, exercise, and when to see a doctor[1][4][8]. They emphasize getting a lipid panel blood test since high cholesterol is asymptomatic, and discuss risk factors like age over 65, genetics, and lifestyle[2][3][4]. To compete, a new article must include these fundamentals plus updated risk calculators, doctor question lists, and visuals like cholesterol level tables[3][4][8]."
-  },
-  {
     "title": "Does Red Meat Raise Cholesterol After 40?",
     "description": "Yes — just 3 oz daily raises LDL by 8 mg/dL in adults 40–65. Discover smarter protein swaps that work.",
     "primaryKeyword": "does red meat raise cholesterol after 40",
@@ -70,5 +52,85 @@
       "What are the best exercises to lower cholesterol for adults over 50?"
     ],
     "competitorCoverage": "Top-ranking Google articles on cholesterol for adults primarily cover the basics: what cholesterol is (waxy substance needed for cell function but harmful in excess), differences between HDL (good) and LDL (bad) cholesterol, healthy level targets (total <200 mg/dL, LDL <100 mg/dL, HDL >40/50 mg/dL), risks like artery plaque leading to heart attack/stroke, and general advice on diet, exercise, and when to see a doctor[1][4][8]. They emphasize getting a lipid panel blood test since high cholesterol is asymptomatic, and discuss risk factors like age over 65, genetics, and lifestyle[2][3][4]. To compete, a new article must include these fundamentals plus updated risk calculators, doctor question lists, and visuals like cholesterol level tables[3][4][8]."
+  },
+  {
+    "title": "7 Foods That Lower Cholesterol Naturally After 60",
+    "description": "These everyday foods lowered LDL by 12% in seniors in a 12-week study — learn how to add them daily.",
+    "primaryKeyword": "foods that lower cholesterol naturally after 60",
+    "topicCluster": "diet-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-18T07:05:48.332Z"
+  },
+  {
+    "title": "How to Read Your Cholesterol Test at Home After 55",
+    "description": "Only 33% of adults over 55 understand their HDL/LDL ratio — discover what your numbers really mean.",
+    "primaryKeyword": "how to read cholesterol test at home after 55",
+    "topicCluster": "testing-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-18T07:05:50.295Z"
+  },
+  {
+    "title": "Does Garlic Really Lower Cholesterol After 50?",
+    "description": "A 2023 review found aged garlic reduced LDL by 7–10 mg/dL in adults 50+ — find out how much to take safely.",
+    "primaryKeyword": "does garlic lower cholesterol after 50",
+    "topicCluster": "natural-remedies-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-18T07:05:52.383Z"
+  },
+  {
+    "title": "Best Cholesterol Meds for Men Over 65 With Muscle Aches",
+    "description": "1 in 4 men over 65 stops statins due to sore muscles — learn which alternatives caused 60% fewer side effects.",
+    "primaryKeyword": "best cholesterol meds for men over 65 with muscle aches",
+    "topicCluster": "medication-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-18T07:05:54.344Z"
+  },
+  {
+    "title": "Cholesterol and Heart Disease After 70: What Your Numbers Hide",
+    "description": "Over 70, normal LDL doesn’t guarantee heart safety — 28% of seniors with ‘normal’ LDL had artery plaque on scan.",
+    "primaryKeyword": "cholesterol and heart disease after 70",
+    "topicCluster": "cholesterol-heart-disease",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-18T07:05:56.313Z"
+  },
+  {
+    "title": "5 Cholesterol-Lowering Soups You Can Make in 15 Minutes",
+    "description": "These 5 brothy soups cut LDL by up to 9% in a 4-week trial — all ready before your afternoon walk.",
+    "primaryKeyword": "cholesterol lowering soups you can make in 15 minutes",
+    "topicCluster": "soup-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-18T07:05:58.368Z"
+  },
+  {
+    "title": "What to Do When Cholesterol Jumps After Holiday Eating",
+    "description": "LDL spikes by 18–22 mg/dL in 62% of adults after 10 days of holiday meals — get your 3-day reset plan.",
+    "primaryKeyword": "what to do when cholesterol jumps after holiday eating",
+    "topicCluster": "diet-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-18T07:06:00.388Z"
+  },
+  {
+    "title": "Why Cholesterol Rises in Winter for Women Over 55",
+    "description": "Women over 55 see LDL climb 11% on average in winter — learn how sunlight, activity, and meals play a role.",
+    "primaryKeyword": "why cholesterol rises in winter for women over 55",
+    "topicCluster": "seasonal-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-18T07:06:02.399Z"
+  },
+  {
+    "title": "Can Apple Cider Vinegar Help Cholesterol After 60?",
+    "description": "In a small 8-week trial, 1 tbsp daily lowered triglycerides by 14% in adults over 60 — here’s how to use it.",
+    "primaryKeyword": "can apple cider vinegar help cholesterol after 60",
+    "topicCluster": "natural-remedies-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-18T07:06:04.415Z"
+  },
+  {
+    "title": "Cholesterol Testing After 65: How Often Is Enough?",
+    "description": "New guidelines say every 2 years is enough for stable seniors — unless you have family history or diabetes.",
+    "primaryKeyword": "how often should seniors check cholesterol after 65",
+    "topicCluster": "testing-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-18T07:06:06.462Z"
   }
 ]
