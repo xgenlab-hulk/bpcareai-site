@@ -1,83 +1,97 @@
 {
-  "date": "2026-04-12",
-  "fetchedAt": "2026-04-19T01:52:20.485Z",
+  "date": "2026-04-16",
+  "fetchedAt": "2026-04-19T01:52:23.366Z",
   "queries": [
     {
-      "query": "can humidity affect blood pressure",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 48
-    },
-    {
-      "query": "does hot weather affect blood pressure",
+      "query": "blood pressure and heat",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
       "position": 83
     },
     {
-      "query": "heat raises blood pressure",
+      "query": "bp rating ai",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 78
+      "position": 2
     },
     {
-      "query": "high blood pressure and heat",
+      "query": "can heat lower blood pressure",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 94
+      "position": 91
     },
     {
-      "query": "high blood pressure and heat sensitivity",
+      "query": "heat high blood pressure",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 95
+      "position": 87
     },
     {
       "query": "high fiber side dishes",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
       "position": 46
     },
     {
-      "query": "high fiber sides",
+      "query": "is hot weather bad for high blood pressure",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 32
+      "position": 81
     },
     {
-      "query": "low blood pressure and heat",
+      "query": "when administering insulin to an older adult with diabetes mellitus (dm) who is frail and very thin, the nurse would lightly grasp a fold of skin and inject the insulin at a -degree angle. record your answer as a whole number.",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 90
+      "position": 7
     }
   ],
   "pages": [
     {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
       "page": "https://bpcareai.com/articles/best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 4,
       "ctr": 0,
-      "position": 33.333333333333336
+      "position": 27
     },
     {
       "page": "https://bpcareai.com/articles/best-supplements-for-blood-sugar-support-after-50",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 9
+      "position": 3
     },
     {
       "page": "https://bpcareai.com/articles/best-warm-heart-healthy-soups-for-seniors-with-high-cholesterol",
       "clicks": 0,
       "impressions": 2,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "page": "https://bpcareai.com/articles/blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70",
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 11.041666666666666
+    },
+    {
+      "page": "https://bpcareai.com/articles/can-gardening-improve-heart-health-after-50",
+      "clicks": 0,
+      "impressions": 1,
       "ctr": 0,
       "position": 11
     },
@@ -86,91 +100,84 @@
       "clicks": 0,
       "impressions": 11,
       "ctr": 0,
-      "position": 50.45454545454545
+      "position": 27.727272727272727
     },
     {
-      "page": "https://bpcareai.com/articles/how-social-isolation-accelerates-vascular-aging-in-adults-70-living-alone-and-why-a-15-minute-daily-voice-call-lowers-pulse-wave-velocity-within-3-weeks",
+      "page": "https://bpcareai.com/articles/how-cold-weather-affects-blood-pressure-medication-effectiveness",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
-      "position": 8
+      "position": 5
     },
     {
       "page": "https://bpcareai.com/articles/natural-ways-to-lower-blood-pressure-this-winter-without-medication",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 7
+      "position": 3
     },
     {
       "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
       "clicks": 0,
-      "impressions": 15,
+      "impressions": 16,
       "ctr": 0,
-      "position": 38.53333333333333
+      "position": 48.6875
     },
     {
       "page": "https://bpcareai.com/articles/understanding-a1c-goals-for-seniors-with-diabetes",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 8,
       "ctr": 0,
-      "position": 10.5
-    },
-    {
-      "page": "https://bpcareai.com/articles/when-to-worry-about-high-readings",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 5
-    },
-    {
-      "page": "https://bpcareai.com/articles/when-to-worry-about-that-post-dinner-food-coma-red-flags-of-early-cognitive-vascular-insufficiency-in-adults-64-with-hypertension-and-snoring",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 5
+      "position": 10.875
     },
     {
       "page": "https://www.bpcareai.com/articles",
       "clicks": 0,
-      "impressions": 41,
+      "impressions": 55,
       "ctr": 0,
-      "position": 8.073170731707318
-    },
-    {
-      "page": "https://www.bpcareai.com/articles/7-unexpected-signs-of-nocturnal-hypoglycemia-in-women-58-73-with-insulin-therapy-and-perimenopausal-sleep-fragmentation",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 14
+      "position": 9.745454545454546
     },
     {
       "page": "https://www.bpcareai.com/articles/can-strength-training-lower-heart-disease-risk-after-60",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
-      "position": 24.5
+      "position": 16
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/can-walking-after-meals-lower-blood-sugar-in-older-adults",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 8.75
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/how-frequent-urination-at-night-could-signal-heart-problems",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 18
     },
     {
       "page": "https://www.bpcareai.com/articles/simple-steps-to-adjust-your-holiday-meal-timing-for-optimal-circadian-glucose-rhythms-in-adults-73-with-advanced-sleep-phase-syndrome",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 20
+      "position": 19
     },
     {
-      "page": "https://www.bpcareai.com/articles/why-your-fasting-blood-sugar-rises-during-the-holidays-and-what-to-do",
+      "page": "https://www.bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 9
+      "position": 11
     }
   ],
   "summary": {
-    "totalQueries": 8,
-    "totalImpressions": 8,
+    "totalQueries": 7,
+    "totalImpressions": 9,
     "totalClicks": 0,
-    "avgPosition": 70.75,
-    "pagesWithImpressions": 15
+    "avgPosition": 50,
+    "pagesWithImpressions": 17
   }
 }

@@ -1,0 +1,30 @@
+{
+  "date": "2026-04-16",
+  "period": "3-day",
+  "impressionsChange": 42.18750000000001,
+  "clicksChange": -100,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "does heat raise or lower blood pressure",
+      "reason": "排名跃升 21.5 位（78.5 → 57.0）",
+      "score": 64.5,
+      "recentImpressions": 1,
+      "baselineImpressions": 2,
+      "recentPosition": 57,
+      "baselinePosition": 78.5
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "bp rating ai",
+      "reason": "排名跃升 16.0 位（18.0 → 2.0）",
+      "score": 48,
+      "recentImpressions": 2,
+      "baselineImpressions": 6,
+      "recentPosition": 2,
+      "baselinePosition": 18
+    }
+  ]
+}
