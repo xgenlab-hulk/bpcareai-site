@@ -1,20 +1,20 @@
 ---
-title: >-
-  How to Walk Safely on Icy Sidewalks After 70
+title: How to Walk Safely on Icy Sidewalks After 70
 slug: walk-icy-sidewalks-after-70
 description: >-
-  How to walk on icy sidewalks after 70: Wear ASTM-rated rubber soles (≥10 traction score) to cut slip risk by 68%.
+  How to walk on icy sidewalks after 70: Wear ASTM-rated rubber soles (≥10
+  traction score) to cut slip risk by 68%.
 date: '2026-04-17'
 updated: '2026-04-17'
-primaryKeyword: >-
-  how to walk on icy sidewalks after 70
+primaryKeyword: how to walk on icy sidewalks after 70
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
-  - >-
-    walk-cold-weather-after-70
-  - >-
-    start-walking-at-75-safely
+  - walk-cold-weather-after-70
+  - start-walking-at-75-safely
+  - walking-minutes-per-day-seniors-over-65
+  - exercises-for-seniors-poor-balance
+  - yoga-for-balance-seniors-over-65
 ---
 
 # How to Walk Safely on Icy Sidewalks After 70

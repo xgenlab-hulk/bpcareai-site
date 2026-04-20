@@ -1,20 +1,21 @@
 ---
-title: >-
-  Best Exercise to Prevent Osteoporosis After 70 — Proven Moves
+title: Best Exercise to Prevent Osteoporosis After 70 — Proven Moves
 slug: best-exercise-osteoporosis-after-70
 description: >-
-  Best exercise to prevent osteoporosis after 70: weight-bearing resistance training boosts spine bone density by up to 1.5% yearly (osteoblast activity).
+  Best exercise to prevent osteoporosis after 70: weight-bearing resistance
+  training boosts spine bone density by up to 1.5% yearly (osteoblast activity).
 date: '2026-04-14'
 updated: '2026-04-14'
-primaryKeyword: >-
-  best exercise to prevent osteoporosis after 70
+primaryKeyword: best exercise to prevent osteoporosis after 70
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
-  - >-
-    strength-exercises-women-over-65
+  - strength-exercises-women-over-65
   - >-
     best-low-impact-resistance-exercises-for-adults-82-with-severe-osteoporosis-and-atrial-fibrillation-on-apixaban
+  - exercises-lower-cholesterol-after-50
+  - exercises-for-seniors-poor-balance
+  - safe-stretching-exercises-stiff-joints-after-65
 ---
 
 # Best Exercise to Prevent Osteoporosis After 70 — Proven Moves

@@ -1,12 +1,12 @@
 # 内链健康分析报告
-**生成时间**: 2026/4/13 04:54:19
+**生成时间**: 2026/4/20 04:54:04
 
 ## 一、总体健康度
 
-- **总文章数**: 1991
-- **符合要求** (3-5个内链): 1991 篇 (100.0%)
+- **总文章数**: 2012
+- **符合要求** (3-5个内链): 2012 篇 (100.0%)
 - **平均内链数**: 5.00
-- **双向链接覆盖率**: 53.0%
+- **双向链接覆盖率**: 52.5%
 
 ### 健康评分: 66/100
 
@@ -16,13 +16,13 @@
 
 | 内链数量 | 文章数 | 占比 | 状态 |
 |---------|--------|------|------|
-| 3 | 1 | 0.1% | ✅ 符合要求 |
-| 4 | 1 | 0.1% | ✅ 符合要求 |
-| 5 | 1989 | 99.9% | ✅ 符合要求 |
+| 3 | 2 | 0.1% | ✅ 符合要求 |
+| 4 | 1 | 0.0% | ✅ 符合要求 |
+| 5 | 2009 | 99.9% | ✅ 符合要求 |
 
 ## 三、孤岛文章分析
 
-⚠️ 发现 **110** 篇孤岛文章（无其他文章链接到它）：
+⚠️ 发现 **123** 篇孤岛文章（无其他文章链接到它）：
 
 - heart-rate-variability-explained
 - heart-disease-in-hispanic-adults-over-50-unique-risk-factors
@@ -34,7 +34,7 @@
 - can-shoveling-snow-trigger-a-heart-event-in-older-adults
 - what-your-blood-pressure-numbers-mean-after-a-stroke-new-targets-and-redefining-normal-for-recovery
 - how-alcohol-free-mocktails-can-lower-blood-pressure-in-women-over-55-during-new-year-s-gatherings
-- ...及其他 100 篇
+- ...及其他 113 篇
 
 ## 四、TopicCluster 连通性
 
@@ -1616,6 +1616,7 @@
 | pharmacology-interactions | 100.0% | ✅ 优秀 |
 | pancreatic-cell-resilience | 100.0% | ✅ 优秀 |
 | cerebrovascular-link | 100.0% | ✅ 优秀 |
+| symptoms-diagnosis | 100.0% | ✅ 优秀 |
 | muscle-health-nutrition | 50.0% | ⚠️ 良好 |
 | hepatic-metabolism-diet | 50.0% | ⚠️ 良好 |
 | beverage-comparison-endothelial-health | 50.0% | ⚠️ 良好 |
@@ -1627,7 +1628,6 @@
 | early-detection-symptoms | 33.3% | ❌ 需改进 |
 | blood-pressure-basics | 30.0% | ❌ 需改进 |
 | diabetes-complications | 20.0% | ❌ 需改进 |
-| lifestyle-interventions | 19.2% | ❌ 需改进 |
 | diabetes-nutrition | 18.1% | ❌ 需改进 |
 | diabetic-diet | 16.7% | ❌ 需改进 |
 | food-labeling-literacy | 16.7% | ❌ 需改进 |
@@ -1636,14 +1636,15 @@
 | medication-adherence-myths | 16.7% | ❌ 需改进 |
 | differential-diagnosis | 16.7% | ❌ 需改进 |
 | exercise-modality-comparison | 15.0% | ❌ 需改进 |
-| diabetes-management | 11.5% | ❌ 需改进 |
-| nutrition-diet-management | 11.4% | ❌ 需改进 |
+| lifestyle-interventions | 12.9% | ❌ 需改进 |
+| hypertension-management | 11.8% | ❌ 需改进 |
 | cardiac-diet | 10.7% | ❌ 需改进 |
+| diabetes-management | 10.7% | ❌ 需改进 |
+| cardiovascular-health | 10.0% | ❌ 需改进 |
+| nutrition-diet-management | 9.1% | ❌ 需改进 |
 | diabetes-lifestyle | 8.3% | ❌ 需改进 |
 | emotional-mental-health | 8.3% | ❌ 需改进 |
-| hypertension-management | 7.1% | ❌ 需改进 |
 | hypertension-lifestyle | 6.3% | ❌ 需改进 |
-| cardiovascular-health | 5.0% | ❌ 需改进 |
 | natural-remedies | 4.2% | ❌ 需改进 |
 | heart-health | 4.0% | ❌ 需改进 |
 | emergency-symptoms | 3.8% | ❌ 需改进 |
@@ -1698,7 +1699,7 @@
 
 ## 五、过度链接文章
 
-⚠️ 发现 **164** 篇文章被链接次数过多（>10次）：
+⚠️ 发现 **168** 篇文章被链接次数过多（>10次）：
 
 - are-sugar-free-treats-actually-safe-for-diabetics-over-65
 - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
@@ -1852,6 +1853,7 @@
 - cgm-accuracy-holiday-travel
 - natural-autonomic-stabilization-holiday-heart
 - 10-silent-signs-your-blood-pressure-is-damaging-your-retina-even-with-controlled-readings-in-adults-63-with-type-2-diabetes
+- neutralize-holiday-sodium-quickly-seniors-ck
 - skipping-breakfast-holiday-hyperglycemia-seniors
 - how-late-night-snacking-during-hanukkah-or-christmas-eve-affects-overnight-glucose-stability-in-women-over-70
 - seniors-living-alone-holiday-party-preparedness
@@ -1864,11 +1866,14 @@
 - stabilize-morning-glucose-without-insulin
 - 7-hidden-medication-interactions-that-raise-blood-pressure-after-age-60-including-common-antidepressants-antihistamines-and-topical-nsaids
 - read-cholesterol-test-after-60
+- does-stress-raise-cholesterol-after-35
+- walking-minutes-per-day-seniors-over-65
+- exercise-at-65-weekly-plan
 
 ## 六、优化建议
 
-2. **消除孤岛文章**: 110 篇文章没有被其他文章链接，建议通过双向链接优化改善
-3. **提升双向链接覆盖率**: 当前为 53.0%，建议目标 >60%
+2. **消除孤岛文章**: 123 篇文章没有被其他文章链接，建议通过双向链接优化改善
+3. **提升双向链接覆盖率**: 当前为 52.5%，建议目标 >60%
 4. **改善Cluster连通性**: 75 个主题集群内部连通性低于50%
 
 ---
