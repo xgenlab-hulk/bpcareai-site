@@ -1,22 +1,19 @@
 ---
-title: >-
-  What Flexibility Exercises Help With Lower Back Pain in Seniors?
+title: What Flexibility Exercises Help With Lower Back Pain in Seniors?
 slug: flexibility-exercises-lower-back-pain-seniors
 description: >-
-  What flexibility exercises help with lower back pain in seniors? Gentle moves like seated cat-cow cut pain by 42% (JAMA, 2022).
+  What flexibility exercises help with lower back pain in seniors? Gentle moves
+  like seated cat-cow cut pain by 42% (JAMA, 2022).
 date: '2026-04-20'
 updated: '2026-04-20'
-primaryKeyword: >-
-  what flexibility exercises help with lower back pain in
+primaryKeyword: what flexibility exercises help with lower back pain in
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
-  - >-
-    safe-stretching-exercises-stiff-joints-after-65
-  - >-
-    exercises-for-seniors-poor-balance
-  - >-
-    chair-exercises-seniors-cant-stand-long
+  - safe-stretching-exercises-stiff-joints-after-65
+  - exercises-for-seniors-poor-balance
+  - chair-exercises-seniors-cant-stand-long
+  - exercises-safe-seniors-arthritis-knees
 ---
 
 # What Flexibility Exercises Help With Lower Back Pain in Seniors?
