@@ -1,0 +1,30 @@
+{
+  "date": "2026-04-18",
+  "period": "3-day",
+  "impressionsChange": -25.630810092961475,
+  "clicksChange": -100,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "low cholesterol soups",
+      "reason": "排名跃升 15.5 位（70.5 → 55.0）",
+      "score": 46.5,
+      "recentImpressions": 1,
+      "baselineImpressions": 2,
+      "recentPosition": 55,
+      "baselinePosition": 70.5
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "bp rating ai",
+      "reason": "排名跃升 14.0 位（16.5 → 2.5）",
+      "score": 42,
+      "recentImpressions": 2,
+      "baselineImpressions": 6,
+      "recentPosition": 2.5,
+      "baselinePosition": 16.5
+    }
+  ]
+}
