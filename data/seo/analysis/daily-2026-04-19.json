@@ -1,0 +1,40 @@
+{
+  "date": "2026-04-19",
+  "period": "3-day",
+  "impressionsChange": -51.07526881720431,
+  "clicksChange": -100,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "low cholesterol soups",
+      "reason": "排名跃升 15.5 位（70.5 → 55.0）",
+      "score": 46.5,
+      "recentImpressions": 1,
+      "baselineImpressions": 2,
+      "recentPosition": 55,
+      "baselinePosition": 70.5
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "bp rating ai",
+      "reason": "排名跃升 13.5 位（16.5 → 3.0）",
+      "score": 40.5,
+      "recentImpressions": 1,
+      "baselineImpressions": 6,
+      "recentPosition": 3,
+      "baselinePosition": 16.5
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "high fiber dinner sides",
+      "reason": "排名跃升 11.0 位（41.0 → 30.0）",
+      "score": 33,
+      "recentImpressions": 1,
+      "baselineImpressions": 3,
+      "recentPosition": 30,
+      "baselinePosition": 41
+    }
+  ]
+}
