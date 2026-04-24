@@ -1,0 +1,30 @@
+{
+  "date": "2026-04-21",
+  "period": "3-day",
+  "impressionsChange": -69.39890710382514,
+  "clicksChange": -100,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "wedge incline memory foam pillow rayon bamboo cover for reading acid reflux rls",
+      "reason": "排名跃升 24.5 位（70.5 → 46.0）",
+      "score": 73.5,
+      "recentImpressions": 1,
+      "baselineImpressions": 12,
+      "recentPosition": 46,
+      "baselinePosition": 70.5
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "high fiber dinner sides",
+      "reason": "排名跃升 11.0 位（41.0 → 30.0）",
+      "score": 33,
+      "recentImpressions": 1,
+      "baselineImpressions": 3,
+      "recentPosition": 30,
+      "baselinePosition": 41
+    }
+  ]
+}
