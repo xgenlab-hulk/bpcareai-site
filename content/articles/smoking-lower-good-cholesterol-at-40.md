@@ -1,22 +1,19 @@
 ---
-title: >-
-  Does Smoking Lower Good Cholesterol at 40? Yes — Here's How Much
+title: Does Smoking Lower Good Cholesterol at 40? Yes — Here's How Much
 slug: smoking-lower-good-cholesterol-at-40
 description: >-
-  Yes, smoking lowers good cholesterol (HDL) at 40 — by up to 9.2 mg/dL. This impairs artery cleanup (reverse cholesterol transport).
+  Yes, smoking lowers good cholesterol (HDL) at 40 — by up to 9.2 mg/dL. This
+  impairs artery cleanup (reverse cholesterol transport).
 date: '2026-04-11'
 updated: '2026-04-11'
-primaryKeyword: >-
-  does smoking lower good cholesterol at 40
+primaryKeyword: does smoking lower good cholesterol at 40
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
-  - >-
-    cholesterol-lowering-soups-seniors
-  - >-
-    foods-lower-cholesterol-naturally-after-50
-  - >-
-    read-cholesterol-numbers-after-50
+  - cholesterol-lowering-soups-seniors
+  - foods-lower-cholesterol-naturally-after-50
+  - read-cholesterol-numbers-after-50
+  - garlic-cholesterol-after-50
 ---
 
 # Does Smoking Lower Good Cholesterol at 40? Yes — Here's How Much
