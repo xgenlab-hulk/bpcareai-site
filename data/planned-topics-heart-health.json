@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "title": "How Quickly Can Diet Lower Cholesterol Levels?",
+    "description": "Most people see LDL drop 10–20% in just 4 weeks with oat beta-glucan, walnuts, and zero trans fats. Discover which foods work fastest—and which don’t.",
+    "primaryKeyword": "how quickly can diet lower cholesterol levels",
+    "topicCluster": "nutrition-diet-management",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-04-25T03:50:43.646Z",
+    "score": 60.95,
+    "scheduledWeek": "2026-W18"
+  },
+  {
+    "title": "Can You Have a Heart Attack With Cholesterol Under 200?",
+    "description": "Yes—30% of heart attacks happen in people with total cholesterol under 200 mg/dL. Discover why LDL pattern and inflammation matter more than total number.",
+    "primaryKeyword": "can you have a heart attack with cholesterol under 200",
+    "topicCluster": "nutrition-diet-management",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-04-25T03:50:43.646Z",
+    "score": 48.95,
+    "scheduledWeek": "2026-W18"
+  },
+  {
+    "title": "What Is a Normal Cholesterol Level for a 35-Year-Old Woman?",
+    "description": "Healthy total cholesterol for women in their 30s is under 190 mg/dL—but HDL and triglycerides matter too. Find out what your numbers really mean.",
+    "primaryKeyword": "what is a normal cholesterol level for a 35 year old woman",
+    "topicCluster": "nutrition-diet-management",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-04-25T03:50:43.646Z",
+    "score": 33.95,
+    "scheduledWeek": "2026-W18"
+  }
+]

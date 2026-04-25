@@ -1,0 +1,217 @@
+{
+  "week": "2026-W18",
+  "generatedAt": "2026-04-25T03:50:43.646Z",
+  "config": {
+    "weeklyTarget": 35,
+    "dailyTarget": 5
+  },
+  "previousWeek": {
+    "remaining": 41,
+    "kept": 0
+  },
+  "newGenerated": 23,
+  "totalWritten": 24,
+  "gscData": {
+    "daysAnalyzed": 7,
+    "totalSearchTerms": 23
+  },
+  "llmAnalysis": {
+    "searchIntentAnalysis": "信息查询为主（占比95%+）：如'does heat raise blood pressure'（3次展示，位置100）、'can heat increase bp'（1次，位置92）等22个query均属典型健康科普型疑问，用户寻求明确因果解释；无比较决策类（如'best BP monitor brands'）或紧急问题类（如'bp 200/120 what to do'）高CTR词。值得注意的是'bp rating ai'（3展示，位置5）和'behavioral nutrition psychology certification'（3展示，位置5）显示专业工具/资质类需求初现，但当前内容未承接。",
+    "ctrAnomalies": "全量query CTR=0%，核心问题为：① 首页（/）虽有4.8% CTR但仅1点击，说明品牌认知弱；② 'articles'页面（337展示，位置8.3）零点击，证实导航页缺乏吸引力与信息分层；③ 关键主题页如'the-hidden-dangers-of-indoor-heating-on-blood-pressure'（60+12展示，位置28.2/9.5）零点击，标题学术化、未匹配用户口语搜索词（如'heat and blood pressure'共7次相关query，平均位置84）；④ 'best-high-fiber-sides...'（10展示，位置52.5）与'high fiber side dishes'（4展示，位置52.5）完全匹配却零点击，证明标题冗长、缺乏紧迫感与人群锚定。",
+    "hiddenOpportunities": "[\"热环境与血压的双向影响（冷热对比）：'how-cold-weather-affects-blood-pressure-medication-effectiveness'有7展示，但'heat'相关query达14个，且'can heat lower blood pressure'（位置91）、'is hot weather bad for high blood pressure'（位置81）等表明用户存在认知矛盾，可做'Heat vs Cold: How Temperature Extremes Flip Your BP Response'专题；\",\"AI健康工具信任缺口：'bp rating ai'（位置5）和'behavioral nutrition psychology certification'（位置5）并列首页高位，暗示中老年用户对AI辅助诊断/行为干预有强兴趣但缺乏可信内容；\",\"节日场景化健康方案：'blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70'（43展示，位置5.7）CTR为0但位置极佳，而'food presents for diabetics'（1展示，位置7）验证需求真实，可扩展为'70+ Diabetic Gift Guide: FDA-Reviewed, No-Sugar, Heart-Safe Kits'；\",\"临床操作类长尾蓝海：'when administering insulin to an older adult...'（2展示，位置7）是典型医护考试/照护实操词，当前无对应内容，属高价值低竞争机会；\",\"纤维/胆固醇饮食的‘家庭接受度’痛点：'high fiber side dishes'（4展示）与'low cholesterol soups'（2展示）均零点击，但用户搜索强调'family dinners'、'everyone will actually eat'，说明现有内容偏理论，缺‘老人爱吃+子女放心’双视角食谱\"]",
+    "topicPriorities": "[{\"priority\":1,\"topic\":\"How Heat *Actually* Affects Blood Pressure in Adults 60+: New Evidence on Vasodilation, Dehydration & Medication Interference\",\"dataBasis\":\"14个heat-related queries (e.g., 'does heat raise blood pressure', 'heat and blood pressure'), total 28 impressions, avg position 77.5 — all unaddressed by current top-ranking page which uses academic title and lacks symptom-action framing.\",\"whyPriority\":\"Highest search volume cluster with zero CTR; matches user language ('raise', 'aff",
+    "articleOptimizations": 5
+  },
+  "perplexityInsights": {
+    "cholesterol": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "What is a normal cholesterol level for a 35-year-old woman?",
+        "Should I start taking statins at 40 if my cholesterol is borderline high?",
+        "Can you have a heart attack with cholesterol under 200?",
+        "What's the difference between total cholesterol and LDL cholesterol?",
+        "Is 180 cholesterol good or bad at age 45?",
+        "How quickly can diet lower cholesterol levels?",
+        "Do I need cholesterol medication if I exercise regularly?",
+        "What cholesterol level requires medication at age 50?",
+        "Can cholesterol be too low and cause health problems?",
+        "Is HDL of 35 dangerous for a 40-year-old man?"
+      ],
+      "competitorCoverage": "Top-ranking articles about cholesterol for adults typically cover the definition of cholesterol types (HDL vs. LDL), healthy target ranges (total cholesterol under 200 mg/dL, LDL under 100 mg/dL), and the cardiovascular risks of elevated levels including heart attack and stroke. To compete, new content must address age-specific thresholds, medication decision-making criteria, and the distinction between lifestyle-only management versus pharmaceutical intervention.",
+      "whyItMatters": "Cholesterol management is increasingly personalized beyond simple target numbers—current guidelines emphasize overall cardiovascular risk assessment including genetics, lifestyle, and emerging markers like lipoprotein(a), making adults 35+ seek more nuanced guidance. Additionally, the prevalence of high cholesterol in middle-aged adults (particularly post-menopausal women and men over 40) drives consistent search volume for practical management strategies and medication safety concerns."
+    },
+    "diabetes": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "Is a fasting blood sugar of 110 dangerous at age 42?",
+        "Can diabetes cause erectile dysfunction in men over 50?",
+        "How does diabetes affect sleep quality after 40?",
+        "What is a normal A1C level for someone 38 with prediabetes?",
+        "Is 160 blood sugar after meals okay for a 45-year-old?",
+        "Can you drink alcohol with type 2 diabetes after 35?",
+        "How often should I check blood sugar if newly diagnosed at 50?",
+        "Does diabetes increase dementia risk in adults over 60?",
+        "What are the best exercises for weight loss with diabetes at 40?",
+        "Is joint pain a sign of diabetes complications after 55?"
+      ],
+      "competitorCoverage": "Top-ranking Google articles on diabetes for adults primarily cover definitions and types of diabetes (Type 1 vs. Type 2), common symptoms like frequent urination and fatigue, risk factors including age over 40, obesity, family history, and lifestyle contributors like diet and inactivity[1][2][5]. They emphasize prevention through diet, exercise, and weight management, testing methods like A1C and fasting glucose, and basic management with medications or insulin, often listing questions to ask doctors about complications and treatments[3][4][7]. To compete, a new article must include updated risk stats for adults 35+, practical lifestyle change examples, and clear differentiations between prediabetes and full diabetes with actionable testing advice.",
+      "whyItMatters": "Diabetes prevalence is rising sharply among adults 35+ due to aging populations and obesity trends, with 34% of those 24-35 expected to develop it by 65, making proactive searches critical[1]. Recent emphases on early intervention amid guideline updates for prediabetes management heighten interest, especially as spring motivates lifestyle changes."
+    },
+    "healthy eating for seniors": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "What is the recommended daily fiber intake for seniors over 70 to prevent constipation?",
+        "How can seniors over 65 increase calcium and vitamin D intake for bone health without dairy?",
+        "What are the best brain-boosting foods for adults 75+ to support cognitive function?",
+        "How much protein does a 35-year-old woman need daily for muscle maintenance as she ages?",
+        "Are ultra-processed foods safe in small amounts for seniors managing diabetes?",
+        "What hydration tips help seniors over 80 avoid dehydration during hot weather?",
+        "How to read nutrition labels for seniors on blood thinners to avoid vitamin K issues?",
+        "What whole grain swaps should 60+ adults use to boost fiber without digestive upset?",
+        "Is fibermaxxing safe for seniors with IBS, and how much fiber to start with?",
+        "What nutrient-dense snacks combine protein and healthy fats for energy in 70+ men?"
+      ],
+      "competitorCoverage": "Top-ranking Google articles on 'healthy eating for seniors' universally emphasize nutrient-dense foods like colorful fruits, vegetables, whole grains, and lean proteins to meet changing needs such as higher protein for muscle mass, calcium/vitamin D for bones, and fiber for digestion.[1][2][4] They stress hydration, avoiding ultra-processed foods high in sugar/sodium/saturated fats, practical meal ideas like sheet-pan dinners or veggie-packed soups, and habits like reading labels and mindful portion control.[3][5][6] To compete, a new article must include senior-specific nutritional shifts (e.g., slower metabolism), easy swaps, sample menus, and 2026 trends like fiber increases or GLP-1 diet tips, while differentiating with unique angles like brain health foods or non-dairy bone support.",
+      "whyItMatters": "In 2026, senior nutrition searches surge due to 'Nutrition Reset' trends, rising grocery costs pushing budget-friendly habits, and GLP-1 medications creating new eating challenges for older adults on weight/diabetes management.[3][5] Recent expert guidelines reinforce timeless basics like fiber, protein, and whole foods amid fad confusion, vital as aging populations face malnutrition risks from slowed metabolism and isolation.[1][2]"
+    },
+    "exercise for seniors": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "What are the best exercises for seniors with COPD or breathing issues after 70?",
+        "How can I safely do yoga for seniors with hip replacements over 65?",
+        "Is swimming good exercise for seniors with neuropathy in feet at 75?",
+        "What core exercises help seniors over 60 with urinary incontinence?",
+        "Best exercises for seniors recovering from hip fracture after 68?",
+        "How much weight training is safe for women over 70 with osteopenia?",
+        "What exercises improve sleep quality for restless seniors over 65?",
+        "Are Peloton or stationary bike classes safe for seniors with AFib after 60?",
+        "What exercises reduce constipation in sedentary seniors over 72?",
+        "Best mobility exercises for seniors with Parkinson's disease at 67?"
+      ],
+      "competitorCoverage": "Top-ranking Google articles on 'exercise for seniors' universally cover CDC/NIA guidelines of 150 minutes moderate aerobic activity weekly, plus 2+ days muscle-strengthening and balance training like walking heel-to-toe.[2][3] They emphasize benefits like fall prevention, chronic disease management, and starting slow with low-impact options such as water aerobics, yoga, or chair exercises, while stressing variety to avoid injury and integration into daily life.[5][3] To compete, a new article must include these evidence-based recommendations, sample weekly plans, and tips for beginners with health concerns, differentiating with unique angles like post-surgery recovery or specific comorbidities not yet covered.",
+      "whyItMatters": "With aging baby boomers (now 62-80) facing rising chronic conditions like sarcopenia and falls, interest in senior exercise surges as CDC guidelines reinforce lifelong activity benefits amid post-pandemic health awareness.[2][3] Seasonal spring motivation and recent 2025 studies on exercise reversing frailty in 65+ drive searches, highlighting preventive care amid healthcare strains."
+    }
+  },
+  "topTopics": [
+    {
+      "title": "Hydration Tips for Seniors Over 80 in Hot Weather",
+      "pk": "hydration tips for seniors over 80 hot weather",
+      "score": 71,
+      "breakdown": {
+        "clusterNeed": 22,
+        "searchDemand": 9,
+        "differentiation": 24,
+        "timeliness": 16
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率34%，大缺口 | 近7天已产出7篇，适度减分 | GSC方向相关\"does hot weather affect blood pressure\"(2次展示)，微弱信号 | 与已有文章高度差异化(重叠25%) | 搜索趋势上升中"
+    },
+    {
+      "title": "How Quickly Can Diet Lower Cholesterol Levels?",
+      "pk": "how quickly can diet lower cholesterol levels",
+      "score": 60.95,
+      "breakdown": {
+        "clusterNeed": 12,
+        "searchDemand": 12,
+        "differentiation": 21,
+        "timeliness": 16
+      },
+      "reasoning": "nutrition-diet-management集群覆盖率75%，中等缺口 | 近7天已产出4篇，适度减分 | GSC精确匹配\"soup to lower cholesterol\"(2次展示)，弱信号 | 与已有文章有差异(重叠40%) | 搜索趋势上升中"
+    },
+    {
+      "title": "Core Exercises That Help With Urinary Incontinence After 60",
+      "pk": "core exercises for seniors with urinary incontinence",
+      "score": 60,
+      "breakdown": {
+        "clusterNeed": 22,
+        "searchDemand": 8,
+        "differentiation": 24,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率34%，大缺口 | 近7天已产出7篇，适度减分 | 来自周度分析推荐 | 与已有文章高度差异化(重叠25%)"
+    },
+    {
+      "title": "Best Exercises for Seniors With COPD After 70",
+      "pk": "exercises for seniors with COPD after 70",
+      "score": 56,
+      "breakdown": {
+        "clusterNeed": 22,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率34%，大缺口 | 近7天已产出7篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Best Exercises for Seniors Recovering From Hip Fracture After 68",
+      "pk": "exercises for seniors recovering from hip fracture after 68",
+      "score": 56,
+      "breakdown": {
+        "clusterNeed": 22,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率34%，大缺口 | 近7天已产出7篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Why Blood Sugar Spikes More in Humid Weather After 60",
+      "pk": "why blood sugar spikes more in humid weather after 60",
+      "score": 54,
+      "breakdown": {
+        "clusterNeed": 22,
+        "searchDemand": 10,
+        "differentiation": 20,
+        "timeliness": 2
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率34%，大缺口 | 近7天已产出7篇，适度减分 | GSC精确匹配\"does hot humid weather affect blood pressure\"(1次展示)，弱信号 | 与已有文章有差异(重叠50%) | 搜索趋势下降"
+    },
+    {
+      "title": "Can You Have a Heart Attack With Cholesterol Under 200?",
+      "pk": "can you have a heart attack with cholesterol under 200",
+      "score": 48.95,
+      "breakdown": {
+        "clusterNeed": 12,
+        "searchDemand": 11,
+        "differentiation": 24,
+        "timeliness": 2
+      },
+      "reasoning": "nutrition-diet-management集群覆盖率75%，中等缺口 | 近7天已产出4篇，适度减分 | GSC方向相关\"how blood pressure and cholesterol affect heart health\"(4次展示)，微弱信号 | 与已有文章高度差异化(重叠20%) | 搜索趋势下降"
+    },
+    {
+      "title": "Blood Sugar Friendly Breakfasts You Can Make in 5 Minutes",
+      "pk": "blood sugar friendly breakfasts 5 minutes",
+      "score": 48.08,
+      "breakdown": {
+        "clusterNeed": 12.1,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "diabetes-management集群覆盖率75%，中等缺口 | 近7天已产出3篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    },
+    {
+      "title": "Best BP Monitor for Arthritic Hands After 70",
+      "pk": "best bp monitor for arthritic hands after 70",
+      "score": 47.5,
+      "breakdown": {
+        "clusterNeed": 13.5,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "hypertension-management集群覆盖率68%，中等缺口 | 近7天已产出3篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Are Ultra-Processed Foods Safe in Small Amounts for Seniors with Diabetes?",
+      "pk": "ultra processed foods safe for seniors diabetes",
+      "score": 46.08,
+      "breakdown": {
+        "clusterNeed": 12.1,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "diabetes-management集群覆盖率75%，中等缺口 | 近7天已产出3篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    }
+  ]
+}

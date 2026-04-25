@@ -1,58 +1,56 @@
 [
   {
-    "title": "Best Cholesterol Meds for Men Over 65 With Muscle Aches",
-    "description": "1 in 4 men over 65 stops statins due to sore muscles — learn which alternatives caused 60% fewer side effects.",
-    "primaryKeyword": "best cholesterol meds for men over 65 with muscle aches",
-    "topicCluster": "medication-cholesterol",
+    "title": "How Quickly Can Diet Lower Cholesterol Levels?",
+    "description": "Most people see LDL drop 10–20% in just 4 weeks with oat beta-glucan, walnuts, and zero trans fats. Discover which foods work fastest—and which don’t.",
+    "primaryKeyword": "how quickly can diet lower cholesterol levels",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "cholesterol",
-    "createdAt": "2026-04-18T07:05:54.344Z"
+    "createdAt": "2026-04-25T03:50:43.645Z",
+    "score": 60.95,
+    "scheduledWeek": "2026-W18",
+    "perplexityQuestions": [
+      "What is a normal cholesterol level for a 35-year-old woman?",
+      "Should I start taking statins at 40 if my cholesterol is borderline high?",
+      "Can you have a heart attack with cholesterol under 200?",
+      "What's the difference between total cholesterol and LDL cholesterol?",
+      "Is 180 cholesterol good or bad at age 45?"
+    ],
+    "competitorCoverage": "Top-ranking articles about cholesterol for adults typically cover the definition of cholesterol types (HDL vs. LDL), healthy target ranges (total cholesterol under 200 mg/dL, LDL under 100 mg/dL), and the cardiovascular risks of elevated levels including heart attack and stroke. To compete, new content must address age-specific thresholds, medication decision-making criteria, and the distinction between lifestyle-only management versus pharmaceutical intervention."
   },
   {
-    "title": "Cholesterol and Heart Disease After 70: What Your Numbers Hide",
-    "description": "Over 70, normal LDL doesn’t guarantee heart safety — 28% of seniors with ‘normal’ LDL had artery plaque on scan.",
-    "primaryKeyword": "cholesterol and heart disease after 70",
-    "topicCluster": "cholesterol-heart-disease",
+    "title": "Can You Have a Heart Attack With Cholesterol Under 200?",
+    "description": "Yes—30% of heart attacks happen in people with total cholesterol under 200 mg/dL. Discover why LDL pattern and inflammation matter more than total number.",
+    "primaryKeyword": "can you have a heart attack with cholesterol under 200",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "cholesterol",
-    "createdAt": "2026-04-18T07:05:56.313Z"
+    "createdAt": "2026-04-25T03:50:43.645Z",
+    "score": 48.95,
+    "scheduledWeek": "2026-W18",
+    "perplexityQuestions": [
+      "What is a normal cholesterol level for a 35-year-old woman?",
+      "Should I start taking statins at 40 if my cholesterol is borderline high?",
+      "Can you have a heart attack with cholesterol under 200?",
+      "What's the difference between total cholesterol and LDL cholesterol?",
+      "Is 180 cholesterol good or bad at age 45?"
+    ],
+    "competitorCoverage": "Top-ranking articles about cholesterol for adults typically cover the definition of cholesterol types (HDL vs. LDL), healthy target ranges (total cholesterol under 200 mg/dL, LDL under 100 mg/dL), and the cardiovascular risks of elevated levels including heart attack and stroke. To compete, new content must address age-specific thresholds, medication decision-making criteria, and the distinction between lifestyle-only management versus pharmaceutical intervention."
   },
   {
-    "title": "5 Cholesterol-Lowering Soups You Can Make in 15 Minutes",
-    "description": "These 5 brothy soups cut LDL by up to 9% in a 4-week trial — all ready before your afternoon walk.",
-    "primaryKeyword": "cholesterol lowering soups you can make in 15 minutes",
-    "topicCluster": "soup-cholesterol",
+    "title": "What Is a Normal Cholesterol Level for a 35-Year-Old Woman?",
+    "description": "Healthy total cholesterol for women in their 30s is under 190 mg/dL—but HDL and triglycerides matter too. Find out what your numbers really mean.",
+    "primaryKeyword": "what is a normal cholesterol level for a 35 year old woman",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "cholesterol",
-    "createdAt": "2026-04-18T07:05:58.368Z"
-  },
-  {
-    "title": "What to Do When Cholesterol Jumps After Holiday Eating",
-    "description": "LDL spikes by 18–22 mg/dL in 62% of adults after 10 days of holiday meals — get your 3-day reset plan.",
-    "primaryKeyword": "what to do when cholesterol jumps after holiday eating",
-    "topicCluster": "diet-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-04-18T07:06:00.388Z"
-  },
-  {
-    "title": "Why Cholesterol Rises in Winter for Women Over 55",
-    "description": "Women over 55 see LDL climb 11% on average in winter — learn how sunlight, activity, and meals play a role.",
-    "primaryKeyword": "why cholesterol rises in winter for women over 55",
-    "topicCluster": "seasonal-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-04-18T07:06:02.399Z"
-  },
-  {
-    "title": "Can Apple Cider Vinegar Help Cholesterol After 60?",
-    "description": "In a small 8-week trial, 1 tbsp daily lowered triglycerides by 14% in adults over 60 — here’s how to use it.",
-    "primaryKeyword": "can apple cider vinegar help cholesterol after 60",
-    "topicCluster": "natural-remedies-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-04-18T07:06:04.415Z"
-  },
-  {
-    "title": "Cholesterol Testing After 65: How Often Is Enough?",
-    "description": "New guidelines say every 2 years is enough for stable seniors — unless you have family history or diabetes.",
-    "primaryKeyword": "how often should seniors check cholesterol after 65",
-    "topicCluster": "testing-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-04-18T07:06:06.462Z"
+    "createdAt": "2026-04-25T03:50:43.645Z",
+    "score": 33.95,
+    "scheduledWeek": "2026-W18",
+    "perplexityQuestions": [
+      "What is a normal cholesterol level for a 35-year-old woman?",
+      "Should I start taking statins at 40 if my cholesterol is borderline high?",
+      "Can you have a heart attack with cholesterol under 200?",
+      "What's the difference between total cholesterol and LDL cholesterol?",
+      "Is 180 cholesterol good or bad at age 45?"
+    ],
+    "competitorCoverage": "Top-ranking articles about cholesterol for adults typically cover the definition of cholesterol types (HDL vs. LDL), healthy target ranges (total cholesterol under 200 mg/dL, LDL under 100 mg/dL), and the cardiovascular risks of elevated levels including heart attack and stroke. To compete, new content must address age-specific thresholds, medication decision-making criteria, and the distinction between lifestyle-only management versus pharmaceutical intervention."
   }
 ]
