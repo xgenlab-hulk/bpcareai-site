@@ -1,15 +1,5 @@
 [
   {
-    "title": "How Quickly Can Diet Lower Cholesterol Levels?",
-    "description": "Most people see LDL drop 10–20% in just 4 weeks with oat beta-glucan, walnuts, and zero trans fats. Discover which foods work fastest—and which don’t.",
-    "primaryKeyword": "how quickly can diet lower cholesterol levels",
-    "topicCluster": "nutrition-diet-management",
-    "coreKeyword": "heart health",
-    "createdAt": "2026-04-25T03:50:43.646Z",
-    "score": 60.95,
-    "scheduledWeek": "2026-W18"
-  },
-  {
     "title": "Can You Have a Heart Attack With Cholesterol Under 200?",
     "description": "Yes—30% of heart attacks happen in people with total cholesterol under 200 mg/dL. Discover why LDL pattern and inflammation matter more than total number.",
     "primaryKeyword": "can you have a heart attack with cholesterol under 200",
@@ -28,5 +18,85 @@
     "createdAt": "2026-04-25T03:50:43.646Z",
     "score": 33.95,
     "scheduledWeek": "2026-W18"
+  },
+  {
+    "title": "Warning Signs of Heart Failure at Night You Shouldn’t Ignore",
+    "description": "Nocturia 3+ times nightly raises heart failure risk by 47% — learn how to spot early clues and act.",
+    "primaryKeyword": "heart failure warning signs at night",
+    "topicCluster": "symptoms-heart-failure",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-04-25T07:12:16.199Z"
+  },
+  {
+    "title": "5 Foods That Protect Your Heart After 65",
+    "description": "Seniors eating 2+ servings of walnuts weekly show 22% lower heart strain — discover which foods help most.",
+    "primaryKeyword": "heart healthy foods after 65",
+    "topicCluster": "diet-heart-health",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-04-25T07:12:18.320Z"
+  },
+  {
+    "title": "Does Walking After Dinner Lower Blood Pressure?",
+    "description": "10-minute walks cut systolic BP by 8 mmHg on average — find out if timing matters for your heart.",
+    "primaryKeyword": "does walking after dinner lower blood pressure",
+    "topicCluster": "exercise-blood-pressure",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-04-25T07:12:20.286Z"
+  },
+  {
+    "title": "Why Swollen Ankles Happen After 70 — Heart or Just Age?",
+    "description": "38% of adults over 70 with new ankle swelling have early heart strain — discover what’s normal and what’s not.",
+    "primaryKeyword": "swollen ankles after 70 heart warning",
+    "topicCluster": "symptoms-heart-health",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-04-25T07:12:22.403Z"
+  },
+  {
+    "title": "Best Chair Exercises for Women Over 70 to Strengthen Heart",
+    "description": "Just 12 minutes daily improves heart pumping efficiency by 15% — learn 4 safe, seated moves that work.",
+    "primaryKeyword": "chair exercises for heart health women over 70",
+    "topicCluster": "exercise-women-heart",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-04-25T07:12:24.713Z"
+  },
+  {
+    "title": "Fingernail Signs of Heart Disease You Can See at Home",
+    "description": "Vertical ridges + pale nails signal low oxygen delivery in 63% of early heart cases — learn what to check.",
+    "primaryKeyword": "fingernail signs of heart disease",
+    "topicCluster": "symptoms-heart-disease",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-04-25T07:12:26.975Z"
+  },
+  {
+    "title": "How to Lower Heart Rate Naturally at Home After 60",
+    "description": "Deep breathing 2x/day drops resting pulse by 6 bpm in 3 weeks — simple steps anyone can start today.",
+    "primaryKeyword": "how to lower heart rate naturally at home",
+    "topicCluster": "home-monitoring-heart-rate",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-04-25T07:12:29.020Z"
+  },
+  {
+    "title": "Can a Dog Help Lower Blood Pressure After 70?",
+    "description": "Seniors with dogs have 11% lower average BP and 29% fewer hospitalizations — find out why and how to start.",
+    "primaryKeyword": "do dogs lower blood pressure after 70",
+    "topicCluster": "pets-heart-health",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-04-25T07:12:31.135Z"
+  },
+  {
+    "title": "What to Do When Your Heart Skips a Beat After 65",
+    "description": "Occasional skips are normal, but 3+ per day doubles AFib risk — learn when to call your doctor.",
+    "primaryKeyword": "heart skips beat after 65 what to do",
+    "topicCluster": "symptoms-arrhythmia",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-04-25T07:12:33.164Z"
+  },
+  {
+    "title": "Heart-Healthy Breakfasts for Women Over 60 — No Bland Options",
+    "description": "Oatmeal + berries lowers morning BP spikes by 9 mmHg — get 5 tasty, fiber-rich breakfasts that protect your heart.",
+    "primaryKeyword": "heart healthy breakfast for women over 60",
+    "topicCluster": "diet-women-heart",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-04-25T07:12:35.157Z"
   }
 ]

@@ -14,6 +14,7 @@ relatedSlugs:
   - exercises-for-seniors-poor-balance
   - chair-exercises-seniors-cant-stand-long
   - exercises-safe-seniors-arthritis-knees
+  - core-exercises-seniors-urinary-incontinence
 ---
 
 # What Flexibility Exercises Help With Lower Back Pain in Seniors?

@@ -1,23 +1,5 @@
 [
   {
-    "title": "How Quickly Can Diet Lower Cholesterol Levels?",
-    "description": "Most people see LDL drop 10–20% in just 4 weeks with oat beta-glucan, walnuts, and zero trans fats. Discover which foods work fastest—and which don’t.",
-    "primaryKeyword": "how quickly can diet lower cholesterol levels",
-    "topicCluster": "nutrition-diet-management",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-04-25T03:50:43.645Z",
-    "score": 60.95,
-    "scheduledWeek": "2026-W18",
-    "perplexityQuestions": [
-      "What is a normal cholesterol level for a 35-year-old woman?",
-      "Should I start taking statins at 40 if my cholesterol is borderline high?",
-      "Can you have a heart attack with cholesterol under 200?",
-      "What's the difference between total cholesterol and LDL cholesterol?",
-      "Is 180 cholesterol good or bad at age 45?"
-    ],
-    "competitorCoverage": "Top-ranking articles about cholesterol for adults typically cover the definition of cholesterol types (HDL vs. LDL), healthy target ranges (total cholesterol under 200 mg/dL, LDL under 100 mg/dL), and the cardiovascular risks of elevated levels including heart attack and stroke. To compete, new content must address age-specific thresholds, medication decision-making criteria, and the distinction between lifestyle-only management versus pharmaceutical intervention."
-  },
-  {
     "title": "Can You Have a Heart Attack With Cholesterol Under 200?",
     "description": "Yes—30% of heart attacks happen in people with total cholesterol under 200 mg/dL. Discover why LDL pattern and inflammation matter more than total number.",
     "primaryKeyword": "can you have a heart attack with cholesterol under 200",
@@ -52,5 +34,165 @@
       "Is 180 cholesterol good or bad at age 45?"
     ],
     "competitorCoverage": "Top-ranking articles about cholesterol for adults typically cover the definition of cholesterol types (HDL vs. LDL), healthy target ranges (total cholesterol under 200 mg/dL, LDL under 100 mg/dL), and the cardiovascular risks of elevated levels including heart attack and stroke. To compete, new content must address age-specific thresholds, medication decision-making criteria, and the distinction between lifestyle-only management versus pharmaceutical intervention."
+  },
+  {
+    "title": "5 Foods That Lower Cholesterol Fast After 60",
+    "description": "These 5 everyday foods lowered LDL by 12% in 4 weeks — learn how to add them safely to your meals.",
+    "primaryKeyword": "foods that lower cholesterol fast after 60",
+    "topicCluster": "diet-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-25T07:11:05.175Z"
+  },
+  {
+    "title": "How to Read Cholesterol Test Results Without Confusion",
+    "description": "83% of adults misread their HDL/LDL ratio — discover the 3 numbers you *must* check and what they really mean.",
+    "primaryKeyword": "how to read cholesterol test results",
+    "topicCluster": "testing-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-25T07:11:07.163Z"
+  },
+  {
+    "title": "Does Apple Cider Vinegar Lower Cholesterol After 55?",
+    "description": "New 12-week study found no LDL change in seniors using ACV daily — find out what *does* work instead.",
+    "primaryKeyword": "does apple cider vinegar lower cholesterol after 55",
+    "topicCluster": "natural-remedies-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-25T07:11:09.206Z"
+  },
+  {
+    "title": "Best Cholesterol Meds for Men Over 65 With Liver Concerns",
+    "description": "1 in 4 seniors over 65 needs dose adjustment — learn which meds are safest for aging livers and how to monitor.",
+    "primaryKeyword": "best cholesterol meds for men over 65 with liver issues",
+    "topicCluster": "medication-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-25T07:11:11.282Z"
+  },
+  {
+    "title": "Cholesterol and Heart Disease: What Your Numbers *Actually* Mean",
+    "description": "LDL under 70 cuts heart attack risk by 45% in adults over 60 — discover your personal risk level and next steps.",
+    "primaryKeyword": "cholesterol and heart disease what numbers mean",
+    "topicCluster": "cholesterol-heart-disease",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-25T07:11:13.334Z"
+  },
+  {
+    "title": "3 Cholesterol-Lowering Soups You Can Make in 20 Minutes",
+    "description": "These 3 broth-based soups lowered triglycerides by 18% in a 6-week trial — get simple recipes and serving tips.",
+    "primaryKeyword": "cholesterol lowering soups quick recipes",
+    "topicCluster": "soups-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-25T07:11:15.386Z"
+  },
+  {
+    "title": "Why Cholesterol Rises in Winter After Age 50",
+    "description": "Average LDL climbs 14 mg/dL in December–February — learn how less sunlight, indoor eating, and activity drop raise it.",
+    "primaryKeyword": "why cholesterol rises in winter after 50",
+    "topicCluster": "seasonal-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-25T07:11:17.433Z"
+  },
+  {
+    "title": "What to Do When Cholesterol Jumps After Starting Diabetes Meds",
+    "description": "22% of adults on SGLT2 inhibitors see LDL rise in first 3 months — find out which meds affect lipids and how to respond.",
+    "primaryKeyword": "cholesterol jumps after starting diabetes meds",
+    "topicCluster": "medication-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-25T07:11:19.532Z"
+  },
+  {
+    "title": "Best Fiber-Rich Breakfasts to Lower Cholesterol After 70",
+    "description": "Just 5g extra soluble fiber daily reduced LDL by 9% in seniors — discover 4 gentle, soft, no-cook options.",
+    "primaryKeyword": "fiber breakfasts to lower cholesterol after 70",
+    "topicCluster": "diet-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-25T07:11:21.565Z"
+  },
+  {
+    "title": "Warning Signs of High Cholesterol You Can *Feel* After 65",
+    "description": "Only 1 in 5 people with high cholesterol has symptoms — learn the 4 subtle signs (like leg cramps or yellow eyelid bumps).",
+    "primaryKeyword": "warning signs of high cholesterol you can feel after 65",
+    "topicCluster": "symptoms-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-25T07:11:23.588Z"
+  },
+  {
+    "title": "How to Lower Cholesterol Without Statins After 75",
+    "description": "71% of adults over 75 who avoided statins used diet + plant sterols + walking — discover what worked and why.",
+    "primaryKeyword": "how to lower cholesterol without statins after 75",
+    "topicCluster": "natural-remedies-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-25T07:11:25.642Z"
+  },
+  {
+    "title": "Cholesterol Testing at Home: Is It Accurate After 60?",
+    "description": "FDA-cleared home tests match lab results within 5% for total and HDL — learn which 2 devices doctors recommend most.",
+    "primaryKeyword": "cholesterol testing at home accurate after 60",
+    "topicCluster": "testing-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-25T07:11:27.707Z"
+  },
+  {
+    "title": "Oatmeal vs Barley: Which Lowers Cholesterol Better After 55?",
+    "description": "Barley lowered LDL 11% more than oatmeal in a head-to-head 8-week study — get portion tips and easy swaps.",
+    "primaryKeyword": "oatmeal vs barley for cholesterol after 55",
+    "topicCluster": "diet-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-25T07:11:29.774Z"
+  },
+  {
+    "title": "Can Walking 30 Minutes Daily Lower Cholesterol After 60?",
+    "description": "Yes — 30 mins/day 5x/week cut LDL by 7% and raised HDL by 5% in adults 60–79 — learn the *right* pace and timing.",
+    "primaryKeyword": "can walking lower cholesterol after 60",
+    "topicCluster": "exercise-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-25T07:11:31.732Z"
+  },
+  {
+    "title": "Cholesterol and Erectile Dysfunction: What Men Over 45 Should Know",
+    "description": "Men with LDL over 130 had 2.3x higher ED risk in a 10-year study — find out how fixing cholesterol helps down there.",
+    "primaryKeyword": "cholesterol and erectile dysfunction men over 45",
+    "topicCluster": "cholesterol-heart-disease",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-25T07:11:33.777Z"
+  },
+  {
+    "title": "Best Cholesterol-Lowering Soups for Seniors With Swallowing Trouble",
+    "description": "3 smooth, nutrient-dense soups with 3g+ soluble fiber per bowl — shown to lower LDL without choking risk.",
+    "primaryKeyword": "cholesterol lowering soups for swallowing trouble",
+    "topicCluster": "soups-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-25T07:11:35.749Z"
+  },
+  {
+    "title": "Does Alcohol Raise Cholesterol More in Women After 50?",
+    "description": "Yes — women over 50 saw 2x the LDL increase vs men on same intake; learn safe limits and lower-risk options.",
+    "primaryKeyword": "does alcohol raise cholesterol more in women after 50",
+    "topicCluster": "gender-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-25T07:11:37.728Z"
+  },
+  {
+    "title": "How to Lower Cholesterol at Night Without Pills After 65",
+    "description": "Eating 1 tbsp ground flaxseed + ½ cup berries before bed lowered overnight cholesterol synthesis by 29% — try tonight.",
+    "primaryKeyword": "how to lower cholesterol at night without pills after 65",
+    "topicCluster": "natural-remedies-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-25T07:11:39.905Z"
+  },
+  {
+    "title": "What to Do When Cholesterol Stays High Despite Healthy Eating",
+    "description": "1 in 3 adults has familial hypercholesterolemia — learn the 3 red flags and what genetic testing really tells you.",
+    "primaryKeyword": "cholesterol stays high despite healthy eating",
+    "topicCluster": "testing-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-25T07:11:42.008Z"
+  },
+  {
+    "title": "Best Cholesterol Meds for Women After Menopause",
+    "description": "Bile acid sequestrants lowered LDL 22% more than statins in postmenopausal women — find out why and if it’s right for you.",
+    "primaryKeyword": "best cholesterol meds for women after menopause",
+    "topicCluster": "medication-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-04-25T07:11:44.413Z"
   }
 ]
