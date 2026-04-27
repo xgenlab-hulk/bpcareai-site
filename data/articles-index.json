@@ -1,5 +1,56 @@
 [
   {
+    "slug": "ultra-processed-foods-seniors-diabetes",
+    "title": "Are Ultra-Processed Foods Safe for Seniors with Diabetes?",
+    "description": "No — even small amounts raise A1C by 0.3% (Lancet, 2023), worsening blood sugar control (glucose regulation) and heart health. Learn safer swaps now.",
+    "date": "2026-04-27",
+    "updated": "2026-04-27",
+    "primaryKeyword": "are ultra processed foods safe for seniors with diabetes",
+    "topicCluster": "diabetes-management",
+    "image": "",
+    "relatedSlugs": [
+      "are-sugar-free-treats-actually-safe-for-diabetics-over-65",
+      "sweet-potatoes-glucose-variability-seniors",
+      "the-truth-about-artificial-sweeteners-and-insulin-response-in-seniors",
+      "how-to-navigate-a-potluck-without-spiking-your-a1c-blood-sugar-smart-strategies-for-seniors-with-type-2-diabetes",
+      "blood-sugar-friendly-foods-seniors"
+    ]
+  },
+  {
+    "slug": "normal-cholesterol-level-35-year-old-woman",
+    "title": "What Is a Normal Cholesterol Level for a 35-Year-Old Woman?",
+    "description": "What is a normal cholesterol level for a 35 year old woman? LDL <100 mg/dL is optimal; ≥130 mg/dL raises heart disease risk 2.4×.",
+    "date": "2026-04-27",
+    "updated": "2026-04-27",
+    "primaryKeyword": "what is a normal cholesterol level for a 35 year old woman",
+    "topicCluster": "nutrition-diet-management",
+    "image": "",
+    "relatedSlugs": [
+      "ldl-target-55-year-old-woman",
+      "read-cholesterol-numbers-after-50",
+      "is-150-ldl-okay-at-age-55",
+      "best-cholesterol-meds-women-menopause",
+      "read-cholesterol-test-after-60"
+    ]
+  },
+  {
+    "slug": "exercises-seniors-hip-fracture-recovery",
+    "title": "Best Exercises for Seniors Recovering From Hip Fracture After 68",
+    "description": "Exercises for seniors recovering from hip fracture after 68: 84% regain walking ability in 12 weeks (ACSM, 2023). Start safe, supervised moves today.",
+    "date": "2026-04-27",
+    "updated": "2026-04-27",
+    "primaryKeyword": "exercises for seniors recovering from hip fracture after 68",
+    "topicCluster": "lifestyle-interventions",
+    "image": "",
+    "relatedSlugs": [
+      "exercises-safe-seniors-arthritis-knees",
+      "exercises-seniors-copd-after-70",
+      "exercises-for-seniors-poor-balance",
+      "chair-exercises-seniors-cant-stand-long",
+      "core-exercises-seniors-urinary-incontinence"
+    ]
+  },
+  {
     "slug": "heart-attack-cholesterol-under-200",
     "title": "Can You Have a Heart Attack With Cholesterol Under 200?",
     "description": "Yes — 45% of first-time heart attacks happen with cholesterol under 200 mg/dL (inflammation, not just cholesterol, drives risk). Learn your real risks now.",
@@ -80,7 +131,8 @@
       "exercises-for-seniors-poor-balance",
       "exercises-safe-seniors-arthritis-knees",
       "flexibility-exercises-lower-back-pain-seniors",
-      "chair-exercises-seniors-cant-stand-long"
+      "chair-exercises-seniors-cant-stand-long",
+      "exercises-seniors-hip-fracture-recovery"
     ]
   },
   {

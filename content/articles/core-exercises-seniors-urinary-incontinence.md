@@ -1,24 +1,20 @@
 ---
-title: >-
-  Core Exercises for Seniors With Urinary Incontinence
+title: Core Exercises for Seniors With Urinary Incontinence
 slug: core-exercises-seniors-urinary-incontinence
 description: >-
-  Core exercises for seniors with urinary incontinence reduce leakage by up to 70% in 12 weeks—retraining pelvic floor–core synergy (not just 'abs').
+  Core exercises for seniors with urinary incontinence reduce leakage by up to
+  70% in 12 weeks—retraining pelvic floor–core synergy (not just 'abs').
 date: '2026-04-25'
 updated: '2026-04-25'
-primaryKeyword: >-
-  core exercises for seniors with urinary incontinence
+primaryKeyword: core exercises for seniors with urinary incontinence
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
-  - >-
-    exercises-for-seniors-poor-balance
-  - >-
-    exercises-safe-seniors-arthritis-knees
-  - >-
-    flexibility-exercises-lower-back-pain-seniors
-  - >-
-    chair-exercises-seniors-cant-stand-long
+  - exercises-for-seniors-poor-balance
+  - exercises-safe-seniors-arthritis-knees
+  - flexibility-exercises-lower-back-pain-seniors
+  - chair-exercises-seniors-cant-stand-long
+  - exercises-seniors-hip-fracture-recovery
 ---
 
 # Core Exercises for Seniors With Urinary Incontinence
