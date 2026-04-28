@@ -1,0 +1,197 @@
+{
+  "date": "2026-04-25",
+  "fetchedAt": "2026-04-28T02:04:55.276Z",
+  "queries": [
+    {
+      "query": "\"cac 100\" lotion",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8.5
+    },
+    {
+      "query": "bp rating ai",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6.5
+    },
+    {
+      "query": "can being hot raise blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 90
+    },
+    {
+      "query": "does being hot raise blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 88
+    },
+    {
+      "query": "does heat lower blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 99
+    },
+    {
+      "query": "does humidity affect blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 50
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/best-walking-surfaces-diabetic-foot-ulcers",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 9.666666666666666
+    },
+    {
+      "page": "https://bpcareai.com/articles/best-warm-heart-healthy-soups-for-seniors-with-high-cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://bpcareai.com/articles/blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://bpcareai.com/articles/exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://bpcareai.com/articles/heart-disease-cataract-surgery-seniors",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 9.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/home-bp-cuff-calibration-in-high-humidity",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 4.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-chronic-inflammation-worsens-type-2-diabetes-after-50",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 19
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-cold-weather-affects-blood-pressure-medication-effectiveness",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-social-isolation-impacts-heart-disease-risk-in-older-adults",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 6.142857142857143
+    },
+    {
+      "page": "https://bpcareai.com/articles/resistance-training-after-aortic-valve-replacement",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 7.2
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 37.1
+    },
+    {
+      "page": "https://bpcareai.com/articles/understanding-a1c-goals-for-seniors-with-diabetes",
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 10.208333333333334
+    },
+    {
+      "page": "https://bpcareai.com/articles/warning-signs-of-diabetic-myonecrosis-in-adults-58-with-long-term-poor-control-and-unilateral-thigh-pain-often-misdiagnosed-as-sciatica-or-dvt",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "page": "https://www.bpcareai.com/articles",
+      "clicks": 0,
+      "impressions": 85,
+      "ctr": 0,
+      "position": 7.576470588235294
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/7-hidden-sleep-position-risks-that-worsen-pulmonary-congestion-in-adults-73-with-hfpef-and-mild-obstructive-sleep-apnea",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/7-unexpected-signs-of-nocturnal-hypoglycemia-in-women-58-73-with-insulin-therapy-and-perimenopausal-sleep-fragmentation",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/a-vs-b-morning-walk-before-breakfast-vs-30-minutes-after-dinner-impact-on-24-hour-glucose-variability-in-adults-60-76-with-postprandial-hyperglycemia",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 4.666666666666666
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/why-arm-pain-shouldn-t-be-ignored-in-women-over-50",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    }
+  ],
+  "summary": {
+    "totalQueries": 6,
+    "totalImpressions": 8,
+    "totalClicks": 0,
+    "avgPosition": 44.625,
+    "pagesWithImpressions": 20
+  }
+}

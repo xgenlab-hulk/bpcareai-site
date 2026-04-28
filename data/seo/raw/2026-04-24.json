@@ -1,13 +1,225 @@
 {
   "date": "2026-04-24",
-  "fetchedAt": "2026-04-27T01:58:14.186Z",
-  "queries": [],
-  "pages": [],
+  "fetchedAt": "2026-04-28T02:04:54.820Z",
+  "queries": [
+    {
+      "query": "\"cac 100\" lotion",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "blood pressure in hot weather",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 87
+    },
+    {
+      "query": "food presents for diabetics",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "high fiber side",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 29
+    },
+    {
+      "query": "high fiber side dishes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 47
+    },
+    {
+      "query": "high fiber sides",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 40
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/7-unexpected-signs-of-nocturnal-hypoglycemia-in-women-58-73-with-insulin-therapy-and-perimenopausal-sleep-fragmentation",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 18
+    },
+    {
+      "page": "https://bpcareai.com/articles/ambulatory-blood-pressure-variability-interpretation",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://bpcareai.com/articles/best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 27.2
+    },
+    {
+      "page": "https://bpcareai.com/articles/blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 7.25
+    },
+    {
+      "page": "https://bpcareai.com/articles/blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://bpcareai.com/articles/can-gardening-improve-heart-health-after-50",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/can-strength-training-lower-heart-disease-risk-after-60",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "page": "https://bpcareai.com/articles/does-layering-clothes-help-regulate-blood-pressure-in-cold-climates",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "page": "https://bpcareai.com/articles/exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 13.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/heart-disease-cataract-surgery-seniors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-cold-weather-affects-blood-pressure-medication-effectiveness",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-holiday-travel-disrupts-circadian-rhythm-and-triggers-atrial-fibrillation-in-adults-68-with-diagnosed-af-and-time-zone-shifted-medication-schedules",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-pets-support-heart-health-in-older-adults",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-social-isolation-impacts-heart-disease-risk-in-older-adults",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "page": "https://bpcareai.com/articles/resistance-training-after-aortic-valve-replacement",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 31
+    },
+    {
+      "page": "https://bpcareai.com/articles/understanding-a1c-goals-for-seniors-with-diabetes",
+      "clicks": 0,
+      "impressions": 33,
+      "ctr": 0,
+      "position": 9.090909090909092
+    },
+    {
+      "page": "https://bpcareai.com/articles/when-to-worry-about-high-readings",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "page": "https://www.bpcareai.com/articles",
+      "clicks": 0,
+      "impressions": 80,
+      "ctr": 0,
+      "position": 10.8375
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/7-unexpected-signs-of-nocturnal-hypoglycemia-in-women-58-73-with-insulin-therapy-and-perimenopausal-sleep-fragmentation",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 12.666666666666666
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/a-vs-b-morning-walk-before-breakfast-vs-30-minutes-after-dinner-impact-on-24-hour-glucose-variability-in-adults-60-76-with-postprandial-hyperglycemia",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 8.666666666666668
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/what-are-the-first-signs-of-holiday-heart-syndrome-in-women",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 5
+    }
+  ],
   "summary": {
-    "totalQueries": 0,
-    "totalImpressions": 0,
+    "totalQueries": 6,
+    "totalImpressions": 8,
     "totalClicks": 0,
-    "avgPosition": 0,
-    "pagesWithImpressions": 0
+    "avgPosition": 29.75,
+    "pagesWithImpressions": 24
   }
 }
