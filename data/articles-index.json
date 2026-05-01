@@ -1,5 +1,56 @@
 [
   {
+    "slug": "heart-healthy-foods-after-65",
+    "title": "5 Heart Healthy Foods After 65 (Backed by Science)",
+    "description": "Heart healthy foods after 65 — like salmon, leafy greens, and walnuts — cut heart failure risk by 27% in 10 years (JAMA, 2022).",
+    "date": "2026-05-01",
+    "updated": "2026-05-01",
+    "primaryKeyword": "heart healthy foods after 65",
+    "topicCluster": "nutrition-diet-management",
+    "image": "",
+    "relatedSlugs": [
+      "heart-healthy-foods-women-over-60",
+      "brain-boosting-foods-adults-75-plus",
+      "the-benefits-of-eating-nuts-daily-for-heart-protection-over-50",
+      "how-daily-fruit-intake-lowers-heart-disease-risk-in-seniors",
+      "the-role-of-magnesium-in-maintaining-a-healthy-heart-after-50"
+    ]
+  },
+  {
+    "slug": "cholesterol-meds-men-over-65-liver-issues",
+    "title": "Best Cholesterol Meds for Men Over 65 With Liver Issues",
+    "description": "Best cholesterol meds for men over 65 with liver issues: pitavastatin (0.7% ALT elevation risk), ezetimibe, and bempedoic acid — gentle on liver (ALT/AST) and.",
+    "date": "2026-05-01",
+    "updated": "2026-05-01",
+    "primaryKeyword": "best cholesterol meds for men over 65 with liver issues",
+    "topicCluster": "cardiovascular-health",
+    "image": "",
+    "relatedSlugs": [
+      "top-4-non-statin-cholesterol-modulators-for-adults-with-statin-intolerant-myopathy-over-60",
+      "best-cholesterol-meds-women-menopause",
+      "myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75",
+      "can-you-safely-take-berberine-with-metformin-if-you-re-over-74-and-have-mild-liver-fibrosis-what-alt-ast-and-fibroscan-data-reveal",
+      "myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio"
+    ]
+  },
+  {
+    "slug": "cbd-blood-pressure-at-night-seniors",
+    "title": "Does CBD Lower Blood Pressure at Night for Seniors?",
+    "description": "Does CBD lower blood pressure at night for seniors? A 2017 study found a 6 mmHg drop in systolic BP — but not proven for adults over 35 with hypertension.",
+    "date": "2026-05-01",
+    "updated": "2026-05-01",
+    "primaryKeyword": "does cbd lower blood pressure at night for seniors",
+    "topicCluster": "hypertension-management",
+    "image": "",
+    "relatedSlugs": [
+      "melatonin-blood-pressure-at-night",
+      "low-impact-exercise-blood-pressure-seniors",
+      "morning-habits-lower-blood-pressure-after-35",
+      "how-holiday-champagne-toasts-affect-diastolic-blood-pressure-in-men-with-isolated-systolic-hypertension-over-65",
+      "how-holiday-stress-triggers-nighttime-blood-pressure-spikes-in-adults-65-with-sleep-apnea-and-mild-cognitive-decline"
+    ]
+  },
+  {
     "slug": "heart-failure-warning-signs-at-night",
     "title": "Heart Failure Warning Signs at Night: Don’t Ignore These",
     "description": "Heart failure warning signs at night include waking breathless (PND) — seen in 65% of new left-sided cases. Sit upright? Cough nightly? See your doctor now.",
@@ -130,7 +181,8 @@
       "foods-for-central-bp-and-cognitive-blood-flow",
       "heart-healthy-foods-women-over-60",
       "what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80",
-      "breakfast-blood-sugar-seniors"
+      "breakfast-blood-sugar-seniors",
+      "heart-healthy-foods-after-65"
     ]
   },
   {

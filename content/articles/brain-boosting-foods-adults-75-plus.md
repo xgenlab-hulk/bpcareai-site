@@ -1,24 +1,21 @@
 ---
-title: >-
-  Best Brain-Boosting Foods for Adults 75+ (Backed by Science)
+title: Best Brain-Boosting Foods for Adults 75+ (Backed by Science)
 slug: brain-boosting-foods-adults-75-plus
 description: >-
-  Brain boosting foods for adults 75+ — like fatty fish, berries, and olive oil — slow cognitive decline by 53% (Neurology, 2022).
+  Brain boosting foods for adults 75+ — like fatty fish, berries, and olive oil
+  — slow cognitive decline by 53% (Neurology, 2022).
 date: '2026-04-28'
 updated: '2026-04-28'
-primaryKeyword: >-
-  brain boosting foods for adults 75+
+primaryKeyword: brain boosting foods for adults 75+
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
-  - >-
-    foods-for-central-bp-and-cognitive-blood-flow
-  - >-
-    heart-healthy-foods-women-over-60
+  - foods-for-central-bp-and-cognitive-blood-flow
+  - heart-healthy-foods-women-over-60
   - >-
     what-research-says-about-polyphenol-rich-holiday-foods-and-cognitive-resilience-in-adults-80
-  - >-
-    breakfast-blood-sugar-seniors
+  - breakfast-blood-sugar-seniors
+  - heart-healthy-foods-after-65
 ---
 
 # Best Brain-Boosting Foods for Adults 75+ (Backed by Science)
