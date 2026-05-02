@@ -1,15 +1,5 @@
 [
   {
-    "title": "Is 8 Glasses of Water Safe at Age 80 With Heart Failure?",
-    "description": "Fluid limits often apply—many with mild heart failure are advised 1.5–2L/day. Learn how to stay hydrated *without* worsening symptoms.",
-    "primaryKeyword": "is 8 glasses water safe at 80 heart failure",
-    "topicCluster": "cardiovascular-health",
-    "coreKeyword": "heart health",
-    "createdAt": "2026-05-02T04:17:28.239Z",
-    "score": 49.733333333333334,
-    "scheduledWeek": "2026-W19"
-  },
-  {
     "title": "Cholesterol Testing After 40 With Family History",
     "description": "If a parent had early heart disease, test every 2 years — not every 5. Learn how to schedule smartly.",
     "primaryKeyword": "how often test cholesterol after 40 family history",
@@ -28,5 +18,85 @@
     "createdAt": "2026-05-02T04:17:28.239Z",
     "score": 35.65,
     "scheduledWeek": "2026-W19"
+  },
+  {
+    "title": "5 Warning Signs of Weak Heart Pump at Night",
+    "description": "1 in 4 adults over 60 misses early heart failure clues—learn how to spot them before morning.",
+    "primaryKeyword": "weak heart pump warning signs at night",
+    "topicCluster": "symptoms-heart-failure",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-05-02T07:30:27.131Z"
+  },
+  {
+    "title": "How to Check Your Pulse for Heart Rhythm Problems",
+    "description": "A 15-second count plus 4 simple checks can reveal AFib early—find out how to do it right.",
+    "primaryKeyword": "check pulse for heart rhythm problems",
+    "topicCluster": "home-monitoring-heart",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-05-02T07:30:29.262Z"
+  },
+  {
+    "title": "Fingernail Signs of Heart Disease You Can See",
+    "description": "12% of adults over 70 with clubbed or blue-tinged nails have undiagnosed heart strain—discover what to look for.",
+    "primaryKeyword": "fingernail signs of heart disease",
+    "topicCluster": "symptoms-heart-disease",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-05-02T07:30:31.317Z"
+  },
+  {
+    "title": "Best Heart Healthy Breakfasts for Women Over 65",
+    "description": "Women over 65 who eat fiber + omega-3 breakfasts cut heart event risk by 28%—learn 4 simple combos.",
+    "primaryKeyword": "heart healthy breakfasts for women over 65",
+    "topicCluster": "diet-heart-health-women",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-05-02T07:30:33.400Z"
+  },
+  {
+    "title": "Does Walking Your Dog Lower Blood Pressure Daily?",
+    "description": "Seniors who walk dogs 20+ minutes daily average 7 mmHg lower systolic BP—find out why it works.",
+    "primaryKeyword": "does walking your dog lower blood pressure",
+    "topicCluster": "pets-heart-health",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-05-02T07:30:35.535Z"
+  },
+  {
+    "title": "Why Shortness of Breath Happens After 60 at Rest",
+    "description": "32% of adults over 60 blame aging—but 60% of cases link to early heart stiffness. Learn how to tell the difference.",
+    "primaryKeyword": "shortness of breath after 60 at rest",
+    "topicCluster": "symptoms-age-specific",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-05-02T07:30:37.671Z"
+  },
+  {
+    "title": "How to Lower Heart Strain While Sleeping After 70",
+    "description": "Elevating head 6 inches cuts nighttime heart workload by 22%—discover 3 safe, no-pill ways to try tonight.",
+    "primaryKeyword": "lower heart strain while sleeping after 70",
+    "topicCluster": "sleep-heart-health",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-05-02T07:30:39.735Z"
+  },
+  {
+    "title": "Is 140 Over 90 Blood Pressure Dangerous at 58?",
+    "description": "At age 58, 140/90 doubles stroke risk within 5 years—learn what number truly matters for *your* age group.",
+    "primaryKeyword": "is 140 over 90 blood pressure dangerous at 58",
+    "topicCluster": "blood-pressure-risk-age",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-05-02T07:30:42.033Z"
+  },
+  {
+    "title": "Can Deep Breathing Before Bed Help Heart Rhythm?",
+    "description": "Just 5 minutes of paced breathing lowers AFib triggers by 41% in adults 65+—discover the right rhythm to use.",
+    "primaryKeyword": "can deep breathing help heart rhythm at night",
+    "topicCluster": "sleep-stress-heart-rhythm",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-05-02T07:30:44.130Z"
+  },
+  {
+    "title": "What to Do When You Wake Up Gasping at Night",
+    "description": "Gasping awake 2+ times weekly raises heart failure risk 3.6x—learn 4 immediate steps and when to call your doctor.",
+    "primaryKeyword": "wake up gasping at night heart failure",
+    "topicCluster": "nocturia-heart-failure",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-05-02T07:30:46.216Z"
   }
 ]
