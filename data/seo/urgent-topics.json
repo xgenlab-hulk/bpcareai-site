@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "title": "How Hot Weather Affects Your Blood Pressure After 45",
+    "primaryKeyword": "does heat lower or raise blood pressure",
+    "description": "Heat can drop systolic BP by up to 10 mmHg—but dehydration or meds may spike it to 160/100. Learn how to monitor and protect yourself this summer.",
+    "topicCluster": "weather-and-blood-pressure",
+    "reasoning": "This query is trending due to early-season heatwaves and rising global temperatures—users aged 40–65 with hypertension or heart disease are urgently seeking practical, medication-aware guidance on real-time BP changes in heat, not textbook physiology. They want actionable steps to avoid dizziness, falls, or ER visits during summer.",
+    "query": "effect of heat on blood pressure",
+    "type": "RANK_JUMP",
+    "score": 80,
+    "perplexityQuestions": [
+      "Does heat lower or raise my blood pressure if I'm 45 with hypertension?",
+      "Why does my blood pressure drop too low in hot weather on my diuretic meds at age 50?",
+      "Is 140/90 dangerous during a heatwave if I'm 55 and active outdoors?",
+      "How does high humidity affect blood pressure for a 60-year-old with heart disease?",
+      "Can hot weather cause dehydration that spikes my BP to 160/100 at 40?"
+    ],
+    "createdAt": "2026-05-04T02:02:09.172Z",
+    "expiresAt": "2026-05-07T02:02:09.172Z"
+  }
+]
