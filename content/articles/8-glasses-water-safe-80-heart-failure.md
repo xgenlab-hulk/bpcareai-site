@@ -1,13 +1,12 @@
 ---
-title: >-
-  Is 8 Glasses of Water Safe at 80 With Heart Failure?
+title: Is 8 Glasses of Water Safe at 80 With Heart Failure?
 slug: 8-glasses-water-safe-80-heart-failure
 description: >-
-  No — 8 glasses (2L) daily raises 30-day hospital readmission risk by 37% in seniors with heart failure (reduced ejection fraction).
+  No — 8 glasses (2L) daily raises 30-day hospital readmission risk by 37% in
+  seniors with heart failure (reduced ejection fraction).
 date: '2026-05-02'
 updated: '2026-05-02'
-primaryKeyword: >-
-  is 8 glasses water safe at 80 with heart failure
+primaryKeyword: is 8 glasses water safe at 80 with heart failure
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
@@ -15,6 +14,7 @@ relatedSlugs:
     myths-vs-facts-i-can-skip-my-diuretic-the-day-after-thanksgiving-why-that-risks-acute-decompensated-heart-failure-in-adults-67-81
   - >-
     dangers-of-using-heart-healthy-coconut-water-electrolyte-drinks-during-hot-weather-for-adults-with-hfpef-and-egfr-45-59
+  - swimming-safe-seniors-heart-conditions
 ---
 
 # Is 8 Glasses of Water Safe at 80 With Heart Failure?

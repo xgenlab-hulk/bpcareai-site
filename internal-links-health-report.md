@@ -1,14 +1,14 @@
 # 内链健康分析报告
-**生成时间**: 2026/4/27 05:18:57
+**生成时间**: 2026/5/4 05:29:42
 
 ## 一、总体健康度
 
-- **总文章数**: 2033
-- **符合要求** (3-5个内链): 2033 篇 (100.0%)
-- **平均内链数**: 5.00
-- **双向链接覆盖率**: 52.0%
+- **总文章数**: 2054
+- **符合要求** (3-5个内链): 2054 篇 (100.0%)
+- **平均内链数**: 4.99
+- **双向链接覆盖率**: 51.6%
 
-### 健康评分: 66/100
+### 健康评分: 65/100
 
 ❌ **需改进** - 存在显著问题，建议立即优化
 
@@ -16,13 +16,13 @@
 
 | 内链数量 | 文章数 | 占比 | 状态 |
 |---------|--------|------|------|
-| 3 | 3 | 0.1% | ✅ 符合要求 |
+| 3 | 5 | 0.2% | ✅ 符合要求 |
 | 4 | 4 | 0.2% | ✅ 符合要求 |
-| 5 | 2026 | 99.7% | ✅ 符合要求 |
+| 5 | 2045 | 99.6% | ✅ 符合要求 |
 
 ## 三、孤岛文章分析
 
-⚠️ 发现 **125** 篇孤岛文章（无其他文章链接到它）：
+⚠️ 发现 **133** 篇孤岛文章（无其他文章链接到它）：
 
 - heart-rate-variability-explained
 - heart-disease-in-hispanic-adults-over-50-unique-risk-factors
@@ -34,7 +34,7 @@
 - can-shoveling-snow-trigger-a-heart-event-in-older-adults
 - what-your-blood-pressure-numbers-mean-after-a-stroke-new-targets-and-redefining-normal-for-recovery
 - how-alcohol-free-mocktails-can-lower-blood-pressure-in-women-over-55-during-new-year-s-gatherings
-- ...及其他 115 篇
+- ...及其他 123 篇
 
 ## 四、TopicCluster 连通性
 
@@ -1637,17 +1637,17 @@
 | medication-adherence-myths | 16.7% | ❌ 需改进 |
 | differential-diagnosis | 16.7% | ❌ 需改进 |
 | exercise-modality-comparison | 15.0% | ❌ 需改进 |
-| hypertension-management | 11.8% | ❌ 需改进 |
+| hypertension-management | 10.9% | ❌ 需改进 |
 | cardiac-diet | 10.7% | ❌ 需改进 |
-| lifestyle-interventions | 10.1% | ❌ 需改进 |
-| diabetes-management | 9.3% | ❌ 需改进 |
+| lifestyle-interventions | 9.6% | ❌ 需改进 |
 | diabetes-lifestyle | 8.3% | ❌ 需改进 |
 | emotional-mental-health | 8.3% | ❌ 需改进 |
-| nutrition-diet-management | 7.8% | ❌ 需改进 |
+| diabetes-management | 7.1% | ❌ 需改进 |
+| nutrition-diet-management | 6.5% | ❌ 需改进 |
 | hypertension-lifestyle | 6.3% | ❌ 需改进 |
-| cardiovascular-health | 5.6% | ❌ 需改进 |
 | natural-remedies | 4.2% | ❌ 需改进 |
 | heart-health | 4.0% | ❌ 需改进 |
+| cardiovascular-health | 3.8% | ❌ 需改进 |
 | emergency-symptoms | 3.8% | ❌ 需改进 |
 | cardiovascular-risk | 3.3% | ❌ 需改进 |
 | diet-nutrition | 1.8% | ❌ 需改进 |
@@ -1700,7 +1700,7 @@
 
 ## 五、过度链接文章
 
-⚠️ 发现 **170** 篇文章被链接次数过多（>10次）：
+⚠️ 发现 **174** 篇文章被链接次数过多（>10次）：
 
 - are-sugar-free-treats-actually-safe-for-diabetics-over-65
 - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
@@ -1799,6 +1799,7 @@
 - mitochondrial-biogenesis-diastolic-dysfunction
 - vagal-breathing-central-systolic-pressure
 - why-nighttime-bp-dipping-disappears-after-age-67-and-what-it-reveals-about-autonomic-neuropathy-and-lvh
+- 7-silent-signs-of-diastolic-dysfunction-you-might-miss-at-home-especially-if-you-re-65-with-normal-ejection-fraction
 - the-truth-about-sugar-free-holiday-cookies-for-adults-70-with-type-2-diabetes-and-mild-cognitive-impairment
 - how-late-night-gift-wrapping-affects-fasting-glucose-in-adults-62-76-with-prediabetes-and-shifted-circadian-rhythms
 - when-to-worry-about-post-meal-dizziness-after-christmas-dinner-in-adults-65-with-diabetes-and-orthostatic-hypotension
@@ -1866,17 +1867,20 @@
 - foods-for-aortic-stiffness-without-orthostasis
 - stabilize-morning-glucose-without-insulin
 - 7-hidden-medication-interactions-that-raise-blood-pressure-after-age-60-including-common-antidepressants-antihistamines-and-topical-nsaids
+- exercises-for-seniors-poor-balance
 - read-cholesterol-test-after-60
+- start-walking-at-75-safely
 - does-stress-raise-cholesterol-after-35
 - walking-minutes-per-day-seniors-over-65
 - high-cholesterol-fatigue-after-35
 - strength-exercises-women-over-65
 - exercise-at-65-weekly-plan
+- foods-lower-cholesterol-naturally-after-50
 
 ## 六、优化建议
 
-2. **消除孤岛文章**: 125 篇文章没有被其他文章链接，建议通过双向链接优化改善
-3. **提升双向链接覆盖率**: 当前为 52.0%，建议目标 >60%
+2. **消除孤岛文章**: 133 篇文章没有被其他文章链接，建议通过双向链接优化改善
+3. **提升双向链接覆盖率**: 当前为 51.6%，建议目标 >60%
 4. **改善Cluster连通性**: 75 个主题集群内部连通性低于50%
 
 ---
