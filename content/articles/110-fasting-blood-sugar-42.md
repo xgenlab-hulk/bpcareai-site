@@ -1,22 +1,19 @@
 ---
-title: >-
-  Is 110 Fasting Blood Sugar Dangerous at 42? (Prediabetes Alert)
+title: Is 110 Fasting Blood Sugar Dangerous at 42? (Prediabetes Alert)
 slug: 110-fasting-blood-sugar-42
 description: >-
-  Is 110 fasting blood sugar dangerous at 42? Yes — it's prediabetes (100–125 mg/dL), with a 37% diabetes risk in 8 years. Take action now.
+  Is 110 fasting blood sugar dangerous at 42? Yes — it's prediabetes (100–125
+  mg/dL), with a 37% diabetes risk in 8 years. Take action now.
 date: '2026-04-28'
 updated: '2026-04-28'
-primaryKeyword: >-
-  is 110 fasting blood sugar dangerous at 42
+primaryKeyword: is 110 fasting blood sugar dangerous at 42
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
-  - >-
-    check-fasting-blood-sugar-at-40
-  - >-
-    is-180-after-meals-normal-55-type-2
-  - >-
-    blood-sugar-friendly-breakfasts-prediabetes
+  - check-fasting-blood-sugar-at-40
+  - is-180-after-meals-normal-55-type-2
+  - blood-sugar-friendly-breakfasts-prediabetes
+  - 140-90-blood-pressure-diabetes-45
 ---
 
 # Is 110 Fasting Blood Sugar Dangerous at 42? (Prediabetes Alert)
