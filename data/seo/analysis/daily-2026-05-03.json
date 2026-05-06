@@ -1,0 +1,20 @@
+{
+  "date": "2026-05-03",
+  "period": "3-day",
+  "impressionsChange": -13.071895424836605,
+  "clicksChange": 0,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "effect of heat on blood pressure",
+      "reason": "排名跃升 33.3 位（78.3 → 45.0）",
+      "score": 80,
+      "recentImpressions": 1,
+      "baselineImpressions": 3,
+      "recentPosition": 45,
+      "baselinePosition": 78.33333333333333
+    }
+  ]
+}

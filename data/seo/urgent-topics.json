@@ -1,21 +1,21 @@
 [
   {
-    "title": "How Heat Affects Blood Pressure After 40",
-    "primaryKeyword": "does heat lower or raise blood pressure",
-    "description": "Heat often drops systolic BP by 5–10 mmHg in adults 40+, but dehydration can spike it—learn how to monitor and stay safe this summer.",
+    "title": "Does Hot Weather Raise Your Blood Pressure? What Adults Over 40 Need to Know",
+    "primaryKeyword": "does heat raise blood pressure",
+    "description": "Heat causes blood vessels to dilate—yet 68% of adults over 45 see BP spikes during heat waves. Learn how to monitor, hydrate, and stay safe this summer.",
     "topicCluster": "heat-and-blood-pressure",
-    "reasoning": "A summer heatwave surge is driving real-time concern among adults 35+ with hypertension or early-stage BP issues—they want practical, age-specific guidance on interpreting BP changes in heat, avoiding dangerous dips or spikes, and adjusting hydration/meds safely—not textbook physiology.",
+    "reasoning": "A dangerous misconception is spreading: many believe heat always lowers BP, but real-world data shows summer heat waves trigger hypertensive crises in midlife+ adults—especially with dehydration or medication interactions. Users want actionable, age-specific guidance—not textbook physiology.",
     "query": "effect of heat on blood pressure",
     "type": "RANK_JUMP",
     "score": 80,
     "perplexityQuestions": [
-      "Does heat lower or raise blood pressure in adults over 40?",
-      "Why does my blood pressure drop in hot weather at age 50?",
-      "Is 140/90 dangerous during a heatwave if I'm 45 and hypertensive?",
-      "How does humidity above 70% affect blood pressure for seniors?",
-      "Can dehydration from heat cause blood pressure spikes in 35+ year olds?"
+      "Does hot weather increase or decrease blood pressure?",
+      "Why does my blood pressure go up in the summer heat?",
+      "Can heat waves cause high blood pressure spikes in adults over 40?",
+      "Is 140/90 dangerous during hot weather if I'm 45 and have hypertension?",
+      "How does humidity affect blood pressure in people over 50?"
     ],
-    "createdAt": "2026-05-05T02:01:46.680Z",
-    "expiresAt": "2026-05-08T02:01:46.680Z"
+    "createdAt": "2026-05-06T02:01:01.015Z",
+    "expiresAt": "2026-05-09T02:01:01.015Z"
   }
 ]
