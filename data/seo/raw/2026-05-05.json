@@ -1,13 +1,211 @@
 {
   "date": "2026-05-05",
-  "fetchedAt": "2026-05-08T02:10:37.767Z",
-  "queries": [],
-  "pages": [],
+  "fetchedAt": "2026-05-09T02:04:06.170Z",
+  "queries": [
+    {
+      "query": "\"behavioral nutrition psychology\" certification",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "ada guidelines hba1c target elderly diabetes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "bp care",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "bp rating ai",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "does heat affect blood pressure",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 36.5
+    },
+    {
+      "query": "fiber side dishes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 44
+    },
+    {
+      "query": "hot weather and blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 92
+    },
+    {
+      "query": "right arm pain women",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 82
+    },
+    {
+      "query": "women right arm ache",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 70
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 6.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/a-guide-to-allergen-friendly-family-meals-for-mixed-diet-households",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://bpcareai.com/articles/air-fryer-oxidized-cholesterol-coronary-calcification",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "page": "https://bpcareai.com/articles/ambulatory-blood-pressure-variability-interpretation",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://bpcareai.com/articles/best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 44
+    },
+    {
+      "page": "https://bpcareai.com/articles/blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/does-caffeine-raise-blood-pressure-after-age-60",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "page": "https://bpcareai.com/articles/does-layering-clothes-help-regulate-blood-pressure-in-cold-climates",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://bpcareai.com/articles/heart-disease-cataract-surgery-seniors",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 9.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-holiday-travel-disrupts-circadian-rhythm-and-triggers-atrial-fibrillation-in-adults-68-with-diagnosed-af-and-time-zone-shifted-medication-schedules",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 29
+    },
+    {
+      "page": "https://bpcareai.com/articles/improve-endothelial-function-without-exercise",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 17.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/resistance-training-after-aortic-valve-replacement",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 16
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 32.16666666666667
+    },
+    {
+      "page": "https://bpcareai.com/articles/understanding-a1c-goals-for-seniors-with-diabetes",
+      "clicks": 0,
+      "impressions": 52,
+      "ctr": 0,
+      "position": 12.711538461538462
+    },
+    {
+      "page": "https://bpcareai.com/articles/warning-signs-your-holiday-weight-gain-is-actually-fluid-retention-especially-if-you-re-on-amlodipine-and-over-68",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 11.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/what-are-the-earliest-retinal-microvascular-changes-predicting-incident-heart-failure-in-hypertensive-women-over-65",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://www.bpcareai.com/articles",
+      "clicks": 0,
+      "impressions": 57,
+      "ctr": 0,
+      "position": 17.333333333333332
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 46
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/why-arm-pain-shouldn-t-be-ignored-in-women-over-50",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 44.75
+    }
+  ],
   "summary": {
-    "totalQueries": 0,
-    "totalImpressions": 0,
+    "totalQueries": 9,
+    "totalImpressions": 10,
     "totalClicks": 0,
-    "avgPosition": 0,
-    "pagesWithImpressions": 0
+    "avgPosition": 38.8,
+    "pagesWithImpressions": 19
   }
 }
