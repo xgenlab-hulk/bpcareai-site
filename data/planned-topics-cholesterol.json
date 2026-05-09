@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "title": "Is 220 Total Cholesterol High at Age 35?",
+    "description": "Yes — 220 mg/dL puts you in the 'borderline high' range, and 41% of adults 35–44 with this level have early artery plaque. Learn how.",
+    "primaryKeyword": "is 220 total cholesterol high at age 35",
+    "topicCluster": "nutrition-diet-management",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-05-09T04:20:57.179Z",
+    "score": 43.45,
+    "scheduledWeek": "2026-W20",
+    "perplexityQuestions": [
+      "What are normal cholesterol levels for men over 40?",
+      "Is 220 total cholesterol high at age 35?",
+      "How does high cholesterol affect erectile dysfunction in men over 50?",
+      "Can stress cause high cholesterol after 40?",
+      "What supplements lower cholesterol naturally for adults over 35?"
+    ],
+    "competitorCoverage": "Top-ranking Google articles on cholesterol for adults universally cover the basics: what cholesterol is (essential lipid vs. high levels causing plaque buildup), types (LDL 'bad', HDL 'good'), causes (diet, genetics, age), effects (heart disease, stroke risk), healthy levels (total <200mg/dL, LDL <100, HDL >40-50), testing frequency (every 4-6 years after 20, more often for high-risk), and management via diet, exercise, and meds. To compete, a new article must include risk calculators like ASCVD, coronary calcium scores, personalized screening guidelines by age/family history, and actionable lifestyle tips with stats like 86 million affected Americans."
+  }
+]

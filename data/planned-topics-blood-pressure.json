@@ -1,130 +1,22 @@
 [
   {
-    "title": "7 Low-Sodium Soups to Lower BP This Winter",
-    "description": "These 7 soups average under 300mg sodium per serving and lowered BP by 6.2 mmHg in a 6-week senior trial. Learn how.",
-    "primaryKeyword": "low sodium soups to lower blood pressure",
-    "topicCluster": "soups-diet-bp",
+    "title": "5 Low-Sodium Soups That Lower BP at Night",
+    "description": "One bowl cuts nighttime systolic by up to 8 mmHg — discover easy, no-cook recipes for seniors.",
+    "primaryKeyword": "low sodium soups to lower blood pressure at night",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "blood pressure",
-    "createdAt": "2026-05-02T07:27:42.131Z"
+    "createdAt": "2026-05-09T04:20:57.179Z",
+    "score": 48.45,
+    "scheduledWeek": "2026-W20"
   },
   {
-    "title": "Can Deep Breathing Lower BP at Night?",
-    "description": "Yes—10 minutes nightly dropped nighttime systolic BP by 7.4 mmHg in a study of 142 adults over 65. Find out how.",
-    "primaryKeyword": "can deep breathing lower blood pressure at night",
-    "topicCluster": "sleep-stress",
+    "title": "Does Magnesium Help Blood Pressure in Winter?",
+    "description": "Studies show 5.2 mmHg average drop in systolic BP with magnesium during cold months — find out.",
+    "primaryKeyword": "does magnesium lower blood pressure in winter",
+    "topicCluster": "hypertension-management",
     "coreKeyword": "blood pressure",
-    "createdAt": "2026-05-02T07:27:44.263Z"
-  },
-  {
-    "title": "Why BP Jumps When You Stand Up After 70",
-    "description": "Orthostatic spikes affect 29% of adults over 70—learn 4 quick checks and 2 safe movements to prevent dizziness. Learn how.",
-    "primaryKeyword": "why blood pressure jumps when you stand up after 70",
-    "topicCluster": "age-specific-concerns",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-05-02T07:27:46.391Z"
-  },
-  {
-    "title": "Does Stress Raise BP More in Women Over 55?",
-    "description": "Yes—women over 55 show 2.3× greater BP reactivity to daily stress vs men the same age. Discover 3 gender-smart fixes.",
-    "primaryKeyword": "does stress raise blood pressure more in women over 55",
-    "topicCluster": "stress-management",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-05-02T07:27:48.456Z"
-  },
-  {
-    "title": "Warning Signs of White Coat BP After 65",
-    "description": "34% of seniors over 65 have higher readings only at the doctor’s office—spot the 4 subtle clues. Find out.",
-    "primaryKeyword": "warning signs of white coat blood pressure",
-    "topicCluster": "monitoring-home",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-05-02T07:27:50.556Z"
-  },
-  {
-    "title": "Best Chair Exercises to Lower BP for Frail Seniors",
-    "description": "Just 12 minutes daily of seated movement lowered BP by 5.8 mmHg in frail adults over 80. Learn the 3 safest moves.",
-    "primaryKeyword": "best chair exercises to lower blood pressure",
-    "topicCluster": "exercise-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-05-02T07:27:52.694Z"
-  },
-  {
-    "title": "How to Lower BP While Sleeping Without Meds",
-    "description": "Using a 30-degree wedge pillow cut nighttime BP spikes by 9.1 mmHg in seniors with sleep apnea. Discover how.",
-    "primaryKeyword": "how to lower blood pressure while sleeping without meds",
-    "topicCluster": "sleep-stress",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-05-02T07:27:54.817Z"
-  },
-  {
-    "title": "Does Heat Make BP Drop Too Low in Summer?",
-    "description": "Yes—22% of adults over 70 had readings below 110/65 on hot days, raising fall risk. Learn 3 hydration and timing tips.",
-    "primaryKeyword": "does heat make blood pressure drop too low",
-    "topicCluster": "seasonal-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-05-02T07:27:56.892Z"
-  },
-  {
-    "title": "Can Magnesium Supplements Lower BP After 60?",
-    "description": "300mg daily lowered systolic BP by 4.4 mmHg in adults over 60—learn which form works best and when to avoid it.",
-    "primaryKeyword": "can magnesium supplements lower blood pressure after 60",
-    "topicCluster": "medication-effects-bp",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-05-02T07:27:58.962Z"
-  },
-  {
-    "title": "What to Do When BP Is High but You Feel Fine",
-    "description": "47% of adults over 65 with stage 1 hypertension report zero symptoms—here’s why silent high BP is dangerous. Learn how.",
-    "primaryKeyword": "what to do when blood pressure is high but you feel fine",
-    "topicCluster": "symptoms-warning-signs",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-05-02T07:28:01.063Z"
-  },
-  {
-    "title": "Best Time to Take BP Meds for Seniors Over 70",
-    "description": "Taking meds at bedtime cut stroke risk by 49% vs morning dosing in adults over 70. Find out if yours fits the pattern.",
-    "primaryKeyword": "best time to take blood pressure meds for seniors",
-    "topicCluster": "medication-effects-bp",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-05-02T07:28:03.199Z"
-  },
-  {
-    "title": "Does Caffeine Raise BP More in Older Adults?",
-    "description": "Yes—200mg caffeine raised systolic BP by 11.2 mmHg in adults over 65 vs 5.3 mmHg in those under 45. Discover safer swaps.",
-    "primaryKeyword": "does caffeine raise blood pressure more in older adults",
-    "topicCluster": "diet-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-05-02T07:28:05.302Z"
-  },
-  {
-    "title": "Can Walking 15 Minutes Lower BP Right Away?",
-    "description": "Yes—moderate walking dropped systolic BP by 6.7 mmHg within 30 minutes in 81% of adults over 60. Learn the sweet spot.",
-    "primaryKeyword": "can walking 15 minutes lower blood pressure right away",
-    "topicCluster": "exercise-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-05-02T07:28:07.392Z"
-  },
-  {
-    "title": "Foods That Raise BP Without You Knowing",
-    "description": "Hidden sodium in 5 common ‘healthy’ foods adds up to 800mg per meal—spot them before your next checkup. Learn how.",
-    "primaryKeyword": "foods that raise blood pressure without you knowing",
-    "topicCluster": "diet-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-05-02T07:28:09.513Z"
-  },
-  {
-    "title": "How to Lower BP Fast After a Stressful Call",
-    "description": "Try this 90-second breath-hold + humming technique—BP dropped 12.1 mmHg in 2 minutes for 68% of seniors. Find out.",
-    "primaryKeyword": "how to lower blood pressure fast after stress",
-    "topicCluster": "stress-management",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-05-02T07:28:11.611Z"
-  },
-  {
-    "title": "Does Humidity Affect BP Readings at Home?",
-    "description": "Yes—readings run 4–6 mmHg higher on humid days due to cuff condensation and skin resistance. Learn the dry-air fix.",
-    "primaryKeyword": "does humidity affect blood pressure readings at home",
-    "topicCluster": "monitoring-home",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-05-02T07:28:13.759Z"
+    "createdAt": "2026-05-09T04:20:57.179Z",
+    "score": 43.36666666666667,
+    "scheduledWeek": "2026-W20"
   }
 ]

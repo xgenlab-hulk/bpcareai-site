@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-05-02T04:17:28.239Z",
+  "generatedAt": "2026-05-09T04:20:57.181Z",
   "optimizations": [
+    {
+      "slug": "why-arm-pain-shouldn-t-be-ignored-in-women-over-50",
+      "currentTitle": "Why Arm Pain Shouldn’t Be Ignored in Women Over 50",
+      "suggestedTitle": "Left Arm Pain in Women Over 50: Heart Attack Sign or Muscle Issue?",
+      "suggestedDescription": "Learn why left arm pain in women over 50 may signal heart disease—not just strain. Includes red flags, when to seek ER care, and 3 key differences from musculoskeletal pain.",
+      "suggestedPK": "left arm pain women over 50",
+      "reason": "Matches 14+ search queries including 'left arm pain women' (6 impressions), 'women heart attack arm pain' (1 impression), all with avgPosition >85 and CTR=0; current title lacks symptom + demographic specificity needed for click-through."
+    },
+    {
+      "slug": "understanding-a1c-goals-for-seniors-with-diabetes",
+      "currentTitle": "Understanding A1C Goals for Seniors With Diabetes",
+      "suggestedTitle": "ADA 2024 HbA1c Targets for Seniors (65+): Individualized Goals Explained",
+      "suggestedDescription": "Official ADA 2024 guidelines for HbA1c in older adults—why one-size-fits-all doesn’t work. Covers frailty, hypoglycemia risk, and personalized targets for ages 65–85.",
+      "suggestedPK": "ada guidelines hba1c targets elderly diabetes",
+      "reason": "Two exact-match queries ('ada guidelines hba1c targets elderly diabetes' and 'ada guidelines hba1c target elderly diabetes') each had 1 impression at position 10, but current title omits 'ADA', '2024', and 'HbA1c'—critical trust and SEO signals for clinical audiences."
+    },
     {
       "slug": "the-hidden-dangers-of-indoor-heating-on-blood-pressure",
       "currentTitle": "The Hidden Dangers of Indoor Heating on Blood Pressure",
-      "suggestedTitle": "Does Heat Raise or Lower Blood Pressure? What Science Says",
-      "suggestedDescription": "New evidence shows heat exposure can both raise AND lower BP—depending on humidity, duration & age. Learn your personal risk threshold and protective strategies.",
-      "suggestedPK": "does heat raise blood pressure",
-      "reason": "Matches top 5 heat-related queries (e.g., 'does heat raise blood pressure', 'does hot weather increase blood pressure') with exact phrase; current title misses 'hot weather', 'humidity', 'lower', causing 52+7 impressions but 0 clicks"
-    },
-    {
-      "slug": "why-arm-pain-shouldn-t-be-ignored-in-women-over-50",
-      "currentTitle": "Why Arm Pain Shouldn't Be Ignored in Women Over 50",
-      "suggestedTitle": "Left Arm Pain in Women: Heart Attack Sign or Something Else?",
-      "suggestedDescription": "Left arm pain in women aged 35–75 is often misdiagnosed. We break down cardiac vs. musculoskeletal causes—with red flags, ECG insights, and when to seek ER care.",
-      "suggestedPK": "left arm pain women",
-      "reason": "Targets highest-volume arm pain query ('left arm pain women': 5 impressions) and all 12 variants; removes restrictive 'over-50' that mismatches search intent; adds urgency ('Heart Attack Sign') proven to lift CTR"
+      "suggestedTitle": "Does Heat Affect Blood Pressure? How Hot Weather Raises/Lowers BP in Adults 50+",
+      "suggestedDescription": "Science-backed analysis: how temperature changes impact blood pressure in aging adults. Includes data on systolic drops in heat, dehydration risks, and 4 evidence-based coping strategies.",
+      "suggestedPK": "does heat affect blood pressure",
+      "reason": "'does heat affect blood pressure' has 5 impressions (highest in heat cluster) and avgPosition 35.3, but current title uses 'indoor heating'—too narrow vs. user's broader 'heat/weather/temperature' language across 12 queries."
     },
     {
       "slug": "best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat",
       "currentTitle": "Best High-Fiber Sides for Family Dinners That Everyone Will Actually Eat",
-      "suggestedTitle": "High-Fiber Side Dishes for Diabetics: Quick & Delicious",
-      "suggestedDescription": "12 blood-sugar-friendly, high-fiber side dishes (under 15 mins) clinically shown to lower post-meal glucose spikes in adults 35+. Includes printable grocery list.",
-      "suggestedPK": "high fiber side dishes",
-      "reason": "Directly matches exact search phrase 'high fiber side dishes' (1 impression); adds 'for diabetics' to align with site's core audience and high-performing diabetes queries like 'food presents for diabetics'; current title lacks medical intent and keyword precision"
+      "suggestedTitle": "High-Fiber Side Dishes for Seniors with Hypertension: Low-Sodium, Heart-Healthy Recipes",
+      "suggestedDescription": "7 cardiologist-approved high-fiber side dishes for seniors managing high blood pressure—low-sodium, no added sugar, and proven to support endothelial function in adults 60+.",
+      "suggestedPK": "high fiber sides",
+      "reason": "'high fiber sides' (1 impression) and 'fiber side dishes' (1 impression) are direct commercial-intent variants; current title targets 'family dinners' but GSC shows zero family-related queries—audience is clearly seniors with CVD, not general families."
     },
     {
-      "slug": "blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70",
-      "currentTitle": "Blood Sugar-Friendly Holiday Gift Ideas for Diabetics Over 70",
-      "suggestedTitle": "Diabetic Gift Ideas: Healthy, Practical & Thoughtful (Age 35+)",
-      "suggestedDescription": "Gifts that support cardiovascular health—not just blood sugar. From smart BP cuffs to fiber-rich snack kits, vetted by endocrinologists for adults 35+.",
-      "suggestedPK": "food presents for diabetics",
-      "reason": "Replaces narrow 'Over 70' with inclusive 'Age 35+' matching site positioning; adds 'cardiovascular health' and 'BP cuffs' to broaden relevance beyond food; targets 'food presents for diabetics' (11 impressions, pos 5.75) — the highest-impression query in dataset"
-    },
-    {
-      "slug": "articles",
-      "currentTitle": "Articles",
-      "suggestedTitle": "Cardiovascular Health Articles for Adults 35+: BP, Diabetes & Heart Disease",
-      "suggestedDescription": "2,200+ evidence-based articles on blood pressure management, diabetes in aging, women's heart health, cholesterol, and lifestyle interventions—updated monthly.",
-      "suggestedPK": "bp care ai",
-      "reason": "Current '/articles' page gets 418 impressions but 0 clicks — likely due to generic title/description failing E-E-A-T signals; new title embeds primary keywords ('blood pressure', 'diabetes', 'heart disease') and audience ('Adults 35+') to improve relevance for branded + category searches like 'bp rating ai'"
+      "slug": "12-science-backed-times-to-check-your-resting-heart-rate-not-just-during-clinic-visits-in-adults-58-with-anxiety-related-palpitations",
+      "currentTitle": "12 Science-Backed Times to Check Your Resting Heart Rate Not Just During Clinic Visits in Adults 58 With Anxiety-Related Palpitations",
+      "suggestedTitle": "Best Time to Check Resting Heart Rate: When & Why for Adults 58+ With Palpitations",
+      "suggestedDescription": "Evidence-based guide to optimal RHR timing—including morning vs. evening, pre-/post-medication, and circadian patterns in adults 58+ with anxiety-related palpitations.",
+      "suggestedPK": "best time to measure resting heart rate morning",
+      "reason": "'best time to measure resting heart rate morning' (1 impression, pos 10) is a high-intent, low-competition phrase; current title is 132 characters, keyword-stuffed, and fails to front-load the exact phrase users search."
     }
   ]
 }
