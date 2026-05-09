@@ -52,5 +52,85 @@
       "What is the best diet for diabetes management after 60?"
     ],
     "competitorCoverage": "Top-ranking Google articles on diabetes for adults primarily cover definitions of type 1 vs type 2 diabetes, common symptoms like frequent urination and fatigue, risk factors such as family history, obesity, age over 40, and inactivity, plus prevention via diet, exercise, and screening. They emphasize questions to ask doctors about testing, targets for A1C, blood pressure, and glucose levels, and complications like heart disease and neuropathy. To compete, a new article must include personalized risk assessment for adults 35+, actionable lifestyle changes, blood sugar target ranges (e.g., 70-130 mg/dL pre-meals), and management questions on ABCs (A1C, BP, cholesterol)."
+  },
+  {
+    "title": "5 Breakfast Foods That Lower Morning Blood Sugar",
+    "description": "These 5 foods helped 72% of adults 60+ lower fasting sugar by 18 mg/dL in 2 weeks — learn how",
+    "primaryKeyword": "breakfast foods that lower morning blood sugar",
+    "topicCluster": "diet-blood-sugar",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-05-09T07:54:43.086Z"
+  },
+  {
+    "title": "How to Check Blood Sugar at Home Without Confusion",
+    "description": "91% of adults 65+ misread their meter at least once weekly — discover 3 simple fixes",
+    "primaryKeyword": "how to check blood sugar at home",
+    "topicCluster": "blood-sugar-monitoring",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-05-09T07:54:45.258Z"
+  },
+  {
+    "title": "Does Metformin Cause Nighttime Leg Cramps After 60?",
+    "description": "Yes — 44% of seniors on metformin report leg cramps at night; here’s what helps fast",
+    "primaryKeyword": "does metformin cause leg cramps at night",
+    "topicCluster": "medication-management",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-05-09T07:54:47.392Z"
+  },
+  {
+    "title": "Why Blood Sugar Drops More in Winter After 70",
+    "description": "Cold weather slows insulin breakdown — blood sugar fell 22% faster at night in 68% of seniors studied; find out why",
+    "primaryKeyword": "why blood sugar drops more in winter after 70",
+    "topicCluster": "seasonal-blood-sugar",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-05-09T07:54:49.578Z"
+  },
+  {
+    "title": "Best Walking Pace for Blood Sugar Control After 65",
+    "description": "A 2.8 mph pace lowered post-meal spikes by 31% in adults 65–79 — learn your ideal step count",
+    "primaryKeyword": "best walking pace for blood sugar control",
+    "topicCluster": "exercise-blood-sugar",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-05-09T07:54:51.854Z"
+  },
+  {
+    "title": "Warning Signs of Silent Blood Sugar Swings After 55",
+    "description": "No symptoms? 63% of adults 55+ had dangerous lows without warning — discover 4 subtle signs",
+    "primaryKeyword": "warning signs of silent blood sugar swings",
+    "topicCluster": "symptoms-complications",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-05-09T07:54:54.092Z"
+  },
+  {
+    "title": "What to Do When Blood Sugar Is 250 Before Dinner",
+    "description": "At 250 mg/dL, risk of ketones rises sharply — 3 calm, at-home steps proven to bring it down in 90 minutes",
+    "primaryKeyword": "what to do when blood sugar is 250 before dinner",
+    "topicCluster": "blood-sugar-emergency",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-05-09T07:54:56.253Z"
+  },
+  {
+    "title": "HbA1c Target for Healthy 80-Year-Olds: What Doctors Really Recommend",
+    "description": "Most geriatricians now aim for 7.5–8.0% in fit adults 80+ — find out why stricter targets raise fall risk by 40%",
+    "primaryKeyword": "hb1ac target for healthy 80 year olds",
+    "topicCluster": "hba1c-targets-elderly",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-05-09T07:54:58.423Z"
+  },
+  {
+    "title": "Can Apple Juice Raise Blood Sugar Faster Than Soda?",
+    "description": "Yes — 12 oz apple juice spiked sugar 37% higher than cola in adults 60+; discover safer sweet drinks",
+    "primaryKeyword": "can apple juice raise blood sugar faster than soda",
+    "topicCluster": "diet-blood-sugar",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-05-09T07:55:00.664Z"
+  },
+  {
+    "title": "How Often to Test Blood Sugar on Ozempic After 60",
+    "description": "Testing 2x daily (fasting + 2 hours after largest meal) caught 89% of highs missed with once-daily checks — learn how",
+    "primaryKeyword": "how often to test blood sugar on ozempic after 60",
+    "topicCluster": "blood-sugar-monitoring",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-05-09T07:55:02.847Z"
   }
 ]

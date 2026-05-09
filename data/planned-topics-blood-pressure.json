@@ -1,15 +1,5 @@
 [
   {
-    "title": "5 Low-Sodium Soups That Lower BP at Night",
-    "description": "One bowl cuts nighttime systolic by up to 8 mmHg — discover easy, no-cook recipes for seniors.",
-    "primaryKeyword": "low sodium soups to lower blood pressure at night",
-    "topicCluster": "nutrition-diet-management",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-05-09T04:20:57.179Z",
-    "score": 48.45,
-    "scheduledWeek": "2026-W20"
-  },
-  {
     "title": "Does Magnesium Help Blood Pressure in Winter?",
     "description": "Studies show 5.2 mmHg average drop in systolic BP with magnesium during cold months — find out.",
     "primaryKeyword": "does magnesium lower blood pressure in winter",
@@ -18,5 +8,165 @@
     "createdAt": "2026-05-09T04:20:57.179Z",
     "score": 43.36666666666667,
     "scheduledWeek": "2026-W20"
+  },
+  {
+    "title": "5 Foods That Lower BP While You Sleep",
+    "description": "These bedtime-friendly foods lower systolic pressure by up to 6 mmHg overnight — learn how.",
+    "primaryKeyword": "foods that lower blood pressure while sleeping",
+    "topicCluster": "diet-blood-pressure-sleep",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-09T07:53:28.004Z"
+  },
+  {
+    "title": "How to Check BP at Home Without Confusing Numbers",
+    "description": "83% of seniors misread their home monitor — discover the 3-step fix that cuts errors in half.",
+    "primaryKeyword": "how to check blood pressure at home correctly",
+    "topicCluster": "monitoring-home-bp",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-09T07:53:30.181Z"
+  },
+  {
+    "title": "Does Magnesium Really Lower BP in Summer?",
+    "description": "New data shows 42% of adults over 55 get less magnesium in hot months — find out if it matters.",
+    "primaryKeyword": "does magnesium lower blood pressure in summer",
+    "topicCluster": "supplements-seasonal-bp",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-09T07:53:32.327Z"
+  },
+  {
+    "title": "BP Meds That Make You Tired After 65",
+    "description": "3 common blood pressure pills cause daytime fatigue in 29% of seniors — learn which ones to ask about.",
+    "primaryKeyword": "blood pressure meds that cause tiredness after 65",
+    "topicCluster": "medication-effects-bp",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-09T07:53:34.535Z"
+  },
+  {
+    "title": "7 Low-Sodium Soups That Calm Nerves & BP",
+    "description": "These soups lower afternoon BP spikes by 5.2 mmHg on average — discover how to make them in 15 minutes.",
+    "primaryKeyword": "low sodium soups that lower blood pressure and stress",
+    "topicCluster": "soup-diet-stress-bp",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-09T07:53:36.767Z"
+  },
+  {
+    "title": "Why Blood Pressure Jumps When You Stand Up After 70",
+    "description": "Orthostatic spikes happen in 41% of adults over 70 — learn the 2-minute test to catch it early.",
+    "primaryKeyword": "why does blood pressure jump when standing up after 70",
+    "topicCluster": "symptoms-age-specific-bp",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-09T07:53:38.971Z"
+  },
+  {
+    "title": "Best Breathing Exercises for BP at Night",
+    "description": "Just 5 minutes of paced breathing drops nighttime diastolic pressure by 4.7 mmHg — find out how.",
+    "primaryKeyword": "breathing exercises to lower blood pressure at night",
+    "topicCluster": "stress-sleep-bp",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-09T07:53:41.104Z"
+  },
+  {
+    "title": "Warning Signs Your BP Med Isn’t Working After 60",
+    "description": "If your morning BP stays above 145/90 despite meds, 62% of seniors need an adjustment — learn what to ask.",
+    "primaryKeyword": "warning signs blood pressure medicine isn’t working after 60",
+    "topicCluster": "medication-effects-bp",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-09T07:53:43.283Z"
+  },
+  {
+    "title": "Does Humidity Raise Blood Pressure in Winter?",
+    "description": "Indoor humidity under 30% raises systolic BP by 8.1 mmHg in cold months — discover the sweet spot.",
+    "primaryKeyword": "does low humidity raise blood pressure in winter",
+    "topicCluster": "seasonal-weather-bp",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-09T07:53:45.798Z"
+  },
+  {
+    "title": "How to Lower BP Without Medication After 55",
+    "description": "Lifestyle-only changes lowered BP by 11.3 mmHg in 12 weeks for 68% of adults 55–74 — learn how.",
+    "primaryKeyword": "how to lower blood pressure without medication after 55",
+    "topicCluster": "lifestyle-non-medical-bp",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-09T07:53:47.959Z"
+  },
+  {
+    "title": "Can Deep Sleep Lower Blood Pressure Naturally?",
+    "description": "Adults who get 7+ hours of deep sleep average 9.4 mmHg lower systolic BP — discover how to improve it.",
+    "primaryKeyword": "can deep sleep lower blood pressure naturally",
+    "topicCluster": "sleep-bp",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-09T07:53:50.150Z"
+  },
+  {
+    "title": "Best BP-Friendly Foods for Women After Menopause",
+    "description": "Postmenopausal women who ate potassium-rich foods 5x/week saw 7.2 mmHg lower diastolic BP — find out which foods.",
+    "primaryKeyword": "best blood pressure foods for women after menopause",
+    "topicCluster": "diet-gender-bp",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-09T07:53:52.301Z"
+  },
+  {
+    "title": "What to Do When BP Drops Too Low at Night",
+    "description": "Nocturnal hypotension affects 1 in 4 adults over 65 — learn the 3 signs and what to adjust tonight.",
+    "primaryKeyword": "what to do when blood pressure drops too low at night",
+    "topicCluster": "sleep-bp-symptoms",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-09T07:53:54.454Z"
+  },
+  {
+    "title": "Does Caffeine Raise Blood Pressure in the Morning?",
+    "description": "One cup raises BP by 6.8 mmHg for 3 hours in 57% of adults over 50 — find out if you’re sensitive.",
+    "primaryKeyword": "does caffeine raise blood pressure in the morning",
+    "topicCluster": "diet-stimulants-bp",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-09T07:53:56.629Z"
+  },
+  {
+    "title": "How Often to Check BP at Home After 60",
+    "description": "Experts recommend twice daily for 7 days — this pattern catches 89% of hidden hypertension cases.",
+    "primaryKeyword": "how often check blood pressure at home after 60",
+    "topicCluster": "monitoring-home-bp",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-09T07:53:58.844Z"
+  },
+  {
+    "title": "Can Gardening Lower Blood Pressure for Seniors?",
+    "description": "30 minutes of light gardening lowered BP by 5.9 mmHg in adults 65–82 — discover the safest way to start.",
+    "primaryKeyword": "can gardening lower blood pressure for seniors",
+    "topicCluster": "exercise-bp",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-09T07:54:01.009Z"
+  },
+  {
+    "title": "Does Stress Raise BP More in Women Over 50?",
+    "description": "Yes — emotional stress spikes systolic BP 12.4 mmHg more in women 50–69 vs men same age — learn why.",
+    "primaryKeyword": "does stress raise blood pressure more in women over 50",
+    "topicCluster": "stress-gender-bp",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-09T07:54:03.170Z"
+  },
+  {
+    "title": "Foods That Lower BP Without Lowering Potassium",
+    "description": "These 4 foods lower BP without raising potassium — critical for 31% of seniors on ACE inhibitors.",
+    "primaryKeyword": "foods that lower blood pressure without raising potassium",
+    "topicCluster": "diet-medication-bp",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-09T07:54:05.370Z"
+  },
+  {
+    "title": "Best BP-Friendly Breakfasts for Newly Diagnosed",
+    "description": "Start your day right: 3 breakfasts shown to lower morning BP by 7.6 mmHg in first 30 days after diagnosis.",
+    "primaryKeyword": "best blood pressure friendly breakfasts for newly diagnosed",
+    "topicCluster": "diet-newly-diagnosed-bp",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-09T07:54:07.634Z"
+  },
+  {
+    "title": "Can Long Car Rides Raise Blood Pressure?",
+    "description": "Sitting over 2 hours raises BP by 9.3 mmHg in adults 60+ — learn 3 simple in-car moves to prevent it.",
+    "primaryKeyword": "can long car rides raise blood pressure after 60",
+    "topicCluster": "lifestyle-travel-bp",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-09T07:54:09.739Z"
   }
 ]

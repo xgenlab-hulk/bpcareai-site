@@ -1,23 +1,5 @@
 [
   {
-    "title": "Meal Planning for Active Seniors 35–50",
-    "description": "A realistic 5-day plan for busy 40-somethings with 30+ min daily movement—meets protein and fiber needs without prep burnout. Find out.",
-    "primaryKeyword": "meal plan for active seniors aged 35 50",
-    "topicCluster": "nutrition-diet-management",
-    "coreKeyword": "healthy eating for seniors",
-    "createdAt": "2026-05-09T04:20:57.180Z",
-    "score": 49.45,
-    "scheduledWeek": "2026-W20",
-    "perplexityQuestions": [
-      "What are the best sources of vitamin B12 for seniors over 70?",
-      "How much calcium and vitamin D do women over 65 really need daily?",
-      "Is it safe for seniors with dentures to eat high-fiber foods?",
-      "What meal plan works best for active seniors aged 35-50?",
-      "How can I increase protein intake without eating meat as a senior?"
-    ],
-    "competitorCoverage": "Top-ranking articles on 'healthy eating for seniors' universally emphasize unique nutritional needs like increased vitamin B12, D, calcium, and protein, while stressing fewer calories, hydration, and variety from all food groups to combat age-related issues like muscle loss and disease risk. They promote practical tips such as reading labels, planning meals ahead, choosing low-sodium/fat/sugar options, and using MyPlate guidelines tailored for 60+. To compete, a new article must include specific serving recommendations by age/gender, roadblock solutions like budget or prep time, and focus on colorful, fortified foods with doctor consultation prompts."
-  },
-  {
     "title": "Can You Eat High-Fiber Foods With Dentures?",
     "description": "Yes—if you prep them right: 92% of denture wearers tolerate fiber when cooked soft or blended. Get 5 safe recipes. Learn how.",
     "primaryKeyword": "is it safe for seniors with dentures to eat high fiber foods",
@@ -25,24 +7,6 @@
     "coreKeyword": "healthy eating for seniors",
     "createdAt": "2026-05-09T04:20:57.180Z",
     "score": 49.45,
-    "scheduledWeek": "2026-W20",
-    "perplexityQuestions": [
-      "What are the best sources of vitamin B12 for seniors over 70?",
-      "How much calcium and vitamin D do women over 65 really need daily?",
-      "Is it safe for seniors with dentures to eat high-fiber foods?",
-      "What meal plan works best for active seniors aged 35-50?",
-      "How can I increase protein intake without eating meat as a senior?"
-    ],
-    "competitorCoverage": "Top-ranking articles on 'healthy eating for seniors' universally emphasize unique nutritional needs like increased vitamin B12, D, calcium, and protein, while stressing fewer calories, hydration, and variety from all food groups to combat age-related issues like muscle loss and disease risk. They promote practical tips such as reading labels, planning meals ahead, choosing low-sodium/fat/sugar options, and using MyPlate guidelines tailored for 60+. To compete, a new article must include specific serving recommendations by age/gender, roadblock solutions like budget or prep time, and focus on colorful, fortified foods with doctor consultation prompts."
-  },
-  {
-    "title": "5 Low-Sodium Soups That Lower BP at Night",
-    "description": "One bowl cuts nighttime systolic by up to 8 mmHg — discover easy, no-cook recipes for seniors.",
-    "primaryKeyword": "low sodium soups to lower blood pressure at night",
-    "topicCluster": "nutrition-diet-management",
-    "coreKeyword": "healthy eating for seniors",
-    "createdAt": "2026-05-09T04:20:57.180Z",
-    "score": 48.45,
     "scheduledWeek": "2026-W20",
     "perplexityQuestions": [
       "What are the best sources of vitamin B12 for seniors over 70?",
