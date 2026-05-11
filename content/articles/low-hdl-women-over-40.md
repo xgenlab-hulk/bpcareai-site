@@ -1,16 +1,21 @@
 ---
-title: >-
-  What Causes Low HDL in Women Over 40? (Hormones, Stress & More)
+title: 'What Causes Low HDL in Women Over 40? (Hormones, Stress & More)'
 slug: low-hdl-women-over-40
 description: >-
-  What causes low HDL in women over 40? Estrogen drop cuts HDL by ~40% — plus stress, high triglycerides (blood fat), and inactivity. See what you can change now.
+  What causes low HDL in women over 40? Estrogen drop cuts HDL by ~40% — plus
+  stress, high triglycerides (blood fat), and inactivity. See what you can
+  change now.
 date: '2026-05-04'
 updated: '2026-05-04'
-primaryKeyword: >-
-  what causes low HDL in women over 40
+primaryKeyword: what causes low HDL in women over 40
 topicCluster: cardiovascular-health
 image: ''
-relatedSlugs: []
+relatedSlugs:
+  - ldl-target-55-year-old-woman
+  - stress-high-blood-sugar-women-over-35
+  - normal-cholesterol-level-35-year-old-woman
+  - cholesterol-ed-after-40
+  - best-cholesterol-meds-women-menopause
 ---
 
 # What Causes Low HDL in Women Over 40? (Hormones, Stress & More)

@@ -1,20 +1,22 @@
 ---
-title: >-
-  How to Lower Triglycerides Over 200 at 55 — Proven Plan
+title: How to Lower Triglycerides Over 200 at 55 — Proven Plan
 slug: lower-triglycerides-over-200-at-55
 description: >-
-  How to lower triglycerides over 200 at 55: Lose just 5% body weight to drop levels by 20% (JAMA, 2021). Cut sugar to ≤25g/day & walk 150 min/week. Start today.
+  How to lower triglycerides over 200 at 55: Lose just 5% body weight to drop
+  levels by 20% (JAMA, 2021). Cut sugar to ≤25g/day & walk 150 min/week. Start
+  today.
 date: '2026-05-06'
 updated: '2026-05-06'
-primaryKeyword: >-
-  how to lower triglycerides over 200 at 55
+primaryKeyword: how to lower triglycerides over 200 at 55
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
     quick-ways-to-lower-post-holiday-triglycerides-without-fasting-especially-for-sedentary-adults-over-75
-  - >-
-    exercises-lower-cholesterol-after-50
+  - exercises-lower-cholesterol-after-50
+  - how-quickly-diet-lower-cholesterol-after-35
+  - foods-lower-cholesterol-fast-after-60
+  - heart-attack-cholesterol-under-200
 ---
 
 # How to Lower Triglycerides Over 200 at 55 — Proven Plan

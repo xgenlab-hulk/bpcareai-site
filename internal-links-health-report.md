@@ -1,12 +1,12 @@
 # 内链健康分析报告
-**生成时间**: 2026/5/4 05:29:42
+**生成时间**: 2026/5/11 05:53:56
 
 ## 一、总体健康度
 
-- **总文章数**: 2054
-- **符合要求** (3-5个内链): 2054 篇 (100.0%)
+- **总文章数**: 2073
+- **符合要求** (3-5个内链): 2073 篇 (100.0%)
 - **平均内链数**: 4.99
-- **双向链接覆盖率**: 51.6%
+- **双向链接覆盖率**: 51.1%
 
 ### 健康评分: 65/100
 
@@ -17,24 +17,24 @@
 | 内链数量 | 文章数 | 占比 | 状态 |
 |---------|--------|------|------|
 | 3 | 5 | 0.2% | ✅ 符合要求 |
-| 4 | 4 | 0.2% | ✅ 符合要求 |
-| 5 | 2045 | 99.6% | ✅ 符合要求 |
+| 4 | 6 | 0.3% | ✅ 符合要求 |
+| 5 | 2062 | 99.5% | ✅ 符合要求 |
 
 ## 三、孤岛文章分析
 
-⚠️ 发现 **133** 篇孤岛文章（无其他文章链接到它）：
+⚠️ 发现 **136** 篇孤岛文章（无其他文章链接到它）：
 
 - heart-rate-variability-explained
 - heart-disease-in-hispanic-adults-over-50-unique-risk-factors
 - a-guide-to-allergen-friendly-family-meals-for-mixed-diet-households
 - how-strong-are-your-fingernails-what-it-might-say-about-your-heart
-- best-low-impact-exercises-for-managing-diabetes-after-60
 - the-truth-about-cheating-on-your-diet-during-family-celebrations
 - easy-heart-healthy-holiday-appetizers-under-150-calories
 - can-shoveling-snow-trigger-a-heart-event-in-older-adults
 - what-your-blood-pressure-numbers-mean-after-a-stroke-new-targets-and-redefining-normal-for-recovery
 - how-alcohol-free-mocktails-can-lower-blood-pressure-in-women-over-55-during-new-year-s-gatherings
-- ...及其他 123 篇
+- 12-science-backed-ways-to-reduce-alcohol-induced-cardiac-stress-even-if-you-re-not-drinking
+- ...及其他 126 篇
 
 ## 四、TopicCluster 连通性
 
@@ -1617,7 +1617,6 @@
 | pancreatic-cell-resilience | 100.0% | ✅ 优秀 |
 | cerebrovascular-link | 100.0% | ✅ 优秀 |
 | symptoms-diagnosis | 100.0% | ✅ 优秀 |
-| circadian-sleep-health | 100.0% | ✅ 优秀 |
 | muscle-health-nutrition | 50.0% | ⚠️ 良好 |
 | hepatic-metabolism-diet | 50.0% | ⚠️ 良好 |
 | beverage-comparison-endothelial-health | 50.0% | ⚠️ 良好 |
@@ -1637,17 +1636,17 @@
 | medication-adherence-myths | 16.7% | ❌ 需改进 |
 | differential-diagnosis | 16.7% | ❌ 需改进 |
 | exercise-modality-comparison | 15.0% | ❌ 需改进 |
-| hypertension-management | 10.9% | ❌ 需改进 |
 | cardiac-diet | 10.7% | ❌ 需改进 |
-| lifestyle-interventions | 9.6% | ❌ 需改进 |
+| hypertension-management | 9.5% | ❌ 需改进 |
+| lifestyle-interventions | 8.4% | ❌ 需改进 |
 | diabetes-lifestyle | 8.3% | ❌ 需改进 |
 | emotional-mental-health | 8.3% | ❌ 需改进 |
-| diabetes-management | 7.1% | ❌ 需改进 |
-| nutrition-diet-management | 6.5% | ❌ 需改进 |
+| diabetes-management | 6.5% | ❌ 需改进 |
 | hypertension-lifestyle | 6.3% | ❌ 需改进 |
+| nutrition-diet-management | 5.7% | ❌ 需改进 |
+| cardiovascular-health | 4.3% | ❌ 需改进 |
 | natural-remedies | 4.2% | ❌ 需改进 |
 | heart-health | 4.0% | ❌ 需改进 |
-| cardiovascular-health | 3.8% | ❌ 需改进 |
 | emergency-symptoms | 3.8% | ❌ 需改进 |
 | cardiovascular-risk | 3.3% | ❌ 需改进 |
 | diet-nutrition | 1.8% | ❌ 需改进 |
@@ -1697,10 +1696,11 @@
 | environmental-cardiovascular-risk | 0.0% | ❌ 需改进 |
 | glucose-monitoring-comparison | 0.0% | ❌ 需改进 |
 | scenario-specific | 0.0% | ❌ 需改进 |
+| circadian-sleep-health | 0.0% | ❌ 需改进 |
 
 ## 五、过度链接文章
 
-⚠️ 发现 **174** 篇文章被链接次数过多（>10次）：
+⚠️ 发现 **176** 篇文章被链接次数过多（>10次）：
 
 - are-sugar-free-treats-actually-safe-for-diabetics-over-65
 - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
@@ -1846,6 +1846,7 @@
 - instant-oatmeal-endothelial-function-seniors
 - low-sodium-soup-potassium-chloride-ckdseniors
 - post-dinner-fatigue-orthostatic-hypotension
+- 7-silent-signs-your-feet-are-sending-early-warnings-of-diabetic-neuropathy-especially-if-you-ve-had-t2d-for-12-years
 - normalize-postprandial-glucose-within-45-minutes
 - 7-holiday-foods-that-spike-postprandial-glucose-without-tasting-sweet-especially-for-adults-63-with-long-standing-type-2-diabetes
 - how-late-night-cookie-binges-alter-hepatic-gluconeogenesis-rhythms-in-adults-58-66-with-prediabetes-and-why-it-matters-for-fasting-glucose-stability
@@ -1875,13 +1876,14 @@
 - high-cholesterol-fatigue-after-35
 - strength-exercises-women-over-65
 - exercise-at-65-weekly-plan
+- low-impact-exercise-blood-pressure-seniors
 - foods-lower-cholesterol-naturally-after-50
 
 ## 六、优化建议
 
-2. **消除孤岛文章**: 133 篇文章没有被其他文章链接，建议通过双向链接优化改善
-3. **提升双向链接覆盖率**: 当前为 51.6%，建议目标 >60%
-4. **改善Cluster连通性**: 75 个主题集群内部连通性低于50%
+2. **消除孤岛文章**: 136 篇文章没有被其他文章链接，建议通过双向链接优化改善
+3. **提升双向链接覆盖率**: 当前为 51.1%，建议目标 >60%
+4. **改善Cluster连通性**: 76 个主题集群内部连通性低于50%
 
 ---
 *本报告由 BPCare AI 内链分析系统自动生成*
