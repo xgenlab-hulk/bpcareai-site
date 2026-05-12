@@ -1,24 +1,20 @@
 ---
-title: >-
-  How Often to Check Blood Sugar on Metformin at 55
+title: How Often to Check Blood Sugar on Metformin at 55
 slug: check-blood-sugar-metformin-55
 description: >-
-  How often check blood sugar on metformin at 55? ADA says 1–2 fasting checks/week for stable patients — not daily. A1C target: 7.0–7.
+  How often check blood sugar on metformin at 55? ADA says 1–2 fasting
+  checks/week for stable patients — not daily. A1C target: 7.0–7.
 date: '2026-04-09'
 updated: '2026-04-09'
-primaryKeyword: >-
-  how often check blood sugar on metformin at 55
+primaryKeyword: how often check blood sugar on metformin at 55
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
-  - >-
-    check-fasting-blood-sugar-at-40
-  - >-
-    how-often-should-adults-over-55-monitor-blood-sugar-at-home
-  - >-
-    how-often-should-adults-over-50-check-their-blood-pressure
-  - >-
-    what-a1c-too-high-50-year-old
+  - check-fasting-blood-sugar-at-40
+  - how-often-should-adults-over-55-monitor-blood-sugar-at-home
+  - how-often-should-adults-over-50-check-their-blood-pressure
+  - what-a1c-too-high-50-year-old
+  - check-blood-sugar-without-fasting-at-55
 ---
 
 # How Often to Check Blood Sugar on Metformin at 55

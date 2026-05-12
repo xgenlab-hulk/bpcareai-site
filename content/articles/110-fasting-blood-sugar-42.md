@@ -14,6 +14,7 @@ relatedSlugs:
   - is-180-after-meals-normal-55-type-2
   - blood-sugar-friendly-breakfasts-prediabetes
   - 140-90-blood-pressure-diabetes-45
+  - check-blood-sugar-without-fasting-at-55
 ---
 
 # Is 110 Fasting Blood Sugar Dangerous at 42? (Prediabetes Alert)
