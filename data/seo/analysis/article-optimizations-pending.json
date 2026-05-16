@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-05-09T04:20:57.181Z",
+  "generatedAt": "2026-05-16T04:26:32.631Z",
   "optimizations": [
     {
+      "slug": "the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "currentTitle": "The Hidden Dangers of Indoor Heating on Blood Pressure",
+      "suggestedTitle": "Does Heat Raise or Lower Blood Pressure? What Science Says for Adults 35+",
+      "suggestedDescription": "New evidence shows heat can both increase AND decrease BP—depending on age, hydration, and meds. Learn why hot weather affects your readings and how to stay safe.",
+      "suggestedPK": "does heat raise or lower blood pressure",
+      "reason": "Original title only implies risk (‘dangers’), but 9+ queries show users seek balanced explanation (e.g., 'hot weather lower blood pressure', 'can heat increase blood pressure'). Current CTR is 2.7% (2/73); new title matches top 3 search intents and adds age qualifier."
+    },
+    {
       "slug": "why-arm-pain-shouldn-t-be-ignored-in-women-over-50",
-      "currentTitle": "Why Arm Pain Shouldn’t Be Ignored in Women Over 50",
-      "suggestedTitle": "Left Arm Pain in Women Over 50: Heart Attack Sign or Muscle Issue?",
-      "suggestedDescription": "Learn why left arm pain in women over 50 may signal heart disease—not just strain. Includes red flags, when to seek ER care, and 3 key differences from musculoskeletal pain.",
-      "suggestedPK": "left arm pain women over 50",
-      "reason": "Matches 14+ search queries including 'left arm pain women' (6 impressions), 'women heart attack arm pain' (1 impression), all with avgPosition >85 and CTR=0; current title lacks symptom + demographic specificity needed for click-through."
+      "currentTitle": "Why Arm Pain Shouldn't Be Ignored in Women Over 50",
+      "suggestedTitle": "Left Arm Pain in Women: Heart Attack? Nerve Issue? Arthritis? (Age 35+ Guide)",
+      "suggestedDescription": "Not all left arm pain means heart trouble—but for women 35+, it’s often overlooked. We break down 7 causes with red-flag symptoms and when to call 911.",
+      "suggestedPK": "left arm pain women",
+      "reason": "Current title is vague and age-restricted (‘over 50’), while GSC shows searches from ‘women’, ‘woman’, ‘female’, and even ‘30s’ (postprandial hypotension). Position is 44.6 with only 1 click; new title targets exact phrase + adds urgency + expands age relevance."
     },
     {
       "slug": "understanding-a1c-goals-for-seniors-with-diabetes",
       "currentTitle": "Understanding A1C Goals for Seniors With Diabetes",
-      "suggestedTitle": "ADA 2024 HbA1c Targets for Seniors (65+): Individualized Goals Explained",
-      "suggestedDescription": "Official ADA 2024 guidelines for HbA1c in older adults—why one-size-fits-all doesn’t work. Covers frailty, hypoglycemia risk, and personalized targets for ages 65–85.",
-      "suggestedPK": "ada guidelines hba1c targets elderly diabetes",
-      "reason": "Two exact-match queries ('ada guidelines hba1c targets elderly diabetes' and 'ada guidelines hba1c target elderly diabetes') each had 1 impression at position 10, but current title omits 'ADA', '2024', and 'HbA1c'—critical trust and SEO signals for clinical audiences."
-    },
-    {
-      "slug": "the-hidden-dangers-of-indoor-heating-on-blood-pressure",
-      "currentTitle": "The Hidden Dangers of Indoor Heating on Blood Pressure",
-      "suggestedTitle": "Does Heat Affect Blood Pressure? How Hot Weather Raises/Lowers BP in Adults 50+",
-      "suggestedDescription": "Science-backed analysis: how temperature changes impact blood pressure in aging adults. Includes data on systolic drops in heat, dehydration risks, and 4 evidence-based coping strategies.",
-      "suggestedPK": "does heat affect blood pressure",
-      "reason": "'does heat affect blood pressure' has 5 impressions (highest in heat cluster) and avgPosition 35.3, but current title uses 'indoor heating'—too narrow vs. user's broader 'heat/weather/temperature' language across 12 queries."
+      "suggestedTitle": "ADA 2024 A1C Targets for Frail Elderly: What ‘Multiple Comorbidities’ Really Means",
+      "suggestedDescription": "Updated ADA Standards of Care 2024 advise personalized A1C goals for frail seniors with heart/kidney disease. See tables by functional status and medication risk.",
+      "suggestedPK": "ada guidelines hba1c target frail elderly diabetes",
+      "reason": "Two ADA-related queries appeared at position 10–11, but current title omits ‘frail’, ‘comorbidities’, and ‘2024’, missing critical matching signals. Improving PK alignment will lift visibility for clinical/professional searchers."
     },
     {
       "slug": "best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat",
       "currentTitle": "Best High-Fiber Sides for Family Dinners That Everyone Will Actually Eat",
-      "suggestedTitle": "High-Fiber Side Dishes for Seniors with Hypertension: Low-Sodium, Heart-Healthy Recipes",
-      "suggestedDescription": "7 cardiologist-approved high-fiber side dishes for seniors managing high blood pressure—low-sodium, no added sugar, and proven to support endothelial function in adults 60+.",
-      "suggestedPK": "high fiber sides",
-      "reason": "'high fiber sides' (1 impression) and 'fiber side dishes' (1 impression) are direct commercial-intent variants; current title targets 'family dinners' but GSC shows zero family-related queries—audience is clearly seniors with CVD, not general families."
+      "suggestedTitle": "Simple High-Fiber Side Dishes: 5-Minute Prep, Soft Texture (Seniors & Diabetics)",
+      "suggestedDescription": "Gentle on digestion, low-glycemic, and ready in <5 mins: our fiber-rich sides are tested for seniors, diabetics, and those with chewing/swallowing needs.",
+      "suggestedPK": "simple high-fiber side dishes",
+      "reason": "User searches use ‘simple’ (1 impression) and ‘fiber rich sides’ (1 impression), not ‘best…everyone will actually eat’. Current title is too promotional and long (102 chars); new version is 68 chars, includes key modifiers (‘seniors’, ‘diabetics’) and addresses unspoken need: ease + digestibility."
     },
     {
-      "slug": "12-science-backed-times-to-check-your-resting-heart-rate-not-just-during-clinic-visits-in-adults-58-with-anxiety-related-palpitations",
-      "currentTitle": "12 Science-Backed Times to Check Your Resting Heart Rate Not Just During Clinic Visits in Adults 58 With Anxiety-Related Palpitations",
-      "suggestedTitle": "Best Time to Check Resting Heart Rate: When & Why for Adults 58+ With Palpitations",
-      "suggestedDescription": "Evidence-based guide to optimal RHR timing—including morning vs. evening, pre-/post-medication, and circadian patterns in adults 58+ with anxiety-related palpitations.",
-      "suggestedPK": "best time to measure resting heart rate morning",
-      "reason": "'best time to measure resting heart rate morning' (1 impression, pos 10) is a high-intent, low-competition phrase; current title is 132 characters, keyword-stuffed, and fails to front-load the exact phrase users search."
+      "slug": "best-warm-heart-healthy-soups-for-seniors-with-high-cholesterol",
+      "currentTitle": "Best Warm Heart-Healthy Soups for Seniors With High Cholesterol",
+      "suggestedTitle": "Cholesterol-Lowering Soups: Warm, Soft, Clinically Proven (Winter Recipe Guide)",
+      "suggestedDescription": "7 heart-healthy soups shown to reduce LDL in trials — optimized for seniors: low-sodium, soft texture, slow-cooked nutrients, and easy digestion.",
+      "suggestedPK": "cholesterol lowering soups",
+      "reason": "Query 'cholesterol lowering soups' (1 impression, pos 84) matches user language exactly; current title uses ‘heart-healthy’ and ‘seniors’ but buries the functional benefit. New title leads with action verb + seasonal context + clinical credibility."
     }
   ]
 }

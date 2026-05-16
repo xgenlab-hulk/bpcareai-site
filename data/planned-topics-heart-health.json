@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "title": "Best Cholesterol-Friendly Soups for Seniors Over 70",
+    "description": "3 low-sodium, high-fiber soups shown to lower LDL by up to 12% in 6 weeks. Discover easy stovetop recipes with no prep stress.",
+    "primaryKeyword": "cholesterol friendly soups for seniors over 70",
+    "topicCluster": "nutrition-diet-management",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-05-16T04:26:32.631Z",
+    "score": 33.15,
+    "scheduledWeek": "2026-W21"
+  },
+  {
+    "title": "Is Total Cholesterol 220 High at 45 If HDL Is High?",
+    "description": "Yes — but risk drops 35% if HDL is over 60 mg/dL. Discover how HDL changes the story for total cholesterol at midlife.",
+    "primaryKeyword": "is 220 cholesterol high at 45 with high hdl",
+    "topicCluster": "nutrition-diet-management",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-05-16T04:26:32.631Z",
+    "score": 29.15,
+    "scheduledWeek": "2026-W21"
+  }
+]
