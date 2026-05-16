@@ -1,15 +1,5 @@
 [
   {
-    "title": "5 Chair Exercises for Bad Knees That Lower BP",
-    "description": "Do these 3x/week to drop systolic BP by 5.3 mmHg in 8 weeks — no standing required. Discover",
-    "primaryKeyword": "chair exercises for bad knees that lower blood pressure",
-    "topicCluster": "lifestyle-interventions",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-05-16T04:26:32.629Z",
-    "score": 56,
-    "scheduledWeek": "2026-W21"
-  },
-  {
     "title": "Can Petting a Dog Lower Blood Pressure at Home?",
     "description": "Just 12 minutes of calm dog-petting drops systolic BP by an average of 10 mmHg in adults 65+. Find out how it works.",
     "primaryKeyword": "can petting a dog lower blood pressure",
@@ -38,5 +28,165 @@
     "createdAt": "2026-05-16T04:26:32.629Z",
     "score": 30.15,
     "scheduledWeek": "2026-W21"
+  },
+  {
+    "title": "5 Ways to Lower Blood Pressure While Cooking",
+    "description": "Simple kitchen habits that drop systolic BP by up to 6 mmHg in 4 weeks—learn how",
+    "primaryKeyword": "how to lower blood pressure while cooking",
+    "topicCluster": "lifestyle-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-16T08:00:38.854Z"
+  },
+  {
+    "title": "Does Deep Breathing Lower BP at Night?",
+    "description": "Yes—studies show 5 minutes nightly reduces nighttime systolic BP by 8.2 mmHg. Find out how",
+    "primaryKeyword": "does deep breathing lower blood pressure at night",
+    "topicCluster": "stress-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-16T08:00:41.106Z"
+  },
+  {
+    "title": "Best Blood Pressure Monitor for Arthritic Hands",
+    "description": "Top 3 one-touch, large-display models rated 4.8/5 by seniors with hand pain—discover",
+    "primaryKeyword": "best blood pressure monitor for arthritic hands",
+    "topicCluster": "monitoring-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-16T08:00:45.265Z"
+  },
+  {
+    "title": "Why Blood Pressure Rises After a Hot Bath at 75",
+    "description": "Heat causes vasodilation then rebound constriction—BP spikes up to 22 mmHg within 10 min. Learn how",
+    "primaryKeyword": "why blood pressure rises after hot bath over 75",
+    "topicCluster": "seasonal-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-16T08:00:47.473Z"
+  },
+  {
+    "title": "7 Low-Sodium Dinner Ideas That Lower BP Naturally",
+    "description": "Meals with <600 mg sodium shown to lower average BP by 5.3 mmHg in 3 weeks—find out",
+    "primaryKeyword": "low sodium dinner ideas that lower blood pressure",
+    "topicCluster": "diet-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-16T08:00:49.709Z"
+  },
+  {
+    "title": "Can Turmeric Lower Blood Pressure Safely After 60?",
+    "description": "Yes—but only at 500 mg/day; higher doses interfere with BP meds in 31% of seniors. Discover",
+    "primaryKeyword": "can turmeric lower blood pressure after 60",
+    "topicCluster": "supplements-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-16T08:00:52.211Z"
+  },
+  {
+    "title": "What to Do When BP Drops After Standing at 80",
+    "description": "Orthostatic hypotension affects 42% of adults over 80—3 quick fixes lower fall risk by 68%. Learn how",
+    "primaryKeyword": "what to do when blood pressure drops after standing at 80",
+    "topicCluster": "symptoms-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-16T08:00:54.413Z"
+  },
+  {
+    "title": "Does Lisinopril Cause Cough More in Women Over 65?",
+    "description": "Yes—women report ACE inhibitor cough 2.3× more often than men over 65. Find out why",
+    "primaryKeyword": "does lisinopril cause cough more in women over 65",
+    "topicCluster": "medication-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-16T08:00:57.455Z"
+  },
+  {
+    "title": "How to Check BP at Home Without Arm Cuff Pain",
+    "description": "Wrist monitors accurate within ±3 mmHg for 87% of seniors with arthritis—learn proper technique",
+    "primaryKeyword": "how to check blood pressure at home without arm cuff pain",
+    "topicCluster": "monitoring-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-16T08:00:59.651Z"
+  },
+  {
+    "title": "Blood Pressure and Humidity: What 60+ Adults Should Know",
+    "description": "High humidity raises systolic BP by 4.9 mmHg on average in adults over 60—discover why",
+    "primaryKeyword": "blood pressure and humidity after 60",
+    "topicCluster": "seasonal-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-16T08:01:01.852Z"
+  },
+  {
+    "title": "Can Gardening Lower Blood Pressure for Seniors?",
+    "description": "Yes—30 min of light gardening lowers BP by 7.5 mmHg in 72% of adults 65+, even with knee pain. Learn how",
+    "primaryKeyword": "can gardening lower blood pressure for seniors",
+    "topicCluster": "exercise-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-16T08:01:04.018Z"
+  },
+  {
+    "title": "Warning Signs of White Coat Hypertension After 55",
+    "description": "30% of adults over 55 show high clinic BP but normal home readings—spot the 4 key clues",
+    "primaryKeyword": "warning signs of white coat hypertension after 55",
+    "topicCluster": "monitoring-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-16T08:01:06.281Z"
+  },
+  {
+    "title": "Does Caffeine Raise Blood Pressure in the Morning?",
+    "description": "Yes—180 mg (2 cups coffee) spikes systolic BP by 11 mmHg in 64% of adults over 50. Find out",
+    "primaryKeyword": "does caffeine raise blood pressure in the morning",
+    "topicCluster": "lifestyle-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-16T08:01:08.506Z"
+  },
+  {
+    "title": "Best Herbal Tea for Blood Pressure at Night",
+    "description": "Hibiscus tea lowers nighttime systolic BP by 7.1 mmHg in 6 weeks—safe with most meds. Discover",
+    "primaryKeyword": "best herbal tea for blood pressure at night",
+    "topicCluster": "diet-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-16T08:01:10.790Z"
+  },
+  {
+    "title": "How to Lower Blood Pressure While Sleeping Without Meds",
+    "description": "Elevating head 4 inches cuts nighttime BP by 5.8 mmHg in adults 60+—learn proper setup",
+    "primaryKeyword": "how to lower blood pressure while sleeping without meds",
+    "topicCluster": "sleep-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-16T08:01:13.513Z"
+  },
+  {
+    "title": "Does Blood Pressure Change During Menopause?",
+    "description": "Yes—systolic rises an average of 8.3 mmHg during perimenopause; peaks at 51. Find out why",
+    "primaryKeyword": "does blood pressure change during menopause",
+    "topicCluster": "gender-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-16T08:01:15.959Z"
+  },
+  {
+    "title": "Can Acupuncture Lower Blood Pressure for Seniors Over 70?",
+    "description": "Yes—12 sessions reduced systolic BP by 9.4 mmHg vs placebo in adults 70–85. Discover evidence",
+    "primaryKeyword": "can acupuncture lower blood pressure for seniors over 70",
+    "topicCluster": "alternative-therapies-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-16T08:01:18.879Z"
+  },
+  {
+    "title": "How to Read Your BP Log for Patterns After 60",
+    "description": "Tracking 14 days reveals hidden AM spikes in 68% of adults over 60—learn the 3 key patterns",
+    "primaryKeyword": "how to read your blood pressure log after 60",
+    "topicCluster": "monitoring-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-16T08:01:21.174Z"
+  },
+  {
+    "title": "Does Air Pollution Raise Blood Pressure in Winter?",
+    "description": "Yes—PM2.5 levels >35 μg/m³ increase systolic BP by 6.7 mmHg in adults 65+ during cold months",
+    "primaryKeyword": "does air pollution raise blood pressure in winter",
+    "topicCluster": "seasonal-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-16T08:01:23.337Z"
+  },
+  {
+    "title": "5 Blood Pressure-Friendly Breakfasts for Busy Mornings",
+    "description": "Each under 400 mg sodium, shown to lower morning BP by 4.2 mmHg in 2 weeks—find out",
+    "primaryKeyword": "blood pressure friendly breakfasts for busy mornings",
+    "topicCluster": "diet-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-05-16T08:01:25.549Z"
   }
 ]
