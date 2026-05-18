@@ -1,41 +1,5 @@
 [
   {
-    "title": "What Does LDL 160 Mean at 38 With No Risk Factors?",
-    "description": "An LDL of 160 mg/dL at age 38 raises 10-year heart risk by 1.8% — even with no other issues. Learn how to interpret your number.",
-    "primaryKeyword": "what does ldl 160 mean at 38",
-    "topicCluster": "testing-cholesterol-interpretation",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-05-16T04:26:32.629Z",
-    "score": 46,
-    "scheduledWeek": "2026-W21",
-    "perplexityQuestions": [
-      "Can cholesterol cause symptoms, or is high cholesterol usually silent in adults over 35?",
-      "What does LDL cholesterol 160 mean for a 38-year-old with no other risk factors?",
-      "Is total cholesterol 220 high at age 45 if my HDL is also high?",
-      "What does it mean if my triglycerides are 300 but my LDL is normal?",
-      "Is a cholesterol ratio of 5.5 dangerous after age 40?"
-    ],
-    "competitorCoverage": "The top-ranking cholesterol articles for adults usually explain what cholesterol is, the difference between LDL, HDL, triglycerides, and total cholesterol, and why high cholesterol raises heart attack and stroke risk. They also cover common causes, how often to test, lifestyle changes, and when medicines like statins are considered; a competitive article should add clear thresholds, nuance around risk beyond LDL alone, and practical guidance for people with family history, menopause, thyroid issues, or elevated triglycerides/ApoB."
-  },
-  {
-    "title": "Best Cholesterol-Friendly Soups for Seniors Over 70",
-    "description": "3 low-sodium, high-fiber soups shown to lower LDL by up to 12% in 6 weeks. Discover easy stovetop recipes with no prep stress.",
-    "primaryKeyword": "cholesterol friendly soups for seniors over 70",
-    "topicCluster": "nutrition-diet-management",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-05-16T04:26:32.629Z",
-    "score": 33.15,
-    "scheduledWeek": "2026-W21",
-    "perplexityQuestions": [
-      "Can cholesterol cause symptoms, or is high cholesterol usually silent in adults over 35?",
-      "What does LDL cholesterol 160 mean for a 38-year-old with no other risk factors?",
-      "Is total cholesterol 220 high at age 45 if my HDL is also high?",
-      "What does it mean if my triglycerides are 300 but my LDL is normal?",
-      "Is a cholesterol ratio of 5.5 dangerous after age 40?"
-    ],
-    "competitorCoverage": "The top-ranking cholesterol articles for adults usually explain what cholesterol is, the difference between LDL, HDL, triglycerides, and total cholesterol, and why high cholesterol raises heart attack and stroke risk. They also cover common causes, how often to test, lifestyle changes, and when medicines like statins are considered; a competitive article should add clear thresholds, nuance around risk beyond LDL alone, and practical guidance for people with family history, menopause, thyroid issues, or elevated triglycerides/ApoB."
-  },
-  {
     "title": "Is Total Cholesterol 220 High at 45 If HDL Is High?",
     "description": "Yes — but risk drops 35% if HDL is over 60 mg/dL. Discover how HDL changes the story for total cholesterol at midlife.",
     "primaryKeyword": "is 220 cholesterol high at 45 with high hdl",
