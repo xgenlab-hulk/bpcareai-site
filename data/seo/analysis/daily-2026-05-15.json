@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-15",
+  "period": "3-day",
+  "impressionsChange": 60.130718954248366,
+  "clicksChange": -100,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "soup to lower cholesterol",
+      "reason": "排名跃升 15.0 位（75.0 → 60.0）",
+      "score": 45,
+      "recentImpressions": 1,
+      "baselineImpressions": 2,
+      "recentPosition": 60,
+      "baselinePosition": 75
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "high fiber side dish",
+      "reason": "排名跃升 14.0 位（72.0 → 58.0）",
+      "score": 42,
+      "recentImpressions": 1,
+      "baselineImpressions": 2,
+      "recentPosition": 58,
+      "baselinePosition": 72
+    }
+  ]
+}
