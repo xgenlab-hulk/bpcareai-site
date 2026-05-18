@@ -1,18 +1,20 @@
 ---
-title: >-
-  Triglycerides 300 but LDL Normal? What to Do Next
+title: Triglycerides 300 but LDL Normal? What to Do Next
 slug: triglycerides-300-ldl-normal-what-to-do
 description: >-
-  Triglycerides 300 mg/dL (high) doubles pancreatitis risk—even with normal LDL. Learn insulin resistance signs (blood sugar may still be 'normal') and next.
+  Triglycerides 300 mg/dL (high) doubles pancreatitis risk—even with normal LDL.
+  Learn insulin resistance signs (blood sugar may still be 'normal') and next.
 date: '2026-05-17'
 updated: '2026-05-17'
-primaryKeyword: >-
-  triglycerides 300 but ldl normal what to do
+primaryKeyword: triglycerides 300 but ldl normal what to do
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
     myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio
+  - normal-cholesterol-level-35-year-old-woman
+  - is-180-after-meals-normal-55-type-2
+  - 220-cholesterol-age-35
 ---
 
 # Triglycerides 300 but LDL Normal? What to Do Next

@@ -1,20 +1,23 @@
 ---
-title: >-
-  Does Metformin Cause Leg Cramps at Night After 60?
+title: Does Metformin Cause Leg Cramps at Night After 60?
 slug: metformin-leg-cramps-night-after-60
 description: >-
-  Metformin rarely causes nighttime leg cramps alone—only 3.2% of adults 60+ on metformin report them, usually with other factors like low B12 (vitamin B12.
+  Metformin rarely causes nighttime leg cramps alone—only 3.2% of adults 60+ on
+  metformin report them, usually with other factors like low B12 (vitamin B12.
 date: '2026-05-15'
 updated: '2026-05-15'
-primaryKeyword: >-
-  does metformin cause leg cramps at night after 60
+primaryKeyword: does metformin cause leg cramps at night after 60
 topicCluster: medication-safety
 image: ''
 relatedSlugs:
   - >-
     when-to-worry-about-unexplained-muscle-cramps-at-night-in-women-over-68-with-diabetes-and-diuretic-use
+  - blood-sugar-drops-at-night-after-70
+  - holiday-metformin-skipping-risks
   - >-
-    blood-sugar-drops-at-night-after-70
+    7-hidden-risks-of-long-term-metformin-use-in-adults-67-with-low-b12-elevated-methylmalonic-acid-and-subclinical-cognitive-slowing
+  - >-
+    what-causes-sudden-onset-of-nocturnal-diarrhea-after-switching-to-generic-metformin-er-in-adults-73-with-chronic-constipation-and-hypochlorhydria
 ---
 
 # Does Metformin Cause Leg Cramps at Night After 60?

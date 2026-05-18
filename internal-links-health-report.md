@@ -1,12 +1,12 @@
 # 内链健康分析报告
-**生成时间**: 2026/5/11 05:53:56
+**生成时间**: 2026/5/18 06:07:47
 
 ## 一、总体健康度
 
-- **总文章数**: 2073
-- **符合要求** (3-5个内链): 2073 篇 (100.0%)
+- **总文章数**: 2093
+- **符合要求** (3-5个内链): 2093 篇 (100.0%)
 - **平均内链数**: 4.99
-- **双向链接覆盖率**: 51.1%
+- **双向链接覆盖率**: 50.7%
 
 ### 健康评分: 65/100
 
@@ -16,13 +16,13 @@
 
 | 内链数量 | 文章数 | 占比 | 状态 |
 |---------|--------|------|------|
-| 3 | 5 | 0.2% | ✅ 符合要求 |
-| 4 | 6 | 0.3% | ✅ 符合要求 |
-| 5 | 2062 | 99.5% | ✅ 符合要求 |
+| 3 | 6 | 0.3% | ✅ 符合要求 |
+| 4 | 5 | 0.2% | ✅ 符合要求 |
+| 5 | 2082 | 99.5% | ✅ 符合要求 |
 
 ## 三、孤岛文章分析
 
-⚠️ 发现 **136** 篇孤岛文章（无其他文章链接到它）：
+⚠️ 发现 **139** 篇孤岛文章（无其他文章链接到它）：
 
 - heart-rate-variability-explained
 - heart-disease-in-hispanic-adults-over-50-unique-risk-factors
@@ -34,7 +34,7 @@
 - what-your-blood-pressure-numbers-mean-after-a-stroke-new-targets-and-redefining-normal-for-recovery
 - how-alcohol-free-mocktails-can-lower-blood-pressure-in-women-over-55-during-new-year-s-gatherings
 - 12-science-backed-ways-to-reduce-alcohol-induced-cardiac-stress-even-if-you-re-not-drinking
-- ...及其他 126 篇
+- ...及其他 129 篇
 
 ## 四、TopicCluster 连通性
 
@@ -1622,7 +1622,6 @@
 | beverage-comparison-endothelial-health | 50.0% | ⚠️ 良好 |
 | oral-motor-nutrition | 50.0% | ⚠️ 良好 |
 | exercise-physical-activity | 33.3% | ❌ 需改进 |
-| medication-safety | 33.3% | ❌ 需改进 |
 | environmental-risk-factors | 33.3% | ❌ 需改进 |
 | circadian-hypertension | 33.3% | ❌ 需改进 |
 | early-detection-symptoms | 33.3% | ❌ 需改进 |
@@ -1630,6 +1629,7 @@
 | diabetes-complications | 20.0% | ❌ 需改进 |
 | diabetes-nutrition | 18.1% | ❌ 需改进 |
 | diabetic-diet | 16.7% | ❌ 需改进 |
+| medication-safety | 16.7% | ❌ 需改进 |
 | food-labeling-literacy | 16.7% | ❌ 需改进 |
 | circadian-metabolism | 16.7% | ❌ 需改进 |
 | monitoring-technology-comparison | 16.7% | ❌ 需改进 |
@@ -1637,15 +1637,15 @@
 | differential-diagnosis | 16.7% | ❌ 需改进 |
 | exercise-modality-comparison | 15.0% | ❌ 需改进 |
 | cardiac-diet | 10.7% | ❌ 需改进 |
-| hypertension-management | 9.5% | ❌ 需改进 |
-| lifestyle-interventions | 8.4% | ❌ 需改进 |
 | diabetes-lifestyle | 8.3% | ❌ 需改进 |
 | emotional-mental-health | 8.3% | ❌ 需改进 |
-| diabetes-management | 6.5% | ❌ 需改进 |
+| lifestyle-interventions | 7.9% | ❌ 需改进 |
+| hypertension-management | 7.6% | ❌ 需改进 |
+| diabetes-management | 6.6% | ❌ 需改进 |
 | hypertension-lifestyle | 6.3% | ❌ 需改进 |
-| nutrition-diet-management | 5.7% | ❌ 需改进 |
-| cardiovascular-health | 4.3% | ❌ 需改进 |
+| nutrition-diet-management | 5.2% | ❌ 需改进 |
 | natural-remedies | 4.2% | ❌ 需改进 |
+| cardiovascular-health | 4.2% | ❌ 需改进 |
 | heart-health | 4.0% | ❌ 需改进 |
 | emergency-symptoms | 3.8% | ❌ 需改进 |
 | cardiovascular-risk | 3.3% | ❌ 需改进 |
@@ -1700,7 +1700,7 @@
 
 ## 五、过度链接文章
 
-⚠️ 发现 **176** 篇文章被链接次数过多（>10次）：
+⚠️ 发现 **179** 篇文章被链接次数过多（>10次）：
 
 - are-sugar-free-treats-actually-safe-for-diabetics-over-65
 - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
@@ -1710,6 +1710,7 @@
 - best-blood-sugar-monitoring-practices-during-the-holiday-season
 - how-to-manage-portion-control-at-holiday-gatherings-when-you-re-over-60
 - the-hidden-link-between-holiday-stress-and-irregular-heartbeat
+- could-your-medications-be-raising-your-blood-pressure
 - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
 - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
@@ -1832,6 +1833,7 @@
 - 7-hidden-sodium-traps-in-traditional-holiday-gravies-and-stuffings-even-when-you-skip-the-salt-shaker
 - simple-steps-to-lower-central-aortic-pressure-in-just-7-days-using-only-a-kitchen-scale-a-stopwatch-and-your-morning-tea-ritual
 - 7-silent-signs-your-blood-pressure-is-spiking-during-hot-summer-mornings-even-with-normal-home-readings
+- natural-baroreflex-sensitivity-enhancement
 - natural-ways-to-support-postprandial-vagal-tone-without-supplements-using-only-holiday-meal-timing-seating-posture-and-breath-counting-in-adults-69
 - aortic-pulse-wave-velocity-reduction
 - does-daily-10-minute-post-dinner-walking-really-lower-next-morning-fasting-glucose-in-adults-64-with-morning-only-hyperglycemia
@@ -1877,12 +1879,13 @@
 - strength-exercises-women-over-65
 - exercise-at-65-weekly-plan
 - low-impact-exercise-blood-pressure-seniors
+- blood-sugar-friendly-foods-seniors
 - foods-lower-cholesterol-naturally-after-50
 
 ## 六、优化建议
 
-2. **消除孤岛文章**: 136 篇文章没有被其他文章链接，建议通过双向链接优化改善
-3. **提升双向链接覆盖率**: 当前为 51.1%，建议目标 >60%
+2. **消除孤岛文章**: 139 篇文章没有被其他文章链接，建议通过双向链接优化改善
+3. **提升双向链接覆盖率**: 当前为 50.7%，建议目标 >60%
 4. **改善Cluster连通性**: 76 个主题集群内部连通性低于50%
 
 ---
