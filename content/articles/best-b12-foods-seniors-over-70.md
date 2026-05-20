@@ -1,22 +1,19 @@
 ---
-title: >-
-  Best B12 Foods for Seniors Over 70 — Doctor-Approved List
+title: Best B12 Foods for Seniors Over 70 — Doctor-Approved List
 slug: best-b12-foods-seniors-over-70
 description: >-
-  Best b12 foods for seniors over 70: fortified cereal (2.4 mcg/serving), clams (84 mcg/3 oz), and nutritional yeast.
+  Best b12 foods for seniors over 70: fortified cereal (2.4 mcg/serving), clams
+  (84 mcg/3 oz), and nutritional yeast.
 date: '2026-05-12'
 updated: '2026-05-12'
-primaryKeyword: >-
-  best b12 foods for seniors over 70
+primaryKeyword: best b12 foods for seniors over 70
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
-  - >-
-    calcium-rich-foods-without-dairy-seniors
-  - >-
-    brain-boosting-foods-adults-75-plus
-  - >-
-    nutrient-dense-foods-low-appetite-seniors
+  - calcium-rich-foods-without-dairy-seniors
+  - brain-boosting-foods-adults-75-plus
+  - nutrient-dense-foods-low-appetite-seniors
+  - best-protein-foods-seniors-over-50
 ---
 
 # Best B12 Foods for Seniors Over 70 — Doctor-Approved List
