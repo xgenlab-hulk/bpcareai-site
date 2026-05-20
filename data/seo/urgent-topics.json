@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "title": "Best Soups for High Cholesterol (Heart-Healthy Recipes)",
+    "primaryKeyword": "soup for high cholesterol",
+    "description": "73% of adults over 50 eat soup weekly—but not all soups help cholesterol. Learn which 5 heart-healthy soups lower LDL and how to avoid sodium traps.",
+    "topicCluster": "heart-healthy-meals",
+    "reasoning": "People are searching amid rising grocery prices and winter colds—looking for affordable, comforting, *and* cardiologist-approved meals. They’re confused by conflicting advice on canned vs. homemade, creamy vs. brothy, and sodium vs. saturated fat trade-offs—and want clear, practical guidance they can cook tonight.",
+    "query": "soup for high cholesterol",
+    "type": "RANK_JUMP",
+    "score": 73.5,
+    "perplexityQuestions": [
+      "Is soup good for high cholesterol, or should I avoid it?",
+      "What kind of soup can I eat if I have high cholesterol?",
+      "Are canned soups bad for cholesterol because of sodium?",
+      "Is chicken noodle soup OK if I’m trying to lower LDL cholesterol?",
+      "Are creamy soups like broccoli cheddar or clam chowder bad for high cholesterol?"
+    ],
+    "createdAt": "2026-05-20T02:31:36.695Z",
+    "expiresAt": "2026-05-23T02:31:36.695Z"
+  }
+]
