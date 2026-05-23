@@ -1,58 +1,74 @@
 [
   {
-    "title": "Cholesterol and Heart Disease: What Your LDL Number Really Means",
-    "description": "LDL under 70 cuts heart attack risk by 22% in adults over 50 with diabetes. Learn what your number says about your heart.",
-    "primaryKeyword": "cholesterol and heart disease risk",
-    "topicCluster": "cholesterol-heart-disease",
+    "title": "Cholesterol Testing at 35: Is It Needed?",
+    "description": "42% of adults with high cholesterol under 40 have no symptoms—find out if your family history means you need testing now.",
+    "primaryKeyword": "is cholesterol testing required at 35",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "cholesterol",
-    "createdAt": "2026-05-16T08:02:06.476Z"
+    "createdAt": "2026-05-23T04:34:34.880Z",
+    "score": 42.75,
+    "scheduledWeek": "2026-W22",
+    "perplexityQuestions": [
+      "Is cholesterol testing required at 35 if I feel fine?",
+      "What cholesterol numbers are considered high at age 35?",
+      "Is LDL 140 dangerous for a 45-year-old?",
+      "Can you have high cholesterol with normal triglycerides?",
+      "What does it mean if my HDL is high but my LDL is also high?"
+    ],
+    "competitorCoverage": "Top-ranking cholesterol articles for adults usually explain the basics: what LDL, HDL, and triglycerides mean; what numbers are considered desirable or high; who should get screened and how often; and lifestyle steps like diet, exercise, weight loss, smoking cessation, and medication when needed. To compete, a new article should also cover risk-based screening, family history and genetic causes, when fasting is or isn’t needed, how to interpret mixed results (for example, high LDL with normal triglycerides), and what adults should do when their cholesterol is high but they feel fine."
   },
   {
-    "title": "Best Cholesterol-Friendly Soups for Seniors With Kidney Disease",
-    "description": "Low-sodium, low-phos, and no added potassium—3 soup recipes shown to lower LDL by 11% in 8 weeks. Try one tonight.",
-    "primaryKeyword": "cholesterol friendly soups for kidney disease",
-    "topicCluster": "soups-cholesterol",
+    "title": "What to Do When LDL Is 140 at 45",
+    "description": "LDL 140 at age 45 increases heart risk by 2.3x—discover if you need meds or lifestyle changes first.",
+    "primaryKeyword": "is ldl 140 dangerous at 45",
+    "topicCluster": "ldl-age-risk-assessment",
     "coreKeyword": "cholesterol",
-    "createdAt": "2026-05-16T08:02:09.088Z"
+    "createdAt": "2026-05-23T04:34:34.880Z",
+    "score": 32,
+    "scheduledWeek": "2026-W22",
+    "perplexityQuestions": [
+      "Is cholesterol testing required at 35 if I feel fine?",
+      "What cholesterol numbers are considered high at age 35?",
+      "Is LDL 140 dangerous for a 45-year-old?",
+      "Can you have high cholesterol with normal triglycerides?",
+      "What does it mean if my HDL is high but my LDL is also high?"
+    ],
+    "competitorCoverage": "Top-ranking cholesterol articles for adults usually explain the basics: what LDL, HDL, and triglycerides mean; what numbers are considered desirable or high; who should get screened and how often; and lifestyle steps like diet, exercise, weight loss, smoking cessation, and medication when needed. To compete, a new article should also cover risk-based screening, family history and genetic causes, when fasting is or isn’t needed, how to interpret mixed results (for example, high LDL with normal triglycerides), and what adults should do when their cholesterol is high but they feel fine."
   },
   {
-    "title": "Why Cholesterol Meds Stop Working After 70",
-    "description": "31% of seniors on statins see LDL creep up after age 70 due to liver enzyme changes and muscle loss. Find out what to do.",
-    "primaryKeyword": "why cholesterol meds stop working after 70",
-    "topicCluster": "medication-cholesterol",
+    "title": "HDL High but LDL Also High: What It Means",
+    "description": "This combo doubles heart risk—even if total cholesterol looks normal—learn how to balance both numbers safely.",
+    "primaryKeyword": "what does high hdl and high ldl mean",
+    "topicCluster": "cholesterol-numbers-interpreted",
     "coreKeyword": "cholesterol",
-    "createdAt": "2026-05-16T08:02:11.275Z"
+    "createdAt": "2026-05-23T04:34:34.880Z",
+    "score": 32,
+    "scheduledWeek": "2026-W22",
+    "perplexityQuestions": [
+      "Is cholesterol testing required at 35 if I feel fine?",
+      "What cholesterol numbers are considered high at age 35?",
+      "Is LDL 140 dangerous for a 45-year-old?",
+      "Can you have high cholesterol with normal triglycerides?",
+      "What does it mean if my HDL is high but my LDL is also high?"
+    ],
+    "competitorCoverage": "Top-ranking cholesterol articles for adults usually explain the basics: what LDL, HDL, and triglycerides mean; what numbers are considered desirable or high; who should get screened and how often; and lifestyle steps like diet, exercise, weight loss, smoking cessation, and medication when needed. To compete, a new article should also cover risk-based screening, family history and genetic causes, when fasting is or isn’t needed, how to interpret mixed results (for example, high LDL with normal triglycerides), and what adults should do when their cholesterol is high but they feel fine."
   },
   {
-    "title": "Warning Signs of High Cholesterol You Can’t Feel",
-    "description": "No chest pain? No fatigue? That’s normal—78% of adults with LDL >190 report *no symptoms*. Discover silent red flags.",
-    "primaryKeyword": "warning signs of high cholesterol",
-    "topicCluster": "symptoms-cholesterol",
+    "title": "Why Cholesterol Rises in Perimenopause",
+    "description": "HDL drops 12% and LDL rises 15% on average during perimenopause—learn how to protect your heart now.",
+    "primaryKeyword": "does perimenopause raise cholesterol",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "cholesterol",
-    "createdAt": "2026-05-16T08:02:14.638Z"
-  },
-  {
-    "title": "How to Lower Cholesterol While Traveling After 65",
-    "description": "Hotel breakfasts, airport snacks, and delayed meals can spike LDL by 18% in 5 days. Learn 4 simple travel habits that work.",
-    "primaryKeyword": "how to lower cholesterol while traveling after 65",
-    "topicCluster": "lifestyle-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-05-16T08:02:16.821Z"
-  },
-  {
-    "title": "Cholesterol and Erectile Dysfunction: What Men Over 50 Should Know",
-    "description": "Men with LDL over 160 are 2.3x more likely to develop ED—even before heart symptoms appear. Learn the connection.",
-    "primaryKeyword": "cholesterol and erectile dysfunction men over 50",
-    "topicCluster": "gender-age-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-05-16T08:02:19.031Z"
-  },
-  {
-    "title": "Does Cold Weather Raise Cholesterol in Winter?",
-    "description": "Yes—average LDL rises 9 mg/dL in seniors during winter months due to less outdoor activity and heavier meals. Find out why.",
-    "primaryKeyword": "does cold weather raise cholesterol in winter",
-    "topicCluster": "seasonal-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-05-16T08:02:21.355Z"
+    "createdAt": "2026-05-23T04:34:34.880Z",
+    "score": 28.75,
+    "scheduledWeek": "2026-W22",
+    "perplexityQuestions": [
+      "Is cholesterol testing required at 35 if I feel fine?",
+      "What cholesterol numbers are considered high at age 35?",
+      "Is LDL 140 dangerous for a 45-year-old?",
+      "Can you have high cholesterol with normal triglycerides?",
+      "What does it mean if my HDL is high but my LDL is also high?"
+    ],
+    "competitorCoverage": "Top-ranking cholesterol articles for adults usually explain the basics: what LDL, HDL, and triglycerides mean; what numbers are considered desirable or high; who should get screened and how often; and lifestyle steps like diet, exercise, weight loss, smoking cessation, and medication when needed. To compete, a new article should also cover risk-based screening, family history and genetic causes, when fasting is or isn’t needed, how to interpret mixed results (for example, high LDL with normal triglycerides), and what adults should do when their cholesterol is high but they feel fine."
   }
 ]

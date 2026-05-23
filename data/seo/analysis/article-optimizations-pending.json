@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-05-16T04:26:32.631Z",
+  "generatedAt": "2026-05-23T04:34:34.881Z",
   "optimizations": [
-    {
-      "slug": "the-hidden-dangers-of-indoor-heating-on-blood-pressure",
-      "currentTitle": "The Hidden Dangers of Indoor Heating on Blood Pressure",
-      "suggestedTitle": "Does Heat Raise or Lower Blood Pressure? What Science Says for Adults 35+",
-      "suggestedDescription": "New evidence shows heat can both increase AND decrease BP—depending on age, hydration, and meds. Learn why hot weather affects your readings and how to stay safe.",
-      "suggestedPK": "does heat raise or lower blood pressure",
-      "reason": "Original title only implies risk (‘dangers’), but 9+ queries show users seek balanced explanation (e.g., 'hot weather lower blood pressure', 'can heat increase blood pressure'). Current CTR is 2.7% (2/73); new title matches top 3 search intents and adds age qualifier."
-    },
     {
       "slug": "why-arm-pain-shouldn-t-be-ignored-in-women-over-50",
       "currentTitle": "Why Arm Pain Shouldn't Be Ignored in Women Over 50",
-      "suggestedTitle": "Left Arm Pain in Women: Heart Attack? Nerve Issue? Arthritis? (Age 35+ Guide)",
-      "suggestedDescription": "Not all left arm pain means heart trouble—but for women 35+, it’s often overlooked. We break down 7 causes with red-flag symptoms and when to call 911.",
-      "suggestedPK": "left arm pain women",
-      "reason": "Current title is vague and age-restricted (‘over 50’), while GSC shows searches from ‘women’, ‘woman’, ‘female’, and even ‘30s’ (postprandial hypotension). Position is 44.6 with only 1 click; new title targets exact phrase + adds urgency + expands age relevance."
+      "suggestedTitle": "Left Arm Pain in Women: Heart Attack Sign or Something Else?",
+      "suggestedDescription": "Left arm pain in women over 35 can signal heart attack—even without chest pain. Learn non-chest symptoms, when to seek ER care, and how menopause changes risk. Evidence-based guide.",
+      "suggestedPK": "left arm pain in women",
+      "reason": "Search term 'left arm pain in women' has 4 impressions (position 87.5), but current title doesn't include 'left arm' or 'heart attack' — missing top user intent. 28 related queries all center on urgency & gender specificity."
     },
     {
-      "slug": "understanding-a1c-goals-for-seniors-with-diabetes",
-      "currentTitle": "Understanding A1C Goals for Seniors With Diabetes",
-      "suggestedTitle": "ADA 2024 A1C Targets for Frail Elderly: What ‘Multiple Comorbidities’ Really Means",
-      "suggestedDescription": "Updated ADA Standards of Care 2024 advise personalized A1C goals for frail seniors with heart/kidney disease. See tables by functional status and medication risk.",
-      "suggestedPK": "ada guidelines hba1c target frail elderly diabetes",
-      "reason": "Two ADA-related queries appeared at position 10–11, but current title omits ‘frail’, ‘comorbidities’, and ‘2024’, missing critical matching signals. Improving PK alignment will lift visibility for clinical/professional searchers."
-    },
-    {
-      "slug": "best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat",
-      "currentTitle": "Best High-Fiber Sides for Family Dinners That Everyone Will Actually Eat",
-      "suggestedTitle": "Simple High-Fiber Side Dishes: 5-Minute Prep, Soft Texture (Seniors & Diabetics)",
-      "suggestedDescription": "Gentle on digestion, low-glycemic, and ready in <5 mins: our fiber-rich sides are tested for seniors, diabetics, and those with chewing/swallowing needs.",
-      "suggestedPK": "simple high-fiber side dishes",
-      "reason": "User searches use ‘simple’ (1 impression) and ‘fiber rich sides’ (1 impression), not ‘best…everyone will actually eat’. Current title is too promotional and long (102 chars); new version is 68 chars, includes key modifiers (‘seniors’, ‘diabetics’) and addresses unspoken need: ease + digestibility."
+      "slug": "the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "currentTitle": "The Hidden Dangers of Indoor Heating on Blood Pressure",
+      "suggestedTitle": "Does Heat Raise or Lower Blood Pressure? What Science Says",
+      "suggestedDescription": "Hot weather, space heaters, and humidity affect BP differently. We explain acute vs chronic effects, dehydration risks, and how to monitor safely — with CDC & AHA data.",
+      "suggestedPK": "does heat raise blood pressure",
+      "reason": "17 heat/BP queries exist (e.g., 'can heat cause high blood pressure', 'heat raises blood pressure'), yet current title uses vague 'hidden dangers' instead of matching exact question language; new title targets #1 user framing."
     },
     {
       "slug": "best-warm-heart-healthy-soups-for-seniors-with-high-cholesterol",
-      "currentTitle": "Best Warm Heart-Healthy Soups for Seniors With High Cholesterol",
-      "suggestedTitle": "Cholesterol-Lowering Soups: Warm, Soft, Clinically Proven (Winter Recipe Guide)",
-      "suggestedDescription": "7 heart-healthy soups shown to reduce LDL in trials — optimized for seniors: low-sodium, soft texture, slow-cooked nutrients, and easy digestion.",
-      "suggestedPK": "cholesterol lowering soups",
-      "reason": "Query 'cholesterol lowering soups' (1 impression, pos 84) matches user language exactly; current title uses ‘heart-healthy’ and ‘seniors’ but buries the functional benefit. New title leads with action verb + seasonal context + clinical credibility."
+      "currentTitle": "Best Warm Heart-Healthy Soups for Seniors with High Cholesterol",
+      "suggestedTitle": "7 Cholesterol-Lowering Soups Backed by Research",
+      "suggestedDescription": "These 7 warm, fiber-rich soups lower LDL cholesterol in clinical trials. Includes sodium-free options, cooking tips for seniors, and why broth matters for arterial health.",
+      "suggestedPK": "cholesterol lowering soup",
+      "reason": "'cholesterol lowering soup' (2 impressions, position 51) is the most common phrasing — current title buries 'cholesterol-lowering' in a 12-word phrase; new title is 47 chars, front-loads result + credibility."
+    },
+    {
+      "slug": "understanding-a1c-goals-for-seniors-with-diabetes",
+      "currentTitle": "Understanding A1C Goals for Seniors with Diabetes",
+      "suggestedTitle": "HbA1c Goal for Elderly Adults: Personalized Targets Explained",
+      "suggestedDescription": "What should HbA1c be for adults 70+? We break down ADA/ESKD guidelines for frailty, hypoglycemia risk, and dementia — with real-world adjustment examples.",
+      "suggestedPK": "hemoglobin a1c goal in elderly",
+      "reason": "'hemoglobin a1c goal in elderly' (1 impression, position 38) matches user’s exact medical terminology; current title uses 'seniors' and 'understanding' — too vague and non-transactional."
+    },
+    {
+      "slug": "improve-endothelial-function-without-exercise",
+      "currentTitle": "Improve Endothelial Function Without Exercise",
+      "suggestedTitle": "Vascular Endothelium Support Protocol: Non-Exercise Options",
+      "suggestedDescription": "Nitric oxide boosters, sleep hygiene, air quality control, and polyphenol timing — evidence-based endothelial support strategies for those unable to exercise.",
+      "suggestedPK": "best protocol for vascular endothelium support",
+      "reason": "'best protocol for vascular endothelium support' (1 impression, position 16) is a high-intent professional query; current title lacks 'protocol' and 'vascular', reducing relevance despite strong topical alignment."
     }
   ]
 }
