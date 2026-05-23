@@ -1,23 +1,5 @@
 [
   {
-    "title": "How Many Minutes of Exercise Per Week for a 65-Year-Old Beginner?",
-    "description": "Just 45 minutes weekly of low-impact activity (like chair marching) lowers blood pressure by 5.2 mmHg on average. Find out how.",
-    "primaryKeyword": "minutes of exercise per week for 65 year old beginner",
-    "topicCluster": "lifestyle-interventions",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-05-23T04:34:34.880Z",
-    "score": 68,
-    "scheduledWeek": "2026-W22",
-    "perplexityQuestions": [
-      "Is it safe to start exercising at 40, 50, or 60 if I’ve been sedentary for years?",
-      "How many minutes of exercise per week should a 65-year-old beginner do?",
-      "What’s the best exercise for seniors to lose belly fat after 60?",
-      "Can older adults do strength training every day, or how many rest days are needed?",
-      "What heart rate should seniors aim for during exercise?"
-    ],
-    "competitorCoverage": "Top-ranking articles on exercise for seniors usually cover the basic weekly activity targets, recommend a mix of aerobic, strength, balance, and flexibility work, and emphasize starting slowly with low-impact options like walking, chair exercises, water exercise, yoga, and tai chi. To compete, a new article should also address safety concerns, how to progress from sedentary to active, how to judge intensity, and which exercises are practical for common limitations such as balance problems, joint pain, or low stamina."
-  },
-  {
     "title": "Is Walking Enough Exercise for Seniors?",
     "description": "65% of adults 65+ rely only on walking—but adding 2 strength sessions weekly cuts fall risk by 34%. Find out if you need more.",
     "primaryKeyword": "is walking enough exercise for seniors",
@@ -34,5 +16,165 @@
       "What heart rate should seniors aim for during exercise?"
     ],
     "competitorCoverage": "Top-ranking articles on exercise for seniors usually cover the basic weekly activity targets, recommend a mix of aerobic, strength, balance, and flexibility work, and emphasize starting slowly with low-impact options like walking, chair exercises, water exercise, yoga, and tai chi. To compete, a new article should also address safety concerns, how to progress from sedentary to active, how to judge intensity, and which exercises are practical for common limitations such as balance problems, joint pain, or low stamina."
+  },
+  {
+    "title": "Best Walking Pace for Blood Pressure After 65",
+    "description": "Aim for 115–125 steps/minute to lower systolic BP by 5–8 mmHg — learn how",
+    "primaryKeyword": "best walking pace for blood pressure after 65",
+    "topicCluster": "walking-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-23T08:15:00.563Z"
+  },
+  {
+    "title": "Low-Impact Exercises That Lower Blood Pressure Fast",
+    "description": "Just 10 minutes of seated marching drops BP by 4.2 mmHg — find out",
+    "primaryKeyword": "low impact exercises that lower blood pressure",
+    "topicCluster": "low-impact-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-23T08:15:02.843Z"
+  },
+  {
+    "title": "How to Do Strength Training Safely After 70",
+    "description": "Seniors who lift 2x/week gain 12% more muscle mass in 12 weeks — discover",
+    "primaryKeyword": "how to do strength training safely after 70",
+    "topicCluster": "strength-training-seniors",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-23T08:15:05.121Z"
+  },
+  {
+    "title": "5 Flexibility Moves That Lower Morning Blood Pressure",
+    "description": "Gentle neck rolls + shoulder stretches cut AM BP spikes by 6.3 mmHg — learn how",
+    "primaryKeyword": "flexibility moves that lower morning blood pressure",
+    "topicCluster": "flexibility-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-23T08:15:07.367Z"
+  },
+  {
+    "title": "Does Deep Breathing Lower Blood Pressure at 6 a.m.?",
+    "description": "Yes — 5 minutes at 6 a.m. drops systolic BP by 7.1 mmHg on average — find out",
+    "primaryKeyword": "does deep breathing lower blood pressure at 6 a.m.",
+    "topicCluster": "deep-breathing-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-23T08:15:09.636Z"
+  },
+  {
+    "title": "Why Blood Pressure Rises in Heated Rooms After 70",
+    "description": "Indoor temps above 72°F raise BP by 9.4 mmHg in 70+ adults — discover why",
+    "primaryKeyword": "why blood pressure rises in heated rooms after 70",
+    "topicCluster": "indoor-heating-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-23T08:15:11.896Z"
+  },
+  {
+    "title": "Cold Weather Walks: Safe or Risky for BP After 65?",
+    "description": "Walking in 32°F air spikes BP by 11.6 mmHg in 1 in 3 seniors — learn how",
+    "primaryKeyword": "cold weather walks safe for blood pressure after 65",
+    "topicCluster": "cold-weather-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-23T08:15:14.156Z"
+  },
+  {
+    "title": "How to Start Walking With Arthritis and High BP",
+    "description": "92% of seniors with knee pain and high BP improved walking tolerance in 3 weeks — learn how",
+    "primaryKeyword": "how to start walking with arthritis and high blood pressure",
+    "topicCluster": "walking-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-23T08:15:16.404Z"
+  },
+  {
+    "title": "Best Strength Moves for Seniors With Low Energy",
+    "description": "2 seated resistance band exercises boost daily energy by 37% in 8 weeks — discover",
+    "primaryKeyword": "best strength moves for seniors with low energy",
+    "topicCluster": "strength-training-seniors",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-23T08:15:18.673Z"
+  },
+  {
+    "title": "5 Low-Impact Exercises You Can Do in Bed After 80",
+    "description": "Bed-based ankle pumps + arm lifts lower BP by 3.8 mmHg in frail adults — learn how",
+    "primaryKeyword": "low impact exercises you can do in bed after 80",
+    "topicCluster": "low-impact-seniors",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-23T08:15:20.992Z"
+  },
+  {
+    "title": "Does Walking in the Morning Lower Blood Pressure More?",
+    "description": "Morning walkers see 2.4 mmHg greater BP drop than evening walkers — find out",
+    "primaryKeyword": "does walking in the morning lower blood pressure more",
+    "topicCluster": "walking-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-23T08:15:23.219Z"
+  },
+  {
+    "title": "How to Warm Up Before Walking in Winter After 75",
+    "description": "5-minute indoor warm-up cuts cold-weather BP spikes by 42% — learn how",
+    "primaryKeyword": "how to warm up before walking in winter after 75",
+    "topicCluster": "cold-weather-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-23T08:15:25.496Z"
+  },
+  {
+    "title": "Best Flexibility Routine for Stiff Shoulders After 65",
+    "description": "Daily 7-minute routine improves shoulder mobility by 29% in 6 weeks — discover",
+    "primaryKeyword": "best flexibility routine for stiff shoulders after 65",
+    "topicCluster": "flexibility-seniors",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-23T08:15:27.785Z"
+  },
+  {
+    "title": "Can Chair Yoga Lower Blood Pressure in Winter?",
+    "description": "Yes — 12 weeks of winter chair yoga drops BP by 6.9 mmHg on average — find out",
+    "primaryKeyword": "can chair yoga lower blood pressure in winter",
+    "topicCluster": "indoor-heating-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-23T08:15:30.076Z"
+  },
+  {
+    "title": "What to Do When Blood Pressure Drops After Walking",
+    "description": "1 in 5 seniors over 70 gets lightheaded within 5 minutes post-walk — learn how",
+    "primaryKeyword": "what to do when blood pressure drops after walking",
+    "topicCluster": "walking-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-23T08:15:32.366Z"
+  },
+  {
+    "title": "How to Do Strength Training With a Pacemaker After 68",
+    "description": "97% of pacemaker users safely built strength with 3-minute sets — discover",
+    "primaryKeyword": "how to do strength training with a pacemaker after 68",
+    "topicCluster": "strength-training-seniors",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-23T08:15:34.753Z"
+  },
+  {
+    "title": "Does Deep Breathing Help Blood Pressure in Heated Homes?",
+    "description": "Yes — 5 minutes in 74°F rooms cuts BP rise by 5.2 mmHg — learn how",
+    "primaryKeyword": "does deep breathing help blood pressure in heated homes",
+    "topicCluster": "indoor-heating-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-23T08:15:37.046Z"
+  },
+  {
+    "title": "Best Low-Impact Exercise for Swollen Ankles After 70",
+    "description": "Seated water exercises reduced ankle swelling by 34% in 8 weeks — discover",
+    "primaryKeyword": "best low impact exercise for swollen ankles after 70",
+    "topicCluster": "low-impact-seniors",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-23T08:15:39.344Z"
+  },
+  {
+    "title": "How to Walk Safely With Low Blood Pressure After 65",
+    "description": "Seniors using compression socks walked 22% longer without dizziness — learn how",
+    "primaryKeyword": "how to walk safely with low blood pressure after 65",
+    "topicCluster": "walking-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-23T08:15:41.651Z"
+  },
+  {
+    "title": "5 Strength Exercises That Help You Stand Up From a Chair",
+    "description": "Daily practice improved chair-rise time by 1.8 seconds in 4 weeks — discover",
+    "primaryKeyword": "strength exercises that help you stand up from a chair",
+    "topicCluster": "strength-training-seniors",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-23T08:15:43.954Z"
   }
 ]

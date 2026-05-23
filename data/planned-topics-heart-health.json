@@ -10,16 +10,6 @@
     "scheduledWeek": "2026-W22"
   },
   {
-    "title": "Cholesterol Testing at 35: Is It Needed?",
-    "description": "42% of adults with high cholesterol under 40 have no symptoms—find out if your family history means you need testing now.",
-    "primaryKeyword": "is cholesterol testing required at 35",
-    "topicCluster": "nutrition-diet-management",
-    "coreKeyword": "heart health",
-    "createdAt": "2026-05-23T04:34:34.881Z",
-    "score": 42.75,
-    "scheduledWeek": "2026-W22"
-  },
-  {
     "title": "Heart-Healthy Soups on a Fixed Income",
     "description": "7 low-sodium, budget-friendly soups—average cost under $1.80 per serving. Find out how to make them in bulk and freeze.",
     "primaryKeyword": "heart healthy soups on a fixed income",
@@ -47,16 +37,6 @@
     "coreKeyword": "heart health",
     "createdAt": "2026-05-23T04:34:34.881Z",
     "score": 28.75,
-    "scheduledWeek": "2026-W22"
-  },
-  {
-    "title": "Can Owning a Dog Help Heart Health After 70?",
-    "description": "Seniors with dogs walk 22 minutes more daily and have 15% lower risk of heart disease. Find out if pets truly protect your heart.",
-    "primaryKeyword": "do dogs help heart health after 70",
-    "topicCluster": "cardiovascular-health",
-    "coreKeyword": "heart health",
-    "createdAt": "2026-05-23T04:34:34.881Z",
-    "score": 49.266666666666666,
     "scheduledWeek": "2026-W22"
   }
 ]

@@ -1,24 +1,20 @@
 ---
-title: >-
-  How to Read Your Cholesterol Test at Home After 55
+title: How to Read Your Cholesterol Test at Home After 55
 slug: read-cholesterol-test-at-home-after-55
 description: >-
-  How to read cholesterol test at home after 55: FDA-cleared finger-prick tests are 92–96% accurate.
+  How to read cholesterol test at home after 55: FDA-cleared finger-prick tests
+  are 92–96% accurate.
 date: '2026-04-24'
 updated: '2026-04-24'
-primaryKeyword: >-
-  how to read cholesterol test at home after 55
+primaryKeyword: how to read cholesterol test at home after 55
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
-  - >-
-    read-cholesterol-test-after-60
-  - >-
-    read-cholesterol-numbers-after-50
-  - >-
-    check-blood-pressure-at-home-correctly
-  - >-
-    cholesterol-too-low-after-65
+  - read-cholesterol-test-after-60
+  - read-cholesterol-numbers-after-50
+  - check-blood-pressure-at-home-correctly
+  - cholesterol-too-low-after-65
+  - cholesterol-testing-required-at-35
 ---
 
 # How to Read Your Cholesterol Test at Home After 55
