@@ -1,24 +1,20 @@
 ---
-title: >-
-  Is 140/90 BP Dangerous With Diabetes at 45? Yes — Here’s Why
+title: Is 140/90 BP Dangerous With Diabetes at 45? Yes — Here’s Why
 slug: 140-90-blood-pressure-diabetes-45
 description: >-
-  Yes — 140/90 mmHg is Stage 2 hypertension with diabetes and raises cardiovascular risk by 62%. (BP = blood pressure) Take action now.
+  Yes — 140/90 mmHg is Stage 2 hypertension with diabetes and raises
+  cardiovascular risk by 62%. (BP = blood pressure) Take action now.
 date: '2026-05-04'
 updated: '2026-05-04'
-primaryKeyword: >-
-  is 140 90 blood pressure dangerous with diabetes at 45
+primaryKeyword: is 140 90 blood pressure dangerous with diabetes at 45
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
-  - >-
-    110-fasting-blood-sugar-42
-  - >-
-    why-blood-pressure-matters-even-if-you-feel-fine
-  - >-
-    safe-blood-sugar-before-meals-60-plus
-  - >-
-    is-180-after-meals-normal-55-type-2
+  - 110-fasting-blood-sugar-42
+  - why-blood-pressure-matters-even-if-you-feel-fine
+  - safe-blood-sugar-before-meals-60-plus
+  - is-180-after-meals-normal-55-type-2
+  - ldl-140-dangerous-at-45
 ---
 
 # Is 140/90 BP Dangerous With Diabetes at 45? Yes — Here’s Why
