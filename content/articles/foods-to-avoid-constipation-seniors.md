@@ -1,22 +1,20 @@
 ---
-title: >-
-  Foods to Avoid With Constipation in Seniors (Practical Guide)
+title: Foods to Avoid With Constipation in Seniors (Practical Guide)
 slug: foods-to-avoid-constipation-seniors
 description: >-
-  Foods to avoid with constipation seniors: white bread, unripe bananas, cheese, red meat & coffee worsen constipation—40% of adults over 65 experience it.
+  Foods to avoid with constipation seniors: white bread, unripe bananas, cheese,
+  red meat & coffee worsen constipation—40% of adults over 65 experience it.
 date: '2026-05-21'
 updated: '2026-05-21'
-primaryKeyword: >-
-  foods to avoid with constipation seniors
+primaryKeyword: foods to avoid with constipation seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
   - >-
     how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors
-  - >-
-    10-high-fiber-holiday-foods-that-support-digestion-after-50
-  - >-
-    30g-fiber-safe-after-65
+  - 10-high-fiber-holiday-foods-that-support-digestion-after-50
+  - 30g-fiber-safe-after-65
+  - easy-constipation-friendly-foods-seniors
 ---
 
 # Foods to Avoid With Constipation in Seniors (Practical Guide)

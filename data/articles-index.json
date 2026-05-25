@@ -1,5 +1,56 @@
 [
   {
+    "slug": "high-hdl-high-ldl-after-35",
+    "title": "What Does High HDL and High LDL Mean After 35?",
+    "description": "What does high HDL and high LDL mean after 35? LDL ≥160 mg/dL raises 10-year heart risk to ≥7.5% — even with 'good' HDL (reverse cholesterol transport).",
+    "date": "2026-05-25",
+    "updated": "2026-05-25",
+    "primaryKeyword": "what does high HDL and high LDL mean after 35",
+    "topicCluster": "cardiovascular-health",
+    "image": "",
+    "relatedSlugs": [
+      "ldl-160-at-38",
+      "is-150-ldl-okay-at-age-55",
+      "ldl-140-dangerous-at-45",
+      "cholesterol-ed-after-40",
+      "read-cholesterol-test-after-60"
+    ]
+  },
+  {
+    "slug": "heart-trouble-signs-at-night-after-35",
+    "title": "3 Heart Trouble Signs at Night After 35 You Can't Ignore",
+    "description": "Heart trouble signs at night after 35 include waking breathless (PND), chest pressure, or racing heart — 42% with heart failure first notice nighttime symptoms.",
+    "date": "2026-05-25",
+    "updated": "2026-05-25",
+    "primaryKeyword": "heart trouble signs at night after 35",
+    "topicCluster": "cardiovascular-health",
+    "image": "",
+    "relatedSlugs": [
+      "heart-failure-warning-signs-at-night",
+      "weak-heart-pump-warning-signs-at-night",
+      "the-connection-between-frequent-urination-at-night-and-heart-health",
+      "signs-blood-sugar-too-low-at-night",
+      "7-silent-signs-your-blood-pressure-is-spiking-at-night-even-if-your-daytime-readings-look-normal"
+    ]
+  },
+  {
+    "slug": "easy-constipation-friendly-foods-seniors",
+    "title": "Easy Constipation-Friendly Foods for Seniors",
+    "description": "Soft, high-fiber foods like cooked pears (6g fiber/cup) and oatmeal with flaxseed help seniors meet the 21–25g daily fiber goal (plain language: dietary fiber).",
+    "date": "2026-05-25",
+    "updated": "2026-05-25",
+    "primaryKeyword": "easy constipation friendly foods for seniors",
+    "topicCluster": "nutrition-diet-management",
+    "image": "",
+    "relatedSlugs": [
+      "10-high-fiber-holiday-foods-that-support-digestion-after-50",
+      "30g-fiber-safe-after-65",
+      "best-high-fiber-low-sodium-side-dishes-for-diabetic-seniors-who-can-t-chew-hard-foods",
+      "soft-foods-seniors-no-teeth",
+      "foods-to-avoid-constipation-seniors"
+    ]
+  },
+  {
     "slug": "white-spots-nails-heart-disease-women-60",
     "title": "White Spots on Nails and Heart Disease in Women Over 60?",
     "description": "White spots on nails (leukonychia) don’t signal heart disease in 95% of women over 60 — per JAAD 2022. Learn what’s normal vs. when to see your doctor.",
@@ -164,7 +215,8 @@
     "relatedSlugs": [
       "how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors",
       "10-high-fiber-holiday-foods-that-support-digestion-after-50",
-      "30g-fiber-safe-after-65"
+      "30g-fiber-safe-after-65",
+      "easy-constipation-friendly-foods-seniors"
     ]
   },
   {
