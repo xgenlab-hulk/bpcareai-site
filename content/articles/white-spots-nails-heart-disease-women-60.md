@@ -1,20 +1,21 @@
 ---
-title: >-
-  White Spots on Nails and Heart Disease in Women Over 60?
+title: White Spots on Nails and Heart Disease in Women Over 60?
 slug: white-spots-nails-heart-disease-women-60
 description: >-
-  White spots on nails (leukonychia) don’t signal heart disease in 95% of women over 60 — per JAAD 2022. Learn what’s normal vs. when to see your doctor.
+  White spots on nails (leukonychia) don’t signal heart disease in 95% of women
+  over 60 — per JAAD 2022. Learn what’s normal vs. when to see your doctor.
 date: '2026-05-24'
 updated: '2026-05-24'
-primaryKeyword: >-
-  white spots on nails heart disease women over 60
+primaryKeyword: white spots on nails heart disease women over 60
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
+  - how-strong-are-your-fingernails-what-it-might-say-about-your-heart
+  - heart-trouble-signs-women-over-60
+  - heart-healthy-foods-women-over-60
+  - can-shoveling-snow-trigger-a-heart-event-in-older-adults
   - >-
-    how-strong-are-your-fingernails-what-it-might-say-about-your-heart
-  - >-
-    heart-trouble-signs-women-over-60
+    7-silent-signs-your-heart-s-struggling-during-winter-especially-if-you-re-a-woman-over-62-with-early-osteoarthritis
 ---
 
 # White Spots on Nails and Heart Disease in Women Over 60?

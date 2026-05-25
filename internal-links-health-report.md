@@ -1,12 +1,12 @@
 # 内链健康分析报告
-**生成时间**: 2026/5/18 06:07:47
+**生成时间**: 2026/5/25 06:21:52
 
 ## 一、总体健康度
 
-- **总文章数**: 2093
-- **符合要求** (3-5个内链): 2093 篇 (100.0%)
+- **总文章数**: 2110
+- **符合要求** (3-5个内链): 2110 篇 (100.0%)
 - **平均内链数**: 4.99
-- **双向链接覆盖率**: 50.7%
+- **双向链接覆盖率**: 50.3%
 
 ### 健康评分: 65/100
 
@@ -16,25 +16,25 @@
 
 | 内链数量 | 文章数 | 占比 | 状态 |
 |---------|--------|------|------|
-| 3 | 6 | 0.3% | ✅ 符合要求 |
-| 4 | 5 | 0.2% | ✅ 符合要求 |
-| 5 | 2082 | 99.5% | ✅ 符合要求 |
+| 3 | 7 | 0.3% | ✅ 符合要求 |
+| 4 | 4 | 0.2% | ✅ 符合要求 |
+| 5 | 2099 | 99.5% | ✅ 符合要求 |
 
 ## 三、孤岛文章分析
 
-⚠️ 发现 **139** 篇孤岛文章（无其他文章链接到它）：
+⚠️ 发现 **142** 篇孤岛文章（无其他文章链接到它）：
 
 - heart-rate-variability-explained
 - heart-disease-in-hispanic-adults-over-50-unique-risk-factors
 - a-guide-to-allergen-friendly-family-meals-for-mixed-diet-households
-- how-strong-are-your-fingernails-what-it-might-say-about-your-heart
 - the-truth-about-cheating-on-your-diet-during-family-celebrations
 - easy-heart-healthy-holiday-appetizers-under-150-calories
-- can-shoveling-snow-trigger-a-heart-event-in-older-adults
 - what-your-blood-pressure-numbers-mean-after-a-stroke-new-targets-and-redefining-normal-for-recovery
 - how-alcohol-free-mocktails-can-lower-blood-pressure-in-women-over-55-during-new-year-s-gatherings
 - 12-science-backed-ways-to-reduce-alcohol-induced-cardiac-stress-even-if-you-re-not-drinking
-- ...及其他 129 篇
+- holiday-heart-syndrome-vs-acute-coronary-syndrome-key-differences-in-presentation-for-men-over-70
+- can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
+- ...及其他 132 篇
 
 ## 四、TopicCluster 连通性
 
@@ -1617,6 +1617,8 @@
 | pancreatic-cell-resilience | 100.0% | ✅ 优秀 |
 | cerebrovascular-link | 100.0% | ✅ 优秀 |
 | symptoms-diagnosis | 100.0% | ✅ 优秀 |
+| prevention-risk-assessment | 100.0% | ✅ 优秀 |
+| special-populations | 100.0% | ✅ 优秀 |
 | muscle-health-nutrition | 50.0% | ⚠️ 良好 |
 | hepatic-metabolism-diet | 50.0% | ⚠️ 良好 |
 | beverage-comparison-endothelial-health | 50.0% | ⚠️ 良好 |
@@ -1640,13 +1642,13 @@
 | diabetes-lifestyle | 8.3% | ❌ 需改进 |
 | emotional-mental-health | 8.3% | ❌ 需改进 |
 | lifestyle-interventions | 7.9% | ❌ 需改进 |
-| hypertension-management | 7.6% | ❌ 需改进 |
-| diabetes-management | 6.6% | ❌ 需改进 |
+| hypertension-management | 7.1% | ❌ 需改进 |
 | hypertension-lifestyle | 6.3% | ❌ 需改进 |
-| nutrition-diet-management | 5.2% | ❌ 需改进 |
+| diabetes-management | 6.0% | ❌ 需改进 |
+| nutrition-diet-management | 4.9% | ❌ 需改进 |
 | natural-remedies | 4.2% | ❌ 需改进 |
-| cardiovascular-health | 4.2% | ❌ 需改进 |
 | heart-health | 4.0% | ❌ 需改进 |
+| cardiovascular-health | 3.9% | ❌ 需改进 |
 | emergency-symptoms | 3.8% | ❌ 需改进 |
 | cardiovascular-risk | 3.3% | ❌ 需改进 |
 | diet-nutrition | 1.8% | ❌ 需改进 |
@@ -1700,8 +1702,9 @@
 
 ## 五、过度链接文章
 
-⚠️ 发现 **179** 篇文章被链接次数过多（>10次）：
+⚠️ 发现 **182** 篇文章被链接次数过多（>10次）：
 
+- can-meditation-reduce-heart-disease-risk-after-50
 - are-sugar-free-treats-actually-safe-for-diabetics-over-65
 - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
 - why-winter-increases-heart-attack-risk-in-seniors-over-70
@@ -1872,6 +1875,7 @@
 - 7-hidden-medication-interactions-that-raise-blood-pressure-after-age-60-including-common-antidepressants-antihistamines-and-topical-nsaids
 - exercises-for-seniors-poor-balance
 - read-cholesterol-test-after-60
+- what-a1c-too-high-50-year-old
 - start-walking-at-75-safely
 - does-stress-raise-cholesterol-after-35
 - walking-minutes-per-day-seniors-over-65
@@ -1881,11 +1885,12 @@
 - low-impact-exercise-blood-pressure-seniors
 - blood-sugar-friendly-foods-seniors
 - foods-lower-cholesterol-naturally-after-50
+- read-cholesterol-numbers-after-50
 
 ## 六、优化建议
 
-2. **消除孤岛文章**: 139 篇文章没有被其他文章链接，建议通过双向链接优化改善
-3. **提升双向链接覆盖率**: 当前为 50.7%，建议目标 >60%
+2. **消除孤岛文章**: 142 篇文章没有被其他文章链接，建议通过双向链接优化改善
+3. **提升双向链接覆盖率**: 当前为 50.3%，建议目标 >60%
 4. **改善Cluster连通性**: 76 个主题集群内部连通性低于50%
 
 ---
