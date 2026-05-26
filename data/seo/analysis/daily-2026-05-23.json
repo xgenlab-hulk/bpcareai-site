@@ -1,0 +1,20 @@
+{
+  "date": "2026-05-23",
+  "period": "3-day",
+  "impressionsChange": -9.025270758122739,
+  "clicksChange": -100,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "cholesterol lowering soups",
+      "reason": "排名跃升 15.0 位（69.0 → 54.0）",
+      "score": 45,
+      "recentImpressions": 1,
+      "baselineImpressions": 2,
+      "recentPosition": 54,
+      "baselinePosition": 69
+    }
+  ]
+}
