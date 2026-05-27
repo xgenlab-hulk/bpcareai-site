@@ -1,0 +1,106 @@
+{
+  "date": "2026-05-24",
+  "fetchedAt": "2026-05-27T02:37:01.439Z",
+  "queries": [
+    {
+      "query": "bpcare",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "heat intolerance high blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 85
+    },
+    {
+      "query": "heat raises blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 72
+    },
+    {
+      "query": "high blood pressure heat intolerance",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 76
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "page": "https://bpcareai.com/articles/blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 9.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/resistance-training-after-aortic-valve-replacement",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 22
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 79.75
+    },
+    {
+      "page": "https://bpcareai.com/articles/understanding-a1c-goals-for-seniors-with-diabetes",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 52
+    },
+    {
+      "page": "https://bpcareai.com/articles/what-research-says-about-late-night-protein-timing-effects-on-overnight-glucose-stability-and-growth-hormone-pulses-in-adults-63-with-prediabetes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "page": "https://bpcareai.com/articles/when-to-worry-about-that-post-dinner-food-coma-red-flags-of-early-cognitive-vascular-insufficiency-in-adults-64-with-hypertension-and-snoring",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://bpcareai.com/articles/why-arm-pain-shouldn-t-be-ignored-in-women-over-50",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 96
+    },
+    {
+      "page": "https://www.bpcareai.com/articles",
+      "clicks": 0,
+      "impressions": 46,
+      "ctr": 0,
+      "position": 26.130434782608695
+    }
+  ],
+  "summary": {
+    "totalQueries": 4,
+    "totalImpressions": 4,
+    "totalClicks": 1,
+    "avgPosition": 58.75,
+    "pagesWithImpressions": 9
+  }
+}
