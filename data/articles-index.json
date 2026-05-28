@@ -1,5 +1,55 @@
 [
   {
+    "slug": "stress-blood-pressure-after-55",
+    "title": "Stress and Blood Pressure After 55: What’s Normal?",
+    "description": "Stress and blood pressure after 55 aren’t destiny—chronic stress raises systolic BP by 6–9 mmHg.",
+    "date": "2026-05-28",
+    "updated": "2026-05-28",
+    "primaryKeyword": "stress and blood pressure after 55",
+    "topicCluster": "hypertension-management",
+    "image": "",
+    "relatedSlugs": [
+      "heat-blood-pressure-after-35",
+      "does-stress-raise-cholesterol-after-35",
+      "how-chronic-stress-contributes-to-high-blood-pressure-over-time",
+      "tylenol-blood-pressure-after-65",
+      "stress-blood-pressure-winter"
+    ]
+  },
+  {
+    "slug": "metformin-with-meals-seniors",
+    "title": "When to Take Metformin With Meals for Seniors (ADA-Backed)",
+    "description": "When to take metformin with meals for seniors: Taking it with dinner cuts GI side effects by 40% (ADA 2024). Learn the safest, most effective timing—read now.",
+    "date": "2026-05-28",
+    "updated": "2026-05-28",
+    "primaryKeyword": "when to take metformin with meals for seniors",
+    "topicCluster": "medication-safety",
+    "image": "",
+    "relatedSlugs": [
+      "is-metformin-still-safe-for-diabetics-over-70",
+      "when-to-use-a-post-meal-walk-for-glucose-control-not-just-duration-but-timing-terrain-and-gait-speed-in-adults-70-with-mild-orthostatic-hypotension",
+      "why-holiday-meal-timing-disrupts-blood-pressure-medication-efficacy-in-men-over-62",
+      "does-daily-10-minute-post-dinner-walking-really-lower-next-morning-fasting-glucose-in-adults-64-with-morning-only-hyperglycemia",
+      "meal-timing-strategies-for-better-blood-sugar-control-after-50"
+    ]
+  },
+  {
+    "slug": "lisinopril-tired-after-65",
+    "title": "Does Lisinopril Make You Tired After 65? What the Data Shows",
+    "description": "Yes — ~14% of adults over 65 report fatigue on lisinopril (ACC/AHA 2023). Linked to low BP (hypotension) or high potassium (hyperkalemia).",
+    "date": "2026-05-28",
+    "updated": "2026-05-28",
+    "primaryKeyword": "does lisinopril make you tired after 65",
+    "topicCluster": "hypertension-management",
+    "image": "",
+    "relatedSlugs": [
+      "bp-meds-tiredness-after-65",
+      "high-cholesterol-fatigue-after-35",
+      "when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68",
+      "blood-pressure-meds-nutrient-absorption-after-65"
+    ]
+  },
+  {
     "slug": "meal-planning-for-one-after-70",
     "title": "Meal Planning for One After 70: Simple, Nutrient-Dense Ideas",
     "description": "Meal planning for one after 70 boosts protein intake by 37% and cuts unintentional weight loss by 52% (J Nutr Health Aging, 2022).",
