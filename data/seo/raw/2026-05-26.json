@@ -1,0 +1,106 @@
+{
+  "date": "2026-05-26",
+  "fetchedAt": "2026-05-29T02:28:57.489Z",
+  "queries": [
+    {
+      "query": "\"behavioral nutrition psychology\" certification",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "does heat affect blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 75
+    },
+    {
+      "query": "does heat lower blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 83
+    },
+    {
+      "query": "does heat raise or lower blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 91
+    },
+    {
+      "query": "fiber sides for dinner",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 29
+    },
+    {
+      "query": "high fiber sides",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 42
+    },
+    {
+      "query": "hypertension heat",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 78
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/articles/best-fruits-for-diabetics-over-50-and-which-to-limit",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://bpcareai.com/articles/best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 35.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-chronic-low-dose-aspirin-use-alters-nighttime-blood-pressure-dipping-patterns-in-adults-72-with-atrial-fibrillation-and-mild-ckd",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://bpcareai.com/articles/resistance-training-after-aortic-valve-replacement",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 34
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 45.375
+    },
+    {
+      "page": "https://www.bpcareai.com/articles",
+      "clicks": 0,
+      "impressions": 23,
+      "ctr": 0,
+      "position": 6.434782608695652
+    }
+  ],
+  "summary": {
+    "totalQueries": 7,
+    "totalImpressions": 10,
+    "totalClicks": 0,
+    "avgPosition": 42.6,
+    "pagesWithImpressions": 6
+  }
+}
