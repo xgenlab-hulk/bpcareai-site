@@ -1,23 +1,5 @@
 [
   {
-    "title": "Best Low-Impact Exercises for Swollen Knees",
-    "description": "Seniors with knee swelling cut pain by 42% doing water walking 20 min, 4x/week — discover safe moves",
-    "primaryKeyword": "low impact exercises for swollen knees seniors",
-    "topicCluster": "lifestyle-interventions",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-05-30T04:46:14.773Z",
-    "score": 64,
-    "scheduledWeek": "2026-W23",
-    "perplexityQuestions": [
-      "Is it too late to start exercising at 60, 70, or 80 if I haven’t worked out in years?",
-      "What is the safest way for a 72-year-old beginner to start exercising without getting injured?",
-      "How many steps per day should adults over 65 aim for if they are just starting out?",
-      "Can seniors over 70 do strength training with dumbbells, or is bodyweight enough?",
-      "How often should adults 65+ do balance exercises to prevent falls?"
-    ],
-    "competitorCoverage": "Top-ranking articles about exercise for seniors usually cover the same core themes: the 150-minute weekly activity target for older adults, plus strength training, balance work, and gradual progression from low-intensity exercise to more challenging routines.[1][7] They also tend to include beginner-friendly options like walking, chair exercises, stretching, water exercise, yoga, and tai chi, along with safety advice such as warming up, cooling down, and stopping if pain, dizziness, or chest discomfort occurs.[2][5][6] To compete, a new article should clearly explain what to do if someone is deconditioned or has mobility limits, give practical weekly examples, and address common fears like falling, injury, or not knowing how hard is “too hard.”[3][6][7]"
-  },
-  {
     "title": "Why Cholesterol Is High Even If You Eat Well and Exercise",
     "description": "Up to 30% of adults with healthy habits have genetic high cholesterol—like FH—where LDL stays >190 despite diet. Find out if you should test.",
     "primaryKeyword": "why is my cholesterol high even though i eat well",
@@ -34,5 +16,85 @@
       "How often should adults 65+ do balance exercises to prevent falls?"
     ],
     "competitorCoverage": "Top-ranking articles about exercise for seniors usually cover the same core themes: the 150-minute weekly activity target for older adults, plus strength training, balance work, and gradual progression from low-intensity exercise to more challenging routines.[1][7] They also tend to include beginner-friendly options like walking, chair exercises, stretching, water exercise, yoga, and tai chi, along with safety advice such as warming up, cooling down, and stopping if pain, dizziness, or chest discomfort occurs.[2][5][6] To compete, a new article should clearly explain what to do if someone is deconditioned or has mobility limits, give practical weekly examples, and address common fears like falling, injury, or not knowing how hard is “too hard.”[3][6][7]"
+  },
+  {
+    "title": "5 Walking Tips That Lower Blood Pressure After 65",
+    "description": "Walking just 22 minutes a day cuts systolic BP by 5–7 mmHg — learn how to walk right for heart health.",
+    "primaryKeyword": "walking tips that lower blood pressure after 65",
+    "topicCluster": "exercise-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-30T08:27:30.125Z"
+  },
+  {
+    "title": "How to Do Low-Impact Exercise With Swollen Ankles",
+    "description": "Swelling drops 30% faster with seated water workouts — discover safe, joint-friendly moves you can start today.",
+    "primaryKeyword": "low impact exercise with swollen ankles",
+    "topicCluster": "exercise-joint-health",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-30T08:27:32.425Z"
+  },
+  {
+    "title": "Does Chair Strength Training Really Build Muscle After 75?",
+    "description": "Seniors who did 2x/week chair resistance saw 12% more leg strength in 10 weeks — find out how to begin safely.",
+    "primaryKeyword": "does chair strength training build muscle after 75",
+    "topicCluster": "strength-training-seniors",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-30T08:27:34.797Z"
+  },
+  {
+    "title": "Why Flexibility Gets Harder After 68 — And What Helps",
+    "description": "By age 70, hamstring flexibility drops 25% on average — discover 3 gentle daily moves that reverse it.",
+    "primaryKeyword": "why flexibility gets harder after 68",
+    "topicCluster": "flexibility-aging",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-30T08:27:37.237Z"
+  },
+  {
+    "title": "Best Indoor Exercises for Cold Weather Blood Pressure",
+    "description": "Cold air spikes BP by up to 15 mmHg — try these 4 no-heat, no-sweat routines proven to stabilize it indoors.",
+    "primaryKeyword": "indoor exercises for cold weather blood pressure",
+    "topicCluster": "cold-weather-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-30T08:27:39.604Z"
+  },
+  {
+    "title": "Can Deep Breathing While Sitting Lower Blood Pressure at Night?",
+    "description": "Just 6 minutes of seated breathing drops nighttime systolic BP by 8 mmHg — learn the exact rhythm that works.",
+    "primaryKeyword": "can deep breathing while sitting lower blood pressure at night",
+    "topicCluster": "deep-breathing-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-30T08:27:41.992Z"
+  },
+  {
+    "title": "5 Low-Impact Ways to Walk Safely on Ice After 70",
+    "description": "Falls on ice increase 40% in seniors over 70 — get step-by-step footwear, pace, and balance tips to prevent them.",
+    "primaryKeyword": "low impact ways to walk safely on ice after 70",
+    "topicCluster": "walking-safety",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-30T08:27:44.282Z"
+  },
+  {
+    "title": "Best Strength Exercises for Women Over 67 With Osteoporosis",
+    "description": "Women who added 2x/week resistance saw 3.2% spine bone density gain in 6 months — learn the safest starter moves.",
+    "primaryKeyword": "best strength exercises for women over 67 with osteoporosis",
+    "topicCluster": "strength-training-osteoporosis",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-30T08:27:46.623Z"
+  },
+  {
+    "title": "How to Breathe While Exercising With High Blood Pressure",
+    "description": "Holding breath raises BP 20+ mmHg — discover the 3-second inhale/4-second exhale rule for safe movement.",
+    "primaryKeyword": "how to breathe while exercising with high blood pressure",
+    "topicCluster": "exercise-breathing-technique",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-30T08:27:48.946Z"
+  },
+  {
+    "title": "What to Do When Blood Pressure Jumps After Walking Indoors",
+    "description": "Indoor heating raises BP up to 12 mmHg — find out why, and 3 simple fixes to keep it steady during winter walks.",
+    "primaryKeyword": "what to do when blood pressure jumps after walking indoors",
+    "topicCluster": "indoor-heating-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-05-30T08:27:51.250Z"
   }
 ]

@@ -1,13 +1,12 @@
 ---
-title: >-
-  First Signs of Diabetes in Women Over 40 — See Your Doctor
+title: First Signs of Diabetes in Women Over 40 — See Your Doctor
 slug: first-signs-diabetes-women-over-40
 description: >-
-  First signs of diabetes in women over 40 include fatigue, thirst & yeast infections—84% with prediabetes don’t know it (CDC).
+  First signs of diabetes in women over 40 include fatigue, thirst & yeast
+  infections—84% with prediabetes don’t know it (CDC).
 date: '2026-05-19'
 updated: '2026-05-19'
-primaryKeyword: >-
-  first signs of diabetes in women over 40
+primaryKeyword: first signs of diabetes in women over 40
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
@@ -15,8 +14,8 @@ relatedSlugs:
     7-hidden-signs-your-dentist-should-know-you-have-undiagnosed-diabetes-especially-if-you-re-a-woman-over-62
   - >-
     7-silent-signs-of-prediabetes-you-re-likely-ignoring-after-age-55-even-with-normal-a1c
-  - >-
-    heart-disease-symptoms-in-women-over-50-what-s-often-missed
+  - heart-disease-symptoms-in-women-over-50-what-s-often-missed
+  - unexplained-weight-loss-40s-diabetes
 ---
 
 # First Signs of Diabetes in Women Over 40 — See Your Doctor
