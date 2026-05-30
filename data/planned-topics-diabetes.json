@@ -1,50 +1,92 @@
 [
   {
-    "title": "Walking After Dinner: Best Time to Lower Blood Sugar",
-    "description": "A 15-minute walk within 30 minutes of eating drops post-meal spikes by 28% in adults 55+. Learn how.",
-    "primaryKeyword": "walking after dinner lowers blood sugar",
-    "topicCluster": "exercise-blood-sugar",
+    "title": "Can Unexplained Weight Loss in Your 40s Mean Diabetes?",
+    "description": "Losing 5+ pounds without trying in your 40s—especially with no appetite change—can be an early diabetes sign. Learn how",
+    "primaryKeyword": "unexplained weight loss in your 40s diabetes",
+    "topicCluster": "lifestyle-interventions",
     "coreKeyword": "diabetes",
-    "createdAt": "2026-05-23T08:16:29.635Z"
+    "createdAt": "2026-05-30T04:46:14.773Z",
+    "score": 64,
+    "scheduledWeek": "2026-W23",
+    "perplexityQuestions": [
+      "What is the difference between type 1, type 2, and prediabetes in adults over 35?",
+      "Can you have diabetes with a normal fasting blood sugar but an A1C in the prediabetes range?",
+      "Is an A1C of 6.0 dangerous at 45, and how fast can it progress to type 2 diabetes?",
+      "What blood sugar numbers are considered high after meals for a 50-year-old?",
+      "Is frequent urination at night at 40 or 55 a sign of diabetes or something else?"
+    ],
+    "competitorCoverage": "Top-ranking adult diabetes articles usually cover the core definitions, symptoms, risk factors, testing, and treatment basics, then expand into prevention, diet, exercise, medication, and complication screening.[1][3][5] To compete, a new article needs clear threshold numbers, practical next steps, age-specific risk context, and concise guidance on when to seek medical care, plus coverage of common management questions like monitoring, targets, and medication tradeoffs.[1][2][8]"
   },
   {
-    "title": "What A1C Target Is Safe for Adults 75+",
-    "description": "For most 75+, 7.0–7.5% prevents lows without missing protection—per ADA 2024 guidelines. Discover your goal.",
-    "primaryKeyword": "safe a1c target for seniors 75 plus",
-    "topicCluster": "hba1c-targets-elderly",
+    "title": "A1C 6.0 at 45: How Fast Can It Go to Type 2 Diabetes?",
+    "description": "An A1C of 6.0% means 10–15% annual risk of progressing to type 2 diabetes by age 50—without lifestyle change. Discover",
+    "primaryKeyword": "a1c 6.0 at 45 how fast to type 2 diabetes",
+    "topicCluster": "diabetes-management",
     "coreKeyword": "diabetes",
-    "createdAt": "2026-05-23T08:16:31.910Z"
+    "createdAt": "2026-05-30T04:46:14.773Z",
+    "score": 49.28,
+    "scheduledWeek": "2026-W23",
+    "perplexityQuestions": [
+      "What is the difference between type 1, type 2, and prediabetes in adults over 35?",
+      "Can you have diabetes with a normal fasting blood sugar but an A1C in the prediabetes range?",
+      "Is an A1C of 6.0 dangerous at 45, and how fast can it progress to type 2 diabetes?",
+      "What blood sugar numbers are considered high after meals for a 50-year-old?",
+      "Is frequent urination at night at 40 or 55 a sign of diabetes or something else?"
+    ],
+    "competitorCoverage": "Top-ranking adult diabetes articles usually cover the core definitions, symptoms, risk factors, testing, and treatment basics, then expand into prevention, diet, exercise, medication, and complication screening.[1][3][5] To compete, a new article needs clear threshold numbers, practical next steps, age-specific risk context, and concise guidance on when to seek medical care, plus coverage of common management questions like monitoring, targets, and medication tradeoffs.[1][2][8]"
   },
   {
-    "title": "Does Coffee Raise Blood Sugar in the Morning?",
-    "description": "Yes—30% of adults 50+ see 22 mg/dL higher readings after black coffee on an empty stomach. Learn how to test.",
-    "primaryKeyword": "does coffee raise blood sugar in morning",
-    "topicCluster": "diet-blood-sugar",
+    "title": "What to Do When Blood Sugar Is 180 After Eating at 50",
+    "description": "A reading of 180 mg/dL 1–2 hours after meals is common—but what it means for adults 50+ and when to act depends on your pattern. Learn how",
+    "primaryKeyword": "blood sugar 180 after eating at 50",
+    "topicCluster": "diabetes-management",
     "coreKeyword": "diabetes",
-    "createdAt": "2026-05-23T08:16:34.248Z"
+    "createdAt": "2026-05-30T04:46:14.773Z",
+    "score": 45.28,
+    "scheduledWeek": "2026-W23",
+    "perplexityQuestions": [
+      "What is the difference between type 1, type 2, and prediabetes in adults over 35?",
+      "Can you have diabetes with a normal fasting blood sugar but an A1C in the prediabetes range?",
+      "Is an A1C of 6.0 dangerous at 45, and how fast can it progress to type 2 diabetes?",
+      "What blood sugar numbers are considered high after meals for a 50-year-old?",
+      "Is frequent urination at night at 40 or 55 a sign of diabetes or something else?"
+    ],
+    "competitorCoverage": "Top-ranking adult diabetes articles usually cover the core definitions, symptoms, risk factors, testing, and treatment basics, then expand into prevention, diet, exercise, medication, and complication screening.[1][3][5] To compete, a new article needs clear threshold numbers, practical next steps, age-specific risk context, and concise guidance on when to seek medical care, plus coverage of common management questions like monitoring, targets, and medication tradeoffs.[1][2][8]"
   },
   {
-    "title": "Best Low-Sugar Breakfasts for Women Over 60",
-    "description": "High-protein, low-carb breakfasts reduce morning spikes by 34% in women 60+ with prediabetes. Find out which ones.",
-    "primaryKeyword": "low sugar breakfast for women over 60",
-    "topicCluster": "diet-blood-sugar",
+    "title": "Frequent Urination at Night at 55: Diabetes or Something Else?",
+    "description": "Waking up 2+ times nightly to pee after age 55 can signal high blood sugar—but also bladder, prostate, or heart issues. Find out",
+    "primaryKeyword": "frequent urination at night at 55",
+    "topicCluster": "diabetes-management",
     "coreKeyword": "diabetes",
-    "createdAt": "2026-05-23T08:16:36.649Z"
+    "createdAt": "2026-05-30T04:46:14.773Z",
+    "score": 33.28,
+    "scheduledWeek": "2026-W23",
+    "perplexityQuestions": [
+      "What is the difference between type 1, type 2, and prediabetes in adults over 35?",
+      "Can you have diabetes with a normal fasting blood sugar but an A1C in the prediabetes range?",
+      "Is an A1C of 6.0 dangerous at 45, and how fast can it progress to type 2 diabetes?",
+      "What blood sugar numbers are considered high after meals for a 50-year-old?",
+      "Is frequent urination at night at 40 or 55 a sign of diabetes or something else?"
+    ],
+    "competitorCoverage": "Top-ranking adult diabetes articles usually cover the core definitions, symptoms, risk factors, testing, and treatment basics, then expand into prevention, diet, exercise, medication, and complication screening.[1][3][5] To compete, a new article needs clear threshold numbers, practical next steps, age-specific risk context, and concise guidance on when to seek medical care, plus coverage of common management questions like monitoring, targets, and medication tradeoffs.[1][2][8]"
   },
   {
-    "title": "How Often Should You Test Blood Sugar at Home?",
-    "description": "If you're on insulin after 60, test 3x daily—but if diet-controlled, once a day may be enough. Learn what’s right.",
-    "primaryKeyword": "how often test blood sugar at home",
-    "topicCluster": "blood-sugar-monitoring",
+    "title": "Blood Sugar Friendly Foods That Keep You Full",
+    "description": "Seniors need ~25–30g protein per meal to prevent muscle loss — yet many blood sugar–friendly meals fall short. Learn smart combos. Find out.",
+    "primaryKeyword": "blood sugar friendly foods that fill you up",
+    "topicCluster": "diabetes-management",
     "coreKeyword": "diabetes",
-    "createdAt": "2026-05-23T08:16:38.897Z"
-  },
-  {
-    "title": "Can Yoga Help With Diabetes Nerve Pain?",
-    "description": "Yes—12 weeks of gentle yoga reduced burning feet pain by 41% in adults 65+. Discover safe poses to try.",
-    "primaryKeyword": "can yoga help diabetes nerve pain",
-    "topicCluster": "exercise-symptoms",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-05-23T08:16:41.196Z"
+    "createdAt": "2026-05-30T04:46:14.773Z",
+    "score": 33.28,
+    "scheduledWeek": "2026-W23",
+    "perplexityQuestions": [
+      "What is the difference between type 1, type 2, and prediabetes in adults over 35?",
+      "Can you have diabetes with a normal fasting blood sugar but an A1C in the prediabetes range?",
+      "Is an A1C of 6.0 dangerous at 45, and how fast can it progress to type 2 diabetes?",
+      "What blood sugar numbers are considered high after meals for a 50-year-old?",
+      "Is frequent urination at night at 40 or 55 a sign of diabetes or something else?"
+    ],
+    "competitorCoverage": "Top-ranking adult diabetes articles usually cover the core definitions, symptoms, risk factors, testing, and treatment basics, then expand into prevention, diet, exercise, medication, and complication screening.[1][3][5] To compete, a new article needs clear threshold numbers, practical next steps, age-specific risk context, and concise guidance on when to seek medical care, plus coverage of common management questions like monitoring, targets, and medication tradeoffs.[1][2][8]"
   }
 ]
