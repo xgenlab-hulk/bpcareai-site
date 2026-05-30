@@ -1,0 +1,85 @@
+{
+  "date": "2026-05-27",
+  "fetchedAt": "2026-05-30T02:12:39.500Z",
+  "queries": [
+    {
+      "query": "blood pressure and heat",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 80
+    },
+    {
+      "query": "does blood pressure increase with heat",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 94
+    },
+    {
+      "query": "heat high blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 75
+    },
+    {
+      "query": "high fiber side dishes",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 45.5
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/articles/air-fryer-oxidized-cholesterol-coronary-calcification",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "page": "https://bpcareai.com/articles/best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 45.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/does-caffeine-raise-blood-pressure-after-age-60",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 83
+    },
+    {
+      "page": "https://bpcareai.com/articles/understanding-a1c-goals-for-seniors-with-diabetes",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 49.666666666666664
+    },
+    {
+      "page": "https://www.bpcareai.com/articles",
+      "clicks": 0,
+      "impressions": 35,
+      "ctr": 0,
+      "position": 18.885714285714286
+    }
+  ],
+  "summary": {
+    "totalQueries": 4,
+    "totalImpressions": 5,
+    "totalClicks": 0,
+    "avgPosition": 68,
+    "pagesWithImpressions": 6
+  }
+}
