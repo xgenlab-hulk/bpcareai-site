@@ -1,0 +1,106 @@
+{
+  "date": "2026-05-28",
+  "fetchedAt": "2026-05-31T02:38:18.723Z",
+  "queries": [
+    {
+      "query": "does air conditioning raise blood pressure",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 79.5
+    },
+    {
+      "query": "does heat affect blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 71
+    },
+    {
+      "query": "low cholesterol soups",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 59
+    },
+    {
+      "query": "soup to lower cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 60
+    },
+    {
+      "query": "what is the impact of active esophageal cooling on ablation pause frequency in pvi? -filetype:txt -filetype:pdf -filetype:epub -filetype:doc -filetype:docx -filetype:xls -filetype:xlsx -filetype:ppt -filetype:csv -site:youtube.com -site:tiktok.com -site:instagram.com -site:ebay.com -site:jd.com -site:amazon.com -site:iqiyi.com -site:bilibili.com -site:t.me -site:douyin.com -site:douban.com -site:apple.com -site:reddit.com -site:researchgate.net -site:academia.edu -site:dokumen.pub -site:en.wikipedia.org -site:quora.com -site:sciencedirect.com -site:cambridge.org -site:mdpi.com -site:link.springer.com -site:zhuanlan.zhihu.com -site:journals.sagepub.com -site:imdb.com -site:tandfonline.com -site:onlinelibrary.wiley.com -site:brill.com -site:getyourguide.com -site:academic.oup.com -site:www.emerald.com -site:eresources.nlb.gov.sg -site:www.govinfo.gov",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 49
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/articles/air-fryer-oxidized-cholesterol-coronary-calcification",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://bpcareai.com/articles/best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "page": "https://bpcareai.com/articles/best-warm-heart-healthy-soups-for-seniors-with-high-cholesterol",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 59.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/resistance-training-after-aortic-valve-replacement",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 60.25
+    },
+    {
+      "page": "https://bpcareai.com/articles/understanding-a1c-goals-for-seniors-with-diabetes",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 9.5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles",
+      "clicks": 0,
+      "impressions": 36,
+      "ctr": 0,
+      "position": 20.166666666666668
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/12-science-backed-times-to-check-your-resting-heart-rate-not-just-during-clinic-visits-in-adults-58-with-anxiety-related-palpitations",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 39
+    }
+  ],
+  "summary": {
+    "totalQueries": 5,
+    "totalImpressions": 6,
+    "totalClicks": 0,
+    "avgPosition": 66.33333333333333,
+    "pagesWithImpressions": 8
+  }
+}
