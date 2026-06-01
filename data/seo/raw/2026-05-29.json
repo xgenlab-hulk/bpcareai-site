@@ -1,48 +1,55 @@
 {
-  "date": "2026-05-25",
-  "fetchedAt": "2026-06-01T02:48:02.124Z",
+  "date": "2026-05-29",
+  "fetchedAt": "2026-06-01T02:48:04.287Z",
   "queries": [
-    {
-      "query": "bp care",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 4
-    },
     {
       "query": "bp rating ai",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 10
+      "position": 2
     },
     {
-      "query": "bpcare",
+      "query": "can heat cause hypertension",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 91
+    },
+    {
+      "query": "can humidity affect blood pressure",
       "clicks": 0,
       "impressions": 2,
       "ctr": 0,
-      "position": 8
+      "position": 74.5
     },
     {
-      "query": "does heat elevate blood pressure",
+      "query": "heat and high blood pressure",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 97
+      "position": 98
     },
     {
-      "query": "does hot humid weather affect blood pressure",
+      "query": "high heat and blood pressure",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 96
+      "position": 93
     },
     {
-      "query": "high fiber side dishes",
+      "query": "humidity and blood pressure",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 50
+      "position": 57
+    },
+    {
+      "query": "is heat bad for high blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 94
     }
   ],
   "pages": [
@@ -51,70 +58,56 @@
       "clicks": 0,
       "impressions": 2,
       "ctr": 0,
-      "position": 7
-    },
-    {
-      "page": "https://bpcareai.com/articles/air-fryer-oxidized-cholesterol-coronary-calcification",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 9
+      "position": 3
     },
     {
       "page": "https://bpcareai.com/articles/ambulatory-blood-pressure-variability-interpretation",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 7
+      "position": 11.5
     },
     {
-      "page": "https://bpcareai.com/articles/best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat",
+      "page": "https://bpcareai.com/articles/blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70",
       "clicks": 0,
       "impressions": 2,
       "ctr": 0,
-      "position": 29.5
+      "position": 9
     },
     {
       "page": "https://bpcareai.com/articles/resistance-training-after-aortic-valve-replacement",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 7,
       "ctr": 0,
-      "position": 19
+      "position": 10.857142857142858
     },
     {
       "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 7,
       "ctr": 0,
-      "position": 72.25
+      "position": 83.14285714285714
     },
     {
       "page": "https://bpcareai.com/articles/understanding-a1c-goals-for-seniors-with-diabetes",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 13,
       "ctr": 0,
-      "position": 20
+      "position": 9.923076923076923
     },
     {
       "page": "https://www.bpcareai.com/articles",
       "clicks": 0,
-      "impressions": 50,
+      "impressions": 30,
       "ctr": 0,
-      "position": 15.28
-    },
-    {
-      "page": "https://www.bpcareai.com/contact",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 8
+      "position": 7.466666666666667
     }
   ],
   "summary": {
-    "totalQueries": 6,
-    "totalImpressions": 7,
+    "totalQueries": 7,
+    "totalImpressions": 8,
     "totalClicks": 0,
-    "avgPosition": 39,
-    "pagesWithImpressions": 9
+    "avgPosition": 73,
+    "pagesWithImpressions": 7
   }
 }
