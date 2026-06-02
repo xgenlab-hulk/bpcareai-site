@@ -1,5 +1,54 @@
 [
   {
+    "slug": "lipoprotein-a-test-family-history",
+    "title": "Should I Get a Lipoprotein(a) Test With Family History?",
+    "description": "Yes—if a parent had a heart attack before 55, guidelines recommend Lp(a) testing once. ~20% have high levels (>50 mg/dL), raising heart risk 2.",
+    "date": "2026-06-02",
+    "updated": "2026-06-02",
+    "primaryKeyword": "should i get lipoprotein a test with family history",
+    "topicCluster": "cardiovascular-health",
+    "image": "",
+    "relatedSlugs": [
+      "cholesterol-test-frequency-after-40-family-history",
+      "5-things-every-woman-over-67-should-know-about-lipoprotein-a-testing-especially-after-a-family-history-of-premature-aortic-valve-stenosis",
+      "myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio",
+      "220-cholesterol-age-35",
+      "cholesterol-testing-required-at-35"
+    ]
+  },
+  {
+    "slug": "frequent-urination-at-night-at-55",
+    "title": "Frequent Urination at Night at 55? Early Sign of Diabetes?",
+    "description": "Frequent urination at night at 55 affects 67% of newly diagnosed type 2 diabetics — often before high fasting glucose (nocturia). Get tested now.",
+    "date": "2026-06-02",
+    "updated": "2026-06-02",
+    "primaryKeyword": "frequent urination at night at 55",
+    "topicCluster": "diabetes-management",
+    "image": "",
+    "relatedSlugs": [
+      "diabetes-eye-problems-after-65",
+      "signs-blood-sugar-too-low-at-night",
+      "the-connection-between-frequent-urination-at-night-and-heart-health",
+      "diabetes-erectile-dysfunction-after-50",
+      "7-silent-signs-of-prediabetes-you-re-likely-ignoring-after-age-55-even-with-normal-a1c"
+    ]
+  },
+  {
+    "slug": "food-tastes-bland-after-new-medications-seniors",
+    "title": "Why Food Tastes Bland After New Medications (Seniors)",
+    "description": "Food tastes bland after new medications seniors? Up to 35% of adults 65+ experience this (dysgeusia). Try lemon, herbs & zinc check — restore flavor fast.",
+    "date": "2026-06-02",
+    "updated": "2026-06-02",
+    "primaryKeyword": "food tastes bland after new medications seniors",
+    "topicCluster": "nutrition-diet-management",
+    "image": "",
+    "relatedSlugs": [
+      "how-holiday-table-salt-substitutes-affect-taste-perception-and-sodium-intake-in-adults-74-with-age-related-hypogeusia-and-hypertension",
+      "what-are-the-earliest-taste-perception-changes-that-make-holiday-spices-feel-too-strong-after-age-68",
+      "what-causes-sudden-loss-of-taste-during-stable-beta-blocker-therapy-in-adults-71-with-preserved-ejection-fraction-and-zinc-deficiency"
+    ]
+  },
+  {
     "slug": "high-cholesterol-chest-pain-heart-problem",
     "title": "Can High Cholesterol Cause Chest Pain Before a Heart Problem?",
     "description": "No — high cholesterol causes no symptoms (like chest pain) until arteries are ≥70% blocked. Over 90% with LDL ≥160 mg/dL feel fine — even with early plaque.",
