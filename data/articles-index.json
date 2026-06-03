@@ -1,5 +1,56 @@
 [
   {
+    "slug": "signs-not-eating-enough-after-75",
+    "title": "Signs You're Not Eating Enough After 75 — Act Before Muscle Loss",
+    "description": "Signs you're not eating enough after 75: unintentional 5% weight loss in 6 months, fatigue, falls. 40% of adults over 75 eat too little protein (25–30g/meal).",
+    "date": "2026-06-03",
+    "updated": "2026-06-03",
+    "primaryKeyword": "signs you're not eating enough after 75",
+    "topicCluster": "nutrition-diet-management",
+    "image": "",
+    "relatedSlugs": [
+      "meal-planning-for-one-after-70",
+      "5-signs-your-holiday-meal-plan-is-accelerating-sarcopenia-especially-if-you-re-60-and-eating-less-than-1-2g-kg-protein-daily",
+      "meal-plan-active-seniors-35-50",
+      "5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60",
+      "warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines"
+    ]
+  },
+  {
+    "slug": "low-impact-exercise-swollen-ankles-seniors",
+    "title": "Low Impact Exercise for Swollen Ankles Over 60",
+    "description": "Safe low impact exercise for swollen ankles over 60 — aquatic workouts cut swelling by 37% (JAGS 2022).",
+    "date": "2026-06-03",
+    "updated": "2026-06-03",
+    "primaryKeyword": "low impact exercise for swollen ankles over 60",
+    "topicCluster": "lifestyle-interventions",
+    "image": "",
+    "relatedSlugs": [
+      "low-impact-exercises-swollen-knees-seniors",
+      "low-impact-exercises-seniors-over-70",
+      "best-low-impact-exercises-for-managing-diabetes-after-60",
+      "exercises-safe-seniors-arthritis-knees",
+      "low-impact-exercise-blood-pressure-seniors"
+    ]
+  },
+  {
+    "slug": "blood-sugar-friendly-foods-fill-you-up",
+    "title": "Blood Sugar Friendly Foods That Fill You Up — For Adults 40+",
+    "description": "Blood sugar friendly foods that fill you up—like lentil stew with spinach—deliver ~15g fiber & curb glucose spikes by ≤30 mg/dL (ADA 2022).",
+    "date": "2026-06-03",
+    "updated": "2026-06-03",
+    "primaryKeyword": "blood sugar friendly foods that fill you up",
+    "topicCluster": "diabetes-management",
+    "image": "",
+    "relatedSlugs": [
+      "blood-sugar-friendly-foods-energy-after-40",
+      "blood-sugar-friendly-foods-seniors",
+      "blood-sugar-friendly-lunch-after-35",
+      "blood-sugar-friendly-snacks-seniors-70-plus",
+      "foods-lower-blood-sugar-without-pills"
+    ]
+  },
+  {
     "slug": "lipoprotein-a-test-family-history",
     "title": "Should I Get a Lipoprotein(a) Test With Family History?",
     "description": "Yes—if a parent had a heart attack before 55, guidelines recommend Lp(a) testing once. ~20% have high levels (>50 mg/dL), raising heart risk 2.",
