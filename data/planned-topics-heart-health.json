@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "title": "Cholesterol Testing at Home: Are Kits Accurate?",
+    "description": "FDA-cleared finger-prick tests match lab LDL within ±12 mg/dL — find out which brands doctors trust and when to retest.",
+    "primaryKeyword": "cholesterol testing at home accurate",
+    "topicCluster": "nutrition-diet-management",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-06-06T04:47:48.321Z",
+    "score": 39.75,
+    "scheduledWeek": "2026-W24"
+  },
+  {
+    "title": "Warning Signs of High Cholesterol You Can’t Feel",
+    "description": "95% of adults with LDL >160 have no symptoms — discover why eye checks, ankle pulses, and family history matter most.",
+    "primaryKeyword": "warning signs of high cholesterol",
+    "topicCluster": "nutrition-diet-management",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-06-06T04:47:48.321Z",
+    "score": 24.75,
+    "scheduledWeek": "2026-W24"
+  }
+]

@@ -1,122 +1,56 @@
 [
   {
-    "title": "What to Do When Cholesterol Is High but You’re Thin",
-    "description": "Up to 30% of normal-weight adults over 50 have high LDL — discover hidden causes and fixes.",
-    "primaryKeyword": "high cholesterol but thin after 50",
-    "topicCluster": "diet-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-05-30T08:26:17.752Z"
-  },
-  {
-    "title": "Can Apple Cider Vinegar Help Cholesterol After 55?",
-    "description": "Small trials show no LDL change with 1 tbsp/day — but it *does* help triglycerides by 14%. Discover why.",
-    "primaryKeyword": "can apple cider vinegar help cholesterol after 55",
+    "title": "Does Fish Oil Really Lower Triglycerides?",
+    "description": "Studies show 1–4g daily can cut triglycerides by 25–50% — find out if it’s right for your numbers and age.",
+    "primaryKeyword": "does fish oil lower triglycerides",
     "topicCluster": "natural-remedies-cholesterol",
     "coreKeyword": "cholesterol",
-    "createdAt": "2026-05-30T08:26:21.595Z"
+    "createdAt": "2026-06-06T04:47:48.319Z",
+    "score": 44,
+    "scheduledWeek": "2026-W24",
+    "perplexityQuestions": [
+      "What are the symptoms of high cholesterol in adults over 35, and can it go unnoticed for years?",
+      "Is an LDL of 130, 160, or 190 dangerous at age 40, 45, or 50 if I otherwise feel healthy?",
+      "What does it mean if my total cholesterol is under 200 but my LDL is still high?",
+      "Can high cholesterol be genetic even if I eat well and exercise?",
+      "Should I ask for an ApoB or lipoprotein(a) test if my cholesterol is borderline high at 35+?"
+    ],
+    "competitorCoverage": "Top-ranking adult cholesterol articles usually explain what cholesterol is, the difference between LDL, HDL, and triglycerides, common causes and risk factors, and how testing works and how often to screen.[1][2][3][4][7][9] To compete, a new article should also cover risk-stratified thresholds by age and condition, advanced tests like ApoB and lipoprotein(a), when lifestyle changes are not enough, and clear guidance on when medication is typically discussed.[3][7][8][9]"
   },
   {
-    "title": "Best Time to Take Cholesterol Pills for Seniors Over 70",
-    "description": "Taking simvastatin at bedtime lowers LDL 18% more than morning doses — find out why and how.",
-    "primaryKeyword": "best time to take cholesterol pills for seniors",
-    "topicCluster": "medication-cholesterol",
+    "title": "Cholesterol Testing at Home: Are Kits Accurate?",
+    "description": "FDA-cleared finger-prick tests match lab LDL within ±12 mg/dL — find out which brands doctors trust and when to retest.",
+    "primaryKeyword": "cholesterol testing at home accurate",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "cholesterol",
-    "createdAt": "2026-05-30T08:26:23.896Z"
+    "createdAt": "2026-06-06T04:47:48.319Z",
+    "score": 39.75,
+    "scheduledWeek": "2026-W24",
+    "perplexityQuestions": [
+      "What are the symptoms of high cholesterol in adults over 35, and can it go unnoticed for years?",
+      "Is an LDL of 130, 160, or 190 dangerous at age 40, 45, or 50 if I otherwise feel healthy?",
+      "What does it mean if my total cholesterol is under 200 but my LDL is still high?",
+      "Can high cholesterol be genetic even if I eat well and exercise?",
+      "Should I ask for an ApoB or lipoprotein(a) test if my cholesterol is borderline high at 35+?"
+    ],
+    "competitorCoverage": "Top-ranking adult cholesterol articles usually explain what cholesterol is, the difference between LDL, HDL, and triglycerides, common causes and risk factors, and how testing works and how often to screen.[1][2][3][4][7][9] To compete, a new article should also cover risk-stratified thresholds by age and condition, advanced tests like ApoB and lipoprotein(a), when lifestyle changes are not enough, and clear guidance on when medication is typically discussed.[3][7][8][9]"
   },
   {
     "title": "Warning Signs of High Cholesterol You Can’t Feel",
-    "description": "95% of people with LDL >160 have *zero* symptoms — learn the 3 silent red flags doctors watch for.",
-    "primaryKeyword": "warning signs of high cholesterol you can't feel",
-    "topicCluster": "symptoms-cholesterol",
+    "description": "95% of adults with LDL >160 have no symptoms — discover why eye checks, ankle pulses, and family history matter most.",
+    "primaryKeyword": "warning signs of high cholesterol",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "cholesterol",
-    "createdAt": "2026-05-30T08:26:26.211Z"
-  },
-  {
-    "title": "Cholesterol and Erectile Dysfunction After 50: The Link",
-    "description": "Men with LDL >140 are 2.3x more likely to report ED — discover diet and med fixes that work.",
-    "primaryKeyword": "cholesterol and erectile dysfunction after 50",
-    "topicCluster": "cholesterol-heart-disease",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-05-30T08:26:28.573Z"
-  },
-  {
-    "title": "How to Lower Cholesterol While Traveling After 65",
-    "description": "68% of seniors see LDL rise on trips — learn 5 airport- and hotel-friendly habits that keep it stable.",
-    "primaryKeyword": "how to lower cholesterol while traveling after 65",
-    "topicCluster": "lifestyle-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-05-30T08:26:30.881Z"
-  },
-  {
-    "title": "Cholesterol-Lowering Soups for Seniors on a Budget",
-    "description": "All cost under $2.50/serving and contain oats, beans, or barley — proven to lower LDL in 8 weeks.",
-    "primaryKeyword": "cholesterol lowering soups on a budget",
-    "topicCluster": "diet-cholesterol-soups",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-05-30T08:26:34.717Z"
-  },
-  {
-    "title": "Can Niacin Lower Cholesterol After 60 Without Statins?",
-    "description": "Niacin drops LDL by ~10% but raises stroke risk in adults over 60 — learn safer natural options.",
-    "primaryKeyword": "can niacin lower cholesterol after 60",
-    "topicCluster": "natural-remedies-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-05-30T08:26:37.034Z"
-  },
-  {
-    "title": "What to Do When Cholesterol Goes Up After Starting Metformin",
-    "description": "1 in 5 adults on metformin see LDL rise 5–12 mg/dL — discover why and 3 proven countermeasures.",
-    "primaryKeyword": "cholesterol goes up after starting metformin",
-    "topicCluster": "medication-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-05-30T08:26:39.497Z"
-  },
-  {
-    "title": "Cholesterol and Memory Loss After 65: Is There a Link?",
-    "description": "Low HDL (<50 mg/dL) is tied to 40% faster cognitive decline in adults over 65 — learn how to protect both.",
-    "primaryKeyword": "cholesterol and memory loss after 65",
-    "topicCluster": "cholesterol-heart-disease",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-05-30T08:26:41.757Z"
-  },
-  {
-    "title": "Best Cholesterol-Lowering Exercise for Sedentary Seniors",
-    "description": "Just 12 minutes/day of seated leg lifts lowered LDL by 9% in a 12-week study — find out how.",
-    "primaryKeyword": "best cholesterol lowering exercise sedentary seniors",
-    "topicCluster": "exercise-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-05-30T08:26:44.077Z"
-  },
-  {
-    "title": "Cholesterol-Lowering Soups for Seniors With Kidney Disease",
-    "description": "3 low-phosphorus, low-sodium options with kidney-safe protein — proven to lower LDL without straining kidneys.",
-    "primaryKeyword": "cholesterol lowering soups for seniors with kidney disease",
-    "topicCluster": "diet-cholesterol-soups",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-05-30T08:26:47.895Z"
-  },
-  {
-    "title": "How to Lower Cholesterol Without Losing Muscle After 70",
-    "description": "Seniors on low-fat diets lose 0.8 lbs of muscle per month — discover protein-sparing, cholesterol-lowering meals.",
-    "primaryKeyword": "lower cholesterol without losing muscle after 70",
-    "topicCluster": "diet-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-05-30T08:26:50.219Z"
-  },
-  {
-    "title": "Cholesterol Testing at Home: Are Finger-Prick Kits Accurate?",
-    "description": "Most home kits miss HDL by ±18% — learn which 2 metrics *are* reliable and how to interpret them.",
-    "primaryKeyword": "are cholesterol home test kits accurate",
-    "topicCluster": "testing-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-05-30T08:26:53.987Z"
-  },
-  {
-    "title": "Can Turmeric Lower Cholesterol After 55?",
-    "description": "Curcumin drops triglycerides by 19% and LDL by 12% in 8 weeks — but only with black pepper. Discover why.",
-    "primaryKeyword": "can turmeric lower cholesterol after 55",
-    "topicCluster": "natural-remedies-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-05-30T08:26:56.277Z"
+    "createdAt": "2026-06-06T04:47:48.319Z",
+    "score": 24.75,
+    "scheduledWeek": "2026-W24",
+    "perplexityQuestions": [
+      "What are the symptoms of high cholesterol in adults over 35, and can it go unnoticed for years?",
+      "Is an LDL of 130, 160, or 190 dangerous at age 40, 45, or 50 if I otherwise feel healthy?",
+      "What does it mean if my total cholesterol is under 200 but my LDL is still high?",
+      "Can high cholesterol be genetic even if I eat well and exercise?",
+      "Should I ask for an ApoB or lipoprotein(a) test if my cholesterol is borderline high at 35+?"
+    ],
+    "competitorCoverage": "Top-ranking adult cholesterol articles usually explain what cholesterol is, the difference between LDL, HDL, and triglycerides, common causes and risk factors, and how testing works and how often to screen.[1][2][3][4][7][9] To compete, a new article should also cover risk-stratified thresholds by age and condition, advanced tests like ApoB and lipoprotein(a), when lifestyle changes are not enough, and clear guidance on when medication is typically discussed.[3][7][8][9]"
   }
 ]

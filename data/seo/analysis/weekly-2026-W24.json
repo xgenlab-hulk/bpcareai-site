@@ -1,0 +1,217 @@
+{
+  "week": "2026-W24",
+  "generatedAt": "2026-06-06T04:47:48.321Z",
+  "config": {
+    "weeklyTarget": 35,
+    "dailyTarget": 5
+  },
+  "previousWeek": {
+    "remaining": 35,
+    "kept": 0
+  },
+  "newGenerated": 20,
+  "totalWritten": 17,
+  "gscData": {
+    "daysAnalyzed": 7,
+    "totalSearchTerms": 26
+  },
+  "llmAnalysis": {
+    "searchIntentAnalysis": "全部26个查询均为信息型搜索意图（Informational Intent），聚焦环境因素（热、湿度、空调、取暖器）与血压/胆固醇的生理关联，以及具体饮食方案（降胆固醇汤、高纤维配餐、软食）。典型词如'can heat increase blood pressure'（avgPosition 76, CTR 0）、'soup to lower cholesterol'（impressions 1, CTR 0）表明用户处于健康自我管理初期阶段，寻求通俗可操作的居家干预方案；无商业词（如'best bp monitor'）或紧急词（如'bp 200/120 what to do'），说明当前流量尚未触达高意向急救或决策场景。",
+    "ctrAnomalies": "全量查询CTR=0%，核心原因为：① 排名过深——18/26个查询平均位置≥53（其中11个＞70，最高98），远超自然点击衰减阈值（>10位点击率<1%）；② 页面匹配失效——如查询'does heat affect blood pressure'（impressions 2, avgPosition 85）未命中已存在文章《the-hidden-dangers-of-indoor-heating-on-blood-pressure》（position 19.8），说明标题/正文未覆盖该高频口语化问法；③ 首页及栏目页严重失能——/articles页获167次展示但0点击（position 6.4），证明导航结构或元描述无法建立用户信任。",
+    "hiddenOpportunities": "[\"环境血压长尾蓝海：'heat and blood pressure'系列共11个变体查询（占总查询42%），零点击但存在真实需求，且竞对未系统覆盖（GSC中无同类高排名内容）；\",\"软食+心血管交叉需求：'soft food for older adults with no teeth'（impressions 1, position 32）是典型高价值长尾——直击70+用户咀嚼障碍与高血压/心衰饮食冲突痛点，当前仅1篇相关文章（holiday-eating-on-a-soft-food-diet）未突出心血管适配性；\",\"AI品牌认知缺口：'bp rating ai'（impressions 3, position 5）和'bp-ai'（impressions 1, position 45）显示用户主动关联品牌与AI能力，但网站无'AI-powered BP interpretation'或'personalized hypertension risk score'等落地功能页；\",\"湿度变量被完全忽视：'humidity and blood pressure'（position 57）、'does heat and humidity affect blood pressure'（position 89）等6个湿度相关查询零覆盖，而气象医学研究证实湿度＞60%显著影响外周血管阻力；\",\"Soups主题存在强转化潜力：'soup for high blood pressure'、'soups for high blood pressure'、'low cholesterol soups'等7个汤类查询累计impressions 12，但对应文章《best-warm-heart-healthy-soups-for-seniors-with-high-cholesterol》仅排78位，标题未包含'high blood pressure'核心词。\"]",
+    "topicPriorities": "[{\"topic\":\"Heat, Humidity & Blood Pressure: What Seniors Need to Know Now\",\"dataBasis\":\"热/湿度相关查询共13个，占全部查询46%，平均位置82.3，零点击，但生理机制明确（热应激→交感激活→BP↑；湿度→散热障碍→心输出量↑），且夏季搜索量将季节性飙升\",\"whyPriority\":\"最高ROI：用1篇深度指南覆盖13个长尾词，标题直嵌'heat and blood pressure'等TOP位置词，可快速拉升首页相关性\"},{\"topic\":\"7 Heart-Healthy Soups for High Blood Pressure & High Cholesterol (Soft-Food Friendly)\",\"dataBasis\":\"汤类相关查询7个（如'soup for high blood pressure', 'low cholesterol soups'），累计impressions 12；现有文章slug含'high-cholesterol'但未提'high blood pres",
+    "articleOptimizations": 5
+  },
+  "perplexityInsights": {
+    "cholesterol": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "What are the symptoms of high cholesterol in adults over 35, and can it go unnoticed for years?",
+        "Is an LDL of 130, 160, or 190 dangerous at age 40, 45, or 50 if I otherwise feel healthy?",
+        "What does it mean if my total cholesterol is under 200 but my LDL is still high?",
+        "Can high cholesterol be genetic even if I eat well and exercise?",
+        "Should I ask for an ApoB or lipoprotein(a) test if my cholesterol is borderline high at 35+?",
+        "How often should adults with family history, diabetes, or high blood pressure get their cholesterol checked?",
+        "Can menopause or perimenopause raise LDL and triglycerides in women over 40?",
+        "Why is my HDL low even though my LDL is normal?",
+        "Can hypothyroidism, PCOS, kidney disease, or fatty liver cause high cholesterol?",
+        "Can alcohol raise triglycerides and cholesterol even if I only drink on weekends?"
+      ],
+      "competitorCoverage": "Top-ranking adult cholesterol articles usually explain what cholesterol is, the difference between LDL, HDL, and triglycerides, common causes and risk factors, and how testing works and how often to screen.[1][2][3][4][7][9] To compete, a new article should also cover risk-stratified thresholds by age and condition, advanced tests like ApoB and lipoprotein(a), when lifestyle changes are not enough, and clear guidance on when medication is typically discussed.[3][7][8][9]",
+      "whyItMatters": "This topic stays important because adult screening and treatment guidance is still being actively emphasized, with major sources highlighting age-based testing, family history, menopause, diabetes, and alcohol as common reasons cholesterol questions arise.[1][3][4][7] It is also trending because many adults are getting lipid panels through routine care, home testing, or follow-up after borderline results, which drives searches about what specific numbers mean and whether they need medication or more advanced testing.[3][8][9]"
+    },
+    "diabetes": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "Can I have diabetes if my fasting blood sugar is normal but my A1C is high?",
+        "Is an A1C of 5.7, 5.8, or 5.9 in my 40s or 50s considered prediabetes?",
+        "What blood sugar numbers are dangerous after meals for adults over 35?",
+        "Can diabetes cause blurred vision that comes and goes in my 40s?",
+        "Why am I so tired all the time if my blood sugar is only mildly elevated?",
+        "Can tingling or numbness in my feet be an early sign of diabetes even without high A1C?",
+        "How often should adults over 35 get screened for diabetes if they feel fine?",
+        "Can stress, poor sleep, or shift work raise blood sugar enough to look like diabetes?",
+        "Is it possible to have type 2 diabetes if I’m not overweight and I exercise?",
+        "Can diabetes make cuts, infections, or yeast infections heal slowly in adults?"
+      ],
+      "competitorCoverage": "Top-ranking diabetes articles for adults usually cover the basics first: symptoms, risk factors, testing, A1C and glucose ranges, and when to see a clinician. They also tend to include prevention and management advice such as diet, exercise, weight loss, and monitoring blood pressure, cholesterol, kidneys, feet, and eye health.[1][3][5][6][7][10] A competitive new article should also answer high-intent questions around borderline numbers, screening frequency after age 35, normal-vs-dangerous readings, medication effects, and what to do next for people who are worried but not yet diagnosed.[2][4][9]",
+      "whyItMatters": "This topic stays highly relevant because major sources still emphasize screening adults starting at 35 and note that type 2 diabetes risk rises with age, so many people are actively checking borderline lab results and symptoms.[4][6] It also remains important because current diabetes content is tightly tied to practical self-management questions—especially A1C goals, glucose targets, and complication prevention—which drive search demand from both newly concerned adults and people already living with diabetes.[2][5][9]"
+    },
+    "healthy eating for seniors": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "What should a 70-year-old eat every day to stay healthy?",
+        "How much protein do adults over 65 need per day?",
+        "How many calories should a 75-year-old woman eat to avoid losing weight?",
+        "What are the best foods for older adults who have no appetite?",
+        "How can seniors eat healthy when chewing or swallowing is difficult?",
+        "What foods help older adults get enough fiber without upsetting digestion?",
+        "How much water should adults 70+ drink each day?",
+        "Which vitamins are most important for seniors who eat less?",
+        "What is the best healthy breakfast for a 68-year-old with diabetes?",
+        "How can an older adult eat healthy on a fixed income?"
+      ],
+      "competitorCoverage": "Top-ranking articles usually cover the basics of senior nutrition: nutrient-dense foods, protein, fiber, hydration, and limiting sodium, added sugar, saturated fat, and highly processed foods. They also tend to include practical guidance such as portion control, meal planning, label reading, appetite loss, and strategies for common aging issues like loneliness, low appetite, and difficulty cooking or shopping. To compete, a new article should add clear age-specific targets, easy meal examples, and practical advice for real-life constraints like budget, dental problems, medication interactions, and chronic conditions.",
+      "whyItMatters": "This topic matters now because older adults are more likely to face overlapping risks such as low appetite, dehydration, sarcopenia, and chronic disease, making nutrition a major driver of independence and health. It is also trending because current public-health guidance continues to emphasize nutrient density, adequate protein, and hydration for aging adults, while many families are searching for practical, realistic meal ideas they can use immediately."
+    },
+    "exercise for seniors": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "What is the best exercise routine for seniors over 65 who are completely out of shape?",
+        "Can a 70-year-old start strength training safely, and how heavy should the weights be at first?",
+        "Is walking enough exercise for a 75-year-old, or do seniors also need strength and balance training?",
+        "How many minutes of exercise per week should adults over 65 really aim for?",
+        "What are the safest exercises for a 68-year-old with a history of falls or poor balance?",
+        "Can older adults do high-intensity interval training, and is it safe after 60?",
+        "What exercises are best for seniors with osteoporosis or osteopenia to avoid fractures?",
+        "How often should seniors do balance exercises to lower fall risk?",
+        "Can someone over 70 exercise every day, or do they need rest days between workouts?",
+        "What is the best exercise plan for a sedentary 80-year-old who gets short of breath quickly?"
+      ],
+      "competitorCoverage": "The top-ranking articles generally cover the basic exercise categories older adults need: aerobic activity, strength training, balance work, and flexibility, along with the standard guideline targets of about 150 minutes per week plus muscle-strengthening on at least 2 days a week.[1][3][5][9] They also emphasize starting slowly, choosing low-impact options like walking, water exercise, yoga, tai chi, or chair-based movement, and stopping if pain, dizziness, chest discomfort, or unusual fatigue occurs.[2][3][4][5] To compete, a new article should clearly explain how to begin safely, how to scale exercise for deconditioned adults, and what red-flag symptoms or medical conditions warrant clinician clearance first.[3][4][5]",
+      "whyItMatters": "This topic stays important because major guidance for older adults continues to stress daily movement, strength, balance, flexibility, and reduced sitting time, and those recommendations are widely promoted by NHS, AMA, and other health sources.[1][3][9] It is also timely because recent clinical syntheses continue to support resistance training, balance-focused movement, and multimodal programs for improving strength and function in older adults, which keeps search interest high among people looking for safe, practical routines.[6][7]"
+    }
+  },
+  "topTopics": [
+    {
+      "title": "How Many Minutes of Exercise Should Seniors Over 65 Really Do?",
+      "pk": "how many minutes exercise for seniors over 65",
+      "score": 58,
+      "breakdown": {
+        "clusterNeed": 22,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率45%，大缺口 | 近7天已产出6篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    },
+    {
+      "title": "What to Do When Walking Makes Your Knees Hurt After 68",
+      "pk": "what to do when walking hurts knees after 68",
+      "score": 58,
+      "breakdown": {
+        "clusterNeed": 22,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率45%，大缺口 | 近7天已产出6篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    },
+    {
+      "title": "Best Walking Routine for Seniors Who Haven’t Exercised in Years",
+      "pk": "best walking routine for seniors out of shape",
+      "score": 57,
+      "breakdown": {
+        "clusterNeed": 22,
+        "searchDemand": 8,
+        "differentiation": 21,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率45%，大缺口 | 近7天已产出6篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠40%)"
+    },
+    {
+      "title": "Which Vitamins Are Most Important for Seniors?",
+      "pk": "which vitamins are most important for seniors",
+      "score": 48,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 24,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章高度差异化(重叠25%)"
+    },
+    {
+      "title": "How Often Should Adults Over 35 Get Screened for Diabetes?",
+      "pk": "how often get screened for diabetes after 35",
+      "score": 47.12,
+      "breakdown": {
+        "clusterNeed": 11.1,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "diabetes-management集群覆盖率79%，中等缺口 | 近7天已产出4篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    },
+    {
+      "title": "Best Blood Sugar Monitor for Arthritic Hands Over 70",
+      "pk": "blood sugar monitor for arthritic hands",
+      "score": 46.12,
+      "breakdown": {
+        "clusterNeed": 11.1,
+        "searchDemand": 11,
+        "differentiation": 22,
+        "timeliness": 2
+      },
+      "reasoning": "diabetes-management集群覆盖率79%，中等缺口 | 近7天已产出4篇，适度减分 | GSC方向相关\"space heater vs blood pressure monitor\"(4次展示)，微弱信号 | 与已有文章有差异(重叠33%) | 搜索趋势下降"
+    },
+    {
+      "title": "What to Do When A1C Is 5.8 at 48",
+      "pk": "a1c 5.8 at 48 what to do",
+      "score": 45.12,
+      "breakdown": {
+        "clusterNeed": 11.1,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "diabetes-management集群覆盖率79%，中等缺口 | 近7天已产出4篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Why Tingling Feet Happens Before A1C Rises After 55",
+      "pk": "tingling feet before high a1c after 55",
+      "score": 45.12,
+      "breakdown": {
+        "clusterNeed": 11.1,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "diabetes-management集群覆盖率79%，中等缺口 | 近7天已产出4篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "What Should a 70-Year-Old Eat Every Day?",
+      "pk": "what should a 70 year old eat every day",
+      "score": 45,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 21,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章有差异(重叠40%)"
+    },
+    {
+      "title": "Does Fish Oil Really Lower Triglycerides?",
+      "pk": "does fish oil lower triglycerides",
+      "score": 44,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    }
+  ]
+}

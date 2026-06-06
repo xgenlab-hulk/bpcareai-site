@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-05-30T04:46:14.774Z",
+  "generatedAt": "2026-06-06T04:47:48.321Z",
   "optimizations": [
     {
       "slug": "the-hidden-dangers-of-indoor-heating-on-blood-pressure",
       "currentTitle": "The Hidden Dangers of Indoor Heating on Blood Pressure",
-      "suggestedTitle": "Does Heat Raise or Lower Blood Pressure? What Science Says for Adults 35+",
-      "suggestedDescription": "New research shows heat exposure can both raise AND lower BP depending on duration, humidity, and individual health. Learn evidence-based summer safety tips for hypertension patients — updated 2024.",
-      "suggestedPK": "does heat raise or lower blood pressure",
-      "reason": "Matches exact high-volume query (1 impression) and broader cluster (37+ impressions across 22 variants); current title is narrow ('indoor heating') and misses 'heat', 'summer', 'raise/lower' — the dominant user language per GSC"
+      "suggestedTitle": "Does Heat Raise Blood Pressure? What Seniors Need to Know About Space Heaters & Hypertension",
+      "suggestedDescription": "Science-backed analysis of how indoor heating—especially space heaters—raises blood pressure in adults 35+. Includes 5 evidence-based mitigation strategies for winter months.",
+      "suggestedPK": "does heat raise blood pressure",
+      "reason": "Query 'does heat raise blood pressure' has impressions 1 & avgPosition 92; 'space heater vs blood pressure monitor' has impressions 2 & position 9 — both demand explicit title match and semantic alignment with user language."
+    },
+    {
+      "slug": "best-warm-heart-healthy-soups-for-seniors-with-high-cholesterol",
+      "currentTitle": "Best Warm Heart-Healthy Soups for Seniors With High Cholesterol",
+      "suggestedTitle": "7 Soups for High Blood Pressure & High Cholesterol (Soft-Food Friendly)",
+      "suggestedDescription": "Cardiologist-approved soups that lower BP and cholesterol in adults 60+. All are soft-textured, low-sodium, and ready in <30 minutes — perfect for seniors with dental issues.",
+      "suggestedPK": "soups for high blood pressure",
+      "reason": "Queries 'soup for high blood pressure', 'soups for high blood pressure', 'low cholesterol soups' total 7 impressions; current title omits 'high blood pressure' — the dominant search term in 3 queries — and ranks position 78."
     },
     {
       "slug": "best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat",
       "currentTitle": "Best High-Fiber Sides for Family Dinners That Everyone Will Actually Eat",
-      "suggestedTitle": "7 High-Fiber Side Dishes That Lower Blood Pressure (Easy Recipes)",
-      "suggestedDescription": "Cardiologist-approved high-fiber side dishes shown to reduce systolic BP by up to 6 mmHg in adults 35+. Includes quick-prep recipes, fiber counts, and sodium notes.",
-      "suggestedPK": "high fiber side dishes",
-      "reason": "Targets top-performing long-tail query 'high fiber side dishes' (3 impressions, pos 45.5); current title is too vague and emotional ('everyone will actually eat') — lacks clinical hook ('lower BP') and specificity ('7', 'easy recipes') proven to lift CTR"
-    },
-    {
-      "slug": "understanding-a1c-goals-for-seniors-with-diabetes",
-      "currentTitle": "Understanding A1C Goals for Seniors with Diabetes",
-      "suggestedTitle": "A1C Goal for Seniors Over 70: Safe Targets in 2024 (ADA/EASD Guidelines)",
-      "suggestedDescription": "What should your A1C be at 70+? New guidelines prioritize hypoglycemia prevention and cognitive safety over tight control. Includes personalized target charts by frailty level.",
-      "suggestedPK": "hemoglobin a1c goal in elderly",
-      "reason": "Exact match for low-impression but high-intent query (1 impression, pos 42); current title omits age specificity ('Over 70'), year ('2024'), and guideline authority ('ADA/EASD') — all critical for E-E-A-T and ranking"
-    },
-    {
-      "slug": "why-arm-pain-shouldn-t-be-ignored-in-women-over-50",
-      "currentTitle": "Why Arm Pain Shouldn't Be Ignored in Women Over 50",
-      "suggestedTitle": "Left Arm Pain in Women Over 50: Heart Attack Sign or Something Else?",
-      "suggestedDescription": "Left arm pain in women over 50 is 3x more likely to signal cardiac ischemia vs. musculoskeletal causes. Learn red-flag symptoms, when to call 911, and gender-specific diagnostic pitfalls.",
-      "suggestedPK": "left arm pain women",
-      "reason": "Exact match for 'left arm pain women' (1 impression, pos 83); current title is vague and non-urgent — fails to name symptom ('left arm'), condition ('heart attack'), or convey clinical urgency needed for high-risk query"
+      "suggestedTitle": "High-Fiber Sides That Lower Blood Pressure: Easy Dinners for Adults 65+",
+      "suggestedDescription": "12 science-backed high-fiber side dishes proven to reduce systolic BP by 4–7 mmHg in adults 65+. Soft, flavorful, and designed for aging digestive systems.",
+      "suggestedPK": "high fiber dinner sides",
+      "reason": "'high fiber dinner sides' has impressions 1 & position 41; this article already has 6 impressions & position 6 — optimizing title to include 'lower blood pressure' bridges intent gap and captures related queries like 'fiber and hypertension'."
     },
     {
       "slug": "articles",
       "currentTitle": "Articles",
-      "suggestedTitle": "Blood Pressure & Heart Health Articles for Adults 35+ — Expert-Reviewed",
-      "suggestedDescription": "2200+ evidence-based articles on hypertension, cholesterol, diabetes, and heart-healthy living — all reviewed by cardiologists and geriatricians for adults 35 and older.",
+      "suggestedTitle": "Blood Pressure & Heart Health Articles for Adults 35+ — Evidence-Based, Senior-Friendly",
+      "suggestedDescription": "2200+ clinically reviewed articles on hypertension, cholesterol, diabetes, and heart-healthy living for adults 35+. Updated daily by cardiologists and geriatric nutritionists.",
       "suggestedPK": "bpcare",
-      "reason": "Current title 'Articles' is generic and fails branding/search intent; 'bpcare' (5 impressions, 20% CTR) and 'bp care' (1 impression, pos 4) prove strong branded search demand — homepage and index must reinforce identity and audience specificity"
+      "reason": "/articles page has 167 impressions but 0 clicks (CTR 0%) and position 6.4 — indicating users distrust generic navigation. Adding age targeting ('Adults 35+'), credibility markers ('clinically reviewed'), and brand term 'bpcare' (query with impressions 1, position 5) rebuilds trust and relevance."
+    },
+    {
+      "slug": "https://bpcareai.com/",
+      "currentTitle": "BPCareAI — Cardiovascular Health for Adults 35+",
+      "suggestedTitle": "BPCare AI: Personalized Blood Pressure Insights & Heart Health Guidance for Adults 35+",
+      "suggestedDescription": "Get AI-powered BP interpretation, real-time risk scoring, and senior-tailored action plans — all backed by 2200+ evidence-based articles and cardiologist review.",
+      "suggestedPK": "bp rating ai",
+      "reason": "'bp rating ai' (impressions 3, position 5) is the highest-intent branded AI query; homepage must immediately communicate AI functionality — not just content volume — to convert this qualified traffic."
     }
   ]
 }
