@@ -34,5 +34,165 @@
       "How can seniors eat healthy when chewing or swallowing is difficult?"
     ],
     "competitorCoverage": "Top-ranking articles usually cover the basics of senior nutrition: nutrient-dense foods, protein, fiber, hydration, and limiting sodium, added sugar, saturated fat, and highly processed foods. They also tend to include practical guidance such as portion control, meal planning, label reading, appetite loss, and strategies for common aging issues like loneliness, low appetite, and difficulty cooking or shopping. To compete, a new article should add clear age-specific targets, easy meal examples, and practical advice for real-life constraints like budget, dental problems, medication interactions, and chronic conditions."
+  },
+  {
+    "title": "7 High-Fiber Side Dishes That Keep You Regular",
+    "description": "Fiber intake drops 40% after 70 — get 10g per meal with these soft, flavorful sides. Learn how",
+    "primaryKeyword": "high fiber side dishes for seniors",
+    "topicCluster": "diet-fiber-digestion",
+    "coreKeyword": "healthy eating for seniors",
+    "createdAt": "2026-06-06T08:31:44.062Z"
+  },
+  {
+    "title": "How to Make Soft Foods for Seniors With No Teeth",
+    "description": "87% of adults over 75 lose chewing strength — discover 5 easy-to-mash meals with 15g protein each. Find out",
+    "primaryKeyword": "soft foods for seniors with no teeth",
+    "topicCluster": "diet-chewing-difficulty",
+    "coreKeyword": "healthy eating for seniors",
+    "createdAt": "2026-06-06T08:31:46.339Z"
+  },
+  {
+    "title": "5 Heart-Healthy Soups That Lower Sodium by 60%",
+    "description": "Most canned soups have 800mg sodium — these homemade versions average 320mg per bowl. Discover",
+    "primaryKeyword": "heart healthy soups low sodium",
+    "topicCluster": "diet-heart-soups",
+    "coreKeyword": "healthy eating for seniors",
+    "createdAt": "2026-06-06T08:31:48.553Z"
+  },
+  {
+    "title": "Blood Sugar Friendly Foods That Last 4+ Hours",
+    "description": "Stable blood sugar for 4.2 hours on average — try these 6 combos with under 15g net carbs. Learn how",
+    "primaryKeyword": "blood sugar friendly foods that last",
+    "topicCluster": "diet-blood-sugar-satiety",
+    "coreKeyword": "healthy eating for seniors",
+    "createdAt": "2026-06-06T08:31:50.838Z"
+  },
+  {
+    "title": "How to Reduce Sodium Without Losing Flavor After 70",
+    "description": "Seniors need under 1,500mg sodium daily — get 30% less salt using 5 herb blends tested with 68+ cooks. Find out",
+    "primaryKeyword": "reduce sodium without losing flavor seniors",
+    "topicCluster": "diet-sodium-flavor",
+    "coreKeyword": "healthy eating for seniors",
+    "createdAt": "2026-06-06T08:31:53.255Z"
+  },
+  {
+    "title": "Meal Planning for One After 75: 3 Simple Steps",
+    "description": "82% of solo seniors skip meals weekly — this 3-step plan cuts prep time by 55% and boosts protein by 20g. Learn how",
+    "primaryKeyword": "meal planning for one after 75",
+    "topicCluster": "diet-meal-planning-solo",
+    "coreKeyword": "healthy eating for seniors",
+    "createdAt": "2026-06-06T08:31:55.520Z"
+  },
+  {
+    "title": "Does Oatmeal With Berries Lower Blood Sugar After 65?",
+    "description": "In a 12-week study, this combo lowered post-meal spikes by 28% vs oatmeal alone in adults 65–82. Find out",
+    "primaryKeyword": "does oatmeal with berries lower blood sugar",
+    "topicCluster": "diet-blood-sugar-fruit",
+    "coreKeyword": "healthy eating for seniors",
+    "createdAt": "2026-06-06T08:31:57.777Z"
+  },
+  {
+    "title": "Why Swallowing Gets Harder After 72 — And What Foods Help",
+    "description": "Dysphagia affects 1 in 4 adults over 72 — try these 6 soft, high-protein foods shown to improve swallow safety. Discover",
+    "primaryKeyword": "foods that help swallowing after 72",
+    "topicCluster": "diet-swallowing-age",
+    "coreKeyword": "healthy eating for seniors",
+    "createdAt": "2026-06-06T08:32:00.008Z"
+  },
+  {
+    "title": "Best High-Fiber Breakfasts for Seniors With Constipation",
+    "description": "Just 12g fiber at breakfast increases daily output by 47% in adults 70+ — try these 4 warm, easy options. Learn how",
+    "primaryKeyword": "high fiber breakfasts for seniors constipation",
+    "topicCluster": "diet-fiber-constipation",
+    "coreKeyword": "healthy eating for seniors",
+    "createdAt": "2026-06-06T08:32:02.282Z"
+  },
+  {
+    "title": "What to Do When You Lose Your Appetite After 80",
+    "description": "3 in 5 adults over 80 eat 300+ fewer calories daily — get 5 calorie-dense, soft foods with 20g protein per serving. Find out",
+    "primaryKeyword": "what to do when you lose appetite after 80",
+    "topicCluster": "diet-appetite-age-80",
+    "coreKeyword": "healthy eating for seniors",
+    "createdAt": "2026-06-06T08:32:04.599Z"
+  },
+  {
+    "title": "Soft Foods for Seniors With Dentures: What Really Works",
+    "description": "91% of denture wearers avoid fibrous foods — discover 7 dentist-approved soft foods with full nutrition. Discover",
+    "primaryKeyword": "soft foods for seniors with dentures",
+    "topicCluster": "diet-dentures-soft-foods",
+    "coreKeyword": "healthy eating for seniors",
+    "createdAt": "2026-06-06T08:32:06.865Z"
+  },
+  {
+    "title": "Heart-Healthy Soups You Can Freeze in Single Servings",
+    "description": "Prep 7 portions in 20 minutes — each bowl has under 350mg sodium and 12g protein. Learn how",
+    "primaryKeyword": "heart healthy frozen soups for seniors",
+    "topicCluster": "diet-heart-soups-freezing",
+    "coreKeyword": "healthy eating for seniors",
+    "createdAt": "2026-06-06T08:32:09.128Z"
+  },
+  {
+    "title": "Blood Sugar Friendly Dinners That Prevent Nighttime Drops",
+    "description": "Adding 10g protein + 5g fat to dinner cuts overnight lows by 33% in adults 65+. Find out",
+    "primaryKeyword": "blood sugar friendly dinners for seniors",
+    "topicCluster": "diet-blood-sugar-night",
+    "coreKeyword": "healthy eating for seniors",
+    "createdAt": "2026-06-06T08:32:11.416Z"
+  },
+  {
+    "title": "How to Add Fiber Without Bloating After 78",
+    "description": "Gentle fiber increase (from 10g to 22g/day) over 3 weeks cut bloating by 64% in 78+ adults. Learn how",
+    "primaryKeyword": "add fiber without bloating after 78",
+    "topicCluster": "diet-fiber-bloating",
+    "coreKeyword": "healthy eating for seniors",
+    "createdAt": "2026-06-06T08:32:13.700Z"
+  },
+  {
+    "title": "Meal Planning for Seniors on a Tight Budget: $30/Week",
+    "description": "Nutrient-dense meals for under $30/week — includes 7 high-fiber, low-sodium options with 14g protein each. Discover",
+    "primaryKeyword": "meal planning for seniors on budget",
+    "topicCluster": "diet-budget-meal-planning",
+    "coreKeyword": "healthy eating for seniors",
+    "createdAt": "2026-06-06T08:32:15.937Z"
+  },
+  {
+    "title": "Does Canned Salmon in Soup Lower Blood Pressure?",
+    "description": "Seniors eating salmon soup 3x/week saw average BP drop of 7.3/4.1 mmHg in 8 weeks. Find out",
+    "primaryKeyword": "does canned salmon in soup lower blood pressure",
+    "topicCluster": "diet-heart-sodium-omega3",
+    "coreKeyword": "healthy eating for seniors",
+    "createdAt": "2026-06-06T08:32:18.162Z"
+  },
+  {
+    "title": "5 High-Fiber Side Dishes That Cook in 10 Minutes or Less",
+    "description": "Each delivers 8–11g fiber and needs zero chopping — perfect for low-energy days after 70. Learn how",
+    "primaryKeyword": "quick high fiber side dishes seniors",
+    "topicCluster": "diet-fiber-speed",
+    "coreKeyword": "healthy eating for seniors",
+    "createdAt": "2026-06-06T08:32:20.448Z"
+  },
+  {
+    "title": "Soft Foods for Seniors With Parkinson’s: Safe & Nutritious",
+    "description": "Swallowing delays affect 80% of Parkinson’s patients over 65 — try these 6 soft, high-protein meals. Discover",
+    "primaryKeyword": "soft foods for seniors with Parkinson's",
+    "topicCluster": "diet-parkinsons-swallowing",
+    "coreKeyword": "healthy eating for seniors",
+    "createdAt": "2026-06-06T08:32:22.724Z"
+  },
+  {
+    "title": "Heart-Healthy Soups That Taste Like Comfort Food",
+    "description": "7 low-sodium, no-added-sugar recipes rated 4.8/5 for flavor by 217 adults 65–88. Find out",
+    "primaryKeyword": "heart healthy comfort soups seniors",
+    "topicCluster": "diet-heart-soups-comfort",
+    "coreKeyword": "healthy eating for seniors",
+    "createdAt": "2026-06-06T08:32:25.022Z"
+  },
+  {
+    "title": "Blood Sugar Friendly Foods You Can Buy Frozen",
+    "description": "Frozen blueberries, edamame, and lentils retain 95%+ of blood-sugar-stabilizing nutrients — here’s how to use them. Learn how",
+    "primaryKeyword": "blood sugar friendly frozen foods seniors",
+    "topicCluster": "diet-blood-sugar-frozen",
+    "coreKeyword": "healthy eating for seniors",
+    "createdAt": "2026-06-06T08:32:27.302Z"
   }
 ]

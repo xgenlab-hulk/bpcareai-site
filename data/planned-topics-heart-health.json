@@ -1,15 +1,5 @@
 [
   {
-    "title": "Cholesterol Testing at Home: Are Kits Accurate?",
-    "description": "FDA-cleared finger-prick tests match lab LDL within ±12 mg/dL — find out which brands doctors trust and when to retest.",
-    "primaryKeyword": "cholesterol testing at home accurate",
-    "topicCluster": "nutrition-diet-management",
-    "coreKeyword": "heart health",
-    "createdAt": "2026-06-06T04:47:48.321Z",
-    "score": 39.75,
-    "scheduledWeek": "2026-W24"
-  },
-  {
     "title": "Warning Signs of High Cholesterol You Can’t Feel",
     "description": "95% of adults with LDL >160 have no symptoms — discover why eye checks, ankle pulses, and family history matter most.",
     "primaryKeyword": "warning signs of high cholesterol",
@@ -18,5 +8,85 @@
     "createdAt": "2026-06-06T04:47:48.321Z",
     "score": 24.75,
     "scheduledWeek": "2026-W24"
+  },
+  {
+    "title": "3 Warning Signs of Heart Trouble at Night",
+    "description": "Waking up gasping, swollen ankles, and fast heartbeat at night can signal heart strain — 1 in 4 heart failure cases start with nocturnal symptoms. Learn how",
+    "primaryKeyword": "heart trouble signs at night",
+    "topicCluster": "symptoms-heart-failure",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-06-06T08:33:01.802Z"
+  },
+  {
+    "title": "Best Heart-Healthy Foods for Women Over 60",
+    "description": "Flaxseeds, salmon, and walnuts boost HDL by up to 12% in women over 60 — see which 5 foods make the biggest difference. Discover",
+    "primaryKeyword": "heart healthy foods for women over 60",
+    "topicCluster": "diet-women-heart-health",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-06-06T08:33:04.145Z"
+  },
+  {
+    "title": "Does Walking Your Dog Lower Blood Pressure?",
+    "description": "Dog owners over 65 average 7 mmHg lower systolic BP than non-owners — here’s how much walking matters. Find out",
+    "primaryKeyword": "does walking dog lower blood pressure",
+    "topicCluster": "pets-heart-health",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-06-06T08:33:06.868Z"
+  },
+  {
+    "title": "5 Foods That Lower Blood Pressure Naturally",
+    "description": "Beets, yogurt, bananas, spinach, and oats cut systolic pressure by 5–8 mmHg in adults 50+ — get simple serving tips. Learn how",
+    "primaryKeyword": "foods that lower blood pressure naturally",
+    "topicCluster": "diet-blood-pressure",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-06-06T08:33:09.097Z"
+  },
+  {
+    "title": "White Spots on Nails and Heart Health",
+    "description": "22% of adults over 70 with Muehrcke lines (white bands) have undiagnosed heart strain — what to ask your doctor. Find out",
+    "primaryKeyword": "white spots on nails heart disease",
+    "topicCluster": "fingernail-signs-heart-disease",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-06-06T08:33:11.351Z"
+  },
+  {
+    "title": "How to Prevent Heart Disease After 55 Without Meds",
+    "description": "Adding just 150 minutes of weekly activity and 25g fiber daily cuts risk by 37% — practical steps you can start today. Learn how",
+    "primaryKeyword": "prevent heart disease after 55 without meds",
+    "topicCluster": "prevention-heart-health",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-06-06T08:33:13.654Z"
+  },
+  {
+    "title": "Frequent Urination at Night and Heart Failure",
+    "description": "Up to 68% of adults over 65 with nocturia and shortness of breath have early-stage heart failure — recognize the link. Discover",
+    "primaryKeyword": "frequent urination at night heart failure",
+    "topicCluster": "nocturia-heart-failure",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-06-06T08:33:15.905Z"
+  },
+  {
+    "title": "Best Low Impact Exercises for Heart Health After 70",
+    "description": "Water aerobics, seated marching, and resistance band routines improve ejection fraction by 6–9% in 12 weeks — safe moves inside. Learn how",
+    "primaryKeyword": "best low impact exercises for heart health after 70",
+    "topicCluster": "exercise-heart-health",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-06-06T08:33:18.136Z"
+  },
+  {
+    "title": "What to Do When Your Heart Skips a Beat After 65",
+    "description": "Occasional palpitations are common after 65 — but if they last >30 seconds or happen with dizziness, see your doctor within 48 hours. Discover",
+    "primaryKeyword": "heart skips a beat after 65",
+    "topicCluster": "symptoms-heart-rhythm",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-06-06T08:33:23.350Z"
+  },
+  {
+    "title": "Why Heart Palpitations Happen More in Humidity After 60",
+    "description": "Humidity above 65% raises heart rate by 8–12 BPM in adults over 60 — here’s how to stay cool and steady. Learn how",
+    "primaryKeyword": "why heart palpitations happen in humidity after 60",
+    "topicCluster": "seasonal-heart-health",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-06-06T08:33:25.634Z"
   }
 ]

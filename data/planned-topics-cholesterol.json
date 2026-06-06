@@ -1,41 +1,5 @@
 [
   {
-    "title": "Does Fish Oil Really Lower Triglycerides?",
-    "description": "Studies show 1–4g daily can cut triglycerides by 25–50% — find out if it’s right for your numbers and age.",
-    "primaryKeyword": "does fish oil lower triglycerides",
-    "topicCluster": "natural-remedies-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-06T04:47:48.319Z",
-    "score": 44,
-    "scheduledWeek": "2026-W24",
-    "perplexityQuestions": [
-      "What are the symptoms of high cholesterol in adults over 35, and can it go unnoticed for years?",
-      "Is an LDL of 130, 160, or 190 dangerous at age 40, 45, or 50 if I otherwise feel healthy?",
-      "What does it mean if my total cholesterol is under 200 but my LDL is still high?",
-      "Can high cholesterol be genetic even if I eat well and exercise?",
-      "Should I ask for an ApoB or lipoprotein(a) test if my cholesterol is borderline high at 35+?"
-    ],
-    "competitorCoverage": "Top-ranking adult cholesterol articles usually explain what cholesterol is, the difference between LDL, HDL, and triglycerides, common causes and risk factors, and how testing works and how often to screen.[1][2][3][4][7][9] To compete, a new article should also cover risk-stratified thresholds by age and condition, advanced tests like ApoB and lipoprotein(a), when lifestyle changes are not enough, and clear guidance on when medication is typically discussed.[3][7][8][9]"
-  },
-  {
-    "title": "Cholesterol Testing at Home: Are Kits Accurate?",
-    "description": "FDA-cleared finger-prick tests match lab LDL within ±12 mg/dL — find out which brands doctors trust and when to retest.",
-    "primaryKeyword": "cholesterol testing at home accurate",
-    "topicCluster": "nutrition-diet-management",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-06T04:47:48.319Z",
-    "score": 39.75,
-    "scheduledWeek": "2026-W24",
-    "perplexityQuestions": [
-      "What are the symptoms of high cholesterol in adults over 35, and can it go unnoticed for years?",
-      "Is an LDL of 130, 160, or 190 dangerous at age 40, 45, or 50 if I otherwise feel healthy?",
-      "What does it mean if my total cholesterol is under 200 but my LDL is still high?",
-      "Can high cholesterol be genetic even if I eat well and exercise?",
-      "Should I ask for an ApoB or lipoprotein(a) test if my cholesterol is borderline high at 35+?"
-    ],
-    "competitorCoverage": "Top-ranking adult cholesterol articles usually explain what cholesterol is, the difference between LDL, HDL, and triglycerides, common causes and risk factors, and how testing works and how often to screen.[1][2][3][4][7][9] To compete, a new article should also cover risk-stratified thresholds by age and condition, advanced tests like ApoB and lipoprotein(a), when lifestyle changes are not enough, and clear guidance on when medication is typically discussed.[3][7][8][9]"
-  },
-  {
     "title": "Warning Signs of High Cholesterol You Can’t Feel",
     "description": "95% of adults with LDL >160 have no symptoms — discover why eye checks, ankle pulses, and family history matter most.",
     "primaryKeyword": "warning signs of high cholesterol",
