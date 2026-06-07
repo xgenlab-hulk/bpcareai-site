@@ -1,13 +1,71 @@
 {
   "date": "2026-06-02",
-  "fetchedAt": "2026-06-06T04:44:49.694Z",
-  "queries": [],
-  "pages": [],
+  "fetchedAt": "2026-06-07T02:41:54.998Z",
+  "queries": [
+    {
+      "query": "blood pressure and heat",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 67
+    },
+    {
+      "query": "bp care",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 45
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-social-eating-norms-at-holiday-gatherings-like-just-one-bite-pressure-predict-3-month-hba1c-deterioration-in-newly-diagnosed-adults-53-64",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 12.733333333333333
+    },
+    {
+      "page": "https://www.bpcareai.com/articles",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/12-science-backed-times-to-check-your-resting-heart-rate-not-just-during-clinic-visits-in-adults-58-with-anxiety-related-palpitations",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    }
+  ],
   "summary": {
-    "totalQueries": 0,
-    "totalImpressions": 0,
+    "totalQueries": 2,
+    "totalImpressions": 2,
     "totalClicks": 0,
-    "avgPosition": 0,
-    "pagesWithImpressions": 0
+    "avgPosition": 34.5,
+    "pagesWithImpressions": 6
   }
 }

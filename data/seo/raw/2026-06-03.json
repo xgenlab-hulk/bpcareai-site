@@ -1,13 +1,57 @@
 {
   "date": "2026-06-03",
-  "fetchedAt": "2026-06-06T04:44:50.203Z",
-  "queries": [],
-  "pages": [],
+  "fetchedAt": "2026-06-07T02:41:55.475Z",
+  "queries": [
+    {
+      "query": "bp rating ai",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "page": "https://bpcareai.com/articles/blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/exercise-timing-blood-pressure-variability",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 19.571428571428573
+    },
+    {
+      "page": "https://bpcareai.com/articles/warning-signs-your-holiday-weight-gain-is-actually-fluid-retention-especially-if-you-re-on-amlodipine-and-over-68",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    }
+  ],
   "summary": {
-    "totalQueries": 0,
-    "totalImpressions": 0,
+    "totalQueries": 1,
+    "totalImpressions": 2,
     "totalClicks": 0,
-    "avgPosition": 0,
-    "pagesWithImpressions": 0
+    "avgPosition": 8,
+    "pagesWithImpressions": 5
   }
 }
