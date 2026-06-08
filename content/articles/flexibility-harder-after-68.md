@@ -1,20 +1,18 @@
 ---
-title: >-
-  Why Flexibility Gets Harder After 68 — And What Helps
+title: Why Flexibility Gets Harder After 68 — And What Helps
 slug: flexibility-harder-after-68
 description: >-
-  Why flexibility gets harder after 68? Collagen cross-linking reduces stretch by up to 40% (plain language: tissue stiffening).
+  Why flexibility gets harder after 68? Collagen cross-linking reduces stretch
+  by up to 40% (plain language: tissue stiffening).
 date: '2026-06-05'
 updated: '2026-06-05'
-primaryKeyword: >-
-  why flexibility gets harder after 68
+primaryKeyword: why flexibility gets harder after 68
 topicCluster: flexibility-aging
 image: ''
 relatedSlugs:
-  - >-
-    safe-stretching-exercises-stiff-joints-after-65
-  - >-
-    flexibility-exercises-lower-back-pain-seniors
+  - safe-stretching-exercises-stiff-joints-after-65
+  - flexibility-exercises-lower-back-pain-seniors
+  - walking-hurts-knees-after-68
 ---
 
 # Why Flexibility Gets Harder After 68 — And What Helps

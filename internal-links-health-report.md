@@ -1,12 +1,12 @@
 # 内链健康分析报告
-**生成时间**: 2026/5/25 06:21:52
+**生成时间**: 2026/6/8 06:37:15
 
 ## 一、总体健康度
 
-- **总文章数**: 2110
-- **符合要求** (3-5个内链): 2110 篇 (100.0%)
+- **总文章数**: 2151
+- **符合要求** (3-5个内链): 2151 篇 (100.0%)
 - **平均内链数**: 4.99
-- **双向链接覆盖率**: 50.3%
+- **双向链接覆盖率**: 49.4%
 
 ### 健康评分: 65/100
 
@@ -16,13 +16,13 @@
 
 | 内链数量 | 文章数 | 占比 | 状态 |
 |---------|--------|------|------|
-| 3 | 7 | 0.3% | ✅ 符合要求 |
-| 4 | 4 | 0.2% | ✅ 符合要求 |
-| 5 | 2099 | 99.5% | ✅ 符合要求 |
+| 3 | 8 | 0.4% | ✅ 符合要求 |
+| 4 | 9 | 0.4% | ✅ 符合要求 |
+| 5 | 2134 | 99.2% | ✅ 符合要求 |
 
 ## 三、孤岛文章分析
 
-⚠️ 发现 **142** 篇孤岛文章（无其他文章链接到它）：
+⚠️ 发现 **153** 篇孤岛文章（无其他文章链接到它）：
 
 - heart-rate-variability-explained
 - heart-disease-in-hispanic-adults-over-50-unique-risk-factors
@@ -34,7 +34,7 @@
 - 12-science-backed-ways-to-reduce-alcohol-induced-cardiac-stress-even-if-you-re-not-drinking
 - holiday-heart-syndrome-vs-acute-coronary-syndrome-key-differences-in-presentation-for-men-over-70
 - can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
-- ...及其他 132 篇
+- ...及其他 143 篇
 
 ## 四、TopicCluster 连通性
 
@@ -1616,13 +1616,13 @@
 | pharmacology-interactions | 100.0% | ✅ 优秀 |
 | pancreatic-cell-resilience | 100.0% | ✅ 优秀 |
 | cerebrovascular-link | 100.0% | ✅ 优秀 |
-| symptoms-diagnosis | 100.0% | ✅ 优秀 |
 | prevention-risk-assessment | 100.0% | ✅ 优秀 |
-| special-populations | 100.0% | ✅ 优秀 |
+| flexibility-aging | 100.0% | ✅ 优秀 |
 | muscle-health-nutrition | 50.0% | ⚠️ 良好 |
 | hepatic-metabolism-diet | 50.0% | ⚠️ 良好 |
 | beverage-comparison-endothelial-health | 50.0% | ⚠️ 良好 |
 | oral-motor-nutrition | 50.0% | ⚠️ 良好 |
+| symptoms-diagnosis | 50.0% | ⚠️ 良好 |
 | exercise-physical-activity | 33.3% | ❌ 需改进 |
 | environmental-risk-factors | 33.3% | ❌ 需改进 |
 | circadian-hypertension | 33.3% | ❌ 需改进 |
@@ -1631,26 +1631,27 @@
 | diabetes-complications | 20.0% | ❌ 需改进 |
 | diabetes-nutrition | 18.1% | ❌ 需改进 |
 | diabetic-diet | 16.7% | ❌ 需改进 |
-| medication-safety | 16.7% | ❌ 需改进 |
 | food-labeling-literacy | 16.7% | ❌ 需改进 |
 | circadian-metabolism | 16.7% | ❌ 需改进 |
 | monitoring-technology-comparison | 16.7% | ❌ 需改进 |
 | medication-adherence-myths | 16.7% | ❌ 需改进 |
 | differential-diagnosis | 16.7% | ❌ 需改进 |
+| special-populations | 16.7% | ❌ 需改进 |
 | exercise-modality-comparison | 15.0% | ❌ 需改进 |
 | cardiac-diet | 10.7% | ❌ 需改进 |
+| medication-safety | 10.0% | ❌ 需改进 |
 | diabetes-lifestyle | 8.3% | ❌ 需改进 |
 | emotional-mental-health | 8.3% | ❌ 需改进 |
-| lifestyle-interventions | 7.9% | ❌ 需改进 |
-| hypertension-management | 7.1% | ❌ 需改进 |
 | hypertension-lifestyle | 6.3% | ❌ 需改进 |
-| diabetes-management | 6.0% | ❌ 需改进 |
-| nutrition-diet-management | 4.9% | ❌ 需改进 |
+| lifestyle-interventions | 6.3% | ❌ 需改进 |
+| hypertension-management | 5.8% | ❌ 需改进 |
+| diabetes-management | 5.3% | ❌ 需改进 |
+| nutrition-diet-management | 4.3% | ❌ 需改进 |
 | natural-remedies | 4.2% | ❌ 需改进 |
 | heart-health | 4.0% | ❌ 需改进 |
-| cardiovascular-health | 3.9% | ❌ 需改进 |
 | emergency-symptoms | 3.8% | ❌ 需改进 |
 | cardiovascular-risk | 3.3% | ❌ 需改进 |
+| cardiovascular-health | 3.2% | ❌ 需改进 |
 | diet-nutrition | 1.8% | ❌ 需改进 |
 | lifestyle-modifications | 1.6% | ❌ 需改进 |
 | diabetes-risk-factors | 0.0% | ❌ 需改进 |
@@ -1702,9 +1703,10 @@
 
 ## 五、过度链接文章
 
-⚠️ 发现 **182** 篇文章被链接次数过多（>10次）：
+⚠️ 发现 **193** 篇文章被链接次数过多（>10次）：
 
 - can-meditation-reduce-heart-disease-risk-after-50
+- the-role-of-fiber-in-controlling-blood-sugar-after-50
 - are-sugar-free-treats-actually-safe-for-diabetics-over-65
 - quick-15-minute-post-meal-walks-how-they-help-seniors-digest-holiday-food
 - why-winter-increases-heart-attack-risk-in-seniors-over-70
@@ -1717,6 +1719,8 @@
 - 5-hidden-sources-of-sodium-in-holiday-foods-seniors-should-avoid
 - the-complete-guide-to-avoiding-holiday-heart-syndrome-after-50
 - when-to-worry-about-a-loved-one-s-winter-mood-changes-after-75
+- how-often-should-adults-over-50-check-their-blood-pressure
+- 10-high-fiber-holiday-foods-that-support-digestion-after-50
 - a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
 - how-to-manage-diabetes-during-holiday-travel-a-senior-s-guide
 - is-it-safe-to-skip-meals-before-a-holiday-feast-if-you-have-diabetes
@@ -1764,6 +1768,7 @@
 - 7-overlooked-symptoms-of-seasonal-depression-in-adults-75-that-families-mistake-for-just-aging
 - 7-hidden-causes-of-morning-blood-pressure-spikes-in-adults-over-65-even-with-perfect-medication-timing
 - does-your-blood-pressure-medication-interact-with-common-otc-pain-relievers-differently-after-age-68-a-safety-guide-for-nsaid-and-acetaminophen-use
+- warning-signs-your-just-one-bite-habit-is-accelerating-sarcopenia-after-age-67-especially-with-sedentary-holiday-routines
 - best-low-sodium-swaps-for-classic-holiday-side-dishes-ranked-by-palatability-potassium-retention-and-ease-of-prep-for-caregivers-over-60
 - 14-medications-that-lower-blood-pressure-indirectly-from-antidepressants-to-antipsychotics-and-why-that-matters-for-frail-seniors
 - best-low-glycemic-holiday-side-dishes-for-seniors-with-prediabetes-and-chronic-constipation
@@ -1817,6 +1822,7 @@
 - one-slice-pie-triglycerides-seniors-myth
 - simple-steps-to-reduce-holiday-meal-related-microaspiration-risk-in-adults-76-with-mild-vocal-fold-atrophy-and-silent-gerd
 - how-late-night-holiday-snacking-alters-circadian-clock-gene-expression-in-adults-60-69-with-shift-work-history-and-mild-sleep-apnea
+- 7-silent-signs-your-blood-pressure-is-spiking-at-night-even-if-your-daytime-readings-look-normal
 - why-morning-cortisol-spikes-worsen-dawn-phenomenon-in-adults-62-with-long-standing-type-2-diabetes-and-adrenal-fatigue-symptoms
 - 10-foods-that-stabilize-postprandial-glucose-variability-in-adults-64-with-gastroparesis-and-type-2-diabetes
 - endothelial-nitric-oxide-synthase-recoupling
@@ -1861,6 +1867,7 @@
 - cgm-accuracy-holiday-travel
 - natural-autonomic-stabilization-holiday-heart
 - 10-silent-signs-your-blood-pressure-is-damaging-your-retina-even-with-controlled-readings-in-adults-63-with-type-2-diabetes
+- best-home-blood-pressure-cuffs-for-adults-75-with-severe-arthritis-and-tremor-accuracy-fit-and-one-handed-operation-compared
 - neutralize-holiday-sodium-quickly-seniors-ck
 - skipping-breakfast-holiday-hyperglycemia-seniors
 - how-late-night-snacking-during-hanukkah-or-christmas-eve-affects-overnight-glucose-stability-in-women-over-70
@@ -1873,8 +1880,10 @@
 - foods-for-aortic-stiffness-without-orthostasis
 - stabilize-morning-glucose-without-insulin
 - 7-hidden-medication-interactions-that-raise-blood-pressure-after-age-60-including-common-antidepressants-antihistamines-and-topical-nsaids
+- stress-blood-pressure-winter
 - exercises-for-seniors-poor-balance
 - read-cholesterol-test-after-60
+- 30g-fiber-safe-after-65
 - what-a1c-too-high-50-year-old
 - start-walking-at-75-safely
 - does-stress-raise-cholesterol-after-35
@@ -1884,14 +1893,17 @@
 - exercise-at-65-weekly-plan
 - low-impact-exercise-blood-pressure-seniors
 - blood-sugar-friendly-foods-seniors
+- soft-foods-seniors-no-teeth
 - foods-lower-cholesterol-naturally-after-50
 - read-cholesterol-numbers-after-50
+- cholesterol-ed-after-40
+- morning-habits-lower-blood-pressure-after-35
 
 ## 六、优化建议
 
-2. **消除孤岛文章**: 142 篇文章没有被其他文章链接，建议通过双向链接优化改善
-3. **提升双向链接覆盖率**: 当前为 50.3%，建议目标 >60%
-4. **改善Cluster连通性**: 76 个主题集群内部连通性低于50%
+2. **消除孤岛文章**: 153 篇文章没有被其他文章链接，建议通过双向链接优化改善
+3. **提升双向链接覆盖率**: 当前为 49.4%，建议目标 >60%
+4. **改善Cluster连通性**: 77 个主题集群内部连通性低于50%
 
 ---
 *本报告由 BPCare AI 内链分析系统自动生成*
