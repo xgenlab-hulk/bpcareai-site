@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "title": "Does Hot Weather Raise or Lower Blood Pressure?",
+    "primaryKeyword": "does heat raise or lower blood pressure",
+    "description": "Heat typically lowers blood pressure—studies show systolic drops up to 10 mmHg in extreme heat. Stay hydrated, monitor readings, and know when to seek help.",
+    "topicCluster": "weather-and-blood-pressure",
+    "reasoning": "This query is surging due to record-breaking summer heatwaves globally; users (especially adults 35+) are experiencing dizziness, fainting, or erratic home BP readings and want practical, non-clinical guidance on how heat *actually* affects them—and what to do *today*.",
+    "query": "does heat raise or lower blood pressure",
+    "type": "RANK_JUMP",
+    "score": 80,
+    "perplexityQuestions": [
+      "Does heat raise or lower blood pressure?",
+      "Can hot weather make blood pressure drop suddenly?",
+      "Why do I feel dizzy or faint when it’s hot and my blood pressure is low?",
+      "Can dehydration from heat cause low blood pressure?",
+      "Does heat cause high blood pressure or just make the heart work harder?"
+    ],
+    "createdAt": "2026-06-08T02:45:52.508Z",
+    "expiresAt": "2026-06-11T02:45:52.508Z"
+  }
+]
