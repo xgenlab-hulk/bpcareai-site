@@ -1,21 +1,21 @@
 [
   {
-    "title": "Does Hot Weather Raise or Lower Blood Pressure?",
+    "title": "Does Heat Raise or Lower Blood Pressure? What Adults 35+ Need to Know",
     "primaryKeyword": "does heat raise or lower blood pressure",
-    "description": "Heat typically lowers blood pressure—studies show systolic drops up to 10 mmHg in extreme heat. Stay hydrated, monitor readings, and know when to seek help.",
+    "description": "Heat typically lowers blood pressure by ~5–10 mmHg in healthy adults — but dehydration or heart conditions can reverse this. Learn how to monitor safely this summer.",
     "topicCluster": "weather-and-blood-pressure",
-    "reasoning": "This query is surging due to record-breaking summer heatwaves globally; users (especially adults 35+) are experiencing dizziness, fainting, or erratic home BP readings and want practical, non-clinical guidance on how heat *actually* affects them—and what to do *today*.",
+    "reasoning": "This query is spiking due to early summer heatwaves across North America and Europe; users (especially 45–75) are noticing real-time BP fluctuations at home, misreading them as dangerous, and seeking practical, non-clinical guidance on interpreting readings during hot weather — not textbook physiology.",
     "query": "does heat raise or lower blood pressure",
     "type": "RANK_JUMP",
     "score": 80,
     "perplexityQuestions": [
-      "Does heat raise or lower blood pressure?",
-      "Can hot weather make blood pressure drop suddenly?",
-      "Why do I feel dizzy or faint when it’s hot and my blood pressure is low?",
-      "Can dehydration from heat cause low blood pressure?",
-      "Does heat cause high blood pressure or just make the heart work harder?"
+      "Does heat raise or lower blood pressure in adults?",
+      "Can hot weather cause blood pressure to drop suddenly?",
+      "Why does my blood pressure get lower in summer but higher in winter?",
+      "Is 140/90 dangerous at 45 if I only see it when I'm hot?",
+      "Can heat make blood pressure readings inaccurate at home?"
     ],
-    "createdAt": "2026-06-08T02:45:52.508Z",
-    "expiresAt": "2026-06-11T02:45:52.508Z"
+    "createdAt": "2026-06-09T02:12:49.807Z",
+    "expiresAt": "2026-06-12T02:12:49.807Z"
   }
 ]

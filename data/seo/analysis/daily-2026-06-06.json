@@ -1,0 +1,40 @@
+{
+  "date": "2026-06-06",
+  "period": "3-day",
+  "impressionsChange": -46.44808743169398,
+  "clicksChange": 366.66666666666663,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "does heat raise or lower blood pressure",
+      "reason": "排名跃升 28.5 位（62.5 → 34.0）",
+      "score": 80,
+      "recentImpressions": 1,
+      "baselineImpressions": 2,
+      "recentPosition": 34,
+      "baselinePosition": 62.5
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "can humidity affect blood pressure",
+      "reason": "排名跃升 14.3 位（67.3 → 53.0）",
+      "score": 42.999999999999986,
+      "recentImpressions": 1,
+      "baselineImpressions": 3,
+      "recentPosition": 53,
+      "baselinePosition": 67.33333333333333
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "does air conditioning raise blood pressure",
+      "reason": "排名跃升 14.3 位（75.3 → 61.0）",
+      "score": 42.75,
+      "recentImpressions": 1,
+      "baselineImpressions": 4,
+      "recentPosition": 61,
+      "baselinePosition": 75.25
+    }
+  ]
+}
