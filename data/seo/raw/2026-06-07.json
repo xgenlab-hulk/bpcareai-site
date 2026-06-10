@@ -1,0 +1,85 @@
+{
+  "date": "2026-06-07",
+  "fetchedAt": "2026-06-10T02:36:34.124Z",
+  "queries": [
+    {
+      "query": "bp care",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "bp rating ai",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "bpcare",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 4.666666666666666
+    },
+    {
+      "query": "space heater vs blood pressure monitor",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/articles/home-bp-cuff-calibration-in-high-humidity",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 5.222222222222222
+    },
+    {
+      "page": "https://bpcareai.com/articles/air-fryer-oxidized-cholesterol-coronary-calcification",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "page": "https://bpcareai.com/articles/blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://www.bpcareai.com/contact",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    }
+  ],
+  "summary": {
+    "totalQueries": 4,
+    "totalImpressions": 7,
+    "totalClicks": 0,
+    "avgPosition": 5.142857142857143,
+    "pagesWithImpressions": 6
+  }
+}
