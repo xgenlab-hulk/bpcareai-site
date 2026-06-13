@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-06-06T04:47:48.321Z",
+  "generatedAt": "2026-06-13T05:15:26.690Z",
   "optimizations": [
     {
       "slug": "the-hidden-dangers-of-indoor-heating-on-blood-pressure",
       "currentTitle": "The Hidden Dangers of Indoor Heating on Blood Pressure",
-      "suggestedTitle": "Does Heat Raise Blood Pressure? What Seniors Need to Know About Space Heaters & Hypertension",
-      "suggestedDescription": "Science-backed analysis of how indoor heating—especially space heaters—raises blood pressure in adults 35+. Includes 5 evidence-based mitigation strategies for winter months.",
-      "suggestedPK": "does heat raise blood pressure",
-      "reason": "Query 'does heat raise blood pressure' has impressions 1 & avgPosition 92; 'space heater vs blood pressure monitor' has impressions 2 & position 9 — both demand explicit title match and semantic alignment with user language."
+      "suggestedTitle": "Does Heat Lower Blood Pressure? What Seniors Need to Know",
+      "suggestedDescription": "Evidence-based analysis of how warmth, humidity, and indoor heating affect BP in adults 35+. Includes 2023 AHA guidelines and home monitoring tips.",
+      "suggestedPK": "does heat lower blood pressure",
+      "reason": "该页展示72次但点击0次（CTR=0%），而'heat lowers blood pressure'、'does being warm lower blood pressure'等6个搜索词总展示10次、0点击，标题未匹配用户口语化问句，且未强调' seniors'和'what to do'等行动信号。"
+    },
+    {
+      "slug": "home-bp-cuff-calibration-in-high-humidity",
+      "currentTitle": "Home BP Cuff Calibration in High Humidity",
+      "suggestedTitle": "Blood Pressure Monitor Accuracy in Humidity: Calibrate Right",
+      "suggestedDescription": "Step-by-step guide to calibrating your home BP cuff in humid weather — validated by AHA standards. Fixes false readings for seniors over 60.",
+      "suggestedPK": "blood pressure monitor accuracy humidity",
+      "reason": "该页CTR 50%（1/2）证明需求真实且页面可信，但'can humidity affect blood pressure'、'does humidity affect blood pressure'等词总展示3次、0点击，说明标题未覆盖'accuracy'、'false reading'等用户深层担忧词。"
+    },
+    {
+      "slug": "holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues",
+      "currentTitle": "Holiday Eating on a Soft Food Diet: Ideas for Seniors with Dental Issues",
+      "suggestedTitle": "Soft Food for Older Adults With No Teeth: Heart-Healthy Holiday Meals",
+      "suggestedDescription": "12 easy-to-chew, low-sodium, low-cholesterol holiday recipes for seniors without teeth — nutritionist-approved and BP-friendly.",
+      "suggestedPK": "soft food for older adults with no teeth",
+      "reason": "目标词'soft food for older adults with no teeth'展示2次、0点击，当前标题用'dental issues'而非用户原词'no teeth'，且未突出'heart-healthy'或'low-sodium'等心血管关键词，错失慢病人群精准匹配。"
     },
     {
       "slug": "best-warm-heart-healthy-soups-for-seniors-with-high-cholesterol",
-      "currentTitle": "Best Warm Heart-Healthy Soups for Seniors With High Cholesterol",
-      "suggestedTitle": "7 Soups for High Blood Pressure & High Cholesterol (Soft-Food Friendly)",
-      "suggestedDescription": "Cardiologist-approved soups that lower BP and cholesterol in adults 60+. All are soft-textured, low-sodium, and ready in <30 minutes — perfect for seniors with dental issues.",
-      "suggestedPK": "soups for high blood pressure",
-      "reason": "Queries 'soup for high blood pressure', 'soups for high blood pressure', 'low cholesterol soups' total 7 impressions; current title omits 'high blood pressure' — the dominant search term in 3 queries — and ranks position 78."
+      "currentTitle": "Best Warm Heart-Healthy Soups for Seniors with High Cholesterol",
+      "suggestedTitle": "Low-Cholesterol Soups for Seniors: 7 Heart-Healthy Recipes",
+      "suggestedDescription": "Clinically reviewed low-cholesterol, high-fiber soup recipes designed for adults 60+ with hypertension — includes sodium counts and BP impact notes.",
+      "suggestedPK": "low cholesterol soups",
+      "reason": "'low cholesterol soups'搜索词展示1次、0点击；当前标题过长（102字符），未前置核心词'low cholesterol soups'，且缺失'7 recipes'等结构化承诺，降低点击意愿。"
     },
     {
-      "slug": "best-high-fiber-sides-for-family-dinners-that-everyone-will-actually-eat",
-      "currentTitle": "Best High-Fiber Sides for Family Dinners That Everyone Will Actually Eat",
-      "suggestedTitle": "High-Fiber Sides That Lower Blood Pressure: Easy Dinners for Adults 65+",
-      "suggestedDescription": "12 science-backed high-fiber side dishes proven to reduce systolic BP by 4–7 mmHg in adults 65+. Soft, flavorful, and designed for aging digestive systems.",
-      "suggestedPK": "high fiber dinner sides",
-      "reason": "'high fiber dinner sides' has impressions 1 & position 41; this article already has 6 impressions & position 6 — optimizing title to include 'lower blood pressure' bridges intent gap and captures related queries like 'fiber and hypertension'."
-    },
-    {
-      "slug": "articles",
-      "currentTitle": "Articles",
-      "suggestedTitle": "Blood Pressure & Heart Health Articles for Adults 35+ — Evidence-Based, Senior-Friendly",
-      "suggestedDescription": "2200+ clinically reviewed articles on hypertension, cholesterol, diabetes, and heart-healthy living for adults 35+. Updated daily by cardiologists and geriatric nutritionists.",
-      "suggestedPK": "bpcare",
-      "reason": "/articles page has 167 impressions but 0 clicks (CTR 0%) and position 6.4 — indicating users distrust generic navigation. Adding age targeting ('Adults 35+'), credibility markers ('clinically reviewed'), and brand term 'bpcare' (query with impressions 1, position 5) rebuilds trust and relevance."
-    },
-    {
-      "slug": "https://bpcareai.com/",
-      "currentTitle": "BPCareAI — Cardiovascular Health for Adults 35+",
-      "suggestedTitle": "BPCare AI: Personalized Blood Pressure Insights & Heart Health Guidance for Adults 35+",
-      "suggestedDescription": "Get AI-powered BP interpretation, real-time risk scoring, and senior-tailored action plans — all backed by 2200+ evidence-based articles and cardiologist review.",
-      "suggestedPK": "bp rating ai",
-      "reason": "'bp rating ai' (impressions 3, position 5) is the highest-intent branded AI query; homepage must immediately communicate AI functionality — not just content volume — to convert this qualified traffic."
+      "slug": "top-10-diabetes-friendly-snacks-for-people-over-60",
+      "currentTitle": "Top 10 Diabetes-Friendly Snacks for People Over 60",
+      "suggestedTitle": "Diabetic Snacks That Won’t Raise Blood Pressure: For Adults 60+",
+      "suggestedDescription": "10 blood-pressure-safe diabetic snacks — low sodium, low glycemic, heart-verified. Includes portion sizes and BP impact per serving.",
+      "suggestedPK": "diabetic snacks for adults",
+      "reason": "'diabetic snacks for adults'展示1次、0点击（位置68）；当前标题未提及'blood pressure'，无法承接高血压共病人群，而站点定位明确为心血管健康，必须强化'BP-safe'差异化标签。"
     }
   ]
 }

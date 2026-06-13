@@ -1,34 +1,32 @@
 [
   {
-    "title": "Frequent Urination at Night and Heart Failure",
-    "description": "Up to 68% of adults over 65 with nocturia and shortness of breath have early-stage heart failure — recognize the link. Discover",
-    "primaryKeyword": "frequent urination at night heart failure",
-    "topicCluster": "nocturia-heart-failure",
+    "title": "Can Pets Lower Heart Rate at Home After 70?",
+    "description": "Seniors with dogs had 12% lower average resting heart rate over 6 months. Find out how pets support heart health.",
+    "primaryKeyword": "can pets lower heart rate for seniors",
+    "topicCluster": "cardiovascular-health",
     "coreKeyword": "heart health",
-    "createdAt": "2026-06-06T08:33:15.905Z"
+    "createdAt": "2026-06-13T05:15:26.690Z",
+    "score": 44.733333333333334,
+    "scheduledWeek": "2026-W25"
   },
   {
-    "title": "Best Low Impact Exercises for Heart Health After 70",
-    "description": "Water aerobics, seated marching, and resistance band routines improve ejection fraction by 6–9% in 12 weeks — safe moves inside. Learn how",
-    "primaryKeyword": "best low impact exercises for heart health after 70",
-    "topicCluster": "exercise-heart-health",
+    "title": "Heart-Healthy Soups You Can Make in 15 Minutes With 5 Ingredients",
+    "description": "These 4 low-sodium, high-fiber soups average under 450mg sodium and 8g fiber per bowl—ready before your kettle boils. Discover.",
+    "primaryKeyword": "heart-healthy soups you can make quickly",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "heart health",
-    "createdAt": "2026-06-06T08:33:18.136Z"
+    "createdAt": "2026-06-13T05:15:26.690Z",
+    "score": 43.25,
+    "scheduledWeek": "2026-W25"
   },
   {
-    "title": "What to Do When Your Heart Skips a Beat After 65",
-    "description": "Occasional palpitations are common after 65 — but if they last >30 seconds or happen with dizziness, see your doctor within 48 hours. Discover",
-    "primaryKeyword": "heart skips a beat after 65",
-    "topicCluster": "symptoms-heart-rhythm",
+    "title": "How Often Should Adults Over 35 Check Cholesterol?",
+    "description": "Guidelines say every 4–6 years — but if you’re over 35 with family history, test every 2 years. Discover your personal risk timeline.",
+    "primaryKeyword": "how often check cholesterol after 35",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "heart health",
-    "createdAt": "2026-06-06T08:33:23.350Z"
-  },
-  {
-    "title": "Why Heart Palpitations Happen More in Humidity After 60",
-    "description": "Humidity above 65% raises heart rate by 8–12 BPM in adults over 60 — here’s how to stay cool and steady. Learn how",
-    "primaryKeyword": "why heart palpitations happen in humidity after 60",
-    "topicCluster": "seasonal-heart-health",
-    "coreKeyword": "heart health",
-    "createdAt": "2026-06-06T08:33:25.634Z"
+    "createdAt": "2026-06-13T05:15:26.690Z",
+    "score": 27.25,
+    "scheduledWeek": "2026-W25"
   }
 ]

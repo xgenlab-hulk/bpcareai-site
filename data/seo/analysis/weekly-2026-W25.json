@@ -1,0 +1,217 @@
+{
+  "week": "2026-W25",
+  "generatedAt": "2026-06-13T05:15:26.690Z",
+  "config": {
+    "weeklyTarget": 35,
+    "dailyTarget": 5
+  },
+  "previousWeek": {
+    "remaining": 30,
+    "kept": 0
+  },
+  "newGenerated": 23,
+  "totalWritten": 20,
+  "gscData": {
+    "daysAnalyzed": 7,
+    "totalSearchTerms": 19
+  },
+  "llmAnalysis": {
+    "searchIntentAnalysis": "信息查询为主（占95%+）：'heat lowers blood pressure'、'does humidity affect blood pressure'、'can heat raise blood pressure'等12个长尾词均属深度健康疑问，用户寻求科学解释而非产品购买；比较决策类仅2例（'space heater vs blood pressure monitor'、'blood pressure monitor vs space heater'），但CTR为0，说明内容未匹配对比需求；无紧急问题词（如'chest pain high bp emergency'），所有词均无'urgent'、'immediate'、'ER'等信号，符合BPCareAI面向35+成人慢病管理的定位。",
+    "ctrAnomalies": "首页（/）CTR仅8.1%（3/37），远低于行业健康类平均12–15%，说明首屏价值主张不清晰或CTA弱；'the-hidden-dangers-of-indoor-heating-on-blood-pressure'展示72次但点击0次（CTR=0%，位置20.3），标题学术化、未包含核心搜索词'heat and blood pressure'，且摘要未体现'lowering effect'或 'evidence-based'等信任信号；'home-bp-cuff-calibration-in-high-humidity' CTR高达50%（1/2），证明精准匹配'humidity + bp monitor'需求可获极高转化，但该词仅1次曝光，说明未主动布局同类长尾。",
+    "hiddenOpportunities": "[\"热环境与血压调控机制（含湿度/温度/季节性变化）——覆盖11个相关搜索词，零有效文章（除1篇低CTR旧文），是高需求低竞争蓝海；'soft food for older adults with no teeth'与'holiday-eating-on-a-soft-food-diet'形成场景闭环，但当前仅1篇相关文章（CTR=0%，位置39），未覆盖'no teeth'、'denture-free'等口语化变体；'bp rating ai'（展示1次，位置4）暗示用户已认知品牌名+B2B/AI概念，是品牌技术信任建设入口；'high fiber dinner sides'和'low cholesterol soups'属高意图营养词，但对应页面CTR=0%，标题未嵌入'for seniors'或'heart healthy'等人群+功效关键词；'diabetic snacks for adults'搜索量虽小，但与TOP 5高展示词'bp care'、'bpcare'形成用户画像交叉（35+慢病共病人群），尚未建立糖尿病×心血管内容矩阵。\"]",
+    "topicPriorities": "[{\"topic\":\"How Heat & Humidity Affect Blood Pressure: Evidence-Based Guide for Seniors\",\"dataBasis\":\"覆盖11个GSC搜索词（如'heat lowers blood pressure', 'does humidity affect blood pressure', 'effect of heat on blood pressure'），总展示量16次，0点击，平均位置67.3 —— 高需求+极低满足度\",\"whyPriority\":\"该主题直击环境生理学盲区，可整合现有2篇低效页（'hidden-dangers-of-indoor-heating'和'home-bp-cuff-calibration-in-high-humidity'），统一升级为权威指南，抢占'heat blood pressure senior'语义核心。\"},{\"topic\":\"Soft Food Diet for Seniors Without Teeth: Heart-Healthy Holiday Meal ",
+    "articleOptimizations": 5
+  },
+  "perplexityInsights": {
+    "cholesterol": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "Should I be worried if my LDL is 160 at 42 even if my total cholesterol is under 200?",
+        "Is triglycerides 250 dangerous at 38, and does it mean I have metabolic syndrome?",
+        "Can high cholesterol cause leg pain or numbness when walking, or is that more likely poor circulation?",
+        "What does it mean if my HDL is low but my LDL is normal?",
+        "Should I get tested for lipoprotein(a) or ApoB if high cholesterol runs in my family?",
+        "How often should adults over 35 with normal cholesterol still repeat lipid testing?",
+        "Can I have genetic high cholesterol even if I eat well and exercise regularly?",
+        "What cholesterol number means I need medication if I’m 45 and otherwise healthy?",
+        "Is non-HDL cholesterol more important than LDL for heart risk in adults over 40?",
+        "Does fasting matter for cholesterol testing, or can I do a non-fasting lipid panel?"
+      ],
+      "competitorCoverage": "Top-ranking adult cholesterol articles usually cover what cholesterol is, the difference between LDL, HDL, and triglycerides, which levels are considered high, common risk factors, and the main ways to lower cholesterol through diet, exercise, weight loss, smoking cessation, and medication when needed.[1][2][4][8] To compete, a new article should also answer the decision-making questions people actually search for now: when to test, whether fasting is required, whether ApoB or lipoprotein(a) should be checked, what to do when lifestyle changes are not enough, and how to interpret results in the context of overall cardiovascular risk rather than a single number.[5][9][10]",
+      "whyItMatters": "This topic remains important because high cholesterol often has no obvious symptoms while still increasing the risk of heart attack and stroke, so people actively search for reassurance, thresholds, and next steps.[1][2][4] It is also trending because more adults are being told to understand their broader cardiovascular risk and discuss advanced testing or treatment decisions with clinicians, especially when family history or other risk factors are present.[5][9][10]"
+    },
+    "diabetes": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "What does an A1C of 5.7, 5.8, or 6.4 mean at age 35+?",
+        "Is fasting blood sugar of 100, 110, or 125 dangerous in adults over 40?",
+        "Can you have diabetes with normal fasting glucose but high A1C?",
+        "What are the first signs of diabetes after 35 besides thirst and peeing a lot?",
+        "Can stress, poor sleep, or menopause cause blood sugar to rise in your 40s or 50s?",
+        "How often should adults over 35 get screened for diabetes if they feel fine?",
+        "What is the difference between prediabetes, type 2 diabetes, and insulin resistance?",
+        "Can you reverse prediabetes in your 40s or 50s without medication?",
+        "What foods spike blood sugar the most in adults with prediabetes?",
+        "Should I take metformin for prediabetes if I am over 45 or overweight?"
+      ],
+      "competitorCoverage": "Top-ranking adult diabetes articles usually cover the basics: what diabetes is, common symptoms, major risk factors, how it is diagnosed with A1C or blood glucose tests, and the core lifestyle steps for prevention or management.[1][2][4][5] They also often explain who should be screened, how type 2 diabetes differs from prediabetes and type 1, and when to see a clinician for testing or treatment adjustments.[1][3][7][10] A new article needs to go beyond generic definitions and directly answer age-specific questions, lab-value thresholds, next-step actions, and practical situations adults are searching for now.[1][2][3][4][10]",
+      "whyItMatters": "This topic stays highly relevant because diabetes risk rises with age, and major sources continue to emphasize screening starting at 35 or in middle age for people with risk factors.[2][3][5] It also remains important because people are looking for actionable guidance on early detection, remission, medication decisions, and everyday blood sugar management rather than only basic definitions.[1][4][6][10]"
+    },
+    "healthy eating for seniors": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "What should a 65-year-old eat every day to stay healthy?",
+        "How much protein do adults over 70 need per day to avoid muscle loss?",
+        "What are the best breakfast foods for a 75-year-old with low appetite?",
+        "How can a 68-year-old eat more when food tastes bland or has no flavor?",
+        "What vitamins and minerals do seniors commonly miss if they eat less?",
+        "How often should adults over 60 eat if they get full quickly after small meals?",
+        "What are the healthiest snacks for seniors who live alone and don’t want to cook?",
+        "How much water should a 72-year-old drink each day if they don’t feel thirsty?",
+        "What foods help older adults maintain weight without relying on junk food?",
+        "What should a 70-year-old with dentures eat if chewing meat and raw vegetables is hard?"
+      ],
+      "competitorCoverage": "Top-ranking Google articles on healthy eating for seniors usually cover the same core themes: nutrient-dense foods, hydration, protein, fiber, smaller portions, and common nutrition risks like low appetite, chewing problems, dehydration, and unintentional weight loss.[1][3][6][8] They also tend to include practical advice on meal timing, snack ideas, grocery shopping, reading labels, and simple plate-method guidance, with some emphasis on calcium, vitamin D, B12, and avoiding empty calories or excess salt and sugar.[1][2][3][4][7] To compete, a new article should add clear answers for specific senior scenarios, such as low appetite, living alone, medication side effects, plant-based eating, low-budget meal planning, and how needs change with chewing difficulty or unintended weight change.[1][3][5][7]",
+      "whyItMatters": "This topic stays important because older-adult nutrition guidance consistently highlights risks that become more common with age: dehydration, reduced appetite, nutrient shortfalls, and trouble chewing or cooking, all of which can undermine health quickly.[1][3][8] It also remains highly searched because people want practical, everyday answers for eating well with common age-related changes, not just broad diet advice.[1][6][9]"
+    },
+    "exercise for seniors": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "What is the best exercise routine for seniors who have never worked out before?",
+        "How many minutes of exercise should a 70-year-old do each week?",
+        "What is the safest way for a 68-year-old to start exercising after years of inactivity?",
+        "Can seniors do strength training every day, or how many days a week is safe?",
+        "What exercises are best for older adults who get short of breath quickly?",
+        "Is walking enough exercise for seniors, or do they also need weights and balance work?",
+        "What are the best balance exercises for a 75-year-old who is afraid of falling?",
+        "What is the best home exercise plan for seniors with no equipment?",
+        "Can an 80-year-old build muscle with bodyweight exercises?",
+        "What should a senior do if exercise causes dizziness, nausea, or chest pain?"
+      ],
+      "competitorCoverage": "Top-ranking articles on exercise for seniors usually cover the same core framework: aerobic activity, strength training, balance, and flexibility, plus the standard weekly targets of 150 minutes of moderate activity, 2 days of muscle strengthening, and regular balance work.[1][2][5][7] They also emphasize starting slowly, warming up and cooling down, choosing low-impact or home-friendly options, and checking with a clinician if the person has chronic conditions, dizziness, fall risk, or recent injury.[4][6][7] To compete, a new article should clearly explain how to begin safely, how to progress week by week, what to do for common barriers like fear of falling or low stamina, and how to adapt the routine for very inactive beginners.",
+      "whyItMatters": "This topic is important now because major public-health guidance still strongly encourages older adults to combine aerobic, strength, and balance work, and those recommendations are repeatedly reinforced by CDC, NHS, NIA, and AMA guidance.[1][2][5][7] It also tends to spike around periods when people reassess routines and look for practical home-based or joint-friendly ways to stay active, especially when they want simple plans that reduce fall risk and preserve independence."
+    }
+  },
+  "topTopics": [
+    {
+      "title": "Best Home Exercise Plan for Seniors With No Equipment",
+      "pk": "home exercise plan for seniors no equipment",
+      "score": 68,
+      "breakdown": {
+        "clusterNeed": 30,
+        "searchDemand": 8,
+        "differentiation": 24,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率46%，大缺口 | 来自周度分析推荐 | 与已有文章高度差异化(重叠25%)"
+    },
+    {
+      "title": "How Many Minutes of Exercise Should a 70-Year-Old Do Each Week?",
+      "pk": "how many minutes exercise 70 year old",
+      "score": 65,
+      "breakdown": {
+        "clusterNeed": 30,
+        "searchDemand": 8,
+        "differentiation": 21,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率46%，大缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠40%)"
+    },
+    {
+      "title": "What Exercises Are Best for Older Adults Who Get Short of Breath?",
+      "pk": "exercises for seniors who get short of breath",
+      "score": 65,
+      "breakdown": {
+        "clusterNeed": 30,
+        "searchDemand": 8,
+        "differentiation": 21,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率46%，大缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠40%)"
+    },
+    {
+      "title": "Best Balance Exercises for a 75-Year-Old Who Is Afraid of Falling",
+      "pk": "best balance exercises for 75 year old",
+      "score": 52,
+      "breakdown": {
+        "clusterNeed": 30,
+        "searchDemand": 8,
+        "differentiation": 8,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率46%，大缺口 | 来自周度分析推荐 | 与已有文章有一定重叠(60%)，可能cannibalize"
+    },
+    {
+      "title": "Can Stress Raise Blood Sugar in Your 50s?",
+      "pk": "can stress raise blood sugar in your 50s",
+      "score": 51,
+      "breakdown": {
+        "clusterNeed": 30,
+        "searchDemand": 11,
+        "differentiation": 8,
+        "timeliness": 2
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率46%，大缺口 | GSC方向相关\"does air conditioning raise blood pressure\"(4次展示)，微弱信号 | 与已有文章有一定重叠(67%)，可能cannibalize | 搜索趋势下降"
+    },
+    {
+      "title": "Does Heat Make BP Meds Less Effective?",
+      "pk": "blood pressure meds and heat",
+      "score": 49.733333333333334,
+      "breakdown": {
+        "clusterNeed": 12.7,
+        "searchDemand": 15,
+        "differentiation": 20,
+        "timeliness": 2
+      },
+      "reasoning": "hypertension-management集群覆盖率71%，中等缺口 | 近7天已产出5篇，适度减分 | GSC方向相关\"heat and high blood pressure\"(5次展示) | 与已有文章有差异(重叠50%) | 搜索趋势下降"
+    },
+    {
+      "title": "What Should a 65-Year-Old Eat Every Day to Stay Healthy?",
+      "pk": "what should a 65-year-old eat every day",
+      "score": 48,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 24,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章高度差异化(重叠25%)"
+    },
+    {
+      "title": "How Often Should Adults Over 60 Eat If They Get Full Fast?",
+      "pk": "how often should adults over 60 eat if full quickly",
+      "score": 48,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 24,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章高度差异化(重叠25%)"
+    },
+    {
+      "title": "How Much Protein Do Adults Over 70 Need Per Day to Avoid Muscle Loss?",
+      "pk": "how much protein do adults over 70 need per day",
+      "score": 45,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 21,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章有差异(重叠40%)"
+    },
+    {
+      "title": "Can Pets Lower Heart Rate at Home After 70?",
+      "pk": "can pets lower heart rate for seniors",
+      "score": 44.733333333333334,
+      "breakdown": {
+        "clusterNeed": 22.7,
+        "searchDemand": 8,
+        "differentiation": 8,
+        "timeliness": 6
+      },
+      "reasoning": "cardiovascular-health集群覆盖率61%，中等缺口 | 来自周度分析推荐 | 与已有文章有一定重叠(67%)，可能cannibalize"
+    }
+  ]
+}
