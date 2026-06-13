@@ -1,0 +1,85 @@
+{
+  "date": "2026-06-10",
+  "fetchedAt": "2026-06-13T02:35:06.175Z",
+  "queries": [
+    {
+      "query": "bp care",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "can heat lower blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 83
+    },
+    {
+      "query": "space heater vs blood pressure monitor",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 7.166666666666667
+    },
+    {
+      "page": "https://bpcareai.com/articles/best-warm-heart-healthy-soups-for-seniors-with-high-cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://bpcareai.com/articles/blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 12.25
+    },
+    {
+      "page": "https://bpcareai.com/articles/heart-disease-cataract-surgery-seniors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 16
+    },
+    {
+      "page": "https://bpcareai.com/articles/home-bp-cuff-calibration-in-high-humidity",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 20.25
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/heart-disease-cataract-surgery-seniors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 18
+    }
+  ],
+  "summary": {
+    "totalQueries": 3,
+    "totalImpressions": 4,
+    "totalClicks": 0,
+    "avgPosition": 24,
+    "pagesWithImpressions": 7
+  }
+}
