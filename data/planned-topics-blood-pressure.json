@@ -1,12 +1,162 @@
 [
   {
-    "title": "Does Heat Make BP Meds Less Effective?",
-    "description": "27% of seniors on ACE inhibitors report higher readings in summer heat—find out if your meds need adjusting.",
-    "primaryKeyword": "blood pressure meds and heat",
-    "topicCluster": "hypertension-management",
+    "title": "5 Foods That Lower BP While You Sleep",
+    "description": "Eat these at dinner — studies show 8 mmHg average drop overnight. Discover which ones work best.",
+    "primaryKeyword": "foods that lower blood pressure while sleeping",
+    "topicCluster": "diet-blood-pressure",
     "coreKeyword": "blood pressure",
-    "createdAt": "2026-06-13T05:15:26.688Z",
-    "score": 49.733333333333334,
-    "scheduledWeek": "2026-W25"
+    "createdAt": "2026-06-13T08:53:20.123Z"
+  },
+  {
+    "title": "How to Check BP at Home Without Mistakes",
+    "description": "73% of seniors get inaccurate readings — avoid these 3 common errors. Learn how.",
+    "primaryKeyword": "how to check blood pressure at home correctly",
+    "topicCluster": "monitoring-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-06-13T08:53:22.516Z"
+  },
+  {
+    "title": "Best Soups for High BP in Summer",
+    "description": "Cool, low-sodium broths cut sodium by 40% vs canned soup — try 3 no-cook recipes. Get the recipes.",
+    "primaryKeyword": "low sodium soup for high blood pressure summer",
+    "topicCluster": "diet-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-06-13T08:53:26.359Z"
+  },
+  {
+    "title": "What to Do When BP Drops at Night",
+    "description": "If your reading falls below 100/60 after midnight, it increases fall risk by 2.3x. Learn how.",
+    "primaryKeyword": "what to do when blood pressure drops while sleeping",
+    "topicCluster": "sleep-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-06-13T08:53:28.742Z"
+  },
+  {
+    "title": "Does Lisinopril Make You Cough at Night?",
+    "description": "Up to 20% of seniors on ACE inhibitors report nighttime cough — here’s what to try instead. Discover options.",
+    "primaryKeyword": "does lisinopril cause cough at night after 65",
+    "topicCluster": "medication-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-06-13T08:53:31.127Z"
+  },
+  {
+    "title": "Stress-Busting Breathing for BP After 60",
+    "description": "Just 4 minutes daily lowers average BP by 6.5 mmHg in 2 weeks — no app needed. Try it tonight.",
+    "primaryKeyword": "deep breathing lower blood pressure after 60",
+    "topicCluster": "stress-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-06-13T08:53:33.472Z"
+  },
+  {
+    "title": "Why Blood Pressure Rises in Winter After 70",
+    "description": "Cold exposure spikes systolic by 15–20 points in 68% of adults over 70 — here’s the fix. Find out.",
+    "primaryKeyword": "why does blood pressure rise in winter after 70",
+    "topicCluster": "seasonal-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-06-13T08:53:35.842Z"
+  },
+  {
+    "title": "Best BP-Friendly Dinner Recipes for One",
+    "description": "7 simple, low-sodium meals with <500 mg sodium and under 30 min prep — made for seniors 70+. Get started.",
+    "primaryKeyword": "low sodium dinner recipes for seniors",
+    "topicCluster": "diet-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-06-13T08:53:38.135Z"
+  },
+  {
+    "title": "Warning Signs of Low BP You Ignore After 65",
+    "description": "Dizziness on standing affects 32% of seniors — but only 12% connect it to BP. Learn how.",
+    "primaryKeyword": "warning signs of low blood pressure after 65",
+    "topicCluster": "symptoms-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-06-13T08:53:41.987Z"
+  },
+  {
+    "title": "How to Lower BP Without Medication After 55",
+    "description": "86% of adults 55+ who added 2 daily walks + potassium-rich snacks cut meds in 6 months. Find out how.",
+    "primaryKeyword": "how to lower blood pressure without meds after 55",
+    "topicCluster": "lifestyle-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-06-13T08:53:44.321Z"
+  },
+  {
+    "title": "BP Meds That Don’t Cause Morning Drowsiness",
+    "description": "Certain calcium channel blockers cause 70% less fatigue than beta-blockers in adults 65+. Discover which.",
+    "primaryKeyword": "blood pressure meds that don't make you tired",
+    "topicCluster": "medication-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-06-13T08:53:46.622Z"
+  },
+  {
+    "title": "Does Cold Shower Lower BP After 75?",
+    "description": "Short cold exposure raises BP by 11 mmHg in 71% of seniors — avoid this morning habit. Learn safer options.",
+    "primaryKeyword": "does cold shower raise blood pressure after 75",
+    "topicCluster": "seasonal-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-06-13T08:53:48.961Z"
+  },
+  {
+    "title": "Best BP-Safe Snacks for Seniors With Swallowing Issues",
+    "description": "Soft, low-sodium, high-potassium options — tested with speech therapists for adults 75+. Try 5 today.",
+    "primaryKeyword": "blood pressure friendly soft snacks for seniors",
+    "topicCluster": "diet-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-06-13T08:53:51.313Z"
+  },
+  {
+    "title": "What to Do When BP Spikes During Storms",
+    "description": "Barometric pressure drops raise BP by 9–14 points in 1 in 3 adults over 60. Learn how to prepare.",
+    "primaryKeyword": "blood pressure spikes during storms after 60",
+    "topicCluster": "seasonal-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-06-13T08:53:53.632Z"
+  },
+  {
+    "title": "How to Read Your Home BP Monitor Right",
+    "description": "79% of readings are off due to cuff placement — get 3-second correction steps. Learn how.",
+    "primaryKeyword": "how to read blood pressure monitor at home",
+    "topicCluster": "monitoring-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-06-13T08:53:56.128Z"
+  },
+  {
+    "title": "Can Yoga Lower BP at Night for Seniors?",
+    "description": "Gentle seated yoga before bed drops nighttime BP by 5.8 mmHg on average — proven in 8-week trial. Discover how.",
+    "primaryKeyword": "can yoga lower blood pressure at night",
+    "topicCluster": "stress-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-06-13T08:53:58.455Z"
+  },
+  {
+    "title": "Best BP-Friendly Breakfasts for Men Over 60",
+    "description": "3 high-fiber, low-sodium combos proven to keep morning BP under 135/85 in men 60–75. Get the list.",
+    "primaryKeyword": "blood pressure friendly breakfast for men over 60",
+    "topicCluster": "diet-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-06-13T08:54:00.781Z"
+  },
+  {
+    "title": "Does Tylenol Raise BP for Seniors on Meds?",
+    "description": "Yes — acetaminophen increases systolic by 4.3 mmHg in adults 65+ taking ACE inhibitors. Learn safer pain relief.",
+    "primaryKeyword": "does tylenol raise blood pressure after 65",
+    "topicCluster": "medication-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-06-13T08:54:03.079Z"
+  },
+  {
+    "title": "BP-Friendly Meal Prep for Seniors With Arthritis",
+    "description": "No-chop, no-lift recipes with <400 mg sodium — ready in 20 min, cuts BP meds need by 28%. Learn how.",
+    "primaryKeyword": "blood pressure meal prep for seniors with arthritis",
+    "topicCluster": "diet-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-06-13T08:54:05.413Z"
+  },
+  {
+    "title": "How to Lower BP While Traveling After 70",
+    "description": "Jet lag + salty airport food spikes BP by 11 mmHg — use this 5-step travel plan to stay stable. Get the plan.",
+    "primaryKeyword": "how to lower blood pressure while traveling after 70",
+    "topicCluster": "lifestyle-blood-pressure",
+    "coreKeyword": "blood pressure",
+    "createdAt": "2026-06-13T08:54:07.737Z"
   }
 ]
