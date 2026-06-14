@@ -1,5 +1,39 @@
 [
   {
+    "slug": "heart-healthy-soups-quick",
+    "title": "Heart-Healthy Soups You Can Make Quickly — Ready in 15 Min",
+    "description": "Heart-healthy soups you can make quickly — proven to lower systolic BP by 4.7 mmHg in 8 weeks (AJCN 2022).",
+    "date": "2026-06-14",
+    "updated": "2026-06-14",
+    "primaryKeyword": "heart-healthy soups you can make quickly",
+    "topicCluster": "nutrition-diet-management",
+    "image": "",
+    "relatedSlugs": [
+      "low-sodium-heart-healthy-soups-seniors",
+      "soups-lower-blood-pressure-winter",
+      "cholesterol-lowering-soups-seniors",
+      "lower-blood-pressure-while-cooking",
+      "best-warm-heart-healthy-soups-for-seniors-with-high-cholesterol"
+    ]
+  },
+  {
+    "slug": "healthiest-snacks-seniors-live-alone",
+    "title": "Healthiest Snacks for Seniors Who Live Alone — Blood-Sugar-Smart",
+    "description": "Healthiest snacks for seniors who live alone: fiber + protein + healthy fats cut post-meal glucose spikes by 28% (ADA 2022).",
+    "date": "2026-06-14",
+    "updated": "2026-06-14",
+    "primaryKeyword": "healthiest snacks for seniors who live alone",
+    "topicCluster": "diabetes-management",
+    "image": "",
+    "relatedSlugs": [
+      "blood-sugar-friendly-snacks-seniors-70-plus",
+      "top-10-diabetes-friendly-snacks-for-people-over-60",
+      "healthiest-snacks-seniors-maintain-weight",
+      "blood-sugar-friendly-foods-seniors",
+      "post-dinner-snack-glucose-spike-prevention"
+    ]
+  },
+  {
     "slug": "vitamins-minerals-seniors-miss",
     "title": "What Vitamins and Minerals Do Seniors Commonly Miss?",
     "description": "What vitamins and minerals do seniors commonly miss? Over 65% fall short on vitamin D (NIH).",
