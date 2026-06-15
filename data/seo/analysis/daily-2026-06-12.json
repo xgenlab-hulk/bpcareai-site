@@ -1,0 +1,20 @@
+{
+  "date": "2026-06-12",
+  "period": "3-day",
+  "impressionsChange": 1.1111111111111072,
+  "clicksChange": -100,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "will heat raise blood pressure",
+      "reason": "排名跃升 15.0 位（82.0 → 67.0）",
+      "score": 45,
+      "recentImpressions": 1,
+      "baselineImpressions": 2,
+      "recentPosition": 67,
+      "baselinePosition": 82
+    }
+  ]
+}
