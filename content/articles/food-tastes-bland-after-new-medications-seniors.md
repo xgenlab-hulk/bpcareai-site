@@ -1,13 +1,13 @@
 ---
-title: >-
-  Why Food Tastes Bland After New Medications (Seniors)
+title: Why Food Tastes Bland After New Medications (Seniors)
 slug: food-tastes-bland-after-new-medications-seniors
 description: >-
-  Food tastes bland after new medications seniors? Up to 35% of adults 65+ experience this (dysgeusia). Try lemon, herbs & zinc check — restore flavor fast.
+  Food tastes bland after new medications seniors? Up to 35% of adults 65+
+  experience this (dysgeusia). Try lemon, herbs & zinc check — restore flavor
+  fast.
 date: '2026-06-02'
 updated: '2026-06-02'
-primaryKeyword: >-
-  food tastes bland after new medications seniors
+primaryKeyword: food tastes bland after new medications seniors
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
@@ -17,6 +17,7 @@ relatedSlugs:
     what-are-the-earliest-taste-perception-changes-that-make-holiday-spices-feel-too-strong-after-age-68
   - >-
     what-causes-sudden-loss-of-taste-during-stable-beta-blocker-therapy-in-adults-71-with-preserved-ejection-fraction-and-zinc-deficiency
+  - eat-more-when-food-tastes-bland-after-68
 ---
 
 # Why Food Tastes Bland After New Medications (Seniors)
