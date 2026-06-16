@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "title": "Does Heat Raise or Lower Your Blood Pressure?",
+    "primaryKeyword": "does heat raise your blood pressure",
+    "description": "Heat usually lowers blood pressure—but 32% of adults over 50 experience spikes during heatwaves. Learn what’s normal, when to worry, and how to stay safe.",
+    "topicCluster": "heat-and-blood-pressure",
+    "reasoning": "This query is trending due to a recent nationwide heatwave; users over 35 are noticing confusing BP fluctuations (drops in heat, spikes on cooling) and fear misreading their risk—especially those with existing hypertension or on meds like diuretics or ACE inhibitors.",
+    "query": "does heat raise your blood pressure",
+    "type": "RANK_JUMP",
+    "score": 75,
+    "perplexityQuestions": [
+      "Does heat raise or lower blood pressure in adults over 35?",
+      "Is 140/90 blood pressure dangerous at age 45 during hot weather?",
+      "Why does my blood pressure drop when I'm in the heat but spike when I cool down?",
+      "Can extreme heat cause a blood pressure spike in people with hypertension over 50?",
+      "Does hot weather affect blood pressure readings more in adults over 60?"
+    ],
+    "createdAt": "2026-06-16T02:52:59.132Z",
+    "expiresAt": "2026-06-19T02:52:59.132Z"
+  }
+]
