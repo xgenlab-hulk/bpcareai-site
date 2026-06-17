@@ -1,24 +1,21 @@
 ---
-title: >-
-  Does Lisinopril Make You Tired After 65? What the Data Shows
+title: Does Lisinopril Make You Tired After 65? What the Data Shows
 slug: lisinopril-tired-after-65
 description: >-
-  Yes — ~14% of adults over 65 report fatigue on lisinopril (ACC/AHA 2023). Linked to low BP (hypotension) or high potassium (hyperkalemia).
+  Yes — ~14% of adults over 65 report fatigue on lisinopril (ACC/AHA 2023).
+  Linked to low BP (hypotension) or high potassium (hyperkalemia).
 date: '2026-05-28'
 updated: '2026-05-28'
-primaryKeyword: >-
-  does lisinopril make you tired after 65
+primaryKeyword: does lisinopril make you tired after 65
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
-  - >-
-    bp-meds-tiredness-after-65
-  - >-
-    high-cholesterol-fatigue-after-35
+  - bp-meds-tiredness-after-65
+  - high-cholesterol-fatigue-after-35
   - >-
     when-to-worry-about-sudden-fatigue-after-starting-a-new-blood-pressure-medication-at-age-68
-  - >-
-    blood-pressure-meds-nutrient-absorption-after-65
+  - blood-pressure-meds-nutrient-absorption-after-65
+  - lisinopril-night-cough-over-65
 ---
 
 # Does Lisinopril Make You Tired After 65? What the Data Shows
