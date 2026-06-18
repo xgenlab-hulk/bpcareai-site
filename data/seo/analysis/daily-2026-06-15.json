@@ -1,0 +1,47 @@
+{
+  "date": "2026-06-15",
+  "period": "3-day",
+  "impressionsChange": 109.34579439252336,
+  "clicksChange": 366.66666666666663,
+  "newQueries": [],
+  "risingQueries": [
+    {
+      "query": "bp care",
+      "recentImpressions": 12,
+      "baselineImpressions": 25,
+      "changeRatio": 4.4799999999999995
+    }
+  ],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "does heat raise your blood pressure",
+      "reason": "排名跃升 25.0 位（67.0 → 42.0）",
+      "score": 75,
+      "recentImpressions": 1,
+      "baselineImpressions": 2,
+      "recentPosition": 42,
+      "baselinePosition": 67
+    },
+    {
+      "type": "SURGE",
+      "query": "bp care",
+      "reason": "展示量激增 4.5x（近3天日均4.0 vs 基线0.9）",
+      "score": 67.19999999999999,
+      "recentImpressions": 12,
+      "baselineImpressions": 25,
+      "recentPosition": 2.75,
+      "baselinePosition": 3.28
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "does heat increase blood pressure",
+      "reason": "排名跃升 21.5 位（74.5 → 53.0）",
+      "score": 64.5,
+      "recentImpressions": 1,
+      "baselineImpressions": 2,
+      "recentPosition": 53,
+      "baselinePosition": 74.5
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "date": "2026-06-15",
+  "fetchedAt": "2026-06-18T02:45:11.209Z",
+  "queries": [
+    {
+      "query": "bp care",
+      "clicks": 2,
+      "impressions": 6,
+      "ctr": 0.3333333333333333,
+      "position": 2.5
+    },
+    {
+      "query": "alternatives to statins for women",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 97
+    },
+    {
+      "query": "bp rating ai",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "bpcare",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "can cholesterol cause chest pain",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 69
+    },
+    {
+      "query": "can high cholesterol cause chest tightness",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 67.75
+    },
+    {
+      "query": "chest pain from high cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 69
+    },
+    {
+      "query": "does heat increase blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 53
+    },
+    {
+      "query": "high cholesterol chest pain",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 76
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 2,
+      "impressions": 13,
+      "ctr": 0.15384615384615385,
+      "position": 3.769230769230769
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 10.375
+    },
+    {
+      "page": "https://bpcareai.com/articles/air-fryer-oxidized-cholesterol-coronary-calcification",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 9.625
+    },
+    {
+      "page": "https://bpcareai.com/articles/blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "page": "https://bpcareai.com/articles/high-cholesterol-chest-pain-heart-problem",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 70
+    },
+    {
+      "page": "https://bpcareai.com/articles/soups-lower-blood-pressure-winter",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/12-science-backed-times-to-take-a-short-walk-after-family-meal-courses-based-on-gastric-emptying-rhythms-in-adults-69-with-gastroparesis-like-symptoms",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/a-vs-b-morning-walk-before-breakfast-vs-30-minutes-after-dinner-impact-on-24-hour-glucose-variability-in-adults-60-76-with-postprandial-hyperglycemia",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/best-cholesterol-meds-women-menopause",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 97
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/foods-lower-blood-sugar-after-dinner-seniors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/high-cholesterol-chest-pain-heart-problem",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 51
+    }
+  ],
+  "summary": {
+    "totalQueries": 9,
+    "totalImpressions": 18,
+    "totalClicks": 2,
+    "avgPosition": 40.611111111111114,
+    "pagesWithImpressions": 11
+  }
+}
