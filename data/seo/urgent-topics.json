@@ -1,40 +1,21 @@
 [
   {
-    "title": "BP Care: What Your Numbers Really Mean After 35",
-    "primaryKeyword": "bp care",
-    "description": "1 in 3 adults over 35 has high BP — learn what readings demand action, when to call urgent care, and how often to check at home. Start today.",
+    "title": "What 'BP Care' Really Means After 35 — Simple Home Checks That Save Lives",
+    "primaryKeyword": "bp care for adults over 35",
+    "description": "1 in 3 US adults over 35 has high BP — yet 46% don’t check at home. Learn when to act, how often to measure, and what spikes really mean.",
     "topicCluster": "bp-care-basics",
-    "reasoning": "Search surge reflects rising anxiety about home BP monitoring amid new guidelines, white-coat hypertension confusion, and medication concerns — users want clear, age-relevant rules, not clinical jargon.",
+    "reasoning": "The surge reflects rising anxiety about inconsistent home readings (e.g., white-coat vs masked hypertension), confusion around thresholds like 140/90 or 180/110, and urgent need for practical, non-clinical guidance — users want clarity, not jargon, and actionable steps they can take *today*.",
     "query": "bp care",
     "type": "SURGE",
-    "score": 67.19999999999999,
+    "score": 75,
     "perplexityQuestions": [
-      "Is 140/90 dangerous at 45?",
-      "What blood pressure reading means I should go to urgent care or the ER?",
-      "Why is my blood pressure high only at the doctor’s office but normal at home?",
-      "How often should I check my blood pressure at home if I’m over 35?",
-      "What should I ask my doctor if my blood pressure is still high on medication?"
+      "Is 140/90 dangerous at 45, or should I wait and recheck it?",
+      "What does it mean if my blood pressure is 150/95 at home but normal at the doctor?",
+      "How often should adults over 35 check blood pressure at home?",
+      "What should I do if my blood pressure is 180/110 at home but I feel fine?",
+      "Can stress, anxiety, rushing, or caffeine make my blood pressure read high?"
     ],
-    "createdAt": "2026-06-18T02:45:30.121Z",
-    "expiresAt": "2026-06-21T02:45:30.121Z"
-  },
-  {
-    "title": "Does Heat Raise or Lower Blood Pressure? (Especially After 35)",
-    "primaryKeyword": "does heat increase blood pressure",
-    "description": "Heat often *lowers* BP in healthy adults—but dehydration or meds can cause spikes up to 140/90. Learn what’s normal, when to worry, and how to stay safe this summer.",
-    "topicCluster": "heat-and-blood-pressure",
-    "reasoning": "Summer heatwaves are surging globally, triggering real-time concern among adults 35+ who notice erratic BP readings outdoors—especially those on medication or managing hypertension. Users aren’t seeking textbook physiology; they want actionable, age-relevant clarity on why their numbers shift in heat and whether it’s dangerous.",
-    "query": "does heat increase blood pressure",
-    "type": "RANK_JUMP",
-    "score": 64.5,
-    "perplexityQuestions": [
-      "Does heat increase blood pressure or lower it in adults over 35?",
-      "Why does my blood pressure go up when I’m hot, but drop when I sit in the shade?",
-      "Can hot weather cause a blood pressure spike to 140/90 at age 45?",
-      "Is 140/90 dangerous in the heat if I’m 50 and on blood pressure medicine?",
-      "Can dehydration from heat make blood pressure rise instead of fall?"
-    ],
-    "createdAt": "2026-06-18T02:45:39.696Z",
-    "expiresAt": "2026-06-21T02:45:39.696Z"
+    "createdAt": "2026-06-19T03:28:47.535Z",
+    "expiresAt": "2026-06-22T03:28:47.535Z"
   }
 ]
