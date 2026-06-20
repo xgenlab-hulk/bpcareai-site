@@ -1,15 +1,5 @@
 [
   {
-    "title": "Could Hypothyroidism Be Raising Your Cholesterol?",
-    "description": "Up to 30% of adults with high cholesterol also have undiagnosed low thyroid — here’s how to spot the signs and ask your doctor.",
-    "primaryKeyword": "could hypothyroidism cause high cholesterol",
-    "topicCluster": "nutrition-diet-management",
-    "coreKeyword": "heart health",
-    "createdAt": "2026-06-20T05:06:05.433Z",
-    "score": 56.75,
-    "scheduledWeek": "2026-W26"
-  },
-  {
     "title": "What Does High LDL But Normal Total Cholesterol Mean?",
     "description": "LDL over 130 with total under 200 confuses many — 42% of adults get this result. Learn how to interpret it correctly.",
     "primaryKeyword": "what does high ldl but normal total cholesterol mean",
@@ -28,5 +18,85 @@
     "createdAt": "2026-06-20T05:06:05.433Z",
     "score": 26.75,
     "scheduledWeek": "2026-W26"
+  },
+  {
+    "title": "Warning Signs of Heart Trouble at Night After 60",
+    "description": "Sudden shortness of breath at night raises heart failure risk by 3x in adults over 60—learn how to spot it early and act.",
+    "primaryKeyword": "heart trouble signs at night after 60",
+    "topicCluster": "symptoms-heart-failure",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-06-20T08:52:30.340Z"
+  },
+  {
+    "title": "How to Lower Blood Pressure While Sleeping Naturally",
+    "description": "72% of adults over 65 see better overnight BP control with simple bedroom adjustments—discover which 3 changes work best.",
+    "primaryKeyword": "lower blood pressure while sleeping",
+    "topicCluster": "sleep-blood-pressure",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-06-20T08:52:32.568Z"
+  },
+  {
+    "title": "Does Having a Dog Lower Heart Disease Risk After 70?",
+    "description": "Seniors with dogs walk 22 minutes more daily and have 15% lower heart disease rates—find out how pets protect your heart.",
+    "primaryKeyword": "do pets lower heart disease risk after 70",
+    "topicCluster": "pets-heart-health",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-06-20T08:52:34.782Z"
+  },
+  {
+    "title": "5 Women-Specific Heart Attack Signs After Menopause",
+    "description": "42% of women miss early heart attack symptoms—fatigue, jaw pain, and nausea are top 3—learn how to recognize them before it’s too late.",
+    "primaryKeyword": "heart attack signs in women after menopause",
+    "topicCluster": "women-heart-health",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-06-20T08:52:37.034Z"
+  },
+  {
+    "title": "What to Do When You Wake Up Peeing 3+ Times at Night",
+    "description": "Nocturia 3+ times nightly is linked to 2.8x higher heart failure risk after age 60—find out when it’s heart-related and what helps.",
+    "primaryKeyword": "waking up peeing 3 times at night heart failure",
+    "topicCluster": "nocturia-heart-failure",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-06-20T08:52:39.354Z"
+  },
+  {
+    "title": "Best Heart-Healthy Breakfasts for Seniors With Swallowing Trouble",
+    "description": "Soft, high-protein breakfasts cut aspiration risk by 60% in seniors with dysphagia—discover 4 safe, tasty options you can make in 5 min.",
+    "primaryKeyword": "heart healthy breakfasts for seniors with swallowing trouble",
+    "topicCluster": "diet-heart-health",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-06-20T08:52:43.047Z"
+  },
+  {
+    "title": "How to Walk Safely With Heart Palpitations After 65",
+    "description": "68% of adults over 65 with occasional palpitations can walk safely using this 4-step rhythm check—learn how to stay active and alert.",
+    "primaryKeyword": "how to walk with heart palpitations after 65",
+    "topicCluster": "exercise-heart-health",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-06-20T08:52:45.262Z"
+  },
+  {
+    "title": "Why Blood Pressure Spikes After Laughing Hard After 70",
+    "description": "Sudden laughter raises BP by up to 40 mmHg in adults over 70—here’s why it happens and 3 ways to stay safe during joy.",
+    "primaryKeyword": "blood pressure spikes after laughing after 70",
+    "topicCluster": "symptoms-blood-pressure",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-06-20T08:52:47.454Z"
+  },
+  {
+    "title": "Can Deep Breathing Lower Heart Rate at Night After 60?",
+    "description": "Yes—4-minute bedtime breathing drops average heart rate by 8 bpm in 73% of adults over 60—learn the exact technique and timing.",
+    "primaryKeyword": "does deep breathing lower heart rate at night",
+    "topicCluster": "sleep-heart-rate",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-06-20T08:52:49.773Z"
+  },
+  {
+    "title": "Foods That Lower Cholesterol Without Statins After 65",
+    "description": "Just 1.5 servings of oats daily lowered LDL by 12% in a 12-week trial for adults over 65—discover 6 real-food swaps that work.",
+    "primaryKeyword": "foods that lower cholesterol without statins after 65",
+    "topicCluster": "diet-cholesterol",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-06-20T08:52:52.146Z"
   }
 ]

@@ -1,23 +1,5 @@
 [
   {
-    "title": "Could Hypothyroidism Be Raising Your Cholesterol?",
-    "description": "Up to 30% of adults with high cholesterol also have undiagnosed low thyroid — here’s how to spot the signs and ask your doctor.",
-    "primaryKeyword": "could hypothyroidism cause high cholesterol",
-    "topicCluster": "nutrition-diet-management",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-20T05:06:05.432Z",
-    "score": 56.75,
-    "scheduledWeek": "2026-W26",
-    "perplexityQuestions": [
-      "What does it mean if my LDL is high but my total cholesterol is under 200?",
-      "Can I have normal cholesterol and still get a heart attack or stroke?",
-      "What is lipoprotein(a), and should adults over 35 get it tested once?",
-      "What is apolipoprotein B, and is it better than LDL for risk assessment?",
-      "Why is my triglycerides number high even if my LDL is normal?"
-    ],
-    "competitorCoverage": "Top-ranking adult cholesterol articles usually explain what cholesterol is, how LDL/HDL/triglycerides differ, what lab numbers mean, and the main risks of high cholesterol for heart attack and stroke.[1][2][3] They also tend to cover common causes, basic lifestyle changes, when to test, and when medication may be needed, so a competitive article should add nuanced risk markers like non-HDL cholesterol, apoB, lipoprotein(a), fasting vs nonfasting testing, secondary causes, and when imaging or statins are considered.[4][5][8][9][10]"
-  },
-  {
     "title": "What Does High LDL But Normal Total Cholesterol Mean?",
     "description": "LDL over 130 with total under 200 confuses many — 42% of adults get this result. Learn how to interpret it correctly.",
     "primaryKeyword": "what does high ldl but normal total cholesterol mean",
@@ -34,5 +16,165 @@
       "Why is my triglycerides number high even if my LDL is normal?"
     ],
     "competitorCoverage": "Top-ranking adult cholesterol articles usually explain what cholesterol is, how LDL/HDL/triglycerides differ, what lab numbers mean, and the main risks of high cholesterol for heart attack and stroke.[1][2][3] They also tend to cover common causes, basic lifestyle changes, when to test, and when medication may be needed, so a competitive article should add nuanced risk markers like non-HDL cholesterol, apoB, lipoprotein(a), fasting vs nonfasting testing, secondary causes, and when imaging or statins are considered.[4][5][8][9][10]"
+  },
+  {
+    "title": "How to Read Your Cholesterol Test Without Confusion",
+    "description": "Only 3 numbers matter most — find out what yours mean for heart health at any age.",
+    "primaryKeyword": "how to read cholesterol test",
+    "topicCluster": "testing-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-06-20T08:51:12.404Z"
+  },
+  {
+    "title": "Does Apple Cider Vinegar Really Lower Cholesterol?",
+    "description": "Studies show modest 5–8 mg/dL LDL drops after 8 weeks — discover if it’s right for you.",
+    "primaryKeyword": "does apple cider vinegar lower cholesterol",
+    "topicCluster": "natural-remedies-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-06-20T08:51:14.632Z"
+  },
+  {
+    "title": "Why Cholesterol Rises After Menopause in Women Over 50",
+    "description": "Estrogen drops 40–50% in first 2 years — learn how to offset the shift without meds.",
+    "primaryKeyword": "why cholesterol rises after menopause",
+    "topicCluster": "gender-age-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-06-20T08:51:16.815Z"
+  },
+  {
+    "title": "Best Cholesterol Meds for Seniors Who Get Muscle Aches",
+    "description": "Up to 20% of older adults stop statins due to pain — find gentler options with real-world safety data.",
+    "primaryKeyword": "best cholesterol meds for seniors with muscle pain",
+    "topicCluster": "medication-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-06-20T08:51:18.975Z"
+  },
+  {
+    "title": "Cholesterol and Heart Disease: What Your Doctor Isn’t Telling You",
+    "description": "Nearly 50% of heart attacks happen with ‘normal’ LDL — discover the hidden risk markers you need.",
+    "primaryKeyword": "cholesterol and heart disease truth",
+    "topicCluster": "cholesterol-heart-disease",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-06-20T08:51:21.247Z"
+  },
+  {
+    "title": "3 Low-Sodium Cholesterol-Lowering Soups You Can Make in 20 Minutes",
+    "description": "Each delivers 3+ grams of soluble fiber per bowl — find out how to batch-cook and freeze them safely.",
+    "primaryKeyword": "low sodium soups that lower cholesterol",
+    "topicCluster": "soups-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-06-20T08:51:23.620Z"
+  },
+  {
+    "title": "What to Do When Cholesterol Is High But You Feel Fine",
+    "description": "Silent risk spikes begin at LDL >100 in adults over 45 — learn your next safe, no-pill step.",
+    "primaryKeyword": "what to do when cholesterol is high but feel fine",
+    "topicCluster": "newly-diagnosed-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-06-20T08:51:25.883Z"
+  },
+  {
+    "title": "Can Walking Lower Cholesterol Without Medication?",
+    "description": "Just 30 minutes a day cuts LDL by 7–10% in 12 weeks — discover the best pace and timing for over 60.",
+    "primaryKeyword": "can walking lower cholesterol",
+    "topicCluster": "exercise-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-06-20T08:51:28.099Z"
+  },
+  {
+    "title": "Cholesterol at Night: Why Levels Shift While You Sleep",
+    "description": "Liver cholesterol production peaks 2–4 AM — learn how bedtime habits affect your morning numbers.",
+    "primaryKeyword": "cholesterol at night",
+    "topicCluster": "sleep-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-06-20T08:51:30.355Z"
+  },
+  {
+    "title": "Does Red Meat Raise Cholesterol After 55? Truth vs Myth",
+    "description": "Lean cuts raise LDL only 3–5 mg/dL — but processed versions spike it 20+ mg/dL. Find out which to avoid.",
+    "primaryKeyword": "does red meat raise cholesterol after 55",
+    "topicCluster": "diet-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-06-20T08:51:32.582Z"
+  },
+  {
+    "title": "Warning Signs of High Cholesterol You Can’t Feel",
+    "description": "Xanthomas, arcus cornealis, and fatigue appear only after years of damage — find out what to watch for.",
+    "primaryKeyword": "warning signs of high cholesterol you can't feel",
+    "topicCluster": "symptoms-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-06-20T08:51:34.833Z"
+  },
+  {
+    "title": "Best Cholesterol-Lowering Foods for Men Over 70",
+    "description": "Focus on bioavailable nutrients: one serving of soaked flaxseed lowers LDL by 12% in 8 weeks.",
+    "primaryKeyword": "best cholesterol lowering foods for men over 70",
+    "topicCluster": "diet-gender-age-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-06-20T08:51:37.118Z"
+  },
+  {
+    "title": "How Often Should You Test Cholesterol After 65?",
+    "description": "If stable, every 2–3 years is enough — but with diabetes or family history, test annually.",
+    "primaryKeyword": "how often test cholesterol after 65",
+    "topicCluster": "testing-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-06-20T08:51:39.408Z"
+  },
+  {
+    "title": "Does Coffee Raise Cholesterol? The Brew Matters",
+    "description": "Unfiltered coffee (like French press) raises LDL by up to 10 mg/dL — find out which types are safe.",
+    "primaryKeyword": "does coffee raise cholesterol brew matters",
+    "topicCluster": "diet-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-06-20T08:51:41.608Z"
+  },
+  {
+    "title": "Cholesterol and Erectile Dysfunction: What Men Over 40 Should Know",
+    "description": "Up to 75% of ED cases link to early vascular changes — learn how cholesterol testing reveals more than you think.",
+    "primaryKeyword": "cholesterol and erectile dysfunction men over 40",
+    "topicCluster": "cholesterol-heart-disease",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-06-20T08:51:43.892Z"
+  },
+  {
+    "title": "Can Niacin Help Cholesterol After 60? Risks vs Benefits",
+    "description": "May lower LDL by 15% but raises blood sugar 10–12% — discover safer alternatives for seniors.",
+    "primaryKeyword": "can niacin help cholesterol after 60",
+    "topicCluster": "medication-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-06-20T08:51:46.207Z"
+  },
+  {
+    "title": "The Truth About Coconut Oil and Cholesterol After 50",
+    "description": "It raises LDL by 10–15 mg/dL more than olive oil — but in small amounts, may support HDL. Learn the limits.",
+    "primaryKeyword": "coconut oil and cholesterol after 50",
+    "topicCluster": "diet-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-06-20T08:51:48.503Z"
+  },
+  {
+    "title": "Cholesterol-Lowering Smoothies for Seniors With Swallowing Issues",
+    "description": "3 creamy, no-chew recipes with psyllium and ground flax — each delivers 4g soluble fiber per serving.",
+    "primaryKeyword": "cholesterol lowering smoothies for seniors with swallowing issues",
+    "topicCluster": "diet-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-06-20T08:51:50.850Z"
+  },
+  {
+    "title": "Does Magnesium Lower Cholesterol? What the Latest Studies Show",
+    "description": "Daily 350 mg doses lowered triglycerides by 18% and raised HDL by 6% in adults over 55.",
+    "primaryKeyword": "does magnesium lower cholesterol",
+    "topicCluster": "natural-remedies-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-06-20T08:51:53.142Z"
+  },
+  {
+    "title": "Best Time to Take Cholesterol Meds for Seniors Over 75",
+    "description": "Statins work best at bedtime — liver makes most cholesterol at night — learn why timing cuts side effects.",
+    "primaryKeyword": "best time to take cholesterol meds for seniors",
+    "topicCluster": "medication-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-06-20T08:51:55.417Z"
   }
 ]

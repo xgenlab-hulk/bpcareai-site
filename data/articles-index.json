@@ -1,5 +1,56 @@
 [
   {
+    "slug": "normal-blood-pressure-adults-35-plus",
+    "title": "What Is Normal Blood Pressure for Adults 35+?",
+    "description": "Normal blood pressure for adults 35+ is <120/80 mmHg—per ACC/AHA guidelines. Home monitoring is 30% more predictive of heart disease than clinic readings.",
+    "date": "2026-06-20",
+    "updated": "2026-06-20",
+    "primaryKeyword": "normal blood pressure for adults 35+",
+    "topicCluster": "hypertension-management",
+    "image": "",
+    "relatedSlugs": [
+      "bp-care-after-35",
+      "blood-pressure-at-night-after-65",
+      "check-blood-pressure-at-night-after-35",
+      "heat-blood-pressure-after-35",
+      "how-often-should-adults-over-50-check-their-blood-pressure"
+    ]
+  },
+  {
+    "slug": "is-walking-enough-exercise-after-60",
+    "title": "Is Walking Enough Exercise After 60? What You Really Need",
+    "description": "Is walking enough exercise after 60? Research shows seniors who walk only (no strength/balance work) are 47% more likely to fall.",
+    "date": "2026-06-20",
+    "updated": "2026-06-20",
+    "primaryKeyword": "is walking enough exercise after 60",
+    "topicCluster": "lifestyle-interventions",
+    "image": "",
+    "relatedSlugs": [
+      "walking-hurts-knees-after-68",
+      "walking-minutes-per-day-seniors-over-65",
+      "exercises-reduce-dementia-risk-after-60",
+      "best-aerobic-exercises-overweight-seniors-60",
+      "exercises-parkinsons-seniors-after-75"
+    ]
+  },
+  {
+    "slug": "hypothyroidism-high-cholesterol-after-45",
+    "title": "Could Hypothyroidism Cause High Cholesterol After 45?",
+    "description": "Yes — up to 13% of adults over 45 with untreated hypothyroidism have LDL ≥160 mg/dL (bad cholesterol). Thyroid hormone affects liver cholesterol clearance.",
+    "date": "2026-06-20",
+    "updated": "2026-06-20",
+    "primaryKeyword": "could hypothyroidism cause high cholesterol after 45",
+    "topicCluster": "nutrition-diet-management",
+    "image": "",
+    "relatedSlugs": [
+      "high-cholesterol-fatigue-after-35",
+      "perimenopause-raise-cholesterol-women-40",
+      "cholesterol-heart-disease-risk-after-40",
+      "cholesterol-ed-after-40",
+      "oatmeal-lower-cholesterol-after-50"
+    ]
+  },
+  {
     "slug": "low-blood-pressure-warning-signs-after-65",
     "title": "Warning Signs of Low Blood Pressure After 65 You Shouldn’t Ignore",
     "description": "Warning signs of low blood pressure after 65 include dizziness on standing — present in 61% of cases (JAMA Internal Medicine, 2022).",
