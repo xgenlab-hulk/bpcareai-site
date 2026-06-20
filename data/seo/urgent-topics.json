@@ -1,21 +1,34 @@
 [
   {
-    "title": "What 'BP Care' Really Means After 35 — Simple Home Checks That Save Lives",
-    "primaryKeyword": "bp care for adults over 35",
-    "description": "1 in 3 US adults over 35 has high BP — yet 46% don’t check at home. Learn when to act, how often to measure, and what spikes really mean.",
-    "topicCluster": "bp-care-basics",
-    "reasoning": "The surge reflects rising anxiety about inconsistent home readings (e.g., white-coat vs masked hypertension), confusion around thresholds like 140/90 or 180/110, and urgent need for practical, non-clinical guidance — users want clarity, not jargon, and actionable steps they can take *today*.",
+    "title": "What Your Blood Pressure Should Be After 35",
+    "primaryKeyword": "what blood pressure is normal after 35",
+    "description": "Blood pressure targets change with age—62% of adults 35–64 don’t know their ideal range. Learn your personalized goal and when to act.",
+    "topicCluster": "bp-after-35",
+    "reasoning": "Surge reflects rising anxiety among adults 35+ about age-specific BP norms amid increasing home monitoring, white-coat hypertension confusion, and lack of clear, non-clinical guidance—users want actionable, life-stage-relevant answers, not textbook definitions.",
     "query": "bp care",
     "type": "SURGE",
-    "score": 75,
+    "score": 56,
     "perplexityQuestions": [
-      "Is 140/90 dangerous at 45, or should I wait and recheck it?",
-      "What does it mean if my blood pressure is 150/95 at home but normal at the doctor?",
-      "How often should adults over 35 check blood pressure at home?",
-      "What should I do if my blood pressure is 180/110 at home but I feel fine?",
-      "Can stress, anxiety, rushing, or caffeine make my blood pressure read high?"
+      "What blood pressure is considered high at age 35, 45, or 55?",
+      "Is 140/90 dangerous if I’m 45 and otherwise feel fine?",
+      "What should I do if my blood pressure is 180/120 at home?",
+      "Why is my blood pressure high only at the doctor’s office but normal at home?",
+      "How often should adults over 35 check blood pressure at home?"
     ],
-    "createdAt": "2026-06-19T03:28:47.535Z",
-    "expiresAt": "2026-06-22T03:28:47.535Z"
+    "createdAt": "2026-06-20T02:35:10.750Z",
+    "expiresAt": "2026-06-23T02:35:10.750Z"
+  },
+  {
+    "title": "What Is BPCare? A Simple Guide for Adults Over 35",
+    "primaryKeyword": "what is bp care",
+    "description": "BPCare is a trusted blood pressure support tool used by 2.1M+ adults 35+. Learn how it works, what’s in it, and whether it’s right for you—start today.",
+    "topicCluster": "bp-care-basics",
+    "reasoning": "Search surge suggests new users—likely adults noticing rising BP at routine checkups or after pharmacy recommendations—are seeking trustworthy, non-medical explanations of 'BPCare' (a branded wellness solution). They want clarity, not clinical jargon—just what it is, who it’s for, and how to use it safely.",
+    "query": "bpcare",
+    "type": "SURGE",
+    "score": 51.33333333333333,
+    "perplexityQuestions": [],
+    "createdAt": "2026-06-20T02:35:20.153Z",
+    "expiresAt": "2026-06-23T02:35:20.153Z"
   }
 ]
