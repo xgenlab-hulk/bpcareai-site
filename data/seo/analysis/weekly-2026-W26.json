@@ -1,0 +1,217 @@
+{
+  "week": "2026-W26",
+  "generatedAt": "2026-06-20T05:06:05.433Z",
+  "config": {
+    "weeklyTarget": 35,
+    "dailyTarget": 5
+  },
+  "previousWeek": {
+    "remaining": 31,
+    "kept": 0
+  },
+  "newGenerated": 22,
+  "totalWritten": 22,
+  "gscData": {
+    "daysAnalyzed": 7,
+    "totalSearchTerms": 44
+  },
+  "llmAnalysis": {
+    "searchIntentAnalysis": "",
+    "ctrAnomalies": "",
+    "hiddenOpportunities": "",
+    "topicPriorities": "",
+    "articleOptimizations": 0
+  },
+  "perplexityInsights": {
+    "cholesterol": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "What does it mean if my LDL is high but my total cholesterol is under 200?",
+        "Can I have normal cholesterol and still get a heart attack or stroke?",
+        "What is lipoprotein(a), and should adults over 35 get it tested once?",
+        "What is apolipoprotein B, and is it better than LDL for risk assessment?",
+        "Why is my triglycerides number high even if my LDL is normal?",
+        "Could hypothyroidism, diabetes, kidney disease, or liver disease be causing my high cholesterol?",
+        "Can menopause or perimenopause suddenly raise cholesterol after 40?",
+        "Does family history of early heart disease mean I should get cholesterol checked before the usual age?",
+        "How often should I get a lipid panel if I have high blood pressure, diabetes, or smoke?",
+        "Is a nonfasting cholesterol test accurate, or do I need to fast before the test?"
+      ],
+      "competitorCoverage": "Top-ranking adult cholesterol articles usually explain what cholesterol is, how LDL/HDL/triglycerides differ, what lab numbers mean, and the main risks of high cholesterol for heart attack and stroke.[1][2][3] They also tend to cover common causes, basic lifestyle changes, when to test, and when medication may be needed, so a competitive article should add nuanced risk markers like non-HDL cholesterol, apoB, lipoprotein(a), fasting vs nonfasting testing, secondary causes, and when imaging or statins are considered.[4][5][8][9][10]",
+      "whyItMatters": "This topic stays highly searched because many adults have few or no symptoms, yet cholesterol screening and treatment decisions depend on age, family history, and other risk factors.[1][5][8] It is especially relevant now because current guidance emphasizes periodic lipid testing in midlife and beyond, plus newer conversations about advanced risk markers and how genetics, menopause, diabetes, and triglycerides change management.[1][5][9][10]"
+    },
+    "diabetes": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "Why am I peeing so much at night if my A1C is normal?",
+        "Can I have diabetes with a fasting glucose of 110 at 40 or 45?",
+        "Is an A1C of 6.1 or 6.2 at 50 reversible without medication?",
+        "How fast can prediabetes turn into type 2 diabetes after age 35?",
+        "What blood sugar number is dangerous enough to go to urgent care?",
+        "Why am I always tired and hungry even though I eat normally—could it be diabetes?",
+        "Can I have diabetes if I’m not overweight and have no family history?",
+        "What does it mean if my blood sugar is 180 two hours after eating at 48?",
+        "How often should adults over 35 get an A1C or diabetes screening?",
+        "Can stress or poor sleep raise blood sugar enough to look like diabetes?"
+      ],
+      "competitorCoverage": "The top-ranking adult diabetes articles usually cover the basics: what diabetes is, common symptoms, major risk factors, how it is diagnosed with A1C or blood glucose, and what adults can do through diet, exercise, weight management, and routine screening.[1][2][4][6][9] To compete, a new article should also answer practical next-step questions adults actually ask, such as what specific lab numbers mean, when to seek urgent care, how often to monitor, what remission can look like in type 2 diabetes, and what complications to watch for.[3][4][6][8][10]",
+      "whyItMatters": "This topic stays highly relevant because major guidance continues to emphasize screening adults starting at age 35, which keeps many midlife readers actively looking for clear interpretation of A1C and glucose results.[5] It also matters because type 2 diabetes and prediabetes are strongly tied to aging, weight, sleep, and cardiometabolic risk, so adults are searching for actionable answers before symptoms or complications appear.[1][4][6][7]"
+    },
+    "healthy eating for seniors": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "What should a 70-year-old eat every day to stay healthy?",
+        "How much protein do adults over 65 need each day?",
+        "What is the best breakfast for seniors who have low appetite?",
+        "How many calories should a 75-year-old woman eat to avoid losing weight?",
+        "What foods help older adults get enough calcium and vitamin D?",
+        "What should a senior with trouble chewing eat instead of raw vegetables and tough meat?",
+        "How can I eat healthy if I live alone and hate cooking?",
+        "What are the best healthy snacks for seniors between meals?",
+        "How do I know if I’m not eating enough as an older adult?",
+        "Can older adults take multivitamins, and which ones actually help?"
+      ],
+      "competitorCoverage": "Top-ranking articles on healthy eating for seniors usually cover the same core themes: nutrient-dense foods, enough protein, calcium/vitamin D, hydration, and practical meal planning for older adults. They also tend to include plate-method advice, label reading, and fixes for common barriers like low appetite, chewing problems, or limited energy to cook. A new article needs to go beyond generic advice by answering specific age-based, scenario-based questions and addressing real-life constraints such as living alone, low appetite, frailty, and managing multiple conditions at once.",
+      "whyItMatters": "This topic is important now because many older adults are trying to preserve muscle, bone health, and independence while appetite, taste, hydration, and medication issues make eating harder with age. It is also trending because mainstream guidance keeps emphasizing nutrient density, protein adequacy, and hydration for healthy aging, while older-adult malnutrition and unintended weight loss remain common concerns."
+    },
+    "exercise for seniors": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "What is the safest exercise routine for a 70-year-old who has not worked out in years?",
+        "How do I start exercising at 65 if I get out of breath easily but do not have a diagnosed lung condition?",
+        "Is it too late to build muscle after 60 or 70 if I am completely deconditioned?",
+        "How many minutes a day should adults over 65 exercise if they are just beginning?",
+        "What exercises are best for seniors with poor balance who are afraid of falling?",
+        "Can a 75-year-old do strength training with arthritis, and what movements should be avoided?",
+        "Is walking enough exercise for someone over 60, or do seniors also need weights and balance work?",
+        "What is the best exercise for seniors with high blood pressure who want to stay active safely?",
+        "How often should older adults over 70 do mobility, stretching, and balance exercises each week?",
+        "What are the safest gym machines for seniors with knee pain, back pain, or limited range of motion?"
+      ],
+      "competitorCoverage": "Top-ranking articles for exercise for seniors usually cover the same core framework: the four pillars of fitness for older adults—endurance, strength, balance, and flexibility—plus the standard weekly target of about 150 minutes of moderate activity and muscle-strengthening work on at least 2 days a week.[1][2][5][8] They also tend to include beginner-friendly examples such as walking, chair exercises, resistance bands, light weights, yoga, tai chi, and water-based exercise, along with safety guidance like starting slowly, warming up, and stopping if pain, dizziness, chest discomfort, or unusual fatigue occurs.[3][4][6] To compete, a new article should clearly answer how to begin from zero, what to do if the reader has mobility or fall concerns, what exercises are safest by setting (home, gym, chair, pool), and when to talk to a doctor before starting.[3][4][6]",
+      "whyItMatters": "This topic is important now because major health sources continue to emphasize that older adults should stay active every day, reduce sitting time, and include strength and balance work—not just walking.[1][3][8] It also stays highly relevant because many older adults are restarting exercise after inactivity, injury, or chronic disease management, and current guidance from mainstream medical and public-health sources keeps reinforcing safe, gradual progression.[1][3][4][6]"
+    }
+  },
+  "topTopics": [
+    {
+      "title": "Is Walking Enough Exercise After 60?",
+      "pk": "is walking enough exercise after 60",
+      "score": 66,
+      "breakdown": {
+        "clusterNeed": 30,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率47%，大缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    },
+    {
+      "title": "How Many Minutes a Day Should Seniors Exercise to Start?",
+      "pk": "how many minutes a day should seniors exercise to start",
+      "score": 65,
+      "breakdown": {
+        "clusterNeed": 30,
+        "searchDemand": 8,
+        "differentiation": 21,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率47%，大缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠40%)"
+    },
+    {
+      "title": "How Many Calories Should a 75-Year-Old Woman Eat?",
+      "pk": "calories for 75-year-old woman to maintain weight",
+      "score": 65,
+      "breakdown": {
+        "clusterNeed": 30,
+        "searchDemand": 8,
+        "differentiation": 21,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率47%，大缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠40%)"
+    },
+    {
+      "title": "5 Low-Impact Exercises for Seniors Afraid of Falling",
+      "pk": "low impact exercises for seniors afraid of falling",
+      "score": 64,
+      "breakdown": {
+        "clusterNeed": 30,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率47%，大缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Could Hypothyroidism Be Raising Your Cholesterol?",
+      "pk": "could hypothyroidism cause high cholesterol",
+      "score": 56.75,
+      "breakdown": {
+        "clusterNeed": 4.8,
+        "searchDemand": 16,
+        "differentiation": 20,
+        "timeliness": 16
+      },
+      "reasoning": "nutrition-diet-management集群接近目标 | 近7天已产出4篇，适度减分 | GSC精确匹配\"can high cholesterol cause chest tightness\"(4次展示)，弱信号 | 与已有文章有差异(重叠50%) | 搜索趋势上升中"
+    },
+    {
+      "title": "What Does High LDL But Normal Total Cholesterol Mean?",
+      "pk": "what does high ldl but normal total cholesterol mean",
+      "score": 52.75,
+      "breakdown": {
+        "clusterNeed": 4.8,
+        "searchDemand": 11,
+        "differentiation": 21,
+        "timeliness": 16
+      },
+      "reasoning": "nutrition-diet-management集群接近目标 | 近7天已产出4篇，适度减分 | GSC方向相关\"can high cholesterol cause chest tightness\"(4次展示)，微弱信号 | 与已有文章有差异(重叠40%) | 搜索趋势上升中"
+    },
+    {
+      "title": "What Exercises Lower Blood Pressure Safest for 65+?",
+      "pk": "exercises that lower blood pressure safely for seniors",
+      "score": 49,
+      "breakdown": {
+        "clusterNeed": 30,
+        "searchDemand": 9,
+        "differentiation": 8,
+        "timeliness": 2
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率47%，大缺口 | GSC方向相关\"does heat raise or lower blood pressure\"(2次展示)，微弱信号 | 与已有文章有一定重叠(67%)，可能cannibalize | 搜索趋势下降"
+    },
+    {
+      "title": "What Should a 70-Year-Old Eat Every Day?",
+      "pk": "what should a 70-year-old eat every day",
+      "score": 48,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 24,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章高度差异化(重叠25%)"
+    },
+    {
+      "title": "How to Start Strength Training at 70 With Arthritis",
+      "pk": "start strength training at 70 with arthritis",
+      "score": 44,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "What Blood Sugar Number Sends You to Urgent Care?",
+      "pk": "what blood sugar number go to urgent care",
+      "score": 42.4,
+      "breakdown": {
+        "clusterNeed": 6.4,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "diabetes-management集群接近目标 | 近7天已产出3篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    }
+  ]
+}

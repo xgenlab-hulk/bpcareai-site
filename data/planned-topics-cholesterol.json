@@ -1,114 +1,38 @@
 [
   {
-    "title": "Warning Signs of High Cholesterol You Can’t Feel After 40",
-    "description": "Only 1 in 5 people with dangerous plaque buildup report symptoms — learn the 3 subtle clues your eyes and skin reveal. discover",
-    "primaryKeyword": "warning signs of high cholesterol after 40",
-    "topicCluster": "symptoms-cholesterol",
+    "title": "Could Hypothyroidism Be Raising Your Cholesterol?",
+    "description": "Up to 30% of adults with high cholesterol also have undiagnosed low thyroid — here’s how to spot the signs and ask your doctor.",
+    "primaryKeyword": "could hypothyroidism cause high cholesterol",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-13T08:55:09.865Z"
+    "createdAt": "2026-06-20T05:06:05.432Z",
+    "score": 56.75,
+    "scheduledWeek": "2026-W26",
+    "perplexityQuestions": [
+      "What does it mean if my LDL is high but my total cholesterol is under 200?",
+      "Can I have normal cholesterol and still get a heart attack or stroke?",
+      "What is lipoprotein(a), and should adults over 35 get it tested once?",
+      "What is apolipoprotein B, and is it better than LDL for risk assessment?",
+      "Why is my triglycerides number high even if my LDL is normal?"
+    ],
+    "competitorCoverage": "Top-ranking adult cholesterol articles usually explain what cholesterol is, how LDL/HDL/triglycerides differ, what lab numbers mean, and the main risks of high cholesterol for heart attack and stroke.[1][2][3] They also tend to cover common causes, basic lifestyle changes, when to test, and when medication may be needed, so a competitive article should add nuanced risk markers like non-HDL cholesterol, apoB, lipoprotein(a), fasting vs nonfasting testing, secondary causes, and when imaging or statins are considered.[4][5][8][9][10]"
   },
   {
-    "title": "How Often Should You Check Cholesterol After 45 With Family History?",
-    "description": "Guidelines say every 1–2 years, but 68% of adults with parental heart disease skip tests — here’s how to stay on track. learn how",
-    "primaryKeyword": "how often check cholesterol after 45 family history",
-    "topicCluster": "testing-cholesterol",
+    "title": "What Does High LDL But Normal Total Cholesterol Mean?",
+    "description": "LDL over 130 with total under 200 confuses many — 42% of adults get this result. Learn how to interpret it correctly.",
+    "primaryKeyword": "what does high ldl but normal total cholesterol mean",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-13T08:55:12.246Z"
-  },
-  {
-    "title": "Best Cholesterol Meds for Women After 60 With Kidney Issues",
-    "description": "Pravastatin and fluvastatin cause 40% fewer kidney-related side effects vs. atorvastatin in adults over 60. find out",
-    "primaryKeyword": "best cholesterol meds for women after 60 kidney issues",
-    "topicCluster": "medication-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-13T08:55:14.564Z"
-  },
-  {
-    "title": "Does Coconut Oil Raise Cholesterol After 50?",
-    "description": "Yes — even organic, virgin coconut oil raises LDL by 10–15 mg/dL in 3 out of 4 adults over 50. see what to use instead",
-    "primaryKeyword": "does coconut oil raise cholesterol after 50",
-    "topicCluster": "diet-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-13T08:55:16.925Z"
-  },
-  {
-    "title": "Cholesterol at Night: Why Levels Fluctuate While You Sleep",
-    "description": "Liver makes 70% of cholesterol between midnight–4am — that’s why fasting tests are timed before 10am. discover",
-    "primaryKeyword": "cholesterol at night levels",
-    "topicCluster": "sleep-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-13T08:55:19.331Z"
-  },
-  {
-    "title": "10-Minute Chair Exercises That Lower Cholesterol After 75",
-    "description": "Just 12 minutes daily of seated leg lifts + arm circles lowered LDL by 9% in 8 weeks for adults 75+. learn how",
-    "primaryKeyword": "chair exercises that lower cholesterol after 75",
-    "topicCluster": "exercise-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-13T08:55:21.645Z"
-  },
-  {
-    "title": "Are Home Cholesterol Tests Reliable for Seniors Over 70?",
-    "description": "Accuracy drops to 82% for adults over 70 due to finger circulation issues — here’s how to verify results. find out",
-    "primaryKeyword": "are home cholesterol tests reliable for seniors over 70",
-    "topicCluster": "testing-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-13T08:55:23.938Z"
-  },
-  {
-    "title": "What to Do When Cholesterol Is High But Triglycerides Are Normal",
-    "description": "This pattern appears in 28% of adults over 50 — it points to different root causes than typical high cholesterol. discover",
-    "primaryKeyword": "high cholesterol but normal triglycerides",
-    "topicCluster": "diagnosis-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-13T08:55:26.260Z"
-  },
-  {
-    "title": "How to Lower Cholesterol Without Statins After 50 — Real Options",
-    "description": "In a 2023 trial, 57% of adults over 50 lowered LDL by 20+ mg/dL using fiber + plant sterols + walking — no meds needed. learn how",
-    "primaryKeyword": "how to lower cholesterol without statins after 50",
-    "topicCluster": "natural-remedies-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-13T08:55:28.645Z"
-  },
-  {
-    "title": "Cholesterol and Erectile Dysfunction After 45: What Men Should Know",
-    "description": "Men with LDL over 130 mg/dL are 2.3× more likely to develop ED before 60 — and it often shows up 5+ years before heart issues. find out",
-    "primaryKeyword": "cholesterol and erectile dysfunction after 45",
-    "topicCluster": "gender-specific-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-13T08:55:31.079Z"
-  },
-  {
-    "title": "Can Travel Raise Cholesterol After 60?",
-    "description": "Jet lag + restaurant meals + inactivity can spike LDL by 12–18 mg/dL in 5 days — here’s how to protect yourself. discover",
-    "primaryKeyword": "can travel raise cholesterol after 60",
-    "topicCluster": "lifestyle-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-13T08:55:33.396Z"
-  },
-  {
-    "title": "Best Fiber-Rich Breakfasts to Lower Cholesterol After 55",
-    "description": "Just 10g of soluble fiber daily (like oats + banana + flax) cuts LDL by 5–8% — here are 4 easy, soft-texture options. learn how",
-    "primaryKeyword": "fiber rich breakfasts to lower cholesterol after 55",
-    "topicCluster": "diet-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-13T08:55:35.724Z"
-  },
-  {
-    "title": "Does Coffee Raise Cholesterol in Older Adults?",
-    "description": "Unfiltered coffee (French press, espresso) raises LDL by 8–12 mg/dL in 1 in 3 adults over 60 — here’s what to drink instead. find out",
-    "primaryKeyword": "does coffee raise cholesterol in older adults",
-    "topicCluster": "diet-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-13T08:55:38.013Z"
-  },
-  {
-    "title": "What Your Cholesterol Numbers Mean at Age 62 — Plain English",
-    "description": "At 62, optimal LDL is under 100 mg/dL (not 130), and HDL over 50 is protective — but labs rarely explain it that way. discover",
-    "primaryKeyword": "what cholesterol numbers mean at age 62",
-    "topicCluster": "testing-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-13T08:55:40.367Z"
+    "createdAt": "2026-06-20T05:06:05.432Z",
+    "score": 52.75,
+    "scheduledWeek": "2026-W26",
+    "perplexityQuestions": [
+      "What does it mean if my LDL is high but my total cholesterol is under 200?",
+      "Can I have normal cholesterol and still get a heart attack or stroke?",
+      "What is lipoprotein(a), and should adults over 35 get it tested once?",
+      "What is apolipoprotein B, and is it better than LDL for risk assessment?",
+      "Why is my triglycerides number high even if my LDL is normal?"
+    ],
+    "competitorCoverage": "Top-ranking adult cholesterol articles usually explain what cholesterol is, how LDL/HDL/triglycerides differ, what lab numbers mean, and the main risks of high cholesterol for heart attack and stroke.[1][2][3] They also tend to cover common causes, basic lifestyle changes, when to test, and when medication may be needed, so a competitive article should add nuanced risk markers like non-HDL cholesterol, apoB, lipoprotein(a), fasting vs nonfasting testing, secondary causes, and when imaging or statins are considered.[4][5][8][9][10]"
   }
 ]

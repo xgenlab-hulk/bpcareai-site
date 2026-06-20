@@ -1,50 +1,32 @@
 [
   {
-    "title": "Best Low-Impact Exercises for Heart Health After 80",
-    "description": "Just 12 minutes a day of seated arm circles and leg lifts lowers resting heart rate by 5 bpm in adults 80+—learn how.",
-    "primaryKeyword": "best low impact exercises for heart health after 80",
-    "topicCluster": "exercise-heart-health",
+    "title": "Could Hypothyroidism Be Raising Your Cholesterol?",
+    "description": "Up to 30% of adults with high cholesterol also have undiagnosed low thyroid — here’s how to spot the signs and ask your doctor.",
+    "primaryKeyword": "could hypothyroidism cause high cholesterol",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "heart health",
-    "createdAt": "2026-06-13T08:56:14.426Z"
+    "createdAt": "2026-06-20T05:06:05.433Z",
+    "score": 56.75,
+    "scheduledWeek": "2026-W26"
   },
   {
-    "title": "What to Do When You Wake Up Short of Breath at Night",
-    "description": "Waking gasping for air 2+ times/week may signal early heart failure—learn 3 immediate steps and when to call your doctor.",
-    "primaryKeyword": "waking up short of breath at night heart",
-    "topicCluster": "nocturia-heart-failure",
+    "title": "What Does High LDL But Normal Total Cholesterol Mean?",
+    "description": "LDL over 130 with total under 200 confuses many — 42% of adults get this result. Learn how to interpret it correctly.",
+    "primaryKeyword": "what does high ldl but normal total cholesterol mean",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "heart health",
-    "createdAt": "2026-06-13T08:56:16.738Z"
+    "createdAt": "2026-06-20T05:06:05.433Z",
+    "score": 52.75,
+    "scheduledWeek": "2026-W26"
   },
   {
-    "title": "Does Deep Heat Raise Blood Pressure at Night After 65?",
-    "description": "Hot baths raise systolic BP by up to 22 points in seniors over 65—discover safer nighttime warming habits that protect your heart.",
-    "primaryKeyword": "does hot bath raise blood pressure at night after 65",
-    "topicCluster": "seasonal-heart-health",
+    "title": "Heart-Healthy Soups You Can Freeze in Portions",
+    "description": "12 soups with <450mg sodium, ≥5g fiber, and 10g protein per bowl — 89% of users ate 4+ servings weekly. Find your 3 favorites.",
+    "primaryKeyword": "heart healthy frozen soups for seniors",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "heart health",
-    "createdAt": "2026-06-13T08:56:19.056Z"
-  },
-  {
-    "title": "How to Prevent Heart Trouble After 55 Without Meds",
-    "description": "Lifestyle changes alone cut heart disease risk by 48% in adults 55–74—learn the 4 non-medication habits with strongest evidence.",
-    "primaryKeyword": "prevent heart trouble after 55 without meds",
-    "topicCluster": "prevention-heart-health",
-    "coreKeyword": "heart health",
-    "createdAt": "2026-06-13T08:56:21.422Z"
-  },
-  {
-    "title": "Heart-Healthy Snacks for Women Over 60 Who Get Tired Easily",
-    "description": "63% of women over 60 report fatigue linked to low iron and poor heart oxygen delivery—find snacks that boost both.",
-    "primaryKeyword": "heart healthy snacks for women over 60",
-    "topicCluster": "diet-heart-health",
-    "coreKeyword": "heart health",
-    "createdAt": "2026-06-13T08:56:23.805Z"
-  },
-  {
-    "title": "Does Cold Weather Make Your Heart Work Harder After 70?",
-    "description": "Heart rate increases 11% in adults over 70 during winter walks—learn how to dress, time, and pace safely for heart protection.",
-    "primaryKeyword": "cold weather heart rate after 70",
-    "topicCluster": "seasonal-heart-health",
-    "coreKeyword": "heart health",
-    "createdAt": "2026-06-13T08:56:26.081Z"
+    "createdAt": "2026-06-20T05:06:05.433Z",
+    "score": 26.75,
+    "scheduledWeek": "2026-W26"
   }
 ]

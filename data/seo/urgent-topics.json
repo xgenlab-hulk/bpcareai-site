@@ -1,34 +1,40 @@
 [
   {
-    "title": "What Your Blood Pressure Should Be After 35",
-    "primaryKeyword": "what blood pressure is normal after 35",
-    "description": "Blood pressure targets change with age—62% of adults 35–64 don’t know their ideal range. Learn your personalized goal and when to act.",
-    "topicCluster": "bp-after-35",
-    "reasoning": "Surge reflects rising anxiety among adults 35+ about age-specific BP norms amid increasing home monitoring, white-coat hypertension confusion, and lack of clear, non-clinical guidance—users want actionable, life-stage-relevant answers, not textbook definitions.",
+    "title": "BP Care for Adults 35+: What Your Numbers Really Mean",
+    "primaryKeyword": "bp care for adults over 35",
+    "description": "1 in 3 US adults over 35 has high blood pressure — learn what your home readings mean, when to act, and how to track wisely. Start today.",
+    "topicCluster": "bp-care-over-35",
+    "reasoning": "The 'bp care' surge reflects rising anxiety among adults 35–65 facing new or borderline BP readings amid post-pandemic health checkups, home monitoring adoption, and confusion about thresholds (e.g., 140/90 vs. 130/80), white-coat effect, and personalized risk — users want clear, age-relevant guidance—not clinical definitions, but actionable 'what do I do now?' answers.",
     "query": "bp care",
     "type": "SURGE",
     "score": 56,
     "perplexityQuestions": [
-      "What blood pressure is considered high at age 35, 45, or 55?",
-      "Is 140/90 dangerous if I’m 45 and otherwise feel fine?",
-      "What should I do if my blood pressure is 180/120 at home?",
+      "What causes high blood pressure in adults over 35?",
+      "Is 140/90 dangerous at 45, or does it depend on my other health conditions?",
+      "What should I do if my blood pressure is 160/100 at home?",
       "Why is my blood pressure high only at the doctor’s office but normal at home?",
-      "How often should adults over 35 check blood pressure at home?"
+      "How often should I check my blood pressure at home if I’m newly diagnosed?"
     ],
-    "createdAt": "2026-06-20T02:35:10.750Z",
-    "expiresAt": "2026-06-23T02:35:10.750Z"
+    "createdAt": "2026-06-20T05:02:55.119Z",
+    "expiresAt": "2026-06-23T05:02:55.119Z"
   },
   {
-    "title": "What Is BPCare? A Simple Guide for Adults Over 35",
-    "primaryKeyword": "what is bp care",
-    "description": "BPCare is a trusted blood pressure support tool used by 2.1M+ adults 35+. Learn how it works, what’s in it, and whether it’s right for you—start today.",
-    "topicCluster": "bp-care-basics",
-    "reasoning": "Search surge suggests new users—likely adults noticing rising BP at routine checkups or after pharmacy recommendations—are seeking trustworthy, non-medical explanations of 'BPCare' (a branded wellness solution). They want clarity, not clinical jargon—just what it is, who it’s for, and how to use it safely.",
+    "title": "What Is a Healthy Blood Pressure for Adults 35+?",
+    "primaryKeyword": "normal blood pressure for adults 35+",
+    "description": "For adults 35+, the ideal blood pressure is under 120/80 mmHg—but targets shift with age. Learn your personalized goal and when to act, based on AHA/ACC guidelines.",
+    "topicCluster": "blood-pressure-basics",
+    "reasoning": "People are searching 'bpcare' amid rising awareness of age-specific BP risks—especially after recent CDC updates and viral social posts about 'silent stroke' warnings in midlife. Users aren’t seeking definitions; they want clear, age-tailored thresholds and urgent-action cues (e.g., 'Is 140/90 dangerous at 45?') to avoid guessing or delaying care.",
     "query": "bpcare",
     "type": "SURGE",
     "score": 51.33333333333333,
-    "perplexityQuestions": [],
-    "createdAt": "2026-06-20T02:35:20.153Z",
-    "expiresAt": "2026-06-23T02:35:20.153Z"
+    "perplexityQuestions": [
+      "What is the normal blood pressure target for adults age 35+?",
+      "Is 140/90 dangerous at 45, or should I wait and recheck it?",
+      "What blood pressure reading means I need to call a doctor right away?",
+      "When is blood pressure 180/120 an emergency for a 50-year-old?",
+      "What should my blood pressure goal be if I am 60, 70, or 80+?"
+    ],
+    "createdAt": "2026-06-20T05:03:06.474Z",
+    "expiresAt": "2026-06-23T05:03:06.474Z"
   }
 ]
