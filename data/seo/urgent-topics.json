@@ -1,40 +1,40 @@
 [
   {
-    "title": "BP Care for Adults 35+: What Your Numbers Really Mean",
-    "primaryKeyword": "bp care for adults over 35",
-    "description": "1 in 3 US adults over 35 has high blood pressure — learn what your home readings mean, when to act, and how to track wisely. Start today.",
-    "topicCluster": "bp-care-over-35",
-    "reasoning": "The 'bp care' surge reflects rising anxiety among adults 35–65 facing new or borderline BP readings amid post-pandemic health checkups, home monitoring adoption, and confusion about thresholds (e.g., 140/90 vs. 130/80), white-coat effect, and personalized risk — users want clear, age-relevant guidance—not clinical definitions, but actionable 'what do I do now?' answers.",
-    "query": "bp care",
-    "type": "SURGE",
-    "score": 56,
-    "perplexityQuestions": [
-      "What causes high blood pressure in adults over 35?",
-      "Is 140/90 dangerous at 45, or does it depend on my other health conditions?",
-      "What should I do if my blood pressure is 160/100 at home?",
-      "Why is my blood pressure high only at the doctor’s office but normal at home?",
-      "How often should I check my blood pressure at home if I’m newly diagnosed?"
-    ],
-    "createdAt": "2026-06-20T05:02:55.119Z",
-    "expiresAt": "2026-06-23T05:02:55.119Z"
-  },
-  {
-    "title": "What Is a Healthy Blood Pressure for Adults 35+?",
-    "primaryKeyword": "normal blood pressure for adults 35+",
-    "description": "For adults 35+, the ideal blood pressure is under 120/80 mmHg—but targets shift with age. Learn your personalized goal and when to act, based on AHA/ACC guidelines.",
+    "title": "What Your Blood Pressure Numbers Really Mean After 35",
+    "primaryKeyword": "what is normal blood pressure for adults over 35",
+    "description": "1 in 3 US adults over 35 has high blood pressure — learn what your numbers mean, when to worry, and simple steps to protect your heart starting today.",
     "topicCluster": "blood-pressure-basics",
-    "reasoning": "People are searching 'bpcare' amid rising awareness of age-specific BP risks—especially after recent CDC updates and viral social posts about 'silent stroke' warnings in midlife. Users aren’t seeking definitions; they want clear, age-tailored thresholds and urgent-action cues (e.g., 'Is 140/90 dangerous at 45?') to avoid guessing or delaying care.",
+    "reasoning": "The 'bpcare' surge reflects rising anxiety among adults 35+ who are seeing real-time BP readings (via home monitors or clinics) and urgently need plain-language guidance — not clinical definitions — to interpret their numbers in context of age, gender, and lifestyle. They want actionable clarity, not jargon.",
     "query": "bpcare",
     "type": "SURGE",
-    "score": 51.33333333333333,
+    "score": 61.76470588235295,
     "perplexityQuestions": [
-      "What is the normal blood pressure target for adults age 35+?",
-      "Is 140/90 dangerous at 45, or should I wait and recheck it?",
-      "What blood pressure reading means I need to call a doctor right away?",
-      "When is blood pressure 180/120 an emergency for a 50-year-old?",
-      "What should my blood pressure goal be if I am 60, 70, or 80+?"
+      "Is 140/90 dangerous for a 35-year-old?",
+      "What is the normal blood pressure range for adults over 40?",
+      "Is 120/80 considered healthy for a 45-year-old male?",
+      "When should I start taking blood pressure medication at age 50?",
+      "Is 150/95 high blood pressure for a 60-year-old woman?"
     ],
-    "createdAt": "2026-06-20T05:03:06.474Z",
-    "expiresAt": "2026-06-23T05:03:06.474Z"
+    "createdAt": "2026-06-21T02:50:35.579Z",
+    "expiresAt": "2026-06-24T02:50:35.579Z"
+  },
+  {
+    "title": "Does Heat Lower Blood Pressure? What to Know in Hot Weather",
+    "primaryKeyword": "does heat lower blood pressure",
+    "description": "Heat often drops systolic BP by 5–10 mmHg in adults 35+, but dehydration can spike it. Learn how to monitor and protect yourself this summer.",
+    "topicCluster": "blood-pressure-and-weather",
+    "reasoning": "Summer heatwaves are intensifying globally—this query spiked as millions experience unseasonal highs, triggering real-time confusion about BP fluctuations, medication adjustments, and stroke/heart attack risks in heat. Users want practical, age-relevant guidance—not textbook physiology.",
+    "query": "effect of heat on blood pressure",
+    "type": "RANK_JUMP",
+    "score": 52.20000000000002,
+    "perplexityQuestions": [
+      "Does hot weather lower blood pressure?",
+      "Can heat make blood pressure go up instead of down?",
+      "Why is my blood pressure lower in summer or during a heat wave?",
+      "Can dehydration cause high blood pressure in hot weather?",
+      "Is it normal for blood pressure to drop when I’m outside in the heat?"
+    ],
+    "createdAt": "2026-06-21T02:50:43.043Z",
+    "expiresAt": "2026-06-24T02:50:43.043Z"
   }
 ]

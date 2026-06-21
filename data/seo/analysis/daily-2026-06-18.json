@@ -1,0 +1,103 @@
+{
+  "date": "2026-06-18",
+  "period": "3-day",
+  "impressionsChange": 198.01169590643275,
+  "clicksChange": 3.7037037037036904,
+  "newQueries": [],
+  "risingQueries": [
+    {
+      "query": "bpcare",
+      "recentImpressions": 15,
+      "baselineImpressions": 34,
+      "changeRatio": 4.11764705882353
+    },
+    {
+      "query": "bp care",
+      "recentImpressions": 14,
+      "baselineImpressions": 38,
+      "changeRatio": 3.43859649122807
+    }
+  ],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "heat and high blood pressure",
+      "reason": "排名跃升 22.4 位（90.4 → 68.0）",
+      "score": 67.20000000000002,
+      "recentImpressions": 1,
+      "baselineImpressions": 5,
+      "recentPosition": 68,
+      "baselinePosition": 90.4
+    },
+    {
+      "type": "SURGE",
+      "query": "bpcare",
+      "reason": "展示量激增 4.1x（近3天日均5.0 vs 基线1.2）",
+      "score": 61.76470588235295,
+      "recentImpressions": 15,
+      "baselineImpressions": 34,
+      "recentPosition": 2.933333333333333,
+      "baselinePosition": 3.3823529411764706
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "effect of heat on blood pressure",
+      "reason": "排名跃升 17.4 位（84.4 → 67.0）",
+      "score": 52.20000000000002,
+      "recentImpressions": 1,
+      "baselineImpressions": 5,
+      "recentPosition": 67,
+      "baselinePosition": 84.4
+    },
+    {
+      "type": "SURGE",
+      "query": "bp care",
+      "reason": "展示量激增 3.4x（近3天日均4.7 vs 基线1.4）",
+      "score": 51.578947368421055,
+      "recentImpressions": 14,
+      "baselineImpressions": 38,
+      "recentPosition": 3.2142857142857144,
+      "baselinePosition": 3.1578947368421053
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "does heat and humidity affect blood pressure",
+      "reason": "排名跃升 14.5 位（74.5 → 60.0）",
+      "score": 43.5,
+      "recentImpressions": 1,
+      "baselineImpressions": 2,
+      "recentPosition": 60,
+      "baselinePosition": 74.5
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "does heat increase blood pressure",
+      "reason": "排名跃升 13.0 位（68.0 → 55.0）",
+      "score": 39,
+      "recentImpressions": 1,
+      "baselineImpressions": 3,
+      "recentPosition": 55,
+      "baselinePosition": 68
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "does heat raise blood pressure",
+      "reason": "排名跃升 11.0 位（69.0 → 58.0）",
+      "score": 33,
+      "recentImpressions": 1,
+      "baselineImpressions": 2,
+      "recentPosition": 58,
+      "baselinePosition": 69
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "does heat lower blood pressure",
+      "reason": "排名跃升 10.0 位（73.0 → 63.0）",
+      "score": 30,
+      "recentImpressions": 1,
+      "baselineImpressions": 2,
+      "recentPosition": 63,
+      "baselinePosition": 73
+    }
+  ]
+}
