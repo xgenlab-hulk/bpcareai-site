@@ -15,6 +15,7 @@ relatedSlugs:
   - normal-cholesterol-level-35-year-old-woman
   - is-180-after-meals-normal-55-type-2
   - 220-cholesterol-age-35
+  - high-ldl-normal-total-cholesterol-meaning
 ---
 
 # Triglycerides 300 but LDL Normal? What to Do Next

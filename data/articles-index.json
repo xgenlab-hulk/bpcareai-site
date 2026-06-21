@@ -1,5 +1,39 @@
 [
   {
+    "slug": "senior-exercise-minutes-to-start",
+    "title": "How Many Minutes a Day Should Seniors Exercise to Start?",
+    "description": "How many minutes a day should seniors exercise to start? Just 7 minutes daily boosts balance and lowers fall risk by 28% (JAMA, 2022). Start safely today.",
+    "date": "2026-06-21",
+    "updated": "2026-06-21",
+    "primaryKeyword": "how many minutes a day should seniors exercise to start",
+    "topicCluster": "lifestyle-interventions",
+    "image": "",
+    "relatedSlugs": [
+      "home-exercise-plan-seniors-no-equipment",
+      "walking-minutes-per-day-seniors-over-65",
+      "exercises-for-seniors-poor-balance",
+      "start-walking-safely-at-80",
+      "low-impact-exercises-seniors-over-70"
+    ]
+  },
+  {
+    "slug": "high-ldl-normal-total-cholesterol-meaning",
+    "title": "What Does High LDL But Normal Total Cholesterol Mean?",
+    "description": "What does high LDL but normal total cholesterol mean? Up to 30% of adults with 'normal' total cholesterol (<200 mg/dL) have high LDL (≥130 mg/dL)—a stealth.",
+    "date": "2026-06-21",
+    "updated": "2026-06-21",
+    "primaryKeyword": "what does high LDL but normal total cholesterol mean",
+    "topicCluster": "nutrition-diet-management",
+    "image": "",
+    "relatedSlugs": [
+      "high-hdl-high-ldl-after-35",
+      "cholesterol-numbers-heart-disease-meaning",
+      "triglycerides-300-ldl-normal-what-to-do",
+      "normal-cholesterol-level-35-year-old-woman",
+      "cholesterol-high-even-though-i-eat-well"
+    ]
+  },
+  {
     "slug": "normal-blood-pressure-adults-35-plus",
     "title": "What Is Normal Blood Pressure for Adults 35+?",
     "description": "Normal blood pressure for adults 35+ is <120/80 mmHg—per ACC/AHA guidelines. Home monitoring is 30% more predictive of heart disease than clinic readings.",
@@ -1512,7 +1546,8 @@
       "myths-vs-facts-my-heart-is-fine-because-my-cholesterol-is-normal-especially-for-adults-over-65-with-elevated-lp-a-oxldl-or-apob-apoa1-ratio",
       "normal-cholesterol-level-35-year-old-woman",
       "is-180-after-meals-normal-55-type-2",
-      "220-cholesterol-age-35"
+      "220-cholesterol-age-35",
+      "high-ldl-normal-total-cholesterol-meaning"
     ]
   },
   {

@@ -1,23 +1,5 @@
 [
   {
-    "title": "What Does High LDL But Normal Total Cholesterol Mean?",
-    "description": "LDL over 130 with total under 200 confuses many — 42% of adults get this result. Learn how to interpret it correctly.",
-    "primaryKeyword": "what does high ldl but normal total cholesterol mean",
-    "topicCluster": "nutrition-diet-management",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-20T05:06:05.432Z",
-    "score": 52.75,
-    "scheduledWeek": "2026-W26",
-    "perplexityQuestions": [
-      "What does it mean if my LDL is high but my total cholesterol is under 200?",
-      "Can I have normal cholesterol and still get a heart attack or stroke?",
-      "What is lipoprotein(a), and should adults over 35 get it tested once?",
-      "What is apolipoprotein B, and is it better than LDL for risk assessment?",
-      "Why is my triglycerides number high even if my LDL is normal?"
-    ],
-    "competitorCoverage": "Top-ranking adult cholesterol articles usually explain what cholesterol is, how LDL/HDL/triglycerides differ, what lab numbers mean, and the main risks of high cholesterol for heart attack and stroke.[1][2][3] They also tend to cover common causes, basic lifestyle changes, when to test, and when medication may be needed, so a competitive article should add nuanced risk markers like non-HDL cholesterol, apoB, lipoprotein(a), fasting vs nonfasting testing, secondary causes, and when imaging or statins are considered.[4][5][8][9][10]"
-  },
-  {
     "title": "How to Read Your Cholesterol Test Without Confusion",
     "description": "Only 3 numbers matter most — find out what yours mean for heart health at any age.",
     "primaryKeyword": "how to read cholesterol test",
