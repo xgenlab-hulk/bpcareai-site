@@ -1,20 +1,21 @@
 ---
-title: >-
-  How Can a 68-Year-Old Eat More When Food Tastes Bland?
+title: How Can a 68-Year-Old Eat More When Food Tastes Bland?
 slug: eat-more-when-food-tastes-bland-after-68
 description: >-
-  How can a 68-year-old eat more when food tastes bland? Up to 50% fewer taste buds by age 80 (taste bud decline) — try umami-rich foods + 1 tsp olive oil +.
+  How can a 68-year-old eat more when food tastes bland? Up to 50% fewer taste
+  buds by age 80 (taste bud decline) — try umami-rich foods + 1 tsp olive oil +.
 date: '2026-06-16'
 updated: '2026-06-16'
-primaryKeyword: >-
-  how can a 68-year-old eat more when food tastes bland
+primaryKeyword: how can a 68-year-old eat more when food tastes bland
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
-  - >-
-    food-tastes-bland-after-new-medications-seniors
+  - food-tastes-bland-after-new-medications-seniors
   - >-
     what-are-the-earliest-taste-perception-changes-that-make-holiday-spices-feel-too-strong-after-age-68
+  - brain-boosting-foods-adults-75-plus
+  - best-foods-seniors-no-appetite
+  - reduce-sodium-without-boring-meals-seniors
 ---
 
 # How Can a 68-Year-Old Eat More When Food Tastes Bland?

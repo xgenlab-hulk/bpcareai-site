@@ -1,12 +1,12 @@
 # 内链健康分析报告
-**生成时间**: 2026/6/8 06:37:15
+**生成时间**: 2026/6/22 07:14:57
 
 ## 一、总体健康度
 
-- **总文章数**: 2151
-- **符合要求** (3-5个内链): 2151 篇 (100.0%)
+- **总文章数**: 2184
+- **符合要求** (3-5个内链): 2184 篇 (100.0%)
 - **平均内链数**: 4.99
-- **双向链接覆盖率**: 49.4%
+- **双向链接覆盖率**: 48.7%
 
 ### 健康评分: 65/100
 
@@ -16,13 +16,13 @@
 
 | 内链数量 | 文章数 | 占比 | 状态 |
 |---------|--------|------|------|
-| 3 | 8 | 0.4% | ✅ 符合要求 |
+| 3 | 7 | 0.3% | ✅ 符合要求 |
 | 4 | 9 | 0.4% | ✅ 符合要求 |
-| 5 | 2134 | 99.2% | ✅ 符合要求 |
+| 5 | 2168 | 99.3% | ✅ 符合要求 |
 
 ## 三、孤岛文章分析
 
-⚠️ 发现 **153** 篇孤岛文章（无其他文章链接到它）：
+⚠️ 发现 **150** 篇孤岛文章（无其他文章链接到它）：
 
 - heart-rate-variability-explained
 - heart-disease-in-hispanic-adults-over-50-unique-risk-factors
@@ -34,7 +34,7 @@
 - 12-science-backed-ways-to-reduce-alcohol-induced-cardiac-stress-even-if-you-re-not-drinking
 - holiday-heart-syndrome-vs-acute-coronary-syndrome-key-differences-in-presentation-for-men-over-70
 - can-holiday-card-games-raise-blood-pressure-enough-to-trigger-arrhythmia-in-sedentary-adults-over-65
-- ...及其他 143 篇
+- ...及其他 140 篇
 
 ## 四、TopicCluster 连通性
 
@@ -1643,15 +1643,15 @@
 | diabetes-lifestyle | 8.3% | ❌ 需改进 |
 | emotional-mental-health | 8.3% | ❌ 需改进 |
 | hypertension-lifestyle | 6.3% | ❌ 需改进 |
-| lifestyle-interventions | 6.3% | ❌ 需改进 |
-| hypertension-management | 5.8% | ❌ 需改进 |
-| diabetes-management | 5.3% | ❌ 需改进 |
-| nutrition-diet-management | 4.3% | ❌ 需改进 |
+| lifestyle-interventions | 6.1% | ❌ 需改进 |
+| diabetes-management | 4.8% | ❌ 需改进 |
+| hypertension-management | 4.5% | ❌ 需改进 |
 | natural-remedies | 4.2% | ❌ 需改进 |
 | heart-health | 4.0% | ❌ 需改进 |
+| nutrition-diet-management | 3.8% | ❌ 需改进 |
 | emergency-symptoms | 3.8% | ❌ 需改进 |
 | cardiovascular-risk | 3.3% | ❌ 需改进 |
-| cardiovascular-health | 3.2% | ❌ 需改进 |
+| cardiovascular-health | 2.8% | ❌ 需改进 |
 | diet-nutrition | 1.8% | ❌ 需改进 |
 | lifestyle-modifications | 1.6% | ❌ 需改进 |
 | diabetes-risk-factors | 0.0% | ❌ 需改进 |
@@ -1703,7 +1703,7 @@
 
 ## 五、过度链接文章
 
-⚠️ 发现 **193** 篇文章被链接次数过多（>10次）：
+⚠️ 发现 **197** 篇文章被链接次数过多（>10次）：
 
 - can-meditation-reduce-heart-disease-risk-after-50
 - the-role-of-fiber-in-controlling-blood-sugar-after-50
@@ -1753,10 +1753,12 @@
 - the-truth-about-salt-intake-in-winter-is-your-diet-riskier-now
 - 10-subtle-signs-of-seasonal-depression-in-older-adults-you-shouldn-t-ignore
 - is-holiday-heart-syndrome-reversible-what-science-says
+- can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75
 - when-to-worry-about-blood-pressure-fluctuations-6-red-flags-your-doctor-might-miss
 - why-older-women-are-more-vulnerable-to-winter-heart-events
 - how-late-night-holiday-snacking-disrupts-circadian-rhythms-and-sleep-quality-in-adults-65
 - can-mindfulness-meditation-ease-winter-blues-in-older-adults-with-mild-depression
+- when-to-worry-about-sudden-dizziness-while-standing-up-after-age-65-a-red-flag-guide-for-orthostatic-hypotension
 - 5-signs-your-holiday-eating-habits-are-accelerating-muscle-loss-after-age-60
 - quick-90-second-breathing-techniques-to-lower-systolic-pressure-before-a-doctor-s-visit-clinically-validated-for-ages-50-85
 - how-sleep-apnea-quietly-destroys-blood-vessel-health-and-why-bp-readings-lie-at-night
@@ -1857,6 +1859,7 @@
 - instant-oatmeal-endothelial-function-seniors
 - low-sodium-soup-potassium-chloride-ckdseniors
 - post-dinner-fatigue-orthostatic-hypotension
+- 7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-wake-up-with-dry-mouth-and-morning-brain-fog
 - 7-silent-signs-your-feet-are-sending-early-warnings-of-diabetic-neuropathy-especially-if-you-ve-had-t2d-for-12-years
 - normalize-postprandial-glucose-within-45-minutes
 - 7-holiday-foods-that-spike-postprandial-glucose-without-tasting-sweet-especially-for-adults-63-with-long-standing-type-2-diabetes
@@ -1896,13 +1899,14 @@
 - soft-foods-seniors-no-teeth
 - foods-lower-cholesterol-naturally-after-50
 - read-cholesterol-numbers-after-50
+- chair-exercises-seniors-cant-stand-long
 - cholesterol-ed-after-40
 - morning-habits-lower-blood-pressure-after-35
 
 ## 六、优化建议
 
-2. **消除孤岛文章**: 153 篇文章没有被其他文章链接，建议通过双向链接优化改善
-3. **提升双向链接覆盖率**: 当前为 49.4%，建议目标 >60%
+2. **消除孤岛文章**: 150 篇文章没有被其他文章链接，建议通过双向链接优化改善
+3. **提升双向链接覆盖率**: 当前为 48.7%，建议目标 >60%
 4. **改善Cluster连通性**: 77 个主题集群内部连通性低于50%
 
 ---
