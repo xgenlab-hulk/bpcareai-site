@@ -1,23 +1,5 @@
 [
   {
-    "title": "Best Breakfasts for Seniors With Low Appetite",
-    "description": "Warm, high-calorie options like fortified oatmeal with almond butter — 350+ calories, 15g protein, ready in 5 mins. Find out what sticks.",
-    "primaryKeyword": "best breakfasts for seniors with low appetite",
-    "topicCluster": "meal-planning-breakfast",
-    "coreKeyword": "healthy eating for seniors",
-    "createdAt": "2026-06-20T05:06:05.433Z",
-    "score": 32,
-    "scheduledWeek": "2026-W26",
-    "perplexityQuestions": [
-      "What should a 70-year-old eat every day to stay healthy?",
-      "How much protein do adults over 65 need each day?",
-      "What is the best breakfast for seniors who have low appetite?",
-      "How many calories should a 75-year-old woman eat to avoid losing weight?",
-      "What foods help older adults get enough calcium and vitamin D?"
-    ],
-    "competitorCoverage": "Top-ranking articles on healthy eating for seniors usually cover the same core themes: nutrient-dense foods, enough protein, calcium/vitamin D, hydration, and practical meal planning for older adults. They also tend to include plate-method advice, label reading, and fixes for common barriers like low appetite, chewing problems, or limited energy to cook. A new article needs to go beyond generic advice by answering specific age-based, scenario-based questions and addressing real-life constraints such as living alone, low appetite, frailty, and managing multiple conditions at once."
-  },
-  {
     "title": "Blood Sugar Friendly Snacks for Seniors Who Get Tired",
     "description": "Balanced bites with 10–15g carb + 7g protein — like cottage cheese & berries — kept energy up for 3+ hours in 78% of users over 70.",
     "primaryKeyword": "blood sugar friendly snacks for seniors tired",
@@ -39,24 +21,6 @@
     "title": "Calcium & Vitamin D Foods for Seniors Over 75",
     "description": "Only 32% of women over 75 hit 1,200mg calcium + 800 IU vitamin D daily — learn which 5 foods cover both, without supplements.",
     "primaryKeyword": "foods with calcium and vitamin d for seniors",
-    "topicCluster": "nutrition-diet-management",
-    "coreKeyword": "healthy eating for seniors",
-    "createdAt": "2026-06-20T05:06:05.433Z",
-    "score": 26.75,
-    "scheduledWeek": "2026-W26",
-    "perplexityQuestions": [
-      "What should a 70-year-old eat every day to stay healthy?",
-      "How much protein do adults over 65 need each day?",
-      "What is the best breakfast for seniors who have low appetite?",
-      "How many calories should a 75-year-old woman eat to avoid losing weight?",
-      "What foods help older adults get enough calcium and vitamin D?"
-    ],
-    "competitorCoverage": "Top-ranking articles on healthy eating for seniors usually cover the same core themes: nutrient-dense foods, enough protein, calcium/vitamin D, hydration, and practical meal planning for older adults. They also tend to include plate-method advice, label reading, and fixes for common barriers like low appetite, chewing problems, or limited energy to cook. A new article needs to go beyond generic advice by answering specific age-based, scenario-based questions and addressing real-life constraints such as living alone, low appetite, frailty, and managing multiple conditions at once."
-  },
-  {
-    "title": "Heart-Healthy Soups You Can Freeze in Portions",
-    "description": "12 soups with <450mg sodium, ≥5g fiber, and 10g protein per bowl — 89% of users ate 4+ servings weekly. Find your 3 favorites.",
-    "primaryKeyword": "heart healthy frozen soups for seniors",
     "topicCluster": "nutrition-diet-management",
     "coreKeyword": "healthy eating for seniors",
     "createdAt": "2026-06-20T05:06:05.433Z",
