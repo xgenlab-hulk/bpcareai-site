@@ -1,22 +1,20 @@
 ---
-title: >-
-  Safe Calcium-Rich Foods for Seniors With Kidney Disease
+title: Safe Calcium-Rich Foods for Seniors With Kidney Disease
 slug: calcium-rich-foods-kidney-disease-seniors
 description: >-
-  Calcium-rich foods for seniors with kidney disease: aim for 800–1,000 mg/day (not supplements) to avoid vascular calcification (hardening of arteries).
+  Calcium-rich foods for seniors with kidney disease: aim for 800–1,000 mg/day
+  (not supplements) to avoid vascular calcification (hardening of arteries).
 date: '2026-04-16'
 updated: '2026-04-16'
-primaryKeyword: >-
-  calcium rich foods for seniors with kidney disease
+primaryKeyword: calcium rich foods for seniors with kidney disease
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
-  - >-
-    calcium-rich-foods-without-dairy-seniors
-  - >-
-    neutralize-holiday-sodium-quickly-seniors-ck
+  - calcium-rich-foods-without-dairy-seniors
+  - neutralize-holiday-sodium-quickly-seniors-ck
   - >-
     a-plate-by-plate-guide-to-building-a-balanced-holiday-meal-for-seniors-with-kidney-disease
+  - calcium-vitamin-d-foods-seniors
 ---
 
 # Safe Calcium-Rich Foods for Seniors With Kidney Disease

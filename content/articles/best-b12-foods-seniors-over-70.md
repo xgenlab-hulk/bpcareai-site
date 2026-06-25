@@ -14,6 +14,7 @@ relatedSlugs:
   - brain-boosting-foods-adults-75-plus
   - nutrient-dense-foods-low-appetite-seniors
   - best-protein-foods-seniors-over-50
+  - calcium-vitamin-d-foods-seniors
 ---
 
 # Best B12 Foods for Seniors Over 70 — Doctor-Approved List
