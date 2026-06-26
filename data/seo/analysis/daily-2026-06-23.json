@@ -1,0 +1,27 @@
+{
+  "date": "2026-06-23",
+  "period": "3-day",
+  "impressionsChange": 120.52505966587113,
+  "clicksChange": -100,
+  "newQueries": [],
+  "risingQueries": [
+    {
+      "query": "7 foods that quietly raise blood pressure in older adults",
+      "recentImpressions": 12,
+      "baselineImpressions": 18,
+      "changeRatio": 6.222222222222221
+    }
+  ],
+  "alerts": [
+    {
+      "type": "SURGE",
+      "query": "7 foods that quietly raise blood pressure in older adults",
+      "reason": "展示量激增 6.2x（近3天日均4.0 vs 基线0.6）",
+      "score": 93.33333333333331,
+      "recentImpressions": 12,
+      "baselineImpressions": 18,
+      "recentPosition": 6.5,
+      "baselinePosition": 7.277777777777778
+    }
+  ]
+}
