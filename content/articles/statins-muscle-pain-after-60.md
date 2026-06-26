@@ -1,13 +1,13 @@
 ---
-title: >-
-  Statins and Muscle Pain After 60: What’s Normal?
+title: 'Statins and Muscle Pain After 60: What’s Normal?'
 slug: statins-muscle-pain-after-60
 description: >-
-  Statins and muscle pain after 60 affect only 5–10% of older adults — most resolve in weeks. Mild myalgia (muscle ache) is common; rhabdomyolysis is rare (<0.
+  Statins and muscle pain after 60 affect only 5–10% of older adults — most
+  resolve in weeks. Mild myalgia (muscle ache) is common; rhabdomyolysis is rare
+  (<0.
 date: '2026-04-22'
 updated: '2026-04-22'
-primaryKeyword: >-
-  statins and muscle pain after 60
+primaryKeyword: statins and muscle pain after 60
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
@@ -15,8 +15,8 @@ relatedSlugs:
     5-things-your-cardiologist-isn-t-telling-you-about-statin-side-effects-after-age-65
   - >-
     myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
-  - >-
-    statin-side-effects-heart-health-seniors
+  - statin-side-effects-heart-health-seniors
+  - best-cholesterol-meds-seniors-muscle-pain
 ---
 
 # Statins and Muscle Pain After 60: What’s Normal?
