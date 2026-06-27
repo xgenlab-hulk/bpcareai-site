@@ -1,0 +1,217 @@
+{
+  "week": "2026-W27",
+  "generatedAt": "2026-06-27T04:46:18.642Z",
+  "config": {
+    "weeklyTarget": 35,
+    "dailyTarget": 5
+  },
+  "previousWeek": {
+    "remaining": 41,
+    "kept": 0
+  },
+  "newGenerated": 20,
+  "totalWritten": 24,
+  "gscData": {
+    "daysAnalyzed": 7,
+    "totalSearchTerms": 197
+  },
+  "llmAnalysis": {
+    "searchIntentAnalysis": "",
+    "ctrAnomalies": "",
+    "hiddenOpportunities": "",
+    "topicPriorities": "",
+    "articleOptimizations": 0
+  },
+  "perplexityInsights": {
+    "cholesterol": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "Is 197 LDL dangerous for a 26-year-old with no family history?",
+        "What ApoB level indicates high risk if my LDL is 206 but I'm slim?",
+        "Can high cholesterol at 42 be caused by something other than diet if I eat well and exercise?",
+        "Is a total cholesterol of 295 at age 30 a sign of familial hypercholesterolemia?",
+        "Should I get a coronary calcium scan if my LDL is over 200 and I have chest pain?",
+        "What questions should I ask my doctor about statins if I'm 43 with early-onset family heart disease?",
+        "Is 270 total cholesterol with 59 HDL normal for a young adult on a red meat diet?",
+        "Can hypothyroidism cause LDL to spike to 197 in a healthy 26-year-old?",
+        "Do large buoyant LDL particles matter if my ApoB is under 70?",
+        "Is it safe to start a statin at 42 if my triglycerides are also high?"
+      ],
+      "competitorCoverage": "Top-ranking articles for adults over 35 focus on defining cholesterol numbers, explaining LDL vs HDL, listing dietary triggers (red meat, saturated fats), and outlining statin therapy guidelines. To compete, a new article must include specific ApoB and coronary calcium scan context, address non-dietary causes like hypothyroidism or genetics in slim individuals, and provide actionable questions for doctor consultations about early statin use.",
+      "whyItMatters": "This topic is trending due to updated NLA/AHA/ACC guidelines emphasizing lower ApoB targets (<70 mg/dL) and increased use of coronary calcium scans for risk stratification in young adults with high LDL, alongside rising awareness of familial hypercholesterolemia in non-overweight populations."
+    },
+    "diabetes": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "Can adults over 35 develop Type 1 diabetes without a childhood history?",
+        "Is a blood sugar of 130 fasting at age 50 considered prediabetes or early Type 2?",
+        "What are the early signs of diabetes in men over 40 that aren't weight loss or thirst?",
+        "How does stress affect blood sugar levels in adults over 35 with prediabetes?",
+        "Can you reverse Type 2 diabetes after age 50 without medication or surgery?",
+        "Is it normal to have tingling feet at 45 before diabetes is diagnosed?",
+        "What blood pressure target should adults over 40 with diabetes aim for to prevent kidney damage?",
+        "How often should adults over 35 get an A1C test if they have no symptoms but a family history?",
+        "Are there diabetes symptoms in women over 50 that mimic hormonal changes or aging?",
+        "Can low-carb diets cause blood sugar to drop too low in adults over 40 with prediabetes?"
+      ],
+      "competitorCoverage": "Top-ranking Google articles for adults over 35 focus on defining Type 1 vs. Type 2, listing classic symptoms (thirst, weight loss), explaining A1C testing, and offering general lifestyle tips. To compete, a new article must address late-onset Type 1, non-obvious symptoms in men/women, stress and sleep apnea links, and specific blood pressure/sugar targets for kidney protection.",
+      "whyItMatters": "This topic is trending due to rising late-onset Type 1 diagnoses in adults and new 2025 ADA guidelines emphasizing earlier screening for adults over 35 with risk factors like sleep apnea or vitamin D deficiency, especially as summer heat impacts blood sugar stability."
+    },
+    "healthy eating for seniors": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "What are the best high-protein snacks for seniors over 65 who struggle to chew meat?",
+        "Is it safe for a 70-year-old with diabetes to eat sweet potatoes instead of white potatoes?",
+        "How much fiber should a 68-year-old woman eat daily to prevent constipation without bloating?",
+        "Are frozen smoothies safe for seniors over 70 with kidney disease, or do they spike potassium too high?",
+        "What are the best low-sodium seasoning alternatives for seniors over 65 who have lost their sense of taste?",
+        "Can a 72-year-old with AFib safely take probiotic yogurt, or does it interfere with blood thinners?",
+        "Is 1,200 mg of sodium per day too high for a 69-year-old with mild heart failure?",
+        "What are the best soft, nutrient-dense breakfast options for seniors over 75 with dental implants?",
+        "Do seniors over 60 need to take vitamin B12 supplements if they eat meat daily, or is absorption the issue?",
+        "Is it safe for a 74-year-old with hypertension to drink bone broth, or does the sodium content spike blood pressure?"
+      ],
+      "competitorCoverage": "Top-ranking articles for 'healthy eating for seniors' universally cover general principles like nutrient density, hydration, fiber intake, and the importance of protein, calcium, and vitamin D, while offering broad tips on meal planning and label reading. To compete, a new article must address specific clinical scenarios (e.g., CKD, AFib, diabetes), provide actionable solutions for chewing/swallowing difficulties, and debunk common 'healthy' food myths with precise sodium/potassium data for specific age groups.",
+      "whyItMatters": "This topic is trending due to the rising prevalence of age-related chronic conditions (CKD, heart failure, diabetes) in the 65+ population and recent updates to dietary guidelines emphasizing higher protein and specific micronutrient needs for older adults to prevent frailty and cognitive decline."
+    },
+    "exercise for seniors": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "Is it too late to start strength training at 40 if I haven't exercised since I was 20?",
+        "What is the safest way to build lean muscle at 45 without risking joint injury?",
+        "Can I burn fat effectively at 50 with just 20 minutes of exercise per day?",
+        "Is 120/80 blood pressure dangerous for a 42-year-old who just started exercising?",
+        "How many days a week should a 48-year-old do resistance training to see results?",
+        "What are the best balance exercises for a 55-year-old with mild vertigo to prevent falls?",
+        "Is it safe for a 60-year-old with osteopenia to do weightlifting, and how much?",
+        "What aerobic exercises are best for a 52-year-old with type 2 diabetes to lower blood sugar?",
+        "Can a 65-year-old with COPD improve endurance with walking, and how long per session?",
+        "What flexibility exercises help a 58-year-old with chronic lower back pain without worsening it?"
+      ],
+      "competitorCoverage": "Top-ranking articles cover the four pillars of senior fitness (endurance, strength, balance, flexibility), emphasize the 150-minute weekly moderate-intensity guideline, and stress consulting a doctor before starting. A new article must include specific, age-tailored examples for each pillar, address common fears (like falling or joint pain), and provide actionable progression plans for beginners.",
+      "whyItMatters": "This topic is trending due to the growing 50+ population seeking to maintain independence and prevent age-related decline, supported by recent NIH guidelines reinforcing strength training's role in muscle mass retention and fall prevention. Seasonal factors like winter also drive interest in indoor, low-impact routines for blood pressure and joint health."
+    }
+  },
+  "topTopics": [
+    {
+      "title": "What ApoB Level Means for Your Heart Risk",
+      "pk": "what apo b level means for heart risk",
+      "score": 60.46666666666667,
+      "breakdown": {
+        "clusterNeed": 22.5,
+        "searchDemand": 8,
+        "differentiation": 24,
+        "timeliness": 6
+      },
+      "reasoning": "cardiovascular-health集群覆盖率63%，中等缺口 | 来自周度分析推荐 | 与已有文章高度差异化(重叠25%)"
+    },
+    {
+      "title": "How stress raises blood sugar after 35",
+      "pk": "how stress affects blood sugar after 35",
+      "score": 56,
+      "breakdown": {
+        "clusterNeed": 22,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率49%，大缺口 | 近7天已产出3篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Winter Indoor Exercises That Protect Joints & BP",
+      "pk": "indoor exercises for cold weather seniors",
+      "score": 56,
+      "breakdown": {
+        "clusterNeed": 22,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率49%，大缺口 | 近7天已产出3篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "What to Ask Your Doctor About Statins at 43",
+      "pk": "what to ask doctor about statins at 43",
+      "score": 48,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 24,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章高度差异化(重叠25%)"
+    },
+    {
+      "title": "Probiotic Yogurt Safe With Blood Thinners and AFib?",
+      "pk": "probiotic yogurt with blood thinners afib senior",
+      "score": 48,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 24,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章高度差异化(重叠20%)"
+    },
+    {
+      "title": "Soft, Nutrient-Dense Breakfasts for Seniors With Dental Implants",
+      "pk": "soft breakfast for seniors with dental implants",
+      "score": 48,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 24,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章高度差异化(重叠25%)"
+    },
+    {
+      "title": "Best High-Protein Snacks for Seniors Who Can’t Chew Meat",
+      "pk": "high-protein snacks for seniors who can't chew meat",
+      "score": 46,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    },
+    {
+      "title": "Should You Get a Calcium Scan With LDL Over 200?",
+      "pk": "should i get calcium scan with ldl over 200",
+      "score": 45,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 21,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章有差异(重叠40%)"
+    },
+    {
+      "title": "What to Do When Balance Feels Off at 55",
+      "pk": "balance exercises for dizziness at 55",
+      "score": 44,
+      "breakdown": {
+        "clusterNeed": 22,
+        "searchDemand": 8,
+        "differentiation": 8,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率49%，大缺口 | 近7天已产出3篇，适度减分 | 来自周度分析推荐 | 与已有文章有一定重叠(67%)，可能cannibalize"
+    },
+    {
+      "title": "How to Add Fiber Without Bloating After 68",
+      "pk": "how much fiber for 68-year-old woman",
+      "score": 42.25,
+      "breakdown": {
+        "clusterNeed": 4.3,
+        "searchDemand": 8,
+        "differentiation": 24,
+        "timeliness": 6
+      },
+      "reasoning": "nutrition-diet-management集群接近目标 | 近7天已产出4篇，适度减分 | 来自周度分析推荐 | 与已有文章高度差异化(重叠25%)"
+    }
+  ]
+}

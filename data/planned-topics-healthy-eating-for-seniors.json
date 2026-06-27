@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "title": "Soft, Nutrient-Dense Breakfasts for Seniors With Dental Implants",
+    "description": "Oatmeal with ground flax and soft-scrambled eggs deliver 25g protein and 400mg calcium per meal. Discover 5 gentle options.",
+    "primaryKeyword": "soft breakfast for seniors with dental implants",
+    "topicCluster": "diet-soft-foods-breakfast",
+    "coreKeyword": "healthy eating for seniors",
+    "createdAt": "2026-06-27T04:46:18.642Z",
+    "score": 48,
+    "scheduledWeek": "2026-W27",
+    "perplexityQuestions": [
+      "What are the best high-protein snacks for seniors over 65 who struggle to chew meat?",
+      "Is it safe for a 70-year-old with diabetes to eat sweet potatoes instead of white potatoes?",
+      "How much fiber should a 68-year-old woman eat daily to prevent constipation without bloating?",
+      "Are frozen smoothies safe for seniors over 70 with kidney disease, or do they spike potassium too high?",
+      "What are the best low-sodium seasoning alternatives for seniors over 65 who have lost their sense of taste?"
+    ],
+    "competitorCoverage": "Top-ranking articles for 'healthy eating for seniors' universally cover general principles like nutrient density, hydration, fiber intake, and the importance of protein, calcium, and vitamin D, while offering broad tips on meal planning and label reading. To compete, a new article must address specific clinical scenarios (e.g., CKD, AFib, diabetes), provide actionable solutions for chewing/swallowing difficulties, and debunk common 'healthy' food myths with precise sodium/potassium data for specific age groups."
+  },
+  {
+    "title": "Best High-Protein Snacks for Seniors Who Can’t Chew Meat",
+    "description": "7 soft, no-chew options — like cottage cheese (14g protein) and Greek yogurt (20g). Discover tasty, easy-to-eat picks.",
+    "primaryKeyword": "high-protein snacks for seniors who can't chew meat",
+    "topicCluster": "diet-protein-aging",
+    "coreKeyword": "healthy eating for seniors",
+    "createdAt": "2026-06-27T04:46:18.642Z",
+    "score": 46,
+    "scheduledWeek": "2026-W27",
+    "perplexityQuestions": [
+      "What are the best high-protein snacks for seniors over 65 who struggle to chew meat?",
+      "Is it safe for a 70-year-old with diabetes to eat sweet potatoes instead of white potatoes?",
+      "How much fiber should a 68-year-old woman eat daily to prevent constipation without bloating?",
+      "Are frozen smoothies safe for seniors over 70 with kidney disease, or do they spike potassium too high?",
+      "What are the best low-sodium seasoning alternatives for seniors over 65 who have lost their sense of taste?"
+    ],
+    "competitorCoverage": "Top-ranking articles for 'healthy eating for seniors' universally cover general principles like nutrient density, hydration, fiber intake, and the importance of protein, calcium, and vitamin D, while offering broad tips on meal planning and label reading. To compete, a new article must address specific clinical scenarios (e.g., CKD, AFib, diabetes), provide actionable solutions for chewing/swallowing difficulties, and debunk common 'healthy' food myths with precise sodium/potassium data for specific age groups."
+  },
+  {
+    "title": "How to Add Fiber Without Bloating After 68",
+    "description": "68-year-old women need 22g fiber daily — start slow with 3g/day increases. Learn how to prevent gas and stay regular.",
+    "primaryKeyword": "how much fiber for 68-year-old woman",
+    "topicCluster": "nutrition-diet-management",
+    "coreKeyword": "healthy eating for seniors",
+    "createdAt": "2026-06-27T04:46:18.642Z",
+    "score": 42.25,
+    "scheduledWeek": "2026-W27",
+    "perplexityQuestions": [
+      "What are the best high-protein snacks for seniors over 65 who struggle to chew meat?",
+      "Is it safe for a 70-year-old with diabetes to eat sweet potatoes instead of white potatoes?",
+      "How much fiber should a 68-year-old woman eat daily to prevent constipation without bloating?",
+      "Are frozen smoothies safe for seniors over 70 with kidney disease, or do they spike potassium too high?",
+      "What are the best low-sodium seasoning alternatives for seniors over 65 who have lost their sense of taste?"
+    ],
+    "competitorCoverage": "Top-ranking articles for 'healthy eating for seniors' universally cover general principles like nutrient density, hydration, fiber intake, and the importance of protein, calcium, and vitamin D, while offering broad tips on meal planning and label reading. To compete, a new article must address specific clinical scenarios (e.g., CKD, AFib, diabetes), provide actionable solutions for chewing/swallowing difficulties, and debunk common 'healthy' food myths with precise sodium/potassium data for specific age groups."
+  },
+  {
+    "title": "What to Do When Low Appetite Makes Meals Feel Like a Chore",
+    "description": "62% of seniors over 70 report meal fatigue — small, frequent meals with 30g protein/day help most. Learn how to restart hunger.",
+    "primaryKeyword": "seniors low appetite meal fatigue",
+    "topicCluster": "nutrition-diet-management",
+    "coreKeyword": "healthy eating for seniors",
+    "createdAt": "2026-06-27T04:46:18.642Z",
+    "score": 40.25,
+    "scheduledWeek": "2026-W27",
+    "perplexityQuestions": [
+      "What are the best high-protein snacks for seniors over 65 who struggle to chew meat?",
+      "Is it safe for a 70-year-old with diabetes to eat sweet potatoes instead of white potatoes?",
+      "How much fiber should a 68-year-old woman eat daily to prevent constipation without bloating?",
+      "Are frozen smoothies safe for seniors over 70 with kidney disease, or do they spike potassium too high?",
+      "What are the best low-sodium seasoning alternatives for seniors over 65 who have lost their sense of taste?"
+    ],
+    "competitorCoverage": "Top-ranking articles for 'healthy eating for seniors' universally cover general principles like nutrient density, hydration, fiber intake, and the importance of protein, calcium, and vitamin D, while offering broad tips on meal planning and label reading. To compete, a new article must address specific clinical scenarios (e.g., CKD, AFib, diabetes), provide actionable solutions for chewing/swallowing difficulties, and debunk common 'healthy' food myths with precise sodium/potassium data for specific age groups."
+  },
+  {
+    "title": "5 Cholesterol-Lowering Soups for Swallowing Trouble",
+    "description": "These 3-ingredient, soft-texture soups lower LDL by up to 12% in 6 weeks — perfect for seniors with dentures or dysphagia.",
+    "primaryKeyword": "cholesterol lowering soups for swallowing trouble",
+    "topicCluster": "nutrition-diet-management",
+    "coreKeyword": "healthy eating for seniors",
+    "createdAt": "2026-06-27T04:46:18.642Z",
+    "score": 28.25,
+    "scheduledWeek": "2026-W27",
+    "perplexityQuestions": [
+      "What are the best high-protein snacks for seniors over 65 who struggle to chew meat?",
+      "Is it safe for a 70-year-old with diabetes to eat sweet potatoes instead of white potatoes?",
+      "How much fiber should a 68-year-old woman eat daily to prevent constipation without bloating?",
+      "Are frozen smoothies safe for seniors over 70 with kidney disease, or do they spike potassium too high?",
+      "What are the best low-sodium seasoning alternatives for seniors over 65 who have lost their sense of taste?"
+    ],
+    "competitorCoverage": "Top-ranking articles for 'healthy eating for seniors' universally cover general principles like nutrient density, hydration, fiber intake, and the importance of protein, calcium, and vitamin D, while offering broad tips on meal planning and label reading. To compete, a new article must address specific clinical scenarios (e.g., CKD, AFib, diabetes), provide actionable solutions for chewing/swallowing difficulties, and debunk common 'healthy' food myths with precise sodium/potassium data for specific age groups."
+  },
+  {
+    "title": "Heart-Healthy Soups That Don’t Need Chewing",
+    "description": "3 blended soups — like lentil and carrot-ginger — with ≤450mg sodium and 8g fiber per bowl. Find out how to prep ahead.",
+    "primaryKeyword": "heart healthy soups for seniors no chewing",
+    "topicCluster": "nutrition-diet-management",
+    "coreKeyword": "healthy eating for seniors",
+    "createdAt": "2026-06-27T04:46:18.642Z",
+    "score": 26.25,
+    "scheduledWeek": "2026-W27",
+    "perplexityQuestions": [
+      "What are the best high-protein snacks for seniors over 65 who struggle to chew meat?",
+      "Is it safe for a 70-year-old with diabetes to eat sweet potatoes instead of white potatoes?",
+      "How much fiber should a 68-year-old woman eat daily to prevent constipation without bloating?",
+      "Are frozen smoothies safe for seniors over 70 with kidney disease, or do they spike potassium too high?",
+      "What are the best low-sodium seasoning alternatives for seniors over 65 who have lost their sense of taste?"
+    ],
+    "competitorCoverage": "Top-ranking articles for 'healthy eating for seniors' universally cover general principles like nutrient density, hydration, fiber intake, and the importance of protein, calcium, and vitamin D, while offering broad tips on meal planning and label reading. To compete, a new article must address specific clinical scenarios (e.g., CKD, AFib, diabetes), provide actionable solutions for chewing/swallowing difficulties, and debunk common 'healthy' food myths with precise sodium/potassium data for specific age groups."
+  }
+]

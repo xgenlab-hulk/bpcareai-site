@@ -1,130 +1,92 @@
 [
   {
-    "title": "Cholesterol and Heart Disease: What Your Doctor Isn’t Telling You",
-    "description": "Nearly 50% of heart attacks happen with ‘normal’ LDL — discover the hidden risk markers you need.",
-    "primaryKeyword": "cholesterol and heart disease truth",
-    "topicCluster": "cholesterol-heart-disease",
+    "title": "What to Ask Your Doctor About Statins at 43",
+    "description": "7 essential questions — including 'When should I start?' and 'What’s my 10-year ApoB goal?' — to get personalized, early statin advice.",
+    "primaryKeyword": "what to ask doctor about statins at 43",
+    "topicCluster": "medication-age-specific",
     "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-20T08:51:21.247Z"
+    "createdAt": "2026-06-27T04:46:18.641Z",
+    "score": 48,
+    "scheduledWeek": "2026-W27",
+    "perplexityQuestions": [
+      "Is 197 LDL dangerous for a 26-year-old with no family history?",
+      "What ApoB level indicates high risk if my LDL is 206 but I'm slim?",
+      "Can high cholesterol at 42 be caused by something other than diet if I eat well and exercise?",
+      "Is a total cholesterol of 295 at age 30 a sign of familial hypercholesterolemia?",
+      "Should I get a coronary calcium scan if my LDL is over 200 and I have chest pain?"
+    ],
+    "competitorCoverage": "Top-ranking articles for adults over 35 focus on defining cholesterol numbers, explaining LDL vs HDL, listing dietary triggers (red meat, saturated fats), and outlining statin therapy guidelines. To compete, a new article must include specific ApoB and coronary calcium scan context, address non-dietary causes like hypothyroidism or genetics in slim individuals, and provide actionable questions for doctor consultations about early statin use."
   },
   {
-    "title": "3 Low-Sodium Cholesterol-Lowering Soups You Can Make in 20 Minutes",
-    "description": "Each delivers 3+ grams of soluble fiber per bowl — find out how to batch-cook and freeze them safely.",
-    "primaryKeyword": "low sodium soups that lower cholesterol",
-    "topicCluster": "soups-cholesterol",
+    "title": "Should You Get a Calcium Scan With LDL Over 200?",
+    "description": "New guidelines recommend coronary calcium scans for LDL ≥200 mg/dL *even with no symptoms* — find out if it’s right for you.",
+    "primaryKeyword": "should i get calcium scan with ldl over 200",
+    "topicCluster": "testing-heart-disease",
     "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-20T08:51:23.620Z"
+    "createdAt": "2026-06-27T04:46:18.641Z",
+    "score": 45,
+    "scheduledWeek": "2026-W27",
+    "perplexityQuestions": [
+      "Is 197 LDL dangerous for a 26-year-old with no family history?",
+      "What ApoB level indicates high risk if my LDL is 206 but I'm slim?",
+      "Can high cholesterol at 42 be caused by something other than diet if I eat well and exercise?",
+      "Is a total cholesterol of 295 at age 30 a sign of familial hypercholesterolemia?",
+      "Should I get a coronary calcium scan if my LDL is over 200 and I have chest pain?"
+    ],
+    "competitorCoverage": "Top-ranking articles for adults over 35 focus on defining cholesterol numbers, explaining LDL vs HDL, listing dietary triggers (red meat, saturated fats), and outlining statin therapy guidelines. To compete, a new article must include specific ApoB and coronary calcium scan context, address non-dietary causes like hypothyroidism or genetics in slim individuals, and provide actionable questions for doctor consultations about early statin use."
   },
   {
-    "title": "What to Do When Cholesterol Is High But You Feel Fine",
-    "description": "Silent risk spikes begin at LDL >100 in adults over 45 — learn your next safe, no-pill step.",
-    "primaryKeyword": "what to do when cholesterol is high but feel fine",
-    "topicCluster": "newly-diagnosed-cholesterol",
+    "title": "Can Hypothyroidism Raise Cholesterol at 26?",
+    "description": "Yes — 30% of young adults with untreated hypothyroidism have LDL over 190 mg/dL; learn how to check thyroid and cholesterol together.",
+    "primaryKeyword": "can hypothyroidism raise cholesterol at 26",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-20T08:51:25.883Z"
+    "createdAt": "2026-06-27T04:46:18.641Z",
+    "score": 40.25,
+    "scheduledWeek": "2026-W27",
+    "perplexityQuestions": [
+      "Is 197 LDL dangerous for a 26-year-old with no family history?",
+      "What ApoB level indicates high risk if my LDL is 206 but I'm slim?",
+      "Can high cholesterol at 42 be caused by something other than diet if I eat well and exercise?",
+      "Is a total cholesterol of 295 at age 30 a sign of familial hypercholesterolemia?",
+      "Should I get a coronary calcium scan if my LDL is over 200 and I have chest pain?"
+    ],
+    "competitorCoverage": "Top-ranking articles for adults over 35 focus on defining cholesterol numbers, explaining LDL vs HDL, listing dietary triggers (red meat, saturated fats), and outlining statin therapy guidelines. To compete, a new article must include specific ApoB and coronary calcium scan context, address non-dietary causes like hypothyroidism or genetics in slim individuals, and provide actionable questions for doctor consultations about early statin use."
   },
   {
-    "title": "Can Walking Lower Cholesterol Without Medication?",
-    "description": "Just 30 minutes a day cuts LDL by 7–10% in 12 weeks — discover the best pace and timing for over 60.",
-    "primaryKeyword": "can walking lower cholesterol",
-    "topicCluster": "exercise-cholesterol",
+    "title": "Is 295 Total Cholesterol at 30 Familial Hypercholesterolemia?",
+    "description": "If your LDL is over 190 mg/dL before age 30 and a parent had early heart disease, FH risk jumps to 85% — discover next steps.",
+    "primaryKeyword": "is 295 total cholesterol at 30 familial hypercholesterolemia",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-20T08:51:28.099Z"
+    "createdAt": "2026-06-27T04:46:18.641Z",
+    "score": 39.25,
+    "scheduledWeek": "2026-W27",
+    "perplexityQuestions": [
+      "Is 197 LDL dangerous for a 26-year-old with no family history?",
+      "What ApoB level indicates high risk if my LDL is 206 but I'm slim?",
+      "Can high cholesterol at 42 be caused by something other than diet if I eat well and exercise?",
+      "Is a total cholesterol of 295 at age 30 a sign of familial hypercholesterolemia?",
+      "Should I get a coronary calcium scan if my LDL is over 200 and I have chest pain?"
+    ],
+    "competitorCoverage": "Top-ranking articles for adults over 35 focus on defining cholesterol numbers, explaining LDL vs HDL, listing dietary triggers (red meat, saturated fats), and outlining statin therapy guidelines. To compete, a new article must include specific ApoB and coronary calcium scan context, address non-dietary causes like hypothyroidism or genetics in slim individuals, and provide actionable questions for doctor consultations about early statin use."
   },
   {
-    "title": "Cholesterol at Night: Why Levels Shift While You Sleep",
-    "description": "Liver cholesterol production peaks 2–4 AM — learn how bedtime habits affect your morning numbers.",
-    "primaryKeyword": "cholesterol at night",
-    "topicCluster": "sleep-cholesterol",
+    "title": "5 Cholesterol-Lowering Soups for Swallowing Trouble",
+    "description": "These 3-ingredient, soft-texture soups lower LDL by up to 12% in 6 weeks — perfect for seniors with dentures or dysphagia.",
+    "primaryKeyword": "cholesterol lowering soups for swallowing trouble",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-20T08:51:30.355Z"
-  },
-  {
-    "title": "Does Red Meat Raise Cholesterol After 55? Truth vs Myth",
-    "description": "Lean cuts raise LDL only 3–5 mg/dL — but processed versions spike it 20+ mg/dL. Find out which to avoid.",
-    "primaryKeyword": "does red meat raise cholesterol after 55",
-    "topicCluster": "diet-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-20T08:51:32.582Z"
-  },
-  {
-    "title": "Warning Signs of High Cholesterol You Can’t Feel",
-    "description": "Xanthomas, arcus cornealis, and fatigue appear only after years of damage — find out what to watch for.",
-    "primaryKeyword": "warning signs of high cholesterol you can't feel",
-    "topicCluster": "symptoms-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-20T08:51:34.833Z"
-  },
-  {
-    "title": "Best Cholesterol-Lowering Foods for Men Over 70",
-    "description": "Focus on bioavailable nutrients: one serving of soaked flaxseed lowers LDL by 12% in 8 weeks.",
-    "primaryKeyword": "best cholesterol lowering foods for men over 70",
-    "topicCluster": "diet-gender-age-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-20T08:51:37.118Z"
-  },
-  {
-    "title": "How Often Should You Test Cholesterol After 65?",
-    "description": "If stable, every 2–3 years is enough — but with diabetes or family history, test annually.",
-    "primaryKeyword": "how often test cholesterol after 65",
-    "topicCluster": "testing-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-20T08:51:39.408Z"
-  },
-  {
-    "title": "Does Coffee Raise Cholesterol? The Brew Matters",
-    "description": "Unfiltered coffee (like French press) raises LDL by up to 10 mg/dL — find out which types are safe.",
-    "primaryKeyword": "does coffee raise cholesterol brew matters",
-    "topicCluster": "diet-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-20T08:51:41.608Z"
-  },
-  {
-    "title": "Cholesterol and Erectile Dysfunction: What Men Over 40 Should Know",
-    "description": "Up to 75% of ED cases link to early vascular changes — learn how cholesterol testing reveals more than you think.",
-    "primaryKeyword": "cholesterol and erectile dysfunction men over 40",
-    "topicCluster": "cholesterol-heart-disease",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-20T08:51:43.892Z"
-  },
-  {
-    "title": "Can Niacin Help Cholesterol After 60? Risks vs Benefits",
-    "description": "May lower LDL by 15% but raises blood sugar 10–12% — discover safer alternatives for seniors.",
-    "primaryKeyword": "can niacin help cholesterol after 60",
-    "topicCluster": "medication-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-20T08:51:46.207Z"
-  },
-  {
-    "title": "The Truth About Coconut Oil and Cholesterol After 50",
-    "description": "It raises LDL by 10–15 mg/dL more than olive oil — but in small amounts, may support HDL. Learn the limits.",
-    "primaryKeyword": "coconut oil and cholesterol after 50",
-    "topicCluster": "diet-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-20T08:51:48.503Z"
-  },
-  {
-    "title": "Cholesterol-Lowering Smoothies for Seniors With Swallowing Issues",
-    "description": "3 creamy, no-chew recipes with psyllium and ground flax — each delivers 4g soluble fiber per serving.",
-    "primaryKeyword": "cholesterol lowering smoothies for seniors with swallowing issues",
-    "topicCluster": "diet-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-20T08:51:50.850Z"
-  },
-  {
-    "title": "Does Magnesium Lower Cholesterol? What the Latest Studies Show",
-    "description": "Daily 350 mg doses lowered triglycerides by 18% and raised HDL by 6% in adults over 55.",
-    "primaryKeyword": "does magnesium lower cholesterol",
-    "topicCluster": "natural-remedies-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-20T08:51:53.142Z"
-  },
-  {
-    "title": "Best Time to Take Cholesterol Meds for Seniors Over 75",
-    "description": "Statins work best at bedtime — liver makes most cholesterol at night — learn why timing cuts side effects.",
-    "primaryKeyword": "best time to take cholesterol meds for seniors",
-    "topicCluster": "medication-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-20T08:51:55.417Z"
+    "createdAt": "2026-06-27T04:46:18.641Z",
+    "score": 28.25,
+    "scheduledWeek": "2026-W27",
+    "perplexityQuestions": [
+      "Is 197 LDL dangerous for a 26-year-old with no family history?",
+      "What ApoB level indicates high risk if my LDL is 206 but I'm slim?",
+      "Can high cholesterol at 42 be caused by something other than diet if I eat well and exercise?",
+      "Is a total cholesterol of 295 at age 30 a sign of familial hypercholesterolemia?",
+      "Should I get a coronary calcium scan if my LDL is over 200 and I have chest pain?"
+    ],
+    "competitorCoverage": "Top-ranking articles for adults over 35 focus on defining cholesterol numbers, explaining LDL vs HDL, listing dietary triggers (red meat, saturated fats), and outlining statin therapy guidelines. To compete, a new article must include specific ApoB and coronary calcium scan context, address non-dietary causes like hypothyroidism or genetics in slim individuals, and provide actionable questions for doctor consultations about early statin use."
   }
 ]

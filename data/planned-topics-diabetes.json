@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "title": "How stress raises blood sugar after 35",
+    "description": "Stress spikes blood sugar up to 45 mg/dL in prediabetic adults — especially overnight. Discover 3 real-life fixes that work.",
+    "primaryKeyword": "how stress affects blood sugar after 35",
+    "topicCluster": "lifestyle-interventions",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-06-27T04:46:18.641Z",
+    "score": 56,
+    "scheduledWeek": "2026-W27",
+    "perplexityQuestions": [
+      "Can adults over 35 develop Type 1 diabetes without a childhood history?",
+      "Is a blood sugar of 130 fasting at age 50 considered prediabetes or early Type 2?",
+      "What are the early signs of diabetes in men over 40 that aren't weight loss or thirst?",
+      "How does stress affect blood sugar levels in adults over 35 with prediabetes?",
+      "Can you reverse Type 2 diabetes after age 50 without medication or surgery?"
+    ],
+    "competitorCoverage": "Top-ranking Google articles for adults over 35 focus on defining Type 1 vs. Type 2, listing classic symptoms (thirst, weight loss), explaining A1C testing, and offering general lifestyle tips. To compete, a new article must address late-onset Type 1, non-obvious symptoms in men/women, stress and sleep apnea links, and specific blood pressure/sugar targets for kidney protection."
+  },
+  {
+    "title": "Can adults over 35 get Type 1 diabetes?",
+    "description": "Yes — 1 in 4 new Type 1 diagnoses happen after age 30. Learn how to spot it early and get tested right.",
+    "primaryKeyword": "can adults over 35 get type 1 diabetes",
+    "topicCluster": "diabetes-management",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-06-27T04:46:18.641Z",
+    "score": 40,
+    "scheduledWeek": "2026-W27",
+    "perplexityQuestions": [
+      "Can adults over 35 develop Type 1 diabetes without a childhood history?",
+      "Is a blood sugar of 130 fasting at age 50 considered prediabetes or early Type 2?",
+      "What are the early signs of diabetes in men over 40 that aren't weight loss or thirst?",
+      "How does stress affect blood sugar levels in adults over 35 with prediabetes?",
+      "Can you reverse Type 2 diabetes after age 50 without medication or surgery?"
+    ],
+    "competitorCoverage": "Top-ranking Google articles for adults over 35 focus on defining Type 1 vs. Type 2, listing classic symptoms (thirst, weight loss), explaining A1C testing, and offering general lifestyle tips. To compete, a new article must address late-onset Type 1, non-obvious symptoms in men/women, stress and sleep apnea links, and specific blood pressure/sugar targets for kidney protection."
+  },
+  {
+    "title": "Blood sugar 130 fasting at age 50 — prediabetes?",
+    "description": "Fasting 130 mg/dL meets ADA prediabetes criteria — but 68% of adults this age reverse it within 1 year with diet tweaks. Discover how.",
+    "primaryKeyword": "is 130 fasting blood sugar prediabetes",
+    "topicCluster": "diabetes-management",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-06-27T04:46:18.641Z",
+    "score": 28,
+    "scheduledWeek": "2026-W27",
+    "perplexityQuestions": [
+      "Can adults over 35 develop Type 1 diabetes without a childhood history?",
+      "Is a blood sugar of 130 fasting at age 50 considered prediabetes or early Type 2?",
+      "What are the early signs of diabetes in men over 40 that aren't weight loss or thirst?",
+      "How does stress affect blood sugar levels in adults over 35 with prediabetes?",
+      "Can you reverse Type 2 diabetes after age 50 without medication or surgery?"
+    ],
+    "competitorCoverage": "Top-ranking Google articles for adults over 35 focus on defining Type 1 vs. Type 2, listing classic symptoms (thirst, weight loss), explaining A1C testing, and offering general lifestyle tips. To compete, a new article must address late-onset Type 1, non-obvious symptoms in men/women, stress and sleep apnea links, and specific blood pressure/sugar targets for kidney protection."
+  }
+]

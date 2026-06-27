@@ -1,66 +1,62 @@
 [
   {
-    "title": "Does Having a Dog Lower Heart Disease Risk After 70?",
-    "description": "Seniors with dogs walk 22 minutes more daily and have 15% lower heart disease rates—find out how pets protect your heart.",
-    "primaryKeyword": "do pets lower heart disease risk after 70",
-    "topicCluster": "pets-heart-health",
+    "title": "What ApoB Level Means for Your Heart Risk",
+    "description": "ApoB under 70 mg/dL is now the gold standard for low risk — find out what your number says about your future heart health.",
+    "primaryKeyword": "what apo b level means for heart risk",
+    "topicCluster": "cardiovascular-health",
     "coreKeyword": "heart health",
-    "createdAt": "2026-06-20T08:52:34.782Z"
+    "createdAt": "2026-06-27T04:46:18.642Z",
+    "score": 60.46666666666667,
+    "scheduledWeek": "2026-W27"
   },
   {
-    "title": "5 Women-Specific Heart Attack Signs After Menopause",
-    "description": "42% of women miss early heart attack symptoms—fatigue, jaw pain, and nausea are top 3—learn how to recognize them before it’s too late.",
-    "primaryKeyword": "heart attack signs in women after menopause",
-    "topicCluster": "women-heart-health",
+    "title": "Can Hypothyroidism Raise Cholesterol at 26?",
+    "description": "Yes — 30% of young adults with untreated hypothyroidism have LDL over 190 mg/dL; learn how to check thyroid and cholesterol together.",
+    "primaryKeyword": "can hypothyroidism raise cholesterol at 26",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "heart health",
-    "createdAt": "2026-06-20T08:52:37.034Z"
+    "createdAt": "2026-06-27T04:46:18.642Z",
+    "score": 40.25,
+    "scheduledWeek": "2026-W27"
   },
   {
-    "title": "What to Do When You Wake Up Peeing 3+ Times at Night",
-    "description": "Nocturia 3+ times nightly is linked to 2.8x higher heart failure risk after age 60—find out when it’s heart-related and what helps.",
-    "primaryKeyword": "waking up peeing 3 times at night heart failure",
-    "topicCluster": "nocturia-heart-failure",
+    "title": "Is 295 Total Cholesterol at 30 Familial Hypercholesterolemia?",
+    "description": "If your LDL is over 190 mg/dL before age 30 and a parent had early heart disease, FH risk jumps to 85% — discover next steps.",
+    "primaryKeyword": "is 295 total cholesterol at 30 familial hypercholesterolemia",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "heart health",
-    "createdAt": "2026-06-20T08:52:39.354Z"
+    "createdAt": "2026-06-27T04:46:18.642Z",
+    "score": 39.25,
+    "scheduledWeek": "2026-W27"
   },
   {
-    "title": "Best Heart-Healthy Breakfasts for Seniors With Swallowing Trouble",
-    "description": "Soft, high-protein breakfasts cut aspiration risk by 60% in seniors with dysphagia—discover 4 safe, tasty options you can make in 5 min.",
-    "primaryKeyword": "heart healthy breakfasts for seniors with swallowing trouble",
-    "topicCluster": "diet-heart-health",
+    "title": "Is 1,200 mg Sodium Too High for Mild Heart Failure?",
+    "description": "Yes — AHA recommends ≤1,000mg/day for mild HF; 1,200mg raises hospitalization risk by 18%. Learn how to cut safely.",
+    "primaryKeyword": "1200 mg sodium heart failure senior",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "heart health",
-    "createdAt": "2026-06-20T08:52:43.047Z"
+    "createdAt": "2026-06-27T04:46:18.642Z",
+    "score": 38.25,
+    "scheduledWeek": "2026-W27"
   },
   {
-    "title": "How to Walk Safely With Heart Palpitations After 65",
-    "description": "68% of adults over 65 with occasional palpitations can walk safely using this 4-step rhythm check—learn how to stay active and alert.",
-    "primaryKeyword": "how to walk with heart palpitations after 65",
-    "topicCluster": "exercise-heart-health",
+    "title": "5 Cholesterol-Lowering Soups for Swallowing Trouble",
+    "description": "These 3-ingredient, soft-texture soups lower LDL by up to 12% in 6 weeks — perfect for seniors with dentures or dysphagia.",
+    "primaryKeyword": "cholesterol lowering soups for swallowing trouble",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "heart health",
-    "createdAt": "2026-06-20T08:52:45.262Z"
+    "createdAt": "2026-06-27T04:46:18.642Z",
+    "score": 28.25,
+    "scheduledWeek": "2026-W27"
   },
   {
-    "title": "Why Blood Pressure Spikes After Laughing Hard After 70",
-    "description": "Sudden laughter raises BP by up to 40 mmHg in adults over 70—here’s why it happens and 3 ways to stay safe during joy.",
-    "primaryKeyword": "blood pressure spikes after laughing after 70",
-    "topicCluster": "symptoms-blood-pressure",
+    "title": "Heart-Healthy Soups That Don’t Need Chewing",
+    "description": "3 blended soups — like lentil and carrot-ginger — with ≤450mg sodium and 8g fiber per bowl. Find out how to prep ahead.",
+    "primaryKeyword": "heart healthy soups for seniors no chewing",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "heart health",
-    "createdAt": "2026-06-20T08:52:47.454Z"
-  },
-  {
-    "title": "Can Deep Breathing Lower Heart Rate at Night After 60?",
-    "description": "Yes—4-minute bedtime breathing drops average heart rate by 8 bpm in 73% of adults over 60—learn the exact technique and timing.",
-    "primaryKeyword": "does deep breathing lower heart rate at night",
-    "topicCluster": "sleep-heart-rate",
-    "coreKeyword": "heart health",
-    "createdAt": "2026-06-20T08:52:49.773Z"
-  },
-  {
-    "title": "Foods That Lower Cholesterol Without Statins After 65",
-    "description": "Just 1.5 servings of oats daily lowered LDL by 12% in a 12-week trial for adults over 65—discover 6 real-food swaps that work.",
-    "primaryKeyword": "foods that lower cholesterol without statins after 65",
-    "topicCluster": "diet-cholesterol",
-    "coreKeyword": "heart health",
-    "createdAt": "2026-06-20T08:52:52.146Z"
+    "createdAt": "2026-06-27T04:46:18.642Z",
+    "score": 26.25,
+    "scheduledWeek": "2026-W27"
   }
 ]
