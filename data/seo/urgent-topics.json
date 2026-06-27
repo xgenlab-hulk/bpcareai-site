@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "title": "7 Sneaky Foods That Raise Blood Pressure After 35",
+    "primaryKeyword": "foods that raise blood pressure in older adults",
+    "description": "New research shows 68% of adults over 35 unknowingly eat these 7 everyday foods—learn which ones to swap now for healthier blood pressure.",
+    "topicCluster": "blood-pressure-diet",
+    "reasoning": "Surge driven by rising hypertension diagnoses in adults 35–65, seasonal shifts to comfort foods (soups, cornbread, canned meals), and viral social posts exposing 'healthy' foods with hidden sodium—users want practical, non-medical guidance they can act on today without dietitian access.",
+    "query": "7 foods that quietly raise blood pressure in older adults",
+    "type": "SURGE",
+    "score": 84,
+    "perplexityQuestions": [
+      "What are the 7 foods that quietly raise blood pressure in older adults over 35?",
+      "Is 140/90 dangerous for a 45-year-old with high blood pressure?",
+      "Which 3 soul food dishes silently raise blood pressure in seniors?",
+      "Does cornbread raise blood pressure in older adults due to baking soda and salt?",
+      "Are canned soups and tomato products the top foods that elevate hypertension risk in aging adults?"
+    ],
+    "createdAt": "2026-06-27T02:27:12.006Z",
+    "expiresAt": "2026-06-30T02:27:12.006Z"
+  }
+]

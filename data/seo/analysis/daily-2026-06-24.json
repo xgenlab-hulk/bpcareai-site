@@ -1,0 +1,37 @@
+{
+  "date": "2026-06-24",
+  "period": "3-day",
+  "impressionsChange": 213.55599214145383,
+  "clicksChange": 3.7037037037036904,
+  "newQueries": [],
+  "risingQueries": [
+    {
+      "query": "7 foods that quietly raise blood pressure in older adults",
+      "recentImpressions": 12,
+      "baselineImpressions": 20,
+      "changeRatio": 5.6
+    }
+  ],
+  "alerts": [
+    {
+      "type": "SURGE",
+      "query": "7 foods that quietly raise blood pressure in older adults",
+      "reason": "展示量激增 5.6x（近3天日均4.0 vs 基线0.7）",
+      "score": 84,
+      "recentImpressions": 12,
+      "baselineImpressions": 20,
+      "recentPosition": 7.25,
+      "baselinePosition": 7.55
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "apple cider vinegar ldl cholesterol",
+      "reason": "排名跃升 22.0 位（65.0 → 43.0）",
+      "score": 66,
+      "recentImpressions": 1,
+      "baselineImpressions": 2,
+      "recentPosition": 43,
+      "baselinePosition": 65
+    }
+  ]
+}

@@ -1,0 +1,841 @@
+{
+  "date": "2026-06-24",
+  "fetchedAt": "2026-06-27T02:27:03.333Z",
+  "queries": [
+    {
+      "query": "bp rating ai",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "7 foods that quietly raise blood pressure in older adults",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "apple cider vinegar and cholesterol lowering",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 100
+    },
+    {
+      "query": "apple cider vinegar ldl cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 43
+    },
+    {
+      "query": "apple cider vinegar lower cholesterol naturally",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 99
+    },
+    {
+      "query": "arrhythmia due to stress",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 81
+    },
+    {
+      "query": "blood pressure heat",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 73
+    },
+    {
+      "query": "blood pressure morning evening",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 83
+    },
+    {
+      "query": "bp care",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "bp cares",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "bpcare",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "can coconut water lower blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 94
+    },
+    {
+      "query": "can nose spray cause high blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 79
+    },
+    {
+      "query": "can saline nasal spray raise blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 85
+    },
+    {
+      "query": "can vinegar lower your cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 78
+    },
+    {
+      "query": "can you take magnesium with entresto",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 40.25
+    },
+    {
+      "query": "cardiac variability",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 81
+    },
+    {
+      "query": "carpal tunnel syndrome lower back pain irregular heartbeat",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 68
+    },
+    {
+      "query": "carpal tunnel syndrome shortness of breath lower back pain irregular heartbeat",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 73
+    },
+    {
+      "query": "cholesterol red wine",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 78
+    },
+    {
+      "query": "cholesterol vinegar",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 63
+    },
+    {
+      "query": "coconut water for blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 95
+    },
+    {
+      "query": "coconut water heart palpitations",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 53
+    },
+    {
+      "query": "diabetes hungry at night",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 53
+    },
+    {
+      "query": "diabetic cardiomyopathy symptoms",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 55
+    },
+    {
+      "query": "does acv help lower cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 74
+    },
+    {
+      "query": "does apple cider vinegar help reduce cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 100
+    },
+    {
+      "query": "does apple cider vinegar lower bad cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 100
+    },
+    {
+      "query": "does apple cider vinegar lower ldl cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 55
+    },
+    {
+      "query": "does body temperature affect blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 89
+    },
+    {
+      "query": "does coconut water raise blood pressure",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 79
+    },
+    {
+      "query": "does coconut water reduce high blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 99
+    },
+    {
+      "query": "does drinking red wine lower cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 100
+    },
+    {
+      "query": "does heat increase blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 81
+    },
+    {
+      "query": "does high temperature affect blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 92
+    },
+    {
+      "query": "does nasal spray increase blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 97
+    },
+    {
+      "query": "does red wine increase triglycerides",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 81
+    },
+    {
+      "query": "does red wine lower bad cholesterol",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 83.5
+    },
+    {
+      "query": "does red wine lower ldl",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 87
+    },
+    {
+      "query": "does red wine lower ldl cholesterol",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 77
+    },
+    {
+      "query": "does red wine lower triglycerides",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 91
+    },
+    {
+      "query": "does red wine lower your cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 84
+    },
+    {
+      "query": "does red wine raise hdl",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 95
+    },
+    {
+      "query": "does red wine raise your cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 88
+    },
+    {
+      "query": "does vinegar lower your cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 75
+    },
+    {
+      "query": "does wine increase cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 82
+    },
+    {
+      "query": "early morning cortisol level",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 83
+    },
+    {
+      "query": "heart rate and heart rate variability",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 87.4
+    },
+    {
+      "query": "heat blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 67
+    },
+    {
+      "query": "heat effect on blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 90
+    },
+    {
+      "query": "heat lowers blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 72
+    },
+    {
+      "query": "how does temperature affect blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 90
+    },
+    {
+      "query": "is apple cider good for cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 74
+    },
+    {
+      "query": "is coconut milk a diuretic",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 90
+    },
+    {
+      "query": "is red wine bad for cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 99
+    },
+    {
+      "query": "is red wine good for high cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 97
+    },
+    {
+      "query": "is red wine good to lower cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 94
+    },
+    {
+      "query": "low blood pressure brain fog",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 75
+    },
+    {
+      "query": "oxymetazoline blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 71
+    },
+    {
+      "query": "oxymetazoline high blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 72
+    },
+    {
+      "query": "red wine and hdl",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 81
+    },
+    {
+      "query": "red wine for high cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 94
+    },
+    {
+      "query": "red wine for lowering cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 88
+    },
+    {
+      "query": "red wine hdl",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 82
+    },
+    {
+      "query": "red wine that lowers cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 94
+    },
+    {
+      "query": "red wine to lower cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 91
+    },
+    {
+      "query": "red wine to reduce cholesterol",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 95
+    },
+    {
+      "query": "shortness of breath carpal tunnel syndrome irregular heartbeat",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 89
+    },
+    {
+      "query": "stevia and chronic kidney disease",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 89
+    },
+    {
+      "query": "stevia kidney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 78
+    },
+    {
+      "query": "stress and arrhythmia",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 73.5
+    },
+    {
+      "query": "stress arrhythmia",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 82
+    },
+    {
+      "query": "varying heart rate",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 75
+    },
+    {
+      "query": "waking up hungry diabetes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 47
+    },
+    {
+      "query": "will red wine lower cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 92
+    },
+    {
+      "query": "wine high cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 78
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 4.454545454545455
+    },
+    {
+      "page": "https://bpcareai.com/articles/blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-complete-guide-to-managing-diabetes-during-a-heatwave-for-adults-70-with-diabetic-nephropathy-and-reduced-thirst-drive",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 15
+    },
+    {
+      "page": "https://bpcareai.com/articles/air-fryer-oxidized-cholesterol-coronary-calcification",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://bpcareai.com/articles/blood-pressure-meds-heat-seniors",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 9.333333333333334
+    },
+    {
+      "page": "https://bpcareai.com/articles/heart-rate-variability-explained",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 84.875
+    },
+    {
+      "page": "https://bpcareai.com/articles/home-blood-pressure-cuff-afib-algorithm-errors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-indoor-humidity-levels-below-30-during-heated-winters-increase-coronary-vasospasm-risk-in-women-over-64-with-migraine-history",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 63
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-social-eating-norms-at-holiday-gatherings-like-just-one-bite-pressure-predict-3-month-hba1c-deterioration-in-newly-diagnosed-adults-53-64",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 5.666666666666667
+    },
+    {
+      "page": "https://bpcareai.com/articles/morning-vs-evening-exercise-nocturnal-hypertension",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 83
+    },
+    {
+      "page": "https://bpcareai.com/articles/soups-lower-blood-pressure-winter",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 43.473684210526315
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/7-holiday-foods-that-trigger-silent-blood-pressure-spikes-in-adults-72-with-isolated-systolic-hypertension-and-what-to-serve-instead",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/a-vs-b-gluten-free-holiday-cookies-vs-low-glycemic-oat-based-bars-for-post-meal-glucose-stability-in-adults-71-with-celiac-associated-diabetes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/apple-cider-vinegar-cholesterol-after-55",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 78.27272727272727
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/apple-cider-vs-chai-for-afib",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/best-high-fiber-low-fodmap-holiday-sides-for-women-68-with-ibs-c-and-postmenopausal-constipation",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/blood-pressure-rises-hot-bath-over-75",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6.5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/can-intermittent-fasting-worsen-autonomic-neuropathy-in-adults-71-with-long-term-type-2-diabetes-and-orthostatic-tachycardia",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/collard-greens-endothelial-function-comparison",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/dangers-of-using-heart-healthy-coconut-water-electrolyte-drinks-during-hot-weather-for-adults-with-hfpef-and-egfr-45-59",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 61.2
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/food-recognition-macular-degeneration",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 9.666666666666666
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/how-chronic-constipation-alters-vagal-tone-and-triggers-nocturnal-st-segment-variability-in-adults-61-with-known-vasovagal-syncope-history",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/how-chronic-nighttime-cough-from-untreated-gerd-triggers-nocturnal-atrial-fibrillation-in-men-70-with-mild-copd",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 20
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/lipoprotein-a-test-family-history",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 7.75
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/nasal-decongestants-and-carotid-sinus-sensitivity",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/nasal-decongestants-and-pulse-pressure-in-asthma",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 80.8
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/red-wine-cholesterol-after-55",
+      "clicks": 0,
+      "impressions": 29,
+      "ctr": 0,
+      "position": 87.27586206896552
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/sudden-nighttime-hunger-diabetes-diagnosis",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 57.666666666666664
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/sugar-free-candies-and-gastroparesis",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/tea-stevia-citric-acid-renal-sodium-reabsorption",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 44.5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/the-truth-about-no-sugar-added-protein-bars-for-men-69-with-diabetic-gastroparesis-and-early-autonomic-neuropathy",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 9.5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/transdermal-magnesium-sacubitril-valsartan",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 29.166666666666668
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/vns-vs-tart-cherry-juice-nocturnal-afib",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/warning-signs-your-stable-diabetes-is-masking-early-diabetic-cardiomyopathy-even-with-normal-ejection-fraction-and-no-symptoms-in-adults-59-68",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 55
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/what-are-the-earliest-signs-your-morning-cortisol-rhythm-is-driving-insulin-resistance-even-with-normal-a1c-in-adults-55-64",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 83
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/when-to-suspect-cardiac-amyloidosis-before-diastolic-dysfunction-appears-red-flags-in-adults-79-with-carpal-tunnel-and-unexplained-weight-loss",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 76.66666666666667
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/when-to-worry-about-asymptomatic-diastolic-dysfunction-on-echo-especially-if-you-re-67-with-normal-lvef-hypertension-and-elevated-nt-probnp",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 51
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/when-to-worry-about-holiday-induced-brain-fog-after-eating-especially-with-concurrent-ace-inhibitor-use-and-orthostatic-hypotension-in-adults-67",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 75
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/when-to-worry-about-just-tired-after-stair-climbing-in-men-60-67-with-untreated-mild-obstructive-sleep-apnea-and-normal-ejection-fraction",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 8.5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/why-emotional-stress-at-family-gatherings-raises-heart-arrhythmia-risk",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 81.6
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/why-your-blood-pressure-dips-too-much-after-walking-not-just-normal-recovery-in-adults-74-with-early-cardiac-amyloidosis",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10
+    }
+  ],
+  "summary": {
+    "totalQueries": 76,
+    "totalImpressions": 95,
+    "totalClicks": 1,
+    "avgPosition": 70.70526315789473,
+    "pagesWithImpressions": 42
+  }
+}
