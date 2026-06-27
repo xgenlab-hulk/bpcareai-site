@@ -1,23 +1,5 @@
 [
   {
-    "title": "How stress raises blood sugar after 35",
-    "description": "Stress spikes blood sugar up to 45 mg/dL in prediabetic adults — especially overnight. Discover 3 real-life fixes that work.",
-    "primaryKeyword": "how stress affects blood sugar after 35",
-    "topicCluster": "lifestyle-interventions",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-06-27T04:46:18.641Z",
-    "score": 56,
-    "scheduledWeek": "2026-W27",
-    "perplexityQuestions": [
-      "Can adults over 35 develop Type 1 diabetes without a childhood history?",
-      "Is a blood sugar of 130 fasting at age 50 considered prediabetes or early Type 2?",
-      "What are the early signs of diabetes in men over 40 that aren't weight loss or thirst?",
-      "How does stress affect blood sugar levels in adults over 35 with prediabetes?",
-      "Can you reverse Type 2 diabetes after age 50 without medication or surgery?"
-    ],
-    "competitorCoverage": "Top-ranking Google articles for adults over 35 focus on defining Type 1 vs. Type 2, listing classic symptoms (thirst, weight loss), explaining A1C testing, and offering general lifestyle tips. To compete, a new article must address late-onset Type 1, non-obvious symptoms in men/women, stress and sleep apnea links, and specific blood pressure/sugar targets for kidney protection."
-  },
-  {
     "title": "Can adults over 35 get Type 1 diabetes?",
     "description": "Yes — 1 in 4 new Type 1 diagnoses happen after age 30. Learn how to spot it early and get tested right.",
     "primaryKeyword": "can adults over 35 get type 1 diabetes",
@@ -52,5 +34,85 @@
       "Can you reverse Type 2 diabetes after age 50 without medication or surgery?"
     ],
     "competitorCoverage": "Top-ranking Google articles for adults over 35 focus on defining Type 1 vs. Type 2, listing classic symptoms (thirst, weight loss), explaining A1C testing, and offering general lifestyle tips. To compete, a new article must address late-onset Type 1, non-obvious symptoms in men/women, stress and sleep apnea links, and specific blood pressure/sugar targets for kidney protection."
+  },
+  {
+    "title": "5 Foods That Lower Blood Sugar at Night",
+    "description": "Eat these before bed to keep morning numbers under 110 mg/dL — learn how to choose wisely.",
+    "primaryKeyword": "foods that lower blood sugar at night",
+    "topicCluster": "diet-blood-sugar",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-06-27T08:34:58.362Z"
+  },
+  {
+    "title": "How to Check Blood Sugar Without Pricking Finger",
+    "description": "New non-invasive monitors work for 70% of seniors with arthritis — find out which ones are covered by Medicare.",
+    "primaryKeyword": "check blood sugar without pricking finger",
+    "topicCluster": "blood-sugar-monitoring",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-06-27T08:35:00.823Z"
+  },
+  {
+    "title": "Metformin Timing With Meals After 65",
+    "description": "Taking it 30 minutes before dinner cuts GI side effects by 42% — discover the safest daily schedule.",
+    "primaryKeyword": "metformin timing with meals after 65",
+    "topicCluster": "medication-management",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-06-27T08:35:03.239Z"
+  },
+  {
+    "title": "Warning Signs of Diabetes Foot Problems After 60",
+    "description": "Numbness + one blister that won’t heal = 3x higher amputation risk — learn how to spot trouble early.",
+    "primaryKeyword": "diabetes foot problems after 60",
+    "topicCluster": "symptoms-complications",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-06-27T08:35:05.677Z"
+  },
+  {
+    "title": "Best Walking Routine for Seniors With Neuropathy",
+    "description": "12-minute sessions, 3x/week reduce pain flare-ups by 28% — discover safe, joint-friendly steps.",
+    "primaryKeyword": "walking routine for seniors with neuropathy",
+    "topicCluster": "exercise-blood-sugar",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-06-27T08:35:08.189Z"
+  },
+  {
+    "title": "Does Apple Cider Vinegar Really Lower Blood Sugar?",
+    "description": "Studies show 1 tsp before meals lowers post-dinner spikes by 14% — find out how to use it safely.",
+    "primaryKeyword": "does apple cider vinegar lower blood sugar",
+    "topicCluster": "diet-blood-sugar",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-06-27T08:35:10.625Z"
+  },
+  {
+    "title": "Blood Sugar Targets for 80-Year-Olds With Dementia",
+    "description": "A1C under 8.0% cuts hospital visits by 31% — learn why tighter goals can be risky at this age.",
+    "primaryKeyword": "blood sugar targets for 80 year olds",
+    "topicCluster": "hba1c-targets-elderly",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-06-27T08:35:13.224Z"
+  },
+  {
+    "title": "What to Do When Blood Sugar Drops at Night After 70",
+    "description": "If it’s below 70 mg/dL while sleeping, 15g fast-acting carbs helps — discover the safest bedtime snack.",
+    "primaryKeyword": "blood sugar drops at night after 70",
+    "topicCluster": "symptoms-complications",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-06-27T08:35:15.712Z"
+  },
+  {
+    "title": "Best Breakfast Foods for Seniors With Gastroparesis and Diabetes",
+    "description": "Soft, low-fat, low-fiber options raise blood sugar slower than oatmeal — learn 4 safe morning meals.",
+    "primaryKeyword": "breakfast foods for gastroparesis and diabetes",
+    "topicCluster": "diet-blood-sugar",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-06-27T08:35:18.149Z"
+  },
+  {
+    "title": "How Often to Test Blood Sugar With Type 2 After 75",
+    "description": "Once daily is enough for 63% of stable seniors on no insulin — find out if you’re in that group.",
+    "primaryKeyword": "how often test blood sugar after 75",
+    "topicCluster": "blood-sugar-monitoring",
+    "coreKeyword": "diabetes",
+    "createdAt": "2026-06-27T08:35:20.580Z"
   }
 ]
