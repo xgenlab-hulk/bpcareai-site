@@ -1,0 +1,47 @@
+{
+  "date": "2026-06-25",
+  "period": "3-day",
+  "impressionsChange": 199.93698802772525,
+  "clicksChange": 3.7037037037036904,
+  "newQueries": [],
+  "risingQueries": [
+    {
+      "query": "7 foods that quietly raise blood pressure in older adults",
+      "recentImpressions": 11,
+      "baselineImpressions": 24,
+      "changeRatio": 4.277777777777778
+    }
+  ],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "apple cider vinegar ldl cholesterol",
+      "reason": "排名跃升 22.0 位（65.0 → 43.0）",
+      "score": 66,
+      "recentImpressions": 1,
+      "baselineImpressions": 2,
+      "recentPosition": 43,
+      "baselinePosition": 65
+    },
+    {
+      "type": "SURGE",
+      "query": "7 foods that quietly raise blood pressure in older adults",
+      "reason": "展示量激增 4.3x（近3天日均3.7 vs 基线0.9）",
+      "score": 64.16666666666667,
+      "recentImpressions": 11,
+      "baselineImpressions": 24,
+      "recentPosition": 8.272727272727273,
+      "baselinePosition": 7.833333333333333
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "can heat cause hypertension",
+      "reason": "排名跃升 11.5 位（79.5 → 68.0）",
+      "score": 34.5,
+      "recentImpressions": 1,
+      "baselineImpressions": 2,
+      "recentPosition": 68,
+      "baselinePosition": 79.5
+    }
+  ]
+}
