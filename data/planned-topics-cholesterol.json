@@ -1,23 +1,5 @@
 [
   {
-    "title": "What to Ask Your Doctor About Statins at 43",
-    "description": "7 essential questions — including 'When should I start?' and 'What’s my 10-year ApoB goal?' — to get personalized, early statin advice.",
-    "primaryKeyword": "what to ask doctor about statins at 43",
-    "topicCluster": "medication-age-specific",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-06-27T04:46:18.641Z",
-    "score": 48,
-    "scheduledWeek": "2026-W27",
-    "perplexityQuestions": [
-      "Is 197 LDL dangerous for a 26-year-old with no family history?",
-      "What ApoB level indicates high risk if my LDL is 206 but I'm slim?",
-      "Can high cholesterol at 42 be caused by something other than diet if I eat well and exercise?",
-      "Is a total cholesterol of 295 at age 30 a sign of familial hypercholesterolemia?",
-      "Should I get a coronary calcium scan if my LDL is over 200 and I have chest pain?"
-    ],
-    "competitorCoverage": "Top-ranking articles for adults over 35 focus on defining cholesterol numbers, explaining LDL vs HDL, listing dietary triggers (red meat, saturated fats), and outlining statin therapy guidelines. To compete, a new article must include specific ApoB and coronary calcium scan context, address non-dietary causes like hypothyroidism or genetics in slim individuals, and provide actionable questions for doctor consultations about early statin use."
-  },
-  {
     "title": "Should You Get a Calcium Scan With LDL Over 200?",
     "description": "New guidelines recommend coronary calcium scans for LDL ≥200 mg/dL *even with no symptoms* — find out if it’s right for you.",
     "primaryKeyword": "should i get calcium scan with ldl over 200",
