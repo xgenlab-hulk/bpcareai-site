@@ -1,24 +1,21 @@
 ---
-title: >-
-  Can You Drink Alcohol With Type 2 Diabetes After 35?
+title: Can You Drink Alcohol With Type 2 Diabetes After 35?
 slug: alcohol-type-2-diabetes-after-35
 description: >-
-  Yes—most adults 35+ with type 2 diabetes can drink *in strict moderation*: up to 1 drink/day (women) or 2 (men).
+  Yes—most adults 35+ with type 2 diabetes can drink *in strict moderation*: up
+  to 1 drink/day (women) or 2 (men).
 date: '2026-04-30'
 updated: '2026-04-30'
-primaryKeyword: >-
-  can you drink alcohol with type 2 diabetes after 35
+primaryKeyword: can you drink alcohol with type 2 diabetes after 35
 topicCluster: diabetes-management
 image: ''
 relatedSlugs:
-  - >-
-    best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
-  - >-
-    how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
-  - >-
-    can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
+  - best-blood-sugar-friendly-holiday-drinks-for-diabetics-over-65
+  - how-to-balance-indulgence-and-control-at-holiday-parties-with-diabetes
+  - can-alcohol-raise-blood-sugar-during-new-year-s-eve-what-you-need-to-know
   - >-
     how-intermittent-fasting-alters-hepatic-cyp2e1-expression-and-why-that-changes-alcohol-metabolism-in-adults-69-with-well-controlled-type-2-diabetes
+  - adults-over-35-type-1-diabetes
 ---
 
 # Can You Drink Alcohol With Type 2 Diabetes After 35?

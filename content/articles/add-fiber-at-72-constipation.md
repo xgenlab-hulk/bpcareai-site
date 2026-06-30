@@ -1,22 +1,20 @@
 ---
-title: >-
-  Easy Ways to Add Fiber at 72 With Constipation — Gentle & Effective
+title: Easy Ways to Add Fiber at 72 With Constipation — Gentle & Effective
 slug: add-fiber-at-72-constipation
 description: >-
-  Easy ways to add fiber at 72 with constipation: Start with +2–3g/day + 6+ cups water—68% fewer straining episodes in 3 weeks (ACG 2022).
+  Easy ways to add fiber at 72 with constipation: Start with +2–3g/day + 6+ cups
+  water—68% fewer straining episodes in 3 weeks (ACG 2022).
 date: '2026-05-04'
 updated: '2026-05-04'
-primaryKeyword: >-
-  easy ways to add fiber at 72 with constipation
+primaryKeyword: easy ways to add fiber at 72 with constipation
 topicCluster: nutrition-diet-management
 image: ''
 relatedSlugs:
-  - >-
-    increase-fiber-without-bloating-over-80
-  - >-
-    30g-fiber-safe-after-65
+  - increase-fiber-without-bloating-over-80
+  - 30g-fiber-safe-after-65
   - >-
     how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors
+  - how-much-fiber-for-68-year-old-woman
 ---
 
 # Easy Ways to Add Fiber at 72 With Constipation — Gentle & Effective
