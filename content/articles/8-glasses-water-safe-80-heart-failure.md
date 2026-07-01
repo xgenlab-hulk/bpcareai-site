@@ -15,6 +15,7 @@ relatedSlugs:
   - >-
     dangers-of-using-heart-healthy-coconut-water-electrolyte-drinks-during-hot-weather-for-adults-with-hfpef-and-egfr-45-59
   - swimming-safe-seniors-heart-conditions
+  - 1200-mg-sodium-heart-failure-seniors
 ---
 
 # Is 8 Glasses of Water Safe at 80 With Heart Failure?
