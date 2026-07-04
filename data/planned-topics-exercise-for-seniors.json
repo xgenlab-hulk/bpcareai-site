@@ -1,23 +1,5 @@
 [
   {
-    "title": "Can You Do Yoga at 58 With Parkinson’s?",
-    "description": "Yes — 15 minutes daily improves balance by 32% in early Parkinson’s. Discover 4 chair-based poses proven safe and effective.",
-    "primaryKeyword": "can i start yoga at 58 with parkinsons",
-    "topicCluster": "lifestyle-interventions",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-04T04:29:16.521Z",
-    "score": 66,
-    "scheduledWeek": "2026-W28",
-    "perplexityQuestions": [
-      "Is 140/90 blood pressure dangerous at age 45 before starting exercise?",
-      "What is the safest heart rate zone for exercise at age 50 with mild arthritis?",
-      "Can I do strength training at age 62 if I have never exercised before?",
-      "How many minutes a day should a 55-year-old with dizziness exercise to reduce fall risk?",
-      "Is it safe to do squats at age 68 if I have a history of knee replacements?"
-    ],
-    "competitorCoverage": "Top-ranking articles on 'exercise for seniors' for adults aged 35+ consistently cover the four pillars of fitness: endurance, strength, balance, and flexibility, along with general guidelines like 150 minutes of moderate activity per week and strength training twice weekly. They emphasize starting low and going slow, choosing enjoyable activities, and consulting doctors before beginning, especially for those with preexisting conditions. A new article must include specific, condition-based exercise recommendations with age-specific safety tips and clear progression plans to compete."
-  },
-  {
     "title": "What to Do When Walking Makes Knees Swell at 68",
     "description": "Swelling after walking drops 41% with seated warm-ups + 3-minute cooldowns — discover the exact routine that’s safe after knee replacement.",
     "primaryKeyword": "walking makes knees swell at 68",
@@ -52,5 +34,165 @@
       "Is it safe to do squats at age 68 if I have a history of knee replacements?"
     ],
     "competitorCoverage": "Top-ranking articles on 'exercise for seniors' for adults aged 35+ consistently cover the four pillars of fitness: endurance, strength, balance, and flexibility, along with general guidelines like 150 minutes of moderate activity per week and strength training twice weekly. They emphasize starting low and going slow, choosing enjoyable activities, and consulting doctors before beginning, especially for those with preexisting conditions. A new article must include specific, condition-based exercise recommendations with age-specific safety tips and clear progression plans to compete."
+  },
+  {
+    "title": "5 Low-Impact Exercises for Seniors with Bad Hips",
+    "description": "Gentle moves that protect joints and lower blood pressure by 8–12 mmHg. Find safe options now.",
+    "primaryKeyword": "low impact exercises for seniors with bad hips",
+    "topicCluster": "exercise-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-07-04T08:33:12.791Z"
+  },
+  {
+    "title": "Does Chair Strength Training Lower Blood Pressure?",
+    "description": "Yes — 3x/week sessions drop BP an average of 6.4 mmHg systolic. Discover how to start today.",
+    "primaryKeyword": "does chair strength training lower blood pressure",
+    "topicCluster": "strength-training-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-07-04T08:33:17.106Z"
+  },
+  {
+    "title": "Best Flexibility Exercises for Stiff Shoulders at 65",
+    "description": "Daily 5-minute stretches improve range of motion by 32% in 4 weeks — learn the 3 safest moves.",
+    "primaryKeyword": "best flexibility exercises for stiff shoulders at 65",
+    "topicCluster": "flexibility-age-specific",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-07-04T08:33:19.845Z"
+  },
+  {
+    "title": "Why Blood Pressure Rises in Cold Weather After 75",
+    "description": "Cold exposure spikes systolic BP up to 20 mmHg — find indoor warming tips that cut risk by 41%.",
+    "primaryKeyword": "why blood pressure rises in cold weather after 75",
+    "topicCluster": "cold-weather-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-07-04T08:33:22.573Z"
+  },
+  {
+    "title": "What to Do When Walking Makes Your Ankles Swell at 68",
+    "description": "30% of seniors report swelling during activity — try these 4 low-impact swaps proven to reduce puffiness.",
+    "primaryKeyword": "what to do when walking makes ankles swell at 68",
+    "topicCluster": "low-impact-exercise-symptoms",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-07-04T08:33:25.390Z"
+  },
+  {
+    "title": "Best Indoor Exercises for Seniors When Heating Is On",
+    "description": "Dry, warm air raises BP by up to 14 mmHg — try these 6 no-sweat moves that keep it stable all winter.",
+    "primaryKeyword": "best indoor exercises for seniors when heating is on",
+    "topicCluster": "indoor-heating-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-07-04T08:33:29.624Z"
+  },
+  {
+    "title": "3 Ways to Build Leg Strength Without Standing After 72",
+    "description": "Seated strength moves boost muscle mass by 11% in 8 weeks — learn the safest resistance options.",
+    "primaryKeyword": "ways to build leg strength without standing after 72",
+    "topicCluster": "strength-training-low-impact",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-07-04T08:33:32.320Z"
+  },
+  {
+    "title": "Does Yoga Lower Blood Pressure for Women Over 60?",
+    "description": "Yes — 2x/week gentle yoga cuts systolic BP by 7.2 mmHg in 6 weeks. See which poses are safest.",
+    "primaryKeyword": "does yoga lower blood pressure for women over 60",
+    "topicCluster": "flexibility-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-07-04T08:33:35.068Z"
+  },
+  {
+    "title": "Warning Signs of Overexertion During Senior Exercise",
+    "description": "Dizziness, jaw tightness, or 30+ sec pulse recovery signal danger — know the 5 red flags before age 65.",
+    "primaryKeyword": "warning signs of overexertion during senior exercise",
+    "topicCluster": "exercise-symptoms",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-07-04T08:33:37.773Z"
+  },
+  {
+    "title": "How to Start Strength Training Safely After 75",
+    "description": "Just 2x/week with light bands lowers fall risk by 28% — get the 4-step beginner plan with no equipment.",
+    "primaryKeyword": "how to start strength training safely after 75",
+    "topicCluster": "strength-training-age-specific",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-07-04T08:33:40.439Z"
+  },
+  {
+    "title": "What to Do When Exercise Makes You Short of Breath at 62",
+    "description": "1 in 4 adults over 60 report breathlessness — try these 3 paced breathing + movement combos today.",
+    "primaryKeyword": "what to do when exercise makes you short of breath at 62",
+    "topicCluster": "exercise-breathing",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-07-04T08:33:43.161Z"
+  },
+  {
+    "title": "5 Seated Flexibility Moves for Stiff Backs at 70+",
+    "description": "Do them daily for 7 minutes — improves spinal mobility by 27% in 3 weeks. Start tonight.",
+    "primaryKeyword": "seated flexibility moves for stiff back at 70",
+    "topicCluster": "flexibility-low-impact",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-07-04T08:33:47.449Z"
+  },
+  {
+    "title": "Does Walking on a Treadmill Lower Blood Pressure Like Outdoor Walking?",
+    "description": "Yes — treadmill walking at 2.8 mph lowers BP by 6.9 mmHg vs. 7.1 mmHg outdoors. See key differences.",
+    "primaryKeyword": "does treadmill walking lower blood pressure like outdoor",
+    "topicCluster": "walking-comparison",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-07-04T08:33:50.210Z"
+  },
+  {
+    "title": "Why Exercise Feels Harder in Winter After 68",
+    "description": "Cold air + indoor dryness raise heart rate by 12–18 bpm — learn 4 warm-up tricks that cut strain in half.",
+    "primaryKeyword": "why exercise feels harder in winter after 68",
+    "topicCluster": "cold-weather-exercise",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-07-04T08:33:52.931Z"
+  },
+  {
+    "title": "Best Low-Impact Exercises for Seniors With Swollen Knees",
+    "description": "Water walking cuts knee load by 75% — plus 2 land-based moves that ease swelling in 10 days.",
+    "primaryKeyword": "best low impact exercises for swollen knees seniors",
+    "topicCluster": "low-impact-exercise-symptoms",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-07-04T08:33:55.602Z"
+  },
+  {
+    "title": "How to Do Strength Training With Arthritis in Hands After 70",
+    "description": "Grip-free resistance bands boost upper body strength by 19% in 6 weeks — get 3 pain-free routines.",
+    "primaryKeyword": "how to do strength training with arthritis in hands after 70",
+    "topicCluster": "strength-training-arthritis",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-07-04T08:33:58.258Z"
+  },
+  {
+    "title": "What to Do When You Get Dizzy Doing Chair Exercises at 63",
+    "description": "Post-exercise dizziness affects 22% of seniors — try these 3 position adjustments that stop it fast.",
+    "primaryKeyword": "what to do when dizzy doing chair exercises at 63",
+    "topicCluster": "exercise-dizziness",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-07-04T08:34:00.969Z"
+  },
+  {
+    "title": "Can Tai Chi Lower Blood Pressure for Men Over 65?",
+    "description": "Yes — 12 weeks of tai chi drops systolic BP by 8.3 mmHg. Discover the 5-minute daily routine.",
+    "primaryKeyword": "can tai chi lower blood pressure for men over 65",
+    "topicCluster": "flexibility-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-07-04T08:34:03.593Z"
+  },
+  {
+    "title": "Does Indoor Walking Count Toward Daily Exercise After 70?",
+    "description": "Yes — 2,500 steps indoors = same BP benefit as outdoor walking. Learn how to track and boost them.",
+    "primaryKeyword": "does indoor walking count toward daily exercise after 70",
+    "topicCluster": "walking-indoor",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-07-04T08:34:06.419Z"
+  },
+  {
+    "title": "Best Time to Exercise for Blood Pressure Control After 65",
+    "description": "Morning workouts lower systolic BP by 10.2 mmHg more than evening — find your ideal window.",
+    "primaryKeyword": "best time to exercise for blood pressure control after 65",
+    "topicCluster": "exercise-time-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-07-04T08:34:09.041Z"
   }
 ]

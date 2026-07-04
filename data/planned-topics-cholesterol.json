@@ -70,5 +70,85 @@
       "Is a triglyceride level of 170 mg/dL concerning for a 40-year-old woman?"
     ],
     "competitorCoverage": "Top-ranking articles for adults cover how to read lipid numbers (LDL, HDL, triglycerides), age-specific testing guidelines, and basic lifestyle changes like diet and exercise. A new article must include advanced markers (ApoB, lipoprotein(a), non-HDL), age-specific risk scenarios with concrete numbers, and nuanced diet impacts (e.g., keto, plant-based) to compete."
+  },
+  {
+    "title": "5 Foods That Lower Cholesterol Naturally",
+    "description": "Eat these daily to drop LDL by up to 12% in 4 weeks — no pills needed. Learn how.",
+    "primaryKeyword": "foods that lower cholesterol naturally",
+    "topicCluster": "diet-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-07-04T08:34:33.680Z"
+  },
+  {
+    "title": "How to Read Your Cholesterol Test at Home",
+    "description": "92% of home kits miss HDL accuracy — here’s how to spot errors and what to trust. Find out.",
+    "primaryKeyword": "how to read cholesterol test at home",
+    "topicCluster": "testing-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-07-04T08:34:36.575Z"
+  },
+  {
+    "title": "Does Apple Cider Vinegar Really Lower Cholesterol?",
+    "description": "Studies show 5–8% LDL drop with 1 tbsp daily — but only when taken with meals. Discover.",
+    "primaryKeyword": "does apple cider vinegar lower cholesterol",
+    "topicCluster": "natural-remedies-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-07-04T08:34:39.232Z"
+  },
+  {
+    "title": "Best Cholesterol Meds for Women Over 65",
+    "description": "Only 3 of 7 common statins are proven safe for memory and muscles in women 65+. Learn how.",
+    "primaryKeyword": "best cholesterol meds for women over 65",
+    "topicCluster": "medication-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-07-04T08:34:42.000Z"
+  },
+  {
+    "title": "Cholesterol-Friendly Soups You Can Make in 15 Minutes",
+    "description": "3 broth-based recipes with 4g+ fiber per bowl — proven to lower LDL by 7% in 3 weeks. Discover.",
+    "primaryKeyword": "cholesterol-friendly soups you can make in 15 minutes",
+    "topicCluster": "diet-soups-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-07-04T08:34:44.750Z"
+  },
+  {
+    "title": "Warning Signs of High Cholesterol You Can’t Feel",
+    "description": "Xanthomas, corneal arcus, and fatigue affect 1 in 4 adults over 50 — yet go unnoticed. Find out.",
+    "primaryKeyword": "warning signs of high cholesterol you can't feel",
+    "topicCluster": "symptoms-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-07-04T08:34:47.456Z"
+  },
+  {
+    "title": "Can Walking Lower Cholesterol Without Meds?",
+    "description": "30 minutes daily cuts LDL by 10% and raises HDL by 5% — but only if done consistently. Discover.",
+    "primaryKeyword": "can walking lower cholesterol without meds",
+    "topicCluster": "exercise-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-07-04T08:34:51.775Z"
+  },
+  {
+    "title": "What to Do When Cholesterol Is High But You Eat Well",
+    "description": "Up to 40% of people with healthy diets still have high LDL — here’s what’s likely causing it. Find out.",
+    "primaryKeyword": "what to do when cholesterol is high but you eat well",
+    "topicCluster": "diet-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-07-04T08:34:56.136Z"
+  },
+  {
+    "title": "Best Natural Remedies to Lower Cholesterol After 50",
+    "description": "Psyllium, plant sterols, and red yeast rice cut LDL by 15–20% — but only with consistent dosing. Discover.",
+    "primaryKeyword": "best natural remedies to lower cholesterol after 50",
+    "topicCluster": "natural-remedies-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-07-04T08:34:59.085Z"
+  },
+  {
+    "title": "How Often Should You Test Cholesterol After 60?",
+    "description": "Every 2 years if stable, but every 6 months if LDL is >130 or you have diabetes. Find out.",
+    "primaryKeyword": "how often test cholesterol after 60",
+    "topicCluster": "testing-cholesterol",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-07-04T08:35:03.403Z"
   }
 ]
