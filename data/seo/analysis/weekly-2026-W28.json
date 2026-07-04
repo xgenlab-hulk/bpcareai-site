@@ -1,0 +1,217 @@
+{
+  "week": "2026-W28",
+  "generatedAt": "2026-07-04T04:29:16.523Z",
+  "config": {
+    "weeklyTarget": 35,
+    "dailyTarget": 5
+  },
+  "previousWeek": {
+    "remaining": 39,
+    "kept": 0
+  },
+  "newGenerated": 21,
+  "totalWritten": 25,
+  "gscData": {
+    "daysAnalyzed": 7,
+    "totalSearchTerms": 68
+  },
+  "llmAnalysis": {
+    "searchIntentAnalysis": "信息查询主导（占比92%）：如'7 foods that quietly raise blood pressure in older adults'（8次展示）、'heart rate and heart rate variability'（4次展示）等长尾疑问型词，体现用户对机制、风险、日常管理的深度求知；比较决策类占6%：如'alternatives to statins for women'（7次展示，位置98）、'best statins for women'（2次展示），反映中老年女性对药物副作用与个体化方案的高度关注；紧急问题类极少但高价值：'nasal spray cause high blood pressure'、'can you take melatonin if you have afib'等涉及药物相互作用与急性症状，虽仅1次展示但CTR为0且位置＞70，说明现有内容未有效承接临床级信任需求。",
+    "ctrAnomalies": "整体CTR为0的查询达100%，核心问题为：① 首页（/）59次展示、0点击、位置5——标题缺乏品牌+价值钩子，未突出'AI-powered BP guidance for adults 35+'；② 'heart-rate-variability-explained'（21次展示、位置86.5、CTR 0）——标题学术化、无年龄锚点，而'heart rate variability'相关词共出现12次（含'beat to beat variability'、'variable pulse rate'等），平均位置82，说明用户搜索语言更口语化且聚焦'older adults'场景；③ 'best-home-blood-pressure-cuffs-for-adults-75...'（14次展示、位置7.5、CTR 0）——标题超长（126字符），移动端截断严重，且未在描述中强调'arthritis/tremor-tested accuracy'等真实痛点数据。",
+    "hiddenOpportunities": "[\"热环境与血压调控（共23个相关长尾词，如'does heat raise or lower blood pressure'、'humidity and blood pressure'，总展示量22，平均位置75，零点击——现有'indoor-heating'和'hot-bath'文章未覆盖夏季/ambient heat场景）\",\"镁剂与Entresto（Sacubitril/Valsartan）联用安全性（'magnesium and entresto'、'entresto and magnesium'等5词，总展示10，位置均≤21，但无专题内容）\",\"AFib与助眠剂（'melatonin afib'相关词6个，总展示6，位置76–88，属高信任门槛用药咨询）\",\"胆固醇友好型食谱（'cholesterol lowering soups'、'low cholesterol soups'等4词，总展示4，'red-wine-cholesterol-after-55'仅12展示却无汤品延伸）\",\"清晨vs晚间血压差异（'morning bp vs evening bp'等6变体，总展示10，位置73–98，'morning-vs-evening-exercise-nocturnal-hypertension'页面位置96且CTR 0——未针对'BP timing'独立建模）\"]",
+    "topicPriorities": "[{\"topic\":\"Heat, Humidity & Blood Pressure in Adults 65+: What the Data Really Shows\",\"dataBasis\":\"23个热相关搜索词，总展示22次，覆盖'heat raises blood pressure'（1次）、'does heat lower blood pressure'（3次）等矛盾意图，用户认知混乱亟需循证澄清\",\"whyPriority\":\"高需求低满足：GSC显示该主题零有效承接页面，而'indoor-heating'文章CTR仅1.1%（1/89），证明需扩展至全年气候维度；可复用现有'hot-bath'和'indoor-heating'数据，ROI极高\"},{\"topic\":\"Magnesium + Entresto: Safe? Dosing Tips & Clinical Evidence for Seniors\",\"dataBasis\":\"'magnesium and entresto'（1次展示，位置9）、'entresto and magnesium'（3次，位置10）等",
+    "articleOptimizations": 5
+  },
+  "perplexityInsights": {
+    "cholesterol": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "Is an LDL of 180 dangerous for a 38-year-old with no family history?",
+        "What does a non-HDL cholesterol of 110 mean for heart risk at age 42?",
+        "Is ApoB testing necessary if my LDL is 160 and I'm 36 years old?",
+        "Can high cholesterol at age 35 be caused by stress alone?",
+        "Is a triglyceride level of 170 mg/dL concerning for a 40-year-old woman?",
+        "What is the target LDL for a 45-year-old with type 2 diabetes?",
+        "Is lipoprotein(a) testing recommended if my cholesterol is high but I'm slim at age 39?",
+        "Can a ketogenic diet raise LDL cholesterol in a 44-year-old man?",
+        "Is a CAC score of 50 significant if my LDL is 190 at age 41?",
+        "What causes high cholesterol in a 37-year-old who eats a plant-based diet?"
+      ],
+      "competitorCoverage": "Top-ranking articles for adults cover how to read lipid numbers (LDL, HDL, triglycerides), age-specific testing guidelines, and basic lifestyle changes like diet and exercise. A new article must include advanced markers (ApoB, lipoprotein(a), non-HDL), age-specific risk scenarios with concrete numbers, and nuanced diet impacts (e.g., keto, plant-based) to compete.",
+      "whyItMatters": "This topic is trending due to updated guidelines emphasizing advanced markers like ApoB and non-HDL for heart risk, especially in adults 35+, and growing awareness that slim, healthy individuals can still have dangerous cholesterol levels driven by genetics."
+    },
+    "diabetes": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "Is 125 fasting blood sugar normal at 60?",
+        "What is the average A1C for adults over 50 with type 2 diabetes?",
+        "Can stress raise blood sugar in people over 40 without diabetes?",
+        "Is 180 blood sugar after eating dangerous at 55?",
+        "How long does it take to lower A1C from 7.0 to 6.0 in adults over 45?",
+        "Does lack of sleep affect blood sugar levels in seniors over 60?",
+        "What are early signs of diabetes in men over 50 besides weight loss?",
+        "Is 95 fasting blood sugar too low for a 65-year-old with diabetes?",
+        "Can dehydration cause high blood sugar readings in adults over 40?",
+        "What blood sugar target should a 70-year-old with type 2 diabetes aim for?"
+      ],
+      "competitorCoverage": "Top-ranking Google articles for adults over 35 cover general diabetes definitions, symptom lists, basic screening guidelines, and standard treatment options like diet and medication. To compete, a new article must include age-specific blood sugar targets, stress and sleep impacts on glucose, medication interactions, and personalized A1C reduction timelines for older adults.",
+      "whyItMatters": "This topic is trending due to updated ADA guidelines emphasizing individualized blood sugar targets for older adults and rising prediabetes rates in the 40–60 age group. Recent studies also highlight the role of sleep deprivation and chronic stress in worsening glucose control in middle-aged and senior populations."
+    },
+    "healthy eating for seniors": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "What are the best high-protein, low-calorie foods for seniors over 65 to prevent muscle loss?",
+        "How much fiber should a 70-year-old woman eat daily to avoid constipation without bloating?",
+        "Is 1,200 mg of sodium per day safe for a 68-year-old with early-stage kidney disease and heart failure?",
+        "What are the best soft, nutrient-dense foods for seniors over 75 with weak teeth or dentures?",
+        "Do vitamin D and B12 supplements really help seniors over 60 with memory decline and fatigue?",
+        "What are the best hydration strategies for seniors over 70 who don’t feel thirsty anymore?",
+        "Are plant-based proteins like lentils and tofu better than meat for seniors over 65 with high LDL?",
+        "How can seniors over 60 with low appetite eat enough calories without gaining weight?",
+        "What are the best anti-inflammatory foods for seniors over 70 with arthritis and joint pain?",
+        "Is it safe for seniors over 65 to eat raw eggs or sprouts if they have a weakened immune system?"
+      ],
+      "competitorCoverage": "Top-ranking articles on 'healthy eating for seniors' for adults 35+ consistently cover nutrient-dense foods, hydration, fiber intake, sodium limits, soft food options for dental issues, vitamin supplementation (D, B12), and meal planning tips. To compete, a new article must include specific scenarios (e.g., kidney disease, dementia, denture use), medication-diet interactions, and evidence-based answers to real user questions with age-specific numbers.",
+      "whyItMatters": "This topic is trending due to rising awareness of age-related muscle loss (sarcopenia), increased diagnoses of chronic conditions like CKD and heart failure in seniors, and recent FDA/ADA guidelines emphasizing lower sodium and higher protein intake for older adults. Seasonal factors like summer heat also heighten dehydration risks for seniors over 65."
+    },
+    "exercise for seniors": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "Is 140/90 blood pressure dangerous at age 45 before starting exercise?",
+        "What is the safest heart rate zone for exercise at age 50 with mild arthritis?",
+        "Can I do strength training at age 62 if I have never exercised before?",
+        "How many minutes a day should a 55-year-old with dizziness exercise to reduce fall risk?",
+        "Is it safe to do squats at age 68 if I have a history of knee replacements?",
+        "What exercises can I do at age 70 if I have COPD and get short of breath quickly?",
+        "Can I start yoga at age 58 if I have Parkinson’s disease?",
+        "Is walking 30 minutes a day enough for a 65-year-old with high cholesterol?",
+        "What balance exercises are safe at age 72 if I have osteoporosis?",
+        "How do I know if I’m overexerting at age 55 during moderate exercise?"
+      ],
+      "competitorCoverage": "Top-ranking articles on 'exercise for seniors' for adults aged 35+ consistently cover the four pillars of fitness: endurance, strength, balance, and flexibility, along with general guidelines like 150 minutes of moderate activity per week and strength training twice weekly. They emphasize starting low and going slow, choosing enjoyable activities, and consulting doctors before beginning, especially for those with preexisting conditions. A new article must include specific, condition-based exercise recommendations with age-specific safety tips and clear progression plans to compete.",
+      "whyItMatters": "This topic is trending due to updated WHO and NHS guidelines emphasizing daily activity for older adults to reduce heart disease and stroke risk, alongside rising awareness of age-related conditions like osteoporosis, COPD, and Parkinson’s that require tailored exercise plans. Seasonal factors like winter indoor limitations also drive interest in home-based, low-impact routines."
+    }
+  },
+  "topTopics": [
+    {
+      "title": "Can You Do Yoga at 58 With Parkinson’s?",
+      "pk": "can i start yoga at 58 with parkinsons",
+      "score": 66,
+      "breakdown": {
+        "clusterNeed": 30,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率49%，大缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    },
+    {
+      "title": "What to Do When Walking Makes Knees Swell at 68",
+      "pk": "walking makes knees swell at 68",
+      "score": 64,
+      "breakdown": {
+        "clusterNeed": 30,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率49%，大缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Meal Planning for One After 75 — No Waste, No Stress",
+      "pk": "meal planning for seniors living alone",
+      "score": 64,
+      "breakdown": {
+        "clusterNeed": 30,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率49%，大缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Can Stress Raise Blood Sugar Without Diabetes?",
+      "pk": "can stress raise blood sugar without diabetes",
+      "score": 55,
+      "breakdown": {
+        "clusterNeed": 30,
+        "searchDemand": 15,
+        "differentiation": 8,
+        "timeliness": 2
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率49%，大缺口 | GSC方向相关\"7 foods that quietly raise blood pressure in older adults\"(28次展示) | 高展示0点击(标题可能需优化) | 与已有文章有一定重叠(67%)，可能cannibalize | 搜索趋势下降"
+    },
+    {
+      "title": "Why Blood Pressure Jumps in Winter Mornings",
+      "pk": "blood pressure rises in winter morning",
+      "score": 52.46666666666667,
+      "breakdown": {
+        "clusterNeed": 20.5,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 2
+      },
+      "reasoning": "hypertension-management集群覆盖率73%，中等缺口 | GSC方向相关\"blood pressure morning evening\"(1次展示)，微弱信号 | 与已有文章有差异(重叠33%) | 搜索趋势下降"
+    },
+    {
+      "title": "Is Walking 30 Minutes Enough at 65?",
+      "pk": "is walking 30 minutes enough at 65",
+      "score": 52,
+      "breakdown": {
+        "clusterNeed": 30,
+        "searchDemand": 8,
+        "differentiation": 8,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率49%，大缺口 | 来自周度分析推荐 | 与已有文章有一定重叠(67%)，可能cannibalize"
+    },
+    {
+      "title": "Does Plant Protein Lower LDL Better Than Meat?",
+      "pk": "plant protein vs meat for high LDL seniors",
+      "score": 48,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 24,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章高度差异化(重叠25%)"
+    },
+    {
+      "title": "Is 125 Fasting Blood Sugar Normal at 60?",
+      "pk": "is 125 fasting blood sugar normal at 60",
+      "score": 47.800000000000004,
+      "breakdown": {
+        "clusterNeed": 13.8,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "diabetes-management集群接近目标 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Blood Sugar Friendly Dinners That Fill You Up",
+      "pk": "blood sugar friendly dinners for seniors",
+      "score": 47.800000000000004,
+      "breakdown": {
+        "clusterNeed": 13.8,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "diabetes-management集群接近目标 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Best A1C Targets for Adults Over 75",
+      "pk": "best a1c targets for adults over 75",
+      "score": 45.800000000000004,
+      "breakdown": {
+        "clusterNeed": 13.8,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 2
+      },
+      "reasoning": "diabetes-management集群接近目标 | GSC方向相关\"best statin for women over 50\"(1次展示)，微弱信号 | 与已有文章有差异(重叠33%) | 搜索趋势下降"
+    }
+  ]
+}

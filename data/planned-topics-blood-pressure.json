@@ -1,130 +1,32 @@
 [
   {
-    "title": "Warning Signs of BP Spikes at Night",
-    "description": "Waking gasping, pounding head, or sudden sweating after 10 p.m.? These 4 signs occur in 29% of adults 60+ with nocturnal hypertension. Learn how.",
-    "primaryKeyword": "warning signs of blood pressure spikes at night",
-    "topicCluster": "symptoms-blood-pressure",
+    "title": "Why Blood Pressure Jumps in Winter Mornings",
+    "description": "BP readings average 8–12 mmHg higher in winter mornings for adults over 65 — discover 4 simple fixes to stay steady.",
+    "primaryKeyword": "blood pressure rises in winter morning",
+    "topicCluster": "hypertension-management",
     "coreKeyword": "blood pressure",
-    "createdAt": "2026-06-27T08:32:22.374Z"
+    "createdAt": "2026-07-04T04:29:16.520Z",
+    "score": 52.46666666666667,
+    "scheduledWeek": "2026-W28"
   },
   {
-    "title": "Can Cold Showers Lower Blood Pressure?",
-    "description": "Short cold exposure dropped diastolic by 4.7 mmHg in men 55–75 — but not safe for everyone. Discover if it’s right for you.",
-    "primaryKeyword": "can cold showers lower blood pressure",
-    "topicCluster": "exercise-blood-pressure",
+    "title": "Can Pets Lower Blood Pressure for Women Over 60?",
+    "description": "Studies show dog owners over 60 have 12 mmHg lower average systolic BP — learn how pet companionship supports heart health safely.",
+    "primaryKeyword": "pets lower blood pressure women over 60",
+    "topicCluster": "hypertension-management",
     "coreKeyword": "blood pressure",
-    "createdAt": "2026-06-27T08:32:24.770Z"
+    "createdAt": "2026-07-04T04:29:16.520Z",
+    "score": 40.46666666666667,
+    "scheduledWeek": "2026-W28"
   },
   {
-    "title": "What to Do When BP Drops After Standing",
-    "description": "1 in 4 adults over 65 experiences dizziness on standing — here’s the 2-minute routine that cuts falls by 31%. Find out.",
-    "primaryKeyword": "what to do when blood pressure drops standing up",
-    "topicCluster": "symptoms-blood-pressure",
+    "title": "Best BP-Friendly Soups for Women Over 60",
+    "description": "3 low-sodium, potassium-rich soups cut systolic BP by up to 5.2 points in 4 weeks — find out which ones warm you *and* protect your heart.",
+    "primaryKeyword": "soups that lower blood pressure for women",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "blood pressure",
-    "createdAt": "2026-06-27T08:32:27.189Z"
-  },
-  {
-    "title": "Best BP-Friendly Breakfasts for Women Over 50",
-    "description": "High-potassium, low-sodium options tied to 11% lower systolic over 3 months — including 2 no-cook choices. Discover them.",
-    "primaryKeyword": "best breakfast foods for high blood pressure women over 50",
-    "topicCluster": "diet-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-06-27T08:32:29.596Z"
-  },
-  {
-    "title": "How to Lower BP While Cooking Dinner",
-    "description": "Simple swaps cut sodium by 400mg per meal and boost potassium — proven to lower systolic by 5.8 mmHg in 6 weeks. Learn how.",
-    "primaryKeyword": "how to lower blood pressure while cooking",
-    "topicCluster": "diet-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-06-27T08:32:32.052Z"
-  },
-  {
-    "title": "BP Meds That Don’t Affect Your Sleep",
-    "description": "4 of 12 common BP meds rarely cause insomnia — we ranked them by safety, effectiveness, and minimal night disruption. Learn how.",
-    "primaryKeyword": "blood pressure meds that don't affect sleep",
-    "topicCluster": "medication-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-06-27T08:32:36.047Z"
-  },
-  {
-    "title": "5 Ways Stress Raises BP After 55",
-    "description": "Chronic stress increases systolic by 9–14 mmHg over 2 years — here are the 5 clearest physical signs and how to stop them.",
-    "primaryKeyword": "how stress raises blood pressure after 55",
-    "topicCluster": "stress-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-06-27T08:32:38.512Z"
-  },
-  {
-    "title": "Can Walking Barefoot Lower BP?",
-    "description": "Grounding for 30 min/day reduced systolic by 6.5 mmHg in adults 60–78 — but only with moist grass or soil. Discover if it works.",
-    "primaryKeyword": "can walking barefoot lower blood pressure",
-    "topicCluster": "exercise-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-06-27T08:32:40.953Z"
-  },
-  {
-    "title": "Best BP Monitoring Routine for New Diagnoses",
-    "description": "Track twice daily for 7 days — then weekly — to catch patterns missed by single clinic visits. 81% improve control faster. Learn how.",
-    "primaryKeyword": "best blood pressure monitoring routine for new diagnosis",
-    "topicCluster": "monitoring-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-06-27T08:32:43.468Z"
-  },
-  {
-    "title": "Does Red Wine Lower BP After 60?",
-    "description": "1 glass/night lowered systolic by 2.3 mmHg in men 60–74 — but raised it in women with hypertension. Find out your risk.",
-    "primaryKeyword": "does red wine lower blood pressure after 60",
-    "topicCluster": "diet-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-06-27T08:32:45.900Z"
-  },
-  {
-    "title": "Why BP Spikes After Dinner in Seniors",
-    "description": "Post-meal spikes happen in 57% of adults 70+ — especially after carbs + sodium — and raise stroke risk 23%. Learn how to prevent.",
-    "primaryKeyword": "why blood pressure spikes after dinner seniors",
-    "topicCluster": "symptoms-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-06-27T08:32:48.421Z"
-  },
-  {
-    "title": "Best BP-Friendly Snacks for Men Over 70",
-    "description": "High-magnesium, low-sodium options that support steady readings — shown to cut nighttime spikes by 18% in 30 days. Discover them.",
-    "primaryKeyword": "best blood pressure snacks for men over 70",
-    "topicCluster": "diet-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-06-27T08:32:50.878Z"
-  },
-  {
-    "title": "How to Sleep Better With High BP After 65",
-    "description": "Elevating head 4 inches + avoiding screens 1 hour before bed lowered nocturnal BP by 9.1 mmHg in 6-week trial. Find out how.",
-    "primaryKeyword": "how to sleep better with high blood pressure after 65",
-    "topicCluster": "sleep-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-06-27T08:32:53.324Z"
-  },
-  {
-    "title": "Does CBD Lower BP at Night for Seniors?",
-    "description": "25mg CBD oil lowered systolic by 6.0 mmHg at bedtime — but interacted with 3 common BP meds. Learn which ones to avoid.",
-    "primaryKeyword": "does cbd lower blood pressure at night for seniors",
-    "topicCluster": "medication-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-06-27T08:32:55.759Z"
-  },
-  {
-    "title": "BP-Friendly Soups for Seniors With Swollen Ankles",
-    "description": "3 low-sodium, high-potassium soups reduce fluid retention and lower BP — 74% saw less swelling in 2 weeks. Discover recipes.",
-    "primaryKeyword": "blood pressure soups for swollen ankles seniors",
-    "topicCluster": "diet-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-06-27T08:32:58.200Z"
-  },
-  {
-    "title": "What to Do When BP Is High After a Hot Bath",
-    "description": "Wait 45 minutes before checking — heat drops BP initially, then spikes it in 68% of adults 75+. Learn safer timing and prep.",
-    "primaryKeyword": "what to do when blood pressure is high after hot bath",
-    "topicCluster": "seasonal-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-06-27T08:33:00.645Z"
+    "createdAt": "2026-07-04T04:29:16.520Z",
+    "score": 23.374999999999996,
+    "scheduledWeek": "2026-W28"
   }
 ]
