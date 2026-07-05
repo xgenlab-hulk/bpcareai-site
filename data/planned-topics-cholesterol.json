@@ -1,23 +1,5 @@
 [
   {
-    "title": "Does Plant Protein Lower LDL Better Than Meat?",
-    "description": "In seniors over 65, lentils and tofu reduced LDL by 7–9 mg/dL in 12 weeks — vs 2–4 mg/dL with lean chicken. Find out if it’s right for you.",
-    "primaryKeyword": "plant protein vs meat for high LDL seniors",
-    "topicCluster": "diet-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-07-04T04:29:16.521Z",
-    "score": 48,
-    "scheduledWeek": "2026-W28",
-    "perplexityQuestions": [
-      "Is an LDL of 180 dangerous for a 38-year-old with no family history?",
-      "What does a non-HDL cholesterol of 110 mean for heart risk at age 42?",
-      "Is ApoB testing necessary if my LDL is 160 and I'm 36 years old?",
-      "Can high cholesterol at age 35 be caused by stress alone?",
-      "Is a triglyceride level of 170 mg/dL concerning for a 40-year-old woman?"
-    ],
-    "competitorCoverage": "Top-ranking articles for adults cover how to read lipid numbers (LDL, HDL, triglycerides), age-specific testing guidelines, and basic lifestyle changes like diet and exercise. A new article must include advanced markers (ApoB, lipoprotein(a), non-HDL), age-specific risk scenarios with concrete numbers, and nuanced diet impacts (e.g., keto, plant-based) to compete."
-  },
-  {
     "title": "Does Keto Raise Cholesterol in Your 40s?",
     "description": "37% of adults on keto see LDL jump over 160 — discover if it’s safe for your heart",
     "primaryKeyword": "does keto raise cholesterol in your 40s",
