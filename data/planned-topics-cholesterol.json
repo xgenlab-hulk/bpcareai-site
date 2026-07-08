@@ -1,23 +1,5 @@
 [
   {
-    "title": "Warning Signs of High Cholesterol You Can’t Feel",
-    "description": "No chest pain? Still 2.3x higher heart attack risk with ApoB > 100 — learn what to watch for",
-    "primaryKeyword": "warning signs of high cholesterol you can't feel",
-    "topicCluster": "nutrition-diet-management",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-07-04T04:29:16.521Z",
-    "score": 24.374999999999996,
-    "scheduledWeek": "2026-W28",
-    "perplexityQuestions": [
-      "Is an LDL of 180 dangerous for a 38-year-old with no family history?",
-      "What does a non-HDL cholesterol of 110 mean for heart risk at age 42?",
-      "Is ApoB testing necessary if my LDL is 160 and I'm 36 years old?",
-      "Can high cholesterol at age 35 be caused by stress alone?",
-      "Is a triglyceride level of 170 mg/dL concerning for a 40-year-old woman?"
-    ],
-    "competitorCoverage": "Top-ranking articles for adults cover how to read lipid numbers (LDL, HDL, triglycerides), age-specific testing guidelines, and basic lifestyle changes like diet and exercise. A new article must include advanced markers (ApoB, lipoprotein(a), non-HDL), age-specific risk scenarios with concrete numbers, and nuanced diet impacts (e.g., keto, plant-based) to compete."
-  },
-  {
     "title": "5 Foods That Lower Cholesterol Naturally",
     "description": "Eat these daily to drop LDL by up to 12% in 4 weeks — no pills needed. Learn how.",
     "primaryKeyword": "foods that lower cholesterol naturally",
@@ -48,14 +30,6 @@
     "topicCluster": "medication-cholesterol",
     "coreKeyword": "cholesterol",
     "createdAt": "2026-07-04T08:34:42.000Z"
-  },
-  {
-    "title": "Warning Signs of High Cholesterol You Can’t Feel",
-    "description": "Xanthomas, corneal arcus, and fatigue affect 1 in 4 adults over 50 — yet go unnoticed. Find out.",
-    "primaryKeyword": "warning signs of high cholesterol you can't feel",
-    "topicCluster": "symptoms-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-07-04T08:34:47.456Z"
   },
   {
     "title": "Can Walking Lower Cholesterol Without Meds?",
