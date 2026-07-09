@@ -13,6 +13,7 @@ relatedSlugs:
   - safe-stretching-exercises-stiff-joints-after-65
   - flexibility-exercises-lower-back-pain-seniors
   - walking-hurts-knees-after-68
+  - flexibility-exercises-stiff-shoulders-65
 ---
 
 # Why Flexibility Gets Harder After 68 — And What Helps
