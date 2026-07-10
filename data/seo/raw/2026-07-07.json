@@ -1,0 +1,323 @@
+{
+  "date": "2026-07-07",
+  "fetchedAt": "2026-07-10T02:03:07.526Z",
+  "queries": [
+    {
+      "query": "alternatives to statins for women",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 100
+    },
+    {
+      "query": "bp care",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 4.375
+    },
+    {
+      "query": "bpcare",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 4.5
+    },
+    {
+      "query": "can heat cause blood pressure to rise",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 94
+    },
+    {
+      "query": "does heat lower blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 97
+    },
+    {
+      "query": "glp-1 holiday drinking",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 61
+    },
+    {
+      "query": "heart rate and heart rate variability",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 81
+    },
+    {
+      "query": "variation in heart rate",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 74.5
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 6.333333333333333
+    },
+    {
+      "page": "https://bpcareai.com/articles/5-things-your-endocrinologist-won-t-tell-you-about-holiday-alcohol-choices-especially-if-you-re-on-glp-1-agonists",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 61
+    },
+    {
+      "page": "https://bpcareai.com/articles/7-hidden-sodium-traps-in-heart-healthy-holiday-soups-and-stews-especially-for-seniors-on-ace-inhibitors-or-arbs",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://bpcareai.com/articles/best-home-blood-pressure-cuffs-for-adults-75-with-severe-arthritis-and-tremor-accuracy-fit-and-one-handed-operation-compared",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "page": "https://bpcareai.com/articles/blood-pressure-meds-heat-seniors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://bpcareai.com/articles/can-you-safely-eat-leftover-gravy-on-day-3-if-you-have-stage-3-ckd-a-food-safety-phosphorus-stability-guide-for-adults-74",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://bpcareai.com/articles/can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://bpcareai.com/articles/diabetes-eye-problems-after-65",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://bpcareai.com/articles/heart-rate-variability-explained",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 76.66666666666667
+    },
+    {
+      "page": "https://bpcareai.com/articles/holiday-travel-nocturnal-afib-warning",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 5.666666666666667
+    },
+    {
+      "page": "https://bpcareai.com/articles/home-blood-pressure-cuff-afib-algorithm-errors",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 7.333333333333333
+    },
+    {
+      "page": "https://bpcareai.com/articles/ldl-target-55-year-old-woman",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://bpcareai.com/articles/myths-vs-facts-heart-healthy-holiday-stuffing-why-even-whole-grain-versions-can-worsen-diastolic-filling-pressures-in-adults-77-with-preserved-ef",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://bpcareai.com/articles/soups-lower-blood-pressure-winter",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 44.2
+    },
+    {
+      "page": "https://bpcareai.com/articles/what-causes-sudden-loss-of-sweet-taste-perception-in-adults-69-with-well-controlled-diabetes-and-why-it-predicts-early-diabetic-autonomic-neuropathy",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 5.666666666666667
+    },
+    {
+      "page": "https://bpcareai.com/articles/when-to-eat-before-a-family-gathering-if-you-re-on-glp-1-agonists-and-over-65",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://bpcareai.com/articles/when-to-suspect-secondary-hypertension-from-subclinical-primary-aldosteronism-in-adults-55-64-with-resistant-hypertension-and-normal-potassium",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://www.bpcareai.com/#faqs",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://www.bpcareai.com/about",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://www.bpcareai.com/articles",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/7-underrecognized-triggers-of-nocturnal-st-segment-depression-in-adults-with-nonobstructive-cad-identified-via-home-based-ecg-patch-monitoring",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/air-fryer-oxidized-cholesterol-coronary-calcification",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/best-cholesterol-meds-women-menopause",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 100
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/blood-pressure-rises-hot-bath-over-75",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/dangers-of-using-heart-healthy-coconut-water-electrolyte-drinks-during-hot-weather-for-adults-with-hfpef-and-egfr-45-59",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 5.5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/foods-lower-blood-sugar-after-dinner-seniors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/how-sleep-disordered-breathing-severity-ahi-15-alters-nocturnal-bp-recovery-in-adults-66-82-with-normal-looking-daytime-readings",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/instant-oatmeal-endothelial-function-seniors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/lipoprotein-a-test-family-history",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/sauna-use-with-ace-inhibitors-seniors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/sugar-free-candies-and-gastroparesis",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/the-truth-about-heart-healthy-frozen-dinners-for-seniors-with-stage-3-kidney-disease",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/traffic-vibration-baroreceptor-sensitivity-hypertension",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/vns-vs-tart-cherry-juice-nocturnal-afib",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 6.625
+    },
+    {
+      "page": "https://www.bpcareai.com/contact",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 11
+    }
+  ],
+  "summary": {
+    "totalQueries": 8,
+    "totalImpressions": 17,
+    "totalClicks": 0,
+    "avgPosition": 36.8235294117647,
+    "pagesWithImpressions": 36
+  }
+}
