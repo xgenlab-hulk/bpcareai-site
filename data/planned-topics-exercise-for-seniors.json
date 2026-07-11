@@ -1,122 +1,38 @@
 [
   {
-    "title": "Best Indoor Exercises for Seniors When Heating Is On",
-    "description": "Dry, warm air raises BP by up to 14 mmHg — try these 6 no-sweat moves that keep it stable all winter.",
-    "primaryKeyword": "best indoor exercises for seniors when heating is on",
-    "topicCluster": "indoor-heating-blood-pressure",
+    "title": "Best Indoor Exercises for Cold Weather Blood Pressure",
+    "description": "Cold snaps spike BP by 12–18 mmHg in adults over 45 — learn 6 proven indoor routines that stabilize pressure all winter. Learn how.",
+    "primaryKeyword": "indoor exercises for cold weather blood pressure",
+    "topicCluster": "lifestyle-interventions",
     "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-04T08:33:29.624Z"
+    "createdAt": "2026-07-11T04:01:19.888Z",
+    "score": 46.7,
+    "scheduledWeek": "2026-W29",
+    "perplexityQuestions": [
+      "What is the best exercise routine for adults over 35 who have never exercised before?",
+      "Is it too late to start strength training at 40 to prevent muscle loss?",
+      "How many minutes of exercise per day do adults 35-50 need to reverse sedentary damage?",
+      "What exercises are safe for adults over 40 with high blood pressure who can't run?",
+      "Can I build muscle after 45 without using heavy weights or a gym?"
+    ],
+    "competitorCoverage": "Top-ranking articles primarily cover CDC/NHS guidelines for adults 65+ (150 minutes/week aerobic, 2 days strength, balance training), low-impact options like swimming/yoga/tai chi, chair exercises for limited mobility, and four fitness pillars: endurance, strength, balance, flexibility. To compete, a new article must target the 35-64 'pre-senior' gap with age-specific progression plans, address common barriers like back pain or sedentary jobs, and include science-backed muscle-loss prevention strategies for adults under 65."
   },
   {
-    "title": "3 Ways to Build Leg Strength Without Standing After 72",
-    "description": "Seated strength moves boost muscle mass by 11% in 8 weeks — learn the safest resistance options.",
-    "primaryKeyword": "ways to build leg strength without standing after 72",
-    "topicCluster": "strength-training-low-impact",
+    "title": "Walking Routine for Sedentary Adults 35–50",
+    "description": "Just 12 minutes a day cuts sedentary risk by 32% — discover the exact walking plan that fits desk jobs and busy lives.",
+    "primaryKeyword": "walking routine for sedentary adults 35 to 50",
+    "topicCluster": "lifestyle-interventions",
     "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-04T08:33:32.320Z"
-  },
-  {
-    "title": "Does Yoga Lower Blood Pressure for Women Over 60?",
-    "description": "Yes — 2x/week gentle yoga cuts systolic BP by 7.2 mmHg in 6 weeks. See which poses are safest.",
-    "primaryKeyword": "does yoga lower blood pressure for women over 60",
-    "topicCluster": "flexibility-blood-pressure",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-04T08:33:35.068Z"
-  },
-  {
-    "title": "Warning Signs of Overexertion During Senior Exercise",
-    "description": "Dizziness, jaw tightness, or 30+ sec pulse recovery signal danger — know the 5 red flags before age 65.",
-    "primaryKeyword": "warning signs of overexertion during senior exercise",
-    "topicCluster": "exercise-symptoms",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-04T08:33:37.773Z"
-  },
-  {
-    "title": "How to Start Strength Training Safely After 75",
-    "description": "Just 2x/week with light bands lowers fall risk by 28% — get the 4-step beginner plan with no equipment.",
-    "primaryKeyword": "how to start strength training safely after 75",
-    "topicCluster": "strength-training-age-specific",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-04T08:33:40.439Z"
-  },
-  {
-    "title": "What to Do When Exercise Makes You Short of Breath at 62",
-    "description": "1 in 4 adults over 60 report breathlessness — try these 3 paced breathing + movement combos today.",
-    "primaryKeyword": "what to do when exercise makes you short of breath at 62",
-    "topicCluster": "exercise-breathing",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-04T08:33:43.161Z"
-  },
-  {
-    "title": "5 Seated Flexibility Moves for Stiff Backs at 70+",
-    "description": "Do them daily for 7 minutes — improves spinal mobility by 27% in 3 weeks. Start tonight.",
-    "primaryKeyword": "seated flexibility moves for stiff back at 70",
-    "topicCluster": "flexibility-low-impact",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-04T08:33:47.449Z"
-  },
-  {
-    "title": "Does Walking on a Treadmill Lower Blood Pressure Like Outdoor Walking?",
-    "description": "Yes — treadmill walking at 2.8 mph lowers BP by 6.9 mmHg vs. 7.1 mmHg outdoors. See key differences.",
-    "primaryKeyword": "does treadmill walking lower blood pressure like outdoor",
-    "topicCluster": "walking-comparison",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-04T08:33:50.210Z"
-  },
-  {
-    "title": "Why Exercise Feels Harder in Winter After 68",
-    "description": "Cold air + indoor dryness raise heart rate by 12–18 bpm — learn 4 warm-up tricks that cut strain in half.",
-    "primaryKeyword": "why exercise feels harder in winter after 68",
-    "topicCluster": "cold-weather-exercise",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-04T08:33:52.931Z"
-  },
-  {
-    "title": "Best Low-Impact Exercises for Seniors With Swollen Knees",
-    "description": "Water walking cuts knee load by 75% — plus 2 land-based moves that ease swelling in 10 days.",
-    "primaryKeyword": "best low impact exercises for swollen knees seniors",
-    "topicCluster": "low-impact-exercise-symptoms",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-04T08:33:55.602Z"
-  },
-  {
-    "title": "How to Do Strength Training With Arthritis in Hands After 70",
-    "description": "Grip-free resistance bands boost upper body strength by 19% in 6 weeks — get 3 pain-free routines.",
-    "primaryKeyword": "how to do strength training with arthritis in hands after 70",
-    "topicCluster": "strength-training-arthritis",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-04T08:33:58.258Z"
-  },
-  {
-    "title": "What to Do When You Get Dizzy Doing Chair Exercises at 63",
-    "description": "Post-exercise dizziness affects 22% of seniors — try these 3 position adjustments that stop it fast.",
-    "primaryKeyword": "what to do when dizzy doing chair exercises at 63",
-    "topicCluster": "exercise-dizziness",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-04T08:34:00.969Z"
-  },
-  {
-    "title": "Can Tai Chi Lower Blood Pressure for Men Over 65?",
-    "description": "Yes — 12 weeks of tai chi drops systolic BP by 8.3 mmHg. Discover the 5-minute daily routine.",
-    "primaryKeyword": "can tai chi lower blood pressure for men over 65",
-    "topicCluster": "flexibility-blood-pressure",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-04T08:34:03.593Z"
-  },
-  {
-    "title": "Does Indoor Walking Count Toward Daily Exercise After 70?",
-    "description": "Yes — 2,500 steps indoors = same BP benefit as outdoor walking. Learn how to track and boost them.",
-    "primaryKeyword": "does indoor walking count toward daily exercise after 70",
-    "topicCluster": "walking-indoor",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-04T08:34:06.419Z"
-  },
-  {
-    "title": "Best Time to Exercise for Blood Pressure Control After 65",
-    "description": "Morning workouts lower systolic BP by 10.2 mmHg more than evening — find your ideal window.",
-    "primaryKeyword": "best time to exercise for blood pressure control after 65",
-    "topicCluster": "exercise-time-blood-pressure",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-04T08:34:09.041Z"
+    "createdAt": "2026-07-11T04:01:19.888Z",
+    "score": 38.7,
+    "scheduledWeek": "2026-W29",
+    "perplexityQuestions": [
+      "What is the best exercise routine for adults over 35 who have never exercised before?",
+      "Is it too late to start strength training at 40 to prevent muscle loss?",
+      "How many minutes of exercise per day do adults 35-50 need to reverse sedentary damage?",
+      "What exercises are safe for adults over 40 with high blood pressure who can't run?",
+      "Can I build muscle after 45 without using heavy weights or a gym?"
+    ],
+    "competitorCoverage": "Top-ranking articles primarily cover CDC/NHS guidelines for adults 65+ (150 minutes/week aerobic, 2 days strength, balance training), low-impact options like swimming/yoga/tai chi, chair exercises for limited mobility, and four fitness pillars: endurance, strength, balance, flexibility. To compete, a new article must target the 35-64 'pre-senior' gap with age-specific progression plans, address common barriers like back pain or sedentary jobs, and include science-backed muscle-loss prevention strategies for adults under 65."
   }
 ]

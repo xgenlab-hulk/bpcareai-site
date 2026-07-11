@@ -1,0 +1,217 @@
+{
+  "week": "2026-W29",
+  "generatedAt": "2026-07-11T04:01:19.889Z",
+  "config": {
+    "weeklyTarget": 35,
+    "dailyTarget": 5
+  },
+  "previousWeek": {
+    "remaining": 33,
+    "kept": 0
+  },
+  "newGenerated": 24,
+  "totalWritten": 31,
+  "gscData": {
+    "daysAnalyzed": 7,
+    "totalSearchTerms": 36
+  },
+  "llmAnalysis": {
+    "searchIntentAnalysis": "信息查询为主（占比92%）：如'can heat increase blood pressure'（3次展示，0点击，avgPosition 77）、'heart rate and heart rate variability'（7次展示，0点击，pos 72）等均属典型健康科普型长尾疑问；比较决策类占6%：如'alternatives to statins for women'、'best statin for elderly'、'statin with least myalgias'等体现用药选择焦虑；紧急问题类极少但高价值：'bp care'（CTR 6.1%，pos 4.75）和'bpcare'（CTR 23.1%，pos 4.5）显示品牌词用户意图明确，可能为新访客直接搜索品牌寻求可信解决方案。",
+    "ctrAnomalies": "首页CTR仅9%（67展示→6点击），远低于行业健康站均值（12–15%），说明首屏价值主张或CTA不清晰；'heart-rate-variability-explained'页面展示30次但0点击（pos 84.8），标题专业但未匹配用户实际搜索语言（用户搜'heart beat variability'/'variation from your heart's cadence'等口语化变体）；'the-hidden-dangers-of-indoor-heating-on-blood-pressure'展示54次仅1点击（CTR 1.9%），标题过长且未包含核心搜索词'heat AND blood pressure'——而该组合在17个相关query中出现9次，总展示量达24次，但无一命中。",
+    "hiddenOpportunities": "[\"热环境与血压的因果关系（'heat', 'humidity', 'hot bath', 'air conditioning'相关词共14个，总展示32次，0点击，平均位置>75，表明现有内容未覆盖用户真实提问句式）\",\"女性他汀耐受性细分需求（'alternatives to statins for women'、'best statin for women'、'statin that doesn't cause muscle pain'等6个query全部0点击，但指向明确临床痛点）\",\"HRV通俗化表达缺口（用户高频使用'variation from your heart's cadence'、'puls variation'、'heart beat variability'等非标准术语，而官网用'heart rate variability'专业表述导致错配）\",\"饮食干预具象化场景（'soup for high cholesterol'、'cholesterol lowering soup'共2次展示，0点击；但'soups-lower-blood-pressure-winter'有6展示0点击，说明'降压/降脂+汤品'是可落地的高意图长尾）\",\"AI品牌认知萌芽（'bp rating ai'展示1次、位置3，'bpcare' CTR达23.1%，证明品牌词转化潜力强，但缺乏AI能力可视化锚点内容）\"]",
+    "topicPriorities": "[{\"topic\":\"Heat, Humidity & Blood Pressure: What the Data Really Shows (for Adults 35+)\",\"dataBasis\":\"14个热相关query总展示32次，覆盖'heat', 'humidity', 'hot bath', 'air conditioning'，平均位置82.3，0点击；同时'blood-pressure-rises-hot-bath-over-75'已有17展示+1点击（CTR 5.9%），验证该主题有基础流量但深度不足\",\"whyPriority\":\"高搜索密度+零内容覆盖+用户明确年龄层（'over-75'已验证），可快速复用现有'hot bath'文章结构，扩展机制解释+温度阈值+实测数据，ROI最高\"},{\"topic\":\"Statins for Women After 45: Less Muscle Pain, Better Safety Profile\",\"dataBasis\":\"'alternatives to statins for women'（4展示）、'best ",
+    "articleOptimizations": 5
+  },
+  "perplexityInsights": {
+    "cholesterol": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "Is an ApoB level of 85 dangerous for a 42-year-old with no other risk factors?",
+        "What does a high LDL but normal non-HDL cholesterol mean for heart risk at age 38?",
+        "Is lipoprotein(a) testing recommended for adults over 35 even if LDL is normal?",
+        "Can high triglycerides alone cause heart disease in a 40-year-old woman?",
+        "Why is my cholesterol rising every year despite eating a whole-food plant-based diet at 46?",
+        "Is a CAC score of 15 significant for a 39-year-old male with high LDL?",
+        "Do newer guidelines still recommend statins for adults 35–45 with LDL over 160 but low overall risk?",
+        "What is the ideal LDL target for a 50-year-old with type 2 diabetes and no heart disease?",
+        "Can intermittent fasting raise cholesterol temporarily in adults over 40?",
+        "Is high cholesterol in a slim 37-year-old always genetic, or could it be thyroid-related?"
+      ],
+      "competitorCoverage": "Top-ranking articles on cholesterol for adults consistently cover basic definitions (LDL vs. HDL), general risk factors (age, diet, smoking), standard screening ages (starting at 20–40, then every 3–5 years), and foundational lifestyle advice (reduce saturated fats, increase fiber, exercise). To compete, a new article must include advanced metrics like ApoB, lipoprotein(a), and CAC scores, address nuanced scenarios (e.g., high cholesterol in slim individuals, plant-based diet failures), and clarify evolving guideline shifts on statin use in low-risk 35–45-year-olds.",
+      "whyItMatters": "Cholesterol management is trending due to evolving guidelines that increasingly emphasize advanced lipid markers (ApoB, lipoprotein(a)) over traditional LDL alone, especially for adults 35+ with family history or borderline risk, and growing public confusion about why cholesterol rises despite 'healthy' lifestyles."
+    },
+    "diabetes": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "What is the target time-in-range for blood sugar when using a CGM for adults over 35?",
+        "Is weight-management medication like semaglutide safe for adults over 40 with type 2 diabetes?",
+        "How often should adults over 35 with diabetes get a microalbumin test to check kidney health?",
+        "What are the early signs of diabetes-related sleep problems in people over 45?",
+        "Can adults over 50 with type 2 diabetes achieve remission without bariatric surgery?",
+        "What is the difference between basal and bolus insulin dosing for older adults with type 1 diabetes?",
+        "How does PCOS affect insulin resistance and diabetes risk in women over 35?",
+        "What are the best low-carb breakfast options that stabilize morning blood sugar for adults over 40?",
+        "Is it normal to have blood sugar peaks above 200 one hour after eating for older diabetics?",
+        "How can adults over 50 avoid frequent blood sugar lows while managing type 1 diabetes?"
+      ],
+      "competitorCoverage": "Top-ranking Google articles on diabetes for adults universally cover basic definitions, A1C testing frequency, prediabetes reversibility, and general lifestyle changes like diet and exercise. To compete, a new article must include specific, age-targeted guidance on CGM time-in-range targets, kidney microalbumin testing schedules, weight-management medication safety for over-40s, and practical low-carb meal strategies that stabilize morning glucose.",
+      "whyItMatters": "This topic is critical now due to rising type 2 diabetes rates in adults over 35 and new 2025-2026 guidelines emphasizing CGM use, time-in-range metrics, and personalized weight-management pharmacotherapy for older adults, making generic advice insufficient for this demographic."
+    },
+    "healthy eating for seniors": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "How much protein should a 40-year-old woman eat daily to prevent muscle loss before menopause?",
+        "Is the Mediterranean diet safe for adults 35+ with early-stage kidney disease?",
+        "What are the best high-fiber foods for seniors over 50 who take blood pressure meds?",
+        "Can I eat too many eggs if I'm 45 and have high LDL cholesterol?",
+        "How do I adjust portion sizes for healthy eating at age 38 with a sedentary job?",
+        "Are plant-based protein powders safe for adults over 40 with heart concerns?",
+        "What vitamins should a 52-year-old man take if he eats mostly processed foods?",
+        "Is it normal to lose appetite at age 42, and what foods help if I'm not hungry?",
+        "How much calcium do women 45+ need daily if they don't drink milk?",
+        "Can seniors over 60 with diabetes eat fruit without spiking blood sugar?"
+      ],
+      "competitorCoverage": "Top-ranking articles cover general principles like choosing nutrient-dense foods, avoiding empty calories, staying hydrated, eating smaller frequent meals, and focusing on protein, fiber, calcium, vitamin D, and B12. They also address age-related changes in taste, teeth, and digestion, plus food safety and label reading. To compete, a new article must include specific, actionable guidance for subgroups (e.g., by age, condition, or lifestyle), quantify recommendations (grams, servings, mg), and address common misconceptions about 'healthy' foods that may harm seniors.",
+      "whyItMatters": "This topic is trending due to the growing 35+ population managing chronic conditions like heart disease, diabetes, and CKD, alongside recent 2025–2026 updates to dietary guidelines emphasizing higher protein and fiber for muscle preservation and metabolic health. Seasonal factors like summer dehydration and holiday eating also drive immediate search interest."
+    },
+    "exercise for seniors": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "What is the best exercise routine for adults over 35 who have never exercised before?",
+        "Is it too late to start strength training at 40 to prevent muscle loss?",
+        "How many minutes of exercise per day do adults 35-50 need to reverse sedentary damage?",
+        "What exercises are safe for adults over 40 with high blood pressure who can't run?",
+        "Can I build muscle after 45 without using heavy weights or a gym?",
+        "What is the safest way for a 50-year-old to start running without injuring knees?",
+        "Are there specific exercises to reduce belly fat for men over 40 that don't involve cardio?",
+        "What exercises help adults over 35 with lower back pain from sitting all day?",
+        "Is yoga enough for strength training if I'm 55 and want to avoid injury?",
+        "How do I know if my heart rate is too high during exercise at age 42?"
+      ],
+      "competitorCoverage": "Top-ranking articles primarily cover CDC/NHS guidelines for adults 65+ (150 minutes/week aerobic, 2 days strength, balance training), low-impact options like swimming/yoga/tai chi, chair exercises for limited mobility, and four fitness pillars: endurance, strength, balance, flexibility. To compete, a new article must target the 35-64 'pre-senior' gap with age-specific progression plans, address common barriers like back pain or sedentary jobs, and include science-backed muscle-loss prevention strategies for adults under 65.",
+      "whyItMatters": "This topic is trending because adults 35+ are increasingly aware of sarcopenia (muscle loss starting in 30s) and are searching for 'pre-senior' exercise to prevent future disability, with recent studies emphasizing strength training as critical for metabolic health and bone density before age 50. Seasonal factors include summer outdoor activity interest and post-winter fitness resets driving searches for safe, joint-friendly routines."
+    }
+  },
+  "topTopics": [
+    {
+      "title": "Can Pets Lower Heart Rate for Women Over 60?",
+      "pk": "can pets lower heart rate for women over 60",
+      "score": 54.333333333333336,
+      "breakdown": {
+        "clusterNeed": 22.3,
+        "searchDemand": 10,
+        "differentiation": 20,
+        "timeliness": 2
+      },
+      "reasoning": "cardiovascular-health集群覆盖率63%，中等缺口 | GSC精确匹配\"higher or lower heart rate variability\"(1次展示)，弱信号 | 与已有文章有差异(重叠50%) | 搜索趋势下降"
+    },
+    {
+      "title": "Can You Build Muscle After 45 Without Heavy Weights?",
+      "pk": "build muscle after 45 without heavy weights",
+      "score": 51.7,
+      "breakdown": {
+        "clusterNeed": 16.7,
+        "searchDemand": 8,
+        "differentiation": 21,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率52%，中等缺口 | 近7天已产出5篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠40%)"
+    },
+    {
+      "title": "Semaglutide Safety for Adults Over 40 with Diabetes",
+      "pk": "semaglutide safe over 40 diabetes",
+      "score": 47.6,
+      "breakdown": {
+        "clusterNeed": 13.6,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "diabetes-management集群接近目标 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Best Indoor Exercises for Cold Weather Blood Pressure",
+      "pk": "indoor exercises for cold weather blood pressure",
+      "score": 46.7,
+      "breakdown": {
+        "clusterNeed": 16.7,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 2
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率52%，中等缺口 | 近7天已产出5篇，适度减分 | GSC方向相关\"does hot humid weather affect blood pressure\"(1次展示)，微弱信号 | 与已有文章有差异(重叠50%) | 搜索趋势下降"
+    },
+    {
+      "title": "Best High-Protein Snacks for Seniors With Dentures",
+      "pk": "high protein snacks for seniors with dentures",
+      "score": 46,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    },
+    {
+      "title": "Flexibility Moves for Stiff Hips After Sitting All Day",
+      "pk": "flexibility moves for stiff hips after sitting",
+      "score": 45,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 21,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章有差异(重叠40%)"
+    },
+    {
+      "title": "CAC Score 15 at 39: What It Really Means for Your Heart",
+      "pk": "cac score 15 at 39 what does it mean",
+      "score": 44.333333333333336,
+      "breakdown": {
+        "clusterNeed": 22.3,
+        "searchDemand": 8,
+        "differentiation": 8,
+        "timeliness": 6
+      },
+      "reasoning": "cardiovascular-health集群覆盖率63%，中等缺口 | 来自周度分析推荐 | 与已有文章有一定重叠(67%)，可能cannibalize"
+    },
+    {
+      "title": "Can High Triglycerides Cause Heart Disease at 40?",
+      "pk": "can high triglycerides cause heart disease",
+      "score": 43.333333333333336,
+      "breakdown": {
+        "clusterNeed": 22.3,
+        "searchDemand": 11,
+        "differentiation": 8,
+        "timeliness": 2
+      },
+      "reasoning": "cardiovascular-health集群覆盖率63%，中等缺口 | GSC方向相关\"can high cholesterol cause chest tightness\"(4次展示)，微弱信号 | 与已有文章有一定重叠(67%)，可能cannibalize | 搜索趋势下降"
+    },
+    {
+      "title": "Does Eating Too Many Eggs Raise Cholesterol After 45?",
+      "pk": "can I eat too many eggs if I'm 45 and have high LDL",
+      "score": 40.75,
+      "breakdown": {
+        "clusterNeed": 2.8,
+        "searchDemand": 8,
+        "differentiation": 24,
+        "timeliness": 6
+      },
+      "reasoning": "nutrition-diet-management集群接近目标 | 近7天已产出5篇，适度减分 | 来自周度分析推荐 | 与已有文章高度差异化(重叠29%)"
+    },
+    {
+      "title": "Best High-Fiber Foods for Seniors on Blood Pressure Meds",
+      "pk": "best high fiber foods for seniors on blood pressure meds",
+      "score": 39.75,
+      "breakdown": {
+        "clusterNeed": 2.8,
+        "searchDemand": 15,
+        "differentiation": 20,
+        "timeliness": 2
+      },
+      "reasoning": "nutrition-diet-management集群接近目标 | 近7天已产出5篇，适度减分 | GSC方向相关\"7 foods that quietly raise blood pressure in older adults\"(28次展示) | 高展示0点击(标题可能需优化) | 与已有文章有差异(重叠50%) | 搜索趋势下降"
+    }
+  ]
+}
