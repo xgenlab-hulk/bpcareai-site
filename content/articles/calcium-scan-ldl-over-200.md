@@ -1,13 +1,12 @@
 ---
-title: >-
-  Should You Get a Calcium Scan With LDL Over 200?
+title: Should You Get a Calcium Scan With LDL Over 200?
 slug: calcium-scan-ldl-over-200
 description: >-
-  Yes—if your LDL is >200 mg/dL, a calcium scan (CAC) can reveal hidden plaque, even if you feel fine.
+  Yes—if your LDL is >200 mg/dL, a calcium scan (CAC) can reveal hidden plaque,
+  even if you feel fine.
 date: '2026-06-29'
 updated: '2026-06-29'
-primaryKeyword: >-
-  should I get a calcium scan with LDL over 200
+primaryKeyword: should I get a calcium scan with LDL over 200
 topicCluster: cardiovascular-health
 image: ''
 relatedSlugs:
@@ -15,8 +14,8 @@ relatedSlugs:
     5-things-everyone-over-70-should-know-about-coronary-artery-calcium-cac-scoring-especially-if-you-re-taking-statins-but-have-zero-symptoms
   - >-
     the-complete-guide-to-interpreting-your-cardiac-ct-calcium-score-if-you-re-60-and-have-no-symptoms-but-a-family-history-of-early-heart-attacks
-  - >-
-    read-cholesterol-test-after-60
+  - read-cholesterol-test-after-60
+  - cac-score-15-at-39
 ---
 
 # Should You Get a Calcium Scan With LDL Over 200?
