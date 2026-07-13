@@ -1,5 +1,56 @@
 [
   {
+    "slug": "walking-routine-sedentary-adults-35-50",
+    "title": "Walking Routine for Sedentary Adults 35–50: Start Today",
+    "description": "Walking routine for sedentary adults 35 to 50: Just 150 min/week lowers heart disease risk by 27% (AHA, 2023). Safe, no-equipment start — begin now.",
+    "date": "2026-07-13",
+    "updated": "2026-07-13",
+    "primaryKeyword": "walking routine for sedentary adults 35 to 50",
+    "topicCluster": "lifestyle-interventions",
+    "image": "",
+    "relatedSlugs": [
+      "best-walking-routine-seniors-out-of-shape",
+      "start-walking-at-75-safely",
+      "start-walking-safely-at-80",
+      "exercise-at-65-weekly-plan",
+      "walking-minutes-per-day-seniors-over-65"
+    ]
+  },
+  {
+    "slug": "normal-hrv-by-age-over-35",
+    "title": "What Is Normal HRV by Age for Adults Over 35?",
+    "description": "Normal HRV by age for adults over 35 is typically 55–75 ms (RMSSD—a measure of nervous system balance).",
+    "date": "2026-07-13",
+    "updated": "2026-07-13",
+    "primaryKeyword": "normal hrv by age for adults over 35",
+    "topicCluster": "cardiovascular-health",
+    "image": "",
+    "relatedSlugs": [
+      "why-does-heart-rate-variability-decline-after-65-and-what-simple-breathing-protocols-can-restore-it-without-medication",
+      "5-things-every-man-over-55-should-know-about-normal-morning-heart-rate-variability-especially-with-untreated-mild-sleep-disordered-breathing",
+      "normal-blood-pressure-adults-35-plus",
+      "cold-face-immersion-vs-vagus-humming-hrvar",
+      "normalize-heart-rate-variability-after-alcohol"
+    ]
+  },
+  {
+    "slug": "cholesterol-rises-plant-based-diet-after-45",
+    "title": "Why Cholesterol Rises on a Plant-Based Diet After 45",
+    "description": "Why cholesterol rises on plant based diet after 45: 12.3% of adults 40–55 see LDL ↑≥20 mg/dL.",
+    "date": "2026-07-13",
+    "updated": "2026-07-13",
+    "primaryKeyword": "why cholesterol rises on plant based diet after 45",
+    "topicCluster": "nutrition-diet-management",
+    "image": "",
+    "relatedSlugs": [
+      "perimenopause-raise-cholesterol-women-40",
+      "keto-cholesterol-40s",
+      "foods-raise-cholesterol-after-50",
+      "cholesterol-heart-disease-risk-after-40",
+      "does-stress-raise-cholesterol-after-35"
+    ]
+  },
+  {
     "slug": "high-fiber-foods-seniors-blood-pressure-meds",
     "title": "Best High-Fiber Foods for Seniors on Blood Pressure Meds",
     "description": "Best high-fiber foods for seniors on blood pressure meds — flaxseeds lowered systolic BP by 10 mmHg in seniors taking lisinopril or amlodipine.",
