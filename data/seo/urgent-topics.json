@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "title": "What Is a Healthy Heart Rate Variability by Age?",
+    "primaryKeyword": "normal hr v by age",
+    "description": "HRV drops ~1 ms/year after age 35—learn what’s healthy for your age, when low HRV signals risk (e.g., <40 ms at 45), and how to improve it naturally.",
+    "topicCluster": "heart-rate-variability",
+    "reasoning": "People are suddenly searching 'beat to beat variability' because wearable apps (Oura, Whoop, Apple Watch) now surface raw HRV metrics—causing confusion and anxiety among adults 35+ who see declining numbers but lack context on age norms, clinical meaning, or actionable next steps.",
+    "query": "beat to beat variability",
+    "type": "RANK_JUMP",
+    "score": 80,
+    "perplexityQuestions": [
+      "What is a normal beat-to-beat variability (HRV) for a 35-year-old adult?",
+      "Is an HRV of 40 ms dangerous for a 45-year-old with high blood pressure?",
+      "Why is my heart rate variability so low at age 50 even though I exercise daily?",
+      "What HRV score indicates I am overtraining or need rest at age 38?",
+      "Is a 20% drop in my HRV from my 30-day average a sign of illness for adults over 40?"
+    ],
+    "createdAt": "2026-07-13T01:55:31.958Z",
+    "expiresAt": "2026-07-16T01:55:31.958Z"
+  }
+]
