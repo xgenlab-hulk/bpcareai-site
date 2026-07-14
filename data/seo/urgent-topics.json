@@ -1,21 +1,21 @@
 [
   {
-    "title": "What Is a Healthy Heart Rate Variability by Age?",
+    "title": "What Is Normal HRV by Age? (And When to Worry)",
     "primaryKeyword": "normal hr v by age",
-    "description": "HRV drops ~1 ms/year after age 35—learn what’s healthy for your age, when low HRV signals risk (e.g., <40 ms at 45), and how to improve it naturally.",
+    "description": "Healthy HRV drops ~0.5–1.0 ms per year after 35. Learn what’s normal for your age—and when a 30% monthly drop signals need for action.",
     "topicCluster": "heart-rate-variability",
-    "reasoning": "People are suddenly searching 'beat to beat variability' because wearable apps (Oura, Whoop, Apple Watch) now surface raw HRV metrics—causing confusion and anxiety among adults 35+ who see declining numbers but lack context on age norms, clinical meaning, or actionable next steps.",
+    "reasoning": "People are seeing sudden HRV drops on wearables and Googling 'beat to beat variability'—but they’re really asking: 'Is my heart aging too fast?' or 'Could this mean early heart trouble?' They want age-specific, actionable benchmarks—not clinical jargon—and reassurance grounded in real-world wearable data trends.",
     "query": "beat to beat variability",
     "type": "RANK_JUMP",
     "score": 80,
     "perplexityQuestions": [
-      "What is a normal beat-to-beat variability (HRV) for a 35-year-old adult?",
-      "Is an HRV of 40 ms dangerous for a 45-year-old with high blood pressure?",
-      "Why is my heart rate variability so low at age 50 even though I exercise daily?",
-      "What HRV score indicates I am overtraining or need rest at age 38?",
-      "Is a 20% drop in my HRV from my 30-day average a sign of illness for adults over 40?"
+      "What is a normal beat-to-beat variability (HRV) for a 35-year-old male?",
+      "Is an HRV of 25 ms dangerous for a 45-year-old woman?",
+      "Why is my beat-to-beat variability so low at age 50 even though I exercise?",
+      "What HRV score indicates heart failure risk in adults over 40?",
+      "Is a 30% drop in my HRV from last month a sign of illness at age 38?"
     ],
-    "createdAt": "2026-07-13T01:55:31.958Z",
-    "expiresAt": "2026-07-16T01:55:31.958Z"
+    "createdAt": "2026-07-14T01:42:58.713Z",
+    "expiresAt": "2026-07-17T01:42:58.713Z"
   }
 ]

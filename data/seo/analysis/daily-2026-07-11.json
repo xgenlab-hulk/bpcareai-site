@@ -1,0 +1,20 @@
+{
+  "date": "2026-07-11",
+  "period": "3-day",
+  "impressionsChange": 22.425952045133986,
+  "clicksChange": -15.151515151515154,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "beat to beat variability",
+      "reason": "排名跃升 42.0 位（62.0 → 20.0）",
+      "score": 80,
+      "recentImpressions": 1,
+      "baselineImpressions": 4,
+      "recentPosition": 20,
+      "baselinePosition": 62
+    }
+  ]
+}
