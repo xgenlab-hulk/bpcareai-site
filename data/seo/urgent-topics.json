@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "title": "Does High Humidity Raise Your Blood Pressure?",
+    "primaryKeyword": "does humidity raise blood pressure",
+    "description": "Yes — studies show BP can spike up to 10 mmHg during humid heatwaves (>70% RH). Learn how to monitor and protect yourself, especially if you're over 35.",
+    "topicCluster": "weather-and-blood-pressure",
+    "reasoning": "A recent summer heatwave across the U.S. and Europe has triggered widespread concern among adults 35+ about unexplained BP spikes — users want practical, age-specific guidance on managing cardiovascular risk when humidity climbs, not clinical jargon.",
+    "query": "humidity and blood pressure",
+    "type": "RANK_JUMP",
+    "score": 80,
+    "perplexityQuestions": [
+      "Does high humidity raise or lower blood pressure in adults over 35?",
+      "Is 140/90 blood pressure dangerous at age 45 during a humid heatwave?",
+      "How does humidity above 70% affect blood pressure in people with hypertension?",
+      "Can high humidity cause a temporary spike in blood pressure for seniors over 65?",
+      "Why does my blood pressure fluctuate when humidity rises above 80 degrees?"
+    ],
+    "createdAt": "2026-07-16T01:49:03.521Z",
+    "expiresAt": "2026-07-19T01:49:03.521Z"
+  }
+]

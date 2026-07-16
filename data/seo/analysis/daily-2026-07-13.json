@@ -1,0 +1,20 @@
+{
+  "date": "2026-07-13",
+  "period": "3-day",
+  "impressionsChange": -50.877192982456144,
+  "clicksChange": -100,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "humidity and blood pressure",
+      "reason": "排名跃升 27.6 位（55.6 → 28.0）",
+      "score": 80,
+      "recentImpressions": 1,
+      "baselineImpressions": 5,
+      "recentPosition": 28,
+      "baselinePosition": 55.6
+    }
+  ]
+}
