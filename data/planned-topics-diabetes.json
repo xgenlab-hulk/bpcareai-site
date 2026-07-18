@@ -1,74 +1,56 @@
 [
   {
-    "title": "How to Check Blood Sugar Without Pricking Fingers After 70",
-    "description": "1 in 4 seniors over 70 now uses finger-free monitors — see which ones Medicare covers. Find out.",
-    "primaryKeyword": "check blood sugar without pricking fingers after 70",
-    "topicCluster": "monitoring-blood-sugar",
+    "title": "Can Bananas and Melons Raise Blood Sugar for Seniors?",
+    "description": "Glycemic load of 1 small banana = 12 — discover how to eat sweet fruit safely with diabetes",
+    "primaryKeyword": "can seniors with diabetes eat bananas and melons",
+    "topicCluster": "diabetes-management",
     "coreKeyword": "diabetes",
-    "createdAt": "2026-07-12T08:12:59.804Z"
+    "createdAt": "2026-07-18T03:50:39.613Z",
+    "score": 41.2,
+    "scheduledWeek": "2026-W30",
+    "perplexityQuestions": [
+      "What is the best blood sugar monitor for adults over 40 with diabetes?",
+      "Can I reverse type 2 diabetes after 50 without medication?",
+      "Is a blood sugar of 180 two hours after eating dangerous at age 45?",
+      "What are the early signs of diabetes in men over 50 besides high blood sugar?",
+      "How does sleep quality affect blood sugar levels in adults over 35?"
+    ],
+    "competitorCoverage": "Top-ranking articles cover foundational definitions (what diabetes is, types 1 vs 2), general risk factors (age 45+, obesity, family history), basic lifestyle advice (diet, exercise), and standard testing guidelines (A1C, fasting glucose). To compete, a new article must include age-specific numerical thresholds (e.g., 'is 180 dangerous at 45?'), medication comparisons for adults over 40, and actionable daily routines (breakfast ideas, walking targets) tailored to mid-life physiology."
   },
   {
-    "title": "Does Metformin Cause Night Sweats After 60?",
-    "description": "Up to 18% of adults over 60 report night sweats on metformin — here’s what helps most. Discover.",
-    "primaryKeyword": "does metformin cause night sweats after 60",
-    "topicCluster": "medication-management",
+    "title": "Is 180 Blood Sugar After Eating Dangerous at 45?",
+    "description": "A reading of 180 mg/dL two hours after meals is above target for adults 45+ — learn how to respond safely and prevent spikes.",
+    "primaryKeyword": "is 180 blood sugar after eating dangerous at 45",
+    "topicCluster": "diabetes-management",
     "coreKeyword": "diabetes",
-    "createdAt": "2026-07-12T08:13:02.271Z"
+    "createdAt": "2026-07-18T03:50:39.613Z",
+    "score": 27.200000000000003,
+    "scheduledWeek": "2026-W30",
+    "perplexityQuestions": [
+      "What is the best blood sugar monitor for adults over 40 with diabetes?",
+      "Can I reverse type 2 diabetes after 50 without medication?",
+      "Is a blood sugar of 180 two hours after eating dangerous at age 45?",
+      "What are the early signs of diabetes in men over 50 besides high blood sugar?",
+      "How does sleep quality affect blood sugar levels in adults over 35?"
+    ],
+    "competitorCoverage": "Top-ranking articles cover foundational definitions (what diabetes is, types 1 vs 2), general risk factors (age 45+, obesity, family history), basic lifestyle advice (diet, exercise), and standard testing guidelines (A1C, fasting glucose). To compete, a new article must include age-specific numerical thresholds (e.g., 'is 180 dangerous at 45?'), medication comparisons for adults over 40, and actionable daily routines (breakfast ideas, walking targets) tailored to mid-life physiology."
   },
   {
-    "title": "Warning Signs of Diabetic Foot Ulcers You Shouldn't Ignore",
-    "description": "72% of serious foot infections start with painless blisters — spot them early. Learn how.",
-    "primaryKeyword": "warning signs of diabetic foot ulcers",
-    "topicCluster": "symptoms-complications",
+    "title": "Can Diabetes Cause Memory Loss After 60?",
+    "description": "Yes — adults over 60 with A1C above 7.5% have 2.3x higher risk of mild cognitive decline; find out what helps now.",
+    "primaryKeyword": "can diabetes cause memory loss after 60",
+    "topicCluster": "diabetes-management",
     "coreKeyword": "diabetes",
-    "createdAt": "2026-07-12T08:13:04.704Z"
-  },
-  {
-    "title": "Best Walking Pace for Blood Sugar Control After 68",
-    "description": "A 112-step-per-minute pace lowers post-meal glucose by 22% — no gym needed. Discover.",
-    "primaryKeyword": "best walking pace for blood sugar control after 68",
-    "topicCluster": "exercise-blood-sugar",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-07-12T08:13:07.221Z"
-  },
-  {
-    "title": "What to Do When Blood Sugar Spikes After Dinner at 75",
-    "description": "Over 60% of seniors see spikes >40 mg/dL after dinner — try this 3-minute trick first. Learn how.",
-    "primaryKeyword": "what to do when blood sugar spikes after dinner at 75",
-    "topicCluster": "diet-meal-timing",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-07-12T08:13:09.652Z"
-  },
-  {
-    "title": "Why Blood Sugar Rises at Night After 65",
-    "description": "Dawn phenomenon affects 58% of adults over 65 — but it’s not the only cause. Find out.",
-    "primaryKeyword": "why blood sugar rises at night after 65",
-    "topicCluster": "symptoms-complications",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-07-12T08:13:12.132Z"
-  },
-  {
-    "title": "Best Breakfast for Stable Blood Sugar at 80",
-    "description": "Seniors who eat this combo keep fasting glucose under 110 mg/dL 92% of mornings. Learn how.",
-    "primaryKeyword": "best breakfast for stable blood sugar at 80",
-    "topicCluster": "diet-meal-timing",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-07-12T08:13:14.622Z"
-  },
-  {
-    "title": "Can Gardening Help Blood Sugar Control After 60?",
-    "description": "30 minutes of light gardening lowers A1C by 0.4% in 12 weeks — and it counts as exercise. Discover.",
-    "primaryKeyword": "can gardening help blood sugar control after 60",
-    "topicCluster": "exercise-blood-sugar",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-07-12T08:13:17.124Z"
-  },
-  {
-    "title": "How Often to Test Blood Sugar if You’re Over 70 and on Insulin",
-    "description": "Experts now recommend 4 checks/day for insulin users over 70 — but timing matters most. Learn how.",
-    "primaryKeyword": "how often to test blood sugar over 70 on insulin",
-    "topicCluster": "monitoring-blood-sugar",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-07-12T08:13:19.548Z"
+    "createdAt": "2026-07-18T03:50:39.613Z",
+    "score": 27.200000000000003,
+    "scheduledWeek": "2026-W30",
+    "perplexityQuestions": [
+      "What is the best blood sugar monitor for adults over 40 with diabetes?",
+      "Can I reverse type 2 diabetes after 50 without medication?",
+      "Is a blood sugar of 180 two hours after eating dangerous at age 45?",
+      "What are the early signs of diabetes in men over 50 besides high blood sugar?",
+      "How does sleep quality affect blood sugar levels in adults over 35?"
+    ],
+    "competitorCoverage": "Top-ranking articles cover foundational definitions (what diabetes is, types 1 vs 2), general risk factors (age 45+, obesity, family history), basic lifestyle advice (diet, exercise), and standard testing guidelines (A1C, fasting glucose). To compete, a new article must include age-specific numerical thresholds (e.g., 'is 180 dangerous at 45?'), medication comparisons for adults over 40, and actionable daily routines (breakfast ideas, walking targets) tailored to mid-life physiology."
   }
 ]

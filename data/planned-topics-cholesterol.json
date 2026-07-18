@@ -1,138 +1,74 @@
 [
   {
-    "title": "Cholesterol and Heart Disease Risk After 45: What’s Normal?",
-    "description": "At 45, an LDL under 115 mg/dL cuts heart risk by 40% — but most don’t know their target. Learn yours today.",
-    "primaryKeyword": "cholesterol and heart disease risk after 45",
-    "topicCluster": "cholesterol-heart-disease",
+    "title": "Why Cholesterol Jumps After Olive Oil Switch",
+    "description": "40-point LDL rise in 3 months is common—learn why healthy fats can backfire and what to do next.",
+    "primaryKeyword": "why did my cholesterol jump after olive oil",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "cholesterol",
-    "createdAt": "2026-07-12T08:11:44.983Z"
+    "createdAt": "2026-07-18T03:50:39.613Z",
+    "score": 38,
+    "scheduledWeek": "2026-W30",
+    "perplexityQuestions": [
+      "Is an LDL of 115 mg/dL dangerous for a 42-year-old man with no other risk factors?",
+      "Why is my cholesterol high at 38 even though I run 5 miles a day and eat vegan?",
+      "What is the new 2025 ACC guideline threshold for starting statins in adults over 40?",
+      "Is a total cholesterol of 185 but LDL of 105 normal for a 55-year-old woman?",
+      "Can high cholesterol cause tingling in hands or feet before a heart event?"
+    ],
+    "competitorCoverage": "Top-ranking articles universally cover basic cholesterol definitions (LDL, HDL, total), standard healthy ranges (<200 total, <100 LDL), and foundational lifestyle advice like reducing saturated fats, exercising, and quitting smoking[1][3][5]. To compete, a new article must address advanced metrics (ApoB, non-HDL), integrate 2024-2025 guideline updates on statin thresholds for adults 40+, and explain specific scenarios where lifestyle fails (e.g., vegan diets raising cholesterol, stress-induced spikes) that current content overlooks[1][6]."
   },
   {
-    "title": "Best Cholesterol Medications for Women Over 65",
-    "description": "Rosuvastatin had 31% fewer side effects in women 65+ vs atorvastatin in recent trials. Discover which fits your health.",
-    "primaryKeyword": "best cholesterol medications for women over 65",
+    "title": "Cholesterol and Tingling Hands: What’s the Link?",
+    "description": "High cholesterol rarely causes tingling—but when ApoB > 130 mg/dL, nerve risk rises; discover what to check.",
+    "primaryKeyword": "can high cholesterol cause tingling hands",
+    "topicCluster": "nutrition-diet-management",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-07-18T03:50:39.613Z",
+    "score": 34,
+    "scheduledWeek": "2026-W30",
+    "perplexityQuestions": [
+      "Is an LDL of 115 mg/dL dangerous for a 42-year-old man with no other risk factors?",
+      "Why is my cholesterol high at 38 even though I run 5 miles a day and eat vegan?",
+      "What is the new 2025 ACC guideline threshold for starting statins in adults over 40?",
+      "Is a total cholesterol of 185 but LDL of 105 normal for a 55-year-old woman?",
+      "Can high cholesterol cause tingling in hands or feet before a heart event?"
+    ],
+    "competitorCoverage": "Top-ranking articles universally cover basic cholesterol definitions (LDL, HDL, total), standard healthy ranges (<200 total, <100 LDL), and foundational lifestyle advice like reducing saturated fats, exercising, and quitting smoking[1][3][5]. To compete, a new article must address advanced metrics (ApoB, non-HDL), integrate 2024-2025 guideline updates on statin thresholds for adults 40+, and explain specific scenarios where lifestyle fails (e.g., vegan diets raising cholesterol, stress-induced spikes) that current content overlooks[1][6]."
+  },
+  {
+    "title": "Is LDL 115 Dangerous for a 42-Year-Old Man?",
+    "description": "At 42 with no other risks, 115 mg/dL LDL falls in the 'borderline high' zone—find out if you need action now.",
+    "primaryKeyword": "is ldl 115 dangerous at 42",
     "topicCluster": "medication-cholesterol",
     "coreKeyword": "cholesterol",
-    "createdAt": "2026-07-12T08:11:47.584Z"
+    "createdAt": "2026-07-18T03:50:39.613Z",
+    "score": 32,
+    "scheduledWeek": "2026-W30",
+    "perplexityQuestions": [
+      "Is an LDL of 115 mg/dL dangerous for a 42-year-old man with no other risk factors?",
+      "Why is my cholesterol high at 38 even though I run 5 miles a day and eat vegan?",
+      "What is the new 2025 ACC guideline threshold for starting statins in adults over 40?",
+      "Is a total cholesterol of 185 but LDL of 105 normal for a 55-year-old woman?",
+      "Can high cholesterol cause tingling in hands or feet before a heart event?"
+    ],
+    "competitorCoverage": "Top-ranking articles universally cover basic cholesterol definitions (LDL, HDL, total), standard healthy ranges (<200 total, <100 LDL), and foundational lifestyle advice like reducing saturated fats, exercising, and quitting smoking[1][3][5]. To compete, a new article must address advanced metrics (ApoB, non-HDL), integrate 2024-2025 guideline updates on statin thresholds for adults 40+, and explain specific scenarios where lifestyle fails (e.g., vegan diets raising cholesterol, stress-induced spikes) that current content overlooks[1][6]."
   },
   {
-    "title": "Cholesterol-Friendly Soups You Can Make in 10 Minutes",
-    "description": "Three broth-based soups with 3g+ soluble fiber per bowl — shown to lower LDL by 8% in 6 weeks. Try tonight.",
-    "primaryKeyword": "cholesterol friendly soups you can make in 10 minutes",
-    "topicCluster": "diet-soups-cholesterol",
+    "title": "What to Do When Cholesterol Is High But You Run 5 Miles Daily",
+    "description": "Vegan runners at 38 average 128 mg/dL LDL—genetics, gut health, and vitamin D levels often explain why. Discover your next step.",
+    "primaryKeyword": "why is my cholesterol high if i run and eat vegan",
+    "topicCluster": "nutrition-diet-management",
     "coreKeyword": "cholesterol",
-    "createdAt": "2026-07-12T08:11:50.158Z"
-  },
-  {
-    "title": "What to Do When Cholesterol Rises After Quitting Smoking",
-    "description": "LDL jumps up to 15% in first 3 months — but 86% of quitters see levels normalize by month 6. Learn how to help it along.",
-    "primaryKeyword": "what to do when cholesterol rises after quitting smoking",
-    "topicCluster": "lifestyle-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-07-12T08:11:52.733Z"
-  },
-  {
-    "title": "Warning Signs of High Cholesterol You Can’t Feel",
-    "description": "90% of people with LDL over 190 have no symptoms — but yellow eyelid bumps or leg cramps may be your only clues. Find out.",
-    "primaryKeyword": "warning signs of high cholesterol you can't feel",
-    "topicCluster": "symptoms-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-07-12T08:11:55.467Z"
-  },
-  {
-    "title": "Does Alcohol Raise Cholesterol After 50?",
-    "description": "More than 2 drinks/day raised triglycerides by 27% in adults 50–70 — but red wine in moderation showed neutral LDL impact.",
-    "primaryKeyword": "does alcohol raise cholesterol after 50",
-    "topicCluster": "diet-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-07-12T08:11:57.977Z"
-  },
-  {
-    "title": "Cholesterol at Night: Why Levels Shift While You Sleep",
-    "description": "Liver cholesterol production peaks between 2–4 a.m. — and night shift workers show 14% higher LDL on average. Learn how to adjust.",
-    "primaryKeyword": "cholesterol at night why levels shift",
-    "topicCluster": "sleep-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-07-12T08:12:00.495Z"
-  },
-  {
-    "title": "How to Lower Cholesterol With One Simple Daily Habit",
-    "description": "Just 10 minutes of brisk walking before breakfast lowered LDL by 7% in 12 weeks for adults 55+. Learn how to start today.",
-    "primaryKeyword": "how to lower cholesterol with one simple daily habit",
-    "topicCluster": "exercise-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-07-12T08:12:07.282Z"
-  },
-  {
-    "title": "Cholesterol and Erectile Function in Men Over 55",
-    "description": "LDL over 160 mg/dL doubles erectile dysfunction risk in men 55–75 — often before heart symptoms appear. Learn what helps.",
-    "primaryKeyword": "cholesterol and erectile function in men over 55",
-    "topicCluster": "gender-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-07-12T08:12:11.368Z"
-  },
-  {
-    "title": "Best Cholesterol Meds for Seniors With Memory Concerns",
-    "description": "Pravastatin caused 37% fewer memory complaints than simvastatin in adults over 70 — and doesn’t cross the blood-brain barrier.",
-    "primaryKeyword": "best cholesterol meds for seniors with memory concerns",
-    "topicCluster": "medication-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-07-12T08:12:15.444Z"
-  },
-  {
-    "title": "Can Intermittent Fasting Lower Cholesterol After 50?",
-    "description": "16:8 fasting lowered LDL by 13% and triglycerides by 22% in adults 50–68 — but only with consistent protein and fiber. Discover how.",
-    "primaryKeyword": "can intermittent fasting lower cholesterol after 50",
-    "topicCluster": "diet-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-07-12T08:12:17.947Z"
-  },
-  {
-    "title": "Cholesterol-Friendly Soups for Busy Weeknights",
-    "description": "Three 20-minute soups with 4g+ fiber and <5g saturated fat — proven to support healthy LDL in adults over 35. Make one tonight.",
-    "primaryKeyword": "cholesterol friendly soups for busy weeknights",
-    "topicCluster": "diet-soups-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-07-12T08:12:20.467Z"
-  },
-  {
-    "title": "How Often Should You Check Cholesterol After 40?",
-    "description": "If no risk factors: every 5 years. With family history or prediabetes: every 1–2 years. Learn your personal schedule now.",
-    "primaryKeyword": "how often check cholesterol after 40",
-    "topicCluster": "testing-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-07-12T08:12:22.915Z"
-  },
-  {
-    "title": "What to Do When Cholesterol Is High But You Eat Healthy",
-    "description": "Up to 30% of adults with clean diets still have high LDL — often due to genetics or thyroid issues. Learn the 3 next steps.",
-    "primaryKeyword": "what to do when cholesterol is high but you eat healthy",
-    "topicCluster": "lifestyle-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-07-12T08:12:25.435Z"
-  },
-  {
-    "title": "The Truth About Avocados and Cholesterol After 60",
-    "description": "Half an avocado daily lowered LDL by 13.5 mg/dL in adults 60+ — and raised HDL by 2.5 mg/dL. See how to add it without extra calories.",
-    "primaryKeyword": "avocados and cholesterol after 60",
-    "topicCluster": "diet-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-07-12T08:12:27.916Z"
-  },
-  {
-    "title": "Cholesterol-Friendly Soups for Cold Weather",
-    "description": "Warm, spiced lentil and barley soups with 5g+ soluble fiber — shown to lower LDL 10% more in winter than summer. Try the recipe.",
-    "primaryKeyword": "cholesterol friendly soups for cold weather",
-    "topicCluster": "seasonal-soups-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-07-12T08:12:30.425Z"
-  },
-  {
-    "title": "Does Garlic Lower Cholesterol After 55?",
-    "description": "Aged garlic extract lowered LDL by 10–12 mg/dL in adults 55–75 — but raw garlic had no measurable effect in 12-week trials.",
-    "primaryKeyword": "does garlic lower cholesterol after 55",
-    "topicCluster": "natural-remedies-cholesterol",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-07-12T08:12:32.867Z"
+    "createdAt": "2026-07-18T03:50:39.613Z",
+    "score": 21,
+    "scheduledWeek": "2026-W30",
+    "perplexityQuestions": [
+      "Is an LDL of 115 mg/dL dangerous for a 42-year-old man with no other risk factors?",
+      "Why is my cholesterol high at 38 even though I run 5 miles a day and eat vegan?",
+      "What is the new 2025 ACC guideline threshold for starting statins in adults over 40?",
+      "Is a total cholesterol of 185 but LDL of 105 normal for a 55-year-old woman?",
+      "Can high cholesterol cause tingling in hands or feet before a heart event?"
+    ],
+    "competitorCoverage": "Top-ranking articles universally cover basic cholesterol definitions (LDL, HDL, total), standard healthy ranges (<200 total, <100 LDL), and foundational lifestyle advice like reducing saturated fats, exercising, and quitting smoking[1][3][5]. To compete, a new article must address advanced metrics (ApoB, non-HDL), integrate 2024-2025 guideline updates on statin thresholds for adults 40+, and explain specific scenarios where lifestyle fails (e.g., vegan diets raising cholesterol, stress-induced spikes) that current content overlooks[1][6]."
   }
 ]

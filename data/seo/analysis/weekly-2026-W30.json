@@ -1,0 +1,217 @@
+{
+  "week": "2026-W30",
+  "generatedAt": "2026-07-18T03:50:39.614Z",
+  "config": {
+    "weeklyTarget": 35,
+    "dailyTarget": 5
+  },
+  "previousWeek": {
+    "remaining": 44,
+    "kept": 0
+  },
+  "newGenerated": 20,
+  "totalWritten": 19,
+  "gscData": {
+    "daysAnalyzed": 7,
+    "totalSearchTerms": 67
+  },
+  "llmAnalysis": {
+    "searchIntentAnalysis": "信息查询主导（占比92%）：如'can heat and humidity affect blood pressure'（82位，0点击）、'humidity and blood pressure correlation'（81位）等37个长尾词均属深度健康科普需求；比较决策类次之（6%）：'best statin for women'、'statin with least muscle aches'等反映用药选择焦虑；紧急问题极少（2%）：'high blood pressure symptoms in females'（81位）暗示症状识别需求未被满足。所有零点击词平均位置84.6，说明用户明确搜索但未找到可信答案。",
+    "ctrAnomalies": "首页（/）CTR仅6.4%（47展示/3点击），远低于行业健康站均值12-15%，主因标题缺乏价值钩子与品牌认知弱；'heart-rate-variability-explained'页面CTR为0%（24展示/0点击），虽位置74.4但标题专业术语过重，未匹配用户搜索语言如'HRV vs bpm'或'heart beat variability'；'the-hidden-dangers-of-indoor-heating-on-blood-pressure'展示量最高（75次）却零点击，标题夸大且未包含核心词'heat/humidity + blood pressure'，导致相关性误判。",
+    "hiddenOpportunities": "[\"湿度与血压的生理机制（12+搜索词聚焦'humidity'，但无专题页）\",\"女性他汀用药安全指南（'best statin for women over 70'等8个变体零覆盖）\",\"热应激对老年高血压患者的实操管理（'hot bath over 75'、'heating pad'等场景化需求未响应）\",\"HRV通俗解读矩阵（'heart rate variance'、'beat to beat variability'等11个同义词分散，缺统一语义聚合页）\",\"降胆固醇食谱证据库（'soup to lower cholesterol'、'tomato soup good for high cholesterol'等7个饮食词零内容支撑）\"]",
+    "topicPriorities": "[{\"topic\":\"Heat, Humidity & Blood Pressure: What the Evidence Says for Adults 35+\",\"dataBasis\":\"37个相关搜索词总展示量142次，平均位置84.6，零点击率100%，'blood pressure and humidity'（8次展示）是唯一有基础曝光的长尾词\",\"whyPriority\":\"高需求低竞争洼地，可整合现有'hot bath'、'indoor heating'等碎片内容，用临床研究数据建立权威解答，抢占夏季搜索高峰\"},{\"topic\":\"Statins for Women Over 60: Balancing Efficacy, Muscle Pain & Menopause\",\"dataBasis\":\"'best statin for women'（3次展示）、'alternatives to statins for women'（4次）、'best statin for women over 70'（1次）等11个变体全部零点击，平均位置85.3\",\"whyPriorit",
+    "articleOptimizations": 5
+  },
+  "perplexityInsights": {
+    "cholesterol": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "Is an LDL of 115 mg/dL dangerous for a 42-year-old man with no other risk factors?",
+        "Why is my cholesterol high at 38 even though I run 5 miles a day and eat vegan?",
+        "What is the new 2025 ACC guideline threshold for starting statins in adults over 40?",
+        "Is a total cholesterol of 185 but LDL of 105 normal for a 55-year-old woman?",
+        "Can high cholesterol cause tingling in hands or feet before a heart event?",
+        "Does intermittent fasting raise or lower LDL in people over 45?",
+        "Is 220 total cholesterol with HDL 65 considered high risk for a 48-year-old?",
+        "Why did my cholesterol jump 40 points after switching to olive oil and nuts?",
+        "Are PCSK9 inhibitors safe for adults over 60 with kidney disease?",
+        "Does high cholesterol increase stroke risk more than heart attack risk after 50?"
+      ],
+      "competitorCoverage": "Top-ranking articles universally cover basic cholesterol definitions (LDL, HDL, total), standard healthy ranges (<200 total, <100 LDL), and foundational lifestyle advice like reducing saturated fats, exercising, and quitting smoking[1][3][5]. To compete, a new article must address advanced metrics (ApoB, non-HDL), integrate 2024-2025 guideline updates on statin thresholds for adults 40+, and explain specific scenarios where lifestyle fails (e.g., vegan diets raising cholesterol, stress-induced spikes) that current content overlooks[1][6].",
+      "whyItMatters": "This topic is trending due to the 2024 American College of Cardiology guideline updates that refined statin initiation thresholds for adults 40+ based on 10-year risk percentages, shifting focus from single numbers to risk stratification[6]. Additionally, rising interest in advanced lipid markers like ApoB and non-HDL reflects a growing patient demand for precision heart risk assessment beyond traditional LDL/total cholesterol metrics[11]."
+    },
+    "diabetes": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "What is the best blood sugar monitor for adults over 40 with diabetes?",
+        "Can I reverse type 2 diabetes after 50 without medication?",
+        "Is a blood sugar of 180 two hours after eating dangerous at age 45?",
+        "What are the early signs of diabetes in men over 50 besides high blood sugar?",
+        "How does sleep quality affect blood sugar levels in adults over 35?",
+        "Is it safe to take Ozempic and Metformin together after 40 with diabetes?",
+        "What breakfast foods keep blood sugar stable for prediabetes at 48?",
+        "Can diabetes cause memory loss or confusion in people over 60?",
+        "How often should I check my blood sugar if I have type 2 diabetes at 55?",
+        "Is 95 fasting blood sugar normal at age 42 or is it prediabetes?"
+      ],
+      "competitorCoverage": "Top-ranking articles cover foundational definitions (what diabetes is, types 1 vs 2), general risk factors (age 45+, obesity, family history), basic lifestyle advice (diet, exercise), and standard testing guidelines (A1C, fasting glucose). To compete, a new article must include age-specific numerical thresholds (e.g., 'is 180 dangerous at 45?'), medication comparisons for adults over 40, and actionable daily routines (breakfast ideas, walking targets) tailored to mid-life physiology.",
+      "whyItMatters": "Diabetes prevalence is rising sharply in adults 35+, with one in two cases undiagnosed globally, and recent guidelines emphasize earlier screening and aggressive prediabetes reversal. Seasonal factors like summer heat and holiday eating also drive spikes in blood sugar queries, while new medications (Ozempic, Ozempic alternatives) create confusion about safety and combinations for middle-aged adults."
+    },
+    "healthy eating for seniors": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "What are the best high-protein breakfast ideas for seniors over 65 to prevent muscle loss?",
+        "How much fiber should a 70-year-old woman eat daily to avoid constipation without bloating?",
+        "Is it safe for seniors with diabetes to eat sweet fruits like bananas and melons?",
+        "What are the easiest meal prep strategies for seniors with limited hand strength or arthritis?",
+        "Which vitamins are most critical for seniors over 60 who don't absorb B12 well?",
+        "How can seniors with dry mouth or swallowing difficulties eat nutritious meals comfortably?",
+        "What are the best low-cost, nutrient-dense foods for seniors living on a fixed income?",
+        "Are protein powders or supplements necessary for seniors over 70 who eat little meat?",
+        "How do I adjust my diet if I'm losing weight unintentionally after age 65?",
+        "What snacks are best for seniors who need to eat small amounts frequently throughout the day?"
+      ],
+      "competitorCoverage": "Top-ranking articles cover the core pillars of senior nutrition: prioritizing protein (25–30g per meal) to prevent muscle loss, increasing fiber and water for digestion and hydration, reducing sodium and processed foods, and adapting meals for physical limitations like chewing or cooking difficulties. To compete, a new article must include specific, actionable meal examples for common senior challenges (e.g., arthritis, dry mouth, low income), address nutrient absorption issues (B12, vitamin D), and provide clear guidance on portion adjustment and snack strategies for unintended weight loss.",
+      "whyItMatters": "This topic is trending due to the growing 'silver tsunami' of adults over 65, recent emphasis on protein intake to combat sarcopenia in aging guidelines, and seasonal summer factors like dehydration risk and reduced appetite from heat. Additionally, new studies highlight the link between nutrition and cognitive decline, making diet a critical focus for families managing mild memory changes."
+    },
+    "exercise for seniors": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "Is 150 minutes of exercise per week too much for a 40-year-old beginner with no prior fitness history?",
+        "What is the safest way to start strength training at 38 if I have a history of lower back pain?",
+        "Can I build muscle at 42 without lifting heavy weights, and how many reps should I do?",
+        "Is it too late to start running at 45 if I've never run before?",
+        "How often should a 50-year-old do balance exercises to prevent falls if they feel slightly unsteady?",
+        "What are the best exercises for a 55-year-old with high blood pressure who gets dizzy when standing up?",
+        "Is yoga safe for a 60-year-old with osteoarthritis in both knees, and which poses should I avoid?",
+        "How many days a week should a 65-year-old with COPD exercise to avoid shortness of breath?",
+        "Can I do Pilates at 70 if I have a herniated disc, and what modifications are needed?",
+        "What is the best low-impact cardio for a 72-year-old with swollen ankles who can't walk far?"
+      ],
+      "competitorCoverage": "Top-ranking articles cover the CDC/NHS guidelines (150 minutes/week, strength/balance/flexibility on 2+ days), emphasize low-impact options (swimming, cycling, chair workouts), and stress safety (warm-ups, stopping at pain, consulting doctors). To compete, a new article must include specific age-scenario examples (e.g., 'exercise for 45-year-old with back pain'), quantify rep ranges/weights for beginners, and address comorbidities like COPD, Parkinson's, or osteoarthritis with modified routines.",
+      "whyItMatters": "This topic is trending due to the aging global population and recent CDC updates reinforcing the 150-minute weekly aerobic + strength/balance guideline; seasonal factors like summer heat also drive searches for safe indoor/low-impact options for seniors with heat sensitivity or joint pain."
+    }
+  },
+  "topTopics": [
+    {
+      "title": "The Truth About B12 Supplements After 60",
+      "pk": "b12 supplements for seniors over 60",
+      "score": 64,
+      "breakdown": {
+        "clusterNeed": 30,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "medication-safety集群覆盖率33%，大缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Blood Pressure at Night: Why It Spikes in Winter",
+      "pk": "blood pressure spikes in winter",
+      "score": 54.36666666666667,
+      "breakdown": {
+        "clusterNeed": 20.4,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "hypertension-management集群覆盖率73%，中等缺口 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "How to Start Chair Yoga at 75 With Arthritis",
+      "pk": "chair yoga for seniors with arthritis",
+      "score": 46.6,
+      "breakdown": {
+        "clusterNeed": 24.6,
+        "searchDemand": 8,
+        "differentiation": 8,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率52%，中等缺口 | 来自周度分析推荐 | 与已有文章有一定重叠(67%)，可能cannibalize"
+    },
+    {
+      "title": "What to Do When Walking Makes You Dizzy at 65",
+      "pk": "walking makes me dizzy at 65",
+      "score": 46.6,
+      "breakdown": {
+        "clusterNeed": 24.6,
+        "searchDemand": 8,
+        "differentiation": 8,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率52%，中等缺口 | 来自周度分析推荐 | 与已有文章有一定重叠(67%)，可能cannibalize"
+    },
+    {
+      "title": "Best Low-Impact Cardio for 80-Year-Olds With COPD",
+      "pk": "low impact exercise for seniors with copd",
+      "score": 46.6,
+      "breakdown": {
+        "clusterNeed": 24.6,
+        "searchDemand": 8,
+        "differentiation": 8,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率52%，中等缺口 | 来自周度分析推荐 | 与已有文章有一定重叠(67%)，可能cannibalize"
+    },
+    {
+      "title": "Protein Powders: Do Seniors Over 70 Really Need Them?",
+      "pk": "do seniors over 70 need protein powder",
+      "score": 46,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    },
+    {
+      "title": "Ozempic vs Metformin After 40: Which Is Safer Long-Term?",
+      "pk": "ozempic vs metformin after 40 which is safer",
+      "score": 44,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "5 High-Protein Breakfasts for Seniors Over 65",
+      "pk": "high protein breakfast for seniors over 65",
+      "score": 44,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Can Bananas and Melons Raise Blood Sugar for Seniors?",
+      "pk": "can seniors with diabetes eat bananas and melons",
+      "score": 41.2,
+      "breakdown": {
+        "clusterNeed": 5.2,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "diabetes-management集群接近目标 | 近7天已产出4篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    },
+    {
+      "title": "5 Safe Strength Moves for 70+ With Knee Pain",
+      "pk": "strength training for seniors with bad knees",
+      "score": 40,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 2
+      },
+      "reasoning": "非核心集群，基础分 | GSC方向相关\"seated strength training for seniors -site:youtube.com -site:reddit.com -site:x.com -site:twitter.com -site:facebook.com -site:instagram.com -site:tiktok.com -site:linkedin.com -site:pinterest.com -site:nytimes.com -site:wsj.com -site:yelp.com -site:rottentomatoes.com\"(1次展示)，微弱信号 | 与已有文章有差异(重叠50%) | 搜索趋势下降"
+    }
+  ]
+}
