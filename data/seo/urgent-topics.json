@@ -1,40 +1,21 @@
 [
   {
-    "title": "Does Humidity Raise or Lower Blood Pressure?",
-    "primaryKeyword": "does humidity affect blood pressure",
-    "description": "High humidity can raise systolic BP by up to 10 mmHg in adults 35+ with hypertension—learn why and how to protect yourself this summer.",
+    "title": "Does Humidity Raise or Lower Your Blood Pressure?",
+    "primaryKeyword": "humidity and blood pressure",
+    "description": "High humidity can raise systolic BP by up to 10 mmHg in adults over 35—learn why it happens and how to protect yourself this summer.",
     "topicCluster": "weather-and-blood-pressure",
-    "reasoning": "A sudden rank jump signals real-time concern amid record-breaking summer heatwaves and high-humidity events; users over 35 are noticing unexplained BP spikes during humid days and want practical, non-medical explanations and immediate lifestyle adjustments—not clinical jargon.",
+    "reasoning": "A sudden rank jump signals real-time concern amid rising global heatwaves and record-breaking humidex values; users over 35 are urgently seeking practical, non-medical explanations for unexplained BP spikes during muggy weather—and want actionable, age-specific coping strategies.",
     "query": "humidity and blood pressure",
     "type": "RANK_JUMP",
     "score": 80,
     "perplexityQuestions": [
-      "Does high humidity raise or lower blood pressure in adults over 35?",
-      "Is 140/90 blood pressure dangerous at age 45 during a humid summer day?",
-      "How does 80% humidity affect blood pressure readings for people with hypertension?",
-      "Why does my blood pressure spike when humidity is above 70% and temperature is over 80°F?",
-      "Can humidity cause false high blood pressure readings if I measure outdoors?"
+      "Does high humidity increase or decrease blood pressure in adults over 35?",
+      "Is 140/90 blood pressure dangerous at age 45 during a humid heatwave?",
+      "Why does my blood pressure spike when humidity is above 70%?",
+      "Can humidity cause low blood pressure in seniors with hypertension?",
+      "How does 80°F with 80% humidity affect blood pressure in a 50-year-old?"
     ],
-    "createdAt": "2026-07-17T01:52:52.292Z",
-    "expiresAt": "2026-07-20T01:52:52.292Z"
-  },
-  {
-    "title": "What’s a Normal Pulse Rate Variation After 35?",
-    "primaryKeyword": "normal pulse rate variation for adults over 35",
-    "description": "Resting pulse can vary by 20–30 bpm daily in healthy adults 35+. Learn when variation is normal—and when to check with your doctor.",
-    "topicCluster": "pulse-rate-and-heart-health",
-    "reasoning": "People aged 35+ are noticing unexplained pulse jumps (e.g., 60→100 bpm), especially amid rising stress, post-pandemic fatigue, and early perimenopause/midlife hormonal shifts—prompting urgent, non-clinical clarity on what’s safe vs. concerning.",
-    "query": "variation in pulse rate",
-    "type": "RANK_JUMP",
-    "score": 80,
-    "perplexityQuestions": [
-      "What is a normal pulse rate variation for adults over 35?",
-      "Is a resting heart rate of 95 bpm dangerous for a 45-year-old?",
-      "Why does my pulse rate jump from 60 to 100 bpm suddenly at age 50?",
-      "What is heart rate variability (HRV) and is low HRV bad for adults 35+?",
-      "Is a pulse rate of 110 bpm while resting normal for a 60-year-old?"
-    ],
-    "createdAt": "2026-07-17T01:53:02.464Z",
-    "expiresAt": "2026-07-20T01:53:02.464Z"
+    "createdAt": "2026-07-18T01:43:15.384Z",
+    "expiresAt": "2026-07-21T01:43:15.384Z"
   }
 ]

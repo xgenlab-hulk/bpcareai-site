@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-15",
+  "period": "3-day",
+  "impressionsChange": -40,
+  "clicksChange": 16.666666666666664,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "humidity and blood pressure",
+      "reason": "排名跃升 27.8 位（55.8 → 28.0）",
+      "score": 80,
+      "recentImpressions": 1,
+      "baselineImpressions": 4,
+      "recentPosition": 28,
+      "baselinePosition": 55.75
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "variation in pulse rate",
+      "reason": "排名跃升 33.0 位（52.0 → 19.0）",
+      "score": 80,
+      "recentImpressions": 1,
+      "baselineImpressions": 2,
+      "recentPosition": 19,
+      "baselinePosition": 52
+    }
+  ]
+}
