@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-17",
+  "period": "3-day",
+  "impressionsChange": -39.784946236559136,
+  "clicksChange": 16.666666666666664,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "can humidity affect blood pressure",
+      "reason": "排名跃升 25.0 位（79.0 → 54.0）",
+      "score": 75,
+      "recentImpressions": 1,
+      "baselineImpressions": 5,
+      "recentPosition": 54,
+      "baselinePosition": 79
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "does heat increase blood pressure",
+      "reason": "排名跃升 24.6 位（78.6 → 54.0）",
+      "score": 73.79999999999998,
+      "recentImpressions": 1,
+      "baselineImpressions": 5,
+      "recentPosition": 54,
+      "baselinePosition": 78.6
+    }
+  ]
+}
