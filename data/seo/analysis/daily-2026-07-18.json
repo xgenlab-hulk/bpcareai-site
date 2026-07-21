@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-18",
+  "period": "3-day",
+  "impressionsChange": -41.280353200883006,
+  "clicksChange": 3.7037037037036904,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "best statin for women",
+      "reason": "排名跃升 44.5 位（64.5 → 20.0）",
+      "score": 80,
+      "recentImpressions": 1,
+      "baselineImpressions": 6,
+      "recentPosition": 20,
+      "baselinePosition": 64.5
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "can humidity affect blood pressure",
+      "reason": "排名跃升 25.0 位（79.0 → 54.0）",
+      "score": 75,
+      "recentImpressions": 1,
+      "baselineImpressions": 5,
+      "recentPosition": 54,
+      "baselinePosition": 79
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "does heat increase blood pressure",
+      "reason": "排名跃升 24.6 位（78.6 → 54.0）",
+      "score": 73.79999999999998,
+      "recentImpressions": 1,
+      "baselineImpressions": 5,
+      "recentPosition": 54,
+      "baselinePosition": 78.6
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "how humidity can impact blood pressure",
+      "reason": "排名跃升 23.9 位（54.6 → 30.7）",
+      "score": 71.66666666666667,
+      "recentImpressions": 3,
+      "baselineImpressions": 9,
+      "recentPosition": 30.666666666666668,
+      "baselinePosition": 54.55555555555556
+    }
+  ]
+}

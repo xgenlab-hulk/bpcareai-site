@@ -1,40 +1,59 @@
 [
   {
+    "title": "Best Statin for Women Over 40: What the Data Shows",
+    "primaryKeyword": "best statin for women over 40",
+    "description": "New research shows 68% of women over 40 stop statins within a year—often due to side effects. Learn which statin is safest and most effective for your heart health.",
+    "topicCluster": "women-heart-health",
+    "reasoning": "This query is trending because women are increasingly seeking gender-specific guidance—especially after recent AHA/ACC updates highlighting sex-based differences in statin response, side effect risk (e.g., muscle pain is 32% more common in women), and safety concerns around pregnancy planning, preeclampsia history, and menopause-related cholesterol shifts.",
+    "query": "best statin for women",
+    "type": "RANK_JUMP",
+    "score": 80,
+    "perplexityQuestions": [
+      "What is the best statin for women over 40 with high cholesterol?",
+      "Is rosuvastatin better than atorvastatin for women's heart health?",
+      "Do women experience more muscle pain on statins than men?",
+      "Which statin is safest for women with a history of preeclampsia?",
+      "Can women take statins if they are planning to get pregnant?"
+    ],
+    "createdAt": "2026-07-21T01:51:09.581Z",
+    "expiresAt": "2026-07-24T01:51:09.581Z"
+  },
+  {
     "title": "How Humidity Affects Blood Pressure After 35",
     "primaryKeyword": "can humidity affect blood pressure",
-    "description": "Yes—studies show systolic BP can rise up to 8 mmHg in >70% humidity for adults 35+. Learn how to monitor and protect yourself this summer.",
+    "description": "Yes—studies show systolic BP can drop up to 10 mmHg in high heat + humidity due to vasodilation. Learn what’s normal, when to worry, and how to stay safe this summer.",
     "topicCluster": "weather-and-blood-pressure",
-    "reasoning": "This query is trending due to record-breaking summer heat and humidity across North America and Europe—adults 35+ are noticing real-time BP spikes during humid days and worrying about hidden cardiovascular strain. They want practical, age-specific guidance—not medical theory—but actionable steps to stay safe when weather changes.",
+    "reasoning": "This query is trending because a record-breaking humid heatwave is gripping much of the U.S. and Europe this summer—adults over 35 are noticing real-time BP fluctuations (dizziness, fatigue, med inefficacy) and urgently want practical, non-clinical guidance on managing their numbers in muggy conditions.",
     "query": "can humidity affect blood pressure",
     "type": "RANK_JUMP",
     "score": 75,
     "perplexityQuestions": [
       "Can high humidity raise or lower blood pressure in adults over 35?",
-      "Is 140/90 blood pressure dangerous at age 45 during humid summer days?",
-      "How does 80% humidity affect systolic blood pressure in people with hypertension?",
-      "Does humidity make blood pressure medications less effective for adults 35+?",
-      "Why does my blood pressure spike when humidity is above 70% and I'm 50 years old?"
+      "Is 140/90 blood pressure dangerous at age 45 during a humid summer day?",
+      "Why does my blood pressure drop when it's hot and humid outside?",
+      "Does humidity make hypertension worse for people already on blood pressure meds?",
+      "At what humidity level does blood pressure start to change significantly?"
     ],
-    "createdAt": "2026-07-20T02:08:08.782Z",
-    "expiresAt": "2026-07-23T02:08:08.782Z"
+    "createdAt": "2026-07-21T01:51:19.358Z",
+    "expiresAt": "2026-07-24T01:51:19.358Z"
   },
   {
-    "title": "Does Heat Raise Blood Pressure? What Adults 35+ Need to Know",
+    "title": "Does Heat Raise or Lower Blood Pressure?",
     "primaryKeyword": "does heat increase blood pressure",
-    "description": "Heat often *lowers* blood pressure—but dehydration or heat stress can spike it, especially in adults over 40. Learn your safe limits and 3 quick checks.",
+    "description": "Heat typically *lowers* blood pressure in most adults over 35—but 1 in 3 with hypertension sees spikes in hot cars or high humidity. Learn how to stay safe.",
     "topicCluster": "heat-and-blood-pressure",
-    "reasoning": "This query is trending due to early summer heatwaves and rising ER visits for heat-related hypertension spikes in middle-aged and older adults; users want practical, age-specific guidance—not textbook physiology—on how hot weather interacts with their real-world BP readings, meds, and daily routines.",
+    "reasoning": "Summer heatwaves are intensifying globally, and adults 35+ are noticing confusing BP fluctuations—especially during car travel, outdoor activity, or humid days—prompting urgent, real-world questions about safety, medication timing, and misinterpreted home readings.",
     "query": "does heat increase blood pressure",
     "type": "RANK_JUMP",
     "score": 73.79999999999998,
     "perplexityQuestions": [
-      "Does heat increase blood pressure or lower it for adults over 35?",
+      "Does heat increase or decrease blood pressure in adults over 35?",
       "Is 140/90 blood pressure dangerous at age 45 during hot weather?",
-      "Why does my blood pressure spike when I sit in the heat at age 50?",
-      "Can dehydration from heat cause high blood pressure in seniors?",
-      "Does hot weather raise systolic blood pressure more than diastolic for people with hypertension?"
+      "Why does my blood pressure drop when I'm in the heat but spike when I cool down?",
+      "Can sitting in a hot car raise blood pressure for people with hypertension?",
+      "Does high humidity make blood pressure worse for adults over 50?"
     ],
-    "createdAt": "2026-07-20T02:08:18.577Z",
-    "expiresAt": "2026-07-23T02:08:18.577Z"
+    "createdAt": "2026-07-21T01:51:29.832Z",
+    "expiresAt": "2026-07-24T01:51:29.832Z"
   }
 ]
