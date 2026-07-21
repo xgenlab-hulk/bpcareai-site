@@ -17,6 +17,7 @@ relatedSlugs:
     myths-vs-facts-i-m-too-old-to-benefit-from-cholesterol-lowering-statins-after-75
   - statin-side-effects-heart-health-seniors
   - best-cholesterol-meds-seniors-muscle-pain
+  - best-statin-women-over-40
 ---
 
 # Statins and Muscle Pain After 60: What’s Normal?
