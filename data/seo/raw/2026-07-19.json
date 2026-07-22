@@ -1,0 +1,358 @@
+{
+  "date": "2026-07-19",
+  "fetchedAt": "2026-07-22T01:49:45.290Z",
+  "queries": [
+    {
+      "query": "bp care",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 3.8
+    },
+    {
+      "query": "alternatives to statins for women",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 96
+    },
+    {
+      "query": "alternatives to statins muscle pain",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 22
+    },
+    {
+      "query": "beat to beat heart rate variability",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 86
+    },
+    {
+      "query": "best cholesterol medicine for women",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 18
+    },
+    {
+      "query": "best statin for women",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 18
+    },
+    {
+      "query": "best statins for women",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 19
+    },
+    {
+      "query": "can you overcook collard greens",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "heart rate variance",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 82
+    },
+    {
+      "query": "how does heat affect blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 98
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/air-fryer-oxidized-cholesterol-coronary-calcification",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 5
+    },
+    {
+      "page": "https://bpcareai.com/articles/12-science-backed-ways-to-reduce-left-atrial-stiffness-within-6-weeks-for-adults-61-76-with-paroxysmal-afib-and-elevated-la-strain-index",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "page": "https://bpcareai.com/articles/7-hidden-sources-of-oxalates-in-holiday-salads-and-sides-that-may-trigger-nephrocalcinosis-in-adults-with-stage-2-ckd-over-60",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://bpcareai.com/articles/a1c-6-2-at-50-reversible-without-medication",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://bpcareai.com/articles/best-cholesterol-meds-seniors-muscle-pain",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 22
+    },
+    {
+      "page": "https://bpcareai.com/articles/best-home-blood-pressure-cuffs-for-adults-75-with-severe-arthritis-and-tremor-accuracy-fit-and-one-handed-operation-compared",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "page": "https://bpcareai.com/articles/exercise-timing-blood-pressure-variability",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 9.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/exercises-lower-cholesterol-after-50",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://bpcareai.com/articles/heart-rate-variability-explained",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 67.25
+    },
+    {
+      "page": "https://bpcareai.com/articles/heated-massage-pillow-and-morning-blood-pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://bpcareai.com/articles/holiday-travel-nocturnal-afib-warning",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://bpcareai.com/articles/home-blood-pressure-cuff-afib-algorithm-errors",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 8.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-frequent-nighttime-awakenings-for-urination-nocturia-predicts-3-year-risk-of-new-onset-atrial-fibrillation-in-men-over-68-with-hypertension",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 14.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/low-sodium-soup-potassium-excipients",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "page": "https://bpcareai.com/articles/nocturnal-nitric-oxide-beetroot-gel-nasal-breathing",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://bpcareai.com/articles/soups-lower-blood-pressure-winter",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 33
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-complete-guide-to-managing-diabetes-during-a-heatwave-for-adults-70-with-diabetic-nephropathy-and-reduced-thirst-drive",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 31
+    },
+    {
+      "page": "https://bpcareai.com/articles/top-10-diabetes-friendly-snacks-for-people-over-60",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/7-silent-signs-your-holiday-eating-is-accelerating-arterial-stiffness-especially-if-you-re-68-with-normal-office-bp",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/apple-cider-vinegar-cholesterol-after-55",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 9.5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/barefoot-walking-glycemic-variability-seniors",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/best-cholesterol-meds-women-menopause",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 37.75
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 46
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/blood-pressure-rises-hot-bath-over-75",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/collard-greens-endothelial-function-comparison",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10.5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/heart-rate-recovery-foods-seniors-bp",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 4.5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/how-cold-weather-triggers-morning-hypertensive-crises-in-adults-72-with-white-coat-hypertension-and-peripheral-artery-disease",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/lipoprotein-a-test-family-history",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 9.25
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/resonant-breathing-diastolic-pressure-reduction",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/sauna-use-with-ace-inhibitors-seniors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/sugar-free-candies-and-gastroparesis",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7.5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/transdermal-magnesium-sacubitril-valsartan",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/turkey-preparation-gout-uric-acid-comparison",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/vns-vs-tart-cherry-juice-nocturnal-afib",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 8.8
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/white-spots-nails-heart-disease-women-60",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://www.bpcareai.com/contact",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    }
+  ],
+  "summary": {
+    "totalQueries": 10,
+    "totalImpressions": 15,
+    "totalClicks": 1,
+    "avgPosition": 36.46666666666667,
+    "pagesWithImpressions": 39
+  }
+}

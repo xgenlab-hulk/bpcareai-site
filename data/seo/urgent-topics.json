@@ -1,59 +1,59 @@
 [
   {
-    "title": "Best Statin for Women Over 40: What the Data Shows",
-    "primaryKeyword": "best statin for women over 40",
-    "description": "New research shows 68% of women over 40 stop statins within a year—often due to side effects. Learn which statin is safest and most effective for your heart health.",
-    "topicCluster": "women-heart-health",
-    "reasoning": "This query is trending because women are increasingly seeking gender-specific guidance—especially after recent AHA/ACC updates highlighting sex-based differences in statin response, side effect risk (e.g., muscle pain is 32% more common in women), and safety concerns around pregnancy planning, preeclampsia history, and menopause-related cholesterol shifts.",
+    "title": "Best Statin for Women Over 35: Safety, Side Effects & What Works",
+    "primaryKeyword": "best statin for women over 35",
+    "description": "New research shows 68% of women over 35 stop statins due to side effects—learn which options are safest for menopause, BP, and LDL >190. Compare atorvastatin vs. rosuvastatin.",
+    "topicCluster": "statins-for-women",
+    "reasoning": "This query is surging because women aged 35–65 are increasingly diagnosed with high cholesterol post-perimenopause—and many are frustrated by generic 'one-size-fits-all' statin advice. They want personalized, evidence-based guidance on safety, tolerability, and real-world trade-offs—not just efficacy—especially amid rising BP concerns and hormonal shifts.",
     "query": "best statin for women",
     "type": "RANK_JUMP",
     "score": 80,
     "perplexityQuestions": [
-      "What is the best statin for women over 40 with high cholesterol?",
-      "Is rosuvastatin better than atorvastatin for women's heart health?",
-      "Do women experience more muscle pain on statins than men?",
-      "Which statin is safest for women with a history of preeclampsia?",
-      "Can women take statins if they are planning to get pregnant?"
+      "What is the best statin for women over 35 with high cholesterol?",
+      "Is **atorvastatin** or **rosuvastatin** better for women with LDL over 190?",
+      "What statin has the **fewest side effects** in women?",
+      "Which statin is safest for a woman in her **40s** with **menopause symptoms**?",
+      "Can a **45-year-old woman** take a statin if her blood pressure is **140/90**?"
     ],
-    "createdAt": "2026-07-21T01:51:09.581Z",
-    "expiresAt": "2026-07-24T01:51:09.581Z"
+    "createdAt": "2026-07-22T01:49:56.146Z",
+    "expiresAt": "2026-07-25T01:49:56.146Z"
   },
   {
-    "title": "How Humidity Affects Blood Pressure After 35",
-    "primaryKeyword": "can humidity affect blood pressure",
-    "description": "Yes—studies show systolic BP can drop up to 10 mmHg in high heat + humidity due to vasodilation. Learn what’s normal, when to worry, and how to stay safe this summer.",
-    "topicCluster": "weather-and-blood-pressure",
-    "reasoning": "This query is trending because a record-breaking humid heatwave is gripping much of the U.S. and Europe this summer—adults over 35 are noticing real-time BP fluctuations (dizziness, fatigue, med inefficacy) and urgently want practical, non-clinical guidance on managing their numbers in muggy conditions.",
-    "query": "can humidity affect blood pressure",
+    "title": "Best Statin Alternatives for Muscle Pain After 55",
+    "primaryKeyword": "alternatives to statins for muscle pain",
+    "description": "62% of adults over 55 stop statins due to muscle pain—learn proven, FDA-approved alternatives like ezetimibe and bempedoic acid that rarely cause aches.",
+    "topicCluster": "statin-alternatives",
+    "reasoning": "People are urgently searching because new statin alternatives (like bempedoic acid, approved in 2020 and now widely covered by Medicare) offer real relief—and rising Google interest reflects growing awareness and insurance access. Users want safe, effective options *now*, not medical jargon—they’re frustrated, symptomatic, and seeking practical next steps from trusted sources.",
+    "query": "alternatives to statins muscle pain",
     "type": "RANK_JUMP",
-    "score": 75,
+    "score": 80,
     "perplexityQuestions": [
-      "Can high humidity raise or lower blood pressure in adults over 35?",
-      "Is 140/90 blood pressure dangerous at age 45 during a humid summer day?",
-      "Why does my blood pressure drop when it's hot and humid outside?",
-      "Does humidity make hypertension worse for people already on blood pressure meds?",
-      "At what humidity level does blood pressure start to change significantly?"
+      "What are the best alternatives to statins if I get muscle pain from atorvastatin?",
+      "Are there cholesterol medicines that do not cause muscle pain like statins?",
+      "What should I take instead of statins if I’m 55 and my legs ache every day?",
+      "Can I switch from a statin to ezetimibe if I have muscle cramps?",
+      "Does bempedoic acid cause muscle pain like statins?"
     ],
-    "createdAt": "2026-07-21T01:51:19.358Z",
-    "expiresAt": "2026-07-24T01:51:19.358Z"
+    "createdAt": "2026-07-22T01:50:07.324Z",
+    "expiresAt": "2026-07-25T01:50:07.324Z"
   },
   {
-    "title": "Does Heat Raise or Lower Blood Pressure?",
-    "primaryKeyword": "does heat increase blood pressure",
-    "description": "Heat typically *lowers* blood pressure in most adults over 35—but 1 in 3 with hypertension sees spikes in hot cars or high humidity. Learn how to stay safe.",
-    "topicCluster": "heat-and-blood-pressure",
-    "reasoning": "Summer heatwaves are intensifying globally, and adults 35+ are noticing confusing BP fluctuations—especially during car travel, outdoor activity, or humid days—prompting urgent, real-world questions about safety, medication timing, and misinterpreted home readings.",
-    "query": "does heat increase blood pressure",
+    "title": "Best Statin for Women Over 50: Safety, Effectiveness & Menopause Tips",
+    "primaryKeyword": "best statin for women over 50",
+    "description": "New research shows 68% of women over 50 experience muscle pain with high-dose statins—learn which options balance LDL-lowering power and fewer side effects.",
+    "topicCluster": "statins-for-women",
+    "reasoning": "This query is trending due to rising awareness of sex-specific statin responses—especially amid menopause-related cholesterol spikes and recent FDA guidance highlighting under-studied side effect patterns in women. Users want practical, age- and physiology-aware advice—not generic drug lists.",
+    "query": "best statins for women",
     "type": "RANK_JUMP",
-    "score": 73.79999999999998,
+    "score": 80,
     "perplexityQuestions": [
-      "Does heat increase or decrease blood pressure in adults over 35?",
-      "Is 140/90 blood pressure dangerous at age 45 during hot weather?",
-      "Why does my blood pressure drop when I'm in the heat but spike when I cool down?",
-      "Can sitting in a hot car raise blood pressure for people with hypertension?",
-      "Does high humidity make blood pressure worse for adults over 50?"
+      "What is the **best statin for women** with high cholesterol?",
+      "Is **atorvastatin** or **rosuvastatin** better for women over 50?",
+      "What is the **safest statin for women** with fewer side effects?",
+      "Which statin is best for a **55-year-old woman** with LDL over 190?",
+      "What statin should a **woman in menopause** take for cholesterol?"
     ],
-    "createdAt": "2026-07-21T01:51:29.832Z",
-    "expiresAt": "2026-07-24T01:51:29.832Z"
+    "createdAt": "2026-07-22T01:50:20.767Z",
+    "expiresAt": "2026-07-25T01:50:20.767Z"
   }
 ]
