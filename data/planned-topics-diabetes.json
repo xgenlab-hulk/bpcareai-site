@@ -1,23 +1,5 @@
 [
   {
-    "title": "Can Diabetes Cause Memory Loss After 60?",
-    "description": "Yes — adults over 60 with A1C above 7.5% have 2.3x higher risk of mild cognitive decline; find out what helps now.",
-    "primaryKeyword": "can diabetes cause memory loss after 60",
-    "topicCluster": "diabetes-management",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-07-18T03:50:39.613Z",
-    "score": 27.200000000000003,
-    "scheduledWeek": "2026-W30",
-    "perplexityQuestions": [
-      "What is the best blood sugar monitor for adults over 40 with diabetes?",
-      "Can I reverse type 2 diabetes after 50 without medication?",
-      "Is a blood sugar of 180 two hours after eating dangerous at age 45?",
-      "What are the early signs of diabetes in men over 50 besides high blood sugar?",
-      "How does sleep quality affect blood sugar levels in adults over 35?"
-    ],
-    "competitorCoverage": "Top-ranking articles cover foundational definitions (what diabetes is, types 1 vs 2), general risk factors (age 45+, obesity, family history), basic lifestyle advice (diet, exercise), and standard testing guidelines (A1C, fasting glucose). To compete, a new article must include age-specific numerical thresholds (e.g., 'is 180 dangerous at 45?'), medication comparisons for adults over 40, and actionable daily routines (breakfast ideas, walking targets) tailored to mid-life physiology."
-  },
-  {
     "title": "5 Warning Signs of Diabetes You Miss After 60",
     "description": "Tingling feet, frequent urination, blurry vision—42% of seniors ignore early signs. Learn how to spot them early.",
     "primaryKeyword": "warning signs of diabetes after 60",
@@ -168,13 +150,5 @@
     "topicCluster": "medication-management",
     "coreKeyword": "diabetes",
     "createdAt": "2026-07-18T07:44:47.082Z"
-  },
-  {
-    "title": "Can Diabetes Cause Memory Loss After 60?",
-    "description": "Yes—HbA1c over 7.5% doubles dementia risk after 60. But 72% of cases improve with tighter control. Find out how.",
-    "primaryKeyword": "can diabetes cause memory loss after 60",
-    "topicCluster": "symptoms-diabetes",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-07-18T07:44:49.511Z"
   }
 ]
