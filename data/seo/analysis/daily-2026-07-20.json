@@ -1,0 +1,110 @@
+{
+  "date": "2026-07-20",
+  "period": "3-day",
+  "impressionsChange": -12.888888888888877,
+  "clicksChange": 86.66666666666664,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "best statin for women",
+      "reason": "排名跃升 27.4 位（46.0 → 18.6）",
+      "score": 80,
+      "recentImpressions": 5,
+      "baselineImpressions": 10,
+      "recentPosition": 18.6,
+      "baselinePosition": 46
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "best statins for women",
+      "reason": "排名跃升 41.3 位（60.3 → 19.0）",
+      "score": 80,
+      "recentImpressions": 1,
+      "baselineImpressions": 4,
+      "recentPosition": 19,
+      "baselinePosition": 60.25
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "best statin for elderly",
+      "reason": "排名跃升 39.0 位（57.0 → 18.0）",
+      "score": 80,
+      "recentImpressions": 1,
+      "baselineImpressions": 5,
+      "recentPosition": 18,
+      "baselinePosition": 57
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "how humidity can impact blood pressure",
+      "reason": "排名跃升 23.9 位（54.6 → 30.7）",
+      "score": 71.66666666666667,
+      "recentImpressions": 3,
+      "baselineImpressions": 9,
+      "recentPosition": 30.666666666666668,
+      "baselinePosition": 54.55555555555556
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "alternatives to statins muscle pain",
+      "reason": "排名跃升 19.0 位（64.0 → 45.0）",
+      "score": 57,
+      "recentImpressions": 2,
+      "baselineImpressions": 4,
+      "recentPosition": 45,
+      "baselinePosition": 64
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "does heat increase blood pressure",
+      "reason": "排名跃升 17.2 位（71.7 → 54.5）",
+      "score": 51.642857142857125,
+      "recentImpressions": 2,
+      "baselineImpressions": 7,
+      "recentPosition": 54.5,
+      "baselinePosition": 71.71428571428571
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "does heat and humidity affect blood pressure",
+      "reason": "排名跃升 15.1 位（84.1 → 69.0）",
+      "score": 45.428571428571416,
+      "recentImpressions": 1,
+      "baselineImpressions": 7,
+      "recentPosition": 69,
+      "baselinePosition": 84.14285714285714
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "does body temperature affect blood pressure",
+      "reason": "排名跃升 15.0 位（87.0 → 72.0）",
+      "score": 45,
+      "recentImpressions": 1,
+      "baselineImpressions": 3,
+      "recentPosition": 72,
+      "baselinePosition": 87
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "does heat affect blood pressure",
+      "reason": "排名跃升 15.0 位（84.0 → 69.0）",
+      "score": 45,
+      "recentImpressions": 1,
+      "baselineImpressions": 2,
+      "recentPosition": 69,
+      "baselinePosition": 84
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "effect of heat on blood pressure",
+      "reason": "排名跃升 13.0 位（90.0 → 77.0）",
+      "score": 39,
+      "recentImpressions": 1,
+      "baselineImpressions": 3,
+      "recentPosition": 77,
+      "baselinePosition": 90
+    }
+  ]
+}
