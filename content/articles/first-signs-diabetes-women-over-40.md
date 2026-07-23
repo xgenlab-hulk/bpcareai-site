@@ -16,6 +16,7 @@ relatedSlugs:
     7-silent-signs-of-prediabetes-you-re-likely-ignoring-after-age-55-even-with-normal-a1c
   - heart-disease-symptoms-in-women-over-50-what-s-often-missed
   - unexplained-weight-loss-40s-diabetes
+  - diabetes-warning-signs-after-60
 ---
 
 # First Signs of Diabetes in Women Over 40 — See Your Doctor
