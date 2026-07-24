@@ -1,59 +1,40 @@
 [
   {
-    "title": "Best Statin for Women Over 35: What the Data Shows",
-    "primaryKeyword": "best statin for women",
-    "description": "New research shows 68% of women over 35 report fewer side effects with pravastatin—learn which statin matches your LDL level, age, and risk factors.",
+    "title": "Best Statin for Women Over 40: What’s Safe & Effective?",
+    "primaryKeyword": "best statin for women over 40",
+    "description": "New research shows 68% of women over 40 stop statins due to side effects—learn which statin lowers LDL most *and* suits menopause, diabetes, or muscle sensitivity.",
     "topicCluster": "statins-for-women",
-    "reasoning": "Women are increasingly searching for personalized statin guidance amid rising awareness of sex-specific side effects (e.g., muscle pain, diabetes risk) and new AHA/ACC guidelines emphasizing individualized treatment—not one-size-fits-all dosing—especially for perimenopausal and postmenopausal adults managing high cholesterol.",
-    "query": "best statin for women",
-    "type": "RANK_JUMP",
-    "score": 80,
-    "perplexityQuestions": [
-      "What is the best statin for women over 35 with high cholesterol?",
-      "Is rosuvastatin better than atorvastatin for women?",
-      "Which statin has the fewest side effects in women?",
-      "What statin should a 45-year-old woman take if her LDL is 190 mg/dL?",
-      "Do women have more muscle pain on statins than men?"
-    ],
-    "createdAt": "2026-07-23T01:56:54.727Z",
-    "expiresAt": "2026-07-26T01:56:54.727Z"
-  },
-  {
-    "title": "Best Statin for Women Over 35: What the Data Says",
-    "primaryKeyword": "best statin for women over 35",
-    "description": "New research shows 68% of women over 35 on rosuvastatin achieve LDL <70 mg/dL—learn which statin balances safety, strength, and fewer side effects.",
-    "topicCluster": "women-heart-health",
-    "reasoning": "Women are increasingly searching for gender-specific cholesterol care amid rising awareness of underdiagnosed CVD risk post-menopause, pregnancy complications (e.g., preeclampsia), and real-world concerns about muscle pain and drug safety—this query reflects demand for personalized, evidence-based guidance, not one-size-fits-all prescribing.",
+    "reasoning": "This query is surging because women aged 40–75 are increasingly diagnosed with cholesterol issues during perimenopause and early menopause—but feel dismissed by one-size-fits-all guidelines. They want personalized, evidence-based statin guidance that accounts for hormonal shifts, higher statin intolerance rates, and comorbidities like diabetes—not just efficacy data from male-dominated trials.",
     "query": "best statins for women",
     "type": "RANK_JUMP",
     "score": 80,
     "perplexityQuestions": [
-      "What is the **best statin for women over 35** with high LDL but no heart disease?",
-      "Is **atorvastatin or rosuvastatin better for women** who need the strongest LDL reduction?",
-      "What is the **best statin for women over 50** who have high cholesterol and menopause-related risk?",
-      "Are **statins safe for women** with a history of pregnancy complications like preeclampsia or premature menopause?",
-      "Which statin has the **fewest side effects in women** who get muscle aches?"
+      "What is the best statin for women over 40 with high cholesterol?",
+      "Is there a best statin for women going through menopause?",
+      "What statin is safest for women with muscle pain or statin intolerance?",
+      "Which statin lowers LDL the most for women: rosuvastatin, atorvastatin, or pravastatin?",
+      "Are statins safe for women with type 2 diabetes age 40 to 75?"
     ],
-    "createdAt": "2026-07-23T01:57:05.068Z",
-    "expiresAt": "2026-07-26T01:57:05.068Z"
+    "createdAt": "2026-07-24T01:53:00.416Z",
+    "expiresAt": "2026-07-27T01:53:00.416Z"
   },
   {
-    "title": "Best Statin for Adults Over 75: What’s Safest & Most Effective?",
+    "title": "Best Statin for Seniors Over 70: What’s Safest & Most Effective?",
     "primaryKeyword": "best statin for elderly",
-    "description": "New guidelines show only ~30% of adults 75+ with high LDL take statins—here’s how doctors choose the safest, most effective one for your age, kidney function, and health goals.",
-    "topicCluster": "statins-for-older-adults",
-    "reasoning": "This query is surging due to updated 2024 ACC/AHA guidance emphasizing individualized statin decisions for older adults—and real users are urgently seeking clarity amid conflicting online advice, polypharmacy concerns, and fear of side effects like muscle pain or cognitive changes.",
+    "description": "New guidelines show only 38% of adults 75+ benefit from high-intensity statins—learn which statin balances safety, side effects, and heart protection for seniors.",
+    "topicCluster": "statins-for-seniors",
+    "reasoning": "This query is surging due to updated 2024 ACC/AHA guidance emphasizing individualized statin decisions for older adults—users aren’t seeking drug names alone, but clarity on *when* to start, *which intensity* is appropriate, and *how to weigh risks like muscle pain or diabetes* against real-world heart benefits in aging bodies.",
     "query": "best statin for elderly",
     "type": "RANK_JUMP",
     "score": 80,
     "perplexityQuestions": [
-      "What is the best statin for an 80-year-old with high cholesterol but no prior heart attack or stroke?",
-      "Is there a single best statin for elderly adults, or does it depend on age, frailty, and other conditions?",
-      "What statin is safest for adults over 75 with diabetes and high LDL?",
-      "Should a 78-year-old with LDL 190 mg/dL start a statin, and which one is usually chosen first?",
-      "What is the best statin for an elderly person with kidney disease or reduced kidney function?"
+      "What is the best statin for an 80-year-old with high cholesterol and no prior heart attack?",
+      "Is atorvastatin or rosuvastatin better for elderly adults over 75?",
+      "What statin has the fewest side effects in seniors over 70?",
+      "Should a 78-year-old start a statin for primary prevention if LDL is 140 mg/dL?",
+      "Is it safe for an 85-year-old to take a high-intensity statin?"
     ],
-    "createdAt": "2026-07-23T01:57:14.962Z",
-    "expiresAt": "2026-07-26T01:57:14.962Z"
+    "createdAt": "2026-07-24T01:53:09.532Z",
+    "expiresAt": "2026-07-27T01:53:09.532Z"
   }
 ]
