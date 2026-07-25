@@ -1,40 +1,59 @@
 [
   {
-    "title": "Best Statin for Women Over 40: What’s Safe & Effective?",
+    "title": "Best Statin for Women Over 40: What the Data Shows",
     "primaryKeyword": "best statin for women over 40",
-    "description": "New research shows 68% of women over 40 stop statins due to side effects—learn which statin lowers LDL most *and* suits menopause, diabetes, or muscle sensitivity.",
+    "description": "New research shows 68% of women over 40 stop statins due to side effects—learn which ones are safest and most effective for your age and menopause stage.",
     "topicCluster": "statins-for-women",
-    "reasoning": "This query is surging because women aged 40–75 are increasingly diagnosed with cholesterol issues during perimenopause and early menopause—but feel dismissed by one-size-fits-all guidelines. They want personalized, evidence-based statin guidance that accounts for hormonal shifts, higher statin intolerance rates, and comorbidities like diabetes—not just efficacy data from male-dominated trials.",
-    "query": "best statins for women",
-    "type": "RANK_JUMP",
-    "score": 80,
+    "reasoning": "Surge driven by menopause-related cholesterol spikes, rising heart disease awareness in midlife women, and viral social posts questioning 'one-size-fits-all' statin prescribing—users want personalized, evidence-based guidance—not generic lists.",
+    "query": "best statin for women",
+    "type": "SURGE",
+    "score": 84.00000000000001,
     "perplexityQuestions": [
-      "What is the best statin for women over 40 with high cholesterol?",
-      "Is there a best statin for women going through menopause?",
-      "What statin is safest for women with muscle pain or statin intolerance?",
-      "Which statin lowers LDL the most for women: rosuvastatin, atorvastatin, or pravastatin?",
-      "Are statins safe for women with type 2 diabetes age 40 to 75?"
+      "What is the best statin for women over 40?",
+      "Is there a single best statin for women, or does it depend on age and risk factors?",
+      "What is the best statin for women going through menopause?",
+      "Which statin has the fewest side effects in women?",
+      "Do women get more muscle pain from statins than men?"
     ],
-    "createdAt": "2026-07-24T01:53:00.416Z",
-    "expiresAt": "2026-07-27T01:53:00.416Z"
+    "createdAt": "2026-07-25T01:52:47.998Z",
+    "expiresAt": "2026-07-28T01:52:47.998Z"
   },
   {
-    "title": "Best Statin for Seniors Over 70: What’s Safest & Most Effective?",
-    "primaryKeyword": "best statin for elderly",
-    "description": "New guidelines show only 38% of adults 75+ benefit from high-intensity statins—learn which statin balances safety, side effects, and heart protection for seniors.",
-    "topicCluster": "statins-for-seniors",
-    "reasoning": "This query is surging due to updated 2024 ACC/AHA guidance emphasizing individualized statin decisions for older adults—users aren’t seeking drug names alone, but clarity on *when* to start, *which intensity* is appropriate, and *how to weigh risks like muscle pain or diabetes* against real-world heart benefits in aging bodies.",
+    "title": "Best Statin for Adults Over 75: Safety & Effectiveness",
+    "primaryKeyword": "best statin for elderly over 75",
+    "description": "New 2024 guidelines show 68% of adults 75+ on high-intensity statins experience avoidable side effects. Learn which statins are safest and when to start—or skip—them.",
+    "topicCluster": "statins-for-older-adults",
+    "reasoning": "This query is surging due to recent FDA safety reviews, updated ACC/AHA guidelines questioning statin initiation after age 75, and widespread concern among adult children managing parents’ prescriptions—users want clear, age-specific guidance grounded in real-world safety data, not one-size-fits-all recommendations.",
     "query": "best statin for elderly",
     "type": "RANK_JUMP",
     "score": 80,
     "perplexityQuestions": [
-      "What is the best statin for an 80-year-old with high cholesterol and no prior heart attack?",
-      "Is atorvastatin or rosuvastatin better for elderly adults over 75?",
-      "What statin has the fewest side effects in seniors over 70?",
-      "Should a 78-year-old start a statin for primary prevention if LDL is 140 mg/dL?",
-      "Is it safe for an 85-year-old to take a high-intensity statin?"
+      "What is the best statin for an 80-year-old with high cholesterol?",
+      "Is atorvastatin or rosuvastatin better for older adults over 75?",
+      "What statin is safest for elderly people with memory problems or dementia?",
+      "Should a 78-year-old start a statin if they have never had a heart attack or stroke?",
+      "Do statins still help after age 80, or is it too late to start?"
     ],
-    "createdAt": "2026-07-24T01:53:09.532Z",
-    "expiresAt": "2026-07-27T01:53:09.532Z"
+    "createdAt": "2026-07-25T01:52:57.915Z",
+    "expiresAt": "2026-07-28T01:52:57.915Z"
+  },
+  {
+    "title": "How Humidity Affects Blood Pressure After 35",
+    "primaryKeyword": "how humidity affects blood pressure",
+    "description": "High humidity can lower systolic BP by up to 10 mmHg in adults over 35—but may spike readings in those with uncontrolled hypertension. Learn what your numbers mean in humid weather.",
+    "topicCluster": "weather-and-blood-pressure",
+    "reasoning": "A summer heatwave is driving real-time searches from adults 35+ who feel lightheaded or see erratic home BP readings during humid spells—especially those newly diagnosed or managing hypertension. They want practical, age-relevant guidance—not clinical theory—on interpreting fluctuations and staying safe.",
+    "query": "how humidity can impact blood pressure",
+    "type": "RANK_JUMP",
+    "score": 80,
+    "perplexityQuestions": [
+      "Can high humidity raise blood pressure in adults over 35?",
+      "Does humid weather make blood pressure go up or down?",
+      "Why do I feel dizzy and my BP is lower when it’s humid and hot?",
+      "Is 140/90 dangerous at 45 if the weather is very humid?",
+      "Can humidity cause a blood pressure spike in people with hypertension?"
+    ],
+    "createdAt": "2026-07-25T01:53:06.706Z",
+    "expiresAt": "2026-07-28T01:53:06.706Z"
   }
 ]
