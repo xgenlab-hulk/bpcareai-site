@@ -15,6 +15,7 @@ relatedSlugs:
   - 10-high-fiber-holiday-foods-that-support-digestion-after-50
   - 30g-fiber-safe-after-65
   - easy-constipation-friendly-foods-seniors
+  - foods-help-constipation-older-adults
 ---
 
 # Foods to Avoid With Constipation in Seniors (Practical Guide)

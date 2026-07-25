@@ -15,6 +15,7 @@ relatedSlugs:
   - >-
     how-constipation-raises-blood-pressure-and-why-laxatives-aren-t-the-answer-for-seniors
   - how-much-fiber-for-68-year-old-woman
+  - foods-help-constipation-older-adults
 ---
 
 # Easy Ways to Add Fiber at 72 With Constipation — Gentle & Effective
