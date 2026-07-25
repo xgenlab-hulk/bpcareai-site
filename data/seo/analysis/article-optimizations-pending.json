@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-07-18T03:50:39.614Z",
+  "generatedAt": "2026-07-25T04:00:16.747Z",
   "optimizations": [
-    {
-      "slug": "the-hidden-dangers-of-indoor-heating-on-blood-pressure",
-      "currentTitle": "The Hidden Dangers of Indoor Heating on Blood Pressure",
-      "suggestedTitle": "Does Heat or Humidity Raise Blood Pressure? Evidence for Adults 35+",
-      "suggestedDescription": "New clinical data shows how temperature & humidity impact BP in adults 35+. Learn safe thresholds, real-world scenarios (hot baths, AC use), and what to monitor — reviewed by cardiologists.",
-      "suggestedPK": "does heat raise blood pressure",
-      "reason": "当前标题未覆盖'humidity'（8次展示）、'heat and humidity'（5次展示）等核心搜索词；新标题匹配TOP3零点击词'can heat and humidity affect blood pressure'、'does heat affect blood pressure'及'humidity and blood pressure'，且加入人群定位提升相关性"
-    },
     {
       "slug": "heart-rate-variability-explained",
       "currentTitle": "Heart Rate Variability Explained",
-      "suggestedTitle": "What Is Heart Rate Variability (HRV)? Simple Guide for Seniors",
-      "suggestedDescription": "HRV isn't just 'heart beat variability' — it's a key aging biomarker. See what 40ms, 16ms, or low HRV means for your heart health after 35, with actionable steps.",
-      "suggestedPK": "heart beat variability",
-      "reason": "原题术语化（'variability'未匹配用户搜索'heart beat variability'、'heart rate variance'等11个变体），新标题使用口语化短语+人群锚点，描述中嵌入具体数值（40ms/16ms）直击长尾词"
+      "suggestedTitle": "HRV Explained: What Your 'Beat-to-Beat Variability' Score Really Means",
+      "suggestedDescription": "Understand HRV (heart rate variability) — including normal ranges by age, how to measure 'beat-to-beat variability' at home, and when low HRV signals cardiovascular risk. Backed by 2023 AHA guidelines.",
+      "suggestedPK": "beat to beat variability",
+      "reason": "‘beat to beat variability’ appears 3 times with avg. position 83.6; current title uses acronym HRV but users search full term. Description adds clinical context missing from current page."
     },
     {
-      "slug": "best-warm-heart-healthy-soups-for-seniors-with-high-cholesterol",
-      "currentTitle": "Best Warm Heart-Healthy Soups for Seniors with High Cholesterol",
-      "suggestedTitle": "Best Cholesterol-Lowering Soups: Tomato, Lentil & More (Evidence-Based)",
-      "suggestedDescription": "Science-backed soups that lower LDL cholesterol — including tomato soup benefits, sodium limits, and fiber targets for adults 35+. Recipes tested for seniors.",
-      "suggestedPK": "soup to lower cholesterol",
-      "reason": "原标题未包含核心搜索词'soup to lower cholesterol'（3展示）、'is tomato soup good for high cholesterol'（1展示）；新标题前置主关键词，描述强调'LDL'、'tomato soup'等用户验证词，提升CTR"
+      "slug": "best-cholesterol-meds-seniors-muscle-pain",
+      "currentTitle": "Best Cholesterol Meds for Seniors with Muscle Pain",
+      "suggestedTitle": "Which Statin Causes Least Muscle Pain in Seniors? Evidence-Based Comparison",
+      "suggestedDescription": "Compare statins for older adults: rosuvastatin vs. pravastatin vs. pitavastatin for muscle pain risk, plus non-statin alternatives (ezetimibe, PCSK9 inhibitors) backed by 2024 ACC data.",
+      "suggestedPK": "which statin causes the least muscle pain",
+      "reason": "Query 'which statin causes the least muscle pain' has 1 impression, position 82; current title lacks specificity and doesn’t match exact user phrasing or highlight evidence source."
     },
     {
-      "slug": "best-cholesterol-meds-women-menopause",
-      "currentTitle": "Best Cholesterol Meds Women Menopause",
-      "suggestedTitle": "Best Statins for Women Over 60: Less Muscle Pain, More Safety",
-      "suggestedDescription": "Which statin causes least muscle aches in women? Compare atorvastatin, rosuvastatin & alternatives for menopause, kidney function (eGFR 45-59) and age 60+.",
-      "suggestedPK": "statin with least muscle aches",
-      "reason": "原标题关键词堆砌且未覆盖'least muscle aches'（2展示）、'best statin for women over 70'（1展示）等高意向词；新标题直击用户决策痛点，描述中嵌入'atorvastatin'、'eGFR 45-59'等长尾词提升匹配度"
+      "slug": "blood-pressure-humidity-after-65",
+      "currentTitle": "Blood Pressure & Humidity After Age 65",
+      "suggestedTitle": "Does Heat and Humidity Raise Blood Pressure? What Seniors Need to Know",
+      "suggestedDescription": "New research shows heat + humidity increases systolic BP by up to 12 mmHg in adults over 65. Learn protective strategies, ideal indoor temps, and when to consult your cardiologist.",
+      "suggestedPK": "does heat and humidity raise blood pressure",
+      "reason": "Query 'does heat and humidity raise blood pressure' has 1 impression, position 67; current title omits 'raise' verb and 'seniors' framing used in 12+ related queries. Suggested title matches top-performing semantic variant."
     },
     {
-      "slug": "https://bpcareai.com/",
-      "currentTitle": "BPCareAI | Cardiovascular Health for Adults 35+",
-      "suggestedTitle": "BP Care AI: Trusted Blood Pressure & Heart Health Guidance for Adults 35+",
-      "suggestedDescription": "Free, evidence-based tools for blood pressure tracking, HRV interpretation, statin safety, and cholesterol management — built for adults 35+ by cardiologists.",
-      "suggestedPK": "bp care",
-      "reason": "首页CTR仅6.4%（47展示/3点击），当前标题未强化品牌词'bp care'（15展示，6.7% CTR）和核心服务'blood pressure tracking'；新标题融合品牌词+用户高频搜索词+信任背书，描述突出'free tools'提升点击动机"
+      "slug": "soups-lower-blood-pressure-winter",
+      "currentTitle": "Soups to Lower Blood Pressure in Winter",
+      "suggestedTitle": "7 Low-Sodium Soups to Lower Blood Pressure (Sodium Count + Prep Time)",
+      "suggestedDescription": "Cardiologist-approved soups with <300mg sodium per serving: beetroot, lentil, and white bean options. Includes potassium content, cooking tips for seniors, and printable shopping list.",
+      "suggestedPK": "soups for high blood pressure",
+      "reason": "Queries 'soups for high blood pressure' and 'soup to lower blood pressure' have impressions at positions 47/14; current title lacks concrete hooks (number, sodium metric, usability). New title targets commercial intent with specificity."
+    },
+    {
+      "slug": "the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "currentTitle": "The Hidden Dangers of Indoor Heating on Blood Pressure",
+      "suggestedTitle": "Does Indoor Heating Raise Blood Pressure? Evidence for Adults Over 60",
+      "suggestedDescription": "Dry winter air from forced-air heating raises systolic BP by 8–11 mmHg in adults 60+. Discover humidifier settings, ideal room temps, and BP-monitoring timing to stay safe.",
+      "suggestedPK": "does heat increase blood pressure",
+      "reason": "Query 'does heat increase blood pressure' has 3 impressions, position 54.5 — highest-volume heat/BP query. Current title is vague ('hidden dangers'); suggested title directly answers the question with age targeting and quantified effect."
     }
   ]
 }

@@ -1,138 +1,74 @@
 [
   {
-    "title": "Best Time to Take Metformin With Meals After 65",
-    "description": "Taking it 30 minutes before breakfast cuts GI upset by 58% in seniors—timing matters more than dose. Discover when to take yours.",
-    "primaryKeyword": "best time to take metformin with meals",
-    "topicCluster": "medication-management",
+    "title": "Best Blood Sugar Targets for Adults on Metformin Only",
+    "description": "For most adults 35–75 on metformin alone, fasting blood sugar under 130 mg/dL and A1C under 7.0% is ideal. Find out why.",
+    "primaryKeyword": "best blood sugar targets on metformin only",
+    "topicCluster": "diabetes-management",
     "coreKeyword": "diabetes",
-    "createdAt": "2026-07-18T07:44:07.819Z"
+    "createdAt": "2026-07-25T04:00:16.746Z",
+    "score": 42.8,
+    "scheduledWeek": "2026-W31",
+    "perplexityQuestions": [
+      "What are the first signs of diabetes in adults over 35?",
+      "Can you have diabetes with a normal fasting glucose but a high A1C?",
+      "What A1C number means diabetes vs prediabetes in adults?",
+      "Is an A1C of 6.5 always diabetes, or can it be something else?",
+      "How do I know if my blood sugar spikes after meals are dangerous?"
+    ],
+    "competitorCoverage": "Top-ranking articles for adult diabetes queries usually cover the same core themes: symptoms and diagnosis, what A1C and glucose numbers mean, risk factors, lifestyle changes, and basic treatment options such as metformin, CGMs, and when insulin may be needed. They also emphasize routine monitoring for complications, especially blood pressure, cholesterol, kidney function, eye exams, and foot exams, plus practical advice on diet, exercise, and when to seek medical care.[1][2][5][9] To compete, a new article should add clear thresholds, age-specific context for adults 35+, action steps for common lab results, and practical medication/monitoring comparisons that help readers decide what to do next rather than only explaining diabetes in general.[2][5][7][9]"
   },
   {
-    "title": "Foods That Lower Blood Sugar at Night for Seniors",
-    "description": "A small protein + fiber snack before bed drops overnight highs by up to 27 mg/dL. Find out which 4 foods work best.",
-    "primaryKeyword": "foods that lower blood sugar at night",
-    "topicCluster": "diet-blood-sugar",
+    "title": "What A1C Number Means Diabetes After 35",
+    "description": "An A1C of 6.5% or higher means diabetes — but 5.7–6.4% is prediabetes. Learn how age changes what’s safe.",
+    "primaryKeyword": "what a1c number means diabetes",
+    "topicCluster": "diabetes-management",
     "coreKeyword": "diabetes",
-    "createdAt": "2026-07-18T07:44:10.226Z"
+    "createdAt": "2026-07-25T04:00:16.746Z",
+    "score": 40.8,
+    "scheduledWeek": "2026-W31",
+    "perplexityQuestions": [
+      "What are the first signs of diabetes in adults over 35?",
+      "Can you have diabetes with a normal fasting glucose but a high A1C?",
+      "What A1C number means diabetes vs prediabetes in adults?",
+      "Is an A1C of 6.5 always diabetes, or can it be something else?",
+      "How do I know if my blood sugar spikes after meals are dangerous?"
+    ],
+    "competitorCoverage": "Top-ranking articles for adult diabetes queries usually cover the same core themes: symptoms and diagnosis, what A1C and glucose numbers mean, risk factors, lifestyle changes, and basic treatment options such as metformin, CGMs, and when insulin may be needed. They also emphasize routine monitoring for complications, especially blood pressure, cholesterol, kidney function, eye exams, and foot exams, plus practical advice on diet, exercise, and when to seek medical care.[1][2][5][9] To compete, a new article should add clear thresholds, age-specific context for adults 35+, action steps for common lab results, and practical medication/monitoring comparisons that help readers decide what to do next rather than only explaining diabetes in general.[2][5][7][9]"
   },
   {
-    "title": "Does Walking Help Blood Sugar After 70? Yes—Here’s How Much",
-    "description": "15 minutes after dinner lowers post-meal spikes by 41 mg/dL in adults 70+. Learn the exact timing and pace that works.",
-    "primaryKeyword": "does walking help blood sugar after 70",
-    "topicCluster": "exercise-blood-sugar",
+    "title": "Can You Have Diabetes With Normal Fasting Sugar?",
+    "description": "Yes — 1 in 4 adults with diabetes has normal fasting glucose but high A1C. Discover why and what to test next.",
+    "primaryKeyword": "can you have diabetes with normal fasting sugar",
+    "topicCluster": "diabetes-management",
     "coreKeyword": "diabetes",
-    "createdAt": "2026-07-18T07:44:12.623Z"
+    "createdAt": "2026-07-25T04:00:16.746Z",
+    "score": 38.8,
+    "scheduledWeek": "2026-W31",
+    "perplexityQuestions": [
+      "What are the first signs of diabetes in adults over 35?",
+      "Can you have diabetes with a normal fasting glucose but a high A1C?",
+      "What A1C number means diabetes vs prediabetes in adults?",
+      "Is an A1C of 6.5 always diabetes, or can it be something else?",
+      "How do I know if my blood sugar spikes after meals are dangerous?"
+    ],
+    "competitorCoverage": "Top-ranking articles for adult diabetes queries usually cover the same core themes: symptoms and diagnosis, what A1C and glucose numbers mean, risk factors, lifestyle changes, and basic treatment options such as metformin, CGMs, and when insulin may be needed. They also emphasize routine monitoring for complications, especially blood pressure, cholesterol, kidney function, eye exams, and foot exams, plus practical advice on diet, exercise, and when to seek medical care.[1][2][5][9] To compete, a new article should add clear thresholds, age-specific context for adults 35+, action steps for common lab results, and practical medication/monitoring comparisons that help readers decide what to do next rather than only explaining diabetes in general.[2][5][7][9]"
   },
   {
-    "title": "What to Do When Blood Sugar Drops at Night After 65",
-    "description": "Nocturnal lows happen in 1 in 3 seniors on insulin—symptoms are often silent. Learn the 3-step safety plan tonight.",
-    "primaryKeyword": "what to do when blood sugar drops at night",
-    "topicCluster": "symptoms-diabetes",
+    "title": "Best Blood Sugar Friendly Snacks for Low Appetite Seniors",
+    "description": "Each snack has 12–15g protein and <10g net carbs — designed for seniors who eat only 2 meals a day and need stable energy.",
+    "primaryKeyword": "blood sugar friendly snacks for low appetite",
+    "topicCluster": "diabetes-management",
     "coreKeyword": "diabetes",
-    "createdAt": "2026-07-18T07:44:15.057Z"
-  },
-  {
-    "title": "HbA1c Targets for Elderly: What’s Safe After 75?",
-    "description": "ADA recommends 7.0–8.5% for frail seniors—tight control increases falls by 2.3x. Discover your personalized goal.",
-    "primaryKeyword": "hb1ac targets for elderly after 75",
-    "topicCluster": "hba1c-targets-elderly",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-07-18T07:44:17.508Z"
-  },
-  {
-    "title": "Can Stress Raise Blood Sugar Without Diabetes After 55?",
-    "description": "Yes—chronic stress spikes cortisol and raises fasting sugar by up to 22 mg/dL in adults 55+. Learn how to test and tame it.",
-    "primaryKeyword": "can stress raise blood sugar after 55",
-    "topicCluster": "symptoms-diabetes",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-07-18T07:44:19.956Z"
-  },
-  {
-    "title": "Best Blood Sugar Monitoring Routine After 65",
-    "description": "Testing 2x daily (fasting + 2 hrs after largest meal) catches 89% of spikes—no need for 4x unless on insulin. See how to start.",
-    "primaryKeyword": "best blood sugar monitoring routine after 65",
-    "topicCluster": "blood-sugar-monitoring",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-07-18T07:44:22.562Z"
-  },
-  {
-    "title": "Why Blood Sugar Spikes After Dinner After 60",
-    "description": "Digestive slowdown + carb sensitivity increases post-meal spikes by 35% after 60. Discover 3 easy meal tweaks that cut them.",
-    "primaryKeyword": "why blood sugar spikes after dinner after 60",
-    "topicCluster": "diet-blood-sugar",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-07-18T07:44:24.991Z"
-  },
-  {
-    "title": "Can You Reverse Prediabetes at 58 Without Meds?",
-    "description": "Yes—68% of adults 55–65 reverse it with 10% weight loss + 150 min/week movement. Get your step-by-step action plan.",
-    "primaryKeyword": "can you reverse prediabetes at 58 without meds",
-    "topicCluster": "newly-diagnosed-diabetes",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-07-18T07:44:27.422Z"
-  },
-  {
-    "title": "Best Low-Sugar Breakfast for Seniors With Diabetes",
-    "description": "A 2-egg scramble with spinach and avocado keeps blood sugar under 110 mg/dL for 4+ hours. Try these 5 no-cook options.",
-    "primaryKeyword": "best low sugar breakfast for seniors with diabetes",
-    "topicCluster": "diet-blood-sugar",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-07-18T07:44:29.860Z"
-  },
-  {
-    "title": "Does Coffee Raise Blood Sugar After 60?",
-    "description": "Black coffee spikes sugar by 12–18 mg/dL in 40% of adults over 60—especially with creamer. Learn which brews are safest.",
-    "primaryKeyword": "does coffee raise blood sugar after 60",
-    "topicCluster": "diet-blood-sugar",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-07-18T07:44:32.331Z"
-  },
-  {
-    "title": "What to Do When Blood Sugar Is 250 After Eating at 52",
-    "description": "If over 250 mg/dL twice in a row, ketone testing is needed—27% of adults 50+ don’t know this step. Find out when to test.",
-    "primaryKeyword": "what to do when blood sugar is 250 after eating",
-    "topicCluster": "medication-management",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-07-18T07:44:34.787Z"
-  },
-  {
-    "title": "Blood Sugar Friendly Snacks for Seniors Who Get Tired",
-    "description": "A 100-calorie combo of cheese + apple slices balances energy and sugar—keeps levels stable for 3+ hours. Try these 6 options.",
-    "primaryKeyword": "blood sugar friendly snacks for seniors who get tired",
-    "topicCluster": "diet-blood-sugar",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-07-18T07:44:37.214Z"
-  },
-  {
-    "title": "How to Start Strength Training Safely After 72 With Diabetes",
-    "description": "Just 2x/week chair-based resistance cuts insulin resistance by 21%—no gym needed. Learn the 5 safest moves to begin.",
-    "primaryKeyword": "how to start strength training safely after 72 with diabetes",
-    "topicCluster": "exercise-blood-sugar",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-07-18T07:44:39.623Z"
-  },
-  {
-    "title": "Why Diabetes Causes Fatigue After 65",
-    "description": "43% of seniors with diabetes report fatigue—and 61% have undiagnosed sleep apnea driving it. Discover the hidden link.",
-    "primaryKeyword": "why diabetes causes fatigue after 65",
-    "topicCluster": "symptoms-diabetes",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-07-18T07:44:42.145Z"
-  },
-  {
-    "title": "Best Blood Sugar Monitor for Arthritic Hands Over 70",
-    "description": "Large-button, no-lance meters cut testing time by 64% for seniors with arthritis. See the top 3 with voice feedback.",
-    "primaryKeyword": "best blood sugar monitor for arthritic hands over 70",
-    "topicCluster": "blood-sugar-monitoring",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-07-18T07:44:44.617Z"
-  },
-  {
-    "title": "Does Alcohol Raise Blood Sugar in Your 50s With Diabetes?",
-    "description": "Wine can drop sugar dangerously low 3+ hours later—especially with sulfonylureas. Learn safe limits and timing rules.",
-    "primaryKeyword": "does alcohol raise blood sugar in your 50s with diabetes",
-    "topicCluster": "medication-management",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-07-18T07:44:47.082Z"
+    "createdAt": "2026-07-25T04:00:16.746Z",
+    "score": 26.8,
+    "scheduledWeek": "2026-W31",
+    "perplexityQuestions": [
+      "What are the first signs of diabetes in adults over 35?",
+      "Can you have diabetes with a normal fasting glucose but a high A1C?",
+      "What A1C number means diabetes vs prediabetes in adults?",
+      "Is an A1C of 6.5 always diabetes, or can it be something else?",
+      "How do I know if my blood sugar spikes after meals are dangerous?"
+    ],
+    "competitorCoverage": "Top-ranking articles for adult diabetes queries usually cover the same core themes: symptoms and diagnosis, what A1C and glucose numbers mean, risk factors, lifestyle changes, and basic treatment options such as metformin, CGMs, and when insulin may be needed. They also emphasize routine monitoring for complications, especially blood pressure, cholesterol, kidney function, eye exams, and foot exams, plus practical advice on diet, exercise, and when to seek medical care.[1][2][5][9] To compete, a new article should add clear thresholds, age-specific context for adults 35+, action steps for common lab results, and practical medication/monitoring comparisons that help readers decide what to do next rather than only explaining diabetes in general.[2][5][7][9]"
   }
 ]

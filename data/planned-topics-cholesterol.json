@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "title": "Does Oat Bran Really Lower Cholesterol After 65?",
+    "description": "In 83% of seniors, oat bran reduced LDL by 7–12 points in 6 weeks — find out how much to eat daily.",
+    "primaryKeyword": "does oat bran lower cholesterol after 65",
+    "topicCluster": "nutrition-diet-management",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-07-25T04:00:16.746Z",
+    "score": 37.25,
+    "scheduledWeek": "2026-W31",
+    "perplexityQuestions": [
+      "Can cholesterol be high even if my LDL is normal but my ApoB is high?",
+      "What does it mean if my non-HDL cholesterol is high but my total cholesterol looks okay?",
+      "What is lipoprotein(a) and should adults over 35 get it tested?",
+      "Why is my triglycerides-to-HDL ratio high even though my LDL isn’t terrible?",
+      "Can perimenopause or menopause raise cholesterol suddenly in my late 40s or early 50s?"
+    ],
+    "competitorCoverage": "Top-ranking cholesterol articles for adults usually explain what cholesterol is, which numbers matter, common causes of high LDL and triglycerides, and how to lower risk with diet, exercise, weight loss, smoking cessation, and medication options. To compete, a new article should also cover newer risk markers and decision points adults search for now, especially ApoB, non-HDL cholesterol, lipoprotein(a), statin side effects and alternatives, and when to escalate to testing or specialist care."
+  },
+  {
+    "title": "Why Cholesterol Spikes After Hormone Therapy",
+    "description": "Testosterone or estrogen therapy can raise LDL by 15–25 mg/dL in 3 months—learn when to retest and what alternatives protect heart health.",
+    "primaryKeyword": "why cholesterol spikes after hormone therapy",
+    "topicCluster": "nutrition-diet-management",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-07-25T04:00:16.746Z",
+    "score": 36.25,
+    "scheduledWeek": "2026-W31",
+    "perplexityQuestions": [
+      "Can cholesterol be high even if my LDL is normal but my ApoB is high?",
+      "What does it mean if my non-HDL cholesterol is high but my total cholesterol looks okay?",
+      "What is lipoprotein(a) and should adults over 35 get it tested?",
+      "Why is my triglycerides-to-HDL ratio high even though my LDL isn’t terrible?",
+      "Can perimenopause or menopause raise cholesterol suddenly in my late 40s or early 50s?"
+    ],
+    "competitorCoverage": "Top-ranking cholesterol articles for adults usually explain what cholesterol is, which numbers matter, common causes of high LDL and triglycerides, and how to lower risk with diet, exercise, weight loss, smoking cessation, and medication options. To compete, a new article should also cover newer risk markers and decision points adults search for now, especially ApoB, non-HDL cholesterol, lipoprotein(a), statin side effects and alternatives, and when to escalate to testing or specialist care."
+  },
+  {
+    "title": "What Does High Non-HDL Cholesterol Mean?",
+    "description": "Non-HDL cholesterol over 130 mg/dL raises heart risk even if total cholesterol looks fine—learn how to interpret your lab report and what to do next.",
+    "primaryKeyword": "what does non hdl cholesterol mean",
+    "topicCluster": "nutrition-diet-management",
+    "coreKeyword": "cholesterol",
+    "createdAt": "2026-07-25T04:00:16.746Z",
+    "score": 35.25,
+    "scheduledWeek": "2026-W31",
+    "perplexityQuestions": [
+      "Can cholesterol be high even if my LDL is normal but my ApoB is high?",
+      "What does it mean if my non-HDL cholesterol is high but my total cholesterol looks okay?",
+      "What is lipoprotein(a) and should adults over 35 get it tested?",
+      "Why is my triglycerides-to-HDL ratio high even though my LDL isn’t terrible?",
+      "Can perimenopause or menopause raise cholesterol suddenly in my late 40s or early 50s?"
+    ],
+    "competitorCoverage": "Top-ranking cholesterol articles for adults usually explain what cholesterol is, which numbers matter, common causes of high LDL and triglycerides, and how to lower risk with diet, exercise, weight loss, smoking cessation, and medication options. To compete, a new article should also cover newer risk markers and decision points adults search for now, especially ApoB, non-HDL cholesterol, lipoprotein(a), statin side effects and alternatives, and when to escalate to testing or specialist care."
+  }
+]
