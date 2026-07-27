@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-24",
+  "period": "3-day",
+  "impressionsChange": -64.81892091648189,
+  "clicksChange": -100,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "how humidity can impact blood pressure",
+      "reason": "排名跃升 30.3 位（47.8 → 17.5）",
+      "score": 80,
+      "recentImpressions": 2,
+      "baselineImpressions": 11,
+      "recentPosition": 17.5,
+      "baselinePosition": 47.81818181818182
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "best statin for women",
+      "reason": "排名跃升 19.6 位（39.1 → 19.5）",
+      "score": 58.676470588235304,
+      "recentImpressions": 6,
+      "baselineImpressions": 17,
+      "recentPosition": 19.5,
+      "baselinePosition": 39.05882352941177
+    }
+  ]
+}

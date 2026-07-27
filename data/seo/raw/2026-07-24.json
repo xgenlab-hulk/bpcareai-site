@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-24",
+  "fetchedAt": "2026-07-27T02:03:45.367Z",
+  "queries": [
+    {
+      "query": "best statin for women",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 22
+    },
+    {
+      "query": "humidity and blood pressure correlation",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 100
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/articles/best-cholesterol-meds-seniors-muscle-pain",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 20
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 60.5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/best-cholesterol-meds-women-menopause",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 22
+    }
+  ],
+  "summary": {
+    "totalQueries": 2,
+    "totalImpressions": 2,
+    "totalClicks": 0,
+    "avgPosition": 61,
+    "pagesWithImpressions": 3
+  }
+}

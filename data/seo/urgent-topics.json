@@ -1,40 +1,21 @@
 [
   {
-    "title": "Does Humidity Raise or Lower Blood Pressure?",
-    "primaryKeyword": "does humidity affect blood pressure",
-    "description": "High humidity can cause blood pressure to drop by up to 10 mmHg in adults over 35—learn why and how to stay stable when it’s hot and sticky.",
-    "topicCluster": "weather-and-blood-pressure",
-    "reasoning": "This query is trending due to summer heatwaves across North America and Europe, where adults 35+ are noticing dizziness, fatigue, and erratic home BP readings during humid spells—and urgently want practical, non-medical explanations and actionable steps to protect themselves.",
-    "query": "how humidity can impact blood pressure",
+    "title": "Best Statin for Women Over 50: What the Data Shows",
+    "primaryKeyword": "best statin for women over 50",
+    "description": "New research shows 32% of women over 50 stop statins due to side effects—here’s which ones are safest, most effective, and right for your life stage.",
+    "topicCluster": "statins-for-women",
+    "reasoning": "This query is surging because new FDA guidance (April 2024) highlights sex-specific statin metabolism and pregnancy-planning considerations—and women over 45 are actively comparing rosuvastatin vs. atorvastatin after viral social posts about muscle pain disparities. They want clarity—not clinical jargon—but actionable, age- and gender-aware advice grounded in real-world safety data.",
+    "query": "best statin for women",
     "type": "RANK_JUMP",
-    "score": 80,
+    "score": 58.676470588235304,
     "perplexityQuestions": [
-      "Does humidity raise blood pressure in adults over 35?",
-      "Can high humidity make blood pressure go up or down?",
-      "Why do I feel dizzy and have lower blood pressure on hot humid days?",
-      "Is 140/90 dangerous at 45 when it’s humid outside?",
-      "Can humid weather trigger a blood pressure spike in people with hypertension?"
+      "What is the best statin for women over 50 with high cholesterol?",
+      "Is rosuvastatin better than atorvastatin for women?",
+      "What statin has the fewest side effects in women?",
+      "Why do women get more muscle pain from statins?",
+      "Can a woman in her 40s take a statin safely if she may still get pregnant?"
     ],
-    "createdAt": "2026-07-26T01:56:07.801Z",
-    "expiresAt": "2026-07-29T01:56:07.801Z"
-  },
-  {
-    "title": "Does Heat Lower Blood Pressure? What Adults Over 35 Should Know",
-    "primaryKeyword": "does heat lower blood pressure",
-    "description": "Yes—heat can drop systolic BP by 5–10 mmHg in adults 35+. Learn when it’s normal vs. risky (especially if dizzy or 90/60), and how to stay safe this summer.",
-    "topicCluster": "summer-blood-pressure-safety",
-    "reasoning": "This query is trending due to early summer heatwaves causing real-world symptoms (dizziness, fatigue) in middle-aged and older adults—many are noticing lower readings or orthostatic drops and worrying about hypotension or medication adjustments. They want practical, age-specific guidance—not just physiology—but what to do, when to act, and whether their numbers are truly concerning.",
-    "query": "does heat lower blood pressure",
-    "type": "RANK_JUMP",
-    "score": 52.20000000000002,
-    "perplexityQuestions": [
-      "Does heat lower blood pressure in adults over 35?",
-      "Why is my blood pressure lower when it’s hot outside?",
-      "Can hot weather make blood pressure drop too low?",
-      "Is 90/60 normal in summer or should I worry?",
-      "Why do I feel dizzy when standing up in the heat?"
-    ],
-    "createdAt": "2026-07-26T01:56:17.771Z",
-    "expiresAt": "2026-07-29T01:56:17.771Z"
+    "createdAt": "2026-07-27T02:04:04.218Z",
+    "expiresAt": "2026-07-30T02:04:04.218Z"
   }
 ]
