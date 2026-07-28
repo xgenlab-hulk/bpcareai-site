@@ -1,21 +1,21 @@
 [
   {
-    "title": "Best Statin for Women Over 50: What the Data Shows",
-    "primaryKeyword": "best statin for women over 50",
-    "description": "New research shows 32% of women over 50 stop statins due to side effects—here’s which ones are safest, most effective, and right for your life stage.",
-    "topicCluster": "statins-for-women",
-    "reasoning": "This query is surging because new FDA guidance (April 2024) highlights sex-specific statin metabolism and pregnancy-planning considerations—and women over 45 are actively comparing rosuvastatin vs. atorvastatin after viral social posts about muscle pain disparities. They want clarity—not clinical jargon—but actionable, age- and gender-aware advice grounded in real-world safety data.",
-    "query": "best statin for women",
+    "title": "Does Humidity Raise Blood Pressure? What Adults 35+ Should Know",
+    "primaryKeyword": "does humidity raise blood pressure",
+    "description": "High humidity can spike systolic BP by up to 10 mmHg in adults over 35—especially with existing hypertension. Learn how to monitor and protect yourself.",
+    "topicCluster": "weather-and-blood-pressure",
+    "reasoning": "A summer heatwave is driving real-time searches from adults 35+ experiencing unexplained BP fluctuations on humid days—they want practical, non-clinical answers about weather-related triggers and immediate self-management steps, not textbook physiology.",
+    "query": "how humidity can impact blood pressure",
     "type": "RANK_JUMP",
-    "score": 58.676470588235304,
+    "score": 79.25,
     "perplexityQuestions": [
-      "What is the best statin for women over 50 with high cholesterol?",
-      "Is rosuvastatin better than atorvastatin for women?",
-      "What statin has the fewest side effects in women?",
-      "Why do women get more muscle pain from statins?",
-      "Can a woman in her 40s take a statin safely if she may still get pregnant?"
+      "Can humidity raise blood pressure in adults over 35?",
+      "Does high humidity make blood pressure go up or down?",
+      "Why does my blood pressure feel worse on humid days?",
+      "Can humidity trigger blood pressure spikes in people with hypertension?",
+      "Is 140/90 dangerous at 45, and can hot humid weather make it higher?"
     ],
-    "createdAt": "2026-07-27T02:04:04.218Z",
-    "expiresAt": "2026-07-30T02:04:04.218Z"
+    "createdAt": "2026-07-28T01:46:29.523Z",
+    "expiresAt": "2026-07-31T01:46:29.523Z"
   }
 ]
