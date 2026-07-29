@@ -1,0 +1,344 @@
+{
+  "date": "2026-07-26",
+  "fetchedAt": "2026-07-29T01:48:13.161Z",
+  "queries": [
+    {
+      "query": "bp cares",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 49
+    },
+    {
+      "query": "which is the best statin to avoid muscle pain",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 21
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 28
+    },
+    {
+      "page": "https://bpcareai.com/articles/best-cholesterol-meds-seniors-muscle-pain",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 21
+    },
+    {
+      "page": "https://bpcareai.com/articles/best-fruits-for-diabetics-over-50-and-which-to-limit",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 32
+    },
+    {
+      "page": "https://bpcareai.com/articles/blood-sugar-friendly-holiday-gift-ideas-for-diabetics-over-70",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 30.25
+    },
+    {
+      "page": "https://bpcareai.com/articles/can-strength-training-lower-heart-disease-risk-after-60",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 26
+    },
+    {
+      "page": "https://bpcareai.com/articles/chair-strength-training-muscle-after-75",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "page": "https://bpcareai.com/articles/diabetes-warning-signs-after-60",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "page": "https://bpcareai.com/articles/heart-rate-variability-explained",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-late-night-gift-wrapping-alters-hepatic-insulin-clearance-and-why-that-raises-fasting-glucose-next-morning-in-adults-62-with-nafld-and-normal-bmi",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 50
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-best-indoor-exercises-for-blood-pressure-control-in-winter",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 29
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 24
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-link-between-holiday-stress-and-irregular-heartbeat",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 25
+    },
+    {
+      "page": "https://bpcareai.com/articles/top-10-diabetes-friendly-snacks-for-people-over-60",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 22
+    },
+    {
+      "page": "https://bpcareai.com/articles/vns-vs-tart-cherry-juice-nocturnal-afib",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 20
+    },
+    {
+      "page": "https://bpcareai.com/articles/when-to-suspect-cardiac-amyloidosis-in-women-75-with-unexplained-fatigue-bilateral-carpal-tunnel-surgery-history-and-preserved-ef-on-echo",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 43
+    },
+    {
+      "page": "https://www.bpcareai.com/about",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 24.285714285714285
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/10-winter-safe-exercises-for-heart-health-after-65",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 27
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 15.75
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/7-unexpected-signs-of-subclinical-heart-failure-in-women-over-65-who-still-walk-10-000-steps-daily",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 17.25
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/ambulatory-blood-pressure-report-interpretation",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/apple-cider-vs-chai-for-afib",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 16
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/best-breakfast-foods-75-year-old-low-appetite",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 23
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/best-cholesterol-meds-women-menopause",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 33
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/best-portable-glucose-monitors-for-holiday-travel-in-2024-ranked-by-accuracy-in-cold-weather-battery-life-and-tsa-friendly-design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 45
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/blood-sugar-targets-metformin-over-35",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/can-intermittent-fasting-worsen-autonomic-neuropathy-in-adults-71-with-long-term-type-2-diabetes-and-orthostatic-tachycardia",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 39
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/check-fasting-blood-sugar-at-40",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 18
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/collard-greens-endothelial-function-comparison",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 14
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/how-emotional-eating-patterns-shift-during-multigenerational-gatherings-and-why-that-matters-for-adults-with-long-standing-type-2-diabetes",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 17
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/is-sugar-free-living-necessary-for-diabetics-over-50",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 16.833333333333336
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/nrf2-activating-foods-microvascular-angina-elders",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 15
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 41
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 38
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 34
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/travel-glucose-monitor-seniors-offline-sync",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 17
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/vns-vs-tart-cherry-juice-nocturnal-afib",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 21
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/warning-signs-your-senior-loved-one-is-using-food-to-cope-with-holiday-grief-or-loneliness",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 14.75
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/what-causes-white-coat-normotension-when-clinic-readings-are-normal-but-ambulatory-monitoring-shows-stage-1-hypertension-in-adults-61-75",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 47
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/when-to-suspect-holiday-induced-glycemic-amnesia-in-adults-74-with-mild-cognitive-impairment-and-why-it-s-not-just-forgetfulness",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 18.166666666666668
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 48
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/when-to-worry-about-unexplained-fatigue-after-age-68-distinguishing-early-heart-failure-from-anemia-thyroid-dysfunction-and-medication-side-effects",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 17
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/why-emotional-eating-at-family-gatherings-is-common-and-how-to-manage-it",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 13.75
+    },
+    {
+      "page": "https://www.bpcareai.com/contact",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 2
+    }
+  ],
+  "summary": {
+    "totalQueries": 2,
+    "totalImpressions": 2,
+    "totalClicks": 0,
+    "avgPosition": 35,
+    "pagesWithImpressions": 45
+  }
+}
