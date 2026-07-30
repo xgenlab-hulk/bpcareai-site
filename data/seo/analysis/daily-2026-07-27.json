@@ -1,0 +1,20 @@
+{
+  "date": "2026-07-27",
+  "period": "3-day",
+  "impressionsChange": -72.54901960784314,
+  "clicksChange": -100,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "how humidity can impact blood pressure",
+      "reason": "排名跃升 26.4 位（45.4 → 19.0）",
+      "score": 79.25,
+      "recentImpressions": 1,
+      "baselineImpressions": 12,
+      "recentPosition": 19,
+      "baselinePosition": 45.416666666666664
+    }
+  ]
+}
