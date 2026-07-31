@@ -1,0 +1,43 @@
+{
+  "date": "2026-07-28",
+  "fetchedAt": "2026-07-31T01:57:41.232Z",
+  "queries": [
+    {
+      "query": "interbeat interval",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 92
+    },
+    {
+      "query": "variable pulse rate",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 98
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/articles/heart-rate-variability-explained",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 95
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/diaphragmatic-breathing-fasting-glucose",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    }
+  ],
+  "summary": {
+    "totalQueries": 2,
+    "totalImpressions": 2,
+    "totalClicks": 0,
+    "avgPosition": 95,
+    "pagesWithImpressions": 2
+  }
+}
