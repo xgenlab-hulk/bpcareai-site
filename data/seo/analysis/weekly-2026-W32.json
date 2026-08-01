@@ -1,0 +1,217 @@
+{
+  "week": "2026-W32",
+  "generatedAt": "2026-08-01T04:17:34.680Z",
+  "config": {
+    "weeklyTarget": 35,
+    "dailyTarget": 5
+  },
+  "previousWeek": {
+    "remaining": 30,
+    "kept": 0
+  },
+  "newGenerated": 17,
+  "totalWritten": 15,
+  "gscData": {
+    "daysAnalyzed": 7,
+    "totalSearchTerms": 15
+  },
+  "llmAnalysis": {
+    "searchIntentAnalysis": "信息查询主导（占比93%）：'best statin for women'、'how humidity can impact blood pressure'、'does heat affect blood pressure'等均属深度健康知识需求，用户寻求权威、分人群（女性/70+）、机制性解释（湿度→BP、NRF2→endothelium）；零比较决策类（如'atorvastatin vs rosuvastatin cost'未出现）；无紧急问题词（如'chest pain sudden bp spike'），说明当前流量来自预防性健康研究者而非急性症状求助者。",
+    "ctrAnomalies": "全量CTR=0%，核心原因为标题与搜索意图严重错配：首页（position 19.4, 12 impressions）和'about'页（position 3.8）无明确价值主张；高展示长尾词如'best statin for women'（pos 60.5）对应页面'best-cholesterol-meds-women-menopause'（pos 72）标题冗长晦涩，未包含'women'+'statin'+'muscle pain'等高频搜索变体；技术词'interbeat interval'（pos 92）无对应专业术语解析页。",
+    "hiddenOpportunities": "[\"湿度/温度与血压的生理机制（3个相关query总impressions=4，avg position=72，但现有'indoor-heating-on-blood-pressure'页未覆盖湿度维度）\",\"女性他汀选择指南（'best statin for women'+'over 70'+'avoid muscle pain'共4个query，零点击，竞品多用'low-dose rosuvastatin'等具体方案）\",\"AI在血压管理中的实际应用（'ai@bp'/'ai bp'等brand+tech组合词虽展示少但位置极差，反映品牌认知未与AI定位对齐）\",\"微血管功能检测科普（'microvascular reactivity testing'出现在长标题中但无独立术语页）\",\"右心衰鉴别诊断（'right-sided heart failure'相关query在topPages中已有7-silent-signs页但CTR为0，说明标题未触发'aging vs heart failure'核心冲突点）\"]",
+    "topicPriorities": "[{\"topic\":\"女性绝经后他汀选择：平衡降脂效力与肌肉安全性\",\"dataBasis\":\"'best statin for women' (5 imp), 'best statin for women over 70' (1 imp), 'which is the best statin to avoid muscle pain' (1 imp) — 共7次展示，平均位置65.3，零点击，表明存在明确未满足需求\",\"whyPriority\":\"高临床价值+强转化潜力：女性心血管疾病漏诊率高，该主题可衔接处方决策路径，且竞品内容多泛泛而谈，缺乏'70+女性CYP2C9代谢差异'等精准数据支撑\"},{\"topic\":\"湿度与血压波动：自主神经调节失衡的居家监测方案\",\"dataBasis\":\"'how humidity can impact blood pressure' (2 imp), 'humidity and blood pressure correlation' (1 imp), 'does heat affect blood pressure' (1 imp) — 4次展",
+    "articleOptimizations": 5
+  },
+  "perplexityInsights": {
+    "cholesterol": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "What is a dangerous cholesterol level at 45?",
+        "Is LDL 160 high if my total cholesterol is still under 200?",
+        "Can you have high cholesterol with a normal BMI and healthy diet?",
+        "How fast can cholesterol drop after starting a statin?",
+        "What cholesterol number means I need medication, not just diet?",
+        "Why is my LDL high even though my triglycerides are normal?",
+        "Can high cholesterol cause chest pain, dizziness, or shortness of breath?",
+        "How often should adults over 35 get a cholesterol test?",
+        "What should I do if my apoB is high but my LDL looks okay?",
+        "Is non-fasting cholesterol testing accurate for adults?"
+      ],
+      "competitorCoverage": "Top-ranking cholesterol articles for adults usually cover the basic lipid numbers, what counts as high or very high, common causes, and first-line lifestyle steps such as diet, exercise, weight loss, smoking cessation, and sleep/stress management.[4][14][18] They also tend to include when to test, when to see a clinician, and whether medication may be needed, plus practical FAQ-style guidance on understanding your results and asking your doctor the right questions.[1][3][9][11][15] To compete, a new article should clearly explain thresholds, who needs treatment sooner, how often adults should recheck labs, and what questions to ask about statins, side effects, and follow-up testing.[2][4][14][15]",
+      "whyItMatters": "This topic stays important because major guidance continues to emphasize regular screening in adults and risk-based treatment decisions, while patient-facing resources keep drawing attention to how common the condition is and how often people need clearer answers about their numbers.[4][9][14] It is also timely because more adults are actively looking for non-drug and medication-adjacent strategies, such as diet quality, soluble fiber, plant sterols, and understanding whether their results warrant treatment.[4][18]"
+    },
+    "diabetes": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "What does it mean if my blood sugar is 180 two hours after eating at age 42?",
+        "Is it normal to have diabetes symptoms but a normal A1C?",
+        "What blood sugar numbers should I worry about if I'm 55 and on metformin?",
+        "Can I have type 2 diabetes if my fasting glucose is normal but my post-meal sugar is high?",
+        "Why is my blood sugar high in the morning even when I ate nothing after dinner?",
+        "What should I do if my glucose drops below 70 after starting Ozempic or insulin?",
+        "How do I know if I need insulin if I'm already taking diabetes pills?",
+        "Can I still reverse prediabetes at 50 without medication?",
+        "Is it safe to fast or do intermittent fasting if I'm over 40 with diabetes?",
+        "Why is my A1C high but my home glucose readings look okay?"
+      ],
+      "competitorCoverage": "Top-ranking diabetes articles for adults usually cover the basics: what diabetes is, the difference between type 1, type 2, and prediabetes, common symptoms, and standard tests such as fasting glucose and A1C. They also emphasize lifestyle treatment, medication options, blood sugar targets, and routine monitoring for complications like eye, kidney, foot, blood pressure, and cholesterol problems.[1][2][4][5][6][7][10][11][14][19] To compete, a new article should add age-specific framing for adults 35+, practical thresholds and scenarios, clear next-step actions, and answers about modern treatments, sick-day rules, travel, and how to manage highs/lows in daily life.[1][4][5][6][15]",
+      "whyItMatters": "This topic stays highly active because diabetes is a lifelong condition that many adults are trying to screen for earlier, manage more precisely, or prevent from progressing after prediabetes is found.[1][2][10][19] It is also especially relevant now because current patient guidance increasingly focuses on complication prevention, medication choices, and self-management questions that patients ask at every stage of the disease.[4][6][15][19]"
+    },
+    "healthy eating for seniors": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "What should a 70-year-old eat every day to stay healthy and avoid malnutrition?",
+        "How many calories do adults over 65 need if they are not very active?",
+        "How much protein should a 68-year-old woman eat per day to prevent muscle loss?",
+        "What are the best foods for older adults with no appetite or who skip meals?",
+        "Is it normal to lose weight after 75, or is unexplained weight loss a warning sign?",
+        "What should a senior eat if they have trouble chewing because of missing teeth or dentures?",
+        "What are the best soft foods for older adults who cannot chew well?",
+        "How much water should a 72-year-old drink each day, and does coffee or tea count?",
+        "What foods help prevent constipation in seniors without causing bloating or diarrhea?",
+        "What is the healthiest breakfast for seniors who take multiple medications in the morning?"
+      ],
+      "competitorCoverage": "Top-ranking articles about healthy eating for older adults generally cover the same core themes: nutrient needs change with age, protein and fiber become more important, hydration matters, and smaller or more frequent meals can help when appetite declines.[1][2][5][9][14] They also tend to include practical advice such as meal planning, budget-friendly choices, easy-to-prepare foods, and flags for common problems like unintentional weight loss, chewing difficulty, and dehydration.[2][9][16][18] To compete, a new article should add concrete portion guidance, symptom-based scenarios, and actionable food examples for common real-world barriers like low appetite, denture problems, dysphagia, medication timing, and living alone.[9][16][18]",
+      "whyItMatters": "This topic stays important because older adults are at higher risk for malnutrition, dehydration, and unintended weight loss, and major health sources continue to emphasize individualized nutrition, meal planning, and easier-to-manage eating patterns for aging adults.[1][2][5][16] It also trends because many people over 35 are now caring for parents or planning their own aging, so search demand rises around practical questions about appetite, protein, hydration, and whether common symptoms are normal or concerning.[9][14][16]"
+    },
+    "exercise for seniors": {
+      "questionsFound": 15,
+      "topQuestions": [
+        "What is the safest exercise routine for a 70-year-old beginner with no gym equipment?",
+        "How many minutes per day should a 65-year-old exercise to improve health without overdoing it?",
+        "Can a 75-year-old start strength training for the first time, and what weights are safe to use?",
+        "Is it safe for seniors over 80 to do squats, lunges, or pushups at home?",
+        "What exercises should an older adult avoid if they have osteoporosis or low bone density?",
+        "How can a 68-year-old exercise safely with arthritis in the knees or hands?",
+        "What should a senior do if they get dizzy, short of breath, or chest pain during exercise?",
+        "Can walking alone count as enough exercise for adults over 60, or do they still need strength work?",
+        "How often should adults over 65 do balance exercises to prevent falls?",
+        "What is the best exercise plan for a sedentary 55-year-old who is very out of shape?"
+      ],
+      "competitorCoverage": "Top-ranking articles for exercise for seniors usually cover the same core framework: the major types of activity older adults need, how much weekly exercise to aim for, and how to start safely with a gradual progression. They also emphasize screening for health conditions, warning signs that mean to stop, and practical beginner-friendly options such as walking, chair-based work, resistance bands, balance drills, and gentle stretching.[1][3][5][6][18][19] A new article will need to include clear safety guidance, simple progression rules, and specific exercise choices matched to common limitations, because most competitors already explain the general benefits and basic weekly targets.[1][5][8][18][19]",
+      "whyItMatters": "This topic remains important because major guidance for older adults continues to emphasize aerobic, strength, and balance activity, with consistent weekly targets and less sitting time.[1][5][11] It is also timely because many older adults are looking for low-cost, home-based routines they can start safely without equipment, especially when managing age-related limitations like joint pain, shortness of breath, or fall risk.[4][8][18]"
+    }
+  },
+  "topTopics": [
+    {
+      "title": "What to Do When Walking Makes You Feel Faint at 70",
+      "pk": "what to do when walking makes you feel faint",
+      "score": 50,
+      "breakdown": {
+        "clusterNeed": 16,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率55%，中等缺口 | 近7天已产出3篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "Best Low-Impact Exercises for Seniors With Knee Pain",
+      "pk": "low impact exercises for seniors with knee pain",
+      "score": 50,
+      "breakdown": {
+        "clusterNeed": 16,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 6
+      },
+      "reasoning": "lifestyle-interventions集群覆盖率55%，中等缺口 | 近7天已产出3篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠50%)"
+    },
+    {
+      "title": "What Should a 70-Year-Old Eat Every Day?",
+      "pk": "what should a 70-year-old eat every day",
+      "score": 48,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 24,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章高度差异化(重叠25%)"
+    },
+    {
+      "title": "How Many Calories Do Adults Over 65 Need?",
+      "pk": "how many calories do adults over 65 need",
+      "score": 46,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    },
+    {
+      "title": "Is LDL 160 High If Total Is Under 200?",
+      "pk": "is ldl 160 high if total under 200",
+      "score": 45,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 21,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章有差异(重叠40%)"
+    },
+    {
+      "title": "How Much Water Should a 72-Year-Old Drink Daily?",
+      "pk": "how much water should a 72-year-old drink daily",
+      "score": 45,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 21,
+        "timeliness": 6
+      },
+      "reasoning": "非核心集群，基础分 | 来自周度分析推荐 | 与已有文章有差异(重叠40%)"
+    },
+    {
+      "title": "Blood Pressure Meds That Cause Nighttime Urination",
+      "pk": "blood pressure meds that make you pee at night",
+      "score": 42.233333333333334,
+      "breakdown": {
+        "clusterNeed": 12.2,
+        "searchDemand": 8,
+        "differentiation": 20,
+        "timeliness": 2
+      },
+      "reasoning": "hypertension-management集群覆盖率74%，中等缺口 | 近7天已产出4篇，适度减分 | GSC方向相关\"can heat make your blood pressure go up\"(1次展示)，微弱信号 | 与已有文章有差异(重叠50%) | 搜索趋势下降"
+    },
+    {
+      "title": "5 Safe Strength Moves for First-Time 75-Year-Olds",
+      "pk": "can a 75 year old start strength training",
+      "score": 41,
+      "breakdown": {
+        "clusterNeed": 10,
+        "searchDemand": 8,
+        "differentiation": 21,
+        "timeliness": 2
+      },
+      "reasoning": "非核心集群，基础分 | GSC方向相关\"seated strength training for seniors -site:youtube.com -site:reddit.com -site:x.com -site:twitter.com -site:facebook.com -site:instagram.com -site:tiktok.com -site:linkedin.com -site:pinterest.com -site:nytimes.com -site:wsj.com -site:yelp.com -site:rottentomatoes.com\"(1次展示)，微弱信号 | 与已有文章有差异(重叠40%) | 搜索趋势下降"
+    },
+    {
+      "title": "What to Do When Blood Sugar Drops Below 70 on Ozempic",
+      "pk": "blood sugar drops below 70 on Ozempic",
+      "score": 40.5,
+      "breakdown": {
+        "clusterNeed": 4.5,
+        "searchDemand": 8,
+        "differentiation": 22,
+        "timeliness": 6
+      },
+      "reasoning": "diabetes-management集群接近目标 | 近7天已产出3篇，适度减分 | 来自周度分析推荐 | 与已有文章有差异(重叠33%)"
+    },
+    {
+      "title": "What Cholesterol Number Means You Need Medication?",
+      "pk": "what cholesterol number means need medication",
+      "score": 38.875,
+      "breakdown": {
+        "clusterNeed": 0.9,
+        "searchDemand": 8,
+        "differentiation": 24,
+        "timeliness": 6
+      },
+      "reasoning": "nutrition-diet-management集群接近目标 | 近7天已产出3篇，适度减分 | 来自周度分析推荐 | 与已有文章高度差异化(重叠20%)"
+    }
+  ]
+}

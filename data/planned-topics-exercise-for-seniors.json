@@ -1,114 +1,74 @@
 [
   {
-    "title": "Why Walking Feels Harder in Winter After 65",
-    "description": "Cold air raises systolic BP by up to 10 mmHg — here’s how to stay active and safe when temperatures drop below 40°F. learn how",
-    "primaryKeyword": "why walking harder in winter after 65",
-    "topicCluster": "exercise-cold-weather-blood-pressure",
+    "title": "What to Do When Walking Makes You Feel Faint at 70",
+    "description": "1 in 4 adults over 70 reports dizziness during walking — often linked to BP drops of 15+ mmHg. Find out",
+    "primaryKeyword": "what to do when walking makes you feel faint",
+    "topicCluster": "lifestyle-interventions",
     "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-25T08:02:17.083Z"
+    "createdAt": "2026-08-01T04:17:34.679Z",
+    "score": 50,
+    "scheduledWeek": "2026-W32",
+    "perplexityQuestions": [
+      "What is the safest exercise routine for a 70-year-old beginner with no gym equipment?",
+      "How many minutes per day should a 65-year-old exercise to improve health without overdoing it?",
+      "Can a 75-year-old start strength training for the first time, and what weights are safe to use?",
+      "Is it safe for seniors over 80 to do squats, lunges, or pushups at home?",
+      "What exercises should an older adult avoid if they have osteoporosis or low bone density?"
+    ],
+    "competitorCoverage": "Top-ranking articles for exercise for seniors usually cover the same core framework: the major types of activity older adults need, how much weekly exercise to aim for, and how to start safely with a gradual progression. They also emphasize screening for health conditions, warning signs that mean to stop, and practical beginner-friendly options such as walking, chair-based work, resistance bands, balance drills, and gentle stretching.[1][3][5][6][18][19] A new article will need to include clear safety guidance, simple progression rules, and specific exercise choices matched to common limitations, because most competitors already explain the general benefits and basic weekly targets.[1][5][8][18][19]"
   },
   {
-    "title": "3 Breathing Exercises That Lower Blood Pressure Fast",
-    "description": "Just 5 minutes of paced breathing drops diastolic BP by 4.3 mmHg — simple, science-backed techniques you can do anywhere. discover",
-    "primaryKeyword": "breathing exercises lower blood pressure fast",
-    "topicCluster": "exercise-deep-breathing-for-blood-pressure",
+    "title": "Best Low-Impact Exercises for Seniors With Knee Pain",
+    "description": "Water-based moves cut joint load by 75% vs land walking — try 3 proven options that protect knees. Learn how",
+    "primaryKeyword": "low impact exercises for seniors with knee pain",
+    "topicCluster": "lifestyle-interventions",
     "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-25T08:02:19.530Z"
+    "createdAt": "2026-08-01T04:17:34.679Z",
+    "score": 50,
+    "scheduledWeek": "2026-W32",
+    "perplexityQuestions": [
+      "What is the safest exercise routine for a 70-year-old beginner with no gym equipment?",
+      "How many minutes per day should a 65-year-old exercise to improve health without overdoing it?",
+      "Can a 75-year-old start strength training for the first time, and what weights are safe to use?",
+      "Is it safe for seniors over 80 to do squats, lunges, or pushups at home?",
+      "What exercises should an older adult avoid if they have osteoporosis or low bone density?"
+    ],
+    "competitorCoverage": "Top-ranking articles for exercise for seniors usually cover the same core framework: the major types of activity older adults need, how much weekly exercise to aim for, and how to start safely with a gradual progression. They also emphasize screening for health conditions, warning signs that mean to stop, and practical beginner-friendly options such as walking, chair-based work, resistance bands, balance drills, and gentle stretching.[1][3][5][6][18][19] A new article will need to include clear safety guidance, simple progression rules, and specific exercise choices matched to common limitations, because most competitors already explain the general benefits and basic weekly targets.[1][5][8][18][19]"
   },
   {
-    "title": "How to Walk Safely With Low Blood Pressure After 60",
-    "description": "Dizziness while walking affects 1 in 4 seniors with low BP — get 4 proven strategies to prevent falls and stay steady. learn how",
-    "primaryKeyword": "walk safely with low blood pressure after 60",
-    "topicCluster": "exercise-blood-pressure",
+    "title": "How Many Minutes Daily Should a 65-Year-Old Exercise?",
+    "description": "Just 12 minutes of brisk walking daily cuts fall risk by 27% — no gym needed. Discover your ideal starting time",
+    "primaryKeyword": "how many minutes a day should a 65 year old exercise",
+    "topicCluster": "lifestyle-interventions",
     "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-25T08:02:22.009Z"
+    "createdAt": "2026-08-01T04:17:34.679Z",
+    "score": 38,
+    "scheduledWeek": "2026-W32",
+    "perplexityQuestions": [
+      "What is the safest exercise routine for a 70-year-old beginner with no gym equipment?",
+      "How many minutes per day should a 65-year-old exercise to improve health without overdoing it?",
+      "Can a 75-year-old start strength training for the first time, and what weights are safe to use?",
+      "Is it safe for seniors over 80 to do squats, lunges, or pushups at home?",
+      "What exercises should an older adult avoid if they have osteoporosis or low bone density?"
+    ],
+    "competitorCoverage": "Top-ranking articles for exercise for seniors usually cover the same core framework: the major types of activity older adults need, how much weekly exercise to aim for, and how to start safely with a gradual progression. They also emphasize screening for health conditions, warning signs that mean to stop, and practical beginner-friendly options such as walking, chair-based work, resistance bands, balance drills, and gentle stretching.[1][3][5][6][18][19] A new article will need to include clear safety guidance, simple progression rules, and specific exercise choices matched to common limitations, because most competitors already explain the general benefits and basic weekly targets.[1][5][8][18][19]"
   },
   {
-    "title": "Best Low-Impact Moves for Swollen Feet at 72",
-    "description": "Gentle seated leg lifts reduce ankle swelling by 31% in 14 days — no standing, no pain, just consistent movement. discover",
-    "primaryKeyword": "low impact exercise for swollen feet at 72",
-    "topicCluster": "exercise-low-impact",
+    "title": "Safe Exercises to Avoid With Osteoporosis After 60",
+    "description": "Forward bends and high-impact jumps increase fracture risk by 3.2x — skip these 4 common moves. Discover",
+    "primaryKeyword": "exercises to avoid with osteoporosis after 60",
+    "topicCluster": "lifestyle-interventions",
     "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-25T08:02:24.463Z"
-  },
-  {
-    "title": "Can Deep Breathing Lower Blood Pressure While Sitting?",
-    "description": "Yes — 2023 trial found seated deep breathing lowers morning BP by 5.8 mmHg in 4 weeks. See how to do it right. find out",
-    "primaryKeyword": "deep breathing lower blood pressure sitting",
-    "topicCluster": "exercise-deep-breathing-for-blood-pressure",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-25T08:02:26.951Z"
-  },
-  {
-    "title": "What to Do When Indoor Heating Makes You Lightheaded",
-    "description": "Dry, heated air drops BP by up to 9 mmHg — learn 3 quick fixes to stay steady when furnace season starts. learn how",
-    "primaryKeyword": "indoor heating makes me lightheaded",
-    "topicCluster": "exercise-indoor-heating-blood-pressure",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-25T08:02:29.445Z"
-  },
-  {
-    "title": "5 Walking Pace Tips for Seniors With High BP",
-    "description": "Walking at 2.5–3.0 mph cuts systolic BP more than faster speeds — discover the sweet spot for heart health. discover",
-    "primaryKeyword": "best walking pace for high blood pressure seniors",
-    "topicCluster": "exercise-walking",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-25T08:02:31.921Z"
-  },
-  {
-    "title": "How to Build Arm Strength Without Weights After 75",
-    "description": "Resistance band curls 3x/week increase grip strength by 22% in 10 weeks — no gym, no pain, just steady progress. learn how",
-    "primaryKeyword": "build arm strength without weights after 75",
-    "topicCluster": "exercise-strength-training",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-25T08:02:34.374Z"
-  },
-  {
-    "title": "Does Walking Your Dog Help Lower Blood Pressure in Winter?",
-    "description": "Dog walkers over 65 had 7.2 mmHg lower systolic BP in cold months vs non-dog owners — but only with proper layering. find out",
-    "primaryKeyword": "walking dog lower blood pressure winter",
-    "topicCluster": "exercise-cold-weather-blood-pressure",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-25T08:02:36.839Z"
-  },
-  {
-    "title": "Best Seated Flexibility Moves for Stiff Hips at 68",
-    "description": "3-minute daily routine improves hip rotation by 15 degrees in 3 weeks — no standing, no strain, just steady relief. discover",
-    "primaryKeyword": "seated flexibility for stiff hips at 68",
-    "topicCluster": "exercise-flexibility",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-25T08:02:39.340Z"
-  },
-  {
-    "title": "Why Your Blood Pressure Spikes Right After Walking",
-    "description": "Post-walk BP spikes happen in 29% of seniors over 60 — learn why, when to worry, and 2 easy fixes to try today. learn how",
-    "primaryKeyword": "blood pressure spikes after walking seniors",
-    "topicCluster": "exercise-blood-pressure",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-25T08:02:41.829Z"
-  },
-  {
-    "title": "How to Warm Up Before Walking in Cold Weather After 65",
-    "description": "5-minute indoor warm-up cuts cold-weather BP spikes by 44% — simple moves you can do in slippers and socks. discover",
-    "primaryKeyword": "warm up before walking in cold weather after 65",
-    "topicCluster": "exercise-cold-weather-blood-pressure",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-25T08:02:44.283Z"
-  },
-  {
-    "title": "3 Low-Impact Moves That Lower BP Without Leaving Your Chair",
-    "description": "Just 8 minutes daily lowers systolic BP by 4.7 mmHg in 6 weeks — no standing, no equipment, just steady results. learn how",
-    "primaryKeyword": "low impact bp lowering moves in chair",
-    "topicCluster": "exercise-low-impact",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-25T08:02:46.739Z"
-  },
-  {
-    "title": "Can Deep Breathing Help Lower Blood Pressure in Humidity?",
-    "description": "Yes — humid heat raises BP by 6–8 mmHg, but paced breathing counters it in under 90 seconds. See how it works. find out",
-    "primaryKeyword": "deep breathing lower blood pressure in humidity",
-    "topicCluster": "exercise-deep-breathing-for-blood-pressure",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-07-25T08:02:49.232Z"
+    "createdAt": "2026-08-01T04:17:34.679Z",
+    "score": 38,
+    "scheduledWeek": "2026-W32",
+    "perplexityQuestions": [
+      "What is the safest exercise routine for a 70-year-old beginner with no gym equipment?",
+      "How many minutes per day should a 65-year-old exercise to improve health without overdoing it?",
+      "Can a 75-year-old start strength training for the first time, and what weights are safe to use?",
+      "Is it safe for seniors over 80 to do squats, lunges, or pushups at home?",
+      "What exercises should an older adult avoid if they have osteoporosis or low bone density?"
+    ],
+    "competitorCoverage": "Top-ranking articles for exercise for seniors usually cover the same core framework: the major types of activity older adults need, how much weekly exercise to aim for, and how to start safely with a gradual progression. They also emphasize screening for health conditions, warning signs that mean to stop, and practical beginner-friendly options such as walking, chair-based work, resistance bands, balance drills, and gentle stretching.[1][3][5][6][18][19] A new article will need to include clear safety guidance, simple progression rules, and specific exercise choices matched to common limitations, because most competitors already explain the general benefits and basic weekly targets.[1][5][8][18][19]"
   }
 ]
