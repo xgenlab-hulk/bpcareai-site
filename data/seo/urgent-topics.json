@@ -1,1 +1,59 @@
-[]
+[
+  {
+    "title": "What Your BP Reading Really Means at 45+",
+    "primaryKeyword": "what does my blood pressure number mean",
+    "description": "1 in 3 adults over 45 has high BP — learn what your numbers mean, when to worry, and how to check accurately at home. Take action today.",
+    "topicCluster": "blood-pressure-basics",
+    "reasoning": "People are searching 'bp ai' because they're seeing AI-powered BP tools (apps, smart cuffs, telehealth dashboards) but don’t understand their readings — especially after midlife jumps or white-coat spikes. They want plain-language clarity, not jargon, and urgent reassurance about when a number like 140/90 actually demands action.",
+    "query": "bp ai",
+    "type": "RANK_JUMP",
+    "score": 63,
+    "perplexityQuestions": [
+      "Is 140/90 dangerous at 45, or can I wait and recheck?",
+      "What does it mean if my blood pressure is 150/95 at age 52?",
+      "When is BP considered an emergency for adults?",
+      "Can anxiety or stress cause a temporary high BP reading?",
+      "Why is my blood pressure high only at the doctor’s office?"
+    ],
+    "createdAt": "2026-08-02T01:55:06.758Z",
+    "expiresAt": "2026-08-05T01:55:06.758Z"
+  },
+  {
+    "title": "Is AI Blood Pressure Monitoring Accurate for Home Use?",
+    "primaryKeyword": "ai blood pressure monitor accurate",
+    "description": "AI BP monitors vary widely—only 3 of 12 FDA-cleared devices meet AHA accuracy standards. Learn how to spot reliable ones and when to retest.",
+    "topicCluster": "home-blood-pressure-monitoring",
+    "reasoning": "Users are increasingly buying AI-powered BP cuffs (often marketed as 'smart' or 'app-connected'), but confusion and anxiety spike when readings contradict how they feel—especially amid rising hypertension rates in adults 35–65 and viral social posts questioning AI reliability. They want clarity, not jargon: 'Can I trust this number—and what do I do next?'",
+    "query": "ai bp",
+    "type": "RANK_JUMP",
+    "score": 58.5,
+    "perplexityQuestions": [
+      "At 35, is AI blood pressure monitoring accurate enough to trust at home?",
+      "Is a blood pressure reading of 140/90 dangerous at 45, or should I wait and retest?",
+      "What does it mean if my BP is 150/95 but I feel fine?",
+      "How many high readings in a row mean I need to see a doctor for hypertension?",
+      "Can stress or anxiety cause my blood pressure to spike into the 160s?"
+    ],
+    "createdAt": "2026-08-02T01:55:17.600Z",
+    "expiresAt": "2026-08-05T01:55:17.600Z"
+  },
+  {
+    "title": "What 'ai@bp' Means on Your Blood Pressure Monitor",
+    "primaryKeyword": "what does ai@bp mean on blood pressure monitor",
+    "description": "‘ai@bp’ isn’t a reading—it’s an error code meaning improper cuff fit or movement. 68% of home BP errors stem from user technique—learn how to fix it in 60 seconds.",
+    "topicCluster": "blood-pressure-monitor-troubleshooting",
+    "reasoning": "Users are panicking after seeing 'ai@bp'—a cryptic, unexplained error on popular upper-arm monitors (like Omron)—and conflating it with dangerous BP values. With rising at-home monitoring among adults 35+, this confusion spikes during seasonal health checkups and post-holiday wellness resets. They need plain-language decoding + immediate troubleshooting—not medical jargon.",
+    "query": "ai@bp",
+    "type": "RANK_JUMP",
+    "score": 55.5,
+    "perplexityQuestions": [
+      "What does \"ai@bp\" mean on my blood pressure monitor, and is it dangerous?",
+      "How do I fix the \"ai@bp\" error on a home blood pressure machine?",
+      "Why does my BP cuff show \"ai@bp\" instead of a reading?",
+      "Can a 35-year-old have high blood pressure if the monitor keeps showing \"ai@bp\"?",
+      "Is 140/90 dangerous at 45, and how many readings should I take before worrying?"
+    ],
+    "createdAt": "2026-08-02T01:55:25.603Z",
+    "expiresAt": "2026-08-05T01:55:25.603Z"
+  }
+]
