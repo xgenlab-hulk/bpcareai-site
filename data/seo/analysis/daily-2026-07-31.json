@@ -1,0 +1,40 @@
+{
+  "date": "2026-07-31",
+  "period": "3-day",
+  "impressionsChange": 21.53972153972154,
+  "clicksChange": 55.55555555555556,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "bp ai",
+      "reason": "排名跃升 21.0 位（70.0 → 49.0）",
+      "score": 63,
+      "recentImpressions": 1,
+      "baselineImpressions": 2,
+      "recentPosition": 49,
+      "baselinePosition": 70
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "ai bp",
+      "reason": "排名跃升 19.5 位（73.5 → 54.0）",
+      "score": 58.5,
+      "recentImpressions": 1,
+      "baselineImpressions": 2,
+      "recentPosition": 54,
+      "baselinePosition": 73.5
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "ai@bp",
+      "reason": "排名跃升 18.8 位（60.8 → 42.0）",
+      "score": 56.39999999999999,
+      "recentImpressions": 3,
+      "baselineImpressions": 5,
+      "recentPosition": 42,
+      "baselinePosition": 60.8
+    }
+  ]
+}

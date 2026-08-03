@@ -1,0 +1,540 @@
+{
+  "date": "2026-07-31",
+  "fetchedAt": "2026-08-03T01:57:21.637Z",
+  "queries": [
+    {
+      "query": "bpcare",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 2.25
+    },
+    {
+      "query": "ai@bp",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 22
+    },
+    {
+      "query": "best statin for women",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 80
+    },
+    {
+      "query": "best statins for women",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 75
+    },
+    {
+      "query": "bp care",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1.6666666666666665
+    },
+    {
+      "query": "bp rating ai",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "cholesterol no hdl",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 79
+    },
+    {
+      "query": "cholesterol non hdl",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 76.5
+    },
+    {
+      "query": "does heat lower blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 97
+    },
+    {
+      "query": "does heat raise or lower blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 81
+    },
+    {
+      "query": "does heat reduce blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 95
+    },
+    {
+      "query": "does the heat raise blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 91
+    },
+    {
+      "query": "how humidity can impact blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 57
+    },
+    {
+      "query": "how to treat shortness of breath in elderly",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 73
+    },
+    {
+      "query": "non hdl",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 74
+    },
+    {
+      "query": "non hdl cholesterol 139",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 76
+    },
+    {
+      "query": "non hdl cholesterol low",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 76
+    },
+    {
+      "query": "non hdl cholesterol meaning",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 82.5
+    },
+    {
+      "query": "non hdl cholesterol normal",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 76
+    },
+    {
+      "query": "non hdl level",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 69
+    },
+    {
+      "query": "non hdl normal",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 76
+    },
+    {
+      "query": "non-hdl chol.",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 88
+    },
+    {
+      "query": "signs of diabetes in women over 60",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 90
+    },
+    {
+      "query": "statin with least myalgia",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 74
+    },
+    {
+      "query": "statin without muscle pain",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 89
+    },
+    {
+      "query": "variation in heart rate",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 77
+    },
+    {
+      "query": "what does non hdl mean",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 91
+    },
+    {
+      "query": "what is a non hdl cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 85
+    },
+    {
+      "query": "which is the best statin for over 70s",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 72
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 8.2
+    },
+    {
+      "page": "https://bpcareai.com/articles/best-cholesterol-meds-seniors-muscle-pain",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 76.33333333333333
+    },
+    {
+      "page": "https://bpcareai.com/articles/best-home-blood-pressure-cuffs-for-adults-75-with-severe-arthritis-and-tremor-accuracy-fit-and-one-handed-operation-compared",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://bpcareai.com/articles/best-walking-pace-blood-pressure-after-65",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "page": "https://bpcareai.com/articles/blood-pressure-humidity-after-65",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 80
+    },
+    {
+      "page": "https://bpcareai.com/articles/diabetes-warning-signs-after-60",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 76.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/exercises-lower-cholesterol-after-50",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://bpcareai.com/articles/fibromuscular-dysplasia-resistant-hypertension-diagnosis",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 48
+    },
+    {
+      "page": "https://bpcareai.com/articles/frequent-urination-at-night-at-55",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://bpcareai.com/articles/hearing-aids-baroreflex-sensitivity-diastolic-dysfunction",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://bpcareai.com/articles/heart-disease-cataract-surgery-seniors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "page": "https://bpcareai.com/articles/heart-rate-variability-explained",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 43
+    },
+    {
+      "page": "https://bpcareai.com/articles/home-blood-pressure-cuff-afib-algorithm-errors",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://bpcareai.com/articles/ldl-target-55-year-old-woman",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://bpcareai.com/articles/lisinopril-tired-after-65",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://bpcareai.com/articles/soups-lower-blood-pressure-winter",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 34.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/subclinical-aortic-stenosis-blood-pressure-masking",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 45
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-complete-guide-to-interpreting-home-pulse-oximetry-trends-not-just-spo2-for-adults-64-with-heart-failure-and-anemia",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 50
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 72.66666666666667
+    },
+    {
+      "page": "https://bpcareai.com/articles/top-10-diabetes-friendly-snacks-for-people-over-60",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://bpcareai.com/articles/understanding-a1c-goals-for-seniors-with-diabetes",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "page": "https://bpcareai.com/articles/what-causes-sudden-drop-in-egfr-after-starting-sglt2-inhibitors-in-adults-69-with-borderline-hydration-status-and-low-albumin",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://bpcareai.com/articles/what-does-non-hdl-cholesterol-mean",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 78.52941176470588
+    },
+    {
+      "page": "https://bpcareai.com/articles/when-to-suspect-orthostatic-hypertension-instead-of-hypotension-in-adults-77-with-recurrent-falls-and-why-your-bp-cuff-may-be-lying-to-you",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/5-things-you-should-know-before-starting-a-daily-magnesium-glycinate-protocol-especially-if-you-re-taking-amiodarone-or-digoxin-and-are-over-75",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/5-things-your-pharmacist-won-t-tell-you-about-blood-pressure-meds-and-driving-safety-in-adults-73",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/best-cholesterol-meds-women-menopause",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 78.33333333333333
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/best-portable-glucose-monitors-for-holiday-travel-in-2024-ranked-by-accuracy-in-cold-weather-battery-life-and-tsa-friendly-design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/blood-pressure-meds-not-keep-you-awake",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/blood-pressure-rises-hot-bath-over-75",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/can-intermittent-fasting-worsen-autonomic-neuropathy-in-adults-71-with-long-term-type-2-diabetes-and-orthostatic-tachycardia",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/does-layering-clothes-help-regulate-blood-pressure-in-cold-climates",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 9.666666666666666
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/exercises-seniors-short-of-breath",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 73
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/holiday-ham-dizziness-autonomic-neuropathy",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/how-holiday-air-travel-disrupts-subcutaneous-insulin-absorption-kinetics-in-adults-73-with-subcutaneous-adipose-atrophy-and-long-term-t1d",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/how-intergenerational-plate-sharing-grandparent-grandchild-parent-disrupts-glycemic-buffering-in-adults-59-64-with-new-onset-insulin-resistance",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/lipoprotein-a-test-family-history",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6.5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/red-wine-cholesterol-after-55",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 76
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/sugar-free-candies-and-gastroparesis",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/the-complete-guide-to-using-flash-glucose-monitoring-in-cold-climates-why-sensor-accuracy-drops-below-4-c-and-how-to-compensate-for-adults-61-79",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/travel-glucose-monitor-seniors-offline-sync",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 73
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/vns-vs-tart-cherry-juice-nocturnal-afib",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/what-causes-sudden-onset-of-nocturnal-hypoglycemia-after-starting-sglt2-inhibitors-in-adults-69-with-mild-cognitive-impairment-and-nocturia",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/why-your-low-carb-holiday-stuffing-still-raises-triglycerides-and-what-to-swap-instead",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://www.bpcareai.com/contact",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    }
+  ],
+  "summary": {
+    "totalQueries": 29,
+    "totalImpressions": 37,
+    "totalClicks": 1,
+    "avgPosition": 61.513513513513516,
+    "pagesWithImpressions": 46
+  }
+}
