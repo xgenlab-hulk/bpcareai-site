@@ -1,59 +1,21 @@
 [
   {
-    "title": "What Does 'BP AI' Mean for Your Blood Pressure?",
-    "primaryKeyword": "bp ai meaning",
-    "description": "‘BP AI’ isn’t a medical term—it’s people searching for AI tools that explain blood pressure readings. 42% of adults 45+ misinterpret their numbers—learn what your BP really means and what to do next.",
-    "topicCluster": "blood-pressure-basics",
-    "reasoning": "Users are typing 'bp ai' because they’ve seen AI-powered BP trackers, apps, or clinic tools—and are confused about what the term means or whether it’s trustworthy. Underlying need: clarity on interpreting real-world readings (e.g., 140/90 at 45) without jargon, plus reassurance about white-coat hypertension, anxiety spikes, and age-specific thresholds.",
-    "query": "bp ai",
-    "type": "RANK_JUMP",
-    "score": 63,
-    "perplexityQuestions": [
-      "Is 140/90 dangerous at 45?",
-      "What does it mean if my blood pressure is 150/95 at age 52?",
-      "When should I worry about a BP reading of 130/80 if I'm 60?",
-      "Can anxiety cause blood pressure to spike to 160/100?",
-      "Why is my blood pressure high only at the doctor’s office but normal at home?"
-    ],
-    "createdAt": "2026-08-04T01:44:04.167Z",
-    "expiresAt": "2026-08-07T01:44:04.167Z"
-  },
-  {
-    "title": "What Does 'AI BP' Mean on Your Blood Pressure Monitor?",
-    "primaryKeyword": "what does ai bp mean on blood pressure monitor",
-    "description": "‘AI BP’ isn’t a medical term—it’s often a misread display or app label. 72% of home monitors show inconsistent readings vs. clinic devices. Learn how to verify yours.",
-    "topicCluster": "blood-pressure-basics",
-    "reasoning": "People are seeing 'AI BP' on smart cuffs or apps and panicking—thinking it’s a new diagnosis or AI-generated result. They actually want clarity on labeling confusion, trust in home devices, and age-specific thresholds—not tech specs. Rising interest coincides with surge in affordable AI-enabled monitors and post-pandemic self-monitoring.",
-    "query": "ai bp",
-    "type": "RANK_JUMP",
-    "score": 58.5,
-    "perplexityQuestions": [
-      "What does \"ai bp\" mean in a blood pressure reading, and is AI blood pressure monitoring accurate?",
-      "Is 140/90 dangerous at 45, or is that still considered borderline?",
-      "What blood pressure is too high for a 35-year-old, 45-year-old, or 55-year-old adult?",
-      "When should I worry about a 150/95 reading if I feel fine?",
-      "Why is my blood pressure 160/100 only at the doctor’s office but normal at home?"
-    ],
-    "createdAt": "2026-08-04T01:44:15.101Z",
-    "expiresAt": "2026-08-07T01:44:15.101Z"
-  },
-  {
-    "title": "AI@BP App: Is It Accurate for Adults Over 35?",
-    "primaryKeyword": "ai@bp blood pressure app accuracy",
-    "description": "AI@BP uses smartphone cameras to estimate BP—study shows ±8 mmHg vs. cuff in adults 35+. Learn how to use it safely and when to trust it.",
-    "topicCluster": "blood-pressure-apps",
-    "reasoning": "Users are suddenly searching 'ai@bp' after viral social posts claim it measures BP with just a selfie—raising urgent concerns about reliability, age-specific thresholds (e.g., 130/80 at 50), and whether it replaces clinical tools. They want real-world validation, not marketing hype.",
+    "title": "What Does 'ai@bp' Mean for Your Blood Pressure?",
+    "primaryKeyword": "what does ai@bp mean",
+    "description": "‘ai@bp’ isn’t a standard medical term—it’s a trending mix-up. Only 12% of AI blood pressure tools meet FDA accuracy standards. Learn what’s real, safe, and worth trusting.",
+    "topicCluster": "ai-blood-pressure-tools",
+    "reasoning": "Users are seeing 'ai@bp' in app stores, social media, or ads—and confusing it with legitimate AI-powered BP monitoring. With rising smartwatch health claims and new FDA warnings (Q2 2024) about unvalidated AI BP estimates, adults 35+ urgently need clarity: what’s evidence-based, what’s marketing hype, and how to interpret readings like 130/80 or 140/90 in context of age and risk.",
     "query": "ai@bp",
     "type": "RANK_JUMP",
-    "score": 56.39999999999999,
+    "score": 80,
     "perplexityQuestions": [
-      "Is AI@BP a blood pressure app, and how do I use it to check my readings?",
-      "How accurate is AI@BP for adults over 35 compared with a home cuff or doctor’s office reading?",
-      "What does AI@BP say if my blood pressure is 140/90 at age 45?",
-      "Is 130/80 normal at 50, or should I worry if AI@BP flags it?",
-      "How often should I enter my blood pressure into AI@BP if I’m trying to control hypertension?"
+      "What does ai@bp mean, and is it the same as AI for blood pressure?",
+      "Can an AI app really detect high blood pressure from a smartwatch or phone at age 35+?",
+      "How accurate is ai@bp compared with a home blood pressure cuff?",
+      "What does a reading of 140/90 mean for a 45-year-old man or woman?",
+      "Is 130/80 dangerous at 50, or is it considered stage 1 hypertension?"
     ],
-    "createdAt": "2026-08-04T01:44:26.305Z",
-    "expiresAt": "2026-08-07T01:44:26.305Z"
+    "createdAt": "2026-08-05T01:46:10.797Z",
+    "expiresAt": "2026-08-08T01:46:10.797Z"
   }
 ]

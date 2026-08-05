@@ -1,0 +1,456 @@
+{
+  "date": "2026-08-02",
+  "fetchedAt": "2026-08-05T01:45:58.693Z",
+  "queries": [
+    {
+      "query": "ai@bp",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 20
+    },
+    {
+      "query": "alternatives to statins for women",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 97
+    },
+    {
+      "query": "best statin for women",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 80
+    },
+    {
+      "query": "blood sugar test non fasting",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 89
+    },
+    {
+      "query": "bp care",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 5.5
+    },
+    {
+      "query": "bpcare",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 5.5
+    },
+    {
+      "query": "can heat raise blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 90
+    },
+    {
+      "query": "cholesterol non hdl",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 87
+    },
+    {
+      "query": "cholesterol non hdl meaning",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 90
+    },
+    {
+      "query": "does heat raise blood pressure",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 90.5
+    },
+    {
+      "query": "glucose test without fasting",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 46
+    },
+    {
+      "query": "hdl non cholesterol",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 86.75
+    },
+    {
+      "query": "heart rate and heart rate variability",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 80
+    },
+    {
+      "query": "irregular heartbeat on blood pressure machine",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 74
+    },
+    {
+      "query": "list of non fasting blood tests",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 76
+    },
+    {
+      "query": "low impact exercises for hip arthritis",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 66
+    },
+    {
+      "query": "memory loss diabetes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 69
+    },
+    {
+      "query": "my blood pressure machine says i have a irregular heartbeat",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 50
+    },
+    {
+      "query": "non fasting",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 56
+    },
+    {
+      "query": "non fasting blood sugar test",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 88
+    },
+    {
+      "query": "non hdl",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 77
+    },
+    {
+      "query": "non hdl cholesterol",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 87.25
+    },
+    {
+      "query": "non hdl cholesterol 131",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 83
+    },
+    {
+      "query": "non hdl cholesterol 132",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 82
+    },
+    {
+      "query": "non hdl cholesterol 134",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 64
+    },
+    {
+      "query": "non hdl cholesterol levels",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 85
+    },
+    {
+      "query": "non-hdl",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 88
+    },
+    {
+      "query": "non-hdl cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 96
+    },
+    {
+      "query": "non-hdl cholesterol meaning",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 89
+    },
+    {
+      "query": "variable heart rate",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 91
+    },
+    {
+      "query": "vegan high cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 69
+    },
+    {
+      "query": "what does non hdl cholesterol mean",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 87.5
+    },
+    {
+      "query": "what is cholesterol non-hdl",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 82
+    },
+    {
+      "query": "why is heart rate variability important",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 89
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 6.454545454545454
+    },
+    {
+      "page": "https://bpcareai.com/articles/a1c-6-2-at-50-reversible-without-medication",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://bpcareai.com/articles/best-fruits-for-diabetics-over-50-and-which-to-limit",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 17
+    },
+    {
+      "page": "https://bpcareai.com/articles/can-strength-training-lower-heart-disease-risk-after-60",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 46
+    },
+    {
+      "page": "https://bpcareai.com/articles/cbd-blood-pressure-at-night-seniors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://bpcareai.com/articles/check-blood-sugar-without-fasting",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 71
+    },
+    {
+      "page": "https://bpcareai.com/articles/diabetes-memory-loss-after-60",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 69
+    },
+    {
+      "page": "https://bpcareai.com/articles/heart-rate-variability-explained",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 71.2
+    },
+    {
+      "page": "https://bpcareai.com/articles/high-cholesterol-vegan-runner",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 69
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-frequent-nighttime-awakenings-for-urination-nocturia-predicts-3-year-risk-of-new-onset-atrial-fibrillation-in-men-over-68-with-hypertension",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "page": "https://bpcareai.com/articles/low-impact-exercises-seniors-bad-hips",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 66
+    },
+    {
+      "page": "https://bpcareai.com/articles/soups-lower-blood-pressure-winter",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 41.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 90.33333333333333
+    },
+    {
+      "page": "https://bpcareai.com/articles/understanding-a1c-goals-for-seniors-with-diabetes",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 27.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/what-does-non-hdl-cholesterol-mean",
+      "clicks": 0,
+      "impressions": 22,
+      "ctr": 0,
+      "position": 85.63636363636364
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/12-science-backed-times-to-take-a-short-walk-after-family-meal-courses-based-on-gastric-emptying-rhythms-in-adults-69-with-gastroparesis-like-symptoms",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 18
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/295-total-cholesterol-at-30-fh",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/air-fryer-oxidized-cholesterol-coronary-calcification",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/best-cholesterol-meds-women-menopause",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 85.66666666666667
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/chair-yoga-seniors-arthritis",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/does-layering-clothes-help-regulate-blood-pressure-in-cold-climates",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6.5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/how-grandparenting-during-holidays-alters-meal-timing-and-why-late-evening-carbs-raise-nighttime-bp-in-adults-68-with-nocturnal-hypertension",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/lipoprotein-a-test-family-history",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10.5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/myths-vs-facts-just-one-slice-of-pumpkin-pie-and-its-effect-on-late-night-melatonin-suppression-in-adults-66-with-sleep-onset-insomnia",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/vns-vs-tart-cherry-juice-nocturnal-afib",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/warning-signs-your-blood-pressure-monitor-is-giving-false-readings-especially-if-you-re-71-with-atrial-fibrillation-and-irregular-pulse",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 62
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/why-heart-disease-risk-skyrockets-in-women-58-67-within-3-years-after-menopause-even-with-normal-cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://www.bpcareai.com/contact",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10.5
+    }
+  ],
+  "summary": {
+    "totalQueries": 34,
+    "totalImpressions": 49,
+    "totalClicks": 0,
+    "avgPosition": 71.40816326530613,
+    "pagesWithImpressions": 29
+  }
+}
