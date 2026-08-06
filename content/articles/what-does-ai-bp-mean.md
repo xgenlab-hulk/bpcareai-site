@@ -1,22 +1,21 @@
 ---
-title: >-
-  What Does 'ai@bp' Mean on Your Blood Pressure Monitor?
+title: What Does 'ai@bp' Mean on Your Blood Pressure Monitor?
 slug: what-does-ai-bp-mean
 description: >-
-  What does ai@bp mean on blood pressure monitor? It's an AI safety alert—not danger—triggered by movement or irregular rhythm; 86% of cases resolve with proper.
+  What does ai@bp mean on blood pressure monitor? It's an AI safety alert—not
+  danger—triggered by movement or irregular rhythm; 86% of cases resolve with
+  proper.
 date: '2026-08-02'
 updated: '2026-08-02'
-primaryKeyword: >-
-  what does ai@bp mean on blood pressure monitor
+primaryKeyword: what does ai@bp mean on blood pressure monitor
 topicCluster: hypertension-management
 image: ''
 relatedSlugs:
-  - >-
-    what-is-bp-ai-blood-pressure
-  - >-
-    ai-blood-pressure-monitor-accurate-home-use
+  - what-is-bp-ai-blood-pressure
+  - ai-blood-pressure-monitor-accurate-home-use
   - >-
     warning-signs-your-blood-pressure-monitor-is-giving-false-readings-especially-if-you-re-71-with-atrial-fibrillation-and-irregular-pulse
+  - what-does-ai-bp-mean-blood-pressure
 ---
 
 # What Does 'ai@bp' Mean on Your Blood Pressure Monitor?
