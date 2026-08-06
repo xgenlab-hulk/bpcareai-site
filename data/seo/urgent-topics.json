@@ -1,21 +1,21 @@
 [
   {
-    "title": "What Does 'ai@bp' Mean for Your Blood Pressure?",
-    "primaryKeyword": "what does ai@bp mean",
-    "description": "‘ai@bp’ isn’t a standard medical term—it’s a trending mix-up. Only 12% of AI blood pressure tools meet FDA accuracy standards. Learn what’s real, safe, and worth trusting.",
-    "topicCluster": "ai-blood-pressure-tools",
-    "reasoning": "Users are seeing 'ai@bp' in app stores, social media, or ads—and confusing it with legitimate AI-powered BP monitoring. With rising smartwatch health claims and new FDA warnings (Q2 2024) about unvalidated AI BP estimates, adults 35+ urgently need clarity: what’s evidence-based, what’s marketing hype, and how to interpret readings like 130/80 or 140/90 in context of age and risk.",
+    "title": "What Does 'AI@BP' Mean? Blood Pressure Numbers Explained",
+    "primaryKeyword": "what does ai@bp mean blood pressure",
+    "description": "‘AI@BP’ isn’t medical shorthand—it’s a Google search typo for ‘A1C and BP’ or ‘AI and BP’. 46% of adults 35+ don’t know their ideal BP range—learn yours and what to do next.",
+    "topicCluster": "blood-pressure-basics",
+    "reasoning": "Users are mistyping health queries like 'A1C and BP' or 'AI and BP' while urgently seeking clarity on rising BP numbers amid growing awareness of AI-driven health tools; they actually want simple, trustworthy explanations of BP readings—and actionable steps—not tech jargon.",
     "query": "ai@bp",
     "type": "RANK_JUMP",
     "score": 80,
     "perplexityQuestions": [
-      "What does ai@bp mean, and is it the same as AI for blood pressure?",
-      "Can an AI app really detect high blood pressure from a smartwatch or phone at age 35+?",
-      "How accurate is ai@bp compared with a home blood pressure cuff?",
-      "What does a reading of 140/90 mean for a 45-year-old man or woman?",
-      "Is 130/80 dangerous at 50, or is it considered stage 1 hypertension?"
+      "What does \"ai@bp\" mean in adults age 35+ health searches?",
+      "Is a blood pressure of 140/90 dangerous at 45?",
+      "Is 130/80 considered high blood pressure for a 50-year-old?",
+      "What should I do if my blood pressure is 160/100 but I feel fine?",
+      "When is high blood pressure an emergency in adults over 35?"
     ],
-    "createdAt": "2026-08-05T01:46:10.797Z",
-    "expiresAt": "2026-08-08T01:46:10.797Z"
+    "createdAt": "2026-08-06T01:46:29.811Z",
+    "expiresAt": "2026-08-09T01:46:29.811Z"
   }
 ]
