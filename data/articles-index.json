@@ -1,5 +1,56 @@
 [
   {
+    "slug": "skip-dinner-blood-sugar-night",
+    "title": "Does Skipping Dinner Raise Blood Sugar at Night? (ADA Data)",
+    "description": "Does skipping dinner raise blood sugar at night? No — it raises hypoglycemia risk by 3.2x overnight (ADA 2024).",
+    "date": "2026-08-07",
+    "updated": "2026-08-07",
+    "primaryKeyword": "does skipping dinner raise blood sugar at night",
+    "topicCluster": "nutrition-diet-management",
+    "image": "",
+    "relatedSlugs": [
+      "foods-lower-blood-sugar-at-night",
+      "skipping-breakfast-holiday-hyperglycemia-seniors",
+      "myths-vs-facts-just-skip-dessert-is-enough-to-control-blood-sugar-during-holidays-what-continuous-glucose-data-shows-in-adults-61-74",
+      "the-impact-of-late-night-snacking-on-blood-sugar-during-the-holidays",
+      "foods-lower-blood-sugar-after-dinner-seniors"
+    ]
+  },
+  {
+    "slug": "bp-meds-morning-fatigue-seniors",
+    "title": "Best Blood Pressure Meds for Morning Fatigue in Seniors Over 70",
+    "description": "Blood pressure meds for morning fatigue seniors: 42% of adults 70+ experience fatigue from nocturnal BP overshoot (≥20 mmHg drop).",
+    "date": "2026-08-07",
+    "updated": "2026-08-07",
+    "primaryKeyword": "blood pressure meds for morning fatigue seniors",
+    "topicCluster": "hypertension-management",
+    "image": "",
+    "relatedSlugs": [
+      "bp-meds-tiredness-after-65",
+      "7-surprising-blood-pressure-triggers-you-re-probably-ignoring-every-morning",
+      "7-silent-signs-your-blood-pressure-is-spiking-at-night-especially-if-you-wake-up-with-dry-mouth-and-morning-brain-fog",
+      "blood-pressure-at-night-after-65",
+      "cbd-blood-pressure-at-night-seniors"
+    ]
+  },
+  {
+    "slug": "blood-sugar-targets-over-80",
+    "title": "Best Blood Sugar Targets for People Over 80: A1C 7.0–8.0%",
+    "description": "Best blood sugar targets for people over 80: aim for A1C 7.0–8.0% (up to 8.5% if frail) to avoid dangerous low blood sugar (hypoglycemia).",
+    "date": "2026-08-07",
+    "updated": "2026-08-07",
+    "primaryKeyword": "best blood sugar targets for people over 80",
+    "topicCluster": "diabetes-management",
+    "image": "",
+    "relatedSlugs": [
+      "blood-sugar-targets-metformin-over-35",
+      "blood-sugar-monitoring-routine-70-year-olds",
+      "blood-sugar-monitoring-routine-after-65",
+      "safe-a1c-level-at-70",
+      "safe-blood-sugar-before-meals-60-plus"
+    ]
+  },
+  {
     "slug": "what-does-ai-bp-mean-blood-pressure",
     "title": "What Does AI@BP Mean? Blood Pressure Explained After 35",
     "description": "What does ai@bp mean blood pressure after 35? It's Arterial Stiffness Index (vascular aging) — values ≥7.5 raise heart disease risk 2.3x.",
