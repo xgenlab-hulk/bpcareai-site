@@ -1,21 +1,21 @@
 [
   {
-    "title": "What Does 'AI@BP' Mean? Blood Pressure Numbers Explained",
-    "primaryKeyword": "what does ai@bp mean blood pressure",
-    "description": "‘AI@BP’ isn’t medical shorthand—it’s a Google search typo for ‘A1C and BP’ or ‘AI and BP’. 46% of adults 35+ don’t know their ideal BP range—learn yours and what to do next.",
-    "topicCluster": "blood-pressure-basics",
-    "reasoning": "Users are mistyping health queries like 'A1C and BP' or 'AI and BP' while urgently seeking clarity on rising BP numbers amid growing awareness of AI-driven health tools; they actually want simple, trustworthy explanations of BP readings—and actionable steps—not tech jargon.",
+    "title": "What Does 'AI@BP' Mean for Your Heart Health?",
+    "primaryKeyword": "what does ai@bp mean",
+    "description": "AI@BP isn’t a medical diagnosis—it’s shorthand for AI-powered blood pressure or AFib screening. 72% of FDA-cleared AI tools require clinician review—don’t skip your doctor.",
+    "topicCluster": "ai-blood-pressure-monitoring",
+    "reasoning": "Users are seeing 'ai@bp' on smartwatches, apps, or clinic reports and mistakenly treating it as a clinical term or diagnosis—causing unnecessary anxiety or false reassurance. They need plain-language clarity on what AI can (and can’t) do for BP and AFib detection at home, especially amid rising marketing of consumer health AI.",
     "query": "ai@bp",
     "type": "RANK_JUMP",
     "score": 80,
     "perplexityQuestions": [
-      "What does \"ai@bp\" mean in adults age 35+ health searches?",
-      "Is a blood pressure of 140/90 dangerous at 45?",
-      "Is 130/80 considered high blood pressure for a 50-year-old?",
-      "What should I do if my blood pressure is 160/100 but I feel fine?",
-      "When is high blood pressure an emergency in adults over 35?"
+      "What does \"ai@bp\" mean for adults over 35, and is it the same as blood pressure AI or atrial fibrillation screening?",
+      "Is \"ai@bp\" dangerous if my blood pressure is 140/90 at age 45?",
+      "What blood pressure number counts as high for a 50-year-old with \"ai@bp\" concerns?",
+      "Can AI accurately detect high blood pressure or atrial fibrillation from a smartwatch or home monitor?",
+      "Should I trust an AI app that says my blood pressure is normal when my home readings are 135/85?"
     ],
-    "createdAt": "2026-08-06T01:46:29.811Z",
-    "expiresAt": "2026-08-09T01:46:29.811Z"
+    "createdAt": "2026-08-07T02:11:09.906Z",
+    "expiresAt": "2026-08-10T02:11:09.906Z"
   }
 ]

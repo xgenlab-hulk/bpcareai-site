@@ -1,0 +1,47 @@
+{
+  "date": "2026-08-04",
+  "period": "3-day",
+  "impressionsChange": 87.06467661691542,
+  "clicksChange": -100,
+  "newQueries": [],
+  "risingQueries": [
+    {
+      "query": "non hdl cholesterol",
+      "recentImpressions": 9,
+      "baselineImpressions": 12,
+      "changeRatio": 7
+    }
+  ],
+  "alerts": [
+    {
+      "type": "SURGE",
+      "query": "non hdl cholesterol",
+      "reason": "展示量激增 7.0x（近3天日均3.0 vs 基线0.4）",
+      "score": 100,
+      "recentImpressions": 9,
+      "baselineImpressions": 12,
+      "recentPosition": 86,
+      "baselinePosition": 86.41666666666667
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "ai@bp",
+      "reason": "排名跃升 34.0 位（54.0 → 20.0）",
+      "score": 80,
+      "recentImpressions": 1,
+      "baselineImpressions": 6,
+      "recentPosition": 20,
+      "baselinePosition": 54
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "does heat affect blood pressure",
+      "reason": "排名跃升 11.6 位（79.6 → 68.0）",
+      "score": 34.79999999999998,
+      "recentImpressions": 1,
+      "baselineImpressions": 5,
+      "recentPosition": 68,
+      "baselinePosition": 79.6
+    }
+  ]
+}
