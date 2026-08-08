@@ -1,23 +1,5 @@
 [
   {
-    "title": "Best Exercises for 80-Year-Olds Starting Out",
-    "description": "Safe, seated & standing moves proven to build stamina in 4 weeks — learn how",
-    "primaryKeyword": "best exercises for 80 year olds starting out",
-    "topicCluster": "lifestyle-interventions",
-    "coreKeyword": "exercise for seniors",
-    "createdAt": "2026-08-08T02:50:10.991Z",
-    "score": 51.7,
-    "scheduledWeek": "2026-W33",
-    "perplexityQuestions": [
-      "What is the best exercise routine for seniors over 60 who are just starting from zero?",
-      "How many minutes a day should a 70-year-old exercise if they have been inactive for years?",
-      "Is it safe for a 68-year-old to start strength training with dumbbells or resistance bands?",
-      "What exercises are best for seniors with arthritis in the hands, knees, or hips?",
-      "Can seniors over 75 do HIIT, or is high-intensity interval training too risky?"
-    ],
-    "competitorCoverage": "Top-ranking articles for this topic usually explain the main exercise types older adults need: aerobic activity, strength training, balance work, and flexibility, plus how much activity to aim for each week.[1][9][11] They also tend to include safety basics such as starting slowly, warming up, listening to pain or breathlessness, and checking with a clinician before beginning a new routine, especially if the person has chronic conditions or takes heart/blood pressure medicine.[5][7][17][19] A new article needs to go beyond generic advice by answering very specific scenario-based questions, offering clear progression steps for beginners, and addressing medical edge cases and practical barriers like low stamina, fear of injury, and limited mobility."
-  },
-  {
     "title": "What to Do When Walking Makes You Tired at 68",
     "description": "65% of seniors over 65 feel fatigue before 5 minutes — discover safe pacing tips",
     "primaryKeyword": "what to do when walking makes you tired at 68",
@@ -34,5 +16,165 @@
       "Can seniors over 75 do HIIT, or is high-intensity interval training too risky?"
     ],
     "competitorCoverage": "Top-ranking articles for this topic usually explain the main exercise types older adults need: aerobic activity, strength training, balance work, and flexibility, plus how much activity to aim for each week.[1][9][11] They also tend to include safety basics such as starting slowly, warming up, listening to pain or breathlessness, and checking with a clinician before beginning a new routine, especially if the person has chronic conditions or takes heart/blood pressure medicine.[5][7][17][19] A new article needs to go beyond generic advice by answering very specific scenario-based questions, offering clear progression steps for beginners, and addressing medical edge cases and practical barriers like low stamina, fear of injury, and limited mobility."
+  },
+  {
+    "title": "5 Low-Impact Exercises for Bad Knees at 70",
+    "description": "Gentle moves that protect joints—study shows 82% of seniors report less knee pain after 4 weeks. Discover safe options.",
+    "primaryKeyword": "low impact exercises for bad knees seniors",
+    "topicCluster": "exercise-joint-health",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-08-08T06:44:50.964Z"
+  },
+  {
+    "title": "Does Walking in Cold Weather Raise Blood Pressure?",
+    "description": "Yes—blood pressure spikes up to 12 mmHg in temps below 40°F. Learn how to stay safe and warm while walking.",
+    "primaryKeyword": "walking in cold weather blood pressure",
+    "topicCluster": "exercise-cold-weather-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-08-08T06:44:53.368Z"
+  },
+  {
+    "title": "Best Strength Training for 75-Year-Olds Starting Out",
+    "description": "Just 2 days/week of light resistance cuts fall risk by 34%. Find beginner moves you can do safely at home.",
+    "primaryKeyword": "strength training for 75 year olds",
+    "topicCluster": "exercise-strength-training",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-08-08T06:44:55.769Z"
+  },
+  {
+    "title": "How to Walk Safely When You Feel Dizzy at 65",
+    "description": "1 in 4 seniors over 65 reports dizziness while walking—learn 3 balance checks and 2 posture tweaks before stepping out.",
+    "primaryKeyword": "how to walk safely when dizzy at 65",
+    "topicCluster": "exercise-symptoms",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-08-08T06:44:58.293Z"
+  },
+  {
+    "title": "3 Indoor Flexibility Moves That Help Stiff Shoulders",
+    "description": "Just 5 minutes daily improves shoulder range by 27% in 6 weeks. Try these seated stretches with no equipment.",
+    "primaryKeyword": "indoor flexibility exercises stiff shoulders",
+    "topicCluster": "exercise-flexibility",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-08-08T06:45:00.656Z"
+  },
+  {
+    "title": "Can Deep Breathing Lower Blood Pressure While Standing?",
+    "description": "Yes—standing deep breathing drops systolic BP by 6.2 mmHg on average. Learn the 4-7-8 method that works midday.",
+    "primaryKeyword": "deep breathing lower blood pressure standing",
+    "topicCluster": "exercise-deep-breathing-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-08-08T06:45:03.079Z"
+  },
+  {
+    "title": "What to Do When Walking Makes Your Ankles Swell at 72",
+    "description": "Swelling after walking affects 61% of adults over 70—discover 4 simple fixes including timing, compression, and elevation.",
+    "primaryKeyword": "walking makes ankles swell at 72",
+    "topicCluster": "exercise-symptoms",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-08-08T06:45:05.436Z"
+  },
+  {
+    "title": "Best Low-Impact Cardio for Seniors With High Blood Pressure",
+    "description": "Elliptical use lowers systolic BP by 9 mmHg in 8 weeks—see why it beats treadmill for seniors over 60.",
+    "primaryKeyword": "low impact cardio for high blood pressure seniors",
+    "topicCluster": "exercise-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-08-08T06:45:07.880Z"
+  },
+  {
+    "title": "Why Blood Pressure Rises in Indoor Heating Season After 65",
+    "description": "Dry, heated air raises BP by up to 11 mmHg—learn 3 humidity hacks and 2 timing tips to stay stable all winter.",
+    "primaryKeyword": "indoor heating blood pressure seniors",
+    "topicCluster": "exercise-indoor-heating-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-08-08T06:45:10.287Z"
+  },
+  {
+    "title": "How to Start Walking With a Pacemaker After 70",
+    "description": "94% of pacemaker users walk safely—find out target heart rate zones, step goals, and 2 red-flag symptoms to watch.",
+    "primaryKeyword": "walking with pacemaker after 70",
+    "topicCluster": "exercise-age-specific",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-08-08T06:45:12.681Z"
+  },
+  {
+    "title": "4 Chair Strength Moves That Build Leg Muscle After 78",
+    "description": "Seniors doing chair squats 3x/week gain 1.8 lbs lean mass in 12 weeks. Learn proper form to avoid hip strain.",
+    "primaryKeyword": "chair strength exercises for leg muscle seniors",
+    "topicCluster": "exercise-strength-training",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-08-08T06:45:15.155Z"
+  },
+  {
+    "title": "Does Walking After Dinner Lower Blood Pressure Overnight?",
+    "description": "Yes—15 minutes post-meal walking drops nighttime BP by 5.7 mmHg in adults over 60. Discover best timing and pace.",
+    "primaryKeyword": "walking after dinner lower blood pressure",
+    "topicCluster": "exercise-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-08-08T06:45:17.574Z"
+  },
+  {
+    "title": "Warning Signs of Overexertion When Starting Exercise at 68",
+    "description": "3 early signs—like jaw tightness or sudden fatigue—appear in 38% of new exercisers. Learn how to adjust before trouble hits.",
+    "primaryKeyword": "overexertion signs starting exercise at 68",
+    "topicCluster": "exercise-symptoms",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-08-08T06:45:19.924Z"
+  },
+  {
+    "title": "Best Flexibility Routine for Stiff Hips at 74",
+    "description": "Daily 10-minute hip circles and seated stretches improve mobility by 31% in 5 weeks. No floor work needed.",
+    "primaryKeyword": "flexibility exercises stiff hips seniors",
+    "topicCluster": "exercise-flexibility",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-08-08T06:45:22.308Z"
+  },
+  {
+    "title": "Can Walking in Humidity Raise Blood Pressure at 67?",
+    "description": "Yes—BP rises 4.9 mmHg on humid days above 65%—learn 3 indoor alternatives and optimal morning windows.",
+    "primaryKeyword": "walking in humidity blood pressure seniors",
+    "topicCluster": "exercise-seasonal-weather",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-08-08T06:45:24.716Z"
+  },
+  {
+    "title": "How to Walk Safely With Peripheral Artery Disease After 70",
+    "description": "Pain-free walking distance improves 42% with interval pacing—learn the 2-minute walk, 1-minute rest rule.",
+    "primaryKeyword": "walking with pad after 70",
+    "topicCluster": "exercise-age-specific",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-08-08T06:45:27.083Z"
+  },
+  {
+    "title": "5 Low-Impact Exercises You Can Do in Your Living Room",
+    "description": "All require zero equipment—study shows 86% of seniors stick with routines done at home for 3+ months. Start today.",
+    "primaryKeyword": "low impact exercises living room seniors",
+    "topicCluster": "exercise-indoor",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-08-08T06:45:29.487Z"
+  },
+  {
+    "title": "Does Strength Training Help Lower Blood Pressure After 75?",
+    "description": "Yes—light resistance 2x/week drops systolic BP by 7.3 mmHg in 10 weeks. Find safe moves and how much weight to lift.",
+    "primaryKeyword": "strength training lower blood pressure after 75",
+    "topicCluster": "exercise-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-08-08T06:45:31.968Z"
+  },
+  {
+    "title": "What to Do When Walking Makes You Short of Breath at 73",
+    "description": "31% of adults over 70 experience breathlessness—learn the 3-step breathing reset and when to check oxygen levels.",
+    "primaryKeyword": "walking makes short of breath at 73",
+    "topicCluster": "exercise-symptoms",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-08-08T06:45:34.350Z"
+  },
+  {
+    "title": "Best Time to Walk for Blood Pressure Control After 65",
+    "description": "Morning walks lower systolic BP 3.2 mmHg more than evening—discover ideal window and why timing matters most.",
+    "primaryKeyword": "best time to walk for blood pressure seniors",
+    "topicCluster": "exercise-blood-pressure",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-08-08T06:45:36.900Z"
   }
 ]

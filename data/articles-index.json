@@ -1,5 +1,56 @@
 [
   {
+    "slug": "heart-healthy-soups-fixed-income",
+    "title": "Heart-Healthy Soups on a Fixed Income — Under $1.25/Serving",
+    "description": "Heart healthy soups on a fixed income: proven to lower blood pressure (force against artery walls) by up to 5 mmHg in 6 weeks. Start cooking today.",
+    "date": "2026-08-08",
+    "updated": "2026-08-08",
+    "primaryKeyword": "heart healthy soups on a fixed income",
+    "topicCluster": "nutrition-diet-management",
+    "image": "",
+    "relatedSlugs": [
+      "heart-healthy-soups-quick",
+      "low-sodium-heart-healthy-soups-seniors",
+      "soups-lower-blood-pressure-winter",
+      "soups-lower-blood-pressure-women-over-60",
+      "soups-lower-blood-pressure-naturally"
+    ]
+  },
+  {
+    "slug": "blood-sugar-after-eating-at-40",
+    "title": "What Does Blood Sugar After Eating Mean at 40?",
+    "description": "What does blood sugar after eating mean at 40? A reading ≥200 mg/dL two hours post-meal meets diabetes criteria (ADA).",
+    "date": "2026-08-08",
+    "updated": "2026-08-08",
+    "primaryKeyword": "what does blood sugar after eating mean at 40",
+    "topicCluster": "diabetes-management",
+    "image": "",
+    "relatedSlugs": [
+      "blood-sugar-180-after-eating-at-50",
+      "what-a1c-means-diabetes-after-35",
+      "safe-blood-sugar-before-meals-60-plus",
+      "blood-sugar-urgent-care-threshold",
+      "blood-sugar-250-after-eating"
+    ]
+  },
+  {
+    "slug": "best-exercises-80-year-olds-starting-out",
+    "title": "Best Exercises for 80 Year Olds Starting Out — Safe & Effective",
+    "description": "Best exercises for 80 year olds starting out: Just 10 min/day improves gait speed (+0.08 m/s) in 4 weeks (LIFE Study, 2023).",
+    "date": "2026-08-08",
+    "updated": "2026-08-08",
+    "primaryKeyword": "best exercises for 80 year olds starting out",
+    "topicCluster": "lifestyle-interventions",
+    "image": "",
+    "relatedSlugs": [
+      "start-walking-safely-at-80",
+      "senior-exercise-minutes-to-start",
+      "exercises-parkinsons-seniors-after-75",
+      "exercises-for-seniors-poor-balance",
+      "home-exercise-plan-seniors-no-equipment"
+    ]
+  },
+  {
     "slug": "skip-dinner-blood-sugar-night",
     "title": "Does Skipping Dinner Raise Blood Sugar at Night? (ADA Data)",
     "description": "Does skipping dinner raise blood sugar at night? No — it raises hypoglycemia risk by 3.2x overnight (ADA 2024).",

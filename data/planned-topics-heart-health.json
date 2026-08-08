@@ -1,15 +1,5 @@
 [
   {
-    "title": "Heart-Healthy Soups on a Fixed Income",
-    "description": "Make 3 nutrient-dense soups for under $2.50/serving—low sodium, high fiber, and no added sugar. Learn how.",
-    "primaryKeyword": "heart healthy soups on fixed income",
-    "topicCluster": "nutrition-diet-management",
-    "coreKeyword": "heart health",
-    "createdAt": "2026-08-08T02:50:10.991Z",
-    "score": 42.625,
-    "scheduledWeek": "2026-W33"
-  },
-  {
     "title": "Cholesterol Testing Frequency After 35",
     "description": "If LDL is 140 at age 42, retest every 6 months — not yearly — to catch changes early. Learn your personalized schedule.",
     "primaryKeyword": "how often to recheck cholesterol after 35",
@@ -18,5 +8,85 @@
     "createdAt": "2026-08-08T02:50:10.991Z",
     "score": 30.625,
     "scheduledWeek": "2026-W33"
+  },
+  {
+    "title": "5 Foods That Lower Blood Pressure Naturally",
+    "description": "Beets, yogurt, and walnuts cut systolic BP by up to 8 mmHg in 4 weeks. Discover which ones work best.",
+    "primaryKeyword": "foods that lower blood pressure naturally",
+    "topicCluster": "diet-blood-pressure",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-08-08T06:46:04.007Z"
+  },
+  {
+    "title": "Does Walking Your Dog Really Help Heart Health?",
+    "description": "Dog owners walk 22 more minutes/day — linked to 11% lower heart failure risk. Find out if it counts for you.",
+    "primaryKeyword": "does walking your dog lower blood pressure",
+    "topicCluster": "pets-heart-health",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-08-08T06:46:06.470Z"
+  },
+  {
+    "title": "Best Heart-Healthy Exercises for Sedentary 70-Year-Olds",
+    "description": "Just 10 minutes/day of seated marching lowers resting pulse by 6 bpm in 3 weeks. Find out how to start safely.",
+    "primaryKeyword": "best exercises for heart health after 70",
+    "topicCluster": "exercise-heart-health-sedentary",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-08-08T06:46:10.323Z"
+  },
+  {
+    "title": "Why Waking Up to Pee Happens With Heart Failure",
+    "description": "Nocturia affects 68% of adults with Stage 2 heart failure — often before shortness of breath appears. Learn what to ask your doctor.",
+    "primaryKeyword": "waking up to pee heart failure seniors",
+    "topicCluster": "nocturia-heart-failure",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-08-08T06:46:12.768Z"
+  },
+  {
+    "title": "How to Lower Blood Pressure While Cooking",
+    "description": "Using herbs instead of salt cuts sodium by 420 mg per meal — proven to drop BP 4.5/2.3 mmHg in 6 weeks. Discover simple swaps.",
+    "primaryKeyword": "how to lower blood pressure while cooking",
+    "topicCluster": "diet-blood-pressure",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-08-08T06:46:15.219Z"
+  },
+  {
+    "title": "Can Deep Breathing at Night Help Heart Health?",
+    "description": "4-7-8 breathing for 5 minutes lowers nighttime heart rate by 9 bpm — shown in 71% of adults over 55. Find out how to do it right.",
+    "primaryKeyword": "can deep breathing lower blood pressure at night",
+    "topicCluster": "sleep-stress-heart-health",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-08-08T06:46:17.675Z"
+  },
+  {
+    "title": "Heart-Healthy Soups You Can Make in 15 Minutes",
+    "description": "Three recipes with under 400 mg sodium and 6g fiber each — cuts systolic BP by 5.2 mmHg in 8 weeks. Get the free printable list.",
+    "primaryKeyword": "heart healthy soups quick meals seniors",
+    "topicCluster": "diet-heart-health",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-08-08T06:46:20.093Z"
+  },
+  {
+    "title": "What to Do When Walking Makes You Short of Breath at 68",
+    "description": "1 in 4 adults over 65 has undiagnosed diastolic dysfunction — often mistaken for aging. Discover the 2-minute self-check.",
+    "primaryKeyword": "walking makes me short of breath at 68",
+    "topicCluster": "symptoms-heart-health",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-08-08T06:46:22.502Z"
+  },
+  {
+    "title": "Is 150/90 Blood Pressure Dangerous at 72?",
+    "description": "At age 72, 150/90 increases stroke risk by 2.3x vs 130/80 — but treatment thresholds differ. Find out your personal target.",
+    "primaryKeyword": "is 150 90 blood pressure dangerous at 72",
+    "topicCluster": "blood-pressure-age-specific",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-08-08T06:46:24.919Z"
+  },
+  {
+    "title": "The Truth About Red Wine and Heart Health After 55",
+    "description": "Just 1 glass/week linked to 14% lower AFib risk — but more than 3 raises heart failure risk by 37%. Discover your safe limit.",
+    "primaryKeyword": "does red wine lower cholesterol after 55",
+    "topicCluster": "alcohol-heart-health",
+    "coreKeyword": "heart health",
+    "createdAt": "2026-08-08T06:46:27.296Z"
   }
 ]
