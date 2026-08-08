@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "title": "Best Exercises for 80-Year-Olds Starting Out",
+    "description": "Safe, seated & standing moves proven to build stamina in 4 weeks — learn how",
+    "primaryKeyword": "best exercises for 80 year olds starting out",
+    "topicCluster": "lifestyle-interventions",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-08-08T02:50:10.991Z",
+    "score": 51.7,
+    "scheduledWeek": "2026-W33",
+    "perplexityQuestions": [
+      "What is the best exercise routine for seniors over 60 who are just starting from zero?",
+      "How many minutes a day should a 70-year-old exercise if they have been inactive for years?",
+      "Is it safe for a 68-year-old to start strength training with dumbbells or resistance bands?",
+      "What exercises are best for seniors with arthritis in the hands, knees, or hips?",
+      "Can seniors over 75 do HIIT, or is high-intensity interval training too risky?"
+    ],
+    "competitorCoverage": "Top-ranking articles for this topic usually explain the main exercise types older adults need: aerobic activity, strength training, balance work, and flexibility, plus how much activity to aim for each week.[1][9][11] They also tend to include safety basics such as starting slowly, warming up, listening to pain or breathlessness, and checking with a clinician before beginning a new routine, especially if the person has chronic conditions or takes heart/blood pressure medicine.[5][7][17][19] A new article needs to go beyond generic advice by answering very specific scenario-based questions, offering clear progression steps for beginners, and addressing medical edge cases and practical barriers like low stamina, fear of injury, and limited mobility."
+  },
+  {
+    "title": "What to Do When Walking Makes You Tired at 68",
+    "description": "65% of seniors over 65 feel fatigue before 5 minutes — discover safe pacing tips",
+    "primaryKeyword": "what to do when walking makes you tired at 68",
+    "topicCluster": "lifestyle-interventions",
+    "coreKeyword": "exercise for seniors",
+    "createdAt": "2026-08-08T02:50:10.991Z",
+    "score": 37.7,
+    "scheduledWeek": "2026-W33",
+    "perplexityQuestions": [
+      "What is the best exercise routine for seniors over 60 who are just starting from zero?",
+      "How many minutes a day should a 70-year-old exercise if they have been inactive for years?",
+      "Is it safe for a 68-year-old to start strength training with dumbbells or resistance bands?",
+      "What exercises are best for seniors with arthritis in the hands, knees, or hips?",
+      "Can seniors over 75 do HIIT, or is high-intensity interval training too risky?"
+    ],
+    "competitorCoverage": "Top-ranking articles for this topic usually explain the main exercise types older adults need: aerobic activity, strength training, balance work, and flexibility, plus how much activity to aim for each week.[1][9][11] They also tend to include safety basics such as starting slowly, warming up, listening to pain or breathlessness, and checking with a clinician before beginning a new routine, especially if the person has chronic conditions or takes heart/blood pressure medicine.[5][7][17][19] A new article needs to go beyond generic advice by answering very specific scenario-based questions, offering clear progression steps for beginners, and addressing medical edge cases and practical barriers like low stamina, fear of injury, and limited mobility."
+  }
+]

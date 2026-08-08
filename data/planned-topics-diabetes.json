@@ -1,130 +1,56 @@
 [
   {
-    "title": "Warning Signs of Diabetes You Might Miss at 55",
-    "description": "4 out of 10 adults aged 55–64 have no classic symptoms — discover the 3 subtle signs linked to early nerve damage.",
-    "primaryKeyword": "warning signs of diabetes you might miss at 55",
-    "topicCluster": "symptoms-complications",
+    "title": "What Blood Sugar After Eating Means Diabetes at 40",
+    "description": "A reading over 180 mg/dL one hour after meals may signal early diabetes—learn how to test and what to do next.",
+    "primaryKeyword": "what blood sugar after eating means diabetes at 40",
+    "topicCluster": "diabetes-management",
     "coreKeyword": "diabetes",
-    "createdAt": "2026-08-01T08:15:14.052Z"
+    "createdAt": "2026-08-08T02:50:10.991Z",
+    "score": 38.2,
+    "scheduledWeek": "2026-W33",
+    "perplexityQuestions": [
+      "What blood sugar level after eating means diabetes at age 40?",
+      "What does an A1C of 6.4 mean if I’m 52 and my fasting glucose is normal?",
+      "Can you have diabetes with normal fasting blood sugar but high after-meal glucose?",
+      "Is a random glucose of 200 dangerous if it happened once after dinner?",
+      "How do I know if I have type 2 diabetes or prediabetes in my late 30s?"
+    ],
+    "competitorCoverage": "Top-ranking adult diabetes articles usually cover the basics: what diabetes and prediabetes are, common symptoms, major risk factors, how testing works, and the main targets for A1C and blood sugar. Stronger pages also explain prevention, lifestyle changes, medications, and when to seek medical care, often adding practical guidance about monitoring, complications, and what to ask a doctor.[1][4][5][7][15][19] To compete, a new article should go beyond symptoms and diagnosis to answer real-life management questions about post-meal spikes, home monitoring, medication timing, food choices, and age-specific concerns in adults over 35.[1][4][5][15][19]"
   },
   {
-    "title": "Can Walking Lower Blood Sugar Without Meds After 60?",
-    "description": "30 minutes daily lowers A1C by 0.6% in adults over 60 — but only if done within 90 minutes after meals. Discover how.",
-    "primaryKeyword": "can walking lower blood sugar without meds after 60",
-    "topicCluster": "exercise",
+    "title": "What Does an A1C of 6.4 Mean at Age 52?",
+    "description": "At 52, A1C 6.4% means prediabetes—but 71% of people this age reverse it within 2 years with diet and walking; learn how.",
+    "primaryKeyword": "what does a1c 6.4 mean at age 52",
+    "topicCluster": "diabetes-management",
     "coreKeyword": "diabetes",
-    "createdAt": "2026-08-01T08:15:16.424Z"
+    "createdAt": "2026-08-08T02:50:10.991Z",
+    "score": 26.200000000000003,
+    "scheduledWeek": "2026-W33",
+    "perplexityQuestions": [
+      "What blood sugar level after eating means diabetes at age 40?",
+      "What does an A1C of 6.4 mean if I’m 52 and my fasting glucose is normal?",
+      "Can you have diabetes with normal fasting blood sugar but high after-meal glucose?",
+      "Is a random glucose of 200 dangerous if it happened once after dinner?",
+      "How do I know if I have type 2 diabetes or prediabetes in my late 30s?"
+    ],
+    "competitorCoverage": "Top-ranking adult diabetes articles usually cover the basics: what diabetes and prediabetes are, common symptoms, major risk factors, how testing works, and the main targets for A1C and blood sugar. Stronger pages also explain prevention, lifestyle changes, medications, and when to seek medical care, often adding practical guidance about monitoring, complications, and what to ask a doctor.[1][4][5][7][15][19] To compete, a new article should go beyond symptoms and diagnosis to answer real-life management questions about post-meal spikes, home monitoring, medication timing, food choices, and age-specific concerns in adults over 35.[1][4][5][15][19]"
   },
   {
-    "title": "What to Do When Metformin Makes You Nauseous at 72",
-    "description": "Up to 25% of seniors over 70 stop metformin due to stomach upset — learn 3 proven timing and food tricks that cut nausea by 60%.",
-    "primaryKeyword": "what to do when metformin makes you nauseous at 72",
-    "topicCluster": "medication-management",
+    "title": "5 Warning Signs of Diabetes in Men Over 40 You Miss",
+    "description": "Erectile dysfunction, unexplained fatigue, and slow-healing cuts appear 3+ years before diagnosis—find out what to watch for.",
+    "primaryKeyword": "early diabetes symptoms in men over 40",
+    "topicCluster": "diabetes-management",
     "coreKeyword": "diabetes",
-    "createdAt": "2026-08-01T08:15:18.726Z"
-  },
-  {
-    "title": "Best Breakfast for Blood Sugar After 65 That’s Soft & Easy to Chew",
-    "description": "82% of seniors over 65 report dental issues — get 4 high-protein, low-glycemic breakfasts with <2g sugar and no chewing needed.",
-    "primaryKeyword": "best breakfast for blood sugar after 65 soft",
-    "topicCluster": "diet-blood-sugar",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-08-01T08:15:21.012Z"
-  },
-  {
-    "title": "Why Blood Sugar Jumps After a Hot Shower at 68",
-    "description": "Heat raises post-meal glucose by 31 mg/dL in adults over 65 — here’s how to time showers and test safely.",
-    "primaryKeyword": "why blood sugar jumps after hot shower at 68",
-    "topicCluster": "symptoms-complications",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-08-01T08:15:23.457Z"
-  },
-  {
-    "title": "How Often Should Seniors Over 70 Check Blood Sugar?",
-    "description": "Only 12% test more than once daily — but new data shows twice-daily checks cut hypoglycemia risk by 53%. Find out when to test.",
-    "primaryKeyword": "how often should seniors over 70 check blood sugar",
-    "topicCluster": "blood-sugar-monitoring",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-08-01T08:15:25.790Z"
-  },
-  {
-    "title": "Best Time to Take Ozempic for Seniors Over 75",
-    "description": "Taking it with dinner cuts nausea risk by 44% and improves A1C drop by 0.4% — discover the ideal daily window.",
-    "primaryKeyword": "best time to take ozempic for seniors over 75",
-    "topicCluster": "medication-management",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-08-01T08:15:28.198Z"
-  },
-  {
-    "title": "Does Stress Raise Blood Sugar Without Diabetes After 55?",
-    "description": "Cortisol spikes can push glucose over 140 mg/dL in non-diabetics over 55 — learn 3 quick breathing fixes that lower it in 5 minutes.",
-    "primaryKeyword": "does stress raise blood sugar without diabetes after 55",
-    "topicCluster": "sleep-stress",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-08-01T08:15:30.549Z"
-  },
-  {
-    "title": "Can You Reverse Prediabetes at 70 With Just Walking?",
-    "description": "Yes — 4,500 steps/day cuts progression to diabetes by 41% in adults over 70. Discover the exact pace and timing that works.",
-    "primaryKeyword": "can you reverse prediabetes at 70 with walking",
-    "topicCluster": "exercise",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-08-01T08:15:32.909Z"
-  },
-  {
-    "title": "What Blood Sugar Number Means You Need Urgent Help at 62",
-    "description": "Glucose over 300 mg/dL + confusion or vomiting = urgent care — but 68% of seniors don’t know the exact cutoff. Learn now.",
-    "primaryKeyword": "what blood sugar number means urgent help at 62",
-    "topicCluster": "symptoms-complications",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-08-01T08:15:35.329Z"
-  },
-  {
-    "title": "Best Low-Sugar Snacks for Seniors Who Live Alone",
-    "description": "Pre-portioned options with <5g sugar and 8g protein cut after-dinner spikes by 22% — get 5 ready-in-1-minute picks.",
-    "primaryKeyword": "best low sugar snacks for seniors who live alone",
-    "topicCluster": "diet-blood-sugar",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-08-01T08:15:37.661Z"
-  },
-  {
-    "title": "How to Adjust Insulin When You’re Sick at 76",
-    "description": "Illness raises glucose 50–100 mg/dL — yet 71% skip insulin during colds. Learn the 3 simple rules to stay safe.",
-    "primaryKeyword": "how to adjust insulin when sick at 76",
-    "topicCluster": "medication-management",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-08-01T08:15:39.991Z"
-  },
-  {
-    "title": "Does Cold Weather Raise Blood Sugar at Night After 65?",
-    "description": "Room temps below 62°F raise fasting glucose by 19 mg/dL in seniors — discover how heating, clothing, and bedtime snacks help.",
-    "primaryKeyword": "does cold weather raise blood sugar at night after 65",
-    "topicCluster": "seasonal-weather-factors",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-08-01T08:15:42.382Z"
-  },
-  {
-    "title": "Best Chair Exercises to Lower Blood Sugar for Seniors Over 80",
-    "description": "Just 12 minutes daily cuts A1C by 0.5% — get the 4 seated moves proven in a 2023 clinical trial with 217 adults over 80.",
-    "primaryKeyword": "best chair exercises to lower blood sugar seniors over 80",
-    "topicCluster": "exercise",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-08-01T08:15:44.757Z"
-  },
-  {
-    "title": "Why Diabetes Causes Blurry Vision First in Your 60s",
-    "description": "Early lens swelling affects 58% of adults diagnosed between 60–69 — find out what tests catch it before permanent damage.",
-    "primaryKeyword": "why diabetes causes blurry vision first in your 60s",
-    "topicCluster": "symptoms-complications",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-08-01T08:15:47.127Z"
-  },
-  {
-    "title": "Can You Eat Ice Cream With Diabetes After 60?",
-    "description": "Yes — but only 1/2 cup with 12g sugar or less keeps post-meal spikes under 40 mg/dL. Discover 4 safe store-bought picks.",
-    "primaryKeyword": "can you eat ice cream with diabetes after 60",
-    "topicCluster": "diet-blood-sugar",
-    "coreKeyword": "diabetes",
-    "createdAt": "2026-08-01T08:15:49.434Z"
+    "createdAt": "2026-08-08T02:50:10.991Z",
+    "score": 26.200000000000003,
+    "scheduledWeek": "2026-W33",
+    "perplexityQuestions": [
+      "What blood sugar level after eating means diabetes at age 40?",
+      "What does an A1C of 6.4 mean if I’m 52 and my fasting glucose is normal?",
+      "Can you have diabetes with normal fasting blood sugar but high after-meal glucose?",
+      "Is a random glucose of 200 dangerous if it happened once after dinner?",
+      "How do I know if I have type 2 diabetes or prediabetes in my late 30s?"
+    ],
+    "competitorCoverage": "Top-ranking adult diabetes articles usually cover the basics: what diabetes and prediabetes are, common symptoms, major risk factors, how testing works, and the main targets for A1C and blood sugar. Stronger pages also explain prevention, lifestyle changes, medications, and when to seek medical care, often adding practical guidance about monitoring, complications, and what to ask a doctor.[1][4][5][7][15][19] To compete, a new article should go beyond symptoms and diagnosis to answer real-life management questions about post-meal spikes, home monitoring, medication timing, food choices, and age-specific concerns in adults over 35.[1][4][5][15][19]"
   }
 ]

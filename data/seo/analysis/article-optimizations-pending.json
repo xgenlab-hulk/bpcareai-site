@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-08-01T04:17:34.680Z",
+  "generatedAt": "2026-08-08T02:50:10.992Z",
   "optimizations": [
     {
+      "slug": "what-does-non-hdl-cholesterol-mean",
+      "currentTitle": "What Does Non-HDL Cholesterol Mean?",
+      "suggestedTitle": "Non-HDL Cholesterol: Meaning, Normal Range & Why It Matters",
+      "suggestedDescription": "Non-HDL cholesterol = total cholesterol minus HDL. Ideal level: <130 mg/dL. Learn how it predicts heart risk better than LDL — plus what to do if yours is high.",
+      "suggestedPK": "non hdl cholesterol meaning",
+      "reason": "当前标题未包含核心关键词'normal range'或'actionable insight'；该页85 impressions但0 clicks，avgPosition 84.4，需强化临床数据点（如<130 mg/dL）和用户决策钩子"
+    },
+    {
+      "slug": "warning-signs-your-blood-pressure-monitor-is-giving-false-readings-especially-if-you-re-71-with-atrial-fibrillation-and-irregular-pulse",
+      "currentTitle": "Warning Signs Your Blood Pressure Monitor Is Giving False Readings Especially If You're 71 With Atrial Fibrillation And Irregular Pulse",
+      "suggestedTitle": "False BP Readings? 7 Red Flags If You Have AFib or Irregular Pulse",
+      "suggestedDescription": "Home BP cuffs often misread AFib. Here's how to spot false highs/lows, when to trust your device, and which monitors are FDA-cleared for arrhythmia users.",
+      "suggestedPK": "irregular heartbeat on blood pressure monitor",
+      "reason": "原标题过长（126字符），无法在SERP完整显示；GSC显示'irregular heartbeat on blood pressure monitor'等5个相似词共5+ impressions，但页面未结构化呈现'7 red flags'等快速扫描要素"
+    },
+    {
+      "slug": "check-blood-sugar-without-fasting",
+      "currentTitle": "Check Blood Sugar Without Fasting",
+      "suggestedTitle": "Non-Fasting Blood Sugar Test: What It Means & When It's Valid",
+      "suggestedDescription": "Can you test glucose without fasting? Yes — but results vary. Learn A1C vs random glucose, normal non-fasting ranges (70–140 mg/dL), and when doctors accept it.",
+      "suggestedPK": "non fasting blood sugar test",
+      "reason": "当前标题未覆盖主流搜索变体'non fasting blood sugar test'（1 impression）及高潜力词'glucose test without fasting'（1 impression）；页面仅11 impressions、pos 29，需嵌入具体数值范围和临床适用场景提升可信度"
+    },
+    {
       "slug": "best-cholesterol-meds-women-menopause",
-      "currentTitle": "best-cholesterol-meds-women-menopause",
-      "suggestedTitle": "Best Statin for Women Over 60: Avoid Muscle Pain & Protect Heart Health",
-      "suggestedDescription": "Evidence-based statin comparison for postmenopausal women: rosuvastatin vs atorvastatin safety data, CYP2C9 metabolism tips, and 3 foods that reduce statin side effects (per 2024 AHA guidelines).",
-      "suggestedPK": "best statin for women over 60",
-      "reason": "Query 'best statin for women' has 5 impressions but zero clicks; current slug lacks 'statin' keyword and 'over 60' age specificity shown in high-intent queries like 'best statin for women over 70'"
-    },
-    {
-      "slug": "the-hidden-dangers-of-indoor-heating-on-blood-pressure",
-      "currentTitle": "the-hidden-dangers-of-indoor-heating-on-blood-pressure",
-      "suggestedTitle": "How Humidity & Heat Affect Blood Pressure: What Your Home Thermostat Isn't Telling You",
-      "suggestedDescription": "New research links indoor humidity drops (<30%) to 12-18mmHg systolic spikes in adults 65+. Practical fixes using $20 hygrometers + BP log templates included.",
-      "suggestedPK": "humidity and blood pressure",
-      "reason": "Queries 'how humidity can impact blood pressure' (2 imp) and 'humidity and blood pressure correlation' (1 imp) show clear demand for humidity-specific guidance, but current page only covers heating"
-    },
-    {
-      "slug": "7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80",
-      "currentTitle": "7-silent-signs-of-right-sided-heart-failure-that-are-mistaken-for-normal-aging-in-adults-80",
-      "suggestedTitle": "Why 'Just Tired' After 80 Could Be Right-Sided Heart Failure (Not Aging)",
-      "suggestedDescription": "80% of adults 80+ with right-heart failure are misdiagnosed as 'normal aging'. Learn the 3 key signs your doctor might miss — plus home-monitoring checklist.",
-      "suggestedPK": "right sided heart failure symptoms aging",
-      "reason": "Page has 7 impressions and position 9.7 but 0 CTR; title exceeds 100 chars and buries clinical urgency — 'Just Tired' matches real patient language in search queries like 'unexplained fatigue after age 68'"
-    },
-    {
-      "slug": "10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina",
-      "currentTitle": "10-foods-that-activate-nrf2-pathway-to-reduce-oxidative-stress-in-coronary-endothelium-backed-by-microvascular-reactivity-testing-in-adults-62-76-with-microvascular-angina",
-      "suggestedTitle": "10 NRF2-Activating Foods That Lower Blood Pressure (Proven by Microvascular Testing)",
-      "suggestedDescription": "These 10 foods boosted microvascular reactivity by 22-37% in adults 62-76 with angina. Includes exact servings, timing tips, and why broccoli sprouts beat supplements.",
-      "suggestedPK": "nrf2 foods blood pressure",
-      "reason": "Page has highest impressions (11) among non-homepage URLs but 0 CTR; current title contains 15+ jargon terms ('coronary endothelium', 'microvascular angina') alienating general audience searching for practical food advice"
+      "currentTitle": "Best Cholesterol Meds Women Menopause",
+      "suggestedTitle": "Best Cholesterol Medications for Women After Menopause (2024 Evidence)",
+      "suggestedDescription": "Postmenopausal women face unique lipid risks. We compare statins (rosuvastatin, pravastatin), bempedoic acid, and PCSK9 inhibitors — focusing on safety, muscle pain, and hormone interactions.",
+      "suggestedPK": "best statin for women",
+      "reason": "原标题关键词堆砌、无年份背书；'best statin for women'（11 impressions）等词零点击，需强化循证标签（2024）、药物对比维度（muscle pain, hormone interactions）以匹配比较决策意图"
     },
     {
       "slug": "heart-rate-variability-explained",
-      "currentTitle": "heart-rate-variability-explained",
-      "suggestedTitle": "Heart Rate Variability (HRV) Explained: What Your Apple Watch Isn't Telling You",
-      "suggestedDescription": "HRV isn't just 'stress score' — it predicts 5-year heart failure risk in adults 65+. How to read your HRV trends, ideal ranges by age, and 3 daily habits that raise it.",
-      "suggestedPK": "hrv explained for seniors",
-      "reason": "Page ranks position 95 with 7 impressions but 0 clicks; title lacks context for target audience (adults 35+) and fails to leverage popular devices ('Apple Watch') mentioned in 68% of HRV-related queries per Ahrefs"
+      "currentTitle": "Heart Rate Variability Explained",
+      "suggestedTitle": "Heart Rate Variability (HRV): Normal Range, How to Improve It",
+      "suggestedDescription": "HRV measures nervous system health. Normal HRV for adults 35+: 50–100 ms. Discover science-backed ways to boost HRV — from breathing to cold exposure.",
+      "suggestedPK": "heart rate variability",
+      "reason": "当前标题未包含用户实际搜索词'heart rate variability'（2 impressions）及'why is heart rate variability important'（1 impression）；页面14 impressions但0 clicks、pos 88，需前置核心数据（50–100 ms）和改善方法提升点击率"
     }
   ]
 }

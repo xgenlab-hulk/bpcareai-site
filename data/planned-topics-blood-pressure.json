@@ -1,130 +1,32 @@
 [
   {
-    "title": "Stress-Busting Breathing That Lowers BP Fast",
-    "description": "Just 5 minutes daily lowers systolic pressure by 6.1 mmHg in 2 weeks—no equipment needed. discover",
-    "primaryKeyword": "breathing exercises to lower blood pressure fast",
-    "topicCluster": "stress-blood-pressure",
+    "title": "Does Blood Pressure Rise at Night? What It Means After 70",
+    "description": "Nocturnal hypertension affects 44% of adults over 70 — find out if your nighttime numbers are dangerous and what to do.",
+    "primaryKeyword": "does blood pressure rise at night after 70",
+    "topicCluster": "hypertension-management",
     "coreKeyword": "blood pressure",
-    "createdAt": "2026-08-01T08:13:42.383Z"
+    "createdAt": "2026-08-08T02:50:10.990Z",
+    "score": 46.03333333333333,
+    "scheduledWeek": "2026-W33"
   },
   {
-    "title": "Can Napping Lower Blood Pressure After 60?",
-    "description": "A 30-minute nap drops systolic pressure by 5.4 mmHg in adults 60–79—find out how often it helps. find out",
-    "primaryKeyword": "does napping lower blood pressure after 60",
-    "topicCluster": "sleep-blood-pressure",
+    "title": "Low-Impact Cardio That Lowers Blood Pressure Safely",
+    "description": "15 minutes of seated cycling drops systolic BP by 6.2 mmHg — learn how",
+    "primaryKeyword": "low impact cardio that lowers blood pressure",
+    "topicCluster": "hypertension-management",
     "coreKeyword": "blood pressure",
-    "createdAt": "2026-08-01T08:13:46.224Z"
+    "createdAt": "2026-08-08T02:50:10.990Z",
+    "score": 37.03333333333333,
+    "scheduledWeek": "2026-W33"
   },
   {
-    "title": "Blood Pressure Meds That Cause Night Sweats",
-    "description": "Calcium channel blockers trigger night sweats in 18% of users over 65—learn safer alternatives. discover",
-    "primaryKeyword": "blood pressure meds that cause night sweats",
-    "topicCluster": "medication-effects-bp",
+    "title": "Can Pets Lower Blood Pressure at Night for Women Over 60?",
+    "description": "Studies show pet owners over 60 have 8.2 mmHg lower average nighttime BP. Find out how pets support heart health.",
+    "primaryKeyword": "can pets lower blood pressure at night",
+    "topicCluster": "hypertension-management",
     "coreKeyword": "blood pressure",
-    "createdAt": "2026-08-01T08:13:48.838Z"
-  },
-  {
-    "title": "Why BP Rises When You Shower in Winter",
-    "description": "Hot showers spike systolic pressure by up to 14 mmHg in cold months—here’s how to stay safe. learn how",
-    "primaryKeyword": "why blood pressure spikes after shower in winter",
-    "topicCluster": "seasonal-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-08-01T08:13:51.169Z"
-  },
-  {
-    "title": "How to Lower BP Without Meds at 58",
-    "description": "Lifestyle changes cut systolic pressure by 9.3 mmHg in 8 weeks for adults aged 55–64. discover",
-    "primaryKeyword": "how to lower blood pressure without meds at 58",
-    "topicCluster": "lifestyle-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-08-01T08:13:53.504Z"
-  },
-  {
-    "title": "Best BP-Friendly Dinners for Women Over 60",
-    "description": "Meals with <600 mg sodium + 1,200 mg potassium lower evening BP by 4.7 mmHg—5 easy recipes. learn how",
-    "primaryKeyword": "best dinners for blood pressure women over 60",
-    "topicCluster": "diet-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-08-01T08:13:55.830Z"
-  },
-  {
-    "title": "Does Cold Air Raise Blood Pressure at 72?",
-    "description": "Outdoor temps below 45°F raise systolic BP by 7.6 mmHg in adults 70+—find out how to protect yourself. find out",
-    "primaryKeyword": "does cold air raise blood pressure at 72",
-    "topicCluster": "seasonal-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-08-01T08:13:58.197Z"
-  },
-  {
-    "title": "What to Do When BP Drops While Sleeping",
-    "description": "Nocturnal dips >20 mmHg happen in 22% of adults 65+—learn when it’s normal and when to act. discover",
-    "primaryKeyword": "what to do when blood pressure drops while sleeping",
-    "topicCluster": "sleep-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-08-01T08:14:00.539Z"
-  },
-  {
-    "title": "Best Home BP Monitors for Arthritic Hands",
-    "description": "Wrist cuffs reduce grip strain by 63%—but only 2 models meet ADA accuracy standards. learn how",
-    "primaryKeyword": "best blood pressure monitor for arthritic hands",
-    "topicCluster": "monitoring-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-08-01T08:14:02.970Z"
-  },
-  {
-    "title": "Can Turmeric Lower Blood Pressure Safely?",
-    "description": "Studies show 500 mg daily lowers systolic BP by 3.8 mmHg—but interacts with 4 common BP meds. find out",
-    "primaryKeyword": "can turmeric lower blood pressure safely",
-    "topicCluster": "diet-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-08-01T08:14:05.312Z"
-  },
-  {
-    "title": "How to Lower BP While Cooking Dinner",
-    "description": "Using herbs instead of salt cuts sodium by 320 mg per meal—learn 7 easy swaps that work. discover",
-    "primaryKeyword": "how to lower blood pressure while cooking",
-    "topicCluster": "lifestyle-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-08-01T08:14:07.652Z"
-  },
-  {
-    "title": "Does Blue Light at Night Raise BP After 65?",
-    "description": "2 hours of evening screen time raises systolic BP by 6.9 mmHg in adults over 65—here’s how to fix it. learn how",
-    "primaryKeyword": "does blue light raise blood pressure at night",
-    "topicCluster": "sleep-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-08-01T08:14:09.989Z"
-  },
-  {
-    "title": "Best BP-Friendly Breakfasts for Men Over 70",
-    "description": "Oatmeal + banana + walnuts lowers morning systolic BP by 5.2 mmHg—3 no-cook options included. discover",
-    "primaryKeyword": "best breakfast for blood pressure men over 70",
-    "topicCluster": "diet-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-08-01T08:14:12.359Z"
-  },
-  {
-    "title": "Why BP Jumps When You Stand Up After 60",
-    "description": "Orthostatic spikes affect 34% of adults 60–79—find out if it's normal or a red flag. find out",
-    "primaryKeyword": "why blood pressure jumps when you stand up after 60",
-    "topicCluster": "symptoms-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-08-01T08:14:14.692Z"
-  },
-  {
-    "title": "Blood Pressure Meds That Don’t Cause Swelling",
-    "description": "Only 2 of 7 common BP meds cause <3% ankle swelling in seniors—learn which ones. discover",
-    "primaryKeyword": "blood pressure meds that don't cause swelling",
-    "topicCluster": "medication-effects-bp",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-08-01T08:14:17.016Z"
-  },
-  {
-    "title": "Can Walking Outside in Fall Lower BP More?",
-    "description": "Autumn walkers average 4.1 mmHg lower systolic BP than summer walkers—here’s why. learn how",
-    "primaryKeyword": "does walking in fall lower blood pressure more",
-    "topicCluster": "seasonal-blood-pressure",
-    "coreKeyword": "blood pressure",
-    "createdAt": "2026-08-01T08:14:19.443Z"
+    "createdAt": "2026-08-08T02:50:10.990Z",
+    "score": 32.03333333333333,
+    "scheduledWeek": "2026-W33"
   }
 ]
