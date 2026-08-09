@@ -1,23 +1,5 @@
 [
   {
-    "title": "Cholesterol Testing Frequency After 35",
-    "description": "If LDL is 140 at age 42, retest every 6 months — not yearly — to catch changes early. Learn your personalized schedule.",
-    "primaryKeyword": "how often to recheck cholesterol after 35",
-    "topicCluster": "nutrition-diet-management",
-    "coreKeyword": "cholesterol",
-    "createdAt": "2026-08-08T02:50:10.990Z",
-    "score": 30.625,
-    "scheduledWeek": "2026-W33",
-    "perplexityQuestions": [
-      "What does it mean if my LDL is 140, 160, or 190 at age 45?",
-      "Is total cholesterol 220 dangerous if my HDL is high and triglycerides are normal?",
-      "What are my cholesterol numbers supposed to be at 35, 40, or 50?",
-      "Can I lower high cholesterol with diet and exercise alone, or do I need medication?",
-      "Should I get tested for lipoprotein(a) or genetic high cholesterol if my LDL is high in my 30s or 40s?"
-    ],
-    "competitorCoverage": "Top-ranking adult cholesterol articles usually cover the basics: what cholesterol numbers mean, how LDL/HDL/triglycerides differ, when lifestyle changes are enough, when medication is needed, and how often to monitor levels.[1][3][5][9] To compete, a new article should also answer the practical questions people ask before and after diagnosis, especially testing frequency, genetic risk, lipoprotein(a), medication side effects, and what to do when LDL stays high despite diet and exercise.[1][5][7][9]"
-  },
-  {
     "title": "How to Read Your Cholesterol Test Report",
     "description": "Only 3 numbers matter most — find out which ones predict heart risk better than total cholesterol.",
     "primaryKeyword": "how to read cholesterol test report",
