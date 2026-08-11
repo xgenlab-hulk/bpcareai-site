@@ -1,24 +1,22 @@
 ---
-title: >-
-  Unexplained Weight Loss in Your 40s? Could It Be Diabetes?
+title: Unexplained Weight Loss in Your 40s? Could It Be Diabetes?
 slug: unexplained-weight-loss-40s-diabetes
 description: >-
-  Unexplained weight loss in your 40s diabetes is a red flag — 1 in 4 newly diagnosed type 2 diabetics report it.
+  Unexplained weight loss in your 40s diabetes is a red flag — 1 in 4 newly
+  diagnosed type 2 diabetics report it.
 date: '2026-05-30'
 updated: '2026-05-30'
-primaryKeyword: >-
-  unexplained weight loss in your 40s diabetes
+primaryKeyword: unexplained weight loss in your 40s diabetes
 topicCluster: lifestyle-interventions
 image: ''
 relatedSlugs:
-  - >-
-    first-signs-diabetes-women-over-40
+  - first-signs-diabetes-women-over-40
   - >-
     when-to-worry-about-unexplained-weight-gain-in-women-over-55-with-type-2-diabetes-even-with-stable-calorie-intake-and-no-new-medications
-  - >-
-    how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
+  - how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60
   - >-
     when-to-worry-about-unexplained-weight-gain-despite-calorie-restriction-in-adults-53-69-with-new-onset-type-2-diabetes-and-subclinical-hypothyroidism
+  - early-diabetes-symptoms-men-over-40
 ---
 
 # Unexplained Weight Loss in Your 40s? Could It Be Diabetes?

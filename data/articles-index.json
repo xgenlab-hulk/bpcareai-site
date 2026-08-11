@@ -1,5 +1,39 @@
 [
   {
+    "slug": "foods-help-older-adults-eat-enough",
+    "title": "Foods That Help Older Adults Eat Enough — Smart, Nutrient-Dense",
+    "description": "Foods that help older adults eat enough deliver 25–30 g protein per meal (key for muscle health) and boost intake by 37% for those with mild swallowing issues.",
+    "date": "2026-08-11",
+    "updated": "2026-08-11",
+    "primaryKeyword": "foods that help older adults eat enough",
+    "topicCluster": "nutrition-diet-management",
+    "image": "",
+    "relatedSlugs": [
+      "soft-foods-seniors-no-teeth",
+      "meal-planning-for-one-after-70",
+      "healthiest-foods-aging-well-after-60",
+      "nutrient-dense-foods-low-appetite-seniors",
+      "foods-help-constipation-older-adults"
+    ]
+  },
+  {
+    "slug": "early-diabetes-symptoms-men-over-40",
+    "title": "5 Early Diabetes Symptoms in Men Over 40 You Might Miss",
+    "description": "Early diabetes symptoms in men over 40 often mimic aging—70% with prediabetes (A1C 5.7–6.4%) have no symptoms.",
+    "date": "2026-08-11",
+    "updated": "2026-08-11",
+    "primaryKeyword": "early diabetes symptoms in men over 40",
+    "topicCluster": "diabetes-management",
+    "image": "",
+    "relatedSlugs": [
+      "first-signs-diabetes-women-over-40",
+      "a1c-5-7-at-age-50",
+      "unexplained-weight-loss-40s-diabetes",
+      "diabetes-eye-problems-after-65",
+      "7-silent-signs-of-prediabetes-you-re-likely-ignoring-after-age-55-even-with-normal-a1c"
+    ]
+  },
+  {
     "slug": "pets-lower-nighttime-blood-pressure-women-60",
     "title": "Can Pets Lower Blood Pressure at Night for Women Over 60?",
     "description": "Yes — women over 60 with pets saw 4.8 mmHg greater nighttime systolic BP drop (Hypertension, 2022).",
@@ -2842,7 +2876,8 @@
       "first-signs-diabetes-women-over-40",
       "when-to-worry-about-unexplained-weight-gain-in-women-over-55-with-type-2-diabetes-even-with-stable-calorie-intake-and-no-new-medications",
       "how-much-weight-gain-is-normal-during-the-holidays-for-diabetics-over-60",
-      "when-to-worry-about-unexplained-weight-gain-despite-calorie-restriction-in-adults-53-69-with-new-onset-type-2-diabetes-and-subclinical-hypothyroidism"
+      "when-to-worry-about-unexplained-weight-gain-despite-calorie-restriction-in-adults-53-69-with-new-onset-type-2-diabetes-and-subclinical-hypothyroidism",
+      "early-diabetes-symptoms-men-over-40"
     ]
   },
   {
