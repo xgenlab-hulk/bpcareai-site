@@ -1,0 +1,57 @@
+{
+  "date": "2026-08-08",
+  "fetchedAt": "2026-08-11T01:02:37.102Z",
+  "queries": [
+    {
+      "query": "bpcare",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "non hdl cholesterol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 85
+    },
+    {
+      "query": "non hdl cholesterol levels",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 87
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://bpcareai.com/articles/what-does-non-hdl-cholesterol-mean",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 86
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/air-fryer-oxidized-cholesterol-coronary-calcification",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    }
+  ],
+  "summary": {
+    "totalQueries": 3,
+    "totalImpressions": 3,
+    "totalClicks": 0,
+    "avgPosition": 59.666666666666664,
+    "pagesWithImpressions": 3
+  }
+}
