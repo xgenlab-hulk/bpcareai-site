@@ -1,0 +1,20 @@
+{
+  "date": "2026-08-09",
+  "period": "3-day",
+  "impressionsChange": -16.787148594377506,
+  "clicksChange": 86.66666666666664,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "alternatives to statins for women",
+      "reason": "排名跃升 16.3 位（96.3 → 80.0）",
+      "score": 48.89999999999999,
+      "recentImpressions": 1,
+      "baselineImpressions": 10,
+      "recentPosition": 80,
+      "baselinePosition": 96.3
+    }
+  ]
+}
