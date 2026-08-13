@@ -1,0 +1,30 @@
+{
+  "date": "2026-08-10",
+  "period": "3-day",
+  "impressionsChange": -17.64705882352941,
+  "clicksChange": 86.66666666666664,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "bp ai",
+      "reason": "排名跃升 42.0 位（49.0 → 7.0）",
+      "score": 80,
+      "recentImpressions": 1,
+      "baselineImpressions": 3,
+      "recentPosition": 7,
+      "baselinePosition": 49
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "alternatives to statins for women",
+      "reason": "排名跃升 16.0 位（96.0 → 80.0）",
+      "score": 48,
+      "recentImpressions": 1,
+      "baselineImpressions": 9,
+      "recentPosition": 80,
+      "baselinePosition": 96
+    }
+  ]
+}

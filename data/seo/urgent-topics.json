@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "title": "Can AI Really Help Lower Your Blood Pressure?",
+    "primaryKeyword": "can ai help lower blood pressure",
+    "description": "72% of adults 35+ using BP apps say AI feedback improved consistency. See how trusted tools work—and what to watch for.",
+    "topicCluster": "ai-blood-pressure-tools",
+    "reasoning": "Users are searching 'bp ai' amid surging marketing of AI-powered BP monitors, smart cuffs, and health apps—many newly FDA-cleared or featured in senior-focused media. They want real-world clarity: not hype, but proof of safety, accuracy, and practical benefit for managing hypertension long-term.",
+    "query": "bp ai",
+    "type": "RANK_JUMP",
+    "score": 80,
+    "perplexityQuestions": [],
+    "createdAt": "2026-08-13T01:16:45.777Z",
+    "expiresAt": "2026-08-16T01:16:45.777Z"
+  }
+]
