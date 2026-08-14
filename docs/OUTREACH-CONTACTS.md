@@ -136,3 +136,90 @@ MEDIUM/LOW 表单：Houston-Galveston (TX)、Bucks County (PA)、Council on Agin
 3. **全部零回应** → **停**，别碰那 17 个表单
 
 **止损线：24 封邮件发完、等 3 周、零回应即止损。**
+
+---
+
+# 🆕 第二轮深挖新增（2026-08-14 晚）
+
+> 新渠道：YMCA 血压自监测项目 / 新英格兰 COA / 州老龄厅 / 加州华州 AAA。
+> 同一套规则；✔️ = 我本人二次核验。**部分渠道仍在收集，后续追加。**
+
+## 🩸 YMCA 血压自监测项目（BPSM）—— 主题最对口的渠道
+
+这些 YMCA 开设的就是"血压自我监测"项目 —— 参与者需要在两次课之间记录血压，
+**可打印记录表就是它们课程的天然配套材料**。
+
+| 机构 | 城市 | 邮箱 | 优先级 |
+|---|---|---|---|
+| Gateway Region YMCA | 圣路易斯 | `communityhealth@gwrymca.org` ✔️ | HIGH（外链 dss.mo.gov 等） |
+| YMCA of Metro Denver | 丹佛 | `bpsm@denverymca.org` ✔️（**专用 BPSM 信箱**） | MEDIUM |
+| YMCA Metro Washington | 华盛顿DC | `health@ymcadc.org` | MEDIUM |
+| YMCA of NW North Carolina | 温斯顿-塞勒姆 | `c.mullins@ymcanwnc.org`（具名：Chelsea Mullins，社区健康）| MEDIUM |
+| ⚠️ YMCA of Greater Cleveland | 克利夫兰 | `healthyliving@clevelandymca.org` —— **我复查页面未见此邮箱**，发前自行打开确认 | — |
+
+## 🏘️ 新英格兰 Councils on Aging（发纸质月刊，最佳分发场景）
+
+| 机构 | 城市 | 邮箱 | 备注 |
+|---|---|---|---|
+| Age Strong Commission | 波士顿 | `agestrong@boston.gov` ✔️ | 市级老龄委 |
+| Somerville COA | 萨默维尔 | `aspeliotis@somervillema.gov` ✔️ | 月刊多次提及 |
+| Cambridge COA | 剑桥 | `aliciaj@cambridgema.gov`（具名：Alicia Johnson，中心主任）| 有 COA 月刊 PDF |
+| Medford COA | 梅德福 | `pkelly@medford-ma.gov`（具名：Pamela Kelly，主任）；另有外联协调员 `galbert@medford-ma.gov` | 有月刊 |
+
+（该渠道仍在收集，波士顿周边多镇 403 被挡，最终表后续追加）
+
+## 🏛️ 州老龄厅（.gov 高权重）
+
+| 州 | 机构 | 邮箱 | 优先级 |
+|---|---|---|---|
+| 内华达 | Aging and Disability Services Division | `adsd@adsd.nv.gov` ✔️ | **HIGH**（资源页外链 nevada211.org 等） |
+| 弗吉尼亚 | Dept. for Aging & Rehabilitative Services | `dars@dars.virginia.gov` ✔️ | 未评 |
+| 密苏里 | DHSS（厅级总信箱） | `info@health.mo.gov` | 未评 |
+
+（50 州里大部分州政府站对自动抓取封锁极严——MA/MI/MN/NH 硬 403，MT/NE TLS 失败。
+搜索快照见过 `dda.aging@tn.gov`、`agingservices@utah.gov`，**未核实勿用**）
+
+## 🌉 加州 / 华州 AAA
+
+| 机构 | 城市 | 邮箱 | 优先级 |
+|---|---|---|---|
+| LA City Department of Aging | 洛杉矶 | `aging@lacity.org` | **HIGH**（cms.gov、healthcarerights.org） |
+| Orange County Office on Aging | 橙县 | `areaagencyonaging@occr.ocgov.com` | **HIGH**（adrcoc.org） |
+| Snohomish County LTC & Aging | 华州埃弗里特 | `ltca.referrals@snoco.org` | **HIGH**（benefitscheckup.org、waclc.org） |
+| SF Dept. of Disability & Aging Services | 旧金山 | `DAS@sfgov.org` | MEDIUM |
+| Seattle-King County ADS | 西雅图 | `aginginfo@seattle.gov` | MEDIUM |
+| ⚠️ Pierce County ADR | 塔科马 | `adrc@piercecountywa.gov` —— **来源是第三方目录**（官网 403），发前自行确认 | — |
+
+## 🏔️ 北卡 / 弗吉尼亚 / 乔治亚 AAA
+
+| 机构 | 城市 | 邮箱 | 优先级 |
+|---|---|---|---|
+| Central Pines Regional Council AAA | 罗利-达勒姆 | `connect@centralpinesnc.gov` | **HIGH**（nc211.org、aarp.org、ncdhhs.gov） |
+| Land of Sky Regional Council AAA | 阿什维尔 | `info@landofsky.org` | **HIGH**（coabc.org、wncsource.org） |
+| Fairfax Area Agency on Aging | 弗州费尔法克斯 | `FairfaxAAA@fairfaxcounty.gov` | **HIGH**（seniornavigator.org、mwcog.org） |
+| Centralina Regional Council AAA | 夏洛特 | `info@centralina.org` | MEDIUM |
+| Atlanta ARC / Empowerline | 亚特兰大 | 邮箱被 Cloudflare 混淆，仅[表单](https://atlantaregional.org/contact-arc/)（官网 403，人工访问可见） | HIGH但仅表单 |
+| Senior Connections Richmond | 里士满 | 混淆，仅[表单](https://seniorconnections-va.org/contact) | HIGH但仅表单 |
+| Bay Aging | 弗州 Urbanna | 仅[表单](https://bayaging.org/contact/)（电话优先文化） | HIGH但仅表单 |
+
+## 🏙️ 麻省补充
+
+| 机构 | 城市 | 邮箱 | 备注 |
+|---|---|---|---|
+| Worcester Senior Center / Elder Affairs | 伍斯特 | `elderaffairs@worcesterma.gov` | 官网核验（收集方） |
+
+## 🗽 纽约 / 新泽西
+
+| 机构 | 城市 | 邮箱 | 优先级 |
+|---|---|---|---|
+| Bergen County Senior Services | 新泽西哈肯萨克 | `seniors@bergencountynj.gov` | **HIGH**（GetSetUp、Ready.gov、AARP Age-Friendly） |
+| NYC Aging (DFTA) | 纽约市 | 仅[表单](https://www.nyc.gov/site/dfta/about/contact-aging-connect.page) | MEDIUM |
+
+（Westchester/Nassau/Suffolk 全部被网络封锁未验证；搜索快照里的 `aging.office@suffolkcountyny.gov`、`seniors@hhsnassaucountyny.us` **未核实勿用**）
+
+## 🌐 其他
+
+| 机构 | 说明 | 邮箱 |
+|---|---|---|
+| Cyber-Seniors | 老年科技辅导公益（有 newsletter；主题相关性弱） | `info@cyberseniors.org` |
+

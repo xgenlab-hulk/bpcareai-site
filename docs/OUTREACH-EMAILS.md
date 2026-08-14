@@ -925,3 +925,1183 @@ https://bpcareai.com
 | 21 | NCTCOG (S. Ross) | | | |
 | 22 | AAA Region 9 (K.J. Dennis) | | | |
 | 23 | CAPCOG (P. Bordie) | | | |
+
+---
+---
+
+# 🆕 第二批邮件（渠道拓展 · 24-53 号，共 30 封）
+
+> 新渠道：YMCA 血压项目 / 麻省 COA / 州老龄厅 / 加州华州 AAA / 北卡弗州 AAA / 新泽西。
+> 联系人核验记录见 OUTREACH-CONTACTS.md「第二轮深挖新增」。
+> **发送节奏不变：每天 5-8 封。** 建议顺序：YMCA(最对口) → HIGH 州老龄厅(NV/ME/SC) →
+> HIGH AAA(Central Pines/Land of Sky/Fairfax/LA/OC/Snohomish/Bergen) → 麻省 COA → 其余。
+
+---
+
+### 24 · Gateway Region YMCA — BPSM 项目（圣路易斯）
+
+**To:** `communityhealth@gwrymca.org`
+**Subject:** `A free printable BP log for your BPSM participants`
+
+```
+Hi there,
+
+We made a free printable blood pressure log that seems tailor-made for
+your Blood Pressure Self-Monitoring program — participants need to
+record readings between sessions, and many prefer paper:
+
+https://bpcareai.com/blood-pressure-log
+
+- Large print, high contrast, boxes big enough to write in
+- One week per page, morning and evening readings
+- Prints straight from the page: no signup, no email, no app
+- Recording only. It never interprets readings or gives advice, so it
+  won't conflict with your Healthy Heart Ambassadors' guidance
+
+You're welcome to print it for sessions or link it from your program
+page. No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different layout would fit your program better — a 4-month
+tracking cycle, larger type, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 25 · YMCA of Metro Denver — BPSM 项目
+
+**To:** `bpsm@denverymca.org`
+**Subject:** `A printable log your BPSM participants can use between sessions`
+
+```
+Hi there,
+
+Since this inbox is dedicated to your Blood Pressure Self-Monitoring
+program, we'll keep it short: we made a free printable BP log that
+works as a paper companion for participants tracking between sessions:
+
+https://bpcareai.com/blood-pressure-log
+
+- Large print, one week per page, morning and evening readings
+- Prints straight from the page — no signup, no email, no app
+- Recording only: no interpretation, no advice — it stays out of the
+  way of what your program teaches
+
+Print it for sessions or link it from your program page, whichever is
+useful. No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app (mentioned
+on the page). The printable is free with no strings attached.
+
+If your curriculum would benefit from a custom version — a 4-month
+cycle, larger type, or Spanish — reply and we'll build it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 26 · YMCA Metro Washington — 社区健康（华盛顿DC）
+
+**To:** `health@ymcadc.org`
+**Subject:** `Free printable BP log for your blood pressure programs`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+it may be a useful handout for your blood pressure self-monitoring and
+community health programs:
+
+https://bpcareai.com/blood-pressure-log
+
+- Large print, high contrast, room for handwritten readings
+- One week per page, morning and evening — the format doctors ask for
+- Prints straight from the page: no signup, no email, no app
+- Recording only. It never interprets readings or gives medical advice
+
+You're welcome to print it for participants or link it from your
+program pages. No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would fit your programs better — larger type, a
+multi-month cycle, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 27 · YMCA of NW North Carolina（具名：Chelsea Mullins）
+
+**To:** `c.mullins@ymcanwnc.org`
+**Subject:** `A printable BP log for your community health programs`
+
+```
+Hi Chelsea,
+
+Writing to you as the published contact for community health programs
+at the YMCA of Northwest North Carolina. We made a free printable
+blood pressure log designed for older adults — it may work as a paper
+companion for your blood pressure program participants:
+
+https://bpcareai.com/blood-pressure-log
+
+- Large print, one week per page, morning and evening readings
+- Prints straight from the page — no signup, no email, no app
+- Recording only. No interpretation, no medical advice
+
+You're welcome to print it for sessions or share it however is useful.
+No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would help your participants — larger type, a
+multi-month cycle, or Spanish — just reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 28 · Boston Age Strong Commission
+
+**To:** `agestrong@boston.gov`
+**Subject:** `Free printable blood pressure log for Boston older adults`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, boxes big enough to actually write in:
+
+https://bpcareai.com/blood-pressure-log
+
+It's the kind of practical one-pager that works well as a senior
+center handout or a newsletter insert:
+
+- Prints on standard letter paper, one week per page
+- Morning and evening readings — the format doctors ask patients to
+  bring to appointments
+- Recording only. It never interprets readings or gives medical advice
+
+You're welcome to print it, reprint it in your materials, or link it.
+No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve Boston residents better — larger
+type, a month per page, Spanish, or other languages — reply and we'll
+make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 29 · Cambridge COA（具名：Alicia Johnson）
+
+**To:** `aliciaj@cambridgema.gov`
+**Subject:** `A printable BP log for the Senior Center — free to reprint`
+
+```
+Hi Ms. Johnson,
+
+Writing to you as the Cambridge Senior Center's published contact. We
+made a free printable blood pressure log designed for older adults,
+and noticed your COA publishes a newsletter — this might work as an
+insert or a front-desk handout:
+
+https://bpcareai.com/blood-pressure-log
+
+- Large print, high contrast, room for handwritten readings
+- One week per page, morning and evening — what doctors ask for
+- Prints straight from the page; free to photocopy in any quantity
+- Recording only. It never interprets readings or gives medical advice
+
+No attribution needed, and you're welcome to reprint it in the
+newsletter directly.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would suit your members — larger type, monthly
+layout, or another language — just reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 30 · Somerville COA
+
+**To:** `aspeliotis@somervillema.gov`
+**Subject:** `Free printable BP log — newsletter insert or handout`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults.
+Since the Somerville COA runs an active newsletter, this might work as
+an insert or a senior center handout:
+
+https://bpcareai.com/blood-pressure-log
+
+- Large print, high contrast, boxes big enough to write in
+- One week per page (morning and evening), the format doctors ask
+  patients to bring to appointments
+- Prints straight from the page; free to photocopy
+- Recording only. It never interprets readings or gives medical advice
+
+You're welcome to reprint it, hand it out, or link it — no attribution
+needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve Somerville seniors better — larger
+type, monthly layout, or another language — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 31 · Medford COA（具名：Pamela Kelly）
+
+**To:** `pkelly@medford-ma.gov`
+**Subject:** `A printable BP log for Medford seniors — free to reprint`
+
+```
+Hi Ms. Kelly,
+
+Writing to you as Medford's Director of Elder Affairs. We made a free
+printable blood pressure log designed for older adults — it might work
+in your monthly newsletter or as a senior center handout:
+
+https://bpcareai.com/blood-pressure-log
+
+- Large print, high contrast, room for handwritten readings
+- One week per page, morning and evening — what doctors ask for
+- Prints straight from the page; free to photocopy in any quantity
+- Recording only. It never interprets readings or gives medical advice
+
+No attribution needed, and reprinting it directly in the newsletter is
+absolutely fine.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would suit your community — larger type,
+monthly layout, or another language — just reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 32 · Worcester Senior Center / Elder Affairs
+
+**To:** `elderaffairs@worcesterma.gov`
+**Subject:** `Free printable blood pressure log for Worcester seniors`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+It works well as a senior center handout or program material:
+
+- Prints straight from the page — no signup, no email, no app
+- The layout matches what doctors ask patients to bring in
+- Recording only. It never interprets readings or gives medical advice
+
+You're welcome to print it, hand it out, or link it. No attribution
+needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve Worcester seniors better — larger
+type, monthly layout, or another language — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 33 · Nevada ADSD（州老龄厅 · HIGH）
+
+**To:** `adsd@adsd.nv.gov`
+**Subject:** `Free printable blood pressure log for Nevada seniors`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+Your resources page already connects Nevadans with outside tools like
+Nevada 211 and the ADRC — if a practical printable fits that
+collection, you're welcome to add it.
+
+- Prints straight from the page — no signup, no email, no account
+- The layout matches what doctors ask patients to bring to
+  appointments
+- Recording only. It never interprets readings or gives medical advice
+
+You're also welcome to share it with the Area Agencies on Aging in
+your network — anyone may print or link it, no attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve Nevada seniors better — larger
+type, monthly layout, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 34 · Virginia DARS（州老龄厅）
+
+**To:** `dars@dars.virginia.gov`
+**Subject:** `Free printable blood pressure log for Virginia older adults`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+It may be a useful addition to your public resources for older
+Virginians and family caregivers.
+
+- Prints straight from the page — no signup, no email, no account
+- The layout matches what doctors ask patients to bring to
+  appointments
+- Recording only. It never interprets readings or gives medical advice
+
+You're also welcome to share it with the Area Agencies on Aging in
+your network — anyone may print or link it, no attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve Virginia seniors better — larger
+type, monthly layout, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 35 · Missouri DHSS（州卫生厅总信箱）
+
+**To:** `info@health.mo.gov`
+**Subject:** `Free printable blood pressure log — for your senior programs`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+We'd be grateful if you could route this to the Division of Senior &
+Disability Services — it may be useful for their public resources.
+
+- Prints straight from the page — no signup, no email, no account
+- The layout matches what doctors ask patients to bring to
+  appointments
+- Recording only. It never interprets readings or gives medical advice
+
+You're also welcome to share it with the Area Agencies on Aging in
+your network — anyone may print or link it, no attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve Missouri seniors better — larger
+type, monthly layout, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 36 · Alabama ADSS / AgeLine
+
+**To:** `ageline@adss.alabama.gov`
+**Subject:** `Free printable blood pressure log for Alabama seniors`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+It may be a practical thing for AgeLine to point callers to when they
+ask about tracking blood pressure at home.
+
+- Prints straight from the page — no signup, no email, no account
+- The layout matches what doctors ask patients to bring to
+  appointments
+- Recording only. It never interprets readings or gives medical advice
+
+You're also welcome to share it with the Area Agencies on Aging in
+your network — anyone may print or link it, no attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve Alabama seniors better — larger
+type, monthly layout, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 37 · Colorado OAADS
+
+**To:** `CDHS_OAADSGeneral_Inquiries@state.co.us`
+**Subject:** `Free printable blood pressure log for Colorado older adults`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+It may be a useful addition to the aging and adult services resources
+your office maintains for the public.
+
+- Prints straight from the page — no signup, no email, no account
+- The layout matches what doctors ask patients to bring to
+  appointments
+- Recording only. It never interprets readings or gives medical advice
+
+You're also welcome to share it with the Area Agencies on Aging in
+your network — anyone may print or link it, no attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve Colorado seniors better — larger
+type, monthly layout, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 38 · Hawaii Executive Office on Aging
+
+> ⚠️ 邮箱在页面上以 Cloudflare 混淆形式发布，已从页面源码解码——人工打开官网即可见，属机构公示
+
+**To:** `eoa@doh.hawaii.gov`
+**Subject:** `Free printable blood pressure log for Hawaii kupuna`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+It may be a practical resource for your office and the county Area
+Agencies on Aging to share with kupuna and family caregivers.
+
+- Prints straight from the page — no signup, no email, no account
+- The layout matches what doctors ask patients to bring to
+  appointments
+- Recording only. It never interprets readings or gives medical advice
+
+You're also welcome to share it with the Area Agencies on Aging in
+your network — anyone may print or link it, no attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve Hawaii seniors better — larger
+type, monthly layout, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 39 · Illinois Dept on Aging / Senior HelpLine
+
+**To:** `aging.ilsenior@illinois.gov`
+**Subject:** `Free printable BP log your HelpLine can point callers to`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+When Senior HelpLine callers ask about managing blood pressure at
+home, this may be a simple free thing to point them to.
+
+- Prints straight from the page — no signup, no email, no account
+- The layout matches what doctors ask patients to bring to
+  appointments
+- Recording only. It never interprets readings or gives medical advice
+
+You're also welcome to share it with the Area Agencies on Aging in
+your network — anyone may print or link it, no attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve Illinois seniors better — larger
+type, monthly layout, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 40 · Maine OADS（HIGH）
+
+**To:** `OADS@maine.gov`
+**Subject:** `Free printable blood pressure log for Maine older adults`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+Your resources page already points people to outside tools like
+211 Maine — if a practical printable fits alongside, you're welcome
+to add it.
+
+- Prints straight from the page — no signup, no email, no account
+- The layout matches what doctors ask patients to bring to
+  appointments
+- Recording only. It never interprets readings or gives medical advice
+
+You're also welcome to share it with the Area Agencies on Aging in
+your network — anyone may print or link it, no attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve Maine seniors better — larger
+type, monthly layout, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 41 · New Mexico ALTSD（外联信箱）
+
+**To:** `altsd-outreach@altsd.nm.gov`
+**Subject:** `Free printable blood pressure log for New Mexico seniors`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+Since this is your outreach inbox: the log works well as a handout at
+community events, and a Spanish version is a real offer — just ask.
+
+- Prints straight from the page — no signup, no email, no account
+- The layout matches what doctors ask patients to bring to
+  appointments
+- Recording only. It never interprets readings or gives medical advice
+
+You're also welcome to share it with the Area Agencies on Aging in
+your network — anyone may print or link it, no attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve New Mexico seniors better — larger
+type, monthly layout, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 42 · South Carolina DOA（具名：新闻信息主任 · HIGH）
+
+**To:** `mchristopher@aging.sc.gov`
+**Subject:** `Free printable blood pressure log for SC seniors`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+Your resources page already links to outside networks like GetCareSC —
+if a practical printable fits that collection, you're welcome to add
+it.
+
+- Prints straight from the page — no signup, no email, no account
+- The layout matches what doctors ask patients to bring to
+  appointments
+- Recording only. It never interprets readings or gives medical advice
+
+You're also welcome to share it with the Area Agencies on Aging in
+your network — anyone may print or link it, no attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve South Carolina seniors better — larger
+type, monthly layout, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 43 · Utah Aging & Adult Services
+
+> ⚠️ 邮箱在页面上以 Cloudflare 混淆形式发布，已从页面源码解码——人工打开官网即可见
+
+**To:** `agingservices@utah.gov`
+**Subject:** `Free printable blood pressure log for Utah older adults`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+It may be a useful addition to the public resources your office and
+Utah's Area Agencies on Aging share with older adults.
+
+- Prints straight from the page — no signup, no email, no account
+- The layout matches what doctors ask patients to bring to
+  appointments
+- Recording only. It never interprets readings or gives medical advice
+
+You're also welcome to share it with the Area Agencies on Aging in
+your network — anyone may print or link it, no attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve Utah seniors better — larger
+type, monthly layout, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 44 · LA City Department of Aging（HIGH）
+
+**To:** `aging@lacity.org`
+**Subject:** `Free printable blood pressure log for LA older adults`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+Your wellness and safety pages already connect Angelenos with outside
+resources — if a practical printable fits, you're welcome to add it.
+
+- Prints straight from the page — no signup, no email, no app
+- Morning and evening readings in the format doctors ask patients to
+  bring to appointments
+- Recording only. It never interprets readings or gives medical advice
+
+You're welcome to link it, print it for events, or hand it out through
+your programs. No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve Los Angeles seniors better — larger type,
+monthly layout, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 45 · Orange County Office on Aging（HIGH）
+
+**To:** `areaagencyonaging@occr.ocgov.com`
+**Subject:** `Free printable blood pressure log for OC seniors`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+Your resources page already points people to the ADRC of Orange
+County — a practical printable may fit the same collection.
+
+- Prints straight from the page — no signup, no email, no app
+- Morning and evening readings in the format doctors ask patients to
+  bring to appointments
+- Recording only. It never interprets readings or gives medical advice
+
+You're welcome to link it, print it for events, or hand it out through
+your programs. No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve Orange County seniors better — larger type,
+monthly layout, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 46 · Snohomish County LTC & Aging（HIGH）
+
+**To:** `ltca.referrals@snoco.org`
+**Subject:** `Free printable BP log for Snohomish County seniors`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+Your Long-Term Care & Aging page already links to outside tools like
+BenefitsCheckUp and Community Living Connections — if a practical
+printable fits there, you're welcome to add it.
+
+- Prints straight from the page — no signup, no email, no app
+- Morning and evening readings in the format doctors ask patients to
+  bring to appointments
+- Recording only. It never interprets readings or gives medical advice
+
+You're welcome to link it, print it for events, or hand it out through
+your programs. No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve Snohomish County better — larger type,
+monthly layout, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 47 · SF Dept. of Disability & Aging Services
+
+**To:** `DAS@sfgov.org`
+**Subject:** `Free printable blood pressure log for SF older adults`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+It may be a useful handout for your community programs, or a fit for
+the resources DAS shares with older adults and caregivers.
+
+- Prints straight from the page — no signup, no email, no app
+- Morning and evening readings in the format doctors ask patients to
+  bring to appointments
+- Recording only. It never interprets readings or gives medical advice
+
+You're welcome to link it, print it for events, or hand it out through
+your programs. No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve San Francisco better — larger type,
+monthly layout, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 48 · Seattle-King County ADS
+
+**To:** `aginginfo@seattle.gov`
+**Subject:** `Free printable blood pressure log for King County seniors`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+It may be a practical thing to point people to when they contact
+Community Living Connections about managing health at home.
+
+- Prints straight from the page — no signup, no email, no app
+- Morning and evening readings in the format doctors ask patients to
+  bring to appointments
+- Recording only. It never interprets readings or gives medical advice
+
+You're welcome to link it, print it for events, or hand it out through
+your programs. No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve King County seniors better — larger type,
+monthly layout, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 49 · Central Pines Regional Council AAA（罗利-达勒姆 · HIGH）
+
+**To:** `connect@centralpinesnc.gov`
+**Subject:** `Free printable BP log — a fit for your Aging Well resources`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+Your Aging Well page already links people to NC 211, AARP, and
+NCDHHS — if a practical printable fits that list, you're welcome to
+add it.
+
+- Prints straight from the page — no signup, no email, no app
+- Morning and evening readings in the format doctors ask patients to
+  bring to appointments
+- Recording only. It never interprets readings or gives medical advice
+
+You're welcome to link it, print it for events, or hand it out through
+your programs. No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve your seven counties better — larger type,
+monthly layout, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 50 · Land of Sky Regional Council AAA（阿什维尔 · HIGH）
+
+**To:** `info@landofsky.org`
+**Subject:** `Free printable blood pressure log for WNC seniors`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+Your AAA page already connects people with outside resources like the
+Council on Aging of Buncombe County and WNC Source — a practical
+printable may fit alongside.
+
+- Prints straight from the page — no signup, no email, no app
+- Morning and evening readings in the format doctors ask patients to
+  bring to appointments
+- Recording only. It never interprets readings or gives medical advice
+
+You're welcome to link it, print it for events, or hand it out through
+your programs. No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve Western North Carolina better — larger type,
+monthly layout, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 51 · Centralina Regional Council AAA（夏洛特）
+
+**To:** `info@centralina.org`
+**Subject:** `Free printable blood pressure log for your nine counties`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+It may be a useful handout for your aging programs and caregiver
+support work across the Charlotte region.
+
+- Prints straight from the page — no signup, no email, no app
+- Morning and evening readings in the format doctors ask patients to
+  bring to appointments
+- Recording only. It never interprets readings or gives medical advice
+
+You're welcome to link it, print it for events, or hand it out through
+your programs. No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve your region's seniors better — larger type,
+monthly layout, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 52 · Fairfax Area Agency on Aging（HIGH）
+
+**To:** `FairfaxAAA@fairfaxcounty.gov`
+**Subject:** `Free printable BP log for Fairfax older adults`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+Your older-adults pages already point residents to outside tools like
+SeniorNavigator — if a practical printable fits, you're welcome to
+add it.
+
+- Prints straight from the page — no signup, no email, no app
+- Morning and evening readings in the format doctors ask patients to
+  bring to appointments
+- Recording only. It never interprets readings or gives medical advice
+
+You're welcome to link it, print it for events, or hand it out through
+your programs. No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve Fairfax County better — larger type,
+monthly layout, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 53 · Bergen County Division of Senior Services（新泽西 · HIGH）
+
+**To:** `seniors@bergencountynj.gov`
+**Subject:** `Free printable blood pressure log for Bergen County seniors`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+Your Senior Services page already connects residents with outside
+resources like GetSetUp, Ready.gov, and the AARP Age-Friendly Network —
+if a practical printable fits that collection, you're welcome to add
+it. Key facts:
+
+- Prints straight from the page — no signup, no email, no app
+- The layout matches what doctors ask patients to bring in
+- Recording only. It never interprets readings or gives medical advice
+
+You can also print it for senior center programs. No attribution
+needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve Bergen County better — larger type,
+monthly layout, Spanish, or Korean — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+## 第二批发送记录表
+
+| # | 机构 | 发送日期 | 跟进日期 | 结果 |
+|---|---|---|---|---|
+| 24 | Gateway YMCA STL | | | |
+| 25 | YMCA Denver BPSM | | | |
+| 26 | YMCA DC | | | |
+| 27 | YMCA NWNC (C. Mullins) | | | |
+| 28 | Boston Age Strong | | | |
+| 29 | Cambridge COA (A. Johnson) | | | |
+| 30 | Somerville COA | | | |
+| 31 | Medford COA (P. Kelly) | | | |
+| 32 | Worcester Elder Affairs | | | |
+| 33 | Nevada ADSD | | | |
+| 34 | Virginia DARS | | | |
+| 35 | Missouri DHSS | | | |
+| 36 | Alabama AgeLine | | | |
+| 37 | Colorado OAADS | | | |
+| 38 | Hawaii EOA | | | |
+| 39 | Illinois HelpLine | | | |
+| 40 | Maine OADS | | | |
+| 41 | New Mexico ALTSD | | | |
+| 42 | SC DOA (M. Christopher) | | | |
+| 43 | Utah AAS | | | |
+| 44 | LA City Aging | | | |
+| 45 | Orange County OoA | | | |
+| 46 | Snohomish LTCA | | | |
+| 47 | SF DAS | | | |
+| 48 | Seattle-King ADS | | | |
+| 49 | Central Pines NC | | | |
+| 50 | Land of Sky NC | | | |
+| 51 | Centralina NC | | | |
+| 52 | Fairfax AAA | | | |
+| 53 | Bergen County NJ | | | |
+
