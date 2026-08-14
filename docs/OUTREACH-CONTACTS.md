@@ -217,6 +217,19 @@ MEDIUM/LOW 表单：Houston-Galveston (TX)、Bucks County (PA)、Council on Agin
 
 （Westchester/Nassau/Suffolk 全部被网络封锁未验证；搜索快照里的 `aging.office@suffolkcountyny.gov`、`seniors@hhsnassaucountyny.us` **未核实勿用**）
 
+## 🧑‍🦳 照护者资源中心
+
+| 机构 | 地区 | 邮箱 | 优先级 |
+|---|---|---|---|
+| Caregiver Action Network | 全国（DC） | `info@caregiveraction.org` | **HIGH**（资源页外链多家机构） |
+| Well Spouse Association | 新泽西 | `info@wellspouse.org` | **HIGH**（Mainstay 会刊） |
+| Southern Caregiver Resource Center | 圣地亚哥 | `scrc@caregivercenter.org` | **HIGH**（有 newsletter 存档） |
+| Valley Caregiver Resource Center | 弗雷斯诺 | `info@valleycrc.org` | **HIGH**（外链 acl.gov、alzfdn.org） |
+| Del Oro CRC | 萨克拉门托地区 | `mnevins@deloro.org`（具名员工，唯一公示邮箱） | **HIGH**（Toolkit 外链） |
+| Inland CRC | 圣贝纳迪诺 | `info@inlandcaregivers.org` | MEDIUM |
+
+（Family Caregiver Alliance/加州 CRC 官网枢纽等 8 家为仅表单或 JS 渲染无邮箱）
+
 ## 🌐 其他
 
 | 机构 | 说明 | 邮箱 |

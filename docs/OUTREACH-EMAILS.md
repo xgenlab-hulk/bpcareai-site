@@ -2105,3 +2105,254 @@ https://bpcareai.com
 | 52 | Fairfax AAA | | | |
 | 53 | Bergen County NJ | | | |
 
+---
+
+## 🧑‍🦳 照护者渠道（54-59 号，6 封）
+
+> 角度不同：受众是**替老人记录血压的家庭照护者**。含两家有会刊的（可整版转载）。
+
+---
+
+### 54 · Caregiver Action Network（全国 · HIGH）
+
+**To:** `info@caregiveraction.org`
+**Subject:** `A free printable BP log for family caregivers`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for family
+caregivers tracking an older loved one's readings:
+
+https://bpcareai.com/blood-pressure-log
+
+Family caregivers are often the ones actually writing down a parent's
+or spouse's readings — this sheet is built for that:
+
+- Large print, high contrast, boxes big enough to write in quickly
+- One week per page, morning and evening — the format doctors ask
+  families to bring to appointments
+- Prints straight from the page: no signup, no email, no app
+- Recording only. It never interprets readings or gives medical advice
+
+Your resources page already points caregivers to outside organizations'
+materials — if this printable fits that collection, you're welcome to
+add it. No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would serve your caregivers better — larger
+type, a month per page, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 55 · Well Spouse Association（HIGH · 有 Mainstay 会刊）
+
+**To:** `info@wellspouse.org`
+**Subject:** `A printable BP log for spousal caregivers — free to reprint`
+
+```
+Hi there,
+
+Spousal caregivers often track their partner's blood pressure daily.
+We made a free printable log designed exactly for that:
+
+https://bpcareai.com/blood-pressure-log
+
+Family caregivers are often the ones actually writing down a parent's
+or spouse's readings — this sheet is built for that:
+
+- Large print, high contrast, boxes big enough to write in quickly
+- One week per page, morning and evening — the format doctors ask
+  families to bring to appointments
+- Prints straight from the page: no signup, no email, no app
+- Recording only. It never interprets readings or gives medical advice
+
+You're welcome to reprint it in Mainstay or share it with members
+directly — reprinting the full sheet is absolutely fine, no
+attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would serve your caregivers better — larger
+type, a month per page, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 56 · Southern Caregiver Resource Center（圣地亚哥 · HIGH）
+
+**To:** `scrc@caregivercenter.org`
+**Subject:** `Free printable BP log for the caregivers you serve`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for family
+caregivers tracking a loved one's readings:
+
+https://bpcareai.com/blood-pressure-log
+
+Family caregivers are often the ones actually writing down a parent's
+or spouse's readings — this sheet is built for that:
+
+- Large print, high contrast, boxes big enough to write in quickly
+- One week per page, morning and evening — the format doctors ask
+  families to bring to appointments
+- Prints straight from the page: no signup, no email, no app
+- Recording only. It never interprets readings or gives medical advice
+
+It could work in your newsletter or as a handout in caregiver
+workshops — reprint freely, no attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would serve your caregivers better — larger
+type, a month per page, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 57 · Valley Caregiver Resource Center（弗雷斯诺 · HIGH）
+
+**To:** `info@valleycrc.org`
+**Subject:** `Free printable BP log — may fit your resources page`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for family
+caregivers tracking a loved one's readings:
+
+https://bpcareai.com/blood-pressure-log
+
+Family caregivers are often the ones actually writing down a parent's
+or spouse's readings — this sheet is built for that:
+
+- Large print, high contrast, boxes big enough to write in quickly
+- One week per page, morning and evening — the format doctors ask
+  families to bring to appointments
+- Prints straight from the page: no signup, no email, no app
+- Recording only. It never interprets readings or gives medical advice
+
+Your resources page already links out to national organizations like
+ACL and the Alzheimer's Foundation — if this printable fits there or
+in your newsletter, you're welcome to use it. No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would serve your caregivers better — larger
+type, a month per page, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 58 · Del Oro Caregiver Resource Center（萨克拉门托地区 · 具名）
+
+**To:** `mnevins@deloro.org`
+**Subject:** `A printable BP log for your Caregiver Toolkit`
+
+```
+Hi there,
+
+Writing to you as Del Oro's published contact. We made a free
+printable blood pressure log designed for family caregivers:
+
+https://bpcareai.com/blood-pressure-log
+
+Family caregivers are often the ones actually writing down a parent's
+or spouse's readings — this sheet is built for that:
+
+- Large print, high contrast, boxes big enough to write in quickly
+- One week per page, morning and evening — the format doctors ask
+  families to bring to appointments
+- Prints straight from the page: no signup, no email, no app
+- Recording only. It never interprets readings or gives medical advice
+
+Your Caregiver Toolkit already gathers outside materials from groups
+like the Rosalynn Carter Institute — if this printable fits the
+toolkit, you're welcome to add it. No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would serve your caregivers better — larger
+type, a month per page, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 59 · Inland Caregiver Resource Center（圣贝纳迪诺）
+
+**To:** `info@inlandcaregivers.org`
+**Subject:** `Free printable BP log for Inland Empire caregivers`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for family
+caregivers tracking a loved one's readings:
+
+https://bpcareai.com/blood-pressure-log
+
+Family caregivers are often the ones actually writing down a parent's
+or spouse's readings — this sheet is built for that:
+
+- Large print, high contrast, boxes big enough to write in quickly
+- One week per page, morning and evening — the format doctors ask
+  families to bring to appointments
+- Prints straight from the page: no signup, no email, no app
+- Recording only. It never interprets readings or gives medical advice
+
+You're welcome to share it with the caregivers you serve, print it
+for workshops, or add it to your resources. No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would serve your caregivers better — larger
+type, a month per page, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+## 照护者渠道发送记录
+
+| # | 机构 | 发送日期 | 跟进日期 | 结果 |
+|---|---|---|---|---|
+| 54 | Caregiver Action Network | | | |
+| 55 | Well Spouse Assoc | | | |
+| 56 | Southern CRC | | | |
+| 57 | Valley CRC | | | |
+| 58 | Del Oro CRC (M. Nevins) | | | |
+| 59 | Inland CRC | | | |
+
