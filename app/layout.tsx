@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
 import './globals.css';
 import { Analytics } from '@vercel/analytics/react';
+import GA4Script from '@/components/analytics/GA4Script';
 import { SpeedInsights } from '@vercel/speed-insights/next';
 
 const inter = Inter({
@@ -83,6 +84,7 @@ export default function RootLayout({
     <html lang="en" className={inter.variable}>
       <body className={`${inter.className} antialiased`}>
         {children}
+        <GA4Script />
         <Analytics />
         <SpeedInsights />
       </body>

@@ -4,6 +4,8 @@ import Link from 'next/link';
 import { getArticleBySlug, getAllArticleSlugs, getAllArticlesMeta } from '@/lib/articles';
 import { getCategoryForCluster } from '@/lib/article-categories';
 import CTAButton from '@/components/CTAButton';
+import DownloadButton from '@/components/DownloadButton';
+import ReadDepthTracker from '@/components/analytics/ReadDepthTracker';
 import { JsonLd, generateArticleJsonLd, SITE_URL } from '@/components/JsonLd';
 
 interface PageProps {
@@ -222,6 +224,8 @@ export default async function ArticlePage({ params }: PageProps) {
           </div>
         )}
 
+        <ReadDepthTracker articleSlug={article.slug} topicCluster={article.topicCluster} />
+
         {/* CTA Section（最底部） */}
         <div className="mt-16 glass-card p-8 lg:p-12 text-center">
           <h2 className="text-2xl font-bold text-gray-900 mb-4">
@@ -231,9 +235,14 @@ export default async function ArticlePage({ params }: PageProps) {
             Put these insights into practice. Download BPCare AI to track your blood pressure
             trends, understand your heart health, and feel more confident.
           </p>
-          <CTAButton href="https://apps.apple.com/us/app/bpcare-ai-heart-rate-monitor/id6748299186" external>
+          <DownloadButton
+            position="article_cta"
+            articleSlug={article.slug}
+            topicCluster={article.topicCluster}
+            className="inline-flex items-center justify-center rounded-full font-semibold transition-all duration-200 hover:shadow-lg whitespace-nowrap px-6 py-3.5 text-base sm:px-8 sm:py-4 sm:text-lg min-h-[44px] bg-gray-900 text-white hover:bg-gray-800 hover:scale-105"
+          >
             Download on App Store
-          </CTAButton>
+          </DownloadButton>
         </div>
       </article>
     </div>

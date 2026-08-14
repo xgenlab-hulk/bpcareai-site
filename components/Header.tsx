@@ -1,4 +1,5 @@
 'use client';
+import DownloadButton from '@/components/DownloadButton';
 
 import { useState } from 'react';
 import { usePathname } from 'next/navigation';
@@ -63,14 +64,12 @@ export default function Header() {
 
           {/* Download Button */}
           <div className="hidden md:block">
-            <a
-              href="https://apps.apple.com/us/app/bpcare-ai-heart-rate-monitor/id6748299186"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="bg-gray-900 text-white text-sm px-5 py-2.5 rounded-full font-semibold hover:bg-gray-800 hover:shadow-lg transition-all duration-200"
+            <DownloadButton
+              position="header"
+              className="inline-block bg-gray-900 text-white text-sm px-5 py-2.5 rounded-full font-semibold hover:bg-gray-800 hover:shadow-lg transition-all duration-200"
             >
               Download App
-            </a>
+            </DownloadButton>
           </div>
 
           {/* Mobile menu button */}

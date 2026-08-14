@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import DownloadButton from '@/components/DownloadButton';
 
 export default function MobileCTABar() {
   const [isVisible, setIsVisible] = useState(false);
@@ -24,15 +25,13 @@ export default function MobileCTABar() {
 
       {/* CTA Bar */}
       <div className="bg-white border-t border-gray-200 px-4 py-3 shadow-lg">
-        <a
-          href="https://apps.apple.com/us/app/bpcare-ai-heart-rate-monitor/id6748299186"
-          target="_blank"
-          rel="noopener noreferrer"
+        <DownloadButton
+          position="mobile_bar"
           className="flex items-center justify-center gap-2 w-full bg-gray-900 text-white py-3.5 rounded-full font-semibold text-base shadow-md hover:bg-gray-800 active:scale-[0.98] transition-all"
         >
           <span></span>
           <span>Download Free</span>
-        </a>
+        </DownloadButton>
         <p className="text-center text-xs text-gray-500 mt-2">
           Free Forever · No Account Needed
         </p>
