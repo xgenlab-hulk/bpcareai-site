@@ -256,6 +256,27 @@ MEDIUM/LOW 表单：Houston-Galveston (TX)、Bucks County (PA)、Council on Agin
 （AgeGuide 混淆仅表单；Pikes Peak 的 `ppacg@ppacg.org` **来源第三方目录未核实勿用**——
 其官网员工目录甚至有自家域名拼错的邮箱，佐证不猜格式的规则）
 
+## 🎓 大学 Cooperative Extension（.edu 高价值）
+
+**规则：每个团队只发一人**（同团队多人互相对照邮件=群发痕迹）。已选最对口者，其余为备用。
+
+| 大学 | 项目 | 发送对象 | 备用（勿同时发） |
+|---|---|---|---|
+| Ohio State | FCS Healthy People（HIGH，老龄页外链 acl.gov/aarp/alz.org） | `fcs@osu.edu` | — |
+| Illinois | Family Life 老龄/照护 | `cburcham@illinois.edu`（Cheri Burcham，Elder Care） | `hoferm@`、`sattig@illinois.edu` |
+| Nebraska | Food & Health（HIGH） | `food@unl.edu` | — |
+| Utah State | **Living Well with Chronic Conditions（HIGH·全渠道最对口）** | `gabriela.murza@usu.edu` | `cara.murray@`、`ashley.yaugher@usu.edu` |
+| NC State | Steps to Health | `jayne_mcburney@ncsu.edu` | `lisa_benavente@`、`benahor@ncsu.edu` |
+| Clemson | HGIC | `HGIC@clemson.edu` | — |
+| UF/IFAS | Alachua 县办公室 | `alachua@ifas.ufl.edu` | — |
+| Purdue | Tippecanoe 县 HHS | `tippecanoeces@purdue.edu` | — |
+| K-State | 营养项目 | `pbrenes@ksu.edu` | — |
+| UW-Madison | Aging Program（全所信箱转交） | `info@extension.wisc.edu` | — |
+| Arizona | 营养与运动项目 | `benally3@arizona.edu` | `mbawden@cals.arizona.edu`、`cantu1@arizona.edu` |
+
+仅表单：Penn State（[表单](https://extension.psu.edu/contact-us)）、Oregon State Healthy Aging（HIGH，[Ask Extension](https://extension.oregonstate.edu/ask-extension)值得填）。
+未通：密歇根州立/爱荷华州立/明尼苏达（机器人墙）、Texas A&M（连接失败）。
+
 ## 🌐 其他
 
 | 机构 | 说明 | 邮箱 |

@@ -2820,3 +2820,446 @@ https://bpcareai.com
 | 69 | AgeOptions | | | |
 | 70 | DRCOG Denver | | | |
 
+---
+
+## 🎓 大学 Extension 渠道（71-81 号，11 封 · .edu）
+
+> 每个大学团队**只发最对口的一人**（同团队多人会互相对照邮件，群发痕迹=直接进垃圾箱）。
+> 备用联系人见 CONTACTS 文档。USU 的 Living Well with Chronic Conditions 是全渠道最对口的单个联系人。
+
+---
+
+### 71 · OSU Extension FCS（HIGH·老龄页外链 acl.gov/aarp）
+
+**To:** `fcs@osu.edu`
+**Subject:** `A free printable BP log for FCS health programming`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older
+adults — it may be useful as a handout in Healthy People programming,
+and your FCS Aging page already links out to national resources like
+ACL, AARP, and the Alzheimer's Association, so it may fit there too:
+
+https://bpcareai.com/blood-pressure-log
+
+- Large print, high contrast, boxes big enough to write in
+- One week per page, morning and evening — the format physicians ask
+  patients to bring to appointments
+- Prints straight from the page: no signup, no email capture, no app
+- Recording only. It never interprets readings or gives medical
+  advice, so it slots cleanly into evidence-based programming
+
+Educators are welcome to photocopy it for classes or link it from
+program pages. No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would fit your programming — larger type, a
+month per page, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 72 · UIUC Extension（具名：Cheri Burcham·Elder Care）
+
+> ⚠️ 同团队另有 Molly Hofer/Sara Attig，勿重复发——她们会互相看到
+
+**To:** `cburcham@illinois.edu`
+**Subject:** `A printable BP log for your elder care programming`
+
+```
+Hi Cheri,
+
+Writing to you as the Family Life team's elder care educator. We made
+a free printable blood pressure log designed for older adults — it
+may work as a handout in caregiving and aging programs:
+
+https://bpcareai.com/blood-pressure-log
+
+- Large print, high contrast, boxes big enough to write in
+- One week per page, morning and evening — the format physicians ask
+  patients to bring to appointments
+- Prints straight from the page: no signup, no email capture, no app
+- Recording only. It never interprets readings or gives medical
+  advice, so it slots cleanly into evidence-based programming
+
+You're welcome to photocopy it for sessions, share it with the Family
+Life team, or link it from your resource pages (which already point
+to AARP and NIA caregiving tools). No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would fit your programming — larger type, a
+month per page, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 73 · UNL Extension Food & Health（HIGH）
+
+**To:** `food@unl.edu`
+**Subject:** `Free printable BP log for community health programs`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older
+adults — it may be a useful handout for Extension food, nutrition,
+and health programming across Nebraska:
+
+https://bpcareai.com/blood-pressure-log
+
+- Large print, high contrast, boxes big enough to write in
+- One week per page, morning and evening — the format physicians ask
+  patients to bring to appointments
+- Prints straight from the page: no signup, no email capture, no app
+- Recording only. It never interprets readings or gives medical
+  advice, so it slots cleanly into evidence-based programming
+
+Educators are welcome to photocopy it for classes or link it from
+program pages. No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would fit your programming — larger type, a
+month per page, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 74 · USU Extension（具名：Gabi Murza·慢病自我管理·最对口）
+
+> ⚠️ 同团队另有 Cara Murray/Ashley Yaugher，勿重复发
+
+**To:** `gabriela.murza@usu.edu`
+**Subject:** `A printable BP log for Living Well with Chronic Conditions`
+
+```
+Hi Gabi,
+
+Writing to you as the contact for Living Well with Chronic
+Conditions. Blood pressure self-monitoring is exactly the kind of
+action plan participants take on, and many prefer paper — we made a
+free printable log designed for that:
+
+https://bpcareai.com/blood-pressure-log
+
+- Large print, high contrast, boxes big enough to write in
+- One week per page, morning and evening — the format physicians ask
+  patients to bring to appointments
+- Prints straight from the page: no signup, no email capture, no app
+- Recording only. It never interprets readings or gives medical
+  advice, so it slots cleanly into evidence-based programming
+
+You're welcome to print it for workshops, share it with the aging
+team, or link it alongside the Healthy Aging Utah resources. No
+attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would fit your programming — larger type, a
+month per page, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 75 · NC State Extension（具名：Jayne McBurney·Steps to Health）
+
+> ⚠️ 同系另有 EFNEP/营养专家联系人，勿重复发
+
+**To:** `jayne_mcburney@ncsu.edu`
+**Subject:** `A printable BP log for Steps to Health participants`
+
+```
+Hi Jayne,
+
+Writing to you as the Steps to Health program coordinator. We made a
+free printable blood pressure log designed for older adults — it may
+work as a supplemental handout where blood pressure comes up in
+programming:
+
+https://bpcareai.com/blood-pressure-log
+
+- Large print, high contrast, boxes big enough to write in
+- One week per page, morning and evening — the format physicians ask
+  patients to bring to appointments
+- Prints straight from the page: no signup, no email capture, no app
+- Recording only. It never interprets readings or gives medical
+  advice, so it slots cleanly into evidence-based programming
+
+You're welcome to photocopy it for classes or share it with FCS
+colleagues. No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would fit your programming — larger type, a
+month per page, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 76 · Clemson HGIC
+
+**To:** `HGIC@clemson.edu`
+**Subject:** `Free printable blood pressure log — a possible HGIC resource`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older
+adults. Since HGIC covers food, nutrition, and health topics for
+South Carolina residents, it may be a practical companion piece:
+
+https://bpcareai.com/blood-pressure-log
+
+- Large print, high contrast, boxes big enough to write in
+- One week per page, morning and evening — the format physicians ask
+  patients to bring to appointments
+- Prints straight from the page: no signup, no email capture, no app
+- Recording only. It never interprets readings or gives medical
+  advice, so it slots cleanly into evidence-based programming
+
+You're welcome to link it from relevant fact sheets or print it for
+programs. No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would fit your programming — larger type, a
+month per page, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 77 · UF/IFAS Alachua County Extension
+
+**To:** `alachua@ifas.ufl.edu`
+**Subject:** `Free printable BP log for your healthy living programs`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older
+adults — it may be a useful handout for your healthy living and
+family resources programming:
+
+https://bpcareai.com/blood-pressure-log
+
+- Large print, high contrast, boxes big enough to write in
+- One week per page, morning and evening — the format physicians ask
+  patients to bring to appointments
+- Prints straight from the page: no signup, no email capture, no app
+- Recording only. It never interprets readings or gives medical
+  advice, so it slots cleanly into evidence-based programming
+
+You're welcome to photocopy it for classes or link it. No attribution
+needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would fit your programming — larger type, a
+month per page, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 78 · Purdue Extension Tippecanoe County
+
+**To:** `tippecanoeces@purdue.edu`
+**Subject:** `Free printable BP log for HHS programming`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older
+adults — it may be useful in Health & Human Sciences programming:
+
+https://bpcareai.com/blood-pressure-log
+
+- Large print, high contrast, boxes big enough to write in
+- One week per page, morning and evening — the format physicians ask
+  patients to bring to appointments
+- Prints straight from the page: no signup, no email capture, no app
+- Recording only. It never interprets readings or gives medical
+  advice, so it slots cleanly into evidence-based programming
+
+You're welcome to photocopy it for classes or link it. No attribution
+needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would fit your programming — larger type, a
+month per page, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 79 · K-State Research & Extension 营养项目
+
+**To:** `pbrenes@ksu.edu`
+**Subject:** `Free printable BP log for Extension health programs`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older
+adults — it may be useful alongside programs like Walk Kansas where
+blood pressure comes up:
+
+https://bpcareai.com/blood-pressure-log
+
+- Large print, high contrast, boxes big enough to write in
+- One week per page, morning and evening — the format physicians ask
+  patients to bring to appointments
+- Prints straight from the page: no signup, no email capture, no app
+- Recording only. It never interprets readings or gives medical
+  advice, so it slots cleanly into evidence-based programming
+
+You're welcome to photocopy it for programs or link it. No
+attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would fit your programming — larger type, a
+month per page, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 80 · UW-Madison Extension Aging Program
+
+**To:** `info@extension.wisc.edu`
+**Subject:** `Free printable BP log — for the Aging program team`
+
+```
+Hi there,
+
+We'd be grateful if you could route this to the Aging program team.
+We made a free printable blood pressure log designed for older
+adults — it may fit their caregiver-support and healthy-aging
+programming:
+
+https://bpcareai.com/blood-pressure-log
+
+- Large print, high contrast, boxes big enough to write in
+- One week per page, morning and evening — the format physicians ask
+  patients to bring to appointments
+- Prints straight from the page: no signup, no email capture, no app
+- Recording only. It never interprets readings or gives medical
+  advice, so it slots cleanly into evidence-based programming
+
+Educators are welcome to photocopy it or link it from program pages.
+No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would fit your programming — larger type, a
+month per page, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 81 · UA Cooperative Extension 营养与运动项目
+
+**To:** `benally3@arizona.edu`
+**Subject:** `Free printable BP log for community nutrition programs`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older
+adults — it may be a useful handout in nutrition and physical
+activity programming:
+
+https://bpcareai.com/blood-pressure-log
+
+- Large print, high contrast, boxes big enough to write in
+- One week per page, morning and evening — the format physicians ask
+  patients to bring to appointments
+- Prints straight from the page: no signup, no email capture, no app
+- Recording only. It never interprets readings or gives medical
+  advice, so it slots cleanly into evidence-based programming
+
+You're welcome to photocopy it for classes or share it with program
+colleagues. No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would fit your programming — larger type, a
+month per page, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+## Extension 渠道发送记录
+
+| # | 机构 | 发送日期 | 跟进日期 | 结果 |
+|---|---|---|---|---|
+| 71 | OSU FCS | | | |
+| 72 | UIUC (C. Burcham) | | | |
+| 73 | UNL Food&Health | | | |
+| 74 | USU (G. Murza) | | | |
+| 75 | NCSU (J. McBurney) | | | |
+| 76 | Clemson HGIC | | | |
+| 77 | UF Alachua | | | |
+| 78 | Purdue Tippecanoe | | | |
+| 79 | K-State | | | |
+| 80 | UW-Madison Aging | | | |
+| 81 | UA Nutrition | | | |
+
