@@ -52,6 +52,11 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
+                <Link href="/blood-pressure-log" className="text-slate-300 hover:text-cyan-400 transition-colors duration-200 text-sm inline-flex items-center group">
+                  <span className="group-hover:translate-x-0.5 transition-transform duration-200">Free BP Log</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/#faqs" className="text-slate-300 hover:text-cyan-400 transition-colors duration-200 text-sm inline-flex items-center group">
                   <span className="group-hover:translate-x-0.5 transition-transform duration-200">FAQs</span>
                 </Link>

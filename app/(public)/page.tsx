@@ -3,6 +3,7 @@ import HeroSection from '@/components/homepage/HeroSection';
 import SocialProofSection from '@/components/homepage/SocialProofSection';
 import FeaturesSection from '@/components/homepage/FeaturesSection';
 import HowItWorksSection from '@/components/homepage/HowItWorksSection';
+import BPLogPromoStrip from '@/components/homepage/BPLogPromoStrip';
 import WhoItsForSection from '@/components/homepage/WhoItsForSection';
 import TestimonialsSection from '@/components/homepage/TestimonialsSection';
 import WhyItMattersSection from '@/components/homepage/WhyItMattersSection';
@@ -35,6 +36,7 @@ export default function Home() {
 
       {/* How It Works - Simple 3-step process with mid-page CTA */}
       <HowItWorksSection />
+      <BPLogPromoStrip />
 
       {/* Who It's For - Help users identify with personas + CTA */}
       <WhoItsForSection />

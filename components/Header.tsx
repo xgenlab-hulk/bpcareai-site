@@ -50,6 +50,9 @@ export default function Header() {
               <Link href="/articles" className={getLinkClass('/articles')}>
                 Articles
               </Link>
+              <Link href="/blood-pressure-log" className={getLinkClass('/blood-pressure-log')}>
+                Free BP Log
+              </Link>
               <Link href="/#faqs" className={getLinkClass('/#faqs')}>
                 FAQs
               </Link>
@@ -115,6 +118,17 @@ export default function Header() {
                 onClick={() => setIsMenuOpen(false)}
               >
                 Articles
+              </Link>
+              <Link
+                href="/blood-pressure-log"
+                className={`py-2 transition-colors ${
+                  isActive('/blood-pressure-log')
+                    ? 'text-brand-blue-dark font-semibold text-base'
+                    : 'text-gray-600 hover:text-brand-blue-dark font-medium text-base'
+                }`}
+                onClick={() => setIsMenuOpen(false)}
+              >
+                Free BP Log
               </Link>
               <Link
                 href="/#faqs"
