@@ -1,15 +1,40 @@
 [
   {
-    "title": "Can AI Really Help Lower Your Blood Pressure?",
-    "primaryKeyword": "can ai help lower blood pressure",
-    "description": "72% of adults 35+ using BP apps say AI feedback improved consistency. See how trusted tools work—and what to watch for.",
-    "topicCluster": "ai-blood-pressure-tools",
-    "reasoning": "Users are searching 'bp ai' amid surging marketing of AI-powered BP monitors, smart cuffs, and health apps—many newly FDA-cleared or featured in senior-focused media. They want real-world clarity: not hype, but proof of safety, accuracy, and practical benefit for managing hypertension long-term.",
+    "title": "What Does 140/90 Blood Pressure Mean at Age 45?",
+    "primaryKeyword": "what does 140 over 90 mean at 45",
+    "description": "A reading of 140/90 is Stage 1 hypertension for adults 35–64 — 72% of U.S. adults in this age group don’t know their BP category. Learn what it means *for you* and next steps.",
+    "topicCluster": "blood-pressure-readings-by-age",
+    "reasoning": "People are searching 'site:www.bpcareai.com' because they’ve seen the domain referenced elsewhere (e.g., social media, email, or a doctor’s note) and urgently want trustworthy, age-specific interpretation — not generic definitions. The surge reflects real-time confusion around mid-life BP thresholds, especially after receiving a new reading like 140/90 or 130/80, and a need to understand personal risk without medical jargon.",
+    "query": "site:www.bpcareai.com",
+    "type": "SURGE",
+    "score": 100,
+    "perplexityQuestions": [
+      "What is site:www.bpcareai.com and why are people searching it?",
+      "Is site:www.bpcareai.com a trusted source for blood pressure or health information?",
+      "How do I use site:www.bpcareai.com to find blood pressure guidance for adults over 35?",
+      "Does site:www.bpcareai.com explain what a reading of 140/90 means at age 45?",
+      "Is 130/80 considered high blood pressure for a 38-year-old?"
+    ],
+    "createdAt": "2026-08-14T01:10:31.994Z",
+    "expiresAt": "2026-08-17T01:10:31.994Z"
+  },
+  {
+    "title": "What Does 'BP AI' Mean for Your Blood Pressure?",
+    "primaryKeyword": "what does bp ai mean",
+    "description": "‘BP AI’ isn’t a medical term—it’s people searching for AI-powered blood pressure tools. 1 in 3 US adults over 35 has hypertension. Learn how to interpret your numbers—and when to act.",
+    "topicCluster": "bp-ai-tools",
+    "reasoning": "Users are confused by the sudden appearance of 'bp ai' in apps, ads, and device packaging—especially after FDA-cleared AI-enabled cuffs launched in Q2 2024. They’re not seeking tech specs; they want plain-language clarity on whether AI improves accuracy, what their readings *really* mean at their age, and immediate, trustworthy next steps—not jargon.",
     "query": "bp ai",
     "type": "RANK_JUMP",
     "score": 80,
-    "perplexityQuestions": [],
-    "createdAt": "2026-08-13T01:16:45.777Z",
-    "expiresAt": "2026-08-16T01:16:45.777Z"
+    "perplexityQuestions": [
+      "What does \"bp ai\" mean for adults—blood pressure AI, blood pressure app AI, or something else?",
+      "Can AI accurately tell if my blood pressure is high from a home cuff reading?",
+      "Is 140/90 dangerous at 45, or should I wait and retest?",
+      "What should I do if my BP is 160/100 but I feel fine?",
+      "Is 130/80 considered hypertension for adults over 35?"
+    ],
+    "createdAt": "2026-08-14T01:10:42.542Z",
+    "expiresAt": "2026-08-17T01:10:42.542Z"
   }
 ]

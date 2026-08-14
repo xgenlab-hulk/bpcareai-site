@@ -1,0 +1,47 @@
+{
+  "date": "2026-08-11",
+  "period": "3-day",
+  "impressionsChange": -8.312342569269523,
+  "clicksChange": 86.66666666666664,
+  "newQueries": [],
+  "risingQueries": [
+    {
+      "query": "site:www.bpcareai.com",
+      "recentImpressions": 12,
+      "baselineImpressions": 12,
+      "changeRatio": 9.333333333333334
+    }
+  ],
+  "alerts": [
+    {
+      "type": "SURGE",
+      "query": "site:www.bpcareai.com",
+      "reason": "展示量激增 9.3x（近3天日均4.0 vs 基线0.4）",
+      "score": 100,
+      "recentImpressions": 12,
+      "baselineImpressions": 12,
+      "recentPosition": 11.833333333333334,
+      "baselinePosition": 11.833333333333334
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "bp ai",
+      "reason": "排名跃升 42.0 位（49.0 → 7.0）",
+      "score": 80,
+      "recentImpressions": 1,
+      "baselineImpressions": 3,
+      "recentPosition": 7,
+      "baselinePosition": 49
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "alternatives to statins for women",
+      "reason": "排名跃升 15.6 位（95.6 → 80.0）",
+      "score": 46.875,
+      "recentImpressions": 1,
+      "baselineImpressions": 8,
+      "recentPosition": 80,
+      "baselinePosition": 95.625
+    }
+  ]
+}
