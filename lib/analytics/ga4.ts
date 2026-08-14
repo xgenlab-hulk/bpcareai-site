@@ -45,6 +45,8 @@ export const GAEvent = {
   androidUnsupported: 'android_unsupported',
   /** 文章阅读深度 */
   readDepth: 'read_depth',
+  /** 工具页点击「打印」—— 这是工具页的核心转化，不是 download_click 的变体 */
+  toolPrint: 'tool_print',
   /** 站外链接点击 */
   outboundClick: 'outbound_click',
 } as const;
