@@ -230,6 +230,20 @@ MEDIUM/LOW 表单：Houston-Galveston (TX)、Bucks County (PA)、Council on Agin
 
 （Family Caregiver Alliance/加州 CRC 官网枢纽等 8 家为仅表单或 JS 渲染无邮箱）
 
+## 🏡 Village 互助会（全部有 newsletter，转载角度最佳）
+
+| 机构 | 城市 | 邮箱 | 优先级 |
+|---|---|---|---|
+| San Francisco Village | 旧金山 | `info@sfvillage.org` | **HIGH**（月刊存档 2020-2026） |
+| Ashby Village | 伯克利 | `info@ashbyvillage.org` | **HIGH**（newsletter 存档） |
+| Capitol Hill Village | 华盛顿DC | `info@capitolhillvillage.org` | **HIGH**（年度 newsletter 存档） |
+| Northwest Neighbors Village | 华盛顿DC | `info@nnvdc.org` | **HIGH**（资源页外链 iona.org 等） |
+| Pasadena Village | 帕萨迪纳 | `info@pasadenavillage.org` | **HIGH**（newsletter 存档） |
+| Beacon Hill Village | 波士顿 | `info@BeaconHillVillage.org`（页面混淆已解码） | **HIGH** |
+| The Village Chicago | 芝加哥 | `info@thevillagechicago.org`（页面混淆已解码） | MEDIUM |
+
+（Marin Villages 仅表单；Mill Valley 站点不可达）
+
 ## 🌐 其他
 
 | 机构 | 说明 | 邮箱 |

@@ -2356,3 +2356,297 @@ https://bpcareai.com
 | 58 | Del Oro CRC (M. Nevins) | | | |
 | 59 | Inland CRC | | | |
 
+---
+
+## 🏡 Village 互助会渠道（60-66 号，7 封）
+
+> 草根老年互助组织，**全部有会员 newsletter** —— 邮件主打「可整版转载」。
+
+---
+
+### 60 · San Francisco Village（HIGH）
+
+**To:** `info@sfvillage.org`
+**Subject:** `A printable BP log for your members — free to reprint`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+Village members managing health at home are exactly who it's built
+for:
+
+- Prints straight from the page — no signup, no email, no app
+- Morning and evening readings in the format doctors ask patients to
+  bring to appointments
+- Recording only. It never interprets readings or gives medical advice
+
+Your monthly newsletter would be a natural place for it — reprinting
+the full sheet is absolutely fine, no attribution needed. Volunteers
+can also print copies for members who don't use computers.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would suit SF Village members — larger type, a
+month per page, or another language — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 61 · Ashby Village（伯克利 · HIGH）
+
+**To:** `info@ashbyvillage.org`
+**Subject:** `A printable BP log for Ashby Village members`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+Village members managing health at home are exactly who it's built
+for:
+
+- Prints straight from the page — no signup, no email, no app
+- Morning and evening readings in the format doctors ask patients to
+  bring to appointments
+- Recording only. It never interprets readings or gives medical advice
+
+It could work as a newsletter insert or a handout at member
+gatherings — reprint freely, no attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would suit Ashby Village members — larger type, a
+month per page, or another language — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 62 · Capitol Hill Village（华盛顿DC · HIGH）
+
+**To:** `info@capitolhillvillage.org`
+**Subject:** `A printable BP log for your members and volunteers`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+Village members managing health at home are exactly who it's built
+for:
+
+- Prints straight from the page — no signup, no email, no app
+- Morning and evening readings in the format doctors ask patients to
+  bring to appointments
+- Recording only. It never interprets readings or gives medical advice
+
+It might fit your newsletter or your resources collection — reprint
+or link freely, no attribution needed. Volunteers who accompany
+members to medical visits may find the completed sheets handy too.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would suit Capitol Hill Village members — larger type, a
+month per page, or another language — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 63 · Northwest Neighbors Village（华盛顿DC · HIGH）
+
+**To:** `info@nnvdc.org`
+**Subject:** `Free printable BP log — may fit your resources page`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+Village members managing health at home are exactly who it's built
+for:
+
+- Prints straight from the page — no signup, no email, no app
+- Morning and evening readings in the format doctors ask patients to
+  bring to appointments
+- Recording only. It never interprets readings or gives medical advice
+
+Your resources page already links neighbors to outside organizations
+like Iona and DACL — if this printable fits there or in your
+newsletter, you're welcome to use it. No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would suit NNV members — larger type, a
+month per page, or another language — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 64 · Pasadena Village（HIGH）
+
+**To:** `info@pasadenavillage.org`
+**Subject:** `A printable BP log for Pasadena Village members`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+Village members managing health at home are exactly who it's built
+for:
+
+- Prints straight from the page — no signup, no email, no app
+- Morning and evening readings in the format doctors ask patients to
+  bring to appointments
+- Recording only. It never interprets readings or gives medical advice
+
+It could work as a newsletter item or a handout at member events —
+reprint freely, no attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would suit Pasadena Village members — larger type, a
+month per page, or another language — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 65 · Beacon Hill Village（波士顿 · HIGH）
+
+> ⚠️ 邮箱在页面上以 Cloudflare 混淆形式发布，已从页面源码解码——人工打开官网即可见
+
+**To:** `info@BeaconHillVillage.org`
+**Subject:** `A printable BP log for your members — free to reprint`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+Village members managing health at home are exactly who it's built
+for:
+
+- Prints straight from the page — no signup, no email, no app
+- Morning and evening readings in the format doctors ask patients to
+  bring to appointments
+- Recording only. It never interprets readings or gives medical advice
+
+As the village that started the movement, you likely hear from
+members who prefer paper for health tracking — the sheet is built for
+exactly that. Newsletter reprints are welcome, no attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would suit Beacon Hill Village members — larger type, a
+month per page, or another language — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 66 · The Village Chicago
+
+> ⚠️ 邮箱在页面上以 Cloudflare 混淆形式发布，已从页面源码解码——人工打开官网即可见
+
+**To:** `info@thevillagechicago.org`
+**Subject:** `Free printable blood pressure log for your members`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+Village members managing health at home are exactly who it's built
+for:
+
+- Prints straight from the page — no signup, no email, no app
+- Morning and evening readings in the format doctors ask patients to
+  bring to appointments
+- Recording only. It never interprets readings or gives medical advice
+
+It could work in your newsletter or as a handout at member programs —
+reprint freely, no attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different version would suit Village Chicago members — larger type, a
+month per page, or another language — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+## Village 渠道发送记录
+
+| # | 机构 | 发送日期 | 跟进日期 | 结果 |
+|---|---|---|---|---|
+| 60 | SF Village | | | |
+| 61 | Ashby Village | | | |
+| 62 | Capitol Hill Village | | | |
+| 63 | NW Neighbors DC | | | |
+| 64 | Pasadena Village | | | |
+| 65 | Beacon Hill Village | | | |
+| 66 | Village Chicago | | | |
+
