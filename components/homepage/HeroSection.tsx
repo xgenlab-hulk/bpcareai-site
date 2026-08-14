@@ -90,6 +90,7 @@ export default function HeroSection() {
             <div className="flex flex-col sm:flex-row gap-4 mb-4 sm:mb-6">
               <CTAButton
                 href="https://apps.apple.com/us/app/bpcare-ai-heart-rate-monitor/id6748299186"
+                ctaPosition="home_hero"
                 external
                 size="large"
                 animated

@@ -1,4 +1,5 @@
 'use client';
+import DownloadButton from '@/components/DownloadButton';
 
 import { useState } from 'react';
 
@@ -184,15 +185,10 @@ export default function FAQSection() {
             Download the app and explore all features, or contact our support team
           </p>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
-            <a
-              href="https://apps.apple.com/us/app/bpcare-ai-heart-rate-monitor/id6748299186"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center justify-center px-6 py-3 bg-gradient-to-r from-brand-blue to-brand-purple text-white rounded-full font-semibold hover:shadow-lg transition-all duration-200 hover:scale-105"
-            >
+            <DownloadButton position="home_faq" className="inline-flex items-center justify-center px-6 py-3 bg-gradient-to-r from-brand-blue to-brand-purple text-white rounded-full font-semibold hover:shadow-lg transition-all duration-200 hover:scale-105">
               <span className="mr-2"></span>
               Try BPCare AI Free
-            </a>
+            </DownloadButton>
             <a
               href="/contact"
               className="inline-flex items-center justify-center px-6 py-3 bg-white text-brand-blue-dark border-2 border-brand-blue rounded-full font-semibold hover:bg-brand-blue/5 transition-all duration-200"

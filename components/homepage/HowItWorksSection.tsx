@@ -87,6 +87,7 @@ export default function HowItWorksSection() {
           </p>
           <CTAButton
             href="https://apps.apple.com/us/app/bpcare-ai-heart-rate-monitor/id6748299186"
+            ctaPosition="home_howitworks"
             external
             size="large"
           >

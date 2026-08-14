@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import DownloadButton from '@/components/DownloadButton';
 
 interface CTAButtonProps {
   href: string;
@@ -8,6 +9,8 @@ interface CTAButtonProps {
   size?: 'default' | 'large';
   animated?: boolean;
   className?: string;
+  /** 埋点用的位置标识；指向 App Store 时必填，否则无法区分入口 */
+  ctaPosition?: string;
 }
 
 export default function CTAButton({
@@ -18,6 +21,7 @@ export default function CTAButton({
   size = 'default',
   animated = false,
   className = '',
+  ctaPosition = 'cta_button',
 }: CTAButtonProps) {
   const sizeClasses = size === 'large'
     ? 'px-6 py-4 text-base sm:px-10 sm:py-5 sm:text-xl min-h-[48px]'
@@ -34,6 +38,17 @@ export default function CTAButton({
   const animationClass = animated ? 'animate-pulse-glow' : '';
 
   const combinedClasses = `${baseClasses} ${variantClasses[variant]} ${animationClass} ${className}`;
+
+  // 指向 App Store 的外链一律走 DownloadButton：
+  // 桌面端弹二维码、安卓提示不支持、iOS 直跳，并统一带上 campaign token。
+  // 在这里统一拦截，好过在 5 个首页组件里各改一遍（漏一个就是一个无归因入口）。
+  if (external && href.includes('apps.apple.com')) {
+    return (
+      <DownloadButton position={ctaPosition} className={combinedClasses}>
+        {children}
+      </DownloadButton>
+    );
+  }
 
   if (external) {
     return (

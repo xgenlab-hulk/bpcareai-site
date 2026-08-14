@@ -111,6 +111,7 @@ export default function WhoItsForSection() {
             <div className="inline-block">
               <CTAButton
                 href="https://apps.apple.com/us/app/bpcare-ai-heart-rate-monitor/id6748299186"
+                ctaPosition="home_whoitsfor"
                 external
                 variant="accent"
                 size="large"

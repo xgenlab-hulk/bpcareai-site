@@ -68,6 +68,7 @@ export default function FinalCTASection() {
         <div className="mb-8">
           <CTAButton
             href="https://apps.apple.com/us/app/bpcare-ai-heart-rate-monitor/id6748299186"
+            ctaPosition="home_final"
             external
             variant="accent"
             size="large"
