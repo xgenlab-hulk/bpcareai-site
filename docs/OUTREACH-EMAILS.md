@@ -2650,3 +2650,173 @@ https://bpcareai.com
 | 65 | Beacon Hill Village | | | |
 | 66 | Village Chicago | | | |
 
+---
+
+## 🌆 伊利诺伊 / 明尼苏达 / 科罗拉多 AAA（67-70 号，4 封）
+
+---
+
+### 67 · Trellis / Metropolitan AAA（双城 · HIGH）
+
+**To:** `info@metroaging.org`
+**Subject:** `Free printable BP log — may fit your resources page`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+Your resources page already points people to outside sources like the
+Mayo Clinic and Stanford — if a practical printable fits that
+collection, you're welcome to add it.
+
+- Prints straight from the page — no signup, no email, no app
+- Morning and evening readings in the format doctors ask patients to
+  bring to appointments
+- Recording only. It never interprets readings or gives medical advice
+
+You're welcome to link it, print it for events, or hand it out through
+your programs. No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve Twin Cities seniors better — larger type,
+monthly layout, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 68 · Chicago DFSS Senior Services
+
+**To:** `Aging@CityofChicago.org`
+**Subject:** `Free printable blood pressure log for Chicago seniors`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+Your senior services page already connects residents to outside tools
+like BenefitsCheckUp — a practical printable may fit alongside, or
+work as a handout at the city's senior centers.
+
+- Prints straight from the page — no signup, no email, no app
+- Morning and evening readings in the format doctors ask patients to
+  bring to appointments
+- Recording only. It never interprets readings or gives medical advice
+
+You're welcome to link it, print it for events, or hand it out through
+your programs. No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve Chicago seniors better — larger type,
+monthly layout, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 69 · AgeOptions（芝加哥郊县）
+
+**To:** `info@ageoptions.org`
+**Subject:** `Free printable blood pressure log for suburban Cook County`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+It may be a useful handout for your programs and partner agencies
+across suburban Cook County.
+
+- Prints straight from the page — no signup, no email, no app
+- Morning and evening readings in the format doctors ask patients to
+  bring to appointments
+- Recording only. It never interprets readings or gives medical advice
+
+You're welcome to link it, print it for events, or hand it out through
+your programs. No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve suburban Cook County better — larger type,
+monthly layout, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+### 70 · DRCOG Area Agency on Aging（丹佛）
+
+**To:** `aaa-drcog@drcog.org`
+**Subject:** `Free printable blood pressure log for Denver-region seniors`
+
+```
+Hi there,
+
+We made a free printable blood pressure log designed for older adults —
+large print, high contrast, one week of morning/evening readings per
+page:
+
+https://bpcareai.com/blood-pressure-log
+
+It may be useful to your Information & Assistance team as a simple
+free thing to point callers to, or as a listing in your Network of
+Care directory.
+
+- Prints straight from the page — no signup, no email, no app
+- Morning and evening readings in the format doctors ask patients to
+  bring to appointments
+- Recording only. It never interprets readings or gives medical advice
+
+You're welcome to link it, print it for events, or hand it out through
+your programs. No attribution needed.
+
+Full disclosure: we also make a blood pressure tracking app, which the
+page mentions. The printable itself is free with no strings attached.
+
+If a different format would serve the Denver region better — larger type,
+monthly layout, or Spanish — reply and we'll make it.
+
+Warm regards,
+The BPCareAI Team
+https://bpcareai.com
+```
+
+---
+
+## IL/MN/CO 发送记录
+
+| # | 机构 | 发送日期 | 跟进日期 | 结果 |
+|---|---|---|---|---|
+| 67 | Trellis Metro AAA | | | |
+| 68 | Chicago DFSS | | | |
+| 69 | AgeOptions | | | |
+| 70 | DRCOG Denver | | | |
+

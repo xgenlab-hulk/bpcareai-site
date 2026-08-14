@@ -244,6 +244,18 @@ MEDIUM/LOW 表单：Houston-Galveston (TX)、Bucks County (PA)、Council on Agin
 
 （Marin Villages 仅表单；Mill Valley 站点不可达）
 
+## 🌆 伊利诺伊 / 明尼苏达 / 科罗拉多 AAA
+
+| 机构 | 城市 | 邮箱 | 优先级 |
+|---|---|---|---|
+| Trellis / Metropolitan AAA | 双城（metroaging.org，原 trellisconnects.org 已改名） | `info@metroaging.org` | **HIGH**（外链 mayoclinic.org、Stanford） |
+| Chicago DFSS Senior Services | 芝加哥市 | `Aging@CityofChicago.org` | MEDIUM（外链 BenefitsCheckUp） |
+| AgeOptions | 芝加哥郊县 | `info@ageoptions.org` | MEDIUM |
+| DRCOG AAA | 丹佛 | `aaa-drcog@drcog.org` | MEDIUM |
+
+（AgeGuide 混淆仅表单；Pikes Peak 的 `ppacg@ppacg.org` **来源第三方目录未核实勿用**——
+其官网员工目录甚至有自家域名拼错的邮箱，佐证不猜格式的规则）
+
 ## 🌐 其他
 
 | 机构 | 说明 | 邮箱 |
