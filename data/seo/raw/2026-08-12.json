@@ -1,78 +1,106 @@
 {
-  "date": "2026-08-11",
-  "fetchedAt": "2026-08-15T00:43:12.252Z",
+  "date": "2026-08-12",
+  "fetchedAt": "2026-08-15T00:43:12.756Z",
   "queries": [
     {
-      "query": "bp care",
+      "query": "can brisk walking reduce cholesterol",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 2
+      "position": 98
     },
     {
       "query": "site:www.bpcareai.com",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 3,
       "ctr": 0,
-      "position": 13
+      "position": 11
     }
   ],
   "pages": [
     {
-      "page": "https://bpcareai.com/",
+      "page": "https://bpcareai.com/articles/1200-mg-sodium-heart-failure-seniors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 90
+    },
+    {
+      "page": "https://bpcareai.com/articles/5-things-everyone-over-75-should-know-before-starting-a-beta-blocker-especially-with-copd-bradycardia-or-orthostatic-hypotension",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 99
+    },
+    {
+      "page": "https://bpcareai.com/articles/calcium-scan-ldl-over-200",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 92
+    },
+    {
+      "page": "https://bpcareai.com/articles/exercises-lower-cholesterol-after-50",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 98
+    },
+    {
+      "page": "https://bpcareai.com/articles/fibromuscular-dysplasia-resistant-hypertension-diagnosis",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 84
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
       "clicks": 0,
       "impressions": 2,
       "ctr": 0,
-      "position": 2
+      "position": 94
     },
     {
-      "page": "https://bpcareai.com/articles/heart-rate-variability-explained",
+      "page": "https://bpcareai.com/articles/what-causes-sudden-drop-in-egfr-after-starting-sglt2-inhibitors-in-adults-69-with-borderline-hydration-status-and-low-albumin",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 46
+      "position": 59
     },
     {
-      "page": "https://bpcareai.com/articles/low-impact-exercises-seniors-bad-hips",
+      "page": "https://bpcareai.com/articles/why-do-adults-72-with-atrial-fibrillation-often-develop-orthostatic-hypotension-and-what-that-reveals-about-autonomic-cardiac-reserve",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 85
+      "position": 70
     },
     {
       "page": "https://www.bpcareai.com/about",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 1,
       "ctr": 0,
-      "position": 1.25
+      "position": 1
     },
     {
       "page": "https://www.bpcareai.com/articles",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 2,
       "ctr": 0,
-      "position": 2
+      "position": 47.5
     },
     {
       "page": "https://www.bpcareai.com/articles/10-winter-safe-exercises-for-heart-health-after-65",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
       "position": 13
     },
     {
-      "page": "https://www.bpcareai.com/articles/12-science-backed-ways-to-prevent-post-meal-blood-sugar-spikes-during-multigenerational-gatherings",
-      "clicks": 0,
-      "impressions": 2,
-      "ctr": 0,
-      "position": 17
-    },
-    {
-      "page": "https://www.bpcareai.com/articles/7-hidden-ways-your-hearing-aid-s-bluetooth-streaming-affects-baroreceptor-sensitivity-especially-during-morning-blood-pressure-spikes-in-adults-73",
+      "page": "https://www.bpcareai.com/articles/7-silent-signs-your-diabetic-neuropathy-is-progressing-to-small-fiber-autonomic-dysfunction-especially-if-you-re-67-and-taking-gabapentin",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 9
+      "position": 93
     },
     {
       "page": "https://www.bpcareai.com/articles/apple-cider-vs-chai-for-afib",
@@ -84,7 +112,7 @@
     {
       "page": "https://www.bpcareai.com/articles/best-breakfast-foods-75-year-old-low-appetite",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
       "position": 12
     },
@@ -98,7 +126,7 @@
     {
       "page": "https://www.bpcareai.com/articles/best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
       "position": 15
     },
@@ -107,14 +135,14 @@
       "clicks": 0,
       "impressions": 2,
       "ctr": 0,
-      "position": 21
+      "position": 20.5
     },
     {
       "page": "https://www.bpcareai.com/articles/can-intermittent-fasting-worsen-autonomic-neuropathy-in-adults-71-with-long-term-type-2-diabetes-and-orthostatic-tachycardia",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
-      "position": 19
+      "position": 18
     },
     {
       "page": "https://www.bpcareai.com/articles/collard-greens-endothelial-function-comparison",
@@ -124,11 +152,25 @@
       "position": 8
     },
     {
+      "page": "https://www.bpcareai.com/articles/could-leg-swelling-be-a-sign-of-heart-trouble-after-50",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 100
+    },
+    {
       "page": "https://www.bpcareai.com/articles/does-layering-clothes-help-regulate-blood-pressure-in-cold-climates",
       "clicks": 0,
       "impressions": 2,
       "ctr": 0,
-      "position": 14
+      "position": 54.5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 88
     },
     {
       "page": "https://www.bpcareai.com/articles/exercises-seniors-short-of-breath",
@@ -138,6 +180,13 @@
       "position": 7
     },
     {
+      "page": "https://www.bpcareai.com/articles/finger-cuff-vs-wrist-ecg-afib-detection",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 82
+    },
+    {
       "page": "https://www.bpcareai.com/articles/flexibility-exercises-stiff-knees-65",
       "clicks": 0,
       "impressions": 1,
@@ -145,23 +194,37 @@
       "position": 6
     },
     {
+      "page": "https://www.bpcareai.com/articles/how-chronic-air-pollution-exposure-alters-endothelial-function-in-adults-60-living-within-1-mile-of-high-traffic-arteries",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 80
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/the-impact-of-long-term-nsaid-use-on-heart-disease-risk",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 94
+    },
+    {
       "page": "https://www.bpcareai.com/articles/the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
-      "position": 20
+      "position": 19
     },
     {
       "page": "https://www.bpcareai.com/articles/the-ultimate-guide-to-reading-holiday-candy-labels-for-adults-with-late-stage-parkinson-s-and-dysphagia",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
-      "position": 18
+      "position": 17
     },
     {
       "page": "https://www.bpcareai.com/articles/top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
       "position": 16
     },
@@ -175,37 +238,44 @@
     {
       "page": "https://www.bpcareai.com/articles/vns-vs-tart-cherry-juice-nocturnal-afib",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
       "position": 11
     },
     {
+      "page": "https://www.bpcareai.com/articles/what-are-the-earliest-ecg-signs-of-left-atrial-myopathy-before-afib-or-elevated-nt-probnp-in-adults-59-with-long-standing-hypertension-and-normal-echo",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
       "page": "https://www.bpcareai.com/articles/when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
       "position": 22
     },
     {
       "page": "https://www.bpcareai.com/contact",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 1,
       "ctr": 0,
-      "position": 2.25
+      "position": 4
     },
     {
       "page": "https://www.bpcareai.com/terms",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 1,
       "ctr": 0,
-      "position": 2.666666666666667
+      "position": 3
     }
   ],
   "summary": {
     "totalQueries": 2,
-    "totalImpressions": 6,
+    "totalImpressions": 4,
     "totalClicks": 0,
-    "avgPosition": 11.166666666666666,
-    "pagesWithImpressions": 26
+    "avgPosition": 32.75,
+    "pagesWithImpressions": 36
   }
 }
