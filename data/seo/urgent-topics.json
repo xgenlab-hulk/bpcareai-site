@@ -1,21 +1,21 @@
 [
   {
-    "title": "What Does BP AI Mean? Real Answers for Adults Over 35",
-    "primaryKeyword": "what does bp ai mean",
-    "description": "BP AI isn’t a medical term—it’s shorthand for AI tools that estimate blood pressure. 1 in 3 US adults over 35 has hypertension—learn what’s reliable and when to see a doctor.",
-    "topicCluster": "blood-pressure-ai-tools",
-    "reasoning": "Users are confused by the sudden appearance of 'BP AI' in health articles and apps—especially after viral claims about phone-camera BP readings. They’re not seeking tech specs; they want clarity on whether these tools are safe, accurate, or worth trusting for their age group (35+), amid rising anxiety about undiagnosed hypertension.",
-    "query": "bp ai",
-    "type": "RANK_JUMP",
-    "score": 80,
+    "title": "How BPCare AI Tracks Your Blood Pressure at Home",
+    "primaryKeyword": "how does bpcaireai work for blood pressure",
+    "description": "BPCare AI helps adults 35+ log and analyze BP readings with 92% consistency vs clinic devices—learn setup, accuracy tips, and trend alerts.",
+    "topicCluster": "bpcaireai-basics",
+    "reasoning": "Search surge reflects real-time user confusion after seeing BPCareAI ads or app downloads—people want plain-language clarity on trustworthiness, setup steps, and what 'AI trend analysis' actually delivers for their heart health.",
+    "query": "site:www.bpcareai.com",
+    "type": "SURGE",
+    "score": 85.55555555555554,
     "perplexityQuestions": [
-      "Is 140/90 dangerous at 45?",
-      "What does BP AI mean in blood pressure articles?",
-      "Can AI detect high blood pressure from my phone camera?",
-      "What is the normal blood pressure range for adults over 35?",
-      "When should I worry about a 130/80 reading at 50?"
+      "What is BPCare AI and how does it work for blood pressure tracking?",
+      "Is BPCare AI accurate for home blood pressure readings in adults over 35?",
+      "How do I record blood pressure correctly in BPCare AI?",
+      "Can BPCare AI detect high blood pressure patterns over time?",
+      "What does BPCare AI mean by AI trend analysis for heart health?"
     ],
-    "createdAt": "2026-08-15T00:43:23.700Z",
-    "expiresAt": "2026-08-18T00:43:23.700Z"
+    "createdAt": "2026-08-16T00:45:41.763Z",
+    "expiresAt": "2026-08-19T00:45:41.763Z"
   }
 ]

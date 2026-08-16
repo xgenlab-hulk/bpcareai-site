@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-13",
+  "period": "3-day",
+  "impressionsChange": -53.57766143106457,
+  "clicksChange": -100,
+  "newQueries": [],
+  "risingQueries": [
+    {
+      "query": "site:www.bpcareai.com",
+      "recentImpressions": 11,
+      "baselineImpressions": 18,
+      "changeRatio": 5.703703703703703
+    }
+  ],
+  "alerts": [
+    {
+      "type": "SURGE",
+      "query": "site:www.bpcareai.com",
+      "reason": "展示量激增 5.7x（近3天日均3.7 vs 基线0.6）",
+      "score": 85.55555555555554,
+      "recentImpressions": 11,
+      "baselineImpressions": 18,
+      "recentPosition": 11.909090909090908,
+      "baselinePosition": 11.555555555555555
+    }
+  ]
+}
