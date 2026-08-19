@@ -1,0 +1,30 @@
+{
+  "date": "2026-08-16",
+  "period": "3-day",
+  "impressionsChange": -36.93693693693693,
+  "clicksChange": -100,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "low impact exercises for hip pain",
+      "reason": "排名跃升 12.0 位（63.0 → 51.0）",
+      "score": 36,
+      "recentImpressions": 1,
+      "baselineImpressions": 2,
+      "recentPosition": 51,
+      "baselinePosition": 63
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "alternatives to statins for women",
+      "reason": "排名跃升 10.5 位（91.0 → 80.5）",
+      "score": 31.5,
+      "recentImpressions": 2,
+      "baselineImpressions": 7,
+      "recentPosition": 80.5,
+      "baselinePosition": 91
+    }
+  ]
+}

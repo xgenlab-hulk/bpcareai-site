@@ -1,0 +1,358 @@
+{
+  "date": "2026-08-16",
+  "fetchedAt": "2026-08-19T00:42:36.308Z",
+  "queries": [
+    {
+      "query": "alternatives to statins for women",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 81
+    },
+    {
+      "query": "alternatives to statins muscle pain",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 82
+    },
+    {
+      "query": "best statin for muscle aches",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 95
+    },
+    {
+      "query": "blood pressure what does the top number mean",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 86
+    },
+    {
+      "query": "bp care",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "can the heat lower blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 73
+    },
+    {
+      "query": "heart rate and heart rate variability",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 90
+    },
+    {
+      "query": "is heat bad for high blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 99
+    },
+    {
+      "query": "ldl cholesterol lowering exercise",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 76
+    },
+    {
+      "query": "ldl exercise",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 78
+    },
+    {
+      "query": "measure beat-tobeat interval variation",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 48
+    },
+    {
+      "query": "what are bp numbers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 96
+    },
+    {
+      "query": "which statin has least muscle side effects",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 78
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 6.25
+    },
+    {
+      "page": "https://bpcareai.com/articles",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 62
+    },
+    {
+      "page": "https://bpcareai.com/articles/best-cholesterol-meds-seniors-muscle-pain",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 85
+    },
+    {
+      "page": "https://bpcareai.com/articles/can-blood-pressure-be-too-low-in-older-adults-the-hidden-risks-of-hypotension-after-75",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 82
+    },
+    {
+      "page": "https://bpcareai.com/articles/can-you-safely-stop-ace-inhibitors-after-5-years-of-stable-bp-control-a-risk-benefit-framework-for-adults-62-76",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://bpcareai.com/articles/exercises-lower-cholesterol-after-50",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 78.66666666666667
+    },
+    {
+      "page": "https://bpcareai.com/articles/heart-rate-variability-explained",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 74
+    },
+    {
+      "page": "https://bpcareai.com/articles/holiday-travel-circadian-rhythm-af-trigger",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/home-blood-pressure-cuff-afib-algorithm-errors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "page": "https://bpcareai.com/articles/microalbumin-test-diabetes-after-35",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 58
+    },
+    {
+      "page": "https://bpcareai.com/articles/prevent-heart-disease-after-55-without-meds",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 59.333333333333336
+    },
+    {
+      "page": "https://bpcareai.com/articles/vitamin-d-left-atrial-strain-seniors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 60
+    },
+    {
+      "page": "https://bpcareai.com/articles/what-causes-sudden-loss-of-sweet-taste-perception-in-adults-69-with-well-controlled-diabetes-and-why-it-predicts-early-diabetic-autonomic-neuropathy",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 74
+    },
+    {
+      "page": "https://bpcareai.com/articles/what-causes-sudden-onset-of-nocturnal-hypoglycemia-after-starting-sglt2-inhibitors-in-adults-69-with-mild-cognitive-impairment-and-nocturia",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "page": "https://bpcareai.com/articles/why-cholesterol-spikes-hormone-therapy",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 75
+    },
+    {
+      "page": "https://www.bpcareai.com/about",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/atrial-fibrillation-vs-holiday-heart-syndrome-key-differences-everyone-should-know",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 94
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/best-cholesterol-meds-women-menopause",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 81
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/collard-greens-endothelial-function-comparison",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 22.5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/does-holiday-caffeine-from-spiced-chai-or-eggnog-really-worsen-nocturnal-myoclonus-in-seniors-with-restless-legs-syndrome",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 68.25
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/exercises-seniors-short-of-breath",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 80.5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/foods-help-constipation-older-adults",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 50
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/gratitude-walks-post-holiday-dinner",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 21
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/heart-healthy-granola-bars-truth-for-seniors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/how-indoor-humidity-below-30-triggers-endothelial-stiffness-in-adults-55-68-with-early-arterial-calcification",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7.5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/instant-oatmeal-endothelial-function-seniors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/lipoprotein-a-test-family-history",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/red-flags-your-holiday-diet-soda-habit-is-worsening-insulin-resistance-especially-if-you-re-60-with-visceral-adiposity",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 86
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/sauna-use-with-ace-inhibitors-seniors",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 4.5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/sugar-free-candies-and-gastroparesis",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/the-impact-of-long-term-nsaid-use-on-heart-disease-risk",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 95
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/understanding-blood-pressure-numbers",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 91.66666666666667
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/vns-vs-tart-cherry-juice-nocturnal-afib",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 7.5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/warning-signs-your-blood-pressure-monitor-is-giving-false-readings-especially-if-you-re-71-with-atrial-fibrillation-and-irregular-pulse",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10
+    }
+  ],
+  "summary": {
+    "totalQueries": 13,
+    "totalImpressions": 13,
+    "totalClicks": 0,
+    "avgPosition": 75.92307692307692,
+    "pagesWithImpressions": 36
+  }
+}
