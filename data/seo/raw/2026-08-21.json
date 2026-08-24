@@ -1,0 +1,78 @@
+{
+  "date": "2026-08-21",
+  "fetchedAt": "2026-08-24T00:44:30.106Z",
+  "queries": [
+    {
+      "query": "how to check the bp at home",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 94
+    },
+    {
+      "query": "what are the names of the top and bottom numbers of blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 99
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/articles/aortic-pulse-wave-velocity-reduction",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 47
+    },
+    {
+      "page": "https://bpcareai.com/articles/blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 79
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/best-cholesterol-meds-women-menopause",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 98
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/check-blood-pressure-at-home-correctly",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 94
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/eat-more-when-food-tastes-bland-after-68",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 69
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 91
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/understanding-blood-pressure-numbers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 99
+    }
+  ],
+  "summary": {
+    "totalQueries": 2,
+    "totalImpressions": 2,
+    "totalClicks": 0,
+    "avgPosition": 96.5,
+    "pagesWithImpressions": 7
+  }
+}
