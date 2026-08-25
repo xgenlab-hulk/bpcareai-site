@@ -1,0 +1,57 @@
+{
+  "date": "2026-08-22",
+  "fetchedAt": "2026-08-25T00:43:57.829Z",
+  "queries": [
+    {
+      "query": "what do the blood pressure numbers mean top and bottom",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 100
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/articles/blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 91
+    },
+    {
+      "page": "https://bpcareai.com/articles/chair-strength-training-muscle-after-75",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 88
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/check-blood-pressure-at-home-correctly",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 88
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 82
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/understanding-blood-pressure-numbers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 100
+    }
+  ],
+  "summary": {
+    "totalQueries": 1,
+    "totalImpressions": 1,
+    "totalClicks": 0,
+    "avgPosition": 100,
+    "pagesWithImpressions": 5
+  }
+}
