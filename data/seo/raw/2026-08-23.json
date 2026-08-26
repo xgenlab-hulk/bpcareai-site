@@ -1,0 +1,29 @@
+{
+  "date": "2026-08-23",
+  "fetchedAt": "2026-08-26T00:44:52.205Z",
+  "queries": [
+    {
+      "query": "bp numbers explained",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 88
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://www.bpcareai.com/articles/understanding-blood-pressure-numbers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 88
+    }
+  ],
+  "summary": {
+    "totalQueries": 1,
+    "totalImpressions": 1,
+    "totalClicks": 0,
+    "avgPosition": 88,
+    "pagesWithImpressions": 1
+  }
+}
