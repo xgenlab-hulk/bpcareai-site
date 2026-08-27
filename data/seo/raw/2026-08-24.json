@@ -1,0 +1,57 @@
+{
+  "date": "2026-08-24",
+  "fetchedAt": "2026-08-27T05:54:00.189Z",
+  "queries": [
+    {
+      "query": "blood pressure numbers explained",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 99
+    },
+    {
+      "query": "high blood pressure despite exercise",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 98
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 79
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/best-breakfast-foods-75-year-old-low-appetite",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 74
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 97.5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/understanding-blood-pressure-numbers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 99
+    }
+  ],
+  "summary": {
+    "totalQueries": 2,
+    "totalImpressions": 2,
+    "totalClicks": 0,
+    "avgPosition": 98.5,
+    "pagesWithImpressions": 4
+  }
+}
