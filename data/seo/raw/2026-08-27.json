@@ -1,0 +1,288 @@
+{
+  "date": "2026-08-27",
+  "fetchedAt": "2026-08-30T02:35:19.914Z",
+  "queries": [
+    {
+      "query": "ai bp",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 85
+    },
+    {
+      "query": "ai@bp",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 80
+    },
+    {
+      "query": "blood pressure during exercise by age",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 80
+    },
+    {
+      "query": "blood pressure second number",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 59
+    },
+    {
+      "query": "blood pressure what the numbers mean",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 45
+    },
+    {
+      "query": "bp ai",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 85
+    },
+    {
+      "query": "bp care",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 60
+    },
+    {
+      "query": "glucose test without fasting",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 86
+    },
+    {
+      "query": "site:www.bpcareai.com",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 8.5
+    },
+    {
+      "query": "what do the 2 numbers in blood pressure mean",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 97
+    },
+    {
+      "query": "what do the two numbers mean in blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 98
+    },
+    {
+      "query": "why are there 2 numbers for blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 100
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 78
+    },
+    {
+      "page": "https://bpcareai.com/articles/blood-pressure-readings-at-home-vs-doctor-s-office-why-they-differ",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 86
+    },
+    {
+      "page": "https://bpcareai.com/articles/check-blood-sugar-without-fasting",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 86
+    },
+    {
+      "page": "https://www.bpcareai.com/about",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/10-winter-safe-exercises-for-heart-health-after-65",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/7-silent-signs-of-prediabetes-you-re-likely-ignoring-after-age-55-even-with-normal-a1c",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 18
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/best-breakfast-foods-75-year-old-low-appetite",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/best-cholesterol-meds-women-menopause",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 16
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/best-portable-glucose-monitors-for-holiday-travel-in-2024-ranked-by-accuracy-in-cold-weather-battery-life-and-tsa-friendly-design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 21
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/can-intermittent-fasting-worsen-autonomic-neuropathy-in-adults-71-with-long-term-type-2-diabetes-and-orthostatic-tachycardia",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 19
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/cold-water-hand-immersion-bp-accuracy",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/collard-greens-endothelial-function-comparison",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/dry-eyes-blurred-vision-diabetes-seniors",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 54
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 62.666666666666664
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/exercises-seniors-short-of-breath",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/flexibility-exercises-stiff-knees-65",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/seed-oils-and-endothelial-oxidative-stress",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 96
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/the-truth-about-non-alcoholic-holiday-drinks-and-their-hidden-cardiac-stressors-for-adults-68-with-stage-2-hypertension",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 20
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 17
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/top-7-heart-protective-vitamins-to-take-in-winter",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 14
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/travel-glucose-monitor-seniors-offline-sync",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/understanding-blood-pressure-numbers",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 67.16666666666667
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/vns-vs-tart-cherry-juice-nocturnal-afib",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/warning-signs-your-holiday-leftovers-are-causing-subclinical-gut-dysbiosis-not-just-bloating-in-adults-70-with-long-term-ppi-use",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 22
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/when-to-worry-about-palpitations-after-midnight-mass-a-3-stage-red-flag-timeline-for-women-over-68-with-diastolic-dysfunction",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 23
+    },
+    {
+      "page": "https://www.bpcareai.com/terms",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    }
+  ],
+  "summary": {
+    "totalQueries": 12,
+    "totalImpressions": 16,
+    "totalClicks": 0,
+    "avgPosition": 61.8125,
+    "pagesWithImpressions": 27
+  }
+}
