@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-03",
+  "fetchedAt": "2026-09-06T02:02:54.565Z",
+  "queries": [
+    {
+      "query": "does air conditioning raise blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 45
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 45
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/whole-grain-cereal-endothelial-dysfunction",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    }
+  ],
+  "summary": {
+    "totalQueries": 1,
+    "totalImpressions": 1,
+    "totalClicks": 0,
+    "avgPosition": 45,
+    "pagesWithImpressions": 2
+  }
+}
