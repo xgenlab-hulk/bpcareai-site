@@ -1,0 +1,106 @@
+{
+  "date": "2026-09-04",
+  "fetchedAt": "2026-09-07T02:00:49.048Z",
+  "queries": [
+    {
+      "query": "humidity and blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 97
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://bpcareai.com/articles/high-cholesterol-vegan-runner",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-frequent-nighttime-awakenings-for-urination-nocturia-predicts-3-year-risk-of-new-onset-atrial-fibrillation-in-men-over-68-with-hypertension",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-indoor-humidity-levels-below-30-during-heated-winters-increase-coronary-vasospasm-risk-in-women-over-64-with-migraine-history",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "page": "https://bpcareai.com/articles/smart-nightlight-nocturnal-sbp-elevation",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 97
+    },
+    {
+      "page": "https://bpcareai.com/contact",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "page": "https://www.bpcareai.com/about",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/cholesterol-test-frequency-after-40-family-history",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/cold-hand-immersion-coronary-flow-reserve",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/lipoprotein-a-test-family-history",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/travel-glucose-monitor-seniors-offline-sync",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    }
+  ],
+  "summary": {
+    "totalQueries": 1,
+    "totalImpressions": 1,
+    "totalClicks": 0,
+    "avgPosition": 97,
+    "pagesWithImpressions": 12
+  }
+}
