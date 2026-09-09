@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-06",
+  "fetchedAt": "2026-09-09T02:15:49.438Z",
+  "queries": [
+    {
+      "query": "does walking increase blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 96
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/articles/humidity-blood-pressure-after-35",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 96
+    }
+  ],
+  "summary": {
+    "totalQueries": 1,
+    "totalImpressions": 1,
+    "totalClicks": 0,
+    "avgPosition": 96,
+    "pagesWithImpressions": 2
+  }
+}
