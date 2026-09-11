@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-08",
+  "fetchedAt": "2026-09-11T02:10:28.752Z",
+  "queries": [],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/articles/top-10-diabetes-friendly-snacks-for-people-over-60",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    }
+  ],
+  "summary": {
+    "totalQueries": 0,
+    "totalImpressions": 0,
+    "totalClicks": 0,
+    "avgPosition": 0,
+    "pagesWithImpressions": 1
+  }
+}
