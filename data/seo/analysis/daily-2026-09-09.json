@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-09",
+  "period": "3-day",
+  "impressionsChange": -69.39890710382514,
+  "clicksChange": 833.3333333333334,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "bp care",
+      "reason": "排名跃升 27.1 位（29.1 → 2.0）",
+      "score": 80,
+      "recentImpressions": 1,
+      "baselineImpressions": 8,
+      "recentPosition": 2,
+      "baselinePosition": 29.125
+    }
+  ]
+}

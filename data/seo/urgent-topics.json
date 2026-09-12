@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "title": "What Is Normal Blood Pressure by Age? (35+ Guide)",
+    "primaryKeyword": "normal blood pressure by age",
+    "description": "Blood pressure goals change with age—68% of adults 65+ have hypertension. Learn your target range and when to act, step-by-step.",
+    "topicCluster": "blood-pressure-basics",
+    "reasoning": "People are searching 'bp care' because rising awareness of home monitoring, new ACC/AHA guidelines, and aging baby boomers are driving urgent questions about personalized, age-specific BP targets—not just generic 'high vs low' definitions.",
+    "query": "bp care",
+    "type": "RANK_JUMP",
+    "score": 80,
+    "perplexityQuestions": [
+      "What is my blood pressure today, and is it the same as at other visits?",
+      "What should my blood pressure goal be at age 35, 45, 55, or older?",
+      "Is 140/90 dangerous at 45?",
+      "Is 135/85 considered high blood pressure for adults?",
+      "Should I be checking my blood pressure at home, and how often?"
+    ],
+    "createdAt": "2026-09-12T02:16:01.532Z",
+    "expiresAt": "2026-09-15T02:16:01.532Z"
+  }
+]
