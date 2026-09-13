@@ -1,0 +1,29 @@
+{
+  "date": "2026-09-10",
+  "fetchedAt": "2026-09-13T02:13:33.113Z",
+  "queries": [
+    {
+      "query": "ai bp",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 74
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 74
+    }
+  ],
+  "summary": {
+    "totalQueries": 1,
+    "totalImpressions": 1,
+    "totalClicks": 0,
+    "avgPosition": 74,
+    "pagesWithImpressions": 1
+  }
+}
