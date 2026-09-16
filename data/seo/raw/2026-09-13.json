@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-13",
+  "fetchedAt": "2026-09-16T02:29:43.515Z",
+  "queries": [
+    {
+      "query": "what does the second number mean on blood pressure",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 91
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://bpcareai.com/articles/10-simple-home-adjustments-to-support-blood-pressure-stability-in-winter",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "page": "https://bpcareai.com/articles/understanding-blood-pressure-numbers",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 91
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/high-ldl-normal-total-cholesterol-meaning",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    }
+  ],
+  "summary": {
+    "totalQueries": 1,
+    "totalImpressions": 2,
+    "totalClicks": 0,
+    "avgPosition": 91,
+    "pagesWithImpressions": 4
+  }
+}
