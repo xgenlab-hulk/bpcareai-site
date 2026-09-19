@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-16",
+  "fetchedAt": "2026-09-19T02:21:44.558Z",
+  "queries": [
+    {
+      "query": "blood pressure during exercise by age",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 85
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/articles/exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 85
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-chronic-inflammation-worsens-type-2-diabetes-after-50",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    }
+  ],
+  "summary": {
+    "totalQueries": 1,
+    "totalImpressions": 1,
+    "totalClicks": 0,
+    "avgPosition": 85,
+    "pagesWithImpressions": 2
+  }
+}
