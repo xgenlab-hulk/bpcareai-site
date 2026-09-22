@@ -1,0 +1,29 @@
+{
+  "date": "2026-09-19",
+  "fetchedAt": "2026-09-22T02:31:58.926Z",
+  "queries": [
+    {
+      "query": "what do blood pressure numbers mean top and bottom",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 99
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/articles/understanding-blood-pressure-numbers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 99
+    }
+  ],
+  "summary": {
+    "totalQueries": 1,
+    "totalImpressions": 1,
+    "totalClicks": 0,
+    "avgPosition": 99,
+    "pagesWithImpressions": 1
+  }
+}
