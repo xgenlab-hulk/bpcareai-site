@@ -1,21 +1,21 @@
 [
   {
-    "title": "BP Care for Adults 35+: Simple, Science-Backed Routine",
-    "primaryKeyword": "bp care for adults over 35",
-    "description": "72% of adults 35–64 don’t check BP at home regularly — learn how often to measure, what numbers to act on, and proven non-medication strategies that work.",
-    "topicCluster": "bp-care-routines",
-    "reasoning": "Rank jump signals rising anxiety about early hypertension — users aren’t searching for clinical definitions, but practical, age-specific guidance on monitoring, interpreting readings (e.g., 'Is 140/90 dangerous at 45?'), and sustainable lifestyle-based care *before* medication is needed.",
-    "query": "bp care",
+    "title": "Can AI Measure Blood Pressure Without a Cuff?",
+    "primaryKeyword": "can ai measure blood pressure without cuff",
+    "description": "New AI blood pressure tools claim cuffless readings—but only 12% of FDA-cleared devices are validated for home use in adults 35+. See what’s safe and proven.",
+    "topicCluster": "ai-blood-pressure-monitoring",
+    "reasoning": "Users are searching 'bp ai' amid viral social posts about phone-based BP apps and smartwatch claims—driven by confusion over marketing hype vs. clinical reality. Adults 35+ want trustworthy, at-home options that work *without* compromising accuracy or safety, especially with rising hypertension rates and limited access to routine care.",
+    "query": "bp ai",
     "type": "RANK_JUMP",
-    "score": 66.42857142857143,
+    "score": 80,
     "perplexityQuestions": [
-      "Is 140/90 dangerous at 45?",
-      "What blood pressure number is too high to go to the ER?",
-      "Can high blood pressure be cured without medication?",
-      "What is the best blood pressure care routine for adults over 35?",
-      "How often should I check my blood pressure at home?"
+      "What does BP AI mean for adults over 35?",
+      "Can AI accurately measure blood pressure without a cuff?",
+      "How does AI blood pressure monitoring work with a phone or wearable?",
+      "Is AI blood pressure tracking reliable for home use?",
+      "What is the difference between cuff-based and cuffless AI blood pressure devices?"
     ],
-    "createdAt": "2026-09-13T02:13:44.141Z",
-    "expiresAt": "2026-09-16T02:13:44.141Z"
+    "createdAt": "2026-09-23T02:32:21.687Z",
+    "expiresAt": "2026-09-26T02:32:21.687Z"
   }
 ]
