@@ -1,21 +1,21 @@
 [
   {
-    "title": "Can AI Measure Blood Pressure Without a Cuff?",
-    "primaryKeyword": "can ai measure blood pressure without cuff",
-    "description": "New AI blood pressure tools claim cuffless readings—but only 12% of FDA-cleared devices are validated for home use in adults 35+. See what’s safe and proven.",
-    "topicCluster": "ai-blood-pressure-monitoring",
-    "reasoning": "Users are searching 'bp ai' amid viral social posts about phone-based BP apps and smartwatch claims—driven by confusion over marketing hype vs. clinical reality. Adults 35+ want trustworthy, at-home options that work *without* compromising accuracy or safety, especially with rising hypertension rates and limited access to routine care.",
+    "title": "Is Your Blood Pressure Normal After 35?",
+    "primaryKeyword": "is my blood pressure normal after 35",
+    "description": "1 in 3 adults over 35 has high BP—but guidelines changed in 2023. Learn what numbers *actually* matter for your age and when to take action.",
+    "topicCluster": "blood-pressure-basics",
+    "reasoning": "People are searching 'bp ai' because they’re seeing AI-powered BP tools (apps, smart cuffs, chatbots) but don’t know how to interpret results—especially amid updated AHA/ACC guidelines and rising anxiety about midlife cardiovascular risk. They want plain-language clarity, not jargon, grounded in real-life readings they’re seeing at home.",
     "query": "bp ai",
     "type": "RANK_JUMP",
     "score": 80,
     "perplexityQuestions": [
-      "What does BP AI mean for adults over 35?",
-      "Can AI accurately measure blood pressure without a cuff?",
-      "How does AI blood pressure monitoring work with a phone or wearable?",
-      "Is AI blood pressure tracking reliable for home use?",
-      "What is the difference between cuff-based and cuffless AI blood pressure devices?"
+      "Is blood pressure 140/90 dangerous at 45?",
+      "What does it mean if my BP is 130/80 at 38?",
+      "When should I worry about a home blood pressure reading of 150/95?",
+      "Can stress or anxiety cause my blood pressure to spike into the 140s?",
+      "Is 120/80 still considered normal for adults over 35?"
     ],
-    "createdAt": "2026-09-23T02:32:21.687Z",
-    "expiresAt": "2026-09-26T02:32:21.687Z"
+    "createdAt": "2026-09-24T02:21:37.734Z",
+    "expiresAt": "2026-09-27T02:21:37.734Z"
   }
 ]

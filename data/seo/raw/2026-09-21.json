@@ -1,29 +1,29 @@
 {
-  "date": "2026-09-19",
-  "fetchedAt": "2026-09-24T02:21:21.681Z",
+  "date": "2026-09-21",
+  "fetchedAt": "2026-09-24T02:21:22.923Z",
   "queries": [
     {
-      "query": "what do blood pressure numbers mean top and bottom",
+      "query": "blood pressure during exercise chart",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 99
+      "position": 93
     }
   ],
   "pages": [
     {
-      "page": "https://bpcareai.com/articles/understanding-blood-pressure-numbers",
+      "page": "https://bpcareai.com/articles/exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 99
+      "position": 93
     }
   ],
   "summary": {
     "totalQueries": 1,
     "totalImpressions": 1,
     "totalClicks": 0,
-    "avgPosition": 99,
+    "avgPosition": 93,
     "pagesWithImpressions": 1
   }
 }
