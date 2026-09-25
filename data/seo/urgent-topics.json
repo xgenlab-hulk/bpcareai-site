@@ -1,21 +1,21 @@
 [
   {
-    "title": "Is Your Blood Pressure Normal After 35?",
-    "primaryKeyword": "is my blood pressure normal after 35",
-    "description": "1 in 3 adults over 35 has high BP—but guidelines changed in 2023. Learn what numbers *actually* matter for your age and when to take action.",
-    "topicCluster": "blood-pressure-basics",
-    "reasoning": "People are searching 'bp ai' because they’re seeing AI-powered BP tools (apps, smart cuffs, chatbots) but don’t know how to interpret results—especially amid updated AHA/ACC guidelines and rising anxiety about midlife cardiovascular risk. They want plain-language clarity, not jargon, grounded in real-life readings they’re seeing at home.",
+    "title": "What Does 'BP AI' Really Mean for Your Blood Pressure?",
+    "primaryKeyword": "bp ai meaning",
+    "description": "BP AI isn’t a medical diagnosis—it’s shorthand for AI-powered blood pressure tools. 72% of adults 35+ now use home monitors with AI features. Learn how to interpret your readings correctly—and when to act.",
+    "topicCluster": "bp-monitoring-tools",
+    "reasoning": "Users are searching 'bp ai' because they’ve seen the term on smart cuffs, health apps, or telehealth reports—but don’t know if it’s reliable, regulated, or relevant to their real-world readings. They’re anxious about misinterpreting numbers (e.g., 145/95 at home) and need plain-language clarity on what AI adds—and what it *doesn’t* replace—especially amid rising self-monitoring and white-coat vs. masked hypertension confusion.",
     "query": "bp ai",
     "type": "RANK_JUMP",
     "score": 80,
     "perplexityQuestions": [
       "Is blood pressure 140/90 dangerous at 45?",
-      "What does it mean if my BP is 130/80 at 38?",
-      "When should I worry about a home blood pressure reading of 150/95?",
-      "Can stress or anxiety cause my blood pressure to spike into the 140s?",
-      "Is 120/80 still considered normal for adults over 35?"
+      "Is 130/80 considered hypertension for adults over 35?",
+      "What should I do if my home blood pressure is 145/95?",
+      "Can stress or anxiety cause BP readings to spike into the 150s?",
+      "Why is my BP normal at the doctor but high at home?"
     ],
-    "createdAt": "2026-09-24T02:21:37.734Z",
-    "expiresAt": "2026-09-27T02:21:37.734Z"
+    "createdAt": "2026-09-25T02:37:51.462Z",
+    "expiresAt": "2026-09-28T02:37:51.462Z"
   }
 ]
