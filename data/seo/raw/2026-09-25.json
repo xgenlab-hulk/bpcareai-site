@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-25",
+  "fetchedAt": "2026-09-28T02:42:10.122Z",
+  "queries": [
+    {
+      "query": "ai bp",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 30
+    },
+    {
+      "query": "soft meals for elderly",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 33.5
+    },
+    {
+      "query": "what do bp numbers mean",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "what does bottom number of bp mean",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 18
+    },
+    {
+      "page": "https://bpcareai.com/articles/exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "page": "https://bpcareai.com/articles/holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 33.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/red-flags-your-holiday-diet-soda-habit-is-worsening-insulin-resistance-especially-if-you-re-60-with-visceral-adiposity",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "page": "https://bpcareai.com/articles/understanding-blood-pressure-numbers",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 5.666666666666667
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/exercises-seniors-short-of-breath",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    }
+  ],
+  "summary": {
+    "totalQueries": 4,
+    "totalImpressions": 7,
+    "totalClicks": 0,
+    "avgPosition": 25.142857142857142,
+    "pagesWithImpressions": 6
+  }
+}

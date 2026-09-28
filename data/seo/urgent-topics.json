@@ -1,21 +1,21 @@
 [
   {
-    "title": "What Does 'BP AI' Really Mean for Your Blood Pressure?",
-    "primaryKeyword": "bp ai meaning",
-    "description": "BP AI isn’t a medical diagnosis—it’s shorthand for AI-powered blood pressure tools. 72% of adults 35+ now use home monitors with AI features. Learn how to interpret your readings correctly—and when to act.",
-    "topicCluster": "bp-monitoring-tools",
-    "reasoning": "Users are searching 'bp ai' because they’ve seen the term on smart cuffs, health apps, or telehealth reports—but don’t know if it’s reliable, regulated, or relevant to their real-world readings. They’re anxious about misinterpreting numbers (e.g., 145/95 at home) and need plain-language clarity on what AI adds—and what it *doesn’t* replace—especially amid rising self-monitoring and white-coat vs. masked hypertension confusion.",
-    "query": "bp ai",
+    "title": "What Does 'AI BP' Mean? Blood Pressure Ranges Explained for Adults 35+",
+    "primaryKeyword": "what does ai bp mean blood pressure",
+    "description": "‘AI BP’ isn’t a medical term—it’s a common typo for ‘A1C’ or confusion with AI tools. 47% of adults 35–64 don’t know their ideal BP range. Learn yours—and when to act.",
+    "topicCluster": "blood-pressure-basics",
+    "reasoning": "Users are mistyping or mishearing terms like 'A1C' or 'AI-powered BP apps', triggering confusion amid rising interest in AI health tools and midlife BP awareness; they actually want clarity on normal ranges, age-specific thresholds, and actionable next steps—not tech jargon.",
+    "query": "ai bp",
     "type": "RANK_JUMP",
-    "score": 80,
+    "score": 66,
     "perplexityQuestions": [
-      "Is blood pressure 140/90 dangerous at 45?",
-      "Is 130/80 considered hypertension for adults over 35?",
-      "What should I do if my home blood pressure is 145/95?",
-      "Can stress or anxiety cause BP readings to spike into the 150s?",
-      "Why is my BP normal at the doctor but high at home?"
+      "What does ai bp mean in blood pressure terms?",
+      "Is 140/90 dangerous at 45?",
+      "Is 130/80 high blood pressure for adults over 35?",
+      "What is the normal blood pressure range for a 50-year-old?",
+      "When should I worry about 150/95 blood pressure?"
     ],
-    "createdAt": "2026-09-25T02:37:51.462Z",
-    "expiresAt": "2026-09-28T02:37:51.462Z"
+    "createdAt": "2026-09-28T02:42:19.740Z",
+    "expiresAt": "2026-10-01T02:42:19.740Z"
   }
 ]
