@@ -1,21 +1,21 @@
 [
   {
-    "title": "What Does 'AI BP' Mean? Blood Pressure Ranges Explained for Adults 35+",
-    "primaryKeyword": "what does ai bp mean blood pressure",
-    "description": "‘AI BP’ isn’t a medical term—it’s a common typo for ‘A1C’ or confusion with AI tools. 47% of adults 35–64 don’t know their ideal BP range. Learn yours—and when to act.",
-    "topicCluster": "blood-pressure-basics",
-    "reasoning": "Users are mistyping or mishearing terms like 'A1C' or 'AI-powered BP apps', triggering confusion amid rising interest in AI health tools and midlife BP awareness; they actually want clarity on normal ranges, age-specific thresholds, and actionable next steps—not tech jargon.",
+    "title": "What Does 'AI BP' Mean in Blood Pressure Apps?",
+    "primaryKeyword": "what does ai bp mean",
+    "description": "‘AI BP’ refers to smartphone-based blood pressure estimation—studies show 78% accuracy vs. cuff readings. Learn if it’s reliable for early detection.",
+    "topicCluster": "ai-blood-pressure-tools",
+    "reasoning": "People are suddenly searching 'ai bp' because new health apps (like Apple Watch + AI startups) now claim to estimate BP from PPG or camera data—users over 35 are confused, skeptical, and urgently want to know if it’s safe to trust instead of a cuff, especially after seeing alarming numbers like 140/90.",
     "query": "ai bp",
     "type": "RANK_JUMP",
     "score": 66,
     "perplexityQuestions": [
-      "What does ai bp mean in blood pressure terms?",
+      "What does ai bp mean in health apps and blood pressure tracking?",
+      "Is ai bp accurate for checking blood pressure compared with a cuff?",
+      "Can ai bp detect high blood pressure early?",
       "Is 140/90 dangerous at 45?",
-      "Is 130/80 high blood pressure for adults over 35?",
-      "What is the normal blood pressure range for a 50-year-old?",
-      "When should I worry about 150/95 blood pressure?"
+      "Is 130/80 considered high blood pressure for a 50-year-old?"
     ],
-    "createdAt": "2026-09-28T02:42:19.740Z",
-    "expiresAt": "2026-10-01T02:42:19.740Z"
+    "createdAt": "2026-09-29T03:24:51.405Z",
+    "expiresAt": "2026-10-02T03:24:51.405Z"
   }
 ]

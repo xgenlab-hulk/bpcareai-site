@@ -1,0 +1,106 @@
+{
+  "date": "2026-09-26",
+  "fetchedAt": "2026-09-29T03:24:41.646Z",
+  "queries": [
+    {
+      "query": "bp high bottom number",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "soft food for seniors with no teeth",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 20
+    },
+    {
+      "query": "soft meals for elderly",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 35.25
+    },
+    {
+      "query": "soft meals for the elderly",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 29
+    },
+    {
+      "query": "what do bp numbers mean",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/articles/7-hidden-sleep-position-risks-that-worsen-pulmonary-congestion-in-adults-73-with-hfpef-and-mild-obstructive-sleep-apnea",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://bpcareai.com/articles/best-home-blood-pressure-cuffs-for-adults-75-with-severe-arthritis-and-tremor-accuracy-fit-and-one-handed-operation-compared",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://bpcareai.com/articles/best-low-tannin-herbal-teas-for-adults-71-with-diabetic-nephropathy-and-stage-3-ckd-avoiding-potassium-and-oxalate-accumulation",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "page": "https://bpcareai.com/articles/holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 31.666666666666668
+    },
+    {
+      "page": "https://bpcareai.com/articles/low-impact-exercises-seniors-bad-hips",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "page": "https://bpcareai.com/articles/understanding-blood-pressure-numbers",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 8.666666666666668
+    },
+    {
+      "page": "https://bpcareai.com/articles/why-cholesterol-spikes-hormone-therapy",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/exercises-seniors-short-of-breath",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    }
+  ],
+  "summary": {
+    "totalQueries": 5,
+    "totalImpressions": 8,
+    "totalClicks": 0,
+    "avgPosition": 25.875,
+    "pagesWithImpressions": 8
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-26",
+  "period": "3-day",
+  "impressionsChange": 160.10928961748638,
+  "clicksChange": -100,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "ai bp",
+      "reason": "排名跃升 22.0 位（52.0 → 30.0）",
+      "score": 66,
+      "recentImpressions": 1,
+      "baselineImpressions": 2,
+      "recentPosition": 30,
+      "baselinePosition": 52
+    }
+  ]
+}
