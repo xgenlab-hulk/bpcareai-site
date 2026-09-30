@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-27",
+  "fetchedAt": "2026-09-30T03:07:35.294Z",
+  "queries": [
+    {
+      "query": "blood pressure numbers what do they mean",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 29.5
+    },
+    {
+      "query": "low sugar puddings",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 41
+    },
+    {
+      "query": "soft meals for elderly",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 33
+    },
+    {
+      "query": "what blood pressure numbers mean",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 29
+    },
+    {
+      "query": "what do the blood pressure numbers mean",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 30
+    },
+    {
+      "query": "what does the bottom number of bp mean",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "page": "https://bpcareai.com/articles/best-cholesterol-meds-seniors-muscle-pain",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://bpcareai.com/articles/best-low-tannin-herbal-teas-for-adults-71-with-diabetic-nephropathy-and-stage-3-ckd-avoiding-potassium-and-oxalate-accumulation",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "page": "https://bpcareai.com/articles/holiday-eating-on-a-soft-food-diet-ideas-for-seniors-with-dental-issues",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 33
+    },
+    {
+      "page": "https://bpcareai.com/articles/understanding-blood-pressure-numbers",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 25.2
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/best-low-sugar-desserts-for-diabetics-over-70-this-holiday-season",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 41
+    }
+  ],
+  "summary": {
+    "totalQueries": 6,
+    "totalImpressions": 7,
+    "totalClicks": 0,
+    "avgPosition": 28.571428571428573,
+    "pagesWithImpressions": 6
+  }
+}

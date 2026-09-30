@@ -1,0 +1,47 @@
+{
+  "date": "2026-09-27",
+  "period": "3-day",
+  "impressionsChange": 220.83333333333334,
+  "clicksChange": -100,
+  "newQueries": [],
+  "risingQueries": [
+    {
+      "query": "soft meals for elderly",
+      "recentImpressions": 9,
+      "baselineImpressions": 9,
+      "changeRatio": 9.333333333333332
+    }
+  ],
+  "alerts": [
+    {
+      "type": "SURGE",
+      "query": "soft meals for elderly",
+      "reason": "展示量激增 9.3x（近3天日均3.0 vs 基线0.3）",
+      "score": 100,
+      "recentImpressions": 9,
+      "baselineImpressions": 9,
+      "recentPosition": 34.22222222222222,
+      "baselinePosition": 34.22222222222222
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "what do bp numbers mean",
+      "reason": "排名跃升 30.2 位（37.7 → 7.5）",
+      "score": 80,
+      "recentImpressions": 2,
+      "baselineImpressions": 3,
+      "recentPosition": 7.5,
+      "baselinePosition": 37.666666666666664
+    },
+    {
+      "type": "RANK_JUMP",
+      "query": "ai bp",
+      "reason": "排名跃升 22.0 位（52.0 → 30.0）",
+      "score": 66,
+      "recentImpressions": 1,
+      "baselineImpressions": 2,
+      "recentPosition": 30,
+      "baselinePosition": 52
+    }
+  ]
+}
