@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-28",
+  "fetchedAt": "2026-10-01T03:13:56.705Z",
+  "queries": [
+    {
+      "query": "blood pressure bottom number 50",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "blood pressure numbers what do they mean",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 28
+    },
+    {
+      "query": "foods high in salt for low blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 93
+    },
+    {
+      "query": "what do the blood pressure numbers mean",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 28
+    },
+    {
+      "query": "what does the blood pressure numbers mean",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 29
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/articles/hidden-salt-10-surprising-foods-that-spike-blood-pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 93
+    },
+    {
+      "page": "https://bpcareai.com/articles/understanding-blood-pressure-numbers",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 23.75
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/top-6-portable-blood-glucose-meters-for-traveling-seniors-this-holiday-season",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    }
+  ],
+  "summary": {
+    "totalQueries": 5,
+    "totalImpressions": 5,
+    "totalClicks": 0,
+    "avgPosition": 37.6,
+    "pagesWithImpressions": 3
+  }
+}

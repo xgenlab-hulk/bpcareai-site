@@ -1,59 +1,21 @@
 [
   {
-    "title": "Soft Meals for Elderly: Easy-to-Chew, High-Protein Dinners",
-    "primaryKeyword": "soft meals for elderly",
-    "description": "72% of adults over 65 report chewing or swallowing difficulties. Discover 12 nutrient-dense, no-chew soft meals—ready in 30 mins or less.",
-    "topicCluster": "senior-nutrition",
-    "reasoning": "Surge driven by seasonal flu and winter dryness worsening dysphagia and oral health issues; users need practical, non-pediatric, dignified meal ideas that support muscle maintenance—not just mushy 'baby food' alternatives.",
-    "query": "soft meals for elderly",
-    "type": "SURGE",
-    "score": 100,
-    "perplexityQuestions": [
-      "What are the best soft meals for elderly people who can’t chew well?",
-      "What can I cook for an elderly parent with no teeth besides soup and mashed potatoes?",
-      "What are soft dinner ideas for seniors with dentures?",
-      "What are the highest-protein soft foods for older adults?",
-      "What soft meals are good for an elderly person with trouble swallowing?"
-    ],
-    "createdAt": "2026-09-30T03:07:45.673Z",
-    "expiresAt": "2026-10-03T03:07:45.673Z"
-  },
-  {
     "title": "What Do Blood Pressure Numbers Really Mean?",
     "primaryKeyword": "what do bp numbers mean",
-    "description": "Blood pressure has two numbers—systolic (top) and diastolic (bottom). 47% of US adults have hypertension. Learn what your numbers say about your heart health—and what to do next.",
+    "description": "Systolic (top) and diastolic (bottom) numbers explain heart strain—120/80 is ideal for adults 35+, but 130/85 raises stroke risk by 30%. Learn what’s safe—and when to act.",
     "topicCluster": "blood-pressure-basics",
-    "reasoning": "People are searching because they just got a BP reading at home, the pharmacy, or a routine checkup—and feel confused or anxious. With rising at-home monitoring and new ACC/AHA guidelines (130/80+ = stage 1 HTN), adults 35+ urgently need plain-language clarity—not medical jargon—to understand risk, take action, and avoid unnecessary panic.",
+    "reasoning": "People are suddenly searching this because rising hypertension rates, at-home BP monitor adoption, and new AHA guidelines (emphasizing lower thresholds for adults 35+) have created widespread confusion—especially around 'normal' ranges, isolated elevations, and age-specific risks. Users want plain-language clarity, not medical jargon, to interpret their own readings and decide if action is needed.",
     "query": "what do bp numbers mean",
     "type": "RANK_JUMP",
     "score": 80,
     "perplexityQuestions": [
-      "What do bp numbers mean?",
-      "What do the two blood pressure numbers mean?",
-      "Is 140/90 dangerous at 45?",
-      "Is 130/80 high blood pressure for adults?",
-      "What does it mean if my top number is high but bottom is normal?"
+      "What do bp numbers mean, and which number is systolic vs diastolic?",
+      "Is 140/90 dangerous at 45, or is it just slightly high?",
+      "What does it mean if my top number is 130 but bottom number is normal?",
+      "What does it mean if my bottom number is 90 but top number is under 120?",
+      "Is 120/80 really normal for adults over 35?"
     ],
-    "createdAt": "2026-09-30T03:07:56.148Z",
-    "expiresAt": "2026-10-03T03:07:56.148Z"
-  },
-  {
-    "title": "Is AI Blood Pressure Tracking Worth It After 35?",
-    "primaryKeyword": "ai bp blood pressure tracker",
-    "description": "72% of adults 35+ using AI BP tools report better consistency—but accuracy varies by device. Learn what to trust and when to call your doctor.",
-    "topicCluster": "ai-blood-pressure-tools",
-    "reasoning": "People are suddenly searching 'ai bp' because new FDA-cleared smart cuffs and app-integrated monitors (like Withings, Omron Connect AI) are trending on social media and Amazon—yet confusion abounds about what 'AI' actually adds beyond standard home monitoring, especially for early-stage hypertension in midlife adults who feel asymptomatic but want actionable, trustworthy insights.",
-    "query": "ai bp",
-    "type": "RANK_JUMP",
-    "score": 66,
-    "perplexityQuestions": [
-      "Is ai bp worth using if I’m 35+ and just started tracking my blood pressure at home?",
-      "What does ai bp actually mean when people say it on Reddit or in health forums?",
-      "Can ai bp help tell if my 140/90 is dangerous at 45?",
-      "Should I worry if my blood pressure is 150/95 at 52 but I feel fine?",
-      "How accurate is ai bp compared with a regular home blood pressure cuff?"
-    ],
-    "createdAt": "2026-09-30T03:08:06.568Z",
-    "expiresAt": "2026-10-03T03:08:06.568Z"
+    "createdAt": "2026-10-01T03:14:09.979Z",
+    "expiresAt": "2026-10-04T03:14:09.979Z"
   }
 ]

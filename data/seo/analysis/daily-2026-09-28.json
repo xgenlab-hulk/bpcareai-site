@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-28",
+  "period": "3-day",
+  "impressionsChange": 206.0109289617487,
+  "clicksChange": -100,
+  "newQueries": [],
+  "risingQueries": [],
+  "alerts": [
+    {
+      "type": "RANK_JUMP",
+      "query": "what do bp numbers mean",
+      "reason": "排名跃升 29.7 位（37.7 → 8.0）",
+      "score": 80,
+      "recentImpressions": 1,
+      "baselineImpressions": 3,
+      "recentPosition": 8,
+      "baselinePosition": 37.666666666666664
+    }
+  ]
+}
