@@ -1,0 +1,29 @@
+{
+  "date": "2026-09-29",
+  "fetchedAt": "2026-10-02T03:15:23.254Z",
+  "queries": [
+    {
+      "query": "what blood pressure numbers mean",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 28
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/articles/understanding-blood-pressure-numbers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 28
+    }
+  ],
+  "summary": {
+    "totalQueries": 1,
+    "totalImpressions": 1,
+    "totalClicks": 0,
+    "avgPosition": 28,
+    "pagesWithImpressions": 1
+  }
+}
