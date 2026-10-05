@@ -1,13 +1,21 @@
 {
   "date": "2026-10-01",
-  "fetchedAt": "2026-10-04T03:31:13.299Z",
+  "fetchedAt": "2026-10-05T03:10:30.520Z",
   "queries": [],
-  "pages": [],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/articles/calcium-scan-ldl-over-200",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    }
+  ],
   "summary": {
     "totalQueries": 0,
     "totalImpressions": 0,
     "totalClicks": 0,
     "avgPosition": 0,
-    "pagesWithImpressions": 0
+    "pagesWithImpressions": 1
   }
 }
