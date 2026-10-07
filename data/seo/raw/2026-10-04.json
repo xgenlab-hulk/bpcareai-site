@@ -1,29 +1,29 @@
 {
-  "date": "2026-09-29",
-  "fetchedAt": "2026-10-07T03:27:43.350Z",
+  "date": "2026-10-04",
+  "fetchedAt": "2026-10-07T03:27:45.610Z",
   "queries": [
     {
-      "query": "what blood pressure numbers mean",
+      "query": "can hot weather raise blood pressure",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 28
+      "position": 30
     }
   ],
   "pages": [
     {
-      "page": "https://bpcareai.com/articles/understanding-blood-pressure-numbers",
+      "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 28
+      "position": 30
     }
   ],
   "summary": {
     "totalQueries": 1,
     "totalImpressions": 1,
     "totalClicks": 0,
-    "avgPosition": 28,
+    "avgPosition": 30,
     "pagesWithImpressions": 1
   }
 }
