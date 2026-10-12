@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-09",
+  "fetchedAt": "2026-10-12T03:26:19.379Z",
+  "queries": [],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/articles/coronary-microvascular-reactivity-natural-support",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    }
+  ],
+  "summary": {
+    "totalQueries": 0,
+    "totalImpressions": 0,
+    "totalClicks": 0,
+    "avgPosition": 0,
+    "pagesWithImpressions": 1
+  }
+}
