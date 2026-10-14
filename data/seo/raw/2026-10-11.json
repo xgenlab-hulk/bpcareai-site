@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-11",
+  "fetchedAt": "2026-10-14T02:50:01.573Z",
+  "queries": [],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/articles/lipoprotein-a-test-family-history",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    }
+  ],
+  "summary": {
+    "totalQueries": 0,
+    "totalImpressions": 0,
+    "totalClicks": 0,
+    "avgPosition": 0,
+    "pagesWithImpressions": 1
+  }
+}
