@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-12",
+  "fetchedAt": "2026-10-15T02:29:13.887Z",
+  "queries": [],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    }
+  ],
+  "summary": {
+    "totalQueries": 0,
+    "totalImpressions": 0,
+    "totalClicks": 0,
+    "avgPosition": 0,
+    "pagesWithImpressions": 1
+  }
+}
