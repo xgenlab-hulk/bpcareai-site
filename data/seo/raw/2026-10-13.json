@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-13",
+  "fetchedAt": "2026-10-16T02:23:05.040Z",
+  "queries": [],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/articles/exercise-induced-blood-pressure-when-it-s-normal-vs-dangerous",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    }
+  ],
+  "summary": {
+    "totalQueries": 0,
+    "totalImpressions": 0,
+    "totalClicks": 0,
+    "avgPosition": 0,
+    "pagesWithImpressions": 1
+  }
+}
