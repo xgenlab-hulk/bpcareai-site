@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-18",
+  "fetchedAt": "2026-10-21T02:37:21.833Z",
+  "queries": [
+    {
+      "query": "what do the two numbers in blood pressure mean",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 98
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/articles/understanding-blood-pressure-numbers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 98
+    }
+  ],
+  "summary": {
+    "totalQueries": 1,
+    "totalImpressions": 1,
+    "totalClicks": 0,
+    "avgPosition": 98,
+    "pagesWithImpressions": 1
+  }
+}
