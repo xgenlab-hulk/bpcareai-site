@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-24",
+  "fetchedAt": "2026-10-27T03:00:20.625Z",
+  "queries": [
+    {
+      "query": "bp care",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "page": "https://bpcareai.com/articles/understanding-blood-pressure-numbers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 99
+    }
+  ],
+  "summary": {
+    "totalQueries": 1,
+    "totalImpressions": 2,
+    "totalClicks": 0,
+    "avgPosition": 1,
+    "pagesWithImpressions": 2
+  }
+}
