@@ -1,21 +1,21 @@
 [
   {
-    "title": "What Do Blood Pressure Numbers Really Mean?",
-    "primaryKeyword": "what do bp numbers mean",
-    "description": "Systolic (top) and diastolic (bottom) numbers explain heart strain—120/80 is ideal for adults 35+, but 130/85 raises stroke risk by 30%. Learn what’s safe—and when to act.",
-    "topicCluster": "blood-pressure-basics",
-    "reasoning": "People are suddenly searching this because rising hypertension rates, at-home BP monitor adoption, and new AHA guidelines (emphasizing lower thresholds for adults 35+) have created widespread confusion—especially around 'normal' ranges, isolated elevations, and age-specific risks. Users want plain-language clarity, not medical jargon, to interpret their own readings and decide if action is needed.",
-    "query": "what do bp numbers mean",
+    "title": "What Your Blood Pressure Should Be by Age (35–65+)",
+    "primaryKeyword": "what should my blood pressure be at my age",
+    "description": "Blood pressure targets change with age—72% of adults 45+ don’t know their ideal range. Learn your personalized goal and when to act.",
+    "topicCluster": "blood-pressure-by-age",
+    "reasoning": "People are searching 'bp care' because they’re newly aware of age-specific BP guidelines (e.g., ACC/AHA 2023 updates) and anxious about rising numbers after home monitoring—especially after midlife health checkups or family diagnoses. They want clarity, not jargon: simple, actionable targets tied to their actual age, plus reassurance on what’s urgent vs. manageable.",
+    "query": "bp care",
     "type": "RANK_JUMP",
     "score": 80,
     "perplexityQuestions": [
-      "What do bp numbers mean, and which number is systolic vs diastolic?",
-      "Is 140/90 dangerous at 45, or is it just slightly high?",
-      "What does it mean if my top number is 130 but bottom number is normal?",
-      "What does it mean if my bottom number is 90 but top number is under 120?",
-      "Is 120/80 really normal for adults over 35?"
+      "Is a blood pressure of 140/90 dangerous at age 45?",
+      "What should my blood pressure be at age 35, 45, 55, or 65?",
+      "How can I lower my blood pressure quickly and safely at home?",
+      "Can high blood pressure be reversed without medication?",
+      "How many days should I monitor my blood pressure at home before seeing a doctor?"
     ],
-    "createdAt": "2026-10-01T03:14:09.979Z",
-    "expiresAt": "2026-10-04T03:14:09.979Z"
+    "createdAt": "2026-10-28T03:11:29.093Z",
+    "expiresAt": "2026-10-31T03:11:29.093Z"
   }
 ]

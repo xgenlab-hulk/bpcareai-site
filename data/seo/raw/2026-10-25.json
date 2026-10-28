@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-25",
+  "fetchedAt": "2026-10-28T03:11:16.948Z",
+  "queries": [
+    {
+      "query": "bp bot",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 97
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 49
+    },
+    {
+      "page": "https://bpcareai.com/articles/blood-sugar-targets-metformin-over-35",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    }
+  ],
+  "summary": {
+    "totalQueries": 1,
+    "totalImpressions": 1,
+    "totalClicks": 0,
+    "avgPosition": 97,
+    "pagesWithImpressions": 2
+  }
+}
