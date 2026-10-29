@@ -1,21 +1,21 @@
 [
   {
-    "title": "What Your Blood Pressure Should Be by Age (35–65+)",
-    "primaryKeyword": "what should my blood pressure be at my age",
-    "description": "Blood pressure targets change with age—72% of adults 45+ don’t know their ideal range. Learn your personalized goal and when to act.",
-    "topicCluster": "blood-pressure-by-age",
-    "reasoning": "People are searching 'bp care' because they’re newly aware of age-specific BP guidelines (e.g., ACC/AHA 2023 updates) and anxious about rising numbers after home monitoring—especially after midlife health checkups or family diagnoses. They want clarity, not jargon: simple, actionable targets tied to their actual age, plus reassurance on what’s urgent vs. manageable.",
+    "title": "What Your Blood Pressure Numbers Really Mean After 35",
+    "primaryKeyword": "what is normal blood pressure for adults over 35",
+    "description": "1 in 3 U.S. adults over 35 has high blood pressure — learn what your numbers mean, when they’re dangerous, and what to do *before* symptoms appear.",
+    "topicCluster": "blood-pressure-basics",
+    "reasoning": "Users are searching 'bp care' amid rising anxiety about silent hypertension — especially after midlife health scares, routine check-ups, or family diagnoses. They don’t want medical definitions; they want plain-English clarity on thresholds, urgency cues (like 160/100), and actionable next steps — not panic, but control.",
     "query": "bp care",
     "type": "RANK_JUMP",
     "score": 80,
     "perplexityQuestions": [
       "Is a blood pressure of 140/90 dangerous at age 45?",
-      "What should my blood pressure be at age 35, 45, 55, or 65?",
-      "How can I lower my blood pressure quickly and safely at home?",
-      "Can high blood pressure be reversed without medication?",
-      "How many days should I monitor my blood pressure at home before seeing a doctor?"
+      "What should a normal blood pressure be for adults over 35?",
+      "Is 130/80 considered high blood pressure?",
+      "What should I do if my blood pressure is 160/100 but I feel fine?",
+      "When should I go to the emergency room for high blood pressure?"
     ],
-    "createdAt": "2026-10-28T03:11:29.093Z",
-    "expiresAt": "2026-10-31T03:11:29.093Z"
+    "createdAt": "2026-10-29T03:36:48.959Z",
+    "expiresAt": "2026-11-01T03:36:48.959Z"
   }
 ]
