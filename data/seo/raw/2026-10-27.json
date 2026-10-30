@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-27",
+  "fetchedAt": "2026-10-30T03:39:46.752Z",
+  "queries": [
+    {
+      "query": "bpcare",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "page": "https://bpcareai.com/articles/exercises-lower-cholesterol-after-50",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    }
+  ],
+  "summary": {
+    "totalQueries": 1,
+    "totalImpressions": 1,
+    "totalClicks": 0,
+    "avgPosition": 10,
+    "pagesWithImpressions": 2
+  }
+}
