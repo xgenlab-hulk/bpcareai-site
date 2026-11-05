@@ -1,21 +1,21 @@
 [
   {
-    "title": "What Your Blood Pressure Numbers Really Mean After 35",
-    "primaryKeyword": "what is normal blood pressure for adults over 35",
-    "description": "1 in 3 U.S. adults over 35 has high blood pressure — learn what your numbers mean, when they’re dangerous, and what to do *before* symptoms appear.",
-    "topicCluster": "blood-pressure-basics",
-    "reasoning": "Users are searching 'bp care' amid rising anxiety about silent hypertension — especially after midlife health scares, routine check-ups, or family diagnoses. They don’t want medical definitions; they want plain-English clarity on thresholds, urgency cues (like 160/100), and actionable next steps — not panic, but control.",
+    "title": "What Your Blood Pressure Should Be by Age (35–65+)",
+    "primaryKeyword": "what should my blood pressure be by age",
+    "description": "Blood pressure targets change with age—130/80 is now high for adults 40+. Learn your ideal numbers and when to act, based on AHA/ACC 2023 guidelines.",
+    "topicCluster": "blood-pressure-by-age",
+    "reasoning": "People are searching 'bp care' because they’re confused by shifting guidelines and age-specific thresholds—especially after recent AHA updates and viral social posts about 'normal' BP at 45 vs. 60. They want clear, actionable, age-tailored benchmarks—not clinical jargon—and reassurance on when to worry or seek help.",
     "query": "bp care",
     "type": "RANK_JUMP",
     "score": 80,
     "perplexityQuestions": [
-      "Is a blood pressure of 140/90 dangerous at age 45?",
-      "What should a normal blood pressure be for adults over 35?",
-      "Is 130/80 considered high blood pressure?",
-      "What should I do if my blood pressure is 160/100 but I feel fine?",
-      "When should I go to the emergency room for high blood pressure?"
+      "Is 140/90 dangerous for a 45-year-old?",
+      "What should my blood pressure be at age 35, 40, 50, or 60?",
+      "Is 130/80 considered high blood pressure for adults?",
+      "When should I go to the emergency room for high blood pressure?",
+      "How can I lower my blood pressure quickly and safely at home?"
     ],
-    "createdAt": "2026-10-29T03:36:48.959Z",
-    "expiresAt": "2026-11-01T03:36:48.959Z"
+    "createdAt": "2026-11-05T04:22:25.857Z",
+    "expiresAt": "2026-11-08T04:22:25.857Z"
   }
 ]

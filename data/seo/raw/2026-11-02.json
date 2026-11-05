@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-02",
+  "fetchedAt": "2026-11-05T04:22:14.663Z",
+  "queries": [
+    {
+      "query": "bp care",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "bpcare",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 4
+    }
+  ],
+  "summary": {
+    "totalQueries": 2,
+    "totalImpressions": 2,
+    "totalClicks": 0,
+    "avgPosition": 4,
+    "pagesWithImpressions": 1
+  }
+}
