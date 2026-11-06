@@ -1,21 +1,21 @@
 [
   {
-    "title": "What Your Blood Pressure Should Be by Age (35–65+)",
-    "primaryKeyword": "what should my blood pressure be by age",
-    "description": "Blood pressure targets change with age—130/80 is now high for adults 40+. Learn your ideal numbers and when to act, based on AHA/ACC 2023 guidelines.",
-    "topicCluster": "blood-pressure-by-age",
-    "reasoning": "People are searching 'bp care' because they’re confused by shifting guidelines and age-specific thresholds—especially after recent AHA updates and viral social posts about 'normal' BP at 45 vs. 60. They want clear, actionable, age-tailored benchmarks—not clinical jargon—and reassurance on when to worry or seek help.",
+    "title": "What Your Blood Pressure Numbers Really Mean After 35",
+    "primaryKeyword": "what should my blood pressure be at my age",
+    "description": "1 in 3 adults over 35 has high BP — learn ideal ranges by age, warning signs like 180/120, and what to do *today*. Check your numbers now.",
+    "topicCluster": "blood-pressure-basics",
+    "reasoning": "People are searching 'bp care' because they’re newly diagnosed, seeing rising numbers on home monitors, or confused by changing guidelines — especially after midlife when BP naturally climbs. They want simple, age-specific clarity (not medical jargon), immediate action steps, and reassurance about silent risks.",
     "query": "bp care",
     "type": "RANK_JUMP",
-    "score": 80,
+    "score": 67,
     "perplexityQuestions": [
       "Is 140/90 dangerous for a 45-year-old?",
       "What should my blood pressure be at age 35, 40, 50, or 60?",
-      "Is 130/80 considered high blood pressure for adults?",
-      "When should I go to the emergency room for high blood pressure?",
-      "How can I lower my blood pressure quickly and safely at home?"
+      "Is 130/80 considered high blood pressure?",
+      "What should I do if my blood pressure is suddenly 180/120?",
+      "Can high blood pressure cause symptoms, or can I have it without knowing?"
     ],
-    "createdAt": "2026-11-05T04:22:25.857Z",
-    "expiresAt": "2026-11-08T04:22:25.857Z"
+    "createdAt": "2026-11-06T04:20:00.762Z",
+    "expiresAt": "2026-11-09T04:20:00.762Z"
   }
 ]
