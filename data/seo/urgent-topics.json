@@ -1,10 +1,10 @@
 [
   {
-    "title": "What Your Blood Pressure Numbers Really Mean After 35",
-    "primaryKeyword": "what should my blood pressure be at my age",
-    "description": "1 in 3 adults over 35 has high BP — learn ideal ranges by age, warning signs like 180/120, and what to do *today*. Check your numbers now.",
+    "title": "What Your Blood Pressure Should Be After 35",
+    "primaryKeyword": "what should my blood pressure be at 40 50 60",
+    "description": "Blood pressure targets change with age—72% of adults 40+ don’t know their ideal range. Learn your personalized goal and how to measure it correctly at home.",
     "topicCluster": "blood-pressure-basics",
-    "reasoning": "People are searching 'bp care' because they’re newly diagnosed, seeing rising numbers on home monitors, or confused by changing guidelines — especially after midlife when BP naturally climbs. They want simple, age-specific clarity (not medical jargon), immediate action steps, and reassurance about silent risks.",
+    "reasoning": "People are searching 'bp care' amid rising hypertension awareness, seasonal blood pressure spikes in early fall, and new USPSTF screening guidelines—users want simple, age-specific targets and trustworthy home measurement guidance, not clinical jargon.",
     "query": "bp care",
     "type": "RANK_JUMP",
     "score": 67,
@@ -12,10 +12,10 @@
       "Is 140/90 dangerous for a 45-year-old?",
       "What should my blood pressure be at age 35, 40, 50, or 60?",
       "Is 130/80 considered high blood pressure?",
-      "What should I do if my blood pressure is suddenly 180/120?",
-      "Can high blood pressure cause symptoms, or can I have it without knowing?"
+      "How often should adults over 40 check their blood pressure?",
+      "How do I correctly measure my blood pressure at home?"
     ],
-    "createdAt": "2026-11-06T04:20:00.762Z",
-    "expiresAt": "2026-11-09T04:20:00.762Z"
+    "createdAt": "2026-11-07T03:49:59.762Z",
+    "expiresAt": "2026-11-10T03:49:59.762Z"
   }
 ]
