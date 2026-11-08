@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-05",
+  "fetchedAt": "2026-11-08T03:31:10.062Z",
+  "queries": [
+    {
+      "query": "ai bp",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 71
+    },
+    {
+      "query": "ai@bp",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 62
+    },
+    {
+      "query": "bp ai",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 69
+    },
+    {
+      "query": "bp care",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 27
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 54.166666666666664
+    }
+  ],
+  "summary": {
+    "totalQueries": 4,
+    "totalImpressions": 6,
+    "totalClicks": 0,
+    "avgPosition": 54.166666666666664,
+    "pagesWithImpressions": 1
+  }
+}
