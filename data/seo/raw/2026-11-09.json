@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-09",
+  "fetchedAt": "2026-11-12T04:59:40.785Z",
+  "queries": [
+    {
+      "query": "bp care",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "page": "https://bpcareai.com/articles/5-things-every-man-over-65-taking-testosterone-replacement-should-know-about-its-effect-on-insulin-receptor-tyrosine-kinase-activity-and-glucose-uptake-efficiency",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    }
+  ],
+  "summary": {
+    "totalQueries": 1,
+    "totalImpressions": 1,
+    "totalClicks": 1,
+    "avgPosition": 2,
+    "pagesWithImpressions": 2
+  }
+}
