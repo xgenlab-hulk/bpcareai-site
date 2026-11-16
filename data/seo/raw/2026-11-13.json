@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-13",
+  "fetchedAt": "2026-11-16T03:56:25.427Z",
+  "queries": [
+    {
+      "query": "atrial fibrillation and stomach gas",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 36
+    },
+    {
+      "query": "best statin for women",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 98
+    },
+    {
+      "query": "insulation+cardio",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/articles/10-winter-safe-exercises-for-heart-health-after-65",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-chronic-nighttime-cough-from-untreated-gerd-triggers-nocturnal-atrial-fibrillation-in-men-70-with-mild-copd",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 36
+    },
+    {
+      "page": "https://www.bpcareai.com/articles/best-cholesterol-meds-women-menopause",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 98
+    }
+  ],
+  "summary": {
+    "totalQueries": 3,
+    "totalImpressions": 3,
+    "totalClicks": 0,
+    "avgPosition": 45,
+    "pagesWithImpressions": 3
+  }
+}
