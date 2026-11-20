@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-17",
+  "fetchedAt": "2026-11-20T04:58:15.986Z",
+  "queries": [],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 19.5
+    },
+    {
+      "page": "https://bpcareai.com/articles/oxygen-concentrator-during-cardiac-rehab",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 28
+    },
+    {
+      "page": "https://bpcareai.com/articles/warning-signs-your-blood-pressure-monitor-is-giving-false-readings-especially-if-you-re-71-with-atrial-fibrillation-and-irregular-pulse",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 78
+    }
+  ],
+  "summary": {
+    "totalQueries": 0,
+    "totalImpressions": 0,
+    "totalClicks": 0,
+    "avgPosition": 0,
+    "pagesWithImpressions": 3
+  }
+}
