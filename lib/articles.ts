@@ -22,10 +22,14 @@ export interface Article extends ArticleMeta {
   content: string;
 }
 
+// 构建期间源文件固定，每个构建进程只需扫描一次文章目录。
+let buildIndex: ArticleMeta[] | undefined;
+
 /**
  * 获取所有文章的元数据，按日期倒序排列
  */
 export function getAllArticlesMeta(): ArticleMeta[] {
+  if (buildIndex) return buildIndex.slice();
   // 确保目录存在
   if (!fs.existsSync(articlesDirectory)) {
     return [];
@@ -54,13 +58,15 @@ export function getAllArticlesMeta(): ArticleMeta[] {
     });
 
   // 按日期倒序排序
-  return allArticlesData.sort((a, b) => {
+  allArticlesData.sort((a, b) => {
     if (a.date < b.date) {
       return 1;
     } else {
       return -1;
     }
   });
+  if (process.env.BPC_BUILD_ARTICLES === '1') buildIndex = allArticlesData;
+  return allArticlesData.slice();
 }
 
 /**
