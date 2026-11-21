@@ -41,3 +41,6 @@ next-env.d.ts
 # Google OAuth credentials (GSC API)
 credentials.json
 token.json
+
+# Build-generated article HTML
+/public/_article-documents/

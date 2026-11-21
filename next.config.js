@@ -5,6 +5,22 @@ const nextConfig = {
     formats: ['image/avif', 'image/webp'],
     remotePatterns: [],
   },
+  async rewrites() {
+    // 开发模式继续实时渲染；生产环境直接从 CDN 返回构建出的原版 HTML。
+    if (process.env.NODE_ENV !== 'production') return [];
+    return {
+      beforeFiles: [{
+        source: '/articles/:slug',
+        missing: [
+          { type: 'header', key: 'rsc' },
+          { type: 'header', key: 'next-action' },
+          { type: 'header', key: 'next-router-prefetch' },
+          { type: 'query', key: '_rsc' },
+        ],
+        destination: '/_article-documents/:slug.html',
+      }],
+    };
+  },
   async redirects() {
     const slugRedirects = [
         {
@@ -3863,7 +3879,11 @@ const nextConfig = {
             "permanent": true
         },
 ];
-    return slugRedirects;
+    return [...slugRedirects, {
+      source: '/_article-documents/:slug.html',
+      destination: '/articles/:slug',
+      permanent: true,
+    }];
   },
 };
 

@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && node scripts/publish-article-html.mjs",
     "start": "next start",
     "lint": "next lint",
     "build:articles-index": "tsx scripts/build-articles-index.ts",
