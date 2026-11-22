@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-19",
+  "fetchedAt": "2026-11-22T04:10:49.984Z",
+  "queries": [
+    {
+      "query": "ai@bp",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 75
+    },
+    {
+      "query": "bp ai",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 72
+    },
+    {
+      "query": "bp care",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 70
+    },
+    {
+      "query": "does air conditioning raise blood pressure",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 85.75
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 72.33333333333333
+    },
+    {
+      "page": "https://bpcareai.com/articles/10-winter-safe-exercises-for-heart-health-after-65",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 48
+    },
+    {
+      "page": "https://bpcareai.com/articles/oxygen-concentrator-during-cardiac-rehab",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 28
+    },
+    {
+      "page": "https://bpcareai.com/articles/the-hidden-dangers-of-indoor-heating-on-blood-pressure",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 85.75
+    },
+    {
+      "page": "https://bpcareai.com/articles/understanding-blood-pressure-numbers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 93
+    }
+  ],
+  "summary": {
+    "totalQueries": 4,
+    "totalImpressions": 7,
+    "totalClicks": 0,
+    "avgPosition": 80,
+    "pagesWithImpressions": 5
+  }
+}
