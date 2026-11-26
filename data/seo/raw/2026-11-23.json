@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-23",
+  "fetchedAt": "2026-11-26T06:02:52.709Z",
+  "queries": [
+    {
+      "query": "does constipation cause high blood pressure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 89
+    }
+  ],
+  "pages": [
+    {
+      "page": "https://bpcareai.com/articles/heart-rate-variability-explained",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "page": "https://bpcareai.com/articles/how-chronic-constipation-alters-vagal-tone-and-elevates-nighttime-systolic-pressure-in-adults-60-75-with-mild-orthostatic-intolerance",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 89
+    },
+    {
+      "page": "https://bpcareai.com/articles/stress-raise-blood-sugar-without-diabetes-after-40",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 11
+    }
+  ],
+  "summary": {
+    "totalQueries": 1,
+    "totalImpressions": 1,
+    "totalClicks": 0,
+    "avgPosition": 89,
+    "pagesWithImpressions": 3
+  }
+}
